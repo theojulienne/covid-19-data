@@ -14,7 +14,7 @@ The data is available raw for downloading/polling (not too often!) from this CDN
 https://theojulienne.github.io/covid-19-data/dataset.json
 ```
 
-The full dataset will be available in the `covid19_dataset` variable, which looks like the following:
+Using the JS option, the full dataset will be available in the `covid19_dataset` variable. Either way, the JSON or variable looks like the following:
 ```js
 {
   "timeseries_dates": ["2020-01-22", "2020-01-23", ..., today's date],
