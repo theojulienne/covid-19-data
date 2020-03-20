@@ -28,7 +28,11 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Add latest dataset" -a
+        if git diff --exit-code --quiet; do
+          echo "No changes."
+        else
+          git commit -m "Add latest dataset" -a
+        fi
     - name: Push changes
       uses: ad-m/github-push-action@v0.5.0
       with:
