@@ -3,31 +3,28 @@ from collections import defaultdict
 import datetime
 import json
 
-def get_population():
-    data = requests.get('https://github.com/datasets/population/raw/master/data/population.csv')
-    reader = csv.reader(data.content.decode('utf-8').splitlines())
-    header = next(reader)
-    
-    year_field = header.index('Year')
-    country_field = header.index('Country Name')
-    value_field = header.index('Value')
-
-    country_population = {}
-    for row in reader:
-        if row[year_field] != '2016': continue # latest available right now
-        country = row[country_field]
-        value = int(row[value_field])
-        country_population[country] = value
-        if country == 'United States':
-            country_population['US'] = value
-        elif country == 'Korea, Rep.':
-            country_population['Korea, South'] = value
-
-    return country_population
-
-world_population = get_population()
-
 datasets = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(dict))))
+
+country_code_to_name = json.load(open('countries.json', 'r'))
+country_name_to_code = {v: k for k, v in country_code_to_name.items()}
+
+country_name_to_code.update({
+    'Bosnia and Herzegovina': 'BIH',
+    'Holy See': 'VAT',
+    'Korea, South': 'KOR',
+    'Cruise Ship': 'Cruise Ship',
+    'Taiwan*': 'TWN',
+    'United Kingdom': 'GBR',
+    'Congo (Kinshasa)': 'COD',
+    'Congo (Brazzaville)': 'COG',
+    'Cote d\'Ivoire': 'CIV',
+    'Antigua and Barbuda': 'ATG',
+    'Trinidad and Tobago': 'TTO',
+    'Saint Lucia': 'LCA',
+    'Saint Vincent and the Grenadines': 'VCT',
+    'Gambia, The': 'GMB',
+    'Bahamas, The': 'BHS',
+})
 
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-{}.csv'.format(dataset))
@@ -49,19 +46,18 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     state_field = header.index('Province/State')
 
     for row in reader:
-        country = row[country_field]
+        country_name = row[country_field]
         state = row[state_field]
+
+        # map the country to a country code
+        country_code = country_name_to_code[country_name]
         
         timeseries = [int(p or '0') for p in row[first_date_field:]]
 
         if state == '':
-            datasets[country]['total'][dataset.lower()] = timeseries
+            datasets[country_code]['total'][dataset.lower()] = timeseries
         else:
-            datasets[country]['subseries'][state]['total'][dataset.lower()] = timeseries
-
-for country, population in world_population.items():
-    if country in datasets:
-        datasets[country]['population'] = population
+            datasets[country_code]['subseries'][state]['total'][dataset.lower()] = timeseries
 
 def subseries_total(part):
     totals = {}

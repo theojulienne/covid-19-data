@@ -53,7 +53,7 @@ Using the JS option, the full dataset will be available in the `covid19_dataset`
 
 The `populations.js(on)` files contain the populations of countries by code. The variable in the `.js` version is `covid19_dataset_populations` and it maps a country code to a population.
 
-The `countries.js(on)` files contain the names of countries by code. The variable in the `.js` version is `covid19_dataset_country_names` and it maps a country code to a country name.
+The `countries.js(on)` files contain the names of countries by code, all codes are [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) where available. The variable in the `.js` version is `covid19_dataset_country_names` and it maps a country code to a country name.
 
 You can get a simple set of X/Y data for graphing software, with an X axis of `covid19_dataset['timeseries_dates']`, and Y axis of:
  * The world: `covid19_dataset['totals']['confirmed']`

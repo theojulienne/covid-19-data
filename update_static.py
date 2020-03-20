@@ -3,6 +3,32 @@ from collections import defaultdict
 import datetime
 import json
 
+def get_iso_codes():
+    data = requests.get('https://github.com/datasets/country-codes/raw/master/data/country-codes.csv')
+    reader = csv.reader(data.content.decode('utf-8').splitlines())
+    header = next(reader)
+
+    iso_field = header.index('ISO3166-1-Alpha-3')
+    ioc_field = header.index('IOC')
+    name_field = header.index('CLDR display name')
+
+    ioc_to_iso = {}
+    iso_to_name = {}
+    for row in reader:
+        c_iso = row[iso_field]
+        c_ioc = row[ioc_field]
+        c_name = row[name_field]
+
+        ioc_to_iso[c_ioc] = c_iso
+        iso_to_name[c_iso] = c_name
+    
+    # missing from this dataset
+    iso_to_name['RKS'] = 'Kosovo'
+
+    return ioc_to_iso, iso_to_name
+
+ioc_to_iso, iso_to_name = get_iso_codes()
+
 def get_population():
     data = requests.get('https://github.com/datasets/population/raw/master/data/population.csv')
     reader = csv.reader(data.content.decode('utf-8').splitlines())
@@ -14,19 +40,21 @@ def get_population():
     value_field = header.index('Value')
 
     country_population = {}
-    country_names = {}
     for row in reader:
         if row[year_field] != '2016': continue # latest available right now
         country = row[country_field]
         value = int(row[value_field])
-        country_population[country] = value
 
-        country_name = row[country_name_field]
-        country_names[country] = country_name
+        if country not in ioc_to_iso: continue
 
-    return country_population, country_names
+        iso = ioc_to_iso[country]
 
-out_pops, out_names = get_population()
+        country_population[iso] = value
+
+    return country_population
+
+out_names = iso_to_name
+out_pops = get_population()
 
 with open('populations.json', 'w') as o:
     json.dump(out_pops, o, indent='  ')

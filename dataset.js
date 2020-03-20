@@ -1,6 +1,6 @@
 var covid19_dataset = {
   "subseries": {
-    "Thailand": {
+    "THA": {
       "total": {
         "confirmed": [
           2,
@@ -182,10 +182,9 @@ var covid19_dataset = {
           42,
           42
         ]
-      },
-      "population": 68863514
+      }
     },
-    "Japan": {
+    "JPN": {
       "total": {
         "confirmed": [
           2,
@@ -367,10 +366,9 @@ var covid19_dataset = {
           144,
           150
         ]
-      },
-      "population": 126994511
+      }
     },
-    "Singapore": {
+    "SGP": {
       "total": {
         "confirmed": [
           0,
@@ -552,10 +550,9 @@ var covid19_dataset = {
           114,
           114
         ]
-      },
-      "population": 5607283
+      }
     },
-    "Nepal": {
+    "NPL": {
       "total": {
         "confirmed": [
           0,
@@ -737,10 +734,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 28982771
+      }
     },
-    "Malaysia": {
+    "MYS": {
       "total": {
         "confirmed": [
           0,
@@ -922,10 +918,9 @@ var covid19_dataset = {
           60,
           75
         ]
-      },
-      "population": 31187265
+      }
     },
-    "Canada": {
+    "CAN": {
       "subseries": {
         "British Columbia": {
           "total": {
@@ -2952,7 +2947,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 36286425,
       "total": {
         "confirmed": [
           0,
@@ -3136,7 +3130,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Australia": {
+    "AUS": {
       "subseries": {
         "New South Wales": {
           "total": {
@@ -4795,7 +4789,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 24127159,
       "total": {
         "confirmed": [
           0,
@@ -4979,7 +4972,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Cambodia": {
+    "KHM": {
       "total": {
         "confirmed": [
           0,
@@ -5161,10 +5154,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 15762370
+      }
     },
-    "Sri Lanka": {
+    "LKA": {
       "total": {
         "confirmed": [
           0,
@@ -5346,10 +5338,9 @@ var covid19_dataset = {
           1,
           3
         ]
-      },
-      "population": 21203000
+      }
     },
-    "Germany": {
+    "DEU": {
       "total": {
         "confirmed": [
           0,
@@ -5531,10 +5522,9 @@ var covid19_dataset = {
           105,
           113
         ]
-      },
-      "population": 82667685
+      }
     },
-    "Finland": {
+    "FIN": {
       "total": {
         "confirmed": [
           0,
@@ -5716,10 +5706,9 @@ var covid19_dataset = {
           10,
           10
         ]
-      },
-      "population": 5495096
+      }
     },
-    "United Arab Emirates": {
+    "ARE": {
       "total": {
         "confirmed": [
           0,
@@ -5901,10 +5890,9 @@ var covid19_dataset = {
           26,
           31
         ]
-      },
-      "population": 9269612
+      }
     },
-    "Philippines": {
+    "PHL": {
       "total": {
         "confirmed": [
           0,
@@ -6086,10 +6074,9 @@ var covid19_dataset = {
           5,
           8
         ]
-      },
-      "population": 103320222
+      }
     },
-    "India": {
+    "IND": {
       "total": {
         "confirmed": [
           0,
@@ -6271,10 +6258,9 @@ var covid19_dataset = {
           14,
           15
         ]
-      },
-      "population": 1324171354
+      }
     },
-    "Italy": {
+    "ITA": {
       "total": {
         "confirmed": [
           0,
@@ -6456,10 +6442,9 @@ var covid19_dataset = {
           4025,
           4440
         ]
-      },
-      "population": 60600590
+      }
     },
-    "Sweden": {
+    "SWE": {
       "total": {
         "confirmed": [
           0,
@@ -6641,10 +6626,9 @@ var covid19_dataset = {
           1,
           16
         ]
-      },
-      "population": 9903122
+      }
     },
-    "Spain": {
+    "ESP": {
       "total": {
         "confirmed": [
           0,
@@ -6826,10 +6810,9 @@ var covid19_dataset = {
           1081,
           1107
         ]
-      },
-      "population": 46443959
+      }
     },
-    "Belgium": {
+    "BEL": {
       "total": {
         "confirmed": [
           0,
@@ -7011,10 +6994,9 @@ var covid19_dataset = {
           31,
           31
         ]
-      },
-      "population": 11348159
+      }
     },
-    "Egypt": {
+    "EGY": {
       "total": {
         "confirmed": [
           0,
@@ -7198,7 +7180,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Lebanon": {
+    "LBN": {
       "total": {
         "confirmed": [
           0,
@@ -7380,10 +7362,9 @@ var covid19_dataset = {
           3,
           4
         ]
-      },
-      "population": 6006668
+      }
     },
-    "Iraq": {
+    "IRQ": {
       "total": {
         "confirmed": [
           0,
@@ -7565,10 +7546,9 @@ var covid19_dataset = {
           43,
           43
         ]
-      },
-      "population": 37202572
+      }
     },
-    "Oman": {
+    "OMN": {
       "total": {
         "confirmed": [
           0,
@@ -7750,10 +7730,9 @@ var covid19_dataset = {
           12,
           12
         ]
-      },
-      "population": 4424762
+      }
     },
-    "Afghanistan": {
+    "AFG": {
       "total": {
         "confirmed": [
           0,
@@ -7935,10 +7914,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 34656032
+      }
     },
-    "Bahrain": {
+    "BHR": {
       "total": {
         "confirmed": [
           0,
@@ -8120,10 +8098,9 @@ var covid19_dataset = {
           88,
           100
         ]
-      },
-      "population": 1425171
+      }
     },
-    "Kuwait": {
+    "KWT": {
       "total": {
         "confirmed": [
           0,
@@ -8305,10 +8282,9 @@ var covid19_dataset = {
           15,
           18
         ]
-      },
-      "population": 4052584
+      }
     },
-    "Algeria": {
+    "DZA": {
       "total": {
         "confirmed": [
           0,
@@ -8490,10 +8466,9 @@ var covid19_dataset = {
           12,
           32
         ]
-      },
-      "population": 40606052
+      }
     },
-    "Croatia": {
+    "HRV": {
       "total": {
         "confirmed": [
           0,
@@ -8675,10 +8650,9 @@ var covid19_dataset = {
           4,
           5
         ]
-      },
-      "population": 4170600
+      }
     },
-    "Switzerland": {
+    "CHE": {
       "total": {
         "confirmed": [
           0,
@@ -8860,10 +8834,9 @@ var covid19_dataset = {
           15,
           15
         ]
-      },
-      "population": 8372098
+      }
     },
-    "Austria": {
+    "AUT": {
       "total": {
         "confirmed": [
           0,
@@ -9045,10 +9018,9 @@ var covid19_dataset = {
           9,
           9
         ]
-      },
-      "population": 8747358
+      }
     },
-    "Israel": {
+    "ISR": {
       "total": {
         "confirmed": [
           0,
@@ -9230,10 +9202,9 @@ var covid19_dataset = {
           11,
           11
         ]
-      },
-      "population": 8547100
+      }
     },
-    "Pakistan": {
+    "PAK": {
       "total": {
         "confirmed": [
           0,
@@ -9415,10 +9386,9 @@ var covid19_dataset = {
           2,
           13
         ]
-      },
-      "population": 193203476
+      }
     },
-    "Brazil": {
+    "BRA": {
       "total": {
         "confirmed": [
           0,
@@ -9600,10 +9570,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 207652865
+      }
     },
-    "Georgia": {
+    "GEO": {
       "total": {
         "confirmed": [
           0,
@@ -9785,10 +9754,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 3719300
+      }
     },
-    "Greece": {
+    "GRC": {
       "total": {
         "confirmed": [
           0,
@@ -9970,10 +9938,9 @@ var covid19_dataset = {
           8,
           8
         ]
-      },
-      "population": 10746740
+      }
     },
-    "North Macedonia": {
+    "MKD": {
       "total": {
         "confirmed": [
           0,
@@ -10157,7 +10124,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Norway": {
+    "NOR": {
       "total": {
         "confirmed": [
           0,
@@ -10339,10 +10306,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 5232929
+      }
     },
-    "Romania": {
+    "ROU": {
       "total": {
         "confirmed": [
           0,
@@ -10524,10 +10490,9 @@ var covid19_dataset = {
           19,
           25
         ]
-      },
-      "population": 19705301
+      }
     },
-    "Estonia": {
+    "EST": {
       "total": {
         "confirmed": [
           0,
@@ -10709,10 +10674,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 1316481
+      }
     },
-    "San Marino": {
+    "SMR": {
       "total": {
         "confirmed": [
           0,
@@ -10894,10 +10858,9 @@ var covid19_dataset = {
           4,
           4
         ]
-      },
-      "population": 33203
+      }
     },
-    "Belarus": {
+    "BLR": {
       "total": {
         "confirmed": [
           0,
@@ -11079,10 +11042,9 @@ var covid19_dataset = {
           5,
           5
         ]
-      },
-      "population": 9507120
+      }
     },
-    "Iceland": {
+    "ISL": {
       "total": {
         "confirmed": [
           0,
@@ -11264,10 +11226,9 @@ var covid19_dataset = {
           5,
           5
         ]
-      },
-      "population": 334252
+      }
     },
-    "Lithuania": {
+    "LTU": {
       "total": {
         "confirmed": [
           0,
@@ -11449,10 +11410,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 2872298
+      }
     },
-    "Mexico": {
+    "MEX": {
       "total": {
         "confirmed": [
           0,
@@ -11634,10 +11594,9 @@ var covid19_dataset = {
           4,
           4
         ]
-      },
-      "population": 127540423
+      }
     },
-    "New Zealand": {
+    "NZL": {
       "total": {
         "confirmed": [
           0,
@@ -11819,10 +11778,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4692700
+      }
     },
-    "Nigeria": {
+    "NGA": {
       "total": {
         "confirmed": [
           0,
@@ -12004,10 +11962,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 185989640
+      }
     },
-    "Ireland": {
+    "IRL": {
       "total": {
         "confirmed": [
           0,
@@ -12189,10 +12146,9 @@ var covid19_dataset = {
           5,
           5
         ]
-      },
-      "population": 4773095
+      }
     },
-    "Luxembourg": {
+    "LUX": {
       "total": {
         "confirmed": [
           0,
@@ -12374,10 +12330,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 582972
+      }
     },
-    "Monaco": {
+    "MCO": {
       "total": {
         "confirmed": [
           0,
@@ -12559,10 +12514,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 38499
+      }
     },
-    "Qatar": {
+    "QAT": {
       "total": {
         "confirmed": [
           0,
@@ -12744,10 +12698,9 @@ var covid19_dataset = {
           4,
           4
         ]
-      },
-      "population": 2569804
+      }
     },
-    "Ecuador": {
+    "ECU": {
       "total": {
         "confirmed": [
           0,
@@ -12929,10 +12882,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 16385068
+      }
     },
-    "Azerbaijan": {
+    "AZE": {
       "total": {
         "confirmed": [
           0,
@@ -13114,10 +13066,9 @@ var covid19_dataset = {
           6,
           6
         ]
-      },
-      "population": 9762274
+      }
     },
-    "Armenia": {
+    "ARM": {
       "total": {
         "confirmed": [
           0,
@@ -13299,10 +13250,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 2924816
+      }
     },
-    "Dominican Republic": {
+    "DOM": {
       "total": {
         "confirmed": [
           0,
@@ -13484,10 +13434,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 10648791
+      }
     },
-    "Indonesia": {
+    "IDN": {
       "total": {
         "confirmed": [
           0,
@@ -13669,10 +13618,9 @@ var covid19_dataset = {
           11,
           11
         ]
-      },
-      "population": 261115456
+      }
     },
-    "Portugal": {
+    "PRT": {
       "total": {
         "confirmed": [
           0,
@@ -13854,10 +13802,9 @@ var covid19_dataset = {
           3,
           3
         ]
-      },
-      "population": 10324611
+      }
     },
-    "Andorra": {
+    "AND": {
       "total": {
         "confirmed": [
           0,
@@ -14039,10 +13986,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 77281
+      }
     },
-    "Latvia": {
+    "LVA": {
       "total": {
         "confirmed": [
           0,
@@ -14224,10 +14170,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 1960424
+      }
     },
-    "Morocco": {
+    "MAR": {
       "total": {
         "confirmed": [
           0,
@@ -14409,10 +14354,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 35276786
+      }
     },
-    "Saudi Arabia": {
+    "SAU": {
       "total": {
         "confirmed": [
           0,
@@ -14594,10 +14538,9 @@ var covid19_dataset = {
           6,
           6
         ]
-      },
-      "population": 32275687
+      }
     },
-    "Senegal": {
+    "SEN": {
       "total": {
         "confirmed": [
           0,
@@ -14779,10 +14722,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 15411614
+      }
     },
-    "Argentina": {
+    "ARG": {
       "total": {
         "confirmed": [
           0,
@@ -14964,10 +14906,9 @@ var covid19_dataset = {
           3,
           3
         ]
-      },
-      "population": 43847430
+      }
     },
-    "Chile": {
+    "CHL": {
       "total": {
         "confirmed": [
           0,
@@ -15149,10 +15090,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 17909754
+      }
     },
-    "Jordan": {
+    "JOR": {
       "total": {
         "confirmed": [
           0,
@@ -15334,10 +15274,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 9455802
+      }
     },
-    "Ukraine": {
+    "UKR": {
       "total": {
         "confirmed": [
           0,
@@ -15519,10 +15458,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 45004645
+      }
     },
-    "Hungary": {
+    "HUN": {
       "total": {
         "confirmed": [
           0,
@@ -15704,10 +15642,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 9817958
+      }
     },
-    "Liechtenstein": {
+    "LIE": {
       "total": {
         "confirmed": [
           0,
@@ -15889,10 +15826,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 37666
+      }
     },
-    "Poland": {
+    "POL": {
       "total": {
         "confirmed": [
           0,
@@ -16074,10 +16010,9 @@ var covid19_dataset = {
           13,
           1
         ]
-      },
-      "population": 37948016
+      }
     },
-    "Tunisia": {
+    "TUN": {
       "total": {
         "confirmed": [
           0,
@@ -16259,10 +16194,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 11403248
+      }
     },
-    "Bosnia and Herzegovina": {
+    "BIH": {
       "total": {
         "confirmed": [
           0,
@@ -16444,10 +16378,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 3516816
+      }
     },
-    "Slovenia": {
+    "SVN": {
       "total": {
         "confirmed": [
           0,
@@ -16629,10 +16562,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 2064845
+      }
     },
-    "South Africa": {
+    "ZAF": {
       "total": {
         "confirmed": [
           0,
@@ -16814,10 +16746,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 55908865
+      }
     },
-    "Bhutan": {
+    "BTN": {
       "total": {
         "confirmed": [
           0,
@@ -16999,10 +16930,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 797765
+      }
     },
-    "Cameroon": {
+    "CMR": {
       "total": {
         "confirmed": [
           0,
@@ -17184,10 +17114,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 23439189
+      }
     },
-    "Colombia": {
+    "COL": {
       "total": {
         "confirmed": [
           0,
@@ -17369,10 +17298,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 48653419
+      }
     },
-    "Costa Rica": {
+    "CRI": {
       "total": {
         "confirmed": [
           0,
@@ -17554,10 +17482,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4857274
+      }
     },
-    "Peru": {
+    "PER": {
       "total": {
         "confirmed": [
           0,
@@ -17739,10 +17666,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 31773839
+      }
     },
-    "Serbia": {
+    "SRB": {
       "total": {
         "confirmed": [
           0,
@@ -17924,10 +17850,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 7057412
+      }
     },
-    "Slovakia": {
+    "SVK": {
       "total": {
         "confirmed": [
           0,
@@ -18111,7 +18036,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Togo": {
+    "TGO": {
       "total": {
         "confirmed": [
           0,
@@ -18293,10 +18218,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 7606374
+      }
     },
-    "Malta": {
+    "MLT": {
       "total": {
         "confirmed": [
           0,
@@ -18478,10 +18402,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 436947
+      }
     },
-    "Martinique": {
+    "MTQ": {
       "total": {
         "confirmed": [
           0,
@@ -18665,7 +18588,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Bulgaria": {
+    "BGR": {
       "total": {
         "confirmed": [
           0,
@@ -18847,10 +18770,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 7127822
+      }
     },
-    "Maldives": {
+    "MDV": {
       "total": {
         "confirmed": [
           0,
@@ -19032,10 +18954,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 417492
+      }
     },
-    "Bangladesh": {
+    "BGD": {
       "total": {
         "confirmed": [
           0,
@@ -19217,10 +19138,9 @@ var covid19_dataset = {
           3,
           3
         ]
-      },
-      "population": 162951560
+      }
     },
-    "Paraguay": {
+    "PRY": {
       "total": {
         "confirmed": [
           0,
@@ -19402,10 +19322,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 6725308
+      }
     },
-    "Albania": {
+    "ALB": {
       "total": {
         "confirmed": [
           0,
@@ -19587,10 +19506,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 2876101
+      }
     },
-    "Cyprus": {
+    "CYP": {
       "total": {
         "confirmed": [
           0,
@@ -19772,10 +19690,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1170125
+      }
     },
-    "Brunei": {
+    "BRN": {
       "total": {
         "confirmed": [
           0,
@@ -19959,7 +19876,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "US": {
+    "USA": {
       "subseries": {
         "Washington": {
           "total": {
@@ -65410,7 +65327,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 323127513,
       "total": {
         "confirmed": [
           1,
@@ -65594,7 +65510,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Burkina Faso": {
+    "BFA": {
       "total": {
         "confirmed": [
           0,
@@ -65776,10 +65692,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 18646433
+      }
     },
-    "Holy See": {
+    "VAT": {
       "total": {
         "confirmed": [
           0,
@@ -65963,7 +65878,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Mongolia": {
+    "MNG": {
       "total": {
         "confirmed": [
           0,
@@ -66145,10 +66060,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 3027398
+      }
     },
-    "Panama": {
+    "PAN": {
       "total": {
         "confirmed": [
           0,
@@ -66330,10 +66244,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4034119
+      }
     },
-    "China": {
+    "CHN": {
       "subseries": {
         "Hubei": {
           "total": {
@@ -72408,7 +72321,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 1378665000,
       "total": {
         "confirmed": [
           548,
@@ -72592,7 +72504,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Iran": {
+    "IRN": {
       "total": {
         "confirmed": [
           0,
@@ -72776,7 +72688,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Korea, South": {
+    "KOR": {
       "total": {
         "confirmed": [
           1,
@@ -72958,10 +72870,9 @@ var covid19_dataset = {
           1540,
           1540
         ]
-      },
-      "population": 51245707
+      }
     },
-    "France": {
+    "FRA": {
       "subseries": {
         "France": {
           "total": {
@@ -74620,7 +74531,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 66896109,
       "total": {
         "confirmed": [
           0,
@@ -75174,7 +75084,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Denmark": {
+    "DNK": {
       "subseries": {
         "Denmark": {
           "total": {
@@ -75729,7 +75639,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 5731118,
       "total": {
         "confirmed": [
           0,
@@ -75913,7 +75822,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Czechia": {
+    "CZE": {
       "total": {
         "confirmed": [
           0,
@@ -76097,7 +76006,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Taiwan*": {
+    "TWN": {
       "total": {
         "confirmed": [
           1,
@@ -76281,7 +76190,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Vietnam": {
+    "VNM": {
       "total": {
         "confirmed": [
           0,
@@ -76463,10 +76372,9 @@ var covid19_dataset = {
           16,
           16
         ]
-      },
-      "population": 92701100
+      }
     },
-    "Russia": {
+    "RUS": {
       "total": {
         "confirmed": [
           0,
@@ -76650,7 +76558,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Moldova": {
+    "MDA": {
       "total": {
         "confirmed": [
           0,
@@ -76832,10 +76740,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 3552000
+      }
     },
-    "Bolivia": {
+    "BOL": {
       "total": {
         "confirmed": [
           0,
@@ -77017,10 +76924,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 10887882
+      }
     },
-    "Honduras": {
+    "HND": {
       "total": {
         "confirmed": [
           0,
@@ -77202,10 +77108,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 9112867
+      }
     },
-    "United Kingdom": {
+    "GBR": {
       "subseries": {
         "Channel Islands": {
           "total": {
@@ -78312,7 +78217,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 65637239,
       "total": {
         "confirmed": [
           0,
@@ -78496,7 +78400,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Congo (Kinshasa)": {
+    "COD": {
       "total": {
         "confirmed": [
           0,
@@ -78680,7 +78584,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Cote d'Ivoire": {
+    "CIV": {
       "total": {
         "confirmed": [
           0,
@@ -78862,10 +78766,9 @@ var covid19_dataset = {
           1,
           1
         ]
-      },
-      "population": 23695919
+      }
     },
-    "Jamaica": {
+    "JAM": {
       "total": {
         "confirmed": [
           0,
@@ -79047,10 +78950,9 @@ var covid19_dataset = {
           2,
           2
         ]
-      },
-      "population": 2881355
+      }
     },
-    "Turkey": {
+    "TUR": {
       "total": {
         "confirmed": [
           0,
@@ -79232,10 +79134,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 79512426
+      }
     },
-    "Cuba": {
+    "CUB": {
       "total": {
         "confirmed": [
           0,
@@ -79417,10 +79318,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 11475982
+      }
     },
-    "Guyana": {
+    "GUY": {
       "total": {
         "confirmed": [
           0,
@@ -79602,10 +79502,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 773303
+      }
     },
-    "Kazakhstan": {
+    "KAZ": {
       "total": {
         "confirmed": [
           0,
@@ -79787,10 +79686,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 17797032
+      }
     },
-    "Ethiopia": {
+    "ETH": {
       "total": {
         "confirmed": [
           0,
@@ -79972,10 +79870,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 102403196
+      }
     },
-    "Sudan": {
+    "SDN": {
       "total": {
         "confirmed": [
           0,
@@ -80157,10 +80054,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 39578828
+      }
     },
-    "Guinea": {
+    "GIN": {
       "total": {
         "confirmed": [
           0,
@@ -80342,10 +80238,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 12395924
+      }
     },
-    "Kenya": {
+    "KEN": {
       "total": {
         "confirmed": [
           0,
@@ -80527,10 +80422,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 48461567
+      }
     },
-    "Antigua and Barbuda": {
+    "ATG": {
       "total": {
         "confirmed": [
           0,
@@ -80712,10 +80606,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 100963
+      }
     },
-    "Uruguay": {
+    "URY": {
       "total": {
         "confirmed": [
           0,
@@ -80897,10 +80790,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 3444006
+      }
     },
-    "Ghana": {
+    "GHA": {
       "total": {
         "confirmed": [
           0,
@@ -81082,10 +80974,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 28206728
+      }
     },
-    "Namibia": {
+    "NAM": {
       "total": {
         "confirmed": [
           0,
@@ -81267,10 +81158,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 2479713
+      }
     },
-    "Seychelles": {
+    "SYC": {
       "total": {
         "confirmed": [
           0,
@@ -81452,10 +81342,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 94677
+      }
     },
-    "Trinidad and Tobago": {
+    "TTO": {
       "total": {
         "confirmed": [
           0,
@@ -81637,10 +81526,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1364962
+      }
     },
-    "Venezuela": {
+    "VEN": {
       "total": {
         "confirmed": [
           0,
@@ -81824,7 +81712,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Eswatini": {
+    "SWZ": {
       "total": {
         "confirmed": [
           0,
@@ -82008,7 +81896,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Gabon": {
+    "GAB": {
       "total": {
         "confirmed": [
           0,
@@ -82190,10 +82078,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1979786
+      }
     },
-    "Guatemala": {
+    "GTM": {
       "total": {
         "confirmed": [
           0,
@@ -82375,10 +82262,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 16582469
+      }
     },
-    "Mauritania": {
+    "MRT": {
       "total": {
         "confirmed": [
           0,
@@ -82560,10 +82446,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4301018
+      }
     },
-    "Rwanda": {
+    "RWA": {
       "total": {
         "confirmed": [
           0,
@@ -82745,10 +82630,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 11917508
+      }
     },
-    "Saint Lucia": {
+    "LCA": {
       "total": {
         "confirmed": [
           0,
@@ -82932,7 +82816,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Saint Vincent and the Grenadines": {
+    "VCT": {
       "total": {
         "confirmed": [
           0,
@@ -83116,7 +83000,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Suriname": {
+    "SUR": {
       "total": {
         "confirmed": [
           0,
@@ -83298,10 +83182,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 558368
+      }
     },
-    "Kosovo": {
+    "RKS": {
       "total": {
         "confirmed": [
           0,
@@ -83483,10 +83366,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1816200
+      }
     },
-    "Central African Republic": {
+    "CAF": {
       "total": {
         "confirmed": [
           0,
@@ -83668,10 +83550,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4594621
+      }
     },
-    "Congo (Brazzaville)": {
+    "COG": {
       "total": {
         "confirmed": [
           0,
@@ -83855,7 +83736,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Equatorial Guinea": {
+    "GNQ": {
       "total": {
         "confirmed": [
           0,
@@ -84037,10 +83918,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1221490
+      }
     },
-    "Uzbekistan": {
+    "UZB": {
       "total": {
         "confirmed": [
           0,
@@ -84222,10 +84102,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 31848200
+      }
     },
-    "Netherlands": {
+    "NLD": {
       "subseries": {
         "Netherlands": {
           "total": {
@@ -84780,7 +84659,6 @@ var covid19_dataset = {
           }
         }
       },
-      "population": 17018408,
       "total": {
         "confirmed": [
           0,
@@ -84964,7 +84842,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Benin": {
+    "BEN": {
       "total": {
         "confirmed": [
           0,
@@ -85146,10 +85024,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 10872298
+      }
     },
-    "Liberia": {
+    "LBR": {
       "total": {
         "confirmed": [
           0,
@@ -85331,10 +85208,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 4613823
+      }
     },
-    "Somalia": {
+    "SOM": {
       "total": {
         "confirmed": [
           0,
@@ -85516,10 +85392,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 14317996
+      }
     },
-    "Tanzania": {
+    "TZA": {
       "total": {
         "confirmed": [
           0,
@@ -85701,10 +85576,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 55572201
+      }
     },
-    "Barbados": {
+    "BRB": {
       "total": {
         "confirmed": [
           0,
@@ -85886,10 +85760,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 284996
+      }
     },
-    "Montenegro": {
+    "MNE": {
       "total": {
         "confirmed": [
           0,
@@ -86071,10 +85944,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 622781
+      }
     },
-    "Kyrgyzstan": {
+    "KGZ": {
       "total": {
         "confirmed": [
           0,
@@ -86258,7 +86130,7 @@ var covid19_dataset = {
         ]
       }
     },
-    "Mauritius": {
+    "MUS": {
       "total": {
         "confirmed": [
           0,
@@ -86440,10 +86312,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 1263473
+      }
     },
-    "Zambia": {
+    "ZMB": {
       "total": {
         "confirmed": [
           0,
@@ -86625,10 +86496,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 16591390
+      }
     },
-    "Djibouti": {
+    "DJI": {
       "total": {
         "confirmed": [
           0,
@@ -86810,10 +86680,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 942333
+      }
     },
-    "Gambia, The": {
+    "GMB": {
       "total": {
         "confirmed": [
           0,
@@ -86995,10 +86864,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 2038501
+      }
     },
-    "Bahamas, The": {
+    "BHS": {
       "total": {
         "confirmed": [
           0,
@@ -87180,10 +87048,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 391232
+      }
     },
-    "Chad": {
+    "TCD": {
       "total": {
         "confirmed": [
           0,
@@ -87365,10 +87232,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 14452543
+      }
     },
-    "El Salvador": {
+    "SLV": {
       "total": {
         "confirmed": [
           0,
@@ -87550,10 +87416,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 6344722
+      }
     },
-    "Fiji": {
+    "FJI": {
       "total": {
         "confirmed": [
           0,
@@ -87735,10 +87600,9 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 898760
+      }
     },
-    "Nicaragua": {
+    "NIC": {
       "total": {
         "confirmed": [
           0,
@@ -87920,8 +87784,7 @@ var covid19_dataset = {
           0,
           0
         ]
-      },
-      "population": 6149928
+      }
     }
   },
   "timeseries_dates": [
