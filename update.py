@@ -96,3 +96,29 @@ if not os.path.exists('by_country'):
 
 for country_iso, dataset in out['subseries'].items():
     write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), dataset)
+
+## make a top 10 countries file
+
+country_totals = []
+
+for country_iso, dataset in out['subseries'].items():
+    latest_confirmed = dataset['total']['confirmed'][-1]
+
+    country_totals.append((latest_confirmed, country_iso))
+
+country_totals.sort()
+country_totals.reverse()
+
+top_10_subseries = {}
+
+for _, country_iso in country_totals[:10]:
+    top_10_subseries[country_iso] = {
+        'total': out['subseries'][country_iso]['total'], # we won't copy the subseries
+    }
+
+top_10_dataset = {
+    'subseries': top_10_subseries,
+    'timeseries_dates': dates,
+}
+
+write_dataset('dataset_top10', 'covid19_dataset_top10', top_10_dataset)
