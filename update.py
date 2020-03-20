@@ -81,13 +81,15 @@ for key, country_data in out['subseries'].items():
     out['subseries'][key]['total'] = subseries_total(country_data)
 out['total'] = subseries_total(out)
 
-def write_dataset(filename, dataset_name, dataset):
+def write_dataset(filename, dataset_name, dataset, cb_json={}):
     with open(filename + '.json', 'w') as o:
         json.dump(dataset, o, indent='  ')
 
     with open(filename + '.js', 'w') as o:
-        o.write('var ' + dataset_name + ' = ')
+        o.write('var {} = '.format(dataset_name))
         json.dump(dataset, o, indent='  ')
+        o.write(';\n')
+        o.write('if (covid19_dataset_callback) covid19_dataset_callback(\'{}\', {}, {});\n'.format(dataset_name, dataset_name, json.dumps(cb_json)))
 
 write_dataset('dataset', 'covid19_dataset', out)
 
@@ -95,7 +97,7 @@ if not os.path.exists('by_country'):
     os.makedirs('by_country')
 
 for country_iso, dataset in out['subseries'].items():
-    write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), dataset)
+    write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), dataset, {'country_iso': country_iso})
 
 ## make a top 10 countries file
 

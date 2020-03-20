@@ -1839,4 +1839,5 @@ var covid19_dataset_country_fra = {
       12
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_fra', covid19_dataset_country_fra, {"country_iso": "FRA"});

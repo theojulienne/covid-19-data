@@ -181,4 +181,5 @@ var covid19_dataset_country_tur = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_tur', covid19_dataset_country_tur, {"country_iso": "TUR"});

@@ -181,4 +181,5 @@ var covid19_dataset_country_vat = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_vat', covid19_dataset_country_vat, {"country_iso": "VAT"});

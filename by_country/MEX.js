@@ -181,4 +181,5 @@ var covid19_dataset_country_mex = {
       4
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_mex', covid19_dataset_country_mex, {"country_iso": "MEX"});

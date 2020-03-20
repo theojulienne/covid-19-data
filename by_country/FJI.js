@@ -181,4 +181,5 @@ var covid19_dataset_country_fji = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_fji', covid19_dataset_country_fji, {"country_iso": "FJI"});

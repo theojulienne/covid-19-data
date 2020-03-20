@@ -1839,4 +1839,5 @@ var covid19_dataset_country_aus = {
       26
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_aus', covid19_dataset_country_aus, {"country_iso": "AUS"});

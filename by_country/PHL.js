@@ -181,4 +181,5 @@ var covid19_dataset_country_phl = {
       8
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_phl', covid19_dataset_country_phl, {"country_iso": "PHL"});

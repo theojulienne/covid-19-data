@@ -181,4 +181,5 @@ var covid19_dataset_country_rus = {
       9
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_rus', covid19_dataset_country_rus, {"country_iso": "RUS"});

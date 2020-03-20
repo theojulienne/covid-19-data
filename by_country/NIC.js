@@ -181,4 +181,5 @@ var covid19_dataset_country_nic = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_nic', covid19_dataset_country_nic, {"country_iso": "NIC"});

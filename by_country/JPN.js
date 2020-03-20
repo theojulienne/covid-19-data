@@ -181,4 +181,5 @@ var covid19_dataset_country_jpn = {
       150
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_jpn', covid19_dataset_country_jpn, {"country_iso": "JPN"});

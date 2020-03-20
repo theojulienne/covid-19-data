@@ -181,4 +181,5 @@ var covid19_dataset_country_nzl = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_nzl', covid19_dataset_country_nzl, {"country_iso": "NZL"});

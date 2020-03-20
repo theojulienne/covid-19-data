@@ -181,4 +181,5 @@ var covid19_dataset_country_ben = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_ben', covid19_dataset_country_ben, {"country_iso": "BEN"});

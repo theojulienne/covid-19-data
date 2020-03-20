@@ -181,4 +181,5 @@ var covid19_dataset_country_dji = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_dji', covid19_dataset_country_dji, {"country_iso": "DJI"});

@@ -1901,4 +1901,5 @@ var covid19_dataset_top10 = {
     "2020-03-18",
     "2020-03-19"
   ]
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});

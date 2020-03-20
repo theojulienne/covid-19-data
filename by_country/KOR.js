@@ -181,4 +181,5 @@ var covid19_dataset_country_kor = {
       1540
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_kor', covid19_dataset_country_kor, {"country_iso": "KOR"});

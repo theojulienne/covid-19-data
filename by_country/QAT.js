@@ -181,4 +181,5 @@ var covid19_dataset_country_qat = {
       4
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_qat', covid19_dataset_country_qat, {"country_iso": "QAT"});

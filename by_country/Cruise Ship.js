@@ -367,4 +367,5 @@ var covid19_dataset_country_cruise ship = {
       325
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_cruise ship', covid19_dataset_country_cruise ship, {"country_iso": "Cruise Ship"});

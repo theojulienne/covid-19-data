@@ -181,4 +181,5 @@ var covid19_dataset_country_egy = {
       32
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_egy', covid19_dataset_country_egy, {"country_iso": "EGY"});

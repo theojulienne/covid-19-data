@@ -181,4 +181,5 @@ var covid19_dataset_country_cze = {
       3
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_cze', covid19_dataset_country_cze, {"country_iso": "CZE"});

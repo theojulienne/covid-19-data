@@ -181,4 +181,5 @@ var covid19_dataset_country_tun = {
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_tun', covid19_dataset_country_tun, {"country_iso": "TUN"});

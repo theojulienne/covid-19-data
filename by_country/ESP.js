@@ -181,4 +181,5 @@ var covid19_dataset_country_esp = {
       1107
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_esp', covid19_dataset_country_esp, {"country_iso": "ESP"});
