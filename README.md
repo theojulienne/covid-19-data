@@ -5,7 +5,7 @@ The timeseries datasets from https://github.com/CSSEGISandData/COVID-19 converte
 ## Usage
 
 Please use this URL to reference files here, since it's CDN fronted:
-```
+```html
 <script src="https://theojulienne.github.io/covid-19-data/dataset.js"></script>
 ```
 
