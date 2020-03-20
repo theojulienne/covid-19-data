@@ -2,6 +2,7 @@ import requests, csv
 from collections import defaultdict
 import datetime
 import json
+import os
 
 datasets = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(dict))))
 
@@ -80,9 +81,18 @@ for key, country_data in out['subseries'].items():
     out['subseries'][key]['total'] = subseries_total(country_data)
 out['total'] = subseries_total(out)
 
-with open('dataset.json', 'w') as o:
-    json.dump(out, o, indent='  ')
+def write_dataset(filename, dataset_name, dataset):
+    with open(filename + '.json', 'w') as o:
+        json.dump(dataset, o, indent='  ')
 
-with open('dataset.js', 'w') as o:
-    o.write('var covid19_dataset = ')
-    json.dump(out, o, indent='  ')
+    with open(filename + '.js', 'w') as o:
+        o.write('var ' + dataset_name + ' = ')
+        json.dump(dataset, o, indent='  ')
+
+write_dataset('dataset', 'covid19_dataset', out)
+
+if not os.path.exists('by_country'):
+    os.makedirs('by_country')
+
+for country_iso, dataset in out['subseries'].items():
+    write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), dataset)
