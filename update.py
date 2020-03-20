@@ -122,3 +122,10 @@ top_10_dataset = {
 }
 
 write_dataset('dataset_top10', 'covid19_dataset_top10', top_10_dataset)
+
+# world totals (no subseries)
+world_summary = {
+    'total': out['total'],
+    'timeseries_dates': dates,
+}
+write_dataset('dataset_world_totals', 'covid19_dataset_world_totals', world_summary)
