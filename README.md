@@ -4,14 +4,18 @@ The timeseries datasets from https://github.com/CSSEGISandData/COVID-19 converte
 
 ## Usage
 
-Please use this URL to reference files here, since it's CDN fronted:
+Please use these URLs to reference files here, since it's CDN fronted:
 ```html
 <script src="https://theojulienne.github.io/covid-19-data/dataset.js"></script>
+<script src="https://theojulienne.github.io/covid-19-data/populations.js"></script>
+<script src="https://theojulienne.github.io/covid-19-data/countries.js"></script>
 ```
 
-The data is available raw for downloading/polling (not too often!) from this CDN fronted URL:
+The data is available raw for downloading/polling (not too often!) from this CDN fronted URLs:
 ```
 https://theojulienne.github.io/covid-19-data/dataset.json
+https://theojulienne.github.io/covid-19-data/populations.json
+https://theojulienne.github.io/covid-19-data/countries.json
 ```
 
 Using the JS option, the full dataset will be available in the `covid19_dataset` variable. Either way, the JSON or variable looks like the following:
@@ -24,7 +28,7 @@ Using the JS option, the full dataset will be available in the `covid19_dataset`
     "recovered": [1, 2, 3, 4, ...],
   },
   "subseries": {
-    "Australia": {
+    "AUS": {
       "population": 24127159, # approximate, and only for some countries right now
       "total": {
         "confirmed": [1, 2, 3, 4, ...],
@@ -47,7 +51,11 @@ Using the JS option, the full dataset will be available in the `covid19_dataset`
 }
 ```
 
+The `populations.js(on)` files contain the populations of countries by code. The variable in the `.js` version is `covid19_dataset_populations` and it maps a country code to a population.
+
+The `countries.js(on)` files contain the names of countries by code. The variable in the `.js` version is `covid19_dataset_country_names` and it maps a country code to a country name.
+
 You can get a simple set of X/Y data for graphing software, with an X axis of `covid19_dataset['timeseries_dates']`, and Y axis of:
  * The world: `covid19_dataset['totals']['confirmed']`
- * A country: `covid19_dataset['subseries'][COUNTRY_NAME]['totals']['confirmed']`
- * A state/province: `covid19_dataset['subseries'][COUNTRY_NAME]['subseries'][STATE_NAME]['totals']['confirmed']`
+ * A country: `covid19_dataset['subseries'][COUNTRY_CODE]['totals']['confirmed']`
+ * A state/province: `covid19_dataset['subseries'][COUNTRY_CODE]['subseries'][STATE_NAME]['totals']['confirmed']`
