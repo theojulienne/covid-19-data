@@ -28,6 +28,66 @@ country_name_to_code.update({
     'Cabo Verde': 'CPV',
 })
 
+us_states_to_codes = {
+    "Alabama": "AL",
+    "Alaska": "AK",
+    "Arizona": "AZ",
+    "Arkansas": "AR",
+    "California": "CA",
+    "Colorado": "CO",
+    "Connecticut": "CT",
+    "Delaware": "DE",
+    "District of Columbia": "DC",
+    "Florida": "FL",
+    "Georgia": "GA",
+    "Hawaii": "HI",
+    "Idaho": "ID",
+    "Illinois": "IL",
+    "Indiana": "IN",
+    "Iowa": "IA",
+    "Kansas": "KS",
+    "Kentucky": "KY",
+    "Louisiana": "LA",
+    "Maine": "ME",
+    "Montana": "MT",
+    "Nebraska": "NE",
+    "Nevada": "NV",
+    "New Hampshire": "NH",
+    "New Jersey": "NJ",
+    "New Mexico": "NM",
+    "New York": "NY",
+    "North Carolina": "NC",
+    "North Dakota": "ND",
+    "Ohio": "OH",
+    "Oklahoma": "OK",
+    "Oregon": "OR",
+    "Maryland": "MD",
+    "Massachusetts": "MA",
+    "Michigan": "MI",
+    "Minnesota": "MN",
+    "Mississippi": "MS",
+    "Missouri": "MO",
+    "Pennsylvania": "PA",
+    "Rhode Island": "RI",
+    "South Carolina": "SC",
+    "South Dakota": "SD",
+    "Tennessee": "TN",
+    "Texas": "TX",
+    "Utah": "UT",
+    "Vermont": "VT",
+    "Virginia": "VA",
+    "Washington": "WA",
+    "West Virginia": "WV",
+    "Wisconsin": "WI",
+    "Wyoming": "WY",
+
+    'Diamond Princess': 'Diamond Princess',
+    'Grand Princess': 'Grand Princess',
+    'Puerto Rico': 'Puerto Rico',
+    'Guam': 'Guam',
+    'Virgin Islands': 'Virgin Islands',
+}
+
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-{}.csv'.format(dataset))
     reader = csv.reader(data.content.decode('utf-8').splitlines())
@@ -53,6 +113,14 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
 
         # map the country to a country code
         country_code = country_name_to_code[country_name]
+
+        if country_code == 'USA':
+            # in the US, we need some special cases.
+            # if we have city/county + state, exclude this for now. we could later include it as a subseries (otherwise we double count)
+            if ', ' in state: continue
+
+            # states must map to our list (and become codes)
+            state = us_states_to_codes[state]
         
         timeseries = [int(p or '0') for p in row[first_date_field:]]
 
