@@ -25,6 +25,7 @@ country_name_to_code.update({
     'Saint Vincent and the Grenadines': 'VCT',
     'Gambia, The': 'GMB',
     'Bahamas, The': 'BHS',
+    'Cabo Verde': 'CPV',
 })
 
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
