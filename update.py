@@ -98,7 +98,11 @@ if not os.path.exists('by_country'):
     os.makedirs('by_country')
 
 for country_iso, dataset in out['subseries'].items():
-    write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), dataset, {'country_iso': country_iso})
+    sub_dataset = {
+        'timeseries_dates': dates,
+    }
+    sub_dataset.update(dataset)
+    write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), sub_dataset, {'country_iso': country_iso})
 
 ## make a top 10 countries file
 
