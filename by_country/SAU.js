@@ -58,9 +58,11 @@ var covid19_dataset_country_sau = {
       118,
       171,
       171,
-      274
+      274,
+      344
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -178,7 +180,8 @@ var covid19_dataset_country_sau = {
       2,
       6,
       6,
-      6
+      6,
+      8
     ]
   }
 };

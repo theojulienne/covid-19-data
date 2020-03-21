@@ -58,7 +58,8 @@ var covid19_dataset_world_totals = {
       181527,
       197142,
       214910,
-      242708
+      242708,
+      272166
     ],
     "deaths": [
       17,
@@ -118,7 +119,8 @@ var covid19_dataset_world_totals = {
       7126,
       7905,
       8733,
-      9867
+      9867,
+      11299
     ],
     "recovered": [
       28,
@@ -178,7 +180,8 @@ var covid19_dataset_world_totals = {
       78088,
       80840,
       83207,
-      84854
+      84854,
+      87256
     ]
   },
   "timeseries_dates": [
@@ -239,7 +242,8 @@ var covid19_dataset_world_totals = {
     "2020-03-16",
     "2020-03-17",
     "2020-03-18",
-    "2020-03-19"
+    "2020-03-19",
+    "2020-03-20"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_world_totals', covid19_dataset_world_totals, {});

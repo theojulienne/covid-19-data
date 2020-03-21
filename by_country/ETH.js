@@ -58,9 +58,11 @@ var covid19_dataset_country_eth = {
       5,
       5,
       6,
-      6
+      6,
+      9
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -121,6 +123,7 @@ var covid19_dataset_country_eth = {
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
