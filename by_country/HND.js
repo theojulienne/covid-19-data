@@ -122,7 +122,7 @@ var covid19_dataset_country_hnd = {
       9,
       12,
       24,
-      0
+      24
     ],
     "deaths": [
       0,

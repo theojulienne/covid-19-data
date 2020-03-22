@@ -122,7 +122,7 @@ var covid19_dataset_country_eth = {
       6,
       6,
       9,
-      0
+      9
     ],
     "deaths": [
       0,

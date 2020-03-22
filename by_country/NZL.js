@@ -122,7 +122,7 @@ var covid19_dataset_country_nzl = {
       20,
       28,
       39,
-      0
+      39
     ],
     "deaths": [
       0,

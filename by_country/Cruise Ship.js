@@ -124,7 +124,7 @@ var covid19_dataset_country_cruise ship = {
           712,
           712,
           712,
-          0
+          712
         ],
         "deaths": [
           0,
@@ -186,7 +186,7 @@ var covid19_dataset_country_cruise ship = {
           7,
           7,
           7,
-          0
+          7
         ],
         "recovered": [
           0,
@@ -248,7 +248,7 @@ var covid19_dataset_country_cruise ship = {
           325,
           325,
           325,
-          0
+          325
         ]
       }
     }
@@ -314,7 +314,7 @@ var covid19_dataset_country_cruise ship = {
       712,
       712,
       712,
-      0
+      712
     ],
     "deaths": [
       0,
@@ -376,7 +376,7 @@ var covid19_dataset_country_cruise ship = {
       7,
       7,
       7,
-      0
+      7
     ],
     "recovered": [
       0,
@@ -438,7 +438,7 @@ var covid19_dataset_country_cruise ship = {
       325,
       325,
       325,
-      0
+      325
     ]
   }
 };

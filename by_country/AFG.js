@@ -122,7 +122,7 @@ var covid19_dataset_country_afg = {
       22,
       22,
       24,
-      0
+      24
     ],
     "deaths": [
       0,
@@ -246,7 +246,7 @@ var covid19_dataset_country_afg = {
       1,
       1,
       1,
-      0
+      1
     ]
   }
 };

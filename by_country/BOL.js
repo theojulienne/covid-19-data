@@ -122,7 +122,7 @@ var covid19_dataset_country_bol = {
       12,
       12,
       15,
-      0
+      15
     ],
     "deaths": [
       0,

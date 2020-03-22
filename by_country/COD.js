@@ -122,7 +122,7 @@ var covid19_dataset_country_cod = {
       4,
       14,
       18,
-      0
+      18
     ],
     "deaths": [
       0,

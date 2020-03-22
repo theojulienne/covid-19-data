@@ -122,7 +122,7 @@ var covid19_dataset_country_caf = {
       1,
       1,
       3,
-      0
+      3
     ],
     "deaths": [
       0,

@@ -122,7 +122,7 @@ var covid19_dataset_country_tto = {
       7,
       9,
       9,
-      0
+      9
     ],
     "deaths": [
       0,

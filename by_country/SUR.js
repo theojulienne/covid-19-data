@@ -122,7 +122,7 @@ var covid19_dataset_country_sur = {
       1,
       1,
       4,
-      0
+      4
     ],
     "deaths": [
       0,

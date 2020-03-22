@@ -122,7 +122,7 @@ var covid19_dataset_country_ven = {
       36,
       42,
       42,
-      0
+      42
     ],
     "deaths": [
       0,

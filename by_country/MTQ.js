@@ -122,7 +122,7 @@ var covid19_dataset_country_mtq = {
       19,
       23,
       32,
-      0
+      32
     ],
     "deaths": [
       0,
@@ -184,7 +184,7 @@ var covid19_dataset_country_mtq = {
       1,
       1,
       1,
-      0
+      1
     ],
     "recovered": [
       0,
