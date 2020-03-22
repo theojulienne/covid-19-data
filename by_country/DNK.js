@@ -58,7 +58,8 @@ var covid19_dataset_country_dnk = {
     "2020-03-17",
     "2020-03-18",
     "2020-03-19",
-    "2020-03-20"
+    "2020-03-20",
+    "2020-03-21"
   ],
   "subseries": {
     "Denmark": {
@@ -122,7 +123,8 @@ var covid19_dataset_country_dnk = {
           977,
           1057,
           1151,
-          1255
+          1255,
+          0
         ],
         "deaths": [
           0,
@@ -183,7 +185,8 @@ var covid19_dataset_country_dnk = {
           4,
           4,
           6,
-          9
+          9,
+          0
         ],
         "recovered": [
           0,
@@ -244,7 +247,8 @@ var covid19_dataset_country_dnk = {
           1,
           1,
           1,
-          1
+          1,
+          0
         ]
       }
     },
@@ -309,9 +313,11 @@ var covid19_dataset_country_dnk = {
           47,
           58,
           72,
-          80
+          80,
+          0
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -373,6 +379,7 @@ var covid19_dataset_country_dnk = {
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -496,9 +503,11 @@ var covid19_dataset_country_dnk = {
           1,
           1,
           2,
-          2
+          2,
+          0
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -560,6 +569,7 @@ var covid19_dataset_country_dnk = {
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -683,7 +693,8 @@ var covid19_dataset_country_dnk = {
       1025,
       1116,
       1225,
-      1337
+      1337,
+      0
     ],
     "deaths": [
       0,
@@ -744,7 +755,8 @@ var covid19_dataset_country_dnk = {
       4,
       4,
       6,
-      9
+      9,
+      0
     ],
     "recovered": [
       0,
@@ -805,7 +817,8 @@ var covid19_dataset_country_dnk = {
       1,
       1,
       1,
-      1
+      1,
+      0
     ]
   }
 };
