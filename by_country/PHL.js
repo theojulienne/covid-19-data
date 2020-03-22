@@ -122,7 +122,7 @@ var covid19_dataset_country_phl = {
       202,
       217,
       230,
-      230
+      307
     ],
     "deaths": [
       0,
@@ -184,7 +184,7 @@ var covid19_dataset_country_phl = {
       19,
       17,
       18,
-      18
+      19
     ],
     "recovered": [
       0,
@@ -246,7 +246,7 @@ var covid19_dataset_country_phl = {
       5,
       8,
       8,
-      8
+      13
     ]
   }
 };

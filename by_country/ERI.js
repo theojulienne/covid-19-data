@@ -1,4 +1,4 @@
-{
+var covid19_dataset_country_eri = {
   "timeseries_dates": [
     "2020-01-22",
     "2020-01-23",
@@ -120,9 +120,9 @@
       0,
       0,
       0,
-      1,
-      1,
-      2
+      0,
+      0,
+      1
     ],
     "deaths": [
       0,
@@ -249,4 +249,5 @@
       0
     ]
   }
-}
+};
+if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_country_eri', covid19_dataset_country_eri, {"country_iso": "ERI"});

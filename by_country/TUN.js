@@ -122,7 +122,7 @@ var covid19_dataset_country_tun = {
       29,
       39,
       54,
-      54
+      60
     ],
     "deaths": [
       0,

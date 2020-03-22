@@ -122,7 +122,7 @@ var covid19_dataset_country_pol = {
       251,
       355,
       425,
-      425
+      536
     ],
     "deaths": [
       0,

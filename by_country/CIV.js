@@ -122,7 +122,7 @@ var covid19_dataset_country_civ = {
       6,
       9,
       9,
-      9
+      14
     ],
     "deaths": [
       0,

@@ -122,7 +122,7 @@ var covid19_dataset_country_mus = {
       3,
       3,
       12,
-      12
+      14
     ],
     "deaths": [
       0,
@@ -184,7 +184,7 @@ var covid19_dataset_country_mus = {
       0,
       0,
       0,
-      0
+      1
     ],
     "recovered": [
       0,

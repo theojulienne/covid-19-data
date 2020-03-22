@@ -122,7 +122,7 @@ var covid19_dataset_country_pan = {
       86,
       109,
       137,
-      137
+      200
     ],
     "deaths": [
       0,

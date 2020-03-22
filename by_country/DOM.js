@@ -122,7 +122,7 @@ var covid19_dataset_country_dom = {
       21,
       34,
       72,
-      72
+      112
     ],
     "deaths": [
       0,

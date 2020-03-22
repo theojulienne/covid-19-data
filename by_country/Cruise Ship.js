@@ -186,7 +186,7 @@ var covid19_dataset_country_cruise ship = {
           7,
           7,
           7,
-          7
+          8
         ],
         "recovered": [
           0,
@@ -376,7 +376,7 @@ var covid19_dataset_country_cruise ship = {
       7,
       7,
       7,
-      7
+      8
     ],
     "recovered": [
       0,

@@ -122,7 +122,7 @@ var covid19_dataset_country_nor = {
       1550,
       1746,
       1914,
-      1914
+      2118
     ],
     "deaths": [
       0,

@@ -122,7 +122,7 @@ var covid19_dataset_country_nga = {
       8,
       8,
       12,
-      12
+      22
     ],
     "deaths": [
       0,

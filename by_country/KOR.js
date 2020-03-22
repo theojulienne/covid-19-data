@@ -122,7 +122,7 @@ var covid19_dataset_country_kor = {
       8413,
       8565,
       8652,
-      8652
+      8799
     ],
     "deaths": [
       0,
@@ -184,7 +184,7 @@ var covid19_dataset_country_kor = {
       84,
       91,
       94,
-      94
+      102
     ],
     "recovered": [
       0,

@@ -26,6 +26,7 @@ country_name_to_code.update({
     'Gambia, The': 'GMB',
     'Bahamas, The': 'BHS',
     'Cabo Verde': 'CPV',
+    'East Timor': 'TMP',
 })
 
 us_states_to_codes = {
@@ -112,7 +113,11 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
         state = row[state_field]
 
         # map the country to a country code
-        country_code = country_name_to_code[country_name]
+        try:
+            country_code = country_name_to_code[country_name]
+        except KeyError:
+            print('WARNING: Country name "{}" could not be found, skipping.'.format(country_name))
+            continue
 
         if country_code == 'USA':
             # in the US, we need some special cases.

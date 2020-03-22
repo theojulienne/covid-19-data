@@ -122,7 +122,7 @@ var covid19_dataset_country_ukr = {
       14,
       16,
       29,
-      29
+      47
     ],
     "deaths": [
       0,
@@ -246,7 +246,7 @@ var covid19_dataset_country_ukr = {
       0,
       0,
       0,
-      0
+      1
     ]
   }
 };
