@@ -122,7 +122,15 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             # states must map to our list (and become codes)
             state = us_states_to_codes[state]
         
-        timeseries = [int(p or '0') for p in row[first_date_field:]]
+        timeseries = []
+        last = 0
+        for d in row[first_date_field:]:
+            if d == '':
+                d = last
+            else:
+                d = int(d)
+            timeseries.append(d)
+            last = d
 
         if state == '':
             datasets[country_code]['total'][dataset.lower()] = timeseries
