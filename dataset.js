@@ -3424,7 +3424,7 @@ var covid19_dataset = {
     },
     "AUS": {
       "subseries": {
-        "New South Wales": {
+        "NSW": {
           "total": {
             "confirmed": [
               0,
@@ -3614,7 +3614,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Victoria": {
+        "VIC": {
           "total": {
             "confirmed": [
               0,
@@ -3804,7 +3804,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Queensland": {
+        "QLD": {
           "total": {
             "confirmed": [
               0,
@@ -3994,7 +3994,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "South Australia": {
+        "SA": {
           "total": {
             "confirmed": [
               0,
@@ -4374,7 +4374,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Western Australia": {
+        "WA": {
           "total": {
             "confirmed": [
               0,
@@ -4564,7 +4564,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Tasmania": {
+        "TAS": {
           "total": {
             "confirmed": [
               0,
@@ -4754,7 +4754,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Northern Territory": {
+        "NT": {
           "total": {
             "confirmed": [
               0,
@@ -4944,7 +4944,7 @@ var covid19_dataset = {
             ]
           }
         },
-        "Australian Capital Territory": {
+        "ACT": {
           "total": {
             "confirmed": [
               0,

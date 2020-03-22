@@ -89,6 +89,19 @@ us_states_to_codes = {
     'Virgin Islands': 'Virgin Islands',
 }
 
+au_states_to_codes = {
+    'New South Wales': 'NSW',
+    'Victoria': 'VIC',
+    'Queensland': 'QLD',
+    'Western Australia': 'WA',
+    'South Australia': 'SA',
+    'Tasmania': 'TAS',
+    'Australian Capital Territory': 'ACT',
+    'Northern Territory': 'NT',
+
+    'From Diamond Princess': 'From Diamond Princess',
+}
+
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-{}.csv'.format(dataset))
     reader = csv.reader(data.content.decode('utf-8').splitlines())
@@ -126,6 +139,8 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
 
             # states must map to our list (and become codes)
             state = us_states_to_codes[state]
+        elif country_code == 'AUS':
+            state = au_states_to_codes[state]
         
         timeseries = []
         last = 0

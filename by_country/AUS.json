@@ -62,7 +62,7 @@
     "2020-03-21"
   ],
   "subseries": {
-    "New South Wales": {
+    "NSW": {
       "total": {
         "confirmed": [
           0,
@@ -252,7 +252,7 @@
         ]
       }
     },
-    "Victoria": {
+    "VIC": {
       "total": {
         "confirmed": [
           0,
@@ -442,7 +442,7 @@
         ]
       }
     },
-    "Queensland": {
+    "QLD": {
       "total": {
         "confirmed": [
           0,
@@ -632,7 +632,7 @@
         ]
       }
     },
-    "South Australia": {
+    "SA": {
       "total": {
         "confirmed": [
           0,
@@ -1012,7 +1012,7 @@
         ]
       }
     },
-    "Western Australia": {
+    "WA": {
       "total": {
         "confirmed": [
           0,
@@ -1202,7 +1202,7 @@
         ]
       }
     },
-    "Tasmania": {
+    "TAS": {
       "total": {
         "confirmed": [
           0,
@@ -1392,7 +1392,7 @@
         ]
       }
     },
-    "Northern Territory": {
+    "NT": {
       "total": {
         "confirmed": [
           0,
@@ -1582,7 +1582,7 @@
         ]
       }
     },
-    "Australian Capital Territory": {
+    "ACT": {
       "total": {
         "confirmed": [
           0,
