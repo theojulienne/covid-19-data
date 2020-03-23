@@ -105,6 +105,13 @@ au_states_to_codes = {
     'From Diamond Princess': 'From Diamond Princess',
 }
 
+global_dates = []
+today = datetime.datetime.utcnow().date()
+curr = datetime.date(2020, 1, 22)
+while curr <= today + datetime.timedelta(days=1): # account for TZs ahead of Actions
+    global_dates.append(str(curr))
+    curr = curr + datetime.timedelta(days=1)
+
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-{}.csv'.format(dataset))
     reader = csv.reader(data.content.decode('utf-8').splitlines())
@@ -120,6 +127,8 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
         dates.append(str(d))
         if first_date_field is None:
             first_date_field = i
+
+    assert dates[0] == global_dates[0], "Primary dataset must start at the same date as expected"
 
     country_field = header.index('Country/Region')
     state_field = header.index('Province/State')
@@ -225,11 +234,11 @@ for country_code in os.listdir('data_collation/by_state'):
         with open('data_collation/by_state/{}/{}.json'.format(country_code, state_code), 'r') as f:
             state_json = json.load(f)
 
-        datasets[country_code]['subseries'][state_code] = merge_dataset(dates, datasets[country_code]['subseries'][state_code], state_json)
+        datasets[country_code]['subseries'][state_code] = merge_dataset(global_dates, datasets[country_code]['subseries'][state_code], state_json)
 
 out = {
     'subseries': datasets,
-    'timeseries_dates': dates,
+    'timeseries_dates': global_dates,
 }
 
 # collate subseries into totals
@@ -255,7 +264,7 @@ if not os.path.exists('by_country'):
 
 for country_iso, dataset in out['subseries'].items():
     sub_dataset = {
-        'timeseries_dates': dates,
+        'timeseries_dates': global_dates,
     }
     sub_dataset.update(dataset)
     write_dataset('by_country/' + country_iso, 'covid19_dataset_country_' + country_iso.lower(), sub_dataset, {'country_iso': country_iso})
@@ -281,7 +290,7 @@ for _, country_iso in country_totals[:10]:
 
 top_10_dataset = {
     'subseries': top_10_subseries,
-    'timeseries_dates': dates,
+    'timeseries_dates': global_dates,
 }
 
 write_dataset('dataset_top10', 'covid19_dataset_top10', top_10_dataset)
@@ -289,6 +298,6 @@ write_dataset('dataset_top10', 'covid19_dataset_top10', top_10_dataset)
 # world totals (no subseries)
 world_summary = {
     'total': out['total'],
-    'timeseries_dates': dates,
+    'timeseries_dates': global_dates,
 }
 write_dataset('dataset_world_totals', 'covid19_dataset_world_totals', world_summary)
