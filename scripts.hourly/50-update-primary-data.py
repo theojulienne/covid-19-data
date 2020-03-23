@@ -205,6 +205,10 @@ def merge_dataset(original_dates, original, updated):
     dataset = original.copy()
     for key,value in updated.items():
         if key not in original:
+            # we need to deep find all subseries and pad them with empty data up until the start of the main dataset
+            if isinstance(value, dict) and 'subseries' in value:
+                for subseries_key, timeseries in value['subseries'].items():
+                    value['subseries'][subseries_key] = ([0] * date_index_in_old) + timeseries
             dataset[key] = value
         else:
             print('WARNING: attempt to merge datasets with conflicting field {}'.format(key))
