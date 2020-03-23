@@ -87,6 +87,7 @@ us_states_to_codes = {
     'Puerto Rico': 'Puerto Rico',
     'Guam': 'Guam',
     'Virgin Islands': 'Virgin Islands',
+    'United States Virgin Islands': 'Virgin Islands',
 }
 
 au_states_to_codes = {
