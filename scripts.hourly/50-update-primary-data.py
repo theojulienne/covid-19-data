@@ -181,7 +181,7 @@ def subseries_total(part):
             if dataset not in totals:
                 totals[dataset] = timeseries
             else:
-                totals[dataset] = list(map(lambda a, b: a + b, totals[dataset], timeseries))
+                totals[dataset] = list(map(lambda a, b: (a or 0) + (b or 0), totals[dataset], timeseries))
     return totals
 
 # we now have datasets from the primary JHU source, let's overlay more up to date/detailed data from our other sources.
