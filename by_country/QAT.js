@@ -59,7 +59,8 @@ var covid19_dataset_country_qat = {
     "2020-03-18",
     "2020-03-19",
     "2020-03-20",
-    "2020-03-21"
+    "2020-03-21",
+    "2020-03-22"
   ],
   "total": {
     "confirmed": [
@@ -122,9 +123,11 @@ var covid19_dataset_country_qat = {
       452,
       460,
       470,
-      481
+      481,
+      494
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -246,7 +249,8 @@ var covid19_dataset_country_qat = {
       4,
       4,
       10,
-      27
+      27,
+      33
     ]
   }
 };

@@ -59,7 +59,8 @@ var covid19_dataset_country_cruise ship = {
     "2020-03-18",
     "2020-03-19",
     "2020-03-20",
-    "2020-03-21"
+    "2020-03-21",
+    "2020-03-22"
   ],
   "subseries": {
     "Diamond Princess": {
@@ -121,6 +122,7 @@ var covid19_dataset_country_cruise ship = {
           696,
           696,
           696,
+          712,
           712,
           712,
           712,
@@ -186,6 +188,7 @@ var covid19_dataset_country_cruise ship = {
           7,
           7,
           7,
+          8,
           8
         ],
         "recovered": [
@@ -238,6 +241,7 @@ var covid19_dataset_country_cruise ship = {
           40,
           40,
           40,
+          325,
           325,
           325,
           325,
@@ -314,6 +318,7 @@ var covid19_dataset_country_cruise ship = {
       712,
       712,
       712,
+      712,
       712
     ],
     "deaths": [
@@ -376,6 +381,7 @@ var covid19_dataset_country_cruise ship = {
       7,
       7,
       7,
+      8,
       8
     ],
     "recovered": [
@@ -428,6 +434,7 @@ var covid19_dataset_country_cruise ship = {
       40,
       40,
       40,
+      325,
       325,
       325,
       325,

@@ -139,7 +139,11 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             if ', ' in state: continue
 
             # states must map to our list (and become codes)
-            state = us_states_to_codes[state]
+            try:
+                state = us_states_to_codes[state]
+            except KeyError:
+                print('WARNING: State name "{}" could not be found, skipping.'.format(state))
+                continue
         elif country_code == 'AUS':
             state = au_states_to_codes[state]
         

@@ -59,7 +59,8 @@ var covid19_dataset_country_pak = {
     "2020-03-18",
     "2020-03-19",
     "2020-03-20",
-    "2020-03-21"
+    "2020-03-21",
+    "2020-03-22"
   ],
   "total": {
     "confirmed": [
@@ -122,7 +123,8 @@ var covid19_dataset_country_pak = {
       299,
       454,
       501,
-      730
+      730,
+      776
     ],
     "deaths": [
       0,
@@ -184,7 +186,8 @@ var covid19_dataset_country_pak = {
       0,
       2,
       3,
-      3
+      3,
+      5
     ],
     "recovered": [
       0,
@@ -246,7 +249,8 @@ var covid19_dataset_country_pak = {
       2,
       13,
       13,
-      13
+      13,
+      5
     ]
   }
 };

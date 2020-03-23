@@ -59,7 +59,8 @@ var covid19_dataset_country_egy = {
     "2020-03-18",
     "2020-03-19",
     "2020-03-20",
-    "2020-03-21"
+    "2020-03-21",
+    "2020-03-22"
   ],
   "total": {
     "confirmed": [
@@ -122,7 +123,8 @@ var covid19_dataset_country_egy = {
       196,
       256,
       285,
-      294
+      294,
+      327
     ],
     "deaths": [
       0,
@@ -184,7 +186,8 @@ var covid19_dataset_country_egy = {
       6,
       6,
       8,
-      10
+      10,
+      14
     ],
     "recovered": [
       0,
@@ -246,7 +249,8 @@ var covid19_dataset_country_egy = {
       32,
       32,
       39,
-      41
+      41,
+      56
     ]
   }
 };
