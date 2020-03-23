@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests, csv
 from collections import defaultdict
 import datetime
@@ -166,11 +168,60 @@ def subseries_total(part):
     totals = {}
     for key, subseries in part['subseries'].items():
         for dataset, timeseries in subseries['total'].items(): # confirmed, deaths, recovered
+            if dataset not in ['confirmed', 'deaths', 'recovered']: continue # for now skip extra state/country-specific data
             if dataset not in totals:
                 totals[dataset] = timeseries
             else:
                 totals[dataset] = list(map(lambda a, b: a + b, totals[dataset], timeseries))
     return totals
+
+# we now have datasets from the primary JHU source, let's overlay more up to date/detailed data from our other sources.
+def merge_dataset(original_dates, original, updated):
+    updated_dataset_dates = updated['timeseries_dates']
+    del updated['timeseries_dates']
+
+    updated_dataset_totals = updated['total']
+    del updated['total']
+
+    first_new_date = updated_dataset_dates[0]
+    # we assume here that the overlayed updated dataset starts after the main one
+    if first_new_date not in original_dates:
+        print('WARNING: attempt to merge a dataset starting outside the original range'.format(key))
+        return original
+    
+    date_index_in_old = original_dates.index(first_new_date)
+    for series_name, series_data in updated_dataset_totals.items():
+        if series_name not in original['total']:
+            # the main dataset doesn't have this. we just need to adjust the series to match dates
+            updated_dataset_totals[series_name] = ([0] * date_index_in_old) + series_data
+        else:
+            # the main dataset DOES have this. what we want is all the data is had, before ours.
+            # then, keep our data from then on.
+            updated_dataset_totals[series_name] = original['total'][series_name][:date_index_in_old] + series_data
+    
+    # for i, date in enumerate(original_dates):
+    #     print(i, date, updated_dataset_totals['confirmed'][i], original['total']['confirmed'][i])
+
+    dataset = original.copy()
+    for key,value in updated.items():
+        if key not in original:
+            dataset[key] = value
+        else:
+            print('WARNING: attempt to merge datasets with conflicting field {}'.format(key))
+    
+    # these have been combined, so let's overwrite them that way
+    dataset['total'].update(updated_dataset_totals)
+
+    return dataset
+
+for country_code in os.listdir('data_collation/by_state'):
+    for state_fn in os.listdir('data_collation/by_state/'+country_code):
+        state_code, _ = state_fn.split('.')
+
+        with open('data_collation/by_state/{}/{}.json'.format(country_code, state_code), 'r') as f:
+            state_json = json.load(f)
+
+        datasets[country_code]['subseries'][state_code] = merge_dataset(dates, datasets[country_code]['subseries'][state_code], state_json)
 
 out = {
     'subseries': datasets,
