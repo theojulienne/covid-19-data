@@ -2,6 +2,11 @@
 
 The timeseries datasets from https://github.com/CSSEGISandData/COVID-19 converted into a JSON representation, and a JS file able to be included in other pages easily.
 
+## Direct sources for some countries
+
+This repo collates multiple datasets into a single dataset used by [covid.graphics](https://covid.graphics). These specific datasets are:
+ * Australia - https://github.com/theojulienne/covid-19-data-aus
+
 ## Usage
 
 Please use these URLs to reference files here, since it's CDN fronted:
