@@ -62,7 +62,8 @@ var covid19_dataset_country_vnm = {
     "2020-03-21",
     "2020-03-22",
     "2020-03-23",
-    "2020-03-24"
+    "2020-03-24",
+    "2020-03-25"
   ],
   "total": {
     "confirmed": [
@@ -126,9 +127,11 @@ var covid19_dataset_country_vnm = {
       85,
       91,
       94,
+      113,
       113
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -251,6 +254,7 @@ var covid19_dataset_country_vnm = {
       16,
       16,
       16,
+      17,
       17,
       17
     ]

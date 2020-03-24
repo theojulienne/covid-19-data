@@ -62,7 +62,8 @@ var covid19_dataset_country_bel = {
     "2020-03-21",
     "2020-03-22",
     "2020-03-23",
-    "2020-03-24"
+    "2020-03-24",
+    "2020-03-25"
   ],
   "total": {
     "confirmed": [
@@ -126,6 +127,7 @@ var covid19_dataset_country_bel = {
       1795,
       2257,
       2815,
+      3401,
       3401
     ],
     "deaths": [
@@ -189,6 +191,7 @@ var covid19_dataset_country_bel = {
       21,
       37,
       67,
+      75,
       75
     ],
     "recovered": [
@@ -251,6 +254,7 @@ var covid19_dataset_country_bel = {
       31,
       31,
       1,
+      263,
       263,
       263
     ]
