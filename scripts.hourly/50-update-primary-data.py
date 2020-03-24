@@ -175,9 +175,18 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
 
 def subseries_total(part):
     totals = {}
+
+    # find keys that are available in the totals for each subseries, those are what we can sum up
+    keys_in_all = None
+    for key, subseries in part['subseries'].items():
+        if keys_in_all is None:
+            keys_in_all = set(subseries['total'].keys())
+        else:
+            keys_in_all = keys_in_all & set(subseries['total'].keys())
+    
     for key, subseries in part['subseries'].items():
         for dataset, timeseries in subseries['total'].items(): # confirmed, deaths, recovered
-            if dataset not in ['confirmed', 'deaths', 'recovered']: continue # for now skip extra state/country-specific data
+            if dataset not in keys_in_all: continue # only aggregate data that all subseries have
             if dataset not in totals:
                 totals[dataset] = timeseries
             else:
