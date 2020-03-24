@@ -22,7 +22,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hourly data updates
-      run: run-parts --verbose scripts.hourly
+      run: run-parts --regex='.*\.py$' --verbose scripts.hourly/
 
     - name: Commit files
       run: |
