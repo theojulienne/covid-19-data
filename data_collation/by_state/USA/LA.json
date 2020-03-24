@@ -19,7 +19,8 @@
     "2020-03-20",
     "2020-03-21",
     "2020-03-22",
-    "2020-03-23"
+    "2020-03-23",
+    "2020-03-24"
   ],
   "total": {
     "tested": [
@@ -42,7 +43,31 @@
       1047,
       2765,
       3498,
-      5948
+      5948,
+      8603
+    ],
+    "hospitalized": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      271
     ]
   }
 }
