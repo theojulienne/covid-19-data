@@ -71,6 +71,30 @@
       3397,
       3860,
       4363
+    ],
+    "deaths": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3,
+      3,
+      5,
+      8,
+      15,
+      24,
+      43
     ]
   }
 }

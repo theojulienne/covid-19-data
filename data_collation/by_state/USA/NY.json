@@ -95,6 +95,30 @@
       2635,
       3234,
       3805
+    ],
+    "deaths": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3,
+      7,
+      7,
+      12,
+      12,
+      35,
+      44,
+      114,
+      114,
+      210,
+      285
     ]
   }
 }

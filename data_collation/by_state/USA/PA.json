@@ -71,6 +71,30 @@
       7239,
       9494,
       12320
+    ],
+    "deaths": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      2,
+      2,
+      6,
+      7,
+      11
     ]
   }
 }

@@ -95,6 +95,30 @@
       58,
       72,
       84
+    ],
+    "deaths": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11
     ]
   }
 }

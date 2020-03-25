@@ -71,6 +71,30 @@
       3735,
       4232,
       4572
+    ],
+    "deaths": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      4,
+      4,
+      6
     ]
   }
 }
