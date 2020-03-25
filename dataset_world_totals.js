@@ -257,7 +257,8 @@ var covid19_dataset_world_totals = {
     "2020-03-22",
     "2020-03-23",
     "2020-03-24",
-    "2020-03-25"
+    "2020-03-25",
+    "2020-03-26"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_world_totals', covid19_dataset_world_totals, {});
