@@ -266,11 +266,11 @@ out['total'] = subseries_total(out)
 
 def write_dataset(filename, dataset_name, dataset, cb_json={}):
     with open(filename + '.json', 'w') as o:
-        json.dump(dataset, o, indent='  ')
+        json.dump(dataset, o, indent='  ', sort_keys=True)
 
     with open(filename + '.js', 'w') as o:
         o.write('var {} = '.format(dataset_name))
-        json.dump(dataset, o, indent='  ')
+        json.dump(dataset, o, indent='  ', sort_keys=True)
         o.write(';\n')
         o.write('if (covid19_dataset_callback) covid19_dataset_callback(\'{}\', {}, {});\n'.format(dataset_name, dataset_name, json.dumps(cb_json)))
 
