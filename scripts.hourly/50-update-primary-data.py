@@ -172,15 +172,13 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             timeseries.append(d)
             last = d
 
+        # skip country if it wasn't in latest dataset
+        if dataset == 'Recovered' and country_code not in datasets: continue
         if state == '':
             datasets[country_code]['total'][dataset.lower()] = timeseries
         else:
+            if dataset == 'Recovered' and state not in datasets[country_code]['subseries']: continue
             datasets[country_code]['subseries'][state]['total'][dataset.lower()] = timeseries
-
-# strip out data that's only in the old dataset
-for country_code in list(datasets.keys()):
-    if len(datasets[country_code]['total']) < 2:
-        del datasets[country_code]
 
 def subseries_total(part):
     totals = {}
