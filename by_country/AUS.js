@@ -1264,7 +1264,8 @@ var covid19_dataset_country_aus = {
           229,
           296,
           355,
-          411
+          411,
+          466
         ],
         "deaths": [
           0,
@@ -1393,6 +1394,7 @@ var covid19_dataset_country_aus = {
           7,
           7,
           7,
+          7,
           7
         ],
         "hospitalized": [
@@ -1458,6 +1460,7 @@ var covid19_dataset_country_aus = {
           5,
           6,
           6,
+          12,
           12
         ],
         "tested": [
@@ -1523,7 +1526,8 @@ var covid19_dataset_country_aus = {
           20500,
           22900,
           23700,
-          25000
+          25000,
+          25500
         ]
       },
       "sources": {
@@ -1596,7 +1600,8 @@ var covid19_dataset_country_aus = {
             2,
             3,
             6,
-            6
+            6,
+            8
           ],
           "Locally acquired - contact of a confirmed case": [
             0,
@@ -1653,6 +1658,7 @@ var covid19_dataset_country_aus = {
             3,
             3,
             3,
+            0,
             0,
             0,
             0,
@@ -1718,6 +1724,7 @@ var covid19_dataset_country_aus = {
             29,
             29,
             29,
+            0,
             0,
             0,
             0,
@@ -1803,6 +1810,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "40-49": [
@@ -1860,6 +1868,7 @@ var covid19_dataset_country_aus = {
             1,
             1,
             1,
+            0,
             0,
             0,
             0,
@@ -1933,6 +1942,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "30-39": [
@@ -1990,6 +2000,7 @@ var covid19_dataset_country_aus = {
             2,
             2,
             2,
+            0,
             0,
             0,
             0,
@@ -2063,6 +2074,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "70-79": [
@@ -2120,6 +2132,7 @@ var covid19_dataset_country_aus = {
             4,
             4,
             4,
+            0,
             0,
             0,
             0,
