@@ -128,10 +128,12 @@ var covid19_dataset_country_npl = {
       1,
       1,
       1,
+      1,
       2,
       2
     ],
     "deaths": [
+      0,
       0,
       0,
       0,

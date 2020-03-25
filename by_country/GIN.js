@@ -129,9 +129,11 @@ var covid19_dataset_country_gin = {
       1,
       2,
       2,
-      2
+      4,
+      4
     ],
     "deaths": [
+      0,
       0,
       0,
       0,

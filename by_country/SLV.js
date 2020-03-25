@@ -129,9 +129,11 @@ var covid19_dataset_country_slv = {
       1,
       3,
       3,
-      3
+      3,
+      5
     ],
     "deaths": [
+      0,
       0,
       0,
       0,

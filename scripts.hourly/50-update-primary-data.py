@@ -113,7 +113,11 @@ while curr <= today + datetime.timedelta(days=1): # account for TZs ahead of Act
     curr = curr + datetime.timedelta(days=1)
 
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
-    data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-{}.csv'.format(dataset))
+    if dataset == 'Recovered':
+        fn = 'time_series_19-covid-{}.csv'.format(dataset)
+    else:
+        fn = 'time_series_covid19_{}_global.csv'.format(dataset.lower())
+    data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/' + fn)
     reader = csv.reader(data.content.decode('utf-8').splitlines())
     header = next(reader)
     
@@ -173,6 +177,11 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
         else:
             datasets[country_code]['subseries'][state]['total'][dataset.lower()] = timeseries
 
+# strip out data that's only in the old dataset
+for country_code in list(datasets.keys()):
+    if len(datasets[country_code]['total']) < 2:
+        del datasets[country_code]
+
 def subseries_total(part):
     totals = {}
 
@@ -183,6 +192,7 @@ def subseries_total(part):
             keys_in_all = set(subseries['total'].keys())
         else:
             keys_in_all = keys_in_all & set(subseries['total'].keys())
+    keys_in_all = keys_in_all | set(['confirmed', 'deaths'])
     
     for key, subseries in part['subseries'].items():
         for dataset, timeseries in subseries['total'].items(): # confirmed, deaths, recovered
@@ -284,7 +294,6 @@ country_totals = []
 
 for country_iso, dataset in out['subseries'].items():
     latest_confirmed = dataset['total']['confirmed'][-1]
-
     country_totals.append((latest_confirmed, country_iso))
 
 country_totals.sort()

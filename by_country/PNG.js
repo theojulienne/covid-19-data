@@ -129,9 +129,11 @@ var covid19_dataset_country_png = {
       1,
       1,
       1,
+      1,
       1
     ],
     "deaths": [
+      0,
       0,
       0,
       0,

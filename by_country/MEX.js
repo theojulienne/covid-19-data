@@ -129,7 +129,8 @@ var covid19_dataset_country_mex = {
       164,
       203,
       251,
-      251
+      316,
+      367
     ],
     "deaths": [
       0,
@@ -193,7 +194,8 @@ var covid19_dataset_country_mex = {
       1,
       2,
       2,
-      2
+      3,
+      4
     ],
     "recovered": [
       0,
