@@ -263,6 +263,7 @@ var covid19_dataset_country_per = {
       1,
       1,
       1,
+      1,
       1
     ]
   }

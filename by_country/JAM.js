@@ -263,6 +263,7 @@ var covid19_dataset_country_jam = {
       2,
       2,
       2,
+      2,
       2
     ]
   }

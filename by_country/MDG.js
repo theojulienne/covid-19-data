@@ -263,6 +263,7 @@ var covid19_dataset_country_mdg = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

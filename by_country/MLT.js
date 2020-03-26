@@ -263,6 +263,7 @@ var covid19_dataset_country_mlt = {
       2,
       2,
       2,
+      2,
       2
     ]
   }

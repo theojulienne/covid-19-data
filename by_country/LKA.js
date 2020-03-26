@@ -263,7 +263,8 @@ var covid19_dataset_country_lka = {
       1,
       3,
       3,
-      2
+      2,
+      3
     ]
   }
 };

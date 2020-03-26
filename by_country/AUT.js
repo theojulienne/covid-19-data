@@ -263,6 +263,7 @@ var covid19_dataset_country_aut = {
       9,
       9,
       9,
+      9,
       9
     ]
   }

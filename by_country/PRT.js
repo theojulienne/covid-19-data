@@ -263,6 +263,7 @@ var covid19_dataset_country_prt = {
       5,
       5,
       5,
+      22,
       22
     ]
   }

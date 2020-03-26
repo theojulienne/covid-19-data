@@ -263,6 +263,7 @@ var covid19_dataset_country_qat = {
       27,
       33,
       33,
+      41,
       41
     ]
   }

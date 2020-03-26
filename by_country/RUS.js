@@ -263,7 +263,8 @@ var covid19_dataset_country_rus = {
       12,
       16,
       16,
-      22
+      22,
+      29
     ]
   }
 };

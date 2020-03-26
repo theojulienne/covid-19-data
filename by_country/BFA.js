@@ -263,7 +263,8 @@ var covid19_dataset_country_bfa = {
       5,
       5,
       5,
-      7
+      7,
+      10
     ]
   }
 };

@@ -263,6 +263,7 @@ var covid19_dataset_country_swe = {
       16,
       16,
       16,
+      16,
       16
     ]
   }

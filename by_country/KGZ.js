@@ -263,6 +263,7 @@ var covid19_dataset_country_kgz = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

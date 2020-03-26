@@ -263,7 +263,8 @@ var covid19_dataset_country_phl = {
       13,
       17,
       17,
-      20
+      20,
+      26
     ]
   }
 };

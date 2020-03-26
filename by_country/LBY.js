@@ -263,6 +263,7 @@ var covid19_dataset_country_lby = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

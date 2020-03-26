@@ -263,6 +263,7 @@ var covid19_dataset_country_tgo = {
       1,
       1,
       1,
+      1,
       1
     ]
   }

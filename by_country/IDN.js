@@ -263,7 +263,8 @@ var covid19_dataset_country_idn = {
       15,
       29,
       29,
-      30
+      30,
+      31
     ]
   }
 };
