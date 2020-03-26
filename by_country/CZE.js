@@ -64,7 +64,8 @@ var covid19_dataset_country_cze = {
     "2020-03-23",
     "2020-03-24",
     "2020-03-25",
-    "2020-03-26"
+    "2020-03-26",
+    "2020-03-27"
   ],
   "total": {
     "confirmed": [
@@ -130,7 +131,8 @@ var covid19_dataset_country_cze = {
       995,
       1120,
       1236,
-      1394
+      1394,
+      1654
     ],
     "deaths": [
       0,
@@ -195,7 +197,8 @@ var covid19_dataset_country_cze = {
       0,
       1,
       1,
-      3
+      3,
+      6
     ],
     "recovered": [
       0,

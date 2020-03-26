@@ -64,7 +64,8 @@ var covid19_dataset_country_hrv = {
     "2020-03-23",
     "2020-03-24",
     "2020-03-25",
-    "2020-03-26"
+    "2020-03-26",
+    "2020-03-27"
   ],
   "total": {
     "confirmed": [
@@ -130,7 +131,8 @@ var covid19_dataset_country_hrv = {
       206,
       254,
       315,
-      382
+      382,
+      442
     ],
     "deaths": [
       0,
@@ -190,6 +192,7 @@ var covid19_dataset_country_hrv = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
