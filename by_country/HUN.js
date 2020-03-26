@@ -262,7 +262,8 @@ var covid19_dataset_country_hun = {
       2,
       7,
       16,
-      16
+      16,
+      21
     ]
   }
 };

@@ -262,7 +262,8 @@ var covid19_dataset_country_egy = {
       39,
       41,
       56,
-      56
+      56,
+      80
     ]
   }
 };

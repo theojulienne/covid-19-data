@@ -262,7 +262,8 @@ var covid19_dataset_country_nor = {
       1,
       1,
       1,
-      1
+      1,
+      6
     ]
   }
 };

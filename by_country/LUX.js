@@ -262,6 +262,7 @@ var covid19_dataset_country_lux = {
       0,
       0,
       6,
+      6,
       6
     ]
   }

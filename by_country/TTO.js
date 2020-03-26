@@ -262,7 +262,8 @@ var covid19_dataset_country_tto = {
       0,
       1,
       1,
-      1
+      1,
+      0
     ]
   }
 };

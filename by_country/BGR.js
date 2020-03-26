@@ -262,6 +262,7 @@ var covid19_dataset_country_bgr = {
       0,
       3,
       3,
+      3,
       3
     ]
   }

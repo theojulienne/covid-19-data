@@ -262,7 +262,8 @@ var covid19_dataset_country_deu = {
       180,
       233,
       266,
-      266
+      266,
+      3243
     ]
   }
 };

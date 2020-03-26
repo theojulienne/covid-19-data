@@ -262,6 +262,7 @@ var covid19_dataset_country_ukr = {
       0,
       1,
       1,
+      1,
       1
     ]
   }

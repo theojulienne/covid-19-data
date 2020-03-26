@@ -262,6 +262,7 @@ var covid19_dataset_country_fin = {
       10,
       10,
       10,
+      10,
       10
     ]
   }

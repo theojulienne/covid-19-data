@@ -262,7 +262,8 @@ var covid19_dataset_country_bhs = {
       0,
       0,
       0,
-      0
+      0,
+      1
     ]
   }
 };

@@ -262,7 +262,8 @@ var covid19_dataset_country_sen = {
       2,
       5,
       5,
-      5
+      5,
+      8
     ]
   }
 };

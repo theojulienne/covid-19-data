@@ -262,6 +262,7 @@ var covid19_dataset_country_omn = {
       12,
       12,
       17,
+      17,
       17
     ]
   }

@@ -262,6 +262,7 @@ var covid19_dataset_country_nga = {
       1,
       1,
       2,
+      2,
       2
     ]
   }

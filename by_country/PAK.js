@@ -262,7 +262,8 @@ var covid19_dataset_country_pak = {
       13,
       13,
       5,
-      5
+      5,
+      18
     ]
   }
 };

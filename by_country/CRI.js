@@ -262,6 +262,7 @@ var covid19_dataset_country_cri = {
       0,
       2,
       2,
+      2,
       2
     ]
   }

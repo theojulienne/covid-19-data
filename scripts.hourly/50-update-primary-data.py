@@ -113,19 +113,19 @@ while curr <= today + datetime.timedelta(days=1): # account for TZs ahead of Act
     curr = curr + datetime.timedelta(days=1)
 
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
-    if dataset == 'Recovered':
-        fn = 'time_series_19-covid-{}.csv'.format(dataset)
-    else:
-        fn = 'time_series_covid19_{}_global.csv'.format(dataset.lower())
+    fn = 'time_series_covid19_{}_global.csv'.format(dataset.lower())
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/' + fn)
-    reader = csv.reader(data.content.decode('utf-8').splitlines())
+    reader = csv.reader(data.content.decode('utf-8-sig').splitlines())
     header = next(reader)
-    
+
     dates = []
     first_date_field = None
     for i, k in enumerate(header):
         try:
-            d = datetime.datetime.strptime(k, '%m/%d/%y').date()
+            if len(k.split('/')[-1]) == 4:
+                d = datetime.datetime.strptime(k, '%m/%d/%Y').date()
+            else:
+                d = datetime.datetime.strptime(k, '%m/%d/%y').date()
         except ValueError: # skip other columns
             continue
         dates.append(str(d))
@@ -180,7 +180,7 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             if dataset == 'Recovered' and state not in datasets[country_code]['subseries']: continue
             datasets[country_code]['subseries'][state]['total'][dataset.lower()] = timeseries
 
-def subseries_total(part):
+def subseries_total(part, pre_aggregated={}):
     totals = {}
 
     # find keys that are available in the totals for each subseries, those are what we can sum up
@@ -199,6 +199,12 @@ def subseries_total(part):
                 totals[dataset] = timeseries
             else:
                 totals[dataset] = list(map(lambda a, b: (a or 0) + (b or 0), totals[dataset], timeseries))
+    
+    # if we haven't aggregated ones we were provided externally, then use the aggregated numbers
+    for key, value in pre_aggregated.items():
+        if key not in totals:
+            totals[key] = value
+
     return totals
 
 # we now have datasets from the primary JHU source, let's overlay more up to date/detailed data from our other sources.
@@ -260,8 +266,8 @@ out = {
 
 # collate subseries into totals
 for key, country_data in out['subseries'].items():
-    if 'total' in country_data: continue
-    out['subseries'][key]['total'] = subseries_total(country_data)
+    if 'total' in country_data and 'confirmed' in country_data['total']: continue
+    out['subseries'][key]['total'] = subseries_total(country_data, out['subseries'][key]['total'])
 out['total'] = subseries_total(out)
 
 def write_dataset(filename, dataset_name, dataset, cb_json={}):

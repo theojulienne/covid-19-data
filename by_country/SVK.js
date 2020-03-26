@@ -262,6 +262,7 @@ var covid19_dataset_country_svk = {
       0,
       0,
       7,
+      7,
       7
     ]
   }

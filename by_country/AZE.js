@@ -262,6 +262,7 @@ var covid19_dataset_country_aze = {
       6,
       11,
       10,
+      10,
       10
     ]
   }
