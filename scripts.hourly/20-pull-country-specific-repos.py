@@ -6,6 +6,7 @@ country_specific_repos = {
   'AUS': {
     'repo': 'theojulienne/covid-19-data-aus',
     'states': ['NSW', 'VIC'],
+    'events': True,
   },
   'USA': {
     'repo': 'theojulienne/covid-19-data-usa',
@@ -27,6 +28,18 @@ for country_iso, config in country_specific_repos.items():
         if skip in state_data['total']:
           del state_data['total'][skip]
       with open(os.path.join(country_dir, state_code+'.json'), 'w') as f:
-        json.dump(state_data, f, indent=2)
+        json.dump(state_data, f, indent=2, sort_keys=True)
+    else:
+      print('WARNING: could not retrieve expected {}'.format(url))
+  
+  if config.get('events', False):
+    url = 'https://raw.githubusercontent.com/{}/master/events.json'.format(config['repo'])
+    response = requests.get(url)
+    
+    if response:
+      events_data = response.json()
+      events_fn = 'data_collation/events/{}.json'.format(country_iso)
+      with open(events_fn, 'w') as f:
+        json.dump(events_data, f, indent=2, sort_keys=True)
     else:
       print('WARNING: could not retrieve expected {}'.format(url))
