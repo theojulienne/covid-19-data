@@ -1,0 +1,18 @@
+{
+  "country": "ITA",
+  "events": [
+    {
+      "citations": [
+        "https://www.bbc.com/news/world-europe-51810673",
+        "https://en.wikipedia.org/wiki/2020_Italy_coronavirus_lockdown"
+      ],
+      "control": {
+        "class": "resident-activity",
+        "type": "lockdown"
+      },
+      "date": "2020-03-09",
+      "name": "Italy extends emergency measures nationwide",
+      "type": "control"
+    }
+  ]
+}

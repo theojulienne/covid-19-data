@@ -11,11 +11,15 @@ country_specific_repos = {
   'USA': {
     'repo': 'theojulienne/covid-19-data-usa',
     'states': ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FL', 'GA', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'],
+  },
+  'ITA': {
+    'repo': 'theojulienne/covid-19-data-ita',
+    'events': True,
   }
 }
 
 for country_iso, config in country_specific_repos.items():
-  for state_code in config['states']:
+  for state_code in config.get('states', []):
     url = 'https://raw.githubusercontent.com/{}/master/by_state/{}.json'.format(config['repo'], state_code.lower())
     response = requests.get(url)
     
