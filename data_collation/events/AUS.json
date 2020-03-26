@@ -10,6 +10,7 @@
         "enforcement": "self-isolation"
       },
       "date": "2020-03-15",
+      "name": "Australia institutes self-isolation rules for all incoming passengers",
       "type": "control"
     },
     {
@@ -21,6 +22,7 @@
         "type": "non-citizen"
       },
       "date": "2020-03-20",
+      "name": "Australia blocks arrival of all non-citizens, non-residents",
       "type": "control"
     },
     {
@@ -32,6 +34,7 @@
         "type": "lockdown"
       },
       "date": "2020-03-23",
+      "name": "Australian non-essential services to close, schools stay open in stage one measures",
       "type": "control"
     }
   ]

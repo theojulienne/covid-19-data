@@ -15,6 +15,10 @@ country_specific_repos = {
   'ITA': {
     'repo': 'theojulienne/covid-19-data-ita',
     'events': True,
+  },
+  'CHN': {
+    'repo': 'theojulienne/covid-19-data-chn',
+    'events': True,
   }
 }
 

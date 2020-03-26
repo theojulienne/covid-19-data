@@ -1,0 +1,17 @@
+{
+  "country": "CHN",
+  "events": [
+    {
+      "citations": [
+        "https://www.businessinsider.com.au/countries-on-lockdown-coronavirus-italy-2020-3?r=US&IR=T"
+      ],
+      "control": {
+        "class": "resident-activity",
+        "type": "lockdown"
+      },
+      "date": "2020-01-23",
+      "name": "China places Wuhan into lockdown, followed by 15 other cities with infections",
+      "type": "control"
+    }
+  ]
+}
