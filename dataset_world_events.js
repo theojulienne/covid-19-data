@@ -8,7 +8,7 @@ var covid19_dataset_world_events = {
           ],
           "control": {
             "class": "isolation",
-            "enforcement": "self-isolation"
+            "type": "self-isolation"
           },
           "date": "2020-03-15",
           "name": "Australia institutes self-isolation rules for all incoming passengers",
