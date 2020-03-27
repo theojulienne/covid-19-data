@@ -203,7 +203,7 @@ var covid19_dataset_country_lbn = {
       4,
       6,
       6,
-      7
+      8
     ],
     "recovered": [
       0,
@@ -270,7 +270,8 @@ var covid19_dataset_country_lbn = {
       8,
       8,
       20,
-      23
+      23,
+      27
     ]
   }
 };
