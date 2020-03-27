@@ -17,7 +17,7 @@
     "ALB": {
       "latest": {
         "confirmed": 174,
-        "deaths": 6,
+        "deaths": 7,
         "recovered": 17
       }
     },
@@ -110,7 +110,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 6909,
+        "confirmed": 6962,
         "deaths": 49,
         "recovered": 112
       }
@@ -161,7 +161,7 @@
       "latest": {
         "confirmed": 458,
         "deaths": 4,
-        "recovered": 204
+        "recovered": 210
       }
     },
     "BHS": {
@@ -174,7 +174,7 @@
     "BIH": {
       "latest": {
         "confirmed": 191,
-        "deaths": 3,
+        "deaths": 5,
         "recovered": 2
       }
     },
@@ -306,7 +306,7 @@
     "CHE": {
       "latest": {
         "confirmed": 11811,
-        "deaths": 192,
+        "deaths": 194,
         "recovered": 131
       }
     },
@@ -556,15 +556,15 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 1925,
+        "confirmed": 2062,
         "deaths": 9,
         "recovered": 10
       }
     },
     "DEU": {
       "latest": {
-        "confirmed": 43938,
-        "deaths": 267,
+        "confirmed": 47278,
+        "deaths": 281,
         "recovered": 5673
       }
     },
@@ -817,7 +817,7 @@
       "latest": {
         "confirmed": 892,
         "deaths": 27,
-        "recovered": 36
+        "recovered": 42
       }
     },
     "GRD": {
@@ -1039,7 +1039,7 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 344,
+        "confirmed": 345,
         "deaths": 4,
         "recovered": 1
       }
@@ -1075,7 +1075,7 @@
     "MDA": {
       "latest": {
         "confirmed": 177,
-        "deaths": 1,
+        "deaths": 2,
         "recovered": 2
       }
     },
@@ -1280,7 +1280,7 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 1221,
+        "confirmed": 1244,
         "deaths": 16,
         "recovered": 7
       }
@@ -1490,7 +1490,7 @@
     },
     "TWN": {
       "latest": {
-        "confirmed": 252,
+        "confirmed": 267,
         "deaths": 2,
         "recovered": 29
       }
@@ -1850,7 +1850,7 @@
     "ZAF": {
       "latest": {
         "confirmed": 927,
-        "deaths": 0,
+        "deaths": 2,
         "recovered": 12
       }
     },

@@ -269,7 +269,8 @@ var covid19_dataset_country_grc = {
       19,
       29,
       36,
-      36
+      36,
+      42
     ]
   }
 };

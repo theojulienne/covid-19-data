@@ -11,7 +11,7 @@
     "live": {
       "confirmed": 174,
       "date": "2020-03-27",
-      "deaths": 6,
+      "deaths": 7,
       "recovered": 17
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 6909,
+      "confirmed": 6962,
       "date": "2020-03-27",
       "deaths": 49,
       "recovered": 112
@@ -112,7 +112,7 @@
       "confirmed": 458,
       "date": "2020-03-27",
       "deaths": 4,
-      "recovered": 204
+      "recovered": 210
     }
   },
   "Belgium": {
@@ -127,7 +127,7 @@
     "live": {
       "confirmed": 191,
       "date": "2020-03-27",
-      "deaths": 3,
+      "deaths": 5,
       "recovered": 2
     }
   },
@@ -235,10 +235,10 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 566,
-          "date": "2020-03-26",
+          "confirmed": 569,
+          "date": "2020-03-27",
           "deaths": 8,
-          "recovered": 406
+          "recovered": 408
         }
       },
       "Chongqing": {
@@ -251,8 +251,8 @@
       },
       "Fujian": {
         "live": {
-          "confirmed": 328,
-          "date": "2020-03-26",
+          "confirmed": 331,
+          "date": "2020-03-27",
           "deaths": 1,
           "recovered": 295
         }
@@ -260,17 +260,17 @@
       "Gansu": {
         "live": {
           "confirmed": 136,
-          "date": "2020-03-25",
+          "date": "2020-03-27",
           "deaths": 2,
-          "recovered": 121
+          "recovered": 123
         }
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1448,
-          "date": "2020-03-26",
+          "confirmed": 1456,
+          "date": "2020-03-27",
           "deaths": 8,
-          "recovered": 1336
+          "recovered": 1337
         }
       },
       "Guangxi": {
@@ -332,9 +332,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67801,
-          "date": "2020-03-26",
-          "deaths": 3169,
-          "recovered": 61201
+          "date": "2020-03-27",
+          "deaths": 3174,
+          "recovered": 61731
         }
       },
       "Hunan": {
@@ -347,16 +347,16 @@
       },
       "Inner Mongolia": {
         "live": {
-          "confirmed": 89,
-          "date": "2020-03-26",
+          "confirmed": 92,
+          "date": "2020-03-27",
           "deaths": 1,
           "recovered": 74
         }
       },
       "Jiangsu": {
         "live": {
-          "confirmed": 640,
-          "date": "2020-03-26",
+          "confirmed": 641,
+          "date": "2020-03-27",
           "deaths": 0,
           "recovered": 631
         }
@@ -380,7 +380,7 @@
       "Liaoning": {
         "live": {
           "confirmed": 128,
-          "date": "2020-03-26",
+          "date": "2020-03-27",
           "deaths": 2,
           "recovered": 124
         }
@@ -395,18 +395,18 @@
       },
       "Shandong": {
         "live": {
-          "confirmed": 771,
-          "date": "2020-03-26",
+          "confirmed": 772,
+          "date": "2020-03-27",
           "deaths": 7,
           "recovered": 752
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 451,
-          "date": "2020-03-26",
+          "confirmed": 468,
+          "date": "2020-03-27",
           "deaths": 5,
-          "recovered": 331
+          "recovered": 334
         }
       },
       "Shanxi": {
@@ -419,15 +419,15 @@
       },
       "Sichuan": {
         "live": {
-          "confirmed": 547,
-          "date": "2020-03-25",
+          "confirmed": 548,
+          "date": "2020-03-27",
           "deaths": 3,
           "recovered": 536
         }
       },
       "Tianjin": {
         "live": {
-          "confirmed": 151,
+          "confirmed": 152,
           "date": "2020-03-26",
           "deaths": 3,
           "recovered": 133
@@ -435,16 +435,16 @@
       },
       "Yunnan": {
         "live": {
-          "confirmed": 178,
-          "date": "2020-03-25",
+          "confirmed": 180,
+          "date": "2020-03-26",
           "deaths": 2,
           "recovered": 172
         }
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1243,
-          "date": "2020-03-26",
+          "confirmed": 1247,
+          "date": "2020-03-27",
           "deaths": 1,
           "recovered": 1222
         }
@@ -493,7 +493,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1925,
+      "confirmed": 2062,
       "date": "2020-03-27",
       "deaths": 9,
       "recovered": 10
@@ -565,9 +565,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 43938,
+      "confirmed": 47278,
       "date": "2020-03-27",
-      "deaths": 267,
+      "deaths": 281,
       "recovered": 5673
     }
   },
@@ -584,7 +584,7 @@
       "confirmed": 892,
       "date": "2020-03-27",
       "deaths": 27,
-      "recovered": 36
+      "recovered": 42
     }
   },
   "Hungary": {
@@ -717,7 +717,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 344,
+      "confirmed": 345,
       "date": "2020-03-27",
       "deaths": 4,
       "recovered": 1
@@ -759,7 +759,7 @@
     "live": {
       "confirmed": 177,
       "date": "2020-03-27",
-      "deaths": 1,
+      "deaths": 2,
       "recovered": 2
     }
   },
@@ -845,7 +845,7 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1221,
+      "confirmed": 1244,
       "date": "2020-03-27",
       "deaths": 16,
       "recovered": 7
@@ -943,7 +943,7 @@
     "live": {
       "confirmed": 927,
       "date": "2020-03-27",
-      "deaths": 0,
+      "deaths": 2,
       "recovered": 12
     }
   },
@@ -975,14 +975,14 @@
     "live": {
       "confirmed": 11811,
       "date": "2020-03-27",
-      "deaths": 192,
+      "deaths": 194,
       "recovered": 131
     }
   },
   "Taiwan*": {
     "live": {
-      "confirmed": 252,
-      "date": "2020-03-26",
+      "confirmed": 267,
+      "date": "2020-03-27",
       "deaths": 2,
       "recovered": 29
     }

@@ -268,7 +268,8 @@ var covid19_dataset_country_bhr = {
       149,
       177,
       177,
-      204
+      204,
+      210
     ]
   }
 };
