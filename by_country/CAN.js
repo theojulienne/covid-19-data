@@ -1311,7 +1311,7 @@ var covid19_dataset_country_can = {
           588,
           688,
           858,
-          993
+          994
         ],
         "deaths": [
           0,

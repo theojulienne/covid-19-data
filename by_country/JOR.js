@@ -270,7 +270,7 @@ var covid19_dataset_country_jor = {
       1,
       1,
       1,
-      17
+      18
     ]
   }
 };
