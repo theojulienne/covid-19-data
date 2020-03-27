@@ -115,14 +115,6 @@
       "recovered": 204
     }
   },
-  "Belarus": {
-    "live": {
-      "confirmed": 86,
-      "date": "2020-03-27",
-      "deaths": 0,
-      "recovered": 29
-    }
-  },
   "Belgium": {
     "live": {
       "confirmed": 6235,
@@ -693,10 +685,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 9241,
+      "confirmed": 9332,
       "date": "2020-03-27",
-      "deaths": 131,
-      "recovered": 4144
+      "deaths": 139,
+      "recovered": 4528
     }
   },
   "Kuwait": {
@@ -757,7 +749,7 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 475,
+      "confirmed": 585,
       "date": "2020-03-27",
       "deaths": 6,
       "recovered": 4
@@ -1087,7 +1079,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 785,
+          "confirmed": 922,
           "date": "2020-03-27",
           "deaths": 51,
           "recovered": 0
@@ -1191,9 +1183,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 38573,
+          "confirmed": 38588,
           "date": "2020-03-27",
-          "deaths": 419,
+          "deaths": 422,
           "recovered": 0
         }
       },

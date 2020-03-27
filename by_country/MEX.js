@@ -134,7 +134,8 @@ var covid19_dataset_country_mex = {
       316,
       367,
       405,
-      475
+      475,
+      585
     ],
     "deaths": [
       0,
