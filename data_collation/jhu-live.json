@@ -51,7 +51,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1219,
+          "confirmed": 1405,
           "date": "2020-03-27",
           "deaths": 7,
           "recovered": 4
@@ -75,10 +75,10 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 520,
+          "confirmed": 574,
           "date": "2020-03-27",
           "deaths": 3,
-          "recovered": 149
+          "recovered": 171
         }
       },
       "Western Australia": {
@@ -168,7 +168,7 @@
       "confirmed": 98,
       "date": "2020-03-27",
       "deaths": 0,
-      "recovered": 10
+      "recovered": 11
     }
   },
   "Canada": {
@@ -605,10 +605,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 727,
+      "confirmed": 733,
       "date": "2020-03-27",
       "deaths": 20,
-      "recovered": 45
+      "recovered": 66
     }
   },
   "Indonesia": {
@@ -677,7 +677,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 113,
+      "confirmed": 121,
       "date": "2020-03-27",
       "deaths": 1,
       "recovered": 2
@@ -735,7 +735,7 @@
     "live": {
       "confirmed": 2031,
       "date": "2020-03-27",
-      "deaths": 23,
+      "deaths": 24,
       "recovered": 215
     }
   },
@@ -751,7 +751,7 @@
     "live": {
       "confirmed": 585,
       "date": "2020-03-27",
-      "deaths": 6,
+      "deaths": 8,
       "recovered": 4
     }
   },
@@ -1167,7 +1167,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 350,
+          "confirmed": 459,
           "date": "2020-03-27",
           "deaths": 10,
           "recovered": 0
@@ -1215,7 +1215,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 1187,
+          "confirmed": 1205,
           "date": "2020-03-27",
           "deaths": 8,
           "recovered": 0
@@ -1239,9 +1239,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 944,
+          "confirmed": 856,
           "date": "2020-03-27",
-          "deaths": 16,
+          "deaths": 15,
           "recovered": 0
         }
       },
