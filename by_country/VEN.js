@@ -267,6 +267,7 @@ var covid19_dataset_country_ven = {
       15,
       15,
       15,
+      15,
       15
     ]
   }

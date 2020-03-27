@@ -267,6 +267,7 @@ var covid19_dataset_country_nam = {
       0,
       0,
       2,
+      2,
       2
     ]
   }

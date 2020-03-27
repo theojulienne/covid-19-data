@@ -267,6 +267,7 @@ var covid19_dataset_country_hrv = {
       5,
       5,
       5,
+      22,
       22
     ]
   }

@@ -267,6 +267,7 @@ var covid19_dataset_country_gab = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

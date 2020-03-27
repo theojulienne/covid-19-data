@@ -267,6 +267,7 @@ var covid19_dataset_country_ltu = {
       1,
       1,
       1,
+      1,
       1
     ]
   }

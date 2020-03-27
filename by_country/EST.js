@@ -267,6 +267,7 @@ var covid19_dataset_country_est = {
       2,
       2,
       7,
+      8,
       8
     ]
   }

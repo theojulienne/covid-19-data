@@ -267,6 +267,7 @@ var covid19_dataset_country_twn = {
       28,
       28,
       29,
+      29,
       29
     ]
   }

@@ -267,6 +267,7 @@ var covid19_dataset_country_are = {
       38,
       38,
       45,
+      52,
       52
     ]
   }

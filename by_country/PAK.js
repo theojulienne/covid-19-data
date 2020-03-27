@@ -267,6 +267,7 @@ var covid19_dataset_country_pak = {
       5,
       5,
       18,
+      21,
       21
     ]
   }

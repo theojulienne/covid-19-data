@@ -267,6 +267,7 @@ var covid19_dataset_country_lca = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

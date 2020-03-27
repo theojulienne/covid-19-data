@@ -267,6 +267,7 @@ var covid19_dataset_country_col = {
       3,
       3,
       6,
+      8,
       8
     ]
   }

@@ -267,6 +267,7 @@ var covid19_dataset_country_mex = {
       4,
       4,
       4,
+      4,
       4
     ]
   }
