@@ -269,7 +269,8 @@ var covid19_dataset_country_isl = {
       36,
       51,
       56,
-      82
+      82,
+      97
     ]
   }
 };

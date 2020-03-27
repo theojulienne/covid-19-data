@@ -134,7 +134,8 @@ var covid19_dataset_country_mus = {
       36,
       42,
       48,
-      81
+      81,
+      94
     ],
     "deaths": [
       0,
