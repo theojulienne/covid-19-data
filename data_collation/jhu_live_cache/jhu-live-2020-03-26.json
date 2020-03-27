@@ -1,0 +1,1330 @@
+{
+  "Afghanistan": {
+    "live": {
+      "confirmed": 94,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 2
+    }
+  },
+  "Albania": {
+    "live": {
+      "confirmed": 174,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 17
+    }
+  },
+  "Algeria": {
+    "live": {
+      "confirmed": 367,
+      "date": "2020-03-26",
+      "deaths": 25,
+      "recovered": 29
+    }
+  },
+  "Andorra": {
+    "live": {
+      "confirmed": 224,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 1
+    }
+  },
+  "Argentina": {
+    "live": {
+      "confirmed": 502,
+      "date": "2020-03-26",
+      "deaths": 9,
+      "recovered": 63
+    }
+  },
+  "Armenia": {
+    "live": {
+      "confirmed": 290,
+      "date": "2020-03-26",
+      "deaths": 1,
+      "recovered": 18
+    }
+  },
+  "Australia": {
+    "subseries": {
+      "New South Wales": {
+        "live": {
+          "confirmed": 1219,
+          "date": "2020-03-26",
+          "deaths": 7,
+          "recovered": 4
+        }
+      },
+      "Queensland": {
+        "live": {
+          "confirmed": 493,
+          "date": "2020-03-26",
+          "deaths": 1,
+          "recovered": 8
+        }
+      },
+      "South Australia": {
+        "live": {
+          "confirmed": 235,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 6
+        }
+      },
+      "Victoria": {
+        "live": {
+          "confirmed": 520,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 149
+        }
+      },
+      "Western Australia": {
+        "live": {
+          "confirmed": 231,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 1
+        }
+      }
+    }
+  },
+  "Austria": {
+    "live": {
+      "confirmed": 6909,
+      "date": "2020-03-26",
+      "deaths": 49,
+      "recovered": 112
+    }
+  },
+  "Azerbaijan": {
+    "live": {
+      "confirmed": 122,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 15
+    }
+  },
+  "Bahrain": {
+    "live": {
+      "confirmed": 458,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 204
+    }
+  },
+  "Belarus": {
+    "live": {
+      "confirmed": 86,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 29
+    }
+  },
+  "Belgium": {
+    "live": {
+      "confirmed": 6235,
+      "date": "2020-03-26",
+      "deaths": 220,
+      "recovered": 675
+    }
+  },
+  "Bosnia and Herzegovina": {
+    "live": {
+      "confirmed": 191,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 2
+    }
+  },
+  "Brazil": {
+    "live": {
+      "confirmed": 2985,
+      "date": "2020-03-26",
+      "deaths": 77,
+      "recovered": 6
+    }
+  },
+  "Brunei": {
+    "live": {
+      "confirmed": 114,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 5
+    }
+  },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 264,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 8
+    }
+  },
+  "Burkina Faso": {
+    "live": {
+      "confirmed": 152,
+      "date": "2020-03-26",
+      "deaths": 7,
+      "recovered": 10
+    }
+  },
+  "Cambodia": {
+    "live": {
+      "confirmed": 96,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 10
+    }
+  },
+  "Canada": {
+    "subseries": {
+      "Alberta": {
+        "live": {
+          "confirmed": 486,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 0
+        }
+      },
+      "British Columbia": {
+        "live": {
+          "confirmed": 725,
+          "date": "2020-03-26",
+          "deaths": 14,
+          "recovered": 0
+        }
+      },
+      "Ontario": {
+        "live": {
+          "confirmed": 858,
+          "date": "2020-03-26",
+          "deaths": 13,
+          "recovered": 0
+        }
+      },
+      "Quebec": {
+        "live": {
+          "confirmed": 1632,
+          "date": "2020-03-26",
+          "deaths": 8,
+          "recovered": 0
+        }
+      },
+      "Saskatchewan": {
+        "live": {
+          "confirmed": 95,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      }
+    }
+  },
+  "Chile": {
+    "live": {
+      "confirmed": 1306,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 22
+    }
+  },
+  "China": {
+    "subseries": {
+      "Anhui": {
+        "live": {
+          "confirmed": 990,
+          "date": "2020-03-08",
+          "deaths": 6,
+          "recovered": 984
+        }
+      },
+      "Beijing": {
+        "live": {
+          "confirmed": 566,
+          "date": "2020-03-26",
+          "deaths": 8,
+          "recovered": 406
+        }
+      },
+      "Chongqing": {
+        "live": {
+          "confirmed": 578,
+          "date": "2020-03-23",
+          "deaths": 6,
+          "recovered": 570
+        }
+      },
+      "Fujian": {
+        "live": {
+          "confirmed": 328,
+          "date": "2020-03-26",
+          "deaths": 1,
+          "recovered": 295
+        }
+      },
+      "Gansu": {
+        "live": {
+          "confirmed": 136,
+          "date": "2020-03-25",
+          "deaths": 2,
+          "recovered": 121
+        }
+      },
+      "Guangdong": {
+        "live": {
+          "confirmed": 1448,
+          "date": "2020-03-26",
+          "deaths": 8,
+          "recovered": 1336
+        }
+      },
+      "Guangxi": {
+        "live": {
+          "confirmed": 254,
+          "date": "2020-03-20",
+          "deaths": 2,
+          "recovered": 250
+        }
+      },
+      "Guizhou": {
+        "live": {
+          "confirmed": 146,
+          "date": "2020-03-18",
+          "deaths": 2,
+          "recovered": 144
+        }
+      },
+      "Hainan": {
+        "live": {
+          "confirmed": 168,
+          "date": "2020-03-24",
+          "deaths": 6,
+          "recovered": 168
+        }
+      },
+      "Hebei": {
+        "live": {
+          "confirmed": 319,
+          "date": "2020-03-23",
+          "deaths": 6,
+          "recovered": 310
+        }
+      },
+      "Heilongjiang": {
+        "live": {
+          "confirmed": 484,
+          "date": "2020-03-26",
+          "deaths": 13,
+          "recovered": 469
+        }
+      },
+      "Henan": {
+        "live": {
+          "confirmed": 1275,
+          "date": "2020-03-26",
+          "deaths": 22,
+          "recovered": 1250
+        }
+      },
+      "Hong Kong": {
+        "live": {
+          "confirmed": 453,
+          "date": "2020-03-26",
+          "deaths": 4,
+          "recovered": 110
+        }
+      },
+      "Hubei": {
+        "live": {
+          "confirmed": 67801,
+          "date": "2020-03-26",
+          "deaths": 3169,
+          "recovered": 61201
+        }
+      },
+      "Hunan": {
+        "live": {
+          "confirmed": 1018,
+          "date": "2020-03-14",
+          "deaths": 4,
+          "recovered": 1014
+        }
+      },
+      "Inner Mongolia": {
+        "live": {
+          "confirmed": 89,
+          "date": "2020-03-26",
+          "deaths": 1,
+          "recovered": 74
+        }
+      },
+      "Jiangsu": {
+        "live": {
+          "confirmed": 640,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 631
+        }
+      },
+      "Jiangxi": {
+        "live": {
+          "confirmed": 936,
+          "date": "2020-03-23",
+          "deaths": 1,
+          "recovered": 934
+        }
+      },
+      "Jilin": {
+        "live": {
+          "confirmed": 95,
+          "date": "2020-03-25",
+          "deaths": 1,
+          "recovered": 92
+        }
+      },
+      "Liaoning": {
+        "live": {
+          "confirmed": 128,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 124
+        }
+      },
+      "Shaanxi": {
+        "live": {
+          "confirmed": 253,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 242
+        }
+      },
+      "Shandong": {
+        "live": {
+          "confirmed": 771,
+          "date": "2020-03-26",
+          "deaths": 7,
+          "recovered": 752
+        }
+      },
+      "Shanghai": {
+        "live": {
+          "confirmed": 451,
+          "date": "2020-03-26",
+          "deaths": 5,
+          "recovered": 331
+        }
+      },
+      "Shanxi": {
+        "live": {
+          "confirmed": 135,
+          "date": "2020-03-25",
+          "deaths": 0,
+          "recovered": 133
+        }
+      },
+      "Sichuan": {
+        "live": {
+          "confirmed": 547,
+          "date": "2020-03-25",
+          "deaths": 3,
+          "recovered": 536
+        }
+      },
+      "Tianjin": {
+        "live": {
+          "confirmed": 151,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 133
+        }
+      },
+      "Yunnan": {
+        "live": {
+          "confirmed": 178,
+          "date": "2020-03-25",
+          "deaths": 2,
+          "recovered": 172
+        }
+      },
+      "Zhejiang": {
+        "live": {
+          "confirmed": 1243,
+          "date": "2020-03-26",
+          "deaths": 1,
+          "recovered": 1222
+        }
+      }
+    }
+  },
+  "Colombia": {
+    "live": {
+      "confirmed": 491,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 8
+    }
+  },
+  "Costa Rica": {
+    "live": {
+      "confirmed": 231,
+      "date": "2020-03-26",
+      "deaths": 2,
+      "recovered": 2
+    }
+  },
+  "Cote d'Ivoire": {
+    "live": {
+      "confirmed": 96,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 3
+    }
+  },
+  "Croatia": {
+    "live": {
+      "confirmed": 495,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 22
+    }
+  },
+  "Cyprus": {
+    "live": {
+      "confirmed": 146,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 4
+    }
+  },
+  "Czechia": {
+    "live": {
+      "confirmed": 1925,
+      "date": "2020-03-26",
+      "deaths": 9,
+      "recovered": 10
+    }
+  },
+  "Denmark": {
+    "live": {
+      "confirmed": 1877,
+      "date": "2020-03-26",
+      "deaths": 41,
+      "recovered": 1
+    }
+  },
+  "Diamond Princess": {
+    "live": {
+      "confirmed": 712,
+      "date": "2020-03-26",
+      "deaths": 10,
+      "recovered": 597
+    }
+  },
+  "Dominican Republic": {
+    "live": {
+      "confirmed": 488,
+      "date": "2020-03-26",
+      "deaths": 10,
+      "recovered": 3
+    }
+  },
+  "Ecuador": {
+    "live": {
+      "confirmed": 1403,
+      "date": "2020-03-26",
+      "deaths": 34,
+      "recovered": 3
+    }
+  },
+  "Egypt": {
+    "live": {
+      "confirmed": 495,
+      "date": "2020-03-26",
+      "deaths": 24,
+      "recovered": 102
+    }
+  },
+  "Estonia": {
+    "live": {
+      "confirmed": 538,
+      "date": "2020-03-26",
+      "deaths": 1,
+      "recovered": 8
+    }
+  },
+  "Finland": {
+    "live": {
+      "confirmed": 958,
+      "date": "2020-03-26",
+      "deaths": 5,
+      "recovered": 10
+    }
+  },
+  "France": {
+    "live": {
+      "confirmed": 29155,
+      "date": "2020-03-26",
+      "deaths": 1696,
+      "recovered": 4948
+    }
+  },
+  "Germany": {
+    "live": {
+      "confirmed": 43938,
+      "date": "2020-03-26",
+      "deaths": 267,
+      "recovered": 5673
+    }
+  },
+  "Ghana": {
+    "live": {
+      "confirmed": 132,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 1
+    }
+  },
+  "Greece": {
+    "live": {
+      "confirmed": 892,
+      "date": "2020-03-26",
+      "deaths": 26,
+      "recovered": 36
+    }
+  },
+  "Hungary": {
+    "live": {
+      "confirmed": 261,
+      "date": "2020-03-26",
+      "deaths": 10,
+      "recovered": 28
+    }
+  },
+  "Iceland": {
+    "live": {
+      "confirmed": 802,
+      "date": "2020-03-26",
+      "deaths": 2,
+      "recovered": 82
+    }
+  },
+  "India": {
+    "live": {
+      "confirmed": 727,
+      "date": "2020-03-26",
+      "deaths": 20,
+      "recovered": 45
+    }
+  },
+  "Indonesia": {
+    "live": {
+      "confirmed": 893,
+      "date": "2020-03-26",
+      "deaths": 78,
+      "recovered": 35
+    }
+  },
+  "Iran": {
+    "live": {
+      "confirmed": 29406,
+      "date": "2020-03-26",
+      "deaths": 2234,
+      "recovered": 10457
+    }
+  },
+  "Iraq": {
+    "live": {
+      "confirmed": 382,
+      "date": "2020-03-26",
+      "deaths": 36,
+      "recovered": 105
+    }
+  },
+  "Ireland": {
+    "live": {
+      "confirmed": 1819,
+      "date": "2020-03-26",
+      "deaths": 19,
+      "recovered": 5
+    }
+  },
+  "Israel": {
+    "live": {
+      "confirmed": 2693,
+      "date": "2020-03-26",
+      "deaths": 8,
+      "recovered": 68
+    }
+  },
+  "Italy": {
+    "live": {
+      "confirmed": 80589,
+      "date": "2020-03-26",
+      "deaths": 8215,
+      "recovered": 10361
+    }
+  },
+  "Japan": {
+    "live": {
+      "confirmed": 1387,
+      "date": "2020-03-26",
+      "deaths": 47,
+      "recovered": 359
+    }
+  },
+  "Jordan": {
+    "live": {
+      "confirmed": 212,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  "Kazakhstan": {
+    "live": {
+      "confirmed": 111,
+      "date": "2020-03-26",
+      "deaths": 1,
+      "recovered": 2
+    }
+  },
+  "Korea, South": {
+    "live": {
+      "confirmed": 9241,
+      "date": "2020-03-26",
+      "deaths": 131,
+      "recovered": 4144
+    }
+  },
+  "Kuwait": {
+    "live": {
+      "confirmed": 208,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 49
+    }
+  },
+  "Latvia": {
+    "live": {
+      "confirmed": 244,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  "Lebanon": {
+    "live": {
+      "confirmed": 368,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 23
+    }
+  },
+  "Lithuania": {
+    "live": {
+      "confirmed": 299,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 1
+    }
+  },
+  "Luxembourg": {
+    "live": {
+      "confirmed": 1453,
+      "date": "2020-03-26",
+      "deaths": 9,
+      "recovered": 6
+    }
+  },
+  "Malaysia": {
+    "live": {
+      "confirmed": 2031,
+      "date": "2020-03-26",
+      "deaths": 23,
+      "recovered": 215
+    }
+  },
+  "Malta": {
+    "live": {
+      "confirmed": 134,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  "Mexico": {
+    "live": {
+      "confirmed": 475,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 4
+    }
+  },
+  "Moldova": {
+    "live": {
+      "confirmed": 177,
+      "date": "2020-03-26",
+      "deaths": 1,
+      "recovered": 2
+    }
+  },
+  "Morocco": {
+    "live": {
+      "confirmed": 275,
+      "date": "2020-03-26",
+      "deaths": 11,
+      "recovered": 8
+    }
+  },
+  "Netherlands": {
+    "live": {
+      "confirmed": 7431,
+      "date": "2020-03-26",
+      "deaths": 434,
+      "recovered": 3
+    }
+  },
+  "New Zealand": {
+    "live": {
+      "confirmed": 283,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 27
+    }
+  },
+  "North Macedonia": {
+    "live": {
+      "confirmed": 201,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 3
+    }
+  },
+  "Norway": {
+    "live": {
+      "confirmed": 3369,
+      "date": "2020-03-26",
+      "deaths": 14,
+      "recovered": 6
+    }
+  },
+  "Oman": {
+    "live": {
+      "confirmed": 109,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 23
+    }
+  },
+  "Pakistan": {
+    "live": {
+      "confirmed": 1201,
+      "date": "2020-03-26",
+      "deaths": 9,
+      "recovered": 21
+    }
+  },
+  "Panama": {
+    "live": {
+      "confirmed": 558,
+      "date": "2020-03-26",
+      "deaths": 8,
+      "recovered": 2
+    }
+  },
+  "Peru": {
+    "live": {
+      "confirmed": 580,
+      "date": "2020-03-26",
+      "deaths": 9,
+      "recovered": 14
+    }
+  },
+  "Philippines": {
+    "live": {
+      "confirmed": 707,
+      "date": "2020-03-26",
+      "deaths": 45,
+      "recovered": 28
+    }
+  },
+  "Poland": {
+    "live": {
+      "confirmed": 1221,
+      "date": "2020-03-26",
+      "deaths": 16,
+      "recovered": 7
+    }
+  },
+  "Portugal": {
+    "live": {
+      "confirmed": 3544,
+      "date": "2020-03-26",
+      "deaths": 60,
+      "recovered": 43
+    }
+  },
+  "Qatar": {
+    "live": {
+      "confirmed": 549,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 43
+    }
+  },
+  "Romania": {
+    "live": {
+      "confirmed": 1029,
+      "date": "2020-03-26",
+      "deaths": 23,
+      "recovered": 94
+    }
+  },
+  "Russia": {
+    "live": {
+      "confirmed": 840,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 38
+    }
+  },
+  "San Marino": {
+    "live": {
+      "confirmed": 208,
+      "date": "2020-03-26",
+      "deaths": 21,
+      "recovered": 4
+    }
+  },
+  "Saudi Arabia": {
+    "live": {
+      "confirmed": 1012,
+      "date": "2020-03-26",
+      "deaths": 3,
+      "recovered": 33
+    }
+  },
+  "Senegal": {
+    "live": {
+      "confirmed": 105,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 9
+    }
+  },
+  "Serbia": {
+    "live": {
+      "confirmed": 384,
+      "date": "2020-03-26",
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  "Singapore": {
+    "live": {
+      "confirmed": 683,
+      "date": "2020-03-26",
+      "deaths": 2,
+      "recovered": 172
+    }
+  },
+  "Slovakia": {
+    "live": {
+      "confirmed": 226,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  "Slovenia": {
+    "live": {
+      "confirmed": 562,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 10
+    }
+  },
+  "South Africa": {
+    "live": {
+      "confirmed": 927,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 12
+    }
+  },
+  "Spain": {
+    "live": {
+      "confirmed": 57786,
+      "date": "2020-03-26",
+      "deaths": 4365,
+      "recovered": 7015
+    }
+  },
+  "Sri Lanka": {
+    "live": {
+      "confirmed": 106,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 7
+    }
+  },
+  "Sweden": {
+    "live": {
+      "confirmed": 2840,
+      "date": "2020-03-26",
+      "deaths": 77,
+      "recovered": 16
+    }
+  },
+  "Switzerland": {
+    "live": {
+      "confirmed": 11811,
+      "date": "2020-03-26",
+      "deaths": 191,
+      "recovered": 131
+    }
+  },
+  "Taiwan*": {
+    "live": {
+      "confirmed": 252,
+      "date": "2020-03-26",
+      "deaths": 2,
+      "recovered": 29
+    }
+  },
+  "Thailand": {
+    "live": {
+      "confirmed": 1045,
+      "date": "2020-03-26",
+      "deaths": 4,
+      "recovered": 88
+    }
+  },
+  "Tunisia": {
+    "live": {
+      "confirmed": 197,
+      "date": "2020-03-26",
+      "deaths": 6,
+      "recovered": 2
+    }
+  },
+  "Turkey": {
+    "live": {
+      "confirmed": 3629,
+      "date": "2020-03-26",
+      "deaths": 75,
+      "recovered": 26
+    }
+  },
+  "US": {
+    "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 159,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Arizona": {
+        "live": {
+          "confirmed": 299,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 0
+        }
+      },
+      "California": {
+        "live": {
+          "confirmed": 3265,
+          "date": "2020-03-26",
+          "deaths": 69,
+          "recovered": 0
+        }
+      },
+      "Colorado": {
+        "live": {
+          "confirmed": 1005,
+          "date": "2020-03-26",
+          "deaths": 15,
+          "recovered": 0
+        }
+      },
+      "Connecticut": {
+        "live": {
+          "confirmed": 901,
+          "date": "2020-03-26",
+          "deaths": 17,
+          "recovered": 0
+        }
+      },
+      "Delaware": {
+        "live": {
+          "confirmed": 86,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "District of Columbia": {
+        "live": {
+          "confirmed": 231,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 0
+        }
+      },
+      "Florida": {
+        "live": {
+          "confirmed": 1541,
+          "date": "2020-03-26",
+          "deaths": 11,
+          "recovered": 0
+        }
+      },
+      "Georgia": {
+        "live": {
+          "confirmed": 863,
+          "date": "2020-03-26",
+          "deaths": 43,
+          "recovered": 0
+        }
+      },
+      "Illinois": {
+        "live": {
+          "confirmed": 2356,
+          "date": "2020-03-26",
+          "deaths": 19,
+          "recovered": 0
+        }
+      },
+      "Indiana": {
+        "live": {
+          "confirmed": 293,
+          "date": "2020-03-26",
+          "deaths": 6,
+          "recovered": 0
+        }
+      },
+      "Kentucky": {
+        "live": {
+          "confirmed": 104,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Louisiana": {
+        "live": {
+          "confirmed": 1855,
+          "date": "2020-03-26",
+          "deaths": 65,
+          "recovered": 0
+        }
+      },
+      "Maine": {
+        "live": {
+          "confirmed": 90,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Maryland": {
+        "live": {
+          "confirmed": 265,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 0
+        }
+      },
+      "Massachusetts": {
+        "live": {
+          "confirmed": 2186,
+          "date": "2020-03-26",
+          "deaths": 22,
+          "recovered": 0
+        }
+      },
+      "Michigan": {
+        "live": {
+          "confirmed": 2496,
+          "date": "2020-03-26",
+          "deaths": 55,
+          "recovered": 0
+        }
+      },
+      "Minnesota": {
+        "live": {
+          "confirmed": 128,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Missouri": {
+        "live": {
+          "confirmed": 173,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 0
+        }
+      },
+      "Nevada": {
+        "live": {
+          "confirmed": 350,
+          "date": "2020-03-26",
+          "deaths": 6,
+          "recovered": 0
+        }
+      },
+      "New Jersey": {
+        "live": {
+          "confirmed": 6565,
+          "date": "2020-03-26",
+          "deaths": 80,
+          "recovered": 0
+        }
+      },
+      "New York": {
+        "live": {
+          "confirmed": 37334,
+          "date": "2020-03-26",
+          "deaths": 335,
+          "recovered": 0
+        }
+      },
+      "North Carolina": {
+        "live": {
+          "confirmed": 397,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Ohio": {
+        "live": {
+          "confirmed": 368,
+          "date": "2020-03-26",
+          "deaths": 4,
+          "recovered": 0
+        }
+      },
+      "Oregon": {
+        "live": {
+          "confirmed": 104,
+          "date": "2020-03-26",
+          "deaths": 3,
+          "recovered": 0
+        }
+      },
+      "Pennsylvania": {
+        "live": {
+          "confirmed": 1187,
+          "date": "2020-03-26",
+          "deaths": 8,
+          "recovered": 0
+        }
+      },
+      "Rhode Island": {
+        "live": {
+          "confirmed": 91,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Tennessee": {
+        "live": {
+          "confirmed": 720,
+          "date": "2020-03-26",
+          "deaths": 2,
+          "recovered": 0
+        }
+      },
+      "Texas": {
+        "live": {
+          "confirmed": 725,
+          "date": "2020-03-26",
+          "deaths": 10,
+          "recovered": 0
+        }
+      },
+      "Utah": {
+        "live": {
+          "confirmed": 273,
+          "date": "2020-03-26",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Washington": {
+        "live": {
+          "confirmed": 2541,
+          "date": "2020-03-26",
+          "deaths": 131,
+          "recovered": 0
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 481,
+          "date": "2020-03-26",
+          "deaths": 8,
+          "recovered": 0
+        }
+      }
+    }
+  },
+  "Ukraine": {
+    "live": {
+      "confirmed": 196,
+      "date": "2020-03-26",
+      "deaths": 5,
+      "recovered": 1
+    }
+  },
+  "United Arab Emirates": {
+    "live": {
+      "confirmed": 333,
+      "date": "2020-03-26",
+      "deaths": 2,
+      "recovered": 52
+    }
+  },
+  "United Kingdom": {
+    "live": {
+      "confirmed": 11658,
+      "date": "2020-03-26",
+      "deaths": 578,
+      "recovered": 135
+    }
+  },
+  "Uruguay": {
+    "live": {
+      "confirmed": 217,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  "Venezuela": {
+    "live": {
+      "confirmed": 107,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 15
+    }
+  },
+  "Vietnam": {
+    "live": {
+      "confirmed": 153,
+      "date": "2020-03-26",
+      "deaths": 0,
+      "recovered": 20
+    }
+  }
+}

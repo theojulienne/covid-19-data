@@ -11,6 +11,8 @@ live_data = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: 0)))
 
 response = requests.get(feed_url, headers=feed_headers)
 if response:
+  latest_date = None
+
   dataset_items = response.json()['features']
   for feature in dataset_items:
     point = feature['attributes']
@@ -21,7 +23,10 @@ if response:
     live_data[country][state]['deaths'] += point['Deaths']
 
     when = point['Last_Update'] / 1000.
-    live_data[country][state]['date'] = str(datetime.datetime.utcfromtimestamp(when).date())
+    timestamp = datetime.datetime.utcfromtimestamp(when).date()
+    if latest_date is None or timestamp > latest_date:
+      latest_date = timestamp
+    live_data[country][state]['date'] = str(timestamp)
   
   for country in live_data.keys():
     if None in live_data[country]:
@@ -34,8 +39,13 @@ if response:
       }
     # print(country, live_data[country])
 
-  live_fn = 'data_collation/jhu-live.json'
-  with open(live_fn, 'w') as f:
-    json.dump(live_data, f, indent=2, sort_keys=True)
+  live_fns = [
+    'data_collation/jhu-live.json',
+    # keep a daily archived copy as well
+    'data_collation/jhu_live_cache/jhu-live-{}.json'.format(str(latest_date))
+  ]
+  for live_fn in live_fns:
+    with open(live_fn, 'w') as f:
+      json.dump(live_data, f, indent=2, sort_keys=True)
 else:
   print("WARNING: Could not download latest live dataset", response)
