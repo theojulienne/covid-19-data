@@ -105,6 +105,11 @@ au_states_to_codes = {
     'From Diamond Princess': 'From Diamond Princess',
 }
 
+all_states = {}
+all_states.update(us_states_to_codes)
+all_states.update(au_states_to_codes)
+state_codes_to_names = {v: k for k, v in all_states.items()}
+
 global_dates = []
 today = datetime.datetime.utcnow().date()
 curr = datetime.date(2020, 1, 22)
@@ -152,7 +157,7 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             continue
 
         if state:
-            live_sample = live_jhu_data.get(country_name, {}).get('subseries', {}).get('live', None)
+            live_sample = live_jhu_data.get(country_name, {}).get('subseries', {}).get(state, {}).get('live', None)
         else:
             live_sample = live_jhu_data.get(country_name, {}).get('live', None)
 
@@ -222,7 +227,7 @@ def subseries_total(part, pre_aggregated={}):
     return totals
 
 # we now have datasets from the primary JHU source, let's overlay more up to date/detailed data from our other sources.
-def merge_dataset(original_dates, original, updated):
+def merge_dataset(original_dates, original, updated, country_code, state_code):
     updated_dataset_dates = updated['timeseries_dates']
     del updated['timeseries_dates']
 
@@ -259,6 +264,24 @@ def merge_dataset(original_dates, original, updated):
         else:
             print('WARNING: attempt to merge datasets with conflicting field {}'.format(key))
     
+    # add in live data to the end of this overwritten states, if needed
+    live_sample = None
+    country_name = country_code_to_name[country_code]
+    if country_name:
+        if state_code:
+            if state_code in state_codes_to_names:
+                state_name = state_codes_to_names[state_code]
+                live_sample = live_jhu_data.get(country_name, {}).get('subseries', {}).get(state_name, {}).get('live', None)
+        else:
+            live_sample = live_jhu_data.get(country_name, {}).get('live', None)
+        if live_sample:
+            live_date = live_sample['date']
+            for key, timeseries in updated_dataset_totals.items():
+                if key not in live_sample: continue
+                if global_dates.index(live_date) == len(timeseries) and live_sample.get(key) > timeseries[-1]:
+                    # we have a live sample that is the "next day from where we have data"
+                    timeseries.append(live_sample[key])
+
     # these have been combined, so let's overwrite them that way
     dataset['total'].update(updated_dataset_totals)
 
@@ -271,7 +294,7 @@ for country_code in os.listdir('data_collation/by_state'):
         with open('data_collation/by_state/{}/{}.json'.format(country_code, state_code), 'r') as f:
             state_json = json.load(f)
 
-        datasets[country_code]['subseries'][state_code] = merge_dataset(global_dates, datasets[country_code]['subseries'][state_code], state_json)
+        datasets[country_code]['subseries'][state_code] = merge_dataset(global_dates, datasets[country_code]['subseries'][state_code], state_json, country_code=country_code, state_code=state_code)
 
 out = {
     'subseries': datasets,
