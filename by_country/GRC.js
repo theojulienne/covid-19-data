@@ -201,7 +201,8 @@ var covid19_dataset_country_grc = {
       17,
       20,
       22,
-      26
+      26,
+      27
     ],
     "recovered": [
       0,
