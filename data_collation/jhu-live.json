@@ -805,7 +805,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3370,
+      "confirmed": 3372,
       "date": "2020-03-27",
       "deaths": 14,
       "recovered": 6
@@ -983,7 +983,7 @@
     "live": {
       "confirmed": 11811,
       "date": "2020-03-27",
-      "deaths": 191,
+      "deaths": 192,
       "recovered": 131
     }
   },
@@ -1023,7 +1023,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 159,
+          "confirmed": 169,
           "date": "2020-03-27",
           "deaths": 0,
           "recovered": 0
@@ -1063,7 +1063,7 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 86,
+          "confirmed": 91,
           "date": "2020-03-27",
           "deaths": 0,
           "recovered": 0
@@ -1095,7 +1095,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 2270,
+          "confirmed": 2271,
           "date": "2020-03-27",
           "deaths": 19,
           "recovered": 0
@@ -1199,7 +1199,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 397,
+          "confirmed": 402,
           "date": "2020-03-27",
           "deaths": 0,
           "recovered": 0
@@ -1249,7 +1249,7 @@
         "live": {
           "confirmed": 944,
           "date": "2020-03-27",
-          "deaths": 14,
+          "deaths": 16,
           "recovered": 0
         }
       },
@@ -1315,7 +1315,7 @@
     "live": {
       "confirmed": 107,
       "date": "2020-03-27",
-      "deaths": 0,
+      "deaths": 1,
       "recovered": 15
     }
   },
