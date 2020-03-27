@@ -134,7 +134,8 @@ var covid19_dataset_country_and = {
       133,
       164,
       188,
-      224
+      224,
+      267
     ],
     "deaths": [
       0,
