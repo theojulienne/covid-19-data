@@ -134,7 +134,8 @@ var covid19_dataset_country_mlt = {
       107,
       110,
       129,
-      134
+      134,
+      139
     ],
     "deaths": [
       0,

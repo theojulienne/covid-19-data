@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 174,
+      "confirmed": 186,
       "date": "2020-03-27",
       "deaths": 8,
-      "recovered": 17
+      "recovered": 31
     }
   },
   "Algeria": {
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 7196,
+      "confirmed": 7269,
       "date": "2020-03-27",
       "deaths": 58,
       "recovered": 225
@@ -109,7 +109,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 458,
+      "confirmed": 466,
       "date": "2020-03-27",
       "deaths": 4,
       "recovered": 210
@@ -120,7 +120,7 @@
       "confirmed": 94,
       "date": "2020-03-27",
       "deaths": 0,
-      "recovered": 29
+      "recovered": 32
     }
   },
   "Belgium": {
@@ -141,7 +141,7 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 2985,
+      "confirmed": 2988,
       "date": "2020-03-27",
       "deaths": 77,
       "recovered": 6
@@ -173,7 +173,7 @@
   },
   "Cambodia": {
     "live": {
-      "confirmed": 98,
+      "confirmed": 99,
       "date": "2020-03-27",
       "deaths": 0,
       "recovered": 11
@@ -435,8 +435,8 @@
       },
       "Tianjin": {
         "live": {
-          "confirmed": 152,
-          "date": "2020-03-26",
+          "confirmed": 155,
+          "date": "2020-03-27",
           "deaths": 3,
           "recovered": 133
         }
@@ -557,7 +557,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 1035,
+      "confirmed": 1038,
       "date": "2020-03-27",
       "deaths": 5,
       "recovered": 10
@@ -637,10 +637,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 382,
+      "confirmed": 458,
       "date": "2020-03-27",
-      "deaths": 36,
-      "recovered": 105
+      "deaths": 40,
+      "recovered": 122
     }
   },
   "Ireland": {
@@ -717,9 +717,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 368,
+      "confirmed": 391,
       "date": "2020-03-27",
-      "deaths": 6,
+      "deaths": 7,
       "recovered": 23
     }
   },
@@ -749,7 +749,7 @@
   },
   "Malta": {
     "live": {
-      "confirmed": 134,
+      "confirmed": 139,
       "date": "2020-03-27",
       "deaths": 0,
       "recovered": 2
@@ -805,9 +805,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3423,
+      "confirmed": 3443,
       "date": "2020-03-27",
-      "deaths": 15,
+      "deaths": 16,
       "recovered": 6
     }
   },
@@ -821,7 +821,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1235,
+      "confirmed": 1252,
       "date": "2020-03-27",
       "deaths": 9,
       "recovered": 23
@@ -877,10 +877,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1029,
+      "confirmed": 1292,
       "date": "2020-03-27",
       "deaths": 24,
-      "recovered": 94
+      "recovered": 115
     }
   },
   "Russia": {
@@ -909,10 +909,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 105,
+      "confirmed": 119,
       "date": "2020-03-27",
       "deaths": 0,
-      "recovered": 9
+      "recovered": 11
     }
   },
   "Serbia": {
@@ -943,7 +943,7 @@
     "live": {
       "confirmed": 632,
       "date": "2020-03-27",
-      "deaths": 6,
+      "deaths": 9,
       "recovered": 10
     }
   },
@@ -957,10 +957,10 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 57786,
+      "confirmed": 64059,
       "date": "2020-03-27",
-      "deaths": 4365,
-      "recovered": 7015
+      "deaths": 4858,
+      "recovered": 9357
     }
   },
   "Sri Lanka": {
@@ -984,7 +984,7 @@
       "confirmed": 11951,
       "date": "2020-03-27",
       "deaths": 197,
-      "recovered": 131
+      "recovered": 897
     }
   },
   "Taiwan*": {
@@ -1281,10 +1281,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 218,
+      "confirmed": 226,
       "date": "2020-03-27",
       "deaths": 5,
-      "recovered": 5
+      "recovered": 4
     }
   },
   "United Arab Emirates": {
@@ -1316,12 +1316,12 @@
       "confirmed": 107,
       "date": "2020-03-27",
       "deaths": 1,
-      "recovered": 15
+      "recovered": 31
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 153,
+      "confirmed": 163,
       "date": "2020-03-27",
       "deaths": 0,
       "recovered": 20
