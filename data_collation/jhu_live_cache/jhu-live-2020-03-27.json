@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 7317,
+      "confirmed": 7393,
       "date": "2020-03-27",
       "deaths": 58,
       "recovered": 225
@@ -141,7 +141,7 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 2988,
+      "confirmed": 2991,
       "date": "2020-03-27",
       "deaths": 77,
       "recovered": 6
@@ -225,9 +225,9 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 1306,
+      "confirmed": 1610,
       "date": "2020-03-27",
-      "deaths": 4,
+      "deaths": 5,
       "recovered": 22
     }
   },
@@ -504,7 +504,7 @@
       "confirmed": 2062,
       "date": "2020-03-27",
       "deaths": 9,
-      "recovered": 10
+      "recovered": 11
     }
   },
   "Denmark": {
@@ -557,7 +557,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 1038,
+      "confirmed": 1041,
       "date": "2020-03-27",
       "deaths": 5,
       "recovered": 10
@@ -605,7 +605,7 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 802,
+      "confirmed": 890,
       "date": "2020-03-27",
       "deaths": 2,
       "recovered": 82
@@ -613,7 +613,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 843,
+      "confirmed": 863,
       "date": "2020-03-27",
       "deaths": 20,
       "recovered": 73
@@ -655,7 +655,7 @@
     "live": {
       "confirmed": 3035,
       "date": "2020-03-27",
-      "deaths": 10,
+      "deaths": 11,
       "recovered": 79
     }
   },
@@ -685,10 +685,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 125,
+      "confirmed": 135,
       "date": "2020-03-27",
       "deaths": 1,
-      "recovered": 2
+      "recovered": 3
     }
   },
   "Korea, South": {
@@ -781,9 +781,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 7431,
+      "confirmed": 8603,
       "date": "2020-03-27",
-      "deaths": 434,
+      "deaths": 546,
       "recovered": 3
     }
   },
@@ -805,7 +805,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3669,
+      "confirmed": 3687,
       "date": "2020-03-27",
       "deaths": 16,
       "recovered": 6
@@ -853,7 +853,7 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1244,
+      "confirmed": 1289,
       "date": "2020-03-27",
       "deaths": 16,
       "recovered": 7
@@ -973,9 +973,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 2893,
+      "confirmed": 3046,
       "date": "2020-03-27",
-      "deaths": 77,
+      "deaths": 92,
       "recovered": 16
     }
   },
