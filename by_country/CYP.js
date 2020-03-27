@@ -65,7 +65,8 @@ var covid19_dataset_country_cyp = {
     "2020-03-24",
     "2020-03-25",
     "2020-03-26",
-    "2020-03-27"
+    "2020-03-27",
+    "2020-03-28"
   ],
   "total": {
     "confirmed": [
@@ -132,7 +133,8 @@ var covid19_dataset_country_cyp = {
       95,
       116,
       124,
-      132
+      132,
+      146
     ],
     "deaths": [
       0,
@@ -197,6 +199,7 @@ var covid19_dataset_country_cyp = {
       0,
       1,
       1,
+      3,
       3,
       3
     ],

@@ -65,7 +65,8 @@ var covid19_dataset_country_phl = {
     "2020-03-24",
     "2020-03-25",
     "2020-03-26",
-    "2020-03-27"
+    "2020-03-27",
+    "2020-03-28"
   ],
   "total": {
     "confirmed": [
@@ -132,7 +133,8 @@ var covid19_dataset_country_phl = {
       380,
       462,
       552,
-      636
+      636,
+      707
     ],
     "deaths": [
       0,
@@ -198,7 +200,8 @@ var covid19_dataset_country_phl = {
       25,
       33,
       35,
-      38
+      38,
+      45
     ],
     "recovered": [
       0,
