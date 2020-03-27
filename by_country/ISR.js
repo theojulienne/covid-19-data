@@ -267,7 +267,8 @@ var covid19_dataset_country_isr = {
       37,
       37,
       53,
-      58
+      58,
+      68
     ]
   }
 };

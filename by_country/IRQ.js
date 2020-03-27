@@ -267,7 +267,8 @@ var covid19_dataset_country_irq = {
       57,
       57,
       75,
-      103
+      103,
+      105
     ]
   }
 };

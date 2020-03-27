@@ -267,7 +267,8 @@ var covid19_dataset_country_qat = {
       33,
       33,
       41,
-      41
+      41,
+      43
     ]
   }
 };

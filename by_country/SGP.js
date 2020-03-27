@@ -267,7 +267,8 @@ var covid19_dataset_country_sgp = {
       144,
       144,
       156,
-      160
+      160,
+      172
     ]
   }
 };

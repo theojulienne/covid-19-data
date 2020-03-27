@@ -267,7 +267,8 @@ var covid19_dataset_country_aze = {
       10,
       10,
       10,
-      10
+      10,
+      15
     ]
   }
 };

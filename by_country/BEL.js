@@ -267,7 +267,8 @@ var covid19_dataset_country_bel = {
       263,
       263,
       461,
-      547
+      547,
+      675
     ]
   }
 };

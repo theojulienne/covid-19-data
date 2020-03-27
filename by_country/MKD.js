@@ -267,7 +267,8 @@ var covid19_dataset_country_mkd = {
       1,
       1,
       1,
-      1
+      1,
+      3
     ]
   }
 };

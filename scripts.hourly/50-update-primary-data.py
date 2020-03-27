@@ -112,6 +112,9 @@ while curr <= today + datetime.timedelta(days=1): # account for TZs ahead of Act
     global_dates.append(str(curr))
     curr = curr + datetime.timedelta(days=1)
 
+with open('data_collation/jhu-live.json', 'r') as f:
+    live_jhu_data = json.load(f)
+
 for dataset in ['Confirmed', 'Deaths', 'Recovered']:
     fn = 'time_series_covid19_{}_global.csv'.format(dataset.lower())
     data = requests.get('https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/' + fn)
@@ -148,6 +151,11 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             print('WARNING: Country name "{}" could not be found, skipping.'.format(country_name))
             continue
 
+        if state:
+            live_sample = live_jhu_data.get(country_name, {}).get('subseries', {}).get('live', None)
+        else:
+            live_sample = live_jhu_data.get(country_name, {}).get('live', None)
+
         if country_code == 'USA':
             # in the US, we need some special cases.
             # if we have city/county + state, exclude this for now. we could later include it as a subseries (otherwise we double count)
@@ -161,7 +169,7 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
                 continue
         elif country_code == 'AUS':
             state = au_states_to_codes[state]
-        
+
         timeseries = []
         last = 0
         for d in row[first_date_field:]:
@@ -171,6 +179,12 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
                 d = int(d)
             timeseries.append(d)
             last = d
+        
+        if live_sample is not None:
+            live_date = live_sample['date']
+            if global_dates.index(live_date) == len(timeseries) and live_sample.get(dataset.lower()) > timeseries[-1]:
+                # we have a live sample that is the "next day from where we have data"
+                timeseries.append(live_sample[dataset.lower()])
 
         # skip country if it wasn't in latest dataset
         if dataset == 'Recovered' and country_code not in datasets: continue
