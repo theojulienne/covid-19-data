@@ -41,7 +41,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 290,
+      "confirmed": 329,
       "date": "2020-03-27",
       "deaths": 1,
       "recovered": 18
@@ -149,7 +149,7 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 264,
+      "confirmed": 276,
       "date": "2020-03-27",
       "deaths": 3,
       "recovered": 8
@@ -589,10 +589,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 261,
+      "confirmed": 300,
       "date": "2020-03-27",
       "deaths": 10,
-      "recovered": 28
+      "recovered": 34
     }
   },
   "Iceland": {
@@ -605,10 +605,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 745,
+      "confirmed": 753,
       "date": "2020-03-27",
       "deaths": 20,
-      "recovered": 66
+      "recovered": 67
     }
   },
   "Indonesia": {
@@ -645,10 +645,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 2693,
+      "confirmed": 3035,
       "date": "2020-03-27",
-      "deaths": 8,
-      "recovered": 68
+      "deaths": 10,
+      "recovered": 79
     }
   },
   "Italy": {
@@ -677,7 +677,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 121,
+      "confirmed": 124,
       "date": "2020-03-27",
       "deaths": 1,
       "recovered": 2
@@ -717,7 +717,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 299,
+      "confirmed": 344,
       "date": "2020-03-27",
       "deaths": 4,
       "recovered": 1
@@ -813,10 +813,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1201,
+      "confirmed": 1235,
       "date": "2020-03-27",
       "deaths": 9,
-      "recovered": 21
+      "recovered": 23
     }
   },
   "Panama": {
@@ -871,7 +871,7 @@
     "live": {
       "confirmed": 1029,
       "date": "2020-03-27",
-      "deaths": 23,
+      "deaths": 24,
       "recovered": 94
     }
   },
@@ -989,10 +989,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1045,
+      "confirmed": 1136,
       "date": "2020-03-27",
-      "deaths": 4,
-      "recovered": 88
+      "deaths": 5,
+      "recovered": 97
     }
   },
   "Tunisia": {
