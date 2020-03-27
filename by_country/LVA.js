@@ -134,7 +134,8 @@ var covid19_dataset_country_lva = {
       180,
       197,
       221,
-      244
+      244,
+      280
     ],
     "deaths": [
       0,

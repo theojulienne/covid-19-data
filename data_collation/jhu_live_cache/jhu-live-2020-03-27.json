@@ -11,7 +11,7 @@
     "live": {
       "confirmed": 174,
       "date": "2020-03-27",
-      "deaths": 7,
+      "deaths": 8,
       "recovered": 17
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 6962,
+      "confirmed": 7129,
       "date": "2020-03-27",
       "deaths": 49,
       "recovered": 112
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 191,
+      "confirmed": 192,
       "date": "2020-03-27",
-      "deaths": 5,
-      "recovered": 2
+      "deaths": 3,
+      "recovered": 5
     }
   },
   "Brazil": {
@@ -334,7 +334,7 @@
           "confirmed": 67801,
           "date": "2020-03-27",
           "deaths": 3174,
-          "recovered": 61731
+          "recovered": 61732
         }
       },
       "Hunan": {
@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 495,
+      "confirmed": 551,
       "date": "2020-03-27",
       "deaths": 3,
-      "recovered": 22
+      "recovered": 37
     }
   },
   "Cyprus": {
@@ -613,10 +613,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 893,
+      "confirmed": 1046,
       "date": "2020-03-27",
-      "deaths": 78,
-      "recovered": 35
+      "deaths": 87,
+      "recovered": 46
     }
   },
   "Iran": {
@@ -677,7 +677,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 124,
+      "confirmed": 125,
       "date": "2020-03-27",
       "deaths": 1,
       "recovered": 2
@@ -701,7 +701,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 244,
+      "confirmed": 280,
       "date": "2020-03-27",
       "deaths": 0,
       "recovered": 1
@@ -797,7 +797,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3372,
+      "confirmed": 3380,
       "date": "2020-03-27",
       "deaths": 14,
       "recovered": 6
@@ -837,10 +837,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 707,
+      "confirmed": 803,
       "date": "2020-03-27",
-      "deaths": 45,
-      "recovered": 28
+      "deaths": 54,
+      "recovered": 31
     }
   },
   "Poland": {
@@ -877,10 +877,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 840,
+      "confirmed": 1036,
       "date": "2020-03-27",
       "deaths": 3,
-      "recovered": 38
+      "recovered": 45
     }
   },
   "San Marino": {
@@ -1273,10 +1273,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 196,
+      "confirmed": 218,
       "date": "2020-03-27",
       "deaths": 5,
-      "recovered": 1
+      "recovered": 4
     }
   },
   "United Arab Emirates": {
