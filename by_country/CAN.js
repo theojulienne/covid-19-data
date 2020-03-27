@@ -2339,7 +2339,8 @@ var covid19_dataset_country_can = {
       10,
       10,
       110,
-      183
+      183,
+      184
     ]
   }
 };

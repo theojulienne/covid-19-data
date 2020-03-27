@@ -267,6 +267,7 @@ var covid19_dataset_country_chl = {
       8,
       8,
       17,
+      22,
       22
     ]
   }

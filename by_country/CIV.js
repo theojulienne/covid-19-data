@@ -267,6 +267,7 @@ var covid19_dataset_country_civ = {
       1,
       1,
       2,
+      3,
       3
     ]
   }

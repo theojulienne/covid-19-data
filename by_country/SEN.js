@@ -267,6 +267,7 @@ var covid19_dataset_country_sen = {
       5,
       5,
       8,
+      9,
       9
     ]
   }
