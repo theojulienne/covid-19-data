@@ -3597,7 +3597,8 @@ var covid19_dataset_country_aus = {
       1682,
       2044,
       2364,
-      2810
+      2810,
+      3134
     ],
     "deaths": [
       0,
@@ -3664,7 +3665,8 @@ var covid19_dataset_country_aus = {
       7,
       8,
       8,
-      12
+      12,
+      13
     ],
     "recovered": [
       0,
@@ -3731,6 +3733,7 @@ var covid19_dataset_country_aus = {
       25,
       25,
       29,
+      30,
       30
     ]
   }

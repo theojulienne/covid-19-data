@@ -199,6 +199,16 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
             if dataset == 'Recovered' and state not in datasets[country_code]['subseries']: continue
             datasets[country_code]['subseries'][state]['total'][dataset.lower()] = timeseries
 
+def cumulative_timeseries_add(a, b):
+    new_a = a[:]
+    new_b = b[:]
+
+    # extend the smaller one to be as long as the longer one
+    new_a += [a[-1]] * (len(new_b) - len(new_a))
+    new_b += [b[-1]] * (len(new_a) - len(new_b))
+
+    return list(map(lambda x, y: (x or 0) + (y or 0), new_a, new_b))
+
 def subseries_total(part, pre_aggregated={}):
     totals = {}
 
@@ -217,7 +227,7 @@ def subseries_total(part, pre_aggregated={}):
             if dataset not in totals:
                 totals[dataset] = timeseries
             else:
-                totals[dataset] = list(map(lambda a, b: (a or 0) + (b or 0), totals[dataset], timeseries))
+                totals[dataset] = cumulative_timeseries_add(totals[dataset], timeseries)
     
     # if we haven't aggregated ones we were provided externally, then use the aggregated numbers
     for key, value in pre_aggregated.items():
