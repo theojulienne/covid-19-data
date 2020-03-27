@@ -135,7 +135,7 @@ var covid19_dataset_country_pol = {
       901,
       1051,
       1221,
-      1289
+      1340
     ],
     "deaths": [
       0,

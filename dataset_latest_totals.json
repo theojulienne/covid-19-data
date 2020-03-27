@@ -110,7 +110,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 7557,
+        "confirmed": 7610,
         "deaths": 58,
         "recovered": 225
       }
@@ -305,8 +305,8 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 12311,
-        "deaths": 207,
+        "confirmed": 12928,
+        "deaths": 231,
         "recovered": 897
       }
     },
@@ -550,13 +550,13 @@
     "CYP": {
       "latest": {
         "confirmed": 146,
-        "deaths": 3,
+        "deaths": 5,
         "recovered": 4
       }
     },
     "CZE": {
       "latest": {
-        "confirmed": 2062,
+        "confirmed": 2279,
         "deaths": 9,
         "recovered": 11
       }
@@ -878,7 +878,7 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 877,
+        "confirmed": 887,
         "deaths": 20,
         "recovered": 73
       }
@@ -920,9 +920,9 @@
     },
     "ITA": {
       "latest": {
-        "confirmed": 80589,
-        "deaths": 8215,
-        "recovered": 10361
+        "confirmed": 86498,
+        "deaths": 9134,
+        "recovered": 10950
       }
     },
     "JAM": {
@@ -1060,9 +1060,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 275,
-        "deaths": 11,
-        "recovered": 8
+        "confirmed": 333,
+        "deaths": 21,
+        "recovered": 11
       }
     },
     "MCO": {
@@ -1245,7 +1245,7 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 1296,
+        "confirmed": 1331,
         "deaths": 9,
         "recovered": 23
       }
@@ -1280,7 +1280,7 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 1289,
+        "confirmed": 1340,
         "deaths": 16,
         "recovered": 7
       }
@@ -1316,7 +1316,7 @@
     "ROU": {
       "latest": {
         "confirmed": 1292,
-        "deaths": 24,
+        "deaths": 25,
         "recovered": 115
       }
     },
@@ -1483,9 +1483,9 @@
     },
     "TUR": {
       "latest": {
-        "confirmed": 3629,
-        "deaths": 75,
-        "recovered": 26
+        "confirmed": 5698,
+        "deaths": 92,
+        "recovered": 42
       }
     },
     "TWN": {
@@ -1849,7 +1849,7 @@
     },
     "ZAF": {
       "latest": {
-        "confirmed": 927,
+        "confirmed": 1170,
         "deaths": 2,
         "recovered": 12
       }

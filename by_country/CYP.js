@@ -201,7 +201,8 @@ var covid19_dataset_country_cyp = {
       1,
       3,
       3,
-      3
+      3,
+      5
     ],
     "recovered": [
       0,
