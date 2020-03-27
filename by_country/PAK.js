@@ -202,7 +202,8 @@ var covid19_dataset_country_pak = {
       6,
       7,
       8,
-      9
+      9,
+      10
     ],
     "recovered": [
       0,
