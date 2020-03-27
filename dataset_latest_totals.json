@@ -58,8 +58,8 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 2810,
-        "deaths": 12,
+        "confirmed": 3134,
+        "deaths": 13,
         "recovered": 30
       },
       "states": {
@@ -236,8 +236,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 4042,
-        "deaths": 38,
+        "confirmed": 4590,
+        "deaths": 53,
         "recovered": 184
       },
       "states": {
@@ -319,9 +319,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 81782,
-        "deaths": 3291,
-        "recovered": 74181
+        "confirmed": 81890,
+        "deaths": 3296,
+        "recovered": 74720
       },
       "states": {
         "Anhui": {
@@ -1526,7 +1526,7 @@
     "USA": {
       "latest": {
         "confirmed": 99298,
-        "deaths": 897,
+        "deaths": 1527,
         "tested": 685403
       },
       "states": {
