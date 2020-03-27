@@ -69,10 +69,10 @@
           "recovered": 1
         },
         "NSW": {
-          "confirmed": 1219,
+          "confirmed": 1405,
           "deaths": 7,
           "recovered": 4,
-          "tested": 74006
+          "tested": 77689
         },
         "NT": {
           "confirmed": 12,
@@ -1526,7 +1526,7 @@
     "USA": {
       "latest": {
         "confirmed": 80609,
-        "deaths": 884,
+        "deaths": 897,
         "tested": 578431
       },
       "states": {
