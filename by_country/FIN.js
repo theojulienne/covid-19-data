@@ -206,7 +206,7 @@ var covid19_dataset_country_fin = {
       3,
       5,
       7,
-      8
+      9
     ],
     "recovered": [
       0,
