@@ -136,7 +136,8 @@ var covid19_dataset_country_rus = {
       495,
       658,
       840,
-      1036
+      1036,
+      1264
     ],
     "deaths": [
       0,
@@ -272,7 +273,8 @@ var covid19_dataset_country_rus = {
       22,
       29,
       38,
-      45
+      45,
+      49
     ]
   }
 };

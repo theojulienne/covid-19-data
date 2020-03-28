@@ -136,7 +136,8 @@ var covid19_dataset_country_mar = {
       170,
       225,
       275,
-      345
+      345,
+      358
     ],
     "deaths": [
       0,
