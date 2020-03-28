@@ -136,7 +136,8 @@ var covid19_dataset_country_srb = {
       303,
       384,
       384,
-      457
+      457,
+      528
     ],
     "deaths": [
       0,

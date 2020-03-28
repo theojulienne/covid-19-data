@@ -230,7 +230,7 @@
           "confirmed": 572,
           "date": "2020-03-28",
           "deaths": 8,
-          "recovered": 409
+          "recovered": 410
         }
       },
       "Chongqing": {
@@ -557,9 +557,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 300,
+      "confirmed": 343,
       "date": "2020-03-28",
-      "deaths": 10,
+      "deaths": 11,
       "recovered": 34
     }
   },
@@ -573,7 +573,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 902,
+      "confirmed": 906,
       "date": "2020-03-28",
       "deaths": 20,
       "recovered": 83
@@ -773,7 +773,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 131,
+      "confirmed": 152,
       "date": "2020-03-28",
       "deaths": 0,
       "recovered": 23
@@ -781,10 +781,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1373,
+      "confirmed": 1408,
       "date": "2020-03-28",
       "deaths": 11,
-      "recovered": 23
+      "recovered": 25
     }
   },
   "Panama": {
@@ -877,7 +877,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 457,
+      "confirmed": 528,
       "date": "2020-03-28",
       "deaths": 1,
       "recovered": 0
@@ -928,7 +928,7 @@
       "confirmed": 106,
       "date": "2020-03-28",
       "deaths": 0,
-      "recovered": 7
+      "recovered": 9
     }
   },
   "Sweden": {
