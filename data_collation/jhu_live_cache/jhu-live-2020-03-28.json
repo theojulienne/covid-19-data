@@ -51,17 +51,17 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1405,
+          "confirmed": 1617,
           "date": "2020-03-28",
-          "deaths": 7,
+          "deaths": 212,
           "recovered": 4
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 555,
+          "confirmed": 625,
           "date": "2020-03-28",
-          "deaths": 1,
+          "deaths": 70,
           "recovered": 8
         }
       },
@@ -75,18 +75,18 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 574,
+          "confirmed": 685,
           "date": "2020-03-28",
-          "deaths": 3,
-          "recovered": 171
+          "deaths": 111,
+          "recovered": 191
         }
       },
       "Western Australia": {
         "live": {
-          "confirmed": 231,
+          "confirmed": 255,
           "date": "2020-03-28",
-          "deaths": 2,
-          "recovered": 1
+          "deaths": 0,
+          "recovered": 28
         }
       }
     }
@@ -573,10 +573,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 887,
+      "confirmed": 902,
       "date": "2020-03-28",
       "deaths": 20,
-      "recovered": 73
+      "recovered": 83
     }
   },
   "Indonesia": {
@@ -957,9 +957,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1136,
+      "confirmed": 1245,
       "date": "2020-03-28",
-      "deaths": 5,
+      "deaths": 6,
       "recovered": 97
     }
   },
@@ -1001,7 +1001,7 @@
         "live": {
           "confirmed": 4009,
           "date": "2020-03-28",
-          "deaths": 83,
+          "deaths": 84,
           "recovered": 0
         }
       },
@@ -1041,7 +1041,7 @@
         "live": {
           "confirmed": 2089,
           "date": "2020-03-28",
-          "deaths": 20,
+          "deaths": 23,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 459,
+          "confirmed": 356,
           "date": "2020-03-28",
-          "deaths": 4,
+          "deaths": 3,
           "recovered": 0
         }
       },
@@ -1159,7 +1159,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 485,
+          "confirmed": 495,
           "date": "2020-03-28",
           "deaths": 0,
           "recovered": 0
@@ -1269,6 +1269,14 @@
       "date": "2020-03-28",
       "deaths": 0,
       "recovered": 0
+    }
+  },
+  "Uzbekistan": {
+    "live": {
+      "confirmed": 104,
+      "date": "2020-03-28",
+      "deaths": 2,
+      "recovered": 5
     }
   },
   "Venezuela": {
