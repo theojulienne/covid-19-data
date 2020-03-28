@@ -137,7 +137,7 @@ var covid19_dataset_country_ind = {
       657,
       727,
       887,
-      918
+      944
     ],
     "deaths": [
       0,
@@ -274,7 +274,7 @@ var covid19_dataset_country_ind = {
       43,
       45,
       73,
-      83
+      84
     ]
   }
 };
