@@ -1525,7 +1525,7 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 100249,
+        "confirmed": 100245,
         "deaths": 1555,
         "tested": 685403
       },
@@ -1554,7 +1554,7 @@ var covid19_dataset_latest_totals = {
           "tested": 8221
         },
         "CA": {
-          "confirmed": 4013,
+          "confirmed": 4009,
           "deaths": 83,
           "hospitalized": 746,
           "tested": 78659
@@ -1724,7 +1724,7 @@ var covid19_dataset_latest_totals = {
         "NY": {
           "confirmed": 45415,
           "deaths": 541,
-          "hospitalized": 6844,
+          "hospitalized": 8526,
           "tested": 145753
         },
         "OH": {

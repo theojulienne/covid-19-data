@@ -999,7 +999,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 4013,
+          "confirmed": 4009,
           "date": "2020-03-28",
           "deaths": 83,
           "recovered": 0
@@ -1041,7 +1041,7 @@
         "live": {
           "confirmed": 2089,
           "date": "2020-03-28",
-          "deaths": 14,
+          "deaths": 20,
           "recovered": 0
         }
       },
