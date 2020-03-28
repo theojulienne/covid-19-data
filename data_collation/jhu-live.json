@@ -125,7 +125,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 232,
+      "confirmed": 237,
       "date": "2020-03-27",
       "deaths": 4,
       "recovered": 5
@@ -789,9 +789,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1331,
+      "confirmed": 1373,
       "date": "2020-03-27",
-      "deaths": 10,
+      "deaths": 11,
       "recovered": 23
     }
   },
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 635,
       "date": "2020-03-27",
-      "deaths": 9,
+      "deaths": 11,
       "recovered": 16
     }
   },
@@ -925,9 +925,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 64285,
+      "confirmed": 65719,
       "date": "2020-03-27",
-      "deaths": 4940,
+      "deaths": 5138,
       "recovered": 9357
     }
   },

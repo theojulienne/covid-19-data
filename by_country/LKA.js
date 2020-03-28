@@ -66,7 +66,8 @@ var covid19_dataset_country_lka = {
     "2020-03-25",
     "2020-03-26",
     "2020-03-27",
-    "2020-03-28"
+    "2020-03-28",
+    "2020-03-29"
   ],
   "total": {
     "confirmed": [
@@ -134,9 +135,11 @@ var covid19_dataset_country_lka = {
       97,
       102,
       102,
+      106,
       106
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -268,6 +271,7 @@ var covid19_dataset_country_lka = {
       3,
       2,
       3,
+      7,
       7
     ]
   }
