@@ -17,15 +17,15 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 409,
+      "confirmed": 454,
       "date": "2020-03-28",
-      "deaths": 26,
+      "deaths": 29,
       "recovered": 29
     }
   },
   "Andorra": {
     "live": {
-      "confirmed": 267,
+      "confirmed": 308,
       "date": "2020-03-28",
       "deaths": 3,
       "recovered": 1
@@ -151,16 +151,16 @@
     "live": {
       "confirmed": 313,
       "date": "2020-03-28",
-      "deaths": 5,
+      "deaths": 6,
       "recovered": 9
     }
   },
   "Burkina Faso": {
     "live": {
-      "confirmed": 180,
+      "confirmed": 207,
       "date": "2020-03-28",
-      "deaths": 9,
-      "recovered": 12
+      "deaths": 11,
+      "recovered": 21
     }
   },
   "Canada": {
@@ -209,10 +209,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 1610,
+      "confirmed": 1909,
       "date": "2020-03-28",
-      "deaths": 5,
-      "recovered": 43
+      "deaths": 6,
+      "recovered": 61
     }
   },
   "China": {
@@ -445,10 +445,18 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 635,
+      "confirmed": 657,
       "date": "2020-03-28",
-      "deaths": 4,
+      "deaths": 5,
       "recovered": 45
+    }
+  },
+  "Cuba": {
+    "live": {
+      "confirmed": 119,
+      "date": "2020-03-28",
+      "deaths": 3,
+      "recovered": 4
     }
   },
   "Cyprus": {
@@ -461,7 +469,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2422,
+      "confirmed": 2541,
       "date": "2020-03-28",
       "deaths": 9,
       "recovered": 11
@@ -549,9 +557,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 966,
+      "confirmed": 1061,
       "date": "2020-03-28",
-      "deaths": 28,
+      "deaths": 32,
       "recovered": 52
     }
   },
@@ -781,7 +789,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1415,
+      "confirmed": 1420,
       "date": "2020-03-28",
       "deaths": 12,
       "recovered": 29
@@ -919,7 +927,7 @@
     "live": {
       "confirmed": 72248,
       "date": "2020-03-28",
-      "deaths": 5690,
+      "deaths": 5812,
       "recovered": 12285
     }
   },
@@ -1055,9 +1063,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 2772,
+          "confirmed": 2668,
           "date": "2020-03-28",
-          "deaths": 29,
+          "deaths": 26,
           "recovered": 0
         }
       },
@@ -1137,13 +1145,13 @@
         "live": {
           "confirmed": 45415,
           "date": "2020-03-28",
-          "deaths": 541,
+          "deaths": 542,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 495,
+          "confirmed": 535,
           "date": "2020-03-28",
           "deaths": 0,
           "recovered": 0

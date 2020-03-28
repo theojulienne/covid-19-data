@@ -137,7 +137,7 @@ var covid19_dataset_country_pak = {
       1063,
       1201,
       1373,
-      1415
+      1420
     ],
     "deaths": [
       0,
