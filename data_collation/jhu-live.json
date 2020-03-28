@@ -318,7 +318,7 @@
           "confirmed": 561,
           "date": "2020-03-28",
           "deaths": 4,
-          "recovered": 111
+          "recovered": 112
         }
       },
       "Hubei": {
@@ -471,7 +471,7 @@
     "live": {
       "confirmed": 2201,
       "date": "2020-03-28",
-      "deaths": 52,
+      "deaths": 65,
       "recovered": 1
     }
   },
@@ -565,7 +565,7 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 890,
+      "confirmed": 963,
       "date": "2020-03-28",
       "deaths": 2,
       "recovered": 97
@@ -741,9 +741,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 8603,
+      "confirmed": 9762,
       "date": "2020-03-28",
-      "deaths": 546,
+      "deaths": 639,
       "recovered": 3
     }
   },
@@ -765,7 +765,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3811,
+      "confirmed": 3970,
       "date": "2020-03-28",
       "deaths": 20,
       "recovered": 7
@@ -813,15 +813,15 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1436,
+      "confirmed": 1481,
       "date": "2020-03-28",
-      "deaths": 16,
+      "deaths": 17,
       "recovered": 7
     }
   },
   "Portugal": {
     "live": {
-      "confirmed": 4268,
+      "confirmed": 5170,
       "date": "2020-03-28",
       "deaths": 100,
       "recovered": 43
@@ -941,9 +941,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 13259,
+      "confirmed": 13377,
       "date": "2020-03-28",
-      "deaths": 241,
+      "deaths": 242,
       "recovered": 1530
     }
   },
@@ -1079,9 +1079,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 158,
+          "confirmed": 103,
           "date": "2020-03-28",
-          "deaths": 0,
+          "deaths": 2,
           "recovered": 0
         }
       },
@@ -1145,7 +1145,7 @@
         "live": {
           "confirmed": 8414,
           "date": "2020-03-28",
-          "deaths": 107,
+          "deaths": 106,
           "recovered": 0
         }
       },
@@ -1249,7 +1249,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 405,
+      "confirmed": 468,
       "date": "2020-03-28",
       "deaths": 2,
       "recovered": 52
