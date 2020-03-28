@@ -272,7 +272,8 @@ var covid19_dataset_country_smr = {
       4,
       4,
       4,
-      4
+      4,
+      6
     ]
   }
 };
