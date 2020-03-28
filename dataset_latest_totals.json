@@ -236,7 +236,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 4781,
+        "confirmed": 4749,
         "deaths": 56,
         "recovered": 256
       },
@@ -246,7 +246,7 @@
           "deaths": 2
         },
         "British Columbia": {
-          "confirmed": 824,
+          "confirmed": 792,
           "deaths": 16
         },
         "Diamond Princess": {
@@ -319,9 +319,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 81897,
+        "confirmed": 81903,
         "deaths": 3296,
-        "recovered": 74720
+        "recovered": 74721
       },
       "states": {
         "Anhui": {
@@ -330,9 +330,9 @@
           "recovered": 984
         },
         "Beijing": {
-          "confirmed": 569,
+          "confirmed": 572,
           "deaths": 8,
-          "recovered": 408
+          "recovered": 409
         },
         "Chongqing": {
           "confirmed": 578,
@@ -420,7 +420,7 @@
           "recovered": 92
         },
         "Liaoning": {
-          "confirmed": 128,
+          "confirmed": 131,
           "deaths": 2,
           "recovered": 124
         },
@@ -1252,8 +1252,8 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 674,
-        "deaths": 9,
+        "confirmed": 786,
+        "deaths": 14,
         "recovered": 2
       }
     },
@@ -1526,7 +1526,7 @@
     "USA": {
       "latest": {
         "confirmed": 100071,
-        "deaths": 1530,
+        "deaths": 1553,
         "tested": 685403
       },
       "states": {
@@ -1555,7 +1555,7 @@
         },
         "CA": {
           "confirmed": 3933,
-          "deaths": 80,
+          "deaths": 83,
           "hospitalized": 746,
           "tested": 78659
         },
@@ -1723,7 +1723,7 @@
         },
         "NY": {
           "confirmed": 45350,
-          "deaths": 519,
+          "deaths": 539,
           "hospitalized": 6844,
           "tested": 145753
         },
