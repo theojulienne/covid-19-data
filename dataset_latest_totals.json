@@ -16,8 +16,8 @@
     },
     "ALB": {
       "latest": {
-        "confirmed": 186,
-        "deaths": 8,
+        "confirmed": 197,
+        "deaths": 10,
         "recovered": 31
       }
     },
@@ -110,7 +110,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 7712,
+        "confirmed": 7964,
         "deaths": 68,
         "recovered": 225
       }
@@ -584,7 +584,7 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 2046,
+        "confirmed": 2201,
         "deaths": 52,
         "recovered": 1
       },
@@ -659,8 +659,8 @@
     },
     "FIN": {
       "latest": {
-        "confirmed": 1165,
-        "deaths": 7,
+        "confirmed": 1167,
+        "deaths": 8,
         "recovered": 10
       }
     },
@@ -943,7 +943,7 @@
       "latest": {
         "confirmed": 1499,
         "deaths": 49,
-        "recovered": 372
+        "recovered": 404
       }
     },
     "KAZ": {
@@ -1217,7 +1217,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 3807,
+        "confirmed": 3811,
         "deaths": 20,
         "recovered": 7
       }
@@ -1245,9 +1245,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 1408,
-        "deaths": 11,
-        "recovered": 25
+        "confirmed": 1415,
+        "deaths": 12,
+        "recovered": 29
       }
     },
     "PAN": {
@@ -1288,7 +1288,7 @@
     "PRT": {
       "latest": {
         "confirmed": 4268,
-        "deaths": 76,
+        "deaths": 100,
         "recovered": 43
       }
     },
@@ -1336,9 +1336,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 1104,
-        "deaths": 3,
-        "recovered": 35
+        "confirmed": 1203,
+        "deaths": 4,
+        "recovered": 37
       }
     },
     "SDN": {
@@ -1399,7 +1399,7 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 269,
+        "confirmed": 292,
         "deaths": 0,
         "recovered": 2
       }
@@ -1844,12 +1844,12 @@
       "latest": {
         "confirmed": 113,
         "deaths": 2,
-        "recovered": 31
+        "recovered": 39
       }
     },
     "VNM": {
       "latest": {
-        "confirmed": 169,
+        "confirmed": 174,
         "deaths": 0,
         "recovered": 21
       }

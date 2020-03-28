@@ -136,7 +136,8 @@ var covid19_dataset_country_alb = {
       123,
       146,
       174,
-      186
+      186,
+      197
     ],
     "deaths": [
       0,
@@ -204,7 +205,8 @@ var covid19_dataset_country_alb = {
       5,
       5,
       6,
-      8
+      8,
+      10
     ],
     "recovered": [
       0,

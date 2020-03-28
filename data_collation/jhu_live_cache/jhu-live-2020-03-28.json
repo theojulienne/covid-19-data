@@ -9,9 +9,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 186,
+      "confirmed": 197,
       "date": "2020-03-28",
-      "deaths": 8,
+      "deaths": 10,
       "recovered": 31
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 7712,
+      "confirmed": 7964,
       "date": "2020-03-28",
       "deaths": 68,
       "recovered": 225
@@ -469,7 +469,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2046,
+      "confirmed": 2201,
       "date": "2020-03-28",
       "deaths": 52,
       "recovered": 1
@@ -517,9 +517,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 1165,
+      "confirmed": 1167,
       "date": "2020-03-28",
-      "deaths": 7,
+      "deaths": 8,
       "recovered": 10
     }
   },
@@ -632,7 +632,7 @@
       "confirmed": 1499,
       "date": "2020-03-28",
       "deaths": 49,
-      "recovered": 372
+      "recovered": 404
     }
   },
   "Jordan": {
@@ -765,7 +765,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 3807,
+      "confirmed": 3811,
       "date": "2020-03-28",
       "deaths": 20,
       "recovered": 7
@@ -781,10 +781,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1408,
+      "confirmed": 1415,
       "date": "2020-03-28",
-      "deaths": 11,
-      "recovered": 25
+      "deaths": 12,
+      "recovered": 29
     }
   },
   "Panama": {
@@ -823,7 +823,7 @@
     "live": {
       "confirmed": 4268,
       "date": "2020-03-28",
-      "deaths": 76,
+      "deaths": 100,
       "recovered": 43
     }
   },
@@ -861,10 +861,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 1104,
+      "confirmed": 1203,
       "date": "2020-03-28",
-      "deaths": 3,
-      "recovered": 35
+      "deaths": 4,
+      "recovered": 37
     }
   },
   "Senegal": {
@@ -893,7 +893,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 269,
+      "confirmed": 292,
       "date": "2020-03-28",
       "deaths": 0,
       "recovered": 2
@@ -1284,12 +1284,12 @@
       "confirmed": 113,
       "date": "2020-03-28",
       "deaths": 2,
-      "recovered": 31
+      "recovered": 39
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 169,
+      "confirmed": 174,
       "date": "2020-03-28",
       "deaths": 0,
       "recovered": 21
