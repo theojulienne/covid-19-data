@@ -37,8 +37,8 @@
     },
     "ARG": {
       "latest": {
-        "confirmed": 690,
-        "deaths": 18,
+        "confirmed": 745,
+        "deaths": 19,
         "recovered": 72
       }
     },
@@ -58,9 +58,9 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 3640,
+        "confirmed": 3317,
         "deaths": 14,
-        "recovered": 244
+        "recovered": 60
       },
       "states": {
         "ACT": {
@@ -69,7 +69,7 @@
           "recovered": 2
         },
         "NSW": {
-          "confirmed": 1617,
+          "confirmed": 1405,
           "deaths": 8,
           "recovered": 4,
           "tested": 77689
@@ -95,10 +95,10 @@
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 685,
+          "confirmed": 574,
           "deaths": 3,
           "hospitalized": 22,
-          "recovered": 191,
+          "recovered": 7,
           "tested": 27800
         },
         "WA": {
@@ -173,9 +173,9 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 258,
-        "deaths": 5,
-        "recovered": 5
+        "confirmed": 278,
+        "deaths": 6,
+        "recovered": 8
       }
     },
     "BLR": {
@@ -202,7 +202,7 @@
     "BRA": {
       "latest": {
         "confirmed": 3904,
-        "deaths": 111,
+        "deaths": 114,
         "recovered": 6
       }
     },
@@ -1077,7 +1077,7 @@
       "latest": {
         "confirmed": 402,
         "deaths": 25,
-        "recovered": 11
+        "recovered": 12
       }
     },
     "MCO": {
@@ -1246,9 +1246,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 451,
-        "deaths": 0,
-        "recovered": 50
+        "confirmed": 514,
+        "deaths": 1,
+        "recovered": 56
       }
     },
     "OMN": {
@@ -1533,15 +1533,15 @@
     },
     "URY": {
       "latest": {
-        "confirmed": 274,
+        "confirmed": 304,
         "deaths": 0,
         "recovered": 0
       }
     },
     "USA": {
       "latest": {
-        "confirmed": 118055,
-        "deaths": 1961,
+        "confirmed": 118517,
+        "deaths": 2001,
         "tested": 799246
       },
       "states": {
@@ -1576,13 +1576,13 @@
         },
         "CO": {
           "confirmed": 1734,
-          "deaths": 31,
+          "deaths": 33,
           "hospitalized": 239,
           "tested": 11676
         },
         "CT": {
-          "confirmed": 1291,
-          "deaths": 27,
+          "confirmed": 1372,
+          "deaths": 28,
           "hospitalized": 173,
           "tested": 8400
         },
@@ -1740,8 +1740,8 @@
           "tested": 8522
         },
         "NY": {
-          "confirmed": 52318,
-          "deaths": 728,
+          "confirmed": 52699,
+          "deaths": 765,
           "hospitalized": 10054,
           "tested": 155934
         },
