@@ -19,7 +19,7 @@
     "live": {
       "confirmed": 308,
       "date": "2020-03-29",
-      "deaths": 3,
+      "deaths": 4,
       "recovered": 1
     }
   },
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 8411,
+      "confirmed": 8450,
       "date": "2020-03-29",
       "deaths": 86,
       "recovered": 479
@@ -101,10 +101,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 476,
+      "confirmed": 499,
       "date": "2020-03-29",
       "deaths": 4,
-      "recovered": 265
+      "recovered": 272
     }
   },
   "Belgium": {
@@ -127,7 +127,7 @@
     "live": {
       "confirmed": 3904,
       "date": "2020-03-29",
-      "deaths": 114,
+      "deaths": 117,
       "recovered": 6
     }
   },
@@ -453,7 +453,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2669,
+      "confirmed": 2689,
       "date": "2020-03-29",
       "deaths": 13,
       "recovered": 11
@@ -461,9 +461,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 2201,
+      "confirmed": 2395,
       "date": "2020-03-29",
-      "deaths": 65,
+      "deaths": 72,
       "recovered": 1
     }
   },
@@ -701,7 +701,7 @@
   },
   "Malta": {
     "live": {
-      "confirmed": 149,
+      "confirmed": 151,
       "date": "2020-03-29",
       "deaths": 0,
       "recovered": 2
@@ -749,15 +749,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 241,
+      "confirmed": 257,
       "date": "2020-03-29",
-      "deaths": 4,
+      "deaths": 6,
       "recovered": 3
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 4054,
+      "confirmed": 4213,
       "date": "2020-03-29",
       "deaths": 23,
       "recovered": 7
@@ -813,9 +813,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 5170,
+      "confirmed": 5962,
       "date": "2020-03-29",
-      "deaths": 100,
+      "deaths": 119,
       "recovered": 43
     }
   },
@@ -831,7 +831,7 @@
     "live": {
       "confirmed": 1760,
       "date": "2020-03-29",
-      "deaths": 38,
+      "deaths": 40,
       "recovered": 169
     }
   },
@@ -861,10 +861,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 130,
+      "confirmed": 142,
       "date": "2020-03-29",
       "deaths": 0,
-      "recovered": 18
+      "recovered": 27
     }
   },
   "Serbia": {
