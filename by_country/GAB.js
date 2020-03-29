@@ -67,7 +67,8 @@ var covid19_dataset_country_gab = {
     "2020-03-26",
     "2020-03-27",
     "2020-03-28",
-    "2020-03-29"
+    "2020-03-29",
+    "2020-03-30"
   ],
   "total": {
     "confirmed": [
@@ -135,6 +136,7 @@ var covid19_dataset_country_gab = {
       5,
       6,
       6,
+      7,
       7,
       7
     ],
@@ -204,9 +206,11 @@ var covid19_dataset_country_gab = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

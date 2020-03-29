@@ -67,7 +67,8 @@ var covid19_dataset_country_svn = {
     "2020-03-26",
     "2020-03-27",
     "2020-03-28",
-    "2020-03-29"
+    "2020-03-29",
+    "2020-03-30"
   ],
   "total": {
     "confirmed": [
@@ -205,6 +206,7 @@ var covid19_dataset_country_svn = {
       4,
       5,
       6,
+      9,
       9
     ],
     "recovered": [
@@ -271,6 +273,7 @@ var covid19_dataset_country_svn = {
       0,
       0,
       0,
+      10,
       10,
       10,
       10

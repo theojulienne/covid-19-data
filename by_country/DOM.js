@@ -67,7 +67,8 @@ var covid19_dataset_country_dom = {
     "2020-03-26",
     "2020-03-27",
     "2020-03-28",
-    "2020-03-29"
+    "2020-03-29",
+    "2020-03-30"
   ],
   "total": {
     "confirmed": [
@@ -271,6 +272,7 @@ var covid19_dataset_country_dom = {
       0,
       0,
       0,
+      3,
       3,
       3,
       3,
