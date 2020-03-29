@@ -276,7 +276,8 @@ var covid19_dataset_country_alb = {
       17,
       17,
       31,
-      31
+      31,
+      33
     ]
   }
 };

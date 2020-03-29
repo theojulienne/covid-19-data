@@ -4,7 +4,7 @@
       "confirmed": 197,
       "date": "2020-03-29",
       "deaths": 10,
-      "recovered": 31
+      "recovered": 33
     }
   },
   "Algeria": {
@@ -33,7 +33,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 407,
+      "confirmed": 424,
       "date": "2020-03-29",
       "deaths": 3,
       "recovered": 30
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 8271,
+      "confirmed": 8291,
       "date": "2020-03-29",
       "deaths": 68,
       "recovered": 225
@@ -447,7 +447,7 @@
     "live": {
       "confirmed": 2663,
       "date": "2020-03-29",
-      "deaths": 11,
+      "deaths": 13,
       "recovered": 11
     }
   },
@@ -501,7 +501,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 1167,
+      "confirmed": 1218,
       "date": "2020-03-29",
       "deaths": 9,
       "recovered": 10
@@ -653,7 +653,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 305,
+      "confirmed": 347,
       "date": "2020-03-29",
       "deaths": 0,
       "recovered": 1
@@ -717,9 +717,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 402,
+      "confirmed": 437,
       "date": "2020-03-29",
-      "deaths": 25,
+      "deaths": 26,
       "recovered": 12
     }
   },
@@ -757,7 +757,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 152,
+      "confirmed": 167,
       "date": "2020-03-29",
       "deaths": 0,
       "recovered": 23
@@ -797,9 +797,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1638,
+      "confirmed": 1717,
       "date": "2020-03-29",
-      "deaths": 18,
+      "deaths": 19,
       "recovered": 7
     }
   },
@@ -829,10 +829,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 1264,
+      "confirmed": 1534,
       "date": "2020-03-29",
-      "deaths": 4,
-      "recovered": 49
+      "deaths": 8,
+      "recovered": 64
     }
   },
   "San Marino": {
@@ -1217,7 +1217,7 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 356,
+      "confirmed": 418,
       "date": "2020-03-29",
       "deaths": 9,
       "recovered": 5
@@ -1228,7 +1228,7 @@
       "confirmed": 468,
       "date": "2020-03-29",
       "deaths": 2,
-      "recovered": 52
+      "recovered": 55
     }
   },
   "United Kingdom": {
@@ -1252,7 +1252,7 @@
       "confirmed": 133,
       "date": "2020-03-29",
       "deaths": 2,
-      "recovered": 5
+      "recovered": 7
     }
   },
   "Vietnam": {

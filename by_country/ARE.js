@@ -276,7 +276,8 @@ var covid19_dataset_country_are = {
       52,
       52,
       52,
-      52
+      52,
+      55
     ]
   }
 };
