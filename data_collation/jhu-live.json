@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 407,
       "date": "2020-03-29",
-      "deaths": 1,
+      "deaths": 3,
       "recovered": 30
     }
   },
@@ -131,17 +131,9 @@
       "recovered": 6
     }
   },
-  "Brunei": {
-    "live": {
-      "confirmed": 120,
-      "date": "2020-03-29",
-      "deaths": 1,
-      "recovered": 25
-    }
-  },
   "Bulgaria": {
     "live": {
-      "confirmed": 331,
+      "confirmed": 338,
       "date": "2020-03-29",
       "deaths": 7,
       "recovered": 11
@@ -219,7 +211,7 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 576,
+          "confirmed": 577,
           "date": "2020-03-29",
           "deaths": 8,
           "recovered": 411
@@ -395,7 +387,7 @@
       },
       "Tianjin": {
         "live": {
-          "confirmed": 163,
+          "confirmed": 166,
           "date": "2020-03-29",
           "deaths": 3,
           "recovered": 133
@@ -605,7 +597,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 3619,
+      "confirmed": 3865,
       "date": "2020-03-29",
       "deaths": 12,
       "recovered": 89
@@ -637,10 +629,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 228,
+      "confirmed": 251,
       "date": "2020-03-29",
       "deaths": 1,
-      "recovered": 16
+      "recovered": 18
     }
   },
   "Korea, South": {
@@ -677,7 +669,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 394,
+      "confirmed": 437,
       "date": "2020-03-29",
       "deaths": 7,
       "recovered": 1
@@ -773,9 +765,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1495,
+      "confirmed": 1526,
       "date": "2020-03-29",
-      "deaths": 12,
+      "deaths": 13,
       "recovered": 29
     }
   },
@@ -943,7 +935,7 @@
     "live": {
       "confirmed": 1388,
       "date": "2020-03-29",
-      "deaths": 6,
+      "deaths": 7,
       "recovered": 97
     }
   },
@@ -1253,6 +1245,14 @@
       "date": "2020-03-29",
       "deaths": 1,
       "recovered": 0
+    }
+  },
+  "Uzbekistan": {
+    "live": {
+      "confirmed": 133,
+      "date": "2020-03-29",
+      "deaths": 2,
+      "recovered": 5
     }
   },
   "Vietnam": {
