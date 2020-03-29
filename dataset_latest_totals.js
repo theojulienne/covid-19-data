@@ -58,7 +58,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 2774,
+        "confirmed": 3160,
         "deaths": 16,
         "recovered": 246
       },
@@ -69,10 +69,10 @@ var covid19_dataset_latest_totals = {
           "recovered": 2
         },
         "NSW": {
-          "confirmed": 1405,
+          "confirmed": 1791,
           "deaths": 8,
           "recovered": 4,
-          "tested": 77689
+          "tested": 1791
         },
         "NT": {
           "confirmed": 15,
