@@ -341,28 +341,32 @@ for country_iso, dataset in out['subseries'].items():
 
 ## make a top 10 countries file
 
-country_totals = []
+def make_top10(dataset_name, field):
+    country_totals = []
 
-for country_iso, dataset in out['subseries'].items():
-    latest_confirmed = dataset['total']['confirmed'][-1]
-    country_totals.append((latest_confirmed, country_iso))
+    for country_iso, dataset in out['subseries'].items():
+        sort_value = dataset['total'][field][-1]
+        country_totals.append((sort_value, country_iso))
 
-country_totals.sort()
-country_totals.reverse()
+    country_totals.sort()
+    country_totals.reverse()
 
-top_10_subseries = {}
+    top_10_subseries = {}
 
-for _, country_iso in country_totals[:10]:
-    top_10_subseries[country_iso] = {
-        'total': out['subseries'][country_iso]['total'], # we won't copy the subseries
+    for _, country_iso in country_totals[:10]:
+        top_10_subseries[country_iso] = {
+            'total': out['subseries'][country_iso]['total'], # we won't copy the subseries
+        }
+
+    top_10_dataset = {
+        'subseries': top_10_subseries,
+        'timeseries_dates': global_dates,
     }
 
-top_10_dataset = {
-    'subseries': top_10_subseries,
-    'timeseries_dates': global_dates,
-}
+    write_dataset(dataset_name, 'covid19_' + dataset_name, top_10_dataset)
 
-write_dataset('dataset_top10', 'covid19_dataset_top10', top_10_dataset)
+make_top10('dataset_top10', 'confirmed')
+make_top10('dataset_top10_by_deaths', 'deaths')
 
 # world totals (no subseries)
 world_summary = {
