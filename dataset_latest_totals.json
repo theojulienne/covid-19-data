@@ -560,7 +560,7 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 2631,
+        "confirmed": 2663,
         "deaths": 11,
         "recovered": 11
       }
@@ -883,8 +883,8 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 343,
-        "deaths": 11,
+        "confirmed": 408,
+        "deaths": 13,
         "recovered": 34
       }
     },
@@ -898,8 +898,8 @@
     "IND": {
       "latest": {
         "confirmed": 987,
-        "deaths": 24,
-        "recovered": 84
+        "deaths": 25,
+        "recovered": 87
       }
     },
     "IRL": {
@@ -1377,7 +1377,7 @@
     "SGP": {
       "latest": {
         "confirmed": 802,
-        "deaths": 2,
+        "deaths": 3,
         "recovered": 198
       }
     },
@@ -1474,7 +1474,7 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 1245,
+        "confirmed": 1388,
         "deaths": 6,
         "recovered": 97
       }
