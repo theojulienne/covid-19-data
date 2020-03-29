@@ -913,7 +913,8 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
-      3
+      3,
+      250
     ]
   }
 };
