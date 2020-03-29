@@ -276,7 +276,8 @@ var covid19_dataset_country_che = {
       131,
       131,
       1530,
-      1530
+      1530,
+      1595
     ]
   }
 };

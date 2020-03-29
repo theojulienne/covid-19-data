@@ -173,14 +173,6 @@
           "recovered": 0
         }
       },
-      "Newfoundland and Labrador": {
-        "live": {
-          "confirmed": 120,
-          "date": "2020-03-29",
-          "deaths": 0,
-          "recovered": 0
-        }
-      },
       "Ontario": {
         "live": {
           "confirmed": 1144,
@@ -936,7 +928,7 @@
       "confirmed": 14076,
       "date": "2020-03-29",
       "deaths": 264,
-      "recovered": 1530
+      "recovered": 1595
     }
   },
   "Taiwan*": {
@@ -975,7 +967,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 196,
+          "confirmed": 214,
           "date": "2020-03-29",
           "deaths": 0,
           "recovered": 0
@@ -991,7 +983,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 4665,
+          "confirmed": 4661,
           "date": "2020-03-29",
           "deaths": 100,
           "recovered": 0
@@ -1119,9 +1111,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 443,
+          "confirmed": 630,
           "date": "2020-03-29",
-          "deaths": 10,
+          "deaths": 14,
           "recovered": 0
         }
       },
