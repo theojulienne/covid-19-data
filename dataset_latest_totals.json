@@ -58,9 +58,9 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 3348,
-        "deaths": 15,
-        "recovered": 60
+        "confirmed": 2774,
+        "deaths": 16,
+        "recovered": 246
       },
       "states": {
         "ACT": {
@@ -95,11 +95,12 @@
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 574,
-          "deaths": 3,
-          "hospitalized": 22,
-          "recovered": 7,
-          "tested": 27800
+          "confirmed": 0,
+          "deaths": 4,
+          "hospitalized": 26,
+          "icu": 4,
+          "recovered": 193,
+          "tested": 39000
         },
         "WA": {
           "confirmed": 278,
@@ -1540,7 +1541,7 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 119054,
+        "confirmed": 119078,
         "deaths": 2020,
         "tested": 799246
       },
@@ -1569,7 +1570,7 @@
           "tested": 8349
         },
         "CA": {
-          "confirmed": 4643,
+          "confirmed": 4665,
           "deaths": 101,
           "hospitalized": 1034,
           "tested": 89592
@@ -1740,7 +1741,7 @@
           "tested": 8522
         },
         "NY": {
-          "confirmed": 52802,
+          "confirmed": 52804,
           "deaths": 779,
           "hospitalized": 10054,
           "tested": 155934

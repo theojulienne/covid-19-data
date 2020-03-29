@@ -983,17 +983,17 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 574,
+          "confirmed": 454,
           "date": "2020-03-29",
-          "deaths": 9,
+          "deaths": 5,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 4594,
+          "confirmed": 4665,
           "date": "2020-03-29",
-          "deaths": 99,
+          "deaths": 100,
           "recovered": 0
         }
       },
@@ -1135,7 +1135,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 52802,
+          "confirmed": 52804,
           "date": "2020-03-29",
           "deaths": 779,
           "recovered": 0
@@ -1170,6 +1170,14 @@
           "confirmed": 1875,
           "date": "2020-03-29",
           "deaths": 17,
+          "recovered": 0
+        }
+      },
+      "Rhode Island": {
+        "live": {
+          "confirmed": 156,
+          "date": "2020-03-29",
+          "deaths": 0,
           "recovered": 0
         }
       },
