@@ -1747,7 +1747,8 @@ var covid19_dataset_country_aus = {
           443,
           493,
           555,
-          625
+          625,
+          656
         ],
         "deaths": [
           0,
@@ -1816,7 +1817,8 @@ var covid19_dataset_country_aus = {
           0,
           1,
           1,
-          1
+          1,
+          2
         ],
         "recovered": [
           0,
@@ -3639,7 +3641,8 @@ var covid19_dataset_country_aus = {
       2364,
       2810,
       3143,
-      3317
+      3317,
+      3348
     ],
     "deaths": [
       0,
@@ -3708,7 +3711,8 @@ var covid19_dataset_country_aus = {
       8,
       12,
       13,
-      14
+      14,
+      15
     ],
     "recovered": [
       0,

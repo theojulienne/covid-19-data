@@ -43,7 +43,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1617,
+          "confirmed": 1791,
           "date": "2020-03-29",
           "deaths": 8,
           "recovered": 4
@@ -51,9 +51,9 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 625,
+          "confirmed": 656,
           "date": "2020-03-29",
-          "deaths": 1,
+          "deaths": 2,
           "recovered": 8
         }
       },
@@ -67,9 +67,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 685,
+          "confirmed": 769,
           "date": "2020-03-29",
-          "deaths": 3,
+          "deaths": 4,
           "recovered": 191
         }
       },
@@ -259,10 +259,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1467,
-          "date": "2020-03-28",
+          "confirmed": 1475,
+          "date": "2020-03-29",
           "deaths": 8,
-          "recovered": 1341
+          "recovered": 1349
         }
       },
       "Guangxi": {
@@ -307,16 +307,16 @@
       },
       "Henan": {
         "live": {
-          "confirmed": 1275,
-          "date": "2020-03-28",
+          "confirmed": 1276,
+          "date": "2020-03-29",
           "deaths": 22,
           "recovered": 1251
         }
       },
       "Hong Kong": {
         "live": {
-          "confirmed": 561,
-          "date": "2020-03-28",
+          "confirmed": 582,
+          "date": "2020-03-29",
           "deaths": 4,
           "recovered": 112
         }
@@ -324,9 +324,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67801,
-          "date": "2020-03-28",
-          "deaths": 3177,
-          "recovered": 62098
+          "date": "2020-03-29",
+          "deaths": 3182,
+          "recovered": 62565
         }
       },
       "Hunan": {
@@ -339,16 +339,16 @@
       },
       "Jiangsu": {
         "live": {
-          "confirmed": 641,
-          "date": "2020-03-27",
+          "confirmed": 644,
+          "date": "2020-03-29",
           "deaths": 0,
           "recovered": 631
         }
       },
       "Jiangxi": {
         "live": {
-          "confirmed": 936,
-          "date": "2020-03-23",
+          "confirmed": 937,
+          "date": "2020-03-29",
           "deaths": 1,
           "recovered": 934
         }
@@ -379,8 +379,8 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 485,
-          "date": "2020-03-28",
+          "confirmed": 492,
+          "date": "2020-03-29",
           "deaths": 5,
           "recovered": 334
         }
@@ -395,16 +395,16 @@
       },
       "Sichuan": {
         "live": {
-          "confirmed": 548,
-          "date": "2020-03-27",
+          "confirmed": 550,
+          "date": "2020-03-29",
           "deaths": 3,
           "recovered": 536
         }
       },
       "Tianjin": {
         "live": {
-          "confirmed": 161,
-          "date": "2020-03-28",
+          "confirmed": 163,
+          "date": "2020-03-29",
           "deaths": 3,
           "recovered": 133
         }
@@ -419,8 +419,8 @@
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1251,
-          "date": "2020-03-28",
+          "confirmed": 1254,
+          "date": "2020-03-29",
           "deaths": 1,
           "recovered": 1225
         }
@@ -653,10 +653,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 9478,
+      "confirmed": 9583,
       "date": "2020-03-29",
-      "deaths": 144,
-      "recovered": 4811
+      "deaths": 152,
+      "recovered": 5033
     }
   },
   "Kuwait": {
@@ -717,9 +717,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 717,
+      "confirmed": 848,
       "date": "2020-03-29",
-      "deaths": 12,
+      "deaths": 16,
       "recovered": 4
     }
   },
@@ -765,7 +765,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 4015,
+      "confirmed": 4032,
       "date": "2020-03-29",
       "deaths": 23,
       "recovered": 7
@@ -1135,9 +1135,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 52740,
+          "confirmed": 52802,
           "date": "2020-03-29",
-          "deaths": 772,
+          "deaths": 779,
           "recovered": 0
         }
       },
@@ -1167,9 +1167,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 1811,
+          "confirmed": 1875,
           "date": "2020-03-29",
-          "deaths": 16,
+          "deaths": 17,
           "recovered": 0
         }
       },
@@ -1183,9 +1183,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1592,
+          "confirmed": 1607,
           "date": "2020-03-29",
-          "deaths": 21,
+          "deaths": 22,
           "recovered": 0
         }
       },
@@ -1257,7 +1257,7 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 174,
+      "confirmed": 179,
       "date": "2020-03-29",
       "deaths": 0,
       "recovered": 21
