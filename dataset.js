@@ -5252,7 +5252,7 @@ var covid19_dataset = {
               612,
               713,
               767,
-              0
+              null
             ],
             "current_hospitalized": [
               0,

@@ -98,7 +98,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 0,
+          "confirmed": null,
           "current_hospitalized": 26,
           "current_icu": 4,
           "deaths": 4,
