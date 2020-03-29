@@ -139,7 +139,7 @@ var covid19_dataset_country_isr = {
       2693,
       3035,
       3619,
-      3865
+      4247
     ],
     "deaths": [
       0,
