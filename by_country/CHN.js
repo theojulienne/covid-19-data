@@ -917,8 +917,7 @@ var covid19_dataset_country_chn = {
           136,
           136,
           136,
-          136,
-          138
+          136
         ],
         "deaths": [
           0,
@@ -7121,7 +7120,7 @@ var covid19_dataset_country_chn = {
       81782,
       81897,
       81999,
-      82117
+      82115
     ],
     "deaths": [
       17,

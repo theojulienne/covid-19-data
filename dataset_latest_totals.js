@@ -114,7 +114,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 8743,
+        "confirmed": 8774,
         "deaths": 86,
         "recovered": 479
       }
@@ -240,7 +240,7 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 6208,
+        "confirmed": 6230,
         "deaths": 64,
         "recovered": 466
       },
@@ -298,7 +298,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Saskatchewan": {
-          "confirmed": 134,
+          "confirmed": 156,
           "deaths": 0
         },
         "Yukon": {
@@ -323,7 +323,7 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82117,
+        "confirmed": 82115,
         "deaths": 3304,
         "recovered": 75582
       },
@@ -349,7 +349,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 295
         },
         "Gansu": {
-          "confirmed": 138,
+          "confirmed": 136,
           "deaths": 2,
           "recovered": 125
         },
@@ -504,9 +504,9 @@ var covid19_dataset_latest_totals = {
     },
     "CMR": {
       "latest": {
-        "confirmed": 91,
-        "deaths": 2,
-        "recovered": 2
+        "confirmed": 139,
+        "deaths": 6,
+        "recovered": 5
       }
     },
     "COD": {
@@ -1236,7 +1236,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 4268,
+        "confirmed": 4271,
         "deaths": 25,
         "recovered": 7
       }
@@ -1530,9 +1530,9 @@ var covid19_dataset_latest_totals = {
     },
     "UKR": {
       "latest": {
-        "confirmed": 418,
-        "deaths": 9,
-        "recovered": 5
+        "confirmed": 475,
+        "deaths": 10,
+        "recovered": 6
       }
     },
     "URY": {
