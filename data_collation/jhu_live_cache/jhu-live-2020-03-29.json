@@ -159,7 +159,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 542,
+          "confirmed": 621,
           "date": "2020-03-29",
           "deaths": 2,
           "recovered": 0
@@ -227,24 +227,24 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 573,
-          "date": "2020-03-28",
+          "confirmed": 576,
+          "date": "2020-03-29",
           "deaths": 8,
-          "recovered": 410
+          "recovered": 411
         }
       },
       "Chongqing": {
         "live": {
-          "confirmed": 578,
-          "date": "2020-03-23",
+          "confirmed": 579,
+          "date": "2020-03-29",
           "deaths": 6,
           "recovered": 570
         }
       },
       "Fujian": {
         "live": {
-          "confirmed": 337,
-          "date": "2020-03-28",
+          "confirmed": 338,
+          "date": "2020-03-29",
           "deaths": 1,
           "recovered": 295
         }
@@ -355,8 +355,8 @@
       },
       "Liaoning": {
         "live": {
-          "confirmed": 132,
-          "date": "2020-03-28",
+          "confirmed": 134,
+          "date": "2020-03-29",
           "deaths": 2,
           "recovered": 124
         }
@@ -387,8 +387,8 @@
       },
       "Shanxi": {
         "live": {
-          "confirmed": 135,
-          "date": "2020-03-25",
+          "confirmed": 136,
+          "date": "2020-03-29",
           "deaths": 0,
           "recovered": 133
         }
@@ -789,10 +789,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 786,
+      "confirmed": 901,
       "date": "2020-03-29",
-      "deaths": 14,
-      "recovered": 2
+      "deaths": 17,
+      "recovered": 4
     }
   },
   "Peru": {
@@ -991,7 +991,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 4584,
+          "confirmed": 4594,
           "date": "2020-03-29",
           "deaths": 99,
           "recovered": 0
@@ -1023,7 +1023,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 304,
+          "confirmed": 342,
           "date": "2020-03-29",
           "deaths": 4,
           "recovered": 0
@@ -1095,9 +1095,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 2676,
+          "confirmed": 4053,
           "date": "2020-03-29",
-          "deaths": 67,
+          "deaths": 97,
           "recovered": 0
         }
       },
@@ -1135,9 +1135,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 52699,
+          "confirmed": 52740,
           "date": "2020-03-29",
-          "deaths": 765,
+          "deaths": 772,
           "recovered": 0
         }
       },
@@ -1251,7 +1251,7 @@
     "live": {
       "confirmed": 304,
       "date": "2020-03-29",
-      "deaths": 0,
+      "deaths": 1,
       "recovered": 0
     }
   },
