@@ -140,7 +140,8 @@ var covid19_dataset_country_pol = {
       1221,
       1389,
       1638,
-      1862
+      1862,
+      1905
     ],
     "deaths": [
       0,
@@ -210,7 +211,8 @@ var covid19_dataset_country_pol = {
       16,
       16,
       18,
-      22
+      22,
+      26
     ],
     "recovered": [
       0,

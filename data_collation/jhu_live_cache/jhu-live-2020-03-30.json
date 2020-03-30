@@ -20,7 +20,7 @@
       "confirmed": 334,
       "date": "2020-03-30",
       "deaths": 6,
-      "recovered": 1
+      "recovered": 6
     }
   },
   "Argentina": {
@@ -59,7 +59,7 @@
       },
       "South Australia": {
         "live": {
-          "confirmed": 299,
+          "confirmed": 305,
           "date": "2020-03-30",
           "deaths": 0,
           "recovered": 6
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 8788,
+      "confirmed": 8867,
       "date": "2020-03-30",
       "deaths": 86,
       "recovered": 479
@@ -101,10 +101,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 499,
+      "confirmed": 515,
       "date": "2020-03-30",
       "deaths": 4,
-      "recovered": 272
+      "recovered": 279
     }
   },
   "Belgium": {
@@ -153,7 +153,7 @@
         "live": {
           "confirmed": 661,
           "date": "2020-03-30",
-          "deaths": 2,
+          "deaths": 3,
           "recovered": 0
         }
       },
@@ -363,7 +363,7 @@
       },
       "Tianjin": {
         "live": {
-          "confirmed": 169,
+          "confirmed": 173,
           "date": "2020-03-30",
           "deaths": 3,
           "recovered": 133
@@ -429,9 +429,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2817,
+      "confirmed": 2837,
       "date": "2020-03-30",
-      "deaths": 16,
+      "deaths": 17,
       "recovered": 11
     }
   },
@@ -477,7 +477,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 679,
+      "confirmed": 715,
       "date": "2020-03-30",
       "deaths": 3,
       "recovered": 20
@@ -581,10 +581,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 4247,
+      "confirmed": 4347,
       "date": "2020-03-30",
       "deaths": 15,
-      "recovered": 132
+      "recovered": 134
     }
   },
   "Italy": {
@@ -637,7 +637,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 347,
+      "confirmed": 376,
       "date": "2020-03-30",
       "deaths": 0,
       "recovered": 1
@@ -653,7 +653,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 460,
+      "confirmed": 484,
       "date": "2020-03-30",
       "deaths": 7,
       "recovered": 1
@@ -696,14 +696,14 @@
       "confirmed": 263,
       "date": "2020-03-30",
       "deaths": 2,
-      "recovered": 2
+      "recovered": 13
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 479,
+      "confirmed": 516,
       "date": "2020-03-30",
-      "deaths": 26,
+      "deaths": 27,
       "recovered": 13
     }
   },
@@ -733,7 +733,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 4284,
+      "confirmed": 4305,
       "date": "2020-03-30",
       "deaths": 26,
       "recovered": 7
@@ -781,9 +781,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1862,
+      "confirmed": 1905,
       "date": "2020-03-30",
-      "deaths": 22,
+      "deaths": 26,
       "recovered": 7
     }
   },
@@ -909,9 +909,9 @@
   },
   "Taiwan*": {
     "live": {
-      "confirmed": 298,
+      "confirmed": 306,
       "date": "2020-03-30",
-      "deaths": 3,
+      "deaths": 5,
       "recovered": 39
     }
   },
