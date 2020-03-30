@@ -280,7 +280,8 @@ var covid19_dataset_country_hrv = {
       22,
       37,
       45,
-      52
+      52,
+      55
     ]
   }
 };

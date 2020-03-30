@@ -280,7 +280,8 @@ var covid19_dataset_country_nzl = {
       27,
       37,
       50,
-      56
+      56,
+      63
     ]
   }
 };
