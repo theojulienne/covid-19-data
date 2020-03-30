@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 820,
       "date": "2020-03-30",
-      "deaths": 22,
+      "deaths": 23,
       "recovered": 228
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 9541,
+      "confirmed": 9597,
       "date": "2020-03-30",
       "deaths": 108,
       "recovered": 636
@@ -389,10 +389,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 702,
+      "confirmed": 798,
       "date": "2020-03-30",
-      "deaths": 10,
-      "recovered": 10
+      "deaths": 12,
+      "recovered": 15
     }
   },
   "Costa Rica": {
@@ -432,7 +432,7 @@
       "confirmed": 230,
       "date": "2020-03-30",
       "deaths": 7,
-      "recovered": 15
+      "recovered": 22
     }
   },
   "Czechia": {
@@ -469,18 +469,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 1924,
+      "confirmed": 1962,
       "date": "2020-03-30",
-      "deaths": 58,
+      "deaths": 60,
       "recovered": 3
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 609,
+      "confirmed": 656,
       "date": "2020-03-30",
-      "deaths": 40,
-      "recovered": 132
+      "deaths": 41,
+      "recovered": 150
     }
   },
   "Estonia": {
@@ -573,9 +573,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 2615,
+      "confirmed": 2910,
       "date": "2020-03-30",
-      "deaths": 46,
+      "deaths": 54,
       "recovered": 5
     }
   },
@@ -656,7 +656,7 @@
       "confirmed": 491,
       "date": "2020-03-30",
       "deaths": 7,
-      "recovered": 1
+      "recovered": 7
     }
   },
   "Luxembourg": {
@@ -781,9 +781,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1984,
+      "confirmed": 2055,
       "date": "2020-03-30",
-      "deaths": 26,
+      "deaths": 31,
       "recovered": 7
     }
   },
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 1952,
       "date": "2020-03-30",
-      "deaths": 50,
+      "deaths": 52,
       "recovered": 209
     }
   },
@@ -936,7 +936,7 @@
       "confirmed": 10827,
       "date": "2020-03-30",
       "deaths": 168,
-      "recovered": 105
+      "recovered": 162
     }
   },
   "US": {
@@ -959,9 +959,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5230,
+          "confirmed": 5277,
           "date": "2020-03-30",
-          "deaths": 108,
+          "deaths": 109,
           "recovered": 0
         }
       },
@@ -1087,9 +1087,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 12910,
+          "confirmed": 16234,
           "date": "2020-03-30",
-          "deaths": 155,
+          "deaths": 194,
           "recovered": 0
         }
       },
@@ -1111,17 +1111,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 687,
+          "confirmed": 774,
           "date": "2020-03-30",
           "deaths": 6,
-          "recovered": 0
-        }
-      },
-      "Oregon": {
-        "live": {
-          "confirmed": 154,
-          "date": "2020-03-30",
-          "deaths": 3,
           "recovered": 0
         }
       },
@@ -1161,7 +1153,7 @@
         "live": {
           "confirmed": 1597,
           "date": "2020-03-30",
-          "deaths": 22,
+          "deaths": 23,
           "recovered": 0
         }
       },
