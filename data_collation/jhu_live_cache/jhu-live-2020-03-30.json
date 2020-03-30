@@ -339,16 +339,16 @@
       },
       "Shandong": {
         "live": {
-          "confirmed": 772,
-          "date": "2020-03-27",
+          "confirmed": 773,
+          "date": "2020-03-30",
           "deaths": 7,
-          "recovered": 752
+          "recovered": 753
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 492,
-          "date": "2020-03-29",
+          "confirmed": 498,
+          "date": "2020-03-30",
           "deaths": 5,
           "recovered": 334
         }
@@ -959,9 +959,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5149,
+          "confirmed": 5180,
           "date": "2020-03-30",
-          "deaths": 106,
+          "deaths": 107,
           "recovered": 0
         }
       },
@@ -1007,7 +1007,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 1545,
+          "confirmed": 1544,
           "date": "2020-03-30",
           "deaths": 45,
           "recovered": 0
@@ -1049,7 +1049,7 @@
         "live": {
           "confirmed": 710,
           "date": "2020-03-30",
-          "deaths": 5,
+          "deaths": 8,
           "recovered": 0
         }
       },
@@ -1097,13 +1097,13 @@
         "live": {
           "confirmed": 13052,
           "date": "2020-03-30",
-          "deaths": 158,
+          "deaths": 157,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 58853,
+          "confirmed": 58893,
           "date": "2020-03-30",
           "deaths": 894,
           "recovered": 0
@@ -1135,9 +1135,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 2286,
+          "confirmed": 2319,
           "date": "2020-03-30",
-          "deaths": 23,
+          "deaths": 25,
           "recovered": 0
         }
       },

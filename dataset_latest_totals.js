@@ -323,9 +323,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82122,
+        "confirmed": 82129,
         "deaths": 3304,
-        "recovered": 75582
+        "recovered": 75583
       },
       "states": {
         "Anhui": {
@@ -449,12 +449,12 @@ var covid19_dataset_latest_totals = {
           "recovered": 242
         },
         "Shandong": {
-          "confirmed": 772,
+          "confirmed": 773,
           "deaths": 7,
-          "recovered": 752
+          "recovered": 753
         },
         "Shanghai": {
-          "confirmed": 492,
+          "confirmed": 498,
           "deaths": 5,
           "recovered": 334
         },
