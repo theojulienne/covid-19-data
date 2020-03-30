@@ -43,7 +43,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 1791,
+          "confirmed": 1918,
           "date": "2020-03-30",
           "deaths": 8,
           "recovered": 4
@@ -51,7 +51,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 656,
+          "confirmed": 689,
           "date": "2020-03-30",
           "deaths": 2,
           "recovered": 8
@@ -67,7 +67,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 769,
+          "confirmed": 821,
           "date": "2020-03-30",
           "deaths": 4,
           "recovered": 191
@@ -363,8 +363,8 @@
       },
       "Tianjin": {
         "live": {
-          "confirmed": 166,
-          "date": "2020-03-29",
+          "confirmed": 169,
+          "date": "2020-03-30",
           "deaths": 3,
           "recovered": 133
         }
@@ -685,9 +685,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 848,
+      "confirmed": 993,
       "date": "2020-03-30",
-      "deaths": 16,
+      "deaths": 20,
       "recovered": 35
     }
   },
@@ -981,14 +981,6 @@
           "recovered": 0
         }
       },
-      "Delaware": {
-        "live": {
-          "confirmed": 141,
-          "date": "2020-03-30",
-          "deaths": 2,
-          "recovered": 0
-        }
-      },
       "District of Columbia": {
         "live": {
           "confirmed": 401,
@@ -1095,9 +1087,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 13052,
+          "confirmed": 12910,
           "date": "2020-03-30",
-          "deaths": 157,
+          "deaths": 155,
           "recovered": 0
         }
       },
@@ -1151,9 +1143,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 1096,
+          "confirmed": 1282,
           "date": "2020-03-30",
-          "deaths": 7,
+          "deaths": 11,
           "recovered": 0
         }
       },
@@ -1183,7 +1175,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 3388,
+          "confirmed": 3820,
           "date": "2020-03-30",
           "deaths": 170,
           "recovered": 0

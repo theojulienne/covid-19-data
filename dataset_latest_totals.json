@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 4036,
+        "confirmed": 4196,
         "deaths": 17,
         "recovered": 246
       },
@@ -69,7 +69,7 @@
           "recovered": 2
         },
         "NSW": {
-          "confirmed": 1791,
+          "confirmed": 1918,
           "current_hospitalized": 160,
           "current_icu": 24,
           "current_ventilators": 12,
@@ -83,7 +83,7 @@
           "recovered": 0
         },
         "QLD": {
-          "confirmed": 656,
+          "confirmed": 689,
           "deaths": 3,
           "recovered": 8,
           "tested": 49769
@@ -324,7 +324,7 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82144,
+        "confirmed": 82147,
         "deaths": 3308,
         "recovered": 75904
       },
@@ -470,7 +470,7 @@
           "recovered": 536
         },
         "Tianjin": {
-          "confirmed": 166,
+          "confirmed": 169,
           "deaths": 3,
           "recovered": 133
         },
@@ -1115,8 +1115,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 848,
-        "deaths": 16,
+        "confirmed": 993,
+        "deaths": 20,
         "recovered": 35
       }
     },
@@ -1546,7 +1546,7 @@
     "USA": {
       "latest": {
         "confirmed": 138971,
-        "deaths": 2426,
+        "deaths": 2430,
         "tested": 894540
       },
       "states": {
@@ -1793,7 +1793,7 @@
         },
         "TN": {
           "confirmed": 1537,
-          "deaths": 7,
+          "deaths": 11,
           "hospitalized": 133,
           "tested": 20574
         },
