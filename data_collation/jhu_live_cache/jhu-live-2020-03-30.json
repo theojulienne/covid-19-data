@@ -509,10 +509,10 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 63929,
+      "confirmed": 66125,
       "date": "2020-03-30",
-      "deaths": 560,
-      "recovered": 9211
+      "deaths": 616,
+      "recovered": 13500
     }
   },
   "Greece": {
@@ -541,9 +541,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 1071,
+      "confirmed": 1251,
       "date": "2020-03-30",
-      "deaths": 29,
+      "deaths": 32,
       "recovered": 100
     }
   },
@@ -675,14 +675,6 @@
       "recovered": 479
     }
   },
-  "Malta": {
-    "live": {
-      "confirmed": 156,
-      "date": "2020-03-30",
-      "deaths": 0,
-      "recovered": 2
-    }
-  },
   "Mexico": {
     "live": {
       "confirmed": 993,
@@ -807,7 +799,7 @@
     "live": {
       "confirmed": 1952,
       "date": "2020-03-30",
-      "deaths": 52,
+      "deaths": 65,
       "recovered": 209
     }
   },
@@ -943,7 +935,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 246,
+          "confirmed": 251,
           "date": "2020-03-30",
           "deaths": 0,
           "recovered": 0
@@ -959,9 +951,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 5277,
+          "confirmed": 5326,
           "date": "2020-03-30",
-          "deaths": 109,
+          "deaths": 110,
           "recovered": 0
         }
       },
@@ -1007,9 +999,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 4201,
+          "confirmed": 4613,
           "date": "2020-03-30",
-          "deaths": 52,
+          "deaths": 58,
           "recovered": 0
         }
       },
@@ -1026,14 +1018,6 @@
           "confirmed": 2914,
           "date": "2020-03-30",
           "deaths": 141,
-          "recovered": 0
-        }
-      },
-      "Maine": {
-        "live": {
-          "confirmed": 154,
-          "date": "2020-03-30",
-          "deaths": 3,
           "recovered": 0
         }
       },
@@ -1055,15 +1039,15 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 4727,
+          "confirmed": 5554,
           "date": "2020-03-30",
-          "deaths": 115,
+          "deaths": 164,
           "recovered": 0
         }
       },
       "Minnesota": {
         "live": {
-          "confirmed": 171,
+          "confirmed": 190,
           "date": "2020-03-30",
           "deaths": 5,
           "recovered": 0
@@ -1071,7 +1055,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 336,
+          "confirmed": 366,
           "date": "2020-03-30",
           "deaths": 2,
           "recovered": 0
@@ -1117,9 +1101,17 @@
           "recovered": 0
         }
       },
+      "Oregon": {
+        "live": {
+          "confirmed": 168,
+          "date": "2020-03-30",
+          "deaths": 3,
+          "recovered": 0
+        }
+      },
       "Pennsylvania": {
         "live": {
-          "confirmed": 2986,
+          "confirmed": 3051,
           "date": "2020-03-30",
           "deaths": 38,
           "recovered": 0
@@ -1135,7 +1127,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 327,
+          "confirmed": 171,
           "date": "2020-03-30",
           "deaths": 3,
           "recovered": 0
@@ -1151,15 +1143,15 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1597,
+          "confirmed": 1849,
           "date": "2020-03-30",
-          "deaths": 23,
+          "deaths": 24,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 321,
+          "confirmed": 539,
           "date": "2020-03-30",
           "deaths": 2,
           "recovered": 0
@@ -1183,7 +1175,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 789,
+          "confirmed": 800,
           "date": "2020-03-30",
           "deaths": 11,
           "recovered": 0
