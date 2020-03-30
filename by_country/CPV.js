@@ -68,7 +68,8 @@ var covid19_dataset_country_cpv = {
     "2020-03-27",
     "2020-03-28",
     "2020-03-29",
-    "2020-03-30"
+    "2020-03-30",
+    "2020-03-31"
   ],
   "total": {
     "confirmed": [
@@ -138,7 +139,8 @@ var covid19_dataset_country_cpv = {
       4,
       4,
       5,
-      5
+      5,
+      6
     ],
     "deaths": [
       0,
@@ -207,9 +209,11 @@ var covid19_dataset_country_cpv = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
