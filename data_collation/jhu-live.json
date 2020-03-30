@@ -85,10 +85,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 9103,
+      "confirmed": 9200,
       "date": "2020-03-30",
-      "deaths": 86,
-      "recovered": 479
+      "deaths": 108,
+      "recovered": 636
     }
   },
   "Azerbaijan": {
@@ -117,10 +117,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 340,
+      "confirmed": 354,
       "date": "2020-03-30",
-      "deaths": 6,
-      "recovered": 8
+      "deaths": 8,
+      "recovered": 17
     }
   },
   "Brazil": {
@@ -413,7 +413,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 713,
+      "confirmed": 715,
       "date": "2020-03-30",
       "deaths": 6,
       "recovered": 55
@@ -557,10 +557,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 38309,
+      "confirmed": 41495,
       "date": "2020-03-30",
-      "deaths": 2640,
-      "recovered": 12391
+      "deaths": 2757,
+      "recovered": 13911
     }
   },
   "Iraq": {
@@ -607,7 +607,7 @@
     "live": {
       "confirmed": 259,
       "date": "2020-03-30",
-      "deaths": 3,
+      "deaths": 4,
       "recovered": 18
     }
   },
@@ -677,7 +677,7 @@
   },
   "Malta": {
     "live": {
-      "confirmed": 151,
+      "confirmed": 156,
       "date": "2020-03-30",
       "deaths": 0,
       "recovered": 2
@@ -733,7 +733,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 4312,
+      "confirmed": 4313,
       "date": "2020-03-30",
       "deaths": 29,
       "recovered": 7
@@ -741,10 +741,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 167,
+      "confirmed": 179,
       "date": "2020-03-30",
       "deaths": 0,
-      "recovered": 23
+      "recovered": 29
     }
   },
   "Pakistan": {
@@ -837,7 +837,7 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 142,
+      "confirmed": 162,
       "date": "2020-03-30",
       "deaths": 0,
       "recovered": 27
@@ -861,10 +861,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 314,
+      "confirmed": 336,
       "date": "2020-03-30",
       "deaths": 0,
-      "recovered": 2
+      "recovered": 7
     }
   },
   "Slovenia": {
@@ -1193,9 +1193,9 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 475,
+      "confirmed": 480,
       "date": "2020-03-30",
-      "deaths": 10,
+      "deaths": 11,
       "recovered": 6
     }
   },

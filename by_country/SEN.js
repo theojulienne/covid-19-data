@@ -140,7 +140,8 @@ var covid19_dataset_country_sen = {
       105,
       119,
       130,
-      142
+      142,
+      162
     ],
     "deaths": [
       0,
