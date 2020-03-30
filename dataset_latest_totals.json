@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 9377,
+        "confirmed": 9454,
         "deaths": 108,
         "recovered": 636
       }
@@ -206,8 +206,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 4330,
-        "deaths": 140,
+        "confirmed": 4362,
+        "deaths": 141,
         "recovered": 120
       }
     },
@@ -547,15 +547,15 @@
     },
     "CUB": {
       "latest": {
-        "confirmed": 139,
-        "deaths": 3,
+        "confirmed": 170,
+        "deaths": 4,
         "recovered": 4
       }
     },
     "CYP": {
       "latest": {
-        "confirmed": 214,
-        "deaths": 6,
+        "confirmed": 230,
+        "deaths": 7,
         "recovered": 15
       }
     },
@@ -589,7 +589,7 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 2555,
+        "confirmed": 2577,
         "deaths": 77,
         "recovered": 1
       },
@@ -739,8 +739,8 @@
     },
     "GBR": {
       "latest": {
-        "confirmed": 19522,
-        "deaths": 1415,
+        "confirmed": 22141,
+        "deaths": 1408,
         "recovered": 135
       },
       "states": {
@@ -835,8 +835,8 @@
     },
     "GRC": {
       "latest": {
-        "confirmed": 1156,
-        "deaths": 41,
+        "confirmed": 1212,
+        "deaths": 43,
         "recovered": 52
       }
     },
@@ -926,9 +926,9 @@
     },
     "ISL": {
       "latest": {
-        "confirmed": 1020,
+        "confirmed": 1086,
         "deaths": 2,
-        "recovered": 135
+        "recovered": 157
       }
     },
     "ISR": {
@@ -1019,7 +1019,7 @@
       "latest": {
         "confirmed": 446,
         "deaths": 11,
-        "recovered": 32
+        "recovered": 35
       }
     },
     "LBR": {
@@ -1094,9 +1094,9 @@
     },
     "MDA": {
       "latest": {
-        "confirmed": 263,
+        "confirmed": 298,
         "deaths": 2,
-        "recovered": 13
+        "recovered": 15
       }
     },
     "MDG": {
@@ -1237,7 +1237,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 4393,
+        "confirmed": 4436,
         "deaths": 31,
         "recovered": 12
       }
@@ -1538,7 +1538,7 @@
     },
     "URY": {
       "latest": {
-        "confirmed": 304,
+        "confirmed": 310,
         "deaths": 1,
         "recovered": 0
       }
