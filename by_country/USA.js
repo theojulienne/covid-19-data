@@ -9361,7 +9361,7 @@ var covid19_dataset_country_usa = {
           8526,
           10054,
           12075,
-          12075
+          13721
         ],
         "tested": [
           0,

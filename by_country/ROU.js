@@ -141,7 +141,7 @@ var covid19_dataset_country_rou = {
       1292,
       1452,
       1815,
-      1952
+      2109
     ],
     "deaths": [
       0,
