@@ -28,7 +28,7 @@
       "confirmed": 820,
       "date": "2020-03-30",
       "deaths": 22,
-      "recovered": 91
+      "recovered": 228
     }
   },
   "Armenia": {
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 4316,
+      "confirmed": 4330,
       "date": "2020-03-30",
-      "deaths": 139,
+      "deaths": 140,
       "recovered": 120
     }
   },
@@ -509,9 +509,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 63079,
+      "confirmed": 63929,
       "date": "2020-03-30",
-      "deaths": 545,
+      "deaths": 560,
       "recovered": 9211
     }
   },
@@ -840,7 +840,7 @@
       "confirmed": 1453,
       "date": "2020-03-30",
       "deaths": 8,
-      "recovered": 66
+      "recovered": 115
     }
   },
   "Senegal": {

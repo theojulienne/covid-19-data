@@ -281,7 +281,8 @@ var covid19_dataset_country_sau = {
       33,
       35,
       37,
-      66
+      66,
+      115
     ]
   }
 };

@@ -39,7 +39,7 @@
       "latest": {
         "confirmed": 820,
         "deaths": 22,
-        "recovered": 91
+        "recovered": 228
       }
     },
     "ARM": {
@@ -206,8 +206,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 4316,
-        "deaths": 139,
+        "confirmed": 4330,
+        "deaths": 140,
         "recovered": 120
       }
     },
@@ -568,8 +568,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 63079,
-        "deaths": 545,
+        "confirmed": 63929,
+        "deaths": 560,
         "recovered": 9211
       }
     },
@@ -1358,7 +1358,7 @@
       "latest": {
         "confirmed": 1453,
         "deaths": 8,
-        "recovered": 66
+        "recovered": 115
       }
     },
     "SDN": {
