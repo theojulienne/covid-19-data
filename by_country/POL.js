@@ -141,7 +141,7 @@ var covid19_dataset_country_pol = {
       1389,
       1638,
       1862,
-      1905
+      1984
     ],
     "deaths": [
       0,
