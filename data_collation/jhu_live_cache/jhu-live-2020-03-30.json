@@ -141,10 +141,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 354,
+      "confirmed": 359,
       "date": "2020-03-30",
       "deaths": 8,
-      "recovered": 15
+      "recovered": 17
     }
   },
   "Burkina Faso": {
@@ -437,7 +437,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2878,
+      "confirmed": 2896,
       "date": "2020-03-30",
       "deaths": 17,
       "recovered": 11
@@ -461,10 +461,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 859,
+      "confirmed": 901,
       "date": "2020-03-30",
-      "deaths": 39,
-      "recovered": 3
+      "deaths": 42,
+      "recovered": 4
     }
   },
   "Ecuador": {
@@ -527,7 +527,7 @@
     "live": {
       "confirmed": 1156,
       "date": "2020-03-30",
-      "deaths": 39,
+      "deaths": 41,
       "recovered": 52
     }
   },
@@ -1023,9 +1023,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 676,
+          "confirmed": 804,
           "date": "2020-03-30",
-          "deaths": 10,
+          "deaths": 12,
           "recovered": 0
         }
       },
@@ -1039,9 +1039,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 710,
+          "confirmed": 973,
           "date": "2020-03-30",
-          "deaths": 8,
+          "deaths": 10,
           "recovered": 0
         }
       },
@@ -1095,7 +1095,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 59830,
+          "confirmed": 59686,
           "date": "2020-03-30",
           "deaths": 1015,
           "recovered": 0
@@ -1103,7 +1103,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 482,
+          "confirmed": 502,
           "date": "2020-03-30",
           "deaths": 1,
           "recovered": 0
@@ -1175,7 +1175,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 188,
+          "confirmed": 224,
           "date": "2020-03-30",
           "deaths": 2,
           "recovered": 0
@@ -1219,7 +1219,7 @@
     "live": {
       "confirmed": 19522,
       "date": "2020-03-30",
-      "deaths": 1228,
+      "deaths": 1415,
       "recovered": 135
     }
   },
