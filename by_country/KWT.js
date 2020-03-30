@@ -140,7 +140,8 @@ var covid19_dataset_country_kwt = {
       208,
       225,
       235,
-      255
+      255,
+      266
     ],
     "deaths": [
       0,
@@ -280,7 +281,8 @@ var covid19_dataset_country_kwt = {
       49,
       57,
       64,
-      67
+      67,
+      72
     ]
   }
 };
