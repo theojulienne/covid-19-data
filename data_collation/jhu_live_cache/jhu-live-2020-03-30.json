@@ -324,9 +324,9 @@
       "Jiangxi": {
         "live": {
           "confirmed": 937,
-          "date": "2020-03-29",
+          "date": "2020-03-30",
           "deaths": 1,
-          "recovered": 934
+          "recovered": 935
         }
       },
       "Shaanxi": {
@@ -959,7 +959,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 5180,
+          "confirmed": 5187,
           "date": "2020-03-30",
           "deaths": 107,
           "recovered": 0
@@ -991,9 +991,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 342,
+          "confirmed": 401,
           "date": "2020-03-30",
-          "deaths": 5,
+          "deaths": 9,
           "recovered": 0
         }
       },
@@ -1103,9 +1103,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 58893,
+          "confirmed": 58897,
           "date": "2020-03-30",
-          "deaths": 894,
+          "deaths": 895,
           "recovered": 0
         }
       },
@@ -1169,7 +1169,7 @@
         "live": {
           "confirmed": 472,
           "date": "2020-03-30",
-          "deaths": 0,
+          "deaths": 2,
           "recovered": 0
         }
       },

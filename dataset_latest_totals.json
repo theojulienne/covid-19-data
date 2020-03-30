@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 3984,
+        "confirmed": 4036,
         "deaths": 17,
         "recovered": 246
       },
@@ -99,12 +99,12 @@
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 769,
-          "current_hospitalized": 26,
+          "confirmed": 821,
+          "current_hospitalized": 29,
           "current_icu": 4,
           "deaths": 4,
           "recovered": 193,
-          "tested": 39000
+          "tested": 42000
         },
         "WA": {
           "confirmed": 311,
@@ -326,7 +326,7 @@
       "latest": {
         "confirmed": 82144,
         "deaths": 3308,
-        "recovered": 75903
+        "recovered": 75904
       },
       "states": {
         "Anhui": {
@@ -417,7 +417,7 @@
         "Jiangxi": {
           "confirmed": 937,
           "deaths": 1,
-          "recovered": 934
+          "recovered": 935
         },
         "Jilin": {
           "confirmed": 98,
@@ -1545,8 +1545,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 138912,
-        "deaths": 2422,
+        "confirmed": 138971,
+        "deaths": 2426,
         "tested": 894540
       },
       "states": {
@@ -1592,8 +1592,8 @@
           "tested": 11900
         },
         "DC": {
-          "confirmed": 342,
-          "deaths": 5,
+          "confirmed": 401,
+          "deaths": 9,
           "tested": 2812
         },
         "DE": {
