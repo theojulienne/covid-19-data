@@ -37,9 +37,9 @@
     },
     "ARG": {
       "latest": {
-        "confirmed": 745,
-        "deaths": 19,
-        "recovered": 72
+        "confirmed": 820,
+        "deaths": 20,
+        "recovered": 91
       }
     },
     "ARM": {
@@ -240,13 +240,13 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 6280,
+        "confirmed": 6320,
         "deaths": 64,
         "recovered": 466
       },
       "states": {
         "Alberta": {
-          "confirmed": 621,
+          "confirmed": 661,
           "deaths": 2
         },
         "British Columbia": {
@@ -554,7 +554,7 @@
     "CYP": {
       "latest": {
         "confirmed": 214,
-        "deaths": 5,
+        "deaths": 6,
         "recovered": 15
       }
     },
@@ -568,7 +568,7 @@
     "DEU": {
       "latest": {
         "confirmed": 62095,
-        "deaths": 533,
+        "deaths": 541,
         "recovered": 9211
       }
     },
@@ -835,7 +835,7 @@
     "GRC": {
       "latest": {
         "confirmed": 1156,
-        "deaths": 38,
+        "deaths": 39,
         "recovered": 52
       }
     },
@@ -1271,8 +1271,8 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 901,
-        "deaths": 17,
+        "confirmed": 989,
+        "deaths": 24,
         "recovered": 4
       }
     },
@@ -1544,7 +1544,7 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 138853,
+        "confirmed": 138912,
         "deaths": 2422,
         "tested": 894540
       },
@@ -1739,7 +1739,7 @@
           "tested": 11006
         },
         "NV": {
-          "confirmed": 738,
+          "confirmed": 797,
           "deaths": 14,
           "tested": 9150
         },
@@ -1873,7 +1873,7 @@
     },
     "VNM": {
       "latest": {
-        "confirmed": 188,
+        "confirmed": 194,
         "deaths": 0,
         "recovered": 25
       }
