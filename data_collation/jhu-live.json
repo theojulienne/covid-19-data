@@ -177,7 +177,7 @@
         "live": {
           "confirmed": 1706,
           "date": "2020-03-31",
-          "deaths": 31,
+          "deaths": 32,
           "recovered": 0
         }
       },
@@ -339,8 +339,8 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 498,
-          "date": "2020-03-30",
+          "confirmed": 509,
+          "date": "2020-03-31",
           "deaths": 5,
           "recovered": 338
         }
@@ -943,7 +943,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 5969,
+          "confirmed": 6057,
           "date": "2020-03-31",
           "deaths": 121,
           "recovered": 0
@@ -967,7 +967,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 401,
+          "confirmed": 495,
           "date": "2020-03-31",
           "deaths": 9,
           "recovered": 0
@@ -983,9 +983,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 1578,
+          "confirmed": 1503,
           "date": "2020-03-31",
-          "deaths": 45,
+          "deaths": 44,
           "recovered": 0
         }
       },
@@ -1071,9 +1071,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 66397,
+          "confirmed": 66425,
           "date": "2020-03-31",
-          "deaths": 1044,
+          "deaths": 1050,
           "recovered": 0
         }
       },
@@ -1135,9 +1135,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1747,
+          "confirmed": 1904,
           "date": "2020-03-31",
-          "deaths": 22,
+          "deaths": 28,
           "recovered": 0
         }
       },
