@@ -142,7 +142,8 @@ var covid19_dataset_country_ury = {
       238,
       274,
       304,
-      310
+      310,
+      320
     ],
     "deaths": [
       0,
@@ -284,7 +285,8 @@ var covid19_dataset_country_ury = {
       0,
       0,
       0,
-      0
+      0,
+      25
     ]
   }
 };
