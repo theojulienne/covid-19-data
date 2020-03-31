@@ -5690,7 +5690,8 @@ var covid19_dataset_country_aus = {
           231,
           278,
           311,
-          355
+          355,
+          364
         ],
         "deaths": [
           0,
@@ -5981,7 +5982,7 @@ var covid19_dataset_country_aus = {
       3640,
       3984,
       4247,
-      4489
+      4498
     ],
     "deaths": [
       0,
