@@ -59,7 +59,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 689,
+          "confirmed": 743,
           "date": "2020-03-31",
           "deaths": 2,
           "recovered": 8
@@ -75,10 +75,10 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 821,
+          "confirmed": 917,
           "date": "2020-03-31",
           "deaths": 4,
-          "recovered": 191
+          "recovered": 291
         }
       },
       "Western Australia": {
@@ -472,7 +472,7 @@
       "confirmed": 1966,
       "date": "2020-03-31",
       "deaths": 62,
-      "recovered": 3
+      "recovered": 54
     }
   },
   "Egypt": {
@@ -613,7 +613,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 308,
+      "confirmed": 325,
       "date": "2020-03-31",
       "deaths": 1,
       "recovered": 21
@@ -1073,7 +1073,7 @@
         "live": {
           "confirmed": 753,
           "date": "2020-03-31",
-          "deaths": 14,
+          "deaths": 15,
           "recovered": 0
         }
       },
