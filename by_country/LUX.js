@@ -284,7 +284,8 @@ var covid19_dataset_country_lux = {
       40,
       40,
       40,
-      40
+      40,
+      80
     ]
   }
 };

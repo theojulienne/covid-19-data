@@ -142,7 +142,8 @@ var covid19_dataset_country_ukr = {
       310,
       356,
       475,
-      548
+      548,
+      549
     ],
     "deaths": [
       0,
