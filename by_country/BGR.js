@@ -143,7 +143,7 @@ var covid19_dataset_country_bgr = {
       331,
       346,
       359,
-      379
+      399
     ],
     "deaths": [
       0,
