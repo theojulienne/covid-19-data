@@ -69,7 +69,8 @@ var covid19_dataset_country_mrt = {
     "2020-03-28",
     "2020-03-29",
     "2020-03-30",
-    "2020-03-31"
+    "2020-03-31",
+    "2020-04-01"
   ],
   "total": {
     "confirmed": [
@@ -139,6 +140,7 @@ var covid19_dataset_country_mrt = {
       2,
       3,
       3,
+      5,
       5,
       5
     ],
@@ -210,7 +212,8 @@ var covid19_dataset_country_mrt = {
       0,
       0,
       0,
-      0
+      0,
+      1
     ],
     "recovered": [
       0,
@@ -280,6 +283,7 @@ var covid19_dataset_country_mrt = {
       0,
       0,
       0,
+      2,
       2
     ]
   }

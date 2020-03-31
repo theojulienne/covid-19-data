@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 9597,
+      "confirmed": 9618,
       "date": "2020-03-30",
       "deaths": 108,
       "recovered": 636
@@ -429,7 +429,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2976,
+      "confirmed": 3001,
       "date": "2020-03-30",
       "deaths": 23,
       "recovered": 25
@@ -912,7 +912,7 @@
       "confirmed": 312,
       "date": "2020-03-30",
       "deaths": 8,
-      "recovered": 2
+      "recovered": 3
     }
   },
   "Turkey": {
