@@ -142,7 +142,8 @@ var covid19_dataset_country_pol = {
       1389,
       1638,
       1862,
-      2055
+      2055,
+      2132
     ],
     "deaths": [
       0,
