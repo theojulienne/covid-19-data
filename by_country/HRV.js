@@ -142,7 +142,8 @@ var covid19_dataset_country_hrv = {
       586,
       657,
       713,
-      790
+      790,
+      867
     ],
     "deaths": [
       0,

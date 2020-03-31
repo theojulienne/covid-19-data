@@ -214,7 +214,8 @@ var covid19_dataset_country_bih = {
       4,
       5,
       6,
-      10
+      10,
+      12
     ],
     "recovered": [
       0,
