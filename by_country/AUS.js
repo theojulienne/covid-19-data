@@ -2069,6 +2069,7 @@ var covid19_dataset_country_aus = {
             15,
             19,
             21,
+            22,
             22
           ],
           "Central Qld": [
@@ -2134,6 +2135,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             3,
+            0,
             0,
             0,
             0,
@@ -2211,9 +2213,11 @@ var covid19_dataset_country_aus = {
             5,
             5,
             6,
+            6,
             6
           ],
           "Central West": [
+            0,
             0,
             0,
             0,
@@ -2353,6 +2357,7 @@ var covid19_dataset_country_aus = {
             17,
             21,
             24,
+            28,
             28
           ],
           "Gold Coast": [
@@ -2424,6 +2429,7 @@ var covid19_dataset_country_aus = {
             106,
             114,
             121,
+            136,
             136
           ],
           "International (managed by Cairns HHS)": [
@@ -2485,6 +2491,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             1,
+            0,
             0,
             0,
             0,
@@ -2566,6 +2573,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Mackay": [
@@ -2633,6 +2641,7 @@ var covid19_dataset_country_aus = {
             0,
             2,
             4,
+            5,
             5,
             5,
             5,
@@ -2708,6 +2717,7 @@ var covid19_dataset_country_aus = {
             165,
             178,
             180,
+            183,
             183
           ],
           "Metro South": [
@@ -2779,9 +2789,11 @@ var covid19_dataset_country_aus = {
             132,
             152,
             163,
+            169,
             169
           ],
           "North West": [
+            0,
             0,
             0,
             0,
@@ -2921,6 +2933,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Overseas/interstate": [
@@ -2992,9 +3005,11 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "South West": [
+            0,
             0,
             0,
             0,
@@ -3134,6 +3149,7 @@ var covid19_dataset_country_aus = {
             64,
             69,
             70,
+            71,
             71
           ],
           "TBC": [
@@ -3205,9 +3221,11 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Torres and Cape": [
+            0,
             0,
             0,
             0,
@@ -3347,6 +3365,7 @@ var covid19_dataset_country_aus = {
             13,
             15,
             16,
+            17,
             17
           ],
           "West Moreton": [
@@ -3418,6 +3437,7 @@ var covid19_dataset_country_aus = {
             17,
             31,
             33,
+            35,
             35
           ],
           "Wide Bay": [
@@ -3488,6 +3508,7 @@ var covid19_dataset_country_aus = {
             12,
             16,
             16,
+            17,
             17,
             17
           ]
@@ -3564,7 +3585,7 @@ var covid19_dataset_country_aus = {
           625,
           656,
           689,
-          743
+          689
         ],
         "deaths": [
           0,
@@ -3634,6 +3655,7 @@ var covid19_dataset_country_aus = {
           2,
           2,
           2,
+          3,
           3,
           3
         ],
@@ -3777,6 +3799,7 @@ var covid19_dataset_country_aus = {
           42965,
           49769,
           49769,
+          49382,
           49382
         ]
       }
@@ -5957,7 +5980,7 @@ var covid19_dataset_country_aus = {
       3640,
       3984,
       4247,
-      4511
+      4457
     ],
     "deaths": [
       0,
@@ -6028,6 +6051,7 @@ var covid19_dataset_country_aus = {
       14,
       15,
       17,
+      18,
       18
     ],
     "recovered": [
