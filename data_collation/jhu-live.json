@@ -25,9 +25,9 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 370,
+      "confirmed": 376,
       "date": "2020-03-31",
-      "deaths": 8,
+      "deaths": 12,
       "recovered": 10
     }
   },
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 4725,
+      "confirmed": 5717,
       "date": "2020-03-31",
-      "deaths": 168,
+      "deaths": 201,
       "recovered": 127
     }
   },
@@ -183,9 +183,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 1706,
+          "confirmed": 1966,
           "date": "2020-03-31",
-          "deaths": 32,
+          "deaths": 33,
           "recovered": 0
         }
       },
@@ -199,7 +199,7 @@
       },
       "Saskatchewan": {
         "live": {
-          "confirmed": 176,
+          "confirmed": 184,
           "date": "2020-03-31",
           "deaths": 2,
           "recovered": 0
@@ -605,10 +605,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 340,
+      "confirmed": 343,
       "date": "2020-03-31",
       "deaths": 2,
-      "recovered": 22
+      "recovered": 24
     }
   },
   "Korea, South": {
@@ -717,7 +717,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 4630,
+      "confirmed": 4635,
       "date": "2020-03-31",
       "deaths": 39,
       "recovered": 13
@@ -727,7 +727,7 @@
     "live": {
       "confirmed": 192,
       "date": "2020-03-31",
-      "deaths": 0,
+      "deaths": 1,
       "recovered": 34
     }
   },
@@ -863,7 +863,7 @@
     "live": {
       "confirmed": 1353,
       "date": "2020-03-31",
-      "deaths": 3,
+      "deaths": 5,
       "recovered": 31
     }
   },
@@ -943,9 +943,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 6111,
+          "confirmed": 6174,
           "date": "2020-03-31",
-          "deaths": 121,
+          "deaths": 124,
           "recovered": 0
         }
       },
@@ -999,7 +999,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 4614,
+          "confirmed": 5469,
           "date": "2020-03-31",
           "deaths": 59,
           "recovered": 0
@@ -1031,17 +1031,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 5487,
+          "confirmed": 6311,
           "date": "2020-03-31",
-          "deaths": 56,
+          "deaths": 80,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 5554,
+          "confirmed": 6669,
           "date": "2020-03-31",
-          "deaths": 164,
+          "deaths": 242,
           "recovered": 0
         }
       },
@@ -1071,7 +1071,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 18365,
+          "confirmed": 18204,
           "date": "2020-03-31",
           "deaths": 266,
           "recovered": 0
@@ -1119,9 +1119,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 208,
+          "confirmed": 392,
           "date": "2020-03-31",
-          "deaths": 0,
+          "deaths": 8,
           "recovered": 0
         }
       },
@@ -1135,9 +1135,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1829,
+          "confirmed": 1864,
           "date": "2020-03-31",
-          "deaths": 22,
+          "deaths": 24,
           "recovered": 0
         }
       },
@@ -1167,7 +1167,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 818,
+          "confirmed": 883,
           "date": "2020-03-31",
           "deaths": 12,
           "recovered": 0
@@ -1177,10 +1177,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 618,
+      "confirmed": 645,
       "date": "2020-03-31",
-      "deaths": 13,
-      "recovered": 8
+      "deaths": 17,
+      "recovered": 10
     }
   },
   "United Arab Emirates": {
@@ -1205,14 +1205,6 @@
       "date": "2020-03-31",
       "deaths": 1,
       "recovered": 25
-    }
-  },
-  "Uzbekistan": {
-    "live": {
-      "confirmed": 172,
-      "date": "2020-03-31",
-      "deaths": 2,
-      "recovered": 7
     }
   },
   "Vietnam": {

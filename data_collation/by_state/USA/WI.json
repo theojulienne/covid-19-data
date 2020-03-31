@@ -26,7 +26,8 @@
     "2020-03-27",
     "2020-03-28",
     "2020-03-29",
-    "2020-03-30"
+    "2020-03-30",
+    "2020-03-31"
   ],
   "total": {
     "confirmed": [
@@ -56,7 +57,8 @@
       842,
       989,
       1112,
-      1221
+      1221,
+      1351
     ],
     "deaths": [
       null,
@@ -85,7 +87,38 @@
       13,
       13,
       13,
-      14
+      14,
+      16
+    ],
+    "hospitalized": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      337
     ],
     "tested": [
       26,
@@ -114,7 +147,8 @@
       13982,
       16221,
       17662,
-      17077
+      17077,
+      18726
     ]
   }
 }
