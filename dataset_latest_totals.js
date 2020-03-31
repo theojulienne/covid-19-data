@@ -333,7 +333,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 82225,
         "deaths": 3309,
-        "recovered": 76191
+        "recovered": 76193
       },
       "states": {
         "Anhui": {
@@ -364,7 +364,7 @@ var covid19_dataset_latest_totals = {
         "Guangdong": {
           "confirmed": 1490,
           "deaths": 8,
-          "recovered": 1353
+          "recovered": 1355
         },
         "Guangxi": {
           "confirmed": 254,

@@ -246,7 +246,7 @@
           "confirmed": 1490,
           "date": "2020-03-31",
           "deaths": 8,
-          "recovered": 1353
+          "recovered": 1355
         }
       },
       "Guangxi": {
@@ -1039,9 +1039,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 5649,
+          "confirmed": 5487,
           "date": "2020-03-31",
-          "deaths": 54,
+          "deaths": 51,
           "recovered": 0
         }
       },
@@ -1121,7 +1121,7 @@
         "live": {
           "confirmed": 3051,
           "date": "2020-03-31",
-          "deaths": 38,
+          "deaths": 39,
           "recovered": 0
         }
       },
@@ -1143,17 +1143,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 1215,
+          "confirmed": 1210,
           "date": "2020-03-31",
-          "deaths": 12,
+          "deaths": 8,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1747,
+          "confirmed": 1915,
           "date": "2020-03-31",
-          "deaths": 22,
+          "deaths": 28,
           "recovered": 0
         }
       },
