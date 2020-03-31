@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 966,
       "date": "2020-03-31",
-      "deaths": 24,
+      "deaths": 25,
       "recovered": 228
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 9920,
+      "confirmed": 9974,
       "date": "2020-03-31",
       "deaths": 128,
       "recovered": 1095
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 4661,
+      "confirmed": 4681,
       "date": "2020-03-31",
-      "deaths": 165,
+      "deaths": 167,
       "recovered": 127
     }
   },
@@ -503,7 +503,7 @@
     "live": {
       "confirmed": 1418,
       "date": "2020-03-31",
-      "deaths": 13,
+      "deaths": 17,
       "recovered": 10
     }
   },
@@ -541,7 +541,7 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1086,
+      "confirmed": 1135,
       "date": "2020-03-31",
       "deaths": 2,
       "recovered": 157
@@ -663,7 +663,7 @@
     "live": {
       "confirmed": 533,
       "date": "2020-03-31",
-      "deaths": 7,
+      "deaths": 8,
       "recovered": 7
     }
   },
@@ -733,17 +733,17 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 285,
+      "confirmed": 329,
       "date": "2020-03-31",
-      "deaths": 7,
+      "deaths": 9,
       "recovered": 12
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 4592,
+      "confirmed": 4599,
       "date": "2020-03-31",
-      "deaths": 35,
+      "deaths": 36,
       "recovered": 13
     }
   },
@@ -839,8 +839,8 @@
     "live": {
       "confirmed": 1563,
       "date": "2020-03-31",
-      "deaths": 8,
-      "recovered": 115
+      "deaths": 10,
+      "recovered": 165
     }
   },
   "Senegal": {
@@ -864,7 +864,7 @@
       "confirmed": 926,
       "date": "2020-03-31",
       "deaths": 3,
-      "recovered": 228
+      "recovered": 240
     }
   },
   "Slovakia": {
@@ -872,7 +872,7 @@
       "confirmed": 363,
       "date": "2020-03-31",
       "deaths": 0,
-      "recovered": 7
+      "recovered": 3
     }
   },
   "Slovenia": {
@@ -935,7 +935,7 @@
     "live": {
       "confirmed": 362,
       "date": "2020-03-31",
-      "deaths": 9,
+      "deaths": 10,
       "recovered": 3
     }
   },
@@ -967,7 +967,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 6053,
+          "confirmed": 6088,
           "date": "2020-03-31",
           "deaths": 121,
           "recovered": 0
@@ -1209,9 +1209,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 611,
+      "confirmed": 664,
       "date": "2020-03-31",
-      "deaths": 5,
+      "deaths": 6,
       "recovered": 61
     }
   },

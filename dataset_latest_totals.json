@@ -30,15 +30,15 @@
     },
     "ARE": {
       "latest": {
-        "confirmed": 611,
-        "deaths": 5,
+        "confirmed": 664,
+        "deaths": 6,
         "recovered": 61
       }
     },
     "ARG": {
       "latest": {
         "confirmed": 966,
-        "deaths": 24,
+        "deaths": 25,
         "recovered": 228
       }
     },
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 9920,
+        "confirmed": 9974,
         "deaths": 128,
         "recovered": 1095
       }
@@ -206,8 +206,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 4661,
-        "deaths": 165,
+        "confirmed": 4681,
+        "deaths": 167,
         "recovered": 127
       }
     },
@@ -672,7 +672,7 @@
     "FIN": {
       "latest": {
         "confirmed": 1418,
-        "deaths": 13,
+        "deaths": 17,
         "recovered": 10
       }
     },
@@ -933,7 +933,7 @@
     },
     "ISL": {
       "latest": {
-        "confirmed": 1086,
+        "confirmed": 1135,
         "deaths": 2,
         "recovered": 157
       }
@@ -1067,7 +1067,7 @@
     "LTU": {
       "latest": {
         "confirmed": 533,
-        "deaths": 7,
+        "deaths": 8,
         "recovered": 7
       }
     },
@@ -1129,8 +1129,8 @@
     },
     "MKD": {
       "latest": {
-        "confirmed": 285,
-        "deaths": 7,
+        "confirmed": 329,
+        "deaths": 9,
         "recovered": 12
       }
     },
@@ -1244,8 +1244,8 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 4592,
-        "deaths": 35,
+        "confirmed": 4599,
+        "deaths": 36,
         "recovered": 13
       }
     },
@@ -1364,8 +1364,8 @@
     "SAU": {
       "latest": {
         "confirmed": 1563,
-        "deaths": 8,
-        "recovered": 115
+        "deaths": 10,
+        "recovered": 165
       }
     },
     "SDN": {
@@ -1386,7 +1386,7 @@
       "latest": {
         "confirmed": 926,
         "deaths": 3,
-        "recovered": 228
+        "recovered": 240
       }
     },
     "SLV": {
@@ -1504,7 +1504,7 @@
     "TUN": {
       "latest": {
         "confirmed": 362,
-        "deaths": 9,
+        "deaths": 10,
         "recovered": 3
       }
     },
