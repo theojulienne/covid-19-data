@@ -284,7 +284,8 @@ var covid19_dataset_country_mda = {
       2,
       2,
       2,
-      15
+      15,
+      18
     ]
   }
 };
