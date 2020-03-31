@@ -143,7 +143,7 @@ var covid19_dataset_country_bih = {
       258,
       323,
       368,
-      418
+      420
     ],
     "deaths": [
       0,
@@ -215,7 +215,7 @@ var covid19_dataset_country_bih = {
       5,
       6,
       10,
-      12
+      13
     ],
     "recovered": [
       0,
