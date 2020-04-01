@@ -144,7 +144,8 @@ var covid19_dataset_country_mkd = {
       241,
       259,
       285,
-      329
+      329,
+      354
     ],
     "deaths": [
       0,
