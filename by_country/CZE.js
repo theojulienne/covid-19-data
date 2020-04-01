@@ -291,7 +291,7 @@ var covid19_dataset_country_cze = {
       11,
       25,
       45,
-      48
+      61
     ]
   }
 };
