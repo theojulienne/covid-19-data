@@ -70,7 +70,8 @@ var covid19_dataset_country_bgd = {
     "2020-03-29",
     "2020-03-30",
     "2020-03-31",
-    "2020-04-01"
+    "2020-04-01",
+    "2020-04-02"
   ],
   "total": {
     "confirmed": [
@@ -142,7 +143,8 @@ var covid19_dataset_country_bgd = {
       48,
       48,
       48,
-      49
+      49,
+      51
     ],
     "deaths": [
       0,
@@ -208,6 +210,7 @@ var covid19_dataset_country_bgd = {
       2,
       3,
       4,
+      5,
       5,
       5,
       5,
@@ -284,7 +287,8 @@ var covid19_dataset_country_bgd = {
       11,
       15,
       15,
-      19
+      19,
+      25
     ]
   }
 };

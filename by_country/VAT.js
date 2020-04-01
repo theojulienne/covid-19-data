@@ -70,7 +70,8 @@ var covid19_dataset_country_vat = {
     "2020-03-29",
     "2020-03-30",
     "2020-03-31",
-    "2020-04-01"
+    "2020-04-01",
+    "2020-04-02"
   ],
   "total": {
     "confirmed": [
@@ -140,6 +141,7 @@ var covid19_dataset_country_vat = {
       4,
       4,
       4,
+      6,
       6,
       6,
       6
@@ -213,9 +215,11 @@ var covid19_dataset_country_vat = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

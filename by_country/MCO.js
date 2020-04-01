@@ -70,7 +70,8 @@ var covid19_dataset_country_mco = {
     "2020-03-29",
     "2020-03-30",
     "2020-03-31",
-    "2020-04-01"
+    "2020-04-01",
+    "2020-04-02"
   ],
   "total": {
     "confirmed": [
@@ -142,7 +143,8 @@ var covid19_dataset_country_mco = {
       42,
       42,
       46,
-      49
+      49,
+      52
     ],
     "deaths": [
       0,
@@ -212,6 +214,7 @@ var covid19_dataset_country_mco = {
       0,
       0,
       0,
+      1,
       1,
       1
     ],
@@ -284,7 +287,8 @@ var covid19_dataset_country_mco = {
       1,
       1,
       1,
-      1
+      1,
+      2
     ]
   }
 };
