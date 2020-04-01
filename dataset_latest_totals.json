@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 4610,
+        "confirmed": 4760,
         "deaths": 19,
         "recovered": 410
       },
@@ -69,13 +69,13 @@
           "recovered": 3
         },
         "NSW": {
-          "confirmed": 2032,
-          "current_hospitalized": 164,
-          "current_icu": 35,
-          "current_ventilators": 16,
+          "confirmed": 2182,
+          "current_hospitalized": null,
+          "current_icu": null,
+          "current_ventilators": null,
           "deaths": 8,
           "recovered": 4,
-          "tested": 99951
+          "tested": 105543
         },
         "NT": {
           "confirmed": 17,
@@ -255,14 +255,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 8527,
-        "deaths": 101,
+        "confirmed": 8591,
+        "deaths": 102,
         "recovered": 1592
       },
       "states": {
         "Alberta": {
-          "confirmed": 690,
-          "deaths": 8
+          "confirmed": 754,
+          "deaths": 9
         },
         "British Columbia": {
           "confirmed": 1013,
@@ -975,8 +975,8 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 1953,
-        "deaths": 56,
+        "confirmed": 2229,
+        "deaths": 66,
         "recovered": 424
       }
     },

@@ -305,6 +305,7 @@ var covid19_dataset_country_aus = {
             8,
             15,
             14,
+            16,
             16
           ],
           "10-19": [
@@ -377,7 +378,8 @@ var covid19_dataset_country_aus = {
             39,
             44,
             50,
-            53
+            53,
+            60
           ],
           "20-29": [
             0,
@@ -449,7 +451,8 @@ var covid19_dataset_country_aus = {
             327,
             371,
             406,
-            432
+            432,
+            473
           ],
           "30-39": [
             0,
@@ -521,7 +524,8 @@ var covid19_dataset_country_aus = {
             263,
             286,
             301,
-            319
+            319,
+            339
           ],
           "40-49": [
             0,
@@ -593,7 +597,8 @@ var covid19_dataset_country_aus = {
             215,
             229,
             242,
-            261
+            261,
+            282
           ],
           "50-59": [
             0,
@@ -665,7 +670,8 @@ var covid19_dataset_country_aus = {
             259,
             283,
             308,
-            323
+            323,
+            347
           ],
           "60-69": [
             0,
@@ -737,7 +743,8 @@ var covid19_dataset_country_aus = {
             262,
             294,
             313,
-            327
+            327,
+            337
           ],
           "70-79": [
             0,
@@ -809,7 +816,8 @@ var covid19_dataset_country_aus = {
             176,
             201,
             210,
-            221
+            221,
+            239
           ],
           "80-89": [
             0,
@@ -881,7 +889,8 @@ var covid19_dataset_country_aus = {
             52,
             53,
             58,
-            62
+            62,
+            68
           ],
           "90-99": [
             0,
@@ -953,7 +962,8 @@ var covid19_dataset_country_aus = {
             15,
             15,
             16,
-            18
+            18,
+            21
           ]
         }
       },
@@ -1035,7 +1045,8 @@ var covid19_dataset_country_aus = {
             170,
             207,
             228,
-            250
+            250,
+            275
           ],
           "Locally acquired - contact of a confirmed case": [
             0,
@@ -1107,7 +1118,8 @@ var covid19_dataset_country_aus = {
             316,
             351,
             376,
-            418
+            418,
+            434
           ],
           "Overseas acquired": [
             0,
@@ -1179,7 +1191,8 @@ var covid19_dataset_country_aus = {
             1004,
             1110,
             1185,
-            1293
+            1293,
+            1353
           ],
           "Under investigation": [
             0,
@@ -1251,7 +1264,8 @@ var covid19_dataset_country_aus = {
             127,
             123,
             129,
-            71
+            71,
+            120
           ]
         }
       },
@@ -1326,7 +1340,8 @@ var covid19_dataset_country_aus = {
           1617,
           1791,
           1918,
-          2032
+          2032,
+          2182
         ],
         "current_hospitalized": [
           0,
@@ -1398,7 +1413,8 @@ var covid19_dataset_country_aus = {
           147,
           160,
           null,
-          164
+          164,
+          null
         ],
         "current_icu": [
           0,
@@ -1470,7 +1486,8 @@ var covid19_dataset_country_aus = {
           22,
           24,
           null,
-          35
+          35,
+          null
         ],
         "current_ventilators": [
           0,
@@ -1542,7 +1559,8 @@ var covid19_dataset_country_aus = {
           11,
           12,
           null,
-          16
+          16,
+          null
         ],
         "deaths": [
           0,
@@ -1758,7 +1776,8 @@ var covid19_dataset_country_aus = {
           86524,
           93099,
           96446,
-          99951
+          99951,
+          105543
         ]
       }
     },
@@ -6036,7 +6055,7 @@ var covid19_dataset_country_aus = {
       3984,
       4247,
       4559,
-      4610
+      4760
     ],
     "deaths": [
       0,
