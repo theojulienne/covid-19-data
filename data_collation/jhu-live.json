@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 5717,
+      "confirmed": 5812,
       "date": "2020-04-01",
-      "deaths": 201,
+      "deaths": 202,
       "recovered": 127
     }
   },
@@ -423,7 +423,7 @@
     "live": {
       "confirmed": 712,
       "date": "2020-04-01",
-      "deaths": 10,
+      "deaths": 11,
       "recovered": 603
     }
   },
@@ -581,7 +581,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 343,
+      "confirmed": 348,
       "date": "2020-04-01",
       "deaths": 2,
       "recovered": 24
@@ -911,9 +911,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 7160,
+          "confirmed": 6977,
           "date": "2020-04-01",
-          "deaths": 152,
+          "deaths": 146,
           "recovered": 0
         }
       },
@@ -943,7 +943,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 495,
+          "confirmed": 507,
           "date": "2020-04-01",
           "deaths": 9,
           "recovered": 0
@@ -1039,9 +1039,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 492,
+          "confirmed": 687,
           "date": "2020-04-01",
-          "deaths": 3,
+          "deaths": 4,
           "recovered": 0
         }
       },
