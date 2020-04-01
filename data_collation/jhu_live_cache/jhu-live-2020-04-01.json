@@ -323,8 +323,8 @@
       },
       "Shaanxi": {
         "live": {
-          "confirmed": 253,
-          "date": "2020-03-26",
+          "confirmed": 255,
+          "date": "2020-04-01",
           "deaths": 3,
           "recovered": 242
         }
@@ -347,8 +347,8 @@
       },
       "Sichuan": {
         "live": {
-          "confirmed": 550,
-          "date": "2020-03-30",
+          "confirmed": 552,
+          "date": "2020-04-01",
           "deaths": 3,
           "recovered": 536
         }
@@ -589,10 +589,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 9786,
+      "confirmed": 9887,
       "date": "2020-04-01",
-      "deaths": 162,
-      "recovered": 5408
+      "deaths": 165,
+      "recovered": 5567
     }
   },
   "Kuwait": {
@@ -645,9 +645,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 1094,
+      "confirmed": 1215,
       "date": "2020-04-01",
-      "deaths": 28,
+      "deaths": 29,
       "recovered": 35
     }
   },
@@ -677,10 +677,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 647,
+      "confirmed": 708,
       "date": "2020-04-01",
       "deaths": 1,
-      "recovered": 74
+      "recovered": 83
     }
   },
   "North Macedonia": {
@@ -913,7 +913,7 @@
         "live": {
           "confirmed": 7160,
           "date": "2020-04-01",
-          "deaths": 148,
+          "deaths": 152,
           "recovered": 0
         }
       },
@@ -1055,9 +1055,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 18204,
+          "confirmed": 18497,
           "date": "2020-04-01",
-          "deaths": 264,
+          "deaths": 261,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 3801,
+          "confirmed": 3832,
           "date": "2020-04-01",
-          "deaths": 46,
+          "deaths": 49,
           "recovered": 0
         }
       },
