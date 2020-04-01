@@ -290,7 +290,8 @@ var covid19_dataset_country_jpn = {
       404,
       424,
       424,
-      424
+      424,
+      472
     ]
   }
 };

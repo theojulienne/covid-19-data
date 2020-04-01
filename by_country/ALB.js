@@ -144,7 +144,8 @@ var covid19_dataset_country_alb = {
       197,
       212,
       223,
-      243
+      243,
+      259
     ],
     "deaths": [
       0,

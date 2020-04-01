@@ -16,7 +16,7 @@
     },
     "ALB": {
       "latest": {
-        "confirmed": 243,
+        "confirmed": 259,
         "deaths": 15,
         "recovered": 52
       }
@@ -115,14 +115,14 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 10366,
+        "confirmed": 10418,
         "deaths": 146,
-        "recovered": 1095
+        "recovered": 1436
       }
     },
     "AZE": {
       "latest": {
-        "confirmed": 298,
+        "confirmed": 359,
         "deaths": 5,
         "recovered": 26
       }
@@ -338,7 +338,7 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82302,
+        "confirmed": 82353,
         "deaths": 3316,
         "recovered": 76382
       },
@@ -404,7 +404,7 @@
           "recovered": 1251
         },
         "Hong Kong": {
-          "confirmed": 714,
+          "confirmed": 765,
           "deaths": 4,
           "recovered": 128
         },
@@ -519,9 +519,9 @@
     },
     "CMR": {
       "latest": {
-        "confirmed": 223,
+        "confirmed": 233,
         "deaths": 6,
-        "recovered": 5
+        "recovered": 10
       }
     },
     "COD": {
@@ -665,8 +665,8 @@
     "EST": {
       "latest": {
         "confirmed": 779,
-        "deaths": 4,
-        "recovered": 26
+        "deaths": 5,
+        "recovered": 33
       }
     },
     "ETH": {
@@ -678,7 +678,7 @@
     },
     "FIN": {
       "latest": {
-        "confirmed": 1418,
+        "confirmed": 1446,
         "deaths": 17,
         "recovered": 10
       }
@@ -977,14 +977,14 @@
       "latest": {
         "confirmed": 2178,
         "deaths": 57,
-        "recovered": 424
+        "recovered": 472
       }
     },
     "KAZ": {
       "latest": {
-        "confirmed": 369,
+        "confirmed": 372,
         "deaths": 3,
-        "recovered": 24
+        "recovered": 26
       }
     },
     "KEN": {
@@ -1150,7 +1150,7 @@
     },
     "MLT": {
       "latest": {
-        "confirmed": 169,
+        "confirmed": 188,
         "deaths": 0,
         "recovered": 2
       }
@@ -1251,8 +1251,8 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 4651,
-        "deaths": 39,
+        "confirmed": 4699,
+        "deaths": 40,
         "recovered": 13
       }
     },
@@ -1384,9 +1384,9 @@
     },
     "SEN": {
       "latest": {
-        "confirmed": 175,
-        "deaths": 0,
-        "recovered": 40
+        "confirmed": 190,
+        "deaths": 1,
+        "recovered": 45
       }
     },
     "SGP": {
