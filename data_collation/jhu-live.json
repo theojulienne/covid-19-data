@@ -1,4 +1,12 @@
 {
+  "Afghanistan": {
+    "live": {
+      "confirmed": 196,
+      "date": "2020-04-01",
+      "deaths": 4,
+      "recovered": 5
+    }
+  },
   "Albania": {
     "live": {
       "confirmed": 243,
@@ -509,10 +517,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 1397,
+      "confirmed": 1590,
       "date": "2020-04-01",
-      "deaths": 35,
-      "recovered": 123
+      "deaths": 45,
+      "recovered": 148
     }
   },
   "Indonesia": {
@@ -565,9 +573,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 2229,
+      "confirmed": 2178,
       "date": "2020-04-01",
-      "deaths": 66,
+      "deaths": 57,
       "recovered": 424
     }
   },
@@ -613,7 +621,7 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 470,
+      "confirmed": 463,
       "date": "2020-04-01",
       "deaths": 12,
       "recovered": 37
@@ -709,10 +717,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 1938,
+      "confirmed": 2039,
       "date": "2020-04-01",
       "deaths": 26,
-      "recovered": 76
+      "recovered": 82
     }
   },
   "Panama": {
@@ -869,9 +877,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1651,
+      "confirmed": 1771,
       "date": "2020-04-01",
-      "deaths": 10,
+      "deaths": 12,
       "recovered": 342
     }
   },
@@ -895,7 +903,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 277,
+          "confirmed": 282,
           "date": "2020-04-01",
           "deaths": 0,
           "recovered": 0
@@ -1119,9 +1127,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 1650,
+          "confirmed": 1466,
           "date": "2020-04-01",
-          "deaths": 19,
+          "deaths": 15,
           "recovered": 0
         }
       },
