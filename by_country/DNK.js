@@ -732,7 +732,8 @@ var covid19_dataset_country_dnk = {
       1,
       1,
       1,
-      1
+      1,
+      894
     ]
   }
 };
