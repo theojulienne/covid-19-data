@@ -288,7 +288,8 @@ var covid19_dataset_country_kwt = {
       64,
       67,
       72,
-      73
+      73,
+      80
     ]
   }
 };

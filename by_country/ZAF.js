@@ -288,7 +288,8 @@ var covid19_dataset_country_zaf = {
       31,
       31,
       31,
-      31
+      31,
+      50
     ]
   }
 };
