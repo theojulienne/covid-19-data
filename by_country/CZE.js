@@ -217,7 +217,8 @@ var covid19_dataset_country_cze = {
       11,
       16,
       23,
-      31
+      31,
+      32
     ],
     "recovered": [
       0,
