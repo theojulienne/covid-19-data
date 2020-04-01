@@ -2,7 +2,7 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 196,
+        "confirmed": 237,
         "deaths": 4,
         "recovered": 5
       }
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 10668,
+        "confirmed": 10711,
         "deaths": 146,
         "recovered": 1436
       }
@@ -255,8 +255,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 9475,
-        "deaths": 109,
+        "confirmed": 9466,
+        "deaths": 108,
         "recovered": 1592
       },
       "states": {
@@ -313,8 +313,8 @@
           "deaths": 0
         },
         "Saskatchewan": {
-          "confirmed": 193,
-          "deaths": 3
+          "confirmed": 184,
+          "deaths": 2
         },
         "Yukon": {
           "confirmed": 5,
@@ -582,8 +582,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 77779,
-        "deaths": 909,
+        "confirmed": 77872,
+        "deaths": 920,
         "recovered": 18700
       }
     },
@@ -657,8 +657,8 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 102179,
-        "deaths": 9131,
+        "confirmed": 104118,
+        "deaths": 9387,
         "recovered": 22647
       }
     },
@@ -948,8 +948,8 @@
     "ISR": {
       "latest": {
         "confirmed": 6092,
-        "deaths": 25,
-        "recovered": 226
+        "deaths": 26,
+        "recovered": 241
       }
     },
     "ITA": {
@@ -1456,7 +1456,7 @@
       "latest": {
         "confirmed": 4947,
         "deaths": 239,
-        "recovered": 16
+        "recovered": 103
       }
     },
     "SWZ": {
