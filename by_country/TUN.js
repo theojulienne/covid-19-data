@@ -288,7 +288,8 @@ var covid19_dataset_country_tun = {
       2,
       2,
       3,
-      3
+      3,
+      5
     ]
   }
 };
