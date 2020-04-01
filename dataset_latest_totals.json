@@ -58,9 +58,9 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 4505,
+        "confirmed": 4610,
         "deaths": 19,
-        "recovered": 358
+        "recovered": 410
       },
       "states": {
         "ACT": {
@@ -83,7 +83,7 @@
           "recovered": 0
         },
         "QLD": {
-          "confirmed": 689,
+          "confirmed": 743,
           "deaths": 3,
           "recovered": 8,
           "tested": 50853
@@ -99,12 +99,12 @@
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 917,
-          "current_hospitalized": 29,
-          "current_icu": 4,
+          "confirmed": 968,
+          "current_hospitalized": 32,
+          "current_icu": 6,
           "deaths": 4,
-          "recovered": 291,
-          "tested": 42000
+          "recovered": 343,
+          "tested": 47000
         },
         "WA": {
           "confirmed": 364,
