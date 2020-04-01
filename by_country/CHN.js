@@ -878,7 +878,7 @@ var covid19_dataset_country_chn = {
           295,
           295,
           295,
-          297
+          298
         ]
       }
     },
@@ -6170,7 +6170,8 @@ var covid19_dataset_country_chn = {
           536,
           536,
           536,
-          536
+          536,
+          537
         ]
       }
     },
@@ -7567,7 +7568,7 @@ var covid19_dataset_country_chn = {
       75582,
       75923,
       76206,
-      76401
+      76403
     ]
   }
 };
