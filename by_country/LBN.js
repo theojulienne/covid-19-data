@@ -144,7 +144,8 @@ var covid19_dataset_country_lbn = {
       412,
       438,
       446,
-      470
+      470,
+      479
     ],
     "deaths": [
       0,
