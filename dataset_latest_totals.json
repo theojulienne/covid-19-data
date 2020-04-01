@@ -338,8 +338,8 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82279,
-        "deaths": 3309,
+        "confirmed": 82288,
+        "deaths": 3310,
         "recovered": 76206
       },
       "states": {
@@ -389,7 +389,7 @@
           "recovered": 168
         },
         "Hebei": {
-          "confirmed": 321,
+          "confirmed": 323,
           "deaths": 6,
           "recovered": 310
         },
@@ -469,8 +469,8 @@
           "recovered": 753
         },
         "Shanghai": {
-          "confirmed": 509,
-          "deaths": 5,
+          "confirmed": 516,
+          "deaths": 6,
           "recovered": 341
         },
         "Shanxi": {
@@ -636,9 +636,9 @@
     },
     "ECU": {
       "latest": {
-        "confirmed": 2240,
-        "deaths": 75,
-        "recovered": 54
+        "confirmed": 2302,
+        "deaths": 79,
+        "recovered": 58
       }
     },
     "EGY": {
@@ -1567,7 +1567,7 @@
     "USA": {
       "latest": {
         "confirmed": 184430,
-        "deaths": 3736,
+        "deaths": 3742,
         "tested": 1105585
       },
       "states": {
@@ -1763,7 +1763,7 @@
         },
         "NV": {
           "confirmed": 1113,
-          "deaths": 17,
+          "deaths": 23,
           "tested": 11794
         },
         "NY": {

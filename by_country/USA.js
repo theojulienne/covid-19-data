@@ -9198,7 +9198,8 @@ var covid19_dataset_country_usa = {
           10,
           14,
           15,
-          17
+          17,
+          23
         ],
         "tested": [
           0,
@@ -14456,7 +14457,8 @@ var covid19_dataset_country_usa = {
       1961,
       2422,
       2932,
-      3736
+      3736,
+      3742
     ],
     "tested": [
       0,
