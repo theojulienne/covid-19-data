@@ -220,7 +220,8 @@ var covid19_dataset_country_ltu = {
       7,
       7,
       8,
-      8
+      8,
+      9
     ],
     "recovered": [
       0,
