@@ -59,7 +59,7 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "latest": {
         "confirmed": 5046,
-        "deaths": 21,
+        "deaths": 22,
         "recovered": 501
       },
       "states": {
@@ -73,7 +73,7 @@ var covid19_dataset_latest_totals = {
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
-          "deaths": 9,
+          "deaths": 10,
           "recovered": 4,
           "tested": 110537
         },
@@ -680,7 +680,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 1446,
         "deaths": 17,
-        "recovered": 10
+        "recovered": 300
       }
     },
     "FJI": {

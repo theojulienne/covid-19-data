@@ -221,7 +221,7 @@ var covid19_dataset_world_totals = {
       37516,
       41945,
       46706,
-      46775
+      46776
     ]
   }
 };

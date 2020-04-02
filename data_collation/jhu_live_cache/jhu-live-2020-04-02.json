@@ -51,9 +51,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2182,
+          "confirmed": 2298,
           "date": "2020-04-02",
-          "deaths": 9,
+          "deaths": 10,
           "recovered": 4
         }
       },
@@ -75,10 +75,10 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 968,
+          "confirmed": 1036,
           "date": "2020-04-02",
-          "deaths": 4,
-          "recovered": 343
+          "deaths": 5,
+          "recovered": 422
         }
       },
       "Western Australia": {
@@ -456,7 +456,7 @@
       "confirmed": 1446,
       "date": "2020-04-02",
       "deaths": 17,
-      "recovered": 10
+      "recovered": 300
     }
   },
   "France": {
@@ -895,9 +895,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 1088,
+          "confirmed": 871,
           "date": "2020-04-02",
-          "deaths": 21,
+          "deaths": 11,
           "recovered": 0
         }
       },
@@ -943,9 +943,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 5740,
+          "confirmed": 5910,
           "date": "2020-04-02",
-          "deaths": 46,
+          "deaths": 72,
           "recovered": 0
         }
       },
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 6343,
           "date": "2020-04-02",
-          "deaths": 123,
+          "deaths": 124,
           "recovered": 0
         }
       },
@@ -1055,9 +1055,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 82798,
+          "confirmed": 82606,
           "date": "2020-04-02",
-          "deaths": 1612,
+          "deaths": 1613,
           "recovered": 0
         }
       },
@@ -1135,7 +1135,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 4750,
+          "confirmed": 4785,
           "date": "2020-04-02",
           "deaths": 217,
           "recovered": 0
