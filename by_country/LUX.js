@@ -145,8 +145,7 @@ var covid19_dataset_country_lux = {
       1831,
       1950,
       1988,
-      2178,
-      2319
+      2178
     ],
     "deaths": [
       0,
@@ -218,8 +217,7 @@ var covid19_dataset_country_lux = {
       18,
       21,
       22,
-      23,
-      29
+      23
     ],
     "recovered": [
       0,

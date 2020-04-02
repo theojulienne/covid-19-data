@@ -145,8 +145,7 @@ var covid19_dataset_country_aze = {
       182,
       209,
       273,
-      298,
-      359
+      298
     ],
     "deaths": [
       0,

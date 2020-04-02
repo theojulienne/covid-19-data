@@ -217,8 +217,7 @@ var covid19_dataset_country_ury = {
       0,
       1,
       1,
-      1,
-      2
+      1
     ],
     "recovered": [
       0,
