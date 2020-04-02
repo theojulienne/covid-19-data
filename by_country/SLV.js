@@ -145,6 +145,7 @@ var covid19_dataset_country_slv = {
       19,
       24,
       30,
+      32,
       32
     ],
     "deaths": [
@@ -217,9 +218,11 @@ var covid19_dataset_country_slv = {
       0,
       0,
       0,
+      1,
       1
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

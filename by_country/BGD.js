@@ -145,7 +145,8 @@ var covid19_dataset_country_bgd = {
       48,
       48,
       49,
-      51
+      51,
+      54
     ],
     "deaths": [
       0,
@@ -217,7 +218,8 @@ var covid19_dataset_country_bgd = {
       5,
       5,
       5,
-      5
+      5,
+      6
     ],
     "recovered": [
       0,
@@ -289,6 +291,7 @@ var covid19_dataset_country_bgd = {
       15,
       15,
       19,
+      25,
       25
     ]
   }

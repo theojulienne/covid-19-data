@@ -145,6 +145,7 @@ var covid19_dataset_country_lie = {
       56,
       56,
       62,
+      68,
       68
     ],
     "deaths": [
@@ -217,9 +218,11 @@ var covid19_dataset_country_lie = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
