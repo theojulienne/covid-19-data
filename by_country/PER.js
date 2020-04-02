@@ -221,7 +221,7 @@ var covid19_dataset_country_per = {
       24,
       30,
       38,
-      47
+      55
     ],
     "recovered": [
       0,

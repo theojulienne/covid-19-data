@@ -294,7 +294,8 @@ var covid19_dataset_country_ecu = {
       3,
       3,
       54,
-      58
+      58,
+      65
     ]
   }
 };
