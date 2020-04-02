@@ -3905,7 +3905,7 @@ var covid19_dataset_country_aus = {
           49382,
           50853,
           50853,
-          50853
+          51785
         ]
       }
     },
@@ -5934,7 +5934,8 @@ var covid19_dataset_country_aus = {
           28,
           41,
           41,
-          48
+          48,
+          64
         ]
       }
     }
@@ -6235,7 +6236,7 @@ var covid19_dataset_country_aus = {
       259,
       358,
       422,
-      501
+      517
     ]
   }
 };

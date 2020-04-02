@@ -60,7 +60,7 @@
       "latest": {
         "confirmed": 5046,
         "deaths": 22,
-        "recovered": 501
+        "recovered": 517
       },
       "states": {
         "ACT": {
@@ -86,7 +86,7 @@
           "confirmed": 781,
           "deaths": 3,
           "recovered": 8,
-          "tested": 50853
+          "tested": 51785
         },
         "SA": {
           "confirmed": 367,
@@ -109,7 +109,7 @@
         "WA": {
           "confirmed": 392,
           "deaths": 2,
-          "recovered": 48
+          "recovered": 64
         }
       }
     },
@@ -912,7 +912,7 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 1998,
+        "confirmed": 2032,
         "deaths": 58,
         "recovered": 148
       }
@@ -1279,8 +1279,8 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 2118,
-        "deaths": 27,
+        "confirmed": 2238,
+        "deaths": 31,
         "recovered": 94
       }
     },
