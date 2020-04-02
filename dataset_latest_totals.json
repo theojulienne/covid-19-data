@@ -38,7 +38,7 @@
     "ARG": {
       "latest": {
         "confirmed": 1133,
-        "deaths": 32,
+        "deaths": 33,
         "recovered": 248
       }
     },
@@ -256,7 +256,7 @@
     "CAN": {
       "latest": {
         "confirmed": 9730,
-        "deaths": 111,
+        "deaths": 112,
         "recovered": 1324
       },
       "states": {
@@ -266,7 +266,7 @@
         },
         "British Columbia": {
           "confirmed": 1066,
-          "deaths": 24
+          "deaths": 25
         },
         "Diamond Princess": {
           "confirmed": 0,
@@ -338,9 +338,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82374,
+        "confirmed": 82387,
         "deaths": 3316,
-        "recovered": 76409
+        "recovered": 76426
       },
       "states": {
         "Anhui": {
@@ -349,9 +349,9 @@
           "recovered": 984
         },
         "Beijing": {
-          "confirmed": 580,
+          "confirmed": 582,
           "deaths": 8,
-          "recovered": 418
+          "recovered": 424
         },
         "Chongqing": {
           "confirmed": 579,
@@ -361,7 +361,7 @@
         "Fujian": {
           "confirmed": 345,
           "deaths": 1,
-          "recovered": 298
+          "recovered": 299
         },
         "Gansu": {
           "confirmed": 138,
@@ -369,9 +369,9 @@
           "recovered": 127
         },
         "Guangdong": {
-          "confirmed": 1501,
+          "confirmed": 1507,
           "deaths": 8,
-          "recovered": 1357
+          "recovered": 1365
         },
         "Guangxi": {
           "confirmed": 254,
@@ -414,7 +414,7 @@
           "recovered": 63326
         },
         "Hunan": {
-          "confirmed": 1018,
+          "confirmed": 1019,
           "deaths": 4,
           "recovered": 1014
         },
@@ -424,7 +424,7 @@
           "recovered": 74
         },
         "Jiangsu": {
-          "confirmed": 646,
+          "confirmed": 647,
           "deaths": 0,
           "recovered": 631
         },
@@ -479,7 +479,7 @@
           "recovered": 133
         },
         "Sichuan": {
-          "confirmed": 552,
+          "confirmed": 554,
           "deaths": 3,
           "recovered": 537
         },
@@ -504,9 +504,9 @@
           "recovered": 172
         },
         "Zhejiang": {
-          "confirmed": 1257,
+          "confirmed": 1258,
           "deaths": 1,
-          "recovered": 1226
+          "recovered": 1228
         }
       }
     },
@@ -877,8 +877,8 @@
     },
     "HND": {
       "latest": {
-        "confirmed": 172,
-        "deaths": 10,
+        "confirmed": 219,
+        "deaths": 14,
         "recovered": 3
       }
     },
@@ -982,7 +982,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 380,
+        "confirmed": 402,
         "deaths": 3,
         "recovered": 26
       }
@@ -1129,8 +1129,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 1215,
-        "deaths": 29,
+        "confirmed": 1378,
+        "deaths": 37,
         "recovered": 35
       }
     },
@@ -1294,7 +1294,7 @@
     "PER": {
       "latest": {
         "confirmed": 1323,
-        "deaths": 38,
+        "deaths": 47,
         "recovered": 394
       }
     },
