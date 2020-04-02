@@ -2245,7 +2245,7 @@ var covid19_dataset_country_aus = {
             6,
             6,
             6,
-            6
+            8
           ],
           "Central West": [
             0,
@@ -2391,7 +2391,7 @@ var covid19_dataset_country_aus = {
             24,
             28,
             31,
-            31
+            37
           ],
           "Gold Coast": [
             0,
@@ -2464,7 +2464,7 @@ var covid19_dataset_country_aus = {
             121,
             136,
             147,
-            147
+            148
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -2683,7 +2683,7 @@ var covid19_dataset_country_aus = {
             5,
             5,
             6,
-            6
+            7
           ],
           "Metro North": [
             0,
@@ -2756,7 +2756,7 @@ var covid19_dataset_country_aus = {
             180,
             183,
             205,
-            205
+            216
           ],
           "Metro South": [
             0,
@@ -2829,7 +2829,7 @@ var covid19_dataset_country_aus = {
             163,
             169,
             180,
-            180
+            188
           ],
           "North West": [
             0,
@@ -3194,7 +3194,7 @@ var covid19_dataset_country_aus = {
             70,
             71,
             72,
-            72
+            79
           ],
           "TBC": [
             0,
@@ -3413,7 +3413,7 @@ var covid19_dataset_country_aus = {
             16,
             17,
             18,
-            18
+            19
           ],
           "West Moreton": [
             0,
@@ -3486,7 +3486,7 @@ var covid19_dataset_country_aus = {
             33,
             35,
             36,
-            36
+            37
           ],
           "Wide Bay": [
             0,
@@ -3635,7 +3635,7 @@ var covid19_dataset_country_aus = {
           656,
           689,
           743,
-          743
+          781
         ],
         "deaths": [
           0,
@@ -6103,8 +6103,8 @@ var covid19_dataset_country_aus = {
       3984,
       4247,
       4559,
-      4818,
-      4886
+      4856,
+      4924
     ],
     "deaths": [
       0,
