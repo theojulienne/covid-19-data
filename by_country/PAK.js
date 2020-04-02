@@ -147,7 +147,7 @@ var covid19_dataset_country_pak = {
       1717,
       1938,
       2118,
-      2291
+      2386
     ],
     "deaths": [
       0,
@@ -221,7 +221,7 @@ var covid19_dataset_country_pak = {
       21,
       26,
       27,
-      31
+      32
     ],
     "recovered": [
       0,

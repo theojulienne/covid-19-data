@@ -220,7 +220,8 @@ var covid19_dataset_country_isl = {
       2,
       2,
       2,
-      2
+      2,
+      4
     ],
     "recovered": [
       0,
@@ -294,7 +295,7 @@ var covid19_dataset_country_isl = {
       157,
       198,
       225,
-      270
+      284
     ]
   }
 };
