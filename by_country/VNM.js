@@ -293,7 +293,8 @@ var covid19_dataset_country_vnm = {
       25,
       55,
       58,
-      63
+      63,
+      64
     ]
   }
 };
