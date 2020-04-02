@@ -25,9 +25,9 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 390,
+      "confirmed": 428,
       "date": "2020-04-02",
-      "deaths": 14,
+      "deaths": 15,
       "recovered": 10
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 10877,
+      "confirmed": 10892,
       "date": "2020-04-02",
       "deaths": 158,
       "recovered": 1749
@@ -109,10 +109,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 569,
+      "confirmed": 635,
       "date": "2020-04-02",
       "deaths": 4,
-      "recovered": 337
+      "recovered": 341
     }
   },
   "Belgium": {
@@ -407,8 +407,8 @@
     "live": {
       "confirmed": 3355,
       "date": "2020-04-02",
-      "deaths": 104,
-      "recovered": 894
+      "deaths": 123,
+      "recovered": 1089
     }
   },
   "Diamond Princess": {
@@ -469,9 +469,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 77981,
+      "confirmed": 78115,
       "date": "2020-04-02",
-      "deaths": 931,
+      "deaths": 944,
       "recovered": 19175
     }
   },
@@ -551,7 +551,7 @@
     "live": {
       "confirmed": 6211,
       "date": "2020-04-02",
-      "deaths": 31,
+      "deaths": 33,
       "recovered": 289
     }
   },
@@ -1185,7 +1185,7 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 222,
+      "confirmed": 227,
       "date": "2020-04-02",
       "deaths": 0,
       "recovered": 75
