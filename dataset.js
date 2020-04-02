@@ -3914,6 +3914,7 @@ var covid19_dataset = {
                 21,
                 22,
                 24,
+                24,
                 24
               ],
               "Central Qld": [
@@ -3979,6 +3980,7 @@ var covid19_dataset = {
                 0,
                 0,
                 3,
+                0,
                 0,
                 0,
                 0,
@@ -4060,9 +4062,11 @@ var covid19_dataset = {
                 6,
                 6,
                 6,
+                8,
                 8
               ],
               "Central West": [
+                0,
                 0,
                 0,
                 0,
@@ -4206,6 +4210,7 @@ var covid19_dataset = {
                 24,
                 28,
                 31,
+                37,
                 37
               ],
               "Gold Coast": [
@@ -4279,6 +4284,7 @@ var covid19_dataset = {
                 121,
                 136,
                 147,
+                148,
                 148
               ],
               "International (managed by Cairns HHS)": [
@@ -4340,6 +4346,7 @@ var covid19_dataset = {
                 0,
                 0,
                 1,
+                0,
                 0,
                 0,
                 0,
@@ -4425,6 +4432,7 @@ var covid19_dataset = {
                 0,
                 0,
                 0,
+                0,
                 0
               ],
               "Mackay": [
@@ -4498,6 +4506,7 @@ var covid19_dataset = {
                 5,
                 5,
                 6,
+                7,
                 7
               ],
               "Metro North": [
@@ -4571,6 +4580,7 @@ var covid19_dataset = {
                 180,
                 183,
                 205,
+                216,
                 216
               ],
               "Metro South": [
@@ -4644,9 +4654,11 @@ var covid19_dataset = {
                 163,
                 169,
                 180,
+                188,
                 188
               ],
               "North West": [
+                0,
                 0,
                 0,
                 0,
@@ -4790,6 +4802,7 @@ var covid19_dataset = {
                 0,
                 0,
                 0,
+                0,
                 0
               ],
               "Overseas/interstate": [
@@ -4863,9 +4876,11 @@ var covid19_dataset = {
                 0,
                 0,
                 0,
+                0,
                 0
               ],
               "South West": [
+                0,
                 0,
                 0,
                 0,
@@ -5009,6 +5024,7 @@ var covid19_dataset = {
                 70,
                 71,
                 72,
+                79,
                 79
               ],
               "TBC": [
@@ -5082,9 +5098,11 @@ var covid19_dataset = {
                 0,
                 0,
                 0,
+                0,
                 0
               ],
               "Torres and Cape": [
+                0,
                 0,
                 0,
                 0,
@@ -5228,6 +5246,7 @@ var covid19_dataset = {
                 16,
                 17,
                 18,
+                19,
                 19
               ],
               "West Moreton": [
@@ -5301,6 +5320,7 @@ var covid19_dataset = {
                 33,
                 35,
                 36,
+                37,
                 37
               ],
               "Wide Bay": [
@@ -5373,6 +5393,7 @@ var covid19_dataset = {
                 16,
                 17,
                 17,
+                18,
                 18,
                 18
               ]
@@ -5450,6 +5471,7 @@ var covid19_dataset = {
               656,
               689,
               743,
+              781,
               781
             ],
             "deaths": [
@@ -5520,6 +5542,7 @@ var covid19_dataset = {
               2,
               2,
               2,
+              3,
               3,
               3,
               3,
@@ -5668,6 +5691,7 @@ var covid19_dataset = {
               49769,
               49769,
               49382,
+              50853,
               50853,
               50853
             ]
