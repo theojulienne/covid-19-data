@@ -41,10 +41,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 571,
+      "confirmed": 663,
       "date": "2020-04-02",
       "deaths": 4,
-      "recovered": 31
+      "recovered": 33
     }
   },
   "Australia": {
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 10769,
+      "confirmed": 10809,
       "date": "2020-04-02",
       "deaths": 146,
       "recovered": 1436
@@ -292,9 +292,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67802,
-          "date": "2020-04-01",
-          "deaths": 3193,
-          "recovered": 63326
+          "date": "2020-04-02",
+          "deaths": 3199,
+          "recovered": 63471
         }
       },
       "Hunan": {
@@ -453,7 +453,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 1446,
+      "confirmed": 1518,
       "date": "2020-04-02",
       "deaths": 17,
       "recovered": 300
@@ -472,7 +472,7 @@
       "confirmed": 77981,
       "date": "2020-04-02",
       "deaths": 931,
-      "recovered": 18700
+      "recovered": 19175
     }
   },
   "Greece": {
@@ -584,7 +584,7 @@
       "confirmed": 402,
       "date": "2020-04-02",
       "deaths": 3,
-      "recovered": 26
+      "recovered": 27
     }
   },
   "Korea, South": {
@@ -600,7 +600,7 @@
       "confirmed": 317,
       "date": "2020-04-02",
       "deaths": 0,
-      "recovered": 80
+      "recovered": 81
     }
   },
   "Latvia": {
@@ -661,7 +661,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 654,
+      "confirmed": 676,
       "date": "2020-04-02",
       "deaths": 39,
       "recovered": 29
@@ -693,10 +693,18 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 4877,
+      "confirmed": 4879,
       "date": "2020-04-02",
       "deaths": 44,
       "recovered": 13
+    }
+  },
+  "Oman": {
+    "live": {
+      "confirmed": 231,
+      "date": "2020-04-02",
+      "deaths": 1,
+      "recovered": 41
     }
   },
   "Pakistan": {
@@ -759,16 +767,16 @@
     "live": {
       "confirmed": 2460,
       "date": "2020-04-02",
-      "deaths": 92,
+      "deaths": 94,
       "recovered": 252
     }
   },
   "Russia": {
     "live": {
-      "confirmed": 2777,
+      "confirmed": 3548,
       "date": "2020-04-02",
-      "deaths": 24,
-      "recovered": 190
+      "deaths": 30,
+      "recovered": 235
     }
   },
   "San Marino": {
@@ -845,7 +853,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 17768,
+      "confirmed": 17781,
       "date": "2020-04-02",
       "deaths": 488,
       "recovered": 2967
@@ -1021,14 +1029,6 @@
           "recovered": 0
         }
       },
-      "Minnesota": {
-        "live": {
-          "confirmed": 218,
-          "date": "2020-04-02",
-          "deaths": 5,
-          "recovered": 0
-        }
-      },
       "Missouri": {
         "live": {
           "confirmed": 844,
@@ -1153,7 +1153,7 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 794,
+      "confirmed": 804,
       "date": "2020-04-02",
       "deaths": 20,
       "recovered": 13
