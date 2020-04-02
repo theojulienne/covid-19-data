@@ -4383,6 +4383,7 @@ var covid19_dataset_country_aus = {
             6,
             7,
             7,
+            0,
             0
           ],
           "10-19": [
@@ -4456,6 +4457,7 @@ var covid19_dataset_country_aus = {
             27,
             30,
             30,
+            0,
             0
           ],
           "20-29": [
@@ -4529,6 +4531,7 @@ var covid19_dataset_country_aus = {
             190,
             215,
             227,
+            0,
             0
           ],
           "30-39": [
@@ -4602,6 +4605,7 @@ var covid19_dataset_country_aus = {
             135,
             143,
             150,
+            0,
             0
           ],
           "40-49": [
@@ -4675,6 +4679,7 @@ var covid19_dataset_country_aus = {
             129,
             136,
             139,
+            0,
             0
           ],
           "50-59": [
@@ -4748,6 +4753,7 @@ var covid19_dataset_country_aus = {
             157,
             169,
             176,
+            0,
             0
           ],
           "60-69": [
@@ -4821,6 +4827,7 @@ var covid19_dataset_country_aus = {
             142,
             148,
             153,
+            0,
             0
           ],
           "70-79": [
@@ -4894,6 +4901,7 @@ var covid19_dataset_country_aus = {
             63,
             64,
             65,
+            0,
             0
           ],
           "80+": [
@@ -4967,6 +4975,7 @@ var covid19_dataset_country_aus = {
             13,
             15,
             17,
+            0,
             0
           ]
         }
@@ -5050,6 +5059,7 @@ var covid19_dataset_country_aus = {
             35,
             39,
             39,
+            0,
             0
           ],
           "Locally acquired - contact of a confirmed case": [
@@ -5123,6 +5133,7 @@ var covid19_dataset_country_aus = {
             260,
             292,
             303,
+            0,
             0
           ],
           "Overseas acquired": [
@@ -5196,6 +5207,7 @@ var covid19_dataset_country_aus = {
             546,
             569,
             581,
+            0,
             0
           ],
           "Under investigation": [
@@ -5269,6 +5281,7 @@ var covid19_dataset_country_aus = {
             23,
             31,
             45,
+            0,
             0
           ]
         }
@@ -5345,7 +5358,8 @@ var covid19_dataset_country_aus = {
           769,
           821,
           917,
-          968
+          968,
+          1036
         ],
         "current_hospitalized": [
           0,
@@ -5418,7 +5432,8 @@ var covid19_dataset_country_aus = {
           26,
           29,
           29,
-          32
+          32,
+          36
         ],
         "current_icu": [
           0,
@@ -5491,6 +5506,7 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
+          6,
           6
         ],
         "deaths": [
@@ -5561,6 +5577,7 @@ var covid19_dataset_country_aus = {
           2,
           3,
           3,
+          4,
           4,
           4,
           4,
@@ -5637,7 +5654,8 @@ var covid19_dataset_country_aus = {
           193,
           193,
           291,
-          343
+          343,
+          422
         ],
         "tested": [
           0,
@@ -5710,7 +5728,8 @@ var covid19_dataset_country_aus = {
           39000,
           42000,
           45000,
-          47000
+          47000,
+          49000
         ]
       }
     },
@@ -6009,7 +6028,8 @@ var covid19_dataset_country_aus = {
     "2020-03-30",
     "2020-03-31",
     "2020-04-01",
-    "2020-04-02"
+    "2020-04-02",
+    "2020-04-03"
   ],
   "total": {
     "confirmed": [
@@ -6083,7 +6103,8 @@ var covid19_dataset_country_aus = {
       3984,
       4247,
       4559,
-      4818
+      4818,
+      4886
     ],
     "deaths": [
       0,
@@ -6156,6 +6177,7 @@ var covid19_dataset_country_aus = {
       17,
       18,
       19,
+      20,
       20
     ],
     "recovered": [
@@ -6229,7 +6251,8 @@ var covid19_dataset_country_aus = {
       246,
       259,
       358,
-      417
+      417,
+      496
     ]
   }
 };
