@@ -146,7 +146,8 @@ var covid19_dataset_country_egy = {
       609,
       656,
       710,
-      779
+      779,
+      850
     ],
     "deaths": [
       0,

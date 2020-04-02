@@ -221,7 +221,7 @@ var covid19_dataset_country_pak = {
       21,
       26,
       27,
-      32
+      33
     ],
     "recovered": [
       0,

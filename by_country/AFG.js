@@ -147,7 +147,7 @@ var covid19_dataset_country_afg = {
       170,
       174,
       237,
-      239
+      258
     ],
     "deaths": [
       0,
