@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 1265,
       "date": "2020-04-03",
-      "deaths": 37,
+      "deaths": 39,
       "recovered": 256
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 11383,
+      "confirmed": 11412,
       "date": "2020-04-03",
       "deaths": 168,
       "recovered": 2022
@@ -141,17 +141,17 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 8076,
+      "confirmed": 8165,
       "date": "2020-04-03",
-      "deaths": 329,
+      "deaths": 332,
       "recovered": 127
     }
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 477,
+      "confirmed": 485,
       "date": "2020-04-03",
-      "deaths": 12,
+      "deaths": 14,
       "recovered": 30
     }
   },
@@ -209,10 +209,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 3404,
+      "confirmed": 3737,
       "date": "2020-04-03",
-      "deaths": 18,
-      "recovered": 335
+      "deaths": 22,
+      "recovered": 427
     }
   },
   "China": {
@@ -429,9 +429,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 1380,
+      "confirmed": 1488,
       "date": "2020-04-03",
-      "deaths": 60,
+      "deaths": 68,
       "recovered": 16
     }
   },
@@ -463,7 +463,7 @@
     "live": {
       "confirmed": 1615,
       "date": "2020-04-03",
-      "deaths": 21,
+      "deaths": 20,
       "recovered": 300
     }
   },
@@ -477,10 +477,10 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 85903,
+      "confirmed": 87244,
       "date": "2020-04-03",
-      "deaths": 1122,
-      "recovered": 22440
+      "deaths": 1138,
+      "recovered": 24575
     }
   },
   "Greece": {
@@ -607,7 +607,7 @@
     "live": {
       "confirmed": 493,
       "date": "2020-04-03",
-      "deaths": 1,
+      "deaths": 0,
       "recovered": 1
     }
   },
@@ -695,7 +695,7 @@
     "live": {
       "confirmed": 5296,
       "date": "2020-04-03",
-      "deaths": 54,
+      "deaths": 56,
       "recovered": 32
     }
   },
@@ -767,7 +767,7 @@
     "live": {
       "confirmed": 3183,
       "date": "2020-04-03",
-      "deaths": 118,
+      "deaths": 122,
       "recovered": 283
     }
   },
@@ -808,7 +808,7 @@
       "confirmed": 1114,
       "date": "2020-04-03",
       "deaths": 5,
-      "recovered": 266
+      "recovered": 282
     }
   },
   "Slovakia": {
@@ -1135,9 +1135,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1107,
+          "confirmed": 1115,
           "date": "2020-04-03",
-          "deaths": 19,
+          "deaths": 20,
           "recovered": 0
         }
       }
