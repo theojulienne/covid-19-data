@@ -1580,7 +1580,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 238755,
         "deaths": 5768,
-        "tested": 1325931
+        "tested": 1325913
       },
       "states": {
         "AK": {
@@ -1651,7 +1651,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 258,
           "deaths": 1,
           "hospitalized": 15,
-          "tested": 10482
+          "tested": 10464
         },
         "IA": {
           "confirmed": 614,
