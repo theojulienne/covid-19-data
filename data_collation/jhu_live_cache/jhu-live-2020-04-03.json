@@ -251,8 +251,8 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1507,
-          "date": "2020-04-02",
+          "confirmed": 1514,
+          "date": "2020-04-03",
           "deaths": 8,
           "recovered": 1365
         }
@@ -355,8 +355,8 @@
       },
       "Sichuan": {
         "live": {
-          "confirmed": 554,
-          "date": "2020-04-02",
+          "confirmed": 555,
+          "date": "2020-04-03",
           "deaths": 3,
           "recovered": 537
         }
@@ -493,10 +493,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 585,
+      "confirmed": 623,
       "date": "2020-04-03",
-      "deaths": 21,
-      "recovered": 42
+      "deaths": 26,
+      "recovered": 43
     }
   },
   "Iceland": {
@@ -509,10 +509,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 2543,
+      "confirmed": 2567,
       "date": "2020-04-03",
       "deaths": 72,
-      "recovered": 191
+      "recovered": 192
     }
   },
   "Indonesia": {
@@ -581,10 +581,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 435,
+      "confirmed": 444,
       "date": "2020-04-03",
       "deaths": 3,
-      "recovered": 27
+      "recovered": 28
     }
   },
   "Korea, South": {
@@ -621,7 +621,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 649,
+      "confirmed": 696,
       "date": "2020-04-03",
       "deaths": 9,
       "recovered": 7
@@ -861,10 +861,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1875,
+      "confirmed": 1978,
       "date": "2020-04-03",
-      "deaths": 15,
-      "recovered": 505
+      "deaths": 19,
+      "recovered": 581
     }
   },
   "Tunisia": {
