@@ -224,7 +224,7 @@ var covid19_dataset_country_bra = {
       201,
       240,
       324,
-      327
+      329
     ],
     "recovered": [
       0,
