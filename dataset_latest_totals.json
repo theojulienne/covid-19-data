@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 5116,
+        "confirmed": 5207,
         "deaths": 24,
         "recovered": 520
       },
@@ -69,13 +69,13 @@
           "recovered": 11
         },
         "NSW": {
-          "confirmed": 2298,
+          "confirmed": 2389,
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
           "deaths": 10,
           "recovered": 4,
-          "tested": 110537
+          "tested": 114455
         },
         "NT": {
           "confirmed": 21,
@@ -338,9 +338,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82432,
+        "confirmed": 82436,
         "deaths": 3322,
-        "recovered": 76565
+        "recovered": 76566
       },
       "states": {
         "Anhui": {
@@ -394,7 +394,7 @@
           "recovered": 310
         },
         "Heilongjiang": {
-          "confirmed": 488,
+          "confirmed": 489,
           "deaths": 13,
           "recovered": 469
         },
@@ -464,9 +464,9 @@
           "recovered": 242
         },
         "Shandong": {
-          "confirmed": 775,
+          "confirmed": 778,
           "deaths": 7,
-          "recovered": 753
+          "recovered": 754
         },
         "Shanghai": {
           "confirmed": 522,
@@ -1010,9 +1010,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 9976,
-        "deaths": 169,
-        "recovered": 5828
+        "confirmed": 10062,
+        "deaths": 174,
+        "recovered": 6021
       }
     },
     "KWT": {
@@ -1129,8 +1129,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 1378,
-        "deaths": 37,
+        "confirmed": 1510,
+        "deaths": 50,
         "recovered": 35
       }
     },
@@ -1277,9 +1277,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 797,
+        "confirmed": 868,
         "deaths": 1,
-        "recovered": 92
+        "recovered": 103
       }
     },
     "OMN": {
@@ -1571,14 +1571,14 @@
     },
     "URY": {
       "latest": {
-        "confirmed": 350,
+        "confirmed": 369,
         "deaths": 4,
-        "recovered": 62
+        "recovered": 68
       }
     },
     "USA": {
       "latest": {
-        "confirmed": 238664,
+        "confirmed": 238741,
         "deaths": 5768,
         "tested": 1325931
       },
@@ -1607,7 +1607,7 @@
           "tested": 22709
         },
         "CA": {
-          "confirmed": 9285,
+          "confirmed": 9362,
           "deaths": 203,
           "hospitalized": 1855,
           "tested": 92500
