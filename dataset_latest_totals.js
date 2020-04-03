@@ -38,7 +38,7 @@ var covid19_dataset_latest_totals = {
     "ARG": {
       "latest": {
         "confirmed": 1265,
-        "deaths": 36,
+        "deaths": 37,
         "recovered": 256
       }
     },
@@ -338,9 +338,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82442,
-        "deaths": 3322,
-        "recovered": 76576
+        "confirmed": 82452,
+        "deaths": 3326,
+        "recovered": 76719
       },
       "states": {
         "Anhui": {
@@ -359,9 +359,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 570
         },
         "Fujian": {
-          "confirmed": 345,
+          "confirmed": 349,
           "deaths": 1,
-          "recovered": 299
+          "recovered": 300
         },
         "Gansu": {
           "confirmed": 138,
@@ -410,8 +410,8 @@ var covid19_dataset_latest_totals = {
         },
         "Hubei": {
           "confirmed": 67802,
-          "deaths": 3199,
-          "recovered": 63471
+          "deaths": 3203,
+          "recovered": 63612
         },
         "Hunan": {
           "confirmed": 1019,
@@ -424,9 +424,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 74
         },
         "Jiangsu": {
-          "confirmed": 647,
+          "confirmed": 651,
           "deaths": 0,
-          "recovered": 631
+          "recovered": 632
         },
         "Jiangxi": {
           "confirmed": 937,
@@ -504,7 +504,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 172
         },
         "Zhejiang": {
-          "confirmed": 1258,
+          "confirmed": 1260,
           "deaths": 1,
           "recovered": 1228
         }
@@ -1263,7 +1263,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 5147,
+        "confirmed": 5218,
         "deaths": 50,
         "recovered": 32
       }
@@ -1404,7 +1404,7 @@ var covid19_dataset_latest_totals = {
     "SGP": {
       "latest": {
         "confirmed": 1049,
-        "deaths": 4,
+        "deaths": 5,
         "recovered": 266
       }
     },

@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 1265,
       "date": "2020-04-03",
-      "deaths": 36,
+      "deaths": 37,
       "recovered": 256
     }
   },
@@ -243,10 +243,10 @@
       },
       "Fujian": {
         "live": {
-          "confirmed": 345,
-          "date": "2020-04-02",
+          "confirmed": 349,
+          "date": "2020-04-03",
           "deaths": 1,
-          "recovered": 299
+          "recovered": 300
         }
       },
       "Guangdong": {
@@ -300,9 +300,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67802,
-          "date": "2020-04-02",
-          "deaths": 3199,
-          "recovered": 63471
+          "date": "2020-04-03",
+          "deaths": 3203,
+          "recovered": 63612
         }
       },
       "Hunan": {
@@ -315,10 +315,10 @@
       },
       "Jiangsu": {
         "live": {
-          "confirmed": 647,
-          "date": "2020-04-02",
+          "confirmed": 651,
+          "date": "2020-04-03",
           "deaths": 0,
-          "recovered": 631
+          "recovered": 632
         }
       },
       "Jiangxi": {
@@ -363,8 +363,8 @@
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1258,
-          "date": "2020-04-02",
+          "confirmed": 1260,
+          "date": "2020-04-03",
           "deaths": 1,
           "recovered": 1228
         }
@@ -693,7 +693,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 5147,
+      "confirmed": 5218,
       "date": "2020-04-03",
       "deaths": 50,
       "recovered": 32
@@ -799,7 +799,7 @@
     "live": {
       "confirmed": 1049,
       "date": "2020-04-03",
-      "deaths": 4,
+      "deaths": 5,
       "recovered": 266
     }
   },
@@ -967,9 +967,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 6947,
+          "confirmed": 6949,
           "date": "2020-04-03",
-          "deaths": 138,
+          "deaths": 142,
           "recovered": 0
         }
       },
@@ -1010,6 +1010,14 @@
           "confirmed": 9371,
           "date": "2020-04-03",
           "deaths": 389,
+          "recovered": 0
+        }
+      },
+      "Minnesota": {
+        "live": {
+          "confirmed": 235,
+          "date": "2020-04-03",
+          "deaths": 6,
           "recovered": 0
         }
       },
@@ -1063,9 +1071,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 5659,
+          "confirmed": 5736,
           "date": "2020-04-03",
-          "deaths": 67,
+          "deaths": 69,
           "recovered": 0
         }
       },
@@ -1087,9 +1095,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 1766,
+          "confirmed": 1523,
           "date": "2020-04-03",
-          "deaths": 21,
+          "deaths": 20,
           "recovered": 0
         }
       },
