@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 11129,
+      "confirmed": 11171,
       "date": "2020-04-03",
       "deaths": 158,
       "recovered": 1749
@@ -149,10 +149,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 457,
+      "confirmed": 477,
       "date": "2020-04-03",
-      "deaths": 10,
-      "recovered": 25
+      "deaths": 12,
+      "recovered": 30
     }
   },
   "Burkina Faso": {
@@ -254,7 +254,7 @@
           "confirmed": 1514,
           "date": "2020-04-03",
           "deaths": 8,
-          "recovered": 1365
+          "recovered": 1368
         }
       },
       "Guangxi": {
@@ -292,9 +292,9 @@
       "Hong Kong": {
         "live": {
           "confirmed": 802,
-          "date": "2020-04-02",
+          "date": "2020-04-03",
           "deaths": 4,
-          "recovered": 147
+          "recovered": 154
         }
       },
       "Hubei": {
@@ -332,9 +332,9 @@
       "Shaanxi": {
         "live": {
           "confirmed": 255,
-          "date": "2020-04-01",
+          "date": "2020-04-03",
           "deaths": 3,
-          "recovered": 242
+          "recovered": 244
         }
       },
       "Shandong": {
@@ -581,7 +581,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 444,
+      "confirmed": 448,
       "date": "2020-04-03",
       "deaths": 3,
       "recovered": 28
@@ -701,10 +701,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 2421,
+      "confirmed": 2450,
       "date": "2020-04-03",
-      "deaths": 34,
-      "recovered": 125
+      "deaths": 35,
+      "recovered": 126
     }
   },
   "Panama": {
@@ -824,7 +824,7 @@
       "confirmed": 1462,
       "date": "2020-04-03",
       "deaths": 5,
-      "recovered": 50
+      "recovered": 95
     }
   },
   "Spain": {
@@ -854,9 +854,9 @@
   "Taiwan*": {
     "live": {
       "confirmed": 339,
-      "date": "2020-04-02",
+      "date": "2020-04-03",
       "deaths": 5,
-      "recovered": 45
+      "recovered": 50
     }
   },
   "Thailand": {
@@ -903,9 +903,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 9362,
+          "confirmed": 9376,
           "date": "2020-04-03",
-          "deaths": 202,
+          "deaths": 203,
           "recovered": 0
         }
       },
