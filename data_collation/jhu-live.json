@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 8044,
+      "confirmed": 8066,
       "date": "2020-04-03",
-      "deaths": 324,
+      "deaths": 327,
       "recovered": 127
     }
   },
@@ -227,10 +227,10 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 582,
-          "date": "2020-04-02",
+          "confirmed": 583,
+          "date": "2020-04-03",
           "deaths": 8,
-          "recovered": 424
+          "recovered": 434
         }
       },
       "Chongqing": {
@@ -267,8 +267,8 @@
       },
       "Hebei": {
         "live": {
-          "confirmed": 325,
-          "date": "2020-04-02",
+          "confirmed": 326,
+          "date": "2020-04-03",
           "deaths": 6,
           "recovered": 310
         }
@@ -347,8 +347,8 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 522,
-          "date": "2020-04-02",
+          "confirmed": 526,
+          "date": "2020-04-03",
           "deaths": 6,
           "recovered": 343
         }
@@ -565,9 +565,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 2495,
+      "confirmed": 2617,
       "date": "2020-04-03",
-      "deaths": 62,
+      "deaths": 63,
       "recovered": 472
     }
   },
@@ -648,7 +648,7 @@
       "confirmed": 1510,
       "date": "2020-04-03",
       "deaths": 50,
-      "recovered": 35
+      "recovered": 633
     }
   },
   "Moldova": {
@@ -887,7 +887,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 314,
+          "confirmed": 332,
           "date": "2020-04-03",
           "deaths": 4,
           "recovered": 0
@@ -1039,15 +1039,15 @@
       },
       "New York": {
         "live": {
-          "confirmed": 91159,
+          "confirmed": 91126,
           "date": "2020-04-03",
-          "deaths": 1884,
+          "deaths": 1920,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 784,
+          "confirmed": 780,
           "date": "2020-04-03",
           "deaths": 3,
           "recovered": 0
@@ -1089,7 +1089,7 @@
         "live": {
           "confirmed": 1766,
           "date": "2020-04-03",
-          "deaths": 24,
+          "deaths": 21,
           "recovered": 0
         }
       },

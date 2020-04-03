@@ -298,7 +298,8 @@ var covid19_dataset_country_mex = {
       35,
       35,
       35,
-      35
+      35,
+      633
     ]
   }
 };
