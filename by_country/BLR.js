@@ -148,7 +148,8 @@ var covid19_dataset_country_blr = {
       152,
       152,
       163,
-      304
+      304,
+      351
     ],
     "deaths": [
       0,

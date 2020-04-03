@@ -299,7 +299,7 @@ var covid19_dataset_country_mar = {
       24,
       29,
       31,
-      34
+      49
     ]
   }
 };
