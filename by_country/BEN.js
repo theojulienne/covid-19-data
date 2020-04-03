@@ -72,7 +72,8 @@ var covid19_dataset_country_ben = {
     "2020-03-31",
     "2020-04-01",
     "2020-04-02",
-    "2020-04-03"
+    "2020-04-03",
+    "2020-04-04"
   ],
   "total": {
     "confirmed": [
@@ -146,9 +147,11 @@ var covid19_dataset_country_ben = {
       6,
       6,
       9,
+      13,
       13
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -291,6 +294,7 @@ var covid19_dataset_country_ben = {
       0,
       0,
       0,
+      1,
       1,
       1
     ]

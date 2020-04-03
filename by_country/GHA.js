@@ -72,7 +72,8 @@ var covid19_dataset_country_gha = {
     "2020-03-31",
     "2020-04-01",
     "2020-04-02",
-    "2020-04-03"
+    "2020-04-03",
+    "2020-04-04"
   ],
   "total": {
     "confirmed": [
@@ -146,7 +147,8 @@ var covid19_dataset_country_gha = {
       152,
       152,
       161,
-      195
+      195,
+      204
     ],
     "deaths": [
       0,
@@ -215,6 +217,7 @@ var covid19_dataset_country_gha = {
       4,
       4,
       4,
+      5,
       5,
       5,
       5,
@@ -291,6 +294,7 @@ var covid19_dataset_country_gha = {
       2,
       2,
       2,
+      31,
       31,
       31
     ]

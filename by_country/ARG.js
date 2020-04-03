@@ -72,7 +72,8 @@ var covid19_dataset_country_arg = {
     "2020-03-31",
     "2020-04-01",
     "2020-04-02",
-    "2020-04-03"
+    "2020-04-03",
+    "2020-04-04"
   ],
   "total": {
     "confirmed": [
@@ -221,7 +222,7 @@ var covid19_dataset_country_arg = {
       23,
       27,
       28,
-      34
+      36
     ],
     "recovered": [
       0,
