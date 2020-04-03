@@ -93,18 +93,18 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 11199,
+      "confirmed": 11224,
       "date": "2020-04-03",
       "deaths": 158,
-      "recovered": 1749
+      "recovered": 2022
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 400,
+      "confirmed": 443,
       "date": "2020-04-03",
       "deaths": 5,
-      "recovered": 26
+      "recovered": 32
     }
   },
   "Bahrain": {
@@ -413,7 +413,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 3386,
+      "confirmed": 3672,
       "date": "2020-04-03",
       "deaths": 123,
       "recovered": 1089
@@ -453,10 +453,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 858,
+      "confirmed": 961,
       "date": "2020-04-03",
-      "deaths": 11,
-      "recovered": 45
+      "deaths": 12,
+      "recovered": 48
     }
   },
   "Finland": {
@@ -549,7 +549,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 6857,
+      "confirmed": 7030,
       "date": "2020-04-03",
       "deaths": 36,
       "recovered": 338
@@ -581,10 +581,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 448,
+      "confirmed": 453,
       "date": "2020-04-03",
       "deaths": 3,
-      "recovered": 28
+      "recovered": 29
     }
   },
   "Korea, South": {
@@ -699,6 +699,14 @@
       "recovered": 32
     }
   },
+  "Oman": {
+    "live": {
+      "confirmed": 252,
+      "date": "2020-04-03",
+      "deaths": 1,
+      "recovered": 57
+    }
+  },
   "Pakistan": {
     "live": {
       "confirmed": 2450,
@@ -725,17 +733,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2633,
+      "confirmed": 3018,
       "date": "2020-04-03",
-      "deaths": 107,
-      "recovered": 51
+      "deaths": 136,
+      "recovered": 52
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2946,
+      "confirmed": 3149,
       "date": "2020-04-03",
-      "deaths": 57,
+      "deaths": 59,
       "recovered": 56
     }
   },
@@ -1010,14 +1018,6 @@
           "confirmed": 9371,
           "date": "2020-04-03",
           "deaths": 389,
-          "recovered": 0
-        }
-      },
-      "Minnesota": {
-        "live": {
-          "confirmed": 235,
-          "date": "2020-04-03",
-          "deaths": 6,
           "recovered": 0
         }
       },

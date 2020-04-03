@@ -115,16 +115,16 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 11199,
+        "confirmed": 11224,
         "deaths": 158,
-        "recovered": 1749
+        "recovered": 2022
       }
     },
     "AZE": {
       "latest": {
-        "confirmed": 400,
+        "confirmed": 443,
         "deaths": 5,
-        "recovered": 26
+        "recovered": 32
       }
     },
     "BDI": {
@@ -603,7 +603,7 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 3386,
+        "confirmed": 3672,
         "deaths": 123,
         "recovered": 1089
       },
@@ -664,9 +664,9 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 858,
-        "deaths": 11,
-        "recovered": 45
+        "confirmed": 961,
+        "deaths": 12,
+        "recovered": 48
       }
     },
     "ETH": {
@@ -947,7 +947,7 @@
     },
     "ISR": {
       "latest": {
-        "confirmed": 6857,
+        "confirmed": 7030,
         "deaths": 36,
         "recovered": 338
       }
@@ -982,9 +982,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 448,
+        "confirmed": 453,
         "deaths": 3,
-        "recovered": 28
+        "recovered": 29
       }
     },
     "KEN": {
@@ -1284,7 +1284,7 @@
     },
     "OMN": {
       "latest": {
-        "confirmed": 231,
+        "confirmed": 252,
         "deaths": 1,
         "recovered": 57
       }
@@ -1312,9 +1312,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 2633,
-        "deaths": 107,
-        "recovered": 51
+        "confirmed": 3018,
+        "deaths": 136,
+        "recovered": 52
       }
     },
     "PNG": {
@@ -1326,8 +1326,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 2946,
-        "deaths": 57,
+        "confirmed": 3149,
+        "deaths": 59,
         "recovered": 56
       }
     },
