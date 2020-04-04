@@ -213,8 +213,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 9194,
-        "deaths": 363,
+        "confirmed": 9216,
+        "deaths": 365,
         "recovered": 127
       }
     },
@@ -338,9 +338,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82518,
+        "confirmed": 82526,
         "deaths": 3330,
-        "recovered": 76922
+        "recovered": 76929
       },
       "states": {
         "Anhui": {
@@ -369,9 +369,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 127
         },
         "Guangdong": {
-          "confirmed": 1514,
+          "confirmed": 1516,
           "deaths": 8,
-          "recovered": 1368
+          "recovered": 1378
         },
         "Guangxi": {
           "confirmed": 254,
@@ -459,9 +459,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 18
         },
         "Shaanxi": {
-          "confirmed": 255,
+          "confirmed": 256,
           "deaths": 3,
-          "recovered": 244
+          "recovered": 245
         },
         "Shandong": {
           "confirmed": 778,
@@ -469,9 +469,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 755
         },
         "Shanghai": {
-          "confirmed": 526,
+          "confirmed": 529,
           "deaths": 6,
-          "recovered": 353
+          "recovered": 348
         },
         "Shanxi": {
           "confirmed": 137,
@@ -504,9 +504,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 172
         },
         "Zhejiang": {
-          "confirmed": 1260,
+          "confirmed": 1262,
           "deaths": 1,
-          "recovered": 1228
+          "recovered": 1229
         }
       }
     },
@@ -912,8 +912,8 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 2567,
-        "deaths": 72,
+        "confirmed": 3082,
+        "deaths": 86,
         "recovered": 192
       }
     },
@@ -975,8 +975,8 @@ var covid19_dataset_latest_totals = {
     },
     "JPN": {
       "latest": {
-        "confirmed": 2617,
-        "deaths": 63,
+        "confirmed": 2935,
+        "deaths": 69,
         "recovered": 514
       }
     },
@@ -1404,7 +1404,7 @@ var covid19_dataset_latest_totals = {
     "SGP": {
       "latest": {
         "confirmed": 1114,
-        "deaths": 5,
+        "deaths": 6,
         "recovered": 282
       }
     },

@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 9194,
+      "confirmed": 9216,
       "date": "2020-04-04",
-      "deaths": 363,
+      "deaths": 365,
       "recovered": 127
     }
   },
@@ -251,10 +251,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1514,
-          "date": "2020-04-03",
+          "confirmed": 1516,
+          "date": "2020-04-04",
           "deaths": 8,
-          "recovered": 1368
+          "recovered": 1378
         }
       },
       "Hebei": {
@@ -323,10 +323,10 @@
       },
       "Shaanxi": {
         "live": {
-          "confirmed": 255,
-          "date": "2020-04-03",
+          "confirmed": 256,
+          "date": "2020-04-04",
           "deaths": 3,
-          "recovered": 244
+          "recovered": 245
         }
       },
       "Shandong": {
@@ -339,10 +339,10 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 526,
+          "confirmed": 529,
           "date": "2020-04-04",
           "deaths": 6,
-          "recovered": 353
+          "recovered": 348
         }
       },
       "Sichuan": {
@@ -355,10 +355,10 @@
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1260,
-          "date": "2020-04-03",
+          "confirmed": 1262,
+          "date": "2020-04-04",
           "deaths": 1,
-          "recovered": 1228
+          "recovered": 1229
         }
       }
     }
@@ -517,9 +517,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 2567,
+      "confirmed": 3082,
       "date": "2020-04-04",
-      "deaths": 72,
+      "deaths": 86,
       "recovered": 192
     }
   },
@@ -573,9 +573,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 2617,
+      "confirmed": 2935,
       "date": "2020-04-04",
-      "deaths": 63,
+      "deaths": 69,
       "recovered": 514
     }
   },
@@ -799,7 +799,7 @@
     "live": {
       "confirmed": 1114,
       "date": "2020-04-04",
-      "deaths": 5,
+      "deaths": 6,
       "recovered": 282
     }
   },
