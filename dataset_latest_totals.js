@@ -30,9 +30,9 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "latest": {
-        "confirmed": 1264,
-        "deaths": 9,
-        "recovered": 108
+        "confirmed": 1505,
+        "deaths": 10,
+        "recovered": 125
       }
     },
     "ARG": {
@@ -164,7 +164,7 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "latest": {
-        "confirmed": 498,
+        "confirmed": 503,
         "deaths": 17,
         "recovered": 34
       }
@@ -185,9 +185,9 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 616,
+        "confirmed": 617,
         "deaths": 19,
-        "recovered": 27
+        "recovered": 28
       }
     },
     "BLR": {
@@ -582,8 +582,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 91589,
-        "deaths": 1293,
+        "confirmed": 92050,
+        "deaths": 1295,
         "recovered": 24575
       }
     },
@@ -884,9 +884,9 @@ var covid19_dataset_latest_totals = {
     },
     "HRV": {
       "latest": {
-        "confirmed": 1079,
+        "confirmed": 1126,
         "deaths": 12,
-        "recovered": 92
+        "recovered": 119
       }
     },
     "HTI": {
@@ -940,9 +940,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISL": {
       "latest": {
-        "confirmed": 1364,
+        "confirmed": 1417,
         "deaths": 4,
-        "recovered": 336
+        "recovered": 396
       }
     },
     "ISR": {
@@ -1136,8 +1136,8 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "latest": {
-        "confirmed": 430,
-        "deaths": 12,
+        "confirmed": 483,
+        "deaths": 17,
         "recovered": 20
       }
     },
@@ -1403,9 +1403,9 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "latest": {
-        "confirmed": 1114,
+        "confirmed": 1187,
         "deaths": 6,
-        "recovered": 282
+        "recovered": 297
       }
     },
     "SLE": {
@@ -1438,8 +1438,8 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "latest": {
-        "confirmed": 1476,
-        "deaths": 39,
+        "confirmed": 1624,
+        "deaths": 44,
         "recovered": 0
       }
     },
