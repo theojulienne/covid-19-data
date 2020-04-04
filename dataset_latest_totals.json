@@ -37,8 +37,8 @@
     },
     "ARG": {
       "latest": {
-        "confirmed": 1265,
-        "deaths": 39,
+        "confirmed": 1353,
+        "deaths": 42,
         "recovered": 266
       }
     },
@@ -58,9 +58,9 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 5330,
-        "deaths": 28,
-        "recovered": 649
+        "confirmed": 5360,
+        "deaths": 25,
+        "recovered": 700
       },
       "states": {
         "ACT": {
@@ -99,12 +99,12 @@
           "recovered": 5
         },
         "VIC": {
-          "confirmed": 1085,
-          "current_hospitalized": 37,
-          "current_icu": 7,
-          "deaths": 7,
-          "recovered": 476,
-          "tested": 51000
+          "confirmed": 1115,
+          "current_hospitalized": 42,
+          "current_icu": 10,
+          "deaths": 4,
+          "recovered": 527,
+          "tested": 54000
         },
         "WA": {
           "confirmed": 400,
@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 9056,
-        "deaths": 359,
+        "confirmed": 9194,
+        "deaths": 363,
         "recovered": 127
       }
     },
@@ -255,14 +255,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 12437,
-        "deaths": 183,
+        "confirmed": 12543,
+        "deaths": 188,
         "recovered": 2175
       },
       "states": {
         "Alberta": {
-          "confirmed": 969,
-          "deaths": 13
+          "confirmed": 1075,
+          "deaths": 18
         },
         "British Columbia": {
           "confirmed": 1174,
@@ -575,7 +575,7 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 4091,
+        "confirmed": 4190,
         "deaths": 53,
         "recovered": 72
       }
@@ -921,7 +921,7 @@
       "latest": {
         "confirmed": 4273,
         "deaths": 120,
-        "recovered": 5
+        "recovered": 25
       }
     },
     "IRN": {
@@ -1298,8 +1298,8 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 1475,
-        "deaths": 37,
+        "confirmed": 1673,
+        "deaths": 41,
         "recovered": 10
       }
     },
@@ -1571,9 +1571,9 @@
     },
     "URY": {
       "latest": {
-        "confirmed": 369,
+        "confirmed": 386,
         "deaths": 4,
-        "recovered": 68
+        "recovered": 86
       }
     },
     "USA": {
