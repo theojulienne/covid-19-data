@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 281,
+      "confirmed": 299,
       "date": "2020-04-04",
       "deaths": 6,
       "recovered": 10
@@ -149,10 +149,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 485,
+      "confirmed": 498,
       "date": "2020-04-04",
       "deaths": 14,
-      "recovered": 30
+      "recovered": 34
     }
   },
   "Burkina Faso": {
@@ -469,7 +469,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 64338,
+      "confirmed": 82165,
       "date": "2020-04-04",
       "deaths": 6507,
       "recovered": 14008
@@ -501,10 +501,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 623,
+      "confirmed": 678,
       "date": "2020-04-04",
-      "deaths": 26,
-      "recovered": 43
+      "deaths": 32,
+      "recovered": 58
     }
   },
   "Iceland": {
@@ -520,7 +520,7 @@
       "confirmed": 3082,
       "date": "2020-04-04",
       "deaths": 86,
-      "recovered": 192
+      "recovered": 229
     }
   },
   "Indonesia": {
@@ -589,10 +589,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 464,
+      "confirmed": 500,
       "date": "2020-04-04",
-      "deaths": 6,
-      "recovered": 29
+      "deaths": 4,
+      "recovered": 35
     }
   },
   "Korea, South": {
@@ -607,7 +607,7 @@
     "live": {
       "confirmed": 417,
       "date": "2020-04-04",
-      "deaths": 0,
+      "deaths": 1,
       "recovered": 82
     }
   },
@@ -629,7 +629,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 696,
+      "confirmed": 771,
       "date": "2020-04-04",
       "deaths": 9,
       "recovered": 7
@@ -709,10 +709,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 2686,
+      "confirmed": 2708,
       "date": "2020-04-04",
       "deaths": 40,
-      "recovered": 126
+      "recovered": 130
     }
   },
   "Panama": {
@@ -861,9 +861,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1978,
+      "confirmed": 2067,
       "date": "2020-04-04",
-      "deaths": 19,
+      "deaths": 20,
       "recovered": 612
     }
   },
@@ -967,7 +967,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 8089,
+          "confirmed": 8451,
           "date": "2020-04-04",
           "deaths": 181,
           "recovered": 0
@@ -1047,9 +1047,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 101306,
+          "confirmed": 101377,
           "date": "2020-04-04",
-          "deaths": 2276,
+          "deaths": 2280,
           "recovered": 0
         }
       },
