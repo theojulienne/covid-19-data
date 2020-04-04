@@ -227,10 +227,10 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 584,
-          "date": "2020-04-03",
+          "confirmed": 585,
+          "date": "2020-04-04",
           "deaths": 8,
-          "recovered": 434
+          "recovered": 438
         }
       },
       "Chongqing": {
@@ -243,10 +243,10 @@
       },
       "Fujian": {
         "live": {
-          "confirmed": 349,
-          "date": "2020-04-03",
+          "confirmed": 350,
+          "date": "2020-04-04",
           "deaths": 1,
-          "recovered": 300
+          "recovered": 301
         }
       },
       "Guangdong": {
@@ -255,14 +255,6 @@
           "date": "2020-04-03",
           "deaths": 8,
           "recovered": 1368
-        }
-      },
-      "Guangxi": {
-        "live": {
-          "confirmed": 254,
-          "date": "2020-04-02",
-          "deaths": 2,
-          "recovered": 252
         }
       },
       "Hebei": {
@@ -275,8 +267,8 @@
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 489,
-          "date": "2020-04-03",
+          "confirmed": 491,
+          "date": "2020-04-04",
           "deaths": 13,
           "recovered": 469
         }
@@ -299,10 +291,10 @@
       },
       "Hubei": {
         "live": {
-          "confirmed": 67802,
-          "date": "2020-04-03",
-          "deaths": 3203,
-          "recovered": 63612
+          "confirmed": 67803,
+          "date": "2020-04-04",
+          "deaths": 3207,
+          "recovered": 63762
         }
       },
       "Hunan": {
@@ -340,25 +332,25 @@
       "Shandong": {
         "live": {
           "confirmed": 778,
-          "date": "2020-04-03",
+          "date": "2020-04-04",
           "deaths": 7,
-          "recovered": 754
+          "recovered": 755
         }
       },
       "Shanghai": {
         "live": {
           "confirmed": 526,
-          "date": "2020-04-03",
+          "date": "2020-04-04",
           "deaths": 6,
-          "recovered": 348
+          "recovered": 353
         }
       },
       "Sichuan": {
         "live": {
-          "confirmed": 555,
-          "date": "2020-04-03",
+          "confirmed": 557,
+          "date": "2020-04-04",
           "deaths": 3,
-          "recovered": 537
+          "recovered": 538
         }
       },
       "Zhejiang": {
@@ -499,6 +491,14 @@
       "recovered": 78
     }
   },
+  "Honduras": {
+    "live": {
+      "confirmed": 264,
+      "date": "2020-04-04",
+      "deaths": 15,
+      "recovered": 3
+    }
+  },
   "Hungary": {
     "live": {
       "confirmed": 623,
@@ -597,10 +597,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10062,
+      "confirmed": 10156,
       "date": "2020-04-04",
-      "deaths": 174,
-      "recovered": 6021
+      "deaths": 177,
+      "recovered": 6325
     }
   },
   "Kuwait": {
@@ -653,9 +653,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 1510,
+      "confirmed": 1688,
       "date": "2020-04-04",
-      "deaths": 50,
+      "deaths": 60,
       "recovered": 633
     }
   },
@@ -685,10 +685,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 868,
+      "confirmed": 950,
       "date": "2020-04-04",
       "deaths": 1,
-      "recovered": 103
+      "recovered": 127
     }
   },
   "North Macedonia": {
@@ -887,7 +887,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 356,
+          "confirmed": 369,
           "date": "2020-04-04",
           "deaths": 6,
           "recovered": 0
@@ -903,9 +903,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 10548,
+          "confirmed": 10597,
           "date": "2020-04-04",
-          "deaths": 225,
+          "deaths": 230,
           "recovered": 0
         }
       },
@@ -1127,9 +1127,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 5582,
+          "confirmed": 5580,
           "date": "2020-04-04",
-          "deaths": 242,
+          "deaths": 244,
           "recovered": 0
         }
       },
