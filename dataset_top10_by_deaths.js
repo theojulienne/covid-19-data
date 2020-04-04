@@ -308,7 +308,7 @@ var covid19_dataset_top10_by_deaths = {
           82361,
           82432,
           82511,
-          82526
+          82543
         ],
         "deaths": [
           17,
@@ -768,7 +768,8 @@ var covid19_dataset_top10_by_deaths = {
           95923,
           104118,
           112065,
-          119199
+          119199,
+          124736
         ],
         "deaths": [
           0,
@@ -843,7 +844,8 @@ var covid19_dataset_top10_by_deaths = {
           8464,
           9387,
           10348,
-          11198
+          11198,
+          11744
         ],
         "recovered": [
           0,
@@ -918,7 +920,8 @@ var covid19_dataset_top10_by_deaths = {
           19259,
           22647,
           26743,
-          30513
+          30513,
+          34219
         ]
       }
     },
@@ -1456,7 +1459,8 @@ var covid19_dataset_top10_by_deaths = {
           44605,
           47593,
           50468,
-          53183
+          53183,
+          55743
         ],
         "deaths": [
           0,
@@ -1531,7 +1535,8 @@ var covid19_dataset_top10_by_deaths = {
           2898,
           3036,
           3160,
-          3294
+          3294,
+          3452
         ],
         "recovered": [
           0,
@@ -1606,7 +1611,8 @@ var covid19_dataset_top10_by_deaths = {
           14656,
           15473,
           16711,
-          17935
+          17935,
+          19736
         ]
       }
     },

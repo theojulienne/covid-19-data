@@ -225,7 +225,8 @@ var covid19_dataset_country_hrv = {
       6,
       6,
       7,
-      8
+      8,
+      12
     ],
     "recovered": [
       0,
