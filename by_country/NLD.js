@@ -74,9 +74,11 @@ var covid19_dataset_country_nld = {
           50,
           55,
           55,
-          60
+          60,
+          62
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -213,6 +215,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -300,6 +303,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          2,
           2
         ],
         "deaths": [
@@ -374,9 +378,11 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          0,
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -526,6 +532,7 @@ var covid19_dataset_country_nld = {
           11,
           11,
           11,
+          11,
           11
         ],
         "deaths": [
@@ -586,6 +593,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -673,6 +681,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3
         ]
@@ -752,7 +761,8 @@ var covid19_dataset_country_nld = {
           6,
           6,
           16,
-          18
+          18,
+          23
         ],
         "deaths": [
           0,
@@ -826,7 +836,8 @@ var covid19_dataset_country_nld = {
           0,
           0,
           1,
-          1
+          1,
+          2
         ],
         "recovered": [
           0,
@@ -899,6 +910,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          6,
           6,
           6
         ]
@@ -979,7 +991,8 @@ var covid19_dataset_country_nld = {
     "2020-04-01",
     "2020-04-02",
     "2020-04-03",
-    "2020-04-04"
+    "2020-04-04",
+    "2020-04-05"
   ],
   "total": {
     "confirmed": [
@@ -1200,6 +1213,7 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
+      250,
       250,
       250,
       250,

@@ -51,22 +51,22 @@ var covid19_dataset_latest_totals = {
     },
     "ATG": {
       "latest": {
-        "confirmed": 9,
+        "confirmed": 15,
         "deaths": 0,
         "recovered": 0
       }
     },
     "AUS": {
       "latest": {
-        "confirmed": 5285,
+        "confirmed": 5292,
         "deaths": 25,
-        "recovered": 642
+        "recovered": 649
       },
       "states": {
         "ACT": {
-          "confirmed": 87,
+          "confirmed": 91,
           "deaths": 1,
-          "recovered": 11
+          "recovered": 18
         },
         "NSW": {
           "confirmed": 2389,
@@ -78,7 +78,7 @@ var covid19_dataset_latest_totals = {
           "tested": 114455
         },
         "NT": {
-          "confirmed": 21,
+          "confirmed": 22,
           "deaths": 0,
           "recovered": 0
         },
@@ -94,7 +94,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 46
         },
         "TAS": {
-          "confirmed": 72,
+          "confirmed": 74,
           "deaths": 2,
           "recovered": 5
         },
@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 11506,
+        "confirmed": 11524,
         "deaths": 168,
         "recovered": 2022
       }
@@ -143,9 +143,9 @@ var covid19_dataset_latest_totals = {
     },
     "BEN": {
       "latest": {
-        "confirmed": 13,
+        "confirmed": 16,
         "deaths": 0,
-        "recovered": 1
+        "recovered": 2
       }
     },
     "BFA": {
@@ -157,9 +157,9 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "latest": {
-        "confirmed": 56,
+        "confirmed": 61,
         "deaths": 6,
-        "recovered": 25
+        "recovered": 26
       }
     },
     "BGR": {
@@ -199,15 +199,15 @@ var covid19_dataset_latest_totals = {
     },
     "BLZ": {
       "latest": {
-        "confirmed": 3,
+        "confirmed": 4,
         "deaths": 0,
         "recovered": 0
       }
     },
     "BOL": {
       "latest": {
-        "confirmed": 123,
-        "deaths": 8,
+        "confirmed": 132,
+        "deaths": 9,
         "recovered": 1
       }
     },
@@ -220,23 +220,23 @@ var covid19_dataset_latest_totals = {
     },
     "BRB": {
       "latest": {
-        "confirmed": 46,
+        "confirmed": 51,
         "deaths": 0,
         "recovered": 0
       }
     },
     "BRN": {
       "latest": {
-        "confirmed": 133,
+        "confirmed": 134,
         "deaths": 1,
-        "recovered": 56
+        "recovered": 65
       }
     },
     "BTN": {
       "latest": {
         "confirmed": 5,
         "deaths": 0,
-        "recovered": 1
+        "recovered": 2
       }
     },
     "BWA": {
@@ -248,16 +248,16 @@ var covid19_dataset_latest_totals = {
     },
     "CAF": {
       "latest": {
-        "confirmed": 3,
+        "confirmed": 8,
         "deaths": 0,
         "recovered": 0
       }
     },
     "CAN": {
       "latest": {
-        "confirmed": 12329,
-        "deaths": 178,
-        "recovered": 1735
+        "confirmed": 12437,
+        "deaths": 179,
+        "recovered": 2175
       },
       "states": {
         "Alberta": {
@@ -265,7 +265,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 13
         },
         "British Columbia": {
-          "confirmed": 1121,
+          "confirmed": 1174,
           "deaths": 31
         },
         "Diamond Princess": {
@@ -277,15 +277,15 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Manitoba": {
-          "confirmed": 167,
-          "deaths": 1
+          "confirmed": 182,
+          "deaths": 2
         },
         "New Brunswick": {
           "confirmed": 91,
           "deaths": 0
         },
         "Newfoundland and Labrador": {
-          "confirmed": 183,
+          "confirmed": 195,
           "deaths": 1
         },
         "Northwest Territories": {
@@ -293,7 +293,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Nova Scotia": {
-          "confirmed": 193,
+          "confirmed": 207,
           "deaths": 0
         },
         "Ontario": {
@@ -313,7 +313,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Saskatchewan": {
-          "confirmed": 206,
+          "confirmed": 220,
           "deaths": 3
         },
         "Yukon": {
@@ -338,9 +338,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82504,
+        "confirmed": 82511,
         "deaths": 3326,
-        "recovered": 76755
+        "recovered": 76760
       },
       "states": {
         "Anhui": {
@@ -444,7 +444,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 124
         },
         "Macau": {
-          "confirmed": 41,
+          "confirmed": 43,
           "deaths": 0,
           "recovered": 10
         },
@@ -484,9 +484,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 537
         },
         "Tianjin": {
-          "confirmed": 176,
+          "confirmed": 180,
           "deaths": 3,
-          "recovered": 135
+          "recovered": 140
         },
         "Tibet": {
           "confirmed": 1,
@@ -499,7 +499,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 73
         },
         "Yunnan": {
-          "confirmed": 183,
+          "confirmed": 184,
           "deaths": 2,
           "recovered": 172
         },
@@ -512,9 +512,9 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "latest": {
-        "confirmed": 194,
+        "confirmed": 218,
         "deaths": 1,
-        "recovered": 15
+        "recovered": 19
       }
     },
     "CMR": {
@@ -589,9 +589,9 @@ var covid19_dataset_latest_totals = {
     },
     "DJI": {
       "latest": {
-        "confirmed": 40,
+        "confirmed": 49,
         "deaths": 0,
-        "recovered": 0
+        "recovered": 8
       }
     },
     "DMA": {
@@ -609,14 +609,14 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Faroe Islands": {
-          "confirmed": 177,
+          "confirmed": 179,
           "deaths": 0,
-          "recovered": 81
+          "recovered": 91
         },
         "Greenland": {
           "confirmed": 10,
           "deaths": 0,
-          "recovered": 2
+          "recovered": 3
         }
       }
     },
@@ -671,7 +671,7 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "latest": {
-        "confirmed": 29,
+        "confirmed": 35,
         "deaths": 0,
         "recovered": 3
       }
@@ -698,28 +698,28 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "French Guiana": {
-          "confirmed": 51,
+          "confirmed": 57,
           "deaths": 0,
-          "recovered": 15
+          "recovered": 22
         },
         "French Polynesia": {
-          "confirmed": 37,
+          "confirmed": 39,
           "deaths": 0,
           "recovered": 0
         },
         "Guadeloupe": {
-          "confirmed": 128,
-          "deaths": 6,
+          "confirmed": 130,
+          "deaths": 7,
           "recovered": 24
         },
         "Martinique": {
-          "confirmed": 138,
+          "confirmed": 143,
           "deaths": 3,
           "recovered": 27
         },
         "Mayotte": {
-          "confirmed": 116,
-          "deaths": 1,
+          "confirmed": 128,
+          "deaths": 2,
           "recovered": 10
         },
         "New Caledonia": {
@@ -728,7 +728,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 1
         },
         "Reunion": {
-          "confirmed": 308,
+          "confirmed": 321,
           "deaths": 0,
           "recovered": 40
         },
@@ -748,7 +748,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 21,
         "deaths": 1,
-        "recovered": 0
+        "recovered": 1
       }
     },
     "GBR": {
@@ -766,7 +766,7 @@ var covid19_dataset_latest_totals = {
         "Bermuda": {
           "confirmed": 35,
           "deaths": 0,
-          "recovered": 11
+          "recovered": 14
         },
         "British Virgin Islands": {
           "confirmed": 3,
@@ -779,22 +779,22 @@ var covid19_dataset_latest_totals = {
           "recovered": 0
         },
         "Channel Islands": {
-          "confirmed": 193,
-          "deaths": 3,
-          "recovered": 0
+          "confirmed": 232,
+          "deaths": 4,
+          "recovered": 13
         },
         "Gibraltar": {
-          "confirmed": 88,
+          "confirmed": 95,
           "deaths": 0,
           "recovered": 46
         },
         "Isle of Man": {
-          "confirmed": 95,
+          "confirmed": 114,
           "deaths": 1,
           "recovered": 0
         },
         "Montserrat": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deaths": 0,
           "recovered": 0
         },
@@ -807,23 +807,23 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "latest": {
-        "confirmed": 134,
+        "confirmed": 155,
         "deaths": 0,
-        "recovered": 26
+        "recovered": 28
       }
     },
     "GHA": {
       "latest": {
-        "confirmed": 204,
+        "confirmed": 205,
         "deaths": 5,
         "recovered": 31
       }
     },
     "GIN": {
       "latest": {
-        "confirmed": 52,
+        "confirmed": 73,
         "deaths": 0,
-        "recovered": 0
+        "recovered": 2
       }
     },
     "GMB": {
@@ -835,14 +835,14 @@ var covid19_dataset_latest_totals = {
     },
     "GNB": {
       "latest": {
-        "confirmed": 9,
+        "confirmed": 15,
         "deaths": 0,
         "recovered": 0
       }
     },
     "GNQ": {
       "latest": {
-        "confirmed": 15,
+        "confirmed": 16,
         "deaths": 0,
         "recovered": 1
       }
@@ -856,29 +856,29 @@ var covid19_dataset_latest_totals = {
     },
     "GRD": {
       "latest": {
-        "confirmed": 10,
+        "confirmed": 12,
         "deaths": 0,
         "recovered": 0
       }
     },
     "GTM": {
       "latest": {
-        "confirmed": 47,
+        "confirmed": 50,
         "deaths": 1,
         "recovered": 12
       }
     },
     "GUY": {
       "latest": {
-        "confirmed": 19,
+        "confirmed": 23,
         "deaths": 4,
         "recovered": 0
       }
     },
     "HND": {
       "latest": {
-        "confirmed": 219,
-        "deaths": 14,
+        "confirmed": 222,
+        "deaths": 15,
         "recovered": 3
       }
     },
@@ -891,7 +891,7 @@ var covid19_dataset_latest_totals = {
     },
     "HTI": {
       "latest": {
-        "confirmed": 16,
+        "confirmed": 18,
         "deaths": 0,
         "recovered": 1
       }
@@ -949,7 +949,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 7428,
         "deaths": 40,
-        "recovered": 338
+        "recovered": 403
       }
     },
     "ITA": {
@@ -989,23 +989,23 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "latest": {
-        "confirmed": 110,
-        "deaths": 3,
+        "confirmed": 122,
+        "deaths": 4,
         "recovered": 4
       }
     },
     "KGZ": {
       "latest": {
-        "confirmed": 116,
-        "deaths": 0,
-        "recovered": 5
+        "confirmed": 130,
+        "deaths": 1,
+        "recovered": 6
       }
     },
     "KHM": {
       "latest": {
-        "confirmed": 110,
+        "confirmed": 114,
         "deaths": 0,
-        "recovered": 34
+        "recovered": 35
       }
     },
     "KOR": {
@@ -1038,7 +1038,7 @@ var covid19_dataset_latest_totals = {
     },
     "LBR": {
       "latest": {
-        "confirmed": 6,
+        "confirmed": 7,
         "deaths": 0,
         "recovered": 0
       }
@@ -1066,9 +1066,9 @@ var covid19_dataset_latest_totals = {
     },
     "LKA": {
       "latest": {
-        "confirmed": 151,
+        "confirmed": 159,
         "deaths": 4,
-        "recovered": 21
+        "recovered": 24
       }
     },
     "LTU": {
@@ -1089,7 +1089,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 493,
         "deaths": 1,
-        "recovered": 31
+        "recovered": 1
       }
     },
     "MAR": {
@@ -1101,9 +1101,9 @@ var covid19_dataset_latest_totals = {
     },
     "MCO": {
       "latest": {
-        "confirmed": 60,
+        "confirmed": 64,
         "deaths": 1,
-        "recovered": 2
+        "recovered": 3
       }
     },
     "MDA": {
@@ -1115,7 +1115,7 @@ var covid19_dataset_latest_totals = {
     },
     "MDG": {
       "latest": {
-        "confirmed": 59,
+        "confirmed": 70,
         "deaths": 0,
         "recovered": 0
       }
@@ -1143,23 +1143,23 @@ var covid19_dataset_latest_totals = {
     },
     "MLI": {
       "latest": {
-        "confirmed": 36,
+        "confirmed": 39,
         "deaths": 3,
         "recovered": 0
       }
     },
     "MLT": {
       "latest": {
-        "confirmed": 196,
+        "confirmed": 202,
         "deaths": 0,
         "recovered": 2
       }
     },
     "MNE": {
       "latest": {
-        "confirmed": 144,
+        "confirmed": 174,
         "deaths": 2,
-        "recovered": 0
+        "recovered": 1
       }
     },
     "MNG": {
@@ -1185,7 +1185,7 @@ var covid19_dataset_latest_totals = {
     },
     "MUS": {
       "latest": {
-        "confirmed": 169,
+        "confirmed": 186,
         "deaths": 7,
         "recovered": 0
       }
@@ -1213,16 +1213,16 @@ var covid19_dataset_latest_totals = {
     },
     "NER": {
       "latest": {
-        "confirmed": 98,
+        "confirmed": 120,
         "deaths": 5,
         "recovered": 0
       }
     },
     "NGA": {
       "latest": {
-        "confirmed": 184,
-        "deaths": 2,
-        "recovered": 20
+        "confirmed": 210,
+        "deaths": 4,
+        "recovered": 25
       }
     },
     "NIC": {
@@ -1240,7 +1240,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Aruba": {
-          "confirmed": 60,
+          "confirmed": 62,
           "deaths": 0,
           "recovered": 1
         },
@@ -1255,8 +1255,8 @@ var covid19_dataset_latest_totals = {
           "recovered": 3
         },
         "Sint Maarten": {
-          "confirmed": 18,
-          "deaths": 1,
+          "confirmed": 23,
+          "deaths": 2,
           "recovered": 6
         }
       }
@@ -1291,7 +1291,7 @@ var covid19_dataset_latest_totals = {
     },
     "PAK": {
       "latest": {
-        "confirmed": 2684,
+        "confirmed": 2686,
         "deaths": 40,
         "recovered": 126
       }
@@ -1340,9 +1340,9 @@ var covid19_dataset_latest_totals = {
     },
     "PRY": {
       "latest": {
-        "confirmed": 77,
+        "confirmed": 92,
         "deaths": 3,
-        "recovered": 2
+        "recovered": 6
       }
     },
     "QAT": {
@@ -1354,7 +1354,7 @@ var covid19_dataset_latest_totals = {
     },
     "RKS": {
       "latest": {
-        "confirmed": 125,
+        "confirmed": 126,
         "deaths": 1,
         "recovered": 10
       }
@@ -1375,7 +1375,7 @@ var covid19_dataset_latest_totals = {
     },
     "RWA": {
       "latest": {
-        "confirmed": 84,
+        "confirmed": 89,
         "deaths": 0,
         "recovered": 0
       }
@@ -1389,16 +1389,16 @@ var covid19_dataset_latest_totals = {
     },
     "SDN": {
       "latest": {
-        "confirmed": 8,
+        "confirmed": 10,
         "deaths": 2,
         "recovered": 2
       }
     },
     "SEN": {
       "latest": {
-        "confirmed": 195,
+        "confirmed": 207,
         "deaths": 1,
-        "recovered": 55
+        "recovered": 66
       }
     },
     "SGP": {
@@ -1417,7 +1417,7 @@ var covid19_dataset_latest_totals = {
     },
     "SLV": {
       "latest": {
-        "confirmed": 41,
+        "confirmed": 46,
         "deaths": 2,
         "recovered": 0
       }
@@ -1431,7 +1431,7 @@ var covid19_dataset_latest_totals = {
     },
     "SOM": {
       "latest": {
-        "confirmed": 5,
+        "confirmed": 7,
         "deaths": 0,
         "recovered": 1
       }
@@ -1446,7 +1446,7 @@ var covid19_dataset_latest_totals = {
     "SUR": {
       "latest": {
         "confirmed": 10,
-        "deaths": 0,
+        "deaths": 1,
         "recovered": 0
       }
     },
@@ -1501,8 +1501,8 @@ var covid19_dataset_latest_totals = {
     },
     "TGO": {
       "latest": {
-        "confirmed": 39,
-        "deaths": 2,
+        "confirmed": 40,
+        "deaths": 3,
         "recovered": 17
       }
     },
@@ -1522,8 +1522,8 @@ var covid19_dataset_latest_totals = {
     },
     "TTO": {
       "latest": {
-        "confirmed": 94,
-        "deaths": 5,
+        "confirmed": 98,
+        "deaths": 6,
         "recovered": 1
       }
     },
@@ -1552,12 +1552,12 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 20,
         "deaths": 1,
-        "recovered": 2
+        "recovered": 3
       }
     },
     "UGA": {
       "latest": {
-        "confirmed": 45,
+        "confirmed": 48,
         "deaths": 0,
         "recovered": 0
       }
@@ -1884,7 +1884,7 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 205,
+        "confirmed": 227,
         "deaths": 2,
         "recovered": 25
       }
@@ -1898,23 +1898,23 @@ var covid19_dataset_latest_totals = {
     },
     "VCT": {
       "latest": {
-        "confirmed": 2,
+        "confirmed": 3,
         "deaths": 0,
         "recovered": 1
       }
     },
     "VEN": {
       "latest": {
-        "confirmed": 146,
-        "deaths": 5,
-        "recovered": 43
+        "confirmed": 153,
+        "deaths": 7,
+        "recovered": 52
       }
     },
     "VNM": {
       "latest": {
-        "confirmed": 233,
+        "confirmed": 237,
         "deaths": 0,
-        "recovered": 75
+        "recovered": 85
       }
     },
     "ZAF": {
@@ -1928,7 +1928,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 39,
         "deaths": 1,
-        "recovered": 0
+        "recovered": 2
       }
     },
     "ZWE": {

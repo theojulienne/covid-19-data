@@ -73,7 +73,8 @@ var covid19_dataset_country_rks = {
     "2020-04-01",
     "2020-04-02",
     "2020-04-03",
-    "2020-04-04"
+    "2020-04-04",
+    "2020-04-05"
   ],
   "total": {
     "confirmed": [
@@ -148,7 +149,8 @@ var covid19_dataset_country_rks = {
       94,
       112,
       125,
-      125
+      125,
+      126
     ],
     "deaths": [
       0,
@@ -215,6 +217,7 @@ var covid19_dataset_country_rks = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -295,6 +298,7 @@ var covid19_dataset_country_rks = {
       1,
       1,
       6,
+      10,
       10,
       10
     ]

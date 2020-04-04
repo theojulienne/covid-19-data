@@ -73,7 +73,8 @@ var covid19_dataset_country_bfa = {
     "2020-04-01",
     "2020-04-02",
     "2020-04-03",
-    "2020-04-04"
+    "2020-04-04",
+    "2020-04-05"
   ],
   "total": {
     "confirmed": [
@@ -223,6 +224,7 @@ var covid19_dataset_country_bfa = {
       12,
       14,
       16,
+      16,
       16
     ],
     "recovered": [
@@ -297,6 +299,7 @@ var covid19_dataset_country_bfa = {
       31,
       32,
       46,
+      50,
       50
     ]
   }
