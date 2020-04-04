@@ -302,7 +302,8 @@ var covid19_dataset_country_svn = {
       10,
       10,
       70,
-      70
+      70,
+      79
     ]
   }
 };

@@ -151,7 +151,7 @@ var covid19_dataset_world_totals = {
       927310,
       1005806,
       1089122,
-      1124549
+      1129250
     ],
     "deaths": [
       17,
@@ -227,7 +227,7 @@ var covid19_dataset_world_totals = {
       46706,
       52791,
       58602,
-      59841
+      60593
     ]
   }
 };
