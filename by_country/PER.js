@@ -150,7 +150,8 @@ var covid19_dataset_country_per = {
       1065,
       1323,
       1414,
-      1595
+      1595,
+      1746
     ],
     "deaths": [
       0,
@@ -300,7 +301,8 @@ var covid19_dataset_country_per = {
       394,
       394,
       537,
-      537
+      537,
+      914
     ]
   }
 };

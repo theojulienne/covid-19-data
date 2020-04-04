@@ -643,9 +643,9 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "latest": {
-        "confirmed": 985,
-        "deaths": 66,
-        "recovered": 216
+        "confirmed": 1070,
+        "deaths": 71,
+        "recovered": 241
       }
     },
     "ERI": {
@@ -692,9 +692,9 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "latest": {
-        "confirmed": 82165,
+        "confirmed": 89953,
         "deaths": 7560,
-        "recovered": 14008
+        "recovered": 15438
       },
       "states": {
         "French Guiana": {
@@ -947,7 +947,7 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "latest": {
-        "confirmed": 7589,
+        "confirmed": 7851,
         "deaths": 44,
         "recovered": 427
       }
@@ -1074,7 +1074,7 @@ var covid19_dataset_latest_totals = {
     "LTU": {
       "latest": {
         "confirmed": 771,
-        "deaths": 10,
+        "deaths": 11,
         "recovered": 7
       }
     },
@@ -1305,9 +1305,9 @@ var covid19_dataset_latest_totals = {
     },
     "PER": {
       "latest": {
-        "confirmed": 1595,
+        "confirmed": 1746,
         "deaths": 61,
-        "recovered": 537
+        "recovered": 914
       }
     },
     "PHL": {
@@ -1564,7 +1564,7 @@ var covid19_dataset_latest_totals = {
     },
     "UKR": {
       "latest": {
-        "confirmed": 1096,
+        "confirmed": 1115,
         "deaths": 28,
         "recovered": 23
       }
@@ -1578,8 +1578,8 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 283993,
-        "deaths": 7123,
+        "confirmed": 284136,
+        "deaths": 7129,
         "tested": 1464994
       },
       "states": {
@@ -1601,7 +1601,7 @@ var covid19_dataset_latest_totals = {
           "tested": 9699
         },
         "AZ": {
-          "confirmed": 1771,
+          "confirmed": 1769,
           "deaths": 41,
           "hospitalized": 249,
           "tested": 24673
@@ -1625,8 +1625,8 @@ var covid19_dataset_latest_totals = {
           "tested": 20015
         },
         "DC": {
-          "confirmed": 757,
-          "deaths": 15,
+          "confirmed": 902,
+          "deaths": 21,
           "tested": 5584
         },
         "DE": {
