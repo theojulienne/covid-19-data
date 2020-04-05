@@ -74,7 +74,8 @@ var covid19_dataset_country_ltu = {
     "2020-04-02",
     "2020-04-03",
     "2020-04-04",
-    "2020-04-05"
+    "2020-04-05",
+    "2020-04-06"
   ],
   "total": {
     "confirmed": [
@@ -298,6 +299,7 @@ var covid19_dataset_country_ltu = {
       1,
       1,
       1,
+      7,
       7,
       7,
       7,

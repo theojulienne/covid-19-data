@@ -74,7 +74,8 @@ var covid19_dataset_country_lao = {
     "2020-04-02",
     "2020-04-03",
     "2020-04-04",
-    "2020-04-05"
+    "2020-04-05",
+    "2020-04-06"
   ],
   "total": {
     "confirmed": [
@@ -148,6 +149,7 @@ var covid19_dataset_country_lao = {
       8,
       8,
       9,
+      10,
       10,
       10,
       10
@@ -225,9 +227,11 @@ var covid19_dataset_country_lao = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

@@ -74,7 +74,8 @@ var covid19_dataset_country_jpn = {
     "2020-04-02",
     "2020-04-03",
     "2020-04-04",
-    "2020-04-05"
+    "2020-04-05",
+    "2020-04-06"
   ],
   "total": {
     "confirmed": [
@@ -151,7 +152,7 @@ var covid19_dataset_country_jpn = {
       2178,
       2495,
       2617,
-      2935
+      3139
     ],
     "deaths": [
       0,
@@ -227,7 +228,7 @@ var covid19_dataset_country_jpn = {
       57,
       62,
       63,
-      69
+      77
     ],
     "recovered": [
       0,
@@ -302,6 +303,7 @@ var covid19_dataset_country_jpn = {
       424,
       472,
       472,
+      514,
       514
     ]
   }

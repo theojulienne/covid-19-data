@@ -74,7 +74,8 @@ var covid19_dataset_country_kaz = {
     "2020-04-02",
     "2020-04-03",
     "2020-04-04",
-    "2020-04-05"
+    "2020-04-05",
+    "2020-04-06"
   ],
   "total": {
     "confirmed": [
@@ -226,7 +227,8 @@ var covid19_dataset_country_kaz = {
       2,
       3,
       3,
-      6
+      6,
+      5
     ],
     "recovered": [
       0,

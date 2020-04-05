@@ -74,7 +74,8 @@ var covid19_dataset_country_zwe = {
     "2020-04-02",
     "2020-04-03",
     "2020-04-04",
-    "2020-04-05"
+    "2020-04-05",
+    "2020-04-06"
   ],
   "total": {
     "confirmed": [
@@ -149,6 +150,7 @@ var covid19_dataset_country_zwe = {
       7,
       8,
       8,
+      9,
       9,
       9
     ],
@@ -225,9 +227,11 @@ var covid19_dataset_country_zwe = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
