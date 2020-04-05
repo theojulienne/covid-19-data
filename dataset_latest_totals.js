@@ -1387,7 +1387,7 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 2179,
+        "confirmed": 2370,
         "deaths": 29,
         "recovered": 420
       }

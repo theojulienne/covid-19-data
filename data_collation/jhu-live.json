@@ -765,7 +765,7 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 2179,
+      "confirmed": 2370,
       "date": "2020-04-05",
       "deaths": 29,
       "recovered": 420
@@ -887,7 +887,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 11812,
+          "confirmed": 11831,
           "date": "2020-04-05",
           "deaths": 269,
           "recovered": 0
@@ -951,7 +951,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 9294,
+          "confirmed": 9300,
           "date": "2020-04-05",
           "deaths": 209,
           "recovered": 0
@@ -1055,9 +1055,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 8490,
+          "confirmed": 8553,
           "date": "2020-04-05",
-          "deaths": 107,
+          "deaths": 110,
           "recovered": 0
         }
       },
