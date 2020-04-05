@@ -153,7 +153,7 @@ var covid19_dataset_country_aut = {
       11129,
       11524,
       11781,
-      11850
+      11861
     ],
     "deaths": [
       0,
