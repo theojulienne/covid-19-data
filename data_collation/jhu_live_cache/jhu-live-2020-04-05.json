@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 299,
+      "confirmed": 337,
       "date": "2020-04-05",
       "deaths": 7,
       "recovered": 10
@@ -51,15 +51,15 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2493,
+          "confirmed": 2580,
           "date": "2020-04-05",
-          "deaths": 12,
+          "deaths": 16,
           "recovered": 4
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 900,
+          "confirmed": 907,
           "date": "2020-04-05",
           "deaths": 4,
           "recovered": 8
@@ -75,17 +75,17 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1115,
+          "confirmed": 1135,
           "date": "2020-04-05",
           "deaths": 8,
-          "recovered": 527
+          "recovered": 573
         }
       },
       "Western Australia": {
         "live": {
           "confirmed": 436,
           "date": "2020-04-05",
-          "deaths": 2,
+          "deaths": 3,
           "recovered": 92
         }
       }
@@ -573,7 +573,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 531,
+      "confirmed": 551,
       "date": "2020-04-05",
       "deaths": 5,
       "recovered": 36
@@ -845,9 +845,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2067,
+      "confirmed": 2169,
       "date": "2020-04-05",
-      "deaths": 20,
+      "deaths": 23,
       "recovered": 674
     }
   },
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 9300,
           "date": "2020-04-05",
-          "deaths": 209,
+          "deaths": 210,
           "recovered": 0
         }
       },

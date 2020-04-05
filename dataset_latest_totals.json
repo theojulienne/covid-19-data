@@ -2,7 +2,7 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 299,
+        "confirmed": 337,
         "deaths": 7,
         "recovered": 10
       }
@@ -59,7 +59,7 @@
     "AUS": {
       "latest": {
         "confirmed": 5664,
-        "deaths": 26,
+        "deaths": 31,
         "recovered": 747
       },
       "states": {
@@ -73,7 +73,7 @@
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
-          "deaths": 12,
+          "deaths": 16,
           "recovered": 4,
           "tested": 121443
         },
@@ -108,7 +108,7 @@
         },
         "WA": {
           "confirmed": 436,
-          "deaths": 2,
+          "deaths": 3,
           "recovered": 92
         }
       }
@@ -987,7 +987,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 531,
+        "confirmed": 551,
         "deaths": 5,
         "recovered": 36
       }
@@ -1513,8 +1513,8 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2067,
-        "deaths": 20,
+        "confirmed": 2169,
+        "deaths": 23,
         "recovered": 674
       }
     },
