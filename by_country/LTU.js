@@ -152,7 +152,8 @@ var covid19_dataset_country_ltu = {
       581,
       649,
       696,
-      771
+      771,
+      811
     ],
     "deaths": [
       0,
