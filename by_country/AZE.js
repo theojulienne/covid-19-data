@@ -229,7 +229,8 @@ var covid19_dataset_country_aze = {
       5,
       5,
       5,
-      5
+      5,
+      7
     ],
     "recovered": [
       0,
