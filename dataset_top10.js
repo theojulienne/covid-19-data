@@ -153,7 +153,8 @@ var covid19_dataset_top10 = {
           488,
           536,
           591,
-          666
+          666,
+          680
         ],
         "recovered": [
           0,
