@@ -306,7 +306,8 @@ var covid19_dataset_country_col = {
       39,
       55,
       55,
-      85
+      85,
+      88
     ]
   }
 };
