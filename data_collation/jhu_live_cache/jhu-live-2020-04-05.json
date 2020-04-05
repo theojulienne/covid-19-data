@@ -259,16 +259,16 @@
       },
       "Hebei": {
         "live": {
-          "confirmed": 326,
-          "date": "2020-04-03",
+          "confirmed": 327,
+          "date": "2020-04-05",
           "deaths": 6,
           "recovered": 310
         }
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 491,
-          "date": "2020-04-04",
+          "confirmed": 504,
+          "date": "2020-04-05",
           "deaths": 13,
           "recovered": 469
         }
@@ -503,7 +503,7 @@
     "live": {
       "confirmed": 3588,
       "date": "2020-04-05",
-      "deaths": 86,
+      "deaths": 99,
       "recovered": 229
     }
   },
@@ -581,10 +581,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10156,
+      "confirmed": 10237,
       "date": "2020-04-05",
-      "deaths": 177,
-      "recovered": 6325
+      "deaths": 183,
+      "recovered": 6463
     }
   },
   "Kuwait": {
@@ -637,9 +637,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 1688,
+      "confirmed": 1890,
       "date": "2020-04-05",
-      "deaths": 60,
+      "deaths": 79,
       "recovered": 633
     }
   },
@@ -669,10 +669,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 950,
+      "confirmed": 1039,
       "date": "2020-04-05",
       "deaths": 1,
-      "recovered": 127
+      "recovered": 156
     }
   },
   "North Macedonia": {
@@ -689,14 +689,6 @@
       "date": "2020-04-05",
       "deaths": 62,
       "recovered": 32
-    }
-  },
-  "Oman": {
-    "live": {
-      "confirmed": 277,
-      "date": "2020-04-05",
-      "deaths": 2,
-      "recovered": 61
     }
   },
   "Pakistan": {
@@ -951,7 +943,7 @@
       },
       "Idaho": {
         "live": {
-          "confirmed": 765,
+          "confirmed": 795,
           "date": "2020-04-05",
           "deaths": 5,
           "recovered": 0
@@ -1015,9 +1007,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 1161,
+          "confirmed": 1192,
           "date": "2020-04-05",
-          "deaths": 12,
+          "deaths": 17,
           "recovered": 0
         }
       },
@@ -1041,7 +1033,7 @@
         "live": {
           "confirmed": 112189,
           "date": "2020-04-05",
-          "deaths": 2711,
+          "deaths": 3081,
           "recovered": 0
         }
       },
@@ -1095,9 +1087,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 3607,
+          "confirmed": 3895,
           "date": "2020-04-05",
-          "deaths": 59,
+          "deaths": 65,
           "recovered": 0
         }
       },
@@ -1119,7 +1111,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 6157,
+          "confirmed": 6117,
           "date": "2020-04-05",
           "deaths": 260,
           "recovered": 0

@@ -338,7 +338,7 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82543,
+        "confirmed": 82557,
         "deaths": 3330,
         "recovered": 76946
       },
@@ -389,12 +389,12 @@
           "recovered": 162
         },
         "Hebei": {
-          "confirmed": 326,
+          "confirmed": 327,
           "deaths": 6,
           "recovered": 310
         },
         "Heilongjiang": {
-          "confirmed": 491,
+          "confirmed": 504,
           "deaths": 13,
           "recovered": 469
         },
@@ -918,7 +918,7 @@
     "IND": {
       "latest": {
         "confirmed": 3588,
-        "deaths": 86,
+        "deaths": 99,
         "recovered": 229
       }
     },
@@ -1015,9 +1015,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10156,
-        "deaths": 177,
-        "recovered": 6325
+        "confirmed": 10237,
+        "deaths": 183,
+        "recovered": 6463
       }
     },
     "KWT": {
@@ -1134,8 +1134,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 1688,
-        "deaths": 60,
+        "confirmed": 1890,
+        "deaths": 79,
         "recovered": 633
       }
     },
@@ -1282,9 +1282,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 950,
+        "confirmed": 1039,
         "deaths": 1,
-        "recovered": 127
+        "recovered": 156
       }
     },
     "OMN": {
