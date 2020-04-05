@@ -109,10 +109,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 698,
+      "confirmed": 700,
       "date": "2020-04-05",
       "deaths": 4,
-      "recovered": 427
+      "recovered": 431
     }
   },
   "Belarus": {
@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 10627,
+      "confirmed": 11130,
       "date": "2020-04-05",
-      "deaths": 460,
+      "deaths": 486,
       "recovered": 127
     }
   },
@@ -165,7 +165,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 555,
+      "confirmed": 650,
       "date": "2020-04-05",
       "deaths": 9,
       "recovered": 17
@@ -461,17 +461,17 @@
   },
   "France": {
     "live": {
-      "confirmed": 89953,
+      "confirmed": 92839,
       "date": "2020-04-05",
-      "deaths": 7560,
-      "recovered": 15438
+      "deaths": 8078,
+      "recovered": 16183
     }
   },
   "Germany": {
     "live": {
-      "confirmed": 100009,
+      "confirmed": 100024,
       "date": "2020-04-05",
-      "deaths": 1575,
+      "deaths": 1576,
       "recovered": 28700
     }
   },
@@ -653,10 +653,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 990,
+      "confirmed": 1021,
       "date": "2020-04-05",
-      "deaths": 69,
-      "recovered": 71
+      "deaths": 70,
+      "recovered": 76
     }
   },
   "Netherlands": {
@@ -805,17 +805,17 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1585,
+      "confirmed": 1655,
       "date": "2020-04-05",
-      "deaths": 9,
+      "deaths": 11,
       "recovered": 95
     }
   },
   "Spain": {
     "live": {
-      "confirmed": 130759,
+      "confirmed": 130854,
       "date": "2020-04-05",
-      "deaths": 12418,
+      "deaths": 12518,
       "recovered": 38080
     }
   },
@@ -1023,9 +1023,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 120401,
+          "confirmed": 120416,
           "date": "2020-04-05",
-          "deaths": 2790,
+          "deaths": 2791,
           "recovered": 0
         }
       },
@@ -1039,9 +1039,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 2044,
+          "confirmed": 1742,
           "date": "2020-04-05",
-          "deaths": 28,
+          "deaths": 25,
           "recovered": 0
         }
       },
@@ -1129,7 +1129,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 1798,
+      "confirmed": 1799,
       "date": "2020-04-05",
       "deaths": 10,
       "recovered": 144

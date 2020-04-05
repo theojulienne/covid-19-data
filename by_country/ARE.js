@@ -153,7 +153,7 @@ var covid19_dataset_country_are = {
       1024,
       1264,
       1505,
-      1798
+      1799
     ],
     "deaths": [
       0,
