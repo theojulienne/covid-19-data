@@ -115,9 +115,9 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 11781,
-        "deaths": 186,
-        "recovered": 2507
+        "confirmed": 11821,
+        "deaths": 204,
+        "recovered": 2998
       }
     },
     "AZE": {
@@ -185,7 +185,7 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 626,
+        "confirmed": 632,
         "deaths": 21,
         "recovered": 30
       }
@@ -664,9 +664,9 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 1039,
-        "deaths": 13,
-        "recovered": 59
+        "confirmed": 1097,
+        "deaths": 15,
+        "recovered": 62
       }
     },
     "ETH": {
@@ -987,7 +987,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 551,
+        "confirmed": 569,
         "deaths": 6,
         "recovered": 36
       }
@@ -1036,8 +1036,8 @@
     },
     "LBN": {
       "latest": {
-        "confirmed": 520,
-        "deaths": 17,
+        "confirmed": 527,
+        "deaths": 18,
         "recovered": 54
       }
     },
@@ -1114,8 +1114,8 @@
     "MDA": {
       "latest": {
         "confirmed": 752,
-        "deaths": 12,
-        "recovered": 29
+        "deaths": 14,
+        "recovered": 30
       }
     },
     "MDG": {
@@ -1317,9 +1317,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 3094,
-        "deaths": 144,
-        "recovered": 57
+        "confirmed": 3246,
+        "deaths": 152,
+        "recovered": 64
       }
     },
     "PNG": {
@@ -1331,8 +1331,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 3627,
-        "deaths": 79,
+        "confirmed": 3834,
+        "deaths": 84,
         "recovered": 134
       }
     },
@@ -1464,8 +1464,8 @@
     },
     "SVN": {
       "latest": {
-        "confirmed": 977,
-        "deaths": 22,
+        "confirmed": 997,
+        "deaths": 28,
         "recovered": 79
       }
     },

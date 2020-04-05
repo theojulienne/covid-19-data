@@ -153,7 +153,7 @@ var covid19_dataset_country_bih = {
       533,
       579,
       624,
-      626
+      632
     ],
     "deaths": [
       0,

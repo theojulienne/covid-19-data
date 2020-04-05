@@ -228,7 +228,8 @@ var covid19_dataset_country_mda = {
       5,
       6,
       8,
-      12
+      12,
+      14
     ],
     "recovered": [
       0,
@@ -304,7 +305,8 @@ var covid19_dataset_country_mda = {
       23,
       23,
       26,
-      29
+      29,
+      30
     ]
   }
 };
