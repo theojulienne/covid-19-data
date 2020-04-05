@@ -227,10 +227,10 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 585,
-          "date": "2020-04-04",
+          "confirmed": 586,
+          "date": "2020-04-05",
           "deaths": 8,
-          "recovered": 438
+          "recovered": 441
         }
       },
       "Chongqing": {
@@ -244,17 +244,17 @@
       "Fujian": {
         "live": {
           "confirmed": 350,
-          "date": "2020-04-04",
+          "date": "2020-04-05",
           "deaths": 1,
-          "recovered": 301
+          "recovered": 303
         }
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1516,
-          "date": "2020-04-04",
+          "confirmed": 1524,
+          "date": "2020-04-05",
           "deaths": 8,
-          "recovered": 1378
+          "recovered": 1387
         }
       },
       "Hebei": {
@@ -284,17 +284,17 @@
       "Hong Kong": {
         "live": {
           "confirmed": 862,
-          "date": "2020-04-04",
+          "date": "2020-04-05",
           "deaths": 4,
-          "recovered": 173
+          "recovered": 186
         }
       },
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-04",
-          "deaths": 3207,
-          "recovered": 63762
+          "date": "2020-04-05",
+          "deaths": 3210,
+          "recovered": 63945
         }
       },
       "Hunan": {
@@ -308,9 +308,9 @@
       "Jiangsu": {
         "live": {
           "confirmed": 651,
-          "date": "2020-04-03",
+          "date": "2020-04-05",
           "deaths": 0,
-          "recovered": 632
+          "recovered": 633
         }
       },
       "Jiangxi": {
@@ -323,34 +323,34 @@
       },
       "Shandong": {
         "live": {
-          "confirmed": 778,
-          "date": "2020-04-04",
+          "confirmed": 779,
+          "date": "2020-04-05",
           "deaths": 7,
           "recovered": 755
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 529,
-          "date": "2020-04-04",
+          "confirmed": 531,
+          "date": "2020-04-05",
           "deaths": 6,
           "recovered": 356
         }
       },
       "Sichuan": {
         "live": {
-          "confirmed": 557,
-          "date": "2020-04-04",
+          "confirmed": 558,
+          "date": "2020-04-05",
           "deaths": 3,
-          "recovered": 538
+          "recovered": 539
         }
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1262,
-          "date": "2020-04-04",
+          "confirmed": 1263,
+          "date": "2020-04-05",
           "deaths": 1,
-          "recovered": 1229
+          "recovered": 1230
         }
       }
     }
@@ -871,7 +871,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 373,
+          "confirmed": 376,
           "date": "2020-04-05",
           "deaths": 9,
           "recovered": 0
@@ -879,9 +879,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 1497,
+          "confirmed": 1786,
           "date": "2020-04-05",
-          "deaths": 39,
+          "deaths": 40,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 112189,
+          "confirmed": 112193,
           "date": "2020-04-05",
-          "deaths": 3081,
+          "deaths": 3095,
           "recovered": 0
         }
       },
@@ -1071,7 +1071,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 418,
+          "confirmed": 491,
           "date": "2020-04-05",
           "deaths": 3,
           "recovered": 0
@@ -1087,9 +1087,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 3895,
+          "confirmed": 3925,
           "date": "2020-04-05",
-          "deaths": 65,
+          "deaths": 67,
           "recovered": 0
         }
       },
@@ -1111,9 +1111,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 6117,
+          "confirmed": 6154,
           "date": "2020-04-05",
-          "deaths": 260,
+          "deaths": 262,
           "recovered": 0
         }
       },

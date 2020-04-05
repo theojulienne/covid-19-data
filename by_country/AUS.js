@@ -321,7 +321,8 @@ var covid19_dataset_country_aus = {
             16,
             16,
             19,
-            21
+            21,
+            23
           ],
           "10-19": [
             0,
@@ -397,7 +398,8 @@ var covid19_dataset_country_aus = {
             60,
             70,
             75,
-            80
+            80,
+            82
           ],
           "20-29": [
             0,
@@ -473,7 +475,8 @@ var covid19_dataset_country_aus = {
             473,
             502,
             528,
-            546
+            546,
+            565
           ],
           "30-39": [
             0,
@@ -549,7 +552,8 @@ var covid19_dataset_country_aus = {
             339,
             360,
             374,
-            398
+            398,
+            421
           ],
           "40-49": [
             0,
@@ -625,7 +629,8 @@ var covid19_dataset_country_aus = {
             282,
             295,
             301,
-            312
+            312,
+            323
           ],
           "50-59": [
             0,
@@ -701,7 +706,8 @@ var covid19_dataset_country_aus = {
             347,
             360,
             372,
-            384
+            384,
+            397
           ],
           "60-69": [
             0,
@@ -777,7 +783,8 @@ var covid19_dataset_country_aus = {
             337,
             357,
             371,
-            394
+            394,
+            401
           ],
           "70-79": [
             0,
@@ -853,7 +860,8 @@ var covid19_dataset_country_aus = {
             239,
             248,
             255,
-            258
+            258,
+            266
           ],
           "80-89": [
             0,
@@ -929,7 +937,8 @@ var covid19_dataset_country_aus = {
             68,
             70,
             74,
-            79
+            79,
+            80
           ],
           "90-99": [
             0,
@@ -1005,7 +1014,8 @@ var covid19_dataset_country_aus = {
             21,
             19,
             20,
-            21
+            21,
+            22
           ]
         }
       },
@@ -1091,7 +1101,8 @@ var covid19_dataset_country_aus = {
             275,
             307,
             336,
-            365
+            365,
+            380
           ],
           "Locally acquired - contact of a confirmed case": [
             0,
@@ -1167,7 +1178,8 @@ var covid19_dataset_country_aus = {
             434,
             467,
             505,
-            551
+            551,
+            578
           ],
           "Overseas acquired": [
             0,
@@ -1243,7 +1255,8 @@ var covid19_dataset_country_aus = {
             1353,
             1419,
             1485,
-            1524
+            1524,
+            1566
           ],
           "Under investigation": [
             0,
@@ -1319,7 +1332,8 @@ var covid19_dataset_country_aus = {
             120,
             105,
             63,
-            53
+            53,
+            56
           ]
         }
       },
@@ -1398,7 +1412,8 @@ var covid19_dataset_country_aus = {
           2182,
           2298,
           2389,
-          2493
+          2493,
+          2580
         ],
         "current_hospitalized": [
           0,
@@ -1471,6 +1486,7 @@ var covid19_dataset_country_aus = {
           160,
           null,
           164,
+          null,
           null,
           null,
           null,
@@ -1550,6 +1566,7 @@ var covid19_dataset_country_aus = {
           null,
           null,
           null,
+          null,
           null
         ],
         "current_ventilators": [
@@ -1623,6 +1640,7 @@ var covid19_dataset_country_aus = {
           12,
           null,
           16,
+          null,
           null,
           null,
           null,
@@ -1854,7 +1872,8 @@ var covid19_dataset_country_aus = {
           105543,
           110537,
           114455,
-          117633
+          117633,
+          121443
         ]
       }
     },
@@ -6232,7 +6251,7 @@ var covid19_dataset_country_aus = {
       5116,
       5330,
       5550,
-      5577
+      5664
     ],
     "deaths": [
       0,
