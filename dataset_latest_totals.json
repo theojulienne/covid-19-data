@@ -255,7 +255,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 14388,
+        "confirmed": 15335,
         "deaths": 259,
         "recovered": 2577
       },
@@ -305,7 +305,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 6997,
+          "confirmed": 7944,
           "deaths": 75
         },
         "Recovered": {
@@ -657,8 +657,8 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 130854,
-        "deaths": 12518,
+        "confirmed": 131646,
+        "deaths": 12641,
         "recovered": 38080
       }
     },
