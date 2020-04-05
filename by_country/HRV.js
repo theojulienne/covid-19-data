@@ -306,7 +306,8 @@ var covid19_dataset_country_hrv = {
       73,
       88,
       92,
-      119
+      119,
+      125
     ]
   }
 };
