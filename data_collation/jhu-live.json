@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 12083,
+      "confirmed": 12162,
       "date": "2020-04-06",
       "deaths": 220,
       "recovered": 3463
@@ -101,18 +101,18 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 584,
+      "confirmed": 641,
       "date": "2020-04-06",
       "deaths": 7,
-      "recovered": 32
+      "recovered": 44
     }
   },
   "Bahrain": {
     "live": {
-      "confirmed": 700,
+      "confirmed": 723,
       "date": "2020-04-06",
       "deaths": 4,
-      "recovered": 431
+      "recovered": 451
     }
   },
   "Belarus": {
@@ -136,7 +136,7 @@
       "confirmed": 667,
       "date": "2020-04-06",
       "deaths": 27,
-      "recovered": 44
+      "recovered": 47
     }
   },
   "Brazil": {
@@ -407,8 +407,8 @@
     "live": {
       "confirmed": 4647,
       "date": "2020-04-06",
-      "deaths": 179,
-      "recovered": 1327
+      "deaths": 187,
+      "recovered": 1378
     }
   },
   "Diamond Princess": {
@@ -573,7 +573,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 604,
+      "confirmed": 629,
       "date": "2020-04-06",
       "deaths": 6,
       "recovered": 45
@@ -661,9 +661,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 17851,
+      "confirmed": 18803,
       "date": "2020-04-06",
-      "deaths": 1766,
+      "deaths": 1867,
       "recovered": 250
     }
   },
@@ -741,10 +741,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 11278,
+      "confirmed": 11730,
       "date": "2020-04-06",
-      "deaths": 295,
-      "recovered": 75
+      "deaths": 311,
+      "recovered": 140
     }
   },
   "Qatar": {
@@ -837,7 +837,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 21282,
+      "confirmed": 21652,
       "date": "2020-04-06",
       "deaths": 734,
       "recovered": 7298

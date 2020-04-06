@@ -311,7 +311,7 @@ var covid19_dataset_country_bih = {
       27,
       30,
       30,
-      44
+      47
     ]
   }
 };
