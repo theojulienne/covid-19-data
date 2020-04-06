@@ -310,7 +310,8 @@ var covid19_dataset_country_ltu = {
       7,
       7,
       7,
-      7
+      7,
+      8
     ]
   }
 };
