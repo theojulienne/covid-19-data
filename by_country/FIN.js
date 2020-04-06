@@ -154,7 +154,8 @@ var covid19_dataset_country_fin = {
       1518,
       1615,
       1882,
-      1927
+      1927,
+      2176
     ],
     "deaths": [
       0,
