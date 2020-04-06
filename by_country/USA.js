@@ -10045,7 +10045,7 @@ var covid19_dataset_country_usa = {
           102863,
           113704,
           122031,
-          128550
+          128236
         ],
         "deaths": [
           0,
@@ -15424,7 +15424,7 @@ var covid19_dataset_country_usa = {
       271480,
       305162,
       331671,
-      338289
+      337975
     ],
     "deaths": [
       0,

@@ -310,7 +310,7 @@ var covid19_dataset_country_afg = {
       10,
       10,
       15,
-      17
+      18
     ]
   }
 };
