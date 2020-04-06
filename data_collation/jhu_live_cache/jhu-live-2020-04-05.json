@@ -191,7 +191,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 4038,
+          "confirmed": 4354,
           "date": "2020-04-05",
           "deaths": 119,
           "recovered": 0
@@ -397,7 +397,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 4543,
+      "confirmed": 4587,
       "date": "2020-04-05",
       "deaths": 67,
       "recovered": 96
@@ -469,9 +469,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 100024,
+      "confirmed": 100123,
       "date": "2020-04-05",
-      "deaths": 1576,
+      "deaths": 1584,
       "recovered": 28700
     }
   },
@@ -887,17 +887,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 12567,
+          "confirmed": 12893,
           "date": "2020-04-05",
-          "deaths": 282,
+          "deaths": 290,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 3287,
+          "confirmed": 3550,
           "date": "2020-04-05",
-          "deaths": 97,
+          "deaths": 110,
           "recovered": 0
         }
       },
@@ -911,7 +911,7 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 400,
+          "confirmed": 436,
           "date": "2020-04-05",
           "deaths": 7,
           "recovered": 0
@@ -927,7 +927,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 9284,
+          "confirmed": 9432,
           "date": "2020-04-05",
           "deaths": 161,
           "recovered": 0
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 11782,
           "date": "2020-04-05",
-          "deaths": 193,
+          "deaths": 196,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 121140,
+          "confirmed": 121339,
           "date": "2020-04-05",
-          "deaths": 2842,
+          "deaths": 2860,
           "recovered": 0
         }
       },
@@ -1079,7 +1079,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 3769,
+          "confirmed": 3793,
           "date": "2020-04-05",
           "deaths": 66,
           "recovered": 0
@@ -1103,17 +1103,17 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 6278,
+          "confirmed": 6273,
           "date": "2020-04-05",
-          "deaths": 267,
+          "deaths": 275,
           "recovered": 0
         }
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1148,
+          "confirmed": 1190,
           "date": "2020-04-05",
-          "deaths": 34,
+          "deaths": 39,
           "recovered": 0
         }
       }

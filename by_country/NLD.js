@@ -76,9 +76,11 @@ var covid19_dataset_country_nld = {
           55,
           60,
           62,
+          64,
           64
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -217,6 +219,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -308,6 +311,7 @@ var covid19_dataset_country_nld = {
           0,
           2,
           2,
+          2,
           2
         ],
         "deaths": [
@@ -384,9 +388,11 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          0,
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -540,6 +546,7 @@ var covid19_dataset_country_nld = {
           11,
           11,
           11,
+          11,
           11
         ],
         "deaths": [
@@ -600,6 +607,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -692,6 +700,7 @@ var covid19_dataset_country_nld = {
           3,
           3,
           3,
+          5,
           5
         ]
       }
@@ -772,7 +781,8 @@ var covid19_dataset_country_nld = {
           16,
           18,
           23,
-          23
+          23,
+          25
         ],
         "deaths": [
           0,
@@ -848,6 +858,7 @@ var covid19_dataset_country_nld = {
           1,
           1,
           2,
+          4,
           4
         ],
         "recovered": [
@@ -924,7 +935,8 @@ var covid19_dataset_country_nld = {
           6,
           6,
           6,
-          6
+          6,
+          1
         ]
       }
     }
@@ -1005,7 +1017,8 @@ var covid19_dataset_country_nld = {
     "2020-04-03",
     "2020-04-04",
     "2020-04-05",
-    "2020-04-06"
+    "2020-04-06",
+    "2020-04-07"
   ],
   "total": {
     "confirmed": [
@@ -1230,6 +1243,7 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
+      250,
       250,
       250,
       250,
