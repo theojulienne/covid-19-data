@@ -233,7 +233,7 @@ var covid19_dataset_country_esp = {
       11198,
       11947,
       12641,
-      13055
+      13169
     ],
     "recovered": [
       0,
