@@ -338,9 +338,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82625,
-        "deaths": 3333,
-        "recovered": 77213
+        "confirmed": 82639,
+        "deaths": 3335,
+        "recovered": 77290
       },
       "states": {
         "Anhui": {
@@ -369,9 +369,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 131
         },
         "Guangdong": {
-          "confirmed": 1524,
+          "confirmed": 1532,
           "deaths": 8,
-          "recovered": 1387
+          "recovered": 1395
         },
         "Guangxi": {
           "confirmed": 254,
@@ -410,8 +410,8 @@ var covid19_dataset_latest_totals = {
         },
         "Hubei": {
           "confirmed": 67803,
-          "deaths": 3210,
-          "recovered": 63945
+          "deaths": 3212,
+          "recovered": 64014
         },
         "Hunan": {
           "confirmed": 1019,
@@ -469,7 +469,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 755
         },
         "Shanghai": {
-          "confirmed": 531,
+          "confirmed": 536,
           "deaths": 6,
           "recovered": 383
         },
@@ -504,7 +504,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 172
         },
         "Zhejiang": {
-          "confirmed": 1263,
+          "confirmed": 1264,
           "deaths": 1,
           "recovered": 1230
         }

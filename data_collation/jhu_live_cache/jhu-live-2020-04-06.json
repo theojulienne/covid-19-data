@@ -251,10 +251,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1524,
-          "date": "2020-04-05",
+          "confirmed": 1532,
+          "date": "2020-04-06",
           "deaths": 8,
-          "recovered": 1387
+          "recovered": 1395
         }
       },
       "Hebei": {
@@ -292,9 +292,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-05",
-          "deaths": 3210,
-          "recovered": 63945
+          "date": "2020-04-06",
+          "deaths": 3212,
+          "recovered": 64014
         }
       },
       "Hunan": {
@@ -331,8 +331,8 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 531,
-          "date": "2020-04-05",
+          "confirmed": 536,
+          "date": "2020-04-06",
           "deaths": 6,
           "recovered": 383
         }
@@ -347,8 +347,8 @@
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1263,
-          "date": "2020-04-05",
+          "confirmed": 1264,
+          "date": "2020-04-06",
           "deaths": 1,
           "recovered": 1230
         }
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 10080,
           "date": "2020-04-06",
-          "deaths": 234,
+          "deaths": 236,
           "recovered": 0
         }
       },
