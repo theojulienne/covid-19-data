@@ -164,8 +164,8 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 531,
-        "deaths": 20,
+        "confirmed": 541,
+        "deaths": 21,
         "recovered": 37
       }
     },
@@ -340,7 +340,7 @@
       "latest": {
         "confirmed": 82639,
         "deaths": 3335,
-        "recovered": 77290
+        "recovered": 77296
       },
       "states": {
         "Anhui": {
@@ -471,7 +471,7 @@
         "Shanghai": {
           "confirmed": 536,
           "deaths": 6,
-          "recovered": 383
+          "recovered": 389
         },
         "Shanxi": {
           "confirmed": 138,
@@ -915,9 +915,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 733,
-        "deaths": 34,
-        "recovered": 66
+        "confirmed": 744,
+        "deaths": 38,
+        "recovered": 67
       }
     },
     "IDN": {
@@ -929,7 +929,7 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 4298,
+        "confirmed": 4314,
         "deaths": 118,
         "recovered": 328
       }
@@ -964,8 +964,8 @@
     },
     "ISR": {
       "latest": {
-        "confirmed": 8430,
-        "deaths": 49,
+        "confirmed": 8611,
+        "deaths": 51,
         "recovered": 477
       }
     },
@@ -1090,8 +1090,8 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 811,
-        "deaths": 13,
+        "confirmed": 843,
+        "deaths": 14,
         "recovered": 7
       }
     },
@@ -1379,7 +1379,7 @@
     "ROU": {
       "latest": {
         "confirmed": 3864,
-        "deaths": 151,
+        "deaths": 156,
         "recovered": 374
       }
     },
@@ -1909,7 +1909,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 342,
+        "confirmed": 390,
         "deaths": 2,
         "recovered": 30
       }

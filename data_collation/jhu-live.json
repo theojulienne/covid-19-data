@@ -149,9 +149,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 531,
+      "confirmed": 541,
       "date": "2020-04-06",
-      "deaths": 20,
+      "deaths": 21,
       "recovered": 37
     }
   },
@@ -334,7 +334,7 @@
           "confirmed": 536,
           "date": "2020-04-06",
           "deaths": 6,
-          "recovered": 383
+          "recovered": 389
         }
       },
       "Sichuan": {
@@ -485,10 +485,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 733,
+      "confirmed": 744,
       "date": "2020-04-06",
-      "deaths": 34,
-      "recovered": 66
+      "deaths": 38,
+      "recovered": 67
     }
   },
   "Iceland": {
@@ -501,7 +501,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 4298,
+      "confirmed": 4314,
       "date": "2020-04-06",
       "deaths": 118,
       "recovered": 328
@@ -541,9 +541,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 8430,
+      "confirmed": 8611,
       "date": "2020-04-06",
-      "deaths": 49,
+      "deaths": 51,
       "recovered": 477
     }
   },
@@ -613,9 +613,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 811,
+      "confirmed": 843,
       "date": "2020-04-06",
-      "deaths": 13,
+      "deaths": 14,
       "recovered": 7
     }
   },
@@ -751,7 +751,7 @@
     "live": {
       "confirmed": 3864,
       "date": "2020-04-06",
-      "deaths": 151,
+      "deaths": 156,
       "recovered": 374
     }
   },
@@ -1153,7 +1153,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 342,
+      "confirmed": 390,
       "date": "2020-04-06",
       "deaths": 2,
       "recovered": 30
