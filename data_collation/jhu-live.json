@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 11254,
+      "confirmed": 11281,
       "date": "2020-04-06",
-      "deaths": 486,
+      "deaths": 487,
       "recovered": 127
     }
   },
@@ -177,7 +177,7 @@
         "live": {
           "confirmed": 1181,
           "date": "2020-04-06",
-          "deaths": 20,
+          "deaths": 23,
           "recovered": 0
         }
       },
@@ -191,7 +191,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 4362,
+          "confirmed": 4466,
           "date": "2020-04-06",
           "deaths": 119,
           "recovered": 0
@@ -201,7 +201,7 @@
         "live": {
           "confirmed": 7944,
           "date": "2020-04-06",
-          "deaths": 75,
+          "deaths": 94,
           "recovered": 0
         }
       }
@@ -943,7 +943,7 @@
       },
       "Idaho": {
         "live": {
-          "confirmed": 795,
+          "confirmed": 812,
           "date": "2020-04-06",
           "deaths": 5,
           "recovered": 0
@@ -1025,7 +1025,7 @@
         "live": {
           "confirmed": 121034,
           "date": "2020-04-06",
-          "deaths": 2852,
+          "deaths": 3198,
           "recovered": 0
         }
       },
