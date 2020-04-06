@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 349,
+      "confirmed": 367,
       "date": "2020-04-06",
       "deaths": 7,
-      "recovered": 15
+      "recovered": 17
     }
   },
   "Albania": {
@@ -175,7 +175,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 1181,
+          "confirmed": 1250,
           "date": "2020-04-06",
           "deaths": 23,
           "recovered": 0
@@ -501,9 +501,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 4288,
+      "confirmed": 4298,
       "date": "2020-04-06",
-      "deaths": 117,
+      "deaths": 118,
       "recovered": 328
     }
   },
@@ -520,7 +520,7 @@
       "confirmed": 58226,
       "date": "2020-04-06",
       "deaths": 3603,
-      "recovered": 19736
+      "recovered": 22011
     }
   },
   "Iraq": {
@@ -685,7 +685,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 5687,
+      "confirmed": 5759,
       "date": "2020-04-06",
       "deaths": 71,
       "recovered": 32
@@ -693,10 +693,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 3157,
+      "confirmed": 3277,
       "date": "2020-04-06",
-      "deaths": 47,
-      "recovered": 211
+      "deaths": 50,
+      "recovered": 257
     }
   },
   "Panama": {
@@ -717,7 +717,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 3246,
+      "confirmed": 3414,
       "date": "2020-04-06",
       "deaths": 152,
       "recovered": 64
@@ -845,9 +845,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2169,
+      "confirmed": 2220,
       "date": "2020-04-06",
-      "deaths": 23,
+      "deaths": 26,
       "recovered": 793
     }
   },

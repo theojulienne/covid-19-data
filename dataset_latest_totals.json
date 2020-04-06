@@ -2,9 +2,9 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 349,
+        "confirmed": 367,
         "deaths": 7,
-        "recovered": 15
+        "recovered": 17
       }
     },
     "AGO": {
@@ -255,13 +255,13 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 15868,
+        "confirmed": 15937,
         "deaths": 281,
         "recovered": 3012
       },
       "states": {
         "Alberta": {
-          "confirmed": 1181,
+          "confirmed": 1250,
           "deaths": 23
         },
         "British Columbia": {
@@ -929,8 +929,8 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 4288,
-        "deaths": 117,
+        "confirmed": 4298,
+        "deaths": 118,
         "recovered": 328
       }
     },
@@ -945,7 +945,7 @@
       "latest": {
         "confirmed": 58226,
         "deaths": 3603,
-        "recovered": 19736
+        "recovered": 22011
       }
     },
     "IRQ": {
@@ -1280,7 +1280,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 5687,
+        "confirmed": 5759,
         "deaths": 71,
         "recovered": 32
       }
@@ -1308,9 +1308,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 3157,
-        "deaths": 47,
-        "recovered": 211
+        "confirmed": 3277,
+        "deaths": 50,
+        "recovered": 257
       }
     },
     "PAN": {
@@ -1329,7 +1329,7 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 3246,
+        "confirmed": 3414,
         "deaths": 152,
         "recovered": 64
       }
@@ -1532,8 +1532,8 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2169,
-        "deaths": 23,
+        "confirmed": 2220,
+        "deaths": 26,
         "recovered": 793
       }
     },
