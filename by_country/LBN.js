@@ -313,7 +313,8 @@ var covid19_dataset_country_lbn = {
       50,
       54,
       54,
-      60
+      60,
+      62
     ]
   }
 };

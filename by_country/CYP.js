@@ -313,7 +313,8 @@ var covid19_dataset_country_cyp = {
       28,
       33,
       37,
-      45
+      45,
+      47
     ]
   }
 };
