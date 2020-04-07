@@ -23,9 +23,9 @@
     },
     "AND": {
       "latest": {
-        "confirmed": 525,
-        "deaths": 21,
-        "recovered": 31
+        "confirmed": 545,
+        "deaths": 22,
+        "recovered": 39
       }
     },
     "ARE": {
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 12633,
+        "confirmed": 12635,
         "deaths": 243,
         "recovered": 4046
       }
@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 12632,
-        "deaths": 588,
+        "confirmed": 13717,
+        "deaths": 667,
         "recovered": 127
       }
     },
@@ -521,7 +521,7 @@
       "latest": {
         "confirmed": 658,
         "deaths": 9,
-        "recovered": 17
+        "recovered": 43
       }
     },
     "COD": {
@@ -624,7 +624,7 @@
       "latest": {
         "confirmed": 1956,
         "deaths": 98,
-        "recovered": 33
+        "recovered": 36
       }
     },
     "DZA": {
@@ -664,8 +664,8 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 140511,
-        "deaths": 13897,
+        "confirmed": 140617,
+        "deaths": 13912,
         "recovered": 43208
       }
     },

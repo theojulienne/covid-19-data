@@ -312,7 +312,8 @@ var covid19_dataset_country_cmr = {
       17,
       17,
       17,
-      17
+      17,
+      43
     ]
   }
 };

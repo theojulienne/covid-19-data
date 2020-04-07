@@ -25,10 +25,10 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 525,
+      "confirmed": 545,
       "date": "2020-04-07",
-      "deaths": 21,
-      "recovered": 31
+      "deaths": 22,
+      "recovered": 39
     }
   },
   "Argentina": {
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 12633,
+      "confirmed": 12635,
       "date": "2020-04-07",
       "deaths": 243,
       "recovered": 4046
@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 12632,
+      "confirmed": 13717,
       "date": "2020-04-07",
-      "deaths": 588,
+      "deaths": 667,
       "recovered": 127
     }
   },
@@ -168,7 +168,7 @@
       "confirmed": 658,
       "date": "2020-04-07",
       "deaths": 9,
-      "recovered": 17
+      "recovered": 43
     }
   },
   "Canada": {
@@ -416,7 +416,7 @@
       "confirmed": 1956,
       "date": "2020-04-07",
       "deaths": 98,
-      "recovered": 33
+      "recovered": 36
     }
   },
   "Ecuador": {
@@ -813,9 +813,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 140511,
+      "confirmed": 140617,
       "date": "2020-04-07",
-      "deaths": 13897,
+      "deaths": 13912,
       "recovered": 43208
     }
   },
