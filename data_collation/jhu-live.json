@@ -51,9 +51,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2637,
+          "confirmed": 2686,
           "date": "2020-04-07",
-          "deaths": 18,
+          "deaths": 21,
           "recovered": 4
         }
       },
@@ -373,7 +373,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 350,
+      "confirmed": 363,
       "date": "2020-04-07",
       "deaths": 9,
       "recovered": 18
@@ -685,9 +685,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 3766,
+      "confirmed": 3861,
       "date": "2020-04-07",
-      "deaths": 53,
+      "deaths": 54,
       "recovered": 259
     }
   },
@@ -991,9 +991,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 1391,
+          "confirmed": 1473,
           "date": "2020-04-07",
-          "deaths": 21,
+          "deaths": 24,
           "recovered": 0
         }
       },

@@ -1764,7 +1764,8 @@ var covid19_dataset_country_aus = {
           12,
           12,
           16,
-          18
+          18,
+          21
         ],
         "recovered": [
           0,
@@ -6485,7 +6486,8 @@ var covid19_dataset_country_aus = {
       25,
       26,
       31,
-      34
+      34,
+      37
     ],
     "recovered": [
       0,
