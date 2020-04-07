@@ -235,7 +235,8 @@ var covid19_dataset_country_deu = {
       1275,
       1444,
       1584,
-      1810
+      1810,
+      1822
     ],
     "recovered": [
       0,

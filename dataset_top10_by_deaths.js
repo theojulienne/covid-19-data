@@ -638,7 +638,8 @@ var covid19_dataset_top10_by_deaths = {
           1275,
           1444,
           1584,
-          1810
+          1810,
+          1822
         ],
         "recovered": [
           0,
