@@ -76,7 +76,8 @@ var covid19_dataset_country_tcd = {
     "2020-04-04",
     "2020-04-05",
     "2020-04-06",
-    "2020-04-07"
+    "2020-04-07",
+    "2020-04-08"
   ],
   "total": {
     "confirmed": [
@@ -153,6 +154,7 @@ var covid19_dataset_country_tcd = {
       7,
       8,
       8,
+      9,
       9,
       9
     ],
@@ -231,9 +233,11 @@ var covid19_dataset_country_tcd = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

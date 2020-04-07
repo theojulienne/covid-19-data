@@ -77,6 +77,7 @@ var covid19_dataset_country_aus = {
           87,
           91,
           93,
+          96,
           96
         ],
         "deaths": [
@@ -153,6 +154,7 @@ var covid19_dataset_country_aus = {
           1,
           1,
           1,
+          2,
           2,
           2
         ],
@@ -231,7 +233,8 @@ var covid19_dataset_country_aus = {
           11,
           18,
           18,
-          28
+          28,
+          40
         ]
       }
     },
@@ -1820,6 +1823,7 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
+          4,
           4
         ],
         "tested": [
@@ -1979,9 +1983,11 @@ var covid19_dataset_country_aus = {
           21,
           22,
           26,
-          27
+          27,
+          28
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -2133,7 +2139,8 @@ var covid19_dataset_country_aus = {
           0,
           0,
           1,
-          1
+          1,
+          2
         ]
       }
     },
@@ -4328,6 +4335,7 @@ var covid19_dataset_country_aus = {
           0,
           0,
           0,
+          0,
           0
         ],
         "recovered": [
@@ -4487,7 +4495,8 @@ var covid19_dataset_country_aus = {
           72,
           74,
           80,
-          82
+          82,
+          86
         ],
         "deaths": [
           0,
@@ -4560,6 +4569,7 @@ var covid19_dataset_country_aus = {
           0,
           0,
           1,
+          2,
           2,
           2,
           2,
@@ -4641,7 +4651,8 @@ var covid19_dataset_country_aus = {
           5,
           5,
           5,
-          5
+          5,
+          26
         ]
       }
     },
@@ -6300,7 +6311,8 @@ var covid19_dataset_country_aus = {
     "2020-04-04",
     "2020-04-05",
     "2020-04-06",
-    "2020-04-07"
+    "2020-04-07",
+    "2020-04-08"
   ],
   "total": {
     "confirmed": [
@@ -6379,7 +6391,7 @@ var covid19_dataset_country_aus = {
       5330,
       5550,
       5687,
-      5792
+      5797
     ],
     "deaths": [
       0,
@@ -6535,7 +6547,7 @@ var covid19_dataset_country_aus = {
       649,
       701,
       757,
-      1046
+      1080
     ]
   }
 };
