@@ -11,7 +11,7 @@
     "live": {
       "confirmed": 383,
       "date": "2020-04-07",
-      "deaths": 21,
+      "deaths": 22,
       "recovered": 131
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 12399,
+      "confirmed": 12427,
       "date": "2020-04-07",
       "deaths": 243,
       "recovered": 4046
@@ -133,9 +133,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 740,
+      "confirmed": 744,
       "date": "2020-04-07",
-      "deaths": 32,
+      "deaths": 33,
       "recovered": 68
     }
   },
@@ -399,7 +399,7 @@
     "live": {
       "confirmed": 4978,
       "date": "2020-04-07",
-      "deaths": 187,
+      "deaths": 203,
       "recovered": 1378
     }
   },
@@ -493,7 +493,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 4858,
+      "confirmed": 4908,
       "date": "2020-04-07",
       "deaths": 137,
       "recovered": 382
@@ -512,7 +512,7 @@
       "confirmed": 62589,
       "date": "2020-04-07",
       "deaths": 3872,
-      "recovered": 24236
+      "recovered": 27039
     }
   },
   "Iraq": {
@@ -568,7 +568,7 @@
       "confirmed": 685,
       "date": "2020-04-07",
       "deaths": 6,
-      "recovered": 47
+      "recovered": 50
     }
   },
   "Korea, South": {
@@ -679,7 +679,7 @@
     "live": {
       "confirmed": 5866,
       "date": "2020-04-07",
-      "deaths": 78,
+      "deaths": 83,
       "recovered": 32
     }
   },
@@ -693,9 +693,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 3918,
+      "confirmed": 4004,
       "date": "2020-04-07",
-      "deaths": 54,
+      "deaths": 55,
       "recovered": 429
     }
   },
@@ -749,10 +749,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 4057,
+      "confirmed": 4417,
       "date": "2020-04-07",
       "deaths": 182,
-      "recovered": 406
+      "recovered": 460
     }
   },
   "Russia": {
@@ -789,7 +789,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 534,
+      "confirmed": 581,
       "date": "2020-04-07",
       "deaths": 2,
       "recovered": 8
@@ -829,9 +829,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 21855,
+      "confirmed": 21907,
       "date": "2020-04-07",
-      "deaths": 784,
+      "deaths": 787,
       "recovered": 8056
     }
   },

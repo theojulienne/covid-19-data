@@ -156,7 +156,8 @@ var covid19_dataset_country_svk = {
       450,
       471,
       485,
-      534
+      534,
+      581
     ],
     "deaths": [
       0,
