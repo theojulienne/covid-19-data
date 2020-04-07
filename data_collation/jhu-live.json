@@ -35,7 +35,7 @@
     "live": {
       "confirmed": 1628,
       "date": "2020-04-07",
-      "deaths": 54,
+      "deaths": 55,
       "recovered": 338
     }
   },
@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 12519,
+      "confirmed": 12547,
       "date": "2020-04-07",
       "deaths": 243,
       "recovered": 4046
@@ -109,7 +109,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 756,
+      "confirmed": 811,
       "date": "2020-04-07",
       "deaths": 4,
       "recovered": 458
@@ -117,10 +117,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 860,
+      "confirmed": 861,
       "date": "2020-04-07",
       "deaths": 13,
-      "recovered": 53
+      "recovered": 54
     }
   },
   "Belgium": {
@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 12240,
+      "confirmed": 12341,
       "date": "2020-04-07",
-      "deaths": 566,
+      "deaths": 581,
       "recovered": 127
     }
   },
@@ -461,9 +461,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 103717,
+      "confirmed": 104199,
       "date": "2020-04-07",
-      "deaths": 1822,
+      "deaths": 1842,
       "recovered": 36081
     }
   },
@@ -637,9 +637,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 965,
+      "confirmed": 1056,
       "date": "2020-04-07",
-      "deaths": 21,
+      "deaths": 22,
       "recovered": 40
     }
   },
@@ -679,7 +679,7 @@
     "live": {
       "confirmed": 5866,
       "date": "2020-04-07",
-      "deaths": 83,
+      "deaths": 88,
       "recovered": 32
     }
   },
@@ -693,7 +693,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4004,
+      "confirmed": 4005,
       "date": "2020-04-07",
       "deaths": 55,
       "recovered": 429
@@ -773,9 +773,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 2200,
+      "confirmed": 2447,
       "date": "2020-04-07",
-      "deaths": 58,
+      "deaths": 61,
       "recovered": 0
     }
   },
@@ -799,15 +799,15 @@
     "live": {
       "confirmed": 1059,
       "date": "2020-04-07",
-      "deaths": 30,
+      "deaths": 36,
       "recovered": 102
     }
   },
   "South Africa": {
     "live": {
-      "confirmed": 1686,
+      "confirmed": 1749,
       "date": "2020-04-07",
-      "deaths": 12,
+      "deaths": 13,
       "recovered": 95
     }
   },
@@ -831,7 +831,7 @@
     "live": {
       "confirmed": 22242,
       "date": "2020-04-07",
-      "deaths": 787,
+      "deaths": 811,
       "recovered": 8056
     }
   },
@@ -919,9 +919,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 1097,
+          "confirmed": 1211,
           "date": "2020-04-07",
-          "deaths": 24,
+          "deaths": 22,
           "recovered": 0
         }
       },
@@ -975,9 +975,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 3135,
+          "confirmed": 3372,
           "date": "2020-04-07",
-          "deaths": 69,
+          "deaths": 75,
           "recovered": 0
         }
       },
