@@ -236,7 +236,7 @@ var covid19_dataset_country_isr = {
       44,
       49,
       57,
-      59
+      60
     ],
     "recovered": [
       0,
