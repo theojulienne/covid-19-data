@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 12183,
-        "deaths": 564,
+        "confirmed": 12232,
+        "deaths": 566,
         "recovered": 127
       }
     },
@@ -338,7 +338,7 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82665,
+        "confirmed": 82685,
         "deaths": 3335,
         "recovered": 77310
       },
@@ -394,7 +394,7 @@
           "recovered": 310
         },
         "Heilongjiang": {
-          "confirmed": 524,
+          "confirmed": 544,
           "deaths": 13,
           "recovered": 469
         },
@@ -582,7 +582,7 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 103374,
+        "confirmed": 103375,
         "deaths": 1810,
         "recovered": 28700
       }
@@ -992,9 +992,9 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 3654,
-        "deaths": 85,
-        "recovered": 575
+        "confirmed": 3906,
+        "deaths": 92,
+        "recovered": 592
       }
     },
     "KAZ": {
@@ -1027,9 +1027,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10284,
-        "deaths": 186,
-        "recovered": 6598
+        "confirmed": 10331,
+        "deaths": 192,
+        "recovered": 6694
       }
     },
     "KWT": {
@@ -1146,8 +1146,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 2143,
-        "deaths": 94,
+        "confirmed": 2439,
+        "deaths": 125,
         "recovered": 633
       }
     },
@@ -1294,9 +1294,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1106,
+        "confirmed": 1160,
         "deaths": 1,
-        "recovered": 176
+        "recovered": 241
       }
     },
     "OMN": {
