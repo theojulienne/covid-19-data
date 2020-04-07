@@ -156,7 +156,8 @@ var covid19_dataset_country_sau = {
       2039,
       2179,
       2402,
-      2605
+      2605,
+      2752
     ],
     "deaths": [
       0,

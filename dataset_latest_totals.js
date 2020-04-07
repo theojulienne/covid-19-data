@@ -44,9 +44,9 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "latest": {
-        "confirmed": 833,
+        "confirmed": 853,
         "deaths": 8,
-        "recovered": 62
+        "recovered": 87
       }
     },
     "ATG": {
@@ -58,9 +58,9 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 5809,
+        "confirmed": 5865,
         "deaths": 38,
-        "recovered": 1033
+        "recovered": 1146
       },
       "states": {
         "ACT": {
@@ -99,12 +99,12 @@ var covid19_dataset_latest_totals = {
           "recovered": 26
         },
         "VIC": {
-          "confirmed": 1135,
+          "confirmed": 1191,
           "current_hospitalized": 47,
-          "current_icu": 11,
+          "current_icu": 13,
           "deaths": 4,
-          "recovered": 573,
-          "tested": 56000
+          "recovered": 686,
+          "tested": 58000
         },
         "WA": {
           "confirmed": 460,
@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 12332,
+        "confirmed": 12386,
         "deaths": 220,
         "recovered": 3463
       }
@@ -185,9 +185,9 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 674,
-        "deaths": 29,
-        "recovered": 47
+        "confirmed": 716,
+        "deaths": 30,
+        "recovered": 68
       }
     },
     "BLR": {
@@ -340,7 +340,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 82692,
         "deaths": 3335,
-        "recovered": 77381
+        "recovered": 77398
       },
       "states": {
         "Anhui": {
@@ -471,7 +471,7 @@ var covid19_dataset_latest_totals = {
         "Shanghai": {
           "confirmed": 538,
           "deaths": 6,
-          "recovered": 389
+          "recovered": 406
         },
         "Shanxi": {
           "confirmed": 138,
@@ -575,9 +575,9 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 4822,
-        "deaths": 78,
-        "recovered": 121
+        "confirmed": 4828,
+        "deaths": 80,
+        "recovered": 127
       }
     },
     "DEU": {
@@ -685,7 +685,7 @@ var covid19_dataset_latest_totals = {
     },
     "FIN": {
       "latest": {
-        "confirmed": 2176,
+        "confirmed": 2308,
         "deaths": 27,
         "recovered": 300
       }
@@ -929,7 +929,7 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 4778,
+        "confirmed": 4858,
         "deaths": 136,
         "recovered": 382
       }
@@ -964,8 +964,8 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "latest": {
-        "confirmed": 8904,
-        "deaths": 57,
+        "confirmed": 9006,
+        "deaths": 59,
         "recovered": 585
       }
     },
@@ -1001,7 +1001,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 670,
         "deaths": 6,
-        "recovered": 46
+        "recovered": 47
       }
     },
     "KEN": {
@@ -1345,7 +1345,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 4413,
         "deaths": 107,
-        "recovered": 162
+        "recovered": 191
       }
     },
     "PRT": {
@@ -1385,9 +1385,9 @@ var covid19_dataset_latest_totals = {
     },
     "RUS": {
       "latest": {
-        "confirmed": 6343,
-        "deaths": 47,
-        "recovered": 406
+        "confirmed": 7497,
+        "deaths": 58,
+        "recovered": 494
       }
     },
     "RWA": {
@@ -1399,7 +1399,7 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 2605,
+        "confirmed": 2752,
         "deaths": 38,
         "recovered": 551
       }
@@ -1588,8 +1588,8 @@ var covid19_dataset_latest_totals = {
     },
     "UKR": {
       "latest": {
-        "confirmed": 1319,
-        "deaths": 38,
+        "confirmed": 1462,
+        "deaths": 45,
         "recovered": 28
       }
     },
