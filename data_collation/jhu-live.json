@@ -185,7 +185,7 @@
         "live": {
           "confirmed": 1266,
           "date": "2020-04-07",
-          "deaths": 38,
+          "deaths": 39,
           "recovered": 0
         }
       },
@@ -464,7 +464,7 @@
       "confirmed": 103375,
       "date": "2020-04-07",
       "deaths": 1810,
-      "recovered": 28700
+      "recovered": 36081
     }
   },
   "Greece": {
@@ -496,7 +496,7 @@
       "confirmed": 4778,
       "date": "2020-04-07",
       "deaths": 136,
-      "recovered": 375
+      "recovered": 382
     }
   },
   "Indonesia": {
@@ -565,7 +565,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 662,
+      "confirmed": 670,
       "date": "2020-04-07",
       "deaths": 6,
       "recovered": 46
@@ -1095,7 +1095,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 6679,
+          "confirmed": 6708,
           "date": "2020-04-07",
           "deaths": 304,
           "recovered": 0
