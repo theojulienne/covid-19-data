@@ -228,9 +228,9 @@
       "Beijing": {
         "live": {
           "confirmed": 587,
-          "date": "2020-04-06",
+          "date": "2020-04-07",
           "deaths": 8,
-          "recovered": 443
+          "recovered": 448
         }
       },
       "Chongqing": {
@@ -243,18 +243,18 @@
       },
       "Fujian": {
         "live": {
-          "confirmed": 350,
-          "date": "2020-04-06",
+          "confirmed": 351,
+          "date": "2020-04-07",
           "deaths": 1,
           "recovered": 305
         }
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1532,
-          "date": "2020-04-06",
+          "confirmed": 1533,
+          "date": "2020-04-07",
           "deaths": 8,
-          "recovered": 1395
+          "recovered": 1401
         }
       },
       "Heilongjiang": {
@@ -284,9 +284,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-06",
+          "date": "2020-04-07",
           "deaths": 3212,
-          "recovered": 64014
+          "recovered": 64073
         }
       },
       "Hunan": {
@@ -315,32 +315,32 @@
       },
       "Shandong": {
         "live": {
-          "confirmed": 780,
-          "date": "2020-04-06",
+          "confirmed": 781,
+          "date": "2020-04-07",
           "deaths": 7,
           "recovered": 755
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 536,
-          "date": "2020-04-06",
+          "confirmed": 538,
+          "date": "2020-04-07",
           "deaths": 6,
           "recovered": 389
         }
       },
       "Sichuan": {
         "live": {
-          "confirmed": 559,
-          "date": "2020-04-06",
+          "confirmed": 560,
+          "date": "2020-04-07",
           "deaths": 3,
-          "recovered": 540
+          "recovered": 541
         }
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1264,
-          "date": "2020-04-06",
+          "confirmed": 1265,
+          "date": "2020-04-07",
           "deaths": 1,
           "recovered": 1230
         }
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 3347,
           "date": "2020-04-07",
-          "deaths": 104,
+          "deaths": 123,
           "recovered": 0
         }
       },
@@ -1039,7 +1039,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 10607,
+          "confirmed": 10686,
           "date": "2020-04-07",
           "deaths": 146,
           "recovered": 0
@@ -1055,7 +1055,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 538,
+          "confirmed": 622,
           "date": "2020-04-07",
           "deaths": 3,
           "recovered": 0
