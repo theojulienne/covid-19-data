@@ -1190,7 +1190,7 @@ var covid19_dataset_country_gbr = {
         ]
       }
     },
-    "Falkland Islands (Islas Malvinas)": {
+    "Falkland Islands (Malvinas)": {
       "total": {
         "confirmed": [
           0,

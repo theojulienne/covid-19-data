@@ -157,7 +157,7 @@ var covid19_dataset_country_esp = {
       126168,
       131646,
       136675,
-      140617
+      140618
     ],
     "deaths": [
       0,
