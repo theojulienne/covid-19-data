@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 5760,
+        "confirmed": 5809,
         "deaths": 34,
         "recovered": 1033
       },
@@ -69,13 +69,13 @@
           "recovered": 40
         },
         "NSW": {
-          "confirmed": 2637,
+          "confirmed": 2686,
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
           "deaths": 18,
           "recovered": 4,
-          "tested": 124038
+          "tested": 126146
         },
         "NT": {
           "confirmed": 28,
