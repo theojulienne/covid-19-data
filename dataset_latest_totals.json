@@ -30,9 +30,9 @@
     },
     "ARE": {
       "latest": {
-        "confirmed": 2076,
-        "deaths": 11,
-        "recovered": 167
+        "confirmed": 2359,
+        "deaths": 12,
+        "recovered": 186
       }
     },
     "ARG": {
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 12613,
+        "confirmed": 12616,
         "deaths": 243,
         "recovered": 4046
       }
@@ -582,8 +582,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 105604,
-        "deaths": 1905,
+        "confirmed": 106739,
+        "deaths": 1942,
         "recovered": 36081
       }
     },
@@ -699,9 +699,9 @@
     },
     "FRA": {
       "latest": {
-        "confirmed": 98010,
-        "deaths": 8911,
-        "recovered": 17250
+        "confirmed": 109069,
+        "deaths": 10328,
+        "recovered": 19337
       },
       "states": {
         "French Guiana": {
@@ -936,8 +936,8 @@
     },
     "IRL": {
       "latest": {
-        "confirmed": 5364,
-        "deaths": 174,
+        "confirmed": 5709,
+        "deaths": 210,
         "recovered": 25
       }
     },
@@ -985,9 +985,9 @@
     },
     "JOR": {
       "latest": {
-        "confirmed": 349,
+        "confirmed": 353,
         "deaths": 6,
-        "recovered": 126
+        "recovered": 138
       }
     },
     "JPN": {
@@ -999,9 +999,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 685,
+        "confirmed": 697,
         "deaths": 6,
-        "recovered": 50
+        "recovered": 51
       }
     },
     "KEN": {
@@ -1111,9 +1111,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 1141,
-        "deaths": 83,
-        "recovered": 88
+        "confirmed": 1184,
+        "deaths": 90,
+        "recovered": 93
       }
     },
     "MCO": {
@@ -1280,7 +1280,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 5869,
+        "confirmed": 5903,
         "deaths": 89,
         "recovered": 32
       }
@@ -1322,7 +1322,7 @@
     },
     "PER": {
       "latest": {
-        "confirmed": 2561,
+        "confirmed": 2954,
         "deaths": 92,
         "recovered": 997
       }
@@ -1603,7 +1603,7 @@
     "USA": {
       "latest": {
         "confirmed": 366282,
-        "deaths": 11329,
+        "deaths": 11364,
         "tested": 1928477
       },
       "states": {
@@ -1829,7 +1829,7 @@
         },
         "PA": {
           "confirmed": 12980,
-          "deaths": 162,
+          "deaths": 197,
           "hospitalized": 1613,
           "tested": 83854
         },
