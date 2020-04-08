@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 14034,
+      "confirmed": 14049,
       "date": "2020-04-08",
-      "deaths": 686,
+      "deaths": 688,
       "recovered": 127
     }
   },
@@ -863,7 +863,7 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 2288,
+          "confirmed": 2296,
           "date": "2020-04-08",
           "deaths": 49,
           "recovered": 0
@@ -983,9 +983,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 1643,
+          "confirmed": 1679,
           "date": "2020-04-08",
-          "deaths": 34,
+          "deaths": 36,
           "recovered": 0
         }
       },

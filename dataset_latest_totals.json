@@ -86,7 +86,7 @@
           "confirmed": 934,
           "deaths": 5,
           "recovered": 173,
-          "tested": 57795
+          "tested": 96482
         },
         "SA": {
           "confirmed": 411,
@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 14034,
-        "deaths": 686,
+        "confirmed": 14049,
+        "deaths": 688,
         "recovered": 127
       }
     },
