@@ -872,11 +872,11 @@ var covid19_dataset_country_usa = {
           null,
           null,
           90,
-          null,
-          null,
-          null,
+          100,
+          105,
+          106,
           130,
-          130,
+          137,
           130
         ],
         "tested": [

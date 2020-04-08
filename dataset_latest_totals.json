@@ -23,22 +23,22 @@
     },
     "AND": {
       "latest": {
-        "confirmed": 545,
-        "deaths": 22,
-        "recovered": 39
+        "confirmed": 564,
+        "deaths": 23,
+        "recovered": 52
       }
     },
     "ARE": {
       "latest": {
-        "confirmed": 2359,
+        "confirmed": 2659,
         "deaths": 12,
-        "recovered": 186
+        "recovered": 239
       }
     },
     "ARG": {
       "latest": {
         "confirmed": 1715,
-        "deaths": 60,
+        "deaths": 62,
         "recovered": 338
       }
     },
@@ -115,16 +115,16 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 12852,
+        "confirmed": 12881,
         "deaths": 273,
         "recovered": 4512
       }
     },
     "AZE": {
       "latest": {
-        "confirmed": 717,
+        "confirmed": 822,
         "deaths": 8,
-        "recovered": 44
+        "recovered": 63
       }
     },
     "BDI": {
@@ -164,8 +164,8 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 581,
-        "deaths": 23,
+        "confirmed": 593,
+        "deaths": 24,
         "recovered": 42
       }
     },
@@ -185,9 +185,9 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 794,
-        "deaths": 33,
-        "recovered": 77
+        "confirmed": 799,
+        "deaths": 34,
+        "recovered": 79
       }
     },
     "BLR": {
@@ -331,9 +331,9 @@
     },
     "CHL": {
       "latest": {
-        "confirmed": 5116,
-        "deaths": 43,
-        "recovered": 898
+        "confirmed": 5546,
+        "deaths": 48,
+        "recovered": 1115
       }
     },
     "CHN": {
@@ -582,8 +582,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 107663,
-        "deaths": 2016,
+        "confirmed": 109329,
+        "deaths": 2096,
         "recovered": 36081
       }
     },
@@ -957,9 +957,9 @@
     },
     "ISL": {
       "latest": {
-        "confirmed": 1586,
+        "confirmed": 1616,
         "deaths": 6,
-        "recovered": 559
+        "recovered": 633
       }
     },
     "ISR": {
@@ -1308,7 +1308,7 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 4072,
+        "confirmed": 4183,
         "deaths": 58,
         "recovered": 467
       }
@@ -1379,7 +1379,7 @@
     "ROU": {
       "latest": {
         "confirmed": 4761,
-        "deaths": 210,
+        "deaths": 215,
         "recovered": 528
       }
     },
@@ -1476,7 +1476,7 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 581,
+        "confirmed": 682,
         "deaths": 2,
         "recovered": 13
       }

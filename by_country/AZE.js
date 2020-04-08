@@ -158,7 +158,8 @@ var covid19_dataset_country_aze = {
       521,
       584,
       641,
-      717
+      717,
+      822
     ],
     "deaths": [
       0,
@@ -316,7 +317,8 @@ var covid19_dataset_country_aze = {
       32,
       32,
       44,
-      44
+      44,
+      63
     ]
   }
 };
