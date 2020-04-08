@@ -51,7 +51,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2686,
+          "confirmed": 2734,
           "date": "2020-04-08",
           "deaths": 21,
           "recovered": 4
@@ -59,7 +59,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 934,
+          "confirmed": 943,
           "date": "2020-04-08",
           "deaths": 4,
           "recovered": 173
@@ -67,25 +67,25 @@
       },
       "South Australia": {
         "live": {
-          "confirmed": 411,
+          "confirmed": 415,
           "date": "2020-04-08",
-          "deaths": 1,
+          "deaths": 2,
           "recovered": 53
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1191,
+          "confirmed": 1212,
           "date": "2020-04-08",
-          "deaths": 11,
+          "deaths": 12,
           "recovered": 620
         }
       },
       "Western Australia": {
         "live": {
-          "confirmed": 460,
+          "confirmed": 481,
           "date": "2020-04-08",
-          "deaths": 4,
+          "deaths": 6,
           "recovered": 162
         }
       }
@@ -149,7 +149,7 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 577,
+      "confirmed": 581,
       "date": "2020-04-08",
       "deaths": 23,
       "recovered": 42
@@ -318,7 +318,7 @@
           "confirmed": 543,
           "date": "2020-04-08",
           "deaths": 7,
-          "recovered": 406
+          "recovered": 418
         }
       },
       "Sichuan": {
@@ -525,10 +525,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 9248,
+      "confirmed": 9404,
       "date": "2020-04-08",
-      "deaths": 65,
-      "recovered": 770
+      "deaths": 71,
+      "recovered": 801
     }
   },
   "Italy": {
@@ -677,10 +677,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4062,
+      "confirmed": 4072,
       "date": "2020-04-08",
       "deaths": 58,
-      "recovered": 429
+      "recovered": 467
     }
   },
   "Panama": {
@@ -735,7 +735,7 @@
     "live": {
       "confirmed": 4417,
       "date": "2020-04-08",
-      "deaths": 197,
+      "deaths": 203,
       "recovered": 460
     }
   },
@@ -829,9 +829,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2258,
+      "confirmed": 2369,
       "date": "2020-04-08",
-      "deaths": 27,
+      "deaths": 30,
       "recovered": 888
     }
   },
@@ -1017,7 +1017,7 @@
         "live": {
           "confirmed": 810,
           "date": "2020-04-08",
-          "deaths": 7,
+          "deaths": 8,
           "recovered": 0
         }
       },
@@ -1137,7 +1137,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 520,
+      "confirmed": 534,
       "date": "2020-04-08",
       "deaths": 2,
       "recovered": 30

@@ -58,8 +58,8 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 5964,
-        "deaths": 39,
+        "confirmed": 5989,
+        "deaths": 42,
         "recovered": 1196
       },
       "states": {
@@ -89,8 +89,8 @@
           "tested": 63552
         },
         "SA": {
-          "confirmed": 411,
-          "deaths": 1,
+          "confirmed": 415,
+          "deaths": 2,
           "recovered": 53
         },
         "TAS": {
@@ -107,8 +107,8 @@
           "tested": 60000
         },
         "WA": {
-          "confirmed": 460,
-          "deaths": 4,
+          "confirmed": 481,
+          "deaths": 6,
           "recovered": 162
         }
       }
@@ -164,7 +164,7 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 577,
+        "confirmed": 581,
         "deaths": 23,
         "recovered": 42
       }
@@ -340,7 +340,7 @@
       "latest": {
         "confirmed": 82755,
         "deaths": 3337,
-        "recovered": 77519
+        "recovered": 77531
       },
       "states": {
         "Anhui": {
@@ -471,7 +471,7 @@
         "Shanghai": {
           "confirmed": 543,
           "deaths": 7,
-          "recovered": 406
+          "recovered": 418
         },
         "Shanxi": {
           "confirmed": 138,
@@ -964,9 +964,9 @@
     },
     "ISR": {
       "latest": {
-        "confirmed": 9248,
-        "deaths": 65,
-        "recovered": 770
+        "confirmed": 9404,
+        "deaths": 71,
+        "recovered": 801
       }
     },
     "ITA": {
@@ -1308,9 +1308,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 4062,
+        "confirmed": 4072,
         "deaths": 58,
-        "recovered": 429
+        "recovered": 467
       }
     },
     "PAN": {
@@ -1379,7 +1379,7 @@
     "ROU": {
       "latest": {
         "confirmed": 4417,
-        "deaths": 197,
+        "deaths": 203,
         "recovered": 460
       }
     },
@@ -1532,8 +1532,8 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2258,
-        "deaths": 27,
+        "confirmed": 2369,
+        "deaths": 30,
         "recovered": 888
       }
     },
@@ -1909,7 +1909,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 520,
+        "confirmed": 534,
         "deaths": 2,
         "recovered": 30
       }
