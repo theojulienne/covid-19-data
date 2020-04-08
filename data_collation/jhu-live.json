@@ -469,10 +469,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 817,
+      "confirmed": 895,
       "date": "2020-04-08",
-      "deaths": 47,
-      "recovered": 71
+      "deaths": 58,
+      "recovered": 94
     }
   },
   "Iceland": {
@@ -485,7 +485,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 5351,
+      "confirmed": 5356,
       "date": "2020-04-08",
       "deaths": 160,
       "recovered": 468
@@ -549,7 +549,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 697,
+      "confirmed": 704,
       "date": "2020-04-08",
       "deaths": 6,
       "recovered": 51
@@ -677,9 +677,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4035,
+      "confirmed": 4062,
       "date": "2020-04-08",
-      "deaths": 57,
+      "deaths": 58,
       "recovered": 429
     }
   },
@@ -1007,7 +1007,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 137437,
+          "confirmed": 137947,
           "date": "2020-04-08",
           "deaths": 5380,
           "recovered": 0
@@ -1087,7 +1087,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 6934,
+          "confirmed": 7220,
           "date": "2020-04-08",
           "deaths": 322,
           "recovered": 0
