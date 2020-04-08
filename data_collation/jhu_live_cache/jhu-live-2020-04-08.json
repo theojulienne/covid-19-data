@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 12941,
+      "confirmed": 12942,
       "date": "2020-04-08",
       "deaths": 273,
       "recovered": 4512
@@ -133,7 +133,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 803,
+      "confirmed": 804,
       "date": "2020-04-08",
       "deaths": 34,
       "recovered": 79
@@ -341,17 +341,17 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 1780,
+      "confirmed": 2054,
       "date": "2020-04-08",
-      "deaths": 50,
-      "recovered": 100
+      "deaths": 54,
+      "recovered": 123
     }
   },
   "Costa Rica": {
     "live": {
       "confirmed": 502,
       "date": "2020-04-08",
-      "deaths": 2,
+      "deaths": 3,
       "recovered": 29
     }
   },
@@ -461,9 +461,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 111779,
+      "confirmed": 112113,
       "date": "2020-04-08",
-      "deaths": 2196,
+      "deaths": 2208,
       "recovered": 36081
     }
   },
@@ -685,9 +685,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4196,
+      "confirmed": 4263,
       "date": "2020-04-08",
-      "deaths": 60,
+      "deaths": 61,
       "recovered": 467
     }
   },
@@ -805,9 +805,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 146690,
+      "confirmed": 148220,
       "date": "2020-04-08",
-      "deaths": 14673,
+      "deaths": 14792,
       "recovered": 48021
     }
   },
@@ -821,7 +821,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 23248,
+      "confirmed": 23280,
       "date": "2020-04-08",
       "deaths": 895,
       "recovered": 9800
@@ -943,9 +943,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 12067,
+          "confirmed": 13350,
           "date": "2020-04-08",
-          "deaths": 325,
+          "deaths": 400,
           "recovered": 0
         }
       },
@@ -1071,15 +1071,15 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 5532,
+          "confirmed": 5727,
           "date": "2020-04-08",
-          "deaths": 93,
+          "deaths": 101,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 807,
+          "confirmed": 858,
           "date": "2020-04-08",
           "deaths": 7,
           "recovered": 0
