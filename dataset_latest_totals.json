@@ -1602,9 +1602,9 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 420775,
-        "deaths": 14387,
-        "tested": 2193694
+        "confirmed": 422363,
+        "deaths": 14464,
+        "tested": 2199861
       },
       "states": {
         "AK": {
@@ -1714,10 +1714,10 @@
           "tested": 75401
         },
         "MA": {
-          "confirmed": 15202,
-          "deaths": 356,
-          "hospitalized": 1435,
-          "tested": 81344
+          "confirmed": 16790,
+          "deaths": 433,
+          "hospitalized": 1583,
+          "tested": 87511
         },
         "MD": {
           "confirmed": 5529,
