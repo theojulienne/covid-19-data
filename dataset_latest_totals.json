@@ -16,9 +16,9 @@
     },
     "ALB": {
       "latest": {
-        "confirmed": 383,
+        "confirmed": 400,
         "deaths": 22,
-        "recovered": 131
+        "recovered": 154
       }
     },
     "AND": {
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 12734,
+        "confirmed": 12738,
         "deaths": 273,
         "recovered": 4512
       }
@@ -324,8 +324,8 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 22328,
-        "deaths": 824,
+        "confirmed": 22488,
+        "deaths": 846,
         "recovered": 8704
       }
     },
@@ -338,9 +338,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82755,
+        "confirmed": 82780,
         "deaths": 3337,
-        "recovered": 77531
+        "recovered": 77559
       },
       "states": {
         "Anhui": {
@@ -404,9 +404,9 @@
           "recovered": 1252
         },
         "Hong Kong": {
-          "confirmed": 935,
+          "confirmed": 960,
           "deaths": 4,
-          "recovered": 236
+          "recovered": 264
         },
         "Hubei": {
           "confirmed": 67803,
@@ -943,8 +943,8 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 62589,
-        "deaths": 3872,
+        "confirmed": 67286,
+        "deaths": 4003,
         "recovered": 27039
       }
     },
@@ -1048,7 +1048,7 @@
     },
     "LBN": {
       "latest": {
-        "confirmed": 548,
+        "confirmed": 575,
         "deaths": 19,
         "recovered": 62
       }
@@ -1111,9 +1111,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 1184,
-        "deaths": 90,
-        "recovered": 93
+        "confirmed": 1242,
+        "deaths": 91,
+        "recovered": 97
       }
     },
     "MCO": {
@@ -1345,7 +1345,7 @@
       "latest": {
         "confirmed": 5000,
         "deaths": 136,
-        "recovered": 191
+        "recovered": 222
       }
     },
     "PRT": {
@@ -1378,9 +1378,9 @@
     },
     "ROU": {
       "latest": {
-        "confirmed": 4417,
+        "confirmed": 4761,
         "deaths": 209,
-        "recovered": 460
+        "recovered": 528
       }
     },
     "RUS": {
