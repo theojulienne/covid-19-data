@@ -158,7 +158,8 @@ var covid19_dataset_country_cmr = {
       555,
       650,
       658,
-      658
+      658,
+      685
     ],
     "deaths": [
       0,
@@ -316,7 +317,8 @@ var covid19_dataset_country_cmr = {
       17,
       17,
       17,
-      43
+      43,
+      60
     ]
   }
 };
