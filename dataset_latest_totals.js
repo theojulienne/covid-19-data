@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 12824,
+        "confirmed": 12852,
         "deaths": 273,
         "recovered": 4512
       }
@@ -171,9 +171,9 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "latest": {
-        "confirmed": 811,
+        "confirmed": 821,
         "deaths": 5,
-        "recovered": 465
+        "recovered": 467
       }
     },
     "BHS": {
@@ -185,7 +185,7 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 777,
+        "confirmed": 794,
         "deaths": 33,
         "recovered": 77
       }
@@ -213,8 +213,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 14072,
-        "deaths": 691,
+        "confirmed": 14152,
+        "deaths": 699,
         "recovered": 127
       }
     },
@@ -901,9 +901,9 @@ var covid19_dataset_latest_totals = {
     },
     "HRV": {
       "latest": {
-        "confirmed": 1282,
-        "deaths": 18,
-        "recovered": 167
+        "confirmed": 1343,
+        "deaths": 19,
+        "recovered": 179
       }
     },
     "HTI": {
@@ -1153,9 +1153,9 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "latest": {
-        "confirmed": 599,
-        "deaths": 26,
-        "recovered": 30
+        "confirmed": 617,
+        "deaths": 29,
+        "recovered": 35
       }
     },
     "MLI": {
@@ -1350,9 +1350,9 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "latest": {
-        "confirmed": 12442,
-        "deaths": 345,
-        "recovered": 184
+        "confirmed": 13141,
+        "deaths": 380,
+        "recovered": 196
       }
     },
     "PRY": {
@@ -1399,7 +1399,7 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 2795,
+        "confirmed": 2932,
         "deaths": 41,
         "recovered": 615
       }
@@ -1420,9 +1420,9 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "latest": {
-        "confirmed": 1481,
+        "confirmed": 1623,
         "deaths": 6,
-        "recovered": 377
+        "recovered": 406
       }
     },
     "SLE": {
@@ -1908,7 +1908,7 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 534,
+        "confirmed": 545,
         "deaths": 3,
         "recovered": 30
       }
