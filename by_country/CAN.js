@@ -322,7 +322,8 @@ var covid19_dataset_country_can = {
           38,
           38,
           38,
-          39
+          39,
+          43
         ]
       }
     },
@@ -2673,7 +2674,7 @@ var covid19_dataset_country_can = {
       259,
       339,
       375,
-      377
+      381
     ],
     "recovered": [
       0,
