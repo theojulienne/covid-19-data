@@ -1622,7 +1622,7 @@
         "AR": {
           "confirmed": 946,
           "deaths": 16,
-          "hospitalized": 130,
+          "hospitalized": 148,
           "tested": 13638
         },
         "AZ": {
@@ -1714,7 +1714,6 @@
         "LA": {
           "confirmed": 16284,
           "deaths": 582,
-          "hospitalized": 1707,
           "tested": 74655
         },
         "MA": {
