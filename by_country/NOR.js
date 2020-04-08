@@ -238,7 +238,7 @@ var covid19_dataset_country_nor = {
       71,
       76,
       89,
-      93
+      101
     ],
     "recovered": [
       0,

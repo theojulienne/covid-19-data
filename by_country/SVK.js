@@ -317,7 +317,8 @@ var covid19_dataset_country_svk = {
       10,
       10,
       8,
-      13
+      13,
+      16
     ]
   }
 };

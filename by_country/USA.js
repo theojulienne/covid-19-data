@@ -2083,7 +2083,8 @@ var covid19_dataset_country_usa = {
           902,
           998,
           1097,
-          1211
+          1211,
+          1440
         ],
         "deaths": [
           0,
@@ -2162,7 +2163,8 @@ var covid19_dataset_country_usa = {
           21,
           22,
           24,
-          22
+          22,
+          27
         ],
         "tested": [
           0,
@@ -2404,79 +2406,6 @@ var covid19_dataset_country_usa = {
           14,
           14,
           16
-        ],
-        "hospitalized": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          0,
-          0,
-          11,
-          13,
-          15,
-          31,
-          33,
-          45,
-          64,
-          57
         ],
         "tested": [
           0,
@@ -9824,7 +9753,8 @@ var covid19_dataset_country_usa = {
           46,
           46,
           46,
-          58
+          58,
+          65
         ],
         "tested": [
           0,
@@ -15494,7 +15424,8 @@ var covid19_dataset_country_usa = {
       305162,
       331671,
       360654,
-      391849
+      391849,
+      392078
     ],
     "deaths": [
       0,
@@ -15574,7 +15505,7 @@ var covid19_dataset_country_usa = {
       9472,
       10653,
       12591,
-      12597
+      12609
     ],
     "tested": [
       0,
