@@ -79,7 +79,8 @@ var covid19_dataset_country_aus = {
           93,
           96,
           96,
-          96
+          96,
+          99
         ],
         "deaths": [
           0,
@@ -155,6 +156,7 @@ var covid19_dataset_country_aus = {
           1,
           1,
           1,
+          2,
           2,
           2,
           2,
@@ -236,6 +238,7 @@ var covid19_dataset_country_aus = {
           18,
           18,
           28,
+          40,
           40,
           40
         ]
@@ -1786,6 +1789,7 @@ var covid19_dataset_country_aus = {
           12,
           16,
           18,
+          21,
           21
         ],
         "recovered": [
@@ -1811,6 +1815,7 @@ var covid19_dataset_country_aus = {
           2,
           2,
           2,
+          4,
           4,
           4,
           4,
@@ -2028,9 +2033,11 @@ var covid19_dataset_country_aus = {
           26,
           27,
           28,
+          28,
           28
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -2185,6 +2192,7 @@ var covid19_dataset_country_aus = {
           0,
           1,
           1,
+          2,
           2,
           2
         ]
@@ -4217,6 +4225,7 @@ var covid19_dataset_country_aus = {
           8,
           8,
           173,
+          173,
           173
         ],
         "tested": [
@@ -4297,7 +4306,7 @@ var covid19_dataset_country_aus = {
           57795,
           57795,
           96482,
-          63552
+          66766
         ]
       }
     },
@@ -4540,6 +4549,7 @@ var covid19_dataset_country_aus = {
           46,
           46,
           53,
+          53,
           53
         ]
       }
@@ -4623,7 +4633,8 @@ var covid19_dataset_country_aus = {
           80,
           82,
           86,
-          89
+          89,
+          98
         ],
         "deaths": [
           0,
@@ -4702,7 +4713,8 @@ var covid19_dataset_country_aus = {
           2,
           2,
           2,
-          2
+          2,
+          3
         ],
         "recovered": [
           0,
@@ -4780,6 +4792,7 @@ var covid19_dataset_country_aus = {
           5,
           5,
           5,
+          26,
           26,
           26
         ]
@@ -6411,6 +6424,7 @@ var covid19_dataset_country_aus = {
           92,
           92,
           162,
+          162,
           162
         ]
       }
@@ -6495,7 +6509,8 @@ var covid19_dataset_country_aus = {
     "2020-04-06",
     "2020-04-07",
     "2020-04-08",
-    "2020-04-09"
+    "2020-04-09",
+    "2020-04-10"
   ],
   "total": {
     "confirmed": [
@@ -6576,7 +6591,7 @@ var covid19_dataset_country_aus = {
       5687,
       5797,
       5895,
-      5989
+      6001
     ],
     "deaths": [
       0,
@@ -6656,7 +6671,7 @@ var covid19_dataset_country_aus = {
       32,
       35,
       39,
-      42
+      43
     ],
     "recovered": [
       0,

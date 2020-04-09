@@ -78,7 +78,8 @@ var covid19_dataset_country_aze = {
     "2020-04-06",
     "2020-04-07",
     "2020-04-08",
-    "2020-04-09"
+    "2020-04-09",
+    "2020-04-10"
   ],
   "total": {
     "confirmed": [
@@ -238,6 +239,7 @@ var covid19_dataset_country_aze = {
       5,
       7,
       7,
+      8,
       8
     ],
     "recovered": [

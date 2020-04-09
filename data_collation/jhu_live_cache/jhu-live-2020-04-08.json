@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 15927,
+      "confirmed": 16170,
       "date": "2020-04-08",
-      "deaths": 800,
+      "deaths": 819,
       "recovered": 127
     }
   },
@@ -199,9 +199,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 9340,
+          "confirmed": 10031,
           "date": "2020-04-08",
-          "deaths": 150,
+          "deaths": 175,
           "recovered": 0
         }
       }
@@ -389,7 +389,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 5221,
+      "confirmed": 5312,
       "date": "2020-04-08",
       "deaths": 99,
       "recovered": 233
@@ -461,10 +461,10 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 112113,
+      "confirmed": 113296,
       "date": "2020-04-08",
-      "deaths": 2208,
-      "recovered": 36081
+      "deaths": 2349,
+      "recovered": 46300
     }
   },
   "Greece": {
@@ -757,7 +757,7 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 3122,
+      "confirmed": 2932,
       "date": "2020-04-08",
       "deaths": 41,
       "recovered": 631
@@ -879,17 +879,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 15247,
+          "confirmed": 16144,
           "date": "2020-04-08",
-          "deaths": 381,
+          "deaths": 417,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 3935,
+          "confirmed": 4137,
           "date": "2020-04-08",
-          "deaths": 119,
+          "deaths": 154,
           "recovered": 0
         }
       },
@@ -903,7 +903,7 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 571,
+          "confirmed": 636,
           "date": "2020-04-08",
           "deaths": 9,
           "recovered": 0
@@ -975,9 +975,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 14401,
+          "confirmed": 15988,
           "date": "2020-04-08",
-          "deaths": 308,
+          "deaths": 377,
           "recovered": 0
         }
       },
@@ -1015,17 +1015,17 @@
       },
       "New York": {
         "live": {
-          "confirmed": 148127,
+          "confirmed": 148426,
           "date": "2020-04-08",
-          "deaths": 6009,
+          "deaths": 6047,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 830,
+          "confirmed": 848,
           "date": "2020-04-08",
-          "deaths": 8,
+          "deaths": 10,
           "recovered": 0
         }
       },
@@ -1055,7 +1055,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 715,
+          "confirmed": 832,
           "date": "2020-04-08",
           "deaths": 3,
           "recovered": 0
@@ -1095,9 +1095,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 7220,
+          "confirmed": 7493,
           "date": "2020-04-08",
-          "deaths": 322,
+          "deaths": 340,
           "recovered": 0
         }
       },
