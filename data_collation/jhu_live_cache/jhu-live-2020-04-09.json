@@ -895,9 +895,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 6845,
+          "confirmed": 7652,
           "date": "2020-04-09",
-          "deaths": 240,
+          "deaths": 293,
           "recovered": 0
         }
       },
@@ -1071,9 +1071,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 6545,
+          "confirmed": 6596,
           "date": "2020-04-09",
-          "deaths": 114,
+          "deaths": 116,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 7416,
+          "confirmed": 7449,
           "date": "2020-04-09",
-          "deaths": 340,
+          "deaths": 341,
           "recovered": 0
         }
       },
