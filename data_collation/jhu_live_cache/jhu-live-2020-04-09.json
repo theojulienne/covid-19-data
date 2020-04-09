@@ -341,10 +341,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 2054,
+      "confirmed": 2223,
       "date": "2020-04-09",
-      "deaths": 55,
-      "recovered": 123
+      "deaths": 69,
+      "recovered": 174
     }
   },
   "Costa Rica": {
@@ -461,10 +461,10 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 115523,
+      "confirmed": 116801,
       "date": "2020-04-09",
       "deaths": 2451,
-      "recovered": 50557
+      "recovered": 52407
     }
   },
   "Greece": {
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 4812,
           "date": "2020-04-09",
-          "deaths": 105,
+          "deaths": 104,
           "recovered": 0
         }
       },
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 18515,
           "date": "2020-04-09",
-          "deaths": 882,
+          "deaths": 978,
           "recovered": 0
         }
       },
@@ -1015,9 +1015,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 157285,
+          "confirmed": 158675,
           "date": "2020-04-09",
-          "deaths": 6730,
+          "deaths": 6769,
           "recovered": 0
         }
       },
@@ -1061,19 +1061,27 @@
           "recovered": 0
         }
       },
+      "South Carolina": {
+        "live": {
+          "confirmed": 417,
+          "date": "2020-04-09",
+          "deaths": 10,
+          "recovered": 0
+        }
+      },
       "Tennessee": {
         "live": {
           "confirmed": 2010,
           "date": "2020-04-09",
-          "deaths": 30,
+          "deaths": 33,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 6396,
+          "confirmed": 6704,
           "date": "2020-04-09",
-          "deaths": 114,
+          "deaths": 110,
           "recovered": 0
         }
       },
@@ -1103,9 +1111,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1461,
+          "confirmed": 1484,
           "date": "2020-04-09",
-          "deaths": 59,
+          "deaths": 65,
           "recovered": 0
         }
       }
@@ -1121,10 +1129,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 2659,
+      "confirmed": 2990,
       "date": "2020-04-09",
-      "deaths": 12,
-      "recovered": 239
+      "deaths": 14,
+      "recovered": 268
     }
   },
   "United Kingdom": {

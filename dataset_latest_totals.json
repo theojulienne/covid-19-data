@@ -30,9 +30,9 @@
     },
     "ARE": {
       "latest": {
-        "confirmed": 2659,
-        "deaths": 12,
-        "recovered": 239
+        "confirmed": 2990,
+        "deaths": 14,
+        "recovered": 268
       }
     },
     "ARG": {
@@ -540,9 +540,9 @@
     },
     "COL": {
       "latest": {
-        "confirmed": 2054,
-        "deaths": 55,
-        "recovered": 123
+        "confirmed": 2223,
+        "deaths": 69,
+        "recovered": 174
       }
     },
     "CPV": {
@@ -582,9 +582,9 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 115523,
+        "confirmed": 116801,
         "deaths": 2451,
-        "recovered": 50557
+        "recovered": 52407
       }
     },
     "DJI": {
