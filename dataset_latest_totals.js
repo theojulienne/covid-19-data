@@ -1762,7 +1762,6 @@ var covid19_dataset_latest_totals = {
         "NC": {
           "confirmed": 3426,
           "deaths": 53,
-          "hospitalized": 259,
           "tested": 42987
         },
         "ND": {
