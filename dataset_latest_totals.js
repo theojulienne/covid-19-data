@@ -1789,7 +1789,6 @@ var covid19_dataset_latest_totals = {
         "NM": {
           "confirmed": 794,
           "deaths": 13,
-          "hospitalized": 31,
           "tested": 22245
         },
         "NV": {
