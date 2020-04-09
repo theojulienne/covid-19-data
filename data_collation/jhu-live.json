@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 16474,
+      "confirmed": 17857,
       "date": "2020-04-09",
-      "deaths": 839,
+      "deaths": 941,
       "recovered": 173
     }
   },
@@ -464,7 +464,7 @@
       "confirmed": 115523,
       "date": "2020-04-09",
       "deaths": 2451,
-      "recovered": 46300
+      "recovered": 50557
     }
   },
   "Greece": {
@@ -659,6 +659,14 @@
       "recovered": 317
     }
   },
+  "Niger": {
+    "live": {
+      "confirmed": 410,
+      "date": "2020-04-09",
+      "deaths": 11,
+      "recovered": 40
+    }
+  },
   "North Macedonia": {
     "live": {
       "confirmed": 663,
@@ -669,7 +677,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6160,
+      "confirmed": 6162,
       "date": "2020-04-09",
       "deaths": 108,
       "recovered": 32
@@ -855,7 +863,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 492,
+          "confirmed": 507,
           "date": "2020-04-09",
           "deaths": 14,
           "recovered": 0
@@ -943,9 +951,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 3335,
+          "confirmed": 2940,
           "date": "2020-04-09",
-          "deaths": 116,
+          "deaths": 100,
           "recovered": 0
         }
       },
@@ -975,9 +983,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 17582,
+          "confirmed": 18515,
           "date": "2020-04-09",
-          "deaths": 873,
+          "deaths": 882,
           "recovered": 0
         }
       },
@@ -1015,7 +1023,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 848,
+          "confirmed": 861,
           "date": "2020-04-09",
           "deaths": 10,
           "recovered": 0
@@ -1055,7 +1063,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 1858,
+          "confirmed": 2010,
           "date": "2020-04-09",
           "deaths": 30,
           "recovered": 0
