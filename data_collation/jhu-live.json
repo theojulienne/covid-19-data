@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13074,
+      "confirmed": 13105,
       "date": "2020-04-09",
       "deaths": 295,
       "recovered": 5240
@@ -109,10 +109,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 823,
+      "confirmed": 855,
       "date": "2020-04-09",
       "deaths": 5,
-      "recovered": 477
+      "recovered": 495
     }
   },
   "Belarus": {
@@ -144,7 +144,7 @@
       "confirmed": 16238,
       "date": "2020-04-09",
       "deaths": 823,
-      "recovered": 127
+      "recovered": 173
     }
   },
   "Bulgaria": {
@@ -365,10 +365,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1343,
+      "confirmed": 1407,
       "date": "2020-04-09",
-      "deaths": 19,
-      "recovered": 179
+      "deaths": 20,
+      "recovered": 219
     }
   },
   "Cuba": {
@@ -397,10 +397,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 5402,
+      "confirmed": 5635,
       "date": "2020-04-09",
-      "deaths": 218,
-      "recovered": 1621
+      "deaths": 237,
+      "recovered": 1736
     }
   },
   "Diamond Princess": {
@@ -493,10 +493,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 5916,
+      "confirmed": 6237,
       "date": "2020-04-09",
-      "deaths": 178,
-      "recovered": 506
+      "deaths": 186,
+      "recovered": 569
     }
   },
   "Indonesia": {
@@ -560,7 +560,7 @@
       "confirmed": 764,
       "date": "2020-04-09",
       "deaths": 7,
-      "recovered": 55
+      "recovered": 58
     }
   },
   "Korea, South": {
@@ -599,7 +599,7 @@
     "live": {
       "confirmed": 955,
       "date": "2020-04-09",
-      "deaths": 15,
+      "deaths": 16,
       "recovered": 8
     }
   },
@@ -632,7 +632,7 @@
       "confirmed": 1174,
       "date": "2020-04-09",
       "deaths": 28,
-      "recovered": 43
+      "recovered": 50
     }
   },
   "Morocco": {
@@ -645,9 +645,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 20549,
+      "confirmed": 21762,
       "date": "2020-04-09",
-      "deaths": 2248,
+      "deaths": 2396,
       "recovered": 250
     }
   },
@@ -661,10 +661,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 617,
+      "confirmed": 663,
       "date": "2020-04-09",
-      "deaths": 29,
-      "recovered": 35
+      "deaths": 30,
+      "recovered": 37
     }
   },
   "Norway": {
@@ -813,17 +813,17 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 8419,
+      "confirmed": 9141,
       "date": "2020-04-09",
-      "deaths": 687,
+      "deaths": 793,
       "recovered": 205
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 23514,
+      "confirmed": 23612,
       "date": "2020-04-09",
-      "deaths": 913,
+      "deaths": 926,
       "recovered": 9800
     }
   },
