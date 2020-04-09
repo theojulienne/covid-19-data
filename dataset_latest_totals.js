@@ -1604,7 +1604,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 422363,
         "deaths": 14480,
-        "tested": 2199861
+        "tested": 2205866
       },
       "states": {
         "AK": {
@@ -1711,7 +1711,7 @@ var covid19_dataset_latest_totals = {
         "LA": {
           "confirmed": 17030,
           "deaths": 652,
-          "tested": 75401
+          "tested": 81406
         },
         "MA": {
           "confirmed": 16790,
