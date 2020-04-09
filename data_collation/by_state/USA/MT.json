@@ -1,5 +1,10 @@
 {
   "timeseries_dates": [
+    "2020-02-28",
+    "2020-02-29",
+    "2020-03-01",
+    "2020-03-02",
+    "2020-03-03",
     "2020-03-04",
     "2020-03-05",
     "2020-03-06",
@@ -39,6 +44,11 @@
   ],
   "total": {
     "confirmed": [
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       null,
@@ -101,6 +111,11 @@
       null,
       null,
       null,
+      null,
+      null,
+      null,
+      null,
+      null,
       1,
       1,
       4,
@@ -115,6 +130,11 @@
       6
     ],
     "hospitalized": [
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       null,
@@ -153,6 +173,11 @@
       31
     ],
     "tested": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0,
