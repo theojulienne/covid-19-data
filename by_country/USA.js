@@ -9154,7 +9154,7 @@ var covid19_dataset_country_usa = {
           41090,
           44416,
           47437,
-          49968
+          49576
         ],
         "deaths": [
           0,
@@ -9235,7 +9235,7 @@ var covid19_dataset_country_usa = {
           1003,
           1232,
           1504,
-          1567
+          1662
         ],
         "tested": [
           0,
@@ -9888,7 +9888,7 @@ var covid19_dataset_country_usa = {
           130689,
           138863,
           149316,
-          157215
+          157285
         ],
         "deaths": [
           0,
@@ -9969,7 +9969,7 @@ var covid19_dataset_country_usa = {
           4758,
           5489,
           6268,
-          6725
+          6730
         ],
         "hospitalized": [
           0,
@@ -15309,7 +15309,7 @@ var covid19_dataset_country_usa = {
       361494,
       392612,
       422836,
-      433349
+      433027
     ],
     "deaths": [
       0,
@@ -15390,7 +15390,7 @@ var covid19_dataset_country_usa = {
       10678,
       12598,
       14464,
-      15013
+      15113
     ],
     "tested": [
       0,
