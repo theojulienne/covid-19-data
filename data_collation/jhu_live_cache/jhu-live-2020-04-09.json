@@ -185,7 +185,7 @@
         "live": {
           "confirmed": 1336,
           "date": "2020-04-09",
-          "deaths": 43,
+          "deaths": 48,
           "recovered": 0
         }
       },
@@ -219,8 +219,8 @@
     "subseries": {
       "Anhui": {
         "live": {
-          "confirmed": 990,
-          "date": "2020-03-08",
+          "confirmed": 991,
+          "date": "2020-04-09",
           "deaths": 6,
           "recovered": 984
         }
@@ -228,9 +228,9 @@
       "Beijing": {
         "live": {
           "confirmed": 588,
-          "date": "2020-04-08",
+          "date": "2020-04-09",
           "deaths": 8,
-          "recovered": 455
+          "recovered": 464
         }
       },
       "Chongqing": {
@@ -243,16 +243,16 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1536,
-          "date": "2020-04-08",
+          "confirmed": 1539,
+          "date": "2020-04-09",
           "deaths": 8,
-          "recovered": 1411
+          "recovered": 1423
         }
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 569,
-          "date": "2020-04-08",
+          "confirmed": 609,
+          "date": "2020-04-09",
           "deaths": 13,
           "recovered": 470
         }
@@ -276,9 +276,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-08",
-          "deaths": 3213,
-          "recovered": 64142
+          "date": "2020-04-09",
+          "deaths": 3215,
+          "recovered": 64187
         }
       },
       "Hunan": {
@@ -308,17 +308,17 @@
       "Shandong": {
         "live": {
           "confirmed": 783,
-          "date": "2020-04-08",
+          "date": "2020-04-09",
           "deaths": 7,
-          "recovered": 755
+          "recovered": 756
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 543,
-          "date": "2020-04-08",
+          "confirmed": 552,
+          "date": "2020-04-09",
           "deaths": 7,
-          "recovered": 418
+          "recovered": 417
         }
       },
       "Sichuan": {
@@ -331,10 +331,10 @@
       },
       "Zhejiang": {
         "live": {
-          "confirmed": 1266,
-          "date": "2020-04-08",
+          "confirmed": 1267,
+          "date": "2020-04-09",
           "deaths": 1,
-          "recovered": 1232
+          "recovered": 1235
         }
       }
     }
@@ -453,7 +453,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 112950,
+      "confirmed": 82048,
       "date": "2020-04-09",
       "deaths": 10869,
       "recovered": 21254
@@ -565,10 +565,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10384,
+      "confirmed": 10423,
       "date": "2020-04-09",
-      "deaths": 200,
-      "recovered": 6776
+      "deaths": 204,
+      "recovered": 6973
     }
   },
   "Kuwait": {
@@ -621,9 +621,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 2785,
+      "confirmed": 3181,
       "date": "2020-04-09",
-      "deaths": 141,
+      "deaths": 174,
       "recovered": 633
     }
   },
@@ -653,10 +653,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1210,
+      "confirmed": 1239,
       "date": "2020-04-09",
       "deaths": 1,
-      "recovered": 282
+      "recovered": 317
     }
   },
   "North Macedonia": {
@@ -830,9 +830,9 @@
   "Taiwan*": {
     "live": {
       "confirmed": 379,
-      "date": "2020-04-08",
+      "date": "2020-04-09",
       "deaths": 5,
-      "recovered": 61
+      "recovered": 67
     }
   },
   "Thailand": {
@@ -879,9 +879,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 16144,
+          "confirmed": 16314,
           "date": "2020-04-09",
-          "deaths": 417,
+          "deaths": 425,
           "recovered": 0
         }
       },
@@ -927,17 +927,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 5054,
+          "confirmed": 5009,
           "date": "2020-04-09",
-          "deaths": 163,
+          "deaths": 169,
           "recovered": 0
         }
       },
       "Idaho": {
         "live": {
-          "confirmed": 866,
+          "confirmed": 875,
           "date": "2020-04-09",
-          "deaths": 7,
+          "deaths": 10,
           "recovered": 0
         }
       },
@@ -1041,7 +1041,7 @@
         "live": {
           "confirmed": 13826,
           "date": "2020-04-09",
-          "deaths": 264,
+          "deaths": 265,
           "recovered": 0
         }
       },
