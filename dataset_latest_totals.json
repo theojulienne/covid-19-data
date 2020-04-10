@@ -255,18 +255,18 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 20654,
-        "deaths": 503,
+        "confirmed": 20682,
+        "deaths": 508,
         "recovered": 5162
       },
       "states": {
         "Alberta": {
-          "confirmed": 1423,
-          "deaths": 29
+          "confirmed": 1451,
+          "deaths": 32
         },
         "British Columbia": {
           "confirmed": 1336,
-          "deaths": 48
+          "deaths": 50
         },
         "Diamond Princess": {
           "confirmed": 0,
@@ -519,9 +519,9 @@
     },
     "CMR": {
       "latest": {
-        "confirmed": 730,
-        "deaths": 10,
-        "recovered": 60
+        "confirmed": 803,
+        "deaths": 12,
+        "recovered": 61
       }
     },
     "COD": {
@@ -992,9 +992,9 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 4667,
-        "deaths": 94,
-        "recovered": 632
+        "confirmed": 4979,
+        "deaths": 99,
+        "recovered": 685
       }
     },
     "KAZ": {
@@ -1146,8 +1146,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 3181,
-        "deaths": 174,
+        "confirmed": 3441,
+        "deaths": 194,
         "recovered": 633
       }
     },
@@ -1595,9 +1595,9 @@
     },
     "URY": {
       "latest": {
-        "confirmed": 456,
+        "confirmed": 473,
         "deaths": 7,
-        "recovered": 192
+        "recovered": 206
       }
     },
     "USA": {
