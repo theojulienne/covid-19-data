@@ -326,7 +326,8 @@ var covid19_dataset_country_tha = {
       793,
       888,
       888,
-      940
+      940,
+      1013
     ]
   }
 };

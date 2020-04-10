@@ -244,7 +244,8 @@ var covid19_dataset_country_ltu = {
       15,
       15,
       15,
-      16
+      16,
+      17
     ],
     "recovered": [
       0,

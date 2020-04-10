@@ -2,7 +2,7 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 484,
+        "confirmed": 521,
         "deaths": 15,
         "recovered": 32
       }
@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 13244,
+        "confirmed": 13271,
         "deaths": 295,
         "recovered": 5240
       }
@@ -164,9 +164,9 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "latest": {
-        "confirmed": 618,
+        "confirmed": 624,
         "deaths": 24,
-        "recovered": 48
+        "recovered": 54
       }
     },
     "BHR": {
@@ -915,9 +915,9 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "latest": {
-        "confirmed": 980,
-        "deaths": 66,
-        "recovered": 96
+        "confirmed": 1190,
+        "deaths": 77,
+        "recovered": 112
       }
     },
     "IDN": {
@@ -929,8 +929,8 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 6725,
-        "deaths": 227,
+        "confirmed": 6771,
+        "deaths": 228,
         "recovered": 635
       }
     },
@@ -1091,7 +1091,7 @@ var covid19_dataset_latest_totals = {
     "LTU": {
       "latest": {
         "confirmed": 999,
-        "deaths": 16,
+        "deaths": 17,
         "recovered": 8
       }
     },
@@ -1310,7 +1310,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 4601,
         "deaths": 66,
-        "recovered": 572
+        "recovered": 727
       }
     },
     "PAN": {
@@ -1534,7 +1534,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 2473,
         "deaths": 33,
-        "recovered": 940
+        "recovered": 1013
       }
     },
     "TLS": {
@@ -1900,7 +1900,7 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 582,
+        "confirmed": 624,
         "deaths": 3,
         "recovered": 38
       }
