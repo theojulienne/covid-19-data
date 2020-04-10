@@ -93,7 +93,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13453,
+      "confirmed": 13494,
       "date": "2020-04-10",
       "deaths": 319,
       "recovered": 6064
@@ -157,9 +157,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 624,
+      "confirmed": 635,
       "date": "2020-04-10",
-      "deaths": 24,
+      "deaths": 25,
       "recovered": 54
     }
   },
@@ -469,7 +469,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 118235,
+      "confirmed": 119401,
       "date": "2020-04-10",
       "deaths": 2607,
       "recovered": 52407
@@ -493,10 +493,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1648,
+      "confirmed": 1675,
       "date": "2020-04-10",
       "deaths": 6,
-      "recovered": 688
+      "recovered": 751
     }
   },
   "India": {
@@ -568,7 +568,7 @@
       "confirmed": 802,
       "date": "2020-04-10",
       "deaths": 9,
-      "recovered": 63
+      "recovered": 64
     }
   },
   "Korea, South": {
@@ -637,7 +637,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 1289,
+      "confirmed": 1438,
       "date": "2020-04-10",
       "deaths": 29,
       "recovered": 56
@@ -685,7 +685,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6233,
+      "confirmed": 6244,
       "date": "2020-04-10",
       "deaths": 108,
       "recovered": 32
@@ -789,15 +789,15 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 1910,
+      "confirmed": 2108,
       "date": "2020-04-10",
-      "deaths": 6,
-      "recovered": 460
+      "deaths": 7,
+      "recovered": 492
     }
   },
   "Slovakia": {
     "live": {
-      "confirmed": 701,
+      "confirmed": 715,
       "date": "2020-04-10",
       "deaths": 2,
       "recovered": 23
@@ -837,9 +837,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 24172,
+      "confirmed": 24427,
       "date": "2020-04-10",
-      "deaths": 958,
+      "deaths": 987,
       "recovered": 10600
     }
   },
@@ -975,9 +975,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 4812,
+          "confirmed": 5419,
           "date": "2020-04-10",
-          "deaths": 104,
+          "deaths": 130,
           "recovered": 0
         }
       },
