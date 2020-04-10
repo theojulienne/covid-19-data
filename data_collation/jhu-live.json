@@ -141,9 +141,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 18145,
+      "confirmed": 18176,
       "date": "2020-04-10",
-      "deaths": 954,
+      "deaths": 957,
       "recovered": 173
     }
   },
@@ -243,10 +243,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1539,
-          "date": "2020-04-09",
+          "confirmed": 1544,
+          "date": "2020-04-10",
           "deaths": 8,
-          "recovered": 1423
+          "recovered": 1434
         }
       },
       "Heilongjiang": {
@@ -276,9 +276,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-09",
-          "deaths": 3215,
-          "recovered": 64187
+          "date": "2020-04-10",
+          "deaths": 3216,
+          "recovered": 64236
         }
       },
       "Hunan": {
@@ -549,7 +549,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 4979,
+      "confirmed": 5530,
       "date": "2020-04-10",
       "deaths": 99,
       "recovered": 685
@@ -557,9 +557,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 781,
+      "confirmed": 802,
       "date": "2020-04-10",
-      "deaths": 8,
+      "deaths": 9,
       "recovered": 60
     }
   },
@@ -879,9 +879,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 17159,
+          "confirmed": 17247,
           "date": "2020-04-10",
-          "deaths": 469,
+          "deaths": 473,
           "recovered": 0
         }
       },
@@ -1015,9 +1015,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 158932,
+          "confirmed": 158940,
           "date": "2020-04-10",
-          "deaths": 6914,
+          "deaths": 6916,
           "recovered": 0
         }
       },

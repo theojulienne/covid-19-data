@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 18145,
-        "deaths": 954,
+        "confirmed": 18176,
+        "deaths": 957,
         "recovered": 173
       }
     },
@@ -338,9 +338,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 82915,
-        "deaths": 3339,
-        "recovered": 77691
+        "confirmed": 82920,
+        "deaths": 3340,
+        "recovered": 77751
       },
       "states": {
         "Anhui": {
@@ -369,9 +369,9 @@
           "recovered": 135
         },
         "Guangdong": {
-          "confirmed": 1539,
+          "confirmed": 1544,
           "deaths": 8,
-          "recovered": 1423
+          "recovered": 1434
         },
         "Guangxi": {
           "confirmed": 254,
@@ -410,8 +410,8 @@
         },
         "Hubei": {
           "confirmed": 67803,
-          "deaths": 3215,
-          "recovered": 64187
+          "deaths": 3216,
+          "recovered": 64236
         },
         "Hunan": {
           "confirmed": 1019,
@@ -992,15 +992,15 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 4979,
+        "confirmed": 5530,
         "deaths": 99,
         "recovered": 685
       }
     },
     "KAZ": {
       "latest": {
-        "confirmed": 781,
-        "deaths": 8,
+        "confirmed": 802,
+        "deaths": 9,
         "recovered": 60
       }
     },
