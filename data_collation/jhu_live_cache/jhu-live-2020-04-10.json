@@ -54,7 +54,7 @@
           "confirmed": 965,
           "date": "2020-04-10",
           "deaths": 4,
-          "recovered": 345
+          "recovered": 372
         }
       },
       "South Australia": {
@@ -62,7 +62,7 @@
           "confirmed": 428,
           "date": "2020-04-10",
           "deaths": 3,
-          "recovered": 120
+          "recovered": 179
         }
       },
       "Victoria": {
@@ -70,7 +70,7 @@
           "confirmed": 1241,
           "date": "2020-04-10",
           "deaths": 13,
-          "recovered": 736
+          "recovered": 926
         }
       },
       "Western Australia": {
@@ -78,7 +78,7 @@
           "confirmed": 506,
           "date": "2020-04-10",
           "deaths": 6,
-          "recovered": 170
+          "recovered": 203
         }
       }
     }
@@ -456,7 +456,7 @@
       "confirmed": 120157,
       "date": "2020-04-10",
       "deaths": 2688,
-      "recovered": 52407
+      "recovered": 53913
     }
   },
   "Greece": {
@@ -525,10 +525,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 10095,
+      "confirmed": 10408,
       "date": "2020-04-10",
       "deaths": 95,
-      "recovered": 1061
+      "recovered": 1183
     }
   },
   "Italy": {
@@ -661,7 +661,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6298,
+      "confirmed": 6314,
       "date": "2020-04-10",
       "deaths": 113,
       "recovered": 32
@@ -927,7 +927,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 14492,
+          "confirmed": 15787,
           "date": "2020-04-10",
           "deaths": 460,
           "recovered": 0
@@ -967,9 +967,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 18515,
+          "confirmed": 19510,
           "date": "2020-04-10",
-          "deaths": 978,
+          "deaths": 1160,
           "recovered": 0
         }
       },
@@ -999,9 +999,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 168095,
+          "confirmed": 169670,
           "date": "2020-04-10",
-          "deaths": 7717,
+          "deaths": 7798,
           "recovered": 0
         }
       },
@@ -1047,7 +1047,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 2010,
+          "confirmed": 2131,
           "date": "2020-04-10",
           "deaths": 33,
           "recovered": 0
@@ -1063,7 +1063,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 935,
+          "confirmed": 1011,
           "date": "2020-04-10",
           "deaths": 7,
           "recovered": 0
