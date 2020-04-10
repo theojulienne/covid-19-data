@@ -79,7 +79,8 @@ var covid19_dataset_country_sgp = {
     "2020-04-07",
     "2020-04-08",
     "2020-04-09",
-    "2020-04-10"
+    "2020-04-10",
+    "2020-04-11"
   ],
   "total": {
     "confirmed": [
@@ -237,6 +238,7 @@ var covid19_dataset_country_sgp = {
       3,
       4,
       5,
+      6,
       6,
       6,
       6,

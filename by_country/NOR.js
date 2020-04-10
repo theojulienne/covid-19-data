@@ -79,7 +79,8 @@ var covid19_dataset_country_nor = {
     "2020-04-07",
     "2020-04-08",
     "2020-04-09",
-    "2020-04-10"
+    "2020-04-10",
+    "2020-04-11"
   ],
   "total": {
     "confirmed": [
@@ -161,7 +162,7 @@ var covid19_dataset_country_nor = {
       5865,
       6086,
       6086,
-      6162
+      6211
     ],
     "deaths": [
       0,
@@ -316,6 +317,7 @@ var covid19_dataset_country_nor = {
       12,
       13,
       13,
+      32,
       32,
       32,
       32,

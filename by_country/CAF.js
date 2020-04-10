@@ -79,7 +79,8 @@ var covid19_dataset_country_caf = {
     "2020-04-07",
     "2020-04-08",
     "2020-04-09",
-    "2020-04-10"
+    "2020-04-10",
+    "2020-04-11"
   ],
   "total": {
     "confirmed": [
@@ -155,6 +156,7 @@ var covid19_dataset_country_caf = {
       3,
       3,
       3,
+      8,
       8,
       8,
       8,
@@ -240,9 +242,11 @@ var covid19_dataset_country_caf = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

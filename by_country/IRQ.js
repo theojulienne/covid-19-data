@@ -79,7 +79,8 @@ var covid19_dataset_country_irq = {
     "2020-04-07",
     "2020-04-08",
     "2020-04-09",
-    "2020-04-10"
+    "2020-04-10",
+    "2020-04-11"
   ],
   "total": {
     "confirmed": [
@@ -241,6 +242,7 @@ var covid19_dataset_country_irq = {
       61,
       64,
       65,
+      69,
       69
     ],
     "recovered": [

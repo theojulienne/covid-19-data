@@ -79,7 +79,8 @@ var covid19_dataset_country_slv = {
     "2020-04-07",
     "2020-04-08",
     "2020-04-09",
-    "2020-04-10"
+    "2020-04-10",
+    "2020-04-11"
   ],
   "total": {
     "confirmed": [
@@ -160,7 +161,8 @@ var covid19_dataset_country_slv = {
       62,
       69,
       78,
-      93
+      93,
+      103
     ],
     "deaths": [
       0,
@@ -240,7 +242,8 @@ var covid19_dataset_country_slv = {
       3,
       4,
       4,
-      5
+      5,
+      6
     ],
     "recovered": [
       0,
@@ -320,7 +323,8 @@ var covid19_dataset_country_slv = {
       2,
       5,
       5,
-      9
+      9,
+      14
     ]
   }
 };
