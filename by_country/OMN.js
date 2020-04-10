@@ -162,7 +162,8 @@ var covid19_dataset_country_omn = {
       331,
       371,
       419,
-      457
+      457,
+      484
     ],
     "deaths": [
       0,
