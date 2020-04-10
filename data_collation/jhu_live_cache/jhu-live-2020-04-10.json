@@ -597,7 +597,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 955,
+      "confirmed": 999,
       "date": "2020-04-10",
       "deaths": 16,
       "recovered": 8
@@ -693,9 +693,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4489,
+      "confirmed": 4601,
       "date": "2020-04-10",
-      "deaths": 65,
+      "deaths": 66,
       "recovered": 572
     }
   },
@@ -783,7 +783,7 @@
     "live": {
       "confirmed": 1910,
       "date": "2020-04-10",
-      "deaths": 7,
+      "deaths": 6,
       "recovered": 460
     }
   },
@@ -837,9 +837,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2423,
+      "confirmed": 2473,
       "date": "2020-04-10",
-      "deaths": 32,
+      "deaths": 33,
       "recovered": 940
     }
   },
