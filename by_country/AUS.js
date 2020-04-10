@@ -2330,6 +2330,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Cairns and Hinterland": [
@@ -2410,7 +2411,8 @@ var covid19_dataset_country_aus = {
             30,
             30,
             30,
-            30
+            32,
+            11
           ],
           "Central Qld": [
             0,
@@ -2475,6 +2477,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             3,
+            0,
             0,
             0,
             0,
@@ -2570,9 +2573,11 @@ var covid19_dataset_country_aus = {
             8,
             8,
             8,
-            8
+            8,
+            3
           ],
           "Central West": [
+            0,
             0,
             0,
             0,
@@ -2730,7 +2735,8 @@ var covid19_dataset_country_aus = {
             40,
             40,
             40,
-            40
+            41,
+            20
           ],
           "Gold Coast": [
             0,
@@ -2810,7 +2816,8 @@ var covid19_dataset_country_aus = {
             174,
             175,
             177,
-            177
+            178,
+            106
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -2871,6 +2878,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             1,
+            0,
             0,
             0,
             0,
@@ -2970,6 +2978,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Mackay": [
@@ -3050,7 +3059,8 @@ var covid19_dataset_country_aus = {
             12,
             12,
             13,
-            13
+            13,
+            8
           ],
           "Metro North": [
             0,
@@ -3130,7 +3140,8 @@ var covid19_dataset_country_aus = {
             274,
             280,
             284,
-            284
+            286,
+            211
           ],
           "Metro South": [
             0,
@@ -3210,9 +3221,11 @@ var covid19_dataset_country_aus = {
             206,
             213,
             219,
-            219
+            218,
+            138
           ],
           "North West": [
+            0,
             0,
             0,
             0,
@@ -3370,7 +3383,8 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
-            0
+            0,
+            1
           ],
           "Overseas/interstate": [
             0,
@@ -3450,9 +3464,11 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "South West": [
+            0,
             0,
             0,
             0,
@@ -3610,7 +3626,8 @@ var covid19_dataset_country_aus = {
             84,
             84,
             84,
-            84
+            85,
+            25
           ],
           "TBC": [
             0,
@@ -3690,9 +3707,11 @@ var covid19_dataset_country_aus = {
             0,
             0,
             0,
+            0,
             0
           ],
           "Torres and Cape": [
+            0,
             0,
             0,
             0,
@@ -3850,7 +3869,8 @@ var covid19_dataset_country_aus = {
             22,
             22,
             22,
-            22
+            23,
+            12
           ],
           "West Moreton": [
             0,
@@ -3930,7 +3950,8 @@ var covid19_dataset_country_aus = {
             37,
             37,
             37,
-            37
+            37,
+            23
           ],
           "Wide Bay": [
             0,
@@ -4010,7 +4031,8 @@ var covid19_dataset_country_aus = {
             20,
             20,
             20,
-            20
+            22,
+            18
           ]
         }
       },
@@ -4093,7 +4115,7 @@ var covid19_dataset_country_aus = {
           907,
           921,
           934,
-          934,
+          943,
           953
         ],
         "deaths": [
@@ -4171,6 +4193,7 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
+          5,
           5,
           5,
           5,
@@ -4335,7 +4358,8 @@ var covid19_dataset_country_aus = {
           57795,
           57795,
           96482,
-          66766
+          66766,
+          69194
         ]
       }
     },
@@ -6071,7 +6095,8 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
-          4
+          4,
+          12
         ],
         "recovered": [
           0,
@@ -6647,7 +6672,7 @@ var covid19_dataset_country_aus = {
       5687,
       5797,
       5895,
-      6001,
+      6010,
       6108
     ],
     "deaths": [
@@ -6729,7 +6754,8 @@ var covid19_dataset_country_aus = {
       35,
       39,
       43,
-      44
+      44,
+      52
     ],
     "recovered": [
       0,

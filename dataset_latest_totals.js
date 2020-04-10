@@ -37,8 +37,8 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "latest": {
-        "confirmed": 1795,
-        "deaths": 72,
+        "confirmed": 1894,
+        "deaths": 79,
         "recovered": 365
       }
     },
@@ -59,7 +59,7 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "latest": {
         "confirmed": 6108,
-        "deaths": 44,
+        "deaths": 52,
         "recovered": 1542
       },
       "states": {
@@ -86,7 +86,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 953,
           "deaths": 5,
           "recovered": 345,
-          "tested": 66766
+          "tested": 69194
         },
         "SA": {
           "confirmed": 420,
@@ -102,7 +102,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 1228,
           "current_hospitalized": 50,
           "current_icu": 13,
-          "deaths": 4,
+          "deaths": 12,
           "recovered": 806,
           "tested": 62000
         },
@@ -213,8 +213,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 18092,
-        "deaths": 950,
+        "confirmed": 18145,
+        "deaths": 954,
         "recovered": 173
       }
     },
@@ -582,7 +582,7 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 118181,
+        "confirmed": 118235,
         "deaths": 2607,
         "recovered": 52407
       }
@@ -1280,7 +1280,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 6211,
+        "confirmed": 6219,
         "deaths": 108,
         "recovered": 32
       }
@@ -1315,8 +1315,8 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "latest": {
-        "confirmed": 2528,
-        "deaths": 63,
+        "confirmed": 2752,
+        "deaths": 66,
         "recovered": 16
       }
     },
@@ -1421,7 +1421,7 @@ var covid19_dataset_latest_totals = {
     "SGP": {
       "latest": {
         "confirmed": 1910,
-        "deaths": 6,
+        "deaths": 7,
         "recovered": 460
       }
     },
