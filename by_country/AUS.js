@@ -2624,7 +2624,7 @@ var covid19_dataset_country_aus = {
             8,
             8,
             3,
-            3
+            7
           ],
           "Central West": [
             0,
@@ -2788,7 +2788,7 @@ var covid19_dataset_country_aus = {
             40,
             41,
             20,
-            20
+            21
           ],
           "Gold Coast": [
             0,
@@ -2870,7 +2870,7 @@ var covid19_dataset_country_aus = {
             177,
             178,
             106,
-            106
+            108
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -3198,7 +3198,7 @@ var covid19_dataset_country_aus = {
             284,
             286,
             211,
-            211
+            214
           ],
           "Metro South": [
             0,
@@ -3280,7 +3280,7 @@ var covid19_dataset_country_aus = {
             219,
             218,
             138,
-            138
+            144
           ],
           "North West": [
             0,
@@ -3444,7 +3444,7 @@ var covid19_dataset_country_aus = {
             0,
             0,
             1,
-            1
+            0
           ],
           "Overseas/interstate": [
             0,
@@ -4100,7 +4100,7 @@ var covid19_dataset_country_aus = {
             20,
             22,
             18,
-            18
+            19
           ]
         }
       },
@@ -4184,7 +4184,6 @@ var covid19_dataset_country_aus = {
           921,
           934,
           943,
-          953,
           953,
           965
         ],
@@ -6756,7 +6755,7 @@ var covid19_dataset_country_aus = {
       5895,
       6010,
       6108,
-      6190,
+      6202,
       6237
     ],
     "deaths": [
