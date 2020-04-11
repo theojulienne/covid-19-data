@@ -80,7 +80,8 @@ var covid19_dataset_country_uga = {
     "2020-04-08",
     "2020-04-09",
     "2020-04-10",
-    "2020-04-11"
+    "2020-04-11",
+    "2020-04-12"
   ],
   "total": {
     "confirmed": [
@@ -161,6 +162,7 @@ var covid19_dataset_country_uga = {
       52,
       52,
       52,
+      53,
       53,
       53
     ],
@@ -243,9 +245,11 @@ var covid19_dataset_country_uga = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

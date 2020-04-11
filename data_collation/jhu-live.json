@@ -25,9 +25,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1894,
+      "confirmed": 1975,
       "date": "2020-04-10",
-      "deaths": 81,
+      "deaths": 82,
       "recovered": 375
     }
   },
@@ -381,7 +381,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 5674,
+      "confirmed": 5732,
       "date": "2020-04-10",
       "deaths": 119,
       "recovered": 346
@@ -453,9 +453,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 121045,
+      "confirmed": 122171,
       "date": "2020-04-10",
-      "deaths": 2728,
+      "deaths": 2767,
       "recovered": 53913
     }
   },
@@ -805,9 +805,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 157053,
+      "confirmed": 158273,
       "date": "2020-04-10",
-      "deaths": 15970,
+      "deaths": 16081,
       "recovered": 55668
     }
   },
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 17566,
+          "confirmed": 18095,
           "date": "2020-04-10",
-          "deaths": 473,
+          "deaths": 496,
           "recovered": 0
         }
       },
@@ -887,15 +887,15 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 8536,
+          "confirmed": 9178,
           "date": "2020-04-10",
-          "deaths": 331,
+          "deaths": 389,
           "recovered": 0
         }
       },
       "Delaware": {
         "live": {
-          "confirmed": 701,
+          "confirmed": 751,
           "date": "2020-04-10",
           "deaths": 9,
           "recovered": 0
@@ -967,7 +967,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 18111,
+          "confirmed": 20166,
           "date": "2020-04-10",
           "deaths": 377,
           "recovered": 0
@@ -983,9 +983,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 1958,
+          "confirmed": 2063,
           "date": "2020-04-10",
-          "deaths": 41,
+          "deaths": 46,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 7918,
+          "confirmed": 8149,
           "date": "2020-04-10",
-          "deaths": 360,
+          "deaths": 379,
           "recovered": 0
         }
       },
@@ -1132,7 +1132,7 @@
       "confirmed": 73758,
       "date": "2020-04-10",
       "deaths": 8958,
-      "recovered": 135
+      "recovered": 344
     }
   },
   "Uruguay": {

@@ -80,7 +80,8 @@ var covid19_dataset_country_swz = {
     "2020-04-08",
     "2020-04-09",
     "2020-04-10",
-    "2020-04-11"
+    "2020-04-11",
+    "2020-04-12"
   ],
   "total": {
     "confirmed": [
@@ -162,9 +163,11 @@ var covid19_dataset_country_swz = {
       10,
       10,
       12,
+      12,
       12
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -323,6 +326,7 @@ var covid19_dataset_country_swz = {
       0,
       4,
       4,
+      7,
       7,
       7
     ]

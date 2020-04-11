@@ -81,9 +81,11 @@ var covid19_dataset_country_nld = {
           71,
           74,
           77,
-          82
+          82,
+          86
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -243,7 +245,8 @@ var covid19_dataset_country_nld = {
           2,
           14,
           14,
-          20
+          20,
+          27
         ]
       }
     },
@@ -321,6 +324,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          2,
           2,
           2,
           2,
@@ -409,9 +413,11 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          0,
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -575,6 +581,7 @@ var covid19_dataset_country_nld = {
           13,
           13,
           14,
+          14,
           14
         ],
         "deaths": [
@@ -635,6 +642,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -735,6 +743,7 @@ var covid19_dataset_country_nld = {
           5,
           5,
           5,
+          7,
           7,
           7,
           7
@@ -822,7 +831,8 @@ var covid19_dataset_country_nld = {
           37,
           40,
           40,
-          43
+          43,
+          50
         ],
         "deaths": [
           0,
@@ -903,7 +913,8 @@ var covid19_dataset_country_nld = {
           6,
           6,
           6,
-          6
+          6,
+          8
         ],
         "recovered": [
           0,
@@ -984,7 +995,8 @@ var covid19_dataset_country_nld = {
           1,
           1,
           1,
-          1
+          1,
+          3
         ]
       }
     }
@@ -1070,7 +1082,8 @@ var covid19_dataset_country_nld = {
     "2020-04-08",
     "2020-04-09",
     "2020-04-10",
-    "2020-04-11"
+    "2020-04-11",
+    "2020-04-12"
   ],
   "total": {
     "confirmed": [
@@ -1305,6 +1318,7 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
+      250,
       250,
       250,
       250,
