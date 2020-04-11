@@ -35,8 +35,8 @@
     "live": {
       "confirmed": 1975,
       "date": "2020-04-11",
-      "deaths": 82,
-      "recovered": 375
+      "deaths": 83,
+      "recovered": 440
     }
   },
   "Armenia": {
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13744,
+      "confirmed": 13776,
       "date": "2020-04-11",
       "deaths": 337,
       "recovered": 6604
@@ -365,10 +365,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1495,
+      "confirmed": 1534,
       "date": "2020-04-11",
       "deaths": 21,
-      "recovered": 231
+      "recovered": 323
     }
   },
   "Cuba": {
@@ -397,10 +397,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 5819,
+      "confirmed": 5996,
       "date": "2020-04-11",
-      "deaths": 247,
-      "recovered": 1773
+      "deaths": 260,
+      "recovered": 1955
     }
   },
   "Diamond Princess": {
@@ -461,7 +461,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 122171,
+      "confirmed": 122530,
       "date": "2020-04-11",
       "deaths": 2736,
       "recovered": 53913
@@ -493,7 +493,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 7600,
+      "confirmed": 7876,
       "date": "2020-04-11",
       "deaths": 249,
       "recovered": 774
@@ -533,10 +533,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 10505,
+      "confirmed": 10525,
       "date": "2020-04-11",
       "deaths": 96,
-      "recovered": 1236
+      "recovered": 1258
     }
   },
   "Italy": {
@@ -669,9 +669,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 711,
+      "confirmed": 760,
       "date": "2020-04-11",
-      "deaths": 32,
+      "deaths": 34,
       "recovered": 41
     }
   },
@@ -733,10 +733,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 15472,
+      "confirmed": 15987,
       "date": "2020-04-11",
-      "deaths": 435,
-      "recovered": 233
+      "deaths": 470,
+      "recovered": 266
     }
   },
   "Qatar": {
@@ -765,10 +765,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 3651,
+      "confirmed": 4033,
       "date": "2020-04-11",
-      "deaths": 47,
-      "recovered": 685
+      "deaths": 52,
+      "recovered": 720
     }
   },
   "Serbia": {
@@ -821,9 +821,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 9685,
+      "confirmed": 10151,
       "date": "2020-04-11",
-      "deaths": 870,
+      "deaths": 887,
       "recovered": 381
     }
   },
@@ -1047,9 +1047,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 725,
+          "confirmed": 788,
           "date": "2020-04-11",
-          "deaths": 39,
+          "deaths": 42,
           "recovered": 0
         }
       },
