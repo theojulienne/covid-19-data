@@ -101,10 +101,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 925,
+      "confirmed": 998,
       "date": "2020-04-11",
       "deaths": 6,
-      "recovered": 539
+      "recovered": 551
     }
   },
   "Belarus": {
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 19789,
+      "confirmed": 19943,
       "date": "2020-04-11",
-      "deaths": 1068,
+      "deaths": 1074,
       "recovered": 173
     }
   },
@@ -235,10 +235,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1544,
-          "date": "2020-04-10",
+          "confirmed": 1548,
+          "date": "2020-04-11",
           "deaths": 8,
-          "recovered": 1434
+          "recovered": 1437
         }
       },
       "Heilongjiang": {
@@ -268,9 +268,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-10",
-          "deaths": 3216,
-          "recovered": 64236
+          "date": "2020-04-11",
+          "deaths": 3219,
+          "recovered": 64264
         }
       },
       "Hunan": {
@@ -283,10 +283,10 @@
       },
       "Jiangsu": {
         "live": {
-          "confirmed": 651,
-          "date": "2020-04-10",
+          "confirmed": 652,
+          "date": "2020-04-11",
           "deaths": 0,
-          "recovered": 634
+          "recovered": 636
         }
       },
       "Jiangxi": {
@@ -455,7 +455,7 @@
     "live": {
       "confirmed": 122171,
       "date": "2020-04-11",
-      "deaths": 2767,
+      "deaths": 2736,
       "recovered": 53913
     }
   },
@@ -541,7 +541,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 5530,
+      "confirmed": 6005,
       "date": "2020-04-11",
       "deaths": 99,
       "recovered": 685
@@ -613,9 +613,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 3441,
+      "confirmed": 3844,
       "date": "2020-04-11",
-      "deaths": 194,
+      "deaths": 233,
       "recovered": 633
     }
   },
@@ -645,10 +645,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1283,
+      "confirmed": 1312,
       "date": "2020-04-11",
-      "deaths": 2,
-      "recovered": 373
+      "deaths": 4,
+      "recovered": 422
     }
   },
   "Niger": {
@@ -879,9 +879,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 4895,
+          "confirmed": 4469,
           "date": "2020-04-11",
-          "deaths": 198,
+          "deaths": 193,
           "recovered": 0
         }
       },
@@ -913,7 +913,7 @@
         "live": {
           "confirmed": 13609,
           "date": "2020-04-11",
-          "deaths": 294,
+          "deaths": 298,
           "recovered": 0
         }
       },
@@ -1007,9 +1007,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 171391,
+          "confirmed": 171399,
           "date": "2020-04-11",
-          "deaths": 7804,
+          "deaths": 7805,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 17083,
+          "confirmed": 17440,
           "date": "2020-04-11",
-          "deaths": 349,
+          "deaths": 380,
           "recovered": 0
         }
       },
@@ -1047,9 +1047,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 955,
+          "confirmed": 1651,
           "date": "2020-04-11",
-          "deaths": 3,
+          "deaths": 49,
           "recovered": 0
         }
       },
@@ -1137,15 +1137,15 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 473,
+      "confirmed": 494,
       "date": "2020-04-11",
       "deaths": 7,
-      "recovered": 206
+      "recovered": 214
     }
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 624,
+      "confirmed": 669,
       "date": "2020-04-11",
       "deaths": 3,
       "recovered": 42
