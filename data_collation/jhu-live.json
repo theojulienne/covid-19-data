@@ -324,9 +324,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1267,
-          "date": "2020-04-09",
+          "date": "2020-04-11",
           "deaths": 1,
-          "recovered": 1235
+          "recovered": 1236
         }
       }
     }
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 18137,
+          "confirmed": 18218,
           "date": "2020-04-11",
-          "deaths": 499,
+          "deaths": 500,
           "recovered": 0
         }
       },
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 2063,
           "date": "2020-04-11",
-          "deaths": 46,
+          "deaths": 50,
           "recovered": 0
         }
       },
