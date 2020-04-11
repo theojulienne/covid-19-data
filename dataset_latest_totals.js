@@ -58,7 +58,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 6245,
+        "confirmed": 6254,
         "deaths": 47,
         "recovered": 1686
       },
@@ -83,10 +83,10 @@ var covid19_dataset_latest_totals = {
           "recovered": 2
         },
         "QLD": {
-          "confirmed": 965,
+          "confirmed": 974,
           "deaths": 5,
           "recovered": 372,
-          "tested": 71499
+          "tested": 69194
         },
         "SA": {
           "confirmed": 428,
@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 13799,
+        "confirmed": 13806,
         "deaths": 337,
         "recovered": 6604
       }
@@ -185,7 +185,7 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 935,
+        "confirmed": 946,
         "deaths": 37,
         "recovered": 139
       }
@@ -255,18 +255,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 23174,
-        "deaths": 648,
+        "confirmed": 23276,
+        "deaths": 652,
         "recovered": 5855
       },
       "states": {
         "Alberta": {
-          "confirmed": 1500,
-          "deaths": 39
+          "confirmed": 1567,
+          "deaths": 40
         },
         "British Columbia": {
-          "confirmed": 1410,
-          "deaths": 55
+          "confirmed": 1445,
+          "deaths": 58
         },
         "Diamond Princess": {
           "confirmed": 0,
@@ -1230,7 +1230,7 @@ var covid19_dataset_latest_totals = {
     },
     "NER": {
       "latest": {
-        "confirmed": 438,
+        "confirmed": 491,
         "deaths": 11,
         "recovered": 41
       }
@@ -1281,7 +1281,7 @@ var covid19_dataset_latest_totals = {
     "NOR": {
       "latest": {
         "confirmed": 6408,
-        "deaths": 118,
+        "deaths": 119,
         "recovered": 32
       }
     },
