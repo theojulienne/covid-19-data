@@ -256,7 +256,7 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "latest": {
         "confirmed": 22148,
-        "deaths": 564,
+        "deaths": 569,
         "recovered": 5855
       },
       "states": {
@@ -266,7 +266,7 @@ var covid19_dataset_latest_totals = {
         },
         "British Columbia": {
           "confirmed": 1410,
-          "deaths": 50
+          "deaths": 55
         },
         "Diamond Princess": {
           "confirmed": 0,
@@ -338,9 +338,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 82941,
+        "confirmed": 82966,
         "deaths": 3340,
-        "recovered": 77791
+        "recovered": 77798
       },
       "states": {
         "Anhui": {
@@ -349,9 +349,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 984
         },
         "Beijing": {
-          "confirmed": 588,
+          "confirmed": 589,
           "deaths": 8,
-          "recovered": 469
+          "recovered": 474
         },
         "Chongqing": {
           "confirmed": 579,
@@ -394,7 +394,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 313
         },
         "Heilongjiang": {
-          "confirmed": 638,
+          "confirmed": 661,
           "deaths": 13,
           "recovered": 470
         },
@@ -464,9 +464,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 246
         },
         "Shandong": {
-          "confirmed": 783,
+          "confirmed": 784,
           "deaths": 7,
-          "recovered": 756
+          "recovered": 757
         },
         "Shanghai": {
           "confirmed": 555,
@@ -481,7 +481,7 @@ var covid19_dataset_latest_totals = {
         "Sichuan": {
           "confirmed": 560,
           "deaths": 3,
-          "recovered": 546
+          "recovered": 547
         },
         "Tianjin": {
           "confirmed": 183,
