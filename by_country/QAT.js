@@ -164,7 +164,8 @@ var covid19_dataset_country_qat = {
       2057,
       2210,
       2376,
-      2512
+      2512,
+      2728
     ],
     "deaths": [
       0,
@@ -328,7 +329,8 @@ var covid19_dataset_country_qat = {
       150,
       178,
       206,
-      227
+      227,
+      247
     ]
   }
 };

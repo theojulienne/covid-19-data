@@ -44,7 +44,7 @@
     },
     "ARM": {
       "latest": {
-        "confirmed": 966,
+        "confirmed": 967,
         "deaths": 13,
         "recovered": 173
       }
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 13730,
+        "confirmed": 13744,
         "deaths": 337,
         "recovered": 6604
       }
@@ -171,7 +171,7 @@
     },
     "BHR": {
       "latest": {
-        "confirmed": 998,
+        "confirmed": 1016,
         "deaths": 6,
         "recovered": 551
       }
@@ -324,7 +324,7 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 24657,
+        "confirmed": 24900,
         "deaths": 1003,
         "recovered": 11100
       }
@@ -686,7 +686,7 @@
     "FIN": {
       "latest": {
         "confirmed": 2905,
-        "deaths": 48,
+        "deaths": 49,
         "recovered": 300
       }
     },
@@ -943,9 +943,9 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 68192,
-        "deaths": 4232,
-        "recovered": 35465
+        "confirmed": 70029,
+        "deaths": 4357,
+        "recovered": 41947
       }
     },
     "IRQ": {
@@ -965,7 +965,7 @@
     "ISR": {
       "latest": {
         "confirmed": 10505,
-        "deaths": 95,
+        "deaths": 96,
         "recovered": 1236
       }
     },
@@ -1251,8 +1251,8 @@
     },
     "NLD": {
       "latest": {
-        "confirmed": 23097,
-        "deaths": 2511,
+        "confirmed": 24413,
+        "deaths": 2643,
         "recovered": 250
       },
       "states": {
@@ -1281,7 +1281,7 @@
     "NOR": {
       "latest": {
         "confirmed": 6360,
-        "deaths": 113,
+        "deaths": 114,
         "recovered": 32
       }
     },
@@ -1364,9 +1364,9 @@
     },
     "QAT": {
       "latest": {
-        "confirmed": 2512,
+        "confirmed": 2728,
         "deaths": 6,
-        "recovered": 227
+        "recovered": 247
       }
     },
     "RKS": {
@@ -1476,7 +1476,7 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 715,
+        "confirmed": 728,
         "deaths": 2,
         "recovered": 23
       }
