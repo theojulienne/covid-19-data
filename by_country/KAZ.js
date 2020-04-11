@@ -329,7 +329,8 @@ var covid19_dataset_country_kaz = {
       51,
       54,
       60,
-      64
+      64,
+      68
     ]
   }
 };
