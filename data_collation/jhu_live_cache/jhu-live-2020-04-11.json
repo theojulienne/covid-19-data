@@ -43,15 +43,15 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2822,
+          "confirmed": 2857,
           "date": "2020-04-11",
-          "deaths": 22,
+          "deaths": 23,
           "recovered": 4
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 965,
+          "confirmed": 974,
           "date": "2020-04-11",
           "deaths": 4,
           "recovered": 372
@@ -67,9 +67,9 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1241,
+          "confirmed": 1265,
           "date": "2020-04-11",
-          "deaths": 13,
+          "deaths": 14,
           "recovered": 926
         }
       },
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 18218,
+          "confirmed": 18295,
           "date": "2020-04-11",
-          "deaths": 500,
+          "deaths": 506,
           "recovered": 0
         }
       },
@@ -1017,7 +1017,7 @@
         "live": {
           "confirmed": 913,
           "date": "2020-04-11",
-          "deaths": 10,
+          "deaths": 12,
           "recovered": 0
         }
       },
