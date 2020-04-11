@@ -58,9 +58,9 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 6237,
+        "confirmed": 6246,
         "deaths": 47,
-        "recovered": 1673
+        "recovered": 1686
       },
       "states": {
         "ACT": {
@@ -89,7 +89,7 @@
           "tested": 69194
         },
         "SA": {
-          "confirmed": 428,
+          "confirmed": 429,
           "deaths": 3,
           "recovered": 179
         },
@@ -107,15 +107,15 @@
           "tested": 62000
         },
         "WA": {
-          "confirmed": 506,
+          "confirmed": 514,
           "deaths": 6,
-          "recovered": 203
+          "recovered": 216
         }
       }
     },
     "AUT": {
       "latest": {
-        "confirmed": 13560,
+        "confirmed": 13586,
         "deaths": 319,
         "recovered": 6064
       }
@@ -575,9 +575,9 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 5732,
-        "deaths": 119,
-        "recovered": 346
+        "confirmed": 5735,
+        "deaths": 123,
+        "recovered": 370
       }
     },
     "DEU": {
@@ -916,7 +916,7 @@
     "HUN": {
       "latest": {
         "confirmed": 1310,
-        "deaths": 77,
+        "deaths": 85,
         "recovered": 115
       }
     },
@@ -999,7 +999,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 840,
+        "confirmed": 859,
         "deaths": 10,
         "recovered": 64
       }
@@ -1090,8 +1090,8 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 999,
-        "deaths": 22,
+        "confirmed": 1026,
+        "deaths": 23,
         "recovered": 54
       }
     },
@@ -1301,7 +1301,7 @@
     },
     "OMN": {
       "latest": {
-        "confirmed": 484,
+        "confirmed": 546,
         "deaths": 3,
         "recovered": 109
       }
@@ -1588,9 +1588,9 @@
     },
     "UKR": {
       "latest": {
-        "confirmed": 2203,
-        "deaths": 69,
-        "recovered": 61
+        "confirmed": 2511,
+        "deaths": 73,
+        "recovered": 79
       }
     },
     "URY": {

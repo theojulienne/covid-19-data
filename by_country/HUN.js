@@ -247,7 +247,8 @@ var covid19_dataset_country_hun = {
       47,
       58,
       66,
-      77
+      77,
+      85
     ],
     "recovered": [
       0,
