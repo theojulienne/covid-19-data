@@ -44,9 +44,9 @@
     },
     "ARM": {
       "latest": {
-        "confirmed": 937,
-        "deaths": 12,
-        "recovered": 149
+        "confirmed": 966,
+        "deaths": 13,
+        "recovered": 173
       }
     },
     "ATG": {
@@ -86,7 +86,7 @@
           "confirmed": 965,
           "deaths": 5,
           "recovered": 372,
-          "tested": 69194
+          "tested": 71499
         },
         "SA": {
           "confirmed": 429,
@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 13586,
+        "confirmed": 13667,
         "deaths": 319,
         "recovered": 6064
       }
@@ -185,9 +185,9 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 901,
-        "deaths": 36,
-        "recovered": 129
+        "confirmed": 917,
+        "deaths": 37,
+        "recovered": 137
       }
     },
     "BLR": {
@@ -671,7 +671,7 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 1258,
+        "confirmed": 1304,
         "deaths": 24,
         "recovered": 93
       }
@@ -1104,7 +1104,7 @@
     },
     "LVA": {
       "latest": {
-        "confirmed": 612,
+        "confirmed": 630,
         "deaths": 3,
         "recovered": 16
       }
@@ -1127,7 +1127,7 @@
       "latest": {
         "confirmed": 1438,
         "deaths": 29,
-        "recovered": 56
+        "recovered": 75
       }
     },
     "MDG": {
@@ -1329,9 +1329,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 4195,
-        "deaths": 221,
-        "recovered": 140
+        "confirmed": 4428,
+        "deaths": 247,
+        "recovered": 157
       }
     },
     "PNG": {
@@ -1343,9 +1343,9 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 5955,
-        "deaths": 181,
-        "recovered": 318
+        "confirmed": 6088,
+        "deaths": 195,
+        "recovered": 375
       }
     },
     "PRT": {
@@ -1379,15 +1379,15 @@
     "ROU": {
       "latest": {
         "confirmed": 5467,
-        "deaths": 270,
+        "deaths": 282,
         "recovered": 729
       }
     },
     "RUS": {
       "latest": {
-        "confirmed": 11917,
-        "deaths": 94,
-        "recovered": 795
+        "confirmed": 13584,
+        "deaths": 106,
+        "recovered": 1045
       }
     },
     "RWA": {
@@ -1555,7 +1555,7 @@
       "latest": {
         "confirmed": 671,
         "deaths": 25,
-        "recovered": 25
+        "recovered": 43
       }
     },
     "TUR": {

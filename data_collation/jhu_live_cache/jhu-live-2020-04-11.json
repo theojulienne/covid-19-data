@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 937,
+      "confirmed": 966,
       "date": "2020-04-11",
-      "deaths": 12,
-      "recovered": 149
+      "deaths": 13,
+      "recovered": 173
     }
   },
   "Australia": {
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13586,
+      "confirmed": 13667,
       "date": "2020-04-11",
       "deaths": 319,
       "recovered": 6064
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 901,
+      "confirmed": 917,
       "date": "2020-04-11",
-      "deaths": 36,
-      "recovered": 129
+      "deaths": 37,
+      "recovered": 137
     }
   },
   "Brazil": {
@@ -429,7 +429,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1258,
+      "confirmed": 1304,
       "date": "2020-04-11",
       "deaths": 24,
       "recovered": 93
@@ -573,7 +573,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 612,
+      "confirmed": 630,
       "date": "2020-04-11",
       "deaths": 3,
       "recovered": 16
@@ -624,7 +624,7 @@
       "confirmed": 1438,
       "date": "2020-04-11",
       "deaths": 29,
-      "recovered": 56
+      "recovered": 75
     }
   },
   "Morocco": {
@@ -709,18 +709,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 4195,
+      "confirmed": 4428,
       "date": "2020-04-11",
-      "deaths": 221,
-      "recovered": 140
+      "deaths": 247,
+      "recovered": 157
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 5955,
+      "confirmed": 6088,
       "date": "2020-04-11",
-      "deaths": 181,
-      "recovered": 318
+      "deaths": 195,
+      "recovered": 375
     }
   },
   "Portugal": {
@@ -743,16 +743,16 @@
     "live": {
       "confirmed": 5467,
       "date": "2020-04-11",
-      "deaths": 270,
+      "deaths": 282,
       "recovered": 729
     }
   },
   "Russia": {
     "live": {
-      "confirmed": 11917,
+      "confirmed": 13584,
       "date": "2020-04-11",
-      "deaths": 94,
-      "recovered": 795
+      "deaths": 106,
+      "recovered": 1045
     }
   },
   "Saudi Arabia": {
@@ -840,7 +840,7 @@
       "confirmed": 671,
       "date": "2020-04-11",
       "deaths": 25,
-      "recovered": 25
+      "recovered": 43
     }
   },
   "Turkey": {
