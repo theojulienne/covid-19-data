@@ -141,10 +141,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 635,
+      "confirmed": 648,
       "date": "2020-04-11",
-      "deaths": 25,
-      "recovered": 54
+      "deaths": 26,
+      "recovered": 62
     }
   },
   "Burkina Faso": {
@@ -469,10 +469,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1190,
+      "confirmed": 1310,
       "date": "2020-04-11",
       "deaths": 77,
-      "recovered": 112
+      "recovered": 115
     }
   },
   "Iceland": {
@@ -549,7 +549,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 812,
+      "confirmed": 840,
       "date": "2020-04-11",
       "deaths": 10,
       "recovered": 64
@@ -568,7 +568,7 @@
       "confirmed": 993,
       "date": "2020-04-11",
       "deaths": 1,
-      "recovered": 123
+      "recovered": 133
     }
   },
   "Latvia": {
@@ -685,10 +685,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 4695,
+      "confirmed": 4788,
       "date": "2020-04-11",
-      "deaths": 66,
-      "recovered": 727
+      "deaths": 71,
+      "recovered": 762
     }
   },
   "Panama": {
@@ -829,10 +829,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2473,
+      "confirmed": 2518,
       "date": "2020-04-11",
-      "deaths": 33,
-      "recovered": 1013
+      "deaths": 35,
+      "recovered": 1135
     }
   },
   "Tunisia": {
@@ -983,7 +983,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2063,
+          "confirmed": 2092,
           "date": "2020-04-11",
           "deaths": 50,
           "recovered": 0
