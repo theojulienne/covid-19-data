@@ -1602,9 +1602,9 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 522295,
+        "confirmed": 522216,
         "deaths": 20289,
-        "tested": 2673548
+        "tested": 2673664
       },
       "states": {
         "AK": {
@@ -1891,10 +1891,10 @@ var covid19_dataset_latest_totals = {
           "tested": 15452
         },
         "WY": {
-          "confirmed": 340,
+          "confirmed": 261,
           "deaths": 0,
           "hospitalized": 37,
-          "tested": 5343
+          "tested": 5459
         }
       }
     },
