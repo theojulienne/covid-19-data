@@ -37,8 +37,8 @@
     },
     "ARG": {
       "latest": {
-        "confirmed": 1975,
-        "deaths": 83,
+        "confirmed": 2142,
+        "deaths": 89,
         "recovered": 440
       }
     },
@@ -213,8 +213,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 20727,
-        "deaths": 1124,
+        "confirmed": 20962,
+        "deaths": 1140,
         "recovered": 173
       }
     },
@@ -575,15 +575,15 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 5831,
+        "confirmed": 5902,
         "deaths": 129,
         "recovered": 411
       }
     },
     "DEU": {
       "latest": {
-        "confirmed": 124908,
-        "deaths": 2736,
+        "confirmed": 125452,
+        "deaths": 2871,
         "recovered": 57400
       }
     },
@@ -1315,9 +1315,9 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 2974,
-        "deaths": 74,
-        "recovered": 17
+        "confirmed": 3234,
+        "deaths": 79,
+        "recovered": 23
       }
     },
     "PER": {
