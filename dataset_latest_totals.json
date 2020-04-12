@@ -23,8 +23,8 @@
     },
     "AND": {
       "latest": {
-        "confirmed": 601,
-        "deaths": 26,
+        "confirmed": 622,
+        "deaths": 28,
         "recovered": 71
       }
     },
@@ -38,7 +38,7 @@
     "ARG": {
       "latest": {
         "confirmed": 2142,
-        "deaths": 89,
+        "deaths": 90,
         "recovered": 440
       }
     },
@@ -171,7 +171,7 @@
     },
     "BHR": {
       "latest": {
-        "confirmed": 1040,
+        "confirmed": 1087,
         "deaths": 6,
         "recovered": 557
       }
@@ -213,7 +213,7 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 20964,
+        "confirmed": 20984,
         "deaths": 1141,
         "recovered": 173
       }
@@ -325,7 +325,7 @@
     "CHE": {
       "latest": {
         "confirmed": 25300,
-        "deaths": 1036,
+        "deaths": 1081,
         "recovered": 12100
       }
     },
@@ -603,9 +603,9 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 5996,
-        "deaths": 260,
-        "recovered": 1955
+        "confirmed": 6174,
+        "deaths": 273,
+        "recovered": 2123
       },
       "states": {
         "Faroe Islands": {
@@ -867,7 +867,7 @@
     "GRC": {
       "latest": {
         "confirmed": 2081,
-        "deaths": 93,
+        "deaths": 98,
         "recovered": 269
       }
     },
@@ -901,9 +901,9 @@
     },
     "HRV": {
       "latest": {
-        "confirmed": 1534,
-        "deaths": 21,
-        "recovered": 323
+        "confirmed": 1600,
+        "deaths": 23,
+        "recovered": 373
       }
     },
     "HTI": {
@@ -1251,8 +1251,8 @@
     },
     "NLD": {
       "latest": {
-        "confirmed": 24413,
-        "deaths": 2643,
+        "confirmed": 25587,
+        "deaths": 2737,
         "recovered": 250
       },
       "states": {
@@ -1350,9 +1350,9 @@
     },
     "PRT": {
       "latest": {
-        "confirmed": 15987,
-        "deaths": 470,
-        "recovered": 266
+        "confirmed": 16585,
+        "deaths": 504,
+        "recovered": 277
       }
     },
     "PRY": {
@@ -1399,9 +1399,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 4033,
-        "deaths": 52,
-        "recovered": 720
+        "confirmed": 4462,
+        "deaths": 59,
+        "recovered": 761
       }
     },
     "SDN": {
@@ -1490,8 +1490,8 @@
     },
     "SWE": {
       "latest": {
-        "confirmed": 10151,
-        "deaths": 887,
+        "confirmed": 10483,
+        "deaths": 899,
         "recovered": 381
       }
     },
