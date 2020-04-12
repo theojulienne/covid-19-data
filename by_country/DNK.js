@@ -82,9 +82,11 @@ var covid19_dataset_country_dnk = {
           184,
           184,
           184,
+          184,
           184
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -246,6 +248,7 @@ var covid19_dataset_country_dnk = {
           120,
           131,
           136,
+          145,
           145
         ]
       }
@@ -332,9 +335,11 @@ var covid19_dataset_country_dnk = {
           11,
           11,
           11,
+          11,
           11
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -496,6 +501,7 @@ var covid19_dataset_country_dnk = {
           10,
           11,
           11,
+          11,
           11
         ]
       }
@@ -583,7 +589,8 @@ var covid19_dataset_country_dnk = {
     "2020-04-09",
     "2020-04-10",
     "2020-04-11",
-    "2020-04-12"
+    "2020-04-12",
+    "2020-04-13"
   ],
   "total": {
     "confirmed": [

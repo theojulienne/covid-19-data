@@ -81,7 +81,8 @@ var covid19_dataset_country_esp = {
     "2020-04-09",
     "2020-04-10",
     "2020-04-11",
-    "2020-04-12"
+    "2020-04-12",
+    "2020-04-13"
   ],
   "total": {
     "confirmed": [
@@ -165,7 +166,7 @@ var covid19_dataset_country_esp = {
       148220,
       153222,
       158273,
-      161852
+      163027
     ],
     "deaths": [
       0,
@@ -248,7 +249,7 @@ var covid19_dataset_country_esp = {
       14792,
       15447,
       16081,
-      16480
+      16606
     ],
     "recovered": [
       0,
