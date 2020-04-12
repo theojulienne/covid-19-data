@@ -166,7 +166,8 @@ var covid19_dataset_country_arm = {
       881,
       921,
       937,
-      967
+      967,
+      1013
     ],
     "deaths": [
       0,
@@ -332,7 +333,8 @@ var covid19_dataset_country_arm = {
       114,
       138,
       149,
-      173
+      173,
+      197
     ]
   }
 };

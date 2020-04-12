@@ -2,7 +2,7 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 555,
+        "confirmed": 607,
         "deaths": 18,
         "recovered": 32
       }
@@ -44,9 +44,9 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "latest": {
-        "confirmed": 967,
+        "confirmed": 1013,
         "deaths": 13,
-        "recovered": 173
+        "recovered": 197
       }
     },
     "ATG": {
@@ -115,7 +115,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 13810,
+        "confirmed": 13818,
         "deaths": 337,
         "recovered": 6604
       }
@@ -185,7 +185,7 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 946,
+        "confirmed": 975,
         "deaths": 37,
         "recovered": 139
       }
@@ -575,9 +575,9 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 5902,
-        "deaths": 129,
-        "recovered": 411
+        "confirmed": 5905,
+        "deaths": 132,
+        "recovered": 422
       }
     },
     "DEU": {
@@ -999,7 +999,7 @@ var covid19_dataset_latest_totals = {
     },
     "KAZ": {
       "latest": {
-        "confirmed": 880,
+        "confirmed": 897,
         "deaths": 10,
         "recovered": 81
       }
@@ -1329,9 +1329,9 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "latest": {
-        "confirmed": 4428,
-        "deaths": 247,
-        "recovered": 157
+        "confirmed": 4648,
+        "deaths": 297,
+        "recovered": 197
       }
     },
     "PNG": {
@@ -1379,15 +1379,15 @@ var covid19_dataset_latest_totals = {
     "ROU": {
       "latest": {
         "confirmed": 5990,
-        "deaths": 291,
+        "deaths": 306,
         "recovered": 758
       }
     },
     "RUS": {
       "latest": {
-        "confirmed": 13584,
-        "deaths": 106,
-        "recovered": 1045
+        "confirmed": 15770,
+        "deaths": 130,
+        "recovered": 1291
       }
     },
     "RWA": {
