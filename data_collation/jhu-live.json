@@ -17,10 +17,10 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 622,
+      "confirmed": 638,
       "date": "2020-04-12",
-      "deaths": 28,
-      "recovered": 71
+      "deaths": 29,
+      "recovered": 128
     }
   },
   "Argentina": {
@@ -85,10 +85,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1058,
+      "confirmed": 1098,
       "date": "2020-04-12",
       "deaths": 11,
-      "recovered": 200
+      "recovered": 250
     }
   },
   "Bahrain": {
@@ -125,7 +125,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 986,
+      "confirmed": 1000,
       "date": "2020-04-12",
       "deaths": 38,
       "recovered": 193
@@ -477,10 +477,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1689,
+      "confirmed": 1701,
       "date": "2020-04-12",
       "deaths": 8,
-      "recovered": 841
+      "recovered": 889
     }
   },
   "India": {
@@ -549,10 +549,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 897,
+      "confirmed": 911,
       "date": "2020-04-12",
       "deaths": 10,
-      "recovered": 86
+      "recovered": 99
     }
   },
   "Korea, South": {
@@ -623,8 +623,8 @@
     "live": {
       "confirmed": 1560,
       "date": "2020-04-12",
-      "deaths": 30,
-      "recovered": 75
+      "deaths": 31,
+      "recovered": 94
     }
   },
   "Morocco": {
@@ -671,7 +671,7 @@
     "live": {
       "confirmed": 6459,
       "date": "2020-04-12",
-      "deaths": 123,
+      "deaths": 124,
       "recovered": 32
     }
   },
@@ -1055,9 +1055,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 788,
+          "confirmed": 897,
           "date": "2020-04-12",
-          "deaths": 42,
+          "deaths": 44,
           "recovered": 0
         }
       },
@@ -1164,7 +1164,7 @@
       "confirmed": 833,
       "date": "2020-04-12",
       "deaths": 4,
-      "recovered": 42
+      "recovered": 65
     }
   }
 }
