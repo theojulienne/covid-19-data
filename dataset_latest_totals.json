@@ -173,7 +173,7 @@
       "latest": {
         "confirmed": 1040,
         "deaths": 6,
-        "recovered": 555
+        "recovered": 557
       }
     },
     "BHS": {
@@ -185,9 +185,9 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 975,
-        "deaths": 37,
-        "recovered": 139
+        "confirmed": 986,
+        "deaths": 38,
+        "recovered": 193
       }
     },
     "BLR": {
@@ -338,9 +338,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83094,
+        "confirmed": 83098,
         "deaths": 3343,
-        "recovered": 77918
+        "recovered": 77942
       },
       "states": {
         "Anhui": {
@@ -404,9 +404,9 @@
           "recovered": 1253
         },
         "Hong Kong": {
-          "confirmed": 1000,
+          "confirmed": 1004,
           "deaths": 4,
-          "recovered": 336
+          "recovered": 360
         },
         "Hubei": {
           "confirmed": 67803,
@@ -686,7 +686,7 @@
     "FIN": {
       "latest": {
         "confirmed": 2974,
-        "deaths": 49,
+        "deaths": 56,
         "recovered": 300
       }
     },
@@ -943,9 +943,9 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 70029,
-        "deaths": 4357,
-        "recovered": 41947
+        "confirmed": 71686,
+        "deaths": 4474,
+        "recovered": 43894
       }
     },
     "IRQ": {
@@ -1153,7 +1153,7 @@
     },
     "MKD": {
       "latest": {
-        "confirmed": 760,
+        "confirmed": 828,
         "deaths": 34,
         "recovered": 41
       }
@@ -1280,8 +1280,8 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 6409,
-        "deaths": 119,
+        "confirmed": 6459,
+        "deaths": 123,
         "recovered": 32
       }
     },
@@ -1308,8 +1308,8 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 5038,
-        "deaths": 86,
+        "confirmed": 5170,
+        "deaths": 88,
         "recovered": 1026
       }
     },
@@ -1364,9 +1364,9 @@
     },
     "QAT": {
       "latest": {
-        "confirmed": 2728,
-        "deaths": 6,
-        "recovered": 247
+        "confirmed": 2979,
+        "deaths": 7,
+        "recovered": 275
       }
     },
     "RKS": {
@@ -1900,7 +1900,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 796,
+        "confirmed": 833,
         "deaths": 4,
         "recovered": 42
       }
