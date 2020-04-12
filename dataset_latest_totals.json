@@ -512,9 +512,9 @@
     },
     "CIV": {
       "latest": {
-        "confirmed": 533,
-        "deaths": 4,
-        "recovered": 58
+        "confirmed": 574,
+        "deaths": 5,
+        "recovered": 85
       }
     },
     "CMR": {
@@ -554,9 +554,9 @@
     },
     "CRI": {
       "latest": {
-        "confirmed": 577,
+        "confirmed": 595,
         "deaths": 3,
-        "recovered": 49
+        "recovered": 56
       }
     },
     "CUB": {
@@ -582,8 +582,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 126656,
-        "deaths": 2908,
+        "confirmed": 127007,
+        "deaths": 2961,
         "recovered": 60300
       }
     },
@@ -831,7 +831,7 @@
     },
     "GHA": {
       "latest": {
-        "confirmed": 408,
+        "confirmed": 566,
         "deaths": 8,
         "recovered": 4
       }
@@ -1455,8 +1455,8 @@
     },
     "SRB": {
       "latest": {
-        "confirmed": 3380,
-        "deaths": 74,
+        "confirmed": 3630,
+        "deaths": 80,
         "recovered": 0
       }
     },
@@ -1602,8 +1602,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 529353,
-        "deaths": 20992,
+        "confirmed": 529471,
+        "deaths": 21052,
         "tested": 2673308
       },
       "states": {
@@ -1798,8 +1798,8 @@
           "tested": 23587
         },
         "NY": {
-          "confirmed": 185488,
-          "deaths": 9194,
+          "confirmed": 185606,
+          "deaths": 9254,
           "hospitalized": 33244,
           "tested": 440980
         },
@@ -1900,7 +1900,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 833,
+        "confirmed": 865,
         "deaths": 4,
         "recovered": 65
       }
