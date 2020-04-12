@@ -992,8 +992,8 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 6005,
-        "deaths": 99,
+        "confirmed": 6748,
+        "deaths": 108,
         "recovered": 762
       }
     },
@@ -1027,9 +1027,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10480,
-        "deaths": 211,
-        "recovered": 7243
+        "confirmed": 10512,
+        "deaths": 214,
+        "recovered": 7368
       }
     },
     "KWT": {
@@ -1146,9 +1146,9 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 3844,
-        "deaths": 233,
-        "recovered": 633
+        "confirmed": 4219,
+        "deaths": 273,
+        "recovered": 1772
       }
     },
     "MKD": {
@@ -1294,9 +1294,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1312,
+        "confirmed": 1330,
         "deaths": 4,
-        "recovered": 422
+        "recovered": 471
       }
     },
     "OMN": {
