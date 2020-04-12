@@ -1602,9 +1602,9 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 521523,
-        "deaths": 20289,
-        "tested": 2672971
+        "confirmed": 521860,
+        "deaths": 20305,
+        "tested": 2673308
       },
       "states": {
         "AK": {
@@ -1874,9 +1874,9 @@ var covid19_dataset_latest_totals = {
           "tested": 9258
         },
         "WA": {
-          "confirmed": 9887,
-          "deaths": 475,
-          "tested": 93278
+          "confirmed": 10224,
+          "deaths": 491,
+          "tested": 93615
         },
         "WI": {
           "confirmed": 3213,
