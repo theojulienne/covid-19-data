@@ -541,9 +541,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 6748,
+      "confirmed": 6005,
       "date": "2020-04-12",
-      "deaths": 108,
+      "deaths": 99,
       "recovered": 762
     }
   },
@@ -557,10 +557,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10512,
+      "confirmed": 10480,
       "date": "2020-04-12",
-      "deaths": 214,
-      "recovered": 7368
+      "deaths": 211,
+      "recovered": 7243
     }
   },
   "Kuwait": {
@@ -613,10 +613,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 4219,
+      "confirmed": 3844,
       "date": "2020-04-12",
-      "deaths": 273,
-      "recovered": 1772
+      "deaths": 233,
+      "recovered": 633
     }
   },
   "Moldova": {
@@ -645,10 +645,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1330,
+      "confirmed": 1312,
       "date": "2020-04-12",
       "deaths": 4,
-      "recovered": 471
+      "recovered": 422
     }
   },
   "Niger": {
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 19224,
+          "confirmed": 19156,
           "date": "2020-04-12",
-          "deaths": 539,
+          "deaths": 538,
           "recovered": 0
         }
       },
@@ -1111,9 +1111,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8318,
+          "confirmed": 8294,
           "date": "2020-04-12",
-          "deaths": 392,
+          "deaths": 391,
           "recovered": 0
         }
       },

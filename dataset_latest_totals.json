@@ -992,8 +992,8 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 6748,
-        "deaths": 108,
+        "confirmed": 6005,
+        "deaths": 99,
         "recovered": 762
       }
     },
@@ -1027,9 +1027,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10512,
-        "deaths": 214,
-        "recovered": 7368
+        "confirmed": 10480,
+        "deaths": 211,
+        "recovered": 7243
       }
     },
     "KWT": {
@@ -1146,9 +1146,9 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 4219,
-        "deaths": 273,
-        "recovered": 1772
+        "confirmed": 3844,
+        "deaths": 233,
+        "recovered": 633
       }
     },
     "MKD": {
@@ -1294,9 +1294,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1330,
+        "confirmed": 1312,
         "deaths": 4,
-        "recovered": 471
+        "recovered": 422
       }
     },
     "OMN": {
@@ -1602,9 +1602,9 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 522216,
+        "confirmed": 521523,
         "deaths": 20289,
-        "tested": 2673664
+        "tested": 2672971
       },
       "states": {
         "AK": {
@@ -1687,9 +1687,9 @@
           "tested": 13764
         },
         "IL": {
-          "confirmed": 19810,
+          "confirmed": 19180,
           "deaths": 677,
-          "tested": 92779
+          "tested": 92149
         },
         "IN": {
           "confirmed": 7435,
@@ -1804,10 +1804,10 @@
           "tested": 440980
         },
         "OH": {
-          "confirmed": 6250,
+          "confirmed": 6187,
           "deaths": 247,
           "hospitalized": 1859,
-          "tested": 60471
+          "tested": 60408
         },
         "OK": {
           "confirmed": 1868,
