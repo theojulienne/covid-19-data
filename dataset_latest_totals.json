@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 13818,
+        "confirmed": 13838,
         "deaths": 337,
         "recovered": 6604
       }
@@ -136,9 +136,9 @@
     },
     "BEL": {
       "latest": {
-        "confirmed": 28018,
-        "deaths": 3346,
-        "recovered": 5986
+        "confirmed": 29647,
+        "deaths": 3600,
+        "recovered": 6463
       }
     },
     "BEN": {
@@ -157,9 +157,9 @@
     },
     "BGD": {
       "latest": {
-        "confirmed": 482,
-        "deaths": 30,
-        "recovered": 36
+        "confirmed": 621,
+        "deaths": 34,
+        "recovered": 39
       }
     },
     "BGR": {
@@ -192,9 +192,9 @@
     },
     "BLR": {
       "latest": {
-        "confirmed": 2226,
-        "deaths": 23,
-        "recovered": 172
+        "confirmed": 2578,
+        "deaths": 26,
+        "recovered": 203
       }
     },
     "BLZ": {
@@ -671,9 +671,9 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 1304,
-        "deaths": 24,
-        "recovered": 93
+        "confirmed": 1309,
+        "deaths": 25,
+        "recovered": 98
       }
     },
     "ETH": {
@@ -922,9 +922,9 @@
     },
     "IDN": {
       "latest": {
-        "confirmed": 3842,
-        "deaths": 327,
-        "recovered": 286
+        "confirmed": 4241,
+        "deaths": 373,
+        "recovered": 359
       }
     },
     "IND": {
@@ -1001,7 +1001,7 @@
       "latest": {
         "confirmed": 897,
         "deaths": 10,
-        "recovered": 81
+        "recovered": 86
       }
     },
     "KEN": {
@@ -1104,16 +1104,16 @@
     },
     "LVA": {
       "latest": {
-        "confirmed": 630,
-        "deaths": 3,
+        "confirmed": 651,
+        "deaths": 5,
         "recovered": 16
       }
     },
     "MAR": {
       "latest": {
-        "confirmed": 1545,
-        "deaths": 111,
-        "recovered": 146
+        "confirmed": 1617,
+        "deaths": 113,
+        "recovered": 153
       }
     },
     "MCO": {
@@ -1216,9 +1216,9 @@
     },
     "MYS": {
       "latest": {
-        "confirmed": 4530,
-        "deaths": 73,
-        "recovered": 1995
+        "confirmed": 4683,
+        "deaths": 76,
+        "recovered": 2108
       }
     },
     "NAM": {
@@ -1483,9 +1483,9 @@
     },
     "SVN": {
       "latest": {
-        "confirmed": 1188,
-        "deaths": 50,
-        "recovered": 148
+        "confirmed": 1205,
+        "deaths": 53,
+        "recovered": 150
       }
     },
     "SWE": {
