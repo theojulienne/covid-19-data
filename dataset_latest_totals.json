@@ -576,8 +576,8 @@
     "CZE": {
       "latest": {
         "confirmed": 5991,
-        "deaths": 138,
-        "recovered": 464
+        "deaths": 139,
+        "recovered": 467
       }
     },
     "DEU": {
@@ -964,9 +964,9 @@
     },
     "ISR": {
       "latest": {
-        "confirmed": 11145,
-        "deaths": 103,
-        "recovered": 1627
+        "confirmed": 11235,
+        "deaths": 110,
+        "recovered": 1689
       }
     },
     "ITA": {
@@ -999,7 +999,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 972,
+        "confirmed": 973,
         "deaths": 11,
         "recovered": 99
       }
@@ -1104,7 +1104,7 @@
     },
     "LVA": {
       "latest": {
-        "confirmed": 651,
+        "confirmed": 653,
         "deaths": 5,
         "recovered": 16
       }
@@ -1126,7 +1126,7 @@
     "MDA": {
       "latest": {
         "confirmed": 1662,
-        "deaths": 31,
+        "deaths": 33,
         "recovered": 94
       }
     },
@@ -1301,9 +1301,9 @@
     },
     "OMN": {
       "latest": {
-        "confirmed": 599,
+        "confirmed": 727,
         "deaths": 4,
-        "recovered": 109
+        "recovered": 124
       }
     },
     "PAK": {
@@ -1588,9 +1588,9 @@
     },
     "UKR": {
       "latest": {
-        "confirmed": 2777,
-        "deaths": 83,
-        "recovered": 89
+        "confirmed": 3102,
+        "deaths": 93,
+        "recovered": 97
       }
     },
     "URY": {
