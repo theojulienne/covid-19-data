@@ -445,9 +445,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 128208,
+      "confirmed": 129207,
       "date": "2020-04-13",
-      "deaths": 3043,
+      "deaths": 3118,
       "recovered": 64300
     }
   },
@@ -703,8 +703,8 @@
     "live": {
       "confirmed": 9784,
       "date": "2020-04-13",
-      "deaths": 193,
-      "recovered": 1798
+      "deaths": 216,
+      "recovered": 2642
     }
   },
   "Philippines": {
@@ -781,7 +781,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 816,
+      "confirmed": 769,
       "date": "2020-04-13",
       "deaths": 2,
       "recovered": 107
@@ -855,7 +855,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 606,
+          "confirmed": 612,
           "date": "2020-04-13",
           "deaths": 15,
           "recovered": 0
@@ -1111,9 +1111,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8381,
+          "confirmed": 8459,
           "date": "2020-04-13",
-          "deaths": 403,
+          "deaths": 406,
           "recovered": 0
         }
       },

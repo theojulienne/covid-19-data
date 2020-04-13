@@ -75,7 +75,7 @@
           "current_ventilators": null,
           "deaths": 25,
           "recovered": 4,
-          "tested": 288786
+          "tested": 144380
         },
         "NT": {
           "confirmed": 28,
@@ -582,8 +582,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 128208,
-        "deaths": 3043,
+        "confirmed": 129207,
+        "deaths": 3118,
         "recovered": 64300
       }
     },
@@ -1323,8 +1323,8 @@
     "PER": {
       "latest": {
         "confirmed": 9784,
-        "deaths": 193,
-        "recovered": 1798
+        "deaths": 216,
+        "recovered": 2642
       }
     },
     "PHL": {
@@ -1476,7 +1476,7 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 816,
+        "confirmed": 769,
         "deaths": 2,
         "recovered": 107
       }
