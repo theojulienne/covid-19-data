@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 7049,
+          "confirmed": 7470,
           "date": "2020-04-13",
-          "deaths": 274,
+          "deaths": 291,
           "recovered": 0
         }
       },
@@ -805,9 +805,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 169496,
+      "confirmed": 169628,
       "date": "2020-04-13",
-      "deaths": 17489,
+      "deaths": 17628,
       "recovered": 64727
     }
   },
@@ -855,7 +855,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 597,
+          "confirmed": 606,
           "date": "2020-04-13",
           "deaths": 15,
           "recovered": 0
@@ -871,7 +871,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 20195,
+          "confirmed": 20201,
           "date": "2020-04-13",
           "deaths": 586,
           "recovered": 0
@@ -1023,9 +1023,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 191686,
+          "confirmed": 191744,
           "date": "2020-04-13",
-          "deaths": 9833,
+          "deaths": 9837,
           "recovered": 0
         }
       },
@@ -1079,7 +1079,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 2564,
+          "confirmed": 2538,
           "date": "2020-04-13",
           "deaths": 39,
           "recovered": 0
@@ -1087,7 +1087,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 8240,
+          "confirmed": 8310,
           "date": "2020-04-13",
           "deaths": 150,
           "recovered": 0
@@ -1095,7 +1095,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 1126,
+          "confirmed": 1157,
           "date": "2020-04-13",
           "deaths": 7,
           "recovered": 0
@@ -1137,7 +1137,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 4123,
+      "confirmed": 4521,
       "date": "2020-04-13",
       "deaths": 25,
       "recovered": 852
