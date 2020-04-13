@@ -929,9 +929,9 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 9205,
+        "confirmed": 9240,
         "deaths": 331,
-        "recovered": 1080
+        "recovered": 1096
       }
     },
     "IRL": {
@@ -999,7 +999,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 951,
+        "confirmed": 961,
         "deaths": 10,
         "recovered": 99
       }
@@ -1308,9 +1308,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 5230,
-        "deaths": 91,
-        "recovered": 1028
+        "confirmed": 5374,
+        "deaths": 93,
+        "recovered": 1095
       }
     },
     "PAN": {
