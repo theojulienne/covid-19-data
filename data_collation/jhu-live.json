@@ -43,15 +43,15 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2857,
+          "confirmed": 2863,
           "date": "2020-04-13",
-          "deaths": 24,
+          "deaths": 25,
           "recovered": 4
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 983,
+          "confirmed": 987,
           "date": "2020-04-13",
           "deaths": 5,
           "recovered": 372
@@ -59,7 +59,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1268,
+          "confirmed": 1281,
           "date": "2020-04-13",
           "deaths": 14,
           "recovered": 926
@@ -67,7 +67,7 @@
       },
       "Western Australia": {
         "live": {
-          "confirmed": 514,
+          "confirmed": 517,
           "date": "2020-04-13",
           "deaths": 6,
           "recovered": 216
@@ -879,9 +879,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 19943,
+          "confirmed": 20020,
           "date": "2020-04-13",
-          "deaths": 579,
+          "deaths": 585,
           "recovered": 0
         }
       },
@@ -959,9 +959,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 495,
+          "confirmed": 550,
           "date": "2020-04-13",
-          "deaths": 26,
+          "deaths": 42,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 8161,
+          "confirmed": 8240,
           "date": "2020-04-13",
-          "deaths": 147,
+          "deaths": 150,
           "recovered": 0
         }
       },
