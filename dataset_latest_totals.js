@@ -58,7 +58,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 6272,
+        "confirmed": 6275,
         "deaths": 50,
         "recovered": 1686
       },
@@ -69,7 +69,7 @@ var covid19_dataset_latest_totals = {
           "recovered": 59
         },
         "NSW": {
-          "confirmed": 2854,
+          "confirmed": 2857,
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
@@ -1315,9 +1315,9 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "latest": {
-        "confirmed": 3234,
-        "deaths": 79,
-        "recovered": 23
+        "confirmed": 3400,
+        "deaths": 87,
+        "recovered": 29
       }
     },
     "PER": {
@@ -1595,7 +1595,7 @@ var covid19_dataset_latest_totals = {
     },
     "URY": {
       "latest": {
-        "confirmed": 480,
+        "confirmed": 512,
         "deaths": 7,
         "recovered": 231
       }
