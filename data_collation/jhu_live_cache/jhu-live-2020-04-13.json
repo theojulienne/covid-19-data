@@ -621,10 +621,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 4219,
+      "confirmed": 4661,
       "date": "2020-04-13",
-      "deaths": 273,
-      "recovered": 1772
+      "deaths": 296,
+      "recovered": 1843
     }
   },
   "Moldova": {
@@ -653,10 +653,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1330,
+      "confirmed": 1349,
       "date": "2020-04-13",
-      "deaths": 4,
-      "recovered": 471
+      "deaths": 5,
+      "recovered": 546
     }
   },
   "Niger": {
@@ -1031,7 +1031,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 185672,
+          "confirmed": 186874,
           "date": "2020-04-13",
           "deaths": 9269,
           "recovered": 0
@@ -1156,7 +1156,7 @@
       "confirmed": 84279,
       "date": "2020-04-13",
       "deaths": 10612,
-      "recovered": 344
+      "recovered": 0
     }
   },
   "Uzbekistan": {
