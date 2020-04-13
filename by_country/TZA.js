@@ -82,7 +82,8 @@ var covid19_dataset_country_tza = {
     "2020-04-10",
     "2020-04-11",
     "2020-04-12",
-    "2020-04-13"
+    "2020-04-13",
+    "2020-04-14"
   ],
   "total": {
     "confirmed": [
@@ -165,6 +166,7 @@ var covid19_dataset_country_tza = {
       24,
       25,
       25,
+      32,
       32,
       32
     ],
@@ -249,6 +251,7 @@ var covid19_dataset_country_tza = {
       1,
       1,
       3,
+      3,
       3
     ],
     "recovered": [
@@ -328,6 +331,7 @@ var covid19_dataset_country_tza = {
       3,
       3,
       3,
+      5,
       5,
       5,
       5,

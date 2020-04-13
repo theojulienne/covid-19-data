@@ -82,7 +82,8 @@ var covid19_dataset_country_dma = {
     "2020-04-10",
     "2020-04-11",
     "2020-04-12",
-    "2020-04-13"
+    "2020-04-13",
+    "2020-04-14"
   ],
   "total": {
     "confirmed": [
@@ -166,9 +167,11 @@ var covid19_dataset_country_dma = {
       15,
       15,
       16,
+      16,
       16
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -332,7 +335,8 @@ var covid19_dataset_country_dma = {
       1,
       1,
       5,
-      5
+      5,
+      8
     ]
   }
 };

@@ -125,7 +125,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 1004,
+      "confirmed": 1009,
       "date": "2020-04-12",
       "deaths": 39,
       "recovered": 193
@@ -133,7 +133,7 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 22169,
+      "confirmed": 22192,
       "date": "2020-04-12",
       "deaths": 1223,
       "recovered": 173
@@ -333,10 +333,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 2709,
+      "confirmed": 2776,
       "date": "2020-04-12",
-      "deaths": 100,
-      "recovered": 214
+      "deaths": 109,
+      "recovered": 270
     }
   },
   "Costa Rica": {
@@ -381,7 +381,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 5952,
+      "confirmed": 5991,
       "date": "2020-04-12",
       "deaths": 138,
       "recovered": 464
@@ -453,9 +453,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 127574,
+      "confirmed": 127854,
       "date": "2020-04-12",
-      "deaths": 3011,
+      "deaths": 3022,
       "recovered": 60300
     }
   },
@@ -677,7 +677,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6485,
+      "confirmed": 6525,
       "date": "2020-04-12",
       "deaths": 128,
       "recovered": 32
@@ -813,9 +813,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 166127,
+      "confirmed": 166831,
       "date": "2020-04-12",
-      "deaths": 17113,
+      "deaths": 17209,
       "recovered": 62391
     }
   },
@@ -887,9 +887,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 4747,
+          "confirmed": 5091,
           "date": "2020-04-12",
-          "deaths": 212,
+          "deaths": 224,
           "recovered": 0
         }
       },
@@ -919,9 +919,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 14315,
+          "confirmed": 14642,
           "date": "2020-04-12",
-          "deaths": 310,
+          "deaths": 312,
           "recovered": 0
         }
       },
@@ -1007,7 +1007,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2213,
+          "confirmed": 2278,
           "date": "2020-04-12",
           "deaths": 59,
           "recovered": 0
