@@ -219,7 +219,7 @@ def subseries_total(part, pre_aggregated={}):
             keys_in_all = set(subseries['total'].keys())
         else:
             keys_in_all = keys_in_all & set(subseries['total'].keys())
-    keys_in_all = keys_in_all | set(['confirmed', 'deaths'])
+    keys_in_all = keys_in_all | set(['confirmed', 'deaths', 'recovered'])
     
     for key, subseries in part['subseries'].items():
         for dataset, timeseries in subseries['total'].items(): # confirmed, deaths, recovered
