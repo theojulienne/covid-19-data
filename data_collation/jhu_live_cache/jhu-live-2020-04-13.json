@@ -77,7 +77,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13972,
+      "confirmed": 13974,
       "date": "2020-04-13",
       "deaths": 368,
       "recovered": 7343
@@ -93,10 +93,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1136,
+      "confirmed": 1348,
       "date": "2020-04-13",
       "deaths": 6,
-      "recovered": 558
+      "recovered": 591
     }
   },
   "Bangladesh": {
@@ -125,7 +125,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 1018,
+      "confirmed": 1030,
       "date": "2020-04-13",
       "deaths": 39,
       "recovered": 206
@@ -220,9 +220,9 @@
       "Beijing": {
         "live": {
           "confirmed": 589,
-          "date": "2020-04-12",
+          "date": "2020-04-13",
           "deaths": 8,
-          "recovered": 479
+          "recovered": 484
         }
       },
       "Chongqing": {
@@ -235,16 +235,16 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1552,
-          "date": "2020-04-12",
+          "confirmed": 1555,
+          "date": "2020-04-13",
           "deaths": 8,
-          "recovered": 1443
+          "recovered": 1454
         }
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 684,
-          "date": "2020-04-12",
+          "confirmed": 740,
+          "date": "2020-04-13",
           "deaths": 13,
           "recovered": 470
         }
@@ -259,8 +259,8 @@
       },
       "Hong Kong": {
         "live": {
-          "confirmed": 1004,
-          "date": "2020-04-12",
+          "confirmed": 1009,
+          "date": "2020-04-13",
           "deaths": 4,
           "recovered": 360
         }
@@ -268,9 +268,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-12",
-          "deaths": 3219,
-          "recovered": 64281
+          "date": "2020-04-13",
+          "deaths": 3221,
+          "recovered": 64338
         }
       },
       "Hunan": {
@@ -300,15 +300,15 @@
       "Shandong": {
         "live": {
           "confirmed": 784,
-          "date": "2020-04-11",
+          "date": "2020-04-13",
           "deaths": 7,
-          "recovered": 757
+          "recovered": 758
         }
       },
       "Shanghai": {
         "live": {
-          "confirmed": 607,
-          "date": "2020-04-12",
+          "confirmed": 618,
+          "date": "2020-04-13",
           "deaths": 7,
           "recovered": 446
         }
@@ -316,17 +316,17 @@
       "Sichuan": {
         "live": {
           "confirmed": 560,
-          "date": "2020-04-11",
+          "date": "2020-04-13",
           "deaths": 3,
-          "recovered": 547
+          "recovered": 548
         }
       },
       "Zhejiang": {
         "live": {
           "confirmed": 1267,
-          "date": "2020-04-12",
+          "date": "2020-04-13",
           "deaths": 1,
-          "recovered": 1238
+          "recovered": 1239
         }
       }
     }
@@ -589,7 +589,7 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 630,
+      "confirmed": 632,
       "date": "2020-04-13",
       "deaths": 20,
       "recovered": 80
@@ -741,18 +741,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 2979,
+      "confirmed": 3231,
       "date": "2020-04-13",
       "deaths": 7,
-      "recovered": 275
+      "recovered": 334
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 6300,
+      "confirmed": 6633,
       "date": "2020-04-13",
       "deaths": 318,
-      "recovered": 852
+      "recovered": 914
     }
   },
   "Russia": {
@@ -829,9 +829,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 25449,
+      "confirmed": 25503,
       "date": "2020-04-13",
-      "deaths": 1115,
+      "deaths": 1117,
       "recovered": 12700
     }
   },

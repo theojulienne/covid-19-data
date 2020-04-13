@@ -168,7 +168,8 @@ var covid19_dataset_country_rou = {
       5202,
       5467,
       5990,
-      6300
+      6300,
+      6633
     ],
     "deaths": [
       0,
@@ -337,7 +338,8 @@ var covid19_dataset_country_rou = {
       647,
       729,
       758,
-      852
+      852,
+      914
     ]
   }
 };
