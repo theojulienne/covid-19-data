@@ -1374,7 +1374,8 @@ var covid19_dataset_top10_by_deaths = {
           65077,
           73758,
           78991,
-          84279
+          84279,
+          88621
         ],
         "deaths": [
           0,
@@ -1458,7 +1459,8 @@ var covid19_dataset_top10_by_deaths = {
           7978,
           8958,
           9875,
-          10612
+          10612,
+          11329
         ],
         "recovered": [
           0,
