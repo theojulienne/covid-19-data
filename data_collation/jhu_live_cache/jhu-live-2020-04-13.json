@@ -77,7 +77,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 13984,
+      "confirmed": 13999,
       "date": "2020-04-13",
       "deaths": 368,
       "recovered": 7343
@@ -135,7 +135,7 @@
     "live": {
       "confirmed": 22318,
       "date": "2020-04-13",
-      "deaths": 1230,
+      "deaths": 1241,
       "recovered": 173
     }
   },
@@ -357,10 +357,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1600,
+      "confirmed": 1650,
       "date": "2020-04-13",
-      "deaths": 23,
-      "recovered": 373
+      "deaths": 25,
+      "recovered": 400
     }
   },
   "Cuba": {
@@ -389,10 +389,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 6174,
+      "confirmed": 6318,
       "date": "2020-04-13",
-      "deaths": 273,
-      "recovered": 2123
+      "deaths": 285,
+      "recovered": 2235
     }
   },
   "Diamond Princess": {
@@ -581,7 +581,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 653,
+      "confirmed": 655,
       "date": "2020-04-13",
       "deaths": 5,
       "recovered": 16
@@ -677,9 +677,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6525,
+      "confirmed": 6527,
       "date": "2020-04-13",
-      "deaths": 128,
+      "deaths": 131,
       "recovered": 32
     }
   },
@@ -765,10 +765,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 4462,
+      "confirmed": 4934,
       "date": "2020-04-13",
-      "deaths": 59,
-      "recovered": 761
+      "deaths": 65,
+      "recovered": 805
     }
   },
   "Serbia": {
@@ -821,9 +821,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 10483,
+      "confirmed": 10948,
       "date": "2020-04-13",
-      "deaths": 899,
+      "deaths": 919,
       "recovered": 381
     }
   },
@@ -1055,17 +1055,17 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 19571,
+          "confirmed": 19610,
           "date": "2020-04-13",
-          "deaths": 474,
+          "deaths": 478,
           "recovered": 0
         }
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 897,
+          "confirmed": 903,
           "date": "2020-04-13",
-          "deaths": 44,
+          "deaths": 45,
           "recovered": 0
         }
       },

@@ -115,7 +115,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 13984,
+        "confirmed": 13999,
         "deaths": 368,
         "recovered": 7343
       }
@@ -214,7 +214,7 @@
     "BRA": {
       "latest": {
         "confirmed": 22318,
-        "deaths": 1230,
+        "deaths": 1241,
         "recovered": 173
       }
     },
@@ -603,9 +603,9 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 6174,
-        "deaths": 273,
-        "recovered": 2123
+        "confirmed": 6318,
+        "deaths": 285,
+        "recovered": 2235
       },
       "states": {
         "Faroe Islands": {
@@ -901,9 +901,9 @@
     },
     "HRV": {
       "latest": {
-        "confirmed": 1600,
-        "deaths": 23,
-        "recovered": 373
+        "confirmed": 1650,
+        "deaths": 25,
+        "recovered": 400
       }
     },
     "HTI": {
@@ -1104,7 +1104,7 @@
     },
     "LVA": {
       "latest": {
-        "confirmed": 653,
+        "confirmed": 655,
         "deaths": 5,
         "recovered": 16
       }
@@ -1280,8 +1280,8 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 6525,
-        "deaths": 128,
+        "confirmed": 6527,
+        "deaths": 131,
         "recovered": 32
       }
     },
@@ -1399,9 +1399,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 4462,
-        "deaths": 59,
-        "recovered": 761
+        "confirmed": 4934,
+        "deaths": 65,
+        "recovered": 805
       }
     },
     "SDN": {
@@ -1490,8 +1490,8 @@
     },
     "SWE": {
       "latest": {
-        "confirmed": 10483,
-        "deaths": 899,
+        "confirmed": 10948,
+        "deaths": 919,
         "recovered": 381
       }
     },
