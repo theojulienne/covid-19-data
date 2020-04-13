@@ -25,9 +25,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2142,
+      "confirmed": 2208,
       "date": "2020-04-13",
-      "deaths": 90,
+      "deaths": 95,
       "recovered": 468
     }
   },
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 22192,
+      "confirmed": 22318,
       "date": "2020-04-13",
-      "deaths": 1223,
+      "deaths": 1230,
       "recovered": 173
     }
   },
@@ -167,9 +167,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 1567,
+          "confirmed": 1648,
           "date": "2020-04-13",
-          "deaths": 40,
+          "deaths": 44,
           "recovered": 0
         }
       },
@@ -549,10 +549,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 6748,
+      "confirmed": 7370,
       "date": "2020-04-13",
-      "deaths": 108,
-      "recovered": 762
+      "deaths": 123,
+      "recovered": 784
     }
   },
   "Kazakhstan": {
@@ -565,10 +565,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10512,
+      "confirmed": 10537,
       "date": "2020-04-13",
-      "deaths": 214,
-      "recovered": 7368
+      "deaths": 217,
+      "recovered": 7447
     }
   },
   "Kuwait": {
@@ -879,9 +879,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 19542,
+          "confirmed": 19943,
           "date": "2020-04-13",
-          "deaths": 545,
+          "deaths": 579,
           "recovered": 0
         }
       },
@@ -927,9 +927,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6112,
+          "confirmed": 6055,
           "date": "2020-04-13",
-          "deaths": 191,
+          "deaths": 194,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 185125,
+          "confirmed": 185672,
           "date": "2020-04-13",
-          "deaths": 9245,
+          "deaths": 9269,
           "recovered": 0
         }
       },
@@ -1055,7 +1055,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 19512,
+          "confirmed": 19571,
           "date": "2020-04-13",
           "deaths": 474,
           "recovered": 0
@@ -1119,9 +1119,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8491,
+          "confirmed": 8381,
           "date": "2020-04-13",
-          "deaths": 402,
+          "deaths": 403,
           "recovered": 0
         }
       },
@@ -1157,14 +1157,6 @@
       "date": "2020-04-13",
       "deaths": 10612,
       "recovered": 344
-    }
-  },
-  "Uruguay": {
-    "live": {
-      "confirmed": 512,
-      "date": "2020-04-13",
-      "deaths": 7,
-      "recovered": 231
     }
   },
   "Uzbekistan": {
