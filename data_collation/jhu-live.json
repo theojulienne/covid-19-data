@@ -141,15 +141,15 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 23830,
+      "confirmed": 23955,
       "date": "2020-04-14",
-      "deaths": 1355,
+      "deaths": 1361,
       "recovered": 2979
     }
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 695,
+      "confirmed": 713,
       "date": "2020-04-14",
       "deaths": 35,
       "recovered": 81
@@ -461,9 +461,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 130383,
+      "confirmed": 130434,
       "date": "2020-04-14",
-      "deaths": 3215,
+      "deaths": 3220,
       "recovered": 68200
     }
   },
@@ -685,9 +685,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6605,
+      "confirmed": 6623,
       "date": "2020-04-14",
-      "deaths": 134,
+      "deaths": 139,
       "recovered": 32
     }
   },
@@ -759,7 +759,7 @@
     "live": {
       "confirmed": 6879,
       "date": "2020-04-14",
-      "deaths": 346,
+      "deaths": 351,
       "recovered": 1051
     }
   },
@@ -789,10 +789,10 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 2918,
+      "confirmed": 3252,
       "date": "2020-04-14",
-      "deaths": 9,
-      "recovered": 586
+      "deaths": 10,
+      "recovered": 611
     }
   },
   "Slovakia": {
@@ -800,7 +800,7 @@
       "confirmed": 835,
       "date": "2020-04-14",
       "deaths": 2,
-      "recovered": 107
+      "recovered": 113
     }
   },
   "Slovenia": {
@@ -813,7 +813,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2272,
+      "confirmed": 2415,
       "date": "2020-04-14",
       "deaths": 27,
       "recovered": 410
@@ -837,9 +837,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 25807,
+      "confirmed": 25913,
       "date": "2020-04-14",
-      "deaths": 1155,
+      "deaths": 1162,
       "recovered": 13700
     }
   },
@@ -1169,9 +1169,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 88621,
+      "confirmed": 93873,
       "date": "2020-04-14",
-      "deaths": 11329,
+      "deaths": 12107,
       "recovered": 0
     }
   },
