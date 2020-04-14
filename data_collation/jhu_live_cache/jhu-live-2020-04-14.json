@@ -220,9 +220,9 @@
       "Beijing": {
         "live": {
           "confirmed": 589,
-          "date": "2020-04-13",
+          "date": "2020-04-14",
           "deaths": 8,
-          "recovered": 484
+          "recovered": 491
         }
       },
       "Chongqing": {
@@ -284,9 +284,9 @@
       "Jiangsu": {
         "live": {
           "confirmed": 653,
-          "date": "2020-04-12",
+          "date": "2020-04-14",
           "deaths": 0,
-          "recovered": 638
+          "recovered": 641
         }
       },
       "Jiangxi": {
@@ -324,9 +324,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1267,
-          "date": "2020-04-13",
+          "date": "2020-04-14",
           "deaths": 1,
-          "recovered": 1239
+          "recovered": 1242
         }
       }
     }
@@ -677,7 +677,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6603,
+      "confirmed": 6605,
       "date": "2020-04-14",
       "deaths": 134,
       "recovered": 32
@@ -879,9 +879,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 20708,
+          "confirmed": 20841,
           "date": "2020-04-14",
-          "deaths": 628,
+          "deaths": 630,
           "recovered": 0
         }
       },
@@ -935,7 +935,7 @@
       },
       "Idaho": {
         "live": {
-          "confirmed": 517,
+          "confirmed": 538,
           "date": "2020-04-14",
           "deaths": 6,
           "recovered": 0
@@ -1031,7 +1031,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 191714,
+          "confirmed": 192111,
           "date": "2020-04-14",
           "deaths": 9947,
           "recovered": 0
@@ -1041,7 +1041,7 @@
         "live": {
           "confirmed": 970,
           "date": "2020-04-14",
-          "deaths": 12,
+          "deaths": 15,
           "recovered": 0
         }
       },
@@ -1055,9 +1055,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 20663,
+          "confirmed": 20707,
           "date": "2020-04-14",
-          "deaths": 504,
+          "deaths": 507,
           "recovered": 0
         }
       },
@@ -1103,9 +1103,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 8579,
+          "confirmed": 8601,
           "date": "2020-04-14",
-          "deaths": 155,
+          "deaths": 158,
           "recovered": 0
         }
       },

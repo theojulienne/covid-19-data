@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83301,
         "deaths": 3345,
-        "recovered": 78119
+        "recovered": 78132
       },
       "states": {
         "Anhui": {
@@ -371,7 +371,7 @@
         "Beijing": {
           "confirmed": 589,
           "deaths": 8,
-          "recovered": 484
+          "recovered": 491
         },
         "Chongqing": {
           "confirmed": 579,
@@ -446,7 +446,7 @@
         "Jiangsu": {
           "confirmed": 653,
           "deaths": 0,
-          "recovered": 638
+          "recovered": 641
         },
         "Jiangxi": {
           "confirmed": 937,
@@ -526,7 +526,7 @@
         "Zhejiang": {
           "confirmed": 1267,
           "deaths": 1,
-          "recovered": 1239
+          "recovered": 1242
         }
       }
     },
@@ -1300,7 +1300,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 6603,
+        "confirmed": 6605,
         "deaths": 134,
         "recovered": 32
       }
