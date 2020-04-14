@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 1983,
+      "confirmed": 2070,
       "date": "2020-04-14",
-      "deaths": 313,
-      "recovered": 601
+      "deaths": 326,
+      "recovered": 691
     }
   },
   "Andorra": {
@@ -27,7 +27,7 @@
     "live": {
       "confirmed": 2277,
       "date": "2020-04-14",
-      "deaths": 101,
+      "deaths": 102,
       "recovered": 559
     }
   },
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14185,
+      "confirmed": 14197,
       "date": "2020-04-14",
       "deaths": 384,
       "recovered": 7633
@@ -141,10 +141,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 23955,
+      "confirmed": 24169,
       "date": "2020-04-14",
-      "deaths": 1361,
-      "recovered": 2979
+      "deaths": 1378,
+      "recovered": 3046
     }
   },
   "Bulgaria": {
@@ -399,8 +399,8 @@
     "live": {
       "confirmed": 6101,
       "date": "2020-04-14",
-      "deaths": 147,
-      "recovered": 527
+      "deaths": 161,
+      "recovered": 642
     }
   },
   "Denmark": {
@@ -469,7 +469,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 130694,
+      "confirmed": 131100,
       "date": "2020-04-14",
       "deaths": 3261,
       "recovered": 68200
@@ -509,10 +509,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 10541,
+      "confirmed": 10941,
       "date": "2020-04-14",
-      "deaths": 358,
-      "recovered": 1205
+      "deaths": 368,
+      "recovered": 1295
     }
   },
   "Indonesia": {
@@ -557,10 +557,10 @@
   },
   "Italy": {
     "live": {
-      "confirmed": 159516,
+      "confirmed": 162488,
       "date": "2020-04-14",
-      "deaths": 20465,
-      "recovered": 35435
+      "deaths": 21067,
+      "recovered": 37130
     }
   },
   "Japan": {
@@ -647,7 +647,7 @@
     "live": {
       "confirmed": 1934,
       "date": "2020-04-14",
-      "deaths": 36,
+      "deaths": 38,
       "recovered": 134
     }
   },
@@ -845,9 +845,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 25913,
+      "confirmed": 25936,
       "date": "2020-04-14",
-      "deaths": 1162,
+      "deaths": 1174,
       "recovered": 13700
     }
   },
