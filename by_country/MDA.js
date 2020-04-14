@@ -171,7 +171,7 @@ var covid19_dataset_country_mda = {
       1560,
       1662,
       1712,
-      1847
+      1934
     ],
     "deaths": [
       0,
