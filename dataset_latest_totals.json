@@ -62,7 +62,7 @@
         "current_hospitalized": 230,
         "current_icu": 80,
         "deaths": 52,
-        "recovered": 2164,
+        "recovered": 2103,
         "tested": 364874
       },
       "states": {
@@ -104,7 +104,7 @@
           "current_hospitalized": 11,
           "current_icu": 4,
           "deaths": 4,
-          "recovered": 240,
+          "recovered": 179,
           "tested": 37039
         },
         "TAS": {
@@ -170,7 +170,7 @@
     },
     "BFA": {
       "latest": {
-        "confirmed": 497,
+        "confirmed": 515,
         "deaths": 27,
         "recovered": 161
       }
@@ -191,7 +191,7 @@
     },
     "BHR": {
       "latest": {
-        "confirmed": 1522,
+        "confirmed": 1528,
         "deaths": 7,
         "recovered": 645
       }
@@ -275,7 +275,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 26853,
+        "confirmed": 26896,
         "deaths": 897,
         "recovered": 7758
       },
@@ -313,7 +313,7 @@
           "deaths": 0
         },
         "Nova Scotia": {
-          "confirmed": 474,
+          "confirmed": 517,
           "deaths": 3
         },
         "Ontario": {
@@ -719,7 +719,7 @@
     },
     "FRA": {
       "latest": {
-        "confirmed": 143303,
+        "confirmed": 136779,
         "deaths": 15729,
         "recovered": 28805
       },
@@ -1146,7 +1146,7 @@
     "MDA": {
       "latest": {
         "confirmed": 1934,
-        "deaths": 38,
+        "deaths": 40,
         "recovered": 134
       }
     },
@@ -1622,8 +1622,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 582030,
-        "deaths": 24298,
+        "confirmed": 582818,
+        "deaths": 24309,
         "recovered": 36023,
         "tested": 2942684
       },
@@ -1743,7 +1743,7 @@
           "tested": 108091
         },
         "MA": {
-          "confirmed": 26867,
+          "confirmed": 26889,
           "deaths": 844,
           "hospitalized": 2340,
           "tested": 122049
@@ -1835,8 +1835,8 @@
           "tested": 25464
         },
         "NY": {
-          "confirmed": 198562,
-          "deaths": 10683,
+          "confirmed": 199328,
+          "deaths": 10694,
           "hospitalized": 42712,
           "recovered": 23887,
           "tested": 478357
@@ -1948,7 +1948,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1113,
+        "confirmed": 1165,
         "deaths": 4,
         "recovered": 99
       }

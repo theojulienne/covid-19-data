@@ -57,14 +57,6 @@
           "recovered": 442
         }
       },
-      "South Australia": {
-        "live": {
-          "confirmed": 531,
-          "date": "2020-04-14",
-          "deaths": 4,
-          "recovered": 240
-        }
-      },
       "Victoria": {
         "live": {
           "confirmed": 1291,
@@ -75,7 +67,7 @@
       },
       "Western Australia": {
         "live": {
-          "confirmed": 523,
+          "confirmed": 527,
           "date": "2020-04-14",
           "deaths": 6,
           "recovered": 251
@@ -101,7 +93,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1522,
+      "confirmed": 1528,
       "date": "2020-04-14",
       "deaths": 7,
       "recovered": 645
@@ -155,6 +147,14 @@
       "recovered": 81
     }
   },
+  "Burkina Faso": {
+    "live": {
+      "confirmed": 515,
+      "date": "2020-04-14",
+      "deaths": 27,
+      "recovered": 161
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 848,
@@ -178,6 +178,14 @@
           "confirmed": 1490,
           "date": "2020-04-14",
           "deaths": 69,
+          "recovered": 0
+        }
+      },
+      "Nova Scotia": {
+        "live": {
+          "confirmed": 517,
+          "date": "2020-04-14",
+          "deaths": 3,
           "recovered": 0
         }
       },
@@ -445,7 +453,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 143303,
+      "confirmed": 130253,
       "date": "2020-04-14",
       "deaths": 15729,
       "recovered": 28805
@@ -631,7 +639,7 @@
     "live": {
       "confirmed": 1934,
       "date": "2020-04-14",
-      "deaths": 38,
+      "deaths": 40,
       "recovered": 134
     }
   },
@@ -879,9 +887,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 20907,
+          "confirmed": 20984,
           "date": "2020-04-14",
-          "deaths": 630,
+          "deaths": 631,
           "recovered": 0
         }
       },
@@ -919,9 +927,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 15743,
+          "confirmed": 8188,
           "date": "2020-04-14",
-          "deaths": 357,
+          "deaths": 232,
           "recovered": 0
         }
       },
@@ -975,25 +983,25 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 7361,
+          "confirmed": 5005,
           "date": "2020-04-14",
-          "deaths": 228,
+          "deaths": 156,
           "recovered": 0
         }
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 25170,
+          "confirmed": 26889,
           "date": "2020-04-14",
-          "deaths": 676,
+          "deaths": 692,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 21863,
+          "confirmed": 22995,
           "date": "2020-04-14",
-          "deaths": 1442,
+          "deaths": 1584,
           "recovered": 0
         }
       },
@@ -1002,14 +1010,6 @@
           "confirmed": 558,
           "date": "2020-04-14",
           "deaths": 40,
-          "recovered": 0
-        }
-      },
-      "Missouri": {
-        "live": {
-          "confirmed": 2430,
-          "date": "2020-04-14",
-          "deaths": 74,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 198562,
+          "confirmed": 199328,
           "date": "2020-04-14",
-          "deaths": 10683,
+          "deaths": 10694,
           "recovered": 0
         }
       },
@@ -1097,15 +1097,15 @@
         "live": {
           "confirmed": 2538,
           "date": "2020-04-14",
-          "deaths": 37,
+          "deaths": 44,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 8601,
+          "confirmed": 8743,
           "date": "2020-04-14",
-          "deaths": 159,
+          "deaths": 173,
           "recovered": 0
         }
       },
@@ -1119,9 +1119,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 1207,
+          "confirmed": 1715,
           "date": "2020-04-14",
-          "deaths": 20,
+          "deaths": 21,
           "recovered": 0
         }
       },
@@ -1135,9 +1135,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1743,
+          "confirmed": 1795,
           "date": "2020-04-14",
-          "deaths": 94,
+          "deaths": 101,
           "recovered": 0
         }
       }
@@ -1169,7 +1169,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1113,
+      "confirmed": 1165,
       "date": "2020-04-14",
       "deaths": 4,
       "recovered": 99

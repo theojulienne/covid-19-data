@@ -257,7 +257,7 @@ var covid19_dataset_country_mda = {
       30,
       31,
       35,
-      38
+      40
     ],
     "recovered": [
       0,
