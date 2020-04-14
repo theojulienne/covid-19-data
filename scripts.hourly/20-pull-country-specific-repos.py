@@ -5,7 +5,7 @@ import requests, json, os
 country_specific_repos = {
   'AUS': {
     'repo': 'theojulienne/covid-19-data-aus',
-    'states': ['NSW', 'VIC', 'QLD'],
+    'states': ['ACT', 'NSW', 'NT', 'QLD', 'SA', 'TAS', 'VIC', 'WA'],
     'events': True,
   },
   'USA': {
