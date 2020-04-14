@@ -170,7 +170,8 @@ var covid19_dataset_country_tun = {
       671,
       685,
       707,
-      726
+      726,
+      747
     ],
     "deaths": [
       0,
