@@ -504,7 +504,7 @@
       "confirmed": 10453,
       "date": "2020-04-14",
       "deaths": 358,
-      "recovered": 1181
+      "recovered": 1193
     }
   },
   "Indonesia": {
@@ -845,10 +845,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2579,
+      "confirmed": 2613,
       "date": "2020-04-14",
-      "deaths": 40,
-      "recovered": 1288
+      "deaths": 41,
+      "recovered": 1405
     }
   },
   "Tunisia": {
@@ -1031,9 +1031,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 62651,
+          "confirmed": 63159,
           "date": "2020-04-14",
-          "deaths": 2346,
+          "deaths": 2384,
           "recovered": 0
         }
       },
@@ -1135,7 +1135,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8657,
+          "confirmed": 8039,
           "date": "2020-04-14",
           "deaths": 414,
           "recovered": 0
