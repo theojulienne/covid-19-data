@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14106,
+      "confirmed": 14119,
       "date": "2020-04-14",
       "deaths": 384,
       "recovered": 7633
@@ -101,10 +101,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1361,
+      "confirmed": 1522,
       "date": "2020-04-14",
       "deaths": 7,
-      "recovered": 591
+      "recovered": 645
     }
   },
   "Bangladesh": {
@@ -637,7 +637,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 1712,
+      "confirmed": 1847,
       "date": "2020-04-14",
       "deaths": 36,
       "recovered": 134
@@ -749,18 +749,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 3231,
+      "confirmed": 3428,
       "date": "2020-04-14",
       "deaths": 7,
-      "recovered": 334
+      "recovered": 373
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 6633,
+      "confirmed": 6879,
       "date": "2020-04-14",
       "deaths": 332,
-      "recovered": 914
+      "recovered": 1051
     }
   },
   "Russia": {
@@ -797,7 +797,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 816,
+      "confirmed": 835,
       "date": "2020-04-14",
       "deaths": 2,
       "recovered": 107
@@ -805,9 +805,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1212,
+      "confirmed": 1220,
       "date": "2020-04-14",
-      "deaths": 55,
+      "deaths": 56,
       "recovered": 152
     }
   },
@@ -1177,10 +1177,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1054,
+      "confirmed": 1113,
       "date": "2020-04-14",
       "deaths": 4,
-      "recovered": 89
+      "recovered": 99
     }
   }
 }
