@@ -17,9 +17,9 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 646,
+      "confirmed": 659,
       "date": "2020-04-14",
-      "deaths": 29,
+      "deaths": 31,
       "recovered": 128
     }
   },
@@ -133,9 +133,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 24232,
+      "confirmed": 24920,
       "date": "2020-04-14",
-      "deaths": 1378,
+      "deaths": 1489,
       "recovered": 3046
     }
   },
@@ -145,14 +145,6 @@
       "date": "2020-04-14",
       "deaths": 35,
       "recovered": 81
-    }
-  },
-  "Burkina Faso": {
-    "live": {
-      "confirmed": 515,
-      "date": "2020-04-14",
-      "deaths": 27,
-      "recovered": 161
     }
   },
   "Cameroon": {
@@ -903,9 +895,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 11605,
+          "confirmed": 12659,
           "date": "2020-04-14",
-          "deaths": 530,
+          "deaths": 595,
           "recovered": 0
         }
       },
@@ -951,9 +943,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 19496,
+          "confirmed": 20606,
           "date": "2020-04-14",
-          "deaths": 707,
+          "deaths": 773,
           "recovered": 0
         }
       },
@@ -991,9 +983,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 26889,
+          "confirmed": 26375,
           "date": "2020-04-14",
-          "deaths": 692,
+          "deaths": 676,
           "recovered": 0
         }
       },
@@ -1010,6 +1002,14 @@
           "confirmed": 558,
           "date": "2020-04-14",
           "deaths": 40,
+          "recovered": 0
+        }
+      },
+      "Missouri": {
+        "live": {
+          "confirmed": 2557,
+          "date": "2020-04-14",
+          "deaths": 77,
           "recovered": 0
         }
       },
@@ -1095,7 +1095,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 2538,
+          "confirmed": 2596,
           "date": "2020-04-14",
           "deaths": 44,
           "recovered": 0
@@ -1111,7 +1111,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 1157,
+          "confirmed": 1187,
           "date": "2020-04-14",
           "deaths": 7,
           "recovered": 0
@@ -1119,9 +1119,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 1715,
+          "confirmed": 1207,
           "date": "2020-04-14",
-          "deaths": 21,
+          "deaths": 20,
           "recovered": 0
         }
       },
