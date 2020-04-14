@@ -256,7 +256,8 @@ var covid19_dataset_country_ecu = {
       297,
       315,
       333,
-      355
+      355,
+      369
     ],
     "recovered": [
       0,

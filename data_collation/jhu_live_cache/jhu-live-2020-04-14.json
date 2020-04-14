@@ -173,14 +173,6 @@
           "recovered": 0
         }
       },
-      "Nova Scotia": {
-        "live": {
-          "confirmed": 517,
-          "date": "2020-04-14",
-          "deaths": 3,
-          "recovered": 0
-        }
-      },
       "Ontario": {
         "live": {
           "confirmed": 7953,
@@ -333,10 +325,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 2852,
+      "confirmed": 2979,
       "date": "2020-04-14",
-      "deaths": 112,
-      "recovered": 319
+      "deaths": 127,
+      "recovered": 354
     }
   },
   "Costa Rica": {
@@ -415,7 +407,7 @@
     "live": {
       "confirmed": 7603,
       "date": "2020-04-14",
-      "deaths": 355,
+      "deaths": 369,
       "recovered": 696
     }
   },
@@ -879,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 20984,
+          "confirmed": 21761,
           "date": "2020-04-14",
-          "deaths": 631,
+          "deaths": 665,
           "recovered": 0
         }
       },
@@ -919,9 +911,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 8188,
+          "confirmed": 15743,
           "date": "2020-04-14",
-          "deaths": 232,
+          "deaths": 357,
           "recovered": 0
         }
       },
@@ -1103,9 +1095,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 8743,
+          "confirmed": 8906,
           "date": "2020-04-14",
-          "deaths": 173,
+          "deaths": 179,
           "recovered": 0
         }
       },
@@ -1127,9 +1119,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8039,
+          "confirmed": 8082,
           "date": "2020-04-14",
-          "deaths": 414,
+          "deaths": 418,
           "recovered": 0
         }
       },
