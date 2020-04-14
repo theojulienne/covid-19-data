@@ -83,7 +83,8 @@ var covid19_dataset_country_qat = {
     "2020-04-11",
     "2020-04-12",
     "2020-04-13",
-    "2020-04-14"
+    "2020-04-14",
+    "2020-04-15"
   ],
   "total": {
     "confirmed": [
@@ -253,6 +254,7 @@ var covid19_dataset_country_qat = {
       6,
       6,
       6,
+      7,
       7
     ],
     "recovered": [
