@@ -27,8 +27,8 @@
     "live": {
       "confirmed": 2277,
       "date": "2020-04-14",
-      "deaths": 98,
-      "recovered": 515
+      "deaths": 101,
+      "recovered": 559
     }
   },
   "Armenia": {
@@ -85,7 +85,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14146,
+      "confirmed": 14159,
       "date": "2020-04-14",
       "deaths": 384,
       "recovered": 7633
@@ -93,10 +93,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1148,
+      "confirmed": 1197,
       "date": "2020-04-14",
-      "deaths": 12,
-      "recovered": 289
+      "deaths": 13,
+      "recovered": 351
     }
   },
   "Bahrain": {
@@ -141,7 +141,7 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 23723,
+      "confirmed": 23830,
       "date": "2020-04-14",
       "deaths": 1355,
       "recovered": 2979
@@ -167,8 +167,8 @@
     "live": {
       "confirmed": 848,
       "date": "2020-04-14",
-      "deaths": 12,
-      "recovered": 98
+      "deaths": 14,
+      "recovered": 130
     }
   },
   "Canada": {
@@ -365,10 +365,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1650,
+      "confirmed": 1704,
       "date": "2020-04-14",
-      "deaths": 25,
-      "recovered": 400
+      "deaths": 31,
+      "recovered": 415
     }
   },
   "Cuba": {
@@ -399,8 +399,8 @@
     "live": {
       "confirmed": 6496,
       "date": "2020-04-14",
-      "deaths": 285,
-      "recovered": 2235
+      "deaths": 299,
+      "recovered": 2515
     }
   },
   "Diamond Princess": {
@@ -447,7 +447,7 @@
     "live": {
       "confirmed": 3161,
       "date": "2020-04-14",
-      "deaths": 59,
+      "deaths": 64,
       "recovered": 300
     }
   },
@@ -461,9 +461,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 130214,
+      "confirmed": 130383,
       "date": "2020-04-14",
-      "deaths": 3203,
+      "deaths": 3215,
       "recovered": 68200
     }
   },
@@ -565,10 +565,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1179,
+      "confirmed": 1202,
       "date": "2020-04-14",
       "deaths": 14,
-      "recovered": 150
+      "recovered": 203
     }
   },
   "Korea, South": {
@@ -701,7 +701,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 5716,
+      "confirmed": 5837,
       "date": "2020-04-14",
       "deaths": 96,
       "recovered": 1378
@@ -773,10 +773,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 4934,
+      "confirmed": 5369,
       "date": "2020-04-14",
-      "deaths": 65,
-      "recovered": 805
+      "deaths": 73,
+      "recovered": 889
     }
   },
   "Serbia": {
@@ -1071,7 +1071,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 903,
+          "confirmed": 923,
           "date": "2020-04-14",
           "deaths": 45,
           "recovered": 0
