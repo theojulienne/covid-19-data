@@ -59,8 +59,8 @@
     "AUS": {
       "latest": {
         "confirmed": 6487,
-        "current_hospitalized": 150,
-        "current_icu": 50,
+        "current_hospitalized": 127,
+        "current_icu": 39,
         "deaths": 26,
         "recovered": 2164,
         "tested": 363789
@@ -93,8 +93,8 @@
         },
         "QLD": {
           "confirmed": 998,
-          "current_hospitalized": 23,
-          "current_icu": 11,
+          "current_hospitalized": null,
+          "current_icu": null,
           "deaths": 5,
           "recovered": 442,
           "tested": 72313
@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 685,
-        "deaths": 32,
-        "recovered": 71
+        "confirmed": 695,
+        "deaths": 35,
+        "recovered": 81
       }
     },
     "BHR": {
@@ -235,7 +235,7 @@
       "latest": {
         "confirmed": 23723,
         "deaths": 1355,
-        "recovered": 2971
+        "recovered": 2979
       }
     },
     "BRB": {
@@ -604,7 +604,7 @@
       "latest": {
         "confirmed": 130072,
         "deaths": 3194,
-        "recovered": 64300
+        "recovered": 68200
       }
     },
     "DJI": {
@@ -935,9 +935,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 1458,
-        "deaths": 109,
-        "recovered": 120
+        "confirmed": 1512,
+        "deaths": 122,
+        "recovered": 122
       }
     },
     "IDN": {
@@ -949,9 +949,9 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 10453,
+        "confirmed": 10541,
         "deaths": 358,
-        "recovered": 1193
+        "recovered": 1205
       }
     },
     "IRL": {
@@ -1019,7 +1019,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 1091,
+        "confirmed": 1179,
         "deaths": 14,
         "recovered": 138
       }
@@ -1110,7 +1110,7 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 1062,
+        "confirmed": 1070,
         "deaths": 24,
         "recovered": 101
       }
@@ -1328,9 +1328,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 5707,
+        "confirmed": 5716,
         "deaths": 96,
-        "recovered": 1097
+        "recovered": 1378
       }
     },
     "PAN": {
@@ -1948,7 +1948,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 998,
+        "confirmed": 1054,
         "deaths": 4,
         "recovered": 85
       }
