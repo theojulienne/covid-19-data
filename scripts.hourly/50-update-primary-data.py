@@ -244,21 +244,28 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
     updated_dataset_totals = updated['total']
     del updated['total']
 
-    first_new_date = updated_dataset_dates[0]
-    # we assume here that the overlayed updated dataset starts after the main one
-    if first_new_date not in original_dates:
-        print('WARNING: attempt to merge a dataset starting outside the original range'.format(key))
-        return original
-    
-    date_index_in_old = original_dates.index(first_new_date)
     for series_name, series_data in updated_dataset_totals.items():
+        # find the first not
+        first_real_index = 0
+        for i, val in enumerate(series_data):
+            if val is not None:
+                # this is the first real datapoint, so start there
+                first_real_index = i
+                break
+        first_new_date = updated_dataset_dates[first_real_index]
+        # we assume here that the overlayed updated dataset starts after the main one
+        if first_new_date not in original_dates:
+            print('WARNING: attempt to merge a dataset starting outside the original range'.format(key))
+            return original
+        
+        date_index_in_old = original_dates.index(first_new_date)
         if series_name not in original['total']:
             # the main dataset doesn't have this. we just need to adjust the series to match dates
-            updated_dataset_totals[series_name] = ([0] * date_index_in_old) + series_data
+            updated_dataset_totals[series_name] = ([0] * date_index_in_old) + series_data[first_real_index:]
         else:
             # the main dataset DOES have this. what we want is all the data is had, before ours.
             # then, keep our data from then on.
-            updated_dataset_totals[series_name] = original['total'][series_name][:date_index_in_old] + series_data
+            updated_dataset_totals[series_name] = original['total'][series_name][:date_index_in_old] + series_data[first_real_index:]
     
     # for i, date in enumerate(original_dates):
     #     print(i, date, updated_dataset_totals['confirmed'][i], original['total']['confirmed'][i])
@@ -268,6 +275,9 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
         if key not in original:
             # we need to deep find all subseries and pad them with empty data up until the start of the main dataset
             if isinstance(value, dict) and 'subseries' in value:
+                # we've created a new dataset, so we use the first date and pad
+                first_new_date = updated_dataset_dates[0]
+                date_index_in_old = original_dates.index(first_new_date)
                 for subseries_key, timeseries in value['subseries'].items():
                     value['subseries'][subseries_key] = ([0] * date_index_in_old) + timeseries
             dataset[key] = value
