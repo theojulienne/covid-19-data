@@ -43,7 +43,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2863,
+          "confirmed": 2870,
           "date": "2020-04-14",
           "deaths": 25,
           "recovered": 4
@@ -51,26 +51,34 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 987,
+          "confirmed": 998,
           "date": "2020-04-14",
           "deaths": 5,
-          "recovered": 372
+          "recovered": 442
+        }
+      },
+      "South Australia": {
+        "live": {
+          "confirmed": 531,
+          "date": "2020-04-14",
+          "deaths": 4,
+          "recovered": 240
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1281,
+          "confirmed": 1291,
           "date": "2020-04-14",
           "deaths": 14,
-          "recovered": 926
+          "recovered": 1118
         }
       },
       "Western Australia": {
         "live": {
-          "confirmed": 517,
+          "confirmed": 523,
           "date": "2020-04-14",
           "deaths": 6,
-          "recovered": 216
+          "recovered": 251
         }
       }
     }
@@ -136,7 +144,7 @@
       "confirmed": 23723,
       "date": "2020-04-14",
       "deaths": 1355,
-      "recovered": 173
+      "recovered": 2971
     }
   },
   "Bulgaria": {
@@ -549,7 +557,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 7618,
+      "confirmed": 7645,
       "date": "2020-04-14",
       "deaths": 143,
       "recovered": 799
@@ -559,7 +567,7 @@
     "live": {
       "confirmed": 1091,
       "date": "2020-04-14",
-      "deaths": 12,
+      "deaths": 14,
       "recovered": 138
     }
   },
@@ -693,10 +701,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 5496,
+      "confirmed": 5707,
       "date": "2020-04-14",
-      "deaths": 93,
-      "recovered": 1095
+      "deaths": 96,
+      "recovered": 1097
     }
   },
   "Panama": {
@@ -959,9 +967,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 550,
+          "confirmed": 531,
           "date": "2020-04-14",
-          "deaths": 42,
+          "deaths": 46,
           "recovered": 0
         }
       },
@@ -1023,9 +1031,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 63159,
+          "confirmed": 62651,
           "date": "2020-04-14",
-          "deaths": 2384,
+          "deaths": 2346,
           "recovered": 0
         }
       },

@@ -342,7 +342,8 @@ var covid19_dataset_country_bra = {
       173,
       173,
       173,
-      173
+      173,
+      2971
     ]
   }
 };
