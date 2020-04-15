@@ -172,7 +172,8 @@ var covid19_dataset_country_mda = {
       1560,
       1662,
       1712,
-      1934
+      1934,
+      2049
     ],
     "deaths": [
       0,
@@ -259,7 +260,7 @@ var covid19_dataset_country_mda = {
       31,
       35,
       40,
-      43
+      44
     ],
     "recovered": [
       0,
