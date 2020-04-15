@@ -345,7 +345,8 @@ var covid19_dataset_country_ltu = {
       54,
       97,
       101,
-      101
+      101,
+      138
     ]
   }
 };

@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 714,
+      "confirmed": 784,
       "date": "2020-04-15",
-      "deaths": 23,
-      "recovered": 40
+      "deaths": 25,
+      "recovered": 43
     }
   },
   "Algeria": {
@@ -43,7 +43,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2870,
+          "confirmed": 2886,
           "date": "2020-04-15",
           "deaths": 25,
           "recovered": 4
@@ -51,7 +51,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 998,
+          "confirmed": 999,
           "date": "2020-04-15",
           "deaths": 5,
           "recovered": 442
@@ -59,7 +59,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1291,
+          "confirmed": 1299,
           "date": "2020-04-15",
           "deaths": 14,
           "recovered": 1118
@@ -88,7 +88,7 @@
       "confirmed": 1528,
       "date": "2020-04-15",
       "deaths": 7,
-      "recovered": 645
+      "recovered": 648
     }
   },
   "Bangladesh": {
@@ -477,10 +477,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 11487,
+      "confirmed": 11555,
       "date": "2020-04-15",
-      "deaths": 393,
-      "recovered": 1359
+      "deaths": 396,
+      "recovered": 1362
     }
   },
   "Indonesia": {
@@ -512,7 +512,7 @@
       "confirmed": 11479,
       "date": "2020-04-15",
       "deaths": 406,
-      "recovered": 25
+      "recovered": 77
     }
   },
   "Israel": {
@@ -584,7 +584,7 @@
       "confirmed": 1091,
       "date": "2020-04-15",
       "deaths": 29,
-      "recovered": 101
+      "recovered": 138
     }
   },
   "Luxembourg": {
@@ -615,8 +615,8 @@
     "live": {
       "confirmed": 1934,
       "date": "2020-04-15",
-      "deaths": 40,
-      "recovered": 134
+      "deaths": 41,
+      "recovered": 171
     }
   },
   "Morocco": {
@@ -669,10 +669,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 813,
+      "confirmed": 910,
       "date": "2020-04-15",
       "deaths": 4,
-      "recovered": 130
+      "recovered": 131
     }
   },
   "Pakistan": {
@@ -863,7 +863,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 21920,
+          "confirmed": 21946,
           "date": "2020-04-15",
           "deaths": 679,
           "recovered": 0
@@ -1015,7 +1015,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 200026,
+          "confirmed": 200055,
           "date": "2020-04-15",
           "deaths": 10744,
           "recovered": 0

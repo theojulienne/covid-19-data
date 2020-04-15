@@ -344,7 +344,8 @@ var covid19_dataset_country_irl = {
       25,
       25,
       25,
-      25
+      25,
+      77
     ]
   }
 };
