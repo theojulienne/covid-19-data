@@ -25,9 +25,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2277,
+      "confirmed": 2443,
       "date": "2020-04-15",
-      "deaths": 102,
+      "deaths": 105,
       "recovered": 559
     }
   },
@@ -533,10 +533,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 7645,
+      "confirmed": 7885,
       "date": "2020-04-15",
-      "deaths": 143,
-      "recovered": 799
+      "deaths": 146,
+      "recovered": 853
     }
   },
   "Kazakhstan": {
@@ -637,10 +637,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1366,
+      "confirmed": 1386,
       "date": "2020-04-15",
       "deaths": 9,
-      "recovered": 628
+      "recovered": 728
     }
   },
   "Niger": {
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 26375,
           "date": "2020-04-15",
-          "deaths": 676,
+          "deaths": 774,
           "recovered": 0
         }
       },
@@ -1111,7 +1111,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8184,
+          "confirmed": 8205,
           "date": "2020-04-15",
           "deaths": 432,
           "recovered": 0

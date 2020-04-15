@@ -37,8 +37,8 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "latest": {
-        "confirmed": 2277,
-        "deaths": 102,
+        "confirmed": 2443,
+        "deaths": 105,
         "recovered": 559
       }
     },
@@ -1012,9 +1012,9 @@ var covid19_dataset_latest_totals = {
     },
     "JPN": {
       "latest": {
-        "confirmed": 7645,
-        "deaths": 143,
-        "recovered": 799
+        "confirmed": 7885,
+        "deaths": 146,
+        "recovered": 853
       }
     },
     "KAZ": {
@@ -1314,9 +1314,9 @@ var covid19_dataset_latest_totals = {
     },
     "NZL": {
       "latest": {
-        "confirmed": 1366,
+        "confirmed": 1386,
         "deaths": 9,
-        "recovered": 628
+        "recovered": 728
       }
     },
     "OMN": {
