@@ -346,7 +346,8 @@ var covid19_dataset_country_are = {
       588,
       680,
       852,
-      933
+      933,
+      1034
     ]
   }
 };
