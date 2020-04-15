@@ -64,14 +64,6 @@
           "deaths": 14,
           "recovered": 1118
         }
-      },
-      "Western Australia": {
-        "live": {
-          "confirmed": 527,
-          "date": "2020-04-14",
-          "deaths": 6,
-          "recovered": 251
-        }
       }
     }
   },
@@ -133,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 24920,
+      "confirmed": 25262,
       "date": "2020-04-14",
-      "deaths": 1489,
+      "deaths": 1532,
       "recovered": 3046
     }
   },
@@ -159,9 +151,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 1732,
+          "confirmed": 1870,
           "date": "2020-04-14",
-          "deaths": 46,
+          "deaths": 48,
           "recovered": 0
         }
       },
@@ -653,10 +645,10 @@
   },
   "Niger": {
     "live": {
-      "confirmed": 548,
+      "confirmed": 570,
       "date": "2020-04-14",
-      "deaths": 13,
-      "recovered": 86
+      "deaths": 14,
+      "recovered": 90
     }
   },
   "North Macedonia": {
@@ -855,7 +847,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 619,
+          "confirmed": 620,
           "date": "2020-04-14",
           "deaths": 16,
           "recovered": 0
@@ -879,9 +871,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 5417,
+          "confirmed": 5630,
           "date": "2020-04-14",
-          "deaths": 238,
+          "deaths": 253,
           "recovered": 0
         }
       },
@@ -895,9 +887,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 1470,
+          "confirmed": 1586,
           "date": "2020-04-14",
-          "deaths": 35,
+          "deaths": 36,
           "recovered": 0
         }
       },
@@ -911,7 +903,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 15743,
+          "confirmed": 15945,
           "date": "2020-04-14",
           "deaths": 357,
           "recovered": 0
@@ -919,9 +911,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6388,
+          "confirmed": 6628,
           "date": "2020-04-14",
-          "deaths": 215,
+          "deaths": 223,
           "recovered": 0
         }
       },
@@ -1007,9 +999,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 2444,
+          "confirmed": 3041,
           "date": "2020-04-14",
-          "deaths": 101,
+          "deaths": 118,
           "recovered": 0
         }
       },
@@ -1023,9 +1015,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 199328,
+          "confirmed": 199698,
           "date": "2020-04-14",
-          "deaths": 10694,
+          "deaths": 10744,
           "recovered": 0
         }
       },
@@ -1047,9 +1039,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 21583,
+          "confirmed": 21598,
           "date": "2020-04-14",
-          "deaths": 567,
+          "deaths": 597,
           "recovered": 0
         }
       },
@@ -1063,17 +1055,17 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 2554,
+          "confirmed": 2829,
           "date": "2020-04-14",
-          "deaths": 73,
+          "deaths": 80,
           "recovered": 0
         }
       },
       "South Carolina": {
         "live": {
-          "confirmed": 524,
+          "confirmed": 535,
           "date": "2020-04-14",
-          "deaths": 10,
+          "deaths": 11,
           "recovered": 0
         }
       },

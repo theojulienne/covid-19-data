@@ -84,7 +84,8 @@ var covid19_dataset_country_zwe = {
     "2020-04-12",
     "2020-04-13",
     "2020-04-14",
-    "2020-04-15"
+    "2020-04-15",
+    "2020-04-16"
   ],
   "total": {
     "confirmed": [
@@ -170,6 +171,7 @@ var covid19_dataset_country_zwe = {
       13,
       14,
       14,
+      17,
       17
     ],
     "deaths": [
@@ -255,9 +257,11 @@ var covid19_dataset_country_zwe = {
       3,
       3,
       3,
+      3,
       3
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

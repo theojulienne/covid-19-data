@@ -84,7 +84,8 @@ var covid19_dataset_country_cyp = {
     "2020-04-12",
     "2020-04-13",
     "2020-04-14",
-    "2020-04-15"
+    "2020-04-15",
+    "2020-04-16"
   ],
   "total": {
     "confirmed": [
@@ -256,6 +257,7 @@ var covid19_dataset_country_cyp = {
       10,
       10,
       11,
+      12,
       12
     ],
     "recovered": [
@@ -340,6 +342,7 @@ var covid19_dataset_country_cyp = {
       53,
       58,
       61,
+      65,
       65,
       65
     ]
