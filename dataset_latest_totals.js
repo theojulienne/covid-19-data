@@ -684,8 +684,8 @@ var covid19_dataset_latest_totals = {
     },
     "ESP": {
       "latest": {
-        "confirmed": 177633,
-        "deaths": 18579,
+        "confirmed": 177644,
+        "deaths": 18708,
         "recovered": 70853
       }
     },
@@ -922,7 +922,7 @@ var covid19_dataset_latest_totals = {
     "HRV": {
       "latest": {
         "confirmed": 1741,
-        "deaths": 34,
+        "deaths": 33,
         "recovered": 473
       }
     },
