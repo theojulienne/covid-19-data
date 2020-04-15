@@ -344,7 +344,8 @@ var covid19_dataset_country_pol = {
       375,
       439,
       487,
-      618
+      618,
+      668
     ]
   }
 };

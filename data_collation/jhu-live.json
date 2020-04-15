@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 1067,
+      "confirmed": 1111,
       "date": "2020-04-15",
-      "deaths": 16,
-      "recovered": 265
+      "deaths": 17,
+      "recovered": 297
     }
   },
   "Australia": {
@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14234,
+      "confirmed": 14265,
       "date": "2020-04-15",
       "deaths": 384,
       "recovered": 7633
@@ -294,7 +294,7 @@
           "confirmed": 622,
           "date": "2020-04-15",
           "deaths": 7,
-          "recovered": 468
+          "recovered": 485
         }
       },
       "Sichuan": {
@@ -365,10 +365,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 6141,
+      "confirmed": 6151,
       "date": "2020-04-15",
-      "deaths": 161,
-      "recovered": 642
+      "deaths": 163,
+      "recovered": 676
     }
   },
   "Denmark": {
@@ -517,10 +517,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 12046,
+      "confirmed": 12200,
       "date": "2020-04-15",
-      "deaths": 123,
-      "recovered": 2195
+      "deaths": 126,
+      "recovered": 2309
     }
   },
   "Italy": {
@@ -541,9 +541,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1267,
+      "confirmed": 1275,
       "date": "2020-04-15",
-      "deaths": 14,
+      "deaths": 15,
       "recovered": 203
     }
   },
@@ -565,7 +565,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 657,
+      "confirmed": 666,
       "date": "2020-04-15",
       "deaths": 5,
       "recovered": 16
@@ -712,7 +712,7 @@
       "confirmed": 7202,
       "date": "2020-04-15",
       "deaths": 263,
-      "recovered": 618
+      "recovered": 668
     }
   },
   "Portugal": {
@@ -735,16 +735,16 @@
     "live": {
       "confirmed": 6879,
       "date": "2020-04-15",
-      "deaths": 351,
+      "deaths": 357,
       "recovered": 1051
     }
   },
   "Russia": {
     "live": {
-      "confirmed": 21102,
+      "confirmed": 24490,
       "date": "2020-04-15",
-      "deaths": 170,
-      "recovered": 1694
+      "deaths": 198,
+      "recovered": 1986
     }
   },
   "Saudi Arabia": {
@@ -1129,10 +1129,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 3372,
+      "confirmed": 3764,
       "date": "2020-04-15",
-      "deaths": 98,
-      "recovered": 119
+      "deaths": 108,
+      "recovered": 143
     }
   },
   "United Arab Emirates": {
