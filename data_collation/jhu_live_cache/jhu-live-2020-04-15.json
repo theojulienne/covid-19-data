@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 25262,
+      "confirmed": 25684,
       "date": "2020-04-15",
-      "deaths": 1532,
+      "deaths": 1552,
       "recovered": 14026
     }
   },
@@ -533,7 +533,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 7885,
+      "confirmed": 8100,
       "date": "2020-04-15",
       "deaths": 146,
       "recovered": 853
@@ -541,7 +541,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1232,
+      "confirmed": 1267,
       "date": "2020-04-15",
       "deaths": 14,
       "recovered": 203
@@ -677,9 +677,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 5837,
+      "confirmed": 5983,
       "date": "2020-04-15",
-      "deaths": 96,
+      "deaths": 107,
       "recovered": 1378
     }
   },
@@ -863,9 +863,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 21872,
+          "confirmed": 21920,
           "date": "2020-04-15",
-          "deaths": 677,
+          "deaths": 679,
           "recovered": 0
         }
       },
@@ -983,7 +983,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 558,
+          "confirmed": 588,
           "date": "2020-04-15",
           "deaths": 40,
           "recovered": 0

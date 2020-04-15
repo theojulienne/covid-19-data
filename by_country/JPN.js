@@ -173,7 +173,7 @@ var covid19_dataset_country_jpn = {
       6748,
       7370,
       7645,
-      7885
+      8100
     ],
     "deaths": [
       0,
