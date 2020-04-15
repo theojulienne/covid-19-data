@@ -135,7 +135,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 14280,
+        "confirmed": 14290,
         "deaths": 393,
         "recovered": 8098
       }
@@ -205,15 +205,15 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "latest": {
-        "confirmed": 1083,
-        "deaths": 40,
-        "recovered": 236
+        "confirmed": 1110,
+        "deaths": 41,
+        "recovered": 253
       }
     },
     "BLR": {
       "latest": {
-        "confirmed": 3281,
-        "deaths": 33,
+        "confirmed": 3728,
+        "deaths": 36,
         "recovered": 203
       }
     },
@@ -358,9 +358,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 83336,
+        "confirmed": 83340,
         "deaths": 3346,
-        "recovered": 78271
+        "recovered": 78296
       },
       "states": {
         "Anhui": {
@@ -424,9 +424,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 1254
         },
         "Hong Kong": {
-          "confirmed": 1012,
+          "confirmed": 1016,
           "deaths": 4,
-          "recovered": 434
+          "recovered": 459
         },
         "Hubei": {
           "confirmed": 67803,
@@ -1068,7 +1068,7 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "latest": {
-        "confirmed": 641,
+        "confirmed": 658,
         "deaths": 21,
         "recovered": 81
       }
@@ -1146,7 +1146,7 @@ var covid19_dataset_latest_totals = {
     "MDA": {
       "latest": {
         "confirmed": 1934,
-        "deaths": 41,
+        "deaths": 43,
         "recovered": 171
       }
     },
@@ -1300,8 +1300,8 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 6623,
-        "deaths": 139,
+        "confirmed": 6686,
+        "deaths": 142,
         "recovered": 32
       }
     },
@@ -1498,7 +1498,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 863,
         "deaths": 2,
-        "recovered": 113
+        "recovered": 151
       }
     },
     "SVN": {
@@ -1951,7 +1951,7 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 1214,
+        "confirmed": 1275,
         "deaths": 4,
         "recovered": 99
       }
