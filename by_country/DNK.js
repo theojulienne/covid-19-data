@@ -785,7 +785,8 @@ var covid19_dataset_country_dnk = {
       260,
       273,
       285,
-      299
+      299,
+      309
     ],
     "recovered": [
       0,

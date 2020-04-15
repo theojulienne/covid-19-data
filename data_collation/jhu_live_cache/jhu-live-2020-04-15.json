@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14290,
+      "confirmed": 14297,
       "date": "2020-04-15",
       "deaths": 393,
       "recovered": 8098
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 25684,
+      "confirmed": 25758,
       "date": "2020-04-15",
-      "deaths": 1552,
+      "deaths": 1557,
       "recovered": 14026
     }
   },
@@ -341,10 +341,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1704,
+      "confirmed": 1741,
       "date": "2020-04-15",
-      "deaths": 31,
-      "recovered": 415
+      "deaths": 34,
+      "recovered": 473
     }
   },
   "Cuba": {
@@ -375,7 +375,7 @@
     "live": {
       "confirmed": 6681,
       "date": "2020-04-15",
-      "deaths": 299,
+      "deaths": 309,
       "recovered": 2515
     }
   },
@@ -541,7 +541,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1275,
+      "confirmed": 1290,
       "date": "2020-04-15",
       "deaths": 15,
       "recovered": 220
@@ -568,7 +568,7 @@
       "confirmed": 666,
       "date": "2020-04-15",
       "deaths": 5,
-      "recovered": 16
+      "recovered": 44
     }
   },
   "Lebanon": {
@@ -629,9 +629,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 27419,
+      "confirmed": 28153,
       "date": "2020-04-15",
-      "deaths": 2945,
+      "deaths": 3134,
       "recovered": 250
     }
   },
@@ -717,18 +717,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 17448,
+      "confirmed": 18091,
       "date": "2020-04-15",
-      "deaths": 567,
-      "recovered": 347
+      "deaths": 599,
+      "recovered": 383
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 3428,
+      "confirmed": 3711,
       "date": "2020-04-15",
       "deaths": 7,
-      "recovered": 373
+      "recovered": 406
     }
   },
   "Romania": {
@@ -805,9 +805,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 11445,
+      "confirmed": 11927,
       "date": "2020-04-15",
-      "deaths": 1033,
+      "deaths": 1203,
       "recovered": 381
     }
   },
