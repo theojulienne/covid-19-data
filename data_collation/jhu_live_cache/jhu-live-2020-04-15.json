@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14226,
+      "confirmed": 14234,
       "date": "2020-04-15",
       "deaths": 384,
       "recovered": 7633
@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 713,
+      "confirmed": 735,
       "date": "2020-04-15",
-      "deaths": 35,
-      "recovered": 81
+      "deaths": 36,
+      "recovered": 105
     }
   },
   "Cameroon": {
@@ -365,7 +365,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 6111,
+      "confirmed": 6141,
       "date": "2020-04-15",
       "deaths": 161,
       "recovered": 642
@@ -440,7 +440,7 @@
       "confirmed": 132210,
       "date": "2020-04-15",
       "deaths": 3495,
-      "recovered": 68200
+      "recovered": 72600
     }
   },
   "Ghana": {
@@ -461,10 +461,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1512,
+      "confirmed": 1579,
       "date": "2020-04-15",
-      "deaths": 122,
-      "recovered": 122
+      "deaths": 134,
+      "recovered": 192
     }
   },
   "Iceland": {
@@ -581,7 +581,7 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1070,
+      "confirmed": 1091,
       "date": "2020-04-15",
       "deaths": 29,
       "recovered": 101
@@ -677,10 +677,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 5983,
+      "confirmed": 5988,
       "date": "2020-04-15",
       "deaths": 107,
-      "recovered": 1378
+      "recovered": 1446
     }
   },
   "Panama": {
@@ -816,15 +816,15 @@
       "confirmed": 25936,
       "date": "2020-04-15",
       "deaths": 1174,
-      "recovered": 13700
+      "recovered": 14700
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 2613,
+      "confirmed": 2643,
       "date": "2020-04-15",
-      "deaths": 41,
-      "recovered": 1405
+      "deaths": 43,
+      "recovered": 1497
     }
   },
   "Tunisia": {
@@ -1025,7 +1025,7 @@
         "live": {
           "confirmed": 993,
           "date": "2020-04-15",
-          "deaths": 15,
+          "deaths": 16,
           "recovered": 0
         }
       },
@@ -1153,7 +1153,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1165,
+      "confirmed": 1214,
       "date": "2020-04-15",
       "deaths": 4,
       "recovered": 99
