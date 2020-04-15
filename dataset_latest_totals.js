@@ -136,8 +136,8 @@ var covid19_dataset_latest_totals = {
     "AUT": {
       "latest": {
         "confirmed": 14265,
-        "deaths": 384,
-        "recovered": 7633
+        "deaths": 393,
+        "recovered": 8098
       }
     },
     "AZE": {
@@ -177,9 +177,9 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "latest": {
-        "confirmed": 1012,
-        "deaths": 46,
-        "recovered": 42
+        "confirmed": 1231,
+        "deaths": 50,
+        "recovered": 49
       }
     },
     "BGR": {
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "latest": {
-        "confirmed": 6511,
+        "confirmed": 6681,
         "deaths": 299,
         "recovered": 2515
       },
@@ -942,9 +942,9 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "latest": {
-        "confirmed": 4839,
-        "deaths": 459,
-        "recovered": 426
+        "confirmed": 5136,
+        "deaths": 469,
+        "recovered": 446
       }
     },
     "IND": {
@@ -1021,7 +1021,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 1275,
         "deaths": 15,
-        "recovered": 203
+        "recovered": 207
       }
     },
     "KEN": {
@@ -1070,7 +1070,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 641,
         "deaths": 21,
-        "recovered": 80
+        "recovered": 81
       }
     },
     "LBR": {
@@ -1349,9 +1349,9 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "latest": {
-        "confirmed": 5223,
-        "deaths": 335,
-        "recovered": 295
+        "confirmed": 5453,
+        "deaths": 349,
+        "recovered": 353
       }
     },
     "PNG": {
@@ -1363,8 +1363,8 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "latest": {
-        "confirmed": 7202,
-        "deaths": 263,
+        "confirmed": 7408,
+        "deaths": 268,
         "recovered": 668
       }
     },
@@ -1503,9 +1503,9 @@ var covid19_dataset_latest_totals = {
     },
     "SVN": {
       "latest": {
-        "confirmed": 1220,
-        "deaths": 56,
-        "recovered": 152
+        "confirmed": 1248,
+        "deaths": 61,
+        "recovered": 165
       }
     },
     "SWE": {
