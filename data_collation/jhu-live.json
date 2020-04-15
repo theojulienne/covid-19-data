@@ -837,9 +837,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 747,
+      "confirmed": 780,
       "date": "2020-04-15",
-      "deaths": 34,
+      "deaths": 35,
       "recovered": 43
     }
   },
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 22046,
+          "confirmed": 22741,
           "date": "2020-04-15",
-          "deaths": 693,
+          "deaths": 744,
           "recovered": 0
         }
       },
@@ -975,7 +975,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 26375,
+          "confirmed": 28027,
           "date": "2020-04-15",
           "deaths": 873,
           "recovered": 0
@@ -1023,9 +1023,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 199520,
+          "confirmed": 210217,
           "date": "2020-04-15",
-          "deaths": 10728,
+          "deaths": 11496,
           "recovered": 0
         }
       },
