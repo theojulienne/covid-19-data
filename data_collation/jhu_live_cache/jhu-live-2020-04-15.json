@@ -17,18 +17,18 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 659,
+      "confirmed": 673,
       "date": "2020-04-15",
-      "deaths": 31,
-      "recovered": 128
+      "deaths": 33,
+      "recovered": 169
     }
   },
   "Argentina": {
     "live": {
       "confirmed": 2443,
       "date": "2020-04-15",
-      "deaths": 108,
-      "recovered": 559
+      "deaths": 109,
+      "recovered": 596
     }
   },
   "Armenia": {
@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14321,
+      "confirmed": 14325,
       "date": "2020-04-15",
       "deaths": 393,
       "recovered": 8098
@@ -133,7 +133,7 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 735,
+      "confirmed": 747,
       "date": "2020-04-15",
       "deaths": 36,
       "recovered": 105
@@ -376,7 +376,7 @@
       "confirmed": 6681,
       "date": "2020-04-15",
       "deaths": 309,
-      "recovered": 2515
+      "recovered": 2748
     }
   },
   "Diamond Princess": {
@@ -389,10 +389,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 3286,
+      "confirmed": 3614,
       "date": "2020-04-15",
-      "deaths": 183,
-      "recovered": 162
+      "deaths": 189,
+      "recovered": 208
     }
   },
   "Ecuador": {
@@ -423,7 +423,7 @@
     "live": {
       "confirmed": 3237,
       "date": "2020-04-15",
-      "deaths": 64,
+      "deaths": 72,
       "recovered": 300
     }
   },
@@ -437,9 +437,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 132321,
+      "confirmed": 132553,
       "date": "2020-04-15",
-      "deaths": 3502,
+      "deaths": 3528,
       "recovered": 72600
     }
   },
@@ -469,10 +469,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1720,
+      "confirmed": 1727,
       "date": "2020-04-15",
       "deaths": 8,
-      "recovered": 989
+      "recovered": 1077
     }
   },
   "India": {
@@ -879,9 +879,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 12659,
+          "confirmed": 12126,
           "date": "2020-04-15",
-          "deaths": 595,
+          "deaths": 591,
           "recovered": 0
         }
       },
@@ -1047,9 +1047,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 923,
+          "confirmed": 974,
           "date": "2020-04-15",
-          "deaths": 45,
+          "deaths": 51,
           "recovered": 0
         }
       },
@@ -1103,9 +1103,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 1207,
+          "confirmed": 1834,
           "date": "2020-04-15",
-          "deaths": 20,
+          "deaths": 22,
           "recovered": 0
         }
       },
@@ -1145,9 +1145,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 93873,
+      "confirmed": 98476,
       "date": "2020-04-15",
-      "deaths": 12107,
+      "deaths": 12868,
       "recovered": 0
     }
   },

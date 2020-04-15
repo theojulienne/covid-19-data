@@ -23,9 +23,9 @@ var covid19_dataset_latest_totals = {
     },
     "AND": {
       "latest": {
-        "confirmed": 659,
-        "deaths": 31,
-        "recovered": 128
+        "confirmed": 673,
+        "deaths": 33,
+        "recovered": 169
       }
     },
     "ARE": {
@@ -38,8 +38,8 @@ var covid19_dataset_latest_totals = {
     "ARG": {
       "latest": {
         "confirmed": 2443,
-        "deaths": 108,
-        "recovered": 559
+        "deaths": 109,
+        "recovered": 596
       }
     },
     "ARM": {
@@ -135,7 +135,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 14321,
+        "confirmed": 14325,
         "deaths": 393,
         "recovered": 8098
       }
@@ -184,7 +184,7 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "latest": {
-        "confirmed": 735,
+        "confirmed": 747,
         "deaths": 36,
         "recovered": 105
       }
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 132321,
-        "deaths": 3502,
+        "confirmed": 132553,
+        "deaths": 3528,
         "recovered": 72600
       }
     },
@@ -625,7 +625,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 6681,
         "deaths": 309,
-        "recovered": 2515
+        "recovered": 2748
       },
       "states": {
         "Faroe Islands": {
@@ -642,9 +642,9 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "latest": {
-        "confirmed": 3286,
-        "deaths": 183,
-        "recovered": 162
+        "confirmed": 3614,
+        "deaths": 189,
+        "recovered": 208
       }
     },
     "DZA": {
@@ -706,7 +706,7 @@ var covid19_dataset_latest_totals = {
     "FIN": {
       "latest": {
         "confirmed": 3237,
-        "deaths": 64,
+        "deaths": 72,
         "recovered": 300
       }
     },
@@ -785,8 +785,8 @@ var covid19_dataset_latest_totals = {
     },
     "GBR": {
       "latest": {
-        "confirmed": 93873,
-        "deaths": 12107,
+        "confirmed": 98476,
+        "deaths": 12868,
         "recovered": 0
       },
       "states": {
@@ -977,9 +977,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISL": {
       "latest": {
-        "confirmed": 1720,
+        "confirmed": 1727,
         "deaths": 8,
-        "recovered": 989
+        "recovered": 1077
       }
     },
     "ISR": {
