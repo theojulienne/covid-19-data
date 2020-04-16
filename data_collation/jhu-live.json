@@ -325,10 +325,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 2979,
+      "confirmed": 3105,
       "date": "2020-04-15",
-      "deaths": 127,
-      "recovered": 354
+      "deaths": 131,
+      "recovered": 452
     }
   },
   "Costa Rica": {
@@ -437,7 +437,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 130253,
+      "confirmed": 133470,
       "date": "2020-04-15",
       "deaths": 17167,
       "recovered": 30955
@@ -445,9 +445,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 133456,
+      "confirmed": 134753,
       "date": "2020-04-15",
-      "deaths": 3592,
+      "deaths": 3804,
       "recovered": 72600
     }
   },
@@ -653,7 +653,7 @@
   },
   "Niger": {
     "live": {
-      "confirmed": 570,
+      "confirmed": 584,
       "date": "2020-04-15",
       "deaths": 14,
       "recovered": 90
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 22741,
+          "confirmed": 22746,
           "date": "2020-04-15",
-          "deaths": 744,
+          "deaths": 746,
           "recovered": 0
         }
       },
@@ -887,15 +887,15 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 12126,
+          "confirmed": 12808,
           "date": "2020-04-15",
-          "deaths": 591,
+          "deaths": 773,
           "recovered": 0
         }
       },
       "Delaware": {
         "live": {
-          "confirmed": 1586,
+          "confirmed": 1652,
           "date": "2020-04-15",
           "deaths": 36,
           "recovered": 0
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 28599,
           "date": "2020-04-15",
-          "deaths": 887,
+          "deaths": 1037,
           "recovered": 0
         }
       },
@@ -1111,9 +1111,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1795,
+          "confirmed": 1870,
           "date": "2020-04-15",
-          "deaths": 101,
+          "deaths": 105,
           "recovered": 0
         }
       }

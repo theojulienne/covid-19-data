@@ -85,7 +85,8 @@ var covid19_dataset_country_cmr = {
     "2020-04-13",
     "2020-04-14",
     "2020-04-15",
-    "2020-04-16"
+    "2020-04-16",
+    "2020-04-17"
   ],
   "total": {
     "confirmed": [
@@ -172,6 +173,7 @@ var covid19_dataset_country_cmr = {
       820,
       820,
       820,
+      848,
       848
     ],
     "deaths": [
