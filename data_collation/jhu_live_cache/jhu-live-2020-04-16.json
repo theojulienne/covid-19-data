@@ -125,7 +125,7 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 28610,
+      "confirmed": 28746,
       "date": "2020-04-16",
       "deaths": 1757,
       "recovered": 14026
@@ -485,10 +485,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 12322,
+      "confirmed": 12370,
       "date": "2020-04-16",
-      "deaths": 405,
-      "recovered": 1432
+      "deaths": 422,
+      "recovered": 1508
     }
   },
   "Indonesia": {
@@ -541,10 +541,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 8100,
+      "confirmed": 8626,
       "date": "2020-04-16",
-      "deaths": 146,
-      "recovered": 853
+      "deaths": 178,
+      "recovered": 901
     }
   },
   "Kazakhstan": {
@@ -613,9 +613,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 5399,
+      "confirmed": 5847,
       "date": "2020-04-16",
-      "deaths": 406,
+      "deaths": 449,
       "recovered": 2125
     }
   },
@@ -645,10 +645,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1386,
+      "confirmed": 1401,
       "date": "2020-04-16",
       "deaths": 9,
-      "recovered": 728
+      "recovered": 770
     }
   },
   "Niger": {
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 22890,
+          "confirmed": 22972,
           "date": "2020-04-16",
-          "deaths": 750,
+          "deaths": 757,
           "recovered": 0
         }
       },
@@ -1015,17 +1015,17 @@
       },
       "New York": {
         "live": {
-          "confirmed": 210662,
+          "confirmed": 210721,
           "date": "2020-04-16",
-          "deaths": 11491,
+          "deaths": 13935,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1015,
+          "confirmed": 1052,
           "date": "2020-04-16",
-          "deaths": 16,
+          "deaths": 19,
           "recovered": 0
         }
       },
@@ -1079,9 +1079,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 9492,
+          "confirmed": 9567,
           "date": "2020-04-16",
-          "deaths": 196,
+          "deaths": 200,
           "recovered": 0
         }
       },
@@ -1103,9 +1103,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8320,
+          "confirmed": 8342,
           "date": "2020-04-16",
-          "deaths": 444,
+          "deaths": 445,
           "recovered": 0
         }
       },
