@@ -174,7 +174,8 @@ var covid19_dataset_country_cze = {
       5991,
       6059,
       6111,
-      6216
+      6216,
+      6301
     ],
     "deaths": [
       0,
