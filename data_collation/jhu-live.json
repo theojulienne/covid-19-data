@@ -27,8 +27,8 @@
     "live": {
       "confirmed": 2571,
       "date": "2020-04-16",
-      "deaths": 112,
-      "recovered": 596
+      "deaths": 115,
+      "recovered": 631
     }
   },
   "Armenia": {
@@ -151,7 +151,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 1870,
+          "confirmed": 1996,
           "date": "2020-04-16",
           "deaths": 48,
           "recovered": 0
@@ -349,10 +349,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1741,
+      "confirmed": 1791,
       "date": "2020-04-16",
-      "deaths": 33,
-      "recovered": 473
+      "deaths": 35,
+      "recovered": 529
     }
   },
   "Cuba": {
@@ -383,8 +383,8 @@
     "live": {
       "confirmed": 6879,
       "date": "2020-04-16",
-      "deaths": 309,
-      "recovered": 2748
+      "deaths": 321,
+      "recovered": 3023
     }
   },
   "Diamond Princess": {
@@ -637,9 +637,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 28153,
+      "confirmed": 29214,
       "date": "2020-04-16",
-      "deaths": 3134,
+      "deaths": 3315,
       "recovered": 250
     }
   },
@@ -685,9 +685,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 6505,
+      "confirmed": 6919,
       "date": "2020-04-16",
-      "deaths": 124,
+      "deaths": 128,
       "recovered": 1645
     }
   },
@@ -725,10 +725,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 18091,
+      "confirmed": 18841,
       "date": "2020-04-16",
-      "deaths": 599,
-      "recovered": 383
+      "deaths": 629,
+      "recovered": 493
     }
   },
   "Qatar": {
@@ -757,10 +757,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 5862,
+      "confirmed": 6380,
       "date": "2020-04-16",
-      "deaths": 79,
-      "recovered": 931
+      "deaths": 83,
+      "recovered": 990
     }
   },
   "Serbia": {
@@ -813,17 +813,17 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 11927,
+      "confirmed": 12540,
       "date": "2020-04-16",
-      "deaths": 1203,
+      "deaths": 1333,
       "recovered": 381
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 26359,
+      "confirmed": 26422,
       "date": "2020-04-16",
-      "deaths": 1254,
+      "deaths": 1269,
       "recovered": 15400
     }
   },
@@ -1047,9 +1047,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 974,
+          "confirmed": 1043,
           "date": "2020-04-16",
-          "deaths": 51,
+          "deaths": 56,
           "recovered": 0
         }
       },
@@ -1148,7 +1148,7 @@
       "confirmed": 1349,
       "date": "2020-04-16",
       "deaths": 4,
-      "recovered": 107
+      "recovered": 129
     }
   }
 }
