@@ -227,15 +227,15 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1566,
-          "date": "2020-04-15",
+          "confirmed": 1571,
+          "date": "2020-04-16",
           "deaths": 8,
-          "recovered": 1462
+          "recovered": 1471
         }
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 857,
+          "confirmed": 861,
           "date": "2020-04-16",
           "deaths": 13,
           "recovered": 471
@@ -260,9 +260,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-15",
+          "date": "2020-04-16",
           "deaths": 3222,
-          "recovered": 64402
+          "recovered": 64435
         }
       },
       "Hunan": {
@@ -855,9 +855,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1173,
+          "confirmed": 1189,
           "date": "2020-04-16",
-          "deaths": 34,
+          "deaths": 36,
           "recovered": 0
         }
       },
@@ -879,9 +879,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 5630,
+          "confirmed": 5902,
           "date": "2020-04-16",
-          "deaths": 253,
+          "deaths": 273,
           "recovered": 0
         }
       },
@@ -921,7 +921,7 @@
         "live": {
           "confirmed": 6959,
           "date": "2020-04-16",
-          "deaths": 232,
+          "deaths": 239,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2574,
+          "confirmed": 2681,
           "date": "2020-04-16",
-          "deaths": 79,
+          "deaths": 90,
           "recovered": 0
         }
       },
@@ -1055,9 +1055,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 2713,
+          "confirmed": 2974,
           "date": "2020-04-16",
-          "deaths": 80,
+          "deaths": 87,
           "recovered": 0
         }
       },
