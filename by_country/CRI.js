@@ -349,7 +349,8 @@ var covid19_dataset_country_cri = {
       56,
       62,
       66,
-      67
+      67,
+      74
     ]
   }
 };
