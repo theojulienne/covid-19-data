@@ -51,7 +51,7 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 999,
+          "confirmed": 1001,
           "date": "2020-04-16",
           "deaths": 5,
           "recovered": 442
@@ -62,14 +62,14 @@
           "confirmed": 1299,
           "date": "2020-04-16",
           "deaths": 14,
-          "recovered": 1118
+          "recovered": 1137
         }
       }
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 14350,
+      "confirmed": 14370,
       "date": "2020-04-16",
       "deaths": 393,
       "recovered": 8098
@@ -302,7 +302,7 @@
           "confirmed": 628,
           "date": "2020-04-16",
           "deaths": 7,
-          "recovered": 485
+          "recovered": 489
         }
       },
       "Sichuan": {
@@ -525,10 +525,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 12501,
+      "confirmed": 12591,
       "date": "2020-04-16",
-      "deaths": 132,
-      "recovered": 2563
+      "deaths": 140,
+      "recovered": 2624
     }
   },
   "Italy": {
@@ -549,7 +549,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1331,
+      "confirmed": 1341,
       "date": "2020-04-16",
       "deaths": 16,
       "recovered": 240
@@ -589,10 +589,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1091,
+      "confirmed": 1128,
       "date": "2020-04-16",
       "deaths": 30,
-      "recovered": 138
+      "recovered": 178
     }
   },
   "Luxembourg": {
@@ -677,10 +677,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 910,
+      "confirmed": 1019,
       "date": "2020-04-16",
       "deaths": 4,
-      "recovered": 131
+      "recovered": 176
     }
   },
   "Pakistan": {
@@ -720,7 +720,7 @@
       "confirmed": 7582,
       "date": "2020-04-16",
       "deaths": 286,
-      "recovered": 668
+      "recovered": 774
     }
   },
   "Portugal": {
@@ -1121,10 +1121,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 3764,
+      "confirmed": 4161,
       "date": "2020-04-16",
-      "deaths": 108,
-      "recovered": 143
+      "deaths": 116,
+      "recovered": 186
     }
   },
   "United Arab Emirates": {
