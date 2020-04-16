@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 28746,
+      "confirmed": 28912,
       "date": "2020-04-16",
-      "deaths": 1757,
+      "deaths": 1760,
       "recovered": 14026
     }
   },
@@ -211,10 +211,10 @@
       },
       "Beijing": {
         "live": {
-          "confirmed": 590,
-          "date": "2020-04-15",
+          "confirmed": 593,
+          "date": "2020-04-16",
           "deaths": 8,
-          "recovered": 495
+          "recovered": 503
         }
       },
       "Chongqing": {
@@ -235,10 +235,10 @@
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 841,
-          "date": "2020-04-15",
+          "confirmed": 857,
+          "date": "2020-04-16",
           "deaths": 13,
-          "recovered": 470
+          "recovered": 471
         }
       },
       "Henan": {
@@ -299,8 +299,8 @@
       },
       "Shanghai": {
         "live": {
-          "confirmed": 622,
-          "date": "2020-04-15",
+          "confirmed": 628,
+          "date": "2020-04-16",
           "deaths": 7,
           "recovered": 485
         }
@@ -308,9 +308,9 @@
       "Sichuan": {
         "live": {
           "confirmed": 560,
-          "date": "2020-04-15",
+          "date": "2020-04-16",
           "deaths": 3,
-          "recovered": 550
+          "recovered": 552
         }
       },
       "Zhejiang": {
@@ -392,7 +392,7 @@
       "confirmed": 712,
       "date": "2020-04-16",
       "deaths": 12,
-      "recovered": 639
+      "recovered": 644
     }
   },
   "Dominican Republic": {
@@ -557,10 +557,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10591,
+      "confirmed": 10613,
       "date": "2020-04-16",
-      "deaths": 225,
-      "recovered": 7616
+      "deaths": 229,
+      "recovered": 7757
     }
   },
   "Kuwait": {
@@ -669,7 +669,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6797,
+      "confirmed": 6798,
       "date": "2020-04-16",
       "deaths": 150,
       "recovered": 32
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 22972,
+          "confirmed": 22991,
           "date": "2020-04-16",
-          "deaths": 757,
+          "deaths": 765,
           "recovered": 0
         }
       },
@@ -919,7 +919,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6802,
+          "confirmed": 6959,
           "date": "2020-04-16",
           "deaths": 232,
           "recovered": 0
@@ -1039,9 +1039,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 22690,
+          "confirmed": 22741,
           "date": "2020-04-16",
-          "deaths": 669,
+          "deaths": 677,
           "recovered": 0
         }
       },
@@ -1103,7 +1103,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 8342,
+          "confirmed": 8381,
           "date": "2020-04-16",
           "deaths": 445,
           "recovered": 0

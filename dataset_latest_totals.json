@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 28746,
-        "deaths": 1757,
+        "confirmed": 28912,
+        "deaths": 1760,
         "recovered": 14026
       }
     },
@@ -358,9 +358,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83356,
+        "confirmed": 83381,
         "deaths": 3346,
-        "recovered": 78311
+        "recovered": 78322
       },
       "states": {
         "Anhui": {
@@ -369,9 +369,9 @@
           "recovered": 984
         },
         "Beijing": {
-          "confirmed": 590,
+          "confirmed": 593,
           "deaths": 8,
-          "recovered": 495
+          "recovered": 503
         },
         "Chongqing": {
           "confirmed": 579,
@@ -414,9 +414,9 @@
           "recovered": 314
         },
         "Heilongjiang": {
-          "confirmed": 841,
+          "confirmed": 857,
           "deaths": 13,
-          "recovered": 470
+          "recovered": 471
         },
         "Henan": {
           "confirmed": 1276,
@@ -489,7 +489,7 @@
           "recovered": 761
         },
         "Shanghai": {
-          "confirmed": 622,
+          "confirmed": 628,
           "deaths": 7,
           "recovered": 485
         },
@@ -501,7 +501,7 @@
         "Sichuan": {
           "confirmed": 560,
           "deaths": 3,
-          "recovered": 550
+          "recovered": 552
         },
         "Tianjin": {
           "confirmed": 185,
@@ -1047,9 +1047,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10591,
-        "deaths": 225,
-        "recovered": 7616
+        "confirmed": 10613,
+        "deaths": 229,
+        "recovered": 7757
       }
     },
     "KWT": {
@@ -1300,7 +1300,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 6797,
+        "confirmed": 6798,
         "deaths": 150,
         "recovered": 32
       }
@@ -1623,7 +1623,7 @@
     "USA": {
       "latest": {
         "confirmed": 631483,
-        "deaths": 30472,
+        "deaths": 30480,
         "recovered": 39970,
         "tested": 3248985
       },
@@ -1864,7 +1864,7 @@
         },
         "PA": {
           "confirmed": 26490,
-          "deaths": 669,
+          "deaths": 677,
           "hospitalized": 1145,
           "tested": 137584
         },
