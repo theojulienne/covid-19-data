@@ -175,7 +175,7 @@ var covid19_dataset_country_bra = {
       23430,
       25262,
       28320,
-      28912
+      29015
     ],
     "deaths": [
       0,
