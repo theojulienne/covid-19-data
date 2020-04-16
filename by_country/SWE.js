@@ -350,7 +350,8 @@ var covid19_dataset_country_swe = {
       381,
       381,
       381,
-      381
+      381,
+      550
     ]
   }
 };
