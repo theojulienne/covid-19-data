@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14370,
+      "confirmed": 14412,
       "date": "2020-04-16",
       "deaths": 393,
       "recovered": 8098
@@ -85,7 +85,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1671,
+      "confirmed": 1673,
       "date": "2020-04-16",
       "deaths": 7,
       "recovered": 663
@@ -93,9 +93,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1231,
+      "confirmed": 1572,
       "date": "2020-04-16",
-      "deaths": 50,
+      "deaths": 60,
       "recovered": 49
     }
   },
@@ -109,10 +109,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 33573,
+      "confirmed": 34809,
       "date": "2020-04-16",
-      "deaths": 4440,
-      "recovered": 7107
+      "deaths": 4857,
+      "recovered": 7562
     }
   },
   "Bosnia and Herzegovina": {
@@ -381,7 +381,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 6681,
+      "confirmed": 6879,
       "date": "2020-04-16",
       "deaths": 309,
       "recovered": 2748
@@ -421,15 +421,15 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1400,
+      "confirmed": 1434,
       "date": "2020-04-16",
-      "deaths": 35,
-      "recovered": 117
+      "deaths": 36,
+      "recovered": 133
     }
   },
   "Finland": {
     "live": {
-      "confirmed": 3237,
+      "confirmed": 3369,
       "date": "2020-04-16",
       "deaths": 72,
       "recovered": 300
@@ -493,10 +493,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 5136,
+      "confirmed": 5516,
       "date": "2020-04-16",
-      "deaths": 469,
-      "recovered": 446
+      "deaths": 498,
+      "recovered": 548
     }
   },
   "Iran": {
@@ -552,7 +552,7 @@
       "confirmed": 1341,
       "date": "2020-04-16",
       "deaths": 16,
-      "recovered": 240
+      "recovered": 263
     }
   },
   "Korea, South": {
@@ -623,8 +623,8 @@
     "live": {
       "confirmed": 2049,
       "date": "2020-04-16",
-      "deaths": 46,
-      "recovered": 171
+      "deaths": 51,
+      "recovered": 235
     }
   },
   "Morocco": {
@@ -823,7 +823,7 @@
     "live": {
       "confirmed": 26336,
       "date": "2020-04-16",
-      "deaths": 1239,
+      "deaths": 1249,
       "recovered": 15400
     }
   },
