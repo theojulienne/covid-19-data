@@ -117,7 +117,7 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 1199,
+      "confirmed": 1214,
       "date": "2020-04-17",
       "deaths": 46,
       "recovered": 320
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 9989,
+          "confirmed": 10056,
           "date": "2020-04-17",
-          "deaths": 477,
+          "deaths": 486,
           "recovered": 0
         }
       },
@@ -317,10 +317,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 642,
+      "confirmed": 649,
       "date": "2020-04-17",
       "deaths": 4,
-      "recovered": 74
+      "recovered": 88
     }
   },
   "Cote d'Ivoire": {
@@ -437,9 +437,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 139041,
+      "confirmed": 139134,
       "date": "2020-04-17",
-      "deaths": 4193,
+      "deaths": 4203,
       "recovered": 81800
     }
   },
@@ -863,9 +863,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 23910,
+          "confirmed": 24038,
           "date": "2020-04-17",
-          "deaths": 855,
+          "deaths": 859,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 4000,
+          "confirmed": 4043,
           "date": "2020-04-17",
-          "deaths": 127,
+          "deaths": 128,
           "recovered": 0
         }
       },
@@ -1047,9 +1047,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 3241,
+          "confirmed": 3493,
           "date": "2020-04-17",
-          "deaths": 105,
+          "deaths": 118,
           "recovered": 0
         }
       },
@@ -1137,10 +1137,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1390,
+      "confirmed": 1405,
       "date": "2020-04-17",
       "deaths": 4,
-      "recovered": 140
+      "recovered": 156
     }
   }
 }
