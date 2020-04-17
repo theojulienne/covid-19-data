@@ -62,7 +62,7 @@
         "current_hospitalized": 112,
         "current_icu": 25,
         "deaths": 64,
-        "recovered": 2377,
+        "recovered": 3752,
         "tested": 386991
       },
       "states": {
@@ -80,7 +80,7 @@
           "current_icu": null,
           "current_ventilators": null,
           "deaths": 26,
-          "recovered": 4,
+          "recovered": 1379,
           "tested": 155302
         },
         "NT": {
@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 800,
-        "deaths": 38,
-        "recovered": 122
+        "confirmed": 825,
+        "deaths": 40,
+        "recovered": 141
       }
     },
     "BHR": {
@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83748,
         "deaths": 4636,
-        "recovered": 78414
+        "recovered": 78437
       },
       "states": {
         "Anhui": {
@@ -491,7 +491,7 @@
         "Shanghai": {
           "confirmed": 628,
           "deaths": 7,
-          "recovered": 489
+          "recovered": 512
         },
         "Shanxi": {
           "confirmed": 194,
@@ -949,9 +949,9 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 13430,
+        "confirmed": 13495,
         "deaths": 448,
-        "recovered": 1768
+        "recovered": 1777
       }
     },
     "IRL": {
@@ -1021,7 +1021,7 @@
       "latest": {
         "confirmed": 1470,
         "deaths": 17,
-        "recovered": 277
+        "recovered": 285
       }
     },
     "KEN": {
@@ -1110,9 +1110,9 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 1128,
+        "confirmed": 1149,
         "deaths": 32,
-        "recovered": 178
+        "recovered": 210
       }
     },
     "LUX": {
@@ -1951,7 +1951,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1349,
+        "confirmed": 1380,
         "deaths": 4,
         "recovered": 129
       }

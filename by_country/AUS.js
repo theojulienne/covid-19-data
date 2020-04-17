@@ -2427,7 +2427,8 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
-          4
+          4,
+          1379
         ],
         "tested": [
           0,
@@ -9696,7 +9697,7 @@ var covid19_dataset_country_aus = {
       2186,
       2205,
       2355,
-      2377
+      3752
     ],
     "tested": [
       0,
