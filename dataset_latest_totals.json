@@ -58,12 +58,12 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 6469,
-        "current_hospitalized": 197,
-        "current_icu": 62,
+        "confirmed": 6498,
+        "current_hospitalized": 112,
+        "current_icu": 25,
         "deaths": 64,
         "recovered": 2377,
-        "tested": 382003
+        "tested": 386991
       },
       "states": {
         "ACT": {
@@ -75,13 +75,13 @@
           "tested": 6619
         },
         "NSW": {
-          "confirmed": 2897,
-          "current_hospitalized": 64,
-          "current_icu": 26,
+          "confirmed": 2926,
+          "current_hospitalized": null,
+          "current_icu": null,
           "current_ventilators": null,
           "deaths": 26,
           "recovered": 4,
-          "tested": 150314
+          "tested": 155302
         },
         "NT": {
           "confirmed": 27,
@@ -93,8 +93,8 @@
         },
         "QLD": {
           "confirmed": 1001,
-          "current_hospitalized": 21,
-          "current_icu": 11,
+          "current_hospitalized": null,
+          "current_icu": null,
           "deaths": 5,
           "recovered": 442,
           "tested": 77727
@@ -276,7 +276,7 @@
     "CAN": {
       "latest": {
         "confirmed": 30984,
-        "deaths": 1263,
+        "deaths": 1261,
         "recovered": 9698
       },
       "states": {
@@ -286,7 +286,7 @@
         },
         "British Columbia": {
           "confirmed": 1575,
-          "deaths": 79
+          "deaths": 77
         },
         "Diamond Princess": {
           "confirmed": -1,
@@ -358,8 +358,8 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83423,
-        "deaths": 3346,
+        "confirmed": 83748,
+        "deaths": 4636,
         "recovered": 78431
       },
       "states": {
@@ -429,8 +429,8 @@
           "recovered": 485
         },
         "Hubei": {
-          "confirmed": 67803,
-          "deaths": 3222,
+          "confirmed": 68128,
+          "deaths": 4512,
           "recovered": 64452
         },
         "Hunan": {

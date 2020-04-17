@@ -161,7 +161,7 @@
         "live": {
           "confirmed": 1575,
           "date": "2020-04-17",
-          "deaths": 79,
+          "deaths": 77,
           "recovered": 0
         }
       },
@@ -259,9 +259,9 @@
       },
       "Hubei": {
         "live": {
-          "confirmed": 67803,
+          "confirmed": 68128,
           "date": "2020-04-17",
-          "deaths": 3222,
+          "deaths": 4512,
           "recovered": 64452
         }
       },
