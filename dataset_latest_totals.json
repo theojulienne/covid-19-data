@@ -135,7 +135,7 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 14508,
+        "confirmed": 14510,
         "deaths": 410,
         "recovered": 8986
       }
@@ -156,9 +156,9 @@
     },
     "BEL": {
       "latest": {
-        "confirmed": 34809,
-        "deaths": 4857,
-        "recovered": 7562
+        "confirmed": 36138,
+        "deaths": 5163,
+        "recovered": 7961
       }
     },
     "BEN": {
@@ -177,9 +177,9 @@
     },
     "BGD": {
       "latest": {
-        "confirmed": 1572,
-        "deaths": 60,
-        "recovered": 49
+        "confirmed": 1838,
+        "deaths": 75,
+        "recovered": 58
       }
     },
     "BGR": {
@@ -691,9 +691,9 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 1434,
-        "deaths": 36,
-        "recovered": 133
+        "confirmed": 1459,
+        "deaths": 38,
+        "recovered": 145
       }
     },
     "ETH": {
@@ -705,7 +705,7 @@
     },
     "FIN": {
       "latest": {
-        "confirmed": 3369,
+        "confirmed": 3489,
         "deaths": 75,
         "recovered": 1700
       }
@@ -942,9 +942,9 @@
     },
     "IDN": {
       "latest": {
-        "confirmed": 5516,
-        "deaths": 496,
-        "recovered": 548
+        "confirmed": 5923,
+        "deaths": 520,
+        "recovered": 607
       }
     },
     "IND": {
@@ -1131,9 +1131,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 2283,
-        "deaths": 130,
-        "recovered": 249
+        "confirmed": 2528,
+        "deaths": 133,
+        "recovered": 273
       }
     },
     "MCO": {
