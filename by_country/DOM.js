@@ -354,7 +354,8 @@ var covid19_dataset_country_dom = {
       152,
       162,
       208,
-      215
+      215,
+      268
     ]
   }
 };
