@@ -86,7 +86,8 @@ var covid19_dataset_country_kwt = {
     "2020-04-14",
     "2020-04-15",
     "2020-04-16",
-    "2020-04-17"
+    "2020-04-17",
+    "2020-04-18"
   ],
   "total": {
     "confirmed": [
@@ -261,6 +262,7 @@ var covid19_dataset_country_kwt = {
       1,
       1,
       2,
+      3,
       3,
       3
     ],

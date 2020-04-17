@@ -86,7 +86,8 @@ var covid19_dataset_country_khm = {
     "2020-04-14",
     "2020-04-15",
     "2020-04-16",
-    "2020-04-17"
+    "2020-04-17",
+    "2020-04-18"
   ],
   "total": {
     "confirmed": [
@@ -174,9 +175,11 @@ var covid19_dataset_country_khm = {
       122,
       122,
       122,
+      122,
       122
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -348,7 +351,8 @@ var covid19_dataset_country_khm = {
       77,
       77,
       91,
-      96
+      96,
+      98
     ]
   }
 };
