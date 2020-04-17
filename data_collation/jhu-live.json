@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14476,
+      "confirmed": 14508,
       "date": "2020-04-17",
       "deaths": 410,
       "recovered": 8986
@@ -373,7 +373,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 6879,
+      "confirmed": 7073,
       "date": "2020-04-17",
       "deaths": 321,
       "recovered": 3023
@@ -445,9 +445,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 137698,
+      "confirmed": 138135,
       "date": "2020-04-17",
-      "deaths": 4052,
+      "deaths": 4093,
       "recovered": 81800
     }
   },
@@ -549,7 +549,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1470,
+      "confirmed": 1480,
       "date": "2020-04-17",
       "deaths": 17,
       "recovered": 285
@@ -576,7 +576,7 @@
       "confirmed": 682,
       "date": "2020-04-17",
       "deaths": 5,
-      "recovered": 57
+      "recovered": 88
     }
   },
   "Lebanon": {
@@ -624,7 +624,7 @@
       "confirmed": 2154,
       "date": "2020-04-17",
       "deaths": 54,
-      "recovered": 235
+      "recovered": 276
     }
   },
   "Morocco": {
@@ -677,7 +677,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 1019,
+      "confirmed": 1069,
       "date": "2020-04-17",
       "deaths": 5,
       "recovered": 176
@@ -709,17 +709,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 5660,
+      "confirmed": 5878,
       "date": "2020-04-17",
-      "deaths": 362,
-      "recovered": 435
+      "deaths": 387,
+      "recovered": 487
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 7918,
+      "confirmed": 8214,
       "date": "2020-04-17",
-      "deaths": 314,
+      "deaths": 318,
       "recovered": 866
     }
   },
@@ -749,10 +749,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 27938,
+      "confirmed": 32008,
       "date": "2020-04-17",
-      "deaths": 232,
-      "recovered": 2304
+      "deaths": 273,
+      "recovered": 2590
     }
   },
   "Saudi Arabia": {
@@ -1148,7 +1148,7 @@
       "confirmed": 1380,
       "date": "2020-04-17",
       "deaths": 4,
-      "recovered": 129
+      "recovered": 140
     }
   }
 }
