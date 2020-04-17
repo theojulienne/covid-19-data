@@ -135,9 +135,9 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 14510,
+        "confirmed": 14527,
         "deaths": 410,
-        "recovered": 8986
+        "recovered": 9704
       }
     },
     "AZE": {
@@ -212,9 +212,9 @@
     },
     "BLR": {
       "latest": {
-        "confirmed": 4204,
-        "deaths": 40,
-        "recovered": 203
+        "confirmed": 4779,
+        "deaths": 42,
+        "recovered": 342
       }
     },
     "BLZ": {
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 26732,
-        "deaths": 1281,
+        "deaths": 1288,
         "recovered": 15900
       }
     },
@@ -358,9 +358,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83748,
+        "confirmed": 83752,
         "deaths": 4636,
-        "recovered": 78437
+        "recovered": 78485
       },
       "states": {
         "Anhui": {
@@ -424,9 +424,9 @@
           "recovered": 1254
         },
         "Hong Kong": {
-          "confirmed": 1017,
+          "confirmed": 1021,
           "deaths": 4,
-          "recovered": 485
+          "recovered": 533
         },
         "Hubei": {
           "confirmed": 68128,
@@ -1068,7 +1068,7 @@
     },
     "LBN": {
       "latest": {
-        "confirmed": 663,
+        "confirmed": 668,
         "deaths": 21,
         "recovered": 86
       }
@@ -1236,9 +1236,9 @@
     },
     "MYS": {
       "latest": {
-        "confirmed": 5182,
-        "deaths": 84,
-        "recovered": 2766
+        "confirmed": 5251,
+        "deaths": 86,
+        "recovered": 2967
       }
     },
     "NAM": {
@@ -1301,7 +1301,7 @@
     "NOR": {
       "latest": {
         "confirmed": 6905,
-        "deaths": 152,
+        "deaths": 157,
         "recovered": 32
       }
     },
@@ -1398,9 +1398,9 @@
     },
     "ROU": {
       "latest": {
-        "confirmed": 7707,
+        "confirmed": 8067,
         "deaths": 400,
-        "recovered": 1357
+        "recovered": 1508
       }
     },
     "RUS": {
