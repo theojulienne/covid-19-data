@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14586,
+      "confirmed": 14595,
       "date": "2020-04-17",
       "deaths": 431,
       "recovered": 9704
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 10366,
+          "confirmed": 10456,
           "date": "2020-04-17",
-          "deaths": 519,
+          "deaths": 524,
           "recovered": 0
         }
       },
@@ -309,10 +309,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 3233,
+      "confirmed": 3439,
       "date": "2020-04-17",
-      "deaths": 144,
-      "recovered": 550
+      "deaths": 153,
+      "recovered": 634
     }
   },
   "Costa Rica": {
@@ -437,10 +437,10 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 139702,
+      "confirmed": 140886,
       "date": "2020-04-17",
-      "deaths": 4203,
-      "recovered": 81800
+      "deaths": 4326,
+      "recovered": 83114
     }
   },
   "Ghana": {
@@ -477,10 +477,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 13835,
+      "confirmed": 14352,
       "date": "2020-04-17",
-      "deaths": 452,
-      "recovered": 1777
+      "deaths": 486,
+      "recovered": 2041
     }
   },
   "Indonesia": {
@@ -533,7 +533,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 9231,
+      "confirmed": 9787,
       "date": "2020-04-17",
       "deaths": 190,
       "recovered": 935
@@ -797,9 +797,9 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 188093,
+      "confirmed": 188167,
       "date": "2020-04-17",
-      "deaths": 19613,
+      "deaths": 19631,
       "recovered": 74797
     }
   },
@@ -829,7 +829,7 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 822,
+      "confirmed": 864,
       "date": "2020-04-17",
       "deaths": 37,
       "recovered": 43
@@ -937,7 +937,7 @@
         "live": {
           "confirmed": 600,
           "date": "2020-04-17",
-          "deaths": 56,
+          "deaths": 60,
           "recovered": 0
         }
       },
@@ -999,17 +999,17 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 76637,
+          "confirmed": 76046,
           "date": "2020-04-17",
-          "deaths": 3750,
+          "deaths": 3696,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 219023,
+          "confirmed": 226872,
           "date": "2020-04-17",
-          "deaths": 16405,
+          "deaths": 16442,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 25888,
+          "confirmed": 25296,
           "date": "2020-04-17",
-          "deaths": 823,
+          "deaths": 793,
           "recovered": 0
         }
       },
