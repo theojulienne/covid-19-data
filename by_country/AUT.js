@@ -265,7 +265,8 @@ var covid19_dataset_country_aut = {
       368,
       384,
       393,
-      410
+      410,
+      431
     ],
     "recovered": [
       0,

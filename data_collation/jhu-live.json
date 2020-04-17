@@ -71,7 +71,7 @@
     "live": {
       "confirmed": 14586,
       "date": "2020-04-17",
-      "deaths": 410,
+      "deaths": 431,
       "recovered": 9704
     }
   },
@@ -615,7 +615,7 @@
     "live": {
       "confirmed": 2264,
       "date": "2020-04-17",
-      "deaths": 55,
+      "deaths": 56,
       "recovered": 276
     }
   },
@@ -645,10 +645,10 @@
   },
   "Niger": {
     "live": {
-      "confirmed": 609,
+      "confirmed": 627,
       "date": "2020-04-17",
-      "deaths": 15,
-      "recovered": 105
+      "deaths": 18,
+      "recovered": 110
     }
   },
   "North Macedonia": {
@@ -815,7 +815,7 @@
     "live": {
       "confirmed": 27078,
       "date": "2020-04-17",
-      "deaths": 1325,
+      "deaths": 1327,
       "recovered": 16400
     }
   },
@@ -847,7 +847,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1251,
+          "confirmed": 1267,
           "date": "2020-04-17",
           "deaths": 47,
           "recovered": 0
@@ -863,9 +863,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 24038,
+          "confirmed": 24074,
           "date": "2020-04-17",
-          "deaths": 859,
+          "deaths": 862,
           "recovered": 0
         }
       },
@@ -967,9 +967,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 24745,
+          "confirmed": 25331,
           "date": "2020-04-17",
-          "deaths": 1879,
+          "deaths": 1990,
           "recovered": 0
         }
       },
@@ -983,9 +983,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2792,
+          "confirmed": 2854,
           "date": "2020-04-17",
-          "deaths": 94,
+          "deaths": 100,
           "recovered": 0
         }
       },
@@ -1009,7 +1009,7 @@
         "live": {
           "confirmed": 219604,
           "date": "2020-04-17",
-          "deaths": 14700,
+          "deaths": 12116,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 25463,
+          "confirmed": 25888,
           "date": "2020-04-17",
-          "deaths": 789,
+          "deaths": 823,
           "recovered": 0
         }
       },
@@ -1079,7 +1079,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 1377,
+          "confirmed": 1456,
           "date": "2020-04-17",
           "deaths": 7,
           "recovered": 0
@@ -1103,9 +1103,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 1947,
+          "confirmed": 2013,
           "date": "2020-04-17",
-          "deaths": 114,
+          "deaths": 120,
           "recovered": 0
         }
       }
