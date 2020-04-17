@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14553,
+      "confirmed": 14568,
       "date": "2020-04-17",
       "deaths": 410,
       "recovered": 9704
@@ -167,7 +167,7 @@
       },
       "Nova Scotia": {
         "live": {
-          "confirmed": 579,
+          "confirmed": 606,
           "date": "2020-04-17",
           "deaths": 3,
           "recovered": 0
@@ -193,9 +193,9 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 8807,
+      "confirmed": 9252,
       "date": "2020-04-17",
-      "deaths": 105,
+      "deaths": 116,
       "recovered": 3299
     }
   },
@@ -349,15 +349,15 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 862,
+      "confirmed": 923,
       "date": "2020-04-17",
-      "deaths": 27,
+      "deaths": 31,
       "recovered": 171
     }
   },
   "Cyprus": {
     "live": {
-      "confirmed": 735,
+      "confirmed": 750,
       "date": "2020-04-17",
       "deaths": 12,
       "recovered": 77
@@ -397,9 +397,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 3755,
+      "confirmed": 4126,
       "date": "2020-04-17",
-      "deaths": 196,
+      "deaths": 200,
       "recovered": 215
     }
   },
@@ -445,9 +445,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 138369,
+      "confirmed": 138456,
       "date": "2020-04-17",
-      "deaths": 4105,
+      "deaths": 4193,
       "recovered": 81800
     }
   },
@@ -461,9 +461,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2207,
+      "confirmed": 2224,
       "date": "2020-04-17",
-      "deaths": 105,
+      "deaths": 108,
       "recovered": 269
     }
   },
@@ -671,7 +671,7 @@
     "live": {
       "confirmed": 6937,
       "date": "2020-04-17",
-      "deaths": 158,
+      "deaths": 161,
       "recovered": 32
     }
   },
@@ -679,7 +679,7 @@
     "live": {
       "confirmed": 1069,
       "date": "2020-04-17",
-      "deaths": 5,
+      "deaths": 6,
       "recovered": 176
     }
   },
@@ -845,10 +845,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 74193,
+      "confirmed": 78546,
       "date": "2020-04-17",
-      "deaths": 1643,
-      "recovered": 7089
+      "deaths": 1769,
+      "recovered": 8631
     }
   },
   "US": {
