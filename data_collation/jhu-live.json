@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14527,
+      "confirmed": 14540,
       "date": "2020-04-17",
       "deaths": 410,
       "recovered": 9704
@@ -117,10 +117,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 1167,
+      "confirmed": 1199,
       "date": "2020-04-17",
-      "deaths": 43,
-      "recovered": 277
+      "deaths": 46,
+      "recovered": 320
     }
   },
   "Brazil": {
@@ -341,10 +341,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1791,
+      "confirmed": 1814,
       "date": "2020-04-17",
-      "deaths": 35,
-      "recovered": 529
+      "deaths": 36,
+      "recovered": 600
     }
   },
   "Cuba": {
@@ -375,8 +375,8 @@
     "live": {
       "confirmed": 7073,
       "date": "2020-04-17",
-      "deaths": 321,
-      "recovered": 3023
+      "deaths": 336,
+      "recovered": 3389
     }
   },
   "Diamond Princess": {
@@ -445,9 +445,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 138221,
+      "confirmed": 138273,
       "date": "2020-04-17",
-      "deaths": 4098,
+      "deaths": 4101,
       "recovered": 81800
     }
   },
@@ -549,10 +549,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1480,
+      "confirmed": 1498,
       "date": "2020-04-17",
       "deaths": 17,
-      "recovered": 285
+      "recovered": 306
     }
   },
   "Korea, South": {
@@ -671,7 +671,7 @@
     "live": {
       "confirmed": 6905,
       "date": "2020-04-17",
-      "deaths": 157,
+      "deaths": 158,
       "recovered": 32
     }
   },
@@ -733,10 +733,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 4103,
+      "confirmed": 4663,
       "date": "2020-04-17",
       "deaths": 7,
-      "recovered": 415
+      "recovered": 464
     }
   },
   "Romania": {
@@ -813,9 +813,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 12540,
+      "confirmed": 13216,
       "date": "2020-04-17",
-      "deaths": 1333,
+      "deaths": 1400,
       "recovered": 550
     }
   },
@@ -1145,7 +1145,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1380,
+      "confirmed": 1390,
       "date": "2020-04-17",
       "deaths": 4,
       "recovered": 140
