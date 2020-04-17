@@ -17,7 +17,7 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 673,
+      "confirmed": 682,
       "date": "2020-04-17",
       "deaths": 33,
       "recovered": 169
@@ -159,9 +159,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 1575,
+          "confirmed": 1589,
           "date": "2020-04-17",
-          "deaths": 77,
+          "deaths": 79,
           "recovered": 0
         }
       },
@@ -260,9 +260,9 @@
       "Hubei": {
         "live": {
           "confirmed": 67803,
-          "date": "2020-04-16",
+          "date": "2020-04-17",
           "deaths": 3222,
-          "recovered": 64435
+          "recovered": 64452
         }
       },
       "Hunan": {
@@ -557,10 +557,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10613,
+      "confirmed": 10635,
       "date": "2020-04-17",
-      "deaths": 229,
-      "recovered": 7757
+      "deaths": 230,
+      "recovered": 7829
     }
   },
   "Kuwait": {
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 23528,
+          "confirmed": 23805,
           "date": "2020-04-17",
-          "deaths": 836,
+          "deaths": 844,
           "recovered": 0
         }
       },
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 30810,
           "date": "2020-04-17",
-          "deaths": 1037,
+          "deaths": 1171,
           "recovered": 0
         }
       },
@@ -1039,9 +1039,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 23974,
+          "confirmed": 24030,
           "date": "2020-04-17",
-          "deaths": 722,
+          "deaths": 729,
           "recovered": 0
         }
       },
@@ -1079,9 +1079,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 9959,
+          "confirmed": 10068,
           "date": "2020-04-17",
-          "deaths": 216,
+          "deaths": 218,
           "recovered": 0
         }
       },
