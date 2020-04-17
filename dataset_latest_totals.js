@@ -275,7 +275,7 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 30998,
+        "confirmed": 30984,
         "deaths": 1263,
         "recovered": 9698
       },
@@ -285,7 +285,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 50
         },
         "British Columbia": {
-          "confirmed": 1589,
+          "confirmed": 1575,
           "deaths": 79
         },
         "Diamond Princess": {
@@ -371,7 +371,7 @@ var covid19_dataset_latest_totals = {
         "Beijing": {
           "confirmed": 593,
           "deaths": 8,
-          "recovered": 511
+          "recovered": 509
         },
         "Chongqing": {
           "confirmed": 579,
@@ -526,15 +526,15 @@ var covid19_dataset_latest_totals = {
         "Zhejiang": {
           "confirmed": 1268,
           "deaths": 1,
-          "recovered": 1244
+          "recovered": 1246
         }
       }
     },
     "CIV": {
       "latest": {
-        "confirmed": 654,
+        "confirmed": 688,
         "deaths": 6,
-        "recovered": 146
+        "recovered": 193
       }
     },
     "CMR": {

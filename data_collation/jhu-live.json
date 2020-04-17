@@ -159,7 +159,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 1589,
+          "confirmed": 1575,
           "date": "2020-04-17",
           "deaths": 79,
           "recovered": 0
@@ -214,7 +214,7 @@
           "confirmed": 593,
           "date": "2020-04-17",
           "deaths": 8,
-          "recovered": 511
+          "recovered": 509
         }
       },
       "Chongqing": {
@@ -308,9 +308,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1268,
-          "date": "2020-04-15",
+          "date": "2020-04-17",
           "deaths": 1,
-          "recovered": 1244
+          "recovered": 1246
         }
       }
     }
@@ -333,10 +333,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 654,
+      "confirmed": 688,
       "date": "2020-04-17",
       "deaths": 6,
-      "recovered": 146
+      "recovered": 193
     }
   },
   "Croatia": {
@@ -871,9 +871,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 23805,
+          "confirmed": 23841,
           "date": "2020-04-17",
-          "deaths": 844,
+          "deaths": 852,
           "recovered": 0
         }
       },
@@ -1055,7 +1055,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 3283,
+          "confirmed": 3241,
           "date": "2020-04-17",
           "deaths": 105,
           "recovered": 0
