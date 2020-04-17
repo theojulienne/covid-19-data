@@ -354,7 +354,8 @@ var covid19_dataset_country_cub = {
       121,
       132,
       151,
-      171
+      171,
+      192
     ]
   }
 };
