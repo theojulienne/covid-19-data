@@ -39,7 +39,7 @@
       "latest": {
         "confirmed": 2669,
         "deaths": 122,
-        "recovered": 631
+        "recovered": 666
       }
     },
     "ARM": {
@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1283,
+        "confirmed": 1340,
         "deaths": 15,
-        "recovered": 460
+        "recovered": 528
       }
     },
     "BDI": {
@@ -184,16 +184,16 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 825,
-        "deaths": 40,
+        "confirmed": 846,
+        "deaths": 41,
         "recovered": 141
       }
     },
     "BHR": {
       "latest": {
-        "confirmed": 1700,
+        "confirmed": 1740,
         "deaths": 7,
-        "recovered": 703
+        "recovered": 725
       }
     },
     "BHS": {
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 27078,
-        "deaths": 1315,
+        "deaths": 1318,
         "recovered": 15900
       }
     },
@@ -602,16 +602,16 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 138273,
+        "confirmed": 138369,
         "deaths": 4105,
         "recovered": 81800
       }
     },
     "DJI": {
       "latest": {
-        "confirmed": 591,
+        "confirmed": 732,
         "deaths": 2,
-        "recovered": 73
+        "recovered": 76
       }
     },
     "DMA": {
@@ -977,9 +977,9 @@
     },
     "ISL": {
       "latest": {
-        "confirmed": 1739,
-        "deaths": 8,
-        "recovered": 1144
+        "confirmed": 1754,
+        "deaths": 9,
+        "recovered": 1224
       }
     },
     "ISR": {
@@ -1021,7 +1021,7 @@
       "latest": {
         "confirmed": 1498,
         "deaths": 17,
-        "recovered": 306
+        "recovered": 347
       }
     },
     "KEN": {
@@ -1300,7 +1300,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 6905,
+        "confirmed": 6937,
         "deaths": 158,
         "recovered": 32
       }
@@ -1399,7 +1399,7 @@
     "ROU": {
       "latest": {
         "confirmed": 8067,
-        "deaths": 400,
+        "deaths": 411,
         "recovered": 1508
       }
     },
@@ -1622,8 +1622,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 662018,
-        "deaths": 32779,
+        "confirmed": 662144,
+        "deaths": 32784,
         "recovered": 42582,
         "tested": 3406653
       },
@@ -1671,8 +1671,8 @@
           "tested": 53122
         },
         "DC": {
-          "confirmed": 2350,
-          "deaths": 81,
+          "confirmed": 2476,
+          "deaths": 86,
           "recovered": 552,
           "tested": 12150
         },

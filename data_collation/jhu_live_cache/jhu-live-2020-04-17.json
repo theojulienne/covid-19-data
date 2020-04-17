@@ -28,7 +28,7 @@
       "confirmed": 2669,
       "date": "2020-04-17",
       "deaths": 122,
-      "recovered": 631
+      "recovered": 666
     }
   },
   "Armenia": {
@@ -77,18 +77,18 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1283,
+      "confirmed": 1340,
       "date": "2020-04-17",
       "deaths": 15,
-      "recovered": 460
+      "recovered": 528
     }
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1700,
+      "confirmed": 1740,
       "date": "2020-04-17",
       "deaths": 7,
-      "recovered": 703
+      "recovered": 725
     }
   },
   "Bangladesh": {
@@ -133,9 +133,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 825,
+      "confirmed": 846,
       "date": "2020-04-17",
-      "deaths": 40,
+      "deaths": 41,
       "recovered": 141
     }
   },
@@ -389,10 +389,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 591,
+      "confirmed": 732,
       "date": "2020-04-17",
       "deaths": 2,
-      "recovered": 73
+      "recovered": 76
     }
   },
   "Dominican Republic": {
@@ -445,7 +445,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 138273,
+      "confirmed": 138369,
       "date": "2020-04-17",
       "deaths": 4105,
       "recovered": 81800
@@ -477,10 +477,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1739,
+      "confirmed": 1754,
       "date": "2020-04-17",
-      "deaths": 8,
-      "recovered": 1144
+      "deaths": 9,
+      "recovered": 1224
     }
   },
   "India": {
@@ -552,7 +552,7 @@
       "confirmed": 1498,
       "date": "2020-04-17",
       "deaths": 17,
-      "recovered": 306
+      "recovered": 347
     }
   },
   "Korea, South": {
@@ -669,7 +669,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 6905,
+      "confirmed": 6937,
       "date": "2020-04-17",
       "deaths": 158,
       "recovered": 32
@@ -743,7 +743,7 @@
     "live": {
       "confirmed": 8067,
       "date": "2020-04-17",
-      "deaths": 400,
+      "deaths": 411,
       "recovered": 1508
     }
   },
@@ -823,7 +823,7 @@
     "live": {
       "confirmed": 27078,
       "date": "2020-04-17",
-      "deaths": 1315,
+      "deaths": 1318,
       "recovered": 15900
     }
   },
@@ -903,9 +903,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 2350,
+          "confirmed": 2476,
           "date": "2020-04-17",
-          "deaths": 81,
+          "deaths": 86,
           "recovered": 0
         }
       },
@@ -1095,9 +1095,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 1957,
+          "confirmed": 2120,
           "date": "2020-04-17",
-          "deaths": 32,
+          "deaths": 38,
           "recovered": 0
         }
       },
