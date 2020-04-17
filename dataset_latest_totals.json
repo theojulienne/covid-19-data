@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 30683,
-        "deaths": 1947,
+        "confirmed": 30891,
+        "deaths": 1952,
         "recovered": 14026
       }
     },
@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83748,
         "deaths": 4636,
-        "recovered": 78431
+        "recovered": 78414
       },
       "states": {
         "Anhui": {
@@ -431,7 +431,7 @@
         "Hubei": {
           "confirmed": 68128,
           "deaths": 4512,
-          "recovered": 64452
+          "recovered": 64435
         },
         "Hunan": {
           "confirmed": 1019,
@@ -604,7 +604,7 @@
       "latest": {
         "confirmed": 137698,
         "deaths": 4052,
-        "recovered": 77000
+        "recovered": 81800
       }
     },
     "DJI": {
@@ -935,9 +935,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 1652,
-        "deaths": 142,
-        "recovered": 199
+        "confirmed": 1763,
+        "deaths": 156,
+        "recovered": 207
       }
     },
     "IDN": {
@@ -1019,7 +1019,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 1402,
+        "confirmed": 1470,
         "deaths": 17,
         "recovered": 277
       }
@@ -1322,15 +1322,15 @@
     "OMN": {
       "latest": {
         "confirmed": 1019,
-        "deaths": 4,
+        "deaths": 5,
         "recovered": 176
       }
     },
     "PAK": {
       "latest": {
-        "confirmed": 6919,
-        "deaths": 128,
-        "recovered": 1645
+        "confirmed": 7025,
+        "deaths": 135,
+        "recovered": 1765
       }
     },
     "PAN": {
@@ -1552,9 +1552,9 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2672,
-        "deaths": 46,
-        "recovered": 1593
+        "confirmed": 2700,
+        "deaths": 47,
+        "recovered": 1689
       }
     },
     "TLS": {
