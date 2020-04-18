@@ -85,10 +85,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1767,
+      "confirmed": 1773,
       "date": "2020-04-18",
       "deaths": 7,
-      "recovered": 741
+      "recovered": 755
     }
   },
   "Bangladesh": {
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 35025,
+      "confirmed": 36599,
       "date": "2020-04-18",
-      "deaths": 2203,
+      "deaths": 2347,
       "recovered": 14026
     }
   },
@@ -655,7 +655,7 @@
     "live": {
       "confirmed": 7036,
       "date": "2020-04-18",
-      "deaths": 163,
+      "deaths": 164,
       "recovered": 32
     }
   },
@@ -688,7 +688,7 @@
       "confirmed": 14420,
       "date": "2020-04-18",
       "deaths": 348,
-      "recovered": 6541
+      "recovered": 6684
     }
   },
   "Philippines": {
@@ -781,7 +781,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2783,
+      "confirmed": 3034,
       "date": "2020-04-18",
       "deaths": 50,
       "recovered": 903
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 27404,
       "date": "2020-04-18",
-      "deaths": 1366,
+      "deaths": 1368,
       "recovered": 17100
     }
   },
@@ -951,9 +951,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 25331,
+          "confirmed": 25603,
           "date": "2020-04-18",
-          "deaths": 1990,
+          "deaths": 2027,
           "recovered": 0
         }
       },
@@ -967,9 +967,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2876,
+          "confirmed": 2971,
           "date": "2020-04-18",
-          "deaths": 102,
+          "deaths": 110,
           "recovered": 0
         }
       },
@@ -1015,7 +1015,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 26828,
+          "confirmed": 27279,
           "date": "2020-04-18",
           "deaths": 874,
           "recovered": 0
@@ -1095,9 +1095,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 2013,
+          "confirmed": 2065,
           "date": "2020-04-18",
-          "deaths": 120,
+          "deaths": 122,
           "recovered": 0
         }
       }
