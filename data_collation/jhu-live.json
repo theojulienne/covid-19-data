@@ -85,10 +85,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1744,
+      "confirmed": 1767,
       "date": "2020-04-18",
       "deaths": 7,
-      "recovered": 726
+      "recovered": 741
     }
   },
   "Bangladesh": {
@@ -725,10 +725,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 8067,
+      "confirmed": 8418,
       "date": "2020-04-18",
       "deaths": 417,
-      "recovered": 1508
+      "recovered": 1730
     }
   },
   "Russia": {
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 27078,
       "date": "2020-04-18",
-      "deaths": 1336,
+      "deaths": 1344,
       "recovered": 16400
     }
   },
@@ -1140,7 +1140,7 @@
       "confirmed": 1450,
       "date": "2020-04-18",
       "deaths": 4,
-      "recovered": 156
+      "recovered": 168
     }
   }
 }
