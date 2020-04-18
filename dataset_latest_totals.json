@@ -62,7 +62,7 @@
         "current_hospitalized": 108,
         "current_icu": 22,
         "deaths": 68,
-        "recovered": 3821,
+        "recovered": 4117,
         "tested": 403218
       },
       "states": {
@@ -96,7 +96,7 @@
           "current_hospitalized": null,
           "current_icu": null,
           "deaths": 5,
-          "recovered": 442,
+          "recovered": 738,
           "tested": 82763
         },
         "SA": {
@@ -936,7 +936,7 @@
     "HUN": {
       "latest": {
         "confirmed": 1834,
-        "deaths": 156,
+        "deaths": 172,
         "recovered": 231
       }
     },
@@ -1952,7 +1952,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1405,
+        "confirmed": 1450,
         "deaths": 4,
         "recovered": 156
       }

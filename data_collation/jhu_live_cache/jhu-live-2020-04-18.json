@@ -51,10 +51,10 @@
       },
       "Queensland": {
         "live": {
-          "confirmed": 1007,
+          "confirmed": 1015,
           "date": "2020-04-18",
-          "deaths": 5,
-          "recovered": 442
+          "deaths": 6,
+          "recovered": 738
         }
       },
       "Victoria": {
@@ -455,7 +455,7 @@
     "live": {
       "confirmed": 1834,
       "date": "2020-04-18",
-      "deaths": 156,
+      "deaths": 172,
       "recovered": 231
     }
   },
@@ -1137,7 +1137,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1405,
+      "confirmed": 1450,
       "date": "2020-04-18",
       "deaths": 4,
       "recovered": 156
