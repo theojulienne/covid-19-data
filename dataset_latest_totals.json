@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 32813,
-        "deaths": 1354,
+        "confirmed": 32856,
+        "deaths": 1355,
         "recovered": 10545
       },
       "states": {
@@ -285,8 +285,8 @@
           "deaths": 50
         },
         "British Columbia": {
-          "confirmed": 1575,
-          "deaths": 77
+          "confirmed": 1618,
+          "deaths": 78
         },
         "Diamond Princess": {
           "confirmed": -1,
@@ -541,7 +541,7 @@
       "latest": {
         "confirmed": 1017,
         "deaths": 22,
-        "recovered": 168
+        "recovered": 177
       }
     },
     "COD": {
@@ -1047,9 +1047,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10635,
-        "deaths": 230,
-        "recovered": 7829
+        "confirmed": 10653,
+        "deaths": 232,
+        "recovered": 7937
       }
     },
     "KWT": {
@@ -1070,7 +1070,7 @@
       "latest": {
         "confirmed": 668,
         "deaths": 21,
-        "recovered": 86
+        "recovered": 94
       }
     },
     "LBR": {
@@ -1314,9 +1314,9 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1409,
+        "confirmed": 1422,
         "deaths": 11,
-        "recovered": 816
+        "recovered": 867
       }
     },
     "OMN": {
@@ -1335,9 +1335,9 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 4016,
-        "deaths": 109,
-        "recovered": 98
+        "confirmed": 4210,
+        "deaths": 116,
+        "recovered": 122
       }
     },
     "PER": {
