@@ -28,7 +28,7 @@
       "confirmed": 2758,
       "date": "2020-04-18",
       "deaths": 129,
-      "recovered": 666
+      "recovered": 685
     }
   },
   "Armenia": {
@@ -77,10 +77,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1340,
+      "confirmed": 1373,
       "date": "2020-04-18",
-      "deaths": 15,
-      "recovered": 528
+      "deaths": 18,
+      "recovered": 590
     }
   },
   "Bahrain": {
@@ -429,18 +429,18 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 141483,
+      "confirmed": 141968,
       "date": "2020-04-18",
-      "deaths": 4362,
+      "deaths": 4377,
       "recovered": 85400
     }
   },
   "Ghana": {
     "live": {
-      "confirmed": 641,
+      "confirmed": 834,
       "date": "2020-04-18",
-      "deaths": 8,
-      "recovered": 83
+      "deaths": 9,
+      "recovered": 99
     }
   },
   "Greece": {
@@ -533,10 +533,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1591,
+      "confirmed": 1615,
       "date": "2020-04-18",
       "deaths": 17,
-      "recovered": 347
+      "recovered": 377
     }
   },
   "Korea, South": {
@@ -645,10 +645,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 1117,
+      "confirmed": 1170,
       "date": "2020-04-18",
       "deaths": 49,
-      "recovered": 139
+      "recovered": 164
     }
   },
   "Norway": {
@@ -669,7 +669,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 7481,
+      "confirmed": 7638,
       "date": "2020-04-18",
       "deaths": 143,
       "recovered": 1832
@@ -741,10 +741,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 7142,
+      "confirmed": 8274,
       "date": "2020-04-18",
-      "deaths": 87,
-      "recovered": 1049
+      "deaths": 92,
+      "recovered": 1329
     }
   },
   "Serbia": {
@@ -1031,9 +1031,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 1068,
+          "confirmed": 1118,
           "date": "2020-04-18",
-          "deaths": 58,
+          "deaths": 60,
           "recovered": 0
         }
       },
@@ -1129,9 +1129,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 108692,
+      "confirmed": 114217,
       "date": "2020-04-18",
-      "deaths": 14576,
+      "deaths": 15464,
       "recovered": 0
     }
   },
@@ -1140,7 +1140,7 @@
       "confirmed": 1450,
       "date": "2020-04-18",
       "deaths": 4,
-      "recovered": 171
+      "recovered": 194
     }
   }
 }

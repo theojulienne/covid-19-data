@@ -39,7 +39,7 @@
       "latest": {
         "confirmed": 2758,
         "deaths": 129,
-        "recovered": 666
+        "recovered": 685
       }
     },
     "ARM": {
@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1340,
-        "deaths": 15,
-        "recovered": 528
+        "confirmed": 1373,
+        "deaths": 18,
+        "recovered": 590
       }
     },
     "BDI": {
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 141483,
-        "deaths": 4362,
+        "confirmed": 141968,
+        "deaths": 4377,
         "recovered": 85400
       }
     },
@@ -785,8 +785,8 @@
     },
     "GBR": {
       "latest": {
-        "confirmed": 108692,
-        "deaths": 14576,
+        "confirmed": 114217,
+        "deaths": 15464,
         "recovered": 0
       },
       "states": {
@@ -851,9 +851,9 @@
     },
     "GHA": {
       "latest": {
-        "confirmed": 641,
-        "deaths": 8,
-        "recovered": 83
+        "confirmed": 834,
+        "deaths": 9,
+        "recovered": 99
       }
     },
     "GIN": {
@@ -1019,9 +1019,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 1591,
+        "confirmed": 1615,
         "deaths": 17,
-        "recovered": 347
+        "recovered": 377
       }
     },
     "KEN": {
@@ -1173,9 +1173,9 @@
     },
     "MKD": {
       "latest": {
-        "confirmed": 1117,
+        "confirmed": 1170,
         "deaths": 49,
-        "recovered": 139
+        "recovered": 164
       }
     },
     "MLI": {
@@ -1328,7 +1328,7 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 7481,
+        "confirmed": 7638,
         "deaths": 143,
         "recovered": 1832
       }
@@ -1419,9 +1419,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 7142,
-        "deaths": 87,
-        "recovered": 1049
+        "confirmed": 8274,
+        "deaths": 92,
+        "recovered": 1329
       }
     },
     "SDN": {
@@ -1954,7 +1954,7 @@
       "latest": {
         "confirmed": 1450,
         "deaths": 4,
-        "recovered": 171
+        "recovered": 194
       }
     },
     "VAT": {
