@@ -87,7 +87,8 @@ var covid19_dataset_country_uzb = {
     "2020-04-15",
     "2020-04-16",
     "2020-04-17",
-    "2020-04-18"
+    "2020-04-18",
+    "2020-04-19"
   ],
   "total": {
     "confirmed": [
@@ -260,6 +261,7 @@ var covid19_dataset_country_uzb = {
       3,
       3,
       3,
+      4,
       4,
       4,
       4,

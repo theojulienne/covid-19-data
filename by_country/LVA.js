@@ -87,7 +87,8 @@ var covid19_dataset_country_lva = {
     "2020-04-15",
     "2020-04-16",
     "2020-04-17",
-    "2020-04-18"
+    "2020-04-18",
+    "2020-04-19"
   ],
   "total": {
     "confirmed": [
@@ -261,6 +262,7 @@ var covid19_dataset_country_lva = {
       3,
       3,
       3,
+      5,
       5,
       5,
       5,

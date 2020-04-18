@@ -1883,7 +1883,7 @@ var covid19_dataset_country_usa = {
           215408,
           229686,
           259600,
-          266000
+          258814
         ]
       }
     },
@@ -2967,7 +2967,7 @@ var covid19_dataset_country_usa = {
           1761,
           2014,
           2075,
-          2075
+          2323
         ],
         "deaths": [
           0,
@@ -3056,7 +3056,7 @@ var covid19_dataset_country_usa = {
           41,
           46,
           52,
-          52
+          61
         ],
         "recovered": [
           0,
@@ -3145,7 +3145,7 @@ var covid19_dataset_country_usa = {
           277,
           354,
           378,
-          378
+          423
         ],
         "tested": [
           0,
@@ -3234,7 +3234,7 @@ var covid19_dataset_country_usa = {
           12304,
           13102,
           13350,
-          13350
+          14017
         ]
       }
     },
@@ -12733,7 +12733,7 @@ var covid19_dataset_country_usa = {
           202208,
           213779,
           222284,
-          222284
+          229642
         ],
         "deaths": [
           0,
@@ -13089,7 +13089,7 @@ var covid19_dataset_country_usa = {
           499143,
           526012,
           550579,
-          550579
+          573223
         ]
       }
     },
@@ -19632,7 +19632,8 @@ var covid19_dataset_country_usa = {
     "2020-04-15",
     "2020-04-16",
     "2020-04-17",
-    "2020-04-18"
+    "2020-04-18",
+    "2020-04-19"
   ],
   "total": {
     "confirmed": [
@@ -19722,7 +19723,7 @@ var covid19_dataset_country_usa = {
       601351,
       631483,
       662018,
-      685646
+      693252
     ],
     "deaths": [
       0,
@@ -19811,7 +19812,7 @@ var covid19_dataset_country_usa = {
       25615,
       28101,
       30232,
-      32289
+      32298
     ],
     "recovered": [
       0,
@@ -19900,7 +19901,7 @@ var covid19_dataset_country_usa = {
       38217,
       39970,
       42582,
-      44633
+      44678
     ],
     "tested": [
       0,
@@ -19989,7 +19990,7 @@ var covid19_dataset_country_usa = {
       3088293,
       3248985,
       3406653,
-      3540234
+      3556359
     ]
   }
 };

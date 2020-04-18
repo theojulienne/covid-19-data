@@ -87,7 +87,8 @@ var covid19_dataset_country_civ = {
     "2020-04-15",
     "2020-04-16",
     "2020-04-17",
-    "2020-04-18"
+    "2020-04-18",
+    "2020-04-19"
   ],
   "total": {
     "confirmed": [
@@ -262,6 +263,7 @@ var covid19_dataset_country_civ = {
       3,
       4,
       5,
+      6,
       6,
       6,
       6,
