@@ -178,7 +178,8 @@ var covid19_dataset_country_hun = {
       1512,
       1579,
       1652,
-      1763
+      1763,
+      1834
     ],
     "deaths": [
       0,
@@ -356,7 +357,8 @@ var covid19_dataset_country_hun = {
       122,
       192,
       199,
-      207
+      207,
+      231
     ]
   }
 };
