@@ -49,7 +49,8 @@
     "2020-04-14",
     "2020-04-15",
     "2020-04-16",
-    "2020-04-17"
+    "2020-04-17",
+    "2020-04-18"
   ],
   "total": {
     "confirmed": [
@@ -102,7 +103,8 @@
       3553,
       3656,
       3656,
-      3931
+      3931,
+      4246
     ],
     "deaths": [
       null,
@@ -154,7 +156,8 @@
       97,
       107,
       107,
-      109
+      109,
+      119
     ],
     "hospitalized": [
       null,
@@ -206,7 +209,61 @@
       675,
       675,
       675,
-      675
+      675,
+      776
+    ],
+    "recovered": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2633
     ],
     "tested": [
       0,
@@ -258,7 +315,8 @@
       33872,
       34733,
       34733,
-      36284
+      36284,
+      38833
     ]
   }
 }
