@@ -999,9 +999,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 226872,
+          "confirmed": 227334,
           "date": "2020-04-18",
-          "deaths": 16442,
+          "deaths": 16480,
           "recovered": 0
         }
       },

@@ -1623,7 +1623,7 @@
     "USA": {
       "latest": {
         "confirmed": 693252,
-        "deaths": 35955,
+        "deaths": 35993,
         "recovered": 44678,
         "tested": 3556359
       },
@@ -1839,7 +1839,7 @@
         },
         "NY": {
           "confirmed": 229642,
-          "deaths": 16442,
+          "deaths": 16480,
           "hospitalized": 52424,
           "recovered": 23887,
           "tested": 573223
