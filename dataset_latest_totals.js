@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 36599,
-        "deaths": 2347,
+        "confirmed": 36658,
+        "deaths": 2354,
         "recovered": 14026
       }
     },
@@ -275,14 +275,14 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 33622,
-        "deaths": 1358,
+        "confirmed": 34344,
+        "deaths": 1399,
         "recovered": 10545
       },
       "states": {
         "Alberta": {
-          "confirmed": 2397,
-          "deaths": 50
+          "confirmed": 2562,
+          "deaths": 51
         },
         "British Columbia": {
           "confirmed": 1618,
@@ -317,8 +317,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 7
         },
         "Ontario": {
-          "confirmed": 10456,
-          "deaths": 524
+          "confirmed": 11013,
+          "deaths": 564
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -532,9 +532,9 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "latest": {
-        "confirmed": 742,
-        "deaths": 6,
-        "recovered": 220
+        "confirmed": 801,
+        "deaths": 8,
+        "recovered": 239
       }
     },
     "CMR": {
@@ -574,9 +574,9 @@ var covid19_dataset_latest_totals = {
     },
     "CRI": {
       "latest": {
-        "confirmed": 649,
+        "confirmed": 655,
         "deaths": 4,
-        "recovered": 88
+        "recovered": 97
       }
     },
     "CUB": {
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 143160,
-        "deaths": 4451,
+        "confirmed": 143342,
+        "deaths": 4459,
         "recovered": 85400
       }
     },
@@ -1012,9 +1012,9 @@ var covid19_dataset_latest_totals = {
     },
     "JPN": {
       "latest": {
-        "confirmed": 9787,
-        "deaths": 190,
-        "recovered": 935
+        "confirmed": 10296,
+        "deaths": 222,
+        "recovered": 1069
       }
     },
     "KAZ": {
@@ -1250,9 +1250,9 @@ var covid19_dataset_latest_totals = {
     },
     "NER": {
       "latest": {
-        "confirmed": 627,
-        "deaths": 18,
-        "recovered": 110
+        "confirmed": 639,
+        "deaths": 19,
+        "recovered": 113
       }
     },
     "NGA": {
