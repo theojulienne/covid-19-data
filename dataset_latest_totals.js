@@ -44,9 +44,9 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "latest": {
-        "confirmed": 1201,
-        "deaths": 19,
-        "recovered": 402
+        "confirmed": 1248,
+        "deaths": 20,
+        "recovered": 523
       }
     },
     "ATG": {
@@ -595,9 +595,9 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 6549,
-        "deaths": 173,
-        "recovered": 1174
+        "confirmed": 6553,
+        "deaths": 176,
+        "recovered": 1183
       }
     },
     "DEU": {
@@ -984,9 +984,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "latest": {
-        "confirmed": 12982,
-        "deaths": 151,
-        "recovered": 3126
+        "confirmed": 13107,
+        "deaths": 158,
+        "recovered": 3247
       }
     },
     "ITA": {
@@ -1110,9 +1110,9 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "latest": {
-        "confirmed": 1149,
+        "confirmed": 1239,
         "deaths": 33,
-        "recovered": 210
+        "recovered": 228
       }
     },
     "LUX": {
@@ -1124,7 +1124,7 @@ var covid19_dataset_latest_totals = {
     },
     "LVA": {
       "latest": {
-        "confirmed": 682,
+        "confirmed": 712,
         "deaths": 5,
         "recovered": 88
       }
@@ -1300,8 +1300,8 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 6937,
-        "deaths": 161,
+        "confirmed": 6992,
+        "deaths": 162,
         "recovered": 32
       }
     },
@@ -1365,7 +1365,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 8379,
         "deaths": 332,
-        "recovered": 866
+        "recovered": 981
       }
     },
     "PRT": {
@@ -1608,9 +1608,9 @@ var covid19_dataset_latest_totals = {
     },
     "UKR": {
       "latest": {
-        "confirmed": 4662,
-        "deaths": 125,
-        "recovered": 246
+        "confirmed": 5106,
+        "deaths": 133,
+        "recovered": 275
       }
     },
     "URY": {
