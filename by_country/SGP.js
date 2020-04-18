@@ -357,7 +357,8 @@ var covid19_dataset_country_sgp = {
       611,
       652,
       683,
-      708
+      708,
+      740
     ]
   }
 };
