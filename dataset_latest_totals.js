@@ -37,8 +37,8 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "latest": {
-        "confirmed": 2669,
-        "deaths": 123,
+        "confirmed": 2758,
+        "deaths": 129,
         "recovered": 666
       }
     },
@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 33682,
-        "deaths": 2141,
+        "confirmed": 34221,
+        "deaths": 2171,
         "recovered": 14026
       }
     },
@@ -358,9 +358,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 83760,
+        "confirmed": 83782,
         "deaths": 4636,
-        "recovered": 77552
+        "recovered": 77568
       },
       "states": {
         "Anhui": {
@@ -389,9 +389,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 137
         },
         "Guangdong": {
-          "confirmed": 1577,
+          "confirmed": 1579,
           "deaths": 8,
-          "recovered": 1475
+          "recovered": 1482
         },
         "Guangxi": {
           "confirmed": 254,
@@ -414,9 +414,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 316
         },
         "Heilongjiang": {
-          "confirmed": 872,
+          "confirmed": 892,
           "deaths": 13,
-          "recovered": 471
+          "recovered": 472
         },
         "Henan": {
           "confirmed": 1276,
@@ -431,12 +431,12 @@ var covid19_dataset_latest_totals = {
         "Hubei": {
           "confirmed": 68128,
           "deaths": 4512,
-          "recovered": 63487
+          "recovered": 63494
         },
         "Hunan": {
           "confirmed": 1019,
           "deaths": 4,
-          "recovered": 1014
+          "recovered": 1015
         },
         "Inner Mongolia": {
           "confirmed": 193,
@@ -539,9 +539,9 @@ var covid19_dataset_latest_totals = {
     },
     "CMR": {
       "latest": {
-        "confirmed": 996,
+        "confirmed": 1017,
         "deaths": 22,
-        "recovered": 164
+        "recovered": 168
       }
     },
     "COD": {
@@ -1166,8 +1166,8 @@ var covid19_dataset_latest_totals = {
     },
     "MEX": {
       "latest": {
-        "confirmed": 6297,
-        "deaths": 486,
+        "confirmed": 6875,
+        "deaths": 546,
         "recovered": 2125
       }
     },
