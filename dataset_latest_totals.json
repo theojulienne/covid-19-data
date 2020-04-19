@@ -1622,10 +1622,10 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 719426,
+        "confirmed": 720861,
         "deaths": 34069,
         "recovered": 51907,
-        "tested": 3687818
+        "tested": 3695870
       },
       "states": {
         "AK": {
@@ -1655,9 +1655,9 @@
           "tested": 51045
         },
         "CA": {
-          "confirmed": 27528,
+          "confirmed": 28963,
           "deaths": 1072,
-          "tested": 258814
+          "tested": 266866
         },
         "CO": {
           "confirmed": 9047,
