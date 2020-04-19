@@ -58,12 +58,12 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 6566,
-        "current_hospitalized": 184,
-        "current_icu": 55,
-        "deaths": 70,
+        "confirmed": 6595,
+        "current_hospitalized": 104,
+        "current_icu": 19,
+        "deaths": 72,
         "recovered": 4124,
-        "tested": 408482
+        "tested": 416165
       },
       "states": {
         "ACT": {
@@ -75,13 +75,13 @@ var covid19_dataset_latest_totals = {
           "tested": 6856
         },
         "NSW": {
-          "confirmed": 2936,
-          "current_hospitalized": 57,
-          "current_icu": 25,
+          "confirmed": 2957,
+          "current_hospitalized": null,
+          "current_icu": null,
           "current_ventilators": null,
-          "deaths": 28,
+          "deaths": 29,
           "recovered": 1379,
-          "tested": 160454
+          "tested": 165137
         },
         "NT": {
           "confirmed": 27,
@@ -92,9 +92,9 @@ var covid19_dataset_latest_totals = {
           "tested": 3625
         },
         "QLD": {
-          "confirmed": 1015,
-          "current_hospitalized": 22,
-          "current_icu": 9,
+          "confirmed": 1014,
+          "current_hospitalized": null,
+          "current_icu": null,
           "deaths": 6,
           "recovered": 738,
           "tested": 84735
@@ -116,12 +116,12 @@ var covid19_dataset_latest_totals = {
           "tested": 5376
         },
         "VIC": {
-          "confirmed": 1319,
-          "current_hospitalized": 30,
-          "current_icu": 12,
-          "deaths": 14,
+          "confirmed": 1328,
+          "current_hospitalized": 29,
+          "current_icu": 10,
+          "deaths": 15,
           "recovered": 1172,
-          "tested": 79000
+          "tested": 82000
         },
         "WA": {
           "confirmed": 544,
@@ -951,7 +951,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 16365,
         "deaths": 521,
-        "recovered": 2463
+        "recovered": 2466
       }
     },
     "IRL": {
@@ -1338,9 +1338,9 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "latest": {
-        "confirmed": 4210,
-        "deaths": 116,
-        "recovered": 122
+        "confirmed": 4273,
+        "deaths": 120,
+        "recovered": 140
       }
     },
     "PER": {

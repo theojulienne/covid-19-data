@@ -472,7 +472,7 @@
       "confirmed": 16365,
       "date": "2020-04-19",
       "deaths": 521,
-      "recovered": 2463
+      "recovered": 2466
     }
   },
   "Indonesia": {
@@ -677,10 +677,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 4210,
+      "confirmed": 4273,
       "date": "2020-04-19",
-      "deaths": 116,
-      "recovered": 122
+      "deaths": 120,
+      "recovered": 140
     }
   },
   "Peru": {
