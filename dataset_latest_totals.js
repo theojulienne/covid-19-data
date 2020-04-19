@@ -135,7 +135,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "latest": {
-        "confirmed": 14675,
+        "confirmed": 14681,
         "deaths": 443,
         "recovered": 10501
       }
@@ -358,9 +358,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHN": {
       "latest": {
-        "confirmed": 83801,
+        "confirmed": 83802,
         "deaths": 4636,
-        "recovered": 77640
+        "recovered": 77674
       },
       "states": {
         "Anhui": {
@@ -424,9 +424,9 @@ var covid19_dataset_latest_totals = {
           "recovered": 1254
         },
         "Hong Kong": {
-          "confirmed": 1024,
+          "confirmed": 1025,
           "deaths": 4,
-          "recovered": 568
+          "recovered": 602
         },
         "Hubei": {
           "confirmed": 68128,
@@ -684,9 +684,9 @@ var covid19_dataset_latest_totals = {
     },
     "ESP": {
       "latest": {
-        "confirmed": 194416,
+        "confirmed": 195944,
         "deaths": 20639,
-        "recovered": 74797
+        "recovered": 77357
       }
     },
     "EST": {
@@ -706,7 +706,7 @@ var covid19_dataset_latest_totals = {
     "FIN": {
       "latest": {
         "confirmed": 3783,
-        "deaths": 90,
+        "deaths": 94,
         "recovered": 1700
       }
     },
@@ -1054,9 +1054,9 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "latest": {
-        "confirmed": 1751,
-        "deaths": 6,
-        "recovered": 280
+        "confirmed": 1915,
+        "deaths": 7,
+        "recovered": 305
       }
     },
     "LAO": {
@@ -1131,9 +1131,9 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "latest": {
-        "confirmed": 2685,
-        "deaths": 137,
-        "recovered": 314
+        "confirmed": 2820,
+        "deaths": 138,
+        "recovered": 322
       }
     },
     "MCO": {
@@ -1401,9 +1401,9 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "latest": {
-        "confirmed": 8418,
+        "confirmed": 8746,
         "deaths": 434,
-        "recovered": 1730
+        "recovered": 1892
       }
     },
     "RUS": {
