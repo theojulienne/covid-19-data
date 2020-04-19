@@ -142,9 +142,9 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "latest": {
-        "confirmed": 1373,
-        "deaths": 18,
-        "recovered": 590
+        "confirmed": 1398,
+        "deaths": 19,
+        "recovered": 712
       }
     },
     "BDI": {
@@ -191,9 +191,9 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "latest": {
-        "confirmed": 1773,
+        "confirmed": 1873,
         "deaths": 7,
-        "recovered": 755
+        "recovered": 759
       }
     },
     "BHS": {
@@ -360,7 +360,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 83802,
         "deaths": 4636,
-        "recovered": 77674
+        "recovered": 77679
       },
       "states": {
         "Anhui": {
@@ -491,7 +491,7 @@ var covid19_dataset_latest_totals = {
         "Shanghai": {
           "confirmed": 635,
           "deaths": 7,
-          "recovered": 516
+          "recovered": 521
         },
         "Shanxi": {
           "confirmed": 197,
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 143779,
-        "deaths": 4543,
+        "confirmed": 144033,
+        "deaths": 4545,
         "recovered": 88000
       }
     },
@@ -785,8 +785,8 @@ var covid19_dataset_latest_totals = {
     },
     "GBR": {
       "latest": {
-        "confirmed": 114217,
-        "deaths": 15464,
+        "confirmed": 120067,
+        "deaths": 16060,
         "recovered": 0
       },
       "states": {
@@ -1111,7 +1111,7 @@ var covid19_dataset_latest_totals = {
     "LTU": {
       "latest": {
         "confirmed": 1298,
-        "deaths": 34,
+        "deaths": 35,
         "recovered": 242
       }
     },
@@ -1422,9 +1422,9 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 8274,
-        "deaths": 92,
-        "recovered": 1329
+        "confirmed": 9362,
+        "deaths": 97,
+        "recovered": 1398
       }
     },
     "SDN": {
@@ -1956,9 +1956,9 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 1495,
+        "confirmed": 1543,
         "deaths": 5,
-        "recovered": 214
+        "recovered": 225
       }
     },
     "VAT": {
