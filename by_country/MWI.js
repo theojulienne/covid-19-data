@@ -179,6 +179,7 @@ var covid19_dataset_country_mwi = {
       16,
       16,
       16,
+      17,
       17
     ],
     "deaths": [
@@ -262,6 +263,7 @@ var covid19_dataset_country_mwi = {
       1,
       1,
       1,
+      2,
       2,
       2,
       2,
@@ -357,6 +359,7 @@ var covid19_dataset_country_mwi = {
       0,
       0,
       0,
+      3,
       3
     ]
   }

@@ -179,9 +179,11 @@ var covid19_dataset_country_mdg = {
       108,
       110,
       111,
-      117
+      117,
+      120
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -357,7 +359,8 @@ var covid19_dataset_country_mdg = {
       23,
       29,
       33,
-      33
+      33,
+      35
     ]
   }
 };

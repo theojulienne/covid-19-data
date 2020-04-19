@@ -179,7 +179,8 @@ var covid19_dataset_country_zwe = {
       17,
       23,
       23,
-      24
+      24,
+      25
     ],
     "deaths": [
       0,
@@ -259,6 +260,7 @@ var covid19_dataset_country_zwe = {
       1,
       1,
       2,
+      3,
       3,
       3,
       3,
@@ -357,6 +359,7 @@ var covid19_dataset_country_zwe = {
       0,
       1,
       1,
+      2,
       2
     ]
   }

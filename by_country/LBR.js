@@ -179,6 +179,7 @@ var covid19_dataset_country_lbr = {
       59,
       59,
       59,
+      76,
       76
     ],
     "deaths": [
@@ -268,6 +269,7 @@ var covid19_dataset_country_lbr = {
       6,
       6,
       6,
+      7,
       7
     ],
     "recovered": [
@@ -357,6 +359,7 @@ var covid19_dataset_country_lbr = {
       4,
       4,
       4,
+      7,
       7
     ]
   }
