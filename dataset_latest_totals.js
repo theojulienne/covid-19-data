@@ -984,9 +984,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "latest": {
-        "confirmed": 13265,
-        "deaths": 164,
-        "recovered": 3456
+        "confirmed": 13362,
+        "deaths": 171,
+        "recovered": 3564
       }
     },
     "ITA": {
@@ -1956,7 +1956,7 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 1490,
+        "confirmed": 1495,
         "deaths": 5,
         "recovered": 194
       }

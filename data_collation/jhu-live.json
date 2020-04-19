@@ -509,10 +509,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 13265,
+      "confirmed": 13362,
       "date": "2020-04-19",
-      "deaths": 164,
-      "recovered": 3456
+      "deaths": 171,
+      "recovered": 3564
     }
   },
   "Italy": {
@@ -991,7 +991,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 79662,
+          "confirmed": 79694,
           "date": "2020-04-19",
           "deaths": 4151,
           "recovered": 0
@@ -1137,7 +1137,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1490,
+      "confirmed": 1495,
       "date": "2020-04-19",
       "deaths": 5,
       "recovered": 194
