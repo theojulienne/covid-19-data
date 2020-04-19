@@ -821,9 +821,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 866,
+      "confirmed": 879,
       "date": "2020-04-19",
-      "deaths": 37,
+      "deaths": 38,
       "recovered": 43
     }
   },

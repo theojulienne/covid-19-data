@@ -1576,8 +1576,8 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "latest": {
-        "confirmed": 866,
-        "deaths": 37,
+        "confirmed": 879,
+        "deaths": 38,
         "recovered": 43
       }
     },
