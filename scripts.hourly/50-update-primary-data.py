@@ -184,7 +184,7 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
                 d = int(d)
             timeseries.append(d)
             last = d
-        
+
         if live_sample is not None:
             live_date = live_sample['date']
             if global_dates.index(live_date) == len(timeseries) and live_sample.get(dataset.lower()) > timeseries[-1]:
@@ -220,7 +220,7 @@ def subseries_total(part, pre_aggregated={}):
         else:
             keys_in_all = keys_in_all & set(subseries['total'].keys())
     keys_in_all = keys_in_all | set(['confirmed', 'deaths', 'recovered'])
-    
+
     for key, subseries in part['subseries'].items():
         for dataset, timeseries in subseries['total'].items(): # confirmed, deaths, recovered
             if dataset not in keys_in_all: continue # only aggregate data that all subseries have
@@ -228,7 +228,7 @@ def subseries_total(part, pre_aggregated={}):
                 totals[dataset] = timeseries
             else:
                 totals[dataset] = cumulative_timeseries_add(totals[dataset], timeseries)
-    
+
     # if we haven't aggregated ones we were provided externally, then use the aggregated numbers
     for key, value in pre_aggregated.items():
         if key not in totals:
@@ -257,7 +257,7 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
         if first_new_date not in original_dates:
             print('WARNING: attempt to merge a dataset starting outside the original range'.format(key))
             return original
-        
+
         date_index_in_old = original_dates.index(first_new_date)
         if series_name not in original['total']:
             # the main dataset doesn't have this. we just need to adjust the series to match dates
@@ -266,7 +266,7 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
             # the main dataset DOES have this. what we want is all the data is had, before ours.
             # then, keep our data from then on.
             updated_dataset_totals[series_name] = original['total'][series_name][:date_index_in_old] + series_data[first_real_index:]
-    
+
     # for i, date in enumerate(original_dates):
     #     print(i, date, updated_dataset_totals['confirmed'][i], original['total']['confirmed'][i])
 
@@ -283,7 +283,7 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
             dataset[key] = value
         else:
             print('WARNING: attempt to merge datasets with conflicting field {}'.format(key))
-    
+
     # add in live data to the end of this overwritten states, if needed
     live_sample = None
     country_name = country_code_to_name[country_code]
@@ -308,13 +308,21 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
     return dataset
 
 for country_code in os.listdir('data_collation/by_state'):
-    for state_fn in os.listdir('data_collation/by_state/'+country_code):
-        state_code, _ = state_fn.split('.')
+    if os.path.isdir(os.path.join('data_collation/by_state', country_code)):
+        for state_fn in os.listdir('data_collation/by_state/'+country_code):
+            state_code, _ = state_fn.split('.')
 
-        with open('data_collation/by_state/{}/{}.json'.format(country_code, state_code), 'r') as f:
-            state_json = json.load(f)
+            with open('data_collation/by_state/{}/{}.json'.format(country_code, state_code), 'r') as f:
+                state_json = json.load(f)
 
-        datasets[country_code]['subseries'][state_code] = merge_dataset(global_dates, datasets[country_code]['subseries'][state_code], state_json, country_code=country_code, state_code=state_code)
+            datasets[country_code]['subseries'][state_code] = merge_dataset(global_dates, datasets[country_code]['subseries'][state_code], state_json, country_code=country_code, state_code=state_code)
+    else:
+        # Strip the `.json` from the country code
+        country_code = country_code.split('.')[0]
+        with open('data_collation/by_state/{}.json'.format(country_code), 'r') as f:
+            country_json = json.load(f)
+
+        datasets[country_code] = merge_dataset(global_dates, datasets[country_code], country_json, country_code=country_code, state_code=None)
 
 out = {
     'subseries': datasets,
