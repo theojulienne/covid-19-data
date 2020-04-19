@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 36760,
+      "confirmed": 36925,
       "date": "2020-04-19",
-      "deaths": 2368,
+      "deaths": 2372,
       "recovered": 14026
     }
   },
@@ -292,9 +292,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1268,
-          "date": "2020-04-17",
+          "date": "2020-04-19",
           "deaths": 1,
-          "recovered": 1246
+          "recovered": 1247
         }
       }
     }
@@ -469,7 +469,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 15723,
+      "confirmed": 16365,
       "date": "2020-04-19",
       "deaths": 521,
       "recovered": 2463
@@ -975,7 +975,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 2971,
+          "confirmed": 2973,
           "date": "2020-04-19",
           "deaths": 110,
           "recovered": 0

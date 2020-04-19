@@ -63,7 +63,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 55,
         "deaths": 70,
         "recovered": 4124,
-        "tested": 406510
+        "tested": 408482
       },
       "states": {
         "ACT": {
@@ -97,7 +97,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 9,
           "deaths": 6,
           "recovered": 738,
-          "tested": 82763
+          "tested": 84735
         },
         "SA": {
           "confirmed": 435,
@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 36760,
-        "deaths": 2368,
+        "confirmed": 36925,
+        "deaths": 2372,
         "recovered": 14026
       }
     },
@@ -360,7 +360,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 83801,
         "deaths": 4636,
-        "recovered": 77639
+        "recovered": 77640
       },
       "states": {
         "Anhui": {
@@ -526,7 +526,7 @@ var covid19_dataset_latest_totals = {
         "Zhejiang": {
           "confirmed": 1268,
           "deaths": 1,
-          "recovered": 1246
+          "recovered": 1247
         }
       }
     },
@@ -949,7 +949,7 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 15723,
+        "confirmed": 16365,
         "deaths": 521,
         "recovered": 2463
       }
