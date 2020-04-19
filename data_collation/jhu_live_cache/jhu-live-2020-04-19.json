@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 878,
+      "confirmed": 884,
       "date": "2020-04-19",
-      "deaths": 41,
-      "recovered": 153
+      "deaths": 42,
+      "recovered": 161
     }
   },
   "Cameroon": {
@@ -349,7 +349,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 6606,
+      "confirmed": 6654,
       "date": "2020-04-19",
       "deaths": 181,
       "recovered": 1227
@@ -432,7 +432,7 @@
       "confirmed": 143724,
       "date": "2020-04-19",
       "deaths": 4538,
-      "recovered": 85400
+      "recovered": 88000
     }
   },
   "Ghana": {
@@ -669,10 +669,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 7638,
+      "confirmed": 7993,
       "date": "2020-04-19",
-      "deaths": 143,
-      "recovered": 1832
+      "deaths": 159,
+      "recovered": 1868
     }
   },
   "Panama": {
@@ -813,10 +813,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2733,
+      "confirmed": 2765,
       "date": "2020-04-19",
       "deaths": 47,
-      "recovered": 1787
+      "recovered": 1928
     }
   },
   "Tunisia": {
@@ -991,9 +991,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 79528,
+          "confirmed": 79662,
           "date": "2020-04-19",
-          "deaths": 3973,
+          "deaths": 4151,
           "recovered": 0
         }
       },
