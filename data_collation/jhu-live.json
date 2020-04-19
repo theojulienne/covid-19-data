@@ -28,7 +28,7 @@
       "confirmed": 2839,
       "date": "2020-04-19",
       "deaths": 132,
-      "recovered": 685
+      "recovered": 709
     }
   },
   "Armenia": {
@@ -69,7 +69,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 14689,
+      "confirmed": 14696,
       "date": "2020-04-19",
       "deaths": 443,
       "recovered": 10501
@@ -429,9 +429,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 144033,
+      "confirmed": 144348,
       "date": "2020-04-19",
-      "deaths": 4545,
+      "deaths": 4547,
       "recovered": 88000
     }
   },
@@ -653,7 +653,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7069,
+      "confirmed": 7078,
       "date": "2020-04-19",
       "deaths": 165,
       "recovered": 32
@@ -663,7 +663,7 @@
     "live": {
       "confirmed": 1266,
       "date": "2020-04-19",
-      "deaths": 6,
+      "deaths": 7,
       "recovered": 233
     }
   },
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 27740,
       "date": "2020-04-19",
-      "deaths": 1368,
+      "deaths": 1381,
       "recovered": 17100
     }
   },
