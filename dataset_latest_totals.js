@@ -1315,8 +1315,11 @@ var covid19_dataset_latest_totals = {
     "NZL": {
       "latest": {
         "confirmed": 1422,
-        "deaths": 11,
-        "recovered": 867
+        "current_hospitalized": 20,
+        "current_icu": 3,
+        "deaths": 9,
+        "recovered": 867,
+        "tested": 79078
       }
     },
     "OMN": {

@@ -1,0 +1,41 @@
+{
+  "country": "NZ",
+  "events": [
+    {
+      "citations": [
+        "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12318284"
+      ],
+      "control": {
+        "class": "border-movement",
+        "type": "non-citizen"
+      },
+      "date": "2020-03-20",
+      "name": "New Zealand blocks arrival of all non-citizens, non-residents",
+      "type": "control"
+    },
+    {
+      "citations": [
+        "https://www.theaustralian.com.au/world/coronavirus-new-zealand-shutdown-moves-to-strictest-conditions/news-story/3edb0a4fcf05d82dff0a98e427bf15cb"
+      ],
+      "control": {
+        "class": "resident-activity",
+        "type": "lockdown"
+      },
+      "date": "2020-03-23",
+      "name": "New Zealand moves to Alert level 3",
+      "type": "control"
+    },
+    {
+      "citations": [
+        "https://www.health.govt.nz/news-media/media-releases/50-new-cases-covid-19-new-zealand"
+      ],
+      "control": {
+        "class": "resident-activity",
+        "type": "lockdown"
+      },
+      "date": "2020-03-25",
+      "name": "New Zealand moves to Alert level 4",
+      "type": "control"
+    }
+  ]
+}
