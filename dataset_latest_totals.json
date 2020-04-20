@@ -3,8 +3,8 @@
     "AFG": {
       "latest": {
         "confirmed": 1026,
-        "deaths": 33,
-        "recovered": 131
+        "deaths": 36,
+        "recovered": 135
       }
     },
     "AGO": {
@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 39144,
-        "deaths": 2484,
+        "confirmed": 39548,
+        "deaths": 2507,
         "recovered": 22130
       }
     },
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 27944,
-        "deaths": 1406,
+        "deaths": 1427,
         "recovered": 17800
       }
     },
@@ -581,9 +581,9 @@
     },
     "CUB": {
       "latest": {
-        "confirmed": 1035,
-        "deaths": 34,
-        "recovered": 255
+        "confirmed": 1087,
+        "deaths": 36,
+        "recovered": 285
       }
     },
     "CYP": {
@@ -595,9 +595,9 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 6787,
-        "deaths": 188,
-        "recovered": 1311
+        "confirmed": 6838,
+        "deaths": 194,
+        "recovered": 1559
       }
     },
     "DEU": {
@@ -649,16 +649,16 @@
     },
     "DZA": {
       "latest": {
-        "confirmed": 2629,
-        "deaths": 375,
-        "recovered": 1047
+        "confirmed": 2718,
+        "deaths": 384,
+        "recovered": 1099
       }
     },
     "ECU": {
       "latest": {
-        "confirmed": 9468,
-        "deaths": 474,
-        "recovered": 1061
+        "confirmed": 10128,
+        "deaths": 507,
+        "recovered": 1150
       }
     },
     "EGY": {
@@ -970,15 +970,15 @@
     },
     "IRQ": {
       "latest": {
-        "confirmed": 1539,
+        "confirmed": 1574,
         "deaths": 82,
-        "recovered": 1009
+        "recovered": 1043
       }
     },
     "ISL": {
       "latest": {
         "confirmed": 1773,
-        "deaths": 9,
+        "deaths": 10,
         "recovered": 1362
       }
     },
@@ -991,9 +991,9 @@
     },
     "ITA": {
       "latest": {
-        "confirmed": 178972,
-        "deaths": 23660,
-        "recovered": 47055
+        "confirmed": 181228,
+        "deaths": 24114,
+        "recovered": 48877
       }
     },
     "JAM": {
@@ -1019,9 +1019,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 1775,
+        "confirmed": 1852,
         "deaths": 19,
-        "recovered": 428
+        "recovered": 447
       }
     },
     "KEN": {
@@ -1117,9 +1117,9 @@
     },
     "LUX": {
       "latest": {
-        "confirmed": 3550,
-        "deaths": 73,
-        "recovered": 627
+        "confirmed": 3558,
+        "deaths": 75,
+        "recovered": 637
       }
     },
     "LVA": {
@@ -1366,8 +1366,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 9453,
-        "deaths": 362,
+        "confirmed": 9593,
+        "deaths": 380,
         "recovered": 1133
       }
     },
