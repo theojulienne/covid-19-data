@@ -17,10 +17,10 @@
   },
   "Andorra": {
     "live": {
-      "confirmed": 713,
+      "confirmed": 717,
       "date": "2020-04-20",
       "deaths": 36,
-      "recovered": 235
+      "recovered": 248
     }
   },
   "Argentina": {
@@ -85,7 +85,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 1895,
+      "confirmed": 1907,
       "date": "2020-04-20",
       "deaths": 7,
       "recovered": 769
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 39548,
+      "confirmed": 39681,
       "date": "2020-04-20",
-      "deaths": 2507,
+      "deaths": 2512,
       "recovered": 22130
     }
   },
@@ -301,10 +301,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 660,
+      "confirmed": 662,
       "date": "2020-04-20",
       "deaths": 6,
-      "recovered": 112
+      "recovered": 124
     }
   },
   "Cote d'Ivoire": {
@@ -408,7 +408,7 @@
       "confirmed": 3868,
       "date": "2020-04-20",
       "deaths": 98,
-      "recovered": 1700
+      "recovered": 2000
     }
   },
   "France": {
@@ -501,10 +501,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 13654,
+      "confirmed": 13713,
       "date": "2020-04-20",
-      "deaths": 173,
-      "recovered": 3872
+      "deaths": 177,
+      "recovered": 4049
     }
   },
   "Italy": {
@@ -719,7 +719,7 @@
     "live": {
       "confirmed": 8936,
       "date": "2020-04-20",
-      "deaths": 469,
+      "deaths": 478,
       "recovered": 2017
     }
   },
@@ -773,10 +773,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3158,
+      "confirmed": 3300,
       "date": "2020-04-20",
-      "deaths": 54,
-      "recovered": 903
+      "deaths": 58,
+      "recovered": 1055
     }
   },
   "Spain": {
@@ -831,7 +831,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1355,
+          "confirmed": 1357,
           "date": "2020-04-20",
           "deaths": 58,
           "recovered": 0
@@ -951,9 +951,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 26271,
+          "confirmed": 26429,
           "date": "2020-04-20",
-          "deaths": 2126,
+          "deaths": 2155,
           "recovered": 0
         }
       },
@@ -967,9 +967,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 3092,
+          "confirmed": 3148,
           "date": "2020-04-20",
-          "deaths": 111,
+          "deaths": 112,
           "recovered": 0
         }
       },
@@ -983,17 +983,17 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 82689,
+          "confirmed": 86025,
           "date": "2020-04-20",
-          "deaths": 4259,
+          "deaths": 4389,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 243763,
+          "confirmed": 247806,
           "date": "2020-04-20",
-          "deaths": 18124,
+          "deaths": 18239,
           "recovered": 0
         }
       },
@@ -1007,17 +1007,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 6465,
+          "confirmed": 7964,
           "date": "2020-04-20",
-          "deaths": 157,
+          "deaths": 166,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 28827,
+          "confirmed": 28613,
           "date": "2020-04-20",
-          "deaths": 1194,
+          "deaths": 1162,
           "recovered": 0
         }
       },
@@ -1071,7 +1071,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 1615,
+          "confirmed": 1671,
           "date": "2020-04-20",
           "deaths": 15,
           "recovered": 0
@@ -1095,9 +1095,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 2150,
+          "confirmed": 2191,
           "date": "2020-04-20",
-          "deaths": 125,
+          "deaths": 132,
           "recovered": 0
         }
       }
@@ -1129,7 +1129,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1604,
+      "confirmed": 1627,
       "date": "2020-04-20",
       "deaths": 5,
       "recovered": 261
