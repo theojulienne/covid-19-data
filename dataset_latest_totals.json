@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 36390,
-        "deaths": 1644,
+        "confirmed": 37352,
+        "deaths": 1706,
         "recovered": 11847
       },
       "states": {
@@ -325,8 +325,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 18357,
-          "deaths": 877
+          "confirmed": 19319,
+          "deaths": 939
         },
         "Recovered": {
           "confirmed": 0,
@@ -345,8 +345,8 @@
     "CHE": {
       "latest": {
         "confirmed": 27944,
-        "deaths": 1427,
-        "recovered": 17800
+        "deaths": 1429,
+        "recovered": 18600
       }
     },
     "CHL": {
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 146293,
-        "deaths": 4683,
+        "confirmed": 146398,
+        "deaths": 4706,
         "recovered": 91500
       }
     },
@@ -720,8 +720,8 @@
     "FRA": {
       "latest": {
         "confirmed": 152894,
-        "deaths": 19718,
-        "recovered": 36578
+        "deaths": 20265,
+        "recovered": 37409
       },
       "states": {
         "French Guiana": {
@@ -949,15 +949,15 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 17615,
+        "confirmed": 17655,
         "deaths": 559,
         "recovered": 2854
       }
     },
     "IRL": {
       "latest": {
-        "confirmed": 15251,
-        "deaths": 610,
+        "confirmed": 15652,
+        "deaths": 687,
         "recovered": 77
       }
     },
@@ -1131,9 +1131,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 2990,
+        "confirmed": 3046,
         "deaths": 143,
-        "recovered": 340
+        "recovered": 350
       }
     },
     "MCO": {
@@ -1146,7 +1146,7 @@
     "MDA": {
       "latest": {
         "confirmed": 2548,
-        "deaths": 68,
+        "deaths": 70,
         "recovered": 457
       }
     },
@@ -1345,9 +1345,9 @@
     },
     "PER": {
       "latest": {
-        "confirmed": 15628,
-        "deaths": 400,
-        "recovered": 6811
+        "confirmed": 16325,
+        "deaths": 445,
+        "recovered": 6968
       }
     },
     "PHL": {
@@ -1445,7 +1445,7 @@
       "latest": {
         "confirmed": 8014,
         "deaths": 11,
-        "recovered": 768
+        "recovered": 801
       }
     },
     "SLE": {
@@ -1583,9 +1583,9 @@
     },
     "TUR": {
       "latest": {
-        "confirmed": 86306,
-        "deaths": 2017,
-        "recovered": 11976
+        "confirmed": 90980,
+        "deaths": 2140,
+        "recovered": 13430
       }
     },
     "TWN": {
