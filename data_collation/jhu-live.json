@@ -27,8 +27,8 @@
     "live": {
       "confirmed": 2941,
       "date": "2020-04-20",
-      "deaths": 134,
-      "recovered": 709
+      "deaths": 136,
+      "recovered": 737
     }
   },
   "Armenia": {
@@ -360,7 +360,7 @@
       "confirmed": 7515,
       "date": "2020-04-20",
       "deaths": 364,
-      "recovered": 4141
+      "recovered": 4312
     }
   },
   "Diamond Princess": {
@@ -415,7 +415,7 @@
     "live": {
       "confirmed": 3868,
       "date": "2020-04-20",
-      "deaths": 94,
+      "deaths": 98,
       "recovered": 1700
     }
   },
@@ -727,7 +727,7 @@
     "live": {
       "confirmed": 8936,
       "date": "2020-04-20",
-      "deaths": 460,
+      "deaths": 469,
       "recovered": 2017
     }
   },
@@ -741,10 +741,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 9362,
+      "confirmed": 10484,
       "date": "2020-04-20",
-      "deaths": 97,
-      "recovered": 1398
+      "deaths": 103,
+      "recovered": 1490
     }
   },
   "Serbia": {
@@ -839,9 +839,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1345,
+          "confirmed": 1353,
           "date": "2020-04-20",
-          "deaths": 54,
+          "deaths": 57,
           "recovered": 0
         }
       },
@@ -903,7 +903,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 8076,
+          "confirmed": 8171,
           "date": "2020-04-20",
           "deaths": 289,
           "recovered": 0
@@ -1023,7 +1023,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 27730,
+          "confirmed": 27819,
           "date": "2020-04-20",
           "deaths": 1099,
           "recovered": 0
@@ -1031,9 +1031,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 1213,
+          "confirmed": 1252,
           "date": "2020-04-20",
-          "deaths": 62,
+          "deaths": 63,
           "recovered": 0
         }
       },
@@ -1095,7 +1095,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9261,
+          "confirmed": 9316,
           "date": "2020-04-20",
           "deaths": 508,
           "recovered": 0
@@ -1121,10 +1121,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 6781,
+      "confirmed": 7265,
       "date": "2020-04-20",
-      "deaths": 41,
-      "recovered": 1286
+      "deaths": 43,
+      "recovered": 1360
     }
   },
   "United Kingdom": {
@@ -1140,7 +1140,7 @@
       "confirmed": 1582,
       "date": "2020-04-20",
       "deaths": 5,
-      "recovered": 240
+      "recovered": 261
     }
   }
 }
