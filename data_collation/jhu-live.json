@@ -128,7 +128,7 @@
       "confirmed": 38654,
       "date": "2020-04-20",
       "deaths": 2462,
-      "recovered": 22130
+      "recovered": 14026
     }
   },
   "Bulgaria": {
@@ -533,10 +533,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10661,
+      "confirmed": 10674,
       "date": "2020-04-20",
-      "deaths": 234,
-      "recovered": 8042
+      "deaths": 236,
+      "recovered": 8114
     }
   },
   "Kuwait": {
@@ -589,9 +589,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 7497,
+      "confirmed": 8261,
       "date": "2020-04-20",
-      "deaths": 650,
+      "deaths": 686,
       "recovered": 2627
     }
   },
@@ -621,10 +621,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1431,
+      "confirmed": 1440,
       "date": "2020-04-20",
       "deaths": 12,
-      "recovered": 912
+      "recovered": 974
     }
   },
   "Niger": {
@@ -669,10 +669,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 4273,
+      "confirmed": 4467,
       "date": "2020-04-20",
-      "deaths": 120,
-      "recovered": 140
+      "deaths": 126,
+      "recovered": 165
     }
   },
   "Peru": {
@@ -831,9 +831,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1343,
+          "confirmed": 1345,
           "date": "2020-04-20",
-          "deaths": 53,
+          "deaths": 54,
           "recovered": 0
         }
       },
@@ -1087,9 +1087,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9264,
+          "confirmed": 9116,
           "date": "2020-04-20",
-          "deaths": 507,
+          "deaths": 508,
           "recovered": 0
         }
       },
