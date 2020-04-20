@@ -234,7 +234,7 @@
     "BRA": {
       "latest": {
         "confirmed": 40581,
-        "deaths": 2845,
+        "deaths": 2575,
         "recovered": 22130
       }
     },
@@ -275,14 +275,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 37549,
-        "deaths": 1720,
+        "confirmed": 37654,
+        "deaths": 1724,
         "recovered": 11847
       },
       "states": {
         "Alberta": {
-          "confirmed": 2803,
-          "deaths": 55
+          "confirmed": 2908,
+          "deaths": 59
         },
         "British Columbia": {
           "confirmed": 1647,
@@ -539,7 +539,7 @@
     },
     "CMR": {
       "latest": {
-        "confirmed": 1017,
+        "confirmed": 1163,
         "deaths": 42,
         "recovered": 305
       }
@@ -560,9 +560,9 @@
     },
     "COL": {
       "latest": {
-        "confirmed": 3792,
-        "deaths": 179,
-        "recovered": 711
+        "confirmed": 3977,
+        "deaths": 189,
+        "recovered": 804
       }
     },
     "CPV": {
@@ -1300,7 +1300,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 7127,
+        "confirmed": 7156,
         "deaths": 181,
         "recovered": 32
       }

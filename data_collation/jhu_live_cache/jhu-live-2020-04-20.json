@@ -127,7 +127,7 @@
     "live": {
       "confirmed": 40581,
       "date": "2020-04-20",
-      "deaths": 2845,
+      "deaths": 2575,
       "recovered": 22130
     }
   },
@@ -141,7 +141,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 1017,
+      "confirmed": 1163,
       "date": "2020-04-20",
       "deaths": 42,
       "recovered": 305
@@ -151,9 +151,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 2803,
+          "confirmed": 2908,
           "date": "2020-04-20",
-          "deaths": 55,
+          "deaths": 59,
           "recovered": 0
         }
       },
@@ -293,10 +293,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 3792,
+      "confirmed": 3977,
       "date": "2020-04-20",
-      "deaths": 179,
-      "recovered": 711
+      "deaths": 189,
+      "recovered": 804
     }
   },
   "Costa Rica": {
@@ -637,7 +637,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7127,
+      "confirmed": 7156,
       "date": "2020-04-20",
       "deaths": 181,
       "recovered": 32
@@ -823,7 +823,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1360,
+          "confirmed": 1361,
           "date": "2020-04-20",
           "deaths": 59,
           "recovered": 0
@@ -879,9 +879,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 19524,
+          "confirmed": 19865,
           "date": "2020-04-20",
-          "deaths": 540,
+          "deaths": 557,
           "recovered": 0
         }
       },
@@ -911,9 +911,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 814,
+          "confirmed": 867,
           "date": "2020-04-20",
-          "deaths": 60,
+          "deaths": 67,
           "recovered": 0
         }
       },
@@ -983,7 +983,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 247843,
+          "confirmed": 248308,
           "date": "2020-04-20",
           "deaths": 18392,
           "recovered": 0
@@ -991,9 +991,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1210,
+          "confirmed": 1231,
           "date": "2020-04-20",
-          "deaths": 29,
+          "deaths": 36,
           "recovered": 0
         }
       },
