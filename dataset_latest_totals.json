@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83816,
         "deaths": 4636,
-        "recovered": 77700
+        "recovered": 77709
       },
       "states": {
         "Anhui": {
@@ -491,7 +491,7 @@
         "Shanghai": {
           "confirmed": 638,
           "deaths": 7,
-          "recovered": 521
+          "recovered": 530
         },
         "Shanxi": {
           "confirmed": 197,
@@ -602,7 +602,7 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 145742,
+        "confirmed": 145743,
         "deaths": 4642,
         "recovered": 91500
       }
@@ -623,7 +623,7 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 7384,
+        "confirmed": 7515,
         "deaths": 355,
         "recovered": 4141
       },
@@ -691,9 +691,9 @@
     },
     "EST": {
       "latest": {
-        "confirmed": 1528,
+        "confirmed": 1535,
         "deaths": 40,
-        "recovered": 164
+        "recovered": 165
       }
     },
     "ETH": {
@@ -1021,7 +1021,7 @@
       "latest": {
         "confirmed": 1757,
         "deaths": 19,
-        "recovered": 413
+        "recovered": 417
       }
     },
     "KEN": {
@@ -1352,9 +1352,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 6259,
-        "deaths": 409,
-        "recovered": 572
+        "confirmed": 6459,
+        "deaths": 428,
+        "recovered": 613
       }
     },
     "PNG": {
@@ -1366,8 +1366,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 9287,
-        "deaths": 360,
+        "confirmed": 9453,
+        "deaths": 362,
         "recovered": 1133
       }
     },
@@ -1408,9 +1408,9 @@
     },
     "RUS": {
       "latest": {
-        "confirmed": 42853,
-        "deaths": 361,
-        "recovered": 3291
+        "confirmed": 47121,
+        "deaths": 405,
+        "recovered": 3446
       }
     },
     "RWA": {
