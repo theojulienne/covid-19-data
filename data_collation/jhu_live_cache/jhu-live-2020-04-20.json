@@ -128,7 +128,7 @@
       "confirmed": 38654,
       "date": "2020-04-20",
       "deaths": 2462,
-      "recovered": 14026
+      "recovered": 22130
     }
   },
   "Bulgaria": {
@@ -855,9 +855,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 26761,
+          "confirmed": 26824,
           "date": "2020-04-20",
-          "deaths": 1052,
+          "deaths": 1053,
           "recovered": 0
         }
       },
@@ -1001,7 +1001,7 @@
         "live": {
           "confirmed": 243763,
           "date": "2020-04-20",
-          "deaths": 18121,
+          "deaths": 18124,
           "recovered": 0
         }
       },
