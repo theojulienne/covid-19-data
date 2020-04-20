@@ -89,7 +89,8 @@ var covid19_dataset_country_ben = {
     "2020-04-17",
     "2020-04-18",
     "2020-04-19",
-    "2020-04-20"
+    "2020-04-20",
+    "2020-04-21"
   ],
   "total": {
     "confirmed": [
@@ -172,6 +173,7 @@ var covid19_dataset_country_ben = {
       26,
       26,
       26,
+      35,
       35,
       35,
       35,
@@ -270,6 +272,7 @@ var covid19_dataset_country_ben = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
@@ -356,6 +359,7 @@ var covid19_dataset_country_ben = {
       5,
       5,
       5,
+      18,
       18,
       18,
       18,

@@ -90,7 +90,8 @@ var covid19_dataset_country_nld = {
           93,
           95,
           96,
-          96
+          96,
+          97
         ],
         "deaths": [
           0,
@@ -178,6 +179,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           1,
+          2,
           2,
           2,
           2
@@ -270,7 +272,8 @@ var covid19_dataset_country_nld = {
           39,
           39,
           43,
-          44
+          44,
+          49
         ]
       }
     },
@@ -364,9 +367,11 @@ var covid19_dataset_country_nld = {
           3,
           3,
           3,
-          3
+          3,
+          5
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -457,6 +462,7 @@ var covid19_dataset_country_nld = {
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -638,6 +644,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          14,
           14
         ],
         "deaths": [
@@ -698,6 +705,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -818,6 +826,7 @@ var covid19_dataset_country_nld = {
           10,
           10,
           10,
+          11,
           11
         ]
       }
@@ -912,7 +921,8 @@ var covid19_dataset_country_nld = {
           53,
           57,
           57,
-          64
+          64,
+          67
         ],
         "deaths": [
           0,
@@ -1002,7 +1012,8 @@ var covid19_dataset_country_nld = {
           9,
           9,
           9,
-          9
+          9,
+          10
         ],
         "recovered": [
           0,
@@ -1090,6 +1101,7 @@ var covid19_dataset_country_nld = {
           5,
           5,
           5,
+          12,
           12,
           12,
           12
@@ -1187,7 +1199,8 @@ var covid19_dataset_country_nld = {
     "2020-04-17",
     "2020-04-18",
     "2020-04-19",
-    "2020-04-20"
+    "2020-04-20",
+    "2020-04-21"
   ],
   "total": {
     "confirmed": [
@@ -1440,6 +1453,7 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
+      250,
       250,
       250,
       250,

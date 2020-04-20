@@ -89,7 +89,8 @@ var covid19_dataset_country_ssd = {
     "2020-04-17",
     "2020-04-18",
     "2020-04-19",
-    "2020-04-20"
+    "2020-04-20",
+    "2020-04-21"
   ],
   "total": {
     "confirmed": [
@@ -172,6 +173,7 @@ var covid19_dataset_country_ssd = {
       2,
       2,
       3,
+      4,
       4,
       4,
       4,
@@ -270,9 +272,11 @@ var covid19_dataset_country_ssd = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
