@@ -533,10 +533,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1676,
+      "confirmed": 1735,
       "date": "2020-04-20",
-      "deaths": 17,
-      "recovered": 400
+      "deaths": 19,
+      "recovered": 401
     }
   },
   "Korea, South": {
@@ -1095,7 +1095,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9116,
+          "confirmed": 9217,
           "date": "2020-04-20",
           "deaths": 508,
           "recovered": 0
