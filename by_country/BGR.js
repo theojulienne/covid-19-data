@@ -183,7 +183,7 @@ var covid19_dataset_country_bgr = {
       846,
       878,
       894,
-      915
+      929
     ],
     "deaths": [
       0,

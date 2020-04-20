@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1398,
+        "confirmed": 1436,
         "deaths": 19,
-        "recovered": 712
+        "recovered": 791
       }
     },
     "BDI": {
@@ -184,7 +184,7 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 915,
+        "confirmed": 929,
         "deaths": 43,
         "recovered": 167
       }
@@ -212,9 +212,9 @@
     },
     "BLR": {
       "latest": {
-        "confirmed": 4779,
-        "deaths": 47,
-        "recovered": 494
+        "confirmed": 6264,
+        "deaths": 51,
+        "recovered": 514
       }
     },
     "BLZ": {
@@ -276,7 +276,7 @@
     "CAN": {
       "latest": {
         "confirmed": 36039,
-        "deaths": 1624,
+        "deaths": 1625,
         "recovered": 11847
       },
       "states": {
@@ -286,7 +286,7 @@
         },
         "British Columbia": {
           "confirmed": 1647,
-          "deaths": 81
+          "deaths": 82
         },
         "Diamond Princess": {
           "confirmed": -1,
@@ -977,9 +977,9 @@
     },
     "ISL": {
       "latest": {
-        "confirmed": 1771,
+        "confirmed": 1773,
         "deaths": 9,
-        "recovered": 1291
+        "recovered": 1362
       }
     },
     "ISR": {
@@ -1070,7 +1070,7 @@
       "latest": {
         "confirmed": 677,
         "deaths": 21,
-        "recovered": 102
+        "recovered": 103
       }
     },
     "LBR": {
@@ -1301,7 +1301,7 @@
     "NOR": {
       "latest": {
         "confirmed": 7103,
-        "deaths": 165,
+        "deaths": 169,
         "recovered": 32
       }
     },
@@ -1578,7 +1578,7 @@
       "latest": {
         "confirmed": 879,
         "deaths": 38,
-        "recovered": 43
+        "recovered": 148
       }
     },
     "TUR": {
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 748764,
-        "deaths": 40033,
+        "confirmed": 748898,
+        "deaths": 40042,
         "recovered": 54143,
         "tested": 3864074
       },
@@ -1674,8 +1674,8 @@
           "tested": 58213
         },
         "DC": {
-          "confirmed": 2793,
-          "deaths": 96,
+          "confirmed": 2927,
+          "deaths": 105,
           "recovered": 622,
           "tested": 13699
         },
@@ -1956,7 +1956,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1582,
+        "confirmed": 1604,
         "deaths": 5,
         "recovered": 261
       }
