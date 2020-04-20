@@ -1110,8 +1110,8 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "latest": {
-        "confirmed": 1298,
-        "deaths": 35,
+        "confirmed": 1326,
+        "deaths": 36,
         "recovered": 242
       }
     },
