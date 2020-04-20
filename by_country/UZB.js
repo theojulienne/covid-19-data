@@ -366,7 +366,7 @@ var covid19_dataset_country_uzb = {
       156,
       194,
       225,
-      238
+      240
     ]
   }
 };
