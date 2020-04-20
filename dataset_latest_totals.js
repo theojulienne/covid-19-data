@@ -37,8 +37,8 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "latest": {
-        "confirmed": 2839,
-        "deaths": 132,
+        "confirmed": 2941,
+        "deaths": 134,
         "recovered": 709
       }
     },
@@ -58,7 +58,7 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "latest": {
-        "confirmed": 6601,
+        "confirmed": 6602,
         "current_hospitalized": 177,
         "current_icu": 48,
         "deaths": 72,
@@ -92,7 +92,7 @@ var covid19_dataset_latest_totals = {
           "tested": 3713
         },
         "QLD": {
-          "confirmed": 1014,
+          "confirmed": 1015,
           "current_hospitalized": 22,
           "current_icu": 8,
           "deaths": 6,
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 145184,
-        "deaths": 4586,
+        "confirmed": 145742,
+        "deaths": 4642,
         "recovered": 88000
       }
     },
@@ -1317,7 +1317,7 @@ var covid19_dataset_latest_totals = {
         "confirmed": 1431,
         "current_hospitalized": 18,
         "current_icu": 3,
-        "deaths": 9,
+        "deaths": 12,
         "recovered": 912,
         "tested": 83224
       }
@@ -1625,8 +1625,8 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 747787,
-        "deaths": 35721,
+        "confirmed": 748804,
+        "deaths": 39668,
         "recovered": 54143,
         "tested": 3864074
       },
@@ -1824,7 +1824,7 @@ var covid19_dataset_latest_totals = {
         },
         "NJ": {
           "confirmed": 85301,
-          "deaths": 4202,
+          "deaths": 4259,
           "recovered": 682,
           "tested": 170688
         },
@@ -1841,8 +1841,8 @@ var covid19_dataset_latest_totals = {
           "tested": 31598
         },
         "NY": {
-          "confirmed": 242786,
-          "deaths": 13869,
+          "confirmed": 243803,
+          "deaths": 17759,
           "hospitalized": 55723,
           "recovered": 23887,
           "tested": 617555
