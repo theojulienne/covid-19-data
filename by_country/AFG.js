@@ -182,7 +182,8 @@ var covid19_dataset_country_afg = {
       840,
       906,
       933,
-      996
+      996,
+      1026
     ],
     "deaths": [
       0,

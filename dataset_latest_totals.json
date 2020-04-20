@@ -2,7 +2,7 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 996,
+        "confirmed": 1026,
         "deaths": 33,
         "recovered": 131
       }
@@ -135,9 +135,9 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 14749,
-        "deaths": 452,
-        "recovered": 10501
+        "confirmed": 14795,
+        "deaths": 470,
+        "recovered": 10631
       }
     },
     "AZE": {
@@ -191,9 +191,9 @@
     },
     "BHR": {
       "latest": {
-        "confirmed": 1881,
+        "confirmed": 1895,
         "deaths": 7,
-        "recovered": 762
+        "recovered": 769
       }
     },
     "BHS": {
@@ -344,8 +344,8 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 27740,
-        "deaths": 1393,
+        "confirmed": 27944,
+        "deaths": 1406,
         "recovered": 17800
       }
     },
@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83816,
         "deaths": 4636,
-        "recovered": 77709
+        "recovered": 77737
       },
       "states": {
         "Anhui": {
@@ -426,7 +426,7 @@
         "Hong Kong": {
           "confirmed": 1025,
           "deaths": 4,
-          "recovered": 602
+          "recovered": 630
         },
         "Hubei": {
           "confirmed": 68128,
@@ -1054,9 +1054,9 @@
     },
     "KWT": {
       "latest": {
-        "confirmed": 1915,
-        "deaths": 7,
-        "recovered": 305
+        "confirmed": 1995,
+        "deaths": 9,
+        "recovered": 367
       }
     },
     "LAO": {
@@ -1131,9 +1131,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 2855,
-        "deaths": 141,
-        "recovered": 327
+        "confirmed": 2990,
+        "deaths": 143,
+        "recovered": 340
       }
     },
     "MCO": {
@@ -1236,9 +1236,9 @@
     },
     "MYS": {
       "latest": {
-        "confirmed": 5389,
+        "confirmed": 5425,
         "deaths": 89,
-        "recovered": 3197
+        "recovered": 3295
       }
     },
     "NAM": {
@@ -1401,9 +1401,9 @@
     },
     "ROU": {
       "latest": {
-        "confirmed": 8746,
+        "confirmed": 8936,
         "deaths": 451,
-        "recovered": 1892
+        "recovered": 2017
       }
     },
     "RUS": {
@@ -1956,9 +1956,9 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1565,
+        "confirmed": 1582,
         "deaths": 5,
-        "recovered": 225
+        "recovered": 238
       }
     },
     "VAT": {
