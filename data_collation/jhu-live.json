@@ -293,10 +293,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 879,
+      "confirmed": 916,
       "date": "2020-04-21",
-      "deaths": 10,
-      "recovered": 287
+      "deaths": 13,
+      "recovered": 303
     }
   },
   "Croatia": {
@@ -405,9 +405,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 148174,
+      "confirmed": 148226,
       "date": "2020-04-21",
-      "deaths": 4961,
+      "deaths": 5024,
       "recovered": 95200
     }
   },
@@ -807,7 +807,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1403,
+          "confirmed": 1405,
           "date": "2020-04-21",
           "deaths": 62,
           "recovered": 0
@@ -823,7 +823,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 29051,
+          "confirmed": 29066,
           "date": "2020-04-21",
           "deaths": 1099,
           "recovered": 0
@@ -879,9 +879,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 27770,
+          "confirmed": 29068,
           "date": "2020-04-21",
-          "deaths": 1189,
+          "deaths": 1292,
           "recovered": 0
         }
       },
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 253437,
           "date": "2020-04-21",
-          "deaths": 18621,
+          "deaths": 18641,
           "recovered": 0
         }
       },
