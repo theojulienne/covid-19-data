@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 12063,
+          "confirmed": 12083,
           "date": "2020-04-21",
-          "deaths": 624,
+          "deaths": 631,
           "recovered": 0
         }
       },
@@ -211,18 +211,18 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1581,
-          "date": "2020-04-20",
+          "confirmed": 1582,
+          "date": "2020-04-21",
           "deaths": 8,
-          "recovered": 1494
+          "recovered": 1501
         }
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 905,
-          "date": "2020-04-20",
+          "confirmed": 913,
+          "date": "2020-04-21",
           "deaths": 13,
-          "recovered": 472
+          "recovered": 475
         }
       },
       "Henan": {
@@ -244,9 +244,9 @@
       "Hubei": {
         "live": {
           "confirmed": 68128,
-          "date": "2020-04-20",
+          "date": "2020-04-21",
           "deaths": 4512,
-          "recovered": 63511
+          "recovered": 63514
         }
       },
       "Hunan": {
@@ -432,7 +432,7 @@
       "confirmed": 2245,
       "date": "2020-04-21",
       "deaths": 116,
-      "recovered": 269
+      "recovered": 577
     }
   },
   "Hungary": {
@@ -509,10 +509,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 10797,
+      "confirmed": 11135,
       "date": "2020-04-21",
-      "deaths": 236,
-      "recovered": 1159
+      "deaths": 263,
+      "recovered": 1239
     }
   },
   "Kazakhstan": {
@@ -525,10 +525,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10674,
+      "confirmed": 10683,
       "date": "2020-04-21",
-      "deaths": 236,
-      "recovered": 8114
+      "deaths": 237,
+      "recovered": 8213
     }
   },
   "Kuwait": {
@@ -581,9 +581,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 8261,
+      "confirmed": 8772,
       "date": "2020-04-21",
-      "deaths": 686,
+      "deaths": 712,
       "recovered": 2627
     }
   },
@@ -608,14 +608,14 @@
       "confirmed": 33405,
       "date": "2020-04-21",
       "deaths": 3751,
-      "recovered": 250
+      "recovered": 0
     }
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1440,
+      "confirmed": 1145,
       "date": "2020-04-21",
-      "deaths": 12,
+      "deaths": 13,
       "recovered": 974
     }
   },
@@ -935,9 +935,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 36537,
+          "confirmed": 38714,
           "date": "2020-04-21",
-          "deaths": 1624,
+          "deaths": 1748,
           "recovered": 0
         }
       },
@@ -983,9 +983,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 248308,
+          "confirmed": 248366,
           "date": "2020-04-21",
-          "deaths": 18392,
+          "deaths": 18477,
           "recovered": 0
         }
       },
@@ -1029,14 +1029,6 @@
           "recovered": 0
         }
       },
-      "South Carolina": {
-        "live": {
-          "confirmed": 657,
-          "date": "2020-04-21",
-          "deaths": 14,
-          "recovered": 0
-        }
-      },
       "South Dakota": {
         "live": {
           "confirmed": 1405,
@@ -1055,9 +1047,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 11637,
+          "confirmed": 11740,
           "date": "2020-04-21",
-          "deaths": 258,
+          "deaths": 260,
           "recovered": 0
         }
       },

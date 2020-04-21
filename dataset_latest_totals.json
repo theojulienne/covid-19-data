@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 37709,
-        "deaths": 1729,
+        "confirmed": 37729,
+        "deaths": 1736,
         "recovered": 12543
       },
       "states": {
@@ -317,8 +317,8 @@
           "deaths": 9
         },
         "Ontario": {
-          "confirmed": 12063,
-          "deaths": 624
+          "confirmed": 12083,
+          "deaths": 631
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -358,9 +358,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83817,
+        "confirmed": 83826,
         "deaths": 4636,
-        "recovered": 77745
+        "recovered": 77758
       },
       "states": {
         "Anhui": {
@@ -389,9 +389,9 @@
           "recovered": 137
         },
         "Guangdong": {
-          "confirmed": 1581,
+          "confirmed": 1582,
           "deaths": 8,
-          "recovered": 1494
+          "recovered": 1501
         },
         "Guangxi": {
           "confirmed": 254,
@@ -414,9 +414,9 @@
           "recovered": 317
         },
         "Heilongjiang": {
-          "confirmed": 905,
+          "confirmed": 913,
           "deaths": 13,
-          "recovered": 472
+          "recovered": 475
         },
         "Henan": {
           "confirmed": 1276,
@@ -431,7 +431,7 @@
         "Hubei": {
           "confirmed": 68128,
           "deaths": 4512,
-          "recovered": 63511
+          "recovered": 63514
         },
         "Hunan": {
           "confirmed": 1019,
@@ -888,7 +888,7 @@
       "latest": {
         "confirmed": 2245,
         "deaths": 116,
-        "recovered": 269
+        "recovered": 577
       }
     },
     "GRD": {
@@ -1012,9 +1012,9 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 10797,
-        "deaths": 236,
-        "recovered": 1159
+        "confirmed": 11135,
+        "deaths": 263,
+        "recovered": 1239
       }
     },
     "KAZ": {
@@ -1047,9 +1047,9 @@
     },
     "KOR": {
       "latest": {
-        "confirmed": 10674,
-        "deaths": 236,
-        "recovered": 8114
+        "confirmed": 10683,
+        "deaths": 237,
+        "recovered": 8213
       }
     },
     "KWT": {
@@ -1166,8 +1166,8 @@
     },
     "MEX": {
       "latest": {
-        "confirmed": 8261,
-        "deaths": 686,
+        "confirmed": 8772,
+        "deaths": 712,
         "recovered": 2627
       }
     },
@@ -1317,7 +1317,7 @@
         "confirmed": 1440,
         "current_hospitalized": 14,
         "current_icu": 3,
-        "deaths": 12,
+        "deaths": 13,
         "recovered": 974,
         "tested": 86305
       }
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 771868,
-        "deaths": 41329,
+        "confirmed": 772563,
+        "deaths": 41456,
         "recovered": 54949,
         "tested": 3994121
       },
@@ -1748,8 +1748,8 @@
           "tested": 142099
         },
         "MA": {
-          "confirmed": 38077,
-          "deaths": 1706,
+          "confirmed": 38714,
+          "deaths": 1748,
           "hospitalized": 2340,
           "tested": 162241
         },
@@ -1841,8 +1841,8 @@
           "tested": 32347
         },
         "NY": {
-          "confirmed": 248308,
-          "deaths": 18392,
+          "confirmed": 248366,
+          "deaths": 18477,
           "hospitalized": 57103,
           "recovered": 23887,
           "tested": 633861
