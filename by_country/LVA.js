@@ -277,7 +277,8 @@ var covid19_dataset_country_lva = {
       5,
       5,
       5,
-      5
+      5,
+      9
     ],
     "recovered": [
       0,
@@ -369,7 +370,8 @@ var covid19_dataset_country_lva = {
       88,
       88,
       88,
-      88
+      88,
+      133
     ]
   }
 };
