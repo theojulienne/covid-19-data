@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 40814,
+      "confirmed": 43079,
       "date": "2020-04-21",
-      "deaths": 2588,
+      "deaths": 2741,
       "recovered": 22991
     }
   },
@@ -405,9 +405,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 148226,
+      "confirmed": 148291,
       "date": "2020-04-21",
-      "deaths": 5024,
+      "deaths": 5033,
       "recovered": 95200
     }
   },
@@ -453,10 +453,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 18985,
+      "confirmed": 20080,
       "date": "2020-04-21",
-      "deaths": 603,
-      "recovered": 3273
+      "deaths": 645,
+      "recovered": 3975
     }
   },
   "Indonesia": {
@@ -807,7 +807,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1405,
+          "confirmed": 1408,
           "date": "2020-04-21",
           "deaths": 62,
           "recovered": 0
@@ -823,9 +823,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 29066,
+          "confirmed": 30537,
           "date": "2020-04-21",
-          "deaths": 1099,
+          "deaths": 1151,
           "recovered": 0
         }
       },
@@ -839,9 +839,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 17415,
+          "confirmed": 17916,
           "date": "2020-04-21",
-          "deaths": 1182,
+          "deaths": 1268,
           "recovered": 0
         }
       },
@@ -919,9 +919,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 38050,
+          "confirmed": 39571,
           "date": "2020-04-21",
-          "deaths": 1727,
+          "deaths": 1879,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 3514,
+          "confirmed": 3592,
           "date": "2020-04-21",
-          "deaths": 54,
+          "deaths": 59,
           "recovered": 0
         }
       },
@@ -1071,9 +1071,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9512,
+          "confirmed": 9569,
           "date": "2020-04-21",
-          "deaths": 529,
+          "deaths": 532,
           "recovered": 0
         }
       },
