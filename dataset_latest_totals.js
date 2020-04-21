@@ -2,9 +2,9 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 1026,
+        "confirmed": 1092,
         "deaths": 36,
-        "recovered": 135
+        "recovered": 150
       }
     },
     "AGO": {
@@ -156,9 +156,9 @@ var covid19_dataset_latest_totals = {
     },
     "BEL": {
       "latest": {
-        "confirmed": 39983,
-        "deaths": 5828,
-        "recovered": 8895
+        "confirmed": 40956,
+        "deaths": 5998,
+        "recovered": 9002
       }
     },
     "BEN": {
@@ -177,9 +177,9 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "latest": {
-        "confirmed": 2948,
-        "deaths": 101,
-        "recovered": 85
+        "confirmed": 3382,
+        "deaths": 110,
+        "recovered": 87
       }
     },
     "BGR": {
@@ -345,7 +345,7 @@ var covid19_dataset_latest_totals = {
     "CHE": {
       "latest": {
         "confirmed": 27944,
-        "deaths": 1429,
+        "deaths": 1436,
         "recovered": 18600
       }
     },
@@ -684,9 +684,9 @@ var covid19_dataset_latest_totals = {
     },
     "ESP": {
       "latest": {
-        "confirmed": 200210,
-        "deaths": 20852,
-        "recovered": 80587
+        "confirmed": 204178,
+        "deaths": 21282,
+        "recovered": 82514
       }
     },
     "EST": {
@@ -705,7 +705,7 @@ var covid19_dataset_latest_totals = {
     },
     "FIN": {
       "latest": {
-        "confirmed": 3868,
+        "confirmed": 4014,
         "deaths": 98,
         "recovered": 2000
       }
@@ -942,9 +942,9 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "latest": {
-        "confirmed": 6760,
-        "deaths": 590,
-        "recovered": 747
+        "confirmed": 7135,
+        "deaths": 616,
+        "recovered": 842
       }
     },
     "IND": {
@@ -1146,8 +1146,8 @@ var covid19_dataset_latest_totals = {
     "MDA": {
       "latest": {
         "confirmed": 2548,
-        "deaths": 70,
-        "recovered": 457
+        "deaths": 72,
+        "recovered": 505
       }
     },
     "MDG": {
