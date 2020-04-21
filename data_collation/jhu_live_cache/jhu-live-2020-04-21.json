@@ -128,7 +128,7 @@
       "confirmed": 40743,
       "date": "2020-04-21",
       "deaths": 2587,
-      "recovered": 22130
+      "recovered": 22991
     }
   },
   "Bulgaria": {
@@ -453,7 +453,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 18539,
+      "confirmed": 18601,
       "date": "2020-04-21",
       "deaths": 592,
       "recovered": 3273
@@ -847,9 +847,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 6986,
+          "confirmed": 7292,
           "date": "2020-04-21",
-          "deaths": 324,
+          "deaths": 346,
           "recovered": 0
         }
       },
