@@ -125,18 +125,18 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 40743,
+      "confirmed": 40814,
       "date": "2020-04-21",
-      "deaths": 2587,
+      "deaths": 2588,
       "recovered": 22991
     }
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 929,
+      "confirmed": 966,
       "date": "2020-04-21",
-      "deaths": 43,
-      "recovered": 167
+      "deaths": 45,
+      "recovered": 170
     }
   },
   "Cameroon": {
@@ -493,10 +493,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 13713,
+      "confirmed": 13883,
       "date": "2020-04-21",
-      "deaths": 177,
-      "recovered": 4049
+      "deaths": 181,
+      "recovered": 4353
     }
   },
   "Italy": {
@@ -647,7 +647,7 @@
     "live": {
       "confirmed": 1410,
       "date": "2020-04-21",
-      "deaths": 7,
+      "deaths": 8,
       "recovered": 238
     }
   },
@@ -1113,7 +1113,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1627,
+      "confirmed": 1657,
       "date": "2020-04-21",
       "deaths": 5,
       "recovered": 261
