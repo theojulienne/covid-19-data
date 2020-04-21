@@ -90,7 +90,8 @@ var covid19_dataset_country_hrv = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -274,6 +275,7 @@ var covid19_dataset_country_hrv = {
       35,
       36,
       39,
+      47,
       47
     ],
     "recovered": [

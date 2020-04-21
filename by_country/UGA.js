@@ -90,7 +90,8 @@ var covid19_dataset_country_uga = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -182,9 +183,11 @@ var covid19_dataset_country_uga = {
       55,
       56,
       55,
-      55
+      55,
+      56
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -364,7 +367,8 @@ var covid19_dataset_country_uga = {
       20,
       20,
       22,
-      28
+      28,
+      38
     ]
   }
 };

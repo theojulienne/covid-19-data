@@ -90,7 +90,8 @@ var covid19_dataset_country_tcd = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -182,9 +183,11 @@ var covid19_dataset_country_tcd = {
       27,
       27,
       33,
+      33,
       33
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -363,6 +366,7 @@ var covid19_dataset_country_tcd = {
       2,
       5,
       5,
+      8,
       8,
       8
     ]

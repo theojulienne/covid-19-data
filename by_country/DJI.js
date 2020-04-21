@@ -90,7 +90,8 @@ var covid19_dataset_country_dji = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -182,6 +183,7 @@ var covid19_dataset_country_dji = {
       591,
       732,
       732,
+      846,
       846
     ],
     "deaths": [
@@ -265,6 +267,7 @@ var covid19_dataset_country_dji = {
       0,
       0,
       1,
+      2,
       2,
       2,
       2,
@@ -364,6 +367,7 @@ var covid19_dataset_country_dji = {
       73,
       76,
       76,
+      102,
       102
     ]
   }

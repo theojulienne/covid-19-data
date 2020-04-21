@@ -90,7 +90,8 @@ var covid19_dataset_country_bdi = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -174,6 +175,7 @@ var covid19_dataset_country_bdi = {
       3,
       3,
       3,
+      5,
       5,
       5,
       5,
@@ -273,6 +275,7 @@ var covid19_dataset_country_bdi = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
@@ -364,7 +367,8 @@ var covid19_dataset_country_bdi = {
       0,
       0,
       0,
-      0
+      0,
+      4
     ]
   }
 };

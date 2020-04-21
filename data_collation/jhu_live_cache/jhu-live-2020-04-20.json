@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 40581,
+      "confirmed": 40743,
       "date": "2020-04-20",
-      "deaths": 2575,
+      "deaths": 2587,
       "recovered": 22130
     }
   },
@@ -257,14 +257,6 @@
           "recovered": 1015
         }
       },
-      "Jiangsu": {
-        "live": {
-          "confirmed": 653,
-          "date": "2020-04-17",
-          "deaths": 0,
-          "recovered": 643
-        }
-      },
       "Jiangxi": {
         "live": {
           "confirmed": 937,
@@ -341,7 +333,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 6838,
+      "confirmed": 6900,
       "date": "2020-04-20",
       "deaths": 194,
       "recovered": 1559
@@ -421,9 +413,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 146653,
+      "confirmed": 147065,
       "date": "2020-04-20",
-      "deaths": 4706,
+      "deaths": 4862,
       "recovered": 91500
     }
   },
@@ -627,6 +619,14 @@
       "recovered": 974
     }
   },
+  "Nigeria": {
+    "live": {
+      "confirmed": 665,
+      "date": "2020-04-20",
+      "deaths": 22,
+      "recovered": 188
+    }
+  },
   "North Macedonia": {
     "live": {
       "confirmed": 1225,
@@ -823,7 +823,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1361,
+          "confirmed": 1368,
           "date": "2020-04-20",
           "deaths": 59,
           "recovered": 0
@@ -839,9 +839,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 28647,
+          "confirmed": 28918,
           "date": "2020-04-20",
-          "deaths": 1077,
+          "deaths": 1097,
           "recovered": 0
         }
       },
@@ -887,9 +887,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 9046,
+          "confirmed": 9185,
           "date": "2020-04-20",
-          "deaths": 312,
+          "deaths": 319,
           "recovered": 0
         }
       },
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 10714,
           "date": "2020-04-20",
-          "deaths": 327,
+          "deaths": 370,
           "recovered": 0
         }
       },

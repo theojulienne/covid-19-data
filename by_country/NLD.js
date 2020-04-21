@@ -91,6 +91,7 @@ var covid19_dataset_country_nld = {
           95,
           96,
           96,
+          97,
           97
         ],
         "deaths": [
@@ -179,6 +180,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           1,
+          2,
           2,
           2,
           2,
@@ -273,6 +275,7 @@ var covid19_dataset_country_nld = {
           39,
           43,
           44,
+          49,
           49
         ]
       }
@@ -368,6 +371,7 @@ var covid19_dataset_country_nld = {
           3,
           3,
           3,
+          5,
           5
         ],
         "deaths": [
@@ -459,9 +463,11 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          0,
           0
         ],
         "recovered": [
+          0,
           0,
           0,
           0,
@@ -645,6 +651,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          14,
           14
         ],
         "deaths": [
@@ -705,6 +712,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -827,6 +835,7 @@ var covid19_dataset_country_nld = {
           10,
           10,
           11,
+          11,
           11
         ]
       }
@@ -922,6 +931,7 @@ var covid19_dataset_country_nld = {
           57,
           57,
           64,
+          67,
           67
         ],
         "deaths": [
@@ -1013,6 +1023,7 @@ var covid19_dataset_country_nld = {
           9,
           9,
           9,
+          10,
           10
         ],
         "recovered": [
@@ -1101,6 +1112,7 @@ var covid19_dataset_country_nld = {
           5,
           5,
           5,
+          12,
           12,
           12,
           12,
@@ -1200,7 +1212,8 @@ var covid19_dataset_country_nld = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -1455,6 +1468,7 @@ var covid19_dataset_country_nld = {
       3,
       3,
       3,
+      250,
       250,
       250,
       250,

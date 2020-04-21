@@ -90,7 +90,8 @@ var covid19_dataset_country_bfa = {
     "2020-04-18",
     "2020-04-19",
     "2020-04-20",
-    "2020-04-21"
+    "2020-04-21",
+    "2020-04-22"
   ],
   "total": {
     "confirmed": [
@@ -182,7 +183,8 @@ var covid19_dataset_country_bfa = {
       546,
       557,
       565,
-      576
+      576,
+      581
     ],
     "deaths": [
       0,
@@ -273,7 +275,8 @@ var covid19_dataset_country_bfa = {
       32,
       35,
       36,
-      36
+      36,
+      38
     ],
     "recovered": [
       0,
@@ -364,7 +367,8 @@ var covid19_dataset_country_bfa = {
       257,
       294,
       321,
-      338
+      338,
+      357
     ]
   }
 };
