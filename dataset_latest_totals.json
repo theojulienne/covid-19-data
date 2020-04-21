@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1436,
-        "deaths": 19,
-        "recovered": 791
+        "confirmed": 1480,
+        "deaths": 20,
+        "recovered": 865
       }
     },
     "BDI": {
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 147103,
-        "deaths": 4862,
+        "confirmed": 147593,
+        "deaths": 4869,
         "recovered": 95200
       }
     },
@@ -1145,7 +1145,7 @@
     },
     "MDA": {
       "latest": {
-        "confirmed": 2548,
+        "confirmed": 2614,
         "deaths": 72,
         "recovered": 505
       }
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 772768,
-        "deaths": 41456,
+        "confirmed": 772939,
+        "deaths": 41463,
         "recovered": 54949,
         "tested": 3994121
       },
@@ -1674,8 +1674,8 @@
           "tested": 62806
         },
         "DC": {
-          "confirmed": 2927,
-          "deaths": 105,
+          "confirmed": 3098,
+          "deaths": 112,
           "recovered": 630,
           "tested": 14113
         },
@@ -1958,7 +1958,7 @@
       "latest": {
         "confirmed": 1657,
         "deaths": 6,
-        "recovered": 293
+        "recovered": 344
       }
     },
     "VAT": {

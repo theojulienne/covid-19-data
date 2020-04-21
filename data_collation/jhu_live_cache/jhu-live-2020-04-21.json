@@ -77,10 +77,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1436,
+      "confirmed": 1480,
       "date": "2020-04-21",
-      "deaths": 19,
-      "recovered": 791
+      "deaths": 20,
+      "recovered": 865
     }
   },
   "Bahrain": {
@@ -413,9 +413,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 147103,
+      "confirmed": 147593,
       "date": "2020-04-21",
-      "deaths": 4862,
+      "deaths": 4869,
       "recovered": 95200
     }
   },
@@ -589,7 +589,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 2548,
+      "confirmed": 2614,
       "date": "2020-04-21",
       "deaths": 72,
       "recovered": 505
@@ -871,9 +871,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 2927,
+          "confirmed": 3098,
           "date": "2020-04-21",
-          "deaths": 105,
+          "deaths": 112,
           "recovered": 0
         }
       },
@@ -927,9 +927,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 10714,
+          "confirmed": 11126,
           "date": "2020-04-21",
-          "deaths": 370,
+          "deaths": 403,
           "recovered": 0
         }
       },
@@ -1116,7 +1116,7 @@
       "confirmed": 1657,
       "date": "2020-04-21",
       "deaths": 6,
-      "recovered": 293
+      "recovered": 344
     }
   }
 }
