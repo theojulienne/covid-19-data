@@ -151,9 +151,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 2908,
+          "confirmed": 3095,
           "date": "2020-04-21",
-          "deaths": 59,
+          "deaths": 61,
           "recovered": 0
         }
       },
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 12441,
+          "confirmed": 12802,
           "date": "2020-04-21",
-          "deaths": 660,
+          "deaths": 677,
           "recovered": 0
         }
       },
@@ -285,9 +285,9 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 3977,
+      "confirmed": 4149,
       "date": "2020-04-21",
-      "deaths": 189,
+      "deaths": 196,
       "recovered": 804
     }
   },
@@ -397,7 +397,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 155275,
+      "confirmed": 158050,
       "date": "2020-04-21",
       "deaths": 20796,
       "recovered": 39181
@@ -807,7 +807,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1408,
+          "confirmed": 1409,
           "date": "2020-04-21",
           "deaths": 62,
           "recovered": 0
@@ -863,9 +863,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 20174,
+          "confirmed": 20462,
           "date": "2020-04-21",
-          "deaths": 570,
+          "deaths": 583,
           "recovered": 0
         }
       },
@@ -895,9 +895,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 867,
+          "confirmed": 925,
           "date": "2020-04-21",
-          "deaths": 67,
+          "deaths": 70,
           "recovered": 0
         }
       },
@@ -959,9 +959,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 87112,
+          "confirmed": 89497,
           "date": "2020-04-21",
-          "deaths": 4413,
+          "deaths": 4582,
           "recovered": 0
         }
       },
@@ -969,13 +969,13 @@
         "live": {
           "confirmed": 253437,
           "date": "2020-04-21",
-          "deaths": 18641,
+          "deaths": 18924,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1245,
+          "confirmed": 1255,
           "date": "2020-04-21",
           "deaths": 36,
           "recovered": 0
@@ -991,9 +991,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 29708,
+          "confirmed": 29732,
           "date": "2020-04-21",
-          "deaths": 1354,
+          "deaths": 1360,
           "recovered": 0
         }
       },
@@ -1031,15 +1031,15 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 11740,
+          "confirmed": 11999,
           "date": "2020-04-21",
-          "deaths": 260,
+          "deaths": 264,
           "recovered": 0
         }
       },
       "US Military": {
         "live": {
-          "confirmed": 5322,
+          "confirmed": 5082,
           "date": "2020-04-21",
           "deaths": 22,
           "recovered": 0
