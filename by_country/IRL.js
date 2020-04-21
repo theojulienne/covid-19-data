@@ -370,7 +370,8 @@ var covid19_dataset_country_irl = {
       77,
       77,
       77,
-      77
+      77,
+      9233
     ]
   }
 };

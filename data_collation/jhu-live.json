@@ -405,9 +405,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 148024,
+      "confirmed": 148174,
       "date": "2020-04-21",
-      "deaths": 4948,
+      "deaths": 4961,
       "recovered": 95200
     }
   },
@@ -488,7 +488,7 @@
       "confirmed": 16040,
       "date": "2020-04-21",
       "deaths": 730,
-      "recovered": 77
+      "recovered": 9233
     }
   },
   "Israel": {
@@ -927,15 +927,15 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 26649,
+          "confirmed": 26960,
           "date": "2020-04-21",
-          "deaths": 2184,
+          "deaths": 2268,
           "recovered": 0
         }
       },
       "Minnesota": {
         "live": {
-          "confirmed": 975,
+          "confirmed": 1013,
           "date": "2020-04-21",
           "deaths": 95,
           "recovered": 0
@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 3231,
           "date": "2020-04-21",
-          "deaths": 129,
+          "deaths": 131,
           "recovered": 0
         }
       },
@@ -959,7 +959,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 86104,
+          "confirmed": 87112,
           "date": "2020-04-21",
           "deaths": 4413,
           "recovered": 0
@@ -967,9 +967,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 252233,
+          "confirmed": 253437,
           "date": "2020-04-21",
-          "deaths": 18600,
+          "deaths": 18621,
           "recovered": 0
         }
       },
@@ -983,9 +983,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 7964,
+          "confirmed": 8598,
           "date": "2020-04-21",
-          "deaths": 166,
+          "deaths": 182,
           "recovered": 0
         }
       },
@@ -1079,9 +1079,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 2206,
+          "confirmed": 2234,
           "date": "2020-04-21",
-          "deaths": 132,
+          "deaths": 139,
           "recovered": 0
         }
       }
