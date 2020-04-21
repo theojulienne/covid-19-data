@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 37729,
-        "deaths": 1736,
+        "confirmed": 37925,
+        "deaths": 1748,
         "recovered": 12543
       },
       "states": {
@@ -317,8 +317,8 @@
           "deaths": 9
         },
         "Ontario": {
-          "confirmed": 12083,
-          "deaths": 631
+          "confirmed": 12279,
+          "deaths": 643
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83826,
         "deaths": 4636,
-        "recovered": 77758
+        "recovered": 77760
       },
       "states": {
         "Anhui": {
@@ -526,7 +526,7 @@
         "Zhejiang": {
           "confirmed": 1268,
           "deaths": 1,
-          "recovered": 1249
+          "recovered": 1251
         }
       }
     },
@@ -1314,11 +1314,11 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1440,
+        "confirmed": 1445,
         "current_hospitalized": 14,
         "current_icu": 3,
         "deaths": 13,
-        "recovered": 974,
+        "recovered": 1006,
         "tested": 86305
       }
     },
@@ -1338,9 +1338,9 @@
     },
     "PAN": {
       "latest": {
-        "confirmed": 4467,
-        "deaths": 126,
-        "recovered": 165
+        "confirmed": 4658,
+        "deaths": 136,
+        "recovered": 204
       }
     },
     "PER": {
