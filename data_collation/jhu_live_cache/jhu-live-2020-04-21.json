@@ -343,8 +343,8 @@
     "live": {
       "confirmed": 7695,
       "date": "2020-04-21",
-      "deaths": 364,
-      "recovered": 4312
+      "deaths": 370,
+      "recovered": 4700
     }
   },
   "Diamond Princess": {
@@ -399,7 +399,7 @@
     "live": {
       "confirmed": 4014,
       "date": "2020-04-21",
-      "deaths": 98,
+      "deaths": 141,
       "recovered": 2000
     }
   },
@@ -445,10 +445,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1773,
+      "confirmed": 1778,
       "date": "2020-04-21",
       "deaths": 10,
-      "recovered": 1362
+      "recovered": 1417
     }
   },
   "India": {
@@ -637,7 +637,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7156,
+      "confirmed": 7191,
       "date": "2020-04-21",
       "deaths": 182,
       "recovered": 32
@@ -725,10 +725,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 10484,
+      "confirmed": 11631,
       "date": "2020-04-21",
-      "deaths": 103,
-      "recovered": 1490
+      "deaths": 109,
+      "recovered": 1640
     }
   },
   "Serbia": {
@@ -823,9 +823,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1368,
+          "confirmed": 1377,
           "date": "2020-04-21",
-          "deaths": 59,
+          "deaths": 61,
           "recovered": 0
         }
       },
@@ -983,7 +983,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 248482,
+          "confirmed": 248571,
           "date": "2020-04-21",
           "deaths": 18477,
           "recovered": 0
@@ -1015,9 +1015,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 1252,
+          "confirmed": 1298,
           "date": "2020-04-21",
-          "deaths": 63,
+          "deaths": 64,
           "recovered": 0
         }
       },
@@ -1115,8 +1115,8 @@
     "live": {
       "confirmed": 1657,
       "date": "2020-04-21",
-      "deaths": 5,
-      "recovered": 261
+      "deaths": 6,
+      "recovered": 293
     }
   }
 }
