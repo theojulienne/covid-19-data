@@ -186,7 +186,8 @@ var covid19_dataset_country_grc = {
       2235,
       2235,
       2245,
-      2401
+      2401,
+      2408
     ],
     "deaths": [
       0,
