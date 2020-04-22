@@ -91,7 +91,8 @@ var covid19_dataset_country_atg = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -177,6 +178,7 @@ var covid19_dataset_country_atg = {
       19,
       21,
       21,
+      23,
       23,
       23,
       23,
@@ -276,6 +278,7 @@ var covid19_dataset_country_atg = {
       3,
       3,
       3,
+      3,
       3
     ],
     "recovered": [
@@ -368,7 +371,8 @@ var covid19_dataset_country_atg = {
       3,
       3,
       3,
-      3
+      3,
+      7
     ]
   }
 };

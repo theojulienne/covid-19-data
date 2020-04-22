@@ -91,7 +91,8 @@ var covid19_dataset_country_gha = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -183,6 +184,7 @@ var covid19_dataset_country_gha = {
       641,
       641,
       834,
+      1042,
       1042,
       1042
     ],
@@ -276,6 +278,7 @@ var covid19_dataset_country_gha = {
       8,
       9,
       9,
+      9,
       9
     ],
     "recovered": [
@@ -366,6 +369,7 @@ var covid19_dataset_country_gha = {
       17,
       83,
       83,
+      99,
       99,
       99,
       99

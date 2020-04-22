@@ -91,7 +91,8 @@ var covid19_dataset_country_tgo = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -184,7 +185,8 @@ var covid19_dataset_country_tgo = {
       83,
       84,
       84,
-      84
+      84,
+      86
     ],
     "deaths": [
       0,
@@ -276,6 +278,7 @@ var covid19_dataset_country_tgo = {
       5,
       5,
       5,
+      6,
       6
     ],
     "recovered": [
@@ -368,7 +371,8 @@ var covid19_dataset_country_tgo = {
       48,
       49,
       52,
-      53
+      53,
+      56
     ]
   }
 };

@@ -159,9 +159,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 1699,
+          "confirmed": 1724,
           "date": "2020-04-21",
-          "deaths": 86,
+          "deaths": 87,
           "recovered": 0
         }
       },
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 12802,
+          "confirmed": 12715,
           "date": "2020-04-21",
-          "deaths": 677,
+          "deaths": 694,
           "recovered": 0
         }
       },
@@ -325,7 +325,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 6961,
+      "confirmed": 7033,
       "date": "2020-04-21",
       "deaths": 201,
       "recovered": 1753
@@ -807,9 +807,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1409,
+          "confirmed": 1412,
           "date": "2020-04-21",
-          "deaths": 62,
+          "deaths": 63,
           "recovered": 0
         }
       },
@@ -831,9 +831,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 7292,
+          "confirmed": 7584,
           "date": "2020-04-21",
-          "deaths": 346,
+          "deaths": 379,
           "recovered": 0
         }
       },
@@ -921,7 +921,7 @@
         "live": {
           "confirmed": 39571,
           "date": "2020-04-21",
-          "deaths": 1879,
+          "deaths": 1870,
           "recovered": 0
         }
       },

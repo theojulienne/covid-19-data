@@ -91,7 +91,8 @@ var covid19_dataset_country_bwa = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -183,6 +184,7 @@ var covid19_dataset_country_bwa = {
       15,
       15,
       15,
+      20,
       20,
       20
     ],
@@ -276,9 +278,11 @@ var covid19_dataset_country_bwa = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

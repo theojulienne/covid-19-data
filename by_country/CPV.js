@@ -91,7 +91,8 @@ var covid19_dataset_country_cpv = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -184,7 +185,8 @@ var covid19_dataset_country_cpv = {
       56,
       58,
       61,
-      67
+      67,
+      68
     ],
     "deaths": [
       0,
@@ -249,6 +251,7 @@ var covid19_dataset_country_cpv = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -354,6 +357,7 @@ var covid19_dataset_country_cpv = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,

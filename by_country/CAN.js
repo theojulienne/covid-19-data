@@ -283,7 +283,7 @@ var covid19_dataset_country_can = {
           1618,
           1647,
           1647,
-          1699
+          1724
         ],
         "deaths": [
           0,
@@ -376,7 +376,7 @@ var covid19_dataset_country_can = {
           78,
           81,
           82,
-          86
+          87
         ]
       }
     },
@@ -472,6 +472,7 @@ var covid19_dataset_country_can = {
           -1,
           -1,
           -1,
+          -1,
           -1
         ],
         "deaths": [
@@ -557,6 +558,7 @@ var covid19_dataset_country_can = {
           1,
           1,
           1,
+          -1,
           -1,
           -1,
           -1,
@@ -660,9 +662,11 @@ var covid19_dataset_country_can = {
           13,
           13,
           13,
+          13,
           13
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -848,7 +852,8 @@ var covid19_dataset_country_can = {
           250,
           253,
           254,
-          254
+          254,
+          255
         ],
         "deaths": [
           0,
@@ -940,6 +945,7 @@ var covid19_dataset_country_can = {
           5,
           5,
           5,
+          6,
           6
         ]
       }
@@ -1036,9 +1042,11 @@ var covid19_dataset_country_can = {
           117,
           117,
           118,
+          118,
           118
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -1224,6 +1232,7 @@ var covid19_dataset_country_can = {
           256,
           257,
           257,
+          257,
           257
         ],
         "deaths": [
@@ -1306,6 +1315,7 @@ var covid19_dataset_country_can = {
           1,
           1,
           2,
+          3,
           3,
           3,
           3,
@@ -1412,9 +1422,11 @@ var covid19_dataset_country_can = {
           5,
           5,
           5,
+          5,
           5
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -1791,7 +1803,7 @@ var covid19_dataset_country_can = {
           11013,
           11561,
           12063,
-          12802
+          12715
         ],
         "deaths": [
           0,
@@ -1884,7 +1896,7 @@ var covid19_dataset_country_can = {
           564,
           591,
           624,
-          677
+          694
         ]
       }
     },
@@ -1980,6 +1992,7 @@ var covid19_dataset_country_can = {
           26,
           26,
           26,
+          26,
           26
         ],
         "deaths": [
@@ -2061,6 +2074,7 @@ var covid19_dataset_country_can = {
           0,
           0,
           1,
+          0,
           0,
           0,
           0,
@@ -2358,9 +2372,11 @@ var covid19_dataset_country_can = {
           0,
           0,
           0,
+          0,
           0
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -2546,7 +2562,8 @@ var covid19_dataset_country_can = {
           307,
           313,
           315,
-          316
+          316,
+          320
         ],
         "deaths": [
           0,
@@ -2629,6 +2646,7 @@ var covid19_dataset_country_can = {
           3,
           3,
           3,
+          4,
           4,
           4,
           4,
@@ -2734,9 +2752,11 @@ var covid19_dataset_country_can = {
           8,
           9,
           9,
+          11,
           11
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -2923,7 +2943,8 @@ var covid19_dataset_country_can = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -3017,7 +3038,7 @@ var covid19_dataset_country_can = {
       34355,
       35632,
       37657,
-      39458
+      39401
     ],
     "deaths": [
       0,
@@ -3110,7 +3131,7 @@ var covid19_dataset_country_can = {
       1399,
       1563,
       1725,
-      1890
+      1908
     ],
     "recovered": [
       0,
@@ -3202,7 +3223,8 @@ var covid19_dataset_country_can = {
       10545,
       10964,
       11847,
-      12543
+      12543,
+      13188
     ]
   }
 };

@@ -91,7 +91,8 @@ var covid19_dataset_country_zaf = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -277,6 +278,7 @@ var covid19_dataset_country_zaf = {
       50,
       52,
       54,
+      58,
       58
     ],
     "recovered": [
@@ -369,6 +371,7 @@ var covid19_dataset_country_zaf = {
       903,
       903,
       903,
+      1055,
       1055
     ]
   }

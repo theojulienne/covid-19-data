@@ -91,7 +91,8 @@ var covid19_dataset_country_gab = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -184,7 +185,8 @@ var covid19_dataset_country_gab = {
       108,
       108,
       109,
-      120
+      120,
+      156
     ],
     "deaths": [
       0,
@@ -245,6 +247,7 @@ var covid19_dataset_country_gab = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -368,7 +371,8 @@ var covid19_dataset_country_gab = {
       7,
       7,
       7,
-      7
+      7,
+      16
     ]
   }
 };

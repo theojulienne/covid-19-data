@@ -91,7 +91,8 @@ var covid19_dataset_country_mli = {
     "2020-04-19",
     "2020-04-20",
     "2020-04-21",
-    "2020-04-22"
+    "2020-04-22",
+    "2020-04-23"
   ],
   "total": {
     "confirmed": [
@@ -184,7 +185,8 @@ var covid19_dataset_country_mli = {
       171,
       216,
       224,
-      246
+      246,
+      258
     ],
     "deaths": [
       0,
@@ -275,6 +277,7 @@ var covid19_dataset_country_mli = {
       13,
       13,
       13,
+      14,
       14,
       14
     ],
@@ -368,7 +371,8 @@ var covid19_dataset_country_mli = {
       34,
       41,
       42,
-      56
+      56,
+      57
     ]
   }
 };
