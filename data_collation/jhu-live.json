@@ -268,9 +268,9 @@
       "Shandong": {
         "live": {
           "confirmed": 787,
-          "date": "2020-04-18",
+          "date": "2020-04-22",
           "deaths": 7,
-          "recovered": 765
+          "recovered": 766
         }
       },
       "Zhejiang": {
@@ -517,10 +517,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10683,
+      "confirmed": 10694,
       "date": "2020-04-22",
-      "deaths": 237,
-      "recovered": 8213
+      "deaths": 238,
+      "recovered": 8277
     }
   },
   "Kuwait": {
@@ -645,10 +645,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 4658,
+      "confirmed": 4821,
       "date": "2020-04-22",
-      "deaths": 136,
-      "recovered": 204
+      "deaths": 141,
+      "recovered": 231
     }
   },
   "Peru": {
@@ -991,7 +991,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 29732,
+          "confirmed": 29822,
           "date": "2020-04-22",
           "deaths": 1360,
           "recovered": 0
