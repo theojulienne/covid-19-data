@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 975,
-        "deaths": 45,
-        "recovered": 170
+        "confirmed": 1015,
+        "deaths": 47,
+        "recovered": 174
       }
     },
     "BHR": {
@@ -935,9 +935,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 2098,
-        "deaths": 213,
-        "recovered": 287
+        "confirmed": 2168,
+        "deaths": 225,
+        "recovered": 295
       }
     },
     "IDN": {
@@ -949,7 +949,7 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 20080,
+        "confirmed": 20111,
         "deaths": 645,
         "recovered": 3975
       }
@@ -1110,9 +1110,9 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 1350,
+        "confirmed": 1370,
         "deaths": 38,
-        "recovered": 298
+        "recovered": 357
       }
     },
     "LUX": {
@@ -1331,9 +1331,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 9565,
-        "deaths": 201,
-        "recovered": 2073
+        "confirmed": 9749,
+        "deaths": 209,
+        "recovered": 2156
       }
     },
     "PAN": {
@@ -1555,9 +1555,9 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2811,
-        "deaths": 48,
-        "recovered": 2108
+        "confirmed": 2826,
+        "deaths": 49,
+        "recovered": 2352
       }
     },
     "TLS": {
@@ -1956,7 +1956,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1678,
+        "confirmed": 1692,
         "deaths": 6,
         "recovered": 357
       }

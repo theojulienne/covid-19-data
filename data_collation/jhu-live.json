@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 975,
+      "confirmed": 1015,
       "date": "2020-04-22",
-      "deaths": 45,
-      "recovered": 170
+      "deaths": 47,
+      "recovered": 174
     }
   },
   "Cameroon": {
@@ -429,10 +429,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 2098,
+      "confirmed": 2168,
       "date": "2020-04-22",
-      "deaths": 213,
-      "recovered": 287
+      "deaths": 225,
+      "recovered": 295
     }
   },
   "Iceland": {
@@ -445,7 +445,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 20080,
+      "confirmed": 20111,
       "date": "2020-04-22",
       "deaths": 645,
       "recovered": 3975
@@ -541,10 +541,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1350,
+      "confirmed": 1370,
       "date": "2020-04-22",
       "deaths": 38,
-      "recovered": 298
+      "recovered": 357
     }
   },
   "Luxembourg": {
@@ -637,10 +637,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 9565,
+      "confirmed": 9749,
       "date": "2020-04-22",
-      "deaths": 201,
-      "recovered": 2073
+      "deaths": 209,
+      "recovered": 2156
     }
   },
   "Panama": {
@@ -781,10 +781,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2811,
+      "confirmed": 2826,
       "date": "2020-04-22",
-      "deaths": 48,
-      "recovered": 2108
+      "deaths": 49,
+      "recovered": 2352
     }
   },
   "Tunisia": {
@@ -823,9 +823,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 30783,
+          "confirmed": 30795,
           "date": "2020-04-22",
-          "deaths": 1179,
+          "deaths": 1182,
           "recovered": 0
         }
       },
@@ -1071,7 +1071,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9654,
+          "confirmed": 9673,
           "date": "2020-04-22",
           "deaths": 546,
           "recovered": 0
@@ -1113,7 +1113,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1678,
+      "confirmed": 1692,
       "date": "2020-04-22",
       "deaths": 6,
       "recovered": 357
