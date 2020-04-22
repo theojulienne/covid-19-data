@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 43592,
-        "deaths": 2769,
+        "confirmed": 45757,
+        "deaths": 2906,
         "recovered": 24325
       }
     },
@@ -276,7 +276,7 @@
     "CAN": {
       "latest": {
         "confirmed": 40723,
-        "deaths": 2021,
+        "deaths": 2031,
         "recovered": 13188
       },
       "states": {
@@ -318,7 +318,7 @@
         },
         "Ontario": {
           "confirmed": 13163,
-          "deaths": 715
+          "deaths": 725
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 149528,
-        "deaths": 5185,
+        "confirmed": 149771,
+        "deaths": 5211,
         "recovered": 99400
       }
     },
@@ -1345,9 +1345,9 @@
     },
     "PER": {
       "latest": {
-        "confirmed": 17837,
-        "deaths": 484,
-        "recovered": 6982
+        "confirmed": 19250,
+        "deaths": 530,
+        "recovered": 7027
       }
     },
     "PHL": {
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 804842,
-        "deaths": 44163,
+        "confirmed": 804904,
+        "deaths": 44412,
         "recovered": 58626,
         "tested": 4145372
       },
@@ -1823,8 +1823,8 @@
           "tested": 14583
         },
         "NJ": {
-          "confirmed": 92387,
-          "deaths": 4753,
+          "confirmed": 92449,
+          "deaths": 5002,
           "recovered": 682,
           "tested": 184826
         },
@@ -1998,8 +1998,8 @@
     },
     "ZAF": {
       "latest": {
-        "confirmed": 3465,
-        "deaths": 58,
+        "confirmed": 3635,
+        "deaths": 65,
         "recovered": 1055
       }
     },
