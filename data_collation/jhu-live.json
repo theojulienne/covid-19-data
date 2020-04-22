@@ -445,10 +445,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 20111,
+      "confirmed": 20178,
       "date": "2020-04-22",
       "deaths": 645,
-      "recovered": 3975
+      "recovered": 3976
     }
   },
   "Indonesia": {
@@ -967,7 +967,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 253560,
+          "confirmed": 253584,
           "date": "2020-04-22",
           "deaths": 18937,
           "recovered": 0
