@@ -15,6 +15,14 @@
       "recovered": 1204
     }
   },
+  "Andorra": {
+    "live": {
+      "confirmed": 723,
+      "date": "2020-04-22",
+      "deaths": 37,
+      "recovered": 309
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 3144,
@@ -143,9 +151,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 3095,
+          "confirmed": 3399,
           "date": "2020-04-22",
-          "deaths": 61,
+          "deaths": 66,
           "recovered": 0
         }
       },
@@ -167,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 13324,
+          "confirmed": 13468,
           "date": "2020-04-22",
-          "deaths": 753,
+          "deaths": 760,
           "recovered": 0
         }
       },
@@ -277,18 +285,18 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 4149,
+      "confirmed": 4356,
       "date": "2020-04-22",
-      "deaths": 196,
-      "recovered": 804
+      "deaths": 206,
+      "recovered": 870
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 916,
+      "confirmed": 952,
       "date": "2020-04-22",
-      "deaths": 13,
-      "recovered": 303
+      "deaths": 14,
+      "recovered": 310
     }
   },
   "Croatia": {
@@ -799,9 +807,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 753,
+          "confirmed": 1478,
           "date": "2020-04-22",
-          "deaths": 39,
+          "deaths": 70,
           "recovered": 0
         }
       },
@@ -817,23 +825,23 @@
         "live": {
           "confirmed": 32212,
           "date": "2020-04-22",
-          "deaths": 1265,
+          "deaths": 1268,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 7584,
+          "confirmed": 7896,
           "date": "2020-04-22",
-          "deaths": 379,
+          "deaths": 395,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 19822,
+          "confirmed": 20544,
           "date": "2020-04-22",
-          "deaths": 1371,
+          "deaths": 1434,
           "recovered": 0
         }
       },
@@ -887,9 +895,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 925,
+          "confirmed": 954,
           "date": "2020-04-22",
-          "deaths": 70,
+          "deaths": 76,
           "recovered": 0
         }
       },
@@ -911,17 +919,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 39571,
+          "confirmed": 41298,
           "date": "2020-04-22",
-          "deaths": 1870,
+          "deaths": 2091,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 28377,
+          "confirmed": 28683,
           "date": "2020-04-22",
-          "deaths": 2483,
+          "deaths": 2524,
           "recovered": 0
         }
       },
@@ -943,15 +951,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 3099,
+          "confirmed": 3218,
           "date": "2020-04-22",
-          "deaths": 141,
+          "deaths": 150,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 92449,
+          "confirmed": 93494,
           "date": "2020-04-22",
           "deaths": 5002,
           "recovered": 0
@@ -1005,6 +1013,14 @@
           "recovered": 0
         }
       },
+      "South Carolina": {
+        "live": {
+          "confirmed": 725,
+          "date": "2020-04-22",
+          "deaths": 15,
+          "recovered": 0
+        }
+      },
       "South Dakota": {
         "live": {
           "confirmed": 1555,
@@ -1029,27 +1045,11 @@
           "recovered": 0
         }
       },
-      "US Military": {
-        "live": {
-          "confirmed": 5475,
-          "date": "2020-04-22",
-          "deaths": 25,
-          "recovered": 0
-        }
-      },
       "Utah": {
         "live": {
           "confirmed": 1795,
           "date": "2020-04-22",
           "deaths": 18,
-          "recovered": 0
-        }
-      },
-      "Veteran Hospitals": {
-        "live": {
-          "confirmed": 5777,
-          "date": "2020-04-22",
-          "deaths": 374,
           "recovered": 0
         }
       },
