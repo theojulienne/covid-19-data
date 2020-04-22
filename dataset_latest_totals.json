@@ -344,7 +344,7 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 28063,
+        "confirmed": 28268,
         "deaths": 1478,
         "recovered": 19400
       }
@@ -358,9 +358,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83861,
+        "confirmed": 83865,
         "deaths": 4636,
-        "recovered": 77818
+        "recovered": 77820
       },
       "states": {
         "Anhui": {
@@ -416,7 +416,7 @@
         "Heilongjiang": {
           "confirmed": 921,
           "deaths": 13,
-          "recovered": 477
+          "recovered": 479
         },
         "Henan": {
           "confirmed": 1276,
@@ -424,7 +424,7 @@
           "recovered": 1254
         },
         "Hong Kong": {
-          "confirmed": 1029,
+          "confirmed": 1033,
           "deaths": 4,
           "recovered": 650
         },
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 148453,
-        "deaths": 5086,
+        "confirmed": 148704,
+        "deaths": 5100,
         "recovered": 99400
       }
     },
@@ -851,7 +851,7 @@
     },
     "GHA": {
       "latest": {
-        "confirmed": 1042,
+        "confirmed": 1154,
         "deaths": 9,
         "recovered": 99
       }
@@ -963,9 +963,9 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 84802,
-        "deaths": 5297,
-        "recovered": 60965
+        "confirmed": 85996,
+        "deaths": 5391,
+        "recovered": 63113
       }
     },
     "IRQ": {
@@ -1957,8 +1957,8 @@
     "UZB": {
       "latest": {
         "confirmed": 1692,
-        "deaths": 6,
-        "recovered": 372
+        "deaths": 7,
+        "recovered": 424
       }
     },
     "VAT": {

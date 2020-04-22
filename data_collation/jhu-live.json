@@ -222,7 +222,7 @@
           "confirmed": 921,
           "date": "2020-04-22",
           "deaths": 13,
-          "recovered": 477
+          "recovered": 479
         }
       },
       "Henan": {
@@ -235,8 +235,8 @@
       },
       "Hong Kong": {
         "live": {
-          "confirmed": 1029,
-          "date": "2020-04-21",
+          "confirmed": 1033,
+          "date": "2020-04-22",
           "deaths": 4,
           "recovered": 650
         }
@@ -405,15 +405,15 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 148453,
+      "confirmed": 148704,
       "date": "2020-04-22",
-      "deaths": 5086,
+      "deaths": 5100,
       "recovered": 99400
     }
   },
   "Ghana": {
     "live": {
-      "confirmed": 1042,
+      "confirmed": 1154,
       "date": "2020-04-22",
       "deaths": 9,
       "recovered": 99
@@ -461,10 +461,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 84802,
+      "confirmed": 85996,
       "date": "2020-04-22",
-      "deaths": 5297,
-      "recovered": 60965
+      "deaths": 5391,
+      "recovered": 63113
     }
   },
   "Iraq": {
@@ -773,7 +773,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 28063,
+      "confirmed": 28268,
       "date": "2020-04-22",
       "deaths": 1478,
       "recovered": 19400
@@ -1115,8 +1115,8 @@
     "live": {
       "confirmed": 1692,
       "date": "2020-04-22",
-      "deaths": 6,
-      "recovered": 372
+      "deaths": 7,
+      "recovered": 424
     }
   }
 }
