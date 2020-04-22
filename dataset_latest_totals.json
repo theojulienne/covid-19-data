@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 39404,
-        "deaths": 1914,
+        "confirmed": 39597,
+        "deaths": 1923,
         "recovered": 13188
       },
       "states": {
@@ -313,12 +313,12 @@
           "deaths": 0
         },
         "Nova Scotia": {
-          "confirmed": 737,
-          "deaths": 10
+          "confirmed": 772,
+          "deaths": 12
         },
         "Ontario": {
-          "confirmed": 12718,
-          "deaths": 700
+          "confirmed": 12876,
+          "deaths": 707
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 28268,
-        "deaths": 1478,
+        "deaths": 1509,
         "recovered": 19400
       }
     },
@@ -595,9 +595,9 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 7041,
-        "deaths": 204,
-        "recovered": 1800
+        "confirmed": 7087,
+        "deaths": 208,
+        "recovered": 1989
       }
     },
     "DEU": {
@@ -649,9 +649,9 @@
     },
     "DZA": {
       "latest": {
-        "confirmed": 2811,
-        "deaths": 392,
-        "recovered": 1152
+        "confirmed": 2910,
+        "deaths": 402,
+        "recovered": 1204
       }
     },
     "ECU": {
@@ -970,9 +970,9 @@
     },
     "IRQ": {
       "latest": {
-        "confirmed": 1602,
+        "confirmed": 1631,
         "deaths": 83,
-        "recovered": 1096
+        "recovered": 1146
       }
     },
     "ISL": {
@@ -991,9 +991,9 @@
     },
     "ITA": {
       "latest": {
-        "confirmed": 183957,
-        "deaths": 24648,
-        "recovered": 51600
+        "confirmed": 187327,
+        "deaths": 25085,
+        "recovered": 54543
       }
     },
     "JAM": {
@@ -1301,7 +1301,7 @@
     "NOR": {
       "latest": {
         "confirmed": 7275,
-        "deaths": 185,
+        "deaths": 186,
         "recovered": 32
       }
     },
@@ -1366,8 +1366,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 10034,
-        "deaths": 404,
+        "confirmed": 10169,
+        "deaths": 426,
         "recovered": 1513
       }
     },
@@ -1444,8 +1444,8 @@
     "SGP": {
       "latest": {
         "confirmed": 10141,
-        "deaths": 11,
-        "recovered": 839
+        "deaths": 12,
+        "recovered": 896
       }
     },
     "SLE": {
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 800220,
-        "deaths": 44045,
+        "confirmed": 799753,
+        "deaths": 44251,
         "recovered": 58626,
         "tested": 4145372
       },
@@ -1823,8 +1823,8 @@
           "tested": 14583
         },
         "NJ": {
-          "confirmed": 92387,
-          "deaths": 4753,
+          "confirmed": 92624,
+          "deaths": 4982,
           "recovered": 682,
           "tested": 184826
         },
@@ -1841,8 +1841,8 @@
           "tested": 33055
         },
         "NY": {
-          "confirmed": 253584,
-          "deaths": 18937,
+          "confirmed": 252880,
+          "deaths": 18914,
           "hospitalized": 57103,
           "recovered": 23887,
           "tested": 649325
