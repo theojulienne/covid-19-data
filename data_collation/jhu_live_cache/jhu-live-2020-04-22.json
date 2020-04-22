@@ -120,7 +120,7 @@
       "confirmed": 45757,
       "date": "2020-04-22",
       "deaths": 2906,
-      "recovered": 24325
+      "recovered": 25318
     }
   },
   "Bulgaria": {
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 13233,
+          "confirmed": 13324,
           "date": "2020-04-22",
-          "deaths": 745,
+          "deaths": 753,
           "recovered": 0
         }
       },
@@ -437,10 +437,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 20471,
+      "confirmed": 21370,
       "date": "2020-04-22",
-      "deaths": 652,
-      "recovered": 3976
+      "deaths": 681,
+      "recovered": 4370
     }
   },
   "Indonesia": {
@@ -687,7 +687,7 @@
     "live": {
       "confirmed": 9710,
       "date": "2020-04-22",
-      "deaths": 519,
+      "deaths": 524,
       "recovered": 2406
     }
   },
@@ -799,7 +799,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 749,
+          "confirmed": 753,
           "date": "2020-04-22",
           "deaths": 39,
           "recovered": 0
@@ -815,9 +815,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 30942,
+          "confirmed": 32212,
           "date": "2020-04-22",
-          "deaths": 1202,
+          "deaths": 1265,
           "recovered": 0
         }
       },
@@ -831,9 +831,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 17916,
+          "confirmed": 19822,
           "date": "2020-04-22",
-          "deaths": 1268,
+          "deaths": 1371,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 995,
+          "confirmed": 1252,
           "date": "2020-04-22",
-          "deaths": 67,
+          "deaths": 63,
           "recovered": 0
         }
       },
@@ -1023,17 +1023,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 12199,
+          "confirmed": 12348,
           "date": "2020-04-22",
-          "deaths": 269,
+          "deaths": 271,
           "recovered": 0
         }
       },
       "US Military": {
         "live": {
-          "confirmed": 5082,
+          "confirmed": 5475,
           "date": "2020-04-22",
-          "deaths": 22,
+          "deaths": 25,
           "recovered": 0
         }
       },
@@ -1047,9 +1047,9 @@
       },
       "Veteran Hospitals": {
         "live": {
-          "confirmed": 5599,
+          "confirmed": 5777,
           "date": "2020-04-22",
-          "deaths": 357,
+          "deaths": 374,
           "recovered": 0
         }
       },
@@ -1063,9 +1063,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 9673,
+          "confirmed": 9710,
           "date": "2020-04-22",
-          "deaths": 546,
+          "deaths": 549,
           "recovered": 0
         }
       },
