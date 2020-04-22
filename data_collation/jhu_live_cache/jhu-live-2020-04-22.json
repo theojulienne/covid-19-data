@@ -212,9 +212,9 @@
       "Guangdong": {
         "live": {
           "confirmed": 1582,
-          "date": "2020-04-21",
+          "date": "2020-04-22",
           "deaths": 8,
-          "recovered": 1501
+          "recovered": 1511
         }
       },
       "Heilongjiang": {
@@ -244,9 +244,9 @@
       "Hubei": {
         "live": {
           "confirmed": 68128,
-          "date": "2020-04-21",
+          "date": "2020-04-22",
           "deaths": 4512,
-          "recovered": 63514
+          "recovered": 63519
         }
       },
       "Hunan": {
@@ -276,9 +276,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1268,
-          "date": "2020-04-21",
+          "date": "2020-04-22",
           "deaths": 1,
-          "recovered": 1251
+          "recovered": 1252
         }
       }
     }
@@ -823,9 +823,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 30674,
+          "confirmed": 30783,
           "date": "2020-04-22",
-          "deaths": 1164,
+          "deaths": 1179,
           "recovered": 0
         }
       },
