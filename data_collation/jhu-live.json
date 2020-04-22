@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 43079,
+      "confirmed": 43368,
       "date": "2020-04-22",
-      "deaths": 2741,
+      "deaths": 2761,
       "recovered": 24325
     }
   },
@@ -408,7 +408,7 @@
       "confirmed": 148453,
       "date": "2020-04-22",
       "deaths": 5086,
-      "recovered": 95200
+      "recovered": 99400
     }
   },
   "Ghana": {
@@ -509,7 +509,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1995,
+      "confirmed": 2025,
       "date": "2020-04-22",
       "deaths": 19,
       "recovered": 489
