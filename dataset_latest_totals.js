@@ -23,9 +23,9 @@ var covid19_dataset_latest_totals = {
     },
     "AND": {
       "latest": {
-        "confirmed": 723,
+        "confirmed": 717,
         "deaths": 37,
-        "recovered": 309
+        "recovered": 282
       }
     },
     "ARE": {
@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 40723,
-        "deaths": 2031,
+        "confirmed": 40793,
+        "deaths": 2051,
         "recovered": 13188
       },
       "states": {
@@ -317,8 +317,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 12
         },
         "Ontario": {
-          "confirmed": 13163,
-          "deaths": 725
+          "confirmed": 13233,
+          "deaths": 745
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -346,7 +346,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 28268,
         "deaths": 1509,
-        "recovered": 19400
+        "recovered": 19900
       }
     },
     "CHL": {
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 149771,
-        "deaths": 5211,
+        "confirmed": 150062,
+        "deaths": 5250,
         "recovered": 99400
       }
     },
@@ -1576,9 +1576,9 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "latest": {
-        "confirmed": 901,
+        "confirmed": 909,
         "deaths": 38,
-        "recovered": 170
+        "recovered": 190
       }
     },
     "TUR": {
@@ -1626,7 +1626,7 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "latest": {
         "confirmed": 804904,
-        "deaths": 44412,
+        "deaths": 44599,
         "recovered": 58626,
         "tested": 4145372
       },
@@ -1842,7 +1842,7 @@ var covid19_dataset_latest_totals = {
         },
         "NY": {
           "confirmed": 258206,
-          "deaths": 19045,
+          "deaths": 19232,
           "hospitalized": 57103,
           "recovered": 23887,
           "tested": 649325

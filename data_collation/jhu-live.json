@@ -15,14 +15,6 @@
       "recovered": 1204
     }
   },
-  "Andorra": {
-    "live": {
-      "confirmed": 723,
-      "date": "2020-04-22",
-      "deaths": 37,
-      "recovered": 309
-    }
-  },
   "Argentina": {
     "live": {
       "confirmed": 3144,
@@ -175,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 13163,
+          "confirmed": 13233,
           "date": "2020-04-22",
-          "deaths": 725,
+          "deaths": 745,
           "recovered": 0
         }
       },
@@ -389,7 +381,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 158050,
+      "confirmed": 155860,
       "date": "2020-04-22",
       "deaths": 21340,
       "recovered": 40657
@@ -397,9 +389,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 149771,
+      "confirmed": 150062,
       "date": "2020-04-22",
-      "deaths": 5211,
+      "deaths": 5250,
       "recovered": 99400
     }
   },
@@ -776,7 +768,7 @@
       "confirmed": 28268,
       "date": "2020-04-22",
       "deaths": 1509,
-      "recovered": 19400
+      "recovered": 19900
     }
   },
   "Thailand": {
@@ -789,10 +781,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 901,
+      "confirmed": 909,
       "date": "2020-04-22",
       "deaths": 38,
-      "recovered": 170
+      "recovered": 190
     }
   },
   "Turkey": {
@@ -807,7 +799,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 748,
+          "confirmed": 749,
           "date": "2020-04-22",
           "deaths": 39,
           "recovered": 0
@@ -823,9 +815,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 30838,
+          "confirmed": 30942,
           "date": "2020-04-22",
-          "deaths": 1195,
+          "deaths": 1202,
           "recovered": 0
         }
       },
@@ -879,9 +871,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 29068,
+          "confirmed": 31456,
           "date": "2020-04-22",
-          "deaths": 1292,
+          "deaths": 1411,
           "recovered": 0
         }
       },
@@ -969,7 +961,7 @@
         "live": {
           "confirmed": 258206,
           "date": "2020-04-22",
-          "deaths": 19045,
+          "deaths": 19232,
           "recovered": 0
         }
       },
@@ -983,9 +975,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 8724,
+          "confirmed": 8769,
           "date": "2020-04-22",
-          "deaths": 210,
+          "deaths": 218,
           "recovered": 0
         }
       },
