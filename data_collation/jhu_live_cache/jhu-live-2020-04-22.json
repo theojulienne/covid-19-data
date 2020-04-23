@@ -144,14 +144,14 @@
       "confirmed": 1163,
       "date": "2020-04-22",
       "deaths": 43,
-      "recovered": 331
+      "recovered": 397
     }
   },
   "Canada": {
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 3399,
+          "confirmed": 3401,
           "date": "2020-04-22",
           "deaths": 66,
           "recovered": 0
@@ -159,9 +159,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 1724,
+          "confirmed": 1795,
           "date": "2020-04-22",
-          "deaths": 87,
+          "deaths": 90,
           "recovered": 0
         }
       },
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 13468,
+          "confirmed": 13718,
           "date": "2020-04-22",
-          "deaths": 760,
+          "deaths": 762,
           "recovered": 0
         }
       },
@@ -325,7 +325,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7087,
+      "confirmed": 7132,
       "date": "2020-04-22",
       "deaths": 208,
       "recovered": 1989
@@ -397,9 +397,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 150062,
+      "confirmed": 150648,
       "date": "2020-04-22",
-      "deaths": 5250,
+      "deaths": 5279,
       "recovered": 99400
     }
   },
@@ -605,9 +605,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 782,
+      "confirmed": 873,
       "date": "2020-04-22",
-      "deaths": 25,
+      "deaths": 28,
       "recovered": 197
     }
   },
@@ -621,7 +621,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7275,
+      "confirmed": 7338,
       "date": "2020-04-22",
       "deaths": 187,
       "recovered": 32
@@ -807,7 +807,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1478,
+          "confirmed": 1482,
           "date": "2020-04-22",
           "deaths": 70,
           "recovered": 0
@@ -823,9 +823,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 32212,
+          "confirmed": 32269,
           "date": "2020-04-22",
-          "deaths": 1268,
+          "deaths": 1277,
           "recovered": 0
         }
       },
@@ -871,9 +871,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 9579,
+          "confirmed": 9798,
           "date": "2020-04-22",
-          "deaths": 345,
+          "deaths": 350,
           "recovered": 0
         }
       },
@@ -959,9 +959,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 93494,
+          "confirmed": 93543,
           "date": "2020-04-22",
-          "deaths": 5002,
+          "deaths": 5023,
           "recovered": 0
         }
       },
@@ -975,7 +975,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1255,
+          "confirmed": 1331,
           "date": "2020-04-22",
           "deaths": 36,
           "recovered": 0
@@ -1055,9 +1055,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 2944,
+          "confirmed": 3180,
           "date": "2020-04-22",
-          "deaths": 38,
+          "deaths": 83,
           "recovered": 0
         }
       },

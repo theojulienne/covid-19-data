@@ -92,7 +92,8 @@ var covid19_dataset_country_zmb = {
     "2020-04-20",
     "2020-04-21",
     "2020-04-22",
-    "2020-04-23"
+    "2020-04-23",
+    "2020-04-24"
   ],
   "total": {
     "confirmed": [
@@ -186,7 +187,8 @@ var covid19_dataset_country_zmb = {
       57,
       61,
       65,
-      70
+      70,
+      74
     ],
     "deaths": [
       0,
@@ -277,6 +279,7 @@ var covid19_dataset_country_zmb = {
       2,
       2,
       2,
+      3,
       3,
       3,
       3
@@ -371,6 +374,7 @@ var covid19_dataset_country_zmb = {
       30,
       33,
       33,
+      35,
       35,
       35
     ]

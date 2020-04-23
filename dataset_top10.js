@@ -94,7 +94,7 @@ var covid19_dataset_top10 = {
           83805,
           83817,
           83853,
-          83865
+          83868
         ],
         "deaths": [
           17,
@@ -183,6 +183,7 @@ var covid19_dataset_top10 = {
           3345,
           3346,
           3346,
+          4636,
           4636,
           4636,
           4636,
@@ -281,7 +282,7 @@ var covid19_dataset_top10 = {
           77690,
           77745,
           77799,
-          77848
+          77861
         ]
       }
     },
@@ -379,7 +380,7 @@ var covid19_dataset_top10 = {
           145184,
           147065,
           148291,
-          150062
+          150648
         ],
         "deaths": [
           0,
@@ -473,7 +474,7 @@ var covid19_dataset_top10 = {
           4586,
           4862,
           5033,
-          5250
+          5279
         ],
         "recovered": [
           0,
@@ -950,7 +951,8 @@ var covid19_dataset_top10 = {
           147969,
           152894,
           155275,
-          158050
+          158050,
+          155860
         ],
         "deaths": [
           0,
@@ -1415,6 +1417,7 @@ var covid19_dataset_top10 = {
           344,
           344,
           344,
+          0,
           0,
           0,
           0,
@@ -3045,7 +3048,8 @@ var covid19_dataset_top10 = {
     "2020-04-20",
     "2020-04-21",
     "2020-04-22",
-    "2020-04-23"
+    "2020-04-23",
+    "2020-04-24"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});

@@ -92,7 +92,8 @@ var covid19_dataset_country_hti = {
     "2020-04-20",
     "2020-04-21",
     "2020-04-22",
-    "2020-04-23"
+    "2020-04-23",
+    "2020-04-24"
   ],
   "total": {
     "confirmed": [
@@ -186,7 +187,8 @@ var covid19_dataset_country_hti = {
       44,
       47,
       57,
-      57
+      57,
+      62
     ],
     "deaths": [
       0,
@@ -279,7 +281,8 @@ var covid19_dataset_country_hti = {
       3,
       3,
       3,
-      3
+      3,
+      4
     ],
     "recovered": [
       0,
@@ -372,7 +375,8 @@ var covid19_dataset_country_hti = {
       0,
       0,
       0,
-      0
+      0,
+      2
     ]
   }
 };

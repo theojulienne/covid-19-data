@@ -92,7 +92,8 @@ var covid19_dataset_country_rks = {
     "2020-04-20",
     "2020-04-21",
     "2020-04-22",
-    "2020-04-23"
+    "2020-04-23",
+    "2020-04-24"
   ],
   "total": {
     "confirmed": [
@@ -183,6 +184,7 @@ var covid19_dataset_country_rks = {
       387,
       449,
       480,
+      510,
       510,
       510,
       510,
@@ -279,6 +281,7 @@ var covid19_dataset_country_rks = {
       12,
       12,
       12,
+      12,
       12
     ],
     "recovered": [
@@ -369,6 +372,7 @@ var covid19_dataset_country_rks = {
       66,
       79,
       84,
+      93,
       93,
       93,
       93,
