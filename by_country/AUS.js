@@ -3459,7 +3459,7 @@ var covid19_dataset_country_aus = {
             24,
             28,
             29,
-            30,
+            29,
             30,
             30,
             32,
@@ -3477,7 +3477,7 @@ var covid19_dataset_country_aus = {
             5,
             5,
             5,
-            5
+            6
           ],
           "Central\r\n  Queensland": [
             0,
@@ -4029,7 +4029,7 @@ var covid19_dataset_country_aus = {
             39,
             39,
             41,
-            40,
+            41,
             40,
             40,
             41,
@@ -4124,7 +4124,7 @@ var covid19_dataset_country_aus = {
             165,
             166,
             170,
-            174,
+            170,
             175,
             177,
             178,
@@ -4599,7 +4599,7 @@ var covid19_dataset_country_aus = {
             242,
             259,
             271,
-            274,
+            271,
             280,
             284,
             286,
@@ -4617,7 +4617,7 @@ var covid19_dataset_country_aus = {
             77,
             76,
             76,
-            76
+            75
           ],
           "Metro South": [
             0,
@@ -4712,7 +4712,7 @@ var covid19_dataset_country_aus = {
             76,
             81,
             81,
-            81
+            82
           ],
           "North West": [
             0,
@@ -5187,7 +5187,7 @@ var covid19_dataset_country_aus = {
             13,
             13,
             13,
-            13
+            14
           ],
           "TBC": [
             0,
@@ -5932,7 +5932,7 @@ var covid19_dataset_country_aus = {
           835,
           873,
           900,
-          907,
+          900,
           921,
           934,
           943,
@@ -9947,7 +9947,7 @@ var covid19_dataset_country_aus = {
       5116,
       5330,
       5550,
-      5701,
+      5694,
       5795,
       5908,
       6013,
