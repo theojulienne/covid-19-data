@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 3401,
+          "confirmed": 3717,
           "date": "2020-04-23",
-          "deaths": 66,
+          "deaths": 67,
           "recovered": 0
         }
       },
@@ -277,10 +277,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 4356,
+      "confirmed": 4561,
       "date": "2020-04-23",
-      "deaths": 206,
-      "recovered": 870
+      "deaths": 215,
+      "recovered": 927
     }
   },
   "Cote d'Ivoire": {
@@ -781,7 +781,7 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 909,
+      "confirmed": 918,
       "date": "2020-04-23",
       "deaths": 38,
       "recovered": 190
@@ -823,9 +823,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 7896,
+          "confirmed": 8214,
           "date": "2020-04-23",
-          "deaths": 395,
+          "deaths": 427,
           "recovered": 0
         }
       },
@@ -855,9 +855,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 21147,
+          "confirmed": 21698,
           "date": "2020-04-23",
-          "deaths": 657,
+          "deaths": 670,
           "recovered": 0
         }
       },
@@ -911,9 +911,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 41298,
+          "confirmed": 44304,
           "date": "2020-04-23",
-          "deaths": 2091,
+          "deaths": 2269,
           "recovered": 0
         }
       },
@@ -951,9 +951,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 93543,
+          "confirmed": 97438,
           "date": "2020-04-23",
-          "deaths": 5023,
+          "deaths": 5287,
           "recovered": 0
         }
       },
@@ -961,15 +961,15 @@
         "live": {
           "confirmed": 265602,
           "date": "2020-04-23",
-          "deaths": 19443,
+          "deaths": 20757,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1362,
+          "confirmed": 1377,
           "date": "2020-04-23",
-          "deaths": 35,
+          "deaths": 37,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 12734,
+          "confirmed": 12863,
           "date": "2020-04-23",
-          "deaths": 283,
+          "deaths": 284,
           "recovered": 0
         }
       },
