@@ -37,8 +37,8 @@
     },
     "ARG": {
       "latest": {
-        "confirmed": 3144,
-        "deaths": 152,
+        "confirmed": 3288,
+        "deaths": 159,
         "recovered": 872
       }
     },
@@ -276,7 +276,7 @@
     "CAN": {
       "latest": {
         "confirmed": 41648,
-        "deaths": 2075,
+        "deaths": 2078,
         "recovered": 14454
       },
       "states": {
@@ -286,7 +286,7 @@
         },
         "British Columbia": {
           "confirmed": 1795,
-          "deaths": 90
+          "deaths": 93
         },
         "Diamond Princess": {
           "confirmed": -1,
@@ -603,7 +603,7 @@
     "DEU": {
       "latest": {
         "confirmed": 150648,
-        "deaths": 5279,
+        "deaths": 5315,
         "recovered": 99400
       }
     },
@@ -1012,9 +1012,9 @@
     },
     "JPN": {
       "latest": {
-        "confirmed": 11512,
-        "deaths": 281,
-        "recovered": 1356
+        "confirmed": 11950,
+        "deaths": 299,
+        "recovered": 1424
       }
     },
     "KAZ": {
@@ -1625,8 +1625,8 @@
     },
     "USA": {
       "latest": {
-        "confirmed": 825819,
-        "deaths": 42026,
+        "confirmed": 826809,
+        "deaths": 45956,
         "recovered": 62023,
         "tested": 4457066
       },
@@ -1841,8 +1841,8 @@
           "tested": 33888
         },
         "NY": {
-          "confirmed": 257216,
-          "deaths": 15302,
+          "confirmed": 258206,
+          "deaths": 19232,
           "hospitalized": 57103,
           "recovered": 23887,
           "tested": 669982
