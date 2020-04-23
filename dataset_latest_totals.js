@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 45757,
-        "deaths": 2906,
+        "confirmed": 46182,
+        "deaths": 2924,
         "recovered": 25318
       }
     },
@@ -1166,8 +1166,8 @@ var covid19_dataset_latest_totals = {
     },
     "MEX": {
       "latest": {
-        "confirmed": 9501,
-        "deaths": 857,
+        "confirmed": 10544,
+        "deaths": 970,
         "recovered": 2627
       }
     },
@@ -1338,9 +1338,9 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "latest": {
-        "confirmed": 4821,
-        "deaths": 141,
-        "recovered": 231
+        "confirmed": 4992,
+        "deaths": 144,
+        "recovered": 255
       }
     },
     "PER": {
