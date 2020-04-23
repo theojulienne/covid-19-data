@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 1024,
-        "deaths": 49,
-        "recovered": 174
+        "confirmed": 1081,
+        "deaths": 50,
+        "recovered": 190
       }
     },
     "BHR": {
@@ -949,9 +949,9 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 21450,
+        "confirmed": 21797,
         "deaths": 681,
-        "recovered": 4373
+        "recovered": 4376
       }
     },
     "IRL": {
@@ -1110,9 +1110,9 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 1370,
+        "confirmed": 1398,
         "deaths": 38,
-        "recovered": 357
+        "recovered": 399
       }
     },
     "LUX": {
@@ -1331,9 +1331,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 10076,
-        "deaths": 212,
-        "recovered": 2156
+        "confirmed": 10513,
+        "deaths": 224,
+        "recovered": 2337
       }
     },
     "PAN": {

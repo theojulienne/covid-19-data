@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1024,
+      "confirmed": 1081,
       "date": "2020-04-23",
-      "deaths": 49,
-      "recovered": 174
+      "deaths": 50,
+      "recovered": 190
     }
   },
   "Cameroon": {
@@ -445,10 +445,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 21450,
+      "confirmed": 21797,
       "date": "2020-04-23",
       "deaths": 681,
-      "recovered": 4373
+      "recovered": 4376
     }
   },
   "Indonesia": {
@@ -541,10 +541,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1370,
+      "confirmed": 1398,
       "date": "2020-04-23",
       "deaths": 38,
-      "recovered": 357
+      "recovered": 399
     }
   },
   "Luxembourg": {
@@ -637,10 +637,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 10076,
+      "confirmed": 10513,
       "date": "2020-04-23",
-      "deaths": 212,
-      "recovered": 2156
+      "deaths": 224,
+      "recovered": 2337
     }
   },
   "Panama": {
