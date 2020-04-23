@@ -378,7 +378,8 @@ var covid19_dataset_country_arg = {
       709,
       737,
       840,
-      872
+      872,
+      919
     ]
   }
 };
