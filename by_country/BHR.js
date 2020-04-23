@@ -189,7 +189,7 @@ var covid19_dataset_country_bhr = {
       1907,
       1973,
       2027,
-      2098
+      2217
     ],
     "deaths": [
       0,
