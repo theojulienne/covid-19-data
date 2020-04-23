@@ -400,7 +400,7 @@
       "confirmed": 150648,
       "date": "2020-04-23",
       "deaths": 5315,
-      "recovered": 99400
+      "recovered": 103300
     }
   },
   "Ghana": {
@@ -445,10 +445,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 21370,
+      "confirmed": 21450,
       "date": "2020-04-23",
       "deaths": 681,
-      "recovered": 4370
+      "recovered": 4373
     }
   },
   "Indonesia": {
@@ -509,7 +509,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2135,
+      "confirmed": 2191,
       "date": "2020-04-23",
       "deaths": 19,
       "recovered": 515
@@ -781,10 +781,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2826,
+      "confirmed": 2839,
       "date": "2020-04-23",
-      "deaths": 49,
-      "recovered": 2352
+      "deaths": 50,
+      "recovered": 2430
     }
   },
   "Tunisia": {
@@ -818,7 +818,7 @@
           "confirmed": 3819,
           "date": "2020-04-23",
           "deaths": 165,
-          "recovered": 2
+          "recovered": 0
         }
       },
       "California": {
@@ -826,7 +826,7 @@
           "confirmed": 32524,
           "date": "2020-04-23",
           "deaths": 1290,
-          "recovered": 2071
+          "recovered": 0
         }
       },
       "Colorado": {
@@ -834,7 +834,7 @@
           "confirmed": 7896,
           "date": "2020-04-23",
           "deaths": 395,
-          "recovered": 370
+          "recovered": 0
         }
       },
       "Connecticut": {
@@ -842,7 +842,7 @@
           "confirmed": 20544,
           "date": "2020-04-23",
           "deaths": 1434,
-          "recovered": 63
+          "recovered": 0
         }
       },
       "Delaware": {
@@ -858,7 +858,7 @@
           "confirmed": 3206,
           "date": "2020-04-23",
           "deaths": 127,
-          "recovered": 645
+          "recovered": 0
         }
       },
       "Florida": {
@@ -874,7 +874,7 @@
           "confirmed": 9798,
           "date": "2020-04-23",
           "deaths": 349,
-          "recovered": 340
+          "recovered": 0
         }
       },
       "Illinois": {
@@ -882,7 +882,7 @@
           "confirmed": 31456,
           "date": "2020-04-23",
           "deaths": 1411,
-          "recovered": 102
+          "recovered": 0
         }
       },
       "Indiana": {
@@ -922,7 +922,7 @@
           "confirmed": 41298,
           "date": "2020-04-23",
           "deaths": 2091,
-          "recovered": 1299
+          "recovered": 0
         }
       },
       "Michigan": {
@@ -930,7 +930,7 @@
           "confirmed": 28683,
           "date": "2020-04-23",
           "deaths": 2524,
-          "recovered": 69
+          "recovered": 0
         }
       },
       "Minnesota": {
@@ -946,7 +946,7 @@
           "confirmed": 3360,
           "date": "2020-04-23",
           "deaths": 142,
-          "recovered": 672
+          "recovered": 0
         }
       },
       "Nevada": {
@@ -954,7 +954,7 @@
           "confirmed": 3218,
           "date": "2020-04-23",
           "deaths": 150,
-          "recovered": 1963
+          "recovered": 0
         }
       },
       "New Jersey": {
@@ -962,15 +962,15 @@
           "confirmed": 93543,
           "date": "2020-04-23",
           "deaths": 5023,
-          "recovered": 538
+          "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 258427,
+          "confirmed": 258668,
           "date": "2020-04-23",
-          "deaths": 19258,
-          "recovered": 14694
+          "deaths": 19272,
+          "recovered": 0
         }
       },
       "North Carolina": {
@@ -978,7 +978,7 @@
           "confirmed": 1331,
           "date": "2020-04-23",
           "deaths": 35,
-          "recovered": 508
+          "recovered": 0
         }
       },
       "Ohio": {
@@ -986,7 +986,7 @@
           "confirmed": 8769,
           "date": "2020-04-23",
           "deaths": 218,
-          "recovered": 242
+          "recovered": 0
         }
       },
       "Pennsylvania": {
@@ -994,7 +994,7 @@
           "confirmed": 30537,
           "date": "2020-04-23",
           "deaths": 1407,
-          "recovered": 522
+          "recovered": 0
         }
       },
       "Puerto Rico": {
@@ -1026,7 +1026,7 @@
           "confirmed": 1555,
           "date": "2020-04-23",
           "deaths": 5,
-          "recovered": 723
+          "recovered": 0
         }
       },
       "Tennessee": {
@@ -1034,7 +1034,7 @@
           "confirmed": 3796,
           "date": "2020-04-23",
           "deaths": 63,
-          "recovered": 1711
+          "recovered": 0
         }
       },
       "Texas": {
@@ -1042,7 +1042,7 @@
           "confirmed": 12583,
           "date": "2020-04-23",
           "deaths": 274,
-          "recovered": 2308
+          "recovered": 0
         }
       },
       "Utah": {
