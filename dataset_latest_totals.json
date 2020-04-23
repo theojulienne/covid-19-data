@@ -184,8 +184,8 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 1081,
-        "deaths": 50,
+        "confirmed": 1097,
+        "deaths": 52,
         "recovered": 190
       }
     },
@@ -275,7 +275,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 41648,
+        "confirmed": 41665,
         "deaths": 2078,
         "recovered": 14454
       },
@@ -317,7 +317,7 @@
           "deaths": 12
         },
         "Ontario": {
-          "confirmed": 13718,
+          "confirmed": 13735,
           "deaths": 762
         },
         "Prince Edward Island": {
@@ -345,15 +345,15 @@
     "CHE": {
       "latest": {
         "confirmed": 28496,
-        "deaths": 1509,
+        "deaths": 1538,
         "recovered": 19900
       }
     },
     "CHL": {
       "latest": {
-        "confirmed": 11296,
-        "deaths": 160,
-        "recovered": 5386
+        "confirmed": 11812,
+        "deaths": 168,
+        "recovered": 5804
       }
     },
     "CHN": {
@@ -581,14 +581,14 @@
     },
     "CUB": {
       "latest": {
-        "confirmed": 1189,
-        "deaths": 40,
-        "recovered": 341
+        "confirmed": 1235,
+        "deaths": 43,
+        "recovered": 365
       }
     },
     "CYP": {
       "latest": {
-        "confirmed": 790,
+        "confirmed": 795,
         "deaths": 13,
         "recovered": 98
       }
@@ -602,7 +602,7 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 151022,
+        "confirmed": 151175,
         "deaths": 5354,
         "recovered": 103300
       }
@@ -642,8 +642,8 @@
     },
     "DOM": {
       "latest": {
-        "confirmed": 5300,
-        "deaths": 260,
+        "confirmed": 5543,
+        "deaths": 265,
         "recovered": 581
       }
     },
@@ -886,8 +886,8 @@
     },
     "GRC": {
       "latest": {
-        "confirmed": 2408,
-        "deaths": 121,
+        "confirmed": 2463,
+        "deaths": 125,
         "recovered": 577
       }
     },
@@ -970,9 +970,9 @@
     },
     "IRQ": {
       "latest": {
-        "confirmed": 1631,
+        "confirmed": 1677,
         "deaths": 83,
-        "recovered": 1146
+        "recovered": 1171
       }
     },
     "ISL": {
@@ -1146,7 +1146,7 @@
     "MDA": {
       "latest": {
         "confirmed": 2926,
-        "deaths": 79,
+        "deaths": 80,
         "recovered": 661
       }
     },
@@ -1956,9 +1956,9 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1716,
+        "confirmed": 1735,
         "deaths": 7,
-        "recovered": 495
+        "recovered": 561
       }
     },
     "VAT": {
