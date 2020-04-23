@@ -429,10 +429,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 2168,
+      "confirmed": 2284,
       "date": "2020-04-23",
-      "deaths": 225,
-      "recovered": 295
+      "deaths": 239,
+      "recovered": 390
     }
   },
   "Iceland": {
@@ -485,10 +485,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 14498,
+      "confirmed": 14592,
       "date": "2020-04-23",
-      "deaths": 189,
-      "recovered": 5215
+      "deaths": 191,
+      "recovered": 5334
     }
   },
   "Italy": {

@@ -935,9 +935,9 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "latest": {
-        "confirmed": 2168,
-        "deaths": 225,
-        "recovered": 295
+        "confirmed": 2284,
+        "deaths": 239,
+        "recovered": 390
       }
     },
     "IDN": {
@@ -984,9 +984,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "latest": {
-        "confirmed": 14498,
-        "deaths": 189,
-        "recovered": 5215
+        "confirmed": 14592,
+        "deaths": 191,
+        "recovered": 5334
       }
     },
     "ITA": {
