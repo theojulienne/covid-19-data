@@ -358,9 +358,9 @@
     },
     "CHN": {
       "latest": {
-        "confirmed": 83876,
+        "confirmed": 83870,
         "deaths": 4636,
-        "recovered": 77927
+        "recovered": 77882
       },
       "states": {
         "Anhui": {
@@ -389,9 +389,9 @@
           "recovered": 137
         },
         "Guangdong": {
-          "confirmed": 1584,
+          "confirmed": 1582,
           "deaths": 8,
-          "recovered": 1518
+          "recovered": 1511
         },
         "Guangxi": {
           "confirmed": 254,
@@ -414,9 +414,9 @@
           "recovered": 317
         },
         "Heilongjiang": {
-          "confirmed": 925,
+          "confirmed": 921,
           "deaths": 13,
-          "recovered": 487
+          "recovered": 479
         },
         "Henan": {
           "confirmed": 1276,
@@ -431,7 +431,7 @@
         "Hubei": {
           "confirmed": 68128,
           "deaths": 4512,
-          "recovered": 63547
+          "recovered": 63519
         },
         "Hunan": {
           "confirmed": 1019,
@@ -526,7 +526,7 @@
         "Zhejiang": {
           "confirmed": 1268,
           "deaths": 1,
-          "recovered": 1254
+          "recovered": 1252
         }
       }
     },
