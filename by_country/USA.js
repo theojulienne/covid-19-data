@@ -15759,7 +15759,8 @@ var covid19_dataset_country_usa = {
           155,
           171,
           181,
-          189
+          189,
+          202
         ],
         "hospitalized": [
           0,
@@ -21203,7 +21204,7 @@ var covid19_dataset_country_usa = {
       39921,
       42051,
       43935,
-      43986
+      43999
     ],
     "recovered": [
       0,
