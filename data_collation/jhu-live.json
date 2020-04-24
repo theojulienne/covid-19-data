@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 14491,
+          "confirmed": 14496,
           "date": "2020-04-24",
-          "deaths": 853,
+          "deaths": 854,
           "recovered": 0
         }
       },
@@ -437,10 +437,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 24434,
+      "confirmed": 24447,
       "date": "2020-04-24",
       "deaths": 780,
-      "recovered": 5457
+      "recovered": 5496
     }
   },
   "Indonesia": {
@@ -629,10 +629,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 11155,
+      "confirmed": 11940,
       "date": "2020-04-24",
-      "deaths": 237,
-      "recovered": 2527
+      "deaths": 253,
+      "recovered": 2755
     }
   },
   "Panama": {
@@ -831,9 +831,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 21126,
+          "confirmed": 21891,
           "date": "2020-04-24",
-          "deaths": 1522,
+          "deaths": 1638,
           "recovered": 0
         }
       },
@@ -937,7 +937,7 @@
         "live": {
           "confirmed": 3619,
           "date": "2020-04-24",
-          "deaths": 169,
+          "deaths": 167,
           "recovered": 0
         }
       },
@@ -1017,7 +1017,7 @@
         "live": {
           "confirmed": 4012,
           "date": "2020-04-24",
-          "deaths": 65,
+          "deaths": 63,
           "recovered": 0
         }
       },
