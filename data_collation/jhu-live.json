@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 1279,
+      "confirmed": 1330,
       "date": "2020-04-24",
-      "deaths": 42,
-      "recovered": 179
+      "deaths": 43,
+      "recovered": 188
     }
   },
   "Algeria": {
@@ -93,10 +93,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 8022,
+      "confirmed": 8773,
       "date": "2020-04-24",
-      "deaths": 60,
-      "recovered": 938
+      "deaths": 63,
+      "recovered": 1120
     }
   },
   "Belgium": {
@@ -228,9 +228,9 @@
       "Hong Kong": {
         "live": {
           "confirmed": 1035,
-          "date": "2020-04-23",
+          "date": "2020-04-24",
           "deaths": 4,
-          "recovered": 699
+          "recovered": 725
         }
       },
       "Hubei": {
@@ -293,10 +293,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 1981,
+      "confirmed": 2009,
       "date": "2020-04-24",
-      "deaths": 50,
-      "recovered": 883
+      "deaths": 51,
+      "recovered": 982
     }
   },
   "Cuba": {
@@ -375,7 +375,7 @@
     "live": {
       "confirmed": 4395,
       "date": "2020-04-24",
-      "deaths": 172,
+      "deaths": 177,
       "recovered": 2000
     }
   },
@@ -397,10 +397,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 1154,
+      "confirmed": 1279,
       "date": "2020-04-24",
-      "deaths": 9,
-      "recovered": 99
+      "deaths": 10,
+      "recovered": 134
     }
   },
   "Greece": {
@@ -501,9 +501,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2334,
+      "confirmed": 2376,
       "date": "2020-04-24",
-      "deaths": 24,
+      "deaths": 25,
       "recovered": 602
     }
   },
@@ -567,7 +567,7 @@
     "live": {
       "confirmed": 2926,
       "date": "2020-04-24",
-      "deaths": 80,
+      "deaths": 84,
       "recovered": 755
     }
   },
@@ -615,7 +615,7 @@
     "live": {
       "confirmed": 7401,
       "date": "2020-04-24",
-      "deaths": 194,
+      "deaths": 195,
       "recovered": 32
     }
   },
@@ -669,10 +669,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 22353,
+      "confirmed": 22797,
       "date": "2020-04-24",
-      "deaths": 820,
-      "recovered": 1201
+      "deaths": 854,
+      "recovered": 1228
     }
   },
   "Qatar": {
@@ -701,10 +701,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 13930,
+      "confirmed": 15102,
       "date": "2020-04-24",
-      "deaths": 121,
-      "recovered": 1925
+      "deaths": 127,
+      "recovered": 2049
     }
   },
   "Serbia": {

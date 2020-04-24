@@ -2,9 +2,9 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 1279,
-        "deaths": 42,
-        "recovered": 179
+        "confirmed": 1330,
+        "deaths": 43,
+        "recovered": 188
       }
     },
     "AGO": {
@@ -212,9 +212,9 @@
     },
     "BLR": {
       "latest": {
-        "confirmed": 8022,
-        "deaths": 60,
-        "recovered": 938
+        "confirmed": 8773,
+        "deaths": 63,
+        "recovered": 1120
       }
     },
     "BLZ": {
@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83884,
         "deaths": 4636,
-        "recovered": 77984
+        "recovered": 78010
       },
       "states": {
         "Anhui": {
@@ -426,7 +426,7 @@
         "Hong Kong": {
           "confirmed": 1035,
           "deaths": 4,
-          "recovered": 699
+          "recovered": 725
         },
         "Hubei": {
           "confirmed": 68128,
@@ -706,7 +706,7 @@
     "FIN": {
       "latest": {
         "confirmed": 4395,
-        "deaths": 172,
+        "deaths": 177,
         "recovered": 2000
       }
     },
@@ -851,9 +851,9 @@
     },
     "GHA": {
       "latest": {
-        "confirmed": 1154,
-        "deaths": 9,
-        "recovered": 99
+        "confirmed": 1279,
+        "deaths": 10,
+        "recovered": 134
       }
     },
     "GIN": {
@@ -921,9 +921,9 @@
     },
     "HRV": {
       "latest": {
-        "confirmed": 1981,
-        "deaths": 50,
-        "recovered": 883
+        "confirmed": 2009,
+        "deaths": 51,
+        "recovered": 982
       }
     },
     "HTI": {
@@ -1019,8 +1019,8 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 2334,
-        "deaths": 24,
+        "confirmed": 2376,
+        "deaths": 25,
         "recovered": 602
       }
     },
@@ -1146,7 +1146,7 @@
     "MDA": {
       "latest": {
         "confirmed": 2926,
-        "deaths": 80,
+        "deaths": 84,
         "recovered": 755
       }
     },
@@ -1301,7 +1301,7 @@
     "NOR": {
       "latest": {
         "confirmed": 7401,
-        "deaths": 194,
+        "deaths": 195,
         "recovered": 32
       }
     },
@@ -1373,9 +1373,9 @@
     },
     "PRT": {
       "latest": {
-        "confirmed": 22353,
-        "deaths": 820,
-        "recovered": 1201
+        "confirmed": 22797,
+        "deaths": 854,
+        "recovered": 1228
       }
     },
     "PRY": {
@@ -1422,9 +1422,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 13930,
-        "deaths": 121,
-        "recovered": 1925
+        "confirmed": 15102,
+        "deaths": 127,
+        "recovered": 2049
       }
     },
     "SDN": {
