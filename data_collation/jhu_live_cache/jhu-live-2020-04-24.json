@@ -392,7 +392,7 @@
       "confirmed": 153129,
       "date": "2020-04-24",
       "deaths": 5575,
-      "recovered": 103300
+      "recovered": 106800
     }
   },
   "Ghana": {
@@ -407,7 +407,7 @@
     "live": {
       "confirmed": 2463,
       "date": "2020-04-24",
-      "deaths": 125,
+      "deaths": 127,
       "recovered": 577
     }
   },
@@ -533,10 +533,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1398,
+      "confirmed": 1410,
       "date": "2020-04-24",
       "deaths": 40,
-      "recovered": 399
+      "recovered": 430
     }
   },
   "Luxembourg": {
@@ -773,10 +773,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2839,
+      "confirmed": 2854,
       "date": "2020-04-24",
       "deaths": 50,
-      "recovered": 2430
+      "recovered": 2490
     }
   },
   "Tunisia": {
