@@ -25,7 +25,7 @@
       "latest": {
         "confirmed": 723,
         "deaths": 37,
-        "recovered": 309
+        "recovered": 333
       }
     },
     "ARE": {
@@ -275,7 +275,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 43240,
+        "confirmed": 43242,
         "deaths": 2236,
         "recovered": 14454
       },
@@ -317,7 +317,7 @@
           "deaths": 16
         },
         "Ontario": {
-          "confirmed": 14066,
+          "confirmed": 14068,
           "deaths": 806
         },
         "Prince Edward Island": {
@@ -595,15 +595,15 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 7138,
+        "confirmed": 7187,
         "deaths": 210,
         "recovered": 2152
       }
     },
     "DEU": {
       "latest": {
-        "confirmed": 151784,
-        "deaths": 5404,
+        "confirmed": 153129,
+        "deaths": 5575,
         "recovered": 103300
       }
     },
@@ -1257,8 +1257,8 @@
     },
     "NGA": {
       "latest": {
-        "confirmed": 873,
-        "deaths": 28,
+        "confirmed": 981,
+        "deaths": 31,
         "recovered": 197
       }
     },

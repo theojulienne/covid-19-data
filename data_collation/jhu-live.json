@@ -15,6 +15,14 @@
       "recovered": 1355
     }
   },
+  "Andorra": {
+    "live": {
+      "confirmed": 723,
+      "date": "2020-04-23",
+      "deaths": 37,
+      "recovered": 333
+    }
+  },
   "Argentina": {
     "live": {
       "confirmed": 3288,
@@ -167,7 +175,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 14066,
+          "confirmed": 14068,
           "date": "2020-04-23",
           "deaths": 806,
           "recovered": 0
@@ -317,7 +325,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7138,
+      "confirmed": 7187,
       "date": "2020-04-23",
       "deaths": 210,
       "recovered": 2152
@@ -389,9 +397,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 151784,
+      "confirmed": 153129,
       "date": "2020-04-23",
-      "deaths": 5404,
+      "deaths": 5575,
       "recovered": 103300
     }
   },
@@ -597,9 +605,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 873,
+      "confirmed": 981,
       "date": "2020-04-23",
-      "deaths": 28,
+      "deaths": 31,
       "recovered": 197
     }
   },
@@ -863,9 +871,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 9935,
+          "confirmed": 10233,
           "date": "2020-04-23",
-          "deaths": 359,
+          "deaths": 363,
           "recovered": 0
         }
       },
@@ -951,7 +959,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 97438,
+          "confirmed": 97474,
           "date": "2020-04-23",
           "deaths": 5287,
           "recovered": 0
@@ -959,9 +967,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 265602,
-          "date": "2020-04-23",
-          "deaths": 20757,
+          "confirmed": 257911,
+          "date": "2020-04-22",
+          "deaths": 20750,
           "recovered": 0
         }
       },
@@ -991,7 +999,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 1378,
+          "confirmed": 1416,
           "date": "2020-04-23",
           "deaths": 69,
           "recovered": 0
