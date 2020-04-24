@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 3435,
       "date": "2020-04-24",
-      "deaths": 166,
-      "recovered": 919
+      "deaths": 167,
+      "recovered": 976
     }
   },
   "Armenia": {
@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 15071,
       "date": "2020-04-24",
-      "deaths": 522,
+      "deaths": 530,
       "recovered": 11872
     }
   },
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 50230,
+      "confirmed": 50512,
       "date": "2020-04-24",
-      "deaths": 3343,
+      "deaths": 3365,
       "recovered": 26573
     }
   },
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 14068,
+          "confirmed": 14135,
           "date": "2020-04-24",
-          "deaths": 806,
+          "deaths": 809,
           "recovered": 0
         }
       },
@@ -376,7 +376,7 @@
       "confirmed": 4395,
       "date": "2020-04-24",
       "deaths": 177,
-      "recovered": 2000
+      "recovered": 2500
     }
   },
   "France": {
@@ -389,9 +389,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 153393,
+      "confirmed": 153584,
       "date": "2020-04-24",
-      "deaths": 5575,
+      "deaths": 5577,
       "recovered": 106800
     }
   },
@@ -432,7 +432,7 @@
       "confirmed": 1789,
       "date": "2020-04-24",
       "deaths": 10,
-      "recovered": 1509
+      "recovered": 1542
     }
   },
   "India": {
@@ -605,10 +605,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 1300,
+      "confirmed": 1326,
       "date": "2020-04-24",
-      "deaths": 56,
-      "recovered": 301
+      "deaths": 57,
+      "recovered": 337
     }
   },
   "Norway": {
@@ -815,9 +815,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 34197,
+          "confirmed": 34227,
           "date": "2020-04-24",
-          "deaths": 1375,
+          "deaths": 1376,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 3361,
+          "confirmed": 3528,
           "date": "2020-04-24",
-          "deaths": 139,
+          "deaths": 153,
           "recovered": 0
         }
       },
@@ -903,9 +903,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 12299,
+          "confirmed": 13730,
           "date": "2020-04-24",
-          "deaths": 487,
+          "deaths": 561,
           "recovered": 0
         }
       },
@@ -935,9 +935,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 3484,
+          "confirmed": 3619,
           "date": "2020-04-24",
-          "deaths": 150,
+          "deaths": 151,
           "recovered": 0
         }
       },
@@ -967,7 +967,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1377,
+          "confirmed": 1400,
           "date": "2020-04-24",
           "deaths": 37,
           "recovered": 0
@@ -1002,14 +1002,6 @@
           "confirmed": 5356,
           "date": "2020-04-24",
           "deaths": 189,
-          "recovered": 0
-        }
-      },
-      "South Carolina": {
-        "live": {
-          "confirmed": 736,
-          "date": "2020-04-24",
-          "deaths": 17,
           "recovered": 0
         }
       },
