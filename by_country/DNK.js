@@ -866,7 +866,8 @@ var covid19_dataset_country_dnk = {
       364,
       370,
       384,
-      394
+      394,
+      403
     ],
     "recovered": [
       0,
@@ -961,7 +962,8 @@ var covid19_dataset_country_dnk = {
       4312,
       4700,
       5087,
-      5384
+      5384,
+      5526
     ]
   }
 };

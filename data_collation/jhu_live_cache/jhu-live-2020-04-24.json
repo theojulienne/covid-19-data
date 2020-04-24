@@ -69,10 +69,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1548,
+      "confirmed": 1592,
       "date": "2020-04-24",
-      "deaths": 20,
-      "recovered": 948
+      "deaths": 21,
+      "recovered": 1013
     }
   },
   "Bahrain": {
@@ -196,9 +196,9 @@
       "Anhui": {
         "live": {
           "confirmed": 991,
-          "date": "2020-04-09",
+          "date": "2020-04-24",
           "deaths": 6,
-          "recovered": 984
+          "recovered": 985
         }
       },
       "Guangdong": {
@@ -327,16 +327,16 @@
     "live": {
       "confirmed": 8210,
       "date": "2020-04-24",
-      "deaths": 394,
-      "recovered": 5384
+      "deaths": 403,
+      "recovered": 5526
     }
   },
   "Djibouti": {
     "live": {
-      "confirmed": 986,
+      "confirmed": 999,
       "date": "2020-04-24",
       "deaths": 2,
-      "recovered": 252
+      "recovered": 330
     }
   },
   "Dominican Republic": {
@@ -389,7 +389,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 153307,
+      "confirmed": 153393,
       "date": "2020-04-24",
       "deaths": 5575,
       "recovered": 106800
@@ -453,10 +453,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 87026,
+      "confirmed": 88194,
       "date": "2020-04-24",
-      "deaths": 5481,
-      "recovered": 64843
+      "deaths": 5574,
+      "recovered": 66599
     }
   },
   "Iraq": {
@@ -504,7 +504,7 @@
       "confirmed": 2334,
       "date": "2020-04-24",
       "deaths": 24,
-      "recovered": 560
+      "recovered": 602
     }
   },
   "Korea, South": {
@@ -517,9 +517,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 2399,
+      "confirmed": 2614,
       "date": "2020-04-24",
-      "deaths": 14,
+      "deaths": 15,
       "recovered": 613
     }
   },
@@ -581,9 +581,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 35729,
+      "confirmed": 36535,
       "date": "2020-04-24",
-      "deaths": 4177,
+      "deaths": 4289,
       "recovered": 0
     }
   },
@@ -757,9 +757,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 16755,
+      "confirmed": 17567,
       "date": "2020-04-24",
-      "deaths": 2021,
+      "deaths": 2152,
       "recovered": 550
     }
   },

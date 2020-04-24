@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1548,
-        "deaths": 20,
-        "recovered": 948
+        "confirmed": 1592,
+        "deaths": 21,
+        "recovered": 1013
       }
     },
     "BDI": {
@@ -360,13 +360,13 @@
       "latest": {
         "confirmed": 83884,
         "deaths": 4636,
-        "recovered": 77983
+        "recovered": 77984
       },
       "states": {
         "Anhui": {
           "confirmed": 991,
           "deaths": 6,
-          "recovered": 984
+          "recovered": 985
         },
         "Beijing": {
           "confirmed": 593,
@@ -602,16 +602,16 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 153307,
+        "confirmed": 153393,
         "deaths": 5575,
         "recovered": 106800
       }
     },
     "DJI": {
       "latest": {
-        "confirmed": 986,
+        "confirmed": 999,
         "deaths": 2,
-        "recovered": 252
+        "recovered": 330
       }
     },
     "DMA": {
@@ -624,8 +624,8 @@
     "DNK": {
       "latest": {
         "confirmed": 8210,
-        "deaths": 394,
-        "recovered": 5384
+        "deaths": 403,
+        "recovered": 5526
       },
       "states": {
         "Faroe Islands": {
@@ -963,9 +963,9 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 87026,
-        "deaths": 5481,
-        "recovered": 64843
+        "confirmed": 88194,
+        "deaths": 5574,
+        "recovered": 66599
       }
     },
     "IRQ": {
@@ -1021,7 +1021,7 @@
       "latest": {
         "confirmed": 2334,
         "deaths": 24,
-        "recovered": 560
+        "recovered": 602
       }
     },
     "KEN": {
@@ -1054,8 +1054,8 @@
     },
     "KWT": {
       "latest": {
-        "confirmed": 2399,
-        "deaths": 14,
+        "confirmed": 2614,
+        "deaths": 15,
         "recovered": 613
       }
     },
@@ -1271,8 +1271,8 @@
     },
     "NLD": {
       "latest": {
-        "confirmed": 35729,
-        "deaths": 4177,
+        "confirmed": 36535,
+        "deaths": 4289,
         "recovered": 0
       },
       "states": {
@@ -1513,8 +1513,8 @@
     },
     "SWE": {
       "latest": {
-        "confirmed": 16755,
-        "deaths": 2021,
+        "confirmed": 17567,
+        "deaths": 2152,
         "recovered": 550
       }
     },
