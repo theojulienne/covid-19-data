@@ -380,7 +380,8 @@ var covid19_dataset_country_dom = {
       416,
       463,
       581,
-      581
+      581,
+      674
     ]
   }
 };
