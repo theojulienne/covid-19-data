@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 44475,
-        "deaths": 2378,
+        "confirmed": 44507,
+        "deaths": 2382,
         "recovered": 14761
       },
       "states": {
@@ -317,8 +317,8 @@
           "deaths": 16
         },
         "Ontario": {
-          "confirmed": 14457,
-          "deaths": 846
+          "confirmed": 14489,
+          "deaths": 851
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -326,7 +326,7 @@
         },
         "Quebec": {
           "confirmed": 22616,
-          "deaths": 1341
+          "deaths": 1340
         },
         "Recovered": {
           "confirmed": 0,
@@ -956,8 +956,8 @@
     },
     "IRL": {
       "latest": {
-        "confirmed": 17607,
-        "deaths": 794,
+        "confirmed": 18184,
+        "deaths": 1014,
         "recovered": 9233
       }
     },
@@ -984,9 +984,9 @@
     },
     "ISR": {
       "latest": {
-        "confirmed": 14882,
-        "deaths": 193,
-        "recovered": 5685
+        "confirmed": 15058,
+        "deaths": 194,
+        "recovered": 6003
       }
     },
     "ITA": {
@@ -1956,7 +1956,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1778,
+        "confirmed": 1804,
         "deaths": 8,
         "recovered": 621
       }
@@ -1998,8 +1998,8 @@
     },
     "ZAF": {
       "latest": {
-        "confirmed": 3953,
-        "deaths": 75,
+        "confirmed": 4220,
+        "deaths": 79,
         "recovered": 1473
       }
     },
