@@ -94,8 +94,7 @@ var covid19_dataset_country_can = {
           2803,
           2908,
           3095,
-          3401,
-          3717
+          3401
         ],
         "deaths": [
           0,
@@ -189,8 +188,7 @@ var covid19_dataset_country_can = {
           51,
           59,
           61,
-          66,
-          67
+          66
         ]
       }
     },
@@ -382,8 +380,7 @@ var covid19_dataset_country_can = {
           81,
           82,
           87,
-          90,
-          93
+          90
         ]
       }
     },
@@ -1633,8 +1630,7 @@ var covid19_dataset_country_can = {
           675,
           721,
           737,
-          772,
-          827
+          772
         ],
         "deaths": [
           0,
@@ -1728,8 +1724,7 @@ var covid19_dataset_country_can = {
           9,
           9,
           10,
-          12,
-          16
+          12
         ]
       }
     },
@@ -1827,8 +1822,7 @@ var covid19_dataset_country_can = {
           11561,
           12063,
           12715,
-          13718,
-          14068
+          13718
         ],
         "deaths": [
           0,
@@ -1922,8 +1916,7 @@ var covid19_dataset_country_can = {
           591,
           624,
           694,
-          762,
-          806
+          762
         ]
       }
     },
@@ -2213,8 +2206,7 @@ var covid19_dataset_country_can = {
           17950,
           19319,
           20126,
-          20965,
-          21838
+          20965
         ],
         "deaths": [
           0,
@@ -2308,8 +2300,7 @@ var covid19_dataset_country_can = {
           820,
           939,
           1044,
-          1134,
-          1243
+          1134
         ]
       }
     },
@@ -3080,8 +3071,7 @@ var covid19_dataset_country_can = {
       35632,
       37657,
       39401,
-      41648,
-      43242
+      41648
     ],
     "deaths": [
       0,
@@ -3175,8 +3165,7 @@ var covid19_dataset_country_can = {
       1563,
       1725,
       1908,
-      2075,
-      2236
+      2075
     ],
     "recovered": [
       0,
