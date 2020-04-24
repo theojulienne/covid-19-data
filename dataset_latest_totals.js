@@ -949,8 +949,8 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 23077,
-        "deaths": 721,
+        "confirmed": 23502,
+        "deaths": 722,
         "recovered": 5012
       }
     },
@@ -1019,8 +1019,8 @@ var covid19_dataset_latest_totals = {
     },
     "KAZ": {
       "latest": {
-        "confirmed": 2289,
-        "deaths": 20,
+        "confirmed": 2334,
+        "deaths": 22,
         "recovered": 560
       }
     },
