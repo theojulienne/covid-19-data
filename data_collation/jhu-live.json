@@ -317,10 +317,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7187,
+      "confirmed": 7188,
       "date": "2020-04-24",
-      "deaths": 210,
-      "recovered": 2152
+      "deaths": 213,
+      "recovered": 2186
     }
   },
   "Denmark": {
@@ -525,9 +525,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 778,
+      "confirmed": 784,
       "date": "2020-04-24",
-      "deaths": 11,
+      "deaths": 12,
       "recovered": 133
     }
   },
@@ -664,7 +664,7 @@
       "confirmed": 10511,
       "date": "2020-04-24",
       "deaths": 454,
-      "recovered": 1740
+      "recovered": 1944
     }
   },
   "Portugal": {
@@ -767,7 +767,7 @@
     "live": {
       "confirmed": 28496,
       "date": "2020-04-24",
-      "deaths": 1549,
+      "deaths": 1551,
       "recovered": 20600
     }
   },
