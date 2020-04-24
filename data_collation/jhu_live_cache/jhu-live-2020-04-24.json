@@ -19,7 +19,7 @@
     "live": {
       "confirmed": 3435,
       "date": "2020-04-24",
-      "deaths": 165,
+      "deaths": 166,
       "recovered": 919
     }
   },
@@ -61,7 +61,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15002,
+      "confirmed": 15071,
       "date": "2020-04-24",
       "deaths": 522,
       "recovered": 11872
@@ -365,15 +365,15 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1592,
+      "confirmed": 1605,
       "date": "2020-04-24",
-      "deaths": 45,
-      "recovered": 192
+      "deaths": 46,
+      "recovered": 206
     }
   },
   "Finland": {
     "live": {
-      "confirmed": 4284,
+      "confirmed": 4395,
       "date": "2020-04-24",
       "deaths": 172,
       "recovered": 2000
@@ -389,7 +389,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 153129,
+      "confirmed": 153215,
       "date": "2020-04-24",
       "deaths": 5575,
       "recovered": 106800
@@ -520,7 +520,7 @@
       "confirmed": 2399,
       "date": "2020-04-24",
       "deaths": 14,
-      "recovered": 498
+      "recovered": 613
     }
   },
   "Latvia": {
@@ -573,10 +573,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 3568,
+      "confirmed": 3692,
       "date": "2020-04-24",
       "deaths": 155,
-      "recovered": 456
+      "recovered": 478
     }
   },
   "Netherlands": {
@@ -685,10 +685,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 10096,
+      "confirmed": 10417,
       "date": "2020-04-24",
       "deaths": 552,
-      "recovered": 2478
+      "recovered": 2817
     }
   },
   "Russia": {
@@ -717,7 +717,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 11178,
+      "confirmed": 12075,
       "date": "2020-04-24",
       "deaths": 12,
       "recovered": 924
@@ -765,7 +765,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 28496,
+      "confirmed": 28677,
       "date": "2020-04-24",
       "deaths": 1551,
       "recovered": 20600
@@ -1099,8 +1099,8 @@
     "live": {
       "confirmed": 1778,
       "date": "2020-04-24",
-      "deaths": 7,
-      "recovered": 592
+      "deaths": 8,
+      "recovered": 598
     }
   }
 }
