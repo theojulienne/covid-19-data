@@ -1314,12 +1314,12 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1456,
+        "confirmed": 1461,
         "current_hospitalized": 14,
         "current_icu": 3,
         "deaths": 9,
-        "recovered": 1095,
-        "tested": 108238
+        "recovered": 1118,
+        "tested": 115015
       }
     },
     "OMN": {
