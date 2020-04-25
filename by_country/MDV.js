@@ -191,9 +191,11 @@ var covid19_dataset_country_mdv = {
       69,
       83,
       86,
-      108
+      108,
+      129
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -372,6 +374,7 @@ var covid19_dataset_country_mdv = {
       13,
       14,
       14,
+      16,
       16,
       16,
       16,
