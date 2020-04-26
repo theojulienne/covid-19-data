@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 59324,
+      "confirmed": 59479,
       "date": "2020-04-26",
-      "deaths": 4057,
+      "deaths": 4062,
       "recovered": 29160
     }
   },
@@ -167,7 +167,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 15012,
+          "confirmed": 15040,
           "date": "2020-04-26",
           "deaths": 916,
           "recovered": 0
@@ -293,15 +293,15 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1337,
+      "confirmed": 1369,
       "date": "2020-04-26",
-      "deaths": 51,
-      "recovered": 437
+      "deaths": 54,
+      "recovered": 501
     }
   },
   "Cyprus": {
     "live": {
-      "confirmed": 810,
+      "confirmed": 817,
       "date": "2020-04-26",
       "deaths": 14,
       "recovered": 148
@@ -333,10 +333,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 5926,
+      "confirmed": 6135,
       "date": "2020-04-26",
-      "deaths": 273,
-      "recovered": 822
+      "deaths": 278,
+      "recovered": 910
     }
   },
   "Ecuador": {
@@ -381,7 +381,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 156727,
+      "confirmed": 157026,
       "date": "2020-04-26",
       "deaths": 5880,
       "recovered": 109800
@@ -397,9 +397,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2506,
+      "confirmed": 2517,
       "date": "2020-04-26",
-      "deaths": 130,
+      "deaths": 134,
       "recovered": 577
     }
   },
@@ -557,9 +557,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 3304,
+      "confirmed": 3408,
       "date": "2020-04-26",
-      "deaths": 94,
+      "deaths": 96,
       "recovered": 895
     }
   },
@@ -847,9 +847,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 22532,
+          "confirmed": 23092,
           "date": "2020-04-26",
-          "deaths": 717,
+          "deaths": 732,
           "recovered": 0
         }
       },
