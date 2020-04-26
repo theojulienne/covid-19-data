@@ -77,10 +77,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 2633,
+      "confirmed": 2647,
       "date": "2020-04-26",
       "deaths": 8,
-      "recovered": 1160
+      "recovered": 1189
     }
   },
   "Bangladesh": {
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 15279,
+          "confirmed": 15320,
           "date": "2020-04-26",
-          "deaths": 928,
+          "deaths": 937,
           "recovered": 0
         }
       },
@@ -429,10 +429,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 26917,
+      "confirmed": 27890,
       "date": "2020-04-26",
-      "deaths": 826,
-      "recovered": 5939
+      "deaths": 882,
+      "recovered": 6523
     }
   },
   "Indonesia": {
@@ -733,9 +733,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 4361,
+      "confirmed": 4546,
       "date": "2020-04-26",
-      "deaths": 86,
+      "deaths": 87,
       "recovered": 1473
     }
   },
@@ -961,7 +961,7 @@
         "live": {
           "confirmed": 281906,
           "date": "2020-04-25",
-          "deaths": 21750,
+          "deaths": 22000,
           "recovered": 0
         }
       },
@@ -1023,7 +1023,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 13876,
+          "confirmed": 14022,
           "date": "2020-04-26",
           "deaths": 317,
           "recovered": 0
@@ -1031,7 +1031,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 2051,
+          "confirmed": 2144,
           "date": "2020-04-26",
           "deaths": 24,
           "recovered": 0
@@ -1055,9 +1055,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 2525,
+          "confirmed": 2629,
           "date": "2020-04-26",
-          "deaths": 157,
+          "deaths": 162,
           "recovered": 0
         }
       }
