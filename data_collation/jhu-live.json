@@ -919,9 +919,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 31836,
+          "confirmed": 31977,
           "date": "2020-04-26",
-          "deaths": 2842,
+          "deaths": 2959,
           "recovered": 0
         }
       },
@@ -961,7 +961,7 @@
         "live": {
           "confirmed": 102173,
           "date": "2020-04-26",
-          "deaths": 5769,
+          "deaths": 5793,
           "recovered": 0
         }
       },
