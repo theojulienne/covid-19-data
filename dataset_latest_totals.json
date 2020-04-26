@@ -228,7 +228,7 @@
       "latest": {
         "confirmed": 866,
         "deaths": 46,
-        "recovered": 54
+        "recovered": 74
       }
     },
     "BRA": {
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 29061,
-        "deaths": 1607,
+        "deaths": 1610,
         "recovered": 21300
       }
     },
@@ -604,7 +604,7 @@
       "latest": {
         "confirmed": 157114,
         "deaths": 5884,
-        "recovered": 109800
+        "recovered": 112000
       }
     },
     "DJI": {
@@ -720,8 +720,8 @@
     "FRA": {
       "latest": {
         "confirmed": 160292,
-        "deaths": 22614,
-        "recovered": 44594
+        "deaths": 22856,
+        "recovered": 44903
       },
       "states": {
         "French Guiana": {
@@ -956,8 +956,8 @@
     },
     "IRL": {
       "latest": {
-        "confirmed": 18561,
-        "deaths": 1063,
+        "confirmed": 19262,
+        "deaths": 1087,
         "recovered": 9233
       }
     },
@@ -970,9 +970,9 @@
     },
     "IRQ": {
       "latest": {
-        "confirmed": 1763,
-        "deaths": 86,
-        "recovered": 1224
+        "confirmed": 1820,
+        "deaths": 87,
+        "recovered": 1263
       }
     },
     "ISL": {
@@ -1583,9 +1583,9 @@
     },
     "TUR": {
       "latest": {
-        "confirmed": 107773,
-        "deaths": 2706,
-        "recovered": 25582
+        "confirmed": 110130,
+        "deaths": 2805,
+        "recovered": 29140
       }
     },
     "TWN": {
@@ -1627,7 +1627,7 @@
       "latest": {
         "confirmed": 930323,
         "deaths": 47926,
-        "recovered": 90937,
+        "recovered": 89242,
         "tested": 5175086
       },
       "states": {
@@ -1927,7 +1927,7 @@
           "confirmed": 843,
           "deaths": 46,
           "hospitalized": 50,
-          "recovered": 1710,
+          "recovered": 15,
           "tested": 14682
         },
         "WA": {

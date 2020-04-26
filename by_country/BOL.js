@@ -388,7 +388,8 @@ var covid19_dataset_country_bol = {
       44,
       44,
       54,
-      54
+      54,
+      74
     ]
   }
 };
