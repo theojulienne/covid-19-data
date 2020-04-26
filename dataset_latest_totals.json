@@ -2,9 +2,9 @@
   "countries": {
     "AFG": {
       "latest": {
-        "confirmed": 1463,
-        "deaths": 47,
-        "recovered": 188
+        "confirmed": 1531,
+        "deaths": 50,
+        "recovered": 207
       }
     },
     "AGO": {
@@ -62,7 +62,7 @@
         "current_hospitalized": 115,
         "current_icu": 42,
         "deaths": 85,
-        "recovered": 4114,
+        "recovered": 4129,
         "tested": 506449
       },
       "states": {
@@ -88,7 +88,7 @@
           "current_hospitalized": 5,
           "current_icu": 0,
           "deaths": 0,
-          "recovered": 9,
+          "recovered": 23,
           "tested": 4231
         },
         "QLD": {
@@ -104,7 +104,7 @@
           "current_hospitalized": 4,
           "current_icu": 2,
           "deaths": 4,
-          "recovered": 401,
+          "recovered": 402,
           "tested": 52671
         },
         "TAS": {
@@ -345,7 +345,7 @@
     "CHE": {
       "latest": {
         "confirmed": 28894,
-        "deaths": 1599,
+        "deaths": 1607,
         "recovered": 21300
       }
     },
@@ -706,7 +706,7 @@
     "FIN": {
       "latest": {
         "confirmed": 4576,
-        "deaths": 186,
+        "deaths": 190,
         "recovered": 2500
       }
     },
@@ -1054,9 +1054,9 @@
     },
     "KWT": {
       "latest": {
-        "confirmed": 2892,
-        "deaths": 19,
-        "recovered": 656
+        "confirmed": 3075,
+        "deaths": 20,
+        "recovered": 806
       }
     },
     "LAO": {
@@ -1387,9 +1387,9 @@
     },
     "QAT": {
       "latest": {
-        "confirmed": 9358,
+        "confirmed": 10287,
         "deaths": 10,
-        "recovered": 929
+        "recovered": 1012
       }
     },
     "RKS": {
@@ -1506,9 +1506,9 @@
     },
     "SVN": {
       "latest": {
-        "confirmed": 1388,
-        "deaths": 81,
-        "recovered": 219
+        "confirmed": 1396,
+        "deaths": 82,
+        "recovered": 221
       }
     },
     "SWE": {
