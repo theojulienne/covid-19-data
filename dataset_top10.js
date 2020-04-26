@@ -979,7 +979,8 @@ var covid19_dataset_top10 = {
           156921,
           154715,
           157026,
-          158636
+          158636,
+          160292
         ],
         "deaths": [
           0,
@@ -3140,7 +3141,8 @@ var covid19_dataset_top10 = {
     "2020-04-23",
     "2020-04-24",
     "2020-04-25",
-    "2020-04-26"
+    "2020-04-26",
+    "2020-04-27"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
