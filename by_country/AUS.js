@@ -3357,7 +3357,7 @@ var covid19_dataset_country_aus = {
           9,
           9,
           9,
-          0
+          9
         ],
         "tested": [
           0,
@@ -3682,7 +3682,7 @@ var covid19_dataset_country_aus = {
             6,
             6,
             6,
-            6
+            5
           ],
           "Central\r\n  Queensland": [
             0,
@@ -3878,7 +3878,7 @@ var covid19_dataset_country_aus = {
             2,
             2,
             2,
-            2
+            1
           ],
           "Central West": [
             0,
@@ -4172,7 +4172,7 @@ var covid19_dataset_country_aus = {
             15,
             15,
             3,
-            3
+            1
           ],
           "Gold Coast": [
             0,
@@ -4270,7 +4270,7 @@ var covid19_dataset_country_aus = {
             53,
             53,
             24,
-            24
+            19
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -4466,7 +4466,7 @@ var covid19_dataset_country_aus = {
             4,
             4,
             4,
-            4
+            2
           ],
           "Metro\r\n  South": [
             0,
@@ -4662,7 +4662,7 @@ var covid19_dataset_country_aus = {
             75,
             74,
             74,
-            74
+            30
           ],
           "Metro South": [
             0,
@@ -4760,7 +4760,7 @@ var covid19_dataset_country_aus = {
             82,
             83,
             77,
-            77
+            23
           ],
           "North West": [
             0,
@@ -5250,7 +5250,7 @@ var covid19_dataset_country_aus = {
             14,
             14,
             14,
-            14
+            8
           ],
           "TBC": [
             0,
@@ -5642,7 +5642,7 @@ var covid19_dataset_country_aus = {
             5,
             5,
             5,
-            5
+            3
           ],
           "West\r\n  Moreton": [
             0,
@@ -5838,7 +5838,7 @@ var covid19_dataset_country_aus = {
             11,
             11,
             3,
-            3
+            2
           ],
           "Wide Bay": [
             0,
@@ -5936,7 +5936,7 @@ var covid19_dataset_country_aus = {
             15,
             15,
             5,
-            5
+            4
           ]
         }
       },
@@ -10558,8 +10558,8 @@ var covid19_dataset_country_aus = {
       4742,
       4830,
       4883,
-      5352,
-      4105
+      5361,
+      4114
     ],
     "tested": [
       0,
