@@ -35,25 +35,25 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 2994,
+          "confirmed": 3002,
           "date": "2020-04-26",
-          "deaths": 33,
-          "recovered": 2193
+          "deaths": 34,
+          "recovered": 2208
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 1026,
+          "confirmed": 1030,
           "date": "2020-04-26",
           "deaths": 6,
-          "recovered": 803
+          "recovered": 926
         }
       },
       "Victoria": {
         "live": {
-          "confirmed": 1346,
+          "confirmed": 1349,
           "date": "2020-04-26",
-          "deaths": 16,
+          "deaths": 17,
           "recovered": 1265
         }
       }
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 15534,
+          "confirmed": 15564,
           "date": "2020-04-26",
-          "deaths": 949,
+          "deaths": 960,
           "recovered": 0
         }
       },
@@ -373,7 +373,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 160292,
+      "confirmed": 160847,
       "date": "2020-04-26",
       "deaths": 22856,
       "recovered": 44903
@@ -879,7 +879,7 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1114,
+          "confirmed": 1120,
           "date": "2020-04-26",
           "deaths": 81,
           "recovered": 0
@@ -905,7 +905,7 @@
         "live": {
           "confirmed": 53060,
           "date": "2020-04-26",
-          "deaths": 2609,
+          "deaths": 2778,
           "recovered": 0
         }
       },
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 281906,
           "date": "2020-04-25",
-          "deaths": 22000,
+          "deaths": 22020,
           "recovered": 0
         }
       },
