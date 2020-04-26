@@ -69,10 +69,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1617,
+      "confirmed": 1645,
       "date": "2020-04-26",
       "deaths": 21,
-      "recovered": 1080
+      "recovered": 1139
     }
   },
   "Bahrain": {
@@ -293,10 +293,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 2016,
+      "confirmed": 2030,
       "date": "2020-04-26",
-      "deaths": 54,
-      "recovered": 1034
+      "deaths": 55,
+      "recovered": 1103
     }
   },
   "Cuba": {
@@ -397,10 +397,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 1279,
+      "confirmed": 1550,
       "date": "2020-04-26",
-      "deaths": 10,
-      "recovered": 134
+      "deaths": 11,
+      "recovered": 155
     }
   },
   "Greece": {
@@ -437,9 +437,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 26496,
+      "confirmed": 26917,
       "date": "2020-04-26",
-      "deaths": 825,
+      "deaths": 826,
       "recovered": 5939
     }
   },
@@ -501,10 +501,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2652,
+      "confirmed": 2693,
       "date": "2020-04-26",
-      "deaths": 25,
-      "recovered": 646
+      "deaths": 26,
+      "recovered": 677
     }
   },
   "Korea, South": {
@@ -581,9 +581,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 37190,
+      "confirmed": 37845,
       "date": "2020-04-26",
-      "deaths": 4409,
+      "deaths": 4475,
       "recovered": 0
     }
   },
@@ -605,10 +605,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 1367,
+      "confirmed": 1386,
       "date": "2020-04-26",
-      "deaths": 59,
-      "recovered": 374
+      "deaths": 61,
+      "recovered": 500
     }
   },
   "Norway": {
@@ -669,10 +669,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 23392,
+      "confirmed": 23864,
       "date": "2020-04-26",
-      "deaths": 880,
-      "recovered": 1277
+      "deaths": 903,
+      "recovered": 1329
     }
   },
   "Qatar": {
@@ -757,9 +757,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 18177,
+      "confirmed": 18640,
       "date": "2020-04-26",
-      "deaths": 2192,
+      "deaths": 2194,
       "recovered": 1005
     }
   },
@@ -1081,10 +1081,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 9813,
+      "confirmed": 10349,
       "date": "2020-04-26",
-      "deaths": 71,
-      "recovered": 1887
+      "deaths": 76,
+      "recovered": 1978
     }
   },
   "United Kingdom": {
@@ -1100,7 +1100,7 @@
       "confirmed": 1865,
       "date": "2020-04-26",
       "deaths": 8,
-      "recovered": 707
+      "recovered": 763
     }
   }
 }
