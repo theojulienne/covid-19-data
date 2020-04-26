@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1247,
+      "confirmed": 1290,
       "date": "2020-04-26",
       "deaths": 55,
-      "recovered": 197
+      "recovered": 205
     }
   },
   "Cameroon": {
@@ -421,10 +421,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 2443,
+      "confirmed": 2500,
       "date": "2020-04-26",
-      "deaths": 262,
-      "recovered": 458
+      "deaths": 272,
+      "recovered": 485
     }
   },
   "Iceland": {
@@ -533,10 +533,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1426,
+      "confirmed": 1438,
       "date": "2020-04-26",
       "deaths": 41,
-      "recovered": 460
+      "recovered": 467
     }
   },
   "Luxembourg": {
@@ -1073,10 +1073,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 8125,
+      "confirmed": 8617,
       "date": "2020-04-26",
-      "deaths": 201,
-      "recovered": 782
+      "deaths": 209,
+      "recovered": 840
     }
   },
   "United Arab Emirates": {
@@ -1097,7 +1097,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1862,
+      "confirmed": 1865,
       "date": "2020-04-26",
       "deaths": 8,
       "recovered": 707
