@@ -799,7 +799,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1642,
+          "confirmed": 1716,
           "date": "2020-04-26",
           "deaths": 73,
           "recovered": 0
@@ -815,9 +815,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 36702,
+          "confirmed": 36894,
           "date": "2020-04-26",
-          "deaths": 1516,
+          "deaths": 1524,
           "recovered": 0
         }
       },
@@ -887,7 +887,7 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1121,
+          "confirmed": 1114,
           "date": "2020-04-26",
           "deaths": 81,
           "recovered": 0
@@ -991,9 +991,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 34792,
+          "confirmed": 35244,
           "date": "2020-04-26",
-          "deaths": 1535,
+          "deaths": 1552,
           "recovered": 0
         }
       },
