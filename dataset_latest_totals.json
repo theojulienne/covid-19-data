@@ -360,7 +360,7 @@
       "latest": {
         "confirmed": 83901,
         "deaths": 4636,
-        "recovered": 78138
+        "recovered": 78137
       },
       "states": {
         "Anhui": {
@@ -416,7 +416,7 @@
         "Heilongjiang": {
           "confirmed": 930,
           "deaths": 13,
-          "recovered": 509
+          "recovered": 508
         },
         "Henan": {
           "confirmed": 1276,
@@ -1314,12 +1314,12 @@
     },
     "NZL": {
       "latest": {
-        "confirmed": 1461,
+        "confirmed": 1470,
         "current_hospitalized": 14,
         "current_icu": 3,
-        "deaths": 18,
-        "recovered": 1118,
-        "tested": 115015
+        "deaths": 9,
+        "recovered": 1142,
+        "tested": null
       }
     },
     "OMN": {

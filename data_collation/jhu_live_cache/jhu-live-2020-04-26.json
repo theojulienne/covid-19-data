@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 59196,
+      "confirmed": 59324,
       "date": "2020-04-26",
-      "deaths": 4045,
+      "deaths": 4057,
       "recovered": 29160
     }
   },
@@ -211,10 +211,10 @@
       },
       "Heilongjiang": {
         "live": {
-          "confirmed": 930,
-          "date": "2020-04-25",
+          "confirmed": 935,
+          "date": "2020-04-26",
           "deaths": 13,
-          "recovered": 509
+          "recovered": 511
         }
       },
       "Henan": {
@@ -389,9 +389,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 156418,
+      "confirmed": 156513,
       "date": "2020-04-26",
-      "deaths": 5873,
+      "deaths": 5877,
       "recovered": 109800
     }
   },
@@ -557,9 +557,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 12872,
+      "confirmed": 13842,
       "date": "2020-04-26",
-      "deaths": 1221,
+      "deaths": 1305,
       "recovered": 7149
     }
   },
@@ -589,10 +589,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1461,
+      "confirmed": 1470,
       "date": "2020-04-26",
       "deaths": 18,
-      "recovered": 1118
+      "recovered": 1142
     }
   },
   "Nigeria": {
@@ -613,7 +613,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7493,
+      "confirmed": 7499,
       "date": "2020-04-26",
       "deaths": 201,
       "recovered": 32
@@ -637,10 +637,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 5338,
+      "confirmed": 5538,
       "date": "2020-04-26",
-      "deaths": 154,
-      "recovered": 319
+      "deaths": 159,
+      "recovered": 338
     }
   },
   "Peru": {
@@ -815,9 +815,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 36585,
+          "confirmed": 36702,
           "date": "2020-04-26",
-          "deaths": 1507,
+          "deaths": 1516,
           "recovered": 0
         }
       },
@@ -913,7 +913,7 @@
         "live": {
           "confirmed": 50753,
           "date": "2020-04-26",
-          "deaths": 1862,
+          "deaths": 2596,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 13640,
+          "confirmed": 13845,
           "date": "2020-04-26",
-          "deaths": 305,
+          "deaths": 313,
           "recovered": 0
         }
       },
@@ -1047,17 +1047,17 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 3644,
+          "confirmed": 3929,
           "date": "2020-04-26",
-          "deaths": 103,
+          "deaths": 109,
           "recovered": 0
         }
       },
       "Washington": {
         "live": {
-          "confirmed": 10015,
-          "date": "2020-04-24",
-          "deaths": 581,
+          "confirmed": 10247,
+          "date": "2020-04-25",
+          "deaths": 592,
           "recovered": 0
         }
       },
