@@ -141,10 +141,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 1518,
+      "confirmed": 1621,
       "date": "2020-04-26",
-      "deaths": 53,
-      "recovered": 697
+      "deaths": 56,
+      "recovered": 786
     }
   },
   "Canada": {
@@ -325,10 +325,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 8445,
+      "confirmed": 8575,
       "date": "2020-04-26",
-      "deaths": 418,
-      "recovered": 5669
+      "deaths": 422,
+      "recovered": 5805
     }
   },
   "Djibouti": {
@@ -503,7 +503,7 @@
     "live": {
       "confirmed": 2693,
       "date": "2020-04-26",
-      "deaths": 26,
+      "deaths": 25,
       "recovered": 677
     }
   },
@@ -568,7 +568,7 @@
       "confirmed": 3304,
       "date": "2020-04-26",
       "deaths": 94,
-      "recovered": 825
+      "recovered": 895
     }
   },
   "Morocco": {
@@ -701,10 +701,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 16299,
+      "confirmed": 17522,
       "date": "2020-04-26",
-      "deaths": 136,
-      "recovered": 2215
+      "deaths": 139,
+      "recovered": 2357
     }
   },
   "Serbia": {
@@ -765,7 +765,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 28894,
+      "confirmed": 29061,
       "date": "2020-04-26",
       "deaths": 1607,
       "recovered": 21300
@@ -1097,10 +1097,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1865,
+      "confirmed": 1869,
       "date": "2020-04-26",
       "deaths": 8,
-      "recovered": 763
+      "recovered": 765
     }
   }
 }

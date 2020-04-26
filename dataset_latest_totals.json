@@ -344,7 +344,7 @@
     },
     "CHE": {
       "latest": {
-        "confirmed": 28894,
+        "confirmed": 29061,
         "deaths": 1607,
         "recovered": 21300
       }
@@ -539,9 +539,9 @@
     },
     "CMR": {
       "latest": {
-        "confirmed": 1518,
-        "deaths": 53,
-        "recovered": 697
+        "confirmed": 1621,
+        "deaths": 56,
+        "recovered": 786
       }
     },
     "COD": {
@@ -623,9 +623,9 @@
     },
     "DNK": {
       "latest": {
-        "confirmed": 8445,
-        "deaths": 418,
-        "recovered": 5669
+        "confirmed": 8575,
+        "deaths": 422,
+        "recovered": 5805
       },
       "states": {
         "Faroe Islands": {
@@ -1020,7 +1020,7 @@
     "KAZ": {
       "latest": {
         "confirmed": 2693,
-        "deaths": 26,
+        "deaths": 25,
         "recovered": 677
       }
     },
@@ -1147,7 +1147,7 @@
       "latest": {
         "confirmed": 3304,
         "deaths": 94,
-        "recovered": 825
+        "recovered": 895
       }
     },
     "MDG": {
@@ -1422,9 +1422,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 16299,
-        "deaths": 136,
-        "recovered": 2215
+        "confirmed": 17522,
+        "deaths": 139,
+        "recovered": 2357
       }
     },
     "SDN": {
@@ -1959,9 +1959,9 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1865,
+        "confirmed": 1869,
         "deaths": 8,
-        "recovered": 763
+        "recovered": 765
       }
     },
     "VAT": {
