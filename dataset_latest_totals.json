@@ -1019,7 +1019,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 2601,
+        "confirmed": 2652,
         "deaths": 25,
         "recovered": 646
       }
@@ -1324,9 +1324,9 @@
     },
     "OMN": {
       "latest": {
-        "confirmed": 1905,
+        "confirmed": 1998,
         "deaths": 10,
-        "recovered": 329
+        "recovered": 333
       }
     },
     "PAK": {
@@ -1352,9 +1352,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 7294,
-        "deaths": 494,
-        "recovered": 792
+        "confirmed": 7579,
+        "deaths": 501,
+        "recovered": 862
       }
     },
     "PNG": {
@@ -1366,8 +1366,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 11273,
-        "deaths": 524,
+        "confirmed": 11395,
+        "deaths": 526,
         "recovered": 2265
       }
     },
@@ -1499,9 +1499,9 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 1373,
-        "deaths": 17,
-        "recovered": 386
+        "confirmed": 1379,
+        "deaths": 18,
+        "recovered": 394
       }
     },
     "SVN": {

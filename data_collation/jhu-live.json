@@ -501,7 +501,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2601,
+      "confirmed": 2652,
       "date": "2020-04-26",
       "deaths": 25,
       "recovered": 646
@@ -621,10 +621,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 1905,
+      "confirmed": 1998,
       "date": "2020-04-26",
       "deaths": 10,
-      "recovered": 329
+      "recovered": 333
     }
   },
   "Pakistan": {
@@ -653,17 +653,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 7294,
+      "confirmed": 7579,
       "date": "2020-04-26",
-      "deaths": 494,
-      "recovered": 792
+      "deaths": 501,
+      "recovered": 862
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 11273,
+      "confirmed": 11395,
       "date": "2020-04-26",
-      "deaths": 524,
+      "deaths": 526,
       "recovered": 2265
     }
   },
@@ -725,10 +725,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1373,
+      "confirmed": 1379,
       "date": "2020-04-26",
-      "deaths": 17,
-      "recovered": 386
+      "deaths": 18,
+      "recovered": 394
     }
   },
   "Slovenia": {
