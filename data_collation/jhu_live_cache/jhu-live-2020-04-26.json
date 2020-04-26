@@ -109,9 +109,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 807,
+      "confirmed": 866,
       "date": "2020-04-26",
-      "deaths": 44,
+      "deaths": 46,
       "recovered": 54
     }
   },
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 15009,
+          "confirmed": 15012,
           "date": "2020-04-26",
-          "deaths": 914,
+          "deaths": 916,
           "recovered": 0
         }
       },
@@ -203,10 +203,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1585,
-          "date": "2020-04-25",
+          "confirmed": 1586,
+          "date": "2020-04-26",
           "deaths": 8,
-          "recovered": 1534
+          "recovered": 1542
         }
       },
       "Heilongjiang": {
@@ -236,9 +236,9 @@
       "Hubei": {
         "live": {
           "confirmed": 68128,
-          "date": "2020-04-25",
+          "date": "2020-04-26",
           "deaths": 4512,
-          "recovered": 63593
+          "recovered": 63604
         }
       },
       "Hunan": {
@@ -268,9 +268,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1268,
-          "date": "2020-04-24",
+          "date": "2020-04-26",
           "deaths": 1,
-          "recovered": 1256
+          "recovered": 1257
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10718,
+      "confirmed": 10728,
       "date": "2020-04-26",
-      "deaths": 240,
-      "recovered": 8635
+      "deaths": 242,
+      "recovered": 8717
     }
   },
   "Kuwait": {
@@ -991,9 +991,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 34720,
+          "confirmed": 34792,
           "date": "2020-04-26",
-          "deaths": 1533,
+          "deaths": 1535,
           "recovered": 0
         }
       },
