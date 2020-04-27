@@ -151,9 +151,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 4488,
+          "confirmed": 4696,
           "date": "2020-04-27",
-          "deaths": 73,
+          "deaths": 75,
           "recovered": 0
         }
       },
@@ -381,9 +381,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 158389,
+      "confirmed": 158434,
       "date": "2020-04-27",
-      "deaths": 6050,
+      "deaths": 6061,
       "recovered": 114500
     }
   },
@@ -424,7 +424,7 @@
       "confirmed": 1792,
       "date": "2020-04-27",
       "deaths": 10,
-      "recovered": 1608
+      "recovered": 1624
     }
   },
   "India": {
@@ -765,10 +765,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 949,
+      "confirmed": 967,
       "date": "2020-04-27",
-      "deaths": 38,
-      "recovered": 216
+      "deaths": 39,
+      "recovered": 279
     }
   },
   "Turkey": {
@@ -879,9 +879,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1120,
+          "confirmed": 1140,
           "date": "2020-04-27",
-          "deaths": 81,
+          "deaths": 83,
           "recovered": 0
         }
       },

@@ -275,14 +275,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 49334,
-        "deaths": 2833,
+        "confirmed": 49542,
+        "deaths": 2835,
         "recovered": 16883
       },
       "states": {
         "Alberta": {
-          "confirmed": 4488,
-          "deaths": 73
+          "confirmed": 4696,
+          "deaths": 75
         },
         "British Columbia": {
           "confirmed": 1948,
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 158389,
-        "deaths": 6050,
+        "confirmed": 158434,
+        "deaths": 6061,
         "recovered": 114500
       }
     },
@@ -979,7 +979,7 @@
       "latest": {
         "confirmed": 1792,
         "deaths": 10,
-        "recovered": 1608
+        "recovered": 1624
       }
     },
     "ISR": {
@@ -1576,9 +1576,9 @@
     },
     "TUN": {
       "latest": {
-        "confirmed": 949,
-        "deaths": 38,
-        "recovered": 216
+        "confirmed": 967,
+        "deaths": 39,
+        "recovered": 279
       }
     },
     "TUR": {
