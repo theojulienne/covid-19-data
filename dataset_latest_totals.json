@@ -212,9 +212,9 @@
     },
     "BLR": {
       "latest": {
-        "confirmed": 10463,
-        "deaths": 72,
-        "recovered": 1695
+        "confirmed": 11289,
+        "deaths": 75,
+        "recovered": 1740
       }
     },
     "BLZ": {
@@ -705,7 +705,7 @@
     },
     "FIN": {
       "latest": {
-        "confirmed": 4576,
+        "confirmed": 4695,
         "deaths": 190,
         "recovered": 2500
       }
@@ -1131,9 +1131,9 @@
     },
     "MAR": {
       "latest": {
-        "confirmed": 4065,
+        "confirmed": 4115,
         "deaths": 161,
-        "recovered": 593
+        "recovered": 669
       }
     },
     "MCO": {
@@ -1146,8 +1146,8 @@
     "MDA": {
       "latest": {
         "confirmed": 3408,
-        "deaths": 96,
-        "recovered": 895
+        "deaths": 101,
+        "recovered": 925
       }
     },
     "MDG": {
@@ -1401,9 +1401,9 @@
     },
     "ROU": {
       "latest": {
-        "confirmed": 11036,
+        "confirmed": 11339,
         "deaths": 631,
-        "recovered": 3054
+        "recovered": 3141
       }
     },
     "RUS": {
@@ -1961,7 +1961,7 @@
       "latest": {
         "confirmed": 1887,
         "deaths": 8,
-        "recovered": 804
+        "recovered": 826
       }
     },
     "VAT": {

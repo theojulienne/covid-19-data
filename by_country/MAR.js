@@ -196,7 +196,8 @@ var covid19_dataset_country_mar = {
       3568,
       3758,
       3897,
-      4065
+      4065,
+      4115
     ],
     "deaths": [
       0,
@@ -392,7 +393,8 @@ var covid19_dataset_country_mar = {
       456,
       486,
       537,
-      593
+      593,
+      669
     ]
   }
 };
