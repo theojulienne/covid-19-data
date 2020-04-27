@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1645,
-        "deaths": 21,
-        "recovered": 1139
+        "confirmed": 1678,
+        "deaths": 22,
+        "recovered": 1162
       }
     },
     "BDI": {
@@ -624,8 +624,8 @@
     "DNK": {
       "latest": {
         "confirmed": 8698,
-        "deaths": 422,
-        "recovered": 5805
+        "deaths": 427,
+        "recovered": 5959
       },
       "states": {
         "Faroe Islands": {
@@ -1019,9 +1019,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 2791,
+        "confirmed": 2835,
         "deaths": 25,
-        "recovered": 682
+        "recovered": 720
       }
     },
     "KEN": {
@@ -1173,9 +1173,9 @@
     },
     "MKD": {
       "latest": {
-        "confirmed": 1386,
-        "deaths": 61,
-        "recovered": 500
+        "confirmed": 1399,
+        "deaths": 65,
+        "recovered": 553
       }
     },
     "MLI": {
@@ -1422,9 +1422,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 17522,
-        "deaths": 139,
-        "recovered": 2357
+        "confirmed": 18811,
+        "deaths": 144,
+        "recovered": 2531
       }
     },
     "SDN": {
