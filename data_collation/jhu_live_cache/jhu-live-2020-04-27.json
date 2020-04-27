@@ -117,10 +117,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 1516,
+      "confirmed": 1565,
       "date": "2020-04-27",
-      "deaths": 59,
-      "recovered": 624
+      "deaths": 60,
+      "recovered": 659
     }
   },
   "Brazil": {
@@ -230,7 +230,7 @@
           "confirmed": 1037,
           "date": "2020-04-27",
           "deaths": 4,
-          "recovered": 772
+          "recovered": 787
         }
       },
       "Hubei": {
@@ -285,10 +285,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 2030,
+      "confirmed": 2039,
       "date": "2020-04-27",
-      "deaths": 55,
-      "recovered": 1103
+      "deaths": 59,
+      "recovered": 1166
     }
   },
   "Cuba": {
@@ -381,9 +381,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 157781,
+      "confirmed": 157946,
       "date": "2020-04-27",
-      "deaths": 5976,
+      "deaths": 5984,
       "recovered": 114500
     }
   },
@@ -573,9 +573,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 37845,
+      "confirmed": 38245,
       "date": "2020-04-27",
-      "deaths": 4475,
+      "deaths": 4518,
       "recovered": 0
     }
   },
@@ -661,10 +661,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 23864,
+      "confirmed": 24027,
       "date": "2020-04-27",
-      "deaths": 903,
-      "recovered": 1329
+      "deaths": 928,
+      "recovered": 1357
     }
   },
   "Qatar": {
@@ -741,23 +741,23 @@
   },
   "Spain": {
     "live": {
-      "confirmed": 236199,
+      "confirmed": 229422,
       "date": "2020-04-27",
       "deaths": 23521,
-      "recovered": 127609
+      "recovered": 120832
     }
   },
   "Sweden": {
     "live": {
-      "confirmed": 18640,
+      "confirmed": 18926,
       "date": "2020-04-27",
-      "deaths": 2194,
+      "deaths": 2274,
       "recovered": 1005
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 29061,
+      "confirmed": 29164,
       "date": "2020-04-27",
       "deaths": 1640,
       "recovered": 21800
@@ -1108,7 +1108,7 @@
       "confirmed": 1887,
       "date": "2020-04-27",
       "deaths": 8,
-      "recovered": 826
+      "recovered": 880
     }
   }
 }
