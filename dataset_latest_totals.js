@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 47180,
-        "deaths": 2661,
+        "confirmed": 48068,
+        "deaths": 2687,
         "recovered": 16883
       },
       "states": {
@@ -293,8 +293,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 1
         },
         "Grand Princess": {
-          "confirmed": -1,
-          "deaths": -1
+          "confirmed": 13,
+          "deaths": 0
         },
         "Manitoba": {
           "confirmed": 271,
@@ -313,8 +313,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Nova Scotia": {
-          "confirmed": -1,
-          "deaths": -1
+          "confirmed": 873,
+          "deaths": 24
         },
         "Ontario": {
           "confirmed": 15603,
@@ -1628,7 +1628,7 @@ var covid19_dataset_latest_totals = {
         "confirmed": 957726,
         "deaths": 49207,
         "recovered": 91508,
-        "tested": 5490295
+        "tested": 5447422
       },
       "states": {
         "AK": {
@@ -1774,7 +1774,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 37778,
           "deaths": 3315,
           "recovered": 8342,
-          "tested": 193879
+          "tested": 151006
         },
         "MN": {
           "confirmed": 3602,
