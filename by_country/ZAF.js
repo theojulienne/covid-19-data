@@ -391,6 +391,7 @@ var covid19_dataset_country_zaf = {
       1055,
       1473,
       1473,
+      1473,
       1473
     ]
   }

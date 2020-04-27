@@ -97,9 +97,11 @@ var covid19_dataset_country_dnk = {
           185,
           187,
           187,
+          187,
           187
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -291,6 +293,7 @@ var covid19_dataset_country_dnk = {
           178,
           178,
           178,
+          178,
           178
         ]
       }
@@ -392,9 +395,11 @@ var covid19_dataset_country_dnk = {
           11,
           11,
           11,
+          11,
           11
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -569,6 +574,7 @@ var covid19_dataset_country_dnk = {
           3,
           4,
           10,
+          11,
           11,
           11,
           11,

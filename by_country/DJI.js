@@ -293,6 +293,7 @@ var covid19_dataset_country_dji = {
       2,
       2,
       2,
+      2,
       2
     ],
     "recovered": [

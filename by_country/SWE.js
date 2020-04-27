@@ -391,6 +391,7 @@ var covid19_dataset_country_swe = {
       550,
       550,
       1005,
+      1005,
       1005
     ]
   }

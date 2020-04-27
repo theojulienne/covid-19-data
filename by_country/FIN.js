@@ -391,6 +391,7 @@ var covid19_dataset_country_fin = {
       2000,
       2000,
       2500,
+      2500,
       2500
     ]
   }

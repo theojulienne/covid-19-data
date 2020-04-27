@@ -298,7 +298,7 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
             live_date = live_sample['date']
             for key, timeseries in updated_dataset_totals.items():
                 if key not in live_sample: continue
-                if global_dates.index(live_date) == len(timeseries) and live_sample.get(key) > timeseries[-1]:
+                if global_dates.index(live_date) == len(timeseries) and live_sample.get(key) > last_set_timeseries_value(timeseries):
                     # we have a live sample that is the "next day from where we have data"
                     timeseries.append(live_sample[key])
 
@@ -306,6 +306,11 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
     dataset['total'].update(updated_dataset_totals)
 
     return dataset
+
+def last_set_timeseries_value(timeseries):
+    for entry in reversed(timeseries):
+        if entry is not None:
+            return entry
 
 for country_code in os.listdir('data_collation/by_state'):
     if os.path.isdir(os.path.join('data_collation/by_state', country_code)):
