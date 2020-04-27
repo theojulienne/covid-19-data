@@ -581,23 +581,23 @@
     },
     "CUB": {
       "latest": {
-        "confirmed": 1369,
-        "deaths": 54,
-        "recovered": 501
+        "confirmed": 1389,
+        "deaths": 56,
+        "recovered": 525
       }
     },
     "CYP": {
       "latest": {
-        "confirmed": 822,
+        "confirmed": 817,
         "deaths": 14,
         "recovered": 148
       }
     },
     "CZE": {
       "latest": {
-        "confirmed": 7408,
-        "deaths": 221,
-        "recovered": 2600
+        "confirmed": 7431,
+        "deaths": 222,
+        "recovered": 2826
       }
     },
     "DEU": {
@@ -649,9 +649,9 @@
     },
     "DZA": {
       "latest": {
-        "confirmed": 3382,
-        "deaths": 425,
-        "recovered": 1508
+        "confirmed": 3517,
+        "deaths": 432,
+        "recovered": 1558
       }
     },
     "ECU": {
@@ -991,9 +991,9 @@
     },
     "ITA": {
       "latest": {
-        "confirmed": 197675,
-        "deaths": 26644,
-        "recovered": 64928
+        "confirmed": 199414,
+        "deaths": 26977,
+        "recovered": 66624
       }
     },
     "JAM": {
@@ -1117,15 +1117,15 @@
     },
     "LUX": {
       "latest": {
-        "confirmed": 3723,
+        "confirmed": 3729,
         "deaths": 88,
-        "recovered": 3104
+        "recovered": 3123
       }
     },
     "LVA": {
       "latest": {
-        "confirmed": 818,
-        "deaths": 13,
+        "confirmed": 812,
+        "deaths": 12,
         "recovered": 267
       }
     },
@@ -1366,8 +1366,8 @@
     },
     "POL": {
       "latest": {
-        "confirmed": 11761,
-        "deaths": 539,
+        "confirmed": 11902,
+        "deaths": 562,
         "recovered": 2466
       }
     },
@@ -1444,8 +1444,8 @@
     "SGP": {
       "latest": {
         "confirmed": 14423,
-        "deaths": 12,
-        "recovered": 1060
+        "deaths": 14,
+        "recovered": 1095
       }
     },
     "SLE": {
@@ -1626,7 +1626,7 @@
     "USA": {
       "latest": {
         "confirmed": 957726,
-        "deaths": 49092,
+        "deaths": 49207,
         "recovered": 91508,
         "tested": 5490295
       },
@@ -1871,13 +1871,13 @@
         },
         "PA": {
           "confirmed": 41165,
-          "deaths": 1566,
+          "deaths": 1674,
           "hospitalized": 1145,
           "tested": 198593
         },
         "RI": {
           "confirmed": 7439,
-          "deaths": 226,
+          "deaths": 233,
           "hospitalized": 691,
           "recovered": 433,
           "tested": 53403
@@ -1961,7 +1961,7 @@
       "latest": {
         "confirmed": 1887,
         "deaths": 8,
-        "recovered": 880
+        "recovered": 892
       }
     },
     "VAT": {
