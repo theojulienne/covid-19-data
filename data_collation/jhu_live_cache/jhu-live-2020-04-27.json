@@ -133,7 +133,7 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1300,
+      "confirmed": 1348,
       "date": "2020-04-27",
       "deaths": 56,
       "recovered": 205
@@ -765,10 +765,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2922,
+      "confirmed": 2931,
       "date": "2020-04-27",
-      "deaths": 51,
-      "recovered": 2594
+      "deaths": 52,
+      "recovered": 2609
     }
   },
   "Tunisia": {
@@ -1081,10 +1081,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 8617,
+      "confirmed": 9009,
       "date": "2020-04-27",
-      "deaths": 209,
-      "recovered": 840
+      "deaths": 220,
+      "recovered": 864
     }
   },
   "United Arab Emirates": {
@@ -1105,7 +1105,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1869,
+      "confirmed": 1887,
       "date": "2020-04-27",
       "deaths": 8,
       "recovered": 789

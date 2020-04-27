@@ -184,7 +184,7 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 1300,
+        "confirmed": 1348,
         "deaths": 56,
         "recovered": 205
       }
@@ -1555,9 +1555,9 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2922,
-        "deaths": 51,
-        "recovered": 2594
+        "confirmed": 2931,
+        "deaths": 52,
+        "recovered": 2609
       }
     },
     "TLS": {
@@ -1611,9 +1611,9 @@
     },
     "UKR": {
       "latest": {
-        "confirmed": 8617,
-        "deaths": 209,
-        "recovered": 840
+        "confirmed": 9009,
+        "deaths": 220,
+        "recovered": 864
       }
     },
     "URY": {
@@ -1959,7 +1959,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 1869,
+        "confirmed": 1887,
         "deaths": 8,
         "recovered": 789
       }
