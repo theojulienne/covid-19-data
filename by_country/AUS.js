@@ -9170,7 +9170,7 @@ var covid19_dataset_country_aus = {
           1337,
           1343,
           1346,
-          1000,
+          1349,
           1349
         ],
         "current_hospitalized": [
@@ -9269,7 +9269,7 @@ var covid19_dataset_country_aus = {
           27,
           27,
           24,
-          24,
+          21,
           23
         ],
         "current_icu": [
@@ -9368,7 +9368,7 @@ var covid19_dataset_country_aus = {
           10,
           11,
           11,
-          11,
+          10,
           11
         ],
         "deaths": [
@@ -9467,7 +9467,7 @@ var covid19_dataset_country_aus = {
           16,
           16,
           16,
-          16,
+          17,
           17
         ],
         "recovered": [
@@ -9566,7 +9566,7 @@ var covid19_dataset_country_aus = {
           1251,
           1254,
           1262,
-          1262,
+          1265,
           1280
         ],
         "tested": [
@@ -9665,7 +9665,7 @@ var covid19_dataset_country_aus = {
           93000,
           96000,
           98000,
-          98000,
+          101000,
           104000
         ]
       }
@@ -10455,7 +10455,7 @@ var covid19_dataset_country_aus = {
       6663,
       6680,
       6696,
-      6362,
+      6711,
       6716
     ],
     "current_hospitalized": [
@@ -10554,7 +10554,7 @@ var covid19_dataset_country_aus = {
       144,
       136,
       120,
-      118,
+      115,
       62
     ],
     "current_icu": [
@@ -10653,7 +10653,7 @@ var covid19_dataset_country_aus = {
       44,
       43,
       43,
-      43,
+      42,
       18
     ],
     "deaths": [
@@ -10752,7 +10752,7 @@ var covid19_dataset_country_aus = {
       79,
       81,
       83,
-      84,
+      85,
       85
     ],
     "recovered": [
@@ -10851,7 +10851,7 @@ var covid19_dataset_country_aus = {
       5047,
       5136,
       5376,
-      5538,
+      5541,
       5575
     ],
     "tested": [
@@ -10950,7 +10950,7 @@ var covid19_dataset_country_aus = {
       469740,
       487427,
       496625,
-      503449,
+      506449,
       514972
     ]
   }
