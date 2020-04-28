@@ -398,7 +398,8 @@ var covid19_dataset_country_svn = {
       211,
       219,
       221,
-      221
+      221,
+      223
     ]
   }
 };
