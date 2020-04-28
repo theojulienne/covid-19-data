@@ -58,12 +58,12 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 6725,
+        "confirmed": 6727,
         "current_hospitalized": 63,
         "current_icu": 18,
         "deaths": 86,
-        "recovered": 5604,
-        "tested": 523417
+        "recovered": 5603,
+        "tested": 528417
       },
       "states": {
         "ACT": {
@@ -116,12 +116,12 @@
           "tested": 9384
         },
         "VIC": {
-          "confirmed": 1349,
+          "confirmed": 1351,
           "current_hospitalized": 23,
           "current_icu": 11,
           "deaths": 17,
-          "recovered": 1280,
-          "tested": 104000
+          "recovered": 1279,
+          "tested": 109000
         },
         "WA": {
           "confirmed": 549,
@@ -1019,9 +1019,9 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 2835,
+        "confirmed": 2860,
         "deaths": 25,
-        "recovered": 720
+        "recovered": 725
       }
     },
     "KEN": {

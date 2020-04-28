@@ -198,7 +198,8 @@ var covid19_dataset_country_kaz = {
       2482,
       2601,
       2717,
-      2835
+      2835,
+      2860
     ],
     "deaths": [
       0,
@@ -396,7 +397,8 @@ var covid19_dataset_country_kaz = {
       604,
       646,
       682,
-      720
+      720,
+      725
     ]
   }
 };

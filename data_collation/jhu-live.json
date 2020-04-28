@@ -493,10 +493,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2835,
+      "confirmed": 2860,
       "date": "2020-04-28",
       "deaths": 25,
-      "recovered": 720
+      "recovered": 725
     }
   },
   "Korea, South": {
