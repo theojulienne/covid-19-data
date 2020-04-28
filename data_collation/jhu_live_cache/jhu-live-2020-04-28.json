@@ -109,10 +109,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 950,
+      "confirmed": 1014,
       "date": "2020-04-28",
-      "deaths": 50,
-      "recovered": 80
+      "deaths": 53,
+      "recovered": 98
     }
   },
   "Bosnia and Herzegovina": {
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 66501,
+      "confirmed": 67446,
       "date": "2020-04-28",
-      "deaths": 4543,
+      "deaths": 4603,
       "recovered": 31142
     }
   },
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 15962,
+          "confirmed": 15970,
           "date": "2020-04-28",
-          "deaths": 1022,
+          "deaths": 1023,
           "recovered": 0
         }
       },
@@ -268,9 +268,9 @@
       "Zhejiang": {
         "live": {
           "confirmed": 1268,
-          "date": "2020-04-27",
+          "date": "2020-04-28",
           "deaths": 1,
-          "recovered": 1258
+          "recovered": 1261
         }
       }
     }

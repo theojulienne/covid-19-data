@@ -197,7 +197,8 @@ var covid19_dataset_country_gab = {
       167,
       172,
       176,
-      176
+      176,
+      211
     ],
     "deaths": [
       0,
@@ -293,6 +294,7 @@ var covid19_dataset_country_gab = {
       1,
       1,
       2,
+      3,
       3,
       3,
       3
@@ -393,7 +395,8 @@ var covid19_dataset_country_gab = {
       24,
       26,
       30,
-      30
+      30,
+      43
     ]
   }
 };

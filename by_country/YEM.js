@@ -197,9 +197,11 @@ var covid19_dataset_country_yem = {
       1,
       1,
       1,
+      1,
       1
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -391,6 +393,7 @@ var covid19_dataset_country_yem = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1
