@@ -413,10 +413,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 2583,
+      "confirmed": 2649,
       "date": "2020-04-28",
-      "deaths": 280,
-      "recovered": 498
+      "deaths": 291,
+      "recovered": 516
     }
   },
   "Iceland": {
@@ -493,7 +493,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2860,
+      "confirmed": 2950,
       "date": "2020-04-28",
       "deaths": 25,
       "recovered": 725
@@ -671,7 +671,7 @@
     "live": {
       "confirmed": 11339,
       "date": "2020-04-28",
-      "deaths": 641,
+      "deaths": 646,
       "recovered": 3141
     }
   },
@@ -799,9 +799,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 38259,
+          "confirmed": 38296,
           "date": "2020-04-28",
-          "deaths": 1579,
+          "deaths": 1583,
           "recovered": 0
         }
       },
@@ -847,7 +847,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11168,
+          "confirmed": 11127,
           "date": "2020-04-28",
           "deaths": 417,
           "recovered": 0
@@ -1081,10 +1081,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 9009,
+      "confirmed": 9410,
       "date": "2020-04-28",
-      "deaths": 220,
-      "recovered": 864
+      "deaths": 239,
+      "recovered": 992
     }
   },
   "United Arab Emirates": {
@@ -1105,7 +1105,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 1904,
+      "confirmed": 1924,
       "date": "2020-04-28",
       "deaths": 8,
       "recovered": 892
