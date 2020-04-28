@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 49701,
-        "deaths": 2844,
+        "confirmed": 49751,
+        "deaths": 2851,
         "recovered": 18268
       },
       "states": {
@@ -317,8 +317,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 27
         },
         "Ontario": {
-          "confirmed": 16040,
-          "deaths": 1023
+          "confirmed": 16090,
+          "deaths": 1030
         },
         "Prince Edward Island": {
           "confirmed": 26,
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 159038,
-        "deaths": 6161,
+        "confirmed": 159137,
+        "deaths": 6174,
         "recovered": 117400
       }
     },
@@ -886,8 +886,8 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "latest": {
-        "confirmed": 2534,
-        "deaths": 136,
+        "confirmed": 2566,
+        "deaths": 138,
         "recovered": 577
       }
     },
@@ -1300,7 +1300,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 7599,
+        "confirmed": 7619,
         "deaths": 206,
         "recovered": 32
       }
@@ -1331,8 +1331,8 @@ var covid19_dataset_latest_totals = {
     },
     "PAK": {
       "latest": {
-        "confirmed": 14079,
-        "deaths": 301,
+        "confirmed": 14514,
+        "deaths": 312,
         "recovered": 3233
       }
     },
@@ -1585,7 +1585,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 114653,
         "deaths": 2992,
-        "recovered": 33791
+        "recovered": 38809
       }
     },
     "TWN": {
@@ -1626,7 +1626,7 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "latest": {
         "confirmed": 979630,
-        "deaths": 50435,
+        "deaths": 50629,
         "recovered": 95252,
         "tested": 5582497
       },
@@ -1827,7 +1827,7 @@ var covid19_dataset_latest_totals = {
         },
         "NJ": {
           "confirmed": 111188,
-          "deaths": 6044,
+          "deaths": 6309,
           "recovered": 682,
           "tested": 227775
         },
@@ -1871,7 +1871,7 @@ var covid19_dataset_latest_totals = {
         },
         "PA": {
           "confirmed": 42050,
-          "deaths": 1789,
+          "deaths": 1718,
           "hospitalized": 1145,
           "tested": 203422
         },
@@ -1961,7 +1961,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 1939,
         "deaths": 8,
-        "recovered": 958
+        "recovered": 992
       }
     },
     "VAT": {
