@@ -198,7 +198,8 @@ var covid19_dataset_country_fin = {
       4395,
       4475,
       4576,
-      4695
+      4695,
+      4740
     ],
     "deaths": [
       0,

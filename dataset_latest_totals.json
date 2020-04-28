@@ -191,9 +191,9 @@
     },
     "BHR": {
       "latest": {
-        "confirmed": 2723,
+        "confirmed": 2810,
         "deaths": 8,
-        "recovered": 1218
+        "recovered": 1246
       }
     },
     "BHS": {
@@ -684,16 +684,16 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 229422,
-        "deaths": 23521,
-        "recovered": 120832
+        "confirmed": 232128,
+        "deaths": 23822,
+        "recovered": 123903
       }
     },
     "EST": {
       "latest": {
-        "confirmed": 1647,
+        "confirmed": 1660,
         "deaths": 50,
-        "recovered": 233
+        "recovered": 240
       }
     },
     "ETH": {
@@ -705,7 +705,7 @@
     },
     "FIN": {
       "latest": {
-        "confirmed": 4695,
+        "confirmed": 4740,
         "deaths": 193,
         "recovered": 2500
       }
@@ -963,9 +963,9 @@
     },
     "IRN": {
       "latest": {
-        "confirmed": 91472,
-        "deaths": 5806,
-        "recovered": 70933
+        "confirmed": 92584,
+        "deaths": 5877,
+        "recovered": 72439
       }
     },
     "IRQ": {
@@ -1961,7 +1961,7 @@
       "latest": {
         "confirmed": 1939,
         "deaths": 8,
-        "recovered": 909
+        "recovered": 958
       }
     },
     "VAT": {
