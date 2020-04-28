@@ -293,10 +293,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 2039,
+      "confirmed": 2047,
       "date": "2020-04-28",
-      "deaths": 59,
-      "recovered": 1166
+      "deaths": 63,
+      "recovered": 1232
     }
   },
   "Cuba": {
@@ -319,8 +319,8 @@
     "live": {
       "confirmed": 8851,
       "date": "2020-04-28",
-      "deaths": 427,
-      "recovered": 5959
+      "deaths": 434,
+      "recovered": 6121
     }
   },
   "Djibouti": {
@@ -384,7 +384,7 @@
       "confirmed": 158758,
       "date": "2020-04-28",
       "deaths": 6126,
-      "recovered": 114500
+      "recovered": 117400
     }
   },
   "Ghana": {
@@ -493,10 +493,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 2982,
+      "confirmed": 3019,
       "date": "2020-04-28",
       "deaths": 25,
-      "recovered": 725
+      "recovered": 754
     }
   },
   "Korea, South": {
@@ -509,10 +509,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 3288,
+      "confirmed": 3440,
       "date": "2020-04-28",
-      "deaths": 22,
-      "recovered": 1012
+      "deaths": 23,
+      "recovered": 1176
     }
   },
   "Lithuania": {
@@ -565,9 +565,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 38245,
+      "confirmed": 38416,
       "date": "2020-04-28",
-      "deaths": 4518,
+      "deaths": 4566,
       "recovered": 0
     }
   },
@@ -653,18 +653,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 24027,
+      "confirmed": 24322,
       "date": "2020-04-28",
-      "deaths": 928,
-      "recovered": 1357
+      "deaths": 948,
+      "recovered": 1389
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 11244,
+      "confirmed": 11921,
       "date": "2020-04-28",
       "deaths": 10,
-      "recovered": 1066
+      "recovered": 1134
     }
   },
   "Romania": {
@@ -741,9 +741,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 18926,
+      "confirmed": 19621,
       "date": "2020-04-28",
-      "deaths": 2274,
+      "deaths": 2355,
       "recovered": 1005
     }
   },
