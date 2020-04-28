@@ -312,7 +312,7 @@
       "confirmed": 7445,
       "date": "2020-04-28",
       "deaths": 223,
-      "recovered": 2826
+      "recovered": 2834
     }
   },
   "Denmark": {
@@ -485,7 +485,7 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 14153,
+      "confirmed": 13614,
       "date": "2020-04-28",
       "deaths": 385,
       "recovered": 1899
@@ -799,9 +799,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 38161,
+          "confirmed": 38259,
           "date": "2020-04-28",
-          "deaths": 1577,
+          "deaths": 1579,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36816,
+          "confirmed": 36906,
           "date": "2020-04-28",
-          "deaths": 1629,
+          "deaths": 1649,
           "recovered": 0
         }
       },
