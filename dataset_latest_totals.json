@@ -142,9 +142,9 @@
     },
     "AZE": {
       "latest": {
-        "confirmed": 1678,
+        "confirmed": 1717,
         "deaths": 22,
-        "recovered": 1162
+        "recovered": 1221
       }
     },
     "BDI": {
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 158758,
-        "deaths": 6126,
+        "confirmed": 158768,
+        "deaths": 6136,
         "recovered": 117400
       }
     },
@@ -1173,9 +1173,9 @@
     },
     "MKD": {
       "latest": {
-        "confirmed": 1399,
-        "deaths": 65,
-        "recovered": 553
+        "confirmed": 1421,
+        "deaths": 71,
+        "recovered": 589
       }
     },
     "MLI": {
@@ -1422,9 +1422,9 @@
     },
     "SAU": {
       "latest": {
-        "confirmed": 18811,
-        "deaths": 144,
-        "recovered": 2531
+        "confirmed": 20077,
+        "deaths": 152,
+        "recovered": 2784
       }
     },
     "SDN": {
