@@ -393,8 +393,7 @@ var covid19_dataset_country_pan = {
       271,
       319,
       338,
-      338,
-      369
+      338
     ]
   }
 };

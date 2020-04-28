@@ -197,8 +197,7 @@ var covid19_dataset_country_ltu = {
       1398,
       1410,
       1426,
-      1438,
-      1449
+      1438
     ],
     "deaths": [
       0,
@@ -394,8 +393,7 @@ var covid19_dataset_country_ltu = {
       399,
       430,
       460,
-      467,
-      474
+      467
     ]
   }
 };
