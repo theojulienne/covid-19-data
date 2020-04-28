@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3009,
+          "confirmed": 3016,
           "date": "2020-04-28",
           "deaths": 39,
           "recovered": 2243
@@ -144,16 +144,16 @@
       "confirmed": 1705,
       "date": "2020-04-28",
       "deaths": 58,
-      "recovered": 805
+      "recovered": 915
     }
   },
   "Canada": {
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 4696,
+          "confirmed": 4850,
           "date": "2020-04-28",
-          "deaths": 75,
+          "deaths": 80,
           "recovered": 0
         }
       },
@@ -175,7 +175,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 16492,
+          "confirmed": 16496,
           "date": "2020-04-28",
           "deaths": 1072,
           "recovered": 0
@@ -204,7 +204,7 @@
       "Anhui": {
         "live": {
           "confirmed": 991,
-          "date": "2020-04-24",
+          "date": "2020-04-28",
           "deaths": 6,
           "recovered": 985
         }
@@ -228,7 +228,7 @@
       "Henan": {
         "live": {
           "confirmed": 1276,
-          "date": "2020-04-14",
+          "date": "2020-04-28",
           "deaths": 22,
           "recovered": 1254
         }
@@ -244,7 +244,7 @@
       "Hubei": {
         "live": {
           "confirmed": 68128,
-          "date": "2020-04-27",
+          "date": "2020-04-28",
           "deaths": 4512,
           "recovered": 63616
         }
@@ -252,7 +252,7 @@
       "Hunan": {
         "live": {
           "confirmed": 1019,
-          "date": "2020-04-18",
+          "date": "2020-04-28",
           "deaths": 4,
           "recovered": 1015
         }
@@ -260,7 +260,7 @@
       "Jiangxi": {
         "live": {
           "confirmed": 937,
-          "date": "2020-04-10",
+          "date": "2020-04-28",
           "deaths": 1,
           "recovered": 936
         }
@@ -325,10 +325,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 1035,
+      "confirmed": 1072,
       "date": "2020-04-28",
       "deaths": 2,
-      "recovered": 477
+      "recovered": 498
     }
   },
   "Dominican Republic": {
@@ -376,14 +376,14 @@
       "confirmed": 167605,
       "date": "2020-04-28",
       "deaths": 23660,
-      "recovered": 45513
+      "recovered": 46886
     }
   },
   "Germany": {
     "live": {
-      "confirmed": 159431,
+      "confirmed": 159735,
       "date": "2020-04-28",
-      "deaths": 6215,
+      "deaths": 6280,
       "recovered": 117400
     }
   },
@@ -405,10 +405,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 1163,
+      "confirmed": 1240,
       "date": "2020-04-28",
       "deaths": 7,
-      "recovered": 246
+      "recovered": 269
     }
   },
   "Hungary": {
@@ -765,9 +765,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 967,
+      "confirmed": 975,
       "date": "2020-04-28",
-      "deaths": 39,
+      "deaths": 40,
       "recovered": 279
     }
   },
@@ -807,9 +807,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 10024,
+          "confirmed": 10333,
           "date": "2020-04-28",
-          "deaths": 545,
+          "deaths": 567,
           "recovered": 0
         }
       },
@@ -847,7 +847,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11336,
+          "confirmed": 11349,
           "date": "2020-04-28",
           "deaths": 432,
           "recovered": 0
@@ -879,9 +879,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1140,
+          "confirmed": 1224,
           "date": "2020-04-28",
-          "deaths": 83,
+          "deaths": 85,
           "recovered": 0
         }
       },
@@ -949,6 +949,14 @@
           "recovered": 0
         }
       },
+      "New Hampshire": {
+        "live": {
+          "confirmed": 896,
+          "date": "2020-04-28",
+          "deaths": 2,
+          "recovered": 0
+        }
+      },
       "New Jersey": {
         "live": {
           "confirmed": 110540,
@@ -960,7 +968,7 @@
       "New York": {
         "live": {
           "confirmed": 288667,
-          "date": "2020-04-27",
+          "date": "2020-04-28",
           "deaths": 22641,
           "recovered": 0
         }
@@ -1017,7 +1025,7 @@
         "live": {
           "confirmed": 4759,
           "date": "2020-04-28",
-          "deaths": 132,
+          "deaths": 69,
           "recovered": 0
         }
       },
@@ -1039,16 +1047,16 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 5592,
+          "confirmed": 4727,
           "date": "2020-04-28",
-          "deaths": 166,
+          "deaths": 134,
           "recovered": 0
         }
       },
       "Washington": {
         "live": {
           "confirmed": 10574,
-          "date": "2020-04-27",
+          "date": "2020-04-28",
           "deaths": 614,
           "recovered": 0
         }

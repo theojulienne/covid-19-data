@@ -275,14 +275,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 50931,
-        "deaths": 2976,
+        "confirmed": 51089,
+        "deaths": 2981,
         "recovered": 18268
       },
       "states": {
         "Alberta": {
-          "confirmed": 4696,
-          "deaths": 75
+          "confirmed": 4850,
+          "deaths": 80
         },
         "British Columbia": {
           "confirmed": 1998,
@@ -317,7 +317,7 @@
           "deaths": 27
         },
         "Ontario": {
-          "confirmed": 16492,
+          "confirmed": 16496,
           "deaths": 1072
         },
         "Prince Edward Island": {
@@ -541,7 +541,7 @@
       "latest": {
         "confirmed": 1705,
         "deaths": 58,
-        "recovered": 805
+        "recovered": 915
       }
     },
     "COD": {
@@ -602,16 +602,16 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 159431,
-        "deaths": 6215,
+        "confirmed": 159735,
+        "deaths": 6280,
         "recovered": 117400
       }
     },
     "DJI": {
       "latest": {
-        "confirmed": 1035,
+        "confirmed": 1072,
         "deaths": 2,
-        "recovered": 477
+        "recovered": 498
       }
     },
     "DMA": {
@@ -721,7 +721,7 @@
       "latest": {
         "confirmed": 167605,
         "deaths": 23660,
-        "recovered": 45513
+        "recovered": 46886
       },
       "states": {
         "French Guiana": {
@@ -858,9 +858,9 @@
     },
     "GIN": {
       "latest": {
-        "confirmed": 1163,
+        "confirmed": 1240,
         "deaths": 7,
-        "recovered": 246
+        "recovered": 269
       }
     },
     "GMB": {
@@ -1576,8 +1576,8 @@
     },
     "TUN": {
       "latest": {
-        "confirmed": 967,
-        "deaths": 39,
+        "confirmed": 975,
+        "deaths": 40,
         "recovered": 279
       }
     },
