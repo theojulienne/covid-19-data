@@ -595,8 +595,8 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 7431,
-        "deaths": 222,
+        "confirmed": 7445,
+        "deaths": 223,
         "recovered": 2826
       }
     },

@@ -309,9 +309,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7431,
+      "confirmed": 7445,
       "date": "2020-04-27",
-      "deaths": 222,
+      "deaths": 223,
       "recovered": 2826
     }
   },
@@ -783,9 +783,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1772,
+          "confirmed": 1784,
           "date": "2020-04-27",
-          "deaths": 76,
+          "deaths": 79,
           "recovered": 0
         }
       },
@@ -799,17 +799,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 38060,
+          "confirmed": 38161,
           "date": "2020-04-27",
-          "deaths": 1554,
+          "deaths": 1577,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 9692,
+          "confirmed": 10024,
           "date": "2020-04-27",
-          "deaths": 525,
+          "deaths": 543,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 10926,
+          "confirmed": 11168,
           "date": "2020-04-27",
-          "deaths": 385,
+          "deaths": 417,
           "recovered": 0
         }
       },
@@ -935,7 +935,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 876,
+          "confirmed": 908,
           "date": "2020-04-27",
           "deaths": 12,
           "recovered": 0
@@ -961,7 +961,7 @@
         "live": {
           "confirmed": 285703,
           "date": "2020-04-26",
-          "deaths": 22336,
+          "deaths": 22397,
           "recovered": 0
         }
       },
@@ -1015,7 +1015,7 @@
       },
       "South Dakota": {
         "live": {
-          "confirmed": 1854,
+          "confirmed": 1880,
           "date": "2020-04-27",
           "deaths": 6,
           "recovered": 0
