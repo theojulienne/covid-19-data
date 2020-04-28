@@ -403,7 +403,8 @@ var covid19_dataset_top10_by_deaths = {
           54043,
           59324,
           63100,
-          67446
+          67446,
+          68188
         ],
         "deaths": [
           0,
@@ -502,7 +503,8 @@ var covid19_dataset_top10_by_deaths = {
           3704,
           4057,
           4286,
-          4603
+          4603,
+          4674
         ],
         "recovered": [
           0,
@@ -902,7 +904,8 @@ var covid19_dataset_top10_by_deaths = {
           78109,
           78175,
           78277,
-          78374
+          78374,
+          78398
         ]
       }
     },
@@ -1006,7 +1009,7 @@ var covid19_dataset_top10_by_deaths = {
           156513,
           157770,
           158758,
-          158768
+          159038
         ],
         "deaths": [
           0,
@@ -1106,7 +1109,7 @@ var covid19_dataset_top10_by_deaths = {
           5877,
           5976,
           6126,
-          6136
+          6161
         ],
         "recovered": [
           0,
@@ -2519,7 +2522,8 @@ var covid19_dataset_top10_by_deaths = {
           192994,
           195351,
           197675,
-          199414
+          199414,
+          201505
         ],
         "deaths": [
           0,
@@ -2618,7 +2622,8 @@ var covid19_dataset_top10_by_deaths = {
           25969,
           26384,
           26644,
-          26977
+          26977,
+          27359
         ],
         "recovered": [
           0,
@@ -2717,7 +2722,8 @@ var covid19_dataset_top10_by_deaths = {
           60498,
           63120,
           64928,
-          66624
+          66624,
+          68941
         ]
       }
     },
@@ -2820,7 +2826,8 @@ var covid19_dataset_top10_by_deaths = {
           894821,
           930725,
           957675,
-          979528
+          979528,
+          979630
         ],
         "deaths": [
           0,
@@ -2920,7 +2927,7 @@ var covid19_dataset_top10_by_deaths = {
           47976,
           49069,
           50232,
-          50284
+          50435
         ],
         "recovered": [
           0,
