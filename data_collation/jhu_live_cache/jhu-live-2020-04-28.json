@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1363,
+      "confirmed": 1387,
       "date": "2020-04-28",
       "deaths": 58,
-      "recovered": 206
+      "recovered": 222
     }
   },
   "Cameroon": {
@@ -613,10 +613,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 13915,
+      "confirmed": 14079,
       "date": "2020-04-28",
-      "deaths": 292,
-      "recovered": 3029
+      "deaths": 301,
+      "recovered": 3233
     }
   },
   "Panama": {
@@ -757,10 +757,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2931,
+      "confirmed": 2938,
       "date": "2020-04-28",
-      "deaths": 52,
-      "recovered": 2609
+      "deaths": 54,
+      "recovered": 2652
     }
   },
   "Tunisia": {
