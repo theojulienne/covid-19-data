@@ -403,7 +403,7 @@ var covid19_dataset_country_tur = {
       29140,
       33791,
       38809,
-      44022
+      44040
     ]
   }
 };
