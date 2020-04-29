@@ -201,7 +201,7 @@ var covid19_dataset_country_deu = {
       157770,
       158758,
       159912,
-      160059
+      160479
     ],
     "deaths": [
       0,
