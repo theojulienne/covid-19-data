@@ -99,8 +99,7 @@ var covid19_dataset_country_can = {
           4017,
           4233,
           4480,
-          4696,
-          4850
+          4696
         ],
         "deaths": [
           0,
@@ -199,8 +198,7 @@ var covid19_dataset_country_can = {
           72,
           73,
           73,
-          75,
-          80
+          75
         ]
       }
     },
@@ -303,8 +301,7 @@ var covid19_dataset_country_can = {
           1853,
           1948,
           1948,
-          1998,
-          2053
+          1998
         ],
         "deaths": [
           0,
@@ -1718,8 +1715,7 @@ var covid19_dataset_country_can = {
           850,
           865,
           873,
-          900,
-          915
+          900
         ],
         "deaths": [
           0,
@@ -1818,8 +1814,7 @@ var covid19_dataset_country_can = {
           16,
           22,
           24,
-          24,
-          27
+          24
         ]
       }
     },
@@ -1922,8 +1917,7 @@ var covid19_dataset_country_can = {
           14550,
           15012,
           15568,
-          15970,
-          16496
+          15970
         ],
         "deaths": [
           0,
@@ -2022,8 +2016,7 @@ var covid19_dataset_country_can = {
           862,
           916,
           960,
-          1023,
-          1072
+          1023
         ]
       }
     },
@@ -2328,8 +2321,7 @@ var covid19_dataset_country_can = {
           22616,
           23267,
           24109,
-          24983,
-          25761
+          24983
         ],
         "deaths": [
           0,
@@ -2428,8 +2420,7 @@ var covid19_dataset_country_can = {
           1340,
           1446,
           1516,
-          1600,
-          1683
+          1600
         ]
       }
     },
@@ -3240,8 +3231,7 @@ var covid19_dataset_country_can = {
       44919,
       46371,
       48033,
-      49616,
-      51144
+      49616
     ],
     "deaths": [
       0,
@@ -3340,8 +3330,7 @@ var covid19_dataset_country_can = {
       2402,
       2571,
       2687,
-      2841,
-      2981
+      2841
     ],
     "recovered": [
       0,
