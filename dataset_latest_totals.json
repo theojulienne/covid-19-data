@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 71886,
-        "deaths": 5017,
+        "confirmed": 72899,
+        "deaths": 5063,
         "recovered": 32544
       }
     },
@@ -275,7 +275,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 51089,
+        "confirmed": 51144,
         "deaths": 2981,
         "recovered": 18268
       },
@@ -285,7 +285,7 @@
           "deaths": 80
         },
         "British Columbia": {
-          "confirmed": 1998,
+          "confirmed": 2053,
           "deaths": 104
         },
         "Diamond Princess": {
@@ -560,9 +560,9 @@
     },
     "COL": {
       "latest": {
-        "confirmed": 5597,
-        "deaths": 253,
-        "recovered": 1210
+        "confirmed": 5949,
+        "deaths": 269,
+        "recovered": 1268
       }
     },
     "CPV": {
@@ -595,9 +595,9 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 7486,
-        "deaths": 225,
-        "recovered": 2942
+        "confirmed": 7504,
+        "deaths": 227,
+        "recovered": 2948
       }
     },
     "DEU": {

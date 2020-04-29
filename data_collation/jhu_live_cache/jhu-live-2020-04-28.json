@@ -38,12 +38,12 @@
           "confirmed": 3016,
           "date": "2020-04-28",
           "deaths": 39,
-          "recovered": 2243
+          "recovered": 2266
         }
       },
       "Queensland": {
         "live": {
-          "confirmed": 1033,
+          "confirmed": 1034,
           "date": "2020-04-28",
           "deaths": 6,
           "recovered": 934
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 71886,
+      "confirmed": 72899,
       "date": "2020-04-28",
-      "deaths": 5017,
+      "deaths": 5063,
       "recovered": 32544
     }
   },
@@ -159,7 +159,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 1998,
+          "confirmed": 2053,
           "date": "2020-04-28",
           "deaths": 104,
           "recovered": 0
@@ -277,10 +277,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 5597,
+      "confirmed": 5949,
       "date": "2020-04-28",
-      "deaths": 253,
-      "recovered": 1210
+      "deaths": 269,
+      "recovered": 1268
     }
   },
   "Cote d'Ivoire": {
@@ -309,10 +309,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7486,
+      "confirmed": 7504,
       "date": "2020-04-28",
-      "deaths": 225,
-      "recovered": 2942
+      "deaths": 227,
+      "recovered": 2948
     }
   },
   "Denmark": {
@@ -783,7 +783,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 992,
+          "confirmed": 994,
           "date": "2020-04-28",
           "deaths": 46,
           "recovered": 0
@@ -847,9 +847,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11349,
+          "confirmed": 11359,
           "date": "2020-04-28",
-          "deaths": 432,
+          "deaths": 433,
           "recovered": 0
         }
       },
