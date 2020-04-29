@@ -109,10 +109,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 1014,
+      "confirmed": 1053,
       "date": "2020-04-29",
-      "deaths": 53,
-      "recovered": 98
+      "deaths": 55,
+      "recovered": 110
     }
   },
   "Bosnia and Herzegovina": {
@@ -621,10 +621,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 6021,
+      "confirmed": 6200,
       "date": "2020-04-29",
-      "deaths": 167,
-      "recovered": 455
+      "deaths": 176,
+      "recovered": 484
     }
   },
   "Peru": {

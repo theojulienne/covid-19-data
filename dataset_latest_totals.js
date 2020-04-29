@@ -59,11 +59,11 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "latest": {
         "confirmed": 6742,
-        "current_hospitalized": 76,
-        "current_icu": 23,
+        "current_hospitalized": 57,
+        "current_icu": 15,
         "deaths": 91,
-        "recovered": 5665,
-        "tested": 536044
+        "recovered": 5657,
+        "tested": 541227
       },
       "states": {
         "ACT": {
@@ -93,11 +93,11 @@ var covid19_dataset_latest_totals = {
         },
         "QLD": {
           "confirmed": 1034,
-          "current_hospitalized": 14,
-          "current_icu": 6,
+          "current_hospitalized": null,
+          "current_icu": null,
           "deaths": 6,
           "recovered": 934,
-          "tested": 101767
+          "tested": 104950
         },
         "SA": {
           "confirmed": 438,
@@ -117,11 +117,11 @@ var covid19_dataset_latest_totals = {
         },
         "VIC": {
           "confirmed": 1354,
-          "current_hospitalized": 23,
-          "current_icu": 11,
+          "current_hospitalized": 18,
+          "current_icu": 9,
           "deaths": 18,
-          "recovered": 1287,
-          "tested": 109000
+          "recovered": 1279,
+          "tested": 111000
         },
         "WA": {
           "confirmed": 550,
@@ -226,9 +226,9 @@ var covid19_dataset_latest_totals = {
     },
     "BOL": {
       "latest": {
-        "confirmed": 1014,
-        "deaths": 53,
-        "recovered": 98
+        "confirmed": 1053,
+        "deaths": 55,
+        "recovered": 110
       }
     },
     "BRA": {
@@ -1317,9 +1317,9 @@ var covid19_dataset_latest_totals = {
         "confirmed": 1474,
         "current_hospitalized": 11,
         "current_icu": 2,
-        "deaths": 19,
+        "deaths": 9,
         "recovered": 1229,
-        "tested": 126066
+        "tested": 128073
       }
     },
     "OMN": {
@@ -1338,9 +1338,9 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "latest": {
-        "confirmed": 6021,
-        "deaths": 167,
-        "recovered": 455
+        "confirmed": 6200,
+        "deaths": 176,
+        "recovered": 484
       }
     },
     "PER": {
