@@ -23,6 +23,9 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
+    - name: Install dependencies
+      run: pip3 install requests
+
     # Runs a single command using the runners shell
     - name: Run hourly data updates
       run: run-parts --regex='.*\.py$' --verbose scripts.hourly/
