@@ -125,10 +125,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 74493,
+      "confirmed": 78162,
       "date": "2020-04-29",
-      "deaths": 5158,
-      "recovered": 32544
+      "deaths": 5466,
+      "recovered": 34132
     }
   },
   "Bulgaria": {
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 16690,
+          "confirmed": 16937,
           "date": "2020-04-29",
-          "deaths": 1103,
+          "deaths": 1145,
           "recovered": 0
         }
       },
@@ -629,10 +629,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 31190,
+      "confirmed": 33931,
       "date": "2020-04-29",
-      "deaths": 854,
-      "recovered": 9179
+      "deaths": 943,
+      "recovered": 10037
     }
   },
   "Philippines": {
@@ -799,9 +799,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 39378,
+          "confirmed": 40982,
           "date": "2020-04-29",
-          "deaths": 1663,
+          "deaths": 1722,
           "recovered": 0
         }
       },
@@ -961,7 +961,7 @@
         "live": {
           "confirmed": 293057,
           "date": "2020-04-29",
-          "deaths": 23113,
+          "deaths": 23195,
           "recovered": 0
         }
       },
