@@ -317,7 +317,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 8851,
+      "confirmed": 9008,
       "date": "2020-04-29",
       "deaths": 434,
       "recovered": 6121
@@ -469,10 +469,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 15728,
+      "confirmed": 15782,
       "date": "2020-04-29",
-      "deaths": 210,
-      "recovered": 7746
+      "deaths": 212,
+      "recovered": 7929
     }
   },
   "Italy": {
@@ -517,10 +517,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1344,
+      "confirmed": 1375,
       "date": "2020-04-29",
-      "deaths": 44,
-      "recovered": 536
+      "deaths": 45,
+      "recovered": 563
     }
   },
   "Luxembourg": {
@@ -605,7 +605,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 2131,
+      "confirmed": 2274,
       "date": "2020-04-29",
       "deaths": 10,
       "recovered": 364
@@ -637,17 +637,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 7958,
+      "confirmed": 8212,
       "date": "2020-04-29",
-      "deaths": 530,
-      "recovered": 975
+      "deaths": 558,
+      "recovered": 1023
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 12218,
+      "confirmed": 12415,
       "date": "2020-04-29",
-      "deaths": 596,
+      "deaths": 606,
       "recovered": 3025
     }
   },
@@ -677,10 +677,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 93558,
+      "confirmed": 99399,
       "date": "2020-04-29",
-      "deaths": 867,
-      "recovered": 8456
+      "deaths": 972,
+      "recovered": 10286
     }
   },
   "Saudi Arabia": {
@@ -701,7 +701,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 14951,
+      "confirmed": 15641,
       "date": "2020-04-29",
       "deaths": 14,
       "recovered": 1128
@@ -709,10 +709,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1384,
+      "confirmed": 1391,
       "date": "2020-04-29",
-      "deaths": 20,
-      "recovered": 423
+      "deaths": 22,
+      "recovered": 484
     }
   },
   "Slovenia": {
@@ -1100,7 +1100,7 @@
       "confirmed": 1955,
       "date": "2020-04-29",
       "deaths": 8,
-      "recovered": 992
+      "recovered": 994
     }
   }
 }
