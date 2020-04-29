@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 52162,
-        "deaths": 3085,
+        "confirmed": 52209,
+        "deaths": 3094,
         "recovered": 19231
       },
       "states": {
@@ -317,8 +317,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 28
         },
         "Ontario": {
-          "confirmed": 16643,
-          "deaths": 1094
+          "confirmed": 16690,
+          "deaths": 1103
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -540,8 +540,8 @@ var covid19_dataset_latest_totals = {
     "CMR": {
       "latest": {
         "confirmed": 1806,
-        "deaths": 59,
-        "recovered": 915
+        "deaths": 61,
+        "recovered": 934
       }
     },
     "COD": {
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 160943,
-        "deaths": 6376,
+        "confirmed": 161173,
+        "deaths": 6399,
         "recovered": 120400
       }
     },
@@ -858,9 +858,9 @@ var covid19_dataset_latest_totals = {
     },
     "GIN": {
       "latest": {
-        "confirmed": 1240,
+        "confirmed": 1351,
         "deaths": 7,
-        "recovered": 269
+        "recovered": 313
       }
     },
     "GMB": {
@@ -949,16 +949,16 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 31787,
-        "deaths": 1008,
-        "recovered": 7796
+        "confirmed": 33062,
+        "deaths": 1079,
+        "recovered": 8437
       }
     },
     "IRL": {
       "latest": {
-        "confirmed": 19877,
-        "deaths": 1159,
-        "recovered": 9233
+        "confirmed": 20253,
+        "deaths": 1190,
+        "recovered": 13386
       }
     },
     "IRN": {
@@ -1576,9 +1576,9 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "latest": {
-        "confirmed": 975,
+        "confirmed": 980,
         "deaths": 40,
-        "recovered": 279
+        "recovered": 294
       }
     },
     "TUR": {
