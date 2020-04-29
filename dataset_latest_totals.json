@@ -30,9 +30,9 @@
     },
     "ARE": {
       "latest": {
-        "confirmed": 11380,
-        "deaths": 89,
-        "recovered": 2181
+        "confirmed": 11929,
+        "deaths": 98,
+        "recovered": 2329
       }
     },
     "ARG": {
@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 51299,
-        "deaths": 3000,
+        "confirmed": 52154,
+        "deaths": 3079,
         "recovered": 19231
       },
       "states": {
@@ -317,7 +317,7 @@
           "deaths": 28
         },
         "Ontario": {
-          "confirmed": 16629,
+          "confirmed": 16635,
           "deaths": 1088
         },
         "Prince Edward Island": {
@@ -325,8 +325,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 25761,
-          "deaths": 1683
+          "confirmed": 26610,
+          "deaths": 1762
         },
         "Recovered": {
           "confirmed": 0,
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 160479,
-        "deaths": 6374,
+        "confirmed": 160943,
+        "deaths": 6376,
         "recovered": 120400
       }
     },
@@ -970,9 +970,9 @@
     },
     "IRQ": {
       "latest": {
-        "confirmed": 1928,
-        "deaths": 90,
-        "recovered": 1319
+        "confirmed": 2003,
+        "deaths": 92,
+        "recovered": 1346
       }
     },
     "ISL": {
@@ -1626,7 +1626,7 @@
     "USA": {
       "latest": {
         "confirmed": 1004086,
-        "deaths": 57926,
+        "deaths": 57950,
         "recovered": 139165,
         "tested": 5784678
       },
@@ -1871,7 +1871,7 @@
         },
         "PA": {
           "confirmed": 43264,
-          "deaths": 2015,
+          "deaths": 2039,
           "hospitalized": 1145,
           "tested": 209088
         },

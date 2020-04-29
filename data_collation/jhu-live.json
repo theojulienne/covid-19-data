@@ -175,7 +175,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 16629,
+          "confirmed": 16635,
           "date": "2020-04-29",
           "deaths": 1088,
           "recovered": 0
@@ -183,9 +183,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 25761,
+          "confirmed": 26610,
           "date": "2020-04-29",
-          "deaths": 1683,
+          "deaths": 1762,
           "recovered": 0
         }
       }
@@ -381,9 +381,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 160479,
+      "confirmed": 160943,
       "date": "2020-04-29",
-      "deaths": 6374,
+      "deaths": 6376,
       "recovered": 120400
     }
   },
@@ -453,10 +453,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1928,
+      "confirmed": 2003,
       "date": "2020-04-29",
-      "deaths": 90,
-      "recovered": 1319
+      "deaths": 92,
+      "recovered": 1346
     }
   },
   "Ireland": {
@@ -921,7 +921,7 @@
         "live": {
           "confirmed": 1633,
           "date": "2020-04-29",
-          "deaths": 193,
+          "deaths": 209,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 38840,
+          "confirmed": 39198,
           "date": "2020-04-29",
-          "deaths": 2015,
+          "deaths": 2039,
           "recovered": 0
         }
       },
@@ -1007,7 +1007,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 7108,
+          "confirmed": 7555,
           "date": "2020-04-29",
           "deaths": 251,
           "recovered": 0
@@ -1015,9 +1015,9 @@
       },
       "South Dakota": {
         "live": {
-          "confirmed": 1939,
+          "confirmed": 1984,
           "date": "2020-04-29",
-          "deaths": 6,
+          "deaths": 8,
           "recovered": 0
         }
       },
@@ -1081,10 +1081,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 11380,
+      "confirmed": 11929,
       "date": "2020-04-29",
-      "deaths": 89,
-      "recovered": 2181
+      "deaths": 98,
+      "recovered": 2329
     }
   },
   "United Kingdom": {
