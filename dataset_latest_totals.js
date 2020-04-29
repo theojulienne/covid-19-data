@@ -360,7 +360,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 83940,
         "deaths": 4637,
-        "recovered": 78422
+        "recovered": 78441
       },
       "states": {
         "Anhui": {
@@ -426,7 +426,7 @@ var covid19_dataset_latest_totals = {
         "Hong Kong": {
           "confirmed": 1037,
           "deaths": 4,
-          "recovered": 811
+          "recovered": 830
         },
         "Hubei": {
           "confirmed": 68128,
@@ -684,9 +684,9 @@ var covid19_dataset_latest_totals = {
     },
     "ESP": {
       "latest": {
-        "confirmed": 232128,
-        "deaths": 23822,
-        "recovered": 123903
+        "confirmed": 236899,
+        "deaths": 24275,
+        "recovered": 132929
       }
     },
     "EST": {
@@ -706,7 +706,7 @@ var covid19_dataset_latest_totals = {
     "FIN": {
       "latest": {
         "confirmed": 4906,
-        "deaths": 199,
+        "deaths": 206,
         "recovered": 2800
       }
     },
@@ -977,9 +977,9 @@ var covid19_dataset_latest_totals = {
     },
     "ISL": {
       "latest": {
-        "confirmed": 1795,
+        "confirmed": 1797,
         "deaths": 10,
-        "recovered": 1636
+        "recovered": 1656
       }
     },
     "ISR": {
@@ -1373,9 +1373,9 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "latest": {
-        "confirmed": 24322,
-        "deaths": 948,
-        "recovered": 1389
+        "confirmed": 24505,
+        "deaths": 973,
+        "recovered": 1470
       }
     },
     "PRY": {
@@ -1422,9 +1422,9 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 20077,
-        "deaths": 152,
-        "recovered": 2784
+        "confirmed": 21402,
+        "deaths": 157,
+        "recovered": 2953
       }
     },
     "SDN": {
@@ -1961,7 +1961,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 1969,
         "deaths": 8,
-        "recovered": 1055
+        "recovered": 1066
       }
     },
     "VAT": {
