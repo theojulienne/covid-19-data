@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1399,
+      "confirmed": 1437,
       "date": "2020-04-29",
-      "deaths": 58,
-      "recovered": 222
+      "deaths": 61,
+      "recovered": 243
     }
   },
   "Cameroon": {
@@ -384,7 +384,7 @@
       "confirmed": 159912,
       "date": "2020-04-29",
       "deaths": 6314,
-      "recovered": 117400
+      "recovered": 120400
     }
   },
   "Ghana": {
@@ -1073,10 +1073,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 9410,
+      "confirmed": 9866,
       "date": "2020-04-29",
-      "deaths": 239,
-      "recovered": 992
+      "deaths": 250,
+      "recovered": 1103
     }
   },
   "United Arab Emirates": {
