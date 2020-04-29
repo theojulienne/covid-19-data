@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 72899,
+      "confirmed": 73235,
       "date": "2020-04-29",
-      "deaths": 5063,
+      "deaths": 5083,
       "recovered": 32544
     }
   },
@@ -211,10 +211,10 @@
       },
       "Guangdong": {
         "live": {
-          "confirmed": 1587,
+          "confirmed": 1588,
           "date": "2020-04-29",
           "deaths": 8,
-          "recovered": 1547
+          "recovered": 1554
         }
       },
       "Heilongjiang": {
@@ -270,7 +270,7 @@
           "confirmed": 1268,
           "date": "2020-04-29",
           "deaths": 1,
-          "recovered": 1261
+          "recovered": 1262
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10752,
+      "confirmed": 10761,
       "date": "2020-04-29",
-      "deaths": 244,
-      "recovered": 8854
+      "deaths": 246,
+      "recovered": 8922
     }
   },
   "Kuwait": {
@@ -847,7 +847,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11376,
+          "confirmed": 11378,
           "date": "2020-04-29",
           "deaths": 433,
           "recovered": 0
