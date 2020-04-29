@@ -200,7 +200,8 @@ var covid19_dataset_country_uzb = {
       1862,
       1869,
       1904,
-      1939
+      1939,
+      1955
     ],
     "deaths": [
       0,
