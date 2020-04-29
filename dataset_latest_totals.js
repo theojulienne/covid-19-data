@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 52154,
-        "deaths": 3079,
+        "confirmed": 52162,
+        "deaths": 3085,
         "recovered": 19231
       },
       "states": {
@@ -317,8 +317,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 28
         },
         "Ontario": {
-          "confirmed": 16635,
-          "deaths": 1088
+          "confirmed": 16643,
+          "deaths": 1094
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -345,7 +345,7 @@ var covid19_dataset_latest_totals = {
     "CHE": {
       "latest": {
         "confirmed": 29407,
-        "deaths": 1703,
+        "deaths": 1716,
         "recovered": 22600
       }
     },
@@ -720,8 +720,8 @@ var covid19_dataset_latest_totals = {
     "FRA": {
       "latest": {
         "confirmed": 167605,
-        "deaths": 23660,
-        "recovered": 46886
+        "deaths": 24087,
+        "recovered": 48228
       },
       "states": {
         "French Guiana": {
@@ -1626,7 +1626,7 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "latest": {
         "confirmed": 1004086,
-        "deaths": 57950,
+        "deaths": 58437,
         "recovered": 139165,
         "tested": 5784678
       },
@@ -1845,7 +1845,7 @@ var covid19_dataset_latest_totals = {
         },
         "NY": {
           "confirmed": 295106,
-          "deaths": 22626,
+          "deaths": 23113,
           "hospitalized": 64318,
           "recovered": 51673,
           "tested": 844994
@@ -1959,8 +1959,8 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "latest": {
-        "confirmed": 1969,
-        "deaths": 8,
+        "confirmed": 2002,
+        "deaths": 9,
         "recovered": 1096
       }
     },
@@ -2001,8 +2001,8 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "latest": {
-        "confirmed": 4996,
-        "deaths": 93,
+        "confirmed": 5350,
+        "deaths": 103,
         "recovered": 2073
       }
     },
