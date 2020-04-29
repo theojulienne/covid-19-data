@@ -1331,9 +1331,9 @@
     },
     "PAK": {
       "latest": {
-        "confirmed": 14612,
-        "deaths": 312,
-        "recovered": 3233
+        "confirmed": 14885,
+        "deaths": 327,
+        "recovered": 3425
       }
     },
     "PAN": {
@@ -1627,7 +1627,7 @@
       "latest": {
         "confirmed": 1003974,
         "deaths": 57477,
-        "recovered": 139122,
+        "recovered": 139165,
         "tested": 5784678
       },
       "states": {
@@ -1846,8 +1846,8 @@
         "NY": {
           "confirmed": 295106,
           "deaths": 22641,
-          "hospitalized": 64275,
-          "recovered": 51630,
+          "hospitalized": 64318,
+          "recovered": 51673,
           "tested": 844994
         },
         "OH": {

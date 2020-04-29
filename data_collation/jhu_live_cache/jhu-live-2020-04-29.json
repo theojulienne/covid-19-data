@@ -613,10 +613,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 14612,
+      "confirmed": 14885,
       "date": "2020-04-29",
-      "deaths": 312,
-      "recovered": 3233
+      "deaths": 327,
+      "recovered": 3425
     }
   },
   "Panama": {
