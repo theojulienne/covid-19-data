@@ -275,14 +275,14 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 54232,
-        "deaths": 3300,
+        "confirmed": 54422,
+        "deaths": 3303,
         "recovered": 20327
       },
       "states": {
         "Alberta": {
-          "confirmed": 5165,
-          "deaths": 87
+          "confirmed": 5355,
+          "deaths": 90
         },
         "British Columbia": {
           "confirmed": 2087,
@@ -602,8 +602,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 162530,
-        "deaths": 6572,
+        "confirmed": 163009,
+        "deaths": 6623,
         "recovered": 123500
       }
     },
@@ -684,9 +684,9 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 239639,
+        "confirmed": 213435,
         "deaths": 24543,
-        "recovered": 137984
+        "recovered": 112050
       }
     },
     "EST": {
@@ -719,7 +719,7 @@
     },
     "FRA": {
       "latest": {
-        "confirmed": 165093,
+        "confirmed": 165764,
         "deaths": 24376,
         "recovered": 49476
       },
@@ -1478,9 +1478,9 @@
     },
     "SRB": {
       "latest": {
-        "confirmed": 6630,
-        "deaths": 125,
-        "recovered": 870
+        "confirmed": 9009,
+        "deaths": 179,
+        "recovered": 1343
       }
     },
     "SSD": {
@@ -1576,9 +1576,9 @@
     },
     "TUN": {
       "latest": {
-        "confirmed": 980,
-        "deaths": 40,
-        "recovered": 294
+        "confirmed": 994,
+        "deaths": 41,
+        "recovered": 305
       }
     },
     "TUR": {

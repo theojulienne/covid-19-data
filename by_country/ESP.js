@@ -203,7 +203,7 @@ var covid19_dataset_country_esp = {
       209465,
       210773,
       212917,
-      239639
+      213435
     ],
     "deaths": [
       0,
@@ -407,7 +407,7 @@ var covid19_dataset_country_esp = {
       100875,
       102548,
       108947,
-      137984
+      112050
     ]
   }
 };
