@@ -351,9 +351,9 @@ var covid19_dataset_latest_totals = {
     },
     "CHL": {
       "latest": {
-        "confirmed": 15135,
-        "deaths": 216,
-        "recovered": 8057
+        "confirmed": 16023,
+        "deaths": 227,
+        "recovered": 8580
       }
     },
     "CHN": {
@@ -602,8 +602,8 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 161552,
-        "deaths": 6467,
+        "confirmed": 161845,
+        "deaths": 6470,
         "recovered": 123500
       }
     },
@@ -1145,7 +1145,7 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "latest": {
-        "confirmed": 3771,
+        "confirmed": 3897,
         "deaths": 116,
         "recovered": 1182
       }
@@ -1315,8 +1315,8 @@ var covid19_dataset_latest_totals = {
     "NZL": {
       "latest": {
         "confirmed": 1476,
-        "current_hospitalized": 11,
-        "current_icu": 2,
+        "current_hospitalized": 12,
+        "current_icu": 3,
         "deaths": 9,
         "recovered": 1241,
         "tested": null
@@ -1625,10 +1625,10 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "latest": {
-        "confirmed": 1031503,
-        "deaths": 60308,
+        "confirmed": 1031720,
+        "deaths": 60327,
         "recovered": 147306,
-        "tested": 6015353
+        "tested": 6013808
       },
       "states": {
         "AK": {
@@ -1676,8 +1676,8 @@ var covid19_dataset_latest_totals = {
           "tested": 94818
         },
         "DC": {
-          "confirmed": 4106,
-          "deaths": 205,
+          "confirmed": 4323,
+          "deaths": 224,
           "recovered": 660,
           "tested": 19229
         },
@@ -1949,7 +1949,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 38,
           "hospitalized": 164,
           "recovered": 504,
-          "tested": 43071
+          "tested": 41526
         },
         "WY": {
           "confirmed": 536,
@@ -1964,7 +1964,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 2017,
         "deaths": 9,
-        "recovered": 1103
+        "recovered": 1126
       }
     },
     "VAT": {

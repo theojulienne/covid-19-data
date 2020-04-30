@@ -193,10 +193,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 15135,
+      "confirmed": 16023,
       "date": "2020-04-30",
-      "deaths": 216,
-      "recovered": 8057
+      "deaths": 227,
+      "recovered": 8580
     }
   },
   "China": {
@@ -381,9 +381,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 161552,
+      "confirmed": 161845,
       "date": "2020-04-30",
-      "deaths": 6467,
+      "deaths": 6470,
       "recovered": 123500
     }
   },
@@ -549,7 +549,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 3771,
+      "confirmed": 3897,
       "date": "2020-04-30",
       "deaths": 116,
       "recovered": 1182
@@ -791,7 +791,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1041,
+          "confirmed": 1058,
           "date": "2020-04-30",
           "deaths": 53,
           "recovered": 0
@@ -839,9 +839,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 4106,
+          "confirmed": 4323,
           "date": "2020-04-30",
-          "deaths": 205,
+          "deaths": 224,
           "recovered": 0
         }
       },
@@ -855,9 +855,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11921,
+          "confirmed": 11924,
           "date": "2020-04-30",
-          "deaths": 459,
+          "deaths": 460,
           "recovered": 0
         }
       },
@@ -903,9 +903,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 16306,
+          "confirmed": 17885,
           "date": "2020-04-30",
-          "deaths": 768,
+          "deaths": 877,
           "recovered": 0
         }
       },
@@ -935,7 +935,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4186,
+          "confirmed": 4262,
           "date": "2020-04-30",
           "deaths": 219,
           "recovered": 0
@@ -967,9 +967,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 112065,
+          "confirmed": 111157,
           "date": "2020-04-30",
-          "deaths": 6527,
+          "deaths": 6490,
           "recovered": 0
         }
       },
@@ -1063,9 +1063,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 5887,
+          "confirmed": 6223,
           "date": "2020-04-30",
-          "deaths": 178,
+          "deaths": 199,
           "recovered": 0
         }
       },
@@ -1116,7 +1116,7 @@
       "confirmed": 2017,
       "date": "2020-04-30",
       "deaths": 9,
-      "recovered": 1103
+      "recovered": 1126
     }
   }
 }
