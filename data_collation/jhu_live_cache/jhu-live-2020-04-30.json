@@ -193,7 +193,7 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 14885,
+      "confirmed": 15135,
       "date": "2020-04-30",
       "deaths": 216,
       "recovered": 8057
@@ -485,9 +485,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 13895,
+      "confirmed": 13965,
       "date": "2020-04-30",
-      "deaths": 413,
+      "deaths": 425,
       "recovered": 2368
     }
   },
@@ -613,10 +613,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 15525,
+      "confirmed": 15759,
       "date": "2020-04-30",
-      "deaths": 343,
-      "recovered": 3425
+      "deaths": 346,
+      "recovered": 4052
     }
   },
   "Panama": {

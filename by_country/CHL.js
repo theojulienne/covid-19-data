@@ -202,7 +202,8 @@ var covid19_dataset_country_chl = {
       13331,
       13813,
       14365,
-      14885
+      14885,
+      15135
     ],
     "deaths": [
       0,
