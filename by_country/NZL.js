@@ -68,7 +68,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         0,
-        null,
+        2,
         null,
         null,
         null,
@@ -90,6 +90,7 @@ var covid19_dataset_country_nzl = {
         26,
         26,
         27,
+        null,
         null,
         null,
         null,
@@ -169,7 +170,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         2,
-        null,
+        3,
         null,
         null,
         null,
@@ -191,6 +192,7 @@ var covid19_dataset_country_nzl = {
         539,
         577,
         625,
+        null,
         null,
         null,
         null,
@@ -270,7 +272,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         49,
-        null,
+        60,
         null,
         null,
         null,
@@ -292,6 +294,7 @@ var covid19_dataset_country_nzl = {
         513,
         525,
         0,
+        null,
         null,
         null,
         null,
@@ -371,7 +374,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         2,
-        null,
+        4,
         null,
         null,
         null,
@@ -393,6 +396,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         146,
+        null,
         null,
         null,
         null,
@@ -578,7 +582,7 @@ var covid19_dataset_country_nzl = {
       28,
       39,
       56,
-      66,
+      70,
       102,
       155,
       205,
@@ -718,6 +722,7 @@ var covid19_dataset_country_nzl = {
       11,
       11,
       11,
+      11,
       11
     ],
     "current_icu": [
@@ -812,6 +817,7 @@ var covid19_dataset_country_nzl = {
       3,
       3,
       3,
+      2,
       2,
       2,
       2,
@@ -921,7 +927,7 @@ var covid19_dataset_country_nzl = {
       9,
       9,
       9,
-      19
+      9
     ],
     "recovered": [
       0,
@@ -1124,7 +1130,8 @@ var covid19_dataset_country_nzl = {
       120981,
       123920,
       126066,
-      128073
+      128073,
+      null
     ]
   }
 };
