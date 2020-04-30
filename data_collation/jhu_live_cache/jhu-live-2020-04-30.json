@@ -54,7 +54,7 @@
           "confirmed": 1361,
           "date": "2020-04-30",
           "deaths": 18,
-          "recovered": 1292
+          "recovered": 1291
         }
       }
     }
@@ -141,7 +141,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 1806,
+      "confirmed": 1832,
       "date": "2020-04-30",
       "deaths": 61,
       "recovered": 934
@@ -214,7 +214,7 @@
           "confirmed": 1588,
           "date": "2020-04-30",
           "deaths": 8,
-          "recovered": 1554
+          "recovered": 1557
         }
       },
       "Heilongjiang": {
@@ -541,9 +541,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 16752,
+      "confirmed": 17799,
       "date": "2020-04-30",
-      "deaths": 1569,
+      "deaths": 1732,
       "recovered": 11423
     }
   },
@@ -551,7 +551,7 @@
     "live": {
       "confirmed": 3771,
       "date": "2020-04-30",
-      "deaths": 107,
+      "deaths": 111,
       "recovered": 1114
     }
   },
@@ -573,10 +573,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1474,
+      "confirmed": 1476,
       "date": "2020-04-30",
       "deaths": 19,
-      "recovered": 1229
+      "recovered": 1241
     }
   },
   "Nigeria": {
