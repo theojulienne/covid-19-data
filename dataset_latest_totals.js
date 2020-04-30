@@ -275,8 +275,8 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 53907,
-        "deaths": 3259,
+        "confirmed": 53969,
+        "deaths": 3267,
         "recovered": 20327
       },
       "states": {
@@ -317,15 +317,15 @@ var covid19_dataset_latest_totals = {
           "deaths": 28
         },
         "Ontario": {
-          "confirmed": 17070,
-          "deaths": 1160
+          "confirmed": 17130,
+          "deaths": 1168
         },
         "Prince Edward Island": {
           "confirmed": 27,
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 27548,
+          "confirmed": 27550,
           "deaths": 1859
         },
         "Recovered": {
@@ -970,9 +970,9 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "latest": {
-        "confirmed": 2003,
-        "deaths": 92,
-        "recovered": 1346
+        "confirmed": 2085,
+        "deaths": 93,
+        "recovered": 1375
       }
     },
     "ISL": {
@@ -1301,7 +1301,7 @@ var covid19_dataset_latest_totals = {
     "NOR": {
       "latest": {
         "confirmed": 7738,
-        "deaths": 207,
+        "deaths": 210,
         "recovered": 32
       }
     },
@@ -1402,7 +1402,7 @@ var covid19_dataset_latest_totals = {
     "ROU": {
       "latest": {
         "confirmed": 12240,
-        "deaths": 705,
+        "deaths": 711,
         "recovered": 4017
       }
     },
@@ -1626,7 +1626,7 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "latest": {
         "confirmed": 1031720,
-        "deaths": 60396,
+        "deaths": 60404,
         "recovered": 147306,
         "tested": 6013808
       },
@@ -1848,7 +1848,7 @@ var covid19_dataset_latest_totals = {
         },
         "NY": {
           "confirmed": 299691,
-          "deaths": 23264,
+          "deaths": 23257,
           "hospitalized": 65397,
           "recovered": 53238,
           "tested": 872481
@@ -1880,7 +1880,7 @@ var covid19_dataset_latest_totals = {
         },
         "RI": {
           "confirmed": 8247,
-          "deaths": 251,
+          "deaths": 266,
           "hospitalized": 750,
           "recovered": 391,
           "tested": 60165

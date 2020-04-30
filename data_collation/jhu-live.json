@@ -175,15 +175,15 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 17070,
+          "confirmed": 17130,
           "date": "2020-04-30",
-          "deaths": 1160,
+          "deaths": 1168,
           "recovered": 0
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 27548,
+          "confirmed": 27550,
           "date": "2020-04-30",
           "deaths": 1859,
           "recovered": 0
@@ -453,10 +453,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2003,
+      "confirmed": 2085,
       "date": "2020-04-30",
-      "deaths": 92,
-      "recovered": 1346
+      "deaths": 93,
+      "recovered": 1375
     }
   },
   "Ireland": {
@@ -599,7 +599,7 @@
     "live": {
       "confirmed": 7738,
       "date": "2020-04-30",
-      "deaths": 207,
+      "deaths": 210,
       "recovered": 32
     }
   },
@@ -671,7 +671,7 @@
     "live": {
       "confirmed": 12240,
       "date": "2020-04-30",
-      "deaths": 705,
+      "deaths": 711,
       "recovered": 4017
     }
   },
@@ -855,9 +855,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12021,
+          "confirmed": 11986,
           "date": "2020-04-30",
-          "deaths": 465,
+          "deaths": 464,
           "recovered": 0
         }
       },
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 297452,
           "date": "2020-04-30",
-          "deaths": 23264,
+          "deaths": 23257,
           "recovered": 0
         }
       },
@@ -999,9 +999,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 10522,
+          "confirmed": 10964,
           "date": "2020-04-30",
-          "deaths": 387,
+          "deaths": 398,
           "recovered": 0
         }
       },
@@ -1023,15 +1023,15 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 7032,
+          "confirmed": 7377,
           "date": "2020-04-30",
-          "deaths": 251,
+          "deaths": 266,
           "recovered": 0
         }
       },
       "South Dakota": {
         "live": {
-          "confirmed": 1984,
+          "confirmed": 2038,
           "date": "2020-04-30",
           "deaths": 8,
           "recovered": 0
