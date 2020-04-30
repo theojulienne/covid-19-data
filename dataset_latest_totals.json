@@ -935,9 +935,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 2727,
-        "deaths": 300,
-        "recovered": 536
+        "confirmed": 2775,
+        "deaths": 312,
+        "recovered": 581
       }
     },
     "IDN": {
@@ -1019,7 +1019,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 3138,
+        "confirmed": 3205,
         "deaths": 25,
         "recovered": 819
       }
@@ -1315,8 +1315,8 @@
     "NZL": {
       "latest": {
         "confirmed": 1476,
-        "current_hospitalized": 11,
-        "current_icu": 2,
+        "current_hospitalized": 12,
+        "current_icu": 3,
         "deaths": 9,
         "recovered": 1241,
         "tested": null
@@ -1555,9 +1555,9 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2947,
+        "confirmed": 2954,
         "deaths": 54,
-        "recovered": 2665
+        "recovered": 2684
       }
     },
     "TLS": {
