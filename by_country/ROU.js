@@ -99,7 +99,8 @@ var covid19_dataset_country_rou = {
     "2020-04-27",
     "2020-04-28",
     "2020-04-29",
-    "2020-04-30"
+    "2020-04-30",
+    "2020-05-01"
   ],
   "total": {
     "confirmed": [
@@ -302,7 +303,7 @@ var covid19_dataset_country_rou = {
       619,
       641,
       663,
-      688
+      693
     ],
     "recovered": [
       0,

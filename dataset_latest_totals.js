@@ -37,8 +37,8 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "latest": {
-        "confirmed": 4127,
-        "deaths": 207,
+        "confirmed": 4285,
+        "deaths": 214,
         "recovered": 1192
       }
     },
@@ -62,7 +62,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 93,
         "current_icu": 38,
         "deaths": 91,
-        "recovered": 5657,
+        "recovered": 5666,
         "tested": 544318
       },
       "states": {
@@ -96,7 +96,7 @@ var covid19_dataset_latest_totals = {
           "current_hospitalized": 12,
           "current_icu": 6,
           "deaths": 6,
-          "recovered": 934,
+          "recovered": 943,
           "tested": 104950
         },
         "SA": {
@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 78162,
-        "deaths": 5466,
+        "confirmed": 79218,
+        "deaths": 5507,
         "recovered": 34132
       }
     },
@@ -532,9 +532,9 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "latest": {
-        "confirmed": 1183,
+        "confirmed": 1238,
         "deaths": 14,
-        "recovered": 525
+        "recovered": 557
       }
     },
     "CMR": {
@@ -595,9 +595,9 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 7563,
+        "confirmed": 7579,
         "deaths": 227,
-        "recovered": 3096
+        "recovered": 3108
       }
     },
     "DEU": {
@@ -1257,9 +1257,9 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "latest": {
-        "confirmed": 1532,
-        "deaths": 44,
-        "recovered": 255
+        "confirmed": 1728,
+        "deaths": 51,
+        "recovered": 307
       }
     },
     "NIC": {
@@ -1300,7 +1300,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 7680,
+        "confirmed": 7710,
         "deaths": 207,
         "recovered": 32
       }
@@ -1402,7 +1402,7 @@ var covid19_dataset_latest_totals = {
     "ROU": {
       "latest": {
         "confirmed": 11978,
-        "deaths": 688,
+        "deaths": 693,
         "recovered": 3569
       }
     },
