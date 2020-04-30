@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 80246,
+      "confirmed": 85380,
       "date": "2020-04-30",
-      "deaths": 5541,
+      "deaths": 5901,
       "recovered": 34132
     }
   },
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 17136,
+          "confirmed": 17159,
           "date": "2020-04-30",
-          "deaths": 1169,
+          "deaths": 1173,
           "recovered": 0
         }
       },
@@ -285,10 +285,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 1238,
+      "confirmed": 1275,
       "date": "2020-04-30",
       "deaths": 14,
-      "recovered": 557
+      "recovered": 574
     }
   },
   "Croatia": {
@@ -381,9 +381,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 162375,
+      "confirmed": 162530,
       "date": "2020-04-30",
-      "deaths": 6563,
+      "deaths": 6572,
       "recovered": 123500
     }
   },
@@ -469,10 +469,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 15870,
+      "confirmed": 15946,
       "date": "2020-04-30",
-      "deaths": 219,
-      "recovered": 8412
+      "deaths": 222,
+      "recovered": 8561
     }
   },
   "Italy": {
