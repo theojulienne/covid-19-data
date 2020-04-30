@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1447,
+      "confirmed": 1488,
       "date": "2020-04-30",
-      "deaths": 64,
-      "recovered": 243
+      "deaths": 65,
+      "recovered": 266
     }
   },
   "Cameroon": {
@@ -384,7 +384,7 @@
       "confirmed": 161539,
       "date": "2020-04-30",
       "deaths": 6467,
-      "recovered": 120400
+      "recovered": 123500
     }
   },
   "Ghana": {
@@ -720,7 +720,7 @@
       "confirmed": 1418,
       "date": "2020-04-30",
       "deaths": 89,
-      "recovered": 230
+      "recovered": 1091
     }
   },
   "South Africa": {
@@ -783,9 +783,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1033,
+          "confirmed": 1041,
           "date": "2020-04-30",
-          "deaths": 51,
+          "deaths": 53,
           "recovered": 0
         }
       },
@@ -799,9 +799,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 41435,
+          "confirmed": 41472,
           "date": "2020-04-30",
-          "deaths": 1729,
+          "deaths": 1738,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 11790,
+          "confirmed": 11914,
           "date": "2020-04-30",
-          "deaths": 458,
+          "deaths": 459,
           "recovered": 0
         }
       },
@@ -999,9 +999,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 39241,
+          "confirmed": 39372,
           "date": "2020-04-30",
-          "deaths": 2039,
+          "deaths": 2052,
           "recovered": 0
         }
       },
@@ -1039,9 +1039,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 15308,
+          "confirmed": 15420,
           "date": "2020-04-30",
-          "deaths": 371,
+          "deaths": 376,
           "recovered": 0
         }
       },
@@ -1105,7 +1105,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2002,
+      "confirmed": 2017,
       "date": "2020-04-30",
       "deaths": 9,
       "recovered": 1096

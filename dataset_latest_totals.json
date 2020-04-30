@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 1447,
-        "deaths": 64,
-        "recovered": 243
+        "confirmed": 1488,
+        "deaths": 65,
+        "recovered": 266
       }
     },
     "BHR": {
@@ -604,7 +604,7 @@
       "latest": {
         "confirmed": 161539,
         "deaths": 6467,
-        "recovered": 120400
+        "recovered": 123500
       }
     },
     "DJI": {
@@ -1508,7 +1508,7 @@
       "latest": {
         "confirmed": 1418,
         "deaths": 89,
-        "recovered": 230
+        "recovered": 1091
       }
     },
     "SWE": {
@@ -1962,7 +1962,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 2002,
+        "confirmed": 2017,
         "deaths": 9,
         "recovered": 1096
       }
