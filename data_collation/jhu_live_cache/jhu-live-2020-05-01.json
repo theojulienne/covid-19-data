@@ -38,7 +38,7 @@
           "confirmed": 3025,
           "date": "2020-05-01",
           "deaths": 41,
-          "recovered": 2290
+          "recovered": 2293
         }
       },
       "Queensland": {
@@ -175,9 +175,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 17393,
+          "confirmed": 17395,
           "date": "2020-05-01",
-          "deaths": 1201,
+          "deaths": 1205,
           "recovered": 0
         }
       },
@@ -493,10 +493,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10765,
+      "confirmed": 10774,
       "date": "2020-05-01",
-      "deaths": 247,
-      "recovered": 9059
+      "deaths": 248,
+      "recovered": 9072
     }
   },
   "Kuwait": {
@@ -605,10 +605,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 16473,
+      "confirmed": 16817,
       "date": "2020-05-01",
-      "deaths": 361,
-      "recovered": 4105
+      "deaths": 385,
+      "recovered": 4315
     }
   },
   "Panama": {
@@ -839,9 +839,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12085,
+          "confirmed": 12037,
           "date": "2020-05-01",
-          "deaths": 472,
+          "deaths": 470,
           "recovered": 0
         }
       },
