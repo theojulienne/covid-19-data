@@ -109,10 +109,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 1110,
+      "confirmed": 1167,
       "date": "2020-05-01",
-      "deaths": 59,
-      "recovered": 117
+      "deaths": 62,
+      "recovered": 132
     }
   },
   "Bosnia and Herzegovina": {
@@ -421,7 +421,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 34863,
+      "confirmed": 35043,
       "date": "2020-05-01",
       "deaths": 1154,
       "recovered": 9068
@@ -991,7 +991,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 40621,
+          "confirmed": 40784,
           "date": "2020-05-01",
           "deaths": 2134,
           "recovered": 0
