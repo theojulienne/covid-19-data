@@ -3854,7 +3854,7 @@ var covid19_dataset_country_aus = {
             34,
             34,
             34,
-            34
+            33
           ],
           "Central Qld": [
             0,
@@ -4781,7 +4781,7 @@ var covid19_dataset_country_aus = {
             314,
             314,
             314,
-            314
+            313
           ],
           "Metro South": [
             0,
@@ -5399,7 +5399,7 @@ var covid19_dataset_country_aus = {
             92,
             92,
             92,
-            92
+            93
           ],
           "TBC": [
             0,
