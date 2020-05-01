@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1506,
+      "confirmed": 1541,
       "date": "2020-05-01",
       "deaths": 66,
-      "recovered": 266
+      "recovered": 276
     }
   },
   "Cameroon": {
@@ -485,7 +485,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 3402,
+      "confirmed": 3504,
       "date": "2020-05-01",
       "deaths": 25,
       "recovered": 866
@@ -791,9 +791,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 42785,
+          "confirmed": 42798,
           "date": "2020-05-01",
-          "deaths": 1809,
+          "deaths": 1817,
           "recovered": 0
         }
       },
@@ -839,7 +839,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12043,
+          "confirmed": 12074,
           "date": "2020-05-01",
           "deaths": 471,
           "recovered": 0

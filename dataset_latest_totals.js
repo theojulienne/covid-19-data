@@ -184,9 +184,9 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "latest": {
-        "confirmed": 1506,
+        "confirmed": 1541,
         "deaths": 66,
-        "recovered": 266
+        "recovered": 276
       }
     },
     "BHR": {
@@ -1026,7 +1026,7 @@ var covid19_dataset_latest_totals = {
     },
     "KAZ": {
       "latest": {
-        "confirmed": 3402,
+        "confirmed": 3504,
         "deaths": 25,
         "recovered": 866
       }
