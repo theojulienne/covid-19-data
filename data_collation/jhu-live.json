@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 2066,
+      "confirmed": 2148,
       "date": "2020-05-01",
-      "deaths": 32,
-      "recovered": 929
+      "deaths": 33,
+      "recovered": 977
     }
   },
   "Australia": {
@@ -301,9 +301,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7682,
+      "confirmed": 7689,
       "date": "2020-05-01",
-      "deaths": 236,
+      "deaths": 237,
       "recovered": 3314
     }
   },
@@ -461,10 +461,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 15946,
+      "confirmed": 16004,
       "date": "2020-05-01",
-      "deaths": 222,
-      "recovered": 8561
+      "deaths": 223,
+      "recovered": 8758
     }
   },
   "Italy": {
@@ -485,7 +485,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 3504,
+      "confirmed": 3551,
       "date": "2020-05-01",
       "deaths": 25,
       "recovered": 866
@@ -663,7 +663,7 @@
     "live": {
       "confirmed": 12240,
       "date": "2020-05-01",
-      "deaths": 717,
+      "deaths": 723,
       "recovered": 4017
     }
   },
@@ -693,7 +693,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 16169,
+      "confirmed": 17101,
       "date": "2020-05-01",
       "deaths": 15,
       "recovered": 1244
@@ -839,7 +839,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12074,
+          "confirmed": 12075,
           "date": "2020-05-01",
           "deaths": 471,
           "recovered": 0
