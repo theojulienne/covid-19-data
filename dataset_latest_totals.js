@@ -1564,7 +1564,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 2954,
         "deaths": 54,
-        "recovered": 2684
+        "recovered": 2687
       }
     },
     "TJK": {

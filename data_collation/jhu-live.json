@@ -752,7 +752,7 @@
       "confirmed": 2954,
       "date": "2020-05-01",
       "deaths": 54,
-      "recovered": 2684
+      "recovered": 2687
     }
   },
   "Tunisia": {
@@ -791,9 +791,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 42653,
+          "confirmed": 42785,
           "date": "2020-05-01",
-          "deaths": 1805,
+          "deaths": 1809,
           "recovered": 0
         }
       },
@@ -839,9 +839,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12037,
+          "confirmed": 12043,
           "date": "2020-05-01",
-          "deaths": 470,
+          "deaths": 471,
           "recovered": 0
         }
       },
