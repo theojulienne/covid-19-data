@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 85380,
+      "confirmed": 87187,
       "date": "2020-05-01",
-      "deaths": 5901,
+      "deaths": 6006,
       "recovered": 35935
     }
   },
@@ -214,7 +214,7 @@
           "confirmed": 1588,
           "date": "2020-05-01",
           "deaths": 8,
-          "recovered": 1557
+          "recovered": 1565
         }
       },
       "Heilongjiang": {
@@ -262,7 +262,7 @@
           "confirmed": 1268,
           "date": "2020-05-01",
           "deaths": 1,
-          "recovered": 1263
+          "recovered": 1264
         }
       }
     }
@@ -565,10 +565,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1476,
+      "confirmed": 1479,
       "date": "2020-05-01",
       "deaths": 19,
-      "recovered": 1241
+      "recovered": 1252
     }
   },
   "Nigeria": {
