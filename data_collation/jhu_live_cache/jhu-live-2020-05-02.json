@@ -77,10 +77,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 3273,
+      "confirmed": 3284,
       "date": "2020-05-02",
       "deaths": 8,
-      "recovered": 1567
+      "recovered": 1568
     }
   },
   "Bangladesh": {
@@ -175,9 +175,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 28656,
+          "confirmed": 29664,
           "date": "2020-05-02",
-          "deaths": 2022,
+          "deaths": 2136,
           "recovered": 0
         }
       }
@@ -565,7 +565,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7783,
+      "confirmed": 7801,
       "date": "2020-05-02",
       "deaths": 210,
       "recovered": 32
@@ -823,7 +823,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12973,
+          "confirmed": 13031,
           "date": "2020-05-02",
           "deaths": 487,
           "recovered": 0
@@ -935,9 +935,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 116826,
+          "confirmed": 119122,
           "date": "2020-05-02",
-          "deaths": 7268,
+          "deaths": 7458,
           "recovered": 0
         }
       },
@@ -967,9 +967,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11407,
+          "confirmed": 11705,
           "date": "2020-05-02",
-          "deaths": 411,
+          "deaths": 416,
           "recovered": 0
         }
       },
@@ -999,7 +999,7 @@
       },
       "South Dakota": {
         "live": {
-          "confirmed": 2089,
+          "confirmed": 2123,
           "date": "2020-05-02",
           "deaths": 16,
           "recovered": 0
@@ -1023,9 +1023,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 3519,
+          "confirmed": 3630,
           "date": "2020-05-02",
-          "deaths": 36,
+          "deaths": 39,
           "recovered": 0
         }
       },
@@ -1065,10 +1065,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 13038,
+      "confirmed": 13599,
       "date": "2020-05-02",
-      "deaths": 111,
-      "recovered": 2543
+      "deaths": 119,
+      "recovered": 2664
     }
   },
   "United Kingdom": {
@@ -1081,7 +1081,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2113,
+      "confirmed": 2118,
       "date": "2020-05-02",
       "deaths": 9,
       "recovered": 1271
