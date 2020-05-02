@@ -63,7 +63,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 11,
         "deaths": 94,
         "recovered": 5782,
-        "tested": 584525
+        "tested": 593335
       },
       "states": {
         "ACT": {
@@ -81,7 +81,7 @@ var covid19_dataset_latest_totals = {
           "current_ventilators": null,
           "deaths": 43,
           "recovered": 2300,
-          "tested": 227084
+          "tested": 235894
         },
         "NT": {
           "confirmed": 27,
@@ -956,7 +956,7 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 37257,
+        "confirmed": 37336,
         "deaths": 1223,
         "recovered": 10007
       }
