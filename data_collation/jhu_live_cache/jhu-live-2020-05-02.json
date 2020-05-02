@@ -61,18 +61,18 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15531,
+      "confirmed": 15558,
       "date": "2020-05-02",
-      "deaths": 589,
+      "deaths": 596,
       "recovered": 13110
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1854,
+      "confirmed": 1894,
       "date": "2020-05-02",
       "deaths": 25,
-      "recovered": 1365
+      "recovered": 1411
     }
   },
   "Bahrain": {
@@ -222,7 +222,7 @@
           "confirmed": 1039,
           "date": "2020-05-02",
           "deaths": 4,
-          "recovered": 859
+          "recovered": 864
         }
       },
       "Hubei": {
@@ -301,10 +301,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 1097,
+      "confirmed": 1112,
       "date": "2020-05-02",
       "deaths": 2,
-      "recovered": 672
+      "recovered": 686
     }
   },
   "Dominican Republic": {
@@ -421,10 +421,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 95646,
+      "confirmed": 96448,
       "date": "2020-05-02",
-      "deaths": 6091,
-      "recovered": 76318
+      "deaths": 6156,
+      "recovered": 77350
     }
   },
   "Iraq": {
@@ -485,10 +485,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 4377,
+      "confirmed": 4619,
       "date": "2020-05-02",
-      "deaths": 30,
-      "recovered": 1602
+      "deaths": 33,
+      "recovered": 1703
     }
   },
   "Lithuania": {
@@ -621,10 +621,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 13105,
+      "confirmed": 13375,
       "date": "2020-05-02",
-      "deaths": 651,
-      "recovered": 3491
+      "deaths": 664,
+      "recovered": 3762
     }
   },
   "Portugal": {
@@ -637,10 +637,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 14096,
+      "confirmed": 14872,
       "date": "2020-05-02",
       "deaths": 12,
-      "recovered": 1436
+      "recovered": 1534
     }
   },
   "Romania": {
@@ -701,10 +701,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1434,
+      "confirmed": 1439,
       "date": "2020-05-02",
-      "deaths": 92,
-      "recovered": 233
+      "deaths": 94,
+      "recovered": 239
     }
   },
   "South Africa": {
