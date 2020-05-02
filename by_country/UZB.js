@@ -206,7 +206,8 @@ var covid19_dataset_country_uzb = {
       1939,
       2002,
       2039,
-      2086
+      2086,
+      2094
     ],
     "deaths": [
       0,

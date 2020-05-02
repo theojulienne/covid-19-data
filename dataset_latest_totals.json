@@ -942,9 +942,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 2863,
-        "deaths": 323,
-        "recovered": 609
+        "confirmed": 2942,
+        "deaths": 335,
+        "recovered": 625
       }
     },
     "IDN": {
@@ -1562,9 +1562,9 @@
     },
     "THA": {
       "latest": {
-        "confirmed": 2960,
+        "confirmed": 2966,
         "deaths": 54,
-        "recovered": 2719
+        "recovered": 2732
       }
     },
     "TJK": {
@@ -1979,7 +1979,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 2086,
+        "confirmed": 2094,
         "deaths": 9,
         "recovered": 1212
       }
