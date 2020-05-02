@@ -191,9 +191,9 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "latest": {
-        "confirmed": 3170,
+        "confirmed": 3273,
         "deaths": 8,
-        "recovered": 1555
+        "recovered": 1567
       }
     },
     "BHS": {
@@ -630,9 +630,9 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "latest": {
-        "confirmed": 9311,
-        "deaths": 460,
-        "recovered": 6729
+        "confirmed": 9407,
+        "deaths": 475,
+        "recovered": 6889
       },
       "states": {
         "Faroe Islands": {
@@ -727,8 +727,8 @@ var covid19_dataset_latest_totals = {
     "FRA": {
       "latest": {
         "confirmed": 165764,
-        "deaths": 24594,
-        "recovered": 50212
+        "deaths": 24563,
+        "recovered": 49300
       },
       "states": {
         "French Guiana": {
@@ -1028,7 +1028,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 3800,
         "deaths": 25,
-        "recovered": 940
+        "recovered": 985
       }
     },
     "KEN": {
@@ -1180,9 +1180,9 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "latest": {
-        "confirmed": 1494,
-        "deaths": 81,
-        "recovered": 807
+        "confirmed": 1506,
+        "deaths": 82,
+        "recovered": 852
       }
     },
     "MLI": {
@@ -1381,8 +1381,8 @@ var covid19_dataset_latest_totals = {
     "PRT": {
       "latest": {
         "confirmed": 25351,
-        "deaths": 1007,
-        "recovered": 1647
+        "deaths": 1023,
+        "recovered": 1671
       }
     },
     "PRY": {
@@ -1429,9 +1429,9 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "latest": {
-        "confirmed": 24097,
-        "deaths": 169,
-        "recovered": 3555
+        "confirmed": 25459,
+        "deaths": 176,
+        "recovered": 3765
       }
     },
     "SDN": {
@@ -1981,7 +1981,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 2094,
         "deaths": 9,
-        "recovered": 1229
+        "recovered": 1271
       }
     },
     "VAT": {
