@@ -51,10 +51,10 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1364,
+          "confirmed": 1371,
           "date": "2020-05-02",
           "deaths": 18,
-          "recovered": 1293
+          "recovered": 1300
         }
       }
     }
@@ -167,7 +167,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 17876,
+          "confirmed": 17880,
           "date": "2020-05-02",
           "deaths": 1265,
           "recovered": 0
@@ -517,10 +517,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 19224,
+      "confirmed": 20739,
       "date": "2020-05-02",
-      "deaths": 1859,
-      "recovered": 11423
+      "deaths": 1972,
+      "recovered": 12377
     }
   },
   "Moldova": {
@@ -589,18 +589,18 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 18092,
+      "confirmed": 18114,
       "date": "2020-05-02",
       "deaths": 417,
-      "recovered": 4351
+      "recovered": 4715
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 6532,
+      "confirmed": 6720,
       "date": "2020-05-02",
-      "deaths": 188,
-      "recovered": 576
+      "deaths": 192,
+      "recovered": 622
     }
   },
   "Peru": {
@@ -831,9 +831,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12569,
+          "confirmed": 12573,
           "date": "2020-05-02",
-          "deaths": 483,
+          "deaths": 484,
           "recovered": 0
         }
       },

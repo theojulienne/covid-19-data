@@ -58,11 +58,11 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 6766,
+        "confirmed": 6773,
         "current_hospitalized": 49,
         "current_icu": 11,
         "deaths": 94,
-        "recovered": 5742,
+        "recovered": 5749,
         "tested": 581941
       },
       "states": {
@@ -116,11 +116,11 @@
           "tested": 11909
         },
         "VIC": {
-          "confirmed": 1364,
+          "confirmed": 1371,
           "current_hospitalized": 16,
           "current_icu": 7,
           "deaths": 18,
-          "recovered": 1293,
+          "recovered": 1300,
           "tested": 123500
         },
         "WA": {
