@@ -44,9 +44,9 @@
     },
     "ARM": {
       "latest": {
-        "confirmed": 2148,
+        "confirmed": 2273,
         "deaths": 33,
-        "recovered": 977
+        "recovered": 1010
       }
     },
     "ATG": {
@@ -1026,7 +1026,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 3597,
+        "confirmed": 3671,
         "deaths": 25,
         "recovered": 922
       }
@@ -1625,9 +1625,9 @@
     },
     "UKR": {
       "latest": {
-        "confirmed": 10861,
-        "deaths": 272,
-        "recovered": 1413
+        "confirmed": 11411,
+        "deaths": 279,
+        "recovered": 1498
       }
     },
     "URY": {

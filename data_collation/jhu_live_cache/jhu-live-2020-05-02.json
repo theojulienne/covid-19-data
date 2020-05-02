@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 2148,
+      "confirmed": 2273,
       "date": "2020-05-02",
       "deaths": 33,
-      "recovered": 977
+      "recovered": 1010
     }
   },
   "Australia": {
@@ -469,7 +469,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 3597,
+      "confirmed": 3671,
       "date": "2020-05-02",
       "deaths": 25,
       "recovered": 922
@@ -1065,10 +1065,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 10861,
+      "confirmed": 11411,
       "date": "2020-05-02",
-      "deaths": 272,
-      "recovered": 1413
+      "deaths": 279,
+      "recovered": 1498
     }
   },
   "United Arab Emirates": {
