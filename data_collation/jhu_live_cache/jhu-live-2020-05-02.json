@@ -285,10 +285,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7737,
+      "confirmed": 7740,
       "date": "2020-05-02",
-      "deaths": 240,
-      "recovered": 3372
+      "deaths": 241,
+      "recovered": 3378
     }
   },
   "Denmark": {
@@ -333,10 +333,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1694,
+      "confirmed": 1699,
       "date": "2020-05-02",
-      "deaths": 52,
-      "recovered": 253
+      "deaths": 53,
+      "recovered": 256
     }
   },
   "Finland": {
@@ -445,10 +445,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16101,
+      "confirmed": 16152,
       "date": "2020-05-02",
-      "deaths": 225,
-      "recovered": 9156
+      "deaths": 227,
+      "recovered": 9400
     }
   },
   "Italy": {
@@ -493,10 +493,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1399,
+      "confirmed": 1406,
       "date": "2020-05-02",
-      "deaths": 45,
-      "recovered": 594
+      "deaths": 46,
+      "recovered": 632
     }
   },
   "Luxembourg": {
@@ -581,10 +581,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 2447,
+      "confirmed": 2483,
       "date": "2020-05-02",
       "deaths": 11,
-      "recovered": 495
+      "recovered": 750
     }
   },
   "Pakistan": {
@@ -613,10 +613,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 8772,
+      "confirmed": 8928,
       "date": "2020-05-02",
-      "deaths": 579,
-      "recovered": 1084
+      "deaths": 603,
+      "recovered": 1124
     }
   },
   "Poland": {
@@ -685,7 +685,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 17101,
+      "confirmed": 17548,
       "date": "2020-05-02",
       "deaths": 16,
       "recovered": 1268
@@ -693,10 +693,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1403,
+      "confirmed": 1407,
       "date": "2020-05-02",
-      "deaths": 23,
-      "recovered": 558
+      "deaths": 24,
+      "recovered": 608
     }
   },
   "Slovenia": {
@@ -831,7 +831,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12558,
+          "confirmed": 12712,
           "date": "2020-05-02",
           "deaths": 484,
           "recovered": 0
@@ -1023,7 +1023,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 16766,
+          "confirmed": 16869,
           "date": "2020-05-02",
           "deaths": 422,
           "recovered": 0
@@ -1092,7 +1092,7 @@
       "confirmed": 2094,
       "date": "2020-05-02",
       "deaths": 9,
-      "recovered": 1212
+      "recovered": 1229
     }
   }
 }
