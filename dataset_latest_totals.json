@@ -137,7 +137,7 @@
       "latest": {
         "confirmed": 15558,
         "deaths": 596,
-        "recovered": 13110
+        "recovered": 13180
       }
     },
     "AZE": {
@@ -205,9 +205,9 @@
     },
     "BIH": {
       "latest": {
-        "confirmed": 1781,
-        "deaths": 70,
-        "recovered": 755
+        "confirmed": 1839,
+        "deaths": 72,
+        "recovered": 779
       }
     },
     "BLR": {
@@ -233,8 +233,8 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 92202,
-        "deaths": 6412,
+        "confirmed": 92630,
+        "deaths": 6434,
         "recovered": 38039
       }
     },
@@ -928,9 +928,9 @@
     },
     "HRV": {
       "latest": {
-        "confirmed": 2085,
-        "deaths": 75,
-        "recovered": 1421
+        "confirmed": 2088,
+        "deaths": 77,
+        "recovered": 1463
       }
     },
     "HTI": {
@@ -1026,7 +1026,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 3785,
+        "confirmed": 3800,
         "deaths": 25,
         "recovered": 940
       }
@@ -1278,8 +1278,8 @@
     },
     "NLD": {
       "latest": {
-        "confirmed": 39791,
-        "deaths": 4893,
+        "confirmed": 40236,
+        "deaths": 4987,
         "recovered": 0
       },
       "states": {
@@ -1520,8 +1520,8 @@
     },
     "SWE": {
       "latest": {
-        "confirmed": 21520,
-        "deaths": 2653,
+        "confirmed": 22082,
+        "deaths": 2669,
         "recovered": 1005
       }
     },
