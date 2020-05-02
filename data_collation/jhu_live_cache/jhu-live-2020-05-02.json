@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1555,
+      "confirmed": 1588,
       "date": "2020-05-02",
-      "deaths": 68,
-      "recovered": 276
+      "deaths": 69,
+      "recovered": 287
     }
   },
   "Cameroon": {
@@ -360,7 +360,7 @@
       "confirmed": 164077,
       "date": "2020-05-02",
       "deaths": 6736,
-      "recovered": 126900
+      "recovered": 129000
     }
   },
   "Ghana": {
