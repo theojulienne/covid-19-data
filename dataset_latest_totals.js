@@ -233,8 +233,8 @@ var covid19_dataset_latest_totals = {
     },
     "BRA": {
       "latest": {
-        "confirmed": 91589,
-        "deaths": 6329,
+        "confirmed": 92109,
+        "deaths": 6410,
         "recovered": 38039
       }
     },
@@ -275,18 +275,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "latest": {
-        "confirmed": 56166,
-        "deaths": 3512,
+        "confirmed": 56295,
+        "deaths": 3536,
         "recovered": 21424
       },
       "states": {
         "Alberta": {
-          "confirmed": 5574,
-          "deaths": 93
+          "confirmed": 5573,
+          "deaths": 92
         },
         "British Columbia": {
-          "confirmed": 2112,
-          "deaths": 111
+          "confirmed": 2145,
+          "deaths": 112
         },
         "Diamond Princess": {
           "confirmed": 0,
@@ -313,12 +313,12 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Nova Scotia": {
-          "confirmed": 959,
-          "deaths": 29
+          "confirmed": 947,
+          "deaths": 28
         },
         "Ontario": {
-          "confirmed": 17767,
-          "deaths": 1240
+          "confirmed": 17876,
+          "deaths": 1265
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -532,9 +532,9 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "latest": {
-        "confirmed": 1275,
-        "deaths": 14,
-        "recovered": 574
+        "confirmed": 1333,
+        "deaths": 15,
+        "recovered": 597
       }
     },
     "CMR": {
@@ -602,9 +602,9 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "latest": {
-        "confirmed": 7726,
+        "confirmed": 7737,
         "deaths": 240,
-        "recovered": 3359
+        "recovered": 3372
       }
     },
     "DEU": {
@@ -1307,7 +1307,7 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "latest": {
-        "confirmed": 7770,
+        "confirmed": 7783,
         "deaths": 210,
         "recovered": 32
       }
