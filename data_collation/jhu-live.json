@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 17983,
+          "confirmed": 18067,
           "date": "2020-05-02",
-          "deaths": 1268,
+          "deaths": 1276,
           "recovered": 0
         }
       },
@@ -349,9 +349,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 164602,
+      "confirmed": 164702,
       "date": "2020-05-02",
-      "deaths": 6755,
+      "deaths": 6783,
       "recovered": 129000
     }
   },
@@ -437,10 +437,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16152,
+      "confirmed": 16185,
       "date": "2020-05-02",
-      "deaths": 227,
-      "recovered": 9400
+      "deaths": 229,
+      "recovered": 9593
     }
   },
   "Italy": {
@@ -567,7 +567,7 @@
     "live": {
       "confirmed": 7801,
       "date": "2020-05-02",
-      "deaths": 210,
+      "deaths": 211,
       "recovered": 32
     }
   },
@@ -597,10 +597,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 40459,
+      "confirmed": 42534,
       "date": "2020-05-02",
-      "deaths": 1124,
-      "recovered": 11129
+      "deaths": 1200,
+      "recovered": 12434
     }
   },
   "Philippines": {
@@ -728,7 +728,7 @@
       "confirmed": 29817,
       "date": "2020-05-02",
       "deaths": 1762,
-      "recovered": 23900
+      "recovered": 24200
     }
   },
   "Thailand": {
@@ -759,7 +759,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1154,
+          "confirmed": 1164,
           "date": "2020-05-02",
           "deaths": 61,
           "recovered": 0
@@ -775,9 +775,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 44383,
+          "confirmed": 44482,
           "date": "2020-05-02",
-          "deaths": 1905,
+          "deaths": 1907,
           "recovered": 0
         }
       },
@@ -823,17 +823,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13033,
+          "confirmed": 13031,
           "date": "2020-05-02",
-          "deaths": 487,
+          "deaths": 488,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 49984,
+          "confirmed": 52233,
           "date": "2020-05-02",
-          "deaths": 2197,
+          "deaths": 2290,
           "recovered": 0
         }
       },
@@ -903,9 +903,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4502,
+          "confirmed": 4538,
           "date": "2020-05-02",
-          "deaths": 233,
+          "deaths": 242,
           "recovered": 0
         }
       },
