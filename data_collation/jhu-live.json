@@ -159,7 +159,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 2145,
+          "confirmed": 2171,
           "date": "2020-05-02",
           "deaths": 112,
           "recovered": 0
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18067,
+          "confirmed": 18103,
           "date": "2020-05-02",
-          "deaths": 1276,
+          "deaths": 1283,
           "recovered": 0
         }
       },
@@ -349,9 +349,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 164702,
+      "confirmed": 164967,
       "date": "2020-05-02",
-      "deaths": 6783,
+      "deaths": 6794,
       "recovered": 129000
     }
   },
@@ -775,9 +775,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 44482,
+          "confirmed": 44578,
           "date": "2020-05-02",
-          "deaths": 1907,
+          "deaths": 1909,
           "recovered": 0
         }
       },
@@ -823,7 +823,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13031,
+          "confirmed": 13045,
           "date": "2020-05-02",
           "deaths": 488,
           "recovered": 0
@@ -1007,7 +1007,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 6271,
+          "confirmed": 6465,
           "date": "2020-05-02",
           "deaths": 80,
           "recovered": 0
