@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3030,
+          "confirmed": 3031,
           "date": "2020-05-02",
           "deaths": 41,
-          "recovered": 2293
+          "recovered": 2300
         }
       },
       "Queensland": {
@@ -206,7 +206,7 @@
           "confirmed": 1588,
           "date": "2020-05-02",
           "deaths": 8,
-          "recovered": 1565
+          "recovered": 1567
         }
       },
       "Henan": {
@@ -783,9 +783,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 44180,
+          "confirmed": 44327,
           "date": "2020-05-02",
-          "deaths": 1894,
+          "deaths": 1904,
           "recovered": 0
         }
       },
@@ -831,7 +831,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12557,
+          "confirmed": 12558,
           "date": "2020-05-02",
           "deaths": 484,
           "recovered": 0
@@ -1023,9 +1023,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 16624,
+          "confirmed": 16766,
           "date": "2020-05-02",
-          "deaths": 421,
+          "deaths": 422,
           "recovered": 0
         }
       },
