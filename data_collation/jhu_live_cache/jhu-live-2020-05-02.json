@@ -9,18 +9,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 4154,
+      "confirmed": 4295,
       "date": "2020-05-02",
-      "deaths": 453,
-      "recovered": 1821
+      "deaths": 459,
+      "recovered": 1872
     }
   },
   "Argentina": {
     "live": {
       "confirmed": 4532,
       "date": "2020-05-02",
-      "deaths": 225,
-      "recovered": 1292
+      "deaths": 229,
+      "recovered": 1320
     }
   },
   "Armenia": {
@@ -133,9 +133,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1588,
+      "confirmed": 1594,
       "date": "2020-05-02",
-      "deaths": 69,
+      "deaths": 72,
       "recovered": 287
     }
   },
@@ -357,7 +357,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 164197,
+      "confirmed": 164316,
       "date": "2020-05-02",
       "deaths": 6736,
       "recovered": 129000
@@ -373,9 +373,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2612,
+      "confirmed": 2620,
       "date": "2020-05-02",
-      "deaths": 140,
+      "deaths": 143,
       "recovered": 1374
     }
   },
@@ -400,7 +400,7 @@
       "confirmed": 1798,
       "date": "2020-05-02",
       "deaths": 10,
-      "recovered": 1689
+      "recovered": 1706
     }
   },
   "India": {
@@ -589,10 +589,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 18114,
+      "confirmed": 18770,
       "date": "2020-05-02",
-      "deaths": 417,
-      "recovered": 4715
+      "deaths": 432,
+      "recovered": 4753
     }
   },
   "Panama": {
@@ -669,10 +669,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 1024,
+      "confirmed": 1115,
       "date": "2020-05-02",
       "deaths": 9,
-      "recovered": 356
+      "recovered": 368
     }
   },
   "Serbia": {
@@ -823,17 +823,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 25242,
+          "confirmed": 25754,
           "date": "2020-05-02",
-          "deaths": 870,
+          "deaths": 890,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 12713,
+          "confirmed": 12853,
           "date": "2020-05-02",
-          "deaths": 484,
+          "deaths": 486,
           "recovered": 0
         }
       },
@@ -911,7 +911,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4403,
+          "confirmed": 4502,
           "date": "2020-05-02",
           "deaths": 233,
           "recovered": 0
@@ -999,9 +999,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 7683,
+          "confirmed": 7964,
           "date": "2020-05-02",
-          "deaths": 279,
+          "deaths": 296,
           "recovered": 0
         }
       },

@@ -38,8 +38,8 @@ var covid19_dataset_latest_totals = {
     "ARG": {
       "latest": {
         "confirmed": 4532,
-        "deaths": 225,
-        "recovered": 1292
+        "deaths": 229,
+        "recovered": 1320
       }
     },
     "ARM": {
@@ -184,8 +184,8 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "latest": {
-        "confirmed": 1588,
-        "deaths": 69,
+        "confirmed": 1594,
+        "deaths": 72,
         "recovered": 287
       }
     },
@@ -609,7 +609,7 @@ var covid19_dataset_latest_totals = {
     },
     "DEU": {
       "latest": {
-        "confirmed": 164197,
+        "confirmed": 164316,
         "deaths": 6736,
         "recovered": 129000
       }
@@ -656,9 +656,9 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "latest": {
-        "confirmed": 4154,
-        "deaths": 453,
-        "recovered": 1821
+        "confirmed": 4295,
+        "deaths": 459,
+        "recovered": 1872
       }
     },
     "ECU": {
@@ -893,8 +893,8 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "latest": {
-        "confirmed": 2612,
-        "deaths": 140,
+        "confirmed": 2620,
+        "deaths": 143,
         "recovered": 1374
       }
     },
@@ -986,7 +986,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 1798,
         "deaths": 10,
-        "recovered": 1689
+        "recovered": 1706
       }
     },
     "ISR": {
@@ -1338,9 +1338,9 @@ var covid19_dataset_latest_totals = {
     },
     "PAK": {
       "latest": {
-        "confirmed": 18114,
-        "deaths": 417,
-        "recovered": 4715
+        "confirmed": 18770,
+        "deaths": 432,
+        "recovered": 4753
       }
     },
     "PAN": {
@@ -1443,9 +1443,9 @@ var covid19_dataset_latest_totals = {
     },
     "SEN": {
       "latest": {
-        "confirmed": 1024,
+        "confirmed": 1115,
         "deaths": 9,
-        "recovered": 356
+        "recovered": 368
       }
     },
     "SGP": {
@@ -1640,7 +1640,7 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "latest": {
         "confirmed": 1094019,
-        "deaths": 64086,
+        "deaths": 64103,
         "recovered": 163836,
         "tested": 6537791
       },
@@ -1896,7 +1896,7 @@ var covid19_dataset_latest_totals = {
         },
         "RI": {
           "confirmed": 8962,
-          "deaths": 279,
+          "deaths": 296,
           "hospitalized": 937,
           "recovered": 485,
           "tested": 66648
