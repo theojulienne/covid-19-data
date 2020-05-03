@@ -741,10 +741,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2966,
+      "confirmed": 2969,
       "date": "2020-05-03",
       "deaths": 54,
-      "recovered": 2732
+      "recovered": 2739
     }
   },
   "Tunisia": {

@@ -1562,9 +1562,9 @@ var covid19_dataset_latest_totals = {
     },
     "THA": {
       "latest": {
-        "confirmed": 2966,
+        "confirmed": 2969,
         "deaths": 54,
-        "recovered": 2732
+        "recovered": 2739
       }
     },
     "TJK": {
