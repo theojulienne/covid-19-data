@@ -109,10 +109,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 1229,
+      "confirmed": 1470,
       "date": "2020-05-03",
-      "deaths": 66,
-      "recovered": 134
+      "deaths": 71,
+      "recovered": 159
     }
   },
   "Bosnia and Herzegovina": {
@@ -783,9 +783,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 45296,
+          "confirmed": 45554,
           "date": "2020-05-03",
-          "deaths": 1947,
+          "deaths": 1959,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 17265,
+          "confirmed": 17488,
           "date": "2020-05-03",
-          "deaths": 433,
+          "deaths": 435,
           "recovered": 0
         }
       },

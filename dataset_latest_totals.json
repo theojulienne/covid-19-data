@@ -62,8 +62,8 @@
         "current_hospitalized": 45,
         "current_icu": 11,
         "deaths": 94,
-        "recovered": 5814,
-        "tested": 598835
+        "recovered": 5793,
+        "tested": 609832
       },
       "states": {
         "ACT": {
@@ -97,7 +97,7 @@
           "current_icu": null,
           "deaths": 6,
           "recovered": 976,
-          "tested": 113601
+          "tested": 115598
         },
         "SA": {
           "confirmed": 438,
@@ -120,8 +120,8 @@
           "current_hospitalized": 12,
           "current_icu": 7,
           "deaths": 18,
-          "recovered": 1300,
-          "tested": 129000
+          "recovered": 1279,
+          "tested": 138000
         },
         "WA": {
           "confirmed": 551,
@@ -226,9 +226,9 @@
     },
     "BOL": {
       "latest": {
-        "confirmed": 1229,
-        "deaths": 66,
-        "recovered": 134
+        "confirmed": 1470,
+        "deaths": 71,
+        "recovered": 159
       }
     },
     "BRA": {
