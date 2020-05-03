@@ -61,9 +61,9 @@
         "confirmed": 6797,
         "current_hospitalized": 45,
         "current_icu": 11,
-        "deaths": 94,
+        "deaths": 95,
         "recovered": 5793,
-        "tested": 609832
+        "tested": 617066
       },
       "states": {
         "ACT": {
@@ -79,9 +79,9 @@
           "current_hospitalized": null,
           "current_icu": null,
           "current_ventilators": null,
-          "deaths": 43,
+          "deaths": 44,
           "recovered": 2306,
-          "tested": 235894
+          "tested": 243128
         },
         "NT": {
           "confirmed": 27,
@@ -135,9 +135,9 @@
     },
     "AUT": {
       "latest": {
-        "confirmed": 15558,
-        "deaths": 596,
-        "recovered": 13180
+        "confirmed": 15597,
+        "deaths": 598,
+        "recovered": 13228
       }
     },
     "AZE": {
@@ -1117,9 +1117,9 @@
     },
     "LTU": {
       "latest": {
-        "confirmed": 1406,
+        "confirmed": 1410,
         "deaths": 46,
-        "recovered": 632
+        "recovered": 635
       }
     },
     "LUX": {
@@ -1331,7 +1331,7 @@
     },
     "OMN": {
       "latest": {
-        "confirmed": 2483,
+        "confirmed": 2568,
         "deaths": 12,
         "recovered": 750
       }
@@ -1359,9 +1359,9 @@
     },
     "PHL": {
       "latest": {
-        "confirmed": 8928,
-        "deaths": 603,
-        "recovered": 1124
+        "confirmed": 9223,
+        "deaths": 607,
+        "recovered": 1214
       }
     },
     "PNG": {
@@ -1415,9 +1415,9 @@
     },
     "RUS": {
       "latest": {
-        "confirmed": 124054,
-        "deaths": 1222,
-        "recovered": 15013
+        "confirmed": 134687,
+        "deaths": 1280,
+        "recovered": 16639
       }
     },
     "RWA": {
@@ -1506,9 +1506,9 @@
     },
     "SVK": {
       "latest": {
-        "confirmed": 1407,
+        "confirmed": 1408,
         "deaths": 24,
-        "recovered": 608
+        "recovered": 619
       }
     },
     "SVN": {
