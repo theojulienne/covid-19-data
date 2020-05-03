@@ -6483,7 +6483,8 @@ var covid19_dataset_country_aus = {
           934,
           943,
           948,
-          965
+          965,
+          976
         ],
         "tested": [
           0,
@@ -10221,7 +10222,8 @@ var covid19_dataset_country_aus = {
     "2020-04-30",
     "2020-05-01",
     "2020-05-02",
-    "2020-05-03"
+    "2020-05-03",
+    "2020-05-04"
   ],
   "total": {
     "confirmed": [
@@ -10742,7 +10744,7 @@ var covid19_dataset_country_aus = {
       5685,
       5719,
       5754,
-      5761
+      5772
     ],
     "tested": [
       0,
