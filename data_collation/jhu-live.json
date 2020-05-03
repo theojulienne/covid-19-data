@@ -352,7 +352,7 @@
       "confirmed": 164967,
       "date": "2020-05-03",
       "deaths": 6812,
-      "recovered": 129000
+      "recovered": 130600
     }
   },
   "Ghana": {
@@ -389,10 +389,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 2942,
+      "confirmed": 2998,
       "date": "2020-05-03",
-      "deaths": 335,
-      "recovered": 625
+      "deaths": 340,
+      "recovered": 629
     }
   },
   "Iceland": {
@@ -520,7 +520,7 @@
       "confirmed": 22088,
       "date": "2020-05-03",
       "deaths": 2061,
-      "recovered": 12377
+      "recovered": 13447
     }
   },
   "Moldova": {
@@ -1089,7 +1089,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2118,
+      "confirmed": 2127,
       "date": "2020-05-03",
       "deaths": 9,
       "recovered": 1271

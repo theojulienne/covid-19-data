@@ -611,7 +611,7 @@
       "latest": {
         "confirmed": 164967,
         "deaths": 6812,
-        "recovered": 129000
+        "recovered": 130600
       }
     },
     "DJI": {
@@ -942,9 +942,9 @@
     },
     "HUN": {
       "latest": {
-        "confirmed": 2942,
-        "deaths": 335,
-        "recovered": 625
+        "confirmed": 2998,
+        "deaths": 340,
+        "recovered": 629
       }
     },
     "IDN": {
@@ -1175,7 +1175,7 @@
       "latest": {
         "confirmed": 22088,
         "deaths": 2061,
-        "recovered": 12377
+        "recovered": 13447
       }
     },
     "MKD": {
@@ -1979,7 +1979,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 2118,
+        "confirmed": 2127,
         "deaths": 9,
         "recovered": 1271
       }
