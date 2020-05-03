@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 2273,
+      "confirmed": 2386,
       "date": "2020-05-03",
-      "deaths": 33,
-      "recovered": 1010
+      "deaths": 35,
+      "recovered": 1035
     }
   },
   "Australia": {
@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1594,
+      "confirmed": 1611,
       "date": "2020-05-03",
       "deaths": 72,
-      "recovered": 287
+      "recovered": 308
     }
   },
   "Cameroon": {
@@ -445,10 +445,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16185,
+      "confirmed": 16193,
       "date": "2020-05-03",
-      "deaths": 229,
-      "recovered": 9593
+      "deaths": 230,
+      "recovered": 9634
     }
   },
   "Italy": {
@@ -560,7 +560,7 @@
       "confirmed": 2388,
       "date": "2020-05-03",
       "deaths": 85,
-      "recovered": 351
+      "recovered": 385
     }
   },
   "North Macedonia": {
@@ -647,7 +647,7 @@
     "live": {
       "confirmed": 12732,
       "date": "2020-05-03",
-      "deaths": 771,
+      "deaths": 780,
       "recovered": 4547
     }
   },
@@ -685,7 +685,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 17548,
+      "confirmed": 18205,
       "date": "2020-05-03",
       "deaths": 17,
       "recovered": 1347
@@ -1065,10 +1065,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 11411,
+      "confirmed": 11913,
       "date": "2020-05-03",
-      "deaths": 279,
-      "recovered": 1498
+      "deaths": 288,
+      "recovered": 1548
     }
   },
   "United Arab Emirates": {

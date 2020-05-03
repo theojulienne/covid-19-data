@@ -416,7 +416,8 @@ var covid19_dataset_country_nga = {
       307,
       319,
       351,
-      351
+      351,
+      385
     ]
   }
 };
