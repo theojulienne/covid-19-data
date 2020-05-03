@@ -88,7 +88,7 @@
       "confirmed": 9455,
       "date": "2020-05-03",
       "deaths": 177,
-      "recovered": 177
+      "recovered": 1063
     }
   },
   "Belarus": {
@@ -167,17 +167,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18428,
+          "confirmed": 18517,
           "date": "2020-05-03",
-          "deaths": 1300,
+          "deaths": 1311,
           "recovered": 0
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 29664,
+          "confirmed": 31873,
           "date": "2020-05-03",
-          "deaths": 2136,
+          "deaths": 2206,
           "recovered": 0
         }
       }
@@ -317,10 +317,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 6193,
+      "confirmed": 6465,
       "date": "2020-05-03",
-      "deaths": 415,
-      "recovered": 1522
+      "deaths": 429,
+      "recovered": 1562
     }
   },
   "Estonia": {
@@ -405,7 +405,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 42490,
+      "confirmed": 42505,
       "date": "2020-05-03",
       "deaths": 1391,
       "recovered": 11775
@@ -747,14 +747,6 @@
       "recovered": 2739
     }
   },
-  "Tunisia": {
-    "live": {
-      "confirmed": 1009,
-      "date": "2020-05-03",
-      "deaths": 42,
-      "recovered": 323
-    }
-  },
   "Turkey": {
     "live": {
       "confirmed": 126045,
@@ -959,9 +951,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 304578,
+          "confirmed": 308816,
           "date": "2020-05-03",
-          "deaths": 23883,
+          "deaths": 24229,
           "recovered": 0
         }
       },
@@ -975,9 +967,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11705,
+          "confirmed": 12057,
           "date": "2020-05-03",
-          "deaths": 416,
+          "deaths": 424,
           "recovered": 0
         }
       },
@@ -1031,9 +1023,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 3630,
+          "confirmed": 3780,
           "date": "2020-05-03",
-          "deaths": 39,
+          "deaths": 40,
           "recovered": 0
         }
       },
