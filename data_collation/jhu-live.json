@@ -167,7 +167,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18321,
+          "confirmed": 18322,
           "date": "2020-05-03",
           "deaths": 1292,
           "recovered": 0
@@ -405,7 +405,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 39699,
+      "confirmed": 39980,
       "date": "2020-05-03",
       "deaths": 1323,
       "recovered": 10819
@@ -472,7 +472,7 @@
       "confirmed": 3857,
       "date": "2020-05-03",
       "deaths": 25,
-      "recovered": 985
+      "recovered": 995
     }
   },
   "Korea, South": {
@@ -783,7 +783,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 45554,
+          "confirmed": 45553,
           "date": "2020-05-03",
           "deaths": 1959,
           "recovered": 0
