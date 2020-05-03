@@ -58,7 +58,7 @@
     },
     "AUS": {
       "latest": {
-        "confirmed": 6780,
+        "confirmed": 6793,
         "current_hospitalized": 45,
         "current_icu": 11,
         "deaths": 94,
@@ -116,7 +116,7 @@
           "tested": 11909
         },
         "VIC": {
-          "confirmed": 1371,
+          "confirmed": 1384,
           "current_hospitalized": 12,
           "current_icu": 7,
           "deaths": 18,
@@ -1640,7 +1640,7 @@
     "USA": {
       "latest": {
         "confirmed": 1123734,
-        "deaths": 65585,
+        "deaths": 65578,
         "recovered": 175203,
         "tested": 6801620
       },
@@ -1864,7 +1864,7 @@
         },
         "NY": {
           "confirmed": 312977,
-          "deaths": 23890,
+          "deaths": 23883,
           "hospitalized": 67890,
           "recovered": 57540,
           "tested": 959071

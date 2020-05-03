@@ -51,7 +51,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1371,
+          "confirmed": 1384,
           "date": "2020-05-03",
           "deaths": 18,
           "recovered": 1300
@@ -379,6 +379,14 @@
       "recovered": 405
     }
   },
+  "Honduras": {
+    "live": {
+      "confirmed": 1010,
+      "date": "2020-05-03",
+      "deaths": 76,
+      "recovered": 116
+    }
+  },
   "Hungary": {
     "live": {
       "confirmed": 2942,
@@ -453,10 +461,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 14305,
+      "confirmed": 14571,
       "date": "2020-05-03",
-      "deaths": 455,
-      "recovered": 2975
+      "deaths": 474,
+      "recovered": 3205
     }
   },
   "Kazakhstan": {
@@ -509,9 +517,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 20739,
+      "confirmed": 22088,
       "date": "2020-05-03",
-      "deaths": 1972,
+      "deaths": 2061,
       "recovered": 12377
     }
   },
@@ -541,10 +549,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1485,
+      "confirmed": 1487,
       "date": "2020-05-03",
       "deaths": 20,
-      "recovered": 1263
+      "recovered": 1266
     }
   },
   "Nigeria": {
@@ -581,18 +589,18 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 19022,
+      "confirmed": 19103,
       "date": "2020-05-03",
-      "deaths": 437,
-      "recovered": 4753
+      "deaths": 440,
+      "recovered": 4817
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 6720,
+      "confirmed": 7090,
       "date": "2020-05-03",
-      "deaths": 192,
-      "recovered": 622
+      "deaths": 197,
+      "recovered": 641
     }
   },
   "Peru": {
@@ -951,9 +959,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 305581,
+          "confirmed": 304578,
           "date": "2020-05-03",
-          "deaths": 23890,
+          "deaths": 23883,
           "recovered": 0
         }
       },
@@ -1015,9 +1023,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 17084,
+          "confirmed": 17265,
           "date": "2020-05-03",
-          "deaths": 429,
+          "deaths": 433,
           "recovered": 0
         }
       },
