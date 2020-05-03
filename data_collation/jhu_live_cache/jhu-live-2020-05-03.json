@@ -77,10 +77,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 3356,
+      "confirmed": 3383,
       "date": "2020-05-03",
       "deaths": 8,
-      "recovered": 1717
+      "recovered": 1718
     }
   },
   "Bangladesh": {
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 97100,
+      "confirmed": 97929,
       "date": "2020-05-03",
-      "deaths": 6761,
+      "deaths": 6777,
       "recovered": 40937
     }
   },
@@ -167,7 +167,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18517,
+          "confirmed": 18523,
           "date": "2020-05-03",
           "deaths": 1311,
           "recovered": 0
@@ -349,9 +349,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 165183,
+      "confirmed": 165383,
       "date": "2020-05-03",
-      "deaths": 6812,
+      "deaths": 6840,
       "recovered": 130600
     }
   },
@@ -573,7 +573,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7809,
+      "confirmed": 7833,
       "date": "2020-05-03",
       "deaths": 211,
       "recovered": 32
@@ -709,9 +709,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 6336,
+      "confirmed": 6783,
       "date": "2020-05-03",
-      "deaths": 123,
+      "deaths": 131,
       "recovered": 2549
     }
   },
@@ -736,7 +736,7 @@
       "confirmed": 29905,
       "date": "2020-05-03",
       "deaths": 1762,
-      "recovered": 24200
+      "recovered": 24500
     }
   },
   "Thailand": {
@@ -775,7 +775,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 45612,
+          "confirmed": 45719,
           "date": "2020-05-03",
           "deaths": 1959,
           "recovered": 0
@@ -887,9 +887,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 36490,
+          "confirmed": 36949,
           "date": "2020-05-03",
-          "deaths": 3598,
+          "deaths": 3626,
           "recovered": 0
         }
       },
@@ -903,7 +903,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4640,
+          "confirmed": 4675,
           "date": "2020-05-03",
           "deaths": 242,
           "recovered": 0
@@ -1047,9 +1047,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 4419,
+          "confirmed": 4602,
           "date": "2020-05-03",
-          "deaths": 197,
+          "deaths": 201,
           "recovered": 0
         }
       }
