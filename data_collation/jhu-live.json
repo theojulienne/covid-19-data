@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18523,
+          "confirmed": 18547,
           "date": "2020-05-03",
-          "deaths": 1311,
+          "deaths": 1323,
           "recovered": 0
         }
       },
@@ -349,9 +349,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 165383,
+      "confirmed": 165532,
       "date": "2020-05-03",
-      "deaths": 6840,
+      "deaths": 6845,
       "recovered": 130600
     }
   },
@@ -605,10 +605,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 42534,
+      "confirmed": 45928,
       "date": "2020-05-03",
-      "deaths": 1200,
-      "recovered": 12434
+      "deaths": 1286,
+      "recovered": 13550
     }
   },
   "Philippines": {
@@ -759,7 +759,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1192,
+          "confirmed": 1193,
           "date": "2020-05-03",
           "deaths": 62,
           "recovered": 0
@@ -831,9 +831,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 52233,
+          "confirmed": 54899,
           "date": "2020-05-03",
-          "deaths": 2290,
+          "deaths": 2344,
           "recovered": 0
         }
       },
@@ -879,7 +879,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 63660,
+          "confirmed": 64849,
           "date": "2020-05-03",
           "deaths": 3689,
           "recovered": 0
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 308816,
           "date": "2020-05-03",
-          "deaths": 24229,
+          "deaths": 24402,
           "recovered": 0
         }
       },
