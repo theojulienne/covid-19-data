@@ -211,7 +211,7 @@ var covid19_dataset_country_kaz = {
       3597,
       3857,
       3920,
-      3964
+      3988
     ],
     "deaths": [
       0,
