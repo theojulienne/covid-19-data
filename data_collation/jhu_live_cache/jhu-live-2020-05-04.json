@@ -133,10 +133,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1618,
+      "confirmed": 1632,
       "date": "2020-05-04",
-      "deaths": 73,
-      "recovered": 308
+      "deaths": 74,
+      "recovered": 321
     }
   },
   "Cameroon": {
@@ -405,10 +405,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 42533,
+      "confirmed": 42670,
       "date": "2020-05-04",
-      "deaths": 1391,
-      "recovered": 11775
+      "deaths": 1395,
+      "recovered": 11782
     }
   },
   "Indonesia": {
