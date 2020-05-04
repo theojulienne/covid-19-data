@@ -167,7 +167,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18574,
+          "confirmed": 18611,
           "date": "2020-05-04",
           "deaths": 1326,
           "recovered": 0
@@ -293,10 +293,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 1112,
+      "confirmed": 1116,
       "date": "2020-05-04",
       "deaths": 2,
-      "recovered": 686
+      "recovered": 713
     }
   },
   "Dominican Republic": {
@@ -469,10 +469,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 3988,
+      "confirmed": 4028,
       "date": "2020-05-04",
       "deaths": 27,
-      "recovered": 1084
+      "recovered": 1134
     }
   },
   "Korea, South": {
@@ -747,14 +747,6 @@
       "recovered": 2740
     }
   },
-  "Tunisia": {
-    "live": {
-      "confirmed": 1013,
-      "date": "2020-05-04",
-      "deaths": 42,
-      "recovered": 328
-    }
-  },
   "Turkey": {
     "live": {
       "confirmed": 126045,
@@ -769,7 +761,7 @@
         "live": {
           "confirmed": 1198,
           "date": "2020-05-04",
-          "deaths": 62,
+          "deaths": 63,
           "recovered": 0
         }
       },
@@ -815,25 +807,25 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 5016,
+          "confirmed": 5170,
           "date": "2020-05-04",
-          "deaths": 251,
+          "deaths": 258,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 26095,
+          "confirmed": 26734,
           "date": "2020-05-04",
-          "deaths": 903,
+          "deaths": 918,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 13403,
+          "confirmed": 13406,
           "date": "2020-05-04",
-          "deaths": 494,
+          "deaths": 495,
           "recovered": 0
         }
       },
@@ -879,9 +871,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 20062,
+          "confirmed": 21897,
           "date": "2020-05-04",
-          "deaths": 944,
+          "deaths": 1028,
           "recovered": 0
         }
       },
@@ -911,7 +903,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4737,
+          "confirmed": 4825,
           "date": "2020-05-04",
           "deaths": 247,
           "recovered": 0
@@ -969,7 +961,7 @@
         "live": {
           "confirmed": 1724,
           "date": "2020-05-04",
-          "deaths": 49,
+          "deaths": 51,
           "recovered": 0
         }
       },
