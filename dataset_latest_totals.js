@@ -956,7 +956,7 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "latest": {
-        "confirmed": 42505,
+        "confirmed": 42533,
         "deaths": 1391,
         "recovered": 11775
       }

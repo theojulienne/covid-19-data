@@ -37,7 +37,7 @@
         "live": {
           "confirmed": 3033,
           "date": "2020-05-04",
-          "deaths": 42,
+          "deaths": 43,
           "recovered": 2328
         }
       },
@@ -405,7 +405,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 42505,
+      "confirmed": 42533,
       "date": "2020-05-04",
       "deaths": 1391,
       "recovered": 11775
