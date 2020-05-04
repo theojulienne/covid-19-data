@@ -63,8 +63,8 @@
     "live": {
       "confirmed": 15597,
       "date": "2020-05-04",
-      "deaths": 598,
-      "recovered": 13228
+      "deaths": 600,
+      "recovered": 13316
     }
   },
   "Azerbaijan": {
@@ -335,8 +335,8 @@
     "live": {
       "confirmed": 5327,
       "date": "2020-05-04",
-      "deaths": 230,
-      "recovered": 3000
+      "deaths": 240,
+      "recovered": 3500
     }
   },
   "France": {
@@ -421,10 +421,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 97424,
+      "confirmed": 98647,
       "date": "2020-05-04",
-      "deaths": 6203,
-      "recovered": 78422
+      "deaths": 6277,
+      "recovered": 79379
     }
   },
   "Iraq": {
@@ -733,7 +733,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 29905,
+      "confirmed": 29981,
       "date": "2020-05-04",
       "deaths": 1762,
       "recovered": 24500
