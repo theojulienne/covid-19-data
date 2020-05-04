@@ -233,9 +233,9 @@
     },
     "BRA": {
       "latest": {
-        "confirmed": 105222,
-        "deaths": 7288,
-        "recovered": 42991
+        "confirmed": 107844,
+        "deaths": 7328,
+        "recovered": 45815
       }
     },
     "BRB": {
@@ -275,18 +275,18 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 61765,
-        "deaths": 3983,
+        "confirmed": 61905,
+        "deaths": 4002,
         "recovered": 24921
       },
       "states": {
         "Alberta": {
-          "confirmed": 5766,
-          "deaths": 95
+          "confirmed": 5836,
+          "deaths": 104
         },
         "British Columbia": {
-          "confirmed": 2171,
-          "deaths": 114
+          "confirmed": 2224,
+          "deaths": 117
         },
         "Diamond Princess": {
           "confirmed": 1,
@@ -317,8 +317,8 @@
           "deaths": 37
         },
         "Ontario": {
-          "confirmed": 19077,
-          "deaths": 1439
+          "confirmed": 19094,
+          "deaths": 1446
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -560,9 +560,9 @@
     },
     "COL": {
       "latest": {
-        "confirmed": 7668,
-        "deaths": 340,
-        "recovered": 1722
+        "confirmed": 7973,
+        "deaths": 358,
+        "recovered": 1807
       }
     },
     "COM": {
@@ -609,8 +609,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 165914,
-        "deaths": 6935,
+        "confirmed": 166137,
+        "deaths": 6982,
         "recovered": 132700
       }
     },
