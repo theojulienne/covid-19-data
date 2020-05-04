@@ -1325,7 +1325,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 11,
         "current_icu": 2,
         "deaths": 20,
-        "recovered": 1266,
+        "recovered": 1276,
         "tested": 150223
       }
     },
