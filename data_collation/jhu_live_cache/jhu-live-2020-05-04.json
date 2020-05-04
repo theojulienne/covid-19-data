@@ -54,7 +54,7 @@
           "confirmed": 1406,
           "date": "2020-05-04",
           "deaths": 18,
-          "recovered": 1300
+          "recovered": 1310
         }
       }
     }
@@ -597,9 +597,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 7090,
+      "confirmed": 7197,
       "date": "2020-05-04",
-      "deaths": 197,
+      "deaths": 200,
       "recovered": 641
     }
   },
