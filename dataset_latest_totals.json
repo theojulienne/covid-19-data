@@ -275,8 +275,8 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 61754,
-        "deaths": 3981,
+        "confirmed": 61765,
+        "deaths": 3983,
         "recovered": 24921
       },
       "states": {
@@ -317,8 +317,8 @@
           "deaths": 37
         },
         "Ontario": {
-          "confirmed": 19066,
-          "deaths": 1437
+          "confirmed": 19077,
+          "deaths": 1439
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -346,7 +346,7 @@
       "latest": {
         "confirmed": 29981,
         "deaths": 1784,
-        "recovered": 24500
+        "recovered": 25200
       }
     },
     "CHL": {
@@ -609,8 +609,8 @@
     },
     "DEU": {
       "latest": {
-        "confirmed": 165824,
-        "deaths": 6918,
+        "confirmed": 165914,
+        "deaths": 6935,
         "recovered": 132700
       }
     },
@@ -691,9 +691,9 @@
     },
     "ESP": {
       "latest": {
-        "confirmed": 217466,
-        "deaths": 25264,
-        "recovered": 118902
+        "confirmed": 218011,
+        "deaths": 25428,
+        "recovered": 121343
       }
     },
     "EST": {
@@ -726,9 +726,9 @@
     },
     "FRA": {
       "latest": {
-        "confirmed": 167272,
-        "deaths": 24864,
-        "recovered": 49973
+        "confirmed": 167886,
+        "deaths": 25168,
+        "recovered": 50438
       },
       "states": {
         "French Guiana": {
@@ -1485,9 +1485,9 @@
     },
     "SRB": {
       "latest": {
-        "confirmed": 9464,
-        "deaths": 193,
-        "recovered": 1551
+        "confirmed": 9557,
+        "deaths": 197,
+        "recovered": 1574
       }
     },
     "SSD": {
@@ -1522,7 +1522,7 @@
       "latest": {
         "confirmed": 22721,
         "deaths": 2769,
-        "recovered": 1005
+        "recovered": 4074
       }
     },
     "SWZ": {
