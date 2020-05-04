@@ -275,7 +275,7 @@
     },
     "CAN": {
       "latest": {
-        "confirmed": 60482,
+        "confirmed": 60483,
         "deaths": 3789,
         "recovered": 23814
       },
@@ -317,7 +317,7 @@
           "deaths": 31
         },
         "Ontario": {
-          "confirmed": 18572,
+          "confirmed": 18573,
           "deaths": 1326
         },
         "Prince Edward Island": {
@@ -560,9 +560,9 @@
     },
     "COL": {
       "latest": {
-        "confirmed": 7285,
-        "deaths": 324,
-        "recovered": 1666
+        "confirmed": 7668,
+        "deaths": 340,
+        "recovered": 1722
       }
     },
     "COM": {
@@ -602,9 +602,9 @@
     },
     "CZE": {
       "latest": {
-        "confirmed": 7764,
-        "deaths": 245,
-        "recovered": 3584
+        "confirmed": 7781,
+        "deaths": 248,
+        "recovered": 3587
       }
     },
     "DEU": {
@@ -1264,9 +1264,9 @@
     },
     "NGA": {
       "latest": {
-        "confirmed": 2388,
-        "deaths": 85,
-        "recovered": 385
+        "confirmed": 2558,
+        "deaths": 87,
+        "recovered": 400
       }
     },
     "NIC": {
@@ -1307,7 +1307,7 @@
     },
     "NOR": {
       "latest": {
-        "confirmed": 7833,
+        "confirmed": 7847,
         "deaths": 211,
         "recovered": 32
       }
@@ -1590,9 +1590,9 @@
     },
     "TUN": {
       "latest": {
-        "confirmed": 1009,
+        "confirmed": 1013,
         "deaths": 42,
-        "recovered": 323
+        "recovered": 328
       }
     },
     "TUR": {
@@ -1980,7 +1980,7 @@
     },
     "UZB": {
       "latest": {
-        "confirmed": 2136,
+        "confirmed": 2149,
         "deaths": 10,
         "recovered": 1319
       }
