@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 102719,
+      "confirmed": 105222,
       "date": "2020-05-04",
-      "deaths": 7106,
+      "deaths": 7288,
       "recovered": 42991
     }
   },
@@ -167,9 +167,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 18720,
+          "confirmed": 19066,
           "date": "2020-05-04",
-          "deaths": 1346,
+          "deaths": 1437,
           "recovered": 0
         }
       },
@@ -245,10 +245,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 1398,
+      "confirmed": 1432,
       "date": "2020-05-04",
       "deaths": 17,
-      "recovered": 653
+      "recovered": 693
     }
   },
   "Croatia": {
@@ -341,9 +341,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 165786,
+      "confirmed": 165824,
       "date": "2020-05-04",
-      "deaths": 6893,
+      "deaths": 6918,
       "recovered": 132700
     }
   },
@@ -400,7 +400,7 @@
       "confirmed": 46437,
       "date": "2020-05-04",
       "deaths": 1566,
-      "recovered": 12842
+      "recovered": 12847
     }
   },
   "Indonesia": {
@@ -597,10 +597,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 45928,
+      "confirmed": 47372,
       "date": "2020-05-04",
-      "deaths": 1286,
-      "recovered": 13550
+      "deaths": 1344,
+      "recovered": 14427
     }
   },
   "Philippines": {
@@ -751,7 +751,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1216,
+          "confirmed": 1217,
           "date": "2020-05-04",
           "deaths": 65,
           "recovered": 0
@@ -815,7 +815,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13540,
+          "confirmed": 13562,
           "date": "2020-05-04",
           "deaths": 509,
           "recovered": 0
@@ -823,9 +823,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 54899,
+          "confirmed": 56951,
           "date": "2020-05-04",
-          "deaths": 2342,
+          "deaths": 2375,
           "recovered": 0
         }
       },
@@ -871,7 +871,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 64849,
+          "confirmed": 66143,
           "date": "2020-05-04",
           "deaths": 3840,
           "recovered": 0
