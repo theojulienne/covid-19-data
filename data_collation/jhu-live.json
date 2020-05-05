@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 4648,
+      "confirmed": 4838,
       "date": "2020-05-05",
-      "deaths": 465,
-      "recovered": 1998
+      "deaths": 470,
+      "recovered": 2067
     }
   },
   "Argentina": {
@@ -133,9 +133,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1689,
+      "confirmed": 1704,
       "date": "2020-05-05",
-      "deaths": 78,
+      "deaths": 80,
       "recovered": 342
     }
   },
@@ -185,10 +185,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 20643,
+      "confirmed": 22016,
       "date": "2020-05-05",
-      "deaths": 270,
-      "recovered": 10415
+      "deaths": 275,
+      "recovered": 10710
     }
   },
   "China": {
@@ -293,10 +293,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 8235,
+      "confirmed": 8480,
       "date": "2020-05-05",
-      "deaths": 346,
-      "recovered": 1771
+      "deaths": 354,
+      "recovered": 1905
     }
   },
   "Ecuador": {
@@ -309,10 +309,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 6813,
+      "confirmed": 7201,
       "date": "2020-05-05",
-      "deaths": 436,
-      "recovered": 1632
+      "deaths": 452,
+      "recovered": 1730
     }
   },
   "Estonia": {
@@ -341,7 +341,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 166199,
+      "confirmed": 166304,
       "date": "2020-05-05",
       "deaths": 6993,
       "recovered": 135100
@@ -517,9 +517,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 4248,
+      "confirmed": 4363,
       "date": "2020-05-05",
-      "deaths": 133,
+      "deaths": 136,
       "recovered": 1544
     }
   },
@@ -567,7 +567,7 @@
     "live": {
       "confirmed": 7904,
       "date": "2020-05-05",
-      "deaths": 214,
+      "deaths": 215,
       "recovered": 32
     }
   },
