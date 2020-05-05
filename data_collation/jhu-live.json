@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 108266,
+      "confirmed": 108620,
       "date": "2020-05-05",
-      "deaths": 7343,
+      "deaths": 7367,
       "recovered": 45815
     }
   },
@@ -198,7 +198,7 @@
           "confirmed": 1588,
           "date": "2020-05-05",
           "deaths": 8,
-          "recovered": 1569
+          "recovered": 1571
         }
       },
       "Henan": {
@@ -230,7 +230,7 @@
           "confirmed": 1268,
           "date": "2020-05-05",
           "deaths": 1,
-          "recovered": 1265
+          "recovered": 1267
         }
       }
     }
@@ -344,7 +344,7 @@
       "confirmed": 166152,
       "date": "2020-05-05",
       "deaths": 6993,
-      "recovered": 132700
+      "recovered": 135100
     }
   },
   "Ghana": {
@@ -373,10 +373,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1055,
+      "confirmed": 1178,
       "date": "2020-05-05",
-      "deaths": 82,
-      "recovered": 118
+      "deaths": 83,
+      "recovered": 122
     }
   },
   "Hungary": {
@@ -469,10 +469,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10801,
+      "confirmed": 10804,
       "date": "2020-05-05",
-      "deaths": 252,
-      "recovered": 9217
+      "deaths": 254,
+      "recovered": 9283
     }
   },
   "Kuwait": {
@@ -512,7 +512,7 @@
       "confirmed": 24905,
       "date": "2020-05-05",
       "deaths": 2271,
-      "recovered": 13447
+      "recovered": 15938
     }
   },
   "Moldova": {
@@ -541,10 +541,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1487,
+      "confirmed": 1486,
       "date": "2020-05-05",
       "deaths": 20,
-      "recovered": 1276
+      "recovered": 1302
     }
   },
   "Nigeria": {
@@ -581,18 +581,18 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 20941,
+      "confirmed": 21501,
       "date": "2020-05-05",
-      "deaths": 476,
-      "recovered": 5635
+      "deaths": 486,
+      "recovered": 5782
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 7197,
+      "confirmed": 7387,
       "date": "2020-05-05",
-      "deaths": 200,
-      "recovered": 641
+      "deaths": 203,
+      "recovered": 726
     }
   },
   "Peru": {
@@ -767,9 +767,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 47559,
+          "confirmed": 47665,
           "date": "2020-05-05",
-          "deaths": 2038,
+          "deaths": 2046,
           "recovered": 0
         }
       },
