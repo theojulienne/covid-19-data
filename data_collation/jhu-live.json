@@ -69,10 +69,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 1984,
+      "confirmed": 2060,
       "date": "2020-05-05",
       "deaths": 26,
-      "recovered": 1480
+      "recovered": 1508
     }
   },
   "Bahrain": {
@@ -807,9 +807,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 26734,
+          "confirmed": 27120,
           "date": "2020-05-05",
-          "deaths": 918,
+          "deaths": 969,
           "recovered": 0
         }
       },
@@ -863,9 +863,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 21897,
+          "confirmed": 22527,
           "date": "2020-05-05",
-          "deaths": 1028,
+          "deaths": 1078,
           "recovered": 0
         }
       },
@@ -1076,7 +1076,7 @@
       "confirmed": 2204,
       "date": "2020-05-05",
       "deaths": 10,
-      "recovered": 1454
+      "recovered": 1501
     }
   }
 }
