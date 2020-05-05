@@ -104,7 +104,8 @@ var covid19_dataset_country_egy = {
     "2020-05-02",
     "2020-05-03",
     "2020-05-04",
-    "2020-05-05"
+    "2020-05-05",
+    "2020-05-06"
   ],
   "total": {
     "confirmed": [
@@ -210,8 +211,7 @@ var covid19_dataset_country_egy = {
       5537,
       5895,
       6193,
-      6465,
-      6813
+      6465
     ],
     "deaths": [
       0,
@@ -316,8 +316,7 @@ var covid19_dataset_country_egy = {
       392,
       406,
       415,
-      429,
-      436
+      429
     ],
     "recovered": [
       0,
@@ -422,8 +421,7 @@ var covid19_dataset_country_egy = {
       1381,
       1460,
       1522,
-      1562,
-      1632
+      1562
     ]
   }
 };

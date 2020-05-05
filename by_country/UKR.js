@@ -104,7 +104,8 @@ var covid19_dataset_country_ukr = {
     "2020-05-02",
     "2020-05-03",
     "2020-05-04",
-    "2020-05-05"
+    "2020-05-05",
+    "2020-05-06"
   ],
   "total": {
     "confirmed": [
@@ -210,8 +211,7 @@ var covid19_dataset_country_ukr = {
       10406,
       10861,
       11411,
-      11913,
-      12331
+      11913
     ],
     "deaths": [
       0,
@@ -316,8 +316,7 @@ var covid19_dataset_country_ukr = {
       261,
       272,
       279,
-      288,
-      303
+      288
     ],
     "recovered": [
       0,
@@ -422,8 +421,7 @@ var covid19_dataset_country_ukr = {
       1238,
       1413,
       1498,
-      1548,
-      1619
+      1548
     ]
   }
 };

@@ -534,7 +534,8 @@ var covid19_dataset_country_nzl = {
     "2020-05-02",
     "2020-05-03",
     "2020-05-04",
-    "2020-05-05"
+    "2020-05-05",
+    "2020-05-06"
   ],
   "total": {
     "confirmed": [
@@ -640,8 +641,7 @@ var covid19_dataset_country_nzl = {
       1476,
       1479,
       1134,
-      1136,
-      1487
+      1136
     ],
     "current_hospitalized": [
       0,
@@ -956,8 +956,7 @@ var covid19_dataset_country_nzl = {
       9,
       9,
       9,
-      9,
-      20
+      9
     ],
     "recovered": [
       0,
@@ -1062,8 +1061,7 @@ var covid19_dataset_country_nzl = {
       1241,
       1252,
       1263,
-      1266,
-      1276
+      1266
     ],
     "tested": [
       0,

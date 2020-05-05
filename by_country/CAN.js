@@ -105,8 +105,7 @@ var covid19_dataset_country_can = {
           5355,
           5573,
           5670,
-          5766,
-          5836
+          5766
         ],
         "deaths": [
           0,
@@ -211,8 +210,7 @@ var covid19_dataset_country_can = {
           90,
           92,
           94,
-          95,
-          104
+          95
         ]
       }
     },
@@ -321,8 +319,7 @@ var covid19_dataset_country_can = {
           2112,
           2145,
           2171,
-          2171,
-          2224
+          2171
         ],
         "deaths": [
           0,
@@ -427,8 +424,7 @@ var covid19_dataset_country_can = {
           111,
           112,
           114,
-          114,
-          117
+          114
         ]
       }
     },
@@ -2035,8 +2031,7 @@ var covid19_dataset_country_can = {
           17395,
           17880,
           18321,
-          18574,
-          19094
+          18574
         ],
         "deaths": [
           0,
@@ -2141,8 +2136,7 @@ var covid19_dataset_country_can = {
           1205,
           1265,
           1292,
-          1326,
-          1446
+          1326
         ]
       }
     },
@@ -2465,8 +2459,7 @@ var covid19_dataset_country_can = {
           27550,
           28656,
           29664,
-          31873,
-          32631
+          31873
         ],
         "deaths": [
           0,
@@ -2571,8 +2564,7 @@ var covid19_dataset_country_can = {
           1859,
           2022,
           2136,
-          2206,
-          2281
+          2206
         ]
       }
     },
@@ -3324,7 +3316,8 @@ var covid19_dataset_country_can = {
     "2020-05-02",
     "2020-05-03",
     "2020-05-04",
-    "2020-05-05"
+    "2020-05-05",
+    "2020-05-06"
   ],
   "total": {
     "confirmed": [
@@ -3430,8 +3423,7 @@ var covid19_dataset_country_can = {
       54457,
       56343,
       57926,
-      60504,
-      61905
+      60504
     ],
     "deaths": [
       0,
@@ -3536,8 +3528,7 @@ var covid19_dataset_country_can = {
       3310,
       3537,
       3684,
-      3795,
-      4002
+      3795
     ],
     "recovered": [
       0,

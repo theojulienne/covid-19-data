@@ -104,7 +104,8 @@ var covid19_dataset_country_mkd = {
     "2020-05-02",
     "2020-05-03",
     "2020-05-04",
-    "2020-05-05"
+    "2020-05-05",
+    "2020-05-06"
   ],
   "total": {
     "confirmed": [
@@ -210,8 +211,7 @@ var covid19_dataset_country_mkd = {
       1465,
       1494,
       1506,
-      1511,
-      1518
+      1511
     ],
     "deaths": [
       0,
@@ -316,8 +316,7 @@ var covid19_dataset_country_mkd = {
       77,
       81,
       82,
-      84,
-      85
+      84
     ],
     "recovered": [
       0,
@@ -422,8 +421,7 @@ var covid19_dataset_country_mkd = {
       738,
       807,
       852,
-      945,
-      992
+      945
     ]
   }
 };
