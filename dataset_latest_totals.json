@@ -76,9 +76,9 @@
         },
         "NSW": {
           "confirmed": 3035,
-          "current_hospitalized": null,
-          "current_icu": null,
-          "current_ventilators": null,
+          "current_hospitalized": 27,
+          "current_icu": 15,
+          "current_ventilators": 16,
           "deaths": 45,
           "recovered": 2349,
           "tested": 253995
@@ -93,8 +93,8 @@
         },
         "QLD": {
           "confirmed": 1043,
-          "current_hospitalized": null,
-          "current_icu": null,
+          "current_hospitalized": 11,
+          "current_icu": 6,
           "deaths": 6,
           "recovered": 980,
           "tested": 117721
