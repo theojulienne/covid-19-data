@@ -37,7 +37,7 @@
         "live": {
           "confirmed": 3035,
           "date": "2020-05-05",
-          "deaths": 43,
+          "deaths": 44,
           "recovered": 2349
         }
       },
@@ -269,10 +269,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7819,
+      "confirmed": 7841,
       "date": "2020-05-05",
       "deaths": 252,
-      "recovered": 3807
+      "recovered": 3816
     }
   },
   "Denmark": {
@@ -485,10 +485,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1419,
+      "confirmed": 1423,
       "date": "2020-05-05",
       "deaths": 46,
-      "recovered": 638
+      "recovered": 678
     }
   },
   "Luxembourg": {
@@ -677,7 +677,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 18778,
+      "confirmed": 19410,
       "date": "2020-05-05",
       "deaths": 18,
       "recovered": 1457
@@ -1049,10 +1049,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 12331,
+      "confirmed": 12697,
       "date": "2020-05-05",
-      "deaths": 303,
-      "recovered": 1619
+      "deaths": 316,
+      "recovered": 1875
     }
   },
   "United Arab Emirates": {
