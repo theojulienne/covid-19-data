@@ -184,9 +184,9 @@
     },
     "BGR": {
       "latest": {
-        "confirmed": 1652,
+        "confirmed": 1689,
         "deaths": 78,
-        "recovered": 321
+        "recovered": 342
       }
     },
     "BHR": {
@@ -956,9 +956,9 @@
     },
     "IND": {
       "latest": {
-        "confirmed": 46437,
-        "deaths": 1566,
-        "recovered": 12847
+        "confirmed": 46476,
+        "deaths": 1571,
+        "recovered": 12849
       }
     },
     "IRL": {
@@ -1026,7 +1026,7 @@
     },
     "KAZ": {
       "latest": {
-        "confirmed": 4049,
+        "confirmed": 4121,
         "deaths": 29,
         "recovered": 1173
       }
