@@ -167,17 +167,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19186,
+          "confirmed": 19249,
           "date": "2020-05-05",
-          "deaths": 1452,
+          "deaths": 1467,
           "recovered": 0
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 32631,
+          "confirmed": 33426,
           "date": "2020-05-05",
-          "deaths": 2281,
+          "deaths": 2399,
           "recovered": 0
         }
       }
@@ -261,10 +261,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1668,
+      "confirmed": 1685,
       "date": "2020-05-05",
       "deaths": 69,
-      "recovered": 876
+      "recovered": 954
     }
   },
   "Czechia": {
@@ -429,9 +429,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 21772,
+      "confirmed": 21983,
       "date": "2020-05-05",
-      "deaths": 1319,
+      "deaths": 1339,
       "recovered": 13386
     }
   },
@@ -461,10 +461,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4179,
+      "confirmed": 4205,
       "date": "2020-05-05",
       "deaths": 29,
-      "recovered": 1264
+      "recovered": 1279
     }
   },
   "Korea, South": {
@@ -581,7 +581,7 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 22048,
+      "confirmed": 22049,
       "date": "2020-05-05",
       "deaths": 514,
       "recovered": 5801
@@ -727,7 +727,7 @@
     "live": {
       "confirmed": 30009,
       "date": "2020-05-05",
-      "deaths": 1790,
+      "deaths": 1795,
       "recovered": 25200
     }
   },
@@ -761,15 +761,15 @@
         "live": {
           "confirmed": 6308,
           "date": "2020-05-05",
-          "deaths": 228,
+          "deaths": 280,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 47665,
+          "confirmed": 47803,
           "date": "2020-05-05",
-          "deaths": 2046,
+          "deaths": 2053,
           "recovered": 0
         }
       },
@@ -815,9 +815,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13697,
+          "confirmed": 13735,
           "date": "2020-05-05",
-          "deaths": 524,
+          "deaths": 531,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "South Dakota": {
         "live": {
-          "confirmed": 2170,
+          "confirmed": 2195,
           "date": "2020-05-05",
-          "deaths": 16,
+          "deaths": 19,
           "recovered": 0
         }
       },
@@ -1007,9 +1007,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 18572,
+          "confirmed": 18616,
           "date": "2020-05-05",
-          "deaths": 458,
+          "deaths": 460,
           "recovered": 0
         }
       },
@@ -1073,7 +1073,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2204,
+      "confirmed": 2207,
       "date": "2020-05-05",
       "deaths": 10,
       "recovered": 1501
