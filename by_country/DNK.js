@@ -858,7 +858,8 @@ var covid19_dataset_country_dnk = {
       9311,
       9407,
       9523,
-      9670
+      9670,
+      9821
     ],
     "deaths": [
       0,
