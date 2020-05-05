@@ -20,13 +20,13 @@ dataset = {
 with open('dataset.json', 'r') as f:
   full_dataset = json.load(f)
 
-def latest_filled_value(ts):
-  for v in reversed(ts):
+def latest_filled_value(ts, distance):
+  for v in reversed(ts[:-(1 + distance)]):
     if v is not None:
       return v
 
-def get_latest(series):
-  return { k: latest_filled_value(v) for k,v in series['total'].items() }
+def get_latest(series, distance=0):
+  return { k: latest_filled_value(v, distance) for k,v in series['total'].items() }
 
 for country_iso, country_data in full_dataset['subseries'].items():
   if country_iso not in dataset['countries']:
@@ -35,6 +35,8 @@ for country_iso, country_data in full_dataset['subseries'].items():
       dataset['countries'][country_iso]['states'] = {}
   
   dataset['countries'][country_iso]['latest'] = get_latest(country_data)
+  dataset['countries'][country_iso]['back_1week'] = get_latest(country_data, distance=7)
+  dataset['countries'][country_iso]['back_2week'] = get_latest(country_data, distance=14)
   for state_name, state_data in country_data.get('subseries', {}).items():
     dataset['countries'][country_iso]['states'][state_name] = get_latest(state_data)
 
