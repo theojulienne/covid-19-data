@@ -63,7 +63,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 10,
         "deaths": 95,
         "recovered": 5887,
-        "tested": 632188
+        "tested": 633259
       },
       "states": {
         "ACT": {
@@ -97,7 +97,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": null,
           "deaths": 6,
           "recovered": 980,
-          "tested": 116650
+          "tested": 117721
         },
         "SA": {
           "confirmed": 438,
