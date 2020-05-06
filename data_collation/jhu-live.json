@@ -413,9 +413,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 21983,
+      "confirmed": 22248,
       "date": "2020-05-06",
-      "deaths": 1339,
+      "deaths": 1375,
       "recovered": 13386
     }
   },
@@ -448,7 +448,7 @@
       "confirmed": 4344,
       "date": "2020-05-06",
       "deaths": 30,
-      "recovered": 1387
+      "recovered": 1408
     }
   },
   "Korea, South": {
@@ -504,15 +504,15 @@
       "confirmed": 4476,
       "date": "2020-05-06",
       "deaths": 143,
-      "recovered": 1544
+      "recovered": 1658
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 5382,
+      "confirmed": 5408,
       "date": "2020-05-06",
-      "deaths": 182,
-      "recovered": 1969
+      "deaths": 183,
+      "recovered": 2017
     }
   },
   "Netherlands": {
@@ -735,9 +735,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1265,
+          "confirmed": 1281,
           "date": "2020-05-06",
-          "deaths": 75,
+          "deaths": 76,
           "recovered": 0
         }
       },
@@ -745,15 +745,15 @@
         "live": {
           "confirmed": 6563,
           "date": "2020-05-06",
-          "deaths": 280,
+          "deaths": 302,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 49892,
+          "confirmed": 49987,
           "date": "2020-05-06",
-          "deaths": 2139,
+          "deaths": 2140,
           "recovered": 0
         }
       },
@@ -775,9 +775,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 4499,
+          "confirmed": 4851,
           "date": "2020-05-06",
-          "deaths": 155,
+          "deaths": 160,
           "recovered": 0
         }
       },
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 14260,
+          "confirmed": 13232,
           "date": "2020-05-06",
-          "deaths": 541,
+          "deaths": 523,
           "recovered": 0
         }
       },
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 312145,
           "date": "2020-05-06",
-          "deaths": 24771,
+          "deaths": 24747,
           "recovered": 0
         }
       },
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 47185,
           "date": "2020-05-06",
-          "deaths": 2954,
+          "deaths": 2962,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 19090,
+          "confirmed": 20290,
           "date": "2020-05-06",
-          "deaths": 476,
+          "deaths": 506,
           "recovered": 0
         }
       },
