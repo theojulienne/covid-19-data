@@ -213,11 +213,11 @@
         },
         "VIC": {
           "confirmed": 1423,
-          "current_hospitalized": 11,
+          "current_hospitalized": 12,
           "current_icu": 6,
           "deaths": 18,
           "recovered": 1311,
-          "tested": 146500
+          "tested": 152000
         },
         "WA": {
           "confirmed": 551,
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 5836,
-          "deaths": 104
+          "confirmed": 5893,
+          "deaths": 106
         },
         "British Columbia": {
           "confirmed": 2224,
@@ -1072,19 +1072,19 @@
     },
     "DJI": {
       "back_1week": {
-        "confirmed": 1035,
+        "confirmed": 1072,
         "deaths": 2,
-        "recovered": 477
+        "recovered": 498
       },
       "back_2week": {
-        "confirmed": 846,
+        "confirmed": 945,
         "deaths": 2,
-        "recovered": 102
+        "recovered": 112
       },
       "latest": {
-        "confirmed": 1116,
+        "confirmed": 1120,
         "deaths": 2,
-        "recovered": 713
+        "recovered": 745
       }
     },
     "DMA": {

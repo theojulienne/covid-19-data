@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3042,
+          "confirmed": 3045,
           "date": "2020-05-06",
           "deaths": 44,
           "recovered": 2424
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 123809,
+      "confirmed": 125218,
       "date": "2020-05-06",
-      "deaths": 8412,
+      "deaths": 8536,
       "recovered": 48221
     }
   },
@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 5893,
+          "confirmed": 5963,
           "date": "2020-05-06",
-          "deaths": 106,
+          "deaths": 112,
           "recovered": 0
         }
       },
@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19869,
+          "confirmed": 19909,
           "date": "2020-05-06",
-          "deaths": 1559,
+          "deaths": 1560,
           "recovered": 0
         }
       },
@@ -269,10 +269,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 1120,
+      "confirmed": 1124,
       "date": "2020-05-06",
-      "deaths": 2,
-      "recovered": 745
+      "deaths": 3,
+      "recovered": 755
     }
   },
   "Dominican Republic": {
@@ -325,7 +325,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 167817,
+      "confirmed": 168162,
       "date": "2020-05-06",
       "deaths": 7275,
       "recovered": 137696
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13295,
+          "confirmed": 13298,
           "date": "2020-05-06",
-          "deaths": 525,
+          "deaths": 528,
           "recovered": 0
         }
       },
@@ -857,7 +857,7 @@
         "live": {
           "confirmed": 69349,
           "date": "2020-05-06",
-          "deaths": 4036,
+          "deaths": 4239,
           "recovered": 0
         }
       },
@@ -1015,9 +1015,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 11992,
+          "confirmed": 12191,
           "date": "2020-05-06",
-          "deaths": 685,
+          "deaths": 690,
           "recovered": 0
         }
       },
