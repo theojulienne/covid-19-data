@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 115455,
+      "confirmed": 115953,
       "date": "2020-05-06",
-      "deaths": 7938,
+      "deaths": 7958,
       "recovered": 48221
     }
   },
@@ -573,10 +573,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 22049,
+      "confirmed": 22550,
       "date": "2020-05-06",
-      "deaths": 514,
-      "recovered": 5801
+      "deaths": 526,
+      "recovered": 6217
     }
   },
   "Panama": {
@@ -759,9 +759,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 50797,
+          "confirmed": 50937,
           "date": "2020-05-06",
-          "deaths": 2145,
+          "deaths": 2150,
           "recovered": 0
         }
       },
@@ -807,9 +807,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12832,
+          "confirmed": 12834,
           "date": "2020-05-06",
-          "deaths": 520,
+          "deaths": 519,
           "recovered": 0
         }
       },
