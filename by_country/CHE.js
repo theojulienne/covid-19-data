@@ -322,7 +322,8 @@ var covid19_dataset_country_che = {
       1762,
       1762,
       1784,
-      1795
+      1795,
+      1805
     ],
     "recovered": [
       0,
@@ -429,7 +430,8 @@ var covid19_dataset_country_che = {
       24200,
       24500,
       25200,
-      25400
+      25400,
+      25700
     ]
   }
 };
