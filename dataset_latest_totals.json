@@ -70,19 +70,19 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 10839,
-        "deaths": 82,
-        "recovered": 2090
+        "confirmed": 11380,
+        "deaths": 89,
+        "recovered": 2181
       },
       "back_2week": {
-        "confirmed": 7265,
-        "deaths": 43,
-        "recovered": 1360
+        "confirmed": 7755,
+        "deaths": 46,
+        "recovered": 1443
       },
       "latest": {
-        "confirmed": 14730,
-        "deaths": 137,
-        "recovered": 2966
+        "confirmed": 15192,
+        "deaths": 146,
+        "recovered": 3153
       }
     },
     "ARG": {
@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 51150,
-        "deaths": 2841,
+        "deaths": 2983,
         "recovered": 18268
       },
       "back_2week": {
         "confirmed": 39402,
-        "deaths": 1727,
+        "deaths": 1910,
         "recovered": 12543
       },
       "latest": {
         "confirmed": 63215,
-        "deaths": 4003,
+        "deaths": 4190,
         "recovered": 26030
       },
       "states": {
@@ -624,15 +624,15 @@
         },
         "Ontario": {
           "confirmed": 19468,
-          "deaths": 1446
+          "deaths": 1505
         },
         "Prince Edward Island": {
           "confirmed": 27,
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 32631,
-          "deaths": 2281
+          "confirmed": 33425,
+          "deaths": 2399
         },
         "Recovered": {
           "confirmed": 0,
@@ -1511,19 +1511,19 @@
     },
     "GIN": {
       "back_1week": {
-        "confirmed": 1163,
+        "confirmed": 1240,
         "deaths": 7,
-        "recovered": 246
+        "recovered": 269
       },
       "back_2week": {
-        "confirmed": 622,
-        "deaths": 5,
-        "recovered": 122
+        "confirmed": 688,
+        "deaths": 6,
+        "recovered": 127
       },
       "latest": {
-        "confirmed": 1710,
-        "deaths": 9,
-        "recovered": 450
+        "confirmed": 1811,
+        "deaths": 10,
+        "recovered": 498
       }
     },
     "GMB": {
