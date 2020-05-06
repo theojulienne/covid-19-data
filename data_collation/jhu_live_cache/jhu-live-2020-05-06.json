@@ -109,10 +109,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 1681,
+      "confirmed": 1802,
       "date": "2020-05-06",
-      "deaths": 82,
-      "recovered": 174
+      "deaths": 86,
+      "recovered": 187
     }
   },
   "Bosnia and Herzegovina": {
@@ -125,9 +125,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 114715,
+      "confirmed": 115455,
       "date": "2020-05-06",
-      "deaths": 7921,
+      "deaths": 7938,
       "recovered": 48221
     }
   },
@@ -461,10 +461,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10804,
+      "confirmed": 10806,
       "date": "2020-05-06",
-      "deaths": 254,
-      "recovered": 9283
+      "deaths": 255,
+      "recovered": 9333
     }
   },
   "Kuwait": {
@@ -501,10 +501,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 24905,
+      "confirmed": 26025,
       "date": "2020-05-06",
-      "deaths": 2271,
-      "recovered": 15938
+      "deaths": 2507,
+      "recovered": 16810
     }
   },
   "Moldova": {
@@ -533,10 +533,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1486,
+      "confirmed": 1488,
       "date": "2020-05-06",
-      "deaths": 20,
-      "recovered": 1302
+      "deaths": 21,
+      "recovered": 1316
     }
   },
   "Nigeria": {
@@ -581,10 +581,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 7387,
+      "confirmed": 7523,
       "date": "2020-05-06",
-      "deaths": 203,
-      "recovered": 726
+      "deaths": 210,
+      "recovered": 823
     }
   },
   "Peru": {
@@ -759,9 +759,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 50685,
+          "confirmed": 50797,
           "date": "2020-05-06",
-          "deaths": 2138,
+          "deaths": 2145,
           "recovered": 0
         }
       },
@@ -807,7 +807,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12821,
+          "confirmed": 12832,
           "date": "2020-05-06",
           "deaths": 520,
           "recovered": 0
@@ -911,7 +911,7 @@
       },
       "New Hampshire": {
         "live": {
-          "confirmed": 1157,
+          "confirmed": 1181,
           "date": "2020-05-06",
           "deaths": 31,
           "recovered": 0
