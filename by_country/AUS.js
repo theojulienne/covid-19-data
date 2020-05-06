@@ -4529,7 +4529,7 @@ var covid19_dataset_country_aus = {
             192,
             192,
             193,
-            193
+            194
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -4961,7 +4961,7 @@ var covid19_dataset_country_aus = {
             314,
             315,
             316,
-            316
+            315
           ],
           "Metro South": [
             0,

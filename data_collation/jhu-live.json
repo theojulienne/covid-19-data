@@ -376,7 +376,7 @@
       "confirmed": 1799,
       "date": "2020-05-06",
       "deaths": 10,
-      "recovered": 1733
+      "recovered": 1750
     }
   },
   "India": {
@@ -737,7 +737,7 @@
         "live": {
           "confirmed": 1265,
           "date": "2020-05-06",
-          "deaths": 71,
+          "deaths": 75,
           "recovered": 0
         }
       },
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 50937,
+          "confirmed": 49892,
           "date": "2020-05-06",
-          "deaths": 2150,
+          "deaths": 2139,
           "recovered": 0
         }
       },
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 14157,
+          "confirmed": 14216,
           "date": "2020-05-06",
-          "deaths": 537,
+          "deaths": 540,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 22527,
+          "confirmed": 24458,
           "date": "2020-05-06",
-          "deaths": 1078,
+          "deaths": 1148,
           "recovered": 0
         }
       },
@@ -1060,7 +1060,7 @@
       "confirmed": 2231,
       "date": "2020-05-06",
       "deaths": 10,
-      "recovered": 1556
+      "recovered": 1577
     }
   }
 }

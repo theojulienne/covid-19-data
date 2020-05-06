@@ -1802,17 +1802,17 @@
       "back_1week": {
         "confirmed": 1792,
         "deaths": 10,
-        "recovered": 1624
+        "recovered": 1636
       },
       "back_2week": {
         "confirmed": 1773,
         "deaths": 10,
-        "recovered": 1362
+        "recovered": 1417
       },
       "latest": {
         "confirmed": 1799,
         "deaths": 10,
-        "recovered": 1723
+        "recovered": 1733
       }
     },
     "ISR": {
@@ -3373,10 +3373,10 @@
         "tested": 4029868
       },
       "latest": {
-        "confirmed": 1171185,
+        "confirmed": 1171391,
         "deaths": 62672,
         "recovered": 187007,
-        "tested": 7270958
+        "tested": 7271164
       },
       "states": {
         "AK": {
@@ -3522,10 +3522,10 @@
           "tested": 20751
         },
         "MI": {
-          "confirmed": 43754,
+          "confirmed": 43960,
           "deaths": 4049,
           "recovered": 15659,
-          "tested": 222193
+          "tested": 222399
         },
         "MN": {
           "confirmed": 7234,
