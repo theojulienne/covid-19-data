@@ -105,7 +105,8 @@ var covid19_dataset_country_omn = {
     "2020-05-03",
     "2020-05-04",
     "2020-05-05",
-    "2020-05-06"
+    "2020-05-06",
+    "2020-05-07"
   ],
   "total": {
     "confirmed": [
@@ -319,7 +320,8 @@ var covid19_dataset_country_omn = {
       11,
       12,
       12,
-      12
+      12,
+      13
     ],
     "recovered": [
       0,
