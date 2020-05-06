@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 3224,
+      "confirmed": 3392,
       "date": "2020-05-06",
-      "deaths": 95,
-      "recovered": 421
+      "deaths": 104,
+      "recovered": 458
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 2619,
+      "confirmed": 2782,
       "date": "2020-05-06",
       "deaths": 40,
-      "recovered": 1111
+      "recovered": 1135
     }
   },
   "Australia": {
@@ -38,7 +38,7 @@
           "confirmed": 3042,
           "date": "2020-05-06",
           "deaths": 44,
-          "recovered": 2418
+          "recovered": 2424
         }
       },
       "Queensland": {
@@ -336,7 +336,7 @@
       "confirmed": 167007,
       "date": "2020-05-06",
       "deaths": 6993,
-      "recovered": 135100
+      "recovered": 137400
     }
   },
   "Ghana": {
@@ -453,10 +453,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4277,
+      "confirmed": 4298,
       "date": "2020-05-06",
       "deaths": 29,
-      "recovered": 1279
+      "recovered": 1299
     }
   },
   "Korea, South": {
@@ -608,7 +608,7 @@
       "confirmed": 14431,
       "date": "2020-05-06",
       "deaths": 716,
-      "recovered": 4280
+      "recovered": 4655
     }
   },
   "Portugal": {
@@ -631,7 +631,7 @@
     "live": {
       "confirmed": 13837,
       "date": "2020-05-06",
-      "deaths": 841,
+      "deaths": 854,
       "recovered": 5454
     }
   },
@@ -669,7 +669,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 19410,
+      "confirmed": 20198,
       "date": "2020-05-06",
       "deaths": 18,
       "recovered": 1519
@@ -1041,10 +1041,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 12697,
+      "confirmed": 13184,
       "date": "2020-05-06",
-      "deaths": 316,
-      "recovered": 1875
+      "deaths": 327,
+      "recovered": 2097
     }
   },
   "United Arab Emirates": {
@@ -1068,7 +1068,7 @@
       "confirmed": 2217,
       "date": "2020-05-06",
       "deaths": 10,
-      "recovered": 1501
+      "recovered": 1539
     }
   }
 }
