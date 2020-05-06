@@ -1056,12 +1056,12 @@ var covid19_dataset_latest_totals = {
     "DEU": {
       "back_1week": {
         "confirmed": 159912,
-        "deaths": 6126,
+        "deaths": 6314,
         "recovered": 117400
       },
       "back_2week": {
         "confirmed": 148291,
-        "deaths": 4862,
+        "deaths": 5033,
         "recovered": 95200
       },
       "latest": {

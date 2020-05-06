@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19602,
+          "confirmed": 19621,
           "date": "2020-05-06",
-          "deaths": 1518,
+          "deaths": 1521,
           "recovered": 0
         }
       },
@@ -325,9 +325,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 167372,
+      "confirmed": 167575,
       "date": "2020-05-06",
-      "deaths": 6993,
+      "deaths": 7190,
       "recovered": 137400
     }
   },
@@ -381,10 +381,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 52559,
+      "confirmed": 52987,
       "date": "2020-05-06",
       "deaths": 1785,
-      "recovered": 15257
+      "recovered": 15331
     }
   },
   "Indonesia": {
@@ -445,7 +445,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4344,
+      "confirmed": 4422,
       "date": "2020-05-06",
       "deaths": 30,
       "recovered": 1408
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13247,
+          "confirmed": 13282,
           "date": "2020-05-06",
           "deaths": 523,
           "recovered": 0
@@ -863,9 +863,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 37305,
+          "confirmed": 37767,
           "date": "2020-05-06",
-          "deaths": 3728,
+          "deaths": 3782,
           "recovered": 0
         }
       },
@@ -895,9 +895,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 4408,
+          "confirmed": 4473,
           "date": "2020-05-06",
-          "deaths": 226,
+          "deaths": 238,
           "recovered": 0
         }
       },
@@ -983,25 +983,25 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 7286,
+          "confirmed": 7493,
           "date": "2020-05-06",
-          "deaths": 92,
+          "deaths": 97,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 20290,
+          "confirmed": 20536,
           "date": "2020-05-06",
-          "deaths": 506,
+          "deaths": 508,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 4003,
+          "confirmed": 4122,
           "date": "2020-05-06",
-          "deaths": 45,
+          "deaths": 47,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 4898,
+          "confirmed": 5122,
           "date": "2020-05-06",
-          "deaths": 210,
+          "deaths": 215,
           "recovered": 0
         }
       }
