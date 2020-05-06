@@ -61,10 +61,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15650,
+      "confirmed": 15684,
       "date": "2020-05-06",
-      "deaths": 606,
-      "recovered": 13462
+      "deaths": 608,
+      "recovered": 13639
     }
   },
   "Azerbaijan": {
@@ -85,26 +85,26 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 10929,
+      "confirmed": 11719,
       "date": "2020-05-06",
-      "deaths": 183,
+      "deaths": 186,
       "recovered": 1403
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 18350,
+      "confirmed": 19255,
       "date": "2020-05-06",
-      "deaths": 107,
-      "recovered": 3771
+      "deaths": 112,
+      "recovered": 4388
     }
   },
   "Belgium": {
     "live": {
-      "confirmed": 50509,
+      "confirmed": 50781,
       "date": "2020-05-06",
-      "deaths": 8016,
-      "recovered": 12441
+      "deaths": 8339,
+      "recovered": 12731
     }
   },
   "Bolivia": {
@@ -261,10 +261,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 7896,
+      "confirmed": 7899,
       "date": "2020-05-06",
-      "deaths": 257,
-      "recovered": 4006
+      "deaths": 258,
+      "recovered": 4017
     }
   },
   "Denmark": {
@@ -317,7 +317,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 5412,
+      "confirmed": 5573,
       "date": "2020-05-06",
       "deaths": 246,
       "recovered": 3500
@@ -493,10 +493,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 6383,
+      "confirmed": 6428,
       "date": "2020-05-06",
-      "deaths": 106,
-      "recovered": 4567
+      "deaths": 107,
+      "recovered": 4702
     }
   },
   "Mexico": {
@@ -565,10 +565,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 2735,
+      "confirmed": 2903,
       "date": "2020-05-06",
       "deaths": 13,
-      "recovered": 858
+      "recovered": 888
     }
   },
   "Pakistan": {
@@ -631,7 +631,7 @@
     "live": {
       "confirmed": 13837,
       "date": "2020-05-06",
-      "deaths": 854,
+      "deaths": 858,
       "recovered": 5454
     }
   },
