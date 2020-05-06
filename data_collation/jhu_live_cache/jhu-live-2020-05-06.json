@@ -198,7 +198,7 @@
           "confirmed": 1588,
           "date": "2020-05-06",
           "deaths": 8,
-          "recovered": 1571
+          "recovered": 1575
         }
       },
       "Henan": {
@@ -365,9 +365,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1178,
+      "confirmed": 1270,
       "date": "2020-05-06",
-      "deaths": 83,
+      "deaths": 93,
       "recovered": 122
     }
   },
@@ -959,9 +959,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 45183,
+          "confirmed": 45613,
           "date": "2020-05-06",
-          "deaths": 2748,
+          "deaths": 2762,
           "recovered": 0
         }
       },
