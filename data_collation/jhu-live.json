@@ -159,7 +159,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19468,
+          "confirmed": 19527,
           "date": "2020-05-06",
           "deaths": 1505,
           "recovered": 0
@@ -177,10 +177,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 22016,
+      "confirmed": 23048,
       "date": "2020-05-06",
-      "deaths": 275,
-      "recovered": 10710
+      "deaths": 281,
+      "recovered": 11189
     }
   },
   "China": {
@@ -245,18 +245,18 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1685,
+      "confirmed": 1703,
       "date": "2020-05-06",
       "deaths": 69,
-      "recovered": 954
+      "recovered": 1001
     }
   },
   "Czechia": {
     "live": {
-      "confirmed": 7899,
+      "confirmed": 7933,
       "date": "2020-05-06",
-      "deaths": 258,
-      "recovered": 4017
+      "deaths": 262,
+      "recovered": 4202
     }
   },
   "Denmark": {
@@ -293,10 +293,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 7201,
+      "confirmed": 7588,
       "date": "2020-05-06",
-      "deaths": 452,
-      "recovered": 1730
+      "deaths": 469,
+      "recovered": 1815
     }
   },
   "Estonia": {
@@ -381,10 +381,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 49852,
+      "confirmed": 52340,
       "date": "2020-05-06",
-      "deaths": 1704,
-      "recovered": 14367
+      "deaths": 1768,
+      "recovered": 14911
     }
   },
   "Indonesia": {
@@ -405,10 +405,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2431,
+      "confirmed": 2480,
       "date": "2020-05-06",
       "deaths": 102,
-      "recovered": 1571
+      "recovered": 1602
     }
   },
   "Ireland": {
@@ -429,10 +429,10 @@
   },
   "Italy": {
     "live": {
-      "confirmed": 213013,
+      "confirmed": 214457,
       "date": "2020-05-06",
-      "deaths": 29315,
-      "recovered": 85231
+      "deaths": 29684,
+      "recovered": 93245
     }
   },
   "Japan": {
@@ -477,10 +477,10 @@
   },
   "Luxembourg": {
     "live": {
-      "confirmed": 3840,
+      "confirmed": 3851,
       "date": "2020-05-06",
-      "deaths": 96,
-      "recovered": 3412
+      "deaths": 98,
+      "recovered": 3452
     }
   },
   "Malaysia": {
@@ -501,9 +501,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 4363,
+      "confirmed": 4476,
       "date": "2020-05-06",
-      "deaths": 136,
+      "deaths": 143,
       "recovered": 1544
     }
   },
@@ -549,9 +549,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 7955,
+      "confirmed": 7976,
       "date": "2020-05-06",
-      "deaths": 215,
+      "deaths": 216,
       "recovered": 32
     }
   },
@@ -597,9 +597,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 14647,
+      "confirmed": 14740,
       "date": "2020-05-06",
-      "deaths": 723,
+      "deaths": 733,
       "recovered": 4655
     }
   },
@@ -663,8 +663,8 @@
     "live": {
       "confirmed": 20198,
       "date": "2020-05-06",
-      "deaths": 18,
-      "recovered": 1519
+      "deaths": 20,
+      "recovered": 1634
     }
   },
   "Slovakia": {
@@ -725,10 +725,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 129491,
+      "confirmed": 131744,
       "date": "2020-05-06",
-      "deaths": 3520,
-      "recovered": 73285
+      "deaths": 3584,
+      "recovered": 78202
     }
   },
   "US": {
@@ -743,7 +743,7 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 6308,
+          "confirmed": 6563,
           "date": "2020-05-06",
           "deaths": 280,
           "recovered": 0
@@ -783,9 +783,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 5322,
+          "confirmed": 5461,
           "date": "2020-05-06",
-          "deaths": 264,
+          "deaths": 277,
           "recovered": 0
         }
       },
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 14216,
+          "confirmed": 14260,
           "date": "2020-05-06",
-          "deaths": 540,
+          "deaths": 541,
           "recovered": 0
         }
       },
@@ -815,17 +815,17 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 9986,
+          "confirmed": 10405,
           "date": "2020-05-06",
-          "deaths": 479,
+          "deaths": 498,
           "recovered": 0
         }
       },
       "Iowa": {
         "live": {
-          "confirmed": 4452,
+          "confirmed": 4594,
           "date": "2020-05-06",
-          "deaths": 63,
+          "deaths": 68,
           "recovered": 0
         }
       },
@@ -871,9 +871,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 3588,
+          "confirmed": 3846,
           "date": "2020-05-06",
-          "deaths": 304,
+          "deaths": 327,
           "recovered": 0
         }
       },
@@ -887,9 +887,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 2333,
+          "confirmed": 1284,
           "date": "2020-05-06",
-          "deaths": 42,
+          "deaths": 28,
           "recovered": 0
         }
       },
@@ -935,7 +935,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1787,
+          "confirmed": 1850,
           "date": "2020-05-06",
           "deaths": 57,
           "recovered": 0
@@ -951,9 +951,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 45613,
+          "confirmed": 47185,
           "date": "2020-05-06",
-          "deaths": 2762,
+          "deaths": 2954,
           "recovered": 0
         }
       },
@@ -967,15 +967,15 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 8552,
+          "confirmed": 8824,
           "date": "2020-05-06",
-          "deaths": 355,
+          "deaths": 370,
           "recovered": 0
         }
       },
       "South Dakota": {
         "live": {
-          "confirmed": 2195,
+          "confirmed": 2231,
           "date": "2020-05-06",
           "deaths": 19,
           "recovered": 0
@@ -1049,9 +1049,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 194990,
+      "confirmed": 201101,
       "date": "2020-05-06",
-      "deaths": 29427,
+      "deaths": 30076,
       "recovered": 0
     }
   },
