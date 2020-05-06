@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 4838,
+      "confirmed": 4997,
       "date": "2020-05-06",
-      "deaths": 470,
-      "recovered": 2067
+      "deaths": 476,
+      "recovered": 2197
     }
   },
   "Argentina": {
@@ -125,9 +125,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1758,
+      "confirmed": 1778,
       "date": "2020-05-06",
-      "deaths": 82,
+      "deaths": 84,
       "recovered": 360
     }
   },
@@ -277,9 +277,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 8480,
+      "confirmed": 8807,
       "date": "2020-05-06",
-      "deaths": 354,
+      "deaths": 362,
       "recovered": 1905
     }
   },
@@ -325,7 +325,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 167239,
+      "confirmed": 167372,
       "date": "2020-05-06",
       "deaths": 6993,
       "recovered": 137400
@@ -341,9 +341,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2642,
+      "confirmed": 2663,
       "date": "2020-05-06",
-      "deaths": 146,
+      "deaths": 147,
       "recovered": 1374
     }
   },
@@ -381,10 +381,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 49436,
+      "confirmed": 49852,
       "date": "2020-05-06",
-      "deaths": 1695,
-      "recovered": 14183
+      "deaths": 1704,
+      "recovered": 14367
     }
   },
   "Indonesia": {
@@ -791,9 +791,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 27120,
+          "confirmed": 27448,
           "date": "2020-05-06",
-          "deaths": 969,
+          "deaths": 1015,
           "recovered": 0
         }
       },
