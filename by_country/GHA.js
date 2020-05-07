@@ -432,7 +432,8 @@ var covid19_dataset_country_gha = {
       229,
       294,
       294,
-      294
+      294,
+      303
     ]
   }
 };

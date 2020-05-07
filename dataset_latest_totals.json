@@ -1733,17 +1733,17 @@
     "IND": {
       "back_1week": {
         "confirmed": 33062,
-        "deaths": 1008,
+        "deaths": 1079,
         "recovered": 7747
       },
       "back_2week": {
         "confirmed": 21370,
-        "deaths": 645,
+        "deaths": 681,
         "recovered": 3975
       },
       "latest": {
         "confirmed": 52987,
-        "deaths": 1693,
+        "deaths": 1785,
         "recovered": 14142
       }
     },
@@ -1902,17 +1902,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 3027,
+        "confirmed": 3138,
         "deaths": 25,
         "recovered": 774
       },
       "back_2week": {
-        "confirmed": 1995,
+        "confirmed": 2135,
         "deaths": 19,
         "recovered": 489
       },
       "latest": {
-        "confirmed": 4205,
+        "confirmed": 4422,
         "deaths": 29,
         "recovered": 1279
       }
@@ -3361,16 +3361,16 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 1004171,
+        "confirmed": 1004519,
         "deaths": 52385,
         "recovered": 139150,
-        "tested": 5784875
+        "tested": 5785223
       },
       "back_2week": {
         "confirmed": 801273,
-        "deaths": 40412,
+        "deaths": 40480,
         "recovered": 72829,
-        "tested": 4177610
+        "tested": 4171622
       },
       "latest": {
         "confirmed": 1193452,

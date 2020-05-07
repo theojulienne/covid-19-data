@@ -336,7 +336,7 @@
       "confirmed": 3091,
       "date": "2020-05-07",
       "deaths": 18,
-      "recovered": 294
+      "recovered": 303
     }
   },
   "Greece": {
@@ -381,9 +381,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 53025,
+      "confirmed": 53045,
       "date": "2020-05-07",
-      "deaths": 1785,
+      "deaths": 1787,
       "recovered": 15331
     }
   },
@@ -445,7 +445,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4422,
+      "confirmed": 4502,
       "date": "2020-05-07",
       "deaths": 30,
       "recovered": 1408
