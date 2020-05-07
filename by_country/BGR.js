@@ -217,7 +217,7 @@ var covid19_dataset_country_bgr = {
       1652,
       1704,
       1778,
-      1811
+      1829
     ],
     "deaths": [
       0,

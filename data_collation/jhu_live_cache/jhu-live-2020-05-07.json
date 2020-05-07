@@ -61,10 +61,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 2127,
+      "confirmed": 2204,
       "date": "2020-05-07",
       "deaths": 28,
-      "recovered": 1536
+      "recovered": 1551
     }
   },
   "Bahrain": {
@@ -125,7 +125,7 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1811,
+      "confirmed": 1829,
       "date": "2020-05-07",
       "deaths": 84,
       "recovered": 384
@@ -159,7 +159,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19910,
+          "confirmed": 19949,
           "date": "2020-05-07",
           "deaths": 1560,
           "recovered": 0
@@ -177,10 +177,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 23048,
+      "confirmed": 24581,
       "date": "2020-05-07",
-      "deaths": 281,
-      "recovered": 11189
+      "deaths": 285,
+      "recovered": 11664
     }
   },
   "China": {
@@ -325,9 +325,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 168276,
+      "confirmed": 168655,
       "date": "2020-05-07",
-      "deaths": 7277,
+      "deaths": 7322,
       "recovered": 139900
     }
   },
@@ -565,9 +565,9 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 24073,
+      "confirmed": 24122,
       "date": "2020-05-07",
-      "deaths": 564,
+      "deaths": 585,
       "recovered": 6464
     }
   },
@@ -664,7 +664,7 @@
       "confirmed": 20939,
       "date": "2020-05-07",
       "deaths": 20,
-      "recovered": 1634
+      "recovered": 1712
     }
   },
   "Slovakia": {
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13335,
+          "confirmed": 13345,
           "date": "2020-05-07",
-          "deaths": 537,
+          "deaths": 538,
           "recovered": 0
         }
       },
