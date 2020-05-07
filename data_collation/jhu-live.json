@@ -309,7 +309,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 5573,
+      "confirmed": 5673,
       "date": "2020-05-07",
       "deaths": 252,
       "recovered": 3500
@@ -503,16 +503,16 @@
     "live": {
       "confirmed": 4476,
       "date": "2020-05-07",
-      "deaths": 143,
-      "recovered": 1658
+      "deaths": 145,
+      "recovered": 1747
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 5408,
+      "confirmed": 5505,
       "date": "2020-05-07",
       "deaths": 183,
-      "recovered": 2017
+      "recovered": 2124
     }
   },
   "Netherlands": {
@@ -621,10 +621,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 14107,
+      "confirmed": 14499,
       "date": "2020-05-07",
       "deaths": 876,
-      "recovered": 5788
+      "recovered": 6144
     }
   },
   "Russia": {
@@ -677,10 +677,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1448,
+      "confirmed": 1449,
       "date": "2020-05-07",
       "deaths": 99,
-      "recovered": 246
+      "recovered": 247
     }
   },
   "South Africa": {
@@ -1060,7 +1060,7 @@
       "confirmed": 2266,
       "date": "2020-05-07",
       "deaths": 10,
-      "recovered": 1577
+      "recovered": 1592
     }
   }
 }
