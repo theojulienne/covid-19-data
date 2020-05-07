@@ -440,7 +440,7 @@ var covid19_dataset_top10_by_deaths = {
           108620,
           115455,
           126611,
-          127655
+          132367
         ],
         "deaths": [
           0,
@@ -549,7 +549,7 @@ var covid19_dataset_top10_by_deaths = {
           7367,
           7938,
           8588,
-          8609
+          9054
         ],
         "recovered": [
           0,
@@ -770,7 +770,7 @@ var covid19_dataset_top10_by_deaths = {
           166152,
           167007,
           168162,
-          169175
+          169430
         ],
         "deaths": [
           0,
@@ -879,7 +879,7 @@ var covid19_dataset_top10_by_deaths = {
           6993,
           6993,
           7275,
-          7379
+          7392
         ],
         "recovered": [
           0,
@@ -1099,7 +1099,8 @@ var covid19_dataset_top10_by_deaths = {
           217466,
           218011,
           219329,
-          220325
+          220325,
+          221447
         ],
         "deaths": [
           0,
@@ -1207,7 +1208,8 @@ var covid19_dataset_top10_by_deaths = {
           25264,
           25428,
           25613,
-          25857
+          25857,
+          26070
         ],
         "recovered": [
           0,
@@ -1315,7 +1317,8 @@ var covid19_dataset_top10_by_deaths = {
           118902,
           121343,
           123486,
-          126002
+          126002,
+          128511
         ]
       }
     },
@@ -1427,7 +1430,8 @@ var covid19_dataset_top10_by_deaths = {
           167272,
           167886,
           168935,
-          172465
+          172465,
+          173040
         ],
         "deaths": [
           0,
@@ -1535,7 +1539,8 @@ var covid19_dataset_top10_by_deaths = {
           24864,
           25168,
           25498,
-          25772
+          25772,
+          25949
         ],
         "recovered": [
           0,
@@ -1643,7 +1648,8 @@ var covid19_dataset_top10_by_deaths = {
           49973,
           50438,
           51803,
-          53022
+          53022,
+          54076
         ]
       }
     },

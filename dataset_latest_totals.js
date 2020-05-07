@@ -1237,19 +1237,19 @@ var covid19_dataset_latest_totals = {
     },
     "ESP": {
       "back_1week": {
-        "confirmed": 210773,
-        "deaths": 23822,
-        "recovered": 102548
+        "confirmed": 212917,
+        "deaths": 24275,
+        "recovered": 108947
       },
       "back_2week": {
-        "confirmed": 204178,
-        "deaths": 21282,
-        "recovered": 82514
+        "confirmed": 208389,
+        "deaths": 21717,
+        "recovered": 85915
       },
       "latest": {
-        "confirmed": 219329,
-        "deaths": 25613,
-        "recovered": 123486
+        "confirmed": 220325,
+        "deaths": 25857,
+        "recovered": 126002
       }
     },
     "EST": {
@@ -1322,19 +1322,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 167605,
-        "deaths": 23629,
-        "recovered": 45997
+        "confirmed": 165093,
+        "deaths": 24056,
+        "recovered": 47338
       },
       "back_2week": {
-        "confirmed": 156921,
-        "deaths": 20765,
-        "recovered": 38543
+        "confirmed": 154715,
+        "deaths": 21309,
+        "recovered": 39988
       },
       "latest": {
-        "confirmed": 168935,
-        "deaths": 25498,
-        "recovered": 51803
+        "confirmed": 172465,
+        "deaths": 25772,
+        "recovered": 53022
       },
       "states": {
         "French Guiana": {
@@ -2987,19 +2987,19 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 8497,
-        "deaths": 168,
-        "recovered": 1260
+        "confirmed": 8724,
+        "deaths": 173,
+        "recovered": 1292
       },
       "back_2week": {
-        "confirmed": 6890,
-        "deaths": 130,
-        "recovered": 977
+        "confirmed": 7144,
+        "deaths": 134,
+        "recovered": 1025
       },
       "latest": {
-        "confirmed": 9677,
-        "deaths": 200,
-        "recovered": 1723
+        "confirmed": 9791,
+        "deaths": 203,
+        "recovered": 1971
       }
     },
     "SSD": {
