@@ -79,7 +79,7 @@
     "live": {
       "confirmed": 12425,
       "date": "2020-05-07",
-      "deaths": 186,
+      "deaths": 199,
       "recovered": 1910
     }
   },
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 126611,
+      "confirmed": 127389,
       "date": "2020-05-07",
-      "deaths": 8588,
+      "deaths": 8605,
       "recovered": 51370
     }
   },
@@ -735,9 +735,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1311,
+          "confirmed": 1319,
           "date": "2020-05-07",
-          "deaths": 76,
+          "deaths": 77,
           "recovered": 0
         }
       },
@@ -783,9 +783,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 5461,
+          "confirmed": 5654,
           "date": "2020-05-07",
-          "deaths": 277,
+          "deaths": 285,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 23397,
+          "confirmed": 25509,
           "date": "2020-05-07",
-          "deaths": 1123,
+          "deaths": 1195,
           "recovered": 0
         }
       },
@@ -879,7 +879,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5032,
+          "confirmed": 5108,
           "date": "2020-05-07",
           "deaths": 286,
           "recovered": 0
@@ -951,9 +951,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 47472,
+          "confirmed": 46396,
           "date": "2020-05-07",
-          "deaths": 3022,
+          "deaths": 2916,
           "recovered": 0
         }
       },
@@ -1007,9 +1007,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 8226,
+          "confirmed": 8691,
           "date": "2020-05-07",
-          "deaths": 283,
+          "deaths": 302,
           "recovered": 0
         }
       },
@@ -1057,7 +1057,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2266,
+      "confirmed": 2269,
       "date": "2020-05-07",
       "deaths": 10,
       "recovered": 1624
