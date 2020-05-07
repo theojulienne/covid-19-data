@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 2782,
+      "confirmed": 2884,
       "date": "2020-05-07",
-      "deaths": 40,
-      "recovered": 1135
+      "deaths": 42,
+      "recovered": 1185
     }
   },
   "Australia": {
@@ -53,10 +53,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15684,
+      "confirmed": 15752,
       "date": "2020-05-07",
-      "deaths": 608,
-      "recovered": 13639
+      "deaths": 609,
+      "recovered": 13698
     }
   },
   "Azerbaijan": {
@@ -77,10 +77,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 11719,
+      "confirmed": 12425,
       "date": "2020-05-07",
       "deaths": 186,
-      "recovered": 1403
+      "recovered": 1910
     }
   },
   "Belarus": {
@@ -93,10 +93,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 50781,
+      "confirmed": 51420,
       "date": "2020-05-07",
-      "deaths": 8339,
-      "recovered": 12731
+      "deaths": 8415,
+      "recovered": 12980
     }
   },
   "Bolivia": {
@@ -133,10 +133,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 2265,
+      "confirmed": 2267,
       "date": "2020-05-07",
       "deaths": 108,
-      "recovered": 1000
+      "recovered": 1002
     }
   },
   "Canada": {
@@ -389,10 +389,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 12438,
+      "confirmed": 12776,
       "date": "2020-05-07",
-      "deaths": 895,
-      "recovered": 2317
+      "deaths": 930,
+      "recovered": 2381
     }
   },
   "Iran": {
@@ -421,10 +421,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16310,
+      "confirmed": 16346,
       "date": "2020-05-07",
       "deaths": 239,
-      "recovered": 10637
+      "recovered": 10737
     }
   },
   "Italy": {
@@ -485,10 +485,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 6428,
+      "confirmed": 6467,
       "date": "2020-05-07",
       "deaths": 107,
-      "recovered": 4702
+      "recovered": 4776
     }
   },
   "Mexico": {
@@ -597,9 +597,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 14740,
+      "confirmed": 14898,
       "date": "2020-05-07",
-      "deaths": 733,
+      "deaths": 737,
       "recovered": 4862
     }
   },
@@ -623,7 +623,7 @@
     "live": {
       "confirmed": 14107,
       "date": "2020-05-07",
-      "deaths": 868,
+      "deaths": 876,
       "recovered": 5788
     }
   },
