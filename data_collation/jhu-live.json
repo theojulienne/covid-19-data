@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 3392,
+      "confirmed": 3563,
       "date": "2020-05-07",
-      "deaths": 104,
-      "recovered": 458
+      "deaths": 106,
+      "recovered": 468
     }
   },
   "Algeria": {
@@ -397,10 +397,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 101650,
+      "confirmed": 103135,
       "date": "2020-05-07",
-      "deaths": 6418,
-      "recovered": 81587
+      "deaths": 6486,
+      "recovered": 82744
     }
   },
   "Iraq": {
@@ -445,10 +445,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4502,
+      "confirmed": 4509,
       "date": "2020-05-07",
       "deaths": 30,
-      "recovered": 1408
+      "recovered": 1450
     }
   },
   "Korea, South": {
@@ -613,10 +613,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 17972,
+      "confirmed": 18890,
       "date": "2020-05-07",
       "deaths": 12,
-      "recovered": 2070
+      "recovered": 2286
     }
   },
   "Romania": {
@@ -709,7 +709,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30060,
+      "confirmed": 30126,
       "date": "2020-05-07",
       "deaths": 1805,
       "recovered": 25700
@@ -1041,10 +1041,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 15738,
+      "confirmed": 16240,
       "date": "2020-05-07",
-      "deaths": 157,
-      "recovered": 3359
+      "deaths": 165,
+      "recovered": 3572
     }
   },
   "United Kingdom": {
