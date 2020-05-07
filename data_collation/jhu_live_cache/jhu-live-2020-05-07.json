@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3044,
+          "confirmed": 3047,
           "date": "2020-05-07",
           "deaths": 44,
-          "recovered": 2463
+          "recovered": 2486
         }
       },
       "Victoria": {
@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 5963,
+          "confirmed": 6017,
           "date": "2020-05-07",
-          "deaths": 112,
+          "deaths": 114,
           "recovered": 0
         }
       },
@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 20363,
+          "confirmed": 20388,
           "date": "2020-05-07",
-          "deaths": 1605,
+          "deaths": 1607,
           "recovered": 0
         }
       },
@@ -437,10 +437,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 15253,
+      "confirmed": 15477,
       "date": "2020-05-07",
-      "deaths": 556,
-      "recovered": 4496
+      "deaths": 577,
+      "recovered": 4918
     }
   },
   "Kazakhstan": {
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 52960,
+          "confirmed": 53722,
           "date": "2020-05-07",
-          "deaths": 2229,
+          "deaths": 2278,
           "recovered": 0
         }
       },
@@ -831,9 +831,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1535,
+          "confirmed": 1578,
           "date": "2020-05-07",
-          "deaths": 106,
+          "deaths": 107,
           "recovered": 0
         }
       },
@@ -911,17 +911,17 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 128539,
+          "confirmed": 129447,
           "date": "2020-05-07",
-          "deaths": 8462,
+          "deaths": 8468,
           "recovered": 0
         }
       },
       "New Mexico": {
         "live": {
-          "confirmed": 1337,
+          "confirmed": 1402,
           "date": "2020-05-07",
-          "deaths": 29,
+          "deaths": 30,
           "recovered": 0
         }
       },
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 318953,
           "date": "2020-05-07",
-          "deaths": 25813,
+          "deaths": 25827,
           "recovered": 0
         }
       },

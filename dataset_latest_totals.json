@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 5893,
-          "deaths": 106
+          "confirmed": 5963,
+          "deaths": 112
         },
         "British Columbia": {
           "confirmed": 2232,
@@ -1885,14 +1885,14 @@
     },
     "JPN": {
       "back_1week": {
-        "confirmed": 13736,
-        "deaths": 394,
-        "recovered": 1899
+        "confirmed": 13895,
+        "deaths": 413,
+        "recovered": 2368
       },
       "back_2week": {
-        "confirmed": 11135,
-        "deaths": 263,
-        "recovered": 1239
+        "confirmed": 11512,
+        "deaths": 281,
+        "recovered": 1356
       },
       "latest": {
         "confirmed": 15253,
