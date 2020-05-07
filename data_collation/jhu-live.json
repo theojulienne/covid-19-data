@@ -46,7 +46,7 @@
           "confirmed": 1454,
           "date": "2020-05-07",
           "deaths": 18,
-          "recovered": 1331
+          "recovered": 1322
         }
       }
     }
@@ -101,10 +101,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 1802,
+      "confirmed": 1886,
       "date": "2020-05-07",
-      "deaths": 86,
-      "recovered": 187
+      "deaths": 91,
+      "recovered": 198
     }
   },
   "Bosnia and Herzegovina": {
@@ -159,7 +159,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19909,
+          "confirmed": 19910,
           "date": "2020-05-07",
           "deaths": 1560,
           "recovered": 0
@@ -328,7 +328,7 @@
       "confirmed": 168162,
       "date": "2020-05-07",
       "deaths": 7275,
-      "recovered": 137696
+      "recovered": 139900
     }
   },
   "Ghana": {
@@ -357,10 +357,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1270,
+      "confirmed": 1461,
       "date": "2020-05-07",
-      "deaths": 93,
-      "recovered": 122
+      "deaths": 99,
+      "recovered": 132
     }
   },
   "Hungary": {
@@ -496,7 +496,7 @@
       "confirmed": 27634,
       "date": "2020-05-07",
       "deaths": 2704,
-      "recovered": 16810
+      "recovered": 17781
     }
   },
   "Moldova": {
@@ -565,10 +565,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 23214,
+      "confirmed": 24073,
       "date": "2020-05-07",
-      "deaths": 544,
-      "recovered": 6281
+      "deaths": 564,
+      "recovered": 6464
     }
   },
   "Panama": {
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 51282,
+          "confirmed": 51460,
           "date": "2020-05-07",
-          "deaths": 2199,
+          "deaths": 2208,
           "recovered": 0
         }
       },
