@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 126148,
+      "confirmed": 126611,
       "date": "2020-05-07",
-      "deaths": 8566,
+      "deaths": 8588,
       "recovered": 51370
     }
   },
@@ -187,10 +187,10 @@
     "subseries": {
       "Guangdong": {
         "live": {
-          "confirmed": 1588,
+          "confirmed": 1589,
           "date": "2020-05-07",
           "deaths": 8,
-          "recovered": 1580
+          "recovered": 1575
         }
       },
       "Henan": {
@@ -333,7 +333,7 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 2719,
+      "confirmed": 3091,
       "date": "2020-05-07",
       "deaths": 18,
       "recovered": 294
@@ -453,10 +453,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10806,
+      "confirmed": 10810,
       "date": "2020-05-07",
-      "deaths": 255,
-      "recovered": 9333
+      "deaths": 256,
+      "recovered": 9419
     }
   },
   "Kuwait": {
@@ -493,9 +493,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 26025,
+      "confirmed": 27634,
       "date": "2020-05-07",
-      "deaths": 2507,
+      "deaths": 2704,
       "recovered": 16810
     }
   },
@@ -525,10 +525,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1488,
+      "confirmed": 1489,
       "date": "2020-05-07",
       "deaths": 21,
-      "recovered": 1316
+      "recovered": 1332
     }
   },
   "Nigeria": {
@@ -573,10 +573,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 7523,
+      "confirmed": 7731,
       "date": "2020-05-07",
-      "deaths": 210,
-      "recovered": 823
+      "deaths": 218,
+      "recovered": 859
     }
   },
   "Peru": {
@@ -753,7 +753,7 @@
         "live": {
           "confirmed": 51282,
           "date": "2020-05-07",
-          "deaths": 2265,
+          "deaths": 2199,
           "recovered": 0
         }
       },
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 314648,
           "date": "2020-05-07",
-          "deaths": 24988,
+          "deaths": 25265,
           "recovered": 0
         }
       },
