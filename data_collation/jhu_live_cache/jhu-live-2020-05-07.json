@@ -125,10 +125,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1778,
+      "confirmed": 1811,
       "date": "2020-05-07",
       "deaths": 84,
-      "recovered": 360
+      "recovered": 384
     }
   },
   "Cameroon": {
@@ -285,7 +285,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 31881,
+      "confirmed": 29420,
       "date": "2020-05-07",
       "deaths": 1618,
       "recovered": 3433
@@ -365,10 +365,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3111,
+      "confirmed": 3150,
       "date": "2020-05-07",
-      "deaths": 373,
-      "recovered": 759
+      "deaths": 383,
+      "recovered": 801
     }
   },
   "Iceland": {
@@ -717,10 +717,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2989,
+      "confirmed": 2992,
       "date": "2020-05-07",
       "deaths": 55,
-      "recovered": 2761
+      "recovered": 2772
     }
   },
   "Turkey": {
@@ -1057,7 +1057,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2233,
+      "confirmed": 2266,
       "date": "2020-05-07",
       "deaths": 10,
       "recovered": 1577
