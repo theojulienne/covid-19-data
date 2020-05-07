@@ -20,7 +20,7 @@
       "confirmed": 5208,
       "date": "2020-05-07",
       "deaths": 273,
-      "recovered": 1524
+      "recovered": 1601
     }
   },
   "Armenia": {
@@ -445,10 +445,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4509,
+      "confirmed": 4530,
       "date": "2020-05-07",
       "deaths": 30,
-      "recovered": 1450
+      "recovered": 1470
     }
   },
   "Korea, South": {
@@ -541,10 +541,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 1539,
+      "confirmed": 1572,
       "date": "2020-05-07",
-      "deaths": 88,
-      "recovered": 1057
+      "deaths": 89,
+      "recovered": 1079
     }
   },
   "Norway": {
@@ -623,7 +623,7 @@
     "live": {
       "confirmed": 14499,
       "date": "2020-05-07",
-      "deaths": 876,
+      "deaths": 881,
       "recovered": 6144
     }
   },
@@ -637,10 +637,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 31938,
+      "confirmed": 33731,
       "date": "2020-05-07",
-      "deaths": 209,
-      "recovered": 6783
+      "deaths": 219,
+      "recovered": 7798
     }
   },
   "Senegal": {
@@ -711,7 +711,7 @@
     "live": {
       "confirmed": 30126,
       "date": "2020-05-07",
-      "deaths": 1805,
+      "deaths": 1808,
       "recovered": 25700
     }
   },
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13298,
+          "confirmed": 13335,
           "date": "2020-05-07",
           "deaths": 537,
           "recovered": 0
@@ -959,9 +959,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 1968,
+          "confirmed": 2031,
           "date": "2020-05-07",
-          "deaths": 99,
+          "deaths": 102,
           "recovered": 0
         }
       },
@@ -1060,7 +1060,7 @@
       "confirmed": 2266,
       "date": "2020-05-07",
       "deaths": 10,
-      "recovered": 1592
+      "recovered": 1624
     }
   }
 }
