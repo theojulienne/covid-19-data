@@ -591,8 +591,8 @@
           "deaths": 106
         },
         "British Columbia": {
-          "confirmed": 2224,
-          "deaths": 117
+          "confirmed": 2232,
+          "deaths": 121
         },
         "Diamond Princess": {
           "confirmed": 1,
@@ -936,19 +936,19 @@
     },
     "COL": {
       "back_1week": {
-        "confirmed": 5597,
-        "deaths": 253,
-        "recovered": 1210
+        "confirmed": 5949,
+        "deaths": 269,
+        "recovered": 1268
       },
       "back_2week": {
-        "confirmed": 3977,
-        "deaths": 189,
+        "confirmed": 4149,
+        "deaths": 196,
         "recovered": 804
       },
       "latest": {
-        "confirmed": 7973,
-        "deaths": 358,
-        "recovered": 1807
+        "confirmed": 8613,
+        "deaths": 378,
+        "recovered": 2013
       }
     },
     "COM": {
