@@ -159,17 +159,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 19953,
+          "confirmed": 20079,
           "date": "2020-05-07",
-          "deaths": 1560,
+          "deaths": 1582,
           "recovered": 0
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 34334,
+          "confirmed": 35248,
           "date": "2020-05-07",
-          "deaths": 2511,
+          "deaths": 2632,
           "recovered": 0
         }
       }
@@ -381,10 +381,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 54539,
+      "confirmed": 56325,
       "date": "2020-05-07",
-      "deaths": 1837,
-      "recovered": 16048
+      "deaths": 1889,
+      "recovered": 16776
     }
   },
   "Indonesia": {
@@ -745,7 +745,7 @@
         "live": {
           "confirmed": 6661,
           "date": "2020-05-07",
-          "deaths": 302,
+          "deaths": 322,
           "recovered": 0
         }
       },
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13386,
+          "confirmed": 13406,
           "date": "2020-05-07",
           "deaths": 540,
           "recovered": 0
@@ -841,7 +841,7 @@
         "live": {
           "confirmed": 18575,
           "date": "2020-05-07",
-          "deaths": 1275,
+          "deaths": 1274,
           "recovered": 0
         }
       },
@@ -929,7 +929,7 @@
         "live": {
           "confirmed": 318953,
           "date": "2020-05-07",
-          "deaths": 25306,
+          "deaths": 25813,
           "recovered": 0
         }
       },
@@ -943,17 +943,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 13016,
+          "confirmed": 13314,
           "date": "2020-05-07",
-          "deaths": 509,
+          "deaths": 527,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 46982,
+          "confirmed": 47332,
           "date": "2020-05-07",
-          "deaths": 3103,
+          "deaths": 3126,
           "recovered": 0
         }
       },
@@ -999,9 +999,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 4122,
+          "confirmed": 4229,
           "date": "2020-05-07",
-          "deaths": 47,
+          "deaths": 50,
           "recovered": 0
         }
       },
