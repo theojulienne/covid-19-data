@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1467,
+          "confirmed": 1468,
           "date": "2020-05-08",
           "deaths": 18,
           "recovered": 1327
@@ -445,9 +445,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4578,
+      "confirmed": 4753,
       "date": "2020-05-08",
-      "deaths": 30,
+      "deaths": 31,
       "recovered": 1518
     }
   },
@@ -623,7 +623,7 @@
     "live": {
       "confirmed": 14499,
       "date": "2020-05-08",
-      "deaths": 888,
+      "deaths": 891,
       "recovered": 6144
     }
   },
