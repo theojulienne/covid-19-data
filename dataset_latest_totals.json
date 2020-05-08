@@ -623,7 +623,7 @@
           "deaths": 41
         },
         "Ontario": {
-          "confirmed": 19910,
+          "confirmed": 20388,
           "deaths": 1560
         },
         "Prince Edward Island": {
@@ -1055,18 +1055,18 @@
     },
     "DEU": {
       "back_1week": {
-        "confirmed": 161539,
-        "deaths": 6467,
+        "confirmed": 163009,
+        "deaths": 6623,
         "recovered": 120400
       },
       "back_2week": {
-        "confirmed": 150648,
-        "deaths": 5279,
+        "confirmed": 153129,
+        "deaths": 5575,
         "recovered": 99400
       },
       "latest": {
-        "confirmed": 168162,
-        "deaths": 7275,
+        "confirmed": 169430,
+        "deaths": 7392,
         "recovered": 139900
       }
     },
