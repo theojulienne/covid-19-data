@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 15402,
-        "deaths": 580,
-        "recovered": 12779
+        "confirmed": 15452,
+        "deaths": 584,
+        "recovered": 12907
       },
       "back_2week": {
-        "confirmed": 14925,
-        "deaths": 510,
-        "recovered": 11328
+        "confirmed": 15002,
+        "deaths": 522,
+        "recovered": 11694
       },
       "latest": {
-        "confirmed": 15684,
-        "deaths": 608,
-        "recovered": 13639
+        "confirmed": 15752,
+        "deaths": 609,
+        "recovered": 13698
       }
     },
     "AZE": {
@@ -1038,19 +1038,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 7579,
+        "confirmed": 7682,
         "deaths": 227,
-        "recovered": 3108
+        "recovered": 3314
       },
       "back_2week": {
-        "confirmed": 7132,
+        "confirmed": 7187,
         "deaths": 208,
-        "recovered": 1989
+        "recovered": 2152
       },
       "latest": {
-        "confirmed": 7974,
+        "confirmed": 8031,
         "deaths": 262,
-        "recovered": 4205
+        "recovered": 4371
       }
     },
     "DEU": {
@@ -1256,17 +1256,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 1689,
         "deaths": 50,
-        "recovered": 236
+        "recovered": 249
       },
       "back_2week": {
         "confirmed": 1592,
         "deaths": 44,
-        "recovered": 184
+        "recovered": 192
       },
       "latest": {
         "confirmed": 1720,
         "deaths": 55,
-        "recovered": 264
+        "recovered": 273
       }
     },
     "ETH": {
@@ -1904,17 +1904,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 3402,
         "deaths": 25,
-        "recovered": 819
+        "recovered": 866
       },
       "back_2week": {
         "confirmed": 2289,
         "deaths": 20,
-        "recovered": 515
+        "recovered": 560
       },
       "latest": {
         "confirmed": 4578,
         "deaths": 30,
-        "recovered": 1408
+        "recovered": 1518
       }
     },
     "KEN": {
@@ -2174,19 +2174,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 4321,
-        "deaths": 168,
-        "recovered": 928
+        "confirmed": 4423,
+        "deaths": 170,
+        "recovered": 984
       },
       "back_2week": {
-        "confirmed": 3446,
-        "deaths": 149,
-        "recovered": 417
+        "confirmed": 3568,
+        "deaths": 155,
+        "recovered": 456
       },
       "latest": {
-        "confirmed": 5408,
+        "confirmed": 5548,
         "deaths": 183,
-        "recovered": 2017
+        "recovered": 2179
       }
     },
     "MCO": {
@@ -2800,19 +2800,19 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 11978,
+        "confirmed": 12240,
         "deaths": 717,
-        "recovered": 3569
+        "recovered": 4017
       },
       "back_2week": {
-        "confirmed": 9710,
+        "confirmed": 10096,
         "deaths": 545,
-        "recovered": 2406
+        "recovered": 2478
       },
       "latest": {
-        "confirmed": 14107,
+        "confirmed": 14499,
         "deaths": 888,
-        "recovered": 5788
+        "recovered": 6144
       }
     },
     "RUS": {
@@ -3714,19 +3714,19 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2002,
+        "confirmed": 2039,
         "deaths": 9,
-        "recovered": 1096
+        "recovered": 1133
       },
       "back_2week": {
-        "confirmed": 1716,
+        "confirmed": 1758,
         "deaths": 7,
-        "recovered": 450
+        "recovered": 561
       },
       "latest": {
-        "confirmed": 2233,
+        "confirmed": 2298,
         "deaths": 10,
-        "recovered": 1577
+        "recovered": 1656
       }
     },
     "VAT": {
