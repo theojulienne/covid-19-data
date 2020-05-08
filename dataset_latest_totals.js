@@ -1732,17 +1732,17 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "back_1week": {
-        "confirmed": 33062,
+        "confirmed": 34863,
         "deaths": 1079,
         "recovered": 8437
       },
       "back_2week": {
-        "confirmed": 21370,
+        "confirmed": 23077,
         "deaths": 681,
         "recovered": 4370
       },
       "latest": {
-        "confirmed": 52987,
+        "confirmed": 56351,
         "deaths": 1785,
         "recovered": 15331
       }
