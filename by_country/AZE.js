@@ -217,8 +217,7 @@ var covid19_dataset_country_aze = {
       1932,
       1984,
       2060,
-      2127,
-      2204
+      2127
     ],
     "deaths": [
       0,
@@ -434,8 +433,7 @@ var covid19_dataset_country_aze = {
       1441,
       1480,
       1508,
-      1536,
-      1551
+      1536
     ]
   }
 };
