@@ -109,17 +109,17 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2027,
+      "confirmed": 2070,
       "date": "2020-05-08",
-      "deaths": 90,
-      "recovered": 954
+      "deaths": 98,
+      "recovered": 960
     }
   },
   "Brazil": {
     "live": {
-      "confirmed": 135773,
+      "confirmed": 136519,
       "date": "2020-05-08",
-      "deaths": 9190,
+      "deaths": 9265,
       "recovered": 55350
     }
   },
@@ -397,10 +397,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 103135,
+      "confirmed": 104691,
       "date": "2020-05-08",
-      "deaths": 6486,
-      "recovered": 82744
+      "deaths": 6541,
+      "recovered": 83837
     }
   },
   "Iraq": {
@@ -645,10 +645,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 1492,
+      "confirmed": 1551,
       "date": "2020-05-08",
       "deaths": 13,
-      "recovered": 562
+      "recovered": 611
     }
   },
   "Serbia": {
