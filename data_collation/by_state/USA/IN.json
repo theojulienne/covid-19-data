@@ -106,7 +106,8 @@
     "2020-05-04",
     "2020-05-05",
     "2020-05-06",
-    "2020-05-07"
+    "2020-05-07",
+    "2020-05-08"
   ],
   "total": {
     "confirmed": [
@@ -216,7 +217,8 @@
       20507,
       21033,
       21870,
-      22503
+      22503,
+      23146
     ],
     "deaths": [
       null,
@@ -325,7 +327,8 @@
       1264,
       1326,
       1377,
-      1414
+      1414,
+      1447
     ],
     "hospitalized": [
       null,
@@ -391,7 +394,51 @@
       1,
       1,
       1,
-      1
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4389
     ],
     "tested": [
       0,
@@ -500,7 +547,8 @@
       113297,
       115834,
       120496,
-      124782
+      124782,
+      130128
     ]
   }
 }
