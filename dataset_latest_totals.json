@@ -70,19 +70,19 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 11929,
-        "deaths": 98,
-        "recovered": 2329
+        "confirmed": 12481,
+        "deaths": 105,
+        "recovered": 2429
       },
       "back_2week": {
-        "confirmed": 8238,
-        "deaths": 52,
-        "recovered": 1546
+        "confirmed": 8756,
+        "deaths": 56,
+        "recovered": 1637
       },
       "latest": {
-        "confirmed": 15738,
-        "deaths": 157,
-        "recovered": 3359
+        "confirmed": 16240,
+        "deaths": 165,
+        "recovered": 3572
       }
     },
     "ARG": {
@@ -650,17 +650,17 @@
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 29407,
+        "confirmed": 29586,
         "deaths": 1716,
         "recovered": 22600
       },
       "back_2week": {
-        "confirmed": 28268,
+        "confirmed": 28496,
         "deaths": 1509,
         "recovered": 19900
       },
       "latest": {
-        "confirmed": 30060,
+        "confirmed": 30126,
         "deaths": 1805,
         "recovered": 25700
       }
@@ -1106,19 +1106,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 9008,
-        "deaths": 443,
-        "recovered": 6366
+        "confirmed": 9158,
+        "deaths": 452,
+        "recovered": 6546
       },
       "back_2week": {
-        "confirmed": 7912,
-        "deaths": 384,
-        "recovered": 5087
+        "confirmed": 8073,
+        "deaths": 394,
+        "recovered": 5384
       },
       "latest": {
-        "confirmed": 9938,
-        "deaths": 506,
-        "recovered": 7493
+        "confirmed": 10083,
+        "deaths": 514,
+        "recovered": 7711
       },
       "states": {
         "Faroe Islands": {
@@ -1664,19 +1664,19 @@
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 2062,
+        "confirmed": 2076,
         "deaths": 67,
-        "recovered": 1288
+        "recovered": 1348
       },
       "back_2week": {
-        "confirmed": 1950,
+        "confirmed": 1981,
         "deaths": 48,
-        "recovered": 869
+        "recovered": 883
       },
       "latest": {
-        "confirmed": 2119,
+        "confirmed": 2125,
         "deaths": 85,
-        "recovered": 1601
+        "recovered": 1641
       }
     },
     "HTI": {
@@ -1987,19 +1987,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 3740,
-        "deaths": 24,
-        "recovered": 1389
+        "confirmed": 4024,
+        "deaths": 26,
+        "recovered": 1539
       },
       "back_2week": {
-        "confirmed": 2248,
-        "deaths": 13,
-        "recovered": 443
+        "confirmed": 2399,
+        "deaths": 14,
+        "recovered": 498
       },
       "latest": {
-        "confirmed": 6289,
-        "deaths": 42,
-        "recovered": 2219
+        "confirmed": 6567,
+        "deaths": 44,
+        "recovered": 2381
       }
     },
     "LAO": {
@@ -2276,19 +2276,19 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 1442,
-        "deaths": 73,
-        "recovered": 627
+        "confirmed": 1465,
+        "deaths": 77,
+        "recovered": 738
       },
       "back_2week": {
-        "confirmed": 1259,
+        "confirmed": 1300,
         "deaths": 56,
-        "recovered": 272
+        "recovered": 301
       },
       "latest": {
-        "confirmed": 1539,
-        "deaths": 88,
-        "recovered": 1057
+        "confirmed": 1572,
+        "deaths": 89,
+        "recovered": 1079
       }
     },
     "MLI": {
@@ -2514,18 +2514,18 @@
     },
     "NLD": {
       "back_1week": {
-        "confirmed": 38802,
-        "deaths": 4711,
+        "confirmed": 39316,
+        "deaths": 4795,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 34842,
-        "deaths": 4054,
+        "confirmed": 35729,
+        "deaths": 4177,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 41319,
-        "deaths": 5204,
+        "confirmed": 41774,
+        "deaths": 5288,
         "recovered": 0
       },
       "states": {
