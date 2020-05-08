@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 5182,
+      "confirmed": 5369,
       "date": "2020-05-08",
-      "deaths": 483,
-      "recovered": 2323
+      "deaths": 488,
+      "recovered": 2467
     }
   },
   "Argentina": {
@@ -80,7 +80,7 @@
       "confirmed": 13134,
       "date": "2020-05-08",
       "deaths": 206,
-      "recovered": 1910
+      "recovered": 2101
     }
   },
   "Belarus": {
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 137309,
+      "confirmed": 138121,
       "date": "2020-05-08",
-      "deaths": 9307,
+      "deaths": 9390,
       "recovered": 55350
     }
   },
@@ -177,10 +177,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 24581,
+      "confirmed": 25972,
       "date": "2020-05-08",
-      "deaths": 285,
-      "recovered": 11664
+      "deaths": 294,
+      "recovered": 12160
     }
   },
   "China": {
@@ -253,10 +253,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8034,
+      "confirmed": 8065,
       "date": "2020-05-08",
-      "deaths": 270,
-      "recovered": 4372
+      "deaths": 271,
+      "recovered": 4408
     }
   },
   "Denmark": {
@@ -341,9 +341,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2678,
+      "confirmed": 2691,
       "date": "2020-05-08",
-      "deaths": 148,
+      "deaths": 150,
       "recovered": 1374
     }
   },
@@ -429,10 +429,10 @@
   },
   "Italy": {
     "live": {
-      "confirmed": 215858,
+      "confirmed": 217185,
       "date": "2020-05-08",
-      "deaths": 29958,
-      "recovered": 96276
+      "deaths": 30201,
+      "recovered": 99023
     }
   },
   "Japan": {
@@ -477,10 +477,10 @@
   },
   "Luxembourg": {
     "live": {
-      "confirmed": 3859,
+      "confirmed": 3871,
       "date": "2020-05-08",
       "deaths": 100,
-      "recovered": 3505
+      "recovered": 3526
     }
   },
   "Malaysia": {
@@ -509,10 +509,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 5661,
+      "confirmed": 5711,
       "date": "2020-05-08",
-      "deaths": 185,
-      "recovered": 2302
+      "deaths": 186,
+      "recovered": 2324
     }
   },
   "Netherlands": {
@@ -597,9 +597,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 15200,
+      "confirmed": 15366,
       "date": "2020-05-08",
-      "deaths": 756,
+      "deaths": 776,
       "recovered": 5184
     }
   },
@@ -623,7 +623,7 @@
     "live": {
       "confirmed": 14811,
       "date": "2020-05-08",
-      "deaths": 898,
+      "deaths": 923,
       "recovered": 6423
     }
   },
@@ -664,7 +664,7 @@
       "confirmed": 21707,
       "date": "2020-05-08",
       "deaths": 20,
-      "recovered": 1712
+      "recovered": 2040
     }
   },
   "Slovakia": {
@@ -799,9 +799,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13489,
+          "confirmed": 13511,
           "date": "2020-05-08",
-          "deaths": 545,
+          "deaths": 546,
           "recovered": 0
         }
       },
@@ -815,15 +815,15 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 10671,
+          "confirmed": 10934,
           "date": "2020-05-08",
-          "deaths": 511,
+          "deaths": 523,
           "recovered": 0
         }
       },
       "Iowa": {
         "live": {
-          "confirmed": 4932,
+          "confirmed": 5145,
           "date": "2020-05-08",
           "deaths": 77,
           "recovered": 0
@@ -871,9 +871,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 5276,
+          "confirmed": 5604,
           "date": "2020-05-08",
-          "deaths": 348,
+          "deaths": 368,
           "recovered": 0
         }
       },
@@ -935,7 +935,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 1922,
+          "confirmed": 1989,
           "date": "2020-05-08",
           "deaths": 58,
           "recovered": 0
@@ -951,9 +951,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 47332,
+          "confirmed": 48084,
           "date": "2020-05-08",
-          "deaths": 3126,
+          "deaths": 3190,
           "recovered": 0
         }
       },
@@ -969,7 +969,7 @@
         "live": {
           "confirmed": 9398,
           "date": "2020-05-08",
-          "deaths": 388,
+          "deaths": 399,
           "recovered": 0
         }
       },
@@ -1049,9 +1049,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 206715,
+      "confirmed": 211364,
       "date": "2020-05-08",
-      "deaths": 30615,
+      "deaths": 31241,
       "recovered": 0
     }
   },
