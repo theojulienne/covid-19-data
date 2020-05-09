@@ -389,10 +389,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 104691,
+      "confirmed": 106220,
       "date": "2020-05-09",
-      "deaths": 6541,
-      "recovered": 83837
+      "deaths": 6589,
+      "recovered": 85064
     }
   },
   "Iraq": {
@@ -437,10 +437,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4922,
+      "confirmed": 4946,
       "date": "2020-05-09",
       "deaths": 31,
-      "recovered": 1631
+      "recovered": 1740
     }
   },
   "Korea, South": {
@@ -743,9 +743,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 55200,
+          "confirmed": 55509,
           "date": "2020-05-09",
-          "deaths": 2361,
+          "deaths": 2377,
           "recovered": 0
         }
       },
@@ -791,9 +791,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13737,
+          "confirmed": 13741,
           "date": "2020-05-09",
-          "deaths": 567,
+          "deaths": 568,
           "recovered": 0
         }
       },
@@ -951,9 +951,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 2156,
+          "confirmed": 2173,
           "date": "2020-05-09",
-          "deaths": 107,
+          "deaths": 108,
           "recovered": 0
         }
       },
@@ -1049,10 +1049,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2336,
+      "confirmed": 2349,
       "date": "2020-05-09",
       "deaths": 10,
-      "recovered": 1775
+      "recovered": 1803
     }
   }
 }
