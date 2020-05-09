@@ -109,10 +109,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2070,
+      "confirmed": 2090,
       "date": "2020-05-09",
-      "deaths": 98,
-      "recovered": 960
+      "deaths": 102,
+      "recovered": 1059
     }
   },
   "Brazil": {
@@ -453,10 +453,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 7208,
+      "confirmed": 7623,
       "date": "2020-05-09",
-      "deaths": 47,
-      "recovered": 2466
+      "deaths": 49,
+      "recovered": 2622
     }
   },
   "Lithuania": {
@@ -701,7 +701,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30207,
+      "confirmed": 30251,
       "date": "2020-05-09",
       "deaths": 1823,
       "recovered": 26100
