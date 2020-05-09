@@ -125,10 +125,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1872,
+      "confirmed": 1911,
       "date": "2020-05-09",
-      "deaths": 86,
-      "recovered": 401
+      "deaths": 88,
+      "recovered": 422
     }
   },
   "Cameroon": {
