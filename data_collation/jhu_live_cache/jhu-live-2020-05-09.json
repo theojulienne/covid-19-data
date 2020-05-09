@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3047,
+          "confirmed": 3051,
           "date": "2020-05-09",
           "deaths": 44,
-          "recovered": 2486
+          "recovered": 2504
         }
       },
       "Victoria": {
@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6100,
+          "confirmed": 6098,
           "date": "2020-05-09",
-          "deaths": 2087,
+          "deaths": 115,
           "recovered": 0
         }
       },
@@ -309,10 +309,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 174317,
+      "confirmed": 174318,
       "date": "2020-05-09",
       "deaths": 26192,
-      "recovered": 54776
+      "recovered": 54770
     }
   },
   "Germany": {
@@ -349,10 +349,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1685,
+      "confirmed": 1771,
       "date": "2020-05-09",
-      "deaths": 105,
-      "recovered": 154
+      "deaths": 107,
+      "recovered": 192
     }
   },
   "Hungary": {
@@ -488,7 +488,7 @@
       "confirmed": 31522,
       "date": "2020-05-09",
       "deaths": 3160,
-      "recovered": 17781
+      "recovered": 20314
     }
   },
   "Moldova": {
@@ -727,7 +727,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1403,
+          "confirmed": 1407,
           "date": "2020-05-09",
           "deaths": 81,
           "recovered": 0

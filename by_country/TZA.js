@@ -219,7 +219,8 @@ var covid19_dataset_country_tza = {
       480,
       480,
       480,
-      480
+      480,
+      509
     ],
     "deaths": [
       0,
@@ -328,7 +329,8 @@ var covid19_dataset_country_tza = {
       16,
       16,
       16,
-      16
+      16,
+      21
     ],
     "recovered": [
       0,
@@ -437,7 +439,8 @@ var covid19_dataset_country_tza = {
       167,
       167,
       167,
-      167
+      167,
+      183
     ]
   }
 };
