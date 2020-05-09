@@ -53,10 +53,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15774,
+      "confirmed": 15833,
       "date": "2020-05-09",
-      "deaths": 614,
-      "recovered": 13836
+      "deaths": 615,
+      "recovered": 13928
     }
   },
   "Azerbaijan": {
@@ -190,7 +190,7 @@
           "confirmed": 1589,
           "date": "2020-05-09",
           "deaths": 8,
-          "recovered": 1575
+          "recovered": 1576
         }
       },
       "Henan": {
@@ -293,10 +293,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1725,
+      "confirmed": 1733,
       "date": "2020-05-09",
-      "deaths": 56,
-      "recovered": 704
+      "deaths": 60,
+      "recovered": 747
     }
   },
   "Finland": {
@@ -461,10 +461,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1436,
+      "confirmed": 1444,
       "date": "2020-05-09",
       "deaths": 49,
-      "recovered": 765
+      "recovered": 828
     }
   },
   "Luxembourg": {
@@ -581,10 +581,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 10463,
+      "confirmed": 10610,
       "date": "2020-05-09",
-      "deaths": 696,
-      "recovered": 1734
+      "deaths": 704,
+      "recovered": 1842
     }
   },
   "Poland": {
@@ -592,7 +592,7 @@
       "confirmed": 15366,
       "date": "2020-05-09",
       "deaths": 776,
-      "recovered": 5184
+      "recovered": 5437
     }
   },
   "Portugal": {
@@ -621,10 +621,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 187859,
+      "confirmed": 198676,
       "date": "2020-05-09",
-      "deaths": 1723,
-      "recovered": 26608
+      "deaths": 1827,
+      "recovered": 31916
     }
   },
   "Saudi Arabia": {
@@ -664,7 +664,7 @@
       "confirmed": 1455,
       "date": "2020-05-09",
       "deaths": 26,
-      "recovered": 905
+      "recovered": 919
     }
   },
   "Slovenia": {
