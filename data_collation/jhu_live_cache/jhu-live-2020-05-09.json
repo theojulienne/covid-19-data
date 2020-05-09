@@ -151,17 +151,17 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 2315,
+          "confirmed": 2330,
           "date": "2020-05-09",
-          "deaths": 127,
+          "deaths": 129,
           "recovered": 0
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 20966,
+          "confirmed": 21113,
           "date": "2020-05-09",
-          "deaths": 1676,
+          "deaths": 1720,
           "recovered": 0
         }
       },
@@ -325,9 +325,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 171021,
+      "confirmed": 171145,
       "date": "2020-05-09",
-      "deaths": 7525,
+      "deaths": 7532,
       "recovered": 143300
     }
   },
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13971,
+          "confirmed": 13981,
           "date": "2020-05-09",
           "deaths": 568,
           "recovered": 0
@@ -847,9 +847,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 27460,
+          "confirmed": 26290,
           "date": "2020-05-09",
-          "deaths": 1284,
+          "deaths": 1255,
           "recovered": 0
         }
       },
@@ -863,9 +863,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 37449,
+          "confirmed": 38946,
           "date": "2020-05-09",
-          "deaths": 3820,
+          "deaths": 4015,
           "recovered": 0
         }
       },
@@ -881,7 +881,7 @@
         "live": {
           "confirmed": 5338,
           "date": "2020-05-09",
-          "deaths": 331,
+          "deaths": 340,
           "recovered": 0
         }
       },
@@ -991,9 +991,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 22488,
+          "confirmed": 22599,
           "date": "2020-05-09",
-          "deaths": 567,
+          "deaths": 572,
           "recovered": 0
         }
       },
@@ -1023,9 +1023,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 5499,
+          "confirmed": 5688,
           "date": "2020-05-09",
-          "deaths": 232,
+          "deaths": 242,
           "recovered": 0
         }
       }
