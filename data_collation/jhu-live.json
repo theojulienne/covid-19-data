@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1478,
+          "confirmed": 1479,
           "date": "2020-05-09",
           "deaths": 18,
           "recovered": 1336
@@ -301,9 +301,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 5738,
+      "confirmed": 5880,
       "date": "2020-05-09",
-      "deaths": 260,
+      "deaths": 265,
       "recovered": 4000
     }
   },
@@ -495,16 +495,16 @@
     "live": {
       "confirmed": 4728,
       "date": "2020-05-09",
-      "deaths": 150,
-      "recovered": 1826
+      "deaths": 159,
+      "recovered": 1925
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 5711,
+      "confirmed": 5873,
       "date": "2020-05-09",
       "deaths": 186,
-      "recovered": 2324
+      "recovered": 2389
     }
   },
   "Netherlands": {
@@ -613,10 +613,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 14811,
+      "confirmed": 15131,
       "date": "2020-05-09",
-      "deaths": 923,
-      "recovered": 6423
+      "deaths": 926,
+      "recovered": 6912
     }
   },
   "Russia": {
@@ -669,10 +669,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1450,
+      "confirmed": 1454,
       "date": "2020-05-09",
-      "deaths": 100,
-      "recovered": 252
+      "deaths": 101,
+      "recovered": 255
     }
   },
   "South Africa": {
