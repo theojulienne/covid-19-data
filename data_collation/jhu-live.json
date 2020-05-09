@@ -101,10 +101,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 2081,
+      "confirmed": 2266,
       "date": "2020-05-09",
-      "deaths": 102,
-      "recovered": 219
+      "deaths": 106,
+      "recovered": 237
     }
   },
   "Bosnia and Herzegovina": {
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 145892,
+      "confirmed": 146894,
       "date": "2020-05-09",
-      "deaths": 9992,
+      "deaths": 10017,
       "recovered": 59297
     }
   },
@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6098,
+          "confirmed": 6100,
           "date": "2020-05-09",
-          "deaths": 115,
+          "deaths": 2087,
           "recovered": 0
         }
       },
@@ -277,7 +277,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 30298,
+      "confirmed": 28818,
       "date": "2020-05-09",
       "deaths": 1704,
       "recovered": 3433
@@ -373,7 +373,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 59693,
+      "confirmed": 59695,
       "date": "2020-05-09",
       "deaths": 1985,
       "recovered": 17887
@@ -445,10 +445,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10822,
+      "confirmed": 10840,
       "date": "2020-05-09",
       "deaths": 256,
-      "recovered": 9484
+      "recovered": 9568
     }
   },
   "Kuwait": {
@@ -485,9 +485,9 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 29616,
+      "confirmed": 31522,
       "date": "2020-05-09",
-      "deaths": 2961,
+      "deaths": 3160,
       "recovered": 17781
     }
   },
@@ -517,10 +517,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1490,
+      "confirmed": 1492,
       "date": "2020-05-09",
       "deaths": 21,
-      "recovered": 1347
+      "recovered": 1368
     }
   },
   "Nigeria": {
@@ -565,9 +565,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 7868,
+      "confirmed": 8070,
       "date": "2020-05-09",
-      "deaths": 225,
+      "deaths": 231,
       "recovered": 886
     }
   },
@@ -791,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13735,
+          "confirmed": 13737,
           "date": "2020-05-09",
           "deaths": 567,
           "recovered": 0
