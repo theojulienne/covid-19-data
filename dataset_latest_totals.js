@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 6017,
-          "deaths": 114
+          "confirmed": 6098,
+          "deaths": 115
         },
         "British Columbia": {
           "confirmed": 2315,
@@ -936,19 +936,19 @@ var covid19_dataset_latest_totals = {
     },
     "COL": {
       "back_1week": {
-        "confirmed": 6507,
-        "deaths": 293,
-        "recovered": 1439
+        "confirmed": 7006,
+        "deaths": 314,
+        "recovered": 1551
       },
       "back_2week": {
-        "confirmed": 4561,
-        "deaths": 215,
-        "recovered": 927
+        "confirmed": 4881,
+        "deaths": 225,
+        "recovered": 1003
       },
       "latest": {
-        "confirmed": 9456,
-        "deaths": 407,
-        "recovered": 2300
+        "confirmed": 10051,
+        "deaths": 428,
+        "recovered": 2424
       }
     },
     "COM": {
@@ -1511,19 +1511,19 @@ var covid19_dataset_latest_totals = {
     },
     "GIN": {
       "back_1week": {
-        "confirmed": 1495,
+        "confirmed": 1537,
         "deaths": 7,
-        "recovered": 329
+        "recovered": 342
       },
       "back_2week": {
-        "confirmed": 862,
+        "confirmed": 954,
         "deaths": 6,
-        "recovered": 170
+        "recovered": 191
       },
       "latest": {
-        "confirmed": 1927,
+        "confirmed": 2009,
         "deaths": 11,
-        "recovered": 629
+        "recovered": 663
       }
     },
     "GMB": {
@@ -2480,19 +2480,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 1932,
-        "deaths": 58,
-        "recovered": 319
+        "confirmed": 2170,
+        "deaths": 68,
+        "recovered": 351
       },
       "back_2week": {
-        "confirmed": 981,
-        "deaths": 31,
-        "recovered": 197
+        "confirmed": 1095,
+        "deaths": 32,
+        "recovered": 208
       },
       "latest": {
-        "confirmed": 3526,
-        "deaths": 107,
-        "recovered": 601
+        "confirmed": 3912,
+        "deaths": 117,
+        "recovered": 679
       }
     },
     "NIC": {
