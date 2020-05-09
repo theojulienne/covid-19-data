@@ -46,7 +46,7 @@
           "confirmed": 1477,
           "date": "2020-05-09",
           "deaths": 18,
-          "recovered": 1327
+          "recovered": 1336
         }
       }
     }
@@ -557,10 +557,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 26435,
+      "confirmed": 27474,
       "date": "2020-05-09",
-      "deaths": 599,
-      "recovered": 7530
+      "deaths": 618,
+      "recovered": 7756
     }
   },
   "Panama": {
