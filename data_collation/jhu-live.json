@@ -309,10 +309,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 174758,
+      "confirmed": 174755,
       "date": "2020-05-10",
       "deaths": 26271,
-      "recovered": 54886
+      "recovered": 54883
     }
   },
   "Germany": {
@@ -557,10 +557,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 28736,
+      "confirmed": 29465,
       "date": "2020-05-10",
-      "deaths": 636,
-      "recovered": 7809
+      "deaths": 639,
+      "recovered": 8023
     }
   },
   "Panama": {
@@ -873,7 +873,7 @@
         "live": {
           "confirmed": 5348,
           "date": "2020-05-10",
-          "deaths": 341,
+          "deaths": 340,
           "recovered": 0
         }
       },

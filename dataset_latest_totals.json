@@ -2587,7 +2587,7 @@
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1134,
+        "confirmed": 1485,
         "current_hospitalized": 5,
         "current_icu": 0,
         "deaths": 20,
@@ -2630,19 +2630,19 @@
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 18114,
-        "deaths": 417,
-        "recovered": 4715
+        "confirmed": 19103,
+        "deaths": 440,
+        "recovered": 4817
       },
       "back_2week": {
-        "confirmed": 11940,
-        "deaths": 253,
-        "recovered": 2755
+        "confirmed": 12723,
+        "deaths": 269,
+        "recovered": 2866
       },
       "latest": {
-        "confirmed": 26435,
-        "deaths": 599,
-        "recovered": 7530
+        "confirmed": 28736,
+        "deaths": 636,
+        "recovered": 7809
       }
     },
     "PAN": {
