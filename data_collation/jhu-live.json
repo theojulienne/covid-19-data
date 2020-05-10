@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5776,
+      "confirmed": 6021,
       "date": "2020-05-10",
-      "deaths": 300,
+      "deaths": 305,
       "recovered": 1757
     }
   },
@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3053,
+          "confirmed": 3054,
           "date": "2020-05-10",
           "deaths": 44,
           "recovered": 2515
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 157695,
+      "confirmed": 162699,
       "date": "2020-05-10",
-      "deaths": 10757,
+      "deaths": 11123,
       "recovered": 61685
     }
   },
@@ -143,9 +143,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6157,
+          "confirmed": 6253,
           "date": "2020-05-10",
-          "deaths": 116,
+          "deaths": 117,
           "recovered": 0
         }
       },
@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 21447,
+          "confirmed": 21469,
           "date": "2020-05-10",
-          "deaths": 1748,
+          "deaths": 1751,
           "recovered": 0
         }
       },
@@ -703,8 +703,8 @@
     "live": {
       "confirmed": 30305,
       "date": "2020-05-10",
-      "deaths": 1830,
-      "recovered": 26400
+      "deaths": 1833,
+      "recovered": 26600
     }
   },
   "Thailand": {
@@ -751,9 +751,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 13181,
+          "confirmed": 13372,
           "date": "2020-05-10",
-          "deaths": 669,
+          "deaths": 670,
           "recovered": 0
         }
       },
@@ -791,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15578,
+          "confirmed": 15616,
           "date": "2020-05-10",
           "deaths": 593,
           "recovered": 0
@@ -895,7 +895,7 @@
       },
       "New Hampshire": {
         "live": {
-          "confirmed": 1404,
+          "confirmed": 1438,
           "date": "2020-05-10",
           "deaths": 40,
           "recovered": 0
@@ -911,9 +911,9 @@
       },
       "New Mexico": {
         "live": {
-          "confirmed": 1508,
+          "confirmed": 1522,
           "date": "2020-05-10",
-          "deaths": 40,
+          "deaths": 46,
           "recovered": 0
         }
       },
