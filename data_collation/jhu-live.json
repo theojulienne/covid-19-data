@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 156862,
+      "confirmed": 157695,
       "date": "2020-05-10",
-      "deaths": 10739,
+      "deaths": 10757,
       "recovered": 61685
     }
   },
@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 21438,
+          "confirmed": 21447,
           "date": "2020-05-10",
-          "deaths": 1743,
+          "deaths": 1748,
           "recovered": 0
         }
       },
@@ -245,10 +245,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1754,
+      "confirmed": 1766,
       "date": "2020-05-10",
-      "deaths": 74,
-      "recovered": 1140
+      "deaths": 77,
+      "recovered": 1193
     }
   },
   "Czechia": {
@@ -309,17 +309,17 @@
   },
   "France": {
     "live": {
-      "confirmed": 174715,
+      "confirmed": 175027,
       "date": "2020-05-10",
-      "deaths": 26271,
-      "recovered": 54883
+      "deaths": 26341,
+      "recovered": 55062
     }
   },
   "Germany": {
     "live": {
-      "confirmed": 171767,
+      "confirmed": 171780,
       "date": "2020-05-10",
-      "deaths": 7557,
+      "deaths": 7560,
       "recovered": 144400
     }
   },
@@ -341,10 +341,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 2042,
+      "confirmed": 2146,
       "date": "2020-05-10",
       "deaths": 11,
-      "recovered": 698
+      "recovered": 714
     }
   },
   "Honduras": {
@@ -576,7 +576,7 @@
       "confirmed": 67307,
       "date": "2020-05-10",
       "deaths": 1889,
-      "recovered": 20246
+      "recovered": 21349
     }
   },
   "Philippines": {
@@ -743,9 +743,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 57664,
+          "confirmed": 58100,
           "date": "2020-05-10",
-          "deaths": 2401,
+          "deaths": 2416,
           "recovered": 0
         }
       },
@@ -791,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15562,
+          "confirmed": 15578,
           "date": "2020-05-10",
           "deaths": 593,
           "recovered": 0
@@ -849,7 +849,7 @@
         "live": {
           "confirmed": 74943,
           "date": "2020-05-10",
-          "deaths": 4708,
+          "deaths": 4771,
           "recovered": 0
         }
       },
@@ -975,7 +975,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 7904,
+          "confirmed": 8018,
           "date": "2020-05-10",
           "deaths": 101,
           "recovered": 0
@@ -983,9 +983,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 23112,
+          "confirmed": 23329,
           "date": "2020-05-10",
-          "deaths": 590,
+          "deaths": 600,
           "recovered": 0
         }
       },
