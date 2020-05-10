@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 4033,
+      "confirmed": 4402,
       "date": "2020-05-10",
-      "deaths": 115,
-      "recovered": 502
+      "deaths": 120,
+      "recovered": 558
     }
   },
   "Algeria": {
@@ -69,10 +69,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 4774,
+      "confirmed": 4856,
       "date": "2020-05-10",
       "deaths": 8,
-      "recovered": 2055
+      "recovered": 2065
     }
   },
   "Bangladesh": {
@@ -85,10 +85,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 22052,
+      "confirmed": 22973,
       "date": "2020-05-10",
-      "deaths": 126,
-      "recovered": 6050
+      "deaths": 131,
+      "recovered": 6406
     }
   },
   "Belgium": {
@@ -109,10 +109,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2090,
+      "confirmed": 2117,
       "date": "2020-05-10",
-      "deaths": 102,
-      "recovered": 1059
+      "deaths": 107,
+      "recovered": 1106
     }
   },
   "Brazil": {
@@ -237,10 +237,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 2176,
+      "confirmed": 2187,
       "date": "2020-05-10",
-      "deaths": 87,
-      "recovered": 1726
+      "deaths": 90,
+      "recovered": 1764
     }
   },
   "Cuba": {
@@ -261,10 +261,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 10319,
+      "confirmed": 10429,
       "date": "2020-05-10",
-      "deaths": 526,
-      "recovered": 8093
+      "deaths": 529,
+      "recovered": 8217
     }
   },
   "Dominican Republic": {
@@ -389,10 +389,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 106220,
+      "confirmed": 107603,
       "date": "2020-05-10",
-      "deaths": 6589,
-      "recovered": 85064
+      "deaths": 6640,
+      "recovered": 86143
     }
   },
   "Iraq": {
@@ -509,9 +509,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 42382,
+      "confirmed": 42627,
       "date": "2020-05-10",
-      "deaths": 5422,
+      "deaths": 5440,
       "recovered": 0
     }
   },
@@ -637,10 +637,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 1634,
+      "confirmed": 1709,
       "date": "2020-05-10",
-      "deaths": 17,
-      "recovered": 643
+      "deaths": 18,
+      "recovered": 650
     }
   },
   "Serbia": {
@@ -693,9 +693,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 25921,
+      "confirmed": 26322,
       "date": "2020-05-10",
-      "deaths": 3220,
+      "deaths": 3225,
       "recovered": 4971
     }
   },
