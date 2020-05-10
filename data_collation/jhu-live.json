@@ -256,7 +256,7 @@
       "confirmed": 8095,
       "date": "2020-05-10",
       "deaths": 276,
-      "recovered": 4447
+      "recovered": 4448
     }
   },
   "Denmark": {
@@ -293,10 +293,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1733,
+      "confirmed": 1739,
       "date": "2020-05-10",
       "deaths": 60,
-      "recovered": 747
+      "recovered": 750
     }
   },
   "Finland": {
@@ -381,10 +381,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 13645,
+      "confirmed": 14032,
       "date": "2020-05-10",
-      "deaths": 959,
-      "recovered": 2607
+      "deaths": 973,
+      "recovered": 2698
     }
   },
   "Iran": {
@@ -437,10 +437,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 4975,
+      "confirmed": 5056,
       "date": "2020-05-10",
       "deaths": 31,
-      "recovered": 1776
+      "recovered": 1828
     }
   },
   "Korea, South": {
@@ -549,10 +549,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 3224,
+      "confirmed": 3399,
       "date": "2020-05-10",
       "deaths": 17,
-      "recovered": 1068
+      "recovered": 1117
     }
   },
   "Pakistan": {
@@ -581,18 +581,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 10610,
+      "confirmed": 10794,
       "date": "2020-05-10",
-      "deaths": 704,
-      "recovered": 1842
+      "deaths": 719,
+      "recovered": 1924
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 15651,
+      "confirmed": 15821,
       "date": "2020-05-10",
-      "deaths": 785,
-      "recovered": 5437
+      "deaths": 791,
+      "recovered": 5698
     }
   },
   "Portugal": {
@@ -621,10 +621,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 198676,
+      "confirmed": 209688,
       "date": "2020-05-10",
-      "deaths": 1827,
-      "recovered": 31916
+      "deaths": 1915,
+      "recovered": 34306
     }
   },
   "Saudi Arabia": {
@@ -661,10 +661,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1455,
+      "confirmed": 1457,
       "date": "2020-05-10",
       "deaths": 26,
-      "recovered": 919
+      "recovered": 941
     }
   },
   "Slovenia": {
@@ -1052,7 +1052,7 @@
       "confirmed": 2387,
       "date": "2020-05-10",
       "deaths": 10,
-      "recovered": 1846
+      "recovered": 1856
     }
   }
 }

@@ -4097,7 +4097,7 @@ var covid19_dataset_country_aus = {
             33,
             33,
             33,
-            33
+            34
           ],
           "Central Qld": [
             0,
@@ -4657,7 +4657,7 @@ var covid19_dataset_country_aus = {
             196,
             196,
             196,
-            196
+            194
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -5217,7 +5217,7 @@ var covid19_dataset_country_aus = {
             257,
             257,
             257,
-            257
+            258
           ],
           "North West": [
             0,
