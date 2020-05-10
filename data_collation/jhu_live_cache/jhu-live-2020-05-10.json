@@ -38,7 +38,7 @@
           "confirmed": 3053,
           "date": "2020-05-10",
           "deaths": 44,
-          "recovered": 2504
+          "recovered": 2515
         }
       },
       "Victoria": {
@@ -46,7 +46,7 @@
           "confirmed": 1487,
           "date": "2020-05-10",
           "deaths": 18,
-          "recovered": 1336
+          "recovered": 1346
         }
       }
     }
@@ -373,10 +373,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 62808,
+      "confirmed": 62939,
       "date": "2020-05-10",
-      "deaths": 2101,
-      "recovered": 19301
+      "deaths": 2109,
+      "recovered": 19358
     }
   },
   "Indonesia": {
