@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 56343,
-        "deaths": 3537,
+        "confirmed": 57926,
+        "deaths": 3684,
         "recovered": 22764
       },
       "back_2week": {
-        "confirmed": 44919,
-        "deaths": 2402,
+        "confirmed": 46371,
+        "deaths": 2571,
         "recovered": 15149
       },
       "latest": {
-        "confirmed": 67674,
-        "deaths": 4697,
+        "confirmed": 68918,
+        "deaths": 4823,
         "recovered": 30239
       },
       "states": {
@@ -623,8 +623,8 @@
           "deaths": 46
         },
         "Ontario": {
-          "confirmed": 20826,
-          "deaths": 1665
+          "confirmed": 21148,
+          "deaths": 1726
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -2276,19 +2276,19 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 1494,
+        "confirmed": 1506,
         "deaths": 81,
-        "recovered": 807
+        "recovered": 852
       },
       "back_2week": {
-        "confirmed": 1326,
+        "confirmed": 1367,
         "deaths": 57,
-        "recovered": 337
+        "recovered": 374
       },
       "latest": {
-        "confirmed": 1586,
+        "confirmed": 1622,
         "deaths": 90,
-        "recovered": 1099
+        "recovered": 1112
       }
     },
     "MLI": {
@@ -2732,19 +2732,19 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 25351,
-        "deaths": 1007,
-        "recovered": 1647
+        "confirmed": 25190,
+        "deaths": 1023,
+        "recovered": 1671
       },
       "back_2week": {
-        "confirmed": 22797,
-        "deaths": 854,
-        "recovered": 1228
+        "confirmed": 23392,
+        "deaths": 880,
+        "recovered": 1277
       },
       "latest": {
-        "confirmed": 27268,
-        "deaths": 1114,
-        "recovered": 2422
+        "confirmed": 27406,
+        "deaths": 1126,
+        "recovered": 2499
       }
     },
     "PRY": {
@@ -2851,19 +2851,19 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 24097,
-        "deaths": 169,
-        "recovered": 3555
+        "confirmed": 25459,
+        "deaths": 176,
+        "recovered": 3765
       },
       "back_2week": {
-        "confirmed": 15102,
-        "deaths": 127,
-        "recovered": 2049
+        "confirmed": 16299,
+        "deaths": 136,
+        "recovered": 2215
       },
       "latest": {
-        "confirmed": 35432,
-        "deaths": 229,
-        "recovered": 9120
+        "confirmed": 37136,
+        "deaths": 239,
+        "recovered": 10144
       }
     },
     "SDN": {
