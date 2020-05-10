@@ -676,7 +676,8 @@ var covid19_dataset_country_nzl = {
       1488,
       1489,
       1490,
-      1492
+      1492,
+      1494
     ],
     "current_hospitalized": [
       0,
@@ -1120,7 +1121,8 @@ var covid19_dataset_country_nzl = {
       1316,
       1332,
       1347,
-      1368
+      1368,
+      1371
     ],
     "tested": [
       0,

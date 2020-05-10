@@ -17,7 +17,7 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5766,
+      "confirmed": 5776,
       "date": "2020-05-10",
       "deaths": 300,
       "recovered": 1728
@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3051,
+          "confirmed": 3053,
           "date": "2020-05-10",
           "deaths": 44,
           "recovered": 2504
@@ -453,10 +453,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10840,
+      "confirmed": 10874,
       "date": "2020-05-10",
       "deaths": 256,
-      "recovered": 9568
+      "recovered": 9610
     }
   },
   "Kuwait": {
@@ -496,7 +496,7 @@
       "confirmed": 33460,
       "date": "2020-05-10",
       "deaths": 3353,
-      "recovered": 20314
+      "recovered": 21824
     }
   },
   "Moldova": {
@@ -525,10 +525,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1492,
+      "confirmed": 1494,
       "date": "2020-05-10",
       "deaths": 21,
-      "recovered": 1368
+      "recovered": 1371
     }
   },
   "Nigeria": {
@@ -573,10 +573,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 8070,
-      "date": "2020-05-09",
-      "deaths": 231,
-      "recovered": 886
+      "confirmed": 8282,
+      "date": "2020-05-10",
+      "deaths": 237,
+      "recovered": 4501
     }
   },
   "Peru": {
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13988,
+          "confirmed": 13994,
           "date": "2020-05-10",
           "deaths": 569,
           "recovered": 0
@@ -879,7 +879,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5338,
+          "confirmed": 5348,
           "date": "2020-05-10",
           "deaths": 341,
           "recovered": 0
