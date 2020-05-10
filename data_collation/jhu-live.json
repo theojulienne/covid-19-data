@@ -53,10 +53,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15833,
+      "confirmed": 15871,
       "date": "2020-05-10",
-      "deaths": 615,
-      "recovered": 13928
+      "deaths": 618,
+      "recovered": 13991
     }
   },
   "Azerbaijan": {
@@ -301,9 +301,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 5913,
+      "confirmed": 5963,
       "date": "2020-05-10",
-      "deaths": 265,
+      "deaths": 267,
       "recovered": 4000
     }
   },
@@ -501,10 +501,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 5910,
+      "confirmed": 6038,
       "date": "2020-05-10",
-      "deaths": 186,
-      "recovered": 2461
+      "deaths": 188,
+      "recovered": 2545
     }
   },
   "Netherlands": {
@@ -613,10 +613,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 15131,
+      "confirmed": 15362,
       "date": "2020-05-10",
-      "deaths": 945,
-      "recovered": 6912
+      "deaths": 952,
+      "recovered": 7051
     }
   },
   "Russia": {
@@ -1033,10 +1033,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 17417,
+      "confirmed": 18198,
       "date": "2020-05-10",
-      "deaths": 185,
-      "recovered": 4295
+      "deaths": 198,
+      "recovered": 4804
     }
   },
   "United Kingdom": {
