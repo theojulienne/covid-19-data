@@ -159,7 +159,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 21197,
+          "confirmed": 21265,
           "date": "2020-05-10",
           "deaths": 1727,
           "recovered": 0
@@ -167,9 +167,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 36997,
+          "confirmed": 37732,
           "date": "2020-05-10",
-          "deaths": 2787,
+          "deaths": 2929,
           "recovered": 0
         }
       }
@@ -373,10 +373,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 67044,
+      "confirmed": 67161,
       "date": "2020-05-10",
-      "deaths": 2207,
-      "recovered": 20815
+      "deaths": 2212,
+      "recovered": 20969
     }
   },
   "Indonesia": {
@@ -791,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 14168,
+          "confirmed": 14176,
           "date": "2020-05-10",
           "deaths": 571,
           "recovered": 0
@@ -921,7 +921,7 @@
         "live": {
           "confirmed": 326404,
           "date": "2020-05-10",
-          "deaths": 26329,
+          "deaths": 26194,
           "recovered": 0
         }
       },
@@ -935,17 +935,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 14131,
+          "confirmed": 14318,
           "date": "2020-05-10",
-          "deaths": 558,
+          "deaths": 566,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 50373,
+          "confirmed": 50703,
           "date": "2020-05-10",
-          "deaths": 3310,
+          "deaths": 3313,
           "recovered": 0
         }
       },
@@ -1049,7 +1049,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2411,
+      "confirmed": 2418,
       "date": "2020-05-10",
       "deaths": 10,
       "recovered": 1881
