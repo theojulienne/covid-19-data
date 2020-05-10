@@ -447,7 +447,7 @@ var covid19_dataset_country_pak = {
       6464,
       7530,
       7809,
-      8023
+      8063
     ]
   }
 };
