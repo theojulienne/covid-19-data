@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1479,
+          "confirmed": 1487,
           "date": "2020-05-10",
           "deaths": 18,
           "recovered": 1336
@@ -203,7 +203,7 @@
       },
       "Hubei": {
         "live": {
-          "confirmed": 68128,
+          "confirmed": 68129,
           "date": "2020-05-10",
           "deaths": 4512,
           "recovered": 63616
@@ -265,14 +265,6 @@
       "date": "2020-05-10",
       "deaths": 526,
       "recovered": 8093
-    }
-  },
-  "Djibouti": {
-    "live": {
-      "confirmed": 1189,
-      "date": "2020-05-10",
-      "deaths": 3,
-      "recovered": 834
     }
   },
   "Dominican Republic": {
@@ -357,10 +349,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1771,
+      "confirmed": 1830,
       "date": "2020-05-10",
-      "deaths": 107,
-      "recovered": 192
+      "deaths": 108,
+      "recovered": 195
     }
   },
   "Hungary": {
@@ -751,9 +743,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 55876,
+          "confirmed": 57301,
           "date": "2020-05-10",
-          "deaths": 2379,
+          "deaths": 2390,
           "recovered": 0
         }
       },
@@ -801,7 +793,7 @@
         "live": {
           "confirmed": 13994,
           "date": "2020-05-10",
-          "deaths": 569,
+          "deaths": 570,
           "recovered": 0
         }
       },
