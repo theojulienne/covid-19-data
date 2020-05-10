@@ -437,10 +437,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 5056,
+      "confirmed": 5076,
       "date": "2020-05-10",
       "deaths": 31,
-      "recovered": 1828
+      "recovered": 1901
     }
   },
   "Korea, South": {
@@ -669,10 +669,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1454,
+      "confirmed": 1457,
       "date": "2020-05-10",
-      "deaths": 101,
-      "recovered": 255
+      "deaths": 102,
+      "recovered": 256
     }
   },
   "South Africa": {
@@ -775,9 +775,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 6102,
+          "confirmed": 6272,
           "date": "2020-05-10",
-          "deaths": 311,
+          "deaths": 323,
           "recovered": 0
         }
       },
@@ -839,9 +839,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 26290,
+          "confirmed": 27151,
           "date": "2020-05-10",
-          "deaths": 1255,
+          "deaths": 1290,
           "recovered": 0
         }
       },
@@ -871,7 +871,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5348,
+          "confirmed": 5416,
           "date": "2020-05-10",
           "deaths": 340,
           "recovered": 0
@@ -999,9 +999,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 9490,
+          "confirmed": 10000,
           "date": "2020-05-10",
-          "deaths": 337,
+          "deaths": 348,
           "recovered": 0
         }
       },
@@ -1052,7 +1052,7 @@
       "confirmed": 2411,
       "date": "2020-05-10",
       "deaths": 10,
-      "recovered": 1870
+      "recovered": 1881
     }
   }
 }
