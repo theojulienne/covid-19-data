@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 163427,
+      "confirmed": 163510,
       "date": "2020-05-11",
-      "deaths": 11168,
+      "deaths": 11207,
       "recovered": 64957
     }
   },
@@ -303,7 +303,7 @@
     "live": {
       "confirmed": 5984,
       "date": "2020-05-11",
-      "deaths": 267,
+      "deaths": 271,
       "recovered": 4000
     }
   },
@@ -317,7 +317,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 171879,
+      "confirmed": 171999,
       "date": "2020-05-11",
       "deaths": 7569,
       "recovered": 145600
@@ -437,10 +437,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 5138,
+      "confirmed": 5160,
       "date": "2020-05-11",
-      "deaths": 31,
-      "recovered": 1941
+      "deaths": 32,
+      "recovered": 2020
     }
   },
   "Korea, South": {
@@ -629,10 +629,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 39048,
+      "confirmed": 41014,
       "date": "2020-05-11",
-      "deaths": 246,
-      "recovered": 11457
+      "deaths": 255,
+      "recovered": 12737
     }
   },
   "Senegal": {
@@ -735,7 +735,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1461,
+          "confirmed": 1462,
           "date": "2020-05-11",
           "deaths": 85,
           "recovered": 0
@@ -959,9 +959,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 2198,
+          "confirmed": 2256,
           "date": "2020-05-11",
-          "deaths": 111,
+          "deaths": 113,
           "recovered": 0
         }
       },
@@ -1049,15 +1049,15 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 219183,
+      "confirmed": 223060,
       "date": "2020-05-11",
-      "deaths": 31855,
+      "deaths": 32065,
       "recovered": 0
     }
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2453,
+      "confirmed": 2482,
       "date": "2020-05-11",
       "deaths": 10,
       "recovered": 1982
