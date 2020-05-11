@@ -351,17 +351,17 @@
     "BGR": {
       "back_1week": {
         "confirmed": 1618,
-        "deaths": 72,
+        "deaths": 73,
         "recovered": 308
       },
       "back_2week": {
         "confirmed": 1300,
-        "deaths": 55,
+        "deaths": 56,
         "recovered": 205
       },
       "latest": {
         "confirmed": 1965,
-        "deaths": 90,
+        "deaths": 91,
         "recovered": 444
       }
     },
@@ -1107,18 +1107,18 @@
     "DNK": {
       "back_1week": {
         "confirmed": 9523,
-        "deaths": 475,
-        "recovered": 6889
+        "deaths": 484,
+        "recovered": 6987
       },
       "back_2week": {
         "confirmed": 8575,
-        "deaths": 418,
-        "recovered": 5669
+        "deaths": 422,
+        "recovered": 5805
       },
       "latest": {
         "confirmed": 10429,
-        "deaths": 526,
-        "recovered": 8093
+        "deaths": 529,
+        "recovered": 8217
       },
       "states": {
         "Faroe Islands": {

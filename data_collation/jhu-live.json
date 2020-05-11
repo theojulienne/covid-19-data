@@ -125,9 +125,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1981,
+      "confirmed": 1990,
       "date": "2020-05-11",
-      "deaths": 91,
+      "deaths": 93,
       "recovered": 461
     }
   },
@@ -263,8 +263,8 @@
     "live": {
       "confirmed": 10513,
       "date": "2020-05-11",
-      "deaths": 529,
-      "recovered": 8217
+      "deaths": 533,
+      "recovered": 8328
     }
   },
   "Dominican Republic": {
@@ -373,10 +373,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 67724,
+      "confirmed": 68789,
       "date": "2020-05-11",
-      "deaths": 2215,
-      "recovered": 21155
+      "deaths": 2223,
+      "recovered": 21266
     }
   },
   "Indonesia": {
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 58405,
+          "confirmed": 57151,
           "date": "2020-05-11",
-          "deaths": 2417,
+          "deaths": 2402,
           "recovered": 0
         }
       },
@@ -775,25 +775,25 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 5265,
+          "confirmed": 5390,
           "date": "2020-05-11",
-          "deaths": 183,
+          "deaths": 186,
           "recovered": 0
         }
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 6272,
+          "confirmed": 6389,
           "date": "2020-05-11",
-          "deaths": 323,
+          "deaths": 328,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 27940,
+          "confirmed": 28183,
           "date": "2020-05-11",
-          "deaths": 1118,
+          "deaths": 1127,
           "recovered": 0
         }
       },
@@ -847,9 +847,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 25900,
+          "confirmed": 27656,
           "date": "2020-05-11",
-          "deaths": 1216,
+          "deaths": 1310,
           "recovered": 0
         }
       },
@@ -879,7 +879,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5445,
+          "confirmed": 5464,
           "date": "2020-05-11",
           "deaths": 350,
           "recovered": 0
@@ -935,9 +935,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 2074,
+          "confirmed": 2106,
           "date": "2020-05-11",
-          "deaths": 61,
+          "deaths": 63,
           "recovered": 0
         }
       },
@@ -1007,9 +1007,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 10000,
+          "confirmed": 10590,
           "date": "2020-05-11",
-          "deaths": 348,
+          "deaths": 356,
           "recovered": 0
         }
       },
