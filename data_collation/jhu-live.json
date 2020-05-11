@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 4402,
+      "confirmed": 4687,
       "date": "2020-05-11",
-      "deaths": 120,
+      "deaths": 122,
       "recovered": 558
     }
   },
@@ -85,10 +85,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 22973,
+      "confirmed": 23906,
       "date": "2020-05-11",
-      "deaths": 131,
-      "recovered": 6406
+      "deaths": 135,
+      "recovered": 6531
     }
   },
   "Belgium": {
@@ -373,10 +373,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 67259,
+      "confirmed": 67700,
       "date": "2020-05-11",
-      "deaths": 2212,
-      "recovered": 20969
+      "deaths": 2215,
+      "recovered": 21130
     }
   },
   "Indonesia": {
@@ -389,10 +389,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 107603,
+      "confirmed": 109286,
       "date": "2020-05-11",
-      "deaths": 6640,
-      "recovered": 86143
+      "deaths": 6685,
+      "recovered": 87422
     }
   },
   "Iraq": {
@@ -437,7 +437,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 5126,
+      "confirmed": 5138,
       "date": "2020-05-11",
       "deaths": 31,
       "recovered": 1941
@@ -533,10 +533,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 1642,
+      "confirmed": 1664,
       "date": "2020-05-11",
       "deaths": 91,
-      "recovered": 1136
+      "recovered": 1200
     }
   },
   "Norway": {
@@ -669,7 +669,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1457,
+      "confirmed": 1460,
       "date": "2020-05-11",
       "deaths": 102,
       "recovered": 256
@@ -1060,7 +1060,7 @@
       "confirmed": 2453,
       "date": "2020-05-11",
       "deaths": 10,
-      "recovered": 1881
+      "recovered": 1945
     }
   }
 }
