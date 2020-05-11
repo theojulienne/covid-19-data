@@ -450,7 +450,7 @@ var covid19_dataset_country_uzb = {
       1775,
       1846,
       1881,
-      1945
+      1982
     ]
   }
 };
