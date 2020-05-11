@@ -1057,17 +1057,17 @@
       "back_1week": {
         "confirmed": 164967,
         "deaths": 6812,
-        "recovered": 129000
+        "recovered": 130600
       },
       "back_2week": {
         "confirmed": 156513,
         "deaths": 5877,
-        "recovered": 109800
+        "recovered": 112000
       },
       "latest": {
         "confirmed": 171324,
         "deaths": 7549,
-        "recovered": 143300
+        "recovered": 144400
       }
     },
     "DJI": {
@@ -2261,12 +2261,12 @@
       "back_1week": {
         "confirmed": 22088,
         "deaths": 2061,
-        "recovered": 12377
+        "recovered": 13447
       },
       "back_2week": {
         "confirmed": 13842,
         "deaths": 1305,
-        "recovered": 7149
+        "recovered": 8354
       },
       "latest": {
         "confirmed": 33460,
@@ -2630,19 +2630,19 @@
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 19103,
-        "deaths": 440,
-        "recovered": 4817
+        "confirmed": 20084,
+        "deaths": 457,
+        "recovered": 5114
       },
       "back_2week": {
-        "confirmed": 12723,
-        "deaths": 269,
-        "recovered": 2866
+        "confirmed": 13328,
+        "deaths": 281,
+        "recovered": 2936
       },
       "latest": {
-        "confirmed": 28736,
-        "deaths": 636,
-        "recovered": 7809
+        "confirmed": 30334,
+        "deaths": 659,
+        "recovered": 8063
       }
     },
     "PAN": {
