@@ -309,7 +309,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 175027,
+      "confirmed": 175026,
       "date": "2020-05-11",
       "deaths": 26341,
       "recovered": 55062
@@ -373,7 +373,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 67161,
+      "confirmed": 67259,
       "date": "2020-05-11",
       "deaths": 2212,
       "recovered": 20969
