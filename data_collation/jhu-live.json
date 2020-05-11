@@ -17,7 +17,7 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6021,
+      "confirmed": 6034,
       "date": "2020-05-10",
       "deaths": 305,
       "recovered": 1757
@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3054,
+          "confirmed": 3053,
           "date": "2020-05-10",
           "deaths": 44,
-          "recovered": 2515
+          "recovered": 2517
         }
       },
       "Victoria": {
@@ -120,7 +120,7 @@
       "confirmed": 162699,
       "date": "2020-05-10",
       "deaths": 11123,
-      "recovered": 61685
+      "recovered": 64957
     }
   },
   "Bulgaria": {
@@ -221,10 +221,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 10495,
+      "confirmed": 11063,
       "date": "2020-05-10",
-      "deaths": 445,
-      "recovered": 2569
+      "deaths": 463,
+      "recovered": 2705
     }
   },
   "Cote d'Ivoire": {
@@ -253,10 +253,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8106,
+      "confirmed": 8123,
       "date": "2020-05-10",
-      "deaths": 279,
-      "recovered": 4466
+      "deaths": 280,
+      "recovered": 4474
     }
   },
   "Denmark": {
@@ -317,9 +317,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 171780,
+      "confirmed": 171879,
       "date": "2020-05-10",
-      "deaths": 7560,
+      "deaths": 7569,
       "recovered": 144400
     }
   },
@@ -525,10 +525,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 4151,
+      "confirmed": 4399,
       "date": "2020-05-10",
-      "deaths": 128,
-      "recovered": 745
+      "deaths": 143,
+      "recovered": 778
     }
   },
   "North Macedonia": {
@@ -541,7 +541,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8102,
+      "confirmed": 8105,
       "date": "2020-05-10",
       "deaths": 219,
       "recovered": 32
@@ -727,7 +727,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1460,
+          "confirmed": 1461,
           "date": "2020-05-10",
           "deaths": 85,
           "recovered": 0
@@ -735,9 +735,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 7333,
+          "confirmed": 7412,
           "date": "2020-05-10",
-          "deaths": 378,
+          "deaths": 381,
           "recovered": 0
         }
       },
@@ -791,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15616,
+          "confirmed": 15657,
           "date": "2020-05-10",
           "deaths": 593,
           "recovered": 0
@@ -871,7 +871,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5416,
+          "confirmed": 5445,
           "date": "2020-05-10",
           "deaths": 350,
           "recovered": 0
@@ -879,7 +879,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 4168,
+          "confirmed": 4227,
           "date": "2020-05-10",
           "deaths": 45,
           "recovered": 0
@@ -983,7 +983,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 23329,
+          "confirmed": 23580,
           "date": "2020-05-10",
           "deaths": 600,
           "recovered": 0
@@ -1007,9 +1007,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 12836,
+          "confirmed": 13031,
           "date": "2020-05-10",
-          "deaths": 724,
+          "deaths": 733,
           "recovered": 0
         }
       },
