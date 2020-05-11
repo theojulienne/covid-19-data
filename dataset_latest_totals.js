@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 6,
           "deaths": 6,
           "recovered": 1019,
-          "tested": 133016
+          "tested": 135806
         },
         "SA": {
           "confirmed": 438,
@@ -1698,19 +1698,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 2942,
-        "deaths": 335,
-        "recovered": 625
+        "confirmed": 2998,
+        "deaths": 340,
+        "recovered": 629
       },
       "back_2week": {
-        "confirmed": 2443,
-        "deaths": 262,
-        "recovered": 458
+        "confirmed": 2500,
+        "deaths": 272,
+        "recovered": 485
       },
       "latest": {
-        "confirmed": 3213,
-        "deaths": 405,
-        "recovered": 904
+        "confirmed": 3263,
+        "deaths": 413,
+        "recovered": 933
       }
     },
     "IDN": {
@@ -1902,17 +1902,17 @@ var covid19_dataset_latest_totals = {
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 3857,
+        "confirmed": 3920,
         "deaths": 25,
         "recovered": 985
       },
       "back_2week": {
-        "confirmed": 2601,
+        "confirmed": 2717,
         "deaths": 25,
         "recovered": 646
       },
       "latest": {
-        "confirmed": 4975,
+        "confirmed": 5090,
         "deaths": 31,
         "recovered": 1776
       }
@@ -3174,19 +3174,19 @@ var covid19_dataset_latest_totals = {
     },
     "THA": {
       "back_1week": {
-        "confirmed": 2966,
+        "confirmed": 2969,
         "deaths": 54,
-        "recovered": 2732
+        "recovered": 2739
       },
       "back_2week": {
-        "confirmed": 2907,
+        "confirmed": 2922,
         "deaths": 51,
-        "recovered": 2547
+        "recovered": 2594
       },
       "latest": {
-        "confirmed": 3004,
+        "confirmed": 3009,
         "deaths": 56,
-        "recovered": 2787
+        "recovered": 2794
       }
     },
     "TJK": {
@@ -3715,17 +3715,17 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2118,
+        "confirmed": 2149,
         "deaths": 9,
         "recovered": 1271
       },
       "back_2week": {
-        "confirmed": 1862,
+        "confirmed": 1869,
         "deaths": 8,
         "recovered": 707
       },
       "latest": {
-        "confirmed": 2349,
+        "confirmed": 2418,
         "deaths": 10,
         "recovered": 1846
       }
