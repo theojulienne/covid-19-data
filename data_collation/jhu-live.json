@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6034,
+      "confirmed": 6265,
       "date": "2020-05-11",
-      "deaths": 305,
+      "deaths": 314,
       "recovered": 1837
     }
   },
@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1496,
+          "confirmed": 1511,
           "date": "2020-05-11",
           "deaths": 18,
           "recovered": 1360
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 165475,
+      "confirmed": 166162,
       "date": "2020-05-11",
-      "deaths": 11309,
+      "deaths": 11343,
       "recovered": 64957
     }
   },
@@ -133,17 +133,17 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 2579,
+      "confirmed": 2689,
       "date": "2020-05-11",
-      "deaths": 114,
-      "recovered": 1465
+      "deaths": 125,
+      "recovered": 1524
     }
   },
   "Canada": {
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6253,
+          "confirmed": 6300,
           "date": "2020-05-11",
           "deaths": 117,
           "recovered": 0
@@ -151,9 +151,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 2330,
+          "confirmed": 2353,
           "date": "2020-05-11",
-          "deaths": 129,
+          "deaths": 130,
           "recovered": 0
         }
       },
@@ -221,10 +221,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 11063,
+      "confirmed": 11613,
       "date": "2020-05-11",
-      "deaths": 463,
-      "recovered": 2705
+      "deaths": 479,
+      "recovered": 2825
     }
   },
   "Cote d'Ivoire": {
@@ -317,9 +317,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 172517,
+      "confirmed": 172576,
       "date": "2020-05-11",
-      "deaths": 7653,
+      "deaths": 7661,
       "recovered": 145600
     }
   },
@@ -751,17 +751,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 58692,
+          "confirmed": 59252,
           "date": "2020-05-11",
-          "deaths": 2419,
+          "deaths": 2458,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 13372,
+          "confirmed": 13526,
           "date": "2020-05-11",
-          "deaths": 670,
+          "deaths": 680,
           "recovered": 0
         }
       },
@@ -903,7 +903,7 @@
       },
       "New Hampshire": {
         "live": {
-          "confirmed": 1438,
+          "confirmed": 1496,
           "date": "2020-05-11",
           "deaths": 40,
           "recovered": 0
