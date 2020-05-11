@@ -159,15 +159,15 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 21525,
+          "confirmed": 21613,
           "date": "2020-05-11",
-          "deaths": 1753,
+          "deaths": 1774,
           "recovered": 0
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 38479,
+          "confirmed": 38480,
           "date": "2020-05-11",
           "deaths": 3014,
           "recovered": 0
@@ -309,10 +309,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 175026,
+      "confirmed": 175479,
       "date": "2020-05-11",
-      "deaths": 26341,
-      "recovered": 55062
+      "deaths": 26604,
+      "recovered": 55569
     }
   },
   "Germany": {
@@ -725,10 +725,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 138657,
+      "confirmed": 139771,
       "date": "2020-05-11",
-      "deaths": 3786,
-      "recovered": 92691
+      "deaths": 3841,
+      "recovered": 95780
     }
   },
   "US": {
@@ -841,7 +841,7 @@
         "live": {
           "confirmed": 19074,
           "date": "2020-05-11",
-          "deaths": 1329,
+          "deaths": 1328,
           "recovered": 0
         }
       },
@@ -911,9 +911,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 135101,
+          "confirmed": 136242,
           "date": "2020-05-11",
-          "deaths": 8929,
+          "deaths": 8983,
           "recovered": 0
         }
       },
@@ -943,17 +943,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 14318,
+          "confirmed": 14708,
           "date": "2020-05-11",
-          "deaths": 566,
+          "deaths": 574,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 49795,
+          "confirmed": 49897,
           "date": "2020-05-11",
-          "deaths": 3274,
+          "deaths": 3273,
           "recovered": 0
         }
       },
@@ -991,7 +991,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 23612,
+          "confirmed": 23678,
           "date": "2020-05-11",
           "deaths": 600,
           "recovered": 0
@@ -1041,10 +1041,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 18198,
+      "confirmed": 18878,
       "date": "2020-05-11",
-      "deaths": 198,
-      "recovered": 4804
+      "deaths": 201,
+      "recovered": 5381
     }
   },
   "United Kingdom": {
