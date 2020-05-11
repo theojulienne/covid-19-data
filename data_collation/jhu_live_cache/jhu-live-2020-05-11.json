@@ -190,7 +190,7 @@
           "confirmed": 1589,
           "date": "2020-05-11",
           "deaths": 8,
-          "recovered": 1576
+          "recovered": 1577
         }
       },
       "Henan": {
@@ -203,7 +203,7 @@
       },
       "Hubei": {
         "live": {
-          "confirmed": 68129,
+          "confirmed": 68134,
           "date": "2020-05-11",
           "deaths": 4512,
           "recovered": 63616
@@ -565,10 +565,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 8282,
+      "confirmed": 8448,
       "date": "2020-05-11",
-      "deaths": 237,
-      "recovered": 4501
+      "deaths": 244,
+      "recovered": 4687
     }
   },
   "Peru": {
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15720,
+          "confirmed": 15760,
           "date": "2020-05-11",
           "deaths": 593,
           "recovered": 0
