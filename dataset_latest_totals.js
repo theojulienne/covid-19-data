@@ -2595,20 +2595,20 @@ var covid19_dataset_latest_totals = {
         "tested": 145589
       },
       "back_2week": {
-        "confirmed": 1461,
+        "confirmed": 1470,
         "current_hospitalized": 7,
         "current_icu": 1,
         "deaths": 18,
-        "recovered": 1118,
-        "tested": 115015
+        "recovered": 1142,
+        "tested": 120981
       },
       "latest": {
-        "confirmed": 1492,
+        "confirmed": 1494,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1368,
-        "tested": 183039
+        "recovered": 1371,
+        "tested": 190326
       }
     },
     "OMN": {

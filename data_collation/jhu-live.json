@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1489,
+          "confirmed": 1496,
           "date": "2020-05-11",
           "deaths": 18,
           "recovered": 1346
@@ -101,10 +101,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 2437,
+      "confirmed": 2556,
       "date": "2020-05-11",
-      "deaths": 114,
-      "recovered": 258
+      "deaths": 118,
+      "recovered": 273
     }
   },
   "Bosnia and Herzegovina": {
@@ -349,10 +349,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 1830,
+      "confirmed": 1972,
       "date": "2020-05-11",
       "deaths": 108,
-      "recovered": 195
+      "recovered": 203
     }
   },
   "Hungary": {
@@ -445,10 +445,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10874,
+      "confirmed": 10909,
       "date": "2020-05-11",
       "deaths": 256,
-      "recovered": 9610
+      "recovered": 9632
     }
   },
   "Kuwait": {
@@ -517,10 +517,10 @@
   },
   "New Zealand": {
     "live": {
-      "confirmed": 1494,
+      "confirmed": 1497,
       "date": "2020-05-11",
       "deaths": 21,
-      "recovered": 1371
+      "recovered": 1386
     }
   },
   "Nigeria": {
@@ -799,7 +799,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15688,
+          "confirmed": 15720,
           "date": "2020-05-11",
           "deaths": 593,
           "recovered": 0
