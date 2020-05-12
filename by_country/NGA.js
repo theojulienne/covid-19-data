@@ -339,7 +339,8 @@ var covid19_dataset_country_nga = {
       117,
       128,
       143,
-      150
+      150,
+      152
     ],
     "recovered": [
       0,
