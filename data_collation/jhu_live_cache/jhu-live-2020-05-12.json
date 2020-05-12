@@ -125,9 +125,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 2004,
+      "confirmed": 2023,
       "date": "2020-05-12",
-      "deaths": 93,
+      "deaths": 95,
       "recovered": 476
     }
   },
@@ -159,9 +159,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 21817,
+          "confirmed": 21847,
           "date": "2020-05-12",
-          "deaths": 1788,
+          "deaths": 1789,
           "recovered": 0
         }
       },
@@ -177,10 +177,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 30063,
+      "confirmed": 31721,
       "date": "2020-05-12",
-      "deaths": 323,
-      "recovered": 13605
+      "deaths": 335,
+      "recovered": 14125
     }
   },
   "China": {
@@ -317,7 +317,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 172723,
+      "confirmed": 172812,
       "date": "2020-05-12",
       "deaths": 7667,
       "recovered": 147200
@@ -333,9 +333,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2726,
+      "confirmed": 2744,
       "date": "2020-05-12",
-      "deaths": 151,
+      "deaths": 152,
       "recovered": 1374
     }
   },
@@ -397,10 +397,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2818,
+      "confirmed": 2913,
       "date": "2020-05-12",
-      "deaths": 110,
-      "recovered": 1790
+      "deaths": 112,
+      "recovered": 1903
     }
   },
   "Ireland": {
@@ -1049,9 +1049,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 223060,
+      "confirmed": 226463,
       "date": "2020-05-12",
-      "deaths": 32065,
+      "deaths": 32692,
       "recovered": 0
     }
   },

@@ -227,7 +227,7 @@ var covid19_dataset_country_bgr = {
       1921,
       1965,
       1990,
-      2004
+      2023
     ],
     "deaths": [
       0,
@@ -340,7 +340,8 @@ var covid19_dataset_country_bgr = {
       86,
       90,
       91,
-      93
+      93,
+      95
     ],
     "recovered": [
       0,
