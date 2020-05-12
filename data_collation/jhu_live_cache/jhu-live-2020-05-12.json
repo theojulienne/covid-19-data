@@ -101,10 +101,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 2556,
+      "confirmed": 2831,
       "date": "2020-05-12",
-      "deaths": 118,
-      "recovered": 273
+      "deaths": 122,
+      "recovered": 299
     }
   },
   "Bosnia and Herzegovina": {
@@ -190,7 +190,7 @@
           "confirmed": 1589,
           "date": "2020-05-12",
           "deaths": 8,
-          "recovered": 1577
+          "recovered": 1578
         }
       },
       "Henan": {
@@ -445,10 +445,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10909,
+      "confirmed": 10936,
       "date": "2020-05-12",
-      "deaths": 256,
-      "recovered": 9632
+      "deaths": 258,
+      "recovered": 9670
     }
   },
   "Kuwait": {
@@ -520,7 +520,7 @@
       "confirmed": 1497,
       "date": "2020-05-12",
       "deaths": 21,
-      "recovered": 1386
+      "recovered": 1398
     }
   },
   "Nigeria": {
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 59252,
+          "confirmed": 59404,
           "date": "2020-05-12",
-          "deaths": 2458,
+          "deaths": 2470,
           "recovered": 0
         }
       },
