@@ -437,10 +437,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 5207,
+      "confirmed": 5240,
       "date": "2020-05-12",
       "deaths": 32,
-      "recovered": 2074
+      "recovered": 2108
     }
   },
   "Korea, South": {
@@ -751,7 +751,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 59597,
+          "confirmed": 59603,
           "date": "2020-05-12",
           "deaths": 2470,
           "recovered": 0
@@ -1033,10 +1033,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 15648,
+      "confirmed": 16023,
       "date": "2020-05-12",
-      "deaths": 408,
-      "recovered": 3288
+      "deaths": 425,
+      "recovered": 3373
     }
   },
   "United Arab Emirates": {
