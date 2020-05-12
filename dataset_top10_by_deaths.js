@@ -460,7 +460,7 @@ var covid19_dataset_top10_by_deaths = {
           156061,
           162699,
           169594,
-          172790
+          173141
         ],
         "deaths": [
           0,
@@ -574,7 +574,7 @@ var covid19_dataset_top10_by_deaths = {
           10656,
           11123,
           11653,
-          12033
+          12065
         ],
         "recovered": [
           0,
@@ -805,7 +805,7 @@ var covid19_dataset_top10_by_deaths = {
           171324,
           171879,
           172576,
-          172978
+          173034
         ],
         "deaths": [
           0,
@@ -919,7 +919,7 @@ var covid19_dataset_top10_by_deaths = {
           7549,
           7569,
           7661,
-          7713
+          7718
         ],
         "recovered": [
           0,
