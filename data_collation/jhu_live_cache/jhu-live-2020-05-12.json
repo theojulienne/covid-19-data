@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 4687,
+      "confirmed": 4963,
       "date": "2020-05-12",
-      "deaths": 122,
-      "recovered": 558
+      "deaths": 127,
+      "recovered": 610
     }
   },
   "Algeria": {
@@ -69,10 +69,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 5236,
+      "confirmed": 5409,
       "date": "2020-05-12",
-      "deaths": 8,
-      "recovered": 2152
+      "deaths": 9,
+      "recovered": 2182
     }
   },
   "Bangladesh": {
@@ -301,7 +301,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 5984,
+      "confirmed": 6003,
       "date": "2020-05-12",
       "deaths": 271,
       "recovered": 4000
@@ -317,7 +317,7 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 172576,
+      "confirmed": 172626,
       "date": "2020-05-12",
       "deaths": 7661,
       "recovered": 147200
@@ -389,10 +389,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 109286,
+      "confirmed": 110767,
       "date": "2020-05-12",
-      "deaths": 6685,
-      "recovered": 87422
+      "deaths": 6733,
+      "recovered": 88357
     }
   },
   "Iraq": {
@@ -501,10 +501,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 6281,
+      "confirmed": 6380,
       "date": "2020-05-12",
       "deaths": 188,
-      "recovered": 2811
+      "recovered": 2930
     }
   },
   "Netherlands": {
@@ -677,7 +677,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 10652,
+      "confirmed": 11350,
       "date": "2020-05-12",
       "deaths": 206,
       "recovered": 4357
@@ -696,7 +696,7 @@
       "confirmed": 1526,
       "date": "2020-05-12",
       "deaths": 74,
-      "recovered": 162
+      "recovered": 161
     }
   },
   "Sweden": {
