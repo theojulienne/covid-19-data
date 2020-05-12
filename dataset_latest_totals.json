@@ -1004,19 +1004,19 @@
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 1649,
-        "deaths": 67,
-        "recovered": 827
+        "confirmed": 1668,
+        "deaths": 69,
+        "recovered": 876
       },
       "back_2week": {
-        "confirmed": 1369,
-        "deaths": 54,
-        "recovered": 501
+        "confirmed": 1389,
+        "deaths": 56,
+        "recovered": 525
       },
       "latest": {
-        "confirmed": 1766,
+        "confirmed": 1783,
         "deaths": 77,
-        "recovered": 1193
+        "recovered": 1229
       }
     },
     "CYP": {
@@ -1108,17 +1108,17 @@
       "back_1week": {
         "confirmed": 9670,
         "deaths": 484,
-        "recovered": 6987
+        "recovered": 7088
       },
       "back_2week": {
         "confirmed": 8698,
         "deaths": 422,
-        "recovered": 5805
+        "recovered": 5959
       },
       "latest": {
         "confirmed": 10513,
         "deaths": 529,
-        "recovered": 8217
+        "recovered": 8328
       },
       "states": {
         "Faroe Islands": {
@@ -2553,18 +2553,18 @@
     },
     "NOR": {
       "back_1week": {
-        "confirmed": 7847,
-        "deaths": 211,
+        "confirmed": 7904,
+        "deaths": 214,
         "recovered": 32
       },
       "back_2week": {
-        "confirmed": 7527,
-        "deaths": 201,
+        "confirmed": 7599,
+        "deaths": 205,
         "recovered": 32
       },
       "latest": {
-        "confirmed": 8105,
-        "deaths": 219,
+        "confirmed": 8132,
+        "deaths": 224,
         "recovered": 32
       }
     },
@@ -2664,19 +2664,19 @@
     },
     "PER": {
       "back_1week": {
-        "confirmed": 45928,
-        "deaths": 1286,
-        "recovered": 13550
+        "confirmed": 47372,
+        "deaths": 1344,
+        "recovered": 14427
       },
       "back_2week": {
-        "confirmed": 27517,
-        "deaths": 728,
-        "recovered": 8088
+        "confirmed": 28699,
+        "deaths": 782,
+        "recovered": 8425
       },
       "latest": {
-        "confirmed": 67307,
-        "deaths": 1889,
-        "recovered": 21349
+        "confirmed": 68822,
+        "deaths": 1961,
+        "recovered": 22406
       }
     },
     "PHL": {
