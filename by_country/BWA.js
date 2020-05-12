@@ -225,7 +225,8 @@ var covid19_dataset_country_bwa = {
       23,
       23,
       23,
-      23
+      23,
+      24
     ],
     "deaths": [
       0,
@@ -297,6 +298,7 @@ var covid19_dataset_country_bwa = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -448,6 +450,7 @@ var covid19_dataset_country_bwa = {
       8,
       9,
       9,
+      12,
       12,
       12
     ]
