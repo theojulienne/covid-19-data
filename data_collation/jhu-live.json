@@ -613,10 +613,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 15588,
+      "confirmed": 15778,
       "date": "2020-05-12",
       "deaths": 991,
-      "recovered": 7245
+      "recovered": 7685
     }
   },
   "Russia": {
@@ -709,7 +709,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30344,
+      "confirmed": 30380,
       "date": "2020-05-12",
       "deaths": 1845,
       "recovered": 26800
@@ -1041,10 +1041,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 18878,
+      "confirmed": 19661,
       "date": "2020-05-12",
-      "deaths": 201,
-      "recovered": 5381
+      "deaths": 203,
+      "recovered": 6012
     }
   },
   "United Kingdom": {
