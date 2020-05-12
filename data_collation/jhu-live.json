@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1511,
+          "confirmed": 1507,
           "date": "2020-05-12",
           "deaths": 18,
           "recovered": 1376
@@ -53,10 +53,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 15882,
+      "confirmed": 15961,
       "date": "2020-05-12",
-      "deaths": 620,
-      "recovered": 14061
+      "deaths": 623,
+      "recovered": 14148
     }
   },
   "Azerbaijan": {
@@ -77,10 +77,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 15691,
+      "confirmed": 16660,
       "date": "2020-05-12",
-      "deaths": 239,
-      "recovered": 2902
+      "deaths": 250,
+      "recovered": 3147
     }
   },
   "Belarus": {
@@ -93,10 +93,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 53449,
+      "confirmed": 53779,
       "date": "2020-05-12",
-      "deaths": 8707,
-      "recovered": 13697
+      "deaths": 8761,
+      "recovered": 13732
     }
   },
   "Bolivia": {
@@ -261,7 +261,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 10513,
+      "confirmed": 10591,
       "date": "2020-05-12",
       "deaths": 533,
       "recovered": 8328
@@ -373,18 +373,18 @@
   },
   "India": {
     "live": {
-      "confirmed": 70827,
+      "confirmed": 71339,
       "date": "2020-05-12",
-      "deaths": 2294,
-      "recovered": 22549
+      "deaths": 2310,
+      "recovered": 23033
     }
   },
   "Indonesia": {
     "live": {
-      "confirmed": 14265,
+      "confirmed": 14749,
       "date": "2020-05-12",
-      "deaths": 991,
-      "recovered": 2881
+      "deaths": 1007,
+      "recovered": 3063
     }
   },
   "Iran": {
@@ -413,10 +413,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16506,
+      "confirmed": 16526,
       "date": "2020-05-12",
       "deaths": 258,
-      "recovered": 11843
+      "recovered": 11956
     }
   },
   "Italy": {
@@ -477,10 +477,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 6726,
+      "confirmed": 6742,
       "date": "2020-05-12",
       "deaths": 109,
-      "recovered": 5113
+      "recovered": 5223
     }
   },
   "Mexico": {
@@ -669,10 +669,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 1460,
+      "confirmed": 1461,
       "date": "2020-05-12",
       "deaths": 102,
-      "recovered": 256
+      "recovered": 259
     }
   },
   "South Africa": {
