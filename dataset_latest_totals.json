@@ -1056,17 +1056,17 @@
     "DEU": {
       "back_1week": {
         "confirmed": 166152,
-        "deaths": 6866,
+        "deaths": 6993,
         "recovered": 132700
       },
       "back_2week": {
         "confirmed": 158758,
-        "deaths": 5976,
+        "deaths": 6126,
         "recovered": 114500
       },
       "latest": {
         "confirmed": 172576,
-        "deaths": 7569,
+        "deaths": 7661,
         "recovered": 145617
       }
     },
@@ -1802,12 +1802,12 @@
       "back_1week": {
         "confirmed": 1799,
         "deaths": 10,
-        "recovered": 1717
+        "recovered": 1723
       },
       "back_2week": {
         "confirmed": 1792,
         "deaths": 10,
-        "recovered": 1608
+        "recovered": 1624
       },
       "latest": {
         "confirmed": 1801,
