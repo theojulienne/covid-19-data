@@ -61,18 +61,18 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 2589,
+      "confirmed": 2693,
       "date": "2020-05-12",
-      "deaths": 32,
+      "deaths": 33,
       "recovered": 1680
     }
   },
   "Bahrain": {
     "live": {
-      "confirmed": 5409,
+      "confirmed": 5522,
       "date": "2020-05-12",
       "deaths": 9,
-      "recovered": 2182
+      "recovered": 2192
     }
   },
   "Bangladesh": {
@@ -167,9 +167,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 38480,
+          "confirmed": 39235,
           "date": "2020-05-12",
-          "deaths": 3014,
+          "deaths": 3132,
           "recovered": 0
         }
       }
@@ -277,10 +277,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 9746,
+      "confirmed": 10093,
       "date": "2020-05-12",
-      "deaths": 533,
-      "recovered": 2172
+      "deaths": 544,
+      "recovered": 2326
     }
   },
   "Estonia": {
@@ -301,17 +301,17 @@
   },
   "France": {
     "live": {
-      "confirmed": 175479,
+      "confirmed": 176281,
       "date": "2020-05-12",
-      "deaths": 26604,
-      "recovered": 55561
+      "deaths": 26952,
+      "recovered": 56622
     }
   },
   "Germany": {
     "live": {
-      "confirmed": 172812,
+      "confirmed": 172905,
       "date": "2020-05-12",
-      "deaths": 7676,
+      "deaths": 7693,
       "recovered": 147200
     }
   },
@@ -405,10 +405,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16526,
+      "confirmed": 16529,
       "date": "2020-05-12",
-      "deaths": 258,
-      "recovered": 11956
+      "deaths": 260,
+      "recovered": 12083
     }
   },
   "Italy": {
@@ -485,10 +485,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 4995,
+      "confirmed": 5154,
       "date": "2020-05-12",
-      "deaths": 175,
-      "recovered": 1980
+      "deaths": 182,
+      "recovered": 2069
     }
   },
   "Morocco": {
@@ -919,7 +919,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 327965,
+          "confirmed": 329298,
           "date": "2020-05-12",
           "deaths": 26828,
           "recovered": 0
@@ -935,9 +935,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 14708,
+          "confirmed": 14972,
           "date": "2020-05-12",
-          "deaths": 574,
+          "deaths": 608,
           "recovered": 0
         }
       },
