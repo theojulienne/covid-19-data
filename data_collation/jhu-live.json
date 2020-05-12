@@ -46,7 +46,7 @@
           "confirmed": 1511,
           "date": "2020-05-12",
           "deaths": 18,
-          "recovered": 1360
+          "recovered": 1376
         }
       }
     }
@@ -125,10 +125,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 1990,
+      "confirmed": 2004,
       "date": "2020-05-12",
       "deaths": 93,
-      "recovered": 461
+      "recovered": 476
     }
   },
   "Cameroon": {
@@ -357,10 +357,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3284,
+      "confirmed": 3313,
       "date": "2020-05-12",
-      "deaths": 421,
-      "recovered": 958
+      "deaths": 425,
+      "recovered": 1007
     }
   },
   "Iceland": {
@@ -717,10 +717,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3015,
+      "confirmed": 3017,
       "date": "2020-05-12",
       "deaths": 56,
-      "recovered": 2796
+      "recovered": 2798
     }
   },
   "Turkey": {
@@ -1057,7 +1057,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2486,
+      "confirmed": 2509,
       "date": "2020-05-12",
       "deaths": 10,
       "recovered": 1988

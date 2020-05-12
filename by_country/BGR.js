@@ -226,7 +226,8 @@ var covid19_dataset_country_bgr = {
       1872,
       1921,
       1965,
-      1990
+      1990,
+      2004
     ],
     "deaths": [
       0,
@@ -452,7 +453,8 @@ var covid19_dataset_country_bgr = {
       401,
       422,
       444,
-      461
+      461,
+      476
     ]
   }
 };
