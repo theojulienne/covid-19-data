@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 6563,
       "date": "2020-05-13",
-      "deaths": 319,
-      "recovered": 1862
+      "deaths": 321,
+      "recovered": 2266
     }
   },
   "Armenia": {
@@ -301,10 +301,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 176198,
+      "confirmed": 176150,
       "date": "2020-05-13",
-      "deaths": 26951,
-      "recovered": 56615
+      "deaths": 26949,
+      "recovered": 56480
     }
   },
   "Germany": {
@@ -775,9 +775,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 6485,
+          "confirmed": 6584,
           "date": "2020-05-13",
-          "deaths": 336,
+          "deaths": 350,
           "recovered": 0
         }
       },
@@ -839,9 +839,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 28279,
+          "confirmed": 28889,
           "date": "2020-05-13",
-          "deaths": 1366,
+          "deaths": 1428,
           "recovered": 0
         }
       },
@@ -871,7 +871,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5535,
+          "confirmed": 5571,
           "date": "2020-05-13",
           "deaths": 369,
           "recovered": 0
