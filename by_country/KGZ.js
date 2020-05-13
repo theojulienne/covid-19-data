@@ -227,7 +227,8 @@ var covid19_dataset_country_kgz = {
       906,
       931,
       1002,
-      1016
+      1016,
+      1037
     ],
     "deaths": [
       0,
@@ -335,6 +336,7 @@ var covid19_dataset_country_kgz = {
       10,
       10,
       11,
+      12,
       12,
       12,
       12,
@@ -453,7 +455,8 @@ var covid19_dataset_country_kgz = {
       650,
       658,
       675,
-      688
+      688,
+      709
     ]
   }
 };

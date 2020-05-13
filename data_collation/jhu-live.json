@@ -309,10 +309,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 176207,
+      "confirmed": 176198,
       "date": "2020-05-13",
       "deaths": 26951,
-      "recovered": 56617
+      "recovered": 56615
     }
   },
   "Germany": {
@@ -751,9 +751,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 60830,
+          "confirmed": 60956,
           "date": "2020-05-13",
-          "deaths": 2544,
+          "deaths": 2560,
           "recovered": 0
         }
       },
