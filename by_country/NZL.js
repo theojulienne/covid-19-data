@@ -1141,8 +1141,7 @@ var covid19_dataset_country_nzl = {
       1347,
       1368,
       1371,
-      1386,
-      1398
+      1386
     ],
     "tested": [
       0,
