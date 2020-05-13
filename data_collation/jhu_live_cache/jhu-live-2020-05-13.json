@@ -101,10 +101,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 2831,
+      "confirmed": 2964,
       "date": "2020-05-13",
-      "deaths": 122,
-      "recovered": 299
+      "deaths": 128,
+      "recovered": 313
     }
   },
   "Bosnia and Herzegovina": {
@@ -117,9 +117,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 177602,
+      "confirmed": 178214,
       "date": "2020-05-13",
-      "deaths": 12404,
+      "deaths": 12461,
       "recovered": 72597
     }
   },
@@ -253,10 +253,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8198,
+      "confirmed": 8221,
       "date": "2020-05-13",
       "deaths": 283,
-      "recovered": 4865
+      "recovered": 4889
     }
   },
   "Denmark": {
@@ -349,10 +349,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 2100,
+      "confirmed": 2080,
       "date": "2020-05-13",
-      "deaths": 116,
-      "recovered": 206
+      "deaths": 121,
+      "recovered": 211
     }
   },
   "Hungary": {
@@ -557,10 +557,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 32674,
+      "confirmed": 34336,
       "date": "2020-05-13",
-      "deaths": 724,
-      "recovered": 8555
+      "deaths": 737,
+      "recovered": 8812
     }
   },
   "Panama": {
