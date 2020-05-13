@@ -69,9 +69,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 5780,
+      "confirmed": 5816,
       "date": "2020-05-13",
-      "deaths": 9,
+      "deaths": 10,
       "recovered": 2195
     }
   },
@@ -360,7 +360,7 @@
       "confirmed": 78055,
       "date": "2020-05-13",
       "deaths": 2551,
-      "recovered": 26392
+      "recovered": 26400
     }
   },
   "Indonesia": {
@@ -847,9 +847,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 38497,
+          "confirmed": 38731,
           "date": "2020-05-13",
-          "deaths": 4047,
+          "deaths": 4077,
           "recovered": 0
         }
       },
@@ -865,7 +865,7 @@
         "live": {
           "confirmed": 5571,
           "date": "2020-05-13",
-          "deaths": 369,
+          "deaths": 386,
           "recovered": 0
         }
       },
@@ -927,9 +927,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 14972,
+          "confirmed": 15213,
           "date": "2020-05-13",
-          "deaths": 608,
+          "deaths": 633,
           "recovered": 0
         }
       },
@@ -1007,9 +1007,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6027,
+          "confirmed": 6197,
           "date": "2020-05-13",
-          "deaths": 255,
+          "deaths": 256,
           "recovered": 0
         }
       }
