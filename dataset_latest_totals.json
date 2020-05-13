@@ -1732,19 +1732,19 @@
     },
     "IND": {
       "back_1week": {
-        "confirmed": 46437,
+        "confirmed": 49400,
         "deaths": 1566,
-        "recovered": 12847
+        "recovered": 14142
       },
       "back_2week": {
-        "confirmed": 29451,
+        "confirmed": 31324,
         "deaths": 939,
-        "recovered": 7137
+        "recovered": 7747
       },
       "latest": {
-        "confirmed": 70768,
+        "confirmed": 74292,
         "deaths": 2294,
-        "recovered": 22549
+        "recovered": 24420
       }
     },
     "IRL": {
