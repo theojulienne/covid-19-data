@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6278,
+      "confirmed": 6563,
       "date": "2020-05-12",
-      "deaths": 317,
+      "deaths": 319,
       "recovered": 1862
     }
   },
@@ -117,10 +117,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 177589,
+      "confirmed": 177602,
       "date": "2020-05-12",
-      "deaths": 12400,
-      "recovered": 67384
+      "deaths": 12404,
+      "recovered": 72597
     }
   },
   "Bulgaria": {
@@ -525,10 +525,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 4641,
+      "confirmed": 4787,
       "date": "2020-05-12",
-      "deaths": 152,
-      "recovered": 902
+      "deaths": 158,
+      "recovered": 959
     }
   },
   "North Macedonia": {
@@ -541,7 +541,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8152,
+      "confirmed": 8157,
       "date": "2020-05-12",
       "deaths": 228,
       "recovered": 32
@@ -735,9 +735,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 1498,
+          "confirmed": 1507,
           "date": "2020-05-12",
-          "deaths": 94,
+          "deaths": 95,
           "recovered": 0
         }
       },
@@ -919,9 +919,9 @@
       },
       "New Mexico": {
         "live": {
-          "confirmed": 1585,
+          "confirmed": 1628,
           "date": "2020-05-12",
-          "deaths": 50,
+          "deaths": 55,
           "recovered": 0
         }
       },
