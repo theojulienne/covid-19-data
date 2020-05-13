@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 63215,
-        "deaths": 4003,
+        "deaths": 4190,
         "recovered": 26030
       },
       "back_2week": {
         "confirmed": 51150,
-        "deaths": 2841,
+        "deaths": 2983,
         "recovered": 18268
       },
       "latest": {
         "confirmed": 72419,
-        "deaths": 5115,
+        "deaths": 5300,
         "recovered": 33007
       },
       "states": {
@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 22158,
-          "deaths": 1788
+          "deaths": 1852
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -1323,18 +1323,18 @@
     "FRA": {
       "back_1week": {
         "confirmed": 167886,
-        "deaths": 25168,
-        "recovered": 50438
+        "deaths": 25498,
+        "recovered": 51803
       },
       "back_2week": {
         "confirmed": 164589,
-        "deaths": 23262,
-        "recovered": 44733
+        "deaths": 23629,
+        "recovered": 45997
       },
       "latest": {
         "confirmed": 175479,
-        "deaths": 26604,
-        "recovered": 55569
+        "deaths": 26951,
+        "recovered": 56617
       },
       "states": {
         "French Guiana": {
