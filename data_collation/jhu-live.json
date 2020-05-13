@@ -61,18 +61,18 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 2693,
+      "confirmed": 2758,
       "date": "2020-05-13",
-      "deaths": 33,
-      "recovered": 1735
+      "deaths": 35,
+      "recovered": 1789
     }
   },
   "Bahrain": {
     "live": {
-      "confirmed": 5531,
+      "confirmed": 5780,
       "date": "2020-05-13",
       "deaths": 9,
-      "recovered": 2192
+      "recovered": 2195
     }
   },
   "Bangladesh": {
@@ -85,10 +85,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 24873,
+      "confirmed": 25825,
       "date": "2020-05-13",
-      "deaths": 142,
-      "recovered": 6974
+      "deaths": 146,
+      "recovered": 7711
     }
   },
   "Belgium": {
@@ -208,14 +208,6 @@
           "deaths": 4512,
           "recovered": 63616
         }
-      },
-      "Zhejiang": {
-        "live": {
-          "confirmed": 1268,
-          "date": "2020-05-13",
-          "deaths": 1,
-          "recovered": 1267
-        }
       }
     }
   },
@@ -317,9 +309,9 @@
   },
   "Germany": {
     "live": {
-      "confirmed": 173369,
+      "confirmed": 173546,
       "date": "2020-05-13",
-      "deaths": 7758,
+      "deaths": 7780,
       "recovered": 148700
     }
   },
@@ -365,10 +357,10 @@
   },
   "Iceland": {
     "live": {
-      "confirmed": 1801,
+      "confirmed": 1802,
       "date": "2020-05-13",
       "deaths": 10,
-      "recovered": 1776
+      "recovered": 1780
     }
   },
   "India": {
@@ -629,10 +621,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 42925,
+      "confirmed": 44830,
       "date": "2020-05-13",
-      "deaths": 264,
-      "recovered": 15257
+      "deaths": 273,
+      "recovered": 17622
     }
   },
   "Senegal": {
@@ -711,7 +703,7 @@
     "live": {
       "confirmed": 30413,
       "date": "2020-05-13",
-      "deaths": 1867,
+      "deaths": 1870,
       "recovered": 26800
     }
   },
@@ -799,7 +791,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 16188,
+          "confirmed": 17711,
           "date": "2020-05-13",
           "deaths": 634,
           "recovered": 0
@@ -959,9 +951,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 2299,
+          "confirmed": 2329,
           "date": "2020-05-13",
-          "deaths": 114,
+          "deaths": 115,
           "recovered": 0
         }
       },
@@ -1049,9 +1041,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 226463,
+      "confirmed": 229705,
       "date": "2020-05-13",
-      "deaths": 32692,
+      "deaths": 33186,
       "recovered": 0
     }
   },
