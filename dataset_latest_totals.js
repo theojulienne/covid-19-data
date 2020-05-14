@@ -667,19 +667,19 @@ var covid19_dataset_latest_totals = {
     },
     "CHL": {
       "back_1week": {
-        "confirmed": 22016,
-        "deaths": 275,
-        "recovered": 10710
+        "confirmed": 23048,
+        "deaths": 281,
+        "recovered": 11189
       },
       "back_2week": {
-        "confirmed": 14365,
-        "deaths": 207,
-        "recovered": 7710
+        "confirmed": 14885,
+        "deaths": 216,
+        "recovered": 8057
       },
       "latest": {
-        "confirmed": 31721,
-        "deaths": 335,
-        "recovered": 14125
+        "confirmed": 34381,
+        "deaths": 346,
+        "recovered": 14865
       }
     },
     "CHN": {
@@ -1579,18 +1579,18 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 2642,
-        "deaths": 146,
+        "confirmed": 2663,
+        "deaths": 147,
         "recovered": 1374
       },
       "back_2week": {
-        "confirmed": 2566,
-        "deaths": 138,
+        "confirmed": 2576,
+        "deaths": 139,
         "recovered": 577
       },
       "latest": {
-        "confirmed": 2744,
-        "deaths": 152,
+        "confirmed": 2760,
+        "deaths": 155,
         "recovered": 1374
       }
     },
@@ -3380,20 +3380,20 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 1193452,
         "deaths": 65197,
-        "recovered": 189604,
+        "recovered": 189149,
         "tested": 7529281
       },
       "back_2week": {
         "confirmed": 1004519,
         "deaths": 52385,
-        "recovered": 139150,
+        "recovered": 138849,
         "tested": 5785223
       },
       "latest": {
-        "confirmed": 1358166,
-        "deaths": 76490,
-        "recovered": 230090,
-        "tested": 9629123
+        "confirmed": 1359345,
+        "deaths": 76523,
+        "recovered": 238660,
+        "tested": 9641598
       },
       "states": {
         "AK": {
@@ -3548,7 +3548,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 12494,
           "deaths": 614,
           "hospitalized": 1799,
-          "recovered": 7536,
+          "recovered": 7609,
           "tested": 120834
         },
         "MO": {
@@ -3676,10 +3676,10 @@ var covid19_dataset_latest_totals = {
           "tested": 283824
         },
         "TX": {
-          "confirmed": 39869,
-          "deaths": 1100,
-          "recovered": 21713,
-          "tested": 525697
+          "confirmed": 41048,
+          "deaths": 1133,
+          "recovered": 22674,
+          "tested": 538172
         },
         "UT": {
           "confirmed": 6432,

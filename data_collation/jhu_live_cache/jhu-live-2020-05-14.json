@@ -177,10 +177,10 @@
   },
   "Chile": {
     "live": {
-      "confirmed": 34381,
+      "confirmed": 37040,
       "date": "2020-05-14",
-      "deaths": 346,
-      "recovered": 14865
+      "deaths": 368,
+      "recovered": 15655
     }
   },
   "China": {
@@ -317,9 +317,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2760,
+      "confirmed": 2770,
       "date": "2020-05-14",
-      "deaths": 155,
+      "deaths": 156,
       "recovered": 1374
     }
   },
@@ -783,9 +783,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 29021,
+          "confirmed": 29534,
           "date": "2020-05-14",
-          "deaths": 1189,
+          "deaths": 1220,
           "recovered": 0
         }
       },
@@ -927,7 +927,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 2283,
+          "confirmed": 2320,
           "date": "2020-05-14",
           "deaths": 63,
           "recovered": 0
