@@ -463,7 +463,7 @@ var covid19_dataset_country_ind = {
       22549,
       24420,
       26400,
-      27956
+      27969
     ]
   }
 };

@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 22599,
+          "confirmed": 22699,
           "date": "2020-05-14",
-          "deaths": 1892,
+          "deaths": 1896,
           "recovered": 16204
         }
       },
@@ -277,10 +277,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 175981,
+      "confirmed": 176791,
       "date": "2020-05-14",
-      "deaths": 27032,
-      "recovered": 57368
+      "deaths": 27383,
+      "recovered": 58300
     }
   },
   "Germany": {
@@ -444,7 +444,7 @@
       "confirmed": 81990,
       "date": "2020-05-14",
       "deaths": 2649,
-      "recovered": 27956
+      "recovered": 27969
     }
   },
   "Indonesia": {
@@ -1131,9 +1131,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 38731,
+          "confirmed": 39565,
           "date": "2020-05-14",
-          "deaths": 4077,
+          "deaths": 4131,
           "recovered": 0
         }
       },
@@ -1179,9 +1179,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 326983,
+          "confirmed": 329155,
           "date": "2020-05-14",
-          "deaths": 26983,
+          "deaths": 27023,
           "recovered": 0
         }
       },
@@ -1275,9 +1275,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6197,
+          "confirmed": 6386,
           "date": "2020-05-14",
-          "deaths": 256,
+          "deaths": 263,
           "recovered": 0
         }
       }
