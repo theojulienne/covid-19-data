@@ -1698,19 +1698,19 @@
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 3065,
-        "deaths": 363,
-        "recovered": 709
+        "confirmed": 3111,
+        "deaths": 373,
+        "recovered": 759
       },
       "back_2week": {
-        "confirmed": 2649,
-        "deaths": 291,
-        "recovered": 516
+        "confirmed": 2727,
+        "deaths": 300,
+        "recovered": 536
       },
       "latest": {
-        "confirmed": 3313,
-        "deaths": 425,
-        "recovered": 1007
+        "confirmed": 3341,
+        "deaths": 430,
+        "recovered": 1102
       }
     },
     "IDN": {
@@ -1902,17 +1902,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 4205,
+        "confirmed": 4422,
         "deaths": 29,
         "recovered": 1279
       },
       "back_2week": {
-        "confirmed": 3027,
+        "confirmed": 3138,
         "deaths": 25,
         "recovered": 774
       },
       "latest": {
-        "confirmed": 5279,
+        "confirmed": 5417,
         "deaths": 32,
         "recovered": 2223
       }
@@ -3191,19 +3191,19 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 2988,
+        "confirmed": 2989,
         "deaths": 54,
-        "recovered": 2747
+        "recovered": 2761
       },
       "back_2week": {
-        "confirmed": 2938,
+        "confirmed": 2947,
         "deaths": 54,
-        "recovered": 2652
+        "recovered": 2665
       },
       "latest": {
         "confirmed": 3017,
         "deaths": 56,
-        "recovered": 2798
+        "recovered": 2844
       }
     },
     "TJK": {
@@ -3733,17 +3733,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2207,
+        "confirmed": 2233,
         "deaths": 10,
         "recovered": 1501
       },
       "back_2week": {
-        "confirmed": 1939,
+        "confirmed": 2002,
         "deaths": 8,
         "recovered": 992
       },
       "latest": {
-        "confirmed": 2519,
+        "confirmed": 2612,
         "deaths": 10,
         "recovered": 2010
       }
