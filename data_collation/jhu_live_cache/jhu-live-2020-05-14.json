@@ -109,17 +109,17 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2181,
+      "confirmed": 2218,
       "date": "2020-05-14",
-      "deaths": 120,
-      "recovered": 1228
+      "deaths": 122,
+      "recovered": 1272
     }
   },
   "Brazil": {
     "live": {
-      "confirmed": 190137,
+      "confirmed": 192081,
       "date": "2020-05-14",
-      "deaths": 13240,
+      "deaths": 13276,
       "recovered": 78424
     }
   },
@@ -589,10 +589,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 28132,
+      "confirmed": 28319,
       "date": "2020-05-14",
-      "deaths": 1175,
-      "recovered": 3182
+      "deaths": 1184,
+      "recovered": 3198
     }
   },
   "Qatar": {
@@ -621,18 +621,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 44830,
+      "confirmed": 46869,
       "date": "2020-05-14",
-      "deaths": 273,
-      "recovered": 17622
+      "deaths": 283,
+      "recovered": 19051
     }
   },
   "Senegal": {
     "live": {
-      "confirmed": 2105,
+      "confirmed": 2189,
       "date": "2020-05-14",
-      "deaths": 21,
-      "recovered": 782
+      "deaths": 23,
+      "recovered": 842
     }
   },
   "Serbia": {
@@ -791,9 +791,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 16353,
+          "confirmed": 17953,
           "date": "2020-05-14",
-          "deaths": 643,
+          "deaths": 649,
           "recovered": 0
         }
       },
@@ -839,9 +839,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 28889,
+          "confirmed": 27587,
           "date": "2020-05-14",
-          "deaths": 1428,
+          "deaths": 1348,
           "recovered": 0
         }
       },
@@ -951,9 +951,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 2329,
+          "confirmed": 2427,
           "date": "2020-05-14",
-          "deaths": 115,
+          "deaths": 117,
           "recovered": 0
         }
       },
@@ -1041,9 +1041,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 229705,
+      "confirmed": 233151,
       "date": "2020-05-14",
-      "deaths": 33186,
+      "deaths": 33614,
       "recovered": 0
     }
   },
