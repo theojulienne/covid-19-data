@@ -120,6 +120,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
+        null,
         null
       ],
       "Locally acquired - contact of a confirmed case": [
@@ -205,6 +206,7 @@ var covid19_dataset_country_nzl = {
         539,
         577,
         625,
+        null,
         null,
         null,
         null,
@@ -350,6 +352,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
+        null,
         null
       ],
       "Under investigation": [
@@ -435,6 +438,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         146,
+        null,
         null,
         null,
         null,
@@ -677,7 +681,7 @@ var covid19_dataset_country_nzl = {
       1409,
       1422,
       1431,
-      1431,
+      1440,
       1445,
       1451,
       1451,
@@ -698,6 +702,7 @@ var covid19_dataset_country_nzl = {
       1490,
       1492,
       1494,
+      1497,
       1497,
       1497,
       1497
@@ -792,7 +797,7 @@ var covid19_dataset_country_nzl = {
       14,
       20,
       18,
-      18,
+      14,
       12,
       11,
       8,
@@ -811,6 +816,7 @@ var covid19_dataset_country_nzl = {
       2,
       2,
       3,
+      2,
       2,
       2,
       2,
@@ -919,6 +925,7 @@ var covid19_dataset_country_nzl = {
       1,
       1,
       1,
+      0,
       0,
       0,
       0,
@@ -1045,6 +1052,7 @@ var covid19_dataset_country_nzl = {
       21,
       21,
       21,
+      21,
       21
     ],
     "recovered": [
@@ -1137,7 +1145,7 @@ var covid19_dataset_country_nzl = {
       816,
       867,
       912,
-      912,
+      974,
       1006,
       1036,
       1065,
@@ -1160,7 +1168,8 @@ var covid19_dataset_country_nzl = {
       1371,
       1386,
       1386,
-      1402
+      1402,
+      1411
     ],
     "tested": [
       0,
@@ -1252,7 +1261,7 @@ var covid19_dataset_country_nzl = {
       74401,
       79078,
       83224,
-      83224,
+      86305,
       null,
       null,
       null,
@@ -1275,7 +1284,8 @@ var covid19_dataset_country_nzl = {
       190326,
       194191,
       194191,
-      203045
+      203045,
+      209613
     ]
   }
 };
