@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 6879,
       "date": "2020-05-14",
-      "deaths": 329,
-      "recovered": 2266
+      "deaths": 344,
+      "recovered": 2385
     }
   },
   "Armenia": {
@@ -61,10 +61,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 2758,
+      "confirmed": 2879,
       "date": "2020-05-14",
       "deaths": 35,
-      "recovered": 1789
+      "recovered": 1833
     }
   },
   "Bahrain": {
@@ -159,7 +159,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 22516,
+          "confirmed": 22560,
           "date": "2020-05-14",
           "deaths": 1883,
           "recovered": 0
@@ -229,10 +229,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1810,
+      "confirmed": 1830,
       "date": "2020-05-14",
       "deaths": 79,
-      "recovered": 1326
+      "recovered": 1383
     }
   },
   "Czechia": {
@@ -365,7 +365,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 78810,
+      "confirmed": 79333,
       "date": "2020-05-14",
       "deaths": 2564,
       "recovered": 26675
@@ -533,7 +533,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8175,
+      "confirmed": 8187,
       "date": "2020-05-14",
       "deaths": 232,
       "recovered": 32
@@ -775,9 +775,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 6584,
+          "confirmed": 6736,
           "date": "2020-05-14",
-          "deaths": 350,
+          "deaths": 358,
           "recovered": 0
         }
       },
@@ -823,7 +823,7 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1713,
+          "confirmed": 1730,
           "date": "2020-05-14",
           "deaths": 115,
           "recovered": 0
@@ -839,9 +839,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 27587,
+          "confirmed": 28453,
           "date": "2020-05-14",
-          "deaths": 1348,
+          "deaths": 1385,
           "recovered": 0
         }
       },
@@ -871,7 +871,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5593,
+          "confirmed": 5675,
           "date": "2020-05-14",
           "deaths": 388,
           "recovered": 0
@@ -983,9 +983,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 27407,
+          "confirmed": 26080,
           "date": "2020-05-14",
-          "deaths": 669,
+          "deaths": 652,
           "recovered": 0
         }
       },
@@ -999,9 +999,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 12612,
+          "confirmed": 14489,
           "date": "2020-05-14",
-          "deaths": 427,
+          "deaths": 479,
           "recovered": 0
         }
       },
