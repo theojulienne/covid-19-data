@@ -87,17 +87,17 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 4887,
+        "confirmed": 5020,
         "deaths": 264,
         "recovered": 1472
       },
       "back_2week": {
-        "confirmed": 4003,
+        "confirmed": 4127,
         "deaths": 207,
         "recovered": 1162
       },
       "latest": {
-        "confirmed": 6278,
+        "confirmed": 6563,
         "deaths": 319,
         "recovered": 1862
       }
@@ -471,17 +471,17 @@
       "back_1week": {
         "confirmed": 115455,
         "deaths": 7938,
-        "recovered": 45815
+        "recovered": 48221
       },
       "back_2week": {
         "confirmed": 73235,
         "deaths": 5083,
-        "recovered": 31142
+        "recovered": 32544
       },
       "latest": {
         "confirmed": 178214,
         "deaths": 12461,
-        "recovered": 67384
+        "recovered": 72597
       }
     },
     "BRB": {
@@ -587,11 +587,11 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 6300,
-          "deaths": 117
+          "confirmed": 6345,
+          "deaths": 118
         },
         "British Columbia": {
-          "confirmed": 2353,
+          "confirmed": 2360,
           "deaths": 130
         },
         "Diamond Princess": {
@@ -936,19 +936,19 @@
     },
     "COL": {
       "back_1week": {
-        "confirmed": 7973,
-        "deaths": 358,
-        "recovered": 1807
+        "confirmed": 8613,
+        "deaths": 378,
+        "recovered": 2013
       },
       "back_2week": {
-        "confirmed": 5597,
-        "deaths": 253,
-        "recovered": 1210
+        "confirmed": 5949,
+        "deaths": 269,
+        "recovered": 1268
       },
       "latest": {
-        "confirmed": 11613,
-        "deaths": 479,
-        "recovered": 2825
+        "confirmed": 12272,
+        "deaths": 493,
+        "recovered": 2971
       }
     },
     "COM": {
@@ -2480,19 +2480,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 2802,
+        "confirmed": 2950,
         "deaths": 93,
-        "recovered": 417
+        "recovered": 481
       },
       "back_2week": {
-        "confirmed": 1337,
+        "confirmed": 1532,
         "deaths": 40,
         "recovered": 255
       },
       "latest": {
-        "confirmed": 4641,
+        "confirmed": 4787,
         "deaths": 150,
-        "recovered": 902
+        "recovered": 959
       }
     },
     "NIC": {
