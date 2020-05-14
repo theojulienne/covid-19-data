@@ -43,7 +43,7 @@
       },
       "Victoria": {
         "live": {
-          "confirmed": 1521,
+          "confirmed": 1520,
           "date": "2020-05-14",
           "deaths": 18,
           "recovered": 1385
@@ -237,15 +237,15 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8269,
+      "confirmed": 8275,
       "date": "2020-05-14",
       "deaths": 290,
-      "recovered": 5047
+      "recovered": 5058
     }
   },
   "Denmark": {
     "live": {
-      "confirmed": 10667,
+      "confirmed": 10713,
       "date": "2020-05-14",
       "deaths": 533,
       "recovered": 8663
@@ -277,10 +277,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 1751,
+      "confirmed": 1758,
       "date": "2020-05-14",
-      "deaths": 61,
-      "recovered": 777
+      "deaths": 62,
+      "recovered": 909
     }
   },
   "Finland": {
@@ -453,10 +453,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 1505,
+      "confirmed": 1511,
       "date": "2020-05-14",
       "deaths": 54,
-      "recovered": 908
+      "recovered": 934
     }
   },
   "Luxembourg": {
@@ -573,17 +573,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 11618,
+      "confirmed": 11876,
       "date": "2020-05-14",
-      "deaths": 772,
-      "recovered": 2251
+      "deaths": 790,
+      "recovered": 2337
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 17204,
+      "confirmed": 17469,
       "date": "2020-05-14",
-      "deaths": 861,
+      "deaths": 869,
       "recovered": 6696
     }
   },
@@ -613,10 +613,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 242271,
+      "confirmed": 252245,
       "date": "2020-05-14",
-      "deaths": 2212,
-      "recovered": 48003
+      "deaths": 2305,
+      "recovered": 53530
     }
   },
   "Saudi Arabia": {
@@ -653,10 +653,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1469,
+      "confirmed": 1477,
       "date": "2020-05-14",
       "deaths": 27,
-      "recovered": 1060
+      "recovered": 1112
     }
   },
   "Slovenia": {
