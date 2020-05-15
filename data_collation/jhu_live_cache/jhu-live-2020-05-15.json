@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 3148,
+      "confirmed": 3372,
       "date": "2020-05-15",
-      "deaths": 142,
-      "recovered": 339
+      "deaths": 152,
+      "recovered": 356
     }
   },
   "Bosnia and Herzegovina": {
@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 202918,
+      "confirmed": 203165,
       "date": "2020-05-15",
-      "deaths": 13993,
+      "deaths": 13999,
       "recovered": 79479
     }
   },
@@ -417,10 +417,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 2255,
+      "confirmed": 2318,
       "date": "2020-05-15",
-      "deaths": 123,
-      "recovered": 237
+      "deaths": 133,
+      "recovered": 253
     }
   },
   "Hungary": {
@@ -629,10 +629,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 10991,
+      "confirmed": 11018,
       "date": "2020-05-15",
       "deaths": 260,
-      "recovered": 9762
+      "recovered": 9821
     }
   },
   "Kuwait": {
@@ -725,10 +725,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 8944,
+      "confirmed": 9118,
       "date": "2020-05-15",
-      "deaths": 256,
-      "recovered": 6067
+      "deaths": 260,
+      "recovered": 6080
     }
   },
   "Peru": {
@@ -1011,9 +1011,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 59900,
+          "confirmed": 60013,
           "date": "2020-05-15",
-          "deaths": 2607,
+          "deaths": 2613,
           "recovered": 0
         }
       },

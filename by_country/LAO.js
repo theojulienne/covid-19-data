@@ -231,9 +231,11 @@ var covid19_dataset_country_lao = {
       19,
       19,
       19,
+      19,
       19
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -461,6 +463,7 @@ var covid19_dataset_country_lao = {
       13,
       13,
       13,
+      14,
       14
     ]
   }
