@@ -7424,7 +7424,7 @@ var covid19_dataset = {
                 8,
                 8,
                 8,
-                8
+                9
               ],
               "Central West": [
                 0,
@@ -8243,7 +8243,7 @@ var covid19_dataset = {
                 316,
                 316,
                 316,
-                316
+                317
               ],
               "Metro South": [
                 0,
