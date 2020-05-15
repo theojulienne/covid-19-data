@@ -661,10 +661,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 40186,
+      "confirmed": 42595,
       "date": "2020-05-15",
-      "deaths": 4220,
-      "recovered": 26990
+      "deaths": 4477,
+      "recovered": 28475
     }
   },
   "Moldova": {
