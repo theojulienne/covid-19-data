@@ -109,10 +109,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 212198,
+      "confirmed": 218223,
       "date": "2020-05-15",
-      "deaths": 14455,
-      "recovered": 79479
+      "deaths": 14817,
+      "recovered": 84970
     }
   },
   "Bulgaria": {
@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23071,
+          "confirmed": 23075,
           "date": "2020-05-15",
-          "deaths": 1923,
+          "deaths": 1927,
           "recovered": 16641
         }
       },
@@ -701,7 +701,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8206,
+      "confirmed": 8219,
       "date": "2020-05-15",
       "deaths": 232,
       "recovered": 32
@@ -1019,9 +1019,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 14313,
+          "confirmed": 14590,
           "date": "2020-05-15",
-          "deaths": 767,
+          "deaths": 814,
           "recovered": 0
         }
       },
@@ -1051,9 +1051,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 25077,
+          "confirmed": 25535,
           "date": "2020-05-15",
-          "deaths": 1065,
+          "deaths": 1091,
           "recovered": 0
         }
       },
@@ -1227,7 +1227,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 24186,
+          "confirmed": 24419,
           "date": "2020-05-15",
           "deaths": 601,
           "recovered": 0

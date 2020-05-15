@@ -471,17 +471,17 @@
       "back_1week": {
         "confirmed": 135773,
         "deaths": 9190,
-        "recovered": 51370
+        "recovered": 55350
       },
       "back_2week": {
         "confirmed": 87187,
         "deaths": 6006,
-        "recovered": 34132
+        "recovered": 35935
       },
       "latest": {
         "confirmed": 203165,
         "deaths": 13999,
-        "recovered": 78424
+        "recovered": 79479
       }
     },
     "BRB": {
