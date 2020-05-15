@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 6418,
+      "confirmed": 6582,
       "date": "2020-05-15",
       "deaths": 10,
-      "recovered": 2637
+      "recovered": 2640
     }
   },
   "Bangladesh": {
@@ -151,18 +151,18 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 22927,
+          "confirmed": 23047,
           "date": "2020-05-15",
-          "deaths": 1917,
+          "deaths": 1921,
           "recovered": 16641
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 40732,
+          "confirmed": 41429,
           "date": "2020-05-15",
-          "deaths": 3352,
-          "recovered": 10829
+          "deaths": 3402,
+          "recovered": 11039
         }
       }
     }
@@ -473,9 +473,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 23827,
+      "confirmed": 23956,
       "date": "2020-05-15",
-      "deaths": 1506,
+      "deaths": 1518,
       "recovered": 19470
     }
   },
@@ -733,10 +733,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 80604,
+      "confirmed": 84495,
       "date": "2020-05-15",
-      "deaths": 2267,
-      "recovered": 25151
+      "deaths": 2392,
+      "recovered": 27147
     }
   },
   "Philippines": {
@@ -821,10 +821,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 12739,
+      "confirmed": 13524,
       "date": "2020-05-15",
-      "deaths": 238,
-      "recovered": 5676
+      "deaths": 247,
+      "recovered": 6083
     }
   },
   "Spain": {
@@ -1155,9 +1155,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 135532,
+          "confirmed": 136390,
           "date": "2020-05-15",
-          "deaths": 9442,
+          "deaths": 9621,
           "recovered": 0
         }
       },
@@ -1165,7 +1165,7 @@
         "live": {
           "confirmed": 331716,
           "date": "2020-05-15",
-          "deaths": 27119,
+          "deaths": 27155,
           "recovered": 0
         }
       },
@@ -1187,9 +1187,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 51092,
+          "confirmed": 51348,
           "date": "2020-05-15",
-          "deaths": 3625,
+          "deaths": 3638,
           "recovered": 0
         }
       },
@@ -1243,9 +1243,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 10302,
+          "confirmed": 10580,
           "date": "2020-05-15",
-          "deaths": 333,
+          "deaths": 340,
           "recovered": 0
         }
       },

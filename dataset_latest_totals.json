@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 39940,
-          "deaths": 3221
+          "confirmed": 40732,
+          "deaths": 3352
         },
         "Saskatchewan": {
           "confirmed": 577,
@@ -1745,18 +1745,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 22248,
-        "deaths": 1375,
+        "confirmed": 22385,
+        "deaths": 1403,
         "recovered": 17110
       },
       "back_2week": {
-        "confirmed": 20253,
-        "deaths": 1190,
+        "confirmed": 20612,
+        "deaths": 1232,
         "recovered": 13386
       },
       "latest": {
-        "confirmed": 23401,
-        "deaths": 1497,
+        "confirmed": 23827,
+        "deaths": 1506,
         "recovered": 19470
       }
     },
@@ -2677,19 +2677,19 @@
     },
     "PER": {
       "back_1week": {
-        "confirmed": 54817,
-        "deaths": 1533,
-        "recovered": 17527
+        "confirmed": 58526,
+        "deaths": 1627,
+        "recovered": 18388
       },
       "back_2week": {
-        "confirmed": 33931,
-        "deaths": 943,
-        "recovered": 10037
+        "confirmed": 36976,
+        "deaths": 1051,
+        "recovered": 10405
       },
       "latest": {
-        "confirmed": 76306,
-        "deaths": 2169,
-        "recovered": 24324
+        "confirmed": 80604,
+        "deaths": 2267,
+        "recovered": 25151
       }
     },
     "PHL": {
@@ -3830,19 +3830,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 7808,
-        "deaths": 153,
+        "confirmed": 8232,
+        "deaths": 161,
         "recovered": 3153
       },
       "back_2week": {
-        "confirmed": 5350,
+        "confirmed": 5647,
         "deaths": 103,
         "recovered": 2073
       },
       "latest": {
-        "confirmed": 12074,
-        "deaths": 219,
-        "recovered": 4745
+        "confirmed": 12739,
+        "deaths": 238,
+        "recovered": 5676
       }
     },
     "ZMB": {
