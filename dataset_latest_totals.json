@@ -139,27 +139,27 @@
     "AUS": {
       "back_1week": {
         "confirmed": 6895,
-        "current_hospitalized": 62,
-        "current_icu": 27,
+        "current_hospitalized": 58,
+        "current_icu": 23,
         "deaths": 99,
         "recovered": 6050,
-        "tested": 688222
+        "tested": 722542
       },
       "back_2week": {
         "confirmed": 6753,
-        "current_hospitalized": 93,
-        "current_icu": 38,
-        "deaths": 91,
+        "current_hospitalized": 89,
+        "current_icu": 34,
+        "deaths": 93,
         "recovered": 5719,
-        "tested": 544318
+        "tested": 563623
       },
       "latest": {
         "confirmed": 6991,
-        "current_hospitalized": 50,
-        "current_icu": 17,
+        "current_hospitalized": 21,
+        "current_icu": 7,
         "deaths": 100,
         "recovered": 6302,
-        "tested": 908770
+        "tested": 937659
       },
       "states": {
         "ACT": {
@@ -177,7 +177,7 @@
           "current_ventilators": 16,
           "deaths": 47,
           "recovered": 2595,
-          "tested": 323887
+          "tested": 333634
         },
         "NT": {
           "confirmed": 29,
@@ -193,7 +193,7 @@
           "current_icu": 3,
           "deaths": 6,
           "recovered": 1030,
-          "tested": 142040
+          "tested": 145182
         },
         "SA": {
           "confirmed": 439,
@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 64694,
+        "confirmed": 66201,
         "deaths": 4366,
         "recovered": 28184
       },
       "back_2week": {
-        "confirmed": 52865,
+        "confirmed": 54457,
         "deaths": 3155,
         "recovered": 20327
       },
       "latest": {
-        "confirmed": 73568,
+        "confirmed": 74781,
         "deaths": 5425,
         "recovered": 35177
       },
@@ -623,7 +623,7 @@
           "deaths": 51
         },
         "Ontario": {
-          "confirmed": 22516,
+          "confirmed": 22865,
           "deaths": 1883
         },
         "Prince Edward Island": {
@@ -2643,19 +2643,19 @@
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 24073,
-        "deaths": 564,
+        "confirmed": 24644,
+        "deaths": 585,
         "recovered": 6464
       },
       "back_2week": {
-        "confirmed": 15525,
-        "deaths": 343,
-        "recovered": 3425
+        "confirmed": 16817,
+        "deaths": 385,
+        "recovered": 4315
       },
       "latest": {
-        "confirmed": 35298,
-        "deaths": 761,
-        "recovered": 8899
+        "confirmed": 35788,
+        "deaths": 770,
+        "recovered": 9695
       }
     },
     "PAN": {
