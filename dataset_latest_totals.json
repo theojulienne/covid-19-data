@@ -87,17 +87,17 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 5020,
+        "confirmed": 5208,
         "deaths": 273,
         "recovered": 1524
       },
       "back_2week": {
-        "confirmed": 4127,
+        "confirmed": 4285,
         "deaths": 214,
         "recovered": 1192
       },
       "latest": {
-        "confirmed": 6563,
+        "confirmed": 6879,
         "deaths": 329,
         "recovered": 2266
       }
@@ -471,17 +471,17 @@
       "back_1week": {
         "confirmed": 126611,
         "deaths": 8588,
-        "recovered": 48221
+        "recovered": 51370
       },
       "back_2week": {
         "confirmed": 79685,
         "deaths": 5513,
-        "recovered": 32544
+        "recovered": 34132
       },
       "latest": {
         "confirmed": 190137,
         "deaths": 13240,
-        "recovered": 72597
+        "recovered": 78424
       }
     },
     "BRB": {
@@ -591,7 +591,7 @@
           "deaths": 120
         },
         "British Columbia": {
-          "confirmed": 2360,
+          "confirmed": 2376,
           "deaths": 132
         },
         "Diamond Princess": {
@@ -2493,19 +2493,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 2950,
-        "deaths": 98,
-        "recovered": 481
+        "confirmed": 3145,
+        "deaths": 103,
+        "recovered": 534
       },
       "back_2week": {
-        "confirmed": 1532,
-        "deaths": 44,
-        "recovered": 255
+        "confirmed": 1728,
+        "deaths": 51,
+        "recovered": 307
       },
       "latest": {
-        "confirmed": 4787,
-        "deaths": 158,
-        "recovered": 959
+        "confirmed": 4971,
+        "deaths": 164,
+        "recovered": 1070
       }
     },
     "NIC": {

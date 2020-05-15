@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 6879,
+      "confirmed": 7134,
       "date": "2020-05-14",
-      "deaths": 344,
+      "deaths": 353,
       "recovered": 2385
     }
   },
@@ -38,7 +38,7 @@
           "confirmed": 3071,
           "date": "2020-05-14",
           "deaths": 45,
-          "recovered": 2595
+          "recovered": 2605
         }
       }
     }
@@ -61,7 +61,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 6069,
+      "confirmed": 6198,
       "date": "2020-05-14",
       "deaths": 10,
       "recovered": 2353
@@ -109,10 +109,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 201366,
+      "confirmed": 202918,
       "date": "2020-05-14",
-      "deaths": 13930,
-      "recovered": 78424
+      "deaths": 13993,
+      "recovered": 79479
     }
   },
   "Bulgaria": {
@@ -138,15 +138,15 @@
           "confirmed": 6457,
           "date": "2020-05-14",
           "deaths": 121,
-          "recovered": 5076
+          "recovered": 5205
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 2376,
+          "confirmed": 2392,
           "date": "2020-05-14",
-          "deaths": 132,
-          "recovered": 1859
+          "deaths": 135,
+          "recovered": 1885
         }
       },
       "Ontario": {
@@ -221,10 +221,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8330,
+      "confirmed": 8351,
       "date": "2020-05-14",
-      "deaths": 292,
-      "recovered": 5227
+      "deaths": 293,
+      "recovered": 5241
     }
   },
   "Denmark": {
@@ -277,7 +277,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 176723,
+      "confirmed": 176712,
       "date": "2020-05-14",
       "deaths": 27381,
       "recovered": 58300
@@ -693,15 +693,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 4971,
+      "confirmed": 5162,
       "date": "2020-05-14",
-      "deaths": 164,
-      "recovered": 1070
+      "deaths": 167,
+      "recovered": 1180
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8187,
+      "confirmed": 8196,
       "date": "2020-05-14",
       "deaths": 232,
       "recovered": 32
@@ -1147,7 +1147,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 1779,
+          "confirmed": 1960,
           "date": "2020-05-14",
           "deaths": 14,
           "recovered": 0
