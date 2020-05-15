@@ -1182,19 +1182,19 @@
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 7588,
-        "deaths": 469,
-        "recovered": 1815
+        "confirmed": 7981,
+        "deaths": 482,
+        "recovered": 1887
       },
       "back_2week": {
-        "confirmed": 5268,
-        "deaths": 380,
-        "recovered": 1335
+        "confirmed": 5537,
+        "deaths": 392,
+        "recovered": 1381
       },
       "latest": {
-        "confirmed": 10431,
-        "deaths": 556,
-        "recovered": 2486
+        "confirmed": 10829,
+        "deaths": 571,
+        "recovered": 2626
       }
     },
     "ERI": {
@@ -1779,19 +1779,19 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2480,
+        "confirmed": 2543,
         "deaths": 102,
-        "recovered": 1602
+        "recovered": 1626
       },
       "back_2week": {
-        "confirmed": 2003,
-        "deaths": 92,
-        "recovered": 1346
+        "confirmed": 2085,
+        "deaths": 93,
+        "recovered": 1375
       },
       "latest": {
-        "confirmed": 3032,
+        "confirmed": 3143,
         "deaths": 115,
-        "recovered": 1966
+        "recovered": 2028
       }
     },
     "ISL": {
