@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 6407,
+          "confirmed": 6457,
           "deaths": 120
         },
         "British Columbia": {
@@ -932,19 +932,19 @@ var covid19_dataset_latest_totals = {
     },
     "COL": {
       "back_1week": {
-        "confirmed": 8959,
-        "deaths": 397,
-        "recovered": 2148
+        "confirmed": 9456,
+        "deaths": 407,
+        "recovered": 2300
       },
       "back_2week": {
-        "confirmed": 6207,
-        "deaths": 278,
-        "recovered": 1411
+        "confirmed": 6507,
+        "deaths": 293,
+        "recovered": 1439
       },
       "latest": {
-        "confirmed": 12930,
-        "deaths": 509,
-        "recovered": 3133
+        "confirmed": 13610,
+        "deaths": 525,
+        "recovered": 3358
       }
     },
     "COM": {
@@ -1881,36 +1881,36 @@ var covid19_dataset_latest_totals = {
     },
     "JPN": {
       "back_1week": {
-        "confirmed": 15253,
-        "deaths": 556,
-        "recovered": 4496
+        "confirmed": 15477,
+        "deaths": 577,
+        "recovered": 4918
       },
       "back_2week": {
-        "confirmed": 13895,
-        "deaths": 413,
-        "recovered": 2368
+        "confirmed": 14088,
+        "deaths": 430,
+        "recovered": 2460
       },
       "latest": {
-        "confirmed": 16049,
-        "deaths": 678,
-        "recovered": 8920
+        "confirmed": 16120,
+        "deaths": 697,
+        "recovered": 9868
       }
     },
     "KAZ": {
       "back_1week": {
         "confirmed": 4578,
         "deaths": 30,
-        "recovered": 1408
+        "recovered": 1518
       },
       "back_2week": {
         "confirmed": 3402,
         "deaths": 25,
-        "recovered": 819
+        "recovered": 866
       },
       "latest": {
         "confirmed": 5571,
         "deaths": 32,
-        "recovered": 2408
+        "recovered": 2531
       }
     },
     "KEN": {
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 3145,
-        "deaths": 103,
-        "recovered": 534
+        "confirmed": 3526,
+        "deaths": 107,
+        "recovered": 601
       },
       "back_2week": {
-        "confirmed": 1728,
-        "deaths": 51,
-        "recovered": 307
+        "confirmed": 1932,
+        "deaths": 58,
+        "recovered": 319
       },
       "latest": {
-        "confirmed": 4971,
-        "deaths": 164,
-        "recovered": 1070
+        "confirmed": 5162,
+        "deaths": 167,
+        "recovered": 1180
       }
     },
     "NIC": {
