@@ -4989,7 +4989,7 @@ var covid19_dataset_country_aus = {
             194,
             194,
             194,
-            194
+            195
           ],
           "International (managed by Cairns HHS)": [
             0,
