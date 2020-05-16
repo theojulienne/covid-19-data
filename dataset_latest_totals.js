@@ -139,27 +139,27 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "back_1week": {
         "confirmed": 6913,
-        "current_hospitalized": 58,
-        "current_icu": 23,
+        "current_hospitalized": 56,
+        "current_icu": 21,
         "deaths": 99,
         "recovered": 6104,
-        "tested": 722542
+        "tested": 690985
       },
       "back_2week": {
         "confirmed": 6767,
-        "current_hospitalized": 89,
-        "current_icu": 34,
-        "deaths": 93,
+        "current_hospitalized": 83,
+        "current_icu": 28,
+        "deaths": 95,
         "recovered": 5754,
-        "tested": 563623
+        "tested": 588661
       },
       "latest": {
         "confirmed": 7021,
         "current_hospitalized": 21,
-        "current_icu": 7,
+        "current_icu": 8,
         "deaths": 100,
         "recovered": 6343,
-        "tested": 937659
+        "tested": 973296
       },
       "states": {
         "ACT": {
@@ -188,12 +188,12 @@ var covid19_dataset_latest_totals = {
           "tested": 5646
         },
         "QLD": {
-          "confirmed": 1052,
+          "confirmed": 1054,
           "current_hospitalized": 7,
           "current_icu": 3,
           "deaths": 6,
           "recovered": 1031,
-          "tested": 145182
+          "tested": 148607
         },
         "SA": {
           "confirmed": 439,
@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 66201,
-        "deaths": 4541,
+        "confirmed": 67674,
+        "deaths": 4697,
         "recovered": 29260
       },
       "back_2week": {
-        "confirmed": 54457,
-        "deaths": 3310,
+        "confirmed": 56343,
+        "deaths": 3537,
         "recovered": 21424
       },
       "latest": {
-        "confirmed": 74781,
-        "deaths": 5592,
+        "confirmed": 75959,
+        "deaths": 5679,
         "recovered": 36104
       },
       "states": {
@@ -623,8 +623,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 51
         },
         "Ontario": {
-          "confirmed": 22865,
-          "deaths": 1915
+          "confirmed": 23258,
+          "deaths": 1939
         },
         "Prince Edward Island": {
           "confirmed": 27,

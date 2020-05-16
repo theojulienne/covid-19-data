@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23258,
+          "confirmed": 23262,
           "date": "2020-05-16",
-          "deaths": 1939,
+          "deaths": 1940,
           "recovered": 16641
         }
       },
@@ -1011,9 +1011,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 61545,
+          "confirmed": 61630,
           "date": "2020-05-16",
-          "deaths": 2682,
+          "deaths": 2689,
           "recovered": 0
         }
       },
@@ -1243,9 +1243,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 24654,
+          "confirmed": 24798,
           "date": "2020-05-16",
-          "deaths": 609,
+          "deaths": 613,
           "recovered": 0
         }
       },
