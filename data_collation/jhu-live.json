@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 229204,
+      "confirmed": 232376,
       "date": "2020-05-16",
-      "deaths": 15368,
+      "deaths": 15632,
       "recovered": 84970
     }
   },
@@ -135,25 +135,25 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6515,
+          "confirmed": 6587,
           "date": "2020-05-16",
-          "deaths": 125,
-          "recovered": 5317
+          "deaths": 126,
+          "recovered": 5377
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 2407,
+          "confirmed": 2428,
           "date": "2020-05-16",
-          "deaths": 140,
-          "recovered": 1908
+          "deaths": 141,
+          "recovered": 1932
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 23614,
+          "confirmed": 23640,
           "date": "2020-05-16",
-          "deaths": 1970,
+          "deaths": 1975,
           "recovered": 17020
         }
       },
@@ -189,10 +189,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 14216,
+      "confirmed": 14939,
       "date": "2020-05-16",
-      "deaths": 546,
-      "recovered": 3460
+      "deaths": 562,
+      "recovered": 3578
     }
   },
   "Cote d'Ivoire": {
@@ -269,7 +269,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 177217,
+      "confirmed": 177215,
       "date": "2020-05-16",
       "deaths": 27483,
       "recovered": 59143
@@ -385,10 +385,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 5638,
+      "confirmed": 5735,
       "date": "2020-05-16",
-      "deaths": 28,
-      "recovered": 1460
+      "deaths": 29,
+      "recovered": 1754
     }
   },
   "Greece": {
@@ -1011,9 +1011,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 12815,
+          "confirmed": 14856,
           "date": "2020-05-16",
-          "deaths": 696,
+          "deaths": 852,
           "recovered": 0
         }
       },
@@ -1109,7 +1109,7 @@
         "live": {
           "confirmed": 81890,
           "date": "2020-05-16",
-          "deaths": 5355,
+          "deaths": 5461,
           "recovered": 0
         }
       },
@@ -1161,19 +1161,11 @@
           "recovered": 0
         }
       },
-      "New Mexico": {
-        "live": {
-          "confirmed": 1787,
-          "date": "2020-05-16",
-          "deaths": 69,
-          "recovered": 0
-        }
-      },
       "New York": {
         "live": {
           "confirmed": 333825,
           "date": "2020-05-16",
-          "deaths": 27323,
+          "deaths": 27335,
           "recovered": 0
         }
       },
@@ -1235,9 +1227,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 26933,
+          "confirmed": 27223,
           "date": "2020-05-16",
-          "deaths": 639,
+          "deaths": 656,
           "recovered": 0
         }
       },
