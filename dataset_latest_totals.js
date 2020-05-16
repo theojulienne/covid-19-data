@@ -177,7 +177,7 @@ var covid19_dataset_latest_totals = {
           "current_ventilators": 16,
           "deaths": 47,
           "recovered": 2605,
-          "tested": 333634
+          "tested": 345846
         },
         "NT": {
           "confirmed": 29,
@@ -1728,17 +1728,17 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "back_1week": {
-        "confirmed": 56351,
+        "confirmed": 59695,
         "deaths": 1889,
         "recovered": 16776
       },
       "back_2week": {
-        "confirmed": 34863,
+        "confirmed": 37257,
         "deaths": 1154,
         "recovered": 9068
       },
       "latest": {
-        "confirmed": 81997,
+        "confirmed": 85784,
         "deaths": 2649,
         "recovered": 27969
       }
