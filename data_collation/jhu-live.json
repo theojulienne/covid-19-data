@@ -19,7 +19,7 @@
     "live": {
       "confirmed": 7479,
       "date": "2020-05-16",
-      "deaths": 356,
+      "deaths": 363,
       "recovered": 2497
     }
   },
@@ -213,10 +213,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1840,
+      "confirmed": 1862,
       "date": "2020-05-16",
       "deaths": 79,
-      "recovered": 1425
+      "recovered": 1460
     }
   },
   "Czechia": {
@@ -359,7 +359,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5089,
+          "confirmed": 5110,
           "date": "2020-05-16",
           "deaths": 197,
           "recovered": 4400
@@ -428,7 +428,7 @@
       "confirmed": 1802,
       "date": "2020-05-16",
       "deaths": 10,
-      "recovered": 1782
+      "recovered": 1786
     }
   },
   "India": {
@@ -1099,9 +1099,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 29307,
+          "confirmed": 30088,
           "date": "2020-05-16",
-          "deaths": 1424,
+          "deaths": 1462,
           "recovered": 0
         }
       },
@@ -1293,9 +1293,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 236711,
+      "confirmed": 240161,
       "date": "2020-05-16",
-      "deaths": 33998,
+      "deaths": 34466,
       "recovered": 0
     }
   },

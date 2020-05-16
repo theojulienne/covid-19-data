@@ -88,17 +88,17 @@ var covid19_dataset_latest_totals = {
     "ARG": {
       "back_1week": {
         "confirmed": 5371,
-        "deaths": 282,
+        "deaths": 293,
         "recovered": 1601
       },
       "back_2week": {
         "confirmed": 4428,
-        "deaths": 218,
+        "deaths": 225,
         "recovered": 1256
       },
       "latest": {
         "confirmed": 7134,
-        "deaths": 353,
+        "deaths": 356,
         "recovered": 2385
       }
     },
@@ -1000,19 +1000,19 @@ var covid19_dataset_latest_totals = {
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 1729,
+        "confirmed": 1741,
         "deaths": 73,
-        "recovered": 1031
+        "recovered": 1078
       },
       "back_2week": {
-        "confirmed": 1501,
+        "confirmed": 1537,
         "deaths": 61,
-        "recovered": 681
+        "recovered": 714
       },
       "latest": {
-        "confirmed": 1830,
+        "confirmed": 1840,
         "deaths": 79,
-        "recovered": 1383
+        "recovered": 1425
       }
     },
     "CYP": {
@@ -1404,18 +1404,18 @@ var covid19_dataset_latest_totals = {
     },
     "GBR": {
       "back_1week": {
-        "confirmed": 206715,
-        "deaths": 30615,
+        "confirmed": 211364,
+        "deaths": 31241,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 171253,
-        "deaths": 26771,
+        "confirmed": 177454,
+        "deaths": 27510,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 233151,
-        "deaths": 33614,
+        "confirmed": 236711,
+        "deaths": 33998,
         "recovered": 0
       },
       "states": {
@@ -1798,17 +1798,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 1801,
         "deaths": 10,
-        "recovered": 1755
+        "recovered": 1765
       },
       "back_2week": {
         "confirmed": 1797,
         "deaths": 10,
-        "recovered": 1670
+        "recovered": 1689
       },
       "latest": {
         "confirmed": 1802,
         "deaths": 10,
-        "recovered": 1780
+        "recovered": 1782
       }
     },
     "ISR": {
