@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 222877,
+      "confirmed": 229204,
       "date": "2020-05-16",
-      "deaths": 15046,
+      "deaths": 15368,
       "recovered": 84970
     }
   },
@@ -197,10 +197,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 2017,
+      "confirmed": 2061,
       "date": "2020-05-16",
-      "deaths": 24,
-      "recovered": 942
+      "deaths": 25,
+      "recovered": 987
     }
   },
   "Croatia": {
@@ -1003,9 +1003,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 61659,
+          "confirmed": 62015,
           "date": "2020-05-16",
-          "deaths": 2689,
+          "deaths": 2697,
           "recovered": 0
         }
       },
@@ -1027,9 +1027,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 6184,
+          "confirmed": 6325,
           "date": "2020-05-16",
-          "deaths": 222,
+          "deaths": 233,
           "recovered": 0
         }
       },
@@ -1189,7 +1189,7 @@
         "live": {
           "confirmed": 16055,
           "date": "2020-05-16",
-          "deaths": 687,
+          "deaths": 686,
           "recovered": 0
         }
       },
