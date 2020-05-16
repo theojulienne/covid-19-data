@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 6053,
+      "confirmed": 6402,
       "date": "2020-05-16",
-      "deaths": 153,
+      "deaths": 168,
       "recovered": 745
     }
   },
@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 6583,
+      "confirmed": 6655,
       "date": "2020-05-16",
       "deaths": 12,
-      "recovered": 2640
+      "recovered": 2753
     }
   },
   "Bangladesh": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 27730,
+      "confirmed": 28681,
       "date": "2020-05-16",
-      "deaths": 156,
-      "recovered": 8807
+      "deaths": 160,
+      "recovered": 9498
     }
   },
   "Belgium": {
@@ -677,10 +677,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 6652,
+      "confirmed": 6681,
       "date": "2020-05-16",
-      "deaths": 190,
-      "recovered": 3400
+      "deaths": 192,
+      "recovered": 3475
     }
   },
   "Netherlands": {
@@ -765,10 +765,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 29425,
+      "confirmed": 30972,
       "date": "2020-05-16",
-      "deaths": 14,
-      "recovered": 3546
+      "deaths": 15,
+      "recovered": 3788
     }
   },
   "Romania": {
@@ -831,130 +831,130 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 12401,
+          "confirmed": 12420,
           "date": "2020-05-16",
-          "deaths": 1344,
-          "recovered": 10148
+          "deaths": 1355,
+          "recovered": 10319
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 5432,
+          "confirmed": 5456,
           "date": "2020-05-16",
-          "deaths": 837,
-          "recovered": 3534
+          "deaths": 838,
+          "recovered": 3655
         }
       },
       "Asturias": {
         "live": {
-          "confirmed": 2359,
+          "confirmed": 2366,
           "date": "2020-05-16",
-          "deaths": 310,
-          "recovered": 1053
+          "deaths": 313,
+          "recovered": 1055
         }
       },
       "Baleares": {
         "live": {
-          "confirmed": 1967,
+          "confirmed": 1982,
           "date": "2020-05-16",
           "deaths": 216,
-          "recovered": 1513
+          "recovered": 1519
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 10813,
+          "confirmed": 10850,
           "date": "2020-05-16",
-          "deaths": 1358,
-          "recovered": 9708
+          "deaths": 1365,
+          "recovered": 9761
         }
       },
       "Canarias": {
         "live": {
-          "confirmed": 2280,
+          "confirmed": 2284,
           "date": "2020-05-16",
           "deaths": 151,
-          "recovered": 1506
+          "recovered": 1524
         }
       },
       "Cantabria": {
         "live": {
-          "confirmed": 2263,
+          "confirmed": 2265,
           "date": "2020-05-16",
           "deaths": 206,
-          "recovered": 2152
+          "recovered": 2195
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 16513,
+          "confirmed": 16587,
           "date": "2020-05-16",
-          "deaths": 2870,
-          "recovered": 6294
+          "deaths": 2883,
+          "recovered": 6328
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 18272,
+          "confirmed": 18369,
           "date": "2020-05-16",
-          "deaths": 1930,
-          "recovered": 7672
+          "deaths": 1940,
+          "recovered": 7735
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 55464,
+          "confirmed": 55685,
           "date": "2020-05-16",
-          "deaths": 5882,
-          "recovered": 25904
+          "deaths": 5915,
+          "recovered": 26067
         }
       },
       "Extremadura": {
         "live": {
-          "confirmed": 2933,
+          "confirmed": 2958,
           "date": "2020-05-16",
-          "deaths": 494,
-          "recovered": 2587
+          "deaths": 497,
+          "recovered": 2609
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 9323,
+          "confirmed": 9041,
           "date": "2020-05-16",
-          "deaths": 601,
-          "recovered": 8283
+          "deaths": 604,
+          "recovered": 8409
         }
       },
       "La Rioja": {
         "live": {
-          "confirmed": 4016,
+          "confirmed": 4020,
           "date": "2020-05-16",
           "deaths": 348,
-          "recovered": 2927
+          "recovered": 2990
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 66005,
+          "confirmed": 66210,
           "date": "2020-05-16",
-          "deaths": 8809,
-          "recovered": 40383
+          "deaths": 8826,
+          "recovered": 40586
         }
       },
       "Navarra": {
         "live": {
-          "confirmed": 5116,
+          "confirmed": 5137,
           "date": "2020-05-16",
-          "deaths": 500,
-          "recovered": 3550
+          "deaths": 501,
+          "recovered": 3658
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 13257,
+          "confirmed": 13291,
           "date": "2020-05-16",
-          "deaths": 1454,
-          "recovered": 15256
+          "deaths": 1455,
+          "recovered": 15678
         }
       }
     }
