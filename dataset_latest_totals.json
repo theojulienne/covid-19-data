@@ -212,12 +212,12 @@
           "tested": 19539
         },
         "VIC": {
-          "confirmed": 1523,
+          "confirmed": 1543,
           "current_hospitalized": 9,
-          "current_icu": 6,
+          "current_icu": 7,
           "deaths": 18,
-          "recovered": 1385,
-          "tested": 289000
+          "recovered": 1407,
+          "tested": 309000
         },
         "WA": {
           "confirmed": 551,
@@ -1898,17 +1898,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 4578,
+        "confirmed": 4834,
         "deaths": 30,
         "recovered": 1518
       },
       "back_2week": {
-        "confirmed": 3402,
+        "confirmed": 3597,
         "deaths": 25,
         "recovered": 866
       },
       "latest": {
-        "confirmed": 5571,
+        "confirmed": 5689,
         "deaths": 32,
         "recovered": 2531
       }
@@ -3189,17 +3189,17 @@
       "back_1week": {
         "confirmed": 2992,
         "deaths": 55,
-        "recovered": 2772
+        "recovered": 2784
       },
       "back_2week": {
         "confirmed": 2954,
         "deaths": 54,
-        "recovered": 2684
+        "recovered": 2719
       },
       "latest": {
         "confirmed": 3018,
         "deaths": 56,
-        "recovered": 2850
+        "recovered": 2854
       }
     },
     "TJK": {
@@ -3728,17 +3728,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2298,
+        "confirmed": 2325,
         "deaths": 10,
         "recovered": 1656
       },
       "back_2week": {
-        "confirmed": 2039,
+        "confirmed": 2086,
         "deaths": 9,
         "recovered": 1133
       },
       "latest": {
-        "confirmed": 2645,
+        "confirmed": 2686,
         "deaths": 11,
         "recovered": 2136
       }
