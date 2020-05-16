@@ -20,7 +20,7 @@
       "confirmed": 7479,
       "date": "2020-05-16",
       "deaths": 363,
-      "recovered": 2497
+      "recovered": 2534
     }
   },
   "Armenia": {
@@ -151,10 +151,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23262,
+          "confirmed": 23274,
           "date": "2020-05-16",
           "deaths": 1940,
-          "recovered": 16641
+          "recovered": 17020
         }
       },
       "Quebec": {
@@ -393,9 +393,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 2810,
+      "confirmed": 2819,
       "date": "2020-05-16",
-      "deaths": 160,
+      "deaths": 162,
       "recovered": 1374
     }
   },
@@ -433,7 +433,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 86595,
+      "confirmed": 88506,
       "date": "2020-05-16",
       "deaths": 2760,
       "recovered": 30786
@@ -789,10 +789,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 2310,
+      "confirmed": 2429,
       "date": "2020-05-16",
       "deaths": 25,
-      "recovered": 890
+      "recovered": 949
     }
   },
   "Serbia": {
@@ -1035,17 +1035,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 6871,
+          "confirmed": 7042,
           "date": "2020-05-16",
-          "deaths": 368,
+          "deaths": 375,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 25535,
+          "confirmed": 26007,
           "date": "2020-05-16",
-          "deaths": 1091,
+          "deaths": 1112,
           "recovered": 0
         }
       },
@@ -1131,7 +1131,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 4172,
+          "confirmed": 4236,
           "date": "2020-05-16",
           "deaths": 318,
           "recovered": 0
