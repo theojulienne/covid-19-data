@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3071,
+          "confirmed": 3074,
           "date": "2020-05-16",
           "deaths": 45,
-          "recovered": 2605
+          "recovered": 2611
         }
       }
     }
@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 218223,
+      "confirmed": 220291,
       "date": "2020-05-16",
-      "deaths": 14817,
+      "deaths": 14962,
       "recovered": 84970
     }
   },
@@ -125,10 +125,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 2954,
+      "confirmed": 3105,
       "date": "2020-05-16",
-      "deaths": 139,
-      "recovered": 1553
+      "deaths": 140,
+      "recovered": 1567
     }
   },
   "Canada": {
@@ -717,10 +717,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 37218,
+      "confirmed": 38799,
       "date": "2020-05-16",
-      "deaths": 803,
-      "recovered": 10155
+      "deaths": 834,
+      "recovered": 10880
     }
   },
   "Panama": {
