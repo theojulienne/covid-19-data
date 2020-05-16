@@ -117,10 +117,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 2138,
+      "confirmed": 2174,
       "date": "2020-05-16",
-      "deaths": 102,
-      "recovered": 545
+      "deaths": 105,
+      "recovered": 573
     }
   },
   "Cameroon": {
@@ -425,10 +425,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3417,
+      "confirmed": 3473,
       "date": "2020-05-16",
-      "deaths": 442,
-      "recovered": 1287
+      "deaths": 448,
+      "recovered": 1371
     }
   },
   "Iceland": {
