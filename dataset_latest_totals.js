@@ -2600,28 +2600,28 @@ var covid19_dataset_latest_totals = {
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1488,
-        "current_hospitalized": 2,
+        "confirmed": 1490,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1316,
-        "tested": 160700
+        "recovered": 1347,
+        "tested": 175835
       },
       "back_2week": {
-        "confirmed": 1474,
+        "confirmed": 1479,
         "current_hospitalized": 6,
         "current_icu": 1,
         "deaths": 19,
-        "recovered": 1229,
-        "tested": 128073
+        "recovered": 1252,
+        "tested": 139898
       },
       "latest": {
         "confirmed": 1497,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1402,
-        "tested": 203045
+        "recovered": 1411,
+        "tested": 209613
       }
     },
     "OMN": {

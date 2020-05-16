@@ -80670,6 +80670,8 @@ var covid19_dataset = {
             null,
             null,
             null,
+            null,
+            null,
             null
           ],
           "Locally acquired - contact of a confirmed case": [
@@ -80755,6 +80757,8 @@ var covid19_dataset = {
             539,
             577,
             625,
+            null,
+            null,
             null,
             null,
             null,
@@ -80902,6 +80906,8 @@ var covid19_dataset = {
             null,
             null,
             null,
+            null,
+            null,
             null
           ],
           "Under investigation": [
@@ -80987,6 +80993,8 @@ var covid19_dataset = {
             null,
             null,
             146,
+            null,
+            null,
             null,
             null,
             null,
@@ -81137,7 +81145,9 @@ var covid19_dataset = {
           1497,
           1497,
           1497,
-          1497
+          1497,
+          1497,
+          1498
         ],
         "current_hospitalized": [
           0,
@@ -81253,6 +81263,8 @@ var covid19_dataset = {
           2,
           2,
           2,
+          2,
+          2,
           2
         ],
         "current_icu": [
@@ -81357,6 +81369,8 @@ var covid19_dataset = {
           1,
           1,
           1,
+          0,
+          0,
           0,
           0,
           0,
@@ -81485,6 +81499,8 @@ var covid19_dataset = {
           21,
           21,
           21,
+          21,
+          21,
           21
         ],
         "recovered": [
@@ -81601,7 +81617,9 @@ var covid19_dataset = {
           1386,
           1386,
           1402,
-          1411
+          1411,
+          1411,
+          1428
         ],
         "tested": [
           0,
@@ -81717,7 +81735,9 @@ var covid19_dataset = {
           194191,
           194191,
           203045,
-          209613
+          209613,
+          209613,
+          223937
         ]
       }
     },
@@ -128035,7 +128055,8 @@ var covid19_dataset = {
       4246386,
       4330944,
       4423704,
-      4449807
+      4449807,
+      4449808
     ],
     "deaths": [
       17,
@@ -128152,6 +128173,7 @@ var covid19_dataset = {
       285943,
       291124,
       296301,
+      297941,
       297941
     ],
     "recovered": [
@@ -128269,7 +128291,8 @@ var covid19_dataset = {
       1498030,
       1544454,
       1583772,
-      1588137
+      1588137,
+      1588154
     ]
   }
 };

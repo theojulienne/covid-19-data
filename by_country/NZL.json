@@ -121,6 +121,8 @@
         null,
         null,
         null,
+        null,
+        null,
         null
       ],
       "Locally acquired - contact of a confirmed case": [
@@ -206,6 +208,8 @@
         539,
         577,
         625,
+        null,
+        null,
         null,
         null,
         null,
@@ -353,6 +357,8 @@
         null,
         null,
         null,
+        null,
+        null,
         null
       ],
       "Under investigation": [
@@ -438,6 +444,8 @@
         null,
         null,
         146,
+        null,
+        null,
         null,
         null,
         null,
@@ -707,7 +715,9 @@
       1497,
       1497,
       1497,
-      1497
+      1497,
+      1497,
+      1498
     ],
     "current_hospitalized": [
       0,
@@ -823,6 +833,8 @@
       2,
       2,
       2,
+      2,
+      2,
       2
     ],
     "current_icu": [
@@ -927,6 +939,8 @@
       1,
       1,
       1,
+      0,
+      0,
       0,
       0,
       0,
@@ -1055,6 +1069,8 @@
       21,
       21,
       21,
+      21,
+      21,
       21
     ],
     "recovered": [
@@ -1171,7 +1187,9 @@
       1386,
       1386,
       1402,
-      1411
+      1411,
+      1411,
+      1428
     ],
     "tested": [
       0,
@@ -1287,7 +1305,9 @@
       194191,
       194191,
       203045,
-      209613
+      209613,
+      209613,
+      223937
     ]
   }
 }
