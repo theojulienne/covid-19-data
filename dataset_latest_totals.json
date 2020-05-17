@@ -648,17 +648,17 @@
       "back_1week": {
         "confirmed": 30251,
         "deaths": 1830,
-        "recovered": 26100
+        "recovered": 26400
       },
       "back_2week": {
         "confirmed": 29817,
         "deaths": 1762,
-        "recovered": 23900
+        "recovered": 24200
       },
       "latest": {
         "confirmed": 30572,
         "deaths": 1879,
-        "recovered": 27100
+        "recovered": 27400
       }
     },
     "CHL": {

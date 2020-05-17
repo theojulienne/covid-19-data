@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23772,
+          "confirmed": 23905,
           "date": "2020-05-17",
-          "deaths": 1979,
+          "deaths": 1986,
           "recovered": 17360
         }
       },
@@ -964,7 +964,7 @@
       "confirmed": 30587,
       "date": "2020-05-17",
       "deaths": 1881,
-      "recovered": 27400
+      "recovered": 27500
     }
   },
   "Thailand": {
@@ -1107,9 +1107,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40181,
+          "confirmed": 40682,
           "date": "2020-05-17",
-          "deaths": 4201,
+          "deaths": 4207,
           "recovered": 0
         }
       },
@@ -1125,7 +1125,7 @@
         "live": {
           "confirmed": 4287,
           "date": "2020-05-17",
-          "deaths": 329,
+          "deaths": 333,
           "recovered": 0
         }
       },
@@ -1139,9 +1139,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 5298,
+          "confirmed": 5366,
           "date": "2020-05-17",
-          "deaths": 293,
+          "deaths": 296,
           "recovered": 0
         }
       },
@@ -1179,9 +1179,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 16055,
+          "confirmed": 16339,
           "date": "2020-05-17",
-          "deaths": 686,
+          "deaths": 698,
           "recovered": 0
         }
       },
@@ -1221,7 +1221,7 @@
         "live": {
           "confirmed": 7553,
           "date": "2020-05-17",
-          "deaths": 126,
+          "deaths": 129,
           "recovered": 0
         }
       },
@@ -1235,9 +1235,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 3785,
+          "confirmed": 3883,
           "date": "2020-05-17",
-          "deaths": 53,
+          "deaths": 55,
           "recovered": 0
         }
       },
@@ -1259,7 +1259,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6829,
+          "confirmed": 7041,
           "date": "2020-05-17",
           "deaths": 274,
           "recovered": 0
