@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3082,
+          "confirmed": 3075,
           "date": "2020-05-17",
           "deaths": 45,
           "recovered": 2611
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 3577,
+      "confirmed": 3826,
       "date": "2020-05-17",
-      "deaths": 164,
-      "recovered": 434
+      "deaths": 165,
+      "recovered": 473
     }
   },
   "Bosnia and Herzegovina": {
@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 233142,
+      "confirmed": 233511,
       "date": "2020-05-17",
-      "deaths": 15633,
+      "deaths": 15662,
       "recovered": 89672
     }
   },
@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23640,
+          "confirmed": 23645,
           "date": "2020-05-17",
-          "deaths": 1975,
+          "deaths": 1976,
           "recovered": 17020
         }
       },
@@ -409,10 +409,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 2460,
+      "confirmed": 2565,
       "date": "2020-05-17",
-      "deaths": 134,
-      "recovered": 264
+      "deaths": 138,
+      "recovered": 278
     }
   },
   "Hungary": {
@@ -621,10 +621,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11037,
+      "confirmed": 11050,
       "date": "2020-05-17",
       "deaths": 262,
-      "recovered": 9851
+      "recovered": 9888
     }
   },
   "Kuwait": {
@@ -717,9 +717,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 9268,
+      "confirmed": 9449,
       "date": "2020-05-17",
-      "deaths": 266,
+      "deaths": 269,
       "recovered": 6080
     }
   },
@@ -1051,7 +1051,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15486,
+          "confirmed": 13699,
           "date": "2020-05-17",
           "deaths": 520,
           "recovered": 0
@@ -1158,6 +1158,14 @@
           "confirmed": 137744,
           "date": "2020-05-17",
           "deaths": 9738,
+          "recovered": 0
+        }
+      },
+      "New Mexico": {
+        "live": {
+          "confirmed": 1864,
+          "date": "2020-05-17",
+          "deaths": 73,
           "recovered": 0
         }
       },
