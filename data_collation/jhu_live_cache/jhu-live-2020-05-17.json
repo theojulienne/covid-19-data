@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 4283,
+      "confirmed": 4472,
       "date": "2020-05-17",
-      "deaths": 55,
-      "recovered": 1791
+      "deaths": 60,
+      "recovered": 1925
     }
   },
   "Australia": {
@@ -221,9 +221,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8455,
+      "confirmed": 8457,
       "date": "2020-05-17",
-      "deaths": 296,
+      "deaths": 297,
       "recovered": 5422
     }
   },
@@ -279,7 +279,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 33912,
+          "confirmed": 33950,
           "date": "2020-05-17",
           "deaths": 1649,
           "recovered": 29700
@@ -295,9 +295,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6443,
+          "confirmed": 6447,
           "date": "2020-05-17",
-          "deaths": 181,
+          "deaths": 182,
           "recovered": 5825
         }
       },
@@ -313,21 +313,21 @@
         "live": {
           "confirmed": 5031,
           "date": "2020-05-17",
-          "deaths": 231,
+          "deaths": 232,
           "recovered": 4400
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 9261,
+          "confirmed": 9317,
           "date": "2020-05-17",
-          "deaths": 432,
+          "deaths": 435,
           "recovered": 7900
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11147,
+          "confirmed": 11155,
           "date": "2020-05-17",
           "deaths": 547,
           "recovered": 9600
@@ -335,9 +335,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 36134,
+          "confirmed": 36286,
           "date": "2020-05-17",
-          "deaths": 1502,
+          "deaths": 1505,
           "recovered": 31500
         }
       },
@@ -359,7 +359,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5110,
+          "confirmed": 5115,
           "date": "2020-05-17",
           "deaths": 197,
           "recovered": 4400
@@ -367,7 +367,7 @@
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 2998,
+          "confirmed": 3000,
           "date": "2020-05-17",
           "deaths": 126,
           "recovered": 2600
@@ -375,9 +375,9 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2711,
+          "confirmed": 2725,
           "date": "2020-05-17",
-          "deaths": 137,
+          "deaths": 138,
           "recovered": 2200
         }
       }
@@ -744,7 +744,7 @@
       "confirmed": 18257,
       "date": "2020-05-17",
       "deaths": 915,
-      "recovered": 7175
+      "recovered": 7451
     }
   },
   "Portugal": {
@@ -805,7 +805,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 27356,
+      "confirmed": 28038,
       "date": "2020-05-17",
       "deaths": 22,
       "recovered": 8342
