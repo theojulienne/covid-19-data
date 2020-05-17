@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 6930,
+      "confirmed": 6956,
       "date": "2020-05-17",
       "deaths": 12,
-      "recovered": 2774
+      "recovered": 2910
     }
   },
   "Bangladesh": {
@@ -159,10 +159,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 42192,
+          "confirmed": 42928,
           "date": "2020-05-17",
-          "deaths": 3484,
-          "recovered": 11458
+          "deaths": 3563,
+          "recovered": 11754
         }
       }
     }
@@ -269,10 +269,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 177177,
+      "confirmed": 177240,
       "date": "2020-05-17",
-      "deaths": 27483,
-      "recovered": 59142
+      "deaths": 28062,
+      "recovered": 59907
     }
   },
   "Germany": {
@@ -295,10 +295,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6447,
+          "confirmed": 6454,
           "date": "2020-05-17",
           "deaths": 182,
-          "recovered": 5825
+          "recovered": 5850
         }
       },
       "Brandenburg": {
@@ -354,7 +354,7 @@
           "confirmed": 2708,
           "date": "2020-05-17",
           "deaths": 155,
-          "recovered": 2400
+          "recovered": 2403
         }
       },
       "Sachsen": {
@@ -425,10 +425,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 95639,
+      "confirmed": 95664,
       "date": "2020-05-17",
       "deaths": 3025,
-      "recovered": 36794
+      "recovered": 36795
     }
   },
   "Indonesia": {
@@ -465,10 +465,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16607,
+      "confirmed": 16617,
       "date": "2020-05-17",
-      "deaths": 271,
-      "recovered": 12884
+      "deaths": 272,
+      "recovered": 12942
     }
   },
   "Italy": {
@@ -759,7 +759,7 @@
     "live": {
       "confirmed": 16871,
       "date": "2020-05-17",
-      "deaths": 1104,
+      "deaths": 1107,
       "recovered": 9890
     }
   },
@@ -1147,9 +1147,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 138727,
+          "confirmed": 139230,
           "date": "2020-05-17",
-          "deaths": 9829,
+          "deaths": 9830,
           "recovered": 0
         }
       },
@@ -1165,7 +1165,7 @@
         "live": {
           "confirmed": 335526,
           "date": "2020-05-17",
-          "deaths": 27335,
+          "deaths": 27518,
           "recovered": 0
         }
       },
