@@ -17,7 +17,7 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 7479,
+      "confirmed": 7805,
       "date": "2020-05-16",
       "deaths": 363,
       "recovered": 2534
@@ -109,10 +109,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 232376,
+      "confirmed": 233142,
       "date": "2020-05-16",
-      "deaths": 15632,
-      "recovered": 84970
+      "deaths": 15633,
+      "recovered": 89672
     }
   },
   "Bulgaria": {
@@ -192,7 +192,7 @@
       "confirmed": 14939,
       "date": "2020-05-16",
       "deaths": 562,
-      "recovered": 3578
+      "recovered": 3587
     }
   },
   "Cote d'Ivoire": {
@@ -221,7 +221,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8436,
+      "confirmed": 8455,
       "date": "2020-05-16",
       "deaths": 296,
       "recovered": 5422
@@ -269,10 +269,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 177215,
+      "confirmed": 177207,
       "date": "2020-05-16",
       "deaths": 27483,
-      "recovered": 59143
+      "recovered": 59142
     }
   },
   "Germany": {
@@ -685,15 +685,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 5450,
+      "confirmed": 5621,
       "date": "2020-05-16",
-      "deaths": 171,
-      "recovered": 1320
+      "deaths": 176,
+      "recovered": 1472
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8226,
+      "confirmed": 8237,
       "date": "2020-05-16",
       "deaths": 232,
       "recovered": 32
@@ -1003,9 +1003,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 62015,
+          "confirmed": 62994,
           "date": "2020-05-16",
-          "deaths": 2697,
+          "deaths": 2738,
           "recovered": 0
         }
       },
@@ -1051,9 +1051,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15465,
+          "confirmed": 15487,
           "date": "2020-05-16",
-          "deaths": 517,
+          "deaths": 520,
           "recovered": 0
         }
       },
@@ -1227,7 +1227,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 27223,
+          "confirmed": 27267,
           "date": "2020-05-16",
           "deaths": 656,
           "recovered": 0
@@ -1251,9 +1251,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 12133,
+          "confirmed": 12416,
           "date": "2020-05-16",
-          "deaths": 718,
+          "deaths": 725,
           "recovered": 0
         }
       },
