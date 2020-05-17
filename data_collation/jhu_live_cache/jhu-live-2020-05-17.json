@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2267,
+      "confirmed": 2290,
       "date": "2020-05-17",
-      "deaths": 129,
-      "recovered": 1355
+      "deaths": 133,
+      "recovered": 1436
     }
   },
   "Brazil": {
@@ -205,10 +205,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 2224,
+      "confirmed": 2226,
       "date": "2020-05-17",
       "deaths": 95,
-      "recovered": 1913
+      "recovered": 1936
     }
   },
   "Cuba": {
@@ -229,10 +229,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 10858,
+      "confirmed": 10927,
       "date": "2020-05-17",
-      "deaths": 543,
-      "recovered": 9107
+      "deaths": 547,
+      "recovered": 9227
     }
   },
   "Dominican Republic": {
@@ -629,10 +629,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 13802,
+      "confirmed": 14850,
       "date": "2020-05-17",
-      "deaths": 107,
-      "recovered": 3843
+      "deaths": 112,
+      "recovered": 4093
     }
   },
   "Luxembourg": {
@@ -677,9 +677,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 43870,
+      "confirmed": 43995,
       "date": "2020-05-17",
-      "deaths": 5670,
+      "deaths": 5680,
       "recovered": 0
     }
   },
@@ -749,10 +749,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 28810,
+      "confirmed": 29036,
       "date": "2020-05-17",
-      "deaths": 1203,
-      "recovered": 3822
+      "deaths": 1218,
+      "recovered": 4636
     }
   },
   "Qatar": {
@@ -767,7 +767,7 @@
     "live": {
       "confirmed": 16871,
       "date": "2020-05-17",
-      "deaths": 1097,
+      "deaths": 1104,
       "recovered": 9890
     }
   },
@@ -789,10 +789,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 2429,
+      "confirmed": 2480,
       "date": "2020-05-17",
       "deaths": 25,
-      "recovered": 949
+      "recovered": 973
     }
   },
   "Serbia": {
@@ -961,9 +961,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 29677,
+      "confirmed": 30143,
       "date": "2020-05-17",
-      "deaths": 3674,
+      "deaths": 3679,
       "recovered": 4971
     }
   },
