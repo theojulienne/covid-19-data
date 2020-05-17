@@ -240,7 +240,7 @@
       "confirmed": 12314,
       "date": "2020-05-17",
       "deaths": 428,
-      "recovered": 3726
+      "recovered": 5847
     }
   },
   "Ecuador": {
@@ -253,10 +253,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 11719,
+      "confirmed": 12229,
       "date": "2020-05-17",
-      "deaths": 612,
-      "recovered": 2950
+      "deaths": 630,
+      "recovered": 3172
     }
   },
   "Finland": {
@@ -425,10 +425,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 92239,
+      "confirmed": 95639,
       "date": "2020-05-17",
-      "deaths": 2911,
-      "recovered": 35603
+      "deaths": 3025,
+      "recovered": 36794
     }
   },
   "Indonesia": {
@@ -457,9 +457,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 24048,
+      "confirmed": 24112,
       "date": "2020-05-17",
-      "deaths": 1533,
+      "deaths": 1543,
       "recovered": 19470
     }
   },
@@ -608,7 +608,7 @@
       "confirmed": 6157,
       "date": "2020-05-17",
       "deaths": 34,
-      "recovered": 3090
+      "recovered": 3256
     }
   },
   "Korea, South": {
@@ -977,17 +977,17 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 148067,
+      "confirmed": 149435,
       "date": "2020-05-17",
-      "deaths": 4096,
-      "recovered": 108137
+      "deaths": 4140,
+      "recovered": 109962
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 7096,
+          "confirmed": 7240,
           "date": "2020-05-17",
           "deaths": 319,
           "recovered": 0
@@ -995,7 +995,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 63162,
+          "confirmed": 63199,
           "date": "2020-05-17",
           "deaths": 2739,
           "recovered": 0
@@ -1019,9 +1019,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 6325,
+          "confirmed": 6421,
           "date": "2020-05-17",
-          "deaths": 233,
+          "deaths": 237,
           "recovered": 0
         }
       },
@@ -1043,7 +1043,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15928,
+          "confirmed": 15850,
           "date": "2020-05-17",
           "deaths": 521,
           "recovered": 0
@@ -1083,9 +1083,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 18636,
+          "confirmed": 18759,
           "date": "2020-05-17",
-          "deaths": 1285,
+          "deaths": 1292,
           "recovered": 0
         }
       },
@@ -1147,9 +1147,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 137744,
+          "confirmed": 138727,
           "date": "2020-05-17",
-          "deaths": 9738,
+          "deaths": 9829,
           "recovered": 0
         }
       },
@@ -1163,7 +1163,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 333825,
+          "confirmed": 335526,
           "date": "2020-05-17",
           "deaths": 27335,
           "recovered": 0
@@ -1189,7 +1189,7 @@
         "live": {
           "confirmed": 52538,
           "date": "2020-05-17",
-          "deaths": 3697,
+          "deaths": 3699,
           "recovered": 0
         }
       },
@@ -1285,9 +1285,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 240161,
+      "confirmed": 243303,
       "date": "2020-05-17",
-      "deaths": 34466,
+      "deaths": 34636,
       "recovered": 0
     }
   },
