@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 6747,
+      "confirmed": 6930,
       "date": "2020-05-17",
       "deaths": 12,
-      "recovered": 2762
+      "recovered": 2774
     }
   },
   "Bangladesh": {
@@ -151,10 +151,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23645,
+          "confirmed": 23682,
           "date": "2020-05-17",
           "deaths": 1976,
-          "recovered": 17020
+          "recovered": 17360
         }
       },
       "Quebec": {
@@ -213,10 +213,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 1862,
+      "confirmed": 1872,
       "date": "2020-05-17",
       "deaths": 79,
-      "recovered": 1460
+      "recovered": 1495
     }
   },
   "Czechia": {
@@ -693,7 +693,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8237,
+      "confirmed": 8244,
       "date": "2020-05-17",
       "deaths": 232,
       "recovered": 32
@@ -1035,9 +1035,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 7042,
+          "confirmed": 7123,
           "date": "2020-05-17",
-          "deaths": 375,
+          "deaths": 383,
           "recovered": 0
         }
       },
@@ -1099,9 +1099,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 30088,
+          "confirmed": 30800,
           "date": "2020-05-17",
-          "deaths": 1462,
+          "deaths": 1499,
           "recovered": 0
         }
       },
@@ -1251,9 +1251,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 10949,
+          "confirmed": 11309,
           "date": "2020-05-17",
-          "deaths": 347,
+          "deaths": 352,
           "recovered": 0
         }
       },
