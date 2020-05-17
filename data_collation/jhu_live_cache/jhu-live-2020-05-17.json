@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 235331,
+      "confirmed": 236131,
       "date": "2020-05-17",
-      "deaths": 15724,
+      "deaths": 15776,
       "recovered": 89672
     }
   },
@@ -151,9 +151,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 23905,
+          "confirmed": 23971,
           "date": "2020-05-17",
-          "deaths": 1986,
+          "deaths": 1992,
           "recovered": 17360
         }
       },
@@ -245,9 +245,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 32763,
+      "confirmed": 33182,
       "date": "2020-05-17",
-      "deaths": 2688,
+      "deaths": 2736,
       "recovered": 3433
     }
   },
@@ -425,7 +425,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 95664,
+      "confirmed": 95698,
       "date": "2020-05-17",
       "deaths": 3025,
       "recovered": 36795
@@ -717,10 +717,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 88541,
+      "confirmed": 92273,
       "date": "2020-05-17",
-      "deaths": 2523,
-      "recovered": 28272
+      "deaths": 2648,
+      "recovered": 28621
     }
   },
   "Philippines": {
@@ -995,9 +995,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 63199,
+          "confirmed": 63442,
           "date": "2020-05-17",
-          "deaths": 2739,
+          "deaths": 2741,
           "recovered": 0
         }
       },
@@ -1011,9 +1011,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 32514,
+          "confirmed": 33130,
           "date": "2020-05-17",
-          "deaths": 2969,
+          "deaths": 3032,
           "recovered": 0
         }
       },
@@ -1099,7 +1099,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 81890,
+          "confirmed": 82935,
           "date": "2020-05-17",
           "deaths": 5461,
           "recovered": 0
@@ -1227,9 +1227,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 27472,
+          "confirmed": 27605,
           "date": "2020-05-17",
-          "deaths": 662,
+          "deaths": 663,
           "recovered": 0
         }
       },
@@ -1285,7 +1285,7 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 243303,
+      "confirmed": 243695,
       "date": "2020-05-17",
       "deaths": 34636,
       "recovered": 0
