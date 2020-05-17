@@ -282,15 +282,15 @@
           "confirmed": 33950,
           "date": "2020-05-17",
           "deaths": 1649,
-          "recovered": 29700
+          "recovered": 30000
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 45665,
+          "confirmed": 45777,
           "date": "2020-05-17",
-          "deaths": 2288,
-          "recovered": 39880
+          "deaths": 2297,
+          "recovered": 40060
         }
       },
       "Berlin": {
@@ -322,15 +322,15 @@
           "confirmed": 9317,
           "date": "2020-05-17",
           "deaths": 435,
-          "recovered": 7900
+          "recovered": 8000
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11155,
+          "confirmed": 11159,
           "date": "2020-05-17",
-          "deaths": 547,
-          "recovered": 9600
+          "deaths": 548,
+          "recovered": 9800
         }
       },
       "Nordrhein-Westfalen": {
@@ -338,7 +338,7 @@
           "confirmed": 36286,
           "date": "2020-05-17",
           "deaths": 1505,
-          "recovered": 31500
+          "recovered": 31900
         }
       },
       "Rheinland-Pfalz": {
@@ -359,10 +359,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5115,
+          "confirmed": 5122,
           "date": "2020-05-17",
           "deaths": 197,
-          "recovered": 4400
+          "recovered": 4500
         }
       },
       "Schleswig-Holstein": {
@@ -370,7 +370,7 @@
           "confirmed": 3000,
           "date": "2020-05-17",
           "deaths": 126,
-          "recovered": 2600
+          "recovered": 2700
         }
       },
       "Thuringen": {
@@ -378,7 +378,7 @@
           "confirmed": 2725,
           "date": "2020-05-17",
           "deaths": 138,
-          "recovered": 2200
+          "recovered": 2230
         }
       }
     }
@@ -433,10 +433,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 91314,
+      "confirmed": 91449,
       "date": "2020-05-17",
-      "deaths": 2897,
-      "recovered": 34581
+      "deaths": 2896,
+      "recovered": 34645
     }
   },
   "Indonesia": {
@@ -616,7 +616,7 @@
       "confirmed": 6157,
       "date": "2020-05-17",
       "deaths": 34,
-      "recovered": 2980
+      "recovered": 3090
     }
   },
   "Korea, South": {
@@ -781,10 +781,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 52016,
+      "confirmed": 54752,
       "date": "2020-05-17",
-      "deaths": 302,
-      "recovered": 23666
+      "deaths": 312,
+      "recovered": 25722
     }
   },
   "Senegal": {
@@ -797,10 +797,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 10496,
+      "confirmed": 10610,
       "date": "2020-05-17",
-      "deaths": 228,
-      "recovered": 4479
+      "deaths": 230,
+      "recovered": 4713
     }
   },
   "Singapore": {
@@ -971,7 +971,7 @@
     "live": {
       "confirmed": 30587,
       "date": "2020-05-17",
-      "deaths": 1879,
+      "deaths": 1881,
       "recovered": 27400
     }
   },
@@ -1011,9 +1011,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 14856,
+          "confirmed": 13056,
           "date": "2020-05-17",
-          "deaths": 852,
+          "deaths": 730,
           "recovered": 0
         }
       },
@@ -1051,9 +1051,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13699,
+          "confirmed": 15928,
           "date": "2020-05-17",
-          "deaths": 520,
+          "deaths": 521,
           "recovered": 0
         }
       },
@@ -1179,9 +1179,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 2504,
+          "confirmed": 2562,
           "date": "2020-05-17",
-          "deaths": 63,
+          "deaths": 64,
           "recovered": 0
         }
       },
@@ -1203,9 +1203,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 2589,
+          "confirmed": 2646,
           "date": "2020-05-17",
-          "deaths": 122,
+          "deaths": 123,
           "recovered": 0
         }
       },
