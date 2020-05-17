@@ -64,7 +64,7 @@
       "confirmed": 6747,
       "date": "2020-05-17",
       "deaths": 12,
-      "recovered": 2753
+      "recovered": 2762
     }
   },
   "Bangladesh": {
@@ -653,10 +653,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 45032,
+      "confirmed": 47144,
       "date": "2020-05-17",
-      "deaths": 4767,
-      "recovered": 30451
+      "deaths": 5045,
+      "recovered": 31848
     }
   },
   "Moldova": {
@@ -1003,9 +1003,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 62994,
+          "confirmed": 63148,
           "date": "2020-05-17",
-          "deaths": 2738,
+          "deaths": 2739,
           "recovered": 0
         }
       },
