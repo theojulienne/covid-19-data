@@ -35,9 +35,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3075,
+          "confirmed": 3076,
           "date": "2020-05-17",
-          "deaths": 45,
+          "deaths": 46,
           "recovered": 2612
         }
       }
@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 236131,
+      "confirmed": 240307,
       "date": "2020-05-17",
-      "deaths": 15776,
+      "deaths": 16091,
       "recovered": 89672
     }
   },
@@ -135,10 +135,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6587,
+          "confirmed": 6644,
           "date": "2020-05-17",
-          "deaths": 126,
-          "recovered": 5377
+          "deaths": 127,
+          "recovered": 5453
         }
       },
       "British Columbia": {
@@ -153,7 +153,7 @@
         "live": {
           "confirmed": 23971,
           "date": "2020-05-17",
-          "deaths": 1992,
+          "deaths": 1999,
           "recovered": 17360
         }
       },
@@ -995,17 +995,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 63442,
+          "confirmed": 64069,
           "date": "2020-05-17",
-          "deaths": 2741,
+          "deaths": 2769,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 13056,
+          "confirmed": 13267,
           "date": "2020-05-17",
-          "deaths": 730,
+          "deaths": 744,
           "recovered": 0
         }
       },
@@ -1101,7 +1101,7 @@
         "live": {
           "confirmed": 82935,
           "date": "2020-05-17",
-          "deaths": 5461,
+          "deaths": 5547,
           "recovered": 0
         }
       },
@@ -1227,7 +1227,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 27605,
+          "confirmed": 27944,
           "date": "2020-05-17",
           "deaths": 663,
           "recovered": 0
@@ -1251,9 +1251,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 12416,
+          "confirmed": 12509,
           "date": "2020-05-17",
-          "deaths": 725,
+          "deaths": 727,
           "recovered": 0
         }
       },
