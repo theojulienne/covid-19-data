@@ -350,19 +350,19 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 1872,
-        "deaths": 86,
-        "recovered": 401
+        "confirmed": 1921,
+        "deaths": 90,
+        "recovered": 422
       },
       "back_2week": {
-        "confirmed": 1555,
-        "deaths": 68,
-        "recovered": 276
+        "confirmed": 1594,
+        "deaths": 72,
+        "recovered": 287
       },
       "latest": {
-        "confirmed": 2138,
-        "deaths": 102,
-        "recovered": 545
+        "confirmed": 2175,
+        "deaths": 105,
+        "recovered": 573
       }
     },
     "BHR": {
@@ -1898,17 +1898,17 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 4834,
+        "confirmed": 4975,
         "deaths": 31,
         "recovered": 1631
       },
       "back_2week": {
-        "confirmed": 3597,
+        "confirmed": 3857,
         "deaths": 25,
         "recovered": 922
       },
       "latest": {
-        "confirmed": 5689,
+        "confirmed": 5850,
         "deaths": 34,
         "recovered": 2707
       }
