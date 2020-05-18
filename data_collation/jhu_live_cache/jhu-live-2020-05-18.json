@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 16242,
+      "confirmed": 16269,
       "date": "2020-05-18",
       "deaths": 629,
-      "recovered": 14563
+      "recovered": 14614
     }
   },
   "Azerbaijan": {
@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 22268,
+      "confirmed": 23870,
       "date": "2020-05-18",
-      "deaths": 328,
-      "recovered": 4373
+      "deaths": 349,
+      "recovered": 4585
     }
   },
   "Belarus": {
@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 55280,
+      "confirmed": 55559,
       "date": "2020-05-18",
-      "deaths": 9052,
-      "recovered": 14630
+      "deaths": 9080,
+      "recovered": 14657
     }
   },
   "Bolivia": {
@@ -261,7 +261,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 6347,
+      "confirmed": 6380,
       "date": "2020-05-18",
       "deaths": 298,
       "recovered": 5000
@@ -303,7 +303,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3204,
+          "confirmed": 3205,
           "date": "2020-05-18",
           "deaths": 166,
           "recovered": 2800
@@ -441,10 +441,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 17514,
+      "confirmed": 18010,
       "date": "2020-05-18",
-      "deaths": 1148,
-      "recovered": 4129
+      "deaths": 1191,
+      "recovered": 4324
     }
   },
   "Iran": {
@@ -645,10 +645,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 6894,
+      "confirmed": 6941,
       "date": "2020-05-18",
       "deaths": 113,
-      "recovered": 5571
+      "recovered": 5615
     }
   },
   "Mexico": {
@@ -701,10 +701,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 5186,
+      "confirmed": 5379,
       "date": "2020-05-18",
-      "deaths": 22,
-      "recovered": 1465
+      "deaths": 23,
+      "recovered": 1496
     }
   },
   "Pakistan": {
@@ -744,7 +744,7 @@
       "confirmed": 18746,
       "date": "2020-05-18",
       "deaths": 929,
-      "recovered": 7451
+      "recovered": 7628
     }
   },
   "Portugal": {
