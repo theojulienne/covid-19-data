@@ -237,7 +237,8 @@ var covid19_dataset_country_cub = {
       1810,
       1830,
       1840,
-      1862
+      1862,
+      1872
     ],
     "deaths": [
       0,
@@ -352,6 +353,7 @@ var covid19_dataset_country_cub = {
       77,
       77,
       78,
+      79,
       79,
       79,
       79,
@@ -473,7 +475,8 @@ var covid19_dataset_country_cub = {
       1326,
       1383,
       1425,
-      1460
+      1460,
+      1495
     ]
   }
 };

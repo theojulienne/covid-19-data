@@ -237,6 +237,7 @@ var covid19_dataset_country_gnq = {
       522,
       583,
       594,
+      594,
       594
     ],
     "deaths": [
@@ -353,6 +354,7 @@ var covid19_dataset_country_gnq = {
       4,
       4,
       6,
+      7,
       7,
       7,
       7
@@ -472,6 +474,7 @@ var covid19_dataset_country_gnq = {
       13,
       13,
       13,
+      22,
       22,
       22
     ]
