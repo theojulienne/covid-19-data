@@ -139,19 +139,19 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "back_1week": {
         "confirmed": 6939,
-        "current_hospitalized": 51,
-        "current_icu": 19,
-        "deaths": 99,
+        "current_hospitalized": 43,
+        "current_icu": 17,
+        "deaths": 97,
         "recovered": 6141,
-        "tested": 730551
+        "tested": 754983
       },
       "back_2week": {
         "confirmed": 6801,
-        "current_hospitalized": 79,
+        "current_hospitalized": 75,
         "current_icu": 28,
-        "deaths": 95,
+        "deaths": 97,
         "recovered": 5787,
-        "tested": 611355
+        "tested": 632674
       },
       "latest": {
         "confirmed": 7044,
@@ -159,7 +159,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 8,
         "deaths": 100,
         "recovered": 6364,
-        "tested": 1001435
+        "tested": 1027980
       },
       "states": {
         "ACT": {
@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 3,
           "deaths": 6,
           "recovered": 1037,
-          "tested": 151854
+          "tested": 154220
         },
         "SA": {
           "confirmed": 439,
@@ -1609,12 +1609,12 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 967,
-        "deaths": 24,
+        "confirmed": 1052,
+        "deaths": 26,
         "recovered": 104
       },
       "back_2week": {
-        "confirmed": 688,
+        "confirmed": 703,
         "deaths": 17,
         "recovered": 72
       },
@@ -2600,28 +2600,28 @@ var covid19_dataset_latest_totals = {
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1492,
+        "confirmed": 1494,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1368,
-        "tested": 183039
+        "recovered": 1371,
+        "tested": 190326
       },
       "back_2week": {
-        "confirmed": 1485,
-        "current_hospitalized": 5,
+        "confirmed": 1487,
+        "current_hospitalized": 8,
         "current_icu": 0,
         "deaths": 20,
-        "recovered": 1263,
-        "tested": 145589
+        "recovered": 1266,
+        "tested": 150223
       },
       "latest": {
-        "confirmed": 1498,
+        "confirmed": 1499,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1428,
-        "tested": 223937
+        "recovered": 1433,
+        "tested": 228148
       }
     },
     "OMN": {
