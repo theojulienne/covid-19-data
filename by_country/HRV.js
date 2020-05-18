@@ -238,7 +238,8 @@ var covid19_dataset_country_hrv = {
       2221,
       2222,
       2224,
-      2226
+      2226,
+      2228
     ],
     "deaths": [
       0,
@@ -476,7 +477,8 @@ var covid19_dataset_country_hrv = {
       1850,
       1869,
       1913,
-      1936
+      1936,
+      1946
     ]
   }
 };
