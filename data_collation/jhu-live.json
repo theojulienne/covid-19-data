@@ -269,10 +269,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 177570,
+      "confirmed": 177557,
       "date": "2020-05-18",
       "deaths": 28193,
-      "recovered": 60422
+      "recovered": 60416
     }
   },
   "Germany": {
@@ -409,10 +409,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 2658,
+      "confirmed": 2796,
       "date": "2020-05-18",
       "deaths": 16,
-      "recovered": 1133
+      "recovered": 1263
     }
   },
   "Honduras": {
