@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 7805,
+      "confirmed": 8068,
       "date": "2020-05-17",
-      "deaths": 366,
+      "deaths": 373,
       "recovered": 2569
     }
   },
@@ -109,10 +109,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 240307,
+      "confirmed": 241080,
       "date": "2020-05-17",
-      "deaths": 16091,
-      "recovered": 89672
+      "deaths": 16118,
+      "recovered": 94122
     }
   },
   "Bulgaria": {
@@ -189,10 +189,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 14939,
+      "confirmed": 15574,
       "date": "2020-05-17",
-      "deaths": 562,
-      "recovered": 3587
+      "deaths": 574,
+      "recovered": 3751
     }
   },
   "Cote d'Ivoire": {
@@ -597,10 +597,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16237,
+      "confirmed": 16285,
       "date": "2020-05-17",
-      "deaths": 725,
-      "recovered": 10338
+      "deaths": 744,
+      "recovered": 11153
     }
   },
   "Kazakhstan": {
@@ -677,15 +677,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 5621,
+      "confirmed": 5959,
       "date": "2020-05-17",
-      "deaths": 176,
-      "recovered": 1472
+      "deaths": 182,
+      "recovered": 1594
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8244,
+      "confirmed": 8249,
       "date": "2020-05-17",
       "deaths": 232,
       "recovered": 32
@@ -1043,7 +1043,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15850,
+          "confirmed": 15842,
           "date": "2020-05-17",
           "deaths": 521,
           "recovered": 0
