@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 29650,
+      "confirmed": 30572,
       "date": "2020-05-18",
-      "deaths": 165,
-      "recovered": 9932
+      "deaths": 171,
+      "recovered": 10130
     }
   },
   "Belgium": {
@@ -263,7 +263,7 @@
     "live": {
       "confirmed": 6380,
       "date": "2020-05-18",
-      "deaths": 298,
+      "deaths": 300,
       "recovered": 5000
     }
   },
