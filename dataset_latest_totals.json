@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 3175,
-        "deaths": 44,
-        "recovered": 1267
+        "confirmed": 3313,
+        "deaths": 45,
+        "recovered": 1325
       },
       "back_2week": {
-        "confirmed": 2273,
-        "deaths": 33,
-        "recovered": 1010
+        "confirmed": 2386,
+        "deaths": 35,
+        "recovered": 1035
       },
       "latest": {
-        "confirmed": 4283,
-        "deaths": 55,
-        "recovered": 1791
+        "confirmed": 4472,
+        "deaths": 60,
+        "recovered": 1925
       }
     },
     "ATG": {
@@ -212,12 +212,12 @@
           "tested": 19539
         },
         "VIC": {
-          "confirmed": 1554,
+          "confirmed": 1561,
           "current_hospitalized": 11,
           "current_icu": 7,
           "deaths": 18,
           "recovered": 1417,
-          "tested": 324000
+          "tested": 338000
         },
         "WA": {
           "confirmed": 551,
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 8095,
+        "confirmed": 8123,
         "deaths": 276,
-        "recovered": 4447
+        "recovered": 4474
       },
       "back_2week": {
-        "confirmed": 7755,
+        "confirmed": 7781,
         "deaths": 245,
-        "recovered": 3461
+        "recovered": 3587
       },
       "latest": {
-        "confirmed": 8455,
+        "confirmed": 8475,
         "deaths": 296,
-        "recovered": 5422
+        "recovered": 5462
       }
     },
     "DEU": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 22460,
+        "confirmed": 23336,
         "deaths": 20,
         "recovered": 2296
       },
       "back_2week": {
-        "confirmed": 17548,
+        "confirmed": 18205,
         "deaths": 17,
         "recovered": 1347
       },
       "latest": {
-        "confirmed": 27356,
+        "confirmed": 28038,
         "deaths": 22,
         "recovered": 8342
       }
@@ -3340,19 +3340,19 @@
     },
     "UKR": {
       "back_1week": {
-        "confirmed": 14710,
-        "deaths": 376,
-        "recovered": 2909
+        "confirmed": 15232,
+        "deaths": 391,
+        "recovered": 3060
       },
       "back_2week": {
-        "confirmed": 11411,
-        "deaths": 279,
-        "recovered": 1498
+        "confirmed": 11913,
+        "deaths": 288,
+        "recovered": 1548
       },
       "latest": {
-        "confirmed": 17858,
-        "deaths": 497,
-        "recovered": 4906
+        "confirmed": 18291,
+        "deaths": 514,
+        "recovered": 5116
       }
     },
     "URY": {
