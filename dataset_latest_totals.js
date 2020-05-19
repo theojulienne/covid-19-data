@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 24286,
-          "deaths": 1999
+          "deaths": 2019
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -3830,19 +3830,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 10015,
-        "deaths": 194,
-        "recovered": 4173
+        "confirmed": 10652,
+        "deaths": 206,
+        "recovered": 4357
       },
       "back_2week": {
-        "confirmed": 6783,
-        "deaths": 131,
-        "recovered": 2549
+        "confirmed": 7220,
+        "deaths": 138,
+        "recovered": 2746
       },
       "latest": {
-        "confirmed": 15515,
-        "deaths": 264,
-        "recovered": 7006
+        "confirmed": 16433,
+        "deaths": 286,
+        "recovered": 7298
       }
     },
     "ZMB": {
