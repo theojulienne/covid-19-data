@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3078,
+          "confirmed": 3082,
           "date": "2020-05-19",
           "deaths": 47,
-          "recovered": 2614
+          "recovered": 2631
         }
       }
     }
@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 265896,
+      "confirmed": 271628,
       "date": "2020-05-19",
-      "deaths": 17840,
+      "deaths": 17971,
       "recovered": 100459
     }
   },
@@ -135,10 +135,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6683,
+          "confirmed": 6716,
           "date": "2020-05-19",
           "deaths": 128,
-          "recovered": 5519
+          "recovered": 5584
         }
       },
       "British Columbia": {
@@ -189,10 +189,10 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 16295,
+      "confirmed": 16935,
       "date": "2020-05-19",
-      "deaths": 592,
-      "recovered": 3903
+      "deaths": 613,
+      "recovered": 4050
     }
   },
   "Cote d'Ivoire": {
@@ -409,10 +409,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 2796,
+      "confirmed": 2863,
       "date": "2020-05-19",
-      "deaths": 16,
-      "recovered": 1263
+      "deaths": 18,
+      "recovered": 1525
     }
   },
   "Honduras": {
@@ -693,7 +693,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8264,
+      "confirmed": 8267,
       "date": "2020-05-19",
       "deaths": 233,
       "recovered": 32
@@ -1019,9 +1019,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 13432,
+          "confirmed": 13618,
           "date": "2020-05-19",
-          "deaths": 750,
+          "deaths": 771,
           "recovered": 0
         }
       },
@@ -1091,9 +1091,9 @@
       },
       "Kentucky": {
         "live": {
-          "confirmed": 1916,
+          "confirmed": 1959,
           "date": "2020-05-19",
-          "deaths": 129,
+          "deaths": 131,
           "recovered": 0
         }
       },
@@ -1243,9 +1243,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 28547,
+          "confirmed": 28899,
           "date": "2020-05-19",
-          "deaths": 669,
+          "deaths": 671,
           "recovered": 0
         }
       },
