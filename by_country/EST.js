@@ -240,8 +240,7 @@ var covid19_dataset_country_est = {
       1766,
       1770,
       1774,
-      1784,
-      1791
+      1784
     ],
     "deaths": [
       0,
