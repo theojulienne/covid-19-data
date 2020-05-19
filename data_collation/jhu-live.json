@@ -20,7 +20,7 @@
       "confirmed": 8371,
       "date": "2020-05-19",
       "deaths": 382,
-      "recovered": 2625
+      "recovered": 2872
     }
   },
   "Armenia": {
@@ -425,7 +425,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 106453,
+      "confirmed": 106468,
       "date": "2020-05-19",
       "deaths": 3301,
       "recovered": 42307
@@ -717,10 +717,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 94933,
+      "confirmed": 99483,
       "date": "2020-05-19",
-      "deaths": 2789,
-      "recovered": 30306
+      "deaths": 2914,
+      "recovered": 36524
     }
   },
   "Philippines": {
