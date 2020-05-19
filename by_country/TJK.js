@@ -240,7 +240,8 @@ var covid19_dataset_country_tjk = {
       1118,
       1322,
       1524,
-      1729
+      1729,
+      1936
     ],
     "deaths": [
       0,

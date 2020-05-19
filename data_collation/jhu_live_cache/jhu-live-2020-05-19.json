@@ -109,9 +109,9 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 255368,
+      "confirmed": 257396,
       "date": "2020-05-19",
-      "deaths": 16853,
+      "deaths": 16941,
       "recovered": 100459
     }
   },
@@ -211,20 +211,12 @@
       "recovered": 1967
     }
   },
-  "Cuba": {
-    "live": {
-      "confirmed": 1881,
-      "date": "2020-05-19",
-      "deaths": 79,
-      "recovered": 1505
-    }
-  },
   "Czechia": {
     "live": {
-      "confirmed": 8594,
+      "confirmed": 8604,
       "date": "2020-05-19",
-      "deaths": 299,
-      "recovered": 5641
+      "deaths": 301,
+      "recovered": 5687
     }
   },
   "Denmark": {
@@ -261,9 +253,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 6380,
+      "confirmed": 6399,
       "date": "2020-05-19",
-      "deaths": 300,
+      "deaths": 301,
       "recovered": 5000
     }
   },
@@ -327,9 +319,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11207,
+          "confirmed": 11267,
           "date": "2020-05-19",
-          "deaths": 550,
+          "deaths": 557,
           "recovered": 9900
         }
       },
@@ -359,10 +351,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5133,
+          "confirmed": 5142,
           "date": "2020-05-19",
           "deaths": 198,
-          "recovered": 4510
+          "recovered": 4560
         }
       },
       "Schleswig-Holstein": {
@@ -375,7 +367,7 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2750,
+          "confirmed": 2751,
           "date": "2020-05-19",
           "deaths": 147,
           "recovered": 2300
@@ -781,10 +773,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 57345,
+      "confirmed": 59854,
       "date": "2020-05-19",
-      "deaths": 320,
-      "recovered": 28748
+      "deaths": 329,
+      "recovered": 31634
     }
   },
   "Senegal": {
@@ -797,10 +789,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 10699,
+      "confirmed": 10733,
       "date": "2020-05-19",
-      "deaths": 231,
-      "recovered": 4799
+      "deaths": 234,
+      "recovered": 4904
     }
   },
   "Singapore": {
@@ -973,6 +965,14 @@
       "date": "2020-05-19",
       "deaths": 1886,
       "recovered": 27600
+    }
+  },
+  "Tajikistan": {
+    "live": {
+      "confirmed": 1936,
+      "date": "2020-05-19",
+      "deaths": 41,
+      "recovered": 0
     }
   },
   "Thailand": {
