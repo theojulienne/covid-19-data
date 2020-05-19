@@ -1728,18 +1728,18 @@
     },
     "IND": {
       "back_1week": {
-        "confirmed": 67161,
-        "deaths": 2212,
+        "confirmed": 70768,
+        "deaths": 2294,
         "recovered": 20969
       },
       "back_2week": {
-        "confirmed": 42505,
-        "deaths": 1391,
+        "confirmed": 46437,
+        "deaths": 1566,
         "recovered": 11775
       },
       "latest": {
-        "confirmed": 95698,
-        "deaths": 3025,
+        "confirmed": 100328,
+        "deaths": 3156,
         "recovered": 36795
       }
     },
