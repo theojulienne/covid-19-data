@@ -360,7 +360,8 @@ var covid19_dataset_country_rou = {
       1070,
       1094,
       1107,
-      1120
+      1120,
+      1124
     ],
     "recovered": [
       0,
