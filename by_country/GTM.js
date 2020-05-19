@@ -239,8 +239,7 @@ var covid19_dataset_country_gtm = {
       1518,
       1643,
       1763,
-      1763,
-      1912
+      1763
     ],
     "deaths": [
       0,
@@ -359,8 +358,7 @@ var covid19_dataset_country_gtm = {
       29,
       30,
       33,
-      33,
-      35
+      33
     ],
     "recovered": [
       0,
