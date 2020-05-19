@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 2304,
+      "confirmed": 2321,
       "date": "2020-05-19",
-      "deaths": 133,
-      "recovered": 1464
+      "deaths": 134,
+      "recovered": 1522
     }
   },
   "Brazil": {
@@ -346,7 +346,7 @@
           "confirmed": 6520,
           "date": "2020-05-19",
           "deaths": 222,
-          "recovered": 5846
+          "recovered": 5879
         }
       },
       "Saarland": {
@@ -433,10 +433,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 101261,
+      "confirmed": 102231,
       "date": "2020-05-19",
-      "deaths": 3164,
-      "recovered": 39233
+      "deaths": 3169,
+      "recovered": 39658
     }
   },
   "Indonesia": {
