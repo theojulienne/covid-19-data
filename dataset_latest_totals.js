@@ -647,17 +647,17 @@ var covid19_dataset_latest_totals = {
     "CHE": {
       "back_1week": {
         "confirmed": 30344,
-        "deaths": 1833,
+        "deaths": 1845,
         "recovered": 26600
       },
       "back_2week": {
         "confirmed": 29981,
-        "deaths": 1762,
+        "deaths": 1784,
         "recovered": 24500
       },
       "latest": {
         "confirmed": 30597,
-        "deaths": 1881,
+        "deaths": 1886,
         "recovered": 27500
       }
     },
@@ -1900,17 +1900,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 5090,
         "deaths": 31,
-        "recovered": 1941
+        "recovered": 2074
       },
       "back_2week": {
         "confirmed": 3920,
         "deaths": 27,
-        "recovered": 1084
+        "recovered": 1173
       },
       "latest": {
         "confirmed": 6157,
         "deaths": 34,
-        "recovered": 3256
+        "recovered": 3469
       }
     },
     "KEN": {
@@ -2222,18 +2222,18 @@ var covid19_dataset_latest_totals = {
     "MDA": {
       "back_1week": {
         "confirmed": 4927,
-        "deaths": 169,
-        "recovered": 1958
+        "deaths": 175,
+        "recovered": 1980
       },
       "back_2week": {
         "confirmed": 4121,
-        "deaths": 125,
-        "recovered": 1382
+        "deaths": 132,
+        "recovered": 1423
       },
       "latest": {
         "confirmed": 6060,
-        "deaths": 211,
-        "recovered": 2344
+        "deaths": 217,
+        "recovered": 2425
       }
     },
     "MDG": {
@@ -2566,17 +2566,17 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "back_1week": {
-        "confirmed": 8105,
+        "confirmed": 8132,
         "deaths": 219,
         "recovered": 32
       },
       "back_2week": {
-        "confirmed": 7847,
+        "confirmed": 7904,
         "deaths": 211,
         "recovered": 32
       },
       "latest": {
-        "confirmed": 8249,
+        "confirmed": 8257,
         "deaths": 232,
         "recovered": 32
       }

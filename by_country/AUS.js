@@ -6829,7 +6829,7 @@ var covid19_dataset_country_aus = {
             37,
             37,
             37,
-            37
+            38
           ],
           "Wide Bay": [
             0,
