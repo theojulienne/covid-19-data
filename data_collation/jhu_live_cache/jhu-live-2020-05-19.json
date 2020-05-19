@@ -37,7 +37,7 @@
         "live": {
           "confirmed": 3078,
           "date": "2020-05-19",
-          "deaths": 46,
+          "deaths": 47,
           "recovered": 2614
         }
       }
@@ -401,10 +401,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 1912,
+      "confirmed": 2001,
       "date": "2020-05-19",
-      "deaths": 35,
-      "recovered": 138
+      "deaths": 38,
+      "recovered": 139
     }
   },
   "Guinea": {
@@ -709,10 +709,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 42125,
+      "confirmed": 43966,
       "date": "2020-05-19",
-      "deaths": 903,
-      "recovered": 11922
+      "deaths": 939,
+      "recovered": 12489
     }
   },
   "Panama": {
@@ -1003,9 +1003,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 65314,
+          "confirmed": 65441,
           "date": "2020-05-19",
-          "deaths": 2807,
+          "deaths": 2809,
           "recovered": 0
         }
       },
