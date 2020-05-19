@@ -648,17 +648,17 @@
       "back_1week": {
         "confirmed": 30344,
         "deaths": 1845,
-        "recovered": 26600
+        "recovered": 26800
       },
       "back_2week": {
         "confirmed": 29981,
         "deaths": 1784,
-        "recovered": 24500
+        "recovered": 25200
       },
       "latest": {
         "confirmed": 30597,
         "deaths": 1886,
-        "recovered": 27500
+        "recovered": 27600
       }
     },
     "CHL": {
@@ -864,19 +864,19 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 1700,
+        "confirmed": 1730,
         "deaths": 21,
-        "recovered": 794
+        "recovered": 818
       },
       "back_2week": {
-        "confirmed": 1398,
+        "confirmed": 1432,
         "deaths": 17,
-        "recovered": 653
+        "recovered": 693
       },
       "latest": {
-        "confirmed": 2109,
+        "confirmed": 2119,
         "deaths": 27,
-        "recovered": 1004
+        "recovered": 1040
       }
     },
     "CMR": {
