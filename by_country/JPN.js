@@ -118,7 +118,8 @@ var covid19_dataset_country_jpn = {
     "2020-05-16",
     "2020-05-17",
     "2020-05-18",
-    "2020-05-19"
+    "2020-05-19",
+    "2020-05-20"
   ],
   "total": {
     "confirmed": [
@@ -238,7 +239,8 @@ var covid19_dataset_country_jpn = {
       16120,
       16203,
       16237,
-      16285
+      16285,
+      16305
     ],
     "deaths": [
       0,
@@ -357,7 +359,8 @@ var covid19_dataset_country_jpn = {
       697,
       713,
       725,
-      744
+      744,
+      749
     ],
     "recovered": [
       0,
@@ -476,7 +479,8 @@ var covid19_dataset_country_jpn = {
       9868,
       10338,
       10338,
-      11153
+      11153,
+      11564
     ]
   }
 };

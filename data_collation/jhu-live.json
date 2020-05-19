@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 8068,
+      "confirmed": 8371,
       "date": "2020-05-18",
-      "deaths": 374,
+      "deaths": 382,
       "recovered": 2625
     }
   },
@@ -38,7 +38,7 @@
           "confirmed": 3078,
           "date": "2020-05-18",
           "deaths": 46,
-          "recovered": 2612
+          "recovered": 2614
         }
       }
     }
@@ -109,10 +109,10 @@
   },
   "Brazil": {
     "live": {
-      "confirmed": 245595,
+      "confirmed": 254220,
       "date": "2020-05-18",
-      "deaths": 16370,
-      "recovered": 94122
+      "deaths": 16792,
+      "recovered": 100459
     }
   },
   "Bulgaria": {
@@ -221,10 +221,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8527,
+      "confirmed": 8586,
       "date": "2020-05-18",
-      "deaths": 298,
-      "recovered": 5633
+      "deaths": 297,
+      "recovered": 5641
     }
   },
   "Denmark": {
@@ -605,10 +605,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16285,
+      "confirmed": 16305,
       "date": "2020-05-18",
-      "deaths": 744,
-      "recovered": 11153
+      "deaths": 749,
+      "recovered": 11564
     }
   },
   "Kazakhstan": {
@@ -685,10 +685,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 5959,
+      "confirmed": 6175,
       "date": "2020-05-18",
-      "deaths": 182,
-      "recovered": 1594
+      "deaths": 191,
+      "recovered": 1644
     }
   },
   "Norway": {
@@ -972,7 +972,7 @@
       "confirmed": 30597,
       "date": "2020-05-18",
       "deaths": 1886,
-      "recovered": 27500
+      "recovered": 27600
     }
   },
   "Thailand": {
@@ -1109,7 +1109,7 @@
         "live": {
           "confirmed": 83968,
           "date": "2020-05-18",
-          "deaths": 5547,
+          "deaths": 5609,
           "recovered": 0
         }
       },
@@ -1163,9 +1163,9 @@
       },
       "New Mexico": {
         "live": {
-          "confirmed": 1888,
+          "confirmed": 1953,
           "date": "2020-05-18",
-          "deaths": 76,
+          "deaths": 78,
           "recovered": 0
         }
       },
