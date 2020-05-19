@@ -3374,22 +3374,22 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 1320373,
+        "confirmed": 1321115,
         "deaths": 74148,
         "recovered": 215396,
-        "tested": 8953635
+        "tested": 8970466
       },
       "back_2week": {
-        "confirmed": 1149968,
+        "confirmed": 1150834,
         "deaths": 61760,
         "recovered": 179544,
-        "tested": 7039317
+        "tested": 7056829
       },
       "latest": {
-        "confirmed": 1476966,
+        "confirmed": 1477268,
         "deaths": 83718,
         "recovered": 272066,
-        "tested": 11479777
+        "tested": 11487851
       },
       "states": {
         "AK": {
@@ -3699,9 +3699,9 @@
           "tested": 22282
         },
         "WA": {
-          "confirmed": 18288,
+          "confirmed": 18590,
           "deaths": 1000,
-          "tested": 280993
+          "tested": 289067
         },
         "WI": {
           "confirmed": 12543,
