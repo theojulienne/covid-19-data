@@ -179,7 +179,7 @@
     "subseries": {
       "Hubei": {
         "live": {
-          "confirmed": 68134,
+          "confirmed": 68135,
           "date": "2020-05-19",
           "deaths": 4512,
           "recovered": 63616
@@ -621,10 +621,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11065,
+      "confirmed": 11078,
       "date": "2020-05-19",
       "deaths": 263,
-      "recovered": 9904
+      "recovered": 9938
     }
   },
   "Kuwait": {
@@ -653,10 +653,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 49219,
+      "confirmed": 51633,
       "date": "2020-05-19",
-      "deaths": 5177,
-      "recovered": 33329
+      "deaths": 5332,
+      "recovered": 35388
     }
   },
   "Moldova": {
@@ -717,9 +717,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 9606,
+      "confirmed": 9726,
       "date": "2020-05-19",
-      "deaths": 275,
+      "deaths": 279,
       "recovered": 6081
     }
   },
