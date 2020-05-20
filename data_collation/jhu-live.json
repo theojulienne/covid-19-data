@@ -307,9 +307,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 25157,
+          "confirmed": 25192,
           "date": "2020-05-20",
-          "deaths": 2075,
+          "deaths": 2079,
           "recovered": 18190
         }
       },
@@ -381,10 +381,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 34151,
+      "confirmed": 34854,
       "date": "2020-05-20",
-      "deaths": 2839,
-      "recovered": 3457
+      "deaths": 2888,
+      "recovered": 3557
     }
   },
   "Egypt": {
@@ -1207,9 +1207,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 5574,
+          "confirmed": 5593,
           "date": "2020-05-20",
-          "deaths": 105,
+          "deaths": 106,
           "recovered": 0
         }
       },
@@ -1295,7 +1295,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 2717,
+          "confirmed": 2780,
           "date": "2020-05-20",
           "deaths": 69,
           "recovered": 0
@@ -1351,9 +1351,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 25095,
+          "confirmed": 25237,
           "date": "2020-05-20",
-          "deaths": 603,
+          "deaths": 612,
           "recovered": 0
         }
       },

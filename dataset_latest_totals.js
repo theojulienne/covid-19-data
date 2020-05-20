@@ -1165,8 +1165,8 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 29509,
-        "deaths": 2145,
+        "confirmed": 30419,
+        "deaths": 2327,
         "recovered": 3433
       },
       "back_2week": {
@@ -1175,9 +1175,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 3433
       },
       "latest": {
-        "confirmed": 33582,
-        "deaths": 2799,
-        "recovered": 3433
+        "confirmed": 34151,
+        "deaths": 2839,
+        "recovered": 3457
       }
     },
     "EGY": {
