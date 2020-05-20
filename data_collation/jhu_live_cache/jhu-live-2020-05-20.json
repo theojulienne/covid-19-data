@@ -307,9 +307,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 24882,
+          "confirmed": 25157,
           "date": "2020-05-20",
-          "deaths": 2040,
+          "deaths": 2075,
           "recovered": 18190
         }
       },
@@ -400,7 +400,7 @@
       "confirmed": 6443,
       "date": "2020-05-20",
       "deaths": 304,
-      "recovered": 5000
+      "recovered": 4800
     }
   },
   "France": {
@@ -561,7 +561,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 112015,
+      "confirmed": 112028,
       "date": "2020-05-20",
       "deaths": 3434,
       "recovered": 45422
@@ -744,7 +744,7 @@
       "confirmed": 6969,
       "date": "2020-05-20",
       "deaths": 35,
-      "recovered": 3649
+      "recovered": 3734
     }
   },
   "Korea, South": {
@@ -859,7 +859,7 @@
     "live": {
       "confirmed": 6043,
       "date": "2020-05-20",
-      "deaths": 29,
+      "deaths": 30,
       "recovered": 1661
     }
   },
@@ -881,10 +881,10 @@
   },
   "Peru": {
     "live": {
-      "confirmed": 99483,
+      "confirmed": 104020,
       "date": "2020-05-20",
-      "deaths": 2914,
-      "recovered": 36524
+      "deaths": 3024,
+      "recovered": 41968
     }
   },
   "Philippines": {
@@ -1135,9 +1135,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 64924,
+          "confirmed": 66312,
           "date": "2020-05-20",
-          "deaths": 2886,
+          "deaths": 2936,
           "recovered": 0
         }
       },
@@ -1151,17 +1151,17 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 33999,
+          "confirmed": 34540,
           "date": "2020-05-20",
-          "deaths": 3088,
+          "deaths": 3138,
           "recovered": 0
         }
       },
       "Delaware": {
         "live": {
-          "confirmed": 6749,
+          "confirmed": 6893,
           "date": "2020-05-20",
-          "deaths": 250,
+          "deaths": 254,
           "recovered": 0
         }
       },
@@ -1191,9 +1191,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 86813,
+          "confirmed": 88933,
           "date": "2020-05-20",
-          "deaths": 3880,
+          "deaths": 4014,
           "recovered": 0
         }
       },
@@ -1231,9 +1231,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 84837,
+          "confirmed": 85840,
           "date": "2020-05-20",
-          "deaths": 5683,
+          "deaths": 5805,
           "recovered": 0
         }
       },
@@ -1351,9 +1351,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 24859,
+          "confirmed": 25095,
           "date": "2020-05-20",
-          "deaths": 600,
+          "deaths": 603,
           "recovered": 0
         }
       },
@@ -1409,7 +1409,7 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 248818,
+      "confirmed": 248293,
       "date": "2020-05-20",
       "deaths": 35704,
       "recovered": 0
