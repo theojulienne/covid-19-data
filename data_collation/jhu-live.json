@@ -605,9 +605,9 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16305,
+      "confirmed": 16367,
       "date": "2020-05-20",
-      "deaths": 749,
+      "deaths": 768,
       "recovered": 11564
     }
   },
@@ -621,10 +621,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11078,
+      "confirmed": 11110,
       "date": "2020-05-20",
       "deaths": 263,
-      "recovered": 9938
+      "recovered": 10066
     }
   },
   "Kuwait": {
@@ -653,10 +653,10 @@
   },
   "Mexico": {
     "live": {
-      "confirmed": 51633,
+      "confirmed": 54346,
       "date": "2020-05-20",
-      "deaths": 5332,
-      "recovered": 35388
+      "deaths": 5666,
+      "recovered": 37325
     }
   },
   "Moldova": {
@@ -1011,9 +1011,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 66735,
+          "confirmed": 66862,
           "date": "2020-05-20",
-          "deaths": 2885,
+          "deaths": 2889,
           "recovered": 0
         }
       },
