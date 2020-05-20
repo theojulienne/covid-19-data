@@ -859,7 +859,7 @@ var covid19_dataset_top10_by_deaths = {
           78332,
           79411,
           80493,
-          80498
+          80536
         ],
         "deaths": [
           0,
