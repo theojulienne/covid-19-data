@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3081,
+          "confirmed": 3082,
           "date": "2020-05-20",
           "deaths": 47,
           "recovered": 2631
@@ -291,10 +291,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6716,
+          "confirmed": 6735,
           "date": "2020-05-20",
           "deaths": 128,
-          "recovered": 5584
+          "recovered": 5637
         }
       },
       "British Columbia": {
@@ -1143,9 +1143,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 11292,
+          "confirmed": 11484,
           "date": "2020-05-20",
-          "deaths": 647,
+          "deaths": 674,
           "recovered": 0
         }
       },
