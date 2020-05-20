@@ -117,10 +117,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 2259,
+      "confirmed": 2292,
       "date": "2020-05-20",
-      "deaths": 112,
-      "recovered": 646
+      "deaths": 116,
+      "recovered": 684
     }
   },
   "Cameroon": {
@@ -425,10 +425,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3556,
+      "confirmed": 3598,
       "date": "2020-05-20",
-      "deaths": 467,
-      "recovered": 1412
+      "deaths": 470,
+      "recovered": 1454
     }
   },
   "India": {
@@ -1309,7 +1309,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 2855,
+      "confirmed": 2880,
       "date": "2020-05-20",
       "deaths": 13,
       "recovered": 2338
