@@ -5665,7 +5665,7 @@ var covid19_dataset_country_aus = {
             317,
             317,
             317,
-            317
+            318
           ],
           "Metro South": [
             0,
