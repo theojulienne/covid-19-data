@@ -139,27 +139,27 @@ var covid19_dataset_latest_totals = {
     "AUS": {
       "back_1week": {
         "confirmed": 6966,
-        "current_hospitalized": 49,
+        "current_hospitalized": 47,
         "current_icu": 16,
         "deaths": 99,
         "recovered": 6233,
-        "tested": 854793
+        "tested": 877476
       },
       "back_2week": {
         "confirmed": 6849,
-        "current_hospitalized": 70,
-        "current_icu": 28,
-        "deaths": 97,
+        "current_hospitalized": 66,
+        "current_icu": 27,
+        "deaths": 98,
         "recovered": 5896,
-        "tested": 650052
+        "tested": 664779
       },
       "latest": {
         "confirmed": 7068,
-        "current_hospitalized": 45,
-        "current_icu": 12,
+        "current_hospitalized": 21,
+        "current_icu": 5,
         "deaths": 101,
         "recovered": 6414,
-        "tested": 1061744
+        "tested": 1082934
       },
       "states": {
         "ACT": {
@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 1,
           "deaths": 6,
           "recovered": 1039,
-          "tested": 155755
+          "tested": 158641
         },
         "SA": {
           "confirmed": 439,
@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 71264,
+        "confirmed": 72419,
         "deaths": 5115,
         "recovered": 33007
       },
       "back_2week": {
-        "confirmed": 61957,
+        "confirmed": 63215,
         "deaths": 4003,
         "recovered": 26030
       },
       "latest": {
-        "confirmed": 79411,
+        "confirmed": 80493,
         "deaths": 5960,
         "recovered": 39251
       },
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 55
         },
         "Ontario": {
-          "confirmed": 24286,
+          "confirmed": 24755,
           "deaths": 2019
         },
         "Prince Edward Island": {
