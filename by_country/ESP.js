@@ -484,7 +484,7 @@ var covid19_dataset_country_esp = {
       146446,
       146446,
       150376,
-      0
+      150376
     ]
   }
 };
