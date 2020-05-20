@@ -2814,17 +2814,17 @@
     "ROU": {
       "back_1week": {
         "confirmed": 15588,
-        "deaths": 982,
+        "deaths": 1002,
         "recovered": 7245
       },
       "back_2week": {
         "confirmed": 13512,
-        "deaths": 818,
+        "deaths": 841,
         "recovered": 5269
       },
       "latest": {
         "confirmed": 17036,
-        "deaths": 1120,
+        "deaths": 1137,
         "recovered": 9930
       }
     },
@@ -3187,17 +3187,17 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 3015,
+        "confirmed": 3017,
         "deaths": 56,
-        "recovered": 2796
+        "recovered": 2798
       },
       "back_2week": {
-        "confirmed": 2987,
+        "confirmed": 2988,
         "deaths": 54,
-        "recovered": 2740
+        "recovered": 2747
       },
       "latest": {
-        "confirmed": 3031,
+        "confirmed": 3033,
         "deaths": 56,
         "recovered": 2857
       }

@@ -767,7 +767,7 @@
     "live": {
       "confirmed": 17191,
       "date": "2020-05-20",
-      "deaths": 1137,
+      "deaths": 1141,
       "recovered": 10166
     }
   },
@@ -985,10 +985,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3033,
+      "confirmed": 3034,
       "date": "2020-05-20",
       "deaths": 56,
-      "recovered": 2857
+      "recovered": 2888
     }
   },
   "Turkey": {
