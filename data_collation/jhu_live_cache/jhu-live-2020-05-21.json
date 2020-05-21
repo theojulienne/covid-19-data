@@ -545,10 +545,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 2955,
+      "confirmed": 3100,
       "date": "2020-05-21",
-      "deaths": 147,
-      "recovered": 349
+      "deaths": 151,
+      "recovered": 355
     }
   },
   "Hungary": {
