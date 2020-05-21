@@ -120,7 +120,8 @@ var covid19_dataset_country_bih = {
     "2020-05-18",
     "2020-05-19",
     "2020-05-20",
-    "2020-05-21"
+    "2020-05-21",
+    "2020-05-22"
   ],
   "total": {
     "confirmed": [
@@ -242,8 +243,7 @@ var covid19_dataset_country_bih = {
       2267,
       2290,
       2304,
-      2321,
-      2338
+      2321
     ],
     "deaths": [
       0,
@@ -364,8 +364,7 @@ var covid19_dataset_country_bih = {
       129,
       133,
       133,
-      134,
-      136
+      134
     ],
     "recovered": [
       0,
@@ -486,8 +485,7 @@ var covid19_dataset_country_bih = {
       1355,
       1436,
       1464,
-      1522,
-      1557
+      1522
     ]
   }
 };
