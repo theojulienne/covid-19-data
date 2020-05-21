@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 5271,
+      "confirmed": 5606,
       "date": "2020-05-21",
-      "deaths": 67,
-      "recovered": 2419
+      "deaths": 70,
+      "recovered": 2581
     }
   },
   "Australia": {
@@ -415,10 +415,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34130,
+          "confirmed": 34175,
           "date": "2020-05-21",
-          "deaths": 1679,
-          "recovered": 30600
+          "deaths": 1680,
+          "recovered": 30800
         }
       },
       "Bayern": {
@@ -426,12 +426,12 @@
           "confirmed": 46084,
           "date": "2020-05-21",
           "deaths": 2353,
-          "recovered": 40750
+          "recovered": 41000
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 6552,
+          "confirmed": 6555,
           "date": "2020-05-21",
           "deaths": 186,
           "recovered": 5959
@@ -447,41 +447,41 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5045,
+          "confirmed": 5053,
           "date": "2020-05-21",
-          "deaths": 236,
+          "deaths": 239,
           "recovered": 4600
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 9483,
+          "confirmed": 9574,
           "date": "2020-05-21",
-          "deaths": 446,
-          "recovered": 8200
+          "deaths": 451,
+          "recovered": 8300
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11328,
+          "confirmed": 11362,
           "date": "2020-05-21",
-          "deaths": 565,
-          "recovered": 10000
+          "deaths": 566,
+          "recovered": 10100
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 36766,
+          "confirmed": 36912,
           "date": "2020-05-21",
-          "deaths": 1537,
-          "recovered": 32700
+          "deaths": 1546,
+          "recovered": 32900
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6539,
+          "confirmed": 6555,
           "date": "2020-05-21",
-          "deaths": 222,
+          "deaths": 224,
           "recovered": 5914
         }
       },
@@ -495,25 +495,25 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5173,
+          "confirmed": 5185,
           "date": "2020-05-21",
-          "deaths": 200,
+          "deaths": 201,
           "recovered": 4590
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 3014,
+          "confirmed": 3021,
           "date": "2020-05-21",
-          "deaths": 131,
-          "recovered": 2700
+          "deaths": 134,
+          "recovered": 2800
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2770,
+          "confirmed": 2796,
           "date": "2020-05-21",
-          "deaths": 149,
+          "deaths": 151,
           "recovered": 2340
         }
       }
@@ -900,7 +900,7 @@
       "confirmed": 19739,
       "date": "2020-05-21",
       "deaths": 962,
-      "recovered": 8183
+      "recovered": 8452
     }
   },
   "Portugal": {
@@ -923,7 +923,7 @@
     "live": {
       "confirmed": 17387,
       "date": "2020-05-21",
-      "deaths": 1147,
+      "deaths": 1151,
       "recovered": 10356
     }
   },
@@ -961,7 +961,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 29364,
+      "confirmed": 29812,
       "date": "2020-05-21",
       "deaths": 22,
       "recovered": 11207
