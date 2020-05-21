@@ -1393,10 +1393,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 19230,
+      "confirmed": 19706,
       "date": "2020-05-21",
-      "deaths": 564,
-      "recovered": 5955
+      "deaths": 579,
+      "recovered": 6227
     }
   },
   "United Arab Emirates": {
