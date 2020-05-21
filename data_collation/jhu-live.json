@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 32426,
+      "confirmed": 33371,
       "date": "2020-05-21",
-      "deaths": 179,
-      "recovered": 11415
+      "deaths": 185,
+      "recovered": 12057
     }
   },
   "Belgium": {
@@ -825,10 +825,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7133,
+      "confirmed": 7185,
       "date": "2020-05-21",
-      "deaths": 194,
-      "recovered": 4098
+      "deaths": 196,
+      "recovered": 4212
     }
   },
   "Netherlands": {
@@ -921,10 +921,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 17387,
+      "confirmed": 17585,
       "date": "2020-05-21",
       "deaths": 1151,
-      "recovered": 10356
+      "recovered": 10581
     }
   },
   "Russia": {
