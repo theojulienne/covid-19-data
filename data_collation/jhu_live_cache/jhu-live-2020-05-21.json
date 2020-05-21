@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 4481,
+      "confirmed": 4919,
       "date": "2020-05-21",
-      "deaths": 189,
-      "recovered": 533
+      "deaths": 199,
+      "recovered": 553
     }
   },
   "Brazil": {
@@ -307,7 +307,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 25192,
+          "confirmed": 25197,
           "date": "2020-05-21",
           "deaths": 2079,
           "recovered": 18190
@@ -1135,9 +1135,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 66694,
+          "confirmed": 66808,
           "date": "2020-05-21",
-          "deaths": 2947,
+          "deaths": 2955,
           "recovered": 0
         }
       },
@@ -1257,7 +1257,7 @@
         "live": {
           "confirmed": 4410,
           "date": "2020-05-21",
-          "deaths": 352,
+          "deaths": 350,
           "recovered": 0
         }
       },
