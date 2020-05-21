@@ -367,7 +367,8 @@ var covid19_dataset_country_sen = {
       25,
       26,
       30,
-      30
+      30,
+      32
     ],
     "recovered": [
       0,
