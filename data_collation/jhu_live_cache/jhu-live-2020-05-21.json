@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 7888,
+      "confirmed": 8039,
       "date": "2020-05-21",
       "deaths": 12,
-      "recovered": 3568
+      "recovered": 3715
     }
   },
   "Bangladesh": {
@@ -423,7 +423,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 46084,
+          "confirmed": 46268,
           "date": "2020-05-21",
           "deaths": 2353,
           "recovered": 41000
@@ -479,10 +479,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6555,
+          "confirmed": 6562,
           "date": "2020-05-21",
           "deaths": 224,
-          "recovered": 5914
+          "recovered": 5941
         }
       },
       "Saarland": {
@@ -495,10 +495,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5185,
+          "confirmed": 5194,
           "date": "2020-05-21",
-          "deaths": 201,
-          "recovered": 4590
+          "deaths": 202,
+          "recovered": 4620
         }
       },
       "Schleswig-Holstein": {
@@ -514,7 +514,7 @@
           "confirmed": 2796,
           "date": "2020-05-21",
           "deaths": 151,
-          "recovered": 2340
+          "recovered": 2390
         }
       }
     }
@@ -757,10 +757,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 17568,
+      "confirmed": 18609,
       "date": "2020-05-21",
-      "deaths": 124,
-      "recovered": 4885
+      "deaths": 129,
+      "recovered": 5205
     }
   },
   "Luxembourg": {
@@ -833,9 +833,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 44447,
+      "confirmed": 44700,
       "date": "2020-05-21",
-      "deaths": 5748,
+      "deaths": 5775,
       "recovered": 0
     }
   },
@@ -1093,9 +1093,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 31523,
+      "confirmed": 32172,
       "date": "2020-05-21",
-      "deaths": 3831,
+      "deaths": 3871,
       "recovered": 4971
     }
   },
@@ -1420,7 +1420,7 @@
       "confirmed": 2950,
       "date": "2020-05-21",
       "deaths": 13,
-      "recovered": 2372
+      "recovered": 2407
     }
   }
 }
