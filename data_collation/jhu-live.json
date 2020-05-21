@@ -35,9 +35,9 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3082,
+          "confirmed": 3084,
           "date": "2020-05-21",
-          "deaths": 47,
+          "deaths": 48,
           "recovered": 2648
         }
       }
@@ -291,10 +291,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6735,
+          "confirmed": 6768,
           "date": "2020-05-21",
-          "deaths": 128,
-          "recovered": 5637
+          "deaths": 132,
+          "recovered": 5728
         }
       },
       "British Columbia": {
@@ -307,9 +307,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 25568,
+          "confirmed": 25595,
           "date": "2020-05-21",
-          "deaths": 2103,
+          "deaths": 2106,
           "recovered": 18509
         }
       },
@@ -849,7 +849,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8301,
+      "confirmed": 8309,
       "date": "2020-05-21",
       "deaths": 235,
       "recovered": 32
@@ -1143,9 +1143,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 11484,
+          "confirmed": 11650,
           "date": "2020-05-21",
-          "deaths": 674,
+          "deaths": 677,
           "recovered": 0
         }
       },
@@ -1351,9 +1351,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 25794,
+          "confirmed": 25911,
           "date": "2020-05-21",
-          "deaths": 630,
+          "deaths": 633,
           "recovered": 0
         }
       },
