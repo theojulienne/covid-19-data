@@ -561,9 +561,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 112028,
+      "confirmed": 112442,
       "date": "2020-05-21",
-      "deaths": 3434,
+      "deaths": 3438,
       "recovered": 45422
     }
   },
@@ -733,15 +733,15 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16367,
+      "confirmed": 16385,
       "date": "2020-05-21",
-      "deaths": 768,
-      "recovered": 11564
+      "deaths": 771,
+      "recovered": 12286
     }
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 6969,
+      "confirmed": 7234,
       "date": "2020-05-21",
       "deaths": 35,
       "recovered": 3734
@@ -865,10 +865,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 45898,
+      "confirmed": 48091,
       "date": "2020-05-21",
-      "deaths": 985,
-      "recovered": 13101
+      "deaths": 1017,
+      "recovered": 14155
     }
   },
   "Panama": {
@@ -1085,10 +1085,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 2728,
+      "confirmed": 3138,
       "date": "2020-05-21",
-      "deaths": 111,
-      "recovered": 286
+      "deaths": 121,
+      "recovered": 309
     }
   },
   "Sweden": {
