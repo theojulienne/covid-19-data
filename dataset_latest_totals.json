@@ -154,7 +154,7 @@
         "tested": 722542
       },
       "latest": {
-        "confirmed": 7080,
+        "confirmed": 6500,
         "current_hospitalized": 19,
         "current_icu": 5,
         "deaths": 102,
@@ -212,12 +212,12 @@
           "tested": 22597
         },
         "VIC": {
-          "confirmed": 1573,
-          "current_hospitalized": 11,
+          "confirmed": 1000,
+          "current_hospitalized": 10,
           "current_icu": 5,
           "deaths": 18,
-          "recovered": 1454,
-          "tested": 358000
+          "recovered": 1465,
+          "tested": 367000
         },
         "WA": {
           "confirmed": 557,
@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 73568,
+        "confirmed": 74781,
         "deaths": 5425,
         "recovered": 35177
       },
       "back_2week": {
-        "confirmed": 64694,
+        "confirmed": 66201,
         "deaths": 4366,
         "recovered": 28184
       },
       "latest": {
-        "confirmed": 81575,
+        "confirmed": 82742,
         "deaths": 6150,
         "recovered": 40793
       },
@@ -623,7 +623,7 @@
           "deaths": 57
         },
         "Ontario": {
-          "confirmed": 25197,
+          "confirmed": 25595,
           "deaths": 2079
         },
         "Prince Edward Island": {
