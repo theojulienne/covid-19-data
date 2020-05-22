@@ -535,6 +535,14 @@
       "recovered": 1374
     }
   },
+  "Guatemala": {
+    "live": {
+      "confirmed": 2512,
+      "date": "2020-05-22",
+      "deaths": 48,
+      "recovered": 222
+    }
+  },
   "Guinea": {
     "live": {
       "confirmed": 3067,
@@ -733,10 +741,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16385,
+      "confirmed": 16424,
       "date": "2020-05-22",
-      "deaths": 771,
-      "recovered": 12286
+      "deaths": 777,
+      "recovered": 12672
     }
   },
   "Kazakhstan": {
@@ -744,15 +752,15 @@
       "confirmed": 7234,
       "date": "2020-05-22",
       "deaths": 35,
-      "recovered": 3777
+      "recovered": 3843
     }
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11122,
+      "confirmed": 11142,
       "date": "2020-05-22",
       "deaths": 264,
-      "recovered": 10135
+      "recovered": 10162
     }
   },
   "Kuwait": {
@@ -811,14 +819,6 @@
           "date": "2020-05-22",
           "deaths": 361,
           "recovered": 1796
-        }
-      },
-      "Veracruz": {
-        "live": {
-          "confirmed": 2430,
-          "date": "2020-05-22",
-          "deaths": 292,
-          "recovered": 1548
         }
       }
     }
@@ -1375,9 +1375,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 12946,
+          "confirmed": 13027,
           "date": "2020-05-22",
-          "deaths": 749,
+          "deaths": 755,
           "recovered": 0
         }
       },
