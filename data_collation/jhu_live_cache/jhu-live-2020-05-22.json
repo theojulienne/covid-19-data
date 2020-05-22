@@ -439,9 +439,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3224,
+          "confirmed": 3228,
           "date": "2020-05-22",
-          "deaths": 167,
+          "deaths": 168,
           "recovered": 2900
         }
       },
@@ -479,10 +479,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6566,
+          "confirmed": 6576,
           "date": "2020-05-22",
-          "deaths": 224,
-          "recovered": 5941
+          "deaths": 226,
+          "recovered": 5969
         }
       },
       "Saarland": {
@@ -569,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 119419,
+      "confirmed": 119524,
       "date": "2020-05-22",
-      "deaths": 3599,
-      "recovered": 48957
+      "deaths": 3600,
+      "recovered": 49026
     }
   },
   "Indonesia": {
@@ -765,10 +765,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 18609,
+      "confirmed": 19564,
       "date": "2020-05-22",
-      "deaths": 129,
-      "recovered": 5205
+      "deaths": 138,
+      "recovered": 5515
     }
   },
   "Luxembourg": {
@@ -953,10 +953,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 2812,
+      "confirmed": 2909,
       "date": "2020-05-22",
       "deaths": 33,
-      "recovered": 1251
+      "recovered": 1311
     }
   },
   "Serbia": {
