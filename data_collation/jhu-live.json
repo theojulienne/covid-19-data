@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 5606,
+      "confirmed": 5928,
       "date": "2020-05-22",
-      "deaths": 70,
-      "recovered": 2581
+      "deaths": 74,
+      "recovered": 2874
     }
   },
   "Australia": {
@@ -357,10 +357,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 8754,
+      "confirmed": 8757,
       "date": "2020-05-22",
       "deaths": 306,
-      "recovered": 5926
+      "recovered": 5932
     }
   },
   "Denmark": {
@@ -458,7 +458,7 @@
           "confirmed": 9656,
           "date": "2020-05-22",
           "deaths": 457,
-          "recovered": 8300
+          "recovered": 8400
         }
       },
       "Niedersachsen": {
@@ -466,7 +466,7 @@
           "confirmed": 11420,
           "date": "2020-05-22",
           "deaths": 570,
-          "recovered": 10100
+          "recovered": 10200
         }
       },
       "Nordrhein-Westfalen": {
@@ -474,7 +474,7 @@
           "confirmed": 37010,
           "date": "2020-05-22",
           "deaths": 1547,
-          "recovered": 32900
+          "recovered": 33100
         }
       },
       "Rheinland-Pfalz": {
@@ -908,7 +908,7 @@
       "confirmed": 20143,
       "date": "2020-05-22",
       "deaths": 972,
-      "recovered": 8452
+      "recovered": 8731
     }
   },
   "Portugal": {
@@ -1135,9 +1135,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 68446,
+          "confirmed": 68722,
           "date": "2020-05-22",
-          "deaths": 3034,
+          "deaths": 3050,
           "recovered": 0
         }
       },
