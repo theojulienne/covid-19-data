@@ -569,9 +569,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 118226,
+      "confirmed": 118501,
       "date": "2020-05-22",
-      "deaths": 3584,
+      "deaths": 3585,
       "recovered": 48553
     }
   },
@@ -749,7 +749,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 7234,
+      "confirmed": 7597,
       "date": "2020-05-22",
       "deaths": 35,
       "recovered": 3843
