@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3084,
+          "confirmed": 3086,
           "date": "2020-05-23",
           "deaths": 48,
-          "recovered": 2648
+          "recovered": 2653
         }
       }
     }
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 3204,
+      "confirmed": 3477,
       "date": "2020-05-23",
-      "deaths": 156,
-      "recovered": 397
+      "deaths": 167,
+      "recovered": 439
     }
   },
   "Hungary": {
@@ -749,7 +749,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 7597,
+      "confirmed": 7919,
       "date": "2020-05-23",
       "deaths": 35,
       "recovered": 4096
@@ -1391,9 +1391,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 13027,
+          "confirmed": 13126,
           "date": "2020-05-23",
-          "deaths": 755,
+          "deaths": 760,
           "recovered": 0
         }
       },
