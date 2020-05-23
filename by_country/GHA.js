@@ -498,7 +498,7 @@ var covid19_dataset_country_gha = {
       1898,
       1898,
       1951,
-      1976
+      1978
     ]
   }
 };
