@@ -561,10 +561,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3678,
+      "confirmed": 3713,
       "date": "2020-05-23",
-      "deaths": 476,
-      "recovered": 1587
+      "deaths": 482,
+      "recovered": 1655
     }
   },
   "India": {
@@ -1125,10 +1125,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3037,
+      "confirmed": 3040,
       "date": "2020-05-23",
       "deaths": 56,
-      "recovered": 2910
+      "recovered": 2916
     }
   },
   "Turkey": {
