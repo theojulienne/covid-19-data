@@ -122,7 +122,8 @@ var covid19_dataset_country_gin = {
     "2020-05-20",
     "2020-05-21",
     "2020-05-22",
-    "2020-05-23"
+    "2020-05-23",
+    "2020-05-24"
   ],
   "total": {
     "confirmed": [
@@ -369,7 +370,8 @@ var covid19_dataset_country_gin = {
       16,
       18,
       18,
-      18
+      18,
+      19
     ],
     "recovered": [
       0,
