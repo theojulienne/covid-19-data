@@ -5928,7 +5928,7 @@ var covid19_dataset_country_aus = {
             264,
             264,
             264,
-            264
+            266
           ],
           "North West": [
             0,
