@@ -867,7 +867,7 @@
     "live": {
       "confirmed": 7257,
       "date": "2020-05-23",
-      "deaths": 34,
+      "deaths": 35,
       "recovered": 1848
     }
   },
@@ -921,10 +921,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 40481,
+      "confirmed": 42213,
       "date": "2020-05-23",
-      "deaths": 19,
-      "recovered": 7893
+      "deaths": 21,
+      "recovered": 8513
     }
   },
   "Romania": {
@@ -1175,9 +1175,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 7893,
+          "confirmed": 7966,
           "date": "2020-05-23",
-          "deaths": 418,
+          "deaths": 427,
           "recovered": 0
         }
       },
@@ -1231,9 +1231,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 35378,
+          "confirmed": 36268,
           "date": "2020-05-23",
-          "deaths": 1678,
+          "deaths": 1712,
           "recovered": 0
         }
       },
@@ -1375,9 +1375,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 13049,
+          "confirmed": 13353,
           "date": "2020-05-23",
-          "deaths": 401,
+          "deaths": 410,
           "recovered": 0
         }
       },

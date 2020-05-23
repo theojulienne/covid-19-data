@@ -2627,17 +2627,17 @@
     "OMN": {
       "back_1week": {
         "confirmed": 4625,
-        "deaths": 18,
+        "deaths": 20,
         "recovered": 1350
       },
       "back_2week": {
         "confirmed": 3112,
-        "deaths": 15,
+        "deaths": 16,
         "recovered": 1025
       },
       "latest": {
         "confirmed": 6794,
-        "deaths": 31,
+        "deaths": 34,
         "recovered": 1821
       }
     },
@@ -2779,19 +2779,19 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 28272,
+        "confirmed": 29425,
         "deaths": 14,
-        "recovered": 3356
+        "recovered": 3546
       },
       "back_2week": {
-        "confirmed": 18890,
+        "confirmed": 20201,
         "deaths": 12,
-        "recovered": 2286
+        "recovered": 2370
       },
       "latest": {
-        "confirmed": 38651,
-        "deaths": 17,
-        "recovered": 7288
+        "confirmed": 40481,
+        "deaths": 19,
+        "recovered": 7893
       }
     },
     "RKS": {
