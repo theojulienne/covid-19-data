@@ -3340,19 +3340,19 @@
     },
     "UKR": {
       "back_1week": {
-        "confirmed": 16847,
-        "deaths": 456,
-        "recovered": 4143
+        "confirmed": 17330,
+        "deaths": 476,
+        "recovered": 4473
       },
       "back_2week": {
-        "confirmed": 13691,
-        "deaths": 340,
-        "recovered": 2396
+        "confirmed": 14195,
+        "deaths": 361,
+        "recovered": 2706
       },
       "latest": {
-        "confirmed": 19706,
-        "deaths": 579,
-        "recovered": 6227
+        "confirmed": 20148,
+        "deaths": 588,
+        "recovered": 6585
       }
     },
     "URY": {

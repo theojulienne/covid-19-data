@@ -1409,10 +1409,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 20148,
+      "confirmed": 20580,
       "date": "2020-05-23",
-      "deaths": 588,
-      "recovered": 6585
+      "deaths": 605,
+      "recovered": 6929
     }
   },
   "United Arab Emirates": {
