@@ -1151,9 +1151,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 67644,
+          "confirmed": 70324,
           "date": "2020-05-23",
-          "deaths": 2965,
+          "deaths": 3104,
           "recovered": 0
         }
       },
@@ -1199,7 +1199,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 15123,
+          "confirmed": 12627,
           "date": "2020-05-23",
           "deaths": 558,
           "recovered": 0
@@ -1223,9 +1223,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 3518,
+          "confirmed": 3525,
           "date": "2020-05-23",
-          "deaths": 92,
+          "deaths": 105,
           "recovered": 0
         }
       },
