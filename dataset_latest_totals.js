@@ -212,7 +212,7 @@ var covid19_dataset_latest_totals = {
           "tested": 23027
         },
         "VIC": {
-          "confirmed": 1000,
+          "confirmed": 997,
           "current_hospitalized": 10,
           "current_icu": 5,
           "deaths": 18,
@@ -1728,18 +1728,18 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "back_1week": {
-        "confirmed": 81997,
-        "deaths": 2649,
+        "confirmed": 85784,
+        "deaths": 2753,
         "recovered": 27969
       },
       "back_2week": {
-        "confirmed": 56351,
-        "deaths": 1889,
+        "confirmed": 59695,
+        "deaths": 1985,
         "recovered": 16776
       },
       "latest": {
-        "confirmed": 118226,
-        "deaths": 3584,
+        "confirmed": 124794,
+        "deaths": 3726,
         "recovered": 48553
       }
     },
@@ -2643,19 +2643,19 @@ var covid19_dataset_latest_totals = {
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 35788,
-        "deaths": 770,
-        "recovered": 9695
+        "confirmed": 38799,
+        "deaths": 834,
+        "recovered": 10880
       },
       "back_2week": {
-        "confirmed": 24644,
-        "deaths": 585,
-        "recovered": 6464
+        "confirmed": 26435,
+        "deaths": 599,
+        "recovered": 7530
       },
       "latest": {
-        "confirmed": 48091,
-        "deaths": 1017,
-        "recovered": 14155
+        "confirmed": 50694,
+        "deaths": 1067,
+        "recovered": 15201
       }
     },
     "PAN": {
@@ -3386,7 +3386,7 @@ var covid19_dataset_latest_totals = {
         "tested": 8109891
       },
       "latest": {
-        "confirmed": 1564383,
+        "confirmed": 1565328,
         "deaths": 88756,
         "recovered": 298219,
         "tested": 13014804
@@ -3674,7 +3674,7 @@ var covid19_dataset_latest_totals = {
           "tested": 360583
         },
         "TX": {
-          "confirmed": 51323,
+          "confirmed": 52268,
           "deaths": 1419,
           "recovered": 30341,
           "tested": 740181
@@ -3731,17 +3731,17 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2645,
+        "confirmed": 2686,
         "deaths": 11,
         "recovered": 2136
       },
       "back_2week": {
-        "confirmed": 2298,
+        "confirmed": 2325,
         "deaths": 10,
         "recovered": 1656
       },
       "latest": {
-        "confirmed": 2964,
+        "confirmed": 3028,
         "deaths": 13,
         "recovered": 2407
       }
