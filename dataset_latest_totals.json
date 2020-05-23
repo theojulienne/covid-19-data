@@ -2677,19 +2677,19 @@
     },
     "PER": {
       "back_1week": {
-        "confirmed": 80604,
-        "deaths": 2267,
-        "recovered": 25151
+        "confirmed": 84495,
+        "deaths": 2392,
+        "recovered": 27147
       },
       "back_2week": {
-        "confirmed": 58526,
-        "deaths": 1627,
-        "recovered": 18388
+        "confirmed": 61847,
+        "deaths": 1714,
+        "recovered": 19012
       },
       "latest": {
-        "confirmed": 108769,
-        "deaths": 3148,
-        "recovered": 43587
+        "confirmed": 111698,
+        "deaths": 3244,
+        "recovered": 44848
       }
     },
     "PHL": {
@@ -3833,18 +3833,18 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 12739,
-        "deaths": 238,
+        "confirmed": 13524,
+        "deaths": 247,
         "recovered": 5676
       },
       "back_2week": {
-        "confirmed": 8232,
-        "deaths": 161,
+        "confirmed": 8895,
+        "deaths": 178,
         "recovered": 3153
       },
       "latest": {
-        "confirmed": 19137,
-        "deaths": 369,
+        "confirmed": 20125,
+        "deaths": 397,
         "recovered": 8950
       }
     },
