@@ -176,8 +176,8 @@
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 50,
-          "recovered": 2648,
-          "tested": 402623
+          "recovered": 2653,
+          "tested": 411618
         },
         "NT": {
           "confirmed": 29,
@@ -2600,20 +2600,20 @@
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1497,
+        "confirmed": 1498,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1411,
-        "tested": 209613
+        "recovered": 1428,
+        "tested": 223937
       },
       "back_2week": {
-        "confirmed": 1490,
-        "current_hospitalized": 3,
+        "confirmed": 1492,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1347,
-        "tested": 175835
+        "recovered": 1368,
+        "tested": 183039
       },
       "latest": {
         "confirmed": 1504,
@@ -2621,7 +2621,7 @@
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1455,
-        "tested": 250246
+        "tested": 255850
       }
     },
     "OMN": {
@@ -3731,17 +3731,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 2686,
+        "confirmed": 2738,
         "deaths": 11,
         "recovered": 2158
       },
       "back_2week": {
-        "confirmed": 2325,
+        "confirmed": 2349,
         "deaths": 10,
         "recovered": 1775
       },
       "latest": {
-        "confirmed": 3028,
+        "confirmed": 3115,
         "deaths": 13,
         "recovered": 2492
       }

@@ -3922,6 +3922,7 @@ var covid19_dataset = {
                 36,
                 36,
                 37,
+                37,
                 37
               ],
               "10-19": [
@@ -4045,6 +4046,7 @@ var covid19_dataset = {
                 98,
                 98,
                 98,
+                99,
                 99,
                 99,
                 99
@@ -4172,7 +4174,8 @@ var covid19_dataset = {
                 652,
                 652,
                 652,
-                652
+                652,
+                653
               ],
               "30-39": [
                 0,
@@ -4297,6 +4300,7 @@ var covid19_dataset = {
                 511,
                 511,
                 511,
+                514,
                 514
               ],
               "40-49": [
@@ -4421,6 +4425,7 @@ var covid19_dataset = {
                 385,
                 386,
                 385,
+                387,
                 387,
                 387
               ],
@@ -4547,6 +4552,7 @@ var covid19_dataset = {
                 452,
                 453,
                 452,
+                451,
                 451
               ],
               "60-69": [
@@ -4662,6 +4668,7 @@ var covid19_dataset = {
                 478,
                 478,
                 478,
+                481,
                 481,
                 481,
                 481,
@@ -4797,6 +4804,7 @@ var covid19_dataset = {
                 321,
                 321,
                 321,
+                321,
                 321
               ],
               "80-89": [
@@ -4909,6 +4917,7 @@ var covid19_dataset = {
                 100,
                 101,
                 102,
+                103,
                 103,
                 103,
                 103,
@@ -5047,6 +5056,7 @@ var covid19_dataset = {
                 41,
                 41,
                 41,
+                41,
                 41
               ],
               "90-99": [
@@ -5144,6 +5154,7 @@ var covid19_dataset = {
                 37,
                 37,
                 37,
+                38,
                 38,
                 38,
                 38,
@@ -5308,6 +5319,7 @@ var covid19_dataset = {
                 71,
                 71,
                 72,
+                72,
                 72
               ],
               "Locally acquired - contact not identified": [
@@ -5433,6 +5445,7 @@ var covid19_dataset = {
                 368,
                 368,
                 370,
+                369,
                 369
               ],
               "Locally acquired - contact of a confirmed case": [
@@ -5554,6 +5567,7 @@ var covid19_dataset = {
                 863,
                 863,
                 863,
+                864,
                 864,
                 864,
                 864,
@@ -5683,7 +5697,8 @@ var covid19_dataset = {
                 1778,
                 1778,
                 1777,
-                1780
+                1780,
+                1781
               ],
               "Under investigation": [
                 0,
@@ -5805,6 +5820,7 @@ var covid19_dataset = {
                 1,
                 0,
                 0,
+                1,
                 1,
                 1,
                 1,
@@ -6062,6 +6078,7 @@ var covid19_dataset = {
               20,
               20,
               20,
+              null,
               null
             ],
             "current_icu": [
@@ -6187,6 +6204,7 @@ var covid19_dataset = {
               3,
               3,
               1,
+              null,
               null
             ],
             "current_ventilators": [
@@ -6260,6 +6278,7 @@ var covid19_dataset = {
               12,
               null,
               16,
+              null,
               null,
               null,
               null,
@@ -6437,6 +6456,7 @@ var covid19_dataset = {
               49,
               49,
               50,
+              50,
               50
             ],
             "recovered": [
@@ -6562,6 +6582,7 @@ var covid19_dataset = {
               2631,
               2648,
               2648,
+              2653,
               2653
             ],
             "tested": [
@@ -6687,7 +6708,8 @@ var covid19_dataset = {
               384278,
               393988,
               402623,
-              411618
+              411618,
+              418427
             ]
           }
         },
@@ -16044,7 +16066,7 @@ var covid19_dataset = {
           1140069,
           1170579,
           1187423,
-          1210575
+          1217384
         ]
       }
     },
@@ -86841,6 +86863,7 @@ var covid19_dataset = {
             null,
             null,
             null,
+            null,
             null
           ],
           "Locally acquired - contact of a confirmed case": [
@@ -86926,6 +86949,7 @@ var covid19_dataset = {
             539,
             577,
             625,
+            null,
             null,
             null,
             null,
@@ -87091,6 +87115,7 @@ var covid19_dataset = {
             null,
             null,
             null,
+            null,
             null
           ],
           "Under investigation": [
@@ -87176,6 +87201,7 @@ var covid19_dataset = {
             null,
             null,
             146,
+            null,
             null,
             null,
             null,
@@ -87344,6 +87370,7 @@ var covid19_dataset = {
           1503,
           1503,
           1504,
+          1504,
           1504
         ],
         "current_hospitalized": [
@@ -87469,6 +87496,7 @@ var covid19_dataset = {
           2,
           2,
           2,
+          2,
           2
         ],
         "current_icu": [
@@ -87573,6 +87601,7 @@ var covid19_dataset = {
           1,
           1,
           1,
+          0,
           0,
           0,
           0,
@@ -87719,6 +87748,7 @@ var covid19_dataset = {
           21,
           21,
           21,
+          21,
           21
         ],
         "recovered": [
@@ -87844,7 +87874,8 @@ var covid19_dataset = {
           1447,
           1452,
           1455,
-          1455
+          1455,
+          1456
         ],
         "tested": [
           0,
@@ -87969,7 +88000,8 @@ var covid19_dataset = {
           238725,
           244838,
           250246,
-          255850
+          255850,
+          259152
         ]
       }
     },
@@ -134407,7 +134439,8 @@ var covid19_dataset = {
           2939,
           2964,
           3028,
-          3115
+          3115,
+          3132
         ],
         "deaths": [
           0,
@@ -137946,7 +137979,7 @@ var covid19_dataset = {
       5084600,
       5193181,
       5292192,
-      5295553
+      5295570
     ],
     "deaths": [
       17,
@@ -138198,7 +138231,7 @@ var covid19_dataset = {
       1944146,
       2052023,
       2107531,
-      2108202
+      2108203
     ]
   }
 };
