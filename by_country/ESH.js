@@ -249,9 +249,11 @@ var covid19_dataset_country_esh = {
       6,
       6,
       6,
+      6,
       6
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -486,6 +488,7 @@ var covid19_dataset_country_esh = {
       5,
       5,
       5,
+      6,
       6,
       6,
       6,

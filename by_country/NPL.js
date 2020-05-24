@@ -249,7 +249,8 @@ var covid19_dataset_country_npl = {
       402,
       427,
       457,
-      516
+      516,
+      584
     ],
     "deaths": [
       0,
@@ -372,6 +373,7 @@ var covid19_dataset_country_npl = {
       2,
       2,
       2,
+      3,
       3,
       3
     ],
@@ -497,6 +499,7 @@ var covid19_dataset_country_npl = {
       37,
       45,
       49,
+      70,
       70
     ]
   }

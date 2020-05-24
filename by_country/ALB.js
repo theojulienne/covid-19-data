@@ -249,7 +249,8 @@ var covid19_dataset_country_alb = {
       949,
       964,
       969,
-      981
+      981,
+      989
     ],
     "deaths": [
       0,
@@ -351,6 +352,7 @@ var covid19_dataset_country_alb = {
       28,
       30,
       30,
+      31,
       31,
       31,
       31,
@@ -497,7 +499,8 @@ var covid19_dataset_country_alb = {
       742,
       758,
       771,
-      777
+      777,
+      783
     ]
   }
 };

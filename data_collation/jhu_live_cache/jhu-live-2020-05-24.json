@@ -35,7 +35,7 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3086,
+          "confirmed": 3087,
           "date": "2020-05-24",
           "deaths": 48,
           "recovered": 2653
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 5579,
+      "confirmed": 5915,
       "date": "2020-05-24",
-      "deaths": 230,
-      "recovered": 575
+      "deaths": 240,
+      "recovered": 609
     }
   },
   "Brazil": {
@@ -299,7 +299,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 26558,
+          "confirmed": 26560,
           "date": "2020-05-24",
           "deaths": 2157,
           "recovered": 19146
@@ -1085,10 +1085,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 3378,
+      "confirmed": 3628,
       "date": "2020-05-24",
-      "deaths": 137,
-      "recovered": 372
+      "deaths": 146,
+      "recovered": 424
     }
   },
   "Sweden": {
