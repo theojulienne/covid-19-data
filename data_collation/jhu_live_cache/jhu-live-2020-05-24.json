@@ -545,10 +545,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 3477,
+      "confirmed": 3743,
       "date": "2020-05-24",
-      "deaths": 167,
-      "recovered": 439
+      "deaths": 174,
+      "recovered": 455
     }
   },
   "Hungary": {
@@ -741,7 +741,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 7919,
+      "confirmed": 8322,
       "date": "2020-05-24",
       "deaths": 35,
       "recovered": 4214
