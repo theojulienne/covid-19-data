@@ -1143,9 +1143,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 71954,
+          "confirmed": 72213,
           "date": "2020-05-24",
-          "deaths": 3168,
+          "deaths": 3170,
           "recovered": 0
         }
       },
@@ -1159,9 +1159,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 35381,
+          "confirmed": 35705,
           "date": "2020-05-24",
-          "deaths": 3274,
+          "deaths": 3293,
           "recovered": 0
         }
       },
@@ -1199,9 +1199,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 95269,
+          "confirmed": 97447,
           "date": "2020-05-24",
-          "deaths": 4244,
+          "deaths": 4303,
           "recovered": 0
         }
       },
@@ -1239,7 +1239,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 88394,
+          "confirmed": 89396,
           "date": "2020-05-24",
           "deaths": 6032,
           "recovered": 0
