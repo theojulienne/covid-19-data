@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 9998,
+      "confirmed": 10582,
       "date": "2020-05-24",
-      "deaths": 216,
-      "recovered": 1040
+      "deaths": 218,
+      "recovered": 1075
     }
   },
   "Algeria": {
@@ -410,7 +410,7 @@
           "confirmed": 34399,
           "date": "2020-05-24",
           "deaths": 1697,
-          "recovered": 31100
+          "recovered": 31200
         }
       },
       "Bayern": {
@@ -455,7 +455,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11529,
+          "confirmed": 11578,
           "date": "2020-05-24",
           "deaths": 574,
           "recovered": 10200
@@ -463,15 +463,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 37139,
+          "confirmed": 37223,
           "date": "2020-05-24",
-          "deaths": 1555,
-          "recovered": 33300
+          "deaths": 1563,
+          "recovered": 33400
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6586,
+          "confirmed": 6590,
           "date": "2020-05-24",
           "deaths": 227,
           "recovered": 5996
@@ -487,7 +487,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5219,
+          "confirmed": 5221,
           "date": "2020-05-24",
           "deaths": 204,
           "recovered": 4700
@@ -497,13 +497,13 @@
         "live": {
           "confirmed": 3062,
           "date": "2020-05-24",
-          "deaths": 136,
+          "deaths": 137,
           "recovered": 2800
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2841,
+          "confirmed": 2857,
           "date": "2020-05-24",
           "deaths": 152,
           "recovered": 2440
@@ -897,17 +897,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 13777,
+      "confirmed": 14035,
       "date": "2020-05-24",
-      "deaths": 863,
-      "recovered": 3177
+      "deaths": 868,
+      "recovered": 3249
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 20931,
+      "confirmed": 21236,
       "date": "2020-05-24",
-      "deaths": 993,
+      "deaths": 995,
       "recovered": 9194
     }
   },
@@ -931,16 +931,16 @@
     "live": {
       "confirmed": 17857,
       "date": "2020-05-24",
-      "deaths": 1176,
+      "deaths": 1179,
       "recovered": 11187
     }
   },
   "Russia": {
     "live": {
-      "confirmed": 335882,
+      "confirmed": 344481,
       "date": "2020-05-24",
-      "deaths": 3388,
-      "recovered": 107936
+      "deaths": 3541,
+      "recovered": 113299
     }
   },
   "Saudi Arabia": {
@@ -969,7 +969,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 31068,
+      "confirmed": 31616,
       "date": "2020-05-24",
       "deaths": 23,
       "recovered": 13882
