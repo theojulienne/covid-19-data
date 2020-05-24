@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 3982,
+      "confirmed": 4122,
       "date": "2020-05-24",
       "deaths": 49,
-      "recovered": 2506
+      "recovered": 2607
     }
   },
   "Bahrain": {
@@ -357,10 +357,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 11289,
+      "confirmed": 11360,
       "date": "2020-05-24",
-      "deaths": 561,
-      "recovered": 9836
+      "deaths": 562,
+      "recovered": 9900
     }
   },
   "Dominican Republic": {
@@ -431,7 +431,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3232,
+          "confirmed": 3237,
           "date": "2020-05-24",
           "deaths": 168,
           "recovered": 2900
@@ -471,10 +471,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6590,
+          "confirmed": 6592,
           "date": "2020-05-24",
-          "deaths": 227,
-          "recovered": 5996
+          "deaths": 228,
+          "recovered": 6023
         }
       },
       "Saarland": {
@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 132674,
+      "confirmed": 132755,
       "date": "2020-05-24",
       "deaths": 3899,
-      "recovered": 54729
+      "recovered": 54819
     }
   },
   "Indonesia": {
@@ -841,9 +841,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 45064,
+      "confirmed": 45236,
       "date": "2020-05-24",
-      "deaths": 5811,
+      "deaths": 5822,
       "recovered": 0
     }
   },
@@ -913,9 +913,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 30471,
+      "confirmed": 30623,
       "date": "2020-05-24",
-      "deaths": 1302,
+      "deaths": 1316,
       "recovered": 7705
     }
   },
@@ -1093,9 +1093,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 33188,
+      "confirmed": 33459,
       "date": "2020-05-24",
-      "deaths": 3992,
+      "deaths": 3998,
       "recovered": 4971
     }
   },
@@ -1103,16 +1103,16 @@
     "live": {
       "confirmed": 30736,
       "date": "2020-05-24",
-      "deaths": 1905,
+      "deaths": 1906,
       "recovered": 28000
     }
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 2738,
+      "confirmed": 2929,
       "date": "2020-05-24",
-      "deaths": 44,
-      "recovered": 1223
+      "deaths": 46,
+      "recovered": 1301
     }
   },
   "Thailand": {
@@ -1425,10 +1425,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3132,
+      "confirmed": 3150,
       "date": "2020-05-24",
       "deaths": 13,
-      "recovered": 2532
+      "recovered": 2565
     }
   }
 }
