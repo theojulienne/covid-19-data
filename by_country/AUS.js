@@ -4715,7 +4715,7 @@ var covid19_dataset_country_aus = {
             35,
             35,
             35,
-            35
+            36
           ],
           "Central Qld": [
             0,
