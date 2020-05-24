@@ -249,8 +249,7 @@ var covid19_dataset_country_nga = {
       6401,
       6677,
       7016,
-      7261,
-      7526
+      7261
     ],
     "deaths": [
       0,
@@ -498,8 +497,7 @@ var covid19_dataset_country_nga = {
       1734,
       1840,
       1907,
-      2007,
-      2174
+      2007
     ]
   }
 };
