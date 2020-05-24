@@ -4024,7 +4024,8 @@ var covid19_dataset_top10 = {
     "2020-05-21",
     "2020-05-22",
     "2020-05-23",
-    "2020-05-24"
+    "2020-05-24",
+    "2020-05-25"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
