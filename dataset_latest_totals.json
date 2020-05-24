@@ -2677,19 +2677,19 @@
     },
     "PER": {
       "back_1week": {
-        "confirmed": 84495,
-        "deaths": 2392,
-        "recovered": 27147
+        "confirmed": 88541,
+        "deaths": 2523,
+        "recovered": 28272
       },
       "back_2week": {
-        "confirmed": 61847,
-        "deaths": 1714,
-        "recovered": 19012
+        "confirmed": 65015,
+        "deaths": 1814,
+        "recovered": 20246
       },
       "latest": {
-        "confirmed": 111698,
-        "deaths": 3244,
-        "recovered": 44848
+        "confirmed": 115754,
+        "deaths": 3373,
+        "recovered": 47915
       }
     },
     "PHL": {
