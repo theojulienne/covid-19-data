@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 131423,
+      "confirmed": 131920,
       "date": "2020-05-24",
-      "deaths": 3868,
-      "recovered": 54385
+      "deaths": 3869,
+      "recovered": 54441
     }
   },
   "Indonesia": {
