@@ -299,7 +299,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 27073,
+          "confirmed": 27257,
           "date": "2020-05-25",
           "deaths": 2202,
           "recovered": 19698
@@ -307,9 +307,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 47420,
+          "confirmed": 47993,
           "date": "2020-05-25",
-          "deaths": 3985,
+          "deaths": 4070,
           "recovered": 14654
         }
       }
@@ -969,10 +969,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 22583,
+      "confirmed": 23615,
       "date": "2020-05-25",
-      "deaths": 429,
-      "recovered": 11100
+      "deaths": 481,
+      "recovered": 11917
     }
   },
   "Spain": {
@@ -1191,9 +1191,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 97447,
+          "confirmed": 98976,
           "date": "2020-05-25",
-          "deaths": 4303,
+          "deaths": 4324,
           "recovered": 0
         }
       },
@@ -1241,7 +1241,7 @@
         "live": {
           "confirmed": 41246,
           "date": "2020-05-25",
-          "deaths": 4224,
+          "deaths": 4229,
           "recovered": 0
         }
       },
@@ -1359,7 +1359,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 4515,
+          "confirmed": 4583,
           "date": "2020-05-25",
           "deaths": 67,
           "recovered": 0
@@ -1383,7 +1383,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6185,
+          "confirmed": 6352,
           "date": "2020-05-25",
           "deaths": 276,
           "recovered": 0
