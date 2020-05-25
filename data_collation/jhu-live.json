@@ -553,15 +553,15 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3741,
+      "confirmed": 3756,
       "date": "2020-05-25",
-      "deaths": 486,
-      "recovered": 1690
+      "deaths": 491,
+      "recovered": 1711
     }
   },
   "India": {
     "live": {
-      "confirmed": 138845,
+      "confirmed": 138917,
       "date": "2020-05-25",
       "deaths": 4024,
       "recovered": 57721
@@ -873,10 +873,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 54601,
+      "confirmed": 56349,
       "date": "2020-05-25",
-      "deaths": 1133,
-      "recovered": 17198
+      "deaths": 1167,
+      "recovered": 17482
     }
   },
   "Panama": {
@@ -1117,10 +1117,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3040,
+      "confirmed": 3042,
       "date": "2020-05-25",
-      "deaths": 56,
-      "recovered": 2921
+      "deaths": 57,
+      "recovered": 2928
     }
   },
   "Turkey": {
