@@ -177,7 +177,7 @@
           "current_ventilators": 16,
           "deaths": 50,
           "recovered": 2653,
-          "tested": 411618
+          "tested": 418427
         },
         "NT": {
           "confirmed": 29,
@@ -188,12 +188,12 @@
           "tested": 6809
         },
         "QLD": {
-          "confirmed": 1060,
+          "confirmed": 1061,
           "current_hospitalized": 4,
           "current_icu": 1,
           "deaths": 6,
           "recovered": 1041,
-          "tested": 172212
+          "tested": 173864
         },
         "SA": {
           "confirmed": 439,
