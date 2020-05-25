@@ -391,8 +391,8 @@
     "live": {
       "confirmed": 6599,
       "date": "2020-05-25",
-      "deaths": 307,
-      "recovered": 4800
+      "deaths": 308,
+      "recovered": 5100
     }
   },
   "France": {
@@ -431,7 +431,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3237,
+          "confirmed": 3238,
           "date": "2020-05-25",
           "deaths": 168,
           "recovered": 3000
@@ -474,7 +474,7 @@
           "confirmed": 6596,
           "date": "2020-05-25",
           "deaths": 228,
-          "recovered": 6023
+          "recovered": 6045
         }
       },
       "Saarland": {
@@ -744,7 +744,7 @@
       "confirmed": 8531,
       "date": "2020-05-25",
       "deaths": 35,
-      "recovered": 4352
+      "recovered": 4400
     }
   },
   "Korea, South": {
@@ -827,8 +827,8 @@
     "live": {
       "confirmed": 7093,
       "date": "2020-05-25",
-      "deaths": 250,
-      "recovered": 3713
+      "deaths": 256,
+      "recovered": 3802
     }
   },
   "Morocco": {
@@ -931,7 +931,7 @@
     "live": {
       "confirmed": 18283,
       "date": "2020-05-25",
-      "deaths": 1193,
+      "deaths": 1197,
       "recovered": 11630
     }
   },
@@ -953,10 +953,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 3047,
+      "confirmed": 3130,
       "date": "2020-05-25",
       "deaths": 35,
-      "recovered": 1456
+      "recovered": 1515
     }
   },
   "Serbia": {
@@ -1101,9 +1101,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30736,
+      "confirmed": 30746,
       "date": "2020-05-25",
-      "deaths": 1906,
+      "deaths": 1907,
       "recovered": 28100
     }
   },
