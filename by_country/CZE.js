@@ -124,7 +124,8 @@ var covid19_dataset_country_cze = {
     "2020-05-22",
     "2020-05-23",
     "2020-05-24",
-    "2020-05-25"
+    "2020-05-25",
+    "2020-05-26"
   ],
   "total": {
     "confirmed": [
@@ -251,7 +252,7 @@ var covid19_dataset_country_cze = {
       8754,
       8813,
       8890,
-      8932
+      8955
     ],
     "deaths": [
       0,
@@ -503,7 +504,7 @@ var covid19_dataset_country_cze = {
       5926,
       6025,
       6044,
-      6063
+      6078
     ]
   }
 };
