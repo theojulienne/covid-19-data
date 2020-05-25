@@ -251,8 +251,7 @@ var covid19_dataset_country_dom = {
       13477,
       13657,
       13989,
-      14422,
-      14801
+      14422
     ],
     "deaths": [
       0,
@@ -502,8 +501,7 @@ var covid19_dataset_country_dom = {
       7142,
       7366,
       7572,
-      7854,
-      8133
+      7854
     ]
   }
 };
