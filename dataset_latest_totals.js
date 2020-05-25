@@ -1728,19 +1728,19 @@ var covid19_dataset_latest_totals = {
     },
     "IND": {
       "back_1week": {
-        "confirmed": 90648,
+        "confirmed": 95698,
         "deaths": 2871,
-        "recovered": 34224
+        "recovered": 36795
       },
       "back_2week": {
-        "confirmed": 62808,
+        "confirmed": 67161,
         "deaths": 2101,
-        "recovered": 19301
+        "recovered": 20969
       },
       "latest": {
-        "confirmed": 131423,
+        "confirmed": 138536,
         "deaths": 3868,
-        "recovered": 54385
+        "recovered": 57692
       }
     },
     "IRL": {

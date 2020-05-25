@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 138536,
+      "confirmed": 138845,
       "date": "2020-05-25",
       "deaths": 4024,
-      "recovered": 57692
+      "recovered": 57721
     }
   },
   "Indonesia": {
@@ -1143,9 +1143,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 73205,
+          "confirmed": 73364,
           "date": "2020-05-25",
-          "deaths": 3184,
+          "deaths": 3186,
           "recovered": 0
         }
       },
