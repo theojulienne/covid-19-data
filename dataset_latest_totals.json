@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 4283,
-        "deaths": 55,
-        "recovered": 1791
+        "confirmed": 4472,
+        "deaths": 60,
+        "recovered": 1925
       },
       "back_2week": {
-        "confirmed": 3175,
-        "deaths": 44,
-        "recovered": 1267
+        "confirmed": 3313,
+        "deaths": 45,
+        "recovered": 1325
       },
       "latest": {
-        "confirmed": 6302,
-        "deaths": 77,
-        "recovered": 2936
+        "confirmed": 6661,
+        "deaths": 81,
+        "recovered": 3064
       }
     },
     "ATG": {
@@ -2730,17 +2730,17 @@
       "back_1week": {
         "confirmed": 18257,
         "deaths": 915,
-        "recovered": 7175
+        "recovered": 7451
       },
       "back_2week": {
         "confirmed": 15651,
         "deaths": 785,
-        "recovered": 5437
+        "recovered": 5698
       },
       "latest": {
         "confirmed": 20931,
         "deaths": 993,
-        "recovered": 8977
+        "recovered": 9194
       }
     },
     "PRT": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 27356,
+        "confirmed": 28038,
         "deaths": 22,
         "recovered": 8342
       },
       "back_2week": {
-        "confirmed": 22460,
+        "confirmed": 23336,
         "deaths": 20,
         "recovered": 2296
       },
       "latest": {
-        "confirmed": 31068,
+        "confirmed": 31616,
         "deaths": 23,
         "recovered": 13882
       }
@@ -3340,19 +3340,19 @@
     },
     "UKR": {
       "back_1week": {
-        "confirmed": 17858,
-        "deaths": 497,
-        "recovered": 4906
+        "confirmed": 18291,
+        "deaths": 514,
+        "recovered": 5116
       },
       "back_2week": {
-        "confirmed": 14710,
-        "deaths": 376,
-        "recovered": 2909
+        "confirmed": 15232,
+        "deaths": 391,
+        "recovered": 3060
       },
       "latest": {
-        "confirmed": 20580,
-        "deaths": 605,
-        "recovered": 6929
+        "confirmed": 20986,
+        "deaths": 617,
+        "recovered": 7108
       }
     },
     "URY": {
