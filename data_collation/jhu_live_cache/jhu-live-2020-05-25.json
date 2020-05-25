@@ -561,7 +561,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 138917,
+      "confirmed": 139049,
       "date": "2020-05-25",
       "deaths": 4024,
       "recovered": 57721
@@ -601,10 +601,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16717,
+      "confirmed": 16720,
       "date": "2020-05-25",
-      "deaths": 279,
-      "recovered": 14153
+      "deaths": 280,
+      "recovered": 14203
     }
   },
   "Italy": {
@@ -1425,7 +1425,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3164,
+      "confirmed": 3180,
       "date": "2020-05-25",
       "deaths": 13,
       "recovered": 2565
