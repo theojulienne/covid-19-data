@@ -310,7 +310,7 @@
           "confirmed": 47420,
           "date": "2020-05-25",
           "deaths": 3985,
-          "recovered": 14331
+          "recovered": 14654
         }
       }
     }
@@ -828,7 +828,7 @@
       "confirmed": 7532,
       "date": "2020-05-25",
       "deaths": 200,
-      "recovered": 4737
+      "recovered": 4774
     }
   },
   "Netherlands": {
@@ -1239,9 +1239,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 41147,
+          "confirmed": 41246,
           "date": "2020-05-25",
-          "deaths": 4223,
+          "deaths": 4224,
           "recovered": 0
         }
       },
@@ -1303,9 +1303,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11732,
+          "confirmed": 11892,
           "date": "2020-05-25",
-          "deaths": 458,
+          "deaths": 475,
           "recovered": 0
         }
       },
