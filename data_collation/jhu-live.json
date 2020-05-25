@@ -415,10 +415,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 46505,
+          "confirmed": 46642,
           "date": "2020-05-25",
-          "deaths": 2391,
-          "recovered": 41740
+          "deaths": 2402,
+          "recovered": 41850
         }
       },
       "Berlin": {
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 11578,
           "date": "2020-05-25",
-          "deaths": 574,
+          "deaths": 576,
           "recovered": 10300
         }
       },
@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 140172,
+      "confirmed": 141228,
       "date": "2020-05-25",
-      "deaths": 4041,
-      "recovered": 58185
+      "deaths": 4057,
+      "recovered": 58727
     }
   },
   "Indonesia": {
@@ -825,9 +825,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 7093,
+      "confirmed": 7147,
       "date": "2020-05-25",
-      "deaths": 256,
+      "deaths": 261,
       "recovered": 3802
     }
   },
@@ -931,7 +931,7 @@
     "live": {
       "confirmed": 18283,
       "date": "2020-05-25",
-      "deaths": 1197,
+      "deaths": 1202,
       "recovered": 11630
     }
   },
@@ -1103,7 +1103,7 @@
     "live": {
       "confirmed": 30746,
       "date": "2020-05-25",
-      "deaths": 1907,
+      "deaths": 1913,
       "recovered": 28100
     }
   },
@@ -1231,9 +1231,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 36905,
+          "confirmed": 37558,
           "date": "2020-05-25",
-          "deaths": 1732,
+          "deaths": 1757,
           "recovered": 0
         }
       },
@@ -1375,9 +1375,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 13457,
+          "confirmed": 14184,
           "date": "2020-05-25",
-          "deaths": 411,
+          "deaths": 425,
           "recovered": 0
         }
       },
