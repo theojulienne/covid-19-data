@@ -125,6 +125,7 @@ var covid19_dataset_country_nld = {
           101,
           101,
           101,
+          101,
           101
         ],
         "deaths": [
@@ -234,6 +235,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3,
           3,
@@ -375,6 +377,7 @@ var covid19_dataset_country_nld = {
           95,
           95,
           95,
+          95,
           95
         ]
       }
@@ -504,9 +507,11 @@ var covid19_dataset_country_nld = {
           6,
           6,
           6,
+          6,
           6
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -754,6 +759,7 @@ var covid19_dataset_country_nld = {
           6,
           6,
           6,
+          6,
           6
         ]
       }
@@ -883,6 +889,7 @@ var covid19_dataset_country_nld = {
           16,
           16,
           16,
+          17,
           17
         ],
         "deaths": [
@@ -943,6 +950,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -1133,6 +1141,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          14,
           14
         ]
       }
@@ -1262,6 +1271,7 @@ var covid19_dataset_country_nld = {
           77,
           77,
           77,
+          77,
           77
         ],
         "deaths": [
@@ -1373,6 +1383,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          15,
           15,
           15,
           15,
@@ -1511,6 +1522,7 @@ var covid19_dataset_country_nld = {
           54,
           54,
           54,
+          59,
           59,
           59
         ]
@@ -1769,7 +1781,8 @@ var covid19_dataset_country_nld = {
       44447,
       44700,
       44888,
-      45064
+      45064,
+      45236
     ],
     "deaths": [
       0,
@@ -1894,7 +1907,8 @@ var covid19_dataset_country_nld = {
       5748,
       5775,
       5788,
-      5811
+      5811,
+      5822
     ],
     "recovered": [
       0,
@@ -1987,6 +2001,7 @@ var covid19_dataset_country_nld = {
       250,
       250,
       250,
+      0,
       0,
       0,
       0,
