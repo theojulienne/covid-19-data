@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 3424,
+      "confirmed": 3760,
       "date": "2020-05-26",
-      "deaths": 58,
-      "recovered": 258
+      "deaths": 59,
+      "recovered": 274
     }
   },
   "Guinea": {
@@ -741,7 +741,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 8531,
+      "confirmed": 8969,
       "date": "2020-05-26",
       "deaths": 35,
       "recovered": 4515

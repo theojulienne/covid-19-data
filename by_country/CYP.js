@@ -253,7 +253,8 @@ var covid19_dataset_country_cyp = {
       923,
       927,
       927,
-      935
+      935,
+      937
     ],
     "deaths": [
       0,
@@ -368,6 +369,7 @@ var covid19_dataset_country_cyp = {
       16,
       16,
       16,
+      17,
       17,
       17,
       17,
@@ -504,6 +506,7 @@ var covid19_dataset_country_cyp = {
       516,
       561,
       561,
+      594,
       594,
       594
     ]
