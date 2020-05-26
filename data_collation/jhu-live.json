@@ -913,9 +913,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 21631,
+      "confirmed": 21867,
       "date": "2020-05-26",
-      "deaths": 1007,
+      "deaths": 1013,
       "recovered": 10020
     }
   },
@@ -945,10 +945,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 353427,
+      "confirmed": 362342,
       "date": "2020-05-26",
-      "deaths": 3633,
-      "recovered": 118798
+      "deaths": 3807,
+      "recovered": 131129
     }
   },
   "Saudi Arabia": {
