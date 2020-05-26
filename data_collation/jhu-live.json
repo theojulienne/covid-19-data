@@ -307,18 +307,18 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 27332,
+          "confirmed": 27347,
           "date": "2020-05-26",
-          "deaths": 2210,
+          "deaths": 2211,
           "recovered": 19958
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 47993,
+          "confirmed": 48607,
           "date": "2020-05-26",
-          "deaths": 4070,
-          "recovered": 14654
+          "deaths": 4140,
+          "recovered": 14999
         }
       }
     }
@@ -415,9 +415,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34466,
+          "confirmed": 34495,
           "date": "2020-05-26",
-          "deaths": 1707,
+          "deaths": 1726,
           "recovered": 31400
         }
       },
@@ -569,7 +569,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 150739,
+      "confirmed": 150762,
       "date": "2020-05-26",
       "deaths": 4349,
       "recovered": 64272
@@ -743,8 +743,8 @@
     "live": {
       "confirmed": 8969,
       "date": "2020-05-26",
-      "deaths": 35,
-      "recovered": 4560
+      "deaths": 37,
+      "recovered": 4613
     }
   },
   "Korea, South": {
@@ -841,10 +841,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7556,
+      "confirmed": 7577,
       "date": "2020-05-26",
       "deaths": 202,
-      "recovered": 4841
+      "recovered": 4881
     }
   },
   "Netherlands": {
@@ -1305,7 +1305,7 @@
         "live": {
           "confirmed": 347226,
           "date": "2020-05-26",
-          "deaths": 28403,
+          "deaths": 28476,
           "recovered": 0
         }
       },
@@ -1319,9 +1319,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 9273,
+          "confirmed": 9474,
           "date": "2020-05-26",
-          "deaths": 454,
+          "deaths": 460,
           "recovered": 0
         }
       },
@@ -1433,9 +1433,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3281,
+      "confirmed": 3290,
       "date": "2020-05-26",
-      "deaths": 13,
+      "deaths": 14,
       "recovered": 2636
     }
   }
