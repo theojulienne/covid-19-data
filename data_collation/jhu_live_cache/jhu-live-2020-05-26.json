@@ -569,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 146498,
+      "confirmed": 147144,
       "date": "2020-05-26",
-      "deaths": 4188,
-      "recovered": 61312
+      "deaths": 4197,
+      "recovered": 61923
     }
   },
   "Indonesia": {
@@ -1183,7 +1183,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 8225,
+          "confirmed": 8334,
           "date": "2020-05-26",
           "deaths": 440,
           "recovered": 0
@@ -1223,7 +1223,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 6425,
+          "confirmed": 6453,
           "date": "2020-05-26",
           "deaths": 133,
           "recovered": 0
@@ -1239,9 +1239,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 37558,
+          "confirmed": 37999,
           "date": "2020-05-26",
-          "deaths": 1757,
+          "deaths": 1780,
           "recovered": 0
         }
       },
@@ -1383,9 +1383,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14184,
+          "confirmed": 14831,
           "date": "2020-05-26",
-          "deaths": 425,
+          "deaths": 436,
           "recovered": 0
         }
       },
@@ -1425,9 +1425,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 261184,
+      "confirmed": 265227,
       "date": "2020-05-26",
-      "deaths": 36914,
+      "deaths": 37048,
       "recovered": 0
     }
   },

@@ -1404,18 +1404,18 @@
     },
     "GBR": {
       "back_1week": {
-        "confirmed": 243695,
-        "deaths": 34636,
+        "confirmed": 246406,
+        "deaths": 34796,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 219183,
-        "deaths": 31855,
+        "confirmed": 223060,
+        "deaths": 32065,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 259559,
-        "deaths": 36793,
+        "confirmed": 261184,
+        "deaths": 36914,
         "recovered": 0
       },
       "states": {
