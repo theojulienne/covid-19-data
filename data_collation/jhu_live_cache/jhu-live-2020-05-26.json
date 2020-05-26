@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 11173,
+      "confirmed": 11831,
       "date": "2020-05-26",
-      "deaths": 219,
-      "recovered": 1097
+      "deaths": 220,
+      "recovered": 1128
     }
   },
   "Algeria": {
@@ -289,10 +289,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 4890,
+      "confirmed": 5044,
       "date": "2020-05-26",
-      "deaths": 165,
-      "recovered": 1865
+      "deaths": 171,
+      "recovered": 1917
     }
   },
   "Canada": {
@@ -561,10 +561,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3756,
+      "confirmed": 3771,
       "date": "2020-05-26",
-      "deaths": 491,
-      "recovered": 1711
+      "deaths": 499,
+      "recovered": 1836
     }
   },
   "India": {
@@ -1125,10 +1125,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3042,
+      "confirmed": 3045,
       "date": "2020-05-26",
       "deaths": 57,
-      "recovered": 2928
+      "recovered": 2929
     }
   },
   "Turkey": {
@@ -1409,10 +1409,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 21245,
+      "confirmed": 21584,
       "date": "2020-05-26",
-      "deaths": 623,
-      "recovered": 7234
+      "deaths": 644,
+      "recovered": 7575
     }
   },
   "United Arab Emirates": {
@@ -1433,7 +1433,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3189,
+      "confirmed": 3261,
       "date": "2020-05-26",
       "deaths": 13,
       "recovered": 2607
