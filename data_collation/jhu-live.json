@@ -307,9 +307,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 27597,
+          "confirmed": 27624,
           "date": "2020-05-26",
-          "deaths": 2229,
+          "deaths": 2235,
           "recovered": 19958
         }
       },
@@ -733,10 +733,10 @@
   },
   "Japan": {
     "live": {
-      "confirmed": 16581,
+      "confirmed": 16623,
       "date": "2020-05-26",
-      "deaths": 830,
-      "recovered": 13612
+      "deaths": 846,
+      "recovered": 13810
     }
   },
   "Kazakhstan": {
@@ -1249,7 +1249,7 @@
         "live": {
           "confirmed": 90385,
           "date": "2020-05-26",
-          "deaths": 6136,
+          "deaths": 6190,
           "recovered": 0
         }
       },
@@ -1367,9 +1367,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 27817,
+          "confirmed": 28189,
           "date": "2020-05-26",
-          "deaths": 660,
+          "deaths": 661,
           "recovered": 0
         }
       },
