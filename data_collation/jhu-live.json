@@ -357,7 +357,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9002,
+      "confirmed": 9004,
       "date": "2020-05-26",
       "deaths": 317,
       "recovered": 6182
@@ -365,10 +365,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 11387,
+      "confirmed": 11428,
       "date": "2020-05-26",
       "deaths": 563,
-      "recovered": 9964
+      "recovered": 10044
     }
   },
   "Dominican Republic": {
@@ -439,9 +439,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3238,
+          "confirmed": 3246,
           "date": "2020-05-26",
-          "deaths": 168,
+          "deaths": 170,
           "recovered": 3000
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 11646,
           "date": "2020-05-26",
-          "deaths": 576,
+          "deaths": 580,
           "recovered": 10300
         }
       },
@@ -569,7 +569,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 146376,
+      "confirmed": 146498,
       "date": "2020-05-26",
       "deaths": 4187,
       "recovered": 61151
@@ -744,7 +744,7 @@
       "confirmed": 8969,
       "date": "2020-05-26",
       "deaths": 35,
-      "recovered": 4515
+      "recovered": 4560
     }
   },
   "Korea, South": {
@@ -835,8 +835,8 @@
     "live": {
       "confirmed": 7147,
       "date": "2020-05-26",
-      "deaths": 261,
-      "recovered": 3802
+      "deaths": 265,
+      "recovered": 3884
     }
   },
   "Morocco": {
@@ -849,9 +849,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 45445,
+      "confirmed": 45578,
       "date": "2020-05-26",
-      "deaths": 5830,
+      "deaths": 5856,
       "recovered": 0
     }
   },
@@ -1101,9 +1101,9 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 33843,
+      "confirmed": 34440,
       "date": "2020-05-26",
-      "deaths": 4029,
+      "deaths": 4125,
       "recovered": 4971
     }
   },
@@ -1433,10 +1433,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3261,
+      "confirmed": 3281,
       "date": "2020-05-26",
       "deaths": 13,
-      "recovered": 2607
+      "recovered": 2624
     }
   }
 }
