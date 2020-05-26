@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 37144,
+      "confirmed": 38059,
       "date": "2020-05-26",
-      "deaths": 204,
-      "recovered": 14449
+      "deaths": 208,
+      "recovered": 15086
     }
   },
   "Belgium": {
@@ -569,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 146208,
+      "confirmed": 146371,
       "date": "2020-05-26",
       "deaths": 4187,
-      "recovered": 61052
+      "recovered": 61151
     }
   },
   "Indonesia": {
@@ -757,10 +757,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 21967,
+      "confirmed": 22575,
       "date": "2020-05-26",
-      "deaths": 165,
-      "recovered": 6621
+      "deaths": 172,
+      "recovered": 7306
     }
   },
   "Luxembourg": {
@@ -841,10 +841,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7532,
+      "confirmed": 7556,
       "date": "2020-05-26",
-      "deaths": 200,
-      "recovered": 4774
+      "deaths": 202,
+      "recovered": 4841
     }
   },
   "Netherlands": {
@@ -873,10 +873,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 7770,
+      "confirmed": 8118,
       "date": "2020-05-26",
       "deaths": 37,
-      "recovered": 1933
+      "recovered": 2067
     }
   },
   "Pakistan": {
@@ -937,10 +937,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 18283,
+      "confirmed": 18429,
       "date": "2020-05-26",
       "deaths": 1210,
-      "recovered": 11630
+      "recovered": 11874
     }
   },
   "Russia": {
@@ -961,10 +961,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 3130,
+      "confirmed": 3161,
       "date": "2020-05-26",
-      "deaths": 35,
-      "recovered": 1515
+      "deaths": 36,
+      "recovered": 1565
     }
   },
   "Serbia": {
@@ -1109,7 +1109,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30746,
+      "confirmed": 30761,
       "date": "2020-05-26",
       "deaths": 1913,
       "recovered": 28200
@@ -1417,10 +1417,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 30307,
+      "confirmed": 31086,
       "date": "2020-05-26",
-      "deaths": 248,
-      "recovered": 15657
+      "deaths": 253,
+      "recovered": 15982
     }
   },
   "United Kingdom": {
