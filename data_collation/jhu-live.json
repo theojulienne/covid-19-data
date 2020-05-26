@@ -289,10 +289,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 5044,
+      "confirmed": 5436,
       "date": "2020-05-26",
-      "deaths": 171,
-      "recovered": 1917
+      "deaths": 175,
+      "recovered": 1996
     }
   },
   "Canada": {
@@ -405,7 +405,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 179918,
+      "confirmed": 179887,
       "date": "2020-05-26",
       "deaths": 28480,
       "recovered": 64222
@@ -865,7 +865,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8374,
+      "confirmed": 8383,
       "date": "2020-05-26",
       "deaths": 235,
       "recovered": 7727
@@ -1151,17 +1151,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 75521,
+          "confirmed": 77429,
           "date": "2020-05-26",
-          "deaths": 3198,
+          "deaths": 3225,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 12199,
+          "confirmed": 12354,
           "date": "2020-05-26",
-          "deaths": 690,
+          "deaths": 701,
           "recovered": 0
         }
       },
@@ -1367,9 +1367,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 28189,
+          "confirmed": 28379,
           "date": "2020-05-26",
-          "deaths": 661,
+          "deaths": 663,
           "recovered": 0
         }
       },
