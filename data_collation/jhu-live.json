@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 157777,
+      "confirmed": 158077,
       "date": "2020-05-27",
-      "deaths": 4528,
-      "recovered": 67452
+      "deaths": 4534,
+      "recovered": 67749
     }
   },
   "Indonesia": {
@@ -609,9 +609,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 24735,
+      "confirmed": 24803,
       "date": "2020-05-27",
-      "deaths": 1615,
+      "deaths": 1631,
       "recovered": 21060
     }
   },
@@ -849,10 +849,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7584,
+      "confirmed": 7601,
       "date": "2020-05-27",
       "deaths": 202,
-      "recovered": 4969
+      "recovered": 4978
     }
   },
   "Netherlands": {
@@ -883,7 +883,7 @@
     "live": {
       "confirmed": 8373,
       "date": "2020-05-27",
-      "deaths": 38,
+      "deaths": 39,
       "recovered": 2177
     }
   },
@@ -947,7 +947,7 @@
     "live": {
       "confirmed": 18594,
       "date": "2020-05-27",
-      "deaths": 1223,
+      "deaths": 1227,
       "recovered": 12162
     }
   },
@@ -1120,7 +1120,7 @@
       "confirmed": 30776,
       "date": "2020-05-27",
       "deaths": 1917,
-      "recovered": 28200
+      "recovered": 28300
     }
   },
   "Tajikistan": {
@@ -1141,10 +1141,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 158762,
+      "confirmed": 159797,
       "date": "2020-05-27",
-      "deaths": 4397,
-      "recovered": 121507
+      "deaths": 4431,
+      "recovered": 122793
     }
   },
   "US": {
@@ -1231,9 +1231,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 3847,
+          "confirmed": 3861,
           "date": "2020-05-27",
-          "deaths": 113,
+          "deaths": 114,
           "recovered": 0
         }
       },
@@ -1297,7 +1297,7 @@
         "live": {
           "confirmed": 6287,
           "date": "2020-05-27",
-          "deaths": 329,
+          "deaths": 331,
           "recovered": 0
         }
       },
@@ -1311,7 +1311,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 347226,
+          "confirmed": 348233,
           "date": "2020-05-27",
           "deaths": 28524,
           "recovered": 0
@@ -1327,9 +1327,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 9474,
+          "confirmed": 9623,
           "date": "2020-05-27",
-          "deaths": 460,
+          "deaths": 467,
           "recovered": 0
         }
       },
@@ -1425,10 +1425,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 31086,
+      "confirmed": 31969,
       "date": "2020-05-27",
-      "deaths": 253,
-      "recovered": 15982
+      "deaths": 255,
+      "recovered": 16371
     }
   },
   "United Kingdom": {
