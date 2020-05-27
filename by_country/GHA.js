@@ -255,8 +255,7 @@ var covid19_dataset_country_gha = {
       6486,
       6617,
       6683,
-      6808,
-      6964
+      6808
     ],
     "deaths": [
       0,
@@ -510,8 +509,7 @@ var covid19_dataset_country_gha = {
       1951,
       1978,
       1998,
-      2070,
-      2097
+      2070
     ]
   }
 };
