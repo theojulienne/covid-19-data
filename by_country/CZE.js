@@ -257,7 +257,7 @@ var covid19_dataset_country_cze = {
       8955,
       9002,
       9050,
-      9052
+      9069
     ],
     "deaths": [
       0,
@@ -514,7 +514,7 @@ var covid19_dataset_country_cze = {
       6078,
       6182,
       6270,
-      6279
+      6361
     ]
   }
 };
