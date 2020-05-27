@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 13228,
       "date": "2020-05-27",
-      "deaths": 484,
-      "recovered": 4167
+      "deaths": 492,
+      "recovered": 4349
     }
   },
   "Armenia": {
@@ -431,10 +431,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 46745,
+          "confirmed": 46885,
           "date": "2020-05-27",
-          "deaths": 2419,
-          "recovered": 42200
+          "deaths": 2442,
+          "recovered": 42310
         }
       },
       "Berlin": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 153247,
+      "confirmed": 153304,
       "date": "2020-05-27",
-      "deaths": 4365,
-      "recovered": 64812
+      "deaths": 4367,
+      "recovered": 64827
     }
   },
   "Indonesia": {
@@ -929,10 +929,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 31007,
+      "confirmed": 31292,
       "date": "2020-05-27",
-      "deaths": 1342,
-      "recovered": 18096
+      "deaths": 1356,
+      "recovered": 18349
     }
   },
   "Qatar": {
@@ -961,10 +961,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 76726,
+      "confirmed": 78541,
       "date": "2020-05-27",
-      "deaths": 411,
-      "recovered": 48450
+      "deaths": 425,
+      "recovered": 51022
     }
   },
   "Senegal": {
@@ -977,10 +977,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 11227,
+      "confirmed": 11275,
       "date": "2020-05-27",
-      "deaths": 239,
-      "recovered": 6067
+      "deaths": 240,
+      "recovered": 6277
     }
   },
   "Singapore": {
@@ -1125,10 +1125,10 @@
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 3266,
+      "confirmed": 3424,
       "date": "2020-05-27",
       "deaths": 47,
-      "recovered": 1417
+      "recovered": 1575
     }
   },
   "Thailand": {
@@ -1207,9 +1207,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13812,
+          "confirmed": 13945,
           "date": "2020-05-27",
-          "deaths": 591,
+          "deaths": 594,
           "recovered": 0
         }
       },
@@ -1343,7 +1343,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 3324,
+          "confirmed": 3397,
           "date": "2020-05-27",
           "deaths": 129,
           "recovered": 0
