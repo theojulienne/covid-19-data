@@ -389,18 +389,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 37355,
+      "confirmed": 38103,
       "date": "2020-05-27",
-      "deaths": 3203,
-      "recovered": 18003
+      "deaths": 3275,
+      "recovered": 18425
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 18756,
+      "confirmed": 19666,
       "date": "2020-05-27",
-      "deaths": 797,
-      "recovered": 5027
+      "deaths": 816,
+      "recovered": 5205
     }
   },
   "Finland": {
@@ -413,10 +413,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 179886,
+      "confirmed": 180077,
       "date": "2020-05-27",
-      "deaths": 28480,
-      "recovered": 64222
+      "deaths": 28546,
+      "recovered": 64927
     }
   },
   "Germany": {
@@ -577,7 +577,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 158077,
+      "confirmed": 158086,
       "date": "2020-05-27",
       "deaths": 4534,
       "recovered": 67749
@@ -1281,7 +1281,7 @@
         "live": {
           "confirmed": 4690,
           "date": "2020-05-27",
-          "deaths": 388,
+          "deaths": 389,
           "recovered": 0
         }
       },
@@ -1313,7 +1313,7 @@
         "live": {
           "confirmed": 348233,
           "date": "2020-05-27",
-          "deaths": 28524,
+          "deaths": 28544,
           "recovered": 0
         }
       },
@@ -1335,7 +1335,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 56012,
+          "confirmed": 56249,
           "date": "2020-05-27",
           "deaths": 4050,
           "recovered": 0
@@ -1367,9 +1367,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 9232,
+          "confirmed": 9441,
           "date": "2020-05-27",
-          "deaths": 156,
+          "deaths": 165,
           "recovered": 0
         }
       },
@@ -1383,9 +1383,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 4632,
+          "confirmed": 4682,
           "date": "2020-05-27",
-          "deaths": 69,
+          "deaths": 70,
           "recovered": 0
         }
       },
@@ -1407,9 +1407,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6517,
+          "confirmed": 6748,
           "date": "2020-05-27",
-          "deaths": 277,
+          "deaths": 282,
           "recovered": 0
         }
       }
@@ -1441,7 +1441,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3355,
+      "confirmed": 3369,
       "date": "2020-05-27",
       "deaths": 14,
       "recovered": 2668
