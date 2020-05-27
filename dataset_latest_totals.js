@@ -142,7 +142,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 45,
         "current_icu": 12,
         "deaths": 101,
-        "recovered": 6396,
+        "recovered": 6414,
         "tested": 1061744
       },
       "back_2week": {
@@ -150,7 +150,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 49,
         "current_icu": 16,
         "deaths": 99,
-        "recovered": 6187,
+        "recovered": 6233,
         "tested": 854793
       },
       "latest": {
@@ -158,7 +158,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 31,
         "current_icu": 5,
         "deaths": 104,
-        "recovered": 6534,
+        "recovered": 6552,
         "tested": 1242322
       },
       "states": {
@@ -176,7 +176,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 50,
-          "recovered": 2656,
+          "recovered": 2661,
           "tested": 422703
         },
         "NT": {
