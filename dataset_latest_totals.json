@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 6879,
-          "deaths": 138
+          "confirmed": 6901,
+          "deaths": 139
         },
         "British Columbia": {
           "confirmed": 2530,
@@ -1881,18 +1881,18 @@
     },
     "JPN": {
       "back_1week": {
-        "confirmed": 16305,
-        "deaths": 749,
+        "confirmed": 16367,
+        "deaths": 768,
         "recovered": 11564
       },
       "back_2week": {
-        "confirmed": 15847,
-        "deaths": 633,
+        "confirmed": 15968,
+        "deaths": 657,
         "recovered": 8293
       },
       "latest": {
-        "confirmed": 16581,
-        "deaths": 830,
+        "confirmed": 16623,
+        "deaths": 846,
         "recovered": 13612
       }
     },
@@ -2677,19 +2677,19 @@
     },
     "PER": {
       "back_1week": {
-        "confirmed": 94933,
-        "deaths": 2789,
-        "recovered": 30306
+        "confirmed": 99483,
+        "deaths": 2914,
+        "recovered": 36524
       },
       "back_2week": {
-        "confirmed": 68822,
-        "deaths": 1961,
-        "recovered": 22406
+        "confirmed": 72059,
+        "deaths": 2057,
+        "recovered": 23324
       },
       "latest": {
-        "confirmed": 123979,
-        "deaths": 3629,
-        "recovered": 50949
+        "confirmed": 129751,
+        "deaths": 3788,
+        "recovered": 52906
       }
     },
     "PHL": {
