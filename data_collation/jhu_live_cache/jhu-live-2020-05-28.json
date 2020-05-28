@@ -585,7 +585,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 158086,
+      "confirmed": 158333,
       "date": "2020-05-28",
       "deaths": 4534,
       "recovered": 67749
@@ -757,7 +757,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 9304,
+      "confirmed": 9576,
       "date": "2020-05-28",
       "deaths": 37,
       "recovered": 4768
@@ -1167,9 +1167,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 78732,
+          "confirmed": 79156,
           "date": "2020-05-28",
-          "deaths": 3298,
+          "deaths": 3314,
           "recovered": 0
         }
       },
