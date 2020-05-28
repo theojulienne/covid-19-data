@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 7136,
+      "confirmed": 7768,
       "date": "2020-05-28",
-      "deaths": 274,
-      "recovered": 677
+      "deaths": 280,
+      "recovered": 689
     }
   },
   "Brazil": {
@@ -258,14 +258,6 @@
           "confirmed": 3862,
           "date": "2020-05-28",
           "deaths": 137,
-          "recovered": 0
-        }
-      },
-      "Roraima": {
-        "live": {
-          "confirmed": 2682,
-          "date": "2020-05-28",
-          "deaths": 102,
           "recovered": 0
         }
       },
@@ -1175,9 +1167,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 76044,
+          "confirmed": 78732,
           "date": "2020-05-28",
-          "deaths": 3158,
+          "deaths": 3298,
           "recovered": 0
         }
       },

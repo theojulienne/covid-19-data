@@ -257,7 +257,8 @@ var covid19_dataset_country_isr = {
       16712,
       16717,
       16734,
-      16757
+      16757,
+      16793
     ],
     "deaths": [
       0,
@@ -384,6 +385,7 @@ var covid19_dataset_country_isr = {
       279,
       279,
       279,
+      281,
       281,
       281
     ],
@@ -513,7 +515,8 @@ var covid19_dataset_country_isr = {
       14090,
       14153,
       14307,
-      14457
+      14457,
+      14570
     ]
   }
 };

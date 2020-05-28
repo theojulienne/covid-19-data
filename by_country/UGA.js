@@ -257,9 +257,11 @@ var covid19_dataset_country_uga = {
       198,
       198,
       222,
-      253
+      253,
+      281
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -512,6 +514,7 @@ var covid19_dataset_country_uga = {
       68,
       68,
       68,
+      69,
       69,
       69
     ]

@@ -257,7 +257,8 @@ var covid19_dataset_country_caf = {
       552,
       604,
       652,
-      671
+      671,
+      702
     ],
     "deaths": [
       0,
@@ -382,6 +383,7 @@ var covid19_dataset_country_caf = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -513,7 +515,8 @@ var covid19_dataset_country_caf = {
       18,
       22,
       22,
-      22
+      22,
+      23
     ]
   }
 };
