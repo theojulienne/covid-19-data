@@ -387,7 +387,8 @@ var covid19_dataset_country_omn = {
       37,
       37,
       37,
-      39
+      39,
+      40
     ],
     "recovered": [
       0,
