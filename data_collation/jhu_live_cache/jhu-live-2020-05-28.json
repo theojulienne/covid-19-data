@@ -307,10 +307,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 28299,
+          "confirmed": 28320,
           "date": "2020-05-28",
           "deaths": 2292,
-          "recovered": 20765
+          "recovered": 20775
         }
       },
       "Quebec": {
@@ -1203,9 +1203,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 76485,
+          "confirmed": 76843,
           "date": "2020-05-28",
-          "deaths": 3174,
+          "deaths": 3188,
           "recovered": 0
         }
       },
@@ -1301,7 +1301,7 @@
         "live": {
           "confirmed": 91540,
           "date": "2020-05-28",
-          "deaths": 6261,
+          "deaths": 6348,
           "recovered": 0
         }
       },
@@ -1419,9 +1419,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 28950,
+          "confirmed": 29376,
           "date": "2020-05-28",
-          "deaths": 676,
+          "deaths": 691,
           "recovered": 0
         }
       },
