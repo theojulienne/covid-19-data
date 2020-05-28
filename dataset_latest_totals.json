@@ -138,27 +138,27 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 7068,
+        "confirmed": 7079,
         "current_hospitalized": 47,
         "current_icu": 11,
         "deaths": 101,
-        "recovered": 6414,
+        "recovered": 6445,
         "tested": 1085750
       },
       "back_2week": {
-        "confirmed": 6966,
+        "confirmed": 6978,
         "current_hospitalized": 47,
         "current_icu": 16,
         "deaths": 99,
-        "recovered": 6233,
+        "recovered": 6273,
         "tested": 877476
       },
       "latest": {
-        "confirmed": 7126,
+        "confirmed": 7132,
         "current_hospitalized": 12,
         "current_icu": 3,
         "deaths": 104,
-        "recovered": 6558,
+        "recovered": 6566,
         "tested": 1254997
       },
       "states": {
@@ -171,12 +171,12 @@
           "tested": 15760
         },
         "NSW": {
-          "confirmed": 3092,
+          "confirmed": 3089,
           "current_hospitalized": 15,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 50,
-          "recovered": 2661,
+          "recovered": 2663,
           "tested": 426791
         },
         "NT": {
@@ -2600,28 +2600,28 @@
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1499,
+        "confirmed": 1503,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1433,
-        "tested": 230718
+        "recovered": 1447,
+        "tested": 238725
       },
       "back_2week": {
         "confirmed": 1497,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1386,
-        "tested": 194191
+        "recovered": 1402,
+        "tested": 203045
       },
       "latest": {
         "confirmed": 1504,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
-        "recovered": 1461,
-        "tested": 263156
+        "recovered": 1462,
+        "tested": 267435
       }
     },
     "OMN": {

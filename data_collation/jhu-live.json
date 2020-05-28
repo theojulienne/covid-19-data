@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3089,
+          "confirmed": 3090,
           "date": "2020-05-28",
           "deaths": 48,
-          "recovered": 2663
+          "recovered": 2670
         }
       }
     }
@@ -561,10 +561,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 3954,
+      "confirmed": 4145,
       "date": "2020-05-28",
-      "deaths": 63,
-      "recovered": 289
+      "deaths": 68,
+      "recovered": 493
     }
   },
   "Guinea": {
@@ -577,10 +577,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 4401,
+      "confirmed": 4640,
       "date": "2020-05-28",
-      "deaths": 188,
-      "recovered": 493
+      "deaths": 194,
+      "recovered": 506
     }
   },
   "Hungary": {
@@ -773,10 +773,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11265,
+      "confirmed": 11344,
       "date": "2020-05-28",
       "deaths": 269,
-      "recovered": 10295
+      "recovered": 10340
     }
   },
   "Kuwait": {
@@ -1117,10 +1117,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 4146,
+      "confirmed": 4346,
       "date": "2020-05-28",
-      "deaths": 184,
-      "recovered": 588
+      "deaths": 195,
+      "recovered": 749
     }
   },
   "Sweden": {
@@ -1177,7 +1177,7 @@
         "live": {
           "confirmed": 76044,
           "date": "2020-05-28",
-          "deaths": 3159,
+          "deaths": 3158,
           "recovered": 0
         }
       },
@@ -1249,7 +1249,7 @@
         "live": {
           "confirmed": 3876,
           "date": "2020-05-28",
-          "deaths": 114,
+          "deaths": 115,
           "recovered": 0
         }
       },
