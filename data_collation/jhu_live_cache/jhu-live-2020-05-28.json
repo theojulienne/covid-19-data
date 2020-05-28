@@ -307,9 +307,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 28076,
+          "confirmed": 28093,
           "date": "2020-05-28",
-          "deaths": 2268,
+          "deaths": 2270,
           "recovered": 20673
         }
       },
@@ -415,10 +415,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34575,
+          "confirmed": 34642,
           "date": "2020-05-28",
-          "deaths": 1738,
-          "recovered": 31500
+          "deaths": 1743,
+          "recovered": 31595
         }
       },
       "Bayern": {
@@ -431,10 +431,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6703,
+          "confirmed": 6737,
           "date": "2020-05-28",
-          "deaths": 195,
-          "recovered": 6175
+          "deaths": 196,
+          "recovered": 6208
         }
       },
       "Brandenburg": {
@@ -545,10 +545,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 165348,
+      "confirmed": 165362,
       "date": "2020-05-28",
-      "deaths": 4710,
-      "recovered": 70786
+      "deaths": 4711,
+      "recovered": 70788
     }
   },
   "Indonesia": {
@@ -577,9 +577,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 24803,
+      "confirmed": 24841,
       "date": "2020-05-28",
-      "deaths": 1631,
+      "deaths": 1639,
       "recovered": 22089
     }
   },
@@ -809,10 +809,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7636,
+      "confirmed": 7643,
       "date": "2020-05-28",
       "deaths": 202,
-      "recovered": 5109
+      "recovered": 5195
     }
   },
   "Netherlands": {
@@ -1255,9 +1255,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 145231,
+          "confirmed": 146304,
           "date": "2020-05-28",
-          "deaths": 10567,
+          "deaths": 10629,
           "recovered": 0
         }
       },
@@ -1279,15 +1279,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 9623,
+          "confirmed": 9777,
           "date": "2020-05-28",
-          "deaths": 467,
+          "deaths": 479,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 53859,
+          "confirmed": 54034,
           "date": "2020-05-28",
           "deaths": 3986,
           "recovered": 0
@@ -1393,7 +1393,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3437,
+      "confirmed": 3444,
       "date": "2020-05-28",
       "deaths": 14,
       "recovered": 2694
