@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 13016,
+      "confirmed": 13036,
       "date": "2020-05-28",
       "deaths": 235,
       "recovered": 1209
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 7774,
+      "confirmed": 8216,
       "date": "2020-05-28",
-      "deaths": 98,
-      "recovered": 3255
+      "deaths": 113,
+      "recovered": 3287
     }
   },
   "Australia": {
@@ -365,10 +365,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9086,
+      "confirmed": 9103,
       "date": "2020-05-28",
       "deaths": 317,
-      "recovered": 6370
+      "recovered": 6377
     }
   },
   "Denmark": {
@@ -447,15 +447,15 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6702,
+          "confirmed": 6703,
           "date": "2020-05-28",
-          "deaths": 193,
+          "deaths": 195,
           "recovered": 6175
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3256,
+          "confirmed": 3261,
           "date": "2020-05-28",
           "deaths": 169,
           "recovered": 3000
@@ -463,23 +463,23 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5072,
+          "confirmed": 5076,
           "date": "2020-05-28",
-          "deaths": 242,
+          "deaths": 245,
           "recovered": 4700
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 9860,
+          "confirmed": 9915,
           "date": "2020-05-28",
-          "deaths": 466,
+          "deaths": 471,
           "recovered": 8700
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11687,
+          "confirmed": 11750,
           "date": "2020-05-28",
           "deaths": 585,
           "recovered": 10400
@@ -487,15 +487,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 37541,
+          "confirmed": 37698,
           "date": "2020-05-28",
-          "deaths": 1577,
+          "deaths": 1582,
           "recovered": 34000
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6644,
+          "confirmed": 6652,
           "date": "2020-05-28",
           "deaths": 230,
           "recovered": 6105
@@ -503,7 +503,7 @@
       },
       "Saarland": {
         "live": {
-          "confirmed": 2730,
+          "confirmed": 2731,
           "date": "2020-05-28",
           "deaths": 164,
           "recovered": 2479
@@ -511,25 +511,25 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5248,
+          "confirmed": 5260,
           "date": "2020-05-28",
-          "deaths": 208,
+          "deaths": 210,
           "recovered": 4770
         }
       },
       "Schleswig-Holstein": {
         "live": {
-          "confirmed": 3070,
+          "confirmed": 3072,
           "date": "2020-05-28",
-          "deaths": 140,
+          "deaths": 143,
           "recovered": 2800
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2910,
+          "confirmed": 2932,
           "date": "2020-05-28",
-          "deaths": 157,
+          "deaths": 158,
           "recovered": 2520
         }
       }
@@ -585,10 +585,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 158415,
+      "confirmed": 158613,
       "date": "2020-05-28",
-      "deaths": 4534,
-      "recovered": 67749
+      "deaths": 4540,
+      "recovered": 67753
     }
   },
   "Indonesia": {
@@ -932,7 +932,7 @@
       "confirmed": 22473,
       "date": "2020-05-28",
       "deaths": 1028,
-      "recovered": 10330
+      "recovered": 10560
     }
   },
   "Portugal": {
@@ -955,7 +955,7 @@
     "live": {
       "confirmed": 18594,
       "date": "2020-05-28",
-      "deaths": 1227,
+      "deaths": 1229,
       "recovered": 12162
     }
   },
@@ -1425,10 +1425,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 21905,
+      "confirmed": 22382,
       "date": "2020-05-28",
-      "deaths": 658,
-      "recovered": 7995
+      "deaths": 669,
+      "recovered": 8439
     }
   },
   "United Arab Emirates": {
