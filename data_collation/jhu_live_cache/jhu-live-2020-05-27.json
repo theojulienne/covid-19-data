@@ -365,18 +365,18 @@
   },
   "Colombia": {
     "live": {
-      "confirmed": 23003,
+      "confirmed": 24104,
       "date": "2020-05-27",
-      "deaths": 776,
-      "recovered": 5511
+      "deaths": 803,
+      "recovered": 6111
     }
   },
   "Czechia": {
     "live": {
-      "confirmed": 9069,
+      "confirmed": 9086,
       "date": "2020-05-27",
       "deaths": 317,
-      "recovered": 6361
+      "recovered": 6370
     }
   },
   "Denmark": {
@@ -545,10 +545,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 7117,
+      "confirmed": 7303,
       "date": "2020-05-27",
       "deaths": 34,
-      "recovered": 2317
+      "recovered": 2412
     }
   },
   "Greece": {
@@ -881,15 +881,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 8344,
+      "confirmed": 8733,
       "date": "2020-05-27",
-      "deaths": 249,
-      "recovered": 2385
+      "deaths": 254,
+      "recovered": 2501
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8391,
+      "confirmed": 8401,
       "date": "2020-05-27",
       "deaths": 235,
       "recovered": 7727
@@ -913,10 +913,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 11447,
+      "confirmed": 11728,
       "date": "2020-05-27",
-      "deaths": 313,
-      "recovered": 6379
+      "deaths": 315,
+      "recovered": 7379
     }
   },
   "Peru": {
@@ -1271,7 +1271,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 90385,
+          "confirmed": 90887,
           "date": "2020-05-27",
           "deaths": 6190,
           "recovered": 0
@@ -1297,13 +1297,13 @@
         "live": {
           "confirmed": 4832,
           "date": "2020-05-27",
-          "deaths": 387,
+          "deaths": 388,
           "recovered": 0
         }
       },
       "Nebraska": {
         "live": {
-          "confirmed": 3329,
+          "confirmed": 3583,
           "date": "2020-05-27",
           "deaths": 23,
           "recovered": 0
