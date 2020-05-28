@@ -5102,8 +5102,8 @@ var covid19_dataset_country_aus = {
             9,
             9,
             9,
-            9,
-            9
+            10,
+            10
           ],
           "Central West": [
             0,
