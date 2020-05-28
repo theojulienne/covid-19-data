@@ -585,10 +585,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 158897,
+      "confirmed": 158970,
       "date": "2020-05-28",
-      "deaths": 4540,
-      "recovered": 67901
+      "deaths": 4541,
+      "recovered": 67926
     }
   },
   "Indonesia": {
@@ -883,7 +883,7 @@
     "live": {
       "confirmed": 8401,
       "date": "2020-05-28",
-      "deaths": 235,
+      "deaths": 236,
       "recovered": 7727
     }
   },
@@ -1452,7 +1452,7 @@
       "confirmed": 3396,
       "date": "2020-05-28",
       "deaths": 14,
-      "recovered": 2668
+      "recovered": 2685
     }
   }
 }
