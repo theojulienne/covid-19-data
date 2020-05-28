@@ -19,7 +19,7 @@
     "live": {
       "confirmed": 13933,
       "date": "2020-05-28",
-      "deaths": 500,
+      "deaths": 501,
       "recovered": 4349
     }
   },
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 4568,
+      "confirmed": 4759,
       "date": "2020-05-28",
-      "deaths": 54,
-      "recovered": 2897
+      "deaths": 56,
+      "recovered": 3022
     }
   },
   "Bahrain": {
@@ -315,10 +315,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 27950,
+          "confirmed": 27967,
           "date": "2020-05-28",
           "deaths": 2265,
-          "recovered": 20448
+          "recovered": 20673
         }
       },
       "Quebec": {
@@ -421,7 +421,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 180019,
+      "confirmed": 180014,
       "date": "2020-05-28",
       "deaths": 28545,
       "recovered": 64502
@@ -511,10 +511,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5260,
+          "confirmed": 5268,
           "date": "2020-05-28",
           "deaths": 210,
-          "recovered": 4770
+          "recovered": 4810
         }
       },
       "Schleswig-Holstein": {
@@ -527,10 +527,10 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 2932,
+          "confirmed": 2941,
           "date": "2020-05-28",
           "deaths": 158,
-          "recovered": 2520
+          "recovered": 2550
         }
       }
     }
@@ -585,10 +585,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 160310,
+      "confirmed": 163120,
       "date": "2020-05-28",
-      "deaths": 4560,
-      "recovered": 68713
+      "deaths": 4653,
+      "recovered": 69534
     }
   },
   "Indonesia": {
@@ -1207,9 +1207,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 29505,
+          "confirmed": 29807,
           "date": "2020-05-28",
-          "deaths": 1280,
+          "deaths": 1303,
           "recovered": 0
         }
       },
@@ -1303,7 +1303,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 6287,
+          "confirmed": 6352,
           "date": "2020-05-28",
           "deaths": 331,
           "recovered": 0
@@ -1327,9 +1327,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 3478,
+          "confirmed": 3553,
           "date": "2020-05-28",
-          "deaths": 80,
+          "deaths": 81,
           "recovered": 0
         }
       },
