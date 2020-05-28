@@ -2643,19 +2643,19 @@ var covid19_dataset_latest_totals = {
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 43966,
-        "deaths": 939,
-        "recovered": 12489
+        "confirmed": 45898,
+        "deaths": 985,
+        "recovered": 13101
       },
       "back_2week": {
-        "confirmed": 34336,
-        "deaths": 737,
-        "recovered": 8812
+        "confirmed": 35298,
+        "deaths": 761,
+        "recovered": 8899
       },
       "latest": {
-        "confirmed": 57705,
-        "deaths": 1197,
-        "recovered": 18314
+        "confirmed": 59151,
+        "deaths": 1225,
+        "recovered": 19142
       }
     },
     "PAN": {
