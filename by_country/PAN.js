@@ -128,7 +128,8 @@ var covid19_dataset_country_pan = {
     "2020-05-26",
     "2020-05-27",
     "2020-05-28",
-    "2020-05-29"
+    "2020-05-29",
+    "2020-05-30"
   ],
   "total": {
     "confirmed": [
@@ -258,7 +259,8 @@ var covid19_dataset_country_pan = {
       10926,
       11183,
       11447,
-      11728
+      11728,
+      12131
     ],
     "deaths": [
       0,
@@ -387,7 +389,8 @@ var covid19_dataset_country_pan = {
       306,
       310,
       313,
-      315
+      315,
+      320
     ],
     "recovered": [
       0,
