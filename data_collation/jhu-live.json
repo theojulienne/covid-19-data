@@ -573,10 +573,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 166113,
+      "confirmed": 167442,
       "date": "2020-05-29",
-      "deaths": 4715,
-      "recovered": 71106
+      "deaths": 4797,
+      "recovered": 71369
     }
   },
   "Indonesia": {
@@ -849,10 +849,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7643,
+      "confirmed": 7697,
       "date": "2020-05-29",
       "deaths": 202,
-      "recovered": 5195
+      "recovered": 5223
     }
   },
   "Netherlands": {
@@ -1005,10 +1005,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 18791,
+      "confirmed": 18982,
       "date": "2020-05-29",
       "deaths": 1240,
-      "recovered": 12629
+      "recovered": 12829
     }
   },
   "Russia": {
