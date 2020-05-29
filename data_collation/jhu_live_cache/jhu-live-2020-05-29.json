@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 10352,
+      "confirmed": 10449,
       "date": "2020-05-29",
       "deaths": 15,
-      "recovered": 5491
+      "recovered": 5700
     }
   },
   "Bangladesh": {
@@ -841,10 +841,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7697,
+      "confirmed": 7714,
       "date": "2020-05-29",
       "deaths": 202,
-      "recovered": 5223
+      "recovered": 5271
     }
   },
   "Netherlands": {
@@ -1325,7 +1325,7 @@
         "live": {
           "confirmed": 4832,
           "date": "2020-05-29",
-          "deaths": 398,
+          "deaths": 415,
           "recovered": 0
         }
       },
@@ -1451,9 +1451,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 6952,
+          "confirmed": 7429,
           "date": "2020-05-29",
-          "deaths": 285,
+          "deaths": 294,
           "recovered": 0
         }
       }
