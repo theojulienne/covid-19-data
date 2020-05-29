@@ -359,18 +359,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 3114,
+          "confirmed": 3277,
           "date": "2020-05-29",
-          "deaths": 81,
-          "recovered": 330
+          "deaths": 83,
+          "recovered": 421
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 8045,
+          "confirmed": 8536,
           "date": "2020-05-29",
-          "deaths": 235,
-          "recovered": 2552
+          "deaths": 238,
+          "recovered": 2837
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 2969,
+          "date": "2020-05-29",
+          "deaths": 141,
+          "recovered": 840
         }
       }
     }
@@ -1099,14 +1107,6 @@
           "date": "2020-05-29",
           "deaths": 5584,
           "recovered": 26203
-        }
-      },
-      "Extremadura": {
-        "live": {
-          "confirmed": 2961,
-          "date": "2020-05-29",
-          "deaths": 507,
-          "recovered": 2652
         }
       },
       "Galicia": {
