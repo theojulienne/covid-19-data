@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 28320,
-          "deaths": 2264
+          "deaths": 2292
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -1182,19 +1182,19 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 14229,
-        "deaths": 680,
-        "recovered": 3994
+        "confirmed": 15003,
+        "deaths": 696,
+        "recovered": 4217
       },
       "back_2week": {
-        "confirmed": 10431,
-        "deaths": 556,
-        "recovered": 2486
+        "confirmed": 10829,
+        "deaths": 571,
+        "recovered": 2626
       },
       "latest": {
-        "confirmed": 19666,
-        "deaths": 816,
-        "recovered": 5205
+        "confirmed": 20793,
+        "deaths": 845,
+        "recovered": 5359
       }
     },
     "ERI": {
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 179069,
-        "deaths": 28084,
-        "recovered": 61713
+        "confirmed": 179306,
+        "deaths": 28167,
+        "recovered": 62216
       },
       "back_2week": {
-        "confirmed": 175981,
-        "deaths": 27032,
-        "recovered": 57368
+        "confirmed": 176712,
+        "deaths": 27381,
+        "recovered": 58300
       },
       "latest": {
-        "confirmed": 180044,
-        "deaths": 28546,
-        "recovered": 64503
+        "confirmed": 183309,
+        "deaths": 28611,
+        "recovered": 65098
       },
       "states": {
         "French Guiana": {
