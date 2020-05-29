@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 10052,
+      "confirmed": 10352,
       "date": "2020-05-29",
       "deaths": 15,
-      "recovered": 5419
+      "recovered": 5491
     }
   },
   "Bangladesh": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 39858,
+      "confirmed": 40764,
       "date": "2020-05-29",
-      "deaths": 219,
-      "recovered": 16660
+      "deaths": 224,
+      "recovered": 17390
     }
   },
   "Belgium": {
@@ -393,10 +393,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 11512,
+      "confirmed": 11593,
       "date": "2020-05-29",
       "deaths": 568,
-      "recovered": 10180
+      "recovered": 10240
     }
   },
   "Dominican Republic": {
@@ -491,9 +491,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 11832,
+          "confirmed": 11893,
           "date": "2020-05-29",
-          "deaths": 587,
+          "deaths": 596,
           "recovered": 10600
         }
       },
@@ -576,7 +576,7 @@
       "confirmed": 167442,
       "date": "2020-05-29",
       "deaths": 4797,
-      "recovered": 71385
+      "recovered": 71406
     }
   },
   "Indonesia": {
@@ -752,7 +752,7 @@
       "confirmed": 9932,
       "date": "2020-05-29",
       "deaths": 37,
-      "recovered": 4900
+      "recovered": 5011
     }
   },
   "Korea, South": {
@@ -857,9 +857,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 45950,
+      "confirmed": 46126,
       "date": "2020-05-29",
-      "deaths": 5903,
+      "deaths": 5931,
       "recovered": 0
     }
   },
@@ -989,10 +989,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 31596,
+      "confirmed": 31946,
       "date": "2020-05-29",
-      "deaths": 1369,
-      "recovered": 18637
+      "deaths": 1383,
+      "recovered": 18911
     }
   },
   "Qatar": {
@@ -1161,15 +1161,15 @@
   },
   "Sweden": {
     "live": {
-      "confirmed": 35727,
+      "confirmed": 36476,
       "date": "2020-05-29",
-      "deaths": 4266,
+      "deaths": 4350,
       "recovered": 4971
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30796,
+      "confirmed": 30828,
       "date": "2020-05-29",
       "deaths": 1919,
       "recovered": 28300
@@ -1493,10 +1493,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3463,
+      "confirmed": 3468,
       "date": "2020-05-29",
       "deaths": 14,
-      "recovered": 2694
+      "recovered": 2723
     }
   }
 }
