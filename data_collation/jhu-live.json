@@ -315,10 +315,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 28320,
+          "confirmed": 28346,
           "date": "2020-05-29",
           "deaths": 2292,
-          "recovered": 20781
+          "recovered": 20983
         }
       },
       "Quebec": {
@@ -433,10 +433,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 183309,
+      "confirmed": 183275,
       "date": "2020-05-29",
       "deaths": 28611,
-      "recovered": 65098
+      "recovered": 65028
     }
   },
   "Germany": {
@@ -597,10 +597,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 5457,
+      "confirmed": 5873,
       "date": "2020-05-29",
-      "deaths": 179,
-      "recovered": 2971
+      "deaths": 185,
+      "recovered": 3044
     }
   },
   "Ireland": {
@@ -1243,9 +1243,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 8492,
+          "confirmed": 8538,
           "date": "2020-05-29",
-          "deaths": 453,
+          "deaths": 460,
           "recovered": 0
         }
       },
@@ -1347,7 +1347,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 6352,
+          "confirmed": 6457,
           "date": "2020-05-29",
           "deaths": 339,
           "recovered": 0
