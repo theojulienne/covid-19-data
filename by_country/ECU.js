@@ -519,6 +519,7 @@ var covid19_dataset_country_ecu = {
       3560,
       18003,
       18003,
+      18425,
       18425
     ]
   }

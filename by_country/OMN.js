@@ -519,6 +519,7 @@ var covid19_dataset_country_omn = {
       1933,
       1933,
       2067,
+      2177,
       2177
     ]
   }

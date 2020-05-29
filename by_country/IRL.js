@@ -519,6 +519,7 @@ var covid19_dataset_country_irl = {
       21060,
       21060,
       21060,
+      22089,
       22089
     ]
   }

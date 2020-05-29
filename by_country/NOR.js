@@ -519,6 +519,7 @@ var covid19_dataset_country_nor = {
       7727,
       7727,
       7727,
+      7727,
       7727
     ]
   }

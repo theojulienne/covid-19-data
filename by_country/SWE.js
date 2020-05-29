@@ -519,6 +519,7 @@ var covid19_dataset_country_swe = {
       4971,
       4971,
       4971,
+      4971,
       4971
     ]
   }

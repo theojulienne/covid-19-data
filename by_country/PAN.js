@@ -519,6 +519,7 @@ var covid19_dataset_country_pan = {
       6279,
       6279,
       6379,
+      7379,
       7379
     ]
   }
