@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 16628,
+      "confirmed": 16655,
       "date": "2020-05-29",
       "deaths": 668,
-      "recovered": 15286
+      "recovered": 15347
     }
   },
   "Azerbaijan": {
@@ -981,9 +981,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 22825,
+      "confirmed": 22964,
       "date": "2020-05-29",
-      "deaths": 1038,
+      "deaths": 1043,
       "recovered": 10692
     }
   },
@@ -1013,10 +1013,10 @@
   },
   "Russia": {
     "live": {
-      "confirmed": 379051,
+      "confirmed": 387623,
       "date": "2020-05-29",
-      "deaths": 4142,
-      "recovered": 150993
+      "deaths": 4374,
+      "recovered": 159257
     }
   },
   "Saudi Arabia": {
@@ -1283,9 +1283,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 3930,
+          "confirmed": 3931,
           "date": "2020-05-29",
-          "deaths": 118,
+          "deaths": 119,
           "recovered": 0
         }
       },
