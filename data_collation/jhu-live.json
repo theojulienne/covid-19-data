@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 13659,
+      "confirmed": 14429,
       "date": "2020-05-30",
-      "deaths": 246,
-      "recovered": 1259
+      "deaths": 248,
+      "recovered": 1303
     }
   },
   "Algeria": {
@@ -621,7 +621,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 16987,
+      "confirmed": 17008,
       "date": "2020-05-30",
       "deaths": 284,
       "recovered": 14776
@@ -1477,10 +1477,10 @@
   },
   "Ukraine": {
     "live": {
-      "confirmed": 22811,
+      "confirmed": 23204,
       "date": "2020-05-30",
-      "deaths": 679,
-      "recovered": 8934
+      "deaths": 696,
+      "recovered": 9311
     }
   },
   "United Arab Emirates": {
