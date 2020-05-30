@@ -391,8 +391,7 @@ var covid19_dataset_country_cmr = {
       165,
       175,
       175,
-      175,
-      177
+      175
     ],
     "recovered": [
       0,
@@ -522,8 +521,7 @@ var covid19_dataset_country_cmr = {
       1865,
       1996,
       1996,
-      1996,
-      3326
+      1996
     ]
   }
 };
