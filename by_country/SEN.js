@@ -393,7 +393,8 @@ var covid19_dataset_country_sen = {
       36,
       38,
       39,
-      41
+      41,
+      42
     ],
     "recovered": [
       0,
