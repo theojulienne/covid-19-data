@@ -367,18 +367,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 3277,
+          "confirmed": 3424,
           "date": "2020-05-30",
-          "deaths": 83,
-          "recovered": 421
+          "deaths": 87,
+          "recovered": 451
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 8536,
+          "confirmed": 9162,
           "date": "2020-05-30",
-          "deaths": 238,
-          "recovered": 2837
+          "deaths": 250,
+          "recovered": 2918
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 3083,
+          "date": "2020-05-30",
+          "deaths": 149,
+          "recovered": 855
         }
       }
     }
@@ -557,10 +565,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 4752,
+      "confirmed": 4886,
       "date": "2020-05-30",
-      "deaths": 196,
-      "recovered": 519
+      "deaths": 199,
+      "recovered": 528
     }
   },
   "Hungary": {
@@ -749,7 +757,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 9932,
+      "confirmed": 10382,
       "date": "2020-05-30",
       "deaths": 37,
       "recovered": 5057
@@ -1211,9 +1219,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 80416,
+          "confirmed": 80563,
           "date": "2020-05-30",
-          "deaths": 3316,
+          "deaths": 3322,
           "recovered": 0
         }
       },
@@ -1387,9 +1395,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 54578,
+          "confirmed": 51533,
           "date": "2020-05-30",
-          "deaths": 4049,
+          "deaths": 3842,
           "recovered": 0
         }
       },
@@ -1427,9 +1435,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 30043,
+          "confirmed": 30214,
           "date": "2020-05-30",
-          "deaths": 697,
+          "deaths": 701,
           "recovered": 0
         }
       },
