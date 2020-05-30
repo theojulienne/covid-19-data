@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 4989,
+      "confirmed": 5246,
       "date": "2020-05-30",
-      "deaths": 58,
-      "recovered": 3125
+      "deaths": 61,
+      "recovered": 3327
     }
   },
   "Bahrain": {
@@ -380,14 +380,6 @@
           "deaths": 250,
           "recovered": 2918
         }
-      },
-      "Valle del Cauca": {
-        "live": {
-          "confirmed": 3083,
-          "date": "2020-05-30",
-          "deaths": 149,
-          "recovered": 855
-        }
       }
     }
   },
@@ -589,10 +581,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 174496,
+      "confirmed": 175957,
       "date": "2020-05-30",
-      "deaths": 4983,
-      "recovered": 82945
+      "deaths": 4996,
+      "recovered": 83878
     }
   },
   "Indonesia": {
@@ -757,7 +749,7 @@
         "live": {
           "confirmed": 5235,
           "date": "2020-05-30",
-          "deaths": 302,
+          "deaths": 304,
           "recovered": 4501
         }
       }
@@ -767,7 +759,7 @@
     "live": {
       "confirmed": 10382,
       "date": "2020-05-30",
-      "deaths": 37,
+      "deaths": 38,
       "recovered": 5057
     }
   },
@@ -857,9 +849,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 7896,
+      "confirmed": 8098,
       "date": "2020-05-30",
-      "deaths": 289,
+      "deaths": 291,
       "recovered": 4455
     }
   },
@@ -889,7 +881,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8425,
+      "confirmed": 8435,
       "date": "2020-05-30",
       "deaths": 236,
       "recovered": 7727
@@ -923,65 +915,73 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 3455,
+          "confirmed": 3384,
           "date": "2020-05-30",
-          "deaths": 241,
+          "deaths": 252,
+          "recovered": 0
+        }
+      },
+      "Arequipa": {
+        "live": {
+          "confirmed": 3146,
+          "date": "2020-05-30",
+          "deaths": 33,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 9953,
+          "confirmed": 10781,
           "date": "2020-05-30",
-          "deaths": 289,
+          "deaths": 298,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 3818,
+          "confirmed": 3816,
           "date": "2020-05-30",
-          "deaths": 174,
+          "deaths": 179,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 7020,
+          "confirmed": 7060,
           "date": "2020-05-30",
-          "deaths": 605,
+          "deaths": 608,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 87478,
+          "confirmed": 92057,
           "date": "2020-05-30",
-          "deaths": 1473,
+          "deaths": 1547,
           "recovered": 0
         }
       },
       "Loreto": {
         "live": {
-          "confirmed": 3959,
+          "confirmed": 4109,
           "date": "2020-05-30",
-          "deaths": 289,
+          "deaths": 293,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 6942,
+          "confirmed": 7180,
           "date": "2020-05-30",
-          "deaths": 497,
+          "deaths": 507,
           "recovered": 0
         }
       },
       "Ucayali": {
         "live": {
-          "confirmed": 3530,
+          "confirmed": 3645,
           "date": "2020-05-30",
-          "deaths": 105,
+          "deaths": 106,
           "recovered": 0
         }
       }
@@ -1023,7 +1023,7 @@
     "live": {
       "confirmed": 19133,
       "date": "2020-05-30",
-      "deaths": 1253,
+      "deaths": 1259,
       "recovered": 13046
     }
   },
@@ -1307,9 +1307,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 40696,
+          "confirmed": 41535,
           "date": "2020-05-30",
-          "deaths": 1876,
+          "deaths": 1910,
           "recovered": 0
         }
       },
