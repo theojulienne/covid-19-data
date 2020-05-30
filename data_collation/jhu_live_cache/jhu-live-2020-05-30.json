@@ -581,7 +581,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 173491,
+      "confirmed": 173763,
       "date": "2020-05-30",
       "deaths": 4980,
       "recovered": 82627
@@ -897,10 +897,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 64028,
+      "confirmed": 66457,
       "date": "2020-05-30",
-      "deaths": 1317,
-      "recovered": 22305
+      "deaths": 1395,
+      "recovered": 24131
     }
   },
   "Panama": {
