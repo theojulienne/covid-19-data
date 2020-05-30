@@ -38,7 +38,7 @@
           "confirmed": 3092,
           "date": "2020-05-30",
           "deaths": 48,
-          "recovered": 2666
+          "recovered": 2683
         }
       }
     }
@@ -757,10 +757,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11402,
+      "confirmed": 11441,
       "date": "2020-05-30",
       "deaths": 269,
-      "recovered": 10363
+      "recovered": 10398
     }
   },
   "Kuwait": {
@@ -1283,7 +1283,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4024,
+          "confirmed": 4056,
           "date": "2020-05-30",
           "deaths": 123,
           "recovered": 0

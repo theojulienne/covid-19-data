@@ -142,7 +142,7 @@
         "current_hospitalized": 41,
         "current_icu": 9,
         "deaths": 102,
-        "recovered": 6472,
+        "recovered": 6480,
         "tested": 1140069
       },
       "back_2week": {
@@ -150,7 +150,7 @@
         "current_hospitalized": 51,
         "current_icu": 18,
         "deaths": 100,
-        "recovered": 6302,
+        "recovered": 6343,
         "tested": 943039
       },
       "latest": {
@@ -158,7 +158,7 @@
         "current_hospitalized": 12,
         "current_icu": 3,
         "deaths": 105,
-        "recovered": 6580,
+        "recovered": 3915,
         "tested": 1321330
       },
       "states": {
