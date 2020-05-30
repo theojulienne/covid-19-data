@@ -527,7 +527,7 @@ var covid19_dataset_country_ind = {
       67749,
       70920,
       82627,
-      86880
+      86896
     ]
   }
 };
