@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 8387,
+      "confirmed": 8731,
       "date": "2020-05-30",
-      "deaths": 293,
-      "recovered": 738
+      "deaths": 300,
+      "recovered": 749
     }
   },
   "Brazil": {
@@ -358,7 +358,7 @@
           "confirmed": 68135,
           "date": "2020-05-30",
           "deaths": 4512,
-          "recovered": 63618
+          "recovered": 63619
         }
       }
     }
@@ -541,10 +541,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 4348,
+      "confirmed": 4607,
       "date": "2020-05-30",
-      "deaths": 80,
-      "recovered": 565
+      "deaths": 90,
+      "recovered": 648
     }
   },
   "Guinea": {
