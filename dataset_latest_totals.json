@@ -1745,18 +1745,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 24391,
-        "deaths": 1583,
+        "confirmed": 24506,
+        "deaths": 1592,
         "recovered": 21060
       },
       "back_2week": {
-        "confirmed": 23827,
-        "deaths": 1506,
+        "confirmed": 23956,
+        "deaths": 1518,
         "recovered": 19470
       },
       "latest": {
-        "confirmed": 24841,
-        "deaths": 1639,
+        "confirmed": 24876,
+        "deaths": 1645,
         "recovered": 22089
       }
     },
