@@ -1193,10 +1193,10 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 3076,
+      "confirmed": 3077,
       "date": "2020-05-30",
       "deaths": 57,
-      "recovered": 2945
+      "recovered": 2961
     }
   },
   "Turkey": {
@@ -1501,7 +1501,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3468,
+      "confirmed": 3513,
       "date": "2020-05-30",
       "deaths": 14,
       "recovered": 2728
