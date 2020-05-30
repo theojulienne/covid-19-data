@@ -323,10 +323,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 28857,
+          "confirmed": 28872,
           "date": "2020-05-30",
-          "deaths": 2314,
-          "recovered": 21545
+          "deaths": 2316,
+          "recovered": 21576
         }
       },
       "Quebec": {
@@ -581,10 +581,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 181796,
+      "confirmed": 181827,
       "date": "2020-05-30",
       "deaths": 5185,
-      "recovered": 86896
+      "recovered": 86936
     }
   },
   "Indonesia": {
@@ -1323,9 +1323,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42499,
+          "confirmed": 42753,
           "date": "2020-05-30",
-          "deaths": 4339,
+          "deaths": 4390,
           "recovered": 0
         }
       },
@@ -1443,9 +1443,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 4994,
+          "confirmed": 5118,
           "date": "2020-05-30",
-          "deaths": 71,
+          "deaths": 74,
           "recovered": 0
         }
       },
@@ -1501,7 +1501,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3523,
+      "confirmed": 3546,
       "date": "2020-05-30",
       "deaths": 14,
       "recovered": 2783
