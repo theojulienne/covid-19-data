@@ -77,7 +77,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
-        2,
+        6,
         7,
         8,
         9,
@@ -90,6 +90,7 @@ var covid19_dataset_country_nzl = {
         26,
         26,
         27,
+        null,
         null,
         null,
         null,
@@ -208,7 +209,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
-        3,
+        181,
         205,
         239,
         278,
@@ -221,6 +222,7 @@ var covid19_dataset_country_nzl = {
         539,
         577,
         625,
+        null,
         null,
         null,
         null,
@@ -339,7 +341,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
-        60,
+        343,
         361,
         406,
         425,
@@ -352,6 +354,7 @@ var covid19_dataset_country_nzl = {
         513,
         525,
         0,
+        null,
         null,
         null,
         null,
@@ -470,7 +473,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
-        4,
+        null,
         null,
         null,
         null,
@@ -483,6 +486,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         146,
+        null,
         null,
         null,
         null,
@@ -737,7 +741,7 @@ var covid19_dataset_country_nzl = {
       451,
       514,
       589,
-      641,
+      647,
       708,
       797,
       868,
@@ -789,6 +793,7 @@ var covid19_dataset_country_nzl = {
       1499,
       1503,
       1503,
+      1504,
       1504,
       1504,
       1504,
@@ -927,6 +932,7 @@ var covid19_dataset_country_nzl = {
       2,
       2,
       2,
+      2,
       2
     ],
     "current_icu": [
@@ -1031,6 +1037,7 @@ var covid19_dataset_country_nzl = {
       1,
       1,
       1,
+      0,
       0,
       0,
       0,
@@ -1189,6 +1196,7 @@ var covid19_dataset_country_nzl = {
       21,
       21,
       21,
+      21,
       21
     ],
     "recovered": [
@@ -1261,7 +1269,7 @@ var covid19_dataset_country_nzl = {
       50,
       56,
       63,
-      73,
+      74,
       82,
       92,
       103,
@@ -1320,6 +1328,7 @@ var covid19_dataset_country_nzl = {
       1461,
       1462,
       1474,
+      1481,
       1481
     ],
     "tested": [
@@ -1451,7 +1460,8 @@ var covid19_dataset_country_nzl = {
       263156,
       267435,
       271690,
-      275852
+      275852,
+      278872
     ]
   }
 };
