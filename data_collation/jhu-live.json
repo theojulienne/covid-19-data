@@ -35,10 +35,10 @@
     "subseries": {
       "New South Wales": {
         "live": {
-          "confirmed": 3092,
+          "confirmed": 3095,
           "date": "2020-05-31",
           "deaths": 48,
-          "recovered": 2683
+          "recovered": 2685
         }
       }
     }
@@ -549,10 +549,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 4607,
+      "confirmed": 4739,
       "date": "2020-05-31",
-      "deaths": 90,
-      "recovered": 648
+      "deaths": 102,
+      "recovered": 706
     }
   },
   "Guinea": {
@@ -765,10 +765,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11441,
+      "confirmed": 11468,
       "date": "2020-05-31",
-      "deaths": 269,
-      "recovered": 10398
+      "deaths": 270,
+      "recovered": 10405
     }
   },
   "Kuwait": {
