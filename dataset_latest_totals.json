@@ -177,7 +177,7 @@
           "current_ventilators": 16,
           "deaths": 50,
           "recovered": 2670,
-          "tested": 484185
+          "tested": 493637
         },
         "NT": {
           "confirmed": 29,
@@ -1728,19 +1728,19 @@
     },
     "IND": {
       "back_1week": {
-        "confirmed": 124794,
+        "confirmed": 131423,
         "deaths": 3726,
-        "recovered": 51824
+        "recovered": 54385
       },
       "back_2week": {
-        "confirmed": 85784,
+        "confirmed": 90648,
         "deaths": 2753,
-        "recovered": 30258
+        "recovered": 34224
       },
       "latest": {
-        "confirmed": 173491,
+        "confirmed": 181827,
         "deaths": 4980,
-        "recovered": 82627
+        "recovered": 86936
       }
     },
     "IRL": {
@@ -2643,9 +2643,9 @@
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 50694,
-        "deaths": 1067,
-        "recovered": 15201
+        "confirmed": 52437,
+        "deaths": 1101,
+        "recovered": 16653
       },
       "back_2week": {
         "confirmed": 38799,
@@ -2653,9 +2653,9 @@
         "recovered": 10880
       },
       "latest": {
-        "confirmed": 64028,
-        "deaths": 1317,
-        "recovered": 22305
+        "confirmed": 66457,
+        "deaths": 1395,
+        "recovered": 24131
       }
     },
     "PAN": {
