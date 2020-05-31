@@ -581,10 +581,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 184735,
+      "confirmed": 186186,
       "date": "2020-05-31",
-      "deaths": 5253,
-      "recovered": 87789
+      "deaths": 5268,
+      "recovered": 88769
     }
   },
   "Indonesia": {
@@ -760,7 +760,7 @@
       "confirmed": 10858,
       "date": "2020-05-31",
       "deaths": 40,
-      "recovered": 5220
+      "recovered": 5404
     }
   },
   "Korea, South": {
@@ -1023,7 +1023,7 @@
     "live": {
       "confirmed": 19257,
       "date": "2020-05-31",
-      "deaths": 1262,
+      "deaths": 1266,
       "recovered": 13256
     }
   },
@@ -1193,10 +1193,10 @@
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 3807,
+      "confirmed": 3930,
       "date": "2020-05-31",
       "deaths": 47,
-      "recovered": 1865
+      "recovered": 2004
     }
   },
   "Turkey": {
@@ -1307,9 +1307,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 41535,
+          "confirmed": 42095,
           "date": "2020-05-31",
-          "deaths": 1910,
+          "deaths": 1929,
           "recovered": 0
         }
       },
@@ -1451,7 +1451,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16318,
+          "confirmed": 16643,
           "date": "2020-05-31",
           "deaths": 487,
           "recovered": 0

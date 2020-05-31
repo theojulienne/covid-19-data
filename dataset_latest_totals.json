@@ -1900,17 +1900,17 @@
       "back_1week": {
         "confirmed": 7919,
         "deaths": 35,
-        "recovered": 4096
+        "recovered": 4214
       },
       "back_2week": {
         "confirmed": 5850,
         "deaths": 34,
-        "recovered": 2707
+        "recovered": 2980
       },
       "latest": {
         "confirmed": 10382,
         "deaths": 38,
-        "recovered": 5057
+        "recovered": 5220
       }
     },
     "KEN": {
@@ -3204,19 +3204,19 @@
     },
     "TJK": {
       "back_1week": {
-        "confirmed": 2551,
+        "confirmed": 2738,
         "deaths": 44,
-        "recovered": 1089
+        "recovered": 1223
       },
       "back_2week": {
-        "confirmed": 1118,
+        "confirmed": 1322,
         "deaths": 33,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3686,
+        "confirmed": 3807,
         "deaths": 47,
-        "recovered": 1769
+        "recovered": 1865
       }
     },
     "TLS": {
