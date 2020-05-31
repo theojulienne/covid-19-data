@@ -263,7 +263,8 @@ var covid19_dataset_country_mex = {
       74560,
       78023,
       81400,
-      84627
+      84627,
+      87512
     ],
     "deaths": [
       0,
@@ -394,7 +395,8 @@ var covid19_dataset_country_mex = {
       8134,
       8597,
       9044,
-      9415
+      9415,
+      9779
     ],
     "recovered": [
       0,
@@ -525,7 +527,8 @@ var covid19_dataset_country_mex = {
       51708,
       53834,
       56041,
-      59003
+      59003,
+      61247
     ]
   }
 };

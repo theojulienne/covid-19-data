@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 8731,
+      "confirmed": 9592,
       "date": "2020-05-31",
-      "deaths": 300,
-      "recovered": 749
+      "deaths": 310,
+      "recovered": 889
     }
   },
   "Brazil": {
@@ -565,10 +565,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 4886,
+      "confirmed": 5094,
       "date": "2020-05-31",
-      "deaths": 199,
-      "recovered": 528
+      "deaths": 201,
+      "recovered": 536
     }
   },
   "Hungary": {
@@ -1219,9 +1219,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 82895,
+          "confirmed": 83206,
           "date": "2020-05-31",
-          "deaths": 3368,
+          "deaths": 3376,
           "recovered": 0
         }
       },
