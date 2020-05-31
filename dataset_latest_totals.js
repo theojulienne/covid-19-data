@@ -87,17 +87,17 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 9931,
+        "confirmed": 10649,
         "deaths": 433,
         "recovered": 3032
       },
       "back_2week": {
-        "confirmed": 7134,
+        "confirmed": 7479,
         "deaths": 356,
         "recovered": 2385
       },
       "latest": {
-        "confirmed": 14702,
+        "confirmed": 15419,
         "deaths": 520,
         "recovered": 4617
       }
@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 6955,
+          "confirmed": 6979,
           "deaths": 143
         },
         "British Columbia": {
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 7016,
-        "deaths": 211,
-        "recovered": 1907
+        "confirmed": 7261,
+        "deaths": 221,
+        "recovered": 2007
       },
       "back_2week": {
-        "confirmed": 5162,
-        "deaths": 167,
-        "recovered": 1180
+        "confirmed": 5450,
+        "deaths": 171,
+        "recovered": 1320
       },
       "latest": {
-        "confirmed": 8915,
-        "deaths": 259,
-        "recovered": 2592
+        "confirmed": 9302,
+        "deaths": 261,
+        "recovered": 2697
       }
     },
     "NIC": {
@@ -2660,19 +2660,19 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 10116,
-        "deaths": 291,
-        "recovered": 6245
+        "confirmed": 10267,
+        "deaths": 295,
+        "recovered": 6275
       },
       "back_2week": {
-        "confirmed": 9118,
-        "deaths": 260,
+        "confirmed": 9268,
+        "deaths": 266,
         "recovered": 6080
       },
       "latest": {
-        "confirmed": 12131,
-        "deaths": 320,
-        "recovered": 7379
+        "confirmed": 12531,
+        "deaths": 326,
+        "recovered": 7540
       }
     },
     "PER": {
