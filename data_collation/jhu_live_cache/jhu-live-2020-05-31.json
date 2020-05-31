@@ -315,18 +315,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 6992,
+          "confirmed": 7010,
           "date": "2020-05-31",
           "deaths": 143,
-          "recovered": 6245
+          "recovered": 6283
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 29368,
+          "confirmed": 29390,
           "date": "2020-05-31",
-          "deaths": 2343,
-          "recovered": 22116
+          "deaths": 2344,
+          "recovered": 22131
         }
       },
       "Quebec": {
@@ -436,7 +436,7 @@
       "confirmed": 24985,
       "date": "2020-05-31",
       "deaths": 959,
-      "recovered": 6810
+      "recovered": 6037
     }
   },
   "Finland": {
@@ -1188,7 +1188,7 @@
       "confirmed": 30862,
       "date": "2020-05-31",
       "deaths": 1920,
-      "recovered": 28400
+      "recovered": 28500
     }
   },
   "Tajikistan": {
@@ -1317,7 +1317,7 @@
         "live": {
           "confirmed": 93598,
           "date": "2020-05-31",
-          "deaths": 6471,
+          "deaths": 6546,
           "recovered": 0
         }
       },
@@ -1435,9 +1435,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 30921,
+          "confirmed": 30977,
           "date": "2020-05-31",
-          "deaths": 717,
+          "deaths": 718,
           "recovered": 0
         }
       },
