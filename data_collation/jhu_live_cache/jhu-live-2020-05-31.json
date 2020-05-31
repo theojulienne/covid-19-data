@@ -365,20 +365,20 @@
   },
   "Colombia": {
     "subseries": {
-      "Atlantico": {
-        "live": {
-          "confirmed": 3424,
-          "date": "2020-05-31",
-          "deaths": 87,
-          "recovered": 451
-        }
-      },
       "Capital District": {
         "live": {
-          "confirmed": 9162,
+          "confirmed": 9637,
           "date": "2020-05-31",
-          "deaths": 250,
-          "recovered": 2918
+          "deaths": 261,
+          "recovered": 2986
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 3365,
+          "date": "2020-05-31",
+          "deaths": 154,
+          "recovered": 898
         }
       }
     }
@@ -757,7 +757,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 10382,
+      "confirmed": 10858,
       "date": "2020-05-31",
       "deaths": 38,
       "recovered": 5220
@@ -1435,9 +1435,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 30572,
+          "confirmed": 30791,
           "date": "2020-05-31",
-          "deaths": 707,
+          "deaths": 712,
           "recovered": 0
         }
       },
