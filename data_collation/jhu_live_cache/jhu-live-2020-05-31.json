@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 10793,
+      "confirmed": 11288,
       "date": "2020-05-31",
       "deaths": 18,
-      "recovered": 5826
+      "recovered": 6673
     }
   },
   "Bangladesh": {
@@ -435,7 +435,7 @@
     "live": {
       "confirmed": 6859,
       "date": "2020-05-31",
-      "deaths": 316,
+      "deaths": 320,
       "recovered": 5500
     }
   },
@@ -581,10 +581,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 182681,
+      "confirmed": 182990,
       "date": "2020-05-31",
-      "deaths": 5186,
-      "recovered": 87049
+      "deaths": 5188,
+      "recovered": 87099
     }
   },
   "Indonesia": {
@@ -773,10 +773,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 26192,
+      "confirmed": 27043,
       "date": "2020-05-31",
-      "deaths": 205,
-      "recovered": 10156
+      "deaths": 212,
+      "recovered": 11386
     }
   },
   "Luxembourg": {
@@ -889,7 +889,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 10423,
+      "confirmed": 11437,
       "date": "2020-05-31",
       "deaths": 44,
       "recovered": 2396
@@ -1021,10 +1021,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 19133,
+      "confirmed": 19257,
       "date": "2020-05-31",
       "deaths": 1262,
-      "recovered": 13046
+      "recovered": 13256
     }
   },
   "Russia": {
@@ -1045,10 +1045,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 3535,
+      "confirmed": 3645,
       "date": "2020-05-31",
       "deaths": 42,
-      "recovered": 1761
+      "recovered": 1801
     }
   },
   "Serbia": {
@@ -1185,9 +1185,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30845,
+      "confirmed": 30862,
       "date": "2020-05-31",
-      "deaths": 1919,
+      "deaths": 1920,
       "recovered": 28400
     }
   },
