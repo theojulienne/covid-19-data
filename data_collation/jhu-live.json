@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 11804,
+      "confirmed": 11871,
       "date": "2020-06-01",
       "deaths": 19,
       "recovered": 7070
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 29632,
+          "confirmed": 29635,
           "date": "2020-06-01",
-          "deaths": 2346,
-          "recovered": 22271
+          "deaths": 2347,
+          "recovered": 22277
         }
       },
       "Quebec": {
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 34784,
           "date": "2020-06-01",
-          "deaths": 1752,
+          "deaths": 1758,
           "recovered": 31900
         }
       },
@@ -471,15 +471,15 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6816,
+          "confirmed": 6838,
           "date": "2020-06-01",
           "deaths": 198,
-          "recovered": 6279
+          "recovered": 6319
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 3283,
+          "confirmed": 3286,
           "date": "2020-06-01",
           "deaths": 170,
           "recovered": 3000
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 197854,
+      "confirmed": 198317,
       "date": "2020-06-01",
-      "deaths": 5603,
-      "recovered": 95422
+      "deaths": 5608,
+      "recovered": 95714
     }
   },
   "Indonesia": {
@@ -617,10 +617,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 17106,
+      "confirmed": 17169,
       "date": "2020-06-01",
       "deaths": 285,
-      "recovered": 14826
+      "recovered": 14878
     }
   },
   "Italy": {
@@ -1247,9 +1247,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 8011,
+          "confirmed": 8110,
           "date": "2020-06-01",
-          "deaths": 303,
+          "deaths": 305,
           "recovered": 0
         }
       },
@@ -1377,7 +1377,7 @@
         "live": {
           "confirmed": 351154,
           "date": "2020-06-01",
-          "deaths": 28731,
+          "deaths": 28742,
           "recovered": 0
         }
       },
@@ -1391,15 +1391,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 10306,
+          "confirmed": 10441,
           "date": "2020-06-01",
-          "deaths": 488,
+          "deaths": 512,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 49059,
+          "confirmed": 49311,
           "date": "2020-06-01",
           "deaths": 3606,
           "recovered": 0
@@ -1489,17 +1489,17 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 34557,
+      "confirmed": 35192,
       "date": "2020-06-01",
-      "deaths": 264,
-      "recovered": 17932
+      "deaths": 266,
+      "recovered": 18338
     }
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 274762,
+      "confirmed": 276332,
       "date": "2020-06-01",
-      "deaths": 38489,
+      "deaths": 39045,
       "recovered": 0
     }
   },
