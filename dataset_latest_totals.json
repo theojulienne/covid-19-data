@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 8890,
+        "confirmed": 8955,
         "deaths": 314,
-        "recovered": 6044
+        "recovered": 6078
       },
       "back_2week": {
-        "confirmed": 8455,
+        "confirmed": 8475,
         "deaths": 296,
-        "recovered": 5422
+        "recovered": 5462
       },
       "latest": {
-        "confirmed": 9230,
+        "confirmed": 9268,
         "deaths": 319,
-        "recovered": 6546
+        "recovered": 6558
       }
     },
     "DEU": {
@@ -2728,18 +2728,18 @@
     },
     "POL": {
       "back_1week": {
-        "confirmed": 20931,
-        "deaths": 993,
+        "confirmed": 21326,
+        "deaths": 996,
         "recovered": 9194
       },
       "back_2week": {
-        "confirmed": 18257,
-        "deaths": 915,
+        "confirmed": 18529,
+        "deaths": 925,
         "recovered": 7451
       },
       "latest": {
-        "confirmed": 23571,
-        "deaths": 1061,
+        "confirmed": 23786,
+        "deaths": 1064,
         "recovered": 11271
       }
     },
@@ -2814,35 +2814,35 @@
     "ROU": {
       "back_1week": {
         "confirmed": 17857,
-        "deaths": 1176,
+        "deaths": 1185,
         "recovered": 11187
       },
       "back_2week": {
         "confirmed": 16704,
-        "deaths": 1094,
+        "deaths": 1107,
         "recovered": 9574
       },
       "latest": {
         "confirmed": 19133,
-        "deaths": 1259,
+        "deaths": 1266,
         "recovered": 13046
       }
     },
     "RUS": {
       "back_1week": {
-        "confirmed": 335882,
-        "deaths": 3388,
-        "recovered": 107936
+        "confirmed": 344481,
+        "deaths": 3541,
+        "recovered": 113299
       },
       "back_2week": {
-        "confirmed": 272043,
-        "deaths": 2537,
-        "recovered": 63166
+        "confirmed": 281752,
+        "deaths": 2631,
+        "recovered": 67373
       },
       "latest": {
-        "confirmed": 396575,
-        "deaths": 4555,
-        "recovered": 167469
+        "confirmed": 405843,
+        "deaths": 4693,
+        "recovered": 171883
       }
     },
     "RWA": {
