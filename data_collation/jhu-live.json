@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 15205,
+      "confirmed": 15750,
       "date": "2020-06-01",
-      "deaths": 257,
-      "recovered": 1328
+      "deaths": 265,
+      "recovered": 1428
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 9282,
+      "confirmed": 9402,
       "date": "2020-06-01",
-      "deaths": 131,
-      "recovered": 3386
+      "deaths": 139,
+      "recovered": 3402
     }
   },
   "Austria": {
@@ -569,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 190791,
+      "confirmed": 190962,
       "date": "2020-06-01",
-      "deaths": 5408,
-      "recovered": 91855
+      "deaths": 5411,
+      "recovered": 91866
     }
   },
   "Indonesia": {
@@ -735,7 +735,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 5240,
+          "confirmed": 5253,
           "date": "2020-06-01",
           "deaths": 305,
           "recovered": 4510
@@ -996,7 +996,7 @@
       "confirmed": 23786,
       "date": "2020-06-01",
       "deaths": 1064,
-      "recovered": 11271
+      "recovered": 11449
     }
   },
   "Portugal": {
@@ -1057,7 +1057,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 34884,
+      "confirmed": 35292,
       "date": "2020-06-01",
       "deaths": 23,
       "recovered": 21699
