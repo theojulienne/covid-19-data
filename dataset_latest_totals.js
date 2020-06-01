@@ -1182,19 +1182,19 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 16513,
-        "deaths": 735,
-        "recovered": 4628
+        "confirmed": 17265,
+        "deaths": 764,
+        "recovered": 4807
       },
       "back_2week": {
-        "confirmed": 11719,
-        "deaths": 612,
-        "recovered": 2950
+        "confirmed": 12229,
+        "deaths": 630,
+        "recovered": 3172
       },
       "latest": {
-        "confirmed": 23449,
-        "deaths": 913,
-        "recovered": 5693
+        "confirmed": 24985,
+        "deaths": 959,
+        "recovered": 6037
       }
     },
     "ERI": {
