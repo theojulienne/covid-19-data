@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 9592,
+      "confirmed": 9982,
       "date": "2020-06-01",
-      "deaths": 310,
-      "recovered": 889
+      "deaths": 313,
+      "recovered": 968
     }
   },
   "Brazil": {
@@ -354,7 +354,7 @@
           "confirmed": 68135,
           "date": "2020-06-01",
           "deaths": 4512,
-          "recovered": 63619
+          "recovered": 63620
         }
       }
     }
@@ -529,10 +529,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 7881,
+      "confirmed": 8070,
       "date": "2020-06-01",
       "deaths": 36,
-      "recovered": 2841
+      "recovered": 2947
     }
   },
   "Guatemala": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 5094,
+      "confirmed": 5202,
       "date": "2020-06-01",
-      "deaths": 201,
-      "recovered": 536
+      "deaths": 212,
+      "recovered": 537
     }
   },
   "Hungary": {
@@ -1215,7 +1215,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 84769,
+          "confirmed": 84865,
           "date": "2020-06-01",
           "deaths": 3401,
           "recovered": 0
@@ -1287,7 +1287,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4228,
+          "confirmed": 4227,
           "date": "2020-06-01",
           "deaths": 126,
           "recovered": 0
@@ -1391,9 +1391,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 51985,
+          "confirmed": 52220,
           "date": "2020-06-01",
-          "deaths": 3888,
+          "deaths": 3903,
           "recovered": 0
         }
       },

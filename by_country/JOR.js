@@ -265,7 +265,8 @@ var covid19_dataset_country_jor = {
       720,
       728,
       730,
-      734
+      734,
+      739
     ],
     "deaths": [
       0,
@@ -369,6 +370,7 @@ var covid19_dataset_country_jor = {
       8,
       8,
       8,
+      9,
       9,
       9,
       9,
@@ -529,7 +531,8 @@ var covid19_dataset_country_jor = {
       586,
       497,
       507,
-      507
+      507,
+      522
     ]
   }
 };
