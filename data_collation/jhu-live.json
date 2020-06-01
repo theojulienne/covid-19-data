@@ -303,18 +303,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7010,
+          "confirmed": 7044,
           "date": "2020-06-01",
           "deaths": 143,
-          "recovered": 6283
+          "recovered": 6501
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 29812,
+          "confirmed": 29845,
           "date": "2020-06-01",
           "deaths": 2353,
-          "recovered": 22492
+          "recovered": 22505
         }
       },
       "Quebec": {
@@ -359,6 +359,14 @@
           "date": "2020-06-01",
           "deaths": 268,
           "recovered": 3396
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 3471,
+          "date": "2020-06-01",
+          "deaths": 161,
+          "recovered": 1041
         }
       }
     }
@@ -421,7 +429,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 185954,
+      "confirmed": 185952,
       "date": "2020-06-01",
       "deaths": 28779,
       "recovered": 66120
@@ -960,11 +968,111 @@
     }
   },
   "Russia": {
-    "live": {
-      "confirmed": 414878,
-      "date": "2020-06-01",
-      "deaths": 4855,
-      "recovered": 175877
+    "subseries": {
+      "Bryansk Oblast": {
+        "live": {
+          "confirmed": 3787,
+          "date": "2020-06-01",
+          "deaths": 31,
+          "recovered": 2321
+        }
+      },
+      "Dagestan Republic": {
+        "live": {
+          "confirmed": 5096,
+          "date": "2020-06-01",
+          "deaths": 260,
+          "recovered": 4442
+        }
+      },
+      "Kaluga Oblast": {
+        "live": {
+          "confirmed": 4009,
+          "date": "2020-06-01",
+          "deaths": 31,
+          "recovered": 1506
+        }
+      },
+      "Krasnodar Krai": {
+        "live": {
+          "confirmed": 3908,
+          "date": "2020-06-01",
+          "deaths": 33,
+          "recovered": 2748
+        }
+      },
+      "Krasnoyarsk Krai": {
+        "live": {
+          "confirmed": 4380,
+          "date": "2020-06-01",
+          "deaths": 39,
+          "recovered": 1060
+        }
+      },
+      "Moscow": {
+        "live": {
+          "confirmed": 183088,
+          "date": "2020-06-01",
+          "deaths": 2553,
+          "recovered": 82239
+        }
+      },
+      "Moscow Oblast": {
+        "live": {
+          "confirmed": 39723,
+          "date": "2020-06-01",
+          "deaths": 473,
+          "recovered": 8422
+        }
+      },
+      "Nizhny Novgorod Oblast": {
+        "live": {
+          "confirmed": 10149,
+          "date": "2020-06-01",
+          "deaths": 104,
+          "recovered": 3747
+        }
+      },
+      "Rostov Oblast": {
+        "live": {
+          "confirmed": 4942,
+          "date": "2020-06-01",
+          "deaths": 38,
+          "recovered": 1742
+        }
+      },
+      "Ryazan Oblast": {
+        "live": {
+          "confirmed": 3581,
+          "date": "2020-06-01",
+          "deaths": 7,
+          "recovered": 973
+        }
+      },
+      "Saint Petersburg": {
+        "live": {
+          "confirmed": 16313,
+          "date": "2020-06-01",
+          "deaths": 213,
+          "recovered": 5748
+        }
+      },
+      "Sverdlovsk Oblast": {
+        "live": {
+          "confirmed": 5732,
+          "date": "2020-06-01",
+          "deaths": 29,
+          "recovered": 2337
+        }
+      },
+      "Tula Oblast": {
+        "live": {
+          "confirmed": 3968,
+          "date": "2020-06-01",
+          "deaths": 36,
+          "recovered": 1815
+        }
+      }
     }
   },
   "Saudi Arabia": {
@@ -1151,17 +1259,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 81688,
+          "confirmed": 85158,
           "date": "2020-06-01",
-          "deaths": 3305,
+          "deaths": 3401,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 10169,
+          "confirmed": 10218,
           "date": "2020-06-01",
-          "deaths": 632,
+          "deaths": 636,
           "recovered": 0
         }
       },
@@ -1247,9 +1355,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 93598,
+          "confirmed": 97200,
           "date": "2020-06-01",
-          "deaths": 6546,
+          "deaths": 6726,
           "recovered": 0
         }
       },
@@ -1397,14 +1505,6 @@
           "recovered": 0
         }
       }
-    }
-  },
-  "Ukraine": {
-    "live": {
-      "confirmed": 24012,
-      "date": "2020-06-01",
-      "deaths": 718,
-      "recovered": 9690
     }
   },
   "United Arab Emirates": {
