@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 4739,
+      "confirmed": 5087,
       "date": "2020-06-01",
-      "deaths": 102,
-      "recovered": 706
+      "deaths": 108,
+      "recovered": 735
     }
   },
   "Guinea": {
@@ -753,10 +753,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11468,
+      "confirmed": 11503,
       "date": "2020-06-01",
-      "deaths": 270,
-      "recovered": 10405
+      "deaths": 271,
+      "recovered": 10422
     }
   },
   "Kuwait": {
