@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 5494,
+      "confirmed": 5662,
       "date": "2020-06-01",
-      "deaths": 63,
-      "recovered": 3428
+      "deaths": 68,
+      "recovered": 3508
     }
   },
   "Bahrain": {
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 29390,
+          "confirmed": 29533,
           "date": "2020-06-01",
           "deaths": 2344,
-          "recovered": 22132
+          "recovered": 22172
         }
       },
       "Quebec": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 193473,
+      "confirmed": 194700,
       "date": "2020-06-01",
-      "deaths": 5437,
-      "recovered": 93072
+      "deaths": 5495,
+      "recovered": 93343
     }
   },
   "Indonesia": {
@@ -601,10 +601,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 6439,
+      "confirmed": 6868,
       "date": "2020-06-01",
-      "deaths": 205,
-      "recovered": 3156
+      "deaths": 215,
+      "recovered": 3275
     }
   },
   "Ireland": {
@@ -1067,8 +1067,8 @@
     "live": {
       "confirmed": 35292,
       "date": "2020-06-01",
-      "deaths": 23,
-      "recovered": 21699
+      "deaths": 24,
+      "recovered": 22466
     }
   },
   "South Africa": {
@@ -1263,9 +1263,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 31119,
+          "confirmed": 31470,
           "date": "2020-06-01",
-          "deaths": 1350,
+          "deaths": 1353,
           "recovered": 0
         }
       },
@@ -1295,7 +1295,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4227,
+          "confirmed": 4240,
           "date": "2020-06-01",
           "deaths": 126,
           "recovered": 0
@@ -1359,7 +1359,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 6657,
+          "confirmed": 6719,
           "date": "2020-06-01",
           "deaths": 343,
           "recovered": 0
