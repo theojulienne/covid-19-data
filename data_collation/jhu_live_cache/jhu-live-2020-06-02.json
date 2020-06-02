@@ -353,20 +353,28 @@
   },
   "Colombia": {
     "subseries": {
+      "Atlantico": {
+        "live": {
+          "confirmed": 4116,
+          "date": "2020-06-02",
+          "deaths": 121,
+          "recovered": 825
+        }
+      },
       "Capital District": {
         "live": {
-          "confirmed": 9989,
+          "confirmed": 10370,
           "date": "2020-06-02",
-          "deaths": 268,
-          "recovered": 3396
+          "deaths": 273,
+          "recovered": 3715
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 3471,
+          "confirmed": 3586,
           "date": "2020-06-02",
-          "deaths": 161,
-          "recovered": 1041
+          "deaths": 169,
+          "recovered": 1148
         }
       }
     }
@@ -429,7 +437,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 185952,
+      "confirmed": 185896,
       "date": "2020-06-02",
       "deaths": 28779,
       "recovered": 66120
@@ -553,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 199785,
+      "confirmed": 201009,
       "date": "2020-06-02",
-      "deaths": 5612,
-      "recovered": 95875
+      "deaths": 5628,
+      "recovered": 96534
     }
   },
   "Indonesia": {
@@ -698,7 +706,7 @@
           "confirmed": 5287,
           "date": "2020-06-02",
           "deaths": 306,
-          "recovered": 4539
+          "recovered": 4586
         }
       }
     }
@@ -767,14 +775,6 @@
           "date": "2020-06-02",
           "deaths": 1168,
           "recovered": 12121
-        }
-      },
-      "Sinaloa": {
-        "live": {
-          "confirmed": 3580,
-          "date": "2020-06-02",
-          "deaths": 522,
-          "recovered": 2465
         }
       },
       "Tabasco": {
@@ -1241,10 +1241,10 @@
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 4013,
+      "confirmed": 4100,
       "date": "2020-06-02",
       "deaths": 47,
-      "recovered": 2089
+      "recovered": 2217
     }
   },
   "Turkey": {
@@ -1355,9 +1355,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 42574,
+          "confirmed": 43281,
           "date": "2020-06-02",
-          "deaths": 1946,
+          "deaths": 1975,
           "recovered": 0
         }
       },

@@ -3204,19 +3204,19 @@ var covid19_dataset_latest_totals = {
     },
     "TJK": {
       "back_1week": {
-        "confirmed": 2929,
+        "confirmed": 3100,
         "deaths": 46,
-        "recovered": 1301
+        "recovered": 1395
       },
       "back_2week": {
-        "confirmed": 1524,
+        "confirmed": 1729,
         "deaths": 39,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3930,
+        "confirmed": 4013,
         "deaths": 47,
-        "recovered": 2004
+        "recovered": 2089
       }
     },
     "TLS": {
