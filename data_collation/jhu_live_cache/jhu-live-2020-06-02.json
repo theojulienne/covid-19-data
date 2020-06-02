@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30030,
+          "confirmed": 30205,
           "date": "2020-06-02",
-          "deaths": 2362,
-          "recovered": 21065
+          "deaths": 2369,
+          "recovered": 22838
         }
       },
       "Quebec": {
@@ -331,9 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 85239,
+          "confirmed": 88194,
           "date": "2020-06-02",
-          "deaths": 824,
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Valparaiso": {
+        "live": {
+          "confirmed": 3595,
+          "date": "2020-06-02",
+          "deaths": 0,
           "recovered": 0
         }
       }
@@ -367,14 +375,6 @@
           "date": "2020-06-02",
           "deaths": 273,
           "recovered": 3715
-        }
-      },
-      "Valle del Cauca": {
-        "live": {
-          "confirmed": 3586,
-          "date": "2020-06-02",
-          "deaths": 169,
-          "recovered": 1148
         }
       }
     }
@@ -1475,9 +1475,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 28639,
+          "confirmed": 29023,
           "date": "2020-06-02",
-          "deaths": 629,
+          "deaths": 630,
           "recovered": 0
         }
       },
