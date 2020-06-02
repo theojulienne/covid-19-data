@@ -45,9 +45,11 @@ def get_population():
         country = row[country_field]
         value = int(row[value_field])
 
-        if country not in ioc_to_iso: continue
+        # if country not in ioc_to_iso: continue
+        if country not in iso_to_name: continue
 
-        iso = ioc_to_iso[country]
+        # iso = ioc_to_iso[country]
+        iso = country
 
         country_population[iso] = value
 
