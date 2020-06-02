@@ -193,7 +193,7 @@
           "current_icu": 1,
           "deaths": 7,
           "recovered": 1046,
-          "tested": 195437
+          "tested": 197367
         },
         "SA": {
           "confirmed": 439,
@@ -1165,13 +1165,13 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 36756,
-        "deaths": 3108,
-        "recovered": 3560
+        "confirmed": 37355,
+        "deaths": 3203,
+        "recovered": 18003
       },
       "back_2week": {
-        "confirmed": 33182,
-        "deaths": 2736,
+        "confirmed": 33582,
+        "deaths": 2799,
         "recovered": 3433
       },
       "latest": {

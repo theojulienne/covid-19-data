@@ -405,10 +405,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 39098,
+      "confirmed": 39994,
       "date": "2020-06-02",
-      "deaths": 3358,
-      "recovered": 19592
+      "deaths": 3394,
+      "recovered": 19823
     }
   },
   "Egypt": {
@@ -1267,7 +1267,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 83303,
+          "confirmed": 83309,
           "date": "2020-06-02",
           "deaths": 3337,
           "recovered": 0
