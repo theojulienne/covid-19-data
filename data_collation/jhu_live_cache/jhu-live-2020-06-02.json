@@ -463,10 +463,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 6839,
+          "confirmed": 6873,
           "date": "2020-06-02",
           "deaths": 198,
-          "recovered": 6319
+          "recovered": 6358
         }
       },
       "Hamburg": {
@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 205147,
+      "confirmed": 207085,
       "date": "2020-06-02",
-      "deaths": 5782,
-      "recovered": 99350
+      "deaths": 5829,
+      "recovered": 100205
     }
   },
   "Indonesia": {
@@ -593,9 +593,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25062,
+      "confirmed": 25066,
       "date": "2020-06-02",
-      "deaths": 1650,
+      "deaths": 1658,
       "recovered": 22089
     }
   },
@@ -715,7 +715,7 @@
     "live": {
       "confirmed": 11571,
       "date": "2020-06-02",
-      "deaths": 41,
+      "deaths": 44,
       "recovered": 5941
     }
   },
@@ -805,10 +805,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 7859,
+      "confirmed": 7866,
       "date": "2020-06-02",
-      "deaths": 205,
-      "recovered": 6291
+      "deaths": 206,
+      "recovered": 6410
     }
   },
   "Netherlands": {
@@ -1249,10 +1249,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 164769,
+      "confirmed": 165555,
       "date": "2020-06-02",
-      "deaths": 4563,
-      "recovered": 128947
+      "deaths": 4585,
+      "recovered": 129921
     }
   },
   "US": {
@@ -1261,7 +1261,7 @@
         "live": {
           "confirmed": 10536,
           "date": "2020-06-02",
-          "deaths": 433,
+          "deaths": 448,
           "recovered": 0
         }
       },
@@ -1291,17 +1291,17 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 8110,
+          "confirmed": 8182,
           "date": "2020-06-02",
-          "deaths": 305,
+          "deaths": 307,
           "recovered": 0
         }
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 8857,
+          "confirmed": 8886,
           "date": "2020-06-02",
-          "deaths": 468,
+          "deaths": 470,
           "recovered": 0
         }
       },
@@ -1347,9 +1347,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 18459,
+          "confirmed": 18597,
           "date": "2020-06-02",
-          "deaths": 1197,
+          "deaths": 1199,
           "recovered": 0
         }
       },
@@ -1419,17 +1419,17 @@
       },
       "New York": {
         "live": {
-          "confirmed": 351154,
+          "confirmed": 352343,
           "date": "2020-06-02",
-          "deaths": 28768,
+          "deaths": 28819,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 4412,
+          "confirmed": 4519,
           "date": "2020-06-02",
-          "deaths": 92,
+          "deaths": 95,
           "recovered": 0
         }
       },
@@ -1525,9 +1525,9 @@
   },
   "United Kingdom": {
     "live": {
-      "confirmed": 276332,
+      "confirmed": 277985,
       "date": "2020-06-02",
-      "deaths": 39045,
+      "deaths": 39369,
       "recovered": 0
     }
   },
