@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 86106,
+        "confirmed": 87119,
         "deaths": 6534,
         "recovered": 43998
       },
       "back_2week": {
-        "confirmed": 78332,
+        "confirmed": 79411,
         "deaths": 5903,
         "recovered": 38563
       },
       "latest": {
-        "confirmed": 92479,
+        "confirmed": 93288,
         "deaths": 7374,
         "recovered": 49213
       },
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 60
         },
         "Ontario": {
-          "confirmed": 29390,
+          "confirmed": 29845,
           "deaths": 2344
         },
         "Prince Edward Island": {
@@ -1035,18 +1035,18 @@ var covid19_dataset_latest_totals = {
     "CZE": {
       "back_1week": {
         "confirmed": 9002,
-        "deaths": 315,
-        "recovered": 6078
+        "deaths": 317,
+        "recovered": 6182
       },
       "back_2week": {
         "confirmed": 8586,
-        "deaths": 298,
-        "recovered": 5462
+        "deaths": 297,
+        "recovered": 5641
       },
       "latest": {
         "confirmed": 9302,
-        "deaths": 320,
-        "recovered": 6558
+        "deaths": 321,
+        "recovered": 6642
       }
     },
     "DEU": {
@@ -1148,19 +1148,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 8306,
-        "deaths": 600,
-        "recovered": 4784
+        "confirmed": 8503,
+        "deaths": 609,
+        "recovered": 4747
       },
       "back_2week": {
-        "confirmed": 7019,
-        "deaths": 548,
-        "recovered": 3507
+        "confirmed": 7201,
+        "deaths": 555,
+        "recovered": 3625
       },
       "latest": {
-        "confirmed": 9394,
-        "deaths": 653,
-        "recovered": 5748
+        "confirmed": 9513,
+        "deaths": 661,
+        "recovered": 5894
       }
     },
     "ECU": {
@@ -2153,19 +2153,19 @@ var covid19_dataset_latest_totals = {
     },
     "LUX": {
       "back_1week": {
-        "confirmed": 3992,
+        "confirmed": 3993,
         "deaths": 110,
-        "recovered": 3767
+        "recovered": 3781
       },
       "back_2week": {
-        "confirmed": 3945,
+        "confirmed": 3947,
         "deaths": 107,
-        "recovered": 3702
+        "recovered": 3715
       },
       "latest": {
-        "confirmed": 4018,
+        "confirmed": 4019,
         "deaths": 110,
-        "recovered": 3833
+        "recovered": 3845
       }
     },
     "LVA": {
