@@ -498,7 +498,7 @@
           "confirmed": 6704,
           "date": "2020-06-02",
           "deaths": 230,
-          "recovered": 6223
+          "recovered": 6246
         }
       },
       "Sachsen": {
@@ -721,10 +721,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 27762,
+      "confirmed": 28649,
       "date": "2020-06-02",
-      "deaths": 220,
-      "recovered": 12899
+      "deaths": 226,
+      "recovered": 14281
     }
   },
   "Luxembourg": {
@@ -969,10 +969,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 19398,
+      "confirmed": 19517,
       "date": "2020-06-02",
       "deaths": 1279,
-      "recovered": 13426
+      "recovered": 13526
     }
   },
   "Russia": {
@@ -1095,7 +1095,7 @@
     "live": {
       "confirmed": 3739,
       "date": "2020-06-02",
-      "deaths": 42,
+      "deaths": 43,
       "recovered": 1858
     }
   },
@@ -1233,7 +1233,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30871,
+      "confirmed": 30874,
       "date": "2020-06-02",
       "deaths": 1920,
       "recovered": 28500
