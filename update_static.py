@@ -39,9 +39,10 @@ def get_population():
     country_name_field = header.index('Country Name')
     value_field = header.index('Value')
 
+    population_best = defaultdict(lambda: 0)
+
     country_population = {}
     for row in reader:
-        if row[year_field] != '2016': continue # latest available right now
         country = row[country_field]
         value = int(row[value_field])
 
@@ -51,6 +52,10 @@ def get_population():
         # iso = ioc_to_iso[country]
         iso = country
 
+        year = int(row[year_field])
+        if year < population_best[country]:
+            continue # our year is older than the one so far, ignore
+
         country_population[iso] = value
 
     return country_population
@@ -59,15 +64,15 @@ out_names = iso_to_name
 out_pops = get_population()
 
 with open('populations.json', 'w') as o:
-    json.dump(out_pops, o, indent='  ')
+    json.dump(out_pops, o, indent='  ', sort_keys=True)
 
 with open('populations.js', 'w') as o:
     o.write('var covid19_dataset_populations = ')
-    json.dump(out_pops, o, indent='  ')
+    json.dump(out_pops, o, indent='  ', sort_keys=True)
 
 with open('countries.json', 'w') as o:
-    json.dump(out_names, o, indent='  ')
+    json.dump(out_names, o, indent='  ', sort_keys=True)
 
 with open('countries.js', 'w') as o:
     o.write('var covid19_dataset_country_names = ')
-    json.dump(out_names, o, indent='  ')
+    json.dump(out_names, o, indent='  ', sort_keys=True)
