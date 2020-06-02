@@ -303,18 +303,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7044,
+          "confirmed": 7057,
           "date": "2020-06-02",
           "deaths": 143,
-          "recovered": 6501
+          "recovered": 6537
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 30205,
+          "confirmed": 30256,
           "date": "2020-06-02",
-          "deaths": 2369,
-          "recovered": 22838
+          "deaths": 2373,
+          "recovered": 22849
         }
       },
       "Quebec": {
@@ -829,7 +829,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8452,
+      "confirmed": 8455,
       "date": "2020-06-02",
       "deaths": 237,
       "recovered": 7727
@@ -1267,17 +1267,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 83729,
+          "confirmed": 84830,
           "date": "2020-06-02",
-          "deaths": 3349,
+          "deaths": 3406,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 10218,
+          "confirmed": 10307,
           "date": "2020-06-02",
-          "deaths": 636,
+          "deaths": 641,
           "recovered": 0
         }
       },
