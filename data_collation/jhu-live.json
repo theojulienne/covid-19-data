@@ -421,7 +421,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 6887,
+      "confirmed": 6911,
       "date": "2020-06-03",
       "deaths": 320,
       "recovered": 5500
@@ -553,7 +553,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 208479,
+      "confirmed": 208543,
       "date": "2020-06-03",
       "deaths": 5834,
       "recovered": 100419
@@ -1233,7 +1233,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30874,
+      "confirmed": 30893,
       "date": "2020-06-03",
       "deaths": 1920,
       "recovered": 28600
