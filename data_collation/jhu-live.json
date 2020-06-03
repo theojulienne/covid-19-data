@@ -303,10 +303,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7057,
+          "confirmed": 7076,
           "date": "2020-06-03",
-          "deaths": 143,
-          "recovered": 6537
+          "deaths": 145,
+          "recovered": 6587
         }
       },
       "Ontario": {
@@ -561,7 +561,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 216805,
+      "confirmed": 216824,
       "date": "2020-06-03",
       "deaths": 6088,
       "recovered": 104071
@@ -829,7 +829,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8467,
+      "confirmed": 8477,
       "date": "2020-06-03",
       "deaths": 237,
       "recovered": 7727
@@ -1267,17 +1267,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 85126,
+          "confirmed": 85379,
           "date": "2020-06-03",
-          "deaths": 3424,
+          "deaths": 3433,
           "recovered": 0
         }
       },
       "Colorado": {
         "live": {
-          "confirmed": 10307,
+          "confirmed": 10413,
           "date": "2020-06-03",
-          "deaths": 641,
+          "deaths": 654,
           "recovered": 0
         }
       },
@@ -1339,9 +1339,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4342,
+          "confirmed": 4373,
           "date": "2020-06-03",
-          "deaths": 133,
+          "deaths": 134,
           "recovered": 0
         }
       },
@@ -1475,9 +1475,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 29369,
+          "confirmed": 29610,
           "date": "2020-06-03",
-          "deaths": 648,
+          "deaths": 653,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 11994,
+          "confirmed": 12202,
           "date": "2020-06-03",
-          "deaths": 666,
+          "deaths": 670,
           "recovered": 0
         }
       },
