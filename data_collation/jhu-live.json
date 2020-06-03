@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 16759,
+      "confirmed": 16771,
       "date": "2020-06-03",
-      "deaths": 669,
-      "recovered": 15629
+      "deaths": 670,
+      "recovered": 15672
     }
   },
   "Azerbaijan": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 12311,
+      "confirmed": 12574,
       "date": "2020-06-03",
       "deaths": 20,
-      "recovered": 7407
+      "recovered": 7410
     }
   },
   "Bangladesh": {
@@ -355,18 +355,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 4116,
+          "confirmed": 4550,
           "date": "2020-06-03",
-          "deaths": 121,
-          "recovered": 825
+          "deaths": 127,
+          "recovered": 1093
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 10370,
+          "confirmed": 10743,
           "date": "2020-06-03",
-          "deaths": 273,
-          "recovered": 3715
+          "deaths": 282,
+          "recovered": 4115
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 3714,
+          "date": "2020-06-03",
+          "deaths": 179,
+          "recovered": 1254
         }
       }
     }
@@ -429,10 +437,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 184980,
+      "confirmed": 184963,
       "date": "2020-06-03",
       "deaths": 28886,
-      "recovered": 66485
+      "recovered": 66438
     }
   },
   "Germany": {
@@ -829,7 +837,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8455,
+      "confirmed": 8467,
       "date": "2020-06-03",
       "deaths": 237,
       "recovered": 7727
@@ -866,14 +874,6 @@
           "confirmed": 4444,
           "date": "2020-06-03",
           "deaths": 270,
-          "recovered": 0
-        }
-      },
-      "Arequipa": {
-        "live": {
-          "confirmed": 3633,
-          "date": "2020-06-03",
-          "deaths": 49,
           "recovered": 0
         }
       },
@@ -1299,9 +1299,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 8886,
+          "confirmed": 9016,
           "date": "2020-06-03",
-          "deaths": 470,
+          "deaths": 473,
           "recovered": 0
         }
       },
@@ -1355,9 +1355,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 43281,
+          "confirmed": 43929,
           "date": "2020-06-03",
-          "deaths": 1975,
+          "deaths": 2008,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17150,
+          "confirmed": 17433,
           "date": "2020-06-03",
-          "deaths": 495,
+          "deaths": 505,
           "recovered": 0
         }
       },
