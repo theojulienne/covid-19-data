@@ -331,7 +331,15 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 88194,
+          "confirmed": 92191,
+          "date": "2020-06-03",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Valparaiso": {
+        "live": {
+          "confirmed": 3769,
           "date": "2020-06-03",
           "deaths": 0,
           "recovered": 0
@@ -381,10 +389,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9374,
+      "confirmed": 9414,
       "date": "2020-06-03",
-      "deaths": 323,
-      "recovered": 6693
+      "deaths": 325,
+      "recovered": 6748
     }
   },
   "Denmark": {
@@ -561,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 216429,
+      "confirmed": 216715,
       "date": "2020-06-03",
-      "deaths": 6087,
-      "recovered": 103949
+      "deaths": 6088,
+      "recovered": 104030
     }
   },
   "Indonesia": {
@@ -775,14 +783,6 @@
           "date": "2020-06-03",
           "deaths": 1205,
           "recovered": 12585
-        }
-      },
-      "Sinaloa": {
-        "live": {
-          "confirmed": 3699,
-          "date": "2020-06-03",
-          "deaths": 548,
-          "recovered": 2560
         }
       },
       "Tabasco": {
@@ -1347,9 +1347,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 18597,
+          "confirmed": 18685,
           "date": "2020-06-03",
-          "deaths": 1199,
+          "deaths": 1205,
           "recovered": 0
         }
       },
@@ -1421,15 +1421,15 @@
         "live": {
           "confirmed": 353173,
           "date": "2020-06-03",
-          "deaths": 28858,
+          "deaths": 28870,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 4519,
+          "confirmed": 4670,
           "date": "2020-06-03",
-          "deaths": 95,
+          "deaths": 96,
           "recovered": 0
         }
       },
@@ -1443,7 +1443,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 49895,
+          "confirmed": 50021,
           "date": "2020-06-03",
           "deaths": 3717,
           "recovered": 0
@@ -1517,10 +1517,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 35788,
+      "confirmed": 36359,
       "date": "2020-06-03",
-      "deaths": 269,
-      "recovered": 18726
+      "deaths": 270,
+      "recovered": 19153
     }
   },
   "United Kingdom": {
@@ -1533,7 +1533,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 3815,
+      "confirmed": 3843,
       "date": "2020-06-03",
       "deaths": 16,
       "recovered": 3014
