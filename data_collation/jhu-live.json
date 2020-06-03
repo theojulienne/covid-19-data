@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 12574,
+      "confirmed": 12815,
       "date": "2020-06-03",
       "deaths": 20,
       "recovered": 7410
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30383,
+          "confirmed": 30603,
           "date": "2020-06-03",
-          "deaths": 2380,
-          "recovered": 23019
+          "deaths": 2392,
+          "recovered": 23268
         }
       },
       "Quebec": {
@@ -376,14 +376,6 @@
           "deaths": 282,
           "recovered": 4115
         }
-      },
-      "Valle del Cauca": {
-        "live": {
-          "confirmed": 3714,
-          "date": "2020-06-03",
-          "deaths": 179,
-          "recovered": 1254
-        }
       }
     }
   },
@@ -429,10 +421,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 27536,
+      "confirmed": 28615,
       "date": "2020-06-03",
-      "deaths": 1052,
-      "recovered": 6827
+      "deaths": 1088,
+      "recovered": 7350
     }
   },
   "Finland": {
@@ -445,10 +437,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 184956,
+      "confirmed": 110906,
       "date": "2020-06-03",
-      "deaths": 28886,
-      "recovered": 66388
+      "deaths": 28967,
+      "recovered": 67031
     }
   },
   "Germany": {
@@ -545,10 +537,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 3886,
+      "confirmed": 3933,
       "date": "2020-06-03",
       "deaths": 23,
-      "recovered": 2267
+      "recovered": 2332
     }
   },
   "Honduras": {
@@ -569,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 216715,
+      "confirmed": 216805,
       "date": "2020-06-03",
       "deaths": 6088,
-      "recovered": 104030
+      "recovered": 104071
     }
   },
   "Indonesia": {
@@ -609,10 +601,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 17342,
+      "confirmed": 17377,
       "date": "2020-06-03",
-      "deaths": 290,
-      "recovered": 14955
+      "deaths": 291,
+      "recovered": 14983
     }
   },
   "Italy": {
@@ -871,65 +863,81 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 4444,
+          "confirmed": 4647,
           "date": "2020-06-03",
-          "deaths": 270,
+          "deaths": 286,
+          "recovered": 0
+        }
+      },
+      "Arequipa": {
+        "live": {
+          "confirmed": 3817,
+          "date": "2020-06-03",
+          "deaths": 51,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 12495,
+          "confirmed": 13171,
           "date": "2020-06-03",
-          "deaths": 329,
+          "deaths": 346,
+          "recovered": 0
+        }
+      },
+      "Ica": {
+        "live": {
+          "confirmed": 3851,
+          "date": "2020-06-03",
+          "deaths": 261,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 4898,
+          "confirmed": 5351,
           "date": "2020-06-03",
-          "deaths": 199,
+          "deaths": 212,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 8811,
+          "confirmed": 9348,
           "date": "2020-06-03",
-          "deaths": 616,
+          "deaths": 621,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 103020,
+          "confirmed": 108323,
           "date": "2020-06-03",
-          "deaths": 1786,
+          "deaths": 1947,
           "recovered": 0
         }
       },
       "Loreto": {
         "live": {
-          "confirmed": 5133,
+          "confirmed": 5517,
           "date": "2020-06-03",
-          "deaths": 297,
+          "deaths": 300,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 8143,
+          "confirmed": 7890,
           "date": "2020-06-03",
-          "deaths": 527,
+          "deaths": 538,
           "recovered": 0
         }
       },
       "Ucayali": {
         "live": {
-          "confirmed": 4268,
+          "confirmed": 4580,
           "date": "2020-06-03",
-          "deaths": 107,
+          "deaths": 113,
           "recovered": 0
         }
       }
@@ -1049,14 +1057,6 @@
           "recovered": 1950
         }
       },
-      "Ryazan Oblast": {
-        "live": {
-          "confirmed": 3728,
-          "date": "2020-06-03",
-          "deaths": 9,
-          "recovered": 1169
-        }
-      },
       "Saint Petersburg": {
         "live": {
           "confirmed": 17069,
@@ -1117,10 +1117,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 35812,
+      "confirmed": 37525,
       "date": "2020-06-03",
-      "deaths": 755,
-      "recovered": 18313
+      "deaths": 792,
+      "recovered": 19682
     }
   },
   "Spain": {
@@ -1217,10 +1217,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 5310,
+      "confirmed": 5499,
       "date": "2020-06-03",
-      "deaths": 307,
-      "recovered": 1625
+      "deaths": 314,
+      "recovered": 1711
     }
   },
   "Sweden": {
@@ -1283,9 +1283,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 37837,
+          "confirmed": 37930,
           "date": "2020-06-03",
-          "deaths": 3525,
+          "deaths": 3538,
           "recovered": 0
         }
       },
@@ -1315,17 +1315,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 12332,
+          "confirmed": 12625,
           "date": "2020-06-03",
-          "deaths": 496,
+          "deaths": 501,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 108057,
+          "confirmed": 108828,
           "date": "2020-06-03",
-          "deaths": 4879,
+          "deaths": 4952,
           "recovered": 0
         }
       },
@@ -1339,7 +1339,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4345,
+          "confirmed": 4342,
           "date": "2020-06-03",
           "deaths": 133,
           "recovered": 0
@@ -1363,17 +1363,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 97574,
+          "confirmed": 98004,
           "date": "2020-06-03",
-          "deaths": 6777,
+          "deaths": 6838,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 43342,
+          "confirmed": 43520,
           "date": "2020-06-03",
-          "deaths": 4455,
+          "deaths": 4471,
           "recovered": 0
         }
       },
@@ -1411,7 +1411,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 149987,
+          "confirmed": 150017,
           "date": "2020-06-03",
           "deaths": 11053,
           "recovered": 0
@@ -1429,15 +1429,15 @@
         "live": {
           "confirmed": 4670,
           "date": "2020-06-03",
-          "deaths": 96,
+          "deaths": 97,
           "recovered": 0
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 10577,
+          "confirmed": 10781,
           "date": "2020-06-03",
-          "deaths": 524,
+          "deaths": 537,
           "recovered": 0
         }
       },
@@ -1467,25 +1467,25 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 10636,
+          "confirmed": 10857,
           "date": "2020-06-03",
-          "deaths": 181,
+          "deaths": 184,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 29280,
+          "confirmed": 29369,
           "date": "2020-06-03",
-          "deaths": 646,
+          "deaths": 648,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 5449,
+          "confirmed": 5603,
           "date": "2020-06-03",
-          "deaths": 74,
+          "deaths": 78,
           "recovered": 0
         }
       },
@@ -1507,9 +1507,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 8004,
+          "confirmed": 8108,
           "date": "2020-06-03",
-          "deaths": 309,
+          "deaths": 315,
           "recovered": 0
         }
       }
