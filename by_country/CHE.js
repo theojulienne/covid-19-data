@@ -269,8 +269,7 @@ var covid19_dataset_country_che = {
       30828,
       30845,
       30862,
-      30871,
-      30874
+      30871
     ],
     "deaths": [
       0,
