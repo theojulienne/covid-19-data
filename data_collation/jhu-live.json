@@ -553,10 +553,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 207191,
+      "confirmed": 207615,
       "date": "2020-06-03",
       "deaths": 5829,
-      "recovered": 100285
+      "recovered": 100303
     }
   },
   "Indonesia": {
@@ -705,7 +705,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 11571,
+      "confirmed": 11796,
       "date": "2020-06-03",
       "deaths": 44,
       "recovered": 5941
@@ -845,10 +845,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 76398,
+      "confirmed": 80463,
       "date": "2020-06-03",
-      "deaths": 1621,
-      "recovered": 27110
+      "deaths": 1688,
+      "recovered": 28923
     }
   },
   "Panama": {
