@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 10531,
+      "confirmed": 10991,
       "date": "2020-06-03",
-      "deaths": 343,
-      "recovered": 1137
+      "deaths": 376,
+      "recovered": 1298
     }
   },
   "Brazil": {
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30257,
+          "confirmed": 30259,
           "date": "2020-06-03",
-          "deaths": 2374,
-          "recovered": 22849
+          "deaths": 2375,
+          "recovered": 22852
         }
       },
       "Quebec": {
@@ -537,10 +537,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 5362,
+      "confirmed": 5527,
       "date": "2020-06-03",
-      "deaths": 217,
-      "recovered": 549
+      "deaths": 225,
+      "recovered": 563
     }
   },
   "Hungary": {
