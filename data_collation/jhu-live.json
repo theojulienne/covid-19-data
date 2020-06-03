@@ -311,9 +311,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30256,
+          "confirmed": 30257,
           "date": "2020-06-03",
-          "deaths": 2373,
+          "deaths": 2374,
           "recovered": 22849
         }
       },
@@ -521,10 +521,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 5336,
+      "confirmed": 5586,
       "date": "2020-06-03",
-      "deaths": 116,
-      "recovered": 795
+      "deaths": 123,
+      "recovered": 824
     }
   },
   "Guinea": {
@@ -713,10 +713,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11541,
+      "confirmed": 11590,
       "date": "2020-06-03",
-      "deaths": 272,
-      "recovered": 10446
+      "deaths": 273,
+      "recovered": 10467
     }
   },
   "Kuwait": {
@@ -853,9 +853,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 13837,
+      "confirmed": 14095,
       "date": "2020-06-03",
-      "deaths": 344,
+      "deaths": 352,
       "recovered": 9514
     }
   },
@@ -1217,10 +1217,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 5173,
+      "confirmed": 5310,
       "date": "2020-06-03",
-      "deaths": 298,
-      "recovered": 1522
+      "deaths": 307,
+      "recovered": 1625
     }
   },
   "Sweden": {
