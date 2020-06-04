@@ -381,10 +381,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9438,
+      "confirmed": 9441,
       "date": "2020-06-04",
-      "deaths": 325,
-      "recovered": 6749
+      "deaths": 324,
+      "recovered": 6752
     }
   },
   "Denmark": {
@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 217554,
+      "confirmed": 217965,
       "date": "2020-06-04",
       "deaths": 6091,
-      "recovered": 104155
+      "recovered": 104242
     }
   },
   "Indonesia": {
@@ -845,10 +845,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 13537,
+      "confirmed": 14316,
       "date": "2020-06-04",
       "deaths": 67,
-      "recovered": 2845
+      "recovered": 3451
     }
   },
   "Pakistan": {
@@ -985,10 +985,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 19669,
+      "confirmed": 19907,
       "date": "2020-06-04",
       "deaths": 1299,
-      "recovered": 13800
+      "recovered": 13919
     }
   },
   "Russia": {
@@ -1241,7 +1241,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30893,
+      "confirmed": 30913,
       "date": "2020-06-04",
       "deaths": 1921,
       "recovered": 28600
@@ -1544,7 +1544,7 @@
       "confirmed": 3874,
       "date": "2020-06-04",
       "deaths": 16,
-      "recovered": 3014
+      "recovered": 3018
     }
   }
 }
