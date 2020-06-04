@@ -355,18 +355,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 4550,
+          "confirmed": 4756,
           "date": "2020-06-04",
-          "deaths": 127,
-          "recovered": 1093
+          "deaths": 137,
+          "recovered": 1234
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 10743,
+          "confirmed": 11250,
           "date": "2020-06-04",
-          "deaths": 282,
-          "recovered": 4115
+          "deaths": 288,
+          "recovered": 4494
+        }
+      },
+      "Valle del Cauca": {
+        "live": {
+          "confirmed": 3886,
+          "date": "2020-06-04",
+          "deaths": 190,
+          "recovered": 1306
         }
       }
     }
@@ -1347,9 +1355,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 18685,
+          "confirmed": 14912,
           "date": "2020-06-04",
-          "deaths": 1205,
+          "deaths": 963,
           "recovered": 0
         }
       },
