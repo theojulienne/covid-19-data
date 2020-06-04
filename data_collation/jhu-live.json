@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30749,
+          "confirmed": 30945,
           "date": "2020-06-04",
-          "deaths": 2396,
-          "recovered": 23405
+          "deaths": 2436,
+          "recovered": 23647
         }
       },
       "Quebec": {
@@ -545,10 +545,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 3933,
+      "confirmed": 3991,
       "date": "2020-06-04",
       "deaths": 23,
-      "recovered": 2332
+      "recovered": 2512
     }
   },
   "Honduras": {
@@ -1291,9 +1291,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 10413,
+          "confirmed": 10530,
           "date": "2020-06-04",
-          "deaths": 654,
+          "deaths": 661,
           "recovered": 0
         }
       },
@@ -1355,7 +1355,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4519,
+          "confirmed": 4541,
           "date": "2020-06-04",
           "deaths": 137,
           "recovered": 0
@@ -1413,7 +1413,7 @@
         "live": {
           "confirmed": 4640,
           "date": "2020-06-04",
-          "deaths": 23,
+          "deaths": 34,
           "recovered": 0
         }
       },
@@ -1427,7 +1427,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 150421,
+          "confirmed": 150444,
           "date": "2020-06-04",
           "deaths": 11139,
           "recovered": 0
@@ -1491,9 +1491,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 29849,
+          "confirmed": 30607,
           "date": "2020-06-04",
-          "deaths": 657,
+          "deaths": 665,
           "recovered": 0
         }
       },
@@ -1515,9 +1515,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 12202,
+          "confirmed": 12349,
           "date": "2020-06-04",
-          "deaths": 670,
+          "deaths": 671,
           "recovered": 0
         }
       },
