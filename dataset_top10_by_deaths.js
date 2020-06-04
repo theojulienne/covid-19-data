@@ -135,8 +135,7 @@ var covid19_dataset_top10_by_deaths = {
           58186,
           58381,
           58517,
-          58615,
-          58685
+          58615
         ],
         "deaths": [
           0,
@@ -271,8 +270,7 @@ var covid19_dataset_top10_by_deaths = {
           9453,
           9467,
           9486,
-          9505,
-          9522
+          9505
         ],
         "recovered": [
           0,
@@ -407,8 +405,7 @@ var covid19_dataset_top10_by_deaths = {
           15769,
           15887,
           15919,
-          15934,
-          15959
+          15934
         ]
       }
     },
@@ -1909,8 +1906,7 @@ var covid19_dataset_top10_by_deaths = {
           28720,
           28751,
           28779,
-          28886,
-          28967
+          28886
         ],
         "recovered": [
           0,
@@ -2045,8 +2041,7 @@ var covid19_dataset_top10_by_deaths = {
           66051,
           66123,
           66120,
-          66485,
-          67031
+          66485
         ]
       }
     },
@@ -2185,8 +2180,7 @@ var covid19_dataset_top10_by_deaths = {
           272826,
           274762,
           276332,
-          277985,
-          279856
+          277985
         ],
         "deaths": [
           0,
@@ -2321,8 +2315,7 @@ var covid19_dataset_top10_by_deaths = {
           38376,
           38489,
           39045,
-          39369,
-          39728
+          39369
         ],
         "recovered": [
           0,
@@ -2596,8 +2589,7 @@ var covid19_dataset_top10_by_deaths = {
           148950,
           151466,
           154445,
-          157562,
-          160696
+          157562
         ],
         "deaths": [
           0,
@@ -2732,8 +2724,7 @@ var covid19_dataset_top10_by_deaths = {
           7734,
           7797,
           7878,
-          7942,
-          8012
+          7942
         ],
         "recovered": [
           0,
@@ -2868,8 +2859,7 @@ var covid19_dataset_top10_by_deaths = {
           116827,
           118848,
           121004,
-          123077,
-          125206
+          123077
         ]
       }
     },
