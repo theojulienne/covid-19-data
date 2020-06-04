@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 30626,
+          "confirmed": 30632,
           "date": "2020-06-04",
-          "deaths": 2392,
-          "recovered": 23284
+          "deaths": 2393,
+          "recovered": 23295
         }
       },
       "Quebec": {
@@ -331,9 +331,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 92191,
+          "confirmed": 95890,
           "date": "2020-06-04",
-          "deaths": 0,
+          "deaths": 1034,
           "recovered": 0
         }
       },
@@ -455,10 +455,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34834,
+          "confirmed": 34843,
           "date": "2020-06-04",
-          "deaths": 1772,
-          "recovered": 32200
+          "deaths": 1778,
+          "recovered": 32209
         }
       },
       "Bayern": {
@@ -529,10 +529,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 8548,
+      "confirmed": 8885,
       "date": "2020-06-04",
       "deaths": 38,
-      "recovered": 3132
+      "recovered": 3189
     }
   },
   "Guatemala": {
@@ -569,9 +569,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 224772,
+      "confirmed": 225082,
       "date": "2020-06-04",
-      "deaths": 6312,
+      "deaths": 6318,
       "recovered": 107776
     }
   },
@@ -601,9 +601,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25111,
+      "confirmed": 25142,
       "date": "2020-06-04",
-      "deaths": 1659,
+      "deaths": 1664,
       "recovered": 22698
     }
   },
@@ -1265,10 +1265,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 166422,
+      "confirmed": 167410,
       "date": "2020-06-04",
-      "deaths": 4609,
-      "recovered": 130852
+      "deaths": 4630,
+      "recovered": 131778
     }
   },
   "US": {
@@ -1363,9 +1363,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 14912,
+          "confirmed": 18775,
           "date": "2020-06-04",
-          "deaths": 963,
+          "deaths": 1212,
           "recovered": 0
         }
       },
@@ -1435,7 +1435,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 353173,
+          "confirmed": 354060,
           "date": "2020-06-04",
           "deaths": 28870,
           "recovered": 0
@@ -1459,9 +1459,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 50225,
+          "confirmed": 46408,
           "date": "2020-06-04",
-          "deaths": 3763,
+          "deaths": 3521,
           "recovered": 0
         }
       },
