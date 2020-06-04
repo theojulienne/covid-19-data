@@ -66,7 +66,7 @@ var covid19_dataset_country_nzl = {
         0,
         0,
         null,
-        null,
+        0,
         0,
         2,
         2,
@@ -202,7 +202,7 @@ var covid19_dataset_country_nzl = {
         2,
         2,
         null,
-        null,
+        2,
         2,
         3,
         3,
@@ -338,7 +338,7 @@ var covid19_dataset_country_nzl = {
         10,
         18,
         null,
-        null,
+        34,
         49,
         60,
         60,
@@ -474,7 +474,7 @@ var covid19_dataset_country_nzl = {
         0,
         0,
         null,
-        null,
+        0,
         2,
         4,
         4,
@@ -688,7 +688,8 @@ var covid19_dataset_country_nzl = {
     "2020-06-01",
     "2020-06-02",
     "2020-06-03",
-    "2020-06-04"
+    "2020-06-04",
+    "2020-06-05"
   ],
   "total": {
     "confirmed": [

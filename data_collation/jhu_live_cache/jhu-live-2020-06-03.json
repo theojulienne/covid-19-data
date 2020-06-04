@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 18319,
+      "confirmed": 19268,
       "date": "2020-06-03",
-      "deaths": 570,
+      "deaths": 583,
       "recovered": 5896
     }
   },
@@ -381,10 +381,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9414,
+      "confirmed": 9438,
       "date": "2020-06-03",
       "deaths": 325,
-      "recovered": 6748
+      "recovered": 6749
     }
   },
   "Denmark": {
@@ -821,10 +821,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 10819,
+      "confirmed": 11166,
       "date": "2020-06-03",
-      "deaths": 314,
-      "recovered": 3240
+      "deaths": 315,
+      "recovered": 3329
     }
   },
   "Norway": {
@@ -1475,9 +1475,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 29610,
+          "confirmed": 29849,
           "date": "2020-06-03",
-          "deaths": 653,
+          "deaths": 657,
           "recovered": 0
         }
       },
