@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 13229,
+      "confirmed": 13296,
       "date": "2020-06-04",
       "deaths": 21,
       "recovered": 7728
@@ -569,7 +569,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 226693,
+      "confirmed": 226713,
       "date": "2020-06-04",
       "deaths": 6363,
       "recovered": 108450
@@ -1233,10 +1233,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 5499,
+      "confirmed": 5714,
       "date": "2020-06-04",
-      "deaths": 314,
-      "recovered": 1711
+      "deaths": 333,
+      "recovered": 1825
     }
   },
   "Sweden": {
@@ -1277,7 +1277,7 @@
         "live": {
           "confirmed": 11229,
           "date": "2020-06-04",
-          "deaths": 466,
+          "deaths": 471,
           "recovered": 0
         }
       },
@@ -1381,7 +1381,7 @@
         "live": {
           "confirmed": 98456,
           "date": "2020-06-04",
-          "deaths": 6838,
+          "deaths": 6888,
           "recovered": 0
         }
       },
