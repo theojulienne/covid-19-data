@@ -1728,19 +1728,19 @@
     },
     "IND": {
       "back_1week": {
-        "confirmed": 150793,
+        "confirmed": 158086,
         "deaths": 4344,
-        "recovered": 64277
+        "recovered": 67749
       },
       "back_2week": {
-        "confirmed": 106475,
+        "confirmed": 112028,
         "deaths": 3302,
-        "recovered": 42309
+        "recovered": 45422
       },
       "latest": {
-        "confirmed": 207191,
+        "confirmed": 216824,
         "deaths": 5829,
-        "recovered": 100285
+        "recovered": 104071
       }
     },
     "IRL": {
@@ -2643,19 +2643,19 @@
     },
     "PAK": {
       "back_1week": {
-        "confirmed": 57705,
-        "deaths": 1197,
-        "recovered": 18314
+        "confirmed": 59151,
+        "deaths": 1225,
+        "recovered": 19142
       },
       "back_2week": {
-        "confirmed": 43966,
-        "deaths": 939,
-        "recovered": 12489
+        "confirmed": 45898,
+        "deaths": 985,
+        "recovered": 13101
       },
       "latest": {
-        "confirmed": 76398,
-        "deaths": 1621,
-        "recovered": 27110
+        "confirmed": 80463,
+        "deaths": 1688,
+        "recovered": 28923
       }
     },
     "PAN": {

@@ -437,7 +437,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 110906,
+      "confirmed": 185308,
       "date": "2020-06-04",
       "deaths": 28967,
       "recovered": 67031
@@ -561,10 +561,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 216824,
+      "confirmed": 216919,
       "date": "2020-06-04",
       "deaths": 6088,
-      "recovered": 104071
+      "recovered": 104107
     }
   },
   "Indonesia": {
@@ -853,10 +853,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 80463,
+      "confirmed": 85264,
       "date": "2020-06-04",
-      "deaths": 1688,
-      "recovered": 28923
+      "deaths": 1770,
+      "recovered": 30128
     }
   },
   "Panama": {
