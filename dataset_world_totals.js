@@ -275,7 +275,7 @@ var covid19_dataset_world_totals = {
       6358259,
       6488872,
       6613880,
-      6612292
+      6612537
     ],
     "deaths": [
       17,

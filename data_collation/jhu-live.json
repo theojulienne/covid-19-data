@@ -363,26 +363,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 4756,
+          "confirmed": 5403,
           "date": "2020-06-05",
-          "deaths": 137,
-          "recovered": 1234
+          "deaths": 149,
+          "recovered": 1379
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 11250,
+          "confirmed": 11782,
           "date": "2020-06-05",
-          "deaths": 288,
-          "recovered": 4494
+          "deaths": 300,
+          "recovered": 4687
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 3886,
+          "confirmed": 3996,
           "date": "2020-06-05",
-          "deaths": 190,
-          "recovered": 1306
+          "deaths": 194,
+          "recovered": 1369
         }
       }
     }
@@ -721,7 +721,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 12067,
+      "confirmed": 12312,
       "date": "2020-06-05",
       "deaths": 52,
       "recovered": 6606
