@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 12456,
-        "deaths": 227,
-        "recovered": 1138
+        "confirmed": 13036,
+        "deaths": 235,
+        "recovered": 1209
       },
       "back_2week": {
-        "confirmed": 8145,
-        "deaths": 187,
-        "recovered": 930
+        "confirmed": 8676,
+        "deaths": 193,
+        "recovered": 938
       },
       "latest": {
-        "confirmed": 17267,
-        "deaths": 294,
-        "recovered": 1522
+        "confirmed": 18054,
+        "deaths": 300,
+        "recovered": 1585
       }
     },
     "AGO": {
