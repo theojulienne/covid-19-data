@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 11221,
+      "confirmed": 11817,
       "date": "2020-06-05",
-      "deaths": 176,
-      "recovered": 3468
+      "deaths": 183,
+      "recovered": 3513
     }
   },
   "Austria": {
@@ -561,10 +561,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3954,
+      "confirmed": 3970,
       "date": "2020-06-05",
-      "deaths": 539,
-      "recovered": 2205
+      "deaths": 542,
+      "recovered": 2245
     }
   },
   "India": {
@@ -972,7 +972,7 @@
       "confirmed": 25048,
       "date": "2020-06-05",
       "deaths": 1117,
-      "recovered": 12227
+      "recovered": 12410
     }
   },
   "Portugal": {
@@ -1125,7 +1125,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 36922,
+      "confirmed": 37183,
       "date": "2020-06-05",
       "deaths": 24,
       "recovered": 23904
