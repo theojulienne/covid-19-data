@@ -354,7 +354,7 @@
           "confirmed": 68135,
           "date": "2020-06-05",
           "deaths": 4512,
-          "recovered": 63620
+          "recovered": 63623
         }
       }
     }
@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 5760,
+      "confirmed": 6154,
       "date": "2020-06-05",
-      "deaths": 143,
-      "recovered": 929
+      "deaths": 158,
+      "recovered": 979
     }
   },
   "Guinea": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 5690,
+      "confirmed": 5880,
       "date": "2020-06-05",
-      "deaths": 234,
-      "recovered": 617
+      "deaths": 243,
+      "recovered": 648
     }
   },
   "Hungary": {
@@ -729,10 +729,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11629,
+      "confirmed": 11668,
       "date": "2020-06-05",
       "deaths": 273,
-      "recovered": 10499
+      "recovered": 10506
     }
   },
   "Kuwait": {
