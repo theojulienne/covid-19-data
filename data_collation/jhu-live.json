@@ -397,10 +397,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 11811,
+      "confirmed": 11875,
       "date": "2020-06-05",
-      "deaths": 582,
-      "recovered": 10620
+      "deaths": 586,
+      "recovered": 10653
     }
   },
   "Djibouti": {
@@ -737,10 +737,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 29921,
+      "confirmed": 30644,
       "date": "2020-06-05",
-      "deaths": 236,
-      "recovered": 17223
+      "deaths": 244,
+      "recovered": 18277
     }
   },
   "Luxembourg": {
@@ -829,9 +829,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 46942,
+      "confirmed": 47152,
       "date": "2020-06-05",
-      "deaths": 5990,
+      "deaths": 6005,
       "recovered": 0
     }
   },
@@ -1560,7 +1560,7 @@
       "confirmed": 3965,
       "date": "2020-06-05",
       "deaths": 16,
-      "recovered": 3087
+      "recovered": 3227
     }
   }
 }
