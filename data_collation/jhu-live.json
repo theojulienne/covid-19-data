@@ -311,7 +311,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 31359,
+          "confirmed": 31364,
           "date": "2020-06-06",
           "deaths": 2446,
           "recovered": 24089
@@ -331,17 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 99066,
+          "confirmed": 103194,
           "date": "2020-06-06",
-          "deaths": 1105,
+          "deaths": 1184,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 4266,
+          "confirmed": 4580,
           "date": "2020-06-06",
-          "deaths": 88,
+          "deaths": 91,
           "recovered": 0
         }
       }
@@ -413,10 +413,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 18708,
+      "confirmed": 19195,
       "date": "2020-06-06",
-      "deaths": 525,
-      "recovered": 11736
+      "deaths": 536,
+      "recovered": 11919
     }
   },
   "Ecuador": {
@@ -445,10 +445,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 186538,
+      "confirmed": 186488,
       "date": "2020-06-06",
       "deaths": 29056,
-      "recovered": 68007
+      "recovered": 67980
     }
   },
   "Germany": {
@@ -569,10 +569,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 239644,
+      "confirmed": 243733,
       "date": "2020-06-06",
-      "deaths": 6672,
-      "recovered": 114073
+      "deaths": 6845,
+      "recovered": 117404
     }
   },
   "Indonesia": {
@@ -593,10 +593,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 9846,
+      "confirmed": 11098,
       "date": "2020-06-06",
-      "deaths": 285,
-      "recovered": 4573
+      "deaths": 318,
+      "recovered": 4904
     }
   },
   "Ireland": {
@@ -813,9 +813,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 9247,
+      "confirmed": 9511,
       "date": "2020-06-06",
-      "deaths": 326,
+      "deaths": 331,
       "recovered": 5450
     }
   },
@@ -1135,8 +1135,8 @@
     "live": {
       "confirmed": 37527,
       "date": "2020-06-06",
-      "deaths": 24,
-      "recovered": 24209
+      "deaths": 25,
+      "recovered": 24559
     }
   },
   "South Africa": {
