@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 12245,
+      "confirmed": 12728,
       "date": "2020-06-06",
-      "deaths": 415,
-      "recovered": 1658
+      "deaths": 427,
+      "recovered": 1739
     }
   },
   "Brazil": {
@@ -314,7 +314,7 @@
           "confirmed": 31359,
           "date": "2020-06-06",
           "deaths": 2446,
-          "recovered": 24083
+          "recovered": 24089
         }
       },
       "Quebec": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 5403,
+          "confirmed": 5808,
           "date": "2020-06-06",
-          "deaths": 149,
-          "recovered": 1379
+          "deaths": 173,
+          "recovered": 1543
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 11782,
+          "confirmed": 12185,
           "date": "2020-06-06",
-          "deaths": 300,
-          "recovered": 4687
+          "deaths": 311,
+          "recovered": 4895
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 3996,
+          "confirmed": 4206,
           "date": "2020-06-06",
-          "deaths": 194,
-          "recovered": 1369
+          "deaths": 202,
+          "recovered": 1430
         }
       }
     }
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 5880,
+      "confirmed": 5971,
       "date": "2020-06-06",
-      "deaths": 243,
-      "recovered": 648
+      "deaths": 248,
+      "recovered": 677
     }
   },
   "Hungary": {
