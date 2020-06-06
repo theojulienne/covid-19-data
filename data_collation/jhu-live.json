@@ -585,10 +585,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 167156,
+      "confirmed": 169425,
       "date": "2020-06-06",
-      "deaths": 8134,
-      "recovered": 129741
+      "deaths": 8209,
+      "recovered": 132038
     }
   },
   "Iraq": {
