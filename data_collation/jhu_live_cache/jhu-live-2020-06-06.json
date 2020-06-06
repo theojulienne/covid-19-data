@@ -569,7 +569,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 236657,
+      "confirmed": 236781,
       "date": "2020-06-06",
       "deaths": 6649,
       "recovered": 114073
@@ -721,7 +721,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 12312,
+      "confirmed": 12511,
       "date": "2020-06-06",
       "deaths": 52,
       "recovered": 6903
@@ -1561,7 +1561,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4007,
+      "confirmed": 4022,
       "date": "2020-06-06",
       "deaths": 16,
       "recovered": 3247
