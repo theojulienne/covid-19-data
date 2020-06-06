@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 8216,
-        "deaths": 113,
-        "recovered": 3287
+        "confirmed": 8676,
+        "deaths": 120,
+        "recovered": 3297
       },
       "back_2week": {
-        "confirmed": 5606,
-        "deaths": 70,
-        "recovered": 2581
+        "confirmed": 5928,
+        "deaths": 74,
+        "recovered": 2874
       },
       "latest": {
-        "confirmed": 11221,
-        "deaths": 176,
-        "recovered": 3468
+        "confirmed": 11817,
+        "deaths": 183,
+        "recovered": 3513
       }
     },
     "ATG": {
@@ -378,7 +378,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 13296,
-        "deaths": 21,
+        "deaths": 22,
         "recovered": 7728
       }
     },
@@ -1694,19 +1694,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 3816,
-        "deaths": 509,
-        "recovered": 1996
+        "confirmed": 3841,
+        "deaths": 517,
+        "recovered": 2024
       },
       "back_2week": {
-        "confirmed": 3641,
-        "deaths": 473,
-        "recovered": 1509
+        "confirmed": 3678,
+        "deaths": 476,
+        "recovered": 1587
       },
       "latest": {
-        "confirmed": 3954,
-        "deaths": 539,
-        "recovered": 2205
+        "confirmed": 3970,
+        "deaths": 542,
+        "recovered": 2245
       }
     },
     "IDN": {
@@ -2730,17 +2730,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 22825,
         "deaths": 1038,
-        "recovered": 10560
+        "recovered": 10692
       },
       "back_2week": {
         "confirmed": 20143,
         "deaths": 972,
-        "recovered": 8452
+        "recovered": 8731
       },
       "latest": {
         "confirmed": 25048,
         "deaths": 1117,
-        "recovered": 12227
+        "recovered": 12410
       }
     },
     "PRT": {
