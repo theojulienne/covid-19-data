@@ -711,7 +711,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 5347,
+          "confirmed": 5373,
           "date": "2020-06-06",
           "deaths": 309,
           "recovered": 4687
@@ -969,9 +969,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 25410,
+      "confirmed": 25669,
       "date": "2020-06-06",
-      "deaths": 1137,
+      "deaths": 1143,
       "recovered": 12641
     }
   },
@@ -1003,98 +1003,106 @@
     "subseries": {
       "Bryansk Oblast": {
         "live": {
-          "confirmed": 4174,
+          "confirmed": 4269,
           "date": "2020-06-06",
           "deaths": 31,
-          "recovered": 2720
+          "recovered": 2818
         }
       },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 5587,
+          "confirmed": 5743,
           "date": "2020-06-06",
-          "deaths": 288,
-          "recovered": 4520
+          "deaths": 298,
+          "recovered": 4537
         }
       },
       "Kaluga Oblast": {
         "live": {
-          "confirmed": 4357,
+          "confirmed": 4431,
           "date": "2020-06-06",
-          "deaths": 34,
-          "recovered": 1954
+          "deaths": 35,
+          "recovered": 2024
         }
       },
       "Krasnodar Krai": {
         "live": {
-          "confirmed": 4231,
+          "confirmed": 4312,
           "date": "2020-06-06",
-          "deaths": 41,
-          "recovered": 3109
+          "deaths": 42,
+          "recovered": 3235
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 4968,
+          "confirmed": 5136,
           "date": "2020-06-06",
           "deaths": 49,
-          "recovered": 1427
+          "recovered": 1488
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 191069,
+          "confirmed": 193061,
           "date": "2020-06-06",
-          "deaths": 2806,
-          "recovered": 97358
+          "deaths": 2864,
+          "recovered": 100431
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 42720,
+          "confirmed": 43478,
           "date": "2020-06-06",
-          "deaths": 539,
-          "recovered": 10392
+          "deaths": 557,
+          "recovered": 10924
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 11499,
+          "confirmed": 11820,
           "date": "2020-06-06",
-          "deaths": 125,
-          "recovered": 4612
+          "deaths": 131,
+          "recovered": 4795
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 5753,
+          "confirmed": 5965,
           "date": "2020-06-06",
-          "deaths": 43,
-          "recovered": 2157
+          "deaths": 46,
+          "recovered": 2245
+        }
+      },
+      "Ryazan Oblast": {
+        "live": {
+          "confirmed": 3940,
+          "date": "2020-06-06",
+          "deaths": 10,
+          "recovered": 1433
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 17822,
+          "confirmed": 18169,
           "date": "2020-06-06",
-          "deaths": 291,
-          "recovered": 7076
+          "deaths": 346,
+          "recovered": 7462
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 6930,
+          "confirmed": 7179,
           "date": "2020-06-06",
-          "deaths": 37,
-          "recovered": 2997
+          "deaths": 39,
+          "recovered": 3166
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 4398,
+          "confirmed": 4505,
           "date": "2020-06-06",
-          "deaths": 47,
-          "recovered": 2273
+          "deaths": 49,
+          "recovered": 2409
         }
       }
     }
@@ -1399,9 +1407,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 43824,
+          "confirmed": 39930,
           "date": "2020-06-06",
-          "deaths": 4497,
+          "deaths": 4402,
           "recovered": 0
         }
       },
