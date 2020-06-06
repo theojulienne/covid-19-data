@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 6860,
+      "confirmed": 7239,
       "date": "2020-06-06",
-      "deaths": 82,
-      "recovered": 3871
+      "deaths": 84,
+      "recovered": 4024
     }
   },
   "Bahrain": {
@@ -405,10 +405,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 4123,
+      "confirmed": 4169,
       "date": "2020-06-06",
       "deaths": 26,
-      "recovered": 1707
+      "recovered": 1815
     }
   },
   "Dominican Republic": {
@@ -521,7 +521,7 @@
         "live": {
           "confirmed": 5321,
           "date": "2020-06-06",
-          "deaths": 212,
+          "deaths": 213,
           "recovered": 5000
         }
       }
@@ -569,9 +569,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 237788,
+      "confirmed": 239644,
       "date": "2020-06-06",
-      "deaths": 6651,
+      "deaths": 6672,
       "recovered": 114073
     }
   },
@@ -1335,17 +1335,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 9199,
+          "confirmed": 9269,
           "date": "2020-06-06",
-          "deaths": 479,
+          "deaths": 483,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 33487,
+          "confirmed": 34063,
           "date": "2020-06-06",
-          "deaths": 1454,
+          "deaths": 1469,
           "recovered": 0
         }
       },
@@ -1391,9 +1391,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45381,
+          "confirmed": 45987,
           "date": "2020-06-06",
-          "deaths": 2062,
+          "deaths": 2092,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17934,
+          "confirmed": 18177,
           "date": "2020-06-06",
-          "deaths": 520,
+          "deaths": 523,
           "recovered": 0
         }
       },
