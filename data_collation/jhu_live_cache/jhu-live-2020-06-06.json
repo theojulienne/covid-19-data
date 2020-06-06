@@ -1295,9 +1295,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 90779,
+          "confirmed": 91025,
           "date": "2020-06-06",
-          "deaths": 3603,
+          "deaths": 3609,
           "recovered": 0
         }
       },
