@@ -2493,19 +2493,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 8915,
-        "deaths": 259,
-        "recovered": 2592
+        "confirmed": 9302,
+        "deaths": 261,
+        "recovered": 2697
       },
       "back_2week": {
-        "confirmed": 7016,
-        "deaths": 211,
-        "recovered": 1907
+        "confirmed": 7261,
+        "deaths": 221,
+        "recovered": 2007
       },
       "latest": {
-        "confirmed": 11516,
-        "deaths": 323,
-        "recovered": 3535
+        "confirmed": 11844,
+        "deaths": 333,
+        "recovered": 3696
       }
     },
     "NIC": {
@@ -2881,19 +2881,19 @@
     },
     "SDN": {
       "back_1week": {
-        "confirmed": 4346,
-        "deaths": 195,
-        "recovered": 749
+        "confirmed": 4521,
+        "deaths": 233,
+        "recovered": 816
       },
       "back_2week": {
-        "confirmed": 3138,
-        "deaths": 121,
-        "recovered": 309
+        "confirmed": 3378,
+        "deaths": 137,
+        "recovered": 372
       },
       "latest": {
-        "confirmed": 5714,
-        "deaths": 333,
-        "recovered": 1825
+        "confirmed": 5865,
+        "deaths": 347,
+        "recovered": 1924
       }
     },
     "SEN": {
