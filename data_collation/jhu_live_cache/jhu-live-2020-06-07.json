@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 22020,
       "date": "2020-06-07",
-      "deaths": 648,
-      "recovered": 6180
+      "deaths": 656,
+      "recovered": 6909
     }
   },
   "Armenia": {
@@ -413,10 +413,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 4169,
+      "confirmed": 4207,
       "date": "2020-06-07",
-      "deaths": 26,
-      "recovered": 1815
+      "deaths": 28,
+      "recovered": 1877
     }
   },
   "Dominican Republic": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 248228,
+      "confirmed": 253329,
       "date": "2020-06-07",
-      "deaths": 6957,
-      "recovered": 119415
+      "deaths": 6988,
+      "recovered": 120203
     }
   },
   "Indonesia": {
@@ -601,10 +601,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 11098,
+      "confirmed": 12366,
       "date": "2020-06-07",
-      "deaths": 318,
-      "recovered": 4904
+      "deaths": 346,
+      "recovered": 5186
     }
   },
   "Ireland": {
@@ -722,7 +722,7 @@
           "confirmed": 5387,
           "date": "2020-06-07",
           "deaths": 311,
-          "recovered": 4687
+          "recovered": 4695
         }
       }
     }
@@ -829,9 +829,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 9511,
+      "confirmed": 9700,
       "date": "2020-06-07",
-      "deaths": 335,
+      "deaths": 341,
       "recovered": 5638
     }
   },
@@ -1152,7 +1152,7 @@
       "confirmed": 37910,
       "date": "2020-06-07",
       "deaths": 25,
-      "recovered": 24559
+      "recovered": 24886
     }
   },
   "South Africa": {
@@ -1407,9 +1407,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45987,
+          "confirmed": 46386,
           "date": "2020-06-07",
-          "deaths": 2092,
+          "deaths": 2106,
           "recovered": 0
         }
       },
@@ -1585,7 +1585,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4181,
+      "confirmed": 4302,
       "date": "2020-06-07",
       "deaths": 17,
       "recovered": 3330
