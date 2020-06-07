@@ -277,7 +277,8 @@ var covid19_dataset_country_yem = {
       399,
       419,
       453,
-      469
+      469,
+      482
     ],
     "deaths": [
       0,
@@ -415,6 +416,7 @@ var covid19_dataset_country_yem = {
       87,
       95,
       103,
+      111,
       111
     ],
     "recovered": [
