@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 14383,
       "date": "2020-06-07",
-      "deaths": 24,
+      "deaths": 25,
       "recovered": 9056
     }
   },
@@ -561,17 +561,17 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 3990,
+      "confirmed": 4008,
       "date": "2020-06-07",
-      "deaths": 545,
+      "deaths": 546,
       "recovered": 2279
     }
   },
   "India": {
     "live": {
-      "confirmed": 247040,
+      "confirmed": 247195,
       "date": "2020-06-07",
-      "deaths": 6946,
+      "deaths": 6950,
       "recovered": 119293
     }
   },
@@ -823,8 +823,8 @@
     "live": {
       "confirmed": 9511,
       "date": "2020-06-07",
-      "deaths": 331,
-      "recovered": 5450
+      "deaths": 335,
+      "recovered": 5638
     }
   },
   "Morocco": {
@@ -853,7 +853,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8531,
+      "confirmed": 8542,
       "date": "2020-06-07",
       "deaths": 238,
       "recovered": 8138
@@ -969,17 +969,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 21340,
+      "confirmed": 21895,
       "date": "2020-06-07",
-      "deaths": 994,
-      "recovered": 4441
+      "deaths": 1003,
+      "recovered": 4530
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 25986,
+      "confirmed": 26249,
       "date": "2020-06-07",
-      "deaths": 1153,
+      "deaths": 1155,
       "recovered": 12855
     }
   },
@@ -1003,7 +1003,7 @@
     "live": {
       "confirmed": 20290,
       "date": "2020-06-07",
-      "deaths": 1322,
+      "deaths": 1326,
       "recovered": 14419
     }
   },
@@ -1011,98 +1011,106 @@
     "subseries": {
       "Bryansk Oblast": {
         "live": {
-          "confirmed": 4269,
+          "confirmed": 4364,
           "date": "2020-06-07",
           "deaths": 31,
-          "recovered": 2818
+          "recovered": 2917
         }
       },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 5743,
+          "confirmed": 5858,
           "date": "2020-06-07",
-          "deaths": 298,
-          "recovered": 4537
+          "deaths": 303,
+          "recovered": 4562
         }
       },
       "Kaluga Oblast": {
         "live": {
-          "confirmed": 4431,
+          "confirmed": 4511,
           "date": "2020-06-07",
-          "deaths": 35,
-          "recovered": 2024
+          "deaths": 36,
+          "recovered": 2097
         }
       },
       "Krasnodar Krai": {
         "live": {
-          "confirmed": 4312,
+          "confirmed": 4399,
           "date": "2020-06-07",
-          "deaths": 42,
-          "recovered": 3235
+          "deaths": 43,
+          "recovered": 3289
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 5136,
+          "confirmed": 5301,
           "date": "2020-06-07",
           "deaths": 49,
-          "recovered": 1488
+          "recovered": 1494
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 193061,
+          "confirmed": 195017,
           "date": "2020-06-07",
-          "deaths": 2864,
-          "recovered": 100431
+          "deaths": 2919,
+          "recovered": 102714
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 43478,
+          "confirmed": 44232,
           "date": "2020-06-07",
-          "deaths": 557,
-          "recovered": 10924
+          "deaths": 567,
+          "recovered": 11462
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 11820,
+          "confirmed": 12137,
           "date": "2020-06-07",
-          "deaths": 131,
-          "recovered": 4795
+          "deaths": 136,
+          "recovered": 4837
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 5965,
+          "confirmed": 6166,
           "date": "2020-06-07",
-          "deaths": 46,
-          "recovered": 2245
+          "deaths": 47,
+          "recovered": 2310
+        }
+      },
+      "Ryazan Oblast": {
+        "live": {
+          "confirmed": 4013,
+          "date": "2020-06-07",
+          "deaths": 10,
+          "recovered": 1448
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 18169,
+          "confirmed": 18509,
           "date": "2020-06-07",
-          "deaths": 346,
-          "recovered": 7462
+          "deaths": 377,
+          "recovered": 7759
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 7179,
+          "confirmed": 7419,
           "date": "2020-06-07",
-          "deaths": 39,
-          "recovered": 3166
+          "deaths": 41,
+          "recovered": 3239
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 4505,
+          "confirmed": 4620,
           "date": "2020-06-07",
           "deaths": 49,
-          "recovered": 2409
+          "recovered": 2434
         }
       }
     }
@@ -1407,9 +1415,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39930,
+          "confirmed": 35937,
           "date": "2020-06-07",
-          "deaths": 4402,
+          "deaths": 4334,
           "recovered": 0
         }
       },
