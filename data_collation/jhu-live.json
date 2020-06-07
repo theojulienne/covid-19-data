@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 19551,
+      "confirmed": 20342,
       "date": "2020-06-07",
-      "deaths": 327,
-      "recovered": 1830
+      "deaths": 357,
+      "recovered": 1875
     }
   },
   "Algeria": {
@@ -609,10 +609,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 17752,
+      "confirmed": 17783,
       "date": "2020-06-07",
-      "deaths": 295,
-      "recovered": 15042
+      "deaths": 297,
+      "recovered": 15064
     }
   },
   "Italy": {
