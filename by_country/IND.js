@@ -279,7 +279,7 @@ var covid19_dataset_country_ind = {
       226713,
       236184,
       246622,
-      254242
+      254340
     ],
     "deaths": [
       0,

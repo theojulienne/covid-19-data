@@ -631,8 +631,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 52398,
-          "deaths": 4935
+          "confirmed": 52624,
+          "deaths": 4970
         },
         "Saskatchewan": {
           "confirmed": 649,
@@ -1036,17 +1036,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 9230,
         "deaths": 319,
-        "recovered": 6500
+        "recovered": 6546
       },
       "back_2week": {
         "confirmed": 8890,
         "deaths": 312,
-        "recovered": 6025
+        "recovered": 6044
       },
       "latest": {
         "confirmed": 9567,
         "deaths": 327,
-        "recovered": 6881
+        "recovered": 6885
       }
     },
     "DEU": {
@@ -1148,19 +1148,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 9134,
-        "deaths": 638,
-        "recovered": 5422
+        "confirmed": 9267,
+        "deaths": 646,
+        "recovered": 5549
       },
       "back_2week": {
-        "confirmed": 7918,
-        "deaths": 582,
-        "recovered": 4256
+        "confirmed": 8113,
+        "deaths": 592,
+        "recovered": 4426
       },
       "latest": {
-        "confirmed": 9935,
-        "deaths": 690,
-        "recovered": 6453
+        "confirmed": 10050,
+        "deaths": 698,
+        "recovered": 6631
       }
     },
     "ECU": {
@@ -1170,13 +1170,13 @@ var covid19_dataset_latest_totals = {
         "recovered": 19190
       },
       "back_2week": {
-        "confirmed": 35828,
-        "deaths": 3056,
+        "confirmed": 36258,
+        "deaths": 3096,
         "recovered": 3557
       },
       "latest": {
-        "confirmed": 41575,
-        "deaths": 3534,
+        "confirmed": 42728,
+        "deaths": 3608,
         "recovered": 20568
       }
     },
@@ -1490,19 +1490,19 @@ var covid19_dataset_latest_totals = {
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 7616,
+        "confirmed": 7768,
         "deaths": 34,
-        "recovered": 2421
+        "recovered": 2540
       },
       "back_2week": {
-        "confirmed": 6486,
+        "confirmed": 6617,
         "deaths": 31,
-        "recovered": 1951
+        "recovered": 1978
       },
       "latest": {
-        "confirmed": 9168,
+        "confirmed": 9462,
         "deaths": 42,
-        "recovered": 3457
+        "recovered": 3547
       }
     },
     "GIN": {
@@ -1745,18 +1745,18 @@ var covid19_dataset_latest_totals = {
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 24876,
-        "deaths": 1645,
+        "confirmed": 24929,
+        "deaths": 1651,
         "recovered": 22089
       },
       "back_2week": {
-        "confirmed": 24506,
-        "deaths": 1592,
+        "confirmed": 24582,
+        "deaths": 1604,
         "recovered": 21060
       },
       "latest": {
-        "confirmed": 25163,
-        "deaths": 1670,
+        "confirmed": 25183,
+        "deaths": 1678,
         "recovered": 22698
       }
     },
@@ -1900,17 +1900,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 10382,
         "deaths": 37,
-        "recovered": 5057
+        "recovered": 5220
       },
       "back_2week": {
         "confirmed": 7919,
         "deaths": 35,
-        "recovered": 4096
+        "recovered": 4214
       },
       "latest": {
         "confirmed": 12511,
         "deaths": 52,
-        "recovered": 6903
+        "recovered": 7135
       }
     },
     "KEN": {
@@ -2153,19 +2153,19 @@ var covid19_dataset_latest_totals = {
     },
     "LUX": {
       "back_1week": {
-        "confirmed": 4012,
+        "confirmed": 4016,
         "deaths": 110,
         "recovered": 3815
       },
       "back_2week": {
-        "confirmed": 3981,
+        "confirmed": 3990,
         "deaths": 109,
-        "recovered": 3748
+        "recovered": 3758
       },
       "latest": {
-        "confirmed": 4032,
+        "confirmed": 4035,
         "deaths": 110,
-        "recovered": 3885
+        "recovered": 3888
       }
     },
     "LVA": {
