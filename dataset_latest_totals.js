@@ -3837,19 +3837,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 29240,
-        "deaths": 611,
-        "recovered": 15093
+        "confirmed": 30967,
+        "deaths": 643,
+        "recovered": 16116
       },
       "back_2week": {
-        "confirmed": 20125,
-        "deaths": 397,
+        "confirmed": 21343,
+        "deaths": 407,
         "recovered": 10104
       },
       "latest": {
-        "confirmed": 43434,
-        "deaths": 908,
-        "recovered": 23088
+        "confirmed": 45973,
+        "deaths": 952,
+        "recovered": 24258
       }
     },
     "ZMB": {

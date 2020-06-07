@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 31718,
+          "confirmed": 31723,
           "date": "2020-06-07",
-          "deaths": 2493,
-          "recovered": 24507
+          "deaths": 2494,
+          "recovered": 24516
         }
       },
       "Quebec": {
@@ -577,7 +577,7 @@
   },
   "India": {
     "live": {
-      "confirmed": 257392,
+      "confirmed": 257506,
       "date": "2020-06-07",
       "deaths": 7207,
       "recovered": 123848
@@ -1157,10 +1157,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 45973,
+      "confirmed": 48285,
       "date": "2020-06-07",
-      "deaths": 952,
-      "recovered": 24258
+      "deaths": 998,
+      "recovered": 24364
     }
   },
   "Spain": {
@@ -1319,9 +1319,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 92872,
+          "confirmed": 92991,
           "date": "2020-06-07",
-          "deaths": 3675,
+          "deaths": 3676,
           "recovered": 0
         }
       },
@@ -1335,9 +1335,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 38584,
+          "confirmed": 38693,
           "date": "2020-06-07",
-          "deaths": 3595,
+          "deaths": 3609,
           "recovered": 0
         }
       },
@@ -1367,7 +1367,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13263,
+          "confirmed": 13275,
           "date": "2020-06-07",
           "deaths": 514,
           "recovered": 0
@@ -1375,9 +1375,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 111252,
+          "confirmed": 111983,
           "date": "2020-06-07",
-          "deaths": 5150,
+          "deaths": 5190,
           "recovered": 0
         }
       },
@@ -1415,7 +1415,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 99515,
+          "confirmed": 99816,
           "date": "2020-06-07",
           "deaths": 6974,
           "recovered": 0
@@ -1527,15 +1527,15 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 32238,
+          "confirmed": 32501,
           "date": "2020-06-07",
-          "deaths": 695,
+          "deaths": 697,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 6086,
+          "confirmed": 6182,
           "date": "2020-06-07",
           "deaths": 81,
           "recovered": 0
