@@ -556,7 +556,7 @@
       "confirmed": 4117,
       "date": "2020-06-07",
       "deaths": 23,
-      "recovered": 2857
+      "recovered": 2877
     }
   },
   "Honduras": {
@@ -565,14 +565,6 @@
       "date": "2020-06-07",
       "deaths": 250,
       "recovered": 697
-    }
-  },
-  "Hungary": {
-    "live": {
-      "confirmed": 4008,
-      "date": "2020-06-07",
-      "deaths": 546,
-      "recovered": 2279
     }
   },
   "India": {
@@ -1327,7 +1319,7 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 10705,
+          "confirmed": 10743,
           "date": "2020-06-07",
           "deaths": 665,
           "recovered": 0
@@ -1423,9 +1415,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 35937,
+          "confirmed": 41838,
           "date": "2020-06-07",
-          "deaths": 4334,
+          "deaths": 4617,
           "recovered": 0
         }
       },
@@ -1527,9 +1519,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 32589,
+          "confirmed": 32752,
           "date": "2020-06-07",
-          "deaths": 699,
+          "deaths": 701,
           "recovered": 0
         }
       },
