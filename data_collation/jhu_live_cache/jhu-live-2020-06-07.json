@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 31709,
+          "confirmed": 31718,
           "date": "2020-06-07",
           "deaths": 2493,
-          "recovered": 24492
+          "recovered": 24507
         }
       },
       "Quebec": {
@@ -331,17 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 103194,
+          "confirmed": 108462,
           "date": "2020-06-07",
-          "deaths": 1184,
+          "deaths": 1273,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 4580,
+          "confirmed": 4862,
           "date": "2020-06-07",
-          "deaths": 91,
+          "deaths": 93,
           "recovered": 0
         }
       }
@@ -437,10 +437,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 32612,
+      "confirmed": 34079,
       "date": "2020-06-07",
-      "deaths": 1198,
-      "recovered": 8538
+      "deaths": 1237,
+      "recovered": 8961
     }
   },
   "Finland": {
@@ -580,7 +580,7 @@
       "confirmed": 257392,
       "date": "2020-06-07",
       "deaths": 7207,
-      "recovered": 123818
+      "recovered": 123848
     }
   },
   "Indonesia": {
@@ -837,10 +837,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8177,
+      "confirmed": 8224,
       "date": "2020-06-07",
       "deaths": 208,
-      "recovered": 7328
+      "recovered": 7364
     }
   },
   "Netherlands": {
@@ -1343,9 +1343,9 @@
       },
       "Delaware": {
         "live": {
-          "confirmed": 4342,
+          "confirmed": 8416,
           "date": "2020-06-07",
-          "deaths": 144,
+          "deaths": 322,
           "recovered": 0
         }
       },
@@ -1471,9 +1471,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 356481,
+          "confirmed": 352481,
           "date": "2020-06-07",
-          "deaths": 29099,
+          "deaths": 28957,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 8688,
+          "confirmed": 8813,
           "date": "2020-06-07",
-          "deaths": 325,
+          "deaths": 326,
           "recovered": 0
         }
       }
@@ -1585,7 +1585,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4302,
+      "confirmed": 4331,
       "date": "2020-06-07",
       "deaths": 17,
       "recovered": 3354
