@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 47751,
+      "confirmed": 48630,
       "date": "2020-06-07",
-      "deaths": 263,
-      "recovered": 23015
+      "deaths": 269,
+      "recovered": 23647
     }
   },
   "Belgium": {
@@ -387,6 +387,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 4016,
+      "date": "2020-06-07",
+      "deaths": 85,
+      "recovered": 537
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 9574,
@@ -569,9 +577,9 @@
   },
   "India": {
     "live": {
-      "confirmed": 247195,
+      "confirmed": 247678,
       "date": "2020-06-07",
-      "deaths": 6950,
+      "deaths": 6952,
       "recovered": 119293
     }
   },
@@ -753,10 +761,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8303,
+      "confirmed": 8322,
       "date": "2020-06-07",
       "deaths": 117,
-      "recovered": 6635
+      "recovered": 6674
     }
   },
   "Mexico": {
@@ -829,10 +837,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8151,
+      "confirmed": 8177,
       "date": "2020-06-07",
       "deaths": 208,
-      "recovered": 7315
+      "recovered": 7328
     }
   },
   "Netherlands": {
@@ -861,9 +869,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 16016,
+      "confirmed": 16882,
       "date": "2020-06-07",
-      "deaths": 72,
+      "deaths": 75,
       "recovered": 3451
     }
   },
@@ -1001,10 +1009,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 20290,
+      "confirmed": 20479,
       "date": "2020-06-07",
       "deaths": 1326,
-      "recovered": 14419
+      "recovered": 14638
     }
   },
   "Russia": {
@@ -1277,7 +1285,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 30956,
+      "confirmed": 30965,
       "date": "2020-06-07",
       "deaths": 1921,
       "recovered": 28700
@@ -1463,9 +1471,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 355813,
+          "confirmed": 351818,
           "date": "2020-06-07",
-          "deaths": 29055,
+          "deaths": 28913,
           "recovered": 0
         }
       },
