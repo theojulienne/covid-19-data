@@ -293,10 +293,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 7599,
+      "confirmed": 7908,
       "date": "2020-06-07",
       "deaths": 212,
-      "recovered": 4587
+      "recovered": 4735
     }
   },
   "Canada": {
@@ -313,8 +313,8 @@
         "live": {
           "confirmed": 31709,
           "date": "2020-06-07",
-          "deaths": 2492,
-          "recovered": 24485
+          "deaths": 2493,
+          "recovered": 24492
         }
       },
       "Quebec": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 257157,
+      "confirmed": 257392,
       "date": "2020-06-07",
-      "deaths": 7206,
-      "recovered": 123785
+      "deaths": 7207,
+      "recovered": 123818
     }
   },
   "Indonesia": {
@@ -1011,7 +1011,7 @@
     "live": {
       "confirmed": 20479,
       "date": "2020-06-07",
-      "deaths": 1326,
+      "deaths": 1333,
       "recovered": 14638
     }
   },
@@ -1313,7 +1313,7 @@
         "live": {
           "confirmed": 12761,
           "date": "2020-06-07",
-          "deaths": 489,
+          "deaths": 490,
           "recovered": 0
         }
       },
@@ -1463,7 +1463,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 151849,
+          "confirmed": 151842,
           "date": "2020-06-07",
           "deaths": 11317,
           "recovered": 0
@@ -1487,9 +1487,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11233,
+          "confirmed": 11370,
           "date": "2020-06-07",
-          "deaths": 562,
+          "deaths": 567,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 11554,
+          "confirmed": 11661,
           "date": "2020-06-07",
-          "deaths": 202,
+          "deaths": 203,
           "recovered": 0
         }
       },

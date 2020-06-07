@@ -881,9 +881,9 @@
     },
     "CMR": {
       "back_1week": {
-        "confirmed": 5436,
+        "confirmed": 5904,
         "deaths": 177,
-        "recovered": 3326
+        "recovered": 3568
       },
       "back_2week": {
         "confirmed": 4400,
@@ -891,9 +891,9 @@
         "recovered": 1822
       },
       "latest": {
-        "confirmed": 7392,
+        "confirmed": 7599,
         "deaths": 205,
-        "recovered": 4575
+        "recovered": 4587
       }
     },
     "COD": {
