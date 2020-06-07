@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 14745,
+      "confirmed": 14763,
       "date": "2020-06-07",
       "deaths": 25,
       "recovered": 9468
@@ -453,10 +453,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 187067,
+      "confirmed": 187017,
       "date": "2020-06-07",
       "deaths": 29087,
-      "recovered": 68282
+      "recovered": 68247
     }
   },
   "Germany": {
@@ -474,7 +474,7 @@
           "confirmed": 47389,
           "date": "2020-06-07",
           "deaths": 2501,
-          "recovered": 43600
+          "recovered": 43620
         }
       },
       "Berlin": {
@@ -527,7 +527,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5323,
+          "confirmed": 5327,
           "date": "2020-06-07",
           "deaths": 214,
           "recovered": 5000
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 248114,
+      "confirmed": 248228,
       "date": "2020-06-07",
-      "deaths": 6954,
-      "recovered": 119293
+      "deaths": 6957,
+      "recovered": 119415
     }
   },
   "Indonesia": {
@@ -861,7 +861,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8542,
+      "confirmed": 8547,
       "date": "2020-06-07",
       "deaths": 238,
       "recovered": 8138
@@ -993,10 +993,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 34351,
+      "confirmed": 34693,
       "date": "2020-06-07",
-      "deaths": 1474,
-      "recovered": 20807
+      "deaths": 1479,
+      "recovered": 20995
     }
   },
   "Qatar": {
@@ -1125,10 +1125,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 98869,
+      "confirmed": 101914,
       "date": "2020-06-07",
-      "deaths": 676,
-      "recovered": 71791
+      "deaths": 712,
+      "recovered": 72817
     }
   },
   "Senegal": {
@@ -1141,10 +1141,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 11741,
+      "confirmed": 11823,
       "date": "2020-06-07",
-      "deaths": 248,
-      "recovered": 11056
+      "deaths": 249,
+      "recovered": 11348
     }
   },
   "Singapore": {
@@ -1588,7 +1588,7 @@
       "confirmed": 4181,
       "date": "2020-06-07",
       "deaths": 17,
-      "recovered": 3268
+      "recovered": 3330
     }
   }
 }
