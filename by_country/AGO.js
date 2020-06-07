@@ -553,7 +553,8 @@ var covid19_dataset_country_ago = {
       18,
       18,
       18,
-      21
+      21,
+      24
     ]
   }
 };

@@ -553,6 +553,7 @@ var covid19_dataset_country_zmb = {
       912,
       912,
       912,
+      912,
       912
     ]
   }

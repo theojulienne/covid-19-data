@@ -553,7 +553,8 @@ var covid19_dataset_country_swz = {
       198,
       201,
       201,
-      221
+      221,
+      224
     ]
   }
 };

@@ -553,7 +553,8 @@ var covid19_dataset_country_caf = {
       23,
       23,
       23,
-      29
+      29,
+      37
     ]
   }
 };

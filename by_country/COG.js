@@ -553,7 +553,8 @@ var covid19_dataset_country_cog = {
       179,
       179,
       179,
-      182
+      182,
+      210
     ]
   }
 };

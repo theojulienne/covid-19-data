@@ -553,7 +553,8 @@ var covid19_dataset_country_eth = {
       231,
       246,
       250,
-      262
+      262,
+      281
     ]
   }
 };

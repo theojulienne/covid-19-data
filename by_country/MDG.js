@@ -553,7 +553,8 @@ var covid19_dataset_country_mdg = {
       185,
       195,
       200,
-      201
+      201,
+      212
     ]
   }
 };

@@ -553,6 +553,7 @@ var covid19_dataset_country_atg = {
       20,
       20,
       20,
+      20,
       20
     ]
   }

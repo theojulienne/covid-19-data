@@ -553,6 +553,7 @@ var covid19_dataset_country_yem = {
       15,
       17,
       17,
+      23,
       23
     ]
   }

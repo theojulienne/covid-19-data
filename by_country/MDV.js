@@ -553,7 +553,8 @@ var covid19_dataset_country_mdv = {
       608,
       644,
       648,
-      717
+      717,
+      763
     ]
   }
 };

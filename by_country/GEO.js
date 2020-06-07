@@ -553,7 +553,8 @@ var covid19_dataset_country_geo = {
       634,
       640,
       644,
-      650
+      650,
+      663
     ]
   }
 };

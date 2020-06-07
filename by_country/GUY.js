@@ -553,7 +553,8 @@ var covid19_dataset_country_guy = {
       70,
       70,
       77,
-      77
+      77,
+      80
     ]
   }
 };

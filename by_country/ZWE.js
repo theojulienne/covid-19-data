@@ -553,6 +553,7 @@ var covid19_dataset_country_zwe = {
       29,
       29,
       31,
+      33,
       33
     ]
   }

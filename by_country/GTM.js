@@ -553,7 +553,8 @@ var covid19_dataset_country_gtm = {
       824,
       929,
       979,
-      1053
+      1053,
+      1133
     ]
   }
 };

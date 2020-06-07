@@ -553,7 +553,8 @@ var covid19_dataset_country_ner = {
       848,
       857,
       860,
-      863
+      863,
+      867
     ]
   }
 };

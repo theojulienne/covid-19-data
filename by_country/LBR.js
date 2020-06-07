@@ -553,7 +553,8 @@ var covid19_dataset_country_lbr = {
       167,
       169,
       175,
-      176
+      176,
+      185
     ]
   }
 };

@@ -553,7 +553,8 @@ var covid19_dataset_country_som = {
       361,
       406,
       418,
-      418
+      418,
+      431
     ]
   }
 };

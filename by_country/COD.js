@@ -553,7 +553,8 @@ var covid19_dataset_country_cod = {
       482,
       492,
       495,
-      512
+      512,
+      537
     ]
   }
 };

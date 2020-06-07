@@ -553,6 +553,7 @@ var covid19_dataset_country_vnm = {
       298,
       302,
       302,
+      307,
       307
     ]
   }

@@ -553,6 +553,7 @@ var covid19_dataset_country_esh = {
       6,
       6,
       6,
+      6,
       6
     ]
   }

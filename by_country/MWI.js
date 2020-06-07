@@ -553,6 +553,7 @@ var covid19_dataset_country_mwi = {
       42,
       51,
       51,
+      55,
       55
     ]
   }

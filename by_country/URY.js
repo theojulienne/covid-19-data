@@ -553,7 +553,8 @@ var covid19_dataset_country_ury = {
       691,
       698,
       709,
-      721
+      721,
+      726
     ]
   }
 };

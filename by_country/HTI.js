@@ -553,6 +553,7 @@ var covid19_dataset_country_hti = {
       24,
       24,
       24,
+      24,
       24
     ]
   }

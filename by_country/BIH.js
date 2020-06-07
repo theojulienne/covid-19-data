@@ -553,6 +553,7 @@ var covid19_dataset_country_bih = {
       1910,
       1939,
       1951,
+      1968,
       1968
     ]
   }

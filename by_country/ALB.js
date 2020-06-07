@@ -553,7 +553,8 @@ var covid19_dataset_country_alb = {
       891,
       898,
       898,
-      910
+      910,
+      925
     ]
   }
 };

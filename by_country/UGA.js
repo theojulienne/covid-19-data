@@ -553,6 +553,7 @@ var covid19_dataset_country_uga = {
       82,
       82,
       82,
+      82,
       82
     ]
   }

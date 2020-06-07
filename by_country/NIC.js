@@ -553,6 +553,7 @@ var covid19_dataset_country_nic = {
       370,
       370,
       370,
+      370,
       370
     ]
   }

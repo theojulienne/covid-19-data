@@ -553,7 +553,8 @@ var covid19_dataset_country_vat = {
       2,
       2,
       2,
-      2
+      2,
+      12
     ]
   }
 };

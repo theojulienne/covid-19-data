@@ -553,6 +553,7 @@ var covid19_dataset_country_isl = {
       1794,
       1794,
       1794,
+      1794,
       1794
     ]
   }

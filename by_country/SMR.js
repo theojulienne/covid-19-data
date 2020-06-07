@@ -553,6 +553,7 @@ var covid19_dataset_country_smr = {
       384,
       391,
       408,
+      428,
       428
     ]
   }

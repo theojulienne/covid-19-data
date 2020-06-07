@@ -553,7 +553,8 @@ var covid19_dataset_country_moz = {
       98,
       109,
       114,
-      119
+      119,
+      126
     ]
   }
 };
