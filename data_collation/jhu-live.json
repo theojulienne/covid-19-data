@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32094,
+          "confirmed": 32096,
           "date": "2020-06-08",
           "deaths": 2502,
-          "recovered": 24691
+          "recovered": 24694
         }
       },
       "Quebec": {
@@ -1303,7 +1303,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 12761,
+          "confirmed": 13498,
           "date": "2020-06-08",
           "deaths": 490,
           "recovered": 0
@@ -1383,7 +1383,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4720,
+          "confirmed": 4741,
           "date": "2020-06-08",
           "deaths": 143,
           "recovered": 0
