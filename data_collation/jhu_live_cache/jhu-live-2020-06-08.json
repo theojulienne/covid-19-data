@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 7553,
+      "confirmed": 7876,
       "date": "2020-06-08",
-      "deaths": 88,
-      "recovered": 4149
+      "deaths": 93,
+      "recovered": 4377
     }
   },
   "Bahrain": {
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32096,
+          "confirmed": 32126,
           "date": "2020-06-08",
           "deaths": 2502,
-          "recovered": 24694
+          "recovered": 24716
         }
       },
       "Quebec": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 258090,
+      "confirmed": 260093,
       "date": "2020-06-08",
-      "deaths": 7210,
-      "recovered": 124380
+      "deaths": 7263,
+      "recovered": 125641
     }
   },
   "Indonesia": {
@@ -722,7 +722,7 @@
           "confirmed": 5400,
           "date": "2020-06-08",
           "deaths": 311,
-          "recovered": 4696
+          "recovered": 4716
         }
       }
     }
@@ -1152,7 +1152,7 @@
       "confirmed": 38296,
       "date": "2020-06-08",
       "deaths": 25,
-      "recovered": 24886
+      "recovered": 25368
     }
   },
   "South Africa": {
@@ -1167,7 +1167,7 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 12783,
+          "confirmed": 12785,
           "date": "2020-06-08",
           "deaths": 1404,
           "recovered": 10671
@@ -1175,7 +1175,7 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 5781,
+          "confirmed": 5785,
           "date": "2020-06-08",
           "deaths": 826,
           "recovered": 3772
@@ -1183,7 +1183,7 @@
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 11314,
+          "confirmed": 11332,
           "date": "2020-06-08",
           "deaths": 1332,
           "recovered": 9970
@@ -1191,7 +1191,7 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 17505,
+          "confirmed": 17543,
           "date": "2020-06-08",
           "deaths": 2945,
           "recovered": 6392
@@ -1199,7 +1199,7 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 19161,
+          "confirmed": 19181,
           "date": "2020-06-08",
           "deaths": 1928,
           "recovered": 8716
@@ -1207,7 +1207,7 @@
       },
       "Catalonia": {
         "live": {
-          "confirmed": 59209,
+          "confirmed": 59215,
           "date": "2020-06-08",
           "deaths": 5587,
           "recovered": 26203
@@ -1215,7 +1215,7 @@
       },
       "Galicia": {
         "live": {
-          "confirmed": 9145,
+          "confirmed": 9141,
           "date": "2020-06-08",
           "deaths": 609,
           "recovered": 9204
@@ -1223,7 +1223,7 @@
       },
       "La Rioja": {
         "live": {
-          "confirmed": 4061,
+          "confirmed": 4062,
           "date": "2020-06-08",
           "deaths": 362,
           "recovered": 3107
@@ -1231,7 +1231,7 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 69641,
+          "confirmed": 69695,
           "date": "2020-06-08",
           "deaths": 8691,
           "recovered": 40736
@@ -1239,7 +1239,7 @@
       },
       "Navarra": {
         "live": {
-          "confirmed": 5288,
+          "confirmed": 5294,
           "date": "2020-06-08",
           "deaths": 490,
           "recovered": 3905
@@ -1247,7 +1247,7 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 13542,
+          "confirmed": 13548,
           "date": "2020-06-08",
           "deaths": 1424,
           "recovered": 16160
@@ -1455,9 +1455,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 7483,
+          "confirmed": 7592,
           "date": "2020-06-08",
-          "deaths": 359,
+          "deaths": 363,
           "recovered": 0
         }
       },
@@ -1495,7 +1495,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 47261,
+          "confirmed": 47333,
           "date": "2020-06-08",
           "deaths": 3604,
           "recovered": 0
