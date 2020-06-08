@@ -145,6 +145,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
+        null,
         null
       ],
       "Locally acquired - contact of a confirmed case": [
@@ -230,6 +231,7 @@ var covid19_dataset_country_nzl = {
         539,
         577,
         625,
+        null,
         null,
         null,
         null,
@@ -425,6 +427,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         null,
+        null,
         null
       ],
       "Under investigation": [
@@ -510,6 +513,7 @@ var covid19_dataset_country_nzl = {
         null,
         null,
         146,
+        null,
         null,
         null,
         null,
@@ -815,7 +819,7 @@ var covid19_dataset_country_nzl = {
       1476,
       1479,
       1485,
-      1485,
+      1487,
       1487,
       1486,
       1488,
@@ -848,6 +852,7 @@ var covid19_dataset_country_nzl = {
       1504,
       1504,
       3095,
+      1504,
       1504,
       1504,
       1504
@@ -955,12 +960,13 @@ var covid19_dataset_country_nzl = {
       7,
       6,
       5,
-      5,
+      8,
       4,
       4,
       2,
       2,
       3,
+      2,
       2,
       2,
       2,
@@ -1094,6 +1100,7 @@ var covid19_dataset_country_nzl = {
       1,
       1,
       1,
+      0,
       0,
       0,
       0,
@@ -1270,6 +1277,7 @@ var covid19_dataset_country_nzl = {
       21,
       21,
       21,
+      21,
       21
     ],
     "recovered": [
@@ -1375,7 +1383,7 @@ var covid19_dataset_country_nzl = {
       1241,
       1252,
       1263,
-      1263,
+      1266,
       1276,
       1302,
       1316,
@@ -1410,7 +1418,8 @@ var covid19_dataset_country_nzl = {
       1481,
       1481,
       1481,
-      1481
+      1481,
+      1482
     ],
     "tested": [
       0,
@@ -1515,7 +1524,7 @@ var covid19_dataset_country_nzl = {
       134570,
       139898,
       145589,
-      145589,
+      150223,
       152696,
       155928,
       160700,
@@ -1550,7 +1559,8 @@ var covid19_dataset_country_nzl = {
       286174,
       288987,
       291994,
-      294048
+      294048,
+      294848
     ]
   }
 };

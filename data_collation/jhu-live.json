@@ -530,7 +530,7 @@
           "confirmed": 6781,
           "date": "2020-06-08",
           "deaths": 230,
-          "recovered": 6336
+          "recovered": 6343
         }
       },
       "Sachsen": {
@@ -593,10 +593,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 171789,
+      "confirmed": 173832,
       "date": "2020-06-08",
-      "deaths": 8281,
-      "recovered": 134349
+      "deaths": 8351,
+      "recovered": 136360
     }
   },
   "Iraq": {
@@ -745,10 +745,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 31848,
+      "confirmed": 32510,
       "date": "2020-06-08",
-      "deaths": 264,
-      "recovered": 20205
+      "deaths": 269,
+      "recovered": 21242
     }
   },
   "Luxembourg": {
@@ -1287,7 +1287,7 @@
     "live": {
       "confirmed": 30972,
       "date": "2020-06-08",
-      "deaths": 1921,
+      "deaths": 1923,
       "recovered": 28700
     }
   },
