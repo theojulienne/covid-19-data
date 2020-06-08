@@ -279,6 +279,7 @@ var covid19_dataset_country_gmb = {
       26,
       26,
       26,
+      26,
       26
     ],
     "deaths": [
@@ -343,6 +344,7 @@ var covid19_dataset_country_gmb = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,

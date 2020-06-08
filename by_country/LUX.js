@@ -279,7 +279,8 @@ var covid19_dataset_country_lux = {
       4024,
       4027,
       4032,
-      4035
+      4035,
+      4039
     ],
     "deaths": [
       0,
@@ -405,6 +406,7 @@ var covid19_dataset_country_lux = {
       109,
       109,
       109,
+      110,
       110,
       110,
       110,
