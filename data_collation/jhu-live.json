@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 65769,
+      "confirmed": 68504,
       "date": "2020-06-08",
-      "deaths": 888,
-      "recovered": 13903
+      "deaths": 930,
+      "recovered": 14560
     }
   },
   "Belarus": {
@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 59226,
+      "confirmed": 59348,
       "date": "2020-06-08",
-      "deaths": 9595,
-      "recovered": 16291
+      "deaths": 9606,
+      "recovered": 16315
     }
   },
   "Bolivia": {
@@ -395,6 +395,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 4106,
+      "date": "2020-06-08",
+      "deaths": 88,
+      "recovered": 537
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 9629,
@@ -445,7 +453,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 6981,
+      "confirmed": 7001,
       "date": "2020-06-08",
       "deaths": 323,
       "recovered": 5800
@@ -577,10 +585,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 31186,
+      "confirmed": 32033,
       "date": "2020-06-08",
-      "deaths": 1851,
-      "recovered": 10498
+      "deaths": 1883,
+      "recovered": 10904
     }
   },
   "Iran": {
@@ -753,10 +761,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8322,
+      "confirmed": 8329,
       "date": "2020-06-08",
       "deaths": 117,
-      "recovered": 6674
+      "recovered": 6694
     }
   },
   "Mexico": {
@@ -829,10 +837,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8224,
+      "confirmed": 8250,
       "date": "2020-06-08",
       "deaths": 208,
-      "recovered": 7364
+      "recovered": 7370
     }
   },
   "Netherlands": {
@@ -969,10 +977,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 21895,
+      "confirmed": 22474,
       "date": "2020-06-08",
-      "deaths": 1003,
-      "recovered": 4530
+      "deaths": 1011,
+      "recovered": 4637
     }
   },
   "Poland": {
@@ -1111,14 +1119,6 @@
           "date": "2020-06-08",
           "deaths": 49,
           "recovered": 2441
-        }
-      },
-      "Volgograd Oblast": {
-        "live": {
-          "confirmed": 4030,
-          "date": "2020-06-08",
-          "deaths": 23,
-          "recovered": 1428
         }
       }
     }
