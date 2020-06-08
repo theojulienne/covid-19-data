@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 15417,
       "date": "2020-06-08",
-      "deaths": 26,
+      "deaths": 27,
       "recovered": 10326
     }
   },
@@ -461,20 +461,20 @@
   },
   "France": {
     "live": {
-      "confirmed": 187247,
+      "confirmed": 187458,
       "date": "2020-06-08",
-      "deaths": 29099,
-      "recovered": 68099
+      "deaths": 29153,
+      "recovered": 68319
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34937,
+          "confirmed": 34949,
           "date": "2020-06-08",
-          "deaths": 1791,
-          "recovered": 32500
+          "deaths": 1795,
+          "recovered": 32506
         }
       },
       "Bayern": {
@@ -487,10 +487,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 7016,
+          "confirmed": 7041,
           "date": "2020-06-08",
           "deaths": 205,
-          "recovered": 6470
+          "recovered": 6495
         }
       },
       "Hamburg": {
@@ -577,10 +577,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 265819,
+      "confirmed": 265869,
       "date": "2020-06-08",
       "deaths": 7473,
-      "recovered": 128919
+      "recovered": 129088
     }
   },
   "Indonesia": {
@@ -1301,10 +1301,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 170132,
+      "confirmed": 171121,
       "date": "2020-06-08",
-      "deaths": 4692,
-      "recovered": 137969
+      "deaths": 4711,
+      "recovered": 141380
     }
   },
   "US": {
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 353071,
           "date": "2020-06-08",
-          "deaths": 29024,
+          "deaths": 29034,
           "recovered": 0
         }
       },
@@ -1487,15 +1487,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11370,
+          "confirmed": 11496,
           "date": "2020-06-08",
-          "deaths": 567,
+          "deaths": 583,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 47333,
+          "confirmed": 47495,
           "date": "2020-06-08",
           "deaths": 3608,
           "recovered": 0
@@ -1569,10 +1569,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 38808,
+      "confirmed": 39376,
       "date": "2020-06-08",
-      "deaths": 276,
-      "recovered": 21806
+      "deaths": 281,
+      "recovered": 22275
     }
   },
   "United Kingdom": {
@@ -1585,10 +1585,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4352,
+      "confirmed": 4440,
       "date": "2020-06-08",
       "deaths": 18,
-      "recovered": 3354
+      "recovered": 3357
     }
   }
 }
