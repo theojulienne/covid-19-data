@@ -559,6 +559,7 @@ var covid19_dataset_country_cpv = {
       238,
       239,
       239,
+      240,
       240
     ]
   }

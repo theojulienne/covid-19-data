@@ -559,6 +559,7 @@ var covid19_dataset_country_syr = {
       53,
       53,
       53,
+      58,
       58
     ]
   }

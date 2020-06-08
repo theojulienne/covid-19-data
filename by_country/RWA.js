@@ -559,7 +559,8 @@ var covid19_dataset_country_rwa = {
       271,
       280,
       282,
-      283
+      283,
+      290
     ]
   }
 };

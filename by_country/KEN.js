@@ -559,7 +559,8 @@ var covid19_dataset_country_ken = {
       553,
       592,
       643,
-      706
+      706,
+      752
     ]
   }
 };

@@ -559,7 +559,8 @@ var covid19_dataset_country_npl = {
       278,
       290,
       333,
-      365
+      365,
+      467
     ]
   }
 };

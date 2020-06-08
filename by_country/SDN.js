@@ -559,6 +559,7 @@ var covid19_dataset_country_sdn = {
       1711,
       1825,
       1924,
+      2014,
       2014
     ]
   }

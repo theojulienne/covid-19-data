@@ -559,6 +559,7 @@ var covid19_dataset_country_dma = {
       16,
       16,
       16,
+      16,
       16
     ]
   }

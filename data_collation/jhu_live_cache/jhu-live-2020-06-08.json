@@ -363,26 +363,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 6184,
+          "confirmed": 6498,
           "date": "2020-06-08",
-          "deaths": 200,
-          "recovered": 1716
+          "deaths": 218,
+          "recovered": 1897
+        }
+      },
+      "Bolivar": {
+        "live": {
+          "confirmed": 4128,
+          "date": "2020-06-08",
+          "deaths": 182,
+          "recovered": 1221
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 12531,
+          "confirmed": 12880,
           "date": "2020-06-08",
-          "deaths": 320,
-          "recovered": 5109
+          "deaths": 332,
+          "recovered": 5402
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 4355,
+          "confirmed": 4424,
           "date": "2020-06-08",
-          "deaths": 211,
-          "recovered": 1474
+          "deaths": 221,
+          "recovered": 1583
         }
       }
     }
@@ -721,7 +729,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 12694,
+      "confirmed": 12859,
       "date": "2020-06-08",
       "deaths": 56,
       "recovered": 7376
@@ -869,10 +877,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 98943,
+      "confirmed": 103671,
       "date": "2020-06-08",
-      "deaths": 2002,
-      "recovered": 33465
+      "deaths": 2067,
+      "recovered": 34355
     }
   },
   "Panama": {
@@ -1359,9 +1367,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 13275,
+          "confirmed": 9263,
           "date": "2020-06-08",
-          "deaths": 514,
+          "deaths": 389,
           "recovered": 0
         }
       },

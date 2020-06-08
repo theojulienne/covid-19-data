@@ -559,7 +559,8 @@ var covid19_dataset_country_jam = {
       361,
       368,
       385,
-      404
+      404,
+      405
     ]
   }
 };

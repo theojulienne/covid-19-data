@@ -559,7 +559,8 @@ var covid19_dataset_country_jor = {
       561,
       566,
       571,
-      586
+      586,
+      607
     ]
   }
 };

@@ -559,7 +559,8 @@ var covid19_dataset_country_ven = {
       334,
       334,
       334,
-      385
+      385,
+      487
     ]
   }
 };

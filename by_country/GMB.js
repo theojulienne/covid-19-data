@@ -559,6 +559,7 @@ var covid19_dataset_country_gmb = {
       20,
       20,
       21,
+      21,
       21
     ]
   }

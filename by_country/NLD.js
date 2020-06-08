@@ -419,6 +419,7 @@ var covid19_dataset_country_nld = {
           98,
           98,
           98,
+          98,
           98
         ]
       }
@@ -837,6 +838,7 @@ var covid19_dataset_country_nld = {
           6,
           6,
           6,
+          7,
           7,
           7,
           7,
@@ -1265,6 +1267,7 @@ var covid19_dataset_country_nld = {
           15,
           15,
           15,
+          15,
           15
         ]
       }
@@ -1687,6 +1690,7 @@ var covid19_dataset_country_nld = {
           60,
           60,
           60,
+          61,
           61,
           61
         ]
@@ -2117,6 +2121,7 @@ var covid19_dataset_country_nld = {
       6013
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

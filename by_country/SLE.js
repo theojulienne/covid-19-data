@@ -559,7 +559,8 @@ var covid19_dataset_country_sle = {
       491,
       491,
       580,
-      600
+      600,
+      608
     ]
   }
 };

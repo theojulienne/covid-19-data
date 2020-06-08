@@ -559,6 +559,7 @@ var covid19_dataset_country_bfa = {
       753,
       760,
       760,
+      765,
       765
     ]
   }

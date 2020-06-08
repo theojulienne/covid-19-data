@@ -559,6 +559,7 @@ var covid19_dataset_country_hun = {
       2190,
       2205,
       2245,
+      2279,
       2279
     ]
   }

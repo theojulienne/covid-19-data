@@ -559,6 +559,7 @@ var covid19_dataset_country_mne = {
       315,
       315,
       315,
+      315,
       315
     ]
   }

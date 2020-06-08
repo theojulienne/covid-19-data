@@ -559,6 +559,7 @@ var covid19_dataset_country_svn = {
       1358,
       1359,
       1359,
+      1359,
       1359
     ]
   }

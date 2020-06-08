@@ -559,6 +559,7 @@ var covid19_dataset_country_tza = {
       183,
       183,
       183,
+      183,
       183
     ]
   }

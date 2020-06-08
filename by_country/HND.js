@@ -559,7 +559,8 @@ var covid19_dataset_country_hnd = {
       617,
       648,
       677,
-      697
+      697,
+      712
     ]
   }
 };

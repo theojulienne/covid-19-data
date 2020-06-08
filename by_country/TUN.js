@@ -559,7 +559,8 @@ var covid19_dataset_country_tun = {
       965,
       968,
       969,
-      977
+      977,
+      982
     ]
   }
 };

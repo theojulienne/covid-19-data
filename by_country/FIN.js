@@ -559,6 +559,7 @@ var covid19_dataset_country_fin = {
       5500,
       5800,
       5800,
+      5800,
       5800
     ]
   }

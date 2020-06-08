@@ -559,6 +559,7 @@ var covid19_dataset_country_sur = {
       9,
       9,
       9,
+      9,
       9
     ]
   }

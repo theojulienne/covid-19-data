@@ -559,6 +559,7 @@ var covid19_dataset_country_guy = {
       70,
       77,
       77,
+      80,
       80
     ]
   }

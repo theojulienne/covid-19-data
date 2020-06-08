@@ -559,6 +559,7 @@ var covid19_dataset_country_bdi = {
       33,
       33,
       33,
+      45,
       45
     ]
   }

@@ -559,6 +559,7 @@ var covid19_dataset_country_tcd = {
       590,
       633,
       657,
+      672,
       672
     ]
   }

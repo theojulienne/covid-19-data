@@ -559,7 +559,8 @@ var covid19_dataset_country_pry = {
       511,
       511,
       516,
-      532
+      532,
+      575
     ]
   }
 };
