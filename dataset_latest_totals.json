@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 32096,
-          "deaths": 2483
+          "deaths": 2502
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -1165,18 +1165,18 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 38571,
-        "deaths": 3334,
+        "confirmed": 39098,
+        "deaths": 3358,
         "recovered": 19190
       },
       "back_2week": {
-        "confirmed": 36258,
-        "deaths": 3096,
+        "confirmed": 36756,
+        "deaths": 3108,
         "recovered": 3557
       },
       "latest": {
-        "confirmed": 42728,
-        "deaths": 3608,
+        "confirmed": 43120,
+        "deaths": 3621,
         "recovered": 21020
       }
     },
@@ -1745,18 +1745,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 24929,
-        "deaths": 1651,
+        "confirmed": 24990,
+        "deaths": 1652,
         "recovered": 22089
       },
       "back_2week": {
-        "confirmed": 24582,
-        "deaths": 1604,
+        "confirmed": 24639,
+        "deaths": 1608,
         "recovered": 21060
       },
       "latest": {
-        "confirmed": 25183,
-        "deaths": 1678,
+        "confirmed": 25201,
+        "deaths": 1679,
         "recovered": 22698
       }
     },
@@ -3736,7 +3736,7 @@
     "UZB": {
       "back_1week": {
         "confirmed": 3623,
-        "deaths": 14,
+        "deaths": 15,
         "recovered": 2783
       },
       "back_2week": {
