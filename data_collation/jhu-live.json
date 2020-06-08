@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32200,
+          "confirmed": 32205,
           "date": "2020-06-08",
-          "deaths": 2504,
-          "recovered": 24843
+          "deaths": 2506,
+          "recovered": 24859
         }
       },
       "Quebec": {
@@ -331,17 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 108462,
+          "confirmed": 112136,
           "date": "2020-06-08",
-          "deaths": 1273,
+          "deaths": 1950,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 4862,
+          "confirmed": 5149,
           "date": "2020-06-08",
-          "deaths": 93,
+          "deaths": 85,
           "recovered": 0
         }
       }
@@ -445,10 +445,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 34079,
+      "confirmed": 35444,
       "date": "2020-06-08",
-      "deaths": 1237,
-      "recovered": 8961
+      "deaths": 1271,
+      "recovered": 9375
     }
   },
   "Finland": {
@@ -1367,9 +1367,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 111983,
+          "confirmed": 112551,
           "date": "2020-06-08",
-          "deaths": 5190,
+          "deaths": 5208,
           "recovered": 0
         }
       },
