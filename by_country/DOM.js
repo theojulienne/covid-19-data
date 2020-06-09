@@ -281,7 +281,8 @@ var covid19_dataset_country_dom = {
       18319,
       18708,
       19195,
-      19600
+      19600,
+      20126
     ],
     "deaths": [
       0,

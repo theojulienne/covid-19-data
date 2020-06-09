@@ -281,7 +281,8 @@ var covid19_dataset_country_moz = {
       352,
       354,
       409,
-      424
+      424,
+      433
     ],
     "deaths": [
       0,

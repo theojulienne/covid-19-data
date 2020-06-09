@@ -281,7 +281,8 @@ var covid19_dataset_country_mdv = {
       1872,
       1883,
       1901,
-      1903
+      1903,
+      1916
     ],
     "deaths": [
       0,

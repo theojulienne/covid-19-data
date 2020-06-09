@@ -281,7 +281,8 @@ var covid19_dataset_country_swz = {
       300,
       305,
       322,
-      333
+      333,
+      340
     ],
     "deaths": [
       0,

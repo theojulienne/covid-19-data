@@ -281,7 +281,8 @@ var covid19_dataset_country_jor = {
       765,
       784,
       795,
-      808
+      808,
+      831
     ],
     "deaths": [
       0,

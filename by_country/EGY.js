@@ -281,7 +281,8 @@ var covid19_dataset_country_egy = {
       29767,
       31115,
       32612,
-      34079
+      34079,
+      35444
     ],
     "deaths": [
       0,

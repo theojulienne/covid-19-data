@@ -281,7 +281,8 @@ var covid19_dataset_country_gtm = {
       6154,
       6485,
       6792,
-      7055
+      7055,
+      7502
     ],
     "deaths": [
       0,

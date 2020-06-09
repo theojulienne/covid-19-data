@@ -281,7 +281,8 @@ var covid19_dataset_country_phl = {
       20382,
       20626,
       21340,
-      21895
+      21895,
+      22474
     ],
     "deaths": [
       0,

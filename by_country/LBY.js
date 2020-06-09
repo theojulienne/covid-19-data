@@ -281,7 +281,8 @@ var covid19_dataset_country_lby = {
       209,
       239,
       256,
-      256
+      256,
+      332
     ],
     "deaths": [
       0,

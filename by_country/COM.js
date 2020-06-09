@@ -281,6 +281,7 @@ var covid19_dataset_country_com = {
       132,
       132,
       141,
+      141,
       141
     ],
     "deaths": [

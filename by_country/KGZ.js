@@ -281,7 +281,8 @@ var covid19_dataset_country_kgz = {
       1899,
       1936,
       1974,
-      2007
+      2007,
+      2032
     ],
     "deaths": [
       0,

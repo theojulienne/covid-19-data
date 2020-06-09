@@ -281,7 +281,8 @@ var covid19_dataset_country_ecu = {
       40966,
       41575,
       42728,
-      43120
+      43120,
+      43378
     ],
     "deaths": [
       0,

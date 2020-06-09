@@ -281,7 +281,8 @@ var covid19_dataset_country_arg = {
       20197,
       21037,
       22020,
-      22794
+      22794,
+      23620
     ],
     "deaths": [
       0,

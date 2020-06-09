@@ -281,7 +281,8 @@ var covid19_dataset_country_eth = {
       1636,
       1805,
       1934,
-      2020
+      2020,
+      2156
     ],
     "deaths": [
       0,

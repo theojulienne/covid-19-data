@@ -281,7 +281,8 @@ var covid19_dataset_country_irq = {
       8840,
       9846,
       11098,
-      12366
+      12366,
+      13481
     ],
     "deaths": [
       0,

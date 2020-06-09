@@ -281,7 +281,8 @@ var covid19_dataset_country_yem = {
       453,
       469,
       482,
-      484
+      484,
+      496
     ],
     "deaths": [
       0,

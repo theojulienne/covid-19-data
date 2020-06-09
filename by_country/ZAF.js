@@ -281,7 +281,8 @@ var covid19_dataset_country_zaf = {
       40792,
       43434,
       45973,
-      48285
+      48285,
+      50879
     ],
     "deaths": [
       0,

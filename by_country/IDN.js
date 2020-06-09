@@ -281,7 +281,8 @@ var covid19_dataset_country_idn = {
       28818,
       29521,
       30514,
-      31186
+      31186,
+      32033
     ],
     "deaths": [
       0,

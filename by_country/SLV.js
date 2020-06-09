@@ -281,7 +281,8 @@ var covid19_dataset_country_slv = {
       2781,
       2849,
       2934,
-      3015
+      3015,
+      3104
     ],
     "deaths": [
       0,

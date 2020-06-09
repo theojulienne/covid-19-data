@@ -281,7 +281,8 @@ var covid19_dataset_country_pry = {
       1086,
       1087,
       1090,
-      1135
+      1135,
+      1145
     ],
     "deaths": [
       0,

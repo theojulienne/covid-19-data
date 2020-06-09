@@ -281,7 +281,8 @@ var covid19_dataset_country_ven = {
       2087,
       2145,
       2316,
-      2377
+      2377,
+      2473
     ],
     "deaths": [
       0,

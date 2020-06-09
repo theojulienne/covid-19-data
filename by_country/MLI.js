@@ -281,7 +281,8 @@ var covid19_dataset_country_mli = {
       1461,
       1485,
       1523,
-      1533
+      1533,
+      1547
     ],
     "deaths": [
       0,

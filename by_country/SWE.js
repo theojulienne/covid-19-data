@@ -281,7 +281,8 @@ var covid19_dataset_country_swe = {
       41883,
       42939,
       43887,
-      44730
+      44730,
+      45133
     ],
     "deaths": [
       0,

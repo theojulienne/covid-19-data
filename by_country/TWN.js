@@ -281,6 +281,7 @@ var covid19_dataset_country_twn = {
       443,
       443,
       443,
+      443,
       443
     ],
     "deaths": [

@@ -286,7 +286,7 @@
           "confirmed": 9727,
           "date": "2020-06-09",
           "deaths": 234,
-          "recovered": 4485
+          "recovered": 4525
         }
       },
       "Tocantins": {
@@ -877,10 +877,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 103671,
+      "confirmed": 108317,
       "date": "2020-06-09",
-      "deaths": 2067,
-      "recovered": 34355
+      "deaths": 2172,
+      "recovered": 35018
     }
   },
   "Panama": {
@@ -1319,7 +1319,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 96146,
+          "confirmed": 96289,
           "date": "2020-06-09",
           "deaths": 3709,
           "recovered": 0
