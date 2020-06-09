@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 49453,
+      "confirmed": 50265,
       "date": "2020-06-09",
-      "deaths": 276,
-      "recovered": 23880
+      "deaths": 282,
+      "recovered": 24506
     }
   },
   "Belgium": {
@@ -301,10 +301,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 8060,
+      "confirmed": 8312,
       "date": "2020-06-09",
       "deaths": 212,
-      "recovered": 4748
+      "recovered": 4794
     }
   },
   "Canada": {
@@ -601,10 +601,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 173832,
+      "confirmed": 175927,
       "date": "2020-06-09",
-      "deaths": 8351,
-      "recovered": 136360
+      "deaths": 8425,
+      "recovered": 138457
     }
   },
   "Iraq": {
@@ -1149,10 +1149,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 4427,
+      "confirmed": 4516,
       "date": "2020-06-09",
-      "deaths": 49,
-      "recovered": 2699
+      "deaths": 52,
+      "recovered": 2809
     }
   },
   "Serbia": {
