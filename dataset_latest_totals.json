@@ -1507,9 +1507,9 @@
     },
     "GIN": {
       "back_1week": {
-        "confirmed": 3706,
+        "confirmed": 3844,
         "deaths": 23,
-        "recovered": 2030
+        "recovered": 2135
       },
       "back_2week": {
         "confirmed": 3275,
@@ -1517,9 +1517,9 @@
         "recovered": 1673
       },
       "latest": {
-        "confirmed": 4117,
+        "confirmed": 4216,
         "deaths": 23,
-        "recovered": 2877
+        "recovered": 2918
       }
     },
     "GMB": {

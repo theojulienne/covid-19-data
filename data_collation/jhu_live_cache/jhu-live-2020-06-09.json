@@ -134,7 +134,7 @@
           "confirmed": 65605,
           "date": "2020-06-09",
           "deaths": 4120,
-          "recovered": 46361
+          "recovered": 48847
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 16629,
           "date": "2020-06-09",
           "deaths": 214,
-          "recovered": 8966
+          "recovered": 9788
         }
       },
       "Espirito Santo": {
@@ -174,7 +174,7 @@
           "confirmed": 15883,
           "date": "2020-06-09",
           "deaths": 380,
-          "recovered": 6857
+          "recovered": 7363
         }
       },
       "Para": {
@@ -182,7 +182,7 @@
           "confirmed": 56032,
           "date": "2020-06-09",
           "deaths": 3772,
-          "recovered": 44244
+          "recovered": 46694
         }
       },
       "Paraiba": {
@@ -230,7 +230,7 @@
           "confirmed": 12250,
           "date": "2020-06-09",
           "deaths": 291,
-          "recovered": 8587
+          "recovered": 10410
         }
       },
       "Rio de Janeiro": {
@@ -238,7 +238,7 @@
           "confirmed": 69499,
           "date": "2020-06-09",
           "deaths": 6781,
-          "recovered": 53445
+          "recovered": 56552
         }
       },
       "Rondonia": {
@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32497,
+          "confirmed": 32500,
           "date": "2020-06-09",
           "deaths": 2525,
-          "recovered": 25157
+          "recovered": 25167
         }
       },
       "Quebec": {
@@ -561,10 +561,10 @@
   },
   "Guinea": {
     "live": {
-      "confirmed": 4216,
+      "confirmed": 4258,
       "date": "2020-06-09",
       "deaths": 23,
-      "recovered": 2918
+      "recovered": 2942
     }
   },
   "Honduras": {
@@ -1311,9 +1311,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 96298,
+          "confirmed": 96555,
           "date": "2020-06-09",
-          "deaths": 3709,
+          "deaths": 3717,
           "recovered": 0
         }
       },
@@ -1327,9 +1327,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 38796,
+          "confirmed": 38842,
           "date": "2020-06-09",
-          "deaths": 3620,
+          "deaths": 3626,
           "recovered": 0
         }
       },
@@ -1367,9 +1367,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 112551,
+          "confirmed": 113205,
           "date": "2020-06-09",
-          "deaths": 5208,
+          "deaths": 5286,
           "recovered": 0
         }
       },
@@ -1407,7 +1407,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 99984,
+          "confirmed": 100251,
           "date": "2020-06-09",
           "deaths": 7031,
           "recovered": 0
