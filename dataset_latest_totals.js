@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 32395,
-          "deaths": 2502
+          "deaths": 2524
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -652,12 +652,12 @@ var covid19_dataset_latest_totals = {
       },
       "back_2week": {
         "confirmed": 30746,
-        "deaths": 1906,
+        "deaths": 1913,
         "recovered": 28100
       },
       "latest": {
         "confirmed": 30972,
-        "deaths": 1921,
+        "deaths": 1923,
         "recovered": 28700
       }
     },
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 185851,
-        "deaths": 28751,
-        "recovered": 66123
+        "confirmed": 185952,
+        "deaths": 28779,
+        "recovered": 66120
       },
       "back_2week": {
-        "confirmed": 179859,
-        "deaths": 28317,
-        "recovered": 62961
+        "confirmed": 180166,
+        "deaths": 28407,
+        "recovered": 63542
       },
       "latest": {
-        "confirmed": 187360,
-        "deaths": 29100,
-        "recovered": 68283
+        "confirmed": 187458,
+        "deaths": 29153,
+        "recovered": 68319
       },
       "states": {
         "French Guiana": {
