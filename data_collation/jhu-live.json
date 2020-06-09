@@ -585,10 +585,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 267614,
+      "confirmed": 267652,
       "date": "2020-06-09",
       "deaths": 7481,
-      "recovered": 129226
+      "recovered": 129380
     }
   },
   "Indonesia": {
@@ -727,7 +727,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 5400,
+          "confirmed": 5412,
           "date": "2020-06-09",
           "deaths": 311,
           "recovered": 4716
@@ -845,9 +845,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 47739,
+      "confirmed": 47903,
       "date": "2020-06-09",
-      "deaths": 6016,
+      "deaths": 6031,
       "recovered": 0
     }
   },
@@ -993,18 +993,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 34885,
+      "confirmed": 35306,
       "date": "2020-06-09",
-      "deaths": 1485,
-      "recovered": 21156
+      "deaths": 1492,
+      "recovered": 21339
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 70158,
+      "confirmed": 71879,
       "date": "2020-06-09",
-      "deaths": 57,
-      "recovered": 45935
+      "deaths": 62,
+      "recovered": 47569
     }
   },
   "Romania": {
@@ -1275,17 +1275,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 14803,
+          "confirmed": 14971,
           "date": "2020-06-09",
-          "deaths": 2157,
+          "deaths": 2159,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 8128,
+          "confirmed": 8383,
           "date": "2020-06-09",
-          "deaths": 602,
+          "deaths": 604,
           "recovered": 0
         }
       }
@@ -1593,10 +1593,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4448,
+      "confirmed": 4482,
       "date": "2020-06-09",
       "deaths": 18,
-      "recovered": 3423
+      "recovered": 3444
     }
   }
 }
