@@ -422,7 +422,8 @@ var covid19_dataset_country_pak = {
       1770,
       1838,
       1935,
-      2002
+      2002,
+      2172
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_pak = {
       30128,
       31198,
       32581,
-      33465
+      33465,
+      35018
     ]
   }
 };

@@ -585,10 +585,10 @@
   },
   "India": {
     "live": {
-      "confirmed": 265928,
+      "confirmed": 266598,
       "date": "2020-06-09",
       "deaths": 7473,
-      "recovered": 129095
+      "recovered": 129215
     }
   },
   "Indonesia": {
@@ -1423,9 +1423,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 41838,
+          "confirmed": 42126,
           "date": "2020-06-09",
-          "deaths": 4617,
+          "deaths": 4634,
           "recovered": 0
         }
       },

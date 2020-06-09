@@ -422,6 +422,7 @@ var covid19_dataset_country_cmr = {
       203,
       205,
       212,
+      212,
       212
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_cmr = {
       3705,
       4575,
       4587,
-      4735
+      4735,
+      4748
     ]
   }
 };

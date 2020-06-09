@@ -422,7 +422,8 @@ var covid19_dataset_country_idn = {
       1721,
       1770,
       1801,
-      1851
+      1851,
+      1883
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_idn = {
       8892,
       9443,
       9907,
-      10498
+      10498,
+      10904
     ]
   }
 };

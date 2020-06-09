@@ -422,6 +422,7 @@ var covid19_dataset_country_grd = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -560,6 +561,7 @@ var covid19_dataset_country_grd = {
       18,
       18,
       18,
+      22,
       22,
       22,
       22

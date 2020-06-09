@@ -422,7 +422,8 @@ var covid19_dataset_country_rou = {
       1305,
       1316,
       1322,
-      1333
+      1333,
+      1339
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_rou = {
       13919,
       14145,
       14419,
-      14638
+      14638,
+      14826
     ]
   }
 };

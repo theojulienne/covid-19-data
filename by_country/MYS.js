@@ -422,6 +422,7 @@ var covid19_dataset_country_mys = {
       115,
       116,
       117,
+      117,
       117
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_mys = {
       6559,
       6610,
       6635,
-      6674
+      6674,
+      6694
     ]
   }
 };

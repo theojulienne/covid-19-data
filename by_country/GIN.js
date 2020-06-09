@@ -422,6 +422,7 @@ var covid19_dataset_country_gin = {
       23,
       23,
       23,
+      23,
       23
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_gin = {
       2512,
       2667,
       2857,
-      2877
+      2877,
+      2918
     ]
   }
 };

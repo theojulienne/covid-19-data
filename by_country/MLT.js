@@ -422,6 +422,7 @@ var covid19_dataset_country_mlt = {
       9,
       9,
       9,
+      9,
       9
     ],
     "recovered": [
@@ -561,6 +562,7 @@ var covid19_dataset_country_mlt = {
       562,
       576,
       583,
+      596,
       596,
       596
     ]

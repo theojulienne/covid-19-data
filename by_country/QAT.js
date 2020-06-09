@@ -422,7 +422,8 @@ var covid19_dataset_country_qat = {
       45,
       49,
       51,
-      54
+      54,
+      57
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_qat = {
       39468,
       40935,
       42527,
-      44338
+      44338,
+      45935
     ]
   }
 };

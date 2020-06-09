@@ -422,9 +422,11 @@ var covid19_dataset_country_swe = {
       4562,
       4639,
       4656,
-      4659
+      4659,
+      4694
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

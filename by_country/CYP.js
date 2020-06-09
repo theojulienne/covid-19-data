@@ -422,6 +422,7 @@ var covid19_dataset_country_cyp = {
       17,
       17,
       18,
+      18,
       18
     ],
     "recovered": [
@@ -560,6 +561,7 @@ var covid19_dataset_country_cyp = {
       790,
       790,
       790,
+      807,
       807,
       807,
       807

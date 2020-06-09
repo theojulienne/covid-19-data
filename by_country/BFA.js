@@ -422,6 +422,7 @@ var covid19_dataset_country_bfa = {
       53,
       53,
       53,
+      53,
       53
     ],
     "recovered": [
@@ -561,6 +562,7 @@ var covid19_dataset_country_bfa = {
       753,
       760,
       760,
+      765,
       765,
       765
     ]

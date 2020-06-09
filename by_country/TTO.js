@@ -422,6 +422,7 @@ var covid19_dataset_country_tto = {
       8,
       8,
       8,
+      8,
       8
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_tto = {
       108,
       108,
       108,
-      108
+      108,
+      109
     ]
   }
 };

@@ -422,6 +422,7 @@ var covid19_dataset_country_lbr = {
       28,
       30,
       30,
+      30,
       30
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_lbr = {
       175,
       176,
       185,
-      194
+      194,
+      195
     ]
   }
 };

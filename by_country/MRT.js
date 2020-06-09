@@ -422,7 +422,8 @@ var covid19_dataset_country_mrt = {
       39,
       43,
       49,
-      55
+      55,
+      59
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_mrt = {
       65,
       69,
       104,
-      108
+      108,
+      119
     ]
   }
 };

@@ -422,6 +422,7 @@ var covid19_dataset_country_ven = {
       20,
       20,
       22,
+      22,
       22
     ],
     "recovered": [
@@ -562,6 +563,7 @@ var covid19_dataset_country_ven = {
       334,
       334,
       385,
+      487,
       487
     ]
   }

@@ -422,6 +422,7 @@ var covid19_dataset_country_svk = {
       28,
       28,
       28,
+      28,
       28
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_svk = {
       1376,
       1379,
       1379,
-      1389
+      1389,
+      1396
     ]
   }
 };

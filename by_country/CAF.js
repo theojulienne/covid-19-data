@@ -422,6 +422,7 @@ var covid19_dataset_country_caf = {
       4,
       4,
       5,
+      5,
       5
     ],
     "recovered": [
@@ -562,6 +563,7 @@ var covid19_dataset_country_caf = {
       23,
       29,
       37,
+      38,
       38
     ]
   }

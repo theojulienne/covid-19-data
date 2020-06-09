@@ -422,7 +422,8 @@ var covid19_dataset_country_rus = {
       5376,
       5520,
       5717,
-      5851
+      5851,
+      5963
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_rus = {
       204197,
       212237,
       220935,
-      226272
+      226272,
+      230226
     ]
   }
 };

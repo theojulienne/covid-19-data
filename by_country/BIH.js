@@ -422,7 +422,8 @@ var covid19_dataset_country_bih = {
       159,
       159,
       159,
-      159
+      159,
+      160
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_bih = {
       1951,
       1968,
       1968,
-      1968
+      1968,
+      2023
     ]
   }
 };

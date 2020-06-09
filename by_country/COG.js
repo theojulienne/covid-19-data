@@ -422,6 +422,7 @@ var covid19_dataset_country_cog = {
       20,
       20,
       22,
+      22,
       22
     ],
     "recovered": [
@@ -561,6 +562,7 @@ var covid19_dataset_country_cog = {
       179,
       179,
       182,
+      210,
       210,
       210
     ]

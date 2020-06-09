@@ -422,6 +422,7 @@ var covid19_dataset_country_cub = {
       83,
       83,
       83,
+      83,
       83
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_cub = {
       1839,
       1848,
       1855,
-      1862
+      1862,
+      1868
     ]
   }
 };

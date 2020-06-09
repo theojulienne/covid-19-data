@@ -422,6 +422,7 @@ var covid19_dataset_country_sen = {
       45,
       45,
       47,
+      49,
       49
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_sen = {
       2162,
       2276,
       2512,
-      2588
+      2588,
+      2699
     ]
   }
 };

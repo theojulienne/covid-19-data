@@ -422,7 +422,8 @@ var covid19_dataset_country_ssd = {
       10,
       10,
       10,
-      14
+      14,
+      19
     ],
     "recovered": [
       0,
@@ -562,7 +563,8 @@ var covid19_dataset_country_ssd = {
       6,
       6,
       6,
-      6
+      6,
+      15
     ]
   }
 };

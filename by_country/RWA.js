@@ -422,6 +422,7 @@ var covid19_dataset_country_rwa = {
       2,
       2,
       2,
+      2,
       2
     ],
     "recovered": [
@@ -562,7 +563,8 @@ var covid19_dataset_country_rwa = {
       280,
       282,
       283,
-      290
+      290,
+      297
     ]
   }
 };
