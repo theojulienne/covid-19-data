@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32737,
+          "confirmed": 32790,
           "date": "2020-06-10",
-          "deaths": 2536,
-          "recovered": 25401
+          "deaths": 2540,
+          "recovered": 25491
         }
       },
       "Quebec": {
@@ -331,17 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 115126,
+          "confirmed": 119746,
           "date": "2020-06-10",
-          "deaths": 1968,
+          "deaths": 2115,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 5391,
+          "confirmed": 5614,
           "date": "2020-06-10",
-          "deaths": 85,
+          "deaths": 99,
           "recovered": 0
         }
       }
@@ -447,7 +447,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 34974,
+          "confirmed": 35004,
           "date": "2020-06-10",
           "deaths": 1801,
           "recovered": 32700
@@ -503,10 +503,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6810,
+          "confirmed": 6813,
           "date": "2020-06-10",
           "deaths": 231,
-          "recovered": 6354
+          "recovered": 6391
         }
       },
       "Sachsen": {
@@ -791,7 +791,7 @@
     "live": {
       "confirmed": 13319,
       "date": "2020-06-10",
-      "deaths": 61,
+      "deaths": 67,
       "recovered": 8345
     }
   },
@@ -881,10 +881,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8455,
+      "confirmed": 8508,
       "date": "2020-06-10",
-      "deaths": 210,
-      "recovered": 7496
+      "deaths": 211,
+      "recovered": 7565
     }
   },
   "Netherlands": {
@@ -1349,10 +1349,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 172114,
+      "confirmed": 173036,
       "date": "2020-06-10",
-      "deaths": 4729,
-      "recovered": 144598
+      "deaths": 4746,
+      "recovered": 146839
     }
   },
   "US": {
@@ -1439,9 +1439,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 15187,
+          "confirmed": 15250,
           "date": "2020-06-10",
-          "deaths": 975,
+          "deaths": 976,
           "recovered": 0
         }
       },
@@ -1503,9 +1503,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 152485,
+          "confirmed": 152942,
           "date": "2020-06-10",
-          "deaths": 11432,
+          "deaths": 11499,
           "recovered": 0
         }
       },
@@ -1627,7 +1627,7 @@
     "live": {
       "confirmed": 4591,
       "date": "2020-06-10",
-      "deaths": 18,
+      "deaths": 19,
       "recovered": 3532
     }
   }
