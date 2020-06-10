@@ -487,7 +487,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47452,
+          "confirmed": 47496,
           "date": "2020-06-10",
           "deaths": 2531,
           "recovered": 43900
@@ -503,7 +503,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5121,
+          "confirmed": 5125,
           "date": "2020-06-10",
           "deaths": 254,
           "recovered": 4800
@@ -519,9 +519,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 12626,
+          "confirmed": 12685,
           "date": "2020-06-10",
-          "deaths": 610,
+          "deaths": 611,
           "recovered": 11200
         }
       },
@@ -609,10 +609,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 14268,
+      "confirmed": 15414,
       "date": "2020-06-10",
-      "deaths": 392,
-      "recovered": 5831
+      "deaths": 426,
+      "recovered": 6214
     }
   },
   "Ireland": {
@@ -1141,10 +1141,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 108571,
+      "confirmed": 112288,
       "date": "2020-06-10",
-      "deaths": 783,
-      "recovered": 76339
+      "deaths": 819,
+      "recovered": 77954
     }
   },
   "Senegal": {
@@ -1157,10 +1157,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 11965,
+      "confirmed": 12031,
       "date": "2020-06-10",
-      "deaths": 250,
-      "recovered": 11268
+      "deaths": 251,
+      "recovered": 11348
     }
   },
   "Singapore": {
