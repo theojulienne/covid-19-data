@@ -625,10 +625,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 18180,
+      "confirmed": 18268,
       "date": "2020-06-10",
       "deaths": 299,
-      "recovered": 15159
+      "recovered": 15168
     }
   },
   "Italy": {
@@ -1585,7 +1585,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4520,
+      "confirmed": 4547,
       "date": "2020-06-10",
       "deaths": 18,
       "recovered": 3459
