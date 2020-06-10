@@ -20,7 +20,7 @@
       "confirmed": 24761,
       "date": "2020-06-10",
       "deaths": 717,
-      "recovered": 7568
+      "recovered": 7991
     }
   },
   "Armenia": {
@@ -429,10 +429,10 @@
   },
   "Djibouti": {
     "live": {
-      "confirmed": 4331,
+      "confirmed": 4373,
       "date": "2020-06-10",
       "deaths": 34,
-      "recovered": 2139
+      "recovered": 2260
     }
   },
   "Dominican Republic": {
@@ -469,7 +469,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 187599,
+      "confirmed": 187543,
       "date": "2020-06-10",
       "deaths": 29237,
       "recovered": 68736
@@ -543,7 +543,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 5337,
+          "confirmed": 5338,
           "date": "2020-06-10",
           "deaths": 217,
           "recovered": 5000
@@ -730,7 +730,7 @@
           "confirmed": 5430,
           "date": "2020-06-10",
           "deaths": 311,
-          "recovered": 4758
+          "recovered": 4785
         }
       }
     }
@@ -829,9 +829,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 10025,
+      "confirmed": 10321,
       "date": "2020-06-10",
-      "deaths": 367,
+      "deaths": 371,
       "recovered": 5930
     }
   },
@@ -869,7 +869,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8576,
+      "confirmed": 8588,
       "date": "2020-06-10",
       "deaths": 239,
       "recovered": 8138
@@ -1168,7 +1168,7 @@
       "confirmed": 38965,
       "date": "2020-06-10",
       "deaths": 25,
-      "recovered": 25877
+      "recovered": 26532
     }
   },
   "South Africa": {
@@ -1295,16 +1295,16 @@
     "live": {
       "confirmed": 31011,
       "date": "2020-06-10",
-      "deaths": 1934,
+      "deaths": 1936,
       "recovered": 28700
     }
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 4690,
+      "confirmed": 4763,
       "date": "2020-06-10",
       "deaths": 48,
-      "recovered": 2815
+      "recovered": 2947
     }
   },
   "Turkey": {
@@ -1415,9 +1415,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 47120,
+          "confirmed": 47569,
           "date": "2020-06-10",
-          "deaths": 2145,
+          "deaths": 2166,
           "recovered": 0
         }
       },
@@ -1551,9 +1551,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 19031,
+          "confirmed": 19122,
           "date": "2020-06-10",
-          "deaths": 535,
+          "deaths": 540,
           "recovered": 0
         }
       },
