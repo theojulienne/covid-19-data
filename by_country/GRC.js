@@ -283,7 +283,8 @@ var covid19_dataset_country_grc = {
       2967,
       2980,
       2997,
-      3049
+      3049,
+      3058
     ],
     "deaths": [
       0,
@@ -424,7 +425,8 @@ var covid19_dataset_country_grc = {
       180,
       180,
       180,
-      182
+      182,
+      183
     ],
     "recovered": [
       0,
@@ -526,6 +528,7 @@ var covid19_dataset_country_grc = {
       577,
       577,
       577,
+      1374,
       1374,
       1374,
       1374,

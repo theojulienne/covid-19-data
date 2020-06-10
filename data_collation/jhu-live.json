@@ -286,7 +286,7 @@
           "confirmed": 10126,
           "date": "2020-06-10",
           "deaths": 252,
-          "recovered": 4525
+          "recovered": 4575
         }
       },
       "Tocantins": {
@@ -322,7 +322,7 @@
           "confirmed": 32678,
           "date": "2020-06-10",
           "deaths": 2536,
-          "recovered": 25375
+          "recovered": 25379
         }
       },
       "Quebec": {
@@ -737,7 +737,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 13074,
+      "confirmed": 13319,
       "date": "2020-06-10",
       "deaths": 61,
       "recovered": 8015
@@ -877,10 +877,10 @@
   },
   "Pakistan": {
     "live": {
-      "confirmed": 108317,
+      "confirmed": 113702,
       "date": "2020-06-10",
-      "deaths": 2172,
-      "recovered": 35018
+      "deaths": 2255,
+      "recovered": 36308
     }
   },
   "Panama": {
@@ -1120,6 +1120,14 @@
           "deaths": 51,
           "recovered": 2623
         }
+      },
+      "Volgograd Oblast": {
+        "live": {
+          "confirmed": 4122,
+          "date": "2020-06-10",
+          "deaths": 24,
+          "recovered": 1498
+        }
       }
     }
   },
@@ -1311,9 +1319,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 98185,
+          "confirmed": 98295,
           "date": "2020-06-10",
-          "deaths": 3780,
+          "deaths": 3785,
           "recovered": 0
         }
       },
@@ -1385,7 +1393,7 @@
         "live": {
           "confirmed": 4863,
           "date": "2020-06-10",
-          "deaths": 149,
+          "deaths": 151,
           "recovered": 0
         }
       },
@@ -1415,9 +1423,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 50199,
+          "confirmed": 44010,
           "date": "2020-06-10",
-          "deaths": 4987,
+          "deaths": 4687,
           "recovered": 0
         }
       },
