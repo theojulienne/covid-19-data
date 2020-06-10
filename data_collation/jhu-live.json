@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 13949,
+      "confirmed": 14644,
       "date": "2020-06-10",
-      "deaths": 475,
-      "recovered": 2159
+      "deaths": 487,
+      "recovered": 2190
     }
   },
   "Brazil": {
@@ -577,10 +577,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 6450,
+      "confirmed": 6935,
       "date": "2020-06-10",
-      "deaths": 262,
-      "recovered": 740
+      "deaths": 271,
+      "recovered": 787
     }
   },
   "India": {
@@ -1519,9 +1519,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 33954,
+          "confirmed": 34252,
           "date": "2020-06-10",
-          "deaths": 704,
+          "deaths": 711,
           "recovered": 0
         }
       },
