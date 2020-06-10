@@ -571,7 +571,7 @@ var covid19_dataset_country_omn = {
       3451,
       3793,
       4152,
-      4329
+      5640
     ]
   }
 };
