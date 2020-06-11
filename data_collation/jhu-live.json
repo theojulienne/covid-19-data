@@ -311,10 +311,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33028,
+          "confirmed": 33032,
           "date": "2020-06-11",
           "deaths": 2554,
-          "recovered": 26052
+          "recovered": 26056
         }
       },
       "Quebec": {
@@ -421,10 +421,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 38284,
+      "confirmed": 39726,
       "date": "2020-06-11",
-      "deaths": 1342,
-      "recovered": 10289
+      "deaths": 1377,
+      "recovered": 10691
     }
   },
   "Finland": {
@@ -437,10 +437,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 187930,
+      "confirmed": 188354,
       "date": "2020-06-11",
-      "deaths": 29260,
-      "recovered": 69027
+      "deaths": 29287,
+      "recovered": 69344
     }
   },
   "Germany": {
@@ -463,10 +463,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 7138,
+          "confirmed": 7164,
           "date": "2020-06-11",
           "deaths": 208,
-          "recovered": 6559
+          "recovered": 6582
         }
       },
       "Hamburg": {
@@ -989,14 +989,6 @@
           "recovered": 0
         }
       },
-      "Ica": {
-        "live": {
-          "confirmed": 4713,
-          "date": "2020-06-11",
-          "deaths": 306,
-          "recovered": 0
-        }
-      },
       "La Libertad": {
         "live": {
           "confirmed": 6311,
@@ -1089,14 +1081,6 @@
   },
   "Russia": {
     "subseries": {
-      "Bryansk Oblast": {
-        "live": {
-          "confirmed": 4732,
-          "date": "2020-06-11",
-          "deaths": 32,
-          "recovered": 3316
-        }
-      },
       "Dagestan Republic": {
         "live": {
           "confirmed": 6272,
@@ -1111,14 +1095,6 @@
           "date": "2020-06-11",
           "deaths": 37,
           "recovered": 2392
-        }
-      },
-      "Krasnodar Krai": {
-        "live": {
-          "confirmed": 4735,
-          "date": "2020-06-11",
-          "deaths": 47,
-          "recovered": 3554
         }
       },
       "Krasnoyarsk Krai": {
@@ -1415,9 +1391,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 9797,
+          "confirmed": 10011,
           "date": "2020-06-11",
-          "deaths": 415,
+          "deaths": 423,
           "recovered": 0
         }
       },
@@ -1471,9 +1447,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39832,
+          "confirmed": 39918,
           "date": "2020-06-11",
-          "deaths": 4587,
+          "deaths": 4604,
           "recovered": 0
         }
       },
@@ -1511,9 +1487,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 153398,
+          "confirmed": 148677,
           "date": "2020-06-11",
-          "deaths": 11554,
+          "deaths": 11122,
           "recovered": 0
         }
       },
@@ -1535,9 +1511,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 11752,
+          "confirmed": 11901,
           "date": "2020-06-11",
-          "deaths": 611,
+          "deaths": 623,
           "recovered": 0
         }
       },
@@ -1583,9 +1559,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 6591,
+          "confirmed": 6776,
           "date": "2020-06-11",
-          "deaths": 85,
+          "deaths": 87,
           "recovered": 0
         }
       },
@@ -1607,9 +1583,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 9096,
+          "confirmed": 9220,
           "date": "2020-06-11",
-          "deaths": 336,
+          "deaths": 346,
           "recovered": 0
         }
       }
@@ -1624,11 +1600,47 @@
     }
   },
   "United Kingdom": {
-    "live": {
-      "confirmed": 291409,
-      "date": "2020-06-11",
-      "deaths": 41279,
-      "recovered": 0
+    "subseries": {
+      "England": {
+        "live": {
+          "confirmed": 156018,
+          "date": "2020-06-11",
+          "deaths": 36883,
+          "recovered": 0
+        }
+      },
+      "Northern Ireland": {
+        "live": {
+          "confirmed": 4822,
+          "date": "2020-06-11",
+          "deaths": 537,
+          "recovered": 0
+        }
+      },
+      "Scotland": {
+        "live": {
+          "confirmed": 15682,
+          "date": "2020-06-11",
+          "deaths": 2434,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "live": {
+          "confirmed": 100306,
+          "date": "2020-06-11",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Wales": {
+        "live": {
+          "confirmed": 14581,
+          "date": "2020-06-11",
+          "deaths": 1425,
+          "recovered": 0
+        }
+      }
     }
   },
   "Uzbekistan": {
