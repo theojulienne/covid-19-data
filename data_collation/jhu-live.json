@@ -118,7 +118,7 @@
           "confirmed": 52849,
           "date": "2020-06-11",
           "deaths": 2363,
-          "recovered": 39586
+          "recovered": 42586
         }
       },
       "Bahia": {
@@ -254,7 +254,7 @@
           "confirmed": 6347,
           "date": "2020-06-11",
           "deaths": 182,
-          "recovered": 1569
+          "recovered": 1579
         }
       },
       "Santa Catarina": {
@@ -537,10 +537,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 6935,
+      "confirmed": 7360,
       "date": "2020-06-11",
-      "deaths": 271,
-      "recovered": 787
+      "deaths": 290,
+      "recovered": 809
     }
   },
   "India": {
@@ -1439,7 +1439,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 4900,
+          "confirmed": 4906,
           "date": "2020-06-11",
           "deaths": 150,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 34930,
+          "confirmed": 35096,
           "date": "2020-06-11",
-          "deaths": 725,
+          "deaths": 730,
           "recovered": 0
         }
       },
