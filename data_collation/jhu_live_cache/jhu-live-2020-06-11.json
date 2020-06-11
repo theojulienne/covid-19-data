@@ -389,10 +389,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9826,
+      "confirmed": 9855,
       "date": "2020-06-11",
       "deaths": 328,
-      "recovered": 7124
+      "recovered": 7166
     }
   },
   "Denmark": {
@@ -1199,7 +1199,7 @@
     "live": {
       "confirmed": 58568,
       "date": "2020-06-11",
-      "deaths": 1210,
+      "deaths": 1284,
       "recovered": 33252
     }
   },
@@ -1399,9 +1399,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 113685,
+          "confirmed": 114266,
           "date": "2020-06-11",
-          "deaths": 5346,
+          "deaths": 5423,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 12394,
+          "confirmed": 12655,
           "date": "2020-06-11",
-          "deaths": 215,
+          "deaths": 216,
           "recovered": 0
         }
       },
