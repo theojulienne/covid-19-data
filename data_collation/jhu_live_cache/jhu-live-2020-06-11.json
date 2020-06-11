@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 14644,
+      "confirmed": 15281,
       "date": "2020-06-11",
-      "deaths": 487,
-      "recovered": 2190
+      "deaths": 512,
+      "recovered": 2261
     }
   },
   "Brazil": {
@@ -999,9 +999,9 @@
       },
       "La Libertad": {
         "live": {
-          "confirmed": 5916,
-          "date": "2020-06-09",
-          "deaths": 252,
+          "confirmed": 6311,
+          "date": "2020-06-11",
+          "deaths": 273,
           "recovered": 0
         }
       },
@@ -1031,9 +1031,9 @@
       },
       "Piura": {
         "live": {
-          "confirmed": 10886,
-          "date": "2020-06-09",
-          "deaths": 573,
+          "confirmed": 11520,
+          "date": "2020-06-11",
+          "deaths": 593,
           "recovered": 0
         }
       },
@@ -1375,9 +1375,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 99753,
+          "confirmed": 100189,
           "date": "2020-06-11",
-          "deaths": 3857,
+          "deaths": 3868,
           "recovered": 0
         }
       },

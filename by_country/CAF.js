@@ -285,7 +285,8 @@ var covid19_dataset_country_caf = {
       1570,
       1634,
       1850,
-      1850
+      1850,
+      1888
     ],
     "deaths": [
       0,
@@ -424,6 +425,7 @@ var covid19_dataset_country_caf = {
       4,
       4,
       4,
+      5,
       5,
       5,
       5,
@@ -567,6 +569,7 @@ var covid19_dataset_country_caf = {
       23,
       29,
       37,
+      38,
       38,
       38,
       38
