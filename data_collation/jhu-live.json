@@ -669,10 +669,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 15414,
+      "confirmed": 16675,
       "date": "2020-06-11",
-      "deaths": 426,
-      "recovered": 6214
+      "deaths": 457,
+      "recovered": 6568
     }
   },
   "Ireland": {
@@ -1216,7 +1216,7 @@
       "confirmed": 39387,
       "date": "2020-06-11",
       "deaths": 25,
-      "recovered": 26532
+      "recovered": 27286
     }
   },
   "South Africa": {
