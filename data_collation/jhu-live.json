@@ -134,7 +134,7 @@
           "confirmed": 71402,
           "date": "2020-06-11",
           "deaths": 4480,
-          "recovered": 50537
+          "recovered": 52351
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 19433,
           "date": "2020-06-11",
           "deaths": 256,
-          "recovered": 10403
+          "recovered": 11092
         }
       },
       "Espirito Santo": {
@@ -174,7 +174,7 @@
           "confirmed": 17501,
           "date": "2020-06-11",
           "deaths": 409,
-          "recovered": 7816
+          "recovered": 8307
         }
       },
       "Para": {
@@ -182,7 +182,7 @@
           "confirmed": 62095,
           "date": "2020-06-11",
           "deaths": 3927,
-          "recovered": 49651
+          "recovered": 51652
         }
       },
       "Paraiba": {
@@ -286,7 +286,7 @@
           "confirmed": 6257,
           "date": "2020-06-11",
           "deaths": 120,
-          "recovered": 2986
+          "recovered": 3410
         }
       }
     }
@@ -314,7 +314,7 @@
           "confirmed": 32959,
           "date": "2020-06-11",
           "deaths": 2552,
-          "recovered": 25956
+          "recovered": 25958
         }
       },
       "Quebec": {
@@ -331,17 +331,17 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 119746,
+          "confirmed": 124135,
           "date": "2020-06-11",
-          "deaths": 2115,
+          "deaths": 2273,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 5614,
+          "confirmed": 5865,
           "date": "2020-06-11",
-          "deaths": 99,
+          "deaths": 107,
           "recovered": 0
         }
       }
@@ -677,9 +677,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25231,
+      "confirmed": 25238,
       "date": "2020-06-11",
-      "deaths": 1695,
+      "deaths": 1703,
       "recovered": 22698
     }
   },
@@ -784,7 +784,7 @@
       "confirmed": 13558,
       "date": "2020-06-11",
       "deaths": 67,
-      "recovered": 8531
+      "recovered": 8593
     }
   },
   "Korea, South": {
@@ -1344,7 +1344,7 @@
       "confirmed": 31044,
       "date": "2020-06-11",
       "deaths": 1937,
-      "recovered": 28700
+      "recovered": 28800
     }
   },
   "Tajikistan": {
@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 354789,
           "date": "2020-06-11",
-          "deaths": 29159,
+          "deaths": 29192,
           "recovered": 0
         }
       },
