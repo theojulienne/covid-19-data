@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 8221,
+      "confirmed": 8561,
       "date": "2020-06-12",
-      "deaths": 316,
-      "recovered": 1504
+      "deaths": 334,
+      "recovered": 1567
     }
   },
   "Honduras": {
@@ -797,10 +797,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 11947,
+      "confirmed": 12003,
       "date": "2020-06-12",
-      "deaths": 276,
-      "recovered": 10654
+      "deaths": 277,
+      "recovered": 10669
     }
   },
   "Kuwait": {
@@ -931,42 +931,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 7335,
+          "confirmed": 7673,
           "date": "2020-06-12",
-          "deaths": 73,
-          "recovered": 2592
+          "deaths": 75,
+          "recovered": 2673
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 6236,
+          "confirmed": 6699,
           "date": "2020-06-12",
-          "deaths": 62,
+          "deaths": 65,
           "recovered": 1164
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 15206,
+          "confirmed": 15787,
           "date": "2020-06-12",
-          "deaths": 619,
-          "recovered": 3771
+          "deaths": 632,
+          "recovered": 3907
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 45463,
+          "confirmed": 47382,
           "date": "2020-06-12",
-          "deaths": 841,
-          "recovered": 9005
+          "deaths": 890,
+          "recovered": 9546
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 43790,
+          "confirmed": 46828,
           "date": "2020-06-12",
-          "deaths": 738,
-          "recovered": 21007
+          "deaths": 776,
+          "recovered": 22047
         }
       }
     }
@@ -1479,9 +1479,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 5245,
+          "confirmed": 5403,
           "date": "2020-06-12",
-          "deaths": 43,
+          "deaths": 58,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 13459,
+          "confirmed": 13538,
           "date": "2020-06-12",
-          "deaths": 690,
+          "deaths": 695,
           "recovered": 0
         }
       },
