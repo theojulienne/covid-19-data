@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 8882,
+      "confirmed": 9218,
       "date": "2020-06-12",
-      "deaths": 108,
-      "recovered": 4930
+      "deaths": 113,
+      "recovered": 5116
     }
   },
   "Bahrain": {
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33176,
+          "confirmed": 33182,
           "date": "2020-06-12",
           "deaths": 2563,
-          "recovered": 26358
+          "recovered": 26359
         }
       },
       "Quebec": {
@@ -881,9 +881,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 10727,
+      "confirmed": 11093,
       "date": "2020-06-12",
-      "deaths": 382,
+      "deaths": 385,
       "recovered": 6229
     }
   },
@@ -921,7 +921,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8608,
+      "confirmed": 8613,
       "date": "2020-06-12",
       "deaths": 242,
       "recovered": 8138
@@ -1347,6 +1347,14 @@
       "recovered": 28800
     }
   },
+  "Tajikistan": {
+    "live": {
+      "confirmed": 4902,
+      "date": "2020-06-12",
+      "deaths": 49,
+      "recovered": 3158
+    }
+  },
   "Turkey": {
     "live": {
       "confirmed": 174023,
@@ -1391,17 +1399,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 9589,
+          "confirmed": 9654,
           "date": "2020-06-12",
-          "deaths": 502,
+          "deaths": 506,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 36772,
+          "confirmed": 37670,
           "date": "2020-06-12",
-          "deaths": 1556,
+          "deaths": 1575,
           "recovered": 0
         }
       },
@@ -1447,9 +1455,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 43710,
+          "confirmed": 44000,
           "date": "2020-06-12",
-          "deaths": 1992,
+          "deaths": 2014,
           "recovered": 0
         }
       },
@@ -1481,7 +1489,7 @@
         "live": {
           "confirmed": 5217,
           "date": "2020-06-12",
-          "deaths": 496,
+          "deaths": 499,
           "recovered": 0
         }
       },
@@ -1649,14 +1657,6 @@
           "recovered": 0
         }
       }
-    }
-  },
-  "Uzbekistan": {
-    "live": {
-      "confirmed": 4837,
-      "date": "2020-06-12",
-      "deaths": 19,
-      "recovered": 3700
     }
   }
 }
