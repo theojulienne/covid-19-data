@@ -458,20 +458,20 @@
           "confirmed": 35059,
           "date": "2020-06-12",
           "deaths": 1802,
-          "recovered": 32800
+          "recovered": 32717
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 47574,
+          "confirmed": 47536,
           "date": "2020-06-12",
-          "deaths": 2538,
-          "recovered": 44100
+          "deaths": 2536,
+          "recovered": 44000
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7165,
+          "confirmed": 7164,
           "date": "2020-06-12",
           "deaths": 208,
           "recovered": 6582
@@ -479,7 +479,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5134,
+          "confirmed": 5133,
           "date": "2020-06-12",
           "deaths": 254,
           "recovered": 4800
@@ -487,15 +487,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10313,
+          "confirmed": 10296,
           "date": "2020-06-12",
           "deaths": 489,
-          "recovered": 9500
+          "recovered": 9400
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 12777,
+          "confirmed": 12730,
           "date": "2020-06-12",
           "deaths": 612,
           "recovered": 11200
@@ -503,15 +503,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 39060,
+          "confirmed": 38983,
           "date": "2020-06-12",
-          "deaths": 1643,
-          "recovered": 36000
+          "deaths": 1641,
+          "recovered": 35737
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6827,
+          "confirmed": 6819,
           "date": "2020-06-12",
           "deaths": 231,
           "recovered": 6407
@@ -1068,7 +1068,7 @@
       "confirmed": 28201,
       "date": "2020-06-12",
       "deaths": 1215,
-      "recovered": 13696
+      "recovered": 13805
     }
   },
   "Portugal": {
@@ -1097,84 +1097,92 @@
   },
   "Russia": {
     "subseries": {
+      "Bryansk Oblast": {
+        "live": {
+          "confirmed": 4825,
+          "date": "2020-06-12",
+          "deaths": 32,
+          "recovered": 3431
+        }
+      },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 6272,
+          "confirmed": 6367,
           "date": "2020-06-12",
           "deaths": 309,
-          "recovered": 4662
+          "recovered": 4688
         }
       },
       "Kaluga Oblast": {
         "live": {
-          "confirmed": 4829,
+          "confirmed": 4923,
           "date": "2020-06-12",
-          "deaths": 37,
-          "recovered": 2392
+          "deaths": 39,
+          "recovered": 2444
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 5981,
+          "confirmed": 6159,
           "date": "2020-06-12",
-          "deaths": 59,
-          "recovered": 2068
+          "deaths": 64,
+          "recovered": 2129
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 201221,
+          "confirmed": 202935,
           "date": "2020-06-12",
-          "deaths": 3138,
-          "recovered": 115769
+          "deaths": 3187,
+          "recovered": 118024
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 47181,
+          "confirmed": 47911,
           "date": "2020-06-12",
-          "deaths": 644,
-          "recovered": 14187
+          "deaths": 666,
+          "recovered": 14955
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 13341,
+          "confirmed": 13562,
           "date": "2020-06-12",
-          "deaths": 152,
-          "recovered": 6219
+          "deaths": 159,
+          "recovered": 6580
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 6954,
+          "confirmed": 7152,
           "date": "2020-06-12",
-          "deaths": 59,
-          "recovered": 2702
+          "deaths": 64,
+          "recovered": 2831
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 19769,
+          "confirmed": 20043,
           "date": "2020-06-12",
-          "deaths": 520,
-          "recovered": 8864
+          "deaths": 561,
+          "recovered": 9276
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 8506,
+          "confirmed": 8826,
           "date": "2020-06-12",
           "deaths": 48,
-          "recovered": 3790
+          "recovered": 3912
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 5047,
+          "confirmed": 5147,
           "date": "2020-06-12",
-          "deaths": 53,
-          "recovered": 2961
+          "deaths": 56,
+          "recovered": 3170
         }
       }
     }
@@ -1197,7 +1205,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 39387,
+      "confirmed": 39850,
       "date": "2020-06-12",
       "deaths": 25,
       "recovered": 27286
@@ -1614,14 +1622,6 @@
           "confirmed": 156018,
           "date": "2020-06-12",
           "deaths": 36883,
-          "recovered": 0
-        }
-      },
-      "Northern Ireland": {
-        "live": {
-          "confirmed": 4822,
-          "date": "2020-06-12",
-          "deaths": 537,
           "recovered": 0
         }
       },
