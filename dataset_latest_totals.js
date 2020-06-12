@@ -70,36 +70,36 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 36359,
-        "deaths": 270,
-        "recovered": 19153
+        "confirmed": 37018,
+        "deaths": 273,
+        "recovered": 19572
       },
       "back_2week": {
-        "confirmed": 31969,
-        "deaths": 255,
-        "recovered": 16371
+        "confirmed": 32532,
+        "deaths": 258,
+        "recovered": 16685
       },
       "latest": {
-        "confirmed": 40507,
-        "deaths": 284,
-        "recovered": 24017
+        "confirmed": 40986,
+        "deaths": 286,
+        "recovered": 25234
       }
     },
     "ARG": {
       "back_1week": {
         "confirmed": 19268,
-        "deaths": 583,
-        "recovered": 5896
+        "deaths": 608,
+        "recovered": 5993
       },
       "back_2week": {
         "confirmed": 13933,
-        "deaths": 500,
-        "recovered": 4349
+        "deaths": 508,
+        "recovered": 4617
       },
       "latest": {
         "confirmed": 25987,
-        "deaths": 735,
-        "recovered": 7991
+        "deaths": 765,
+        "recovered": 8332
       }
     },
     "ARM": {
@@ -572,17 +572,17 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "back_1week": {
         "confirmed": 95269,
-        "deaths": 7579,
+        "deaths": 7717,
         "recovered": 51506
       },
       "back_2week": {
         "confirmed": 89976,
-        "deaths": 6876,
+        "deaths": 6982,
         "recovered": 46248
       },
       "latest": {
         "confirmed": 99159,
-        "deaths": 8038,
+        "deaths": 8071,
         "recovered": 57215
       },
       "states": {
@@ -631,8 +631,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 53341,
-          "deaths": 5081
+          "confirmed": 53485,
+          "deaths": 5105
         },
         "Saskatchewan": {
           "confirmed": 658,
@@ -1131,19 +1131,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 18040,
-        "deaths": 516,
-        "recovered": 11224
+        "confirmed": 18319,
+        "deaths": 520,
+        "recovered": 11474
       },
       "back_2week": {
-        "confirmed": 15723,
-        "deaths": 474,
-        "recovered": 8790
+        "confirmed": 16068,
+        "deaths": 485,
+        "recovered": 8952
       },
       "latest": {
-        "confirmed": 20808,
-        "deaths": 550,
-        "recovered": 12318
+        "confirmed": 21437,
+        "deaths": 561,
+        "recovered": 12541
       }
     },
     "DZA": {
@@ -1738,8 +1738,8 @@ var covid19_dataset_latest_totals = {
         "recovered": 67749
       },
       "latest": {
-        "confirmed": 276583,
-        "deaths": 7745,
+        "confirmed": 286605,
+        "deaths": 8498,
         "recovered": 135206
       }
     },
@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 8168,
-        "deaths": 256,
-        "recovered": 4095
+        "confirmed": 8840,
+        "deaths": 271,
+        "recovered": 4338
       },
       "back_2week": {
-        "confirmed": 5135,
-        "deaths": 175,
-        "recovered": 2904
+        "confirmed": 5457,
+        "deaths": 179,
+        "recovered": 2971
       },
       "latest": {
-        "confirmed": 15414,
-        "deaths": 426,
-        "recovered": 6214
+        "confirmed": 16675,
+        "deaths": 457,
+        "recovered": 6568
       }
     },
     "ISL": {
@@ -2917,17 +2917,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 36922,
         "deaths": 24,
-        "recovered": 23582
+        "recovered": 23904
       },
       "back_2week": {
         "confirmed": 33249,
         "deaths": 23,
-        "recovered": 17276
+        "recovered": 18294
       },
       "latest": {
         "confirmed": 39387,
         "deaths": 25,
-        "recovered": 26532
+        "recovered": 27286
       }
     },
     "SLE": {
