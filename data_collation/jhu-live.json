@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 25987,
+      "confirmed": 27373,
       "date": "2020-06-11",
-      "deaths": 741,
+      "deaths": 765,
       "recovered": 8332
     }
   },
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33039,
+          "confirmed": 33059,
           "date": "2020-06-11",
           "deaths": 2554,
-          "recovered": 26085
+          "recovered": 26110
         }
       },
       "Quebec": {
@@ -897,10 +897,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 13873,
+      "confirmed": 14554,
       "date": "2020-06-11",
-      "deaths": 382,
-      "recovered": 4351
+      "deaths": 387,
+      "recovered": 4494
     }
   },
   "Norway": {
@@ -1359,9 +1359,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 100664,
+          "confirmed": 102428,
           "date": "2020-06-11",
-          "deaths": 3879,
+          "deaths": 3924,
           "recovered": 0
         }
       },
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 354789,
           "date": "2020-06-11",
-          "deaths": 29192,
+          "deaths": 29197,
           "recovered": 0
         }
       },
