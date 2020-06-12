@@ -405,10 +405,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 12035,
+      "confirmed": 12099,
       "date": "2020-06-12",
-      "deaths": 593,
-      "recovered": 10955
+      "deaths": 594,
+      "recovered": 10993
     }
   },
   "Dominican Republic": {
@@ -463,7 +463,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47574,
+          "confirmed": 47580,
           "date": "2020-06-12",
           "deaths": 2538,
           "recovered": 44100
@@ -791,8 +791,8 @@
     "live": {
       "confirmed": 13872,
       "date": "2020-06-12",
-      "deaths": 67,
-      "recovered": 8593
+      "deaths": 68,
+      "recovered": 8668
     }
   },
   "Korea, South": {
@@ -905,9 +905,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 48251,
+      "confirmed": 48461,
       "date": "2020-06-12",
-      "deaths": 6044,
+      "deaths": 6053,
       "recovered": 0
     }
   },
@@ -1081,10 +1081,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 35910,
+      "confirmed": 36180,
       "date": "2020-06-12",
-      "deaths": 1504,
-      "recovered": 22002
+      "deaths": 1505,
+      "recovered": 22200
     }
   },
   "Qatar": {
@@ -1323,17 +1323,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 15425,
+          "confirmed": 15673,
           "date": "2020-06-12",
-          "deaths": 2184,
+          "deaths": 2185,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 9255,
+          "confirmed": 9752,
           "date": "2020-06-12",
-          "deaths": 632,
+          "deaths": 647,
           "recovered": 0
         }
       }
@@ -1345,14 +1345,6 @@
       "date": "2020-06-12",
       "deaths": 1938,
       "recovered": 28800
-    }
-  },
-  "Tajikistan": {
-    "live": {
-      "confirmed": 4834,
-      "date": "2020-06-12",
-      "deaths": 49,
-      "recovered": 3062
     }
   },
   "Turkey": {
@@ -1657,6 +1649,14 @@
           "recovered": 0
         }
       }
+    }
+  },
+  "Uzbekistan": {
+    "live": {
+      "confirmed": 4837,
+      "date": "2020-06-12",
+      "deaths": 19,
+      "recovered": 3700
     }
   }
 }
