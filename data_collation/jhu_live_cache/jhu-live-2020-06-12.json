@@ -545,10 +545,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 7360,
+      "confirmed": 7669,
       "date": "2020-06-12",
-      "deaths": 290,
-      "recovered": 809
+      "deaths": 294,
+      "recovered": 837
     }
   },
   "India": {
@@ -1297,10 +1297,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 6582,
+      "confirmed": 6730,
       "date": "2020-06-12",
-      "deaths": 401,
-      "recovered": 2202
+      "deaths": 413,
+      "recovered": 2278
     }
   },
   "Sweden": {
@@ -1359,9 +1359,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 102428,
+          "confirmed": 102926,
           "date": "2020-06-12",
-          "deaths": 3924,
+          "deaths": 3932,
           "recovered": 0
         }
       },
