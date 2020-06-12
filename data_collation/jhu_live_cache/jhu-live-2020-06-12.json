@@ -110,7 +110,7 @@
           "confirmed": 15166,
           "date": "2020-06-12",
           "deaths": 303,
-          "recovered": 7095
+          "recovered": 7253
         }
       },
       "Amazonas": {
@@ -126,7 +126,7 @@
           "confirmed": 33891,
           "date": "2020-06-12",
           "deaths": 1013,
-          "recovered": 14610
+          "recovered": 14976
         }
       },
       "Ceara": {
@@ -134,7 +134,7 @@
           "confirmed": 73879,
           "date": "2020-06-12",
           "deaths": 4663,
-          "recovered": 53808
+          "recovered": 54414
         }
       },
       "Distrito Federal": {
@@ -150,7 +150,7 @@
           "confirmed": 24229,
           "date": "2020-06-12",
           "deaths": 962,
-          "recovered": 13277
+          "recovered": 13921
         }
       },
       "Goias": {
@@ -206,7 +206,7 @@
           "confirmed": 8457,
           "date": "2020-06-12",
           "deaths": 280,
-          "recovered": 2887
+          "recovered": 3044
         }
       },
       "Pernambuco": {
@@ -238,7 +238,7 @@
           "confirmed": 14168,
           "date": "2020-06-12",
           "deaths": 323,
-          "recovered": 11277
+          "recovered": 11592
         }
       },
       "Rio de Janeiro": {
@@ -246,7 +246,7 @@
           "confirmed": 75775,
           "date": "2020-06-12",
           "deaths": 7363,
-          "recovered": 60005
+          "recovered": 61690
         }
       },
       "Rondonia": {
@@ -294,7 +294,7 @@
           "confirmed": 6529,
           "date": "2020-06-12",
           "deaths": 124,
-          "recovered": 3410
+          "recovered": 3543
         }
       }
     }
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33252,
+          "confirmed": 33350,
           "date": "2020-06-12",
-          "deaths": 2564,
-          "recovered": 26486
+          "deaths": 2572,
+          "recovered": 26679
         }
       },
       "Quebec": {
@@ -1367,9 +1367,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 102926,
+          "confirmed": 103326,
           "date": "2020-06-12",
-          "deaths": 3932,
+          "deaths": 3942,
           "recovered": 0
         }
       },
@@ -1455,9 +1455,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 100998,
+          "confirmed": 101386,
           "date": "2020-06-12",
-          "deaths": 7164,
+          "deaths": 7205,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 12655,
+          "confirmed": 12830,
           "date": "2020-06-12",
-          "deaths": 216,
+          "deaths": 235,
           "recovered": 0
         }
       },
