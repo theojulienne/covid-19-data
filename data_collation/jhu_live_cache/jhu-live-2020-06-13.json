@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 28764,
       "date": "2020-06-13",
-      "deaths": 785,
-      "recovered": 8743
+      "deaths": 802,
+      "recovered": 9083
     }
   },
   "Armenia": {
@@ -495,9 +495,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 12822,
+          "confirmed": 12834,
           "date": "2020-06-13",
-          "deaths": 613,
+          "deaths": 616,
           "recovered": 11300
         }
       },
@@ -913,7 +913,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8620,
+      "confirmed": 8625,
       "date": "2020-06-13",
       "deaths": 242,
       "recovered": 8138
@@ -1065,10 +1065,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 36180,
+      "confirmed": 36463,
       "date": "2020-06-13",
-      "deaths": 1505,
-      "recovered": 22200
+      "deaths": 1512,
+      "recovered": 22438
     }
   },
   "Qatar": {
@@ -1181,10 +1181,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 119942,
+      "confirmed": 123308,
       "date": "2020-06-13",
-      "deaths": 893,
-      "recovered": 81029
+      "deaths": 932,
+      "recovered": 82548
     }
   },
   "Senegal": {
@@ -1197,10 +1197,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 12175,
+      "confirmed": 12251,
       "date": "2020-06-13",
-      "deaths": 252,
-      "recovered": 11411
+      "deaths": 253,
+      "recovered": 11465
     }
   },
   "Singapore": {
@@ -1341,10 +1341,10 @@
   },
   "Tajikistan": {
     "live": {
-      "confirmed": 4902,
+      "confirmed": 4971,
       "date": "2020-06-13",
-      "deaths": 49,
-      "recovered": 3158
+      "deaths": 50,
+      "recovered": 3288
     }
   },
   "Turkey": {
@@ -1367,9 +1367,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 105146,
+          "confirmed": 105283,
           "date": "2020-06-13",
-          "deaths": 3964,
+          "deaths": 3969,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 5536,
+          "confirmed": 5690,
           "date": "2020-06-13",
           "deaths": 146,
           "recovered": 0
