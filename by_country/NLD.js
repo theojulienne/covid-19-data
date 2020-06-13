@@ -144,6 +144,7 @@ var covid19_dataset_country_nld = {
           101,
           101,
           101,
+          101,
           101
         ],
         "deaths": [
@@ -253,6 +254,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3,
           3,
@@ -432,6 +434,7 @@ var covid19_dataset_country_nld = {
           98,
           98,
           98,
+          98,
           98
         ]
       }
@@ -580,9 +583,11 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -868,6 +873,7 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ]
       }
@@ -1016,6 +1022,7 @@ var covid19_dataset_country_nld = {
           21,
           21,
           22,
+          22,
           22
         ],
         "deaths": [
@@ -1076,6 +1083,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -1304,6 +1312,7 @@ var covid19_dataset_country_nld = {
           15,
           15,
           15,
+          15,
           15
         ]
       }
@@ -1452,6 +1461,7 @@ var covid19_dataset_country_nld = {
           77,
           77,
           77,
+          77,
           77
         ],
         "deaths": [
@@ -1563,6 +1573,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          15,
           15,
           15,
           15,
@@ -1734,6 +1745,7 @@ var covid19_dataset_country_nld = {
           60,
           60,
           60,
+          61,
           61,
           61,
           61,
@@ -2035,7 +2047,8 @@ var covid19_dataset_country_nld = {
       47739,
       47903,
       48087,
-      48251
+      48251,
+      48461
     ],
     "deaths": [
       0,
@@ -2179,9 +2192,11 @@ var covid19_dataset_country_nld = {
       6016,
       6031,
       6042,
-      6044
+      6044,
+      6053
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
