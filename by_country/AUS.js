@@ -5936,7 +5936,7 @@ var covid19_dataset_country_aus = {
             195,
             195,
             195,
-            195
+            196
           ],
           "International (managed by Cairns HHS)": [
             0,
@@ -6666,7 +6666,7 @@ var covid19_dataset_country_aus = {
             264,
             264,
             264,
-            264
+            266
           ],
           "North West": [
             0,
@@ -7396,7 +7396,7 @@ var covid19_dataset_country_aus = {
             94,
             94,
             94,
-            94
+            95
           ],
           "TBC": [
             0,
@@ -8126,7 +8126,7 @@ var covid19_dataset_country_aus = {
             24,
             24,
             24,
-            24
+            25
           ]
         }
       },
@@ -8175,7 +8175,7 @@ var covid19_dataset_country_aus = {
           9,
           10,
           11,
-          13,
+          11,
           14,
           14,
           15,
@@ -13883,7 +13883,7 @@ var covid19_dataset_country_aus = {
       23,
       26,
       31,
-      34,
+      32,
       36,
       69,
       77,
