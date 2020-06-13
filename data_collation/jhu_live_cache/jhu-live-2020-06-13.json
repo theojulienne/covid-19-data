@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 15281,
+      "confirmed": 16004,
       "date": "2020-06-13",
-      "deaths": 258,
-      "recovered": 5639
+      "deaths": 264,
+      "recovered": 6081
     }
   },
   "Austria": {
@@ -463,15 +463,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47580,
+          "confirmed": 47612,
           "date": "2020-06-13",
-          "deaths": 2538,
-          "recovered": 44100
+          "deaths": 2540,
+          "recovered": 44200
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7251,
+          "confirmed": 7252,
           "date": "2020-06-13",
           "deaths": 208,
           "recovered": 6582
@@ -479,39 +479,39 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5134,
+          "confirmed": 5139,
           "date": "2020-06-13",
-          "deaths": 254,
+          "deaths": 255,
           "recovered": 4800
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 10313,
+          "confirmed": 10321,
           "date": "2020-06-13",
-          "deaths": 489,
+          "deaths": 491,
           "recovered": 9500
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 12777,
+          "confirmed": 12822,
           "date": "2020-06-13",
           "deaths": 613,
-          "recovered": 11200
+          "recovered": 11300
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 39060,
+          "confirmed": 39137,
           "date": "2020-06-13",
           "deaths": 1643,
-          "recovered": 36000
+          "recovered": 36100
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6827,
+          "confirmed": 6838,
           "date": "2020-06-13",
           "deaths": 231,
           "recovered": 6417
@@ -529,10 +529,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 10856,
+      "confirmed": 11118,
       "date": "2020-06-13",
       "deaths": 48,
-      "recovered": 3921
+      "recovered": 3979
     }
   },
   "Guatemala": {
