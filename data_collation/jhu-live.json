@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33434,
+          "confirmed": 33513,
           "date": "2020-06-13",
-          "deaths": 2574,
-          "recovered": 26727
+          "deaths": 2577,
+          "recovered": 26882
         }
       },
       "Quebec": {
@@ -371,26 +371,26 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 7931,
+          "confirmed": 8597,
           "date": "2020-06-13",
-          "deaths": 330,
-          "recovered": 2390
+          "deaths": 356,
+          "recovered": 2596
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 14537,
+          "confirmed": 14940,
           "date": "2020-06-13",
-          "deaths": 362,
-          "recovered": 6155
+          "deaths": 382,
+          "recovered": 6429
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 5258,
+          "confirmed": 5443,
           "date": "2020-06-13",
-          "deaths": 245,
-          "recovered": 1891
+          "deaths": 250,
+          "recovered": 2032
         }
       }
     }
@@ -693,10 +693,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 18876,
+      "confirmed": 18972,
       "date": "2020-06-13",
       "deaths": 300,
-      "recovered": 15319
+      "recovered": 15357
     }
   },
   "Italy": {
@@ -1463,9 +1463,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39962,
+          "confirmed": 40044,
           "date": "2020-06-13",
-          "deaths": 4607,
+          "deaths": 4625,
           "recovered": 0
         }
       },
@@ -1535,7 +1535,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 44380,
+          "confirmed": 44490,
           "date": "2020-06-13",
           "deaths": 3423,
           "recovered": 0
