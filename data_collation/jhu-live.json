@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 27373,
+      "confirmed": 28764,
       "date": "2020-06-12",
-      "deaths": 772,
+      "deaths": 785,
       "recovered": 8743
     }
   },
@@ -102,7 +102,7 @@
           "confirmed": 20031,
           "date": "2020-06-12",
           "deaths": 701,
-          "recovered": 12177
+          "recovered": 13094
         }
       },
       "Amapa": {
@@ -118,7 +118,7 @@
           "confirmed": 55111,
           "date": "2020-06-12",
           "deaths": 2429,
-          "recovered": 43508
+          "recovered": 44447
         }
       },
       "Bahia": {
@@ -134,7 +134,7 @@
           "confirmed": 75705,
           "date": "2020-06-12",
           "deaths": 4788,
-          "recovered": 54414
+          "recovered": 53906
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 21396,
           "date": "2020-06-12",
           "deaths": 282,
-          "recovered": 11828
+          "recovered": 11825
         }
       },
       "Espirito Santo": {
@@ -166,7 +166,7 @@
           "confirmed": 57605,
           "date": "2020-06-12",
           "deaths": 1399,
-          "recovered": 29518
+          "recovered": 31569
         }
       },
       "Mato Grosso": {
@@ -254,7 +254,7 @@
           "confirmed": 11224,
           "date": "2020-06-12",
           "deaths": 296,
-          "recovered": 3573
+          "recovered": 3700
         }
       },
       "Roraima": {
@@ -262,7 +262,7 @@
           "confirmed": 6712,
           "date": "2020-06-12",
           "deaths": 192,
-          "recovered": 1752
+          "recovered": 1754
         }
       },
       "Santa Catarina": {
@@ -270,7 +270,7 @@
           "confirmed": 13165,
           "date": "2020-06-12",
           "deaths": 191,
-          "recovered": 8203
+          "recovered": 8919
         }
       },
       "Sao Paulo": {
@@ -311,10 +311,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7316,
+          "confirmed": 7346,
           "date": "2020-06-12",
           "deaths": 149,
-          "recovered": 6788
+          "recovered": 6811
         }
       },
       "Ontario": {
@@ -397,10 +397,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9909,
+      "confirmed": 9938,
       "date": "2020-06-12",
       "deaths": 329,
-      "recovered": 7214
+      "recovered": 7215
     }
   },
   "Denmark": {
@@ -905,10 +905,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 14554,
+      "confirmed": 15181,
       "date": "2020-06-12",
-      "deaths": 387,
-      "recovered": 4494
+      "deaths": 399,
+      "recovered": 4891
     }
   },
   "Norway": {
@@ -1305,10 +1305,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 6730,
+      "confirmed": 6879,
       "date": "2020-06-12",
-      "deaths": 413,
-      "recovered": 2278
+      "deaths": 433,
+      "recovered": 2416
     }
   },
   "Sweden": {
@@ -1361,7 +1361,7 @@
         "live": {
           "confirmed": 17010,
           "date": "2020-06-12",
-          "deaths": 532,
+          "deaths": 536,
           "recovered": 0
         }
       },
@@ -1513,7 +1513,7 @@
         "live": {
           "confirmed": 355473,
           "date": "2020-06-12",
-          "deaths": 29261,
+          "deaths": 29274,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 13538,
+          "confirmed": 13740,
           "date": "2020-06-12",
-          "deaths": 695,
+          "deaths": 700,
           "recovered": 0
         }
       },
