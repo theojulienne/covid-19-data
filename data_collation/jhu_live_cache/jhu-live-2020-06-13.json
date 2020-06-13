@@ -174,7 +174,7 @@
           "confirmed": 5363,
           "date": "2020-06-13",
           "deaths": 175,
-          "recovered": 1792
+          "recovered": 1912
         }
       },
       "Minas Gerais": {
@@ -222,7 +222,7 @@
           "confirmed": 9337,
           "date": "2020-06-13",
           "deaths": 317,
-          "recovered": 641
+          "recovered": 671
         }
       },
       "Rio Grande do Norte": {
@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 8561,
+      "confirmed": 8982,
       "date": "2020-06-13",
-      "deaths": 334,
-      "recovered": 1567
+      "deaths": 351,
+      "recovered": 1702
     }
   },
   "Honduras": {
@@ -789,10 +789,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12003,
+      "confirmed": 12051,
       "date": "2020-06-13",
       "deaths": 277,
-      "recovered": 10669
+      "recovered": 10691
     }
   },
   "Kuwait": {
