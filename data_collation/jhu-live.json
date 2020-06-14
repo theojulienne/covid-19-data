@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 59918,
+      "confirmed": 60029,
       "date": "2020-06-14",
-      "deaths": 9650,
-      "recovered": 16547
+      "deaths": 9655,
+      "recovered": 16589
     }
   },
   "Bolivia": {
@@ -479,7 +479,7 @@
       },
       "Hamburg": {
         "live": {
-          "confirmed": 5139,
+          "confirmed": 5143,
           "date": "2020-06-14",
           "deaths": 255,
           "recovered": 4800
@@ -514,7 +514,7 @@
           "confirmed": 6840,
           "date": "2020-06-14",
           "deaths": 231,
-          "recovered": 6437
+          "recovered": 6442
         }
       },
       "Sachsen": {
@@ -529,10 +529,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 11118,
+      "confirmed": 11422,
       "date": "2020-06-14",
-      "deaths": 48,
-      "recovered": 3979
+      "deaths": 51,
+      "recovered": 4156
     }
   },
   "Guatemala": {
@@ -889,10 +889,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 5335,
+      "confirmed": 5760,
       "date": "2020-06-14",
-      "deaths": 18,
-      "recovered": 913
+      "deaths": 19,
+      "recovered": 974
     }
   },
   "Netherlands": {
@@ -1197,10 +1197,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 4996,
+      "confirmed": 5090,
       "date": "2020-06-14",
       "deaths": 60,
-      "recovered": 3228
+      "recovered": 3344
     }
   },
   "Serbia": {
@@ -1341,7 +1341,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31094,
+      "confirmed": 31117,
       "date": "2020-06-14",
       "deaths": 1938,
       "recovered": 28800
@@ -1656,7 +1656,7 @@
       "confirmed": 4994,
       "date": "2020-06-14",
       "deaths": 19,
-      "recovered": 3874
+      "recovered": 3910
     }
   }
 }
