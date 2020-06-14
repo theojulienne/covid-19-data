@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 53241,
+      "confirmed": 53973,
       "date": "2020-06-14",
-      "deaths": 303,
-      "recovered": 29111
+      "deaths": 308,
+      "recovered": 30103
     }
   },
   "Belgium": {
@@ -405,10 +405,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 12139,
+      "confirmed": 12193,
       "date": "2020-06-14",
       "deaths": 597,
-      "recovered": 11035
+      "recovered": 11068
     }
   },
   "Dominican Republic": {
@@ -463,7 +463,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47626,
+          "confirmed": 47629,
           "date": "2020-06-14",
           "deaths": 2541,
           "recovered": 44200
@@ -897,9 +897,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 48640,
+      "confirmed": 48783,
       "date": "2020-06-14",
-      "deaths": 6057,
+      "deaths": 6059,
       "recovered": 0
     }
   },
@@ -1323,7 +1323,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 15844,
+          "confirmed": 15971,
           "date": "2020-06-14",
           "deaths": 2186,
           "recovered": 0
@@ -1331,7 +1331,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 10231,
+          "confirmed": 10609,
           "date": "2020-06-14",
           "deaths": 647,
           "recovered": 0
@@ -1653,7 +1653,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 4994,
+      "confirmed": 5051,
       "date": "2020-06-14",
       "deaths": 19,
       "recovered": 3910
