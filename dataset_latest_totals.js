@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 33625,
-          "deaths": 2573
+          "deaths": 2582
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -3374,22 +3374,22 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 1889553,
+        "confirmed": 1891261,
         "deaths": 103101,
         "recovered": 491466,
-        "tested": 19306925
+        "tested": 19317770
       },
       "back_2week": {
-        "confirmed": 1740551,
+        "confirmed": 1743033,
         "deaths": 97190,
         "recovered": 406228,
-        "tested": 16194307
+        "tested": 16228571
       },
       "latest": {
-        "confirmed": 2031708,
+        "confirmed": 2032376,
         "deaths": 108395,
         "recovered": 547135,
-        "tested": 22494747
+        "tested": 22507597
       },
       "states": {
         "AK": {
@@ -3543,11 +3543,11 @@ var covid19_dataset_latest_totals = {
           "tested": 786287
         },
         "MN": {
-          "confirmed": 29795,
+          "confirmed": 30463,
           "deaths": 1305,
           "hospitalized": 3557,
           "recovered": 25028,
-          "tested": 395202
+          "tested": 408052
         },
         "MO": {
           "confirmed": 15585,
