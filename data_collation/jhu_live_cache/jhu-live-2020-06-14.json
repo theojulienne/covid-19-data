@@ -94,7 +94,7 @@
           "confirmed": 9534,
           "date": "2020-06-14",
           "deaths": 256,
-          "recovered": 4775
+          "recovered": 5043
         }
       },
       "Alagoas": {
@@ -102,7 +102,7 @@
           "confirmed": 20887,
           "date": "2020-06-14",
           "deaths": 723,
-          "recovered": 13094
+          "recovered": 13761
         }
       },
       "Amapa": {
@@ -118,7 +118,7 @@
           "confirmed": 56026,
           "date": "2020-06-14",
           "deaths": 2465,
-          "recovered": 44447
+          "recovered": 45238
         }
       },
       "Bahia": {
@@ -126,7 +126,7 @@
           "confirmed": 35788,
           "date": "2020-06-14",
           "deaths": 1069,
-          "recovered": 14976
+          "recovered": 15279
         }
       },
       "Ceara": {
@@ -134,7 +134,7 @@
           "confirmed": 76429,
           "date": "2020-06-14",
           "deaths": 4829,
-          "recovered": 55489
+          "recovered": 54956
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 21959,
           "date": "2020-06-14",
           "deaths": 293,
-          "recovered": 12485
+          "recovered": 12483
         }
       },
       "Espirito Santo": {
@@ -150,7 +150,7 @@
           "confirmed": 25932,
           "date": "2020-06-14",
           "deaths": 1022,
-          "recovered": 13921
+          "recovered": 14224
         }
       },
       "Goias": {
@@ -166,7 +166,7 @@
           "confirmed": 58859,
           "date": "2020-06-14",
           "deaths": 1436,
-          "recovered": 31569
+          "recovered": 33561
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 5524,
           "date": "2020-06-14",
           "deaths": 192,
-          "recovered": 1912
+          "recovered": 2042
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 68510,
           "date": "2020-06-14",
           "deaths": 4177,
-          "recovered": 53724
+          "recovered": 55864
         }
       },
       "Paraiba": {
@@ -198,7 +198,7 @@
           "confirmed": 27454,
           "date": "2020-06-14",
           "deaths": 623,
-          "recovered": 5620
+          "recovered": 6477
         }
       },
       "Parana": {
@@ -214,7 +214,7 @@
           "confirmed": 44671,
           "date": "2020-06-14",
           "deaths": 3784,
-          "recovered": 25794
+          "recovered": 27903
         }
       },
       "Piaui": {
@@ -222,7 +222,7 @@
           "confirmed": 9825,
           "date": "2020-06-14",
           "deaths": 335,
-          "recovered": 671
+          "recovered": 681
         }
       },
       "Rio Grande do Norte": {
@@ -238,7 +238,7 @@
           "confirmed": 14627,
           "date": "2020-06-14",
           "deaths": 344,
-          "recovered": 11592
+          "recovered": 12027
         }
       },
       "Rio de Janeiro": {
@@ -254,7 +254,7 @@
           "confirmed": 11710,
           "date": "2020-06-14",
           "deaths": 309,
-          "recovered": 3700
+          "recovered": 4142
         }
       },
       "Roraima": {
@@ -270,7 +270,7 @@
           "confirmed": 13296,
           "date": "2020-06-14",
           "deaths": 193,
-          "recovered": 8919
+          "recovered": 9218
         }
       },
       "Sao Paulo": {
@@ -397,9 +397,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 9960,
+      "confirmed": 9991,
       "date": "2020-06-14",
-      "deaths": 329,
+      "deaths": 328,
       "recovered": 7219
     }
   },
@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 8982,
+      "confirmed": 9491,
       "date": "2020-06-14",
-      "deaths": 351,
-      "recovered": 1702
+      "deaths": 367,
+      "recovered": 1804
     }
   },
   "Honduras": {
@@ -789,10 +789,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12051,
+      "confirmed": 12085,
       "date": "2020-06-14",
       "deaths": 277,
-      "recovered": 10691
+      "recovered": 10718
     }
   },
   "Kuwait": {
@@ -1431,7 +1431,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 5074,
+          "confirmed": 5090,
           "date": "2020-06-14",
           "deaths": 159,
           "recovered": 0
@@ -1527,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 12030,
+          "confirmed": 12174,
           "date": "2020-06-14",
-          "deaths": 629,
+          "deaths": 639,
           "recovered": 0
         }
       },
