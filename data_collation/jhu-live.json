@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33645,
+          "confirmed": 33650,
           "date": "2020-06-14",
           "deaths": 2582,
-          "recovered": 27039
+          "recovered": 27069
         }
       },
       "Quebec": {
@@ -685,9 +685,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25295,
+      "confirmed": 25303,
       "date": "2020-06-14",
-      "deaths": 1705,
+      "deaths": 1706,
       "recovered": 22698
     }
   },
@@ -783,7 +783,7 @@
     "live": {
       "confirmed": 14496,
       "date": "2020-06-14",
-      "deaths": 73,
+      "deaths": 77,
       "recovered": 9188
     }
   },
@@ -881,10 +881,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8734,
+      "confirmed": 8793,
       "date": "2020-06-14",
       "deaths": 212,
-      "recovered": 7725
+      "recovered": 7765
     }
   },
   "Nepal": {
@@ -1349,10 +1349,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 176677,
+      "confirmed": 178239,
       "date": "2020-06-14",
-      "deaths": 4792,
-      "recovered": 150087
+      "deaths": 4807,
+      "recovered": 151417
     }
   },
   "US": {
@@ -1361,7 +1361,7 @@
         "live": {
           "confirmed": 18692,
           "date": "2020-06-14",
-          "deaths": 549,
+          "deaths": 551,
           "recovered": 0
         }
       },
@@ -1439,9 +1439,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 15713,
+          "confirmed": 15772,
           "date": "2020-06-14",
-          "deaths": 981,
+          "deaths": 984,
           "recovered": 0
         }
       },
@@ -1495,23 +1495,23 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 8556,
+          "confirmed": 8735,
           "date": "2020-06-14",
-          "deaths": 377,
+          "deaths": 378,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 144443,
+          "confirmed": 144659,
           "date": "2020-06-14",
-          "deaths": 10887,
+          "deaths": 10914,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 356260,
+          "confirmed": 356810,
           "date": "2020-06-14",
           "deaths": 29338,
           "recovered": 0
@@ -1656,7 +1656,7 @@
       "confirmed": 5051,
       "date": "2020-06-14",
       "deaths": 19,
-      "recovered": 3910
+      "recovered": 3943
     }
   }
 }
