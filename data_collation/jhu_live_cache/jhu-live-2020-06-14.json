@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 30295,
       "date": "2020-06-14",
-      "deaths": 815,
-      "recovered": 9083
+      "deaths": 819,
+      "recovered": 9564
     }
   },
   "Armenia": {
@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17078,
+      "confirmed": 17109,
       "date": "2020-06-14",
       "deaths": 677,
-      "recovered": 16012
+      "recovered": 16059
     }
   },
   "Azerbaijan": {
@@ -319,7 +319,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33625,
+          "confirmed": 33626,
           "date": "2020-06-14",
           "deaths": 2582,
           "recovered": 27036
@@ -913,7 +913,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8628,
+      "confirmed": 8629,
       "date": "2020-06-14",
       "deaths": 242,
       "recovered": 8138
@@ -1073,18 +1073,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 36463,
+      "confirmed": 36690,
       "date": "2020-06-14",
-      "deaths": 1512,
-      "recovered": 22438
+      "deaths": 1517,
+      "recovered": 22669
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 78416,
+      "confirmed": 79602,
       "date": "2020-06-14",
-      "deaths": 70,
-      "recovered": 55252
+      "deaths": 73,
+      "recovered": 56898
     }
   },
   "Romania": {
@@ -1189,10 +1189,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 123308,
+      "confirmed": 127541,
       "date": "2020-06-14",
-      "deaths": 932,
-      "recovered": 82548
+      "deaths": 972,
+      "recovered": 84720
     }
   },
   "Senegal": {
@@ -1205,10 +1205,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 12251,
+      "confirmed": 12310,
       "date": "2020-06-14",
-      "deaths": 253,
-      "recovered": 11465
+      "deaths": 254,
+      "recovered": 11511
     }
   },
   "Singapore": {
@@ -1367,7 +1367,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 107291,
+          "confirmed": 107300,
           "date": "2020-06-14",
           "deaths": 4042,
           "recovered": 0
@@ -1543,9 +1543,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 5690,
+          "confirmed": 5811,
           "date": "2020-06-14",
-          "deaths": 146,
+          "deaths": 147,
           "recovered": 0
         }
       },
