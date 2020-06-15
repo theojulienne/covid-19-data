@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 17842,
+      "confirmed": 18459,
       "date": "2020-06-15",
-      "deaths": 585,
-      "recovered": 2768
+      "deaths": 611,
+      "recovered": 3113
     }
   },
   "Brazil": {
@@ -286,7 +286,7 @@
           "confirmed": 13968,
           "date": "2020-06-15",
           "deaths": 330,
-          "recovered": 5093
+          "recovered": 5391
         }
       },
       "Tocantins": {
@@ -545,18 +545,18 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 9491,
+      "confirmed": 9845,
       "date": "2020-06-15",
-      "deaths": 367,
-      "recovered": 1804
+      "deaths": 384,
+      "recovered": 1886
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 8455,
+      "confirmed": 8858,
       "date": "2020-06-15",
-      "deaths": 310,
-      "recovered": 894
+      "deaths": 312,
+      "recovered": 967
     }
   },
   "India": {

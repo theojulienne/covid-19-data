@@ -293,9 +293,11 @@ var covid19_dataset_country_btn = {
       59,
       62,
       62,
+      66,
       66
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -585,6 +587,7 @@ var covid19_dataset_country_btn = {
       18,
       19,
       19,
+      21,
       21
     ]
   }
