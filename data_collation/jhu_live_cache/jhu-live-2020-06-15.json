@@ -301,10 +301,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 8681,
+      "confirmed": 9864,
       "date": "2020-06-15",
-      "deaths": 212,
-      "recovered": 4836
+      "deaths": 276,
+      "recovered": 5570
     }
   },
   "Canada": {
@@ -393,14 +393,6 @@
           "recovered": 2072
         }
       }
-    }
-  },
-  "Cote d'Ivoire": {
-    "live": {
-      "confirmed": 5084,
-      "date": "2020-06-15",
-      "deaths": 45,
-      "recovered": 2505
     }
   },
   "Czechia": {
@@ -1657,6 +1649,14 @@
           "recovered": 0
         }
       }
+    }
+  },
+  "Uzbekistan": {
+    "live": {
+      "confirmed": 5103,
+      "date": "2020-06-15",
+      "deaths": 19,
+      "recovered": 3943
     }
   }
 }

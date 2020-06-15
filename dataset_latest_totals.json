@@ -881,9 +881,9 @@
     },
     "CMR": {
       "back_1week": {
-        "confirmed": 7599,
+        "confirmed": 7908,
         "deaths": 212,
-        "recovered": 4587
+        "recovered": 4735
       },
       "back_2week": {
         "confirmed": 5904,
@@ -3735,17 +3735,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 4094,
+        "confirmed": 4331,
         "deaths": 17,
         "recovered": 3268
       },
       "back_2week": {
-        "confirmed": 3546,
+        "confirmed": 3623,
         "deaths": 14,
         "recovered": 2783
       },
       "latest": {
-        "confirmed": 4966,
+        "confirmed": 5080,
         "deaths": 19,
         "recovered": 3874
       }
