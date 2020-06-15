@@ -87,17 +87,17 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 22020,
+        "confirmed": 22794,
         "deaths": 664,
         "recovered": 6909
       },
       "back_2week": {
-        "confirmed": 16214,
+        "confirmed": 16851,
         "deaths": 539,
         "recovered": 5336
       },
       "latest": {
-        "confirmed": 30295,
+        "confirmed": 31577,
         "deaths": 833,
         "recovered": 9564
       }
@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 7383,
+          "confirmed": 7433,
           "deaths": 150
         },
         "British Columbia": {
@@ -1165,19 +1165,19 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 42728,
-        "deaths": 3608,
+        "confirmed": 43120,
+        "deaths": 3621,
         "recovered": 21020
       },
       "back_2week": {
-        "confirmed": 38571,
-        "deaths": 3334,
-        "recovered": 19190
+        "confirmed": 39098,
+        "deaths": 3358,
+        "recovered": 19592
       },
       "latest": {
-        "confirmed": 46356,
-        "deaths": 3874,
-        "recovered": 22865
+        "confirmed": 46751,
+        "deaths": 3896,
+        "recovered": 23064
       }
     },
     "EGY": {
@@ -3837,19 +3837,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 45973,
-        "deaths": 952,
-        "recovered": 24258
+        "confirmed": 48285,
+        "deaths": 998,
+        "recovered": 24364
       },
       "back_2week": {
-        "confirmed": 30967,
-        "deaths": 643,
-        "recovered": 16116
+        "confirmed": 32683,
+        "deaths": 683,
+        "recovered": 16809
       },
       "latest": {
-        "confirmed": 65736,
-        "deaths": 1423,
-        "recovered": 36850
+        "confirmed": 70038,
+        "deaths": 1480,
+        "recovered": 38531
       }
     },
     "ZMB": {
