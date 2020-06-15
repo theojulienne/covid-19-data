@@ -1318,18 +1318,18 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 187067,
-        "deaths": 29087,
+        "confirmed": 187360,
+        "deaths": 29100,
         "recovered": 68282
       },
       "back_2week": {
-        "confirmed": 185616,
-        "deaths": 28720,
+        "confirmed": 185851,
+        "deaths": 28751,
         "recovered": 66051
       },
       "latest": {
-        "confirmed": 189311,
-        "deaths": 29339,
+        "confirmed": 189602,
+        "deaths": 29346,
         "recovered": 69783
       },
       "states": {
