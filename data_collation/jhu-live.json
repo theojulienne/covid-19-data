@@ -981,10 +981,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 20059,
+      "confirmed": 21418,
       "date": "2020-06-15",
-      "deaths": 429,
-      "recovered": 13759
+      "deaths": 437,
+      "recovered": 13766
     }
   },
   "Peru": {
@@ -1439,7 +1439,7 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 5143,
+          "confirmed": 5151,
           "date": "2020-06-15",
           "deaths": 160,
           "recovered": 0
