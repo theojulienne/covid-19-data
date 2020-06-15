@@ -453,10 +453,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 189602,
+      "confirmed": 189519,
       "date": "2020-06-15",
       "deaths": 29346,
-      "recovered": 69820
+      "recovered": 69534
     }
   },
   "Germany": {
@@ -701,10 +701,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 19121,
+      "confirmed": 19237,
       "date": "2020-06-15",
       "deaths": 302,
-      "recovered": 15389
+      "recovered": 15415
     }
   },
   "Italy": {
@@ -1357,10 +1357,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 178239,
+      "confirmed": 179831,
       "date": "2020-06-15",
-      "deaths": 4807,
-      "recovered": 151417
+      "deaths": 4825,
+      "recovered": 152364
     }
   },
   "US": {
@@ -1511,9 +1511,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 144672,
+          "confirmed": 144836,
           "date": "2020-06-15",
-          "deaths": 10914,
+          "deaths": 10912,
           "recovered": 0
         }
       },
@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 357349,
           "date": "2020-06-15",
-          "deaths": 29351,
+          "deaths": 29372,
           "recovered": 0
         }
       },
@@ -1535,15 +1535,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 12251,
+          "confirmed": 12422,
           "date": "2020-06-15",
-          "deaths": 640,
+          "deaths": 647,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 44628,
+          "confirmed": 44765,
           "date": "2020-06-15",
           "deaths": 3435,
           "recovered": 0
@@ -1617,10 +1617,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 42294,
+      "confirmed": 42636,
       "date": "2020-06-15",
-      "deaths": 289,
-      "recovered": 27462
+      "deaths": 291,
+      "recovered": 28129
     }
   },
   "United Kingdom": {
