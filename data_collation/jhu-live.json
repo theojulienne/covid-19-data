@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 24766,
+      "confirmed": 25527,
       "date": "2020-06-15",
-      "deaths": 471,
-      "recovered": 4725
+      "deaths": 476,
+      "recovered": 5164
     }
   },
   "Algeria": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 18227,
+      "confirmed": 18544,
       "date": "2020-06-15",
-      "deaths": 43,
-      "recovered": 12818
+      "deaths": 45,
+      "recovered": 13197
     }
   },
   "Bangladesh": {
@@ -399,8 +399,8 @@
     "live": {
       "confirmed": 10024,
       "date": "2020-06-15",
-      "deaths": 329,
-      "recovered": 7226
+      "deaths": 330,
+      "recovered": 7230
     }
   },
   "Denmark": {
@@ -1076,7 +1076,7 @@
       "confirmed": 29392,
       "date": "2020-06-15",
       "deaths": 1247,
-      "recovered": 14226
+      "recovered": 14383
     }
   },
   "Portugal": {
@@ -1105,84 +1105,92 @@
   },
   "Russia": {
     "subseries": {
+      "Bryansk Oblast": {
+        "live": {
+          "confirmed": 5098,
+          "date": "2020-06-15",
+          "deaths": 32,
+          "recovered": 3688
+        }
+      },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 6557,
+          "confirmed": 6652,
           "date": "2020-06-15",
-          "deaths": 316,
-          "recovered": 4731
+          "deaths": 319,
+          "recovered": 4754
         }
       },
       "Kaluga Oblast": {
         "live": {
-          "confirmed": 5091,
+          "confirmed": 5169,
           "date": "2020-06-15",
           "deaths": 39,
-          "recovered": 2485
+          "recovered": 2526
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 6494,
+          "confirmed": 6655,
           "date": "2020-06-15",
-          "deaths": 64,
-          "recovered": 2205
+          "deaths": 65,
+          "recovered": 2251
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 205905,
+          "confirmed": 207264,
           "date": "2020-06-15",
-          "deaths": 3281,
-          "recovered": 121691
+          "deaths": 3334,
+          "recovered": 123240
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 49353,
+          "confirmed": 50042,
           "date": "2020-06-15",
-          "deaths": 678,
-          "recovered": 16573
+          "deaths": 690,
+          "recovered": 17422
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 13995,
+          "confirmed": 14204,
           "date": "2020-06-15",
-          "deaths": 168,
-          "recovered": 6758
+          "deaths": 173,
+          "recovered": 6811
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 7481,
+          "confirmed": 7641,
           "date": "2020-06-15",
           "deaths": 67,
-          "recovered": 2931
+          "recovered": 2979
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 20561,
+          "confirmed": 20813,
           "date": "2020-06-15",
-          "deaths": 597,
-          "recovered": 9677
+          "deaths": 635,
+          "recovered": 9739
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 9325,
+          "confirmed": 9558,
           "date": "2020-06-15",
           "deaths": 50,
-          "recovered": 4144
+          "recovered": 4235
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 5340,
+          "confirmed": 5436,
           "date": "2020-06-15",
-          "deaths": 58,
-          "recovered": 3255
+          "deaths": 60,
+          "recovered": 3401
         }
       }
     }
@@ -1195,14 +1203,6 @@
       "recovered": 84720
     }
   },
-  "Senegal": {
-    "live": {
-      "confirmed": 5090,
-      "date": "2020-06-15",
-      "deaths": 60,
-      "recovered": 3344
-    }
-  },
   "Serbia": {
     "live": {
       "confirmed": 12310,
@@ -1213,7 +1213,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 40604,
+      "confirmed": 40818,
       "date": "2020-06-15",
       "deaths": 26,
       "recovered": 29589
