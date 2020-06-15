@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 16667,
+      "confirmed": 17064,
       "date": "2020-06-15",
-      "deaths": 269,
-      "recovered": 6214
+      "deaths": 285,
+      "recovered": 6276
     }
   },
   "Austria": {
@@ -693,10 +693,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 19055,
+      "confirmed": 19121,
       "date": "2020-06-15",
-      "deaths": 300,
-      "recovered": 15375
+      "deaths": 302,
+      "recovered": 15389
     }
   },
   "Italy": {
