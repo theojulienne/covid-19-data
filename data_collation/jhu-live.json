@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33897,
+          "confirmed": 33973,
           "date": "2020-06-15",
-          "deaths": 2583,
-          "recovered": 27474
+          "deaths": 2578,
+          "recovered": 27604
         }
       },
       "Quebec": {
@@ -403,6 +403,14 @@
       }
     }
   },
+  "Cote d'Ivoire": {
+    "live": {
+      "confirmed": 5439,
+      "date": "2020-06-15",
+      "deaths": 46,
+      "recovered": 2590
+    }
+  },
   "Czechia": {
     "live": {
       "confirmed": 10044,
@@ -437,10 +445,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 44598,
+      "confirmed": 46289,
       "date": "2020-06-15",
-      "deaths": 1575,
-      "recovered": 11931
+      "deaths": 1672,
+      "recovered": 12329
     }
   },
   "Finland": {
@@ -483,14 +491,6 @@
           "date": "2020-06-15",
           "deaths": 208,
           "recovered": 6685
-        }
-      },
-      "Hamburg": {
-        "live": {
-          "confirmed": 5146,
-          "date": "2020-06-15",
-          "deaths": 255,
-          "recovered": 4800
         }
       },
       "Hessen": {
@@ -1383,9 +1383,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 39558,
+          "confirmed": 39624,
           "date": "2020-06-15",
-          "deaths": 3717,
+          "deaths": 3720,
           "recovered": 0
         }
       },
@@ -1415,9 +1415,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 115652,
+          "confirmed": 116044,
           "date": "2020-06-15",
-          "deaths": 5525,
+          "deaths": 5543,
           "recovered": 0
         }
       },
@@ -1455,7 +1455,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 101896,
+          "confirmed": 101977,
           "date": "2020-06-15",
           "deaths": 7287,
           "recovered": 0
@@ -1559,9 +1559,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 13455,
+          "confirmed": 13772,
           "date": "2020-06-15",
-          "deaths": 235,
+          "deaths": 241,
           "recovered": 0
         }
       },
