@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33806,
+          "confirmed": 33822,
           "date": "2020-06-15",
           "deaths": 2590,
-          "recovered": 27357
+          "recovered": 27362
         }
       },
       "Quebec": {
@@ -371,26 +371,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 9077,
+          "confirmed": 9837,
           "date": "2020-06-15",
-          "deaths": 377,
-          "recovered": 2707
+          "deaths": 412,
+          "recovered": 2785
+        }
+      },
+      "Bolivar": {
+        "live": {
+          "confirmed": 5146,
+          "date": "2020-06-15",
+          "deaths": 218,
+          "recovered": 1668
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 15458,
+          "confirmed": 16037,
           "date": "2020-06-15",
-          "deaths": 388,
-          "recovered": 6742
+          "deaths": 405,
+          "recovered": 6828
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 5633,
+          "confirmed": 5830,
           "date": "2020-06-15",
-          "deaths": 255,
-          "recovered": 2072
+          "deaths": 258,
+          "recovered": 2097
         }
       }
     }
@@ -413,10 +421,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 22962,
+      "confirmed": 23271,
       "date": "2020-06-15",
-      "deaths": 592,
-      "recovered": 13320
+      "deaths": 605,
+      "recovered": 14025
     }
   },
   "Ecuador": {
@@ -1216,7 +1224,7 @@
       "confirmed": 40818,
       "date": "2020-06-15",
       "deaths": 26,
-      "recovered": 29589
+      "recovered": 30366
     }
   },
   "South Africa": {
@@ -1399,17 +1407,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 39678,
+          "confirmed": 40298,
           "date": "2020-06-15",
-          "deaths": 1608,
+          "deaths": 1613,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 10278,
+          "confirmed": 5172,
           "date": "2020-06-15",
-          "deaths": 437,
+          "deaths": 152,
           "recovered": 0
         }
       },
@@ -1495,9 +1503,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 8735,
+          "confirmed": 8815,
           "date": "2020-06-15",
-          "deaths": 378,
+          "deaths": 379,
           "recovered": 0
         }
       },
