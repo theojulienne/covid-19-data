@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 33805,
+          "confirmed": 33806,
           "date": "2020-06-15",
           "deaths": 2590,
-          "recovered": 27355
+          "recovered": 27357
         }
       },
       "Quebec": {
@@ -797,10 +797,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12085,
+      "confirmed": 12121,
       "date": "2020-06-15",
       "deaths": 277,
-      "recovered": 10718
+      "recovered": 10730
     }
   },
   "Kuwait": {
@@ -939,42 +939,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 8028,
+          "confirmed": 8177,
           "date": "2020-06-15",
-          "deaths": 83,
-          "recovered": 2795
+          "deaths": 85,
+          "recovered": 2859
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 7934,
+          "confirmed": 8569,
           "date": "2020-06-15",
-          "deaths": 75,
-          "recovered": 1671
+          "deaths": 78,
+          "recovered": 2037
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 17450,
+          "confirmed": 18013,
           "date": "2020-06-15",
-          "deaths": 661,
-          "recovered": 4291
+          "deaths": 675,
+          "recovered": 4539
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 52601,
+          "confirmed": 54138,
           "date": "2020-06-15",
-          "deaths": 969,
-          "recovered": 17650
+          "deaths": 1031,
+          "recovered": 17710
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 51518,
+          "confirmed": 53805,
           "date": "2020-06-15",
-          "deaths": 816,
-          "recovered": 24387
+          "deaths": 831,
+          "recovered": 25606
         }
       }
     }
@@ -1375,7 +1375,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 108556,
+          "confirmed": 108880,
           "date": "2020-06-15",
           "deaths": 4059,
           "recovered": 0
