@@ -443,7 +443,7 @@ var covid19_dataset_world_totals = {
       418919,
       423189,
       426578,
-      426642
+      426643
     ],
     "recovered": [
       28,

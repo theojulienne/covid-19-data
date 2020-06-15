@@ -368,17 +368,17 @@ var covid19_dataset_latest_totals = {
     "BHR": {
       "back_1week": {
         "confirmed": 14383,
-        "deaths": 24,
+        "deaths": 26,
         "recovered": 9056
       },
       "back_2week": {
         "confirmed": 10793,
-        "deaths": 17,
+        "deaths": 19,
         "recovered": 5826
       },
       "latest": {
         "confirmed": 17713,
-        "deaths": 37,
+        "deaths": 42,
         "recovered": 12191
       }
     },
