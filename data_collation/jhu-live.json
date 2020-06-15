@@ -397,10 +397,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10024,
+      "confirmed": 10027,
       "date": "2020-06-15",
       "deaths": 330,
-      "recovered": 7230
+      "recovered": 7245
     }
   },
   "Denmark": {
@@ -669,10 +669,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 187427,
+      "confirmed": 189876,
       "date": "2020-06-15",
-      "deaths": 8837,
-      "recovered": 148674
+      "deaths": 8950,
+      "recovered": 150590
     }
   },
   "Iraq": {
@@ -797,18 +797,18 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 35920,
+      "confirmed": 36431,
       "date": "2020-06-15",
-      "deaths": 296,
-      "recovered": 26759
+      "deaths": 298,
+      "recovered": 27531
     }
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8453,
+      "confirmed": 8494,
       "date": "2020-06-15",
       "deaths": 121,
-      "recovered": 7346
+      "recovered": 7400
     }
   },
   "Mexico": {
@@ -1097,22 +1097,14 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 21999,
+      "confirmed": 22165,
       "date": "2020-06-15",
-      "deaths": 1410,
-      "recovered": 15719
+      "deaths": 1427,
+      "recovered": 15817
     }
   },
   "Russia": {
     "subseries": {
-      "Bryansk Oblast": {
-        "live": {
-          "confirmed": 5098,
-          "date": "2020-06-15",
-          "deaths": 32,
-          "recovered": 3688
-        }
-      },
       "Dagestan Republic": {
         "live": {
           "confirmed": 6652,
@@ -1201,6 +1193,14 @@
       "date": "2020-06-15",
       "deaths": 972,
       "recovered": 84720
+    }
+  },
+  "Senegal": {
+    "live": {
+      "confirmed": 5173,
+      "date": "2020-06-15",
+      "deaths": 64,
+      "recovered": 3424
     }
   },
   "Serbia": {
@@ -1341,7 +1341,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31117,
+      "confirmed": 31131,
       "date": "2020-06-15",
       "deaths": 1938,
       "recovered": 28800
@@ -1656,7 +1656,7 @@
       "confirmed": 5103,
       "date": "2020-06-15",
       "deaths": 19,
-      "recovered": 3943
+      "recovered": 3985
     }
   }
 }
