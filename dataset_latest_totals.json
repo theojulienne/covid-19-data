@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 33806,
-          "deaths": 2590
+          "deaths": 2579
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -647,7 +647,7 @@
     "CHE": {
       "back_1week": {
         "confirmed": 30972,
-        "deaths": 1921,
+        "deaths": 1923,
         "recovered": 28700
       },
       "back_2week": {
@@ -657,7 +657,7 @@
       },
       "latest": {
         "confirmed": 31131,
-        "deaths": 1938,
+        "deaths": 1939,
         "recovered": 28800
       }
     },
@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 25201,
-        "deaths": 1679,
+        "confirmed": 25207,
+        "deaths": 1683,
         "recovered": 22698
       },
       "back_2week": {
-        "confirmed": 24990,
-        "deaths": 1652,
+        "confirmed": 25062,
+        "deaths": 1650,
         "recovered": 22089
       },
       "latest": {
-        "confirmed": 25303,
+        "confirmed": 25321,
         "deaths": 1706,
         "recovered": 22698
       }
@@ -3272,19 +3272,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 170132,
-        "deaths": 4692,
-        "recovered": 137969
+        "confirmed": 171121,
+        "deaths": 4711,
+        "recovered": 141380
       },
       "back_2week": {
-        "confirmed": 163942,
-        "deaths": 4540,
-        "recovered": 127973
+        "confirmed": 164769,
+        "deaths": 4563,
+        "recovered": 128947
       },
       "latest": {
-        "confirmed": 178239,
-        "deaths": 4807,
-        "recovered": 151417
+        "confirmed": 179831,
+        "deaths": 4825,
+        "recovered": 152364
       }
     },
     "TWN": {
