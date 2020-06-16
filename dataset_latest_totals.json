@@ -1490,9 +1490,9 @@
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 9638,
-        "deaths": 44,
-        "recovered": 3636
+        "confirmed": 9910,
+        "deaths": 48,
+        "recovered": 3645
       },
       "back_2week": {
         "confirmed": 8070,
