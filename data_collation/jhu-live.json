@@ -413,10 +413,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10064,
+      "confirmed": 10066,
       "date": "2020-06-16",
       "deaths": 330,
-      "recovered": 7296
+      "recovered": 7300
     }
   },
   "Denmark": {
@@ -899,8 +899,8 @@
     "live": {
       "confirmed": 11879,
       "date": "2020-06-16",
-      "deaths": 411,
-      "recovered": 6794
+      "deaths": 417,
+      "recovered": 6901
     }
   },
   "Morocco": {
@@ -1229,7 +1229,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 40818,
+      "confirmed": 40969,
       "date": "2020-06-16",
       "deaths": 26,
       "recovered": 30366
