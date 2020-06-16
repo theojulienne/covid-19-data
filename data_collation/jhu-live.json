@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 32916,
+          "confirmed": 34133,
           "date": "2020-06-16",
-          "deaths": 2583,
-          "recovered": 27769
+          "deaths": 2590,
+          "recovered": 27867
         }
       },
       "Quebec": {
@@ -405,10 +405,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 5439,
+      "confirmed": 5679,
       "date": "2020-06-16",
       "deaths": 46,
-      "recovered": 2590
+      "recovered": 2637
     }
   },
   "Czechia": {
@@ -471,10 +471,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 35154,
+          "confirmed": 35181,
           "date": "2020-06-16",
-          "deaths": 1808,
-          "recovered": 32900
+          "deaths": 1811,
+          "recovered": 32907
         }
       },
       "Bayern": {
@@ -1375,7 +1375,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 19372,
+          "confirmed": 20775,
           "date": "2020-06-16",
           "deaths": 557,
           "recovered": 0
@@ -1399,9 +1399,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 39624,
+          "confirmed": 39698,
           "date": "2020-06-16",
-          "deaths": 3720,
+          "deaths": 3726,
           "recovered": 0
         }
       },
@@ -1463,9 +1463,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 101977,
+          "confirmed": 102166,
           "date": "2020-06-16",
-          "deaths": 7310,
+          "deaths": 7328,
           "recovered": 0
         }
       },
