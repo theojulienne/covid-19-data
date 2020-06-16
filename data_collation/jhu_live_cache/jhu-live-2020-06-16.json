@@ -102,7 +102,7 @@
           "confirmed": 22962,
           "date": "2020-06-16",
           "deaths": 768,
-          "recovered": 14261
+          "recovered": 15169
         }
       },
       "Amapa": {
@@ -110,7 +110,7 @@
           "confirmed": 16813,
           "date": "2020-06-16",
           "deaths": 329,
-          "recovered": 7363
+          "recovered": 7460
         }
       },
       "Amazonas": {
@@ -118,7 +118,7 @@
           "confirmed": 56777,
           "date": "2020-06-16",
           "deaths": 2512,
-          "recovered": 45624
+          "recovered": 45828
         }
       },
       "Bahia": {
@@ -126,7 +126,7 @@
           "confirmed": 37620,
           "date": "2020-06-16",
           "deaths": 1145,
-          "recovered": 15486
+          "recovered": 15850
         }
       },
       "Ceara": {
@@ -134,7 +134,7 @@
           "confirmed": 79462,
           "date": "2020-06-16",
           "deaths": 4999,
-          "recovered": 58227
+          "recovered": 58432
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 23684,
           "date": "2020-06-16",
           "deaths": 319,
-          "recovered": 13882
+          "recovered": 13878
         }
       },
       "Espirito Santo": {
@@ -150,7 +150,7 @@
           "confirmed": 27581,
           "date": "2020-06-16",
           "deaths": 1086,
-          "recovered": 14224
+          "recovered": 15252
         }
       },
       "Goias": {
@@ -166,7 +166,7 @@
           "confirmed": 60592,
           "date": "2020-06-16",
           "deaths": 1499,
-          "recovered": 34210
+          "recovered": 35466
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 6185,
           "date": "2020-06-16",
           "deaths": 216,
-          "recovered": 2117
+          "recovered": 2386
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 69224,
           "date": "2020-06-16",
           "deaths": 4201,
-          "recovered": 57008
+          "recovered": 55864
         }
       },
       "Paraiba": {
@@ -198,7 +198,7 @@
           "confirmed": 28668,
           "date": "2020-06-16",
           "deaths": 656,
-          "recovered": 6689
+          "recovered": 6890
         }
       },
       "Parana": {
@@ -206,7 +206,7 @@
           "confirmed": 9716,
           "date": "2020-06-16",
           "deaths": 334,
-          "recovered": 3044
+          "recovered": 3113
         }
       },
       "Pernambuco": {
@@ -238,7 +238,7 @@
           "confirmed": 15438,
           "date": "2020-06-16",
           "deaths": 360,
-          "recovered": 12233
+          "recovered": 12613
         }
       },
       "Rio de Janeiro": {
@@ -246,7 +246,7 @@
           "confirmed": 80946,
           "date": "2020-06-16",
           "deaths": 7728,
-          "recovered": 63817
+          "recovered": 65063
         }
       },
       "Rondonia": {
@@ -254,7 +254,7 @@
           "confirmed": 12180,
           "date": "2020-06-16",
           "deaths": 332,
-          "recovered": 4327
+          "recovered": 4394
         }
       },
       "Roraima": {
@@ -262,7 +262,7 @@
           "confirmed": 6881,
           "date": "2020-06-16",
           "deaths": 203,
-          "recovered": 1754
+          "recovered": 1758
         }
       },
       "Santa Catarina": {
@@ -294,7 +294,7 @@
           "confirmed": 7137,
           "date": "2020-06-16",
           "deaths": 136,
-          "recovered": 3780
+          "recovered": 3897
         }
       }
     }
@@ -537,10 +537,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 9845,
+      "confirmed": 10272,
       "date": "2020-06-16",
-      "deaths": 384,
-      "recovered": 1886
+      "deaths": 399,
+      "recovered": 1966
     }
   },
   "Honduras": {
@@ -789,10 +789,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12121,
+      "confirmed": 12155,
       "date": "2020-06-16",
-      "deaths": 277,
-      "recovered": 10730
+      "deaths": 278,
+      "recovered": 10760
     }
   },
   "Kuwait": {
