@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 19013,
       "date": "2020-06-16",
-      "deaths": 46,
+      "deaths": 47,
       "recovered": 13267
     }
   },
@@ -649,14 +649,6 @@
           "recovered": 25344
         }
       },
-      "Telangana": {
-        "live": {
-          "confirmed": 5193,
-          "date": "2020-06-16",
-          "deaths": 187,
-          "recovered": 2766
-        }
-      },
       "Unknown": {
         "live": {
           "confirmed": 7684,
@@ -808,7 +800,7 @@
       "confirmed": 15192,
       "date": "2020-06-16",
       "deaths": 81,
-      "recovered": 9388
+      "recovered": 9488
     }
   },
   "Korea, South": {
@@ -1121,10 +1113,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 22165,
+      "confirmed": 22415,
       "date": "2020-06-16",
-      "deaths": 1427,
-      "recovered": 15817
+      "deaths": 1437,
+      "recovered": 16071
     }
   },
   "Russia": {
@@ -1217,6 +1209,14 @@
       "date": "2020-06-16",
       "deaths": 1011,
       "recovered": 87890
+    }
+  },
+  "Senegal": {
+    "live": {
+      "confirmed": 5247,
+      "date": "2020-06-16",
+      "deaths": 70,
+      "recovered": 3525
     }
   },
   "Serbia": {
@@ -1357,7 +1357,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31131,
+      "confirmed": 31146,
       "date": "2020-06-16",
       "deaths": 1939,
       "recovered": 28900
