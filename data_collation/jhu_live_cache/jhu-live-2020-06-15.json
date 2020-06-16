@@ -913,10 +913,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 16085,
+      "confirmed": 16658,
       "date": "2020-06-15",
-      "deaths": 420,
-      "recovered": 5220
+      "deaths": 424,
+      "recovered": 5349
     }
   },
   "Norway": {
@@ -1313,10 +1313,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 7220,
+      "confirmed": 7435,
       "date": "2020-06-15",
-      "deaths": 459,
-      "recovered": 2610
+      "deaths": 468,
+      "recovered": 2720
     }
   },
   "Sweden": {
@@ -1431,9 +1431,9 @@
       },
       "Iowa": {
         "live": {
-          "confirmed": 5177,
+          "confirmed": 5175,
           "date": "2020-06-15",
-          "deaths": 161,
+          "deaths": 163,
           "recovered": 0
         }
       },
@@ -1487,9 +1487,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 5668,
+          "confirmed": 5734,
           "date": "2020-06-15",
-          "deaths": 60,
+          "deaths": 61,
           "recovered": 0
         }
       },
