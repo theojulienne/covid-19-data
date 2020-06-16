@@ -222,7 +222,7 @@
           "confirmed": 10357,
           "date": "2020-06-16",
           "deaths": 374,
-          "recovered": 696
+          "recovered": 709
         }
       },
       "Rio Grande do Norte": {
@@ -545,10 +545,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 8858,
+      "confirmed": 9178,
       "date": "2020-06-16",
-      "deaths": 312,
-      "recovered": 967
+      "deaths": 322,
+      "recovered": 1025
     }
   },
   "India": {
@@ -1369,7 +1369,7 @@
         "live": {
           "confirmed": 110825,
           "date": "2020-06-16",
-          "deaths": 4079,
+          "deaths": 4078,
           "recovered": 0
         }
       },
