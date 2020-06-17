@@ -94,7 +94,7 @@
           "confirmed": 10003,
           "date": "2020-06-17",
           "deaths": 271,
-          "recovered": 5224
+          "recovered": 5383
         }
       },
       "Alagoas": {
@@ -118,7 +118,7 @@
           "confirmed": 58018,
           "date": "2020-06-17",
           "deaths": 2549,
-          "recovered": 45828
+          "recovered": 46894
         }
       },
       "Bahia": {
@@ -134,7 +134,7 @@
           "confirmed": 81289,
           "date": "2020-06-17",
           "deaths": 5070,
-          "recovered": 60095
+          "recovered": 59901
         }
       },
       "Distrito Federal": {
@@ -166,7 +166,7 @@
           "confirmed": 62711,
           "date": "2020-06-17",
           "deaths": 1537,
-          "recovered": 35466
+          "recovered": 36979
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 6388,
           "date": "2020-06-17",
           "deaths": 226,
-          "recovered": 2386
+          "recovered": 2401
         }
       },
       "Minas Gerais": {
@@ -254,7 +254,7 @@
           "confirmed": 13010,
           "date": "2020-06-17",
           "deaths": 346,
-          "recovered": 4394
+          "recovered": 4649
         }
       },
       "Roraima": {
@@ -262,7 +262,7 @@
           "confirmed": 6935,
           "date": "2020-06-17",
           "deaths": 216,
-          "recovered": 1758
+          "recovered": 1770
         }
       },
       "Santa Catarina": {
@@ -286,7 +286,7 @@
           "confirmed": 16310,
           "date": "2020-06-17",
           "deaths": 364,
-          "recovered": 5391
+          "recovered": 5526
         }
       },
       "Tocantins": {
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 10272,
+      "confirmed": 10706,
       "date": "2020-06-17",
-      "deaths": 399,
-      "recovered": 1966
+      "deaths": 418,
+      "recovered": 2096
     }
   },
   "Honduras": {
@@ -805,10 +805,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12155,
+      "confirmed": 12198,
       "date": "2020-06-17",
-      "deaths": 278,
-      "recovered": 10760
+      "deaths": 279,
+      "recovered": 10774
     }
   },
   "Kuwait": {
@@ -992,7 +992,7 @@
       "confirmed": 21962,
       "date": "2020-06-17",
       "deaths": 457,
-      "recovered": 13766
+      "recovered": 13774
     }
   },
   "Peru": {
@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 357869,
           "date": "2020-06-17",
-          "deaths": 29413,
+          "deaths": 29417,
           "recovered": 0
         }
       },
