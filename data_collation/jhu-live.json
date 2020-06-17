@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17189,
+      "confirmed": 17203,
       "date": "2020-06-17",
-      "deaths": 681,
-      "recovered": 16089
+      "deaths": 687,
+      "recovered": 16099
     }
   },
   "Azerbaijan": {
@@ -495,9 +495,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 12968,
+          "confirmed": 12977,
           "date": "2020-06-17",
-          "deaths": 616,
+          "deaths": 619,
           "recovered": 11600
         }
       },
@@ -511,10 +511,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6856,
+          "confirmed": 6858,
           "date": "2020-06-17",
           "deaths": 233,
-          "recovered": 6454
+          "recovered": 6465
         }
       },
       "Sachsen": {
@@ -685,10 +685,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 192439,
+      "confirmed": 195051,
       "date": "2020-06-17",
-      "deaths": 9065,
-      "recovered": 152675
+      "deaths": 9185,
+      "recovered": 154812
     }
   },
   "Iraq": {
@@ -813,10 +813,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 36958,
+      "confirmed": 37533,
       "date": "2020-06-17",
-      "deaths": 303,
-      "recovered": 28206
+      "deaths": 306,
+      "recovered": 28896
     }
   },
   "Malaysia": {
@@ -905,10 +905,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 6591,
+      "confirmed": 7177,
       "date": "2020-06-17",
-      "deaths": 19,
-      "recovered": 1158
+      "deaths": 20,
+      "recovered": 1167
     }
   },
   "Netherlands": {
@@ -1121,14 +1121,6 @@
   },
   "Russia": {
     "subseries": {
-      "Bryansk Oblast": {
-        "live": {
-          "confirmed": 5270,
-          "date": "2020-06-17",
-          "deaths": 32,
-          "recovered": 3839
-        }
-      },
       "Dagestan Republic": {
         "live": {
           "confirmed": 6837,
@@ -1217,6 +1209,14 @@
       "date": "2020-06-17",
       "deaths": 1052,
       "recovered": 89540
+    }
+  },
+  "Senegal": {
+    "live": {
+      "confirmed": 5369,
+      "date": "2020-06-17",
+      "deaths": 73,
+      "recovered": 3606
     }
   },
   "Serbia": {
@@ -1357,9 +1357,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31154,
+      "confirmed": 31183,
       "date": "2020-06-17",
-      "deaths": 1954,
+      "deaths": 1956,
       "recovered": 28900
     }
   },
