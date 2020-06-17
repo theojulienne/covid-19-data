@@ -553,105 +553,113 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 9178,
+      "confirmed": 9656,
       "date": "2020-06-17",
-      "deaths": 322,
-      "recovered": 1025
+      "deaths": 330,
+      "recovered": 1075
     }
   },
   "India": {
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 6456,
+          "confirmed": 6841,
           "date": "2020-06-17",
           "deaths": 88,
-          "recovered": 3316
+          "recovered": 3509
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 6650,
+          "confirmed": 6778,
           "date": "2020-06-17",
-          "deaths": 40,
-          "recovered": 4409
+          "deaths": 41,
+          "recovered": 4644
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 42829,
+          "confirmed": 44688,
           "date": "2020-06-17",
-          "deaths": 1400,
-          "recovered": 16427
+          "deaths": 1837,
+          "recovered": 16500
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 24055,
+          "confirmed": 24577,
           "date": "2020-06-17",
-          "deaths": 1505,
-          "recovered": 16664
+          "deaths": 1533,
+          "recovered": 17082
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 7722,
+          "confirmed": 8272,
           "date": "2020-06-17",
-          "deaths": 100,
-          "recovered": 3565
+          "deaths": 118,
+          "recovered": 3748
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 5220,
+          "confirmed": 5298,
           "date": "2020-06-17",
-          "deaths": 62,
-          "recovered": 2604
+          "deaths": 63,
+          "recovered": 2781
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 7213,
+          "confirmed": 7530,
           "date": "2020-06-17",
-          "deaths": 89,
-          "recovered": 4135
+          "deaths": 94,
+          "recovered": 4456
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 10935,
+          "confirmed": 11083,
           "date": "2020-06-17",
-          "deaths": 465,
-          "recovered": 7903
+          "deaths": 476,
+          "recovered": 8152
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 110744,
+          "confirmed": 113445,
           "date": "2020-06-17",
-          "deaths": 4128,
-          "recovered": 56049
+          "deaths": 5537,
+          "recovered": 57851
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 12981,
+          "confirmed": 13216,
           "date": "2020-06-17",
-          "deaths": 301,
-          "recovered": 9785
+          "deaths": 308,
+          "recovered": 9849
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 46504,
+          "confirmed": 48019,
           "date": "2020-06-17",
-          "deaths": 479,
-          "recovered": 25344
+          "deaths": 528,
+          "recovered": 26782
+        }
+      },
+      "Telangana": {
+        "live": {
+          "confirmed": 5406,
+          "date": "2020-06-17",
+          "deaths": 191,
+          "recovered": 3027
         }
       },
       "Unknown": {
         "live": {
-          "confirmed": 7684,
+          "confirmed": 8273,
           "date": "2020-06-17",
           "deaths": 0,
           "recovered": 0
@@ -659,18 +667,18 @@
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 13615,
+          "confirmed": 14091,
           "date": "2020-06-17",
-          "deaths": 399,
-          "recovered": 8268
+          "deaths": 417,
+          "recovered": 8610
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 11494,
+          "confirmed": 11909,
           "date": "2020-06-17",
-          "deaths": 485,
-          "recovered": 5494
+          "deaths": 495,
+          "recovered": 6028
         }
       }
     }
@@ -1127,14 +1135,6 @@
           "date": "2020-06-17",
           "deaths": 328,
           "recovered": 4780
-        }
-      },
-      "Kaluga Oblast": {
-        "live": {
-          "confirmed": 5246,
-          "date": "2020-06-17",
-          "deaths": 39,
-          "recovered": 2609
         }
       },
       "Krasnoyarsk Krai": {
