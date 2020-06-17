@@ -453,10 +453,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 189595,
+      "confirmed": 189462,
       "date": "2020-06-17",
       "deaths": 29484,
-      "recovered": 69943
+      "recovered": 69899
     }
   },
   "Germany": {
@@ -529,10 +529,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 12193,
+      "confirmed": 12590,
       "date": "2020-06-17",
-      "deaths": 58,
-      "recovered": 4326
+      "deaths": 66,
+      "recovered": 4410
     }
   },
   "Guatemala": {
@@ -693,10 +693,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 22700,
+      "confirmed": 24254,
       "date": "2020-06-17",
-      "deaths": 712,
-      "recovered": 9862
+      "deaths": 773,
+      "recovered": 10770
     }
   },
   "Ireland": {
@@ -789,7 +789,7 @@
         "live": {
           "confirmed": 5639,
           "date": "2020-06-17",
-          "deaths": 316,
+          "deaths": 317,
           "recovered": 4936
         }
       }
@@ -929,7 +929,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8660,
+      "confirmed": 8680,
       "date": "2020-06-17",
       "deaths": 243,
       "recovered": 8138
@@ -1415,9 +1415,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 41501,
+          "confirmed": 42557,
           "date": "2020-06-17",
-          "deaths": 1643,
+          "deaths": 1654,
           "recovered": 0
         }
       },
@@ -1455,9 +1455,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45238,
+          "confirmed": 45625,
           "date": "2020-06-17",
-          "deaths": 2073,
+          "deaths": 2091,
           "recovered": 0
         }
       },
@@ -1487,9 +1487,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5653,
+          "confirmed": 5669,
           "date": "2020-06-17",
-          "deaths": 503,
+          "deaths": 516,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 19724,
+          "confirmed": 19807,
           "date": "2020-06-17",
-          "deaths": 555,
+          "deaths": 556,
           "recovered": 0
         }
       },
