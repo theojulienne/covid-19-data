@@ -587,7 +587,7 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 7453,
+          "confirmed": 7482,
           "deaths": 151
         },
         "British Columbia": {
@@ -2493,19 +2493,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 12801,
-        "deaths": 361,
-        "recovered": 4040
+        "confirmed": 13464,
+        "deaths": 365,
+        "recovered": 4206
       },
       "back_2week": {
-        "confirmed": 10578,
-        "deaths": 299,
-        "recovered": 3122
+        "confirmed": 10819,
+        "deaths": 314,
+        "recovered": 3240
       },
       "latest": {
-        "confirmed": 16658,
-        "deaths": 424,
-        "recovered": 5349
+        "confirmed": 17148,
+        "deaths": 455,
+        "recovered": 5623
       }
     },
     "NIC": {
