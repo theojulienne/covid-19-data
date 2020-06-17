@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 94481,
+      "confirmed": 98489,
       "date": "2020-06-17",
-      "deaths": 1262,
-      "recovered": 36264
+      "deaths": 1305,
+      "recovered": 38189
     }
   },
   "Belarus": {
@@ -466,7 +466,7 @@
           "confirmed": 35181,
           "date": "2020-06-17",
           "deaths": 1811,
-          "recovered": 32907
+          "recovered": 33000
         }
       },
       "Bayern": {
@@ -474,7 +474,7 @@
           "confirmed": 47696,
           "date": "2020-06-17",
           "deaths": 2546,
-          "recovered": 44300
+          "recovered": 44400
         }
       },
       "Berlin": {
@@ -498,7 +498,7 @@
           "confirmed": 12968,
           "date": "2020-06-17",
           "deaths": 616,
-          "recovered": 11400
+          "recovered": 11600
         }
       },
       "Nordrhein-Westfalen": {
@@ -506,7 +506,7 @@
           "confirmed": 39573,
           "date": "2020-06-17",
           "deaths": 1655,
-          "recovered": 36400
+          "recovered": 36600
         }
       },
       "Rheinland-Pfalz": {
@@ -677,10 +677,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 40400,
+      "confirmed": 41431,
       "date": "2020-06-17",
-      "deaths": 2231,
-      "recovered": 15703
+      "deaths": 2276,
+      "recovered": 16243
     }
   },
   "Iran": {
@@ -800,7 +800,7 @@
       "confirmed": 15542,
       "date": "2020-06-17",
       "deaths": 88,
-      "recovered": 9647
+      "recovered": 9716
     }
   },
   "Korea, South": {
@@ -821,10 +821,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8505,
+      "confirmed": 8515,
       "date": "2020-06-17",
       "deaths": 121,
-      "recovered": 7733
+      "recovered": 7873
     }
   },
   "Mexico": {
@@ -891,8 +891,8 @@
     "live": {
       "confirmed": 12254,
       "date": "2020-06-17",
-      "deaths": 423,
-      "recovered": 6901
+      "deaths": 427,
+      "recovered": 7077
     }
   },
   "Morocco": {
@@ -937,10 +937,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 25269,
+      "confirmed": 26079,
       "date": "2020-06-17",
-      "deaths": 114,
-      "recovered": 11089
+      "deaths": 116,
+      "recovered": 11797
     }
   },
   "Pakistan": {
@@ -1081,17 +1081,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 26781,
+      "confirmed": 27238,
       "date": "2020-06-17",
-      "deaths": 1103,
-      "recovered": 6552
+      "deaths": 1108,
+      "recovered": 6820
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 30195,
+      "confirmed": 30701,
       "date": "2020-06-17",
-      "deaths": 1272,
+      "deaths": 1286,
       "recovered": 14921
     }
   },
