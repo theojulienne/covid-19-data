@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 19553,
       "date": "2020-06-17",
-      "deaths": 48,
+      "deaths": 49,
       "recovered": 13866
     }
   },
@@ -134,7 +134,7 @@
           "confirmed": 81289,
           "date": "2020-06-17",
           "deaths": 5070,
-          "recovered": 59901
+          "recovered": 61963
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 25380,
           "date": "2020-06-17",
           "deaths": 348,
-          "recovered": 15172
+          "recovered": 16621
         }
       },
       "Espirito Santo": {
@@ -182,7 +182,7 @@
           "confirmed": 22024,
           "date": "2020-06-17",
           "deaths": 502,
-          "recovered": 11826
+          "recovered": 12695
         }
       },
       "Para": {
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 34215,
+          "confirmed": 34258,
           "date": "2020-06-17",
           "deaths": 2601,
-          "recovered": 28752
+          "recovered": 28835
         }
       },
       "Quebec": {
@@ -807,7 +807,7 @@
     "live": {
       "confirmed": 15542,
       "date": "2020-06-17",
-      "deaths": 88,
+      "deaths": 97,
       "recovered": 9920
     }
   },
@@ -905,10 +905,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 8985,
+      "confirmed": 8997,
       "date": "2020-06-17",
-      "deaths": 212,
-      "recovered": 7960
+      "deaths": 213,
+      "recovered": 7993
     }
   },
   "Nepal": {
@@ -1245,10 +1245,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 76334,
+      "confirmed": 80412,
       "date": "2020-06-17",
-      "deaths": 1625,
-      "recovered": 42063
+      "deaths": 1674,
+      "recovered": 44331
     }
   },
   "Spain": {
@@ -1479,9 +1479,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40268,
+          "confirmed": 40383,
           "date": "2020-06-17",
-          "deaths": 4635,
+          "deaths": 4637,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 45014,
+          "confirmed": 45078,
           "date": "2020-06-17",
           "deaths": 3473,
           "recovered": 0
@@ -1625,10 +1625,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 42982,
+      "confirmed": 43364,
       "date": "2020-06-17",
-      "deaths": 293,
-      "recovered": 28861
+      "deaths": 295,
+      "recovered": 29537
     }
   },
   "United Kingdom": {
