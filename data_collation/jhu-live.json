@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 19073,
+      "confirmed": 19883,
       "date": "2020-06-17",
-      "deaths": 632,
-      "recovered": 3430
+      "deaths": 659,
+      "recovered": 3752
     }
   },
   "Brazil": {
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 34172,
+          "confirmed": 34174,
           "date": "2020-06-17",
           "deaths": 2595,
-          "recovered": 27884
+          "recovered": 27887
         }
       },
       "Quebec": {
@@ -797,7 +797,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 15192,
+      "confirmed": 15542,
       "date": "2020-06-17",
       "deaths": 88,
       "recovered": 9647
@@ -947,42 +947,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 8327,
+          "confirmed": 8437,
           "date": "2020-06-17",
-          "deaths": 85,
-          "recovered": 2916
+          "deaths": 89,
+          "recovered": 3023
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 8857,
+          "confirmed": 9242,
           "date": "2020-06-17",
-          "deaths": 83,
-          "recovered": 2037
+          "deaths": 90,
+          "recovered": 2439
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 18472,
+          "confirmed": 19107,
           "date": "2020-06-17",
-          "deaths": 707,
-          "recovered": 4692
+          "deaths": 731,
+          "recovered": 4922
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 55878,
+          "confirmed": 58239,
           "date": "2020-06-17",
-          "deaths": 1081,
-          "recovered": 17730
+          "deaths": 1149,
+          "recovered": 17780
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 55581,
+          "confirmed": 57868,
           "date": "2020-06-17",
-          "deaths": 853,
-          "recovered": 28023
+          "deaths": 886,
+          "recovered": 29245
         }
       }
     }
