@@ -597,7 +597,7 @@ var covid19_dataset_country_kaz = {
       9188,
       9388,
       9647,
-      9716
+      9920
     ]
   }
 };
