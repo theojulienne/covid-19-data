@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 19961,
       "date": "2020-06-18",
-      "deaths": 52,
+      "deaths": 53,
       "recovered": 14185
     }
   },
@@ -421,7 +421,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 12334,
+      "confirmed": 12344,
       "date": "2020-06-18",
       "deaths": 600,
       "recovered": 11242
@@ -453,7 +453,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 7117,
+      "confirmed": 7119,
       "date": "2020-06-18",
       "deaths": 326,
       "recovered": 6200
@@ -461,7 +461,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 189887,
+      "confirmed": 189849,
       "date": "2020-06-18",
       "deaths": 29512,
       "recovered": 70223
@@ -937,7 +937,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8692,
+      "confirmed": 8707,
       "date": "2020-06-18",
       "deaths": 244,
       "recovered": 8138
@@ -1415,9 +1415,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 9847,
+          "confirmed": 9903,
           "date": "2020-06-18",
-          "deaths": 523,
+          "deaths": 527,
           "recovered": 0
         }
       },
@@ -1463,9 +1463,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45625,
+          "confirmed": 45805,
           "date": "2020-06-18",
-          "deaths": 2091,
+          "deaths": 2102,
           "recovered": 0
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5669,
+          "confirmed": 5731,
           "date": "2020-06-18",
-          "deaths": 516,
+          "deaths": 544,
           "recovered": 0
         }
       },
