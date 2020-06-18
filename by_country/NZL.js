@@ -1637,7 +1637,7 @@ var covid19_dataset_country_nzl = {
       294848,
       294848,
       301882,
-      null,
+      301882,
       null,
       null,
       null
