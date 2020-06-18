@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 13675,
-        "deaths": 217,
-        "recovered": 4451
+        "confirmed": 14103,
+        "deaths": 227,
+        "recovered": 5226
       },
       "back_2week": {
-        "confirmed": 10009,
-        "deaths": 158,
-        "recovered": 3427
+        "confirmed": 10524,
+        "deaths": 170,
+        "recovered": 3454
       },
       "latest": {
-        "confirmed": 17489,
-        "deaths": 293,
-        "recovered": 6571
+        "confirmed": 18033,
+        "deaths": 302,
+        "recovered": 6814
       }
     },
     "ATG": {
@@ -1034,17 +1034,17 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 9751,
+        "confirmed": 9824,
         "deaths": 328,
         "recovered": 7053
       },
       "back_2week": {
-        "confirmed": 9364,
+        "confirmed": 9438,
         "deaths": 323,
         "recovered": 6686
       },
       "latest": {
-        "confirmed": 10111,
+        "confirmed": 10162,
         "deaths": 331,
         "recovered": 7358
       }
@@ -2222,18 +2222,18 @@
     "MDA": {
       "back_1week": {
         "confirmed": 10025,
-        "deaths": 365,
-        "recovered": 5797
+        "deaths": 371,
+        "recovered": 5930
       },
       "back_2week": {
         "confirmed": 8548,
-        "deaths": 307,
-        "recovered": 4738
+        "deaths": 310,
+        "recovered": 4863
       },
       "latest": {
         "confirmed": 12254,
-        "deaths": 423,
-        "recovered": 6901
+        "deaths": 433,
+        "recovered": 7077
       }
     },
     "MDG": {
@@ -2730,17 +2730,17 @@
       "back_1week": {
         "confirmed": 27560,
         "deaths": 1183,
-        "recovered": 13196
+        "recovered": 13411
       },
       "back_2week": {
         "confirmed": 24395,
         "deaths": 1092,
-        "recovered": 11726
+        "recovered": 12014
       },
       "latest": {
         "confirmed": 30195,
         "deaths": 1272,
-        "recovered": 14654
+        "recovered": 14921
       }
     },
     "PRT": {
