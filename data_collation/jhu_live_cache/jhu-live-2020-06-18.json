@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 19883,
+      "confirmed": 20685,
       "date": "2020-06-18",
-      "deaths": 659,
-      "recovered": 3752
+      "deaths": 679,
+      "recovered": 4002
     }
   },
   "Brazil": {
@@ -190,7 +190,7 @@
           "confirmed": 74192,
           "date": "2020-06-18",
           "deaths": 4350,
-          "recovered": 55864
+          "recovered": 63944
         }
       },
       "Paraiba": {
@@ -198,7 +198,7 @@
           "confirmed": 31712,
           "date": "2020-06-18",
           "deaths": 696,
-          "recovered": 7500
+          "recovered": 7972
         }
       },
       "Parana": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 9656,
+      "confirmed": 10299,
       "date": "2020-06-18",
-      "deaths": 330,
-      "recovered": 1075
+      "deaths": 336,
+      "recovered": 1116
     }
   },
   "India": {
@@ -1575,9 +1575,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 41055,
+          "confirmed": 41235,
           "date": "2020-06-18",
-          "deaths": 798,
+          "deaths": 799,
           "recovered": 0
         }
       },
