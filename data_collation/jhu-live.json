@@ -319,7 +319,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 34369,
+          "confirmed": 34382,
           "date": "2020-06-18",
           "deaths": 2607,
           "recovered": 29047
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 10706,
+      "confirmed": 11251,
       "date": "2020-06-18",
-      "deaths": 418,
-      "recovered": 2096
+      "deaths": 432,
+      "recovered": 2200
     }
   },
   "Honduras": {
@@ -805,10 +805,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12198,
+      "confirmed": 12257,
       "date": "2020-06-18",
-      "deaths": 279,
-      "recovered": 10774
+      "deaths": 280,
+      "recovered": 10800
     }
   },
   "Kuwait": {
