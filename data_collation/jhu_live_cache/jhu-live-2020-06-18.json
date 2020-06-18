@@ -717,10 +717,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 19894,
+      "confirmed": 19998,
       "date": "2020-06-18",
       "deaths": 303,
-      "recovered": 15499
+      "recovered": 15518
     }
   },
   "Italy": {
@@ -1423,17 +1423,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 5658,
+          "confirmed": 5753,
           "date": "2020-06-18",
-          "deaths": 158,
+          "deaths": 159,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 116982,
+          "confirmed": 117449,
           "date": "2020-06-18",
-          "deaths": 5672,
+          "deaths": 5718,
           "recovered": 0
         }
       },
@@ -1471,9 +1471,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40383,
+          "confirmed": 40478,
           "date": "2020-06-18",
-          "deaths": 4637,
+          "deaths": 4648,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 7809,
+          "confirmed": 8083,
           "date": "2020-06-18",
-          "deaths": 99,
+          "deaths": 100,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 9750,
+          "confirmed": 9945,
           "date": "2020-06-18",
-          "deaths": 356,
+          "deaths": 360,
           "recovered": 0
         }
       }
