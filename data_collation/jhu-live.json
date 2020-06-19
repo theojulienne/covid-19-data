@@ -717,10 +717,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 20036,
+      "confirmed": 20243,
       "date": "2020-06-19",
-      "deaths": 303,
-      "recovered": 15518
+      "deaths": 304,
+      "recovered": 15567
     }
   },
   "Italy": {
@@ -808,7 +808,7 @@
       "confirmed": 16351,
       "date": "2020-06-19",
       "deaths": 105,
-      "recovered": 10139
+      "recovered": 10195
     }
   },
   "Korea, South": {
@@ -1081,10 +1081,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 27799,
+      "confirmed": 28459,
       "date": "2020-06-19",
-      "deaths": 1116,
-      "recovered": 7090
+      "deaths": 1130,
+      "recovered": 7378
     }
   },
   "Poland": {
@@ -1245,7 +1245,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 41473,
+      "confirmed": 41615,
       "date": "2020-06-19",
       "deaths": 26,
       "recovered": 32712
