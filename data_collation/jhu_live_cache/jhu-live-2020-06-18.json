@@ -421,10 +421,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10230,
+      "confirmed": 10280,
       "date": "2020-06-18",
       "deaths": 334,
-      "recovered": 7436
+      "recovered": 7440
     }
   },
   "Denmark": {
@@ -929,15 +929,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 17735,
+      "confirmed": 18480,
       "date": "2020-06-18",
-      "deaths": 469,
-      "recovered": 5967
+      "deaths": 475,
+      "recovered": 6307
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8707,
+      "confirmed": 8708,
       "date": "2020-06-18",
       "deaths": 244,
       "recovered": 8138
@@ -1383,9 +1383,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 116836,
+          "confirmed": 117352,
           "date": "2020-06-18",
-          "deaths": 4199,
+          "deaths": 4208,
           "recovered": 0
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 5953,
+          "confirmed": 6058,
           "date": "2020-06-18",
-          "deaths": 69,
+          "deaths": 72,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 41907,
+          "confirmed": 42299,
           "date": "2020-06-18",
-          "deaths": 812,
+          "deaths": 817,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 14536,
+          "confirmed": 14740,
           "date": "2020-06-18",
-          "deaths": 713,
+          "deaths": 725,
           "recovered": 0
         }
       },
