@@ -529,16 +529,16 @@
         "live": {
           "confirmed": 40434,
           "date": "2020-06-19",
-          "deaths": 1658,
+          "deaths": 1660,
           "recovered": 36600
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6883,
+          "confirmed": 6889,
           "date": "2020-06-19",
           "deaths": 234,
-          "recovered": 6479
+          "recovered": 6497
         }
       }
     }
@@ -1221,10 +1221,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 145991,
+      "confirmed": 150292,
       "date": "2020-06-19",
-      "deaths": 1139,
-      "recovered": 93915
+      "deaths": 1184,
+      "recovered": 95764
     }
   },
   "Senegal": {
@@ -1237,10 +1237,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 12616,
+      "confirmed": 12709,
       "date": "2020-06-19",
-      "deaths": 258,
-      "recovered": 11769
+      "deaths": 259,
+      "recovered": 11822
     }
   },
   "Singapore": {
@@ -1559,7 +1559,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 6111,
+          "confirmed": 6195,
           "date": "2020-06-19",
           "deaths": 147,
           "recovered": 0
@@ -1669,10 +1669,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 5855,
+      "confirmed": 5920,
       "date": "2020-06-19",
       "deaths": 19,
-      "recovered": 4199
+      "recovered": 4273
     }
   }
 }
