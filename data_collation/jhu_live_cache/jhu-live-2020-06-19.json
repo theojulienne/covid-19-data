@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 34627,
+          "confirmed": 34655,
           "date": "2020-06-19",
           "deaths": 2624,
-          "recovered": 29379
+          "recovered": 29382
         }
       },
       "Quebec": {
@@ -453,18 +453,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 49097,
+      "confirmed": 49731,
       "date": "2020-06-19",
-      "deaths": 4087,
-      "recovered": 24123
+      "deaths": 4156,
+      "recovered": 24446
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 50437,
+      "confirmed": 52211,
       "date": "2020-06-19",
-      "deaths": 1938,
-      "recovered": 13528
+      "deaths": 2017,
+      "recovered": 13928
     }
   },
   "Finland": {
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 190107,
+      "confirmed": 190696,
       "date": "2020-06-19",
-      "deaths": 29540,
-      "recovered": 70322
+      "deaths": 29554,
+      "recovered": 70496
     }
   },
   "Germany": {
@@ -503,10 +503,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 7603,
+          "confirmed": 7732,
           "date": "2020-06-19",
           "deaths": 211,
-          "recovered": 6806
+          "recovered": 6850
         }
       },
       "Hessen": {
@@ -905,9 +905,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 13106,
+      "confirmed": 13556,
       "date": "2020-06-19",
-      "deaths": 449,
+      "deaths": 450,
       "recovered": 7525
     }
   },
@@ -1135,14 +1135,6 @@
           "date": "2020-06-19",
           "deaths": 341,
           "recovered": 4854
-        }
-      },
-      "Kaluga Oblast": {
-        "live": {
-          "confirmed": 5462,
-          "date": "2020-06-19",
-          "deaths": 42,
-          "recovered": 2784
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
@@ -1479,9 +1471,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40478,
+          "confirmed": 40603,
           "date": "2020-06-19",
-          "deaths": 4648,
+          "deaths": 4649,
           "recovered": 0
         }
       },
@@ -1519,9 +1511,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 145816,
+          "confirmed": 145824,
           "date": "2020-06-19",
-          "deaths": 11098,
+          "deaths": 11099,
           "recovered": 0
         }
       },
@@ -1543,15 +1535,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 7487,
+          "confirmed": 13071,
           "date": "2020-06-19",
-          "deaths": 342,
+          "deaths": 682,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 45282,
+          "confirmed": 45400,
           "date": "2020-06-19",
           "deaths": 3515,
           "recovered": 0
@@ -1615,9 +1607,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 9945,
+          "confirmed": 10049,
           "date": "2020-06-19",
-          "deaths": 360,
+          "deaths": 362,
           "recovered": 0
         }
       }
