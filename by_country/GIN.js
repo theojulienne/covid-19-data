@@ -301,7 +301,8 @@ var covid19_dataset_country_gin = {
       4532,
       4572,
       4639,
-      4668
+      4668,
+      4841
     ],
     "deaths": [
       0,
@@ -449,6 +450,7 @@ var covid19_dataset_country_gin = {
       24,
       25,
       25,
+      26,
       26,
       26,
       26
@@ -601,7 +603,8 @@ var covid19_dataset_country_gin = {
       3234,
       3259,
       3327,
-      3364
+      3364,
+      3467
     ]
   }
 };

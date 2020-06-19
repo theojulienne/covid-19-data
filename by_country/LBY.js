@@ -301,7 +301,8 @@ var covid19_dataset_country_lby = {
       454,
       467,
       484,
-      500
+      500,
+      510
     ],
     "deaths": [
       0,
@@ -448,6 +449,7 @@ var covid19_dataset_country_lby = {
       5,
       6,
       8,
+      10,
       10,
       10,
       10,
@@ -601,7 +603,8 @@ var covid19_dataset_country_lby = {
       63,
       70,
       76,
-      78
+      78,
+      81
     ]
   }
 };
