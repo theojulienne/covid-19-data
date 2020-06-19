@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 99159,
-        "deaths": 8038,
+        "deaths": 8071,
         "recovered": 57215
       },
       "back_2week": {
         "confirmed": 95269,
-        "deaths": 7579,
+        "deaths": 7717,
         "recovered": 51506
       },
       "latest": {
         "confirmed": 101877,
-        "deaths": 8312,
+        "deaths": 8361,
         "recovered": 63280
       },
       "states": {
@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 34574,
-          "deaths": 2607
+          "deaths": 2613
         },
         "Prince Edward Island": {
           "confirmed": 27,
@@ -1131,19 +1131,19 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 20808,
-        "deaths": 550,
-        "recovered": 12318
+        "confirmed": 21437,
+        "deaths": 561,
+        "recovered": 12541
       },
       "back_2week": {
-        "confirmed": 18040,
-        "deaths": 516,
-        "recovered": 11224
+        "confirmed": 18319,
+        "deaths": 520,
+        "recovered": 11474
       },
       "latest": {
-        "confirmed": 24105,
-        "deaths": 633,
-        "recovered": 14216
+        "confirmed": 24645,
+        "deaths": 635,
+        "recovered": 14293
       }
     },
     "DZA": {
@@ -2745,19 +2745,19 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 35600,
-        "deaths": 1497,
-        "recovered": 21742
+        "confirmed": 35910,
+        "deaths": 1504,
+        "recovered": 22002
       },
       "back_2week": {
-        "confirmed": 33261,
-        "deaths": 1447,
-        "recovered": 20079
+        "confirmed": 33592,
+        "deaths": 1455,
+        "recovered": 20323
       },
       "latest": {
-        "confirmed": 37672,
-        "deaths": 1523,
-        "recovered": 23580
+        "confirmed": 38089,
+        "deaths": 1524,
+        "recovered": 24010
       }
     },
     "PRY": {
