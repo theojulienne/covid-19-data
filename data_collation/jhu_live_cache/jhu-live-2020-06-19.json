@@ -805,10 +805,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 15877,
+      "confirmed": 16351,
       "date": "2020-06-19",
-      "deaths": 100,
-      "recovered": 10065
+      "deaths": 105,
+      "recovered": 10139
     }
   },
   "Korea, South": {
@@ -1661,10 +1661,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 5767,
+      "confirmed": 5855,
       "date": "2020-06-19",
       "deaths": 19,
-      "recovered": 4166
+      "recovered": 4199
     }
   }
 }
