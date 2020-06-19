@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 20430,
+      "confirmed": 20916,
       "date": "2020-06-19",
       "deaths": 57,
-      "recovered": 14696
+      "recovered": 15287
     }
   },
   "Bangladesh": {
@@ -319,9 +319,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 34709,
+          "confirmed": 34725,
           "date": "2020-06-19",
-          "deaths": 2624,
+          "deaths": 2625,
           "recovered": 29454
         }
       },
@@ -411,14 +411,6 @@
       }
     }
   },
-  "Congo (Kinshasa)": {
-    "live": {
-      "confirmed": 5477,
-      "date": "2020-06-19",
-      "deaths": 122,
-      "recovered": 719
-    }
-  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 6874,
@@ -477,7 +469,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 190694,
+      "confirmed": 190679,
       "date": "2020-06-19",
       "deaths": 29554,
       "recovered": 70496
@@ -1521,7 +1513,7 @@
         "live": {
           "confirmed": 359437,
           "date": "2020-06-19",
-          "deaths": 29519,
+          "deaths": 29523,
           "recovered": 0
         }
       },
@@ -1575,9 +1567,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 42299,
+          "confirmed": 49268,
           "date": "2020-06-19",
-          "deaths": 817,
+          "deaths": 917,
           "recovered": 0
         }
       },
