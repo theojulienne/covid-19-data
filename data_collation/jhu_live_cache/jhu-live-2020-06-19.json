@@ -301,10 +301,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 9864,
+      "confirmed": 10638,
       "date": "2020-06-19",
-      "deaths": 276,
-      "recovered": 5570
+      "deaths": 282,
+      "recovered": 7548
     }
   },
   "Canada": {
@@ -487,15 +487,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47747,
+          "confirmed": 47799,
           "date": "2020-06-19",
-          "deaths": 2556,
+          "deaths": 2562,
           "recovered": 44500
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7602,
+          "confirmed": 7603,
           "date": "2020-06-19",
           "deaths": 211,
           "recovered": 6806
@@ -503,15 +503,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10440,
+          "confirmed": 10503,
           "date": "2020-06-19",
-          "deaths": 498,
+          "deaths": 499,
           "recovered": 9600
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13063,
+          "confirmed": 13097,
           "date": "2020-06-19",
           "deaths": 620,
           "recovered": 11600
@@ -527,7 +527,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6875,
+          "confirmed": 6883,
           "date": "2020-06-19",
           "deaths": 234,
           "recovered": 6479
