@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 37510,
       "date": "2020-06-19",
-      "deaths": 948,
-      "recovered": 10721
+      "deaths": 954,
+      "recovered": 11851
     }
   },
   "Armenia": {
@@ -945,7 +945,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8708,
+      "confirmed": 8721,
       "date": "2020-06-19",
       "deaths": 244,
       "recovered": 8138
@@ -1248,7 +1248,7 @@
       "confirmed": 41615,
       "date": "2020-06-19",
       "deaths": 26,
-      "recovered": 32712
+      "recovered": 33459
     }
   },
   "South Africa": {
@@ -1463,9 +1463,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45805,
+          "confirmed": 45978,
           "date": "2020-06-19",
-          "deaths": 2102,
+          "deaths": 2115,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 19893,
+          "confirmed": 20000,
           "date": "2020-06-19",
-          "deaths": 558,
+          "deaths": 563,
           "recovered": 0
         }
       },
