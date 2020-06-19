@@ -81,9 +81,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 20685,
+      "confirmed": 21499,
       "date": "2020-06-19",
-      "deaths": 679,
+      "deaths": 697,
       "recovered": 4002
     }
   },
@@ -174,7 +174,7 @@
           "confirmed": 7512,
           "date": "2020-06-19",
           "deaths": 281,
-          "recovered": 2401
+          "recovered": 2766
         }
       },
       "Minas Gerais": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 10299,
+      "confirmed": 10739,
       "date": "2020-06-19",
-      "deaths": 336,
-      "recovered": 1116
+      "deaths": 343,
+      "recovered": 1179
     }
   },
   "India": {
