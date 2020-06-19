@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 56657,
+      "confirmed": 57333,
       "date": "2020-06-19",
-      "deaths": 331,
-      "recovered": 34023
+      "deaths": 337,
+      "recovered": 35275
     }
   },
   "Belgium": {
@@ -411,6 +411,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 5477,
+      "date": "2020-06-19",
+      "deaths": 122,
+      "recovered": 719
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 6444,
@@ -693,10 +701,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 197647,
+      "confirmed": 200262,
       "date": "2020-06-19",
-      "deaths": 9272,
-      "recovered": 156991
+      "deaths": 9392,
+      "recovered": 159192
     }
   },
   "Iraq": {
@@ -913,10 +921,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 7848,
+      "confirmed": 8274,
       "date": "2020-06-19",
       "deaths": 22,
-      "recovered": 1186
+      "recovered": 1402
     }
   },
   "Netherlands": {
@@ -1207,14 +1215,6 @@
           "date": "2020-06-19",
           "deaths": 75,
           "recovered": 4258
-        }
-      },
-      "Voronezh Oblast": {
-        "live": {
-          "confirmed": 5461,
-          "date": "2020-06-19",
-          "deaths": 30,
-          "recovered": 2861
         }
       }
     }
@@ -1625,10 +1625,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 43752,
+      "confirmed": 44145,
       "date": "2020-06-19",
-      "deaths": 298,
-      "recovered": 30241
+      "deaths": 300,
+      "recovered": 30996
     }
   },
   "United Kingdom": {
