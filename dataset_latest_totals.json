@@ -864,19 +864,19 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 4181,
+        "confirmed": 4404,
         "deaths": 41,
-        "recovered": 2174
+        "recovered": 2212
       },
       "back_2week": {
-        "confirmed": 3110,
+        "confirmed": 3262,
         "deaths": 35,
-        "recovered": 1530
+        "recovered": 1584
       },
       "latest": {
-        "confirmed": 6063,
+        "confirmed": 6444,
         "deaths": 48,
-        "recovered": 2749
+        "recovered": 2863
       }
     },
     "CMR": {
@@ -3837,19 +3837,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 55421,
-        "deaths": 1210,
-        "recovered": 31505
+        "confirmed": 58568,
+        "deaths": 1284,
+        "recovered": 33252
       },
       "back_2week": {
-        "confirmed": 37525,
-        "deaths": 792,
-        "recovered": 19682
+        "confirmed": 40792,
+        "deaths": 848,
+        "recovered": 21311
       },
       "latest": {
-        "confirmed": 80412,
-        "deaths": 1674,
-        "recovered": 44331
+        "confirmed": 83890,
+        "deaths": 1737,
+        "recovered": 44920
       }
     },
     "ZMB": {
