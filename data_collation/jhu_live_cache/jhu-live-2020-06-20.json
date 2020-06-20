@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 20916,
       "date": "2020-06-20",
-      "deaths": 58,
+      "deaths": 59,
       "recovered": 15287
     }
   },
@@ -945,7 +945,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8726,
+      "confirmed": 8733,
       "date": "2020-06-20",
       "deaths": 244,
       "recovered": 8138
@@ -1221,10 +1221,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 150292,
+      "confirmed": 154233,
       "date": "2020-06-20",
-      "deaths": 1184,
-      "recovered": 95764
+      "deaths": 1230,
+      "recovered": 98917
     }
   },
   "Senegal": {
@@ -1237,10 +1237,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 12709,
+      "confirmed": 12803,
       "date": "2020-06-20",
-      "deaths": 259,
-      "recovered": 11822
+      "deaths": 260,
+      "recovered": 11889
     }
   },
   "Singapore": {
