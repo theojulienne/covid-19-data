@@ -102,7 +102,7 @@
           "confirmed": 26906,
           "date": "2020-06-19",
           "deaths": 848,
-          "recovered": 17941
+          "recovered": 19154
         }
       },
       "Amapa": {
@@ -166,7 +166,7 @@
           "confirmed": 68500,
           "date": "2020-06-19",
           "deaths": 1645,
-          "recovered": 41773
+          "recovered": 43830
         }
       },
       "Mato Grosso": {
@@ -254,7 +254,7 @@
           "confirmed": 14353,
           "date": "2020-06-19",
           "deaths": 391,
-          "recovered": 4958
+          "recovered": 5263
         }
       },
       "Roraima": {
@@ -270,7 +270,7 @@
           "confirmed": 16322,
           "date": "2020-06-19",
           "deaths": 234,
-          "recovered": 12633
+          "recovered": 13599
         }
       },
       "Sao Paulo": {
@@ -421,10 +421,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10361,
+      "confirmed": 10406,
       "date": "2020-06-19",
       "deaths": 335,
-      "recovered": 7472
+      "recovered": 7473
     }
   },
   "Denmark": {
@@ -937,7 +937,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8721,
+      "confirmed": 8726,
       "date": "2020-06-19",
       "deaths": 244,
       "recovered": 8138
@@ -1487,9 +1487,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 6058,
+          "confirmed": 6169,
           "date": "2020-06-19",
-          "deaths": 72,
+          "deaths": 77,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 49268,
+          "confirmed": 49662,
           "date": "2020-06-19",
-          "deaths": 917,
+          "deaths": 921,
           "recovered": 0
         }
       },
