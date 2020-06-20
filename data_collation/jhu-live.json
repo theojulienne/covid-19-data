@@ -527,7 +527,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 40372,
+          "confirmed": 40434,
           "date": "2020-06-20",
           "deaths": 1663,
           "recovered": 36800
@@ -538,7 +538,7 @@
           "confirmed": 6903,
           "date": "2020-06-20",
           "deaths": 234,
-          "recovered": 6497
+          "recovered": 6507
         }
       }
     }
@@ -921,10 +921,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 8274,
+      "confirmed": 8605,
       "date": "2020-06-20",
       "deaths": 22,
-      "recovered": 1402
+      "recovered": 1578
     }
   },
   "Netherlands": {
@@ -1089,10 +1089,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 28459,
+      "confirmed": 29400,
       "date": "2020-06-20",
-      "deaths": 1130,
-      "recovered": 7378
+      "deaths": 1150,
+      "recovered": 7650
     }
   },
   "Poland": {
@@ -1229,10 +1229,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 5639,
+      "confirmed": 5783,
       "date": "2020-06-20",
-      "deaths": 79,
-      "recovered": 3788
+      "deaths": 82,
+      "recovered": 3859
     }
   },
   "Serbia": {
@@ -1365,7 +1365,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31235,
+      "confirmed": 31243,
       "date": "2020-06-20",
       "deaths": 1956,
       "recovered": 28900
@@ -1625,10 +1625,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 44145,
+      "confirmed": 44533,
       "date": "2020-06-20",
-      "deaths": 300,
-      "recovered": 30996
+      "deaths": 301,
+      "recovered": 31754
     }
   },
   "United Kingdom": {
