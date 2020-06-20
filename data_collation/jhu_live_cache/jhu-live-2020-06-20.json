@@ -1375,9 +1375,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 121073,
+          "confirmed": 121094,
           "date": "2020-06-20",
-          "deaths": 4294,
+          "deaths": 4295,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 7804,
+          "confirmed": 8166,
           "date": "2020-06-20",
-          "deaths": 130,
+          "deaths": 131,
           "recovered": 0
         }
       },
