@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17271,
+      "confirmed": 17323,
       "date": "2020-06-20",
       "deaths": 688,
-      "recovered": 16141
+      "recovered": 16175
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 57333,
+      "confirmed": 57936,
       "date": "2020-06-20",
-      "deaths": 337,
-      "recovered": 35275
+      "deaths": 343,
+      "recovered": 36749
     }
   },
   "Belgium": {
@@ -118,7 +118,7 @@
           "confirmed": 61683,
           "date": "2020-06-20",
           "deaths": 2624,
-          "recovered": 49178
+          "recovered": 49965
         }
       },
       "Bahia": {
@@ -134,7 +134,7 @@
           "confirmed": 89863,
           "date": "2020-06-20",
           "deaths": 5460,
-          "recovered": 65927
+          "recovered": 65980
         }
       },
       "Distrito Federal": {
@@ -174,7 +174,7 @@
           "confirmed": 8353,
           "date": "2020-06-20",
           "deaths": 309,
-          "recovered": 2766
+          "recovered": 3010
         }
       },
       "Minas Gerais": {
@@ -198,7 +198,7 @@
           "confirmed": 35093,
           "date": "2020-06-20",
           "deaths": 724,
-          "recovered": 7978
+          "recovered": 9366
         }
       },
       "Parana": {
@@ -214,7 +214,7 @@
           "confirmed": 49720,
           "date": "2020-06-20",
           "deaths": 4102,
-          "recovered": 30986
+          "recovered": 32008
         }
       },
       "Piaui": {
@@ -262,7 +262,7 @@
           "confirmed": 7650,
           "date": "2020-06-20",
           "deaths": 239,
-          "recovered": 1785
+          "recovered": 2786
         }
       },
       "Santa Catarina": {
@@ -409,6 +409,14 @@
           "recovered": 2452
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 5672,
+      "date": "2020-06-20",
+      "deaths": 125,
+      "recovered": 807
     }
   },
   "Cote d'Ivoire": {
@@ -693,10 +701,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 200262,
+      "confirmed": 202584,
       "date": "2020-06-20",
-      "deaths": 9392,
-      "recovered": 159192
+      "deaths": 9507,
+      "recovered": 161384
     }
   },
   "Iraq": {
@@ -1113,10 +1121,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 23400,
+      "confirmed": 23730,
       "date": "2020-06-20",
-      "deaths": 1484,
-      "recovered": 16555
+      "deaths": 1500,
+      "recovered": 16735
     }
   },
   "Russia": {
@@ -1127,14 +1135,6 @@
           "date": "2020-06-20",
           "deaths": 344,
           "recovered": 4905
-        }
-      },
-      "Kaluga Oblast": {
-        "live": {
-          "confirmed": 5522,
-          "date": "2020-06-20",
-          "deaths": 42,
-          "recovered": 2853
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
