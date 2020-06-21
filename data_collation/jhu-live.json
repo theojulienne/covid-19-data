@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 22476,
+      "confirmed": 23512,
       "date": "2020-06-21",
-      "deaths": 715,
-      "recovered": 4670
+      "deaths": 740,
+      "recovered": 5086
     }
   },
   "Brazil": {
