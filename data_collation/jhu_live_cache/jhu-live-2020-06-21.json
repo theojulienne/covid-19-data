@@ -929,9 +929,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 49502,
+      "confirmed": 49593,
       "date": "2020-06-21",
-      "deaths": 6089,
+      "deaths": 6090,
       "recovered": 0
     }
   },
@@ -1105,18 +1105,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 38841,
+      "confirmed": 39133,
       "date": "2020-06-21",
-      "deaths": 1528,
-      "recovered": 24906
+      "deaths": 1530,
+      "recovered": 25376
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 86488,
+      "confirmed": 87369,
       "date": "2020-06-21",
-      "deaths": 94,
-      "recovered": 66763
+      "deaths": 98,
+      "recovered": 68319
     }
   },
   "Romania": {
@@ -1229,10 +1229,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 5783,
+      "confirmed": 5888,
       "date": "2020-06-21",
-      "deaths": 82,
-      "recovered": 3859
+      "deaths": 84,
+      "recovered": 3919
     }
   },
   "Serbia": {
