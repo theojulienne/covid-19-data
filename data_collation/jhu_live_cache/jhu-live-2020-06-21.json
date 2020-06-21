@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 41204,
       "date": "2020-06-21",
-      "deaths": 992,
-      "recovered": 12206
+      "deaths": 1000,
+      "recovered": 12728
     }
   },
   "Armenia": {
@@ -1221,10 +1221,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 154233,
+      "confirmed": 157612,
       "date": "2020-06-21",
-      "deaths": 1230,
-      "recovered": 98917
+      "deaths": 1267,
+      "recovered": 101130
     }
   },
   "Senegal": {
@@ -1237,10 +1237,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 12803,
+      "confirmed": 12894,
       "date": "2020-06-21",
-      "deaths": 260,
-      "recovered": 11889
+      "deaths": 261,
+      "recovered": 11947
     }
   },
   "Singapore": {
@@ -1559,9 +1559,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 6463,
+          "confirmed": 6525,
           "date": "2020-06-21",
-          "deaths": 147,
+          "deaths": 149,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20148,
+          "confirmed": 20298,
           "date": "2020-06-21",
-          "deaths": 566,
+          "deaths": 568,
           "recovered": 0
         }
       },
@@ -1669,7 +1669,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 6216,
+      "confirmed": 6272,
       "date": "2020-06-21",
       "deaths": 19,
       "recovered": 4290
