@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 11258,
+      "confirmed": 12306,
       "date": "2020-06-21",
-      "deaths": 349,
-      "recovered": 1214
+      "deaths": 358,
+      "recovered": 1275
     }
   },
   "India": {
