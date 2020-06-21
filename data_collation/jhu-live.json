@@ -445,10 +445,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 25778,
+      "confirmed": 26677,
       "date": "2020-06-21",
-      "deaths": 655,
-      "recovered": 14957
+      "deaths": 662,
+      "recovered": 15138
     }
   },
   "Ecuador": {
@@ -905,9 +905,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 13953,
+      "confirmed": 14200,
       "date": "2020-06-21",
-      "deaths": 465,
+      "deaths": 473,
       "recovered": 7896
     }
   },
@@ -1423,9 +1423,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 46423,
+          "confirmed": 47699,
           "date": "2020-06-21",
-          "deaths": 1712,
+          "deaths": 1725,
           "recovered": 0
         }
       },
@@ -1495,7 +1495,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5825,
+          "confirmed": 5850,
           "date": "2020-06-21",
           "deaths": 550,
           "recovered": 0
@@ -1511,9 +1511,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 10259,
+          "confirmed": 10486,
           "date": "2020-06-21",
-          "deaths": 397,
+          "deaths": 398,
           "recovered": 0
         }
       },
@@ -1527,7 +1527,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 360011,
+          "confirmed": 360574,
           "date": "2020-06-21",
           "deaths": 29556,
           "recovered": 0
@@ -1551,7 +1551,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 39940,
+          "confirmed": 39982,
           "date": "2020-06-21",
           "deaths": 2970,
           "recovered": 0
@@ -1635,23 +1635,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 158725,
+          "confirmed": 158940,
           "date": "2020-06-21",
-          "deaths": 38099,
+          "deaths": 38138,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 15757,
+          "confirmed": 15774,
           "date": "2020-06-21",
-          "deaths": 2470,
+          "deaths": 2472,
           "recovered": 0
         }
       },
       "Unknown": {
         "live": {
-          "confirmed": 108736,
+          "confirmed": 109621,
           "date": "2020-06-21",
           "deaths": 0,
           "recovered": 0
@@ -1659,9 +1659,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 15026,
+          "confirmed": 15126,
           "date": "2020-06-21",
-          "deaths": 1476,
+          "deaths": 1477,
           "recovered": 0
         }
       }
