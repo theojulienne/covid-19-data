@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 19708,
+      "confirmed": 20268,
       "date": "2020-06-21",
-      "deaths": 332,
-      "recovered": 8854
+      "deaths": 350,
+      "recovered": 9002
     }
   },
   "Austria": {
@@ -495,7 +495,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47827,
+          "confirmed": 47843,
           "date": "2020-06-21",
           "deaths": 2566,
           "recovered": 44600
@@ -503,7 +503,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 7803,
+          "confirmed": 7804,
           "date": "2020-06-21",
           "deaths": 211,
           "recovered": 6874
@@ -511,7 +511,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10556,
+          "confirmed": 10575,
           "date": "2020-06-21",
           "deaths": 500,
           "recovered": 9700
@@ -527,15 +527,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 40434,
+          "confirmed": 40921,
           "date": "2020-06-21",
           "deaths": 1663,
-          "recovered": 36800
+          "recovered": 36900
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6903,
+          "confirmed": 6907,
           "date": "2020-06-21",
           "deaths": 234,
           "recovered": 6507
@@ -803,7 +803,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 5754,
+          "confirmed": 5789,
           "date": "2020-06-21",
           "deaths": 320,
           "recovered": 5084
