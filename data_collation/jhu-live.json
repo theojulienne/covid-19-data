@@ -413,10 +413,10 @@
   },
   "Congo (Kinshasa)": {
     "live": {
-      "confirmed": 5672,
+      "confirmed": 5826,
       "date": "2020-06-21",
-      "deaths": 125,
-      "recovered": 807
+      "deaths": 130,
+      "recovered": 841
     }
   },
   "Cote d'Ivoire": {
@@ -913,10 +913,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 9839,
+      "confirmed": 9957,
       "date": "2020-06-21",
       "deaths": 213,
-      "recovered": 8223
+      "recovered": 8249
     }
   },
   "Nepal": {
@@ -1089,10 +1089,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 29400,
+      "confirmed": 30052,
       "date": "2020-06-21",
-      "deaths": 1150,
-      "recovered": 7650
+      "deaths": 1169,
+      "recovered": 7893
     }
   },
   "Poland": {
@@ -1121,10 +1121,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 23730,
+      "confirmed": 24045,
       "date": "2020-06-21",
-      "deaths": 1500,
-      "recovered": 16735
+      "deaths": 1512,
+      "recovered": 16911
     }
   },
   "Russia": {
@@ -1365,7 +1365,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31243,
+      "confirmed": 31292,
       "date": "2020-06-21",
       "deaths": 1956,
       "recovered": 28900
