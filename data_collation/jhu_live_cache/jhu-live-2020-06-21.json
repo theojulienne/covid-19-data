@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35076,
+          "confirmed": 35211,
           "date": "2020-06-21",
-          "deaths": 2652,
-          "recovered": 29918
+          "deaths": 2657,
+          "recovered": 30082
         }
       },
       "Quebec": {
@@ -477,7 +477,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 190834,
+      "confirmed": 190833,
       "date": "2020-06-21",
       "deaths": 29567,
       "recovered": 70601
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 20734,
+      "confirmed": 20741,
       "date": "2020-06-21",
       "deaths": 306,
-      "recovered": 15685
+      "recovered": 15689
     }
   },
   "Italy": {
@@ -1479,9 +1479,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40898,
+          "confirmed": 40976,
           "date": "2020-06-21",
-          "deaths": 4662,
+          "deaths": 4663,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 7694,
+          "confirmed": 7794,
           "date": "2020-06-21",
-          "deaths": 357,
+          "deaths": 358,
           "recovered": 0
         }
       },
