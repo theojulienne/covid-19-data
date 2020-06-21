@@ -907,8 +907,8 @@
     "live": {
       "confirmed": 13953,
       "date": "2020-06-21",
-      "deaths": 464,
-      "recovered": 7745
+      "deaths": 465,
+      "recovered": 7896
     }
   },
   "Morocco": {
@@ -945,7 +945,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8742,
+      "confirmed": 8743,
       "date": "2020-06-21",
       "deaths": 244,
       "recovered": 8138
@@ -1368,7 +1368,7 @@
       "confirmed": 31292,
       "date": "2020-06-21",
       "deaths": 1956,
-      "recovered": 28900
+      "recovered": 29000
     }
   },
   "Turkey": {
@@ -1415,9 +1415,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 9984,
+          "confirmed": 10020,
           "date": "2020-06-21",
-          "deaths": 531,
+          "deaths": 533,
           "recovered": 0
         }
       },
@@ -1463,9 +1463,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46281,
+          "confirmed": 46543,
           "date": "2020-06-21",
-          "deaths": 2133,
+          "deaths": 2143,
           "recovered": 0
         }
       },
