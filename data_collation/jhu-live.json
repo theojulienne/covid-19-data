@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 21331,
+      "confirmed": 21764,
       "date": "2020-06-21",
       "deaths": 63,
-      "recovered": 15790
+      "recovered": 16419
     }
   },
   "Bangladesh": {
@@ -421,10 +421,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 7276,
+      "confirmed": 7492,
       "date": "2020-06-21",
-      "deaths": 52,
-      "recovered": 2992
+      "deaths": 54,
+      "recovered": 3068
     }
   },
   "Czechia": {
@@ -728,7 +728,7 @@
       "confirmed": 20778,
       "date": "2020-06-21",
       "deaths": 306,
-      "recovered": 15689
+      "recovered": 15694
     }
   },
   "Italy": {
@@ -1391,9 +1391,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 123918,
+          "confirmed": 124549,
           "date": "2020-06-21",
-          "deaths": 4360,
+          "deaths": 4362,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 52394,
+          "confirmed": 52574,
           "date": "2020-06-21",
-          "deaths": 939,
+          "deaths": 940,
           "recovered": 0
         }
       },
