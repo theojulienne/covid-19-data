@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 191117,
+      "confirmed": 191087,
       "date": "2020-06-22",
       "deaths": 29574,
-      "recovered": 70661
+      "recovered": 70539
     }
   },
   "Germany": {
@@ -935,7 +935,7 @@
     "live": {
       "confirmed": 8745,
       "date": "2020-06-22",
-      "deaths": 244,
+      "deaths": 248,
       "recovered": 8138
     }
   },
@@ -1411,9 +1411,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10020,
+          "confirmed": 10058,
           "date": "2020-06-22",
-          "deaths": 533,
+          "deaths": 535,
           "recovered": 0
         }
       },
@@ -1459,9 +1459,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46543,
+          "confirmed": 46756,
           "date": "2020-06-22",
-          "deaths": 2143,
+          "deaths": 2155,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 5850,
+          "confirmed": 5878,
           "date": "2020-06-22",
-          "deaths": 550,
+          "deaths": 551,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20298,
+          "confirmed": 20403,
           "date": "2020-06-22",
-          "deaths": 568,
+          "deaths": 571,
           "recovered": 0
         }
       },
