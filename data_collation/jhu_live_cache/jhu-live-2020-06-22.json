@@ -319,9 +319,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35259,
+          "confirmed": 35286,
           "date": "2020-06-22",
-          "deaths": 2660,
+          "deaths": 2661,
           "recovered": 30178
         }
       },
@@ -487,10 +487,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 35282,
+          "confirmed": 35375,
           "date": "2020-06-22",
-          "deaths": 1824,
-          "recovered": 33100
+          "deaths": 1826,
+          "recovered": 33114
         }
       },
       "Bayern": {
@@ -717,18 +717,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25379,
+      "confirmed": 25383,
       "date": "2020-06-22",
-      "deaths": 1715,
+      "deaths": 1717,
       "recovered": 22698
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 20869,
+      "confirmed": 21008,
       "date": "2020-06-22",
       "deaths": 307,
-      "recovered": 15714
+      "recovered": 15761
     }
   },
   "Italy": {
@@ -803,7 +803,7 @@
     "live": {
       "confirmed": 17732,
       "date": "2020-06-22",
-      "deaths": 120,
+      "deaths": 127,
       "recovered": 11158
     }
   },
@@ -901,10 +901,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 10079,
+      "confirmed": 10172,
       "date": "2020-06-22",
       "deaths": 214,
-      "recovered": 8319
+      "recovered": 8366
     }
   },
   "Nepal": {
@@ -1361,10 +1361,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 187685,
+      "confirmed": 188897,
       "date": "2020-06-22",
-      "deaths": 4950,
-      "recovered": 160240
+      "deaths": 4974,
+      "recovered": 161533
     }
   },
   "US": {
@@ -1373,7 +1373,7 @@
         "live": {
           "confirmed": 31650,
           "date": "2020-06-22",
-          "deaths": 632,
+          "deaths": 634,
           "recovered": 0
         }
       },
@@ -1443,7 +1443,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 16199,
+          "confirmed": 16277,
           "date": "2020-06-22",
           "deaths": 1006,
           "recovered": 0
@@ -1517,15 +1517,15 @@
         "live": {
           "confirmed": 361024,
           "date": "2020-06-22",
-          "deaths": 29597,
+          "deaths": 29640,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 8752,
+          "confirmed": 8956,
           "date": "2020-06-22",
-          "deaths": 135,
+          "deaths": 137,
           "recovered": 0
         }
       },
@@ -1555,7 +1555,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 12363,
+          "confirmed": 12712,
           "date": "2020-06-22",
           "deaths": 0,
           "recovered": 0
