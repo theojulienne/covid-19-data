@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 23512,
+      "confirmed": 24388,
       "date": "2020-06-22",
-      "deaths": 740,
-      "recovered": 5086
+      "deaths": 773,
+      "recovered": 5454
     }
   },
   "Brazil": {
@@ -142,7 +142,7 @@
           "confirmed": 33227,
           "date": "2020-06-22",
           "deaths": 423,
-          "recovered": 21782
+          "recovered": 21232
         }
       },
       "Espirito Santo": {
@@ -174,7 +174,7 @@
           "confirmed": 9470,
           "date": "2020-06-22",
           "deaths": 360,
-          "recovered": 3247
+          "recovered": 3319
         }
       },
       "Minas Gerais": {
@@ -254,7 +254,7 @@
           "confirmed": 15181,
           "date": "2020-06-22",
           "deaths": 417,
-          "recovered": 5263
+          "recovered": 5819
         }
       },
       "Roraima": {
@@ -286,7 +286,7 @@
           "confirmed": 18985,
           "date": "2020-06-22",
           "deaths": 462,
-          "recovered": 6449
+          "recovered": 6790
         }
       },
       "Tocantins": {
@@ -1391,9 +1391,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 126237,
+          "confirmed": 126564,
           "date": "2020-06-22",
-          "deaths": 4370,
+          "deaths": 4371,
           "recovered": 0
         }
       },
