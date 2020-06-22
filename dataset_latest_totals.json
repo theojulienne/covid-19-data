@@ -368,17 +368,17 @@
     "BHR": {
       "back_1week": {
         "confirmed": 17713,
-        "deaths": 37,
+        "deaths": 42,
         "recovered": 12191
       },
       "back_2week": {
         "confirmed": 14383,
-        "deaths": 24,
+        "deaths": 26,
         "recovered": 9056
       },
       "latest": {
         "confirmed": 21331,
-        "deaths": 60,
+        "deaths": 63,
         "recovered": 15790
       }
     },
@@ -418,19 +418,19 @@
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 53241,
-        "deaths": 303,
-        "recovered": 29111
+        "confirmed": 53973,
+        "deaths": 308,
+        "recovered": 30103
       },
       "back_2week": {
-        "confirmed": 47751,
-        "deaths": 263,
-        "recovered": 23015
+        "confirmed": 48630,
+        "deaths": 269,
+        "recovered": 23647
       },
       "latest": {
-        "confirmed": 57936,
-        "deaths": 343,
-        "recovered": 36749
+        "confirmed": 58505,
+        "deaths": 346,
+        "recovered": 37666
       }
     },
     "BLZ": {
@@ -1102,14 +1102,14 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 12139,
+        "confirmed": 12193,
         "deaths": 597,
-        "recovered": 11035
+        "recovered": 11068
       },
       "back_2week": {
-        "confirmed": 11924,
-        "deaths": 587,
-        "recovered": 10721
+        "confirmed": 11948,
+        "deaths": 589,
+        "recovered": 10755
       },
       "latest": {
         "confirmed": 12391,
@@ -2527,17 +2527,17 @@
     },
     "NLD": {
       "back_1week": {
-        "confirmed": 48640,
+        "confirmed": 48783,
         "deaths": 6057,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 47335,
+        "confirmed": 47574,
         "deaths": 6011,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 49502,
+        "confirmed": 49593,
         "deaths": 6089,
         "recovered": 0
       },
@@ -2881,9 +2881,9 @@
     },
     "SDN": {
       "back_1week": {
-        "confirmed": 7007,
-        "deaths": 447,
-        "recovered": 2556
+        "confirmed": 7220,
+        "deaths": 459,
+        "recovered": 2610
       },
       "back_2week": {
         "confirmed": 6081,
