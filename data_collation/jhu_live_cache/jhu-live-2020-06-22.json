@@ -1535,9 +1535,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 8752,
+          "confirmed": 8511,
           "date": "2020-06-22",
-          "deaths": 135,
+          "deaths": 133,
           "recovered": 0
         }
       },
