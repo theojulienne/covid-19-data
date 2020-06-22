@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 21764,
+      "confirmed": 22407,
       "date": "2020-06-22",
       "deaths": 65,
-      "recovered": 16419
+      "recovered": 16862
     }
   },
   "Bangladesh": {
@@ -319,7 +319,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35401,
+          "confirmed": 35418,
           "date": "2020-06-22",
           "deaths": 2666,
           "recovered": 30320
@@ -1009,14 +1009,6 @@
           "recovered": 0
         }
       },
-      "Arequipa": {
-        "live": {
-          "confirmed": 5909,
-          "date": "2020-06-22",
-          "deaths": 179,
-          "recovered": 0
-        }
-      },
       "Callao": {
         "live": {
           "confirmed": 17145,
@@ -1525,7 +1517,7 @@
         "live": {
           "confirmed": 8956,
           "date": "2020-06-22",
-          "deaths": 137,
+          "deaths": 143,
           "recovered": 0
         }
       },
@@ -1571,9 +1563,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 53197,
+          "confirmed": 62393,
           "date": "2020-06-22",
-          "deaths": 943,
+          "deaths": 1064,
           "recovered": 0
         }
       },
