@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 28833,
+      "confirmed": 29143,
       "date": "2020-06-22",
-      "deaths": 581,
-      "recovered": 8764
+      "deaths": 598,
+      "recovered": 8841
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 20268,
+      "confirmed": 20588,
       "date": "2020-06-22",
-      "deaths": 350,
-      "recovered": 9002
+      "deaths": 360,
+      "recovered": 9131
     }
   },
   "Austria": {
@@ -432,7 +432,7 @@
       "confirmed": 10498,
       "date": "2020-06-22",
       "deaths": 336,
-      "recovered": 7499
+      "recovered": 7505
     }
   },
   "Denmark": {
@@ -495,15 +495,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47843,
+          "confirmed": 47867,
           "date": "2020-06-22",
-          "deaths": 2566,
-          "recovered": 44600
+          "deaths": 2567,
+          "recovered": 44700
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7832,
+          "confirmed": 7833,
           "date": "2020-06-22",
           "deaths": 211,
           "recovered": 6886
@@ -511,31 +511,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10575,
+          "confirmed": 10578,
           "date": "2020-06-22",
-          "deaths": 500,
+          "deaths": 501,
           "recovered": 9700
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13243,
+          "confirmed": 13283,
           "date": "2020-06-22",
           "deaths": 620,
-          "recovered": 11700
+          "recovered": 11800
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 40921,
+          "confirmed": 41218,
           "date": "2020-06-22",
           "deaths": 1663,
-          "recovered": 36900
+          "recovered": 37000
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6909,
+          "confirmed": 6917,
           "date": "2020-06-22",
           "deaths": 234,
           "recovered": 6514
@@ -795,18 +795,6 @@
           "date": "2020-06-22",
           "deaths": 2002,
           "recovered": 16660
-        }
-      }
-    }
-  },
-  "Japan": {
-    "subseries": {
-      "Tokyo": {
-        "live": {
-          "confirmed": 5789,
-          "date": "2020-06-22",
-          "deaths": 320,
-          "recovered": 5084
         }
       }
     }
@@ -1129,92 +1117,100 @@
   },
   "Russia": {
     "subseries": {
+      "Chelyabinsk Oblast": {
+        "live": {
+          "confirmed": 5825,
+          "date": "2020-06-22",
+          "deaths": 62,
+          "recovered": 2955
+        }
+      },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 7188,
+          "confirmed": 7267,
           "date": "2020-06-22",
-          "deaths": 348,
-          "recovered": 4936
+          "deaths": 351,
+          "recovered": 4956
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 6286,
+          "confirmed": 6581,
           "date": "2020-06-22",
-          "deaths": 34,
-          "recovered": 3153
+          "deaths": 35,
+          "recovered": 3287
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 7580,
+          "confirmed": 7726,
           "date": "2020-06-22",
           "deaths": 86,
-          "recovered": 2680
+          "recovered": 2830
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 213946,
+          "confirmed": 215014,
           "date": "2020-06-22",
-          "deaths": 3597,
-          "recovered": 135556
+          "deaths": 3617,
+          "recovered": 136670
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 53869,
+          "confirmed": 54375,
           "date": "2020-06-22",
           "deaths": 783,
-          "recovered": 23798
+          "recovered": 25036
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 15555,
+          "confirmed": 15774,
           "date": "2020-06-22",
-          "deaths": 198,
-          "recovered": 8400
+          "deaths": 201,
+          "recovered": 8438
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 8534,
+          "confirmed": 8675,
           "date": "2020-06-22",
           "deaths": 90,
-          "recovered": 4109
+          "recovered": 4198
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 22195,
+          "confirmed": 22412,
           "date": "2020-06-22",
-          "deaths": 840,
-          "recovered": 13463
+          "deaths": 869,
+          "recovered": 13647
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 10932,
+          "confirmed": 11129,
           "date": "2020-06-22",
-          "deaths": 70,
-          "recovered": 5496
+          "deaths": 71,
+          "recovered": 5566
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 5973,
+          "confirmed": 6056,
           "date": "2020-06-22",
-          "deaths": 81,
-          "recovered": 4541
+          "deaths": 83,
+          "recovered": 4558
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 5863,
+          "confirmed": 6062,
           "date": "2020-06-22",
           "deaths": 30,
-          "recovered": 3088
+          "recovered": 3178
         }
       }
     }
@@ -1245,7 +1241,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 42095,
+      "confirmed": 42313,
       "date": "2020-06-22",
       "deaths": 26,
       "recovered": 34942
@@ -1535,9 +1531,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 8511,
+          "confirmed": 8752,
           "date": "2020-06-22",
-          "deaths": 133,
+          "deaths": 135,
           "recovered": 0
         }
       },
@@ -1669,7 +1665,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 6315,
+      "confirmed": 6358,
       "date": "2020-06-22",
       "deaths": 19,
       "recovered": 4377
