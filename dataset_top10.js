@@ -4777,7 +4777,7 @@ var covid19_dataset_top10 = {
           21054461,
           21476756,
           21924743,
-          22507597,
+          22519140,
           23027014,
           23511700,
           23960837,
@@ -4944,7 +4944,8 @@ var covid19_dataset_top10 = {
     "2020-06-19",
     "2020-06-20",
     "2020-06-21",
-    "2020-06-22"
+    "2020-06-22",
+    "2020-06-23"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});

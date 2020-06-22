@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10463,
+      "confirmed": 10498,
       "date": "2020-06-21",
-      "deaths": 337,
-      "recovered": 7498
+      "deaths": 336,
+      "recovered": 7499
     }
   },
   "Denmark": {
@@ -937,15 +937,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 19808,
+      "confirmed": 20244,
       "date": "2020-06-21",
-      "deaths": 506,
-      "recovered": 6718
+      "deaths": 518,
+      "recovered": 6879
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8743,
+      "confirmed": 8745,
       "date": "2020-06-21",
       "deaths": 244,
       "recovered": 8138
@@ -1391,9 +1391,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 124549,
+          "confirmed": 126237,
           "date": "2020-06-21",
-          "deaths": 4362,
+          "deaths": 4370,
           "recovered": 0
         }
       },
@@ -1431,7 +1431,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6043,
+          "confirmed": 6151,
           "date": "2020-06-21",
           "deaths": 162,
           "recovered": 0

@@ -1035,7 +1035,7 @@
     "CZE": {
       "back_1week": {
         "confirmed": 9991,
-        "deaths": 328,
+        "deaths": 329,
         "recovered": 7219
       },
       "back_2week": {
@@ -1045,7 +1045,7 @@
       },
       "latest": {
         "confirmed": 10448,
-        "deaths": 336,
+        "deaths": 335,
         "recovered": 7477
       }
     },
@@ -2493,19 +2493,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 15181,
-        "deaths": 399,
-        "recovered": 4891
+        "confirmed": 15682,
+        "deaths": 407,
+        "recovered": 5101
       },
       "back_2week": {
-        "confirmed": 11844,
-        "deaths": 333,
-        "recovered": 3696
+        "confirmed": 12233,
+        "deaths": 342,
+        "recovered": 3826
       },
       "latest": {
-        "confirmed": 19147,
-        "deaths": 487,
-        "recovered": 6581
+        "confirmed": 19808,
+        "deaths": 506,
+        "recovered": 6718
       }
     },
     "NIC": {
