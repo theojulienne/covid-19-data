@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 21764,
       "date": "2020-06-22",
-      "deaths": 64,
+      "deaths": 65,
       "recovered": 16419
     }
   },
@@ -134,7 +134,7 @@
           "confirmed": 92866,
           "date": "2020-06-22",
           "deaths": 5523,
-          "recovered": 69322
+          "recovered": 70809
         }
       },
       "Distrito Federal": {
@@ -182,7 +182,7 @@
           "confirmed": 27641,
           "date": "2020-06-22",
           "deaths": 661,
-          "recovered": 16446
+          "recovered": 17040
         }
       },
       "Para": {
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35286,
+          "confirmed": 35361,
           "date": "2020-06-22",
           "deaths": 2661,
-          "recovered": 30178
+          "recovered": 30245
         }
       },
       "Quebec": {
@@ -503,10 +503,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 7833,
+          "confirmed": 7915,
           "date": "2020-06-22",
           "deaths": 211,
-          "recovered": 6886
+          "recovered": 6920
         }
       },
       "Hessen": {
@@ -1467,9 +1467,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40976,
+          "confirmed": 41085,
           "date": "2020-06-22",
-          "deaths": 4663,
+          "deaths": 4666,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 7794,
+          "confirmed": 7915,
           "date": "2020-06-22",
           "deaths": 358,
           "recovered": 0
@@ -1539,7 +1539,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 40015,
+          "confirmed": 40290,
           "date": "2020-06-22",
           "deaths": 2972,
           "recovered": 0
@@ -1613,10 +1613,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 44925,
+      "confirmed": 45303,
       "date": "2020-06-22",
-      "deaths": 302,
-      "recovered": 32415
+      "deaths": 303,
+      "recovered": 33046
     }
   },
   "United Kingdom": {
