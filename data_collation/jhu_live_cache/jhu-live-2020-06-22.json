@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 20778,
+      "confirmed": 20869,
       "date": "2020-06-22",
-      "deaths": 306,
-      "recovered": 15694
+      "deaths": 307,
+      "recovered": 15714
     }
   },
   "Italy": {
@@ -1088,7 +1088,7 @@
       "confirmed": 31931,
       "date": "2020-06-22",
       "deaths": 1356,
-      "recovered": 16683
+      "recovered": 17076
     }
   },
   "Portugal": {
