@@ -479,7 +479,7 @@
         "recovered": 277149
       },
       "latest": {
-        "confirmed": 1032913,
+        "confirmed": 1067579,
         "deaths": 49976,
         "recovered": 576779
       }
@@ -3095,8 +3095,8 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 56043,
-        "deaths": 5053,
+        "confirmed": 58591,
+        "deaths": 5109,
         "recovered": 0
       }
     },
