@@ -301,10 +301,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 12041,
+      "confirmed": 12270,
       "date": "2020-06-23",
-      "deaths": 308,
-      "recovered": 7740
+      "deaths": 313,
+      "recovered": 7774
     }
   },
   "Canada": {
@@ -445,7 +445,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 50640,
+      "confirmed": 51643,
       "date": "2020-06-23",
       "deaths": 4274,
       "recovered": 24991
@@ -453,10 +453,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 56809,
+      "confirmed": 58141,
       "date": "2020-06-23",
-      "deaths": 2278,
-      "recovered": 15133
+      "deaths": 2365,
+      "recovered": 15535
     }
   },
   "Finland": {
@@ -717,10 +717,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 21467,
+      "confirmed": 21512,
       "date": "2020-06-23",
       "deaths": 308,
-      "recovered": 15860
+      "recovered": 15869
     }
   },
   "Italy": {
@@ -1241,10 +1241,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 101590,
+      "confirmed": 106108,
       "date": "2020-06-23",
-      "deaths": 1991,
-      "recovered": 53444
+      "deaths": 2102,
+      "recovered": 55045
     }
   },
   "Spain": {
@@ -1411,17 +1411,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6407,
+          "confirmed": 6636,
           "date": "2020-06-23",
-          "deaths": 162,
+          "deaths": 163,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 119323,
+          "confirmed": 119814,
           "date": "2020-06-23",
-          "deaths": 5835,
+          "deaths": 5863,
           "recovered": 0
         }
       },
@@ -1451,9 +1451,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 103439,
+          "confirmed": 103672,
           "date": "2020-06-23",
-          "deaths": 7521,
+          "deaths": 7537,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 9052,
+          "confirmed": 9207,
           "date": "2020-06-23",
-          "deaths": 102,
+          "deaths": 105,
           "recovered": 0
         }
       },
