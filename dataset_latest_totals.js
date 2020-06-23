@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 7320,
-        "current_hospitalized": 16,
-        "current_icu": 3,
+        "confirmed": 7335,
+        "current_hospitalized": 17,
+        "current_icu": 4,
         "deaths": 104,
-        "recovered": 6847,
-        "tested": 1811500
+        "recovered": 6851,
+        "tested": 1827284
       },
       "back_2week": {
-        "confirmed": 7259,
-        "current_hospitalized": 18,
+        "confirmed": 7264,
+        "current_hospitalized": 19,
         "current_icu": 3,
         "deaths": 104,
-        "recovered": 6703,
-        "tested": 1617462
+        "recovered": 6708,
+        "tested": 1631017
       },
       "latest": {
-        "confirmed": 7461,
-        "current_hospitalized": 14,
+        "confirmed": 7474,
+        "current_hospitalized": 5,
         "current_icu": 2,
         "deaths": 104,
-        "recovered": 6896,
-        "tested": 2040523
+        "recovered": 6904,
+        "tested": 2056405
       },
       "states": {
         "ACT": {
@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 43822
         },
         "VIC": {
-          "confirmed": 1836,
+          "confirmed": 1847,
           "current_hospitalized": 4,
           "current_icu": 2,
           "deaths": 19,
-          "recovered": 1694,
-          "tested": 660000
+          "recovered": 1701,
+          "tested": 667000
         },
         "WA": {
           "confirmed": 604,
@@ -3735,17 +3735,17 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 5080,
+        "confirmed": 5263,
         "deaths": 19,
         "recovered": 3943
       },
       "back_2week": {
-        "confirmed": 4331,
+        "confirmed": 4440,
         "deaths": 17,
         "recovered": 3354
       },
       "latest": {
-        "confirmed": 6315,
+        "confirmed": 6461,
         "deaths": 19,
         "recovered": 4377
       }
