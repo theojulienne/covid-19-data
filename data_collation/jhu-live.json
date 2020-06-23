@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 29143,
+      "confirmed": 29157,
       "date": "2020-06-22",
       "deaths": 598,
       "recovered": 8841
@@ -301,20 +301,20 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 11892,
+      "confirmed": 12041,
       "date": "2020-06-22",
-      "deaths": 303,
-      "recovered": 7710
+      "deaths": 308,
+      "recovered": 7740
     }
   },
   "Canada": {
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7704,
+          "confirmed": 7736,
           "date": "2020-06-22",
-          "deaths": 152,
-          "recovered": 7018
+          "deaths": 153,
+          "recovered": 7041
         }
       },
       "Ontario": {
@@ -925,10 +925,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 20244,
+      "confirmed": 20919,
       "date": "2020-06-22",
-      "deaths": 518,
-      "recovered": 6879
+      "deaths": 525,
+      "recovered": 7109
     }
   },
   "Norway": {
@@ -1379,9 +1379,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 126942,
+          "confirmed": 130552,
           "date": "2020-06-22",
-          "deaths": 4372,
+          "deaths": 4402,
           "recovered": 0
         }
       },

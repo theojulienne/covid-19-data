@@ -153,7 +153,8 @@ var covid19_dataset_country_cmr = {
     "2020-06-20",
     "2020-06-21",
     "2020-06-22",
-    "2020-06-23"
+    "2020-06-23",
+    "2020-06-24"
   ],
   "total": {
     "confirmed": [
@@ -308,7 +309,8 @@ var covid19_dataset_country_cmr = {
       9864,
       10638,
       11610,
-      11892
+      11892,
+      12041
     ],
     "deaths": [
       0,
@@ -462,7 +464,8 @@ var covid19_dataset_country_cmr = {
       276,
       282,
       301,
-      303
+      303,
+      308
     ],
     "recovered": [
       0,
@@ -616,7 +619,8 @@ var covid19_dataset_country_cmr = {
       5570,
       7548,
       7702,
-      7710
+      7710,
+      7740
     ]
   }
 };
