@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 29157,
+      "confirmed": 29481,
       "date": "2020-06-23",
-      "deaths": 598,
-      "recovered": 8841
+      "deaths": 618,
+      "recovered": 9260
     }
   },
   "Algeria": {
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10523,
+      "confirmed": 10561,
       "date": "2020-06-23",
       "deaths": 336,
-      "recovered": 7537
+      "recovered": 7539
     }
   },
   "Denmark": {

@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 24766,
-        "deaths": 471,
-        "recovered": 4725
+        "confirmed": 25527,
+        "deaths": 478,
+        "recovered": 5164
       },
       "back_2week": {
-        "confirmed": 20342,
-        "deaths": 357,
-        "recovered": 1875
+        "confirmed": 20917,
+        "deaths": 369,
+        "recovered": 2171
       },
       "latest": {
-        "confirmed": 28833,
-        "deaths": 581,
-        "recovered": 8764
+        "confirmed": 29157,
+        "deaths": 598,
+        "recovered": 8841
       }
     },
     "AGO": {
@@ -171,13 +171,13 @@
           "tested": 25564
         },
         "NSW": {
-          "confirmed": 3149,
+          "confirmed": 3151,
           "current_hospitalized": 9,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 50,
           "recovered": 2771,
-          "tested": 725817
+          "tested": 734699
         },
         "NT": {
           "confirmed": 29,
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 10024,
+        "confirmed": 10064,
         "deaths": 329,
-        "recovered": 7226
+        "recovered": 7296
       },
       "back_2week": {
-        "confirmed": 9628,
+        "confirmed": 9697,
         "deaths": 327,
-        "recovered": 6891
+        "recovered": 6994
       },
       "latest": {
-        "confirmed": 10498,
+        "confirmed": 10523,
         "deaths": 336,
-        "recovered": 7499
+        "recovered": 7537
       }
     },
     "DEU": {
