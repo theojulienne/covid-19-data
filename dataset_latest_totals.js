@@ -1166,12 +1166,12 @@ var covid19_dataset_latest_totals = {
     "ECU": {
       "back_1week": {
         "confirmed": 46751,
-        "deaths": 3896,
+        "deaths": 3929,
         "recovered": 23064
       },
       "back_2week": {
         "confirmed": 43120,
-        "deaths": 3621,
+        "deaths": 3642,
         "recovered": 21020
       },
       "latest": {

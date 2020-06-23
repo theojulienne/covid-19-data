@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 22407,
       "date": "2020-06-23",
-      "deaths": 66,
+      "deaths": 67,
       "recovered": 16862
     }
   },
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35572,
+          "confirmed": 35636,
           "date": "2020-06-23",
-          "deaths": 2667,
-          "recovered": 30455
+          "deaths": 2675,
+          "recovered": 30536
         }
       },
       "Quebec": {
@@ -447,7 +447,7 @@
     "live": {
       "confirmed": 50640,
       "date": "2020-06-23",
-      "deaths": 4223,
+      "deaths": 4274,
       "recovered": 24991
     }
   },
@@ -1547,9 +1547,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 15780,
+          "confirmed": 16135,
           "date": "2020-06-23",
-          "deaths": 261,
+          "deaths": 264,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 10355,
+          "confirmed": 10406,
           "date": "2020-06-23",
-          "deaths": 371,
+          "deaths": 373,
           "recovered": 0
         }
       }
@@ -1641,7 +1641,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 6535,
+      "confirmed": 6662,
       "date": "2020-06-23",
       "deaths": 19,
       "recovered": 4560
