@@ -893,9 +893,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 14363,
+      "confirmed": 14714,
       "date": "2020-06-23",
-      "deaths": 484,
+      "deaths": 490,
       "recovered": 8019
     }
   },
@@ -1403,9 +1403,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10058,
+          "confirmed": 10094,
           "date": "2020-06-23",
-          "deaths": 535,
+          "deaths": 537,
           "recovered": 0
         }
       },
@@ -1451,9 +1451,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46756,
+          "confirmed": 47067,
           "date": "2020-06-23",
-          "deaths": 2155,
+          "deaths": 2163,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20403,
+          "confirmed": 20541,
           "date": "2020-06-23",
-          "deaths": 571,
+          "deaths": 579,
           "recovered": 0
         }
       },
