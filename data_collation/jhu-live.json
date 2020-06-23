@@ -379,34 +379,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 15479,
+          "confirmed": 16229,
           "date": "2020-06-23",
-          "deaths": 675,
-          "recovered": 4044
+          "deaths": 714,
+          "recovered": 4337
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 6753,
+          "confirmed": 7067,
           "date": "2020-06-23",
-          "deaths": 269,
-          "recovered": 2814
+          "deaths": 276,
+          "recovered": 2970
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 20709,
+          "confirmed": 21541,
           "date": "2020-06-23",
-          "deaths": 510,
-          "recovered": 9100
+          "deaths": 518,
+          "recovered": 9671
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 7525,
+          "confirmed": 7660,
           "date": "2020-06-23",
-          "deaths": 328,
-          "recovered": 3004
+          "deaths": 336,
+          "recovered": 3156
         }
       }
     }
@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 12772,
+      "confirmed": 13356,
       "date": "2020-06-23",
-      "deaths": 363,
-      "recovered": 1293
+      "deaths": 395,
+      "recovered": 1362
     }
   },
   "India": {
@@ -801,7 +801,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 17732,
+      "confirmed": 18231,
       "date": "2020-06-23",
       "deaths": 127,
       "recovered": 11158
@@ -1379,7 +1379,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 130552,
+          "confirmed": 130869,
           "date": "2020-06-23",
           "deaths": 4402,
           "recovered": 0
