@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 59023,
+      "confirmed": 59487,
       "date": "2020-06-23",
-      "deaths": 351,
-      "recovered": 37923
+      "deaths": 357,
+      "recovered": 38688
     }
   },
   "Belgium": {
@@ -262,7 +262,7 @@
           "confirmed": 8188,
           "date": "2020-06-23",
           "deaths": 251,
-          "recovered": 2786
+          "recovered": 2791
         }
       },
       "Santa Catarina": {
@@ -409,6 +409,14 @@
           "recovered": 3156
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6027,
+      "date": "2020-06-23",
+      "deaths": 135,
+      "recovered": 861
     }
   },
   "Cote d'Ivoire": {
@@ -693,10 +701,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 207525,
+      "confirmed": 209970,
       "date": "2020-06-23",
-      "deaths": 9742,
-      "recovered": 166427
+      "deaths": 9863,
+      "recovered": 169160
     }
   },
   "Iraq": {
@@ -809,10 +817,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 40291,
+      "confirmed": 41033,
       "date": "2020-06-23",
-      "deaths": 330,
-      "recovered": 31770
+      "deaths": 334,
+      "recovered": 32304
     }
   },
   "Malaysia": {
@@ -901,10 +909,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 9561,
+      "confirmed": 10099,
       "date": "2020-06-23",
-      "deaths": 23,
-      "recovered": 2148
+      "deaths": 24,
+      "recovered": 2224
     }
   },
   "Netherlands": {
@@ -1069,10 +1077,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 30682,
+      "confirmed": 31825,
       "date": "2020-06-23",
-      "deaths": 1177,
-      "recovered": 8143
+      "deaths": 1186,
+      "recovered": 8442
     }
   },
   "Poland": {
@@ -1255,14 +1263,6 @@
           "date": "2020-06-23",
           "deaths": 1426,
           "recovered": 10671
-        }
-      },
-      "Aragon": {
-        "live": {
-          "confirmed": 5964,
-          "date": "2020-06-23",
-          "deaths": 911,
-          "recovered": 3772
         }
       },
       "C. Valenciana": {
