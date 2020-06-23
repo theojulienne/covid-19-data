@@ -311,17 +311,17 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7736,
+          "confirmed": 7781,
           "date": "2020-06-23",
           "deaths": 153,
-          "recovered": 7041
+          "recovered": 7096
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 35637,
+          "confirmed": 35657,
           "date": "2020-06-23",
-          "deaths": 2675,
+          "deaths": 2676,
           "recovered": 30538
         }
       },
@@ -413,9 +413,9 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 7677,
+      "confirmed": 7904,
       "date": "2020-06-23",
-      "deaths": 56,
+      "deaths": 58,
       "recovered": 3493
     }
   },
@@ -917,10 +917,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 20919,
+      "confirmed": 21371,
       "date": "2020-06-23",
-      "deaths": 525,
-      "recovered": 7109
+      "deaths": 533,
+      "recovered": 7338
     }
   },
   "Norway": {
@@ -1317,10 +1317,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 8698,
+      "confirmed": 8796,
       "date": "2020-06-23",
-      "deaths": 533,
-      "recovered": 3460
+      "deaths": 541,
+      "recovered": 3599
     }
   },
   "Sweden": {
@@ -1379,9 +1379,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 6663,
+          "confirmed": 6700,
           "date": "2020-06-23",
-          "deaths": 367,
+          "deaths": 369,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 62693,
+          "confirmed": 64786,
           "date": "2020-06-23",
-          "deaths": 1068,
+          "deaths": 1078,
           "recovered": 0
         }
       },

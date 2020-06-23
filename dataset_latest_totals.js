@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 7704,
+          "confirmed": 7736,
           "deaths": 152
         },
         "British Columbia": {
@@ -864,18 +864,18 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 5084,
-        "deaths": 45,
+        "confirmed": 5439,
+        "deaths": 46,
         "recovered": 2505
       },
       "back_2week": {
-        "confirmed": 3739,
-        "deaths": 36,
+        "confirmed": 3881,
+        "deaths": 38,
         "recovered": 1818
       },
       "latest": {
-        "confirmed": 7492,
-        "deaths": 54,
+        "confirmed": 7677,
+        "deaths": 56,
         "recovered": 3068
       }
     },
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 16085,
-        "deaths": 420,
-        "recovered": 5220
+        "confirmed": 16658,
+        "deaths": 424,
+        "recovered": 5349
       },
       "back_2week": {
-        "confirmed": 12486,
-        "deaths": 354,
-        "recovered": 3959
+        "confirmed": 12801,
+        "deaths": 361,
+        "recovered": 4040
       },
       "latest": {
-        "confirmed": 20244,
-        "deaths": 518,
-        "recovered": 6879
+        "confirmed": 20919,
+        "deaths": 525,
+        "recovered": 7109
       }
     },
     "NIC": {
@@ -2881,19 +2881,19 @@ var covid19_dataset_latest_totals = {
     },
     "SDN": {
       "back_1week": {
-        "confirmed": 7220,
-        "deaths": 459,
-        "recovered": 2610
+        "confirmed": 7435,
+        "deaths": 468,
+        "recovered": 2720
       },
       "back_2week": {
-        "confirmed": 6081,
-        "deaths": 359,
-        "recovered": 2014
+        "confirmed": 6242,
+        "deaths": 372,
+        "recovered": 2059
       },
       "latest": {
-        "confirmed": 8580,
-        "deaths": 521,
-        "recovered": 3325
+        "confirmed": 8698,
+        "deaths": 533,
+        "recovered": 3460
       }
     },
     "SEN": {
