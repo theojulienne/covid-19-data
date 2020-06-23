@@ -1101,10 +1101,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 24291,
+      "confirmed": 24505,
       "date": "2020-06-23",
-      "deaths": 1523,
-      "recovered": 17031
+      "deaths": 1539,
+      "recovered": 17187
     }
   },
   "Russia": {
@@ -1217,10 +1217,10 @@
   },
   "Senegal": {
     "live": {
-      "confirmed": 5970,
+      "confirmed": 6034,
       "date": "2020-06-23",
-      "deaths": 86,
-      "recovered": 3953
+      "deaths": 89,
+      "recovered": 4046
     }
   },
   "Serbia": {
@@ -1353,7 +1353,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31310,
+      "confirmed": 31332,
       "date": "2020-06-23",
       "deaths": 1956,
       "recovered": 29000
