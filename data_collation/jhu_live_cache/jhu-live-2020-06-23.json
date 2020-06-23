@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 20588,
+      "confirmed": 21006,
       "date": "2020-06-23",
-      "deaths": 360,
-      "recovered": 9131
+      "deaths": 372,
+      "recovered": 10144
     }
   },
   "Austria": {
@@ -431,8 +431,8 @@
     "live": {
       "confirmed": 10561,
       "date": "2020-06-23",
-      "deaths": 336,
-      "recovered": 7539
+      "deaths": 337,
+      "recovered": 7543
     }
   },
   "Denmark": {
@@ -490,20 +490,20 @@
           "confirmed": 35375,
           "date": "2020-06-23",
           "deaths": 1826,
-          "recovered": 33114
+          "recovered": 33200
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 47867,
+          "confirmed": 47894,
           "date": "2020-06-23",
-          "deaths": 2567,
+          "deaths": 2571,
           "recovered": 44700
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7915,
+          "confirmed": 7916,
           "date": "2020-06-23",
           "deaths": 211,
           "recovered": 6920
@@ -511,31 +511,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10578,
+          "confirmed": 10613,
           "date": "2020-06-23",
           "deaths": 501,
-          "recovered": 9700
+          "recovered": 9800
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13283,
+          "confirmed": 13312,
           "date": "2020-06-23",
           "deaths": 620,
-          "recovered": 11800
+          "recovered": 11900
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 41218,
+          "confirmed": 41418,
           "date": "2020-06-23",
-          "deaths": 1663,
-          "recovered": 37000
+          "deaths": 1969,
+          "recovered": 37200
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6917,
+          "confirmed": 6919,
           "date": "2020-06-23",
           "deaths": 234,
           "recovered": 6517
@@ -1233,7 +1233,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 42313,
+      "confirmed": 42432,
       "date": "2020-06-23",
       "deaths": 26,
       "recovered": 35590
