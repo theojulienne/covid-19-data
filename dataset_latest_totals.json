@@ -3375,19 +3375,19 @@
     "USA": {
       "back_1week": {
         "confirmed": 2099030,
-        "deaths": 109840,
+        "deaths": 109915,
         "recovered": 576082,
         "tested": 23941804
       },
       "back_2week": {
         "confirmed": 1951621,
-        "deaths": 104959,
+        "deaths": 105051,
         "recovered": 518278,
         "tested": 20615450
       },
       "latest": {
         "confirmed": 2290489,
-        "deaths": 113875,
+        "deaths": 113944,
         "recovered": 639942,
         "tested": 27527705
       },
@@ -3447,7 +3447,7 @@
         },
         "DE": {
           "confirmed": 10820,
-          "deaths": 435,
+          "deaths": 504,
           "recovered": 6459,
           "tested": 96723
         },
