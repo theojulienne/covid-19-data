@@ -246,7 +246,7 @@
           "confirmed": 100869,
           "date": "2020-06-24",
           "deaths": 9153,
-          "recovered": 78316
+          "recovered": 83800
         }
       },
       "Rondonia": {
@@ -294,7 +294,7 @@
           "confirmed": 8766,
           "date": "2020-06-24",
           "deaths": 179,
-          "recovered": 5548
+          "recovered": 5670
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 191696,
+      "confirmed": 191777,
       "date": "2020-06-24",
-      "deaths": 29651,
-      "recovered": 70922
+      "deaths": 29662,
+      "recovered": 71178
     }
   },
   "Germany": {
@@ -1419,9 +1419,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 119814,
+          "confirmed": 120320,
           "date": "2020-06-24",
-          "deaths": 5863,
+          "deaths": 5913,
           "recovered": 0
         }
       },
@@ -1547,9 +1547,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 16135,
+          "confirmed": 16552,
           "date": "2020-06-24",
-          "deaths": 264,
+          "deaths": 272,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 10406,
+          "confirmed": 10544,
           "date": "2020-06-24",
-          "deaths": 373,
+          "deaths": 377,
           "recovered": 0
         }
       }
@@ -1641,7 +1641,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 6847,
+      "confirmed": 6901,
       "date": "2020-06-24",
       "deaths": 19,
       "recovered": 4685
