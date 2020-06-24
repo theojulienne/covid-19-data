@@ -154,12 +154,12 @@ var covid19_dataset_latest_totals = {
         "tested": 1650794
       },
       "latest": {
-        "confirmed": 7490,
-        "current_hospitalized": 5,
+        "confirmed": 7492,
+        "current_hospitalized": 14,
         "current_icu": 3,
         "deaths": 104,
         "recovered": 6915,
-        "tested": 2124027
+        "tested": 2132557
       },
       "states": {
         "ACT": {
@@ -168,11 +168,11 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 3,
           "recovered": 105,
-          "tested": 25905
+          "tested": 26075
         },
         "NSW": {
           "confirmed": 3150,
-          "current_hospitalized": 8,
+          "current_hospitalized": 9,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 50,
@@ -185,7 +185,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 0,
           "recovered": 29,
-          "tested": 11533
+          "tested": 11566
         },
         "QLD": {
           "confirmed": 1066,
@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1053,
-          "tested": 274688
+          "tested": 323895
         },
         "SA": {
           "confirmed": 440,
@@ -201,7 +201,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 4,
           "recovered": 436,
-          "tested": 137290
+          "tested": 138170
         },
         "TAS": {
           "confirmed": 228,
@@ -209,7 +209,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 13,
           "recovered": 215,
-          "tested": 44025
+          "tested": 44294
         },
         "VIC": {
           "confirmed": 1864,
@@ -225,7 +225,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 9,
           "recovered": 594,
-          "tested": 161265
+          "tested": 162065
         }
       }
     },
