@@ -3375,19 +3375,19 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "back_1week": {
         "confirmed": 2099030,
-        "deaths": 109822,
+        "deaths": 109840,
         "recovered": 576082,
         "tested": 23941804
       },
       "back_2week": {
         "confirmed": 1951621,
-        "deaths": 104932,
+        "deaths": 104959,
         "recovered": 518278,
         "tested": 20615450
       },
       "latest": {
         "confirmed": 2290489,
-        "deaths": 113872,
+        "deaths": 113875,
         "recovered": 639942,
         "tested": 27527705
       },
@@ -3611,7 +3611,7 @@ var covid19_dataset_latest_totals = {
         },
         "NV": {
           "confirmed": 13535,
-          "deaths": 489,
+          "deaths": 492,
           "recovered": 653,
           "tested": 244065
         },
