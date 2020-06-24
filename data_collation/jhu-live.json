@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 29481,
+      "confirmed": 29640,
       "date": "2020-06-24",
-      "deaths": 618,
-      "recovered": 9260
+      "deaths": 639,
+      "recovered": 9869
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 21006,
+      "confirmed": 21717,
       "date": "2020-06-24",
-      "deaths": 372,
-      "recovered": 10144
+      "deaths": 386,
+      "recovered": 10797
     }
   },
   "Austria": {
@@ -487,15 +487,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 47896,
+          "confirmed": 47995,
           "date": "2020-06-24",
-          "deaths": 2571,
-          "recovered": 44700
+          "deaths": 2578,
+          "recovered": 44900
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 7974,
+          "confirmed": 7975,
           "date": "2020-06-24",
           "deaths": 211,
           "recovered": 6961
@@ -503,31 +503,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10613,
+          "confirmed": 10645,
           "date": "2020-06-24",
-          "deaths": 501,
+          "deaths": 503,
           "recovered": 9800
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13312,
+          "confirmed": 13327,
           "date": "2020-06-24",
           "deaths": 623,
-          "recovered": 11900
+          "recovered": 12000
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 41418,
+          "confirmed": 41678,
           "date": "2020-06-24",
           "deaths": 1669,
-          "recovered": 37200
+          "recovered": 37300
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6919,
+          "confirmed": 6924,
           "date": "2020-06-24",
           "deaths": 235,
           "recovered": 6530
@@ -1233,7 +1233,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 42432,
+      "confirmed": 42623,
       "date": "2020-06-24",
       "deaths": 26,
       "recovered": 35995
@@ -1373,7 +1373,7 @@
         "live": {
           "confirmed": 134984,
           "date": "2020-06-24",
-          "deaths": 4450,
+          "deaths": 4451,
           "recovered": 0
         }
       },
