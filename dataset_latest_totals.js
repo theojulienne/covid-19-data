@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 44025
         },
         "VIC": {
-          "confirmed": 1847,
+          "confirmed": 1864,
           "current_hospitalized": 4,
-          "current_icu": 2,
+          "current_icu": 3,
           "deaths": 19,
-          "recovered": 1701,
-          "tested": 667000
+          "recovered": 1712,
+          "tested": 675000
         },
         "WA": {
           "confirmed": 605,
@@ -3735,17 +3735,17 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 5263,
+        "confirmed": 5493,
         "deaths": 19,
         "recovered": 4019
       },
       "back_2week": {
-        "confirmed": 4440,
+        "confirmed": 4520,
         "deaths": 18,
         "recovered": 3357
       },
       "latest": {
-        "confirmed": 6461,
+        "confirmed": 6662,
         "deaths": 19,
         "recovered": 4450
       }
