@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17408,
+      "confirmed": 17449,
       "date": "2020-06-24",
       "deaths": 693,
-      "recovered": 16261
+      "recovered": 16282
     }
   },
   "Azerbaijan": {
@@ -254,7 +254,7 @@
           "confirmed": 16498,
           "date": "2020-06-24",
           "deaths": 444,
-          "recovered": 6092
+          "recovered": 6455
         }
       },
       "Roraima": {
@@ -421,10 +421,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 10650,
+      "confirmed": 10651,
       "date": "2020-06-24",
-      "deaths": 339,
-      "recovered": 7555
+      "deaths": 340,
+      "recovered": 7559
     }
   },
   "Denmark": {
@@ -717,10 +717,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 21512,
+      "confirmed": 21666,
       "date": "2020-06-24",
       "deaths": 308,
-      "recovered": 15869
+      "recovered": 15898
     }
   },
   "Italy": {
@@ -1119,98 +1119,98 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 6083,
+          "confirmed": 6268,
           "date": "2020-06-24",
           "deaths": 70,
-          "recovered": 3015
+          "recovered": 3343
         }
       },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 7340,
+          "confirmed": 7415,
           "date": "2020-06-24",
-          "deaths": 357,
-          "recovered": 4997
+          "deaths": 360,
+          "recovered": 5465
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 6900,
+          "confirmed": 7223,
           "date": "2020-06-24",
-          "deaths": 37,
-          "recovered": 3435
+          "deaths": 38,
+          "recovered": 3618
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 7875,
+          "confirmed": 8029,
           "date": "2020-06-24",
-          "deaths": 93,
-          "recovered": 3132
+          "deaths": 99,
+          "recovered": 3249
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 216095,
+          "confirmed": 216906,
           "date": "2020-06-24",
-          "deaths": 3643,
-          "recovered": 139248
+          "deaths": 3657,
+          "recovered": 141268
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 54879,
+          "confirmed": 55386,
           "date": "2020-06-24",
-          "deaths": 798,
-          "recovered": 26198
+          "deaths": 822,
+          "recovered": 27588
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 15990,
+          "confirmed": 16197,
           "date": "2020-06-24",
-          "deaths": 205,
-          "recovered": 8864
+          "deaths": 207,
+          "recovered": 9481
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 8815,
+          "confirmed": 8950,
           "date": "2020-06-24",
-          "deaths": 94,
-          "recovered": 4378
+          "deaths": 97,
+          "recovered": 4651
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 22632,
+          "confirmed": 22850,
           "date": "2020-06-24",
-          "deaths": 904,
-          "recovered": 13868
+          "deaths": 942,
+          "recovered": 14511
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 11311,
+          "confirmed": 11492,
           "date": "2020-06-24",
-          "deaths": 75,
-          "recovered": 5972
+          "deaths": 79,
+          "recovered": 6250
         }
       },
       "Tula Oblast": {
         "live": {
-          "confirmed": 6137,
+          "confirmed": 6220,
           "date": "2020-06-24",
-          "deaths": 86,
-          "recovered": 4779
+          "deaths": 89,
+          "recovered": 5019
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 6259,
+          "confirmed": 6457,
           "date": "2020-06-24",
-          "deaths": 31,
-          "recovered": 3640
+          "deaths": 33,
+          "recovered": 4047
         }
       }
     }
