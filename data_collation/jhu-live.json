@@ -52,7 +52,7 @@
       "confirmed": 23062,
       "date": "2020-06-23",
       "deaths": 67,
-      "recovered": 16862
+      "recovered": 17450
     }
   },
   "Bangladesh": {
@@ -416,12 +416,12 @@
       "confirmed": 7904,
       "date": "2020-06-23",
       "deaths": 58,
-      "recovered": 3493
+      "recovered": 3182
     }
   },
   "Czechia": {
     "live": {
-      "confirmed": 10619,
+      "confirmed": 10650,
       "date": "2020-06-23",
       "deaths": 339,
       "recovered": 7555
@@ -1475,9 +1475,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 6386,
+          "confirmed": 6461,
           "date": "2020-06-23",
-          "deaths": 80,
+          "deaths": 83,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 64786,
+          "confirmed": 65046,
           "date": "2020-06-23",
-          "deaths": 1078,
+          "deaths": 1079,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 15579,
+          "confirmed": 15801,
           "date": "2020-06-23",
-          "deaths": 740,
+          "deaths": 746,
           "recovered": 0
         }
       },

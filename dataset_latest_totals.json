@@ -369,17 +369,17 @@
       "back_1week": {
         "confirmed": 19013,
         "deaths": 46,
-        "recovered": 12818
+        "recovered": 13267
       },
       "back_2week": {
         "confirmed": 15417,
         "deaths": 27,
-        "recovered": 9468
+        "recovered": 10326
       },
       "latest": {
         "confirmed": 22407,
         "deaths": 65,
-        "recovered": 16419
+        "recovered": 16862
       }
     },
     "BHS": {
@@ -3416,7 +3416,7 @@
         "AZ": {
           "confirmed": 54586,
           "deaths": 1342,
-          "hospitalized": 4185,
+          "hospitalized": 4255,
           "recovered": 7581,
           "tested": 429790
         },
