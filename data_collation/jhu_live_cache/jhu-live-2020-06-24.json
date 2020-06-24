@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 47203,
+      "confirmed": 47216,
       "date": "2020-06-24",
-      "deaths": 1078,
-      "recovered": 13576
+      "deaths": 1085,
+      "recovered": 13816
     }
   },
   "Armenia": {
@@ -322,7 +322,7 @@
           "confirmed": 35657,
           "date": "2020-06-24",
           "deaths": 2676,
-          "recovered": 30538
+          "recovered": 30539
         }
       },
       "Quebec": {
@@ -409,6 +409,14 @@
           "recovered": 3311
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6213,
+      "date": "2020-06-24",
+      "deaths": 142,
+      "recovered": 870
     }
   },
   "Cote d'Ivoire": {
@@ -895,8 +903,8 @@
     "live": {
       "confirmed": 14714,
       "date": "2020-06-24",
-      "deaths": 490,
-      "recovered": 8212
+      "deaths": 492,
+      "recovered": 8400
     }
   },
   "Morocco": {
@@ -933,7 +941,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8772,
+      "confirmed": 8777,
       "date": "2020-06-24",
       "deaths": 248,
       "recovered": 8138
@@ -1223,14 +1231,6 @@
       "recovered": 112797
     }
   },
-  "Senegal": {
-    "live": {
-      "confirmed": 6129,
-      "date": "2020-06-24",
-      "deaths": 93,
-      "recovered": 4072
-    }
-  },
   "Serbia": {
     "live": {
       "confirmed": 13235,
@@ -1403,9 +1403,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10094,
+          "confirmed": 10128,
           "date": "2020-06-24",
-          "deaths": 537,
+          "deaths": 541,
           "recovered": 0
         }
       },
@@ -1451,9 +1451,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 47067,
+          "confirmed": 47296,
           "date": "2020-06-24",
-          "deaths": 2163,
+          "deaths": 2175,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20541,
+          "confirmed": 20626,
           "date": "2020-06-24",
-          "deaths": 579,
+          "deaths": 586,
           "recovered": 0
         }
       },
@@ -1652,7 +1652,7 @@
       "confirmed": 6847,
       "date": "2020-06-24",
       "deaths": 19,
-      "recovered": 4588
+      "recovered": 4675
     }
   }
 }
