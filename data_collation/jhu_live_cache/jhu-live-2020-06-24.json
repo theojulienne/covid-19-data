@@ -319,7 +319,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35762,
+          "confirmed": 35766,
           "date": "2020-06-24",
           "deaths": 2679,
           "recovered": 30677
@@ -461,10 +461,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 58141,
+      "confirmed": 59561,
       "date": "2020-06-24",
-      "deaths": 2365,
-      "recovered": 15535
+      "deaths": 2450,
+      "recovered": 15935
     }
   },
   "Finland": {
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 191777,
+      "confirmed": 191543,
       "date": "2020-06-24",
-      "deaths": 29662,
-      "recovered": 71178
+      "deaths": 29661,
+      "recovered": 71138
     }
   },
   "Germany": {
@@ -1371,9 +1371,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 134984,
+          "confirmed": 135263,
           "date": "2020-06-24",
-          "deaths": 4451,
+          "deaths": 4477,
           "recovered": 0
         }
       },
@@ -1387,9 +1387,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 40190,
+          "confirmed": 40204,
           "date": "2020-06-24",
-          "deaths": 3784,
+          "deaths": 3792,
           "recovered": 0
         }
       },
@@ -1411,9 +1411,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 6636,
+          "confirmed": 7036,
           "date": "2020-06-24",
-          "deaths": 163,
+          "deaths": 164,
           "recovered": 0
         }
       },
@@ -1451,9 +1451,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 103672,
+          "confirmed": 103837,
           "date": "2020-06-24",
-          "deaths": 7537,
+          "deaths": 7584,
           "recovered": 0
         }
       },
@@ -1563,7 +1563,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 9207,
+          "confirmed": 9460,
           "date": "2020-06-24",
           "deaths": 105,
           "recovered": 0
