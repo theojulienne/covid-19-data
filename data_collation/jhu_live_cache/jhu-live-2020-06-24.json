@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 23062,
+      "confirmed": 23570,
       "date": "2020-06-24",
       "deaths": 68,
-      "recovered": 17450
+      "recovered": 17977
     }
   },
   "Bangladesh": {
@@ -301,10 +301,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 12270,
+      "confirmed": 12592,
       "date": "2020-06-24",
       "deaths": 313,
-      "recovered": 7774
+      "recovered": 10100
     }
   },
   "Canada": {
@@ -319,10 +319,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 35766,
+          "confirmed": 35861,
           "date": "2020-06-24",
-          "deaths": 2679,
-          "recovered": 30677
+          "deaths": 2690,
+          "recovered": 30778
         }
       },
       "Quebec": {
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 21732,
+      "confirmed": 22044,
       "date": "2020-06-24",
       "deaths": 308,
-      "recovered": 15904
+      "recovered": 15940
     }
   },
   "Italy": {
@@ -1003,73 +1003,73 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 7347,
+          "confirmed": 7444,
           "date": "2020-06-24",
-          "deaths": 431,
+          "deaths": 437,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 17303,
+          "confirmed": 17372,
           "date": "2020-06-24",
-          "deaths": 555,
+          "deaths": 563,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 6397,
+          "confirmed": 6585,
           "date": "2020-06-24",
-          "deaths": 430,
+          "deaths": 433,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 8658,
+          "confirmed": 8849,
           "date": "2020-06-24",
-          "deaths": 481,
+          "deaths": 496,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 12552,
+          "confirmed": 12709,
           "date": "2020-06-24",
-          "deaths": 713,
+          "deaths": 718,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 147372,
+          "confirmed": 149377,
           "date": "2020-06-24",
-          "deaths": 3855,
+          "deaths": 3950,
           "recovered": 0
         }
       },
       "Loreto": {
         "live": {
-          "confirmed": 8449,
+          "confirmed": 8681,
           "date": "2020-06-24",
-          "deaths": 330,
+          "deaths": 332,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 15686,
+          "confirmed": 15863,
           "date": "2020-06-24",
-          "deaths": 700,
+          "deaths": 715,
           "recovered": 0
         }
       },
       "Ucayali": {
         "live": {
-          "confirmed": 7229,
+          "confirmed": 7293,
           "date": "2020-06-24",
-          "deaths": 142,
+          "deaths": 145,
           "recovered": 0
         }
       }
@@ -1241,10 +1241,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 106108,
+      "confirmed": 111796,
       "date": "2020-06-24",
-      "deaths": 2102,
-      "recovered": 55045
+      "deaths": 2205,
+      "recovered": 56874
     }
   },
   "Spain": {
@@ -1371,9 +1371,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 135263,
+          "confirmed": 135792,
           "date": "2020-06-24",
-          "deaths": 4477,
+          "deaths": 4489,
           "recovered": 0
         }
       },
