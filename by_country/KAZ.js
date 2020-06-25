@@ -469,8 +469,7 @@ var covid19_dataset_country_kaz = {
       118,
       120,
       127,
-      134,
-      136
+      134
     ],
     "recovered": [
       0,
@@ -626,8 +625,7 @@ var covid19_dataset_country_kaz = {
       10671,
       10897,
       11158,
-      11514,
-      11882
+      11514
     ]
   }
 };
