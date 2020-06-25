@@ -76,7 +76,7 @@
       "confirmed": 61007,
       "date": "2020-06-25",
       "deaths": 9726,
-      "recovered": 16771
+      "recovered": 16890
     }
   },
   "Bolivia": {
@@ -409,6 +409,14 @@
           "recovered": 3311
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6411,
+      "date": "2020-06-25",
+      "deaths": 142,
+      "recovered": 885
     }
   },
   "Cote d'Ivoire": {
@@ -1197,14 +1205,6 @@
           "recovered": 6496
         }
       },
-      "Tula Oblast": {
-        "live": {
-          "confirmed": 6302,
-          "date": "2020-06-25",
-          "deaths": 90,
-          "recovered": 5100
-        }
-      },
       "Voronezh Oblast": {
         "live": {
           "confirmed": 6653,
@@ -1217,18 +1217,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 167267,
+      "confirmed": 170639,
       "date": "2020-06-25",
-      "deaths": 1387,
-      "recovered": 112797
+      "deaths": 1428,
+      "recovered": 117882
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 13235,
+      "confirmed": 13372,
       "date": "2020-06-25",
-      "deaths": 263,
-      "recovered": 12111
+      "deaths": 264,
+      "recovered": 12154
     }
   },
   "Singapore": {
@@ -1531,9 +1531,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 6820,
+          "confirmed": 6877,
           "date": "2020-06-25",
-          "deaths": 149,
+          "deaths": 151,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20626,
+          "confirmed": 20675,
           "date": "2020-06-25",
-          "deaths": 586,
+          "deaths": 594,
           "recovered": 0
         }
       },
@@ -1641,10 +1641,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 6990,
+      "confirmed": 7087,
       "date": "2020-06-25",
-      "deaths": 19,
-      "recovered": 4685
+      "deaths": 20,
+      "recovered": 4724
     }
   }
 }
