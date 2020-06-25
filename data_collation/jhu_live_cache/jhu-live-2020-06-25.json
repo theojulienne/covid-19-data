@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 26389,
+      "confirmed": 27487,
       "date": "2020-06-25",
-      "deaths": 846,
-      "recovered": 6300
+      "deaths": 876,
+      "recovered": 6795
     }
   },
   "Brazil": {
@@ -118,7 +118,7 @@
           "confirmed": 66764,
           "date": "2020-06-25",
           "deaths": 2710,
-          "recovered": 52771
+          "recovered": 54193
         }
       },
       "Bahia": {
@@ -166,7 +166,7 @@
           "confirmed": 73314,
           "date": "2020-06-25",
           "deaths": 1836,
-          "recovered": 47776
+          "recovered": 51911
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 11443,
           "date": "2020-06-25",
           "deaths": 443,
-          "recovered": 3541
+          "recovered": 4160
         }
       },
       "Minas Gerais": {
@@ -230,7 +230,7 @@
           "confirmed": 21774,
           "date": "2020-06-25",
           "deaths": 807,
-          "recovered": 1993
+          "recovered": 2035
         }
       },
       "Rio Grande do Sul": {
@@ -254,7 +254,7 @@
           "confirmed": 17424,
           "date": "2020-06-25",
           "deaths": 455,
-          "recovered": 6455
+          "recovered": 6741
         }
       },
       "Roraima": {
@@ -262,7 +262,7 @@
           "confirmed": 10803,
           "date": "2020-06-25",
           "deaths": 259,
-          "recovered": 2791
+          "recovered": 2831
         }
       },
       "Santa Catarina": {
@@ -286,7 +286,7 @@
           "confirmed": 20353,
           "date": "2020-06-25",
           "deaths": 524,
-          "recovered": 6912
+          "recovered": 7579
         }
       },
       "Tocantins": {
@@ -801,10 +801,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12535,
+      "confirmed": 12563,
       "date": "2020-06-25",
-      "deaths": 281,
-      "recovered": 10930
+      "deaths": 282,
+      "recovered": 10974
     }
   },
   "Kuwait": {
