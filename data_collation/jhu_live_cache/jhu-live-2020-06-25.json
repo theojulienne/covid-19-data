@@ -490,7 +490,7 @@
           "confirmed": 48122,
           "date": "2020-06-25",
           "deaths": 2583,
-          "recovered": 44900
+          "recovered": 45000
         }
       },
       "Berlin": {
@@ -503,15 +503,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10645,
+          "confirmed": 10666,
           "date": "2020-06-25",
-          "deaths": 503,
+          "deaths": 505,
           "recovered": 9800
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13331,
+          "confirmed": 13378,
           "date": "2020-06-25",
           "deaths": 625,
           "recovered": 12000
@@ -519,15 +519,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 41678,
+          "confirmed": 41992,
           "date": "2020-06-25",
           "deaths": 1669,
-          "recovered": 37300
+          "recovered": 37400
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6932,
+          "confirmed": 6940,
           "date": "2020-06-25",
           "deaths": 235,
           "recovered": 6543
@@ -717,10 +717,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 22044,
+      "confirmed": 22139,
       "date": "2020-06-25",
       "deaths": 308,
-      "recovered": 15940
+      "recovered": 15961
     }
   },
   "Italy": {
@@ -895,8 +895,8 @@
     "live": {
       "confirmed": 15078,
       "date": "2020-06-25",
-      "deaths": 495,
-      "recovered": 8400
+      "deaths": 502,
+      "recovered": 8599
     }
   },
   "Morocco": {
@@ -1088,7 +1088,7 @@
       "confirmed": 32821,
       "date": "2020-06-25",
       "deaths": 1396,
-      "recovered": 18134
+      "recovered": 18654
     }
   },
   "Portugal": {
