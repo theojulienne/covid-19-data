@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 49851,
       "date": "2020-06-25",
-      "deaths": 1116,
-      "recovered": 13816
+      "deaths": 1124,
+      "recovered": 14788
     }
   },
   "Armenia": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 14305,
+      "confirmed": 14852,
       "date": "2020-06-25",
-      "deaths": 174,
-      "recovered": 7768
+      "deaths": 180,
+      "recovered": 8059
     }
   },
   "Bahrain": {
@@ -709,10 +709,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 36702,
+      "confirmed": 39139,
       "date": "2020-06-25",
-      "deaths": 1330,
-      "recovered": 16814
+      "deaths": 1437,
+      "recovered": 18051
     }
   },
   "Ireland": {
@@ -901,7 +901,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 15078,
+      "confirmed": 15453,
       "date": "2020-06-25",
       "deaths": 502,
       "recovered": 8599
@@ -1395,9 +1395,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10128,
+          "confirmed": 10159,
           "date": "2020-06-25",
-          "deaths": 541,
+          "deaths": 543,
           "recovered": 0
         }
       },
@@ -1443,9 +1443,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 47296,
+          "confirmed": 47598,
           "date": "2020-06-25",
-          "deaths": 2175,
+          "deaths": 2187,
           "recovered": 0
         }
       },
