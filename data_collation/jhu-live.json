@@ -17,7 +17,7 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 49838,
+      "confirmed": 49851,
       "date": "2020-06-25",
       "deaths": 1116,
       "recovered": 13816
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 14540,
+      "confirmed": 14819,
       "date": "2020-06-25",
-      "deaths": 582,
-      "recovered": 2897
+      "deaths": 601,
+      "recovered": 2930
     }
   },
   "Honduras": {
@@ -1555,9 +1555,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 66979,
+          "confirmed": 67370,
           "date": "2020-06-25",
-          "deaths": 1095,
+          "deaths": 1099,
           "recovered": 0
         }
       },
