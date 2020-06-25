@@ -91,151 +91,159 @@
     "subseries": {
       "Acre": {
         "live": {
-          "confirmed": 12022,
+          "confirmed": 12304,
           "date": "2020-06-25",
-          "deaths": 326,
+          "deaths": 335,
           "recovered": 6270
         }
       },
       "Alagoas": {
         "live": {
-          "confirmed": 31230,
+          "confirmed": 32065,
           "date": "2020-06-25",
-          "deaths": 938,
+          "deaths": 958,
           "recovered": 23185
         }
       },
       "Amapa": {
         "live": {
-          "confirmed": 26919,
+          "confirmed": 27415,
           "date": "2020-06-25",
-          "deaths": 387,
+          "deaths": 394,
           "recovered": 10544
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 66764,
+          "confirmed": 67267,
           "date": "2020-06-25",
-          "deaths": 2710,
+          "deaths": 2731,
           "recovered": 54193
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 51931,
+          "confirmed": 54291,
           "date": "2020-06-25",
-          "deaths": 1541,
+          "deaths": 1601,
           "recovered": 29193
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 99578,
+          "confirmed": 102126,
           "date": "2020-06-25",
-          "deaths": 5815,
+          "deaths": 5875,
           "recovered": 77089
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 37254,
+          "confirmed": 38871,
           "date": "2020-06-25",
-          "deaths": 495,
+          "deaths": 509,
           "recovered": 26493
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 38481,
+          "confirmed": 40246,
           "date": "2020-06-25",
-          "deaths": 1463,
+          "deaths": 1490,
           "recovered": 23729
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 18622,
+          "confirmed": 19547,
           "date": "2020-06-25",
-          "deaths": 363,
+          "deaths": 384,
           "recovered": 0
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 73314,
+          "confirmed": 74925,
           "date": "2020-06-25",
-          "deaths": 1836,
+          "deaths": 1871,
           "recovered": 51911
         }
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 11443,
+          "confirmed": 12157,
           "date": "2020-06-25",
-          "deaths": 443,
+          "deaths": 462,
           "recovered": 4160
+        }
+      },
+      "Mato Grosso do Sul": {
+        "live": {
+          "confirmed": 6523,
+          "date": "2020-06-25",
+          "deaths": 61,
+          "recovered": 1496
         }
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 31343,
+          "confirmed": 32769,
           "date": "2020-06-25",
-          "deaths": 771,
+          "deaths": 806,
           "recovered": 19466
         }
       },
       "Para": {
         "live": {
-          "confirmed": 91708,
+          "confirmed": 94036,
           "date": "2020-06-25",
-          "deaths": 4726,
+          "deaths": 4748,
           "recovered": 79354
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 39912,
+          "confirmed": 40824,
           "date": "2020-06-25",
-          "deaths": 828,
+          "deaths": 842,
           "recovered": 11687
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 16963,
+          "confirmed": 17821,
           "date": "2020-06-25",
-          "deaths": 521,
+          "deaths": 539,
           "recovered": 4598
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 54022,
+          "confirmed": 55136,
           "date": "2020-06-25",
-          "deaths": 4425,
+          "deaths": 4488,
           "recovered": 36710
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 16227,
+          "confirmed": 17080,
           "date": "2020-06-25",
-          "deaths": 534,
+          "deaths": 546,
           "recovered": 15675
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 21774,
+          "confirmed": 22665,
           "date": "2020-06-25",
-          "deaths": 807,
+          "deaths": 858,
           "recovered": 2035
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 22009,
+          "confirmed": 23060,
           "date": "2020-06-25",
           "deaths": 500,
           "recovered": 18446
@@ -243,57 +251,57 @@
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 103493,
+          "confirmed": 105897,
           "date": "2020-06-25",
-          "deaths": 9295,
+          "deaths": 9450,
           "recovered": 85690
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 17424,
+          "confirmed": 18173,
           "date": "2020-06-25",
-          "deaths": 455,
+          "deaths": 467,
           "recovered": 6741
         }
       },
       "Roraima": {
         "live": {
-          "confirmed": 10803,
+          "confirmed": 11872,
           "date": "2020-06-25",
-          "deaths": 259,
+          "deaths": 271,
           "recovered": 2831
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 20921,
+          "confirmed": 21951,
           "date": "2020-06-25",
-          "deaths": 279,
+          "deaths": 289,
           "recovered": 16377
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 238822,
+          "confirmed": 248587,
           "date": "2020-06-25",
-          "deaths": 13352,
+          "deaths": 13759,
           "recovered": 49295
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 20353,
+          "confirmed": 21081,
           "date": "2020-06-25",
-          "deaths": 524,
+          "deaths": 554,
           "recovered": 7579
         }
       },
       "Tocantins": {
         "live": {
-          "confirmed": 9098,
+          "confirmed": 9425,
           "date": "2020-06-25",
-          "deaths": 181,
+          "deaths": 183,
           "recovered": 5670
         }
       }
@@ -311,26 +319,26 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7825,
+          "confirmed": 7851,
           "date": "2020-06-25",
-          "deaths": 153,
-          "recovered": 7134
+          "deaths": 154,
+          "recovered": 7191
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 35861,
+          "confirmed": 35974,
           "date": "2020-06-25",
-          "deaths": 2690,
-          "recovered": 30779
+          "deaths": 2692,
+          "recovered": 30906
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 54937,
+          "confirmed": 55079,
           "date": "2020-06-25",
-          "deaths": 5441,
-          "recovered": 23710
+          "deaths": 5448,
+          "recovered": 23786
         }
       }
     }
@@ -409,14 +417,6 @@
           "recovered": 3463
         }
       }
-    }
-  },
-  "Congo (Kinshasa)": {
-    "live": {
-      "confirmed": 6411,
-      "date": "2020-06-25",
-      "deaths": 142,
-      "recovered": 885
     }
   },
   "Cote d'Ivoire": {
@@ -1371,7 +1371,7 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 6775,
+          "confirmed": 6835,
           "date": "2020-06-25",
           "deaths": 369,
           "recovered": 0
@@ -1483,9 +1483,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 146987,
+          "confirmed": 146977,
           "date": "2020-06-25",
-          "deaths": 11256,
+          "deaths": 11250,
           "recovered": 0
         }
       },
@@ -1493,7 +1493,7 @@
         "live": {
           "confirmed": 362504,
           "date": "2020-06-25",
-          "deaths": 29724,
+          "deaths": 29733,
           "recovered": 0
         }
       },
@@ -1547,9 +1547,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 67370,
+          "confirmed": 69895,
           "date": "2020-06-25",
-          "deaths": 1099,
+          "deaths": 1115,
           "recovered": 0
         }
       },
