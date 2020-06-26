@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 14571,
+      "confirmed": 15366,
       "date": "2020-06-26",
-      "deaths": 417,
-      "recovered": 1546
+      "deaths": 426,
+      "recovered": 1600
     }
   },
   "India": {
@@ -1363,9 +1363,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 140625,
+          "confirmed": 140960,
           "date": "2020-06-26",
-          "deaths": 4583,
+          "deaths": 4588,
           "recovered": 0
         }
       },

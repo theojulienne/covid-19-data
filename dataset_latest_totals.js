@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 44966
         },
         "VIC": {
-          "confirmed": 1884,
+          "confirmed": 1917,
           "current_hospitalized": 4,
           "current_icu": 2,
           "deaths": 20,
-          "recovered": 1721,
-          "tested": 696000
+          "recovered": 1732,
+          "tested": 716000
         },
         "WA": {
           "confirmed": 607,
@@ -3374,22 +3374,22 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 2146362,
+        "confirmed": 2149037,
         "deaths": 111406,
         "recovered": 591938,
-        "tested": 24897036
+        "tested": 24899711
       },
       "back_2week": {
-        "confirmed": 1989171,
+        "confirmed": 1991648,
         "deaths": 106817,
         "recovered": 533257,
-        "tested": 21464347
+        "tested": 21466824
       },
       "latest": {
-        "confirmed": 2361880,
+        "confirmed": 2364758,
         "deaths": 115369,
         "recovered": 655904,
-        "tested": 28540449
+        "tested": 28543327
       },
       "states": {
         "AK": {
@@ -3711,11 +3711,11 @@ var covid19_dataset_latest_totals = {
           "tested": 487059
         },
         "WI": {
-          "confirmed": 25763,
+          "confirmed": 28641,
           "deaths": 757,
           "hospitalized": 3299,
           "recovered": 20121,
-          "tested": 513726
+          "tested": 516604
         },
         "WV": {
           "confirmed": 2629,
