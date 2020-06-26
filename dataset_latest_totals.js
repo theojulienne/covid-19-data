@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 7370,
-        "current_hospitalized": 16,
-        "current_icu": 3,
+        "confirmed": 7391,
+        "current_hospitalized": 14,
+        "current_icu": 2,
         "deaths": 104,
-        "recovered": 6870,
-        "tested": 1876291
+        "recovered": 6878,
+        "tested": 1927271
       },
       "back_2week": {
-        "confirmed": 7276,
-        "current_hospitalized": 20,
+        "confirmed": 7285,
+        "current_hospitalized": 18,
         "current_icu": 3,
         "deaths": 104,
-        "recovered": 6751,
-        "tested": 1679110
+        "recovered": 6766,
+        "tested": 1711031
       },
       "latest": {
-        "confirmed": 7521,
-        "current_hospitalized": 13,
+        "confirmed": 7557,
+        "current_hospitalized": 5,
         "current_icu": 2,
-        "deaths": 105,
-        "recovered": 6926,
-        "tested": 2180161
+        "deaths": 106,
+        "recovered": 6942,
+        "tested": 2217336
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 26480
         },
         "NSW": {
-          "confirmed": 3159,
+          "confirmed": 3162,
           "current_hospitalized": 8,
           "current_icu": 0,
           "current_ventilators": 16,
-          "deaths": 50,
-          "recovered": 2771,
-          "tested": 756240
+          "deaths": 51,
+          "recovered": 2776,
+          "tested": 773415
         },
         "NT": {
           "confirmed": 29,
@@ -2605,7 +2605,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
-        "tested": 294848
+        "tested": 301882
       },
       "back_2week": {
         "confirmed": 1504,
@@ -2621,7 +2621,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
-        "tested": 294848
+        "tested": 301882
       }
     },
     "OMN": {
