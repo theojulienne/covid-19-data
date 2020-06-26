@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 19961,
+        "confirmed": 20430,
         "deaths": 55,
-        "recovered": 14185
+        "recovered": 14696
       },
       "back_2week": {
-        "confirmed": 16200,
+        "confirmed": 16667,
         "deaths": 34,
-        "recovered": 11109
+        "recovered": 11487
       },
       "latest": {
-        "confirmed": 23570,
+        "confirmed": 24081,
         "deaths": 71,
-        "recovered": 17977
+        "recovered": 18501
       }
     },
     "BHS": {
@@ -587,7 +587,7 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 7825,
+          "confirmed": 7851,
           "deaths": 153
         },
         "British Columbia": {
@@ -864,19 +864,19 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 6063,
-        "deaths": 48,
-        "recovered": 2749
+        "confirmed": 6444,
+        "deaths": 49,
+        "recovered": 2863
       },
       "back_2week": {
-        "confirmed": 4181,
+        "confirmed": 4404,
         "deaths": 41,
-        "recovered": 2174
+        "recovered": 2212
       },
       "latest": {
-        "confirmed": 8164,
-        "deaths": 58,
-        "recovered": 3419
+        "confirmed": 8334,
+        "deaths": 60,
+        "recovered": 3487
       }
     },
     "CMR": {
@@ -1318,19 +1318,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 189906,
-        "deaths": 29512,
-        "recovered": 70223
+        "confirmed": 190107,
+        "deaths": 29540,
+        "recovered": 70322
       },
       "back_2week": {
-        "confirmed": 187996,
-        "deaths": 29260,
-        "recovered": 69032
+        "confirmed": 188354,
+        "deaths": 29287,
+        "recovered": 69344
       },
       "latest": {
-        "confirmed": 191543,
-        "deaths": 29661,
-        "recovered": 71138
+        "confirmed": 191288,
+        "deaths": 29680,
+        "recovered": 71322
       },
       "states": {
         "French Guiana": {
@@ -1899,18 +1899,18 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 15877,
-        "deaths": 97,
-        "recovered": 9920
+        "deaths": 100,
+        "recovered": 10065
       },
       "back_2week": {
         "confirmed": 13319,
         "deaths": 67,
-        "recovered": 8345
+        "recovered": 8593
       },
       "latest": {
         "confirmed": 19285,
-        "deaths": 136,
-        "recovered": 11882
+        "deaths": 140,
+        "recovered": 12220
       }
     },
     "KEN": {
@@ -3837,19 +3837,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 80412,
-        "deaths": 1674,
-        "recovered": 44331
+        "confirmed": 83890,
+        "deaths": 1737,
+        "recovered": 44920
       },
       "back_2week": {
-        "confirmed": 55421,
-        "deaths": 1210,
-        "recovered": 31505
+        "confirmed": 58568,
+        "deaths": 1284,
+        "recovered": 33252
       },
       "latest": {
-        "confirmed": 111796,
-        "deaths": 2205,
-        "recovered": 56874
+        "confirmed": 118375,
+        "deaths": 2292,
+        "recovered": 59974
       }
     },
     "ZMB": {
