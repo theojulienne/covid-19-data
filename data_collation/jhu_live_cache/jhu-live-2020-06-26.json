@@ -909,10 +909,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 11465,
+      "confirmed": 11633,
       "date": "2020-06-26",
-      "deaths": 217,
-      "recovered": 8560
+      "deaths": 218,
+      "recovered": 8656
     }
   },
   "Nepal": {
@@ -1515,15 +1515,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 8310,
+          "confirmed": 8511,
           "date": "2020-06-26",
-          "deaths": 378,
+          "deaths": 383,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 40861,
+          "confirmed": 41111,
           "date": "2020-06-26",
           "deaths": 3032,
           "recovered": 0
@@ -1641,10 +1641,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 7228,
+      "confirmed": 7320,
       "date": "2020-06-26",
       "deaths": 20,
-      "recovered": 4877
+      "recovered": 5038
     }
   }
 }
