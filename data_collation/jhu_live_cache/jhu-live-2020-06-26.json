@@ -495,10 +495,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 35486,
+          "confirmed": 35541,
           "date": "2020-06-26",
           "deaths": 1830,
-          "recovered": 33223
+          "recovered": 33252
         }
       },
       "Bayern": {
@@ -511,10 +511,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8096,
+          "confirmed": 8144,
           "date": "2020-06-26",
-          "deaths": 212,
-          "recovered": 7081
+          "deaths": 213,
+          "recovered": 7125
         }
       },
       "Hessen": {
@@ -725,9 +725,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25405,
+      "confirmed": 25414,
       "date": "2020-06-26",
-      "deaths": 1727,
+      "deaths": 1730,
       "recovered": 23364
     }
   },
@@ -1363,9 +1363,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 43681,
+          "confirmed": 46462,
           "date": "2020-06-26",
-          "deaths": 966,
+          "deaths": 984,
           "recovered": 0
         }
       },
@@ -1403,9 +1403,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 67203,
+          "confirmed": 71880,
           "date": "2020-06-26",
-          "deaths": 1982,
+          "deaths": 2005,
           "recovered": 0
         }
       },
@@ -1435,9 +1435,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 16712,
+          "confirmed": 16850,
           "date": "2020-06-26",
-          "deaths": 1009,
+          "deaths": 1011,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 146429,
+          "confirmed": 146758,
           "date": "2020-06-26",
-          "deaths": 12804,
+          "deaths": 12840,
           "recovered": 0
         }
       },
@@ -1501,7 +1501,7 @@
         "live": {
           "confirmed": 363098,
           "date": "2020-06-26",
-          "deaths": 29733,
+          "deaths": 29770,
           "recovered": 0
         }
       },
