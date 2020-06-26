@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6552,
+      "date": "2020-06-26",
+      "deaths": 149,
+      "recovered": 900
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 8334,
@@ -701,10 +709,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 215096,
+      "confirmed": 217724,
       "date": "2020-06-26",
-      "deaths": 10130,
-      "recovered": 175103
+      "deaths": 10239,
+      "recovered": 177852
     }
   },
   "Iraq": {
@@ -909,10 +917,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 11162,
+      "confirmed": 11755,
       "date": "2020-06-26",
-      "deaths": 26,
-      "recovered": 2650
+      "deaths": 27,
+      "recovered": 2698
     }
   },
   "Netherlands": {
@@ -1101,10 +1109,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 91838,
+      "confirmed": 92784,
       "date": "2020-06-26",
-      "deaths": 106,
-      "recovered": 74544
+      "deaths": 109,
+      "recovered": 76072
     }
   },
   "Romania": {
@@ -1411,9 +1419,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 121011,
+          "confirmed": 114518,
           "date": "2020-06-26",
-          "deaths": 5946,
+          "deaths": 5631,
           "recovered": 0
         }
       },
