@@ -315,7 +315,8 @@ var covid19_dataset_country_svk = {
       1587,
       1588,
       1589,
-      1607
+      1607,
+      1630
     ],
     "deaths": [
       0,
@@ -433,6 +434,7 @@ var covid19_dataset_country_svk = {
       27,
       27,
       27,
+      28,
       28,
       28,
       28,
@@ -629,7 +631,8 @@ var covid19_dataset_country_svk = {
       1447,
       1447,
       1448,
-      1448
+      1448,
+      1452
     ]
   }
 };
