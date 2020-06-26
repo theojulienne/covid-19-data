@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 26874,
-        "deaths": 504,
-        "recovered": 6158
+        "confirmed": 27532,
+        "deaths": 546,
+        "recovered": 7660
       },
       "back_2week": {
-        "confirmed": 22142,
-        "deaths": 405,
-        "recovered": 3013
+        "confirmed": 22890,
+        "deaths": 426,
+        "recovered": 3326
       },
       "latest": {
-        "confirmed": 29640,
-        "deaths": 639,
-        "recovered": 9869
+        "confirmed": 30175,
+        "deaths": 675,
+        "recovered": 10174
       }
     },
     "AGO": {
@@ -154,12 +154,12 @@
         "tested": 1711031
       },
       "latest": {
-        "confirmed": 7557,
-        "current_hospitalized": 5,
+        "confirmed": 7558,
+        "current_hospitalized": 13,
         "current_icu": 2,
         "deaths": 106,
         "recovered": 6942,
-        "tested": 2217336
+        "tested": 2231774
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 105,
-          "tested": 26480
+          "tested": 26937
         },
         "NSW": {
           "confirmed": 3162,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 29,
-          "tested": 11878
+          "tested": 12099
         },
         "QLD": {
           "confirmed": 1066,
@@ -193,7 +193,7 @@
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1054,
-          "tested": 327530
+          "tested": 334084
         },
         "SA": {
           "confirmed": 440,
@@ -201,7 +201,7 @@
           "current_icu": 0,
           "deaths": 4,
           "recovered": 436,
-          "tested": 139594
+          "tested": 141630
         },
         "TAS": {
           "confirmed": 228,
@@ -209,7 +209,7 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 215,
-          "tested": 44966
+          "tested": 45970
         },
         "VIC": {
           "confirmed": 1917,
@@ -225,7 +225,7 @@
           "current_icu": 0,
           "deaths": 9,
           "recovered": 595,
-          "tested": 164147
+          "tested": 167201
         }
       }
     },
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 41216,
+        "confirmed": 41473,
         "deaths": 26,
         "recovered": 31938
       },
       "back_2week": {
-        "confirmed": 38965,
+        "confirmed": 39387,
         "deaths": 25,
         "recovered": 26532
       },
       "latest": {
-        "confirmed": 42623,
+        "confirmed": 42736,
         "deaths": 26,
         "recovered": 36299
       }
