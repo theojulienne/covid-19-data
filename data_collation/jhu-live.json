@@ -102,7 +102,7 @@
           "confirmed": 32065,
           "date": "2020-06-26",
           "deaths": 958,
-          "recovered": 23185
+          "recovered": 23766
         }
       },
       "Amapa": {
@@ -110,7 +110,7 @@
           "confirmed": 27415,
           "date": "2020-06-26",
           "deaths": 394,
-          "recovered": 10544
+          "recovered": 10912
         }
       },
       "Amazonas": {
@@ -134,7 +134,7 @@
           "confirmed": 102126,
           "date": "2020-06-26",
           "deaths": 5875,
-          "recovered": 77089
+          "recovered": 77009
         }
       },
       "Distrito Federal": {
@@ -166,7 +166,7 @@
           "confirmed": 74925,
           "date": "2020-06-26",
           "deaths": 1871,
-          "recovered": 51911
+          "recovered": 53791
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 12157,
           "date": "2020-06-26",
           "deaths": 462,
-          "recovered": 4160
+          "recovered": 4437
         }
       },
       "Mato Grosso do Sul": {
@@ -198,7 +198,7 @@
           "confirmed": 94036,
           "date": "2020-06-26",
           "deaths": 4748,
-          "recovered": 79354
+          "recovered": 81392
         }
       },
       "Paraiba": {
@@ -206,7 +206,7 @@
           "confirmed": 40824,
           "date": "2020-06-26",
           "deaths": 842,
-          "recovered": 11687
+          "recovered": 12113
         }
       },
       "Parana": {
@@ -214,7 +214,7 @@
           "confirmed": 17821,
           "date": "2020-06-26",
           "deaths": 539,
-          "recovered": 4598
+          "recovered": 4780
         }
       },
       "Pernambuco": {
@@ -222,7 +222,7 @@
           "confirmed": 55136,
           "date": "2020-06-26",
           "deaths": 4488,
-          "recovered": 36710
+          "recovered": 36996
         }
       },
       "Piaui": {
@@ -230,7 +230,7 @@
           "confirmed": 17080,
           "date": "2020-06-26",
           "deaths": 546,
-          "recovered": 15675
+          "recovered": 16570
         }
       },
       "Rio Grande do Norte": {
@@ -262,7 +262,7 @@
           "confirmed": 18173,
           "date": "2020-06-26",
           "deaths": 467,
-          "recovered": 6741
+          "recovered": 6888
         }
       },
       "Roraima": {
@@ -270,7 +270,7 @@
           "confirmed": 11872,
           "date": "2020-06-26",
           "deaths": 271,
-          "recovered": 2831
+          "recovered": 4370
         }
       },
       "Santa Catarina": {
@@ -278,7 +278,7 @@
           "confirmed": 21951,
           "date": "2020-06-26",
           "deaths": 289,
-          "recovered": 16377
+          "recovered": 16945
         }
       },
       "Sao Paulo": {
@@ -553,10 +553,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 14819,
+      "confirmed": 15619,
       "date": "2020-06-26",
-      "deaths": 601,
-      "recovered": 2930
+      "deaths": 623,
+      "recovered": 2949
     }
   },
   "Honduras": {
@@ -801,10 +801,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12563,
+      "confirmed": 12602,
       "date": "2020-06-26",
       "deaths": 282,
-      "recovered": 10974
+      "recovered": 11172
     }
   },
   "Kuwait": {
@@ -993,10 +993,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 28030,
+      "confirmed": 29037,
       "date": "2020-06-26",
-      "deaths": 547,
-      "recovered": 14794
+      "deaths": 564,
+      "recovered": 14800
     }
   },
   "Peru": {
@@ -1117,6 +1117,14 @@
   },
   "Russia": {
     "subseries": {
+      "Chelyabinsk Oblast": {
+        "live": {
+          "confirmed": 6442,
+          "date": "2020-06-26",
+          "deaths": 70,
+          "recovered": 3500
+        }
+      },
       "Dagestan Republic": {
         "live": {
           "confirmed": 7488,
@@ -1451,9 +1459,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 31304,
+          "confirmed": 11178,
           "date": "2020-06-26",
-          "deaths": 1950,
+          "deaths": 758,
           "recovered": 0
         }
       },
