@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 102314,
-        "deaths": 8361,
+        "deaths": 8408,
         "recovered": 63782
       },
       "back_2week": {
         "confirmed": 99595,
-        "deaths": 8071,
+        "deaths": 8125,
         "recovered": 58131
       },
       "latest": {
         "confirmed": 104629,
-        "deaths": 8567,
+        "deaths": 8571,
         "recovered": 66869
       },
       "states": {
@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 36151,
-          "deaths": 2703
+          "deaths": 2706
         },
         "Prince Edward Island": {
           "confirmed": 27,
