@@ -317,7 +317,8 @@ var covid19_dataset_country_lbn = {
       1603,
       1622,
       1644,
-      1662
+      1662,
+      1697
     ],
     "deaths": [
       0,
@@ -474,6 +475,7 @@ var covid19_dataset_country_lbn = {
       32,
       32,
       32,
+      33,
       33,
       33
     ],
@@ -633,6 +635,7 @@ var covid19_dataset_country_lbn = {
       1077,
       1098,
       1103,
+      1144,
       1144
     ]
   }
