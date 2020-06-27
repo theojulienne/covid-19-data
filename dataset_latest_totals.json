@@ -1166,17 +1166,17 @@
     "ECU": {
       "back_1week": {
         "confirmed": 49097,
-        "deaths": 4087,
+        "deaths": 4156,
         "recovered": 24123
       },
       "back_2week": {
         "confirmed": 44440,
-        "deaths": 3720,
+        "deaths": 3828,
         "recovered": 21862
       },
       "latest": {
         "confirmed": 53156,
-        "deaths": 4343,
+        "deaths": 4406,
         "recovered": 26097
       }
     },
@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 20036,
-        "deaths": 303,
-        "recovered": 15518
+        "confirmed": 20339,
+        "deaths": 304,
+        "recovered": 15586
       },
       "back_2week": {
-        "confirmed": 18569,
+        "confirmed": 18795,
         "deaths": 300,
-        "recovered": 15250
+        "recovered": 15288
       },
       "latest": {
-        "confirmed": 22400,
-        "deaths": 309,
-        "recovered": 16007
+        "confirmed": 22800,
+        "deaths": 314,
+        "recovered": 16872
       }
     },
     "ITA": {

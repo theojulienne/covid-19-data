@@ -463,7 +463,7 @@
     "live": {
       "confirmed": 53856,
       "date": "2020-06-27",
-      "deaths": 4406,
+      "deaths": 4424,
       "recovered": 26493
     }
   },
@@ -733,10 +733,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 22800,
+      "confirmed": 23421,
       "date": "2020-06-27",
-      "deaths": 314,
-      "recovered": 16872
+      "deaths": 317,
+      "recovered": 17002
     }
   },
   "Italy": {
@@ -1459,9 +1459,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 41574,
+          "confirmed": 41736,
           "date": "2020-06-27",
-          "deaths": 4686,
+          "deaths": 4698,
           "recovered": 0
         }
       },
@@ -1547,9 +1547,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 17535,
+          "confirmed": 17814,
           "date": "2020-06-27",
-          "deaths": 286,
+          "deaths": 292,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 10812,
+          "confirmed": 10980,
           "date": "2020-06-27",
-          "deaths": 382,
+          "deaths": 389,
           "recovered": 0
         }
       }
@@ -1641,7 +1641,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 7551,
+      "confirmed": 7682,
       "date": "2020-06-27",
       "deaths": 20,
       "recovered": 5240
