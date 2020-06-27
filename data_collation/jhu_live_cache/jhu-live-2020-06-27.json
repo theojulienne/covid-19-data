@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 12685,
+      "confirmed": 12968,
       "date": "2020-06-27",
-      "deaths": 885,
-      "recovered": 9066
+      "deaths": 892,
+      "recovered": 9202
     }
   },
   "Argentina": {
@@ -327,7 +327,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 36174,
+          "confirmed": 36173,
           "date": "2020-06-27",
           "deaths": 2703,
           "recovered": 31276
@@ -553,10 +553,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 15834,
+      "confirmed": 16431,
       "date": "2020-06-27",
       "deaths": 103,
-      "recovered": 11755
+      "recovered": 12257
     }
   },
   "Guatemala": {
@@ -725,9 +725,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25414,
+      "confirmed": 25437,
       "date": "2020-06-27",
-      "deaths": 1730,
+      "deaths": 1734,
       "recovered": 23364
     }
   },
@@ -909,10 +909,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 11854,
+      "confirmed": 11877,
       "date": "2020-06-27",
-      "deaths": 218,
-      "recovered": 8700
+      "deaths": 220,
+      "recovered": 8723
     }
   },
   "Nepal": {
@@ -1353,10 +1353,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 194511,
+      "confirmed": 195883,
       "date": "2020-06-27",
-      "deaths": 5065,
-      "recovered": 167198
+      "deaths": 5082,
+      "recovered": 169182
     }
   },
   "US": {
@@ -1419,9 +1419,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 115082,
+          "confirmed": 115538,
           "date": "2020-06-27",
-          "deaths": 5664,
+          "deaths": 5682,
           "recovered": 0
         }
       },
@@ -1483,17 +1483,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 12204,
+          "confirmed": 13174,
           "date": "2020-06-27",
-          "deaths": 408,
+          "deaths": 410,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 146758,
+          "confirmed": 146969,
           "date": "2020-06-27",
-          "deaths": 12840,
+          "deaths": 12865,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 6922,
+          "confirmed": 7066,
           "date": "2020-06-27",
-          "deaths": 151,
+          "deaths": 152,
           "recovered": 0
         }
       },
@@ -1641,10 +1641,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 7490,
+      "confirmed": 7551,
       "date": "2020-06-27",
       "deaths": 20,
-      "recovered": 5038
+      "recovered": 5063
     }
   }
 }
