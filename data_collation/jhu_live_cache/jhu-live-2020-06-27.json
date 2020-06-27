@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 130474,
+      "confirmed": 133978,
       "date": "2020-06-27",
-      "deaths": 1661,
-      "recovered": 53133
+      "deaths": 1695,
+      "recovered": 54318
     }
   },
   "Belarus": {
@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 61106,
+      "confirmed": 61209,
       "date": "2020-06-27",
-      "deaths": 9731,
-      "recovered": 16918
+      "deaths": 9732,
+      "recovered": 16941
     }
   },
   "Bolivia": {
@@ -693,10 +693,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 51427,
+      "confirmed": 52812,
       "date": "2020-06-27",
-      "deaths": 2683,
-      "recovered": 21333
+      "deaths": 2720,
+      "recovered": 21909
     }
   },
   "Iran": {
@@ -825,10 +825,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8606,
+      "confirmed": 8616,
       "date": "2020-06-27",
       "deaths": 121,
-      "recovered": 8294
+      "recovered": 8308
     }
   },
   "Mexico": {
@@ -1085,17 +1085,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 34073,
+      "confirmed": 34803,
       "date": "2020-06-27",
-      "deaths": 1224,
-      "recovered": 9182
+      "deaths": 1236,
+      "recovered": 9430
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 33395,
+      "confirmed": 33714,
       "date": "2020-06-27",
-      "deaths": 1429,
+      "deaths": 1435,
       "recovered": 19972
     }
   },
