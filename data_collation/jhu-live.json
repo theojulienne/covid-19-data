@@ -387,34 +387,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 18593,
+          "confirmed": 20246,
           "date": "2020-06-27",
-          "deaths": 888,
-          "recovered": 5342
+          "deaths": 962,
+          "recovered": 5896
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 7852,
+          "confirmed": 8138,
           "date": "2020-06-27",
-          "deaths": 306,
-          "recovered": 3548
+          "deaths": 319,
+          "recovered": 3759
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 24636,
+          "confirmed": 25540,
           "date": "2020-06-27",
-          "deaths": 575,
-          "recovered": 10714
+          "deaths": 602,
+          "recovered": 10999
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 8689,
+          "confirmed": 8938,
           "date": "2020-06-27",
-          "deaths": 369,
-          "recovered": 3649
+          "deaths": 384,
+          "recovered": 3806
         }
       }
     }
@@ -490,7 +490,7 @@
           "confirmed": 35541,
           "date": "2020-06-27",
           "deaths": 1830,
-          "recovered": 33252
+          "recovered": 33300
         }
       },
       "Bayern": {
@@ -530,7 +530,7 @@
           "confirmed": 42150,
           "date": "2020-06-27",
           "deaths": 1673,
-          "recovered": 37500
+          "recovered": 37600
         }
       },
       "Rheinland-Pfalz": {
