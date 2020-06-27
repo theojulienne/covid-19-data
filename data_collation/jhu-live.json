@@ -177,6 +177,14 @@
           "recovered": 4437
         }
       },
+      "Mato Grosso do Sul": {
+        "live": {
+          "confirmed": 6913,
+          "date": "2020-06-27",
+          "deaths": 65,
+          "recovered": 3468
+        }
+      },
       "Minas Gerais": {
         "live": {
           "confirmed": 38891,
@@ -607,14 +615,6 @@
           "date": "2020-06-27",
           "deaths": 198,
           "recovered": 7380
-        }
-      },
-      "Jammu and Kashmir": {
-        "live": {
-          "confirmed": 6549,
-          "date": "2020-06-27",
-          "deaths": 90,
-          "recovered": 3967
         }
       },
       "Karnataka": {
