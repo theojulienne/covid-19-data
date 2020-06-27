@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 24805,
       "date": "2020-06-27",
-      "deaths": 76,
+      "deaths": 78,
       "recovered": 19137
     }
   },
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 60713,
+      "confirmed": 61095,
       "date": "2020-06-27",
-      "deaths": 373,
-      "recovered": 42689
+      "deaths": 377,
+      "recovered": 44126
     }
   },
   "Belgium": {
@@ -417,6 +417,14 @@
           "recovered": 3806
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6690,
+      "date": "2020-06-27",
+      "deaths": 153,
+      "recovered": 937
     }
   },
   "Cote d'Ivoire": {
@@ -873,14 +881,6 @@
           "recovered": 6139
         }
       },
-      "Sonora": {
-        "live": {
-          "confirmed": 6677,
-          "date": "2020-06-27",
-          "deaths": 596,
-          "recovered": 5607
-        }
-      },
       "Tabasco": {
         "live": {
           "confirmed": 9752,
@@ -925,9 +925,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50005,
+      "confirmed": 50074,
       "date": "2020-06-27",
-      "deaths": 6103,
+      "deaths": 6105,
       "recovered": 0
     }
   },
