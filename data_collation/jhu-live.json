@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 15369,
+      "confirmed": 15890,
       "date": "2020-06-27",
-      "deaths": 187,
-      "recovered": 8364
+      "deaths": 193,
+      "recovered": 8719
     }
   },
   "Bahrain": {
@@ -901,10 +901,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 15776,
+      "confirmed": 16080,
       "date": "2020-06-27",
-      "deaths": 515,
-      "recovered": 8765
+      "deaths": 521,
+      "recovered": 8963
     }
   },
   "Morocco": {
@@ -1443,9 +1443,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 47845,
+          "confirmed": 48025,
           "date": "2020-06-27",
-          "deaths": 2197,
+          "deaths": 2209,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20760,
+          "confirmed": 20894,
           "date": "2020-06-27",
-          "deaths": 601,
+          "deaths": 607,
           "recovered": 0
         }
       },
