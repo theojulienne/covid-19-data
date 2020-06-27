@@ -327,7 +327,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 36151,
+          "confirmed": 36169,
           "date": "2020-06-27",
           "deaths": 2706,
           "recovered": 31210
@@ -453,10 +453,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 29764,
+      "confirmed": 30619,
       "date": "2020-06-27",
-      "deaths": 712,
-      "recovered": 16357
+      "deaths": 718,
+      "recovered": 16666
     }
   },
   "Ecuador": {
@@ -485,10 +485,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 192624,
+      "confirmed": 192621,
       "date": "2020-06-27",
       "deaths": 29705,
-      "recovered": 71550
+      "recovered": 71538
     }
   },
   "Germany": {
@@ -1251,7 +1251,7 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 12984,
+          "confirmed": 13027,
           "date": "2020-06-27",
           "deaths": 1426,
           "recovered": 10671
@@ -1259,7 +1259,7 @@
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 11512,
+          "confirmed": 11531,
           "date": "2020-06-27",
           "deaths": 1432,
           "recovered": 9970
@@ -1267,7 +1267,7 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 18024,
+          "confirmed": 18076,
           "date": "2020-06-27",
           "deaths": 3024,
           "recovered": 6392
@@ -1275,7 +1275,7 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 19607,
+          "confirmed": 19634,
           "date": "2020-06-27",
           "deaths": 2783,
           "recovered": 8716
@@ -1283,7 +1283,7 @@
       },
       "Catalonia": {
         "live": {
-          "confirmed": 61073,
+          "confirmed": 61229,
           "date": "2020-06-27",
           "deaths": 5668,
           "recovered": 26203
@@ -1291,7 +1291,7 @@
       },
       "Galicia": {
         "live": {
-          "confirmed": 9193,
+          "confirmed": 9199,
           "date": "2020-06-27",
           "deaths": 619,
           "recovered": 9204
@@ -1299,15 +1299,15 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 71632,
+          "confirmed": 71839,
           "date": "2020-06-27",
-          "deaths": 8418,
+          "deaths": 8420,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 13756,
+          "confirmed": 13766,
           "date": "2020-06-27",
           "deaths": 1555,
           "recovered": 16160
@@ -1395,17 +1395,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10185,
+          "confirmed": 10216,
           "date": "2020-06-27",
-          "deaths": 546,
+          "deaths": 548,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 71880,
+          "confirmed": 76503,
           "date": "2020-06-27",
-          "deaths": 2005,
+          "deaths": 2009,
           "recovered": 0
         }
       },
@@ -1499,7 +1499,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 363098,
+          "confirmed": 363642,
           "date": "2020-06-27",
           "deaths": 29774,
           "recovered": 0
@@ -1607,15 +1607,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 159958,
+          "confirmed": 160150,
           "date": "2020-06-27",
-          "deaths": 38888,
+          "deaths": 38982,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 15807,
+          "confirmed": 15814,
           "date": "2020-06-27",
           "deaths": 2482,
           "recovered": 0
@@ -1623,7 +1623,7 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 113188,
+          "confirmed": 113832,
           "date": "2020-06-27",
           "deaths": 0,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 15531,
+          "confirmed": 15577,
           "date": "2020-06-27",
-          "deaths": 1497,
+          "deaths": 1502,
           "recovered": 0
         }
       }
