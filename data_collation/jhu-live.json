@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 24805,
       "date": "2020-06-27",
-      "deaths": 73,
+      "deaths": 76,
       "recovered": 19137
     }
   },
@@ -817,10 +817,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 43703,
+      "confirmed": 44391,
       "date": "2020-06-27",
-      "deaths": 341,
-      "recovered": 33969
+      "deaths": 344,
+      "recovered": 34586
     }
   },
   "Malaysia": {
@@ -917,10 +917,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 11755,
+      "confirmed": 12309,
       "date": "2020-06-27",
-      "deaths": 27,
-      "recovered": 2698
+      "deaths": 28,
+      "recovered": 2834
     }
   },
   "Netherlands": {
@@ -1109,18 +1109,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 92784,
+      "confirmed": 93663,
       "date": "2020-06-27",
-      "deaths": 109,
-      "recovered": 76072
+      "deaths": 110,
+      "recovered": 77225
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 25697,
+      "confirmed": 26022,
       "date": "2020-06-27",
-      "deaths": 1579,
-      "recovered": 18181
+      "deaths": 1589,
+      "recovered": 18530
     }
   },
   "Russia": {
@@ -1345,7 +1345,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31486,
+      "confirmed": 31555,
       "date": "2020-06-27",
       "deaths": 1962,
       "recovered": 29000
