@@ -118,7 +118,7 @@
           "confirmed": 68220,
           "date": "2020-06-27",
           "deaths": 2739,
-          "recovered": 54193
+          "recovered": 55414
         }
       },
       "Bahia": {
@@ -142,7 +142,7 @@
           "confirmed": 41326,
           "date": "2020-06-27",
           "deaths": 532,
-          "recovered": 27683
+          "recovered": 27677
         }
       },
       "Espirito Santo": {
@@ -166,7 +166,7 @@
           "confirmed": 76698,
           "date": "2020-06-27",
           "deaths": 1906,
-          "recovered": 53791
+          "recovered": 55837
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 13026,
           "date": "2020-06-27",
           "deaths": 480,
-          "recovered": 4437
+          "recovered": 4735
         }
       },
       "Mato Grosso do Sul": {
@@ -206,7 +206,7 @@
           "confirmed": 42832,
           "date": "2020-06-27",
           "deaths": 864,
-          "recovered": 12113
+          "recovered": 12962
         }
       },
       "Parana": {
@@ -222,7 +222,7 @@
           "confirmed": 55804,
           "date": "2020-06-27",
           "deaths": 4610,
-          "recovered": 36996
+          "recovered": 38155
         }
       },
       "Piaui": {
@@ -230,7 +230,7 @@
           "confirmed": 18023,
           "date": "2020-06-27",
           "deaths": 574,
-          "recovered": 16570
+          "recovered": 17194
         }
       },
       "Rio Grande do Norte": {
@@ -238,7 +238,7 @@
           "confirmed": 23731,
           "date": "2020-06-27",
           "deaths": 889,
-          "recovered": 2035
+          "recovered": 2904
         }
       },
       "Rio Grande do Sul": {
@@ -262,7 +262,7 @@
           "confirmed": 19271,
           "date": "2020-06-27",
           "deaths": 476,
-          "recovered": 6888
+          "recovered": 7179
         }
       },
       "Roraima": {
@@ -801,7 +801,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 19750,
+      "confirmed": 20319,
       "date": "2020-06-27",
       "deaths": 150,
       "recovered": 12548
