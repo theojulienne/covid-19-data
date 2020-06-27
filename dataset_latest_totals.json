@@ -1899,17 +1899,17 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 15877,
-        "deaths": 100,
+        "deaths": 113,
         "recovered": 10411
       },
       "back_2week": {
         "confirmed": 13872,
-        "deaths": 67,
+        "deaths": 70,
         "recovered": 8829
       },
       "latest": {
         "confirmed": 19750,
-        "deaths": 140,
+        "deaths": 150,
         "recovered": 12548
       }
     },
@@ -2917,17 +2917,17 @@
       "back_1week": {
         "confirmed": 41615,
         "deaths": 26,
-        "recovered": 32712
+        "recovered": 33459
       },
       "back_2week": {
         "confirmed": 39850,
         "deaths": 25,
-        "recovered": 27286
+        "recovered": 28040
       },
       "latest": {
         "confirmed": 42955,
         "deaths": 26,
-        "recovered": 36604
+        "recovered": 36825
       }
     },
     "SLE": {
