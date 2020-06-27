@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 30451,
+      "confirmed": 30616,
       "date": "2020-06-27",
-      "deaths": 683,
-      "recovered": 10306
+      "deaths": 703,
+      "recovered": 10674
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 23247,
+      "confirmed": 23909,
       "date": "2020-06-27",
-      "deaths": 410,
-      "recovered": 12149
+      "deaths": 421,
+      "recovered": 12911
     }
   },
   "Austria": {
@@ -495,7 +495,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 48202,
+          "confirmed": 48262,
           "date": "2020-06-27",
           "deaths": 2594,
           "recovered": 45100
@@ -503,7 +503,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8144,
+          "confirmed": 8145,
           "date": "2020-06-27",
           "deaths": 213,
           "recovered": 7125
@@ -511,15 +511,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10707,
+          "confirmed": 10731,
           "date": "2020-06-27",
-          "deaths": 505,
-          "recovered": 9800
+          "deaths": 506,
+          "recovered": 9900
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13422,
+          "confirmed": 13456,
           "date": "2020-06-27",
           "deaths": 629,
           "recovered": 12100
@@ -527,15 +527,15 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 42150,
+          "confirmed": 42571,
           "date": "2020-06-27",
-          "deaths": 1673,
+          "deaths": 1674,
           "recovered": 37600
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 6954,
+          "confirmed": 6971,
           "date": "2020-06-27",
           "deaths": 235,
           "recovered": 6565
@@ -1233,7 +1233,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 42955,
+      "confirmed": 43246,
       "date": "2020-06-27",
       "deaths": 26,
       "recovered": 36825
