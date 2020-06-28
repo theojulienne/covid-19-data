@@ -4,7 +4,7 @@
       "confirmed": 30967,
       "date": "2020-06-28",
       "deaths": 737,
-      "recovered": 12588
+      "recovered": 12604
     }
   },
   "Algeria": {
@@ -933,7 +933,7 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50074,
+      "confirmed": 50147,
       "date": "2020-06-28",
       "deaths": 6105,
       "recovered": 0
@@ -1117,10 +1117,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 93663,
+      "confirmed": 94413,
       "date": "2020-06-28",
       "deaths": 110,
-      "recovered": 77225
+      "recovered": 78702
     }
   },
   "Romania": {
@@ -1657,10 +1657,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 7725,
+      "confirmed": 7813,
       "date": "2020-06-28",
       "deaths": 20,
-      "recovered": 5240
+      "recovered": 5248
     }
   }
 }
