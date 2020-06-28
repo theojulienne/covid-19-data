@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 15994,
+      "confirmed": 17007,
       "date": "2020-06-28",
-      "deaths": 471,
-      "recovered": 1678
+      "deaths": 479,
+      "recovered": 1767
     }
   },
   "India": {
@@ -1371,7 +1371,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 147101,
+          "confirmed": 147617,
           "date": "2020-06-28",
           "deaths": 4654,
           "recovered": 0
@@ -1523,9 +1523,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 41111,
+          "confirmed": 41177,
           "date": "2020-06-28",
-          "deaths": 3032,
+          "deaths": 3042,
           "recovered": 0
         }
       },
