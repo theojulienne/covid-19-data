@@ -1170,14 +1170,14 @@
         "recovered": 24446
       },
       "back_2week": {
-        "confirmed": 45778,
-        "deaths": 3828,
-        "recovered": 22679
+        "confirmed": 46356,
+        "deaths": 3874,
+        "recovered": 22865
       },
       "latest": {
-        "confirmed": 53856,
-        "deaths": 4406,
-        "recovered": 26493
+        "confirmed": 54574,
+        "deaths": 4424,
+        "recovered": 26920
       }
     },
     "EGY": {

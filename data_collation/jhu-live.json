@@ -327,7 +327,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 36590,
+          "confirmed": 36597,
           "date": "2020-06-28",
           "deaths": 2717,
           "recovered": 31605
@@ -461,10 +461,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 54574,
+      "confirmed": 55255,
       "date": "2020-06-28",
-      "deaths": 4424,
-      "recovered": 26920
+      "deaths": 4429,
+      "recovered": 27058
     }
   },
   "Egypt": {
@@ -1395,9 +1395,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 6947,
+          "confirmed": 7007,
           "date": "2020-06-28",
-          "deaths": 374,
+          "deaths": 375,
           "recovered": 0
         }
       },
@@ -1477,7 +1477,7 @@
         "live": {
           "confirmed": 41834,
           "date": "2020-06-28",
-          "deaths": 4703,
+          "deaths": 4702,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 77317,
+          "confirmed": 77824,
           "date": "2020-06-28",
-          "deaths": 1166,
+          "deaths": 1169,
           "recovered": 0
         }
       },
@@ -1595,7 +1595,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 16637,
+          "confirmed": 16815,
           "date": "2020-06-28",
           "deaths": 762,
           "recovered": 0
