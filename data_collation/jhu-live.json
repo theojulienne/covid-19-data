@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 25267,
+      "confirmed": 25705,
       "date": "2020-06-28",
       "deaths": 83,
-      "recovered": 19781
+      "recovered": 20517
     }
   },
   "Bangladesh": {
@@ -1019,73 +1019,81 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 7752,
+          "confirmed": 7828,
           "date": "2020-06-28",
-          "deaths": 452,
+          "deaths": 457,
+          "recovered": 0
+        }
+      },
+      "Arequipa": {
+        "live": {
+          "confirmed": 6823,
+          "date": "2020-06-28",
+          "deaths": 230,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 17747,
+          "confirmed": 17871,
           "date": "2020-06-28",
-          "deaths": 596,
+          "deaths": 611,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 6981,
+          "confirmed": 7121,
           "date": "2020-06-28",
-          "deaths": 456,
+          "deaths": 464,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 9490,
+          "confirmed": 9692,
           "date": "2020-06-28",
-          "deaths": 538,
+          "deaths": 553,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 13259,
-          "date": "2020-06-28",
-          "deaths": 731,
-          "recovered": 0
-        }
-      },
-      "Lima": {
-        "live": {
-          "confirmed": 154713,
-          "date": "2020-06-28",
-          "deaths": 4228,
-          "recovered": 0
-        }
-      },
-      "Loreto": {
-        "live": {
-          "confirmed": 8835,
-          "date": "2020-06-28",
-          "deaths": 339,
-          "recovered": 0
-        }
-      },
-      "Piura": {
-        "live": {
-          "confirmed": 16461,
+          "confirmed": 13475,
           "date": "2020-06-28",
           "deaths": 737,
           "recovered": 0
         }
       },
+      "Lima": {
+        "live": {
+          "confirmed": 156172,
+          "date": "2020-06-28",
+          "deaths": 4320,
+          "recovered": 0
+        }
+      },
+      "Loreto": {
+        "live": {
+          "confirmed": 8904,
+          "date": "2020-06-28",
+          "deaths": 341,
+          "recovered": 0
+        }
+      },
+      "Piura": {
+        "live": {
+          "confirmed": 16634,
+          "date": "2020-06-28",
+          "deaths": 742,
+          "recovered": 0
+        }
+      },
       "Ucayali": {
         "live": {
-          "confirmed": 7528,
+          "confirmed": 7619,
           "date": "2020-06-28",
-          "deaths": 146,
+          "deaths": 149,
           "recovered": 0
         }
       }
@@ -1147,14 +1155,6 @@
           "date": "2020-06-28",
           "deaths": 371,
           "recovered": 5615
-        }
-      },
-      "Irkutsk Oblast": {
-        "live": {
-          "confirmed": 6807,
-          "date": "2020-06-28",
-          "deaths": 55,
-          "recovered": 2465
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
@@ -1571,9 +1571,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 76589,
+          "confirmed": 77317,
           "date": "2020-06-28",
-          "deaths": 1165,
+          "deaths": 1166,
           "recovered": 0
         }
       },
