@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 23909,
+      "confirmed": 24645,
       "date": "2020-06-28",
-      "deaths": 421,
-      "recovered": 12911
+      "deaths": 426,
+      "recovered": 13116
     }
   },
   "Austria": {
@@ -495,7 +495,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 48262,
+          "confirmed": 48294,
           "date": "2020-06-28",
           "deaths": 2594,
           "recovered": 45100
@@ -503,7 +503,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8167,
+          "confirmed": 8168,
           "date": "2020-06-28",
           "deaths": 213,
           "recovered": 7196
@@ -511,7 +511,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10731,
+          "confirmed": 10761,
           "date": "2020-06-28",
           "deaths": 506,
           "recovered": 9900
@@ -809,9 +809,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 20319,
+      "confirmed": 20780,
       "date": "2020-06-28",
-      "deaths": 166,
+      "deaths": 173,
       "recovered": 12738
     }
   },
