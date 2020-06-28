@@ -485,7 +485,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 192430,
+      "confirmed": 192429,
       "date": "2020-06-28",
       "deaths": 29704,
       "recovered": 71455
@@ -920,7 +920,7 @@
       "confirmed": 12052,
       "date": "2020-06-28",
       "deaths": 221,
-      "recovered": 8730
+      "recovered": 8740
     }
   },
   "Nepal": {
@@ -1369,10 +1369,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 195883,
+      "confirmed": 197239,
       "date": "2020-06-28",
-      "deaths": 5082,
-      "recovered": 169182
+      "deaths": 5097,
+      "recovered": 170595
     }
   },
   "US": {
@@ -1475,9 +1475,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 41736,
+          "confirmed": 41834,
           "date": "2020-06-28",
-          "deaths": 4698,
+          "deaths": 4703,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 10980,
+          "confirmed": 11110,
           "date": "2020-06-28",
           "deaths": 389,
           "recovered": 0
