@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 57333,
-        "deaths": 337,
-        "recovered": 35275
+        "confirmed": 57936,
+        "deaths": 343,
+        "recovered": 36749
       },
       "back_2week": {
-        "confirmed": 52520,
-        "deaths": 298,
-        "recovered": 27760
+        "confirmed": 53241,
+        "deaths": 303,
+        "recovered": 29111
       },
       "latest": {
-        "confirmed": 60713,
-        "deaths": 373,
-        "recovered": 42689
+        "confirmed": 61095,
+        "deaths": 377,
+        "recovered": 44126
       }
     },
     "BLZ": {
@@ -2864,19 +2864,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 150292,
-        "deaths": 1184,
-        "recovered": 95764
+        "confirmed": 154233,
+        "deaths": 1230,
+        "recovered": 98917
       },
       "back_2week": {
-        "confirmed": 119942,
-        "deaths": 893,
-        "recovered": 81029
+        "confirmed": 123308,
+        "deaths": 932,
+        "recovered": 82548
       },
       "latest": {
-        "confirmed": 174577,
-        "deaths": 1474,
-        "recovered": 120471
+        "confirmed": 178504,
+        "deaths": 1511,
+        "recovered": 122128
       }
     },
     "SDN": {
@@ -3000,19 +3000,19 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 12709,
-        "deaths": 259,
-        "recovered": 11822
+        "confirmed": 12803,
+        "deaths": 260,
+        "recovered": 11889
       },
       "back_2week": {
-        "confirmed": 12175,
-        "deaths": 252,
-        "recovered": 11411
+        "confirmed": 12251,
+        "deaths": 253,
+        "recovered": 11465
       },
       "latest": {
-        "confirmed": 13565,
-        "deaths": 265,
-        "recovered": 12232
+        "confirmed": 13792,
+        "deaths": 267,
+        "recovered": 12338
       }
     },
     "SSD": {

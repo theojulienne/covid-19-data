@@ -3,7 +3,7 @@
     "live": {
       "confirmed": 30967,
       "date": "2020-06-28",
-      "deaths": 737,
+      "deaths": 721,
       "recovered": 12604
     }
   },
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 61095,
+      "confirmed": 61475,
       "date": "2020-06-28",
-      "deaths": 377,
-      "recovered": 44126
+      "deaths": 383,
+      "recovered": 45027
     }
   },
   "Belgium": {
@@ -1233,18 +1233,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 178504,
+      "confirmed": 182483,
       "date": "2020-06-28",
-      "deaths": 1511,
-      "recovered": 122128
+      "deaths": 1551,
+      "recovered": 124755
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 13792,
+      "confirmed": 14046,
       "date": "2020-06-28",
-      "deaths": 267,
-      "recovered": 12338
+      "deaths": 270,
+      "recovered": 12464
     }
   },
   "Singapore": {
@@ -1547,9 +1547,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 7066,
+          "confirmed": 7189,
           "date": "2020-06-28",
-          "deaths": 152,
+          "deaths": 153,
           "recovered": 0
         }
       },
@@ -1659,7 +1659,7 @@
     "live": {
       "confirmed": 7813,
       "date": "2020-06-28",
-      "deaths": 20,
+      "deaths": 21,
       "recovered": 5248
     }
   }
