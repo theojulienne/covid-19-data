@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 25267,
       "date": "2020-06-28",
-      "deaths": 78,
+      "deaths": 82,
       "recovered": 19781
     }
   },
@@ -347,25 +347,25 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 8027,
+          "confirmed": 8308,
           "date": "2020-06-28",
-          "deaths": 142,
+          "deaths": 147,
           "recovered": 0
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 211819,
+          "confirmed": 214388,
           "date": "2020-06-28",
-          "deaths": 4584,
+          "deaths": 4711,
           "recovered": 0
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 11054,
+          "confirmed": 11307,
           "date": "2020-06-28",
-          "deaths": 217,
+          "deaths": 229,
           "recovered": 0
         }
       }
@@ -511,10 +511,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8168,
+          "confirmed": 8175,
           "date": "2020-06-28",
           "deaths": 213,
-          "recovered": 7196
+          "recovered": 7217
         }
       },
       "Hessen": {
@@ -733,9 +733,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25437,
+      "confirmed": 25439,
       "date": "2020-06-28",
-      "deaths": 1734,
+      "deaths": 1735,
       "recovered": 23364
     }
   },
@@ -949,7 +949,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8846,
+      "confirmed": 8853,
       "date": "2020-06-28",
       "deaths": 249,
       "recovered": 8138
@@ -1507,9 +1507,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 140254,
+          "confirmed": 140491,
           "date": "2020-06-28",
-          "deaths": 12072,
+          "deaths": 12087,
           "recovered": 0
         }
       },
@@ -1517,7 +1517,7 @@
         "live": {
           "confirmed": 364107,
           "date": "2020-06-28",
-          "deaths": 29799,
+          "deaths": 29828,
           "recovered": 0
         }
       },
