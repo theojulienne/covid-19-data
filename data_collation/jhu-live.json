@@ -73,7 +73,7 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 61209,
+      "confirmed": 61295,
       "date": "2020-06-28",
       "deaths": 9732,
       "recovered": 16941
@@ -417,6 +417,14 @@
           "recovered": 3921
         }
       }
+    }
+  },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 6827,
+      "date": "2020-06-28",
+      "deaths": 157,
+      "recovered": 985
     }
   },
   "Cote d'Ivoire": {
@@ -773,14 +781,6 @@
           "recovered": 66046
         }
       },
-      "Marche": {
-        "live": {
-          "confirmed": 6785,
-          "date": "2020-06-28",
-          "deaths": 991,
-          "recovered": 5437
-        }
-      },
       "Piemonte": {
         "live": {
           "confirmed": 31322,
@@ -825,10 +825,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 44391,
+      "confirmed": 44942,
       "date": "2020-06-28",
-      "deaths": 344,
-      "recovered": 34586
+      "deaths": 348,
+      "recovered": 35494
     }
   },
   "Malaysia": {
@@ -925,10 +925,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 12309,
+      "confirmed": 12772,
       "date": "2020-06-28",
       "deaths": 28,
-      "recovered": 2834
+      "recovered": 3013
     }
   },
   "Netherlands": {
