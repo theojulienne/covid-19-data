@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17580,
+      "confirmed": 17654,
       "date": "2020-06-28",
-      "deaths": 700,
-      "recovered": 16371
+      "deaths": 702,
+      "recovered": 16401
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 133978,
+      "confirmed": 137787,
       "date": "2020-06-28",
-      "deaths": 1695,
-      "recovered": 54318
+      "deaths": 1738,
+      "recovered": 55727
     }
   },
   "Belarus": {
@@ -701,10 +701,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 52812,
+      "confirmed": 54010,
       "date": "2020-06-28",
-      "deaths": 2720,
-      "recovered": 21909
+      "deaths": 2754,
+      "recovered": 22936
     }
   },
   "Iran": {
@@ -833,10 +833,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8616,
+      "confirmed": 8634,
       "date": "2020-06-28",
       "deaths": 121,
-      "recovered": 8308
+      "recovered": 8318
     }
   },
   "Mexico": {
@@ -911,16 +911,16 @@
     "live": {
       "confirmed": 16080,
       "date": "2020-06-28",
-      "deaths": 521,
-      "recovered": 8963
+      "deaths": 526,
+      "recovered": 9081
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 11877,
+      "confirmed": 11986,
       "date": "2020-06-28",
       "deaths": 220,
-      "recovered": 8723
+      "recovered": 8730
     }
   },
   "Nepal": {
@@ -957,10 +957,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 36953,
+      "confirmed": 38150,
       "date": "2020-06-28",
-      "deaths": 159,
-      "recovered": 20363
+      "deaths": 163,
+      "recovered": 21200
     }
   },
   "Pakistan": {
@@ -1093,17 +1093,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 34803,
+      "confirmed": 35455,
       "date": "2020-06-28",
-      "deaths": 1236,
-      "recovered": 9430
+      "deaths": 1244,
+      "recovered": 9686
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 33714,
+      "confirmed": 33907,
       "date": "2020-06-28",
-      "deaths": 1435,
+      "deaths": 1438,
       "recovered": 20548
     }
   },
