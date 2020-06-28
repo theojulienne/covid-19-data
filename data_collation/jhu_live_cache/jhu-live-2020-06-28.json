@@ -387,34 +387,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 20246,
+          "confirmed": 21189,
           "date": "2020-06-28",
-          "deaths": 962,
-          "recovered": 5896
+          "deaths": 1022,
+          "recovered": 6257
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 8138,
+          "confirmed": 8560,
           "date": "2020-06-28",
-          "deaths": 319,
-          "recovered": 3759
+          "deaths": 330,
+          "recovered": 3909
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 25540,
+          "confirmed": 27118,
           "date": "2020-06-28",
-          "deaths": 602,
-          "recovered": 10999
+          "deaths": 633,
+          "recovered": 11380
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 8938,
+          "confirmed": 9277,
           "date": "2020-06-28",
-          "deaths": 384,
-          "recovered": 3806
+          "deaths": 393,
+          "recovered": 3921
         }
       }
     }
@@ -1649,7 +1649,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 7682,
+      "confirmed": 7725,
       "date": "2020-06-28",
       "deaths": 20,
       "recovered": 5240
