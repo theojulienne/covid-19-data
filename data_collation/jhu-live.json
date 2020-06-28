@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 29423,
+      "confirmed": 30676,
       "date": "2020-06-28",
-      "deaths": 934,
-      "recovered": 7736
+      "deaths": 970,
+      "recovered": 8158
     }
   },
   "Brazil": {
@@ -1371,9 +1371,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 146665,
+          "confirmed": 147101,
           "date": "2020-06-28",
-          "deaths": 4652,
+          "deaths": 4654,
           "recovered": 0
         }
       },
