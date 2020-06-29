@@ -949,7 +949,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8855,
+      "confirmed": 8862,
       "date": "2020-06-29",
       "deaths": 249,
       "recovered": 8138
@@ -1109,10 +1109,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 41646,
+      "confirmed": 41912,
       "date": "2020-06-29",
-      "deaths": 1564,
-      "recovered": 27066
+      "deaths": 1568,
+      "recovered": 27205
     }
   },
   "Qatar": {
@@ -1459,9 +1459,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 48284,
+          "confirmed": 48607,
           "date": "2020-06-29",
-          "deaths": 2215,
+          "deaths": 2221,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20982,
+          "confirmed": 21050,
           "date": "2020-06-29",
-          "deaths": 612,
+          "deaths": 617,
           "recovered": 0
         }
       },
