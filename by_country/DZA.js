@@ -647,7 +647,7 @@ var covid19_dataset_country_dza = {
       9066,
       9202,
       9371,
-      9671
+      9674
     ]
   }
 };
