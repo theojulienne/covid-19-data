@@ -2730,17 +2730,17 @@
       "back_1week": {
         "confirmed": 31620,
         "deaths": 1346,
-        "recovered": 16181
+        "recovered": 16683
       },
       "back_2week": {
         "confirmed": 29017,
         "deaths": 1237,
-        "recovered": 14104
+        "recovered": 14226
       },
       "latest": {
         "confirmed": 33714,
         "deaths": 1435,
-        "recovered": 19972
+        "recovered": 20548
       }
     },
     "PRT": {
