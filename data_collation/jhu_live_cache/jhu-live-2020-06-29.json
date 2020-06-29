@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 30676,
+      "confirmed": 31524,
       "date": "2020-06-29",
-      "deaths": 970,
-      "recovered": 8158
+      "deaths": 1014,
+      "recovered": 8517
     }
   },
   "Brazil": {
@@ -319,10 +319,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 7957,
+          "confirmed": 7996,
           "date": "2020-06-29",
           "deaths": 154,
-          "recovered": 7283
+          "recovered": 7322
         }
       },
       "Ontario": {
@@ -1571,9 +1571,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 77824,
+          "confirmed": 78319,
           "date": "2020-06-29",
-          "deaths": 1169,
+          "deaths": 1173,
           "recovered": 0
         }
       },
