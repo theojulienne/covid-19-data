@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 30967,
+      "confirmed": 31238,
       "date": "2020-06-29",
-      "deaths": 721,
-      "recovered": 12604
+      "deaths": 733,
+      "recovered": 13934
     }
   },
   "Algeria": {
