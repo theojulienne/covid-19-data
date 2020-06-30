@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17723,
+      "confirmed": 17766,
       "date": "2020-06-30",
-      "deaths": 703,
-      "recovered": 16420
+      "deaths": 705,
+      "recovered": 16478
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 61790,
+      "confirmed": 62118,
       "date": "2020-06-30",
-      "deaths": 387,
-      "recovered": 45213
+      "deaths": 392,
+      "recovered": 46054
     }
   },
   "Belgium": {
@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 7039,
+      "date": "2020-06-30",
+      "deaths": 170,
+      "recovered": 1426
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 9214,
@@ -437,10 +445,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 12751,
+      "confirmed": 12768,
       "date": "2020-06-30",
       "deaths": 605,
-      "recovered": 11612
+      "recovered": 11649
     }
   },
   "Dominican Republic": {
@@ -909,9 +917,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50223,
+      "confirmed": 50273,
       "date": "2020-06-30",
-      "deaths": 6107,
+      "deaths": 6113,
       "recovered": 0
     }
   },
@@ -1327,15 +1335,15 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 19892,
+          "confirmed": 20171,
           "date": "2020-06-30",
-          "deaths": 2298,
+          "deaths": 2302,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 15006,
+          "confirmed": 15173,
           "date": "2020-06-30",
           "deaths": 745,
           "recovered": 0
@@ -1579,9 +1587,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 17027,
+          "confirmed": 10019,
           "date": "2020-06-30",
-          "deaths": 764,
+          "deaths": 610,
           "recovered": 0
         }
       },
@@ -1597,10 +1605,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 48246,
+      "confirmed": 48667,
       "date": "2020-06-30",
-      "deaths": 314,
-      "recovered": 37076
+      "deaths": 315,
+      "recovered": 37566
     }
   },
   "United Kingdom": {
@@ -1641,7 +1649,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 8298,
+      "confirmed": 8385,
       "date": "2020-06-30",
       "deaths": 25,
       "recovered": 5569
