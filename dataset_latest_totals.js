@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 7996,
+          "confirmed": 8067,
           "deaths": 154
         },
         "British Columbia": {
@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 36823,
-          "deaths": 2717
+          "deaths": 2726
         },
         "Prince Edward Island": {
           "confirmed": 27,

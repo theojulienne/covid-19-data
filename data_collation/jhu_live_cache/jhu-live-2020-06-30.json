@@ -319,18 +319,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 8067,
+          "confirmed": 8108,
           "date": "2020-06-30",
           "deaths": 154,
-          "recovered": 7354
+          "recovered": 7407
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 36908,
+          "confirmed": 36961,
           "date": "2020-06-30",
-          "deaths": 2726,
-          "recovered": 31828
+          "deaths": 2730,
+          "recovered": 31869
         }
       },
       "Quebec": {
@@ -1395,9 +1395,9 @@
       },
       "Colorado": {
         "live": {
-          "confirmed": 7065,
+          "confirmed": 7091,
           "date": "2020-06-30",
-          "deaths": 376,
+          "deaths": 381,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 82463,
+          "confirmed": 83664,
           "date": "2020-06-30",
-          "deaths": 1180,
+          "deaths": 1186,
           "recovered": 0
         }
       },
