@@ -330,7 +330,7 @@
           "confirmed": 36823,
           "date": "2020-06-30",
           "deaths": 2726,
-          "recovered": 31715
+          "recovered": 31716
         }
       },
       "Quebec": {
@@ -531,14 +531,6 @@
           "date": "2020-06-30",
           "deaths": 1678,
           "recovered": 37700
-        }
-      },
-      "Rheinland-Pfalz": {
-        "live": {
-          "confirmed": 6987,
-          "date": "2020-06-30",
-          "deaths": 235,
-          "recovered": 6590
         }
       }
     }
@@ -1395,7 +1387,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 155757,
+          "confirmed": 156255,
           "date": "2020-06-30",
           "deaths": 4711,
           "recovered": 0
@@ -1494,6 +1486,14 @@
           "confirmed": 11656,
           "date": "2020-06-30",
           "deaths": 773,
+          "recovered": 0
+        }
+      },
+      "Nebraska": {
+        "live": {
+          "confirmed": 7019,
+          "date": "2020-06-30",
+          "deaths": 88,
           "recovered": 0
         }
       },
