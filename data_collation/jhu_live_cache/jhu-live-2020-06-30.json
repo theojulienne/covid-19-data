@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 36838,
+          "confirmed": 36844,
           "date": "2020-06-30",
           "deaths": 2726,
-          "recovered": 31716
+          "recovered": 31718
         }
       },
       "Quebec": {
@@ -347,26 +347,26 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 8625,
+          "confirmed": 8829,
           "date": "2020-06-30",
           "deaths": 147,
-          "recovered": 6616
+          "recovered": 6907
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 216896,
+          "confirmed": 219151,
           "date": "2020-06-30",
-          "deaths": 4777,
-          "recovered": 190688
+          "deaths": 4889,
+          "recovered": 194094
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 11541,
+          "confirmed": 11752,
           "date": "2020-06-30",
-          "deaths": 229,
-          "recovered": 9085
+          "deaths": 230,
+          "recovered": 9409
         }
       }
     }
@@ -511,10 +511,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8220,
+          "confirmed": 8242,
           "date": "2020-06-30",
           "deaths": 214,
-          "recovered": 7272
+          "recovered": 7349
         }
       },
       "Hessen": {
@@ -941,9 +941,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8866,
+      "confirmed": 8879,
       "date": "2020-06-30",
-      "deaths": 249,
+      "deaths": 250,
       "recovered": 8138
     }
   },
@@ -1369,19 +1369,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 198613,
+      "confirmed": 199906,
       "date": "2020-06-30",
-      "deaths": 5115,
-      "recovered": 171809
+      "deaths": 5131,
+      "recovered": 173111
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 52746,
+          "confirmed": 56596,
           "date": "2020-06-30",
-          "deaths": 1014,
+          "deaths": 1044,
           "recovered": 0
         }
       },
@@ -1483,9 +1483,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 11656,
+          "confirmed": 11796,
           "date": "2020-06-30",
-          "deaths": 773,
+          "deaths": 776,
           "recovered": 0
         }
       },
