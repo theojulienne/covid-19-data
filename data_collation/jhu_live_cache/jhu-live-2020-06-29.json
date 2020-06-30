@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 59933,
+      "confirmed": 62268,
       "date": "2020-06-29",
-      "deaths": 1245,
+      "deaths": 1280,
       "recovered": 21138
     }
   },
@@ -166,7 +166,7 @@
           "confirmed": 78969,
           "date": "2020-06-29",
           "deaths": 2012,
-          "recovered": 58369
+          "recovered": 59100
         }
       },
       "Mato Grosso": {
@@ -198,7 +198,7 @@
           "confirmed": 101207,
           "date": "2020-06-29",
           "deaths": 4870,
-          "recovered": 86893
+          "recovered": 88719
         }
       },
       "Paraiba": {
@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 36810,
+          "confirmed": 36823,
           "date": "2020-06-29",
           "deaths": 2726,
-          "recovered": 31709
+          "recovered": 31712
         }
       },
       "Quebec": {
@@ -347,26 +347,26 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 8308,
+          "confirmed": 8625,
           "date": "2020-06-29",
           "deaths": 147,
-          "recovered": 0
+          "recovered": 6616
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 214388,
+          "confirmed": 216896,
           "date": "2020-06-29",
-          "deaths": 4711,
-          "recovered": 0
+          "deaths": 4777,
+          "recovered": 190688
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 11307,
+          "confirmed": 11541,
           "date": "2020-06-29",
           "deaths": 229,
-          "recovered": 0
+          "recovered": 9085
         }
       }
     }
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 11724,
+      "confirmed": 11805,
       "date": "2020-06-29",
       "deaths": 348,
-      "recovered": 7737
+      "recovered": 7746
     }
   },
   "Denmark": {
@@ -933,10 +933,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 24567,
+      "confirmed": 25133,
       "date": "2020-06-29",
-      "deaths": 565,
-      "recovered": 9007
+      "deaths": 573,
+      "recovered": 9402
     }
   },
   "Norway": {
@@ -1387,9 +1387,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 151300,
+          "confirmed": 155757,
           "date": "2020-06-29",
-          "deaths": 4679,
+          "deaths": 4711,
           "recovered": 0
         }
       },
