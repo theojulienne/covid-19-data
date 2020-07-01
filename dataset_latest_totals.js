@@ -3375,19 +3375,19 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "back_1week": {
         "confirmed": 2293299,
-        "deaths": 113944,
+        "deaths": 113933,
         "recovered": 639942,
         "tested": 27530515
       },
       "back_2week": {
         "confirmed": 2101644,
-        "deaths": 109915,
+        "deaths": 109906,
         "recovered": 576082,
         "tested": 23944418
       },
       "latest": {
         "confirmed": 2569857,
-        "deaths": 119595,
+        "deaths": 119584,
         "recovered": 704934,
         "tested": 31527666
       },
@@ -3576,7 +3576,7 @@ var covid19_dataset_latest_totals = {
         },
         "ND": {
           "confirmed": 3539,
-          "deaths": 88,
+          "deaths": 77,
           "hospitalized": 227,
           "recovered": 3163,
           "tested": 105691
