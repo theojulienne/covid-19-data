@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 64530,
       "date": "2020-07-01",
-      "deaths": 1307,
-      "recovered": 22028
+      "deaths": 1310,
+      "recovered": 23040
     }
   },
   "Armenia": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 26758,
       "date": "2020-07-01",
-      "deaths": 90,
+      "deaths": 91,
       "recovered": 21331
     }
   },
@@ -480,12 +480,12 @@
       "confirmed": 7236,
       "date": "2020-07-01",
       "deaths": 328,
-      "recovered": 6600
+      "recovered": 6700
     }
   },
   "France": {
     "live": {
-      "confirmed": 194373,
+      "confirmed": 194371,
       "date": "2020-07-01",
       "deaths": 29763,
       "recovered": 71714
@@ -709,10 +709,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 49109,
+      "confirmed": 51524,
       "date": "2020-07-01",
-      "deaths": 1943,
-      "recovered": 24760
+      "deaths": 2050,
+      "recovered": 26267
     }
   },
   "Ireland": {
@@ -1233,10 +1233,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 190823,
+      "confirmed": 194225,
       "date": "2020-07-01",
-      "deaths": 1649,
-      "recovered": 130766
+      "deaths": 1698,
+      "recovered": 132760
     }
   },
   "Serbia": {
@@ -1547,7 +1547,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 7465,
+          "confirmed": 7537,
           "date": "2020-07-01",
           "deaths": 153,
           "recovered": 0
@@ -1657,10 +1657,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 8627,
+      "confirmed": 8671,
       "date": "2020-07-01",
       "deaths": 26,
-      "recovered": 5682
+      "recovered": 5737
     }
   }
 }
