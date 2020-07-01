@@ -2493,19 +2493,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 20244,
-        "deaths": 518,
-        "recovered": 6879
+        "confirmed": 20919,
+        "deaths": 525,
+        "recovered": 7109
       },
       "back_2week": {
-        "confirmed": 16085,
-        "deaths": 420,
-        "recovered": 5220
+        "confirmed": 16658,
+        "deaths": 424,
+        "recovered": 5349
       },
       "latest": {
-        "confirmed": 24567,
-        "deaths": 565,
-        "recovered": 9007
+        "confirmed": 25133,
+        "deaths": 573,
+        "recovered": 9402
       }
     },
     "NIC": {
