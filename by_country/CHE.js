@@ -490,7 +490,8 @@ var covid19_dataset_country_che = {
       1962,
       1962,
       1962,
-      1963
+      1963,
+      1965
     ],
     "recovered": [
       0,
