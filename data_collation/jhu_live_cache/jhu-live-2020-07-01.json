@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 145483,
+      "confirmed": 149258,
       "date": "2020-07-01",
-      "deaths": 1847,
-      "recovered": 59624
+      "deaths": 1888,
+      "recovered": 62108
     }
   },
   "Belarus": {
@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 61427,
+      "confirmed": 61509,
       "date": "2020-07-01",
-      "deaths": 9747,
-      "recovered": 16984
+      "deaths": 9754,
+      "recovered": 17021
     }
   },
   "Bolivia": {
@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 7122,
+      "date": "2020-07-01",
+      "deaths": 175,
+      "recovered": 1785
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 9499,
@@ -469,7 +477,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 7214,
+      "confirmed": 7236,
       "date": "2020-07-01",
       "deaths": 328,
       "recovered": 6600
@@ -641,14 +649,6 @@
           "recovered": 90911
         }
       },
-      "Odisha": {
-        "live": {
-          "confirmed": 7065,
-          "date": "2020-07-01",
-          "deaths": 25,
-          "recovered": 5189
-        }
-      },
       "Rajasthan": {
         "live": {
           "confirmed": 18014,
@@ -693,10 +693,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 56385,
+      "confirmed": 57770,
       "date": "2020-07-01",
-      "deaths": 2876,
-      "recovered": 24806
+      "deaths": 2934,
+      "recovered": 25595
     }
   },
   "Iran": {
@@ -909,10 +909,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 12533,
+      "confirmed": 12596,
       "date": "2020-07-01",
       "deaths": 228,
-      "recovered": 8920
+      "recovered": 8978
     }
   },
   "Nepal": {
@@ -949,10 +949,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 40070,
+      "confirmed": 41194,
       "date": "2020-07-01",
-      "deaths": 176,
-      "recovered": 23425
+      "deaths": 185,
+      "recovered": 24162
     }
   },
   "Pakistan": {
@@ -1093,18 +1093,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 37514,
+      "confirmed": 38511,
       "date": "2020-07-01",
-      "deaths": 1266,
-      "recovered": 10233
+      "deaths": 1270,
+      "recovered": 10438
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 34393,
+      "confirmed": 34775,
       "date": "2020-07-01",
-      "deaths": 1463,
-      "recovered": 21281
+      "deaths": 1477,
+      "recovered": 21791
     }
   },
   "Portugal": {
