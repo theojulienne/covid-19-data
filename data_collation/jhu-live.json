@@ -1117,10 +1117,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 96088,
+      "confirmed": 97003,
       "date": "2020-07-01",
-      "deaths": 113,
-      "recovered": 81564
+      "deaths": 115,
+      "recovered": 83965
     }
   },
   "Romania": {
@@ -1241,10 +1241,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 14564,
+      "confirmed": 14836,
       "date": "2020-07-01",
-      "deaths": 277,
-      "recovered": 12662
+      "deaths": 281,
+      "recovered": 12772
     }
   },
   "Singapore": {
@@ -1411,9 +1411,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10327,
+          "confirmed": 10365,
           "date": "2020-07-01",
-          "deaths": 551,
+          "deaths": 553,
           "recovered": 0
         }
       },
@@ -1459,9 +1459,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 48840,
+          "confirmed": 49093,
           "date": "2020-07-01",
-          "deaths": 2230,
+          "deaths": 2237,
           "recovered": 0
         }
       },
