@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 17766,
+      "confirmed": 17873,
       "date": "2020-07-01",
       "deaths": 705,
-      "recovered": 16478
+      "recovered": 16491
     }
   },
   "Azerbaijan": {
@@ -522,7 +522,7 @@
           "confirmed": 10811,
           "date": "2020-07-01",
           "deaths": 508,
-          "recovered": 9900
+          "recovered": 9909
         }
       },
       "Niedersachsen": {
@@ -530,7 +530,7 @@
           "confirmed": 13577,
           "date": "2020-07-01",
           "deaths": 630,
-          "recovered": 12100
+          "recovered": 12250
         }
       },
       "Nordrhein-Westfalen": {
@@ -809,10 +809,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 46195,
+      "confirmed": 46940,
       "date": "2020-07-01",
-      "deaths": 354,
-      "recovered": 37030
+      "deaths": 358,
+      "recovered": 37715
     }
   },
   "Malaysia": {
@@ -917,10 +917,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 13564,
+      "confirmed": 14046,
       "date": "2020-07-01",
-      "deaths": 29,
-      "recovered": 3194
+      "deaths": 30,
+      "recovered": 4656
     }
   },
   "Netherlands": {
@@ -1361,7 +1361,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31714,
+      "confirmed": 31851,
       "date": "2020-07-01",
       "deaths": 1963,
       "recovered": 29200
