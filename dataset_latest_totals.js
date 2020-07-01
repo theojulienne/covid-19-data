@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 48536
         },
         "VIC": {
-          "confirmed": 2099,
+          "confirmed": 2159,
           "current_hospitalized": 4,
           "current_icu": 2,
           "deaths": 20,
-          "recovered": 1789,
-          "tested": 792000
+          "recovered": 1816,
+          "tested": 809000
         },
         "WA": {
           "confirmed": 609,
