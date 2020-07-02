@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 31836,
+      "confirmed": 32022,
       "date": "2020-07-02",
-      "deaths": 774,
-      "recovered": 15651
+      "deaths": 807,
+      "recovered": 16041
     }
   },
   "Algeria": {
@@ -796,7 +796,7 @@
       "confirmed": 42574,
       "date": "2020-07-02",
       "deaths": 188,
-      "recovered": 25319
+      "recovered": 25533
     }
   },
   "Korea, South": {
@@ -1657,7 +1657,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 8781,
+      "confirmed": 8904,
       "date": "2020-07-02",
       "deaths": 26,
       "recovered": 5847
