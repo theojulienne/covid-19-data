@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 18096,
+      "confirmed": 19011,
       "date": "2020-07-02",
-      "deaths": 773,
-      "recovered": 3194
+      "deaths": 817,
+      "recovered": 3231
     }
   },
   "Honduras": {
@@ -793,10 +793,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12850,
+      "confirmed": 12904,
       "date": "2020-07-02",
       "deaths": 282,
-      "recovered": 11613
+      "recovered": 11684
     }
   },
   "Kuwait": {
@@ -1259,15 +1259,15 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 13139,
+          "confirmed": 13102,
           "date": "2020-07-02",
-          "deaths": 1428,
+          "deaths": 1427,
           "recovered": 10671
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 11588,
+          "confirmed": 11579,
           "date": "2020-07-02",
           "deaths": 1432,
           "recovered": 9970
@@ -1275,7 +1275,7 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 18160,
+          "confirmed": 18158,
           "date": "2020-07-02",
           "deaths": 3026,
           "recovered": 6392
@@ -1283,23 +1283,23 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 19730,
+          "confirmed": 19685,
           "date": "2020-07-02",
-          "deaths": 2787,
+          "deaths": 2784,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 61639,
+          "confirmed": 61494,
           "date": "2020-07-02",
-          "deaths": 5671,
+          "deaths": 5670,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 9222,
+          "confirmed": 9215,
           "date": "2020-07-02",
           "deaths": 619,
           "recovered": 9204
@@ -1307,17 +1307,17 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 72033,
+          "confirmed": 71950,
           "date": "2020-07-02",
-          "deaths": 8427,
+          "deaths": 8425,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 13792,
+          "confirmed": 13783,
           "date": "2020-07-02",
-          "deaths": 1560,
+          "deaths": 1558,
           "recovered": 16160
         }
       }
