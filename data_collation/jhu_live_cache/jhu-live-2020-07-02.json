@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 67197,
       "date": "2020-07-02",
-      "deaths": 1351,
-      "recovered": 23040
+      "deaths": 1363,
+      "recovered": 24186
     }
   },
   "Armenia": {
@@ -717,10 +717,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 51524,
+      "confirmed": 53708,
       "date": "2020-07-02",
-      "deaths": 2050,
-      "recovered": 26267
+      "deaths": 2160,
+      "recovered": 27912
     }
   },
   "Ireland": {
@@ -817,10 +817,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 46940,
+      "confirmed": 47859,
       "date": "2020-07-02",
-      "deaths": 358,
-      "recovered": 37715
+      "deaths": 359,
+      "recovered": 38390
     }
   },
   "Malaysia": {
@@ -1241,18 +1241,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 194225,
+      "confirmed": 197608,
       "date": "2020-07-02",
-      "deaths": 1698,
-      "recovered": 132760
+      "deaths": 1752,
+      "recovered": 137669
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 14836,
+      "confirmed": 15195,
       "date": "2020-07-02",
-      "deaths": 281,
-      "recovered": 12772
+      "deaths": 287,
+      "recovered": 12912
     }
   },
   "Singapore": {
@@ -1325,7 +1325,7 @@
         "live": {
           "confirmed": 72033,
           "date": "2020-07-02",
-          "deaths": 8427,
+          "deaths": 8426,
           "recovered": 40736
         }
       },
@@ -1397,7 +1397,7 @@
         "live": {
           "confirmed": 165488,
           "date": "2020-07-02",
-          "deaths": 4841,
+          "deaths": 4843,
           "recovered": 0
         }
       },
@@ -1547,7 +1547,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 7537,
+          "confirmed": 7608,
           "date": "2020-07-02",
           "deaths": 153,
           "recovered": 0
