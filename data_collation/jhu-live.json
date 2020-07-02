@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 33219,
+      "confirmed": 34227,
       "date": "2020-07-02",
-      "deaths": 1123,
-      "recovered": 9340
+      "deaths": 1201,
+      "recovered": 9764
     }
   },
   "Brazil": {
@@ -94,7 +94,7 @@
           "confirmed": 13715,
           "date": "2020-07-02",
           "deaths": 370,
-          "recovered": 6270
+          "recovered": 7650
         }
       },
       "Alagoas": {
@@ -118,7 +118,7 @@
           "confirmed": 72284,
           "date": "2020-07-02",
           "deaths": 2843,
-          "recovered": 57616
+          "recovered": 58822
         }
       },
       "Bahia": {
@@ -166,7 +166,7 @@
           "confirmed": 83256,
           "date": "2020-07-02",
           "deaths": 2081,
-          "recovered": 61093
+          "recovered": 63156
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 16621,
           "date": "2020-07-02",
           "deaths": 634,
-          "recovered": 5891
+          "recovered": 6543
         }
       },
       "Mato Grosso do Sul": {
@@ -206,7 +206,7 @@
           "confirmed": 48175,
           "date": "2020-07-02",
           "deaths": 1002,
-          "recovered": 14930
+          "recovered": 15359
         }
       },
       "Parana": {
@@ -222,7 +222,7 @@
           "confirmed": 59705,
           "date": "2020-07-02",
           "deaths": 4894,
-          "recovered": 40347
+          "recovered": 41343
         }
       },
       "Piaui": {
@@ -262,7 +262,7 @@
           "confirmed": 21462,
           "date": "2020-07-02",
           "deaths": 520,
-          "recovered": 9225
+          "recovered": 10198
         }
       },
       "Roraima": {
@@ -294,7 +294,7 @@
           "confirmed": 25915,
           "date": "2020-07-02",
           "deaths": 701,
-          "recovered": 10109
+          "recovered": 14878
         }
       },
       "Tocantins": {
@@ -1259,15 +1259,15 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 13102,
+          "confirmed": 13139,
           "date": "2020-07-02",
-          "deaths": 1427,
+          "deaths": 1428,
           "recovered": 10671
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 11579,
+          "confirmed": 11588,
           "date": "2020-07-02",
           "deaths": 1432,
           "recovered": 9970
@@ -1275,7 +1275,7 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 18158,
+          "confirmed": 18160,
           "date": "2020-07-02",
           "deaths": 3026,
           "recovered": 6392
@@ -1283,23 +1283,23 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 19685,
+          "confirmed": 19730,
           "date": "2020-07-02",
-          "deaths": 2784,
+          "deaths": 2787,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 61494,
+          "confirmed": 61639,
           "date": "2020-07-02",
-          "deaths": 5670,
+          "deaths": 5671,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 9215,
+          "confirmed": 9222,
           "date": "2020-07-02",
           "deaths": 619,
           "recovered": 9204
@@ -1307,17 +1307,17 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 71950,
+          "confirmed": 72033,
           "date": "2020-07-02",
-          "deaths": 8425,
+          "deaths": 8427,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 13783,
+          "confirmed": 13792,
           "date": "2020-07-02",
-          "deaths": 1558,
+          "deaths": 1560,
           "recovered": 16160
         }
       }
@@ -1379,9 +1379,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 165001,
+          "confirmed": 165488,
           "date": "2020-07-02",
-          "deaths": 4834,
+          "deaths": 4841,
           "recovered": 0
         }
       },

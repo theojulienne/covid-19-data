@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 7492,
-        "current_hospitalized": 14,
-        "current_icu": 3,
-        "deaths": 104,
+        "confirmed": 7521,
+        "current_hospitalized": 13,
+        "current_icu": 2,
+        "deaths": 105,
         "recovered": 6915,
-        "tested": 2079715
+        "tested": 2120765
       },
       "back_2week": {
-        "confirmed": 7347,
-        "current_hospitalized": 17,
+        "confirmed": 7370,
+        "current_hospitalized": 16,
         "current_icu": 3,
         "deaths": 104,
         "recovered": 6859,
-        "tested": 1847452
+        "tested": 1876291
       },
       "latest": {
-        "confirmed": 7834,
-        "current_hospitalized": 9,
+        "confirmed": 7920,
+        "current_hospitalized": 4,
         "current_icu": 2,
         "deaths": 106,
         "recovered": 7037,
-        "tested": 2455393
+        "tested": 2498628
       },
       "states": {
         "ACT": {
@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1054,
-          "tested": 364981
+          "tested": 370973
         },
         "SA": {
           "confirmed": 443,
@@ -3375,19 +3375,19 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "back_1week": {
         "confirmed": 2326195,
-        "deaths": 114636,
+        "deaths": 114423,
         "recovered": 647291,
         "tested": 28031316
       },
       "back_2week": {
         "confirmed": 2125220,
-        "deaths": 110620,
+        "deaths": 110388,
         "recovered": 583251,
         "tested": 24411094
       },
       "latest": {
         "confirmed": 2613993,
-        "deaths": 120160,
+        "deaths": 119986,
         "recovered": 720360,
         "tested": 32176077
       },
@@ -3427,7 +3427,7 @@ var covid19_dataset_latest_totals = {
         },
         "CO": {
           "confirmed": 32511,
-          "deaths": 1682,
+          "deaths": 1508,
           "hospitalized": 5442,
           "recovered": 4479,
           "tested": 323857
