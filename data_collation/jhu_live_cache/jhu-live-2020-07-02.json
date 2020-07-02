@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 18112,
+      "confirmed": 18684,
       "date": "2020-07-02",
-      "deaths": 220,
-      "recovered": 10061
+      "deaths": 228,
+      "recovered": 10425
     }
   },
   "Bahrain": {
@@ -327,9 +327,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37085,
+          "confirmed": 37101,
           "date": "2020-07-02",
-          "deaths": 2734,
+          "deaths": 2733,
           "recovered": 31995
         }
       },
@@ -419,14 +419,6 @@
       }
     }
   },
-  "Congo (Kinshasa)": {
-    "live": {
-      "confirmed": 7189,
-      "date": "2020-07-02",
-      "deaths": 176,
-      "recovered": 2317
-    }
-  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 9702,
@@ -453,10 +445,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 33387,
+      "confirmed": 34197,
       "date": "2020-07-02",
-      "deaths": 754,
-      "recovered": 17904
+      "deaths": 765,
+      "recovered": 18141
     }
   },
   "Ecuador": {
@@ -485,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 195641,
+      "confirmed": 195465,
       "date": "2020-07-02",
       "deaths": 29794,
-      "recovered": 72132
+      "recovered": 72054
     }
   },
   "Germany": {
@@ -909,9 +901,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 16898,
+      "confirmed": 17150,
       "date": "2020-07-02",
-      "deaths": 551,
+      "deaths": 560,
       "recovered": 9846
     }
   },
@@ -1260,7 +1252,7 @@
       "confirmed": 44310,
       "date": "2020-07-02",
       "deaths": 26,
-      "recovered": 39011
+      "recovered": 39429
     }
   },
   "South Africa": {
@@ -1401,14 +1393,6 @@
           "recovered": 0
         }
       },
-      "Colorado": {
-        "live": {
-          "confirmed": 7149,
-          "date": "2020-07-02",
-          "deaths": 381,
-          "recovered": 0
-        }
-      },
       "Connecticut": {
         "live": {
           "confirmed": 40776,
@@ -1427,9 +1411,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 90902,
+          "confirmed": 110570,
           "date": "2020-07-02",
-          "deaths": 2095,
+          "deaths": 2387,
           "recovered": 0
         }
       },
