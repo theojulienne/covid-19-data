@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 19558,
+      "confirmed": 20262,
       "date": "2020-07-02",
-      "deaths": 497,
-      "recovered": 2060
+      "deaths": 542,
+      "recovered": 2123
     }
   },
   "India": {
@@ -1563,9 +1563,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 89283,
+          "confirmed": 89722,
           "date": "2020-07-02",
-          "deaths": 1229,
+          "deaths": 1230,
           "recovered": 0
         }
       },
