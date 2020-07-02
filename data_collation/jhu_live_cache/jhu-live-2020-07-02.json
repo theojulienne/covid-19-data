@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 67197,
+      "confirmed": 69941,
       "date": "2020-07-02",
-      "deaths": 1363,
+      "deaths": 1385,
       "recovered": 24186
     }
   },
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 27414,
+      "confirmed": 27837,
       "date": "2020-07-02",
-      "deaths": 93,
-      "recovered": 21948
+      "deaths": 94,
+      "recovered": 22583
     }
   },
   "Bangladesh": {
