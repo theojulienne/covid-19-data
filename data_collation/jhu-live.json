@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 62424,
+      "confirmed": 62698,
       "date": "2020-07-02",
-      "deaths": 398,
-      "recovered": 47553
+      "deaths": 405,
+      "recovered": 48738
     }
   },
   "Belgium": {
@@ -925,10 +925,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 14046,
+      "confirmed": 14519,
       "date": "2020-07-02",
-      "deaths": 30,
-      "recovered": 4656
+      "deaths": 31,
+      "recovered": 5320
     }
   },
   "Netherlands": {
