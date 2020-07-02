@@ -485,10 +485,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 194985,
+      "confirmed": 195641,
       "date": "2020-07-02",
-      "deaths": 29780,
-      "recovered": 71879
+      "deaths": 29794,
+      "recovered": 72132
     }
   },
   "Germany": {
@@ -506,7 +506,7 @@
           "confirmed": 48547,
           "date": "2020-07-02",
           "deaths": 2597,
-          "recovered": 45100
+          "recovered": 45210
         }
       },
       "Berlin": {
@@ -522,15 +522,15 @@
           "confirmed": 10869,
           "date": "2020-07-02",
           "deaths": 508,
-          "recovered": 9909
+          "recovered": 9952
         }
       },
       "Niedersachsen": {
         "live": {
           "confirmed": 13605,
           "date": "2020-07-02",
-          "deaths": 632,
-          "recovered": 12250
+          "deaths": 634,
+          "recovered": 12265
         }
       },
       "Nordrhein-Westfalen": {
@@ -538,7 +538,7 @@
           "confirmed": 43436,
           "date": "2020-07-02",
           "deaths": 1684,
-          "recovered": 37700
+          "recovered": 37853
         }
       }
     }
@@ -911,8 +911,8 @@
     "live": {
       "confirmed": 16898,
       "date": "2020-07-02",
-      "deaths": 549,
-      "recovered": 9594
+      "deaths": 551,
+      "recovered": 9846
     }
   },
   "Morocco": {
@@ -1117,10 +1117,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 42454,
+      "confirmed": 42782,
       "date": "2020-07-02",
-      "deaths": 1579,
-      "recovered": 27798
+      "deaths": 1587,
+      "recovered": 28097
     }
   },
   "Qatar": {
@@ -1419,9 +1419,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10365,
+          "confirmed": 10390,
           "date": "2020-07-02",
-          "deaths": 553,
+          "deaths": 554,
           "recovered": 0
         }
       },
@@ -1467,9 +1467,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 49093,
+          "confirmed": 49436,
           "date": "2020-07-02",
-          "deaths": 2237,
+          "deaths": 2242,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 21195,
+          "confirmed": 21276,
           "date": "2020-07-02",
-          "deaths": 632,
+          "deaths": 635,
           "recovered": 0
         }
       },
