@@ -1170,14 +1170,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 24991
       },
       "back_2week": {
-        "confirmed": 47943,
-        "deaths": 3970,
-        "recovered": 23684
+        "confirmed": 48490,
+        "deaths": 4007,
+        "recovered": 23881
       },
       "latest": {
-        "confirmed": 56432,
-        "deaths": 4527,
-        "recovered": 27594
+        "confirmed": 58257,
+        "deaths": 4576,
+        "recovered": 27887
       }
     },
     "EGY": {
