@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 7189,
+      "date": "2020-07-02",
+      "deaths": 176,
+      "recovered": 2317
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 9702,
@@ -469,7 +477,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 7236,
+      "confirmed": 7241,
       "date": "2020-07-02",
       "deaths": 328,
       "recovered": 6700
@@ -701,10 +709,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 230211,
+      "confirmed": 232863,
       "date": "2020-07-02",
-      "deaths": 10958,
-      "recovered": 191487
+      "deaths": 11106,
+      "recovered": 194098
     }
   },
   "Iraq": {
@@ -925,7 +933,7 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50273,
+      "confirmed": 50335,
       "date": "2020-07-02",
       "deaths": 6113,
       "recovered": 0
@@ -1125,10 +1133,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 27296,
+      "confirmed": 27746,
       "date": "2020-07-02",
-      "deaths": 1667,
-      "recovered": 19314
+      "deaths": 1687,
+      "recovered": 19363
     }
   },
   "Russia": {
@@ -1361,7 +1369,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 31851,
+      "confirmed": 31967,
       "date": "2020-07-02",
       "deaths": 1965,
       "recovered": 29200
@@ -1486,14 +1494,6 @@
           "confirmed": 11892,
           "date": "2020-07-02",
           "deaths": 776,
-          "recovered": 0
-        }
-      },
-      "Nebraska": {
-        "live": {
-          "confirmed": 7146,
-          "date": "2020-07-02",
-          "deaths": 94,
           "recovered": 0
         }
       },
