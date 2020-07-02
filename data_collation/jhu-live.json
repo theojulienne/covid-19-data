@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37104,
+          "confirmed": 37135,
           "date": "2020-07-02",
           "deaths": 2733,
-          "recovered": 32141
+          "recovered": 32177
         }
       },
       "Quebec": {
@@ -487,10 +487,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 35755,
+          "confirmed": 35780,
           "date": "2020-07-02",
-          "deaths": 1838,
-          "recovered": 33300
+          "deaths": 1839,
+          "recovered": 33518
         }
       },
       "Bayern": {
@@ -503,10 +503,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8302,
+          "confirmed": 8344,
           "date": "2020-07-02",
           "deaths": 214,
-          "recovered": 7433
+          "recovered": 7515
         }
       },
       "Hessen": {
@@ -1523,7 +1523,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 42024,
+          "confirmed": 42167,
           "date": "2020-07-02",
           "deaths": 3078,
           "recovered": 0
@@ -1597,10 +1597,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 49069,
+      "confirmed": 49469,
       "date": "2020-07-02",
-      "deaths": 316,
-      "recovered": 38160
+      "deaths": 317,
+      "recovered": 38664
     }
   },
   "United Kingdom": {
@@ -1644,7 +1644,7 @@
       "confirmed": 8996,
       "date": "2020-07-02",
       "deaths": 27,
-      "recovered": 5847
+      "recovered": 5892
     }
   }
 }
