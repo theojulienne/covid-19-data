@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 27837,
+      "confirmed": 28410,
       "date": "2020-07-03",
       "deaths": 95,
-      "recovered": 22583
+      "recovered": 23318
     }
   },
   "Bangladesh": {
@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37382,
+          "confirmed": 37405,
           "date": "2020-07-03",
           "deaths": 2739,
-          "recovered": 32444
+          "recovered": 32448
         }
       },
       "Quebec": {
@@ -477,7 +477,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 195913,
+      "confirmed": 195906,
       "date": "2020-07-03",
       "deaths": 29812,
       "recovered": 72181
@@ -1555,9 +1555,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 92276,
+          "confirmed": 93320,
           "date": "2020-07-03",
-          "deaths": 1244,
+          "deaths": 1251,
           "recovered": 0
         }
       },
