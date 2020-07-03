@@ -485,7 +485,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 195458,
+      "confirmed": 195456,
       "date": "2020-07-03",
       "deaths": 29794,
       "recovered": 72054
@@ -1241,18 +1241,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 197608,
+      "confirmed": 201801,
       "date": "2020-07-03",
-      "deaths": 1752,
-      "recovered": 137669
+      "deaths": 1802,
+      "recovered": 140614
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 15195,
+      "confirmed": 15504,
       "date": "2020-07-03",
-      "deaths": 287,
-      "recovered": 12912
+      "deaths": 298,
+      "recovered": 13064
     }
   },
   "Singapore": {
@@ -1539,9 +1539,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 7608,
+          "confirmed": 7683,
           "date": "2020-07-03",
-          "deaths": 153,
+          "deaths": 154,
           "recovered": 0
         }
       },
