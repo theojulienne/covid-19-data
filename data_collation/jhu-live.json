@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37264,
+          "confirmed": 37292,
           "date": "2020-07-03",
           "deaths": 2739,
-          "recovered": 32326
+          "recovered": 32373
         }
       },
       "Quebec": {
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 195331,
+      "confirmed": 195913,
       "date": "2020-07-03",
-      "deaths": 29794,
-      "recovered": 71923
+      "deaths": 29812,
+      "recovered": 72181
     }
   },
   "Germany": {
@@ -901,9 +901,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 17150,
+      "confirmed": 17445,
       "date": "2020-07-03",
-      "deaths": 563,
+      "deaths": 572,
       "recovered": 10093
     }
   },
@@ -1515,15 +1515,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 9338,
+          "confirmed": 17217,
           "date": "2020-07-03",
-          "deaths": 407,
+          "deaths": 789,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 42250,
+          "confirmed": 42386,
           "date": "2020-07-03",
           "deaths": 3088,
           "recovered": 0
@@ -1579,9 +1579,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 17805,
+          "confirmed": 10535,
           "date": "2020-07-03",
-          "deaths": 774,
+          "deaths": 615,
           "recovered": 0
         }
       },
