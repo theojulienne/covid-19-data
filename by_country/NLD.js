@@ -2315,8 +2315,7 @@ var covid19_dataset_country_nld = {
       50147,
       50223,
       50273,
-      50273,
-      50335
+      50273
     ],
     "deaths": [
       0,
