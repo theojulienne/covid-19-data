@@ -663,7 +663,7 @@ var covid19_dataset_country_rou = {
       19050,
       19314,
       19363,
-      20432
+      19545
     ]
   }
 };
