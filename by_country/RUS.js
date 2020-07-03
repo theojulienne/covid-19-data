@@ -329,7 +329,8 @@ var covid19_dataset_country_rus = {
       633563,
       640246,
       646929,
-      653479
+      653479,
+      660231
     ],
     "deaths": [
       0,
@@ -493,7 +494,8 @@ var covid19_dataset_country_rus = {
       9060,
       9152,
       9306,
-      9521
+      9521,
+      9668
     ],
     "recovered": [
       0,
@@ -657,7 +659,8 @@ var covid19_dataset_country_rus = {
       398436,
       402778,
       411973,
-      422235
+      422235,
+      428276
     ]
   }
 };
