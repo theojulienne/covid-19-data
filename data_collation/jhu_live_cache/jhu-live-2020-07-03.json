@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 153277,
+      "confirmed": 156391,
       "date": "2020-07-03",
-      "deaths": 1926,
-      "recovered": 66442
+      "deaths": 1968,
+      "recovered": 68048
     }
   },
   "Belarus": {
@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 7311,
+      "date": "2020-07-03",
+      "deaths": 179,
+      "recovered": 2684
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 9992,
@@ -467,12 +475,12 @@
       "recovered": 19288
     }
   },
-  "Finland": {
+  "El Salvador": {
     "live": {
-      "confirmed": 7241,
+      "confirmed": 7267,
       "date": "2020-07-03",
-      "deaths": 328,
-      "recovered": 6700
+      "deaths": 202,
+      "recovered": 4268
     }
   },
   "France": {
@@ -693,10 +701,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 59394,
+      "confirmed": 60695,
       "date": "2020-07-03",
-      "deaths": 2987,
-      "recovered": 26667
+      "deaths": 3036,
+      "recovered": 27568
     }
   },
   "Iran": {
@@ -949,10 +957,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 42555,
+      "confirmed": 43929,
       "date": "2020-07-03",
-      "deaths": 188,
-      "recovered": 25318
+      "deaths": 193,
+      "recovered": 26169
     }
   },
   "Pakistan": {
@@ -1093,17 +1101,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 38805,
+      "confirmed": 40336,
       "date": "2020-07-03",
-      "deaths": 1274,
-      "recovered": 10673
+      "deaths": 1280,
+      "recovered": 11073
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 35146,
+      "confirmed": 35405,
       "date": "2020-07-03",
-      "deaths": 1492,
+      "deaths": 1507,
       "recovered": 22651
     }
   },
@@ -1411,9 +1419,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 110570,
+          "confirmed": 103323,
           "date": "2020-07-03",
-          "deaths": 2387,
+          "deaths": 2319,
           "recovered": 0
         }
       },
