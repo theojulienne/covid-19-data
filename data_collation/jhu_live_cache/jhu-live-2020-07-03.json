@@ -1257,10 +1257,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 168061,
+      "confirmed": 177124,
       "date": "2020-07-03",
-      "deaths": 2844,
-      "recovered": 81999
+      "deaths": 2952,
+      "recovered": 86298
     }
   },
   "Spain": {
@@ -1427,9 +1427,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 118101,
+          "confirmed": 118626,
           "date": "2020-07-03",
-          "deaths": 5775,
+          "deaths": 5787,
           "recovered": 0
         }
       },
@@ -1467,9 +1467,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42568,
+          "confirmed": 42716,
           "date": "2020-07-03",
-          "deaths": 4736,
+          "deaths": 4738,
           "recovered": 0
         }
       },
@@ -1547,9 +1547,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 20890,
+          "confirmed": 21595,
           "date": "2020-07-03",
-          "deaths": 310,
+          "deaths": 315,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 11728,
+          "confirmed": 12050,
           "date": "2020-07-03",
-          "deaths": 110,
+          "deaths": 112,
           "recovered": 0
         }
       },
@@ -1587,7 +1587,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 11649,
+          "confirmed": 11823,
           "date": "2020-07-03",
           "deaths": 391,
           "recovered": 0
