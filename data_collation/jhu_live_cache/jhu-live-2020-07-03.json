@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 19011,
+      "confirmed": 20072,
       "date": "2020-07-03",
-      "deaths": 817,
-      "recovered": 3231
+      "deaths": 843,
+      "recovered": 3279
     }
   },
   "Honduras": {
@@ -796,15 +796,15 @@
       "confirmed": 42574,
       "date": "2020-07-03",
       "deaths": 188,
-      "recovered": 25533
+      "recovered": 14777
     }
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12904,
+      "confirmed": 12967,
       "date": "2020-07-03",
       "deaths": 282,
-      "recovered": 11684
+      "recovered": 11759
     }
   },
   "Kuwait": {
