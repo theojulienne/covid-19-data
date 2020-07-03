@@ -283,10 +283,10 @@
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 302179,
-          "date": "2020-07-02",
-          "deaths": 15351,
-          "recovered": 162851
+          "confirmed": 289935,
+          "date": "2020-07-01",
+          "deaths": 15030,
+          "recovered": 49295
         }
       },
       "Sergipe": {
@@ -319,10 +319,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 8108,
+          "confirmed": 8202,
           "date": "2020-07-02",
-          "deaths": 154,
-          "recovered": 7407
+          "deaths": 155,
+          "recovered": 7505
         }
       },
       "Ontario": {
@@ -330,7 +330,7 @@
           "confirmed": 37242,
           "date": "2020-07-02",
           "deaths": 2737,
-          "recovered": 32254
+          "recovered": 32255
         }
       },
       "Quebec": {
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 12116,
+      "confirmed": 12178,
       "date": "2020-07-02",
       "deaths": 353,
-      "recovered": 7821
+      "recovered": 7822
     }
   },
   "Denmark": {
@@ -933,10 +933,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 26484,
+      "confirmed": 27110,
       "date": "2020-07-02",
-      "deaths": 603,
-      "recovered": 10152
+      "deaths": 616,
+      "recovered": 10801
     }
   },
   "Norway": {
@@ -1387,9 +1387,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 166008,
+          "confirmed": 167339,
           "date": "2020-07-02",
-          "deaths": 4851,
+          "deaths": 4862,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 10304,
+          "confirmed": 17805,
           "date": "2020-07-02",
-          "deaths": 612,
+          "deaths": 774,
           "recovered": 0
         }
       },
@@ -1618,14 +1618,6 @@
           "confirmed": 18264,
           "date": "2020-07-02",
           "deaths": 2486,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "live": {
-          "confirmed": 116237,
-          "date": "2020-07-02",
-          "deaths": 0,
           "recovered": 0
         }
       },

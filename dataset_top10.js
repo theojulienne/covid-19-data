@@ -4797,7 +4797,7 @@ var covid19_dataset_top10 = {
           119390,
           119986,
           120687,
-          121331
+          121321
         ],
         "recovered": [
           0,
@@ -5296,7 +5296,8 @@ var covid19_dataset_top10 = {
     "2020-06-30",
     "2020-07-01",
     "2020-07-02",
-    "2020-07-03"
+    "2020-07-03",
+    "2020-07-04"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
