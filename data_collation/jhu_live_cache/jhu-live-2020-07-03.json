@@ -445,10 +445,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 12815,
+      "confirmed": 12832,
       "date": "2020-07-03",
       "deaths": 606,
-      "recovered": 11769
+      "recovered": 11817
     }
   },
   "Dominican Republic": {
@@ -1351,7 +1351,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 20759,
+          "confirmed": 20933,
           "date": "2020-07-03",
           "deaths": 2337,
           "recovered": 0
@@ -1359,7 +1359,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 15628,
+          "confirmed": 15759,
           "date": "2020-07-03",
           "deaths": 762,
           "recovered": 0
@@ -1641,9 +1641,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 9199,
+      "confirmed": 9326,
       "date": "2020-07-03",
-      "deaths": 27,
+      "deaths": 28,
       "recovered": 6161
     }
   }
