@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 27047,
+      "confirmed": 27542,
       "date": "2020-07-03",
-      "deaths": 324,
-      "recovered": 17547
+      "deaths": 325,
+      "recovered": 17599
     }
   },
   "Italy": {
@@ -1128,7 +1128,7 @@
       "confirmed": 27746,
       "date": "2020-07-03",
       "deaths": 1687,
-      "recovered": 19363
+      "recovered": 20433
     }
   },
   "Russia": {
@@ -1333,10 +1333,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 9573,
+      "confirmed": 9663,
       "date": "2020-07-03",
-      "deaths": 602,
-      "recovered": 4606
+      "deaths": 604,
+      "recovered": 4624
     }
   },
   "Sweden": {
