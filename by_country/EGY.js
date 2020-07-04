@@ -331,7 +331,8 @@ var covid19_dataset_country_egy = {
       66754,
       68311,
       69814,
-      71299
+      71299,
+      72711
     ],
     "deaths": [
       0,
@@ -496,7 +497,8 @@ var covid19_dataset_country_egy = {
       2872,
       2953,
       3034,
-      3120
+      3120,
+      3201
     ],
     "recovered": [
       0,
@@ -661,7 +663,8 @@ var covid19_dataset_country_egy = {
       17951,
       18460,
       18881,
-      19288
+      19288,
+      19690
     ]
   }
 };
