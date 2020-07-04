@@ -142,7 +142,7 @@
           "confirmed": 53996,
           "date": "2020-07-04",
           "deaths": 631,
-          "recovered": 38901
+          "recovered": 40679
         }
       },
       "Espirito Santo": {
@@ -166,7 +166,7 @@
           "confirmed": 88214,
           "date": "2020-07-04",
           "deaths": 2119,
-          "recovered": 64816
+          "recovered": 67541
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 18854,
           "date": "2020-07-04",
           "deaths": 674,
-          "recovered": 6985
+          "recovered": 7684
         }
       },
       "Mato Grosso do Sul": {
@@ -230,7 +230,7 @@
           "confirmed": 24376,
           "date": "2020-07-04",
           "deaths": 697,
-          "recovered": 22750
+          "recovered": 23880
         }
       },
       "Rio Grande do Norte": {
@@ -262,7 +262,7 @@
           "confirmed": 22241,
           "date": "2020-07-04",
           "deaths": 530,
-          "recovered": 11302
+          "recovered": 11543
         }
       },
       "Roraima": {
@@ -327,9 +327,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37405,
+          "confirmed": 37407,
           "date": "2020-07-04",
-          "deaths": 2739,
+          "deaths": 2740,
           "recovered": 32448
         }
       },
@@ -793,10 +793,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 12967,
+      "confirmed": 13030,
       "date": "2020-07-04",
-      "deaths": 282,
-      "recovered": 11759
+      "deaths": 283,
+      "recovered": 11811
     }
   },
   "Kuwait": {
@@ -993,10 +993,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 35237,
+      "confirmed": 35995,
       "date": "2020-07-04",
-      "deaths": 667,
-      "recovered": 16445
+      "deaths": 698,
+      "recovered": 16945
     }
   },
   "Peru": {
