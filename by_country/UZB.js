@@ -333,7 +333,7 @@ var covid19_dataset_country_uzb = {
       8781,
       9078,
       9396,
-      9611
+      9708
     ],
     "deaths": [
       0,
@@ -667,7 +667,7 @@ var covid19_dataset_country_uzb = {
       5847,
       6034,
       6251,
-      6306
+      6425
     ]
   }
 };

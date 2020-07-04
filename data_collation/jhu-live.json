@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 28410,
       "date": "2020-07-04",
-      "deaths": 95,
+      "deaths": 96,
       "recovered": 23318
     }
   },
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 28055,
+      "confirmed": 29032,
       "date": "2020-07-04",
-      "deaths": 326,
-      "recovered": 17669
+      "deaths": 330,
+      "recovered": 17773
     }
   },
   "Italy": {
@@ -1427,7 +1427,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 16998,
+          "confirmed": 17915,
           "date": "2020-07-04",
           "deaths": 487,
           "recovered": 0
@@ -1435,9 +1435,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 118626,
+          "confirmed": 119245,
           "date": "2020-07-04",
-          "deaths": 5787,
+          "deaths": 5795,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 21595,
+          "confirmed": 22286,
           "date": "2020-07-04",
-          "deaths": 315,
+          "deaths": 316,
           "recovered": 0
         }
       },
@@ -1571,7 +1571,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 12050,
+          "confirmed": 12343,
           "date": "2020-07-04",
           "deaths": 112,
           "recovered": 0
@@ -1595,7 +1595,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 11823,
+          "confirmed": 12083,
           "date": "2020-07-04",
           "deaths": 391,
           "recovered": 0
@@ -1641,10 +1641,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 9611,
+      "confirmed": 9708,
       "date": "2020-07-04",
       "deaths": 31,
-      "recovered": 6306
+      "recovered": 6425
     }
   }
 }
