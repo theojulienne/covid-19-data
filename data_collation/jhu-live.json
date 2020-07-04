@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 156391,
+      "confirmed": 159679,
       "date": "2020-07-04",
-      "deaths": 1968,
-      "recovered": 68048
+      "deaths": 1997,
+      "recovered": 70721
     }
   },
   "Belarus": {
@@ -503,15 +503,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 48587,
+          "confirmed": 48655,
           "date": "2020-07-04",
-          "deaths": 2598,
+          "deaths": 2600,
           "recovered": 45250
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 8392,
+          "confirmed": 8393,
           "date": "2020-07-04",
           "deaths": 214,
           "recovered": 7612
@@ -519,15 +519,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 10894,
+          "confirmed": 10918,
           "date": "2020-07-04",
-          "deaths": 509,
+          "deaths": 511,
           "recovered": 9993
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13632,
+          "confirmed": 13647,
           "date": "2020-07-04",
           "deaths": 636,
           "recovered": 12268
@@ -535,9 +535,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 43660,
+          "confirmed": 43853,
           "date": "2020-07-04",
-          "deaths": 1686,
+          "deaths": 1688,
           "recovered": 37974
         }
       }
@@ -957,10 +957,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 43929,
+      "confirmed": 45106,
       "date": "2020-07-04",
       "deaths": 203,
-      "recovered": 26169
+      "recovered": 26968
     }
   },
   "Pakistan": {
@@ -1125,18 +1125,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 98653,
+      "confirmed": 99183,
       "date": "2020-07-04",
-      "deaths": 121,
-      "recovered": 88583
+      "deaths": 123,
+      "recovered": 90387
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 28166,
+      "confirmed": 28582,
       "date": "2020-07-04",
-      "deaths": 1708,
-      "recovered": 19545
+      "deaths": 1731,
+      "recovered": 19854
     }
   },
   "Russia": {
@@ -1605,10 +1605,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 50141,
+      "confirmed": 50857,
       "date": "2020-07-04",
-      "deaths": 318,
-      "recovered": 39153
+      "deaths": 321,
+      "recovered": 39857
     }
   },
   "United Kingdom": {
