@@ -419,14 +419,6 @@
       }
     }
   },
-  "Congo (Kinshasa)": {
-    "live": {
-      "confirmed": 7311,
-      "date": "2020-07-03",
-      "deaths": 179,
-      "recovered": 2684
-    }
-  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 10244,
@@ -437,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 12248,
+      "confirmed": 12319,
       "date": "2020-07-03",
       "deaths": 353,
-      "recovered": 7822
+      "recovered": 7848
     }
   },
   "Denmark": {
@@ -933,15 +925,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 27110,
+      "confirmed": 27564,
       "date": "2020-07-03",
-      "deaths": 616,
-      "recovered": 10801
+      "deaths": 628,
+      "recovered": 11069
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8916,
+      "confirmed": 8921,
       "date": "2020-07-03",
       "deaths": 251,
       "recovered": 8138
@@ -1387,9 +1379,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 169936,
+          "confirmed": 172406,
           "date": "2020-07-03",
-          "deaths": 4918,
+          "deaths": 4952,
           "recovered": 0
         }
       },
@@ -1481,6 +1473,14 @@
           "recovered": 0
         }
       },
+      "Nebraska": {
+        "live": {
+          "confirmed": 7312,
+          "date": "2020-07-03",
+          "deaths": 96,
+          "recovered": 0
+        }
+      },
       "Nevada": {
         "live": {
           "confirmed": 17028,
@@ -1501,7 +1501,7 @@
         "live": {
           "confirmed": 366636,
           "date": "2020-07-03",
-          "deaths": 30511,
+          "deaths": 30519,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 42386,
+          "confirmed": 35098,
           "date": "2020-07-03",
-          "deaths": 3088,
+          "deaths": 2429,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 10535,
+          "confirmed": 18033,
           "date": "2020-07-03",
-          "deaths": 615,
+          "deaths": 778,
           "recovered": 0
         }
       },
