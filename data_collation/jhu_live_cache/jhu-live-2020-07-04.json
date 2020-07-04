@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 18050,
+      "confirmed": 18165,
       "date": "2020-07-04",
       "deaths": 705,
-      "recovered": 16558
+      "recovered": 16607
     }
   },
   "Azerbaijan": {
@@ -465,6 +465,14 @@
       "date": "2020-07-04",
       "deaths": 3201,
       "recovered": 19690
+    }
+  },
+  "El Salvador": {
+    "live": {
+      "confirmed": 7507,
+      "date": "2020-07-04",
+      "deaths": 210,
+      "recovered": 4434
     }
   },
   "France": {
@@ -1096,7 +1104,7 @@
       "confirmed": 35405,
       "date": "2020-07-04",
       "deaths": 1507,
-      "recovered": 22651
+      "recovered": 23127
     }
   },
   "Portugal": {
@@ -1470,14 +1478,6 @@
           "confirmed": 12150,
           "date": "2020-07-04",
           "deaths": 785,
-          "recovered": 0
-        }
-      },
-      "Nebraska": {
-        "live": {
-          "confirmed": 7312,
-          "date": "2020-07-04",
-          "deaths": 96,
           "recovered": 0
         }
       },
