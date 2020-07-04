@@ -93,7 +93,7 @@
         "live": {
           "confirmed": 14112,
           "date": "2020-07-04",
-          "deaths": 378,
+          "deaths": 387,
           "recovered": 7650
         }
       },
@@ -101,7 +101,7 @@
         "live": {
           "confirmed": 38404,
           "date": "2020-07-04",
-          "deaths": 1091,
+          "deaths": 1113,
           "recovered": 30181
         }
       },
@@ -109,7 +109,7 @@
         "live": {
           "confirmed": 29574,
           "date": "2020-07-04",
-          "deaths": 427,
+          "deaths": 438,
           "recovered": 17156
         }
       },
@@ -117,7 +117,7 @@
         "live": {
           "confirmed": 74537,
           "date": "2020-07-04",
-          "deaths": 2862,
+          "deaths": 2887,
           "recovered": 60743
         }
       },
@@ -125,7 +125,7 @@
         "live": {
           "confirmed": 82314,
           "date": "2020-07-04",
-          "deaths": 1947,
+          "deaths": 2001,
           "recovered": 54987
         }
       },
@@ -133,7 +133,7 @@
         "live": {
           "confirmed": 118041,
           "date": "2020-07-04",
-          "deaths": 6284,
+          "deaths": 6351,
           "recovered": 91918
         }
       },
@@ -141,7 +141,7 @@
         "live": {
           "confirmed": 53996,
           "date": "2020-07-04",
-          "deaths": 631,
+          "deaths": 643,
           "recovered": 40679
         }
       },
@@ -149,7 +149,7 @@
         "live": {
           "confirmed": 51689,
           "date": "2020-07-04",
-          "deaths": 1728,
+          "deaths": 1758,
           "recovered": 31980
         }
       },
@@ -157,7 +157,7 @@
         "live": {
           "confirmed": 26330,
           "date": "2020-07-04",
-          "deaths": 545,
+          "deaths": 586,
           "recovered": 0
         }
       },
@@ -165,7 +165,7 @@
         "live": {
           "confirmed": 88214,
           "date": "2020-07-04",
-          "deaths": 2119,
+          "deaths": 2153,
           "recovered": 67541
         }
       },
@@ -173,7 +173,7 @@
         "live": {
           "confirmed": 18854,
           "date": "2020-07-04",
-          "deaths": 674,
+          "deaths": 709,
           "recovered": 7684
         }
       },
@@ -181,7 +181,7 @@
         "live": {
           "confirmed": 9388,
           "date": "2020-07-04",
-          "deaths": 91,
+          "deaths": 107,
           "recovered": 5326
         }
       },
@@ -189,7 +189,7 @@
         "live": {
           "confirmed": 53351,
           "date": "2020-07-04",
-          "deaths": 1059,
+          "deaths": 1110,
           "recovered": 31682
         }
       },
@@ -197,7 +197,7 @@
         "live": {
           "confirmed": 110411,
           "date": "2020-07-04",
-          "deaths": 5004,
+          "deaths": 5050,
           "recovered": 97308
         }
       },
@@ -205,7 +205,7 @@
         "live": {
           "confirmed": 50765,
           "date": "2020-07-04",
-          "deaths": 1044,
+          "deaths": 1062,
           "recovered": 16971
         }
       },
@@ -213,7 +213,7 @@
         "live": {
           "confirmed": 28166,
           "date": "2020-07-04",
-          "deaths": 706,
+          "deaths": 728,
           "recovered": 6997
         }
       },
@@ -221,7 +221,7 @@
         "live": {
           "confirmed": 62362,
           "date": "2020-07-04",
-          "deaths": 4968,
+          "deaths": 5068,
           "recovered": 41925
         }
       },
@@ -229,7 +229,7 @@
         "live": {
           "confirmed": 24376,
           "date": "2020-07-04",
-          "deaths": 697,
+          "deaths": 726,
           "recovered": 23880
         }
       },
@@ -237,7 +237,7 @@
         "live": {
           "confirmed": 33421,
           "date": "2020-07-04",
-          "deaths": 1103,
+          "deaths": 1171,
           "recovered": 2904
         }
       },
@@ -245,7 +245,7 @@
         "live": {
           "confirmed": 30371,
           "date": "2020-07-04",
-          "deaths": 663,
+          "deaths": 690,
           "recovered": 24673
         }
       },
@@ -253,7 +253,7 @@
         "live": {
           "confirmed": 118956,
           "date": "2020-07-04",
-          "deaths": 10332,
+          "deaths": 10500,
           "recovered": 98540
         }
       },
@@ -261,7 +261,7 @@
         "live": {
           "confirmed": 22241,
           "date": "2020-07-04",
-          "deaths": 530,
+          "deaths": 533,
           "recovered": 11543
         }
       },
@@ -269,7 +269,7 @@
         "live": {
           "confirmed": 18323,
           "date": "2020-07-04",
-          "deaths": 354,
+          "deaths": 358,
           "recovered": 4430
         }
       },
@@ -277,7 +277,7 @@
         "live": {
           "confirmed": 30261,
           "date": "2020-07-04",
-          "deaths": 362,
+          "deaths": 376,
           "recovered": 22864
         }
       },
@@ -285,7 +285,7 @@
         "live": {
           "confirmed": 310702,
           "date": "2020-07-04",
-          "deaths": 15351,
+          "deaths": 15694,
           "recovered": 162851
         }
       },
@@ -293,7 +293,7 @@
         "live": {
           "confirmed": 28186,
           "date": "2020-07-04",
-          "deaths": 725,
+          "deaths": 764,
           "recovered": 14878
         }
       },
@@ -301,7 +301,7 @@
         "live": {
           "confirmed": 11736,
           "date": "2020-07-04",
-          "deaths": 209,
+          "deaths": 211,
           "recovered": 7324
         }
       }
@@ -717,9 +717,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25498,
+      "confirmed": 25509,
       "date": "2020-07-04",
-      "deaths": 1740,
+      "deaths": 1741,
       "recovered": 23364
     }
   },
@@ -949,7 +949,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8921,
+      "confirmed": 8926,
       "date": "2020-07-04",
       "deaths": 251,
       "recovered": 8138
@@ -1260,7 +1260,7 @@
       "confirmed": 44664,
       "date": "2020-07-04",
       "deaths": 26,
-      "recovered": 39769
+      "recovered": 40117
     }
   },
   "South Africa": {
@@ -1389,7 +1389,7 @@
         "live": {
           "confirmed": 66953,
           "date": "2020-07-04",
-          "deaths": 1147,
+          "deaths": 1162,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 141558,
+          "confirmed": 141764,
           "date": "2020-07-04",
-          "deaths": 12216,
+          "deaths": 12238,
           "recovered": 0
         }
       },
@@ -1509,7 +1509,7 @@
         "live": {
           "confirmed": 367180,
           "date": "2020-07-04",
-          "deaths": 30519,
+          "deaths": 30538,
           "recovered": 0
         }
       },
@@ -1615,25 +1615,25 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 244412,
+          "confirmed": 244991,
           "date": "2020-07-04",
-          "deaths": 39567,
+          "deaths": 39626,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18276,
+          "confirmed": 18287,
           "date": "2020-07-04",
-          "deaths": 2487,
+          "deaths": 2488,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 15841,
+          "confirmed": 15875,
           "date": "2020-07-04",
-          "deaths": 1525,
+          "deaths": 1530,
           "recovered": 0
         }
       }
