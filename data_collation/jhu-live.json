@@ -419,6 +419,14 @@
       }
     }
   },
+  "Congo (Kinshasa)": {
+    "live": {
+      "confirmed": 7379,
+      "date": "2020-07-04",
+      "deaths": 182,
+      "recovered": 2961
+    }
+  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 10244,
@@ -903,16 +911,16 @@
     "live": {
       "confirmed": 17445,
       "date": "2020-07-04",
-      "deaths": 572,
+      "deaths": 576,
       "recovered": 10093
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 13288,
+      "confirmed": 13434,
       "date": "2020-07-04",
-      "deaths": 230,
-      "recovered": 9160
+      "deaths": 232,
+      "recovered": 9214
     }
   },
   "Nepal": {
@@ -1093,10 +1101,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 40336,
+      "confirmed": 41830,
       "date": "2020-07-04",
-      "deaths": 1280,
-      "recovered": 11073
+      "deaths": 1290,
+      "recovered": 11453
     }
   },
   "Poland": {
@@ -1579,9 +1587,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 18033,
+          "confirmed": 10684,
           "date": "2020-07-04",
-          "deaths": 778,
+          "deaths": 618,
           "recovered": 0
         }
       },
