@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37407,
+          "confirmed": 37426,
           "date": "2020-07-04",
-          "deaths": 2740,
-          "recovered": 32448
+          "deaths": 2744,
+          "recovered": 32458
         }
       },
       "Quebec": {
@@ -419,14 +419,6 @@
       }
     }
   },
-  "Congo (Kinshasa)": {
-    "live": {
-      "confirmed": 7379,
-      "date": "2020-07-04",
-      "deaths": 182,
-      "recovered": 2961
-    }
-  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 10244,
@@ -453,10 +445,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 35148,
+      "confirmed": 36184,
       "date": "2020-07-04",
-      "deaths": 775,
-      "recovered": 18392
+      "deaths": 786,
+      "recovered": 18602
     }
   },
   "Ecuador": {
@@ -506,7 +498,7 @@
           "confirmed": 48655,
           "date": "2020-07-04",
           "deaths": 2600,
-          "recovered": 45250
+          "recovered": 45290
         }
       },
       "Berlin": {
@@ -522,15 +514,15 @@
           "confirmed": 10918,
           "date": "2020-07-04",
           "deaths": 511,
-          "recovered": 9993
+          "recovered": 10009
         }
       },
       "Niedersachsen": {
         "live": {
           "confirmed": 13647,
           "date": "2020-07-04",
-          "deaths": 636,
-          "recovered": 12268
+          "deaths": 637,
+          "recovered": 12334
         }
       },
       "Nordrhein-Westfalen": {
@@ -538,7 +530,7 @@
           "confirmed": 43853,
           "date": "2020-07-04",
           "deaths": 1688,
-          "recovered": 37974
+          "recovered": 39222
         }
       }
     }
@@ -717,10 +709,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 56020,
+      "confirmed": 58354,
       "date": "2020-07-04",
-      "deaths": 2262,
-      "recovered": 29600
+      "deaths": 2368,
+      "recovered": 31077
     }
   },
   "Ireland": {
@@ -743,58 +735,58 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 28562,
+          "confirmed": 28613,
           "date": "2020-07-04",
           "deaths": 4267,
-          "recovered": 23284
+          "recovered": 23309
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 8141,
+          "confirmed": 8172,
           "date": "2020-07-04",
-          "deaths": 840,
-          "recovered": 6475
+          "deaths": 841,
+          "recovered": 6477
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 9987,
+          "confirmed": 9991,
           "date": "2020-07-04",
           "deaths": 1558,
-          "recovered": 8146
+          "recovered": 8150
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 94223,
+          "confirmed": 94318,
           "date": "2020-07-04",
-          "deaths": 16675,
-          "recovered": 67871
+          "deaths": 16691,
+          "recovered": 68201
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31394,
+          "confirmed": 31405,
           "date": "2020-07-04",
-          "deaths": 4100,
-          "recovered": 26019
+          "deaths": 4102,
+          "recovered": 26086
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 10267,
+          "confirmed": 10276,
           "date": "2020-07-04",
-          "deaths": 1112,
-          "recovered": 8832
+          "deaths": 1114,
+          "recovered": 8838
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 19314,
+          "confirmed": 19318,
           "date": "2020-07-04",
           "deaths": 2023,
-          "recovered": 16901
+          "recovered": 16907
         }
       }
     }
@@ -805,6 +797,14 @@
       "date": "2020-07-04",
       "deaths": 188,
       "recovered": 15276
+    }
+  },
+  "Kenya": {
+    "live": {
+      "confirmed": 7577,
+      "date": "2020-07-04",
+      "deaths": 154,
+      "recovered": 2148
     }
   },
   "Korea, South": {
@@ -909,10 +909,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 17445,
+      "confirmed": 17672,
       "date": "2020-07-04",
-      "deaths": 576,
-      "recovered": 10093
+      "deaths": 580,
+      "recovered": 10396
     }
   },
   "Morocco": {
