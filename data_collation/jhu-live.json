@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 15070,
+      "confirmed": 15500,
       "date": "2020-07-04",
-      "deaths": 937,
-      "recovered": 10832
+      "deaths": 946,
+      "recovered": 11181
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 19267,
+      "confirmed": 19801,
       "date": "2020-07-04",
-      "deaths": 235,
-      "recovered": 10820
+      "deaths": 241,
+      "recovered": 11291
     }
   },
   "Bahrain": {
@@ -330,15 +330,15 @@
           "confirmed": 37426,
           "date": "2020-07-04",
           "deaths": 2744,
-          "recovered": 32458
+          "recovered": 32497
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 55682,
+          "confirmed": 55784,
           "date": "2020-07-04",
-          "deaths": 5560,
-          "recovered": 25158
+          "deaths": 5566,
+          "recovered": 25280
         }
       }
     }
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 12319,
+      "confirmed": 12372,
       "date": "2020-07-04",
       "deaths": 353,
-      "recovered": 7848
+      "recovered": 7851
     }
   },
   "Denmark": {
@@ -803,8 +803,8 @@
     "live": {
       "confirmed": 7577,
       "date": "2020-07-04",
-      "deaths": 154,
-      "recovered": 2148
+      "deaths": 159,
+      "recovered": 2236
     }
   },
   "Korea, South": {
@@ -1443,7 +1443,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 11499,
+          "confirmed": 11546,
           "date": "2020-07-04",
           "deaths": 683,
           "recovered": 0
@@ -1491,7 +1491,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 17028,
+          "confirmed": 17707,
           "date": "2020-07-04",
           "deaths": 435,
           "recovered": 0
@@ -1507,7 +1507,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 366636,
+          "confirmed": 367180,
           "date": "2020-07-04",
           "deaths": 30519,
           "recovered": 0
@@ -1515,9 +1515,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 12233,
+          "confirmed": 12576,
           "date": "2020-07-04",
-          "deaths": 151,
+          "deaths": 154,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 35098,
+          "confirmed": 35125,
           "date": "2020-07-04",
           "deaths": 2429,
           "recovered": 0
@@ -1641,10 +1641,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 9500,
+      "confirmed": 9611,
       "date": "2020-07-04",
-      "deaths": 29,
-      "recovered": 6251
+      "deaths": 31,
+      "recovered": 6306
     }
   }
 }
