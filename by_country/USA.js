@@ -14824,7 +14824,7 @@ var covid19_dataset_country_usa = {
           11352,
           11392,
           11436,
-          44016
+          11461
         ],
         "recovered": [
           0,

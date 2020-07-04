@@ -431,7 +431,7 @@
     "live": {
       "confirmed": 12372,
       "date": "2020-07-04",
-      "deaths": 353,
+      "deaths": 352,
       "recovered": 7851
     }
   },
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 21293,
+      "confirmed": 22501,
       "date": "2020-07-04",
-      "deaths": 880,
-      "recovered": 3315
+      "deaths": 920,
+      "recovered": 3330
     }
   },
   "Honduras": {
@@ -1265,10 +1265,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 177124,
+      "confirmed": 187977,
       "date": "2020-07-04",
-      "deaths": 2952,
-      "recovered": 86298
+      "deaths": 3026,
+      "recovered": 91227
     }
   },
   "Spain": {
@@ -1387,7 +1387,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 66953,
+          "confirmed": 69142,
           "date": "2020-07-04",
           "deaths": 1162,
           "recovered": 0
