@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 72786,
       "date": "2020-07-04",
-      "deaths": 1437,
-      "recovered": 25224
+      "deaths": 1453,
+      "recovered": 25930
     }
   },
   "Armenia": {
@@ -76,7 +76,7 @@
       "confirmed": 61838,
       "date": "2020-07-04",
       "deaths": 9771,
-      "recovered": 17073
+      "recovered": 17091
     }
   },
   "Bolivia": {
@@ -387,34 +387,34 @@
     "subseries": {
       "Atlantico": {
         "live": {
-          "confirmed": 25181,
+          "confirmed": 25788,
           "date": "2020-07-04",
-          "deaths": 1361,
-          "recovered": 8473
+          "deaths": 1409,
+          "recovered": 8719
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 9629,
+          "confirmed": 9854,
           "date": "2020-07-04",
-          "deaths": 407,
-          "recovered": 4747
+          "deaths": 415,
+          "recovered": 4818
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 32726,
+          "confirmed": 34131,
           "date": "2020-07-04",
-          "deaths": 774,
-          "recovered": 13299
+          "deaths": 806,
+          "recovered": 13484
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 10904,
+          "confirmed": 11202,
           "date": "2020-07-04",
-          "deaths": 442,
-          "recovered": 4892
+          "deaths": 452,
+          "recovered": 4996
         }
       }
     }
@@ -925,10 +925,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 15259,
+      "confirmed": 15491,
       "date": "2020-07-04",
-      "deaths": 32,
-      "recovered": 6143
+      "deaths": 34,
+      "recovered": 6415
     }
   },
   "Netherlands": {
@@ -1117,10 +1117,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 43156,
+      "confirmed": 43569,
       "date": "2020-07-04",
-      "deaths": 1598,
-      "recovered": 28424
+      "deaths": 1605,
+      "recovered": 28772
     }
   },
   "Qatar": {
@@ -1411,17 +1411,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10435,
+          "confirmed": 10447,
           "date": "2020-07-04",
-          "deaths": 555,
+          "deaths": 557,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 116644,
+          "confirmed": 124145,
           "date": "2020-07-04",
-          "deaths": 2434,
+          "deaths": 2449,
           "recovered": 0
         }
       },
@@ -1459,9 +1459,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 49854,
+          "confirmed": 50113,
           "date": "2020-07-04",
-          "deaths": 2254,
+          "deaths": 2260,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 21407,
+          "confirmed": 21556,
           "date": "2020-07-04",
-          "deaths": 640,
+          "deaths": 642,
           "recovered": 0
         }
       },
