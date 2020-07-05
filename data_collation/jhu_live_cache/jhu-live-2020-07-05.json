@@ -25,18 +25,18 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 27900,
+      "confirmed": 28606,
       "date": "2020-07-05",
-      "deaths": 477,
-      "recovered": 15935
+      "deaths": 484,
+      "recovered": 16140
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 18165,
+      "confirmed": 18280,
       "date": "2020-07-05",
-      "deaths": 705,
-      "recovered": 16607
+      "deaths": 706,
+      "recovered": 16615
     }
   },
   "Azerbaijan": {
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 29170,
+      "confirmed": 29366,
       "date": "2020-07-05",
       "deaths": 330,
-      "recovered": 17816
+      "recovered": 17847
     }
   },
   "Italy": {
@@ -1265,7 +1265,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 44664,
+      "confirmed": 44800,
       "date": "2020-07-05",
       "deaths": 26,
       "recovered": 40117

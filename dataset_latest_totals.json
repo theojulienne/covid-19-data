@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 23247,
-        "deaths": 410,
-        "recovered": 12149
+        "confirmed": 23909,
+        "deaths": 421,
+        "recovered": 12911
       },
       "back_2week": {
-        "confirmed": 19157,
-        "deaths": 319,
-        "recovered": 8266
+        "confirmed": 19708,
+        "deaths": 332,
+        "recovered": 8854
       },
       "latest": {
-        "confirmed": 27320,
-        "deaths": 469,
-        "recovered": 15484
+        "confirmed": 27900,
+        "deaths": 477,
+        "recovered": 15935
       }
     },
     "ATG": {
@@ -138,12 +138,12 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 5717,
+        "confirmed": 5718,
         "current_hospitalized": 5,
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2686467
+        "tested": 2689921
       },
       "back_2week": {
         "confirmed": 7834,
@@ -154,12 +154,12 @@
         "tested": 2455393
       },
       "latest": {
-        "confirmed": 5717,
+        "confirmed": 5718,
         "current_hospitalized": 5,
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2686467
+        "tested": 2689921
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 105,
-          "tested": 31197
+          "tested": 31563
         },
         "NSW": {
           "confirmed": 3216,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 29,
-          "tested": 13959
+          "tested": 14214
         },
         "QLD": {
           "confirmed": 1067,
@@ -201,7 +201,7 @@
           "current_icu": 0,
           "deaths": 4,
           "recovered": 436,
-          "tested": 155482
+          "tested": 157971
         },
         "TAS": {
           "confirmed": 228,
@@ -209,7 +209,7 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 215,
-          "tested": 50967
+          "tested": 52002
         },
         "VIC": {
           "confirmed": 2469,
@@ -225,25 +225,25 @@
           "current_icu": 0,
           "deaths": 9,
           "recovered": 598,
-          "tested": 188953
+          "tested": 191213
         }
       }
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 17522,
-        "deaths": 698,
-        "recovered": 16348
+        "confirmed": 17580,
+        "deaths": 700,
+        "recovered": 16371
       },
       "back_2week": {
-        "confirmed": 17271,
+        "confirmed": 17323,
         "deaths": 688,
-        "recovered": 16141
+        "recovered": 16175
       },
       "latest": {
-        "confirmed": 18050,
+        "confirmed": 18165,
         "deaths": 705,
-        "recovered": 16558
+        "recovered": 16607
       }
     },
     "AZE": {
@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 22800,
+        "confirmed": 23421,
         "deaths": 314,
-        "recovered": 16872
+        "recovered": 17002
       },
       "back_2week": {
-        "confirmed": 20339,
+        "confirmed": 20633,
         "deaths": 304,
         "recovered": 15586
       },
       "latest": {
-        "confirmed": 28055,
+        "confirmed": 29170,
         "deaths": 326,
-        "recovered": 17669
+        "recovered": 17816
       }
     },
     "ITA": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 42955,
+        "confirmed": 43246,
         "deaths": 26,
         "recovered": 36825
       },
       "back_2week": {
-        "confirmed": 41615,
+        "confirmed": 41833,
         "deaths": 26,
         "recovered": 33459
       },
       "latest": {
-        "confirmed": 44479,
+        "confirmed": 44664,
         "deaths": 26,
         "recovered": 39769
       }
