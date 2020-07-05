@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37588,
+          "confirmed": 37653,
           "date": "2020-07-05",
-          "deaths": 2744,
-          "recovered": 32726
+          "deaths": 2743,
+          "recovered": 32799
         }
       },
       "Quebec": {
@@ -421,10 +421,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 10462,
+      "confirmed": 10772,
       "date": "2020-07-05",
-      "deaths": 72,
-      "recovered": 4807
+      "deaths": 74,
+      "recovered": 5067
     }
   },
   "Czechia": {
@@ -455,8 +455,8 @@
     "live": {
       "confirmed": 61535,
       "date": "2020-07-05",
-      "deaths": 4769,
-      "recovered": 28507
+      "deaths": 4781,
+      "recovered": 28722
     }
   },
   "Egypt": {
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 22501,
+      "confirmed": 23248,
       "date": "2020-07-05",
-      "deaths": 920,
-      "recovered": 3330
+      "deaths": 947,
+      "recovered": 3382
     }
   },
   "Honduras": {
@@ -1517,7 +1517,7 @@
         "live": {
           "confirmed": 360108,
           "date": "2020-07-05",
-          "deaths": 29931,
+          "deaths": 29932,
           "recovered": 0
         }
       },
