@@ -469,10 +469,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 7507,
+      "confirmed": 7777,
       "date": "2020-07-05",
-      "deaths": 210,
-      "recovered": 4434
+      "deaths": 217,
+      "recovered": 4573
     }
   },
   "France": {
@@ -1133,10 +1133,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 99183,
+      "confirmed": 99799,
       "date": "2020-07-05",
-      "deaths": 123,
-      "recovered": 90387
+      "deaths": 128,
+      "recovered": 92284
     }
   },
   "Romania": {
