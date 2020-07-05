@@ -825,10 +825,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8658,
+      "confirmed": 8663,
       "date": "2020-07-05",
       "deaths": 121,
-      "recovered": 8461
+      "recovered": 8465
     }
   },
   "Mexico": {
@@ -1117,10 +1117,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 35719,
+      "confirmed": 35950,
       "date": "2020-07-05",
-      "deaths": 1512,
-      "recovered": 23127
+      "deaths": 1517,
+      "recovered": 23746
     }
   },
   "Portugal": {
