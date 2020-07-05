@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 30451,
-        "deaths": 683,
-        "recovered": 10306
+        "confirmed": 30616,
+        "deaths": 703,
+        "recovered": 10674
       },
       "back_2week": {
-        "confirmed": 27878,
-        "deaths": 548,
-        "recovered": 7962
+        "confirmed": 28424,
+        "deaths": 569,
+        "recovered": 8292
       },
       "latest": {
-        "confirmed": 32324,
-        "deaths": 819,
-        "recovered": 17331
+        "confirmed": 32672,
+        "deaths": 826,
+        "recovered": 19164
       }
     },
     "AGO": {
@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 7641,
-        "current_hospitalized": 11,
-        "current_icu": 2,
-        "deaths": 106,
-        "recovered": 6979,
-        "tested": 2335223
-      },
-      "back_2week": {
-        "confirmed": 7436,
-        "current_hospitalized": 15,
-        "current_icu": 3,
-        "deaths": 104,
-        "recovered": 6888,
-        "tested": 2004977
-      },
-      "latest": {
-        "confirmed": 8172,
+        "confirmed": 5717,
         "current_hospitalized": 5,
         "current_icu": 3,
         "deaths": 106,
-        "recovered": 7166,
-        "tested": 2664508
+        "recovered": 7177,
+        "tested": 2686467
+      },
+      "back_2week": {
+        "confirmed": 7834,
+        "current_hospitalized": 9,
+        "current_icu": 2,
+        "deaths": 106,
+        "recovered": 7037,
+        "tested": 2455393
+      },
+      "latest": {
+        "confirmed": 5717,
+        "current_hospitalized": 5,
+        "current_icu": 3,
+        "deaths": 106,
+        "recovered": 7177,
+        "tested": 2686467
       },
       "states": {
         "ACT": {
@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 50967
         },
         "VIC": {
-          "confirmed": 2368,
+          "confirmed": 2469,
           "current_hospitalized": 4,
-          "current_icu": 6,
+          "current_icu": 3,
           "deaths": 20,
-          "recovered": 1904,
-          "tested": 880000
+          "recovered": 1938,
+          "tested": 906500
         },
         "WA": {
           "confirmed": 611,
