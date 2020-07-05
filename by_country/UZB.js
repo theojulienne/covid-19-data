@@ -334,7 +334,8 @@ var covid19_dataset_country_uzb = {
       8781,
       9078,
       9396,
-      9708
+      9708,
+      9829
     ],
     "deaths": [
       0,

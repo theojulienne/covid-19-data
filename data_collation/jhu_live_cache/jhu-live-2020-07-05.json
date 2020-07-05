@@ -975,42 +975,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 10717,
+          "confirmed": 10766,
           "date": "2020-07-05",
-          "deaths": 122,
-          "recovered": 5331
+          "deaths": 123,
+          "recovered": 5688
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 13292,
+          "confirmed": 13409,
           "date": "2020-07-05",
-          "deaths": 130,
-          "recovered": 8610
+          "deaths": 134,
+          "recovered": 8955
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 27506,
+          "confirmed": 27843,
           "date": "2020-07-05",
-          "deaths": 1002,
-          "recovered": 15520
+          "deaths": 1020,
+          "recovered": 16242
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 80297,
+          "confirmed": 81317,
           "date": "2020-07-05",
-          "deaths": 1844,
-          "recovered": 42854
+          "deaths": 1871,
+          "recovered": 44671
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 90721,
+          "confirmed": 92306,
           "date": "2020-07-05",
-          "deaths": 1459,
-          "recovered": 50908
+          "deaths": 1501,
+          "recovered": 52388
         }
       }
     }
@@ -1649,7 +1649,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 9708,
+      "confirmed": 9829,
       "date": "2020-07-05",
       "deaths": 31,
       "recovered": 6425
