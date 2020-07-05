@@ -333,7 +333,8 @@ var covid19_dataset_country_est = {
       1989,
       1989,
       1990,
-      1991
+      1991,
+      1993
     ],
     "deaths": [
       0,
@@ -469,6 +470,7 @@ var covid19_dataset_country_est = {
       68,
       68,
       68,
+      69,
       69,
       69,
       69,
@@ -665,7 +667,8 @@ var covid19_dataset_country_est = {
       1829,
       1836,
       1842,
-      1859
+      1859,
+      1870
     ]
   }
 };
