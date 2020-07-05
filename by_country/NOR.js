@@ -334,7 +334,8 @@ var covid19_dataset_country_nor = {
       8896,
       8902,
       8921,
-      8926
+      8926,
+      8927
     ],
     "deaths": [
       0,
