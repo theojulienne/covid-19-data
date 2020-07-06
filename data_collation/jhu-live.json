@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 29367,
       "date": "2020-07-06",
-      "deaths": 97,
+      "deaths": 98,
       "recovered": 24649
     }
   },
@@ -941,10 +941,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 15784,
+      "confirmed": 15964,
       "date": "2020-07-06",
-      "deaths": 34,
-      "recovered": 6547
+      "deaths": 35,
+      "recovered": 6811
     }
   },
   "Netherlands": {
@@ -1385,7 +1385,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 32268,
+      "confirmed": 32315,
       "date": "2020-07-06",
       "deaths": 1965,
       "recovered": 29300
