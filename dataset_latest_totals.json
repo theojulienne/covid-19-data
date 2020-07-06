@@ -138,12 +138,12 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 5718,
+        "confirmed": 5728,
         "current_hospitalized": 5,
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2691587
+        "tested": 2703142
       },
       "back_2week": {
         "confirmed": 7834,
@@ -154,12 +154,12 @@
         "tested": 2455393
       },
       "latest": {
-        "confirmed": 5718,
+        "confirmed": 5728,
         "current_hospitalized": 5,
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2691587
+        "tested": 2703142
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@
           "tested": 31563
         },
         "NSW": {
-          "confirmed": 3216,
+          "confirmed": 3230,
           "current_hospitalized": 2,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 51,
-          "recovered": 2788,
-          "tested": 924318
+          "recovered": 2799,
+          "tested": 942432
         },
         "NT": {
           "confirmed": 30,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 4513,
-        "deaths": 46,
-        "recovered": 2212
+        "confirmed": 5017,
+        "deaths": 50,
+        "recovered": 2294
       },
       "back_2week": {
-        "confirmed": 2981,
-        "deaths": 35,
-        "recovered": 1981
+        "confirmed": 3356,
+        "deaths": 40,
+        "recovered": 2021
       },
       "latest": {
-        "confirmed": 7094,
-        "deaths": 78,
-        "recovered": 2714
+        "confirmed": 7377,
+        "deaths": 88,
+        "recovered": 2802
       }
     },
     "KHM": {
@@ -3737,18 +3737,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 7682,
-        "deaths": 20,
+        "confirmed": 7948,
+        "deaths": 22,
         "recovered": 5240
       },
       "back_2week": {
-        "confirmed": 6153,
+        "confirmed": 6315,
         "deaths": 19,
         "recovered": 4290
       },
       "latest": {
-        "confirmed": 9708,
-        "deaths": 31,
+        "confirmed": 10020,
+        "deaths": 34,
         "recovered": 6425
       }
     },

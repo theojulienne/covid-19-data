@@ -823,6 +823,14 @@
       "recovered": 40463
     }
   },
+  "Kyrgyzstan": {
+    "live": {
+      "confirmed": 7691,
+      "date": "2020-07-06",
+      "deaths": 92,
+      "recovered": 2843
+    }
+  },
   "Malaysia": {
     "live": {
       "confirmed": 8663,
@@ -1427,9 +1435,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 138631,
+          "confirmed": 131133,
           "date": "2020-07-06",
-          "deaths": 2637,
+          "deaths": 2472,
           "recovered": 0
         }
       },
@@ -1649,9 +1657,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 10020,
+      "confirmed": 10143,
       "date": "2020-07-06",
-      "deaths": 34,
+      "deaths": 35,
       "recovered": 6584
     }
   }
