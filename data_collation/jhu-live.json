@@ -182,7 +182,7 @@
           "confirmed": 10089,
           "date": "2020-07-06",
           "deaths": 117,
-          "recovered": 6518
+          "recovered": 6903
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 58283,
           "date": "2020-07-06",
           "deaths": 1201,
-          "recovered": 35622
+          "recovered": 37000
         }
       },
       "Para": {
@@ -254,7 +254,7 @@
           "confirmed": 121292,
           "date": "2020-07-06",
           "deaths": 10667,
-          "recovered": 97719
+          "recovered": 101554
         }
       },
       "Rondonia": {
@@ -286,7 +286,7 @@
           "confirmed": 320179,
           "date": "2020-07-06",
           "deaths": 16078,
-          "recovered": 175439
+          "recovered": 176494
         }
       },
       "Sergipe": {
@@ -302,7 +302,7 @@
           "confirmed": 12475,
           "date": "2020-07-06",
           "deaths": 220,
-          "recovered": 7712
+          "recovered": 7850
         }
       }
     }
@@ -485,10 +485,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 195535,
+      "confirmed": 196748,
       "date": "2020-07-06",
-      "deaths": 29813,
-      "recovered": 72092
+      "deaths": 29836,
+      "recovered": 72233
     }
   },
   "Germany": {
@@ -973,7 +973,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8930,
+      "confirmed": 8932,
       "date": "2020-07-06",
       "deaths": 251,
       "recovered": 8138
@@ -1459,9 +1459,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 119653,
+          "confirmed": 120029,
           "date": "2020-07-06",
-          "deaths": 5800,
+          "deaths": 5803,
           "recovered": 0
         }
       },
@@ -1579,7 +1579,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 22882,
+          "confirmed": 23141,
           "date": "2020-07-06",
           "deaths": 322,
           "recovered": 0
@@ -1619,7 +1619,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 12233,
+          "confirmed": 12396,
           "date": "2020-07-06",
           "deaths": 391,
           "recovered": 0
@@ -1667,7 +1667,7 @@
     "live": {
       "confirmed": 10284,
       "date": "2020-07-06",
-      "deaths": 36,
+      "deaths": 37,
       "recovered": 6584
     }
   }
