@@ -796,7 +796,7 @@
       "confirmed": 47171,
       "date": "2020-07-06",
       "deaths": 188,
-      "recovered": 15556
+      "recovered": 15860
     }
   },
   "Kenya": {
@@ -809,10 +809,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13091,
+      "confirmed": 13137,
       "date": "2020-07-06",
-      "deaths": 283,
-      "recovered": 11832
+      "deaths": 284,
+      "recovered": 11848
     }
   },
   "Kuwait": {
