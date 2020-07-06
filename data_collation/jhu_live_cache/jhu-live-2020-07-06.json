@@ -1128,7 +1128,7 @@
       "confirmed": 35950,
       "date": "2020-07-06",
       "deaths": 1517,
-      "recovered": 23746
+      "recovered": 23966
     }
   },
   "Portugal": {
@@ -1273,7 +1273,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 44800,
+      "confirmed": 44983,
       "date": "2020-07-06",
       "deaths": 26,
       "recovered": 40441

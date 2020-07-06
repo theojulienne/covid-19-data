@@ -138,12 +138,12 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 5728,
+        "confirmed": 5734,
         "current_hospitalized": 5,
         "current_icu": 5,
         "deaths": 108,
         "recovered": 7231,
-        "tested": 2748642
+        "tested": 2750485
       },
       "back_2week": {
         "confirmed": 7834,
@@ -154,12 +154,12 @@ var covid19_dataset_latest_totals = {
         "tested": 2455393
       },
       "latest": {
-        "confirmed": 5728,
+        "confirmed": 5734,
         "current_hospitalized": 5,
         "current_icu": 5,
         "deaths": 108,
         "recovered": 7231,
-        "tested": 2748642
+        "tested": 2750485
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 3,
           "recovered": 105,
-          "tested": 31563
+          "tested": 32016
         },
         "NSW": {
           "confirmed": 3230,
@@ -185,7 +185,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 0,
           "recovered": 29,
-          "tested": 14214
+          "tested": 14523
         },
         "QLD": {
           "confirmed": 1067,
@@ -201,7 +201,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 4,
           "recovered": 436,
-          "tested": 157971
+          "tested": 160000
         },
         "TAS": {
           "confirmed": 228,
@@ -209,7 +209,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 13,
           "recovered": 215,
-          "tested": 52002
+          "tested": 52665
         },
         "VIC": {
           "confirmed": 2660,
@@ -220,7 +220,7 @@ var covid19_dataset_latest_totals = {
           "tested": 952000
         },
         "WA": {
-          "confirmed": 611,
+          "confirmed": 612,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 9,
@@ -2730,17 +2730,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 33714,
         "deaths": 1435,
-        "recovered": 19972
+        "recovered": 20548
       },
       "back_2week": {
         "confirmed": 31620,
         "deaths": 1346,
-        "recovered": 16181
+        "recovered": 16683
       },
       "latest": {
         "confirmed": 35719,
         "deaths": 1512,
-        "recovered": 23127
+        "recovered": 23746
       }
     },
     "PRT": {
@@ -2915,17 +2915,17 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 43246,
+        "confirmed": 43459,
         "deaths": 26,
         "recovered": 37163
       },
       "back_2week": {
-        "confirmed": 41833,
+        "confirmed": 42095,
         "deaths": 26,
         "recovered": 34224
       },
       "latest": {
-        "confirmed": 44664,
+        "confirmed": 44800,
         "deaths": 26,
         "recovered": 40117
       }
