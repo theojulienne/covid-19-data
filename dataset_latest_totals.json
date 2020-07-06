@@ -143,7 +143,7 @@
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2689921
+        "tested": 2691587
       },
       "back_2week": {
         "confirmed": 7834,
@@ -159,7 +159,7 @@
         "current_icu": 3,
         "deaths": 106,
         "recovered": 7177,
-        "tested": 2689921
+        "tested": 2691587
       },
       "states": {
         "ACT": {
@@ -193,7 +193,7 @@
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1055,
-          "tested": 386727
+          "tested": 390572
         },
         "SA": {
           "confirmed": 443,
