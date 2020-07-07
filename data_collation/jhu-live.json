@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 18365,
+      "confirmed": 18421,
       "date": "2020-07-07",
       "deaths": 706,
-      "recovered": 16647
+      "recovered": 16686
     }
   },
   "Azerbaijan": {
@@ -469,10 +469,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 8027,
+      "confirmed": 8307,
       "date": "2020-07-07",
-      "deaths": 223,
-      "recovered": 4785
+      "deaths": 229,
+      "recovered": 4929
     }
   },
   "France": {
@@ -1136,7 +1136,7 @@
       "confirmed": 36155,
       "date": "2020-07-07",
       "deaths": 1521,
-      "recovered": 23966
+      "recovered": 24238
     }
   },
   "Portugal": {
@@ -1167,98 +1167,98 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 7989,
+          "confirmed": 8127,
           "date": "2020-07-07",
           "deaths": 88,
-          "recovered": 4150
+          "recovered": 4281
         }
       },
       "Dagestan Republic": {
         "live": {
-          "confirmed": 8184,
+          "confirmed": 8232,
           "date": "2020-07-07",
-          "deaths": 393,
-          "recovered": 6187
+          "deaths": 397,
+          "recovered": 6273
         }
       },
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 8740,
+          "confirmed": 8985,
           "date": "2020-07-07",
-          "deaths": 69,
-          "recovered": 3322
+          "deaths": 76,
+          "recovered": 3756
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 10590,
+          "confirmed": 10873,
           "date": "2020-07-07",
-          "deaths": 72,
-          "recovered": 5476
+          "deaths": 75,
+          "recovered": 5695
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 9716,
+          "confirmed": 9848,
           "date": "2020-07-07",
-          "deaths": 164,
-          "recovered": 5143
+          "deaths": 172,
+          "recovered": 5421
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 225545,
+          "confirmed": 226174,
           "date": "2020-07-07",
-          "deaths": 3975,
-          "recovered": 157652
+          "deaths": 3999,
+          "recovered": 159718
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 59345,
+          "confirmed": 59522,
           "date": "2020-07-07",
-          "deaths": 947,
-          "recovered": 38754
+          "deaths": 965,
+          "recovered": 39191
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 18826,
+          "confirmed": 19024,
           "date": "2020-07-07",
-          "deaths": 268,
-          "recovered": 12309
+          "deaths": 271,
+          "recovered": 12606
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 10166,
+          "confirmed": 10256,
           "date": "2020-07-07",
-          "deaths": 141,
-          "recovered": 6869
+          "deaths": 146,
+          "recovered": 7068
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 25816,
+          "confirmed": 26094,
           "date": "2020-07-07",
-          "deaths": 1389,
-          "recovered": 20174
+          "deaths": 1437,
+          "recovered": 20359
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 14303,
+          "confirmed": 14529,
           "date": "2020-07-07",
-          "deaths": 131,
-          "recovered": 8442
+          "deaths": 138,
+          "recovered": 8726
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 8505,
+          "confirmed": 8644,
           "date": "2020-07-07",
-          "deaths": 44,
-          "recovered": 5000
+          "deaths": 47,
+          "recovered": 5302
         }
       }
     }
@@ -1281,7 +1281,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 44983,
+      "confirmed": 45140,
       "date": "2020-07-07",
       "deaths": 26,
       "recovered": 40717
