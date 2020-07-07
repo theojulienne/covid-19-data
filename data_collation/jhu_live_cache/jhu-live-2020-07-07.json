@@ -809,10 +809,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13137,
+      "confirmed": 13181,
       "date": "2020-07-07",
-      "deaths": 284,
-      "recovered": 11848
+      "deaths": 285,
+      "recovered": 11914
     }
   },
   "Kuwait": {
@@ -973,7 +973,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8932,
+      "confirmed": 8936,
       "date": "2020-07-07",
       "deaths": 251,
       "recovered": 8138
