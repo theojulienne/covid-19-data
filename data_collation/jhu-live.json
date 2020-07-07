@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 39297,
+      "confirmed": 40509,
       "date": "2020-07-07",
-      "deaths": 1434,
-      "recovered": 11667
+      "deaths": 1476,
+      "recovered": 11929
     }
   },
   "Brazil": {
@@ -134,7 +134,7 @@
           "confirmed": 122477,
           "date": "2020-07-07",
           "deaths": 6481,
-          "recovered": 96699
+          "recovered": 97470
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 60383,
           "date": "2020-07-07",
           "deaths": 726,
-          "recovered": 43946
+          "recovered": 47347
         }
       },
       "Espirito Santo": {
@@ -166,7 +166,7 @@
           "confirmed": 90251,
           "date": "2020-07-07",
           "deaths": 2250,
-          "recovered": 69005
+          "recovered": 69615
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 21496,
           "date": "2020-07-07",
           "deaths": 826,
-          "recovered": 8534
+          "recovered": 8974
         }
       },
       "Mato Grosso do Sul": {
@@ -230,7 +230,7 @@
           "confirmed": 26511,
           "date": "2020-07-07",
           "deaths": 809,
-          "recovered": 24793
+          "recovered": 25771
         }
       },
       "Rio Grande do Norte": {
@@ -262,7 +262,7 @@
           "confirmed": 23921,
           "date": "2020-07-07",
           "deaths": 558,
-          "recovered": 12512
+          "recovered": 13035
         }
       },
       "Roraima": {
@@ -278,7 +278,7 @@
           "confirmed": 33822,
           "date": "2020-07-07",
           "deaths": 406,
-          "recovered": 26887
+          "recovered": 28115
         }
       },
       "Sao Paulo": {
@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37762,
+          "confirmed": 37829,
           "date": "2020-07-07",
           "deaths": 2743,
-          "recovered": 32926
+          "recovered": 32997
         }
       },
       "Quebec": {
@@ -1563,8 +1563,8 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 7916,
-          "date": "2020-07-06",
+          "confirmed": 8585,
+          "date": "2020-07-07",
           "deaths": 155,
           "recovered": 0
         }
