@@ -337,8 +337,7 @@ var covid19_dataset_country_slv = {
       7000,
       7267,
       7507,
-      7777,
-      8027
+      7777
     ],
     "deaths": [
       0,
@@ -506,8 +505,7 @@ var covid19_dataset_country_slv = {
       191,
       202,
       210,
-      217,
-      223
+      217
     ],
     "recovered": [
       0,
@@ -675,8 +673,7 @@ var covid19_dataset_country_slv = {
       4115,
       4268,
       4434,
-      4573,
-      4730
+      4573
     ]
   }
 };
