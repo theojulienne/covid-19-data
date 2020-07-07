@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 30967,
-        "deaths": 721,
-        "recovered": 12604
+        "confirmed": 31238,
+        "deaths": 733,
+        "recovered": 13934
       },
       "back_2week": {
-        "confirmed": 28833,
-        "deaths": 581,
-        "recovered": 8764
+        "confirmed": 29157,
+        "deaths": 598,
+        "recovered": 8841
       },
       "latest": {
-        "confirmed": 32951,
-        "deaths": 864,
-        "recovered": 19366
+        "confirmed": 33190,
+        "deaths": 898,
+        "recovered": 20103
       }
     },
     "AGO": {
@@ -886,9 +886,9 @@
         "recovered": 10100
       },
       "back_2week": {
-        "confirmed": 11892,
-        "deaths": 303,
-        "recovered": 7710
+        "confirmed": 12041,
+        "deaths": 308,
+        "recovered": 7740
       },
       "latest": {
         "confirmed": 12592,
@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 23755,
-        "deaths": 318,
-        "recovered": 17074
+        "confirmed": 24441,
+        "deaths": 319,
+        "recovered": 17218
       },
       "back_2week": {
-        "confirmed": 20778,
-        "deaths": 306,
-        "recovered": 15694
+        "confirmed": 21082,
+        "deaths": 307,
+        "recovered": 15761
       },
       "latest": {
-        "confirmed": 29958,
-        "deaths": 331,
-        "recovered": 17950
+        "confirmed": 30749,
+        "deaths": 334,
+        "recovered": 18056
       }
     },
     "ITA": {
@@ -2951,17 +2951,17 @@
       "back_1week": {
         "confirmed": 5934,
         "deaths": 152,
-        "recovered": 3557
+        "recovered": 3648
       },
       "back_2week": {
         "confirmed": 4626,
         "deaths": 98,
-        "recovered": 2535
+        "recovered": 2655
       },
       "latest": {
         "confirmed": 7777,
         "deaths": 217,
-        "recovered": 4573
+        "recovered": 4730
       }
     },
     "SMR": {
