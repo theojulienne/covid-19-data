@@ -796,7 +796,7 @@
       "confirmed": 49683,
       "date": "2020-07-07",
       "deaths": 264,
-      "recovered": 15860
+      "recovered": 16298
     }
   },
   "Kenya": {
@@ -1435,7 +1435,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10515,
+          "confirmed": 10569,
           "date": "2020-07-07",
           "deaths": 561,
           "recovered": 0
@@ -1443,9 +1443,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 143081,
+          "confirmed": 148147,
           "date": "2020-07-07",
-          "deaths": 2661,
+          "deaths": 2710,
           "recovered": 0
         }
       },
@@ -1483,9 +1483,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50498,
+          "confirmed": 50895,
           "date": "2020-07-07",
-          "deaths": 2274,
+          "deaths": 2282,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14205,
+          "confirmed": 14191,
           "date": "2020-07-07",
           "deaths": 495,
           "recovered": 0
