@@ -1036,17 +1036,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 11805,
         "deaths": 348,
-        "recovered": 7705
+        "recovered": 7746
       },
       "back_2week": {
         "confirmed": 10523,
         "deaths": 336,
-        "recovered": 7499
+        "recovered": 7537
       },
       "latest": {
         "confirmed": 12566,
         "deaths": 350,
-        "recovered": 7864
+        "recovered": 7873
       }
     },
     "DEU": {

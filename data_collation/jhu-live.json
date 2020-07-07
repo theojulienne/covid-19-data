@@ -134,7 +134,7 @@
           "confirmed": 122477,
           "date": "2020-07-07",
           "deaths": 6481,
-          "recovered": 97470
+          "recovered": 99174
         }
       },
       "Distrito Federal": {
@@ -182,7 +182,7 @@
           "confirmed": 10253,
           "date": "2020-07-07",
           "deaths": 122,
-          "recovered": 6903
+          "recovered": 7081
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 59626,
           "date": "2020-07-07",
           "deaths": 1230,
-          "recovered": 37000
+          "recovered": 38554
         }
       },
       "Para": {
@@ -302,7 +302,7 @@
           "confirmed": 12640,
           "date": "2020-07-07",
           "deaths": 224,
-          "recovered": 7850
+          "recovered": 8101
         }
       }
     }
@@ -432,7 +432,7 @@
       "confirmed": 12639,
       "date": "2020-07-07",
       "deaths": 351,
-      "recovered": 7873
+      "recovered": 7910
     }
   },
   "Denmark": {
@@ -506,7 +506,7 @@
           "confirmed": 8501,
           "date": "2020-07-07",
           "deaths": 215,
-          "recovered": 7738
+          "recovered": 7783
         }
       },
       "Hessen": {
@@ -1459,9 +1459,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 120029,
+          "confirmed": 120393,
           "date": "2020-07-07",
-          "deaths": 5803,
+          "deaths": 5829,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 35513,
+          "confirmed": 35755,
           "date": "2020-07-07",
-          "deaths": 3821,
+          "deaths": 3836,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 23141,
+          "confirmed": 23775,
           "date": "2020-07-07",
-          "deaths": 322,
+          "deaths": 329,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 12396,
+          "confirmed": 12539,
           "date": "2020-07-07",
-          "deaths": 391,
+          "deaths": 398,
           "recovered": 0
         }
       }
@@ -1667,7 +1667,7 @@
     "live": {
       "confirmed": 10587,
       "date": "2020-07-07",
-      "deaths": 39,
+      "deaths": 40,
       "recovered": 6690
     }
   }
