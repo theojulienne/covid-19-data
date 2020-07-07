@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 187078,
+          "confirmed": 187452,
           "date": "2020-07-07",
-          "deaths": 5042,
+          "deaths": 5045,
           "recovered": 0
         }
       },
@@ -1665,10 +1665,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 10362,
+      "confirmed": 10459,
       "date": "2020-07-07",
       "deaths": 37,
-      "recovered": 6628
+      "recovered": 6690
     }
   }
 }
