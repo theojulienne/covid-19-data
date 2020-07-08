@@ -339,9 +339,11 @@ var covid19_dataset_country_vct = {
       29,
       29,
       29,
+      29,
       29
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -666,6 +668,7 @@ var covid19_dataset_country_vct = {
       26,
       27,
       27,
+      29,
       29,
       29,
       29,
