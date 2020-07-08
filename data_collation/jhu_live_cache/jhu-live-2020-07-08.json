@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 83426,
       "date": "2020-07-08",
-      "deaths": 1644,
-      "recovered": 30095
+      "deaths": 1654,
+      "recovered": 36502
     }
   },
   "Armenia": {
@@ -957,9 +957,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50694,
+      "confirmed": 50746,
       "date": "2020-07-08",
-      "deaths": 6132,
+      "deaths": 6135,
       "recovered": 0
     }
   },
@@ -1125,10 +1125,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 47873,
+      "confirmed": 50359,
       "date": "2020-07-08",
-      "deaths": 1309,
-      "recovered": 12386
+      "deaths": 1314,
+      "recovered": 12588
     }
   },
   "Poland": {
@@ -1265,10 +1265,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 217108,
+      "confirmed": 220144,
       "date": "2020-07-08",
-      "deaths": 2017,
-      "recovered": 154839
+      "deaths": 2059,
+      "recovered": 158050
     }
   },
   "Serbia": {
@@ -1563,9 +1563,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 8714,
+          "confirmed": 8745,
           "date": "2020-07-08",
-          "deaths": 157,
+          "deaths": 159,
           "recovered": 0
         }
       },
@@ -1665,10 +1665,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 10838,
+      "confirmed": 10982,
       "date": "2020-07-08",
-      "deaths": 41,
-      "recovered": 6811
+      "deaths": 42,
+      "recovered": 6888
     }
   }
 }
