@@ -809,10 +809,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13181,
+      "confirmed": 13244,
       "date": "2020-07-08",
       "deaths": 285,
-      "recovered": 11914
+      "recovered": 11970
     }
   },
   "Kuwait": {
@@ -1033,10 +1033,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 39334,
+      "confirmed": 40291,
       "date": "2020-07-08",
-      "deaths": 770,
-      "recovered": 18036
+      "deaths": 799,
+      "recovered": 18726
     }
   },
   "Peru": {
@@ -1467,9 +1467,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 11854,
+          "confirmed": 11723,
           "date": "2020-07-08",
-          "deaths": 735,
+          "deaths": 689,
           "recovered": 0
         }
       },
