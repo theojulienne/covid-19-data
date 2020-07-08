@@ -1273,10 +1273,10 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 16719,
+      "confirmed": 17076,
       "date": "2020-07-08",
-      "deaths": 330,
-      "recovered": 13447
+      "deaths": 341,
+      "recovered": 13562
     }
   },
   "Singapore": {
@@ -1483,9 +1483,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50895,
+          "confirmed": 51199,
           "date": "2020-07-08",
-          "deaths": 2282,
+          "deaths": 2296,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14191,
+          "confirmed": 14253,
           "date": "2020-07-08",
           "deaths": 495,
           "recovered": 0

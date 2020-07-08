@@ -3000,19 +3000,19 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 14288,
-        "deaths": 274,
-        "recovered": 12581
+        "confirmed": 14564,
+        "deaths": 277,
+        "recovered": 12662
       },
       "back_2week": {
-        "confirmed": 12990,
-        "deaths": 262,
-        "recovered": 11997
+        "confirmed": 13092,
+        "deaths": 263,
+        "recovered": 12054
       },
       "latest": {
-        "confirmed": 16420,
-        "deaths": 317,
-        "recovered": 13366
+        "confirmed": 16719,
+        "deaths": 330,
+        "recovered": 13447
       }
     },
     "SSD": {
