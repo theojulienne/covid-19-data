@@ -2600,7 +2600,7 @@ var covid19_dataset_latest_totals = {
     },
     "NZL": {
       "back_1week": {
-        "confirmed": 1518,
+        "confirmed": 1520,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
@@ -2616,7 +2616,7 @@ var covid19_dataset_latest_totals = {
         "tested": 335167
       },
       "latest": {
-        "confirmed": 1527,
+        "confirmed": 1529,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
