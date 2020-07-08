@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 18421,
+      "confirmed": 18513,
       "date": "2020-07-08",
       "deaths": 706,
-      "recovered": 16686
+      "recovered": 16721
     }
   },
   "Azerbaijan": {
@@ -522,7 +522,7 @@
           "confirmed": 13748,
           "date": "2020-07-08",
           "deaths": 642,
-          "recovered": 12700
+          "recovered": 12750
         }
       },
       "Nordrhein-Westfalen": {
@@ -801,10 +801,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 8250,
+      "confirmed": 8528,
       "date": "2020-07-08",
-      "deaths": 167,
-      "recovered": 2504
+      "deaths": 169,
+      "recovered": 2593
     }
   },
   "Korea, South": {
@@ -949,10 +949,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 16168,
+      "confirmed": 16423,
       "date": "2020-07-08",
       "deaths": 35,
-      "recovered": 7499
+      "recovered": 7752
     }
   },
   "Netherlands": {
@@ -1393,10 +1393,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 32369,
+      "confirmed": 32498,
       "date": "2020-07-08",
       "deaths": 1966,
-      "recovered": 29300
+      "recovered": 29400
     }
   },
   "Turkey": {
