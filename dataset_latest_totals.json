@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 26239,
+        "confirmed": 26758,
         "deaths": 84,
-        "recovered": 20928
+        "recovered": 21331
       },
       "back_2week": {
-        "confirmed": 22407,
+        "confirmed": 23062,
         "deaths": 65,
-        "recovered": 16862
+        "recovered": 17450
       },
       "latest": {
-        "confirmed": 29821,
+        "confirmed": 30321,
         "deaths": 98,
-        "recovered": 25178
+        "recovered": 25570
       }
     },
     "BHS": {
@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 37917,
-          "deaths": 2743
+          "deaths": 2744
         },
         "Prince Edward Island": {
           "confirmed": 32,
