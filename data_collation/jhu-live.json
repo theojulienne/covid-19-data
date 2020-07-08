@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 32222,
+      "confirmed": 32714,
       "date": "2020-07-08",
-      "deaths": 342,
-      "recovered": 18227
+      "deaths": 343,
+      "recovered": 18267
     }
   },
   "Italy": {
@@ -1136,7 +1136,7 @@
       "confirmed": 36412,
       "date": "2020-07-08",
       "deaths": 1528,
-      "recovered": 24238
+      "recovered": 24878
     }
   },
   "Portugal": {
@@ -1281,7 +1281,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 45140,
+      "confirmed": 45298,
       "date": "2020-07-08",
       "deaths": 26,
       "recovered": 41002
