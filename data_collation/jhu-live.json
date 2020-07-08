@@ -327,18 +327,18 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 37926,
+          "confirmed": 37932,
           "date": "2020-07-08",
-          "deaths": 2744,
-          "recovered": 33138
+          "deaths": 2743,
+          "recovered": 33212
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 55997,
+          "confirmed": 56079,
           "date": "2020-07-08",
-          "deaths": 5590,
-          "recovered": 25458
+          "deaths": 5603,
+          "recovered": 25534
         }
       }
     }
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 12685,
+      "confirmed": 12775,
       "date": "2020-07-08",
       "deaths": 351,
-      "recovered": 7910
+      "recovered": 8005
     }
   },
   "Denmark": {
@@ -487,10 +487,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 35900,
+          "confirmed": 35952,
           "date": "2020-07-08",
-          "deaths": 1837,
-          "recovered": 33570
+          "deaths": 1838,
+          "recovered": 33575
         }
       },
       "Bayern": {
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 32714,
+      "confirmed": 33175,
       "date": "2020-07-08",
-      "deaths": 343,
-      "recovered": 18267
+      "deaths": 344,
+      "recovered": 18315
     }
   },
   "Italy": {
@@ -1411,9 +1411,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 77727,
+          "confirmed": 88388,
           "date": "2020-07-08",
-          "deaths": 1235,
+          "deaths": 1352,
           "recovered": 0
         }
       },
@@ -1435,9 +1435,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10569,
+          "confirmed": 10642,
           "date": "2020-07-08",
-          "deaths": 561,
+          "deaths": 564,
           "recovered": 0
         }
       },
@@ -1467,7 +1467,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 11723,
+          "confirmed": 11760,
           "date": "2020-07-08",
           "deaths": 689,
           "recovered": 0
@@ -1507,25 +1507,25 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 12597,
+          "confirmed": 12703,
           "date": "2020-07-08",
-          "deaths": 787,
+          "deaths": 789,
           "recovered": 0
         }
       },
       "Nevada": {
         "live": {
-          "confirmed": 19654,
+          "confirmed": 20126,
           "date": "2020-07-08",
-          "deaths": 450,
+          "deaths": 454,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 134840,
+          "confirmed": 127084,
           "date": "2020-07-08",
-          "deaths": 11776,
+          "deaths": 11184,
           "recovered": 0
         }
       },
@@ -1539,9 +1539,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 13317,
+          "confirmed": 13489,
           "date": "2020-07-08",
-          "deaths": 155,
+          "deaths": 158,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 35583,
+          "confirmed": 35619,
           "date": "2020-07-08",
-          "deaths": 2436,
+          "deaths": 2446,
           "recovered": 0
         }
       },
