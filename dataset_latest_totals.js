@@ -159,7 +159,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 5,
         "deaths": 108,
         "recovered": 7234,
-        "tested": 2875529
+        "tested": 2897529
       },
       "states": {
         "ACT": {
@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 54799
         },
         "VIC": {
-          "confirmed": 2942,
+          "confirmed": 3098,
           "current_hospitalized": 4,
           "current_icu": 5,
           "deaths": 22,
           "recovered": 1992,
-          "tested": 1008000
+          "tested": 1030000
         },
         "WA": {
           "confirmed": 621,
