@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 196796,
+      "confirmed": 197459,
       "date": "2020-07-09",
-      "deaths": 29846,
-      "recovered": 72133
+      "deaths": 29878,
+      "recovered": 72474
     }
   },
   "Germany": {
@@ -521,7 +521,7 @@
         "live": {
           "confirmed": 13754,
           "date": "2020-07-09",
-          "deaths": 642,
+          "deaths": 643,
           "recovered": 12800
         }
       },
@@ -949,10 +949,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 14771,
+      "confirmed": 14949,
       "date": "2020-07-09",
       "deaths": 242,
-      "recovered": 11316
+      "recovered": 11372
     }
   },
   "Nepal": {
@@ -981,7 +981,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8950,
+      "confirmed": 8954,
       "date": "2020-07-09",
       "deaths": 251,
       "recovered": 8138
@@ -1165,10 +1165,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 30175,
+      "confirmed": 30789,
       "date": "2020-07-09",
-      "deaths": 1817,
-      "recovered": 20799
+      "deaths": 1834,
+      "recovered": 20969
     }
   },
   "Russia": {
@@ -1401,7 +1401,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 32498,
+      "confirmed": 32586,
       "date": "2020-07-09",
       "deaths": 1966,
       "recovered": 29400
