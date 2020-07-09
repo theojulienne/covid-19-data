@@ -709,10 +709,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 67442,
+      "confirmed": 69612,
       "date": "2020-07-09",
-      "deaths": 2779,
-      "recovered": 37879
+      "deaths": 2882,
+      "recovered": 39502
     }
   },
   "Ireland": {
@@ -793,18 +793,18 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 51059,
+      "confirmed": 53021,
       "date": "2020-07-09",
       "deaths": 264,
-      "recovered": 16298
+      "recovered": 35137
     }
   },
   "Kenya": {
     "live": {
-      "confirmed": 8528,
+      "confirmed": 8975,
       "date": "2020-07-09",
-      "deaths": 169,
-      "recovered": 2593
+      "deaths": 173,
+      "recovered": 2657
     }
   },
   "Korea, South": {
@@ -965,9 +965,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50746,
+      "confirmed": 50798,
       "date": "2020-07-09",
-      "deaths": 6135,
+      "deaths": 6137,
       "recovered": 0
     }
   },
@@ -1157,10 +1157,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 101553,
+      "confirmed": 102110,
       "date": "2020-07-09",
-      "deaths": 138,
-      "recovered": 96107
+      "deaths": 142,
+      "recovered": 97272
     }
   },
   "Romania": {
@@ -1273,18 +1273,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 220144,
+      "confirmed": 223327,
       "date": "2020-07-09",
-      "deaths": 2059,
-      "recovered": 158050
+      "deaths": 2100,
+      "recovered": 161096
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 17076,
+      "confirmed": 17342,
       "date": "2020-07-09",
-      "deaths": 341,
-      "recovered": 13562
+      "deaths": 352,
+      "recovered": 13651
     }
   },
   "Singapore": {
@@ -1571,7 +1571,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 8745,
+          "confirmed": 8862,
           "date": "2020-07-09",
           "deaths": 159,
           "recovered": 0
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 11259,
+      "confirmed": 11447,
       "date": "2020-07-09",
-      "deaths": 47,
-      "recovered": 7060
+      "deaths": 49,
+      "recovered": 7082
     }
   }
 }
