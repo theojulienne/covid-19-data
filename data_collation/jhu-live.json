@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38079,
+          "confirmed": 38128,
           "date": "2020-07-09",
           "deaths": 2748,
-          "recovered": 33363
+          "recovered": 33428
         }
       },
       "Quebec": {
@@ -445,10 +445,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 39588,
+      "confirmed": 40790,
       "date": "2020-07-09",
-      "deaths": 829,
-      "recovered": 20056
+      "deaths": 842,
+      "recovered": 20426
     }
   },
   "Ecuador": {
@@ -735,58 +735,58 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 28755,
+          "confirmed": 28769,
           "date": "2020-07-09",
           "deaths": 4269,
-          "recovered": 23415
+          "recovered": 23434
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 8224,
+          "confirmed": 8252,
           "date": "2020-07-09",
-          "deaths": 842,
-          "recovered": 6508
+          "deaths": 843,
+          "recovered": 6520
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 10006,
+          "confirmed": 10010,
           "date": "2020-07-09",
           "deaths": 1558,
-          "recovered": 8161
+          "recovered": 8174
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 94651,
+          "confirmed": 94770,
           "date": "2020-07-09",
-          "deaths": 16725,
-          "recovered": 69466
+          "deaths": 16730,
+          "recovered": 69683
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31459,
+          "confirmed": 31475,
           "date": "2020-07-09",
-          "deaths": 4107,
-          "recovered": 26212
+          "deaths": 4108,
+          "recovered": 26243
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 10313,
+          "confirmed": 10314,
           "date": "2020-07-09",
-          "deaths": 1118,
-          "recovered": 8854
+          "deaths": 1120,
+          "recovered": 8857
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 19348,
+          "confirmed": 19358,
           "date": "2020-07-09",
-          "deaths": 2034,
-          "recovered": 16928
+          "deaths": 2037,
+          "recovered": 16929
         }
       }
     }
@@ -943,7 +943,7 @@
     "live": {
       "confirmed": 18471,
       "date": "2020-07-09",
-      "deaths": 614,
+      "deaths": 615,
       "recovered": 11549
     }
   },
@@ -1451,9 +1451,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 155238,
+          "confirmed": 161174,
           "date": "2020-07-09",
-          "deaths": 2732,
+          "deaths": 2819,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 20126,
+          "confirmed": 20622,
           "date": "2020-07-09",
-          "deaths": 454,
+          "deaths": 468,
           "recovered": 0
         }
       },
@@ -1539,7 +1539,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 361337,
+          "confirmed": 361741,
           "date": "2020-07-09",
           "deaths": 29980,
           "recovered": 0
@@ -1647,25 +1647,25 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 246992,
+          "confirmed": 247609,
           "date": "2020-07-09",
-          "deaths": 39936,
+          "deaths": 40018,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18309,
+          "confirmed": 15851,
           "date": "2020-07-09",
-          "deaths": 2489,
+          "deaths": 2490,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 15913,
+          "confirmed": 15929,
           "date": "2020-07-09",
-          "deaths": 1538,
+          "deaths": 1540,
           "recovered": 0
         }
       }
