@@ -2881,8 +2881,8 @@ var covid19_dataset_latest_totals = {
     },
     "SDN": {
       "back_1week": {
-        "confirmed": 9257,
-        "deaths": 572,
+        "confirmed": 9573,
+        "deaths": 602,
         "recovered": 4014
       },
       "back_2week": {
@@ -2891,8 +2891,8 @@ var covid19_dataset_latest_totals = {
         "recovered": 3699
       },
       "latest": {
-        "confirmed": 9997,
-        "deaths": 622,
+        "confirmed": 10084,
+        "deaths": 636,
         "recovered": 5034
       }
     },
