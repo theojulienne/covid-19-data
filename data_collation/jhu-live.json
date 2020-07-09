@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 17348,
+      "confirmed": 17808,
       "date": "2020-07-09",
-      "deaths": 978,
-      "recovered": 12329
+      "deaths": 988,
+      "recovered": 12637
     }
   },
   "Argentina": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 30931,
       "date": "2020-07-09",
-      "deaths": 101,
+      "deaths": 102,
       "recovered": 26073
     }
   },
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 197343,
+      "confirmed": 197964,
       "date": "2020-07-09",
-      "deaths": 29875,
-      "recovered": 72234
+      "deaths": 29889,
+      "recovered": 72408
     }
   },
   "Germany": {
@@ -717,9 +717,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25542,
+      "confirmed": 25565,
       "date": "2020-07-09",
-      "deaths": 1738,
+      "deaths": 1743,
       "recovered": 23364
     }
   },
@@ -1531,9 +1531,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 127168,
+          "confirmed": 127228,
           "date": "2020-07-09",
-          "deaths": 11211,
+          "deaths": 11250,
           "recovered": 0
         }
       },
@@ -1563,7 +1563,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 35718,
+          "confirmed": 35977,
           "date": "2020-07-09",
           "deaths": 2455,
           "recovered": 0
@@ -1603,9 +1603,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 13343,
+          "confirmed": 13646,
           "date": "2020-07-09",
-          "deaths": 122,
+          "deaths": 124,
           "recovered": 0
         }
       },
