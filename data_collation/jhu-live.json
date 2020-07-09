@@ -471,8 +471,8 @@
     "live": {
       "confirmed": 8566,
       "date": "2020-07-09",
-      "deaths": 235,
-      "recovered": 5133
+      "deaths": 243,
+      "recovered": 5160
     }
   },
   "France": {
@@ -1673,9 +1673,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 11092,
+      "confirmed": 11259,
       "date": "2020-07-09",
-      "deaths": 45,
+      "deaths": 47,
       "recovered": 7060
     }
   }
