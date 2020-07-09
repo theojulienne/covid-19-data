@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 55997,
+          "confirmed": 56079,
           "deaths": 5603
         },
         "Saskatchewan": {
@@ -2221,19 +2221,19 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 16613,
+        "confirmed": 16898,
         "deaths": 549,
-        "recovered": 9382
+        "recovered": 9594
       },
       "back_2week": {
-        "confirmed": 14714,
+        "confirmed": 15078,
         "deaths": 495,
-        "recovered": 8212
+        "recovered": 8400
       },
       "latest": {
-        "confirmed": 18141,
+        "confirmed": 18471,
         "deaths": 614,
-        "recovered": 11241
+        "recovered": 11549
       }
     },
     "MDG": {
@@ -3272,19 +3272,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 199906,
-        "deaths": 5131,
-        "recovered": 173111
+        "confirmed": 201098,
+        "deaths": 5150,
+        "recovered": 175422
       },
       "back_2week": {
-        "confirmed": 190165,
-        "deaths": 5001,
-        "recovered": 162848
+        "confirmed": 191657,
+        "deaths": 5025,
+        "recovered": 164234
       },
       "latest": {
-        "confirmed": 207897,
-        "deaths": 5260,
-        "recovered": 185292
+        "confirmed": 208938,
+        "deaths": 5282,
+        "recovered": 187511
       }
     },
     "TWN": {
