@@ -154,12 +154,12 @@
         "tested": 2455393
       },
       "latest": {
-        "confirmed": 5749,
+        "confirmed": 5762,
         "current_hospitalized": 5,
         "current_icu": 5,
         "deaths": 108,
         "recovered": 7232,
-        "tested": 2848998
+        "tested": 2867701
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@
           "tested": 32562
         },
         "NSW": {
-          "confirmed": 3244,
+          "confirmed": 3251,
           "current_hospitalized": 2,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 51,
-          "recovered": 2798,
-          "tested": 963733
+          "recovered": 2797,
+          "tested": 979060
         },
         "NT": {
           "confirmed": 30,
@@ -3374,22 +3374,22 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 2613993,
+        "confirmed": 2614091,
         "deaths": 119986,
         "recovered": 813517,
-        "tested": 32163932
+        "tested": 32075733
       },
       "back_2week": {
-        "confirmed": 2326195,
+        "confirmed": 2326274,
         "deaths": 114423,
         "recovered": 738695,
-        "tested": 28031316
+        "tested": 27954661
       },
       "latest": {
-        "confirmed": 2971142,
+        "confirmed": 2971192,
         "deaths": 123656,
         "recovered": 936194,
-        "tested": 36638973
+        "tested": 36541553
       },
       "states": {
         "AK": {
@@ -3652,11 +3652,11 @@
           "tested": 850102
         },
         "RI": {
-          "confirmed": 17154,
+          "confirmed": 17204,
           "deaths": 969,
           "hospitalized": 2036,
           "recovered": 1677,
-          "tested": 260690
+          "tested": 163270
         },
         "SC": {
           "confirmed": 47352,
