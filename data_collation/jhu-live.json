@@ -118,7 +118,7 @@
           "confirmed": 80082,
           "date": "2020-07-09",
           "deaths": 2967,
-          "recovered": 66256
+          "recovered": 67024
         }
       },
       "Bahia": {
@@ -270,7 +270,7 @@
           "confirmed": 19284,
           "date": "2020-07-09",
           "deaths": 386,
-          "recovered": 4495
+          "recovered": 4538
         }
       },
       "Santa Catarina": {
@@ -701,10 +701,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 248379,
+      "confirmed": 250458,
       "date": "2020-07-09",
-      "deaths": 12084,
-      "recovered": 209463
+      "deaths": 12305,
+      "recovered": 212176
     }
   },
   "Iraq": {
@@ -957,10 +957,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 16423,
+      "confirmed": 16531,
       "date": "2020-07-09",
       "deaths": 35,
-      "recovered": 7752
+      "recovered": 7891
     }
   },
   "Netherlands": {
