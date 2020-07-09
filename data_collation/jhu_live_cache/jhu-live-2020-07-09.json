@@ -537,18 +537,18 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 22822,
+      "confirmed": 23463,
       "date": "2020-07-09",
       "deaths": 129,
-      "recovered": 17564
+      "recovered": 18622
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 25411,
+      "confirmed": 26658,
       "date": "2020-07-09",
-      "deaths": 1053,
-      "recovered": 3718
+      "deaths": 1092,
+      "recovered": 3797
     }
   },
   "Honduras": {
@@ -1587,9 +1587,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 124529,
+          "confirmed": 125730,
           "date": "2020-07-09",
-          "deaths": 1553,
+          "deaths": 1563,
           "recovered": 0
         }
       },
