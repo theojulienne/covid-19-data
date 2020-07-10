@@ -2950,18 +2950,18 @@
     "SLV": {
       "back_1week": {
         "confirmed": 6736,
-        "deaths": 182,
-        "recovered": 3964
+        "deaths": 191,
+        "recovered": 4115
       },
       "back_2week": {
         "confirmed": 5150,
-        "deaths": 119,
-        "recovered": 2924
+        "deaths": 126,
+        "recovered": 3116
       },
       "latest": {
         "confirmed": 8566,
-        "deaths": 235,
-        "recovered": 5133
+        "deaths": 243,
+        "recovered": 5289
       }
     },
     "SMR": {
@@ -3737,18 +3737,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 8781,
-        "deaths": 26,
+        "confirmed": 9078,
+        "deaths": 27,
         "recovered": 5847
       },
       "back_2week": {
-        "confirmed": 6990,
-        "deaths": 19,
+        "confirmed": 7177,
+        "deaths": 20,
         "recovered": 4685
       },
       "latest": {
-        "confirmed": 11092,
-        "deaths": 45,
+        "confirmed": 11564,
+        "deaths": 51,
         "recovered": 7060
       }
     },
