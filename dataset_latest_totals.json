@@ -154,12 +154,12 @@
         "tested": 2455393
       },
       "latest": {
-        "confirmed": 5768,
+        "confirmed": 5782,
         "current_hospitalized": 5,
         "current_icu": 5,
         "deaths": 108,
-        "recovered": 7234,
-        "tested": 2904260
+        "recovered": 7224,
+        "tested": 2914159
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@
           "tested": 32562
         },
         "NSW": {
-          "confirmed": 3251,
+          "confirmed": 3264,
           "current_hospitalized": 3,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 51,
           "recovered": 2797,
-          "tested": 979060
+          "tested": 997763
         },
         "NT": {
           "confirmed": 30,
