@@ -327,18 +327,18 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38216,
+          "confirmed": 38220,
           "date": "2020-07-10",
           "deaths": 2752,
-          "recovered": 33576
+          "recovered": 33585
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 56316,
           "date": "2020-07-10",
-          "deaths": 5609,
-          "recovered": 25616
+          "deaths": 5612,
+          "recovered": 25675
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 197964,
+      "confirmed": 197813,
       "date": "2020-07-10",
-      "deaths": 29889,
-      "recovered": 72408
+      "deaths": 29888,
+      "recovered": 72178
     }
   },
   "Germany": {
@@ -503,7 +503,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 8613,
+          "confirmed": 8616,
           "date": "2020-07-10",
           "deaths": 216,
           "recovered": 7938
@@ -717,9 +717,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25565,
+      "confirmed": 25589,
       "date": "2020-07-10",
-      "deaths": 1743,
+      "deaths": 1744,
       "recovered": 23364
     }
   },
@@ -1409,10 +1409,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 209962,
+      "confirmed": 210965,
       "date": "2020-07-10",
-      "deaths": 5300,
-      "recovered": 190390
+      "deaths": 5323,
+      "recovered": 191883
     }
   },
   "US": {
@@ -1421,7 +1421,7 @@
         "live": {
           "confirmed": 84000,
           "date": "2020-07-10",
-          "deaths": 1325,
+          "deaths": 1362,
           "recovered": 0
         }
       },
@@ -1483,9 +1483,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 18888,
+          "confirmed": 19288,
           "date": "2020-07-10",
-          "deaths": 1028,
+          "deaths": 1031,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 127294,
+          "confirmed": 127517,
           "date": "2020-07-10",
-          "deaths": 11298,
+          "deaths": 11317,
           "recovered": 0
         }
       },
@@ -1541,7 +1541,7 @@
         "live": {
           "confirmed": 362283,
           "date": "2020-07-10",
-          "deaths": 30010,
+          "deaths": 30034,
           "recovered": 0
         }
       },
