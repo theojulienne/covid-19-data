@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 33908,
+      "confirmed": 34194,
       "date": "2020-07-10",
-      "deaths": 957,
-      "recovered": 20847
+      "deaths": 971,
+      "recovered": 20882
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 30346,
+      "confirmed": 30903,
       "date": "2020-07-10",
-      "deaths": 535,
-      "recovered": 18000
+      "deaths": 546,
+      "recovered": 18709
     }
   },
   "Austria": {
@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 62210,
+      "confirmed": 62357,
       "date": "2020-07-10",
-      "deaths": 9778,
-      "recovered": 17159
+      "deaths": 9781,
+      "recovered": 17179
     }
   },
   "Bolivia": {
@@ -495,15 +495,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 49023,
+          "confirmed": 49086,
           "date": "2020-07-10",
-          "deaths": 2609,
+          "deaths": 2610,
           "recovered": 45600
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 8585,
+          "confirmed": 8586,
           "date": "2020-07-10",
           "deaths": 216,
           "recovered": 7896
@@ -511,7 +511,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 11062,
+          "confirmed": 11104,
           "date": "2020-07-10",
           "deaths": 514,
           "recovered": 10200
@@ -519,7 +519,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13754,
+          "confirmed": 13791,
           "date": "2020-07-10",
           "deaths": 643,
           "recovered": 12800
@@ -527,10 +527,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 44492,
+          "confirmed": 44645,
           "date": "2020-07-10",
-          "deaths": 1698,
-          "recovered": 40700
+          "deaths": 1701,
+          "recovered": 40900
         }
       }
     }
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 34825,
+      "confirmed": 35533,
       "date": "2020-07-10",
-      "deaths": 348,
-      "recovered": 18452
+      "deaths": 350,
+      "recovered": 18532
     }
   },
   "Italy": {
