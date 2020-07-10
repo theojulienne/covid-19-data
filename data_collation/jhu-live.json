@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 31528,
+      "confirmed": 32039,
       "date": "2020-07-10",
       "deaths": 104,
-      "recovered": 26520
+      "recovered": 27213
     }
   },
   "Bangladesh": {
@@ -102,7 +102,7 @@
           "confirmed": 43191,
           "date": "2020-07-10",
           "deaths": 1230,
-          "recovered": 34309
+          "recovered": 36343
         }
       },
       "Amapa": {
@@ -110,7 +110,7 @@
           "confirmed": 30763,
           "date": "2020-07-10",
           "deaths": 467,
-          "recovered": 19644
+          "recovered": 19803
         }
       },
       "Amazonas": {
@@ -126,7 +126,7 @@
           "confirmed": 98319,
           "date": "2020-07-10",
           "deaths": 2328,
-          "recovered": 69098
+          "recovered": 71926
         }
       },
       "Ceara": {
@@ -150,7 +150,7 @@
           "confirmed": 60009,
           "date": "2020-07-10",
           "deaths": 1930,
-          "recovered": 38819
+          "recovered": 40983
         }
       },
       "Goias": {
@@ -158,7 +158,7 @@
           "confirmed": 33876,
           "date": "2020-07-10",
           "deaths": 769,
-          "recovered": 9747
+          "recovered": 10197
         }
       },
       "Maranhao": {
@@ -214,7 +214,7 @@
           "confirmed": 37424,
           "date": "2020-07-10",
           "deaths": 931,
-          "recovered": 9852
+          "recovered": 13374
         }
       },
       "Pernambuco": {
@@ -246,7 +246,7 @@
           "confirmed": 36434,
           "date": "2020-07-10",
           "deaths": 870,
-          "recovered": 30240
+          "recovered": 31317
         }
       },
       "Rio de Janeiro": {
@@ -254,7 +254,7 @@
           "confirmed": 128324,
           "date": "2020-07-10",
           "deaths": 11115,
-          "recovered": 105231
+          "recovered": 108151
         }
       },
       "Rondonia": {
@@ -286,7 +286,7 @@
           "confirmed": 349715,
           "date": "2020-07-10",
           "deaths": 17118,
-          "recovered": 202967
+          "recovered": 204531
         }
       },
       "Sergipe": {
@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38261,
+          "confirmed": 38271,
           "date": "2020-07-10",
           "deaths": 2752,
-          "recovered": 33626
+          "recovered": 33627
         }
       },
       "Quebec": {
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 126684,
+          "confirmed": 128268,
           "date": "2020-07-10",
-          "deaths": 1582,
+          "deaths": 1592,
           "recovered": 0
         }
       },
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 11857,
+      "confirmed": 12027,
       "date": "2020-07-10",
       "deaths": 54,
-      "recovered": 7335
+      "recovered": 7530
     }
   },
   "Venezuela": {
