@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 62424,
-        "deaths": 398,
-        "recovered": 47553
+        "confirmed": 62698,
+        "deaths": 405,
+        "recovered": 48738
       },
       "back_2week": {
-        "confirmed": 59945,
-        "deaths": 362,
-        "recovered": 40136
+        "confirmed": 60382,
+        "deaths": 367,
+        "recovered": 41448
       },
       "latest": {
-        "confirmed": 64224,
-        "deaths": 443,
-        "recovered": 52854
+        "confirmed": 64411,
+        "deaths": 449,
+        "recovered": 53609
       }
     },
     "BLZ": {
@@ -2583,19 +2583,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 14046,
+        "confirmed": 14519,
         "deaths": 30,
-        "recovered": 4656
+        "recovered": 5320
       },
       "back_2week": {
-        "confirmed": 10728,
+        "confirmed": 11162,
         "deaths": 24,
-        "recovered": 2338
+        "recovered": 2650
       },
       "latest": {
-        "confirmed": 16423,
+        "confirmed": 16531,
         "deaths": 35,
-        "recovered": 7752
+        "recovered": 7891
       }
     },
     "NZL": {
