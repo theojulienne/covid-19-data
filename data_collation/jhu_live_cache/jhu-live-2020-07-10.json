@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 42984,
+      "confirmed": 44113,
       "date": "2020-07-10",
-      "deaths": 1577,
-      "recovered": 12883
+      "deaths": 1638,
+      "recovered": 13354
     }
   },
   "Brazil": {
@@ -142,7 +142,7 @@
           "confirmed": 65677,
           "date": "2020-07-10",
           "deaths": 823,
-          "recovered": 52568
+          "recovered": 52548
         }
       },
       "Espirito Santo": {
@@ -198,7 +198,7 @@
           "confirmed": 120731,
           "date": "2020-07-10",
           "deaths": 5196,
-          "recovered": 105839
+          "recovered": 107773
         }
       },
       "Paraiba": {
@@ -230,7 +230,7 @@
           "confirmed": 29745,
           "date": "2020-07-10",
           "deaths": 884,
-          "recovered": 27927
+          "recovered": 29471
         }
       },
       "Rio Grande do Norte": {
@@ -319,15 +319,15 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 8482,
+          "confirmed": 8519,
           "date": "2020-07-10",
-          "deaths": 158,
-          "recovered": 7716
+          "deaths": 161,
+          "recovered": 7774
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 38188,
+          "confirmed": 38200,
           "date": "2020-07-10",
           "deaths": 2750,
           "recovered": 33498
@@ -809,10 +809,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13293,
+      "confirmed": 13338,
       "date": "2020-07-10",
-      "deaths": 287,
-      "recovered": 12019
+      "deaths": 288,
+      "recovered": 12065
     }
   },
   "Kuwait": {
@@ -1427,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 203722,
+          "confirmed": 205099,
           "date": "2020-07-10",
-          "deaths": 5317,
+          "deaths": 5335,
           "recovered": 0
         }
       },
@@ -1555,7 +1555,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 19156,
+          "confirmed": 19640,
           "date": "2020-07-10",
           "deaths": 822,
           "recovered": 0
