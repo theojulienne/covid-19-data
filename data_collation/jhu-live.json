@@ -158,7 +158,7 @@
           "confirmed": 33876,
           "date": "2020-07-10",
           "deaths": 769,
-          "recovered": 0
+          "recovered": 9595
         }
       },
       "Maranhao": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 25978,
+      "confirmed": 26384,
       "date": "2020-07-10",
-      "deaths": 694,
-      "recovered": 2721
+      "deaths": 704,
+      "recovered": 2779
     }
   },
   "India": {
@@ -793,7 +793,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 53021,
+      "confirmed": 54747,
       "date": "2020-07-10",
       "deaths": 264,
       "recovered": 35137
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 125730,
+          "confirmed": 126684,
           "date": "2020-07-10",
-          "deaths": 1563,
+          "deaths": 1582,
           "recovered": 0
         }
       },
