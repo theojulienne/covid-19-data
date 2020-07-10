@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 175494,
+      "confirmed": 178443,
       "date": "2020-07-10",
-      "deaths": 2238,
-      "recovered": 84544
+      "deaths": 2275,
+      "recovered": 86406
     }
   },
   "Belarus": {
@@ -469,10 +469,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 8844,
+      "confirmed": 9142,
       "date": "2020-07-10",
       "deaths": 249,
-      "recovered": 5341
+      "recovered": 5428
     }
   },
   "France": {
@@ -693,10 +693,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 70736,
+      "confirmed": 72347,
       "date": "2020-07-10",
-      "deaths": 3417,
-      "recovered": 32651
+      "deaths": 3469,
+      "recovered": 33529
     }
   },
   "Iran": {
@@ -833,10 +833,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 8683,
+      "confirmed": 8696,
       "date": "2020-07-10",
       "deaths": 121,
-      "recovered": 8499
+      "recovered": 8511
     }
   },
   "Mexico": {
@@ -943,16 +943,16 @@
     "live": {
       "confirmed": 18666,
       "date": "2020-07-10",
-      "deaths": 624,
-      "recovered": 11936
+      "deaths": 627,
+      "recovered": 12188
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 15079,
+      "confirmed": 15194,
       "date": "2020-07-10",
-      "deaths": 242,
-      "recovered": 11447
+      "deaths": 243,
+      "recovered": 11705
     }
   },
   "Nepal": {
@@ -989,10 +989,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 51725,
+      "confirmed": 53614,
       "date": "2020-07-10",
-      "deaths": 236,
-      "recovered": 33021
+      "deaths": 244,
+      "recovered": 34225
     }
   },
   "Pakistan": {
@@ -1133,17 +1133,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 51754,
+      "confirmed": 52914,
       "date": "2020-07-10",
-      "deaths": 1314,
-      "recovered": 12813
+      "deaths": 1360,
+      "recovered": 13230
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 36951,
+      "confirmed": 37216,
       "date": "2020-07-10",
-      "deaths": 1551,
+      "deaths": 1562,
       "recovered": 26048
     }
   },
