@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 34194,
+      "confirmed": 34351,
       "date": "2020-07-11",
-      "deaths": 971,
-      "recovered": 20882
+      "deaths": 975,
+      "recovered": 21105
     }
   },
   "Algeria": {
@@ -471,8 +471,8 @@
     "live": {
       "confirmed": 9142,
       "date": "2020-07-11",
-      "deaths": 249,
-      "recovered": 5428
+      "deaths": 254,
+      "recovered": 5454
     }
   },
   "France": {
@@ -1289,7 +1289,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 45614,
+      "confirmed": 45613,
       "date": "2020-07-11",
       "deaths": 26,
       "recovered": 41780
