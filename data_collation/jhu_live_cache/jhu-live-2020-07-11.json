@@ -94,7 +94,7 @@
           "confirmed": 15768,
           "date": "2020-07-11",
           "deaths": 417,
-          "recovered": 8604
+          "recovered": 8925
         }
       },
       "Alagoas": {
@@ -118,7 +118,7 @@
           "confirmed": 82507,
           "date": "2020-07-11",
           "deaths": 3008,
-          "recovered": 67024
+          "recovered": 69107
         }
       },
       "Bahia": {
@@ -134,7 +134,7 @@
           "confirmed": 133546,
           "date": "2020-07-11",
           "deaths": 6777,
-          "recovered": 106512
+          "recovered": 106952
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 67297,
           "date": "2020-07-11",
           "deaths": 856,
-          "recovered": 54416
+          "recovered": 54402
         }
       },
       "Espirito Santo": {
@@ -158,7 +158,7 @@
           "confirmed": 35138,
           "date": "2020-07-11",
           "deaths": 807,
-          "recovered": 10197
+          "recovered": 10223
         }
       },
       "Maranhao": {
@@ -166,7 +166,7 @@
           "confirmed": 96718,
           "date": "2020-07-11",
           "deaths": 2392,
-          "recovered": 70927
+          "recovered": 75570
         }
       },
       "Mato Grosso": {
@@ -198,7 +198,7 @@
           "confirmed": 122674,
           "date": "2020-07-11",
           "deaths": 5224,
-          "recovered": 107773
+          "recovered": 109699
         }
       },
       "Paraiba": {
@@ -206,7 +206,7 @@
           "confirmed": 59118,
           "date": "2020-07-11",
           "deaths": 1229,
-          "recovered": 19999
+          "recovered": 21481
         }
       },
       "Parana": {
@@ -222,7 +222,7 @@
           "confirmed": 70100,
           "date": "2020-07-11",
           "deaths": 5482,
-          "recovered": 47881
+          "recovered": 49483
         }
       },
       "Piaui": {
@@ -230,7 +230,7 @@
           "confirmed": 31269,
           "date": "2020-07-11",
           "deaths": 896,
-          "recovered": 29471
+          "recovered": 30676
         }
       },
       "Rio Grande do Norte": {
@@ -262,7 +262,7 @@
           "confirmed": 26000,
           "date": "2020-07-11",
           "deaths": 605,
-          "recovered": 14606
+          "recovered": 15290
         }
       },
       "Roraima": {
@@ -270,7 +270,7 @@
           "confirmed": 21220,
           "date": "2020-07-11",
           "deaths": 393,
-          "recovered": 4538
+          "recovered": 8191
         }
       },
       "Santa Catarina": {
@@ -553,10 +553,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 26384,
+      "confirmed": 27053,
       "date": "2020-07-11",
-      "deaths": 704,
-      "recovered": 2779
+      "deaths": 750,
+      "recovered": 2850
     }
   },
   "India": {
