@@ -537,10 +537,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 23463,
+      "confirmed": 23834,
       "date": "2020-07-11",
-      "deaths": 129,
-      "recovered": 18622
+      "deaths": 135,
+      "recovered": 19212
     }
   },
   "Guatemala": {
@@ -809,10 +809,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13338,
+      "confirmed": 13373,
       "date": "2020-07-11",
       "deaths": 288,
-      "recovered": 12065
+      "recovered": 12144
     }
   },
   "Kuwait": {
@@ -1041,10 +1041,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 42216,
+      "confirmed": 43257,
       "date": "2020-07-11",
-      "deaths": 839,
-      "recovered": 20437
+      "deaths": 863,
+      "recovered": 21426
     }
   },
   "Peru": {
@@ -1681,10 +1681,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 8372,
+      "confirmed": 8803,
       "date": "2020-07-11",
-      "deaths": 80,
-      "recovered": 2544
+      "deaths": 83,
+      "recovered": 2671
     }
   }
 }
