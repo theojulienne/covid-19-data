@@ -102,7 +102,7 @@
           "confirmed": 43959,
           "date": "2020-07-11",
           "deaths": 1246,
-          "recovered": 36343
+          "recovered": 36973
         }
       },
       "Amapa": {
@@ -126,7 +126,7 @@
           "confirmed": 101186,
           "date": "2020-07-11",
           "deaths": 2383,
-          "recovered": 71926
+          "recovered": 73136
         }
       },
       "Ceara": {
@@ -134,7 +134,7 @@
           "confirmed": 133546,
           "date": "2020-07-11",
           "deaths": 6777,
-          "recovered": 106952
+          "recovered": 108311
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 67297,
           "date": "2020-07-11",
           "deaths": 856,
-          "recovered": 54402
+          "recovered": 56124
         }
       },
       "Espirito Santo": {
@@ -150,7 +150,7 @@
           "confirmed": 61356,
           "date": "2020-07-11",
           "deaths": 1967,
-          "recovered": 40983
+          "recovered": 41450
         }
       },
       "Goias": {
@@ -158,7 +158,7 @@
           "confirmed": 35138,
           "date": "2020-07-11",
           "deaths": 807,
-          "recovered": 10223
+          "recovered": 10315
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 12261,
           "date": "2020-07-11",
           "deaths": 146,
-          "recovered": 8008
+          "recovered": 8329
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 70086,
           "date": "2020-07-11",
           "deaths": 1504,
-          "recovered": 45145
+          "recovered": 49050
         }
       },
       "Para": {
@@ -246,7 +246,7 @@
           "confirmed": 37490,
           "date": "2020-07-11",
           "deaths": 919,
-          "recovered": 31317
+          "recovered": 32337
         }
       },
       "Rio de Janeiro": {
@@ -254,7 +254,7 @@
           "confirmed": 129443,
           "date": "2020-07-11",
           "deaths": 11280,
-          "recovered": 108151
+          "recovered": 109061
         }
       },
       "Rondonia": {
@@ -286,7 +286,7 @@
           "confirmed": 359110,
           "date": "2020-07-11",
           "deaths": 17442,
-          "recovered": 204531
+          "recovered": 211777
         }
       },
       "Sergipe": {
@@ -302,7 +302,7 @@
           "confirmed": 14509,
           "date": "2020-07-11",
           "deaths": 245,
-          "recovered": 8915
+          "recovered": 9108
         }
       }
     }
@@ -469,10 +469,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 80235,
+      "confirmed": 81158,
       "date": "2020-07-11",
-      "deaths": 3702,
-      "recovered": 23274
+      "deaths": 3769,
+      "recovered": 23876
     }
   },
   "El Salvador": {
@@ -1297,10 +1297,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 250687,
+      "confirmed": 264184,
       "date": "2020-07-11",
-      "deaths": 3860,
-      "recovered": 118232
+      "deaths": 3971,
+      "recovered": 127715
     }
   },
   "Spain": {
@@ -1401,10 +1401,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 32798,
+      "confirmed": 32817,
       "date": "2020-07-11",
-      "deaths": 1966,
-      "recovered": 29400
+      "deaths": 1968,
+      "recovered": 29500
     }
   },
   "Turkey": {
@@ -1427,7 +1427,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 211992,
+          "confirmed": 212629,
           "date": "2020-07-11",
           "deaths": 5417,
           "recovered": 0
@@ -1499,9 +1499,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 100237,
+          "confirmed": 100473,
           "date": "2020-07-11",
-          "deaths": 7247,
+          "deaths": 7258,
           "recovered": 0
         }
       },
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 12402,
+      "confirmed": 12513,
       "date": "2020-07-11",
       "deaths": 57,
-      "recovered": 7540
+      "recovered": 7723
     }
   },
   "Venezuela": {
