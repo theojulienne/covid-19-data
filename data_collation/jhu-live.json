@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 90693,
+      "confirmed": 94060,
       "date": "2020-07-10",
-      "deaths": 1749,
+      "deaths": 1774,
       "recovered": 38984
     }
   },
@@ -545,10 +545,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 26658,
+      "confirmed": 27619,
       "date": "2020-07-10",
-      "deaths": 1092,
-      "recovered": 3797
+      "deaths": 1139,
+      "recovered": 4024
     }
   },
   "Honduras": {
@@ -973,10 +973,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 30748,
+      "confirmed": 31323,
       "date": "2020-07-10",
-      "deaths": 689,
-      "recovered": 12546
+      "deaths": 709,
+      "recovered": 12795
     }
   },
   "Norway": {
@@ -1427,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 205673,
+          "confirmed": 206806,
           "date": "2020-07-10",
-          "deaths": 5345,
+          "deaths": 5355,
           "recovered": 0
         }
       },

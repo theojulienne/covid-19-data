@@ -171,7 +171,8 @@ var covid19_dataset_country_arg = {
     "2020-07-08",
     "2020-07-09",
     "2020-07-10",
-    "2020-07-11"
+    "2020-07-11",
+    "2020-07-12"
   ],
   "total": {
     "confirmed": [
@@ -344,7 +345,8 @@ var covid19_dataset_country_arg = {
       80447,
       83426,
       87030,
-      90693
+      90693,
+      94060
     ],
     "deaths": [
       0,
@@ -517,7 +519,7 @@ var covid19_dataset_country_arg = {
       1644,
       1694,
       1720,
-      1749
+      1774
     ],
     "recovered": [
       0,
