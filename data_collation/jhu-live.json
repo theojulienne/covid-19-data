@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 30903,
+      "confirmed": 31392,
       "date": "2020-07-11",
-      "deaths": 546,
-      "recovered": 18709
+      "deaths": 559,
+      "recovered": 19419
     }
   },
   "Austria": {
@@ -429,10 +429,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 13001,
+      "confirmed": 13062,
       "date": "2020-07-11",
       "deaths": 352,
-      "recovered": 8208
+      "recovered": 8209
     }
   },
   "Denmark": {
@@ -495,15 +495,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 49097,
+          "confirmed": 49184,
           "date": "2020-07-11",
-          "deaths": 2610,
+          "deaths": 2612,
           "recovered": 45600
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 8616,
+          "confirmed": 8617,
           "date": "2020-07-11",
           "deaths": 216,
           "recovered": 7938
@@ -511,7 +511,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 11104,
+          "confirmed": 11122,
           "date": "2020-07-11",
           "deaths": 514,
           "recovered": 10200
@@ -519,7 +519,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13791,
+          "confirmed": 13799,
           "date": "2020-07-11",
           "deaths": 643,
           "recovered": 12800
@@ -527,9 +527,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 44645,
+          "confirmed": 44788,
           "date": "2020-07-11",
-          "deaths": 1701,
+          "deaths": 1704,
           "recovered": 40900
         }
       }
