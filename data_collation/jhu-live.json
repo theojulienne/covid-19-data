@@ -709,10 +709,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 72460,
+      "confirmed": 75194,
       "date": "2020-07-11",
-      "deaths": 2960,
-      "recovered": 41380
+      "deaths": 3055,
+      "recovered": 43079
     }
   },
   "Ireland": {
@@ -739,14 +739,6 @@
           "date": "2020-07-11",
           "deaths": 4269,
           "recovered": 23440
-        }
-      },
-      "Lazio": {
-        "live": {
-          "confirmed": 8275,
-          "date": "2020-07-11",
-          "deaths": 844,
-          "recovered": 6530
         }
       },
       "Liguria": {
@@ -1149,10 +1141,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 45679,
+      "confirmed": 46221,
       "date": "2020-07-11",
-      "deaths": 1646,
-      "recovered": 30350
+      "deaths": 1654,
+      "recovered": 30655
     }
   },
   "Qatar": {
@@ -1443,7 +1435,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10743,
+          "confirmed": 10801,
           "date": "2020-07-11",
           "deaths": 568,
           "recovered": 0
@@ -1491,9 +1483,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 43659,
+          "confirmed": 52263,
           "date": "2020-07-11",
-          "deaths": 1953,
+          "deaths": 2324,
           "recovered": 0
         }
       },
@@ -1611,9 +1603,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14356,
+          "confirmed": 14403,
           "date": "2020-07-11",
-          "deaths": 499,
+          "deaths": 498,
           "recovered": 0
         }
       },
