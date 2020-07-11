@@ -801,10 +801,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 9448,
+      "confirmed": 9726,
       "date": "2020-07-11",
-      "deaths": 181,
-      "recovered": 2733
+      "deaths": 184,
+      "recovered": 2832
     }
   },
   "Korea, South": {
@@ -1157,10 +1157,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 102630,
+      "confirmed": 103128,
       "date": "2020-07-11",
       "deaths": 146,
-      "recovered": 98233
+      "recovered": 98934
     }
   },
   "Romania": {
