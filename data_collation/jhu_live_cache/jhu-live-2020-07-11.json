@@ -347,26 +347,26 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 11267,
+          "confirmed": 11580,
           "date": "2020-07-11",
-          "deaths": 216,
-          "recovered": 9241
+          "deaths": 218,
+          "recovered": 9494
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 235370,
+          "confirmed": 236699,
           "date": "2020-07-11",
-          "deaths": 5673,
-          "recovered": 216627
+          "deaths": 5746,
+          "recovered": 218322
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 14053,
+          "confirmed": 14257,
           "date": "2020-07-11",
-          "deaths": 320,
-          "recovered": 11854
+          "deaths": 326,
+          "recovered": 12066
         }
       }
     }
@@ -1419,9 +1419,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 87500,
+          "confirmed": 89924,
           "date": "2020-07-11",
-          "deaths": 1362,
+          "deaths": 1419,
           "recovered": 0
         }
       },
@@ -1459,9 +1459,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 20762,
+          "confirmed": 21428,
           "date": "2020-07-11",
-          "deaths": 499,
+          "deaths": 506,
           "recovered": 0
         }
       },
@@ -1507,9 +1507,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 36379,
+          "confirmed": 36540,
           "date": "2020-07-11",
-          "deaths": 3850,
+          "deaths": 3866,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 26048,
+          "confirmed": 26585,
           "date": "2020-07-11",
-          "deaths": 361,
+          "deaths": 366,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 14066,
+          "confirmed": 14336,
           "date": "2020-07-11",
-          "deaths": 125,
+          "deaths": 130,
           "recovered": 0
         }
       },
@@ -1627,7 +1627,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 13312,
+          "confirmed": 13661,
           "date": "2020-07-11",
           "deaths": 398,
           "recovered": 0
@@ -1675,7 +1675,7 @@
     "live": {
       "confirmed": 12402,
       "date": "2020-07-11",
-      "deaths": 56,
+      "deaths": 57,
       "recovered": 7540
     }
   },
