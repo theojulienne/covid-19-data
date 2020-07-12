@@ -73,7 +73,7 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 62469,
+      "confirmed": 62606,
       "date": "2020-07-12",
       "deaths": 9782,
       "recovered": 17196
@@ -825,10 +825,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 10410,
+      "confirmed": 10629,
       "date": "2020-07-12",
-      "deaths": 129,
-      "recovered": 3253
+      "deaths": 132,
+      "recovered": 3387
     }
   },
   "Malaysia": {
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 135904,
+          "confirmed": 136439,
           "date": "2020-07-12",
-          "deaths": 1648,
+          "deaths": 1657,
           "recovered": 0
         }
       },
