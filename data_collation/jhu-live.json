@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38420,
+          "confirmed": 38422,
           "date": "2020-07-12",
-          "deaths": 2760,
-          "recovered": 33940
+          "deaths": 2763,
+          "recovered": 33985
         }
       },
       "Quebec": {
@@ -437,10 +437,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 13115,
+      "confirmed": 13148,
       "date": "2020-07-12",
       "deaths": 352,
-      "recovered": 8227
+      "recovered": 8229
     }
   },
   "Denmark": {
@@ -801,10 +801,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 9726,
+      "confirmed": 10105,
       "date": "2020-07-12",
-      "deaths": 184,
-      "recovered": 2832
+      "deaths": 185,
+      "recovered": 2881
     }
   },
   "Korea, South": {
@@ -1149,10 +1149,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 46221,
+      "confirmed": 46512,
       "date": "2020-07-12",
-      "deaths": 1654,
-      "recovered": 30655
+      "deaths": 1660,
+      "recovered": 30907
     }
   },
   "Qatar": {
@@ -1475,7 +1475,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 12019,
+          "confirmed": 12074,
           "date": "2020-07-12",
           "deaths": 693,
           "recovered": 0
@@ -1515,9 +1515,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 13328,
+          "confirmed": 13568,
           "date": "2020-07-12",
-          "deaths": 790,
+          "deaths": 791,
           "recovered": 0
         }
       },
@@ -1539,7 +1539,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 362754,
+          "confirmed": 363234,
           "date": "2020-07-12",
           "deaths": 30048,
           "recovered": 0
@@ -1637,10 +1637,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 54453,
+      "confirmed": 54854,
       "date": "2020-07-12",
-      "deaths": 331,
-      "recovered": 44648
+      "deaths": 333,
+      "recovered": 45140
     }
   },
   "United Kingdom": {
