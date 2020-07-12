@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 18712,
+      "confirmed": 19195,
       "date": "2020-07-12",
-      "deaths": 1004,
-      "recovered": 13124
+      "deaths": 1011,
+      "recovered": 13743
     }
   },
   "Argentina": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 32470,
       "date": "2020-07-12",
-      "deaths": 104,
+      "deaths": 108,
       "recovered": 27828
     }
   },
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 8451,
+          "confirmed": 8744,
           "date": "2020-07-12",
-          "deaths": 77,
-          "recovered": 2671
+          "deaths": 90,
+          "recovered": 2795
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 31882,
+          "confirmed": 32635,
           "date": "2020-07-12",
-          "deaths": 1837,
-          "recovered": 12904
+          "deaths": 1884,
+          "recovered": 13652
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 11733,
+          "confirmed": 11913,
           "date": "2020-07-12",
-          "deaths": 456,
-          "recovered": 6358
+          "deaths": 465,
+          "recovered": 6594
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 45039,
+          "confirmed": 47524,
           "date": "2020-07-12",
-          "deaths": 1076,
-          "recovered": 16755
+          "deaths": 1138,
+          "recovered": 17323
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 13953,
+          "confirmed": 14207,
           "date": "2020-07-12",
-          "deaths": 559,
-          "recovered": 6257
+          "deaths": 590,
+          "recovered": 6482
         }
       }
     }
@@ -1483,9 +1483,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 19593,
+          "confirmed": 19765,
           "date": "2020-07-12",
-          "deaths": 1031,
+          "deaths": 1033,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 20703,
+          "confirmed": 21243,
           "date": "2020-07-12",
-          "deaths": 838,
+          "deaths": 846,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 14336,
+          "confirmed": 14609,
           "date": "2020-07-12",
           "deaths": 130,
           "recovered": 0
