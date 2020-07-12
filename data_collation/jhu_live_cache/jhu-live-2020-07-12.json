@@ -477,10 +477,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 9391,
+      "confirmed": 9674,
       "date": "2020-07-12",
       "deaths": 260,
-      "recovered": 5551
+      "recovered": 5634
     }
   },
   "France": {
@@ -965,7 +965,7 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 50921,
+      "confirmed": 51022,
       "date": "2020-07-12",
       "deaths": 6137,
       "recovered": 0
@@ -981,7 +981,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8977,
+      "confirmed": 8979,
       "date": "2020-07-12",
       "deaths": 252,
       "recovered": 8138
@@ -1157,10 +1157,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 103128,
+      "confirmed": 103598,
       "date": "2020-07-12",
-      "deaths": 146,
-      "recovered": 98934
+      "deaths": 147,
+      "recovered": 99743
     }
   },
   "Romania": {
@@ -1273,18 +1273,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 229480,
+      "confirmed": 232259,
       "date": "2020-07-12",
-      "deaths": 2181,
-      "recovered": 165396
+      "deaths": 2223,
+      "recovered": 167138
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 18073,
+      "confirmed": 18360,
       "date": "2020-07-12",
-      "deaths": 382,
-      "recovered": 13780
+      "deaths": 393,
+      "recovered": 13876
     }
   },
   "Singapore": {
@@ -1571,7 +1571,7 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 9366,
+          "confirmed": 9654,
           "date": "2020-07-12",
           "deaths": 167,
           "recovered": 0
