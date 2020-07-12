@@ -347,26 +347,26 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 11580,
+          "confirmed": 11799,
           "date": "2020-07-12",
-          "deaths": 218,
-          "recovered": 9494
+          "deaths": 224,
+          "recovered": 9713
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 236699,
+          "confirmed": 238360,
           "date": "2020-07-12",
-          "deaths": 5746,
-          "recovered": 218322
+          "deaths": 5814,
+          "recovered": 219896
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 14257,
+          "confirmed": 14516,
           "date": "2020-07-12",
-          "deaths": 326,
-          "recovered": 12066
+          "deaths": 331,
+          "recovered": 12255
         }
       }
     }
@@ -461,10 +461,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 67209,
+      "confirmed": 67870,
       "date": "2020-07-12",
-      "deaths": 5031,
-      "recovered": 30107
+      "deaths": 5047,
+      "recovered": 30283
     }
   },
   "Egypt": {
@@ -1297,10 +1297,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 264184,
+      "confirmed": 276242,
       "date": "2020-07-12",
-      "deaths": 3971,
-      "recovered": 127715
+      "deaths": 4079,
+      "recovered": 134874
     }
   },
   "Spain": {
@@ -1467,9 +1467,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 115097,
+          "confirmed": 115654,
           "date": "2020-07-12",
-          "deaths": 5624,
+          "deaths": 5639,
           "recovered": 0
         }
       },
@@ -1507,9 +1507,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 36540,
+          "confirmed": 36696,
           "date": "2020-07-12",
-          "deaths": 3866,
+          "deaths": 3867,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 26585,
+          "confirmed": 26903,
           "date": "2020-07-12",
-          "deaths": 366,
+          "deaths": 367,
           "recovered": 0
         }
       },
@@ -1627,7 +1627,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 13661,
+          "confirmed": 13928,
           "date": "2020-07-12",
           "deaths": 398,
           "recovered": 0
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 12855,
+      "confirmed": 12997,
       "date": "2020-07-12",
-      "deaths": 59,
-      "recovered": 7723
+      "deaths": 60,
+      "recovered": 7852
     }
   },
   "Venezuela": {
