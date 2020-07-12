@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 23521,
+      "confirmed": 24041,
       "date": "2020-07-12",
-      "deaths": 298,
-      "recovered": 14607
+      "deaths": 306,
+      "recovered": 15093
     }
   },
   "Bahrain": {
@@ -453,10 +453,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 43114,
+      "confirmed": 44532,
       "date": "2020-07-12",
-      "deaths": 880,
-      "recovered": 20996
+      "deaths": 897,
+      "recovered": 21459
     }
   },
   "Ecuador": {
@@ -717,10 +717,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 75194,
+      "confirmed": 77506,
       "date": "2020-07-12",
-      "deaths": 3055,
-      "recovered": 43079
+      "deaths": 3150,
+      "recovered": 44724
     }
   },
   "Ireland": {
@@ -941,9 +941,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 19208,
+      "confirmed": 19382,
       "date": "2020-07-12",
-      "deaths": 641,
+      "deaths": 642,
       "recovered": 12667
     }
   },
@@ -1491,17 +1491,17 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 43896,
+          "confirmed": 52726,
           "date": "2020-07-12",
-          "deaths": 1960,
+          "deaths": 2332,
           "recovered": 0
         }
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 100473,
+          "confirmed": 92031,
           "date": "2020-07-12",
-          "deaths": 7258,
+          "deaths": 6660,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14403,
+          "confirmed": 14482,
           "date": "2020-07-12",
-          "deaths": 498,
+          "deaths": 500,
           "recovered": 0
         }
       },
