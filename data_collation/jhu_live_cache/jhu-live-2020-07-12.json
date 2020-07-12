@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 97509,
       "date": "2020-07-12",
-      "deaths": 1810,
-      "recovered": 41408
+      "deaths": 1818,
+      "recovered": 42694
     }
   },
   "Armenia": {
@@ -327,7 +327,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38398,
+          "confirmed": 38420,
           "date": "2020-07-12",
           "deaths": 2760,
           "recovered": 33940
@@ -335,10 +335,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 56407,
+          "confirmed": 56521,
           "date": "2020-07-12",
-          "deaths": 5620,
-          "recovered": 25773
+          "deaths": 5627,
+          "recovered": 25862
         }
       }
     }
@@ -743,10 +743,10 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 28869,
+          "confirmed": 28940,
           "date": "2020-07-12",
           "deaths": 4269,
-          "recovered": 23481
+          "recovered": 23491
         }
       },
       "Liguria": {
@@ -754,28 +754,28 @@
           "confirmed": 10031,
           "date": "2020-07-12",
           "deaths": 1559,
-          "recovered": 8219
+          "recovered": 8233
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 94972,
+          "confirmed": 95049,
           "date": "2020-07-12",
-          "deaths": 16740,
-          "recovered": 70020
+          "deaths": 16748,
+          "recovered": 70297
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31494,
+          "confirmed": 31498,
           "date": "2020-07-12",
           "deaths": 4111,
-          "recovered": 26314
+          "recovered": 26329
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 10321,
+          "confirmed": 10322,
           "date": "2020-07-12",
           "deaths": 1122,
           "recovered": 8869
@@ -783,10 +783,10 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 19379,
+          "confirmed": 19395,
           "date": "2020-07-12",
           "deaths": 2039,
-          "recovered": 16942
+          "recovered": 16948
         }
       }
     }
@@ -1292,7 +1292,7 @@
       "confirmed": 45961,
       "date": "2020-07-12",
       "deaths": 26,
-      "recovered": 42026
+      "recovered": 42285
     }
   },
   "South Africa": {
@@ -1443,7 +1443,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10801,
+          "confirmed": 10847,
           "date": "2020-07-12",
           "deaths": 568,
           "recovered": 0
@@ -1451,9 +1451,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 175689,
+          "confirmed": 186469,
           "date": "2020-07-12",
-          "deaths": 2939,
+          "deaths": 2974,
           "recovered": 0
         }
       },
@@ -1547,7 +1547,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 14607,
+          "confirmed": 15024,
           "date": "2020-07-12",
           "deaths": 159,
           "recovered": 0
@@ -1563,9 +1563,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36195,
+          "confirmed": 36223,
           "date": "2020-07-12",
-          "deaths": 2465,
+          "deaths": 2466,
           "recovered": 0
         }
       },
@@ -1647,15 +1647,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 248895,
+          "confirmed": 249510,
           "date": "2020-07-12",
-          "deaths": 40213,
+          "deaths": 40234,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18340,
+          "confirmed": 18359,
           "date": "2020-07-12",
           "deaths": 2490,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 15946,
+          "confirmed": 15962,
           "date": "2020-07-12",
           "deaths": 1541,
           "recovered": 0
