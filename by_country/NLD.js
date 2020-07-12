@@ -173,6 +173,7 @@ var covid19_dataset_country_nld = {
           105,
           105,
           105,
+          105,
           105
         ],
         "deaths": [
@@ -282,6 +283,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3,
           3,
@@ -519,7 +521,8 @@ var covid19_dataset_country_nld = {
           98,
           98,
           98,
-          98
+          98,
+          99
         ]
       }
     },
@@ -696,9 +699,11 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -1042,6 +1047,7 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ]
       }
@@ -1219,6 +1225,7 @@ var covid19_dataset_country_nld = {
           23,
           23,
           25,
+          25,
           25
         ],
         "deaths": [
@@ -1279,6 +1286,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -1565,6 +1573,7 @@ var covid19_dataset_country_nld = {
           19,
           19,
           24,
+          24,
           24
         ]
       }
@@ -1742,6 +1751,7 @@ var covid19_dataset_country_nld = {
           78,
           78,
           78,
+          78,
           78
         ],
         "deaths": [
@@ -1853,6 +1863,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          15,
           15,
           15,
           15,
@@ -2082,6 +2093,7 @@ var covid19_dataset_country_nld = {
           62,
           62,
           62,
+          63,
           63,
           63,
           63,
@@ -2441,7 +2453,8 @@ var covid19_dataset_country_nld = {
       50694,
       50746,
       50798,
-      50840
+      50840,
+      50921
     ],
     "deaths": [
       0,
@@ -2614,9 +2627,11 @@ var covid19_dataset_country_nld = {
       6132,
       6135,
       6137,
-      6136
+      6136,
+      6137
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

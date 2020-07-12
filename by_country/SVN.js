@@ -347,7 +347,8 @@ var covid19_dataset_country_svn = {
       1739,
       1763,
       1776,
-      1793
+      1793,
+      1827
     ],
     "deaths": [
       0,
@@ -508,6 +509,7 @@ var covid19_dataset_country_svn = {
       109,
       109,
       109,
+      111,
       111,
       111,
       111,
@@ -691,6 +693,7 @@ var covid19_dataset_country_svn = {
       1384,
       1384,
       1423,
+      1429,
       1429,
       1429,
       1429
