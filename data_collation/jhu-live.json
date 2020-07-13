@@ -73,7 +73,7 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 62606,
+      "confirmed": 62707,
       "date": "2020-07-13",
       "deaths": 9782,
       "recovered": 17196
@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 27583,
+      "confirmed": 28090,
       "date": "2020-07-13",
-      "deaths": 771,
-      "recovered": 2901
+      "deaths": 774,
+      "recovered": 2957
     }
   },
   "India": {
@@ -1587,9 +1587,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 140194,
+          "confirmed": 140705,
           "date": "2020-07-13",
-          "deaths": 1671,
+          "deaths": 1680,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 11568,
+          "confirmed": 11825,
           "date": "2020-07-13",
-          "deaths": 633,
+          "deaths": 637,
           "recovered": 0
         }
       },
