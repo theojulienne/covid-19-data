@@ -3389,7 +3389,7 @@
         "confirmed": 3221115,
         "deaths": 127021,
         "recovered": 995263,
-        "tested": 39321536
+        "tested": 39322999
       },
       "states": {
         "AK": {
@@ -3535,7 +3535,7 @@
           "deaths": 112,
           "hospitalized": 368,
           "recovered": 2972,
-          "tested": 118427
+          "tested": 119890
         },
         "MI": {
           "confirmed": 76370,
