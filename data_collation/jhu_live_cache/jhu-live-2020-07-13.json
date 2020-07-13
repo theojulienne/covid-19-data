@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 47200,
+      "confirmed": 48187,
       "date": "2020-07-13",
-      "deaths": 1754,
-      "recovered": 14333
+      "deaths": 1807,
+      "recovered": 14843
     }
   },
   "Brazil": {
@@ -1133,10 +1133,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 54222,
+      "confirmed": 56259,
       "date": "2020-07-13",
-      "deaths": 1372,
-      "recovered": 14037
+      "deaths": 1534,
+      "recovered": 16046
     }
   },
   "Poland": {
