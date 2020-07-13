@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38426,
+          "confirmed": 38481,
           "date": "2020-07-12",
-          "deaths": 2763,
-          "recovered": 33985
+          "deaths": 2764,
+          "recovered": 34021
         }
       },
       "Quebec": {
@@ -437,10 +437,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 13148,
+      "confirmed": 13174,
       "date": "2020-07-12",
       "deaths": 352,
-      "recovered": 8229
+      "recovered": 8247
     }
   },
   "Denmark": {
@@ -545,10 +545,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 24248,
+      "confirmed": 24518,
       "date": "2020-07-12",
-      "deaths": 135,
-      "recovered": 19831
+      "deaths": 139,
+      "recovered": 20187
     }
   },
   "Guatemala": {
@@ -973,15 +973,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 31987,
+      "confirmed": 32558,
       "date": "2020-07-12",
-      "deaths": 724,
-      "recovered": 13103
+      "deaths": 740,
+      "recovered": 13447
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 8979,
+      "confirmed": 8981,
       "date": "2020-07-12",
       "deaths": 252,
       "recovered": 8138
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 217343,
+          "confirmed": 221312,
           "date": "2020-07-12",
-          "deaths": 5479,
+          "deaths": 5495,
           "recovered": 0
         }
       },
