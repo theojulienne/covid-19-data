@@ -1555,15 +1555,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 21243,
+          "confirmed": 21660,
           "date": "2020-07-13",
-          "deaths": 846,
+          "deaths": 848,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36243,
+          "confirmed": 36451,
           "date": "2020-07-13",
           "deaths": 2469,
           "recovered": 0
@@ -1637,10 +1637,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 54854,
+      "confirmed": 55198,
       "date": "2020-07-13",
-      "deaths": 333,
-      "recovered": 45140
+      "deaths": 334,
+      "recovered": 45513
     }
   },
   "United Kingdom": {
