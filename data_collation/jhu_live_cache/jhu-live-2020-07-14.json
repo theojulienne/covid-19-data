@@ -445,10 +445,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 13037,
+      "confirmed": 13061,
       "date": "2020-07-14",
       "deaths": 610,
-      "recovered": 12130
+      "recovered": 12160
     }
   },
   "Dominican Republic": {
