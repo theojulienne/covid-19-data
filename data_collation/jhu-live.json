@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 33476,
+      "confirmed": 34078,
       "date": "2020-07-14",
-      "deaths": 109,
-      "recovered": 29099
+      "deaths": 111,
+      "recovered": 29753
     }
   },
   "Bangladesh": {
@@ -725,10 +725,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 41235,
+      "confirmed": 42360,
       "date": "2020-07-14",
-      "deaths": 368,
-      "recovered": 19474
+      "deaths": 371,
+      "recovered": 19665
     }
   },
   "Italy": {
