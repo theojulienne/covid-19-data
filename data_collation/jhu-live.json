@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 103265,
       "date": "2020-07-14",
-      "deaths": 1903,
-      "recovered": 44173
+      "deaths": 1926,
+      "recovered": 45467
     }
   },
   "Armenia": {
@@ -506,7 +506,7 @@
           "confirmed": 49350,
           "date": "2020-07-14",
           "deaths": 2613,
-          "recovered": 45700
+          "recovered": 45780
         }
       },
       "Berlin": {
@@ -522,7 +522,7 @@
           "confirmed": 11206,
           "date": "2020-07-14",
           "deaths": 514,
-          "recovered": 10200
+          "recovered": 10250
         }
       },
       "Niedersachsen": {
@@ -538,7 +538,7 @@
           "confirmed": 45115,
           "date": "2020-07-14",
           "deaths": 1707,
-          "recovered": 41100
+          "recovered": 41244
         }
       }
     }
@@ -717,10 +717,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 79735,
+      "confirmed": 81757,
       "date": "2020-07-14",
-      "deaths": 3250,
-      "recovered": 46998
+      "deaths": 3345,
+      "recovered": 50782
     }
   },
   "Ireland": {
@@ -965,9 +965,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 51093,
+      "confirmed": 51146,
       "date": "2020-07-14",
-      "deaths": 6137,
+      "deaths": 6135,
       "recovered": 0
     }
   },
@@ -1265,18 +1265,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 235111,
+      "confirmed": 237803,
       "date": "2020-07-14",
-      "deaths": 2243,
-      "recovered": 169842
+      "deaths": 2283,
+      "recovered": 177560
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 18639,
+      "confirmed": 18983,
       "date": "2020-07-14",
-      "deaths": 405,
-      "recovered": 13940
+      "deaths": 418,
+      "recovered": 13991
     }
   },
   "Singapore": {
@@ -1563,9 +1563,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 10010,
+          "confirmed": 10123,
           "date": "2020-07-14",
-          "deaths": 167,
+          "deaths": 169,
           "recovered": 0
         }
       },
@@ -1665,7 +1665,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 13872,
+      "confirmed": 13993,
       "date": "2020-07-14",
       "deaths": 65,
       "recovered": 8074
