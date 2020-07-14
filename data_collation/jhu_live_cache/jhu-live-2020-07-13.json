@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 100166,
+      "confirmed": 103265,
       "date": "2020-07-13",
-      "deaths": 1859,
+      "deaths": 1903,
       "recovered": 44173
     }
   },
@@ -142,7 +142,7 @@
           "confirmed": 72284,
           "date": "2020-07-13",
           "deaths": 930,
-          "recovered": 57247
+          "recovered": 58385
         }
       },
       "Espirito Santo": {
@@ -222,7 +222,7 @@
           "confirmed": 72901,
           "date": "2020-07-13",
           "deaths": 5652,
-          "recovered": 50850
+          "recovered": 51095
         }
       },
       "Piaui": {
@@ -278,7 +278,7 @@
           "confirmed": 43815,
           "date": "2020-07-13",
           "deaths": 517,
-          "recovered": 33758
+          "recovered": 35636
         }
       },
       "Sao Paulo": {
@@ -437,10 +437,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 13204,
+      "confirmed": 13238,
       "date": "2020-07-13",
       "deaths": 353,
-      "recovered": 8353
+      "recovered": 8373
     }
   },
   "Denmark": {
@@ -553,10 +553,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 29355,
+      "confirmed": 29742,
       "date": "2020-07-13",
-      "deaths": 1219,
-      "recovered": 4214
+      "deaths": 1244,
+      "recovered": 4321
     }
   },
   "Honduras": {
@@ -973,10 +973,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 32558,
+      "confirmed": 33153,
       "date": "2020-07-13",
-      "deaths": 740,
-      "recovered": 13447
+      "deaths": 744,
+      "recovered": 13671
     }
   },
   "Norway": {
@@ -1284,7 +1284,7 @@
       "confirmed": 46283,
       "date": "2020-07-13",
       "deaths": 26,
-      "recovered": 42285
+      "recovered": 42541
     }
   },
   "South Africa": {
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 222507,
+          "confirmed": 226251,
           "date": "2020-07-13",
-          "deaths": 5498,
+          "deaths": 5526,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 143482,
+          "confirmed": 144596,
           "date": "2020-07-13",
-          "deaths": 1694,
+          "deaths": 1700,
           "recovered": 0
         }
       },
