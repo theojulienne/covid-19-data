@@ -801,10 +801,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 10294,
+      "confirmed": 10791,
       "date": "2020-07-14",
-      "deaths": 197,
-      "recovered": 2946
+      "deaths": 202,
+      "recovered": 3017
     }
   },
   "Korea, South": {
@@ -943,8 +943,8 @@
     "live": {
       "confirmed": 19439,
       "date": "2020-07-14",
-      "deaths": 649,
-      "recovered": 12793
+      "deaths": 652,
+      "recovered": 13033
     }
   },
   "Morocco": {
@@ -981,7 +981,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 8984,
+      "confirmed": 8988,
       "date": "2020-07-14",
       "deaths": 253,
       "recovered": 8138
@@ -1157,10 +1157,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 104016,
+      "confirmed": 104533,
       "date": "2020-07-14",
-      "deaths": 149,
-      "recovered": 100627
+      "deaths": 150,
+      "recovered": 101160
     }
   },
   "Romania": {
@@ -1435,7 +1435,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10906,
+          "confirmed": 10946,
           "date": "2020-07-14",
           "deaths": 568,
           "recovered": 0
@@ -1451,9 +1451,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 40021,
+          "confirmed": 31403,
           "date": "2020-07-14",
-          "deaths": 747,
+          "deaths": 565,
           "recovered": 0
         }
       },
@@ -1483,9 +1483,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44445,
+          "confirmed": 53518,
           "date": "2020-07-14",
-          "deaths": 1970,
+          "deaths": 2342,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14556,
+          "confirmed": 14574,
           "date": "2020-07-14",
           "deaths": 500,
           "recovered": 0
