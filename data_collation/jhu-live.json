@@ -126,7 +126,7 @@
           "confirmed": 106891,
           "date": "2020-07-14",
           "deaths": 2535,
-          "recovered": 74135
+          "recovered": 82151
         }
       },
       "Ceara": {
@@ -134,7 +134,7 @@
           "confirmed": 137206,
           "date": "2020-07-14",
           "deaths": 6947,
-          "recovered": 111238
+          "recovered": 113509
         }
       },
       "Distrito Federal": {
@@ -158,7 +158,7 @@
           "confirmed": 36696,
           "date": "2020-07-14",
           "deaths": 852,
-          "recovered": 11011
+          "recovered": 11435
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 13461,
           "date": "2020-07-14",
           "deaths": 167,
-          "recovered": 9002
+          "recovered": 9191
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 76822,
           "date": "2020-07-14",
           "deaths": 1615,
-          "recovered": 50510
+          "recovered": 53111
         }
       },
       "Para": {
@@ -246,7 +246,7 @@
           "confirmed": 39656,
           "date": "2020-07-14",
           "deaths": 995,
-          "recovered": 33330
+          "recovered": 34307
         }
       },
       "Rio de Janeiro": {
@@ -254,7 +254,7 @@
           "confirmed": 132044,
           "date": "2020-07-14",
           "deaths": 11474,
-          "recovered": 111189
+          "recovered": 112355
         }
       },
       "Rondonia": {
@@ -302,7 +302,7 @@
           "confirmed": 15307,
           "date": "2020-07-14",
           "deaths": 259,
-          "recovered": 9419
+          "recovered": 9823
         }
       }
     }
@@ -351,14 +351,6 @@
           "date": "2020-07-14",
           "deaths": 228,
           "recovered": 10157
-        }
-      },
-      "Biobio": {
-        "live": {
-          "confirmed": 8680,
-          "date": "2020-07-14",
-          "deaths": 75,
-          "recovered": 7327
         }
       },
       "Metropolitana": {
@@ -437,10 +429,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 12872,
+      "confirmed": 13037,
       "date": "2020-07-14",
-      "deaths": 84,
-      "recovered": 6810
+      "deaths": 87,
+      "recovered": 6908
     }
   },
   "Czechia": {
@@ -477,10 +469,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 83001,
+      "confirmed": 83930,
       "date": "2020-07-14",
-      "deaths": 3935,
-      "recovered": 24975
+      "deaths": 4008,
+      "recovered": 25544
     }
   },
   "El Salvador": {
@@ -515,14 +507,6 @@
           "date": "2020-07-14",
           "deaths": 2613,
           "recovered": 45780
-        }
-      },
-      "Berlin": {
-        "live": {
-          "confirmed": 8673,
-          "date": "2020-07-14",
-          "deaths": 220,
-          "recovered": 8069
         }
       },
       "Hessen": {
@@ -1297,10 +1281,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 287796,
+      "confirmed": 298292,
       "date": "2020-07-14",
-      "deaths": 4172,
-      "recovered": 138241
+      "deaths": 4346,
+      "recovered": 146279
     }
   },
   "Spain": {
@@ -1373,10 +1357,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 10316,
+      "confirmed": 10417,
       "date": "2020-07-14",
-      "deaths": 657,
-      "recovered": 5403
+      "deaths": 659,
+      "recovered": 5579
     }
   },
   "Sweden": {
@@ -1404,7 +1388,7 @@
       "confirmed": 33016,
       "date": "2020-07-14",
       "deaths": 1968,
-      "recovered": 29600
+      "recovered": 29800
     }
   },
   "Turkey": {
@@ -1435,9 +1419,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 41515,
+          "confirmed": 41527,
           "date": "2020-07-14",
-          "deaths": 3863,
+          "deaths": 3866,
           "recovered": 0
         }
       },
@@ -1459,17 +1443,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 22771,
+          "confirmed": 41404,
           "date": "2020-07-14",
-          "deaths": 511,
+          "deaths": 755,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 116100,
+          "confirmed": 116460,
           "date": "2020-07-14",
-          "deaths": 5644,
+          "deaths": 5661,
           "recovered": 0
         }
       },
@@ -1499,17 +1483,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 92349,
+          "confirmed": 92586,
           "date": "2020-07-14",
-          "deaths": 6673,
+          "deaths": 6681,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 36828,
+          "confirmed": 37084,
           "date": "2020-07-14",
-          "deaths": 3870,
+          "deaths": 3871,
           "recovered": 0
         }
       },
@@ -1587,9 +1571,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 28139,
+          "confirmed": 28652,
           "date": "2020-07-14",
-          "deaths": 370,
+          "deaths": 384,
           "recovered": 0
         }
       },
@@ -1603,7 +1587,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 14869,
+          "confirmed": 15083,
           "date": "2020-07-14",
           "deaths": 130,
           "recovered": 0
@@ -1627,9 +1611,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 14098,
+          "confirmed": 14399,
           "date": "2020-07-14",
-          "deaths": 398,
+          "deaths": 402,
           "recovered": 0
         }
       }
@@ -1637,10 +1621,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 55198,
+      "confirmed": 55573,
       "date": "2020-07-14",
-      "deaths": 334,
-      "recovered": 45513
+      "deaths": 335,
+      "recovered": 46025
     }
   },
   "United Kingdom": {
@@ -1673,10 +1657,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 13993,
+      "confirmed": 14085,
       "date": "2020-07-14",
-      "deaths": 65,
-      "recovered": 8074
+      "deaths": 67,
+      "recovered": 8327
     }
   },
   "Venezuela": {
