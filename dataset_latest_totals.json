@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 32951,
-        "deaths": 864,
-        "recovered": 19366
+        "confirmed": 33190,
+        "deaths": 898,
+        "recovered": 20103
       },
       "back_2week": {
-        "confirmed": 30967,
-        "deaths": 721,
-        "recovered": 12604
+        "confirmed": 31238,
+        "deaths": 733,
+        "recovered": 13934
       },
       "latest": {
-        "confirmed": 34451,
-        "deaths": 1010,
-        "recovered": 21216
+        "confirmed": 34455,
+        "deaths": 1012,
+        "recovered": 21254
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 28606,
-        "deaths": 484,
-        "recovered": 16140
+        "confirmed": 28936,
+        "deaths": 491,
+        "recovered": 16302
       },
       "back_2week": {
-        "confirmed": 24645,
-        "deaths": 426,
-        "recovered": 13116
+        "confirmed": 25127,
+        "deaths": 433,
+        "recovered": 13297
       },
       "latest": {
-        "confirmed": 31969,
-        "deaths": 565,
-        "recovered": 19633
+        "confirmed": 32151,
+        "deaths": 573,
+        "recovered": 19865
       }
     },
     "ATG": {
@@ -282,12 +282,12 @@
     },
     "BEL": {
       "back_1week": {
-        "confirmed": 62016,
-        "deaths": 9771,
+        "confirmed": 62058,
+        "deaths": 9774,
         "recovered": 17091
       },
       "back_2week": {
-        "confirmed": 61295,
+        "confirmed": 61361,
         "deaths": 9732,
         "recovered": 16941
       },
@@ -2951,17 +2951,17 @@
       "back_1week": {
         "confirmed": 7777,
         "deaths": 217,
-        "recovered": 4573
+        "recovered": 4730
       },
       "back_2week": {
         "confirmed": 5934,
         "deaths": 152,
-        "recovered": 3557
+        "recovered": 3648
       },
       "latest": {
         "confirmed": 9674,
         "deaths": 260,
-        "recovered": 5634
+        "recovered": 5732
       }
     },
     "SMR": {
@@ -3737,17 +3737,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 10020,
+        "confirmed": 10362,
         "deaths": 34,
         "recovered": 6584
       },
       "back_2week": {
-        "confirmed": 7948,
+        "confirmed": 8222,
         "deaths": 22,
         "recovered": 5329
       },
       "latest": {
-        "confirmed": 12997,
+        "confirmed": 13591,
         "deaths": 60,
         "recovered": 7852
       }
