@@ -142,7 +142,7 @@
         "current_hospitalized": 7,
         "current_icu": 5,
         "deaths": 108,
-        "recovered": 7210,
+        "recovered": 7231,
         "tested": 2758466
       },
       "back_2week": {
@@ -150,13 +150,13 @@
         "current_hospitalized": 10,
         "current_icu": 2,
         "deaths": 106,
-        "recovered": 6993,
+        "recovered": 7010,
         "tested": 2415522
       },
       "latest": {
         "confirmed": 9777,
-        "current_hospitalized": 13,
-        "current_icu": 6,
+        "current_hospitalized": 6,
+        "current_icu": 5,
         "deaths": 110,
         "recovered": 7243,
         "tested": 3100547
@@ -171,13 +171,13 @@
           "tested": 35872
         },
         "NSW": {
-          "confirmed": 3285,
-          "current_hospitalized": 3,
+          "confirmed": 3289,
+          "current_hospitalized": 7,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 51,
           "recovered": 2799,
-          "tested": 1024410
+          "tested": 1039385
         },
         "NT": {
           "confirmed": 31,
