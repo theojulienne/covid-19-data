@@ -351,7 +351,8 @@ var covid19_dataset_country_isl = {
       1882,
       1886,
       1888,
-      1896
+      1896,
+      1900
     ],
     "deaths": [
       0,
@@ -443,6 +444,7 @@ var covid19_dataset_country_isl = {
       9,
       9,
       9,
+      10,
       10,
       10,
       10,
@@ -701,7 +703,8 @@ var covid19_dataset_country_isl = {
       1854,
       1859,
       1860,
-      1865
+      1865,
+      1871
     ]
   }
 };
