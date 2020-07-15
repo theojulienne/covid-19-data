@@ -803,8 +803,8 @@
     "live": {
       "confirmed": 11252,
       "date": "2020-07-15",
-      "deaths": 202,
-      "recovered": 3017
+      "deaths": 209,
+      "recovered": 3068
     }
   },
   "Korea, South": {
@@ -973,7 +973,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 9001,
+      "confirmed": 9006,
       "date": "2020-07-15",
       "deaths": 253,
       "recovered": 8138
@@ -1411,9 +1411,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 243276,
+          "confirmed": 234520,
           "date": "2020-07-15",
-          "deaths": 5719,
+          "deaths": 5628,
           "recovered": 0
         }
       },
@@ -1427,9 +1427,9 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 10946,
+          "confirmed": 11026,
           "date": "2020-07-15",
-          "deaths": 568,
+          "deaths": 571,
           "recovered": 0
         }
       },
@@ -1475,9 +1475,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44829,
+          "confirmed": 54073,
           "date": "2020-07-15",
-          "deaths": 1975,
+          "deaths": 2352,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14574,
+          "confirmed": 14653,
           "date": "2020-07-15",
-          "deaths": 500,
+          "deaths": 502,
           "recovered": 0
         }
       },
