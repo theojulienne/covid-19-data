@@ -801,10 +801,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13512,
+      "confirmed": 13551,
       "date": "2020-07-15",
       "deaths": 289,
-      "recovered": 12282
+      "recovered": 12348
     }
   },
   "Kuwait": {
@@ -835,98 +835,98 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 10903,
+          "confirmed": 11031,
           "date": "2020-07-15",
-          "deaths": 2276,
-          "recovered": 8111
+          "deaths": 2296,
+          "recovered": 8229
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 58114,
+          "confirmed": 58855,
           "date": "2020-07-15",
-          "deaths": 7722,
-          "recovered": 46197
+          "deaths": 7817,
+          "recovered": 47055
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 12541,
+          "confirmed": 12942,
           "date": "2020-07-15",
-          "deaths": 621,
-          "recovered": 9390
+          "deaths": 649,
+          "recovered": 9749
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 9327,
+          "confirmed": 9511,
           "date": "2020-07-15",
-          "deaths": 1045,
-          "recovered": 6953
+          "deaths": 1084,
+          "recovered": 7117
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 42753,
+          "confirmed": 43544,
           "date": "2020-07-15",
-          "deaths": 5237,
-          "recovered": 35167
+          "deaths": 5378,
+          "recovered": 35739
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 10212,
+          "confirmed": 10575,
           "date": "2020-07-15",
-          "deaths": 544,
-          "recovered": 7753
+          "deaths": 583,
+          "recovered": 8048
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 14349,
+          "confirmed": 14691,
           "date": "2020-07-15",
-          "deaths": 1799,
-          "recovered": 11545
+          "deaths": 1837,
+          "recovered": 11852
         }
       },
       "Sinaloa": {
         "live": {
-          "confirmed": 10312,
+          "confirmed": 10563,
           "date": "2020-07-15",
-          "deaths": 1655,
-          "recovered": 8123
+          "deaths": 1689,
+          "recovered": 8256
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 11806,
+          "confirmed": 12347,
           "date": "2020-07-15",
-          "deaths": 1113,
-          "recovered": 10208
+          "deaths": 1170,
+          "recovered": 10550
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 15330,
+          "confirmed": 15529,
           "date": "2020-07-15",
-          "deaths": 1431,
-          "recovered": 12084
+          "deaths": 1455,
+          "recovered": 12385
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 9095,
+          "confirmed": 9508,
           "date": "2020-07-15",
-          "deaths": 604,
-          "recovered": 7820
+          "deaths": 630,
+          "recovered": 7986
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 14039,
+          "confirmed": 14594,
           "date": "2020-07-15",
-          "deaths": 1987,
-          "recovered": 10804
+          "deaths": 2026,
+          "recovered": 11113
         }
       }
     }
@@ -1033,10 +1033,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 47173,
+      "confirmed": 48096,
       "date": "2020-07-15",
-      "deaths": 932,
-      "recovered": 23919
+      "deaths": 960,
+      "recovered": 24667
     }
   },
   "Peru": {
@@ -1579,9 +1579,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 149035,
+          "confirmed": 149889,
           "date": "2020-07-15",
-          "deaths": 1741,
+          "deaths": 1747,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 11825,
+          "confirmed": 12213,
           "date": "2020-07-15",
-          "deaths": 637,
+          "deaths": 624,
           "recovered": 0
         }
       },
