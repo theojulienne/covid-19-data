@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 106910,
       "date": "2020-07-15",
-      "deaths": 1968,
-      "recovered": 45467
+      "deaths": 1987,
+      "recovered": 47298
     }
   },
   "Armenia": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 25113,
+      "confirmed": 25672,
       "date": "2020-07-15",
-      "deaths": 319,
-      "recovered": 16150
+      "deaths": 326,
+      "recovered": 16695
     }
   },
   "Bahrain": {
@@ -717,10 +717,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 81757,
+      "confirmed": 83867,
       "date": "2020-07-15",
-      "deaths": 3345,
-      "recovered": 50782
+      "deaths": 3432,
+      "recovered": 52621
     }
   },
   "Ireland": {
@@ -801,7 +801,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 10791,
+      "confirmed": 11252,
       "date": "2020-07-15",
       "deaths": 202,
       "recovered": 3017
@@ -817,10 +817,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 56174,
+      "confirmed": 56877,
       "date": "2020-07-15",
-      "deaths": 396,
-      "recovered": 46161
+      "deaths": 399,
+      "recovered": 46897
     }
   },
   "Kyrgyzstan": {
@@ -957,9 +957,9 @@
   },
   "Netherlands": {
     "live": {
-      "confirmed": 51146,
+      "confirmed": 51252,
       "date": "2020-07-15",
-      "deaths": 6135,
+      "deaths": 6136,
       "recovered": 0
     }
   },
@@ -1141,10 +1141,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 47051,
+      "confirmed": 47426,
       "date": "2020-07-15",
-      "deaths": 1668,
-      "recovered": 31550
+      "deaths": 1676,
+      "recovered": 32110
     }
   },
   "Qatar": {
@@ -1257,18 +1257,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 237803,
+      "confirmed": 240474,
       "date": "2020-07-15",
-      "deaths": 2283,
-      "recovered": 177560
+      "deaths": 2325,
+      "recovered": 183048
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 18983,
+      "confirmed": 19334,
       "date": "2020-07-15",
-      "deaths": 418,
-      "recovered": 13991
+      "deaths": 429,
+      "recovered": 14047
     }
   },
   "Singapore": {
@@ -1555,9 +1555,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 10123,
+          "confirmed": 10379,
           "date": "2020-07-15",
-          "deaths": 169,
+          "deaths": 171,
           "recovered": 0
         }
       },
@@ -1657,10 +1657,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 14293,
+      "confirmed": 14466,
       "date": "2020-07-15",
-      "deaths": 68,
-      "recovered": 8327
+      "deaths": 69,
+      "recovered": 8343
     }
   },
   "Venezuela": {
