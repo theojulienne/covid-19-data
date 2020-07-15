@@ -2483,8 +2483,7 @@ var covid19_dataset_country_nld = {
       50840,
       50921,
       51022,
-      51093,
-      51146
+      51093
     ],
     "deaths": [
       0,
