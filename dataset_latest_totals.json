@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 56621,
-          "deaths": 5628
+          "confirmed": 56730,
+          "deaths": 5633
         },
         "Saskatchewan": {
           "confirmed": 871,
@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 25531,
-        "deaths": 1741,
+        "confirmed": 25538,
+        "deaths": 1742,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 25462,
-        "deaths": 1735,
+        "confirmed": 25473,
+        "deaths": 1736,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 25638,
+        "confirmed": 25670,
         "deaths": 1746,
         "recovered": 23364
       }
