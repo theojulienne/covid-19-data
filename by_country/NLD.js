@@ -176,7 +176,8 @@ var covid19_dataset_country_nld = {
           105,
           105,
           105,
-          105
+          105,
+          106
         ],
         "deaths": [
           0,
@@ -285,6 +286,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3,
           3,
@@ -528,6 +530,7 @@ var covid19_dataset_country_nld = {
           98,
           99,
           99,
+          99,
           99
         ]
       }
@@ -708,9 +711,11 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -1060,6 +1065,7 @@ var covid19_dataset_country_nld = {
           7,
           7,
           7,
+          7,
           7
         ]
       }
@@ -1240,6 +1246,7 @@ var covid19_dataset_country_nld = {
           25,
           25,
           25,
+          25,
           25
         ],
         "deaths": [
@@ -1300,6 +1307,7 @@ var covid19_dataset_country_nld = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -1592,6 +1600,7 @@ var covid19_dataset_country_nld = {
           24,
           24,
           24,
+          24,
           24
         ]
       }
@@ -1772,6 +1781,7 @@ var covid19_dataset_country_nld = {
           78,
           78,
           78,
+          78,
           78
         ],
         "deaths": [
@@ -1883,6 +1893,7 @@ var covid19_dataset_country_nld = {
           14,
           14,
           14,
+          15,
           15,
           15,
           15,
@@ -2115,6 +2126,7 @@ var covid19_dataset_country_nld = {
           62,
           62,
           62,
+          63,
           63,
           63,
           63,
@@ -2483,7 +2495,8 @@ var covid19_dataset_country_nld = {
       50840,
       50921,
       51022,
-      51093
+      51093,
+      51146
     ],
     "deaths": [
       0,
@@ -2659,9 +2672,11 @@ var covid19_dataset_country_nld = {
       6136,
       6137,
       6137,
-      6137
+      6137,
+      6135
     ],
     "recovered": [
+      0,
       0,
       0,
       0,
