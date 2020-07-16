@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 65443,
+      "confirmed": 65623,
       "date": "2020-07-16",
-      "deaths": 480,
-      "recovered": 56379
+      "deaths": 485,
+      "recovered": 56915
     }
   },
   "Belgium": {
@@ -76,7 +76,7 @@
       "confirmed": 63039,
       "date": "2020-07-16",
       "deaths": 9792,
-      "recovered": 17242
+      "recovered": 17253
     }
   },
   "Bolivia": {
@@ -957,10 +957,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 17177,
+      "confirmed": 17344,
       "date": "2020-07-16",
       "deaths": 39,
-      "recovered": 11025
+      "recovered": 11249
     }
   },
   "Netherlands": {
@@ -1393,9 +1393,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 33148,
+      "confirmed": 33290,
       "date": "2020-07-16",
-      "deaths": 1968,
+      "deaths": 1969,
       "recovered": 29800
     }
   },
