@@ -134,7 +134,7 @@
           "confirmed": 141248,
           "date": "2020-07-16",
           "deaths": 7030,
-          "recovered": 115426
+          "recovered": 117563
         }
       },
       "Distrito Federal": {
@@ -142,7 +142,7 @@
           "confirmed": 75379,
           "date": "2020-07-16",
           "deaths": 1001,
-          "recovered": 61618
+          "recovered": 62159
         }
       },
       "Espirito Santo": {
@@ -158,7 +158,7 @@
           "confirmed": 38895,
           "date": "2020-07-16",
           "deaths": 927,
-          "recovered": 12119
+          "recovered": 12302
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 14631,
           "date": "2020-07-16",
           "deaths": 183,
-          "recovered": 9401
+          "recovered": 9804
         }
       },
       "Minas Gerais": {
@@ -190,7 +190,7 @@
           "confirmed": 82010,
           "date": "2020-07-16",
           "deaths": 1752,
-          "recovered": 56001
+          "recovered": 57930
         }
       },
       "Para": {
@@ -286,7 +286,7 @@
           "confirmed": 393176,
           "date": "2020-07-16",
           "deaths": 18640,
-          "recovered": 246941
+          "recovered": 252699
         }
       },
       "Sergipe": {
@@ -302,7 +302,7 @@
           "confirmed": 16031,
           "date": "2020-07-16",
           "deaths": 271,
-          "recovered": 9823
+          "recovered": 10314
         }
       }
     }
@@ -327,10 +327,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 38994,
+          "confirmed": 39005,
           "date": "2020-07-16",
           "deaths": 2780,
-          "recovered": 34580
+          "recovered": 34588
         }
       },
       "Quebec": {
@@ -443,14 +443,6 @@
       }
     }
   },
-  "Costa Rica": {
-    "live": {
-      "confirmed": 8986,
-      "date": "2020-07-16",
-      "deaths": 40,
-      "recovered": 2551
-    }
-  },
   "Cote d'Ivoire": {
     "live": {
       "confirmed": 13403,
@@ -485,10 +477,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 70329,
+      "confirmed": 71365,
       "date": "2020-07-16",
-      "deaths": 5158,
-      "recovered": 30641
+      "deaths": 5207,
+      "recovered": 31260
     }
   },
   "Egypt": {
@@ -965,10 +957,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 16424,
+      "confirmed": 16545,
       "date": "2020-07-16",
-      "deaths": 260,
-      "recovered": 13896
+      "deaths": 263,
+      "recovered": 13965
     }
   },
   "Nepal": {
@@ -1459,17 +1451,17 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 33650,
+          "confirmed": 43525,
           "date": "2020-07-16",
-          "deaths": 581,
+          "deaths": 771,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 117090,
+          "confirmed": 117784,
           "date": "2020-07-16",
-          "deaths": 5666,
+          "deaths": 5676,
           "recovered": 0
         }
       },
@@ -1507,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 37547,
+          "confirmed": 37931,
           "date": "2020-07-16",
-          "deaths": 3872,
+          "deaths": 3883,
           "recovered": 0
         }
       },
@@ -1587,9 +1579,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 29441,
+          "confirmed": 30306,
           "date": "2020-07-16",
-          "deaths": 390,
+          "deaths": 393,
           "recovered": 0
         }
       },
@@ -1627,7 +1619,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 14679,
+          "confirmed": 15057,
           "date": "2020-07-16",
           "deaths": 403,
           "recovered": 0
@@ -1637,10 +1629,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 55848,
+      "confirmed": 56129,
       "date": "2020-07-16",
       "deaths": 335,
-      "recovered": 46418
+      "recovered": 47412
     }
   },
   "United Kingdom": {
