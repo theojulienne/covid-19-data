@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 19154,
+      "confirmed": 19270,
       "date": "2020-07-16",
-      "deaths": 710,
-      "recovered": 17175
+      "deaths": 711,
+      "recovered": 17244
     }
   },
   "Azerbaijan": {
@@ -485,10 +485,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 10645,
+      "confirmed": 10957,
       "date": "2020-07-16",
       "deaths": 298,
-      "recovered": 6128
+      "recovered": 6257
     }
   },
   "France": {
@@ -1281,7 +1281,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 46878,
+      "confirmed": 47126,
       "date": "2020-07-16",
       "deaths": 27,
       "recovered": 42988
