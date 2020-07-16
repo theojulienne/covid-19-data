@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 25672,
+      "confirmed": 26165,
       "date": "2020-07-16",
-      "deaths": 326,
-      "recovered": 16695
+      "deaths": 334,
+      "recovered": 17256
     }
   },
   "Bahrain": {
@@ -453,10 +453,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 13092,
+      "confirmed": 13124,
       "date": "2020-07-16",
       "deaths": 610,
-      "recovered": 12182
+      "recovered": 12195
     }
   },
   "Dominican Republic": {
@@ -809,10 +809,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 11252,
+      "confirmed": 11673,
       "date": "2020-07-16",
-      "deaths": 209,
-      "recovered": 3068
+      "deaths": 217,
+      "recovered": 3638
     }
   },
   "Korea, South": {
@@ -983,7 +983,7 @@
     "live": {
       "confirmed": 9011,
       "date": "2020-07-16",
-      "deaths": 253,
+      "deaths": 254,
       "recovered": 8138
     }
   },
@@ -1149,18 +1149,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 47426,
+      "confirmed": 47765,
       "date": "2020-07-16",
-      "deaths": 1676,
-      "recovered": 32110
+      "deaths": 1679,
+      "recovered": 32476
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 104983,
+      "confirmed": 105477,
       "date": "2020-07-16",
-      "deaths": 151,
-      "recovered": 101637
+      "deaths": 152,
+      "recovered": 102168
     }
   },
   "Romania": {
@@ -1265,10 +1265,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 240474,
+      "confirmed": 243238,
       "date": "2020-07-16",
-      "deaths": 2325,
-      "recovered": 183048
+      "deaths": 2370,
+      "recovered": 187622
     }
   },
   "Serbia": {
@@ -1563,9 +1563,9 @@
       },
       "Puerto Rico": {
         "live": {
-          "confirmed": 10379,
+          "confirmed": 10574,
           "date": "2020-07-16",
-          "deaths": 171,
+          "deaths": 172,
           "recovered": 0
         }
       },
@@ -1665,7 +1665,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 14787,
+      "confirmed": 14991,
       "date": "2020-07-16",
       "deaths": 73,
       "recovered": 8655
