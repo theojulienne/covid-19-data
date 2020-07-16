@@ -749,9 +749,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25683,
+      "confirmed": 25698,
       "date": "2020-07-16",
-      "deaths": 1748,
+      "deaths": 1749,
       "recovered": 23364
     }
   },
@@ -1297,10 +1297,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 311049,
+      "confirmed": 324221,
       "date": "2020-07-16",
-      "deaths": 4453,
-      "recovered": 160693
+      "deaths": 4669,
+      "recovered": 165591
     }
   },
   "Spain": {
@@ -1523,9 +1523,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 25611,
+          "confirmed": 26926,
           "date": "2020-07-16",
-          "deaths": 502,
+          "deaths": 507,
           "recovered": 0
         }
       },
@@ -1541,7 +1541,7 @@
         "live": {
           "confirmed": 365286,
           "date": "2020-07-16",
-          "deaths": 30145,
+          "deaths": 30146,
           "recovered": 0
         }
       },
@@ -1555,17 +1555,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 22607,
+          "confirmed": 23084,
           "date": "2020-07-16",
-          "deaths": 851,
+          "deaths": 862,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36866,
+          "confirmed": 37023,
           "date": "2020-07-16",
-          "deaths": 2488,
+          "deaths": 2499,
           "recovered": 0
         }
       },
