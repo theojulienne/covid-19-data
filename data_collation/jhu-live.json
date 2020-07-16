@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 50867,
+      "confirmed": 52218,
       "date": "2020-07-16",
-      "deaths": 1898,
-      "recovered": 15819
+      "deaths": 1942,
+      "recovered": 16357
     }
   },
   "Brazil": {
@@ -493,7 +493,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 200347,
+      "confirmed": 200338,
       "date": "2020-07-16",
       "deaths": 30018,
       "recovered": 71774
@@ -1411,17 +1411,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 107740,
+          "confirmed": 98889,
           "date": "2020-07-16",
-          "deaths": 1783,
+          "deaths": 1624,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 239964,
+          "confirmed": 249464,
           "date": "2020-07-16",
-          "deaths": 5721,
+          "deaths": 5824,
           "recovered": 0
         }
       },
