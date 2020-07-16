@@ -1587,9 +1587,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 152653,
+          "confirmed": 153989,
           "date": "2020-07-16",
-          "deaths": 1779,
+          "deaths": 1791,
           "recovered": 0
         }
       },
@@ -1665,9 +1665,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 14581,
+      "confirmed": 14787,
       "date": "2020-07-16",
-      "deaths": 71,
+      "deaths": 72,
       "recovered": 8655
     }
   },
