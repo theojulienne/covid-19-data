@@ -355,6 +355,7 @@ var covid19_dataset_country_zmb = {
       1895,
       1895,
       1895,
+      1895,
       1895
     ],
     "deaths": [
@@ -525,6 +526,7 @@ var covid19_dataset_country_zmb = {
       30,
       30,
       30,
+      42,
       42,
       42,
       42,
@@ -707,6 +709,7 @@ var covid19_dataset_country_zmb = {
       1348,
       1348,
       1348,
+      1412,
       1412,
       1412,
       1412

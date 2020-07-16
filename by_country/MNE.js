@@ -355,6 +355,7 @@ var covid19_dataset_country_mne = {
       1164,
       1221,
       1287,
+      1287,
       1287
     ],
     "deaths": [
@@ -532,6 +533,7 @@ var covid19_dataset_country_mne = {
       23,
       23,
       24,
+      24,
       24
     ],
     "recovered": [
@@ -708,6 +710,7 @@ var covid19_dataset_country_mne = {
       320,
       325,
       325,
+      330,
       330,
       330
     ]

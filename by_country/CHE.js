@@ -355,7 +355,8 @@ var covid19_dataset_country_che = {
       32817,
       32883,
       32946,
-      33016
+      33016,
+      33148
     ],
     "deaths": [
       0,
@@ -529,6 +530,7 @@ var covid19_dataset_country_che = {
       1966,
       1966,
       1966,
+      1968,
       1968,
       1968,
       1968,
@@ -709,6 +711,7 @@ var covid19_dataset_country_che = {
       29500,
       29600,
       29600,
+      29800,
       29800
     ]
   }
