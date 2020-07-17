@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 33559,
+      "confirmed": 34001,
       "date": "2020-07-17",
-      "deaths": 607,
-      "recovered": 21931
+      "deaths": 620,
+      "recovered": 22492
     }
   },
   "Austria": {
@@ -511,15 +511,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 49538,
+          "confirmed": 49631,
           "date": "2020-07-17",
-          "deaths": 2613,
+          "deaths": 2616,
           "recovered": 45870
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 11283,
+          "confirmed": 11324,
           "date": "2020-07-17",
           "deaths": 514,
           "recovered": 10301
@@ -527,7 +527,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13887,
+          "confirmed": 13905,
           "date": "2020-07-17",
           "deaths": 645,
           "recovered": 12855
@@ -535,7 +535,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 45388,
+          "confirmed": 45710,
           "date": "2020-07-17",
           "deaths": 1711,
           "recovered": 41591
