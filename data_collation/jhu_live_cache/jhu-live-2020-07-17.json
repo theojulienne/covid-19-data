@@ -166,7 +166,7 @@
           "confirmed": 104126,
           "date": "2020-07-17",
           "deaths": 2608,
-          "recovered": 84168
+          "recovered": 87059
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 31111,
           "date": "2020-07-17",
           "deaths": 1207,
-          "recovered": 11660
+          "recovered": 15018
         }
       },
       "Mato Grosso do Sul": {
@@ -222,7 +222,7 @@
           "confirmed": 76091,
           "date": "2020-07-17",
           "deaths": 5836,
-          "recovered": 53355
+          "recovered": 53970
         }
       },
       "Piaui": {
@@ -230,7 +230,7 @@
           "confirmed": 36542,
           "date": "2020-07-17",
           "deaths": 1043,
-          "recovered": 34617
+          "recovered": 35108
         }
       },
       "Rio Grande do Norte": {
@@ -327,7 +327,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 39042,
+          "confirmed": 39043,
           "date": "2020-07-17",
           "deaths": 2784,
           "recovered": 34658
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 246463,
+          "confirmed": 256206,
           "date": "2020-07-17",
-          "deaths": 5797,
+          "deaths": 5906,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 37023,
+          "confirmed": 28024,
           "date": "2020-07-17",
-          "deaths": 2499,
+          "deaths": 1664,
           "recovered": 0
         }
       },
