@@ -965,17 +965,17 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 17344,
+      "confirmed": 17445,
       "date": "2020-07-17",
-      "deaths": 39,
-      "recovered": 11249
+      "deaths": 40,
+      "recovered": 11534
     }
   },
   "Netherlands": {
     "live": {
-      "confirmed": 51351,
+      "confirmed": 51454,
       "date": "2020-07-17",
-      "deaths": 6137,
+      "deaths": 6138,
       "recovered": 0
     }
   },
@@ -989,7 +989,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 9015,
+      "confirmed": 9018,
       "date": "2020-07-17",
       "deaths": 255,
       "recovered": 8138
@@ -1265,18 +1265,18 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 243238,
+      "confirmed": 245851,
       "date": "2020-07-17",
-      "deaths": 2370,
-      "recovered": 187622
+      "deaths": 2407,
+      "recovered": 191161
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 19717,
+      "confirmed": 20109,
       "date": "2020-07-17",
-      "deaths": 442,
-      "recovered": 14417
+      "deaths": 452,
+      "recovered": 14799
     }
   },
   "Singapore": {
