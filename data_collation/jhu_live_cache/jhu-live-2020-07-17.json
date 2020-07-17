@@ -485,10 +485,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 85771,
+      "confirmed": 86474,
       "date": "2020-07-17",
-      "deaths": 4120,
-      "recovered": 26691
+      "deaths": 4188,
+      "recovered": 27302
     }
   },
   "El Salvador": {
@@ -1419,9 +1419,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 41729,
+          "confirmed": 41848,
           "date": "2020-07-17",
-          "deaths": 3881,
+          "deaths": 3888,
           "recovered": 0
         }
       },
@@ -1483,9 +1483,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 84052,
+          "confirmed": 84243,
           "date": "2020-07-17",
-          "deaths": 6027,
+          "deaths": 6039,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 175135,
+          "confirmed": 176330,
           "date": "2020-07-17",
-          "deaths": 2118,
+          "deaths": 2131,
           "recovered": 0
         }
       },

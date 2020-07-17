@@ -1182,19 +1182,19 @@
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 78304,
-        "deaths": 3564,
-        "recovered": 22241
+        "confirmed": 79254,
+        "deaths": 3617,
+        "recovered": 22753
       },
       "back_2week": {
-        "confirmed": 69814,
-        "deaths": 3034,
-        "recovered": 18881
+        "confirmed": 71299,
+        "deaths": 3120,
+        "recovered": 19288
       },
       "latest": {
-        "confirmed": 84843,
-        "deaths": 4067,
-        "recovered": 26135
+        "confirmed": 85771,
+        "deaths": 4120,
+        "recovered": 26691
       }
     },
     "ERI": {
