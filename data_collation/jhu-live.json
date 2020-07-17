@@ -76,7 +76,7 @@
       "confirmed": 63238,
       "date": "2020-07-17",
       "deaths": 9795,
-      "recovered": 17253
+      "recovered": 17269
     }
   },
   "Bolivia": {
@@ -833,10 +833,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 57668,
+      "confirmed": 58221,
       "date": "2020-07-17",
-      "deaths": 402,
-      "recovered": 47545
+      "deaths": 404,
+      "recovered": 48381
     }
   },
   "Kyrgyzstan": {
@@ -1157,10 +1157,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 105477,
+      "confirmed": 105898,
       "date": "2020-07-17",
-      "deaths": 152,
-      "recovered": 102168
+      "deaths": 153,
+      "recovered": 102597
     }
   },
   "Romania": {
@@ -1393,7 +1393,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 33290,
+      "confirmed": 33382,
       "date": "2020-07-17",
       "deaths": 1969,
       "recovered": 29900
