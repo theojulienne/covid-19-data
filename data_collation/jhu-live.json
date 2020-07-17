@@ -501,10 +501,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 200612,
+      "confirmed": 201448,
       "date": "2020-07-17",
-      "deaths": 30035,
-      "recovered": 71771
+      "deaths": 30049,
+      "recovered": 71979
     }
   },
   "Germany": {
@@ -553,18 +553,18 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 26125,
+      "confirmed": 26572,
       "date": "2020-07-17",
-      "deaths": 139,
-      "recovered": 22270
+      "deaths": 144,
+      "recovered": 22915
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 32939,
+      "confirmed": 33809,
       "date": "2020-07-17",
-      "deaths": 1404,
-      "recovered": 4807
+      "deaths": 1443,
+      "recovered": 4989
     }
   },
   "Honduras": {
@@ -1579,9 +1579,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 176330,
+          "confirmed": 178524,
           "date": "2020-07-17",
-          "deaths": 2131,
+          "deaths": 2159,
           "recovered": 0
         }
       },
