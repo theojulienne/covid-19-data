@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 111146,
+      "confirmed": 114783,
       "date": "2020-07-16",
-      "deaths": 2050,
-      "recovered": 47298
+      "deaths": 2112,
+      "recovered": 49120
     }
   },
   "Armenia": {
@@ -493,7 +493,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 200774,
+      "confirmed": 200739,
       "date": "2020-07-16",
       "deaths": 30035,
       "recovered": 71910
@@ -553,10 +553,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 32074,
+      "confirmed": 32939,
       "date": "2020-07-16",
-      "deaths": 1350,
-      "recovered": 4624
+      "deaths": 1404,
+      "recovered": 4807
     }
   },
   "Honduras": {
@@ -973,15 +973,15 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 34259,
+      "confirmed": 34854,
       "date": "2020-07-16",
-      "deaths": 760,
-      "recovered": 13999
+      "deaths": 769,
+      "recovered": 14292
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 9011,
+      "confirmed": 9015,
       "date": "2020-07-16",
       "deaths": 254,
       "recovered": 8138
