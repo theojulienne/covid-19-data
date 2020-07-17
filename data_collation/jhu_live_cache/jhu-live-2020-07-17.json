@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 52218,
+      "confirmed": 54156,
       "date": "2020-07-17",
-      "deaths": 1942,
-      "recovered": 16357
+      "deaths": 1984,
+      "recovered": 16979
     }
   },
   "Brazil": {
@@ -817,10 +817,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13612,
+      "confirmed": 13672,
       "date": "2020-07-17",
-      "deaths": 291,
-      "recovered": 12396
+      "deaths": 293,
+      "recovered": 12460
     }
   },
   "Kuwait": {
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 242202,
+          "confirmed": 246463,
           "date": "2020-07-17",
-          "deaths": 5752,
+          "deaths": 5797,
           "recovered": 0
         }
       },
@@ -1673,10 +1673,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 10428,
+      "confirmed": 10854,
       "date": "2020-07-17",
-      "deaths": 100,
-      "recovered": 3050
+      "deaths": 104,
+      "recovered": 3255
     }
   }
 }
