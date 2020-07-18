@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 53577,
-        "deaths": 328,
-        "recovered": 43570
+        "confirmed": 54050,
+        "deaths": 330,
+        "recovered": 43969
       },
       "back_2week": {
-        "confirmed": 49469,
-        "deaths": 317,
-        "recovered": 38664
+        "confirmed": 50141,
+        "deaths": 318,
+        "recovered": 39153
       },
       "latest": {
-        "confirmed": 56129,
-        "deaths": 335,
-        "recovered": 47412
+        "confirmed": 56422,
+        "deaths": 337,
+        "recovered": 48448
       }
     },
     "ARG": {
@@ -1762,19 +1762,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 250458,
-        "deaths": 12305,
-        "recovered": 212176
+        "confirmed": 252720,
+        "deaths": 12447,
+        "recovered": 215015
       },
       "back_2week": {
-        "confirmed": 232863,
-        "deaths": 11106,
-        "recovered": 194098
+        "confirmed": 235429,
+        "deaths": 11260,
+        "recovered": 196446
       },
       "latest": {
-        "confirmed": 267061,
-        "deaths": 13608,
-        "recovered": 230608
+        "confirmed": 269440,
+        "deaths": 13791,
+        "recovered": 232873
       }
     },
     "IRQ": {
@@ -2813,19 +2813,19 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 30789,
-        "deaths": 1834,
-        "recovered": 20969
+        "confirmed": 31381,
+        "deaths": 1847,
+        "recovered": 21129
       },
       "back_2week": {
-        "confirmed": 27746,
-        "deaths": 1687,
-        "recovered": 19363
+        "confirmed": 28166,
+        "deaths": 1708,
+        "recovered": 19545
       },
       "latest": {
-        "confirmed": 35003,
-        "deaths": 1971,
-        "recovered": 22189
+        "confirmed": 35802,
+        "deaths": 1988,
+        "recovered": 22312
       }
     },
     "RUS": {
