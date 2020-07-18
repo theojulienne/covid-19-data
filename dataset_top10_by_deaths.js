@@ -5586,7 +5586,7 @@ var covid19_dataset_top10_by_deaths = {
           35390066,
           35908717,
           36541553,
-          37165421,
+          37167013,
           37802225,
           38624885,
           39322999,
@@ -5779,7 +5779,8 @@ var covid19_dataset_top10_by_deaths = {
     "2020-07-15",
     "2020-07-16",
     "2020-07-17",
-    "2020-07-18"
+    "2020-07-18",
+    "2020-07-19"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
