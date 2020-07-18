@@ -317,6 +317,14 @@
   },
   "Canada": {
     "subseries": {
+      "Alberta": {
+        "live": {
+          "confirmed": 9219,
+          "date": "2020-07-18",
+          "deaths": 167,
+          "recovered": 8193
+        }
+      },
       "Ontario": {
         "live": {
           "confirmed": 39164,
@@ -351,6 +359,14 @@
           "date": "2020-07-18",
           "deaths": 6858,
           "recovered": 226678
+        }
+      },
+      "OHiggins": {
+        "live": {
+          "confirmed": 9163,
+          "date": "2020-07-18",
+          "deaths": 164,
+          "recovered": 7602
         }
       },
       "Valparaiso": {
@@ -725,10 +741,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 88171,
+      "confirmed": 90220,
       "date": "2020-07-18",
-      "deaths": 3616,
-      "recovered": 56495
+      "deaths": 3691,
+      "recovered": 58492
     }
   },
   "Ireland": {
@@ -821,10 +837,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 12062,
+      "confirmed": 12750,
       "date": "2020-07-18",
-      "deaths": 222,
-      "recovered": 3983
+      "deaths": 225,
+      "recovered": 4440
     }
   },
   "Korea, South": {
@@ -837,10 +853,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 58221,
+      "confirmed": 58904,
       "date": "2020-07-18",
-      "deaths": 404,
-      "recovered": 48381
+      "deaths": 407,
+      "recovered": 49020
     }
   },
   "Kyrgyzstan": {
@@ -976,11 +992,23 @@
     }
   },
   "Netherlands": {
-    "live": {
-      "confirmed": 51454,
-      "date": "2020-07-17",
-      "deaths": 6138,
-      "recovered": 0
+    "subseries": {
+      "Noord-Brabant": {
+        "live": {
+          "confirmed": 9763,
+          "date": "2020-07-18",
+          "deaths": 1535,
+          "recovered": 0
+        }
+      },
+      "Zuid-Holland": {
+        "live": {
+          "confirmed": 11834,
+          "date": "2020-07-18",
+          "deaths": 1305,
+          "recovered": 0
+        }
+      }
     }
   },
   "Nigeria": {
@@ -1361,10 +1389,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 10527,
+      "confirmed": 10682,
       "date": "2020-07-18",
-      "deaths": 668,
-      "recovered": 5601
+      "deaths": 673,
+      "recovered": 5637
     }
   },
   "Sweden": {
@@ -1554,14 +1582,6 @@
           "confirmed": 28159,
           "date": "2020-07-18",
           "deaths": 1665,
-          "recovered": 0
-        }
-      },
-      "Puerto Rico": {
-        "live": {
-          "confirmed": 11120,
-          "date": "2020-07-18",
-          "deaths": 177,
           "recovered": 0
         }
       },
