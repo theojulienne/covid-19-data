@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 26636,
+      "confirmed": 27133,
       "date": "2020-07-18",
-      "deaths": 341,
-      "recovered": 17805
+      "deaths": 349,
+      "recovered": 18450
     }
   },
   "Bahrain": {
@@ -359,14 +359,6 @@
           "date": "2020-07-18",
           "deaths": 6858,
           "recovered": 226678
-        }
-      },
-      "OHiggins": {
-        "live": {
-          "confirmed": 9163,
-          "date": "2020-07-18",
-          "deaths": 164,
-          "recovered": 7602
         }
       },
       "Valparaiso": {
@@ -1173,10 +1165,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 48077,
+      "confirmed": 48390,
       "date": "2020-07-18",
-      "deaths": 1682,
-      "recovered": 32790
+      "deaths": 1684,
+      "recovered": 33153
     }
   },
   "Qatar": {
@@ -1507,9 +1499,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45831,
+          "confirmed": 55477,
           "date": "2020-07-18",
-          "deaths": 1990,
+          "deaths": 2378,
           "recovered": 0
         }
       },
@@ -1619,7 +1611,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14731,
+          "confirmed": 14798,
           "date": "2020-07-18",
           "deaths": 508,
           "recovered": 0
