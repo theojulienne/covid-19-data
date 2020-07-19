@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 31745,
+      "confirmed": 32793,
       "date": "2020-07-19",
-      "deaths": 857,
-      "recovered": 3565
+      "deaths": 891,
+      "recovered": 3661
     }
   },
   "India": {
@@ -803,6 +803,18 @@
           "date": "2020-07-19",
           "deaths": 2049,
           "recovered": 16985
+        }
+      }
+    }
+  },
+  "Japan": {
+    "subseries": {
+      "Tokyo": {
+        "live": {
+          "confirmed": 9413,
+          "date": "2020-07-19",
+          "deaths": 326,
+          "recovered": 6909
         }
       }
     }
@@ -1495,9 +1507,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 55477,
+          "confirmed": 46193,
           "date": "2020-07-19",
-          "deaths": 2378,
+          "deaths": 2000,
           "recovered": 0
         }
       },
@@ -1677,10 +1689,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 11191,
+      "confirmed": 11483,
       "date": "2020-07-19",
-      "deaths": 107,
-      "recovered": 3852
+      "deaths": 110,
+      "recovered": 3972
     }
   }
 }
