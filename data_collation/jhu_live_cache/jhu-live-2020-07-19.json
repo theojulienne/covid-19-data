@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 36004,
       "date": "2020-07-19",
-      "deaths": 125,
+      "deaths": 126,
       "recovered": 31765
     }
   },
@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39370,
+          "confirmed": 39385,
           "date": "2020-07-19",
           "deaths": 2791,
           "recovered": 34816
@@ -819,8 +819,8 @@
     "live": {
       "confirmed": 13353,
       "date": "2020-07-19",
-      "deaths": 225,
-      "recovered": 4440
+      "deaths": 234,
+      "recovered": 5122
     }
   },
   "Korea, South": {
@@ -957,10 +957,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 17015,
+      "confirmed": 17236,
       "date": "2020-07-19",
-      "deaths": 269,
-      "recovered": 14620
+      "deaths": 273,
+      "recovered": 14921
     }
   },
   "Nepal": {
@@ -1487,9 +1487,9 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 12030,
+          "confirmed": 12254,
           "date": "2020-07-19",
-          "deaths": 498,
+          "deaths": 500,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 24216,
+          "confirmed": 24554,
           "date": "2020-07-19",
-          "deaths": 875,
+          "deaths": 888,
           "recovered": 0
         }
       },

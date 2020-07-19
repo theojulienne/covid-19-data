@@ -1916,18 +1916,18 @@
     "KEN": {
       "back_1week": {
         "confirmed": 9726,
-        "deaths": 181,
-        "recovered": 2733
+        "deaths": 184,
+        "recovered": 2832
       },
       "back_2week": {
         "confirmed": 7577,
-        "deaths": 154,
-        "recovered": 2148
+        "deaths": 159,
+        "recovered": 2236
       },
       "latest": {
         "confirmed": 12750,
-        "deaths": 222,
-        "recovered": 3983
+        "deaths": 225,
+        "recovered": 4440
       }
     },
     "KGZ": {
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 15328,
-        "deaths": 243,
-        "recovered": 11827
+        "confirmed": 15542,
+        "deaths": 245,
+        "recovered": 12065
       },
       "back_2week": {
-        "confirmed": 13288,
-        "deaths": 230,
-        "recovered": 9160
+        "confirmed": 13822,
+        "deaths": 232,
+        "recovered": 9329
       },
       "latest": {
-        "confirmed": 16726,
-        "deaths": 264,
-        "recovered": 14360
+        "confirmed": 17015,
+        "deaths": 269,
+        "recovered": 14620
       }
     },
     "MCO": {
