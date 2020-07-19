@@ -373,7 +373,7 @@ var covid19_dataset_latest_totals = {
       },
       "back_2week": {
         "confirmed": 28410,
-        "deaths": 95,
+        "deaths": 96,
         "recovered": 23318
       },
       "latest": {
@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 13001,
+        "confirmed": 13115,
         "deaths": 352,
-        "recovered": 8208
+        "recovered": 8227
       },
       "back_2week": {
-        "confirmed": 12319,
-        "deaths": 353,
-        "recovered": 7848
+        "confirmed": 12440,
+        "deaths": 351,
+        "recovered": 7852
       },
       "latest": {
-        "confirmed": 13742,
+        "confirmed": 13855,
         "deaths": 358,
-        "recovered": 8725
+        "recovered": 8733
       }
     },
     "DEU": {
@@ -1148,19 +1148,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 18242,
-        "deaths": 996,
+        "confirmed": 18712,
+        "deaths": 1004,
         "recovered": 13124
       },
       "back_2week": {
-        "confirmed": 15070,
-        "deaths": 937,
-        "recovered": 10832
+        "confirmed": 15500,
+        "deaths": 946,
+        "recovered": 11181
       },
       "latest": {
-        "confirmed": 21948,
-        "deaths": 1057,
-        "recovered": 15430
+        "confirmed": 22549,
+        "deaths": 1068,
+        "recovered": 15744
       }
     },
     "ECU": {
@@ -1267,7 +1267,7 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 7120,
+        "confirmed": 7402,
         "deaths": 124,
         "recovered": 2430
       },
@@ -1277,8 +1277,8 @@ var covid19_dataset_latest_totals = {
         "recovered": 2430
       },
       "latest": {
-        "confirmed": 8803,
-        "deaths": 150,
+        "confirmed": 9147,
+        "deaths": 163,
         "recovered": 2430
       }
     },
@@ -1915,17 +1915,17 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 9448,
+        "confirmed": 9726,
         "deaths": 181,
         "recovered": 2733
       },
       "back_2week": {
-        "confirmed": 7188,
+        "confirmed": 7577,
         "deaths": 154,
         "recovered": 2148
       },
       "latest": {
-        "confirmed": 12062,
+        "confirmed": 12750,
         "deaths": 222,
         "recovered": 3983
       }
