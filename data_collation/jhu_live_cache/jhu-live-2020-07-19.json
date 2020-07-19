@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 56102,
+      "confirmed": 58138,
       "date": "2020-07-19",
-      "deaths": 2049,
-      "recovered": 17882
+      "deaths": 2106,
+      "recovered": 18200
     }
   },
   "Brazil": {
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 13335,
+          "confirmed": 14686,
           "date": "2020-07-19",
-          "deaths": 166,
-          "recovered": 3657
+          "deaths": 182,
+          "recovered": 3865
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 41006,
+          "confirmed": 43160,
           "date": "2020-07-19",
-          "deaths": 2107,
-          "recovered": 20336
+          "deaths": 2136,
+          "recovered": 22240
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 14172,
+          "confirmed": 14754,
           "date": "2020-07-19",
-          "deaths": 495,
-          "recovered": 8452
+          "deaths": 499,
+          "recovered": 8952
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 58917,
+          "confirmed": 60394,
           "date": "2020-07-19",
-          "deaths": 1402,
-          "recovered": 22047
+          "deaths": 1486,
+          "recovered": 23318
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 16592,
+          "confirmed": 17236,
           "date": "2020-07-19",
-          "deaths": 635,
-          "recovered": 8214
+          "deaths": 658,
+          "recovered": 8506
         }
       }
     }
@@ -1423,7 +1423,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 104921,
+          "confirmed": 107140,
           "date": "2020-07-19",
           "deaths": 1828,
           "recovered": 0
@@ -1591,9 +1591,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 183014,
+          "confirmed": 184122,
           "date": "2020-07-19",
-          "deaths": 2231,
+          "deaths": 2242,
           "recovered": 0
         }
       },
