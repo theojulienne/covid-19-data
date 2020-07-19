@@ -179,7 +179,8 @@ var covid19_dataset_country_kgz = {
     "2020-07-16",
     "2020-07-17",
     "2020-07-18",
-    "2020-07-19"
+    "2020-07-19",
+    "2020-07-20"
   ],
   "total": {
     "confirmed": [
@@ -360,7 +361,8 @@ var covid19_dataset_country_kgz = {
       11444,
       12282,
       12498,
-      13101
+      13101,
+      24606
     ],
     "deaths": [
       0,
@@ -540,7 +542,8 @@ var covid19_dataset_country_kgz = {
       149,
       165,
       167,
-      173
+      173,
+      900
     ],
     "recovered": [
       0,
@@ -720,7 +723,8 @@ var covid19_dataset_country_kgz = {
       3538,
       3712,
       3735,
-      3821
+      3821,
+      10704
     ]
   }
 };
