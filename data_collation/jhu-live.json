@@ -453,10 +453,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 51519,
+      "confirmed": 52855,
       "date": "2020-07-19",
-      "deaths": 971,
-      "recovered": 24607
+      "deaths": 981,
+      "recovered": 25094
     }
   },
   "Ecuador": {
@@ -519,10 +519,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13963,
+          "confirmed": 13989,
           "date": "2020-07-19",
           "deaths": 646,
-          "recovered": 12934
+          "recovered": 12951
         }
       },
       "Nordrhein-Westfalen": {
@@ -979,7 +979,7 @@
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 9763,
+          "confirmed": 9782,
           "date": "2020-07-19",
           "deaths": 1535,
           "recovered": 0
@@ -987,7 +987,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 11834,
+          "confirmed": 11886,
           "date": "2020-07-19",
           "deaths": 1305,
           "recovered": 0
@@ -1276,14 +1276,6 @@
           "deaths": 77,
           "recovered": 7528
         }
-      },
-      "Yamalo-Nenets Autonomous Okrug": {
-        "live": {
-          "confirmed": 9323,
-          "date": "2020-07-19",
-          "deaths": 60,
-          "recovered": 4154
-        }
       }
     }
   },
@@ -1507,9 +1499,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46193,
+          "confirmed": 56112,
           "date": "2020-07-19",
-          "deaths": 2000,
+          "deaths": 2383,
           "recovered": 0
         }
       },
@@ -1555,7 +1547,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 366363,
+          "confirmed": 366746,
           "date": "2020-07-19",
           "deaths": 30166,
           "recovered": 0
@@ -1619,7 +1611,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 14798,
+          "confirmed": 14878,
           "date": "2020-07-19",
           "deaths": 508,
           "recovered": 0
