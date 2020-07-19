@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 34462,
+      "confirmed": 34877,
       "date": "2020-07-19",
-      "deaths": 631,
-      "recovered": 23123
+      "deaths": 641,
+      "recovered": 23294
     }
   },
   "Austria": {
@@ -1681,7 +1681,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 16186,
+      "confirmed": 16429,
       "date": "2020-07-19",
       "deaths": 83,
       "recovered": 9127
