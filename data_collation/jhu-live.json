@@ -488,7 +488,7 @@
       "confirmed": 11508,
       "date": "2020-07-19",
       "deaths": 324,
-      "recovered": 6560
+      "recovered": 6632
     }
   },
   "France": {
@@ -519,7 +519,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 11371,
+          "confirmed": 11386,
           "date": "2020-07-19",
           "deaths": 514,
           "recovered": 10422
@@ -527,7 +527,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 13952,
+          "confirmed": 13963,
           "date": "2020-07-19",
           "deaths": 646,
           "recovered": 12934
@@ -535,7 +535,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 45910,
+          "confirmed": 46024,
           "date": "2020-07-19",
           "deaths": 1712,
           "recovered": 41904
@@ -821,10 +821,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 68703,
+      "confirmed": 70339,
       "date": "2020-07-19",
       "deaths": 375,
-      "recovered": 40256
+      "recovered": 43029
     }
   },
   "Kenya": {
