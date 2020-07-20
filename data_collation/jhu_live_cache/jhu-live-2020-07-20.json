@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 36422,
+      "confirmed": 36936,
       "date": "2020-07-20",
       "deaths": 128,
-      "recovered": 32372
+      "recovered": 32965
     }
   },
   "Bangladesh": {
@@ -319,10 +319,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39522,
+          "confirmed": 39551,
           "date": "2020-07-20",
           "deaths": 2795,
-          "recovered": 34975
+          "recovered": 35014
         }
       },
       "Quebec": {
@@ -485,10 +485,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 203332,
+      "confirmed": 203242,
       "date": "2020-07-20",
-      "deaths": 30070,
-      "recovered": 71936
+      "deaths": 30069,
+      "recovered": 71494
     }
   },
   "Germany": {
@@ -1136,14 +1136,6 @@
           "deaths": 874,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "live": {
-          "confirmed": 15839,
-          "date": "2020-07-20",
-          "deaths": 770,
-          "recovered": 241955
-        }
       }
     }
   },
@@ -1292,7 +1284,7 @@
       "confirmed": 21253,
       "date": "2020-07-20",
       "deaths": 482,
-      "recovered": 15913
+      "recovered": 0
     }
   },
   "Singapore": {
@@ -1351,6 +1343,14 @@
           "date": "2020-07-20",
           "deaths": 5678,
           "recovered": 26203
+        }
+      },
+      "Galicia": {
+        "live": {
+          "confirmed": 9510,
+          "date": "2020-07-20",
+          "deaths": 619,
+          "recovered": 9204
         }
       },
       "Madrid": {
@@ -1427,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 271446,
+          "confirmed": 271773,
           "date": "2020-07-20",
-          "deaths": 6083,
+          "deaths": 6084,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 190751,
+          "confirmed": 193493,
           "date": "2020-07-20",
-          "deaths": 2282,
+          "deaths": 2297,
           "recovered": 0
         }
       },
