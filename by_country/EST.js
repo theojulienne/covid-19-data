@@ -363,6 +363,7 @@ var covid19_dataset_country_est = {
       2016,
       2016,
       2020,
+      2021,
       2021
     ],
     "deaths": [
@@ -499,6 +500,7 @@ var covid19_dataset_country_est = {
       68,
       68,
       68,
+      69,
       69,
       69,
       69,
@@ -725,6 +727,7 @@ var covid19_dataset_country_est = {
       1901,
       1904,
       1910,
+      1912,
       1912
     ]
   }
