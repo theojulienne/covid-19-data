@@ -73,7 +73,7 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 63706,
+      "confirmed": 63893,
       "date": "2020-07-20",
       "deaths": 9800,
       "recovered": 17289
@@ -479,8 +479,8 @@
     "live": {
       "confirmed": 11846,
       "date": "2020-07-20",
-      "deaths": 335,
-      "recovered": 6705
+      "deaths": 344,
+      "recovered": 6721
     }
   },
   "Ethiopia": {
