@@ -483,14 +483,6 @@
       "recovered": 6831
     }
   },
-  "Ethiopia": {
-    "live": {
-      "confirmed": 9503,
-      "date": "2020-07-20",
-      "deaths": 167,
-      "recovered": 2430
-    }
-  },
   "France": {
     "live": {
       "confirmed": 201281,
@@ -733,10 +725,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 92530,
+      "confirmed": 94693,
       "date": "2020-07-20",
-      "deaths": 3781,
-      "recovered": 60528
+      "deaths": 3869,
+      "recovered": 62836
     }
   },
   "Ireland": {
@@ -813,8 +805,8 @@
         "live": {
           "confirmed": 9589,
           "date": "2020-07-20",
-          "deaths": 326,
-          "recovered": 6909
+          "deaths": 327,
+          "recovered": 7057
         }
       }
     }
@@ -1499,9 +1491,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46684,
+          "confirmed": 56456,
           "date": "2020-07-20",
-          "deaths": 2001,
+          "deaths": 2391,
           "recovered": 0
         }
       },
@@ -1557,7 +1549,7 @@
         "live": {
           "confirmed": 17379,
           "date": "2020-07-20",
-          "deaths": 170,
+          "deaths": 179,
           "recovered": 0
         }
       },
