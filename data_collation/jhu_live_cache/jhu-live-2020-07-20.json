@@ -429,10 +429,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 14119,
+      "confirmed": 14312,
       "date": "2020-07-20",
       "deaths": 92,
-      "recovered": 8366
+      "recovered": 8659
     }
   },
   "Czechia": {
@@ -469,10 +469,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 87775,
+      "confirmed": 88402,
       "date": "2020-07-20",
-      "deaths": 4302,
-      "recovered": 28380
+      "deaths": 4352,
+      "recovered": 28924
     }
   },
   "El Salvador": {
@@ -741,10 +741,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 51676,
+      "confirmed": 52003,
       "date": "2020-07-20",
       "deaths": 415,
-      "recovered": 22060
+      "recovered": 22154
     }
   },
   "Italy": {
@@ -1435,9 +1435,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 41848,
+          "confirmed": 41982,
           "date": "2020-07-20",
-          "deaths": 3888,
+          "deaths": 3897,
           "recovered": 0
         }
       },
@@ -1459,9 +1459,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 48622,
+          "confirmed": 49580,
           "date": "2020-07-20",
-          "deaths": 788,
+          "deaths": 790,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 84749,
+          "confirmed": 84932,
           "date": "2020-07-20",
-          "deaths": 6061,
+          "deaths": 6063,
           "recovered": 0
         }
       },
