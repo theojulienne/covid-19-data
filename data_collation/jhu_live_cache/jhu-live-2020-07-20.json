@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 58138,
+      "confirmed": 59582,
       "date": "2020-07-20",
-      "deaths": 2106,
-      "recovered": 18200
+      "deaths": 2151,
+      "recovered": 18553
     }
   },
   "Brazil": {
@@ -825,10 +825,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13745,
+      "confirmed": 13771,
       "date": "2020-07-20",
-      "deaths": 295,
-      "recovered": 12556
+      "deaths": 296,
+      "recovered": 12572
     }
   },
   "Kuwait": {
