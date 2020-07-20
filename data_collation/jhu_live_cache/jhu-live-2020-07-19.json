@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 122524,
+      "confirmed": 126755,
       "date": "2020-07-19",
-      "deaths": 2246,
+      "deaths": 2260,
       "recovered": 54105
     }
   },
@@ -437,7 +437,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 13902,
+      "confirmed": 13945,
       "date": "2020-07-19",
       "deaths": 359,
       "recovered": 8761
@@ -841,10 +841,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 24606,
+      "confirmed": 26532,
       "date": "2020-07-19",
-      "deaths": 900,
-      "recovered": 10704
+      "deaths": 1003,
+      "recovered": 12328
     }
   },
   "Mexico": {
@@ -993,10 +993,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 36107,
+      "confirmed": 36663,
       "date": "2020-07-19",
-      "deaths": 778,
-      "recovered": 14938
+      "deaths": 789,
+      "recovered": 15105
     }
   },
   "Oman": {
@@ -1135,10 +1135,10 @@
       },
       "Unknown": {
         "live": {
-          "confirmed": 11749,
+          "confirmed": 15839,
           "date": "2020-07-19",
-          "deaths": 581,
-          "recovered": 238086
+          "deaths": 770,
+          "recovered": 241955
         }
       }
     }
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 11483,
+      "confirmed": 11891,
       "date": "2020-07-19",
-      "deaths": 110,
+      "deaths": 112,
       "recovered": 3972
     }
   }
