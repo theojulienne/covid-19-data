@@ -118,7 +118,7 @@
           "confirmed": 91389,
           "date": "2020-07-21",
           "deaths": 3146,
-          "recovered": 76009
+          "recovered": 76723
         }
       },
       "Bahia": {
@@ -142,7 +142,7 @@
           "confirmed": 84287,
           "date": "2020-07-21",
           "deaths": 1112,
-          "recovered": 68980
+          "recovered": 69693
         }
       },
       "Espirito Santo": {
@@ -158,7 +158,7 @@
           "confirmed": 40772,
           "date": "2020-07-21",
           "deaths": 1106,
-          "recovered": 12904
+          "recovered": 12934
         }
       },
       "Maranhao": {
@@ -166,7 +166,7 @@
           "confirmed": 106906,
           "date": "2020-07-21",
           "deaths": 2740,
-          "recovered": 90957
+          "recovered": 91442
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 35639,
           "date": "2020-07-21",
           "deaths": 1384,
-          "recovered": 16726
+          "recovered": 17727
         }
       },
       "Mato Grosso do Sul": {
@@ -206,7 +206,7 @@
           "confirmed": 67680,
           "date": "2020-07-21",
           "deaths": 1517,
-          "recovered": 24437
+          "recovered": 24486
         }
       },
       "Parana": {
@@ -214,7 +214,7 @@
           "confirmed": 55909,
           "date": "2020-07-21",
           "deaths": 1357,
-          "recovered": 18419
+          "recovered": 19268
         }
       },
       "Pernambuco": {
@@ -230,7 +230,7 @@
           "confirmed": 39606,
           "date": "2020-07-21",
           "deaths": 1118,
-          "recovered": 37605
+          "recovered": 38256
         }
       },
       "Rio Grande do Norte": {
@@ -262,7 +262,7 @@
           "confirmed": 29801,
           "date": "2020-07-21",
           "deaths": 710,
-          "recovered": 17983
+          "recovered": 18142
         }
       },
       "Roraima": {
@@ -278,7 +278,7 @@
           "confirmed": 54414,
           "date": "2020-07-21",
           "deaths": 694,
-          "recovered": 42569
+          "recovered": 45061
         }
       },
       "Sao Paulo": {
@@ -529,7 +529,7 @@
         "live": {
           "confirmed": 14059,
           "date": "2020-07-21",
-          "deaths": 647,
+          "deaths": 648,
           "recovered": 13111
         }
       },
@@ -725,10 +725,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 276202,
+      "confirmed": 278827,
       "date": "2020-07-21",
-      "deaths": 14405,
-      "recovered": 240087
+      "deaths": 14634,
+      "recovered": 242351
     }
   },
   "Iraq": {
@@ -814,7 +814,7 @@
           "confirmed": 9826,
           "date": "2020-07-21",
           "deaths": 327,
-          "recovered": 7057
+          "recovered": 7312
         }
       }
     }
@@ -1181,10 +1181,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 38139,
+      "confirmed": 39133,
       "date": "2020-07-21",
-      "deaths": 2038,
-      "recovered": 22747
+      "deaths": 2074,
+      "recovered": 24454
     }
   },
   "Russia": {
@@ -1409,9 +1409,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 33634,
+      "confirmed": 33742,
       "date": "2020-07-21",
-      "deaths": 1971,
+      "deaths": 1972,
       "recovered": 30300
     }
   },
