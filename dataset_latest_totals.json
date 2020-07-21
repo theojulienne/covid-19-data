@@ -3386,10 +3386,10 @@
         "tested": 35390066
       },
       "latest": {
-        "confirmed": 3743256,
-        "deaths": 132727,
-        "recovered": 1130735,
-        "tested": 45495701
+        "confirmed": 3744233,
+        "deaths": 132730,
+        "recovered": 1130785,
+        "tested": 45498224
       },
       "states": {
         "AK": {
@@ -3504,11 +3504,11 @@
           "tested": 249353
         },
         "KY": {
-          "confirmed": 22184,
-          "deaths": 667,
-          "hospitalized": 2875,
-          "recovered": 6824,
-          "tested": 490201
+          "confirmed": 23161,
+          "deaths": 670,
+          "hospitalized": 2880,
+          "recovered": 6874,
+          "tested": 492724
         },
         "LA": {
           "confirmed": 91706,
