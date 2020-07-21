@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 66213,
+      "confirmed": 66348,
       "date": "2020-07-21",
-      "deaths": 503,
-      "recovered": 58290
+      "deaths": 507,
+      "recovered": 58592
     }
   },
   "Belgium": {
@@ -437,7 +437,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 14098,
+      "confirmed": 14152,
       "date": "2020-07-21",
       "deaths": 359,
       "recovered": 8836
@@ -477,10 +477,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 12207,
+      "confirmed": 12582,
       "date": "2020-07-21",
       "deaths": 352,
-      "recovered": 6872
+      "recovered": 6965
     }
   },
   "Ethiopia": {
@@ -511,7 +511,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 49872,
+          "confirmed": 49880,
           "date": "2020-07-21",
           "deaths": 2617,
           "recovered": 46300
@@ -1165,18 +1165,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 48771,
+      "confirmed": 48898,
       "date": "2020-07-21",
-      "deaths": 1691,
-      "recovered": 33547
+      "deaths": 1697,
+      "recovered": 33769
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 107037,
+      "confirmed": 107430,
       "date": "2020-07-21",
-      "deaths": 159,
-      "recovered": 103782
+      "deaths": 160,
+      "recovered": 104191
     }
   },
   "Romania": {
@@ -1289,17 +1289,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 253349,
+      "confirmed": 255825,
       "date": "2020-07-21",
-      "deaths": 2523,
-      "recovered": 203259
+      "deaths": 2557,
+      "recovered": 207259
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 21253,
+      "confirmed": 21605,
       "date": "2020-07-21",
-      "deaths": 482,
+      "deaths": 491,
       "recovered": 0
     }
   },
@@ -1673,9 +1673,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 17590,
+      "confirmed": 17755,
       "date": "2020-07-21",
-      "deaths": 92,
+      "deaths": 93,
       "recovered": 9463
     }
   },
