@@ -853,10 +853,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 27143,
+      "confirmed": 28251,
       "date": "2020-07-21",
-      "deaths": 1037,
-      "recovered": 13109
+      "deaths": 1079,
+      "recovered": 14776
     }
   },
   "Mexico": {
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 17149,
+      "confirmed": 17314,
       "date": "2020-07-21",
-      "deaths": 90,
-      "recovered": 9387
+      "deaths": 91,
+      "recovered": 9463
     }
   },
   "Venezuela": {
