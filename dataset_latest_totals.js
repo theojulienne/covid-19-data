@@ -3423,7 +3423,6 @@ var covid19_dataset_latest_totals = {
         "CA": {
           "confirmed": 384692,
           "deaths": 7685,
-          "recovered": 0,
           "tested": 6286852
         },
         "CO": {

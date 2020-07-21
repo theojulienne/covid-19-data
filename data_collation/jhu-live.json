@@ -379,42 +379,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 15647,
+          "confirmed": 16840,
           "date": "2020-07-21",
-          "deaths": 193,
-          "recovered": 4348
+          "deaths": 203,
+          "recovered": 4571
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 43813,
+          "confirmed": 44704,
           "date": "2020-07-21",
-          "deaths": 2176,
-          "recovered": 24428
+          "deaths": 2208,
+          "recovered": 25686
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 14972,
+          "confirmed": 15208,
           "date": "2020-07-21",
-          "deaths": 502,
-          "recovered": 9507
+          "deaths": 506,
+          "recovered": 9792
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 63265,
+          "confirmed": 65594,
           "date": "2020-07-21",
-          "deaths": 1555,
-          "recovered": 24447
+          "deaths": 1627,
+          "recovered": 25614
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 17457,
+          "confirmed": 17914,
           "date": "2020-07-21",
-          "deaths": 668,
-          "recovered": 8923
+          "deaths": 675,
+          "recovered": 9203
         }
       }
     }
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 193493,
+          "confirmed": 194883,
           "date": "2020-07-21",
-          "deaths": 2297,
+          "deaths": 2337,
           "recovered": 0
         }
       },
