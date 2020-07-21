@@ -365,6 +365,7 @@ var covid19_dataset_country_isl = {
       1914,
       1916,
       1922,
+      1930,
       1930
     ],
     "deaths": [
@@ -457,6 +458,7 @@ var covid19_dataset_country_isl = {
       9,
       9,
       9,
+      10,
       10,
       10,
       10,
@@ -729,6 +731,7 @@ var covid19_dataset_country_isl = {
       1892,
       1895,
       1902,
+      1907,
       1907
     ]
   }

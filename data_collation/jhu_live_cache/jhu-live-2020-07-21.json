@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 63893,
+      "confirmed": 64094,
       "date": "2020-07-21",
-      "deaths": 9800,
-      "recovered": 17289
+      "deaths": 9805,
+      "recovered": 17321
     }
   },
   "Bolivia": {
@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39551,
+          "confirmed": 39553,
           "date": "2020-07-21",
           "deaths": 2795,
           "recovered": 35014
@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 33835,
+      "confirmed": 34611,
       "date": "2020-07-21",
-      "deaths": 900,
-      "recovered": 3801
+      "deaths": 935,
+      "recovered": 3905
     }
   },
   "India": {
@@ -1023,42 +1023,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 11436,
+          "confirmed": 11441,
           "date": "2020-07-21",
-          "deaths": 132,
-          "recovered": 8688
+          "deaths": 133,
+          "recovered": 9061
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 14599,
+          "confirmed": 14625,
           "date": "2020-07-21",
-          "deaths": 159,
-          "recovered": 11836
+          "deaths": 160,
+          "recovered": 11912
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 32086,
+          "confirmed": 32243,
           "date": "2020-07-21",
-          "deaths": 1142,
-          "recovered": 25006
+          "deaths": 1147,
+          "recovered": 25367
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 90191,
+          "confirmed": 90444,
           "date": "2020-07-21",
-          "deaths": 2083,
-          "recovered": 65689
+          "deaths": 2090,
+          "recovered": 66021
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 113007,
+          "confirmed": 113553,
           "date": "2020-07-21",
-          "deaths": 1993,
-          "recovered": 92037
+          "deaths": 2019,
+          "recovered": 92934
         }
       }
     }
