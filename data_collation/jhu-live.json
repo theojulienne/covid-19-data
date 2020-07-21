@@ -545,10 +545,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 28430,
+      "confirmed": 28989,
       "date": "2020-07-21",
       "deaths": 153,
-      "recovered": 24901
+      "recovered": 25331
     }
   },
   "Guatemala": {
@@ -977,17 +977,17 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 17844,
+      "confirmed": 17994,
       "date": "2020-07-21",
       "deaths": 40,
-      "recovered": 11868
+      "recovered": 12477
     }
   },
   "Netherlands": {
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 9782,
+          "confirmed": 9805,
           "date": "2020-07-21",
           "deaths": 1535,
           "recovered": 0
@@ -995,7 +995,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 11886,
+          "confirmed": 11959,
           "date": "2020-07-21",
           "deaths": 1305,
           "recovered": 0
