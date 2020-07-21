@@ -733,10 +733,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 94693,
+      "confirmed": 97159,
       "date": "2020-07-21",
-      "deaths": 3869,
-      "recovered": 62836
+      "deaths": 3950,
+      "recovered": 64950
     }
   },
   "Ireland": {
@@ -961,9 +961,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 21115,
+      "confirmed": 21442,
       "date": "2020-07-21",
-      "deaths": 697,
+      "deaths": 707,
       "recovered": 14599
     }
   },
@@ -1499,9 +1499,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46951,
+          "confirmed": 47381,
           "date": "2020-07-21",
-          "deaths": 2007,
+          "deaths": 2016,
           "recovered": 0
         }
       },
