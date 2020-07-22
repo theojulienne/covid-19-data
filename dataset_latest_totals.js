@@ -2950,18 +2950,18 @@ var covid19_dataset_latest_totals = {
     "SLV": {
       "back_1week": {
         "confirmed": 9978,
-        "deaths": 267,
-        "recovered": 5732
+        "deaths": 278,
+        "recovered": 5919
       },
       "back_2week": {
         "confirmed": 8027,
-        "deaths": 223,
-        "recovered": 4730
+        "deaths": 229,
+        "recovered": 4929
       },
       "latest": {
         "confirmed": 12207,
-        "deaths": 344,
-        "recovered": 6831
+        "deaths": 352,
+        "recovered": 6965
       }
     },
     "SMR": {
