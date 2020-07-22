@@ -1165,19 +1165,19 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 68459,
-        "deaths": 5063,
-        "recovered": 30369
+        "confirmed": 69570,
+        "deaths": 5130,
+        "recovered": 30484
       },
       "back_2week": {
-        "confirmed": 62380,
-        "deaths": 4821,
-        "recovered": 28872
+        "confirmed": 63245,
+        "deaths": 4873,
+        "recovered": 29071
       },
       "latest": {
-        "confirmed": 74620,
-        "deaths": 5318,
-        "recovered": 31955
+        "confirmed": 76217,
+        "deaths": 5366,
+        "recovered": 32725
       }
     },
     "EGY": {
@@ -1495,14 +1495,14 @@
         "recovered": 21067
       },
       "back_2week": {
-        "confirmed": 21077,
+        "confirmed": 21968,
         "deaths": 129,
-        "recovered": 16070
+        "recovered": 17156
       },
       "latest": {
-        "confirmed": 28430,
+        "confirmed": 28989,
         "deaths": 153,
-        "recovered": 24901
+        "recovered": 25331
       }
     },
     "GIN": {
@@ -1796,19 +1796,19 @@
     },
     "ISL": {
       "back_1week": {
-        "confirmed": 1900,
+        "confirmed": 1833,
         "deaths": 10,
-        "recovered": 1871
+        "recovered": 1801
       },
       "back_2week": {
-        "confirmed": 1866,
+        "confirmed": 1832,
         "deaths": 10,
-        "recovered": 1840
+        "recovered": 1799
       },
       "latest": {
-        "confirmed": 1930,
+        "confirmed": 1839,
         "deaths": 10,
-        "recovered": 1907
+        "recovered": 1820
       }
     },
     "ISR": {

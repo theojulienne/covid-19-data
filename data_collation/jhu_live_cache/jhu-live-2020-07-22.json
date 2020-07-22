@@ -322,7 +322,7 @@
           "confirmed": 39799,
           "date": "2020-07-22",
           "deaths": 2798,
-          "recovered": 35201
+          "recovered": 35205
         }
       },
       "Quebec": {
@@ -461,10 +461,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 76217,
+      "confirmed": 77257,
       "date": "2020-07-22",
-      "deaths": 5366,
-      "recovered": 32725
+      "deaths": 5418,
+      "recovered": 33125
     }
   },
   "Egypt": {
@@ -545,10 +545,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 28989,
+      "confirmed": 29672,
       "date": "2020-07-22",
       "deaths": 153,
-      "recovered": 25331
+      "recovered": 26090
     }
   },
   "Guatemala": {
@@ -1427,7 +1427,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 112836,
+          "confirmed": 114533,
           "date": "2020-07-22",
           "deaths": 1947,
           "recovered": 0
@@ -1443,9 +1443,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 42018,
+          "confirmed": 42136,
           "date": "2020-07-22",
-          "deaths": 3897,
+          "deaths": 3898,
           "recovered": 0
         }
       },
@@ -1467,9 +1467,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 50730,
+          "confirmed": 51653,
           "date": "2020-07-22",
-          "deaths": 810,
+          "deaths": 826,
           "recovered": 0
         }
       },
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 18324,
+      "confirmed": 18379,
       "date": "2020-07-22",
-      "deaths": 97,
-      "recovered": 9554
+      "deaths": 98,
+      "recovered": 9872
     }
   },
   "Venezuela": {
