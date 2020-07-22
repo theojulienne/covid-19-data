@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 33476,
+        "confirmed": 34078,
         "deaths": 111,
-        "recovered": 29099
+        "recovered": 29753
       },
       "back_2week": {
-        "confirmed": 29821,
+        "confirmed": 30321,
         "deaths": 98,
-        "recovered": 25178
+        "recovered": 25570
       },
       "latest": {
-        "confirmed": 36936,
+        "confirmed": 37316,
         "deaths": 129,
-        "recovered": 32965
+        "recovered": 33455
       }
     },
     "BHS": {
@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 39718,
-          "deaths": 2795
+          "deaths": 2798
         },
         "Prince Edward Island": {
           "confirmed": 36,
@@ -690,9 +690,9 @@
         "recovered": 79725
       },
       "latest": {
-        "confirmed": 85314,
-        "deaths": 4644,
-        "recovered": 80018
+        "confirmed": 85622,
+        "deaths": 4646,
+        "recovered": 80162
       },
       "states": {
         "Anhui": {
@@ -703,7 +703,7 @@
         "Beijing": {
           "confirmed": 929,
           "deaths": 9,
-          "recovered": 752
+          "recovered": 816
         },
         "Chongqing": {
           "confirmed": 583,
@@ -711,7 +711,7 @@
           "recovered": 576
         },
         "Fujian": {
-          "confirmed": 363,
+          "confirmed": 364,
           "deaths": 1,
           "recovered": 361
         },
@@ -721,12 +721,12 @@
           "recovered": 165
         },
         "Guangdong": {
-          "confirmed": 1650,
+          "confirmed": 1659,
           "deaths": 8,
-          "recovered": 1636
+          "recovered": 1637
         },
         "Guangxi": {
-          "confirmed": 254,
+          "confirmed": 255,
           "deaths": 2,
           "recovered": 252
         },
@@ -743,7 +743,7 @@
         "Hebei": {
           "confirmed": 349,
           "deaths": 6,
-          "recovered": 340
+          "recovered": 341
         },
         "Heilongjiang": {
           "confirmed": 947,
@@ -756,9 +756,9 @@
           "recovered": 1254
         },
         "Hong Kong": {
-          "confirmed": 1655,
-          "deaths": 10,
-          "recovered": 1254
+          "confirmed": 1885,
+          "deaths": 12,
+          "recovered": 1302
         },
         "Hubei": {
           "confirmed": 68135,
@@ -793,12 +793,12 @@
         "Liaoning": {
           "confirmed": 164,
           "deaths": 2,
-          "recovered": 150
+          "recovered": 156
         },
         "Macau": {
           "confirmed": 46,
           "deaths": 0,
-          "recovered": 45
+          "recovered": 46
         },
         "Ningxia": {
           "confirmed": 75,
@@ -811,19 +811,19 @@
           "recovered": 18
         },
         "Shaanxi": {
-          "confirmed": 321,
+          "confirmed": 322,
           "deaths": 3,
-          "recovered": 315
+          "recovered": 316
         },
         "Shandong": {
-          "confirmed": 793,
+          "confirmed": 798,
           "deaths": 7,
           "recovered": 785
         },
         "Shanghai": {
-          "confirmed": 732,
+          "confirmed": 735,
           "deaths": 7,
-          "recovered": 691
+          "recovered": 708
         },
         "Shanxi": {
           "confirmed": 201,
@@ -831,9 +831,9 @@
           "recovered": 198
         },
         "Sichuan": {
-          "confirmed": 599,
+          "confirmed": 603,
           "deaths": 3,
-          "recovered": 590
+          "recovered": 593
         },
         "Tianjin": {
           "confirmed": 203,
@@ -846,14 +846,14 @@
           "recovered": 1
         },
         "Xinjiang": {
-          "confirmed": 77,
+          "confirmed": 131,
           "deaths": 3,
           "recovered": 73
         },
         "Yunnan": {
           "confirmed": 188,
           "deaths": 2,
-          "recovered": 183
+          "recovered": 185
         },
         "Zhejiang": {
           "confirmed": 1270,
@@ -3839,19 +3839,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 287796,
-        "deaths": 4172,
-        "recovered": 138241
+        "confirmed": 298292,
+        "deaths": 4346,
+        "recovered": 146279
       },
       "back_2week": {
-        "confirmed": 205721,
-        "deaths": 3310,
-        "recovered": 97848
+        "confirmed": 215855,
+        "deaths": 3502,
+        "recovered": 102299
       },
       "latest": {
-        "confirmed": 373628,
-        "deaths": 5173,
-        "recovered": 194865
+        "confirmed": 381798,
+        "deaths": 5368,
+        "recovered": 208144
       }
     },
     "ZMB": {
