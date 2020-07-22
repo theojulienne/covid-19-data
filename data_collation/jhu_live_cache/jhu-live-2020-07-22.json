@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 136118,
       "date": "2020-07-22",
-      "deaths": 2490,
-      "recovered": 58598
+      "deaths": 2506,
+      "recovered": 60531
     }
   },
   "Armenia": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 28242,
+      "confirmed": 28633,
       "date": "2020-07-22",
-      "deaths": 376,
-      "recovered": 19939
+      "deaths": 385,
+      "recovered": 20443
     }
   },
   "Bahrain": {
@@ -322,7 +322,7 @@
           "confirmed": 39718,
           "date": "2020-07-22",
           "deaths": 2798,
-          "recovered": 35096
+          "recovered": 35097
         }
       },
       "Quebec": {
@@ -814,7 +814,7 @@
           "confirmed": 10064,
           "date": "2020-07-22",
           "deaths": 327,
-          "recovered": 7312
+          "recovered": 7513
         }
       }
     }
@@ -829,10 +829,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 14168,
+      "confirmed": 14805,
       "date": "2020-07-22",
-      "deaths": 250,
-      "recovered": 6258
+      "deaths": 260,
+      "recovered": 6757
     }
   },
   "Korea, South": {
@@ -845,10 +845,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 60434,
+      "confirmed": 61185,
       "date": "2020-07-22",
-      "deaths": 412,
-      "recovered": 50919
+      "deaths": 417,
+      "recovered": 51520
     }
   },
   "Kyrgyzstan": {
@@ -1297,17 +1297,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 255825,
+      "confirmed": 258156,
       "date": "2020-07-22",
-      "deaths": 2557,
-      "recovered": 207259
+      "deaths": 2601,
+      "recovered": 210398
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 21605,
+      "confirmed": 22031,
       "date": "2020-07-22",
-      "deaths": 491,
+      "deaths": 499,
       "recovered": 0
     }
   },
@@ -1507,9 +1507,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 47381,
+          "confirmed": 47704,
           "date": "2020-07-22",
-          "deaths": 2016,
+          "deaths": 2020,
           "recovered": 0
         }
       },
