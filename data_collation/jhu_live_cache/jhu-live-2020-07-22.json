@@ -118,7 +118,7 @@
           "confirmed": 92164,
           "date": "2020-07-22",
           "deaths": 3169,
-          "recovered": 76723
+          "recovered": 77394
         }
       },
       "Bahia": {
@@ -142,7 +142,7 @@
           "confirmed": 86076,
           "date": "2020-07-22",
           "deaths": 1158,
-          "recovered": 71570
+          "recovered": 71563
         }
       },
       "Espirito Santo": {
@@ -158,7 +158,7 @@
           "confirmed": 43794,
           "date": "2020-07-22",
           "deaths": 1154,
-          "recovered": 14529
+          "recovered": 14815
         }
       },
       "Maranhao": {
@@ -166,7 +166,7 @@
           "confirmed": 108154,
           "date": "2020-07-22",
           "deaths": 2778,
-          "recovered": 91442
+          "recovered": 92854
         }
       },
       "Mato Grosso": {
@@ -174,7 +174,7 @@
           "confirmed": 37077,
           "date": "2020-07-22",
           "deaths": 1400,
-          "recovered": 17727
+          "recovered": 19196
         }
       },
       "Mato Grosso do Sul": {
@@ -222,7 +222,7 @@
           "confirmed": 80441,
           "date": "2020-07-22",
           "deaths": 6089,
-          "recovered": 56615
+          "recovered": 58821
         }
       },
       "Piaui": {
@@ -230,7 +230,7 @@
           "confirmed": 40276,
           "date": "2020-07-22",
           "deaths": 1140,
-          "recovered": 38256
+          "recovered": 39764
         }
       },
       "Rio Grande do Norte": {
@@ -270,7 +270,7 @@
           "confirmed": 25985,
           "date": "2020-07-22",
           "deaths": 435,
-          "recovered": 8455
+          "recovered": 8525
         }
       },
       "Santa Catarina": {
@@ -294,7 +294,7 @@
           "confirmed": 47110,
           "date": "2020-07-22",
           "deaths": 1182,
-          "recovered": 25099
+          "recovered": 25527
         }
       },
       "Tocantins": {
@@ -445,10 +445,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 13302,
+      "confirmed": 13350,
       "date": "2020-07-22",
       "deaths": 611,
-      "recovered": 12261
+      "recovered": 12274
     }
   },
   "Dominican Republic": {
@@ -511,7 +511,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 49954,
+          "confirmed": 49958,
           "date": "2020-07-22",
           "deaths": 2617,
           "recovered": 46400
@@ -995,7 +995,7 @@
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 9819,
+          "confirmed": 9845,
           "date": "2020-07-22",
           "deaths": 1535,
           "recovered": 0
@@ -1003,9 +1003,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 12039,
+          "confirmed": 12112,
           "date": "2020-07-22",
-          "deaths": 1304,
+          "deaths": 1306,
           "recovered": 0
         }
       }
@@ -1181,10 +1181,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 107430,
+      "confirmed": 107871,
       "date": "2020-07-22",
-      "deaths": 160,
-      "recovered": 104191
+      "deaths": 163,
+      "recovered": 104641
     }
   },
   "Romania": {
@@ -1399,7 +1399,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 22780,
+          "confirmed": 22880,
           "date": "2020-07-22",
           "deaths": 2377,
           "recovered": 0
@@ -1407,9 +1407,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 17500,
+          "confirmed": 17571,
           "date": "2020-07-22",
-          "deaths": 809,
+          "deaths": 822,
           "recovered": 0
         }
       }
@@ -1420,7 +1420,7 @@
       "confirmed": 33883,
       "date": "2020-07-22",
       "deaths": 1972,
-      "recovered": 30300
+      "recovered": 30500
     }
   },
   "Turkey": {
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 18171,
+      "confirmed": 18324,
       "date": "2020-07-22",
-      "deaths": 96,
-      "recovered": 9521
+      "deaths": 97,
+      "recovered": 9554
     }
   },
   "Venezuela": {
