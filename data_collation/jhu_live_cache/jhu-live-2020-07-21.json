@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 130774,
+      "confirmed": 136118,
       "date": "2020-07-21",
-      "deaths": 2373,
-      "recovered": 55913
+      "deaths": 2490,
+      "recovered": 58598
     }
   },
   "Armenia": {
@@ -1013,10 +1013,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 37225,
+      "confirmed": 37801,
       "date": "2020-07-21",
-      "deaths": 801,
-      "recovered": 15333
+      "deaths": 805,
+      "recovered": 15677
     }
   },
   "Oman": {
@@ -1435,9 +1435,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 288032,
+          "confirmed": 290955,
           "date": "2020-07-21",
-          "deaths": 6199,
+          "deaths": 6223,
           "recovered": 0
         }
       },
