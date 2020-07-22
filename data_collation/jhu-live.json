@@ -1499,7 +1499,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 12637,
+          "confirmed": 12812,
           "date": "2020-07-22",
           "deaths": 504,
           "recovered": 0
@@ -1523,9 +1523,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 38902,
+          "confirmed": 39164,
           "date": "2020-07-22",
-          "deaths": 3901,
+          "deaths": 3905,
           "recovered": 0
         }
       },
@@ -1547,9 +1547,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 119311,
+          "confirmed": 119533,
           "date": "2020-07-22",
-          "deaths": 10585,
+          "deaths": 10594,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 25260,
+          "confirmed": 25751,
           "date": "2020-07-22",
-          "deaths": 906,
+          "deaths": 910,
           "recovered": 0
         }
       },
@@ -1645,10 +1645,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 57498,
+      "confirmed": 57734,
       "date": "2020-07-22",
-      "deaths": 341,
-      "recovered": 49964
+      "deaths": 342,
+      "recovered": 50354
     }
   },
   "United Kingdom": {
