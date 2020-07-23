@@ -1013,10 +1013,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 71547,
+      "confirmed": 72646,
       "date": "2020-07-23",
-      "deaths": 349,
-      "recovered": 47922
+      "deaths": 355,
+      "recovered": 51349
     }
   },
   "Pakistan": {
@@ -1181,10 +1181,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 40163,
+      "confirmed": 41275,
       "date": "2020-07-23",
-      "deaths": 2101,
-      "recovered": 24663
+      "deaths": 2126,
+      "recovered": 24862
     }
   },
   "Russia": {
@@ -1409,7 +1409,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 33883,
+      "confirmed": 34000,
       "date": "2020-07-23",
       "deaths": 1972,
       "recovered": 30500
