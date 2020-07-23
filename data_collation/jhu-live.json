@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 62357,
+      "confirmed": 64135,
       "date": "2020-07-23",
-      "deaths": 2273,
-      "recovered": 19290
+      "deaths": 2328,
+      "recovered": 19721
     }
   },
   "Brazil": {
@@ -379,42 +379,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 18690,
+          "confirmed": 19751,
           "date": "2020-07-23",
-          "deaths": 222,
-          "recovered": 4870
+          "deaths": 239,
+          "recovered": 5070
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 45486,
+          "confirmed": 45948,
           "date": "2020-07-23",
-          "deaths": 2241,
-          "recovered": 26344
+          "deaths": 2265,
+          "recovered": 27095
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 15509,
+          "confirmed": 15714,
           "date": "2020-07-23",
-          "deaths": 509,
-          "recovered": 10025
+          "deaths": 516,
+          "recovered": 10249
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 67843,
+          "confirmed": 70849,
           "date": "2020-07-23",
-          "deaths": 1713,
-          "recovered": 26411
+          "deaths": 1794,
+          "recovered": 27281
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 18441,
+          "confirmed": 19164,
           "date": "2020-07-23",
-          "deaths": 698,
-          "recovered": 9520
+          "deaths": 722,
+          "recovered": 9739
         }
       }
     }
@@ -1435,9 +1435,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 301312,
+          "confirmed": 302341,
           "date": "2020-07-23",
-          "deaths": 6396,
+          "deaths": 6414,
           "recovered": 0
         }
       },
