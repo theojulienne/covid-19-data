@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 141900,
       "date": "2020-07-23",
-      "deaths": 2588,
-      "recovered": 60531
+      "deaths": 2617,
+      "recovered": 62815
     }
   },
   "Armenia": {
@@ -33,18 +33,18 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 19929,
+      "confirmed": 20099,
       "date": "2020-07-23",
       "deaths": 711,
-      "recovered": 17849
+      "recovered": 17943
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 28633,
+      "confirmed": 28980,
       "date": "2020-07-23",
-      "deaths": 385,
-      "recovered": 20443
+      "deaths": 391,
+      "recovered": 20974
     }
   },
   "Bahrain": {
@@ -1297,9 +1297,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 22031,
+      "confirmed": 22443,
       "date": "2020-07-23",
-      "deaths": 499,
+      "deaths": 508,
       "recovered": 0
     }
   },
