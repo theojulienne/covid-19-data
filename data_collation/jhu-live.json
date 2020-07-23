@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 35915,
+      "confirmed": 35928,
       "date": "2020-07-23",
       "deaths": 1211,
-      "recovered": 24538
+      "recovered": 24550
     }
   },
   "Algeria": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 37637,
+      "confirmed": 37996,
       "date": "2020-07-23",
       "deaths": 134,
-      "recovered": 33894
+      "recovered": 34412
     }
   },
   "Bangladesh": {
@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39901,
+          "confirmed": 39903,
           "date": "2020-07-23",
           "deaths": 2799,
           "recovered": 35341
@@ -469,10 +469,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 89745,
+      "confirmed": 90413,
       "date": "2020-07-23",
-      "deaths": 4440,
-      "recovered": 30075
+      "deaths": 4480,
+      "recovered": 31066
     }
   },
   "El Salvador": {
@@ -553,10 +553,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 41135,
+      "confirmed": 42192,
       "date": "2020-07-23",
-      "deaths": 1573,
-      "recovered": 27756
+      "deaths": 1632,
+      "recovered": 28856
     }
   },
   "Honduras": {
@@ -749,10 +749,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 57453,
+      "confirmed": 57982,
       "date": "2020-07-23",
-      "deaths": 440,
-      "recovered": 23916
+      "deaths": 442,
+      "recovered": 24044
     }
   },
   "Italy": {
@@ -1435,9 +1435,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 302341,
+          "confirmed": 303886,
           "date": "2020-07-23",
-          "deaths": 6414,
+          "deaths": 6435,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 205404,
+          "confirmed": 206914,
           "date": "2020-07-23",
-          "deaths": 2569,
+          "deaths": 2590,
           "recovered": 0
         }
       },
