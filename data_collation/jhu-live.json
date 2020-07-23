@@ -821,10 +821,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 75153,
+      "confirmed": 76799,
       "date": "2020-07-23",
       "deaths": 585,
-      "recovered": 46790
+      "recovered": 48220
     }
   },
   "Kenya": {
@@ -853,10 +853,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 28980,
+      "confirmed": 30349,
       "date": "2020-07-23",
-      "deaths": 1111,
-      "recovered": 15536
+      "deaths": 1169,
+      "recovered": 16791
     }
   },
   "Mexico": {
@@ -1681,9 +1681,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 18379,
+      "confirmed": 18531,
       "date": "2020-07-23",
-      "deaths": 98,
+      "deaths": 99,
       "recovered": 9872
     }
   },
