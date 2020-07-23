@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 37637,
       "date": "2020-07-23",
-      "deaths": 132,
+      "deaths": 134,
       "recovered": 33894
     }
   },
@@ -319,10 +319,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39868,
+          "confirmed": 39901,
           "date": "2020-07-23",
           "deaths": 2799,
-          "recovered": 35337
+          "recovered": 35341
         }
       },
       "Quebec": {
@@ -429,10 +429,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 14733,
+      "confirmed": 15001,
       "date": "2020-07-23",
       "deaths": 93,
-      "recovered": 8995
+      "recovered": 9282
     }
   },
   "Czechia": {
@@ -461,10 +461,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 77257,
+      "confirmed": 78148,
       "date": "2020-07-23",
-      "deaths": 5418,
-      "recovered": 33125
+      "deaths": 5439,
+      "recovered": 33455
     }
   },
   "Egypt": {
@@ -831,8 +831,8 @@
     "live": {
       "confirmed": 15601,
       "date": "2020-07-23",
-      "deaths": 260,
-      "recovered": 6757
+      "deaths": 263,
+      "recovered": 7135
     }
   },
   "Korea, South": {
@@ -1313,10 +1313,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 394948,
+      "confirmed": 408052,
       "date": "2020-07-23",
-      "deaths": 5940,
-      "recovered": 229175
+      "deaths": 6093,
+      "recovered": 236260
     }
   },
   "Spain": {
@@ -1427,7 +1427,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 114533,
+          "confirmed": 116390,
           "date": "2020-07-23",
           "deaths": 2056,
           "recovered": 0
@@ -1443,9 +1443,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 42136,
+          "confirmed": 42164,
           "date": "2020-07-23",
-          "deaths": 3898,
+          "deaths": 3902,
           "recovered": 0
         }
       },
@@ -1467,9 +1467,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 51653,
+          "confirmed": 52777,
           "date": "2020-07-23",
-          "deaths": 826,
+          "deaths": 836,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 33057,
+          "confirmed": 34209,
           "date": "2020-07-23",
-          "deaths": 577,
+          "deaths": 580,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 204248,
+          "confirmed": 205404,
           "date": "2020-07-23",
-          "deaths": 2517,
+          "deaths": 2569,
           "recovered": 0
         }
       },
