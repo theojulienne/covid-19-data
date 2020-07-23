@@ -749,10 +749,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 56085,
+      "confirmed": 56748,
       "date": "2020-07-23",
-      "deaths": 430,
-      "recovered": 23310
+      "deaths": 433,
+      "recovered": 23560
     }
   },
   "Italy": {
@@ -811,7 +811,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 10064,
+          "confirmed": 10430,
           "date": "2020-07-23",
           "deaths": 327,
           "recovered": 7513
@@ -971,8 +971,8 @@
     "live": {
       "confirmed": 21798,
       "date": "2020-07-23",
-      "deaths": 712,
-      "recovered": 14856
+      "deaths": 713,
+      "recovered": 16174
     }
   },
   "Morocco": {
@@ -993,14 +993,6 @@
   },
   "Netherlands": {
     "subseries": {
-      "Noord-Brabant": {
-        "live": {
-          "confirmed": 9845,
-          "date": "2020-07-23",
-          "deaths": 1535,
-          "recovered": 0
-        }
-      },
       "Zuid-Holland": {
         "live": {
           "confirmed": 12112,
@@ -1168,7 +1160,7 @@
       "confirmed": 41162,
       "date": "2020-07-23",
       "deaths": 1642,
-      "recovered": 31139
+      "recovered": 31541
     }
   },
   "Portugal": {
@@ -1199,90 +1191,98 @@
     "subseries": {
       "Chelyabinsk Oblast": {
         "live": {
-          "confirmed": 10078,
+          "confirmed": 10208,
           "date": "2020-07-23",
           "deaths": 89,
-          "recovered": 5774
+          "recovered": 5890
         }
       },
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 11976,
+          "confirmed": 12152,
           "date": "2020-07-23",
-          "deaths": 132,
-          "recovered": 6762
+          "deaths": 144,
+          "recovered": 6991
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 14663,
+          "confirmed": 14861,
           "date": "2020-07-23",
-          "deaths": 112,
-          "recovered": 9952
+          "deaths": 115,
+          "recovered": 10264
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 11790,
+          "confirmed": 11923,
           "date": "2020-07-23",
-          "deaths": 290,
-          "recovered": 9532
+          "deaths": 299,
+          "recovered": 9926
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 235363,
+          "confirmed": 235971,
           "date": "2020-07-23",
-          "deaths": 4350,
-          "recovered": 172939
+          "deaths": 4364,
+          "recovered": 173392
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 62173,
+          "confirmed": 62318,
           "date": "2020-07-23",
-          "deaths": 1072,
-          "recovered": 44162
+          "deaths": 1075,
+          "recovered": 44411
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 22227,
+          "confirmed": 22429,
           "date": "2020-07-23",
-          "deaths": 351,
-          "recovered": 16668
+          "deaths": 354,
+          "recovered": 16967
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 11778,
+          "confirmed": 11898,
           "date": "2020-07-23",
-          "deaths": 192,
-          "recovered": 9288
+          "deaths": 197,
+          "recovered": 9444
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 29916,
+          "confirmed": 30100,
           "date": "2020-07-23",
-          "deaths": 1862,
-          "recovered": 22613
+          "deaths": 1881,
+          "recovered": 22714
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 18484,
+          "confirmed": 18733,
           "date": "2020-07-23",
-          "deaths": 210,
-          "recovered": 12921
+          "deaths": 213,
+          "recovered": 13365
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 10347,
+          "confirmed": 10436,
           "date": "2020-07-23",
           "deaths": 78,
-          "recovered": 7919
+          "recovered": 8035
+        }
+      },
+      "Yamalo-Nenets Autonomous Okrug": {
+        "live": {
+          "confirmed": 10001,
+          "date": "2020-07-23",
+          "deaths": 70,
+          "recovered": 5205
         }
       }
     }
