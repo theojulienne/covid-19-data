@@ -1915,17 +1915,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 10791,
+        "confirmed": 11252,
         "deaths": 202,
         "recovered": 3017
       },
       "back_2week": {
-        "confirmed": 8250,
+        "confirmed": 8528,
         "deaths": 167,
         "recovered": 2504
       },
       "latest": {
-        "confirmed": 14168,
+        "confirmed": 14805,
         "deaths": 250,
         "recovered": 6258
       }
@@ -2917,17 +2917,17 @@
       "back_1week": {
         "confirmed": 46878,
         "deaths": 27,
-        "recovered": 42737
+        "recovered": 42988
       },
       "back_2week": {
         "confirmed": 45298,
         "deaths": 26,
-        "recovered": 41002
+        "recovered": 41323
       },
       "latest": {
         "confirmed": 48744,
         "deaths": 27,
-        "recovered": 44584
+        "recovered": 44795
       }
     },
     "SLE": {
