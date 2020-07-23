@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 110350,
+        "confirmed": 110693,
         "deaths": 8845,
         "recovered": 73713
       },
       "back_2week": {
-        "confirmed": 108023,
+        "confirmed": 108334,
         "deaths": 8765,
         "recovered": 71418
       },
       "latest": {
-        "confirmed": 113473,
+        "confirmed": 113790,
         "deaths": 8908,
         "recovered": 99248
       },
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 63
         },
         "Ontario": {
-          "confirmed": 39718,
+          "confirmed": 39824,
           "deaths": 2798
         },
         "Prince Edward Island": {
@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 13341,
+        "confirmed": 13475,
         "deaths": 355,
-        "recovered": 8441
+        "recovered": 8507
       },
       "back_2week": {
-        "confirmed": 12685,
+        "confirmed": 12814,
         "deaths": 351,
-        "recovered": 7910
+        "recovered": 8010
       },
       "latest": {
-        "confirmed": 14324,
-        "deaths": 360,
-        "recovered": 8918
+        "confirmed": 14570,
+        "deaths": 364,
+        "recovered": 9144
       }
     },
     "DEU": {
@@ -1131,19 +1131,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 46305,
-        "deaths": 910,
-        "recovered": 23134
+        "confirmed": 47671,
+        "deaths": 929,
+        "recovered": 23459
       },
       "back_2week": {
-        "confirmed": 38430,
-        "deaths": 821,
-        "recovered": 19564
+        "confirmed": 39588,
+        "deaths": 829,
+        "recovered": 20056
       },
       "latest": {
-        "confirmed": 54797,
-        "deaths": 999,
-        "recovered": 25976
+        "confirmed": 56043,
+        "deaths": 1005,
+        "recovered": 26466
       }
     },
     "DZA": {
@@ -1267,19 +1267,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 7969,
-        "deaths": 139,
+        "confirmed": 8181,
+        "deaths": 146,
         "recovered": 2430
       },
       "back_2week": {
-        "confirmed": 5846,
-        "deaths": 103,
+        "confirmed": 6774,
+        "deaths": 120,
         "recovered": 2430
       },
       "latest": {
-        "confirmed": 11072,
-        "deaths": 180,
-        "recovered": 5448
+        "confirmed": 11524,
+        "deaths": 188,
+        "recovered": 5506
       }
     },
     "FIN": {
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 199509,
-        "deaths": 29929,
-        "recovered": 71918
+        "confirmed": 200338,
+        "deaths": 30018,
+        "recovered": 71774
       },
       "back_2week": {
-        "confirmed": 197089,
-        "deaths": 29847,
-        "recovered": 72363
+        "confirmed": 196796,
+        "deaths": 29846,
+        "recovered": 72133
       },
       "latest": {
-        "confirmed": 203696,
-        "deaths": 30056,
-        "recovered": 71382
+        "confirmed": 204641,
+        "deaths": 30063,
+        "recovered": 71238
       },
       "states": {
         "French Guiana": {
@@ -2779,19 +2779,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 104533,
-        "deaths": 150,
-        "recovered": 101160
+        "confirmed": 104983,
+        "deaths": 151,
+        "recovered": 101637
       },
       "back_2week": {
-        "confirmed": 100945,
-        "deaths": 134,
-        "recovered": 94903
+        "confirmed": 101553,
+        "deaths": 138,
+        "recovered": 96107
       },
       "latest": {
-        "confirmed": 107430,
-        "deaths": 160,
-        "recovered": 104191
+        "confirmed": 107871,
+        "deaths": 163,
+        "recovered": 104641
       }
     },
     "RKS": {

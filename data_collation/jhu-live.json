@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39824,
+          "confirmed": 39864,
           "date": "2020-07-23",
           "deaths": 2799,
           "recovered": 35259
@@ -437,10 +437,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 14570,
+      "confirmed": 14724,
       "date": "2020-07-23",
-      "deaths": 364,
-      "recovered": 9144
+      "deaths": 365,
+      "recovered": 9292
     }
   },
   "Denmark": {
@@ -453,10 +453,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 56043,
+      "confirmed": 57615,
       "date": "2020-07-23",
-      "deaths": 1005,
-      "recovered": 26466
+      "deaths": 1006,
+      "recovered": 26905
     }
   },
   "Ecuador": {
@@ -485,18 +485,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 11524,
+      "confirmed": 11933,
       "date": "2020-07-23",
-      "deaths": 188,
-      "recovered": 5506
+      "deaths": 197,
+      "recovered": 5645
     }
   },
   "France": {
     "live": {
-      "confirmed": 204640,
+      "confirmed": 205702,
       "date": "2020-07-23",
-      "deaths": 30063,
-      "recovered": 71238
+      "deaths": 30073,
+      "recovered": 71753
     }
   },
   "Germany": {
@@ -1173,10 +1173,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 107871,
+      "confirmed": 108244,
       "date": "2020-07-23",
-      "deaths": 163,
-      "recovered": 104641
+      "deaths": 164,
+      "recovered": 105018
     }
   },
   "Romania": {
@@ -1483,7 +1483,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 13094,
+          "confirmed": 13245,
           "date": "2020-07-23",
           "deaths": 711,
           "recovered": 0
@@ -1523,9 +1523,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 15273,
+          "confirmed": 15537,
           "date": "2020-07-23",
-          "deaths": 803,
+          "deaths": 804,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 18079,
+          "confirmed": 18403,
           "date": "2020-07-23",
-          "deaths": 179,
+          "deaths": 181,
           "recovered": 0
         }
       },
