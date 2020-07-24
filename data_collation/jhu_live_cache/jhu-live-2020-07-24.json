@@ -561,10 +561,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 36102,
+      "confirmed": 36902,
       "date": "2020-07-24",
-      "deaths": 1006,
-      "recovered": 4315
+      "deaths": 1011,
+      "recovered": 4448
     }
   },
   "India": {
@@ -821,7 +821,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 76799,
+      "confirmed": 78486,
       "date": "2020-07-24",
       "deaths": 585,
       "recovered": 48220
