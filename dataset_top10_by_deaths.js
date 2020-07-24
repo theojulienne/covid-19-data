@@ -5971,7 +5971,8 @@ var covid19_dataset_top10_by_deaths = {
     "2020-07-21",
     "2020-07-22",
     "2020-07-23",
-    "2020-07-24"
+    "2020-07-24",
+    "2020-07-25"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});

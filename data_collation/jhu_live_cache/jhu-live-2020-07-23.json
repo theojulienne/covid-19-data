@@ -437,10 +437,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 14724,
+      "confirmed": 14800,
       "date": "2020-07-23",
       "deaths": 365,
-      "recovered": 9292
+      "recovered": 9328
     }
   },
   "Denmark": {
@@ -1005,10 +1005,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 38344,
+      "confirmed": 38948,
       "date": "2020-07-23",
-      "deaths": 813,
-      "recovered": 15815
+      "deaths": 833,
+      "recovered": 16061
     }
   },
   "Oman": {
@@ -1435,9 +1435,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 303886,
+          "confirmed": 306505,
           "date": "2020-07-23",
-          "deaths": 6435,
+          "deaths": 6504,
           "recovered": 0
         }
       },
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 18703,
+      "confirmed": 18868,
       "date": "2020-07-23",
       "deaths": 102,
-      "recovered": 10002
+      "recovered": 10149
     }
   },
   "Venezuela": {
