@@ -371,7 +371,8 @@ var covid19_dataset_country_tha = {
       3250,
       3250,
       3255,
-      3261
+      3261,
+      3279
     ],
     "deaths": [
       0,
@@ -506,6 +507,7 @@ var covid19_dataset_country_tha = {
       57,
       57,
       57,
+      58,
       58,
       58,
       58,
@@ -741,7 +743,8 @@ var covid19_dataset_country_tha = {
       3096,
       3096,
       3105,
-      3105
+      3105,
+      3107
     ]
   }
 };

@@ -371,7 +371,8 @@ var covid19_dataset_country_est = {
       2021,
       2021,
       2022,
-      2025
+      2025,
+      2027
     ],
     "deaths": [
       0,
@@ -507,6 +508,7 @@ var covid19_dataset_country_est = {
       68,
       68,
       68,
+      69,
       69,
       69,
       69,
@@ -737,6 +739,7 @@ var covid19_dataset_country_est = {
       1901,
       1904,
       1910,
+      1912,
       1912,
       1912,
       1912,
