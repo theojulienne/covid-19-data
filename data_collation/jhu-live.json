@@ -319,10 +319,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40022,
+          "confirmed": 40033,
           "date": "2020-07-24",
-          "deaths": 2799,
-          "recovered": 35381
+          "deaths": 2797,
+          "recovered": 35444
         }
       },
       "Quebec": {
@@ -759,50 +759,50 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 29350,
+          "confirmed": 29413,
           "date": "2020-07-24",
-          "deaths": 4281,
-          "recovered": 23719
+          "deaths": 4283,
+          "recovered": 23758
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 10139,
+          "confirmed": 10144,
           "date": "2020-07-24",
           "deaths": 1566,
-          "recovered": 8374
+          "recovered": 8380
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 95715,
+          "confirmed": 95768,
           "date": "2020-07-24",
           "deaths": 16801,
-          "recovered": 71973
+          "recovered": 72208
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31567,
+          "confirmed": 31578,
           "date": "2020-07-24",
           "deaths": 4123,
-          "recovered": 26659
+          "recovered": 26679
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 10394,
+          "confirmed": 10405,
           "date": "2020-07-24",
           "deaths": 1131,
-          "recovered": 8935
+          "recovered": 8939
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 19729,
+          "confirmed": 19759,
           "date": "2020-07-24",
-          "deaths": 2062,
-          "recovered": 17010
+          "deaths": 2063,
+          "recovered": 17011
         }
       }
     }
@@ -1323,15 +1323,15 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 14214,
+          "confirmed": 14328,
           "date": "2020-07-24",
-          "deaths": 1435,
+          "deaths": 1436,
           "recovered": 10671
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 12325,
+          "confirmed": 12442,
           "date": "2020-07-24",
           "deaths": 1433,
           "recovered": 9970
@@ -1339,15 +1339,15 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 18527,
+          "confirmed": 18539,
           "date": "2020-07-24",
-          "deaths": 3033,
+          "deaths": 3032,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 19987,
+          "confirmed": 20017,
           "date": "2020-07-24",
           "deaths": 2796,
           "recovered": 8716
@@ -1355,7 +1355,7 @@
       },
       "Catalonia": {
         "live": {
-          "confirmed": 71814,
+          "confirmed": 72919,
           "date": "2020-07-24",
           "deaths": 5680,
           "recovered": 26203
@@ -1363,7 +1363,7 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 73767,
+          "confirmed": 73944,
           "date": "2020-07-24",
           "deaths": 8450,
           "recovered": 40736
@@ -1371,9 +1371,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 14958,
+          "confirmed": 15086,
           "date": "2020-07-24",
-          "deaths": 1563,
+          "deaths": 1566,
           "recovered": 16160
         }
       }
@@ -1663,15 +1663,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 255740,
+          "confirmed": 256428,
           "date": "2020-07-24",
-          "deaths": 40959,
+          "deaths": 41082,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18500,
+          "confirmed": 18520,
           "date": "2020-07-24",
           "deaths": 2491,
           "recovered": 0
@@ -1679,7 +1679,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17030,
+          "confirmed": 17075,
           "date": "2020-07-24",
           "deaths": 1548,
           "recovered": 0
