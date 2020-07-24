@@ -339,26 +339,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 13648,
+          "confirmed": 13807,
           "date": "2020-07-24",
-          "deaths": 305,
-          "recovered": 12025
+          "deaths": 310,
+          "recovered": 12194
+        }
+      },
+      "Biobio": {
+        "live": {
+          "confirmed": 10165,
+          "date": "2020-07-24",
+          "deaths": 103,
+          "recovered": 8695
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 249355,
+          "confirmed": 250420,
           "date": "2020-07-24",
-          "deaths": 7192,
-          "recovered": 233892
+          "deaths": 7241,
+          "recovered": 234989
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 16316,
+          "confirmed": 16475,
           "date": "2020-07-24",
-          "deaths": 441,
-          "recovered": 14381
+          "deaths": 451,
+          "recovered": 14528
         }
       }
     }
@@ -1557,7 +1565,7 @@
         "live": {
           "confirmed": 369331,
           "date": "2020-07-24",
-          "deaths": 30256,
+          "deaths": 30258,
           "recovered": 0
         }
       },
@@ -1571,9 +1579,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 26199,
+          "confirmed": 26705,
           "date": "2020-07-24",
-          "deaths": 919,
+          "deaths": 937,
           "recovered": 0
         }
       },
@@ -1590,14 +1598,6 @@
           "confirmed": 14033,
           "date": "2020-07-24",
           "deaths": 0,
-          "recovered": 0
-        }
-      },
-      "South Carolina": {
-        "live": {
-          "confirmed": 10134,
-          "date": "2020-07-24",
-          "deaths": 120,
           "recovered": 0
         }
       },
