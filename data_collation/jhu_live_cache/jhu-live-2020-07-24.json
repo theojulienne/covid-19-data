@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 148027,
       "date": "2020-07-24",
-      "deaths": 2702,
-      "recovered": 62815
+      "deaths": 2722,
+      "recovered": 65447
     }
   },
   "Armenia": {
@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 39936,
+          "confirmed": 40022,
           "date": "2020-07-24",
           "deaths": 2799,
           "recovered": 35381
@@ -969,9 +969,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 22105,
+      "confirmed": 22483,
       "date": "2020-07-24",
-      "deaths": 721,
+      "deaths": 726,
       "recovered": 15407
     }
   },
@@ -1459,9 +1459,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 276072,
+          "confirmed": 284461,
           "date": "2020-07-24",
-          "deaths": 3978,
+          "deaths": 4060,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 48037,
+          "confirmed": 48498,
           "date": "2020-07-24",
-          "deaths": 2026,
+          "deaths": 2029,
           "recovered": 0
         }
       },
@@ -1526,6 +1526,14 @@
           "confirmed": 15537,
           "date": "2020-07-24",
           "deaths": 804,
+          "recovered": 0
+        }
+      },
+      "Missouri": {
+        "live": {
+          "confirmed": 10319,
+          "date": "2020-07-24",
+          "deaths": 627,
           "recovered": 0
         }
       },
@@ -1693,14 +1701,6 @@
       "date": "2020-07-24",
       "deaths": 129,
       "recovered": 7752
-    }
-  },
-  "West Bank and Gaza": {
-    "live": {
-      "confirmed": 10093,
-      "date": "2020-07-24",
-      "deaths": 70,
-      "recovered": 2720
     }
   }
 }
