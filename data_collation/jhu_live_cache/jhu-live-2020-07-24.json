@@ -319,10 +319,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40268,
+          "confirmed": 40341,
           "date": "2020-07-24",
-          "deaths": 2797,
-          "recovered": 35716
+          "deaths": 2800,
+          "recovered": 35767
         }
       },
       "Quebec": {
@@ -1276,14 +1276,6 @@
           "deaths": 78,
           "recovered": 8225
         }
-      },
-      "Yamalo-Nenets Autonomous Okrug": {
-        "live": {
-          "confirmed": 10159,
-          "date": "2020-07-24",
-          "deaths": 70,
-          "recovered": 5674
-        }
       }
     }
   },
@@ -1308,7 +1300,7 @@
       "confirmed": 49375,
       "date": "2020-07-24",
       "deaths": 27,
-      "recovered": 45015
+      "recovered": 45172
     }
   },
   "South Africa": {
@@ -1435,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 308363,
+          "confirmed": 320324,
           "date": "2020-07-24",
-          "deaths": 6532,
+          "deaths": 6731,
           "recovered": 0
         }
       },
@@ -1611,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 210406,
+          "confirmed": 211607,
           "date": "2020-07-24",
-          "deaths": 2673,
+          "deaths": 2691,
           "recovered": 0
         }
       },
@@ -1635,9 +1627,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 13835,
+          "confirmed": 14026,
           "date": "2020-07-24",
-          "deaths": 638,
+          "deaths": 643,
           "recovered": 0
         }
       },
