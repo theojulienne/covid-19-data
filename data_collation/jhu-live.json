@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 64135,
+      "confirmed": 65252,
       "date": "2020-07-24",
-      "deaths": 2328,
-      "recovered": 19721
+      "deaths": 2407,
+      "recovered": 20030
     }
   },
   "Brazil": {
@@ -339,26 +339,26 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 13309,
+          "confirmed": 13648,
           "date": "2020-07-24",
-          "deaths": 293,
-          "recovered": 11692
+          "deaths": 305,
+          "recovered": 12025
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 247622,
+          "confirmed": 249355,
           "date": "2020-07-24",
-          "deaths": 7096,
-          "recovered": 231618
+          "deaths": 7192,
+          "recovered": 233892
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 15914,
+          "confirmed": 16316,
           "date": "2020-07-24",
-          "deaths": 427,
-          "recovered": 14045
+          "deaths": 441,
+          "recovered": 14381
         }
       }
     }
@@ -837,10 +837,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 13938,
+      "confirmed": 13979,
       "date": "2020-07-24",
-      "deaths": 297,
-      "recovered": 12758
+      "deaths": 298,
+      "recovered": 12817
     }
   },
   "Kuwait": {
