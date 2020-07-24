@@ -368,17 +368,17 @@
     "BHR": {
       "back_1week": {
         "confirmed": 34560,
-        "deaths": 117,
+        "deaths": 121,
         "recovered": 30320
       },
       "back_2week": {
         "confirmed": 30931,
-        "deaths": 98,
+        "deaths": 103,
         "recovered": 26073
       },
       "latest": {
         "confirmed": 37637,
-        "deaths": 130,
+        "deaths": 134,
         "recovered": 33894
       }
     },
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 46878,
+        "confirmed": 47126,
         "deaths": 27,
         "recovered": 42988
       },
       "back_2week": {
-        "confirmed": 45298,
+        "confirmed": 45423,
         "deaths": 26,
         "recovered": 41323
       },
       "latest": {
-        "confirmed": 48744,
+        "confirmed": 49098,
         "deaths": 27,
         "recovered": 44795
       }
