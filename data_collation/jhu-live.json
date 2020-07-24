@@ -469,10 +469,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 78148,
+      "confirmed": 79049,
       "date": "2020-07-24",
-      "deaths": 5439,
-      "recovered": 33455
+      "deaths": 5468,
+      "recovered": 34544
     }
   },
   "Egypt": {
@@ -1443,9 +1443,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 42164,
+          "confirmed": 42645,
           "date": "2020-07-24",
-          "deaths": 3902,
+          "deaths": 3905,
           "recovered": 0
         }
       },
@@ -1467,9 +1467,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 52326,
+          "confirmed": 54458,
           "date": "2020-07-24",
-          "deaths": 836,
+          "deaths": 856,
           "recovered": 0
         }
       },
