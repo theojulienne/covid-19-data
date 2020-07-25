@@ -961,10 +961,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 22483,
+      "confirmed": 22828,
       "date": "2020-07-25",
-      "deaths": 726,
-      "recovered": 15407
+      "deaths": 732,
+      "recovered": 15608
     }
   },
   "Morocco": {
@@ -1281,10 +1281,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 262772,
+      "confirmed": 264973,
       "date": "2020-07-25",
-      "deaths": 2672,
-      "recovered": 215731
+      "deaths": 2703,
+      "recovered": 217782
     }
   },
   "Serbia": {
@@ -1451,9 +1451,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 284461,
+          "confirmed": 292695,
           "date": "2020-07-25",
-          "deaths": 4060,
+          "deaths": 4148,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 48498,
+          "confirmed": 49147,
           "date": "2020-07-25",
-          "deaths": 2029,
+          "deaths": 2035,
           "recovered": 0
         }
       },
