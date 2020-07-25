@@ -477,10 +477,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 91072,
+      "confirmed": 91583,
       "date": "2020-07-25",
-      "deaths": 4518,
-      "recovered": 31970
+      "deaths": 4558,
+      "recovered": 32903
     }
   },
   "El Salvador": {
@@ -1305,10 +1305,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 421996,
+      "confirmed": 434200,
       "date": "2020-07-25",
-      "deaths": 6343,
-      "recovered": 245771
+      "deaths": 6655,
+      "recovered": 263054
     }
   },
   "Spain": {
@@ -1373,10 +1373,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 11302,
+      "confirmed": 11385,
       "date": "2020-07-25",
-      "deaths": 715,
-      "recovered": 5855
+      "deaths": 717,
+      "recovered": 5890
     }
   },
   "Sweden": {
@@ -1459,9 +1459,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 54458,
+          "confirmed": 55734,
           "date": "2020-07-25",
-          "deaths": 856,
+          "deaths": 868,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 75885,
+          "confirmed": 76051,
           "date": "2020-07-25",
-          "deaths": 5134,
+          "deaths": 5141,
           "recovered": 0
         }
       },
@@ -1699,7 +1699,7 @@
     "live": {
       "confirmed": 10306,
       "date": "2020-07-25",
-      "deaths": 74,
+      "deaths": 75,
       "recovered": 3282
     }
   }
