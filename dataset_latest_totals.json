@@ -1932,14 +1932,14 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 12498,
-        "deaths": 167,
-        "recovered": 3735
+        "confirmed": 13101,
+        "deaths": 173,
+        "recovered": 3821
       },
       "back_2week": {
-        "confirmed": 9358,
-        "deaths": 122,
-        "recovered": 3134
+        "confirmed": 9910,
+        "deaths": 125,
+        "recovered": 3236
       },
       "latest": {
         "confirmed": 31247,
