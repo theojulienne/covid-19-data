@@ -3737,18 +3737,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 15066,
-        "deaths": 75,
+        "confirmed": 15607,
+        "deaths": 79,
         "recovered": 8783
       },
       "back_2week": {
-        "confirmed": 11564,
-        "deaths": 51,
+        "confirmed": 12027,
+        "deaths": 54,
         "recovered": 7287
       },
       "latest": {
-        "confirmed": 18986,
-        "deaths": 103,
+        "confirmed": 19360,
+        "deaths": 106,
         "recovered": 10149
       }
     },
