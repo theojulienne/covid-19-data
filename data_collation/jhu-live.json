@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 153520,
       "date": "2020-07-25",
-      "deaths": 2807,
-      "recovered": 65447
+      "deaths": 2847,
+      "recovered": 68022
     }
   },
   "Armenia": {
@@ -41,17 +41,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 29312,
+      "confirmed": 29633,
       "date": "2020-07-25",
-      "deaths": 400,
-      "recovered": 21547
+      "deaths": 408,
+      "recovered": 22082
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 38458,
       "date": "2020-07-25",
-      "deaths": 136,
+      "deaths": 137,
       "recovered": 34826
     }
   },
@@ -511,7 +511,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 50260,
+          "confirmed": 50267,
           "date": "2020-07-25",
           "deaths": 2619,
           "recovered": 46600
@@ -733,10 +733,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 104711,
+      "confirmed": 107573,
       "date": "2020-07-25",
-      "deaths": 4212,
-      "recovered": 71268
+      "deaths": 4284,
+      "recovered": 73317
     }
   },
   "Ireland": {
@@ -805,8 +805,8 @@
         "live": {
           "confirmed": 10985,
           "date": "2020-07-25",
-          "deaths": 327,
-          "recovered": 7852
+          "deaths": 328,
+          "recovered": 7914
         }
       }
     }
@@ -987,9 +987,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 12306,
+          "confirmed": 12352,
           "date": "2020-07-25",
-          "deaths": 1306,
+          "deaths": 1307,
           "recovered": 0
         }
       }
@@ -1157,10 +1157,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 49692,
+      "confirmed": 49955,
       "date": "2020-07-25",
-      "deaths": 1712,
-      "recovered": 34687
+      "deaths": 1716,
+      "recovered": 35010
     }
   },
   "Qatar": {
@@ -1619,9 +1619,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 15231,
+          "confirmed": 15265,
           "date": "2020-07-25",
-          "deaths": 513,
+          "deaths": 515,
           "recovered": 0
         }
       },
