@@ -569,10 +569,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 43283,
+      "confirmed": 44492,
       "date": "2020-07-25",
-      "deaths": 1669,
-      "recovered": 30150
+      "deaths": 1699,
+      "recovered": 31045
     }
   },
   "Honduras": {
@@ -1515,9 +1515,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39552,
+          "confirmed": 39700,
           "date": "2020-07-25",
-          "deaths": 3914,
+          "deaths": 3909,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 214990,
+          "confirmed": 215748,
           "date": "2020-07-25",
-          "deaths": 2776,
+          "deaths": 2785,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 14026,
+          "confirmed": 14249,
           "date": "2020-07-25",
-          "deaths": 643,
+          "deaths": 644,
           "recovered": 0
         }
       },
