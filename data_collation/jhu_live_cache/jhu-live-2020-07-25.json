@@ -725,10 +725,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 286523,
+      "confirmed": 288839,
       "date": "2020-07-25",
-      "deaths": 15289,
-      "recovered": 249212
+      "deaths": 15484,
+      "recovered": 251319
     }
   },
   "Iraq": {
@@ -803,7 +803,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 10690,
+          "confirmed": 10985,
           "date": "2020-07-25",
           "deaths": 327,
           "recovered": 7852
@@ -1152,7 +1152,7 @@
       "confirmed": 42622,
       "date": "2020-07-25",
       "deaths": 1664,
-      "recovered": 31997
+      "recovered": 32419
     }
   },
   "Portugal": {
@@ -1165,18 +1165,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 108638,
+      "confirmed": 109036,
       "date": "2020-07-25",
       "deaths": 164,
-      "recovered": 105420
+      "recovered": 105750
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 42394,
+      "confirmed": 43678,
       "date": "2020-07-25",
-      "deaths": 2150,
-      "recovered": 25349
+      "deaths": 2165,
+      "recovered": 25373
     }
   },
   "Russia": {
