@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 38458,
+      "confirmed": 38747,
       "date": "2020-07-25",
       "deaths": 137,
-      "recovered": 34826
+      "recovered": 35205
     }
   },
   "Bangladesh": {
@@ -307,6 +307,14 @@
       }
     }
   },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 10312,
+      "date": "2020-07-25",
+      "deaths": 338,
+      "recovered": 5306
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 16708,
@@ -319,10 +327,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40424,
+          "confirmed": 40457,
           "date": "2020-07-25",
-          "deaths": 2800,
-          "recovered": 35767
+          "deaths": 2802,
+          "recovered": 35880
         }
       },
       "Quebec": {
@@ -437,10 +445,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 15253,
+      "confirmed": 15494,
       "date": "2020-07-25",
       "deaths": 94,
-      "recovered": 9499
+      "recovered": 9880
     }
   },
   "Czechia": {
@@ -757,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 60496,
+      "confirmed": 60678,
       "date": "2020-07-25",
-      "deaths": 455,
-      "recovered": 26882
+      "deaths": 457,
+      "recovered": 26917
     }
   },
   "Italy": {
@@ -1595,17 +1603,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 34873,
+          "confirmed": 35437,
           "date": "2020-07-25",
-          "deaths": 442,
+          "deaths": 451,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 212471,
+          "confirmed": 214990,
           "date": "2020-07-25",
-          "deaths": 2716,
+          "deaths": 2776,
           "recovered": 0
         }
       },
@@ -1635,9 +1643,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 17537,
+          "confirmed": 17861,
           "date": "2020-07-25",
-          "deaths": 422,
+          "deaths": 427,
           "recovered": 0
         }
       }
@@ -1693,14 +1701,6 @@
       "date": "2020-07-25",
       "deaths": 134,
       "recovered": 8127
-    }
-  },
-  "West Bank and Gaza": {
-    "live": {
-      "confirmed": 10306,
-      "date": "2020-07-25",
-      "deaths": 75,
-      "recovered": 3282
     }
   }
 }
