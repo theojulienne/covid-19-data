@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 148027,
+      "confirmed": 153520,
       "date": "2020-07-24",
-      "deaths": 2722,
+      "deaths": 2807,
       "recovered": 65447
     }
   },
@@ -93,7 +93,7 @@
         "live": {
           "confirmed": 18157,
           "date": "2020-07-24",
-          "deaths": 474,
+          "deaths": 480,
           "recovered": 9858
         }
       },
@@ -101,7 +101,7 @@
         "live": {
           "confirmed": 52529,
           "date": "2020-07-24",
-          "deaths": 1457,
+          "deaths": 1471,
           "recovered": 46392
         }
       },
@@ -109,7 +109,7 @@
         "live": {
           "confirmed": 34838,
           "date": "2020-07-24",
-          "deaths": 548,
+          "deaths": 552,
           "recovered": 23296
         }
       },
@@ -117,7 +117,7 @@
         "live": {
           "confirmed": 94219,
           "date": "2020-07-24",
-          "deaths": 3193,
+          "deaths": 3199,
           "recovered": 77890
         }
       },
@@ -125,7 +125,7 @@
         "live": {
           "confirmed": 138358,
           "date": "2020-07-24",
-          "deaths": 3044,
+          "deaths": 3096,
           "recovered": 120862
         }
       },
@@ -133,7 +133,7 @@
         "live": {
           "confirmed": 156242,
           "date": "2020-07-24",
-          "deaths": 7374,
+          "deaths": 7426,
           "recovered": 129221
         }
       },
@@ -141,7 +141,7 @@
         "live": {
           "confirmed": 90023,
           "date": "2020-07-24",
-          "deaths": 1218,
+          "deaths": 1244,
           "recovered": 74809
         }
       },
@@ -149,7 +149,7 @@
         "live": {
           "confirmed": 74608,
           "date": "2020-07-24",
-          "deaths": 2341,
+          "deaths": 2373,
           "recovered": 54846
         }
       },
@@ -157,15 +157,15 @@
         "live": {
           "confirmed": 50458,
           "date": "2020-07-24",
-          "deaths": 1262,
-          "recovered": 15951
+          "deaths": 1332,
+          "recovered": 44774
         }
       },
       "Maranhao": {
         "live": {
           "confirmed": 111488,
           "date": "2020-07-24",
-          "deaths": 2840,
+          "deaths": 2871,
           "recovered": 96851
         }
       },
@@ -173,7 +173,7 @@
         "live": {
           "confirmed": 40755,
           "date": "2020-07-24",
-          "deaths": 1491,
+          "deaths": 1501,
           "recovered": 21745
         }
       },
@@ -181,7 +181,7 @@
         "live": {
           "confirmed": 19671,
           "date": "2020-07-24",
-          "deaths": 266,
+          "deaths": 281,
           "recovered": 12513
         }
       },
@@ -189,7 +189,7 @@
         "live": {
           "confirmed": 102568,
           "date": "2020-07-24",
-          "deaths": 2238,
+          "deaths": 2315,
           "recovered": 76240
         }
       },
@@ -197,7 +197,7 @@
         "live": {
           "confirmed": 144467,
           "date": "2020-07-24",
-          "deaths": 5616,
+          "deaths": 5646,
           "recovered": 131243
         }
       },
@@ -205,7 +205,7 @@
         "live": {
           "confirmed": 73104,
           "date": "2020-07-24",
-          "deaths": 1618,
+          "deaths": 1653,
           "recovered": 28566
         }
       },
@@ -213,7 +213,7 @@
         "live": {
           "confirmed": 62004,
           "date": "2020-07-24",
-          "deaths": 1545,
+          "deaths": 1598,
           "recovered": 24651
         }
       },
@@ -221,7 +221,7 @@
         "live": {
           "confirmed": 83240,
           "date": "2020-07-24",
-          "deaths": 6211,
+          "deaths": 6237,
           "recovered": 60360
         }
       },
@@ -229,7 +229,7 @@
         "live": {
           "confirmed": 43179,
           "date": "2020-07-24",
-          "deaths": 1184,
+          "deaths": 1215,
           "recovered": 42274
         }
       },
@@ -237,7 +237,7 @@
         "live": {
           "confirmed": 46056,
           "date": "2020-07-24",
-          "deaths": 1650,
+          "deaths": 1666,
           "recovered": 19192
         }
       },
@@ -245,7 +245,7 @@
         "live": {
           "confirmed": 54841,
           "date": "2020-07-24",
-          "deaths": 1456,
+          "deaths": 1494,
           "recovered": 46040
         }
       },
@@ -253,7 +253,7 @@
         "live": {
           "confirmed": 151549,
           "date": "2020-07-24",
-          "deaths": 12535,
+          "deaths": 12654,
           "recovered": 129896
         }
       },
@@ -261,7 +261,7 @@
         "live": {
           "confirmed": 34080,
           "date": "2020-07-24",
-          "deaths": 784,
+          "deaths": 801,
           "recovered": 21753
         }
       },
@@ -269,7 +269,7 @@
         "live": {
           "confirmed": 27932,
           "date": "2020-07-24",
-          "deaths": 458,
+          "deaths": 465,
           "recovered": 8702
         }
       },
@@ -277,7 +277,7 @@
         "live": {
           "confirmed": 62282,
           "date": "2020-07-24",
-          "deaths": 812,
+          "deaths": 844,
           "recovered": 51332
         }
       },
@@ -285,7 +285,7 @@
         "live": {
           "confirmed": 452007,
           "date": "2020-07-24",
-          "deaths": 20894,
+          "deaths": 21206,
           "recovered": 302176
         }
       },
@@ -293,7 +293,7 @@
         "live": {
           "confirmed": 49397,
           "date": "2020-07-24",
-          "deaths": 1247,
+          "deaths": 1284,
           "recovered": 25527
         }
       },
@@ -301,7 +301,7 @@
         "live": {
           "confirmed": 19423,
           "date": "2020-07-24",
-          "deaths": 326,
+          "deaths": 334,
           "recovered": 12205
         }
       }
@@ -445,10 +445,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 14924,
+      "confirmed": 15081,
       "date": "2020-07-24",
-      "deaths": 368,
-      "recovered": 9402
+      "deaths": 369,
+      "recovered": 9422
     }
   },
   "Denmark": {
@@ -1005,10 +1005,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 38948,
+      "confirmed": 39539,
       "date": "2020-07-24",
-      "deaths": 833,
-      "recovered": 16061
+      "deaths": 845,
+      "recovered": 16559
     }
   },
   "Oman": {
@@ -1427,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 320324,
+          "confirmed": 322194,
           "date": "2020-07-24",
-          "deaths": 6731,
+          "deaths": 6768,
           "recovered": 0
         }
       },
@@ -1499,9 +1499,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 75683,
+          "confirmed": 75885,
           "date": "2020-07-24",
-          "deaths": 5124,
+          "deaths": 5134,
           "recovered": 0
         }
       },
