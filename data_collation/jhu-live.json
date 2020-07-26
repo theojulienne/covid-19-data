@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40457,
+          "confirmed": 40511,
           "date": "2020-07-26",
           "deaths": 2802,
           "recovered": 35880
@@ -759,42 +759,42 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 29461,
+          "confirmed": 29522,
           "date": "2020-07-26",
-          "deaths": 4284,
-          "recovered": 23778
+          "deaths": 4285,
+          "recovered": 23793
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 95847,
+          "confirmed": 95921,
           "date": "2020-07-26",
           "deaths": 16801,
-          "recovered": 72271
+          "recovered": 72349
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31594,
+          "confirmed": 31606,
           "date": "2020-07-26",
-          "deaths": 4125,
-          "recovered": 26677
+          "deaths": 4126,
+          "recovered": 26678
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 10415,
+          "confirmed": 10430,
           "date": "2020-07-26",
           "deaths": 1131,
-          "recovered": 8941
+          "recovered": 8944
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 19790,
+          "confirmed": 19809,
           "date": "2020-07-26",
           "deaths": 2064,
-          "recovered": 17021
+          "recovered": 17023
         }
       }
     }
@@ -1547,7 +1547,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 369838,
+          "confirmed": 370218,
           "date": "2020-07-26",
           "deaths": 30270,
           "recovered": 0
@@ -1587,9 +1587,9 @@
       },
       "South Carolina": {
         "live": {
-          "confirmed": 10503,
+          "confirmed": 10625,
           "date": "2020-07-26",
-          "deaths": 132,
+          "deaths": 135,
           "recovered": 0
         }
       },
@@ -1655,15 +1655,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 257138,
+          "confirmed": 257859,
           "date": "2020-07-26",
-          "deaths": 41143,
+          "deaths": 41156,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18547,
+          "confirmed": 18551,
           "date": "2020-07-26",
           "deaths": 2491,
           "recovered": 0
@@ -1671,9 +1671,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17105,
+          "confirmed": 17125,
           "date": "2020-07-26",
-          "deaths": 1548,
+          "deaths": 1549,
           "recovered": 0
         }
       }
