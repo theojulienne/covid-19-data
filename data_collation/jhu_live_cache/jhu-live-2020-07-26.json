@@ -853,7 +853,7 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 32124,
+      "confirmed": 32813,
       "date": "2020-07-26",
       "deaths": 1249,
       "recovered": 19203
@@ -1681,9 +1681,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 19952,
+      "confirmed": 20226,
       "date": "2020-07-26",
-      "deaths": 111,
+      "deaths": 112,
       "recovered": 10831
     }
   },
