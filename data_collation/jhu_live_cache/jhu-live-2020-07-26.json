@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 65199,
+      "confirmed": 65727,
       "date": "2020-07-26",
-      "deaths": 9817,
-      "recovered": 17394
+      "deaths": 9821,
+      "recovered": 17425
     }
   },
   "Bolivia": {
@@ -821,7 +821,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 80226,
+      "confirmed": 81720,
       "date": "2020-07-26",
       "deaths": 585,
       "recovered": 51260
