@@ -1595,9 +1595,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 35437,
+          "confirmed": 36167,
           "date": "2020-07-26",
-          "deaths": 451,
+          "deaths": 453,
           "recovered": 0
         }
       },
@@ -1611,7 +1611,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 17966,
+          "confirmed": 18090,
           "date": "2020-07-26",
           "deaths": 156,
           "recovered": 0
@@ -1635,7 +1635,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 17861,
+          "confirmed": 18140,
           "date": "2020-07-26",
           "deaths": 427,
           "recovered": 0
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 20226,
+      "confirmed": 20531,
       "date": "2020-07-26",
-      "deaths": 114,
-      "recovered": 10831
+      "deaths": 116,
+      "recovered": 11105
     }
   },
   "Venezuela": {
