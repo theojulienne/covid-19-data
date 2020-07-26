@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 66456,
+      "confirmed": 68281,
       "date": "2020-07-26",
-      "deaths": 2473,
-      "recovered": 20614
+      "deaths": 2535,
+      "recovered": 20951
     }
   },
   "Brazil": {
@@ -387,42 +387,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 21922,
+          "confirmed": 23035,
           "date": "2020-07-26",
-          "deaths": 301,
-          "recovered": 6011
+          "deaths": 321,
+          "recovered": 6428
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 47005,
+          "confirmed": 47573,
           "date": "2020-07-26",
-          "deaths": 2332,
-          "recovered": 29592
+          "deaths": 2360,
+          "recovered": 31473
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 16118,
+          "confirmed": 16286,
           "date": "2020-07-26",
-          "deaths": 528,
-          "recovered": 10947
+          "deaths": 533,
+          "recovered": 11351
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 77889,
+          "confirmed": 81180,
           "date": "2020-07-26",
-          "deaths": 2000,
-          "recovered": 32222
+          "deaths": 2115,
+          "recovered": 33753
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 20416,
+          "confirmed": 20875,
           "date": "2020-07-26",
-          "deaths": 789,
-          "recovered": 10859
+          "deaths": 812,
+          "recovered": 11243
         }
       }
     }
@@ -569,10 +569,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 37559,
+      "confirmed": 38438,
       "date": "2020-07-26",
-      "deaths": 1061,
-      "recovered": 4607
+      "deaths": 1098,
+      "recovered": 4713
     }
   },
   "India": {
@@ -1427,9 +1427,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 329725,
+          "confirmed": 319395,
           "date": "2020-07-26",
-          "deaths": 6859,
+          "deaths": 6681,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 217674,
+          "confirmed": 228609,
           "date": "2020-07-26",
-          "deaths": 2810,
+          "deaths": 2962,
           "recovered": 0
         }
       },
@@ -1689,10 +1689,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 14263,
+      "confirmed": 14929,
       "date": "2020-07-26",
-      "deaths": 134,
-      "recovered": 8127
+      "deaths": 138,
+      "recovered": 8795
     }
   }
 }
