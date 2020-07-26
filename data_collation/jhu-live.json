@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 38747,
+      "confirmed": 39131,
       "date": "2020-07-26",
       "deaths": 140,
-      "recovered": 35205
+      "recovered": 35689
     }
   },
   "Bangladesh": {
@@ -94,7 +94,7 @@
           "confirmed": 18657,
           "date": "2020-07-26",
           "deaths": 483,
-          "recovered": 9858
+          "recovered": 10670
         }
       },
       "Alagoas": {
@@ -118,7 +118,7 @@
           "confirmed": 96094,
           "date": "2020-07-26",
           "deaths": 3210,
-          "recovered": 80217
+          "recovered": 80798
         }
       },
       "Bahia": {
@@ -206,7 +206,7 @@
           "confirmed": 75723,
           "date": "2020-07-26",
           "deaths": 1675,
-          "recovered": 29628
+          "recovered": 30378
         }
       },
       "Parana": {
@@ -270,7 +270,7 @@
           "confirmed": 29394,
           "date": "2020-07-26",
           "deaths": 473,
-          "recovered": 8782
+          "recovered": 8873
         }
       },
       "Santa Catarina": {
@@ -319,7 +319,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40551,
+          "confirmed": 40556,
           "date": "2020-07-26",
           "deaths": 2806,
           "recovered": 35973
@@ -1603,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 219987,
+          "confirmed": 220787,
           "date": "2020-07-26",
-          "deaths": 2836,
+          "deaths": 2837,
           "recovered": 0
         }
       },
