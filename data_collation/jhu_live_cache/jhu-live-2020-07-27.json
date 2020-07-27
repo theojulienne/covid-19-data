@@ -519,15 +519,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 50282,
+          "confirmed": 50501,
           "date": "2020-07-27",
           "deaths": 2619,
-          "recovered": 46700
+          "recovered": 46800
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 11680,
+          "confirmed": 11685,
           "date": "2020-07-27",
           "deaths": 518,
           "recovered": 10700
@@ -535,7 +535,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14223,
+          "confirmed": 14241,
           "date": "2020-07-27",
           "deaths": 649,
           "recovered": 13200
@@ -543,10 +543,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 47430,
+          "confirmed": 47471,
           "date": "2020-07-27",
           "deaths": 1728,
-          "recovered": 43200
+          "recovered": 43300
         }
       }
     }
@@ -995,7 +995,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 12352,
+          "confirmed": 12450,
           "date": "2020-07-27",
           "deaths": 1307,
           "recovered": 0
