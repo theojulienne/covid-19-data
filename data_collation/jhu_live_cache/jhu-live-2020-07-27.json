@@ -749,7 +749,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25881,
+      "confirmed": 25892,
       "date": "2020-07-27",
       "deaths": 1764,
       "recovered": 23364
@@ -1549,15 +1549,15 @@
         "live": {
           "confirmed": 19480,
           "date": "2020-07-27",
-          "deaths": 187,
+          "deaths": 188,
           "recovered": 0
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 27379,
+          "confirmed": 27650,
           "date": "2020-07-27",
-          "deaths": 938,
+          "deaths": 948,
           "recovered": 0
         }
       },
@@ -1579,7 +1579,7 @@
       },
       "South Carolina": {
         "live": {
-          "confirmed": 10625,
+          "confirmed": 10740,
           "date": "2020-07-27",
           "deaths": 135,
           "recovered": 0
