@@ -307,6 +307,14 @@
       }
     }
   },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 10621,
+      "date": "2020-07-27",
+      "deaths": 347,
+      "recovered": 5585
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 16708,
@@ -319,7 +327,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40672,
+          "confirmed": 40673,
           "date": "2020-07-27",
           "deaths": 2807,
           "recovered": 36048
@@ -561,10 +569,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 45053,
+      "confirmed": 45309,
       "date": "2020-07-27",
-      "deaths": 1734,
-      "recovered": 31612
+      "deaths": 1761,
+      "recovered": 32455
     }
   },
   "Honduras": {
@@ -1260,14 +1268,6 @@
           "deaths": 78,
           "recovered": 8444
         }
-      },
-      "Yamalo-Nenets Autonomous Okrug": {
-        "live": {
-          "confirmed": 10537,
-          "date": "2020-07-27",
-          "deaths": 73,
-          "recovered": 6248
-        }
       }
     }
   },
@@ -1419,7 +1419,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 324048,
+          "confirmed": 324400,
           "date": "2020-07-27",
           "deaths": 6712,
           "recovered": 0
@@ -1595,9 +1595,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 221483,
+          "confirmed": 222884,
           "date": "2020-07-27",
-          "deaths": 2842,
+          "deaths": 3011,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 14417,
+          "confirmed": 14579,
           "date": "2020-07-27",
-          "deaths": 644,
+          "deaths": 645,
           "recovered": 0
         }
       },
