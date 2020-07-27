@@ -377,6 +377,7 @@ var covid19_dataset_country_blz = {
       43,
       47,
       48,
+      48,
       48
     ],
     "deaths": [
@@ -459,6 +460,7 @@ var covid19_dataset_country_blz = {
       1,
       1,
       1,
+      2,
       2,
       2,
       2,
@@ -752,6 +754,7 @@ var covid19_dataset_country_blz = {
       22,
       23,
       25,
+      26,
       26,
       26
     ]

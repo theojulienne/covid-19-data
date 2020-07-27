@@ -377,9 +377,11 @@ var covid19_dataset_country_mng = {
       287,
       288,
       288,
+      288,
       288
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -752,6 +754,7 @@ var covid19_dataset_country_mng = {
       213,
       214,
       217,
+      218,
       218,
       218
     ]
