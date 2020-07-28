@@ -2538,7 +2538,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 53005,
-        "deaths": 6140,
+        "deaths": 6159,
         "recovered": 0
       },
       "states": {
