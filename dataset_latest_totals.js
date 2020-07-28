@@ -1937,14 +1937,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 13109
       },
       "back_2week": {
-        "confirmed": 11117,
-        "deaths": 147,
-        "recovered": 3460
+        "confirmed": 11444,
+        "deaths": 149,
+        "recovered": 3538
       },
       "latest": {
-        "confirmed": 32813,
-        "deaths": 1277,
-        "recovered": 20388
+        "confirmed": 33296,
+        "deaths": 1301,
+        "recovered": 21205
       }
     },
     "KHM": {
