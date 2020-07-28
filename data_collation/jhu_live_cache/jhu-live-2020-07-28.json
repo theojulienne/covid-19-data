@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 167416,
       "date": "2020-07-28",
-      "deaths": 3059,
-      "recovered": 72575
+      "deaths": 3082,
+      "recovered": 75083
     }
   },
   "Armenia": {
@@ -1281,9 +1281,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 24141,
+      "confirmed": 24520,
       "date": "2020-07-28",
-      "deaths": 543,
+      "deaths": 551,
       "recovered": 0
     }
   },
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 21506,
+      "confirmed": 21699,
       "date": "2020-07-28",
-      "deaths": 122,
-      "recovered": 11674
+      "deaths": 124,
+      "recovered": 12026
     }
   },
   "Venezuela": {
