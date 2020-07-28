@@ -1373,10 +1373,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 11424,
+      "confirmed": 11496,
       "date": "2020-07-28",
-      "deaths": 720,
-      "recovered": 5939
+      "deaths": 725,
+      "recovered": 6001
     }
   },
   "Sweden": {
@@ -1443,17 +1443,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 11780,
+          "confirmed": 11945,
           "date": "2020-07-28",
-          "deaths": 581,
+          "deaths": 583,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 305530,
+          "confirmed": 311538,
           "date": "2020-07-28",
-          "deaths": 4241,
+          "deaths": 4349,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50058,
+          "confirmed": 50352,
           "date": "2020-07-28",
-          "deaths": 2045,
+          "deaths": 2052,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 11507,
+          "confirmed": 11595,
           "date": "2020-07-28",
-          "deaths": 636,
+          "deaths": 643,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 15455,
+          "confirmed": 15509,
           "date": "2020-07-28",
-          "deaths": 517,
+          "deaths": 519,
           "recovered": 0
         }
       },

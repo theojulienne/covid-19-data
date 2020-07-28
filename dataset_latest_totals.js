@@ -2886,14 +2886,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 5707
       },
       "back_2week": {
-        "confirmed": 10250,
-        "deaths": 650,
-        "recovered": 5341
+        "confirmed": 10316,
+        "deaths": 657,
+        "recovered": 5403
       },
       "latest": {
-        "confirmed": 11385,
-        "deaths": 717,
-        "recovered": 5890
+        "confirmed": 11424,
+        "deaths": 720,
+        "recovered": 5939
       }
     },
     "SEN": {
