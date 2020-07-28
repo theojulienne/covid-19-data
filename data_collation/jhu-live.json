@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 39482,
+      "confirmed": 39921,
       "date": "2020-07-28",
       "deaths": 141,
-      "recovered": 36110
+      "recovered": 36531
     }
   },
   "Bangladesh": {
@@ -305,6 +305,14 @@
           "recovered": 14141
         }
       }
+    }
+  },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 10871,
+      "date": "2020-07-28",
+      "deaths": 355,
+      "recovered": 5766
     }
   },
   "Cameroon": {
@@ -1173,14 +1181,6 @@
   },
   "Russia": {
     "subseries": {
-      "Chelyabinsk Oblast": {
-        "live": {
-          "confirmed": 10836,
-          "date": "2020-07-28",
-          "deaths": 91,
-          "recovered": 6257
-        }
-      },
       "Irkutsk Oblast": {
         "live": {
           "confirmed": 12975,
@@ -1396,7 +1396,7 @@
       "confirmed": 34609,
       "date": "2020-07-28",
       "deaths": 1978,
-      "recovered": 30900
+      "recovered": 31000
     }
   },
   "Turkey": {
