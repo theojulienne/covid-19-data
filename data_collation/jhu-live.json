@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 66428,
+      "confirmed": 66662,
       "date": "2020-07-29",
-      "deaths": 9822,
-      "recovered": 17452
+      "deaths": 9833,
+      "recovered": 17476
     }
   },
   "Bolivia": {
@@ -1579,9 +1579,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 36790,
+          "confirmed": 37622,
           "date": "2020-07-29",
-          "deaths": 452,
+          "deaths": 463,
           "recovered": 0
         }
       },
