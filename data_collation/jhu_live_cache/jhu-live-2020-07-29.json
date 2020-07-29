@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 39921,
+      "confirmed": 40311,
       "date": "2020-07-29",
-      "deaths": 142,
-      "recovered": 36531
+      "deaths": 144,
+      "recovered": 36920
     }
   },
   "Bangladesh": {
@@ -327,7 +327,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40865,
+          "confirmed": 40873,
           "date": "2020-07-29",
           "deaths": 2813,
           "recovered": 36268
@@ -485,10 +485,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 92947,
+      "confirmed": 93356,
       "date": "2020-07-29",
-      "deaths": 4691,
-      "recovered": 35959
+      "deaths": 4728,
+      "recovered": 37025
     }
   },
   "El Salvador": {
@@ -509,7 +509,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 209252,
+      "confirmed": 209211,
       "date": "2020-07-29",
       "deaths": 30108,
       "recovered": 71597
@@ -995,9 +995,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 12650,
+          "confirmed": 12758,
           "date": "2020-07-29",
-          "deaths": 1309,
+          "deaths": 1310,
           "recovered": 0
         }
       }
@@ -1181,14 +1181,6 @@
   },
   "Russia": {
     "subseries": {
-      "Chelyabinsk Oblast": {
-        "live": {
-          "confirmed": 10961,
-          "date": "2020-07-29",
-          "deaths": 92,
-          "recovered": 6318
-        }
-      },
       "Irkutsk Oblast": {
         "live": {
           "confirmed": 13134,
@@ -1404,7 +1396,7 @@
       "confirmed": 34802,
       "date": "2020-07-29",
       "deaths": 1979,
-      "recovered": 31000
+      "recovered": 31100
     }
   },
   "Turkey": {
@@ -1427,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 337605,
+          "confirmed": 349262,
           "date": "2020-07-29",
-          "deaths": 6877,
+          "deaths": 7023,
           "recovered": 0
         }
       },
@@ -1699,7 +1691,7 @@
     "live": {
       "confirmed": 11284,
       "date": "2020-07-29",
-      "deaths": 79,
+      "deaths": 80,
       "recovered": 4833
     }
   }
