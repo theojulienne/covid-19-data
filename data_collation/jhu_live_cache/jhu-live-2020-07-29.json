@@ -327,10 +327,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40858,
+          "confirmed": 40862,
           "date": "2020-07-29",
-          "deaths": 2812,
-          "recovered": 36228
+          "deaths": 2813,
+          "recovered": 36267
         }
       },
       "Quebec": {
@@ -1507,9 +1507,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40531,
+          "confirmed": 41051,
           "date": "2020-07-29",
-          "deaths": 3915,
+          "deaths": 3914,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 27980,
+          "confirmed": 28399,
           "date": "2020-07-29",
-          "deaths": 956,
+          "deaths": 967,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 37622,
+          "confirmed": 38067,
           "date": "2020-07-29",
-          "deaths": 463,
+          "deaths": 467,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 18441,
+          "confirmed": 18575,
           "date": "2020-07-29",
-          "deaths": 162,
+          "deaths": 166,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 18528,
+          "confirmed": 18769,
           "date": "2020-07-29",
-          "deaths": 428,
+          "deaths": 429,
           "recovered": 0
         }
       }
