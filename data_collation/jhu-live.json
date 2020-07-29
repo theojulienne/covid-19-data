@@ -142,7 +142,7 @@
           "confirmed": 165550,
           "date": "2020-07-29",
           "deaths": 7613,
-          "recovered": 138765
+          "recovered": 141122
         }
       },
       "Distrito Federal": {
@@ -150,7 +150,7 @@
           "confirmed": 100726,
           "date": "2020-07-29",
           "deaths": 1391,
-          "recovered": 83310
+          "recovered": 85308
         }
       },
       "Espirito Santo": {
@@ -166,7 +166,7 @@
           "confirmed": 60637,
           "date": "2020-07-29",
           "deaths": 1473,
-          "recovered": 54425
+          "recovered": 55729
         }
       },
       "Maranhao": {
@@ -198,7 +198,7 @@
           "confirmed": 116645,
           "date": "2020-07-29",
           "deaths": 2551,
-          "recovered": 86794
+          "recovered": 89795
         }
       },
       "Para": {
@@ -294,7 +294,7 @@
           "confirmed": 487654,
           "date": "2020-07-29",
           "deaths": 21676,
-          "recovered": 337434
+          "recovered": 344501
         }
       },
       "Sergipe": {
@@ -327,10 +327,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40862,
+          "confirmed": 40865,
           "date": "2020-07-29",
           "deaths": 2813,
-          "recovered": 36267
+          "recovered": 36268
         }
       },
       "Quebec": {
@@ -437,18 +437,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 16344,
+      "confirmed": 16800,
       "date": "2020-07-29",
-      "deaths": 125,
-      "recovered": 3920
+      "deaths": 133,
+      "recovered": 4050
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 15713,
+      "confirmed": 15813,
       "date": "2020-07-29",
-      "deaths": 98,
-      "recovered": 10537
+      "deaths": 99,
+      "recovered": 10793
     }
   },
   "Czechia": {
@@ -765,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 67734,
+      "confirmed": 68299,
       "date": "2020-07-29",
       "deaths": 491,
-      "recovered": 32722
+      "recovered": 32746
     }
   },
   "Italy": {
@@ -1297,10 +1297,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 459761,
+      "confirmed": 471123,
       "date": "2020-07-29",
-      "deaths": 7257,
-      "recovered": 287313
+      "deaths": 7497,
+      "recovered": 297967
     }
   },
   "Spain": {
@@ -1435,9 +1435,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 42860,
+          "confirmed": 43258,
           "date": "2020-07-29",
-          "deaths": 3913,
+          "deaths": 3915,
           "recovered": 0
         }
       },
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 22374,
+      "confirmed": 22585,
       "date": "2020-07-29",
-      "deaths": 129,
-      "recovered": 12668
+      "deaths": 131,
+      "recovered": 12937
     }
   },
   "Venezuela": {
