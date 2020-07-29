@@ -88,18 +88,18 @@
     "ARG": {
       "back_1week": {
         "confirmed": 130774,
-        "deaths": 2373,
-        "recovered": 55913
+        "deaths": 2490,
+        "recovered": 58598
       },
       "back_2week": {
         "confirmed": 103265,
-        "deaths": 1903,
-        "recovered": 44173
+        "deaths": 1968,
+        "recovered": 45467
       },
       "latest": {
         "confirmed": 167416,
-        "deaths": 3059,
-        "recovered": 72575
+        "deaths": 3179,
+        "recovered": 75083
       }
     },
     "ARM": {
@@ -1165,19 +1165,19 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 74620,
-        "deaths": 5318,
-        "recovered": 31955
+        "confirmed": 76217,
+        "deaths": 5366,
+        "recovered": 32725
       },
       "back_2week": {
-        "confirmed": 68459,
-        "deaths": 5063,
-        "recovered": 30369
+        "confirmed": 69570,
+        "deaths": 5130,
+        "recovered": 30484
       },
       "latest": {
-        "confirmed": 81161,
-        "deaths": 5532,
-        "recovered": 34896
+        "confirmed": 82279,
+        "deaths": 5584,
+        "recovered": 35283
       }
     },
     "EGY": {
@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 25766,
+        "confirmed": 25802,
         "deaths": 1753,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 25638,
+        "confirmed": 25670,
         "deaths": 1746,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 25892,
+        "confirmed": 25929,
         "deaths": 1764,
         "recovered": 23364
       }
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 17562,
-        "deaths": 276,
-        "recovered": 15132
+        "confirmed": 17742,
+        "deaths": 280,
+        "recovered": 15389
       },
       "back_2week": {
-        "confirmed": 15936,
-        "deaths": 255,
-        "recovered": 12934
+        "confirmed": 16097,
+        "deaths": 257,
+        "recovered": 13442
       },
       "latest": {
-        "confirmed": 20887,
-        "deaths": 316,
-        "recovered": 16553
+        "confirmed": 21387,
+        "deaths": 327,
+        "recovered": 17066
       }
     },
     "MCO": {

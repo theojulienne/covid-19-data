@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 173355,
       "date": "2020-07-29",
-      "deaths": 3179,
-      "recovered": 75083
+      "deaths": 3200,
+      "recovered": 77855
     }
   },
   "Armenia": {
@@ -327,7 +327,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40838,
+          "confirmed": 40858,
           "date": "2020-07-29",
           "deaths": 2812,
           "recovered": 36228
@@ -477,10 +477,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 82279,
+      "confirmed": 83193,
       "date": "2020-07-29",
-      "deaths": 5584,
-      "recovered": 35283
+      "deaths": 5623,
+      "recovered": 35572
     }
   },
   "Egypt": {
@@ -757,7 +757,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 25929,
+      "confirmed": 25942,
       "date": "2020-07-29",
       "deaths": 1764,
       "recovered": 23364
@@ -765,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 66805,
+      "confirmed": 67734,
       "date": "2020-07-29",
-      "deaths": 490,
-      "recovered": 32697
+      "deaths": 491,
+      "recovered": 32722
     }
   },
   "Italy": {
@@ -977,10 +977,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 21387,
+      "confirmed": 22213,
       "date": "2020-07-29",
-      "deaths": 327,
-      "recovered": 17066
+      "deaths": 334,
+      "recovered": 17125
     }
   },
   "Nepal": {
@@ -1467,9 +1467,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 126054,
+          "confirmed": 126734,
           "date": "2020-07-29",
-          "deaths": 5806,
+          "deaths": 5811,
           "recovered": 0
         }
       },
@@ -1483,7 +1483,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 13780,
+          "confirmed": 13872,
           "date": "2020-07-29",
           "deaths": 510,
           "recovered": 0
@@ -1539,15 +1539,15 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 110454,
+          "confirmed": 110673,
           "date": "2020-07-29",
-          "deaths": 9657,
+          "deaths": 9627,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 371039,
+          "confirmed": 371495,
           "date": "2020-07-29",
           "deaths": 30307,
           "recovered": 0
@@ -1571,9 +1571,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 29945,
+          "confirmed": 30077,
           "date": "2020-07-29",
-          "deaths": 1678,
+          "deaths": 1680,
           "recovered": 0
         }
       },
