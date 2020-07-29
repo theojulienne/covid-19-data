@@ -2222,18 +2222,18 @@
     "MDA": {
       "back_1week": {
         "confirmed": 21115,
-        "deaths": 695,
-        "recovered": 14467
+        "deaths": 707,
+        "recovered": 14599
       },
       "back_2week": {
         "confirmed": 19439,
-        "deaths": 649,
-        "recovered": 12793
+        "deaths": 655,
+        "recovered": 13033
       },
       "latest": {
         "confirmed": 23154,
-        "deaths": 748,
-        "recovered": 16154
+        "deaths": 753,
+        "recovered": 16462
       }
     },
     "MDG": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 48035,
+        "confirmed": 48434,
         "deaths": 27,
         "recovered": 44371
       },
       "back_2week": {
-        "confirmed": 46283,
+        "confirmed": 46630,
         "deaths": 26,
         "recovered": 42541
       },
       "latest": {
-        "confirmed": 50838,
+        "confirmed": 51197,
         "deaths": 27,
         "recovered": 45692
       }
