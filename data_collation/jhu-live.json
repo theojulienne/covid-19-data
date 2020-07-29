@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 36368,
+      "confirmed": 36471,
       "date": "2020-07-29",
-      "deaths": 1270,
-      "recovered": 25358
+      "deaths": 1271,
+      "recovered": 25389
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 37629,
+      "confirmed": 37937,
       "date": "2020-07-29",
-      "deaths": 719,
-      "recovered": 27357
+      "deaths": 723,
+      "recovered": 27824
     }
   },
   "Austria": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 39921,
       "date": "2020-07-29",
-      "deaths": 141,
+      "deaths": 142,
       "recovered": 36531
     }
   },
@@ -485,10 +485,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 15446,
+      "confirmed": 15841,
       "date": "2020-07-29",
-      "deaths": 417,
-      "recovered": 7930
+      "deaths": 430,
+      "recovered": 8071
     }
   },
   "Ethiopia": {
@@ -514,20 +514,20 @@
           "confirmed": 37047,
           "date": "2020-07-29",
           "deaths": 1843,
-          "recovered": 34291
+          "recovered": 34400
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 50589,
+          "confirmed": 50696,
           "date": "2020-07-29",
-          "deaths": 2619,
-          "recovered": 46800
+          "deaths": 2621,
+          "recovered": 46900
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 11743,
+          "confirmed": 11806,
           "date": "2020-07-29",
           "deaths": 518,
           "recovered": 10800
@@ -535,18 +535,18 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14288,
+          "confirmed": 14305,
           "date": "2020-07-29",
           "deaths": 649,
-          "recovered": 13200
+          "recovered": 13300
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 47740,
+          "confirmed": 47965,
           "date": "2020-07-29",
           "deaths": 1730,
-          "recovered": 43500
+          "recovered": 43700
         }
       }
     }
@@ -803,7 +803,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 11621,
+          "confirmed": 11871,
           "date": "2020-07-29",
           "deaths": 328,
           "recovered": 8464
