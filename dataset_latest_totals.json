@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 109,
-          "tested": 48240
+          "tested": 48686
         },
         "NSW": {
           "confirmed": 3510,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 30,
-          "tested": 22526
+          "tested": 23084
         },
         "QLD": {
           "confirmed": 1076,
@@ -196,12 +196,12 @@
           "tested": 510206
         },
         "SA": {
-          "confirmed": 447,
+          "confirmed": 448,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 4,
           "recovered": 441,
-          "tested": 209996
+          "tested": 212490
         },
         "TAS": {
           "confirmed": 229,
@@ -209,7 +209,7 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 215,
-          "tested": 66019
+          "tested": 66544
         },
         "VIC": {
           "confirmed": 9049,
@@ -220,12 +220,12 @@
           "tested": 1536600
         },
         "WA": {
-          "confirmed": 658,
+          "confirmed": 659,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 9,
           "recovered": 647,
-          "tested": 241439
+          "tested": 243279
         }
       }
     },
