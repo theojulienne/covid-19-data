@@ -381,6 +381,7 @@ var covid19_dataset_country_gmb = {
       216,
       277,
       277,
+      326,
       326
     ],
     "deaths": [
@@ -571,6 +572,7 @@ var covid19_dataset_country_gmb = {
       6,
       6,
       6,
+      8,
       8
     ],
     "recovered": [
@@ -761,6 +763,7 @@ var covid19_dataset_country_gmb = {
       60,
       60,
       60,
+      66,
       66
     ]
   }

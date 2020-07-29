@@ -381,7 +381,8 @@ var covid19_dataset_country_ukr = {
       64173,
       65317,
       66261,
-      67096
+      67096,
+      68030
     ],
     "deaths": [
       0,
@@ -571,7 +572,8 @@ var covid19_dataset_country_ukr = {
       1591,
       1610,
       1625,
-      1636
+      1636,
+      1650
     ],
     "recovered": [
       0,
@@ -761,7 +763,8 @@ var covid19_dataset_country_ukr = {
       35932,
       36573,
       36885,
-      37202
+      37202,
+      37852
     ]
   }
 };
