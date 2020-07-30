@@ -385,7 +385,7 @@ var covid19_dataset_world_totals = {
       16429396,
       16668656,
       16952085,
-      16971494
+      16974457
     ],
     "deaths": [
       17,
@@ -578,7 +578,7 @@ var covid19_dataset_world_totals = {
       645800,
       651945,
       658571,
-      659130
+      659221
     ],
     "recovered": [
       28,
@@ -771,7 +771,7 @@ var covid19_dataset_world_totals = {
       9550218,
       9723638,
       9924157,
-      9944994
+      9949820
     ]
   }
 };
