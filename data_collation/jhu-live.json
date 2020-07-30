@@ -496,7 +496,7 @@
       "confirmed": 15841,
       "date": "2020-07-30",
       "deaths": 430,
-      "recovered": 8071
+      "recovered": 8095
     }
   },
   "Ethiopia": {
@@ -765,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 68299,
+      "confirmed": 68556,
       "date": "2020-07-30",
       "deaths": 491,
-      "recovered": 32746
+      "recovered": 35513
     }
   },
   "Italy": {
@@ -1673,9 +1673,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 22585,
+      "confirmed": 22872,
       "date": "2020-07-30",
-      "deaths": 131,
+      "deaths": 132,
       "recovered": 12937
     }
   },
