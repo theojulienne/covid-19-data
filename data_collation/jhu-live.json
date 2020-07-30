@@ -76,7 +76,7 @@
       "confirmed": 67335,
       "date": "2020-07-30",
       "deaths": 9836,
-      "recovered": 17491
+      "recovered": 17492
     }
   },
   "Bolivia": {
@@ -126,7 +126,7 @@
           "confirmed": 99093,
           "date": "2020-07-30",
           "deaths": 3246,
-          "recovered": 82512
+          "recovered": 84218
         }
       },
       "Bahia": {
@@ -166,7 +166,7 @@
           "confirmed": 63658,
           "date": "2020-07-30",
           "deaths": 1554,
-          "recovered": 56302
+          "recovered": 56413
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 48317,
           "date": "2020-07-30",
           "deaths": 1702,
-          "recovered": 27643
+          "recovered": 28941
         }
       },
       "Mato Grosso do Sul": {
@@ -214,7 +214,7 @@
           "confirmed": 79898,
           "date": "2020-07-30",
           "deaths": 1766,
-          "recovered": 32324
+          "recovered": 33636
         }
       },
       "Parana": {
@@ -230,7 +230,7 @@
           "confirmed": 91536,
           "date": "2020-07-30",
           "deaths": 6484,
-          "recovered": 67929
+          "recovered": 68401
         }
       },
       "Piaui": {
@@ -238,7 +238,7 @@
           "confirmed": 48962,
           "date": "2020-07-30",
           "deaths": 1292,
-          "recovered": 46880
+          "recovered": 48094
         }
       },
       "Rio Grande do Norte": {
@@ -270,7 +270,7 @@
           "confirmed": 37634,
           "date": "2020-07-30",
           "deaths": 855,
-          "recovered": 25730
+          "recovered": 27380
         }
       },
       "Roraima": {
@@ -278,7 +278,7 @@
           "confirmed": 30996,
           "date": "2020-07-30",
           "deaths": 493,
-          "recovered": 8862
+          "recovered": 8876
         }
       },
       "Santa Catarina": {
@@ -985,10 +985,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 19273,
+      "confirmed": 19547,
       "date": "2020-07-30",
-      "deaths": 49,
-      "recovered": 14021
+      "deaths": 52,
+      "recovered": 14248
     }
   },
   "Netherlands": {
@@ -1173,10 +1173,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 110153,
+      "confirmed": 110460,
       "date": "2020-07-30",
-      "deaths": 169,
-      "recovered": 106849
+      "deaths": 171,
+      "recovered": 107135
     }
   },
   "Romania": {
