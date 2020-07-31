@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 20955,
+      "confirmed": 21130,
       "date": "2020-07-31",
       "deaths": 718,
-      "recovered": 18628
+      "recovered": 18758
     }
   },
   "Azerbaijan": {
@@ -543,9 +543,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14382,
+          "confirmed": 14440,
           "date": "2020-07-31",
-          "deaths": 651,
+          "deaths": 652,
           "recovered": 13300
         }
       },
@@ -733,10 +733,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 106336,
+      "confirmed": 108376,
       "date": "2020-07-31",
-      "deaths": 5058,
-      "recovered": 64292
+      "deaths": 5131,
+      "recovered": 65907
     }
   },
   "Iran": {
@@ -765,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 70379,
+      "confirmed": 70582,
       "date": "2020-07-31",
-      "deaths": 503,
-      "recovered": 43796
+      "deaths": 509,
+      "recovered": 43813
     }
   },
   "Italy": {
@@ -1152,7 +1152,7 @@
       "confirmed": 45031,
       "date": "2020-07-31",
       "deaths": 1709,
-      "recovered": 33643
+      "recovered": 33987
     }
   },
   "Portugal": {
@@ -1281,7 +1281,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 51809,
+      "confirmed": 52205,
       "date": "2020-07-31",
       "deaths": 27,
       "recovered": 46308
@@ -1491,9 +1491,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 76888,
+          "confirmed": 77142,
           "date": "2020-07-31",
-          "deaths": 5186,
+          "deaths": 5194,
           "recovered": 0
         }
       },
