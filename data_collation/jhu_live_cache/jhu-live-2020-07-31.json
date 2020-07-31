@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 185373,
       "date": "2020-07-31",
-      "deaths": 3441,
-      "recovered": 80596
+      "deaths": 3466,
+      "recovered": 83780
     }
   },
   "Armenia": {
@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 40953,
+          "confirmed": 40956,
           "date": "2020-07-31",
           "deaths": 2816,
-          "recovered": 36388
+          "recovered": 36389
         }
       },
       "Quebec": {
@@ -651,10 +651,10 @@
       },
       "Kerala": {
         "live": {
-          "confirmed": 21797,
+          "confirmed": 22303,
           "date": "2020-07-31",
-          "deaths": 68,
-          "recovered": 11365
+          "deaths": 70,
+          "recovered": 12159
         }
       },
       "Madhya Pradesh": {
@@ -995,7 +995,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 13038,
+          "confirmed": 13060,
           "date": "2020-07-31",
           "deaths": 1310,
           "recovered": 0
@@ -1265,17 +1265,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 274219,
+      "confirmed": 275905,
       "date": "2020-07-31",
-      "deaths": 2842,
-      "recovered": 231198
+      "deaths": 2866,
+      "recovered": 235658
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 25213,
+      "confirmed": 25552,
       "date": "2020-07-31",
-      "deaths": 565,
+      "deaths": 573,
       "recovered": 0
     }
   },
@@ -1673,10 +1673,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 23558,
+      "confirmed": 23773,
       "date": "2020-07-31",
       "deaths": 139,
-      "recovered": 13680
+      "recovered": 14204
     }
   },
   "Venezuela": {
