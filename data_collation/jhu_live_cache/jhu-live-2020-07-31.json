@@ -749,10 +749,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 121263,
+      "confirmed": 124609,
       "date": "2020-07-31",
-      "deaths": 4671,
-      "recovered": 85546
+      "deaths": 4741,
+      "recovered": 87434
     }
   },
   "Ireland": {
@@ -829,10 +829,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 19913,
+      "confirmed": 20636,
       "date": "2020-07-31",
-      "deaths": 325,
-      "recovered": 8121
+      "deaths": 341,
+      "recovered": 8165
     }
   },
   "Korea, South": {
@@ -969,10 +969,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 24343,
+      "confirmed": 24733,
       "date": "2020-07-31",
-      "deaths": 771,
-      "recovered": 17040
+      "deaths": 778,
+      "recovered": 17269
     }
   },
   "Morocco": {
@@ -1157,10 +1157,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 50868,
+      "confirmed": 51072,
       "date": "2020-07-31",
-      "deaths": 1727,
-      "recovered": 36140
+      "deaths": 1735,
+      "recovered": 36483
     }
   },
   "Qatar": {
@@ -1395,7 +1395,7 @@
     "live": {
       "confirmed": 35232,
       "date": "2020-07-31",
-      "deaths": 1980,
+      "deaths": 1981,
       "recovered": 31100
     }
   },
@@ -1459,9 +1459,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 127616,
+          "confirmed": 116439,
           "date": "2020-07-31",
-          "deaths": 5821,
+          "deaths": 5312,
           "recovered": 0
         }
       },
@@ -1483,17 +1483,17 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 51195,
+          "confirmed": 62994,
           "date": "2020-07-31",
-          "deaths": 2068,
+          "deaths": 2480,
           "recovered": 0
         }
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 77142,
+          "confirmed": 76888,
           "date": "2020-07-31",
-          "deaths": 5194,
+          "deaths": 5186,
           "recovered": 0
         }
       },
@@ -1515,9 +1515,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 12548,
+          "confirmed": 12880,
           "date": "2020-07-31",
-          "deaths": 648,
+          "deaths": 650,
           "recovered": 0
         }
       },
@@ -1689,10 +1689,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 11548,
+      "confirmed": 11837,
       "date": "2020-07-31",
-      "deaths": 81,
-      "recovered": 5016
+      "deaths": 82,
+      "recovered": 5077
     }
   }
 }
