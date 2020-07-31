@@ -3386,7 +3386,7 @@
         "tested": 42304376
       },
       "latest": {
-        "confirmed": 4378571,
+        "confirmed": 4381549,
         "deaths": 142651,
         "recovered": 1389946,
         "tested": 53479996
@@ -3551,7 +3551,7 @@
           "tested": 993091
         },
         "MO": {
-          "confirmed": 43772,
+          "confirmed": 46750,
           "deaths": 1220,
           "tested": 660899
         },
