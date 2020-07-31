@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 12707,
-        "current_hospitalized": 13,
-        "current_icu": 7,
-        "deaths": 130,
-        "recovered": 7275,
-        "tested": 3650465
+        "confirmed": 13117,
+        "current_hospitalized": 14,
+        "current_icu": 6,
+        "deaths": 135,
+        "recovered": 7280,
+        "tested": 3719822
       },
       "back_2week": {
-        "confirmed": 10306,
-        "current_hospitalized": 10,
+        "confirmed": 10621,
+        "current_hospitalized": 9,
         "current_icu": 6,
-        "deaths": 113,
-        "recovered": 7247,
-        "tested": 3222049
+        "deaths": 115,
+        "recovered": 7248,
+        "tested": 3287717
       },
       "latest": {
-        "confirmed": 15394,
-        "current_hospitalized": 20,
-        "current_icu": 10,
-        "deaths": 178,
+        "confirmed": 16109,
+        "current_hospitalized": 6,
+        "current_icu": 5,
+        "deaths": 191,
         "recovered": 4499,
-        "tested": 4097544
+        "tested": 4153542
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 48686
         },
         "NSW": {
-          "confirmed": 3529,
+          "confirmed": 3547,
           "current_hospitalized": 10,
           "current_icu": 5,
           "current_ventilators": 16,
           "deaths": 51,
           "recovered": 2799,
-          "tested": 1409687
+          "tested": 1436834
         },
         "NT": {
           "confirmed": 31,
@@ -3386,10 +3386,10 @@ var covid19_dataset_latest_totals = {
         "tested": 42304376
       },
       "latest": {
-        "confirmed": 4378069,
-        "deaths": 142622,
-        "recovered": 1388803,
-        "tested": 53464294
+        "confirmed": 4378571,
+        "deaths": 142651,
+        "recovered": 1389946,
+        "tested": 53479996
       },
       "states": {
         "AK": {
@@ -3517,11 +3517,11 @@ var covid19_dataset_latest_totals = {
           "tested": 1295131
         },
         "MA": {
-          "confirmed": 116182,
-          "deaths": 8551,
-          "hospitalized": 11855,
-          "recovered": 96452,
-          "tested": 1141116
+          "confirmed": 116684,
+          "deaths": 8580,
+          "hospitalized": 11876,
+          "recovered": 97595,
+          "tested": 1156818
         },
         "MD": {
           "confirmed": 86285,
