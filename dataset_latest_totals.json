@@ -188,12 +188,12 @@
           "tested": 23084
         },
         "QLD": {
-          "confirmed": 1079,
+          "confirmed": 1082,
           "current_hospitalized": 4,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1063,
-          "tested": 518517
+          "tested": 526768
         },
         "SA": {
           "confirmed": 448,

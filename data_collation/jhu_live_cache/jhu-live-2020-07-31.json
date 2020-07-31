@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 67335,
+      "confirmed": 68006,
       "date": "2020-07-31",
-      "deaths": 9836,
-      "recovered": 17492
+      "deaths": 9840,
+      "recovered": 17513
     }
   },
   "Bolivia": {
@@ -585,10 +585,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 40944,
+      "confirmed": 41426,
       "date": "2020-07-31",
-      "deaths": 1259,
-      "recovered": 5281
+      "deaths": 1312,
+      "recovered": 5443
     }
   },
   "India": {
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 362483,
+          "confirmed": 362884,
           "date": "2020-07-31",
-          "deaths": 7232,
+          "deaths": 7238,
           "recovered": 0
         }
       },
@@ -1491,9 +1491,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 76888,
+          "confirmed": 77142,
           "date": "2020-07-31",
-          "deaths": 5186,
+          "deaths": 5194,
           "recovered": 0
         }
       },
