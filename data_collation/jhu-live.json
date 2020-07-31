@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 40755,
+      "confirmed": 40982,
       "date": "2020-07-31",
       "deaths": 147,
-      "recovered": 37357
+      "recovered": 37840
     }
   },
   "Bangladesh": {
@@ -335,7 +335,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41152,
+          "confirmed": 41153,
           "date": "2020-07-31",
           "deaths": 2819,
           "recovered": 36753
@@ -493,10 +493,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 93757,
+      "confirmed": 94078,
       "date": "2020-07-31",
-      "deaths": 4774,
-      "recovered": 38236
+      "deaths": 4805,
+      "recovered": 39638
     }
   },
   "El Salvador": {
@@ -861,10 +861,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 35619,
+      "confirmed": 35805,
       "date": "2020-07-31",
-      "deaths": 1372,
-      "recovered": 24685
+      "deaths": 1378,
+      "recovered": 25037
     }
   },
   "Mexico": {
