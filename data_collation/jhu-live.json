@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 234889,
+      "confirmed": 237661,
       "date": "2020-07-31",
-      "deaths": 3083,
-      "recovered": 132960
+      "deaths": 3111,
+      "recovered": 135136
     }
   },
   "Belarus": {
@@ -527,7 +527,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 50821,
+          "confirmed": 50915,
           "date": "2020-07-31",
           "deaths": 2622,
           "recovered": 46930
@@ -535,9 +535,9 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 11895,
+          "confirmed": 11965,
           "date": "2020-07-31",
-          "deaths": 519,
+          "deaths": 520,
           "recovered": 10800
         }
       },
@@ -551,9 +551,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 48301,
+          "confirmed": 48689,
           "date": "2020-07-31",
-          "deaths": 1732,
+          "deaths": 1733,
           "recovered": 43868
         }
       }
@@ -814,7 +814,7 @@
           "confirmed": 12701,
           "date": "2020-07-31",
           "deaths": 330,
-          "recovered": 9109
+          "recovered": 9438
         }
       }
     }
@@ -1149,9 +1149,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 45031,
+      "confirmed": 45688,
       "date": "2020-07-31",
-      "deaths": 1709,
+      "deaths": 1716,
       "recovered": 33987
     }
   },
