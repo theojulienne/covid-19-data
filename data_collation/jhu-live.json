@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 38196,
+      "confirmed": 38550,
       "date": "2020-07-31",
-      "deaths": 728,
-      "recovered": 28366
+      "deaths": 738,
+      "recovered": 28997
     }
   },
   "Austria": {
@@ -361,14 +361,6 @@
           "recovered": 13141
         }
       },
-      "Biobio": {
-        "live": {
-          "confirmed": 11135,
-          "date": "2020-07-31",
-          "deaths": 114,
-          "recovered": 9594
-        }
-      },
       "Metropolitana": {
         "live": {
           "confirmed": 255020,
@@ -504,7 +496,7 @@
       "confirmed": 16230,
       "date": "2020-07-31",
       "deaths": 439,
-      "recovered": 8206
+      "recovered": 8268
     }
   },
   "Ethiopia": {
@@ -715,10 +707,10 @@
       },
       "Telangana": {
         "live": {
-          "confirmed": 57142,
-          "date": "2020-07-30",
-          "deaths": 480,
-          "recovered": 42909
+          "confirmed": 60717,
+          "date": "2020-07-31",
+          "deaths": 505,
+          "recovered": 44572
         }
       },
       "Uttar Pradesh": {
@@ -773,10 +765,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 70036,
+      "confirmed": 70379,
       "date": "2020-07-31",
-      "deaths": 500,
-      "recovered": 43489
+      "deaths": 503,
+      "recovered": 43796
     }
   },
   "Italy": {
@@ -819,7 +811,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 12698,
+          "confirmed": 12701,
           "date": "2020-07-31",
           "deaths": 330,
           "recovered": 9109
@@ -1189,76 +1181,84 @@
   },
   "Russia": {
     "subseries": {
+      "Chelyabinsk Oblast": {
+        "live": {
+          "confirmed": 11197,
+          "date": "2020-07-31",
+          "deaths": 93,
+          "recovered": 6686
+        }
+      },
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 13282,
+          "confirmed": 13422,
           "date": "2020-07-31",
-          "deaths": 171,
-          "recovered": 8370
+          "deaths": 174,
+          "recovered": 8599
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 16162,
+          "confirmed": 16333,
           "date": "2020-07-31",
           "deaths": 128,
-          "recovered": 12452
+          "recovered": 12790
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 13000,
+          "confirmed": 13145,
           "date": "2020-07-31",
-          "deaths": 325,
-          "recovered": 11626
+          "deaths": 331,
+          "recovered": 11710
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 240664,
+          "confirmed": 241359,
           "date": "2020-07-31",
-          "deaths": 4446,
-          "recovered": 177908
+          "deaths": 4460,
+          "recovered": 179168
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 63299,
+          "confirmed": 63449,
           "date": "2020-07-31",
-          "deaths": 1105,
-          "recovered": 46365
+          "deaths": 1106,
+          "recovered": 46653
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 23647,
+          "confirmed": 23792,
           "date": "2020-07-31",
-          "deaths": 379,
-          "recovered": 19078
+          "deaths": 384,
+          "recovered": 19479
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 12808,
+          "confirmed": 12941,
           "date": "2020-07-31",
-          "deaths": 219,
-          "recovered": 10285
+          "deaths": 225,
+          "recovered": 10382
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 31302,
+          "confirmed": 31461,
           "date": "2020-07-31",
-          "deaths": 2023,
-          "recovered": 23292
+          "deaths": 2043,
+          "recovered": 23370
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 20372,
+          "confirmed": 20582,
           "date": "2020-07-31",
-          "deaths": 264,
-          "recovered": 16375
+          "deaths": 270,
+          "recovered": 16981
         }
       }
     }
@@ -1491,9 +1491,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 77142,
+          "confirmed": 76888,
           "date": "2020-07-31",
-          "deaths": 5194,
+          "deaths": 5186,
           "recovered": 0
         }
       },
@@ -1673,9 +1673,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 23271,
+      "confirmed": 23558,
       "date": "2020-07-31",
-      "deaths": 136,
+      "deaths": 137,
       "recovered": 13680
     }
   },
