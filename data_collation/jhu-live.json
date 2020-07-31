@@ -41,17 +41,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 31560,
+      "confirmed": 31878,
       "date": "2020-07-31",
-      "deaths": 441,
-      "recovered": 25168
+      "deaths": 448,
+      "recovered": 25882
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 40755,
       "date": "2020-07-31",
-      "deaths": 146,
+      "deaths": 147,
       "recovered": 37357
     }
   },
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 11444,
+      "confirmed": 11876,
       "date": "2020-07-31",
-      "deaths": 328,
-      "recovered": 5586
+      "deaths": 339,
+      "recovered": 5959
     }
   },
   "Brazil": {
@@ -126,7 +126,7 @@
           "confirmed": 100140,
           "date": "2020-07-31",
           "deaths": 3252,
-          "recovered": 84218
+          "recovered": 84866
         }
       },
       "Bahia": {
@@ -166,7 +166,7 @@
           "confirmed": 65269,
           "date": "2020-07-31",
           "deaths": 1564,
-          "recovered": 58483
+          "recovered": 58679
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 50447,
           "date": "2020-07-31",
           "deaths": 1763,
-          "recovered": 28941
+          "recovered": 30460
         }
       },
       "Mato Grosso do Sul": {
@@ -222,7 +222,7 @@
           "confirmed": 73488,
           "date": "2020-07-31",
           "deaths": 1861,
-          "recovered": 36660
+          "recovered": 38448
         }
       },
       "Pernambuco": {
@@ -230,7 +230,7 @@
           "confirmed": 93373,
           "date": "2020-07-31",
           "deaths": 6526,
-          "recovered": 68401
+          "recovered": 69073
         }
       },
       "Piaui": {
@@ -238,7 +238,7 @@
           "confirmed": 50198,
           "date": "2020-07-31",
           "deaths": 1304,
-          "recovered": 48094
+          "recovered": 49367
         }
       },
       "Rio Grande do Norte": {
@@ -270,7 +270,7 @@
           "confirmed": 38407,
           "date": "2020-07-31",
           "deaths": 864,
-          "recovered": 27380
+          "recovered": 29286
         }
       },
       "Roraima": {
@@ -278,7 +278,7 @@
           "confirmed": 31455,
           "date": "2020-07-31",
           "deaths": 501,
-          "recovered": 8876
+          "recovered": 8920
         }
       },
       "Santa Catarina": {
@@ -461,10 +461,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 13725,
+      "confirmed": 13789,
       "date": "2020-07-31",
       "deaths": 615,
-      "recovered": 12526
+      "recovered": 12578
     }
   },
   "Dominican Republic": {
@@ -527,10 +527,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 50915,
+          "confirmed": 50919,
           "date": "2020-07-31",
           "deaths": 2622,
-          "recovered": 46930
+          "recovered": 46990
         }
       },
       "Hessen": {
@@ -554,7 +554,7 @@
           "confirmed": 48689,
           "date": "2020-07-31",
           "deaths": 1733,
-          "recovered": 43868
+          "recovered": 44151
         }
       }
     }
@@ -845,10 +845,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 66529,
+      "confirmed": 66957,
       "date": "2020-07-31",
-      "deaths": 445,
-      "recovered": 57330
+      "deaths": 447,
+      "recovered": 57932
     }
   },
   "Kyrgyzstan": {
@@ -995,7 +995,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 12904,
+          "confirmed": 13038,
           "date": "2020-07-31",
           "deaths": 1310,
           "recovered": 0
@@ -1165,10 +1165,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 110460,
+      "confirmed": 110695,
       "date": "2020-07-31",
-      "deaths": 171,
-      "recovered": 107135
+      "deaths": 174,
+      "recovered": 107377
     }
   },
   "Romania": {
@@ -1375,7 +1375,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23239,
+          "confirmed": 23304,
           "date": "2020-07-31",
           "deaths": 2387,
           "recovered": 0
@@ -1383,9 +1383,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 18065,
+          "confirmed": 18205,
           "date": "2020-07-31",
-          "deaths": 836,
+          "deaths": 838,
           "recovered": 0
         }
       }
@@ -1675,7 +1675,7 @@
     "live": {
       "confirmed": 23558,
       "date": "2020-07-31",
-      "deaths": 137,
+      "deaths": 139,
       "recovered": 13680
     }
   },
