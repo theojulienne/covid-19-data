@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 191302,
       "date": "2020-08-01",
-      "deaths": 3543,
-      "recovered": 83780
+      "deaths": 3558,
+      "recovered": 86499
     }
   },
   "Armenia": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 67808,
+      "confirmed": 67946,
       "date": "2020-08-01",
-      "deaths": 559,
-      "recovered": 62444
+      "deaths": 563,
+      "recovered": 62686
     }
   },
   "Belgium": {
@@ -837,10 +837,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 20636,
+      "confirmed": 21363,
       "date": "2020-08-01",
-      "deaths": 341,
-      "recovered": 8165
+      "deaths": 364,
+      "recovered": 8419
     }
   },
   "Korea, South": {
@@ -977,9 +977,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 24733,
+      "confirmed": 25113,
       "date": "2020-08-01",
-      "deaths": 783,
+      "deaths": 788,
       "recovered": 17571
     }
   },
@@ -1165,10 +1165,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 51072,
+      "confirmed": 51310,
       "date": "2020-08-01",
-      "deaths": 1735,
-      "recovered": 36483
+      "deaths": 1737,
+      "recovered": 36783
     }
   },
   "Qatar": {
@@ -1189,14 +1189,6 @@
   },
   "Russia": {
     "subseries": {
-      "Chelyabinsk Oblast": {
-        "live": {
-          "confirmed": 11307,
-          "date": "2020-08-01",
-          "deaths": 94,
-          "recovered": 6833
-        }
-      },
       "Irkutsk Oblast": {
         "live": {
           "confirmed": 13568,
@@ -1491,9 +1483,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 51802,
+          "confirmed": 63674,
           "date": "2020-08-01",
-          "deaths": 2073,
+          "deaths": 2488,
           "recovered": 0
         }
       },
@@ -1523,7 +1515,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 12880,
+          "confirmed": 13162,
           "date": "2020-08-01",
           "deaths": 650,
           "recovered": 0
