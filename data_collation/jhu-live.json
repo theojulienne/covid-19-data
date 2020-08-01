@@ -493,10 +493,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 94078,
+      "confirmed": 94316,
       "date": "2020-08-01",
-      "deaths": 4805,
-      "recovered": 39638
+      "deaths": 4834,
+      "recovered": 41137
     }
   },
   "El Salvador": {
@@ -773,10 +773,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 72163,
+      "confirmed": 72218,
       "date": "2020-08-01",
-      "deaths": 523,
-      "recovered": 45098
+      "deaths": 526,
+      "recovered": 45102
     }
   },
   "Italy": {
@@ -1289,10 +1289,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 493183,
+      "confirmed": 503290,
       "date": "2020-08-01",
-      "deaths": 8005,
-      "recovered": 326171
+      "deaths": 8153,
+      "recovered": 342461
     }
   },
   "Spain": {
