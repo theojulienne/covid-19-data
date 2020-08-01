@@ -2779,19 +2779,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 108244,
+        "confirmed": 108638,
         "deaths": 164,
-        "recovered": 105018
+        "recovered": 105420
       },
       "back_2week": {
-        "confirmed": 105477,
+        "confirmed": 105898,
         "deaths": 152,
-        "recovered": 102168
+        "recovered": 102597
       },
       "latest": {
-        "confirmed": 110460,
+        "confirmed": 110695,
         "deaths": 171,
-        "recovered": 107135
+        "recovered": 107377
       }
     },
     "RKS": {

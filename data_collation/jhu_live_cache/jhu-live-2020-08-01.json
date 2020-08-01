@@ -1173,10 +1173,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 110695,
+      "confirmed": 110911,
       "date": "2020-08-01",
       "deaths": 174,
-      "recovered": 107377
+      "recovered": 107578
     }
   },
   "Romania": {
@@ -1699,7 +1699,7 @@
     "live": {
       "confirmed": 12160,
       "date": "2020-08-01",
-      "deaths": 82,
+      "deaths": 83,
       "recovered": 5324
     }
   }
