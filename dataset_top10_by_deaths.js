@@ -1360,7 +1360,7 @@ var covid19_dataset_top10_by_deaths = {
           209342,
           209211,
           210465,
-          213185
+          213114
         ],
         "deaths": [
           0,
@@ -1748,7 +1748,7 @@ var covid19_dataset_top10_by_deaths = {
           71667,
           71597,
           71643,
-          71775
+          71659
         ]
       }
     },
@@ -6227,7 +6227,8 @@ var covid19_dataset_top10_by_deaths = {
     "2020-07-29",
     "2020-07-30",
     "2020-07-31",
-    "2020-08-01"
+    "2020-08-01",
+    "2020-08-02"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});

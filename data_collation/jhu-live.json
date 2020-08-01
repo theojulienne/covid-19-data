@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 185373,
+      "confirmed": 191302,
       "date": "2020-07-31",
-      "deaths": 3466,
+      "deaths": 3543,
       "recovered": 83780
     }
   },
@@ -461,10 +461,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 16474,
+      "confirmed": 16574,
       "date": "2020-07-31",
       "deaths": 382,
-      "recovered": 11559
+      "recovered": 11569
     }
   },
   "Denmark": {
@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 213185,
+      "confirmed": 213114,
       "date": "2020-07-31",
       "deaths": 30150,
-      "recovered": 71775
+      "recovered": 71659
     }
   },
   "Germany": {
@@ -1013,10 +1013,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 42689,
+      "confirmed": 43151,
       "date": "2020-07-31",
-      "deaths": 878,
-      "recovered": 19270
+      "deaths": 879,
+      "recovered": 19565
     }
   },
   "Oman": {
@@ -1073,10 +1073,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 64191,
+      "confirmed": 65256,
       "date": "2020-07-31",
-      "deaths": 1397,
-      "recovered": 38218
+      "deaths": 1421,
+      "recovered": 39166
     }
   },
   "Peru": {
@@ -1365,10 +1365,10 @@
   },
   "Sudan": {
     "live": {
-      "confirmed": 11496,
+      "confirmed": 11644,
       "date": "2020-07-31",
-      "deaths": 725,
-      "recovered": 6001
+      "deaths": 746,
+      "recovered": 6119
     }
   },
   "Sweden": {
@@ -1419,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 362884,
+          "confirmed": 367397,
           "date": "2020-07-31",
-          "deaths": 7222,
+          "deaths": 7323,
           "recovered": 0
         }
       },
@@ -1681,9 +1681,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 17859,
+      "confirmed": 18574,
       "date": "2020-07-31",
-      "deaths": 158,
+      "deaths": 164,
       "recovered": 10421
     }
   },
