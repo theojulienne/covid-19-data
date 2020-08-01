@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41178,
+          "confirmed": 41212,
           "date": "2020-08-01",
           "deaths": 2819,
-          "recovered": 36753
+          "recovered": 36843
         }
       },
       "Quebec": {
@@ -355,34 +355,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 14754,
+          "confirmed": 14884,
           "date": "2020-08-01",
-          "deaths": 347,
-          "recovered": 13255
+          "deaths": 352,
+          "recovered": 13399
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 11317,
+          "confirmed": 11493,
           "date": "2020-08-01",
-          "deaths": 119,
-          "recovered": 9743
+          "deaths": 120,
+          "recovered": 9896
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 255841,
+          "confirmed": 256628,
           "date": "2020-08-01",
-          "deaths": 7554,
-          "recovered": 241385
+          "deaths": 7599,
+          "recovered": 242313
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 17580,
+          "confirmed": 17767,
           "date": "2020-08-01",
-          "deaths": 497,
-          "recovered": 15731
+          "deaths": 507,
+          "recovered": 15896
         }
       }
     }
@@ -783,34 +783,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 29670,
+          "confirmed": 29726,
           "date": "2020-08-01",
-          "deaths": 4289,
-          "recovered": 23885
+          "deaths": 4291,
+          "recovered": 23925
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 96219,
+          "confirmed": 96274,
           "date": "2020-08-01",
-          "deaths": 16806,
-          "recovered": 73402
+          "deaths": 16807,
+          "recovered": 73512
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31667,
+          "confirmed": 31683,
           "date": "2020-08-01",
           "deaths": 4129,
-          "recovered": 26739
+          "recovered": 26753
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 20120,
+          "confirmed": 20166,
           "date": "2020-08-01",
-          "deaths": 2074,
-          "recovered": 17046
+          "deaths": 2075,
+          "recovered": 17090
         }
       }
     }
@@ -821,7 +821,7 @@
         "live": {
           "confirmed": 13173,
           "date": "2020-08-01",
-          "deaths": 330,
+          "deaths": 332,
           "recovered": 9615
         }
       }
@@ -1409,6 +1409,14 @@
   },
   "US": {
     "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 11465,
+          "date": "2020-08-01",
+          "deaths": 225,
+          "recovered": 0
+        }
+      },
       "Arizona": {
         "live": {
           "confirmed": 133460,
@@ -1443,9 +1451,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 330572,
+          "confirmed": 337125,
           "date": "2020-08-01",
-          "deaths": 4834,
+          "deaths": 4958,
           "recovered": 0
         }
       },
@@ -1483,9 +1491,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 63674,
+          "confirmed": 52268,
           "date": "2020-08-01",
-          "deaths": 2488,
+          "deaths": 2079,
           "recovered": 0
         }
       },
@@ -1579,9 +1587,9 @@
       },
       "South Carolina": {
         "live": {
-          "confirmed": 11345,
+          "confirmed": 11471,
           "date": "2020-08-01",
-          "deaths": 162,
+          "deaths": 165,
           "recovered": 0
         }
       },
@@ -1647,15 +1655,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 261348,
+          "confirmed": 262070,
           "date": "2020-08-01",
-          "deaths": 41512,
+          "deaths": 41584,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18627,
+          "confirmed": 18645,
           "date": "2020-08-01",
           "deaths": 2491,
           "recovered": 0
@@ -1663,9 +1671,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17258,
+          "confirmed": 17279,
           "date": "2020-08-01",
-          "deaths": 1560,
+          "deaths": 1562,
           "recovered": 0
         }
       }
