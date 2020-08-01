@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 31878,
+      "confirmed": 32157,
       "date": "2020-08-01",
-      "deaths": 448,
-      "recovered": 25882
+      "deaths": 454,
+      "recovered": 26474
     }
   },
   "Bahrain": {
@@ -853,10 +853,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 66957,
+      "confirmed": 67448,
       "date": "2020-08-01",
-      "deaths": 447,
-      "recovered": 57932
+      "deaths": 453,
+      "recovered": 58525
     }
   },
   "Kyrgyzstan": {
@@ -1003,9 +1003,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 13060,
+          "confirmed": 13262,
           "date": "2020-08-01",
-          "deaths": 1310,
+          "deaths": 1311,
           "recovered": 0
         }
       }
@@ -1273,17 +1273,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 275905,
+      "confirmed": 277478,
       "date": "2020-08-01",
-      "deaths": 2866,
-      "recovered": 235658
+      "deaths": 2887,
+      "recovered": 237548
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 25552,
+      "confirmed": 25882,
       "date": "2020-08-01",
-      "deaths": 573,
+      "deaths": 582,
       "recovered": 0
     }
   },
@@ -1619,9 +1619,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 15616,
+          "confirmed": 15689,
           "date": "2020-08-01",
-          "deaths": 520,
+          "deaths": 522,
           "recovered": 0
         }
       },
@@ -1681,10 +1681,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 24304,
+      "confirmed": 24569,
       "date": "2020-08-01",
-      "deaths": 143,
-      "recovered": 14464
+      "deaths": 145,
+      "recovered": 14916
     }
   },
   "Venezuela": {
