@@ -553,7 +553,7 @@
         "live": {
           "confirmed": 14499,
           "date": "2020-08-01",
-          "deaths": 652,
+          "deaths": 653,
           "recovered": 13400
         }
       },
@@ -562,7 +562,7 @@
           "confirmed": 49102,
           "date": "2020-08-01",
           "deaths": 1739,
-          "recovered": 44300
+          "recovered": 44417
         }
       }
     }
@@ -993,10 +993,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 19771,
+      "confirmed": 20086,
       "date": "2020-08-01",
       "deaths": 56,
-      "recovered": 14399
+      "recovered": 14492
     }
   },
   "Netherlands": {
@@ -1401,7 +1401,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 35232,
+      "confirmed": 35412,
       "date": "2020-08-01",
       "deaths": 1981,
       "recovered": 31100
@@ -1645,10 +1645,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 60506,
+      "confirmed": 60760,
       "date": "2020-08-01",
       "deaths": 351,
-      "recovered": 53909
+      "recovered": 54255
     }
   },
   "United Kingdom": {
