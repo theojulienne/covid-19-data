@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 49098,
+        "confirmed": 49375,
         "deaths": 27,
         "recovered": 45015
       },
       "back_2week": {
-        "confirmed": 47126,
+        "confirmed": 47453,
         "deaths": 27,
         "recovered": 43256
       },
       "latest": {
-        "confirmed": 51809,
+        "confirmed": 52205,
         "deaths": 27,
         "recovered": 46308
       }
