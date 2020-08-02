@@ -31,6 +31,18 @@
       "recovered": 29557
     }
   },
+  "Australia": {
+    "subseries": {
+      "Victoria": {
+        "live": {
+          "confirmed": 11557,
+          "date": "2020-08-02",
+          "deaths": 123,
+          "recovered": 4696
+        }
+      }
+    }
+  },
   "Austria": {
     "live": {
       "confirmed": 21212,
@@ -503,8 +515,8 @@
     "live": {
       "confirmed": 17050,
       "date": "2020-08-02",
-      "deaths": 459,
-      "recovered": 8495
+      "deaths": 467,
+      "recovered": 8561
     }
   },
   "Ethiopia": {
@@ -837,10 +849,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 90367,
+      "confirmed": 91593,
       "date": "2020-08-02",
       "deaths": 793,
-      "recovered": 60825
+      "recovered": 61839
     }
   },
   "Kenya": {
@@ -1427,9 +1439,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 383733,
+          "confirmed": 372250,
           "date": "2020-08-02",
-          "deaths": 7630,
+          "deaths": 7462,
           "recovered": 0
         }
       },
@@ -1673,9 +1685,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 24783,
+      "confirmed": 25040,
       "date": "2020-08-02",
-      "deaths": 147,
+      "deaths": 149,
       "recovered": 15299
     }
   },

@@ -212,10 +212,10 @@
           "tested": 66544
         },
         "VIC": {
-          "confirmed": 10577,
+          "confirmed": 10931,
           "current_hospitalized": 4,
           "current_icu": 5,
-          "deaths": 113,
+          "deaths": 116,
           "recovered": 1992,
           "tested": 1608400
         },
@@ -1898,9 +1898,9 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 80226,
+        "confirmed": 81720,
         "deaths": 585,
-        "recovered": 51260
+        "recovered": 51823
       },
       "back_2week": {
         "confirmed": 68703,
@@ -2950,18 +2950,18 @@
     "SLV": {
       "back_1week": {
         "confirmed": 13792,
-        "deaths": 379,
-        "recovered": 7415
+        "deaths": 390,
+        "recovered": 7549
       },
       "back_2week": {
         "confirmed": 11207,
-        "deaths": 309,
-        "recovered": 6422
+        "deaths": 324,
+        "recovered": 6560
       },
       "latest": {
         "confirmed": 16632,
-        "deaths": 448,
-        "recovered": 8362
+        "deaths": 459,
+        "recovered": 8495
       }
     },
     "SMR": {
@@ -3737,18 +3737,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 19360,
-        "deaths": 106,
+        "confirmed": 19952,
+        "deaths": 111,
         "recovered": 10472
       },
       "back_2week": {
-        "confirmed": 15607,
-        "deaths": 79,
+        "confirmed": 16186,
+        "deaths": 83,
         "recovered": 9003
       },
       "latest": {
-        "confirmed": 24009,
-        "deaths": 141,
+        "confirmed": 24783,
+        "deaths": 147,
         "recovered": 14464
       }
     },
