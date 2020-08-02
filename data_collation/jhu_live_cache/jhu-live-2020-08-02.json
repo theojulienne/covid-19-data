@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 30950,
+      "confirmed": 31465,
       "date": "2020-08-02",
-      "deaths": 1223,
-      "recovered": 20988
+      "deaths": 1231,
+      "recovered": 21419
     }
   },
   "Argentina": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 32157,
+      "confirmed": 32443,
       "date": "2020-08-02",
-      "deaths": 454,
-      "recovered": 26474
+      "deaths": 462,
+      "recovered": 27113
     }
   },
   "Bahrain": {
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41257,
+          "confirmed": 41300,
           "date": "2020-08-02",
           "deaths": 2821,
           "recovered": 36874
@@ -473,10 +473,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 16699,
+      "confirmed": 16729,
       "date": "2020-08-02",
-      "deaths": 383,
-      "recovered": 11587
+      "deaths": 384,
+      "recovered": 11596
     }
   },
   "Denmark": {
@@ -489,10 +489,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 71415,
+      "confirmed": 72243,
       "date": "2020-08-02",
-      "deaths": 1170,
-      "recovered": 37509
+      "deaths": 1178,
+      "recovered": 38244
     }
   },
   "Ecuador": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 50979,
+      "confirmed": 51306,
       "date": "2020-08-02",
-      "deaths": 1959,
-      "recovered": 37873
+      "deaths": 1995,
+      "recovered": 38416
     }
   },
   "Honduras": {
@@ -860,7 +860,7 @@
       "confirmed": 22053,
       "date": "2020-08-02",
       "deaths": 369,
-      "recovered": 8419
+      "recovered": 8477
     }
   },
   "Korea, South": {
@@ -1479,9 +1479,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 14578,
+          "confirmed": 14710,
           "date": "2020-08-02",
-          "deaths": 718,
+          "deaths": 719,
           "recovered": 0
         }
       },
@@ -1519,15 +1519,15 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 17547,
+          "confirmed": 17789,
           "date": "2020-08-02",
-          "deaths": 815,
+          "deaths": 819,
           "recovered": 0
         }
       },
       "Missouri": {
         "live": {
-          "confirmed": 13162,
+          "confirmed": 13271,
           "date": "2020-08-02",
           "deaths": 650,
           "recovered": 0
@@ -1535,7 +1535,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 42167,
+          "confirmed": 43147,
           "date": "2020-08-02",
           "deaths": 688,
           "recovered": 0
@@ -1543,9 +1543,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 111206,
+          "confirmed": 111339,
           "date": "2020-08-02",
-          "deaths": 9636,
+          "deaths": 9637,
           "recovered": 0
         }
       },
