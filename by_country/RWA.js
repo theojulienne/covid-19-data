@@ -389,7 +389,8 @@ var covid19_dataset_country_rwa = {
       1926,
       1963,
       1994,
-      2022
+      2022,
+      2042
     ],
     "deaths": [
       0,
@@ -570,6 +571,7 @@ var covid19_dataset_country_rwa = {
       4,
       4,
       4,
+      5,
       5,
       5,
       5,
@@ -777,7 +779,8 @@ var covid19_dataset_country_rwa = {
       1005,
       1036,
       1085,
-      1106
+      1106,
+      1119
     ]
   }
 };
