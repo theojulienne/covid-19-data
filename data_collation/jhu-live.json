@@ -350,7 +350,7 @@
           "confirmed": 41316,
           "date": "2020-08-02",
           "deaths": 2822,
-          "recovered": 36960
+          "recovered": 36962
         }
       },
       "Quebec": {
@@ -457,10 +457,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 18187,
+      "confirmed": 18975,
       "date": "2020-08-02",
-      "deaths": 154,
-      "recovered": 4531
+      "deaths": 162,
+      "recovered": 4585
     }
   },
   "Cote d'Ivoire": {
@@ -887,14 +887,6 @@
       "recovered": 27274
     }
   },
-  "Madagascar": {
-    "live": {
-      "confirmed": 11528,
-      "date": "2020-08-02",
-      "deaths": 114,
-      "recovered": 8444
-    }
-  },
   "Mexico": {
     "subseries": {
       "Baja California": {
@@ -1031,7 +1023,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 13262,
+          "confirmed": 13447,
           "date": "2020-08-02",
           "deaths": 1311,
           "recovered": 0
@@ -1463,9 +1455,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 62895,
+          "confirmed": 75647,
           "date": "2020-08-02",
-          "deaths": 944,
+          "deaths": 1243,
           "recovered": 0
         }
       },
@@ -1599,9 +1591,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 40197,
+          "confirmed": 40616,
           "date": "2020-08-02",
-          "deaths": 482,
+          "deaths": 484,
           "recovered": 0
         }
       },
@@ -1615,7 +1607,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 19237,
+          "confirmed": 19408,
           "date": "2020-08-02",
           "deaths": 176,
           "recovered": 0
@@ -1639,7 +1631,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 19519,
+          "confirmed": 19727,
           "date": "2020-08-02",
           "deaths": 446,
           "recovered": 0
