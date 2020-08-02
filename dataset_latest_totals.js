@@ -3,17 +3,17 @@ var covid19_dataset_latest_totals = {
     "AFG": {
       "back_1week": {
         "confirmed": 35981,
-        "deaths": 1225,
-        "recovered": 24602
+        "deaths": 1248,
+        "recovered": 24793
       },
       "back_2week": {
         "confirmed": 35229,
-        "deaths": 1147,
-        "recovered": 23151
+        "deaths": 1164,
+        "recovered": 23273
       },
       "latest": {
         "confirmed": 36675,
-        "deaths": 1272,
+        "deaths": 1283,
         "recovered": 25509
       }
     },
@@ -572,17 +572,17 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "back_1week": {
         "confirmed": 115470,
-        "deaths": 8923,
+        "deaths": 8929,
         "recovered": 100504
       },
       "back_2week": {
         "confirmed": 111875,
-        "deaths": 8884,
+        "deaths": 8892,
         "recovered": 98281
       },
       "latest": {
         "confirmed": 118523,
-        "deaths": 8980,
+        "deaths": 8986,
         "recovered": 102906
       },
       "states": {
@@ -624,15 +624,15 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 41257,
-          "deaths": 2819
+          "deaths": 2821
         },
         "Prince Edward Island": {
           "confirmed": 36,
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 59312,
-          "deaths": 5674
+          "confirmed": 59458,
+          "deaths": 5678
         },
         "Saskatchewan": {
           "confirmed": 1319,
