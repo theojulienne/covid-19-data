@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 38841,
+      "confirmed": 39050,
       "date": "2020-08-02",
-      "deaths": 749,
-      "recovered": 29557
+      "deaths": 754,
+      "recovered": 29750
     }
   },
   "Australia": {
@@ -547,23 +547,23 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 51068,
+          "confirmed": 51080,
           "date": "2020-08-02",
           "deaths": 2622,
-          "recovered": 47100
+          "recovered": 47200
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 12029,
+          "confirmed": 12117,
           "date": "2020-08-02",
           "deaths": 520,
-          "recovered": 10900
+          "recovered": 11000
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14499,
+          "confirmed": 14515,
           "date": "2020-08-02",
           "deaths": 653,
           "recovered": 13400
@@ -571,7 +571,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 49102,
+          "confirmed": 49145,
           "date": "2020-08-02",
           "deaths": 1739,
           "recovered": 44417
@@ -1211,74 +1211,74 @@
     "subseries": {
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 13568,
+          "confirmed": 13711,
           "date": "2020-08-02",
           "deaths": 176,
-          "recovered": 8799
+          "recovered": 8814
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 16503,
+          "confirmed": 16671,
           "date": "2020-08-02",
-          "deaths": 129,
-          "recovered": 13056
+          "deaths": 130,
+          "recovered": 13268
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 13288,
+          "confirmed": 13422,
           "date": "2020-08-02",
           "deaths": 331,
-          "recovered": 11761
+          "recovered": 11786
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 242049,
+          "confirmed": 242713,
           "date": "2020-08-02",
-          "deaths": 4473,
-          "recovered": 180581
+          "deaths": 4485,
+          "recovered": 181342
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 63598,
+          "confirmed": 63755,
           "date": "2020-08-02",
-          "deaths": 1109,
-          "recovered": 46826
+          "deaths": 1113,
+          "recovered": 47027
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 23951,
+          "confirmed": 24097,
           "date": "2020-08-02",
-          "deaths": 388,
-          "recovered": 19918
+          "deaths": 390,
+          "recovered": 20024
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 13074,
+          "confirmed": 13205,
           "date": "2020-08-02",
-          "deaths": 230,
-          "recovered": 10515
+          "deaths": 233,
+          "recovered": 10539
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 31622,
+          "confirmed": 31785,
           "date": "2020-08-02",
-          "deaths": 2052,
-          "recovered": 23466
+          "deaths": 2056,
+          "recovered": 23552
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 20784,
+          "confirmed": 20983,
           "date": "2020-08-02",
-          "deaths": 276,
-          "recovered": 17678
+          "deaths": 281,
+          "recovered": 17834
         }
       }
     }
