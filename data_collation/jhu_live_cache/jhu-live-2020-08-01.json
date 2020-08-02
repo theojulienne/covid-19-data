@@ -461,10 +461,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 16640,
+      "confirmed": 16699,
       "date": "2020-08-01",
-      "deaths": 382,
-      "recovered": 11584
+      "deaths": 383,
+      "recovered": 11587
     }
   },
   "Denmark": {
@@ -1013,10 +1013,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 43151,
+      "confirmed": 43537,
       "date": "2020-08-01",
-      "deaths": 879,
-      "recovered": 19565
+      "deaths": 883,
+      "recovered": 20087
     }
   },
   "Oman": {
@@ -1409,14 +1409,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 11465,
-          "date": "2020-08-01",
-          "deaths": 225,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 135770,
@@ -1427,9 +1419,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 368283,
+          "confirmed": 383712,
           "date": "2020-08-01",
-          "deaths": 7353,
+          "deaths": 7630,
           "recovered": 0
         }
       },
@@ -1499,9 +1491,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 77482,
+          "confirmed": 77761,
           "date": "2020-08-01",
-          "deaths": 5200,
+          "deaths": 5213,
           "recovered": 0
         }
       },
