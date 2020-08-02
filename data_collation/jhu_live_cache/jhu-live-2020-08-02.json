@@ -38,7 +38,7 @@
           "confirmed": 11557,
           "date": "2020-08-02",
           "deaths": 123,
-          "recovered": 4696
+          "recovered": 4915
         }
       }
     }
@@ -793,10 +793,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 72218,
+      "confirmed": 72283,
       "date": "2020-08-02",
-      "deaths": 526,
-      "recovered": 45102
+      "deaths": 527,
+      "recovered": 45629
     }
   },
   "Italy": {
@@ -839,7 +839,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 13173,
+          "confirmed": 13465,
           "date": "2020-08-02",
           "deaths": 332,
           "recovered": 9615
@@ -881,10 +881,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 36299,
+      "confirmed": 36719,
       "date": "2020-08-02",
-      "deaths": 1397,
-      "recovered": 26419
+      "deaths": 1409,
+      "recovered": 27274
     }
   },
   "Mexico": {
