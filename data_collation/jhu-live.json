@@ -1435,7 +1435,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 364764,
+          "confirmed": 365070,
           "date": "2020-08-03",
           "deaths": 7303,
           "recovered": 0
@@ -1603,9 +1603,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 261599,
+          "confirmed": 262522,
           "date": "2020-08-03",
-          "deaths": 3746,
+          "deaths": 3759,
           "recovered": 0
         }
       },
@@ -1627,9 +1627,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 15390,
+          "confirmed": 15501,
           "date": "2020-08-03",
-          "deaths": 655,
+          "deaths": 657,
           "recovered": 0
         }
       },
