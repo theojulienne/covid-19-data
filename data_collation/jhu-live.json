@@ -73,18 +73,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 69402,
+      "confirmed": 69849,
       "date": "2020-08-03",
       "deaths": 9845,
-      "recovered": 17573
+      "recovered": 17590
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 78793,
+      "confirmed": 80153,
       "date": "2020-08-03",
-      "deaths": 3064,
-      "recovered": 23968
+      "deaths": 3153,
+      "recovered": 24156
     }
   },
   "Bosnia and Herzegovina": {
@@ -403,42 +403,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 35746,
+          "confirmed": 38026,
           "date": "2020-08-03",
-          "deaths": 537,
-          "recovered": 10976
+          "deaths": 593,
+          "recovered": 11859
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 53131,
+          "confirmed": 53835,
           "date": "2020-08-03",
-          "deaths": 2545,
-          "recovered": 38624
+          "deaths": 2565,
+          "recovered": 39712
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 18587,
+          "confirmed": 18861,
           "date": "2020-08-03",
-          "deaths": 595,
-          "recovered": 13655
+          "deaths": 596,
+          "recovered": 13876
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 104656,
+          "confirmed": 109153,
           "date": "2020-08-03",
-          "deaths": 2828,
-          "recovered": 48624
+          "deaths": 2910,
+          "recovered": 51123
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 25628,
+          "confirmed": 26270,
           "date": "2020-08-03",
-          "deaths": 980,
-          "recovered": 14411
+          "deaths": 1020,
+          "recovered": 14812
         }
       }
     }
@@ -585,10 +585,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 42685,
+      "confirmed": 43197,
       "date": "2020-08-03",
-      "deaths": 1368,
-      "recovered": 5694
+      "deaths": 1377,
+      "recovered": 5794
     }
   },
   "India": {
@@ -837,7 +837,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 91593,
+      "confirmed": 92662,
       "date": "2020-08-03",
       "deaths": 793,
       "recovered": 61839
@@ -853,10 +853,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 14366,
+      "confirmed": 14389,
       "date": "2020-08-03",
       "deaths": 301,
-      "recovered": 13259
+      "recovered": 13280
     }
   },
   "Kuwait": {
