@@ -31,6 +31,18 @@
       "recovered": 29750
     }
   },
+  "Australia": {
+    "subseries": {
+      "Victoria": {
+        "live": {
+          "confirmed": 11937,
+          "date": "2020-08-03",
+          "deaths": 136,
+          "recovered": 5111
+        }
+      }
+    }
+  },
   "Austria": {
     "live": {
       "confirmed": 21304,
@@ -359,14 +371,6 @@
           "date": "2020-08-03",
           "deaths": 353,
           "recovered": 13538
-        }
-      },
-      "Biobio": {
-        "live": {
-          "confirmed": 11675,
-          "date": "2020-08-03",
-          "deaths": 120,
-          "recovered": 10052
         }
       },
       "Metropolitana": {
@@ -1039,42 +1043,42 @@
     "subseries": {
       "Balochistan": {
         "live": {
-          "confirmed": 11762,
+          "confirmed": 11774,
           "date": "2020-08-03",
           "deaths": 136,
-          "recovered": 10136
+          "recovered": 10189
         }
       },
       "Islamabad": {
         "live": {
-          "confirmed": 15052,
+          "confirmed": 15076,
           "date": "2020-08-03",
           "deaths": 165,
-          "recovered": 12589
+          "recovered": 12678
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 34160,
+          "confirmed": 34223,
           "date": "2020-08-03",
-          "deaths": 1200,
-          "recovered": 28978
+          "deaths": 1202,
+          "recovered": 29015
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 93173,
+          "confirmed": 93197,
           "date": "2020-08-03",
-          "deaths": 2144,
-          "recovered": 82552
+          "deaths": 2148,
+          "recovered": 82563
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 121309,
+          "confirmed": 121486,
           "date": "2020-08-03",
-          "deaths": 2223,
-          "recovered": 110922
+          "deaths": 2224,
+          "recovered": 111006
         }
       }
     }
@@ -1681,10 +1685,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 25336,
+      "confirmed": 25553,
       "date": "2020-08-03",
-      "deaths": 151,
-      "recovered": 15833
+      "deaths": 153,
+      "recovered": 16507
     }
   },
   "Venezuela": {

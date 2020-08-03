@@ -3737,19 +3737,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 19952,
-        "deaths": 111,
-        "recovered": 10831
+        "confirmed": 20531,
+        "deaths": 116,
+        "recovered": 11105
       },
       "back_2week": {
-        "confirmed": 16186,
-        "deaths": 83,
-        "recovered": 9127
+        "confirmed": 16752,
+        "deaths": 87,
+        "recovered": 9279
       },
       "latest": {
-        "confirmed": 24783,
-        "deaths": 147,
-        "recovered": 15299
+        "confirmed": 25336,
+        "deaths": 151,
+        "recovered": 15833
       }
     },
     "VAT": {
