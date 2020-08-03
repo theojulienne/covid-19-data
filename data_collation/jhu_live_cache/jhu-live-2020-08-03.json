@@ -534,7 +534,7 @@
           "confirmed": 37317,
           "date": "2020-08-03",
           "deaths": 1847,
-          "recovered": 34448
+          "recovered": 34616
         }
       },
       "Bayern": {
@@ -558,7 +558,7 @@
           "confirmed": 14567,
           "date": "2020-08-03",
           "deaths": 653,
-          "recovered": 13400
+          "recovered": 13436
         }
       },
       "Nordrhein-Westfalen": {
@@ -566,7 +566,7 @@
           "confirmed": 49435,
           "date": "2020-08-03",
           "deaths": 1739,
-          "recovered": 44500
+          "recovered": 44620
         }
       }
     }
@@ -1015,7 +1015,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 13447,
+          "confirmed": 13642,
           "date": "2020-08-03",
           "deaths": 1311,
           "recovered": 0
@@ -1395,17 +1395,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23304,
+          "confirmed": 23396,
           "date": "2020-08-03",
-          "deaths": 2387,
+          "deaths": 2385,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 18205,
+          "confirmed": 18450,
           "date": "2020-08-03",
-          "deaths": 838,
+          "deaths": 839,
           "recovered": 0
         }
       }
