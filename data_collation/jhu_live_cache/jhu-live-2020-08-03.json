@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 201919,
       "date": "2020-08-03",
-      "deaths": 3648,
-      "recovered": 89026
+      "deaths": 3667,
+      "recovered": 91302
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 32443,
+      "confirmed": 32684,
       "date": "2020-08-03",
-      "deaths": 462,
-      "recovered": 27113
+      "deaths": 468,
+      "recovered": 27760
     }
   },
   "Bahrain": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 12296,
+      "confirmed": 12462,
       "date": "2020-08-03",
-      "deaths": 352,
-      "recovered": 6312
+      "deaths": 362,
+      "recovered": 6359
     }
   },
   "Brazil": {
@@ -492,7 +492,7 @@
       "confirmed": 86524,
       "date": "2020-08-03",
       "deaths": 5750,
-      "recovered": 36213
+      "recovered": 59344
     }
   },
   "Egypt": {
@@ -989,9 +989,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 25362,
+      "confirmed": 25482,
       "date": "2020-08-03",
-      "deaths": 792,
+      "deaths": 800,
       "recovered": 17942
     }
   },
@@ -1455,25 +1455,25 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 12057,
+          "confirmed": 12313,
           "date": "2020-08-03",
-          "deaths": 584,
+          "deaths": 586,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 341812,
+          "confirmed": 344754,
           "date": "2020-08-03",
-          "deaths": 4996,
+          "deaths": 5047,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 75647,
+          "confirmed": 63957,
           "date": "2020-08-03",
-          "deaths": 1243,
+          "deaths": 945,
           "recovered": 0
         }
       },
@@ -1503,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 52676,
+          "confirmed": 64871,
           "date": "2020-08-03",
-          "deaths": 2085,
+          "deaths": 2500,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 15768,
+          "confirmed": 15907,
           "date": "2020-08-03",
           "deaths": 523,
           "recovered": 0
