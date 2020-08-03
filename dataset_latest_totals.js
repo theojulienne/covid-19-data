@@ -624,7 +624,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 41333,
-          "deaths": 2821
+          "deaths": 2822
         },
         "Prince Edward Island": {
           "confirmed": 36,

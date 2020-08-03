@@ -349,7 +349,7 @@
         "live": {
           "confirmed": 41365,
           "date": "2020-08-03",
-          "deaths": 2822,
+          "deaths": 2825,
           "recovered": 37017
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42011,
+          "confirmed": 42238,
           "date": "2020-08-03",
-          "deaths": 3928,
+          "deaths": 3931,
           "recovered": 0
         }
       },
@@ -1569,13 +1569,13 @@
         "live": {
           "confirmed": 21015,
           "date": "2020-08-03",
-          "deaths": 212,
+          "deaths": 217,
           "recovered": 0
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 29753,
+          "confirmed": 30007,
           "date": "2020-08-03",
           "deaths": 991,
           "recovered": 0
