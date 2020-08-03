@@ -29343,7 +29343,7 @@ var covid19_dataset = {
           147,
           147,
           147,
-          148
+          149
         ],
         "recovered": [
           0,
@@ -63716,7 +63716,8 @@ var covid19_dataset = {
           15978,
           16047,
           16109,
-          16182
+          16182,
+          16220
         ],
         "deaths": [
           0,
@@ -64108,7 +64109,8 @@ var covid19_dataset = {
           11160,
           11428,
           11750,
-          11801
+          11801,
+          11887
         ]
       }
     },
@@ -74979,7 +74981,7 @@ var covid19_dataset = {
           85355,
           86232,
           86232,
-          86524
+          87041
         ],
         "deaths": [
           0,
@@ -75176,7 +75178,7 @@ var covid19_dataset = {
           5702,
           5736,
           5736,
-          5750
+          5767
         ],
         "recovered": [
           0,
@@ -134697,7 +134699,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            2,
+            null,
             null,
             null,
             null,
@@ -134864,7 +134866,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            3,
+            null,
             null,
             null,
             null,
@@ -135031,7 +135033,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            60,
+            null,
             null,
             null,
             null,
@@ -135198,7 +135200,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            4,
+            null,
             null,
             null,
             null,
@@ -135368,7 +135370,7 @@ var covid19_dataset = {
           155,
           205,
           283,
-          362,
+          368,
           451,
           514,
           589,
@@ -215299,7 +215301,7 @@ var covid19_dataset = {
       434395,
       486035,
       548415,
-      613525,
+      613531,
       680942,
       740946,
       805645,
@@ -215428,7 +215430,7 @@ var covid19_dataset = {
       17527174,
       17777905,
       18007005,
-      18032622
+      18033177
     ],
     "deaths": [
       17,
@@ -215625,7 +215627,7 @@ var covid19_dataset = {
       671057,
       676646,
       681028,
-      681751
+      681769
     ],
     "recovered": [
       28,
@@ -215822,7 +215824,7 @@ var covid19_dataset = {
       10344198,
       10528022,
       10664493,
-      10711079
+      10711165
     ]
   }
 };

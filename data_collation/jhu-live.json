@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 41536,
       "date": "2020-08-03",
-      "deaths": 148,
+      "deaths": 149,
       "recovered": 38666
     }
   },
@@ -465,10 +465,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 16182,
+      "confirmed": 16220,
       "date": "2020-08-03",
       "deaths": 102,
-      "recovered": 11801
+      "recovered": 11887
     }
   },
   "Czechia": {
@@ -497,9 +497,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 86524,
+      "confirmed": 87041,
       "date": "2020-08-03",
-      "deaths": 5750,
+      "deaths": 5767,
       "recovered": 59344
     }
   },
@@ -529,10 +529,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 212982,
+      "confirmed": 212891,
       "date": "2020-08-03",
-      "deaths": 30150,
-      "recovered": 71494
+      "deaths": 30149,
+      "recovered": 71258
     }
   },
   "Germany": {
@@ -1471,9 +1471,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 63957,
+          "confirmed": 76524,
           "date": "2020-08-03",
-          "deaths": 945,
+          "deaths": 1243,
           "recovered": 0
         }
       },
@@ -1503,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 64871,
+          "confirmed": 53123,
           "date": "2020-08-03",
-          "deaths": 2500,
+          "deaths": 2087,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 40616,
+          "confirmed": 40892,
           "date": "2020-08-03",
-          "deaths": 484,
+          "deaths": 490,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 19408,
+          "confirmed": 19556,
           "date": "2020-08-03",
-          "deaths": 176,
+          "deaths": 178,
           "recovered": 0
         }
       },
@@ -1639,7 +1639,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 19727,
+          "confirmed": 19855,
           "date": "2020-08-03",
           "deaths": 446,
           "recovered": 0
