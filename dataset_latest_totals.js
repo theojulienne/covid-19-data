@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 39539,
-        "deaths": 845,
-        "recovered": 16559
+        "confirmed": 39977,
+        "deaths": 856,
+        "recovered": 16948
       },
       "back_2week": {
-        "confirmed": 35454,
-        "deaths": 772,
-        "recovered": 14633
+        "confirmed": 36107,
+        "deaths": 778,
+        "recovered": 14938
       },
       "latest": {
-        "confirmed": 43151,
-        "deaths": 879,
-        "recovered": 19565
+        "confirmed": 43537,
+        "deaths": 883,
+        "recovered": 20087
       }
     },
     "NIC": {
@@ -2660,19 +2660,19 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 57993,
-        "deaths": 1250,
-        "recovered": 32704
+        "confirmed": 58864,
+        "deaths": 1275,
+        "recovered": 33428
       },
       "back_2week": {
-        "confirmed": 51408,
-        "deaths": 1038,
-        "recovered": 26520
+        "confirmed": 52261,
+        "deaths": 1071,
+        "recovered": 27494
       },
       "latest": {
-        "confirmed": 65256,
-        "deaths": 1421,
-        "recovered": 39166
+        "confirmed": 66383,
+        "deaths": 1449,
+        "recovered": 40081
       }
     },
     "PER": {
@@ -3788,19 +3788,19 @@ var covid19_dataset_latest_totals = {
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 14263,
-        "deaths": 134,
-        "recovered": 8127
+        "confirmed": 14929,
+        "deaths": 138,
+        "recovered": 8795
       },
       "back_2week": {
-        "confirmed": 11191,
-        "deaths": 107,
-        "recovered": 3852
+        "confirmed": 11483,
+        "deaths": 110,
+        "recovered": 3972
       },
       "latest": {
-        "confirmed": 18574,
-        "deaths": 164,
-        "recovered": 10421
+        "confirmed": 19443,
+        "deaths": 169,
+        "recovered": 11129
       }
     },
     "VNM": {

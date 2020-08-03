@@ -461,10 +461,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 16729,
+      "confirmed": 16800,
       "date": "2020-08-02",
       "deaths": 384,
-      "recovered": 11596
+      "recovered": 11605
     }
   },
   "Denmark": {
@@ -1021,10 +1021,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 43537,
+      "confirmed": 43841,
       "date": "2020-08-02",
-      "deaths": 883,
-      "recovered": 20087
+      "deaths": 888,
+      "recovered": 20308
     }
   },
   "Oman": {
@@ -1081,10 +1081,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 66383,
+      "confirmed": 67453,
       "date": "2020-08-02",
-      "deaths": 1449,
-      "recovered": 40081
+      "deaths": 1471,
+      "recovered": 41038
     }
   },
   "Peru": {
@@ -1435,9 +1435,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 363444,
+          "confirmed": 364764,
           "date": "2020-08-02",
-          "deaths": 7279,
+          "deaths": 7303,
           "recovered": 0
         }
       },
@@ -1689,10 +1689,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 19443,
+      "confirmed": 20206,
       "date": "2020-08-02",
-      "deaths": 169,
-      "recovered": 11129
+      "deaths": 174,
+      "recovered": 11404
     }
   },
   "West Bank and Gaza": {
