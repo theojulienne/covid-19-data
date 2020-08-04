@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 21385,
+      "confirmed": 21481,
       "date": "2020-08-04",
-      "deaths": 718,
-      "recovered": 19063
+      "deaths": 719,
+      "recovered": 19336
     }
   },
   "Azerbaijan": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 68166,
+      "confirmed": 68250,
       "date": "2020-08-04",
-      "deaths": 571,
-      "recovered": 62943
+      "deaths": 574,
+      "recovered": 63163
     }
   },
   "Belgium": {
@@ -473,10 +473,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 13996,
+      "confirmed": 14073,
       "date": "2020-08-04",
       "deaths": 616,
-      "recovered": 12682
+      "recovered": 12715
     }
   },
   "Dominican Republic": {
@@ -865,10 +865,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 68299,
+      "confirmed": 68774,
       "date": "2020-08-04",
-      "deaths": 461,
-      "recovered": 59739
+      "deaths": 465,
+      "recovered": 60326
     }
   },
   "Kyrgyzstan": {
@@ -1023,7 +1023,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 13642,
+          "confirmed": 13837,
           "date": "2020-08-04",
           "deaths": 1311,
           "recovered": 0
@@ -1185,10 +1185,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 111322,
+      "confirmed": 111538,
       "date": "2020-08-04",
       "deaths": 177,
-      "recovered": 108002
+      "recovered": 108254
     }
   },
   "Romania": {
@@ -1379,7 +1379,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23396,
+          "confirmed": 23427,
           "date": "2020-08-04",
           "deaths": 2385,
           "recovered": 0
@@ -1387,7 +1387,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 18450,
+          "confirmed": 18471,
           "date": "2020-08-04",
           "deaths": 839,
           "recovered": 0
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 26550,
+      "confirmed": 26804,
       "date": "2020-08-04",
-      "deaths": 161,
-      "recovered": 17262
+      "deaths": 163,
+      "recovered": 17838
     }
   },
   "Venezuela": {
