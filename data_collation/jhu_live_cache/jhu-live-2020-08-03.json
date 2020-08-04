@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 201919,
+      "confirmed": 206743,
       "date": "2020-08-03",
-      "deaths": 3667,
+      "deaths": 3813,
       "recovered": 91302
     }
   },
@@ -1025,10 +1025,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 43841,
+      "confirmed": 44129,
       "date": "2020-08-03",
-      "deaths": 888,
-      "recovered": 20308
+      "deaths": 896,
+      "recovered": 20663
     }
   },
   "Oman": {
@@ -1591,9 +1591,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 278854,
+          "confirmed": 279007,
           "date": "2020-08-03",
-          "deaths": 4152,
+          "deaths": 4165,
           "recovered": 0
         }
       },
