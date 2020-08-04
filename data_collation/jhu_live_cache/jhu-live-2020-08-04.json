@@ -507,8 +507,8 @@
     "live": {
       "confirmed": 17843,
       "date": "2020-08-04",
-      "deaths": 477,
-      "recovered": 8809
+      "deaths": 486,
+      "recovered": 8845
     }
   },
   "Ethiopia": {
@@ -785,10 +785,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 74430,
+      "confirmed": 74903,
       "date": "2020-08-04",
       "deaths": 546,
-      "recovered": 47571
+      "recovered": 49757
     }
   },
   "Italy": {
@@ -1423,9 +1423,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 379635,
+          "confirmed": 393622,
           "date": "2020-08-04",
-          "deaths": 7493,
+          "deaths": 7724,
           "recovered": 0
         }
       },
@@ -1455,9 +1455,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 76524,
+          "confirmed": 64680,
           "date": "2020-08-04",
-          "deaths": 1243,
+          "deaths": 945,
           "recovered": 0
         }
       },
@@ -1669,10 +1669,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 26066,
+      "confirmed": 26550,
       "date": "2020-08-04",
-      "deaths": 157,
-      "recovered": 16838
+      "deaths": 161,
+      "recovered": 17262
     }
   },
   "Venezuela": {
