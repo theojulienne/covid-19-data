@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 69849,
+      "confirmed": 70314,
       "date": "2020-08-04",
-      "deaths": 9845,
-      "recovered": 17590
+      "deaths": 9850,
+      "recovered": 17598
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 80153,
+      "confirmed": 81846,
       "date": "2020-08-04",
-      "deaths": 3153,
-      "recovered": 24156
+      "deaths": 3228,
+      "recovered": 24510
     }
   },
   "Bosnia and Herzegovina": {
@@ -1551,9 +1551,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 21015,
+          "confirmed": 21054,
           "date": "2020-08-04",
-          "deaths": 217,
+          "deaths": 222,
           "recovered": 0
         }
       },
@@ -1677,10 +1677,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 20206,
+      "confirmed": 20754,
       "date": "2020-08-04",
-      "deaths": 174,
-      "recovered": 11404
+      "deaths": 180,
+      "recovered": 11622
     }
   },
   "West Bank and Gaza": {
