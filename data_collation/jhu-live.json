@@ -347,17 +347,17 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41438,
+          "confirmed": 41440,
           "date": "2020-08-04",
           "deaths": 2825,
-          "recovered": 37046
+          "recovered": 37174
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 59722,
           "date": "2020-08-04",
-          "deaths": 5683,
+          "deaths": 5685,
           "recovered": 50886
         }
       }
@@ -367,26 +367,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 15184,
+          "confirmed": 15279,
           "date": "2020-08-04",
           "deaths": 358,
-          "recovered": 13669
+          "recovered": 13826
+        }
+      },
+      "Biobio": {
+        "live": {
+          "confirmed": 11942,
+          "date": "2020-08-04",
+          "deaths": 125,
+          "recovered": 10368
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 258080,
+          "confirmed": 258579,
           "date": "2020-08-04",
-          "deaths": 7700,
-          "recovered": 243591
+          "deaths": 7735,
+          "recovered": 244473
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 18083,
+          "confirmed": 18222,
           "date": "2020-08-04",
           "deaths": 522,
-          "recovered": 16186
+          "recovered": 16379
         }
       }
     }
@@ -465,10 +473,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 17008,
+      "confirmed": 17114,
       "date": "2020-08-04",
       "deaths": 386,
-      "recovered": 11708
+      "recovered": 11808
     }
   },
   "Denmark": {
@@ -481,9 +489,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 73117,
+      "confirmed": 74295,
       "date": "2020-08-04",
-      "deaths": 1183,
+      "deaths": 1213,
       "recovered": 38824
     }
   },
@@ -513,10 +521,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 19289,
+      "confirmed": 19877,
       "date": "2020-08-04",
-      "deaths": 336,
-      "recovered": 7931
+      "deaths": 343,
+      "recovered": 8240
     }
   },
   "France": {
@@ -531,7 +539,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 37463,
+          "confirmed": 37522,
           "date": "2020-08-04",
           "deaths": 1847,
           "recovered": 34700
@@ -581,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 51542,
+      "confirmed": 52365,
       "date": "2020-08-04",
-      "deaths": 2013,
-      "recovered": 39346
+      "deaths": 2037,
+      "recovered": 40285
     }
   },
   "Honduras": {
@@ -1425,15 +1433,15 @@
         "live": {
           "confirmed": 137701,
           "date": "2020-08-04",
-          "deaths": 2570,
+          "deaths": 2618,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 381792,
+          "confirmed": 369907,
           "date": "2020-08-04",
-          "deaths": 7535,
+          "deaths": 7355,
           "recovered": 0
         }
       },
@@ -1479,9 +1487,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 14863,
+          "confirmed": 15029,
           "date": "2020-08-04",
-          "deaths": 719,
+          "deaths": 724,
           "recovered": 0
         }
       },
@@ -1519,9 +1527,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 18009,
+          "confirmed": 18197,
           "date": "2020-08-04",
-          "deaths": 819,
+          "deaths": 820,
           "recovered": 0
         }
       },
@@ -1551,7 +1559,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 362638,
+          "confirmed": 363126,
           "date": "2020-08-04",
           "deaths": 29861,
           "recovered": 0
@@ -1559,7 +1567,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 21054,
+          "confirmed": 21316,
           "date": "2020-08-04",
           "deaths": 222,
           "recovered": 0
