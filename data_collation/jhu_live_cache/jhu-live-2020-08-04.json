@@ -879,6 +879,14 @@
       "recovered": 28743
     }
   },
+  "Madagascar": {
+    "live": {
+      "confirmed": 11895,
+      "date": "2020-08-04",
+      "deaths": 123,
+      "recovered": 9286
+    }
+  },
   "Mexico": {
     "subseries": {
       "Baja California": {
@@ -1005,10 +1013,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 20750,
+      "confirmed": 21009,
       "date": "2020-08-04",
-      "deaths": 57,
-      "recovered": 14961
+      "deaths": 58,
+      "recovered": 15026
     }
   },
   "Netherlands": {
@@ -1389,7 +1397,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 35616,
+      "confirmed": 35746,
       "date": "2020-08-04",
       "deaths": 1981,
       "recovered": 31500
@@ -1423,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 393622,
+          "confirmed": 381774,
           "date": "2020-08-04",
-          "deaths": 7724,
+          "deaths": 7535,
           "recovered": 0
         }
       },
