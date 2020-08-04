@@ -873,10 +873,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 37129,
+      "confirmed": 37397,
       "date": "2020-08-04",
-      "deaths": 1420,
-      "recovered": 27927
+      "deaths": 1425,
+      "recovered": 28451
     }
   },
   "Mexico": {
