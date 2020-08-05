@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41532,
+          "confirmed": 41558,
           "date": "2020-08-05",
-          "deaths": 2828,
-          "recovered": 37306
+          "deaths": 2829,
+          "recovered": 37336
         }
       },
       "Quebec": {
@@ -449,10 +449,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 19837,
+      "confirmed": 20417,
       "date": "2020-08-05",
-      "deaths": 181,
-      "recovered": 6590
+      "deaths": 191,
+      "recovered": 6851
     }
   },
   "Cote d'Ivoire": {
@@ -1463,9 +1463,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 77148,
+          "confirmed": 78351,
           "date": "2020-08-05",
-          "deaths": 1265,
+          "deaths": 1274,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42514,
+          "confirmed": 42718,
           "date": "2020-08-05",
-          "deaths": 3935,
+          "deaths": 3936,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 41291,
+          "confirmed": 41736,
           "date": "2020-08-05",
-          "deaths": 498,
+          "deaths": 506,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 19683,
+          "confirmed": 19875,
           "date": "2020-08-05",
-          "deaths": 184,
+          "deaths": 185,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 20003,
+          "confirmed": 20175,
           "date": "2020-08-05",
-          "deaths": 447,
+          "deaths": 450,
           "recovered": 0
         }
       }
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 27554,
+      "confirmed": 27793,
       "date": "2020-08-05",
-      "deaths": 169,
-      "recovered": 18682
+      "deaths": 171,
+      "recovered": 18783
     }
   },
   "Venezuela": {
