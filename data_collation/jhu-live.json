@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 39298,
+      "confirmed": 39586,
       "date": "2020-08-05",
       "deaths": 768,
-      "recovered": 30372
+      "recovered": 30850
     }
   },
   "Australia": {
@@ -539,23 +539,23 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 51279,
+          "confirmed": 51377,
           "date": "2020-08-05",
-          "deaths": 2623,
+          "deaths": 2624,
           "recovered": 47400
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 12199,
+          "confirmed": 12254,
           "date": "2020-08-05",
-          "deaths": 521,
-          "recovered": 11038
+          "deaths": 523,
+          "recovered": 11100
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14634,
+          "confirmed": 14671,
           "date": "2020-08-05",
           "deaths": 654,
           "recovered": 13464
@@ -566,7 +566,7 @@
           "confirmed": 49727,
           "date": "2020-08-05",
           "deaths": 1744,
-          "recovered": 44800
+          "recovered": 45000
         }
       }
     }
@@ -831,7 +831,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 14032,
+          "confirmed": 14295,
           "date": "2020-08-05",
           "deaths": 333,
           "recovered": 10112
@@ -1423,9 +1423,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 385836,
+          "confirmed": 386022,
           "date": "2020-08-05",
-          "deaths": 7665,
+          "deaths": 7684,
           "recovered": 0
         }
       },
