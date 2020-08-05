@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 12335,
+          "confirmed": 13035,
           "date": "2020-08-05",
-          "deaths": 147,
+          "deaths": 162,
           "recovered": 5283
         }
       }
@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 70314,
+      "confirmed": 70648,
       "date": "2020-08-05",
-      "deaths": 9850,
-      "recovered": 17598
+      "deaths": 9852,
+      "recovered": 17639
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 81846,
+      "confirmed": 83361,
       "date": "2020-08-05",
-      "deaths": 3228,
-      "recovered": 24510
+      "deaths": 3320,
+      "recovered": 25390
     }
   },
   "Bosnia and Herzegovina": {
@@ -114,7 +114,7 @@
           "confirmed": 20708,
           "date": "2020-08-05",
           "deaths": 545,
-          "recovered": 14154
+          "recovered": 14540
         }
       },
       "Alagoas": {
@@ -138,7 +138,7 @@
           "confirmed": 103269,
           "date": "2020-08-05",
           "deaths": 3299,
-          "recovered": 86587
+          "recovered": 87603
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 113924,
           "date": "2020-08-05",
           "deaths": 1572,
-          "recovered": 95538
+          "recovered": 95534
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 73231,
           "date": "2020-08-05",
           "deaths": 1791,
-          "recovered": 66863
+          "recovered": 66958
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 123887,
           "date": "2020-08-05",
           "deaths": 3085,
-          "recovered": 110708
+          "recovered": 112059
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 56169,
           "date": "2020-08-05",
           "deaths": 1921,
-          "recovered": 34520
+          "recovered": 36103
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 54443,
           "date": "2020-08-05",
           "deaths": 1401,
-          "recovered": 52335
+          "recovered": 53571
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 41239,
           "date": "2020-08-05",
           "deaths": 898,
-          "recovered": 31979
+          "recovered": 34011
         }
       },
       "Roraima": {
@@ -298,7 +298,7 @@
           "confirmed": 92157,
           "date": "2020-08-05",
           "deaths": 1235,
-          "recovered": 74062
+          "recovered": 79860
         }
       },
       "Sao Paulo": {
@@ -314,7 +314,7 @@
           "confirmed": 61069,
           "date": "2020-08-05",
           "deaths": 1509,
-          "recovered": 32161
+          "recovered": 33685
         }
       },
       "Tocantins": {
@@ -1677,10 +1677,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 20754,
+      "confirmed": 21438,
       "date": "2020-08-05",
-      "deaths": 180,
-      "recovered": 11622
+      "deaths": 187,
+      "recovered": 11875
     }
   },
   "West Bank and Gaza": {
