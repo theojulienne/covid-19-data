@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41487,
+          "confirmed": 41495,
           "date": "2020-08-04",
           "deaths": 2828,
           "recovered": 37209
@@ -465,10 +465,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 17114,
+      "confirmed": 17286,
       "date": "2020-08-04",
       "deaths": 383,
-      "recovered": 11808
+      "recovered": 11812
     }
   },
   "Denmark": {
@@ -1025,10 +1025,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 44129,
+      "confirmed": 44433,
       "date": "2020-08-04",
-      "deaths": 896,
-      "recovered": 20663
+      "deaths": 910,
+      "recovered": 31851
     }
   },
   "Oman": {
@@ -1415,7 +1415,7 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 137701,
+          "confirmed": 138598,
           "date": "2020-08-04",
           "deaths": 2618,
           "recovered": 0
