@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 42132,
+      "confirmed": 42514,
       "date": "2020-08-05",
-      "deaths": 153,
-      "recovered": 39335
+      "deaths": 154,
+      "recovered": 39576
     }
   },
   "Bangladesh": {
@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 12414,
+      "confirmed": 12717,
       "date": "2020-08-05",
-      "deaths": 415,
-      "recovered": 6964
+      "deaths": 424,
+      "recovered": 7154
     }
   },
   "Cameroon": {
@@ -1033,10 +1033,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 44433,
+      "confirmed": 44890,
       "date": "2020-08-05",
-      "deaths": 910,
-      "recovered": 31851
+      "deaths": 927,
+      "recovered": 32165
     }
   },
   "Oman": {
@@ -1425,15 +1425,15 @@
         "live": {
           "confirmed": 140046,
           "date": "2020-08-05",
-          "deaths": 2618,
+          "deaths": 2673,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 374064,
+          "confirmed": 374489,
           "date": "2020-08-05",
-          "deaths": 7504,
+          "deaths": 7515,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 286532,
+          "confirmed": 288415,
           "date": "2020-08-05",
-          "deaths": 4352,
+          "deaths": 4374,
           "recovered": 0
         }
       },
