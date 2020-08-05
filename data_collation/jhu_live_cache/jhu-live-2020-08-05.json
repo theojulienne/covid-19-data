@@ -407,42 +407,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 40927,
+          "confirmed": 41978,
           "date": "2020-08-05",
-          "deaths": 625,
-          "recovered": 13170
+          "deaths": 655,
+          "recovered": 14378
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 54434,
+          "confirmed": 55206,
           "date": "2020-08-05",
-          "deaths": 2586,
-          "recovered": 40553
+          "deaths": 2598,
+          "recovered": 41484
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 19209,
+          "confirmed": 19306,
           "date": "2020-08-05",
-          "deaths": 603,
-          "recovered": 14151
+          "deaths": 605,
+          "recovered": 14448
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 111294,
+          "confirmed": 113548,
           "date": "2020-08-05",
-          "deaths": 3052,
-          "recovered": 53395
+          "deaths": 3169,
+          "recovered": 55013
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 27120,
+          "confirmed": 27592,
           "date": "2020-08-05",
-          "deaths": 1058,
-          "recovered": 15280
+          "deaths": 1081,
+          "recovered": 15796
         }
       }
     }
@@ -589,10 +589,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 43794,
+      "confirmed": 44299,
       "date": "2020-08-05",
-      "deaths": 1384,
-      "recovered": 5854
+      "deaths": 1400,
+      "recovered": 5921
     }
   },
   "India": {
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 93820,
+      "confirmed": 94882,
       "date": "2020-08-05",
       "deaths": 1058,
-      "recovered": 65132
+      "recovered": 67031
     }
   },
   "Kenya": {
@@ -1423,9 +1423,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 385190,
+          "confirmed": 385836,
           "date": "2020-08-05",
-          "deaths": 7661,
+          "deaths": 7665,
           "recovered": 0
         }
       },
