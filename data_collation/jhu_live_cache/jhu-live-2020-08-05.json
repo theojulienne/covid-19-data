@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 68250,
+      "confirmed": 68376,
       "date": "2020-08-05",
-      "deaths": 574,
-      "recovered": 63163
+      "deaths": 577,
+      "recovered": 63425
     }
   },
   "Belgium": {
@@ -761,10 +761,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 314786,
+      "confirmed": 317483,
       "date": "2020-08-05",
-      "deaths": 17617,
-      "recovered": 272535
+      "deaths": 17802,
+      "recovered": 274932
     }
   },
   "Iraq": {
@@ -877,6 +877,14 @@
       "date": "2020-08-05",
       "deaths": 1438,
       "recovered": 29513
+    }
+  },
+  "Madagascar": {
+    "live": {
+      "confirmed": 12222,
+      "date": "2020-08-05",
+      "deaths": 127,
+      "recovered": 9798
     }
   },
   "Mexico": {
@@ -1423,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 386022,
+          "confirmed": 374064,
           "date": "2020-08-05",
-          "deaths": 7684,
+          "deaths": 7504,
           "recovered": 0
         }
       },
@@ -1685,10 +1693,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 12770,
+      "confirmed": 13065,
       "date": "2020-08-05",
       "deaths": 88,
-      "recovered": 6419
+      "recovered": 6618
     }
   }
 }
