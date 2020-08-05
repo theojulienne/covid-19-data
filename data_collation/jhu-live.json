@@ -9,9 +9,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 32504,
+      "confirmed": 33055,
       "date": "2020-08-05",
-      "deaths": 1248,
+      "deaths": 1261,
       "recovered": 22375
     }
   },
@@ -481,10 +481,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 74295,
+      "confirmed": 75660,
       "date": "2020-08-05",
-      "deaths": 1213,
-      "recovered": 38824
+      "deaths": 1222,
+      "recovered": 40122
     }
   },
   "Ecuador": {
@@ -513,10 +513,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 19877,
+      "confirmed": 20336,
       "date": "2020-08-05",
-      "deaths": 343,
-      "recovered": 8240
+      "deaths": 356,
+      "recovered": 8598
     }
   },
   "France": {
@@ -581,10 +581,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 52365,
+      "confirmed": 53509,
       "date": "2020-08-05",
-      "deaths": 2037,
-      "recovered": 40285
+      "deaths": 2072,
+      "recovered": 41199
     }
   },
   "Honduras": {
@@ -795,34 +795,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 29850,
+          "confirmed": 29897,
           "date": "2020-08-05",
           "deaths": 4291,
-          "recovered": 23978
+          "recovered": 23997
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 96381,
+          "confirmed": 96519,
           "date": "2020-08-05",
-          "deaths": 16819,
-          "recovered": 73810
+          "deaths": 16824,
+          "recovered": 73872
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31719,
+          "confirmed": 31740,
           "date": "2020-08-05",
-          "deaths": 4132,
-          "recovered": 26789
+          "deaths": 4134,
+          "recovered": 26826
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 20253,
+          "confirmed": 20294,
           "date": "2020-08-05",
           "deaths": 2077,
-          "recovered": 17111
+          "recovered": 17150
         }
       }
     }
@@ -1296,7 +1296,7 @@
       "confirmed": 54254,
       "date": "2020-08-05",
       "deaths": 27,
-      "recovered": 47454
+      "recovered": 47768
     }
   },
   "South Africa": {
@@ -1415,9 +1415,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 12039,
+          "confirmed": 12186,
           "date": "2020-08-05",
-          "deaths": 228,
+          "deaths": 230,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 363126,
+          "confirmed": 363594,
           "date": "2020-08-05",
           "deaths": 29867,
           "recovered": 0
