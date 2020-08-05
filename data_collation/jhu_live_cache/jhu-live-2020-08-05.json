@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41558,
+          "confirmed": 41560,
           "date": "2020-08-05",
           "deaths": 2829,
           "recovered": 37336
@@ -497,10 +497,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 94752,
+      "confirmed": 94875,
       "date": "2020-08-05",
-      "deaths": 4912,
-      "recovered": 45569
+      "deaths": 4930,
+      "recovered": 47182
     }
   },
   "El Salvador": {
@@ -1041,10 +1041,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 79159,
+      "confirmed": 80286,
       "date": "2020-08-05",
-      "deaths": 421,
-      "recovered": 61421
+      "deaths": 488,
+      "recovered": 69803
     }
   },
   "Pakistan": {
@@ -1397,9 +1397,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 35746,
+      "confirmed": 35927,
       "date": "2020-08-05",
-      "deaths": 1981,
+      "deaths": 1984,
       "recovered": 31600
     }
   },
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 284334,
+          "confirmed": 286532,
           "date": "2020-08-05",
-          "deaths": 4292,
+          "deaths": 4352,
           "recovered": 0
         }
       },
