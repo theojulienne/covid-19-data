@@ -521,7 +521,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 216122,
+      "confirmed": 216114,
       "date": "2020-08-05",
       "deaths": 30175,
       "recovered": 70950
@@ -1185,10 +1185,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 111538,
+      "confirmed": 111805,
       "date": "2020-08-05",
-      "deaths": 177,
-      "recovered": 108254
+      "deaths": 178,
+      "recovered": 108539
     }
   },
   "Romania": {
@@ -1535,9 +1535,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 44997,
+          "confirmed": 45563,
           "date": "2020-08-05",
-          "deaths": 716,
+          "deaths": 744,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 30285,
+          "confirmed": 30630,
           "date": "2020-08-05",
-          "deaths": 997,
+          "deaths": 1004,
           "recovered": 0
         }
       },
