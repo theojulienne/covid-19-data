@@ -178,7 +178,7 @@
           "confirmed": 73231,
           "date": "2020-08-05",
           "deaths": 1791,
-          "recovered": 66958
+          "recovered": 66967
         }
       },
       "Maranhao": {
@@ -290,7 +290,7 @@
           "confirmed": 33194,
           "date": "2020-08-05",
           "deaths": 528,
-          "recovered": 8987
+          "recovered": 9047
         }
       },
       "Santa Catarina": {
@@ -563,9 +563,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 49727,
+          "confirmed": 50068,
           "date": "2020-08-05",
-          "deaths": 1744,
+          "deaths": 1751,
           "recovered": 45000
         }
       }
@@ -769,10 +769,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 134722,
+      "confirmed": 137556,
       "date": "2020-08-05",
-      "deaths": 5017,
-      "recovered": 96103
+      "deaths": 5094,
+      "recovered": 98442
     }
   },
   "Ireland": {
@@ -834,7 +834,7 @@
           "confirmed": 14295,
           "date": "2020-08-05",
           "deaths": 333,
-          "recovered": 10112
+          "recovered": 10437
         }
       }
     }
@@ -1277,17 +1277,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 281456,
+      "confirmed": 282824,
       "date": "2020-08-05",
-      "deaths": 2984,
-      "recovered": 243713
+      "deaths": 3020,
+      "recovered": 245314
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 26738,
+      "confirmed": 27033,
       "date": "2020-08-05",
-      "deaths": 605,
+      "deaths": 614,
       "recovered": 0
     }
   },
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 27314,
+      "confirmed": 27554,
       "date": "2020-08-05",
-      "deaths": 167,
-      "recovered": 18051
+      "deaths": 169,
+      "recovered": 18682
     }
   },
   "Venezuela": {
@@ -1695,7 +1695,7 @@
     "live": {
       "confirmed": 13065,
       "date": "2020-08-05",
-      "deaths": 88,
+      "deaths": 89,
       "recovered": 6618
     }
   }
