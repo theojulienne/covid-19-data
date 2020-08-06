@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 36829,
+      "confirmed": 36896,
       "date": "2020-08-06",
-      "deaths": 1294,
-      "recovered": 25742
+      "deaths": 1298,
+      "recovered": 25840
     }
   },
   "Algeria": {
@@ -38,7 +38,7 @@
           "confirmed": 13469,
           "date": "2020-08-06",
           "deaths": 170,
-          "recovered": 5424
+          "recovered": 5628
         }
       }
     }
@@ -507,8 +507,8 @@
     "live": {
       "confirmed": 18701,
       "date": "2020-08-06",
-      "deaths": 498,
-      "recovered": 9111
+      "deaths": 513,
+      "recovered": 9157
     }
   },
   "Ethiopia": {
@@ -831,7 +831,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 14295,
+          "confirmed": 14655,
           "date": "2020-08-06",
           "deaths": 333,
           "recovered": 10437
