@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 70648,
+      "confirmed": 71158,
       "date": "2020-08-06",
-      "deaths": 9852,
-      "recovered": 17639
+      "deaths": 9859,
+      "recovered": 17661
     }
   },
   "Bolivia": {
@@ -407,42 +407,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 41978,
+          "confirmed": 43370,
           "date": "2020-08-06",
-          "deaths": 655,
-          "recovered": 14378
+          "deaths": 712,
+          "recovered": 15721
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 55206,
+          "confirmed": 55663,
           "date": "2020-08-06",
-          "deaths": 2598,
-          "recovered": 41484
+          "deaths": 2620,
+          "recovered": 42109
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 19306,
+          "confirmed": 19548,
           "date": "2020-08-06",
-          "deaths": 605,
-          "recovered": 14448
+          "deaths": 607,
+          "recovered": 14708
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 113548,
+          "confirmed": 117793,
           "date": "2020-08-06",
-          "deaths": 3169,
-          "recovered": 55013
+          "deaths": 3261,
+          "recovered": 56602
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 27592,
+          "confirmed": 28611,
           "date": "2020-08-06",
-          "deaths": 1081,
-          "recovered": 15796
+          "deaths": 1106,
+          "recovered": 16527
         }
       }
     }
@@ -589,10 +589,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 44299,
+      "confirmed": 45098,
       "date": "2020-08-06",
-      "deaths": 1400,
-      "recovered": 5921
+      "deaths": 1423,
+      "recovered": 6116
     }
   },
   "India": {
@@ -1431,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 374489,
+          "confirmed": 376914,
           "date": "2020-08-06",
-          "deaths": 7515,
+          "deaths": 7594,
           "recovered": 0
         }
       },
