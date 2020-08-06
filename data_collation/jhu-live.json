@@ -449,10 +449,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 20417,
+      "confirmed": 21070,
       "date": "2020-08-06",
-      "deaths": 191,
-      "recovered": 6851
+      "deaths": 200,
+      "recovered": 7038
     }
   },
   "Cote d'Ivoire": {
@@ -777,9 +777,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 26303,
+      "confirmed": 26372,
       "date": "2020-08-06",
-      "deaths": 1763,
+      "deaths": 1768,
       "recovered": 23364
     }
   },
@@ -1447,7 +1447,7 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 12443,
+          "confirmed": 12518,
           "date": "2020-08-06",
           "deaths": 587,
           "recovered": 0
@@ -1463,9 +1463,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 78351,
+          "confirmed": 79634,
           "date": "2020-08-06",
-          "deaths": 1274,
+          "deaths": 1285,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42718,
+          "confirmed": 43012,
           "date": "2020-08-06",
-          "deaths": 3936,
+          "deaths": 3950,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 41736,
+          "confirmed": 42213,
           "date": "2020-08-06",
-          "deaths": 506,
+          "deaths": 511,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 20175,
+          "confirmed": 20389,
           "date": "2020-08-06",
-          "deaths": 450,
+          "deaths": 452,
           "recovered": 0
         }
       }
