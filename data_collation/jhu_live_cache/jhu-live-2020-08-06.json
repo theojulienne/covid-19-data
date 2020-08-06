@@ -497,10 +497,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 94875,
+      "confirmed": 95006,
       "date": "2020-08-06",
-      "deaths": 4930,
-      "recovered": 47182
+      "deaths": 4951,
+      "recovered": 48898
     }
   },
   "El Salvador": {
@@ -1301,10 +1301,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 529877,
+      "confirmed": 538184,
       "date": "2020-08-06",
-      "deaths": 9298,
-      "recovered": 377266
+      "deaths": 9604,
+      "recovered": 387316
     }
   },
   "Spain": {
@@ -1599,7 +1599,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 290598,
+          "confirmed": 291603,
           "date": "2020-08-06",
           "deaths": 5249,
           "recovered": 0
@@ -1695,7 +1695,7 @@
     "live": {
       "confirmed": 13398,
       "date": "2020-08-06",
-      "deaths": 91,
+      "deaths": 92,
       "recovered": 6907
     }
   }
