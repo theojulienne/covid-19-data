@@ -521,7 +521,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 218832,
+      "confirmed": 218821,
       "date": "2020-08-06",
       "deaths": 30185,
       "recovered": 71778
@@ -1567,9 +1567,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 30630,
+          "confirmed": 30975,
           "date": "2020-08-06",
-          "deaths": 1004,
+          "deaths": 1012,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 19875,
+          "confirmed": 20082,
           "date": "2020-08-06",
-          "deaths": 185,
+          "deaths": 186,
           "recovered": 0
         }
       },
