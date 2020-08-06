@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 13306,
+      "confirmed": 13396,
       "date": "2020-08-06",
       "deaths": 384,
-      "recovered": 7031
+      "recovered": 7042
     }
   },
   "Brazil": {
@@ -505,10 +505,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 18701,
+      "confirmed": 19126,
       "date": "2020-08-06",
       "deaths": 513,
-      "recovered": 9157
+      "recovered": 9236
     }
   },
   "Ethiopia": {
@@ -795,34 +795,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 29897,
+          "confirmed": 29954,
           "date": "2020-08-06",
           "deaths": 4291,
-          "recovered": 23997
+          "recovered": 24011
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 96519,
+          "confirmed": 96637,
           "date": "2020-08-06",
-          "deaths": 16824,
-          "recovered": 73872
+          "deaths": 16829,
+          "recovered": 74080
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 31740,
+          "confirmed": 31762,
           "date": "2020-08-06",
-          "deaths": 4134,
-          "recovered": 26826
+          "deaths": 4135,
+          "recovered": 26849
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 20294,
+          "confirmed": 20352,
           "date": "2020-08-06",
           "deaths": 2077,
-          "recovered": 17150
+          "recovered": 17178
         }
       }
     }
@@ -1296,7 +1296,7 @@
       "confirmed": 54555,
       "date": "2020-08-06",
       "deaths": 27,
-      "recovered": 47768
+      "recovered": 48031
     }
   },
   "South Africa": {
@@ -1455,9 +1455,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 351005,
+          "confirmed": 355481,
           "date": "2020-08-06",
-          "deaths": 5313,
+          "deaths": 5372,
           "recovered": 0
         }
       },
