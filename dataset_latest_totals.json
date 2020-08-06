@@ -864,19 +864,19 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 15713,
+        "confirmed": 15813,
         "deaths": 98,
-        "recovered": 10537
+        "recovered": 10793
       },
       "back_2week": {
-        "confirmed": 14531,
+        "confirmed": 14733,
         "deaths": 93,
-        "recovered": 8857
+        "recovered": 8995
       },
       "latest": {
-        "confirmed": 16293,
+        "confirmed": 16349,
         "deaths": 103,
-        "recovered": 11955
+        "recovered": 12191
       }
     },
     "CMR": {
@@ -1414,8 +1414,8 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 305623,
-        "deaths": 46210,
+        "confirmed": 306293,
+        "deaths": 46229,
         "recovered": 0
       },
       "states": {

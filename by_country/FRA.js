@@ -6411,7 +6411,7 @@ var covid19_dataset_country_fra = {
       212884,
       216193,
       216106,
-      218821
+      218763
     ],
     "deaths": [
       0,
@@ -6811,7 +6811,7 @@ var covid19_dataset_country_fra = {
       71258,
       71152,
       71484,
-      71778
+      71613
     ]
   }
 };
