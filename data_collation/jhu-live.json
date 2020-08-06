@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 13035,
+          "confirmed": 13469,
           "date": "2020-08-06",
-          "deaths": 162,
+          "deaths": 170,
           "recovered": 5424
         }
       }
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 83361,
+      "confirmed": 85141,
       "date": "2020-08-06",
-      "deaths": 3320,
-      "recovered": 25390
+      "deaths": 3385,
+      "recovered": 26437
     }
   },
   "Bosnia and Herzegovina": {
@@ -1095,65 +1095,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 12770,
+          "confirmed": 13013,
           "date": "2020-08-06",
-          "deaths": 849,
+          "deaths": 861,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 15845,
+          "confirmed": 16500,
           "date": "2020-08-06",
-          "deaths": 808,
+          "deaths": 833,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 21943,
+          "confirmed": 22131,
           "date": "2020-08-06",
-          "deaths": 1057,
+          "deaths": 1060,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 13615,
+          "confirmed": 13894,
           "date": "2020-08-06",
-          "deaths": 918,
+          "deaths": 929,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 16089,
+          "confirmed": 16392,
           "date": "2020-08-06",
-          "deaths": 1379,
+          "deaths": 1391,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 17801,
+          "confirmed": 17977,
           "date": "2020-08-06",
-          "deaths": 1238,
+          "deaths": 1242,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 227717,
+          "confirmed": 230817,
           "date": "2020-08-06",
-          "deaths": 9428,
+          "deaths": 9515,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 21694,
+          "confirmed": 21871,
           "date": "2020-08-06",
-          "deaths": 1282,
+          "deaths": 1295,
           "recovered": 0
         }
       }
@@ -1685,10 +1685,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 21438,
+      "confirmed": 22299,
       "date": "2020-08-06",
-      "deaths": 187,
-      "recovered": 11875
+      "deaths": 195,
+      "recovered": 12146
     }
   },
   "West Bank and Gaza": {
