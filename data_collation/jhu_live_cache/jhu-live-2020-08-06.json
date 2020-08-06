@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 39586,
+      "confirmed": 39819,
       "date": "2020-08-06",
-      "deaths": 770,
-      "recovered": 30850
+      "deaths": 772,
+      "recovered": 31556
     }
   },
   "Australia": {
@@ -539,15 +539,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 51494,
+          "confirmed": 51582,
           "date": "2020-08-06",
           "deaths": 2624,
-          "recovered": 47400
+          "recovered": 47500
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 12254,
+          "confirmed": 12310,
           "date": "2020-08-06",
           "deaths": 523,
           "recovered": 11100
@@ -555,7 +555,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14671,
+          "confirmed": 14723,
           "date": "2020-08-06",
           "deaths": 654,
           "recovered": 13464
@@ -563,10 +563,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 50068,
+          "confirmed": 50493,
           "date": "2020-08-06",
-          "deaths": 1751,
-          "recovered": 45000
+          "deaths": 1752,
+          "recovered": 45200
         }
       }
     }
