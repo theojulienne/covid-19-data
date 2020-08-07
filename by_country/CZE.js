@@ -198,7 +198,8 @@ var covid19_dataset_country_cze = {
     "2020-08-04",
     "2020-08-05",
     "2020-08-06",
-    "2020-08-07"
+    "2020-08-07",
+    "2020-08-08"
   ],
   "total": {
     "confirmed": [
@@ -399,7 +400,7 @@ var covid19_dataset_country_cze = {
       17008,
       17286,
       17529,
-      17648
+      17731
     ],
     "deaths": [
       0,
@@ -599,7 +600,7 @@ var covid19_dataset_country_cze = {
       386,
       383,
       388,
-      389
+      390
     ],
     "recovered": [
       0,
@@ -799,7 +800,7 @@ var covid19_dataset_country_cze = {
       11708,
       11812,
       11909,
-      12196
+      12320
     ]
   }
 };
