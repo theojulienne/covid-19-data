@@ -803,7 +803,7 @@ var covid19_dataset_country_cri = {
       6590,
       6851,
       7038,
-      7261
+      7266
     ]
   }
 };
