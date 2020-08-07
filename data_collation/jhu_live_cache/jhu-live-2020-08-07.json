@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 33626,
+      "confirmed": 34155,
       "date": "2020-08-07",
-      "deaths": 1273,
-      "recovered": 23238
+      "deaths": 1282,
+      "recovered": 23667
     }
   },
   "Argentina": {
@@ -457,10 +457,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 21070,
+      "confirmed": 22081,
       "date": "2020-08-07",
-      "deaths": 200,
-      "recovered": 7038
+      "deaths": 218,
+      "recovered": 7261
     }
   },
   "Cote d'Ivoire": {
@@ -1503,9 +1503,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 78929,
+          "confirmed": 79225,
           "date": "2020-08-07",
-          "deaths": 5252,
+          "deaths": 5260,
           "recovered": 0
         }
       },
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 364580,
           "date": "2020-08-07",
-          "deaths": 29876,
+          "deaths": 29880,
           "recovered": 0
         }
       },
