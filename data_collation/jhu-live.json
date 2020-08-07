@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 71158,
+      "confirmed": 72016,
       "date": "2020-08-07",
-      "deaths": 9859,
-      "recovered": 17661
+      "deaths": 9861,
+      "recovered": 17700
     }
   },
   "Bolivia": {
@@ -581,10 +581,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 45098,
+      "confirmed": 45755,
       "date": "2020-08-07",
-      "deaths": 1423,
-      "recovered": 6116
+      "deaths": 1446,
+      "recovered": 6225
     }
   },
   "India": {
@@ -833,10 +833,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 95942,
+      "confirmed": 96922,
       "date": "2020-08-07",
       "deaths": 1058,
-      "recovered": 68871
+      "recovered": 70680
     }
   },
   "Kenya": {
@@ -1677,10 +1677,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 22299,
+      "confirmed": 23280,
       "date": "2020-08-07",
-      "deaths": 195,
-      "recovered": 12146
+      "deaths": 202,
+      "recovered": 12470
     }
   },
   "West Bank and Gaza": {
