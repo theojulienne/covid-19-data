@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 60000,
+          "confirmed": 60133,
           "deaths": 5687
         },
         "Saskatchewan": {
@@ -1165,19 +1165,19 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 83193,
-        "deaths": 5623,
-        "recovered": 35572
+        "confirmed": 84370,
+        "deaths": 5657,
+        "recovered": 35824
       },
       "back_2week": {
-        "confirmed": 77257,
-        "deaths": 5418,
-        "recovered": 33125
+        "confirmed": 78148,
+        "deaths": 5439,
+        "recovered": 33455
       },
       "latest": {
-        "confirmed": 88866,
-        "deaths": 5847,
-        "recovered": 71168
+        "confirmed": 90537,
+        "deaths": 5877,
+        "recovered": 71318
       }
     },
     "EGY": {
@@ -1745,18 +1745,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 25942,
-        "deaths": 1764,
+        "confirmed": 26027,
+        "deaths": 1763,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 25819,
-        "deaths": 1754,
+        "confirmed": 25826,
+        "deaths": 1763,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 26303,
-        "deaths": 1763,
+        "confirmed": 26372,
+        "deaths": 1768,
         "recovered": 23364
       }
     },
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 22213,
-        "deaths": 334,
-        "recovered": 17125
+        "confirmed": 23259,
+        "deaths": 346,
+        "recovered": 17311
       },
       "back_2week": {
-        "confirmed": 17962,
-        "deaths": 285,
-        "recovered": 15636
+        "confirmed": 18264,
+        "deaths": 292,
+        "recovered": 15872
       },
       "latest": {
-        "confirmed": 28500,
-        "deaths": 435,
-        "recovered": 19994
+        "confirmed": 29644,
+        "deaths": 449,
+        "recovered": 20553
       }
     },
     "MCO": {
