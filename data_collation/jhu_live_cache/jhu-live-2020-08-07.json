@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 36968,
+      "confirmed": 37015,
       "date": "2020-08-07",
-      "deaths": 1302,
+      "deaths": 1307,
       "recovered": 25903
     }
   },
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 33247,
+      "confirmed": 33376,
       "date": "2020-08-07",
-      "deaths": 479,
-      "recovered": 29275
+      "deaths": 483,
+      "recovered": 29696
     }
   },
   "Bahrain": {
@@ -769,10 +769,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 140603,
+      "confirmed": 144064,
       "date": "2020-08-07",
-      "deaths": 5161,
-      "recovered": 101025
+      "deaths": 5236,
+      "recovered": 103197
     }
   },
   "Ireland": {
@@ -1277,10 +1277,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 284226,
+      "confirmed": 285793,
       "date": "2020-08-07",
-      "deaths": 3055,
-      "recovered": 247089
+      "deaths": 3093,
+      "recovered": 248948
     }
   },
   "Serbia": {
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 293326,
+          "confirmed": 293638,
           "date": "2020-08-07",
-          "deaths": 5292,
+          "deaths": 5293,
           "recovered": 0
         }
       },

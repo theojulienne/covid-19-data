@@ -248,19 +248,19 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 31221,
-        "deaths": 438,
-        "recovered": 24495
+        "confirmed": 31560,
+        "deaths": 441,
+        "recovered": 25168
       },
       "back_2week": {
-        "confirmed": 28633,
-        "deaths": 385,
-        "recovered": 20443
+        "confirmed": 28980,
+        "deaths": 391,
+        "recovered": 20974
       },
       "latest": {
-        "confirmed": 33103,
-        "deaths": 476,
-        "recovered": 28840
+        "confirmed": 33247,
+        "deaths": 479,
+        "recovered": 29275
       }
     },
     "BDI": {
@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 118300,
-        "deaths": 4603,
-        "recovered": 83461
+        "confirmed": 121263,
+        "deaths": 4671,
+        "recovered": 85546
       },
       "back_2week": {
-        "confirmed": 99865,
-        "deaths": 4042,
-        "recovered": 67147
+        "confirmed": 102226,
+        "deaths": 4122,
+        "recovered": 69405
       },
       "latest": {
-        "confirmed": 137556,
-        "deaths": 5094,
-        "recovered": 98442
+        "confirmed": 140603,
+        "deaths": 5161,
+        "recovered": 101025
       }
     },
     "ISL": {
@@ -2864,19 +2864,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 272590,
-        "deaths": 2816,
-        "recovered": 228569
+        "confirmed": 274219,
+        "deaths": 2842,
+        "recovered": 231198
       },
       "back_2week": {
-        "confirmed": 258156,
-        "deaths": 2601,
-        "recovered": 210398
+        "confirmed": 260394,
+        "deaths": 2635,
+        "recovered": 213490
       },
       "latest": {
-        "confirmed": 282824,
-        "deaths": 3020,
-        "recovered": 245314
+        "confirmed": 284226,
+        "deaths": 3055,
+        "recovered": 247089
       }
     },
     "SDN": {
