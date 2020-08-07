@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 36896,
+      "confirmed": 36968,
       "date": "2020-08-07",
-      "deaths": 1298,
-      "recovered": 25840
+      "deaths": 1302,
+      "recovered": 25903
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 39819,
+      "confirmed": 39985,
       "date": "2020-08-07",
-      "deaths": 772,
-      "recovered": 31556
+      "deaths": 777,
+      "recovered": 32008
     }
   },
   "Australia": {
@@ -162,7 +162,7 @@
           "confirmed": 118000,
           "date": "2020-08-07",
           "deaths": 1651,
-          "recovered": 97327
+          "recovered": 99385
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 79897,
           "date": "2020-08-07",
           "deaths": 1888,
-          "recovered": 71714
+          "recovered": 71850
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 127065,
           "date": "2020-08-07",
           "deaths": 3120,
-          "recovered": 114743
+          "recovered": 116180
         }
       },
       "Mato Grosso": {
@@ -242,7 +242,7 @@
           "confirmed": 101395,
           "date": "2020-08-07",
           "deaths": 6828,
-          "recovered": 77142
+          "recovered": 77379
         }
       },
       "Piaui": {
@@ -250,7 +250,7 @@
           "confirmed": 57100,
           "date": "2020-08-07",
           "deaths": 1436,
-          "recovered": 54950
+          "recovered": 56215
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 42725,
           "date": "2020-08-07",
           "deaths": 923,
-          "recovered": 34900
+          "recovered": 35490
         }
       },
       "Roraima": {
@@ -290,7 +290,7 @@
           "confirmed": 34929,
           "date": "2020-08-07",
           "deaths": 538,
-          "recovered": 9047
+          "recovered": 9110
         }
       },
       "Santa Catarina": {
@@ -298,7 +298,7 @@
           "confirmed": 98634,
           "date": "2020-08-07",
           "deaths": 1357,
-          "recovered": 82803
+          "recovered": 85913
         }
       },
       "Sao Paulo": {
@@ -314,7 +314,7 @@
           "confirmed": 62844,
           "date": "2020-08-07",
           "deaths": 1537,
-          "recovered": 33685
+          "recovered": 44439
         }
       },
       "Tocantins": {
@@ -831,7 +831,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 14656,
+          "confirmed": 15117,
           "date": "2020-08-07",
           "deaths": 333,
           "recovered": 10687
