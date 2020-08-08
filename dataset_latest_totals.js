@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 11420,
-        "deaths": 374,
-        "recovered": 6173
+        "confirmed": 11690,
+        "deaths": 383,
+        "recovered": 6319
       },
       "back_2week": {
-        "confirmed": 9853,
-        "deaths": 329,
-        "recovered": 5031
+        "confirmed": 10123,
+        "deaths": 337,
+        "recovered": 5252
       },
       "latest": {
-        "confirmed": 13014,
-        "deaths": 435,
-        "recovered": 7374
+        "confirmed": 13209,
+        "deaths": 442,
+        "recovered": 7622
       }
     },
     "BHR": {
@@ -1182,19 +1182,19 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 93757,
-        "deaths": 4774,
-        "recovered": 38236
+        "confirmed": 94078,
+        "deaths": 4805,
+        "recovered": 39638
       },
       "back_2week": {
-        "confirmed": 90413,
-        "deaths": 4480,
-        "recovered": 31066
+        "confirmed": 91072,
+        "deaths": 4518,
+        "recovered": 31970
       },
       "latest": {
-        "confirmed": 95006,
-        "deaths": 4951,
-        "recovered": 48898
+        "confirmed": 95147,
+        "deaths": 4971,
+        "recovered": 50553
       }
     },
     "ERI": {
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 42689,
-        "deaths": 878,
-        "recovered": 19270
+        "confirmed": 43151,
+        "deaths": 879,
+        "recovered": 19565
       },
       "back_2week": {
-        "confirmed": 38948,
-        "deaths": 833,
-        "recovered": 16061
+        "confirmed": 39539,
+        "deaths": 845,
+        "recovered": 16559
       },
       "latest": {
-        "confirmed": 45244,
-        "deaths": 930,
-        "recovered": 32430
+        "confirmed": 45687,
+        "deaths": 936,
+        "recovered": 32637
       }
     },
     "NIC": {
