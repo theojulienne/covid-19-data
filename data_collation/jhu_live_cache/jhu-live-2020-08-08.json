@@ -505,10 +505,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 19544,
+      "confirmed": 19978,
       "date": "2020-08-08",
       "deaths": 536,
-      "recovered": 9392
+      "recovered": 9515
     }
   },
   "Ethiopia": {
@@ -997,10 +997,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 26990,
+      "confirmed": 27443,
       "date": "2020-08-08",
-      "deaths": 835,
-      "recovered": 18918
+      "deaths": 841,
+      "recovered": 19100
     }
   },
   "Morocco": {
@@ -1177,10 +1177,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 52351,
+      "confirmed": 52537,
       "date": "2020-08-08",
-      "deaths": 1746,
-      "recovered": 38087
+      "deaths": 1750,
+      "recovered": 38364
     }
   },
   "Qatar": {
@@ -1447,17 +1447,17 @@
       },
       "District of Columbia": {
         "live": {
-          "confirmed": 12589,
+          "confirmed": 12653,
           "date": "2020-08-08",
-          "deaths": 589,
+          "deaths": 590,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 359677,
+          "confirmed": 364540,
           "date": "2020-08-08",
-          "deaths": 5474,
+          "deaths": 5572,
           "recovered": 0
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 54426,
+          "confirmed": 54874,
           "date": "2020-08-08",
-          "deaths": 2109,
+          "deaths": 2114,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16241,
+          "confirmed": 16302,
           "date": "2020-08-08",
-          "deaths": 530,
+          "deaths": 529,
           "recovered": 0
         }
       },
