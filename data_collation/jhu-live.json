@@ -489,10 +489,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 77709,
+      "confirmed": 78778,
       "date": "2020-08-08",
-      "deaths": 1259,
-      "recovered": 41393
+      "deaths": 1289,
+      "recovered": 42538
     }
   },
   "Ecuador": {
@@ -1405,10 +1405,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 238450,
+      "confirmed": 239622,
       "date": "2020-08-08",
-      "deaths": 5813,
-      "recovered": 221574
+      "deaths": 5829,
+      "recovered": 222656
     }
   },
   "US": {
@@ -1535,9 +1535,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 46990,
+          "confirmed": 47739,
           "date": "2020-08-08",
-          "deaths": 770,
+          "deaths": 799,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 31275,
+          "confirmed": 31596,
           "date": "2020-08-08",
-          "deaths": 1020,
+          "deaths": 1022,
           "recovered": 0
         }
       },
