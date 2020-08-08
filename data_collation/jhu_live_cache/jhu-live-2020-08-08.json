@@ -373,14 +373,6 @@
           "recovered": 14188
         }
       },
-      "Biobio": {
-        "live": {
-          "confirmed": 12498,
-          "date": "2020-08-08",
-          "deaths": 132,
-          "recovered": 10893
-        }
-      },
       "Metropolitana": {
         "live": {
           "confirmed": 260657,
@@ -547,15 +539,23 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 51710,
+          "confirmed": 51794,
           "date": "2020-08-08",
           "deaths": 2626,
-          "recovered": 47531
+          "recovered": 47800
+        }
+      },
+      "Hessen": {
+        "live": {
+          "confirmed": 12602,
+          "date": "2020-08-08",
+          "deaths": 524,
+          "recovered": 11300
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 14847,
+          "confirmed": 14911,
           "date": "2020-08-08",
           "deaths": 654,
           "recovered": 13544
@@ -563,10 +563,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 50937,
+          "confirmed": 51330,
           "date": "2020-08-08",
-          "deaths": 1755,
-          "recovered": 45532
+          "deaths": 1759,
+          "recovered": 45600
         }
       }
     }
@@ -1677,9 +1677,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 29225,
+      "confirmed": 29459,
       "date": "2020-08-08",
-      "deaths": 183,
+      "deaths": 185,
       "recovered": 20380
     }
   },
