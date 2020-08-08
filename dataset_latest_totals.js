@@ -217,7 +217,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 5,
           "deaths": 181,
           "recovered": 1992,
-          "tested": 1746900
+          "tested": 1771900
         },
         "WA": {
           "confirmed": 659,
@@ -1932,9 +1932,9 @@ var covid19_dataset_latest_totals = {
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 35223,
-        "deaths": 1364,
-        "recovered": 23985
+        "confirmed": 35805,
+        "deaths": 1378,
+        "recovered": 25037
       },
       "back_2week": {
         "confirmed": 31247,
@@ -1942,9 +1942,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 18038
       },
       "latest": {
-        "confirmed": 38659,
-        "deaths": 1447,
-        "recovered": 30099
+        "confirmed": 39162,
+        "deaths": 1451,
+        "recovered": 30764
       }
     },
     "KHM": {
@@ -2950,18 +2950,18 @@ var covid19_dataset_latest_totals = {
     "SLV": {
       "back_1week": {
         "confirmed": 16230,
-        "deaths": 439,
-        "recovered": 8206
+        "deaths": 448,
+        "recovered": 8362
       },
       "back_2week": {
         "confirmed": 13377,
-        "deaths": 372,
-        "recovered": 7276
+        "deaths": 379,
+        "recovered": 7415
       },
       "latest": {
         "confirmed": 19126,
-        "deaths": 513,
-        "recovered": 9236
+        "deaths": 520,
+        "recovered": 9379
       }
     },
     "SMR": {
@@ -3737,19 +3737,19 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 23271,
-        "deaths": 136,
-        "recovered": 13680
+        "confirmed": 24009,
+        "deaths": 141,
+        "recovered": 14464
       },
       "back_2week": {
-        "confirmed": 18986,
-        "deaths": 103,
-        "recovered": 10149
+        "confirmed": 19360,
+        "deaths": 106,
+        "recovered": 10472
       },
       "latest": {
-        "confirmed": 28315,
-        "deaths": 175,
-        "recovered": 19291
+        "confirmed": 29057,
+        "deaths": 181,
+        "recovered": 20059
       }
     },
     "VAT": {
