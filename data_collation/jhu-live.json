@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 68614,
+      "confirmed": 68738,
       "date": "2020-08-08",
-      "deaths": 583,
-      "recovered": 64200
+      "deaths": 585,
+      "recovered": 64744
     }
   },
   "Belgium": {
@@ -138,7 +138,7 @@
           "confirmed": 105857,
           "date": "2020-08-08",
           "deaths": 3345,
-          "recovered": 88937
+          "recovered": 89651
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 119903,
           "date": "2020-08-08",
           "deaths": 1682,
-          "recovered": 99385
+          "recovered": 99792
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 82807,
           "date": "2020-08-08",
           "deaths": 1946,
-          "recovered": 73704
+          "recovered": 74005
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 128846,
           "date": "2020-08-08",
           "deaths": 3138,
-          "recovered": 116180
+          "recovered": 117830
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 62785,
           "date": "2020-08-08",
           "deaths": 2037,
-          "recovered": 38576
+          "recovered": 40032
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 58390,
           "date": "2020-08-08",
           "deaths": 1452,
-          "recovered": 56215
+          "recovered": 57385
         }
       },
       "Rio Grande do Norte": {
@@ -258,7 +258,7 @@
           "confirmed": 54717,
           "date": "2020-08-08",
           "deaths": 1965,
-          "recovered": 27923
+          "recovered": 28243
         }
       },
       "Rio Grande do Sul": {
@@ -298,7 +298,7 @@
           "confirmed": 101582,
           "date": "2020-08-08",
           "deaths": 1400,
-          "recovered": 85913
+          "recovered": 88670
         }
       },
       "Sao Paulo": {
@@ -761,10 +761,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 322567,
+      "confirmed": 324692,
       "date": "2020-08-08",
-      "deaths": 18132,
-      "recovered": 279724
+      "deaths": 18264,
+      "recovered": 282122
     }
   },
   "Iraq": {
@@ -1013,10 +1013,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 22214,
+      "confirmed": 22592,
       "date": "2020-08-08",
-      "deaths": 70,
-      "recovered": 15814
+      "deaths": 73,
+      "recovered": 16313
     }
   },
   "Netherlands": {
@@ -1397,7 +1397,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 36269,
+      "confirmed": 36451,
       "date": "2020-08-08",
       "deaths": 1986,
       "recovered": 31900
