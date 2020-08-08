@@ -38,7 +38,7 @@
           "confirmed": 14283,
           "date": "2020-08-08",
           "deaths": 193,
-          "recovered": 5829
+          "recovered": 6066
         }
       }
     }
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41813,
+          "confirmed": 41815,
           "date": "2020-08-08",
           "deaths": 2829,
-          "recovered": 37716
+          "recovered": 37717
         }
       },
       "Quebec": {
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 96922,
+      "confirmed": 97829,
       "date": "2020-08-08",
       "deaths": 1058,
-      "recovered": 70680
+      "recovered": 71609
     }
   },
   "Kenya": {
@@ -1095,65 +1095,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 13229,
+          "confirmed": 13453,
           "date": "2020-08-08",
-          "deaths": 871,
+          "deaths": 875,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 17191,
+          "confirmed": 18190,
           "date": "2020-08-08",
-          "deaths": 842,
+          "deaths": 869,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 22354,
+          "confirmed": 22594,
           "date": "2020-08-08",
-          "deaths": 1067,
+          "deaths": 1080,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 14149,
+          "confirmed": 14406,
           "date": "2020-08-08",
-          "deaths": 941,
+          "deaths": 951,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 16605,
+          "confirmed": 16881,
           "date": "2020-08-08",
-          "deaths": 1397,
+          "deaths": 1412,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 18185,
+          "confirmed": 18341,
           "date": "2020-08-08",
-          "deaths": 1249,
+          "deaths": 1251,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 234027,
+          "confirmed": 237156,
           "date": "2020-08-08",
-          "deaths": 9599,
+          "deaths": 9716,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 22031,
+          "confirmed": 22184,
           "date": "2020-08-08",
-          "deaths": 1303,
+          "deaths": 1306,
           "recovered": 0
         }
       }
@@ -1623,9 +1623,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 16078,
+          "confirmed": 16222,
           "date": "2020-08-08",
-          "deaths": 664,
+          "deaths": 670,
           "recovered": 0
         }
       },
