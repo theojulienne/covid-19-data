@@ -831,7 +831,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 15117,
+          "confirmed": 15546,
           "date": "2020-08-08",
           "deaths": 333,
           "recovered": 11007
@@ -1400,7 +1400,7 @@
       "confirmed": 36269,
       "date": "2020-08-08",
       "deaths": 1986,
-      "recovered": 31600
+      "recovered": 31900
     }
   },
   "Turkey": {
