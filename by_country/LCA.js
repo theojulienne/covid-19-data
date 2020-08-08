@@ -401,9 +401,11 @@ var covid19_dataset_country_lca = {
       25,
       25,
       25,
+      25,
       25
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -800,6 +802,7 @@ var covid19_dataset_country_lca = {
       22,
       22,
       22,
+      24,
       24,
       24
     ]

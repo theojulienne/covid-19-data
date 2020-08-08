@@ -401,7 +401,8 @@ var covid19_dataset_country_syr = {
       847,
       892,
       944,
-      999
+      999,
+      1060
     ],
     "deaths": [
       0,
@@ -600,6 +601,7 @@ var covid19_dataset_country_syr = {
       44,
       46,
       46,
+      48,
       48,
       48
     ],
@@ -801,6 +803,7 @@ var covid19_dataset_country_syr = {
       268,
       283,
       296,
+      311,
       311
     ]
   }
