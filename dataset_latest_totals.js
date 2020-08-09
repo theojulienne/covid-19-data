@@ -648,7 +648,7 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 35232,
         "deaths": 1981,
-        "recovered": 31100
+        "recovered": 31300
       },
       "back_2week": {
         "confirmed": 34154,
@@ -658,7 +658,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 36269,
         "deaths": 1986,
-        "recovered": 31600
+        "recovered": 31900
       }
     },
     "CHL": {
