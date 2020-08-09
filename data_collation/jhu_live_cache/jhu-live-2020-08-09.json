@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 14283,
+          "confirmed": 14659,
           "date": "2020-08-09",
-          "deaths": 193,
+          "deaths": 210,
           "recovered": 6066
         }
       }
@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 72784,
+      "confirmed": 73401,
       "date": "2020-08-09",
-      "deaths": 9866,
-      "recovered": 17728
+      "deaths": 9870,
+      "recovered": 17766
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 87891,
+      "confirmed": 89055,
       "date": "2020-08-09",
-      "deaths": 3524,
-      "recovered": 28139
+      "deaths": 3587,
+      "recovered": 28904
     }
   },
   "Bosnia and Herzegovina": {
@@ -417,40 +417,40 @@
         "live": {
           "confirmed": 46834,
           "date": "2020-08-09",
-          "deaths": 788,
-          "recovered": 18389
+          "deaths": 834,
+          "recovered": 19653
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 56801,
           "date": "2020-08-09",
-          "deaths": 2649,
-          "recovered": 43527
+          "deaths": 2669,
+          "recovered": 44206
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 19901,
           "date": "2020-08-09",
-          "deaths": 616,
-          "recovered": 15346
+          "deaths": 619,
+          "recovered": 15666
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 126488,
           "date": "2020-08-09",
-          "deaths": 3481,
-          "recovered": 59566
+          "deaths": 3578,
+          "recovered": 61188
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 30371,
           "date": "2020-08-09",
-          "deaths": 1177,
-          "recovered": 17553
+          "deaths": 1199,
+          "recovered": 18081
         }
       }
     }
@@ -589,10 +589,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 46365,
+      "confirmed": 46973,
       "date": "2020-08-09",
-      "deaths": 1465,
-      "recovered": 6355
+      "deaths": 1476,
+      "recovered": 6428
     }
   },
   "India": {
@@ -1415,9 +1415,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 12743,
-          "date": "2020-08-08",
-          "deaths": 242,
+          "confirmed": 12969,
+          "date": "2020-08-09",
+          "deaths": 243,
           "recovered": 0
         }
       },
