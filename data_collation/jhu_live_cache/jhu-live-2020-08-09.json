@@ -19,7 +19,7 @@
     "live": {
       "confirmed": 241811,
       "date": "2020-08-09",
-      "deaths": 4523,
+      "deaths": 4556,
       "recovered": 108242
     }
   },
@@ -371,14 +371,6 @@
           "date": "2020-08-09",
           "deaths": 376,
           "recovered": 14312
-        }
-      },
-      "Biobio": {
-        "live": {
-          "confirmed": 12679,
-          "date": "2020-08-09",
-          "deaths": 135,
-          "recovered": 11076
         }
       },
       "Metropolitana": {
@@ -777,10 +769,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 147389,
+      "confirmed": 150115,
       "date": "2020-08-09",
-      "deaths": 5310,
-      "recovered": 105504
+      "deaths": 5392,
+      "recovered": 107775
     }
   },
   "Ireland": {
@@ -1005,10 +997,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 27443,
+      "confirmed": 27660,
       "date": "2020-08-09",
-      "deaths": 841,
-      "recovered": 19100
+      "deaths": 845,
+      "recovered": 19300
     }
   },
   "Morocco": {
@@ -1453,6 +1445,14 @@
           "recovered": 0
         }
       },
+      "District of Columbia": {
+        "live": {
+          "confirmed": 12753,
+          "date": "2020-08-09",
+          "deaths": 591,
+          "recovered": 0
+        }
+      },
       "Florida": {
         "live": {
           "confirmed": 364540,
@@ -1495,9 +1495,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 54874,
+          "confirmed": 55346,
           "date": "2020-08-09",
-          "deaths": 2114,
+          "deaths": 2119,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16302,
+          "confirmed": 16376,
           "date": "2020-08-09",
           "deaths": 529,
           "recovered": 0
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 30197,
+      "confirmed": 30464,
       "date": "2020-08-09",
-      "deaths": 190,
-      "recovered": 21316
+      "deaths": 192,
+      "recovered": 21813
     }
   },
   "Venezuela": {
