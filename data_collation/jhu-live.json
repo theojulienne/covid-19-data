@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 44011,
       "date": "2020-08-10",
-      "deaths": 162,
+      "deaths": 163,
       "recovered": 40967
     }
   },
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42001,
+          "confirmed": 42006,
           "date": "2020-08-10",
           "deaths": 2832,
-          "recovered": 37973
+          "recovered": 37975
         }
       },
       "Quebec": {
@@ -489,10 +489,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 79732,
+      "confirmed": 80499,
       "date": "2020-08-10",
-      "deaths": 1309,
-      "recovered": 43744
+      "deaths": 1328,
+      "recovered": 44910
     }
   },
   "Ecuador": {
@@ -539,10 +539,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 37791,
+          "confirmed": 37899,
           "date": "2020-08-10",
           "deaths": 1858,
-          "recovered": 34889
+          "recovered": 34968
         }
       },
       "Bayern": {
@@ -997,9 +997,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 27660,
+      "confirmed": 27841,
       "date": "2020-08-10",
-      "deaths": 845,
+      "deaths": 850,
       "recovered": 19300
     }
   },
@@ -1296,7 +1296,7 @@
       "confirmed": 55292,
       "date": "2020-08-10",
       "deaths": 27,
-      "recovered": 48915
+      "recovered": 49609
     }
   },
   "South Africa": {
@@ -1415,9 +1415,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 13109,
+          "confirmed": 13258,
           "date": "2020-08-10",
-          "deaths": 243,
+          "deaths": 244,
           "recovered": 0
         }
       },
@@ -1651,15 +1651,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 268312,
+          "confirmed": 269011,
           "date": "2020-08-10",
-          "deaths": 41948,
+          "deaths": 41900,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 18998,
+          "confirmed": 19027,
           "date": "2020-08-10",
           "deaths": 2491,
           "recovered": 0
@@ -1667,7 +1667,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17451,
+          "confirmed": 17463,
           "date": "2020-08-10",
           "deaths": 1579,
           "recovered": 0
