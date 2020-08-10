@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 73401,
+      "confirmed": 74152,
       "date": "2020-08-10",
-      "deaths": 9870,
-      "recovered": 17766
+      "deaths": 9872,
+      "recovered": 17780
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 89055,
+      "confirmed": 89999,
       "date": "2020-08-10",
-      "deaths": 3587,
-      "recovered": 28904
+      "deaths": 3640,
+      "recovered": 29808
     }
   },
   "Bosnia and Herzegovina": {
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 41957,
+          "confirmed": 41962,
           "date": "2020-08-10",
           "deaths": 2832,
           "recovered": 37971
@@ -1431,7 +1431,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 410749,
+          "confirmed": 410784,
           "date": "2020-08-10",
           "deaths": 8191,
           "recovered": 0
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 305091,
+          "confirmed": 305208,
           "date": "2020-08-10",
-          "deaths": 5606,
+          "deaths": 5623,
           "recovered": 0
         }
       },
