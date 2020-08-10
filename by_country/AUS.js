@@ -15343,6 +15343,7 @@ var covid19_dataset_country_aus = {
             759,
             776,
             785,
+            0,
             0
           ],
           "10-19": [
@@ -15546,6 +15547,7 @@ var covid19_dataset_country_aus = {
             215,
             215,
             215,
+            0,
             0
           ]
         }
@@ -15759,6 +15761,7 @@ var covid19_dataset_country_aus = {
             126,
             126,
             126,
+            0,
             0
           ],
           "Locally acquired - contact of a confirmed case": [
@@ -15962,6 +15965,7 @@ var covid19_dataset_country_aus = {
             710,
             714,
             716,
+            0,
             0
           ],
           "Overseas acquired": [
@@ -16165,6 +16169,7 @@ var covid19_dataset_country_aus = {
             33,
             33,
             33,
+            0,
             0
           ],
           "Under investigation": [
@@ -16368,6 +16373,7 @@ var covid19_dataset_country_aus = {
             105,
             118,
             125,
+            0,
             0
           ]
         }
@@ -16778,6 +16784,7 @@ var covid19_dataset_country_aus = {
           4,
           4,
           4,
+          4,
           4
         ],
         "current_icu": [
@@ -16947,6 +16954,7 @@ var covid19_dataset_country_aus = {
           6,
           3,
           3,
+          5,
           5,
           5,
           5,
@@ -17389,7 +17397,7 @@ var covid19_dataset_country_aus = {
           1992,
           1992,
           1992,
-          6642
+          1992
         ],
         "tested": [
           0,
@@ -17592,7 +17600,8 @@ var covid19_dataset_country_aus = {
           1746900,
           1771900,
           1759900,
-          1801300
+          1801300,
+          1820598
         ]
       }
     },
@@ -19988,7 +19997,7 @@ var covid19_dataset_country_aus = {
       4492,
       4494,
       4496,
-      9146
+      4496
     ],
     "tested": [
       0,
@@ -20192,7 +20201,7 @@ var covid19_dataset_country_aus = {
       4643050,
       4674336,
       4759292,
-      4787761
+      4807059
     ]
   }
 };

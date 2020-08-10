@@ -217,7 +217,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 5,
           "deaths": 210,
           "recovered": 1992,
-          "tested": 1759900
+          "tested": 1801300
         },
         "WA": {
           "confirmed": 659,
@@ -2951,17 +2951,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 17050,
         "deaths": 459,
-        "recovered": 8495
+        "recovered": 8634
       },
       "back_2week": {
         "confirmed": 14221,
         "deaths": 390,
-        "recovered": 7549
+        "recovered": 7648
       },
       "latest": {
         "confirmed": 19978,
         "deaths": 536,
-        "recovered": 9515
+        "recovered": 9626
       }
     },
     "SMR": {

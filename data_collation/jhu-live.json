@@ -516,7 +516,7 @@
       "confirmed": 20423,
       "date": "2020-08-10",
       "deaths": 549,
-      "recovered": 9626
+      "recovered": 9652
     }
   },
   "Ethiopia": {
@@ -831,7 +831,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 15877,
+          "confirmed": 16074,
           "date": "2020-08-10",
           "deaths": 333,
           "recovered": 11778
