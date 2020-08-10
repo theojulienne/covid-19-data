@@ -1036,17 +1036,17 @@
       "back_1week": {
         "confirmed": 16800,
         "deaths": 383,
-        "recovered": 11587
+        "recovered": 11605
       },
       "back_2week": {
         "confirmed": 15324,
         "deaths": 369,
-        "recovered": 9590
+        "recovered": 11428
       },
       "latest": {
         "confirmed": 18353,
         "deaths": 389,
-        "recovered": 12764
+        "recovered": 12785
       }
     },
     "DEU": {
@@ -1149,18 +1149,18 @@
     "DZA": {
       "back_1week": {
         "confirmed": 31465,
-        "deaths": 1223,
-        "recovered": 20988
+        "deaths": 1231,
+        "recovered": 21419
       },
       "back_2week": {
         "confirmed": 27357,
-        "deaths": 1146,
-        "recovered": 18076
+        "deaths": 1155,
+        "recovered": 18088
       },
       "latest": {
         "confirmed": 35160,
-        "deaths": 1293,
-        "recovered": 24083
+        "deaths": 1302,
+        "recovered": 24506
       }
     },
     "ECU": {
