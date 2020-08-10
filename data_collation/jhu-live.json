@@ -114,7 +114,7 @@
           "confirmed": 21587,
           "date": "2020-08-10",
           "deaths": 561,
-          "recovered": 14924
+          "recovered": 14932
         }
       },
       "Alagoas": {
@@ -154,7 +154,7 @@
           "confirmed": 188542,
           "date": "2020-08-10",
           "deaths": 7954,
-          "recovered": 159610
+          "recovered": 159931
         }
       },
       "Distrito Federal": {
@@ -162,7 +162,7 @@
           "confirmed": 123057,
           "date": "2020-08-10",
           "deaths": 1731,
-          "recovered": 103859
+          "recovered": 105424
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 85071,
           "date": "2020-08-10",
           "deaths": 2020,
-          "recovered": 76337
+          "recovered": 76339
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 130136,
           "date": "2020-08-10",
           "deaths": 3169,
-          "recovered": 118605
+          "recovered": 119004
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 63416,
           "date": "2020-08-10",
           "deaths": 2090,
-          "recovered": 40938
+          "recovered": 41172
         }
       },
       "Mato Grosso do Sul": {
@@ -202,7 +202,7 @@
           "confirmed": 31344,
           "date": "2020-08-10",
           "deaths": 509,
-          "recovered": 22020
+          "recovered": 25195
         }
       },
       "Minas Gerais": {
@@ -218,7 +218,7 @@
           "confirmed": 167642,
           "date": "2020-08-10",
           "deaths": 5885,
-          "recovered": 152206
+          "recovered": 152963
         }
       },
       "Paraiba": {
@@ -250,7 +250,7 @@
           "confirmed": 59982,
           "date": "2020-08-10",
           "deaths": 1480,
-          "recovered": 57795
+          "recovered": 58002
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 44010,
           "date": "2020-08-10",
           "deaths": 943,
-          "recovered": 36355
+          "recovered": 36452
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 64693,
           "date": "2020-08-10",
           "deaths": 1589,
-          "recovered": 45706
+          "recovered": 46644
         }
       },
       "Tocantins": {
@@ -415,42 +415,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 48342,
+          "confirmed": 49947,
           "date": "2020-08-10",
-          "deaths": 834,
-          "recovered": 19654
+          "deaths": 878,
+          "recovered": 22017
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 57525,
+          "confirmed": 58184,
           "date": "2020-08-10",
-          "deaths": 2669,
-          "recovered": 44207
+          "deaths": 2680,
+          "recovered": 44999
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 20072,
+          "confirmed": 20276,
           "date": "2020-08-10",
-          "deaths": 619,
-          "recovered": 15666
+          "deaths": 623,
+          "recovered": 15992
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 129975,
+          "confirmed": 133423,
           "date": "2020-08-10",
-          "deaths": 3578,
-          "recovered": 61188
+          "deaths": 3668,
+          "recovered": 62758
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 30858,
+          "confirmed": 31641,
           "date": "2020-08-10",
-          "deaths": 1199,
-          "recovered": 18081
+          "deaths": 1226,
+          "recovered": 18685
         }
       }
     }
@@ -589,10 +589,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 46973,
+      "confirmed": 47454,
       "date": "2020-08-10",
-      "deaths": 1476,
-      "recovered": 6428
+      "deaths": 1495,
+      "recovered": 6597
     }
   },
   "India": {
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 98701,
+      "confirmed": 99442,
       "date": "2020-08-10",
       "deaths": 1058,
-      "recovered": 72273
+      "recovered": 72523
     }
   },
   "Kenya": {
