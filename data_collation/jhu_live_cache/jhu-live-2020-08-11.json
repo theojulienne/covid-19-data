@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 253868,
       "date": "2020-08-11",
-      "deaths": 4764,
-      "recovered": 174974
+      "deaths": 4785,
+      "recovered": 181389
     }
   },
   "Armenia": {
@@ -553,14 +553,6 @@
           "recovered": 48100
         }
       },
-      "Hessen": {
-        "live": {
-          "confirmed": 12815,
-          "date": "2020-08-11",
-          "deaths": 525,
-          "recovered": 11400
-        }
-      },
       "Niedersachsen": {
         "live": {
           "confirmed": 15056,
@@ -1005,9 +997,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 27841,
+      "confirmed": 28223,
       "date": "2020-08-11",
-      "deaths": 850,
+      "deaths": 857,
       "recovered": 19300
     }
   },
@@ -1185,10 +1177,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 52825,
+      "confirmed": 52945,
       "date": "2020-08-11",
-      "deaths": 1759,
-      "recovered": 38600
+      "deaths": 1761,
+      "recovered": 38760
     }
   },
   "Qatar": {
@@ -1439,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 430881,
+          "confirmed": 418017,
           "date": "2020-08-11",
-          "deaths": 8456,
+          "deaths": 8233,
           "recovered": 0
         }
       },
@@ -1450,6 +1442,14 @@
           "confirmed": 31259,
           "date": "2020-08-11",
           "deaths": 2515,
+          "recovered": 0
+        }
+      },
+      "District of Columbia": {
+        "live": {
+          "confirmed": 12896,
+          "date": "2020-08-11",
+          "deaths": 593,
           "recovered": 0
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 55721,
+          "confirmed": 68834,
           "date": "2020-08-11",
-          "deaths": 2121,
+          "deaths": 2561,
           "recovered": 0
         }
       },
