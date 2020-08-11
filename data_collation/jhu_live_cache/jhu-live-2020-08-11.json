@@ -589,10 +589,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 47454,
+      "confirmed": 47872,
       "date": "2020-08-11",
-      "deaths": 1495,
-      "recovered": 6597
+      "deaths": 1506,
+      "recovered": 6649
     }
   },
   "India": {
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 99442,
+      "confirmed": 100164,
       "date": "2020-08-11",
       "deaths": 1058,
-      "recovered": 72523
+      "recovered": 73702
     }
   },
   "Kenya": {
@@ -1431,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 428566,
+          "confirmed": 430881,
           "date": "2020-08-11",
-          "deaths": 8437,
+          "deaths": 8458,
           "recovered": 0
         }
       },
