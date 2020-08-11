@@ -138,7 +138,7 @@
           "confirmed": 107197,
           "date": "2020-08-11",
           "deaths": 3384,
-          "recovered": 90602
+          "recovered": 90814
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 126069,
           "date": "2020-08-11",
           "deaths": 1762,
-          "recovered": 105414
+          "recovered": 106423
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 86451,
           "date": "2020-08-11",
           "deaths": 2023,
-          "recovered": 78929
+          "recovered": 79254
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 130566,
           "date": "2020-08-11",
           "deaths": 3187,
-          "recovered": 119004
+          "recovered": 120367
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 65198,
           "date": "2020-08-11",
           "deaths": 2122,
-          "recovered": 41172
+          "recovered": 43129
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 60178,
           "date": "2020-08-11",
           "deaths": 1503,
-          "recovered": 58002
+          "recovered": 58937
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 44372,
           "date": "2020-08-11",
           "deaths": 944,
-          "recovered": 36452
+          "recovered": 36680
         }
       },
       "Roraima": {
@@ -290,7 +290,7 @@
           "confirmed": 36449,
           "date": "2020-08-11",
           "deaths": 547,
-          "recovered": 9112
+          "recovered": 9113
         }
       },
       "Santa Catarina": {
@@ -337,9 +337,9 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18042,
+      "confirmed": 18213,
       "date": "2020-08-11",
-      "deaths": 395,
+      "deaths": 398,
       "recovered": 15320
     }
   },
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42159,
+          "confirmed": 42162,
           "date": "2020-08-11",
           "deaths": 2832,
           "recovered": 38175
@@ -1431,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 418017,
+          "confirmed": 445735,
           "date": "2020-08-11",
-          "deaths": 8233,
+          "deaths": 8688,
           "recovered": 0
         }
       },
@@ -1442,14 +1442,6 @@
           "confirmed": 31321,
           "date": "2020-08-11",
           "deaths": 2515,
-          "recovered": 0
-        }
-      },
-      "District of Columbia": {
-        "live": {
-          "confirmed": 12896,
-          "date": "2020-08-11",
-          "deaths": 593,
           "recovered": 0
         }
       },
@@ -1495,9 +1487,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 68834,
+          "confirmed": 55941,
           "date": "2020-08-11",
-          "deaths": 2561,
+          "deaths": 2130,
           "recovered": 0
         }
       },
@@ -1599,7 +1591,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 309612,
+          "confirmed": 310554,
           "date": "2020-08-11",
           "deaths": 5771,
           "recovered": 0
