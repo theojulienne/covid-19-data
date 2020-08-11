@@ -38,7 +38,7 @@
           "confirmed": 15251,
           "date": "2020-08-11",
           "deaths": 246,
-          "recovered": 6642
+          "recovered": 6889
         }
       }
     }
@@ -873,10 +873,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 40085,
+      "confirmed": 40455,
       "date": "2020-08-11",
-      "deaths": 1474,
-      "recovered": 32126
+      "deaths": 1478,
+      "recovered": 32734
     }
   },
   "Madagascar": {
@@ -1051,34 +1051,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15261,
+          "confirmed": 15281,
           "date": "2020-08-11",
           "deaths": 171,
-          "recovered": 12969
+          "recovered": 12995
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 34692,
+          "confirmed": 34755,
           "date": "2020-08-11",
           "deaths": 1231,
-          "recovered": 31612
+          "recovered": 31691
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 94477,
+          "confirmed": 94586,
           "date": "2020-08-11",
-          "deaths": 2170,
-          "recovered": 86273
+          "deaths": 2174,
+          "recovered": 86289
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 123849,
+          "confirmed": 124127,
           "date": "2020-08-11",
-          "deaths": 2272,
-          "recovered": 115741
+          "deaths": 2282,
+          "recovered": 115984
         }
       }
     }
@@ -1433,7 +1433,7 @@
         "live": {
           "confirmed": 430881,
           "date": "2020-08-11",
-          "deaths": 8458,
+          "deaths": 8456,
           "recovered": 0
         }
       },
