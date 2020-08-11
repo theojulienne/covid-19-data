@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 15288,
+          "confirmed": 15251,
           "date": "2020-08-11",
-          "deaths": 247,
+          "deaths": 246,
           "recovered": 6642
         }
       }
@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 74152,
+      "confirmed": 74620,
       "date": "2020-08-11",
-      "deaths": 9872,
-      "recovered": 17780
+      "deaths": 9879,
+      "recovered": 17792
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 89999,
+      "confirmed": 91635,
       "date": "2020-08-11",
-      "deaths": 3640,
-      "recovered": 29808
+      "deaths": 3712,
+      "recovered": 30823
     }
   },
   "Bosnia and Herzegovina": {
@@ -1685,10 +1685,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 25805,
+      "confirmed": 26800,
       "date": "2020-08-11",
-      "deaths": 223,
-      "recovered": 13356
+      "deaths": 229,
+      "recovered": 16930
     }
   },
   "West Bank and Gaza": {
