@@ -2660,19 +2660,19 @@
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 66383,
-        "deaths": 1449,
-        "recovered": 40081
+        "confirmed": 67453,
+        "deaths": 1471,
+        "recovered": 41038
       },
       "back_2week": {
-        "confirmed": 58864,
-        "deaths": 1275,
-        "recovered": 33428
+        "confirmed": 60296,
+        "deaths": 1294,
+        "recovered": 34131
       },
       "latest": {
-        "confirmed": 73651,
-        "deaths": 1609,
-        "recovered": 47484
+        "confirmed": 74492,
+        "deaths": 1639,
+        "recovered": 48748
       }
     },
     "PER": {
