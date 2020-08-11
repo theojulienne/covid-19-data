@@ -53,17 +53,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 33647,
+      "confirmed": 33731,
       "date": "2020-08-11",
-      "deaths": 492,
-      "recovered": 30642
+      "deaths": 495,
+      "recovered": 30856
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 44397,
       "date": "2020-08-11",
-      "deaths": 163,
+      "deaths": 165,
       "recovered": 41209
     }
   },
@@ -574,7 +574,7 @@
           "confirmed": 52175,
           "date": "2020-08-11",
           "deaths": 1763,
-          "recovered": 46200
+          "recovered": 46400
         }
       }
     }
@@ -857,10 +857,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 26928,
+      "confirmed": 27425,
       "date": "2020-08-11",
-      "deaths": 423,
-      "recovered": 13495
+      "deaths": 438,
+      "recovered": 13867
     }
   },
   "Korea, South": {
@@ -1285,17 +1285,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 289947,
+      "confirmed": 291468,
       "date": "2020-08-11",
-      "deaths": 3199,
-      "recovered": 253478
+      "deaths": 3233,
+      "recovered": 255118
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 28262,
+      "confirmed": 28497,
       "date": "2020-08-11",
-      "deaths": 646,
+      "deaths": 652,
       "recovered": 0
     }
   },
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 308464,
+          "confirmed": 309004,
           "date": "2020-08-11",
-          "deaths": 5677,
+          "deaths": 5684,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16445,
+          "confirmed": 16544,
           "date": "2020-08-11",
           "deaths": 529,
           "recovered": 0
@@ -1693,10 +1693,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 14510,
+      "confirmed": 14875,
       "date": "2020-08-11",
-      "deaths": 102,
-      "recovered": 8045
+      "deaths": 103,
+      "recovered": 8181
     }
   }
 }
