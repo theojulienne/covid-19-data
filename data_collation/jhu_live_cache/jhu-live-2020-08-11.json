@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42125,
+          "confirmed": 42148,
           "date": "2020-08-11",
           "deaths": 2832,
-          "recovered": 38150
+          "recovered": 38171
         }
       },
       "Quebec": {
@@ -497,10 +497,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 94701,
+      "confirmed": 95563,
       "date": "2020-08-11",
-      "deaths": 5932,
-      "recovered": 78608
+      "deaths": 5951,
+      "recovered": 78610
     }
   },
   "Egypt": {
@@ -785,10 +785,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 85354,
+      "confirmed": 86147,
       "date": "2020-08-11",
-      "deaths": 619,
-      "recovered": 60019
+      "deaths": 622,
+      "recovered": 60055
     }
   },
   "Italy": {
@@ -1005,10 +1005,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 34063,
+      "confirmed": 35195,
       "date": "2020-08-11",
-      "deaths": 516,
-      "recovered": 24524
+      "deaths": 533,
+      "recovered": 25385
     }
   },
   "Nepal": {
@@ -1423,7 +1423,7 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 144367,
+          "confirmed": 145172,
           "date": "2020-08-11",
           "deaths": 2883,
           "recovered": 0
@@ -1567,17 +1567,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 32123,
+          "confirmed": 32431,
           "date": "2020-08-11",
-          "deaths": 1025,
+          "deaths": 1034,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 31448,
+          "confirmed": 31584,
           "date": "2020-08-11",
-          "deaths": 1699,
+          "deaths": 1700,
           "recovered": 0
         }
       },
