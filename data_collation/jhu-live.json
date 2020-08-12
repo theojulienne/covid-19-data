@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 44804,
       "date": "2020-08-12",
-      "deaths": 165,
+      "deaths": 166,
       "recovered": 41504
     }
   },
@@ -1005,10 +1005,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 35195,
+      "confirmed": 36694,
       "date": "2020-08-12",
-      "deaths": 533,
-      "recovered": 25385
+      "deaths": 556,
+      "recovered": 25677
     }
   },
   "Nepal": {
@@ -1527,9 +1527,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 49646,
+          "confirmed": 50081,
           "date": "2020-08-12",
-          "deaths": 828,
+          "deaths": 842,
           "recovered": 0
         }
       },
@@ -1559,17 +1559,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 32431,
+          "confirmed": 32834,
           "date": "2020-08-12",
-          "deaths": 1034,
+          "deaths": 1043,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 31584,
+          "confirmed": 31725,
           "date": "2020-08-12",
-          "deaths": 1700,
+          "deaths": 1709,
           "recovered": 0
         }
       },
