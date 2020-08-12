@@ -415,42 +415,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 52417,
+          "confirmed": 54165,
           "date": "2020-08-12",
-          "deaths": 903,
-          "recovered": 23671
+          "deaths": 937,
+          "recovered": 24659
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 58634,
+          "confirmed": 59101,
           "date": "2020-08-12",
-          "deaths": 2699,
-          "recovered": 45918
+          "deaths": 2715,
+          "recovered": 46617
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 20456,
+          "confirmed": 20705,
           "date": "2020-08-12",
           "deaths": 630,
-          "recovered": 16264
+          "recovered": 16428
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 136764,
+          "confirmed": 141994,
           "date": "2020-08-12",
-          "deaths": 3778,
-          "recovered": 65361
+          "deaths": 3883,
+          "recovered": 70225
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 31951,
+          "confirmed": 32759,
           "date": "2020-08-12",
-          "deaths": 1242,
-          "recovered": 19450
+          "deaths": 1268,
+          "recovered": 19833
         }
       }
     }
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 100164,
+      "confirmed": 100855,
       "date": "2020-08-12",
       "deaths": 1269,
-      "recovered": 73702
+      "recovered": 74677
     }
   },
   "Kenya": {
@@ -1433,7 +1433,7 @@
         "live": {
           "confirmed": 445735,
           "date": "2020-08-12",
-          "deaths": 8688,
+          "deaths": 8684,
           "recovered": 0
         }
       },
