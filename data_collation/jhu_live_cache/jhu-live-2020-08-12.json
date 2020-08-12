@@ -457,10 +457,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 24508,
+      "confirmed": 25057,
       "date": "2020-08-12",
-      "deaths": 255,
-      "recovered": 7971
+      "deaths": 263,
+      "recovered": 8189
     }
   },
   "Cote d'Ivoire": {
@@ -529,10 +529,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 231019,
+      "confirmed": 230924,
       "date": "2020-08-12",
-      "deaths": 30248,
-      "recovered": 72090
+      "deaths": 30247,
+      "recovered": 72009
     }
   },
   "Germany": {
@@ -1301,10 +1301,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 566109,
+      "confirmed": 568919,
       "date": "2020-08-12",
-      "deaths": 10751,
-      "recovered": 426125
+      "deaths": 11010,
+      "recovered": 432029
     }
   },
   "Spain": {
@@ -1423,7 +1423,7 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 145172,
+          "confirmed": 145696,
           "date": "2020-08-12",
           "deaths": 2998,
           "recovered": 0
@@ -1439,9 +1439,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 31321,
+          "confirmed": 31342,
           "date": "2020-08-12",
-          "deaths": 2515,
+          "deaths": 2519,
           "recovered": 0
         }
       },
@@ -1503,9 +1503,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 44174,
+          "confirmed": 44267,
           "date": "2020-08-12",
-          "deaths": 3959,
+          "deaths": 3961,
           "recovered": 0
         }
       },
