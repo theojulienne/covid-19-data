@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 61163,
+        "confirmed": 61352,
         "deaths": 351,
-        "recovered": 54863
+        "recovered": 55090
       },
       "back_2week": {
-        "confirmed": 59177,
+        "confirmed": 59546,
         "deaths": 345,
-        "recovered": 52510
+        "recovered": 52905
       },
       "latest": {
-        "confirmed": 62704,
+        "confirmed": 62966,
         "deaths": 357,
-        "recovered": 56766
+        "recovered": 56961
       }
     },
     "ARG": {
@@ -646,18 +646,18 @@ var covid19_dataset_latest_totals = {
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 35616,
+        "confirmed": 35746,
         "deaths": 1981,
         "recovered": 31600
       },
       "back_2week": {
-        "confirmed": 34477,
+        "confirmed": 34609,
         "deaths": 1978,
         "recovered": 31000
       },
       "latest": {
-        "confirmed": 36708,
-        "deaths": 1987,
+        "confirmed": 36895,
+        "deaths": 1990,
         "recovered": 32400
       }
     },
@@ -760,11 +760,6 @@ var covid19_dataset_latest_totals = {
           "deaths": 55,
           "recovered": 2917
         },
-        "Hong Kong SAR": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
         "Hubei": {
           "confirmed": 68139,
           "deaths": 4512,
@@ -804,11 +799,6 @@ var covid19_dataset_latest_totals = {
           "confirmed": 46,
           "deaths": 0,
           "recovered": 46
-        },
-        "Macau SAR": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
         },
         "Ningxia": {
           "confirmed": 75,
@@ -2567,70 +2557,10 @@ var covid19_dataset_latest_totals = {
           "deaths": 1,
           "recovered": 30
         },
-        "Drenthe": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Flevoland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Friesland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Gelderland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Groningen": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Limburg": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Noord-Brabant": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Noord-Holland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Overijssel": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
         "Sint Maarten": {
           "confirmed": 189,
           "deaths": 17,
           "recovered": 86
-        },
-        "Utrecht": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Zeeland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
-        },
-        "Zuid-Holland": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
         }
       }
     },
@@ -2653,19 +2583,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 20750,
-        "deaths": 57,
-        "recovered": 14961
+        "confirmed": 21009,
+        "deaths": 58,
+        "recovered": 15026
       },
       "back_2week": {
-        "confirmed": 18752,
-        "deaths": 48,
-        "recovered": 13754
+        "confirmed": 19063,
+        "deaths": 49,
+        "recovered": 13875
       },
       "latest": {
-        "confirmed": 23310,
-        "deaths": 79,
-        "recovered": 16493
+        "confirmed": 23948,
+        "deaths": 83,
+        "recovered": 16664
       }
     },
     "NZL": {
