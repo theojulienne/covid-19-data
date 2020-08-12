@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 22245,
+      "confirmed": 22439,
       "date": "2020-08-12",
-      "deaths": 723,
-      "recovered": 20123
+      "deaths": 724,
+      "recovered": 20268
     }
   },
   "Azerbaijan": {
@@ -1169,10 +1169,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 52961,
+      "confirmed": 53676,
       "date": "2020-08-12",
-      "deaths": 1821,
-      "recovered": 37150
+      "deaths": 1830,
+      "recovered": 37611
     }
   },
   "Portugal": {
