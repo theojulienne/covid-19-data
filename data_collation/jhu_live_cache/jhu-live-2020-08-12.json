@@ -38,7 +38,7 @@
           "confirmed": 15646,
           "date": "2020-08-12",
           "deaths": 267,
-          "recovered": 6889
+          "recovered": 7271
         }
       }
     }
@@ -547,25 +547,25 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 52069,
+          "confirmed": 52182,
           "date": "2020-08-12",
           "deaths": 2627,
-          "recovered": 48100
+          "recovered": 48200
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 15056,
+          "confirmed": 15122,
           "date": "2020-08-12",
-          "deaths": 654,
+          "deaths": 655,
           "recovered": 13700
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 52175,
+          "confirmed": 52588,
           "date": "2020-08-12",
-          "deaths": 1763,
+          "deaths": 1765,
           "recovered": 46400
         }
       }
@@ -873,10 +873,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 40455,
+      "confirmed": 40759,
       "date": "2020-08-12",
-      "deaths": 1478,
-      "recovered": 32734
+      "deaths": 1484,
+      "recovered": 32997
     }
   },
   "Madagascar": {
@@ -1051,34 +1051,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15281,
+          "confirmed": 15296,
           "date": "2020-08-12",
-          "deaths": 171,
-          "recovered": 12995
+          "deaths": 172,
+          "recovered": 13020
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 34755,
+          "confirmed": 34859,
           "date": "2020-08-12",
-          "deaths": 1231,
-          "recovered": 31691
+          "deaths": 1235,
+          "recovered": 31839
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 94586,
+          "confirmed": 94715,
           "date": "2020-08-12",
-          "deaths": 2174,
-          "recovered": 86289
+          "deaths": 2177,
+          "recovered": 86341
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 124127,
+          "confirmed": 124556,
           "date": "2020-08-12",
-          "deaths": 2282,
-          "recovered": 115984
+          "deaths": 2290,
+          "recovered": 117637
         }
       }
     }
@@ -1095,65 +1095,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 14068,
+          "confirmed": 14230,
           "date": "2020-08-12",
-          "deaths": 889,
+          "deaths": 894,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 19883,
+          "confirmed": 20276,
           "date": "2020-08-12",
-          "deaths": 912,
+          "deaths": 928,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 23090,
+          "confirmed": 23272,
           "date": "2020-08-12",
-          "deaths": 1103,
+          "deaths": 1105,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 14906,
+          "confirmed": 15246,
           "date": "2020-08-12",
-          "deaths": 989,
+          "deaths": 1000,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 17669,
+          "confirmed": 17892,
           "date": "2020-08-12",
-          "deaths": 1432,
+          "deaths": 1447,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 18875,
+          "confirmed": 18984,
           "date": "2020-08-12",
-          "deaths": 1263,
+          "deaths": 1268,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 244520,
+          "confirmed": 247124,
           "date": "2020-08-12",
-          "deaths": 9993,
+          "deaths": 10099,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 22736,
+          "confirmed": 22948,
           "date": "2020-08-12",
-          "deaths": 1320,
+          "deaths": 1327,
           "recovered": 0
         }
       }
