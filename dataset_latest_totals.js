@@ -1148,19 +1148,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 31972,
-        "deaths": 1239,
-        "recovered": 21901
+        "confirmed": 32504,
+        "deaths": 1248,
+        "recovered": 22375
       },
       "back_2week": {
-        "confirmed": 27973,
-        "deaths": 1163,
-        "recovered": 18837
+        "confirmed": 28615,
+        "deaths": 1174,
+        "recovered": 19233
       },
       "latest": {
-        "confirmed": 35712,
-        "deaths": 1312,
-        "recovered": 24920
+        "confirmed": 36204,
+        "deaths": 1322,
+        "recovered": 25263
       }
     },
     "ECU": {
@@ -1267,19 +1267,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 19289,
-        "deaths": 336,
-        "recovered": 7931
+        "confirmed": 19877,
+        "deaths": 343,
+        "recovered": 8240
       },
       "back_2week": {
-        "confirmed": 14547,
-        "deaths": 228,
-        "recovered": 6386
+        "confirmed": 15200,
+        "deaths": 239,
+        "recovered": 6526
       },
       "latest": {
-        "confirmed": 23591,
-        "deaths": 420,
-        "recovered": 10411
+        "confirmed": 24175,
+        "deaths": 440,
+        "recovered": 10696
       }
     },
     "FIN": {
@@ -1915,19 +1915,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 22597,
-        "deaths": 382,
-        "recovered": 8740
+        "confirmed": 23202,
+        "deaths": 388,
+        "recovered": 9327
       },
       "back_2week": {
-        "confirmed": 17975,
-        "deaths": 285,
-        "recovered": 7833
+        "confirmed": 18581,
+        "deaths": 299,
+        "recovered": 7908
       },
       "latest": {
-        "confirmed": 26928,
-        "deaths": 423,
-        "recovered": 13495
+        "confirmed": 27425,
+        "deaths": 438,
+        "recovered": 13867
       }
     },
     "KGZ": {

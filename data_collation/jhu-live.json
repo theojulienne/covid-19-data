@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 36204,
+      "confirmed": 36699,
       "date": "2020-08-12",
-      "deaths": 1322,
-      "recovered": 25263
+      "deaths": 1333,
+      "recovered": 25627
     }
   },
   "Argentina": {
@@ -521,10 +521,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 24175,
+      "confirmed": 25118,
       "date": "2020-08-12",
-      "deaths": 440,
-      "recovered": 10696
+      "deaths": 463,
+      "recovered": 11034
     }
   },
   "France": {
@@ -785,10 +785,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 87173,
+      "confirmed": 87878,
       "date": "2020-08-12",
-      "deaths": 633,
-      "recovered": 61577
+      "deaths": 639,
+      "recovered": 61625
     }
   },
   "Italy": {
@@ -849,10 +849,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 27425,
+      "confirmed": 28104,
       "date": "2020-08-12",
-      "deaths": 438,
-      "recovered": 13867
+      "deaths": 456,
+      "recovered": 14610
     }
   },
   "Korea, South": {
@@ -1311,7 +1311,7 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 17758,
+          "confirmed": 18059,
           "date": "2020-08-12",
           "deaths": 1443,
           "recovered": 10671
@@ -1319,7 +1319,7 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 18849,
+          "confirmed": 19418,
           "date": "2020-08-12",
           "deaths": 991,
           "recovered": 3772
@@ -1327,31 +1327,31 @@
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 15663,
+          "confirmed": 15934,
           "date": "2020-08-12",
-          "deaths": 1439,
+          "deaths": 1442,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 19445,
+          "confirmed": 19582,
           "date": "2020-08-12",
-          "deaths": 3035,
+          "deaths": 3037,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 21994,
+          "confirmed": 22169,
           "date": "2020-08-12",
-          "deaths": 2802,
+          "deaths": 2804,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 89015,
+          "confirmed": 89909,
           "date": "2020-08-12",
           "deaths": 5706,
           "recovered": 26203
@@ -1367,9 +1367,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 19110,
+          "confirmed": 19009,
           "date": "2020-08-12",
-          "deaths": 1565,
+          "deaths": 1553,
           "recovered": 16160
         }
       }
@@ -1425,7 +1425,7 @@
         "live": {
           "confirmed": 145172,
           "date": "2020-08-12",
-          "deaths": 2883,
+          "deaths": 2998,
           "recovered": 0
         }
       },
@@ -1463,9 +1463,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 112484,
+          "confirmed": 113044,
           "date": "2020-08-12",
-          "deaths": 4933,
+          "deaths": 4934,
           "recovered": 0
         }
       },
@@ -1479,7 +1479,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 15452,
+          "confirmed": 15509,
           "date": "2020-08-12",
           "deaths": 529,
           "recovered": 0
@@ -1513,7 +1513,7 @@
         "live": {
           "confirmed": 19677,
           "date": "2020-08-12",
-          "deaths": 839,
+          "deaths": 840,
           "recovered": 0
         }
       },
@@ -1535,9 +1535,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 112770,
+          "confirmed": 112977,
           "date": "2020-08-12",
-          "deaths": 9655,
+          "deaths": 9650,
           "recovered": 0
         }
       },
@@ -1545,7 +1545,7 @@
         "live": {
           "confirmed": 366728,
           "date": "2020-08-12",
-          "deaths": 29906,
+          "deaths": 29916,
           "recovered": 0
         }
       },
@@ -1575,7 +1575,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 15047,
+          "confirmed": 15644,
           "date": "2020-08-12",
           "deaths": 0,
           "recovered": 0
