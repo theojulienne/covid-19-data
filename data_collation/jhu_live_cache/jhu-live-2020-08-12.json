@@ -347,18 +347,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42162,
+          "confirmed": 42186,
           "date": "2020-08-12",
-          "deaths": 2832,
-          "recovered": 38178
+          "deaths": 2833,
+          "recovered": 38270
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 60718,
+          "confirmed": 60813,
           "date": "2020-08-12",
-          "deaths": 5697,
-          "recovered": 53135
+          "deaths": 5709,
+          "recovered": 53270
         }
       }
     }
@@ -367,34 +367,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 16239,
+          "confirmed": 16323,
           "date": "2020-08-12",
-          "deaths": 387,
-          "recovered": 14674
+          "deaths": 388,
+          "recovered": 14811
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 13174,
+          "confirmed": 13260,
           "date": "2020-08-12",
-          "deaths": 143,
-          "recovered": 11503
+          "deaths": 145,
+          "recovered": 11644
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 263095,
+          "confirmed": 263567,
           "date": "2020-08-12",
-          "deaths": 7972,
-          "recovered": 249276
+          "deaths": 7992,
+          "recovered": 249956
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 19371,
+          "confirmed": 19518,
           "date": "2020-08-12",
-          "deaths": 569,
-          "recovered": 17424
+          "deaths": 573,
+          "recovered": 17562
         }
       }
     }
@@ -473,10 +473,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 18826,
+      "confirmed": 18984,
       "date": "2020-08-12",
       "deaths": 391,
-      "recovered": 13222
+      "recovered": 13407
     }
   },
   "Denmark": {
@@ -489,10 +489,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 81094,
+      "confirmed": 82224,
       "date": "2020-08-12",
-      "deaths": 1346,
-      "recovered": 45666
+      "deaths": 1371,
+      "recovered": 47095
     }
   },
   "Ecuador": {
@@ -529,17 +529,17 @@
   },
   "France": {
     "live": {
-      "confirmed": 228495,
+      "confirmed": 231019,
       "date": "2020-08-12",
-      "deaths": 30231,
-      "recovered": 71855
+      "deaths": 30248,
+      "recovered": 72090
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 37978,
+          "confirmed": 38165,
           "date": "2020-08-12",
           "deaths": 1859,
           "recovered": 35200
@@ -1296,7 +1296,7 @@
       "confirmed": 55395,
       "date": "2020-08-12",
       "deaths": 27,
-      "recovered": 50128
+      "recovered": 50520
     }
   },
   "South Africa": {
@@ -1471,9 +1471,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 16088,
+          "confirmed": 16194,
           "date": "2020-08-12",
-          "deaths": 730,
+          "deaths": 731,
           "recovered": 0
         }
       },
@@ -1511,7 +1511,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 19569,
+          "confirmed": 19677,
           "date": "2020-08-12",
           "deaths": 839,
           "recovered": 0
@@ -1543,7 +1543,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 366186,
+          "confirmed": 366728,
           "date": "2020-08-12",
           "deaths": 29906,
           "recovered": 0
