@@ -154,7 +154,7 @@
           "confirmed": 190550,
           "date": "2020-08-12",
           "deaths": 8011,
-          "recovered": 162744
+          "recovered": 164000
         }
       },
       "Distrito Federal": {
@@ -162,7 +162,7 @@
           "confirmed": 127484,
           "date": "2020-08-12",
           "deaths": 1815,
-          "recovered": 109598
+          "recovered": 108577
         }
       },
       "Espirito Santo": {
@@ -178,7 +178,7 @@
           "confirmed": 90226,
           "date": "2020-08-12",
           "deaths": 2099,
-          "recovered": 82256
+          "recovered": 84248
         }
       },
       "Maranhao": {
@@ -202,7 +202,7 @@
           "confirmed": 32562,
           "date": "2020-08-12",
           "deaths": 544,
-          "recovered": 26764
+          "recovered": 27329
         }
       },
       "Minas Gerais": {
@@ -210,7 +210,7 @@
           "confirmed": 156551,
           "date": "2020-08-12",
           "deaths": 3613,
-          "recovered": 125002
+          "recovered": 128957
         }
       },
       "Para": {
@@ -306,7 +306,7 @@
           "confirmed": 639562,
           "date": "2020-08-12",
           "deaths": 25571,
-          "recovered": 437647
+          "recovered": 453612
         }
       },
       "Sergipe": {
@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 13722,
+      "confirmed": 13893,
       "date": "2020-08-12",
-      "deaths": 471,
-      "recovered": 8154
+      "deaths": 482,
+      "recovered": 8479
     }
   },
   "Cameroon": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42186,
+          "confirmed": 42206,
           "date": "2020-08-12",
           "deaths": 2833,
-          "recovered": 38270
+          "recovered": 38283
         }
       },
       "Quebec": {
@@ -1431,9 +1431,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 438078,
+          "confirmed": 439930,
           "date": "2020-08-12",
-          "deaths": 8581,
+          "deaths": 8602,
           "recovered": 0
         }
       },
@@ -1687,7 +1687,7 @@
     "live": {
       "confirmed": 15184,
       "date": "2020-08-12",
-      "deaths": 104,
+      "deaths": 105,
       "recovered": 8369
     }
   }
