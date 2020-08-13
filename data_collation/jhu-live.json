@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 268574,
       "date": "2020-08-13",
-      "deaths": 5213,
-      "recovered": 187283
+      "deaths": 5246,
+      "recovered": 192434
     }
   },
   "Armenia": {
@@ -1005,9 +1005,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 28697,
+      "confirmed": 29087,
       "date": "2020-08-13",
-      "deaths": 863,
+      "deaths": 878,
       "recovered": 19998
     }
   },
@@ -1304,7 +1304,7 @@
       "confirmed": 55497,
       "date": "2020-08-13",
       "deaths": 27,
-      "recovered": 50520
+      "recovered": 50736
     }
   },
   "South Africa": {
@@ -1495,9 +1495,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 56202,
+          "confirmed": 56646,
           "date": "2020-08-13",
-          "deaths": 2137,
+          "deaths": 2145,
           "recovered": 0
         }
       },
@@ -1599,7 +1599,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 315271,
+          "confirmed": 315518,
           "date": "2020-08-13",
           "deaths": 6036,
           "recovered": 0
