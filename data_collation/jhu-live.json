@@ -481,10 +481,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 15070,
+      "confirmed": 15214,
       "date": "2020-08-13",
       "deaths": 621,
-      "recovered": 13066
+      "recovered": 13131
     }
   },
   "Dominican Republic": {
@@ -573,10 +573,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 41572,
+      "confirmed": 41725,
       "date": "2020-08-13",
       "deaths": 223,
-      "recovered": 39320
+      "recovered": 39495
     }
   },
   "Guatemala": {
@@ -889,10 +889,10 @@
   },
   "Madagascar": {
     "live": {
-      "confirmed": 13397,
+      "confirmed": 13522,
       "date": "2020-08-13",
-      "deaths": 156,
-      "recovered": 11529
+      "deaths": 162,
+      "recovered": 11780
     }
   },
   "Mexico": {
@@ -1031,7 +1031,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 15765,
+          "confirmed": 16012,
           "date": "2020-08-13",
           "deaths": 1314,
           "recovered": 0
@@ -1049,10 +1049,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 82299,
+      "confirmed": 82531,
       "date": "2020-08-13",
-      "deaths": 539,
-      "recovered": 77072
+      "deaths": 551,
+      "recovered": 77278
     }
   },
   "Pakistan": {
@@ -1387,7 +1387,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23848,
+          "confirmed": 23935,
           "date": "2020-08-13",
           "deaths": 2387,
           "recovered": 0
@@ -1395,9 +1395,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19204,
+          "confirmed": 19299,
           "date": "2020-08-13",
-          "deaths": 842,
+          "deaths": 843,
           "recovered": 0
         }
       }
@@ -1693,10 +1693,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 15184,
+      "confirmed": 15491,
       "date": "2020-08-13",
       "deaths": 105,
-      "recovered": 8369
+      "recovered": 9186
     }
   }
 }
