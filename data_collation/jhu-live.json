@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 266498,
+      "confirmed": 269115,
       "date": "2020-08-13",
-      "deaths": 3513,
-      "recovered": 153089
+      "deaths": 3557,
+      "recovered": 154871
     }
   },
   "Belarus": {
@@ -290,7 +290,7 @@
           "confirmed": 37579,
           "date": "2020-08-13",
           "deaths": 555,
-          "recovered": 9125
+          "recovered": 9345
         }
       },
       "Santa Catarina": {
@@ -513,10 +513,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 21644,
+      "confirmed": 21993,
       "date": "2020-08-13",
       "deaths": 584,
-      "recovered": 10081
+      "recovered": 10254
     }
   },
   "Ethiopia": {
@@ -839,7 +839,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 16484,
+          "confirmed": 16690,
           "date": "2020-08-13",
           "deaths": 336,
           "recovered": 12220
@@ -1201,10 +1201,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 65177,
+      "confirmed": 66631,
       "date": "2020-08-13",
-      "deaths": 2807,
-      "recovered": 31048
+      "deaths": 2860,
+      "recovered": 31547
     }
   },
   "Russia": {
