@@ -864,14 +864,14 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 16293,
+        "confirmed": 16349,
         "deaths": 103,
-        "recovered": 11955
+        "recovered": 12191
       },
       "back_2week": {
-        "confirmed": 15713,
-        "deaths": 98,
-        "recovered": 10537
+        "confirmed": 15813,
+        "deaths": 99,
+        "recovered": 10793
       },
       "latest": {
         "confirmed": 16847,
@@ -886,12 +886,12 @@
         "recovered": 15320
       },
       "back_2week": {
-        "confirmed": 17179,
+        "confirmed": 17255,
         "deaths": 391,
         "recovered": 14539
       },
       "latest": {
-        "confirmed": 18213,
+        "confirmed": 18263,
         "deaths": 398,
         "recovered": 15320
       }
@@ -983,19 +983,19 @@
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 19837,
-        "deaths": 181,
-        "recovered": 6590
+        "confirmed": 20417,
+        "deaths": 191,
+        "recovered": 6851
       },
       "back_2week": {
-        "confirmed": 16344,
-        "deaths": 125,
-        "recovered": 3920
+        "confirmed": 16800,
+        "deaths": 133,
+        "recovered": 4050
       },
       "latest": {
-        "confirmed": 24508,
-        "deaths": 255,
-        "recovered": 7971
+        "confirmed": 25057,
+        "deaths": 263,
+        "recovered": 8189
       }
     },
     "CUB": {
@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 32504,
-        "deaths": 1248,
-        "recovered": 22375
+        "confirmed": 33055,
+        "deaths": 1261,
+        "recovered": 22802
       },
       "back_2week": {
-        "confirmed": 28615,
-        "deaths": 1174,
-        "recovered": 19233
+        "confirmed": 29229,
+        "deaths": 1186,
+        "recovered": 19592
       },
       "latest": {
-        "confirmed": 36204,
-        "deaths": 1322,
-        "recovered": 25263
+        "confirmed": 36699,
+        "deaths": 1333,
+        "recovered": 25627
       }
     },
     "ECU": {

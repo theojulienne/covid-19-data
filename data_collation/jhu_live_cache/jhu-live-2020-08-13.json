@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 36699,
+      "confirmed": 37187,
       "date": "2020-08-13",
-      "deaths": 1333,
-      "recovered": 25627
+      "deaths": 1341,
+      "recovered": 26004
     }
   },
   "Argentina": {
@@ -337,7 +337,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18263,
+      "confirmed": 18308,
       "date": "2020-08-13",
       "deaths": 401,
       "recovered": 15320
@@ -457,18 +457,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 25057,
+      "confirmed": 26129,
       "date": "2020-08-13",
-      "deaths": 263,
-      "recovered": 8189
+      "deaths": 272,
+      "recovered": 8412
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 16847,
+      "confirmed": 16889,
       "date": "2020-08-13",
-      "deaths": 105,
-      "recovered": 13321
+      "deaths": 107,
+      "recovered": 13522
     }
   },
   "Czechia": {
@@ -1447,7 +1447,7 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 31342,
+          "confirmed": 31398,
           "date": "2020-08-13",
           "deaths": 2519,
           "recovered": 0
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 33093,
+      "confirmed": 33323,
       "date": "2020-08-13",
-      "deaths": 215,
-      "recovered": 26270
+      "deaths": 216,
+      "recovered": 27213
     }
   },
   "Venezuela": {
