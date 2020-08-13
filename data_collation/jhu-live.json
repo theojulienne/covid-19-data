@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 75008,
+      "confirmed": 75647,
       "date": "2020-08-13",
-      "deaths": 9885,
-      "recovered": 17841
+      "deaths": 9900,
+      "recovered": 17883
     }
   },
   "Bolivia": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42219,
+          "confirmed": 42233,
           "date": "2020-08-13",
           "deaths": 2833,
-          "recovered": 38288
+          "recovered": 38296
         }
       },
       "Quebec": {
@@ -841,10 +841,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 100855,
+      "confirmed": 101372,
       "date": "2020-08-13",
       "deaths": 1269,
-      "recovered": 74677
+      "recovered": 76756
     }
   },
   "Kenya": {
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 32465,
+      "confirmed": 32654,
       "date": "2020-08-13",
-      "deaths": 210,
-      "recovered": 25106
+      "deaths": 211,
+      "recovered": 25659
     }
   },
   "Venezuela": {
