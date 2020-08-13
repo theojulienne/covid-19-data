@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 40794,
+      "confirmed": 41023,
       "date": "2020-08-13",
-      "deaths": 806,
-      "recovered": 33492
+      "deaths": 809,
+      "recovered": 33897
     }
   },
   "Australia": {
@@ -555,7 +555,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 15122,
+          "confirmed": 15176,
           "date": "2020-08-13",
           "deaths": 655,
           "recovered": 13700
