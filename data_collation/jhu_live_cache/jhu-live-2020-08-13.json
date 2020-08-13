@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 45264,
+      "confirmed": 45726,
       "date": "2020-08-13",
       "deaths": 167,
-      "recovered": 41836
+      "recovered": 42180
     }
   },
   "Bangladesh": {
@@ -793,10 +793,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 89555,
+      "confirmed": 89822,
       "date": "2020-08-13",
       "deaths": 651,
-      "recovered": 64721
+      "recovered": 64746
     }
   },
   "Italy": {
@@ -1309,10 +1309,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 568919,
+      "confirmed": 572865,
       "date": "2020-08-13",
-      "deaths": 11010,
-      "recovered": 432029
+      "deaths": 11270,
+      "recovered": 437617
     }
   },
   "Spain": {
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 315518,
+          "confirmed": 316853,
           "date": "2020-08-13",
-          "deaths": 6036,
+          "deaths": 6126,
           "recovered": 0
         }
       },
