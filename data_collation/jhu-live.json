@@ -1188,7 +1188,7 @@
       "confirmed": 53548,
       "date": "2020-08-13",
       "deaths": 1770,
-      "recovered": 38940
+      "recovered": 39177
     }
   },
   "Qatar": {
@@ -1463,9 +1463,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 87059,
+          "confirmed": 87958,
           "date": "2020-08-13",
-          "deaths": 1399,
+          "deaths": 1425,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 44267,
+          "confirmed": 44773,
           "date": "2020-08-13",
-          "deaths": 3961,
+          "deaths": 3969,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 44829,
+          "confirmed": 45223,
           "date": "2020-08-13",
-          "deaths": 536,
+          "deaths": 540,
           "recovered": 0
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 21396,
+          "confirmed": 21666,
           "date": "2020-08-13",
           "deaths": 462,
           "recovered": 0

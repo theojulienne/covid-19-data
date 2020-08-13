@@ -2747,17 +2747,17 @@
       "back_1week": {
         "confirmed": 51848,
         "deaths": 1740,
-        "recovered": 37318
+        "recovered": 37565
       },
       "back_2week": {
         "confirmed": 50613,
         "deaths": 1725,
-        "recovered": 35626
+        "recovered": 35875
       },
       "latest": {
         "confirmed": 53223,
         "deaths": 1764,
-        "recovered": 38760
+        "recovered": 38940
       }
     },
     "PRY": {
