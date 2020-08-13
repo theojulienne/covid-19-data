@@ -53,17 +53,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 33824,
+      "confirmed": 33915,
       "date": "2020-08-13",
-      "deaths": 497,
-      "recovered": 31058
+      "deaths": 500,
+      "recovered": 31269
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 45264,
       "date": "2020-08-13",
-      "deaths": 166,
+      "deaths": 167,
       "recovered": 41836
     }
   },
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 69102,
+      "confirmed": 69203,
       "date": "2020-08-13",
-      "deaths": 595,
-      "recovered": 65893
+      "deaths": 599,
+      "recovered": 66178
     }
   },
   "Belgium": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42237,
+          "confirmed": 42257,
           "date": "2020-08-13",
           "deaths": 2833,
-          "recovered": 38302
+          "recovered": 38305
         }
       },
       "Quebec": {
@@ -489,10 +489,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 82224,
+      "confirmed": 83134,
       "date": "2020-08-13",
-      "deaths": 1371,
-      "recovered": 47095
+      "deaths": 1393,
+      "recovered": 47946
     }
   },
   "Ecuador": {
@@ -529,10 +529,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 230874,
+      "confirmed": 230846,
       "date": "2020-08-13",
       "deaths": 30247,
-      "recovered": 71906
+      "recovered": 71801
     }
   },
   "Germany": {
@@ -1008,7 +1008,7 @@
       "confirmed": 29087,
       "date": "2020-08-13",
       "deaths": 878,
-      "recovered": 19998
+      "recovered": 20276
     }
   },
   "Morocco": {
@@ -1185,9 +1185,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 53223,
+      "confirmed": 53548,
       "date": "2020-08-13",
-      "deaths": 1764,
+      "deaths": 1770,
       "recovered": 38940
     }
   },
@@ -1423,9 +1423,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 13463,
+          "confirmed": 13578,
           "date": "2020-08-13",
-          "deaths": 261,
+          "deaths": 262,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 15485,
+          "confirmed": 15872,
           "date": "2020-08-13",
-          "deaths": 672,
+          "deaths": 673,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16642,
+          "confirmed": 16703,
           "date": "2020-08-13",
-          "deaths": 529,
+          "deaths": 530,
           "recovered": 0
         }
       },
