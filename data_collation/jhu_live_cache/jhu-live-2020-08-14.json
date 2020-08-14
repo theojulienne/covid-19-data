@@ -329,15 +329,15 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 14069,
+      "confirmed": 14243,
       "date": "2020-08-14",
-      "deaths": 484,
-      "recovered": 8901
+      "deaths": 492,
+      "recovered": 9114
     }
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18308,
+      "confirmed": 18469,
       "date": "2020-08-14",
       "deaths": 401,
       "recovered": 15320
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42363,
+          "confirmed": 42380,
           "date": "2020-08-14",
           "deaths": 2835,
-          "recovered": 38462
+          "recovered": 38463
         }
       },
       "Quebec": {
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 96108,
+      "confirmed": 96220,
       "date": "2020-08-14",
-      "deaths": 5107,
-      "recovered": 56890
+      "deaths": 5124,
+      "recovered": 57858
     }
   },
   "El Salvador": {
