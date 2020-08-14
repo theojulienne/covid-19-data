@@ -413,7 +413,8 @@ var covid19_dataset_country_jam = {
       1023,
       1031,
       1047,
-      1065
+      1065,
+      1071
     ],
     "deaths": [
       0,
@@ -616,6 +617,7 @@ var covid19_dataset_country_jam = {
       12,
       13,
       13,
+      14,
       14,
       14,
       14,
@@ -825,7 +827,8 @@ var covid19_dataset_country_jam = {
       745,
       745,
       753,
-      753
+      753,
+      754
     ]
   }
 };
