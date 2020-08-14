@@ -899,106 +899,114 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 14881,
+          "confirmed": 14993,
           "date": "2020-08-14",
-          "deaths": 2833,
-          "recovered": 11276
+          "deaths": 2844,
+          "recovered": 11370
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 82510,
+          "confirmed": 83683,
           "date": "2020-08-14",
-          "deaths": 9598,
-          "recovered": 67256
+          "deaths": 9668,
+          "recovered": 68031
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 16576,
+          "confirmed": 16858,
           "date": "2020-08-14",
-          "deaths": 1000,
-          "recovered": 13120
+          "deaths": 1038,
+          "recovered": 13284
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 25244,
+          "confirmed": 25523,
           "date": "2020-08-14",
-          "deaths": 1328,
-          "recovered": 21246
+          "deaths": 1335,
+          "recovered": 21479
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 15852,
+          "confirmed": 15934,
           "date": "2020-08-14",
-          "deaths": 1904,
-          "recovered": 12125
+          "deaths": 1939,
+          "recovered": 12144
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 59174,
+          "confirmed": 59805,
           "date": "2020-08-14",
-          "deaths": 7116,
-          "recovered": 47894
+          "deaths": 7162,
+          "recovered": 48208
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 22577,
+          "confirmed": 23058,
           "date": "2020-08-14",
-          "deaths": 1631,
-          "recovered": 18405
+          "deaths": 1668,
+          "recovered": 18735
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 23311,
+          "confirmed": 23599,
           "date": "2020-08-14",
-          "deaths": 2933,
-          "recovered": 18544
+          "deaths": 2985,
+          "recovered": 18871
+        }
+      },
+      "San Luis Potosi": {
+        "live": {
+          "confirmed": 13479,
+          "date": "2020-08-14",
+          "deaths": 802,
+          "recovered": 10720
         }
       },
       "Sinaloa": {
         "live": {
-          "confirmed": 14174,
+          "confirmed": 14217,
           "date": "2020-08-14",
-          "deaths": 2502,
-          "recovered": 11017
+          "deaths": 2512,
+          "recovered": 11009
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 19531,
+          "confirmed": 19625,
           "date": "2020-08-14",
-          "deaths": 2361,
-          "recovered": 16279
+          "deaths": 2381,
+          "recovered": 16414
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 24954,
+          "confirmed": 25186,
           "date": "2020-08-14",
-          "deaths": 2272,
-          "recovered": 21140
+          "deaths": 2287,
+          "recovered": 21350
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 18929,
+          "confirmed": 20281,
           "date": "2020-08-14",
-          "deaths": 1415,
-          "recovered": 16092
+          "deaths": 1453,
+          "recovered": 17224
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 24687,
+          "confirmed": 24924,
           "date": "2020-08-14",
-          "deaths": 3138,
-          "recovered": 19656
+          "deaths": 3201,
+          "recovered": 19827
         }
       }
     }
@@ -1439,17 +1447,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 444679,
+          "confirmed": 444929,
           "date": "2020-08-14",
-          "deaths": 8707,
+          "deaths": 8737,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 31398,
+          "confirmed": 18126,
           "date": "2020-08-14",
-          "deaths": 2519,
+          "deaths": 1410,
           "recovered": 0
         }
       },
