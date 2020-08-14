@@ -521,10 +521,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 21993,
+      "confirmed": 22314,
       "date": "2020-08-14",
-      "deaths": 584,
-      "recovered": 10290
+      "deaths": 595,
+      "recovered": 10455
     }
   },
   "Ethiopia": {
@@ -769,10 +769,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 132816,
+      "confirmed": 135123,
       "date": "2020-08-14",
-      "deaths": 5968,
-      "recovered": 87558
+      "deaths": 6021,
+      "recovered": 89618
     }
   },
   "Iran": {
@@ -801,10 +801,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 90283,
+      "confirmed": 90472,
       "date": "2020-08-14",
-      "deaths": 651,
-      "recovered": 66143
+      "deaths": 657,
+      "recovered": 66151
     }
   },
   "Italy": {
@@ -1185,10 +1185,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 54487,
+      "confirmed": 55312,
       "date": "2020-08-14",
-      "deaths": 1844,
-      "recovered": 37961
+      "deaths": 1858,
+      "recovered": 38362
     }
   },
   "Portugal": {
