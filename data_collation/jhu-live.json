@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 41023,
+      "confirmed": 41299,
       "date": "2020-08-14",
-      "deaths": 809,
-      "recovered": 33897
+      "deaths": 814,
+      "recovered": 34164
     }
   },
   "Australia": {
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42313,
+          "confirmed": 42317,
           "date": "2020-08-14",
           "deaths": 2834,
           "recovered": 38396
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 444929,
+          "confirmed": 448505,
           "date": "2020-08-14",
-          "deaths": 8737,
+          "deaths": 8832,
           "recovered": 0
         }
       },
