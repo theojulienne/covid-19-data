@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 37424,
+      "confirmed": 37431,
       "date": "2020-08-14",
       "deaths": 1363,
       "recovered": 26714
@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 22594,
+      "confirmed": 22876,
       "date": "2020-08-14",
       "deaths": 725,
-      "recovered": 20346
+      "recovered": 20499
     }
   },
   "Azerbaijan": {
@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 269115,
+      "confirmed": 271881,
       "date": "2020-08-14",
-      "deaths": 3557,
-      "recovered": 154871
+      "deaths": 3591,
+      "recovered": 156623
     }
   },
   "Belarus": {
@@ -847,7 +847,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 16690,
+          "confirmed": 17079,
           "date": "2020-08-14",
           "deaths": 338,
           "recovered": 12526
@@ -1185,7 +1185,7 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 55312,
+      "confirmed": 55319,
       "date": "2020-08-14",
       "deaths": 1858,
       "recovered": 38362
@@ -1209,10 +1209,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 66631,
+      "confirmed": 68046,
       "date": "2020-08-14",
-      "deaths": 2860,
-      "recovered": 31547
+      "deaths": 2904,
+      "recovered": 31920
     }
   },
   "Russia": {
