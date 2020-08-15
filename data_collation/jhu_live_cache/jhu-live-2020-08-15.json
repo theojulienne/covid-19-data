@@ -1103,65 +1103,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 14700,
+          "confirmed": 14869,
           "date": "2020-08-15",
-          "deaths": 1068,
+          "deaths": 1075,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 21692,
+          "confirmed": 22503,
           "date": "2020-08-15",
-          "deaths": 961,
+          "deaths": 973,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 23945,
+          "confirmed": 24229,
           "date": "2020-08-15",
-          "deaths": 1445,
+          "deaths": 1451,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 15857,
+          "confirmed": 16150,
           "date": "2020-08-15",
-          "deaths": 1347,
+          "deaths": 1348,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 18450,
+          "confirmed": 18691,
           "date": "2020-08-15",
-          "deaths": 1914,
+          "deaths": 1923,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 19369,
+          "confirmed": 19558,
           "date": "2020-08-15",
-          "deaths": 1530,
+          "deaths": 1534,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 254529,
+          "confirmed": 257811,
           "date": "2020-08-15",
-          "deaths": 11365,
+          "deaths": 11426,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 23467,
+          "confirmed": 23708,
           "date": "2020-08-15",
-          "deaths": 1722,
+          "deaths": 1731,
           "recovered": 0
         }
       }
@@ -1439,9 +1439,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 467049,
+          "confirmed": 468905,
           "date": "2020-08-15",
-          "deaths": 9142,
+          "deaths": 9163,
           "recovered": 0
         }
       },

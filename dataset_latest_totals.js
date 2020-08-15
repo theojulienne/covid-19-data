@@ -188,12 +188,12 @@ var covid19_dataset_latest_totals = {
           "tested": 23084
         },
         "QLD": {
-          "confirmed": 1089,
+          "confirmed": 1092,
           "current_hospitalized": 4,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1076,
-          "tested": 705622
+          "tested": 716420
         },
         "SA": {
           "confirmed": 448,
@@ -2601,7 +2601,7 @@ var covid19_dataset_latest_totals = {
     "NZL": {
       "back_1week": {
         "confirmed": 1520,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1484,
@@ -2609,7 +2609,7 @@ var covid19_dataset_latest_totals = {
       },
       "back_2week": {
         "confirmed": 1507,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
@@ -2617,7 +2617,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 1529,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1490,
