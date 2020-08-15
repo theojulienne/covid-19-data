@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 46052,
+      "confirmed": 46430,
       "date": "2020-08-15",
-      "deaths": 169,
-      "recovered": 42469
+      "deaths": 170,
+      "recovered": 42806
     }
   },
   "Bangladesh": {
@@ -473,10 +473,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 16935,
+      "confirmed": 16993,
       "date": "2020-08-15",
       "deaths": 108,
-      "recovered": 13721
+      "recovered": 13759
     }
   },
   "Czechia": {
@@ -801,7 +801,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 92198,
+      "confirmed": 92233,
       "date": "2020-08-15",
       "deaths": 674,
       "recovered": 67950
@@ -1317,10 +1317,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 579140,
+      "confirmed": 583653,
       "date": "2020-08-15",
-      "deaths": 11556,
-      "recovered": 461734
+      "deaths": 11677,
+      "recovered": 466941
     }
   },
   "Spain": {
@@ -1659,7 +1659,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 273314,
+          "confirmed": 274248,
           "date": "2020-08-15",
           "deaths": 42072,
           "recovered": 0
@@ -1667,7 +1667,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 19238,
+          "confirmed": 19289,
           "date": "2020-08-15",
           "deaths": 2491,
           "recovered": 0
@@ -1675,7 +1675,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17516,
+          "confirmed": 17543,
           "date": "2020-08-15",
           "deaths": 1586,
           "recovered": 0
