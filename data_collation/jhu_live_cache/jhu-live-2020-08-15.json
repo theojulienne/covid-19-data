@@ -547,15 +547,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 52847,
+          "confirmed": 52873,
           "date": "2020-08-15",
           "deaths": 2631,
-          "recovered": 48400
+          "recovered": 48436
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 15343,
+          "confirmed": 15357,
           "date": "2020-08-15",
           "deaths": 656,
           "recovered": 13800
@@ -566,7 +566,7 @@
           "confirmed": 54106,
           "date": "2020-08-15",
           "deaths": 1777,
-          "recovered": 47300
+          "recovered": 47310
         }
       }
     }
@@ -842,7 +842,7 @@
           "confirmed": 17464,
           "date": "2020-08-15",
           "deaths": 338,
-          "recovered": 12848
+          "recovered": 13274
         }
       }
     }
@@ -1039,9 +1039,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 16239,
+          "confirmed": 16506,
           "date": "2020-08-15",
-          "deaths": 1315,
+          "deaths": 1316,
           "recovered": 0
         }
       }
