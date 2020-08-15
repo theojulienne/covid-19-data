@@ -1067,34 +1067,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15342,
+          "confirmed": 15346,
           "date": "2020-08-15",
           "deaths": 173,
-          "recovered": 13078
+          "recovered": 13100
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 35021,
+          "confirmed": 35091,
           "date": "2020-08-15",
-          "deaths": 1236,
-          "recovered": 32317
+          "deaths": 1238,
+          "recovered": 32373
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 94993,
+          "confirmed": 95203,
           "date": "2020-08-15",
           "deaths": 2180,
-          "recovered": 86404
+          "recovered": 86424
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 125289,
+          "confirmed": 125632,
           "date": "2020-08-15",
-          "deaths": 2307,
-          "recovered": 118924
+          "deaths": 2313,
+          "recovered": 119025
         }
       }
     }
@@ -1677,10 +1677,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 33821,
+      "confirmed": 34017,
       "date": "2020-08-15",
-      "deaths": 220,
-      "recovered": 27825
+      "deaths": 221,
+      "recovered": 28661
     }
   },
   "Venezuela": {
