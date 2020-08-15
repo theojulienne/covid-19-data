@@ -415,9 +415,11 @@ var covid19_dataset_country_btn = {
       110,
       113,
       113,
-      128
+      128,
+      133
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -829,7 +831,8 @@ var covid19_dataset_country_btn = {
       96,
       97,
       97,
-      100
+      100,
+      102
     ]
   }
 };

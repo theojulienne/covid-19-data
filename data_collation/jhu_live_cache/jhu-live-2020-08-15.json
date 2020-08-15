@@ -38,7 +38,7 @@
           "confirmed": 16517,
           "date": "2020-08-15",
           "deaths": 293,
-          "recovered": 7842
+          "recovered": 8121
         }
       }
     }
@@ -415,42 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 57360,
+          "confirmed": 59122,
           "date": "2020-08-15",
-          "deaths": 1023,
-          "recovered": 27747
+          "deaths": 1066,
+          "recovered": 29781
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 59797,
+          "confirmed": 60134,
           "date": "2020-08-15",
-          "deaths": 2734,
-          "recovered": 47530
+          "deaths": 2750,
+          "recovered": 48673
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 21090,
+          "confirmed": 21325,
           "date": "2020-08-15",
-          "deaths": 637,
-          "recovered": 16868
+          "deaths": 642,
+          "recovered": 17262
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 149944,
+          "confirmed": 154452,
           "date": "2020-08-15",
-          "deaths": 4096,
-          "recovered": 80857
+          "deaths": 4172,
+          "recovered": 84153
+        }
+      },
+      "Cundinamarca": {
+        "live": {
+          "confirmed": 13863,
+          "date": "2020-08-15",
+          "deaths": 393,
+          "recovered": 7864
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 35435,
+          "confirmed": 36171,
           "date": "2020-08-15",
-          "deaths": 1321,
-          "recovered": 20889
+          "deaths": 1355,
+          "recovered": 21664
         }
       }
     }
@@ -599,162 +607,162 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 264142,
+          "confirmed": 273085,
           "date": "2020-08-15",
-          "deaths": 2378,
-          "recovered": 170984
+          "deaths": 2475,
+          "recovered": 180703
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 71795,
+          "confirmed": 74501,
           "date": "2020-08-15",
-          "deaths": 169,
-          "recovered": 49383
+          "deaths": 175,
+          "recovered": 51693
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 94193,
+          "confirmed": 98008,
           "date": "2020-08-15",
-          "deaths": 426,
-          "recovered": 62284
+          "deaths": 442,
+          "recovered": 64930
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 13937,
+          "confirmed": 14481,
           "date": "2020-08-15",
-          "deaths": 114,
-          "recovered": 9658
+          "deaths": 130,
+          "recovered": 9857
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 149460,
+          "confirmed": 150652,
           "date": "2020-08-15",
-          "deaths": 4167,
-          "recovered": 134318
+          "deaths": 4178,
+          "recovered": 135108
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 75408,
+          "confirmed": 76480,
           "date": "2020-08-15",
-          "deaths": 2731,
-          "recovered": 58467
+          "deaths": 2746,
+          "recovered": 59538
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 44817,
+          "confirmed": 45614,
           "date": "2020-08-15",
-          "deaths": 511,
-          "recovered": 37486
+          "deaths": 518,
+          "recovered": 38348
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 26949,
+          "confirmed": 27489,
           "date": "2020-08-15",
-          "deaths": 509,
-          "recovered": 19302
+          "deaths": 520,
+          "recovered": 19942
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 20881,
+          "confirmed": 21595,
           "date": "2020-08-15",
-          "deaths": 209,
-          "recovered": 12844
+          "deaths": 224,
+          "recovered": 13515
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 203200,
+          "confirmed": 211108,
           "date": "2020-08-15",
-          "deaths": 3613,
-          "recovered": 121242
+          "deaths": 3717,
+          "recovered": 128182
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 39708,
+          "confirmed": 41277,
           "date": "2020-08-15",
-          "deaths": 129,
-          "recovered": 25688
+          "deaths": 139,
+          "recovered": 26992
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 42618,
+          "confirmed": 43414,
           "date": "2020-08-15",
-          "deaths": 1065,
-          "recovered": 31835
+          "deaths": 1081,
+          "recovered": 32405
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 560126,
+          "confirmed": 572734,
           "date": "2020-08-15",
-          "deaths": 19063,
-          "recovered": 390958
+          "deaths": 19427,
+          "recovered": 401442
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 52653,
+          "confirmed": 54360,
           "date": "2020-08-15",
-          "deaths": 314,
-          "recovered": 37901
+          "deaths": 324,
+          "recovered": 39206
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 27936,
+          "confirmed": 29013,
           "date": "2020-08-15",
-          "deaths": 706,
-          "recovered": 17839
+          "deaths": 731,
+          "recovered": 18328
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 57414,
+          "confirmed": 58692,
           "date": "2020-08-15",
-          "deaths": 833,
-          "recovered": 41819
+          "deaths": 846,
+          "recovered": 43897
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 320355,
+          "confirmed": 326245,
           "date": "2020-08-15",
-          "deaths": 5397,
-          "recovered": 261459
+          "deaths": 5514,
+          "recovered": 267015
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 88396,
+          "confirmed": 90259,
           "date": "2020-08-15",
-          "deaths": 674,
-          "recovered": 64284
+          "deaths": 684,
+          "recovered": 66196
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 140775,
+          "confirmed": 145287,
           "date": "2020-08-15",
-          "deaths": 2280,
-          "recovered": 88786
+          "deaths": 2335,
+          "recovered": 92526
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 107323,
+          "confirmed": 110358,
           "date": "2020-08-15",
-          "deaths": 2259,
-          "recovered": 78617
+          "deaths": 2319,
+          "recovered": 81189
         }
       }
     }
@@ -852,7 +860,7 @@
       "confirmed": 102287,
       "date": "2020-08-15",
       "deaths": 1269,
-      "recovered": 78633
+      "recovered": 80716
     }
   },
   "Kenya": {
@@ -1421,14 +1429,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 13682,
-          "date": "2020-08-15",
-          "deaths": 262,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 147516,

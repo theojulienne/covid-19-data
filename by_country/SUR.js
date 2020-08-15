@@ -415,7 +415,8 @@ var covid19_dataset_country_sur = {
       2489,
       2559,
       2653,
-      2761
+      2761,
+      2838
     ],
     "deaths": [
       0,
@@ -622,7 +623,8 @@ var covid19_dataset_country_sur = {
       30,
       39,
       39,
-      40
+      40,
+      41
     ],
     "recovered": [
       0,
@@ -829,7 +831,8 @@ var covid19_dataset_country_sur = {
       1674,
       1712,
       1789,
-      1830
+      1830,
+      1894
     ]
   }
 };
