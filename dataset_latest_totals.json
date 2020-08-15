@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 289,
           "recovered": 1992,
-          "tested": 1895566
+          "tested": 1914400
         },
         "WA": {
           "confirmed": 659,
@@ -2694,19 +2694,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 119460,
-        "deaths": 2150,
-        "recovered": 66837
+        "confirmed": 122754,
+        "deaths": 2168,
+        "recovered": 66852
       },
       "back_2week": {
-        "confirmed": 89374,
-        "deaths": 1983,
-        "recovered": 65064
+        "confirmed": 93354,
+        "deaths": 2023,
+        "recovered": 65178
       },
       "latest": {
-        "confirmed": 147526,
-        "deaths": 2426,
-        "recovered": 70387
+        "confirmed": 153660,
+        "deaths": 2442,
+        "recovered": 71405
       }
     },
     "PNG": {
@@ -2949,18 +2949,18 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 19126,
-        "deaths": 513,
+        "confirmed": 19544,
+        "deaths": 520,
         "recovered": 9379
       },
       "back_2week": {
-        "confirmed": 16230,
-        "deaths": 439,
+        "confirmed": 16632,
+        "deaths": 448,
         "recovered": 8362
       },
       "latest": {
-        "confirmed": 21993,
-        "deaths": 584,
+        "confirmed": 22314,
+        "deaths": 595,
         "recovered": 10455
       }
     },
