@@ -529,10 +529,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 27242,
+      "confirmed": 28894,
       "date": "2020-08-15",
-      "deaths": 492,
-      "recovered": 11660
+      "deaths": 509,
+      "recovered": 12037
     }
   },
   "France": {
@@ -1021,10 +1021,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 39241,
+      "confirmed": 41017,
       "date": "2020-08-15",
-      "deaths": 611,
-      "recovered": 27644
+      "deaths": 632,
+      "recovered": 28566
     }
   },
   "Nepal": {
@@ -1416,7 +1416,7 @@
       "confirmed": 37924,
       "date": "2020-08-15",
       "deaths": 1991,
-      "recovered": 32900
+      "recovered": 33200
     }
   },
   "Turkey": {
@@ -1479,9 +1479,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 114724,
+          "confirmed": 115344,
           "date": "2020-08-15",
-          "deaths": 4951,
+          "deaths": 4953,
           "recovered": 0
         }
       },
@@ -1529,7 +1529,7 @@
         "live": {
           "confirmed": 20251,
           "date": "2020-08-15",
-          "deaths": 845,
+          "deaths": 846,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 51457,
+          "confirmed": 52239,
           "date": "2020-08-15",
-          "deaths": 884,
+          "deaths": 908,
           "recovered": 0
         }
       },
@@ -1561,15 +1561,15 @@
         "live": {
           "confirmed": 368348,
           "date": "2020-08-15",
-          "deaths": 29929,
+          "deaths": 29935,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 22850,
+          "confirmed": 22989,
           "date": "2020-08-15",
-          "deaths": 253,
+          "deaths": 257,
           "recovered": 0
         }
       },
