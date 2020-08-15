@@ -2,17 +2,17 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 36896,
-        "deaths": 1298,
-        "recovered": 25840
+        "confirmed": 37015,
+        "deaths": 1307,
+        "recovered": 25903
       },
       "back_2week": {
-        "confirmed": 36542,
-        "deaths": 1271,
-        "recovered": 25471
+        "confirmed": 36675,
+        "deaths": 1272,
+        "recovered": 25509
       },
       "latest": {
-        "confirmed": 37424,
+        "confirmed": 37431,
         "deaths": 1363,
         "recovered": 26714
       }
@@ -2951,17 +2951,17 @@
       "back_1week": {
         "confirmed": 19126,
         "deaths": 513,
-        "recovered": 9236
+        "recovered": 9379
       },
       "back_2week": {
         "confirmed": 16230,
         "deaths": 439,
-        "recovered": 8206
+        "recovered": 8362
       },
       "latest": {
         "confirmed": 21993,
         "deaths": 584,
-        "recovered": 10254
+        "recovered": 10455
       }
     },
     "SMR": {

@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 37431,
+      "confirmed": 37550,
       "date": "2020-08-15",
-      "deaths": 1363,
-      "recovered": 26714
+      "deaths": 1369,
+      "recovered": 27166
     }
   },
   "Algeria": {
@@ -524,7 +524,7 @@
       "confirmed": 22314,
       "date": "2020-08-15",
       "deaths": 595,
-      "recovered": 10455
+      "recovered": 10474
     }
   },
   "Ethiopia": {
@@ -555,7 +555,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 52645,
+          "confirmed": 52847,
           "date": "2020-08-15",
           "deaths": 2631,
           "recovered": 48400
@@ -563,7 +563,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 15318,
+          "confirmed": 15343,
           "date": "2020-08-15",
           "deaths": 656,
           "recovered": 13800
@@ -571,10 +571,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 53661,
+          "confirmed": 54106,
           "date": "2020-08-15",
-          "deaths": 1772,
-          "recovered": 47192
+          "deaths": 1777,
+          "recovered": 47300
         }
       }
     }
