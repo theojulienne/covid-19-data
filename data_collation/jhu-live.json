@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 37550,
+      "confirmed": 37551,
       "date": "2020-08-15",
-      "deaths": 1369,
+      "deaths": 1370,
       "recovered": 27166
     }
   },
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 96220,
+      "confirmed": 96336,
       "date": "2020-08-15",
-      "deaths": 5124,
-      "recovered": 57858
+      "deaths": 5141,
+      "recovered": 58835
     }
   },
   "El Salvador": {
@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 236074,
+      "confirmed": 239345,
       "date": "2020-08-15",
       "deaths": 30279,
-      "recovered": 72023
+      "recovered": 71971
     }
   },
   "Germany": {
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 468905,
+          "confirmed": 470760,
           "date": "2020-08-15",
-          "deaths": 9163,
+          "deaths": 9190,
           "recovered": 0
         }
       },
@@ -1607,7 +1607,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 323682,
+          "confirmed": 324806,
           "date": "2020-08-15",
           "deaths": 6458,
           "recovered": 0
