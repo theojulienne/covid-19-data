@@ -537,7 +537,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 236114,
+      "confirmed": 236074,
       "date": "2020-08-15",
       "deaths": 30279,
       "recovered": 72023
@@ -793,7 +793,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 26995,
+      "confirmed": 27191,
       "date": "2020-08-15",
       "deaths": 1774,
       "recovered": 23364
@@ -801,10 +801,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 91080,
+      "confirmed": 92198,
       "date": "2020-08-15",
-      "deaths": 665,
-      "recovered": 66965
+      "deaths": 674,
+      "recovered": 67950
     }
   },
   "Italy": {
@@ -1421,10 +1421,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 246861,
+      "confirmed": 248117,
       "date": "2020-08-15",
-      "deaths": 5934,
-      "recovered": 228980
+      "deaths": 5955,
+      "recovered": 229972
     }
   },
   "US": {
@@ -1575,17 +1575,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33407,
+          "confirmed": 33715,
           "date": "2020-08-15",
-          "deaths": 1056,
+          "deaths": 1066,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 32057,
+          "confirmed": 32186,
           "date": "2020-08-15",
-          "deaths": 1715,
+          "deaths": 1717,
           "recovered": 0
         }
       },
@@ -1685,10 +1685,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 34251,
+      "confirmed": 34528,
       "date": "2020-08-15",
-      "deaths": 223,
-      "recovered": 28661
+      "deaths": 225,
+      "recovered": 29328
     }
   },
   "Venezuela": {
