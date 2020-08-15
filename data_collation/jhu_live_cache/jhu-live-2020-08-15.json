@@ -465,10 +465,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 26931,
+      "confirmed": 27737,
       "date": "2020-08-15",
-      "deaths": 281,
-      "recovered": 8785
+      "deaths": 291,
+      "recovered": 9010
     }
   },
   "Cote d'Ivoire": {
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 323013,
+          "confirmed": 323682,
           "date": "2020-08-15",
-          "deaths": 6369,
+          "deaths": 6458,
           "recovered": 0
         }
       },
