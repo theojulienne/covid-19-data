@@ -523,8 +523,8 @@
     "live": {
       "confirmed": 22619,
       "date": "2020-08-16",
-      "deaths": 603,
-      "recovered": 10618
+      "deaths": 612,
+      "recovered": 10647
     }
   },
   "Ethiopia": {
@@ -801,10 +801,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 92233,
+      "confirmed": 92343,
       "date": "2020-08-16",
       "deaths": 674,
-      "recovered": 67950
+      "recovered": 68395
     }
   },
   "Italy": {
@@ -889,10 +889,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 41645,
+      "confirmed": 41856,
       "date": "2020-08-16",
-      "deaths": 1493,
-      "recovered": 33951
+      "deaths": 1495,
+      "recovered": 34276
     }
   },
   "Mexico": {
