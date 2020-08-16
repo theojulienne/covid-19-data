@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 77113,
+      "confirmed": 77869,
       "date": "2020-08-16",
-      "deaths": 9924,
-      "recovered": 17941
+      "deaths": 9935,
+      "recovered": 17981
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 97950,
+      "confirmed": 99146,
       "date": "2020-08-16",
-      "deaths": 3939,
-      "recovered": 34723
+      "deaths": 4003,
+      "recovered": 35638
     }
   },
   "Bosnia and Herzegovina": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42464,
+          "confirmed": 42500,
           "date": "2020-08-16",
           "deaths": 2836,
-          "recovered": 38573
+          "recovered": 38587
         }
       },
       "Quebec": {
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 49467,
+      "confirmed": 49979,
       "date": "2020-08-16",
-      "deaths": 1548,
-      "recovered": 7128
+      "deaths": 1567,
+      "recovered": 7255
     }
   },
   "India": {
@@ -873,10 +873,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 15039,
+      "confirmed": 15318,
       "date": "2020-08-16",
       "deaths": 305,
-      "recovered": 13901
+      "recovered": 13910
     }
   },
   "Kuwait": {
