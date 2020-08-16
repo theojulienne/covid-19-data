@@ -417,6 +417,7 @@ var covid19_dataset_country_som = {
       3227,
       3227,
       3227,
+      3250,
       3250
     ],
     "deaths": [
@@ -592,6 +593,7 @@ var covid19_dataset_country_som = {
       92,
       92,
       92,
+      93,
       93,
       93,
       93,
@@ -833,6 +835,7 @@ var covid19_dataset_country_som = {
       1728,
       1728,
       1728,
+      2268,
       2268
     ]
   }
