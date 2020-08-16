@@ -537,7 +537,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 239345,
+      "confirmed": 239306,
       "date": "2020-08-16",
       "deaths": 30279,
       "recovered": 71971
@@ -581,10 +581,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 42210,
+      "confirmed": 42532,
       "date": "2020-08-16",
       "deaths": 231,
-      "recovered": 40147
+      "recovered": 40362
     }
   },
   "Guatemala": {
@@ -1421,10 +1421,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 248117,
+      "confirmed": 249309,
       "date": "2020-08-16",
-      "deaths": 5955,
-      "recovered": 229972
+      "deaths": 5974,
+      "recovered": 230969
     }
   },
   "US": {
@@ -1561,7 +1561,7 @@
         "live": {
           "confirmed": 368771,
           "date": "2020-08-16",
-          "deaths": 29935,
+          "deaths": 29942,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33715,
+          "confirmed": 33888,
           "date": "2020-08-16",
-          "deaths": 1066,
+          "deaths": 1065,
           "recovered": 0
         }
       },
