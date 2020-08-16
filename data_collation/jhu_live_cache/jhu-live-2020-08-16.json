@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 34107,
+      "confirmed": 34219,
       "date": "2020-08-16",
       "deaths": 506,
-      "recovered": 31697
+      "recovered": 31875
     }
   },
   "Bahrain": {
@@ -1193,10 +1193,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 53981,
+      "confirmed": 54102,
       "date": "2020-08-16",
-      "deaths": 1775,
-      "recovered": 39585
+      "deaths": 1778,
+      "recovered": 39697
     }
   },
   "Qatar": {
@@ -1293,17 +1293,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 297315,
+      "confirmed": 298542,
       "date": "2020-08-16",
-      "deaths": 3369,
-      "recovered": 264487
+      "deaths": 3408,
+      "recovered": 266953
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 29471,
+      "confirmed": 29682,
       "date": "2020-08-16",
-      "deaths": 670,
+      "deaths": 674,
       "recovered": 0
     }
   },
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 472796,
+          "confirmed": 474162,
           "date": "2020-08-16",
-          "deaths": 9221,
+          "deaths": 9226,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 326219,
+          "confirmed": 326490,
           "date": "2020-08-16",
-          "deaths": 6471,
+          "deaths": 6472,
           "recovered": 0
         }
       },
