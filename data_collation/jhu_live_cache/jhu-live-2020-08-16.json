@@ -465,10 +465,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 27737,
+      "confirmed": 28465,
       "date": "2020-08-16",
-      "deaths": 291,
-      "recovered": 9010
+      "deaths": 294,
+      "recovered": 9062
     }
   },
   "Cote d'Ivoire": {
@@ -1317,10 +1317,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 583653,
+      "confirmed": 587345,
       "date": "2020-08-16",
-      "deaths": 11677,
-      "recovered": 466941
+      "deaths": 11839,
+      "recovered": 472377
     }
   },
   "Spain": {
