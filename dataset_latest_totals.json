@@ -1112,9 +1112,9 @@
         "recovered": 12578
       },
       "latest": {
-        "confirmed": 15379,
+        "confirmed": 15483,
         "deaths": 621,
-        "recovered": 13216
+        "recovered": 13275
       },
       "states": {
         "Faroe Islands": {
@@ -2949,17 +2949,17 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 19544,
+        "confirmed": 19978,
         "deaths": 536,
         "recovered": 9515
       },
       "back_2week": {
-        "confirmed": 16632,
+        "confirmed": 17050,
         "deaths": 459,
         "recovered": 8495
       },
       "latest": {
-        "confirmed": 22314,
+        "confirmed": 22619,
         "deaths": 603,
         "recovered": 10618
       }

@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 15483,
+      "confirmed": 15617,
       "date": "2020-08-16",
       "deaths": 621,
-      "recovered": 13275
+      "recovered": 13340
     }
   },
   "Dominican Republic": {
@@ -521,10 +521,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 22619,
+      "confirmed": 22912,
       "date": "2020-08-16",
       "deaths": 612,
-      "recovered": 10647
+      "recovered": 10807
     }
   },
   "Ethiopia": {
@@ -849,8 +849,8 @@
         "live": {
           "confirmed": 17724,
           "date": "2020-08-16",
-          "deaths": 338,
-          "recovered": 13274
+          "deaths": 340,
+          "recovered": 13596
         }
       }
     }
@@ -1039,9 +1039,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 16506,
+          "confirmed": 16674,
           "date": "2020-08-16",
-          "deaths": 1316,
+          "deaths": 1318,
           "recovered": 0
         }
       }
