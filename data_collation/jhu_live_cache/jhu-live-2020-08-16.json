@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 289100,
       "date": "2020-08-16",
-      "deaths": 5637,
-      "recovered": 205697
+      "deaths": 5657,
+      "recovered": 211702
     }
   },
   "Armenia": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 69424,
+      "confirmed": 69516,
       "date": "2020-08-16",
-      "deaths": 607,
-      "recovered": 66747
+      "deaths": 610,
+      "recovered": 67072
     }
   },
   "Belgium": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42501,
+          "confirmed": 42520,
           "date": "2020-08-16",
           "deaths": 2836,
-          "recovered": 38588
+          "recovered": 38639
         }
       },
       "Quebec": {
@@ -1013,10 +1013,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 29905,
+      "confirmed": 30183,
       "date": "2020-08-16",
-      "deaths": 895,
-      "recovered": 20908
+      "deaths": 896,
+      "recovered": 21220
     }
   },
   "Morocco": {
@@ -1416,7 +1416,7 @@
       "confirmed": 38124,
       "date": "2020-08-16",
       "deaths": 1991,
-      "recovered": 33200
+      "recovered": 33300
     }
   },
   "Turkey": {
@@ -1487,7 +1487,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 16539,
+          "confirmed": 16640,
           "date": "2020-08-16",
           "deaths": 735,
           "recovered": 0
@@ -1527,7 +1527,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 20251,
+          "confirmed": 20469,
           "date": "2020-08-16",
           "deaths": 846,
           "recovered": 0
@@ -1535,7 +1535,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 16409,
+          "confirmed": 16614,
           "date": "2020-08-16",
           "deaths": 678,
           "recovered": 0
@@ -1543,23 +1543,23 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 52239,
+          "confirmed": 52867,
           "date": "2020-08-16",
-          "deaths": 908,
+          "deaths": 910,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 113729,
+          "confirmed": 113932,
           "date": "2020-08-16",
-          "deaths": 9661,
+          "deaths": 9662,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 368348,
+          "confirmed": 368771,
           "date": "2020-08-16",
           "deaths": 29935,
           "recovered": 0
