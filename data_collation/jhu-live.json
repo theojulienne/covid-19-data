@@ -785,10 +785,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 172583,
+      "confirmed": 176931,
       "date": "2020-08-16",
-      "deaths": 5785,
-      "recovered": 122700
+      "deaths": 5860,
+      "recovered": 125374
     }
   },
   "Ireland": {
@@ -1057,10 +1057,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 82924,
+      "confirmed": 83086,
       "date": "2020-08-16",
-      "deaths": 562,
-      "recovered": 77550
+      "deaths": 572,
+      "recovered": 77680
     }
   },
   "Pakistan": {
@@ -1312,7 +1312,7 @@
       "confirmed": 55747,
       "date": "2020-08-16",
       "deaths": 27,
-      "recovered": 51521
+      "recovered": 51953
     }
   },
   "South Africa": {
@@ -1503,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 57360,
+          "confirmed": 57598,
           "date": "2020-08-16",
-          "deaths": 2150,
+          "deaths": 2153,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 16882,
+          "confirmed": 16995,
           "date": "2020-08-16",
           "deaths": 533,
           "recovered": 0
@@ -1685,10 +1685,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 34701,
+      "confirmed": 35109,
       "date": "2020-08-16",
-      "deaths": 226,
-      "recovered": 30043
+      "deaths": 230,
+      "recovered": 30664
     }
   },
   "Venezuela": {
