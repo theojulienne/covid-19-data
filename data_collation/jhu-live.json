@@ -347,18 +347,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42520,
+          "confirmed": 42552,
           "date": "2020-08-16",
           "deaths": 2836,
-          "recovered": 38639
+          "recovered": 38658
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 61084,
+          "confirmed": 61151,
           "date": "2020-08-16",
-          "deaths": 5719,
-          "recovered": 53709
+          "deaths": 5720,
+          "recovered": 53847
         }
       }
     }
@@ -1439,9 +1439,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 148178,
+          "confirmed": 148966,
           "date": "2020-08-16",
-          "deaths": 3115,
+          "deaths": 3127,
           "recovered": 0
         }
       },
@@ -1471,9 +1471,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 89854,
+          "confirmed": 90315,
           "date": "2020-08-16",
-          "deaths": 1460,
+          "deaths": 1468,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 45440,
+          "confirmed": 45580,
           "date": "2020-08-16",
-          "deaths": 3977,
+          "deaths": 3980,
           "recovered": 0
         }
       },
@@ -1529,7 +1529,7 @@
         "live": {
           "confirmed": 20469,
           "date": "2020-08-16",
-          "deaths": 846,
+          "deaths": 848,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 46117,
+          "confirmed": 46585,
           "date": "2020-08-16",
-          "deaths": 543,
+          "deaths": 554,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 21621,
+          "confirmed": 21771,
           "date": "2020-08-16",
           "deaths": 211,
           "recovered": 0
@@ -1639,9 +1639,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 22054,
+          "confirmed": 22212,
           "date": "2020-08-16",
-          "deaths": 465,
+          "deaths": 466,
           "recovered": 0
         }
       }
