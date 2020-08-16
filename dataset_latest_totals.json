@@ -1915,19 +1915,19 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 25138,
-        "deaths": 413,
-        "recovered": 11118
+        "confirmed": 25837,
+        "deaths": 418,
+        "recovered": 11899
       },
       "back_2week": {
-        "confirmed": 20636,
-        "deaths": 341,
-        "recovered": 8165
+        "confirmed": 21363,
+        "deaths": 364,
+        "recovered": 8419
       },
       "latest": {
-        "confirmed": 29334,
-        "deaths": 465,
-        "recovered": 15298
+        "confirmed": 29849,
+        "deaths": 472,
+        "recovered": 15970
       }
     },
     "KGZ": {
