@@ -38,7 +38,7 @@
           "confirmed": 17027,
           "date": "2020-08-17",
           "deaths": 334,
-          "recovered": 8570
+          "recovered": 9023
         }
       }
     }
@@ -523,8 +523,8 @@
     "live": {
       "confirmed": 22912,
       "date": "2020-08-17",
-      "deaths": 612,
-      "recovered": 10807
+      "deaths": 618,
+      "recovered": 10814
     }
   },
   "Ethiopia": {
@@ -547,7 +547,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 38480,
+          "confirmed": 38512,
           "date": "2020-08-17",
           "deaths": 1859,
           "recovered": 35500
@@ -555,26 +555,26 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 52888,
+          "confirmed": 52984,
           "date": "2020-08-17",
           "deaths": 2631,
-          "recovered": 48500
+          "recovered": 48600
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 15399,
+          "confirmed": 15428,
           "date": "2020-08-17",
           "deaths": 656,
-          "recovered": 13800
+          "recovered": 13900
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 54390,
+          "confirmed": 54653,
           "date": "2020-08-17",
-          "deaths": 1777,
-          "recovered": 47500
+          "deaths": 1778,
+          "recovered": 47800
         }
       }
     }
@@ -889,10 +889,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 41856,
+      "confirmed": 41991,
       "date": "2020-08-17",
-      "deaths": 1495,
-      "recovered": 34276
+      "deaths": 1496,
+      "recovered": 34537
     }
   },
   "Mexico": {
