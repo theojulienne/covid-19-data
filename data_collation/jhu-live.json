@@ -769,10 +769,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 139549,
+      "confirmed": 141370,
       "date": "2020-08-17",
-      "deaths": 6150,
-      "recovered": 93103
+      "deaths": 6207,
+      "recovered": 94458
     }
   },
   "Iran": {
@@ -847,7 +847,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 17724,
+          "confirmed": 17885,
           "date": "2020-08-17",
           "deaths": 340,
           "recovered": 13596
@@ -1177,17 +1177,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 161253,
+      "confirmed": 164474,
       "date": "2020-08-17",
-      "deaths": 2665,
-      "recovered": 112586
+      "deaths": 2681,
+      "recovered": 112759
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 56684,
+      "confirmed": 57279,
       "date": "2020-08-17",
-      "deaths": 1877,
+      "deaths": 1885,
       "recovered": 39359
     }
   },
