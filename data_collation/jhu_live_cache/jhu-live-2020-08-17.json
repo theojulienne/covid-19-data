@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 34219,
+      "confirmed": 34343,
       "date": "2020-08-17",
-      "deaths": 506,
-      "recovered": 31875
+      "deaths": 508,
+      "recovered": 32042
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 69516,
+      "confirmed": 69589,
       "date": "2020-08-17",
-      "deaths": 610,
-      "recovered": 67072
+      "deaths": 613,
+      "recovered": 67149
     }
   },
   "Belgium": {
@@ -1701,7 +1701,7 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 16534,
+      "confirmed": 16844,
       "date": "2020-08-17",
       "deaths": 110,
       "recovered": 9838
