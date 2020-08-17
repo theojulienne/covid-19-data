@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 49979,
+      "confirmed": 50502,
       "date": "2020-08-17",
-      "deaths": 1567,
-      "recovered": 7255
+      "deaths": 1575,
+      "recovered": 7339
     }
   },
   "India": {
@@ -860,7 +860,7 @@
       "confirmed": 103033,
       "date": "2020-08-17",
       "deaths": 1269,
-      "recovered": 81558
+      "recovered": 82777
     }
   },
   "Kenya": {
