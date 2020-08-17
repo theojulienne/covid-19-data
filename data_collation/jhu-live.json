@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 15801,
+      "confirmed": 16111,
       "date": "2020-08-17",
-      "deaths": 471,
-      "recovered": 9619
+      "deaths": 486,
+      "recovered": 9856
     }
   },
   "Brazil": {
@@ -1029,10 +1029,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 26660,
+      "confirmed": 27241,
       "date": "2020-08-17",
-      "deaths": 104,
-      "recovered": 17335
+      "deaths": 107,
+      "recovered": 17495
     }
   },
   "Netherlands": {
@@ -1057,10 +1057,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 83086,
+      "confirmed": 83226,
       "date": "2020-08-17",
-      "deaths": 572,
-      "recovered": 77680
+      "deaths": 588,
+      "recovered": 77812
     }
   },
   "Pakistan": {
