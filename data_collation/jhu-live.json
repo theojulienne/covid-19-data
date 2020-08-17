@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42633,
+          "confirmed": 42640,
           "date": "2020-08-17",
           "deaths": 2836,
-          "recovered": 38767
+          "recovered": 38772
         }
       },
       "Quebec": {
@@ -505,10 +505,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 101542,
+      "confirmed": 101751,
       "date": "2020-08-17",
-      "deaths": 6070,
-      "recovered": 87022
+      "deaths": 6083,
+      "recovered": 87120
     }
   },
   "Egypt": {
@@ -529,15 +529,15 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 29876,
+      "confirmed": 31336,
       "date": "2020-08-17",
-      "deaths": 528,
-      "recovered": 12359
+      "deaths": 544,
+      "recovered": 12524
     }
   },
   "France": {
     "live": {
-      "confirmed": 242223,
+      "confirmed": 242198,
       "date": "2020-08-17",
       "deaths": 30279,
       "recovered": 71879
@@ -793,7 +793,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 27257,
+      "confirmed": 27313,
       "date": "2020-08-17",
       "deaths": 1774,
       "recovered": 23364
@@ -1421,10 +1421,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 249309,
+      "confirmed": 250542,
       "date": "2020-08-17",
-      "deaths": 5974,
-      "recovered": 230969
+      "deaths": 5996,
+      "recovered": 231971
     }
   },
   "US": {
@@ -1543,9 +1543,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 52867,
+          "confirmed": 53458,
           "date": "2020-08-17",
-          "deaths": 910,
+          "deaths": 913,
           "recovered": 0
         }
       },
@@ -1575,7 +1575,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33888,
+          "confirmed": 34101,
           "date": "2020-08-17",
           "deaths": 1065,
           "recovered": 0
@@ -1583,7 +1583,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 32186,
+          "confirmed": 32348,
           "date": "2020-08-17",
           "deaths": 1717,
           "recovered": 0
@@ -1607,7 +1607,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 334546,
+          "confirmed": 334735,
           "date": "2020-08-17",
           "deaths": 6548,
           "recovered": 0
@@ -1703,8 +1703,8 @@
     "live": {
       "confirmed": 16844,
       "date": "2020-08-17",
-      "deaths": 110,
-      "recovered": 9838
+      "deaths": 113,
+      "recovered": 9906
     }
   }
 }
