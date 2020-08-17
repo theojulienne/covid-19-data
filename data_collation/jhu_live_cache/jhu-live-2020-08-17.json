@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 15617,
+      "confirmed": 15740,
       "date": "2020-08-17",
       "deaths": 621,
-      "recovered": 13340
+      "recovered": 13417
     }
   },
   "Dominican Republic": {
@@ -555,7 +555,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 52984,
+          "confirmed": 53088,
           "date": "2020-08-17",
           "deaths": 2631,
           "recovered": 48600
@@ -850,7 +850,7 @@
           "confirmed": 17885,
           "date": "2020-08-17",
           "deaths": 340,
-          "recovered": 13596
+          "recovered": 13759
         }
       }
     }
@@ -1039,7 +1039,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 16674,
+          "confirmed": 16829,
           "date": "2020-08-17",
           "deaths": 1318,
           "recovered": 0
@@ -1395,7 +1395,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 24019,
+          "confirmed": 24176,
           "date": "2020-08-17",
           "deaths": 2392,
           "recovered": 0
@@ -1403,9 +1403,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19427,
+          "confirmed": 19698,
           "date": "2020-08-17",
-          "deaths": 844,
+          "deaths": 845,
           "recovered": 0
         }
       }
@@ -1413,7 +1413,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 38124,
+      "confirmed": 38252,
       "date": "2020-08-17",
       "deaths": 1991,
       "recovered": 33300
