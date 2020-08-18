@@ -1037,10 +1037,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 27241,
+      "confirmed": 28257,
       "date": "2020-08-18",
-      "deaths": 107,
-      "recovered": 17495
+      "deaths": 114,
+      "recovered": 17580
     }
   },
   "Netherlands": {
@@ -1065,10 +1065,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 83226,
+      "confirmed": 83418,
       "date": "2020-08-18",
-      "deaths": 588,
-      "recovered": 77812
+      "deaths": 597,
+      "recovered": 77977
     }
   },
   "Pakistan": {
