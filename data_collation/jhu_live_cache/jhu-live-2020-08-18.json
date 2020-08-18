@@ -899,114 +899,114 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 15352,
+          "confirmed": 15379,
           "date": "2020-08-18",
-          "deaths": 2883,
-          "recovered": 11713
+          "deaths": 2896,
+          "recovered": 11803
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 86159,
+          "confirmed": 86619,
           "date": "2020-08-18",
-          "deaths": 9800,
-          "recovered": 70354
+          "deaths": 9845,
+          "recovered": 71275
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 17718,
+          "confirmed": 17884,
           "date": "2020-08-18",
-          "deaths": 1094,
-          "recovered": 14192
+          "deaths": 1100,
+          "recovered": 14510
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 26625,
+          "confirmed": 26948,
           "date": "2020-08-18",
-          "deaths": 1365,
-          "recovered": 22616
+          "deaths": 1375,
+          "recovered": 23090
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 16381,
+          "confirmed": 16593,
           "date": "2020-08-18",
-          "deaths": 2016,
-          "recovered": 12698
+          "deaths": 2036,
+          "recovered": 13022
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 61431,
+          "confirmed": 61620,
           "date": "2020-08-18",
-          "deaths": 7297,
-          "recovered": 50162
+          "deaths": 7319,
+          "recovered": 50751
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 23951,
+          "confirmed": 24120,
           "date": "2020-08-18",
-          "deaths": 1770,
-          "recovered": 19591
+          "deaths": 1775,
+          "recovered": 20005
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 24383,
+          "confirmed": 24487,
           "date": "2020-08-18",
-          "deaths": 3057,
-          "recovered": 19674
+          "deaths": 3082,
+          "recovered": 19922
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 14257,
+          "confirmed": 14496,
           "date": "2020-08-18",
-          "deaths": 852,
-          "recovered": 11735
+          "deaths": 857,
+          "recovered": 12103
         }
       },
       "Sinaloa": {
         "live": {
-          "confirmed": 14495,
+          "confirmed": 14521,
           "date": "2020-08-18",
-          "deaths": 2550,
-          "recovered": 11282
+          "deaths": 2555,
+          "recovered": 11379
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 19972,
+          "confirmed": 20003,
           "date": "2020-08-18",
-          "deaths": 2408,
-          "recovered": 16777
+          "deaths": 2411,
+          "recovered": 16904
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 25790,
+          "confirmed": 25961,
           "date": "2020-08-18",
-          "deaths": 2363,
-          "recovered": 22245
+          "deaths": 2377,
+          "recovered": 22498
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 20735,
+          "confirmed": 20842,
           "date": "2020-08-18",
-          "deaths": 1572,
-          "recovered": 17703
+          "deaths": 1575,
+          "recovered": 17818
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 25679,
+          "confirmed": 25928,
           "date": "2020-08-18",
-          "deaths": 3275,
-          "recovered": 20670
+          "deaths": 3282,
+          "recovered": 21007
         }
       }
     }
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 338228,
+          "confirmed": 338378,
           "date": "2020-08-18",
-          "deaths": 6566,
+          "deaths": 6569,
           "recovered": 0
         }
       },
