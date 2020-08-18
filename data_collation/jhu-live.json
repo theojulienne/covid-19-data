@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 41701,
+      "confirmed": 41846,
       "date": "2020-08-18",
-      "deaths": 824,
-      "recovered": 34655
+      "deaths": 832,
+      "recovered": 34982
     }
   },
   "Australia": {
@@ -38,7 +38,7 @@
           "confirmed": 17238,
           "date": "2020-08-18",
           "deaths": 351,
-          "recovered": 9023
+          "recovered": 9413
         }
       }
     }
@@ -350,7 +350,7 @@
           "confirmed": 42686,
           "date": "2020-08-18",
           "deaths": 2836,
-          "recovered": 38789
+          "recovered": 38792
         }
       },
       "Quebec": {
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 494633,
+          "confirmed": 498070,
           "date": "2020-08-18",
-          "deaths": 9482,
+          "deaths": 9518,
           "recovered": 0
         }
       },
