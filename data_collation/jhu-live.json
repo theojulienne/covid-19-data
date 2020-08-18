@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 299126,
       "date": "2020-08-18",
-      "deaths": 5814,
-      "recovered": 217850
+      "deaths": 5877,
+      "recovered": 223531
     }
   },
   "Armenia": {
@@ -53,17 +53,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 34343,
+      "confirmed": 34474,
       "date": "2020-08-18",
-      "deaths": 508,
-      "recovered": 32042
+      "deaths": 509,
+      "recovered": 32201
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 47185,
       "date": "2020-08-18",
-      "deaths": 174,
+      "deaths": 175,
       "recovered": 43529
     }
   },
@@ -347,18 +347,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42686,
+          "confirmed": 42731,
           "date": "2020-08-18",
-          "deaths": 2836,
-          "recovered": 38792
+          "deaths": 2837,
+          "recovered": 38819
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 61206,
+          "confirmed": 61252,
           "date": "2020-08-18",
-          "deaths": 5721,
-          "recovered": 53930
+          "deaths": 5727,
+          "recovered": 54083
         }
       }
     }
@@ -819,34 +819,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 30477,
+          "confirmed": 30498,
           "date": "2020-08-18",
-          "deaths": 4453,
-          "recovered": 24210
+          "deaths": 4454,
+          "recovered": 24255
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 97423,
+          "confirmed": 97473,
           "date": "2020-08-18",
           "deaths": 16840,
-          "recovered": 75248
+          "recovered": 75319
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 32100,
+          "confirmed": 32127,
           "date": "2020-08-18",
-          "deaths": 4140,
-          "recovered": 27086
+          "deaths": 4141,
+          "recovered": 27089
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 21256,
+          "confirmed": 21316,
           "date": "2020-08-18",
-          "deaths": 2096,
-          "recovered": 17526
+          "deaths": 2098,
+          "recovered": 17530
         }
       }
     }
@@ -1021,7 +1021,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 30377,
+      "confirmed": 30789,
       "date": "2020-08-18",
       "deaths": 908,
       "recovered": 21220
@@ -1201,10 +1201,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 54234,
+      "confirmed": 54448,
       "date": "2020-08-18",
-      "deaths": 1779,
-      "recovered": 39800
+      "deaths": 1784,
+      "recovered": 39936
     }
   },
   "Qatar": {
@@ -1320,7 +1320,7 @@
       "confirmed": 55938,
       "date": "2020-08-18",
       "deaths": 27,
-      "recovered": 52350
+      "recovered": 52533
     }
   },
   "South Africa": {
@@ -1335,31 +1335,31 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 20468,
+          "confirmed": 20918,
           "date": "2020-08-18",
-          "deaths": 1452,
+          "deaths": 1455,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 21847,
+          "confirmed": 22269,
           "date": "2020-08-18",
-          "deaths": 993,
+          "deaths": 994,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 17492,
+          "confirmed": 17881,
           "date": "2020-08-18",
-          "deaths": 1443,
+          "deaths": 1444,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 20214,
+          "confirmed": 20397,
           "date": "2020-08-18",
           "deaths": 3038,
           "recovered": 6392
@@ -1367,7 +1367,7 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 23132,
+          "confirmed": 23720,
           "date": "2020-08-18",
           "deaths": 2808,
           "recovered": 8716
@@ -1375,23 +1375,23 @@
       },
       "Catalonia": {
         "live": {
-          "confirmed": 94702,
+          "confirmed": 95123,
           "date": "2020-08-18",
-          "deaths": 5710,
+          "deaths": 5712,
           "recovered": 26203
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 93359,
+          "confirmed": 94978,
           "date": "2020-08-18",
-          "deaths": 8488,
+          "deaths": 8503,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 21915,
+          "confirmed": 22199,
           "date": "2020-08-18",
           "deaths": 1566,
           "recovered": 16160
@@ -1437,6 +1437,14 @@
   },
   "US": {
     "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 14198,
+          "date": "2020-08-18",
+          "deaths": 264,
+          "recovered": 0
+        }
+      },
       "Arizona": {
         "live": {
           "confirmed": 149305,
@@ -1463,9 +1471,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 396442,
+          "confirmed": 398771,
           "date": "2020-08-18",
-          "deaths": 6439,
+          "deaths": 6570,
           "recovered": 0
         }
       },
@@ -1487,9 +1495,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 16706,
+          "confirmed": 16869,
           "date": "2020-08-18",
-          "deaths": 735,
+          "deaths": 738,
           "recovered": 0
         }
       },
@@ -1503,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 58131,
+          "confirmed": 44015,
           "date": "2020-08-18",
-          "deaths": 2157,
+          "deaths": 1581,
           "recovered": 0
         }
       },
@@ -1527,7 +1535,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 20625,
+          "confirmed": 20722,
           "date": "2020-08-18",
           "deaths": 851,
           "recovered": 0
@@ -1535,9 +1543,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 16764,
+          "confirmed": 16968,
           "date": "2020-08-18",
-          "deaths": 701,
+          "deaths": 705,
           "recovered": 0
         }
       },
@@ -1659,15 +1667,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 275834,
+          "confirmed": 276809,
           "date": "2020-08-18",
-          "deaths": 36731,
+          "deaths": 36742,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 19358,
+          "confirmed": 19407,
           "date": "2020-08-18",
           "deaths": 2491,
           "recovered": 0
@@ -1675,7 +1683,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17575,
+          "confirmed": 17599,
           "date": "2020-08-18",
           "deaths": 1589,
           "recovered": 0

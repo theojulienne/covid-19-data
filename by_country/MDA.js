@@ -422,7 +422,8 @@ var covid19_dataset_country_mda = {
       29483,
       29905,
       30183,
-      30377
+      30377,
+      30789
     ],
     "deaths": [
       0,
