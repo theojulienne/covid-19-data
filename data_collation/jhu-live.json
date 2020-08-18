@@ -337,9 +337,9 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18582,
+      "confirmed": 18599,
       "date": "2020-08-18",
-      "deaths": 403,
+      "deaths": 406,
       "recovered": 16540
     }
   },
@@ -481,10 +481,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 17107,
+      "confirmed": 17150,
       "date": "2020-08-18",
       "deaths": 110,
-      "recovered": 13990
+      "recovered": 14183
     }
   },
   "Czechia": {
@@ -809,10 +809,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 96093,
+      "confirmed": 96409,
       "date": "2020-08-18",
-      "deaths": 705,
-      "recovered": 71971
+      "deaths": 708,
+      "recovered": 71990
     }
   },
   "Italy": {
@@ -867,7 +867,7 @@
     "live": {
       "confirmed": 103300,
       "date": "2020-08-18",
-      "deaths": 1269,
+      "deaths": 1415,
       "recovered": 84445
     }
   },
@@ -1024,7 +1024,7 @@
       "confirmed": 30789,
       "date": "2020-08-18",
       "deaths": 908,
-      "recovered": 21220
+      "recovered": 21885
     }
   },
   "Morocco": {
@@ -1325,10 +1325,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 589886,
+      "confirmed": 592144,
       "date": "2020-08-18",
-      "deaths": 11982,
-      "recovered": 477671
+      "deaths": 12264,
+      "recovered": 485468
     }
   },
   "Spain": {
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 338739,
+          "confirmed": 339909,
           "date": "2020-08-18",
-          "deaths": 6574,
+          "deaths": 6667,
           "recovered": 0
         }
       },
