@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 39444,
+      "confirmed": 39847,
       "date": "2020-08-19",
-      "deaths": 1391,
-      "recovered": 27653
+      "deaths": 1402,
+      "recovered": 27971
     }
   },
   "Argentina": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 69673,
+      "confirmed": 69801,
       "date": "2020-08-19",
-      "deaths": 617,
-      "recovered": 67339
+      "deaths": 622,
+      "recovered": 67647
     }
   },
   "Belgium": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42827,
+          "confirmed": 42843,
           "date": "2020-08-19",
           "deaths": 2837,
-          "recovered": 38907
+          "recovered": 38910
         }
       },
       "Quebec": {
@@ -367,34 +367,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 16970,
+          "confirmed": 17044,
           "date": "2020-08-19",
-          "deaths": 410,
-          "recovered": 15616
+          "deaths": 411,
+          "recovered": 15739
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 14363,
+          "confirmed": 14499,
           "date": "2020-08-19",
-          "deaths": 161,
-          "recovered": 12560
+          "deaths": 164,
+          "recovered": 12762
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 267000,
+          "confirmed": 267327,
           "date": "2020-08-19",
-          "deaths": 8160,
-          "recovered": 253707
+          "deaths": 8187,
+          "recovered": 254299
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 20549,
+          "confirmed": 20712,
           "date": "2020-08-19",
-          "deaths": 617,
-          "recovered": 18486
+          "deaths": 618,
+          "recovered": 18669
         }
       }
     }
@@ -555,7 +555,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 38971,
+          "confirmed": 39230,
           "date": "2020-08-19",
           "deaths": 1860,
           "recovered": 35704
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 63847,
+      "confirmed": 64881,
       "date": "2020-08-19",
-      "deaths": 2419,
-      "recovered": 52370
+      "deaths": 2467,
+      "recovered": 53362
     }
   },
   "Honduras": {
@@ -1029,10 +1029,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 44803,
+      "confirmed": 46313,
       "date": "2020-08-19",
-      "deaths": 714,
-      "recovered": 31002
+      "deaths": 743,
+      "recovered": 31576
     }
   },
   "Nepal": {
@@ -1447,9 +1447,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 149934,
+          "confirmed": 150431,
           "date": "2020-08-19",
-          "deaths": 3146,
+          "deaths": 3234,
           "recovered": 0
         }
       },
@@ -1487,9 +1487,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 117171,
+          "confirmed": 118012,
           "date": "2020-08-19",
-          "deaths": 4974,
+          "deaths": 4984,
           "recovered": 0
         }
       },
@@ -1503,7 +1503,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 15865,
+          "confirmed": 15905,
           "date": "2020-08-19",
           "deaths": 532,
           "recovered": 0
@@ -1537,7 +1537,7 @@
         "live": {
           "confirmed": 20853,
           "date": "2020-08-19",
-          "deaths": 851,
+          "deaths": 855,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 23318,
+          "confirmed": 23434,
           "date": "2020-08-19",
-          "deaths": 259,
+          "deaths": 262,
           "recovered": 0
         }
       },
@@ -1599,7 +1599,7 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 15644,
+          "confirmed": 16142,
           "date": "2020-08-19",
           "deaths": 0,
           "recovered": 0
