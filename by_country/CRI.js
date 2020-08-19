@@ -210,7 +210,8 @@ var covid19_dataset_country_cri = {
     "2020-08-16",
     "2020-08-17",
     "2020-08-18",
-    "2020-08-19"
+    "2020-08-19",
+    "2020-08-20"
   ],
   "total": {
     "confirmed": [
@@ -422,8 +423,7 @@ var covid19_dataset_country_cri = {
       26931,
       27737,
       28465,
-      29084,
-      29643
+      29084
     ],
     "deaths": [
       0,
@@ -634,8 +634,7 @@ var covid19_dataset_country_cri = {
       281,
       291,
       294,
-      304,
-      314
+      304
     ],
     "recovered": [
       0,
@@ -846,8 +845,7 @@ var covid19_dataset_country_cri = {
       8785,
       9010,
       9062,
-      9233,
-      9462
+      9233
     ]
   }
 };
