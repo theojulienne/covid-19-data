@@ -337,7 +337,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18599,
+      "confirmed": 18624,
       "date": "2020-08-19",
       "deaths": 406,
       "recovered": 16540
@@ -589,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 42993,
+      "confirmed": 43094,
       "date": "2020-08-19",
-      "deaths": 248,
-      "recovered": 40796
+      "deaths": 256,
+      "recovered": 40963
     }
   },
   "Guatemala": {
@@ -1527,9 +1527,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 46033,
+          "confirmed": 46311,
           "date": "2020-08-19",
-          "deaths": 3989,
+          "deaths": 3991,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 114273,
+          "confirmed": 114426,
           "date": "2020-08-19",
-          "deaths": 9667,
+          "deaths": 9666,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 47095,
+          "confirmed": 47422,
           "date": "2020-08-19",
-          "deaths": 571,
+          "deaths": 576,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 21951,
+          "confirmed": 22102,
           "date": "2020-08-19",
-          "deaths": 215,
+          "deaths": 217,
           "recovered": 0
         }
       },
