@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 23462,
+      "confirmed": 23717,
       "date": "2020-08-19",
-      "deaths": 625,
-      "recovered": 11205
+      "deaths": 633,
+      "recovered": 11388
     }
   },
   "Ethiopia": {
@@ -1217,10 +1217,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 72208,
+      "confirmed": 73617,
       "date": "2020-08-19",
-      "deaths": 3074,
-      "recovered": 33135
+      "deaths": 3106,
+      "recovered": 33566
     }
   },
   "Russia": {
@@ -1657,10 +1657,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 64906,
+      "confirmed": 65341,
       "date": "2020-08-19",
-      "deaths": 366,
-      "recovered": 57909
+      "deaths": 367,
+      "recovered": 58022
     }
   },
   "United Kingdom": {
