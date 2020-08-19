@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 282344,
+      "confirmed": 285091,
       "date": "2020-08-19",
-      "deaths": 3740,
-      "recovered": 162825
+      "deaths": 3781,
+      "recovered": 165738
     }
   },
   "Belarus": {
@@ -1037,10 +1037,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 28257,
+      "confirmed": 28938,
       "date": "2020-08-19",
-      "deaths": 114,
-      "recovered": 17580
+      "deaths": 120,
+      "recovered": 17700
     }
   },
   "Netherlands": {
@@ -1421,9 +1421,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 38449,
+      "confirmed": 38760,
       "date": "2020-08-19",
-      "deaths": 1992,
+      "deaths": 1996,
       "recovered": 33500
     }
   },
