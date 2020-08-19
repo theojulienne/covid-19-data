@@ -532,7 +532,7 @@
       "confirmed": 23462,
       "date": "2020-08-19",
       "deaths": 625,
-      "recovered": 11179
+      "recovered": 11205
     }
   },
   "Ethiopia": {
@@ -558,7 +558,7 @@
           "confirmed": 38971,
           "date": "2020-08-19",
           "deaths": 1860,
-          "recovered": 35613
+          "recovered": 35704
         }
       },
       "Bayern": {
@@ -566,7 +566,7 @@
           "confirmed": 53707,
           "date": "2020-08-19",
           "deaths": 2631,
-          "recovered": 48800
+          "recovered": 48867
         }
       },
       "Niedersachsen": {
@@ -574,7 +574,7 @@
           "confirmed": 15562,
           "date": "2020-08-19",
           "deaths": 656,
-          "recovered": 14000
+          "recovered": 14050
         }
       },
       "Nordrhein-Westfalen": {
@@ -809,10 +809,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 96409,
+      "confirmed": 96753,
       "date": "2020-08-19",
-      "deaths": 708,
-      "recovered": 71990
+      "deaths": 711,
+      "recovered": 72494
     }
   },
   "Italy": {
