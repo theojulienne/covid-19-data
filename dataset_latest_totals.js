@@ -983,19 +983,19 @@ var covid19_dataset_latest_totals = {
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 24508,
-        "deaths": 255,
-        "recovered": 7971
+        "confirmed": 25057,
+        "deaths": 263,
+        "recovered": 8189
       },
       "back_2week": {
-        "confirmed": 19837,
-        "deaths": 181,
-        "recovered": 6590
+        "confirmed": 20417,
+        "deaths": 191,
+        "recovered": 6851
       },
       "latest": {
-        "confirmed": 29643,
-        "deaths": 314,
-        "recovered": 9462
+        "confirmed": 30409,
+        "deaths": 321,
+        "recovered": 9660
       }
     },
     "CUB": {
