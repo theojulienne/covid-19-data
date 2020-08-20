@@ -367,34 +367,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 17044,
+          "confirmed": 17114,
           "date": "2020-08-20",
-          "deaths": 411,
-          "recovered": 15739
+          "deaths": 415,
+          "recovered": 15854
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 14499,
+          "confirmed": 14748,
           "date": "2020-08-20",
-          "deaths": 164,
-          "recovered": 12762
+          "deaths": 168,
+          "recovered": 12941
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 267327,
+          "confirmed": 267924,
           "date": "2020-08-20",
-          "deaths": 8187,
-          "recovered": 254299
+          "deaths": 8219,
+          "recovered": 254908
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 20712,
+          "confirmed": 20868,
           "date": "2020-08-20",
-          "deaths": 618,
-          "recovered": 18669
+          "deaths": 628,
+          "recovered": 18827
         }
       }
     }
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 88127,
+      "confirmed": 89010,
       "date": "2020-08-20",
-      "deaths": 1501,
-      "recovered": 56760
+      "deaths": 1505,
+      "recovered": 57734
     }
   },
   "Ecuador": {
@@ -819,34 +819,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 30574,
+          "confirmed": 30626,
           "date": "2020-08-20",
           "deaths": 4455,
-          "recovered": 24324
+          "recovered": 24355
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 97564,
+          "confirmed": 97718,
           "date": "2020-08-20",
-          "deaths": 16844,
-          "recovered": 75398
+          "deaths": 16846,
+          "recovered": 75449
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 32169,
+          "confirmed": 32221,
           "date": "2020-08-20",
           "deaths": 4142,
-          "recovered": 27096
+          "recovered": 27102
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 21375,
+          "confirmed": 21534,
           "date": "2020-08-20",
-          "deaths": 2099,
-          "recovered": 17615
+          "deaths": 2100,
+          "recovered": 17645
         }
       }
     }
@@ -1021,9 +1021,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 31415,
+      "confirmed": 31937,
       "date": "2020-08-20",
-      "deaths": 914,
+      "deaths": 921,
       "recovered": 21885
     }
   },
@@ -1320,7 +1320,7 @@
       "confirmed": 56099,
       "date": "2020-08-20",
       "deaths": 27,
-      "recovered": 52810
+      "recovered": 53119
     }
   },
   "South Africa": {
@@ -1439,9 +1439,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 14337,
+          "confirmed": 14419,
           "date": "2020-08-20",
-          "deaths": 272,
+          "deaths": 276,
           "recovered": 0
         }
       },
@@ -1471,9 +1471,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 401365,
+          "confirmed": 404133,
           "date": "2020-08-20",
-          "deaths": 6688,
+          "deaths": 6754,
           "recovered": 0
         }
       },
@@ -1667,15 +1667,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 277516,
+          "confirmed": 278551,
           "date": "2020-08-20",
-          "deaths": 36757,
+          "deaths": 36763,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 19457,
+          "confirmed": 19534,
           "date": "2020-08-20",
           "deaths": 2492,
           "recovered": 0
@@ -1683,7 +1683,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17620,
+          "confirmed": 17639,
           "date": "2020-08-20",
           "deaths": 1589,
           "recovered": 0
