@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 40455,
+        "confirmed": 40759,
         "deaths": 1478,
-        "recovered": 32734
+        "recovered": 32997
       },
       "back_2week": {
-        "confirmed": 37541,
+        "confirmed": 38110,
         "deaths": 1427,
-        "recovered": 28743
+        "recovered": 29513
       },
       "latest": {
-        "confirmed": 42146,
+        "confirmed": 42325,
         "deaths": 1498,
-        "recovered": 34855
+        "recovered": 35197
       }
     },
     "KHM": {
@@ -2950,18 +2950,18 @@
     "SLV": {
       "back_1week": {
         "confirmed": 21269,
-        "deaths": 570,
-        "recovered": 9875
+        "deaths": 577,
+        "recovered": 10056
       },
       "back_2week": {
         "confirmed": 18262,
-        "deaths": 486,
-        "recovered": 8954
+        "deaths": 498,
+        "recovered": 9111
       },
       "latest": {
         "confirmed": 23462,
-        "deaths": 625,
-        "recovered": 11179
+        "deaths": 633,
+        "recovered": 11388
       }
     },
     "SMR": {
