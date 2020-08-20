@@ -3388,7 +3388,7 @@
       "latest": {
         "confirmed": 5428684,
         "deaths": 163233,
-        "recovered": 1897244,
+        "recovered": 1888255,
         "tested": 67878304
       },
       "states": {
@@ -3662,7 +3662,7 @@
           "confirmed": 107672,
           "deaths": 2343,
           "hospitalized": 7146,
-          "recovered": 54194,
+          "recovered": 45205,
           "tested": 878481
         },
         "SD": {
