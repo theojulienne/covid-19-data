@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 312659,
       "date": "2020-08-20",
-      "deaths": 6330,
-      "recovered": 228725
+      "deaths": 6406,
+      "recovered": 233651
     }
   },
   "Armenia": {
@@ -589,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 43094,
+      "confirmed": 43260,
       "date": "2020-08-20",
-      "deaths": 256,
-      "recovered": 40963
+      "deaths": 261,
+      "recovered": 41276
     }
   },
   "Guatemala": {
@@ -793,10 +793,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 188802,
+      "confirmed": 192797,
       "date": "2020-08-20",
-      "deaths": 6121,
-      "recovered": 134369
+      "deaths": 6208,
+      "recovered": 137200
     }
   },
   "Ireland": {
@@ -1209,10 +1209,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 115956,
+      "confirmed": 116224,
       "date": "2020-08-20",
       "deaths": 193,
-      "recovered": 112658
+      "recovered": 112924
     }
   },
   "Romania": {
@@ -1511,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44129,
+          "confirmed": 44322,
           "date": "2020-08-20",
-          "deaths": 1583,
+          "deaths": 1586,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 17094,
+          "confirmed": 17294,
           "date": "2020-08-20",
-          "deaths": 705,
+          "deaths": 710,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17230,
+          "confirmed": 17330,
           "date": "2020-08-20",
-          "deaths": 538,
+          "deaths": 539,
           "recovered": 0
         }
       },
