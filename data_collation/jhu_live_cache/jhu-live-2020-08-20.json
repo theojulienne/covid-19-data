@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 14820,
+      "confirmed": 14962,
       "date": "2020-08-20",
-      "deaths": 527,
-      "recovered": 9931
+      "deaths": 532,
+      "recovered": 10087
     }
   },
   "Cameroon": {
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42973,
+          "confirmed": 42983,
           "date": "2020-08-20",
           "deaths": 2838,
           "recovered": 39035
@@ -1057,10 +1057,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 50488,
+      "confirmed": 50964,
       "date": "2020-08-20",
-      "deaths": 985,
-      "recovered": 37304
+      "deaths": 992,
+      "recovered": 37569
     }
   },
   "Oman": {
@@ -1527,9 +1527,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 46311,
+          "confirmed": 46507,
           "date": "2020-08-20",
-          "deaths": 3991,
+          "deaths": 3998,
           "recovered": 0
         }
       },
