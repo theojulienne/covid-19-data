@@ -425,7 +425,8 @@ var covid19_dataset_country_svk = {
       2855,
       2902,
       2907,
-      2922
+      2922,
+      3022
     ],
     "deaths": [
       0,
@@ -637,7 +638,8 @@ var covid19_dataset_country_svk = {
       31,
       31,
       31,
-      31
+      31,
+      33
     ],
     "recovered": [
       0,
@@ -849,7 +851,8 @@ var covid19_dataset_country_svk = {
       1969,
       1969,
       1969,
-      1980
+      1980,
+      1997
     ]
   }
 };
