@@ -589,18 +589,18 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 43260,
+      "confirmed": 43325,
       "date": "2020-08-21",
       "deaths": 261,
-      "recovered": 41276
+      "recovered": 41408
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 65983,
+      "confirmed": 66941,
       "date": "2020-08-21",
-      "deaths": 2506,
-      "recovered": 54351
+      "deaths": 2532,
+      "recovered": 55314
     }
   },
   "Honduras": {
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 513062,
+          "confirmed": 513316,
           "date": "2020-08-21",
-          "deaths": 9914,
+          "deaths": 9918,
           "recovered": 0
         }
       },
@@ -1471,9 +1471,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 93030,
+          "confirmed": 94040,
           "date": "2020-08-21",
-          "deaths": 1505,
+          "deaths": 1527,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 47671,
+          "confirmed": 48044,
           "date": "2020-08-21",
-          "deaths": 588,
+          "deaths": 605,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 22302,
+          "confirmed": 22483,
           "date": "2020-08-21",
-          "deaths": 220,
+          "deaths": 222,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 22778,
+          "confirmed": 22960,
           "date": "2020-08-21",
-          "deaths": 474,
+          "deaths": 475,
           "recovered": 0
         }
       }
@@ -1685,10 +1685,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 37946,
+      "confirmed": 38074,
       "date": "2020-08-21",
-      "deaths": 258,
-      "recovered": 33809
+      "deaths": 260,
+      "recovered": 33989
     }
   },
   "Venezuela": {
