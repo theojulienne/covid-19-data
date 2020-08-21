@@ -858,7 +858,7 @@ var covid19_dataset_country_kgz = {
       34855,
       35197,
       35486,
-      35801
+      35831
     ]
   }
 };

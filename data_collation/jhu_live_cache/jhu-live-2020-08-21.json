@@ -38,7 +38,7 @@
           "confirmed": 17852,
           "date": "2020-08-21",
           "deaths": 385,
-          "recovered": 12334
+          "recovered": 12940
         }
       }
     }
@@ -900,7 +900,7 @@
       "confirmed": 42703,
       "date": "2020-08-21",
       "deaths": 1498,
-      "recovered": 35801
+      "recovered": 35831
     }
   },
   "Mexico": {
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 511549,
+          "confirmed": 512021,
           "date": "2020-08-21",
-          "deaths": 9895,
+          "deaths": 9903,
           "recovered": 0
         }
       },
@@ -1693,9 +1693,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 37693,
+      "confirmed": 37825,
       "date": "2020-08-21",
-      "deaths": 254,
+      "deaths": 256,
       "recovered": 33442
     }
   },
