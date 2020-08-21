@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 17029,
+      "confirmed": 17396,
       "date": "2020-08-21",
-      "deaths": 515,
-      "recovered": 10881
+      "deaths": 526,
+      "recovered": 11157
     }
   },
   "Brazil": {
@@ -1037,10 +1037,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 29645,
+      "confirmed": 30483,
       "date": "2020-08-21",
-      "deaths": 126,
-      "recovered": 17964
+      "deaths": 137,
+      "recovered": 18214
     }
   },
   "Netherlands": {
@@ -1209,18 +1209,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 116224,
+      "confirmed": 116481,
       "date": "2020-08-21",
       "deaths": 193,
-      "recovered": 112924
+      "recovered": 113216
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 74963,
+      "confirmed": 76355,
       "date": "2020-08-21",
-      "deaths": 3154,
-      "recovered": 34196
+      "deaths": 3196,
+      "recovered": 34523
     }
   },
   "Russia": {
@@ -1421,7 +1421,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 39026,
+      "confirmed": 39332,
       "date": "2020-08-21",
       "deaths": 1998,
       "recovered": 33900
