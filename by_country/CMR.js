@@ -212,7 +212,8 @@ var covid19_dataset_country_cmr = {
     "2020-08-18",
     "2020-08-19",
     "2020-08-20",
-    "2020-08-21"
+    "2020-08-21",
+    "2020-08-22"
   ],
   "total": {
     "confirmed": [
@@ -426,8 +427,7 @@ var covid19_dataset_country_cmr = {
       18469,
       18582,
       18599,
-      18624,
-      18762
+      18624
     ],
     "deaths": [
       0,
@@ -640,8 +640,7 @@ var covid19_dataset_country_cmr = {
       401,
       403,
       406,
-      406,
-      408
+      406
     ],
     "recovered": [
       0,
