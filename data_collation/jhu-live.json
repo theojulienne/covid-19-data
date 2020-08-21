@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 242413,
+      "confirmed": 253198,
       "date": "2020-08-21",
-      "deaths": 30300,
-      "recovered": 71868
+      "deaths": 30351,
+      "recovered": 72445
     }
   },
   "Germany": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 54416,
+          "confirmed": 54494,
           "date": "2020-08-21",
           "deaths": 2632,
           "recovered": 49084
@@ -1201,10 +1201,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 54992,
+      "confirmed": 55211,
       "date": "2020-08-21",
-      "deaths": 1788,
-      "recovered": 40264
+      "deaths": 1792,
+      "recovered": 40473
     }
   },
   "Qatar": {
@@ -1301,17 +1301,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 303973,
+      "confirmed": 305186,
       "date": "2020-08-21",
-      "deaths": 3548,
-      "recovered": 275476
+      "deaths": 3580,
+      "recovered": 277067
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 30209,
+      "confirmed": 30378,
       "date": "2020-08-21",
-      "deaths": 689,
+      "deaths": 692,
       "recovered": 0
     }
   },
