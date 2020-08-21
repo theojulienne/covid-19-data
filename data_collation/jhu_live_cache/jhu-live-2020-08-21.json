@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 34759,
+      "confirmed": 34921,
       "date": "2020-08-21",
-      "deaths": 510,
-      "recovered": 32511
+      "deaths": 512,
+      "recovered": 32682
     }
   },
   "Bahrain": {
@@ -857,8 +857,8 @@
         "live": {
           "confirmed": 18875,
           "date": "2020-08-21",
-          "deaths": 347,
-          "recovered": 14812
+          "deaths": 350,
+          "recovered": 15109
         }
       }
     }
@@ -1021,9 +1021,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 31937,
+      "confirmed": 32484,
       "date": "2020-08-21",
-      "deaths": 921,
+      "deaths": 929,
       "recovered": 21885
     }
   },
@@ -1437,14 +1437,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 14419,
-          "date": "2020-08-21",
-          "deaths": 276,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 150939,
@@ -1511,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44322,
+          "confirmed": 58993,
           "date": "2020-08-21",
-          "deaths": 1586,
+          "deaths": 2171,
           "recovered": 0
         }
       },
@@ -1543,7 +1535,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 17294,
+          "confirmed": 17517,
           "date": "2020-08-21",
           "deaths": 710,
           "recovered": 0
@@ -1567,7 +1559,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 356339,
+          "confirmed": 356757,
           "date": "2020-08-21",
           "deaths": 29282,
           "recovered": 0
@@ -1631,7 +1623,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17330,
+          "confirmed": 17419,
           "date": "2020-08-21",
           "deaths": 539,
           "recovered": 0
@@ -1657,10 +1649,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 65802,
+      "confirmed": 66193,
       "date": "2020-08-21",
-      "deaths": 369,
-      "recovered": 58153
+      "deaths": 370,
+      "recovered": 58296
     }
   },
   "United Kingdom": {
@@ -1709,10 +1701,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 17989,
+      "confirmed": 18313,
       "date": "2020-08-21",
-      "deaths": 120,
-      "recovered": 10682
+      "deaths": 121,
+      "recovered": 11102
     }
   }
 }
