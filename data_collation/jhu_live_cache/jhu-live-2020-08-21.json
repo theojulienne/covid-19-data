@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 17862,
+          "confirmed": 17852,
           "date": "2020-08-21",
           "deaths": 385,
           "recovered": 12334
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 105050,
+      "confirmed": 106065,
       "date": "2020-08-21",
-      "deaths": 4233,
-      "recovered": 39965
+      "deaths": 4305,
+      "recovered": 41111
     }
   },
   "Bosnia and Herzegovina": {
@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 52298,
+      "confirmed": 52819,
       "date": "2020-08-21",
-      "deaths": 1608,
-      "recovered": 7867
+      "deaths": 1619,
+      "recovered": 8082
     }
   },
   "India": {
@@ -881,10 +881,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 16346,
+      "confirmed": 16670,
       "date": "2020-08-21",
-      "deaths": 307,
-      "recovered": 14063
+      "deaths": 309,
+      "recovered": 14120
     }
   },
   "Kuwait": {
@@ -1335,7 +1335,7 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 22107,
+          "confirmed": 21508,
           "date": "2020-08-21",
           "deaths": 1456,
           "recovered": 10671
@@ -1343,23 +1343,23 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 23251,
+          "confirmed": 22901,
           "date": "2020-08-21",
-          "deaths": 1096,
+          "deaths": 1094,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 18647,
+          "confirmed": 18172,
           "date": "2020-08-21",
-          "deaths": 1446,
+          "deaths": 1447,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 20828,
+          "confirmed": 20615,
           "date": "2020-08-21",
           "deaths": 3038,
           "recovered": 6392
@@ -1367,31 +1367,31 @@
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 24400,
+          "confirmed": 24012,
           "date": "2020-08-21",
-          "deaths": 2810,
+          "deaths": 2808,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 97234,
+          "confirmed": 96139,
           "date": "2020-08-21",
-          "deaths": 5722,
+          "deaths": 5718,
           "recovered": 26203
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 99529,
+          "confirmed": 97185,
           "date": "2020-08-21",
-          "deaths": 8526,
+          "deaths": 8518,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 23228,
+          "confirmed": 22674,
           "date": "2020-08-21",
           "deaths": 1566,
           "recovered": 16160
@@ -1701,10 +1701,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 36868,
+      "confirmed": 37567,
       "date": "2020-08-21",
-      "deaths": 303,
-      "recovered": 25416
+      "deaths": 311,
+      "recovered": 26330
     }
   },
   "West Bank and Gaza": {
