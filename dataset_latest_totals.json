@@ -1165,19 +1165,19 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 97110,
-        "deaths": 5984,
-        "recovered": 78887
+        "confirmed": 98343,
+        "deaths": 6010,
+        "recovered": 78957
       },
       "back_2week": {
-        "confirmed": 88866,
-        "deaths": 5847,
-        "recovered": 71168
+        "confirmed": 90537,
+        "deaths": 5877,
+        "recovered": 71318
       },
       "latest": {
-        "confirmed": 104475,
-        "deaths": 6146,
-        "recovered": 87277
+        "confirmed": 105508,
+        "deaths": 6200,
+        "recovered": 87660
       }
     },
     "EGY": {
@@ -3272,19 +3272,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 244392,
-        "deaths": 5891,
-        "recovered": 227089
+        "confirmed": 245635,
+        "deaths": 5912,
+        "recovered": 228057
       },
       "back_2week": {
-        "confirmed": 236112,
-        "deaths": 5784,
-        "recovered": 219506
+        "confirmed": 237265,
+        "deaths": 5798,
+        "recovered": 220546
       },
       "latest": {
-        "confirmed": 253108,
-        "deaths": 6039,
-        "recovered": 233915
+        "confirmed": 254520,
+        "deaths": 6058,
+        "recovered": 234797
       }
     },
     "TWN": {
