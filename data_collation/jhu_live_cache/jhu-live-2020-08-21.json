@@ -481,10 +481,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 17249,
+      "confirmed": 17310,
       "date": "2020-08-21",
       "deaths": 112,
-      "recovered": 14611
+      "recovered": 14820
     }
   },
   "Czechia": {
@@ -545,7 +545,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 257705,
+      "confirmed": 257628,
       "date": "2020-08-21",
       "deaths": 30374,
       "recovered": 72597
@@ -1325,10 +1325,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 599940,
+      "confirmed": 603338,
       "date": "2020-08-21",
-      "deaths": 12618,
-      "recovered": 497169
+      "deaths": 12843,
+      "recovered": 500102
     }
   },
   "Spain": {
@@ -1439,7 +1439,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 150939,
+          "confirmed": 151339,
           "date": "2020-08-21",
           "deaths": 3277,
           "recovered": 0
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 513688,
+          "confirmed": 514499,
           "date": "2020-08-21",
-          "deaths": 9944,
+          "deaths": 9949,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 348582,
+          "confirmed": 350513,
           "date": "2020-08-21",
-          "deaths": 6995,
+          "deaths": 7087,
           "recovered": 0
         }
       },
