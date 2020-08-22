@@ -624,7 +624,7 @@
         },
         "Ontario": {
           "confirmed": 43126,
-          "deaths": 2838
+          "deaths": 2841
         },
         "Prince Edward Island": {
           "confirmed": 44,
@@ -1182,19 +1182,19 @@
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 96108,
-        "deaths": 5107,
-        "recovered": 56890
+        "confirmed": 96220,
+        "deaths": 5124,
+        "recovered": 57858
       },
       "back_2week": {
-        "confirmed": 95006,
-        "deaths": 4951,
-        "recovered": 48898
+        "confirmed": 95147,
+        "deaths": 4971,
+        "recovered": 50553
       },
       "latest": {
-        "confirmed": 97025,
-        "deaths": 5212,
-        "recovered": 63462
+        "confirmed": 97148,
+        "deaths": 5231,
+        "recovered": 64318
       }
     },
     "ERI": {
