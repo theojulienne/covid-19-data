@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 48661,
+      "confirmed": 49038,
       "date": "2020-08-22",
       "deaths": 183,
-      "recovered": 45166
+      "recovered": 45589
     }
   },
   "Bangladesh": {
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 518140,
+          "confirmed": 518857,
           "date": "2020-08-22",
-          "deaths": 10093,
+          "deaths": 10107,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 351764,
+          "confirmed": 353175,
           "date": "2020-08-22",
-          "deaths": 7123,
+          "deaths": 7208,
           "recovered": 0
         }
       },
@@ -1703,7 +1703,7 @@
     "live": {
       "confirmed": 18476,
       "date": "2020-08-22",
-      "deaths": 124,
+      "deaths": 125,
       "recovered": 11103
     }
   }
