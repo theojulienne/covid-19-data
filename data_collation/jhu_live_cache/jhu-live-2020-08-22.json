@@ -38,7 +38,7 @@
           "confirmed": 18029,
           "date": "2020-08-22",
           "deaths": 398,
-          "recovered": 12940
+          "recovered": 13239
         }
       }
     }
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 24200,
+      "confirmed": 24420,
       "date": "2020-08-22",
-      "deaths": 646,
-      "recovered": 11781
+      "deaths": 654,
+      "recovered": 12021
     }
   },
   "Ethiopia": {
@@ -897,10 +897,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 42703,
+      "confirmed": 42889,
       "date": "2020-08-22",
       "deaths": 1055,
-      "recovered": 35831
+      "recovered": 36056
     }
   },
   "Mexico": {
@@ -1693,9 +1693,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 38074,
+      "confirmed": 38231,
       "date": "2020-08-22",
-      "deaths": 260,
+      "deaths": 262,
       "recovered": 33989
     }
   },
