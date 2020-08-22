@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 52819,
+      "confirmed": 53381,
       "date": "2020-08-22",
-      "deaths": 1619,
-      "recovered": 8082
+      "deaths": 1632,
+      "recovered": 8271
     }
   },
   "India": {
@@ -899,7 +899,7 @@
     "live": {
       "confirmed": 42703,
       "date": "2020-08-22",
-      "deaths": 1054,
+      "deaths": 1055,
       "recovered": 35831
     }
   },
@@ -1447,7 +1447,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 516601,
+          "confirmed": 516363,
           "date": "2020-08-22",
           "deaths": 10006,
           "recovered": 0
