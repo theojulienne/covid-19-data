@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 54817,
+          "confirmed": 54843,
           "date": "2020-08-22",
           "deaths": 2633,
           "recovered": 49182
@@ -1047,9 +1047,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 17517,
+          "confirmed": 17708,
           "date": "2020-08-22",
-          "deaths": 1335,
+          "deaths": 1337,
           "recovered": 0
         }
       }
@@ -1709,7 +1709,7 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 18313,
+      "confirmed": 18476,
       "date": "2020-08-22",
       "deaths": 122,
       "recovered": 11102
