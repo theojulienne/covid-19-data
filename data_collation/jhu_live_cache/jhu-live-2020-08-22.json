@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 48661,
       "date": "2020-08-22",
-      "deaths": 181,
+      "deaths": 183,
       "recovered": 45166
     }
   },
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 17396,
+      "confirmed": 17715,
       "date": "2020-08-22",
-      "deaths": 526,
-      "recovered": 11157
+      "deaths": 532,
+      "recovered": 11329
     }
   },
   "Brazil": {
@@ -873,10 +873,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 31763,
+      "confirmed": 32118,
       "date": "2020-08-22",
-      "deaths": 532,
-      "recovered": 18157
+      "deaths": 542,
+      "recovered": 18453
     }
   },
   "Korea, South": {
@@ -889,10 +889,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 79269,
+      "confirmed": 79957,
       "date": "2020-08-22",
-      "deaths": 511,
-      "recovered": 71264
+      "deaths": 513,
+      "recovered": 71770
     }
   },
   "Kyrgyzstan": {
@@ -1021,9 +1021,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 32484,
+      "confirmed": 33072,
       "date": "2020-08-22",
-      "deaths": 929,
+      "deaths": 935,
       "recovered": 22683
     }
   },
@@ -1119,65 +1119,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 16149,
+          "confirmed": 16365,
           "date": "2020-08-22",
-          "deaths": 1116,
+          "deaths": 1120,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 25851,
+          "confirmed": 26777,
           "date": "2020-08-22",
-          "deaths": 1039,
+          "deaths": 1056,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 25322,
+          "confirmed": 25566,
           "date": "2020-08-22",
-          "deaths": 1493,
+          "deaths": 1506,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 17624,
+          "confirmed": 17829,
           "date": "2020-08-22",
-          "deaths": 1391,
+          "deaths": 1405,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 20045,
+          "confirmed": 20369,
           "date": "2020-08-22",
-          "deaths": 1969,
+          "deaths": 1980,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 20433,
+          "confirmed": 20749,
           "date": "2020-08-22",
-          "deaths": 1559,
+          "deaths": 1562,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 278823,
+          "confirmed": 282022,
           "date": "2020-08-22",
-          "deaths": 11911,
+          "deaths": 12018,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 25312,
+          "confirmed": 25620,
           "date": "2020-08-22",
-          "deaths": 1765,
+          "deaths": 1772,
           "recovered": 0
         }
       }
@@ -1201,18 +1201,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 55211,
+      "confirmed": 55452,
       "date": "2020-08-22",
-      "deaths": 1792,
-      "recovered": 40473
+      "deaths": 1794,
+      "recovered": 40652
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 116481,
+      "confirmed": 116765,
       "date": "2020-08-22",
       "deaths": 193,
-      "recovered": 113216
+      "recovered": 113531
     }
   },
   "Romania": {
@@ -1437,14 +1437,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 14538,
-          "date": "2020-08-22",
-          "deaths": 279,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 151339,
@@ -1511,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44522,
+          "confirmed": 59313,
           "date": "2020-08-22",
-          "deaths": 1587,
+          "deaths": 2177,
           "recovered": 0
         }
       },
@@ -1696,7 +1688,7 @@
       "confirmed": 38412,
       "date": "2020-08-22",
       "deaths": 265,
-      "recovered": 33989
+      "recovered": 34351
     }
   },
   "Venezuela": {
