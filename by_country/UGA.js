@@ -431,7 +431,8 @@ var covid19_dataset_country_uga = {
       1603,
       1656,
       1750,
-      1848
+      1848,
+      2166
     ],
     "deaths": [
       0,
@@ -646,7 +647,8 @@ var covid19_dataset_country_uga = {
       15,
       16,
       19,
-      19
+      19,
+      20
     ],
     "recovered": [
       0,
@@ -861,6 +863,7 @@ var covid19_dataset_country_uga = {
       1165,
       1188,
       1194,
+      1199,
       1199
     ]
   }

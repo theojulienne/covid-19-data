@@ -431,7 +431,8 @@ var covid19_dataset_country_mli = {
       2666,
       2667,
       2667,
-      2688
+      2688,
+      2699
     ],
     "deaths": [
       0,
@@ -632,6 +633,7 @@ var covid19_dataset_country_mli = {
       124,
       124,
       124,
+      125,
       125,
       125,
       125,
@@ -861,7 +863,8 @@ var covid19_dataset_country_mli = {
       1990,
       1993,
       1993,
-      2007
+      2007,
+      2010
     ]
   }
 };

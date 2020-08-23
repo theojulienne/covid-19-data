@@ -431,7 +431,8 @@ var covid19_dataset_country_zmb = {
       9981,
       10218,
       10372,
-      10627
+      10627,
+      10831
     ],
     "deaths": [
       0,
@@ -646,7 +647,8 @@ var covid19_dataset_country_zmb = {
       264,
       269,
       274,
-      277
+      277,
+      279
     ],
     "recovered": [
       0,
@@ -861,7 +863,8 @@ var covid19_dataset_country_zmb = {
       8776,
       9126,
       9126,
-      9126
+      9126,
+      9942
     ]
   }
 };
