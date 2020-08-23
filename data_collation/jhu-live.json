@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 35105,
+      "confirmed": 35274,
       "date": "2020-08-23",
-      "deaths": 515,
-      "recovered": 32842
+      "deaths": 518,
+      "recovered": 32993
     }
   },
   "Bahrain": {
@@ -1309,17 +1309,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 306370,
+      "confirmed": 307479,
       "date": "2020-08-23",
-      "deaths": 3619,
-      "recovered": 278441
+      "deaths": 3649,
+      "recovered": 280143
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 30548,
+      "confirmed": 30657,
       "date": "2020-08-23",
-      "deaths": 695,
+      "deaths": 698,
       "recovered": 0
     }
   },
