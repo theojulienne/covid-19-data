@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 37953,
+      "confirmed": 37999,
       "date": "2020-08-23",
-      "deaths": 1385,
-      "recovered": 28016
+      "deaths": 1387,
+      "recovered": 28180
     }
   },
   "Algeria": {
@@ -38,7 +38,7 @@
           "confirmed": 18231,
           "date": "2020-08-23",
           "deaths": 415,
-          "recovered": 13239
+          "recovered": 13708
         }
       }
     }
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 24420,
       "date": "2020-08-23",
-      "deaths": 654,
-      "recovered": 12021
+      "deaths": 661,
+      "recovered": 12032
     }
   },
   "Ethiopia": {
@@ -563,15 +563,23 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 54843,
+          "confirmed": 54858,
           "date": "2020-08-23",
           "deaths": 2633,
           "recovered": 49182
         }
       },
+      "Hessen": {
+        "live": {
+          "confirmed": 14587,
+          "date": "2020-08-23",
+          "deaths": 528,
+          "recovered": 12262
+        }
+      },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16038,
+          "confirmed": 16055,
           "date": "2020-08-23",
           "deaths": 659,
           "recovered": 14281
@@ -579,9 +587,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 56599,
+          "confirmed": 56784,
           "date": "2020-08-23",
-          "deaths": 1797,
+          "deaths": 1798,
           "recovered": 50411
         }
       }
@@ -589,10 +597,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 43325,
+      "confirmed": 43505,
       "date": "2020-08-23",
       "deaths": 261,
-      "recovered": 41408
+      "recovered": 41532
     }
   },
   "Guatemala": {
@@ -855,7 +863,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 19131,
+          "confirmed": 19343,
           "date": "2020-08-23",
           "deaths": 350,
           "recovered": 15409
@@ -897,10 +905,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 42889,
+      "confirmed": 43023,
       "date": "2020-08-23",
-      "deaths": 1055,
-      "recovered": 36056
+      "deaths": 1056,
+      "recovered": 36397
     }
   },
   "Mexico": {
@@ -1503,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 59313,
+          "confirmed": 44728,
           "date": "2020-08-23",
-          "deaths": 2177,
+          "deaths": 1591,
           "recovered": 0
         }
       },
@@ -1685,9 +1693,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 38532,
+      "confirmed": 38698,
       "date": "2020-08-23",
-      "deaths": 267,
+      "deaths": 269,
       "recovered": 34576
     }
   },
