@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 15227,
+      "confirmed": 15287,
       "date": "2020-08-23",
       "deaths": 545,
-      "recovered": 10322
+      "recovered": 10338
     }
   },
   "Cameroon": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43308,
+          "confirmed": 43321,
           "date": "2020-08-23",
           "deaths": 2842,
-          "recovered": 39318
+          "recovered": 39319
         }
       },
       "Quebec": {
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 97237,
+      "confirmed": 97340,
       "date": "2020-08-23",
-      "deaths": 5243,
-      "recovered": 65118
+      "deaths": 5262,
+      "recovered": 65927
     }
   },
   "El Salvador": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 260781,
+      "confirmed": 265678,
       "date": "2020-08-23",
-      "deaths": 30381,
-      "recovered": 72600
+      "deaths": 30382,
+      "recovered": 72623
     }
   },
   "Germany": {
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 67856,
+      "confirmed": 68188,
       "date": "2020-08-23",
-      "deaths": 2580,
-      "recovered": 56277
+      "deaths": 2594,
+      "recovered": 56778
     }
   },
   "Honduras": {
@@ -1424,7 +1424,7 @@
       "confirmed": 39903,
       "date": "2020-08-23",
       "deaths": 2001,
-      "recovered": 34100
+      "recovered": 34400
     }
   },
   "Turkey": {
@@ -1447,9 +1447,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 523426,
+          "confirmed": 524263,
           "date": "2020-08-23",
-          "deaths": 10165,
+          "deaths": 10173,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 353175,
+          "confirmed": 355964,
           "date": "2020-08-23",
-          "deaths": 7208,
+          "deaths": 7250,
           "recovered": 0
         }
       },
@@ -1693,10 +1693,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 38957,
+      "confirmed": 39564,
       "date": "2020-08-23",
-      "deaths": 323,
-      "recovered": 28453
+      "deaths": 329,
+      "recovered": 29966
     }
   },
   "West Bank and Gaza": {
