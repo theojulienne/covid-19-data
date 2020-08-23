@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 42616,
+      "confirmed": 42792,
       "date": "2020-08-23",
-      "deaths": 850,
-      "recovered": 35907
+      "deaths": 852,
+      "recovered": 35991
     }
   },
   "Australia": {
