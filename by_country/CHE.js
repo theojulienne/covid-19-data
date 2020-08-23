@@ -649,7 +649,8 @@ var covid19_dataset_country_che = {
       1996,
       1998,
       2000,
-      2000
+      2000,
+      2001
     ],
     "recovered": [
       0,
