@@ -558,7 +558,7 @@
           "confirmed": 40034,
           "date": "2020-08-23",
           "deaths": 1863,
-          "recovered": 35934
+          "recovered": 35997
         }
       },
       "Bayern": {
@@ -566,7 +566,7 @@
           "confirmed": 54858,
           "date": "2020-08-23",
           "deaths": 2633,
-          "recovered": 49182
+          "recovered": 49267
         }
       },
       "Hessen": {
@@ -574,7 +574,7 @@
           "confirmed": 14587,
           "date": "2020-08-23",
           "deaths": 528,
-          "recovered": 12262
+          "recovered": 12311
         }
       },
       "Niedersachsen": {
@@ -582,7 +582,7 @@
           "confirmed": 16079,
           "date": "2020-08-23",
           "deaths": 660,
-          "recovered": 14281
+          "recovered": 14311
         }
       },
       "Nordrhein-Westfalen": {
