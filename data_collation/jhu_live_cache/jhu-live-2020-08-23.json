@@ -347,18 +347,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43243,
+          "confirmed": 43281,
           "date": "2020-08-23",
           "deaths": 2842,
-          "recovered": 39277
+          "recovered": 39291
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 61599,
+          "confirmed": 61673,
           "date": "2020-08-23",
-          "deaths": 5739,
-          "recovered": 54576
+          "deaths": 5740,
+          "recovered": 54682
         }
       }
     }
@@ -537,10 +537,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 39033,
+      "confirmed": 40671,
       "date": "2020-08-23",
-      "deaths": 662,
-      "recovered": 14480
+      "deaths": 678,
+      "recovered": 14995
     }
   },
   "France": {
@@ -801,7 +801,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 27908,
+      "confirmed": 27969,
       "date": "2020-08-23",
       "deaths": 1777,
       "recovered": 23364
@@ -809,10 +809,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 102150,
+      "confirmed": 102380,
       "date": "2020-08-23",
-      "deaths": 825,
-      "recovered": 79303
+      "deaths": 834,
+      "recovered": 79501
     }
   },
   "Italy": {
@@ -1029,10 +1029,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 50812,
+      "confirmed": 52349,
       "date": "2020-08-23",
-      "deaths": 858,
-      "recovered": 35040
+      "deaths": 888,
+      "recovered": 36343
     }
   },
   "Nepal": {
@@ -1119,65 +1119,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 16365,
+          "confirmed": 16626,
           "date": "2020-08-23",
-          "deaths": 1120,
+          "deaths": 1124,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 26777,
+          "confirmed": 28061,
           "date": "2020-08-23",
-          "deaths": 1056,
+          "deaths": 1068,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 25566,
+          "confirmed": 25816,
           "date": "2020-08-23",
-          "deaths": 1506,
+          "deaths": 1512,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 17829,
+          "confirmed": 18083,
           "date": "2020-08-23",
-          "deaths": 1405,
+          "deaths": 1411,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 20369,
+          "confirmed": 20588,
           "date": "2020-08-23",
-          "deaths": 1980,
+          "deaths": 1987,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 20749,
+          "confirmed": 20932,
           "date": "2020-08-23",
-          "deaths": 1562,
+          "deaths": 1568,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 282022,
+          "confirmed": 285149,
           "date": "2020-08-23",
-          "deaths": 12018,
+          "deaths": 12100,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 25620,
+          "confirmed": 25969,
           "date": "2020-08-23",
-          "deaths": 1772,
+          "deaths": 1778,
           "recovered": 0
         }
       }
@@ -1439,9 +1439,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 152131,
+          "confirmed": 152262,
           "date": "2020-08-23",
-          "deaths": 3327,
+          "deaths": 3341,
           "recovered": 0
         }
       },
@@ -1479,9 +1479,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 120567,
+          "confirmed": 121308,
           "date": "2020-08-23",
-          "deaths": 5008,
+          "deaths": 5013,
           "recovered": 0
         }
       },
@@ -1495,7 +1495,7 @@
       },
       "Louisiana": {
         "live": {
-          "confirmed": 16006,
+          "confirmed": 16131,
           "date": "2020-08-23",
           "deaths": 537,
           "recovered": 0
@@ -1529,7 +1529,7 @@
         "live": {
           "confirmed": 21670,
           "date": "2020-08-23",
-          "deaths": 865,
+          "deaths": 866,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 56010,
+          "confirmed": 56464,
           "date": "2020-08-23",
           "deaths": 1027,
           "recovered": 0
