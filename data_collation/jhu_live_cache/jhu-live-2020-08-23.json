@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 70285,
+      "confirmed": 70468,
       "date": "2020-08-23",
-      "deaths": 637,
-      "recovered": 68577
+      "deaths": 642,
+      "recovered": 68839
     }
   },
   "Belgium": {
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 24420,
+      "confirmed": 24622,
       "date": "2020-08-23",
       "deaths": 661,
-      "recovered": 12032
+      "recovered": 12246
     }
   },
   "Ethiopia": {
@@ -567,14 +567,6 @@
           "date": "2020-08-23",
           "deaths": 2633,
           "recovered": 49267
-        }
-      },
-      "Hessen": {
-        "live": {
-          "confirmed": 14587,
-          "date": "2020-08-23",
-          "deaths": 528,
-          "recovered": 12311
         }
       },
       "Niedersachsen": {
@@ -793,10 +785,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 356792,
+      "confirmed": 358905,
       "date": "2020-08-23",
-      "deaths": 20502,
-      "recovered": 307702
+      "deaths": 20643,
+      "recovered": 309464
     }
   },
   "Iraq": {
@@ -881,10 +873,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 32118,
+      "confirmed": 32364,
       "date": "2020-08-23",
-      "deaths": 542,
-      "recovered": 18453
+      "deaths": 548,
+      "recovered": 18670
     }
   },
   "Korea, South": {
@@ -1209,10 +1201,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 55452,
+      "confirmed": 55597,
       "date": "2020-08-23",
-      "deaths": 1794,
-      "recovered": 40652
+      "deaths": 1796,
+      "recovered": 40774
     }
   },
   "Qatar": {
@@ -1511,9 +1503,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44728,
+          "confirmed": 59587,
           "date": "2020-08-23",
-          "deaths": 1591,
+          "deaths": 2181,
           "recovered": 0
         }
       },
@@ -1631,9 +1623,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17531,
+          "confirmed": 17647,
           "date": "2020-08-23",
-          "deaths": 539,
+          "deaths": 542,
           "recovered": 0
         }
       },
@@ -1693,10 +1685,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 38698,
+      "confirmed": 38870,
       "date": "2020-08-23",
-      "deaths": 269,
-      "recovered": 34576
+      "deaths": 271,
+      "recovered": 34894
     }
   },
   "Venezuela": {
