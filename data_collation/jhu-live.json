@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 108427,
+      "confirmed": 109149,
       "date": "2020-08-24",
-      "deaths": 4442,
-      "recovered": 43887
+      "deaths": 4509,
+      "recovered": 45396
     }
   },
   "Bosnia and Herzegovina": {
@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43321,
+          "confirmed": 43323,
           "date": "2020-08-24",
           "deaths": 2842,
           "recovered": 39319
@@ -1447,7 +1447,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 524598,
+          "confirmed": 524275,
           "date": "2020-08-24",
           "deaths": 10173,
           "recovered": 0
