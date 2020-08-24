@@ -631,8 +631,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 61599,
-          "deaths": 5739
+          "confirmed": 61673,
+          "deaths": 5740
         },
         "Saskatchewan": {
           "confirmed": 1597,
@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 19891,
-        "deaths": 395,
-        "recovered": 13763
+        "confirmed": 20012,
+        "deaths": 397,
+        "recovered": 13799
       },
       "back_2week": {
-        "confirmed": 18235,
-        "deaths": 389,
-        "recovered": 12764
+        "confirmed": 18353,
+        "deaths": 390,
+        "recovered": 12785
       },
       "latest": {
-        "confirmed": 21790,
-        "deaths": 411,
-        "recovered": 16087
+        "confirmed": 21923,
+        "deaths": 412,
+        "recovered": 16125
       }
     },
     "DEU": {
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 239345,
+        "confirmed": 239306,
         "deaths": 30279,
         "recovered": 71971
       },
       "back_2week": {
-        "confirmed": 222408,
+        "confirmed": 222402,
         "deaths": 30202,
         "recovered": 71585
       },
       "latest": {
-        "confirmed": 260873,
-        "deaths": 30381,
-        "recovered": 72600
+        "confirmed": 265550,
+        "deaths": 30382,
+        "recovered": 72623
       },
       "states": {
         "French Guiana": {
@@ -2917,17 +2917,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 55747,
         "deaths": 27,
-        "recovered": 51521
+        "recovered": 51953
       },
       "back_2week": {
         "confirmed": 55104,
         "deaths": 27,
-        "recovered": 48583
+        "recovered": 48915
       },
       "latest": {
         "confirmed": 56353,
         "deaths": 27,
-        "recovered": 53920
+        "recovered": 54164
       }
     },
     "SLE": {
