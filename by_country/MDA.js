@@ -215,7 +215,8 @@ var covid19_dataset_country_mda = {
     "2020-08-21",
     "2020-08-22",
     "2020-08-23",
-    "2020-08-24"
+    "2020-08-24",
+    "2020-08-25"
   ],
   "total": {
     "confirmed": [
@@ -432,8 +433,7 @@ var covid19_dataset_country_mda = {
       31415,
       31937,
       32484,
-      33072,
-      33478
+      33072
     ],
     "deaths": [
       0,
@@ -649,8 +649,7 @@ var covid19_dataset_country_mda = {
       914,
       921,
       929,
-      935,
-      940
+      935
     ],
     "recovered": [
       0,
