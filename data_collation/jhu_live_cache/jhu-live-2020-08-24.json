@@ -38,7 +38,7 @@
           "confirmed": 18330,
           "date": "2020-08-24",
           "deaths": 430,
-          "recovered": 13708
+          "recovered": 14077
         }
       }
     }
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 24622,
       "date": "2020-08-24",
-      "deaths": 661,
-      "recovered": 12246
+      "deaths": 669,
+      "recovered": 12276
     }
   },
   "Ethiopia": {
@@ -555,31 +555,31 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 40034,
+          "confirmed": 40173,
           "date": "2020-08-24",
           "deaths": 1863,
-          "recovered": 35997
+          "recovered": 36103
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 54858,
+          "confirmed": 55061,
           "date": "2020-08-24",
-          "deaths": 2633,
-          "recovered": 49267
+          "deaths": 2634,
+          "recovered": 49444
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16079,
+          "confirmed": 16096,
           "date": "2020-08-24",
           "deaths": 660,
-          "recovered": 14311
+          "recovered": 14376
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 56784,
+          "confirmed": 56916,
           "date": "2020-08-24",
           "deaths": 1798,
           "recovered": 50411
@@ -1455,7 +1455,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 524275,
+          "confirmed": 524823,
           "date": "2020-08-24",
           "deaths": 10173,
           "recovered": 0
@@ -1693,9 +1693,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 38946,
+      "confirmed": 39065,
       "date": "2020-08-24",
-      "deaths": 273,
+      "deaths": 275,
       "recovered": 34987
     }
   },
