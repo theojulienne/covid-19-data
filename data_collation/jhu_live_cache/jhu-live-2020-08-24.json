@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 342154,
       "date": "2020-08-24",
-      "deaths": 6985,
-      "recovered": 251400
+      "deaths": 7079,
+      "recovered": 256789
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 35274,
+      "confirmed": 35426,
       "date": "2020-08-24",
-      "deaths": 518,
-      "recovered": 32993
+      "deaths": 519,
+      "recovered": 33104
     }
   },
   "Bahrain": {
@@ -1029,9 +1029,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 33478,
+      "confirmed": 33828,
       "date": "2020-08-24",
-      "deaths": 940,
+      "deaths": 945,
       "recovered": 22683
     }
   },
@@ -1511,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 44894,
+          "confirmed": 45077,
           "date": "2020-08-24",
-          "deaths": 1593,
+          "deaths": 1595,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 17872,
+          "confirmed": 17975,
           "date": "2020-08-24",
           "deaths": 713,
           "recovered": 0
