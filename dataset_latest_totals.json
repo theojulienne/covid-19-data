@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 38133,
-        "deaths": 1360,
-        "recovered": 26644
+        "confirmed": 38583,
+        "deaths": 1370,
+        "recovered": 27017
       },
       "back_2week": {
-        "confirmed": 34693,
-        "deaths": 1293,
-        "recovered": 24083
+        "confirmed": 35160,
+        "deaths": 1302,
+        "recovered": 24506
       },
       "latest": {
-        "confirmed": 41068,
-        "deaths": 1424,
-        "recovered": 28874
+        "confirmed": 41460,
+        "deaths": 1435,
+        "recovered": 29142
       }
     },
     "ECU": {
@@ -1267,19 +1267,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 28894,
-        "deaths": 509,
-        "recovered": 12037
+        "confirmed": 29876,
+        "deaths": 528,
+        "recovered": 12359
       },
       "back_2week": {
-        "confirmed": 22253,
-        "deaths": 390,
-        "recovered": 9707
+        "confirmed": 22818,
+        "deaths": 407,
+        "recovered": 10206
       },
       "latest": {
-        "confirmed": 39033,
-        "deaths": 662,
-        "recovered": 14480
+        "confirmed": 40671,
+        "deaths": 678,
+        "recovered": 14995
       }
     },
     "FIN": {
@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 27191,
+        "confirmed": 27257,
         "deaths": 1774,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 26644,
+        "confirmed": 26712,
         "deaths": 1772,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 27908,
+        "confirmed": 27969,
         "deaths": 1777,
         "recovered": 23364
       }
@@ -3386,10 +3386,10 @@
         "tested": 60710202
       },
       "latest": {
-        "confirmed": 5608255,
-        "deaths": 167886,
-        "recovered": 1984406,
-        "tested": 70690400
+        "confirmed": 5608408,
+        "deaths": 167891,
+        "recovered": 1984415,
+        "tested": 70694672
       },
       "states": {
         "AK": {
@@ -3652,11 +3652,11 @@
           "tested": 1540553
         },
         "RI": {
-          "confirmed": 21022,
-          "deaths": 1030,
-          "hospitalized": 2438,
-          "recovered": 2031,
-          "tested": 245854
+          "confirmed": 21175,
+          "deaths": 1035,
+          "hospitalized": 2455,
+          "recovered": 2040,
+          "tested": 250126
         },
         "SC": {
           "confirmed": 111295,

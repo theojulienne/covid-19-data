@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 41460,
+      "confirmed": 41858,
       "date": "2020-08-24",
-      "deaths": 1435,
-      "recovered": 29142
+      "deaths": 1446,
+      "recovered": 29369
     }
   },
   "Argentina": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43373,
+          "confirmed": 43406,
           "date": "2020-08-24",
           "deaths": 2843,
-          "recovered": 39380
+          "recovered": 39403
         }
       },
       "Quebec": {
@@ -537,10 +537,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 40671,
+      "confirmed": 42143,
       "date": "2020-08-24",
-      "deaths": 678,
-      "recovered": 14995
+      "deaths": 692,
+      "recovered": 15262
     }
   },
   "France": {
@@ -809,7 +809,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 27969,
+      "confirmed": 28116,
       "date": "2020-08-24",
       "deaths": 1777,
       "recovered": 23364
@@ -1455,7 +1455,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 525042,
+          "confirmed": 526372,
           "date": "2020-08-24",
           "deaths": 10174,
           "recovered": 0
@@ -1551,9 +1551,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 56464,
+          "confirmed": 56796,
           "date": "2020-08-24",
-          "deaths": 1027,
+          "deaths": 1028,
           "recovered": 0
         }
       },
@@ -1583,15 +1583,15 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 35489,
+          "confirmed": 35691,
           "date": "2020-08-24",
-          "deaths": 1105,
+          "deaths": 1106,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 32936,
+          "confirmed": 33054,
           "date": "2020-08-24",
           "deaths": 1736,
           "recovered": 0
@@ -1711,7 +1711,7 @@
     "live": {
       "confirmed": 19213,
       "date": "2020-08-24",
-      "deaths": 130,
+      "deaths": 133,
       "recovered": 11870
     }
   }
