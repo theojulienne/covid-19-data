@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 70468,
+      "confirmed": 70645,
       "date": "2020-08-24",
-      "deaths": 642,
-      "recovered": 68839
+      "deaths": 646,
+      "recovered": 68925
     }
   },
   "Belgium": {
@@ -1045,10 +1045,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 31935,
+      "confirmed": 32678,
       "date": "2020-08-24",
-      "deaths": 149,
-      "recovered": 18631
+      "deaths": 157,
+      "recovered": 18806
     }
   },
   "Netherlands": {
@@ -1217,10 +1217,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 117008,
+      "confirmed": 117266,
       "date": "2020-08-24",
-      "deaths": 193,
-      "recovered": 113808
+      "deaths": 194,
+      "recovered": 114099
     }
   },
   "Romania": {
@@ -1657,10 +1657,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 67007,
+      "confirmed": 67282,
       "date": "2020-08-24",
-      "deaths": 375,
-      "recovered": 58488
+      "deaths": 376,
+      "recovered": 58582
     }
   },
   "United Kingdom": {
@@ -1709,10 +1709,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 18802,
+      "confirmed": 19213,
       "date": "2020-08-24",
-      "deaths": 128,
-      "recovered": 11843
+      "deaths": 130,
+      "recovered": 11870
     }
   }
 }
