@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 37999,
+      "confirmed": 38054,
       "date": "2020-08-24",
-      "deaths": 1387,
-      "recovered": 28180
+      "deaths": 1389,
+      "recovered": 28360
     }
   },
   "Algeria": {
@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 25253,
+      "confirmed": 25495,
       "date": "2020-08-24",
-      "deaths": 732,
-      "recovered": 21558
+      "deaths": 733,
+      "recovered": 21657
     }
   },
   "Azerbaijan": {
@@ -785,10 +785,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 153535,
+      "confirmed": 155412,
       "date": "2020-08-24",
-      "deaths": 6680,
-      "recovered": 107500
+      "deaths": 6759,
+      "recovered": 111060
     }
   },
   "Iran": {
@@ -1201,10 +1201,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 61762,
+      "confirmed": 62310,
       "date": "2020-08-24",
-      "deaths": 1955,
-      "recovered": 42183
+      "deaths": 1960,
+      "recovered": 42448
     }
   },
   "Portugal": {
