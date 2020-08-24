@@ -130,7 +130,7 @@
           "confirmed": 41120,
           "date": "2020-08-24",
           "deaths": 631,
-          "recovered": 29240
+          "recovered": 29450
         }
       },
       "Amazonas": {
@@ -282,7 +282,7 @@
           "confirmed": 51421,
           "date": "2020-08-24",
           "deaths": 1065,
-          "recovered": 42634
+          "recovered": 42800
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 70472,
           "date": "2020-08-24",
           "deaths": 1782,
-          "recovered": 59036
+          "recovered": 59691
         }
       },
       "Tocantins": {
@@ -817,10 +817,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 102663,
+      "confirmed": 103151,
       "date": "2020-08-24",
       "deaths": 834,
-      "recovered": 79514
+      "recovered": 80511
     }
   },
   "Italy": {
@@ -905,10 +905,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 43023,
+      "confirmed": 43126,
       "date": "2020-08-24",
-      "deaths": 1056,
-      "recovered": 36397
+      "deaths": 1057,
+      "recovered": 36615
     }
   },
   "Mexico": {
