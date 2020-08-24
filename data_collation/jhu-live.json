@@ -473,10 +473,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 33820,
+      "confirmed": 34463,
       "date": "2020-08-24",
-      "deaths": 355,
-      "recovered": 10518
+      "deaths": 362,
+      "recovered": 12758
     }
   },
   "Cote d'Ivoire": {
@@ -1455,7 +1455,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 526434,
+          "confirmed": 526787,
           "date": "2020-08-24",
           "deaths": 10176,
           "recovered": 0
@@ -1463,7 +1463,7 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 18434,
+          "confirmed": 18605,
           "date": "2020-08-24",
           "deaths": 1411,
           "recovered": 0
@@ -1519,9 +1519,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 63860,
+          "confirmed": 64240,
           "date": "2020-08-24",
-          "deaths": 4351,
+          "deaths": 4368,
           "recovered": 0
         }
       },
