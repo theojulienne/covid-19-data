@@ -337,9 +337,9 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18762,
+      "confirmed": 18973,
       "date": "2020-08-25",
-      "deaths": 408,
+      "deaths": 410,
       "recovered": 16540
     }
   },
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 91608,
+      "confirmed": 92217,
       "date": "2020-08-25",
-      "deaths": 1573,
-      "recovered": 61558
+      "deaths": 1585,
+      "recovered": 62460
     }
   },
   "Ecuador": {
@@ -537,10 +537,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 42143,
+      "confirmed": 43688,
       "date": "2020-08-25",
-      "deaths": 692,
-      "recovered": 15262
+      "deaths": 709,
+      "recovered": 15796
     }
   },
   "France": {
@@ -809,7 +809,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 28116,
+      "confirmed": 28201,
       "date": "2020-08-25",
       "deaths": 1777,
       "recovered": 23364
@@ -1037,10 +1037,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 53252,
+      "confirmed": 54528,
       "date": "2020-08-25",
-      "deaths": 920,
-      "recovered": 37478
+      "deaths": 955,
+      "recovered": 38293
     }
   },
   "Nepal": {
@@ -1455,7 +1455,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 529008,
+          "confirmed": 529874,
           "date": "2020-08-25",
           "deaths": 10248,
           "recovered": 0
@@ -1495,9 +1495,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 17593,
+          "confirmed": 17690,
           "date": "2020-08-25",
-          "deaths": 743,
+          "deaths": 745,
           "recovered": 0
         }
       },
@@ -1583,7 +1583,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 35691,
+          "confirmed": 35882,
           "date": "2020-08-25",
           "deaths": 1106,
           "recovered": 0
@@ -1591,7 +1591,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 33054,
+          "confirmed": 33139,
           "date": "2020-08-25",
           "deaths": 1736,
           "recovered": 0
