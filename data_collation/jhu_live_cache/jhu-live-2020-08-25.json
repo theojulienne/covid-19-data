@@ -473,10 +473,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 34463,
+      "confirmed": 35305,
       "date": "2020-08-25",
-      "deaths": 362,
-      "recovered": 12758
+      "deaths": 376,
+      "recovered": 13072
     }
   },
   "Cote d'Ivoire": {
@@ -817,10 +817,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 106245,
+      "confirmed": 106460,
       "date": "2020-08-25",
-      "deaths": 858,
-      "recovered": 83810
+      "deaths": 859,
+      "recovered": 83822
     }
   },
   "Italy": {
@@ -1333,10 +1333,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 611450,
+      "confirmed": 613017,
       "date": "2020-08-25",
-      "deaths": 13159,
-      "recovered": 516494
+      "deaths": 13308,
+      "recovered": 520381
     }
   },
   "Spain": {
@@ -1455,17 +1455,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 530166,
+          "confirmed": 530501,
           "date": "2020-08-25",
-          "deaths": 10254,
+          "deaths": 10269,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 18605,
+          "confirmed": 18622,
           "date": "2020-08-25",
-          "deaths": 1411,
+          "deaths": 1412,
           "recovered": 0
         }
       },
@@ -1519,17 +1519,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 64240,
+          "confirmed": 64452,
           "date": "2020-08-25",
-          "deaths": 4368,
+          "deaths": 4373,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 47524,
+          "confirmed": 47792,
           "date": "2020-08-25",
-          "deaths": 4012,
+          "deaths": 4018,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 22883,
+          "confirmed": 23029,
           "date": "2020-08-25",
-          "deaths": 224,
+          "deaths": 226,
           "recovered": 0
         }
       },
