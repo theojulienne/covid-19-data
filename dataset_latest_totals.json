@@ -70,19 +70,19 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 64312,
+        "confirmed": 64541,
         "deaths": 364,
-        "recovered": 57694
+        "recovered": 57794
       },
       "back_2week": {
-        "confirmed": 62525,
+        "confirmed": 62704,
         "deaths": 357,
-        "recovered": 56568
+        "recovered": 56766
       },
       "latest": {
-        "confirmed": 67007,
-        "deaths": 375,
-        "recovered": 58488
+        "confirmed": 67282,
+        "deaths": 376,
+        "recovered": 58582
       }
     },
     "ARG": {
@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 124004,
+        "confirmed": 124218,
         "deaths": 9074,
         "recovered": 110202
       },
       "back_2week": {
-        "confirmed": 121367,
+        "confirmed": 122053,
         "deaths": 9028,
         "recovered": 105420
       },
       "latest": {
-        "confirmed": 126817,
+        "confirmed": 127594,
         "deaths": 9119,
         "recovered": 112836
       },
@@ -623,7 +623,7 @@
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 43323,
+          "confirmed": 43454,
           "deaths": 2842
         },
         "Prince Edward Island": {
@@ -1915,19 +1915,19 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 30120,
-        "deaths": 474,
-        "recovered": 16656
+        "confirmed": 30365,
+        "deaths": 482,
+        "recovered": 17160
       },
       "back_2week": {
-        "confirmed": 26436,
-        "deaths": 420,
-        "recovered": 12961
+        "confirmed": 26928,
+        "deaths": 423,
+        "recovered": 13495
       },
       "latest": {
-        "confirmed": 32364,
-        "deaths": 548,
-        "recovered": 18670
+        "confirmed": 32557,
+        "deaths": 554,
+        "recovered": 18895
       }
     },
     "KGZ": {
