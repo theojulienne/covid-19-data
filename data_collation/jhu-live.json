@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38054,
+      "confirmed": 38070,
       "date": "2020-08-25",
-      "deaths": 1389,
-      "recovered": 28360
+      "deaths": 1397,
+      "recovered": 28440
     }
   },
   "Algeria": {
@@ -38,7 +38,7 @@
           "confirmed": 18464,
           "date": "2020-08-25",
           "deaths": 438,
-          "recovered": 14077
+          "recovered": 14288
         }
       }
     }
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 24811,
       "date": "2020-08-25",
-      "deaths": 669,
-      "recovered": 12492
+      "deaths": 678,
+      "recovered": 12506
     }
   },
   "Ethiopia": {
@@ -558,30 +558,30 @@
           "confirmed": 40360,
           "date": "2020-08-25",
           "deaths": 1863,
-          "recovered": 36103
+          "recovered": 36212
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 55156,
+          "confirmed": 55414,
           "date": "2020-08-25",
           "deaths": 2634,
-          "recovered": 49444
+          "recovered": 49624
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16096,
+          "confirmed": 16191,
           "date": "2020-08-25",
-          "deaths": 660,
-          "recovered": 14376
+          "deaths": 661,
+          "recovered": 14458
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 56916,
+          "confirmed": 57213,
           "date": "2020-08-25",
-          "deaths": 1798,
+          "deaths": 1802,
           "recovered": 50411
         }
       }
@@ -905,10 +905,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 43204,
+      "confirmed": 43245,
       "date": "2020-08-25",
       "deaths": 1057,
-      "recovered": 36820
+      "recovered": 36925
     }
   },
   "Mexico": {
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 528964,
+          "confirmed": 529008,
           "date": "2020-08-25",
-          "deaths": 10246,
+          "deaths": 10248,
           "recovered": 0
         }
       },
