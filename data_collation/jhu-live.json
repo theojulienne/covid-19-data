@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 35426,
+      "confirmed": 35559,
       "date": "2020-08-25",
-      "deaths": 519,
-      "recovered": 33104
+      "deaths": 521,
+      "recovered": 33190
     }
   },
   "Bahrain": {
@@ -875,7 +875,7 @@
     "live": {
       "confirmed": 104902,
       "date": "2020-08-25",
-      "deaths": 1415,
+      "deaths": 1523,
       "recovered": 93405
     }
   },
@@ -1045,10 +1045,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 32678,
+      "confirmed": 33533,
       "date": "2020-08-25",
-      "deaths": 157,
-      "recovered": 18806
+      "deaths": 164,
+      "recovered": 19119
     }
   },
   "Netherlands": {
@@ -1309,17 +1309,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 308654,
+      "confirmed": 309768,
       "date": "2020-08-25",
-      "deaths": 3691,
-      "recovered": 282888
+      "deaths": 3722,
+      "recovered": 283932
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 30714,
+      "confirmed": 30820,
       "date": "2020-08-25",
-      "deaths": 701,
+      "deaths": 705,
       "recovered": 0
     }
   },
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 359593,
+          "confirmed": 359661,
           "date": "2020-08-25",
-          "deaths": 7305,
+          "deaths": 7308,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17729,
+          "confirmed": 17784,
           "date": "2020-08-25",
-          "deaths": 543,
+          "deaths": 547,
           "recovered": 0
         }
       },
@@ -1709,10 +1709,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 19213,
+      "confirmed": 19678,
       "date": "2020-08-25",
       "deaths": 133,
-      "recovered": 11870
+      "recovered": 13162
     }
   }
 }
