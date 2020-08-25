@@ -9,9 +9,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 41858,
+      "confirmed": 42228,
       "date": "2020-08-25",
-      "deaths": 1446,
+      "deaths": 1456,
       "recovered": 29369
     }
   },
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 529874,
+          "confirmed": 530166,
           "date": "2020-08-25",
-          "deaths": 10248,
+          "deaths": 10254,
           "recovered": 0
         }
       },
@@ -1479,9 +1479,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 95703,
+          "confirmed": 96117,
           "date": "2020-08-25",
-          "deaths": 1557,
+          "deaths": 1581,
           "recovered": 0
         }
       },
@@ -1607,15 +1607,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 48792,
+          "confirmed": 48993,
           "date": "2020-08-25",
-          "deaths": 615,
+          "deaths": 619,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 359661,
+          "confirmed": 360298,
           "date": "2020-08-25",
           "deaths": 7308,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 23281,
+          "confirmed": 23396,
           "date": "2020-08-25",
-          "deaths": 479,
+          "deaths": 482,
           "recovered": 0
         }
       }
@@ -1667,15 +1667,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 282215,
+          "confirmed": 283280,
           "date": "2020-08-25",
-          "deaths": 36789,
+          "deaths": 36805,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 19877,
+          "confirmed": 19921,
           "date": "2020-08-25",
           "deaths": 2492,
           "recovered": 0
@@ -1683,7 +1683,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17746,
+          "confirmed": 17774,
           "date": "2020-08-25",
           "deaths": 1593,
           "recovered": 0
