@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 92680,
+        "confirmed": 94751,
         "deaths": 685,
-        "recovered": 68510
+        "recovered": 70291
       },
       "back_2week": {
-        "confirmed": 83002,
+        "confirmed": 84722,
         "deaths": 600,
-        "recovered": 57533
+        "recovered": 58998
       },
       "latest": {
-        "confirmed": 102663,
+        "confirmed": 104472,
         "deaths": 834,
-        "recovered": 79514
+        "recovered": 81642
       }
     },
     "ITA": {
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 41856,
+        "confirmed": 41991,
         "deaths": 1495,
-        "recovered": 34276
+        "recovered": 34537
       },
       "back_2week": {
-        "confirmed": 39919,
+        "confirmed": 40085,
         "deaths": 1468,
-        "recovered": 31822
+        "recovered": 32126
       },
       "latest": {
-        "confirmed": 43023,
+        "confirmed": 43126,
         "deaths": 1056,
-        "recovered": 36397
+        "recovered": 36615
       }
     },
     "KHM": {
