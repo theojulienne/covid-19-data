@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 18029,
+      "confirmed": 18326,
       "date": "2020-08-25",
-      "deaths": 547,
-      "recovered": 11861
+      "deaths": 560,
+      "recovered": 12081
     }
   },
   "Brazil": {
@@ -1429,7 +1429,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 40060,
+      "confirmed": 40262,
       "date": "2020-08-25",
       "deaths": 2001,
       "recovered": 34400
