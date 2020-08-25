@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 42825,
+      "confirmed": 42936,
       "date": "2020-08-25",
-      "deaths": 854,
-      "recovered": 36049
+      "deaths": 858,
+      "recovered": 36475
     }
   },
   "Australia": {
@@ -863,7 +863,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 19438,
+          "confirmed": 19620,
           "date": "2020-08-25",
           "deaths": 352,
           "recovered": 15726
@@ -1693,9 +1693,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 39348,
+      "confirmed": 39506,
       "date": "2020-08-25",
-      "deaths": 280,
+      "deaths": 282,
       "recovered": 35551
     }
   },
