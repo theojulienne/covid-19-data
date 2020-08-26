@@ -615,10 +615,10 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 361712,
+          "confirmed": 371639,
           "date": "2020-08-26",
-          "deaths": 3368,
-          "recovered": 268828
+          "deaths": 3460,
+          "recovered": 278247
         }
       },
       "Assam": {
@@ -905,10 +905,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 43245,
+      "confirmed": 43358,
       "date": "2020-08-26",
       "deaths": 1057,
-      "recovered": 36925
+      "recovered": 37217
     }
   },
   "Mexico": {
@@ -1083,34 +1083,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15531,
+          "confirmed": 15546,
           "date": "2020-08-26",
           "deaths": 175,
-          "recovered": 14684
+          "recovered": 14792
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 35796,
+          "confirmed": 35831,
           "date": "2020-08-26",
           "deaths": 1248,
-          "recovered": 33426
+          "recovered": 33449
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 96391,
+          "confirmed": 96466,
           "date": "2020-08-26",
-          "deaths": 2192,
-          "recovered": 92289
+          "deaths": 2193,
+          "recovered": 92301
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 128456,
+          "confirmed": 128676,
           "date": "2020-08-26",
-          "deaths": 2373,
-          "recovered": 122181
+          "deaths": 2384,
+          "recovered": 122461
         }
       }
     }
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 532745,
+          "confirmed": 533186,
           "date": "2020-08-26",
-          "deaths": 10356,
+          "deaths": 10367,
           "recovered": 0
         }
       },
@@ -1693,10 +1693,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 39641,
+      "confirmed": 39664,
       "date": "2020-08-26",
-      "deaths": 284,
-      "recovered": 35869
+      "deaths": 287,
+      "recovered": 35983
     }
   },
   "Venezuela": {
