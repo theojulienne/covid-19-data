@@ -85,7 +85,7 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 82092,
+      "confirmed": 82447,
       "date": "2020-08-26",
       "deaths": 9996,
       "recovered": 18242
@@ -138,7 +138,7 @@
           "confirmed": 116579,
           "date": "2020-08-26",
           "deaths": 3588,
-          "recovered": 98233
+          "recovered": 98916
         }
       },
       "Bahia": {
@@ -186,7 +186,7 @@
           "confirmed": 145921,
           "date": "2020-08-26",
           "deaths": 3377,
-          "recovered": 133466
+          "recovered": 134479
         }
       },
       "Mato Grosso": {
@@ -298,7 +298,7 @@
           "confirmed": 135690,
           "date": "2020-08-26",
           "deaths": 2116,
-          "recovered": 123449
+          "recovered": 125392
         }
       },
       "Sao Paulo": {
@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 55479,
+      "confirmed": 55877,
       "date": "2020-08-26",
-      "deaths": 1683,
-      "recovered": 8556
+      "deaths": 1703,
+      "recovered": 9124
     }
   },
   "India": {
@@ -873,10 +873,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 104902,
+      "confirmed": 105075,
       "date": "2020-08-26",
       "deaths": 1523,
-      "recovered": 93405
+      "recovered": 93990
     }
   },
   "Kenya": {
