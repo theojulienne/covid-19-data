@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 124218,
+        "confirmed": 125084,
         "deaths": 9075,
         "recovered": 110433
       },
       "back_2week": {
-        "confirmed": 122053,
+        "confirmed": 122389,
         "deaths": 9034,
         "recovered": 108050
       },
       "latest": {
-        "confirmed": 127594,
+        "confirmed": 127903,
         "deaths": 9129,
         "recovered": 113449
       },
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 43454,
+          "confirmed": 43541,
           "deaths": 2843
         },
         "Prince Edward Island": {
@@ -1915,19 +1915,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 30365,
-        "deaths": 482,
-        "recovered": 17160
+        "confirmed": 30636,
+        "deaths": 487,
+        "recovered": 17368
       },
       "back_2week": {
-        "confirmed": 26928,
-        "deaths": 423,
-        "recovered": 13495
+        "confirmed": 27425,
+        "deaths": 438,
+        "recovered": 13867
       },
       "latest": {
-        "confirmed": 32557,
-        "deaths": 554,
-        "recovered": 18895
+        "confirmed": 32803,
+        "deaths": 559,
+        "recovered": 19055
       }
     },
     "KGZ": {
@@ -2221,19 +2221,19 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 30377,
+        "confirmed": 30789,
         "deaths": 908,
-        "recovered": 21220
+        "recovered": 21885
       },
       "back_2week": {
-        "confirmed": 27841,
-        "deaths": 850,
-        "recovered": 19300
+        "confirmed": 28223,
+        "deaths": 857,
+        "recovered": 19740
       },
       "latest": {
-        "confirmed": 33828,
-        "deaths": 945,
-        "recovered": 23570
+        "confirmed": 34358,
+        "deaths": 960,
+        "recovered": 23869
       }
     },
     "MDG": {
