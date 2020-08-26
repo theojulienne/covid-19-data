@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 42228,
+      "confirmed": 42619,
       "date": "2020-08-26",
-      "deaths": 1456,
-      "recovered": 29587
+      "deaths": 1465,
+      "recovered": 29886
     }
   },
   "Argentina": {
@@ -350,7 +350,7 @@
           "confirmed": 43610,
           "date": "2020-08-26",
           "deaths": 2847,
-          "recovered": 39581
+          "recovered": 39582
         }
       },
       "Quebec": {
@@ -1479,9 +1479,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 96117,
+          "confirmed": 96505,
           "date": "2020-08-26",
-          "deaths": 1581,
+          "deaths": 1595,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 47792,
+          "confirmed": 48174,
           "date": "2020-08-26",
-          "deaths": 4018,
+          "deaths": 4020,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 48993,
+          "confirmed": 49390,
           "date": "2020-08-26",
-          "deaths": 619,
+          "deaths": 624,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 23396,
+          "confirmed": 23514,
           "date": "2020-08-26",
-          "deaths": 482,
+          "deaths": 485,
           "recovered": 0
         }
       }
