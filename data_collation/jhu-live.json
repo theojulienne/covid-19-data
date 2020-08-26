@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 50076,
+      "confirmed": 50393,
       "date": "2020-08-26",
       "deaths": 186,
-      "recovered": 46673
+      "recovered": 47049
     }
   },
   "Bangladesh": {
@@ -87,7 +87,7 @@
     "live": {
       "confirmed": 82447,
       "date": "2020-08-26",
-      "deaths": 9996,
+      "deaths": 9878,
       "recovered": 18291
     }
   },
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43610,
+          "confirmed": 43655,
           "date": "2020-08-26",
-          "deaths": 2847,
-          "recovered": 39582
+          "deaths": 2848,
+          "recovered": 39620
         }
       },
       "Quebec": {
@@ -481,10 +481,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 17562,
+      "confirmed": 17603,
       "date": "2020-08-26",
       "deaths": 114,
-      "recovered": 15908
+      "recovered": 15941
     }
   },
   "Czechia": {
@@ -589,18 +589,18 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 43717,
+      "confirmed": 43769,
       "date": "2020-08-26",
       "deaths": 270,
-      "recovered": 41843
+      "recovered": 42048
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 69651,
+      "confirmed": 70714,
       "date": "2020-08-26",
-      "deaths": 2630,
-      "recovered": 57891
+      "deaths": 2662,
+      "recovered": 58783
     }
   },
   "Honduras": {
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 534859,
+          "confirmed": 534978,
           "date": "2020-08-26",
-          "deaths": 10395,
+          "deaths": 10402,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 363869,
+          "confirmed": 364775,
           "date": "2020-08-26",
           "deaths": 7429,
           "recovered": 0
@@ -1711,7 +1711,7 @@
     "live": {
       "confirmed": 20155,
       "date": "2020-08-26",
-      "deaths": 135,
+      "deaths": 137,
       "recovered": 13929
     }
   }
