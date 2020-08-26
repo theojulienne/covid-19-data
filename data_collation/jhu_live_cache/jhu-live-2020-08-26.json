@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 359638,
       "date": "2020-08-26",
-      "deaths": 7563,
-      "recovered": 263202
+      "deaths": 7661,
+      "recovered": 268801
     }
   },
   "Armenia": {
@@ -865,8 +865,8 @@
         "live": {
           "confirmed": 19856,
           "date": "2020-08-26",
-          "deaths": 354,
-          "recovered": 16027
+          "deaths": 356,
+          "recovered": 16361
         }
       }
     }
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 30820,
+      "confirmed": 30974,
       "date": "2020-08-26",
-      "deaths": 705,
+      "deaths": 707,
       "recovered": 0
     }
   },
@@ -1511,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45247,
+          "confirmed": 45351,
           "date": "2020-08-26",
-          "deaths": 1595,
+          "deaths": 1599,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 18210,
+          "confirmed": 18334,
           "date": "2020-08-26",
-          "deaths": 720,
+          "deaths": 721,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17784,
+          "confirmed": 17878,
           "date": "2020-08-26",
-          "deaths": 547,
+          "deaths": 549,
           "recovered": 0
         }
       },
