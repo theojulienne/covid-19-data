@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 279144,
-        "deaths": 3694,
-        "recovered": 160591
+        "confirmed": 282344,
+        "deaths": 3740,
+        "recovered": 162825
       },
       "back_2week": {
-        "confirmed": 260507,
-        "deaths": 3438,
-        "recovered": 150437
+        "confirmed": 263503,
+        "deaths": 3471,
+        "recovered": 151972
       },
       "latest": {
-        "confirmed": 297083,
-        "deaths": 3983,
-        "recovered": 182875
+        "confirmed": 299628,
+        "deaths": 4028,
+        "recovered": 186756
       }
     },
     "BGR": {
@@ -1762,19 +1762,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 345450,
-        "deaths": 19804,
-        "recovered": 299157
+        "confirmed": 347835,
+        "deaths": 19972,
+        "recovered": 300881
       },
       "back_2week": {
-        "confirmed": 328844,
-        "deaths": 18616,
-        "recovered": 286642
+        "confirmed": 331189,
+        "deaths": 18800,
+        "recovered": 288620
       },
       "latest": {
-        "confirmed": 361150,
-        "deaths": 20776,
-        "recovered": 311365
+        "confirmed": 363363,
+        "deaths": 20901,
+        "recovered": 313058
       }
     },
     "IRQ": {
@@ -2813,19 +2813,19 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 71194,
-        "deaths": 3029,
-        "recovered": 32759
+        "confirmed": 72208,
+        "deaths": 3074,
+        "recovered": 33135
       },
       "back_2week": {
-        "confirmed": 62547,
-        "deaths": 2729,
-        "recovered": 30311
+        "confirmed": 63762,
+        "deaths": 2764,
+        "recovered": 30585
       },
       "latest": {
-        "confirmed": 79330,
-        "deaths": 3309,
-        "recovered": 35517
+        "confirmed": 80390,
+        "deaths": 3367,
+        "recovered": 35816
       }
     },
     "RUS": {
