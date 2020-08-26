@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 18613,
+          "confirmed": 18608,
           "date": "2020-08-26",
           "deaths": 462,
           "recovered": 14288
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43482,
+          "confirmed": 43483,
           "date": "2020-08-26",
           "deaths": 2843,
-          "recovered": 39460
+          "recovered": 39463
         }
       },
       "Quebec": {
@@ -1455,9 +1455,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 532273,
+          "confirmed": 532900,
           "date": "2020-08-26",
-          "deaths": 10332,
+          "deaths": 10356,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 361688,
+          "confirmed": 362470,
           "date": "2020-08-26",
-          "deaths": 7407,
+          "deaths": 7427,
           "recovered": 0
         }
       },
