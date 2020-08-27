@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 50393,
       "date": "2020-08-27",
-      "deaths": 187,
+      "deaths": 188,
       "recovered": 47049
     }
   },
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43754,
+          "confirmed": 43801,
           "date": "2020-08-27",
           "deaths": 2848,
-          "recovered": 39702
+          "recovered": 39725
         }
       },
       "Quebec": {
@@ -825,10 +825,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 110186,
+      "confirmed": 110403,
       "date": "2020-08-27",
-      "deaths": 883,
-      "recovered": 87714
+      "deaths": 884,
+      "recovered": 87726
     }
   },
   "Italy": {
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 538342,
+          "confirmed": 538556,
           "date": "2020-08-27",
-          "deaths": 10518,
+          "deaths": 10521,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 366572,
+          "confirmed": 367165,
           "date": "2020-08-27",
           "deaths": 7565,
           "recovered": 0
