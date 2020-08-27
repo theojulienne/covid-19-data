@@ -143,7 +143,7 @@
         "current_icu": 5,
         "deaths": 452,
         "recovered": 4515,
-        "tested": 5201227
+        "tested": 5248086
       },
       "back_2week": {
         "confirmed": 21943,
@@ -151,7 +151,7 @@
         "current_icu": 5,
         "deaths": 354,
         "recovered": 4506,
-        "tested": 4860930
+        "tested": 4910844
       },
       "latest": {
         "confirmed": 24970,
@@ -159,7 +159,7 @@
         "current_icu": 5,
         "deaths": 551,
         "recovered": 4525,
-        "tested": 5387021
+        "tested": 5400501
       },
       "states": {
         "ACT": {
@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 462,
           "recovered": 1992,
-          "tested": 2119199
+          "tested": 2132679
         },
         "WA": {
           "confirmed": 659,
@@ -2949,19 +2949,19 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 23462,
-        "deaths": 625,
-        "recovered": 11179
+        "confirmed": 23717,
+        "deaths": 633,
+        "recovered": 11388
       },
       "back_2week": {
-        "confirmed": 21269,
-        "deaths": 570,
-        "recovered": 9875
+        "confirmed": 21644,
+        "deaths": 577,
+        "recovered": 10056
       },
       "latest": {
-        "confirmed": 24986,
-        "deaths": 678,
-        "recovered": 12717
+        "confirmed": 25140,
+        "deaths": 687,
+        "recovered": 13046
       }
     },
     "SMR": {
