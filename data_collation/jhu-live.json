@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 370188,
       "date": "2020-08-27",
-      "deaths": 7839,
-      "recovered": 268801
+      "deaths": 7944,
+      "recovered": 274458
     }
   },
   "Armenia": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 70974,
+      "confirmed": 71165,
       "date": "2020-08-27",
-      "deaths": 657,
-      "recovered": 69378
+      "deaths": 662,
+      "recovered": 69650
     }
   },
   "Belgium": {
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 56191,
+          "confirmed": 56332,
           "date": "2020-08-27",
           "deaths": 2635,
           "recovered": 50014
@@ -590,7 +590,7 @@
           "confirmed": 57826,
           "date": "2020-08-27",
           "deaths": 1807,
-          "recovered": 51884
+          "recovered": 52265
         }
       }
     }
@@ -889,10 +889,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 33016,
+      "confirmed": 33389,
       "date": "2020-08-27",
-      "deaths": 564,
-      "recovered": 19296
+      "deaths": 567,
+      "recovered": 19368
     }
   },
   "Korea, South": {
@@ -905,10 +905,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 82271,
+      "confirmed": 82945,
       "date": "2020-08-27",
-      "deaths": 521,
-      "recovered": 73906
+      "deaths": 522,
+      "recovered": 74522
     }
   },
   "Kyrgyzstan": {
@@ -1081,10 +1081,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 84818,
+      "confirmed": 85005,
       "date": "2020-08-27",
-      "deaths": 646,
-      "recovered": 79409
+      "deaths": 650,
+      "recovered": 79608
     }
   },
   "Pakistan": {
@@ -1317,15 +1317,15 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 310836,
+      "confirmed": 311855,
       "date": "2020-08-27",
-      "deaths": 3755,
-      "recovered": 284945
+      "deaths": 3785,
+      "recovered": 286255
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 30974,
+      "confirmed": 31099,
       "date": "2020-08-27",
       "deaths": 707,
       "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 366118,
+          "confirmed": 366290,
           "date": "2020-08-27",
-          "deaths": 7554,
+          "deaths": 7565,
           "recovered": 0
         }
       },
