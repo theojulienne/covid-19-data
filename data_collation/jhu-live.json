@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 18609,
+      "confirmed": 18920,
       "date": "2020-08-27",
-      "deaths": 571,
-      "recovered": 12336
+      "deaths": 582,
+      "recovered": 12480
     }
   },
   "Brazil": {
@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 16537,
+      "confirmed": 16627,
       "date": "2020-08-27",
-      "deaths": 623,
-      "recovered": 14603
+      "deaths": 624,
+      "recovered": 14763
     }
   },
   "Dominican Republic": {
@@ -874,7 +874,7 @@
           "confirmed": 20106,
           "date": "2020-08-27",
           "deaths": 356,
-          "recovered": 16361
+          "recovered": 16693
         }
       }
     }
@@ -1063,9 +1063,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 18322,
+          "confirmed": 18482,
           "date": "2020-08-27",
-          "deaths": 1341,
+          "deaths": 1343,
           "recovered": 0
         }
       }
@@ -1225,10 +1225,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 117742,
+      "confirmed": 117988,
       "date": "2020-08-27",
-      "deaths": 194,
-      "recovered": 114558
+      "deaths": 195,
+      "recovered": 114797
     }
   },
   "Romania": {
@@ -1419,7 +1419,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 24619,
+          "confirmed": 22942,
           "date": "2020-08-27",
           "deaths": 2392,
           "recovered": 0
@@ -1427,7 +1427,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 20111,
+          "confirmed": 18776,
           "date": "2020-08-27",
           "deaths": 851,
           "recovered": 0
@@ -1665,10 +1665,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 68020,
+      "confirmed": 68511,
       "date": "2020-08-27",
       "deaths": 378,
-      "recovered": 59070
+      "recovered": 59472
     }
   },
   "United Kingdom": {
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 40195,
+      "confirmed": 40338,
       "date": "2020-08-27",
-      "deaths": 295,
-      "recovered": 36562
+      "deaths": 297,
+      "recovered": 37116
     }
   },
   "Venezuela": {
