@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16419,
+          "confirmed": 16463,
           "date": "2020-08-27",
-          "deaths": 662,
+          "deaths": 661,
           "recovered": 14630
         }
       },
@@ -1053,10 +1053,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 34418,
+      "confirmed": 35529,
       "date": "2020-08-27",
-      "deaths": 175,
-      "recovered": 19504
+      "deaths": 183,
+      "recovered": 20073
     }
   },
   "Netherlands": {
@@ -1437,7 +1437,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 40645,
+      "confirmed": 41006,
       "date": "2020-08-27",
       "deaths": 2003,
       "recovered": 34800
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 20155,
+      "confirmed": 20677,
       "date": "2020-08-27",
-      "deaths": 137,
-      "recovered": 13929
+      "deaths": 141,
+      "recovered": 14194
     }
   }
 }
