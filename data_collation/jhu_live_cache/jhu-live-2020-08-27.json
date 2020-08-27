@@ -38,7 +38,7 @@
           "confirmed": 18714,
           "date": "2020-08-27",
           "deaths": 485,
-          "recovered": 14572
+          "recovered": 14837
         }
       }
     }
@@ -825,10 +825,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 108403,
+      "confirmed": 108964,
       "date": "2020-08-27",
       "deaths": 875,
-      "recovered": 86466
+      "recovered": 87011
     }
   },
   "Italy": {
@@ -913,10 +913,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 43358,
+      "confirmed": 43459,
       "date": "2020-08-27",
       "deaths": 1057,
-      "recovered": 37217
+      "recovered": 37492
     }
   },
   "Mexico": {
@@ -1091,34 +1091,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15546,
+          "confirmed": 15562,
           "date": "2020-08-27",
           "deaths": 175,
-          "recovered": 14792
+          "recovered": 14884
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 35831,
+          "confirmed": 35893,
           "date": "2020-08-27",
-          "deaths": 1248,
-          "recovered": 33449
+          "deaths": 1249,
+          "recovered": 33640
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 96466,
+          "confirmed": 96540,
           "date": "2020-08-27",
           "deaths": 2193,
-          "recovered": 92301
+          "recovered": 92393
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 128676,
+          "confirmed": 128877,
           "date": "2020-08-27",
-          "deaths": 2384,
-          "recovered": 122461
+          "deaths": 2388,
+          "recovered": 122551
         }
       }
     }
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 39964,
+      "confirmed": 40054,
       "date": "2020-08-27",
-      "deaths": 291,
-      "recovered": 36402
+      "deaths": 293,
+      "recovered": 36562
     }
   },
   "Venezuela": {
