@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43742,
+          "confirmed": 43754,
           "date": "2020-08-27",
           "deaths": 2848,
           "recovered": 39702
@@ -481,10 +481,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 36307,
+      "confirmed": 37292,
       "date": "2020-08-27",
-      "deaths": 386,
-      "recovered": 13317
+      "deaths": 397,
+      "recovered": 14471
     }
   },
   "Cote d'Ivoire": {
@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 281751,
+      "confirmed": 281603,
       "date": "2020-08-27",
-      "deaths": 30444,
-      "recovered": 73480
+      "deaths": 30441,
+      "recovered": 73433
     }
   },
   "Germany": {
@@ -1341,10 +1341,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 615701,
+      "confirmed": 618286,
       "date": "2020-08-27",
-      "deaths": 13502,
-      "recovered": 525242
+      "deaths": 13628,
+      "recovered": 531338
     }
   },
   "Spain": {
@@ -1455,23 +1455,23 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 153345,
+          "confirmed": 153705,
           "date": "2020-08-27",
-          "deaths": 3432,
+          "deaths": 3463,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 537973,
+          "confirmed": 538342,
           "date": "2020-08-27",
-          "deaths": 10489,
+          "deaths": 10518,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 18667,
+          "confirmed": 18721,
           "date": "2020-08-27",
           "deaths": 1413,
           "recovered": 0
@@ -1527,9 +1527,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 64656,
+          "confirmed": 64879,
           "date": "2020-08-27",
-          "deaths": 4385,
+          "deaths": 4395,
           "recovered": 0
         }
       },
