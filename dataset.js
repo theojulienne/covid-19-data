@@ -22374,7 +22374,7 @@ var covid19_dataset = {
               18330,
               18464,
               18608,
-              18721
+              18714
             ],
             "current_hospitalized": [
               0,
@@ -24884,7 +24884,7 @@ var covid19_dataset = {
           24692,
           24826,
           24970,
-          25083
+          25076
         ],
         "current_hospitalized": [
           0,
@@ -149263,7 +149263,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            null,
+            2,
             null,
             null,
             6,
@@ -149430,7 +149430,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            null,
+            3,
             null,
             null,
             181,
@@ -149597,7 +149597,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            null,
+            60,
             null,
             null,
             343,
@@ -149764,7 +149764,7 @@ var covid19_dataset = {
             null,
             null,
             null,
-            null,
+            4,
             null,
             null,
             null,
@@ -149934,7 +149934,7 @@ var covid19_dataset = {
           205,
           283,
           368,
-          451,
+          445,
           514,
           589,
           647,
@@ -150662,7 +150662,7 @@ var covid19_dataset = {
           1456,
           1456,
           1461,
-          1462,
+          1461,
           1474,
           1481,
           1481,
@@ -239229,7 +239229,7 @@ var covid19_dataset = {
       484198,
       546642,
       611846,
-      679224,
+      679218,
       739152,
       804009,
       879179,
@@ -239381,7 +239381,7 @@ var covid19_dataset = {
       23547497,
       23786407,
       23829489,
-      23829602
+      23829595
     ],
     "deaths": [
       17,
@@ -239731,7 +239731,7 @@ var covid19_dataset = {
       2159219,
       2222932,
       2278092,
-      2341026,
+      2341025,
       2485995,
       2563202,
       2633640,
