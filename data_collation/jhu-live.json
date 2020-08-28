@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 18827,
+          "confirmed": 18822,
           "date": "2020-08-28",
-          "deaths": 497,
+          "deaths": 496,
           "recovered": 14837
         }
       }
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 112094,
+      "confirmed": 113129,
       "date": "2020-08-28",
-      "deaths": 4726,
-      "recovered": 50397
+      "deaths": 4791,
+      "recovered": 52521
     }
   },
   "Bosnia and Herzegovina": {
@@ -613,10 +613,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 56649,
+      "confirmed": 57669,
       "date": "2020-08-28",
-      "deaths": 1747,
-      "recovered": 9169
+      "deaths": 1803,
+      "recovered": 9586
     }
   },
   "India": {
@@ -897,10 +897,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 18706,
+      "confirmed": 19077,
       "date": "2020-08-28",
-      "deaths": 313,
-      "recovered": 14461
+      "deaths": 316,
+      "recovered": 14551
     }
   },
   "Kuwait": {
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 540536,
+          "confirmed": 540750,
           "date": "2020-08-28",
           "deaths": 10577,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 367165,
+          "confirmed": 368329,
           "date": "2020-08-28",
-          "deaths": 7565,
+          "deaths": 7682,
           "recovered": 0
         }
       },
