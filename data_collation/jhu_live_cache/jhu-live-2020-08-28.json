@@ -923,114 +923,114 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 16235,
+          "confirmed": 16326,
           "date": "2020-08-28",
-          "deaths": 3078,
-          "recovered": 12446
+          "deaths": 3084,
+          "recovered": 12566
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 94200,
+          "confirmed": 95185,
           "date": "2020-08-28",
-          "deaths": 10325,
-          "recovered": 77836
+          "deaths": 10370,
+          "recovered": 78105
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 20506,
+          "confirmed": 20788,
           "date": "2020-08-28",
-          "deaths": 1295,
-          "recovered": 16914
+          "deaths": 1325,
+          "recovered": 17250
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 29602,
+          "confirmed": 29912,
           "date": "2020-08-28",
-          "deaths": 1639,
-          "recovered": 25028
+          "deaths": 1653,
+          "recovered": 25214
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 19033,
+          "confirmed": 19231,
           "date": "2020-08-28",
-          "deaths": 2311,
-          "recovered": 14968
+          "deaths": 2349,
+          "recovered": 15044
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 65787,
+          "confirmed": 66376,
           "date": "2020-08-28",
-          "deaths": 7823,
-          "recovered": 54304
+          "deaths": 7876,
+          "recovered": 54687
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 27314,
+          "confirmed": 27755,
           "date": "2020-08-28",
-          "deaths": 2100,
-          "recovered": 22481
+          "deaths": 2133,
+          "recovered": 22615
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 25951,
+          "confirmed": 26286,
           "date": "2020-08-28",
-          "deaths": 3397,
-          "recovered": 21209
+          "deaths": 3413,
+          "recovered": 21391
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 16847,
+          "confirmed": 17079,
           "date": "2020-08-28",
-          "deaths": 1061,
-          "recovered": 14402
+          "deaths": 1081,
+          "recovered": 14593
         }
       },
       "Sinaloa": {
         "live": {
-          "confirmed": 15647,
+          "confirmed": 15747,
           "date": "2020-08-28",
-          "deaths": 2709,
-          "recovered": 12278
+          "deaths": 2724,
+          "recovered": 12339
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 21027,
+          "confirmed": 21110,
           "date": "2020-08-28",
-          "deaths": 2579,
-          "recovered": 17541
+          "deaths": 2595,
+          "recovered": 17681
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 27448,
+          "confirmed": 27635,
           "date": "2020-08-28",
-          "deaths": 2506,
-          "recovered": 23946
+          "deaths": 2527,
+          "recovered": 24022
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 23655,
+          "confirmed": 23906,
           "date": "2020-08-28",
-          "deaths": 1737,
-          "recovered": 20589
+          "deaths": 1752,
+          "recovered": 20727
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 27520,
+          "confirmed": 27669,
           "date": "2020-08-28",
-          "deaths": 3577,
-          "recovered": 22536
+          "deaths": 3600,
+          "recovered": 22658
         }
       }
     }
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 540261,
+          "confirmed": 540536,
           "date": "2020-08-28",
-          "deaths": 10572,
+          "deaths": 10577,
           "recovered": 0
         }
       },
