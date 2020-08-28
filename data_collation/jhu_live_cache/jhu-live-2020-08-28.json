@@ -355,10 +355,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 62056,
+          "confirmed": 62124,
           "date": "2020-08-28",
           "deaths": 5750,
-          "recovered": 55008
+          "recovered": 55106
         }
       }
     }
@@ -1465,7 +1465,7 @@
         "live": {
           "confirmed": 542036,
           "date": "2020-08-28",
-          "deaths": 10583,
+          "deaths": 10585,
           "recovered": 0
         }
       },
@@ -1487,9 +1487,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 97061,
+          "confirmed": 97611,
           "date": "2020-08-28",
-          "deaths": 1612,
+          "deaths": 1629,
           "recovered": 0
         }
       },
@@ -1535,9 +1535,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 48514,
+          "confirmed": 48749,
           "date": "2020-08-28",
-          "deaths": 4029,
+          "deaths": 4031,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 21133,
+          "confirmed": 21320,
           "date": "2020-08-28",
-          "deaths": 556,
+          "deaths": 559,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 49685,
+          "confirmed": 49970,
           "date": "2020-08-28",
-          "deaths": 628,
+          "deaths": 632,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 23355,
+          "confirmed": 23531,
           "date": "2020-08-28",
-          "deaths": 229,
+          "deaths": 230,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 23676,
+          "confirmed": 23841,
           "date": "2020-08-28",
           "deaths": 485,
           "recovered": 0
