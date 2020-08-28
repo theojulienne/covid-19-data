@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43801,
+          "confirmed": 43823,
           "date": "2020-08-28",
           "deaths": 2848,
           "recovered": 39725
@@ -553,7 +553,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 281603,
+      "confirmed": 281526,
       "date": "2020-08-28",
       "deaths": 30441,
       "recovered": 73433
@@ -835,34 +835,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 31385,
+          "confirmed": 31547,
           "date": "2020-08-28",
-          "deaths": 4458,
-          "recovered": 24460
+          "deaths": 4459,
+          "recovered": 24467
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 99100,
+          "confirmed": 99416,
           "date": "2020-08-28",
-          "deaths": 16857,
-          "recovered": 76018
+          "deaths": 16860,
+          "recovered": 76102
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 32603,
+          "confirmed": 32694,
           "date": "2020-08-28",
-          "deaths": 4144,
-          "recovered": 27178
+          "deaths": 4145,
+          "recovered": 27203
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 22469,
+          "confirmed": 22604,
           "date": "2020-08-28",
-          "deaths": 2117,
-          "recovered": 18131
+          "deaths": 2119,
+          "recovered": 18232
         }
       }
     }
@@ -1037,9 +1037,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 35546,
+      "confirmed": 35904,
       "date": "2020-08-28",
-      "deaths": 977,
+      "deaths": 981,
       "recovered": 24156
     }
   },
@@ -1479,9 +1479,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 418297,
+          "confirmed": 420574,
           "date": "2020-08-28",
-          "deaths": 7247,
+          "deaths": 7299,
           "recovered": 0
         }
       },

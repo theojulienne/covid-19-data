@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 125408,
+        "confirmed": 125625,
         "deaths": 9095,
         "recovered": 111559
       },
       "back_2week": {
-        "confirmed": 122703,
+        "confirmed": 123180,
         "deaths": 9052,
         "recovered": 108829
       },
       "latest": {
-        "confirmed": 128380,
+        "confirmed": 128836,
         "deaths": 9141,
         "recovered": 114220
       },
@@ -623,7 +623,7 @@
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 43658,
+          "confirmed": 43801,
           "deaths": 2848
         },
         "Prince Edward Island": {
@@ -2221,18 +2221,18 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 31415,
-        "deaths": 914,
+        "confirmed": 31937,
+        "deaths": 921,
         "recovered": 21885
       },
       "back_2week": {
-        "confirmed": 28697,
-        "deaths": 863,
+        "confirmed": 29087,
+        "deaths": 878,
         "recovered": 19998
       },
       "latest": {
-        "confirmed": 34982,
-        "deaths": 967,
+        "confirmed": 35546,
+        "deaths": 977,
         "recovered": 24156
       }
     },
@@ -3386,10 +3386,10 @@
         "tested": 63594312
       },
       "latest": {
-        "confirmed": 5760295,
+        "confirmed": 5760575,
         "deaths": 171173,
         "recovered": 2083200,
-        "tested": 73652697
+        "tested": 73652977
       },
       "states": {
         "AK": {
@@ -3666,11 +3666,11 @@
           "tested": 910079
         },
         "SD": {
-          "confirmed": 11571,
+          "confirmed": 11851,
           "deaths": 162,
           "hospitalized": 981,
           "recovered": 9896,
-          "tested": 137765
+          "tested": 138045
         },
         "TN": {
           "confirmed": 147353,
