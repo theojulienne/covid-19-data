@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 380292,
       "date": "2020-08-28",
-      "deaths": 8050,
-      "recovered": 274458
+      "deaths": 8129,
+      "recovered": 280165
     }
   },
   "Armenia": {
@@ -130,7 +130,7 @@
           "confirmed": 42285,
           "date": "2020-08-28",
           "deaths": 652,
-          "recovered": 30094
+          "recovered": 30230
         }
       },
       "Amazonas": {
@@ -138,7 +138,7 @@
           "confirmed": 118083,
           "date": "2020-08-28",
           "deaths": 3616,
-          "recovered": 99638
+          "recovered": 100239
         }
       },
       "Bahia": {
@@ -250,7 +250,7 @@
           "confirmed": 75160,
           "date": "2020-08-28",
           "deaths": 1765,
-          "recovered": 72744
+          "recovered": 73626
         }
       },
       "Rio Grande do Norte": {
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 56639,
+          "confirmed": 56764,
           "date": "2020-08-28",
           "deaths": 2636,
           "recovered": 50250
@@ -587,10 +587,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 58187,
+          "confirmed": 58189,
           "date": "2020-08-28",
           "deaths": 1808,
-          "recovered": 52265
+          "recovered": 52620
         }
       }
     }
@@ -889,10 +889,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 33389,
+      "confirmed": 33630,
       "date": "2020-08-28",
       "deaths": 567,
-      "recovered": 19368
+      "recovered": 19434
     }
   },
   "Korea, South": {
@@ -1519,7 +1519,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45550,
+          "confirmed": 45769,
           "date": "2020-08-28",
           "deaths": 1603,
           "recovered": 0
@@ -1551,9 +1551,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 18507,
+          "confirmed": 18774,
           "date": "2020-08-28",
-          "deaths": 726,
+          "deaths": 727,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 115411,
+          "confirmed": 115538,
           "date": "2020-08-28",
-          "deaths": 9659,
+          "deaths": 9661,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 17959,
+          "confirmed": 18084,
           "date": "2020-08-28",
-          "deaths": 549,
+          "deaths": 550,
           "recovered": 0
         }
       },

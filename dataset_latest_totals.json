@@ -88,18 +88,18 @@
     "ARG": {
       "back_1week": {
         "confirmed": 312659,
-        "deaths": 6330,
-        "recovered": 228725
+        "deaths": 6517,
+        "recovered": 233651
       },
       "back_2week": {
         "confirmed": 268574,
-        "deaths": 5213,
-        "recovered": 187283
+        "deaths": 5362,
+        "recovered": 192434
       },
       "latest": {
         "confirmed": 370188,
-        "deaths": 7839,
-        "recovered": 268801
+        "deaths": 8050,
+        "recovered": 274458
       }
     },
     "ARM": {
@@ -1915,19 +1915,19 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 31015,
+        "confirmed": 31441,
         "deaths": 506,
-        "recovered": 17612
+        "recovered": 17869
       },
       "back_2week": {
-        "confirmed": 28104,
+        "confirmed": 28754,
         "deaths": 456,
-        "recovered": 14610
+        "recovered": 15100
       },
       "latest": {
-        "confirmed": 33016,
+        "confirmed": 33389,
         "deaths": 564,
-        "recovered": 19296
+        "recovered": 19368
       }
     },
     "KGZ": {
