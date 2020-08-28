@@ -1091,34 +1091,34 @@
     "subseries": {
       "Islamabad": {
         "live": {
-          "confirmed": 15562,
+          "confirmed": 15578,
           "date": "2020-08-28",
           "deaths": 175,
-          "recovered": 14884
+          "recovered": 14923
         }
       },
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 35893,
+          "confirmed": 35923,
           "date": "2020-08-28",
-          "deaths": 1249,
-          "recovered": 33640
+          "deaths": 1250,
+          "recovered": 33709
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 96540,
+          "confirmed": 96636,
           "date": "2020-08-28",
-          "deaths": 2193,
-          "recovered": 92393
+          "deaths": 2195,
+          "recovered": 92421
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 128877,
+          "confirmed": 129081,
           "date": "2020-08-28",
-          "deaths": 2388,
-          "recovered": 122551
+          "deaths": 2394,
+          "recovered": 122734
         }
       }
     }
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 540536,
+          "confirmed": 541086,
           "date": "2020-08-28",
-          "deaths": 10577,
+          "deaths": 10582,
           "recovered": 0
         }
       },
