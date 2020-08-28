@@ -441,7 +441,8 @@ var covid19_dataset_country_tto = {
       1007,
       1099,
       1252,
-      1411
+      1411,
+      1429
     ],
     "deaths": [
       0,
@@ -659,6 +660,7 @@ var covid19_dataset_country_tto = {
       12,
       13,
       14,
+      15,
       15,
       15,
       15
@@ -881,6 +883,7 @@ var covid19_dataset_country_tto = {
       165,
       165,
       178,
+      192,
       192
     ]
   }

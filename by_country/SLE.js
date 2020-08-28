@@ -441,7 +441,8 @@ var covid19_dataset_country_sle = {
       1992,
       1997,
       2001,
-      2003
+      2003,
+      2013
     ],
     "deaths": [
       0,
@@ -661,7 +662,8 @@ var covid19_dataset_country_sle = {
       69,
       69,
       69,
-      69
+      69,
+      70
     ],
     "recovered": [
       0,
@@ -881,7 +883,8 @@ var covid19_dataset_country_sle = {
       1550,
       1557,
       1569,
-      1577
+      1577,
+      1581
     ]
   }
 };
