@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 288905,
+      "confirmed": 288865,
       "date": "2020-08-28",
       "deaths": 30461,
-      "recovered": 73626
+      "recovered": 73548
     }
   },
   "Germany": {
@@ -817,7 +817,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 28453,
+      "confirmed": 28578,
       "date": "2020-08-28",
       "deaths": 1777,
       "recovered": 23364
@@ -1457,13 +1457,13 @@
         "live": {
           "confirmed": 154058,
           "date": "2020-08-28",
-          "deaths": 3463,
+          "deaths": 3498,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 541571,
+          "confirmed": 542036,
           "date": "2020-08-28",
           "deaths": 10583,
           "recovered": 0
@@ -1577,7 +1577,7 @@
         "live": {
           "confirmed": 359454,
           "date": "2020-08-28",
-          "deaths": 29326,
+          "deaths": 29328,
           "recovered": 0
         }
       },
@@ -1599,7 +1599,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 33343,
+          "confirmed": 33495,
           "date": "2020-08-28",
           "deaths": 1749,
           "recovered": 0
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 368476,
+          "confirmed": 368695,
           "date": "2020-08-28",
           "deaths": 7687,
           "recovered": 0
