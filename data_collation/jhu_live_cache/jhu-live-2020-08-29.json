@@ -540,7 +540,7 @@
       "confirmed": 25415,
       "date": "2020-08-29",
       "deaths": 702,
-      "recovered": 13570
+      "recovered": 13600
     }
   },
   "Ethiopia": {
@@ -565,7 +565,7 @@
         "live": {
           "confirmed": 41574,
           "date": "2020-08-29",
-          "deaths": 1862,
+          "deaths": 1864,
           "recovered": 36630
         }
       },
