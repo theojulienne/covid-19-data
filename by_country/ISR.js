@@ -445,7 +445,7 @@ var covid19_dataset_country_isr = {
       108403,
       110403,
       112000,
-      113337
+      113465
     ],
     "deaths": [
       0,
@@ -891,7 +891,7 @@ var covid19_dataset_country_isr = {
       86466,
       87726,
       91051,
-      92100
+      92104
     ]
   }
 };
