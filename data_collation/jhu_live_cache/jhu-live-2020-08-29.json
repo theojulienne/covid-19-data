@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16628,
+          "confirmed": 16672,
           "date": "2020-08-29",
-          "deaths": 660,
+          "deaths": 661,
           "recovered": 14773
         }
       },
@@ -809,10 +809,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 369911,
+      "confirmed": 371816,
       "date": "2020-08-29",
-      "deaths": 21249,
-      "recovered": 318270
+      "deaths": 21359,
+      "recovered": 319847
     }
   },
   "Iraq": {
@@ -1233,10 +1233,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 84468,
+      "confirmed": 85833,
       "date": "2020-08-29",
-      "deaths": 3507,
-      "recovered": 37056
+      "deaths": 3539,
+      "recovered": 37388
     }
   },
   "Russia": {
