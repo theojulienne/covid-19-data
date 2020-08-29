@@ -443,7 +443,8 @@ var covid19_dataset_country_est = {
       2275,
       2294,
       2311,
-      2325
+      2325,
+      2343
     ],
     "deaths": [
       0,
@@ -661,6 +662,7 @@ var covid19_dataset_country_est = {
       63,
       63,
       63,
+      64,
       64,
       64,
       64,
@@ -885,7 +887,8 @@ var covid19_dataset_country_est = {
       2025,
       2038,
       2054,
-      2067
+      2067,
+      2076
     ]
   }
 };

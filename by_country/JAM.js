@@ -443,7 +443,8 @@ var covid19_dataset_country_jam = {
       1612,
       1732,
       1804,
-      1870
+      1870,
+      2011
     ],
     "deaths": [
       0,
@@ -662,6 +663,7 @@ var covid19_dataset_country_jam = {
       16,
       16,
       16,
+      19,
       19,
       19,
       19
@@ -885,7 +887,8 @@ var covid19_dataset_country_jam = {
       819,
       840,
       846,
-      846
+      846,
+      888
     ]
   }
 };
