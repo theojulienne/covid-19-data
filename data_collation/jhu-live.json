@@ -85,9 +85,9 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 83500,
+      "confirmed": 83952,
       "date": "2020-08-29",
-      "deaths": 9884,
+      "deaths": 9886,
       "recovered": 18360
     }
   },
@@ -613,10 +613,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 57669,
+      "confirmed": 58810,
       "date": "2020-08-29",
-      "deaths": 1803,
-      "recovered": 9586
+      "deaths": 1827,
+      "recovered": 10076
     }
   },
   "India": {
@@ -881,10 +881,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 105408,
+      "confirmed": 105558,
       "date": "2020-08-29",
       "deaths": 1523,
-      "recovered": 95253
+      "recovered": 95888
     }
   },
   "Kenya": {
@@ -917,14 +917,6 @@
       "date": "2020-08-29",
       "deaths": 1057,
       "recovered": 37726
-    }
-  },
-  "Lebanon": {
-    "live": {
-      "confirmed": 15613,
-      "date": "2020-08-29",
-      "deaths": 148,
-      "recovered": 4260
     }
   },
   "Mexico": {
@@ -1129,6 +1121,14 @@
       "date": "2020-08-29",
       "deaths": 1966,
       "recovered": 64602
+    }
+  },
+  "Paraguay": {
+    "live": {
+      "confirmed": 15873,
+      "date": "2020-08-29",
+      "deaths": 280,
+      "recovered": 8595
     }
   },
   "Peru": {
