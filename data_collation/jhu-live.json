@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 43919,
+          "confirmed": 43962,
           "date": "2020-08-29",
           "deaths": 2855,
-          "recovered": 39818
+          "recovered": 39873
         }
       },
       "Quebec": {
@@ -563,9 +563,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 41574,
+          "confirmed": 41773,
           "date": "2020-08-29",
-          "deaths": 1864,
+          "deaths": 1866,
           "recovered": 36717
         }
       },
@@ -1336,7 +1336,7 @@
       "confirmed": 56717,
       "date": "2020-08-29",
       "deaths": 27,
-      "recovered": 55337
+      "recovered": 55447
     }
   },
   "South Africa": {
@@ -1503,9 +1503,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 18087,
+          "confirmed": 18212,
           "date": "2020-08-29",
-          "deaths": 746,
+          "deaths": 748,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 22520,
+          "confirmed": 22736,
           "date": "2020-08-29",
           "deaths": 878,
           "recovered": 0
@@ -1559,17 +1559,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 58292,
+          "confirmed": 58789,
           "date": "2020-08-29",
-          "deaths": 1111,
+          "deaths": 1126,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 115538,
+          "confirmed": 115699,
           "date": "2020-08-29",
-          "deaths": 9661,
+          "deaths": 9663,
           "recovered": 0
         }
       },
