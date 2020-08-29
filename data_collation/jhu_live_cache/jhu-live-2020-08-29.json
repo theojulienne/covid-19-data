@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 113129,
+      "confirmed": 114409,
       "date": "2020-08-29",
-      "deaths": 4791,
-      "recovered": 52521
+      "deaths": 4846,
+      "recovered": 54914
     }
   },
   "Bosnia and Herzegovina": {
@@ -154,7 +154,7 @@
           "confirmed": 212484,
           "date": "2020-08-29",
           "deaths": 8376,
-          "recovered": 186586
+          "recovered": 186731
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 128965,
           "date": "2020-08-29",
           "deaths": 3003,
-          "recovered": 119290
+          "recovered": 119428
         }
       },
       "Maranhao": {
@@ -194,7 +194,7 @@
           "confirmed": 89140,
           "date": "2020-08-29",
           "deaths": 2677,
-          "recovered": 68038
+          "recovered": 69722
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 76033,
           "date": "2020-08-29",
           "deaths": 1785,
-          "recovered": 73626
+          "recovered": 74495
         }
       },
       "Rio Grande do Norte": {
@@ -306,7 +306,7 @@
           "confirmed": 796209,
           "date": "2020-08-29",
           "deaths": 29694,
-          "recovered": 597711
+          "recovered": 598721
         }
       },
       "Sergipe": {
@@ -350,7 +350,7 @@
           "confirmed": 43919,
           "date": "2020-08-29",
           "deaths": 2855,
-          "recovered": 39816
+          "recovered": 39818
         }
       },
       "Quebec": {
@@ -897,10 +897,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 19077,
+      "confirmed": 19400,
       "date": "2020-08-29",
-      "deaths": 316,
-      "recovered": 14551
+      "deaths": 321,
+      "recovered": 14765
     }
   },
   "Kuwait": {
