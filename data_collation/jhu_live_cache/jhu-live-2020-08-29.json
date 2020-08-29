@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 392009,
       "date": "2020-08-29",
-      "deaths": 8271,
-      "recovered": 280165
+      "deaths": 8305,
+      "recovered": 287220
     }
   },
   "Armenia": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 19214,
+      "confirmed": 19550,
       "date": "2020-08-29",
-      "deaths": 591,
-      "recovered": 12733
+      "deaths": 594,
+      "recovered": 12858
     }
   },
   "Brazil": {
@@ -1317,17 +1317,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 312924,
+      "confirmed": 313911,
       "date": "2020-08-29",
-      "deaths": 3813,
-      "recovered": 287403
+      "deaths": 3840,
+      "recovered": 288441
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 31207,
+      "confirmed": 31282,
       "date": "2020-08-29",
-      "deaths": 709,
+      "deaths": 710,
       "recovered": 0
     }
   },
@@ -1440,7 +1440,7 @@
       "confirmed": 41722,
       "date": "2020-08-29",
       "deaths": 2005,
-      "recovered": 34800
+      "recovered": 35200
     }
   },
   "Turkey": {
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 373340,
+          "confirmed": 373485,
           "date": "2020-08-29",
           "deaths": 7725,
           "recovered": 0
