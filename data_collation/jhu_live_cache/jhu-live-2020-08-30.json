@@ -1463,9 +1463,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 154522,
+          "confirmed": 154830,
           "date": "2020-08-30",
-          "deaths": 3525,
+          "deaths": 3538,
           "recovered": 0
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 376457,
+          "confirmed": 377565,
           "date": "2020-08-30",
           "deaths": 7835,
           "recovered": 0
