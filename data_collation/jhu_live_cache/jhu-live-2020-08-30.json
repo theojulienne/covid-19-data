@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 83952,
+      "confirmed": 84599,
       "date": "2020-08-30",
-      "deaths": 9886,
-      "recovered": 18360
+      "deaths": 9891,
+      "recovered": 18403
     }
   },
   "Bolivia": {
@@ -130,7 +130,7 @@
           "confirmed": 42771,
           "date": "2020-08-30",
           "deaths": 659,
-          "recovered": 30657
+          "recovered": 30816
         }
       },
       "Amazonas": {
@@ -186,7 +186,7 @@
           "confirmed": 150895,
           "date": "2020-08-30",
           "deaths": 3424,
-          "recovered": 138480
+          "recovered": 139027
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 89962,
           "date": "2020-08-30",
           "deaths": 2706,
-          "recovered": 69722
+          "recovered": 70293
         }
       },
       "Mato Grosso do Sul": {
@@ -218,7 +218,7 @@
           "confirmed": 198246,
           "date": "2020-08-30",
           "deaths": 6109,
-          "recovered": 181933
+          "recovered": 183222
         }
       },
       "Paraiba": {
@@ -250,7 +250,7 @@
           "confirmed": 76916,
           "date": "2020-08-30",
           "deaths": 1804,
-          "recovered": 74495
+          "recovered": 74829
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 43299,
           "date": "2020-08-30",
           "deaths": 587,
-          "recovered": 10978
+          "recovered": 11057
         }
       },
       "Santa Catarina": {
@@ -613,10 +613,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 58810,
+      "confirmed": 59645,
       "date": "2020-08-30",
-      "deaths": 1827,
-      "recovered": 10076
+      "deaths": 1842,
+      "recovered": 10156
     }
   },
   "India": {
@@ -659,14 +659,6 @@
           "date": "2020-08-30",
           "deaths": 4389,
           "recovered": 151473
-        }
-      },
-      "Goa": {
-        "live": {
-          "confirmed": 16006,
-          "date": "2020-08-30",
-          "deaths": 175,
-          "recovered": 12296
         }
       },
       "Gujarat": {
@@ -889,10 +881,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 105558,
+      "confirmed": 105684,
       "date": "2020-08-30",
       "deaths": 1523,
-      "recovered": 95888
+      "recovered": 96135
     }
   },
   "Kenya": {
@@ -1129,6 +1121,14 @@
       "date": "2020-08-30",
       "deaths": 1983,
       "recovered": 65119
+    }
+  },
+  "Paraguay": {
+    "live": {
+      "confirmed": 16474,
+      "date": "2020-08-30",
+      "deaths": 294,
+      "recovered": 8854
     }
   },
   "Peru": {
