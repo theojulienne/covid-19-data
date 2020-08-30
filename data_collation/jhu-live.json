@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 549038,
+          "confirmed": 549292,
           "date": "2020-08-30",
-          "deaths": 10762,
+          "deaths": 10766,
           "recovered": 0
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 82167,
+          "confirmed": 82377,
           "date": "2020-08-30",
-          "deaths": 1530,
+          "deaths": 1537,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 48749,
+          "confirmed": 49149,
           "date": "2020-08-30",
-          "deaths": 4031,
+          "deaths": 4044,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 50238,
+          "confirmed": 50406,
           "date": "2020-08-30",
-          "deaths": 635,
+          "deaths": 643,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 23977,
+          "confirmed": 24040,
           "date": "2020-08-30",
           "deaths": 489,
           "recovered": 0
