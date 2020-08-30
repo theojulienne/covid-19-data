@@ -1102,19 +1102,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 16127,
+        "confirmed": 16239,
         "deaths": 621,
         "recovered": 13944
       },
       "back_2week": {
-        "confirmed": 15379,
+        "confirmed": 15483,
         "deaths": 621,
-        "recovered": 13216
+        "recovered": 13275
       },
       "latest": {
-        "confirmed": 16700,
+        "confirmed": 16779,
         "deaths": 624,
-        "recovered": 14877
+        "recovered": 14989
       },
       "states": {
         "Faroe Islands": {

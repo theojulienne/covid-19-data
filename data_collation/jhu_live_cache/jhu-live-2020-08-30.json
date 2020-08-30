@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 16779,
+      "confirmed": 16891,
       "date": "2020-08-30",
       "deaths": 624,
-      "recovered": 14989
+      "recovered": 15116
     }
   },
   "Dominican Republic": {
@@ -881,8 +881,8 @@
         "live": {
           "confirmed": 20727,
           "date": "2020-08-30",
-          "deaths": 358,
-          "recovered": 17411
+          "deaths": 360,
+          "recovered": 17530
         }
       }
     }
@@ -1071,7 +1071,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 18774,
+          "confirmed": 18980,
           "date": "2020-08-30",
           "deaths": 1344,
           "recovered": 0
