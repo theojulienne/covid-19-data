@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 19550,
+      "confirmed": 19793,
       "date": "2020-08-30",
-      "deaths": 594,
-      "recovered": 12858
+      "deaths": 598,
+      "recovered": 12961
     }
   },
   "Brazil": {
@@ -801,18 +801,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 169195,
+      "confirmed": 172053,
       "date": "2020-08-30",
-      "deaths": 7261,
-      "recovered": 122802
+      "deaths": 7343,
+      "recovered": 124185
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 371816,
+      "confirmed": 373570,
       "date": "2020-08-30",
-      "deaths": 21359,
-      "recovered": 319847
+      "deaths": 21462,
+      "recovered": 321421
     }
   },
   "Iraq": {
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 84224,
+      "confirmed": 84636,
       "date": "2020-08-30",
-      "deaths": 528,
-      "recovered": 75993
+      "deaths": 530,
+      "recovered": 76650
     }
   },
   "Kyrgyzstan": {
@@ -1061,10 +1061,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 37340,
+      "confirmed": 38561,
       "date": "2020-08-30",
-      "deaths": 207,
-      "recovered": 20555
+      "deaths": 221,
+      "recovered": 20822
     }
   },
   "Netherlands": {
@@ -1089,10 +1089,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 85005,
+      "confirmed": 85544,
       "date": "2020-08-30",
-      "deaths": 650,
-      "recovered": 79608
+      "deaths": 677,
+      "recovered": 80459
     }
   },
   "Pakistan": {
@@ -1233,10 +1233,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 118407,
+      "confirmed": 118575,
       "date": "2020-08-30",
-      "deaths": 196,
-      "recovered": 115251
+      "deaths": 197,
+      "recovered": 115430
     }
   },
   "Romania": {
@@ -1445,7 +1445,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 41722,
+      "confirmed": 42014,
       "date": "2020-08-30",
       "deaths": 2005,
       "recovered": 35200
@@ -1673,10 +1673,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 69328,
+      "confirmed": 69690,
       "date": "2020-08-30",
-      "deaths": 379,
-      "recovered": 60202
+      "deaths": 382,
+      "recovered": 60600
     }
   },
   "United Kingdom": {
@@ -1725,10 +1725,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 21668,
+      "confirmed": 22204,
       "date": "2020-08-30",
-      "deaths": 147,
-      "recovered": 14631
+      "deaths": 149,
+      "recovered": 14787
     }
   }
 }
