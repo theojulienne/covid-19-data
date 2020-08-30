@@ -2915,17 +2915,17 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 56216,
+        "confirmed": 56266,
         "deaths": 27,
         "recovered": 53651
       },
       "back_2week": {
-        "confirmed": 55580,
+        "confirmed": 55661,
         "deaths": 27,
         "recovered": 51049
       },
       "latest": {
-        "confirmed": 56666,
+        "confirmed": 56717,
         "deaths": 27,
         "recovered": 55337
       }
