@@ -45,10 +45,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 27166,
+      "confirmed": 27438,
       "date": "2020-08-31",
       "deaths": 733,
-      "recovered": 23070
+      "recovered": 23226
     }
   },
   "Azerbaijan": {
@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 310822,
+      "confirmed": 312996,
       "date": "2020-08-31",
-      "deaths": 4248,
-      "recovered": 201907
+      "deaths": 4281,
+      "recovered": 204887
     }
   },
   "Belarus": {
@@ -555,7 +555,7 @@
     "live": {
       "confirmed": 299320,
       "date": "2020-08-31",
-      "deaths": 30470,
+      "deaths": 30467,
       "recovered": 73279
     }
   },
@@ -579,7 +579,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 16741,
+          "confirmed": 16763,
           "date": "2020-08-31",
           "deaths": 661,
           "recovered": 14913
@@ -809,10 +809,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 373570,
+      "confirmed": 375212,
       "date": "2020-08-31",
-      "deaths": 21462,
-      "recovered": 321421
+      "deaths": 21571,
+      "recovered": 323233
     }
   },
   "Iraq": {
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 84636,
+      "confirmed": 85109,
       "date": "2020-08-31",
-      "deaths": 530,
-      "recovered": 76650
+      "deaths": 531,
+      "recovered": 77224
     }
   },
   "Kyrgyzstan": {
@@ -1089,10 +1089,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 85544,
+      "confirmed": 85722,
       "date": "2020-08-31",
-      "deaths": 677,
-      "recovered": 80459
+      "deaths": 685,
+      "recovered": 80810
     }
   },
   "Pakistan": {
@@ -1241,10 +1241,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 86785,
+      "confirmed": 87540,
       "date": "2020-08-31",
-      "deaths": 3578,
-      "recovered": 37665
+      "deaths": 3621,
+      "recovered": 37869
     }
   },
   "Russia": {
