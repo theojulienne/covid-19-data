@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38162,
+      "confirmed": 38165,
       "date": "2020-08-31",
       "deaths": 1402,
       "recovered": 29089
@@ -801,10 +801,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 172053,
+      "confirmed": 174796,
       "date": "2020-08-31",
-      "deaths": 7343,
-      "recovered": 124185
+      "deaths": 7417,
+      "recovered": 125959
     }
   },
   "Iran": {
@@ -1217,9 +1217,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 66870,
+      "confirmed": 67372,
       "date": "2020-08-31",
-      "deaths": 2033,
+      "deaths": 2039,
       "recovered": 46638
     }
   },
