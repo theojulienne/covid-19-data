@@ -327,6 +327,14 @@
       }
     }
   },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 16266,
+      "date": "2020-08-31",
+      "deaths": 629,
+      "recovered": 11483
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 19142,
@@ -339,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44265,
+          "confirmed": 44279,
           "date": "2020-08-31",
           "deaths": 2857,
-          "recovered": 40062
+          "recovered": 40070
         }
       },
       "Quebec": {
@@ -521,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 98727,
+      "confirmed": 98939,
       "date": "2020-08-31",
-      "deaths": 5399,
-      "recovered": 72120
+      "deaths": 5421,
+      "recovered": 72929
     }
   },
   "El Salvador": {
@@ -597,10 +605,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 73912,
+      "confirmed": 74074,
       "date": "2020-08-31",
-      "deaths": 2740,
-      "recovered": 61681
+      "deaths": 2760,
+      "recovered": 62068
     }
   },
   "Honduras": {
@@ -1073,10 +1081,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 53865,
+      "confirmed": 54008,
       "date": "2020-08-31",
       "deaths": 1013,
-      "recovered": 41513
+      "recovered": 41638
     }
   },
   "Oman": {
@@ -1440,7 +1448,7 @@
       "confirmed": 42177,
       "date": "2020-08-31",
       "deaths": 2006,
-      "recovered": 35800
+      "recovered": 36100
     }
   },
   "Turkey": {
@@ -1463,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 552241,
+          "confirmed": 554185,
           "date": "2020-08-31",
-          "deaths": 10826,
+          "deaths": 10853,
           "recovered": 0
         }
       },
@@ -1487,9 +1495,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 98897,
+          "confirmed": 82664,
           "date": "2020-08-31",
-          "deaths": 1672,
+          "deaths": 1545,
           "recovered": 0
         }
       },
@@ -1647,7 +1655,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 19553,
+          "confirmed": 19643,
           "date": "2020-08-31",
           "deaths": 723,
           "recovered": 0
