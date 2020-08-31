@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44143,
+          "confirmed": 44148,
           "date": "2020-08-31",
           "deaths": 2856,
           "recovered": 40000
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 57219,
+          "confirmed": 57309,
           "date": "2020-08-31",
           "deaths": 2639,
           "recovered": 50855
@@ -590,7 +590,7 @@
           "confirmed": 58687,
           "date": "2020-08-31",
           "deaths": 1811,
-          "recovered": 52620
+          "recovered": 53110
         }
       }
     }
@@ -897,10 +897,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 34057,
+      "confirmed": 34201,
       "date": "2020-08-31",
-      "deaths": 574,
-      "recovered": 19688
+      "deaths": 577,
+      "recovered": 19893
     }
   },
   "Korea, South": {
@@ -1045,10 +1045,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 36700,
+      "confirmed": 36920,
       "date": "2020-08-31",
-      "deaths": 992,
-      "recovered": 25139
+      "deaths": 995,
+      "recovered": 25872
     }
   },
   "Morocco": {
@@ -1225,10 +1225,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 57768,
+      "confirmed": 58012,
       "date": "2020-08-31",
-      "deaths": 1819,
-      "recovered": 41885
+      "deaths": 1822,
+      "recovered": 41961
     }
   },
   "Qatar": {
@@ -1527,9 +1527,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46097,
+          "confirmed": 46221,
           "date": "2020-08-31",
-          "deaths": 1611,
+          "deaths": 1613,
           "recovered": 0
         }
       },
@@ -1559,7 +1559,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 19278,
+          "confirmed": 19432,
           "date": "2020-08-31",
           "deaths": 729,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 18310,
+          "confirmed": 18417,
           "date": "2020-08-31",
-          "deaths": 555,
+          "deaths": 558,
           "recovered": 0
         }
       },
