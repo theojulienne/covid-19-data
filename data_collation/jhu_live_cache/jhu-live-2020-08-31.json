@@ -347,7 +347,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44148,
+          "confirmed": 44183,
           "date": "2020-08-31",
           "deaths": 2856,
           "recovered": 40000
@@ -1487,9 +1487,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 423964,
+          "confirmed": 425107,
           "date": "2020-08-31",
-          "deaths": 7390,
+          "deaths": 7446,
           "recovered": 0
         }
       },
@@ -1683,15 +1683,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 288989,
+          "confirmed": 290138,
           "date": "2020-08-31",
-          "deaths": 36850,
+          "deaths": 36852,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 20318,
+          "confirmed": 20478,
           "date": "2020-08-31",
           "deaths": 2494,
           "recovered": 0
@@ -1699,7 +1699,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 17973,
+          "confirmed": 18012,
           "date": "2020-08-31",
           "deaths": 1595,
           "recovered": 0
