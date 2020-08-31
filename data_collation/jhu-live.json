@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19088,
+          "confirmed": 19080,
           "date": "2020-08-31",
           "deaths": 565,
           "recovered": 15580
@@ -130,7 +130,7 @@
           "confirmed": 42892,
           "date": "2020-08-31",
           "deaths": 660,
-          "recovered": 30816
+          "recovered": 30977
         }
       },
       "Amazonas": {
@@ -194,7 +194,7 @@
           "confirmed": 90337,
           "date": "2020-08-31",
           "deaths": 2725,
-          "recovered": 70293
+          "recovered": 70889
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 77265,
           "date": "2020-08-31",
           "deaths": 1815,
-          "recovered": 74829
+          "recovered": 74964
         }
       },
       "Rio Grande do Norte": {
@@ -613,10 +613,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 59645,
+      "confirmed": 60174,
       "date": "2020-08-31",
-      "deaths": 1842,
-      "recovered": 10156
+      "deaths": 1858,
+      "recovered": 10242
     }
   },
   "India": {
@@ -905,10 +905,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 19699,
+      "confirmed": 19947,
       "date": "2020-08-31",
-      "deaths": 323,
-      "recovered": 14903
+      "deaths": 324,
+      "recovered": 14973
     }
   },
   "Kuwait": {
