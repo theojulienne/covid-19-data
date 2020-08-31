@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 408426,
       "date": "2020-08-31",
-      "deaths": 8457,
-      "recovered": 294007
+      "deaths": 8498,
+      "recovered": 301195
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 36309,
+      "confirmed": 36435,
       "date": "2020-08-31",
-      "deaths": 531,
-      "recovered": 33703
+      "deaths": 534,
+      "recovered": 33847
     }
   },
   "Bahrain": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 19793,
+      "confirmed": 19964,
       "date": "2020-08-31",
-      "deaths": 598,
-      "recovered": 12961
+      "deaths": 609,
+      "recovered": 13095
     }
   },
   "Brazil": {
@@ -556,7 +556,7 @@
       "confirmed": 299320,
       "date": "2020-08-31",
       "deaths": 30467,
-      "recovered": 73279
+      "recovered": 73412
     }
   },
   "Germany": {
@@ -1233,10 +1233,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 118575,
+      "confirmed": 118778,
       "date": "2020-08-31",
       "deaths": 197,
-      "recovered": 115430
+      "recovered": 115667
     }
   },
   "Romania": {
@@ -1325,17 +1325,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 314821,
+      "confirmed": 315772,
       "date": "2020-08-31",
-      "deaths": 3870,
-      "recovered": 289667
+      "deaths": 3897,
+      "recovered": 290796
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 31365,
+      "confirmed": 31406,
       "date": "2020-08-31",
-      "deaths": 711,
+      "deaths": 713,
       "recovered": 0
     }
   },
@@ -1631,7 +1631,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 378329,
+          "confirmed": 378439,
           "date": "2020-08-31",
           "deaths": 7847,
           "recovered": 0
@@ -1709,10 +1709,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 41651,
+      "confirmed": 41787,
       "date": "2020-08-31",
-      "deaths": 317,
-      "recovered": 38819
+      "deaths": 319,
+      "recovered": 39068
     }
   },
   "Venezuela": {
