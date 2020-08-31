@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 71687,
+      "confirmed": 71843,
       "date": "2020-08-31",
-      "deaths": 676,
-      "recovered": 70452
+      "deaths": 681,
+      "recovered": 70468
     }
   },
   "Belgium": {
@@ -1061,10 +1061,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 38561,
+      "confirmed": 39460,
       "date": "2020-08-31",
-      "deaths": 221,
-      "recovered": 20822
+      "deaths": 228,
+      "recovered": 21410
     }
   },
   "Netherlands": {
@@ -1445,7 +1445,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 42014,
+      "confirmed": 42177,
       "date": "2020-08-31",
       "deaths": 2005,
       "recovered": 35800
@@ -1725,10 +1725,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 22204,
+      "confirmed": 22729,
       "date": "2020-08-31",
       "deaths": 152,
-      "recovered": 14787
+      "recovered": 15056
     }
   }
 }
