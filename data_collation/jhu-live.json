@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 401239,
+      "confirmed": 408426,
       "date": "2020-08-30",
-      "deaths": 8401,
+      "deaths": 8457,
       "recovered": 294007
     }
   },
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 24198,
+      "confirmed": 24367,
       "date": "2020-08-30",
       "deaths": 423,
-      "recovered": 17546
+      "recovered": 17547
     }
   },
   "Denmark": {
@@ -605,10 +605,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 73679,
+      "confirmed": 73912,
       "date": "2020-08-30",
-      "deaths": 2728,
-      "recovered": 61163
+      "deaths": 2740,
+      "recovered": 61681
     }
   },
   "Honduras": {
@@ -1081,10 +1081,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 53727,
+      "confirmed": 53865,
       "date": "2020-08-30",
-      "deaths": 1011,
-      "recovered": 41314
+      "deaths": 1013,
+      "recovered": 41513
     }
   },
   "Oman": {
@@ -1125,10 +1125,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 91337,
+      "confirmed": 92065,
       "date": "2020-08-30",
-      "deaths": 1983,
-      "recovered": 65119
+      "deaths": 1995,
+      "recovered": 65747
     }
   },
   "Paraguay": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 549672,
+          "confirmed": 550593,
           "date": "2020-08-30",
-          "deaths": 10777,
+          "deaths": 10783,
           "recovered": 0
         }
       },
@@ -1585,7 +1585,7 @@
         "live": {
           "confirmed": 360291,
           "date": "2020-08-30",
-          "deaths": 29338,
+          "deaths": 29340,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 377565,
+          "confirmed": 377849,
           "date": "2020-08-30",
-          "deaths": 7835,
+          "deaths": 7839,
           "recovered": 0
         }
       },
@@ -1717,10 +1717,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 44946,
+      "confirmed": 45868,
       "date": "2020-08-30",
-      "deaths": 375,
-      "recovered": 36175
+      "deaths": 381,
+      "recovered": 37091
     }
   },
   "West Bank and Gaza": {
