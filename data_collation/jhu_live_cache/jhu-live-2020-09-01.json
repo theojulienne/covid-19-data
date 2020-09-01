@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 44494,
+      "confirmed": 44833,
       "date": "2020-09-01",
-      "deaths": 1510,
-      "recovered": 31244
+      "deaths": 1518,
+      "recovered": 31493
     }
   },
   "Argentina": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 307122,
+      "confirmed": 307083,
       "date": "2020-09-01",
-      "deaths": 30521,
-      "recovered": 73780
+      "deaths": 30520,
+      "recovered": 73727
     }
   },
   "Germany": {
@@ -1045,10 +1045,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 62590,
+      "confirmed": 63781,
       "date": "2020-09-01",
-      "deaths": 1141,
-      "recovered": 47595
+      "deaths": 1184,
+      "recovered": 48922
     }
   },
   "Nepal": {
@@ -1457,15 +1457,15 @@
         "live": {
           "confirmed": 155290,
           "date": "2020-09-01",
-          "deaths": 3537,
+          "deaths": 3552,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 555013,
+          "confirmed": 555407,
           "date": "2020-09-01",
-          "deaths": 10852,
+          "deaths": 10854,
           "recovered": 0
         }
       },
@@ -1479,9 +1479,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 425107,
+          "confirmed": 430241,
           "date": "2020-09-01",
-          "deaths": 7446,
+          "deaths": 7576,
           "recovered": 0
         }
       },
@@ -1551,9 +1551,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 59420,
+          "confirmed": 59716,
           "date": "2020-09-01",
-          "deaths": 1126,
+          "deaths": 1134,
           "recovered": 0
         }
       },
@@ -1583,17 +1583,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 21785,
+          "confirmed": 22005,
           "date": "2020-09-01",
-          "deaths": 562,
+          "deaths": 563,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 33778,
+          "confirmed": 33909,
           "date": "2020-09-01",
-          "deaths": 1749,
+          "deaths": 1751,
           "recovered": 0
         }
       },
