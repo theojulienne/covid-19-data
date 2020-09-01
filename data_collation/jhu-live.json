@@ -1053,10 +1053,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 39460,
+      "confirmed": 40529,
       "date": "2020-09-01",
-      "deaths": 228,
-      "recovered": 21410
+      "deaths": 239,
+      "recovered": 22178
     }
   },
   "Netherlands": {
@@ -1437,9 +1437,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 42177,
+      "confirmed": 42393,
       "date": "2020-09-01",
-      "deaths": 2006,
+      "deaths": 2010,
       "recovered": 36100
     }
   },
@@ -1709,10 +1709,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 22729,
+      "confirmed": 23281,
       "date": "2020-09-01",
-      "deaths": 152,
-      "recovered": 15056
+      "deaths": 159,
+      "recovered": 15338
     }
   }
 }

@@ -450,7 +450,8 @@ var covid19_dataset_country_che = {
       41346,
       41722,
       42014,
-      42177
+      42177,
+      42393
     ],
     "deaths": [
       0,
@@ -675,7 +676,8 @@ var covid19_dataset_country_che = {
       2004,
       2005,
       2005,
-      2006
+      2006,
+      2010
     ],
     "recovered": [
       0,
