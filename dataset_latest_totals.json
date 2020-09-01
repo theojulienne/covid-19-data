@@ -70,19 +70,19 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 67007,
+        "confirmed": 67282,
         "deaths": 375,
-        "recovered": 58488
+        "recovered": 58582
       },
       "back_2week": {
-        "confirmed": 64312,
+        "confirmed": 64541,
         "deaths": 364,
-        "recovered": 57694
+        "recovered": 57794
       },
       "latest": {
-        "confirmed": 69690,
+        "confirmed": 70231,
         "deaths": 382,
-        "recovered": 60600
+        "recovered": 60931
       }
     },
     "ARG": {
@@ -1318,19 +1318,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 265550,
-        "deaths": 30382,
-        "recovered": 72623
+        "confirmed": 267392,
+        "deaths": 30396,
+        "recovered": 72793
       },
       "back_2week": {
-        "confirmed": 239306,
-        "deaths": 30279,
-        "recovered": 71971
+        "confirmed": 242650,
+        "deaths": 30302,
+        "recovered": 72072
       },
       "latest": {
-        "confirmed": 299320,
-        "deaths": 30470,
-        "recovered": 73279
+        "confirmed": 302175,
+        "deaths": 30495,
+        "recovered": 73537
       },
       "states": {
         "French Guiana": {
@@ -2221,17 +2221,17 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 33478,
+        "confirmed": 33828,
         "deaths": 945,
         "recovered": 22683
       },
       "back_2week": {
-        "confirmed": 30183,
+        "confirmed": 30377,
         "deaths": 908,
         "recovered": 21220
       },
       "latest": {
-        "confirmed": 36700,
+        "confirmed": 36920,
         "deaths": 995,
         "recovered": 25139
       }
@@ -2917,17 +2917,17 @@
       "back_1week": {
         "confirmed": 56404,
         "deaths": 27,
-        "recovered": 54164
+        "recovered": 54587
       },
       "back_2week": {
         "confirmed": 55838,
         "deaths": 27,
-        "recovered": 51953
+        "recovered": 52350
       },
       "latest": {
         "confirmed": 56812,
         "deaths": 27,
-        "recovered": 55586
+        "recovered": 55658
       }
     },
     "SLE": {
