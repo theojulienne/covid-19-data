@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19150,
+          "confirmed": 19138,
           "date": "2020-09-01",
           "deaths": 570,
           "recovered": 15814
@@ -85,18 +85,18 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 85042,
+      "confirmed": 85236,
       "date": "2020-09-01",
-      "deaths": 9894,
-      "recovered": 18415
+      "deaths": 9895,
+      "recovered": 18422
     }
   },
   "Bolivia": {
     "live": {
-      "confirmed": 115968,
+      "confirmed": 116598,
       "date": "2020-09-01",
-      "deaths": 4966,
-      "recovered": 58497
+      "deaths": 5027,
+      "recovered": 60408
     }
   },
   "Bosnia and Herzegovina": {
@@ -881,7 +881,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 105795,
+      "confirmed": 105872,
       "date": "2020-09-01",
       "deaths": 1523,
       "recovered": 96297
@@ -897,10 +897,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 19947,
+      "confirmed": 20182,
       "date": "2020-09-01",
       "deaths": 324,
-      "recovered": 14973
+      "recovered": 15198
     }
   },
   "Kuwait": {
@@ -1125,10 +1125,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 17105,
+      "confirmed": 17662,
       "date": "2020-09-01",
-      "deaths": 308,
-      "recovered": 9146
+      "deaths": 326,
+      "recovered": 9421
     }
   },
   "Peru": {
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 554575,
+          "confirmed": 554879,
           "date": "2020-09-01",
           "deaths": 10853,
           "recovered": 0
@@ -1615,7 +1615,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 380182,
+          "confirmed": 380642,
           "date": "2020-09-01",
           "deaths": 7929,
           "recovered": 0
