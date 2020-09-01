@@ -223,7 +223,8 @@ var covid19_dataset_country_bhr = {
     "2020-08-29",
     "2020-08-30",
     "2020-08-31",
-    "2020-09-01"
+    "2020-09-01",
+    "2020-09-02"
   ],
   "total": {
     "confirmed": [
@@ -672,8 +673,7 @@ var covid19_dataset_country_bhr = {
       188,
       189,
       189,
-      189,
-      190
+      189
     ],
     "recovered": [
       0,
