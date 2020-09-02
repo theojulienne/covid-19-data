@@ -905,10 +905,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 85811,
+      "confirmed": 86478,
       "date": "2020-09-02",
-      "deaths": 534,
-      "recovered": 77657
+      "deaths": 535,
+      "recovered": 78209
     }
   },
   "Kyrgyzstan": {
@@ -1053,10 +1053,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 40529,
+      "confirmed": 41649,
       "date": "2020-09-02",
-      "deaths": 239,
-      "recovered": 22178
+      "deaths": 251,
+      "recovered": 23290
     }
   },
   "Netherlands": {
@@ -1437,7 +1437,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 42393,
+      "confirmed": 42763,
       "date": "2020-09-02",
       "deaths": 2011,
       "recovered": 36300
