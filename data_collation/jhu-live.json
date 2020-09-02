@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44418,
+          "confirmed": 44444,
           "date": "2020-09-02",
           "deaths": 2858,
-          "recovered": 40192
+          "recovered": 40250
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 62614,
+          "confirmed": 62746,
           "date": "2020-09-02",
-          "deaths": 5762,
-          "recovered": 55438
+          "deaths": 5764,
+          "recovered": 55515
         }
       }
     }
@@ -1503,9 +1503,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 18567,
+          "confirmed": 18721,
           "date": "2020-09-02",
-          "deaths": 747,
+          "deaths": 749,
           "recovered": 0
         }
       },
@@ -1535,7 +1535,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 23209,
+          "confirmed": 23372,
           "date": "2020-09-02",
           "deaths": 881,
           "recovered": 0
@@ -1567,7 +1567,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 345901,
+          "confirmed": 346316,
           "date": "2020-09-02",
           "deaths": 28248,
           "recovered": 0
@@ -1667,23 +1667,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 291179,
+          "confirmed": 292418,
           "date": "2020-09-02",
-          "deaths": 36854,
+          "deaths": 36861,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 20632,
+          "confirmed": 20788,
           "date": "2020-09-02",
-          "deaths": 2494,
+          "deaths": 2495,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 18063,
+          "confirmed": 18105,
           "date": "2020-09-02",
           "deaths": 1596,
           "recovered": 0
