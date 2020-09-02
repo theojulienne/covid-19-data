@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19228,
+          "confirmed": 19224,
           "date": "2020-09-02",
           "deaths": 576,
           "recovered": 15967
@@ -589,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 44298,
+      "confirmed": 44460,
       "date": "2020-09-02",
       "deaths": 276,
-      "recovered": 42963
+      "recovered": 43121
     }
   },
   "Guatemala": {
@@ -931,106 +931,106 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 16875,
+          "confirmed": 16987,
           "date": "2020-09-02",
-          "deaths": 3145,
-          "recovered": 13082
+          "deaths": 3164,
+          "recovered": 13157
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 98450,
+          "confirmed": 99564,
           "date": "2020-09-02",
-          "deaths": 10532,
-          "recovered": 80750
+          "deaths": 10591,
+          "recovered": 82245
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 21607,
+          "confirmed": 21919,
           "date": "2020-09-02",
-          "deaths": 1379,
-          "recovered": 18394
+          "deaths": 1412,
+          "recovered": 18647
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 31662,
+          "confirmed": 31998,
           "date": "2020-09-02",
-          "deaths": 2041,
-          "recovered": 26766
+          "deaths": 2150,
+          "recovered": 27062
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 20324,
+          "confirmed": 20595,
           "date": "2020-09-02",
-          "deaths": 2428,
-          "recovered": 16219
+          "deaths": 2473,
+          "recovered": 16281
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 67828,
+          "confirmed": 68516,
           "date": "2020-09-02",
-          "deaths": 8017,
-          "recovered": 56375
+          "deaths": 8082,
+          "recovered": 57137
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 29083,
+          "confirmed": 29524,
           "date": "2020-09-02",
-          "deaths": 2233,
-          "recovered": 23847
+          "deaths": 2285,
+          "recovered": 24150
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 26899,
+          "confirmed": 27070,
           "date": "2020-09-02",
-          "deaths": 3518,
-          "recovered": 22222
+          "deaths": 3575,
+          "recovered": 22217
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 18113,
+          "confirmed": 18284,
           "date": "2020-09-02",
-          "deaths": 1167,
-          "recovered": 15612
+          "deaths": 1190,
+          "recovered": 15860
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 21433,
+          "confirmed": 21659,
           "date": "2020-09-02",
-          "deaths": 2646,
-          "recovered": 18034
+          "deaths": 2657,
+          "recovered": 18196
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 28354,
+          "confirmed": 28471,
           "date": "2020-09-02",
-          "deaths": 2565,
-          "recovered": 24685
+          "deaths": 2589,
+          "recovered": 24704
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 24452,
+          "confirmed": 24793,
           "date": "2020-09-02",
-          "deaths": 1793,
-          "recovered": 21623
+          "deaths": 1823,
+          "recovered": 21839
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 28264,
+          "confirmed": 28581,
           "date": "2020-09-02",
-          "deaths": 3666,
-          "recovered": 23225
+          "deaths": 3702,
+          "recovered": 23486
         }
       }
     }
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 557411,
+          "confirmed": 557527,
           "date": "2020-09-02",
           "deaths": 10971,
           "recovered": 0
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 382945,
+          "confirmed": 383076,
           "date": "2020-09-02",
-          "deaths": 8001,
+          "deaths": 8015,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 46728,
+      "confirmed": 47756,
       "date": "2020-09-02",
-      "deaths": 386,
-      "recovered": 38112
+      "deaths": 391,
+      "recovered": 39027
     }
   },
   "West Bank and Gaza": {
