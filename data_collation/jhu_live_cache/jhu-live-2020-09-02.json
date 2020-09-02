@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 52440,
+      "confirmed": 52807,
       "date": "2020-09-02",
       "deaths": 190,
-      "recovered": 49395
+      "recovered": 49645
     }
   },
   "Bangladesh": {
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44511,
+          "confirmed": 44566,
           "date": "2020-09-02",
           "deaths": 2858,
-          "recovered": 40275
+          "recovered": 40315
         }
       },
       "Quebec": {
@@ -473,18 +473,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 42184,
+      "confirmed": 43305,
       "date": "2020-09-02",
-      "deaths": 443,
-      "recovered": 16270
+      "deaths": 453,
+      "recovered": 16512
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 18103,
+      "confirmed": 18161,
       "date": "2020-09-02",
       "deaths": 117,
-      "recovered": 16814
+      "recovered": 16933
     }
   },
   "Czechia": {
@@ -1440,7 +1440,7 @@
       "confirmed": 42763,
       "date": "2020-09-02",
       "deaths": 2011,
-      "recovered": 36300
+      "recovered": 36500
     }
   },
   "Turkey": {
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 559487,
+          "confirmed": 560740,
           "date": "2020-09-02",
-          "deaths": 11036,
+          "deaths": 11086,
           "recovered": 0
         }
       },
@@ -1487,9 +1487,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 83684,
+          "confirmed": 66968,
           "date": "2020-09-02",
-          "deaths": 1574,
+          "deaths": 1265,
           "recovered": 0
         }
       },
@@ -1597,6 +1597,14 @@
           "recovered": 0
         }
       },
+      "Rhode Island": {
+        "live": {
+          "confirmed": 17107,
+          "date": "2020-09-02",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
       "Tennessee": {
         "live": {
           "confirmed": 50967,
@@ -1607,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 383449,
+          "confirmed": 384116,
           "date": "2020-09-02",
-          "deaths": 8015,
+          "deaths": 8106,
           "recovered": 0
         }
       },
