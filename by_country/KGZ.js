@@ -453,7 +453,8 @@ var covid19_dataset_country_kgz = {
       43712,
       43820,
       43898,
-      43958
+      43958,
+      44036
     ],
     "deaths": [
       0,
@@ -679,6 +680,7 @@ var covid19_dataset_country_kgz = {
       1057,
       1058,
       1058,
+      1059,
       1059
     ],
     "recovered": [
@@ -905,7 +907,8 @@ var covid19_dataset_country_kgz = {
       37973,
       38198,
       38459,
-      38649
+      38649,
+      38895
     ]
   }
 };
