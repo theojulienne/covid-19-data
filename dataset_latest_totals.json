@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 106460,
+        "confirmed": 108403,
         "deaths": 859,
-        "recovered": 83822
+        "recovered": 86466
       },
       "back_2week": {
-        "confirmed": 96409,
+        "confirmed": 97969,
         "deaths": 708,
-        "recovered": 71990
+        "recovered": 73092
       },
       "latest": {
-        "confirmed": 118538,
+        "confirmed": 121464,
         "deaths": 957,
-        "recovered": 96214
+        "recovered": 97234
       }
     },
     "ITA": {
@@ -1900,12 +1900,12 @@
       "back_1week": {
         "confirmed": 105075,
         "deaths": 1523,
-        "recovered": 93990
+        "recovered": 94713
       },
       "back_2week": {
         "confirmed": 103571,
         "deaths": 1415,
-        "recovered": 86286
+        "recovered": 86450
       },
       "latest": {
         "confirmed": 105944,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 43245,
+        "confirmed": 43358,
         "deaths": 1057,
-        "recovered": 36925
+        "recovered": 37217
       },
       "back_2week": {
-        "confirmed": 42146,
+        "confirmed": 42325,
         "deaths": 1498,
-        "recovered": 34855
+        "recovered": 35197
       },
       "latest": {
-        "confirmed": 43958,
+        "confirmed": 44036,
         "deaths": 1059,
-        "recovered": 38649
+        "recovered": 38895
       }
     },
     "KHM": {
@@ -3737,19 +3737,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 39641,
-        "deaths": 284,
-        "recovered": 35869
+        "confirmed": 39964,
+        "deaths": 291,
+        "recovered": 36402
       },
       "back_2week": {
-        "confirmed": 36352,
-        "deaths": 242,
-        "recovered": 32062
+        "confirmed": 37112,
+        "deaths": 248,
+        "recovered": 32944
       },
       "latest": {
-        "confirmed": 42127,
-        "deaths": 323,
-        "recovered": 39538
+        "confirmed": 42437,
+        "deaths": 327,
+        "recovered": 39664
       }
     },
     "VAT": {
