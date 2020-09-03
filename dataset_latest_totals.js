@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 70727,
-        "deaths": 652,
-        "recovered": 69097
+        "confirmed": 70974,
+        "deaths": 657,
+        "recovered": 69378
       },
       "back_2week": {
-        "confirmed": 69673,
-        "deaths": 617,
-        "recovered": 67339
+        "confirmed": 69801,
+        "deaths": 622,
+        "recovered": 67647
       },
       "latest": {
-        "confirmed": 71962,
-        "deaths": 686,
-        "recovered": 70606
+        "confirmed": 72141,
+        "deaths": 691,
+        "recovered": 70900
       }
     },
     "BLZ": {
@@ -1762,19 +1762,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 363363,
-        "deaths": 20901,
-        "recovered": 313058
+        "confirmed": 365606,
+        "deaths": 21020,
+        "recovered": 314870
       },
       "back_2week": {
-        "confirmed": 347835,
-        "deaths": 19972,
-        "recovered": 300881
+        "confirmed": 350279,
+        "deaths": 20125,
+        "recovered": 302528
       },
       "latest": {
-        "confirmed": 376894,
-        "deaths": 21672,
-        "recovered": 325124
+        "confirmed": 378752,
+        "deaths": 21797,
+        "recovered": 326801
       }
     },
     "IRQ": {
@@ -2583,19 +2583,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 33533,
-        "deaths": 164,
-        "recovered": 19119
+        "confirmed": 34418,
+        "deaths": 175,
+        "recovered": 19504
       },
       "back_2week": {
-        "confirmed": 28257,
-        "deaths": 114,
-        "recovered": 17580
+        "confirmed": 28938,
+        "deaths": 120,
+        "recovered": 17700
       },
       "latest": {
-        "confirmed": 40529,
-        "deaths": 239,
-        "recovered": 22178
+        "confirmed": 41649,
+        "deaths": 251,
+        "recovered": 23290
       }
     },
     "NZL": {

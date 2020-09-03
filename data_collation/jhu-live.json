@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 72141,
+      "confirmed": 72302,
       "date": "2020-09-03",
-      "deaths": 691,
-      "recovered": 70900
+      "deaths": 696,
+      "recovered": 71205
     }
   },
   "Belgium": {
@@ -801,10 +801,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 378752,
+      "confirmed": 380746,
       "date": "2020-09-03",
-      "deaths": 21797,
-      "recovered": 326801
+      "deaths": 21926,
+      "recovered": 328595
     }
   },
   "Iraq": {
@@ -1053,10 +1053,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 41649,
+      "confirmed": 42877,
       "date": "2020-09-03",
-      "deaths": 251,
-      "recovered": 23290
+      "deaths": 257,
+      "recovered": 24207
     }
   },
   "Netherlands": {
