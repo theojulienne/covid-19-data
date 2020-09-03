@@ -7307,7 +7307,7 @@ var covid19_dataset_country_fra = {
       302175,
       306951,
       313730,
-      320887
+      320729
     ],
     "deaths": [
       0,
