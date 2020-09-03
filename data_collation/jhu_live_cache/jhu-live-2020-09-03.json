@@ -558,7 +558,7 @@
           "confirmed": 42614,
           "date": "2020-09-03",
           "deaths": 1868,
-          "recovered": 37437
+          "recovered": 37642
         }
       },
       "Bayern": {
@@ -566,7 +566,7 @@
           "confirmed": 58077,
           "date": "2020-09-03",
           "deaths": 2641,
-          "recovered": 51474
+          "recovered": 51812
         }
       },
       "Niedersachsen": {
@@ -574,14 +574,14 @@
           "confirmed": 16992,
           "date": "2020-09-03",
           "deaths": 665,
-          "recovered": 15112
+          "recovered": 15180
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 59263,
+          "confirmed": 59527,
           "date": "2020-09-03",
-          "deaths": 1817,
+          "deaths": 1819,
           "recovered": 54084
         }
       }
@@ -793,10 +793,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 180646,
+      "confirmed": 184268,
       "date": "2020-09-03",
-      "deaths": 7616,
-      "recovered": 129971
+      "deaths": 7750,
+      "recovered": 132055
     }
   },
   "Iran": {
@@ -1201,10 +1201,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 226440,
+      "confirmed": 228403,
       "date": "2020-09-03",
-      "deaths": 3623,
-      "recovered": 158610
+      "deaths": 3688,
+      "recovered": 159475
     }
   },
   "Poland": {
@@ -1243,74 +1243,74 @@
     "subseries": {
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 16958,
+          "confirmed": 17033,
           "date": "2020-09-03",
-          "deaths": 251,
-          "recovered": 13080
+          "deaths": 252,
+          "recovered": 13205
         }
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 19744,
+          "confirmed": 19816,
           "date": "2020-09-03",
-          "deaths": 169,
-          "recovered": 18601
+          "deaths": 170,
+          "recovered": 18713
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 17089,
+          "confirmed": 17197,
           "date": "2020-09-03",
-          "deaths": 486,
-          "recovered": 13587
+          "deaths": 492,
+          "recovered": 13670
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 263684,
+          "confirmed": 264374,
           "date": "2020-09-03",
-          "deaths": 4844,
-          "recovered": 216742
+          "deaths": 4857,
+          "recovered": 217899
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 68537,
+          "confirmed": 68700,
           "date": "2020-09-03",
-          "deaths": 1198,
-          "recovered": 51840
+          "deaths": 1204,
+          "recovered": 52051
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 27967,
+          "confirmed": 28110,
           "date": "2020-09-03",
-          "deaths": 481,
-          "recovered": 24967
+          "deaths": 485,
+          "recovered": 25077
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 17205,
+          "confirmed": 17344,
           "date": "2020-09-03",
-          "deaths": 359,
-          "recovered": 14690
+          "deaths": 363,
+          "recovered": 14802
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 37041,
+          "confirmed": 37232,
           "date": "2020-09-03",
-          "deaths": 2461,
-          "recovered": 25981
+          "deaths": 2483,
+          "recovered": 26093
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 25547,
+          "confirmed": 25668,
           "date": "2020-09-03",
-          "deaths": 460,
-          "recovered": 20027
+          "deaths": 466,
+          "recovered": 20129
         }
       }
     }
@@ -1333,7 +1333,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 56860,
+      "confirmed": 56908,
       "date": "2020-09-03",
       "deaths": 27,
       "recovered": 55891
