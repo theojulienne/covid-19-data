@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 211947,
-        "deaths": 6596,
-        "recovered": 153761
+        "confirmed": 215784,
+        "deaths": 6668,
+        "recovered": 157215
       },
       "back_2week": {
-        "confirmed": 184709,
-        "deaths": 6036,
-        "recovered": 131840
+        "confirmed": 188802,
+        "deaths": 6121,
+        "recovered": 134369
       },
       "latest": {
-        "confirmed": 238338,
-        "deaths": 7123,
-        "recovered": 180473
+        "confirmed": 242284,
+        "deaths": 7201,
+        "recovered": 184205
       }
     },
     "ISL": {
