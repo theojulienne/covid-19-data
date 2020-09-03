@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 561787,
+          "confirmed": 562505,
           "date": "2020-09-03",
-          "deaths": 11120,
+          "deaths": 11154,
           "recovered": 0
         }
       },
@@ -1583,17 +1583,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 22161,
+          "confirmed": 22392,
           "date": "2020-09-03",
-          "deaths": 563,
+          "deaths": 565,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 34144,
+          "confirmed": 34311,
           "date": "2020-09-03",
-          "deaths": 1758,
+          "deaths": 1759,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 24250,
+          "confirmed": 24416,
           "date": "2020-09-03",
-          "deaths": 231,
+          "deaths": 234,
           "recovered": 0
         }
       },
