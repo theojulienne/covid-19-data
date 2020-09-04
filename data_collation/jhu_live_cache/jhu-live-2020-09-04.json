@@ -1053,10 +1053,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 42877,
+      "confirmed": 44236,
       "date": "2020-09-04",
-      "deaths": 257,
-      "recovered": 24207
+      "deaths": 271,
+      "recovered": 25561
     }
   },
   "Netherlands": {
@@ -1657,10 +1657,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 72154,
+      "confirmed": 72766,
       "date": "2020-09-04",
       "deaths": 387,
-      "recovered": 62668
+      "recovered": 63158
     }
   },
   "United Kingdom": {
