@@ -226,7 +226,8 @@ var covid19_dataset_country_aze = {
     "2020-09-01",
     "2020-09-02",
     "2020-09-03",
-    "2020-09-04"
+    "2020-09-04",
+    "2020-09-05"
   ],
   "total": {
     "confirmed": [
@@ -454,8 +455,7 @@ var covid19_dataset_country_aze = {
       36309,
       36435,
       36578,
-      36732,
-      36899
+      36732
     ],
     "deaths": [
       0,
@@ -682,8 +682,7 @@ var covid19_dataset_country_aze = {
       531,
       534,
       536,
-      538,
-      541
+      538
     ],
     "recovered": [
       0,
