@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38288,
+      "confirmed": 38304,
       "date": "2020-09-04",
       "deaths": 1409,
-      "recovered": 29390
+      "recovered": 29713
     }
   },
   "Algeria": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 36899,
+      "confirmed": 37031,
       "date": "2020-09-04",
-      "deaths": 541,
-      "recovered": 34264
+      "deaths": 543,
+      "recovered": 34419
     }
   },
   "Bahrain": {
@@ -1225,10 +1225,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 119420,
+      "confirmed": 119637,
       "date": "2020-09-04",
       "deaths": 201,
-      "recovered": 116313
+      "recovered": 116538
     }
   },
   "Romania": {
@@ -1511,9 +1511,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46846,
+          "confirmed": 47096,
           "date": "2020-09-04",
-          "deaths": 1618,
+          "deaths": 1620,
           "recovered": 0
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 18671,
+          "confirmed": 18740,
           "date": "2020-09-04",
           "deaths": 562,
           "recovered": 0
