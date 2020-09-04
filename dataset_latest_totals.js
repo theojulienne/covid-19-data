@@ -1165,19 +1165,19 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 110549,
-        "deaths": 6410,
-        "recovered": 95097
+        "confirmed": 111219,
+        "deaths": 6471,
+        "recovered": 95202
       },
       "back_2week": {
-        "confirmed": 104475,
-        "deaths": 6146,
-        "recovered": 87277
+        "confirmed": 105508,
+        "deaths": 6200,
+        "recovered": 87660
       },
       "latest": {
-        "confirmed": 115457,
-        "deaths": 6619,
-        "recovered": 101867
+        "confirmed": 116360,
+        "deaths": 6648,
+        "recovered": 102051
       }
     },
     "EGY": {
@@ -1267,19 +1267,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 45221,
-        "deaths": 725,
-        "recovered": 16311
+        "confirmed": 46407,
+        "deaths": 745,
+        "recovered": 16829
       },
       "back_2week": {
-        "confirmed": 34058,
-        "deaths": 600,
-        "recovered": 13308
+        "confirmed": 35836,
+        "deaths": 620,
+        "recovered": 13536
       },
       "latest": {
-        "confirmed": 54409,
-        "deaths": 846,
-        "recovered": 19903
+        "confirmed": 55213,
+        "deaths": 856,
+        "recovered": 20283
       }
     },
     "FIN": {
@@ -2187,19 +2187,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 55864,
-        "deaths": 984,
-        "recovered": 40586
+        "confirmed": 57085,
+        "deaths": 1011,
+        "recovered": 41901
       },
       "back_2week": {
-        "confirmed": 46313,
-        "deaths": 743,
-        "recovered": 31576
+        "confirmed": 47638,
+        "deaths": 775,
+        "recovered": 32806
       },
       "latest": {
-        "confirmed": 65453,
-        "deaths": 1216,
-        "recovered": 50357
+        "confirmed": 66855,
+        "deaths": 1253,
+        "recovered": 51223
       }
     },
     "MCO": {
