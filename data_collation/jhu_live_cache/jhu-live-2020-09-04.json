@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 451198,
       "date": "2020-09-04",
-      "deaths": 9361,
-      "recovered": 322461
+      "deaths": 9468,
+      "recovered": 331621
     }
   },
   "Armenia": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 58285,
+          "confirmed": 58583,
           "date": "2020-09-04",
           "deaths": 2641,
           "recovered": 52085
@@ -571,7 +571,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 17043,
+          "confirmed": 17144,
           "date": "2020-09-04",
           "deaths": 665,
           "recovered": 15264
@@ -579,10 +579,10 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 59677,
+          "confirmed": 59810,
           "date": "2020-09-04",
-          "deaths": 1819,
-          "recovered": 54672
+          "deaths": 1821,
+          "recovered": 54921
         }
       }
     }
@@ -809,10 +809,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 247039,
+      "confirmed": 252075,
       "date": "2020-09-04",
-      "deaths": 7275,
-      "recovered": 187757
+      "deaths": 7359,
+      "recovered": 191368
     }
   },
   "Ireland": {
@@ -1217,10 +1217,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 59051,
+      "confirmed": 59457,
       "date": "2020-09-04",
-      "deaths": 1829,
-      "recovered": 42427
+      "deaths": 1833,
+      "recovered": 42576
     }
   },
   "Qatar": {
@@ -1317,17 +1317,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 318319,
+      "confirmed": 319141,
       "date": "2020-09-04",
-      "deaths": 3982,
-      "recovered": 293964
+      "deaths": 4015,
+      "recovered": 295063
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 31676,
+      "confirmed": 31772,
       "date": "2020-09-04",
-      "deaths": 718,
+      "deaths": 721,
       "recovered": 0
     }
   },
@@ -1693,10 +1693,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 42903,
+      "confirmed": 42998,
       "date": "2020-09-04",
-      "deaths": 336,
-      "recovered": 40176
+      "deaths": 338,
+      "recovered": 40392
     }
   },
   "Venezuela": {
