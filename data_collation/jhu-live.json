@@ -931,106 +931,106 @@
     "subseries": {
       "Baja California": {
         "live": {
-          "confirmed": 17069,
+          "confirmed": 17166,
           "date": "2020-09-04",
-          "deaths": 3174,
-          "recovered": 13197
+          "deaths": 3196,
+          "recovered": 13241
         }
       },
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 100394,
+          "confirmed": 101571,
           "date": "2020-09-04",
-          "deaths": 10671,
-          "recovered": 82529
+          "deaths": 10725,
+          "recovered": 83767
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 22074,
+          "confirmed": 22338,
           "date": "2020-09-04",
-          "deaths": 1428,
-          "recovered": 18862
+          "deaths": 1452,
+          "recovered": 19234
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 32376,
+          "confirmed": 32922,
           "date": "2020-09-04",
-          "deaths": 2177,
-          "recovered": 27230
+          "deaths": 2231,
+          "recovered": 27589
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 20794,
+          "confirmed": 21049,
           "date": "2020-09-04",
-          "deaths": 2508,
-          "recovered": 16388
+          "deaths": 2542,
+          "recovered": 16584
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 68844,
+          "confirmed": 69502,
           "date": "2020-09-04",
-          "deaths": 8131,
-          "recovered": 57266
+          "deaths": 8170,
+          "recovered": 57853
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 29951,
+          "confirmed": 30311,
           "date": "2020-09-04",
-          "deaths": 2331,
-          "recovered": 24401
+          "deaths": 2362,
+          "recovered": 24700
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 27348,
+          "confirmed": 27527,
           "date": "2020-09-04",
-          "deaths": 3597,
-          "recovered": 22512
+          "deaths": 3620,
+          "recovered": 22836
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 18514,
+          "confirmed": 18714,
           "date": "2020-09-04",
-          "deaths": 1211,
-          "recovered": 16089
+          "deaths": 1227,
+          "recovered": 16269
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 21713,
+          "confirmed": 21761,
           "date": "2020-09-04",
-          "deaths": 2665,
-          "recovered": 18243
+          "deaths": 2678,
+          "recovered": 18331
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 28626,
+          "confirmed": 28815,
           "date": "2020-09-04",
-          "deaths": 2610,
-          "recovered": 24803
+          "deaths": 2620,
+          "recovered": 24975
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 24870,
+          "confirmed": 24913,
           "date": "2020-09-04",
-          "deaths": 1829,
-          "recovered": 21880
+          "deaths": 1850,
+          "recovered": 22129
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 28734,
+          "confirmed": 28929,
           "date": "2020-09-04",
-          "deaths": 3724,
-          "recovered": 23492
+          "deaths": 3739,
+          "recovered": 23762
         }
       }
     }
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 386508,
+          "confirmed": 386778,
           "date": "2020-09-04",
-          "deaths": 8229,
+          "deaths": 8254,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 48883,
+      "confirmed": 49877,
       "date": "2020-09-04",
-      "deaths": 398,
-      "recovered": 39912
+      "deaths": 402,
+      "recovered": 40574
     }
   },
   "West Bank and Gaza": {
