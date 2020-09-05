@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 54095,
+      "confirmed": 54771,
       "date": "2020-09-05",
       "deaths": 196,
-      "recovered": 50323
+      "recovered": 50645
     }
   },
   "Bangladesh": {
@@ -137,7 +137,7 @@
         "live": {
           "confirmed": 123187,
           "date": "2020-09-05",
-          "deaths": 3841,
+          "deaths": 3834,
           "recovered": 104526
         }
       },
@@ -239,9 +239,9 @@
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 130199,
+          "confirmed": 131230,
           "date": "2020-09-05",
-          "deaths": 7619,
+          "deaths": 7645,
           "recovered": 113496
         }
       },
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44946,
+          "confirmed": 44963,
           "date": "2020-09-05",
           "deaths": 2859,
-          "recovered": 40636
+          "recovered": 40653
         }
       },
       "Quebec": {
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 99582,
+      "confirmed": 99712,
       "date": "2020-09-05",
-      "deaths": 5495,
-      "recovered": 76305
+      "deaths": 5511,
+      "recovered": 77208
     }
   },
   "El Salvador": {
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 77040,
+      "confirmed": 77481,
       "date": "2020-09-05",
-      "deaths": 2825,
-      "recovered": 65029
+      "deaths": 2845,
+      "recovered": 65595
     }
   },
   "Honduras": {
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 569756,
+          "confirmed": 571074,
           "date": "2020-09-05",
-          "deaths": 11421,
+          "deaths": 11443,
           "recovered": 0
         }
       },
