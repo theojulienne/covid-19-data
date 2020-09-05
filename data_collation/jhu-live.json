@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 118781,
+      "confirmed": 119580,
       "date": "2020-09-05",
-      "deaths": 5288,
-      "recovered": 65884
+      "deaths": 5343,
+      "recovered": 67844
     }
   },
   "Bosnia and Herzegovina": {
@@ -130,7 +130,7 @@
           "confirmed": 44454,
           "date": "2020-09-05",
           "deaths": 670,
-          "recovered": 32172
+          "recovered": 32404
         }
       },
       "Amazonas": {
@@ -138,7 +138,7 @@
           "confirmed": 123187,
           "date": "2020-09-05",
           "deaths": 3841,
-          "recovered": 103958
+          "recovered": 104526
         }
       },
       "Bahia": {
@@ -154,7 +154,7 @@
           "confirmed": 230105,
           "date": "2020-09-05",
           "deaths": 8555,
-          "recovered": 194756
+          "recovered": 194827
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 145250,
           "date": "2020-09-05",
           "deaths": 3400,
-          "recovered": 135583
+          "recovered": 135825
         }
       },
       "Maranhao": {
@@ -186,7 +186,7 @@
           "confirmed": 157052,
           "date": "2020-09-05",
           "deaths": 3488,
-          "recovered": 142763
+          "recovered": 145305
         }
       },
       "Mato Grosso": {
@@ -194,7 +194,7 @@
           "confirmed": 96980,
           "date": "2020-09-05",
           "deaths": 2873,
-          "recovered": 77046
+          "recovered": 78192
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 80750,
           "date": "2020-09-05",
           "deaths": 1868,
-          "recovered": 78268
+          "recovered": 79159
         }
       },
       "Rio Grande do Norte": {
@@ -306,7 +306,7 @@
           "confirmed": 845016,
           "date": "2020-09-05",
           "deaths": 31091,
-          "recovered": 668588
+          "recovered": 671574
         }
       },
       "Sergipe": {
@@ -314,7 +314,7 @@
           "confirmed": 73383,
           "date": "2020-09-05",
           "deaths": 1880,
-          "recovered": 63592
+          "recovered": 65965
         }
       },
       "Tocantins": {
@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 63158,
+      "confirmed": 63798,
       "date": "2020-09-05",
-      "deaths": 1954,
-      "recovered": 11618
+      "deaths": 1984,
+      "recovered": 12347
     }
   },
   "India": {
@@ -873,15 +873,15 @@
         "live": {
           "confirmed": 21485,
           "date": "2020-09-05",
-          "deaths": 364,
-          "recovered": 18239
+          "deaths": 369,
+          "recovered": 18487
         }
       }
     }
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106121,
+      "confirmed": 106225,
       "date": "2020-09-05",
       "deaths": 1588,
       "recovered": 98585
@@ -897,10 +897,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 20842,
+      "confirmed": 21010,
       "date": "2020-09-05",
-      "deaths": 331,
-      "recovered": 15783
+      "deaths": 333,
+      "recovered": 16009
     }
   },
   "Kuwait": {
@@ -1125,10 +1125,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 19959,
+      "confirmed": 20654,
       "date": "2020-09-05",
-      "deaths": 373,
-      "recovered": 10251
+      "deaths": 398,
+      "recovered": 10523
     }
   },
   "Peru": {
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 568218,
+          "confirmed": 568021,
           "date": "2020-09-05",
           "deaths": 11384,
           "recovered": 0
@@ -1701,10 +1701,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 49877,
+      "confirmed": 50973,
       "date": "2020-09-05",
-      "deaths": 402,
-      "recovered": 40574
+      "deaths": 412,
+      "recovered": 41249
     }
   },
   "West Bank and Gaza": {
