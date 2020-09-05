@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 128836,
-        "deaths": 9148,
+        "confirmed": 129342,
+        "deaths": 9155,
         "recovered": 114610
       },
       "back_2week": {
-        "confirmed": 125625,
-        "deaths": 9097,
+        "confirmed": 126319,
+        "deaths": 9110,
         "recovered": 111811
       },
       "latest": {
-        "confirmed": 132527,
-        "deaths": 9189,
+        "confirmed": 133141,
+        "deaths": 9190,
         "recovered": 117277
       },
       "states": {
@@ -623,7 +623,7 @@
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 44720,
+          "confirmed": 44852,
           "deaths": 2859
         },
         "Prince Edward Island": {
@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 62933,
+          "confirmed": 63117,
           "deaths": 5767
         },
         "Saskatchewan": {
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 23169,
-        "deaths": 418,
-        "recovered": 17190
+        "confirmed": 23777,
+        "deaths": 419,
+        "recovered": 17497
       },
       "back_2week": {
-        "confirmed": 21045,
-        "deaths": 406,
-        "recovered": 15886
+        "confirmed": 21551,
+        "deaths": 411,
+        "recovered": 16040
       },
       "latest": {
-        "confirmed": 26452,
-        "deaths": 426,
-        "recovered": 18663
+        "confirmed": 27249,
+        "deaths": 429,
+        "recovered": 19027
       }
     },
     "DEU": {
@@ -1131,14 +1131,14 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 92964,
-        "deaths": 1630,
-        "recovered": 64347
+        "confirmed": 93390,
+        "deaths": 1648,
+        "recovered": 65285
       },
       "back_2week": {
-        "confirmed": 89010,
-        "deaths": 1505,
-        "recovered": 57734
+        "confirmed": 89867,
+        "deaths": 1533,
+        "recovered": 59132
       },
       "latest": {
         "confirmed": 96629,

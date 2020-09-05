@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 44852,
+          "confirmed": 44899,
           "date": "2020-09-05",
           "deaths": 2859,
-          "recovered": 40569
+          "recovered": 40607
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 63117,
+          "confirmed": 63292,
           "date": "2020-09-05",
-          "deaths": 5767,
-          "recovered": 55724
+          "deaths": 5769,
+          "recovered": 55810
         }
       }
     }
@@ -489,10 +489,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 27249,
+      "confirmed": 27560,
       "date": "2020-09-05",
-      "deaths": 429,
-      "recovered": 19027
+      "deaths": 431,
+      "recovered": 19033
     }
   },
   "Denmark": {
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 96629,
+      "confirmed": 98776,
       "date": "2020-09-05",
-      "deaths": 1801,
-      "recovered": 70871
+      "deaths": 1840,
+      "recovered": 71901
     }
   },
   "Ecuador": {
@@ -555,7 +555,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 43259,
+          "confirmed": 43415,
           "date": "2020-09-05",
           "deaths": 1865,
           "recovered": 38094
@@ -1440,7 +1440,7 @@
       "confirmed": 43957,
       "date": "2020-09-05",
       "deaths": 2013,
-      "recovered": 36500
+      "recovered": 37100
     }
   },
   "Turkey": {
@@ -1455,9 +1455,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 157069,
+          "confirmed": 157690,
           "date": "2020-09-05",
-          "deaths": 3657,
+          "deaths": 3684,
           "recovered": 0
         }
       },
@@ -1503,7 +1503,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 18956,
+          "confirmed": 19073,
           "date": "2020-09-05",
           "deaths": 750,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 23798,
+          "confirmed": 24026,
           "date": "2020-09-05",
-          "deaths": 888,
+          "deaths": 889,
           "recovered": 0
         }
       },
@@ -1567,17 +1567,17 @@
       },
       "New York": {
         "live": {
-          "confirmed": 347328,
+          "confirmed": 347841,
           "date": "2020-09-05",
-          "deaths": 28265,
+          "deaths": 28272,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 26021,
+          "confirmed": 26128,
           "date": "2020-09-05",
-          "deaths": 306,
+          "deaths": 309,
           "recovered": 0
         }
       },
