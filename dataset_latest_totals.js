@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 38129,
+        "confirmed": 38140,
         "deaths": 1401,
-        "recovered": 29046
+        "recovered": 29059
       },
       "back_2week": {
-        "confirmed": 37856,
+        "confirmed": 37894,
         "deaths": 1385,
-        "recovered": 27681
+        "recovered": 28016
       },
       "latest": {
-        "confirmed": 38288,
+        "confirmed": 38304,
         "deaths": 1409,
-        "recovered": 29390
+        "recovered": 29713
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 43270,
-        "deaths": 864,
-        "recovered": 36988
+        "confirmed": 43451,
+        "deaths": 869,
+        "recovered": 37264
       },
       "back_2week": {
-        "confirmed": 42319,
-        "deaths": 836,
-        "recovered": 35476
+        "confirmed": 42477,
+        "deaths": 842,
+        "recovered": 35693
       },
       "latest": {
-        "confirmed": 44271,
-        "deaths": 887,
-        "recovered": 38855
+        "confirmed": 44461,
+        "deaths": 891,
+        "recovered": 39257
       }
     },
     "ATG": {
@@ -217,7 +217,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 5,
           "deaths": 650,
           "recovered": 1992,
-          "tested": 2331261
+          "tested": 2356292
         },
         "WA": {
           "confirmed": 655,
@@ -2949,17 +2949,17 @@ var covid19_dataset_latest_totals = {
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 25284,
+        "confirmed": 25415,
         "deaths": 702,
         "recovered": 13570
       },
       "back_2week": {
-        "confirmed": 23964,
+        "confirmed": 24200,
         "deaths": 646,
         "recovered": 11781
       },
       "latest": {
-        "confirmed": 26000,
+        "confirmed": 26099,
         "deaths": 744,
         "recovered": 15347
       }

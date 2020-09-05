@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38304,
+      "confirmed": 38324,
       "date": "2020-09-05",
       "deaths": 1409,
-      "recovered": 29713
+      "recovered": 30082
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 44461,
+      "confirmed": 44649,
       "date": "2020-09-05",
-      "deaths": 891,
-      "recovered": 39257
+      "deaths": 895,
+      "recovered": 39823
     }
   },
   "Australia": {
@@ -38,7 +38,7 @@
           "confirmed": 19479,
           "date": "2020-09-05",
           "deaths": 661,
-          "recovered": 16625
+          "recovered": 16784
         }
       }
     }
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 26099,
+      "confirmed": 26206,
       "date": "2020-09-05",
       "deaths": 752,
-      "recovered": 15369
+      "recovered": 15587
     }
   },
   "Ethiopia": {
@@ -555,33 +555,33 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 43251,
+          "confirmed": 43259,
           "date": "2020-09-05",
           "deaths": 1865,
-          "recovered": 37913
+          "recovered": 38094
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 58583,
+          "confirmed": 58692,
           "date": "2020-09-05",
           "deaths": 2641,
-          "recovered": 52085
+          "recovered": 52313
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 17144,
+          "confirmed": 17210,
           "date": "2020-09-05",
           "deaths": 665,
-          "recovered": 15264
+          "recovered": 15329
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 59810,
+          "confirmed": 60085,
           "date": "2020-09-05",
-          "deaths": 1821,
+          "deaths": 1823,
           "recovered": 54921
         }
       }
@@ -871,7 +871,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 21485,
+          "confirmed": 21666,
           "date": "2020-09-05",
           "deaths": 369,
           "recovered": 18487
