@@ -921,10 +921,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 19490,
+      "confirmed": 20011,
       "date": "2020-09-05",
-      "deaths": 183,
-      "recovered": 5592
+      "deaths": 187,
+      "recovered": 5868
     }
   },
   "Mexico": {
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 568363,
+          "confirmed": 568641,
           "date": "2020-09-05",
           "deaths": 11388,
           "recovered": 0
@@ -1583,7 +1583,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 22629,
+          "confirmed": 22935,
           "date": "2020-09-05",
           "deaths": 565,
           "recovered": 0
