@@ -407,66 +407,66 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 84765,
+          "confirmed": 86426,
           "date": "2020-09-05",
-          "deaths": 1809,
-          "recovered": 65974
+          "deaths": 1831,
+          "recovered": 67885
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 64696,
+          "confirmed": 64847,
           "date": "2020-09-05",
-          "deaths": 2927,
-          "recovered": 58909
+          "deaths": 2930,
+          "recovered": 59079
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 25614,
+          "confirmed": 25723,
           "date": "2020-09-05",
-          "deaths": 721,
-          "recovered": 22822
+          "deaths": 723,
+          "recovered": 23071
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 219584,
+          "confirmed": 221738,
           "date": "2020-09-05",
-          "deaths": 5652,
-          "recovered": 160976
+          "deaths": 5712,
+          "recovered": 161768
         }
       },
       "Cordoba": {
         "live": {
-          "confirmed": 20328,
+          "confirmed": 20568,
           "date": "2020-09-05",
-          "deaths": 1357,
-          "recovered": 15774
+          "deaths": 1375,
+          "recovered": 16014
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 24690,
+          "confirmed": 25144,
           "date": "2020-09-05",
-          "deaths": 709,
-          "recovered": 18349
+          "deaths": 729,
+          "recovered": 18926
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 20358,
+          "confirmed": 20822,
           "date": "2020-09-05",
-          "deaths": 844,
-          "recovered": 12254
+          "deaths": 865,
+          "recovered": 13375
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 48471,
+          "confirmed": 48990,
           "date": "2020-09-05",
-          "deaths": 1829,
-          "recovered": 38776
+          "deaths": 1851,
+          "recovered": 39142
         }
       }
     }
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 26099,
       "date": "2020-09-05",
-      "deaths": 744,
-      "recovered": 15347
+      "deaths": 752,
+      "recovered": 15369
     }
   },
   "Ethiopia": {
