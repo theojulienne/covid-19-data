@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 86544,
+      "confirmed": 87174,
       "date": "2020-09-05",
-      "deaths": 9899,
-      "recovered": 18513
+      "deaths": 9901,
+      "recovered": 18534
     }
   },
   "Bolivia": {
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 568021,
+          "confirmed": 568218,
           "date": "2020-09-05",
           "deaths": 11384,
           "recovered": 0
