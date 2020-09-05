@@ -384,8 +384,8 @@
     },
     "BHS": {
       "back_1week": {
-        "confirmed": 1765,
-        "deaths": 29,
+        "confirmed": 2020,
+        "deaths": 48,
         "recovered": 227
       },
       "back_2week": {
