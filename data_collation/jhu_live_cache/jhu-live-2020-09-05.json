@@ -884,7 +884,7 @@
       "confirmed": 106225,
       "date": "2020-09-05",
       "deaths": 1588,
-      "recovered": 98585
+      "recovered": 99018
     }
   },
   "Kenya": {
@@ -913,10 +913,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 44199,
+      "confirmed": 44293,
       "date": "2020-09-05",
       "deaths": 1060,
-      "recovered": 39389
+      "recovered": 39599
     }
   },
   "Lebanon": {
@@ -1463,9 +1463,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 568218,
+          "confirmed": 568363,
           "date": "2020-09-05",
-          "deaths": 11384,
+          "deaths": 11388,
           "recovered": 0
         }
       },
