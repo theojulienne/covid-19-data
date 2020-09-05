@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 54095,
       "date": "2020-09-05",
-      "deaths": 195,
+      "deaths": 196,
       "recovered": 50323
     }
   },
@@ -571,7 +571,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 17210,
+          "confirmed": 17218,
           "date": "2020-09-05",
           "deaths": 665,
           "recovered": 15329
@@ -1657,10 +1657,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 72766,
+      "confirmed": 73471,
       "date": "2020-09-05",
-      "deaths": 387,
-      "recovered": 63158
+      "deaths": 388,
+      "recovered": 63652
     }
   },
   "United Kingdom": {
