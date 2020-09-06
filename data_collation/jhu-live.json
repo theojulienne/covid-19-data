@@ -809,10 +809,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 256719,
+      "confirmed": 260370,
       "date": "2020-09-06",
-      "deaths": 7422,
-      "recovered": 195259
+      "deaths": 7512,
+      "recovered": 198560
     }
   },
   "Ireland": {
@@ -1495,9 +1495,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 68154,
+          "confirmed": 68472,
           "date": "2020-09-06",
-          "deaths": 1298,
+          "deaths": 1308,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 51632,
+          "confirmed": 52028,
           "date": "2020-09-06",
-          "deaths": 664,
+          "deaths": 666,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 24761,
+          "confirmed": 24934,
           "date": "2020-09-06",
           "deaths": 235,
           "recovered": 0
@@ -1647,7 +1647,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 24706,
+          "confirmed": 24799,
           "date": "2020-09-06",
           "deaths": 502,
           "recovered": 0

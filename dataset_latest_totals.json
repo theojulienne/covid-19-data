@@ -1779,19 +1779,19 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 223612,
-        "deaths": 6814,
-        "recovered": 164874
+        "confirmed": 227446,
+        "deaths": 6891,
+        "recovered": 169020
       },
       "back_2week": {
-        "confirmed": 197085,
-        "deaths": 6283,
-        "recovered": 140446
+        "confirmed": 201050,
+        "deaths": 6353,
+        "recovered": 143393
       },
       "latest": {
-        "confirmed": 252075,
-        "deaths": 7359,
-        "recovered": 191368
+        "confirmed": 256719,
+        "deaths": 7422,
+        "recovered": 195259
       }
     },
     "ISL": {
