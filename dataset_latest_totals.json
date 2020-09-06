@@ -1814,17 +1814,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 113465,
-        "deaths": 894,
+        "deaths": 906,
         "recovered": 92104
       },
       "back_2week": {
         "confirmed": 101933,
-        "deaths": 809,
+        "deaths": 819,
         "recovered": 78651
       },
       "latest": {
         "confirmed": 128936,
-        "deaths": 993,
+        "deaths": 1007,
         "recovered": 101481
       }
     },
@@ -2694,19 +2694,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 209544,
-        "deaths": 3325,
-        "recovered": 134474
+        "confirmed": 213131,
+        "deaths": 3419,
+        "recovered": 135101
       },
       "back_2week": {
-        "confirmed": 182365,
-        "deaths": 2940,
-        "recovered": 114519
+        "confirmed": 187249,
+        "deaths": 2966,
+        "recovered": 114921
       },
       "latest": {
-        "confirmed": 232072,
-        "deaths": 3737,
-        "recovered": 160549
+        "confirmed": 234570,
+        "deaths": 3790,
+        "recovered": 161668
       }
     },
     "PNG": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 56666,
+        "confirmed": 56717,
         "deaths": 27,
         "recovered": 55337
       },
       "back_2week": {
-        "confirmed": 56216,
+        "confirmed": 56266,
         "deaths": 27,
         "recovered": 53651
       },
       "latest": {
-        "confirmed": 56948,
+        "confirmed": 56982,
         "deaths": 27,
         "recovered": 56174
       }
@@ -2949,17 +2949,17 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 25415,
+        "confirmed": 25537,
         "deaths": 708,
         "recovered": 13799
       },
       "back_2week": {
-        "confirmed": 24200,
+        "confirmed": 24420,
         "deaths": 654,
         "recovered": 12021
       },
       "latest": {
-        "confirmed": 26099,
+        "confirmed": 26206,
         "deaths": 752,
         "recovered": 15587
       }

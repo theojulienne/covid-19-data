@@ -3,7 +3,7 @@
     "live": {
       "confirmed": 38398,
       "date": "2020-09-06",
-      "deaths": 1409,
+      "deaths": 1412,
       "recovered": 30537
     }
   },
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 26206,
+      "confirmed": 26308,
       "date": "2020-09-06",
       "deaths": 759,
-      "recovered": 15613
+      "recovered": 15815
     }
   },
   "Ethiopia": {
@@ -825,10 +825,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 129173,
+      "confirmed": 129349,
       "date": "2020-09-06",
-      "deaths": 1007,
-      "recovered": 102104
+      "deaths": 1010,
+      "recovered": 102107
     }
   },
   "Italy": {
@@ -1201,10 +1201,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 234570,
+      "confirmed": 237365,
       "date": "2020-09-06",
-      "deaths": 3790,
-      "recovered": 161668
+      "deaths": 3875,
+      "recovered": 184687
     }
   },
   "Poland": {
@@ -1243,7 +1243,7 @@
     "subseries": {
       "Irkutsk Oblast": {
         "live": {
-          "confirmed": 17184,
+          "confirmed": 17253,
           "date": "2020-09-06",
           "deaths": 254,
           "recovered": 13393
@@ -1251,66 +1251,66 @@
       },
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 19967,
+          "confirmed": 20045,
           "date": "2020-09-06",
           "deaths": 174,
-          "recovered": 18942
+          "recovered": 19021
         }
       },
       "Krasnoyarsk Krai": {
         "live": {
-          "confirmed": 17413,
+          "confirmed": 17520,
           "date": "2020-09-06",
-          "deaths": 501,
-          "recovered": 13813
+          "deaths": 503,
+          "recovered": 13840
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 265737,
+          "confirmed": 266357,
           "date": "2020-09-06",
-          "deaths": 4878,
-          "recovered": 220407
+          "deaths": 4891,
+          "recovered": 221370
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 69032,
+          "confirmed": 69199,
           "date": "2020-09-06",
-          "deaths": 1213,
-          "recovered": 52313
+          "deaths": 1216,
+          "recovered": 52438
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 28409,
+          "confirmed": 28562,
           "date": "2020-09-06",
-          "deaths": 492,
-          "recovered": 25331
+          "deaths": 494,
+          "recovered": 25364
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 17630,
+          "confirmed": 17785,
           "date": "2020-09-06",
           "deaths": 373,
-          "recovered": 14995
+          "recovered": 15022
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 37620,
+          "confirmed": 37812,
           "date": "2020-09-06",
-          "deaths": 2522,
-          "recovered": 26290
+          "deaths": 2532,
+          "recovered": 26365
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 25910,
+          "confirmed": 26038,
           "date": "2020-09-06",
-          "deaths": 475,
-          "recovered": 20244
+          "deaths": 477,
+          "recovered": 20303
         }
       }
     }
@@ -1333,7 +1333,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 56982,
+      "confirmed": 57022,
       "date": "2020-09-06",
       "deaths": 27,
       "recovered": 56267
