@@ -3684,8 +3684,7 @@ var covid19_dataset_top10_by_deaths = {
           376894,
           378752,
           380746,
-          382772,
-          384666
+          382772
         ],
         "deaths": [
           0,
@@ -3914,8 +3913,7 @@ var covid19_dataset_top10_by_deaths = {
           21672,
           21797,
           21926,
-          22044,
-          22154
+          22044
         ],
         "recovered": [
           0,
@@ -4144,8 +4142,7 @@ var covid19_dataset_top10_by_deaths = {
           325124,
           326801,
           328595,
-          330308,
-          332131
+          330308
         ]
       }
     },
@@ -7376,7 +7373,8 @@ var covid19_dataset_top10_by_deaths = {
     "2020-09-03",
     "2020-09-04",
     "2020-09-05",
-    "2020-09-06"
+    "2020-09-06",
+    "2020-09-07"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
