@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 72663,
+      "confirmed": 72859,
       "date": "2020-09-06",
-      "deaths": 705,
-      "recovered": 71843
+      "deaths": 711,
+      "recovered": 71864
     }
   },
   "Belgium": {
@@ -835,34 +835,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 32505,
+          "confirmed": 32628,
           "date": "2020-09-06",
-          "deaths": 4464,
-          "recovered": 24790
+          "deaths": 4465,
+          "recovered": 24794
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 101507,
+          "confirmed": 101705,
           "date": "2020-09-06",
-          "deaths": 16877,
-          "recovered": 76708
+          "deaths": 16880,
+          "recovered": 76794
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 33200,
+          "confirmed": 33256,
           "date": "2020-09-06",
           "deaths": 4150,
-          "recovered": 27365
+          "recovered": 27379
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 23765,
+          "confirmed": 23944,
           "date": "2020-09-06",
           "deaths": 2130,
-          "recovered": 18758
+          "recovered": 18875
         }
       }
     }
@@ -1344,7 +1344,7 @@
       "confirmed": 57022,
       "date": "2020-09-06",
       "deaths": 27,
-      "recovered": 56267
+      "recovered": 56333
     }
   },
   "South Africa": {
@@ -1667,15 +1667,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 297071,
+          "confirmed": 299647,
           "date": "2020-09-06",
-          "deaths": 36892,
+          "deaths": 36894,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 21189,
+          "confirmed": 21397,
           "date": "2020-09-06",
           "deaths": 2496,
           "recovered": 0
@@ -1683,7 +1683,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 18283,
+          "confirmed": 18381,
           "date": "2020-09-06",
           "deaths": 1597,
           "recovered": 0
