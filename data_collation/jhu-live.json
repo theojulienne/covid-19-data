@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19542,
+          "confirmed": 19538,
           "date": "2020-09-06",
           "deaths": 666,
           "recovered": 16784
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 119580,
+      "confirmed": 120241,
       "date": "2020-09-06",
-      "deaths": 5343,
-      "recovered": 67844
+      "deaths": 5398,
+      "recovered": 69566
     }
   },
   "Bosnia and Herzegovina": {
@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 63798,
+      "confirmed": 64352,
       "date": "2020-09-06",
-      "deaths": 1984,
-      "recovered": 12347
+      "deaths": 2006,
+      "recovered": 13115
     }
   },
   "India": {
@@ -881,7 +881,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106225,
+      "confirmed": 106301,
       "date": "2020-09-06",
       "deaths": 1588,
       "recovered": 99018
@@ -897,10 +897,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 21010,
+      "confirmed": 21177,
       "date": "2020-09-06",
-      "deaths": 333,
-      "recovered": 16009
+      "deaths": 334,
+      "recovered": 16146
     }
   },
   "Kuwait": {
