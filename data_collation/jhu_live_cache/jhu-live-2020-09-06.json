@@ -138,7 +138,7 @@
           "confirmed": 123726,
           "date": "2020-09-06",
           "deaths": 3841,
-          "recovered": 104526
+          "recovered": 104996
         }
       },
       "Bahia": {
@@ -154,7 +154,7 @@
           "confirmed": 222179,
           "date": "2020-09-06",
           "deaths": 8565,
-          "recovered": 195513
+          "recovered": 196354
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 147357,
           "date": "2020-09-06",
           "deaths": 3450,
-          "recovered": 137085
+          "recovered": 138013
         }
       },
       "Maranhao": {
@@ -202,7 +202,7 @@
           "confirmed": 53328,
           "date": "2020-09-06",
           "deaths": 953,
-          "recovered": 43622
+          "recovered": 44017
         }
       },
       "Minas Gerais": {
@@ -210,7 +210,7 @@
           "confirmed": 231878,
           "date": "2020-09-06",
           "deaths": 5708,
-          "recovered": 196180
+          "recovered": 198462
         }
       },
       "Para": {
@@ -306,7 +306,7 @@
           "confirmed": 853085,
           "date": "2020-09-06",
           "deaths": 31313,
-          "recovered": 680217
+          "recovered": 690024
         }
       },
       "Sergipe": {
@@ -322,7 +322,7 @@
           "confirmed": 55075,
           "date": "2020-09-06",
           "deaths": 745,
-          "recovered": 37063
+          "recovered": 37792
         }
       }
     }
@@ -1471,7 +1471,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 571782,
+          "confirmed": 572223,
           "date": "2020-09-06",
           "deaths": 11446,
           "recovered": 0
@@ -1551,7 +1551,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 20351,
+          "confirmed": 20574,
           "date": "2020-09-06",
           "deaths": 760,
           "recovered": 0
@@ -1591,7 +1591,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 22935,
+          "confirmed": 23099,
           "date": "2020-09-06",
           "deaths": 565,
           "recovered": 0
