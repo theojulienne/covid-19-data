@@ -1349,10 +1349,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 636884,
+      "confirmed": 638517,
       "date": "2020-09-06",
-      "deaths": 14779,
-      "recovered": 561204
+      "deaths": 14889,
+      "recovered": 563891
     }
   },
   "Spain": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 572223,
+          "confirmed": 572446,
           "date": "2020-09-06",
-          "deaths": 11446,
+          "deaths": 11448,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 66568,
+          "confirmed": 66791,
           "date": "2020-09-06",
-          "deaths": 4443,
+          "deaths": 4446,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 391328,
+          "confirmed": 391575,
           "date": "2020-09-06",
           "deaths": 8412,
           "recovered": 0
@@ -1693,10 +1693,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 43476,
+      "confirmed": 43587,
       "date": "2020-09-06",
-      "deaths": 345,
-      "recovered": 40880
+      "deaths": 347,
+      "recovered": 41225
     }
   },
   "Venezuela": {
