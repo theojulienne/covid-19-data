@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 54771,
       "date": "2020-09-06",
-      "deaths": 196,
+      "deaths": 198,
       "recovered": 50645
     }
   },
@@ -801,10 +801,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 384666,
+      "confirmed": 386658,
       "date": "2020-09-06",
-      "deaths": 22154,
-      "recovered": 332131
+      "deaths": 22293,
+      "recovered": 333900
     }
   },
   "Iraq": {
@@ -905,10 +905,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 88963,
+      "confirmed": 89582,
       "date": "2020-09-06",
-      "deaths": 540,
-      "recovered": 79903
+      "deaths": 544,
+      "recovered": 80521
     }
   },
   "Kyrgyzstan": {
@@ -925,6 +925,14 @@
       "date": "2020-09-06",
       "deaths": 187,
       "recovered": 5868
+    }
+  },
+  "Libya": {
+    "live": {
+      "confirmed": 17749,
+      "date": "2020-09-06",
+      "deaths": 285,
+      "recovered": 2081
     }
   },
   "Mexico": {
@@ -1081,10 +1089,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 86380,
+      "confirmed": 87072,
       "date": "2020-09-06",
-      "deaths": 705,
-      "recovered": 81828
+      "deaths": 728,
+      "recovered": 82406
     }
   },
   "Pakistan": {
@@ -1225,10 +1233,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 119864,
+      "confirmed": 120095,
       "date": "2020-09-06",
-      "deaths": 202,
-      "recovered": 116780
+      "deaths": 203,
+      "recovered": 116998
     }
   },
   "Romania": {
@@ -1437,7 +1445,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 43957,
+      "confirmed": 44401,
       "date": "2020-09-06",
       "deaths": 2013,
       "recovered": 37100
@@ -1594,14 +1602,6 @@
           "confirmed": 34445,
           "date": "2020-09-06",
           "deaths": 1759,
-          "recovered": 0
-        }
-      },
-      "Rhode Island": {
-        "live": {
-          "confirmed": 17107,
-          "date": "2020-09-06",
-          "deaths": 0,
           "recovered": 0
         }
       },
