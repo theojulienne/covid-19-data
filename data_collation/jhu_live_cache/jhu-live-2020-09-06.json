@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 17736,
+      "confirmed": 17883,
       "date": "2020-09-06",
       "deaths": 627,
-      "recovered": 15671
+      "recovered": 15760
     }
   },
   "Dominican Republic": {
@@ -1061,17 +1061,17 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 45277,
+      "confirmed": 46257,
       "date": "2020-09-06",
-      "deaths": 280,
-      "recovered": 27127
+      "deaths": 289,
+      "recovered": 28941
     }
   },
   "Netherlands": {
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 20330,
+          "confirmed": 20703,
           "date": "2020-09-06",
           "deaths": 1350,
           "recovered": 0
