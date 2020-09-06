@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38324,
+      "confirmed": 38398,
       "date": "2020-09-06",
       "deaths": 1409,
-      "recovered": 30082
+      "recovered": 30537
     }
   },
   "Algeria": {
@@ -38,7 +38,7 @@
           "confirmed": 19538,
           "date": "2020-09-06",
           "deaths": 666,
-          "recovered": 16784
+          "recovered": 16921
         }
       }
     }
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 26206,
       "date": "2020-09-06",
-      "deaths": 752,
-      "recovered": 15587
+      "deaths": 759,
+      "recovered": 15613
     }
   },
   "Ethiopia": {
@@ -913,10 +913,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 44316,
+      "confirmed": 44403,
       "date": "2020-09-06",
       "deaths": 1060,
-      "recovered": 39815
+      "recovered": 39826
     }
   },
   "Lebanon": {
@@ -1135,65 +1135,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 19104,
+          "confirmed": 19233,
           "date": "2020-09-06",
-          "deaths": 1183,
+          "deaths": 1189,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 34419,
+          "confirmed": 34785,
           "date": "2020-09-06",
-          "deaths": 1193,
+          "deaths": 1199,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 28207,
+          "confirmed": 28406,
           "date": "2020-09-06",
-          "deaths": 1596,
+          "deaths": 1600,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 22006,
+          "confirmed": 22343,
           "date": "2020-09-06",
-          "deaths": 1481,
+          "deaths": 1484,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 23335,
+          "confirmed": 23521,
           "date": "2020-09-06",
-          "deaths": 2082,
+          "deaths": 2091,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 22698,
+          "confirmed": 22863,
           "date": "2020-09-06",
-          "deaths": 1602,
+          "deaths": 1606,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 318822,
+          "confirmed": 321517,
           "date": "2020-09-06",
-          "deaths": 13167,
+          "deaths": 13239,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 30079,
+          "confirmed": 30422,
           "date": "2020-09-06",
-          "deaths": 1845,
+          "deaths": 1848,
           "recovered": 0
         }
       }
@@ -1463,7 +1463,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 571515,
+          "confirmed": 571782,
           "date": "2020-09-06",
           "deaths": 11446,
           "recovered": 0
@@ -1693,10 +1693,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 43293,
+      "confirmed": 43476,
       "date": "2020-09-06",
-      "deaths": 343,
-      "recovered": 40774
+      "deaths": 345,
+      "recovered": 40880
     }
   },
   "Venezuela": {
