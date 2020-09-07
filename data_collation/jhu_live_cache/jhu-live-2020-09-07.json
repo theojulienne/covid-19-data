@@ -881,10 +881,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106301,
+      "confirmed": 106361,
       "date": "2020-09-07",
       "deaths": 1588,
-      "recovered": 99523
+      "recovered": 99654
     }
   },
   "Kenya": {
