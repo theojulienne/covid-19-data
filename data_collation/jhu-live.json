@@ -571,7 +571,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 17284,
+          "confirmed": 17294,
           "date": "2020-09-07",
           "deaths": 665,
           "recovered": 15476
@@ -793,10 +793,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 194109,
+      "confirmed": 196989,
       "date": "2020-09-07",
-      "deaths": 8025,
-      "recovered": 138575
+      "deaths": 8130,
+      "recovered": 140652
     }
   },
   "Iran": {
@@ -929,10 +929,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 17749,
+      "confirmed": 18834,
       "date": "2020-09-07",
-      "deaths": 285,
-      "recovered": 2081
+      "deaths": 296,
+      "recovered": 2126
     }
   },
   "Mexico": {
@@ -1061,10 +1061,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 46257,
+      "confirmed": 47236,
       "date": "2020-09-07",
-      "deaths": 289,
-      "recovered": 28941
+      "deaths": 300,
+      "recovered": 30677
     }
   },
   "Netherlands": {
@@ -1445,9 +1445,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 44401,
+      "confirmed": 44592,
       "date": "2020-09-07",
-      "deaths": 2013,
+      "deaths": 2014,
       "recovered": 37100
     }
   },
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 573926,
+          "confirmed": 573982,
           "date": "2020-09-07",
-          "deaths": 11459,
+          "deaths": 11460,
           "recovered": 0
         }
       },
@@ -1709,10 +1709,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 26127,
+      "confirmed": 26779,
       "date": "2020-09-07",
-      "deaths": 181,
-      "recovered": 16843
+      "deaths": 183,
+      "recovered": 17270
     }
   }
 }
