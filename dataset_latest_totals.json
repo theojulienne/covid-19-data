@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 129639,
+        "confirmed": 129888,
         "deaths": 9161,
         "recovered": 115294
       },
       "back_2week": {
-        "confirmed": 126560,
+        "confirmed": 126817,
         "deaths": 9117,
         "recovered": 112621
       },
       "latest": {
-        "confirmed": 133511,
+        "confirmed": 133890,
         "deaths": 9192,
         "recovered": 117968
       },
@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 63292,
+          "confirmed": 63497,
           "deaths": 5769
         },
         "Saskatchewan": {
@@ -1034,17 +1034,17 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 24094,
+        "confirmed": 24367,
         "deaths": 421,
         "recovered": 17541
       },
       "back_2week": {
-        "confirmed": 21790,
+        "confirmed": 21923,
         "deaths": 411,
         "recovered": 16087
       },
       "latest": {
-        "confirmed": 27752,
+        "confirmed": 28156,
         "deaths": 431,
         "recovered": 19039
       }
@@ -1490,14 +1490,14 @@
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 44118,
+        "confirmed": 44205,
         "deaths": 270,
-        "recovered": 42581
+        "recovered": 42777
       },
       "back_2week": {
-        "confirmed": 43325,
+        "confirmed": 43505,
         "deaths": 261,
-        "recovered": 41408
+        "recovered": 41532
       },
       "latest": {
         "confirmed": 44777,
