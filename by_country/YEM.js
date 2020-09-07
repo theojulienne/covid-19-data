@@ -461,7 +461,8 @@ var covid19_dataset_country_yem = {
       1976,
       1979,
       1983,
-      1983
+      1983,
+      1987
     ],
     "deaths": [
       0,
@@ -690,6 +691,7 @@ var covid19_dataset_country_yem = {
       570,
       571,
       571,
+      572,
       572,
       572
     ],
@@ -921,7 +923,8 @@ var covid19_dataset_country_yem = {
       1175,
       1180,
       1194,
-      1197
+      1197,
+      1200
     ]
   }
 };

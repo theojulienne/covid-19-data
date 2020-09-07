@@ -461,7 +461,8 @@ var covid19_dataset_country_che = {
       42763,
       43127,
       43532,
-      43957
+      43957,
+      44401
     ],
     "deaths": [
       0,
@@ -689,6 +690,7 @@ var covid19_dataset_country_che = {
       2006,
       2011,
       2011,
+      2013,
       2013,
       2013,
       2013
@@ -921,6 +923,7 @@ var covid19_dataset_country_che = {
       36500,
       36500,
       36500,
+      37100,
       37100
     ]
   }
