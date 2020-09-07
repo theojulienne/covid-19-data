@@ -513,9 +513,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 109784,
+      "confirmed": 110092,
       "date": "2020-09-07",
-      "deaths": 10524,
+      "deaths": 10576,
       "recovered": 91242
     }
   },
@@ -1495,7 +1495,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 68472,
+          "confirmed": 68600,
           "date": "2020-09-07",
           "deaths": 1308,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 50471,
+          "confirmed": 50950,
           "date": "2020-09-07",
-          "deaths": 4067,
+          "deaths": 4068,
           "recovered": 0
         }
       },
@@ -1607,7 +1607,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 52028,
+          "confirmed": 52319,
           "date": "2020-09-07",
           "deaths": 666,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 24934,
+          "confirmed": 25058,
           "date": "2020-09-07",
-          "deaths": 235,
+          "deaths": 236,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 24799,
+          "confirmed": 24853,
           "date": "2020-09-07",
           "deaths": 502,
           "recovered": 0
