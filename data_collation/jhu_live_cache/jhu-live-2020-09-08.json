@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 45476,
+          "confirmed": 45477,
           "date": "2020-09-08",
           "deaths": 2862,
           "recovered": 40999
@@ -473,18 +473,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 48780,
+      "confirmed": 49897,
       "date": "2020-09-08",
-      "deaths": 510,
-      "recovered": 19083
+      "deaths": 531,
+      "recovered": 19285
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 18701,
+      "confirmed": 18778,
       "date": "2020-09-08",
       "deaths": 119,
-      "recovered": 17599
+      "recovered": 17688
     }
   },
   "Czechia": {
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 135288,
+      "confirmed": 137565,
       "date": "2020-09-08",
-      "deaths": 1031,
-      "recovered": 106297
+      "deaths": 1040,
+      "recovered": 107003
     }
   },
   "Italy": {
@@ -897,10 +897,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 35205,
+      "confirmed": 35356,
       "date": "2020-09-08",
       "deaths": 599,
-      "recovered": 21310
+      "recovered": 21483
     }
   },
   "Korea, South": {
@@ -1357,10 +1357,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 639362,
+      "confirmed": 640441,
       "date": "2020-09-08",
-      "deaths": 15004,
-      "recovered": 566555
+      "deaths": 15086,
+      "recovered": 567729
     }
   },
   "Spain": {
@@ -1479,17 +1479,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 576119,
+          "confirmed": 576513,
           "date": "2020-09-08",
-          "deaths": 11499,
+          "deaths": 11507,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 19031,
+          "confirmed": 19135,
           "date": "2020-09-08",
-          "deaths": 1415,
+          "deaths": 1417,
           "recovered": 0
         }
       },
@@ -1535,9 +1535,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 66906,
+          "confirmed": 67011,
           "date": "2020-09-08",
-          "deaths": 4450,
+          "deaths": 4452,
           "recovered": 0
         }
       },
