@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 327359,
+      "confirmed": 329251,
       "date": "2020-09-08",
-      "deaths": 4516,
-      "recovered": 224573
+      "deaths": 4552,
+      "recovered": 227809
     }
   },
   "Belarus": {
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 45314,
+          "confirmed": 45333,
           "date": "2020-09-08",
           "deaths": 2862,
-          "recovered": 40884
+          "recovered": 40896
         }
       },
       "Quebec": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 18113,
+      "confirmed": 18356,
       "date": "2020-09-08",
       "deaths": 628,
-      "recovered": 15833
+      "recovered": 15907
     }
   },
   "Dominican Republic": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 59804,
+          "confirmed": 59937,
           "date": "2020-09-08",
           "deaths": 2643,
           "recovered": 53157
@@ -582,7 +582,7 @@
           "confirmed": 60695,
           "date": "2020-09-08",
           "deaths": 1823,
-          "recovered": 55367
+          "recovered": 55918
         }
       }
     }
@@ -881,7 +881,7 @@
         "live": {
           "confirmed": 22029,
           "date": "2020-09-08",
-          "deaths": 369,
+          "deaths": 378,
           "recovered": 19171
         }
       }
@@ -1333,17 +1333,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 321456,
+      "confirmed": 322237,
       "date": "2020-09-08",
-      "deaths": 4107,
-      "recovered": 297623
+      "deaths": 4137,
+      "recovered": 298246
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 31941,
+      "confirmed": 31994,
       "date": "2020-09-08",
-      "deaths": 725,
+      "deaths": 727,
       "recovered": 0
     }
   },
@@ -1455,7 +1455,7 @@
     "live": {
       "confirmed": 44837,
       "date": "2020-09-08",
-      "deaths": 2014,
+      "deaths": 2016,
       "recovered": 37700
     }
   },
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 393300,
+          "confirmed": 393561,
           "date": "2020-09-08",
           "deaths": 8494,
           "recovered": 0
