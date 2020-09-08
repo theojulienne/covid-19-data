@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38494,
+      "confirmed": 38520,
       "date": "2020-09-08",
-      "deaths": 1415,
-      "recovered": 30557
+      "deaths": 1418,
+      "recovered": 30715
     }
   },
   "Algeria": {
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 90387,
+      "confirmed": 91244,
       "date": "2020-09-08",
-      "deaths": 546,
-      "recovered": 81037
+      "deaths": 548,
+      "recovered": 81654
     }
   },
   "Kyrgyzstan": {
@@ -1069,10 +1069,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 47236,
+      "confirmed": 48138,
       "date": "2020-09-08",
-      "deaths": 300,
-      "recovered": 30677
+      "deaths": 306,
+      "recovered": 32964
     }
   },
   "Netherlands": {
