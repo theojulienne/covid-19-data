@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 21660,
+      "confirmed": 21961,
       "date": "2020-09-08",
-      "deaths": 664,
-      "recovered": 14830
+      "deaths": 669,
+      "recovered": 15172
     }
   },
   "Brazil": {
@@ -809,10 +809,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 388810,
+      "confirmed": 391112,
       "date": "2020-09-08",
-      "deaths": 22410,
-      "recovered": 335572
+      "deaths": 22542,
+      "recovered": 337414
     }
   },
   "Iraq": {
@@ -882,7 +882,7 @@
           "confirmed": 22029,
           "date": "2020-09-08",
           "deaths": 369,
-          "recovered": 18967
+          "recovered": 19171
         }
       }
     }
@@ -1079,7 +1079,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 20960,
+          "confirmed": 21289,
           "date": "2020-09-08",
           "deaths": 1350,
           "recovered": 0
@@ -1097,10 +1097,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 87328,
+      "confirmed": 87590,
       "date": "2020-09-08",
-      "deaths": 734,
-      "recovered": 82805
+      "deaths": 742,
+      "recovered": 82973
     }
   },
   "Pakistan": {
@@ -1249,10 +1249,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 95897,
+      "confirmed": 97033,
       "date": "2020-09-08",
-      "deaths": 3926,
-      "recovered": 40454
+      "deaths": 3967,
+      "recovered": 40838
     }
   },
   "Russia": {
@@ -1435,7 +1435,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23219,
+          "confirmed": 23229,
           "date": "2020-09-08",
           "deaths": 2398,
           "recovered": 0
@@ -1443,7 +1443,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19027,
+          "confirmed": 19052,
           "date": "2020-09-08",
           "deaths": 855,
           "recovered": 0
@@ -1453,7 +1453,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 44592,
+      "confirmed": 44837,
       "date": "2020-09-08",
       "deaths": 2014,
       "recovered": 37700
@@ -1717,9 +1717,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 26779,
+      "confirmed": 27363,
       "date": "2020-09-08",
-      "deaths": 184,
+      "deaths": 190,
       "recovered": 17270
     }
   }
