@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 44845,
+      "confirmed": 44953,
       "date": "2020-09-08",
-      "deaths": 900,
-      "recovered": 40121
+      "deaths": 903,
+      "recovered": 40592
     }
   },
   "Australia": {
@@ -801,10 +801,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 196989,
+      "confirmed": 200035,
       "date": "2020-09-08",
-      "deaths": 8130,
-      "recovered": 140652
+      "deaths": 8230,
+      "recovered": 142958
     }
   },
   "Iran": {
@@ -1225,9 +1225,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 71126,
+      "confirmed": 71526,
       "date": "2020-09-08",
-      "deaths": 2124,
+      "deaths": 2136,
       "recovered": 55910
     }
   },
