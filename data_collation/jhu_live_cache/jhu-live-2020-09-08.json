@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 120769,
+      "confirmed": 121604,
       "date": "2020-09-08",
-      "deaths": 7008,
-      "recovered": 71489
+      "deaths": 7054,
+      "recovered": 73150
     }
   },
   "Bosnia and Herzegovina": {
