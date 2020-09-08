@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 45450,
+          "confirmed": 45476,
           "date": "2020-09-08",
           "deaths": 2862,
-          "recovered": 40990
+          "recovered": 40999
         }
       },
       "Quebec": {
@@ -545,7 +545,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 355526,
+      "confirmed": 355457,
       "date": "2020-09-08",
       "deaths": 30613,
       "recovered": 74613
@@ -817,10 +817,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 264684,
+      "confirmed": 269578,
       "date": "2020-09-08",
-      "deaths": 7589,
-      "recovered": 202859
+      "deaths": 7657,
+      "recovered": 206324
     }
   },
   "Ireland": {
@@ -1455,7 +1455,7 @@
     "live": {
       "confirmed": 44837,
       "date": "2020-09-08",
-      "deaths": 2017,
+      "deaths": 2018,
       "recovered": 37700
     }
   },
@@ -1503,9 +1503,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 68600,
+          "confirmed": 68821,
           "date": "2020-09-08",
-          "deaths": 1308,
+          "deaths": 1312,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 50950,
+          "confirmed": 51122,
           "date": "2020-09-08",
-          "deaths": 4068,
+          "deaths": 4069,
           "recovered": 0
         }
       },
@@ -1615,15 +1615,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 52319,
+          "confirmed": 52429,
           "date": "2020-09-08",
-          "deaths": 666,
+          "deaths": 674,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 393707,
+          "confirmed": 393964,
           "date": "2020-09-08",
           "deaths": 8496,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 25058,
+          "confirmed": 25168,
           "date": "2020-09-08",
-          "deaths": 236,
+          "deaths": 237,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 24853,
+          "confirmed": 24944,
           "date": "2020-09-08",
           "deaths": 502,
           "recovered": 0
