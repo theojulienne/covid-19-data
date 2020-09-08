@@ -342,7 +342,7 @@
           "confirmed": 45477,
           "date": "2020-09-08",
           "deaths": 2862,
-          "recovered": 40999
+          "recovered": 41002
         }
       },
       "Quebec": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 355457,
+      "confirmed": 355425,
       "date": "2020-09-08",
       "deaths": 30613,
-      "recovered": 74613
+      "recovered": 74569
     }
   },
   "Germany": {
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 77828,
+      "confirmed": 78721,
       "date": "2020-09-08",
-      "deaths": 2862,
-      "recovered": 66584
+      "deaths": 2890,
+      "recovered": 67462
     }
   },
   "Honduras": {
@@ -1471,7 +1471,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 158004,
+          "confirmed": 158075,
           "date": "2020-09-08",
           "deaths": 3689,
           "recovered": 0
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 576513,
+          "confirmed": 577197,
           "date": "2020-09-08",
-          "deaths": 11507,
+          "deaths": 11518,
           "recovered": 0
         }
       },
