@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 56076,
+      "confirmed": 56778,
       "date": "2020-09-08",
       "deaths": 202,
-      "recovered": 51240
+      "recovered": 51574
     }
   },
   "Bangladesh": {
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 393964,
+          "confirmed": 394478,
           "date": "2020-09-08",
           "deaths": 8496,
           "recovered": 0

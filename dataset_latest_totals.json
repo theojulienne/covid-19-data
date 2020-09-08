@@ -154,12 +154,12 @@
         "tested": 5769506
       },
       "latest": {
-        "confirmed": 26133,
+        "confirmed": 26135,
         "current_hospitalized": 295,
         "current_icu": 32,
         "deaths": 764,
         "recovered": 2552,
-        "tested": 6693434
+        "tested": 6701539
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 110,
-          "tested": 83593
+          "tested": 83841
         },
         "NSW": {
           "confirmed": 3929,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 31,
-          "tested": 38179
+          "tested": 38544
         },
         "QLD": {
           "confirmed": 1133,
@@ -201,7 +201,7 @@
           "current_icu": 0,
           "deaths": 4,
           "recovered": 459,
-          "tested": 400037
+          "tested": 401471
         },
         "TAS": {
           "confirmed": 230,
@@ -209,23 +209,23 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 217,
-          "tested": 91677
+          "tested": 91962
         },
         "VIC": {
           "confirmed": 19574,
-          "current_hospitalized": 283,
-          "current_icu": 19,
+          "current_hospitalized": 266,
+          "current_icu": 25,
           "deaths": 675,
           "recovered": 1992,
-          "tested": 2390450
+          "tested": 2403388
         },
         "WA": {
-          "confirmed": 656,
+          "confirmed": 657,
           "current_hospitalized": 1,
           "current_icu": 0,
           "deaths": 9,
           "recovered": 644,
-          "tested": 358331
+          "tested": 364864
         }
       }
     },
@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 51574,
+        "confirmed": 51972,
         "deaths": 190,
-        "recovered": 48654
+        "recovered": 49047
       },
       "back_2week": {
-        "confirmed": 49330,
+        "confirmed": 49719,
         "deaths": 185,
-        "recovered": 45981
+        "recovered": 46311
       },
       "latest": {
-        "confirmed": 55415,
+        "confirmed": 56076,
         "deaths": 200,
-        "recovered": 50946
+        "recovered": 51240
       }
     },
     "BHS": {
