@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 121604,
+      "confirmed": 122308,
       "date": "2020-09-09",
-      "deaths": 7054,
-      "recovered": 73150
+      "deaths": 7097,
+      "recovered": 75098
     }
   },
   "Bosnia and Herzegovina": {
@@ -905,10 +905,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 21432,
+      "confirmed": 21588,
       "date": "2020-09-09",
-      "deaths": 341,
-      "recovered": 16636
+      "deaths": 344,
+      "recovered": 17023
     }
   },
   "Kuwait": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 577552,
+          "confirmed": 577343,
           "date": "2020-09-09",
-          "deaths": 11537,
+          "deaths": 11536,
           "recovered": 0
         }
       },
