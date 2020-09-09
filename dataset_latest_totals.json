@@ -646,17 +646,17 @@
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 42177,
+        "confirmed": 42393,
         "deaths": 2006,
         "recovered": 36100
       },
       "back_2week": {
-        "confirmed": 40060,
+        "confirmed": 40262,
         "deaths": 2001,
         "recovered": 34400
       },
       "latest": {
-        "confirmed": 44592,
+        "confirmed": 44837,
         "deaths": 2014,
         "recovered": 37700
       }
@@ -2583,19 +2583,19 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 39460,
-        "deaths": 228,
-        "recovered": 21410
+        "confirmed": 40529,
+        "deaths": 239,
+        "recovered": 22178
       },
       "back_2week": {
-        "confirmed": 32678,
-        "deaths": 157,
-        "recovered": 18806
+        "confirmed": 33533,
+        "deaths": 164,
+        "recovered": 19119
       },
       "latest": {
-        "confirmed": 47236,
-        "deaths": 300,
-        "recovered": 30677
+        "confirmed": 48138,
+        "deaths": 306,
+        "recovered": 32964
       }
     },
     "NZL": {
