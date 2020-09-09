@@ -188,12 +188,12 @@
           "tested": 38544
         },
         "QLD": {
-          "confirmed": 1133,
-          "current_hospitalized": 15,
+          "confirmed": 1134,
+          "current_hospitalized": 12,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1090,
-          "tested": 971209
+          "tested": 978869
         },
         "SA": {
           "confirmed": 464,
@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 683,
           "recovered": 1992,
-          "tested": 2403388
+          "tested": 2412092
         },
         "WA": {
           "confirmed": 657,
@@ -1900,12 +1900,12 @@
       "back_1week": {
         "confirmed": 105872,
         "deaths": 1523,
-        "recovered": 96297
+        "recovered": 97371
       },
       "back_2week": {
         "confirmed": 104902,
         "deaths": 1415,
-        "recovered": 93405
+        "recovered": 93990
       },
       "latest": {
         "confirmed": 106425,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 43898,
-        "deaths": 1058,
-        "recovered": 38459
+        "confirmed": 43958,
+        "deaths": 1059,
+        "recovered": 38649
       },
       "back_2week": {
-        "confirmed": 43126,
+        "confirmed": 43245,
         "deaths": 1057,
-        "recovered": 36615
+        "recovered": 36925
       },
       "latest": {
-        "confirmed": 44458,
+        "confirmed": 44487,
         "deaths": 1060,
-        "recovered": 39960
+        "recovered": 40092
       }
     },
     "KHM": {
@@ -3737,19 +3737,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 41893,
-        "deaths": 320,
-        "recovered": 39275
+        "confirmed": 42127,
+        "deaths": 323,
+        "recovered": 39538
       },
       "back_2week": {
-        "confirmed": 39348,
-        "deaths": 280,
-        "recovered": 35551
+        "confirmed": 39641,
+        "deaths": 284,
+        "recovered": 35869
       },
       "latest": {
-        "confirmed": 43893,
-        "deaths": 352,
-        "recovered": 41531
+        "confirmed": 44281,
+        "deaths": 358,
+        "recovered": 41594
       }
     },
     "VAT": {
