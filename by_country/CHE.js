@@ -700,8 +700,7 @@ var covid19_dataset_country_che = {
       2013,
       2013,
       2014,
-      2018,
-      2019
+      2018
     ],
     "recovered": [
       0,
