@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 500034,
       "date": "2020-09-09",
-      "deaths": 10405,
-      "recovered": 366590
+      "deaths": 10457,
+      "recovered": 382490
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 37557,
+      "confirmed": 37732,
       "date": "2020-09-09",
-      "deaths": 552,
-      "recovered": 34965
+      "deaths": 555,
+      "recovered": 35119
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 73208,
+      "confirmed": 73402,
       "date": "2020-09-09",
-      "deaths": 721,
-      "recovered": 71916
+      "deaths": 726,
+      "recovered": 71999
     }
   },
   "Belgium": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 21961,
+      "confirmed": 22258,
       "date": "2020-09-09",
-      "deaths": 669,
-      "recovered": 15172
+      "deaths": 675,
+      "recovered": 15208
     }
   },
   "Brazil": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 18356,
+      "confirmed": 18607,
       "date": "2020-09-09",
       "deaths": 628,
-      "recovered": 15907
+      "recovered": 15990
     }
   },
   "Dominican Republic": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 60121,
+          "confirmed": 60452,
           "date": "2020-09-09",
           "deaths": 2644,
           "recovered": 53552
@@ -937,10 +937,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 19583,
+      "confirmed": 20462,
       "date": "2020-09-09",
-      "deaths": 314,
-      "recovered": 2247
+      "deaths": 324,
+      "recovered": 2329
     }
   },
   "Mexico": {
@@ -1333,17 +1333,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 322237,
+      "confirmed": 323012,
       "date": "2020-09-09",
-      "deaths": 4137,
-      "recovered": 298246
+      "deaths": 4165,
+      "recovered": 298966
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 31994,
+      "confirmed": 32078,
       "date": "2020-09-09",
-      "deaths": 727,
+      "deaths": 728,
       "recovered": 0
     }
   },
@@ -1456,7 +1456,7 @@
       "confirmed": 45306,
       "date": "2020-09-09",
       "deaths": 2018,
-      "recovered": 37700
+      "recovered": 38100
     }
   },
   "Turkey": {
@@ -1639,9 +1639,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 19135,
+          "confirmed": 19177,
           "date": "2020-09-09",
-          "deaths": 563,
+          "deaths": 566,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 44557,
+      "confirmed": 44781,
       "date": "2020-09-09",
-      "deaths": 362,
-      "recovered": 41898
+      "deaths": 364,
+      "recovered": 42162
     }
   },
   "Venezuela": {
