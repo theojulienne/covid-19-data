@@ -589,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 45188,
+      "confirmed": 45313,
       "date": "2020-09-09",
       "deaths": 283,
-      "recovered": 44042
+      "recovered": 44188
     }
   },
   "Guatemala": {
@@ -817,10 +817,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 269578,
+      "confirmed": 273821,
       "date": "2020-09-09",
-      "deaths": 7657,
-      "recovered": 206324
+      "deaths": 7732,
+      "recovered": 209993
     }
   },
   "Ireland": {
@@ -1527,9 +1527,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 67011,
+          "confirmed": 67132,
           "date": "2020-09-09",
-          "deaths": 4452,
+          "deaths": 4456,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 396580,
+          "confirmed": 396679,
           "date": "2020-09-09",
-          "deaths": 8579,
+          "deaths": 8580,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 20326,
+          "confirmed": 20413,
           "date": "2020-09-09",
-          "deaths": 736,
+          "deaths": 743,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 44781,
+      "confirmed": 44930,
       "date": "2020-09-09",
-      "deaths": 364,
-      "recovered": 42162
+      "deaths": 366,
+      "recovered": 42212
     }
   },
   "Venezuela": {
