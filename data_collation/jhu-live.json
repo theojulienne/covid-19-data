@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 26602,
       "date": "2020-09-10",
-      "deaths": 770,
-      "recovered": 16786
+      "deaths": 774,
+      "recovered": 16807
     }
   },
   "Ethiopia": {
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 141097,
+      "confirmed": 142582,
       "date": "2020-09-10",
       "deaths": 1054,
-      "recovered": 108354
+      "recovered": 109757
     }
   },
   "Italy": {
