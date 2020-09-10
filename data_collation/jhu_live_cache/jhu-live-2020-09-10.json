@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 18607,
+      "confirmed": 18924,
       "date": "2020-09-10",
-      "deaths": 628,
-      "recovered": 15990
+      "deaths": 629,
+      "recovered": 16069
     }
   },
   "Dominican Republic": {
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 92082,
+      "confirmed": 92822,
       "date": "2020-09-10",
-      "deaths": 552,
-      "recovered": 82222
+      "deaths": 556,
+      "recovered": 83040
     }
   },
   "Kyrgyzstan": {
@@ -1079,9 +1079,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 21738,
+          "confirmed": 22016,
           "date": "2020-09-10",
-          "deaths": 1352,
+          "deaths": 1353,
           "recovered": 0
         }
       }
@@ -1097,10 +1097,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 87939,
+      "confirmed": 88337,
       "date": "2020-09-10",
-      "deaths": 751,
-      "recovered": 83115
+      "deaths": 762,
+      "recovered": 83325
     }
   },
   "Pakistan": {
@@ -1241,10 +1241,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 120846,
+      "confirmed": 121052,
       "date": "2020-09-10",
       "deaths": 205,
-      "recovered": 117746
+      "recovered": 117978
     }
   },
   "Romania": {
@@ -1435,7 +1435,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23241,
+          "confirmed": 23294,
           "date": "2020-09-10",
           "deaths": 2398,
           "recovered": 0
@@ -1443,7 +1443,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19091,
+          "confirmed": 19130,
           "date": "2020-09-10",
           "deaths": 856,
           "recovered": 0
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 27919,
+      "confirmed": 28664,
       "date": "2020-09-10",
-      "deaths": 192,
-      "recovered": 18466
+      "deaths": 198,
+      "recovered": 18821
     }
   }
 }
