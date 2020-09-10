@@ -809,10 +809,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 393425,
+      "confirmed": 395488,
       "date": "2020-09-10",
-      "deaths": 22669,
-      "recovered": 339111
+      "deaths": 22798,
+      "recovered": 340842
     }
   },
   "Iraq": {
@@ -1453,7 +1453,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 45306,
+      "confirmed": 45711,
       "date": "2020-09-10",
       "deaths": 2019,
       "recovered": 38100
