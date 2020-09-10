@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 100403,
+      "confirmed": 100557,
       "date": "2020-09-10",
-      "deaths": 5577,
-      "recovered": 80689
+      "deaths": 5590,
+      "recovered": 81597
     }
   },
   "El Salvador": {
@@ -1089,10 +1089,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 55632,
+      "confirmed": 55829,
       "date": "2020-09-10",
-      "deaths": 1070,
-      "recovered": 43610
+      "deaths": 1075,
+      "recovered": 43810
     }
   },
   "Oman": {
@@ -1471,7 +1471,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 158395,
+          "confirmed": 158711,
           "date": "2020-09-10",
           "deaths": 3733,
           "recovered": 0
@@ -1503,9 +1503,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 69242,
+          "confirmed": 69584,
           "date": "2020-09-10",
-          "deaths": 1318,
+          "deaths": 1325,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 398511,
+          "confirmed": 398663,
           "date": "2020-09-10",
           "deaths": 8603,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 20413,
+          "confirmed": 20519,
           "date": "2020-09-10",
-          "deaths": 743,
+          "deaths": 744,
           "recovered": 0
         }
       },
