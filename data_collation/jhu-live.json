@@ -531,7 +531,7 @@
     "live": {
       "confirmed": 26688,
       "date": "2020-09-11",
-      "deaths": 774,
+      "deaths": 777,
       "recovered": 17106
     }
   },
@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 372501,
       "date": "2020-09-11",
-      "deaths": 30656,
+      "deaths": 30655,
       "recovered": 74991
     }
   },
@@ -1701,9 +1701,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 45679,
+      "confirmed": 45927,
       "date": "2020-09-11",
-      "deaths": 373,
+      "deaths": 375,
       "recovered": 42555
     }
   },
