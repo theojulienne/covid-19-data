@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 524198,
       "date": "2020-09-11",
-      "deaths": 10907,
-      "recovered": 390098
+      "deaths": 10994,
+      "recovered": 400121
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 37874,
+      "confirmed": 38037,
       "date": "2020-09-11",
-      "deaths": 556,
-      "recovered": 35269
+      "deaths": 557,
+      "recovered": 35440
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 73591,
+      "confirmed": 73784,
       "date": "2020-09-11",
-      "deaths": 732,
-      "recovered": 72203
+      "deaths": 738,
+      "recovered": 72369
     }
   },
   "Belgium": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 61158,
+          "confirmed": 61344,
           "date": "2020-09-11",
           "deaths": 2644,
           "recovered": 54171
@@ -582,7 +582,7 @@
           "confirmed": 61505,
           "date": "2020-09-11",
           "deaths": 1828,
-          "recovered": 56620
+          "recovered": 56751
         }
       }
     }
@@ -921,10 +921,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 92822,
+      "confirmed": 93475,
       "date": "2020-09-11",
-      "deaths": 556,
-      "recovered": 83040
+      "deaths": 557,
+      "recovered": 83660
     }
   },
   "Kyrgyzstan": {
@@ -945,10 +945,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 20939,
+      "confirmed": 21908,
       "date": "2020-09-11",
-      "deaths": 339,
-      "recovered": 2420
+      "deaths": 352,
+      "recovered": 2506
     }
   },
   "Mexico": {
@@ -1333,17 +1333,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 323720,
+      "confirmed": 324407,
       "date": "2020-09-11",
-      "deaths": 4189,
-      "recovered": 299998
+      "deaths": 4213,
+      "recovered": 300933
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 32136,
+      "confirmed": 32228,
       "date": "2020-09-11",
-      "deaths": 729,
+      "deaths": 730,
       "recovered": 0
     }
   },
