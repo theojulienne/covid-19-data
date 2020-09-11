@@ -471,7 +471,7 @@ var covid19_dataset_country_sgp = {
       57091,
       57166,
       57229,
-      57316
+      57315
     ],
     "deaths": [
       0,
@@ -941,7 +941,8 @@ var covid19_dataset_country_sgp = {
       56408,
       56461,
       56492,
-      56558
+      56558,
+      56607
     ]
   }
 };
