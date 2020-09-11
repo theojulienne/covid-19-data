@@ -1102,19 +1102,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 17195,
+        "confirmed": 17374,
         "deaths": 626,
-        "recovered": 15413
+        "recovered": 15499
       },
       "back_2week": {
-        "confirmed": 16537,
+        "confirmed": 16627,
         "deaths": 623,
-        "recovered": 14603
+        "recovered": 14763
       },
       "latest": {
-        "confirmed": 18607,
+        "confirmed": 18924,
         "deaths": 628,
-        "recovered": 15990
+        "recovered": 16069
       },
       "states": {
         "Faroe Islands": {
@@ -1490,14 +1490,14 @@
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 44658,
-        "deaths": 276,
-        "recovered": 43478
+        "confirmed": 44713,
+        "deaths": 280,
+        "recovered": 43577
       },
       "back_2week": {
-        "confirmed": 43769,
+        "confirmed": 43841,
         "deaths": 270,
-        "recovered": 42048
+        "recovered": 42246
       },
       "latest": {
         "confirmed": 45313,
