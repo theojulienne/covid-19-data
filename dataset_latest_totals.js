@@ -3374,16 +3374,16 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 6036490,
+        "confirmed": 6036493,
         "deaths": 177199,
         "recovered": 2230077,
-        "tested": 78692149
+        "tested": 78692152
       },
       "back_2week": {
-        "confirmed": 5761276,
+        "confirmed": 5761266,
         "deaths": 171176,
         "recovered": 2083200,
-        "tested": 73653678
+        "tested": 73653668
       },
       "latest": {
         "confirmed": 6290890,
