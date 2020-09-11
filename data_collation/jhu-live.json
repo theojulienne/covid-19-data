@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 58207,
+      "confirmed": 58839,
       "date": "2020-09-11",
       "deaths": 208,
-      "recovered": 52284
+      "recovered": 52776
     }
   },
   "Bangladesh": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 582877,
+          "confirmed": 583464,
           "date": "2020-09-11",
-          "deaths": 11776,
+          "deaths": 11785,
           "recovered": 0
         }
       },
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 399445,
           "date": "2020-09-11",
-          "deaths": 8684,
+          "deaths": 8729,
           "recovered": 0
         }
       },
