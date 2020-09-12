@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 58839,
+      "confirmed": 59586,
       "date": "2020-09-12",
-      "deaths": 210,
-      "recovered": 52776
+      "deaths": 211,
+      "recovered": 53192
     }
   },
   "Bangladesh": {
@@ -327,6 +327,14 @@
       }
     }
   },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 17891,
+      "date": "2020-09-12",
+      "deaths": 717,
+      "recovered": 12758
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 20009,
@@ -339,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46308,
+          "confirmed": 46322,
           "date": "2020-09-12",
           "deaths": 2863,
-          "recovered": 41570
+          "recovered": 41584
         }
       },
       "Quebec": {
@@ -505,26 +513,26 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 102232,
+      "confirmed": 103092,
       "date": "2020-09-12",
-      "deaths": 1941,
-      "recovered": 75747
+      "deaths": 1953,
+      "recovered": 76531
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 114732,
+      "confirmed": 116451,
       "date": "2020-09-12",
-      "deaths": 10836,
+      "deaths": 10864,
       "recovered": 91242
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 100708,
+      "confirmed": 100856,
       "date": "2020-09-12",
-      "deaths": 5607,
-      "recovered": 82473
+      "deaths": 5627,
+      "recovered": 83261
     }
   },
   "El Salvador": {
@@ -569,14 +577,6 @@
           "recovered": 54317
         }
       },
-      "Niedersachsen": {
-        "live": {
-          "confirmed": 17826,
-          "date": "2020-09-12",
-          "deaths": 667,
-          "recovered": 15884
-        }
-      },
       "Nordrhein-Westfalen": {
         "live": {
           "confirmed": 61820,
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 81009,
+      "confirmed": 81658,
       "date": "2020-09-12",
-      "deaths": 2929,
-      "recovered": 69703
+      "deaths": 2949,
+      "recovered": 70403
     }
   },
   "Honduras": {
@@ -1097,10 +1097,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 56017,
+      "confirmed": 56177,
       "date": "2020-09-12",
-      "deaths": 1076,
-      "recovered": 43998
+      "deaths": 1078,
+      "recovered": 44088
     }
   },
   "Oman": {
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 401557,
+          "confirmed": 402110,
           "date": "2020-09-12",
           "deaths": 8757,
           "recovered": 0
@@ -1647,7 +1647,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 20640,
+          "confirmed": 20774,
           "date": "2020-09-12",
           "deaths": 744,
           "recovered": 0
