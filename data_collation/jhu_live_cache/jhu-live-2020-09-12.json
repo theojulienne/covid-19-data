@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 585390,
+          "confirmed": 585849,
           "date": "2020-09-12",
-          "deaths": 11879,
+          "deaths": 11893,
           "recovered": 0
         }
       },
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 69888,
           "date": "2020-09-12",
-          "deaths": 1329,
+          "deaths": 1336,
           "recovered": 0
         }
       },
@@ -1617,7 +1617,7 @@
         "live": {
           "confirmed": 53555,
           "date": "2020-09-12",
-          "deaths": 691,
+          "deaths": 698,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 25609,
+          "confirmed": 25814,
           "date": "2020-09-12",
-          "deaths": 241,
+          "deaths": 242,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 25283,
+          "confirmed": 25440,
           "date": "2020-09-12",
-          "deaths": 510,
+          "deaths": 513,
           "recovered": 0
         }
       }
