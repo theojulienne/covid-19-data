@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 22834,
+      "confirmed": 23138,
       "date": "2020-09-12",
-      "deaths": 686,
-      "recovered": 15672
+      "deaths": 690,
+      "recovered": 15922
     }
   },
   "Brazil": {
@@ -359,34 +359,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 18934,
+          "confirmed": 18996,
           "date": "2020-09-12",
-          "deaths": 470,
-          "recovered": 17806
+          "deaths": 473,
+          "recovered": 17882
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 19866,
+          "confirmed": 20105,
           "date": "2020-09-12",
-          "deaths": 255,
-          "recovered": 17471
+          "deaths": 258,
+          "recovered": 17735
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 279129,
+          "confirmed": 279672,
           "date": "2020-09-12",
-          "deaths": 8818,
-          "recovered": 265834
+          "deaths": 8838,
+          "recovered": 266376
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 24788,
+          "confirmed": 24986,
           "date": "2020-09-12",
-          "deaths": 770,
-          "recovered": 22621
+          "deaths": 776,
+          "recovered": 22828
         }
       }
     }
@@ -1061,9 +1061,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 42183,
+      "confirmed": 42714,
       "date": "2020-09-12",
-      "deaths": 1114,
+      "deaths": 1117,
       "recovered": 30437
     }
   },
@@ -1241,10 +1241,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 62813,
+      "confirmed": 63310,
       "date": "2020-09-12",
-      "deaths": 1855,
-      "recovered": 43644
+      "deaths": 1860,
+      "recovered": 43894
     }
   },
   "Qatar": {
@@ -1333,10 +1333,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 324407,
+      "confirmed": 325050,
       "date": "2020-09-12",
-      "deaths": 4213,
-      "recovered": 300933
+      "deaths": 4240,
+      "recovered": 301836
     }
   },
   "Serbia": {
@@ -1575,7 +1575,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 100243,
+          "confirmed": 100384,
           "date": "2020-09-12",
           "deaths": 8347,
           "recovered": 0
@@ -1641,7 +1641,7 @@
         "live": {
           "confirmed": 19359,
           "date": "2020-09-12",
-          "deaths": 567,
+          "deaths": 568,
           "recovered": 0
         }
       },
