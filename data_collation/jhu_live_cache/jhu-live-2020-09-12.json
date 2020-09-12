@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46118,
+          "confirmed": 46169,
           "date": "2020-09-12",
           "deaths": 2863,
           "recovered": 41460
@@ -489,10 +489,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 33860,
+      "confirmed": 34744,
       "date": "2020-09-12",
-      "deaths": 450,
-      "recovered": 21140
+      "deaths": 453,
+      "recovered": 21150
     }
   },
   "Denmark": {
@@ -1352,7 +1352,7 @@
       "confirmed": 57357,
       "date": "2020-09-12",
       "deaths": 27,
-      "recovered": 56607
+      "recovered": 56699
     }
   },
   "South Africa": {
@@ -1519,7 +1519,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 19549,
+          "confirmed": 19654,
           "date": "2020-09-12",
           "deaths": 754,
           "recovered": 0
@@ -1551,9 +1551,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 24398,
+          "confirmed": 24611,
           "date": "2020-09-12",
-          "deaths": 901,
+          "deaths": 903,
           "recovered": 0
         }
       },
@@ -1583,7 +1583,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 350253,
+          "confirmed": 350727,
           "date": "2020-09-12",
           "deaths": 28299,
           "recovered": 0
