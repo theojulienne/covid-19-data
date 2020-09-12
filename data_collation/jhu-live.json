@@ -38,7 +38,7 @@
           "confirmed": 19800,
           "date": "2020-09-12",
           "deaths": 716,
-          "recovered": 17661
+          "recovered": 17771
         }
       }
     }
@@ -1115,26 +1115,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 36823,
+          "confirmed": 36862,
           "date": "2020-09-12",
           "deaths": 1256,
-          "recovered": 34774
+          "recovered": 34865
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 97533,
+          "confirmed": 97602,
           "date": "2020-09-12",
-          "deaths": 2214,
-          "recovered": 94258
+          "deaths": 2215,
+          "recovered": 94268
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 131404,
+          "confirmed": 131675,
           "date": "2020-09-12",
-          "deaths": 2439,
-          "recovered": 126704
+          "deaths": 2440,
+          "recovered": 126861
         }
       }
     }
