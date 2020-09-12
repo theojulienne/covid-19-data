@@ -111,217 +111,217 @@
     "subseries": {
       "Acre": {
         "live": {
-          "confirmed": 25877,
+          "confirmed": 26004,
           "date": "2020-09-12",
-          "deaths": 635,
-          "recovered": 23368
+          "deaths": 636,
+          "recovered": 23453
         }
       },
       "Alagoas": {
         "live": {
-          "confirmed": 81330,
+          "confirmed": 81440,
           "date": "2020-09-12",
-          "deaths": 1957,
+          "deaths": 1965,
           "recovered": 78044
         }
       },
       "Amapa": {
         "live": {
-          "confirmed": 45529,
+          "confirmed": 45665,
           "date": "2020-09-12",
-          "deaths": 676,
-          "recovered": 33466
+          "deaths": 677,
+          "recovered": 33624
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 125660,
+          "confirmed": 126423,
           "date": "2020-09-12",
-          "deaths": 3874,
-          "recovered": 106608
+          "deaths": 3883,
+          "recovered": 107264
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 277327,
+          "confirmed": 279509,
           "date": "2020-09-12",
-          "deaths": 5818,
+          "deaths": 5866,
           "recovered": 265969
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 224759,
+          "confirmed": 225878,
           "date": "2020-09-12",
-          "deaths": 8639,
+          "deaths": 8666,
           "recovered": 200599
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 173631,
+          "confirmed": 174549,
           "date": "2020-09-12",
-          "deaths": 2843,
+          "deaths": 2867,
           "recovered": 158829
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 118138,
+          "confirmed": 118813,
           "date": "2020-09-12",
-          "deaths": 3314,
+          "deaths": 3332,
           "recovered": 108642
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 156892,
+          "confirmed": 160769,
           "date": "2020-09-12",
-          "deaths": 3627,
-          "recovered": 151597
+          "deaths": 3717,
+          "recovered": 151814
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 160968,
+          "confirmed": 161994,
           "date": "2020-09-12",
-          "deaths": 3550,
-          "recovered": 150971
+          "deaths": 3560,
+          "recovered": 151944
         }
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 102328,
+          "confirmed": 103929,
           "date": "2020-09-12",
-          "deaths": 3025,
-          "recovered": 84034
+          "deaths": 3044,
+          "recovered": 85367
         }
       },
       "Mato Grosso do Sul": {
         "live": {
-          "confirmed": 56046,
+          "confirmed": 58304,
           "date": "2020-09-12",
-          "deaths": 1024,
+          "deaths": 1035,
           "recovered": 50147
         }
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 242533,
+          "confirmed": 246149,
           "date": "2020-09-12",
-          "deaths": 6009,
+          "deaths": 6114,
           "recovered": 210371
         }
       },
       "Para": {
         "live": {
-          "confirmed": 211061,
+          "confirmed": 212428,
           "date": "2020-09-12",
-          "deaths": 6289,
-          "recovered": 196519
+          "deaths": 6299,
+          "recovered": 197622
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 111495,
+          "confirmed": 112018,
           "date": "2020-09-12",
-          "deaths": 2590,
+          "deaths": 2604,
           "recovered": 84520
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 148333,
+          "confirmed": 150668,
           "date": "2020-09-12",
-          "deaths": 3710,
+          "deaths": 3781,
           "recovered": 104110
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 134619,
+          "confirmed": 135643,
           "date": "2020-09-12",
-          "deaths": 7792,
+          "deaths": 7817,
           "recovered": 117349
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 84508,
+          "confirmed": 85225,
           "date": "2020-09-12",
-          "deaths": 1931,
-          "recovered": 82755
+          "deaths": 1947,
+          "recovered": 83598
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 64519,
+          "confirmed": 64878,
           "date": "2020-09-12",
-          "deaths": 2302,
-          "recovered": 38385
+          "deaths": 2308,
+          "recovered": 39207
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 151392,
+          "confirmed": 153475,
           "date": "2020-09-12",
-          "deaths": 3929,
+          "deaths": 3997,
           "recovered": 140276
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 234813,
+          "confirmed": 240453,
           "date": "2020-09-12",
-          "deaths": 16871,
+          "deaths": 16883,
           "recovered": 217965
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 59620,
+          "confirmed": 60038,
           "date": "2020-09-12",
-          "deaths": 1217,
-          "recovered": 49385
+          "deaths": 1231,
+          "recovered": 51591
         }
       },
       "Roraima": {
         "live": {
-          "confirmed": 45855,
+          "confirmed": 46102,
           "date": "2020-09-12",
-          "deaths": 607,
-          "recovered": 14906
+          "deaths": 609,
+          "recovered": 14926
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 194176,
+          "confirmed": 195701,
           "date": "2020-09-12",
-          "deaths": 2483,
-          "recovered": 183690
+          "deaths": 2497,
+          "recovered": 185484
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 874754,
+          "confirmed": 882809,
           "date": "2020-09-12",
-          "deaths": 32104,
+          "deaths": 32338,
           "recovered": 724142
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 74386,
+          "confirmed": 74645,
           "date": "2020-09-12",
-          "deaths": 1933,
-          "recovered": 66376
+          "deaths": 1939,
+          "recovered": 68277
         }
       },
       "Tocantins": {
         "live": {
-          "confirmed": 57897,
+          "confirmed": 58655,
           "date": "2020-09-12",
-          "deaths": 773,
+          "deaths": 784,
           "recovered": 40024
         }
       }
@@ -415,66 +415,66 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 92597,
+          "confirmed": 93727,
           "date": "2020-09-12",
-          "deaths": 2011,
-          "recovered": 79403
+          "deaths": 2034,
+          "recovered": 80563
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 65525,
+          "confirmed": 65631,
           "date": "2020-09-12",
-          "deaths": 2968,
-          "recovered": 60858
+          "deaths": 2970,
+          "recovered": 61026
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 26658,
+          "confirmed": 26786,
           "date": "2020-09-12",
           "deaths": 735,
-          "recovered": 24547
+          "recovered": 24671
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 234514,
+          "confirmed": 236313,
           "date": "2020-09-12",
-          "deaths": 6033,
-          "recovered": 179941
+          "deaths": 6086,
+          "recovered": 187321
         }
       },
       "Cordoba": {
         "live": {
-          "confirmed": 21641,
+          "confirmed": 21892,
           "date": "2020-09-12",
-          "deaths": 1435,
-          "recovered": 18440
+          "deaths": 1439,
+          "recovered": 18584
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 27386,
+          "confirmed": 27775,
           "date": "2020-09-12",
-          "deaths": 795,
-          "recovered": 22601
+          "deaths": 806,
+          "recovered": 23077
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 23335,
+          "confirmed": 23769,
           "date": "2020-09-12",
-          "deaths": 1005,
-          "recovered": 17731
+          "deaths": 1023,
+          "recovered": 18124
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 52085,
+          "confirmed": 52559,
           "date": "2020-09-12",
-          "deaths": 1953,
-          "recovered": 44438
+          "deaths": 1978,
+          "recovered": 44982
         }
       }
     }
@@ -605,204 +605,204 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 65802,
+      "confirmed": 66049,
       "date": "2020-09-12",
-      "deaths": 2049,
-      "recovered": 15577
+      "deaths": 2058,
+      "recovered": 16613
     }
   },
   "India": {
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 537687,
+          "confirmed": 547686,
           "date": "2020-09-12",
-          "deaths": 4702,
-          "recovered": 435647
+          "deaths": 4779,
+          "recovered": 446716
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 135805,
+          "confirmed": 138339,
           "date": "2020-09-12",
-          "deaths": 414,
-          "recovered": 105701
+          "deaths": 430,
+          "recovered": 108329
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 153568,
+          "confirmed": 155445,
           "date": "2020-09-12",
-          "deaths": 785,
-          "recovered": 137544
+          "deaths": 797,
+          "recovered": 139458
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 55680,
+          "confirmed": 58643,
           "date": "2020-09-12",
-          "deaths": 493,
-          "recovered": 25855
+          "deaths": 519,
+          "recovered": 27123
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 205482,
+          "confirmed": 209748,
           "date": "2020-09-12",
-          "deaths": 4666,
-          "recovered": 175400
+          "deaths": 4687,
+          "recovered": 178154
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 22890,
+          "confirmed": 23445,
           "date": "2020-09-12",
-          "deaths": 268,
-          "recovered": 17592
+          "deaths": 276,
+          "recovered": 18065
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 109465,
+          "confirmed": 110809,
           "date": "2020-09-12",
-          "deaths": 3164,
-          "recovered": 90103
+          "deaths": 3180,
+          "recovered": 91343
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 85944,
+          "confirmed": 88332,
           "date": "2020-09-12",
-          "deaths": 907,
-          "recovered": 66705
+          "deaths": 932,
+          "recovered": 68525
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 49134,
+          "confirmed": 50712,
           "date": "2020-09-12",
-          "deaths": 845,
-          "recovered": 34215
+          "deaths": 854,
+          "recovered": 34689
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 58079,
+          "confirmed": 59040,
           "date": "2020-09-12",
-          "deaths": 517,
-          "recovered": 42115
+          "deaths": 532,
+          "recovered": 43328
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 430947,
+          "confirmed": 440411,
           "date": "2020-09-12",
-          "deaths": 6937,
-          "recovered": 322454
+          "deaths": 7067,
+          "recovered": 334999
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 99266,
+          "confirmed": 102254,
           "date": "2020-09-12",
-          "deaths": 396,
-          "recovered": 72578
+          "deaths": 410,
+          "recovered": 73900
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 81379,
+          "confirmed": 83619,
           "date": "2020-09-12",
-          "deaths": 1661,
-          "recovered": 61285
+          "deaths": 1691,
+          "recovered": 62936
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 990795,
+          "confirmed": 1015681,
           "date": "2020-09-12",
-          "deaths": 28282,
-          "recovered": 700715
+          "deaths": 28724,
+          "recovered": 715023
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 139121,
+          "confirmed": 143117,
           "date": "2020-09-12",
-          "deaths": 591,
-          "recovered": 108001
+          "deaths": 605,
+          "recovered": 112062
         }
       },
       "Puducherry": {
         "live": {
-          "confirmed": 18536,
+          "confirmed": 19026,
           "date": "2020-09-12",
-          "deaths": 353,
-          "recovered": 13389
+          "deaths": 365,
+          "recovered": 13783
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 72143,
+          "confirmed": 74616,
           "date": "2020-09-12",
-          "deaths": 2149,
-          "recovered": 51906
+          "deaths": 2212,
+          "recovered": 53308
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 97376,
+          "confirmed": 99036,
           "date": "2020-09-12",
-          "deaths": 1192,
-          "recovered": 80482
+          "deaths": 1207,
+          "recovered": 81970
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 486052,
+          "confirmed": 491571,
           "date": "2020-09-12",
-          "deaths": 8154,
-          "recovered": 429416
+          "deaths": 8231,
+          "recovered": 435422
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 152602,
+          "confirmed": 154880,
           "date": "2020-09-12",
-          "deaths": 940,
-          "recovered": 119467
+          "deaths": 950,
+          "recovered": 121925
         }
       },
       "Tripura": {
         "live": {
-          "confirmed": 17811,
+          "confirmed": 18281,
           "date": "2020-09-12",
-          "deaths": 173,
-          "recovered": 10255
+          "deaths": 182,
+          "recovered": 10734
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 292029,
+          "confirmed": 299045,
           "date": "2020-09-12",
-          "deaths": 4206,
-          "recovered": 221506
+          "deaths": 4282,
+          "recovered": 227442
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 28266,
+          "confirmed": 29221,
           "date": "2020-09-12",
-          "deaths": 377,
-          "recovered": 18783
+          "deaths": 388,
+          "recovered": 19428
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 193175,
+          "confirmed": 196332,
           "date": "2020-09-12",
-          "deaths": 3771,
-          "recovered": 166027
+          "deaths": 3828,
+          "recovered": 169043
         }
       }
     }
