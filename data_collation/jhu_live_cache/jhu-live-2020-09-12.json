@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 47752,
+      "confirmed": 48007,
       "date": "2020-09-12",
-      "deaths": 1599,
-      "recovered": 33723
+      "deaths": 1605,
+      "recovered": 33875
     }
   },
   "Argentina": {
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46169,
+          "confirmed": 46178,
           "date": "2020-09-12",
           "deaths": 2863,
-          "recovered": 41460
+          "recovered": 41490
         }
       },
       "Quebec": {
@@ -537,10 +537,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 63367,
+      "confirmed": 63888,
       "date": "2020-09-12",
-      "deaths": 986,
-      "recovered": 24024
+      "deaths": 996,
+      "recovered": 24493
     }
   },
   "France": {
@@ -833,18 +833,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 30571,
+      "confirmed": 30730,
       "date": "2020-09-12",
-      "deaths": 1781,
+      "deaths": 1783,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 148564,
+      "confirmed": 152525,
       "date": "2020-09-12",
-      "deaths": 1090,
-      "recovered": 111728
+      "deaths": 1101,
+      "recovered": 113494
     }
   },
   "Italy": {
@@ -905,10 +905,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 35793,
+      "confirmed": 35969,
       "date": "2020-09-12",
-      "deaths": 616,
-      "recovered": 22442
+      "deaths": 619,
+      "recovered": 22771
     }
   },
   "Korea, South": {
@@ -937,9 +937,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 22983,
+      "confirmed": 23669,
       "date": "2020-09-12",
-      "deaths": 229,
+      "deaths": 239,
       "recovered": 7312
     }
   },
@@ -1461,19 +1461,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 288126,
+      "confirmed": 289635,
       "date": "2020-09-12",
-      "deaths": 6951,
-      "recovered": 256524
+      "deaths": 6999,
+      "recovered": 257731
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 159134,
+          "confirmed": 159649,
           "date": "2020-09-12",
-          "deaths": 3740,
+          "deaths": 3760,
           "recovered": 0
         }
       },
@@ -1559,17 +1559,17 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 21343,
+          "confirmed": 21588,
           "date": "2020-09-12",
-          "deaths": 763,
+          "deaths": 768,
           "recovered": 0
         }
       },
       "Nevada": {
         "live": {
-          "confirmed": 62057,
+          "confirmed": 62402,
           "date": "2020-09-12",
-          "deaths": 1249,
+          "deaths": 1259,
           "recovered": 0
         }
       },
@@ -1585,13 +1585,13 @@
         "live": {
           "confirmed": 350727,
           "date": "2020-09-12",
-          "deaths": 28299,
+          "deaths": 28303,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 26683,
+          "confirmed": 26781,
           "date": "2020-09-12",
           "deaths": 331,
           "recovered": 0
