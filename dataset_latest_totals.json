@@ -646,17 +646,17 @@
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 43127,
+        "confirmed": 43532,
         "deaths": 2013,
         "recovered": 36500
       },
       "back_2week": {
-        "confirmed": 41006,
+        "confirmed": 41346,
         "deaths": 2003,
         "recovered": 34800
       },
       "latest": {
-        "confirmed": 45711,
+        "confirmed": 46239,
         "deaths": 2020,
         "recovered": 38100
       }
