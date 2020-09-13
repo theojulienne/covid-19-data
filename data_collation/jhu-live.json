@@ -817,10 +817,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 399940,
+      "confirmed": 402029,
       "date": "2020-09-13",
-      "deaths": 23029,
-      "recovered": 344516
+      "deaths": 23157,
+      "recovered": 346242
     }
   },
   "Iraq": {
@@ -945,10 +945,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 22348,
+      "confirmed": 22781,
       "date": "2020-09-13",
-      "deaths": 354,
-      "recovered": 12100
+      "deaths": 362,
+      "recovered": 12183
     }
   },
   "Mexico": {
@@ -1105,10 +1105,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 88337,
+      "confirmed": 89746,
       "date": "2020-09-13",
-      "deaths": 762,
-      "recovered": 83325
+      "deaths": 780,
+      "recovered": 83771
     }
   },
   "Pakistan": {
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 102386,
+      "confirmed": 103495,
       "date": "2020-09-13",
-      "deaths": 4127,
-      "recovered": 42811
+      "deaths": 4163,
+      "recovered": 43025
     }
   },
   "Russia": {
@@ -1453,10 +1453,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 46704,
+      "confirmed": 47179,
       "date": "2020-09-13",
-      "deaths": 2020,
-      "recovered": 38500
+      "deaths": 2021,
+      "recovered": 38900
     }
   },
   "Turkey": {
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 29906,
+      "confirmed": 30574,
       "date": "2020-09-13",
-      "deaths": 210,
-      "recovered": 19979
+      "deaths": 221,
+      "recovered": 20082
     }
   }
 }
