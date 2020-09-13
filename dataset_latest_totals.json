@@ -1645,17 +1645,17 @@
       "back_1week": {
         "confirmed": 63798,
         "deaths": 1984,
-        "recovered": 12347
+        "recovered": 13115
       },
       "back_2week": {
         "confirmed": 58810,
         "deaths": 1827,
-        "recovered": 10076
+        "recovered": 10156
       },
       "latest": {
         "confirmed": 66049,
         "deaths": 2058,
-        "recovered": 16613
+        "recovered": 17760
       }
     },
     "HRV": {
@@ -2694,19 +2694,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 232072,
-        "deaths": 3737,
-        "recovered": 160549
+        "confirmed": 234570,
+        "deaths": 3790,
+        "recovered": 161668
       },
       "back_2week": {
-        "confirmed": 209544,
-        "deaths": 3325,
-        "recovered": 134474
+        "confirmed": 213131,
+        "deaths": 3419,
+        "recovered": 135101
       },
       "latest": {
-        "confirmed": 252964,
-        "deaths": 4108,
-        "recovered": 186606
+        "confirmed": 257863,
+        "deaths": 4292,
+        "recovered": 187116
       }
     },
     "PNG": {
@@ -2730,17 +2730,17 @@
       "back_1week": {
         "confirmed": 69820,
         "deaths": 2100,
-        "recovered": 49820
+        "recovered": 52346
       },
       "back_2week": {
         "confirmed": 65480,
         "deaths": 2018,
-        "recovered": 44785
+        "recovered": 45536
       },
       "latest": {
         "confirmed": 73047,
         "deaths": 2169,
-        "recovered": 58848
+        "recovered": 59725
       }
     },
     "PRT": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 56948,
+        "confirmed": 56982,
         "deaths": 27,
         "recovered": 56174
       },
       "back_2week": {
-        "confirmed": 56666,
+        "confirmed": 56717,
         "deaths": 27,
         "recovered": 55337
       },
       "latest": {
-        "confirmed": 57315,
+        "confirmed": 57357,
         "deaths": 27,
         "recovered": 56607
       }
