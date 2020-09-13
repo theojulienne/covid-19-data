@@ -474,7 +474,8 @@ var covid19_dataset_country_irl = {
       30164,
       30360,
       30571,
-      30730
+      30730,
+      30985
     ],
     "deaths": [
       0,
