@@ -38,7 +38,7 @@
           "confirmed": 19835,
           "date": "2020-09-13",
           "deaths": 723,
-          "recovered": 17771
+          "recovered": 17893
         }
       }
     }
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 46721,
+      "confirmed": 46850,
       "date": "2020-09-13",
-      "deaths": 384,
-      "recovered": 43359
+      "deaths": 386,
+      "recovered": 43511
     }
   },
   "Venezuela": {
