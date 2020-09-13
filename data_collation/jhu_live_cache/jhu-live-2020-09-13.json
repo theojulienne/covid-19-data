@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 70267,
           "date": "2020-09-13",
-          "deaths": 1336,
+          "deaths": 1343,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 100384,
+          "confirmed": 100497,
           "date": "2020-09-13",
-          "deaths": 8347,
+          "deaths": 8348,
           "recovered": 0
         }
       },
@@ -1617,13 +1617,13 @@
         "live": {
           "confirmed": 53723,
           "date": "2020-09-13",
-          "deaths": 698,
+          "deaths": 706,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 402551,
+          "confirmed": 402865,
           "date": "2020-09-13",
           "deaths": 8806,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 25814,
+          "confirmed": 26014,
           "date": "2020-09-13",
           "deaths": 242,
           "recovered": 0
@@ -1655,9 +1655,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 25440,
+          "confirmed": 25554,
           "date": "2020-09-13",
-          "deaths": 513,
+          "deaths": 514,
           "recovered": 0
         }
       }
