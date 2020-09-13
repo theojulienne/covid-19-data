@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46323,
+          "confirmed": 46402,
           "date": "2020-09-13",
           "deaths": 2863,
-          "recovered": 41585
+          "recovered": 41628
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 64707,
+          "confirmed": 64986,
           "date": "2020-09-13",
           "deaths": 5780,
-          "recovered": 57054
+          "recovered": 57268
         }
       }
     }
@@ -489,9 +489,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 35401,
+      "confirmed": 35933,
       "date": "2020-09-13",
-      "deaths": 453,
+      "deaths": 456,
       "recovered": 21209
     }
   },
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 103092,
+      "confirmed": 103660,
       "date": "2020-09-13",
-      "deaths": 1953,
-      "recovered": 76531
+      "deaths": 1968,
+      "recovered": 77182
     }
   },
   "Ecuador": {
@@ -555,7 +555,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 45070,
+          "confirmed": 45247,
           "date": "2020-09-13",
           "deaths": 1868,
           "recovered": 39764
@@ -567,14 +567,6 @@
           "date": "2020-09-13",
           "deaths": 2645,
           "recovered": 54475
-        }
-      },
-      "Niedersachsen": {
-        "live": {
-          "confirmed": 17893,
-          "date": "2020-09-13",
-          "deaths": 667,
-          "recovered": 15924
         }
       },
       "Nordrhein-Westfalen": {
@@ -1159,7 +1151,7 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 20046,
+          "confirmed": 20188,
           "date": "2020-09-13",
           "deaths": 1222,
           "recovered": 0
@@ -1167,7 +1159,7 @@
       },
       "Arequipa": {
         "live": {
-          "confirmed": 36877,
+          "confirmed": 37378,
           "date": "2020-09-13",
           "deaths": 1236,
           "recovered": 0
@@ -1175,15 +1167,23 @@
       },
       "Callao": {
         "live": {
-          "confirmed": 29523,
+          "confirmed": 29757,
           "date": "2020-09-13",
           "deaths": 1641,
           "recovered": 0
         }
       },
+      "Cusco": {
+        "live": {
+          "confirmed": 18168,
+          "date": "2020-09-13",
+          "deaths": 367,
+          "recovered": 0
+        }
+      },
       "Ica": {
         "live": {
-          "confirmed": 23771,
+          "confirmed": 23893,
           "date": "2020-09-13",
           "deaths": 1510,
           "recovered": 0
@@ -1191,7 +1191,7 @@
       },
       "La Libertad": {
         "live": {
-          "confirmed": 24727,
+          "confirmed": 24919,
           "date": "2020-09-13",
           "deaths": 2121,
           "recovered": 0
@@ -1199,7 +1199,7 @@
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 23570,
+          "confirmed": 23669,
           "date": "2020-09-13",
           "deaths": 1629,
           "recovered": 0
@@ -1207,15 +1207,15 @@
       },
       "Lima": {
         "live": {
-          "confirmed": 333875,
+          "confirmed": 336670,
           "date": "2020-09-13",
-          "deaths": 13622,
+          "deaths": 13678,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 31915,
+          "confirmed": 32091,
           "date": "2020-09-13",
           "deaths": 1875,
           "recovered": 0
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 159649,
           "date": "2020-09-13",
-          "deaths": 3760,
+          "deaths": 3756,
           "recovered": 0
         }
       },
@@ -1519,7 +1519,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 19654,
+          "confirmed": 20065,
           "date": "2020-09-13",
           "deaths": 754,
           "recovered": 0
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 24611,
           "date": "2020-09-13",
-          "deaths": 903,
+          "deaths": 906,
           "recovered": 0
         }
       },

@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 133141,
+        "confirmed": 133511,
         "deaths": 9190,
         "recovered": 117755
       },
       "back_2week": {
-        "confirmed": 129342,
+        "confirmed": 129639,
         "deaths": 9155,
         "recovered": 115029
       },
       "latest": {
-        "confirmed": 137676,
+        "confirmed": 138164,
         "deaths": 9214,
         "recovered": 121537
       },
@@ -623,7 +623,7 @@
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 46118,
+          "confirmed": 46323,
           "deaths": 2863
         },
         "Prince Edward Island": {
@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 64463,
+          "confirmed": 64707,
           "deaths": 5774
         },
         "Saskatchewan": {
@@ -1034,18 +1034,18 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 27249,
-        "deaths": 429,
+        "confirmed": 27752,
+        "deaths": 431,
         "recovered": 19039
       },
       "back_2week": {
-        "confirmed": 23777,
-        "deaths": 419,
+        "confirmed": 24094,
+        "deaths": 421,
         "recovered": 17541
       },
       "latest": {
-        "confirmed": 33860,
-        "deaths": 450,
+        "confirmed": 35401,
+        "deaths": 453,
         "recovered": 21205
       }
     },
@@ -1131,19 +1131,19 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 96629,
-        "deaths": 1801,
-        "recovered": 70871
+        "confirmed": 98776,
+        "deaths": 1840,
+        "recovered": 71901
       },
       "back_2week": {
-        "confirmed": 93390,
-        "deaths": 1648,
-        "recovered": 65285
+        "confirmed": 93732,
+        "deaths": 1673,
+        "recovered": 66320
       },
       "latest": {
-        "confirmed": 102232,
-        "deaths": 1941,
-        "recovered": 75747
+        "confirmed": 103092,
+        "deaths": 1953,
+        "recovered": 76531
       }
     },
     "DZA": {
