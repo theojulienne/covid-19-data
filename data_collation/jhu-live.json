@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 23138,
+      "confirmed": 23465,
       "date": "2020-09-13",
-      "deaths": 690,
-      "recovered": 15922
+      "deaths": 696,
+      "recovered": 16038
     }
   },
   "Brazil": {
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 26851,
+      "confirmed": 26928,
       "date": "2020-09-13",
       "deaths": 785,
-      "recovered": 17885
+      "recovered": 18397
     }
   },
   "Ethiopia": {
@@ -890,7 +890,7 @@
           "confirmed": 23013,
           "date": "2020-09-13",
           "deaths": 382,
-          "recovered": 20019
+          "recovered": 20109
         }
       }
     }
@@ -1087,7 +1087,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 22980,
+          "confirmed": 23330,
           "date": "2020-09-13",
           "deaths": 1354,
           "recovered": 0
@@ -1701,9 +1701,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 46850,
+      "confirmed": 47042,
       "date": "2020-09-13",
-      "deaths": 386,
+      "deaths": 388,
       "recovered": 43511
     }
   },
