@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19870,
+          "confirmed": 19872,
           "date": "2020-09-14",
           "deaths": 729,
           "recovered": 17893
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 125982,
+      "confirmed": 126791,
       "date": "2020-09-14",
-      "deaths": 7297,
-      "recovered": 82796
+      "deaths": 7344,
+      "recovered": 84286
     }
   },
   "Bosnia and Herzegovina": {
@@ -905,10 +905,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 22176,
+      "confirmed": 22285,
       "date": "2020-09-14",
-      "deaths": 358,
-      "recovered": 18226
+      "deaths": 363,
+      "recovered": 18489
     }
   },
   "Kuwait": {
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 405868,
+          "confirmed": 405979,
           "date": "2020-09-14",
-          "deaths": 8828,
+          "deaths": 8856,
           "recovered": 0
         }
       },
