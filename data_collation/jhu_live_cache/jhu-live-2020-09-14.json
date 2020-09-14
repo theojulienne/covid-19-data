@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 38327,
+      "confirmed": 38403,
       "date": "2020-09-14",
-      "deaths": 562,
-      "recovered": 35756
+      "deaths": 564,
+      "recovered": 35860
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 74173,
+      "confirmed": 74360,
       "date": "2020-09-14",
-      "deaths": 750,
-      "recovered": 72584
+      "deaths": 756,
+      "recovered": 72609
     }
   },
   "Belgium": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 23465,
+      "confirmed": 23635,
       "date": "2020-09-14",
-      "deaths": 696,
-      "recovered": 16038
+      "deaths": 705,
+      "recovered": 16166
     }
   },
   "Brazil": {
@@ -881,8 +881,8 @@
         "live": {
           "confirmed": 23093,
           "date": "2020-09-14",
-          "deaths": 382,
-          "recovered": 20109
+          "deaths": 384,
+          "recovered": 20171
         }
       }
     }
@@ -937,10 +937,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 22781,
+      "confirmed": 23515,
       "date": "2020-09-14",
-      "deaths": 362,
-      "recovered": 12183
+      "deaths": 368,
+      "recovered": 12762
     }
   },
   "Mexico": {
@@ -1333,10 +1333,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 325651,
+      "confirmed": 326258,
       "date": "2020-09-14",
-      "deaths": 4268,
-      "recovered": 302870
+      "deaths": 4305,
+      "recovered": 303930
     }
   },
   "Serbia": {
@@ -1559,7 +1559,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 21831,
+          "confirmed": 21914,
           "date": "2020-09-14",
           "deaths": 768,
           "recovered": 0
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 47620,
+      "confirmed": 47836,
       "date": "2020-09-14",
-      "deaths": 394,
-      "recovered": 44002
+      "deaths": 396,
+      "recovered": 44375
     }
   },
   "Venezuela": {
