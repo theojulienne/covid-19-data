@@ -88,17 +88,17 @@
     "ARG": {
       "back_1week": {
         "confirmed": 471806,
-        "deaths": 9739,
+        "deaths": 9859,
         "recovered": 340381
       },
       "back_2week": {
         "confirmed": 401239,
-        "deaths": 8353,
+        "deaths": 8457,
         "recovered": 287220
       },
       "latest": {
         "confirmed": 546481,
-        "deaths": 11263,
+        "deaths": 11352,
         "recovered": 409771
       }
     },
@@ -2221,18 +2221,18 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 39473,
+        "confirmed": 39797,
         "deaths": 1063,
         "recovered": 27799
       },
       "back_2week": {
-        "confirmed": 36404,
-        "deaths": 990,
+        "confirmed": 36700,
+        "deaths": 992,
         "recovered": 25139
       },
       "latest": {
-        "confirmed": 42714,
-        "deaths": 1117,
+        "confirmed": 42978,
+        "deaths": 1123,
         "recovered": 30437
       }
     },
@@ -2779,19 +2779,19 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 119864,
-        "deaths": 202,
-        "recovered": 116780
+        "confirmed": 120095,
+        "deaths": 203,
+        "recovered": 116998
       },
       "back_2week": {
-        "confirmed": 118407,
-        "deaths": 196,
-        "recovered": 115251
+        "confirmed": 118575,
+        "deaths": 197,
+        "recovered": 115430
       },
       "latest": {
-        "confirmed": 121523,
+        "confirmed": 121740,
         "deaths": 205,
-        "recovered": 118475
+        "recovered": 118682
       }
     },
     "RKS": {
@@ -2917,17 +2917,17 @@
       "back_1week": {
         "confirmed": 57022,
         "deaths": 27,
-        "recovered": 56267
+        "recovered": 56333
       },
       "back_2week": {
         "confirmed": 56771,
         "deaths": 27,
-        "recovered": 55447
+        "recovered": 55586
       },
       "latest": {
         "confirmed": 57406,
         "deaths": 27,
-        "recovered": 56699
+        "recovered": 56764
       }
     },
     "SLE": {
