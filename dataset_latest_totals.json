@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 46071,
-        "deaths": 1549,
-        "recovered": 32481
+        "confirmed": 46364,
+        "deaths": 1556,
+        "recovered": 32745
       },
       "back_2week": {
-        "confirmed": 43781,
-        "deaths": 1491,
-        "recovered": 30717
+        "confirmed": 44146,
+        "deaths": 1501,
+        "recovered": 30978
       },
       "latest": {
-        "confirmed": 48007,
-        "deaths": 1605,
-        "recovered": 33875
+        "confirmed": 48254,
+        "deaths": 1612,
+        "recovered": 34037
       }
     },
     "ECU": {
@@ -1170,13 +1170,13 @@
         "recovered": 102304
       },
       "back_2week": {
-        "confirmed": 112906,
-        "deaths": 6537,
+        "confirmed": 113648,
+        "deaths": 6555,
         "recovered": 95429
       },
       "latest": {
-        "confirmed": 116451,
-        "deaths": 10864,
+        "confirmed": 118594,
+        "deaths": 10903,
         "recovered": 91242
       }
     },
@@ -2017,19 +2017,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 20011,
-        "deaths": 187,
-        "recovered": 5868
+        "confirmed": 20426,
+        "deaths": 191,
+        "recovered": 6139
       },
       "back_2week": {
-        "confirmed": 16275,
-        "deaths": 155,
-        "recovered": 4484
+        "confirmed": 16870,
+        "deaths": 160,
+        "recovered": 4693
       },
       "latest": {
-        "confirmed": 23669,
-        "deaths": 239,
-        "recovered": 7936
+        "confirmed": 24310,
+        "deaths": 241,
+        "recovered": 8334
       }
     },
     "LBR": {
@@ -3272,19 +3272,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 278228,
-        "deaths": 6620,
-        "recovered": 250092
+        "confirmed": 279806,
+        "deaths": 6673,
+        "recovered": 251105
       },
       "back_2week": {
-        "confirmed": 267064,
-        "deaths": 6284,
-        "recovered": 242812
+        "confirmed": 268546,
+        "deaths": 6326,
+        "recovered": 243839
       },
       "latest": {
-        "confirmed": 289635,
-        "deaths": 6999,
-        "recovered": 257731
+        "confirmed": 291162,
+        "deaths": 7056,
+        "recovered": 258833
       }
     },
     "TWN": {
@@ -3388,7 +3388,7 @@
       "latest": {
         "confirmed": 6413187,
         "deaths": 185195,
-        "recovered": 2437971,
+        "recovered": 2436594,
         "tested": 85741641
       },
       "states": {
@@ -3410,7 +3410,7 @@
           "confirmed": 69710,
           "deaths": 969,
           "hospitalized": 4678,
-          "recovered": 62622,
+          "recovered": 61245,
           "tested": 820000
         },
         "AZ": {
