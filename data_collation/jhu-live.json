@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38716,
+      "confirmed": 38772,
       "date": "2020-09-14",
-      "deaths": 1420,
-      "recovered": 31638
+      "deaths": 1425,
+      "recovered": 32073
     }
   },
   "Algeria": {
@@ -809,10 +809,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 402029,
+      "confirmed": 404648,
       "date": "2020-09-14",
-      "deaths": 23157,
-      "recovered": 346242
+      "deaths": 23313,
+      "recovered": 348013
     }
   },
   "Iraq": {
@@ -1453,9 +1453,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 47179,
+      "confirmed": 47436,
       "date": "2020-09-14",
-      "deaths": 2021,
+      "deaths": 2023,
       "recovered": 38900
     }
   },
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 30574,
+      "confirmed": 31362,
       "date": "2020-09-14",
-      "deaths": 221,
-      "recovered": 20082
+      "deaths": 226,
+      "recovered": 21406
     }
   }
 }
