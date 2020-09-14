@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46689,
+          "confirmed": 46693,
           "date": "2020-09-14",
           "deaths": 2865,
           "recovered": 41761
@@ -825,7 +825,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 30985,
+      "confirmed": 31192,
       "date": "2020-09-14",
       "deaths": 1784,
       "recovered": 23364
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 156823,
+      "confirmed": 159290,
       "date": "2020-09-14",
-      "deaths": 1126,
-      "recovered": 115128
+      "deaths": 1136,
+      "recovered": 118547
     }
   },
   "Italy": {
@@ -1061,10 +1061,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 86686,
+      "confirmed": 88203,
       "date": "2020-09-14",
-      "deaths": 1578,
-      "recovered": 67528
+      "deaths": 1614,
+      "recovered": 68970
     }
   },
   "Nepal": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 590009,
+          "confirmed": 590644,
           "date": "2020-09-14",
-          "deaths": 11987,
+          "deaths": 11993,
           "recovered": 0
         }
       },
@@ -1511,7 +1511,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 134801,
+          "confirmed": 135274,
           "date": "2020-09-14",
           "deaths": 5134,
           "recovered": 0
@@ -1567,15 +1567,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 62650,
+          "confirmed": 62812,
           "date": "2020-09-14",
-          "deaths": 1260,
+          "deaths": 1262,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 100497,
+          "confirmed": 100592,
           "date": "2020-09-14",
           "deaths": 8348,
           "recovered": 0
@@ -1607,7 +1607,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 35094,
+          "confirmed": 35257,
           "date": "2020-09-14",
           "deaths": 1770,
           "recovered": 0
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 405979,
+          "confirmed": 406252,
           "date": "2020-09-14",
           "deaths": 8856,
           "recovered": 0

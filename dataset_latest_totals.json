@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 29534,
+        "confirmed": 29672,
         "deaths": 1777,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 28720,
+        "confirmed": 28760,
         "deaths": 1777,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 30730,
+        "confirmed": 30985,
         "deaths": 1783,
         "recovered": 23364
       }
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 70160,
-        "deaths": 1329,
-        "recovered": 53929
+        "confirmed": 72394,
+        "deaths": 1361,
+        "recovered": 55274
       },
       "back_2week": {
-        "confirmed": 60056,
-        "deaths": 1078,
-        "recovered": 44618
+        "confirmed": 61399,
+        "deaths": 1111,
+        "recovered": 46355
       },
       "latest": {
-        "confirmed": 84435,
-        "deaths": 1553,
-        "recovered": 65867
+        "confirmed": 86686,
+        "deaths": 1578,
+        "recovered": 67528
       }
     },
     "MCO": {
@@ -3386,10 +3386,10 @@
         "tested": 75933874
       },
       "latest": {
-        "confirmed": 6413187,
-        "deaths": 185195,
-        "recovered": 2436594,
-        "tested": 85741641
+        "confirmed": 6413281,
+        "deaths": 185196,
+        "recovered": 2436613,
+        "tested": 85744754
       },
       "states": {
         "AK": {
@@ -3652,11 +3652,11 @@
           "tested": 1807805
         },
         "RI": {
-          "confirmed": 22905,
-          "deaths": 1071,
-          "hospitalized": 2620,
-          "recovered": 2201,
-          "tested": 303023
+          "confirmed": 22999,
+          "deaths": 1072,
+          "hospitalized": 2639,
+          "recovered": 2220,
+          "tested": 306136
         },
         "SC": {
           "confirmed": 129978,
