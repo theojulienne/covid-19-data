@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 19890,
+      "confirmed": 20237,
       "date": "2020-09-14",
-      "deaths": 631,
-      "recovered": 16333
+      "deaths": 633,
+      "recovered": 16437
     }
   },
   "Dominican Republic": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 61974,
+          "confirmed": 62145,
           "date": "2020-09-14",
           "deaths": 2645,
           "recovered": 54739
@@ -574,7 +574,7 @@
           "confirmed": 62261,
           "date": "2020-09-14",
           "deaths": 1829,
-          "recovered": 56751
+          "recovered": 57297
         }
       }
     }
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 94764,
+      "confirmed": 95472,
       "date": "2020-09-14",
-      "deaths": 560,
-      "recovered": 84995
+      "deaths": 563,
+      "recovered": 85501
     }
   },
   "Kyrgyzstan": {
@@ -1079,9 +1079,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 23330,
+          "confirmed": 23801,
           "date": "2020-09-14",
-          "deaths": 1354,
+          "deaths": 1355,
           "recovered": 0
         }
       }
