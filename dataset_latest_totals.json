@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 723,
           "recovered": 1992,
-          "tested": 2471377
+          "tested": 2488773
         },
         "WA": {
           "confirmed": 659,
@@ -1814,17 +1814,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 130644,
-        "deaths": 1007,
+        "deaths": 1019,
         "recovered": 102477
       },
       "back_2week": {
         "confirmed": 114020,
-        "deaths": 906,
+        "deaths": 919,
         "recovered": 92796
       },
       "latest": {
         "confirmed": 155604,
-        "deaths": 1103,
+        "deaths": 1119,
         "recovered": 114998
       }
     },
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 56982,
+        "confirmed": 57022,
         "deaths": 27,
         "recovered": 56267
       },
       "back_2week": {
-        "confirmed": 56717,
+        "confirmed": 56771,
         "deaths": 27,
         "recovered": 55447
       },
       "latest": {
-        "confirmed": 57357,
+        "confirmed": 57406,
         "deaths": 27,
         "recovered": 56699
       }
