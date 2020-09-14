@@ -3386,10 +3386,10 @@
         "tested": 75933874
       },
       "latest": {
-        "confirmed": 6413281,
+        "confirmed": 6413746,
         "deaths": 185196,
         "recovered": 2436613,
-        "tested": 85744754
+        "tested": 85761168
       },
       "states": {
         "AK": {
@@ -3707,10 +3707,10 @@
           "tested": 149661
         },
         "WA": {
-          "confirmed": 79011,
+          "confirmed": 79476,
           "deaths": 1991,
-          "hospitalized": 7018,
-          "tested": 1614748
+          "hospitalized": 7048,
+          "tested": 1631162
         },
         "WI": {
           "confirmed": 93055,
