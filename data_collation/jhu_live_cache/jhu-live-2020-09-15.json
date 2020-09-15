@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 38403,
+      "confirmed": 38517,
       "date": "2020-09-15",
-      "deaths": 564,
-      "recovered": 35860
+      "deaths": 566,
+      "recovered": 35998
     }
   },
   "Bahrain": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 23635,
+      "confirmed": 23929,
       "date": "2020-09-15",
-      "deaths": 705,
-      "recovered": 16166
+      "deaths": 725,
+      "recovered": 16701
     }
   },
   "Brazil": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 20237,
+      "confirmed": 20571,
       "date": "2020-09-15",
       "deaths": 633,
-      "recovered": 16437
+      "recovered": 16557
     }
   },
   "Dominican Republic": {
@@ -1079,7 +1079,7 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 23801,
+          "confirmed": 24258,
           "date": "2020-09-15",
           "deaths": 1355,
           "recovered": 0
@@ -1151,73 +1151,73 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 20329,
+          "confirmed": 20530,
           "date": "2020-09-15",
-          "deaths": 1229,
+          "deaths": 1232,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 37719,
+          "confirmed": 37864,
           "date": "2020-09-15",
-          "deaths": 1253,
+          "deaths": 1265,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 30060,
+          "confirmed": 30140,
           "date": "2020-09-15",
-          "deaths": 1655,
+          "deaths": 1664,
           "recovered": 0
         }
       },
       "Cusco": {
         "live": {
-          "confirmed": 18379,
+          "confirmed": 18457,
           "date": "2020-09-15",
-          "deaths": 375,
+          "deaths": 376,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 24172,
+          "confirmed": 24311,
           "date": "2020-09-15",
-          "deaths": 1523,
+          "deaths": 1525,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 25337,
+          "confirmed": 25557,
           "date": "2020-09-15",
-          "deaths": 2134,
+          "deaths": 2137,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 23878,
+          "confirmed": 24020,
           "date": "2020-09-15",
-          "deaths": 1640,
+          "deaths": 1641,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 339125,
+          "confirmed": 340912,
           "date": "2020-09-15",
-          "deaths": 13731,
+          "deaths": 13780,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 32373,
+          "confirmed": 32477,
           "date": "2020-09-15",
-          "deaths": 1888,
+          "deaths": 1891,
           "recovered": 0
         }
       }
@@ -1435,7 +1435,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23346,
+          "confirmed": 23541,
           "date": "2020-09-15",
           "deaths": 2400,
           "recovered": 0
@@ -1443,9 +1443,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19224,
+          "confirmed": 19352,
           "date": "2020-09-15",
-          "deaths": 857,
+          "deaths": 858,
           "recovered": 0
         }
       }
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 31362,
+      "confirmed": 32250,
       "date": "2020-09-15",
-      "deaths": 226,
-      "recovered": 21406
+      "deaths": 229,
+      "recovered": 21804
     }
   }
 }
