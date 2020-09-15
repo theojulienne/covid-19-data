@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 93455,
+      "confirmed": 94306,
       "date": "2020-09-15",
-      "deaths": 9925,
-      "recovered": 18723
+      "deaths": 9927,
+      "recovered": 18737
     }
   },
   "Bolivia": {
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 46879,
+          "confirmed": 46905,
           "date": "2020-09-15",
           "deaths": 2865,
-          "recovered": 41843
+          "recovered": 41869
         }
       },
       "Quebec": {
@@ -407,66 +407,66 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 95642,
+          "confirmed": 96980,
           "date": "2020-09-15",
-          "deaths": 2072,
-          "recovered": 82139
+          "deaths": 2089,
+          "recovered": 83307
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 65787,
+          "confirmed": 65843,
           "date": "2020-09-15",
-          "deaths": 2976,
-          "recovered": 61269
+          "deaths": 2985,
+          "recovered": 61382
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 27158,
+          "confirmed": 27277,
           "date": "2020-09-15",
-          "deaths": 742,
-          "recovered": 24893
+          "deaths": 748,
+          "recovered": 25003
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 240287,
+          "confirmed": 242007,
           "date": "2020-09-15",
-          "deaths": 6178,
-          "recovered": 195179
+          "deaths": 6229,
+          "recovered": 197710
         }
       },
       "Cordoba": {
         "live": {
-          "confirmed": 22102,
+          "confirmed": 22132,
           "date": "2020-09-15",
-          "deaths": 1456,
-          "recovered": 19045
+          "deaths": 1463,
+          "recovered": 19124
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 28519,
+          "confirmed": 28791,
           "date": "2020-09-15",
-          "deaths": 829,
-          "recovered": 23873
+          "deaths": 840,
+          "recovered": 24204
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 24727,
+          "confirmed": 24976,
           "date": "2020-09-15",
-          "deaths": 1058,
-          "recovered": 18943
+          "deaths": 1071,
+          "recovered": 19403
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 53426,
+          "confirmed": 53927,
           "date": "2020-09-15",
-          "deaths": 2013,
-          "recovered": 45746
+          "deaths": 2027,
+          "recovered": 46177
         }
       }
     }
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 67789,
+      "confirmed": 68620,
       "date": "2020-09-15",
-      "deaths": 2079,
-      "recovered": 17873
+      "deaths": 2087,
+      "recovered": 18487
     }
   },
   "India": {
@@ -1107,26 +1107,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 36992,
+          "confirmed": 37079,
           "date": "2020-09-15",
           "deaths": 1257,
-          "recovered": 35067
+          "recovered": 35096
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 97760,
+          "confirmed": 97817,
           "date": "2020-09-15",
-          "deaths": 2217,
-          "recovered": 94505
+          "deaths": 2220,
+          "recovered": 94526
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 132084,
+          "confirmed": 132250,
           "date": "2020-09-15",
           "deaths": 2445,
-          "recovered": 127449
+          "recovered": 127626
         }
       }
     }
@@ -1141,10 +1141,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 27817,
+      "confirmed": 28367,
       "date": "2020-09-15",
-      "deaths": 525,
-      "recovered": 14288
+      "deaths": 539,
+      "recovered": 14814
     }
   },
   "Peru": {
