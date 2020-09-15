@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 126791,
+      "confirmed": 127619,
       "date": "2020-09-15",
-      "deaths": 7344,
-      "recovered": 84286
+      "deaths": 7394,
+      "recovered": 85198
     }
   },
   "Bosnia and Herzegovina": {
@@ -889,7 +889,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106855,
+      "confirmed": 106920,
       "date": "2020-09-15",
       "deaths": 1634,
       "recovered": 100627
@@ -905,10 +905,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 22285,
+      "confirmed": 22391,
       "date": "2020-09-15",
-      "deaths": 363,
-      "recovered": 18489
+      "deaths": 367,
+      "recovered": 18878
     }
   },
   "Kuwait": {
@@ -1471,7 +1471,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 159925,
+          "confirmed": 160100,
           "date": "2020-09-15",
           "deaths": 3756,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 408530,
+          "confirmed": 408603,
           "date": "2020-09-15",
-          "deaths": 8867,
+          "deaths": 8889,
           "recovered": 0
         }
       },
@@ -1709,10 +1709,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 60540,
+      "confirmed": 61569,
       "date": "2020-09-15",
-      "deaths": 485,
-      "recovered": 48644
+      "deaths": 494,
+      "recovered": 49371
     }
   },
   "West Bank and Gaza": {
