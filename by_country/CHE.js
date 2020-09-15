@@ -718,7 +718,8 @@ var covid19_dataset_country_che = {
       2020,
       2020,
       2021,
-      2025
+      2025,
+      2028
     ],
     "recovered": [
       0,
