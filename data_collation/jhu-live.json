@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 47062,
+          "confirmed": 47165,
           "date": "2020-09-15",
           "deaths": 2870,
-          "recovered": 41964
+          "recovered": 42025
         }
       },
       "Quebec": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 82172,
+      "confirmed": 82684,
       "date": "2020-09-15",
-      "deaths": 2972,
-      "recovered": 71352
+      "deaths": 2984,
+      "recovered": 71983
     }
   },
   "Honduras": {
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 409319,
+          "confirmed": 412182,
           "date": "2020-09-15",
-          "deaths": 8895,
+          "deaths": 8938,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 20912,
+          "confirmed": 20960,
           "date": "2020-09-15",
-          "deaths": 747,
+          "deaths": 748,
           "recovered": 0
         }
       },
