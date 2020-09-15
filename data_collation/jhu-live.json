@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 38772,
+      "confirmed": 38802,
       "date": "2020-09-15",
       "deaths": 1425,
-      "recovered": 32073
+      "recovered": 32081
     }
   },
   "Algeria": {
@@ -921,10 +921,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 44928,
+      "confirmed": 44999,
       "date": "2020-09-15",
       "deaths": 1063,
-      "recovered": 41023
+      "recovered": 41103
     }
   },
   "Lebanon": {
@@ -1701,9 +1701,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 47995,
+      "confirmed": 48192,
       "date": "2020-09-15",
-      "deaths": 398,
+      "deaths": 400,
       "recovered": 44526
     }
   },
