@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 47038,
+          "confirmed": 47058,
           "date": "2020-09-15",
           "deaths": 2869,
-          "recovered": 41961
+          "recovered": 41964
         }
       },
       "Quebec": {
@@ -473,18 +473,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 57361,
+      "confirmed": 58137,
       "date": "2020-09-15",
-      "deaths": 621,
-      "recovered": 21206
+      "deaths": 633,
+      "recovered": 21536
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 19066,
+      "confirmed": 19100,
       "date": "2020-09-15",
       "deaths": 120,
-      "recovered": 18174
+      "recovered": 18228
     }
   },
   "Czechia": {
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 104110,
+      "confirmed": 104803,
       "date": "2020-09-15",
-      "deaths": 1984,
-      "recovered": 77790
+      "deaths": 1998,
+      "recovered": 78387
     }
   },
   "Ecuador": {
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 162273,
+      "confirmed": 164402,
       "date": "2020-09-15",
-      "deaths": 1141,
-      "recovered": 120443
+      "deaths": 1147,
+      "recovered": 120727
     }
   },
   "Italy": {
@@ -1349,10 +1349,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 650749,
+      "confirmed": 651521,
       "date": "2020-09-15",
-      "deaths": 15499,
-      "recovered": 579289
+      "deaths": 15641,
+      "recovered": 583126
     }
   },
   "Spain": {
@@ -1479,15 +1479,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 592918,
+          "confirmed": 593118,
           "date": "2020-09-15",
-          "deaths": 12043,
+          "deaths": 12046,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 19518,
+          "confirmed": 19558,
           "date": "2020-09-15",
           "deaths": 1419,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 68185,
+          "confirmed": 68356,
           "date": "2020-09-15",
-          "deaths": 4486,
+          "deaths": 4490,
           "recovered": 0
         }
       },
@@ -1583,7 +1583,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 351511,
+          "confirmed": 351968,
           "date": "2020-09-15",
           "deaths": 28316,
           "recovered": 0
