@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 73984,
-        "deaths": 388,
-        "recovered": 66095
+        "confirmed": 74454,
+        "deaths": 390,
+        "recovered": 66533
       },
       "back_2week": {
-        "confirmed": 69690,
-        "deaths": 382,
-        "recovered": 60600
+        "confirmed": 70231,
+        "deaths": 384,
+        "recovered": 60931
       },
       "latest": {
-        "confirmed": 79489,
+        "confirmed": 80266,
         "deaths": 399,
-        "recovered": 69451
+        "recovered": 69981
       }
     },
     "ARG": {
@@ -2745,19 +2745,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 60258,
-        "deaths": 1840,
-        "recovered": 42953
+        "confirmed": 60507,
+        "deaths": 1843,
+        "recovered": 43016
       },
       "back_2week": {
-        "confirmed": 57768,
-        "deaths": 1819,
-        "recovered": 41885
+        "confirmed": 58012,
+        "deaths": 1822,
+        "recovered": 41961
       },
       "latest": {
-        "confirmed": 63983,
-        "deaths": 1867,
-        "recovered": 44069
+        "confirmed": 64596,
+        "deaths": 1871,
+        "recovered": 44185
       }
     },
     "PRY": {
@@ -2864,19 +2864,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 320688,
-        "deaths": 4081,
-        "recovered": 296737
+        "confirmed": 321456,
+        "deaths": 4107,
+        "recovered": 297623
       },
       "back_2week": {
-        "confirmed": 314821,
-        "deaths": 3870,
-        "recovered": 289667
+        "confirmed": 315772,
+        "deaths": 3897,
+        "recovered": 290796
       },
       "latest": {
-        "confirmed": 325651,
-        "deaths": 4268,
-        "recovered": 302870
+        "confirmed": 326258,
+        "deaths": 4305,
+        "recovered": 303930
       }
     },
     "SDN": {
