@@ -215,9 +215,9 @@
           "confirmed": 19872,
           "current_hospitalized": 4,
           "current_icu": 5,
-          "deaths": 723,
+          "deaths": 729,
           "recovered": 1992,
-          "tested": 2488773
+          "tested": 2497710
         },
         "WA": {
           "confirmed": 659,
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 57022,
+        "confirmed": 57044,
         "deaths": 27,
         "recovered": 56333
       },
       "back_2week": {
-        "confirmed": 56771,
+        "confirmed": 56812,
         "deaths": 27,
         "recovered": 55586
       },
       "latest": {
-        "confirmed": 57406,
+        "confirmed": 57454,
         "deaths": 27,
         "recovered": 56764
       }
