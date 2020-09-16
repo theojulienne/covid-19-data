@@ -481,10 +481,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 19100,
+      "confirmed": 19132,
       "date": "2020-09-16",
       "deaths": 120,
-      "recovered": 18228
+      "recovered": 18289
     }
   },
   "Czechia": {
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 169352,
+      "confirmed": 170465,
       "date": "2020-09-16",
-      "deaths": 1163,
-      "recovered": 123044
+      "deaths": 1165,
+      "recovered": 123219
     }
   },
   "Italy": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 595095,
+          "confirmed": 595310,
           "date": "2020-09-16",
-          "deaths": 12177,
+          "deaths": 12188,
           "recovered": 0
         }
       },
