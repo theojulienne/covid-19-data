@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 38494,
-        "deaths": 1415,
-        "recovered": 30557
+        "confirmed": 38520,
+        "deaths": 1418,
+        "recovered": 30715
       },
       "back_2week": {
-        "confirmed": 38165,
-        "deaths": 1402,
-        "recovered": 29089
+        "confirmed": 38196,
+        "deaths": 1406,
+        "recovered": 29231
       },
       "latest": {
-        "confirmed": 38772,
-        "deaths": 1425,
-        "recovered": 32073
+        "confirmed": 38815,
+        "deaths": 1426,
+        "recovered": 32098
       }
     },
     "AGO": {
@@ -2694,19 +2694,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 238727,
-        "deaths": 3890,
-        "recovered": 184906
+        "confirmed": 241987,
+        "deaths": 3916,
+        "recovered": 185178
       },
       "back_2week": {
-        "confirmed": 220819,
-        "deaths": 3558,
-        "recovered": 157562
+        "confirmed": 224264,
+        "deaths": 3597,
+        "recovered": 158012
       },
       "latest": {
-        "confirmed": 265888,
-        "deaths": 4630,
-        "recovered": 207504
+        "confirmed": 269407,
+        "deaths": 4663,
+        "recovered": 207352
       }
     },
     "PNG": {
@@ -2730,17 +2730,17 @@
       "back_1week": {
         "confirmed": 71126,
         "deaths": 2124,
-        "recovered": 55113
+        "recovered": 55910
       },
       "back_2week": {
         "confirmed": 67372,
         "deaths": 2039,
-        "recovered": 46638
+        "recovered": 47030
       },
       "latest": {
         "confirmed": 74529,
         "deaths": 2203,
-        "recovered": 61097
+        "recovered": 61548
       }
     },
     "PRT": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 57044,
+        "confirmed": 57091,
         "deaths": 27,
         "recovered": 56408
       },
       "back_2week": {
-        "confirmed": 56812,
+        "confirmed": 56852,
         "deaths": 27,
         "recovered": 55658
       },
       "latest": {
-        "confirmed": 57454,
+        "confirmed": 57488,
         "deaths": 27,
         "recovered": 56802
       }
