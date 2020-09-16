@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 94306,
+      "confirmed": 94795,
       "date": "2020-09-16",
-      "deaths": 9927,
-      "recovered": 18737
+      "deaths": 9930,
+      "recovered": 18789
     }
   },
   "Bolivia": {
@@ -342,7 +342,7 @@
           "confirmed": 47165,
           "date": "2020-09-16",
           "deaths": 2870,
-          "recovered": 42025
+          "recovered": 42027
         }
       },
       "Quebec": {
@@ -889,10 +889,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106920,
+      "confirmed": 106984,
       "date": "2020-09-16",
-      "deaths": 1634,
-      "recovered": 100836
+      "deaths": 1671,
+      "recovered": 101267
     }
   },
   "Kenya": {
@@ -1099,26 +1099,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37079,
+          "confirmed": 37140,
           "date": "2020-09-16",
           "deaths": 1257,
-          "recovered": 35096
+          "recovered": 35181
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 97817,
+          "confirmed": 97946,
           "date": "2020-09-16",
           "deaths": 2220,
-          "recovered": 94526
+          "recovered": 94693
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 132250,
+          "confirmed": 132591,
           "date": "2020-09-16",
-          "deaths": 2445,
-          "recovered": 127626
+          "deaths": 2448,
+          "recovered": 127727
         }
       }
     }
@@ -1709,10 +1709,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 61569,
+      "confirmed": 62655,
       "date": "2020-09-16",
-      "deaths": 494,
-      "recovered": 49371
+      "deaths": 502,
+      "recovered": 50361
     }
   },
   "West Bank and Gaza": {
