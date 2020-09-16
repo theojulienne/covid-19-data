@@ -574,7 +574,7 @@
           "confirmed": 63155,
           "date": "2020-09-16",
           "deaths": 1837,
-          "recovered": 57297
+          "recovered": 57719
         }
       }
     }
@@ -881,8 +881,8 @@
         "live": {
           "confirmed": 23447,
           "date": "2020-09-16",
-          "deaths": 384,
-          "recovered": 20171
+          "deaths": 389,
+          "recovered": 20603
         }
       }
     }
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 96301,
+      "confirmed": 96999,
       "date": "2020-09-16",
-      "deaths": 568,
-      "recovered": 86219
+      "deaths": 571,
+      "recovered": 87187
     }
   },
   "Kyrgyzstan": {
@@ -1427,7 +1427,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23541,
+          "confirmed": 23566,
           "date": "2020-09-16",
           "deaths": 2400,
           "recovered": 0
@@ -1435,9 +1435,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19352,
+          "confirmed": 19401,
           "date": "2020-09-16",
-          "deaths": 858,
+          "deaths": 859,
           "recovered": 0
         }
       }
@@ -1447,7 +1447,7 @@
     "live": {
       "confirmed": 48265,
       "date": "2020-09-16",
-      "deaths": 2028,
+      "deaths": 2029,
       "recovered": 39900
     }
   },
