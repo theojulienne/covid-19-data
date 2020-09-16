@@ -104,19 +104,19 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 44845,
-        "deaths": 900,
-        "recovered": 40121
+        "confirmed": 44953,
+        "deaths": 903,
+        "recovered": 40592
       },
       "back_2week": {
-        "confirmed": 43781,
-        "deaths": 879,
-        "recovered": 37722
+        "confirmed": 43878,
+        "deaths": 881,
+        "recovered": 38356
       },
       "latest": {
-        "confirmed": 45969,
-        "deaths": 919,
-        "recovered": 41693
+        "confirmed": 46119,
+        "deaths": 920,
+        "recovered": 41941
       }
     },
     "ATG": {
