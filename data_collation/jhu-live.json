@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 61643,
+      "confirmed": 62484,
       "date": "2020-09-16",
       "deaths": 216,
-      "recovered": 54831
+      "recovered": 55444
     }
   },
   "Bangladesh": {
@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 47360,
+          "confirmed": 47367,
           "date": "2020-09-16",
           "deaths": 2870,
-          "recovered": 42144
+          "recovered": 42147
         }
       },
       "Quebec": {
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 101340,
+      "confirmed": 101500,
       "date": "2020-09-16",
-      "deaths": 5679,
-      "recovered": 85745
+      "deaths": 5696,
+      "recovered": 86549
     }
   },
   "El Salvador": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 82684,
+      "confirmed": 82924,
       "date": "2020-09-16",
-      "deaths": 2984,
-      "recovered": 71983
+      "deaths": 3009,
+      "recovered": 72562
     }
   },
   "Honduras": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 595310,
+          "confirmed": 595387,
           "date": "2020-09-16",
-          "deaths": 12188,
+          "deaths": 12194,
           "recovered": 0
         }
       },
@@ -1535,9 +1535,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 68356,
+          "confirmed": 68524,
           "date": "2020-09-16",
-          "deaths": 4490,
+          "deaths": 4498,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 413463,
+          "confirmed": 413898,
           "date": "2020-09-16",
-          "deaths": 8963,
+          "deaths": 9016,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 20960,
+          "confirmed": 21049,
           "date": "2020-09-16",
-          "deaths": 748,
+          "deaths": 749,
           "recovered": 0
         }
       },
