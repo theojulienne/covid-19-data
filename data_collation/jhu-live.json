@@ -801,10 +801,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 225030,
+      "confirmed": 228993,
       "date": "2020-09-16",
-      "deaths": 8965,
-      "recovered": 161065
+      "deaths": 9100,
+      "recovered": 164101
     }
   },
   "Iran": {
@@ -1225,9 +1225,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 75134,
+      "confirmed": 75734,
       "date": "2020-09-16",
-      "deaths": 2227,
+      "deaths": 2237,
       "recovered": 62110
     }
   },
