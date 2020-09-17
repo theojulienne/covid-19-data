@@ -70,19 +70,19 @@
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 75098,
+        "confirmed": 75981,
         "deaths": 391,
-        "recovered": 66943
+        "recovered": 67359
       },
       "back_2week": {
-        "confirmed": 70805,
+        "confirmed": 71540,
         "deaths": 384,
-        "recovered": 61491
+        "recovered": 62029
       },
       "latest": {
-        "confirmed": 80940,
+        "confirmed": 81782,
         "deaths": 401,
-        "recovered": 70635
+        "recovered": 71456
       }
     },
     "ARG": {
@@ -646,18 +646,18 @@
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 44837,
-        "deaths": 2018,
+        "confirmed": 45306,
+        "deaths": 2019,
         "recovered": 37700
       },
       "back_2week": {
-        "confirmed": 42393,
+        "confirmed": 42763,
         "deaths": 2011,
         "recovered": 36300
       },
       "latest": {
-        "confirmed": 47751,
-        "deaths": 2028,
+        "confirmed": 48265,
+        "deaths": 2039,
         "recovered": 39900
       }
     },
@@ -2583,19 +2583,19 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 48138,
-        "deaths": 306,
-        "recovered": 32964
+        "confirmed": 49219,
+        "deaths": 312,
+        "recovered": 33882
       },
       "back_2week": {
-        "confirmed": 40529,
-        "deaths": 239,
-        "recovered": 22178
+        "confirmed": 41649,
+        "deaths": 251,
+        "recovered": 23290
       },
       "latest": {
-        "confirmed": 56788,
-        "deaths": 371,
-        "recovered": 40638
+        "confirmed": 58327,
+        "deaths": 379,
+        "recovered": 41706
       }
     },
     "NZL": {
@@ -2626,9 +2626,9 @@
     },
     "OMN": {
       "back_1week": {
-        "confirmed": 87590,
-        "deaths": 742,
-        "recovered": 82973
+        "confirmed": 87939,
+        "deaths": 751,
+        "recovered": 83115
       },
       "back_2week": {
         "confirmed": 85928,
@@ -2636,9 +2636,9 @@
         "recovered": 81024
       },
       "latest": {
-        "confirmed": 90660,
-        "deaths": 797,
-        "recovered": 84113
+        "confirmed": 91196,
+        "deaths": 805,
+        "recovered": 84363
       }
     },
     "PAK": {
