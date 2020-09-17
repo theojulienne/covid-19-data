@@ -531,7 +531,7 @@
     "live": {
       "confirmed": 27163,
       "date": "2020-09-17",
-      "deaths": 796,
+      "deaths": 801,
       "recovered": 19960
     }
   },
@@ -921,10 +921,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 45072,
+      "confirmed": 45153,
       "date": "2020-09-17",
       "deaths": 1063,
-      "recovered": 41210
+      "recovered": 41317
     }
   },
   "Lebanon": {
