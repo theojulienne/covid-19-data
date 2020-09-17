@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 94795,
+      "confirmed": 95948,
       "date": "2020-09-17",
-      "deaths": 9930,
-      "recovered": 18789
+      "deaths": 9935,
+      "recovered": 18810
     }
   },
   "Bolivia": {
@@ -162,7 +162,7 @@
           "confirmed": 179823,
           "date": "2020-09-17",
           "deaths": 3000,
-          "recovered": 165276
+          "recovered": 168653
         }
       },
       "Espirito Santo": {
@@ -194,7 +194,7 @@
           "confirmed": 108890,
           "date": "2020-09-17",
           "deaths": 3156,
-          "recovered": 88853
+          "recovered": 90020
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 87959,
           "date": "2020-09-17",
           "deaths": 1996,
-          "recovered": 85447
+          "recovered": 86137
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 47164,
           "date": "2020-09-17",
           "deaths": 611,
-          "recovered": 14976
+          "recovered": 15164
         }
       },
       "Santa Catarina": {
@@ -306,7 +306,7 @@
           "confirmed": 909428,
           "date": "2020-09-17",
           "deaths": 33253,
-          "recovered": 763246
+          "recovered": 768169
         }
       },
       "Sergipe": {
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 68620,
+      "confirmed": 69660,
       "date": "2020-09-17",
-      "deaths": 2087,
-      "recovered": 18487
+      "deaths": 2102,
+      "recovered": 19983
     }
   },
   "India": {
@@ -889,10 +889,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 106984,
+      "confirmed": 107056,
       "date": "2020-09-17",
       "deaths": 1671,
-      "recovered": 101267
+      "recovered": 101455
     }
   },
   "Kenya": {
@@ -1709,10 +1709,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 62655,
+      "confirmed": 63416,
       "date": "2020-09-17",
-      "deaths": 502,
-      "recovered": 50361
+      "deaths": 511,
+      "recovered": 51274
     }
   },
   "West Bank and Gaza": {
