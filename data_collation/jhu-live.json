@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 20571,
+      "confirmed": 21393,
       "date": "2020-09-17",
-      "deaths": 633,
-      "recovered": 16557
+      "deaths": 635,
+      "recovered": 16918
     }
   },
   "Dominican Republic": {
@@ -913,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 96999,
+      "confirmed": 97824,
       "date": "2020-09-17",
-      "deaths": 571,
-      "recovered": 87187
+      "deaths": 575,
+      "recovered": 87911
     }
   },
   "Kyrgyzstan": {
@@ -1071,9 +1071,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 24815,
+          "confirmed": 25389,
           "date": "2020-09-17",
-          "deaths": 1357,
+          "deaths": 1359,
           "recovered": 0
         }
       }
@@ -1427,7 +1427,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23566,
+          "confirmed": 23633,
           "date": "2020-09-17",
           "deaths": 2400,
           "recovered": 0
@@ -1435,7 +1435,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19401,
+          "confirmed": 19450,
           "date": "2020-09-17",
           "deaths": 859,
           "recovered": 0
@@ -1717,10 +1717,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 33006,
+      "confirmed": 33843,
       "date": "2020-09-17",
-      "deaths": 243,
-      "recovered": 22209
+      "deaths": 244,
+      "recovered": 23060
     }
   }
 }
