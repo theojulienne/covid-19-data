@@ -122,7 +122,7 @@
           "confirmed": 82983,
           "date": "2020-09-17",
           "deaths": 1996,
-          "recovered": 79683
+          "recovered": 79751
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 287685,
           "date": "2020-09-17",
           "deaths": 6085,
-          "recovered": 274617
+          "recovered": 276502
         }
       },
       "Ceara": {
@@ -154,7 +154,7 @@
           "confirmed": 230406,
           "date": "2020-09-17",
           "deaths": 8764,
-          "recovered": 204373
+          "recovered": 205521
         }
       },
       "Distrito Federal": {
@@ -170,7 +170,7 @@
           "confirmed": 121708,
           "date": "2020-09-17",
           "deaths": 3388,
-          "recovered": 111340
+          "recovered": 112111
         }
       },
       "Goias": {
@@ -178,7 +178,7 @@
           "confirmed": 172747,
           "date": "2020-09-17",
           "deaths": 3935,
-          "recovered": 164406
+          "recovered": 167213
         }
       },
       "Maranhao": {
@@ -202,7 +202,7 @@
           "confirmed": 60963,
           "date": "2020-09-17",
           "deaths": 1122,
-          "recovered": 54371
+          "recovered": 55022
         }
       },
       "Minas Gerais": {
@@ -210,7 +210,7 @@
           "confirmed": 258595,
           "date": "2020-09-17",
           "deaths": 6419,
-          "recovered": 224306
+          "recovered": 227667
         }
       },
       "Para": {
@@ -218,7 +218,7 @@
           "confirmed": 217500,
           "date": "2020-09-17",
           "deaths": 6405,
-          "recovered": 202377
+          "recovered": 203240
         }
       },
       "Paraiba": {
@@ -226,7 +226,7 @@
           "confirmed": 114582,
           "date": "2020-09-17",
           "deaths": 2659,
-          "recovered": 86591
+          "recovered": 88042
         }
       },
       "Parana": {
@@ -234,7 +234,7 @@
           "confirmed": 157330,
           "date": "2020-09-17",
           "deaths": 3971,
-          "recovered": 110680
+          "recovered": 112975
         }
       },
       "Pernambuco": {
@@ -266,7 +266,7 @@
           "confirmed": 164373,
           "date": "2020-09-17",
           "deaths": 4216,
-          "recovered": 150783
+          "recovered": 153678
         }
       },
       "Rio de Janeiro": {
@@ -274,7 +274,7 @@
           "confirmed": 246182,
           "date": "2020-09-17",
           "deaths": 17342,
-          "recovered": 223892
+          "recovered": 224877
         }
       },
       "Rondonia": {
@@ -322,7 +322,7 @@
           "confirmed": 61271,
           "date": "2020-09-17",
           "deaths": 831,
-          "recovered": 43086
+          "recovered": 44011
         }
       }
     }
@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 47687,
+          "confirmed": 47688,
           "date": "2020-09-17",
           "deaths": 2873,
           "recovered": 42278
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 101500,
+      "confirmed": 101641,
       "date": "2020-09-17",
-      "deaths": 5696,
-      "recovered": 86549
+      "deaths": 5715,
+      "recovered": 87158
     }
   },
   "El Salvador": {
@@ -1349,10 +1349,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 653444,
+      "confirmed": 655572,
       "date": "2020-09-17",
-      "deaths": 15705,
-      "recovered": 584195
+      "deaths": 15772,
+      "recovered": 585303
     }
   },
   "Spain": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 597919,
+          "confirmed": 598053,
           "date": "2020-09-17",
-          "deaths": 12274,
+          "deaths": 12276,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 415198,
+          "confirmed": 416307,
           "date": "2020-09-17",
-          "deaths": 9040,
+          "deaths": 9070,
           "recovered": 0
         }
       },
