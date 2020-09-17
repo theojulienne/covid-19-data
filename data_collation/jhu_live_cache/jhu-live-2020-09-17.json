@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 589012,
       "date": "2020-09-17",
-      "deaths": 12116,
-      "recovered": 448263
+      "deaths": 12229,
+      "recovered": 456347
     }
   },
   "Armenia": {
@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 38658,
+      "confirmed": 38777,
       "date": "2020-09-17",
-      "deaths": 569,
-      "recovered": 36149
+      "deaths": 571,
+      "recovered": 36289
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 74763,
+      "confirmed": 74987,
       "date": "2020-09-17",
-      "deaths": 767,
-      "recovered": 72810
+      "deaths": 771,
+      "recovered": 72967
     }
   },
   "Belgium": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 24211,
+      "confirmed": 24605,
       "date": "2020-09-17",
-      "deaths": 736,
-      "recovered": 16990
+      "deaths": 747,
+      "recovered": 17219
     }
   },
   "Brazil": {
@@ -359,34 +359,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 19251,
+          "confirmed": 19299,
           "date": "2020-09-17",
-          "deaths": 478,
-          "recovered": 18200
+          "deaths": 483,
+          "recovered": 18274
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 20854,
+          "confirmed": 21119,
           "date": "2020-09-17",
-          "deaths": 268,
-          "recovered": 18656
+          "deaths": 279,
+          "recovered": 18907
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 281280,
+          "confirmed": 281734,
           "date": "2020-09-17",
-          "deaths": 8932,
-          "recovered": 268174
+          "deaths": 8946,
+          "recovered": 268716
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 25616,
+          "confirmed": 25740,
           "date": "2020-09-17",
-          "deaths": 791,
-          "recovered": 23484
+          "deaths": 805,
+          "recovered": 23660
         }
       }
     }
@@ -574,17 +574,17 @@
           "confirmed": 63565,
           "date": "2020-09-17",
           "deaths": 1839,
-          "recovered": 57719
+          "recovered": 58460
         }
       }
     }
   },
   "Ghana": {
     "live": {
-      "confirmed": 45655,
+      "confirmed": 45714,
       "date": "2020-09-17",
       "deaths": 294,
-      "recovered": 44797
+      "recovered": 44896
     }
   },
   "Guatemala": {
@@ -897,10 +897,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 36393,
+      "confirmed": 36576,
       "date": "2020-09-17",
-      "deaths": 637,
-      "recovered": 23529
+      "deaths": 642,
+      "recovered": 23611
     }
   },
   "Korea, South": {
@@ -1325,10 +1325,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 327551,
+      "confirmed": 328144,
       "date": "2020-09-17",
-      "deaths": 4369,
-      "recovered": 306004
+      "deaths": 4399,
+      "recovered": 307207
     }
   },
   "Serbia": {
@@ -1527,9 +1527,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 49501,
+          "confirmed": 49776,
           "date": "2020-09-17",
-          "deaths": 1649,
+          "deaths": 1653,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 22241,
+          "confirmed": 22386,
           "date": "2020-09-17",
-          "deaths": 774,
+          "deaths": 776,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 414859,
+          "confirmed": 414913,
           "date": "2020-09-17",
           "deaths": 9040,
           "recovered": 0
@@ -1639,9 +1639,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 19837,
+          "confirmed": 19921,
           "date": "2020-09-17",
-          "deaths": 572,
+          "deaths": 573,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 49385,
+      "confirmed": 49627,
       "date": "2020-09-17",
-      "deaths": 411,
-      "recovered": 45474
+      "deaths": 413,
+      "recovered": 45970
     }
   },
   "Venezuela": {
