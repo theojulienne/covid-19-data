@@ -138,7 +138,7 @@
           "confirmed": 128851,
           "date": "2020-09-17",
           "deaths": 3920,
-          "recovered": 107879
+          "recovered": 108692
         }
       },
       "Bahia": {
@@ -186,7 +186,7 @@
           "confirmed": 164770,
           "date": "2020-09-17",
           "deaths": 3611,
-          "recovered": 153613
+          "recovered": 155396
         }
       },
       "Mato Grosso": {
@@ -242,7 +242,7 @@
           "confirmed": 138568,
           "date": "2020-09-17",
           "deaths": 7933,
-          "recovered": 119554
+          "recovered": 120068
         }
       },
       "Piaui": {
@@ -258,7 +258,7 @@
           "confirmed": 65933,
           "date": "2020-09-17",
           "deaths": 2330,
-          "recovered": 39207
+          "recovered": 39208
         }
       },
       "Rio Grande do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 61619,
           "date": "2020-09-17",
           "deaths": 1277,
-          "recovered": 51591
+          "recovered": 52932
         }
       },
       "Roraima": {
@@ -298,7 +298,7 @@
           "confirmed": 201682,
           "date": "2020-09-17",
           "deaths": 2593,
-          "recovered": 188493
+          "recovered": 191751
         }
       },
       "Sao Paulo": {
@@ -314,7 +314,7 @@
           "confirmed": 75342,
           "date": "2020-09-17",
           "deaths": 1965,
-          "recovered": 68277
+          "recovered": 68932
         }
       },
       "Tocantins": {
@@ -833,10 +833,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 172322,
+      "confirmed": 175256,
       "date": "2020-09-17",
-      "deaths": 1163,
-      "recovered": 125671
+      "deaths": 1169,
+      "recovered": 126329
     }
   },
   "Italy": {
@@ -1479,15 +1479,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 597400,
+          "confirmed": 597540,
           "date": "2020-09-17",
-          "deaths": 12255,
+          "deaths": 12259,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 19611,
+          "confirmed": 19678,
           "date": "2020-09-17",
           "deaths": 1419,
           "recovered": 0
@@ -1503,7 +1503,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 71369,
+          "confirmed": 71739,
           "date": "2020-09-17",
           "deaths": 1362,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 68524,
+          "confirmed": 68748,
           "date": "2020-09-17",
-          "deaths": 4498,
+          "deaths": 4499,
           "recovered": 0
         }
       },
