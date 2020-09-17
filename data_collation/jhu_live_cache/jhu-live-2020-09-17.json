@@ -473,10 +473,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 59516,
+      "confirmed": 60818,
       "date": "2020-09-17",
-      "deaths": 649,
-      "recovered": 21752
+      "deaths": 666,
+      "recovered": 22662
     }
   },
   "Cote d'Ivoire": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 597227,
+          "confirmed": 597400,
           "date": "2020-09-17",
-          "deaths": 12248,
+          "deaths": 12255,
           "recovered": 0
         }
       },
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 71369,
           "date": "2020-09-17",
-          "deaths": 1353,
+          "deaths": 1362,
           "recovered": 0
         }
       },
@@ -1543,9 +1543,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 53414,
+          "confirmed": 53699,
           "date": "2020-09-17",
-          "deaths": 4138,
+          "deaths": 4143,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 25274,
+          "confirmed": 25445,
           "date": "2020-09-17",
-          "deaths": 599,
+          "deaths": 600,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 54970,
+          "confirmed": 55173,
           "date": "2020-09-17",
           "deaths": 724,
           "recovered": 0
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 414913,
+          "confirmed": 415198,
           "date": "2020-09-17",
           "deaths": 9040,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 26723,
+          "confirmed": 27061,
           "date": "2020-09-17",
           "deaths": 244,
           "recovered": 0
@@ -1655,9 +1655,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 25884,
+          "confirmed": 26128,
           "date": "2020-09-17",
-          "deaths": 518,
+          "deaths": 519,
           "recovered": 0
         }
       }
