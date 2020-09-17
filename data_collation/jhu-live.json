@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 48966,
+      "confirmed": 49194,
       "date": "2020-09-17",
-      "deaths": 1645,
-      "recovered": 34517
+      "deaths": 1654,
+      "recovered": 34675
     }
   },
   "Argentina": {
@@ -347,10 +347,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 65857,
+          "confirmed": 66356,
           "date": "2020-09-17",
-          "deaths": 5788,
-          "recovered": 57804
+          "deaths": 5791,
+          "recovered": 58012
         }
       }
     }
@@ -555,9 +555,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 46041,
+          "confirmed": 46420,
           "date": "2020-09-17",
-          "deaths": 1868,
+          "deaths": 1869,
           "recovered": 40734
         }
       },
@@ -929,10 +929,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 26083,
+      "confirmed": 26768,
       "date": "2020-09-17",
-      "deaths": 259,
-      "recovered": 9634
+      "deaths": 263,
+      "recovered": 10217
     }
   },
   "Libya": {
@@ -1359,63 +1359,63 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 44607,
+          "confirmed": 45989,
           "date": "2020-09-17",
-          "deaths": 1631,
+          "deaths": 1656,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 31467,
+          "confirmed": 31838,
           "date": "2020-09-17",
-          "deaths": 1212,
+          "deaths": 1302,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 33150,
+          "confirmed": 33831,
           "date": "2020-09-17",
-          "deaths": 1531,
+          "deaths": 1534,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 33236,
+          "confirmed": 33956,
           "date": "2020-09-17",
-          "deaths": 3059,
+          "deaths": 3062,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 37123,
+          "confirmed": 37997,
           "date": "2020-09-17",
-          "deaths": 2920,
+          "deaths": 2925,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 126234,
+          "confirmed": 127544,
           "date": "2020-09-17",
-          "deaths": 5787,
+          "deaths": 5796,
           "recovered": 26203
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 178118,
+          "confirmed": 181959,
           "date": "2020-09-17",
-          "deaths": 8955,
+          "deaths": 8970,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 38324,
+          "confirmed": 38896,
           "date": "2020-09-17",
           "deaths": 1745,
           "recovered": 16160
@@ -1453,10 +1453,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 296391,
+      "confirmed": 298039,
       "date": "2020-09-17",
-      "deaths": 7249,
-      "recovered": 262602
+      "deaths": 7315,
+      "recovered": 263745
     }
   },
   "US": {
@@ -1473,15 +1473,15 @@
         "live": {
           "confirmed": 161038,
           "date": "2020-09-17",
-          "deaths": 3798,
+          "deaths": 3822,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 596941,
+          "confirmed": 597156,
           "date": "2020-09-17",
-          "deaths": 12247,
+          "deaths": 12248,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 136246,
+          "confirmed": 136993,
           "date": "2020-09-17",
-          "deaths": 5146,
+          "deaths": 5147,
           "recovered": 0
         }
       },
@@ -1585,7 +1585,7 @@
         "live": {
           "confirmed": 352868,
           "date": "2020-09-17",
-          "deaths": 28320,
+          "deaths": 28325,
           "recovered": 0
         }
       },
