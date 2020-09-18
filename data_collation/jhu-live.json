@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 74987,
+      "confirmed": 75230,
       "date": "2020-09-18",
-      "deaths": 771,
-      "recovered": 72967
+      "deaths": 773,
+      "recovered": 73098
     }
   },
   "Belgium": {
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 27249,
+      "confirmed": 27346,
       "date": "2020-09-18",
       "deaths": 804,
-      "recovered": 20403
+      "recovered": 20825
     }
   },
   "Ethiopia": {
