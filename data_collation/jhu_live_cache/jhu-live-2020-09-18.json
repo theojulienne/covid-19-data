@@ -329,10 +329,10 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 20303,
+      "confirmed": 20371,
       "date": "2020-09-18",
-      "deaths": 415,
-      "recovered": 18837
+      "deaths": 416,
+      "recovered": 19124
     }
   },
   "Canada": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 83664,
+      "confirmed": 84344,
       "date": "2020-09-18",
-      "deaths": 3036,
-      "recovered": 73260
+      "deaths": 3076,
+      "recovered": 73748
     }
   },
   "Honduras": {
@@ -1448,7 +1448,7 @@
       "confirmed": 49283,
       "date": "2020-09-18",
       "deaths": 2045,
-      "recovered": 39900
+      "recovered": 40500
     }
   },
   "Turkey": {
@@ -1623,7 +1623,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 417828,
+          "confirmed": 418645,
           "date": "2020-09-18",
           "deaths": 9140,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 21148,
+          "confirmed": 21264,
           "date": "2020-09-18",
-          "deaths": 750,
+          "deaths": 751,
           "recovered": 0
         }
       },
