@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 38777,
+      "confirmed": 38894,
       "date": "2020-09-18",
-      "deaths": 571,
-      "recovered": 36289
+      "deaths": 572,
+      "recovered": 36424
     }
   },
   "Bahrain": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 24605,
+      "confirmed": 24897,
       "date": "2020-09-18",
-      "deaths": 747,
-      "recovered": 17219
+      "deaths": 752,
+      "recovered": 17365
     }
   },
   "Brazil": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 21393,
+      "confirmed": 21847,
       "date": "2020-09-18",
       "deaths": 635,
-      "recovered": 16918
+      "recovered": 17110
     }
   },
   "Dominican Republic": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 63918,
+          "confirmed": 64153,
           "date": "2020-09-18",
           "deaths": 2648,
           "recovered": 56117
@@ -574,7 +574,7 @@
           "confirmed": 64084,
           "date": "2020-09-18",
           "deaths": 1842,
-          "recovered": 58460
+          "recovered": 58524
         }
       }
     }
@@ -882,7 +882,7 @@
           "confirmed": 23838,
           "date": "2020-09-18",
           "deaths": 389,
-          "recovered": 20837
+          "recovered": 21021
         }
       }
     }
@@ -1061,19 +1061,19 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 59573,
+      "confirmed": 61593,
       "date": "2020-09-18",
-      "deaths": 383,
-      "recovered": 42949
+      "deaths": 390,
+      "recovered": 43820
     }
   },
   "Netherlands": {
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 25389,
+          "confirmed": 26088,
           "date": "2020-09-18",
-          "deaths": 1359,
+          "deaths": 1365,
           "recovered": 0
         }
       }
@@ -1241,10 +1241,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 122693,
+      "confirmed": 122917,
       "date": "2020-09-18",
-      "deaths": 208,
-      "recovered": 119613
+      "deaths": 209,
+      "recovered": 119822
     }
   },
   "Romania": {
@@ -1427,7 +1427,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23633,
+          "confirmed": 23739,
           "date": "2020-09-18",
           "deaths": 2400,
           "recovered": 0
@@ -1435,9 +1435,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19450,
+          "confirmed": 19514,
           "date": "2020-09-18",
-          "deaths": 859,
+          "deaths": 860,
           "recovered": 0
         }
       }
