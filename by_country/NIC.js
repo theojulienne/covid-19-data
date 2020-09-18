@@ -483,6 +483,7 @@ var covid19_dataset_country_nic = {
       4818,
       4818,
       4961,
+      4961,
       4961
     ],
     "deaths": [

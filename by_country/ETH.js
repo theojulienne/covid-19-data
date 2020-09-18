@@ -483,7 +483,8 @@ var covid19_dataset_country_eth = {
       64301,
       64786,
       65486,
-      66224
+      66224,
+      66913
     ],
     "deaths": [
       0,

@@ -483,7 +483,8 @@ var covid19_dataset_country_ury = {
       1808,
       1812,
       1827,
-      1856
+      1856,
+      1876
     ],
     "deaths": [
       0,

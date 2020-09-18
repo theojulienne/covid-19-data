@@ -483,7 +483,8 @@ var covid19_dataset_country_blz = {
       1480,
       1501,
       1528,
-      1536
+      1536,
+      1567
     ],
     "deaths": [
       0,

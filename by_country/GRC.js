@@ -483,7 +483,8 @@ var covid19_dataset_country_grc = {
       13240,
       13420,
       13730,
-      14041
+      14041,
+      14400
     ],
     "deaths": [
       0,

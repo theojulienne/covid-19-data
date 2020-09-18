@@ -483,7 +483,8 @@ var covid19_dataset_country_mco = {
       171,
       177,
       178,
-      181
+      181,
+      186
     ],
     "deaths": [
       0,

@@ -483,7 +483,8 @@ var covid19_dataset_country_ken = {
       36157,
       36205,
       36301,
-      36301
+      36301,
+      36576
     ],
     "deaths": [
       0,

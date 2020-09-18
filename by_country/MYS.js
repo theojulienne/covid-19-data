@@ -483,7 +483,8 @@ var covid19_dataset_country_mys = {
       9915,
       9946,
       9969,
-      10031
+      10031,
+      10052
     ],
     "deaths": [
       0,

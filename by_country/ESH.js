@@ -483,6 +483,7 @@ var covid19_dataset_country_esh = {
       10,
       10,
       10,
+      10,
       10
     ],
     "deaths": [

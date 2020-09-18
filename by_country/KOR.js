@@ -483,7 +483,8 @@ var covid19_dataset_country_kor = {
       22285,
       22391,
       22504,
-      22657
+      22657,
+      22783
     ],
     "deaths": [
       0,

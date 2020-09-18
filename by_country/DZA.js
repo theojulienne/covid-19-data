@@ -483,7 +483,8 @@ var covid19_dataset_country_dza = {
       48254,
       48496,
       48734,
-      48966
+      48966,
+      49194
     ],
     "deaths": [
       0,

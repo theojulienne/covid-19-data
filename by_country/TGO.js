@@ -483,7 +483,8 @@ var covid19_dataset_country_tgo = {
       1572,
       1578,
       1595,
-      1608
+      1608,
+      1618
     ],
     "deaths": [
       0,

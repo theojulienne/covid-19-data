@@ -483,7 +483,8 @@ var covid19_dataset_country_hti = {
       8493,
       8499,
       8530,
-      8541
+      8541,
+      8556
     ],
     "deaths": [
       0,

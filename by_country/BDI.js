@@ -483,7 +483,8 @@ var covid19_dataset_country_bdi = {
       472,
       472,
       472,
-      472
+      472,
+      473
     ],
     "deaths": [
       0,

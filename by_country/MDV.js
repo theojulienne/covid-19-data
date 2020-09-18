@@ -483,7 +483,8 @@ var covid19_dataset_country_mdv = {
       9173,
       9243,
       9328,
-      9427
+      9427,
+      9494
     ],
     "deaths": [
       0,

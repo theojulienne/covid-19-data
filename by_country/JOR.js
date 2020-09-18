@@ -483,7 +483,8 @@ var covid19_dataset_country_jor = {
       3314,
       3528,
       3677,
-      3852
+      3852,
+      4131
     ],
     "deaths": [
       0,

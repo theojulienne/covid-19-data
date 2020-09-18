@@ -483,7 +483,8 @@ var covid19_dataset_country_hun = {
       12309,
       13153,
       13879,
-      14460
+      14460,
+      15170
     ],
     "deaths": [
       0,

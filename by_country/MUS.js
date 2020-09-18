@@ -483,7 +483,8 @@ var covid19_dataset_country_mus = {
       361,
       361,
       365,
-      365
+      365,
+      366
     ],
     "deaths": [
       0,

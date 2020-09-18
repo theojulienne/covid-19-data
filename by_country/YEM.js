@@ -483,7 +483,8 @@ var covid19_dataset_country_yem = {
       2011,
       2013,
       2016,
-      2019
+      2019,
+      2022
     ],
     "deaths": [
       0,

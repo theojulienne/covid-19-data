@@ -483,7 +483,8 @@ var covid19_dataset_country_guy = {
       1853,
       1884,
       1958,
-      1958
+      1958,
+      2027
     ],
     "deaths": [
       0,
