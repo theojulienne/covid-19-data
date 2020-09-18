@@ -724,6 +724,7 @@ var covid19_dataset_country_tha = {
       58,
       58,
       58,
+      58,
       58
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_tha = {
       3312,
       3312,
       3316,
-      3325
+      3325,
+      3328
     ]
   }
 };

@@ -724,7 +724,8 @@ var covid19_dataset_country_tgo = {
       37,
       40,
       40,
-      40
+      40,
+      41
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_tgo = {
       1190,
       1204,
       1219,
-      1230
+      1230,
+      1243
     ]
   }
 };

@@ -724,7 +724,8 @@ var covid19_dataset_country_mkd = {
       648,
       652,
       661,
-      668
+      668,
+      675
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_mkd = {
       13184,
       13315,
       13418,
-      13550
+      13550,
+      13635
     ]
   }
 };

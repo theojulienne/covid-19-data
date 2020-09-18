@@ -724,6 +724,7 @@ var covid19_dataset_country_lie = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_lie = {
       105,
       105,
       105,
-      105
+      105,
+      108
     ]
   }
 };

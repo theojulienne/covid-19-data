@@ -724,6 +724,7 @@ var covid19_dataset_country_mus = {
       10,
       10,
       10,
+      10,
       10
     ],
     "recovered": [
@@ -964,6 +965,7 @@ var covid19_dataset_country_mus = {
       335,
       335,
       335,
+      338,
       338,
       338
     ]

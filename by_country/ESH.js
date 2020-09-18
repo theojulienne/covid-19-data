@@ -724,6 +724,7 @@ var covid19_dataset_country_esh = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
@@ -870,6 +871,7 @@ var covid19_dataset_country_esh = {
       6,
       6,
       6,
+      8,
       8,
       8,
       8,

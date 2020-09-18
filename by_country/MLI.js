@@ -724,6 +724,7 @@ var covid19_dataset_country_mli = {
       128,
       128,
       128,
+      128,
       128
     ],
     "recovered": [
@@ -965,6 +966,7 @@ var covid19_dataset_country_mli = {
       2285,
       2289,
       2302,
+      2311,
       2311
     ]
   }

@@ -724,6 +724,7 @@ var covid19_dataset_country_mlt = {
       15,
       16,
       16,
+      16,
       16
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_mlt = {
       1872,
       1890,
       1931,
-      1953
+      1953,
+      1978
     ]
   }
 };

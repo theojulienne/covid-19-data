@@ -724,6 +724,7 @@ var covid19_dataset_country_gab = {
       53,
       53,
       53,
+      53,
       53
     ],
     "recovered": [
@@ -965,6 +966,7 @@ var covid19_dataset_country_gab = {
       7706,
       7785,
       7785,
+      7827,
       7827
     ]
   }

@@ -724,7 +724,8 @@ var covid19_dataset_country_irq = {
       8014,
       8086,
       8166,
-      8248
+      8248,
+      8332
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_irq = {
       224705,
       229132,
       233346,
-      237241
+      237241,
+      241100
     ]
   }
 };

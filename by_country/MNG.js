@@ -724,6 +724,7 @@ var covid19_dataset_country_mng = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_mng = {
       300,
       301,
       301,
-      301
+      301,
+      302
     ]
   }
 };

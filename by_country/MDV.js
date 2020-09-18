@@ -724,6 +724,7 @@ var covid19_dataset_country_mdv = {
       32,
       33,
       33,
+      33,
       33
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_mdv = {
       7326,
       7536,
       7729,
-      7903
+      7903,
+      8033
     ]
   }
 };

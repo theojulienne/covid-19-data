@@ -38,7 +38,7 @@
           "confirmed": 20012,
           "date": "2020-09-18",
           "deaths": 750,
-          "recovered": 18217
+          "recovered": 18278
         }
       }
     }
@@ -407,7 +407,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 99632,
+          "confirmed": 100831,
           "date": "2020-09-18",
           "deaths": 2145,
           "recovered": 84515
@@ -415,31 +415,31 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 66145,
+          "confirmed": 66296,
           "date": "2020-09-18",
           "deaths": 3002,
-          "recovered": 61511
+          "recovered": 61509
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 27669,
+          "confirmed": 27800,
           "date": "2020-09-18",
           "deaths": 752,
-          "recovered": 25160
+          "recovered": 25162
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 244940,
+          "confirmed": 247233,
           "date": "2020-09-18",
-          "deaths": 6334,
+          "deaths": 6335,
           "recovered": 200757
         }
       },
       "Cordoba": {
         "live": {
-          "confirmed": 22340,
+          "confirmed": 22452,
           "date": "2020-09-18",
           "deaths": 1473,
           "recovered": 19242
@@ -447,7 +447,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 29405,
+          "confirmed": 29851,
           "date": "2020-09-18",
           "deaths": 879,
           "recovered": 24606
@@ -455,15 +455,15 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 25854,
+          "confirmed": 26296,
           "date": "2020-09-18",
-          "deaths": 1119,
+          "deaths": 1118,
           "recovered": 19877
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 55094,
+          "confirmed": 55696,
           "date": "2020-09-18",
           "deaths": 2065,
           "recovered": 46660

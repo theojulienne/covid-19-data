@@ -724,6 +724,7 @@ var covid19_dataset_country_com = {
       7,
       7,
       7,
+      7,
       7
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_com = {
       415,
       427,
       446,
-      446
+      446,
+      449
     ]
   }
 };

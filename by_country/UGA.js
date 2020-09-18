@@ -724,6 +724,7 @@ var covid19_dataset_country_uga = {
       55,
       56,
       58,
+      60,
       60
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_uga = {
       2256,
       2317,
       2333,
-      2404
+      2404,
+      2489
     ]
   }
 };

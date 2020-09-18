@@ -724,6 +724,7 @@ var covid19_dataset_country_tls = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -963,6 +964,7 @@ var covid19_dataset_country_tls = {
       25,
       25,
       25,
+      26,
       26,
       26,
       26

@@ -724,6 +724,7 @@ var covid19_dataset_country_lux = {
       124,
       124,
       124,
+      124,
       124
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_lux = {
       6421,
       6555,
       6561,
-      6593
+      6593,
+      6641
     ]
   }
 };

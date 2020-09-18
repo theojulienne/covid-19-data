@@ -724,6 +724,7 @@ var covid19_dataset_country_mco = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_mco = {
       128,
       132,
       133,
-      137
+      137,
+      147
     ]
   }
 };

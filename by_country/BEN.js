@@ -724,6 +724,7 @@ var covid19_dataset_country_ben = {
       40,
       40,
       40,
+      40,
       40
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_ben = {
       1942,
       1942,
       1942,
-      1942
+      1942,
+      1950
     ]
   }
 };

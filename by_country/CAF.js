@@ -724,6 +724,7 @@ var covid19_dataset_country_caf = {
       62,
       62,
       62,
+      62,
       62
     ],
     "recovered": [
@@ -965,6 +966,7 @@ var covid19_dataset_country_caf = {
       1825,
       1828,
       1828,
+      1830,
       1830
     ]
   }

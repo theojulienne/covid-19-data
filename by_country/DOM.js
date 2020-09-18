@@ -724,7 +724,8 @@ var covid19_dataset_country_dom = {
       1968,
       1984,
       1998,
-      2009
+      2009,
+      2022
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_dom = {
       77182,
       77790,
       78387,
-      78891
+      78891,
+      79363
     ]
   }
 };

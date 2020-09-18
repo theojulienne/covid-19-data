@@ -724,6 +724,7 @@ var covid19_dataset_country_civ = {
       120,
       120,
       120,
+      120,
       120
     ],
     "recovered": [
@@ -965,7 +966,8 @@ var covid19_dataset_country_civ = {
       18112,
       18174,
       18228,
-      18289
+      18289,
+      18330
     ]
   }
 };

@@ -724,7 +724,8 @@ var covid19_dataset_country_yem = {
       583,
       583,
       583,
-      583
+      583,
+      585
     ],
     "recovered": [
       0,
@@ -965,6 +966,7 @@ var covid19_dataset_country_yem = {
       1212,
       1215,
       1219,
+      1221,
       1221
     ]
   }

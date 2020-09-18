@@ -724,7 +724,8 @@ var covid19_dataset_country_tur = {
       7056,
       7119,
       7186,
-      7249
+      7249,
+      7315
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_tur = {
       258833,
       260058,
       261260,
-      262602
+      262602,
+      263745
     ]
   }
 };

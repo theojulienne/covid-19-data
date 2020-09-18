@@ -724,7 +724,8 @@ var covid19_dataset_country_kor = {
       363,
       367,
       367,
-      372
+      372,
+      377
     ],
     "recovered": [
       0,
@@ -965,7 +966,8 @@ var covid19_dataset_country_kor = {
       18489,
       18878,
       19310,
-      19543
+      19543,
+      19771
     ]
   }
 };

@@ -724,6 +724,7 @@ var covid19_dataset_country_brb = {
       7,
       7,
       7,
+      7,
       7
     ],
     "recovered": [
@@ -965,6 +966,7 @@ var covid19_dataset_country_brb = {
       164,
       165,
       169,
+      171,
       171
     ]
   }
