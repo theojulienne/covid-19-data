@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 97976,
+      "confirmed": 99649,
       "date": "2020-09-19",
-      "deaths": 9936,
-      "recovered": 18854
+      "deaths": 9937,
+      "recovered": 18908
     }
   },
   "Bolivia": {
@@ -889,10 +889,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 107134,
+      "confirmed": 107199,
       "date": "2020-09-19",
       "deaths": 1671,
-      "recovered": 101610
+      "recovered": 101822
     }
   },
   "Kenya": {
@@ -1471,9 +1471,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 162614,
+          "confirmed": 163558,
           "date": "2020-09-19",
-          "deaths": 3822,
+          "deaths": 3858,
           "recovered": 0
         }
       },
