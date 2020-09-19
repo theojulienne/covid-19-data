@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 613658,
       "date": "2020-09-19",
-      "deaths": 12656,
-      "recovered": 467286
+      "deaths": 12705,
+      "recovered": 478077
     }
   },
   "Armenia": {
@@ -1069,19 +1069,19 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 61593,
+      "confirmed": 62797,
       "date": "2020-09-19",
-      "deaths": 390,
-      "recovered": 43820
+      "deaths": 401,
+      "recovered": 45267
     }
   },
   "Netherlands": {
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 26088,
+          "confirmed": 26644,
           "date": "2020-09-19",
-          "deaths": 1365,
+          "deaths": 1364,
           "recovered": 0
         }
       }
