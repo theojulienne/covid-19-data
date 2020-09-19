@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 38894,
+      "confirmed": 39042,
       "date": "2020-09-19",
-      "deaths": 572,
-      "recovered": 36424
+      "deaths": 574,
+      "recovered": 36601
     }
   },
   "Bahrain": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 21847,
+      "confirmed": 22436,
       "date": "2020-09-19",
       "deaths": 635,
-      "recovered": 17110
+      "recovered": 17316
     }
   },
   "Dominican Republic": {
@@ -563,18 +563,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 64395,
+          "confirmed": 64465,
           "date": "2020-09-19",
           "deaths": 2648,
           "recovered": 56398
-        }
-      },
-      "Niedersachsen": {
-        "live": {
-          "confirmed": 18775,
-          "date": "2020-09-19",
-          "deaths": 669,
-          "recovered": 16482
         }
       },
       "Nordrhein-Westfalen": {
@@ -921,10 +913,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 98528,
+      "confirmed": 99049,
       "date": "2020-09-19",
-      "deaths": 580,
-      "recovered": 88776
+      "deaths": 581,
+      "recovered": 89498
     }
   },
   "Kyrgyzstan": {
@@ -945,10 +937,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 26438,
+      "confirmed": 27234,
       "date": "2020-09-19",
-      "deaths": 418,
-      "recovered": 14207
+      "deaths": 436,
+      "recovered": 14679
     }
   },
   "Mexico": {
@@ -1333,17 +1325,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 328720,
+      "confirmed": 329271,
       "date": "2020-09-19",
-      "deaths": 4430,
-      "recovered": 308352
+      "deaths": 4458,
+      "recovered": 309430
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 32757,
+      "confirmed": 32840,
       "date": "2020-09-19",
-      "deaths": 739,
+      "deaths": 740,
       "recovered": 0
     }
   },
@@ -1469,6 +1461,14 @@
   },
   "US": {
     "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 18911,
+          "date": "2020-09-19",
+          "deaths": 337,
+          "recovered": 0
+        }
+      },
       "Arizona": {
         "live": {
           "confirmed": 163558,
