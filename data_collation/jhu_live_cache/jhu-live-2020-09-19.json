@@ -569,6 +569,14 @@
           "recovered": 56398
         }
       },
+      "Niedersachsen": {
+        "live": {
+          "confirmed": 18775,
+          "date": "2020-09-19",
+          "deaths": 669,
+          "recovered": 16482
+        }
+      },
       "Nordrhein-Westfalen": {
         "live": {
           "confirmed": 64692,
@@ -809,10 +817,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 416198,
+      "confirmed": 419043,
       "date": "2020-09-19",
-      "deaths": 23952,
-      "recovered": 355505
+      "deaths": 24118,
+      "recovered": 357632
     }
   },
   "Iraq": {
@@ -1567,9 +1575,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 101136,
+          "confirmed": 82362,
           "date": "2020-09-19",
-          "deaths": 8357,
+          "deaths": 7107,
           "recovered": 0
         }
       },
