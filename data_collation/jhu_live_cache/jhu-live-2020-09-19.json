@@ -481,7 +481,7 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 19200,
+      "confirmed": 19269,
       "date": "2020-09-19",
       "deaths": 120,
       "recovered": 18392
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 603715,
+          "confirmed": 603838,
           "date": "2020-09-19",
-          "deaths": 12434,
+          "deaths": 12435,
           "recovered": 0
         }
       },

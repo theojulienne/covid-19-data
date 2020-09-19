@@ -864,17 +864,17 @@ var covid19_dataset_latest_totals = {
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 18869,
+        "confirmed": 18916,
         "deaths": 119,
         "recovered": 17884
       },
       "back_2week": {
-        "confirmed": 18208,
+        "confirmed": 18269,
         "deaths": 119,
         "recovered": 17045
       },
       "latest": {
-        "confirmed": 19158,
+        "confirmed": 19200,
         "deaths": 120,
         "recovered": 18330
       }
