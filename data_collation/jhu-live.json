@@ -589,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 45760,
+      "confirmed": 45857,
       "date": "2020-09-19",
       "deaths": 295,
-      "recovered": 44973
+      "recovered": 45029
     }
   },
   "Guatemala": {
@@ -890,7 +890,7 @@
           "confirmed": 24056,
           "date": "2020-09-19",
           "deaths": 390,
-          "recovered": 21021
+          "recovered": 21208
         }
       }
     }
@@ -1249,18 +1249,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 122917,
+      "confirmed": 123146,
       "date": "2020-09-19",
       "deaths": 209,
-      "recovered": 119822
+      "recovered": 120089
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 110217,
+      "confirmed": 111550,
       "date": "2020-09-19",
-      "deaths": 4360,
-      "recovered": 88235
+      "deaths": 4402,
+      "recovered": 89119
     }
   },
   "Russia": {
@@ -1677,10 +1677,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 83433,
+      "confirmed": 84242,
       "date": "2020-09-19",
-      "deaths": 403,
-      "recovered": 72790
+      "deaths": 404,
+      "recovered": 73512
     }
   },
   "United Kingdom": {
@@ -1713,10 +1713,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 50253,
+      "confirmed": 50634,
       "date": "2020-09-19",
-      "deaths": 419,
-      "recovered": 46527
+      "deaths": 423,
+      "recovered": 46645
     }
   },
   "Venezuela": {
