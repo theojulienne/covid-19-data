@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 27346,
       "date": "2020-09-19",
-      "deaths": 804,
-      "recovered": 20825
+      "deaths": 808,
+      "recovered": 20847
     }
   },
   "Ethiopia": {
@@ -555,25 +555,25 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 46771,
+          "confirmed": 46779,
           "date": "2020-09-19",
           "deaths": 1871,
-          "recovered": 40995
+          "recovered": 41228
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 64153,
+          "confirmed": 64395,
           "date": "2020-09-19",
           "deaths": 2648,
-          "recovered": 56117
+          "recovered": 56398
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 64084,
+          "confirmed": 64692,
           "date": "2020-09-19",
-          "deaths": 1842,
+          "deaths": 1844,
           "recovered": 58524
         }
       }
@@ -1265,14 +1265,6 @@
           "recovered": 20197
         }
       },
-      "Krasnoyarsk Krai": {
-        "live": {
-          "confirmed": 18751,
-          "date": "2020-09-19",
-          "deaths": 526,
-          "recovered": 14628
-        }
-      },
       "Moscow": {
         "live": {
           "confirmed": 274808,
@@ -1659,6 +1651,18 @@
           "date": "2020-09-19",
           "deaths": 521,
           "recovered": 0
+        }
+      }
+    }
+  },
+  "Ukraine": {
+    "subseries": {
+      "Kiev": {
+        "live": {
+          "confirmed": 19140,
+          "date": "2020-09-19",
+          "deaths": 312,
+          "recovered": 5828
         }
       }
     }
