@@ -1543,9 +1543,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 53862,
+          "confirmed": 53966,
           "date": "2020-09-19",
-          "deaths": 4142,
+          "deaths": 4148,
           "recovered": 0
         }
       },
