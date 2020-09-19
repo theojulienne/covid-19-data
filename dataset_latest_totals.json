@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 750,
           "recovered": 1992,
-          "tested": 2535134
+          "tested": 2551044
         },
         "WA": {
           "confirmed": 660,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 44684,
+        "confirmed": 44761,
         "deaths": 1061,
-        "recovered": 40487
+        "recovered": 40631
       },
       "back_2week": {
-        "confirmed": 44135,
+        "confirmed": 44199,
         "deaths": 1059,
-        "recovered": 39174
+        "recovered": 39389
       },
       "latest": {
-        "confirmed": 45153,
+        "confirmed": 45244,
         "deaths": 1063,
-        "recovered": 41317
+        "recovered": 41415
       }
     },
     "KHM": {
