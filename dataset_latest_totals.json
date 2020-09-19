@@ -1491,17 +1491,17 @@
     "GHA": {
       "back_1week": {
         "confirmed": 45388,
-        "deaths": 283,
+        "deaths": 285,
         "recovered": 44267
       },
       "back_2week": {
         "confirmed": 44777,
-        "deaths": 280,
+        "deaths": 283,
         "recovered": 43693
       },
       "latest": {
         "confirmed": 45760,
-        "deaths": 294,
+        "deaths": 295,
         "recovered": 44973
       }
     },
@@ -3272,19 +3272,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 286455,
-        "deaths": 6895,
-        "recovered": 255407
+        "confirmed": 288126,
+        "deaths": 6951,
+        "recovered": 256524
       },
       "back_2week": {
-        "confirmed": 274943,
-        "deaths": 6511,
-        "recovered": 248087
+        "confirmed": 276555,
+        "deaths": 6564,
+        "recovered": 249108
       },
       "latest": {
-        "confirmed": 298039,
-        "deaths": 7315,
-        "recovered": 263745
+        "confirmed": 299810,
+        "deaths": 7377,
+        "recovered": 264805
       }
     },
     "TWN": {
