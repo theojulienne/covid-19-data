@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 48428,
+          "confirmed": 48639,
           "date": "2020-09-20",
           "deaths": 2876,
-          "recovered": 42623
+          "recovered": 42728
         }
       },
       "Quebec": {
@@ -1053,10 +1053,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 99816,
+      "confirmed": 101743,
       "date": "2020-09-20",
-      "deaths": 1795,
-      "recovered": 79008
+      "deaths": 1830,
+      "recovered": 80732
     }
   },
   "Nepal": {
@@ -1456,7 +1456,7 @@
       "confirmed": 302867,
       "date": "2020-09-20",
       "deaths": 7506,
-      "recovered": 266117
+      "recovered": 267233
     }
   },
   "US": {
@@ -1479,7 +1479,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 605675,
+          "confirmed": 606095,
           "date": "2020-09-20",
           "deaths": 12483,
           "recovered": 0
@@ -1599,7 +1599,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 25846,
+          "confirmed": 25977,
           "date": "2020-09-20",
           "deaths": 603,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 27842,
+          "confirmed": 28178,
           "date": "2020-09-20",
           "deaths": 245,
           "recovered": 0
@@ -1687,7 +1687,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 336622,
+          "confirmed": 339901,
           "date": "2020-09-20",
           "deaths": 37094,
           "recovered": 0
@@ -1695,7 +1695,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 24126,
+          "confirmed": 24371,
           "date": "2020-09-20",
           "deaths": 2505,
           "recovered": 0
@@ -1703,7 +1703,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 20445,
+          "confirmed": 20644,
           "date": "2020-09-20",
           "deaths": 1603,
           "recovered": 0
