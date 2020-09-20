@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 64499,
+      "confirmed": 65039,
       "date": "2020-09-20",
       "deaths": 221,
-      "recovered": 57299
+      "recovered": 57950
     }
   },
   "Bangladesh": {
@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 48644,
+          "confirmed": 48645,
           "date": "2020-09-20",
           "deaths": 2876,
           "recovered": 42728
@@ -481,10 +481,10 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 19269,
+      "confirmed": 19320,
       "date": "2020-09-20",
       "deaths": 120,
-      "recovered": 18392
+      "recovered": 18460
     }
   },
   "Czechia": {
