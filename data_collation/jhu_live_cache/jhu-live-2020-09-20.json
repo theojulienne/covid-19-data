@@ -1333,9 +1333,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 32840,
+      "confirmed": 32908,
       "date": "2020-09-20",
-      "deaths": 740,
+      "deaths": 741,
       "recovered": 0
     }
   },
@@ -1463,7 +1463,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 18911,
+          "confirmed": 19015,
           "date": "2020-09-20",
           "deaths": 337,
           "recovered": 0
