@@ -1453,9 +1453,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 301348,
+      "confirmed": 302867,
       "date": "2020-09-20",
-      "deaths": 7445,
+      "deaths": 7506,
       "recovered": 266117
     }
   },
@@ -1495,9 +1495,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 456176,
+          "confirmed": 457583,
           "date": "2020-09-20",
-          "deaths": 8727,
+          "deaths": 8726,
           "recovered": 0
         }
       },
@@ -1519,7 +1519,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 20645,
+          "confirmed": 20699,
           "date": "2020-09-20",
           "deaths": 758,
           "recovered": 0
@@ -1551,9 +1551,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 25628,
+          "confirmed": 25857,
           "date": "2020-09-20",
-          "deaths": 921,
+          "deaths": 922,
           "recovered": 0
         }
       },
@@ -1567,15 +1567,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 63877,
+          "confirmed": 64160,
           "date": "2020-09-20",
-          "deaths": 1327,
+          "deaths": 1329,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 82466,
+          "confirmed": 82572,
           "date": "2020-09-20",
           "deaths": 7107,
           "recovered": 0
@@ -1583,7 +1583,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 354004,
+          "confirmed": 354546,
           "date": "2020-09-20",
           "deaths": 28336,
           "recovered": 0
