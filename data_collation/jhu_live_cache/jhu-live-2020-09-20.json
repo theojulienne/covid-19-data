@@ -1099,26 +1099,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37270,
+          "confirmed": 37317,
           "date": "2020-09-20",
           "deaths": 1258,
-          "recovered": 35469
+          "recovered": 35500
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 98272,
+          "confirmed": 98368,
           "date": "2020-09-20",
           "deaths": 2226,
-          "recovered": 94756
+          "recovered": 94773
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 133362,
+          "confirmed": 133626,
           "date": "2020-09-20",
           "deaths": 2459,
-          "recovered": 128145
+          "recovered": 128239
         }
       }
     }
