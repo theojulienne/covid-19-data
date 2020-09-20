@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 347372,
+      "confirmed": 348918,
       "date": "2020-09-20",
-      "deaths": 4913,
-      "recovered": 254386
+      "deaths": 4939,
+      "recovered": 256565
     }
   },
   "Belarus": {
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 27428,
+      "confirmed": 27553,
       "date": "2020-09-20",
-      "deaths": 808,
-      "recovered": 21247
+      "deaths": 811,
+      "recovered": 21561
     }
   },
   "Ethiopia": {
@@ -1677,10 +1677,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 84242,
+      "confirmed": 84916,
       "date": "2020-09-20",
       "deaths": 404,
-      "recovered": 73512
+      "recovered": 74273
     }
   },
   "United Kingdom": {
