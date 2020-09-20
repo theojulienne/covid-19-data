@@ -555,25 +555,25 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 46779,
+          "confirmed": 46935,
           "date": "2020-09-20",
           "deaths": 1871,
-          "recovered": 41228
+          "recovered": 41370
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 64465,
+          "confirmed": 64625,
           "date": "2020-09-20",
           "deaths": 2648,
-          "recovered": 56398
+          "recovered": 56605
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 64692,
+          "confirmed": 65078,
           "date": "2020-09-20",
-          "deaths": 1844,
+          "deaths": 1845,
           "recovered": 58524
         }
       }
@@ -1667,10 +1667,10 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 19140,
+          "confirmed": 19483,
           "date": "2020-09-20",
-          "deaths": 312,
-          "recovered": 5828
+          "deaths": 316,
+          "recovered": 5859
         }
       }
     }
@@ -1713,9 +1713,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 50992,
+      "confirmed": 51235,
       "date": "2020-09-20",
-      "deaths": 427,
+      "deaths": 429,
       "recovered": 47271
     }
   },
