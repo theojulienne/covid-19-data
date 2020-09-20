@@ -339,7 +339,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 48317,
+          "confirmed": 48409,
           "date": "2020-09-20",
           "deaths": 2876,
           "recovered": 42573
@@ -843,34 +843,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 34225,
+          "confirmed": 34340,
           "date": "2020-09-20",
-          "deaths": 4474,
-          "recovered": 25313
+          "deaths": 4476,
+          "recovered": 25335
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 104547,
+          "confirmed": 104758,
           "date": "2020-09-20",
-          "deaths": 16917,
-          "recovered": 78695
+          "deaths": 16922,
+          "recovered": 78829
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 34241,
+          "confirmed": 34339,
           "date": "2020-09-20",
           "deaths": 4154,
-          "recovered": 27783
+          "recovered": 27859
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 25609,
+          "confirmed": 25782,
           "date": "2020-09-20",
-          "deaths": 2158,
-          "recovered": 20406
+          "deaths": 2162,
+          "recovered": 20527
         }
       }
     }
@@ -1344,7 +1344,7 @@
       "confirmed": 57576,
       "date": "2020-09-20",
       "deaths": 27,
-      "recovered": 57142
+      "recovered": 57181
     }
   },
   "South Africa": {
