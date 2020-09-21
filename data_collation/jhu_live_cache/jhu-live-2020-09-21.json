@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 102015,
+      "confirmed": 102141,
       "date": "2020-09-21",
-      "deaths": 5770,
-      "recovered": 89532
+      "deaths": 5787,
+      "recovered": 90332
     }
   },
   "El Salvador": {
@@ -1479,9 +1479,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 609371,
+          "confirmed": 609472,
           "date": "2020-09-21",
-          "deaths": 12488,
+          "deaths": 12489,
           "recovered": 0
         }
       },
