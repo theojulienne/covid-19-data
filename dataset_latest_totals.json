@@ -2,18 +2,18 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 38641,
+        "confirmed": 38716,
         "deaths": 1420,
         "recovered": 31234
       },
       "back_2week": {
-        "confirmed": 38324,
-        "deaths": 1409,
+        "confirmed": 38398,
+        "deaths": 1412,
         "recovered": 30082
       },
       "latest": {
-        "confirmed": 38919,
-        "deaths": 1437,
+        "confirmed": 39044,
+        "deaths": 1441,
         "recovered": 32576
       }
     },
@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 761,
           "recovered": 1992,
-          "tested": 2562996
+          "tested": 2575457
         },
         "WA": {
           "confirmed": 661,
