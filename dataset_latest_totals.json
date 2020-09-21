@@ -401,19 +401,19 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 23138,
-        "deaths": 690,
-        "recovered": 15922
+        "confirmed": 23465,
+        "deaths": 696,
+        "recovered": 16038
       },
       "back_2week": {
-        "confirmed": 21439,
-        "deaths": 651,
-        "recovered": 14636
+        "confirmed": 21560,
+        "deaths": 655,
+        "recovered": 14709
       },
       "latest": {
-        "confirmed": 25217,
-        "deaths": 758,
-        "recovered": 17489
+        "confirmed": 25428,
+        "deaths": 763,
+        "recovered": 17878
       }
     },
     "BLR": {
@@ -646,12 +646,12 @@
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 46704,
-        "deaths": 2020,
+        "confirmed": 47179,
+        "deaths": 2021,
         "recovered": 38500
       },
       "back_2week": {
-        "confirmed": 43957,
+        "confirmed": 44401,
         "deaths": 2013,
         "recovered": 37100
       },
@@ -1102,19 +1102,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 19557,
-        "deaths": 630,
-        "recovered": 16247
+        "confirmed": 19890,
+        "deaths": 631,
+        "recovered": 16333
       },
       "back_2week": {
-        "confirmed": 17736,
+        "confirmed": 17883,
         "deaths": 627,
-        "recovered": 15671
+        "recovered": 15760
       },
       "latest": {
-        "confirmed": 22436,
-        "deaths": 635,
-        "recovered": 17316
+        "confirmed": 22905,
+        "deaths": 638,
+        "recovered": 17514
       },
       "states": {
         "Faroe Islands": {
@@ -2051,19 +2051,19 @@
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 22348,
-        "deaths": 354,
-        "recovered": 12100
+        "confirmed": 22781,
+        "deaths": 362,
+        "recovered": 12183
       },
       "back_2week": {
-        "confirmed": 17094,
-        "deaths": 272,
-        "recovered": 2025
+        "confirmed": 17749,
+        "deaths": 285,
+        "recovered": 2081
       },
       "latest": {
-        "confirmed": 27234,
-        "deaths": 436,
-        "recovered": 14679
+        "confirmed": 27949,
+        "deaths": 444,
+        "recovered": 15068
       }
     },
     "LCA": {
@@ -3739,17 +3739,17 @@
       "back_1week": {
         "confirmed": 47287,
         "deaths": 390,
-        "recovered": 43359
+        "recovered": 43866
       },
       "back_2week": {
         "confirmed": 43587,
         "deaths": 347,
-        "recovered": 40774
+        "recovered": 41225
       },
       "latest": {
         "confirmed": 51640,
         "deaths": 433,
-        "recovered": 47271
+        "recovered": 47932
       }
     },
     "VAT": {
