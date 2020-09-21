@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 100748,
+      "confirmed": 102295,
       "date": "2020-09-21",
-      "deaths": 9944,
-      "recovered": 18945
+      "deaths": 9948,
+      "recovered": 18965
     }
   },
   "Bolivia": {
@@ -407,66 +407,66 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 102501,
+          "confirmed": 103915,
           "date": "2020-09-21",
-          "deaths": 2187,
-          "recovered": 85968
+          "deaths": 2203,
+          "recovered": 87033
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 66512,
+          "confirmed": 66576,
           "date": "2020-09-21",
-          "deaths": 3016,
-          "recovered": 61671
+          "deaths": 3021,
+          "recovered": 61771
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 27972,
+          "confirmed": 28027,
           "date": "2020-09-21",
           "deaths": 754,
-          "recovered": 25630
+          "recovered": 25794
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 250490,
+          "confirmed": 252319,
           "date": "2020-09-21",
-          "deaths": 6408,
-          "recovered": 205741
+          "deaths": 6448,
+          "recovered": 206506
         }
       },
       "Cordoba": {
         "live": {
-          "confirmed": 22745,
+          "confirmed": 22768,
           "date": "2020-09-21",
-          "deaths": 1480,
-          "recovered": 19406
+          "deaths": 1492,
+          "recovered": 19607
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 30582,
+          "confirmed": 30883,
           "date": "2020-09-21",
-          "deaths": 898,
-          "recovered": 25087
+          "deaths": 905,
+          "recovered": 25353
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 27012,
+          "confirmed": 27463,
           "date": "2020-09-21",
-          "deaths": 1158,
-          "recovered": 20338
+          "deaths": 1172,
+          "recovered": 20653
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 56837,
+          "confirmed": 57244,
           "date": "2020-09-21",
-          "deaths": 2092,
-          "recovered": 47119
+          "deaths": 2103,
+          "recovered": 47513
         }
       }
     }
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 71143,
+      "confirmed": 71616,
       "date": "2020-09-21",
-      "deaths": 2166,
-      "recovered": 21810
+      "deaths": 2184,
+      "recovered": 22065
     }
   },
   "India": {
@@ -889,10 +889,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 107262,
+      "confirmed": 107307,
       "date": "2020-09-21",
       "deaths": 1671,
-      "recovered": 101877
+      "recovered": 101941
     }
   },
   "Kenya": {
@@ -1099,26 +1099,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37317,
+          "confirmed": 37357,
           "date": "2020-09-21",
           "deaths": 1258,
-          "recovered": 35500
+          "recovered": 35561
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 98368,
+          "confirmed": 98428,
           "date": "2020-09-21",
           "deaths": 2226,
-          "recovered": 94773
+          "recovered": 94952
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 133626,
+          "confirmed": 133947,
           "date": "2020-09-21",
-          "deaths": 2459,
-          "recovered": 128239
+          "deaths": 2460,
+          "recovered": 128407
         }
       }
     }
