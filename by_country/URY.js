@@ -489,7 +489,8 @@ var covid19_dataset_country_ury = {
       1856,
       1876,
       1890,
-      1904
+      1904,
+      1917
     ],
     "deaths": [
       0,
@@ -731,6 +732,7 @@ var covid19_dataset_country_ury = {
       45,
       45,
       45,
+      46,
       46,
       46,
       46
@@ -977,7 +979,8 @@ var covid19_dataset_country_ury = {
       1559,
       1582,
       1603,
-      1612
+      1612,
+      1621
     ]
   }
 };

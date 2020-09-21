@@ -1471,9 +1471,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 163558,
+          "confirmed": 164466,
           "date": "2020-09-21",
-          "deaths": 3858,
+          "deaths": 3876,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 26402,
+          "confirmed": 26860,
           "date": "2020-09-21",
           "deaths": 521,
           "recovered": 0

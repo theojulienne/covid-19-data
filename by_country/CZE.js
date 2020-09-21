@@ -489,7 +489,8 @@ var covid19_dataset_country_cze = {
       41032,
       44155,
       46262,
-      48306
+      48306,
+      49290
     ],
     "deaths": [
       0,
@@ -733,7 +734,8 @@ var covid19_dataset_country_cze = {
       482,
       489,
       495,
-      499
+      499,
+      503
     ],
     "recovered": [
       0,
@@ -977,7 +979,8 @@ var covid19_dataset_country_cze = {
       22931,
       23377,
       23858,
-      24228
+      24228,
+      24755
     ]
   }
 };
