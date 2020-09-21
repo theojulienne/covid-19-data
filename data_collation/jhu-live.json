@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 47431,
+      "confirmed": 47552,
       "date": "2020-09-21",
-      "deaths": 930,
-      "recovered": 42608
+      "deaths": 936,
+      "recovered": 42637
     }
   },
   "Australia": {
@@ -555,23 +555,23 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 46935,
+          "confirmed": 47107,
           "date": "2020-09-21",
           "deaths": 1871,
-          "recovered": 41370
+          "recovered": 41627
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 64625,
+          "confirmed": 64919,
           "date": "2020-09-21",
           "deaths": 2648,
-          "recovered": 56605
+          "recovered": 57019
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 65078,
+          "confirmed": 65232,
           "date": "2020-09-21",
           "deaths": 1845,
           "recovered": 58524
