@@ -329,7 +329,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 20431,
+      "confirmed": 20598,
       "date": "2020-09-21",
       "deaths": 416,
       "recovered": 19124
@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 49061,
+          "confirmed": 49067,
           "date": "2020-09-21",
           "deaths": 2878,
-          "recovered": 42868
+          "recovered": 42921
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 67542,
+          "confirmed": 68128,
           "date": "2020-09-21",
-          "deaths": 5802,
-          "recovered": 58796
+          "deaths": 5804,
+          "recovered": 59131
         }
       }
     }
@@ -545,17 +545,17 @@
   },
   "France": {
     "live": {
-      "confirmed": 468917,
+      "confirmed": 473974,
       "date": "2020-09-21",
-      "deaths": 31121,
-      "recovered": 76860
+      "deaths": 31174,
+      "recovered": 77254
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 47107,
+          "confirmed": 47345,
           "date": "2020-09-21",
           "deaths": 1871,
           "recovered": 41627
@@ -574,7 +574,7 @@
           "confirmed": 65232,
           "date": "2020-09-21",
           "deaths": 1845,
-          "recovered": 58524
+          "recovered": 58815
         }
       }
     }
@@ -897,7 +897,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 36981,
+      "confirmed": 37079,
       "date": "2020-09-21",
       "deaths": 648,
       "recovered": 23887
@@ -1349,10 +1349,10 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57607,
+      "confirmed": 57606,
       "date": "2020-09-21",
       "deaths": 27,
-      "recovered": 57181
+      "recovered": 57241
     }
   },
   "South Africa": {
@@ -1481,7 +1481,7 @@
         "live": {
           "confirmed": 164466,
           "date": "2020-09-21",
-          "deaths": 3876,
+          "deaths": 3877,
           "recovered": 0
         }
       },
@@ -1527,7 +1527,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 20699,
+          "confirmed": 20746,
           "date": "2020-09-21",
           "deaths": 758,
           "recovered": 0
@@ -1559,7 +1559,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 25857,
+          "confirmed": 26054,
           "date": "2020-09-21",
           "deaths": 922,
           "recovered": 0
