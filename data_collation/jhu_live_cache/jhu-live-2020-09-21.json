@@ -1045,10 +1045,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 46596,
+      "confirmed": 46796,
       "date": "2020-09-21",
-      "deaths": 1203,
-      "recovered": 34236
+      "deaths": 1211,
+      "recovered": 35018
     }
   },
   "Morocco": {
@@ -1535,7 +1535,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50369,
+          "confirmed": 50506,
           "date": "2020-09-21",
           "deaths": 1654,
           "recovered": 0
@@ -1567,7 +1567,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 22833,
+          "confirmed": 22992,
           "date": "2020-09-21",
           "deaths": 782,
           "recovered": 0
