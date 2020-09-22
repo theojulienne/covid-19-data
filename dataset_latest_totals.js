@@ -2745,19 +2745,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 63983,
-        "deaths": 1867,
-        "recovered": 44069
+        "confirmed": 64596,
+        "deaths": 1871,
+        "recovered": 44185
       },
       "back_2week": {
-        "confirmed": 60258,
-        "deaths": 1840,
-        "recovered": 42953
+        "confirmed": 60507,
+        "deaths": 1843,
+        "recovered": 43016
       },
       "latest": {
-        "confirmed": 68577,
-        "deaths": 1912,
-        "recovered": 45596
+        "confirmed": 69200,
+        "deaths": 1920,
+        "recovered": 45736
       }
     },
     "PRY": {
@@ -3388,7 +3388,7 @@ var covid19_dataset_latest_totals = {
       "latest": {
         "confirmed": 6725369,
         "deaths": 190970,
-        "recovered": 2588030,
+        "recovered": 2586574,
         "tested": 91658400
       },
       "states": {
@@ -3410,7 +3410,7 @@ var covid19_dataset_latest_totals = {
           "confirmed": 75723,
           "deaths": 1181,
           "hospitalized": 4967,
-          "recovered": 67853,
+          "recovered": 66397,
           "tested": 886017
         },
         "AZ": {
