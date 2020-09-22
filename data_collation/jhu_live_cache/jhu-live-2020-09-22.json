@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39074,
+      "confirmed": 39096,
       "date": "2020-09-22",
-      "deaths": 1444,
+      "deaths": 1445,
       "recovered": 32576
     }
   },
@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 350621,
+      "confirmed": 352178,
       "date": "2020-09-22",
-      "deaths": 4979,
-      "recovered": 258717
+      "deaths": 5007,
+      "recovered": 260790
     }
   },
   "Belarus": {
@@ -841,10 +841,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 192579,
+      "confirmed": 193374,
       "date": "2020-09-22",
-      "deaths": 1273,
-      "recovered": 140743
+      "deaths": 1285,
+      "recovered": 140751
     }
   },
   "Italy": {
