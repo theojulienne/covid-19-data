@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 39280,
+      "confirmed": 39378,
       "date": "2020-09-22",
-      "deaths": 576,
-      "recovered": 36836
+      "deaths": 578,
+      "recovered": 36949
     }
   },
   "Bahrain": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 23323,
+      "confirmed": 23799,
       "date": "2020-09-22",
-      "deaths": 640,
-      "recovered": 17738
+      "deaths": 641,
+      "recovered": 18035
     }
   },
   "Dominican Republic": {
@@ -889,7 +889,7 @@
         "live": {
           "confirmed": 24404,
           "date": "2020-09-22",
-          "deaths": 391,
+          "deaths": 390,
           "recovered": 21472
         }
       }
@@ -945,10 +945,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 28796,
+      "confirmed": 29446,
       "date": "2020-09-22",
-      "deaths": 450,
-      "recovered": 15384
+      "deaths": 460,
+      "recovered": 15913
     }
   },
   "Mexico": {
@@ -1077,11 +1077,19 @@
   },
   "Netherlands": {
     "subseries": {
+      "Noord-Holland": {
+        "live": {
+          "confirmed": 19662,
+          "date": "2020-09-22",
+          "deaths": 843,
+          "recovered": 0
+        }
+      },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 28090,
+          "confirmed": 28821,
           "date": "2020-09-22",
-          "deaths": 1367,
+          "deaths": 1370,
           "recovered": 0
         }
       }
@@ -1097,10 +1105,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 94051,
+      "confirmed": 94711,
       "date": "2020-09-22",
-      "deaths": 853,
-      "recovered": 85781
+      "deaths": 865,
+      "recovered": 86195
     }
   },
   "Pakistan": {
@@ -1443,15 +1451,15 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 23739,
+          "confirmed": 24117,
           "date": "2020-09-22",
-          "deaths": 2400,
+          "deaths": 2403,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 19514,
+          "confirmed": 19681,
           "date": "2020-09-22",
           "deaths": 860,
           "recovered": 0
@@ -1591,9 +1599,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 82673,
+          "confirmed": 63557,
           "date": "2020-09-22",
-          "deaths": 7107,
+          "deaths": 5682,
           "recovered": 0
         }
       },
@@ -1745,10 +1753,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 36151,
+      "confirmed": 36580,
       "date": "2020-09-22",
-      "deaths": 265,
-      "recovered": 24428
+      "deaths": 269,
+      "recovered": 25469
     }
   }
 }
