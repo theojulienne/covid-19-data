@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 49442,
+          "confirmed": 49603,
           "date": "2020-09-22",
-          "deaths": 2879,
-          "recovered": 43093
+          "deaths": 2882,
+          "recovered": 43159
         }
       },
       "Quebec": {
@@ -825,10 +825,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 322856,
+      "confirmed": 327580,
       "date": "2020-09-22",
-      "deaths": 8625,
-      "recovered": 258075
+      "deaths": 8682,
+      "recovered": 261757
     }
   },
   "Ireland": {
@@ -851,34 +851,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 34456,
+          "confirmed": 34511,
           "date": "2020-09-22",
-          "deaths": 4477,
-          "recovered": 25361
+          "deaths": 4478,
+          "recovered": 25400
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 104848,
+          "confirmed": 105030,
           "date": "2020-09-22",
-          "deaths": 16923,
-          "recovered": 78849
+          "deaths": 16925,
+          "recovered": 79078
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 34396,
+          "confirmed": 34480,
           "date": "2020-09-22",
-          "deaths": 4155,
-          "recovered": 27883
+          "deaths": 4156,
+          "recovered": 27931
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 25885,
+          "confirmed": 26004,
           "date": "2020-09-22",
-          "deaths": 2162,
-          "recovered": 20589
+          "deaths": 2165,
+          "recovered": 20696
         }
       }
     }
@@ -1053,10 +1053,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 46796,
+      "confirmed": 47446,
       "date": "2020-09-22",
-      "deaths": 1211,
-      "recovered": 35018
+      "deaths": 1230,
+      "recovered": 35542
     }
   },
   "Morocco": {
@@ -1360,7 +1360,7 @@
       "confirmed": 57627,
       "date": "2020-09-22",
       "deaths": 27,
-      "recovered": 57241
+      "recovered": 57262
     }
   },
   "South Africa": {
@@ -1472,7 +1472,7 @@
       "confirmed": 50664,
       "date": "2020-09-22",
       "deaths": 2054,
-      "recovered": 41800
+      "recovered": 42100
     }
   },
   "Turkey": {
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 441462,
+          "confirmed": 441556,
           "date": "2020-09-22",
-          "deaths": 9268,
+          "deaths": 9273,
           "recovered": 0
         }
       },
@@ -1701,10 +1701,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 85595,
+      "confirmed": 86447,
       "date": "2020-09-22",
       "deaths": 405,
-      "recovered": 75086
+      "recovered": 76025
     }
   },
   "United Kingdom": {
