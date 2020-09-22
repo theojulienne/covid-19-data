@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 49617,
+          "confirmed": 49737,
           "date": "2020-09-22",
           "deaths": 2882,
-          "recovered": 43168
+          "recovered": 43232
         }
       },
       "Quebec": {
@@ -537,18 +537,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 69709,
+      "confirmed": 70422,
       "date": "2020-09-22",
-      "deaths": 1108,
-      "recovered": 28634
+      "deaths": 1127,
+      "recovered": 28991
     }
   },
   "France": {
     "live": {
-      "confirmed": 473974,
+      "confirmed": 483982,
       "date": "2020-09-22",
-      "deaths": 31174,
-      "recovered": 77254
+      "deaths": 31252,
+      "recovered": 77784
     }
   },
   "Germany": {
@@ -1061,10 +1061,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 103119,
+      "confirmed": 105346,
       "date": "2020-09-22",
-      "deaths": 1855,
-      "recovered": 84158
+      "deaths": 1889,
+      "recovered": 85883
     }
   },
   "Nepal": {
@@ -1495,7 +1495,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 610835,
+          "confirmed": 611059,
           "date": "2020-09-22",
           "deaths": 12509,
           "recovered": 0
@@ -1583,9 +1583,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 64288,
+          "confirmed": 64470,
           "date": "2020-09-22",
-          "deaths": 1328,
+          "deaths": 1343,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 26134,
+          "confirmed": 26242,
           "date": "2020-09-22",
           "deaths": 603,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 35825,
+          "confirmed": 35901,
           "date": "2020-09-22",
-          "deaths": 1785,
+          "deaths": 1787,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 28453,
+          "confirmed": 28676,
           "date": "2020-09-22",
-          "deaths": 246,
+          "deaths": 247,
           "recovered": 0
         }
       },
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 347842,
           "date": "2020-09-22",
-          "deaths": 37103,
+          "deaths": 37139,
           "recovered": 0
         }
       },
@@ -1713,7 +1713,7 @@
         "live": {
           "confirmed": 25009,
           "date": "2020-09-22",
-          "deaths": 2505,
+          "deaths": 2506,
           "recovered": 0
         }
       },
