@@ -833,7 +833,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 33121,
+      "confirmed": 33444,
       "date": "2020-09-22",
       "deaths": 1792,
       "recovered": 23364
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 611059,
+          "confirmed": 611135,
           "date": "2020-09-22",
-          "deaths": 12509,
+          "deaths": 12519,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 53758,
+          "confirmed": 73040,
           "date": "2020-09-22",
-          "deaths": 955,
+          "deaths": 1382,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 54391,
+          "confirmed": 54599,
           "date": "2020-09-22",
-          "deaths": 4153,
+          "deaths": 4158,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 82823,
+          "confirmed": 63665,
           "date": "2020-09-22",
-          "deaths": 7108,
+          "deaths": 5683,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 56172,
+          "confirmed": 56331,
           "date": "2020-09-22",
-          "deaths": 740,
+          "deaths": 743,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 26973,
+          "confirmed": 27211,
           "date": "2020-09-22",
-          "deaths": 521,
+          "deaths": 525,
           "recovered": 0
         }
       }
