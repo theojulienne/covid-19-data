@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 65752,
       "date": "2020-09-22",
-      "deaths": 225,
+      "deaths": 226,
       "recovered": 58626
     }
   },
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 25521,
+      "confirmed": 25737,
       "date": "2020-09-22",
-      "deaths": 770,
-      "recovered": 18109
+      "deaths": 778,
+      "recovered": 18359
     }
   },
   "Brazil": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 65331,
+          "confirmed": 65516,
           "date": "2020-09-22",
           "deaths": 2651,
           "recovered": 57456
@@ -889,8 +889,8 @@
         "live": {
           "confirmed": 24404,
           "date": "2020-09-22",
-          "deaths": 390,
-          "recovered": 21472
+          "deaths": 391,
+          "recovered": 21540
         }
       }
     }
@@ -1069,10 +1069,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 65276,
+      "confirmed": 66632,
       "date": "2020-09-22",
-      "deaths": 427,
-      "recovered": 47238
+      "deaths": 429,
+      "recovered": 48061
     }
   },
   "Netherlands": {
@@ -1257,10 +1257,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 123604,
+      "confirmed": 123917,
       "date": "2020-09-22",
       "deaths": 211,
-      "recovered": 120540
+      "recovered": 120766
     }
   },
   "Romania": {
@@ -1341,15 +1341,15 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 330246,
+      "confirmed": 330798,
       "date": "2020-09-22",
-      "deaths": 4512,
-      "recovered": 311499
+      "deaths": 4542,
+      "recovered": 312684
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 32938,
+      "confirmed": 32999,
       "date": "2020-09-22",
       "deaths": 743,
       "recovered": 0
@@ -1471,7 +1471,7 @@
     "live": {
       "confirmed": 50664,
       "date": "2020-09-22",
-      "deaths": 2053,
+      "deaths": 2054,
       "recovered": 41800
     }
   },
@@ -1487,9 +1487,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 19123,
+          "confirmed": 19230,
           "date": "2020-09-22",
-          "deaths": 337,
+          "deaths": 342,
           "recovered": 0
         }
       },
