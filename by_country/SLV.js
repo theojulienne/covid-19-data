@@ -492,7 +492,8 @@ var covid19_dataset_country_slv = {
       27346,
       27428,
       27553,
-      27798
+      27798,
+      27954
     ],
     "deaths": [
       0,
@@ -986,7 +987,7 @@ var covid19_dataset_country_slv = {
       21247,
       21561,
       21782,
-      21795
+      22113
     ]
   }
 };

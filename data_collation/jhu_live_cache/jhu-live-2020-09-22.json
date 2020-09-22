@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 20076,
+          "confirmed": 20091,
           "date": "2020-09-22",
-          "deaths": 766,
+          "deaths": 771,
           "recovered": 18628
         }
       }
@@ -529,10 +529,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 27798,
+      "confirmed": 27954,
       "date": "2020-09-22",
       "deaths": 814,
-      "recovered": 21795
+      "recovered": 22113
     }
   },
   "Ethiopia": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 483982,
+      "confirmed": 483956,
       "date": "2020-09-22",
       "deaths": 31252,
-      "recovered": 77784
+      "recovered": 77757
     }
   },
   "Germany": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 85681,
+      "confirmed": 86623,
       "date": "2020-09-22",
-      "deaths": 3124,
-      "recovered": 75172
+      "deaths": 3137,
+      "recovered": 75869
     }
   },
   "Honduras": {
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 611486,
+          "confirmed": 611562,
           "date": "2020-09-22",
-          "deaths": 12557,
+          "deaths": 12559,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 441858,
+          "confirmed": 442554,
           "date": "2020-09-22",
-          "deaths": 9273,
+          "deaths": 9302,
           "recovered": 0
         }
       },
