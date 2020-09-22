@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 33159,
-        "deaths": 756,
-        "recovered": 26760
+        "confirmed": 33541,
+        "deaths": 757,
+        "recovered": 27010
       },
       "back_2week": {
-        "confirmed": 29271,
-        "deaths": 736,
-        "recovered": 25043
+        "confirmed": 29561,
+        "deaths": 746,
+        "recovered": 25300
       },
       "latest": {
-        "confirmed": 38095,
-        "deaths": 766,
-        "recovered": 29229
+        "confirmed": 38658,
+        "deaths": 767,
+        "recovered": 29516
       }
     },
     "AZE": {
@@ -1711,19 +1711,19 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 218382,
-        "deaths": 8723,
-        "recovered": 155010
+        "confirmed": 221523,
+        "deaths": 8841,
+        "recovered": 158405
       },
       "back_2week": {
-        "confirmed": 194109,
-        "deaths": 8025,
-        "recovered": 138575
+        "confirmed": 196989,
+        "deaths": 8130,
+        "recovered": 140652
       },
       "latest": {
-        "confirmed": 244676,
-        "deaths": 9553,
-        "recovered": 177327
+        "confirmed": 248852,
+        "deaths": 9677,
+        "recovered": 180797
       }
     },
     "IND": {
@@ -2728,19 +2728,19 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 74152,
-        "deaths": 2188,
-        "recovered": 60659
+        "confirmed": 74529,
+        "deaths": 2203,
+        "recovered": 61097
       },
       "back_2week": {
-        "confirmed": 70824,
-        "deaths": 2120,
-        "recovered": 54256
+        "confirmed": 71126,
+        "deaths": 2124,
+        "recovered": 55113
       },
       "latest": {
-        "confirmed": 79240,
-        "deaths": 2293,
-        "recovered": 64302
+        "confirmed": 79988,
+        "deaths": 2298,
+        "recovered": 64604
       }
     },
     "PRT": {
