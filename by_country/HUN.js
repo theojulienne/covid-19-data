@@ -245,7 +245,8 @@ var covid19_dataset_country_hun = {
     "2020-09-20",
     "2020-09-21",
     "2020-09-22",
-    "2020-09-23"
+    "2020-09-23",
+    "2020-09-24"
   ],
   "total": {
     "confirmed": [
@@ -492,8 +493,7 @@ var covid19_dataset_country_hun = {
       16111,
       16920,
       17990,
-      18866,
-      19499
+      18866
     ],
     "deaths": [
       0,
@@ -739,8 +739,7 @@ var covid19_dataset_country_hun = {
       669,
       675,
       683,
-      686,
-      694
+      686
     ],
     "recovered": [
       0,
@@ -986,8 +985,7 @@ var covid19_dataset_country_hun = {
       4240,
       4382,
       4391,
-      4401,
-      4559
+      4401
     ]
   }
 };
