@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 66402,
+      "confirmed": 67014,
       "date": "2020-09-23",
       "deaths": 231,
-      "recovered": 59367
+      "recovered": 60117
     }
   },
   "Bangladesh": {
@@ -329,7 +329,7 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 20598,
+      "confirmed": 20690,
       "date": "2020-09-23",
       "deaths": 416,
       "recovered": 19124
@@ -841,10 +841,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 203136,
+      "confirmed": 204690,
       "date": "2020-09-23",
-      "deaths": 1316,
-      "recovered": 144686
+      "deaths": 1325,
+      "recovered": 144963
     }
   },
   "Italy": {
@@ -905,10 +905,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 37218,
+      "confirmed": 37348,
       "date": "2020-09-23",
-      "deaths": 659,
-      "recovered": 24147
+      "deaths": 664,
+      "recovered": 24253
     }
   },
   "Korea, South": {
