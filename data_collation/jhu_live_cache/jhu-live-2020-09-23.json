@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39096,
+      "confirmed": 39145,
       "date": "2020-09-23",
-      "deaths": 1445,
-      "recovered": 32576
+      "deaths": 1446,
+      "recovered": 32610
     }
   },
   "Algeria": {
@@ -531,7 +531,7 @@
     "live": {
       "confirmed": 27954,
       "date": "2020-09-23",
-      "deaths": 814,
+      "deaths": 819,
       "recovered": 22113
     }
   },
@@ -1495,7 +1495,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 612414,
+          "confirmed": 612732,
           "date": "2020-09-23",
           "deaths": 12618,
           "recovered": 0
@@ -1683,10 +1683,10 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 20028,
+          "confirmed": 20335,
           "date": "2020-09-23",
-          "deaths": 325,
-          "recovered": 5929
+          "deaths": 330,
+          "recovered": 6043
         }
       }
     }
@@ -1729,9 +1729,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 52857,
+      "confirmed": 53051,
       "date": "2020-09-23",
-      "deaths": 442,
+      "deaths": 443,
       "recovered": 49224
     }
   },
