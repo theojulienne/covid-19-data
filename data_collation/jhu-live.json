@@ -473,18 +473,18 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 66689,
+      "confirmed": 68059,
       "date": "2020-09-23",
-      "deaths": 760,
-      "recovered": 25706
+      "deaths": 781,
+      "recovered": 26136
     }
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 19343,
+      "confirmed": 19430,
       "date": "2020-09-23",
       "deaths": 120,
-      "recovered": 18682
+      "recovered": 18875
     }
   },
   "Czechia": {
@@ -1281,14 +1281,6 @@
           "recovered": 20603
         }
       },
-      "Krasnoyarsk Krai": {
-        "live": {
-          "confirmed": 19260,
-          "date": "2020-09-23",
-          "deaths": 540,
-          "recovered": 14896
-        }
-      },
       "Moscow": {
         "live": {
           "confirmed": 279358,
@@ -1365,10 +1357,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 663282,
+      "confirmed": 665188,
       "date": "2020-09-23",
-      "deaths": 16118,
-      "recovered": 592904
+      "deaths": 16206,
+      "recovered": 594229
     }
   },
   "Spain": {
@@ -1503,15 +1495,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 613174,
+          "confirmed": 613584,
           "date": "2020-09-23",
-          "deaths": 12623,
+          "deaths": 12663,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 19891,
+          "confirmed": 19949,
           "date": "2020-09-23",
           "deaths": 1421,
           "recovered": 0
@@ -1527,9 +1519,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 53866,
+          "confirmed": 73461,
           "date": "2020-09-23",
-          "deaths": 961,
+          "deaths": 1388,
           "recovered": 0
         }
       },
@@ -1647,7 +1639,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 446126,
+          "confirmed": 446510,
           "date": "2020-09-23",
           "deaths": 9336,
           "recovered": 0
