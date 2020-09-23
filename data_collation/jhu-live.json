@@ -53,17 +53,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 39378,
+      "confirmed": 39524,
       "date": "2020-09-23",
-      "deaths": 578,
-      "recovered": 36949
+      "deaths": 580,
+      "recovered": 37122
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 66402,
       "date": "2020-09-23",
-      "deaths": 229,
+      "deaths": 231,
       "recovered": 59367
     }
   },
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 65746,
+          "confirmed": 65881,
           "date": "2020-09-23",
           "deaths": 2653,
           "recovered": 57962
@@ -574,7 +574,7 @@
           "confirmed": 66191,
           "date": "2020-09-23",
           "deaths": 1854,
-          "recovered": 59656
+          "recovered": 59340
         }
       }
     }
@@ -825,10 +825,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 327580,
+      "confirmed": 332635,
       "date": "2020-09-23",
-      "deaths": 8682,
-      "recovered": 261757
+      "deaths": 8754,
+      "recovered": 264988
     }
   },
   "Ireland": {
@@ -1249,10 +1249,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 69663,
+      "confirmed": 70465,
       "date": "2020-09-23",
-      "deaths": 1925,
-      "recovered": 45974
+      "deaths": 1928,
+      "recovered": 46290
     }
   },
   "Qatar": {
@@ -1341,10 +1341,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 330798,
+      "confirmed": 331359,
       "date": "2020-09-23",
-      "deaths": 4542,
-      "recovered": 312684
+      "deaths": 4569,
+      "recovered": 313786
     }
   },
   "Serbia": {
@@ -1487,9 +1487,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 19230,
+          "confirmed": 19306,
           "date": "2020-09-23",
-          "deaths": 342,
+          "deaths": 349,
           "recovered": 0
         }
       },
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 50648,
           "date": "2020-09-23",
-          "deaths": 1659,
+          "deaths": 1662,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 23137,
+          "confirmed": 23297,
           "date": "2020-09-23",
-          "deaths": 782,
+          "deaths": 788,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20373,
+          "confirmed": 20437,
           "date": "2020-09-23",
           "deaths": 583,
           "recovered": 0
