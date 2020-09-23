@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 613083,
+          "confirmed": 613174,
           "date": "2020-09-23",
-          "deaths": 12618,
+          "deaths": 12623,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 54599,
+          "confirmed": 54817,
           "date": "2020-09-23",
-          "deaths": 4158,
+          "deaths": 4164,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 26242,
+          "confirmed": 26393,
           "date": "2020-09-23",
           "deaths": 606,
           "recovered": 0
@@ -1639,25 +1639,25 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 56331,
+          "confirmed": 56591,
           "date": "2020-09-23",
-          "deaths": 743,
+          "deaths": 746,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 446081,
+          "confirmed": 446126,
           "date": "2020-09-23",
-          "deaths": 9327,
+          "deaths": 9336,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 28676,
+          "confirmed": 28996,
           "date": "2020-09-23",
-          "deaths": 247,
+          "deaths": 248,
           "recovered": 0
         }
       },
@@ -1679,7 +1679,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 27211,
+          "confirmed": 27356,
           "date": "2020-09-23",
           "deaths": 525,
           "recovered": 0
