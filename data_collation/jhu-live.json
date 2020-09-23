@@ -851,34 +851,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 34511,
+          "confirmed": 34612,
           "date": "2020-09-23",
-          "deaths": 4478,
-          "recovered": 25400
+          "deaths": 4479,
+          "recovered": 25520
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 105030,
+          "confirmed": 105226,
           "date": "2020-09-23",
           "deaths": 16925,
-          "recovered": 79078
+          "recovered": 79197
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 34480,
+          "confirmed": 34575,
           "date": "2020-09-23",
-          "deaths": 4156,
-          "recovered": 27931
+          "deaths": 4157,
+          "recovered": 28000
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 26004,
+          "confirmed": 26154,
           "date": "2020-09-23",
-          "deaths": 2165,
-          "recovered": 20696
+          "deaths": 2167,
+          "recovered": 20832
         }
       }
     }
@@ -1053,10 +1053,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 47446,
+      "confirmed": 48232,
       "date": "2020-09-23",
-      "deaths": 1230,
-      "recovered": 35542
+      "deaths": 1244,
+      "recovered": 36071
     }
   },
   "Morocco": {
@@ -1360,7 +1360,7 @@
       "confirmed": 57639,
       "date": "2020-09-23",
       "deaths": 27,
-      "recovered": 57262
+      "recovered": 57291
     }
   },
   "South Africa": {
@@ -1519,9 +1519,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 459911,
+          "confirmed": 461353,
           "date": "2020-09-23",
-          "deaths": 8791,
+          "deaths": 8904,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50648,
+          "confirmed": 50786,
           "date": "2020-09-23",
           "deaths": 1662,
           "recovered": 0
