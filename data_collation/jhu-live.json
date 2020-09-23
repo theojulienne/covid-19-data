@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 49944,
+          "confirmed": 50031,
           "date": "2020-09-23",
-          "deaths": 2883,
-          "recovered": 43326
+          "deaths": 2884,
+          "recovered": 43405
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 68617,
+          "confirmed": 69088,
           "date": "2020-09-23",
-          "deaths": 5805,
-          "recovered": 59450
+          "deaths": 5809,
+          "recovered": 59686
         }
       }
     }
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 109269,
+      "confirmed": 109737,
       "date": "2020-09-23",
-      "deaths": 2064,
-      "recovered": 82741
+      "deaths": 2074,
+      "recovered": 83434
     }
   },
   "Ecuador": {
@@ -555,9 +555,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 47590,
+          "confirmed": 47876,
           "date": "2020-09-23",
-          "deaths": 1874,
+          "deaths": 1875,
           "recovered": 42141
         }
       },
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 86623,
+      "confirmed": 87442,
       "date": "2020-09-23",
-      "deaths": 3137,
-      "recovered": 75869
+      "deaths": 3154,
+      "recovered": 76459
     }
   },
   "Honduras": {
@@ -1477,10 +1477,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 306302,
+      "confirmed": 308069,
       "date": "2020-09-23",
-      "deaths": 7639,
-      "recovered": 269696
+      "deaths": 7711,
+      "recovered": 270723
     }
   },
   "US": {
@@ -1543,9 +1543,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 20832,
+          "confirmed": 20936,
           "date": "2020-09-23",
-          "deaths": 759,
+          "deaths": 761,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 26147,
+          "confirmed": 26264,
           "date": "2020-09-23",
-          "deaths": 923,
+          "deaths": 926,
           "recovered": 0
         }
       },
@@ -1607,7 +1607,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 355388,
+          "confirmed": 355787,
           "date": "2020-09-23",
           "deaths": 28345,
           "recovered": 0
@@ -1615,9 +1615,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 27687,
+          "confirmed": 27768,
           "date": "2020-09-23",
-          "deaths": 342,
+          "deaths": 343,
           "recovered": 0
         }
       },
