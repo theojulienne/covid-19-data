@@ -496,7 +496,8 @@ var covid19_dataset_country_irq = {
       319035,
       322856,
       327580,
-      332635
+      332635,
+      337106
     ],
     "deaths": [
       0,
@@ -744,7 +745,8 @@ var covid19_dataset_country_irq = {
       8555,
       8625,
       8682,
-      8754
+      8754,
+      8799
     ],
     "recovered": [
       0,
@@ -992,7 +994,8 @@ var covid19_dataset_country_irq = {
       253591,
       258075,
       261757,
-      264988
+      264988,
+      268761
     ]
   }
 };
