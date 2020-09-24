@@ -2017,19 +2017,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 25449,
-        "deaths": 252,
-        "recovered": 9216
+        "confirmed": 26083,
+        "deaths": 259,
+        "recovered": 9634
       },
       "back_2week": {
-        "confirmed": 21324,
-        "deaths": 207,
-        "recovered": 6722
+        "confirmed": 21877,
+        "deaths": 212,
+        "recovered": 7024
       },
       "latest": {
-        "confirmed": 30852,
-        "deaths": 315,
-        "recovered": 12878
+        "confirmed": 31792,
+        "deaths": 328,
+        "recovered": 13527
       }
     },
     "LBR": {

@@ -545,19 +545,19 @@
   },
   "France": {
     "live": {
-      "confirmed": 511785,
+      "confirmed": 511757,
       "date": "2020-09-24",
       "deaths": 31333,
-      "recovered": 77239
+      "recovered": 77214
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 47883,
+          "confirmed": 48128,
           "date": "2020-09-24",
-          "deaths": 1875,
+          "deaths": 1876,
           "recovered": 42417
         }
       },
@@ -937,10 +937,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 31792,
+      "confirmed": 32819,
       "date": "2020-09-24",
-      "deaths": 328,
-      "recovered": 13527
+      "deaths": 329,
+      "recovered": 14112
     }
   },
   "Libya": {
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 54817,
+          "confirmed": 55105,
           "date": "2020-09-24",
-          "deaths": 4164,
+          "deaths": 4170,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 26393,
+          "confirmed": 26545,
           "date": "2020-09-24",
           "deaths": 606,
           "recovered": 0
@@ -1639,9 +1639,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 56591,
+          "confirmed": 56712,
           "date": "2020-09-24",
-          "deaths": 746,
+          "deaths": 750,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 28996,
+          "confirmed": 29392,
           "date": "2020-09-24",
           "deaths": 248,
           "recovered": 0
@@ -1679,7 +1679,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 27356,
+          "confirmed": 27672,
           "date": "2020-09-24",
           "deaths": 525,
           "recovered": 0
