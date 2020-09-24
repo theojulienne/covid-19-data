@@ -929,10 +929,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 45630,
+      "confirmed": 45757,
       "date": "2020-09-24",
       "deaths": 1063,
-      "recovered": 41904
+      "recovered": 42005
     }
   },
   "Lebanon": {
@@ -1683,10 +1683,10 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 20335,
+          "confirmed": 20665,
           "date": "2020-09-24",
-          "deaths": 330,
-          "recovered": 6043
+          "deaths": 333,
+          "recovered": 6149
         }
       }
     }
@@ -1729,9 +1729,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 53447,
+      "confirmed": 53667,
       "date": "2020-09-24",
-      "deaths": 444,
+      "deaths": 445,
       "recovered": 49832
     }
   },
