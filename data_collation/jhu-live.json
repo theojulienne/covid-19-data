@@ -339,10 +339,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 50273,
+          "confirmed": 50390,
           "date": "2020-09-24",
           "deaths": 2885,
-          "recovered": 43661
+          "recovered": 43701
         }
       },
       "Quebec": {
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 109737,
+      "confirmed": 110122,
       "date": "2020-09-24",
-      "deaths": 2074,
-      "recovered": 83434
+      "deaths": 2076,
+      "recovered": 84018
     }
   },
   "Ecuador": {
@@ -589,9 +589,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 87442,
+      "confirmed": 87933,
       "date": "2020-09-24",
-      "deaths": 3154,
+      "deaths": 3170,
       "recovered": 76459
     }
   },
@@ -1053,10 +1053,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 48232,
+      "confirmed": 48953,
       "date": "2020-09-24",
-      "deaths": 1244,
-      "recovered": 36071
+      "deaths": 1252,
+      "recovered": 36643
     }
   },
   "Morocco": {
@@ -1487,7 +1487,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 19306,
+          "confirmed": 19441,
           "date": "2020-09-24",
           "deaths": 349,
           "recovered": 0
@@ -1519,9 +1519,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 461353,
+          "confirmed": 462730,
           "date": "2020-09-24",
-          "deaths": 8904,
+          "deaths": 9003,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 50786,
+          "confirmed": 50965,
           "date": "2020-09-24",
           "deaths": 1663,
           "recovered": 0
