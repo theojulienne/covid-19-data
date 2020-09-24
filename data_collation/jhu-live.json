@@ -339,18 +339,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 50390,
+          "confirmed": 50391,
           "date": "2020-09-24",
           "deaths": 2885,
-          "recovered": 43701
+          "recovered": 43702
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 69088,
+          "confirmed": 69670,
           "date": "2020-09-24",
-          "deaths": 5809,
-          "recovered": 59686
+          "deaths": 5810,
+          "recovered": 59943
         }
       }
     }
@@ -489,10 +489,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 55464,
+      "confirmed": 56747,
       "date": "2020-09-24",
-      "deaths": 555,
-      "recovered": 26709
+      "deaths": 567,
+      "recovered": 27247
     }
   },
   "Denmark": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 495689,
+      "confirmed": 511785,
       "date": "2020-09-24",
-      "deaths": 31281,
-      "recovered": 76808
+      "deaths": 31333,
+      "recovered": 77239
     }
   },
   "Germany": {
@@ -851,34 +851,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 34612,
+          "confirmed": 34711,
           "date": "2020-09-24",
-          "deaths": 4479,
-          "recovered": 25520
+          "deaths": 4480,
+          "recovered": 25604
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 105226,
+          "confirmed": 105455,
           "date": "2020-09-24",
-          "deaths": 16925,
-          "recovered": 79197
+          "deaths": 16935,
+          "recovered": 79472
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 34575,
+          "confirmed": 34679,
           "date": "2020-09-24",
-          "deaths": 4157,
-          "recovered": 28000
+          "deaths": 4158,
+          "recovered": 28059
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 26154,
+          "confirmed": 26402,
           "date": "2020-09-24",
-          "deaths": 2167,
-          "recovered": 20832
+          "deaths": 2169,
+          "recovered": 20961
         }
       }
     }
@@ -1543,9 +1543,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 20936,
+          "confirmed": 21067,
           "date": "2020-09-24",
-          "deaths": 761,
+          "deaths": 764,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 27768,
+          "confirmed": 27884,
           "date": "2020-09-24",
-          "deaths": 343,
+          "deaths": 345,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 444993,
+          "confirmed": 445167,
           "date": "2020-09-24",
-          "deaths": 9411,
+          "deaths": 9421,
           "recovered": 0
         }
       },
