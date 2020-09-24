@@ -327,6 +327,14 @@
       }
     }
   },
+  "Bulgaria": {
+    "live": {
+      "confirmed": 19573,
+      "date": "2020-09-24",
+      "deaths": 785,
+      "recovered": 14013
+    }
+  },
   "Cameroon": {
     "live": {
       "confirmed": 20712,
@@ -339,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 50469,
+          "confirmed": 50637,
           "date": "2020-09-24",
           "deaths": 2885,
-          "recovered": 43802
+          "recovered": 43902
         }
       },
       "Quebec": {
@@ -521,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 102375,
+      "confirmed": 102513,
       "date": "2020-09-24",
-      "deaths": 5822,
-      "recovered": 91843
+      "deaths": 5835,
+      "recovered": 92644
     }
   },
   "El Salvador": {
@@ -581,10 +589,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 46153,
+      "confirmed": 46222,
       "date": "2020-09-24",
       "deaths": 299,
-      "recovered": 45299
+      "recovered": 45417
     }
   },
   "Guatemala": {
@@ -1464,7 +1472,7 @@
       "confirmed": 51492,
       "date": "2020-09-24",
       "deaths": 2061,
-      "recovered": 42300
+      "recovered": 42600
     }
   },
   "Turkey": {
@@ -1497,7 +1505,7 @@
         "live": {
           "confirmed": 616135,
           "date": "2020-09-24",
-          "deaths": 12726,
+          "deaths": 12730,
           "recovered": 0
         }
       },
@@ -1551,9 +1559,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 70424,
+          "confirmed": 51002,
           "date": "2020-09-24",
-          "deaths": 4544,
+          "deaths": 3270,
           "recovered": 0
         }
       },
@@ -1639,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 445167,
+          "confirmed": 446217,
           "date": "2020-09-24",
-          "deaths": 9421,
+          "deaths": 9461,
           "recovered": 0
         }
       },
