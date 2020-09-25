@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 773,
           "recovered": 1992,
-          "tested": 2609485
+          "tested": 2622822
         },
         "WA": {
           "confirmed": 665,
@@ -368,12 +368,12 @@
     "BHR": {
       "back_1week": {
         "confirmed": 62484,
-        "deaths": 216,
+        "deaths": 217,
         "recovered": 55444
       },
       "back_2week": {
         "confirmed": 57450,
-        "deaths": 203,
+        "deaths": 207,
         "recovered": 51819
       },
       "latest": {
@@ -3737,19 +3737,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 49015,
-        "deaths": 407,
-        "recovered": 45422
+        "confirmed": 49627,
+        "deaths": 413,
+        "recovered": 45970
       },
       "back_2week": {
-        "confirmed": 44930,
-        "deaths": 366,
-        "recovered": 42212
+        "confirmed": 45473,
+        "deaths": 370,
+        "recovered": 42509
       },
       "latest": {
-        "confirmed": 53275,
-        "deaths": 444,
-        "recovered": 49649
+        "confirmed": 53834,
+        "deaths": 446,
+        "recovered": 50230
       }
     },
     "VAT": {

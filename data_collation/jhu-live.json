@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 67701,
       "date": "2020-09-25",
-      "deaths": 231,
+      "deaths": 233,
       "recovered": 60853
     }
   },
@@ -807,10 +807,10 @@
       },
       "West Bengal": {
         "live": {
-          "confirmed": 234673,
+          "confirmed": 237869,
           "date": "2020-09-25",
-          "deaths": 4544,
-          "recovered": 205028
+          "deaths": 4606,
+          "recovered": 208042
         }
       }
     }
@@ -1737,10 +1737,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 53834,
+      "confirmed": 53966,
       "date": "2020-09-25",
-      "deaths": 446,
-      "recovered": 50230
+      "deaths": 447,
+      "recovered": 50441
     }
   },
   "Venezuela": {
