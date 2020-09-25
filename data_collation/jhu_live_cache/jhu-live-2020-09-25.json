@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 67701,
+      "confirmed": 68190,
       "date": "2020-09-25",
-      "deaths": 234,
-      "recovered": 60853
+      "deaths": 236,
+      "recovered": 61475
     }
   },
   "Bangladesh": {
@@ -487,14 +487,6 @@
       "recovered": 27023
     }
   },
-  "Cote d'Ivoire": {
-    "live": {
-      "confirmed": 19556,
-      "date": "2020-09-25",
-      "deaths": 120,
-      "recovered": 19065
-    }
-  },
   "Czechia": {
     "live": {
       "confirmed": 60027,
@@ -529,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 102513,
+      "confirmed": 102625,
       "date": "2020-09-25",
-      "deaths": 5835,
-      "recovered": 92644
+      "deaths": 5853,
+      "recovered": 93531
     }
   },
   "El Salvador": {
@@ -1493,6 +1485,14 @@
   },
   "US": {
     "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 19572,
+          "date": "2020-09-25",
+          "deaths": 348,
+          "recovered": 0
+        }
+      },
       "Arizona": {
         "live": {
           "confirmed": 165724,
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 447544,
+          "confirmed": 448576,
           "date": "2020-09-25",
-          "deaths": 9494,
+          "deaths": 9515,
           "recovered": 0
         }
       },
