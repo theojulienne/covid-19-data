@@ -63,16 +63,16 @@
     "live": {
       "confirmed": 67701,
       "date": "2020-09-25",
-      "deaths": 233,
+      "deaths": 234,
       "recovered": 60853
     }
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 355384,
+      "confirmed": 356767,
       "date": "2020-09-25",
-      "deaths": 5072,
-      "recovered": 265092
+      "deaths": 5093,
+      "recovered": 267024
     }
   },
   "Belarus": {
@@ -575,6 +575,14 @@
           "date": "2020-09-25",
           "deaths": 2657,
           "recovered": 58672
+        }
+      },
+      "Niedersachsen": {
+        "live": {
+          "confirmed": 19570,
+          "date": "2020-09-25",
+          "deaths": 682,
+          "recovered": 17076
         }
       },
       "Nordrhein-Westfalen": {
@@ -1265,18 +1273,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 124425,
+      "confirmed": 124650,
       "date": "2020-09-25",
       "deaths": 212,
-      "recovered": 121263
+      "recovered": 121512
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 118054,
+      "confirmed": 119683,
       "date": "2020-09-25",
-      "deaths": 4591,
-      "recovered": 94877
+      "deaths": 4633,
+      "recovered": 96158
     }
   },
   "Russia": {
@@ -1688,23 +1696,15 @@
           "deaths": 342,
           "recovered": 6255
         }
-      },
-      "Lviv Oblast": {
-        "live": {
-          "confirmed": 19465,
-          "date": "2020-09-25",
-          "deaths": 543,
-          "recovered": 6518
-        }
       }
     }
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 88532,
+      "confirmed": 89540,
       "date": "2020-09-25",
-      "deaths": 407,
-      "recovered": 77937
+      "deaths": 409,
+      "recovered": 78819
     }
   },
   "United Kingdom": {
