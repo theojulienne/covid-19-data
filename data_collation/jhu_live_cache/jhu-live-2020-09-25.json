@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 131990,
+      "confirmed": 132618,
       "date": "2020-09-25",
-      "deaths": 7731,
-      "recovered": 91556
+      "deaths": 7765,
+      "recovered": 92101
     }
   },
   "Bosnia and Herzegovina": {
@@ -605,10 +605,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 72675,
+      "confirmed": 73193,
       "date": "2020-09-25",
-      "deaths": 2222,
-      "recovered": 24022
+      "deaths": 2249,
+      "recovered": 24580
     }
   },
   "Hungary": {
@@ -921,10 +921,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 23341,
+      "confirmed": 23455,
       "date": "2020-09-25",
-      "deaths": 393,
-      "recovered": 20832
+      "deaths": 395,
+      "recovered": 20978
     }
   },
   "Kuwait": {
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 447288,
+          "confirmed": 447497,
           "date": "2020-09-25",
-          "deaths": 9463,
+          "deaths": 9486,
           "recovered": 0
         }
       },
