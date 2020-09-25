@@ -1694,19 +1694,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 14460,
-        "deaths": 654,
-        "recovered": 4153
+        "confirmed": 15170,
+        "deaths": 663,
+        "recovered": 4227
       },
       "back_2week": {
-        "confirmed": 9715,
-        "deaths": 628,
-        "recovered": 3984
+        "confirmed": 10191,
+        "deaths": 630,
+        "recovered": 3990
       },
       "latest": {
-        "confirmed": 20450,
-        "deaths": 702,
-        "recovered": 4644
+        "confirmed": 21200,
+        "deaths": 709,
+        "recovered": 4818
       }
     },
     "IDN": {

@@ -563,26 +563,26 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 48128,
+          "confirmed": 48135,
           "date": "2020-09-25",
           "deaths": 1876,
-          "recovered": 42417
+          "recovered": 42635
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 66242,
+          "confirmed": 66557,
           "date": "2020-09-25",
-          "deaths": 2654,
-          "recovered": 58332
+          "deaths": 2657,
+          "recovered": 58672
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 66680,
+          "confirmed": 67278,
           "date": "2020-09-25",
-          "deaths": 1859,
-          "recovered": 60171
+          "deaths": 1861,
+          "recovered": 59766
         }
       }
     }
@@ -613,10 +613,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 21200,
+      "confirmed": 22127,
       "date": "2020-09-25",
-      "deaths": 709,
-      "recovered": 4818
+      "deaths": 718,
+      "recovered": 4945
     }
   },
   "India": {
@@ -895,7 +895,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 24658,
+          "confirmed": 24853,
           "date": "2020-09-25",
           "deaths": 395,
           "recovered": 21851
