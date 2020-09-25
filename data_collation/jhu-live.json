@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 50637,
+          "confirmed": 50673,
           "date": "2020-09-25",
-          "deaths": 2885,
-          "recovered": 43902
+          "deaths": 2886,
+          "recovered": 43921
         }
       },
       "Quebec": {
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 66557,
+          "confirmed": 66635,
           "date": "2020-09-25",
           "deaths": 2657,
           "recovered": 58672
@@ -841,10 +841,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 337106,
+      "confirmed": 341699,
       "date": "2020-09-25",
-      "deaths": 8799,
-      "recovered": 268761
+      "deaths": 8867,
+      "recovered": 273266
     }
   },
   "Ireland": {
@@ -961,10 +961,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 30632,
+      "confirmed": 31290,
       "date": "2020-09-25",
-      "deaths": 474,
-      "recovered": 16842
+      "deaths": 491,
+      "recovered": 17508
     }
   },
   "Mexico": {
@@ -1349,10 +1349,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 331857,
+      "confirmed": 332329,
       "date": "2020-09-25",
-      "deaths": 4599,
-      "recovered": 314793
+      "deaths": 4625,
+      "recovered": 315636
     }
   },
   "Serbia": {
