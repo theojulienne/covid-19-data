@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 50746,
+          "confirmed": 50768,
           "date": "2020-09-25",
           "deaths": 2886,
-          "recovered": 43990
+          "recovered": 44000
         }
       },
       "Quebec": {
@@ -849,7 +849,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 33994,
+      "confirmed": 34315,
       "date": "2020-09-25",
       "deaths": 1797,
       "recovered": 23364
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 617898,
+          "confirmed": 618055,
           "date": "2020-09-25",
-          "deaths": 12777,
+          "deaths": 12781,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 65175,
+          "confirmed": 65583,
           "date": "2020-09-25",
-          "deaths": 1360,
+          "deaths": 1368,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 27884,
+          "confirmed": 28416,
           "date": "2020-09-25",
-          "deaths": 345,
+          "deaths": 347,
           "recovered": 0
         }
       },
@@ -1625,15 +1625,15 @@
         "live": {
           "confirmed": 26545,
           "date": "2020-09-25",
-          "deaths": 606,
+          "deaths": 607,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36112,
+          "confirmed": 36187,
           "date": "2020-09-25",
-          "deaths": 1791,
+          "deaths": 1799,
           "recovered": 0
         }
       },
@@ -1713,7 +1713,7 @@
         "live": {
           "confirmed": 364280,
           "date": "2020-09-25",
-          "deaths": 37209,
+          "deaths": 37240,
           "recovered": 0
         }
       },
@@ -1729,7 +1729,7 @@
         "live": {
           "confirmed": 22215,
           "date": "2020-09-25",
-          "deaths": 1606,
+          "deaths": 1609,
           "recovered": 0
         }
       }
