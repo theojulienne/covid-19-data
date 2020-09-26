@@ -1485,14 +1485,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 19572,
-          "date": "2020-09-26",
-          "deaths": 348,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 166018,
@@ -1691,10 +1683,18 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 21045,
+          "confirmed": 21492,
           "date": "2020-09-26",
-          "deaths": 342,
-          "recovered": 6255
+          "deaths": 350,
+          "recovered": 6387
+        }
+      },
+      "Lviv Oblast": {
+        "live": {
+          "confirmed": 19636,
+          "date": "2020-09-26",
+          "deaths": 551,
+          "recovered": 6613
         }
       }
     }
@@ -1737,10 +1737,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 54392,
+      "confirmed": 54462,
       "date": "2020-09-26",
-      "deaths": 449,
-      "recovered": 50879
+      "deaths": 450,
+      "recovered": 50954
     }
   },
   "Venezuela": {
