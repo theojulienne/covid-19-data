@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 51266,
+          "confirmed": 51275,
           "date": "2020-09-26",
           "deaths": 2886,
-          "recovered": 44331
+          "recovered": 44332
         }
       },
       "Quebec": {
@@ -415,7 +415,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 109651,
+          "confirmed": 110870,
           "date": "2020-09-26",
           "deaths": 2296,
           "recovered": 95140
@@ -423,7 +423,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 67074,
+          "confirmed": 67216,
           "date": "2020-09-26",
           "deaths": 3053,
           "recovered": 62635
@@ -431,7 +431,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 28475,
+          "confirmed": 28523,
           "date": "2020-09-26",
           "deaths": 764,
           "recovered": 26747
@@ -439,7 +439,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 260559,
+          "confirmed": 262956,
           "date": "2020-09-26",
           "deaths": 6650,
           "recovered": 225706
@@ -447,7 +447,7 @@
       },
       "Cordoba": {
         "live": {
-          "confirmed": 23516,
+          "confirmed": 23631,
           "date": "2020-09-26",
           "deaths": 1511,
           "recovered": 20352
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 32337,
+          "confirmed": 32641,
           "date": "2020-09-26",
           "deaths": 952,
           "recovered": 27724
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 29468,
+          "confirmed": 29952,
           "date": "2020-09-26",
           "deaths": 1236,
           "recovered": 23267
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 59785,
+          "confirmed": 60369,
           "date": "2020-09-26",
           "deaths": 2189,
           "recovered": 50944
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 102625,
+      "confirmed": 102736,
       "date": "2020-09-26",
-      "deaths": 5853,
-      "recovered": 93531
+      "deaths": 5869,
+      "recovered": 94374
     }
   },
   "El Salvador": {
@@ -915,7 +915,7 @@
     "live": {
       "confirmed": 37707,
       "date": "2020-09-26",
-      "deaths": 682,
+      "deaths": 689,
       "recovered": 24504
     }
   },
@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 668529,
+      "confirmed": 669498,
       "date": "2020-09-26",
-      "deaths": 16312,
-      "recovered": 599149
+      "deaths": 16376,
+      "recovered": 601818
     }
   },
   "Spain": {
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 450637,
+          "confirmed": 450973,
           "date": "2020-09-26",
           "deaths": 9584,
           "recovered": 0
