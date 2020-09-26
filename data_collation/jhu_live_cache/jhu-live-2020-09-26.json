@@ -825,10 +825,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 439882,
+      "confirmed": 443086,
       "date": "2020-09-26",
-      "deaths": 25222,
-      "recovered": 369842
+      "deaths": 25394,
+      "recovered": 372051
     }
   },
   "Iraq": {
@@ -1281,10 +1281,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 119683,
+      "confirmed": 121235,
       "date": "2020-09-26",
-      "deaths": 4633,
-      "recovered": 96158
+      "deaths": 4687,
+      "recovered": 97554
     }
   },
   "Russia": {
