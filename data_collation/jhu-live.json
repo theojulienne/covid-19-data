@@ -367,34 +367,34 @@
     "subseries": {
       "Antofagasta": {
         "live": {
-          "confirmed": 19683,
+          "confirmed": 19751,
           "date": "2020-09-26",
           "deaths": 490,
-          "recovered": 18759
+          "recovered": 18820
         }
       },
       "Biobio": {
         "live": {
-          "confirmed": 22680,
+          "confirmed": 22944,
           "date": "2020-09-26",
-          "deaths": 309,
-          "recovered": 20645
+          "deaths": 317,
+          "recovered": 20827
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 284591,
+          "confirmed": 285095,
           "date": "2020-09-26",
-          "deaths": 9121,
-          "recovered": 272320
+          "deaths": 9151,
+          "recovered": 272680
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 26759,
+          "confirmed": 26940,
           "date": "2020-09-26",
-          "deaths": 846,
-          "recovered": 25175
+          "deaths": 849,
+          "recovered": 25295
         }
       }
     }
@@ -833,10 +833,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 341699,
+      "confirmed": 345969,
       "date": "2020-09-26",
-      "deaths": 8867,
-      "recovered": 273266
+      "deaths": 8935,
+      "recovered": 276918
     }
   },
   "Ireland": {
@@ -1085,10 +1085,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 70614,
+      "confirmed": 71821,
       "date": "2020-09-26",
-      "deaths": 459,
-      "recovered": 51866
+      "deaths": 467,
+      "recovered": 53013
     }
   },
   "Netherlands": {
@@ -1357,7 +1357,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 33238,
+      "confirmed": 33312,
       "date": "2020-09-26",
       "deaths": 746,
       "recovered": 0
@@ -1493,6 +1493,14 @@
   },
   "US": {
     "subseries": {
+      "Alabama": {
+        "live": {
+          "confirmed": 19676,
+          "date": "2020-09-26",
+          "deaths": 351,
+          "recovered": 0
+        }
+      },
       "Arizona": {
         "live": {
           "confirmed": 166018,
@@ -1519,9 +1527,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 464242,
+          "confirmed": 444595,
           "date": "2020-09-26",
-          "deaths": 9077,
+          "deaths": 8551,
           "recovered": 0
         }
       },
@@ -1553,7 +1561,7 @@
         "live": {
           "confirmed": 51180,
           "date": "2020-09-26",
-          "deaths": 1667,
+          "deaths": 1671,
           "recovered": 0
         }
       },
