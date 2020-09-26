@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 781,
           "recovered": 1992,
-          "tested": 2622822
+          "tested": 2635282
         },
         "WA": {
           "confirmed": 665,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 45153,
+        "confirmed": 45244,
         "deaths": 1063,
-        "recovered": 41317
+        "recovered": 41415
       },
       "back_2week": {
-        "confirmed": 44684,
+        "confirmed": 44761,
         "deaths": 1061,
-        "recovered": 40487
+        "recovered": 40631
       },
       "latest": {
-        "confirmed": 45757,
+        "confirmed": 45932,
         "deaths": 1063,
-        "recovered": 42005
+        "recovered": 42147
       }
     },
     "KHM": {
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 57532,
+        "confirmed": 57543,
         "deaths": 27,
         "recovered": 57039
       },
       "back_2week": {
-        "confirmed": 57229,
+        "confirmed": 57315,
         "deaths": 27,
         "recovered": 56558
       },
       "latest": {
-        "confirmed": 57654,
+        "confirmed": 57665,
         "deaths": 27,
         "recovered": 57333
       }

@@ -937,10 +937,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 45932,
+      "confirmed": 46090,
       "date": "2020-09-26",
       "deaths": 1063,
-      "recovered": 42147
+      "recovered": 42302
     }
   },
   "Lebanon": {
@@ -1365,7 +1365,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57665,
+      "confirmed": 57685,
       "date": "2020-09-26",
       "deaths": 27,
       "recovered": 57341
