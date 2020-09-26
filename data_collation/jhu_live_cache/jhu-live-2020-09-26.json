@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 68190,
       "date": "2020-09-26",
-      "deaths": 236,
+      "deaths": 239,
       "recovered": 61475
     }
   },
@@ -505,17 +505,17 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 110597,
+      "confirmed": 110957,
       "date": "2020-09-26",
-      "deaths": 2087,
-      "recovered": 84610
+      "deaths": 2093,
+      "recovered": 85220
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 132475,
+      "confirmed": 133981,
       "date": "2020-09-26",
-      "deaths": 11236,
+      "deaths": 11273,
       "recovered": 102852
     }
   },
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 217899,
+      "confirmed": 226586,
       "date": "2020-09-26",
-      "deaths": 1412,
-      "recovered": 153574
+      "deaths": 1417,
+      "recovered": 157523
     }
   },
   "Italy": {
@@ -1069,10 +1069,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 112522,
+      "confirmed": 115241,
       "date": "2020-09-26",
-      "deaths": 1998,
-      "recovered": 91932
+      "deaths": 2041,
+      "recovered": 94150
     }
   },
   "Nepal": {
@@ -1503,7 +1503,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 620824,
+          "confirmed": 620919,
           "date": "2020-09-26",
           "deaths": 12886,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20627,
+          "confirmed": 20687,
           "date": "2020-09-26",
           "deaths": 586,
           "recovered": 0
