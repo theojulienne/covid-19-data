@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 25594,
+      "confirmed": 26213,
       "date": "2020-09-26",
-      "deaths": 647,
-      "recovered": 19010
+      "deaths": 648,
+      "recovered": 19350
     }
   },
   "Dominican Republic": {
@@ -571,7 +571,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 19748,
+          "confirmed": 19756,
           "date": "2020-09-26",
           "deaths": 683,
           "recovered": 17180
@@ -582,7 +582,7 @@
           "confirmed": 67903,
           "date": "2020-09-26",
           "deaths": 1863,
-          "recovered": 60103
+          "recovered": 60388
         }
       }
     }
@@ -897,8 +897,8 @@
         "live": {
           "confirmed": 25123,
           "date": "2020-09-26",
-          "deaths": 399,
-          "recovered": 22121
+          "deaths": 400,
+          "recovered": 22429
         }
       }
     }
@@ -929,10 +929,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 102441,
+      "confirmed": 103199,
       "date": "2020-09-26",
-      "deaths": 595,
-      "recovered": 93562
+      "deaths": 597,
+      "recovered": 94211
     }
   },
   "Kyrgyzstan": {
@@ -1273,10 +1273,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 124650,
+      "confirmed": 124850,
       "date": "2020-09-26",
-      "deaths": 212,
-      "recovered": 121512
+      "deaths": 214,
+      "recovered": 121738
     }
   },
   "Romania": {
@@ -1349,10 +1349,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 332329,
+      "confirmed": 332790,
       "date": "2020-09-26",
-      "deaths": 4625,
-      "recovered": 315636
+      "deaths": 4655,
+      "recovered": 316405
     }
   },
   "Serbia": {
