@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39186,
+      "confirmed": 39192,
       "date": "2020-09-26",
-      "deaths": 1451,
-      "recovered": 32619
+      "deaths": 1453,
+      "recovered": 32635
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 48643,
+      "confirmed": 49072,
       "date": "2020-09-26",
-      "deaths": 947,
-      "recovered": 43401
+      "deaths": 948,
+      "recovered": 43576
     }
   },
   "Australia": {
@@ -38,7 +38,7 @@
           "confirmed": 20129,
           "date": "2020-09-26",
           "deaths": 782,
-          "recovered": 18794
+          "recovered": 18842
         }
       }
     }
@@ -555,26 +555,34 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 48458,
+          "confirmed": 48467,
           "date": "2020-09-26",
           "deaths": 1877,
-          "recovered": 42635
+          "recovered": 42844
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 66635,
+          "confirmed": 67005,
           "date": "2020-09-26",
           "deaths": 2657,
-          "recovered": 58672
+          "recovered": 58945
+        }
+      },
+      "Niedersachsen": {
+        "live": {
+          "confirmed": 19748,
+          "date": "2020-09-26",
+          "deaths": 683,
+          "recovered": 17180
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 67278,
+          "confirmed": 67903,
           "date": "2020-09-26",
-          "deaths": 1861,
-          "recovered": 60388
+          "deaths": 1863,
+          "recovered": 60103
         }
       }
     }
@@ -605,10 +613,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 22127,
+      "confirmed": 23077,
       "date": "2020-09-26",
-      "deaths": 718,
-      "recovered": 4945
+      "deaths": 730,
+      "recovered": 5099
     }
   },
   "India": {
@@ -887,7 +895,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 24853,
+          "confirmed": 25123,
           "date": "2020-09-26",
           "deaths": 399,
           "recovered": 22121
@@ -1687,14 +1695,6 @@
           "date": "2020-09-26",
           "deaths": 350,
           "recovered": 6387
-        }
-      },
-      "Lviv Oblast": {
-        "live": {
-          "confirmed": 19636,
-          "date": "2020-09-26",
-          "deaths": 551,
-          "recovered": 6613
         }
       }
     }
