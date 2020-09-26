@@ -2051,18 +2051,18 @@
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 25822,
-        "deaths": 409,
+        "confirmed": 26438,
+        "deaths": 418,
         "recovered": 13908
       },
       "back_2week": {
-        "confirmed": 20939,
-        "deaths": 339,
+        "confirmed": 21908,
+        "deaths": 352,
         "recovered": 2420
       },
       "latest": {
-        "confirmed": 30632,
-        "deaths": 474,
+        "confirmed": 31290,
+        "deaths": 491,
         "recovered": 16842
       }
     },
