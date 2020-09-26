@@ -355,10 +355,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 70307,
+          "confirmed": 71005,
           "date": "2020-09-26",
-          "deaths": 5814,
-          "recovered": 60256
+          "deaths": 5821,
+          "recovered": 60660
         }
       }
     }
@@ -597,10 +597,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 88878,
+      "confirmed": 89702,
       "date": "2020-09-26",
-      "deaths": 3186,
-      "recovered": 77750
+      "deaths": 3213,
+      "recovered": 78284
     }
   },
   "Honduras": {
@@ -1061,10 +1061,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 49666,
+      "confirmed": 50534,
       "date": "2020-09-26",
-      "deaths": 1264,
-      "recovered": 37023
+      "deaths": 1279,
+      "recovered": 37440
     }
   },
   "Morocco": {
@@ -1543,9 +1543,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 21196,
+          "confirmed": 21322,
           "date": "2020-09-26",
-          "deaths": 765,
+          "deaths": 766,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 26706,
+          "confirmed": 26960,
           "date": "2020-09-26",
-          "deaths": 928,
+          "deaths": 930,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 65583,
+          "confirmed": 66009,
           "date": "2020-09-26",
-          "deaths": 1368,
+          "deaths": 1377,
           "recovered": 0
         }
       },
@@ -1607,7 +1607,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 356844,
+          "confirmed": 357416,
           "date": "2020-09-26",
           "deaths": 28356,
           "recovered": 0
@@ -1615,9 +1615,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 28416,
+          "confirmed": 28579,
           "date": "2020-09-26",
-          "deaths": 347,
+          "deaths": 352,
           "recovered": 0
         }
       },
