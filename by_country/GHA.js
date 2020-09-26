@@ -499,6 +499,7 @@ var covid19_dataset_country_gha = {
       46062,
       46062,
       46153,
+      46222,
       46222
     ],
     "deaths": [
@@ -747,6 +748,7 @@ var covid19_dataset_country_gha = {
       297,
       297,
       297,
+      299,
       299,
       299
     ],
@@ -997,6 +999,7 @@ var covid19_dataset_country_gha = {
       45258,
       45258,
       45299,
+      45417,
       45417
     ]
   }

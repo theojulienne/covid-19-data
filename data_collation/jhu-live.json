@@ -531,7 +531,7 @@
     "live": {
       "confirmed": 28415,
       "date": "2020-09-26",
-      "deaths": 823,
+      "deaths": 826,
       "recovered": 22643
     }
   },
@@ -1745,10 +1745,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 70406,
+      "confirmed": 71273,
       "date": "2020-09-26",
-      "deaths": 581,
-      "recovered": 59745
+      "deaths": 591,
+      "recovered": 60709
     }
   },
   "West Bank and Gaza": {
