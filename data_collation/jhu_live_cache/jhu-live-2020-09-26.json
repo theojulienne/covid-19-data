@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 39787,
+      "confirmed": 39895,
       "date": "2020-09-26",
-      "deaths": 583,
-      "recovered": 37392
+      "deaths": 585,
+      "recovered": 37523
     }
   },
   "Bahrain": {
@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 26564,
+      "confirmed": 26797,
       "date": "2020-09-26",
-      "deaths": 808,
-      "recovered": 19507
+      "deaths": 820,
+      "recovered": 19746
     }
   },
   "Brazil": {
@@ -563,7 +563,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 67005,
+          "confirmed": 67015,
           "date": "2020-09-26",
           "deaths": 2657,
           "recovered": 58945
@@ -1095,17 +1095,17 @@
     "subseries": {
       "Noord-Holland": {
         "live": {
-          "confirmed": 21382,
+          "confirmed": 22051,
           "date": "2020-09-26",
-          "deaths": 850,
+          "deaths": 853,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 31156,
+          "confirmed": 32083,
           "date": "2020-09-26",
-          "deaths": 1385,
+          "deaths": 1391,
           "recovered": 0
         }
       }
@@ -1753,10 +1753,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 37963,
+      "confirmed": 38253,
       "date": "2020-09-26",
-      "deaths": 278,
-      "recovered": 27183
+      "deaths": 285,
+      "recovered": 27704
     }
   }
 }
