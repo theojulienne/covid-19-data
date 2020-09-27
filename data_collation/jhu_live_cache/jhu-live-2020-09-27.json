@@ -53,10 +53,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 39895,
+      "confirmed": 40023,
       "date": "2020-09-27",
-      "deaths": 585,
-      "recovered": 37523
+      "deaths": 586,
+      "recovered": 37655
     }
   },
   "Bahrain": {
@@ -77,10 +77,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 77289,
+      "confirmed": 77609,
       "date": "2020-09-27",
-      "deaths": 813,
-      "recovered": 74046
+      "deaths": 818,
+      "recovered": 74120
     }
   },
   "Belgium": {
@@ -101,9 +101,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 26797,
+      "confirmed": 26920,
       "date": "2020-09-27",
-      "deaths": 820,
+      "deaths": 822,
       "recovered": 19746
     }
   },
@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 26213,
+      "confirmed": 26637,
       "date": "2020-09-27",
-      "deaths": 648,
-      "recovered": 19350
+      "deaths": 649,
+      "recovered": 19650
     }
   },
   "Dominican Republic": {
@@ -817,10 +817,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 443086,
+      "confirmed": 446448,
       "date": "2020-09-27",
-      "deaths": 25394,
-      "recovered": 372051
+      "deaths": 25589,
+      "recovered": 374170
     }
   },
   "Iraq": {
@@ -921,10 +921,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 103199,
+      "confirmed": 103544,
       "date": "2020-09-27",
-      "deaths": 597,
-      "recovered": 94211
+      "deaths": 601,
+      "recovered": 94929
     }
   },
   "Kyrgyzstan": {
@@ -1077,10 +1077,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 71821,
+      "confirmed": 73394,
       "date": "2020-09-27",
-      "deaths": 467,
-      "recovered": 53013
+      "deaths": 477,
+      "recovered": 53898
     }
   },
   "Netherlands": {
@@ -1265,10 +1265,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 124850,
+      "confirmed": 125084,
       "date": "2020-09-27",
       "deaths": 214,
-      "recovered": 121738
+      "recovered": 121995
     }
   },
   "Romania": {
