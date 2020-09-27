@@ -249,7 +249,8 @@ var covid19_dataset_country_ken = {
     "2020-09-24",
     "2020-09-25",
     "2020-09-26",
-    "2020-09-27"
+    "2020-09-27",
+    "2020-09-28"
   ],
   "total": {
     "confirmed": [
@@ -750,8 +751,7 @@ var covid19_dataset_country_ken = {
       659,
       664,
       669,
-      682,
-      689
+      682
     ],
     "recovered": [
       0,
