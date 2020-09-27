@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 133222,
+      "confirmed": 133592,
       "date": "2020-09-27",
-      "deaths": 7800,
-      "recovered": 92868
+      "deaths": 7828,
+      "recovered": 93406
     }
   },
   "Bosnia and Herzegovina": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 107659,
+      "confirmed": 107723,
       "date": "2020-09-27",
       "deaths": 1699,
       "recovered": 102530
@@ -921,10 +921,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 23516,
+      "confirmed": 23611,
       "date": "2020-09-27",
-      "deaths": 399,
-      "recovered": 21166
+      "deaths": 401,
+      "recovered": 21248
     }
   },
   "Kuwait": {
@@ -1745,10 +1745,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 71273,
+      "confirmed": 71940,
       "date": "2020-09-27",
-      "deaths": 591,
-      "recovered": 60709
+      "deaths": 600,
+      "recovered": 61528
     }
   },
   "West Bank and Gaza": {
