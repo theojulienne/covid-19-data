@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 68775,
       "date": "2020-09-27",
-      "deaths": 239,
+      "deaths": 242,
       "recovered": 62252
     }
   },
@@ -905,10 +905,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 37871,
+      "confirmed": 38115,
       "date": "2020-09-27",
-      "deaths": 689,
-      "recovered": 24581
+      "deaths": 691,
+      "recovered": 24621
     }
   },
   "Korea, South": {
@@ -945,10 +945,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 31828,
+      "confirmed": 32364,
       "date": "2020-09-27",
-      "deaths": 499,
-      "recovered": 17832
+      "deaths": 520,
+      "recovered": 18128
     }
   },
   "Mexico": {
@@ -1257,10 +1257,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 72939,
+      "confirmed": 73604,
       "date": "2020-09-27",
-      "deaths": 1944,
-      "recovered": 47380
+      "deaths": 1953,
+      "recovered": 47647
     }
   },
   "Qatar": {
@@ -1341,10 +1341,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 332790,
+      "confirmed": 333193,
       "date": "2020-09-27",
-      "deaths": 4655,
-      "recovered": 316405
+      "deaths": 4683,
+      "recovered": 317005
     }
   },
   "Serbia": {
@@ -1360,7 +1360,7 @@
       "confirmed": 57700,
       "date": "2020-09-27",
       "deaths": 27,
-      "recovered": 57359
+      "recovered": 57367
     }
   },
   "South Africa": {
@@ -1655,7 +1655,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20687,
+          "confirmed": 20801,
           "date": "2020-09-27",
           "deaths": 586,
           "recovered": 0
@@ -1737,10 +1737,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 54953,
+      "confirmed": 55320,
       "date": "2020-09-27",
-      "deaths": 454,
-      "recovered": 51458
+      "deaths": 458,
+      "recovered": 51829
     }
   },
   "Venezuela": {
