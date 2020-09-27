@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 51439,
+          "confirmed": 51663,
           "date": "2020-09-27",
           "deaths": 2887,
-          "recovered": 44405
+          "recovered": 44564
         }
       },
       "Quebec": {
@@ -1087,17 +1087,17 @@
     "subseries": {
       "Noord-Holland": {
         "live": {
-          "confirmed": 22051,
+          "confirmed": 22828,
           "date": "2020-09-27",
-          "deaths": 853,
+          "deaths": 856,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 32083,
+          "confirmed": 33110,
           "date": "2020-09-27",
-          "deaths": 1391,
+          "deaths": 1394,
           "recovered": 0
         }
       }
@@ -1349,9 +1349,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 33312,
+      "confirmed": 33384,
       "date": "2020-09-27",
-      "deaths": 746,
+      "deaths": 747,
       "recovered": 0
     }
   },
@@ -1753,10 +1753,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 38253,
+      "confirmed": 38703,
       "date": "2020-09-27",
-      "deaths": 285,
-      "recovered": 27704
+      "deaths": 291,
+      "recovered": 29068
     }
   }
 }
