@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 19997,
+      "confirmed": 20055,
       "date": "2020-09-27",
-      "deaths": 789,
-      "recovered": 14160
+      "deaths": 796,
+      "recovered": 14176
     }
   },
   "Cameroon": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 51898,
+          "confirmed": 51964,
           "date": "2020-09-27",
           "deaths": 2888,
-          "recovered": 44688
+          "recovered": 44765
         }
       },
       "Quebec": {
@@ -521,10 +521,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 102736,
+      "confirmed": 102840,
       "date": "2020-09-27",
-      "deaths": 5869,
-      "recovered": 94374
+      "deaths": 5883,
+      "recovered": 95080
     }
   },
   "El Salvador": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 624367,
+          "confirmed": 625193,
           "date": "2020-09-27",
-          "deaths": 12925,
+          "deaths": 12935,
           "recovered": 0
         }
       },
@@ -1745,10 +1745,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 71940,
+      "confirmed": 72691,
       "date": "2020-09-27",
-      "deaths": 600,
-      "recovered": 61528
+      "deaths": 606,
+      "recovered": 62427
     }
   },
   "West Bank and Gaza": {
