@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 357873,
+      "confirmed": 359148,
       "date": "2020-09-27",
-      "deaths": 5129,
-      "recovered": 268777
+      "deaths": 5161,
+      "recovered": 270491
     }
   },
   "Belarus": {
@@ -563,7 +563,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 19772,
+          "confirmed": 19838,
           "date": "2020-09-27",
           "deaths": 683,
           "recovered": 17264
@@ -1113,10 +1113,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 95907,
+      "confirmed": 97450,
       "date": "2020-09-27",
-      "deaths": 885,
-      "recovered": 86765
+      "deaths": 909,
+      "recovered": 87801
     }
   },
   "Pakistan": {
