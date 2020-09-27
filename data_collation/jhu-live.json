@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 110976,
+      "confirmed": 112803,
       "date": "2020-09-27",
-      "deaths": 9969,
-      "recovered": 19184
+      "deaths": 9974,
+      "recovered": 19246
     }
   },
   "Bolivia": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 51275,
+          "confirmed": 51439,
           "date": "2020-09-27",
-          "deaths": 2886,
-          "recovered": 44332
+          "deaths": 2887,
+          "recovered": 44405
         }
       },
       "Quebec": {
@@ -417,64 +417,64 @@
         "live": {
           "confirmed": 110870,
           "date": "2020-09-27",
-          "deaths": 2296,
-          "recovered": 95140
+          "deaths": 2314,
+          "recovered": 97932
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 67216,
           "date": "2020-09-27",
-          "deaths": 3053,
-          "recovered": 62635
+          "deaths": 3057,
+          "recovered": 62816
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 28523,
           "date": "2020-09-27",
-          "deaths": 764,
-          "recovered": 26747
+          "deaths": 765,
+          "recovered": 26841
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 262956,
           "date": "2020-09-27",
-          "deaths": 6650,
-          "recovered": 225706
+          "deaths": 6683,
+          "recovered": 229459
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 23631,
           "date": "2020-09-27",
-          "deaths": 1511,
-          "recovered": 20352
+          "deaths": 1520,
+          "recovered": 20513
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 32641,
           "date": "2020-09-27",
-          "deaths": 952,
-          "recovered": 27724
+          "deaths": 963,
+          "recovered": 28226
         }
       },
       "Santander": {
         "live": {
           "confirmed": 29952,
           "date": "2020-09-27",
-          "deaths": 1236,
-          "recovered": 23267
+          "deaths": 1249,
+          "recovered": 24084
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 60369,
           "date": "2020-09-27",
-          "deaths": 2189,
-          "recovered": 50944
+          "deaths": 2207,
+          "recovered": 51770
         }
       }
     }
@@ -908,7 +908,7 @@
       "confirmed": 107723,
       "date": "2020-09-27",
       "deaths": 1699,
-      "recovered": 102530
+      "recovered": 102666
     }
   },
   "Kenya": {
