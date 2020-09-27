@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 121235,
+      "confirmed": 122673,
       "date": "2020-09-27",
-      "deaths": 4687,
-      "recovered": 97554
+      "deaths": 4718,
+      "recovered": 98607
     }
   },
   "Russia": {
@@ -1701,10 +1701,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 90618,
+      "confirmed": 91469,
       "date": "2020-09-27",
-      "deaths": 411,
-      "recovered": 79676
+      "deaths": 412,
+      "recovered": 80544
     }
   },
   "United Kingdom": {
