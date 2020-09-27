@@ -632,7 +632,7 @@ var covid19_dataset_latest_totals = {
         },
         "Quebec": {
           "confirmed": 71005,
-          "deaths": 5814
+          "deaths": 5821
         },
         "Saskatchewan": {
           "confirmed": 1846,
