@@ -4825,7 +4825,7 @@ var covid19_dataset_country_can = {
           51166,
           51439,
           52134,
-          52309
+          52419
         ],
         "deaths": [
           0,
@@ -7623,7 +7623,7 @@ var covid19_dataset_country_can = {
       152717,
       153770,
       155428,
-      156353
+      156463
     ],
     "deaths": [
       0,
