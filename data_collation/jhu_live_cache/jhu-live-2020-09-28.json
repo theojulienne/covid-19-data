@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 26920,
+      "confirmed": 27001,
       "date": "2020-09-28",
-      "deaths": 822,
-      "recovered": 19746
+      "deaths": 829,
+      "recovered": 20005
     }
   },
   "Brazil": {
@@ -1543,7 +1543,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 51570,
+          "confirmed": 51726,
           "date": "2020-09-28",
           "deaths": 1675,
           "recovered": 0
@@ -1575,7 +1575,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 24104,
+          "confirmed": 24207,
           "date": "2020-09-28",
           "deaths": 801,
           "recovered": 0
@@ -1639,9 +1639,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 455342,
+          "confirmed": 455348,
           "date": "2020-09-28",
-          "deaths": 9601,
+          "deaths": 9612,
           "recovered": 0
         }
       },
