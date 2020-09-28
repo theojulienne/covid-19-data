@@ -38,7 +38,7 @@
           "confirmed": 20149,
           "date": "2020-09-28",
           "deaths": 787,
-          "recovered": 18901
+          "recovered": 18942
         }
       }
     }
@@ -365,14 +365,6 @@
   },
   "Chile": {
     "subseries": {
-      "Antofagasta": {
-        "live": {
-          "confirmed": 19833,
-          "date": "2020-09-28",
-          "deaths": 491,
-          "recovered": 18861
-        }
-      },
       "Biobio": {
         "live": {
           "confirmed": 23153,
@@ -1503,7 +1495,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 625470,
+          "confirmed": 625523,
           "date": "2020-09-28",
           "deaths": 12936,
           "recovered": 0
@@ -1691,10 +1683,18 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 21815,
+          "confirmed": 22143,
           "date": "2020-09-28",
-          "deaths": 361,
-          "recovered": 6482
+          "deaths": 369,
+          "recovered": 6505
+        }
+      },
+      "Lviv Oblast": {
+        "live": {
+          "confirmed": 19916,
+          "date": "2020-09-28",
+          "deaths": 555,
+          "recovered": 6745
         }
       }
     }
@@ -1737,9 +1737,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 55401,
+      "confirmed": 55593,
       "date": "2020-09-28",
-      "deaths": 459,
+      "deaths": 460,
       "recovered": 51965
     }
   },
