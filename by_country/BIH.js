@@ -250,7 +250,8 @@ var covid19_dataset_country_bih = {
     "2020-09-25",
     "2020-09-26",
     "2020-09-27",
-    "2020-09-28"
+    "2020-09-28",
+    "2020-09-29"
   ],
   "total": {
     "confirmed": [
@@ -502,8 +503,7 @@ var covid19_dataset_country_bih = {
       26081,
       26316,
       26564,
-      26797,
-      26920
+      26797
     ],
     "deaths": [
       0,
@@ -754,8 +754,7 @@ var covid19_dataset_country_bih = {
       790,
       802,
       808,
-      820,
-      822
+      820
     ],
     "recovered": [
       0,
