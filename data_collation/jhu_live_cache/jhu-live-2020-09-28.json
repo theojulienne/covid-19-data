@@ -63,7 +63,7 @@
     "live": {
       "confirmed": 69361,
       "date": "2020-09-28",
-      "deaths": 242,
+      "deaths": 243,
       "recovered": 62887
     }
   },
@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 26637,
+      "confirmed": 27072,
       "date": "2020-09-28",
       "deaths": 649,
-      "recovered": 19650
+      "recovered": 19942
     }
   },
   "Dominican Republic": {
@@ -521,10 +521,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 28630,
+      "confirmed": 28809,
       "date": "2020-09-28",
-      "deaths": 826,
-      "recovered": 22879
+      "deaths": 831,
+      "recovered": 23317
     }
   },
   "Ethiopia": {
@@ -1737,10 +1737,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 55593,
+      "confirmed": 55776,
       "date": "2020-09-28",
       "deaths": 460,
-      "recovered": 51965
+      "recovered": 52324
     }
   },
   "Venezuela": {
