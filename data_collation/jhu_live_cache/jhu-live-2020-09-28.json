@@ -1131,26 +1131,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37617,
+          "confirmed": 37701,
           "date": "2020-09-28",
           "deaths": 1259,
-          "recovered": 35931
+          "recovered": 35951
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 99128,
+          "confirmed": 99219,
           "date": "2020-09-28",
-          "deaths": 2230,
-          "recovered": 95314
+          "deaths": 2231,
+          "recovered": 95421
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 135766,
+          "confirmed": 136017,
           "date": "2020-09-28",
-          "deaths": 2486,
-          "recovered": 129546
+          "deaths": 2492,
+          "recovered": 129753
         }
       }
     }
@@ -1599,9 +1599,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 64008,
+          "confirmed": 64103,
           "date": "2020-09-28",
-          "deaths": 5689,
+          "deaths": 5690,
           "recovered": 0
         }
       },
