@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 114179,
+      "confirmed": 115353,
       "date": "2020-09-29",
-      "deaths": 9980,
-      "recovered": 19275
+      "deaths": 9987,
+      "recovered": 19301
     }
   },
   "Bolivia": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 52436,
+          "confirmed": 52449,
           "date": "2020-09-29",
           "deaths": 2889,
-          "recovered": 45028
+          "recovered": 45039
         }
       },
       "Quebec": {
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 75109,
+      "confirmed": 75537,
       "date": "2020-09-29",
-      "deaths": 2289,
-      "recovered": 26374
+      "deaths": 2301,
+      "recovered": 26957
     }
   },
   "Hungary": {
@@ -897,10 +897,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 107775,
+      "confirmed": 107833,
       "date": "2020-09-29",
       "deaths": 1699,
-      "recovered": 102736
+      "recovered": 102805
     }
   },
   "Kenya": {
@@ -1123,26 +1123,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37701,
+          "confirmed": 37727,
           "date": "2020-09-29",
           "deaths": 1259,
-          "recovered": 35951
+          "recovered": 35971
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 99219,
+          "confirmed": 99292,
           "date": "2020-09-29",
-          "deaths": 2231,
-          "recovered": 95421
+          "deaths": 2234,
+          "recovered": 95436
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 136017,
+          "confirmed": 136395,
           "date": "2020-09-29",
-          "deaths": 2492,
-          "recovered": 129753
+          "deaths": 2495,
+          "recovered": 129892
         }
       }
     }
@@ -1745,10 +1745,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 72691,
+      "confirmed": 73528,
       "date": "2020-09-29",
-      "deaths": 606,
-      "recovered": 62427
+      "deaths": 614,
+      "recovered": 63346
     }
   },
   "West Bank and Gaza": {
