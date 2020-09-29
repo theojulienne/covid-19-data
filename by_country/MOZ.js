@@ -505,7 +505,8 @@ var covid19_dataset_country_moz = {
       7399,
       7589,
       7757,
-      7983
+      7983,
+      8288
     ],
     "deaths": [
       0,
@@ -757,7 +758,8 @@ var covid19_dataset_country_moz = {
       51,
       53,
       54,
-      58
+      58,
+      59
     ],
     "recovered": [
       0,
@@ -1009,7 +1011,8 @@ var covid19_dataset_country_moz = {
       4558,
       4649,
       4769,
-      4807
+      4807,
+      4836
     ]
   }
 };
