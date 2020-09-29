@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 53084,
+          "confirmed": 53115,
           "date": "2020-09-29",
           "deaths": 2892,
-          "recovered": 45391
+          "recovered": 45452
         }
       },
       "Quebec": {
@@ -1497,7 +1497,7 @@
         "live": {
           "confirmed": 628278,
           "date": "2020-09-29",
-          "deaths": 12995,
+          "deaths": 13038,
           "recovered": 0
         }
       },
