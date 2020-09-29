@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 52976,
+          "confirmed": 52985,
           "date": "2020-09-29",
           "deaths": 2892,
-          "recovered": 45264
+          "recovered": 45269
         }
       },
       "Quebec": {
@@ -529,18 +529,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 73944,
+      "confirmed": 74584,
       "date": "2020-09-29",
-      "deaths": 1177,
-      "recovered": 30753
+      "deaths": 1191,
+      "recovered": 30952
     }
   },
   "France": {
     "live": {
-      "confirmed": 556673,
+      "confirmed": 564724,
       "date": "2020-09-29",
-      "deaths": 31627,
-      "recovered": 78158
+      "deaths": 31712,
+      "recovered": 78711
     }
   },
   "Germany": {
@@ -937,10 +937,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 37272,
+      "confirmed": 38377,
       "date": "2020-09-29",
-      "deaths": 351,
-      "recovered": 16676
+      "deaths": 361,
+      "recovered": 17110
     }
   },
   "Libya": {
@@ -1069,10 +1069,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 119107,
+      "confirmed": 121183,
       "date": "2020-09-29",
-      "deaths": 2113,
-      "recovered": 97468
+      "deaths": 2152,
+      "recovered": 100253
     }
   },
   "Nepal": {
@@ -1497,7 +1497,7 @@
         "live": {
           "confirmed": 627721,
           "date": "2020-09-29",
-          "deaths": 12962,
+          "deaths": 12995,
           "recovered": 0
         }
       },
@@ -1599,7 +1599,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 358431,
+          "confirmed": 359082,
           "date": "2020-09-29",
           "deaths": 28375,
           "recovered": 0
@@ -1615,17 +1615,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 27119,
+          "confirmed": 27283,
           "date": "2020-09-29",
-          "deaths": 607,
+          "deaths": 615,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 36452,
+          "confirmed": 37067,
           "date": "2020-09-29",
-          "deaths": 1800,
+          "deaths": 1801,
           "recovered": 0
         }
       },
