@@ -761,7 +761,7 @@ var covid19_dataset_country_uzb = {
       452,
       458,
       460,
-      462
+      463
     ],
     "recovered": [
       0,
