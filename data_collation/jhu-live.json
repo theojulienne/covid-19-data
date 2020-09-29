@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 52985,
+          "confirmed": 53084,
           "date": "2020-09-29",
           "deaths": 2892,
-          "recovered": 45269
+          "recovered": 45391
         }
       },
       "Quebec": {
@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 564724,
+      "confirmed": 564690,
       "date": "2020-09-29",
-      "deaths": 31712,
-      "recovered": 78711
+      "deaths": 31711,
+      "recovered": 78678
     }
   },
   "Germany": {
@@ -1495,7 +1495,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 627721,
+          "confirmed": 628278,
           "date": "2020-09-29",
           "deaths": 12995,
           "recovered": 0
@@ -1519,9 +1519,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 55029,
+          "confirmed": 55169,
           "date": "2020-09-29",
-          "deaths": 980,
+          "deaths": 983,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 55791,
+          "confirmed": 56066,
           "date": "2020-09-29",
-          "deaths": 4179,
+          "deaths": 4185,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 57719,
+          "confirmed": 57894,
           "date": "2020-09-29",
-          "deaths": 767,
+          "deaths": 777,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 31079,
+          "confirmed": 31345,
           "date": "2020-09-29",
-          "deaths": 251,
+          "deaths": 253,
           "recovered": 0
         }
       },
@@ -1671,7 +1671,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 28692,
+          "confirmed": 28934,
           "date": "2020-09-29",
           "deaths": 529,
           "recovered": 0
