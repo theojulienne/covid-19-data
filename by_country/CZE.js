@@ -251,7 +251,8 @@ var covid19_dataset_country_cze = {
     "2020-09-26",
     "2020-09-27",
     "2020-09-28",
-    "2020-09-29"
+    "2020-09-29",
+    "2020-09-30"
   ],
   "total": {
     "confirmed": [
@@ -504,8 +505,7 @@ var covid19_dataset_country_cze = {
       58374,
       61318,
       63294,
-      64597,
-      65313
+      64597
     ],
     "deaths": [
       0,
@@ -757,8 +757,7 @@ var covid19_dataset_country_cze = {
       567,
       581,
       591,
-      606,
-      615
+      606
     ],
     "recovered": [
       0,
