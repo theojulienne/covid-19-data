@@ -38,7 +38,7 @@
           "confirmed": 20158,
           "date": "2020-09-29",
           "deaths": 794,
-          "recovered": 18942
+          "recovered": 18978
         }
       }
     }
@@ -1497,7 +1497,7 @@
         "live": {
           "confirmed": 627568,
           "date": "2020-09-29",
-          "deaths": 12956,
+          "deaths": 12954,
           "recovered": 0
         }
       },
