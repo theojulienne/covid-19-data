@@ -217,7 +217,7 @@
           "current_icu": 5,
           "deaths": 787,
           "recovered": 1992,
-          "tested": 2661989
+          "tested": 2668796
         },
         "WA": {
           "confirmed": 676,
@@ -1932,19 +1932,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 45335,
+        "confirmed": 45471,
         "deaths": 1063,
-        "recovered": 41484
+        "recovered": 41682
       },
       "back_2week": {
-        "confirmed": 44881,
+        "confirmed": 44928,
         "deaths": 1063,
-        "recovered": 40922
+        "recovered": 41023
       },
       "latest": {
-        "confirmed": 46251,
+        "confirmed": 46355,
         "deaths": 1063,
-        "recovered": 42453
+        "recovered": 42613
       }
     },
     "KHM": {
@@ -2949,19 +2949,19 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 27553,
-        "deaths": 811,
-        "recovered": 21561
+        "confirmed": 27798,
+        "deaths": 812,
+        "recovered": 21782
       },
       "back_2week": {
-        "confirmed": 26928,
-        "deaths": 785,
-        "recovered": 18397
+        "confirmed": 27009,
+        "deaths": 788,
+        "recovered": 18924
       },
       "latest": {
-        "confirmed": 28630,
-        "deaths": 826,
-        "recovered": 22879
+        "confirmed": 28809,
+        "deaths": 831,
+        "recovered": 23317
       }
     },
     "SMR": {
@@ -3737,19 +3737,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 51640,
-        "deaths": 433,
-        "recovered": 47932
+        "confirmed": 52070,
+        "deaths": 437,
+        "recovered": 48369
       },
       "back_2week": {
-        "confirmed": 47287,
-        "deaths": 390,
-        "recovered": 43866
+        "confirmed": 47836,
+        "deaths": 396,
+        "recovered": 44375
       },
       "latest": {
-        "confirmed": 55320,
-        "deaths": 458,
-        "recovered": 51829
+        "confirmed": 55776,
+        "deaths": 460,
+        "recovered": 52324
       }
     },
     "VAT": {
