@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 362043,
+      "confirmed": 363479,
       "date": "2020-09-30",
-      "deaths": 5219,
-      "recovered": 273698
+      "deaths": 5251,
+      "recovered": 275487
     }
   },
   "Belarus": {
@@ -817,10 +817,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 453637,
+      "confirmed": 457219,
       "date": "2020-09-30",
-      "deaths": 25986,
-      "recovered": 378727
+      "deaths": 26169,
+      "recovered": 380956
     }
   },
   "Iraq": {
@@ -889,7 +889,7 @@
         "live": {
           "confirmed": 25751,
           "date": "2020-09-30",
-          "deaths": 407,
+          "deaths": 408,
           "recovered": 22779
         }
       }
@@ -1383,15 +1383,15 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 59873,
+          "confirmed": 61279,
           "date": "2020-09-30",
-          "deaths": 1780,
+          "deaths": 1805,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 35849,
+          "confirmed": 36090,
           "date": "2020-09-30",
           "deaths": 1360,
           "recovered": 3772
@@ -1399,57 +1399,57 @@
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 39171,
+          "confirmed": 40071,
           "date": "2020-09-30",
-          "deaths": 1587,
+          "deaths": 1595,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 41527,
+          "confirmed": 42478,
           "date": "2020-09-30",
-          "deaths": 3135,
+          "deaths": 3152,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 46459,
+          "confirmed": 47305,
           "date": "2020-09-30",
-          "deaths": 3020,
+          "deaths": 3032,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 138652,
+          "confirmed": 139164,
           "date": "2020-09-30",
-          "deaths": 5835,
+          "deaths": 5837,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 21017,
+          "confirmed": 21138,
           "date": "2020-09-30",
-          "deaths": 733,
+          "deaths": 734,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 227158,
+          "confirmed": 230386,
           "date": "2020-09-30",
-          "deaths": 9246,
+          "deaths": 9353,
           "recovered": 40736
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 43668,
+          "confirmed": 44000,
           "date": "2020-09-30",
-          "deaths": 1848,
+          "deaths": 1860,
           "recovered": 16160
         }
       }
@@ -1477,9 +1477,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 52871,
+      "confirmed": 53282,
       "date": "2020-09-30",
-      "deaths": 2069,
+      "deaths": 2074,
       "recovered": 42700
     }
   },
