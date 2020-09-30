@@ -523,7 +523,7 @@
     "live": {
       "confirmed": 28981,
       "date": "2020-09-30",
-      "deaths": 839,
+      "deaths": 843,
       "recovered": 23685
     }
   },
@@ -1683,18 +1683,18 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 22559,
+          "confirmed": 22778,
           "date": "2020-09-30",
-          "deaths": 373,
-          "recovered": 6553
+          "deaths": 381,
+          "recovered": 6710
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 20085,
+          "confirmed": 20350,
           "date": "2020-09-30",
-          "deaths": 560,
-          "recovered": 6953
+          "deaths": 563,
+          "recovered": 7190
         }
       }
     }
@@ -1737,9 +1737,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 56354,
+      "confirmed": 56519,
       "date": "2020-09-30",
-      "deaths": 466,
+      "deaths": 468,
       "recovered": 52970
     }
   },
