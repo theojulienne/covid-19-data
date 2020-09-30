@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 53412,
+          "confirmed": 53521,
           "date": "2020-09-30",
-          "deaths": 2892,
-          "recovered": 45612
+          "deaths": 2894,
+          "recovered": 45682
         }
       },
       "Quebec": {
@@ -367,26 +367,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 23477,
+          "confirmed": 23610,
           "date": "2020-09-30",
           "deaths": 328,
-          "recovered": 21393
+          "recovered": 21575
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 286236,
+          "confirmed": 286701,
           "date": "2020-09-30",
-          "deaths": 9230,
-          "recovered": 273690
+          "deaths": 9246,
+          "recovered": 274142
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 27321,
+          "confirmed": 27442,
           "date": "2020-09-30",
           "deaths": 862,
-          "recovered": 25602
+          "recovered": 25713
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 111900,
+      "confirmed": 112209,
       "date": "2020-09-30",
-      "deaths": 2101,
-      "recovered": 86998
+      "deaths": 2105,
+      "recovered": 87629
     }
   },
   "Ecuador": {
@@ -589,10 +589,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 90968,
+      "confirmed": 91746,
       "date": "2020-09-30",
-      "deaths": 3238,
-      "recovered": 79654
+      "deaths": 3246,
+      "recovered": 80256
     }
   },
   "Honduras": {
@@ -851,34 +851,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 35210,
+          "confirmed": 35311,
           "date": "2020-09-30",
           "deaths": 4484,
-          "recovered": 26016
+          "recovered": 26174
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 106526,
+          "confirmed": 106727,
           "date": "2020-09-30",
-          "deaths": 16951,
-          "recovered": 80476
+          "deaths": 16955,
+          "recovered": 80712
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 35232,
+          "confirmed": 35402,
           "date": "2020-09-30",
-          "deaths": 4163,
-          "recovered": 28337
+          "deaths": 4164,
+          "recovered": 28394
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 27296,
+          "confirmed": 27451,
           "date": "2020-09-30",
-          "deaths": 2177,
-          "recovered": 21448
+          "deaths": 2178,
+          "recovered": 21541
         }
       }
     }
@@ -890,7 +890,7 @@
           "confirmed": 25751,
           "date": "2020-09-30",
           "deaths": 408,
-          "recovered": 22779
+          "recovered": 22956
         }
       }
     }
@@ -1360,7 +1360,7 @@
       "confirmed": 57765,
       "date": "2020-09-30",
       "deaths": 27,
-      "recovered": 57466
+      "recovered": 57488
     }
   },
   "South Africa": {
@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 449027,
           "date": "2020-09-30",
-          "deaths": 8663,
+          "deaths": 8764,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 51928,
+          "confirmed": 52078,
           "date": "2020-09-30",
           "deaths": 1677,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 458811,
+          "confirmed": 458855,
           "date": "2020-09-30",
-          "deaths": 9709,
+          "deaths": 9718,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 20924,
+          "confirmed": 20981,
           "date": "2020-09-30",
-          "deaths": 586,
+          "deaths": 588,
           "recovered": 0
         }
       },
