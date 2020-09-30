@@ -355,9 +355,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 73450,
+          "confirmed": 74288,
           "date": "2020-09-30",
-          "deaths": 5833,
+          "deaths": 5834,
           "recovered": 62095
         }
       }
@@ -481,10 +481,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 67843,
+      "confirmed": 68919,
       "date": "2020-09-30",
-      "deaths": 636,
-      "recovered": 32759
+      "deaths": 655,
+      "recovered": 33443
     }
   },
   "Denmark": {
@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 135749,
+      "confirmed": 137047,
       "date": "2020-09-30",
-      "deaths": 11312,
+      "deaths": 11355,
       "recovered": 112296
     }
   },
@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 564690,
+      "confirmed": 576907,
       "date": "2020-09-30",
-      "deaths": 31711,
-      "recovered": 78678
+      "deaths": 31769,
+      "recovered": 79128
     }
   },
   "Germany": {
@@ -1061,10 +1061,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 52029,
+      "confirmed": 53042,
       "date": "2020-09-30",
-      "deaths": 1310,
-      "recovered": 38579
+      "deaths": 1320,
+      "recovered": 38997
     }
   },
   "Morocco": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 630062,
           "date": "2020-09-30",
-          "deaths": 13099,
+          "deaths": 13102,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 21563,
+          "confirmed": 21671,
           "date": "2020-09-30",
           "deaths": 768,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 27557,
+          "confirmed": 27728,
           "date": "2020-09-30",
-          "deaths": 932,
+          "deaths": 936,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 28844,
+          "confirmed": 28975,
           "date": "2020-09-30",
-          "deaths": 354,
+          "deaths": 356,
           "recovered": 0
         }
       },
@@ -1745,10 +1745,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 56519,
+      "confirmed": 56717,
       "date": "2020-09-30",
-      "deaths": 468,
-      "recovered": 52970
+      "deaths": 470,
+      "recovered": 53366
     }
   },
   "Venezuela": {
