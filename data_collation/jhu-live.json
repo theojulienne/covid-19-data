@@ -563,9 +563,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 20162,
+          "confirmed": 20229,
           "date": "2020-09-30",
-          "deaths": 684,
+          "deaths": 685,
           "recovered": 17667
         }
       },
@@ -1265,18 +1265,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 125533,
+      "confirmed": 125760,
       "date": "2020-09-30",
       "deaths": 214,
-      "recovered": 122448
+      "recovered": 122699
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 125414,
+      "confirmed": 127572,
       "date": "2020-09-30",
-      "deaths": 4792,
-      "recovered": 100636
+      "deaths": 4825,
+      "recovered": 102476
     }
   },
   "Russia": {
