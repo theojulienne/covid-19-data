@@ -193,7 +193,7 @@
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1141,
-          "tested": 1099835
+          "tested": 1104203
         },
         "SA": {
           "confirmed": 468,
@@ -3389,7 +3389,7 @@
         "confirmed": 7066052,
         "deaths": 196414,
         "recovered": 2791567,
-        "tested": 98263261
+        "tested": 98263213
       },
       "states": {
         "AK": {
@@ -3717,7 +3717,7 @@
           "deaths": 1293,
           "hospitalized": 7142,
           "recovered": 96727,
-          "tested": 1529804
+          "tested": 1529756
         },
         "WV": {
           "confirmed": 15512,
