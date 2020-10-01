@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 51530,
+      "confirmed": 51690,
       "date": "2020-10-01",
-      "deaths": 1736,
-      "recovered": 36174
+      "deaths": 1741,
+      "recovered": 36282
     }
   },
   "Argentina": {
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 54172,
+          "confirmed": 54184,
           "date": "2020-10-01",
           "deaths": 2898,
-          "recovered": 46181
+          "recovered": 46184
         }
       },
       "Quebec": {
@@ -367,26 +367,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 23610,
+          "confirmed": 23824,
           "date": "2020-10-01",
-          "deaths": 328,
-          "recovered": 21575
+          "deaths": 338,
+          "recovered": 21754
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 286701,
+          "confirmed": 287116,
           "date": "2020-10-01",
-          "deaths": 9246,
-          "recovered": 274142
+          "deaths": 9262,
+          "recovered": 274501
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 27442,
+          "confirmed": 27566,
           "date": "2020-10-01",
-          "deaths": 862,
-          "recovered": 25713
+          "deaths": 882,
+          "recovered": 25806
         }
       }
     }
@@ -481,10 +481,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 70834,
+      "confirmed": 72162,
       "date": "2020-10-01",
-      "deaths": 658,
-      "recovered": 33557
+      "deaths": 676,
+      "recovered": 34093
     }
   },
   "Denmark": {
@@ -547,9 +547,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 49707,
+          "confirmed": 50097,
           "date": "2020-10-01",
-          "deaths": 1886,
+          "deaths": 1887,
           "recovered": 44032
         }
       },
@@ -833,9 +833,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 36155,
+      "confirmed": 36597,
       "date": "2020-10-01",
-      "deaths": 1804,
+      "deaths": 1806,
       "recovered": 23364
     }
   },
@@ -937,9 +937,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 39634,
+      "confirmed": 40882,
       "date": "2020-10-01",
-      "deaths": 367,
+      "deaths": 374,
       "recovered": 17565
     }
   },
@@ -1503,7 +1503,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 632476,
+          "confirmed": 632522,
           "date": "2020-10-01",
           "deaths": 13189,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 145462,
+          "confirmed": 146152,
           "date": "2020-10-01",
-          "deaths": 5225,
+          "deaths": 5229,
           "recovered": 0
         }
       },
@@ -1609,15 +1609,15 @@
         "live": {
           "confirmed": 359665,
           "date": "2020-10-01",
-          "deaths": 28379,
+          "deaths": 28387,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 28975,
+          "confirmed": 29132,
           "date": "2020-10-01",
-          "deaths": 356,
+          "deaths": 359,
           "recovered": 0
         }
       },
@@ -1647,15 +1647,15 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 462650,
+          "confirmed": 462701,
           "date": "2020-10-01",
-          "deaths": 9769,
+          "deaths": 9778,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 31700,
+          "confirmed": 32019,
           "date": "2020-10-01",
           "deaths": 253,
           "recovered": 0
