@@ -69,10 +69,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 363479,
+      "confirmed": 364987,
       "date": "2020-10-01",
-      "deaths": 5251,
-      "recovered": 275487
+      "deaths": 5272,
+      "recovered": 277078
     }
   },
   "Belarus": {
@@ -889,7 +889,7 @@
         "live": {
           "confirmed": 25986,
           "date": "2020-10-01",
-          "deaths": 408,
+          "deaths": 409,
           "recovered": 22956
         }
       }
