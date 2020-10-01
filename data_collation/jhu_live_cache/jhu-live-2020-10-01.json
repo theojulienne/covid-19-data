@@ -85,10 +85,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 117115,
+      "confirmed": 118452,
       "date": "2020-10-01",
-      "deaths": 10001,
-      "recovered": 19386
+      "deaths": 10016,
+      "recovered": 19454
     }
   },
   "Bolivia": {
@@ -409,64 +409,64 @@
         "live": {
           "confirmed": 115112,
           "date": "2020-10-01",
-          "deaths": 2389,
-          "recovered": 104346
+          "deaths": 2399,
+          "recovered": 106276
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 67551,
           "date": "2020-10-01",
-          "deaths": 3066,
-          "recovered": 63492
+          "deaths": 3072,
+          "recovered": 63682
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 28875,
           "date": "2020-10-01",
-          "deaths": 770,
-          "recovered": 27386
+          "deaths": 777,
+          "recovered": 27575
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 269201,
           "date": "2020-10-01",
-          "deaths": 6772,
-          "recovered": 235266
+          "deaths": 6783,
+          "recovered": 236897
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 23953,
           "date": "2020-10-01",
-          "deaths": 1539,
-          "recovered": 21270
+          "deaths": 1538,
+          "recovered": 21397
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 33478,
           "date": "2020-10-01",
-          "deaths": 990,
-          "recovered": 30001
+          "deaths": 997,
+          "recovered": 30436
         }
       },
       "Santander": {
         "live": {
           "confirmed": 31278,
           "date": "2020-10-01",
-          "deaths": 1305,
-          "recovered": 26309
+          "deaths": 1316,
+          "recovered": 26919
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 62702,
           "date": "2020-10-01",
-          "deaths": 2257,
-          "recovered": 54859
+          "deaths": 2282,
+          "recovered": 55791
         }
       }
     }
@@ -597,10 +597,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 76098,
+      "confirmed": 76900,
       "date": "2020-10-01",
-      "deaths": 2323,
-      "recovered": 27383
+      "deaths": 2353,
+      "recovered": 27922
     }
   },
   "Hungary": {
@@ -897,10 +897,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 107908,
+      "confirmed": 107979,
       "date": "2020-10-01",
       "deaths": 1725,
-      "recovered": 102874
+      "recovered": 102937
     }
   },
   "Kenya": {
@@ -1123,26 +1123,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37776,
+          "confirmed": 37811,
           "date": "2020-10-01",
-          "deaths": 1259,
-          "recovered": 35993
+          "deaths": 1260,
+          "recovered": 36074
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 99378,
+          "confirmed": 99479,
           "date": "2020-10-01",
-          "deaths": 2234,
-          "recovered": 95449
+          "deaths": 2235,
+          "recovered": 95501
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 136795,
+          "confirmed": 137106,
           "date": "2020-10-01",
-          "deaths": 2497,
-          "recovered": 130137
+          "deaths": 2499,
+          "recovered": 130352
         }
       }
     }
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 460001,
+          "confirmed": 462650,
           "date": "2020-10-01",
           "deaths": 9769,
           "recovered": 0
@@ -1753,10 +1753,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 74363,
+      "confirmed": 75122,
       "date": "2020-10-01",
-      "deaths": 621,
-      "recovered": 64200
+      "deaths": 628,
+      "recovered": 65225
     }
   },
   "West Bank and Gaza": {
