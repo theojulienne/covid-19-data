@@ -35,7 +35,7 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 20184,
+          "confirmed": 20183,
           "date": "2020-10-01",
           "deaths": 800,
           "recovered": 19006
@@ -93,10 +93,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 134641,
+      "confirmed": 135311,
       "date": "2020-10-01",
-      "deaths": 7931,
-      "recovered": 94895
+      "deaths": 7965,
+      "recovered": 95529
     }
   },
   "Bosnia and Herzegovina": {
@@ -194,7 +194,7 @@
           "confirmed": 123416,
           "date": "2020-10-01",
           "deaths": 3406,
-          "recovered": 103844
+          "recovered": 104661
         }
       },
       "Mato Grosso do Sul": {
@@ -250,7 +250,7 @@
           "confirmed": 96086,
           "date": "2020-10-01",
           "deaths": 2127,
-          "recovered": 93458
+          "recovered": 94235
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 50449,
           "date": "2020-10-01",
           "deaths": 648,
-          "recovered": 39480
+          "recovered": 46135
         }
       },
       "Santa Catarina": {
@@ -913,10 +913,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 23812,
+      "confirmed": 23889,
       "date": "2020-10-01",
-      "deaths": 413,
-      "recovered": 21591
+      "deaths": 415,
+      "recovered": 21666
     }
   },
   "Kuwait": {
@@ -1649,7 +1649,7 @@
         "live": {
           "confirmed": 460001,
           "date": "2020-10-01",
-          "deaths": 9752,
+          "deaths": 9769,
           "recovered": 0
         }
       },
