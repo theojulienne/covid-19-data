@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 54307,
+          "confirmed": 54316,
           "date": "2020-10-01",
           "deaths": 2898,
-          "recovered": 46312
+          "recovered": 46313
         }
       },
       "Quebec": {
@@ -473,10 +473,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 75760,
+      "confirmed": 76828,
       "date": "2020-10-01",
-      "deaths": 904,
-      "recovered": 37841
+      "deaths": 917,
+      "recovered": 39843
     }
   },
   "Czechia": {
@@ -841,10 +841,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 252533,
+      "confirmed": 253490,
       "date": "2020-10-01",
-      "deaths": 1600,
-      "recovered": 178976
+      "deaths": 1622,
+      "recovered": 179468
     }
   },
   "Italy": {
@@ -1503,15 +1503,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 632609,
+          "confirmed": 633033,
           "date": "2020-10-01",
-          "deaths": 13189,
+          "deaths": 13207,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 20225,
+          "confirmed": 20264,
           "date": "2020-10-01",
           "deaths": 1422,
           "recovered": 0
@@ -1527,9 +1527,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 55331,
+          "confirmed": 55523,
           "date": "2020-10-01",
-          "deaths": 984,
+          "deaths": 986,
           "recovered": 0
         }
       },
