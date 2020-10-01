@@ -481,10 +481,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 68919,
+      "confirmed": 70834,
       "date": "2020-10-01",
-      "deaths": 655,
-      "recovered": 33443
+      "deaths": 658,
+      "recovered": 33557
     }
   },
   "Denmark": {
@@ -1241,10 +1241,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 311694,
+      "confirmed": 314079,
       "date": "2020-10-01",
-      "deaths": 5504,
-      "recovered": 253488
+      "deaths": 5562,
+      "recovered": 254223
     }
   },
   "Poland": {
@@ -1357,7 +1357,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57765,
+      "confirmed": 57786,
       "date": "2020-10-01",
       "deaths": 27,
       "recovered": 57488
