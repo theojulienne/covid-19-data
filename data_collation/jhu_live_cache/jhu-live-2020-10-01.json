@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 54184,
+          "confirmed": 54206,
           "date": "2020-10-01",
           "deaths": 2898,
-          "recovered": 46184
+          "recovered": 46224
         }
       },
       "Quebec": {
@@ -529,18 +529,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 75368,
+      "confirmed": 76098,
       "date": "2020-10-01",
-      "deaths": 1198,
-      "recovered": 31204
+      "deaths": 1205,
+      "recovered": 31430
     }
   },
   "France": {
     "live": {
-      "confirmed": 589836,
+      "confirmed": 589825,
       "date": "2020-10-01",
-      "deaths": 31817,
-      "recovered": 79602
+      "deaths": 31816,
+      "recovered": 79578
     }
   },
   "Germany": {
@@ -841,10 +841,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 248133,
+      "confirmed": 252533,
       "date": "2020-10-01",
-      "deaths": 1571,
-      "recovered": 177752
+      "deaths": 1600,
+      "recovered": 178976
     }
   },
   "Italy": {
@@ -1069,10 +1069,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 123653,
+      "confirmed": 126044,
       "date": "2020-10-01",
-      "deaths": 2194,
-      "recovered": 102715
+      "deaths": 2229,
+      "recovered": 104136
     }
   },
   "Nepal": {
@@ -1599,9 +1599,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 64363,
+          "confirmed": 64503,
           "date": "2020-10-01",
-          "deaths": 5690,
+          "deaths": 5691,
           "recovered": 0
         }
       },
@@ -1623,7 +1623,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 27424,
+          "confirmed": 27600,
           "date": "2020-10-01",
           "deaths": 615,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 37226,
+          "confirmed": 37361,
           "date": "2020-10-01",
-          "deaths": 1811,
+          "deaths": 1813,
           "recovered": 0
         }
       },
