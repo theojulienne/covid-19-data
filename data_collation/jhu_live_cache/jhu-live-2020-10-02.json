@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 45686,
+      "confirmed": 46374,
       "date": "2020-10-02",
-      "deaths": 802,
-      "recovered": 36476
+      "deaths": 803,
+      "recovered": 37186
     }
   },
   "Azerbaijan": {
@@ -51,16 +51,16 @@
     "live": {
       "confirmed": 71374,
       "date": "2020-10-02",
-      "deaths": 254,
+      "deaths": 255,
       "recovered": 65550
     }
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 364987,
+      "confirmed": 366383,
       "date": "2020-10-02",
-      "deaths": 5272,
-      "recovered": 277078
+      "deaths": 5305,
+      "recovered": 278627
     }
   },
   "Belarus": {
@@ -559,9 +559,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 20491,
+          "confirmed": 20666,
           "date": "2020-10-02",
-          "deaths": 689,
+          "deaths": 690,
           "recovered": 17978
         }
       },
