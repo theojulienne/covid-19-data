@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 76098,
+      "confirmed": 76988,
       "date": "2020-10-02",
-      "deaths": 1205,
-      "recovered": 31430
+      "deaths": 1208,
+      "recovered": 31677
     }
   },
   "France": {
@@ -1491,15 +1491,15 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 167993,
+          "confirmed": 168350,
           "date": "2020-10-02",
-          "deaths": 4027,
+          "deaths": 4043,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 634764,
+          "confirmed": 635041,
           "date": "2020-10-02",
           "deaths": 13270,
           "recovered": 0
@@ -1603,7 +1603,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 360341,
+          "confirmed": 361159,
           "date": "2020-10-02",
           "deaths": 28403,
           "recovered": 0
@@ -1619,17 +1619,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 27600,
+          "confirmed": 27770,
           "date": "2020-10-02",
-          "deaths": 615,
+          "deaths": 629,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 37361,
+          "confirmed": 37502,
           "date": "2020-10-02",
-          "deaths": 1813,
+          "deaths": 1815,
           "recovered": 0
         }
       },
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 464503,
+          "confirmed": 464855,
           "date": "2020-10-02",
           "deaths": 9832,
           "recovered": 0
