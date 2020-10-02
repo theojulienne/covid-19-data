@@ -317,10 +317,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 20833,
+      "confirmed": 21096,
       "date": "2020-10-02",
-      "deaths": 825,
-      "recovered": 14634
+      "deaths": 832,
+      "recovered": 14787
     }
   },
   "Cameroon": {
@@ -543,34 +543,34 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 50097,
+          "confirmed": 50105,
           "date": "2020-10-02",
           "deaths": 1887,
-          "recovered": 44032
+          "recovered": 44284
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 68534,
+          "confirmed": 68853,
           "date": "2020-10-02",
-          "deaths": 2663,
-          "recovered": 60946
+          "deaths": 2664,
+          "recovered": 61291
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 20417,
+          "confirmed": 20491,
           "date": "2020-10-02",
-          "deaths": 687,
-          "recovered": 17821
+          "deaths": 689,
+          "recovered": 17978
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 70580,
+          "confirmed": 71357,
           "date": "2020-10-02",
           "deaths": 1880,
-          "recovered": 62341
+          "recovered": 62423
         }
       }
     }
@@ -925,10 +925,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 46841,
+      "confirmed": 47056,
       "date": "2020-10-02",
       "deaths": 1065,
-      "recovered": 42983
+      "recovered": 43137
     }
   },
   "Lebanon": {
@@ -1499,7 +1499,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 634507,
+          "confirmed": 634736,
           "date": "2020-10-02",
           "deaths": 13259,
           "recovered": 0
@@ -1687,18 +1687,18 @@
     "subseries": {
       "Kiev": {
         "live": {
-          "confirmed": 23155,
+          "confirmed": 23602,
           "date": "2020-10-02",
-          "deaths": 391,
-          "recovered": 6941
+          "deaths": 401,
+          "recovered": 7253
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 20590,
+          "confirmed": 20826,
           "date": "2020-10-02",
-          "deaths": 565,
-          "recovered": 7387
+          "deaths": 570,
+          "recovered": 7603
         }
       }
     }
@@ -1741,7 +1741,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 57290,
+      "confirmed": 57454,
       "date": "2020-10-02",
       "deaths": 472,
       "recovered": 53955
