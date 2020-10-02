@@ -1337,10 +1337,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 335097,
+      "confirmed": 335578,
       "date": "2020-10-02",
-      "deaths": 4794,
-      "recovered": 319746
+      "deaths": 4823,
+      "recovered": 320348
     }
   },
   "Serbia": {
@@ -1483,7 +1483,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 20308,
+          "confirmed": 20442,
           "date": "2020-10-02",
           "deaths": 354,
           "recovered": 0

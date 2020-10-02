@@ -2864,19 +2864,19 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 331359,
-        "deaths": 4569,
-        "recovered": 313786
+        "confirmed": 331857,
+        "deaths": 4599,
+        "recovered": 314793
       },
       "back_2week": {
-        "confirmed": 327551,
-        "deaths": 4369,
-        "recovered": 306004
+        "confirmed": 328144,
+        "deaths": 4399,
+        "recovered": 307207
       },
       "latest": {
-        "confirmed": 334605,
-        "deaths": 4768,
-        "recovered": 319154
+        "confirmed": 335097,
+        "deaths": 4794,
+        "recovered": 319746
       }
     },
     "SDN": {
