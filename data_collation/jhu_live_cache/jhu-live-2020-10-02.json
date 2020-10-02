@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 54840,
+          "confirmed": 54976,
           "date": "2020-10-02",
-          "deaths": 2952,
-          "recovered": 46679
+          "deaths": 2953,
+          "recovered": 46790
         }
       },
       "Quebec": {
@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 76828,
+      "confirmed": 77829,
       "date": "2020-10-02",
-      "deaths": 917,
-      "recovered": 39843
+      "deaths": 930,
+      "recovered": 42621
     }
   },
   "Czechia": {
@@ -577,10 +577,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 46656,
+      "confirmed": 46694,
       "date": "2020-10-02",
       "deaths": 301,
-      "recovered": 45942
+      "recovered": 45945
     }
   },
   "Guatemala": {
@@ -1065,10 +1065,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 126044,
+      "confirmed": 128565,
       "date": "2020-10-02",
-      "deaths": 2229,
-      "recovered": 104136
+      "deaths": 2263,
+      "recovered": 106044
     }
   },
   "Nepal": {
@@ -1499,17 +1499,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 635203,
+          "confirmed": 635858,
           "date": "2020-10-02",
-          "deaths": 13275,
+          "deaths": 13281,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 20264,
+          "confirmed": 20400,
           "date": "2020-10-02",
-          "deaths": 1422,
+          "deaths": 1423,
           "recovered": 0
         }
       },
