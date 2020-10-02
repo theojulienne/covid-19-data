@@ -1694,19 +1694,19 @@
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 20450,
-        "deaths": 702,
-        "recovered": 4644
+        "confirmed": 21200,
+        "deaths": 709,
+        "recovered": 4818
       },
       "back_2week": {
-        "confirmed": 14460,
-        "deaths": 654,
-        "recovered": 4153
+        "confirmed": 15170,
+        "deaths": 663,
+        "recovered": 4227
       },
       "latest": {
-        "confirmed": 26461,
-        "deaths": 765,
-        "recovered": 5890
+        "confirmed": 27309,
+        "deaths": 781,
+        "recovered": 6118
       }
     },
     "IDN": {

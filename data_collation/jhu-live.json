@@ -601,10 +601,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 27309,
+      "confirmed": 28631,
       "date": "2020-10-02",
-      "deaths": 781,
-      "recovered": 6118
+      "deaths": 798,
+      "recovered": 6349
     }
   },
   "India": {
@@ -883,7 +883,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 25986,
+          "confirmed": 26182,
           "date": "2020-10-02",
           "deaths": 409,
           "recovered": 23147
