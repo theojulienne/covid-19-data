@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 55464,
-        "deaths": 555,
-        "recovered": 26709
+        "confirmed": 58374,
+        "deaths": 567,
+        "recovered": 27382
       },
       "back_2week": {
-        "confirmed": 41032,
-        "deaths": 482,
-        "recovered": 22931
+        "confirmed": 44155,
+        "deaths": 489,
+        "recovered": 23377
       },
       "latest": {
-        "confirmed": 68919,
-        "deaths": 655,
-        "recovered": 33443
+        "confirmed": 74255,
+        "deaths": 678,
+        "recovered": 34186
       }
     },
     "DEU": {
@@ -2017,19 +2017,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 31792,
-        "deaths": 328,
-        "recovered": 13527
+        "confirmed": 32819,
+        "deaths": 329,
+        "recovered": 14112
       },
       "back_2week": {
-        "confirmed": 26083,
-        "deaths": 259,
-        "recovered": 9634
+        "confirmed": 26768,
+        "deaths": 263,
+        "recovered": 10217
       },
       "latest": {
-        "confirmed": 39634,
-        "deaths": 367,
-        "recovered": 17565
+        "confirmed": 40882,
+        "deaths": 374,
+        "recovered": 18103
       }
     },
     "LBR": {
@@ -3272,19 +3272,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 308069,
-        "deaths": 7711,
-        "recovered": 270723
+        "confirmed": 309790,
+        "deaths": 7785,
+        "recovered": 271964
       },
       "back_2week": {
-        "confirmed": 296391,
-        "deaths": 7249,
-        "recovered": 262602
+        "confirmed": 298039,
+        "deaths": 7315,
+        "recovered": 263745
       },
       "latest": {
-        "confirmed": 318663,
-        "deaths": 8195,
-        "recovered": 279749
+        "confirmed": 320070,
+        "deaths": 8262,
+        "recovered": 281151
       }
     },
     "TWN": {
