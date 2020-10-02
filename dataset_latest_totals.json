@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 74288,
-          "deaths": 5834
+          "confirmed": 75221,
+          "deaths": 5850
         },
         "Saskatchewan": {
           "confirmed": 1913,
@@ -1131,19 +1131,19 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 109737,
-        "deaths": 2074,
-        "recovered": 83434
+        "confirmed": 110122,
+        "deaths": 2076,
+        "recovered": 84018
       },
       "back_2week": {
-        "confirmed": 105521,
-        "deaths": 2009,
-        "recovered": 78891
+        "confirmed": 106136,
+        "deaths": 2022,
+        "recovered": 79363
       },
       "latest": {
-        "confirmed": 112209,
-        "deaths": 2105,
-        "recovered": 87629
+        "confirmed": 112728,
+        "deaths": 2108,
+        "recovered": 88205
       }
     },
     "DZA": {
@@ -1318,19 +1318,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 483956,
-        "deaths": 31252,
-        "recovered": 77757
+        "confirmed": 511757,
+        "deaths": 31333,
+        "recovered": 77214
       },
       "back_2week": {
-        "confirmed": 421861,
-        "deaths": 30884,
-        "recovered": 75921
+        "confirmed": 431966,
+        "deaths": 30931,
+        "recovered": 75880
       },
       "latest": {
-        "confirmed": 576907,
-        "deaths": 31769,
-        "recovered": 79128
+        "confirmed": 589825,
+        "deaths": 31816,
+        "recovered": 79578
       },
       "states": {
         "French Guiana": {
