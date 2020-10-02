@@ -1555,9 +1555,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 52401,
+          "confirmed": 52725,
           "date": "2020-10-02",
-          "deaths": 3298,
+          "deaths": 3302,
           "recovered": 0
         }
       },
