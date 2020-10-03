@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 79421,
+      "confirmed": 79852,
       "date": "2020-10-03",
-      "deaths": 844,
-      "recovered": 74982
+      "deaths": 851,
+      "recovered": 75148
     }
   },
   "Belgium": {
@@ -338,7 +338,7 @@
           "confirmed": 55522,
           "date": "2020-10-03",
           "deaths": 2993,
-          "recovered": 47025
+          "recovered": 47099
         }
       },
       "Quebec": {
@@ -577,10 +577,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 46768,
+      "confirmed": 46803,
       "date": "2020-10-03",
-      "deaths": 301,
-      "recovered": 45964
+      "deaths": 303,
+      "recovered": 46006
     }
   },
   "Guatemala": {
@@ -837,10 +837,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 258920,
+      "confirmed": 263983,
       "date": "2020-10-03",
-      "deaths": 1633,
-      "recovered": 185122
+      "deaths": 1679,
+      "recovered": 190397
     }
   },
   "Italy": {
@@ -1539,7 +1539,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 21950,
+          "confirmed": 22115,
           "date": "2020-10-03",
           "deaths": 769,
           "recovered": 0
@@ -1571,9 +1571,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 28158,
+          "confirmed": 28440,
           "date": "2020-10-03",
-          "deaths": 940,
+          "deaths": 942,
           "recovered": 0
         }
       },
@@ -1587,17 +1587,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 68162,
+          "confirmed": 68580,
           "date": "2020-10-03",
-          "deaths": 1400,
+          "deaths": 1409,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 64638,
+          "confirmed": 64821,
           "date": "2020-10-03",
-          "deaths": 5691,
+          "deaths": 5693,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 29271,
+          "confirmed": 29414,
           "date": "2020-10-03",
-          "deaths": 360,
+          "deaths": 361,
           "recovered": 0
         }
       },
