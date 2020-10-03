@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 78051,
+      "confirmed": 79475,
       "date": "2020-10-03",
-      "deaths": 699,
-      "recovered": 35032
+      "deaths": 709,
+      "recovered": 35291
     }
   },
   "Denmark": {
@@ -1473,10 +1473,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 321512,
+      "confirmed": 323014,
       "date": "2020-10-03",
-      "deaths": 8325,
-      "recovered": 282657
+      "deaths": 8384,
+      "recovered": 283868
     }
   },
   "US": {
@@ -1531,9 +1531,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 146917,
+          "confirmed": 147841,
           "date": "2020-10-03",
-          "deaths": 5239,
+          "deaths": 5245,
           "recovered": 0
         }
       },
