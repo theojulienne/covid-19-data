@@ -513,9 +513,11 @@ var covid19_dataset_country_syc = {
       143,
       143,
       144,
-      144
+      144,
+      145
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1025,6 +1027,7 @@ var covid19_dataset_country_syc = {
       140,
       140,
       140,
+      143,
       143
     ]
   }
