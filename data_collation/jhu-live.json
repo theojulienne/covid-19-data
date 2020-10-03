@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39290,
+      "confirmed": 39297,
       "date": "2020-10-03",
-      "deaths": 1458,
+      "deaths": 1462,
       "recovered": 32842
     }
   },
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 51382,
+      "confirmed": 51925,
       "date": "2020-10-03",
-      "deaths": 966,
-      "recovered": 44406
+      "deaths": 972,
+      "recovered": 44583
     }
   },
   "Austria": {
@@ -546,31 +546,31 @@
           "confirmed": 50400,
           "date": "2020-10-03",
           "deaths": 1888,
-          "recovered": 44284
+          "recovered": 44498
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 68892,
+          "confirmed": 69186,
           "date": "2020-10-03",
-          "deaths": 2664,
-          "recovered": 61291
+          "deaths": 2672,
+          "recovered": 61555
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 20666,
+          "confirmed": 20777,
           "date": "2020-10-03",
           "deaths": 690,
-          "recovered": 17978
+          "recovered": 18069
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 71357,
+          "confirmed": 72063,
           "date": "2020-10-03",
-          "deaths": 1880,
-          "recovered": 62530
+          "deaths": 1882,
+          "recovered": 62792
         }
       }
     }
@@ -601,10 +601,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 28631,
+      "confirmed": 29717,
       "date": "2020-10-03",
-      "deaths": 798,
-      "recovered": 6349
+      "deaths": 812,
+      "recovered": 6824
     }
   },
   "India": {
@@ -883,7 +883,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 26182,
+          "confirmed": 26389,
           "date": "2020-10-03",
           "deaths": 409,
           "recovered": 23430
@@ -1499,7 +1499,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 637500,
+          "confirmed": 637765,
           "date": "2020-10-03",
           "deaths": 13324,
           "recovered": 0
