@@ -577,10 +577,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 46694,
+      "confirmed": 46768,
       "date": "2020-10-03",
       "deaths": 301,
-      "recovered": 45945
+      "recovered": 45964
     }
   },
   "Guatemala": {
@@ -917,10 +917,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 106087,
+      "confirmed": 106458,
       "date": "2020-10-03",
-      "deaths": 615,
-      "recovered": 97898
+      "deaths": 620,
+      "recovered": 98435
     }
   },
   "Kyrgyzstan": {
@@ -1337,10 +1337,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 335578,
+      "confirmed": 335997,
       "date": "2020-10-03",
-      "deaths": 4823,
-      "recovered": 320348
+      "deaths": 4850,
+      "recovered": 320974
     }
   },
   "Serbia": {
@@ -1483,7 +1483,7 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 20442,
+          "confirmed": 20584,
           "date": "2020-10-03",
           "deaths": 354,
           "recovered": 0
