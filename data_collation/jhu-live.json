@@ -343,10 +343,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 76281,
+          "confirmed": 77380,
           "date": "2020-10-04",
-          "deaths": 5857,
-          "recovered": 63683
+          "deaths": 5867,
+          "recovered": 64478
         }
       }
     }
@@ -951,106 +951,106 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 128529,
+          "confirmed": 129484,
           "date": "2020-10-04",
-          "deaths": 12224,
-          "recovered": 108522
+          "deaths": 12252,
+          "recovered": 108944
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 26774,
+          "confirmed": 27040,
           "date": "2020-10-04",
-          "deaths": 1911,
-          "recovered": 23361
+          "deaths": 1926,
+          "recovered": 23534
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 41369,
+          "confirmed": 41518,
           "date": "2020-10-04",
-          "deaths": 2953,
-          "recovered": 36645
+          "deaths": 2962,
+          "recovered": 36837
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 27478,
+          "confirmed": 27705,
           "date": "2020-10-04",
-          "deaths": 3332,
-          "recovered": 21723
+          "deaths": 3374,
+          "recovered": 21944
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 81814,
+          "confirmed": 82260,
           "date": "2020-10-04",
-          "deaths": 9496,
-          "recovered": 68061
+          "deaths": 9511,
+          "recovered": 68637
         }
       },
       "Michoacan": {
         "live": {
-          "confirmed": 20680,
+          "confirmed": 20980,
           "date": "2020-10-04",
-          "deaths": 1653,
-          "recovered": 17905
+          "deaths": 1674,
+          "recovered": 18174
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 40885,
+          "confirmed": 41256,
           "date": "2020-10-04",
-          "deaths": 3148,
-          "recovered": 33890
+          "deaths": 3174,
+          "recovered": 34323
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 31493,
+          "confirmed": 31574,
           "date": "2020-10-04",
-          "deaths": 4115,
-          "recovered": 26404
+          "deaths": 4128,
+          "recovered": 26463
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 23373,
+          "confirmed": 23515,
           "date": "2020-10-04",
-          "deaths": 1712,
-          "recovered": 20821
+          "deaths": 1719,
+          "recovered": 20947
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 24788,
+          "confirmed": 24925,
           "date": "2020-10-04",
-          "deaths": 2914,
-          "recovered": 21029
+          "deaths": 2918,
+          "recovered": 21188
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 32112,
+          "confirmed": 32133,
           "date": "2020-10-04",
-          "deaths": 2838,
-          "recovered": 28508
+          "deaths": 2840,
+          "recovered": 28570
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 29201,
+          "confirmed": 29342,
           "date": "2020-10-04",
-          "deaths": 2281,
-          "recovered": 25926
+          "deaths": 2340,
+          "recovered": 25997
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 33616,
+          "confirmed": 33708,
           "date": "2020-10-04",
-          "deaths": 4333,
-          "recovered": 27994
+          "deaths": 4354,
+          "recovered": 28180
         }
       }
     }
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 470751,
+          "confirmed": 470896,
           "date": "2020-10-04",
           "deaths": 9903,
           "recovered": 0
