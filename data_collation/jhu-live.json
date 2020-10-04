@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 51995,
+      "confirmed": 52136,
       "date": "2020-10-04",
-      "deaths": 1756,
-      "recovered": 36482
+      "deaths": 1760,
+      "recovered": 36578
     }
   },
   "Argentina": {
@@ -346,7 +346,7 @@
           "confirmed": 78459,
           "date": "2020-10-04",
           "deaths": 5878,
-          "recovered": 64478
+          "recovered": 65304
         }
       }
     }
@@ -1065,10 +1065,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 131228,
+      "confirmed": 133272,
       "date": "2020-10-04",
-      "deaths": 2293,
-      "recovered": 108687
+      "deaths": 2330,
+      "recovered": 111036
     }
   },
   "Nepal": {
@@ -1611,7 +1611,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 27908,
+          "confirmed": 28014,
           "date": "2020-10-04",
           "deaths": 630,
           "recovered": 0
