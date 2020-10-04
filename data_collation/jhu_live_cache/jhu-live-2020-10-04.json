@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 367565,
+      "confirmed": 368690,
       "date": "2020-10-04",
-      "deaths": 5325,
-      "recovered": 280069
+      "deaths": 5348,
+      "recovered": 281656
     }
   },
   "Belarus": {
@@ -805,10 +805,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 299506,
+      "confirmed": 303498,
       "date": "2020-10-04",
-      "deaths": 11055,
-      "recovered": 225052
+      "deaths": 11151,
+      "recovered": 228453
     }
   },
   "Iran": {
@@ -883,7 +883,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 26389,
+          "confirmed": 26497,
           "date": "2020-10-04",
           "deaths": 409,
           "recovered": 23430
@@ -1109,10 +1109,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 98585,
+      "confirmed": 101270,
       "date": "2020-10-04",
-      "deaths": 935,
-      "recovered": 88528
+      "deaths": 977,
+      "recovered": 90296
     }
   },
   "Pakistan": {
@@ -1459,7 +1459,7 @@
     "live": {
       "confirmed": 54384,
       "date": "2020-10-04",
-      "deaths": 2076,
+      "deaths": 2077,
       "recovered": 45800
     }
   },
