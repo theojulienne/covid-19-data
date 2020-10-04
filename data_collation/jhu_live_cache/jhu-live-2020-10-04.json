@@ -1643,9 +1643,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 53370,
+          "confirmed": 32947,
           "date": "2020-10-04",
-          "deaths": 319,
+          "deaths": 258,
           "recovered": 0
         }
       },
@@ -1677,20 +1677,28 @@
   },
   "Ukraine": {
     "subseries": {
+      "Kharkiv Oblast": {
+        "live": {
+          "confirmed": 20518,
+          "date": "2020-10-04",
+          "deaths": 369,
+          "recovered": 4533
+        }
+      },
       "Kiev": {
         "live": {
-          "confirmed": 24043,
+          "confirmed": 24450,
           "date": "2020-10-04",
-          "deaths": 412,
-          "recovered": 7657
+          "deaths": 420,
+          "recovered": 7864
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 21032,
+          "confirmed": 21194,
           "date": "2020-10-04",
-          "deaths": 575,
-          "recovered": 7778
+          "deaths": 577,
+          "recovered": 7888
         }
       }
     }
