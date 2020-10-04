@@ -1361,10 +1361,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 679716,
+      "confirmed": 681289,
       "date": "2020-10-04",
-      "deaths": 16938,
-      "recovered": 612763
+      "deaths": 16976,
+      "recovered": 614781
     }
   },
   "Spain": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 620660,
+          "confirmed": 621715,
           "date": "2020-10-04",
-          "deaths": 12893,
+          "deaths": 12909,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 471497,
+          "confirmed": 472120,
           "date": "2020-10-04",
           "deaths": 9915,
           "recovered": 0
@@ -1717,7 +1717,7 @@
         "live": {
           "confirmed": 409534,
           "date": "2020-10-04",
-          "deaths": 37574,
+          "deaths": 37606,
           "recovered": 0
         }
       },
