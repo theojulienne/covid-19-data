@@ -343,9 +343,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 77380,
+          "confirmed": 78459,
           "date": "2020-10-04",
-          "deaths": 5867,
+          "deaths": 5878,
           "recovered": 64478
         }
       }
@@ -829,7 +829,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 37668,
+      "confirmed": 38032,
       "date": "2020-10-04",
       "deaths": 1810,
       "recovered": 23364
@@ -837,10 +837,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 265086,
+      "confirmed": 265932,
       "date": "2020-10-04",
-      "deaths": 1692,
-      "recovered": 193027
+      "deaths": 1707,
+      "recovered": 194976
     }
   },
   "Italy": {
@@ -933,10 +933,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 43494,
+      "confirmed": 44482,
       "date": "2020-10-04",
-      "deaths": 398,
-      "recovered": 19259
+      "deaths": 406,
+      "recovered": 19782
     }
   },
   "Libya": {
@@ -1473,10 +1473,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 323014,
+      "confirmed": 324443,
       "date": "2020-10-04",
-      "deaths": 8384,
-      "recovered": 283868
+      "deaths": 8441,
+      "recovered": 285050
     }
   },
   "US": {
@@ -1491,9 +1491,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 168823,
+          "confirmed": 169108,
           "date": "2020-10-04",
-          "deaths": 4051,
+          "deaths": 4053,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 147841,
+          "confirmed": 148381,
           "date": "2020-10-04",
-          "deaths": 5245,
+          "deaths": 5256,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 362146,
+          "confirmed": 362843,
           "date": "2020-10-04",
-          "deaths": 28403,
+          "deaths": 28408,
           "recovered": 0
         }
       },
