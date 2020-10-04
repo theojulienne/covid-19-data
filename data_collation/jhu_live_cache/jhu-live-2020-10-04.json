@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 29358,
+      "confirmed": 29450,
       "date": "2020-10-04",
       "deaths": 863,
-      "recovered": 24175
+      "recovered": 24296
     }
   },
   "Ethiopia": {
@@ -901,10 +901,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 39184,
+      "confirmed": 39427,
       "date": "2020-10-04",
-      "deaths": 728,
-      "recovered": 25426
+      "deaths": 731,
+      "recovered": 25659
     }
   },
   "Korea, South": {
@@ -917,10 +917,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 106458,
+      "confirmed": 107025,
       "date": "2020-10-04",
-      "deaths": 620,
-      "recovered": 98435
+      "deaths": 624,
+      "recovered": 99040
     }
   },
   "Kyrgyzstan": {
@@ -941,10 +941,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 36087,
+      "confirmed": 36809,
       "date": "2020-10-04",
-      "deaths": 578,
-      "recovered": 20889
+      "deaths": 592,
+      "recovered": 21429
     }
   },
   "Mexico": {
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 78247,
+      "confirmed": 79151,
       "date": "2020-10-04",
-      "deaths": 1995,
-      "recovered": 49845
+      "deaths": 2005,
+      "recovered": 50207
     }
   },
   "Qatar": {
@@ -1356,7 +1356,7 @@
       "confirmed": 57812,
       "date": "2020-10-04",
       "deaths": 27,
-      "recovered": 57562
+      "recovered": 57575
     }
   },
   "South Africa": {
@@ -1541,7 +1541,7 @@
         "live": {
           "confirmed": 52798,
           "date": "2020-10-04",
-          "deaths": 1677,
+          "deaths": 1679,
           "recovered": 0
         }
       },
@@ -1651,7 +1651,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 21176,
+          "confirmed": 21282,
           "date": "2020-10-04",
           "deaths": 590,
           "recovered": 0
