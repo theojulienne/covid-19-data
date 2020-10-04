@@ -3739,17 +3739,17 @@
       "back_1week": {
         "confirmed": 54819,
         "deaths": 452,
-        "recovered": 50879
+        "recovered": 51322
       },
       "back_2week": {
         "confirmed": 50992,
         "deaths": 427,
-        "recovered": 46527
+        "recovered": 47271
       },
       "latest": {
         "confirmed": 58238,
         "deaths": 477,
-        "recovered": 53955
+        "recovered": 54854
       }
     },
     "VAT": {

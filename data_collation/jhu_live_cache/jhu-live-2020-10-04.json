@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 56073,
+          "confirmed": 56496,
           "date": "2020-10-04",
-          "deaths": 3022,
-          "recovered": 47495
+          "deaths": 3025,
+          "recovered": 47982
         }
       },
       "Quebec": {
@@ -837,10 +837,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 265932,
+      "confirmed": 266775,
       "date": "2020-10-04",
-      "deaths": 1707,
-      "recovered": 194976
+      "deaths": 1719,
+      "recovered": 195629
     }
   },
   "Italy": {
@@ -1499,7 +1499,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 620113,
+          "confirmed": 620660,
           "date": "2020-10-04",
           "deaths": 12893,
           "recovered": 0
@@ -1547,7 +1547,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 52972,
+          "confirmed": 53230,
           "date": "2020-10-04",
           "deaths": 3308,
           "recovered": 0
@@ -1637,7 +1637,7 @@
         "live": {
           "confirmed": 471497,
           "date": "2020-10-04",
-          "deaths": 9903,
+          "deaths": 9915,
           "recovered": 0
         }
       },
@@ -1741,10 +1741,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 58421,
+      "confirmed": 58612,
       "date": "2020-10-04",
-      "deaths": 479,
-      "recovered": 54854
+      "deaths": 480,
+      "recovered": 55281
     }
   },
   "Venezuela": {
