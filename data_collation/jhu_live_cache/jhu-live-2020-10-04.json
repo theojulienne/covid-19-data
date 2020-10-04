@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 40561,
+      "confirmed": 40691,
       "date": "2020-10-04",
-      "deaths": 595,
-      "recovered": 38354
+      "deaths": 596,
+      "recovered": 38496
     }
   },
   "Bahrain": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 24192,
+          "confirmed": 24400,
           "date": "2020-10-04",
-          "deaths": 347,
-          "recovered": 22078
+          "deaths": 351,
+          "recovered": 22238
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 287903,
+          "confirmed": 288266,
           "date": "2020-10-04",
-          "deaths": 9306,
-          "recovered": 275092
+          "deaths": 9334,
+          "recovered": 275334
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 27827,
+          "confirmed": 27982,
           "date": "2020-10-04",
-          "deaths": 894,
-          "recovered": 26008
+          "deaths": 901,
+          "recovered": 26097
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 80605,
+      "confirmed": 81711,
       "date": "2020-10-04",
-      "deaths": 711,
-      "recovered": 39073
+      "deaths": 722,
+      "recovered": 43991
     }
   },
   "Denmark": {
@@ -1531,7 +1531,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 22115,
+          "confirmed": 22282,
           "date": "2020-10-04",
           "deaths": 769,
           "recovered": 0
@@ -1563,9 +1563,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 28440,
+          "confirmed": 28645,
           "date": "2020-10-04",
-          "deaths": 942,
+          "deaths": 944,
           "recovered": 0
         }
       },
@@ -1579,7 +1579,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 68580,
+          "confirmed": 68851,
           "date": "2020-10-04",
           "deaths": 1409,
           "recovered": 0
@@ -1587,9 +1587,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 64821,
+          "confirmed": 64961,
           "date": "2020-10-04",
-          "deaths": 5693,
+          "deaths": 5694,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 29414,
+          "confirmed": 29454,
           "date": "2020-10-04",
           "deaths": 361,
           "recovered": 0
