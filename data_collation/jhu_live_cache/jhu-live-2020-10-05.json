@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 40691,
+      "confirmed": 40788,
       "date": "2020-10-05",
-      "deaths": 596,
-      "recovered": 38496
+      "deaths": 598,
+      "recovered": 38587
     }
   },
   "Bahrain": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 28354,
+      "confirmed": 28449,
       "date": "2020-10-05",
-      "deaths": 879,
-      "recovered": 21859
+      "deaths": 888,
+      "recovered": 22032
     }
   },
   "Brazil": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 29680,
+      "confirmed": 30057,
       "date": "2020-10-05",
-      "deaths": 658,
-      "recovered": 22716
+      "deaths": 659,
+      "recovered": 23122
     }
   },
   "Dominican Republic": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 29450,
+      "confirmed": 29539,
       "date": "2020-10-05",
       "deaths": 865,
-      "recovered": 24296
+      "recovered": 24406
     }
   },
   "Ethiopia": {
@@ -559,9 +559,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 21075,
+          "confirmed": 21234,
           "date": "2020-10-05",
-          "deaths": 690,
+          "deaths": 691,
           "recovered": 18316
         }
       },
@@ -917,10 +917,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 107025,
+      "confirmed": 107592,
       "date": "2020-10-05",
-      "deaths": 624,
-      "recovered": 99040
+      "deaths": 628,
+      "recovered": 99549
     }
   },
   "Kyrgyzstan": {
@@ -941,10 +941,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 36809,
+      "confirmed": 37437,
       "date": "2020-10-05",
-      "deaths": 592,
-      "recovered": 21429
+      "deaths": 596,
+      "recovered": 22076
     }
   },
   "Mexico": {
@@ -1261,10 +1261,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 126498,
+      "confirmed": 126692,
       "date": "2020-10-05",
       "deaths": 216,
-      "recovered": 123475
+      "recovered": 123664
     }
   },
   "Romania": {
