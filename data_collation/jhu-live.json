@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 78819,
+      "confirmed": 79437,
       "date": "2020-10-05",
-      "deaths": 1222,
-      "recovered": 33060
+      "deaths": 1230,
+      "recovered": 34016
     }
   },
   "France": {
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 621999,
+          "confirmed": 622600,
           "date": "2020-10-05",
           "deaths": 12913,
           "recovered": 0
@@ -1523,9 +1523,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 56170,
+          "confirmed": 56327,
           "date": "2020-10-05",
-          "deaths": 993,
+          "deaths": 996,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 56970,
+          "confirmed": 57294,
           "date": "2020-10-05",
-          "deaths": 4202,
+          "deaths": 4205,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 362843,
+          "confirmed": 363436,
           "date": "2020-10-05",
           "deaths": 28414,
           "recovered": 0
@@ -1635,9 +1635,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 58785,
+          "confirmed": 59200,
           "date": "2020-10-05",
-          "deaths": 803,
+          "deaths": 805,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 54430,
+          "confirmed": 55251,
           "date": "2020-10-05",
-          "deaths": 319,
+          "deaths": 322,
           "recovered": 0
         }
       },
@@ -1675,7 +1675,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 30318,
+          "confirmed": 30382,
           "date": "2020-10-05",
           "deaths": 545,
           "recovered": 0
@@ -1725,7 +1725,7 @@
         "live": {
           "confirmed": 441528,
           "date": "2020-10-05",
-          "deaths": 37606,
+          "deaths": 37625,
           "recovered": 0
         }
       },
