@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 72662,
       "date": "2020-10-05",
-      "deaths": 260,
+      "deaths": 261,
       "recovered": 67475
     }
   },
@@ -821,10 +821,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 379141,
+      "confirmed": 382949,
       "date": "2020-10-05",
-      "deaths": 9399,
-      "recovered": 307482
+      "deaths": 9464,
+      "recovered": 312158
     }
   },
   "Ireland": {
@@ -1073,10 +1073,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 86823,
+      "confirmed": 89263,
       "date": "2020-10-05",
-      "deaths": 535,
-      "recovered": 64069
+      "deaths": 554,
+      "recovered": 65202
     }
   },
   "Netherlands": {
@@ -1337,17 +1337,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 336387,
+      "confirmed": 336766,
       "date": "2020-10-05",
-      "deaths": 4875,
-      "recovered": 321485
+      "deaths": 4898,
+      "recovered": 322055
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 33901,
+      "confirmed": 33952,
       "date": "2020-10-05",
-      "deaths": 754,
+      "deaths": 756,
       "recovered": 0
     }
   },
@@ -1651,7 +1651,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 21282,
+          "confirmed": 21357,
           "date": "2020-10-05",
           "deaths": 590,
           "recovered": 0
