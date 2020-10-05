@@ -134,7 +134,7 @@
           "confirmed": 315440,
           "date": "2020-10-05",
           "deaths": 6925,
-          "recovered": 301080
+          "recovered": 301922
         }
       },
       "Ceara": {
@@ -142,7 +142,7 @@
           "confirmed": 242873,
           "date": "2020-10-05",
           "deaths": 9051,
-          "recovered": 215635
+          "recovered": 216381
         }
       },
       "Distrito Federal": {
@@ -150,7 +150,7 @@
           "confirmed": 195413,
           "date": "2020-10-05",
           "deaths": 3325,
-          "recovered": 184460
+          "recovered": 185089
         }
       },
       "Espirito Santo": {
@@ -158,7 +158,7 @@
           "confirmed": 134296,
           "date": "2020-10-05",
           "deaths": 3580,
-          "recovered": 123083
+          "recovered": 123557
         }
       },
       "Goias": {
@@ -166,7 +166,7 @@
           "confirmed": 216063,
           "date": "2020-10-05",
           "deaths": 4862,
-          "recovered": 204925
+          "recovered": 206072
         }
       },
       "Maranhao": {
@@ -206,7 +206,7 @@
           "confirmed": 234033,
           "date": "2020-10-05",
           "deaths": 6600,
-          "recovered": 217904
+          "recovered": 218248
         }
       },
       "Paraiba": {
@@ -214,7 +214,7 @@
           "confirmed": 122713,
           "date": "2020-10-05",
           "deaths": 2851,
-          "recovered": 98017
+          "recovered": 98027
         }
       },
       "Parana": {
@@ -238,7 +238,7 @@
           "confirmed": 98344,
           "date": "2020-10-05",
           "deaths": 2149,
-          "recovered": 95708
+          "recovered": 95965
         }
       },
       "Rio Grande do Norte": {
@@ -254,7 +254,7 @@
           "confirmed": 202719,
           "date": "2020-10-05",
           "deaths": 4908,
-          "recovered": 187652
+          "recovered": 188564
         }
       },
       "Rio de Janeiro": {
@@ -262,7 +262,7 @@
           "confirmed": 271701,
           "date": "2020-10-05",
           "deaths": 18769,
-          "recovered": 247541
+          "recovered": 248031
         }
       },
       "Rondonia": {
@@ -294,7 +294,7 @@
           "confirmed": 1003902,
           "date": "2020-10-05",
           "deaths": 36178,
-          "recovered": 865135
+          "recovered": 873250
         }
       },
       "Sergipe": {
@@ -310,7 +310,7 @@
           "confirmed": 69419,
           "date": "2020-10-05",
           "deaths": 968,
-          "recovered": 53124
+          "recovered": 53404
         }
       }
     }
@@ -593,10 +593,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 78788,
+      "confirmed": 79629,
       "date": "2020-10-05",
-      "deaths": 2399,
-      "recovered": 29187
+      "deaths": 2422,
+      "recovered": 29305
     }
   },
   "Hungary": {
@@ -1501,7 +1501,7 @@
         "live": {
           "confirmed": 621949,
           "date": "2020-10-05",
-          "deaths": 12903,
+          "deaths": 12914,
           "recovered": 0
         }
       },
