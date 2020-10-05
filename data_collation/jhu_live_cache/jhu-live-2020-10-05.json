@@ -337,16 +337,16 @@
         "live": {
           "confirmed": 56685,
           "date": "2020-10-05",
-          "deaths": 3026,
-          "recovered": 48052
+          "deaths": 3028,
+          "recovered": 48159
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 78459,
+          "confirmed": 79650,
           "date": "2020-10-05",
-          "deaths": 5878,
-          "recovered": 65304
+          "deaths": 5884,
+          "recovered": 66180
         }
       }
     }
@@ -493,17 +493,17 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 114480,
+      "confirmed": 115054,
       "date": "2020-10-05",
-      "deaths": 2134,
-      "recovered": 90366
+      "deaths": 2144,
+      "recovered": 90942
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 141034,
+      "confirmed": 141339,
       "date": "2020-10-05",
-      "deaths": 11647,
+      "deaths": 11681,
       "recovered": 120511
     }
   },
@@ -885,7 +885,7 @@
         "live": {
           "confirmed": 26563,
           "date": "2020-10-05",
-          "deaths": 411,
+          "deaths": 413,
           "recovered": 23963
         }
       }
@@ -903,8 +903,8 @@
     "live": {
       "confirmed": 39449,
       "date": "2020-10-05",
-      "deaths": 731,
-      "recovered": 25659
+      "deaths": 735,
+      "recovered": 27035
     }
   },
   "Korea, South": {
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 79151,
+      "confirmed": 79885,
       "date": "2020-10-05",
-      "deaths": 2005,
-      "recovered": 50207
+      "deaths": 2018,
+      "recovered": 50454
     }
   },
   "Qatar": {
@@ -1356,7 +1356,7 @@
       "confirmed": 57819,
       "date": "2020-10-05",
       "deaths": 27,
-      "recovered": 57575
+      "recovered": 57597
     }
   },
   "South Africa": {
@@ -1491,9 +1491,9 @@
       },
       "Arizona": {
         "live": {
-          "confirmed": 169108,
+          "confirmed": 169391,
           "date": "2020-10-05",
-          "deaths": 4053,
+          "deaths": 4054,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 22282,
+          "confirmed": 22340,
           "date": "2020-10-05",
           "deaths": 769,
           "recovered": 0
@@ -1563,7 +1563,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 28645,
+          "confirmed": 28843,
           "date": "2020-10-05",
           "deaths": 944,
           "recovered": 0
@@ -1715,7 +1715,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 430843,
+          "confirmed": 441528,
           "date": "2020-10-05",
           "deaths": 37606,
           "recovered": 0
@@ -1723,7 +1723,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 32209,
+          "confirmed": 32906,
           "date": "2020-10-05",
           "deaths": 2530,
           "recovered": 0
@@ -1731,7 +1731,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 25852,
+          "confirmed": 26447,
           "date": "2020-10-05",
           "deaths": 1630,
           "recovered": 0

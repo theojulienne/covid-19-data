@@ -572,17 +572,17 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "back_1week": {
         "confirmed": 155428,
-        "deaths": 9313,
+        "deaths": 9318,
         "recovered": 132253
       },
       "back_2week": {
         "confirmed": 145750,
-        "deaths": 9262,
+        "deaths": 9267,
         "recovered": 125984
       },
       "latest": {
         "confirmed": 168501,
-        "deaths": 9488,
+        "deaths": 9533,
         "recovered": 140711
       },
       "states": {
@@ -624,15 +624,15 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 56544,
-          "deaths": 2993
+          "deaths": 3026
         },
         "Prince Edward Island": {
           "confirmed": 59,
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 77380,
-          "deaths": 5867
+          "confirmed": 78459,
+          "deaths": 5878
         },
         "Saskatchewan": {
           "confirmed": 1954,
@@ -1131,19 +1131,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 110957,
-        "deaths": 2093,
-        "recovered": 85220
+        "confirmed": 111386,
+        "deaths": 2095,
+        "recovered": 85965
       },
       "back_2week": {
-        "confirmed": 107700,
-        "deaths": 2044,
-        "recovered": 80820
+        "confirmed": 108289,
+        "deaths": 2047,
+        "recovered": 81668
       },
       "latest": {
-        "confirmed": 113926,
-        "deaths": 2128,
-        "recovered": 89635
+        "confirmed": 114480,
+        "deaths": 2134,
+        "recovered": 90366
       }
     },
     "DZA": {
@@ -1165,18 +1165,18 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 133981,
-        "deaths": 11273,
+        "confirmed": 134747,
+        "deaths": 11279,
         "recovered": 102852
       },
       "back_2week": {
-        "confirmed": 125620,
-        "deaths": 11084,
+        "confirmed": 126419,
+        "deaths": 11090,
         "recovered": 97063
       },
       "latest": {
-        "confirmed": 140351,
-        "deaths": 11597,
+        "confirmed": 141034,
+        "deaths": 11647,
         "recovered": 112296
       }
     },
@@ -1916,18 +1916,18 @@ var covid19_dataset_latest_totals = {
     "KEN": {
       "back_1week": {
         "confirmed": 38115,
-        "deaths": 689,
-        "recovered": 24581
+        "deaths": 691,
+        "recovered": 24621
       },
       "back_2week": {
         "confirmed": 36981,
-        "deaths": 646,
-        "recovered": 23777
+        "deaths": 648,
+        "recovered": 23887
       },
       "latest": {
         "confirmed": 39427,
-        "deaths": 728,
-        "recovered": 25426
+        "deaths": 731,
+        "recovered": 25659
       }
     },
     "KGZ": {
@@ -2745,19 +2745,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 72939,
-        "deaths": 1944,
-        "recovered": 47380
+        "confirmed": 73604,
+        "deaths": 1953,
+        "recovered": 47647
       },
       "back_2week": {
-        "confirmed": 68025,
-        "deaths": 1899,
-        "recovered": 45404
+        "confirmed": 68577,
+        "deaths": 1912,
+        "recovered": 45596
       },
       "latest": {
-        "confirmed": 78247,
-        "deaths": 1995,
-        "recovered": 49845
+        "confirmed": 79151,
+        "deaths": 2005,
+        "recovered": 50207
       }
     },
     "PRY": {
@@ -2917,17 +2917,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 57700,
         "deaths": 27,
-        "recovered": 57359
+        "recovered": 57367
       },
       "back_2week": {
         "confirmed": 57576,
         "deaths": 27,
-        "recovered": 57142
+        "recovered": 57181
       },
       "latest": {
         "confirmed": 57812,
         "deaths": 27,
-        "recovered": 57562
+        "recovered": 57575
       }
     },
     "SLE": {
