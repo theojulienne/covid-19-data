@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 48146,
+      "confirmed": 48896,
       "date": "2020-10-05",
-      "deaths": 813,
-      "recovered": 38629
+      "deaths": 818,
+      "recovered": 39058
     }
   },
   "Azerbaijan": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 601971,
+      "confirmed": 631262,
       "date": "2020-10-05",
-      "deaths": 31952,
-      "recovered": 80061
+      "deaths": 32027,
+      "recovered": 80088
     }
   },
   "Germany": {
@@ -805,10 +805,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 303498,
+      "confirmed": 307120,
       "date": "2020-10-05",
-      "deaths": 11151,
-      "recovered": 228453
+      "deaths": 11253,
+      "recovered": 232593
     }
   },
   "Iran": {
@@ -1119,26 +1119,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 37973,
+          "confirmed": 38076,
           "date": "2020-10-05",
-          "deaths": 1260,
-          "recovered": 36152
+          "deaths": 1262,
+          "recovered": 36199
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 99812,
+          "confirmed": 99941,
           "date": "2020-10-05",
           "deaths": 2240,
-          "recovered": 95716
+          "recovered": 96012
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 138050,
+          "confirmed": 138341,
           "date": "2020-10-05",
-          "deaths": 2520,
-          "recovered": 130811
+          "deaths": 2521,
+          "recovered": 131037
         }
       }
     }
@@ -1245,10 +1245,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 100074,
+      "confirmed": 102080,
       "date": "2020-10-05",
-      "deaths": 2630,
-      "recovered": 73003
+      "deaths": 2659,
+      "recovered": 73552
     }
   },
   "Portugal": {
@@ -1353,7 +1353,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57812,
+      "confirmed": 57819,
       "date": "2020-10-05",
       "deaths": 27,
       "recovered": 57575
