@@ -337,7 +337,7 @@
         "live": {
           "confirmed": 56700,
           "date": "2020-10-05",
-          "deaths": 3028,
+          "deaths": 3029,
           "recovered": 48167
         }
       },
@@ -933,10 +933,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 44482,
+      "confirmed": 45657,
       "date": "2020-10-05",
-      "deaths": 406,
-      "recovered": 19782
+      "deaths": 414,
+      "recovered": 20243
     }
   },
   "Libya": {
@@ -1065,10 +1065,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 133272,
+      "confirmed": 134695,
       "date": "2020-10-05",
-      "deaths": 2330,
-      "recovered": 111036
+      "deaths": 2369,
+      "recovered": 113336
     }
   },
   "Nepal": {
@@ -1509,7 +1509,7 @@
         "live": {
           "confirmed": 621999,
           "date": "2020-10-05",
-          "deaths": 12914,
+          "deaths": 12913,
           "recovered": 0
         }
       },
@@ -1619,17 +1619,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 28014,
+          "confirmed": 28131,
           "date": "2020-10-05",
-          "deaths": 630,
+          "deaths": 631,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 37502,
+          "confirmed": 37807,
           "date": "2020-10-05",
-          "deaths": 1815,
+          "deaths": 1816,
           "recovered": 0
         }
       },
