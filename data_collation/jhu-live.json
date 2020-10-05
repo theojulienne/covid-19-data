@@ -317,10 +317,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 21587,
+      "confirmed": 21870,
       "date": "2020-10-05",
-      "deaths": 844,
-      "recovered": 15014
+      "deaths": 854,
+      "recovered": 15179
     }
   },
   "Cameroon": {
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 622806,
+          "confirmed": 623293,
           "date": "2020-10-05",
           "deaths": 12922,
           "recovered": 0
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 23022,
           "date": "2020-10-05",
-          "deaths": 767,
+          "deaths": 771,
           "recovered": 0
         }
       },
