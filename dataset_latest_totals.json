@@ -1915,17 +1915,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 37871,
+        "confirmed": 38115,
         "deaths": 689,
         "recovered": 24581
       },
       "back_2week": {
-        "confirmed": 36829,
+        "confirmed": 36981,
         "deaths": 646,
         "recovered": 23777
       },
       "latest": {
-        "confirmed": 39184,
+        "confirmed": 39427,
         "deaths": 728,
         "recovered": 25426
       }
