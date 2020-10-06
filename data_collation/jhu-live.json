@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 57354,
+          "confirmed": 57363,
           "date": "2020-10-06",
           "deaths": 3036,
-          "recovered": 48727
+          "recovered": 48728
         }
       },
       "Quebec": {
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 79437,
+      "confirmed": 80003,
       "date": "2020-10-06",
-      "deaths": 1230,
-      "recovered": 34016
+      "deaths": 1238,
+      "recovered": 34960
     }
   },
   "France": {
@@ -829,9 +829,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 38549,
+      "confirmed": 38973,
       "date": "2020-10-06",
-      "deaths": 1810,
+      "deaths": 1811,
       "recovered": 23364
     }
   },
@@ -933,10 +933,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 45657,
+      "confirmed": 46918,
       "date": "2020-10-06",
-      "deaths": 414,
-      "recovered": 20243
+      "deaths": 424,
+      "recovered": 20490
     }
   },
   "Libya": {
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 624080,
+          "confirmed": 624202,
           "date": "2020-10-06",
           "deaths": 12936,
           "recovered": 0
@@ -1587,9 +1587,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 69151,
+          "confirmed": 69498,
           "date": "2020-10-06",
-          "deaths": 1409,
+          "deaths": 1414,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 363436,
+          "confirmed": 364182,
           "date": "2020-10-06",
           "deaths": 28417,
           "recovered": 0
@@ -1627,9 +1627,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 37807,
+          "confirmed": 38083,
           "date": "2020-10-06",
-          "deaths": 1816,
+          "deaths": 1817,
           "recovered": 0
         }
       },
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 454818,
+          "confirmed": 455172,
           "date": "2020-10-06",
           "deaths": 9598,
           "recovered": 0
@@ -1765,10 +1765,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 41957,
+      "confirmed": 42432,
       "date": "2020-10-06",
-      "deaths": 339,
-      "recovered": 35182
+      "deaths": 349,
+      "recovered": 35599
     }
   }
 }
