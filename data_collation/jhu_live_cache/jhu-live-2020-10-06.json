@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 80696,
+      "confirmed": 81090,
       "date": "2020-10-06",
-      "deaths": 862,
-      "recovered": 75303
+      "deaths": 868,
+      "recovered": 75376
     }
   },
   "Belgium": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 28449,
+      "confirmed": 28710,
       "date": "2020-10-06",
-      "deaths": 888,
-      "recovered": 22032
+      "deaths": 903,
+      "recovered": 22274
     }
   },
   "Brazil": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 29539,
+      "confirmed": 29634,
       "date": "2020-10-06",
       "deaths": 869,
-      "recovered": 24406
+      "recovered": 24525
     }
   },
   "Ethiopia": {
@@ -551,7 +551,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 70006,
+          "confirmed": 70016,
           "date": "2020-10-06",
           "deaths": 2674,
           "recovered": 62509
@@ -885,7 +885,7 @@
         "live": {
           "confirmed": 26740,
           "date": "2020-10-06",
-          "deaths": 413,
+          "deaths": 414,
           "recovered": 23963
         }
       }
@@ -1345,17 +1345,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 336766,
+      "confirmed": 337243,
       "date": "2020-10-06",
-      "deaths": 4898,
-      "recovered": 322055
+      "deaths": 4923,
+      "recovered": 322612
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 33952,
+      "confirmed": 34072,
       "date": "2020-10-06",
-      "deaths": 756,
+      "deaths": 757,
       "recovered": 0
     }
   },
@@ -1475,7 +1475,7 @@
     "live": {
       "confirmed": 56632,
       "date": "2020-10-06",
-      "deaths": 2079,
+      "deaths": 2081,
       "recovered": 47300
     }
   },
