@@ -4906,10 +4906,10 @@
       9,
       8,
       9,
-      null,
-      null,
-      null,
-      null
+      8,
+      10,
+      10,
+      11
     ],
     "current_icu": [
       null,
@@ -5163,10 +5163,10 @@
       3,
       3,
       3,
-      null,
-      null,
-      null,
-      null
+      2,
+      2,
+      3,
+      3
     ],
     "current_ventilators": [
       null,
