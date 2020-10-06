@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 349450,
-        "deaths": 8990,
-        "recovered": 280673
+        "confirmed": 353566,
+        "deaths": 9052,
+        "recovered": 284784
       },
       "back_2week": {
-        "confirmed": 319035,
-        "deaths": 8555,
-        "recovered": 253591
+        "confirmed": 322856,
+        "deaths": 8625,
+        "recovered": 258075
       },
       "latest": {
-        "confirmed": 379141,
-        "deaths": 9399,
-        "recovered": 307482
+        "confirmed": 382949,
+        "deaths": 9464,
+        "recovered": 312158
       }
     },
     "ISL": {
@@ -2051,19 +2051,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 32364,
-        "deaths": 520,
-        "recovered": 18128
+        "confirmed": 33213,
+        "deaths": 527,
+        "recovered": 18518
       },
       "back_2week": {
-        "confirmed": 27949,
-        "deaths": 444,
-        "recovered": 15068
+        "confirmed": 28796,
+        "deaths": 450,
+        "recovered": 15384
       },
       "latest": {
-        "confirmed": 36809,
-        "deaths": 592,
-        "recovered": 21429
+        "confirmed": 37437,
+        "deaths": 596,
+        "recovered": 22076
       }
     },
     "LCA": {
@@ -2745,19 +2745,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 73604,
-        "deaths": 1953,
-        "recovered": 47647
+        "confirmed": 74029,
+        "deaths": 1957,
+        "recovered": 47884
       },
       "back_2week": {
-        "confirmed": 68577,
-        "deaths": 1912,
-        "recovered": 45596
+        "confirmed": 69200,
+        "deaths": 1920,
+        "recovered": 45736
       },
       "latest": {
-        "confirmed": 79151,
-        "deaths": 2005,
-        "recovered": 50207
+        "confirmed": 79885,
+        "deaths": 2018,
+        "recovered": 50454
       }
     },
     "PRY": {
