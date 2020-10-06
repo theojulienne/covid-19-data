@@ -41435,7 +41435,7 @@ var covid19_dataset_country_usa = {
           76834,
           77004,
           77090,
-          77090
+          77141
         ],
         "tested": [
           0,
@@ -62550,7 +62550,7 @@ var covid19_dataset_country_usa = {
       2870197,
       2894178,
       2908608,
-      2931902
+      2931953
     ],
     "tested": [
       0,
