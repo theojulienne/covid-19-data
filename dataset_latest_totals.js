@@ -631,7 +631,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 78459,
+          "confirmed": 79650,
           "deaths": 5878
         },
         "Saskatchewan": {
@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 64597,
-        "deaths": 606,
-        "recovered": 31268
+        "confirmed": 65883,
+        "deaths": 618,
+        "recovered": 31799
       },
       "back_2week": {
-        "confirmed": 49290,
-        "deaths": 503,
-        "recovered": 24755
+        "confirmed": 50764,
+        "deaths": 522,
+        "recovered": 25425
       },
       "latest": {
-        "confirmed": 82446,
-        "deaths": 727,
-        "recovered": 44149
+        "confirmed": 85566,
+        "deaths": 758,
+        "recovered": 46636
       }
     },
     "DEU": {
@@ -2917,17 +2917,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 57715,
         "deaths": 27,
-        "recovered": 57367
+        "recovered": 57393
       },
       "back_2week": {
         "confirmed": 57606,
         "deaths": 27,
-        "recovered": 57181
+        "recovered": 57241
       },
       "latest": {
         "confirmed": 57819,
         "deaths": 27,
-        "recovered": 57575
+        "recovered": 57597
       }
     },
     "SLE": {

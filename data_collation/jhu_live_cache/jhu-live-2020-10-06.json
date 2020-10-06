@@ -338,12 +338,12 @@
           "confirmed": 57348,
           "date": "2020-10-06",
           "deaths": 3036,
-          "recovered": 48649
+          "recovered": 48720
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 79650,
+          "confirmed": 81014,
           "date": "2020-10-06",
           "deaths": 5884,
           "recovered": 66180
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 85566,
+      "confirmed": 87176,
       "date": "2020-10-06",
-      "deaths": 758,
-      "recovered": 46636
+      "deaths": 789,
+      "recovered": 48714
     }
   },
   "Denmark": {
@@ -1356,7 +1356,7 @@
       "confirmed": 57830,
       "date": "2020-10-06",
       "deaths": 27,
-      "recovered": 57597
+      "recovered": 57612
     }
   },
   "South Africa": {
@@ -1539,9 +1539,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 22340,
+          "confirmed": 22440,
           "date": "2020-10-06",
-          "deaths": 769,
+          "deaths": 770,
           "recovered": 0
         }
       },
@@ -1571,7 +1571,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 28843,
+          "confirmed": 29045,
           "date": "2020-10-06",
           "deaths": 944,
           "recovered": 0
