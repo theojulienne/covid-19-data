@@ -212,12 +212,12 @@
           "tested": 105515
         },
         "VIC": {
-          "confirmed": 20209,
+          "confirmed": 20220,
           "current_hospitalized": 4,
           "current_icu": 5,
           "deaths": 806,
           "recovered": 1992,
-          "tested": 2745493
+          "tested": 2754516
         },
         "WA": {
           "confirmed": 686,
@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 231026,
+        "confirmed": 233265,
         "deaths": 1466,
-        "recovered": 159931
+        "recovered": 165191
       },
       "back_2week": {
-        "confirmed": 187902,
+        "confirmed": 190929,
         "deaths": 1256,
-        "recovered": 134069
+        "recovered": 136780
       },
       "latest": {
-        "confirmed": 266775,
+        "confirmed": 272309,
         "deaths": 1719,
-        "recovered": 195629
+        "recovered": 204355
       }
     },
     "ITA": {
