@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 52270,
+      "confirmed": 52399,
       "date": "2020-10-06",
       "deaths": 1768,
-      "recovered": 36672
+      "recovered": 36763
     }
   },
   "Argentina": {
@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 81129,
+      "confirmed": 82142,
       "date": "2020-10-06",
-      "deaths": 987,
-      "recovered": 49703
+      "deaths": 1004,
+      "recovered": 50020
     }
   },
   "Czechia": {
@@ -837,10 +837,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 276439,
+      "confirmed": 277026,
       "date": "2020-10-06",
-      "deaths": 1784,
-      "recovered": 210845
+      "deaths": 1797,
+      "recovered": 211397
     }
   },
   "Italy": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 624404,
+          "confirmed": 624605,
           "date": "2020-10-06",
-          "deaths": 12942,
+          "deaths": 12946,
           "recovered": 0
         }
       },
@@ -1555,7 +1555,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 53360,
+          "confirmed": 53509,
           "date": "2020-10-06",
           "deaths": 3314,
           "recovered": 0
@@ -1651,7 +1651,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 55251,
+          "confirmed": 55777,
           "date": "2020-10-06",
           "deaths": 327,
           "recovered": 0
@@ -1723,7 +1723,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 441528,
+          "confirmed": 454176,
           "date": "2020-10-06",
           "deaths": 37688,
           "recovered": 0
@@ -1731,7 +1731,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 32906,
+          "confirmed": 33706,
           "date": "2020-10-06",
           "deaths": 2532,
           "recovered": 0
@@ -1739,7 +1739,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 26447,
+          "confirmed": 26872,
           "date": "2020-10-06",
           "deaths": 1640,
           "recovered": 0
