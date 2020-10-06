@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 136868,
+      "confirmed": 137107,
       "date": "2020-10-06",
-      "deaths": 8101,
-      "recovered": 97547
+      "deaths": 8129,
+      "recovered": 98007
     }
   },
   "Bosnia and Herzegovina": {
@@ -546,7 +546,7 @@
           "confirmed": 51182,
           "date": "2020-10-06",
           "deaths": 1894,
-          "recovered": 44865
+          "recovered": 45107
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 69641,
           "date": "2020-10-06",
           "deaths": 2672,
-          "recovered": 62120
+          "recovered": 62509
         }
       },
       "Niedersachsen": {
@@ -562,7 +562,7 @@
           "confirmed": 21234,
           "date": "2020-10-06",
           "deaths": 691,
-          "recovered": 18316
+          "recovered": 18462
         }
       },
       "Nordrhein-Westfalen": {
@@ -570,7 +570,7 @@
           "confirmed": 72995,
           "date": "2020-10-06",
           "deaths": 1884,
-          "recovered": 63552
+          "recovered": 64068
         }
       }
     }
@@ -909,10 +909,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 24164,
+      "confirmed": 24239,
       "date": "2020-10-06",
       "deaths": 422,
-      "recovered": 21886
+      "recovered": 22083
     }
   },
   "Kuwait": {
@@ -1127,26 +1127,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38076,
+          "confirmed": 38105,
           "date": "2020-10-06",
           "deaths": 1262,
-          "recovered": 36199
+          "recovered": 36291
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 99941,
+          "confirmed": 100033,
           "date": "2020-10-06",
-          "deaths": 2240,
-          "recovered": 96012
+          "deaths": 2243,
+          "recovered": 96022
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 138341,
+          "confirmed": 138593,
           "date": "2020-10-06",
-          "deaths": 2521,
-          "recovered": 131037
+          "deaths": 2523,
+          "recovered": 131462
         }
       }
     }
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 454594,
+          "confirmed": 454818,
           "date": "2020-10-06",
           "deaths": 9598,
           "recovered": 0
