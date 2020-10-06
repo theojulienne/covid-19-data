@@ -397,23 +397,23 @@
         "live": {
           "confirmed": 120542,
           "date": "2020-10-06",
-          "deaths": 2505,
-          "recovered": 109139
+          "deaths": 2524,
+          "recovered": 109137
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 68148,
           "date": "2020-10-06",
-          "deaths": 3077,
-          "recovered": 63941
+          "deaths": 3079,
+          "recovered": 63950
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 29737,
           "date": "2020-10-06",
-          "deaths": 786,
+          "deaths": 787,
           "recovered": 28027
         }
       },
@@ -421,48 +421,48 @@
         "live": {
           "confirmed": 276839,
           "date": "2020-10-06",
-          "deaths": 6898,
-          "recovered": 239626
+          "deaths": 6917,
+          "recovered": 244201
         }
       },
       "Cesar": {
         "live": {
           "confirmed": 21231,
           "date": "2020-10-06",
-          "deaths": 646,
-          "recovered": 18122
+          "deaths": 656,
+          "recovered": 18124
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 24478,
           "date": "2020-10-06",
-          "deaths": 1560,
-          "recovered": 21695
+          "deaths": 1565,
+          "recovered": 21694
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 34887,
           "date": "2020-10-06",
-          "deaths": 1032,
-          "recovered": 31448
+          "deaths": 1040,
+          "recovered": 31452
         }
       },
       "Santander": {
         "live": {
           "confirmed": 32808,
           "date": "2020-10-06",
-          "deaths": 1359,
-          "recovered": 28076
+          "deaths": 1372,
+          "recovered": 28075
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 65733,
           "date": "2020-10-06",
-          "deaths": 2359,
-          "recovered": 57708
+          "deaths": 2367,
+          "recovered": 57711
         }
       }
     }
@@ -593,10 +593,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 79629,
+      "confirmed": 80020,
       "date": "2020-10-06",
-      "deaths": 2422,
-      "recovered": 29305
+      "deaths": 2433,
+      "recovered": 29768
     }
   },
   "Hungary": {
