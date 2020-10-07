@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 29634,
       "date": "2020-10-07",
-      "deaths": 869,
+      "deaths": 873,
       "recovered": 24525
     }
   },
@@ -837,10 +837,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 277026,
+      "confirmed": 278585,
       "date": "2020-10-07",
-      "deaths": 1797,
-      "recovered": 211397
+      "deaths": 1803,
+      "recovered": 215181
     }
   },
   "Italy": {
@@ -1687,26 +1687,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 21451,
+          "confirmed": 22136,
           "date": "2020-10-07",
-          "deaths": 377,
-          "recovered": 4589
+          "deaths": 387,
+          "recovered": 4669
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 25091,
+          "confirmed": 25474,
           "date": "2020-10-07",
-          "deaths": 436,
-          "recovered": 8545
+          "deaths": 442,
+          "recovered": 8894
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 21494,
+          "confirmed": 21696,
           "date": "2020-10-07",
-          "deaths": 589,
-          "recovered": 8002
+          "deaths": 593,
+          "recovered": 8213
         }
       }
     }
@@ -1749,10 +1749,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 59343,
+      "confirmed": 59579,
       "date": "2020-10-07",
-      "deaths": 489,
-      "recovered": 56058
+      "deaths": 491,
+      "recovered": 56165
     }
   },
   "Venezuela": {
