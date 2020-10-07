@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 82142,
+      "confirmed": 83497,
       "date": "2020-10-07",
-      "deaths": 1004,
-      "recovered": 50020
+      "deaths": 1024,
+      "recovered": 50295
     }
   },
   "Czechia": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 280744,
+      "confirmed": 281481,
       "date": "2020-10-07",
-      "deaths": 1818,
-      "recovered": 216438
+      "deaths": 1824,
+      "recovered": 216613
     }
   },
   "Italy": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 626226,
+          "confirmed": 626672,
           "date": "2020-10-07",
-          "deaths": 12994,
+          "deaths": 13013,
           "recovered": 0
         }
       },
@@ -1659,7 +1659,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 55777,
+          "confirmed": 56450,
           "date": "2020-10-07",
           "deaths": 334,
           "recovered": 0
