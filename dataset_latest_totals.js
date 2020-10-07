@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 360555,
-        "deaths": 5193,
-        "recovered": 272073
+        "confirmed": 362043,
+        "deaths": 5219,
+        "recovered": 273698
       },
       "back_2week": {
-        "confirmed": 350621,
-        "deaths": 4979,
-        "recovered": 258717
+        "confirmed": 352178,
+        "deaths": 5007,
+        "recovered": 260790
       },
       "latest": {
-        "confirmed": 370132,
-        "deaths": 5375,
-        "recovered": 283182
+        "confirmed": 371631,
+        "deaths": 5405,
+        "recovered": 284833
       }
     },
     "BGR": {
@@ -2626,19 +2626,19 @@ var covid19_dataset_latest_totals = {
     },
     "OMN": {
       "back_1week": {
-        "confirmed": 98057,
-        "deaths": 924,
-        "recovered": 88234
+        "confirmed": 98585,
+        "deaths": 935,
+        "recovered": 88528
       },
       "back_2week": {
-        "confirmed": 94051,
-        "deaths": 853,
-        "recovered": 85781
+        "confirmed": 94711,
+        "deaths": 865,
+        "recovered": 86195
       },
       "latest": {
-        "confirmed": 101814,
-        "deaths": 985,
-        "recovered": 90600
+        "confirmed": 102648,
+        "deaths": 990,
+        "recovered": 91275
       }
     },
     "PAK": {
@@ -2813,19 +2813,19 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 123944,
-        "deaths": 4748,
-        "recovered": 99344
+        "confirmed": 125414,
+        "deaths": 4792,
+        "recovered": 100636
       },
       "back_2week": {
-        "confirmed": 113589,
-        "deaths": 4458,
-        "recovered": 90649
+        "confirmed": 114648,
+        "deaths": 4503,
+        "recovered": 92169
       },
       "latest": {
-        "confirmed": 137491,
-        "deaths": 5048,
-        "recovered": 108526
+        "confirmed": 139612,
+        "deaths": 5121,
+        "recovered": 109898
       }
     },
     "RUS": {
