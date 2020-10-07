@@ -110,7 +110,7 @@
           "confirmed": 88283,
           "date": "2020-10-07",
           "deaths": 2109,
-          "recovered": 85202
+          "recovered": 85258
         }
       },
       "Amapa": {
@@ -134,7 +134,7 @@
           "confirmed": 318147,
           "date": "2020-10-07",
           "deaths": 6985,
-          "recovered": 304732
+          "recovered": 306365
         }
       },
       "Ceara": {
@@ -142,7 +142,7 @@
           "confirmed": 255929,
           "date": "2020-10-07",
           "deaths": 9084,
-          "recovered": 220158
+          "recovered": 221806
         }
       },
       "Distrito Federal": {
@@ -166,7 +166,7 @@
           "confirmed": 221141,
           "date": "2020-10-07",
           "deaths": 4945,
-          "recovered": 211528
+          "recovered": 213062
         }
       },
       "Maranhao": {
@@ -190,7 +190,7 @@
           "confirmed": 72546,
           "date": "2020-10-07",
           "deaths": 1376,
-          "recovered": 66394
+          "recovered": 66615
         }
       },
       "Minas Gerais": {
@@ -198,7 +198,7 @@
           "confirmed": 310124,
           "date": "2020-10-07",
           "deaths": 7704,
-          "recovered": 275299
+          "recovered": 278272
         }
       },
       "Para": {
@@ -254,7 +254,7 @@
           "confirmed": 205375,
           "date": "2020-10-07",
           "deaths": 4989,
-          "recovered": 191485
+          "recovered": 193537
         }
       },
       "Rio de Janeiro": {
@@ -310,7 +310,7 @@
           "confirmed": 69587,
           "date": "2020-10-07",
           "deaths": 975,
-          "recovered": 54010
+          "recovered": 54797
         }
       }
     }
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 626672,
+          "confirmed": 626750,
           "date": "2020-10-07",
-          "deaths": 13013,
+          "deaths": 13019,
           "recovered": 0
         }
       },
