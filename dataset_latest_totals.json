@@ -2745,19 +2745,19 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 74029,
-        "deaths": 1957,
-        "recovered": 47884
+        "confirmed": 74717,
+        "deaths": 1963,
+        "recovered": 48193
       },
       "back_2week": {
-        "confirmed": 69200,
-        "deaths": 1920,
-        "recovered": 45736
+        "confirmed": 69663,
+        "deaths": 1925,
+        "recovered": 45974
       },
       "latest": {
-        "confirmed": 79885,
-        "deaths": 2018,
-        "recovered": 50454
+        "confirmed": 80312,
+        "deaths": 2032,
+        "recovered": 50712
       }
     },
     "PRY": {
