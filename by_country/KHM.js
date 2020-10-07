@@ -521,9 +521,11 @@ var covid19_dataset_country_khm = {
       278,
       278,
       278,
+      280,
       280
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1041,6 +1043,7 @@ var covid19_dataset_country_khm = {
       275,
       275,
       275,
+      276,
       276
     ]
   }
