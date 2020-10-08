@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 73932,
+      "confirmed": 74422,
       "date": "2020-10-08",
       "deaths": 264,
       "recovered": 69411
@@ -395,7 +395,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 122871,
+          "confirmed": 124823,
           "date": "2020-10-08",
           "deaths": 2568,
           "recovered": 109409
@@ -403,7 +403,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 68465,
+          "confirmed": 68621,
           "date": "2020-10-08",
           "deaths": 3080,
           "recovered": 64015
@@ -411,7 +411,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 30118,
+          "confirmed": 30334,
           "date": "2020-10-08",
           "deaths": 793,
           "recovered": 28254
@@ -419,7 +419,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 281534,
+          "confirmed": 282794,
           "date": "2020-10-08",
           "deaths": 6982,
           "recovered": 250187
@@ -427,7 +427,7 @@
       },
       "Cesar": {
         "live": {
-          "confirmed": 21593,
+          "confirmed": 21882,
           "date": "2020-10-08",
           "deaths": 672,
           "recovered": 18179
@@ -435,7 +435,7 @@
       },
       "Cordoba": {
         "live": {
-          "confirmed": 24688,
+          "confirmed": 24779,
           "date": "2020-10-08",
           "deaths": 1569,
           "recovered": 21707
@@ -443,7 +443,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 35503,
+          "confirmed": 35873,
           "date": "2020-10-08",
           "deaths": 1044,
           "recovered": 31531
@@ -451,7 +451,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 33510,
+          "confirmed": 33870,
           "date": "2020-10-08",
           "deaths": 1404,
           "recovered": 28166
@@ -459,7 +459,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 66796,
+          "confirmed": 67552,
           "date": "2020-10-08",
           "deaths": 2395,
           "recovered": 57954
@@ -509,10 +509,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 104035,
+      "confirmed": 104156,
       "date": "2020-10-08",
-      "deaths": 6010,
-      "recovered": 97492
+      "deaths": 6017,
+      "recovered": 97524
     }
   },
   "El Salvador": {
@@ -1523,7 +1523,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 629628,
+          "confirmed": 629721,
           "date": "2020-10-08",
           "deaths": 13082,
           "recovered": 0
@@ -1659,9 +1659,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 459910,
+          "confirmed": 460824,
           "date": "2020-10-08",
-          "deaths": 9713,
+          "deaths": 9740,
           "recovered": 0
         }
       },
