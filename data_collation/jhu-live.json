@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 134291,
+      "confirmed": 137868,
       "date": "2020-10-08",
-      "deaths": 10092,
-      "recovered": 19812
+      "deaths": 10108,
+      "recovered": 19895
     }
   },
   "Bolivia": {
@@ -546,7 +546,7 @@
           "confirmed": 52222,
           "date": "2020-10-08",
           "deaths": 1898,
-          "recovered": 45184
+          "recovered": 45704
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 70468,
           "date": "2020-10-08",
           "deaths": 2680,
-          "recovered": 62590
+          "recovered": 63275
         }
       },
       "Niedersachsen": {
@@ -570,7 +570,7 @@
           "confirmed": 74615,
           "date": "2020-10-08",
           "deaths": 1891,
-          "recovered": 64600
+          "recovered": 65151
         }
       }
     }
@@ -901,10 +901,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 108362,
+      "confirmed": 108454,
       "date": "2020-10-08",
       "deaths": 1746,
-      "recovered": 103465
+      "recovered": 103604
     }
   },
   "Kenya": {
@@ -1143,26 +1143,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38141,
+          "confirmed": 38175,
           "date": "2020-10-08",
           "deaths": 1263,
-          "recovered": 36315
+          "recovered": 36413
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 100148,
+          "confirmed": 100272,
           "date": "2020-10-08",
-          "deaths": 2245,
-          "recovered": 96089
+          "deaths": 2247,
+          "recovered": 96506
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 138891,
+          "confirmed": 139195,
           "date": "2020-10-08",
-          "deaths": 2531,
-          "recovered": 131831
+          "deaths": 2535,
+          "recovered": 132183
         }
       }
     }
@@ -1587,9 +1587,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 25416,
+          "confirmed": 25572,
           "date": "2020-10-08",
-          "deaths": 825,
+          "deaths": 826,
           "recovered": 0
         }
       },
