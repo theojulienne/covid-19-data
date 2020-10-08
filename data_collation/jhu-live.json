@@ -182,7 +182,7 @@
           "confirmed": 129038,
           "date": "2020-10-08",
           "deaths": 3525,
-          "recovered": 109439
+          "recovered": 110490
         }
       },
       "Mato Grosso do Sul": {
@@ -230,7 +230,7 @@
           "confirmed": 151139,
           "date": "2020-10-08",
           "deaths": 8379,
-          "recovered": 129516
+          "recovered": 131135
         }
       },
       "Piaui": {
@@ -238,7 +238,7 @@
           "confirmed": 99960,
           "date": "2020-10-08",
           "deaths": 2180,
-          "recovered": 97295
+          "recovered": 97854
         }
       },
       "Rio Grande do Norte": {
@@ -294,7 +294,7 @@
           "confirmed": 1016755,
           "date": "2020-10-08",
           "deaths": 36669,
-          "recovered": 888042
+          "recovered": 895004
         }
       },
       "Sergipe": {
@@ -543,7 +543,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 52222,
+          "confirmed": 52231,
           "date": "2020-10-08",
           "deaths": 1898,
           "recovered": 45704
@@ -551,25 +551,25 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 70468,
+          "confirmed": 71034,
           "date": "2020-10-08",
-          "deaths": 2680,
+          "deaths": 2681,
           "recovered": 63275
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 21621,
+          "confirmed": 21743,
           "date": "2020-10-08",
-          "deaths": 691,
+          "deaths": 694,
           "recovered": 18763
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 74615,
+          "confirmed": 75671,
           "date": "2020-10-08",
-          "deaths": 1891,
+          "deaths": 1894,
           "recovered": 65151
         }
       }
@@ -601,10 +601,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 80662,
+      "confirmed": 81016,
       "date": "2020-10-08",
-      "deaths": 2447,
-      "recovered": 30131
+      "deaths": 2466,
+      "recovered": 30590
     }
   },
   "Hungary": {
