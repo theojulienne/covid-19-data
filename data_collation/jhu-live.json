@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 41113,
+      "confirmed": 41304,
       "date": "2020-10-08",
-      "deaths": 602,
-      "recovered": 38858
+      "deaths": 603,
+      "recovered": 39012
     }
   },
   "Bahrain": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 30710,
+      "confirmed": 31156,
       "date": "2020-10-08",
-      "deaths": 663,
-      "recovered": 24240
+      "deaths": 665,
+      "recovered": 24899
     }
   },
   "Dominican Republic": {
@@ -559,7 +559,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 21743,
+          "confirmed": 21941,
           "date": "2020-10-08",
           "deaths": 694,
           "recovered": 18763
@@ -570,7 +570,7 @@
           "confirmed": 75671,
           "date": "2020-10-08",
           "deaths": 1894,
-          "recovered": 65151
+          "recovered": 65200
         }
       }
     }
@@ -941,10 +941,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 39513,
+      "confirmed": 40292,
       "date": "2020-10-08",
-      "deaths": 608,
-      "recovered": 22831
+      "deaths": 616,
+      "recovered": 23130
     }
   },
   "Mexico": {
@@ -1091,25 +1091,25 @@
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 21417,
+          "confirmed": 22216,
           "date": "2020-10-08",
-          "deaths": 1574,
+          "deaths": 1575,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 30693,
+          "confirmed": 31736,
           "date": "2020-10-08",
-          "deaths": 885,
+          "deaths": 886,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 45163,
+          "confirmed": 46970,
           "date": "2020-10-08",
-          "deaths": 1441,
+          "deaths": 1444,
           "recovered": 0
         }
       }
@@ -1471,7 +1471,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 26456,
+          "confirmed": 26824,
           "date": "2020-10-08",
           "deaths": 2408,
           "recovered": 0
