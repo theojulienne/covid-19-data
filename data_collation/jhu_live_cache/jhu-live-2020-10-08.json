@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39548,
+      "confirmed": 39616,
       "date": "2020-10-08",
-      "deaths": 1469,
-      "recovered": 33045
+      "deaths": 1470,
+      "recovered": 33058
     }
   },
   "Algeria": {
@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 29737,
       "date": "2020-10-08",
-      "deaths": 873,
+      "deaths": 877,
       "recovered": 24643
     }
   },
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 281481,
+      "confirmed": 282872,
       "date": "2020-10-08",
       "deaths": 1824,
-      "recovered": 216613
+      "recovered": 219998
     }
   },
   "Italy": {
@@ -933,10 +933,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 48097,
+      "confirmed": 48342,
       "date": "2020-10-08",
-      "deaths": 1069,
-      "recovered": 43798
+      "deaths": 1073,
+      "recovered": 43957
     }
   },
   "Lebanon": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 628627,
+          "confirmed": 628791,
           "date": "2020-10-08",
-          "deaths": 13051,
+          "deaths": 13059,
           "recovered": 0
         }
       },
@@ -1695,26 +1695,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 22136,
+          "confirmed": 22712,
           "date": "2020-10-08",
-          "deaths": 387,
-          "recovered": 4669
+          "deaths": 396,
+          "recovered": 4709
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 25474,
+          "confirmed": 25896,
           "date": "2020-10-08",
-          "deaths": 442,
-          "recovered": 8894
+          "deaths": 453,
+          "recovered": 9116
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 21696,
+          "confirmed": 21923,
           "date": "2020-10-08",
-          "deaths": 593,
-          "recovered": 8213
+          "deaths": 600,
+          "recovered": 8396
         }
       }
     }
@@ -1757,9 +1757,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 59788,
+      "confirmed": 59905,
       "date": "2020-10-08",
-      "deaths": 492,
+      "deaths": 494,
       "recovered": 56568
     }
   },
