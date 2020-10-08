@@ -813,10 +813,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 483844,
+      "confirmed": 488236,
       "date": "2020-10-08",
-      "deaths": 27658,
-      "recovered": 397109
+      "deaths": 27888,
+      "recovered": 399300
     }
   },
   "Iraq": {
@@ -1081,10 +1081,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 94253,
+      "confirmed": 98617,
       "date": "2020-10-08",
-      "deaths": 578,
-      "recovered": 68668
+      "deaths": 590,
+      "recovered": 71343
     }
   },
   "Netherlands": {
@@ -1481,9 +1481,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 57709,
+      "confirmed": 58881,
       "date": "2020-10-08",
-      "deaths": 2082,
+      "deaths": 2084,
       "recovered": 47300
     }
   },
@@ -1721,10 +1721,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 101840,
+      "confirmed": 102929,
       "date": "2020-10-08",
-      "deaths": 436,
-      "recovered": 91710
+      "deaths": 438,
+      "recovered": 93479
     }
   },
   "United Kingdom": {
