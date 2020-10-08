@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 53755,
+      "confirmed": 54473,
       "date": "2020-10-08",
-      "deaths": 995,
-      "recovered": 45110
+      "deaths": 1004,
+      "recovered": 45312
     }
   },
   "Austria": {
@@ -891,7 +891,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 26882,
+          "confirmed": 27130,
           "date": "2020-10-08",
           "deaths": 416,
           "recovered": 24379
