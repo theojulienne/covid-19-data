@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 81014,
-          "deaths": 5899
+          "confirmed": 81914,
+          "deaths": 5906
         },
         "Saskatchewan": {
           "confirmed": 1984,
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 67843,
-        "deaths": 636,
-        "recovered": 32759
+        "confirmed": 70763,
+        "deaths": 655,
+        "recovered": 33443
       },
       "back_2week": {
-        "confirmed": 53158,
-        "deaths": 531,
-        "recovered": 26151
+        "confirmed": 55464,
+        "deaths": 555,
+        "recovered": 26709
       },
       "latest": {
-        "confirmed": 90022,
-        "deaths": 794,
-        "recovered": 48788
+        "confirmed": 95360,
+        "deaths": 829,
+        "recovered": 50767
       }
     },
     "DEU": {
@@ -1575,18 +1575,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 18123,
-        "deaths": 388,
+        "confirmed": 18475,
+        "deaths": 391,
         "recovered": 1347
       },
       "back_2week": {
-        "confirmed": 15928,
-        "deaths": 352,
+        "confirmed": 16286,
+        "deaths": 357,
         "recovered": 1347
       },
       "latest": {
-        "confirmed": 20541,
-        "deaths": 420,
+        "confirmed": 20947,
+        "deaths": 424,
         "recovered": 1347
       }
     },
@@ -1864,19 +1864,19 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 10049,
-        "deaths": 57,
-        "recovered": 4496
+        "confirmed": 11825,
+        "deaths": 61,
+        "recovered": 4626
       },
       "back_2week": {
-        "confirmed": 5679,
-        "deaths": 33,
-        "recovered": 3707
+        "confirmed": 6042,
+        "deaths": 35,
+        "recovered": 3812
       },
       "latest": {
-        "confirmed": 19001,
-        "deaths": 122,
-        "recovered": 5386
+        "confirmed": 20200,
+        "deaths": 131,
+        "recovered": 5575
       }
     },
     "JPN": {
