@@ -1261,10 +1261,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 331869,
+      "confirmed": 334770,
       "date": "2020-10-09",
-      "deaths": 6069,
-      "recovered": 274318
+      "deaths": 6152,
+      "recovered": 275307
     }
   },
   "Poland": {
@@ -1303,58 +1303,58 @@
     "subseries": {
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 23777,
+          "confirmed": 23952,
           "date": "2020-10-09",
-          "deaths": 198,
-          "recovered": 21677
+          "deaths": 200,
+          "recovered": 21779
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 318111,
+          "confirmed": 321812,
           "date": "2020-10-09",
-          "deaths": 5497,
-          "recovered": 257703
+          "deaths": 5530,
+          "recovered": 259127
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 76145,
+          "confirmed": 76556,
           "date": "2020-10-09",
-          "deaths": 1390,
-          "recovered": 57811
+          "deaths": 1397,
+          "recovered": 58036
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 34039,
+          "confirmed": 34286,
           "date": "2020-10-09",
-          "deaths": 600,
-          "recovered": 29085
+          "deaths": 605,
+          "recovered": 29312
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 23818,
+          "confirmed": 24083,
           "date": "2020-10-09",
-          "deaths": 559,
-          "recovered": 18917
+          "deaths": 568,
+          "recovered": 19203
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 46093,
+          "confirmed": 46562,
           "date": "2020-10-09",
-          "deaths": 3162,
-          "recovered": 30612
+          "deaths": 3184,
+          "recovered": 30847
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 30526,
+          "confirmed": 30717,
           "date": "2020-10-09",
-          "deaths": 633,
-          "recovered": 22632
+          "deaths": 640,
+          "recovered": 22766
         }
       }
     }
@@ -1377,7 +1377,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57849,
+      "confirmed": 57859,
       "date": "2020-10-09",
       "deaths": 27,
       "recovered": 57668
