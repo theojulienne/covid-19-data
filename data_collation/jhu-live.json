@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 137868,
+      "confirmed": 143596,
       "date": "2020-10-09",
-      "deaths": 10108,
-      "recovered": 19895
+      "deaths": 10126,
+      "recovered": 19981
     }
   },
   "Bolivia": {
@@ -118,7 +118,7 @@
           "confirmed": 49085,
           "date": "2020-10-09",
           "deaths": 724,
-          "recovered": 36783
+          "recovered": 36814
         }
       },
       "Amazonas": {
@@ -246,7 +246,7 @@
           "confirmed": 72348,
           "date": "2020-10-09",
           "deaths": 2413,
-          "recovered": 41449
+          "recovered": 42040
         }
       },
       "Rio Grande do Sul": {
@@ -270,7 +270,7 @@
           "confirmed": 67323,
           "date": "2020-10-09",
           "deaths": 1390,
-          "recovered": 58783
+          "recovered": 60189
         }
       },
       "Roraima": {
@@ -278,7 +278,7 @@
           "confirmed": 51879,
           "date": "2020-10-09",
           "deaths": 666,
-          "recovered": 46135
+          "recovered": 48508
         }
       },
       "Santa Catarina": {
@@ -302,7 +302,7 @@
           "confirmed": 78957,
           "date": "2020-10-09",
           "deaths": 2078,
-          "recovered": 72161
+          "recovered": 73030
         }
       },
       "Tocantins": {
@@ -546,7 +546,7 @@
           "confirmed": 52806,
           "date": "2020-10-09",
           "deaths": 1898,
-          "recovered": 45510
+          "recovered": 45995
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 71135,
           "date": "2020-10-09",
           "deaths": 2681,
-          "recovered": 63000
+          "recovered": 63645
         }
       },
       "Niedersachsen": {
@@ -601,10 +601,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 81016,
+      "confirmed": 81672,
       "date": "2020-10-09",
-      "deaths": 2466,
-      "recovered": 30590
+      "deaths": 2477,
+      "recovered": 31089
     }
   },
   "Hungary": {
@@ -909,10 +909,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 108454,
+      "confirmed": 108561,
       "date": "2020-10-09",
       "deaths": 1746,
-      "recovered": 103604
+      "recovered": 103758
     }
   },
   "Kenya": {
@@ -1151,26 +1151,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38175,
+          "confirmed": 38219,
           "date": "2020-10-09",
           "deaths": 1263,
-          "recovered": 36413
+          "recovered": 36447
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 100272,
+          "confirmed": 100330,
           "date": "2020-10-09",
-          "deaths": 2247,
-          "recovered": 96506
+          "deaths": 2248,
+          "recovered": 96527
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 139195,
+          "confirmed": 139571,
           "date": "2020-10-09",
-          "deaths": 2535,
-          "recovered": 132183
+          "deaths": 2541,
+          "recovered": 132377
         }
       }
     }
@@ -1595,7 +1595,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 25572,
+          "confirmed": 25709,
           "date": "2020-10-09",
           "deaths": 826,
           "recovered": 0
