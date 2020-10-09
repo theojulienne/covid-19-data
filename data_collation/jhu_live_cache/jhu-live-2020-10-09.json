@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 24944,
+          "confirmed": 25120,
           "date": "2020-10-09",
-          "deaths": 367,
-          "recovered": 23053
+          "deaths": 371,
+          "recovered": 23235
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 289470,
+          "confirmed": 289899,
           "date": "2020-10-09",
-          "deaths": 9426,
-          "recovered": 276903
+          "deaths": 9448,
+          "recovered": 277250
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 28359,
+          "confirmed": 28465,
           "date": "2020-10-09",
-          "deaths": 925,
-          "recovered": 26493
+          "deaths": 933,
+          "recovered": 26586
         }
       }
     }
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 682192,
+      "confirmed": 702328,
       "date": "2020-10-09",
-      "deaths": 32295,
-      "recovered": 81886
+      "deaths": 32356,
+      "recovered": 81774
     }
   },
   "Germany": {
@@ -593,10 +593,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 96480,
+      "confirmed": 96935,
       "date": "2020-10-09",
-      "deaths": 3347,
-      "recovered": 84738
+      "deaths": 3356,
+      "recovered": 85343
     }
   },
   "Honduras": {
@@ -855,34 +855,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 36638,
+          "confirmed": 36914,
           "date": "2020-10-09",
-          "deaths": 4492,
-          "recovered": 26722
+          "deaths": 4493,
+          "recovered": 26812
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 109869,
+          "confirmed": 110852,
           "date": "2020-10-09",
-          "deaths": 16979,
-          "recovered": 82484
+          "deaths": 16980,
+          "recovered": 82744
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 37194,
+          "confirmed": 37595,
           "date": "2020-10-09",
           "deaths": 4172,
-          "recovered": 29043
+          "recovered": 29113
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 29909,
+          "confirmed": 30504,
           "date": "2020-10-09",
-          "deaths": 2206,
-          "recovered": 22620
+          "deaths": 2209,
+          "recovered": 22821
         }
       }
     }
@@ -893,18 +893,18 @@
         "live": {
           "confirmed": 27333,
           "date": "2020-10-09",
-          "deaths": 417,
-          "recovered": 24585
+          "deaths": 421,
+          "recovered": 24733
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 21517,
+      "confirmed": 22763,
       "date": "2020-10-09",
-      "deaths": 144,
-      "recovered": 5777
+      "deaths": 166,
+      "recovered": 5906
     }
   },
   "Kazakhstan": {
@@ -1081,10 +1081,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 59915,
+      "confirmed": 60833,
       "date": "2020-10-09",
-      "deaths": 1424,
-      "recovered": 43008
+      "deaths": 1442,
+      "recovered": 43489
     }
   },
   "Morocco": {
@@ -1741,7 +1741,7 @@
         "live": {
           "confirmed": 480656,
           "date": "2020-10-09",
-          "deaths": 37823,
+          "deaths": 37902,
           "recovered": 0
         }
       },
@@ -1749,7 +1749,7 @@
         "live": {
           "confirmed": 35787,
           "date": "2020-10-09",
-          "deaths": 2538,
+          "deaths": 2544,
           "recovered": 0
         }
       },
@@ -1757,7 +1757,7 @@
         "live": {
           "confirmed": 28262,
           "date": "2020-10-09",
-          "deaths": 1644,
+          "deaths": 1646,
           "recovered": 0
         }
       }
@@ -1765,10 +1765,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 60233,
+      "confirmed": 60342,
       "date": "2020-10-09",
-      "deaths": 497,
-      "recovered": 56976
+      "deaths": 498,
+      "recovered": 57221
     }
   },
   "Venezuela": {
