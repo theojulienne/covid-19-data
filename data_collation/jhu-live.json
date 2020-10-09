@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 137706,
+      "confirmed": 137969,
       "date": "2020-10-09",
-      "deaths": 8192,
-      "recovered": 99268
+      "deaths": 8228,
+      "recovered": 99812
     }
   },
   "Bosnia and Herzegovina": {
@@ -546,7 +546,7 @@
           "confirmed": 52806,
           "date": "2020-10-09",
           "deaths": 1898,
-          "recovered": 45704
+          "recovered": 45510
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 71135,
           "date": "2020-10-09",
           "deaths": 2681,
-          "recovered": 63275
+          "recovered": 63000
         }
       },
       "Niedersachsen": {
@@ -562,7 +562,7 @@
           "confirmed": 21941,
           "date": "2020-10-09",
           "deaths": 694,
-          "recovered": 18763
+          "recovered": 18962
         }
       },
       "Nordrhein-Westfalen": {
@@ -570,7 +570,7 @@
           "confirmed": 75671,
           "date": "2020-10-09",
           "deaths": 1894,
-          "recovered": 65200
+          "recovered": 65752
         }
       }
     }
@@ -925,10 +925,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 24422,
+      "confirmed": 24476,
       "date": "2020-10-09",
-      "deaths": 427,
-      "recovered": 22463
+      "deaths": 428,
+      "recovered": 22569
     }
   },
   "Kuwait": {
@@ -1627,7 +1627,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 29829,
+          "confirmed": 29963,
           "date": "2020-10-09",
           "deaths": 364,
           "recovered": 0
@@ -1659,9 +1659,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 461310,
+          "confirmed": 461440,
           "date": "2020-10-09",
-          "deaths": 9741,
+          "deaths": 9760,
           "recovered": 0
         }
       },
