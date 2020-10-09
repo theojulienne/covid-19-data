@@ -261,7 +261,8 @@ var covid19_dataset_country_grc = {
     "2020-10-06",
     "2020-10-07",
     "2020-10-08",
-    "2020-10-09"
+    "2020-10-09",
+    "2020-10-10"
   ],
   "total": {
     "confirmed": [
@@ -524,8 +525,7 @@ var covid19_dataset_country_grc = {
       19842,
       20142,
       20541,
-      20947,
-      21381
+      20947
     ],
     "deaths": [
       0,
@@ -787,8 +787,7 @@ var covid19_dataset_country_grc = {
       409,
       417,
       420,
-      424,
-      430
+      424
     ],
     "recovered": [
       0,
