@@ -1097,10 +1097,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 98617,
+      "confirmed": 100676,
       "date": "2020-10-09",
-      "deaths": 590,
-      "recovered": 71343
+      "deaths": 600,
+      "recovered": 73023
     }
   },
   "Netherlands": {
@@ -1285,10 +1285,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 127394,
+      "confirmed": 127600,
       "date": "2020-10-09",
-      "deaths": 218,
-      "recovered": 124327
+      "deaths": 219,
+      "recovered": 124559
     }
   },
   "Romania": {
@@ -1489,9 +1489,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 58881,
+      "confirmed": 60368,
       "date": "2020-10-09",
-      "deaths": 2087,
+      "deaths": 2088,
       "recovered": 48400
     }
   },
