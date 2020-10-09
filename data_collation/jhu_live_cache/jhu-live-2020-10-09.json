@@ -553,7 +553,7 @@
         "live": {
           "confirmed": 71135,
           "date": "2020-10-09",
-          "deaths": 2681,
+          "deaths": 2679,
           "recovered": 63645
         }
       },
@@ -561,13 +561,13 @@
         "live": {
           "confirmed": 21941,
           "date": "2020-10-09",
-          "deaths": 694,
+          "deaths": 693,
           "recovered": 18962
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 75671,
+          "confirmed": 75669,
           "date": "2020-10-09",
           "deaths": 1894,
           "recovered": 65752
