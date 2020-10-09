@@ -949,10 +949,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 49744,
+      "confirmed": 51170,
       "date": "2020-10-09",
-      "deaths": 439,
-      "recovered": 21760
+      "deaths": 450,
+      "recovered": 22407
     }
   },
   "Libya": {
@@ -1539,9 +1539,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 57042,
+          "confirmed": 57427,
           "date": "2020-10-09",
-          "deaths": 1004,
+          "deaths": 1010,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 58130,
+          "confirmed": 58391,
           "date": "2020-10-09",
-          "deaths": 4216,
+          "deaths": 4219,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 70121,
+          "confirmed": 70730,
           "date": "2020-10-09",
-          "deaths": 1431,
+          "deaths": 1438,
           "recovered": 0
         }
       },
@@ -1621,7 +1621,7 @@
         "live": {
           "confirmed": 366788,
           "date": "2020-10-09",
-          "deaths": 28437,
+          "deaths": 28451,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 60045,
+          "confirmed": 60411,
           "date": "2020-10-09",
-          "deaths": 843,
+          "deaths": 850,
           "recovered": 0
         }
       },
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 57446,
           "date": "2020-10-09",
-          "deaths": 337,
+          "deaths": 340,
           "recovered": 0
         }
       },
@@ -1691,7 +1691,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 31276,
+          "confirmed": 31647,
           "date": "2020-10-09",
           "deaths": 548,
           "recovered": 0
