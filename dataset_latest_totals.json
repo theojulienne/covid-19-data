@@ -212,12 +212,12 @@
           "tested": 106974
         },
         "VIC": {
-          "confirmed": 20247,
+          "confirmed": 20257,
           "current_hospitalized": 4,
           "current_icu": 5,
           "deaths": 809,
           "recovered": 1992,
-          "tested": 2795529
+          "tested": 2811114
         },
         "WA": {
           "confirmed": 688,
