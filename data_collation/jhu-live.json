@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 60356,
+          "confirmed": 60365,
           "date": "2020-10-10",
           "deaths": 3049,
-          "recovered": 51624
+          "recovered": 51626
         }
       },
       "Quebec": {
@@ -837,9 +837,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 40703,
+      "confirmed": 41714,
       "date": "2020-10-10",
-      "deaths": 1821,
+      "deaths": 1824,
       "recovered": 23364
     }
   },
@@ -1497,9 +1497,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 26899,
+      "confirmed": 31259,
       "date": "2020-10-10",
-      "deaths": 409,
+      "deaths": 456,
       "recovered": 5032
     }
   },
@@ -1523,7 +1523,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 634343,
+          "confirmed": 634442,
           "date": "2020-10-10",
           "deaths": 13163,
           "recovered": 0
@@ -1635,7 +1635,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 28841,
+          "confirmed": 29005,
           "date": "2020-10-10",
           "deaths": 635,
           "recovered": 0
