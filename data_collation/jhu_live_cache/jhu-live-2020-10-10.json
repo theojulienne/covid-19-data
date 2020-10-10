@@ -343,9 +343,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 84094,
+          "confirmed": 85191,
           "date": "2020-10-10",
-          "deaths": 5936,
+          "deaths": 5950,
           "recovered": 69586
         }
       }
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 109374,
+      "confirmed": 111978,
       "date": "2020-10-10",
-      "deaths": 905,
-      "recovered": 53173
+      "deaths": 934,
+      "recovered": 53202
     }
   },
   "Denmark": {
@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 21772,
+      "confirmed": 22078,
       "date": "2020-10-10",
-      "deaths": 431,
+      "deaths": 436,
       "recovered": 1347
     }
   },
@@ -855,7 +855,7 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 36914,
+          "confirmed": 37297,
           "date": "2020-10-10",
           "deaths": 4494,
           "recovered": 26827
@@ -863,7 +863,7 @@
       },
       "Lombardia": {
         "live": {
-          "confirmed": 110852,
+          "confirmed": 111992,
           "date": "2020-10-10",
           "deaths": 16982,
           "recovered": 82988
@@ -871,7 +871,7 @@
       },
       "Piemonte": {
         "live": {
-          "confirmed": 37595,
+          "confirmed": 38094,
           "date": "2020-10-10",
           "deaths": 4174,
           "recovered": 29179
@@ -879,7 +879,7 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 30504,
+          "confirmed": 31065,
           "date": "2020-10-10",
           "deaths": 2216,
           "recovered": 23017
@@ -1380,7 +1380,7 @@
       "confirmed": 57866,
       "date": "2020-10-10",
       "deaths": 27,
-      "recovered": 57675
+      "recovered": 57698
     }
   },
   "South Africa": {
@@ -1555,7 +1555,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 22867,
+          "confirmed": 23038,
           "date": "2020-10-10",
           "deaths": 771,
           "recovered": 0
@@ -1587,7 +1587,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 29661,
+          "confirmed": 29929,
           "date": "2020-10-10",
           "deaths": 951,
           "recovered": 0
@@ -1603,7 +1603,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 70730,
+          "confirmed": 71325,
           "date": "2020-10-10",
           "deaths": 1438,
           "recovered": 0
@@ -1627,7 +1627,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 30088,
+          "confirmed": 30273,
           "date": "2020-10-10",
           "deaths": 365,
           "recovered": 0
