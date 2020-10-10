@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39693,
+      "confirmed": 39703,
       "date": "2020-10-10",
-      "deaths": 1472,
-      "recovered": 33058
+      "deaths": 1473,
+      "recovered": 33064
     }
   },
   "Algeria": {
@@ -609,10 +609,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 35222,
+      "confirmed": 36596,
       "date": "2020-10-10",
-      "deaths": 913,
-      "recovered": 9202
+      "deaths": 933,
+      "recovered": 9683
     }
   },
   "India": {
