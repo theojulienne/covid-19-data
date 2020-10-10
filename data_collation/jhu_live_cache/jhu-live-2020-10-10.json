@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 29917,
+      "confirmed": 30345,
       "date": "2020-10-10",
-      "deaths": 926,
-      "recovered": 23241
+      "deaths": 927,
+      "recovered": 23370
     }
   },
   "Brazil": {
@@ -1107,25 +1107,25 @@
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 22989,
+          "confirmed": 24078,
           "date": "2020-10-10",
-          "deaths": 1577,
+          "deaths": 1582,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 32851,
+          "confirmed": 34055,
           "date": "2020-10-10",
-          "deaths": 889,
+          "deaths": 892,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 48945,
+          "confirmed": 50696,
           "date": "2020-10-10",
-          "deaths": 1451,
+          "deaths": 1457,
           "recovered": 0
         }
       }
