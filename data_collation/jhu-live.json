@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 74860,
       "date": "2020-10-10",
-      "deaths": 271,
+      "deaths": 272,
       "recovered": 70406
     }
   },
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 23906,
+      "confirmed": 26064,
       "date": "2020-10-10",
-      "deaths": 566,
-      "recovered": 6738
+      "deaths": 598,
+      "recovered": 7050
     }
   },
   "Canada": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 25120,
+          "confirmed": 25349,
           "date": "2020-10-10",
-          "deaths": 371,
-          "recovered": 23235
+          "deaths": 377,
+          "recovered": 23417
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 289899,
+          "confirmed": 290232,
           "date": "2020-10-10",
-          "deaths": 9448,
-          "recovered": 277250
+          "deaths": 9470,
+          "recovered": 277620
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 28465,
+          "confirmed": 28600,
           "date": "2020-10-10",
-          "deaths": 933,
-          "recovered": 26586
+          "deaths": 939,
+          "recovered": 26676
         }
       }
     }
@@ -957,10 +957,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 41368,
+      "confirmed": 41686,
       "date": "2020-10-10",
-      "deaths": 621,
-      "recovered": 23453
+      "deaths": 623,
+      "recovered": 23791
     }
   },
   "Mexico": {
@@ -1369,9 +1369,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 34517,
+      "confirmed": 34685,
       "date": "2020-10-10",
-      "deaths": 761,
+      "deaths": 762,
       "recovered": 0
     }
   },
@@ -1563,9 +1563,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 53905,
+          "confirmed": 54126,
           "date": "2020-10-10",
-          "deaths": 1687,
+          "deaths": 1688,
           "recovered": 0
         }
       },
