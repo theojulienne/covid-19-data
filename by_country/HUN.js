@@ -263,7 +263,8 @@ var covid19_dataset_country_hun = {
     "2020-10-08",
     "2020-10-09",
     "2020-10-10",
-    "2020-10-11"
+    "2020-10-11",
+    "2020-10-12"
   ],
   "total": {
     "confirmed": [
@@ -528,8 +529,7 @@ var covid19_dataset_country_hun = {
       32298,
       33114,
       34046,
-      35222,
-      36596
+      35222
     ],
     "deaths": [
       0,
@@ -793,8 +793,7 @@ var covid19_dataset_country_hun = {
       853,
       877,
       898,
-      913,
-      933
+      913
     ],
     "recovered": [
       0,
@@ -1058,8 +1057,7 @@ var covid19_dataset_country_hun = {
       8723,
       9149,
       9187,
-      9202,
-      9683
+      9202
     ]
   }
 };
