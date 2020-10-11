@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 166360,
-        "deaths": 9466,
+        "deaths": 9488,
         "recovered": 139817
       },
       "back_2week": {
         "confirmed": 153770,
-        "deaths": 9306,
+        "deaths": 9313,
         "recovered": 131709
       },
       "latest": {
         "confirmed": 182767,
-        "deaths": 9638,
+        "deaths": 9661,
         "recovered": 152046
       },
       "states": {
@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 84094,
-          "deaths": 5936
+          "confirmed": 85191,
+          "deaths": 5950
         },
         "Saskatchewan": {
           "confirmed": 2034,
