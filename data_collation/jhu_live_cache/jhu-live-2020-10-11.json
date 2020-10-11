@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 83023,
+      "confirmed": 83534,
       "date": "2020-10-11",
-      "deaths": 891,
-      "recovered": 76983
+      "deaths": 896,
+      "recovered": 77220
     }
   },
   "Belgium": {
@@ -346,7 +346,7 @@
           "confirmed": 86133,
           "date": "2020-10-11",
           "deaths": 5953,
-          "recovered": 70696
+          "recovered": 71839
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 146828,
+      "confirmed": 147033,
       "date": "2020-10-11",
-      "deaths": 12188,
-      "recovered": 120511
+      "deaths": 12191,
+      "recovered": 128134
     }
   },
   "Egypt": {
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 83429,
+      "confirmed": 84295,
       "date": "2020-10-11",
-      "deaths": 1277,
-      "recovered": 37683
+      "deaths": 1287,
+      "recovered": 38316
     }
   },
   "France": {
@@ -1531,7 +1531,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 637289,
+          "confirmed": 637502,
           "date": "2020-10-11",
           "deaths": 13225,
           "recovered": 0
@@ -1773,10 +1773,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 61017,
+      "confirmed": 61098,
       "date": "2020-10-11",
       "deaths": 505,
-      "recovered": 57967
+      "recovered": 58069
     }
   },
   "Venezuela": {
