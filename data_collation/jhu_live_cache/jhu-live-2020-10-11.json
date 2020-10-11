@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 148981,
+      "confirmed": 156931,
       "date": "2020-10-11",
-      "deaths": 10151,
-      "recovered": 20072
+      "deaths": 10175,
+      "recovered": 20202
     }
   },
   "Bolivia": {
@@ -543,23 +543,31 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 53344,
+          "confirmed": 53868,
           "date": "2020-10-11",
-          "deaths": 1899,
+          "deaths": 1901,
           "recovered": 46403
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 72434,
+          "confirmed": 72843,
           "date": "2020-10-11",
-          "deaths": 2684,
+          "deaths": 2685,
           "recovered": 64104
+        }
+      },
+      "Hessen": {
+        "live": {
+          "confirmed": 21911,
+          "date": "2020-10-11",
+          "deaths": 560,
+          "recovered": 18176
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 22656,
+          "confirmed": 22662,
           "date": "2020-10-11",
           "deaths": 697,
           "recovered": 19169
@@ -567,9 +575,9 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 78218,
+          "confirmed": 79179,
           "date": "2020-10-11",
-          "deaths": 1905,
+          "deaths": 1911,
           "recovered": 66639
         }
       }
@@ -909,10 +917,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 108663,
+      "confirmed": 108757,
       "date": "2020-10-11",
       "deaths": 1746,
-      "recovered": 103910
+      "recovered": 103980
     }
   },
   "Kenya": {
@@ -1015,10 +1023,10 @@
       },
       "Michoacan": {
         "live": {
-          "confirmed": 22196,
+          "confirmed": 22097,
           "date": "2020-10-11",
-          "deaths": 1768,
-          "recovered": 19412
+          "deaths": 1752,
+          "recovered": 19337
         }
       },
       "Nuevo Leon": {
@@ -1151,26 +1159,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38273,
+          "confirmed": 38329,
           "date": "2020-10-11",
           "deaths": 1263,
-          "recovered": 36467
+          "recovered": 36521
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 100484,
+          "confirmed": 100687,
           "date": "2020-10-11",
-          "deaths": 2252,
-          "recovered": 96548
+          "deaths": 2257,
+          "recovered": 96561
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 139910,
+          "confirmed": 140131,
           "date": "2020-10-11",
-          "deaths": 2543,
-          "recovered": 132559
+          "deaths": 2549,
+          "recovered": 132796
         }
       }
     }
@@ -1611,9 +1619,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 44796,
+          "confirmed": 23107,
           "date": "2020-10-11",
-          "deaths": 4179,
+          "deaths": 2051,
           "recovered": 0
         }
       },
