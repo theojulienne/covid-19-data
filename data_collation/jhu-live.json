@@ -9,9 +9,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 52940,
+      "confirmed": 53072,
       "date": "2020-10-11",
-      "deaths": 1795,
+      "deaths": 1801,
       "recovered": 37170
     }
   },
@@ -1531,7 +1531,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 636764,
+          "confirmed": 636905,
           "date": "2020-10-11",
           "deaths": 13224,
           "recovered": 0
@@ -1627,7 +1627,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 367567,
+          "confirmed": 368221,
           "date": "2020-10-11",
           "deaths": 28457,
           "recovered": 0
@@ -1635,7 +1635,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 30273,
+          "confirmed": 30366,
           "date": "2020-10-11",
           "deaths": 365,
           "recovered": 0
@@ -1643,7 +1643,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 29005,
+          "confirmed": 29141,
           "date": "2020-10-11",
           "deaths": 635,
           "recovered": 0
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 465735,
+          "confirmed": 466529,
           "date": "2020-10-11",
           "deaths": 9839,
           "recovered": 0
