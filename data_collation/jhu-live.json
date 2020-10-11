@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 114005,
+      "confirmed": 114547,
       "date": "2020-10-11",
-      "deaths": 948,
-      "recovered": 54909
+      "deaths": 982,
+      "recovered": 54980
     }
   },
   "Denmark": {
@@ -593,9 +593,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 22078,
+      "confirmed": 22358,
       "date": "2020-10-11",
-      "deaths": 436,
+      "deaths": 449,
       "recovered": 1347
     }
   },
@@ -863,7 +863,7 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 37297,
+          "confirmed": 37681,
           "date": "2020-10-11",
           "deaths": 4495,
           "recovered": 26837
@@ -871,7 +871,7 @@
       },
       "Lombardia": {
         "live": {
-          "confirmed": 111992,
+          "confirmed": 113024,
           "date": "2020-10-11",
           "deaths": 16985,
           "recovered": 83190
@@ -879,7 +879,7 @@
       },
       "Piemonte": {
         "live": {
-          "confirmed": 38094,
+          "confirmed": 38503,
           "date": "2020-10-11",
           "deaths": 4177,
           "recovered": 29270
@@ -887,7 +887,7 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 31065,
+          "confirmed": 31503,
           "date": "2020-10-11",
           "deaths": 2218,
           "recovered": 23197
@@ -902,7 +902,7 @@
           "confirmed": 27728,
           "date": "2020-10-11",
           "deaths": 421,
-          "recovered": 24986
+          "recovered": 25144
         }
       }
     }
@@ -1513,10 +1513,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 334031,
+      "confirmed": 335533,
       "date": "2020-10-11",
-      "deaths": 8778,
-      "recovered": 293145
+      "deaths": 8837,
+      "recovered": 294357
     }
   },
   "US": {
@@ -1563,7 +1563,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 23038,
+          "confirmed": 23178,
           "date": "2020-10-11",
           "deaths": 771,
           "recovered": 0
@@ -1595,9 +1595,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 29929,
+          "confirmed": 30218,
           "date": "2020-10-11",
-          "deaths": 951,
+          "deaths": 953,
           "recovered": 0
         }
       },
