@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 156931,
+      "confirmed": 162258,
       "date": "2020-10-12",
-      "deaths": 10175,
-      "recovered": 20202
+      "deaths": 10191,
+      "recovered": 20272
     }
   },
   "Bolivia": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 25349,
+          "confirmed": 25570,
           "date": "2020-10-12",
-          "deaths": 377,
-          "recovered": 23417
+          "deaths": 379,
+          "recovered": 23544
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 290232,
+          "confirmed": 290596,
           "date": "2020-10-12",
-          "deaths": 9470,
-          "recovered": 277620
+          "deaths": 9492,
+          "recovered": 277875
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 28600,
+          "confirmed": 28719,
           "date": "2020-10-12",
-          "deaths": 939,
-          "recovered": 26676
+          "deaths": 946,
+          "recovered": 26774
         }
       }
     }
@@ -543,26 +543,26 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 53868,
+          "confirmed": 54345,
           "date": "2020-10-12",
           "deaths": 1901,
-          "recovered": 46403
+          "recovered": 46640
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 72843,
+          "confirmed": 73186,
           "date": "2020-10-12",
           "deaths": 2685,
-          "recovered": 64104
+          "recovered": 64535
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 21911,
+          "confirmed": 22039,
           "date": "2020-10-12",
-          "deaths": 560,
-          "recovered": 18176
+          "deaths": 562,
+          "recovered": 18344
         }
       },
       "Niedersachsen": {
@@ -570,15 +570,15 @@
           "confirmed": 22921,
           "date": "2020-10-12",
           "deaths": 697,
-          "recovered": 19169
+          "recovered": 19351
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 79179,
+          "confirmed": 79981,
           "date": "2020-10-12",
-          "deaths": 1911,
-          "recovered": 66639
+          "deaths": 1913,
+          "recovered": 67129
         }
       }
     }
@@ -917,10 +917,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 108757,
+      "confirmed": 108831,
       "date": "2020-10-12",
       "deaths": 1746,
-      "recovered": 103980
+      "recovered": 104041
     }
   },
   "Kenya": {
@@ -1603,7 +1603,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 26134,
+          "confirmed": 26342,
           "date": "2020-10-12",
           "deaths": 839,
           "recovered": 0
