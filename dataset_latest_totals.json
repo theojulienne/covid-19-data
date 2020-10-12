@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 166360,
-        "deaths": 9488,
+        "confirmed": 168501,
+        "deaths": 9533,
         "recovered": 140711
       },
       "back_2week": {
-        "confirmed": 153770,
-        "deaths": 9313,
+        "confirmed": 155428,
+        "deaths": 9318,
         "recovered": 132253
       },
       "latest": {
-        "confirmed": 182767,
-        "deaths": 9661,
+        "confirmed": 184403,
+        "deaths": 9666,
         "recovered": 153857
       },
       "states": {
@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 85191,
-          "deaths": 5950
+          "confirmed": 86133,
+          "deaths": 5953
         },
         "Saskatchewan": {
           "confirmed": 2068,
@@ -1148,18 +1148,18 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 51995,
-        "deaths": 1756,
-        "recovered": 36482
+        "confirmed": 52136,
+        "deaths": 1760,
+        "recovered": 36578
       },
       "back_2week": {
-        "confirmed": 50914,
-        "deaths": 1711,
-        "recovered": 35756
+        "confirmed": 51067,
+        "deaths": 1714,
+        "recovered": 35860
       },
       "latest": {
-        "confirmed": 52940,
-        "deaths": 1795,
+        "confirmed": 53072,
+        "deaths": 1801,
         "recovered": 37170
       }
     },
@@ -2017,19 +2017,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 43494,
-        "deaths": 398,
-        "recovered": 19259
+        "confirmed": 44482,
+        "deaths": 406,
+        "recovered": 19782
       },
       "back_2week": {
-        "confirmed": 35242,
-        "deaths": 340,
-        "recovered": 15434
+        "confirmed": 36254,
+        "deaths": 347,
+        "recovered": 16089
       },
       "latest": {
-        "confirmed": 52558,
-        "deaths": 455,
-        "recovered": 22719
+        "confirmed": 53568,
+        "deaths": 459,
+        "recovered": 23501
       }
     },
     "LBR": {
