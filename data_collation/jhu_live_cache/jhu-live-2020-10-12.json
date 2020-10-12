@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 147033,
+      "confirmed": 147315,
       "date": "2020-10-12",
-      "deaths": 12191,
+      "deaths": 12218,
       "recovered": 128134
     }
   },
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 84295,
+      "confirmed": 85136,
       "date": "2020-10-12",
-      "deaths": 1287,
-      "recovered": 38316
+      "deaths": 1301,
+      "recovered": 38904
     }
   },
   "France": {
@@ -845,9 +845,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 42528,
+      "confirmed": 43351,
       "date": "2020-10-12",
-      "deaths": 1826,
+      "deaths": 1827,
       "recovered": 23364
     }
   },
@@ -1539,7 +1539,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 639076,
+          "confirmed": 639567,
           "date": "2020-10-12",
           "deaths": 13224,
           "recovered": 0
@@ -1555,9 +1555,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 57868,
+          "confirmed": 58031,
           "date": "2020-10-12",
-          "deaths": 1015,
+          "deaths": 1016,
           "recovered": 0
         }
       },
@@ -1595,7 +1595,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 36870,
+          "confirmed": 37061,
           "date": "2020-10-12",
           "deaths": 3006,
           "recovered": 0
@@ -1635,7 +1635,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 368221,
+          "confirmed": 368815,
           "date": "2020-10-12",
           "deaths": 28461,
           "recovered": 0
@@ -1667,9 +1667,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 61016,
+          "confirmed": 61563,
           "date": "2020-10-12",
-          "deaths": 858,
+          "deaths": 859,
           "recovered": 0
         }
       },
@@ -1683,7 +1683,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 60161,
+          "confirmed": 60816,
           "date": "2020-10-12",
           "deaths": 346,
           "recovered": 0
@@ -1707,7 +1707,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 32281,
+          "confirmed": 32514,
           "date": "2020-10-12",
           "deaths": 549,
           "recovered": 0
