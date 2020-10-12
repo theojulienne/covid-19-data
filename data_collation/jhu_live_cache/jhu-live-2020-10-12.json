@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 75614,
       "date": "2020-10-12",
-      "deaths": 277,
+      "deaths": 278,
       "recovered": 71249
     }
   },
@@ -551,7 +551,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 73186,
+          "confirmed": 73281,
           "date": "2020-10-12",
           "deaths": 2685,
           "recovered": 64535
@@ -567,7 +567,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 22921,
+          "confirmed": 23184,
           "date": "2020-10-12",
           "deaths": 697,
           "recovered": 19351
@@ -1285,10 +1285,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 86664,
+      "confirmed": 87913,
       "date": "2020-10-12",
-      "deaths": 2080,
-      "recovered": 53187
+      "deaths": 2094,
+      "recovered": 53498
     }
   },
   "Qatar": {
@@ -1369,17 +1369,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 339267,
+      "confirmed": 339615,
       "date": "2020-10-12",
-      "deaths": 5043,
-      "recovered": 325330
+      "deaths": 5068,
+      "recovered": 325839
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 34787,
+      "confirmed": 34854,
       "date": "2020-10-12",
-      "deaths": 763,
+      "deaths": 765,
       "recovered": 0
     }
   },
