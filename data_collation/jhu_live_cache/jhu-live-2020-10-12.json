@@ -609,10 +609,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 83146,
+      "confirmed": 84081,
       "date": "2020-10-12",
-      "deaths": 2504,
-      "recovered": 31931
+      "deaths": 2512,
+      "recovered": 32012
     }
   },
   "Hungary": {
@@ -1203,65 +1203,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 23818,
+          "confirmed": 23939,
           "date": "2020-10-12",
-          "deaths": 1321,
+          "deaths": 1322,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 42890,
+          "confirmed": 42976,
           "date": "2020-10-12",
-          "deaths": 1395,
+          "deaths": 1397,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 34598,
+          "confirmed": 34715,
           "date": "2020-10-12",
-          "deaths": 1785,
+          "deaths": 1792,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 28522,
+          "confirmed": 28578,
           "date": "2020-10-12",
-          "deaths": 1632,
+          "deaths": 1636,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 30155,
+          "confirmed": 30283,
           "date": "2020-10-12",
-          "deaths": 2234,
+          "deaths": 2235,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 26895,
+          "confirmed": 26969,
           "date": "2020-10-12",
-          "deaths": 1719,
+          "deaths": 1723,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 385100,
+          "confirmed": 386473,
           "date": "2020-10-12",
-          "deaths": 14943,
+          "deaths": 14983,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 36445,
+          "confirmed": 36648,
           "date": "2020-10-12",
-          "deaths": 1987,
+          "deaths": 1989,
           "recovered": 0
         }
       }
