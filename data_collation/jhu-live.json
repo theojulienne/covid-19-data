@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 27974,
+      "confirmed": 29314,
       "date": "2020-10-12",
-      "deaths": 646,
-      "recovered": 9742
+      "deaths": 664,
+      "recovered": 10260
     }
   },
   "Canada": {
@@ -533,7 +533,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 745145,
+      "confirmed": 745104,
       "date": "2020-10-12",
       "deaths": 32456,
       "recovered": 82402
@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 402330,
+      "confirmed": 405437,
       "date": "2020-10-12",
-      "deaths": 9852,
-      "recovered": 336157
+      "deaths": 9912,
+      "recovered": 340050
     }
   },
   "Ireland": {
@@ -925,9 +925,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 41546,
+      "confirmed": 41619,
       "date": "2020-10-12",
-      "deaths": 766,
+      "deaths": 777,
       "recovered": 32000
     }
   },
@@ -1499,7 +1499,7 @@
     "live": {
       "confirmed": 64436,
       "date": "2020-10-12",
-      "deaths": 2092,
+      "deaths": 2093,
       "recovered": 48400
     }
   },
@@ -1571,9 +1571,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 54293,
+          "confirmed": 54458,
           "date": "2020-10-12",
-          "deaths": 1691,
+          "deaths": 1692,
           "recovered": 0
         }
       },
@@ -1683,7 +1683,7 @@
       },
       "Virginia": {
         "live": {
-          "confirmed": 21952,
+          "confirmed": 22089,
           "date": "2020-10-12",
           "deaths": 599,
           "recovered": 0
@@ -1773,10 +1773,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 61205,
+      "confirmed": 61319,
       "date": "2020-10-12",
-      "deaths": 507,
-      "recovered": 58069
+      "deaths": 509,
+      "recovered": 58306
     }
   },
   "Venezuela": {
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 44299,
+      "confirmed": 44684,
       "date": "2020-10-12",
-      "deaths": 381,
-      "recovered": 37942
+      "deaths": 387,
+      "recovered": 38228
     }
   }
 }
