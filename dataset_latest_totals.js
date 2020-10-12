@@ -212,12 +212,12 @@ var covid19_dataset_latest_totals = {
           "tested": 108423
         },
         "VIC": {
-          "confirmed": 20269,
+          "confirmed": 20281,
           "current_hospitalized": 4,
           "current_icu": 5,
-          "deaths": 809,
+          "deaths": 810,
           "recovered": 1992,
-          "tested": 2827761
+          "tested": 2840686
         },
         "WA": {
           "confirmed": 692,
@@ -1932,18 +1932,18 @@ var covid19_dataset_latest_totals = {
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 47184,
+        "confirmed": 47428,
         "deaths": 1066,
-        "recovered": 43278
+        "recovered": 43418
       },
       "back_2week": {
-        "confirmed": 46090,
+        "confirmed": 46251,
         "deaths": 1063,
-        "recovered": 42302
+        "recovered": 42453
       },
       "latest": {
-        "confirmed": 48924,
-        "deaths": 1082,
+        "confirmed": 49230,
+        "deaths": 1085,
         "recovered": 44227
       }
     },
@@ -2950,7 +2950,7 @@ var covid19_dataset_latest_totals = {
     "SLV": {
       "back_1week": {
         "confirmed": 29358,
-        "deaths": 857,
+        "deaths": 863,
         "recovered": 24175
       },
       "back_2week": {
@@ -2960,7 +2960,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 29951,
-        "deaths": 887,
+        "deaths": 890,
         "recovered": 24995
       }
     },
@@ -3737,18 +3737,18 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 58238,
-        "deaths": 477,
+        "confirmed": 58612,
+        "deaths": 480,
         "recovered": 54854
       },
       "back_2week": {
-        "confirmed": 54819,
-        "deaths": 452,
+        "confirmed": 55320,
+        "deaths": 458,
         "recovered": 51322
       },
       "latest": {
-        "confirmed": 60776,
-        "deaths": 502,
+        "confirmed": 61098,
+        "deaths": 505,
         "recovered": 57704
       }
     },
