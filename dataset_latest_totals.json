@@ -1813,19 +1813,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 266775,
+        "confirmed": 272309,
         "deaths": 1719,
-        "recovered": 195629
+        "recovered": 204355
       },
       "back_2week": {
-        "confirmed": 231026,
+        "confirmed": 233265,
         "deaths": 1466,
-        "recovered": 159931
+        "recovered": 165191
       },
       "latest": {
-        "confirmed": 290493,
+        "confirmed": 294031,
         "deaths": 1980,
-        "recovered": 228658
+        "recovered": 238681
       }
     },
     "ITA": {
