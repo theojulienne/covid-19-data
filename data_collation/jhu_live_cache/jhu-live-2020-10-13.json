@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 56821,
+      "confirmed": 57566,
       "date": "2020-10-13",
-      "deaths": 1026,
-      "recovered": 45891
+      "deaths": 1032,
+      "recovered": 46318
     }
   },
   "Austria": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 30196,
+      "confirmed": 30480,
       "date": "2020-10-13",
-      "deaths": 894,
-      "recovered": 25438
+      "deaths": 899,
+      "recovered": 25857
     }
   },
   "Ethiopia": {
@@ -617,10 +617,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 38837,
+      "confirmed": 39862,
       "date": "2020-10-13",
-      "deaths": 968,
-      "recovered": 11037
+      "deaths": 996,
+      "recovered": 11753
     }
   },
   "India": {
@@ -1507,7 +1507,7 @@
     "live": {
       "confirmed": 64436,
       "date": "2020-10-13",
-      "deaths": 2096,
+      "deaths": 2097,
       "recovered": 49500
     }
   },
@@ -1781,9 +1781,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 61419,
+      "confirmed": 61534,
       "date": "2020-10-13",
-      "deaths": 509,
+      "deaths": 510,
       "recovered": 58427
     }
   },
