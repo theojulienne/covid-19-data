@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 48146,
-        "deaths": 813,
-        "recovered": 38629
+        "confirmed": 48896,
+        "deaths": 818,
+        "recovered": 39058
       },
       "back_2week": {
-        "confirmed": 42876,
-        "deaths": 787,
-        "recovered": 33589
+        "confirmed": 43432,
+        "deaths": 790,
+        "recovered": 34052
       },
       "latest": {
-        "confirmed": 55319,
-        "deaths": 851,
-        "recovered": 43448
+        "confirmed": 56298,
+        "deaths": 855,
+        "recovered": 44065
       }
     },
     "AZE": {
@@ -1711,19 +1711,19 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 303498,
-        "deaths": 11151,
-        "recovered": 228453
+        "confirmed": 307120,
+        "deaths": 11253,
+        "recovered": 232593
       },
       "back_2week": {
-        "confirmed": 275213,
-        "deaths": 10386,
-        "recovered": 203014
+        "confirmed": 278722,
+        "deaths": 10473,
+        "recovered": 206870
       },
       "latest": {
-        "confirmed": 333449,
-        "deaths": 11844,
-        "recovered": 255027
+        "confirmed": 336716,
+        "deaths": 11935,
+        "recovered": 258519
       }
     },
     "IND": {
@@ -2728,19 +2728,19 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 100074,
-        "deaths": 2630,
-        "recovered": 73003
+        "confirmed": 102080,
+        "deaths": 2659,
+        "recovered": 73552
       },
       "back_2week": {
-        "confirmed": 87330,
-        "deaths": 2432,
-        "recovered": 67904
+        "confirmed": 88636,
+        "deaths": 2447,
+        "recovered": 68420
       },
       "latest": {
-        "confirmed": 125816,
-        "deaths": 3004,
-        "recovered": 80302
+        "confirmed": 130210,
+        "deaths": 3039,
+        "recovered": 81201
       }
     },
     "PRT": {
