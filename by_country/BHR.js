@@ -801,7 +801,8 @@ var covid19_dataset_country_bhr = {
       271,
       273,
       275,
-      280
+      280,
+      282
     ],
     "recovered": [
       0,
