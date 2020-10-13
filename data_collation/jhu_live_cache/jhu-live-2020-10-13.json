@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 379738,
+      "confirmed": 381275,
       "date": "2020-10-13",
-      "deaths": 5555,
-      "recovered": 294391
+      "deaths": 5577,
+      "recovered": 295873
     }
   },
   "Belarus": {
@@ -1149,10 +1149,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 106575,
+      "confirmed": 107213,
       "date": "2020-10-13",
-      "deaths": 1046,
-      "recovered": 93222
+      "deaths": 1053,
+      "recovered": 93557
     }
   },
   "Pakistan": {
