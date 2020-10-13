@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 83998,
+      "confirmed": 84524,
       "date": "2020-10-13",
-      "deaths": 901,
-      "recovered": 77423
+      "deaths": 906,
+      "recovered": 77797
     }
   },
   "Belgium": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 29314,
+      "confirmed": 30437,
       "date": "2020-10-13",
-      "deaths": 664,
-      "recovered": 10260
+      "deaths": 693,
+      "recovered": 11769
     }
   },
   "Canada": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 25761,
+          "confirmed": 25948,
           "date": "2020-10-13",
-          "deaths": 383,
-          "recovered": 23691
+          "deaths": 386,
+          "recovered": 23877
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 290908,
+          "confirmed": 291182,
           "date": "2020-10-13",
-          "deaths": 9517,
-          "recovered": 278093
+          "deaths": 9531,
+          "recovered": 278504
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 28814,
+          "confirmed": 28883,
           "date": "2020-10-13",
           "deaths": 956,
-          "recovered": 26851
+          "recovered": 26989
         }
       }
     }
@@ -551,7 +551,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 73788,
+          "confirmed": 74036,
           "date": "2020-10-13",
           "deaths": 2689,
           "recovered": 64971
@@ -585,10 +585,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47030,
+      "confirmed": 47097,
       "date": "2020-10-13",
       "deaths": 308,
-      "recovered": 46424
+      "recovered": 46452
     }
   },
   "Greece": {
@@ -925,10 +925,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 41619,
+      "confirmed": 41937,
       "date": "2020-10-13",
-      "deaths": 777,
-      "recovered": 32000
+      "deaths": 787,
+      "recovered": 31340
     }
   },
   "Korea, South": {
@@ -1285,10 +1285,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 87913,
+      "confirmed": 89121,
       "date": "2020-10-13",
-      "deaths": 2094,
-      "recovered": 53498
+      "deaths": 2110,
+      "recovered": 54047
     }
   },
   "Qatar": {
@@ -1581,7 +1581,7 @@
         "live": {
           "confirmed": 54458,
           "date": "2020-10-13",
-          "deaths": 1692,
+          "deaths": 1695,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 468908,
+          "confirmed": 469088,
           "date": "2020-10-13",
-          "deaths": 9869,
+          "deaths": 9872,
           "recovered": 0
         }
       },
