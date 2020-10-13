@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 171384,
-        "deaths": 9533,
+        "deaths": 9560,
         "recovered": 142502
       },
       "back_2week": {
         "confirmed": 157219,
-        "deaths": 9318,
+        "deaths": 9328,
         "recovered": 133204
       },
       "latest": {
         "confirmed": 185378,
-        "deaths": 9666,
+        "deaths": 9680,
         "recovered": 155901
       },
       "states": {
@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 86133,
-          "deaths": 5953
+          "confirmed": 86976,
+          "deaths": 5965
         },
         "Saskatchewan": {
           "confirmed": 2092,
@@ -2017,19 +2017,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 44482,
-        "deaths": 406,
-        "recovered": 19782
+        "confirmed": 45657,
+        "deaths": 414,
+        "recovered": 20243
       },
       "back_2week": {
-        "confirmed": 36254,
-        "deaths": 347,
-        "recovered": 16089
+        "confirmed": 37272,
+        "deaths": 351,
+        "recovered": 16676
       },
       "latest": {
-        "confirmed": 53568,
-        "deaths": 459,
-        "recovered": 23501
+        "confirmed": 54624,
+        "deaths": 466,
+        "recovered": 23941
       }
     },
     "LBR": {
@@ -3403,10 +3403,10 @@
         "tested": 97309481
       },
       "latest": {
-        "confirmed": 7669479,
-        "deaths": 205785,
-        "recovered": 3047154,
-        "tested": 109536465
+        "confirmed": 7670016,
+        "deaths": 205792,
+        "recovered": 3047195,
+        "tested": 109547504
       },
       "states": {
         "AK": {
@@ -3669,11 +3669,11 @@
           "tested": 2205861
         },
         "RI": {
-          "confirmed": 26294,
-          "deaths": 1130,
-          "hospitalized": 2902,
-          "recovered": 2422,
-          "tested": 368061
+          "confirmed": 26831,
+          "deaths": 1137,
+          "hospitalized": 2961,
+          "recovered": 2463,
+          "tested": 379100
         },
         "SC": {
           "confirmed": 157406,
