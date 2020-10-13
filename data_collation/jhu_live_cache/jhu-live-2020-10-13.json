@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 75948,
       "date": "2020-10-13",
-      "deaths": 282,
+      "deaths": 284,
       "recovered": 71687
     }
   },
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 30837,
+      "confirmed": 31173,
       "date": "2020-10-13",
-      "deaths": 936,
-      "recovered": 23587
+      "deaths": 947,
+      "recovered": 23777
     }
   },
   "Brazil": {
@@ -567,9 +567,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 23265,
+          "confirmed": 23447,
           "date": "2020-10-13",
-          "deaths": 697,
+          "deaths": 702,
           "recovered": 19557
         }
       },
@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 405437,
+      "confirmed": 409358,
       "date": "2020-10-13",
-      "deaths": 9912,
-      "recovered": 340050
+      "deaths": 9970,
+      "recovered": 344208
     }
   },
   "Ireland": {
@@ -941,10 +941,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 111893,
+      "confirmed": 112737,
       "date": "2020-10-13",
-      "deaths": 664,
-      "recovered": 103802
+      "deaths": 672,
+      "recovered": 104508
     }
   },
   "Kyrgyzstan": {
@@ -1369,17 +1369,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 339615,
+      "confirmed": 340089,
       "date": "2020-10-13",
-      "deaths": 5068,
-      "recovered": 325839
+      "deaths": 5087,
+      "recovered": 326339
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 34854,
+      "confirmed": 35006,
       "date": "2020-10-13",
-      "deaths": 765,
+      "deaths": 767,
       "recovered": 0
     }
   },
@@ -1507,8 +1507,8 @@
     "live": {
       "confirmed": 65881,
       "date": "2020-10-13",
-      "deaths": 2101,
-      "recovered": 49500
+      "deaths": 2102,
+      "recovered": 49800
     }
   },
   "Tunisia": {
@@ -1781,10 +1781,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 61534,
+      "confirmed": 61642,
       "date": "2020-10-13",
-      "deaths": 510,
-      "recovered": 58427
+      "deaths": 511,
+      "recovered": 58613
     }
   },
   "Venezuela": {
