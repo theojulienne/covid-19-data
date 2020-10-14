@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 138695,
+      "confirmed": 138922,
       "date": "2020-10-14",
-      "deaths": 8326,
-      "recovered": 101523
+      "deaths": 8351,
+      "recovered": 102083
     }
   },
   "Bosnia and Herzegovina": {
@@ -933,10 +933,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 24805,
+      "confirmed": 24889,
       "date": "2020-10-14",
-      "deaths": 434,
-      "recovered": 22863
+      "deaths": 438,
+      "recovered": 23030
     }
   },
   "Kuwait": {
@@ -1159,26 +1159,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38367,
+          "confirmed": 38427,
           "date": "2020-10-14",
           "deaths": 1264,
-          "recovered": 36636
+          "recovered": 36702
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 100892,
+          "confirmed": 101014,
           "date": "2020-10-14",
-          "deaths": 2264,
-          "recovered": 96959
+          "deaths": 2270,
+          "recovered": 96972
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 140534,
+          "confirmed": 140756,
           "date": "2020-10-14",
-          "deaths": 2556,
-          "recovered": 133192
+          "deaths": 2562,
+          "recovered": 133494
         }
       }
     }
@@ -1203,65 +1203,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 24054,
+          "confirmed": 24177,
           "date": "2020-10-14",
-          "deaths": 1324,
+          "deaths": 1326,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 43016,
+          "confirmed": 43058,
           "date": "2020-10-14",
-          "deaths": 1400,
+          "deaths": 1402,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 34758,
+          "confirmed": 34880,
           "date": "2020-10-14",
-          "deaths": 1797,
+          "deaths": 1800,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 28590,
+          "confirmed": 28650,
           "date": "2020-10-14",
-          "deaths": 1637,
+          "deaths": 1640,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 30397,
+          "confirmed": 30582,
           "date": "2020-10-14",
-          "deaths": 2237,
+          "deaths": 2238,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 27028,
+          "confirmed": 27080,
           "date": "2020-10-14",
-          "deaths": 1724,
+          "deaths": 1728,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 387125,
+          "confirmed": 388135,
           "date": "2020-10-14",
-          "deaths": 15009,
+          "deaths": 15039,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 36714,
+          "confirmed": 36943,
           "date": "2020-10-14",
-          "deaths": 1992,
+          "deaths": 1998,
           "recovered": 0
         }
       }
@@ -1539,7 +1539,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 642662,
+          "confirmed": 643389,
           "date": "2020-10-14",
           "deaths": 13286,
           "recovered": 0
@@ -1611,7 +1611,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 26517,
+          "confirmed": 26675,
           "date": "2020-10-14",
           "deaths": 839,
           "recovered": 0
@@ -1675,9 +1675,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 471485,
+          "confirmed": 471604,
           "date": "2020-10-14",
-          "deaths": 9888,
+          "deaths": 9903,
           "recovered": 0
         }
       },
