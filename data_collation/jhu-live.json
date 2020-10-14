@@ -1301,10 +1301,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 160461,
+      "confirmed": 164477,
       "date": "2020-10-14",
-      "deaths": 5535,
-      "recovered": 120515
+      "deaths": 5601,
+      "recovered": 122714
     }
   },
   "Russia": {
@@ -1389,6 +1389,14 @@
       "date": "2020-10-14",
       "deaths": 28,
       "recovered": 57740
+    }
+  },
+  "Slovakia": {
+    "live": {
+      "confirmed": 22296,
+      "date": "2020-10-14",
+      "deaths": 66,
+      "recovered": 6709
     }
   },
   "South Africa": {
@@ -1689,14 +1697,6 @@
           "recovered": 0
         }
       },
-      "Virginia": {
-        "live": {
-          "confirmed": 22185,
-          "date": "2020-10-14",
-          "deaths": 599,
-          "recovered": 0
-        }
-      },
       "Washington": {
         "live": {
           "confirmed": 24297,
@@ -1745,10 +1745,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 108608,
+      "confirmed": 110039,
       "date": "2020-10-14",
-      "deaths": 448,
-      "recovered": 100007
+      "deaths": 450,
+      "recovered": 101659
     }
   },
   "United Kingdom": {
