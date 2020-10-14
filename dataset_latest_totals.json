@@ -631,7 +631,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 86976,
+          "confirmed": 87791,
           "deaths": 5965
         },
         "Saskatchewan": {
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 85566,
-        "deaths": 758,
-        "recovered": 46636
+        "confirmed": 90022,
+        "deaths": 794,
+        "recovered": 48788
       },
       "back_2week": {
-        "confirmed": 65883,
-        "deaths": 618,
-        "recovered": 31799
+        "confirmed": 67843,
+        "deaths": 636,
+        "recovered": 32759
       },
       "latest": {
-        "confirmed": 121421,
-        "deaths": 1051,
-        "recovered": 58200
+        "confirmed": 129747,
+        "deaths": 1106,
+        "recovered": 59901
       }
     },
     "DEU": {
@@ -1575,18 +1575,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 20142,
-        "deaths": 417,
+        "confirmed": 20541,
+        "deaths": 420,
         "recovered": 1347
       },
       "back_2week": {
-        "confirmed": 17707,
-        "deaths": 383,
+        "confirmed": 18123,
+        "deaths": 388,
         "recovered": 1347
       },
       "latest": {
-        "confirmed": 22652,
-        "deaths": 456,
+        "confirmed": 23060,
+        "deaths": 462,
         "recovered": 1347
       }
     },
@@ -1864,19 +1864,19 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 17464,
-        "deaths": 110,
-        "recovered": 5292
+        "confirmed": 19001,
+        "deaths": 122,
+        "recovered": 5386
       },
       "back_2week": {
-        "confirmed": 9226,
-        "deaths": 51,
-        "recovered": 4359
+        "confirmed": 10049,
+        "deaths": 57,
+        "recovered": 4496
       },
       "latest": {
-        "confirmed": 26073,
-        "deaths": 207,
-        "recovered": 6219
+        "confirmed": 28127,
+        "deaths": 225,
+        "recovered": 6361
       }
     },
     "JPN": {
@@ -1915,19 +1915,19 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 39449,
-        "deaths": 735,
-        "recovered": 27035
+        "confirmed": 39586,
+        "deaths": 743,
+        "recovered": 27331
       },
       "back_2week": {
-        "confirmed": 38168,
-        "deaths": 700,
-        "recovered": 24681
+        "confirmed": 38378,
+        "deaths": 707,
+        "recovered": 24740
       },
       "latest": {
-        "confirmed": 41619,
-        "deaths": 777,
-        "recovered": 32000
+        "confirmed": 41937,
+        "deaths": 787,
+        "recovered": 31340
       }
     },
     "KGZ": {
