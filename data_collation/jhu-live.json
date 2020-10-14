@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 90238,
+      "confirmed": 91780,
       "date": "2020-10-14",
-      "deaths": 1124,
-      "recovered": 53670
+      "deaths": 1134,
+      "recovered": 54155
     }
   },
   "Czechia": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 788127,
+      "confirmed": 788117,
       "date": "2020-10-14",
       "deaths": 32788,
-      "recovered": 84277
+      "recovered": 84266
     }
   },
   "Germany": {
@@ -1391,14 +1391,6 @@
       "recovered": 57752
     }
   },
-  "Slovakia": {
-    "live": {
-      "confirmed": 22296,
-      "date": "2020-10-14",
-      "deaths": 66,
-      "recovered": 6709
-    }
-  },
   "South Africa": {
     "live": {
       "confirmed": 694537,
@@ -1547,9 +1539,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 621756,
+          "confirmed": 644641,
           "date": "2020-10-14",
-          "deaths": 12866,
+          "deaths": 13327,
           "recovered": 0
         }
       },
@@ -1563,9 +1555,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 58289,
+          "confirmed": 58486,
           "date": "2020-10-14",
-          "deaths": 1019,
+          "deaths": 1024,
           "recovered": 0
         }
       },
@@ -1603,9 +1595,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 37236,
+          "confirmed": 37426,
           "date": "2020-10-14",
-          "deaths": 3010,
+          "deaths": 3011,
           "recovered": 0
         }
       },
