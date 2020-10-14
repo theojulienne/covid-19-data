@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 57566,
+      "confirmed": 58624,
       "date": "2020-10-14",
-      "deaths": 1032,
-      "recovered": 46318
+      "deaths": 1039,
+      "recovered": 46713
     }
   },
   "Austria": {
@@ -617,10 +617,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 39862,
+      "confirmed": 40782,
       "date": "2020-10-14",
-      "deaths": 996,
-      "recovered": 11753
+      "deaths": 1023,
+      "recovered": 12164
     }
   },
   "India": {
