@@ -1269,10 +1269,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 344713,
+      "confirmed": 346536,
       "date": "2020-10-14",
-      "deaths": 6372,
-      "recovered": 293383
+      "deaths": 6449,
+      "recovered": 293860
     }
   },
   "Poland": {
@@ -1280,7 +1280,7 @@
       "confirmed": 135278,
       "date": "2020-10-14",
       "deaths": 3101,
-      "recovered": 82004
+      "recovered": 83847
     }
   },
   "Portugal": {
@@ -1385,7 +1385,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57884,
+      "confirmed": 57889,
       "date": "2020-10-14",
       "deaths": 28,
       "recovered": 57740
