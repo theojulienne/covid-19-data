@@ -397,72 +397,72 @@
         "live": {
           "confirmed": 135372,
           "date": "2020-10-14",
-          "deaths": 2701,
-          "recovered": 114467
+          "deaths": 2727,
+          "recovered": 116773
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 69099,
           "date": "2020-10-14",
-          "deaths": 3089,
-          "recovered": 64496
+          "deaths": 3093,
+          "recovered": 64597
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 30832,
           "date": "2020-10-14",
-          "deaths": 804,
-          "recovered": 28824
+          "deaths": 805,
+          "recovered": 28961
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 290332,
           "date": "2020-10-14",
-          "deaths": 7129,
-          "recovered": 255423
+          "deaths": 7155,
+          "recovered": 256202
         }
       },
       "Cesar": {
         "live": {
           "confirmed": 22725,
           "date": "2020-10-14",
-          "deaths": 696,
-          "recovered": 19091
+          "deaths": 703,
+          "recovered": 19470
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 25055,
           "date": "2020-10-14",
-          "deaths": 1580,
-          "recovered": 22026
+          "deaths": 1584,
+          "recovered": 22133
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 37101,
           "date": "2020-10-14",
-          "deaths": 1081,
-          "recovered": 32575
+          "deaths": 1088,
+          "recovered": 32964
         }
       },
       "Santander": {
         "live": {
           "confirmed": 35771,
           "date": "2020-10-14",
-          "deaths": 1462,
-          "recovered": 29360
+          "deaths": 1474,
+          "recovered": 29953
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 70557,
           "date": "2020-10-14",
-          "deaths": 2469,
-          "recovered": 59903
+          "deaths": 2479,
+          "recovered": 60623
         }
       }
     }
@@ -559,15 +559,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 22310,
+          "confirmed": 22819,
           "date": "2020-10-14",
-          "deaths": 562,
+          "deaths": 567,
           "recovered": 18760
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 23447,
+          "confirmed": 23560,
           "date": "2020-10-14",
           "deaths": 702,
           "recovered": 19729
