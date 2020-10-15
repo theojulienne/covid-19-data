@@ -193,7 +193,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1154,
-          "tested": 1163795
+          "tested": 1169423
         },
         "SA": {
           "confirmed": 475,
