@@ -335,18 +335,18 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 64256,
+          "confirmed": 64269,
           "date": "2020-10-15",
           "deaths": 3071,
-          "recovered": 55192
+          "recovered": 55315
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 88994,
+          "confirmed": 89963,
           "date": "2020-10-15",
-          "deaths": 5977,
-          "recovered": 74483
+          "deaths": 6005,
+          "recovered": 75467
         }
       }
     }
@@ -551,9 +551,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 56488,
+          "confirmed": 57442,
           "date": "2020-10-15",
-          "deaths": 1919,
+          "deaths": 1920,
           "recovered": 47737
         }
       },
@@ -845,10 +845,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 413215,
+      "confirmed": 416802,
       "date": "2020-10-15",
-      "deaths": 10021,
-      "recovered": 347396
+      "deaths": 10086,
+      "recovered": 350752
     }
   },
   "Ireland": {
@@ -861,10 +861,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 299502,
+      "confirmed": 300011,
       "date": "2020-10-15",
-      "deaths": 2109,
-      "recovered": 253597
+      "deaths": 2121,
+      "recovered": 256684
     }
   },
   "Italy": {
@@ -1515,7 +1515,7 @@
     "live": {
       "confirmed": 71317,
       "date": "2020-10-15",
-      "deaths": 2114,
+      "deaths": 2115,
       "recovered": 50500
     }
   },
@@ -1547,9 +1547,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 624047,
+          "confirmed": 624280,
           "date": "2020-10-15",
-          "deaths": 12921,
+          "deaths": 12923,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 157573,
+          "confirmed": 159035,
           "date": "2020-10-15",
-          "deaths": 5321,
+          "deaths": 5332,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 23391,
+          "confirmed": 23495,
           "date": "2020-10-15",
           "deaths": 2050,
           "recovered": 0
@@ -1643,9 +1643,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 370176,
+          "confirmed": 370898,
           "date": "2020-10-15",
-          "deaths": 28474,
+          "deaths": 28485,
           "recovered": 0
         }
       },
