@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 76621,
       "date": "2020-10-15",
-      "deaths": 287,
+      "deaths": 288,
       "recovered": 72561
     }
   },
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 31655,
+      "confirmed": 32224,
       "date": "2020-10-15",
-      "deaths": 958,
-      "recovered": 24074
+      "deaths": 972,
+      "recovered": 24356
     }
   },
   "Brazil": {
@@ -1369,17 +1369,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 340590,
+      "confirmed": 341062,
       "date": "2020-10-15",
-      "deaths": 5108,
-      "recovered": 326820
+      "deaths": 5127,
+      "recovered": 327327
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 35251,
+      "confirmed": 35454,
       "date": "2020-10-15",
-      "deaths": 768,
+      "deaths": 770,
       "recovered": 0
     }
   },
@@ -1515,8 +1515,8 @@
     "live": {
       "confirmed": 71317,
       "date": "2020-10-15",
-      "deaths": 2110,
-      "recovered": 49800
+      "deaths": 2113,
+      "recovered": 50500
     }
   },
   "Tunisia": {
