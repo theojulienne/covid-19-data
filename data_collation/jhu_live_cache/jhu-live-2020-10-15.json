@@ -335,7 +335,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 64093,
+          "confirmed": 64256,
           "date": "2020-10-15",
           "deaths": 3071,
           "recovered": 55192
@@ -609,10 +609,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 99094,
+      "confirmed": 99765,
       "date": "2020-10-15",
-      "deaths": 3430,
-      "recovered": 88416
+      "deaths": 3453,
+      "recovered": 88931
     }
   },
   "Honduras": {
@@ -871,34 +871,34 @@
     "subseries": {
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 38695,
+          "confirmed": 39148,
           "date": "2020-10-15",
-          "deaths": 4502,
-          "recovered": 27045
+          "deaths": 4503,
+          "recovered": 27124
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 116644,
+          "confirmed": 118711,
           "date": "2020-10-15",
-          "deaths": 17011,
-          "recovered": 84415
+          "deaths": 17037,
+          "recovered": 84624
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 40041,
+          "confirmed": 41074,
           "date": "2020-10-15",
-          "deaths": 4187,
-          "recovered": 29467
+          "deaths": 4190,
+          "recovered": 29576
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 32973,
+          "confirmed": 33573,
           "date": "2020-10-15",
-          "deaths": 2226,
-          "recovered": 23565
+          "deaths": 2237,
+          "recovered": 23728
         }
       }
     }
@@ -917,10 +917,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 30550,
+      "confirmed": 33009,
       "date": "2020-10-15",
-      "deaths": 257,
-      "recovered": 6466
+      "deaths": 282,
+      "recovered": 6565
     }
   },
   "Kazakhstan": {
@@ -1388,7 +1388,7 @@
       "confirmed": 57892,
       "date": "2020-10-15",
       "deaths": 28,
-      "recovered": 57752
+      "recovered": 57764
     }
   },
   "Slovakia": {
@@ -1555,9 +1555,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 447529,
+          "confirmed": 449118,
           "date": "2020-10-15",
-          "deaths": 8959,
+          "deaths": 9019,
           "recovered": 0
         }
       },
