@@ -543,7 +543,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 56475,
+          "confirmed": 56488,
           "date": "2020-10-15",
           "deaths": 1919,
           "recovered": 47737
@@ -559,17 +559,17 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 22819,
+          "confirmed": 23481,
           "date": "2020-10-15",
-          "deaths": 567,
+          "deaths": 569,
           "recovered": 18995
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 23889,
+          "confirmed": 24009,
           "date": "2020-10-15",
-          "deaths": 704,
+          "deaths": 706,
           "recovered": 19966
         }
       },
@@ -609,10 +609,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 84852,
+      "confirmed": 85458,
       "date": "2020-10-15",
-      "deaths": 2528,
-      "recovered": 32772
+      "deaths": 2533,
+      "recovered": 32990
     }
   },
   "Hungary": {
