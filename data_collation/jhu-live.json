@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 39994,
+      "confirmed": 40026,
       "date": "2020-10-15",
       "deaths": 1481,
-      "recovered": 33354
+      "recovered": 33447
     }
   },
   "Algeria": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 298500,
+      "confirmed": 299253,
       "date": "2020-10-15",
-      "deaths": 2098,
-      "recovered": 251711
+      "deaths": 2099,
+      "recovered": 253212
     }
   },
   "Italy": {
@@ -949,10 +949,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 50201,
+      "confirmed": 50589,
       "date": "2020-10-15",
-      "deaths": 1094,
-      "recovered": 44884
+      "deaths": 1099,
+      "recovered": 45080
     }
   },
   "Lebanon": {
@@ -1531,9 +1531,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 646225,
+          "confirmed": 646372,
           "date": "2020-10-15",
-          "deaths": 13350,
+          "deaths": 13363,
           "recovered": 0
         }
       },
@@ -1703,26 +1703,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 26262,
+          "confirmed": 26913,
           "date": "2020-10-15",
-          "deaths": 427,
-          "recovered": 5279
+          "deaths": 430,
+          "recovered": 5389
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 28512,
+          "confirmed": 28957,
           "date": "2020-10-15",
-          "deaths": 518,
-          "recovered": 10229
+          "deaths": 535,
+          "recovered": 10286
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 23474,
+          "confirmed": 23806,
           "date": "2020-10-15",
-          "deaths": 649,
-          "recovered": 8989
+          "deaths": 660,
+          "recovered": 9010
         }
       }
     }
@@ -1773,10 +1773,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 61950,
+      "confirmed": 62175,
       "date": "2020-10-15",
-      "deaths": 514,
-      "recovered": 58951
+      "deaths": 516,
+      "recovered": 59095
     }
   },
   "Venezuela": {
