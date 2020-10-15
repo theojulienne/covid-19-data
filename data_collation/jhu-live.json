@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 76621,
       "date": "2020-10-15",
-      "deaths": 288,
+      "deaths": 289,
       "recovered": 72561
     }
   },
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 26089,
+          "confirmed": 26266,
           "date": "2020-10-15",
           "deaths": 388,
-          "recovered": 24043
+          "recovered": 24198
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 291433,
+          "confirmed": 291676,
           "date": "2020-10-15",
-          "deaths": 9544,
-          "recovered": 278846
+          "deaths": 9563,
+          "recovered": 279122
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 28938,
+          "confirmed": 29022,
           "date": "2020-10-15",
           "deaths": 956,
-          "recovered": 27093
+          "recovered": 27202
         }
       }
     }
@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 139290,
+      "confirmed": 144849,
       "date": "2020-10-15",
-      "deaths": 1172,
-      "recovered": 60901
+      "deaths": 1218,
+      "recovered": 61505
     }
   },
   "Denmark": {
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 788117,
+      "confirmed": 818707,
       "date": "2020-10-15",
-      "deaths": 32788,
-      "recovered": 84266
+      "deaths": 32876,
+      "recovered": 84933
     }
   },
   "Germany": {
@@ -559,7 +559,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 75535,
+          "confirmed": 75696,
           "date": "2020-10-15",
           "deaths": 2700,
           "recovered": 65787
@@ -593,17 +593,17 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47126,
+      "confirmed": 47151,
       "date": "2020-10-15",
       "deaths": 310,
-      "recovered": 46469
+      "recovered": 46490
     }
   },
   "Greece": {
     "live": {
-      "confirmed": 23495,
+      "confirmed": 23947,
       "date": "2020-10-15",
-      "deaths": 469,
+      "deaths": 482,
       "recovered": 1347
     }
   },
@@ -1089,10 +1089,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 64424,
+      "confirmed": 65076,
       "date": "2020-10-15",
-      "deaths": 1514,
-      "recovered": 45545
+      "deaths": 1530,
+      "recovered": 46010
     }
   },
   "Morocco": {
@@ -1515,7 +1515,7 @@
     "live": {
       "confirmed": 71317,
       "date": "2020-10-15",
-      "deaths": 2113,
+      "deaths": 2114,
       "recovered": 50500
     }
   },
@@ -1529,10 +1529,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 340450,
+      "confirmed": 342143,
       "date": "2020-10-15",
-      "deaths": 9014,
-      "recovered": 298368
+      "deaths": 9080,
+      "recovered": 299679
     }
   },
   "US": {
@@ -1579,9 +1579,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 23611,
+          "confirmed": 23852,
           "date": "2020-10-15",
-          "deaths": 774,
+          "deaths": 776,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 30923,
+          "confirmed": 31161,
           "date": "2020-10-15",
-          "deaths": 959,
+          "deaths": 962,
           "recovered": 0
         }
       },
@@ -1651,7 +1651,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 30818,
+          "confirmed": 31074,
           "date": "2020-10-15",
           "deaths": 373,
           "recovered": 0
@@ -1755,7 +1755,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 556528,
+          "confirmed": 572667,
           "date": "2020-10-15",
           "deaths": 38293,
           "recovered": 0
@@ -1763,7 +1763,7 @@
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 23115,
+          "confirmed": 23878,
           "date": "2020-10-15",
           "deaths": 602,
           "recovered": 0
@@ -1771,7 +1771,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 42685,
+          "confirmed": 44036,
           "date": "2020-10-15",
           "deaths": 2572,
           "recovered": 0
@@ -1779,7 +1779,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 32316,
+          "confirmed": 33041,
           "date": "2020-10-15",
           "deaths": 1688,
           "recovered": 0
