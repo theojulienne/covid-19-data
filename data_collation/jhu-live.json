@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 42750,
+      "confirmed": 43280,
       "date": "2020-10-15",
-      "deaths": 616,
-      "recovered": 39570
+      "deaths": 619,
+      "recovered": 39671
     }
   },
   "Bahrain": {
@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 64528,
+          "confirmed": 64763,
           "date": "2020-10-15",
-          "deaths": 3075,
-          "recovered": 55570
+          "deaths": 3077,
+          "recovered": 55881
         }
       },
       "Quebec": {
@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 91780,
+      "confirmed": 93152,
       "date": "2020-10-15",
-      "deaths": 1134,
-      "recovered": 54155
+      "deaths": 1159,
+      "recovered": 57731
     }
   },
   "Croatia": {
@@ -1539,9 +1539,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 624506,
+          "confirmed": 624789,
           "date": "2020-10-15",
-          "deaths": 12954,
+          "deaths": 12963,
           "recovered": 0
         }
       },
@@ -1677,7 +1677,7 @@
         "live": {
           "confirmed": 475818,
           "date": "2020-10-15",
-          "deaths": 9957,
+          "deaths": 9982,
           "recovered": 0
         }
       },
