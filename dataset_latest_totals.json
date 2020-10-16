@@ -212,12 +212,12 @@
           "tested": 109442
         },
         "VIC": {
-          "confirmed": 20311,
+          "confirmed": 20315,
           "current_hospitalized": 4,
           "current_icu": 5,
           "deaths": 816,
           "recovered": 1992,
-          "tested": 2875056
+          "tested": 2890495
         },
         "WA": {
           "confirmed": 703,
@@ -2967,17 +2967,17 @@
     "SLV": {
       "back_1week": {
         "confirmed": 29737,
-        "deaths": 873,
+        "deaths": 877,
         "recovered": 24643
       },
       "back_2week": {
         "confirmed": 29077,
-        "deaths": 843,
+        "deaths": 848,
         "recovered": 23813
       },
       "latest": {
         "confirmed": 30766,
-        "deaths": 904,
+        "deaths": 908,
         "recovered": 26087
       }
     },
