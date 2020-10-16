@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 139141,
+      "confirmed": 139319,
       "date": "2020-10-16",
-      "deaths": 8377,
-      "recovered": 102642
+      "deaths": 8407,
+      "recovered": 103499
     }
   },
   "Bosnia and Herzegovina": {
@@ -933,10 +933,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 24988,
+      "confirmed": 25035,
       "date": "2020-10-16",
-      "deaths": 439,
-      "recovered": 23082
+      "deaths": 441,
+      "recovered": 23180
     }
   },
   "Kuwait": {
@@ -1611,9 +1611,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 26881,
+          "confirmed": 27050,
           "date": "2020-10-16",
-          "deaths": 872,
+          "deaths": 854,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 477020,
+          "confirmed": 477266,
           "date": "2020-10-16",
-          "deaths": 9982,
+          "deaths": 9990,
           "recovered": 0
         }
       },
