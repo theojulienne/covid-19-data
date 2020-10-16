@@ -1547,7 +1547,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 626626,
+          "confirmed": 626785,
           "date": "2020-10-16",
           "deaths": 12991,
           "recovered": 0
@@ -1563,9 +1563,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 58724,
+          "confirmed": 58980,
           "date": "2020-10-16",
-          "deaths": 1027,
+          "deaths": 1032,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 37702,
+          "confirmed": 37951,
           "date": "2020-10-16",
           "deaths": 3017,
           "recovered": 0
@@ -1675,9 +1675,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 62338,
+          "confirmed": 62440,
           "date": "2020-10-16",
-          "deaths": 871,
+          "deaths": 872,
           "recovered": 0
         }
       },
@@ -1691,9 +1691,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 63228,
+          "confirmed": 64283,
           "date": "2020-10-16",
-          "deaths": 351,
+          "deaths": 357,
           "recovered": 0
         }
       },
@@ -1707,7 +1707,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 34017,
+          "confirmed": 34400,
           "date": "2020-10-16",
           "deaths": 554,
           "recovered": 0
@@ -1755,33 +1755,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 572667,
+          "confirmed": 584843,
           "date": "2020-10-16",
-          "deaths": 38404,
+          "deaths": 38524,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 23878,
+          "confirmed": 25177,
           "date": "2020-10-16",
-          "deaths": 606,
+          "deaths": 608,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 44036,
+          "confirmed": 45232,
           "date": "2020-10-16",
-          "deaths": 2585,
+          "deaths": 2594,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 33041,
+          "confirmed": 34005,
           "date": "2020-10-16",
-          "deaths": 1698,
+          "deaths": 1703,
           "recovered": 0
         }
       }
