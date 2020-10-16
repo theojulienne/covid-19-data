@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 32224,
+      "confirmed": 32845,
       "date": "2020-10-16",
-      "deaths": 972,
-      "recovered": 24356
+      "deaths": 980,
+      "recovered": 24603
     }
   },
   "Brazil": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 34023,
+      "confirmed": 34441,
       "date": "2020-10-16",
       "deaths": 677,
-      "recovered": 28118
+      "recovered": 28551
     }
   },
   "Dominican Republic": {
@@ -837,10 +837,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 517835,
+      "confirmed": 522387,
       "date": "2020-10-16",
-      "deaths": 29605,
-      "recovered": 418054
+      "deaths": 29870,
+      "recovered": 420910
     }
   },
   "Iraq": {
@@ -973,10 +973,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 46676,
+      "confirmed": 47845,
       "date": "2020-10-16",
-      "deaths": 681,
-      "recovered": 25685
+      "deaths": 699,
+      "recovered": 26062
     }
   },
   "Mexico": {
@@ -1105,35 +1105,35 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 121745,
+      "confirmed": 126137,
       "date": "2020-10-16",
-      "deaths": 694,
-      "recovered": 84518
+      "deaths": 715,
+      "recovered": 88040
     }
   },
   "Netherlands": {
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 29550,
+          "confirmed": 30758,
           "date": "2020-10-16",
-          "deaths": 1599,
+          "deaths": 1602,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 40498,
+          "confirmed": 42151,
           "date": "2020-10-16",
-          "deaths": 916,
+          "deaths": 917,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 60796,
+          "confirmed": 62820,
           "date": "2020-10-16",
-          "deaths": 1495,
+          "deaths": 1500,
           "recovered": 0
         }
       }
@@ -1301,10 +1301,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 168490,
+      "confirmed": 172516,
       "date": "2020-10-16",
-      "deaths": 5674,
-      "recovered": 125009
+      "deaths": 5749,
+      "recovered": 127076
     }
   },
   "Russia": {
@@ -1503,9 +1503,9 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 28346,
+          "confirmed": 28592,
           "date": "2020-10-16",
-          "deaths": 2413,
+          "deaths": 2416,
           "recovered": 0
         }
       }
@@ -1745,10 +1745,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 111437,
+      "confirmed": 112849,
       "date": "2020-10-16",
-      "deaths": 452,
-      "recovered": 103325
+      "deaths": 455,
+      "recovered": 104943
     }
   },
   "United Kingdom": {
