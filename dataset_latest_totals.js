@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 53755,
-        "deaths": 995,
-        "recovered": 45110
+        "confirmed": 54473,
+        "deaths": 1004,
+        "recovered": 45312
       },
       "back_2week": {
-        "confirmed": 50359,
-        "deaths": 959,
-        "recovered": 44001
+        "confirmed": 50850,
+        "deaths": 963,
+        "recovered": 44219
       },
       "latest": {
-        "confirmed": 58624,
-        "deaths": 1039,
-        "recovered": 46713
+        "confirmed": 59995,
+        "deaths": 1046,
+        "recovered": 47119
       }
     },
     "ATG": {
@@ -1694,19 +1694,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 33114,
-        "deaths": 877,
-        "recovered": 9149
+        "confirmed": 34046,
+        "deaths": 898,
+        "recovered": 9187
       },
       "back_2week": {
-        "confirmed": 26461,
-        "deaths": 765,
-        "recovered": 5890
+        "confirmed": 27309,
+        "deaths": 781,
+        "recovered": 6118
       },
       "latest": {
-        "confirmed": 40782,
-        "deaths": 1023,
-        "recovered": 12164
+        "confirmed": 41732,
+        "deaths": 1052,
+        "recovered": 12628
       }
     },
     "IDN": {
@@ -1813,19 +1813,19 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 281481,
-        "deaths": 1824,
-        "recovered": 216613
+        "confirmed": 285336,
+        "deaths": 1864,
+        "recovered": 221571
       },
       "back_2week": {
-        "confirmed": 245494,
-        "deaths": 1569,
-        "recovered": 174506
+        "confirmed": 253490,
+        "deaths": 1622,
+        "recovered": 179468
       },
       "latest": {
-        "confirmed": 298500,
-        "deaths": 2098,
-        "recovered": 251711
+        "confirmed": 300201,
+        "deaths": 2127,
+        "recovered": 257226
       }
     },
     "ITA": {
