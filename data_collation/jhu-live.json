@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 93152,
+      "confirmed": 94348,
       "date": "2020-10-16",
-      "deaths": 1159,
-      "recovered": 57731
+      "deaths": 1168,
+      "recovered": 58269
     }
   },
   "Croatia": {
@@ -1549,7 +1549,7 @@
         "live": {
           "confirmed": 626785,
           "date": "2020-10-16",
-          "deaths": 12991,
+          "deaths": 13001,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 55599,
+          "confirmed": 55888,
           "date": "2020-10-16",
-          "deaths": 3358,
+          "deaths": 3369,
           "recovered": 0
         }
       },
@@ -1683,7 +1683,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 477316,
+          "confirmed": 477931,
           "date": "2020-10-16",
           "deaths": 9995,
           "recovered": 0
