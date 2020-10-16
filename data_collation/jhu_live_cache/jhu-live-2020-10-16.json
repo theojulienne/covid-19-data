@@ -559,17 +559,17 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 23481,
+          "confirmed": 24151,
           "date": "2020-10-16",
-          "deaths": 569,
+          "deaths": 571,
           "recovered": 19270
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 24368,
+          "confirmed": 24724,
           "date": "2020-10-16",
-          "deaths": 709,
+          "deaths": 710,
           "recovered": 20270
         }
       },
@@ -1195,65 +1195,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 24257,
+          "confirmed": 24446,
           "date": "2020-10-16",
-          "deaths": 1330,
+          "deaths": 1333,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 43173,
+          "confirmed": 43281,
           "date": "2020-10-16",
-          "deaths": 1411,
+          "deaths": 1415,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 35021,
+          "confirmed": 35126,
           "date": "2020-10-16",
-          "deaths": 1804,
+          "deaths": 1807,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 28708,
+          "confirmed": 28819,
           "date": "2020-10-16",
-          "deaths": 1641,
+          "deaths": 1642,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 30775,
+          "confirmed": 30886,
           "date": "2020-10-16",
-          "deaths": 2245,
+          "deaths": 2255,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 27204,
+          "confirmed": 27277,
           "date": "2020-10-16",
-          "deaths": 1735,
+          "deaths": 1739,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 389427,
+          "confirmed": 390497,
           "date": "2020-10-16",
-          "deaths": 15079,
+          "deaths": 15100,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 37032,
+          "confirmed": 37101,
           "date": "2020-10-16",
-          "deaths": 1998,
+          "deaths": 2000,
           "recovered": 0
         }
       }
