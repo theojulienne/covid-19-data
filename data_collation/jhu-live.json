@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 818707,
+      "confirmed": 843475,
       "date": "2020-10-16",
-      "deaths": 32876,
-      "recovered": 84933
+      "deaths": 33054,
+      "recovered": 85035
     }
   },
   "Germany": {
@@ -1401,10 +1401,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 698184,
+      "confirmed": 700203,
       "date": "2020-10-16",
-      "deaths": 18309,
-      "recovered": 628301
+      "deaths": 18370,
+      "recovered": 629260
     }
   },
   "Spain": {
@@ -1547,9 +1547,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 626785,
+          "confirmed": 627051,
           "date": "2020-10-16",
-          "deaths": 13001,
+          "deaths": 13007,
           "recovered": 0
         }
       },
@@ -1685,7 +1685,7 @@
         "live": {
           "confirmed": 477931,
           "date": "2020-10-16",
-          "deaths": 9995,
+          "deaths": 10027,
           "recovered": 0
         }
       },
