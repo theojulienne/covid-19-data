@@ -1105,10 +1105,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 167148,
+      "confirmed": 170911,
       "date": "2020-10-17",
-      "deaths": 2818,
-      "recovered": 138989
+      "deaths": 2878,
+      "recovered": 141381
     }
   },
   "Nepal": {
@@ -1555,9 +1555,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 605578,
+          "confirmed": 605717,
           "date": "2020-10-17",
-          "deaths": 12685,
+          "deaths": 12694,
           "recovered": 0
         }
       },
@@ -1651,7 +1651,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 371809,
+          "confirmed": 372903,
           "date": "2020-10-17",
           "deaths": 28494,
           "recovered": 0
@@ -1667,7 +1667,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 30157,
+          "confirmed": 30401,
           "date": "2020-10-17",
           "deaths": 635,
           "recovered": 0
