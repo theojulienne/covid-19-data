@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 139319,
+      "confirmed": 139562,
       "date": "2020-10-17",
-      "deaths": 8407,
-      "recovered": 103499
+      "deaths": 8439,
+      "recovered": 103896
     }
   },
   "Bosnia and Herzegovina": {
@@ -554,7 +554,7 @@
           "confirmed": 58640,
           "date": "2020-10-17",
           "deaths": 1927,
-          "recovered": 48162
+          "recovered": 47818
         }
       },
       "Bayern": {
@@ -562,7 +562,7 @@
           "confirmed": 76804,
           "date": "2020-10-17",
           "deaths": 2702,
-          "recovered": 66242
+          "recovered": 65850
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 24899,
           "date": "2020-10-17",
           "deaths": 710,
-          "recovered": 20270
+          "recovered": 19604
         }
       },
       "Nordrhein-Westfalen": {
@@ -949,10 +949,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 25035,
+      "confirmed": 25108,
       "date": "2020-10-17",
-      "deaths": 441,
-      "recovered": 23180
+      "deaths": 443,
+      "recovered": 23258
     }
   },
   "Kuwait": {
@@ -1619,7 +1619,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 27050,
+          "confirmed": 27472,
           "date": "2020-10-17",
           "deaths": 854,
           "recovered": 0
@@ -1683,7 +1683,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 480409,
+          "confirmed": 480554,
           "date": "2020-10-17",
           "deaths": 10031,
           "recovered": 0
