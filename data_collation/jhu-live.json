@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 26569,
+          "confirmed": 26802,
           "date": "2020-10-17",
-          "deaths": 401,
-          "recovered": 24359
+          "deaths": 405,
+          "recovered": 24498
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 292059,
+          "confirmed": 292430,
           "date": "2020-10-17",
-          "deaths": 9581,
-          "recovered": 279478
+          "deaths": 9601,
+          "recovered": 279821
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 29117,
+          "confirmed": 29241,
           "date": "2020-10-17",
-          "deaths": 973,
-          "recovered": 27327
+          "deaths": 979,
+          "recovered": 27433
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 120450,
+      "confirmed": 120925,
       "date": "2020-10-17",
-      "deaths": 2192,
-      "recovered": 96883
+      "deaths": 2195,
+      "recovered": 97575
     }
   },
   "Ecuador": {
@@ -609,10 +609,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 100431,
+      "confirmed": 101028,
       "date": "2020-10-17",
-      "deaths": 3478,
-      "recovered": 89494
+      "deaths": 3515,
+      "recovered": 90001
     }
   },
   "Honduras": {
@@ -871,42 +871,50 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 23033,
+          "confirmed": 24443,
           "date": "2020-10-17",
           "deaths": 499,
-          "recovered": 8180
+          "recovered": 8254
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 39692,
+          "confirmed": 40333,
           "date": "2020-10-17",
-          "deaths": 4504,
-          "recovered": 27155
+          "deaths": 4509,
+          "recovered": 27175
+        }
+      },
+      "Lazio": {
+        "live": {
+          "confirmed": 23790,
+          "date": "2020-10-17",
+          "deaths": 1018,
+          "recovered": 9535
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 121130,
+          "confirmed": 123794,
           "date": "2020-10-17",
-          "deaths": 17044,
-          "recovered": 84958
+          "deaths": 17057,
+          "recovered": 85112
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 41895,
+          "confirmed": 42867,
           "date": "2020-10-17",
-          "deaths": 4194,
-          "recovered": 29643
+          "deaths": 4196,
+          "recovered": 29791
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 34277,
+          "confirmed": 35051,
           "date": "2020-10-17",
-          "deaths": 2244,
-          "recovered": 23895
+          "deaths": 2247,
+          "recovered": 24064
         }
       }
     }
@@ -1089,10 +1097,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 65860,
+      "confirmed": 66652,
       "date": "2020-10-17",
-      "deaths": 1549,
-      "recovered": 46543
+      "deaths": 1569,
+      "recovered": 47230
     }
   },
   "Morocco": {
@@ -1388,7 +1396,7 @@
       "confirmed": 57904,
       "date": "2020-10-17",
       "deaths": 28,
-      "recovered": 57784
+      "recovered": 57798
     }
   },
   "Slovakia": {
@@ -1547,17 +1555,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 628552,
+          "confirmed": 605578,
           "date": "2020-10-17",
-          "deaths": 13058,
+          "deaths": 12685,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 450870,
+          "confirmed": 452914,
           "date": "2020-10-17",
-          "deaths": 9062,
+          "deaths": 9108,
           "recovered": 0
         }
       },
@@ -1651,7 +1659,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 31279,
+          "confirmed": 31442,
           "date": "2020-10-17",
           "deaths": 374,
           "recovered": 0
@@ -1757,7 +1765,7 @@
         "live": {
           "confirmed": 584843,
           "date": "2020-10-17",
-          "deaths": 38524,
+          "deaths": 38652,
           "recovered": 0
         }
       },
@@ -1765,7 +1773,7 @@
         "live": {
           "confirmed": 25177,
           "date": "2020-10-17",
-          "deaths": 608,
+          "deaths": 610,
           "recovered": 0
         }
       },
@@ -1773,7 +1781,7 @@
         "live": {
           "confirmed": 45232,
           "date": "2020-10-17",
-          "deaths": 2594,
+          "deaths": 2609,
           "recovered": 0
         }
       },
@@ -1781,7 +1789,7 @@
         "live": {
           "confirmed": 34005,
           "date": "2020-10-17",
-          "deaths": 1703,
+          "deaths": 1708,
           "recovered": 0
         }
       }
