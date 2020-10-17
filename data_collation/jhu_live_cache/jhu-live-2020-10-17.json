@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 53998,
+      "confirmed": 54203,
       "date": "2020-10-17",
-      "deaths": 1841,
-      "recovered": 37856
+      "deaths": 1846,
+      "recovered": 37971
     }
   },
   "Argentina": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 77325,
+      "confirmed": 77571,
       "date": "2020-10-17",
       "deaths": 293,
-      "recovered": 73421
+      "recovered": 73841
     }
   },
   "Bangladesh": {
@@ -593,10 +593,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47173,
+      "confirmed": 47199,
       "date": "2020-10-17",
       "deaths": 310,
-      "recovered": 46527
+      "recovered": 46541
     }
   },
   "Greece": {
@@ -853,9 +853,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 47427,
+      "confirmed": 48678,
       "date": "2020-10-17",
-      "deaths": 1841,
+      "deaths": 1849,
       "recovered": 23364
     }
   },
@@ -1529,9 +1529,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 34790,
+      "confirmed": 40542,
       "date": "2020-10-17",
-      "deaths": 512,
+      "deaths": 626,
       "recovered": 5032
     }
   },
@@ -1555,9 +1555,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 605790,
+          "confirmed": 605875,
           "date": "2020-10-17",
-          "deaths": 12694,
+          "deaths": 12702,
           "recovered": 0
         }
       },
@@ -1691,9 +1691,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 480554,
+          "confirmed": 481598,
           "date": "2020-10-17",
-          "deaths": 10031,
+          "deaths": 10053,
           "recovered": 0
         }
       },
