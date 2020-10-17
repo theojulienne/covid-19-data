@@ -33,18 +33,18 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 61387,
+      "confirmed": 63134,
       "date": "2020-10-17",
-      "deaths": 882,
-      "recovered": 47618
+      "deaths": 889,
+      "recovered": 48771
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 43789,
+      "confirmed": 44317,
       "date": "2020-10-17",
-      "deaths": 621,
-      "recovered": 39800
+      "deaths": 623,
+      "recovered": 39903
     }
   },
   "Bahrain": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 34441,
+      "confirmed": 34941,
       "date": "2020-10-17",
-      "deaths": 677,
-      "recovered": 28551
+      "deaths": 679,
+      "recovered": 28917
     }
   },
   "Dominican Republic": {
@@ -559,7 +559,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 77904,
+          "confirmed": 78187,
           "date": "2020-10-17",
           "deaths": 2714,
           "recovered": 66601
@@ -918,7 +918,7 @@
           "confirmed": 28852,
           "date": "2020-10-17",
           "deaths": 431,
-          "recovered": 26091
+          "recovered": 26306
         }
       }
     }
@@ -1115,25 +1115,25 @@
     "subseries": {
       "Noord-Brabant": {
         "live": {
-          "confirmed": 30758,
+          "confirmed": 31863,
           "date": "2020-10-17",
-          "deaths": 1602,
+          "deaths": 1607,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 42151,
+          "confirmed": 43883,
           "date": "2020-10-17",
-          "deaths": 917,
+          "deaths": 918,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 62820,
+          "confirmed": 64930,
           "date": "2020-10-17",
-          "deaths": 1500,
+          "deaths": 1509,
           "recovered": 0
         }
       }
@@ -1789,9 +1789,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 62684,
+      "confirmed": 62809,
       "date": "2020-10-17",
-      "deaths": 520,
+      "deaths": 522,
       "recovered": 59756
     }
   },
@@ -1805,10 +1805,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 46434,
+      "confirmed": 46746,
       "date": "2020-10-17",
       "deaths": 402,
-      "recovered": 39921
+      "recovered": 40162
     }
   }
 }
