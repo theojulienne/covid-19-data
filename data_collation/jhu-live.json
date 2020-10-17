@@ -397,72 +397,72 @@
         "live": {
           "confirmed": 139833,
           "date": "2020-10-17",
-          "deaths": 2772,
-          "recovered": 121362
+          "deaths": 2802,
+          "recovered": 123357
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 69442,
           "date": "2020-10-17",
-          "deaths": 3097,
-          "recovered": 64882
+          "deaths": 3098,
+          "recovered": 65031
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 31122,
           "date": "2020-10-17",
-          "deaths": 811,
-          "recovered": 29296
+          "deaths": 813,
+          "recovered": 29409
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 294032,
           "date": "2020-10-17",
-          "deaths": 7212,
-          "recovered": 261261
+          "deaths": 7237,
+          "recovered": 263933
         }
       },
       "Cesar": {
         "live": {
           "confirmed": 23272,
           "date": "2020-10-17",
-          "deaths": 713,
-          "recovered": 19960
+          "deaths": 719,
+          "recovered": 20170
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 25364,
           "date": "2020-10-17",
-          "deaths": 1590,
-          "recovered": 22386
+          "deaths": 1592,
+          "recovered": 22484
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 37954,
           "date": "2020-10-17",
-          "deaths": 1105,
-          "recovered": 33622
+          "deaths": 1110,
+          "recovered": 33972
         }
       },
       "Santander": {
         "live": {
           "confirmed": 36902,
           "date": "2020-10-17",
-          "deaths": 1501,
-          "recovered": 30697
+          "deaths": 1509,
+          "recovered": 31258
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 72400,
           "date": "2020-10-17",
-          "deaths": 2515,
-          "recovered": 62127
+          "deaths": 2529,
+          "recovered": 63113
         }
       }
     }
@@ -527,7 +527,7 @@
     "live": {
       "confirmed": 31265,
       "date": "2020-10-17",
-      "deaths": 912,
+      "deaths": 917,
       "recovered": 26542
     }
   },
@@ -965,10 +965,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 51020,
+      "confirmed": 51490,
       "date": "2020-10-17",
-      "deaths": 1103,
-      "recovered": 45288
+      "deaths": 1108,
+      "recovered": 45509
     }
   },
   "Lebanon": {
@@ -1719,26 +1719,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 27457,
+          "confirmed": 27929,
           "date": "2020-10-17",
-          "deaths": 434,
-          "recovered": 5535
+          "deaths": 439,
+          "recovered": 5593
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 29412,
+          "confirmed": 30010,
           "date": "2020-10-17",
-          "deaths": 557,
-          "recovered": 10475
+          "deaths": 569,
+          "recovered": 10661
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 24171,
+          "confirmed": 24539,
           "date": "2020-10-17",
-          "deaths": 672,
-          "recovered": 9122
+          "deaths": 681,
+          "recovered": 9295
         }
       }
     }
