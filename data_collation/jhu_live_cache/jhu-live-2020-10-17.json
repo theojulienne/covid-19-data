@@ -567,15 +567,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 24151,
+          "confirmed": 25033,
           "date": "2020-10-17",
-          "deaths": 571,
+          "deaths": 572,
           "recovered": 19491
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 24899,
+          "confirmed": 25287,
           "date": "2020-10-17",
           "deaths": 710,
           "recovered": 20533
