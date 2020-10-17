@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 77325,
       "date": "2020-10-17",
-      "deaths": 292,
+      "deaths": 293,
       "recovered": 73421
     }
   },
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 33488,
+      "confirmed": 34875,
       "date": "2020-10-17",
-      "deaths": 799,
-      "recovered": 15477
+      "deaths": 838,
+      "recovered": 16370
     }
   },
   "Canada": {
@@ -525,10 +525,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 31265,
+      "confirmed": 31456,
       "date": "2020-10-17",
       "deaths": 917,
-      "recovered": 26542
+      "recovered": 26769
     }
   },
   "Ethiopia": {
@@ -941,10 +941,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 43580,
+      "confirmed": 44196,
       "date": "2020-10-17",
-      "deaths": 813,
-      "recovered": 31648
+      "deaths": 825,
+      "recovered": 31752
     }
   },
   "Korea, South": {
@@ -1203,65 +1203,65 @@
     "subseries": {
       "Ancash": {
         "live": {
-          "confirmed": 24446,
+          "confirmed": 24568,
           "date": "2020-10-17",
-          "deaths": 1333,
+          "deaths": 1336,
           "recovered": 0
         }
       },
       "Arequipa": {
         "live": {
-          "confirmed": 43281,
+          "confirmed": 43368,
           "date": "2020-10-17",
-          "deaths": 1415,
+          "deaths": 1418,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 35126,
+          "confirmed": 35233,
           "date": "2020-10-17",
-          "deaths": 1807,
+          "deaths": 1812,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 28819,
+          "confirmed": 28884,
           "date": "2020-10-17",
-          "deaths": 1642,
+          "deaths": 1645,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 30886,
+          "confirmed": 31005,
           "date": "2020-10-17",
-          "deaths": 2255,
+          "deaths": 2257,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 27277,
+          "confirmed": 27348,
           "date": "2020-10-17",
-          "deaths": 1739,
+          "deaths": 1746,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 390497,
+          "confirmed": 391515,
           "date": "2020-10-17",
-          "deaths": 15100,
+          "deaths": 15130,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 37101,
+          "confirmed": 37168,
           "date": "2020-10-17",
-          "deaths": 2000,
+          "deaths": 2001,
           "recovered": 0
         }
       }
@@ -1587,9 +1587,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 55384,
+          "confirmed": 55658,
           "date": "2020-10-17",
-          "deaths": 1701,
+          "deaths": 1703,
           "recovered": 0
         }
       },
