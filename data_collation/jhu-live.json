@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 105159,
+      "confirmed": 105297,
       "date": "2020-10-17",
-      "deaths": 6099,
-      "recovered": 98089
+      "deaths": 6109,
+      "recovered": 98157
     }
   },
   "El Salvador": {
@@ -1691,7 +1691,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 481598,
+          "confirmed": 482702,
           "date": "2020-10-17",
           "deaths": 10053,
           "recovered": 0
