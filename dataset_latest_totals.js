@@ -154,12 +154,12 @@ var covid19_dataset_latest_totals = {
         "tested": 7763430
       },
       "latest": {
-        "confirmed": 27189,
-        "current_hospitalized": 4,
+        "confirmed": 27198,
+        "current_hospitalized": 9,
         "current_icu": 5,
         "deaths": 906,
         "recovered": 4661,
-        "tested": 8228660
+        "tested": 8242090
       },
       "states": {
         "ACT": {
@@ -168,16 +168,16 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 3,
           "recovered": 110,
-          "tested": 99444
+          "tested": 101415
         },
         "NSW": {
-          "confirmed": 4137,
-          "current_hospitalized": 5,
-          "current_icu": 1,
+          "confirmed": 4144,
+          "current_hospitalized": 3,
+          "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 55,
           "recovered": 2799,
-          "tested": 2875738
+          "tested": 2890116
         },
         "NT": {
           "confirmed": 33,
@@ -185,23 +185,23 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 0,
           "recovered": 33,
-          "tested": 52157
+          "tested": 53804
         },
         "QLD": {
           "confirmed": 1164,
-          "current_hospitalized": 1,
+          "current_hospitalized": 2,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1154,
           "tested": 1184163
         },
         "SA": {
-          "confirmed": 476,
+          "confirmed": 482,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 4,
           "recovered": 471,
-          "tested": 502101
+          "tested": 513962
         },
         "TAS": {
           "confirmed": 230,
@@ -209,7 +209,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 13,
           "recovered": 217,
-          "tested": 109442
+          "tested": 111771
         },
         "VIC": {
           "confirmed": 20317,
@@ -220,12 +220,12 @@ var covid19_dataset_latest_totals = {
           "tested": 2925810
         },
         "WA": {
-          "confirmed": 703,
-          "current_hospitalized": 1,
+          "confirmed": 711,
+          "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 9,
           "recovered": 683,
-          "tested": 449527
+          "tested": 458327
         }
       }
     },
