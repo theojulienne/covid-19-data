@@ -270,7 +270,8 @@ var covid19_dataset_country_svk = {
     "2020-10-15",
     "2020-10-16",
     "2020-10-17",
-    "2020-10-18"
+    "2020-10-18",
+    "2020-10-19"
   ],
   "total": {
     "confirmed": [
@@ -542,8 +543,7 @@ var covid19_dataset_country_svk = {
       20886,
       22296,
       24225,
-      26300,
-      28268
+      26300
     ],
     "deaths": [
       0,
@@ -814,8 +814,7 @@ var covid19_dataset_country_svk = {
       61,
       66,
       71,
-      71,
-      82
+      71
     ],
     "recovered": [
       0,
@@ -1086,8 +1085,7 @@ var covid19_dataset_country_svk = {
       6388,
       6709,
       6926,
-      7182,
-      7297
+      7182
     ]
   }
 };
