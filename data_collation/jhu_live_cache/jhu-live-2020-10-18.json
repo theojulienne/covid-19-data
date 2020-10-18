@@ -343,10 +343,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 91018,
+          "confirmed": 92297,
           "date": "2020-10-18",
-          "deaths": 6018,
-          "recovered": 76512
+          "deaths": 6032,
+          "recovered": 77602
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 168827,
+      "confirmed": 171487,
       "date": "2020-10-18",
-      "deaths": 1352,
-      "recovered": 68945
+      "deaths": 1402,
+      "recovered": 69090
     }
   },
   "Denmark": {
@@ -1563,9 +1563,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 452914,
+          "confirmed": 454366,
           "date": "2020-10-18",
-          "deaths": 9108,
+          "deaths": 9128,
           "recovered": 0
         }
       },
@@ -1587,7 +1587,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 24290,
+          "confirmed": 24410,
           "date": "2020-10-18",
           "deaths": 780,
           "recovered": 0
@@ -1619,9 +1619,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 31749,
+          "confirmed": 32050,
           "date": "2020-10-18",
-          "deaths": 962,
+          "deaths": 965,
           "recovered": 0
         }
       },
@@ -1635,15 +1635,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 74544,
+          "confirmed": 74950,
           "date": "2020-10-18",
-          "deaths": 1468,
+          "deaths": 1469,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 23639,
+          "confirmed": 23738,
           "date": "2020-10-18",
           "deaths": 2050,
           "recovered": 0
@@ -1659,7 +1659,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 31442,
+          "confirmed": 31688,
           "date": "2020-10-18",
           "deaths": 374,
           "recovered": 0
@@ -1765,7 +1765,7 @@
         "live": {
           "confirmed": 598142,
           "date": "2020-10-18",
-          "deaths": 38652,
+          "deaths": 38711,
           "recovered": 0
         }
       },
@@ -1773,7 +1773,7 @@
         "live": {
           "confirmed": 26208,
           "date": "2020-10-18",
-          "deaths": 610,
+          "deaths": 615,
           "recovered": 0
         }
       },
@@ -1789,7 +1789,7 @@
         "live": {
           "confirmed": 34679,
           "date": "2020-10-18",
-          "deaths": 1708,
+          "deaths": 1711,
           "recovered": 0
         }
       }
