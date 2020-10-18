@@ -554,15 +554,15 @@
           "confirmed": 59353,
           "date": "2020-10-18",
           "deaths": 1928,
-          "recovered": 48453
+          "recovered": 48692
         }
       },
       "Bayern": {
         "live": {
           "confirmed": 78940,
           "date": "2020-10-18",
-          "deaths": 2714,
-          "recovered": 66604
+          "deaths": 2713,
+          "recovered": 66842
         }
       },
       "Hessen": {
@@ -586,7 +586,7 @@
           "confirmed": 89681,
           "date": "2020-10-18",
           "deaths": 1943,
-          "recovered": 70602
+          "recovered": 71139
         }
       }
     }
@@ -1797,10 +1797,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 62809,
+      "confirmed": 63124,
       "date": "2020-10-18",
-      "deaths": 522,
-      "recovered": 59756
+      "deaths": 525,
+      "recovered": 60080
     }
   },
   "Venezuela": {
