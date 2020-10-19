@@ -567,9 +567,9 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 25440,
+          "confirmed": 25776,
           "date": "2020-10-19",
-          "deaths": 573,
+          "deaths": 576,
           "recovered": 19887
         }
       },
@@ -578,7 +578,7 @@
           "confirmed": 25852,
           "date": "2020-10-19",
           "deaths": 714,
-          "recovered": 20662
+          "recovered": 20889
         }
       },
       "Nordrhein-Westfalen": {
@@ -617,10 +617,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 87594,
+      "confirmed": 88425,
       "date": "2020-10-19",
-      "deaths": 2563,
-      "recovered": 34662
+      "deaths": 2568,
+      "recovered": 34964
     }
   },
   "Hungary": {
@@ -1555,7 +1555,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 607873,
+          "confirmed": 608242,
           "date": "2020-10-19",
           "deaths": 12735,
           "recovered": 0
