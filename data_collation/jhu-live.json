@@ -554,7 +554,7 @@
           "confirmed": 60053,
           "date": "2020-10-19",
           "deaths": 1932,
-          "recovered": 48692
+          "recovered": 49070
         }
       },
       "Bayern": {
@@ -562,7 +562,7 @@
           "confirmed": 79735,
           "date": "2020-10-19",
           "deaths": 2714,
-          "recovered": 66842
+          "recovered": 67313
         }
       },
       "Hessen": {
@@ -586,7 +586,7 @@
           "confirmed": 90544,
           "date": "2020-10-19",
           "deaths": 1946,
-          "recovered": 71139
+          "recovered": 71956
         }
       }
     }
@@ -861,10 +861,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 303109,
+      "confirmed": 303846,
       "date": "2020-10-19",
       "deaths": 2209,
-      "recovered": 268093
+      "recovered": 272015
     }
   },
   "Italy": {
@@ -1555,7 +1555,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 608242,
+          "confirmed": 608318,
           "date": "2020-10-19",
           "deaths": 12735,
           "recovered": 0
@@ -1727,26 +1727,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 28518,
+          "confirmed": 29113,
           "date": "2020-10-19",
-          "deaths": 439,
-          "recovered": 5593
+          "deaths": 445,
+          "recovered": 5618
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 30463,
+          "confirmed": 30848,
           "date": "2020-10-19",
-          "deaths": 582,
-          "recovered": 10696
+          "deaths": 587,
+          "recovered": 10709
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 24844,
+          "confirmed": 25103,
           "date": "2020-10-19",
-          "deaths": 694,
-          "recovered": 9430
+          "deaths": 704,
+          "recovered": 9466
         }
       }
     }
@@ -1797,9 +1797,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 63303,
+      "confirmed": 63430,
       "date": "2020-10-19",
-      "deaths": 527,
+      "deaths": 529,
       "recovered": 60401
     }
   },
