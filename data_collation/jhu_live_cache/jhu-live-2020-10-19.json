@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 54402,
+      "confirmed": 54616,
       "date": "2020-10-19",
-      "deaths": 1856,
-      "recovered": 38088
+      "deaths": 1865,
+      "recovered": 38215
     }
   },
   "Argentina": {
@@ -338,7 +338,7 @@
           "confirmed": 67333,
           "date": "2020-10-19",
           "deaths": 3102,
-          "recovered": 58246
+          "recovered": 58247
         }
       },
       "Quebec": {
@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 153289,
+      "confirmed": 153423,
       "date": "2020-10-19",
-      "deaths": 12387,
+      "deaths": 12395,
       "recovered": 134187
     }
   },
@@ -1105,10 +1105,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 173632,
+      "confirmed": 175749,
       "date": "2020-10-19",
-      "deaths": 2928,
-      "recovered": 143972
+      "deaths": 2976,
+      "recovered": 146421
     }
   },
   "Nepal": {
@@ -1675,7 +1675,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 30590,
+          "confirmed": 30777,
           "date": "2020-10-19",
           "deaths": 635,
           "recovered": 0
@@ -1683,9 +1683,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 40179,
+          "confirmed": 40803,
           "date": "2020-10-19",
-          "deaths": 1840,
+          "deaths": 1841,
           "recovered": 0
         }
       },
@@ -1805,10 +1805,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 63430,
+      "confirmed": 63523,
       "date": "2020-10-19",
-      "deaths": 529,
-      "recovered": 60401
+      "deaths": 531,
+      "recovered": 60604
     }
   },
   "Venezuela": {
