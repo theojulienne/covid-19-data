@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 64694,
+      "confirmed": 65460,
       "date": "2020-10-19",
-      "deaths": 1081,
-      "recovered": 48104
+      "deaths": 1091,
+      "recovered": 48208
     }
   },
   "Austria": {
@@ -527,7 +527,7 @@
     "live": {
       "confirmed": 31666,
       "date": "2020-10-19",
-      "deaths": 922,
+      "deaths": 926,
       "recovered": 27000
     }
   },
@@ -625,10 +625,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 46290,
+      "confirmed": 47768,
       "date": "2020-10-19",
-      "deaths": 1142,
-      "recovered": 14088
+      "deaths": 1173,
+      "recovered": 14312
     }
   },
   "India": {
@@ -923,7 +923,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 28984,
+          "confirmed": 29062,
           "date": "2020-10-19",
           "deaths": 436,
           "recovered": 26306

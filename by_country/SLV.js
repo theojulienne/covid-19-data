@@ -819,7 +819,8 @@ var covid19_dataset_country_slv = {
       908,
       912,
       917,
-      922
+      922,
+      926
     ],
     "recovered": [
       0,
