@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 213115,
+      "confirmed": 222253,
       "date": "2020-10-19",
-      "deaths": 10392,
-      "recovered": 21074
+      "deaths": 10413,
+      "recovered": 21157
     }
   },
   "Bolivia": {
@@ -335,9 +335,9 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 67026,
+          "confirmed": 67027,
           "date": "2020-10-19",
-          "deaths": 3100,
+          "deaths": 3101,
           "recovered": 57972
         }
       },
@@ -551,7 +551,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 60039,
+          "confirmed": 60053,
           "date": "2020-10-19",
           "deaths": 1932,
           "recovered": 48692
@@ -559,9 +559,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 78940,
+          "confirmed": 79735,
           "date": "2020-10-19",
-          "deaths": 2713,
+          "deaths": 2714,
           "recovered": 66842
         }
       },
@@ -570,22 +570,22 @@
           "confirmed": 25440,
           "date": "2020-10-19",
           "deaths": 573,
-          "recovered": 19664
+          "recovered": 19887
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 25835,
+          "confirmed": 25852,
           "date": "2020-10-19",
           "deaths": 714,
-          "recovered": 20889
+          "recovered": 20662
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 89681,
+          "confirmed": 90544,
           "date": "2020-10-19",
-          "deaths": 1943,
+          "deaths": 1946,
           "recovered": 71139
         }
       }
@@ -941,7 +941,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 109406,
+      "confirmed": 109508,
       "date": "2020-10-19",
       "deaths": 1768,
       "recovered": 105001
@@ -1627,7 +1627,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 27603,
+          "confirmed": 27900,
           "date": "2020-10-19",
           "deaths": 857,
           "recovered": 0
