@@ -983,19 +983,19 @@
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 87439,
-        "deaths": 1076,
-        "recovered": 52669
+        "confirmed": 89223,
+        "deaths": 1108,
+        "recovered": 53247
       },
       "back_2week": {
-        "confirmed": 79182,
-        "deaths": 950,
-        "recovered": 45007
+        "confirmed": 81129,
+        "deaths": 987,
+        "recovered": 49703
       },
       "latest": {
-        "confirmed": 95514,
-        "deaths": 1183,
-        "recovered": 58816
+        "confirmed": 97075,
+        "deaths": 1204,
+        "recovered": 59580
       }
     },
     "CUB": {
@@ -3282,8 +3282,8 @@
         "recovered": 5032
       },
       "latest": {
-        "confirmed": 40542,
-        "deaths": 626,
+        "confirmed": 42727,
+        "deaths": 687,
         "recovered": 5032
       }
     },
