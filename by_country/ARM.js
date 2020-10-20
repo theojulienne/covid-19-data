@@ -549,7 +549,7 @@ var covid19_dataset_country_arm = {
       63000,
       64694,
       65460,
-      65694
+      66694
     ],
     "deaths": [
       0,
