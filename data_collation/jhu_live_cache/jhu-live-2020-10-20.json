@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 139771,
+      "confirmed": 139890,
       "date": "2020-10-20",
-      "deaths": 8481,
-      "recovered": 104483
+      "deaths": 8502,
+      "recovered": 104957
     }
   },
   "Bosnia and Herzegovina": {
@@ -570,7 +570,7 @@
           "confirmed": 26131,
           "date": "2020-10-20",
           "deaths": 713,
-          "recovered": 20889
+          "recovered": 21219
         }
       },
       "Nordrhein-Westfalen": {
@@ -957,10 +957,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 25275,
+      "confirmed": 25333,
       "date": "2020-10-20",
-      "deaths": 444,
-      "recovered": 23368
+      "deaths": 447,
+      "recovered": 23466
     }
   },
   "Kuwait": {
@@ -1175,26 +1175,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38645,
+          "confirmed": 38708,
           "date": "2020-10-20",
           "deaths": 1265,
-          "recovered": 36964
+          "recovered": 37017
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 101652,
+          "confirmed": 101760,
           "date": "2020-10-20",
-          "deaths": 2298,
-          "recovered": 97238
+          "deaths": 2310,
+          "recovered": 97252
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 141841,
+          "confirmed": 142134,
           "date": "2020-10-20",
-          "deaths": 2581,
-          "recovered": 134825
+          "deaths": 2583,
+          "recovered": 135296
         }
       }
     }
