@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 78224,
+      "confirmed": 78533,
       "date": "2020-10-20",
-      "deaths": 304,
-      "recovered": 74683
+      "deaths": 305,
+      "recovered": 75089
     }
   },
   "Bangladesh": {
@@ -1417,10 +1417,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 705254,
+      "confirmed": 706304,
       "date": "2020-10-20",
-      "deaths": 18492,
-      "recovered": 635257
+      "deaths": 18656,
+      "recovered": 639568
     }
   },
   "Spain": {
