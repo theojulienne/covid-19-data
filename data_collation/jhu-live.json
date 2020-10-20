@@ -546,7 +546,7 @@
           "confirmed": 60721,
           "date": "2020-10-20",
           "deaths": 1936,
-          "recovered": 49070
+          "recovered": 49618
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 80880,
           "date": "2020-10-20",
           "deaths": 2720,
-          "recovered": 67313
+          "recovered": 67841
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 92694,
           "date": "2020-10-20",
           "deaths": 1963,
-          "recovered": 71956
+          "recovered": 72807
         }
       }
     }
@@ -627,194 +627,194 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 783132,
+          "confirmed": 786050,
           "date": "2020-10-20",
-          "deaths": 6429,
-          "recovered": 740229
+          "deaths": 6453,
+          "recovered": 744532
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 200709,
+          "confirmed": 201407,
           "date": "2020-10-20",
-          "deaths": 868,
-          "recovered": 171683
+          "deaths": 875,
+          "recovered": 173213
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 204363,
+          "confirmed": 205945,
           "date": "2020-10-20",
-          "deaths": 996,
-          "recovered": 192783
+          "deaths": 1003,
+          "recovered": 194005
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 160396,
+          "confirmed": 162772,
           "date": "2020-10-20",
-          "deaths": 1478,
-          "recovered": 132168
+          "deaths": 1534,
+          "recovered": 135259
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 331017,
+          "confirmed": 333171,
           "date": "2020-10-20",
-          "deaths": 6009,
-          "recovered": 301716
+          "deaths": 6040,
+          "recovered": 304561
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 40587,
+          "confirmed": 40746,
           "date": "2020-10-20",
-          "deaths": 544,
-          "recovered": 36395
+          "deaths": 549,
+          "recovered": 36914
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 159564,
+          "confirmed": 160560,
           "date": "2020-10-20",
-          "deaths": 3635,
-          "recovered": 141515
+          "deaths": 3643,
+          "recovered": 142662
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 150033,
+          "confirmed": 151234,
           "date": "2020-10-20",
-          "deaths": 1640,
-          "recovered": 138351
+          "deaths": 1648,
+          "recovered": 139511
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 87942,
+          "confirmed": 88369,
           "date": "2020-10-20",
-          "deaths": 1379,
-          "recovered": 77886
+          "deaths": 1388,
+          "recovered": 78667
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 96352,
+          "confirmed": 96842,
           "date": "2020-10-20",
-          "deaths": 839,
-          "recovered": 89011
+          "deaths": 842,
+          "recovered": 89780
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 765586,
+          "confirmed": 770604,
           "date": "2020-10-20",
-          "deaths": 10478,
-          "recovered": 645825
+          "deaths": 10542,
+          "recovered": 653829
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 341859,
+          "confirmed": 346881,
           "date": "2020-10-20",
-          "deaths": 1161,
-          "recovered": 245399
+          "deaths": 1182,
+          "recovered": 252868
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 160188,
+          "confirmed": 161203,
           "date": "2020-10-20",
-          "deaths": 2773,
-          "recovered": 144134
+          "deaths": 2786,
+          "recovered": 145421
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 1595381,
+          "confirmed": 1601365,
           "date": "2020-10-20",
-          "deaths": 42115,
-          "recovered": 1369810
+          "deaths": 42240,
+          "recovered": 1384879
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 268364,
+          "confirmed": 270346,
           "date": "2020-10-20",
-          "deaths": 1135,
-          "recovered": 246837
+          "deaths": 1152,
+          "recovered": 249575
         }
       },
       "Puducherry": {
         "live": {
-          "confirmed": 33141,
+          "confirmed": 33247,
           "date": "2020-10-20",
-          "deaths": 574,
-          "recovered": 28290
+          "deaths": 575,
+          "recovered": 28520
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 127630,
+          "confirmed": 128103,
           "date": "2020-10-20",
-          "deaths": 4012,
-          "recovered": 117883
+          "deaths": 4029,
+          "recovered": 118767
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 173266,
+          "confirmed": 175226,
           "date": "2020-10-20",
-          "deaths": 1748,
-          "recovered": 150379
+          "deaths": 1760,
+          "recovered": 152573
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 687400,
+          "confirmed": 690936,
           "date": "2020-10-20",
-          "deaths": 10642,
-          "recovered": 637637
+          "deaths": 10691,
+          "recovered": 642152
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 223059,
+          "confirmed": 224545,
           "date": "2020-10-20",
-          "deaths": 1275,
-          "recovered": 200686
+          "deaths": 1282,
+          "recovered": 202577
         }
       },
       "Tripura": {
         "live": {
-          "confirmed": 29553,
+          "confirmed": 29688,
           "date": "2020-10-20",
           "deaths": 331,
-          "recovered": 26550
+          "recovered": 26748
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 455146,
+          "confirmed": 456865,
           "date": "2020-10-20",
-          "deaths": 6658,
-          "recovered": 415592
+          "deaths": 6685,
+          "recovered": 418685
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 58024,
+          "confirmed": 58360,
           "date": "2020-10-20",
-          "deaths": 927,
-          "recovered": 51369
+          "deaths": 933,
+          "recovered": 51900
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 321036,
+          "confirmed": 325028,
           "date": "2020-10-20",
-          "deaths": 6056,
-          "recovered": 281053
+          "deaths": 6119,
+          "recovered": 284325
         }
       }
     }
@@ -1563,9 +1563,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 610950,
+          "confirmed": 611211,
           "date": "2020-10-20",
-          "deaths": 12740,
+          "deaths": 12743,
           "recovered": 0
         }
       },
@@ -1735,26 +1735,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 29113,
+          "confirmed": 29559,
           "date": "2020-10-20",
-          "deaths": 445,
-          "recovered": 5618
+          "deaths": 452,
+          "recovered": 5717
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 30848,
+          "confirmed": 31310,
           "date": "2020-10-20",
-          "deaths": 587,
-          "recovered": 10709
+          "deaths": 604,
+          "recovered": 10916
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 25103,
+          "confirmed": 25392,
           "date": "2020-10-20",
-          "deaths": 704,
-          "recovered": 9466
+          "deaths": 717,
+          "recovered": 9671
         }
       }
     }
@@ -1805,10 +1805,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 63523,
+      "confirmed": 63737,
       "date": "2020-10-20",
-      "deaths": 531,
-      "recovered": 60604
+      "deaths": 533,
+      "recovered": 60717
     }
   },
   "Venezuela": {
