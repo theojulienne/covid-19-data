@@ -543,7 +543,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 60708,
+          "confirmed": 60721,
           "date": "2020-10-20",
           "deaths": 1936,
           "recovered": 49070
@@ -551,7 +551,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 79800,
+          "confirmed": 80880,
           "date": "2020-10-20",
           "deaths": 2720,
           "recovered": 67313
@@ -561,7 +561,7 @@
         "live": {
           "confirmed": 25776,
           "date": "2020-10-20",
-          "deaths": 576,
+          "deaths": 584,
           "recovered": 20184
         }
       },
@@ -569,13 +569,13 @@
         "live": {
           "confirmed": 26131,
           "date": "2020-10-20",
-          "deaths": 713,
+          "deaths": 717,
           "recovered": 21219
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 90544,
+          "confirmed": 92694,
           "date": "2020-10-20",
           "deaths": 1963,
           "recovered": 71956
@@ -609,10 +609,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 88425,
+      "confirmed": 89381,
       "date": "2020-10-20",
-      "deaths": 2568,
-      "recovered": 34964
+      "deaths": 2576,
+      "recovered": 35398
     }
   },
   "Hungary": {
