@@ -559,7 +559,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 25776,
+          "confirmed": 26558,
           "date": "2020-10-20",
           "deaths": 584,
           "recovered": 20184
@@ -567,7 +567,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 26131,
+          "confirmed": 26356,
           "date": "2020-10-20",
           "deaths": 717,
           "recovered": 21219
@@ -1813,10 +1813,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 86636,
+      "confirmed": 87161,
       "date": "2020-10-20",
-      "deaths": 736,
-      "recovered": 79694
+      "deaths": 741,
+      "recovered": 80316
     }
   },
   "West Bank and Gaza": {

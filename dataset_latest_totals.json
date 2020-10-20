@@ -3805,14 +3805,14 @@
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 83137,
-        "deaths": 697,
-        "recovered": 74664
+        "confirmed": 83756,
+        "deaths": 704,
+        "recovered": 75400
       },
       "back_2week": {
-        "confirmed": 78434,
-        "deaths": 653,
-        "recovered": 68917
+        "confirmed": 79117,
+        "deaths": 658,
+        "recovered": 69832
       },
       "latest": {
         "confirmed": 86636,
