@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 94429,
-          "deaths": 6044
+          "confirmed": 95216,
+          "deaths": 6055
         },
         "Saskatchewan": {
           "confirmed": 2396,
@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 53325,
-        "deaths": 1809,
-        "recovered": 37382
+        "confirmed": 53399,
+        "deaths": 1818,
+        "recovered": 37492
       },
       "back_2week": {
-        "confirmed": 52270,
+        "confirmed": 52399,
         "deaths": 1768,
-        "recovered": 36672
+        "recovered": 36763
       },
       "latest": {
-        "confirmed": 54616,
-        "deaths": 1865,
-        "recovered": 38215
+        "confirmed": 54829,
+        "deaths": 1873,
+        "recovered": 38346
       }
     },
     "ECU": {
@@ -1267,19 +1267,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 85136,
-        "deaths": 1301,
-        "recovered": 38904
+        "confirmed": 85718,
+        "deaths": 1305,
+        "recovered": 39307
       },
       "back_2week": {
-        "confirmed": 79437,
-        "deaths": 1230,
-        "recovered": 34016
+        "confirmed": 80003,
+        "deaths": 1238,
+        "recovered": 34960
       },
       "latest": {
-        "confirmed": 89860,
-        "deaths": 1365,
-        "recovered": 43149
+        "confirmed": 90490,
+        "deaths": 1371,
+        "recovered": 43638
       }
     },
     "FIN": {
@@ -1318,19 +1318,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 745104,
-        "deaths": 32456,
-        "recovered": 82402
+        "confirmed": 766421,
+        "deaths": 32714,
+        "recovered": 83544
       },
       "back_2week": {
-        "confirmed": 636196,
-        "deaths": 32096,
-        "recovered": 80394
+        "confirmed": 646531,
+        "deaths": 32140,
+        "recovered": 80933
       },
       "latest": {
-        "confirmed": 918679,
-        "deaths": 33374,
-        "recovered": 86234
+        "confirmed": 939147,
+        "deaths": 33636,
+        "recovered": 87138
       },
       "states": {
         "French Guiana": {
@@ -1745,18 +1745,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 43351,
-        "deaths": 1827,
+        "confirmed": 44159,
+        "deaths": 1830,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 38549,
-        "deaths": 1810,
+        "confirmed": 38973,
+        "deaths": 1811,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 50993,
-        "deaths": 1852,
+        "confirmed": 52256,
+        "deaths": 1865,
         "recovered": 23364
       }
     },
@@ -1864,19 +1864,19 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 26073,
-        "deaths": 207,
-        "recovered": 6219
+        "confirmed": 28127,
+        "deaths": 225,
+        "recovered": 6361
       },
       "back_2week": {
-        "confirmed": 17464,
-        "deaths": 110,
-        "recovered": 5292
+        "confirmed": 19001,
+        "deaths": 122,
+        "recovered": 5386
       },
       "latest": {
-        "confirmed": 38937,
-        "deaths": 380,
-        "recovered": 7006
+        "confirmed": 40972,
+        "deaths": 414,
+        "recovered": 7123
       }
     },
     "JPN": {
@@ -3289,19 +3289,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 337147,
-        "deaths": 8895,
-        "recovered": 295658
+        "confirmed": 338779,
+        "deaths": 8957,
+        "recovered": 296972
       },
       "back_2week": {
-        "confirmed": 326046,
-        "deaths": 8498,
-        "recovered": 286370
+        "confirmed": 327557,
+        "deaths": 8553,
+        "recovered": 287599
       },
       "latest": {
-        "confirmed": 349519,
-        "deaths": 9371,
-        "recovered": 305427
+        "confirmed": 351413,
+        "deaths": 9445,
+        "recovered": 306939
       }
     },
     "TWN": {
