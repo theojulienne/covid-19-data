@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 230480,
+      "confirmed": 240159,
       "date": "2020-10-21",
-      "deaths": 10443,
-      "recovered": 21214
+      "deaths": 10489,
+      "recovered": 21476
     }
   },
   "Bolivia": {
@@ -397,64 +397,64 @@
         "live": {
           "confirmed": 146086,
           "date": "2020-10-21",
-          "deaths": 2853,
-          "recovered": 131710
+          "deaths": 2878,
+          "recovered": 133985
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 69991,
           "date": "2020-10-21",
-          "deaths": 3104,
-          "recovered": 65497
+          "deaths": 3110,
+          "recovered": 65648
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 31554,
           "date": "2020-10-21",
-          "deaths": 819,
-          "recovered": 29933
+          "deaths": 820,
+          "recovered": 30052
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 299713,
           "date": "2020-10-21",
-          "deaths": 7322,
-          "recovered": 268385
+          "deaths": 7345,
+          "recovered": 269155
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 25510,
           "date": "2020-10-21",
-          "deaths": 1596,
-          "recovered": 22782
+          "deaths": 1601,
+          "recovered": 22854
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 38879,
           "date": "2020-10-21",
-          "deaths": 1128,
-          "recovered": 35139
+          "deaths": 1135,
+          "recovered": 35492
         }
       },
       "Santander": {
         "live": {
           "confirmed": 38175,
           "date": "2020-10-21",
-          "deaths": 1541,
-          "recovered": 32807
+          "deaths": 1554,
+          "recovered": 33327
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 75172,
           "date": "2020-10-21",
-          "deaths": 2586,
-          "recovered": 66080
+          "deaths": 2603,
+          "recovered": 66949
         }
       }
     }
@@ -543,42 +543,42 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 61680,
+          "confirmed": 61694,
           "date": "2020-10-21",
           "deaths": 1946,
-          "recovered": 50114
+          "recovered": 49618
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 80966,
+          "confirmed": 82102,
           "date": "2020-10-21",
-          "deaths": 2720,
+          "deaths": 2726,
           "recovered": 67841
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 26558,
+          "confirmed": 27307,
           "date": "2020-10-21",
-          "deaths": 584,
+          "deaths": 590,
           "recovered": 20497
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 26512,
+          "confirmed": 26611,
           "date": "2020-10-21",
-          "deaths": 717,
+          "deaths": 719,
           "recovered": 21611
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 92694,
+          "confirmed": 94883,
           "date": "2020-10-21",
-          "deaths": 1963,
-          "recovered": 73785
+          "deaths": 1970,
+          "recovered": 72807
         }
       }
     }
@@ -609,10 +609,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 89381,
+      "confirmed": 90232,
       "date": "2020-10-21",
-      "deaths": 2576,
-      "recovered": 35398
+      "deaths": 2582,
+      "recovered": 35930
     }
   },
   "Hungary": {
@@ -941,10 +941,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 109623,
+      "confirmed": 109766,
       "date": "2020-10-21",
-      "deaths": 1768,
-      "recovered": 105145
+      "deaths": 1796,
+      "recovered": 105301
     }
   },
   "Kenya": {
@@ -1635,9 +1635,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 28239,
+          "confirmed": 28380,
           "date": "2020-10-21",
-          "deaths": 857,
+          "deaths": 860,
           "recovered": 0
         }
       },
