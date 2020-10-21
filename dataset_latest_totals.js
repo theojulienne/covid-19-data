@@ -1813,19 +1813,19 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 294031,
+        "confirmed": 296652,
         "deaths": 2021,
-        "recovered": 238681
+        "recovered": 245811
       },
       "back_2week": {
-        "confirmed": 272309,
+        "confirmed": 277026,
         "deaths": 1757,
-        "recovered": 204355
+        "recovered": 211397
       },
       "latest": {
-        "confirmed": 304876,
+        "confirmed": 306162,
         "deaths": 2263,
-        "recovered": 278394
+        "recovered": 282505
       }
     },
     "ITA": {
@@ -3406,7 +3406,7 @@ var covid19_dataset_latest_totals = {
         "confirmed": 8108576,
         "deaths": 210989,
         "recovered": 3242989,
-        "tested": 116915341
+        "tested": 116915400
       },
       "states": {
         "AK": {
@@ -3734,7 +3734,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 1617,
           "hospitalized": 9319,
           "recovered": 136910,
-          "tested": 1887097
+          "tested": 1887156
         },
         "WV": {
           "confirmed": 20293,
