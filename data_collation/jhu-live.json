@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 45879,
+      "confirmed": 46593,
       "date": "2020-10-21",
-      "deaths": 635,
-      "recovered": 40272
+      "deaths": 642,
+      "recovered": 40448
     }
   },
   "Bahrain": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 35389,
+      "confirmed": 36315,
       "date": "2020-10-21",
-      "deaths": 1017,
-      "recovered": 25560
+      "deaths": 1031,
+      "recovered": 25779
     }
   },
   "Brazil": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 36373,
+      "confirmed": 37003,
       "date": "2020-10-21",
-      "deaths": 688,
-      "recovered": 29998
+      "deaths": 690,
+      "recovered": 30432
     }
   },
   "Dominican Republic": {
@@ -925,7 +925,7 @@
         "live": {
           "confirmed": 29351,
           "date": "2020-10-21",
-          "deaths": 437,
+          "deaths": 439,
           "recovered": 26810
         }
       }
@@ -965,10 +965,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 117718,
+      "confirmed": 118531,
       "date": "2020-10-21",
-      "deaths": 714,
-      "recovered": 109198
+      "deaths": 721,
+      "recovered": 109916
     }
   },
   "Kyrgyzstan": {
@@ -1121,27 +1121,35 @@
   },
   "Netherlands": {
     "subseries": {
+      "Gelderland": {
+        "live": {
+          "confirmed": 24023,
+          "date": "2020-10-21",
+          "deaths": 758,
+          "recovered": 0
+        }
+      },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 35516,
+          "confirmed": 37061,
           "date": "2020-10-21",
-          "deaths": 1617,
+          "deaths": 1626,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 48423,
+          "confirmed": 50300,
           "date": "2020-10-21",
-          "deaths": 928,
+          "deaths": 935,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 71770,
+          "confirmed": 74104,
           "date": "2020-10-21",
-          "deaths": 1536,
+          "deaths": 1557,
           "recovered": 0
         }
       }
@@ -1519,9 +1527,9 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 29497,
+          "confirmed": 29848,
           "date": "2020-10-21",
-          "deaths": 2419,
+          "deaths": 2421,
           "recovered": 0
         }
       }
@@ -1646,14 +1654,6 @@
           "confirmed": 75888,
           "date": "2020-10-21",
           "deaths": 1483,
-          "recovered": 0
-        }
-      },
-      "New Jersey": {
-        "live": {
-          "confirmed": 23945,
-          "date": "2020-10-21",
-          "deaths": 2053,
           "recovered": 0
         }
       },
