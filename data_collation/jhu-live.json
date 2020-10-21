@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 193946,
+      "confirmed": 202787,
       "date": "2020-10-21",
-      "deaths": 1619,
-      "recovered": 79108
+      "deaths": 1719,
+      "recovered": 83097
     }
   },
   "Denmark": {
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 121973,
+      "confirmed": 122398,
       "date": "2020-10-21",
-      "deaths": 2204,
-      "recovered": 99271
+      "deaths": 2206,
+      "recovered": 100051
     }
   },
   "Ecuador": {
@@ -543,10 +543,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 61694,
+          "confirmed": 63118,
           "date": "2020-10-21",
-          "deaths": 1946,
-          "recovered": 49618
+          "deaths": 1950,
+          "recovered": 50114
         }
       },
       "Bayern": {
@@ -593,9 +593,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 26469,
+      "confirmed": 27334,
       "date": "2020-10-21",
-      "deaths": 528,
+      "deaths": 534,
       "recovered": 1347
     }
   },
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 306503,
+      "confirmed": 306649,
       "date": "2020-10-21",
       "deaths": 2278,
-      "recovered": 283205
+      "recovered": 283207
     }
   },
   "Italy": {
@@ -1165,10 +1165,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 24196,
+      "confirmed": 24836,
       "date": "2020-10-21",
-      "deaths": 850,
-      "recovered": 17673
+      "deaths": 862,
+      "recovered": 17905
     }
   },
   "Oman": {
@@ -1603,9 +1603,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 24697,
+          "confirmed": 24905,
           "date": "2020-10-21",
-          "deaths": 784,
+          "deaths": 785,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 32544,
+          "confirmed": 32743,
           "date": "2020-10-21",
-          "deaths": 966,
+          "deaths": 974,
           "recovered": 0
         }
       },
