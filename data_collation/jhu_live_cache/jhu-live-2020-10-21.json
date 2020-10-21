@@ -546,7 +546,7 @@
           "confirmed": 61680,
           "date": "2020-10-21",
           "deaths": 1946,
-          "recovered": 49618
+          "recovered": 50114
         }
       },
       "Bayern": {
@@ -562,7 +562,7 @@
           "confirmed": 26558,
           "date": "2020-10-21",
           "deaths": 584,
-          "recovered": 20184
+          "recovered": 20497
         }
       },
       "Niedersachsen": {
@@ -570,7 +570,7 @@
           "confirmed": 26512,
           "date": "2020-10-21",
           "deaths": 717,
-          "recovered": 21220
+          "recovered": 21611
         }
       },
       "Nordrhein-Westfalen": {
@@ -578,7 +578,7 @@
           "confirmed": 92694,
           "date": "2020-10-21",
           "deaths": 1963,
-          "recovered": 72807
+          "recovered": 73785
         }
       }
     }
@@ -1175,26 +1175,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 38708,
+          "confirmed": 38779,
           "date": "2020-10-21",
           "deaths": 1265,
-          "recovered": 37017
+          "recovered": 37064
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 101760,
+          "confirmed": 101936,
           "date": "2020-10-21",
-          "deaths": 2310,
-          "recovered": 97252
+          "deaths": 2319,
+          "recovered": 97271
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 142127,
+          "confirmed": 142348,
           "date": "2020-10-21",
-          "deaths": 2583,
-          "recovered": 135296
+          "deaths": 2587,
+          "recovered": 135494
         }
       }
     }
