@@ -585,10 +585,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47372,
+      "confirmed": 47461,
       "date": "2020-10-21",
-      "deaths": 310,
-      "recovered": 46664
+      "deaths": 312,
+      "recovered": 46752
     }
   },
   "Greece": {
@@ -999,98 +999,98 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 147663,
+          "confirmed": 149109,
           "date": "2020-10-21",
-          "deaths": 14425,
-          "recovered": 124985
+          "deaths": 14480,
+          "recovered": 125470
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 30333,
+          "confirmed": 30498,
           "date": "2020-10-21",
-          "deaths": 2124,
-          "recovered": 26026
+          "deaths": 2143,
+          "recovered": 26055
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 45163,
+          "confirmed": 45428,
           "date": "2020-10-21",
-          "deaths": 3218,
-          "recovered": 40125
+          "deaths": 3237,
+          "recovered": 40282
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 31258,
+          "confirmed": 31483,
           "date": "2020-10-21",
-          "deaths": 3690,
-          "recovered": 25628
+          "deaths": 3726,
+          "recovered": 25696
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 91750,
+          "confirmed": 92547,
           "date": "2020-10-21",
-          "deaths": 10224,
-          "recovered": 78917
+          "deaths": 10285,
+          "recovered": 79373
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 48117,
+          "confirmed": 48754,
           "date": "2020-10-21",
-          "deaths": 3512,
-          "recovered": 40649
+          "deaths": 3583,
+          "recovered": 41002
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 34013,
+          "confirmed": 34174,
           "date": "2020-10-21",
-          "deaths": 4543,
-          "recovered": 28642
+          "deaths": 4558,
+          "recovered": 28656
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 26401,
+          "confirmed": 26513,
           "date": "2020-10-21",
-          "deaths": 1853,
-          "recovered": 23324
+          "deaths": 1880,
+          "recovered": 23415
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 36450,
+          "confirmed": 36604,
           "date": "2020-10-21",
-          "deaths": 3066,
-          "recovered": 32627
+          "deaths": 3086,
+          "recovered": 32763
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 33639,
+          "confirmed": 33689,
           "date": "2020-10-21",
-          "deaths": 2988,
-          "recovered": 29933
+          "deaths": 2996,
+          "recovered": 29991
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 30930,
+          "confirmed": 31023,
           "date": "2020-10-21",
-          "deaths": 2518,
-          "recovered": 27674
+          "deaths": 2524,
+          "recovered": 27818
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 35972,
+          "confirmed": 36046,
           "date": "2020-10-21",
-          "deaths": 4641,
-          "recovered": 30430
+          "deaths": 4657,
+          "recovered": 30471
         }
       }
     }
@@ -1149,10 +1149,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 61558,
+      "confirmed": 61630,
       "date": "2020-10-21",
       "deaths": 1125,
-      "recovered": 56697
+      "recovered": 56797
     }
   },
   "North Macedonia": {
@@ -1563,9 +1563,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 613053,
+          "confirmed": 613314,
           "date": "2020-10-21",
-          "deaths": 12754,
+          "deaths": 12758,
           "recovered": 0
         }
       },
