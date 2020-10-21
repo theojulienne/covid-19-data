@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 391586,
+      "confirmed": 393131,
       "date": "2020-10-21",
-      "deaths": 5699,
-      "recovered": 307141
+      "deaths": 5723,
+      "recovered": 308845
     }
   },
   "Belarus": {
@@ -829,10 +829,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 539670,
+      "confirmed": 545286,
       "date": "2020-10-21",
-      "deaths": 31034,
-      "recovered": 434676
+      "deaths": 31346,
+      "recovered": 438709
     }
   },
   "Iraq": {
@@ -1113,10 +1113,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 139129,
+      "confirmed": 144872,
       "date": "2020-10-21",
-      "deaths": 765,
-      "recovered": 96609
+      "deaths": 791,
+      "recovered": 99605
     }
   },
   "Netherlands": {
@@ -1165,10 +1165,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 111033,
+      "confirmed": 111484,
       "date": "2020-10-21",
-      "deaths": 1122,
-      "recovered": 96949
+      "deaths": 1137,
+      "recovered": 97367
     }
   },
   "Pakistan": {
@@ -1761,10 +1761,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 117594,
+      "confirmed": 119132,
       "date": "2020-10-21",
-      "deaths": 470,
-      "recovered": 110313
+      "deaths": 472,
+      "recovered": 111814
     }
   },
   "United Kingdom": {
