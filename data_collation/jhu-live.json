@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 68556,
+          "confirmed": 68688,
           "date": "2020-10-21",
-          "deaths": 3107,
-          "recovered": 59336
+          "deaths": 3112,
+          "recovered": 59457
         }
       },
       "Quebec": {
@@ -863,58 +863,58 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 28724,
+          "confirmed": 30484,
           "date": "2020-10-21",
-          "deaths": 534,
-          "recovered": 8732
+          "deaths": 545,
+          "recovered": 8838
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 41917,
+          "confirmed": 42588,
           "date": "2020-10-21",
-          "deaths": 4523,
-          "recovered": 27226
+          "deaths": 4531,
+          "recovered": 27257
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 27151,
+          "confirmed": 28370,
           "date": "2020-10-21",
-          "deaths": 1038,
-          "recovered": 9780
+          "deaths": 1054,
+          "recovered": 9913
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 130479,
+          "confirmed": 134604,
           "date": "2020-10-21",
-          "deaths": 17103,
-          "recovered": 87072
+          "deaths": 17123,
+          "recovered": 87591
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 46319,
+          "confirmed": 48118,
           "date": "2020-10-21",
-          "deaths": 4209,
-          "recovered": 30228
+          "deaths": 4216,
+          "recovered": 30467
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 24600,
+          "confirmed": 25466,
           "date": "2020-10-21",
-          "deaths": 1208,
-          "recovered": 11846
+          "deaths": 1221,
+          "recovered": 12006
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 36843,
+          "confirmed": 38265,
           "date": "2020-10-21",
-          "deaths": 2268,
-          "recovered": 24319
+          "deaths": 2282,
+          "recovered": 24550
         }
       }
     }
@@ -1097,10 +1097,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 67958,
+      "confirmed": 68791,
       "date": "2020-10-21",
-      "deaths": 1617,
-      "recovered": 49083
+      "deaths": 1630,
+      "recovered": 49702
     }
   },
   "Morocco": {
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 91763,
       "date": "2020-10-21",
-      "deaths": 2027,
+      "deaths": 2029,
       "recovered": 54600
     }
   },
