@@ -1105,10 +1105,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 179003,
+      "confirmed": 182580,
       "date": "2020-10-21",
-      "deaths": 3027,
-      "recovered": 148838
+      "deaths": 3097,
+      "recovered": 151634
     }
   },
   "Nepal": {
@@ -1643,23 +1643,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 75888,
+          "confirmed": 76244,
           "date": "2020-10-21",
-          "deaths": 1483,
-          "recovered": 0
-        }
-      },
-      "New Jersey": {
-        "live": {
-          "confirmed": 24066,
-          "date": "2020-10-21",
-          "deaths": 2055,
+          "deaths": 1487,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 374893,
+          "confirmed": 375978,
           "date": "2020-10-21",
           "deaths": 28514,
           "recovered": 0
@@ -1675,17 +1667,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 30978,
+          "confirmed": 31221,
           "date": "2020-10-21",
-          "deaths": 635,
+          "deaths": 639,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 41094,
+          "confirmed": 41323,
           "date": "2020-10-21",
-          "deaths": 1849,
+          "deaths": 1851,
           "recovered": 0
         }
       },
@@ -1790,6 +1782,14 @@
           "confirmed": 49164,
           "date": "2020-10-21",
           "deaths": 2653,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "live": {
+          "confirmed": 26687,
+          "date": "2020-10-21",
+          "deaths": 0,
           "recovered": 0
         }
       },
