@@ -572,17 +572,17 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "back_1week": {
         "confirmed": 192064,
-        "deaths": 9707,
+        "deaths": 9719,
         "recovered": 160223
       },
       "back_2week": {
         "confirmed": 175380,
-        "deaths": 9582,
+        "deaths": 9593,
         "recovered": 146429
       },
       "latest": {
         "confirmed": 209036,
-        "deaths": 9849,
+        "deaths": 9883,
         "recovered": 174514
       },
       "states": {
@@ -624,15 +624,15 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 69362,
-          "deaths": 3107
+          "deaths": 3115
         },
         "Prince Edward Island": {
           "confirmed": 64,
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 95216,
-          "deaths": 6055
+          "confirmed": 96288,
+          "deaths": 6074
         },
         "Saskatchewan": {
           "confirmed": 2439,
@@ -1165,18 +1165,18 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 148171,
-        "deaths": 12235,
+        "confirmed": 149083,
+        "deaths": 12264,
         "recovered": 128134
       },
       "back_2week": {
-        "confirmed": 142056,
-        "deaths": 11702,
+        "confirmed": 143531,
+        "deaths": 11743,
         "recovered": 120511
       },
       "latest": {
-        "confirmed": 154115,
-        "deaths": 12404,
+        "confirmed": 155625,
+        "deaths": 12453,
         "recovered": 134187
       }
     },
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 766421,
-        "deaths": 32714,
-        "recovered": 83544
+        "confirmed": 788117,
+        "deaths": 32788,
+        "recovered": 84266
       },
       "back_2week": {
-        "confirmed": 646531,
-        "deaths": 32140,
-        "recovered": 80933
+        "confirmed": 664178,
+        "deaths": 32219,
+        "recovered": 81431
       },
       "latest": {
-        "confirmed": 939147,
-        "deaths": 33636,
-        "recovered": 87138
+        "confirmed": 965451,
+        "deaths": 33777,
+        "recovered": 87951
       },
       "states": {
         "French Guiana": {
