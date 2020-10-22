@@ -317,10 +317,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 33335,
+      "confirmed": 34930,
       "date": "2020-10-22",
-      "deaths": 1048,
-      "recovered": 17598
+      "deaths": 1064,
+      "recovered": 17833
     }
   },
   "Burma": {
@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 69782,
+          "confirmed": 70270,
           "date": "2020-10-22",
-          "deaths": 3117,
-          "recovered": 60372
+          "deaths": 3124,
+          "recovered": 60742
         }
       },
       "Quebec": {
@@ -395,7 +395,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 147450,
+          "confirmed": 149191,
           "date": "2020-10-22",
           "deaths": 2911,
           "recovered": 135903
@@ -403,7 +403,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 70142,
+          "confirmed": 70288,
           "date": "2020-10-22",
           "deaths": 3113,
           "recovered": 65775
@@ -411,7 +411,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 31648,
+          "confirmed": 31708,
           "date": "2020-10-22",
           "deaths": 821,
           "recovered": 30169
@@ -419,7 +419,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 302268,
+          "confirmed": 304567,
           "date": "2020-10-22",
           "deaths": 7368,
           "recovered": 270432
@@ -427,7 +427,7 @@
       },
       "Cordoba": {
         "live": {
-          "confirmed": 25600,
+          "confirmed": 25753,
           "date": "2020-10-22",
           "deaths": 1604,
           "recovered": 22922
@@ -435,7 +435,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 39150,
+          "confirmed": 39568,
           "date": "2020-10-22",
           "deaths": 1139,
           "recovered": 35875
@@ -443,7 +443,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 38379,
+          "confirmed": 38814,
           "date": "2020-10-22",
           "deaths": 1569,
           "recovered": 33713
@@ -451,7 +451,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 75764,
+          "confirmed": 76407,
           "date": "2020-10-22",
           "deaths": 2625,
           "recovered": 67739
@@ -578,7 +578,7 @@
           "confirmed": 97507,
           "date": "2020-10-22",
           "deaths": 1980,
-          "recovered": 73785
+          "recovered": 74816
         }
       }
     }
@@ -1715,9 +1715,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 25540,
+          "confirmed": 25712,
           "date": "2020-10-22",
-          "deaths": 800,
+          "deaths": 798,
           "recovered": 0
         }
       },

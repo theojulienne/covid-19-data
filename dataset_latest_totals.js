@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 25774,
-        "deaths": 923,
-        "recovered": 16139
+        "confirmed": 26593,
+        "deaths": 929,
+        "recovered": 16489
       },
       "back_2week": {
-        "confirmed": 22306,
-        "deaths": 862,
-        "recovered": 15310
+        "confirmed": 22743,
+        "deaths": 873,
+        "recovered": 15448
       },
       "latest": {
-        "confirmed": 31863,
-        "deaths": 1019,
-        "recovered": 17414
+        "confirmed": 33335,
+        "deaths": 1048,
+        "recovered": 17598
       }
     },
     "BHR": {
