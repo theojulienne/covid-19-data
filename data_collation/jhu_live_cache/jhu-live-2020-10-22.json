@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 40510,
+      "confirmed": 40626,
       "date": "2020-10-22",
-      "deaths": 1501,
-      "recovered": 33824
+      "deaths": 1505,
+      "recovered": 33831
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 68530,
+      "confirmed": 70836,
       "date": "2020-10-22",
-      "deaths": 1121,
-      "recovered": 49219
+      "deaths": 1131,
+      "recovered": 49787
     }
   },
   "Austria": {
@@ -617,10 +617,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 50180,
+      "confirmed": 52212,
       "date": "2020-10-22",
-      "deaths": 1259,
-      "recovered": 14905
+      "deaths": 1305,
+      "recovered": 15254
     }
   },
   "India": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 307335,
+      "confirmed": 307765,
       "date": "2020-10-22",
-      "deaths": 2291,
-      "recovered": 285475
+      "deaths": 2292,
+      "recovered": 286119
     }
   },
   "Italy": {
@@ -923,7 +923,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 29351,
+          "confirmed": 29536,
           "date": "2020-10-22",
           "deaths": 439,
           "recovered": 27038
