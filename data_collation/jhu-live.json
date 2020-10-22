@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 208915,
+      "confirmed": 216425,
       "date": "2020-10-22",
-      "deaths": 1739,
-      "recovered": 83136
+      "deaths": 1828,
+      "recovered": 83649
     }
   },
   "Denmark": {
@@ -546,7 +546,7 @@
           "confirmed": 63132,
           "date": "2020-10-22",
           "deaths": 1950,
-          "recovered": 50114
+          "recovered": 50618
         }
       },
       "Bayern": {
@@ -585,17 +585,17 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47461,
+      "confirmed": 47538,
       "date": "2020-10-22",
       "deaths": 312,
-      "recovered": 46752
+      "recovered": 46789
     }
   },
   "Greece": {
     "live": {
-      "confirmed": 27334,
+      "confirmed": 28216,
       "date": "2020-10-22",
-      "deaths": 534,
+      "deaths": 549,
       "recovered": 1347
     }
   },
@@ -933,10 +933,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 43620,
+      "confirmed": 46441,
       "date": "2020-10-22",
-      "deaths": 443,
-      "recovered": 7223
+      "deaths": 481,
+      "recovered": 7340
     }
   },
   "Kazakhstan": {
@@ -949,10 +949,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 46144,
+      "confirmed": 47212,
       "date": "2020-10-22",
-      "deaths": 858,
-      "recovered": 32760
+      "deaths": 870,
+      "recovered": 33050
     }
   },
   "Korea, South": {
@@ -1165,10 +1165,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 24836,
+      "confirmed": 25473,
       "date": "2020-10-22",
-      "deaths": 862,
-      "recovered": 17905
+      "deaths": 874,
+      "recovered": 18047
     }
   },
   "Oman": {
@@ -1553,10 +1553,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 353426,
+      "confirmed": 355528,
       "date": "2020-10-22",
-      "deaths": 9513,
-      "recovered": 308446
+      "deaths": 9584,
+      "recovered": 310027
     }
   },
   "US": {
@@ -1603,7 +1603,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 24905,
+          "confirmed": 25151,
           "date": "2020-10-22",
           "deaths": 785,
           "recovered": 0
@@ -1635,9 +1635,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 32743,
+          "confirmed": 33024,
           "date": "2020-10-22",
-          "deaths": 974,
+          "deaths": 980,
           "recovered": 0
         }
       },
@@ -1821,10 +1821,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 48628,
+      "confirmed": 49134,
       "date": "2020-10-22",
-      "deaths": 427,
-      "recovered": 41935
+      "deaths": 435,
+      "recovered": 42544
     }
   }
 }
