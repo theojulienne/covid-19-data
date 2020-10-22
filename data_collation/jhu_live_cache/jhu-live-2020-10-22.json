@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 240159,
+      "confirmed": 253386,
       "date": "2020-10-22",
-      "deaths": 10489,
-      "recovered": 21477
+      "deaths": 10539,
+      "recovered": 21717
     }
   },
   "Bolivia": {
@@ -543,7 +543,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 63118,
+          "confirmed": 63132,
           "date": "2020-10-22",
           "deaths": 1950,
           "recovered": 50114
@@ -551,33 +551,33 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 82270,
+          "confirmed": 84090,
           "date": "2020-10-22",
-          "deaths": 2726,
+          "deaths": 2729,
           "recovered": 68409
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 27307,
+          "confirmed": 28440,
           "date": "2020-10-22",
-          "deaths": 590,
-          "recovered": 20497
+          "deaths": 593,
+          "recovered": 20829
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 27026,
+          "confirmed": 27426,
           "date": "2020-10-22",
-          "deaths": 719,
-          "recovered": 21611
+          "deaths": 720,
+          "recovered": 21976
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 94883,
+          "confirmed": 97507,
           "date": "2020-10-22",
-          "deaths": 1970,
+          "deaths": 1980,
           "recovered": 73785
         }
       }
@@ -609,10 +609,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 90232,
+      "confirmed": 91078,
       "date": "2020-10-22",
-      "deaths": 2582,
-      "recovered": 35930
+      "deaths": 2596,
+      "recovered": 36341
     }
   },
   "Hungary": {
@@ -941,10 +941,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 109766,
+      "confirmed": 109907,
       "date": "2020-10-22",
       "deaths": 1796,
-      "recovered": 105301
+      "recovered": 105385
     }
   },
   "Kenya": {
@@ -1571,9 +1571,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 457321,
+          "confirmed": 458470,
           "date": "2020-10-22",
-          "deaths": 9189,
+          "deaths": 9249,
           "recovered": 0
         }
       },
