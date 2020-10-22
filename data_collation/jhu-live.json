@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 438265,
+      "confirmed": 442164,
       "date": "2020-10-22",
-      "deaths": 10418,
-      "recovered": 369010
+      "deaths": 10465,
+      "recovered": 371826
     }
   },
   "Ireland": {
@@ -965,10 +965,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 118531,
+      "confirmed": 119420,
       "date": "2020-10-22",
-      "deaths": 721,
-      "recovered": 109916
+      "deaths": 730,
+      "recovered": 110714
     }
   },
   "Kyrgyzstan": {
@@ -1121,27 +1121,35 @@
   },
   "Netherlands": {
     "subseries": {
+      "Gelderland": {
+        "live": {
+          "confirmed": 24760,
+          "date": "2020-10-22",
+          "deaths": 763,
+          "recovered": 0
+        }
+      },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 37061,
+          "confirmed": 38327,
           "date": "2020-10-22",
-          "deaths": 1626,
+          "deaths": 1631,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 50300,
+          "confirmed": 52071,
           "date": "2020-10-22",
-          "deaths": 935,
+          "deaths": 945,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 74104,
+          "confirmed": 77132,
           "date": "2020-10-22",
-          "deaths": 1557,
+          "deaths": 1574,
           "recovered": 0
         }
       }
@@ -1385,10 +1393,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 343373,
+      "confirmed": 343774,
       "date": "2020-10-22",
-      "deaths": 5235,
-      "recovered": 329715
+      "deaths": 5250,
+      "recovered": 330181
     }
   },
   "Serbia": {
@@ -1646,14 +1654,6 @@
           "confirmed": 76244,
           "date": "2020-10-22",
           "deaths": 1487,
-          "recovered": 0
-        }
-      },
-      "New Jersey": {
-        "live": {
-          "confirmed": 24066,
-          "date": "2020-10-22",
-          "deaths": 2055,
           "recovered": 0
         }
       },
