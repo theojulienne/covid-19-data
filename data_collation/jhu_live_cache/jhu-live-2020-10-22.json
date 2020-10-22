@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 46593,
+      "confirmed": 47418,
       "date": "2020-10-22",
-      "deaths": 642,
-      "recovered": 40448
+      "deaths": 648,
+      "recovered": 40619
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 89642,
+      "confirmed": 90380,
       "date": "2020-10-22",
-      "deaths": 941,
-      "recovered": 80905
+      "deaths": 945,
+      "recovered": 81501
     }
   },
   "Belgium": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 36315,
+      "confirmed": 37314,
       "date": "2020-10-22",
-      "deaths": 1031,
-      "recovered": 25779
+      "deaths": 1051,
+      "recovered": 25989
     }
   },
   "Brazil": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 37003,
+      "confirmed": 37763,
       "date": "2020-10-22",
-      "deaths": 690,
-      "recovered": 30432
+      "deaths": 694,
+      "recovered": 30877
     }
   },
   "Dominican Republic": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 32120,
+      "confirmed": 32262,
       "date": "2020-10-22",
       "deaths": 936,
-      "recovered": 27670
+      "recovered": 27904
     }
   },
   "Ethiopia": {
@@ -546,7 +546,7 @@
           "confirmed": 63132,
           "date": "2020-10-22",
           "deaths": 1950,
-          "recovered": 50618
+          "recovered": 50114
         }
       },
       "Bayern": {
@@ -1165,10 +1165,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 111484,
+      "confirmed": 111837,
       "date": "2020-10-22",
-      "deaths": 1137,
-      "recovered": 97367
+      "deaths": 1147,
+      "recovered": 97949
     }
   },
   "Pakistan": {
@@ -1519,7 +1519,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 29848,
+          "confirmed": 30392,
           "date": "2020-10-22",
           "deaths": 2421,
           "recovered": 0
