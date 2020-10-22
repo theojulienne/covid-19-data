@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 55081,
+      "confirmed": 55357,
       "date": "2020-10-22",
-      "deaths": 1880,
-      "recovered": 38482
+      "deaths": 1888,
+      "recovered": 38618
     }
   },
   "Argentina": {
@@ -1571,9 +1571,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 616869,
+          "confirmed": 616993,
           "date": "2020-10-22",
-          "deaths": 12900,
+          "deaths": 12904,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 60057,
+          "confirmed": 60223,
           "date": "2020-10-22",
-          "deaths": 1048,
+          "deaths": 1051,
           "recovered": 0
         }
       },
@@ -1627,9 +1627,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 38910,
+          "confirmed": 39100,
           "date": "2020-10-22",
-          "deaths": 3031,
+          "deaths": 3040,
           "recovered": 0
         }
       },
@@ -1723,9 +1723,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 36706,
+          "confirmed": 37082,
           "date": "2020-10-22",
-          "deaths": 559,
+          "deaths": 561,
           "recovered": 0
         }
       }
