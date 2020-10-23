@@ -3403,10 +3403,10 @@
         "tested": 105739382
       },
       "latest": {
-        "confirmed": 8225438,
-        "deaths": 212806,
+        "confirmed": 8226750,
+        "deaths": 212836,
         "recovered": 3293606,
-        "tested": 118479982
+        "tested": 118490461
       },
       "states": {
         "AK": {
@@ -3475,10 +3475,10 @@
           "tested": 5772325
         },
         "GA": {
-          "confirmed": 342438,
-          "deaths": 7674,
-          "hospitalized": 30541,
-          "tested": 3327836
+          "confirmed": 343750,
+          "deaths": 7704,
+          "hospitalized": 30676,
+          "tested": 3338315
         },
         "HI": {
           "confirmed": 14350,

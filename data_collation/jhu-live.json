@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 70447,
+          "confirmed": 70645,
           "date": "2020-10-23",
           "deaths": 3129,
-          "recovered": 60934
+          "recovered": 61117
         }
       },
       "Quebec": {
@@ -1579,7 +1579,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 621687,
+          "confirmed": 621846,
           "date": "2020-10-23",
           "deaths": 12933,
           "recovered": 0
@@ -1595,9 +1595,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 60223,
+          "confirmed": 60649,
           "date": "2020-10-23",
-          "deaths": 1051,
+          "deaths": 1052,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39100,
+          "confirmed": 39324,
           "date": "2020-10-23",
           "deaths": 3040,
           "recovered": 0
@@ -1699,9 +1699,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 65194,
+          "confirmed": 66546,
           "date": "2020-10-23",
-          "deaths": 888,
+          "deaths": 895,
           "recovered": 0
         }
       },
@@ -1731,9 +1731,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 37082,
+          "confirmed": 37887,
           "date": "2020-10-23",
-          "deaths": 561,
+          "deaths": 565,
           "recovered": 0
         }
       }
