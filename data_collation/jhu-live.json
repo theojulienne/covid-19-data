@@ -546,7 +546,7 @@
           "confirmed": 65085,
           "date": "2020-10-23",
           "deaths": 1957,
-          "recovered": 51191
+          "recovered": 50618
         }
       },
       "Bayern": {
@@ -989,10 +989,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 52620,
+      "confirmed": 53384,
       "date": "2020-10-23",
-      "deaths": 768,
-      "recovered": 29057
+      "deaths": 774,
+      "recovered": 29619
     }
   },
   "Mexico": {
@@ -1537,7 +1537,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 97019,
+      "confirmed": 103653,
       "date": "2020-10-23",
       "deaths": 2056,
       "recovered": 55700
