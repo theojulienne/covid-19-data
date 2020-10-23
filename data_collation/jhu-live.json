@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 79211,
       "date": "2020-10-23",
-      "deaths": 308,
+      "deaths": 310,
       "recovered": 75840
     }
   },
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 41008,
+      "confirmed": 42365,
       "date": "2020-10-23",
-      "deaths": 1005,
-      "recovered": 21144
+      "deaths": 1038,
+      "recovered": 22445
     }
   },
   "Canada": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 27732,
+          "confirmed": 27978,
           "date": "2020-10-23",
-          "deaths": 432,
-          "recovered": 25310
+          "deaths": 439,
+          "recovered": 25522
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 294031,
+          "confirmed": 294373,
           "date": "2020-10-23",
-          "deaths": 9686,
-          "recovered": 281237
+          "deaths": 9705,
+          "recovered": 281557
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 29681,
+          "confirmed": 29755,
           "date": "2020-10-23",
-          "deaths": 1002,
-          "recovered": 27883
+          "deaths": 1009,
+          "recovered": 27959
         }
       }
     }
@@ -562,7 +562,7 @@
           "confirmed": 29398,
           "date": "2020-10-23",
           "deaths": 600,
-          "recovered": 21146
+          "recovered": 20829
         }
       },
       "Niedersachsen": {
@@ -1309,10 +1309,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 109541,
+      "confirmed": 112440,
       "date": "2020-10-23",
-      "deaths": 2245,
-      "recovered": 64531
+      "deaths": 2276,
+      "recovered": 65880
     }
   },
   "Qatar": {
@@ -1401,9 +1401,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 37536,
+      "confirmed": 38115,
       "date": "2020-10-23",
-      "deaths": 783,
+      "deaths": 786,
       "recovered": 0
     }
   },
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 103653,
       "date": "2020-10-23",
-      "deaths": 2060,
+      "deaths": 2061,
       "recovered": 55800
     }
   },
@@ -1611,9 +1611,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 56616,
+          "confirmed": 56876,
           "date": "2020-10-23",
-          "deaths": 1715,
+          "deaths": 1716,
           "recovered": 0
         }
       },
