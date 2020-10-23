@@ -275,7 +275,8 @@ var covid19_dataset_country_srb = {
     "2020-10-20",
     "2020-10-21",
     "2020-10-22",
-    "2020-10-23"
+    "2020-10-23",
+    "2020-10-24"
   ],
   "total": {
     "confirmed": [
@@ -552,8 +553,7 @@ var covid19_dataset_country_srb = {
       36160,
       36282,
       36608,
-      37120,
-      37536
+      37120
     ],
     "deaths": [
       0,
@@ -829,8 +829,7 @@ var covid19_dataset_country_srb = {
       776,
       778,
       780,
-      780,
-      783
+      780
     ],
     "recovered": [
       0,
