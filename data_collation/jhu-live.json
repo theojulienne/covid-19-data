@@ -335,7 +335,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 70408,
+          "confirmed": 70410,
           "date": "2020-10-23",
           "deaths": 3129,
           "recovered": 60893
@@ -343,10 +343,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 97321,
+          "confirmed": 98226,
           "date": "2020-10-23",
-          "deaths": 6094,
-          "recovered": 82033
+          "deaths": 6106,
+          "recovered": 82792
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 223065,
+      "confirmed": 231146,
       "date": "2020-10-23",
-      "deaths": 1845,
-      "recovered": 87225
+      "deaths": 1941,
+      "recovered": 91589
     }
   },
   "Denmark": {
@@ -533,20 +533,20 @@
   },
   "France": {
     "live": {
-      "confirmed": 1007026,
+      "confirmed": 1048924,
       "date": "2020-10-23",
-      "deaths": 33939,
-      "recovered": 88898
+      "deaths": 34236,
+      "recovered": 89600
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 65085,
+          "confirmed": 66815,
           "date": "2020-10-23",
-          "deaths": 1957,
-          "recovered": 50618
+          "deaths": 1966,
+          "recovered": 51191
         }
       },
       "Bayern": {
@@ -1420,7 +1420,7 @@
       "confirmed": 57951,
       "date": "2020-10-23",
       "deaths": 28,
-      "recovered": 57829
+      "recovered": 57832
     }
   },
   "Slovakia": {
@@ -1611,9 +1611,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 25151,
+          "confirmed": 25392,
           "date": "2020-10-23",
-          "deaths": 785,
+          "deaths": 789,
           "recovered": 0
         }
       },
@@ -1645,7 +1645,7 @@
         "live": {
           "confirmed": 33024,
           "date": "2020-10-23",
-          "deaths": 980,
+          "deaths": 981,
           "recovered": 0
         }
       },
@@ -1813,10 +1813,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 64633,
+      "confirmed": 64724,
       "date": "2020-10-23",
-      "deaths": 541,
-      "recovered": 61734
+      "deaths": 542,
+      "recovered": 61957
     }
   },
   "Venezuela": {

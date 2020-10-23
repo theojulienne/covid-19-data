@@ -631,8 +631,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 96288,
-          "deaths": 6074
+          "confirmed": 97321,
+          "deaths": 6094
         },
         "Saskatchewan": {
           "confirmed": 2496,
@@ -1034,19 +1034,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 139290,
-        "deaths": 1172,
-        "recovered": 60901
+        "confirmed": 149010,
+        "deaths": 1230,
+        "recovered": 63350
       },
       "back_2week": {
-        "confirmed": 95360,
-        "deaths": 829,
-        "recovered": 50767
+        "confirmed": 100757,
+        "deaths": 869,
+        "recovered": 51160
       },
       "latest": {
-        "confirmed": 208915,
-        "deaths": 1739,
-        "recovered": 83136
+        "confirmed": 223065,
+        "deaths": 1845,
+        "recovered": 87225
       }
     },
     "DEU": {
@@ -1318,19 +1318,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 788117,
-        "deaths": 32788,
-        "recovered": 84266
+        "confirmed": 818707,
+        "deaths": 32876,
+        "recovered": 84933
       },
       "back_2week": {
-        "confirmed": 664178,
-        "deaths": 32219,
-        "recovered": 81431
+        "confirmed": 682192,
+        "deaths": 32295,
+        "recovered": 81886
       },
       "latest": {
-        "confirmed": 965451,
-        "deaths": 33777,
-        "recovered": 87951
+        "confirmed": 1007026,
+        "deaths": 33939,
+        "recovered": 88898
       },
       "states": {
         "French Guiana": {
@@ -2917,17 +2917,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 57892,
         "deaths": 28,
-        "recovered": 57752
+        "recovered": 57764
       },
       "back_2week": {
         "confirmed": 57849,
         "deaths": 27,
-        "recovered": 57624
+        "recovered": 57668
       },
       "latest": {
         "confirmed": 57941,
         "deaths": 28,
-        "recovered": 57821
+        "recovered": 57829
       }
     },
     "SLB": {
