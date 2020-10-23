@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 70435,
+          "confirmed": 70447,
           "date": "2020-10-23",
           "deaths": 3129,
-          "recovered": 60912
+          "recovered": 60934
         }
       },
       "Quebec": {
@@ -941,10 +941,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 46441,
+      "confirmed": 48930,
       "date": "2020-10-23",
-      "deaths": 481,
-      "recovered": 7340
+      "deaths": 508,
+      "recovered": 7449
     }
   },
   "Kazakhstan": {
@@ -1173,10 +1173,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 25473,
+      "confirmed": 25991,
       "date": "2020-10-23",
-      "deaths": 874,
-      "recovered": 18047
+      "deaths": 883,
+      "recovered": 18247
     }
   },
   "Oman": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 103653,
       "date": "2020-10-23",
-      "deaths": 2063,
+      "deaths": 2067,
       "recovered": 55800
     }
   },
@@ -1561,10 +1561,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 355528,
+      "confirmed": 357693,
       "date": "2020-10-23",
-      "deaths": 9584,
-      "recovered": 310027
+      "deaths": 9658,
+      "recovered": 311520
     }
   },
   "US": {
@@ -1579,7 +1579,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 621511,
+          "confirmed": 621687,
           "date": "2020-10-23",
           "deaths": 12933,
           "recovered": 0
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 376722,
           "date": "2020-10-23",
-          "deaths": 28522,
+          "deaths": 28531,
           "recovered": 0
         }
       },
@@ -1683,7 +1683,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 31466,
+          "confirmed": 31703,
           "date": "2020-10-23",
           "deaths": 640,
           "recovered": 0
@@ -1691,9 +1691,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 41561,
+          "confirmed": 41972,
           "date": "2020-10-23",
-          "deaths": 1852,
+          "deaths": 1853,
           "recovered": 0
         }
       },
@@ -1781,7 +1781,7 @@
         "live": {
           "confirmed": 704443,
           "date": "2020-10-23",
-          "deaths": 39300,
+          "deaths": 39488,
           "recovered": 0
         }
       },
@@ -1789,7 +1789,7 @@
         "live": {
           "confirmed": 32286,
           "date": "2020-10-23",
-          "deaths": 634,
+          "deaths": 639,
           "recovered": 0
         }
       },
@@ -1797,7 +1797,7 @@
         "live": {
           "confirmed": 54016,
           "date": "2020-10-23",
-          "deaths": 2670,
+          "deaths": 2688,
           "recovered": 0
         }
       },
@@ -1805,7 +1805,7 @@
         "live": {
           "confirmed": 40253,
           "date": "2020-10-23",
-          "deaths": 1743,
+          "deaths": 1756,
           "recovered": 0
         }
       }
