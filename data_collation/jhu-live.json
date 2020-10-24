@@ -346,7 +346,7 @@
           "confirmed": 99235,
           "date": "2020-10-24",
           "deaths": 6132,
-          "recovered": 82792
+          "recovered": 83819
         }
       }
     }
@@ -578,7 +578,7 @@
           "confirmed": 31128,
           "date": "2020-10-24",
           "deaths": 607,
-          "recovered": 21457
+          "recovered": 21146
         }
       },
       "Niedersachsen": {
@@ -1611,9 +1611,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 60649,
+          "confirmed": 60895,
           "date": "2020-10-24",
-          "deaths": 1052,
+          "deaths": 1058,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39324,
+          "confirmed": 39660,
           "date": "2020-10-24",
-          "deaths": 3040,
+          "deaths": 3045,
           "recovered": 0
         }
       },
@@ -1715,9 +1715,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 66546,
+          "confirmed": 66959,
           "date": "2020-10-24",
-          "deaths": 895,
+          "deaths": 898,
           "recovered": 0
         }
       },
@@ -1731,9 +1731,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 70595,
+          "confirmed": 71631,
           "date": "2020-10-24",
-          "deaths": 375,
+          "deaths": 376,
           "recovered": 0
         }
       },
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 37887,
+          "confirmed": 38108,
           "date": "2020-10-24",
-          "deaths": 565,
+          "deaths": 567,
           "recovered": 0
         }
       }
