@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 71311,
+          "confirmed": 71313,
           "date": "2020-10-24",
-          "deaths": 3131,
-          "recovered": 61503
+          "deaths": 3132,
+          "recovered": 61594
         }
       },
       "Quebec": {
@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 158270,
+      "confirmed": 159614,
       "date": "2020-10-24",
-      "deaths": 12528,
+      "deaths": 12542,
       "recovered": 134187
     }
   },
@@ -554,7 +554,7 @@
           "confirmed": 66838,
           "date": "2020-10-24",
           "deaths": 1966,
-          "recovered": 51746
+          "recovered": 51191
         }
       },
       "Bayern": {
@@ -567,7 +567,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 25374,
+          "confirmed": 25789,
           "date": "2020-10-24",
           "deaths": 249,
           "recovered": 18075
@@ -609,18 +609,18 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 29057,
+      "confirmed": 29992,
       "date": "2020-10-24",
-      "deaths": 559,
+      "deaths": 564,
       "recovered": 1347
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 103902,
+      "confirmed": 104632,
       "date": "2020-10-24",
-      "deaths": 3594,
-      "recovered": 93341
+      "deaths": 3609,
+      "recovered": 93880
     }
   },
   "Honduras": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 308840,
+      "confirmed": 309374,
       "date": "2020-10-24",
-      "deaths": 2329,
-      "recovered": 290130
+      "deaths": 2366,
+      "recovered": 291130
     }
   },
   "Italy": {
@@ -949,10 +949,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 48930,
+      "confirmed": 50750,
       "date": "2020-10-24",
-      "deaths": 508,
-      "recovered": 7449
+      "deaths": 540,
+      "recovered": 7508
     }
   },
   "Kazakhstan": {
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 47843,
+      "confirmed": 48790,
       "date": "2020-10-24",
-      "deaths": 884,
-      "recovered": 33421
+      "deaths": 896,
+      "recovered": 33876
     }
   },
   "Korea, South": {
@@ -1147,33 +1147,33 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 25537,
+          "confirmed": 26271,
           "date": "2020-10-24",
-          "deaths": 769,
+          "deaths": 772,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 39742,
+          "confirmed": 41028,
           "date": "2020-10-24",
-          "deaths": 1639,
+          "deaths": 1644,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 53951,
+          "confirmed": 55343,
           "date": "2020-10-24",
-          "deaths": 948,
+          "deaths": 958,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 80030,
+          "confirmed": 82660,
           "date": "2020-10-24",
-          "deaths": 1585,
+          "deaths": 1607,
           "recovered": 0
         }
       }
@@ -1189,10 +1189,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 25991,
+      "confirmed": 26394,
       "date": "2020-10-24",
-      "deaths": 883,
-      "recovered": 18247
+      "deaths": 897,
+      "recovered": 18430
     }
   },
   "Oman": {
@@ -1577,10 +1577,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 357693,
+      "confirmed": 359784,
       "date": "2020-10-24",
-      "deaths": 9658,
-      "recovered": 311520
+      "deaths": 9727,
+      "recovered": 313093
     }
   },
   "US": {
@@ -1627,9 +1627,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 25392,
+          "confirmed": 25691,
           "date": "2020-10-24",
-          "deaths": 789,
+          "deaths": 791,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 33310,
+          "confirmed": 33719,
           "date": "2020-10-24",
-          "deaths": 981,
+          "deaths": 984,
           "recovered": 0
         }
       },
@@ -1691,7 +1691,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 32583,
+          "confirmed": 32877,
           "date": "2020-10-24",
           "deaths": 381,
           "recovered": 0
