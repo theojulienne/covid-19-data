@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 42365,
+      "confirmed": 43788,
       "date": "2020-10-24",
-      "deaths": 1038,
-      "recovered": 22445
+      "deaths": 1066,
+      "recovered": 23708
     }
   },
   "Canada": {
@@ -559,10 +559,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 88319,
+          "confirmed": 88613,
           "date": "2020-10-24",
           "deaths": 2740,
-          "recovered": 69703
+          "recovered": 70205
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 31128,
           "date": "2020-10-24",
           "deaths": 607,
-          "recovered": 21457
+          "recovered": 21146
         }
       },
       "Niedersachsen": {
@@ -601,10 +601,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47601,
+      "confirmed": 47690,
       "date": "2020-10-24",
-      "deaths": 314,
-      "recovered": 46824
+      "deaths": 316,
+      "recovered": 46887
     }
   },
   "Greece": {
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 112440,
+      "confirmed": 116109,
       "date": "2020-10-24",
-      "deaths": 2276,
-      "recovered": 65880
+      "deaths": 2297,
+      "recovered": 67842
     }
   },
   "Qatar": {
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 31999,
+          "confirmed": 32121,
           "date": "2020-10-24",
           "deaths": 853,
           "recovered": 0
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 49579,
+      "confirmed": 49989,
       "date": "2020-10-24",
-      "deaths": 439,
-      "recovered": 42850
+      "deaths": 443,
+      "recovered": 43232
     }
   }
 }
