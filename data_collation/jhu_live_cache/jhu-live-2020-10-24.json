@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 74415,
+      "confirmed": 78029,
       "date": "2020-10-24",
-      "deaths": 954,
-      "recovered": 55195
+      "deaths": 965,
+      "recovered": 56791
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 91167,
+      "confirmed": 91978,
       "date": "2020-10-24",
-      "deaths": 945,
-      "recovered": 82136
+      "deaths": 953,
+      "recovered": 82670
     }
   },
   "Belgium": {
@@ -578,7 +578,7 @@
           "confirmed": 31128,
           "date": "2020-10-24",
           "deaths": 607,
-          "recovered": 21146
+          "recovered": 21457
         }
       },
       "Niedersachsen": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 120232,
+      "confirmed": 120927,
       "date": "2020-10-24",
-      "deaths": 740,
-      "recovered": 111440
+      "deaths": 744,
+      "recovered": 112110
     }
   },
   "Kyrgyzstan": {
@@ -1137,10 +1137,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 153008,
+      "confirmed": 155233,
       "date": "2020-10-24",
-      "deaths": 829,
-      "recovered": 105488
+      "deaths": 842,
+      "recovered": 108334
     }
   },
   "Netherlands": {
