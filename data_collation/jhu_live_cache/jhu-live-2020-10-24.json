@@ -578,7 +578,7 @@
           "confirmed": 31128,
           "date": "2020-10-24",
           "deaths": 607,
-          "recovered": 21457
+          "recovered": 21146
         }
       },
       "Niedersachsen": {
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 556891,
+      "confirmed": 562705,
       "date": "2020-10-24",
-      "deaths": 31985,
-      "recovered": 446685
+      "deaths": 32320,
+      "recovered": 450891
     }
   },
   "Iraq": {
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 122273,
+      "confirmed": 123764,
       "date": "2020-10-24",
       "deaths": 475,
-      "recovered": 115068
+      "recovered": 116894
     }
   },
   "United Kingdom": {
