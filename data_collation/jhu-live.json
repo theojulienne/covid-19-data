@@ -317,10 +317,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 36519,
+      "confirmed": 37562,
       "date": "2020-10-24",
-      "deaths": 1077,
-      "recovered": 18102
+      "deaths": 1084,
+      "recovered": 18232
     }
   },
   "Burma": {
@@ -395,7 +395,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 151420,
+          "confirmed": 153283,
           "date": "2020-10-24",
           "deaths": 2963,
           "recovered": 138999
@@ -403,7 +403,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 70507,
+          "confirmed": 70617,
           "date": "2020-10-24",
           "deaths": 3114,
           "recovered": 66120
@@ -411,7 +411,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 31842,
+          "confirmed": 31906,
           "date": "2020-10-24",
           "deaths": 829,
           "recovered": 30382
@@ -419,7 +419,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 306114,
+          "confirmed": 308645,
           "date": "2020-10-24",
           "deaths": 7432,
           "recovered": 273138
@@ -427,7 +427,7 @@
       },
       "Cordoba": {
         "live": {
-          "confirmed": 25821,
+          "confirmed": 25887,
           "date": "2020-10-24",
           "deaths": 1608,
           "recovered": 23208
@@ -435,7 +435,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 39908,
+          "confirmed": 40229,
           "date": "2020-10-24",
           "deaths": 1150,
           "recovered": 36604
@@ -443,7 +443,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 39224,
+          "confirmed": 39535,
           "date": "2020-10-24",
           "deaths": 1593,
           "recovered": 34586
@@ -451,7 +451,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 76958,
+          "confirmed": 77589,
           "date": "2020-10-24",
           "deaths": 2663,
           "recovered": 69451
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 481935,
+          "confirmed": 482922,
           "date": "2020-10-24",
           "deaths": 9157,
           "recovered": 0
