@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 97321,
-          "deaths": 6094
+          "confirmed": 98226,
+          "deaths": 6106
         },
         "Saskatchewan": {
           "confirmed": 2558,
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 149010,
-        "deaths": 1230,
-        "recovered": 63350
+        "confirmed": 160112,
+        "deaths": 1283,
+        "recovered": 66093
       },
       "back_2week": {
-        "confirmed": 100757,
-        "deaths": 869,
-        "recovered": 51160
+        "confirmed": 109374,
+        "deaths": 905,
+        "recovered": 53173
       },
       "latest": {
-        "confirmed": 223065,
-        "deaths": 1845,
-        "recovered": 87225
+        "confirmed": 238323,
+        "deaths": 1971,
+        "recovered": 91651
       }
     },
     "DEU": {
@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 53777,
-        "deaths": 1827,
-        "recovered": 37603
+        "confirmed": 53998,
+        "deaths": 1841,
+        "recovered": 37856
       },
       "back_2week": {
-        "confirmed": 52658,
-        "deaths": 1783,
-        "recovered": 36958
+        "confirmed": 52804,
+        "deaths": 1789,
+        "recovered": 37067
       },
       "latest": {
-        "confirmed": 55357,
-        "deaths": 1888,
-        "recovered": 38618
+        "confirmed": 55630,
+        "deaths": 1897,
+        "recovered": 38788
       }
     },
     "ECU": {
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 163650,
-        "deaths": 2772,
-        "recovered": 136036
+        "confirmed": 167148,
+        "deaths": 2818,
+        "recovered": 138989
       },
       "back_2week": {
-        "confirmed": 142953,
-        "deaths": 2486,
-        "recovered": 120275
+        "confirmed": 146398,
+        "deaths": 2530,
+        "recovered": 123022
       },
       "latest": {
-        "confirmed": 186731,
-        "deaths": 3132,
-        "recovered": 154481
+        "confirmed": 190416,
+        "deaths": 3205,
+        "recovered": 157175
       }
     },
     "MCO": {
