@@ -551,7 +551,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 66838,
+          "confirmed": 68462,
           "date": "2020-10-24",
           "deaths": 1970,
           "recovered": 51746
@@ -861,9 +861,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 55261,
+      "confirmed": 56108,
       "date": "2020-10-24",
-      "deaths": 1878,
+      "deaths": 1882,
       "recovered": 23364
     }
   },
@@ -997,10 +997,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 68479,
+      "confirmed": 69906,
       "date": "2020-10-24",
-      "deaths": 559,
-      "recovered": 32412
+      "deaths": 562,
+      "recovered": 33438
     }
   },
   "Libya": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 103653,
       "date": "2020-10-24",
-      "deaths": 2071,
+      "deaths": 2081,
       "recovered": 55800
     }
   },
@@ -1595,7 +1595,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 601224,
+          "confirmed": 601359,
           "date": "2020-10-24",
           "deaths": 12484,
           "recovered": 0
@@ -1699,9 +1699,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 31703,
+          "confirmed": 31999,
           "date": "2020-10-24",
-          "deaths": 640,
+          "deaths": 642,
           "recovered": 0
         }
       },
