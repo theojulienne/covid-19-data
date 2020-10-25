@@ -338,7 +338,7 @@
           "confirmed": 71423,
           "date": "2020-10-25",
           "deaths": 3132,
-          "recovered": 61695
+          "recovered": 61719
         }
       },
       "Quebec": {
@@ -551,15 +551,15 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 68462,
+          "confirmed": 68482,
           "date": "2020-10-25",
           "deaths": 1970,
-          "recovered": 51746
+          "recovered": 52088
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 88613,
+          "confirmed": 89986,
           "date": "2020-10-25",
           "deaths": 2742,
           "recovered": 70205
@@ -567,7 +567,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 25789,
+          "confirmed": 25790,
           "date": "2020-10-25",
           "deaths": 249,
           "recovered": 18248
@@ -575,7 +575,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 31128,
+          "confirmed": 32227,
           "date": "2020-10-25",
           "deaths": 609,
           "recovered": 21711
@@ -583,7 +583,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 29623,
+          "confirmed": 29640,
           "date": "2020-10-25",
           "deaths": 729,
           "recovered": 22925
@@ -591,7 +591,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 104617,
+          "confirmed": 107759,
           "date": "2020-10-25",
           "deaths": 2017,
           "recovered": 77060
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 91882,
+      "confirmed": 92724,
       "date": "2020-10-25",
-      "deaths": 2612,
-      "recovered": 37697
+      "deaths": 2617,
+      "recovered": 37866
     }
   },
   "Hungary": {
