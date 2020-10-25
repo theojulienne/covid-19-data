@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 49013,
+      "confirmed": 49959,
       "date": "2020-10-25",
-      "deaths": 664,
-      "recovered": 41051
+      "deaths": 671,
+      "recovered": 41279
     }
   },
   "Bahrain": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 43788,
+      "confirmed": 44774,
       "date": "2020-10-25",
-      "deaths": 1066,
-      "recovered": 23708
+      "deaths": 1095,
+      "recovered": 24920
     }
   },
   "Canada": {
@@ -570,7 +570,7 @@
           "confirmed": 25790,
           "date": "2020-10-25",
           "deaths": 249,
-          "recovered": 18075
+          "recovered": 18248
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 32227,
           "date": "2020-10-25",
           "deaths": 609,
-          "recovered": 21457
+          "recovered": 21711
         }
       },
       "Niedersachsen": {
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 32121,
+          "confirmed": 32225,
           "date": "2020-10-25",
           "deaths": 853,
           "recovered": 0

@@ -248,19 +248,19 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 43789,
-        "deaths": 621,
-        "recovered": 39800
+        "confirmed": 44317,
+        "deaths": 623,
+        "recovered": 39903
       },
       "back_2week": {
-        "confirmed": 41519,
-        "deaths": 605,
-        "recovered": 39129
+        "confirmed": 41752,
+        "deaths": 608,
+        "recovered": 39235
       },
       "latest": {
-        "confirmed": 48221,
-        "deaths": 656,
-        "recovered": 40831
+        "confirmed": 49013,
+        "deaths": 664,
+        "recovered": 41051
       }
     },
     "BDI": {
