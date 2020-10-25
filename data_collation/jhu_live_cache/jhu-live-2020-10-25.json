@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 72694,
+          "confirmed": 73023,
           "date": "2020-10-25",
-          "deaths": 3139,
-          "recovered": 62516
+          "deaths": 3141,
+          "recovered": 62799
         }
       },
       "Quebec": {
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 92858,
+      "confirmed": 93343,
       "date": "2020-10-25",
-      "deaths": 1419,
-      "recovered": 46842
+      "deaths": 1426,
+      "recovered": 47543
     }
   },
   "France": {
@@ -578,7 +578,7 @@
           "confirmed": 32227,
           "date": "2020-10-25",
           "deaths": 609,
-          "recovered": 21457
+          "recovered": 21711
         }
       },
       "Niedersachsen": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 604749,
+          "confirmed": 604996,
           "date": "2020-10-25",
-          "deaths": 12504,
+          "deaths": 12507,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 58378,
+          "confirmed": 58828,
           "date": "2020-10-25",
-          "deaths": 3413,
+          "deaths": 3421,
           "recovered": 0
         }
       },
@@ -1723,9 +1723,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 483861,
+          "confirmed": 485281,
           "date": "2020-10-25",
-          "deaths": 9158,
+          "deaths": 9174,
           "recovered": 0
         }
       },
