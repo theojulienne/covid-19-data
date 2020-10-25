@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 32585,
       "date": "2020-10-25",
-      "deaths": 944,
+      "deaths": 949,
       "recovered": 28258
     }
   },
@@ -578,7 +578,7 @@
           "confirmed": 32227,
           "date": "2020-10-25",
           "deaths": 609,
-          "recovered": 21711
+          "recovered": 21457
         }
       },
       "Niedersachsen": {
