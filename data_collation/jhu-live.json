@@ -570,7 +570,7 @@
           "confirmed": 25790,
           "date": "2020-10-25",
           "deaths": 249,
-          "recovered": 18075
+          "recovered": 18248
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 32227,
           "date": "2020-10-25",
           "deaths": 609,
-          "recovered": 21457
+          "recovered": 21711
         }
       },
       "Niedersachsen": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 120927,
+      "confirmed": 121635,
       "date": "2020-10-25",
-      "deaths": 744,
-      "recovered": 112110
+      "deaths": 746,
+      "recovered": 112771
     }
   },
   "Kyrgyzstan": {
