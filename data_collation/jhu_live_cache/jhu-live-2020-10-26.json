@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 73145,
+          "confirmed": 73311,
           "date": "2020-10-26",
-          "deaths": 3141,
-          "recovered": 62882
+          "deaths": 3144,
+          "recovered": 62986
         }
       },
       "Quebec": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 28406,
+          "confirmed": 28617,
           "date": "2020-10-26",
-          "deaths": 448,
-          "recovered": 26539
+          "deaths": 454,
+          "recovered": 26748
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 295067,
+          "confirmed": 295404,
           "date": "2020-10-26",
-          "deaths": 9749,
-          "recovered": 283049
+          "deaths": 9774,
+          "recovered": 283411
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 29937,
+          "confirmed": 30011,
           "date": "2020-10-26",
-          "deaths": 1025,
-          "recovered": 28377
+          "deaths": 1036,
+          "recovered": 28450
         }
       }
     }
@@ -562,7 +562,7 @@
           "confirmed": 91569,
           "date": "2020-10-26",
           "deaths": 2746,
-          "recovered": 70688
+          "recovered": 71492
         }
       },
       "Berlin": {
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 104787,
+      "confirmed": 104894,
       "date": "2020-10-26",
-      "deaths": 3644,
-      "recovered": 94217
+      "deaths": 3651,
+      "recovered": 94530
     }
   },
   "Honduras": {
@@ -949,9 +949,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 53087,
+      "confirmed": 55055,
       "date": "2020-10-26",
-      "deaths": 579,
+      "deaths": 624,
       "recovered": 7508
     }
   },
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 118686,
+      "confirmed": 121133,
       "date": "2020-10-26",
-      "deaths": 2316,
-      "recovered": 68877
+      "deaths": 2343,
+      "recovered": 69956
     }
   },
   "Qatar": {
@@ -1603,9 +1603,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 442126,
+          "confirmed": 444085,
           "date": "2020-10-26",
-          "deaths": 8511,
+          "deaths": 8516,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 485858,
+          "confirmed": 486561,
           "date": "2020-10-26",
           "deaths": 9174,
           "recovered": 0
