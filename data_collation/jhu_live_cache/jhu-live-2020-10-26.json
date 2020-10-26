@@ -957,7 +957,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 110402,
+      "confirmed": 110542,
       "date": "2020-10-26",
       "deaths": 1796,
       "recovered": 105618
@@ -1667,9 +1667,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 29396,
+          "confirmed": 29588,
           "date": "2020-10-26",
-          "deaths": 871,
+          "deaths": 870,
           "recovered": 0
         }
       },
