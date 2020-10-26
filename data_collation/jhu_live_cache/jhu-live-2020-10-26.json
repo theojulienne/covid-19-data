@@ -535,7 +535,7 @@
     "live": {
       "confirmed": 1094239,
       "date": "2020-10-26",
-      "deaths": 34373,
+      "deaths": 34489,
       "recovered": 90436
     }
   },
@@ -570,7 +570,7 @@
           "confirmed": 26094,
           "date": "2020-10-26",
           "deaths": 250,
-          "recovered": 18281
+          "recovered": 18600
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 32852,
           "date": "2020-10-26",
           "deaths": 611,
-          "recovered": 21711
+          "recovered": 22139
         }
       },
       "Niedersachsen": {
@@ -586,7 +586,7 @@
           "confirmed": 30476,
           "date": "2020-10-26",
           "deaths": 732,
-          "recovered": 22925
+          "recovered": 23275
         }
       },
       "Nordrhein-Westfalen": {
@@ -837,10 +837,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 389712,
+      "confirmed": 392934,
       "date": "2020-10-26",
-      "deaths": 13299,
-      "recovered": 313764
+      "deaths": 13411,
+      "recovered": 317672
     }
   },
   "Iran": {
@@ -1317,10 +1317,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 370028,
+      "confirmed": 371630,
       "date": "2020-10-26",
-      "deaths": 6977,
-      "recovered": 328036
+      "deaths": 7039,
+      "recovered": 328258
     }
   },
   "Poland": {
