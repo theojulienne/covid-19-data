@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 32585,
+      "confirmed": 32925,
       "date": "2020-10-26",
       "deaths": 953,
-      "recovered": 28258
+      "recovered": 28582
     }
   },
   "Ethiopia": {
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 568896,
+      "confirmed": 574856,
       "date": "2020-10-26",
-      "deaths": 32616,
-      "recovered": 455054
+      "deaths": 32953,
+      "recovered": 459250
     }
   },
   "Iraq": {
@@ -942,7 +942,7 @@
           "confirmed": 30151,
           "date": "2020-10-26",
           "deaths": 444,
-          "recovered": 27809
+          "recovered": 27889
         }
       }
     }
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 121635,
+      "confirmed": 122317,
       "date": "2020-10-26",
-      "deaths": 746,
-      "recovered": 112771
+      "deaths": 749,
+      "recovered": 113391
     }
   },
   "Kyrgyzstan": {
@@ -1341,18 +1341,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 131170,
+      "confirmed": 131432,
       "date": "2020-10-26",
       "deaths": 230,
-      "recovered": 128099
+      "recovered": 128343
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 209648,
+      "confirmed": 212492,
       "date": "2020-10-26",
-      "deaths": 6391,
-      "recovered": 149741
+      "deaths": 6470,
+      "recovered": 151811
     }
   },
   "Russia": {
@@ -1561,17 +1561,17 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 103653,
+      "confirmed": 121093,
       "date": "2020-10-26",
-      "deaths": 2083,
-      "recovered": 55800
+      "deaths": 2090,
+      "recovered": 61700
     }
   },
   "Tunisia": {
     "live": {
       "confirmed": 52399,
       "date": "2020-10-26",
-      "deaths": 877,
+      "deaths": 983,
       "recovered": 5032
     }
   },

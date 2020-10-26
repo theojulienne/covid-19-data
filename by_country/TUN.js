@@ -842,7 +842,7 @@ var covid19_dataset_country_tun = {
       784,
       819,
       819,
-      877
+      983
     ],
     "recovered": [
       0,
