@@ -325,17 +325,17 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 44774,
+      "confirmed": 46200,
       "date": "2020-10-26",
-      "deaths": 1095,
-      "recovered": 24920
+      "deaths": 1122,
+      "recovered": 26007
     }
   },
   "Canada": {
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 73143,
+          "confirmed": 73145,
           "date": "2020-10-26",
           "deaths": 3141,
           "recovered": 62882
@@ -554,7 +554,7 @@
           "confirmed": 69601,
           "date": "2020-10-26",
           "deaths": 1972,
-          "recovered": 52638
+          "recovered": 52088
         }
       },
       "Bayern": {
@@ -1425,9 +1425,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 39486,
+      "confirmed": 39827,
       "date": "2020-10-26",
-      "deaths": 792,
+      "deaths": 793,
       "recovered": 0
     }
   },
@@ -1635,9 +1635,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 32225,
+          "confirmed": 32292,
           "date": "2020-10-26",
-          "deaths": 853,
+          "deaths": 854,
           "recovered": 0
         }
       },
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 65480,
+      "confirmed": 65577,
       "date": "2020-10-26",
-      "deaths": 550,
-      "recovered": 62615
+      "deaths": 552,
+      "recovered": 62742
     }
   },
   "Venezuela": {
