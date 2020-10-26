@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 80811,
+      "confirmed": 83267,
       "date": "2020-10-26",
-      "deaths": 979,
-      "recovered": 57858
+      "deaths": 992,
+      "recovered": 59036
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 398815,
+      "confirmed": 400251,
       "date": "2020-10-26",
-      "deaths": 5803,
-      "recovered": 315107
+      "deaths": 5818,
+      "recovered": 316600
     }
   },
   "Belarus": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 36380,
+      "confirmed": 37208,
       "date": "2020-10-26",
-      "deaths": 437,
-      "recovered": 24799
+      "deaths": 452,
+      "recovered": 25837
     }
   },
   "Czechia": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1094239,
+      "confirmed": 1146249,
       "date": "2020-10-26",
       "deaths": 34489,
-      "recovered": 90436
+      "recovered": 90774
     }
   },
   "Georgia": {
@@ -1005,10 +1005,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 56013,
+      "confirmed": 57223,
       "date": "2020-10-26",
-      "deaths": 795,
-      "recovered": 30731
+      "deaths": 801,
+      "recovered": 31515
     }
   },
   "Malaysia": {
@@ -1325,10 +1325,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 253688,
+      "confirmed": 263929,
       "date": "2020-10-26",
-      "deaths": 4438,
-      "recovered": 112619
+      "deaths": 4483,
+      "recovered": 115302
     }
   },
   "Portugal": {
@@ -1441,10 +1441,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 43843,
+      "confirmed": 45155,
       "date": "2020-10-26",
-      "deaths": 159,
-      "recovered": 9960
+      "deaths": 165,
+      "recovered": 10130
     }
   },
   "South Africa": {
@@ -1569,9 +1569,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 48799,
+      "confirmed": 52399,
       "date": "2020-10-26",
-      "deaths": 819,
+      "deaths": 877,
       "recovered": 5032
     }
   },
