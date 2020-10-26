@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 140779,
+      "confirmed": 140853,
       "date": "2020-10-26",
-      "deaths": 8627,
-      "recovered": 108067
+      "deaths": 8645,
+      "recovered": 108658
     }
   },
   "Bosnia and Herzegovina": {
@@ -973,10 +973,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 25836,
+      "confirmed": 25955,
       "date": "2020-10-26",
       "deaths": 457,
-      "recovered": 23869
+      "recovered": 23905
     }
   },
   "Kuwait": {
@@ -1023,98 +1023,98 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 154778,
+          "confirmed": 155320,
           "date": "2020-10-26",
-          "deaths": 14761,
-          "recovered": 128561
+          "deaths": 14789,
+          "recovered": 129157
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 31726,
+          "confirmed": 32032,
           "date": "2020-10-26",
-          "deaths": 2223,
-          "recovered": 26884
+          "deaths": 2236,
+          "recovered": 27058
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 46808,
+          "confirmed": 46975,
           "date": "2020-10-26",
-          "deaths": 3323,
-          "recovered": 40828
+          "deaths": 3330,
+          "recovered": 41063
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 32667,
+          "confirmed": 32895,
           "date": "2020-10-26",
-          "deaths": 3857,
-          "recovered": 26328
+          "deaths": 3887,
+          "recovered": 26711
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 95379,
+          "confirmed": 95530,
           "date": "2020-10-26",
-          "deaths": 10470,
-          "recovered": 81390
+          "deaths": 10479,
+          "recovered": 81635
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 50644,
+          "confirmed": 51046,
           "date": "2020-10-26",
-          "deaths": 3736,
-          "recovered": 42767
+          "deaths": 3738,
+          "recovered": 43418
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 34761,
+          "confirmed": 34864,
           "date": "2020-10-26",
-          "deaths": 4651,
-          "recovered": 29020
+          "deaths": 4652,
+          "recovered": 29148
         }
       },
       "San Luis Potosi": {
         "live": {
-          "confirmed": 27346,
+          "confirmed": 27616,
           "date": "2020-10-26",
-          "deaths": 1922,
-          "recovered": 24074
+          "deaths": 1924,
+          "recovered": 24341
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 37338,
+          "confirmed": 37461,
           "date": "2020-10-26",
-          "deaths": 3114,
-          "recovered": 33335
+          "deaths": 3119,
+          "recovered": 33465
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 34006,
+          "confirmed": 34072,
           "date": "2020-10-26",
-          "deaths": 3012,
-          "recovered": 30297
+          "deaths": 3014,
+          "recovered": 30431
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 31450,
+          "confirmed": 31668,
           "date": "2020-10-26",
-          "deaths": 2568,
-          "recovered": 27921
+          "deaths": 2601,
+          "recovered": 28097
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 36481,
+          "confirmed": 36609,
           "date": "2020-10-26",
-          "deaths": 4710,
-          "recovered": 30821
+          "deaths": 4713,
+          "recovered": 31025
         }
       }
     }
@@ -1215,26 +1215,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 39015,
+          "confirmed": 39043,
           "date": "2020-10-26",
           "deaths": 1269,
-          "recovered": 37227
+          "recovered": 37261
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 102677,
+          "confirmed": 102875,
           "date": "2020-10-26",
           "deaths": 2335,
-          "recovered": 97336
+          "recovered": 97348
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 143526,
+          "confirmed": 143836,
           "date": "2020-10-26",
           "deaths": 2598,
-          "recovered": 136518
+          "recovered": 136654
         }
       }
     }
@@ -1839,8 +1839,8 @@
     "live": {
       "confirmed": 89565,
       "date": "2020-10-26",
-      "deaths": 770,
-      "recovered": 84720
+      "deaths": 773,
+      "recovered": 83947
     }
   },
   "West Bank and Gaza": {
