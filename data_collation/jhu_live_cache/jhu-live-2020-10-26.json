@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 73879,
+          "confirmed": 73973,
           "date": "2020-10-26",
           "deaths": 3148,
-          "recovered": 63482
+          "recovered": 63575
         }
       },
       "Quebec": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 606789,
+          "confirmed": 607329,
           "date": "2020-10-26",
-          "deaths": 12513,
+          "deaths": 12529,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 488750,
+          "confirmed": 489264,
           "date": "2020-10-26",
           "deaths": 9181,
           "recovered": 0
