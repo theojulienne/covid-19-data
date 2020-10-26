@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 73514,
+          "confirmed": 73569,
           "date": "2020-10-26",
           "deaths": 3145,
-          "recovered": 63160
+          "recovered": 63193
         }
       },
       "Quebec": {
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 93343,
+      "confirmed": 93707,
       "date": "2020-10-26",
-      "deaths": 1426,
-      "recovered": 47543
+      "deaths": 1437,
+      "recovered": 48150
     }
   },
   "France": {
@@ -578,7 +578,7 @@
           "confirmed": 32852,
           "date": "2020-10-26",
           "deaths": 611,
-          "recovered": 21711
+          "recovered": 22139
         }
       },
       "Niedersachsen": {
@@ -1611,9 +1611,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 61144,
+          "confirmed": 61309,
           "date": "2020-10-26",
-          "deaths": 1058,
+          "deaths": 1061,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 39660,
+          "confirmed": 40023,
           "date": "2020-10-26",
-          "deaths": 3045,
+          "deaths": 3050,
           "recovered": 0
         }
       },
@@ -1731,7 +1731,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 72875,
+          "confirmed": 73575,
           "date": "2020-10-26",
           "deaths": 376,
           "recovered": 0
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 38960,
+          "confirmed": 39158,
           "date": "2020-10-26",
-          "deaths": 569,
+          "deaths": 571,
           "recovered": 0
         }
       }
@@ -1797,7 +1797,7 @@
         "live": {
           "confirmed": 740262,
           "date": "2020-10-26",
-          "deaths": 39766,
+          "deaths": 39856,
           "recovered": 0
         }
       },
@@ -1805,7 +1805,7 @@
         "live": {
           "confirmed": 34105,
           "date": "2020-10-26",
-          "deaths": 653,
+          "deaths": 658,
           "recovered": 0
         }
       },
@@ -1813,7 +1813,7 @@
         "live": {
           "confirmed": 56752,
           "date": "2020-10-26",
-          "deaths": 2700,
+          "deaths": 2701,
           "recovered": 0
         }
       },
@@ -1821,7 +1821,7 @@
         "live": {
           "confirmed": 42681,
           "date": "2020-10-26",
-          "deaths": 1777,
+          "deaths": 1783,
           "recovered": 0
         }
       }
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 65577,
+      "confirmed": 65667,
       "date": "2020-10-26",
       "deaths": 552,
-      "recovered": 62742
+      "recovered": 62876
     }
   },
   "Venezuela": {
