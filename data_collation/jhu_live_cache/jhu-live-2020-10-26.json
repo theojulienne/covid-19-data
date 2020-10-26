@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 32585,
       "date": "2020-10-26",
-      "deaths": 949,
+      "deaths": 953,
       "recovered": 28258
     }
   },
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 309946,
+      "confirmed": 310148,
       "date": "2020-10-26",
       "deaths": 2397,
-      "recovered": 293109
+      "recovered": 293838
     }
   },
   "Italy": {
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 55750,
+      "confirmed": 56170,
       "date": "2020-10-26",
       "deaths": 1134,
-      "recovered": 47616
+      "recovered": 47843
     }
   },
   "Lebanon": {
