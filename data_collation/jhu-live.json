@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 50486,
+      "confirmed": 51149,
       "date": "2020-10-27",
-      "deaths": 679,
-      "recovered": 41410
+      "deaths": 688,
+      "recovered": 41693
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 93707,
+      "confirmed": 94609,
       "date": "2020-10-27",
-      "deaths": 961,
-      "recovered": 83748
+      "deaths": 965,
+      "recovered": 84237
     }
   },
   "Belgium": {
@@ -583,7 +583,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 31038,
+          "confirmed": 31570,
           "date": "2020-10-27",
           "deaths": 733,
           "recovered": 23726
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 574856,
+      "confirmed": 581824,
       "date": "2020-10-27",
-      "deaths": 32953,
-      "recovered": 459250
+      "deaths": 33299,
+      "recovered": 463611
     }
   },
   "Iraq": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 122317,
+      "confirmed": 123092,
       "date": "2020-10-27",
-      "deaths": 749,
-      "recovered": 113391
+      "deaths": 756,
+      "recovered": 114116
     }
   },
   "Kyrgyzstan": {
@@ -1137,10 +1137,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 159830,
+      "confirmed": 160400,
       "date": "2020-10-27",
-      "deaths": 862,
-      "recovered": 115675
+      "deaths": 876,
+      "recovered": 118843
     }
   },
   "Netherlands": {
@@ -1205,10 +1205,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 113354,
+      "confirmed": 113820,
       "date": "2020-10-27",
-      "deaths": 1190,
-      "recovered": 99668
+      "deaths": 1203,
+      "recovered": 99997
     }
   },
   "Pakistan": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 212492,
+      "confirmed": 217216,
       "date": "2020-10-27",
-      "deaths": 6470,
-      "recovered": 151811
+      "deaths": 6574,
+      "recovered": 155630
     }
   },
   "Russia": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 127042,
       "date": "2020-10-27",
-      "deaths": 2111,
+      "deaths": 2146,
       "recovered": 61700
     }
   },
