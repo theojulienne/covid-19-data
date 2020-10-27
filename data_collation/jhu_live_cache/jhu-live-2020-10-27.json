@@ -578,7 +578,7 @@
           "confirmed": 34200,
           "date": "2020-10-27",
           "deaths": 617,
-          "recovered": 22139
+          "recovered": 22641
         }
       },
       "Niedersachsen": {
@@ -837,10 +837,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 392934,
+      "confirmed": 396454,
       "date": "2020-10-27",
-      "deaths": 13411,
-      "recovered": 317672
+      "deaths": 13512,
+      "recovered": 322248
     }
   },
   "Iran": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 310851,
+      "confirmed": 311313,
       "date": "2020-10-27",
-      "deaths": 2453,
-      "recovered": 294854
+      "deaths": 2452,
+      "recovered": 295968
     }
   },
   "Italy": {
@@ -939,7 +939,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 30151,
+          "confirmed": 30309,
           "date": "2020-10-27",
           "deaths": 444,
           "recovered": 27889
@@ -1317,10 +1317,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 371630,
+      "confirmed": 373144,
       "date": "2020-10-27",
-      "deaths": 7039,
-      "recovered": 328258
+      "deaths": 7053,
+      "recovered": 328602
     }
   },
   "Poland": {
@@ -1433,7 +1433,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 57973,
+      "confirmed": 57980,
       "date": "2020-10-27",
       "deaths": 28,
       "recovered": 57879
