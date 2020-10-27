@@ -397,64 +397,64 @@
         "live": {
           "confirmed": 157970,
           "date": "2020-10-27",
-          "deaths": 3013,
-          "recovered": 141315
+          "deaths": 3048,
+          "recovered": 143512
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 70848,
           "date": "2020-10-27",
-          "deaths": 3115,
-          "recovered": 66377
+          "deaths": 3117,
+          "recovered": 66463
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 32223,
           "date": "2020-10-27",
-          "deaths": 830,
-          "recovered": 30531
+          "deaths": 833,
+          "recovered": 30633
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 311102,
           "date": "2020-10-27",
-          "deaths": 7490,
-          "recovered": 277868
+          "deaths": 7514,
+          "recovered": 280862
         }
       },
       "Cordoba": {
         "live": {
           "confirmed": 26008,
           "date": "2020-10-27",
-          "deaths": 1608,
-          "recovered": 23282
+          "deaths": 1609,
+          "recovered": 23286
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 40881,
           "date": "2020-10-27",
-          "deaths": 1166,
-          "recovered": 37048
+          "deaths": 1174,
+          "recovered": 37215
         }
       },
       "Santander": {
         "live": {
           "confirmed": 40238,
           "date": "2020-10-27",
-          "deaths": 1614,
-          "recovered": 35212
+          "deaths": 1622,
+          "recovered": 35383
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 79184,
           "date": "2020-10-27",
-          "deaths": 2696,
-          "recovered": 70449
+          "deaths": 2719,
+          "recovered": 71060
         }
       }
     }
@@ -1667,7 +1667,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 29588,
+          "confirmed": 29962,
           "date": "2020-10-27",
           "deaths": 870,
           "recovered": 0
