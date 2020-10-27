@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 41596,
+      "confirmed": 43151,
       "date": "2020-10-27",
-      "deaths": 1104,
-      "recovered": 26542
+      "deaths": 1125,
+      "recovered": 26903
     }
   },
   "Brazil": {
@@ -853,10 +853,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 455398,
+      "confirmed": 459908,
       "date": "2020-10-27",
-      "deaths": 10671,
-      "recovered": 384593
+      "deaths": 10724,
+      "recovered": 388081
     }
   },
   "Ireland": {
@@ -941,8 +941,8 @@
         "live": {
           "confirmed": 30309,
           "date": "2020-10-27",
-          "deaths": 444,
-          "recovered": 27889
+          "deaths": 445,
+          "recovered": 27986
         }
       }
     }
@@ -1005,10 +1005,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 57223,
+      "confirmed": 57975,
       "date": "2020-10-27",
-      "deaths": 801,
-      "recovered": 31515
+      "deaths": 812,
+      "recovered": 32253
     }
   },
   "Malaysia": {
@@ -1147,41 +1147,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 27960,
+          "confirmed": 28933,
           "date": "2020-10-27",
-          "deaths": 773,
+          "deaths": 781,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 44516,
+          "confirmed": 46189,
           "date": "2020-10-27",
-          "deaths": 1661,
+          "deaths": 1668,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 58828,
+          "confirmed": 60711,
           "date": "2020-10-27",
-          "deaths": 969,
+          "deaths": 983,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 26447,
+          "confirmed": 27286,
           "date": "2020-10-27",
-          "deaths": 483,
+          "deaths": 489,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 88559,
+          "confirmed": 91738,
           "date": "2020-10-27",
-          "deaths": 1620,
+          "deaths": 1647,
           "recovered": 0
         }
       }
@@ -1259,55 +1259,55 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 44256,
+          "confirmed": 44287,
           "date": "2020-10-27",
-          "deaths": 1437,
+          "deaths": 1440,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 36606,
+          "confirmed": 36672,
           "date": "2020-10-27",
-          "deaths": 1828,
+          "deaths": 1830,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 29419,
+          "confirmed": 29463,
           "date": "2020-10-27",
-          "deaths": 1664,
+          "deaths": 1665,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 32263,
+          "confirmed": 32350,
           "date": "2020-10-27",
-          "deaths": 2276,
+          "deaths": 2277,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 28321,
+          "confirmed": 28403,
           "date": "2020-10-27",
-          "deaths": 1769,
+          "deaths": 1770,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 402152,
+          "confirmed": 403028,
           "date": "2020-10-27",
-          "deaths": 15357,
+          "deaths": 15378,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 37983,
+          "confirmed": 38016,
           "date": "2020-10-27",
           "deaths": 2023,
           "recovered": 0
@@ -1417,10 +1417,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 345232,
+      "confirmed": 345631,
       "date": "2020-10-27",
-      "deaths": 5313,
-      "recovered": 331691
+      "deaths": 5329,
+      "recovered": 332117
     }
   },
   "Serbia": {
@@ -1551,9 +1551,9 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 30838,
+          "confirmed": 32516,
           "date": "2020-10-27",
-          "deaths": 2421,
+          "deaths": 2424,
           "recovered": 0
         }
       }
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 127042,
       "date": "2020-10-27",
-      "deaths": 2146,
+      "deaths": 2147,
       "recovered": 61700
     }
   },
