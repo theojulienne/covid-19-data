@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 321031,
+      "confirmed": 333718,
       "date": "2020-10-27",
-      "deaths": 10810,
-      "recovered": 23087
+      "deaths": 10899,
+      "recovered": 23256
     }
   },
   "Bolivia": {
@@ -567,7 +567,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 27023,
+          "confirmed": 27024,
           "date": "2020-10-27",
           "deaths": 251,
           "recovered": 18955
@@ -575,7 +575,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 32852,
+          "confirmed": 34200,
           "date": "2020-10-27",
           "deaths": 617,
           "recovered": 22641
@@ -583,7 +583,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 30954,
+          "confirmed": 31038,
           "date": "2020-10-27",
           "deaths": 733,
           "recovered": 23726
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 56170,
+      "confirmed": 56738,
       "date": "2020-10-27",
-      "deaths": 1134,
-      "recovered": 47843
+      "deaths": 1136,
+      "recovered": 48223
     }
   },
   "Lebanon": {
@@ -1829,9 +1829,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 65667,
+      "confirmed": 65765,
       "date": "2020-10-27",
-      "deaths": 552,
+      "deaths": 554,
       "recovered": 62876
     }
   },
