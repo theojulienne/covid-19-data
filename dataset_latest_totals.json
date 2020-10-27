@@ -479,8 +479,8 @@
         "recovered": 4526393
       },
       "latest": {
-        "confirmed": 5380635,
-        "deaths": 156903,
+        "confirmed": 5394128,
+        "deaths": 157134,
         "recovered": 4526393
       }
     },
@@ -3756,17 +3756,17 @@
       "back_1week": {
         "confirmed": 63523,
         "deaths": 531,
-        "recovered": 60080
+        "recovered": 60604
       },
       "back_2week": {
         "confirmed": 61319,
         "deaths": 509,
-        "recovered": 58069
+        "recovered": 58306
       },
       "latest": {
         "confirmed": 65667,
         "deaths": 552,
-        "recovered": 62509
+        "recovered": 62876
       }
     },
     "VAT": {
