@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 83267,
+      "confirmed": 86102,
       "date": "2020-10-27",
-      "deaths": 992,
-      "recovered": 59036
+      "deaths": 1005,
+      "recovered": 60308
     }
   },
   "Azerbaijan": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 37208,
+      "confirmed": 38621,
       "date": "2020-10-27",
-      "deaths": 452,
-      "recovered": 25837
+      "deaths": 470,
+      "recovered": 26840
     }
   },
   "Czechia": {
@@ -578,7 +578,7 @@
           "confirmed": 34200,
           "date": "2020-10-27",
           "deaths": 617,
-          "recovered": 22139
+          "recovered": 22641
         }
       },
       "Niedersachsen": {
@@ -586,7 +586,7 @@
           "confirmed": 31038,
           "date": "2020-10-27",
           "deaths": 733,
-          "recovered": 23275
+          "recovered": 23726
         }
       },
       "Nordrhein-Westfalen": {
@@ -1561,7 +1561,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 121093,
+      "confirmed": 127042,
       "date": "2020-10-27",
       "deaths": 2111,
       "recovered": 61700
