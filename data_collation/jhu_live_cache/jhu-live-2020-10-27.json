@@ -559,7 +559,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 91697,
+          "confirmed": 93290,
           "date": "2020-10-27",
           "deaths": 2756,
           "recovered": 71492
@@ -577,7 +577,7 @@
         "live": {
           "confirmed": 32852,
           "date": "2020-10-27",
-          "deaths": 611,
+          "deaths": 617,
           "recovered": 22641
         }
       },
@@ -585,13 +585,13 @@
         "live": {
           "confirmed": 30954,
           "date": "2020-10-27",
-          "deaths": 732,
+          "deaths": 733,
           "recovered": 23726
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 110516,
+          "confirmed": 114194,
           "date": "2020-10-27",
           "deaths": 2031,
           "recovered": 79159
@@ -1595,7 +1595,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 608525,
+          "confirmed": 608620,
           "date": "2020-10-27",
           "deaths": 12536,
           "recovered": 0
