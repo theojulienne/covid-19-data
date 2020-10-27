@@ -279,7 +279,8 @@ var covid19_dataset_country_bhr = {
     "2020-10-24",
     "2020-10-25",
     "2020-10-26",
-    "2020-10-27"
+    "2020-10-27",
+    "2020-10-28"
   ],
   "total": {
     "confirmed": [
@@ -840,8 +841,7 @@ var covid19_dataset_country_bhr = {
       308,
       311,
       312,
-      312,
-      315
+      312
     ],
     "recovered": [
       0,
