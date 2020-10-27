@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1102301,
+      "confirmed": 1116609,
       "date": "2020-10-27",
-      "deaths": 29301,
-      "recovered": 909586
+      "deaths": 29730,
+      "recovered": 921344
     }
   },
   "Armenia": {
@@ -333,12 +333,20 @@
   },
   "Canada": {
     "subseries": {
+      "Alberta": {
+        "live": {
+          "confirmed": 26155,
+          "date": "2020-10-27",
+          "deaths": 309,
+          "recovered": 21108
+        }
+      },
       "Ontario": {
         "live": {
-          "confirmed": 74741,
+          "confirmed": 74867,
           "date": "2020-10-27",
           "deaths": 3153,
-          "recovered": 64272
+          "recovered": 64363
         }
       },
       "Quebec": {
@@ -425,14 +433,6 @@
           "recovered": 280862
         }
       },
-      "Cordoba": {
-        "live": {
-          "confirmed": 26008,
-          "date": "2020-10-27",
-          "deaths": 1609,
-          "recovered": 23286
-        }
-      },
       "Cundinamarca": {
         "live": {
           "confirmed": 40881,
@@ -509,10 +509,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 106707,
+      "confirmed": 106877,
       "date": "2020-10-27",
-      "deaths": 6211,
-      "recovered": 98981
+      "deaths": 6222,
+      "recovered": 99084
     }
   },
   "El Salvador": {
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 491971,
+          "confirmed": 492316,
           "date": "2020-10-27",
           "deaths": 9210,
           "recovered": 0
