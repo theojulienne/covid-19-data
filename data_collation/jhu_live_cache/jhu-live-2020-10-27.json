@@ -335,7 +335,7 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 73984,
+          "confirmed": 74094,
           "date": "2020-10-27",
           "deaths": 3151,
           "recovered": 63583
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 124843,
+      "confirmed": 125008,
       "date": "2020-10-27",
-      "deaths": 2225,
-      "recovered": 103081
+      "deaths": 2226,
+      "recovered": 103324
     }
   },
   "Ecuador": {
@@ -559,10 +559,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 93290,
+          "confirmed": 93786,
           "date": "2020-10-27",
           "deaths": 2756,
-          "recovered": 71492
+          "recovered": 72312
         }
       },
       "Berlin": {
@@ -949,9 +949,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 55055,
+      "confirmed": 58855,
       "date": "2020-10-27",
-      "deaths": 624,
+      "deaths": 668,
       "recovered": 7508
     }
   },
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 121133,
+      "confirmed": 124432,
       "date": "2020-10-27",
-      "deaths": 2343,
-      "recovered": 69956
+      "deaths": 2371,
+      "recovered": 72344
     }
   },
   "Qatar": {
