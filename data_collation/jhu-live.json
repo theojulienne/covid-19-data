@@ -337,16 +337,16 @@
         "live": {
           "confirmed": 74094,
           "date": "2020-10-27",
-          "deaths": 3151,
-          "recovered": 63583
+          "deaths": 3152,
+          "recovered": 63733
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 100922,
+          "confirmed": 101885,
           "date": "2020-10-27",
-          "deaths": 6153,
-          "recovered": 85822
+          "deaths": 6172,
+          "recovered": 86786
         }
       }
     }
@@ -567,10 +567,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 27024,
+          "confirmed": 28063,
           "date": "2020-10-27",
           "deaths": 251,
-          "recovered": 18955
+          "recovered": 19063
         }
       },
       "Hessen": {
@@ -609,18 +609,18 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 31496,
+      "confirmed": 32752,
       "date": "2020-10-27",
-      "deaths": 581,
+      "deaths": 593,
       "recovered": 1347
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 104894,
+      "confirmed": 105571,
       "date": "2020-10-27",
-      "deaths": 3651,
-      "recovered": 94530
+      "deaths": 3665,
+      "recovered": 95206
     }
   },
   "Honduras": {
@@ -1121,10 +1121,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 71811,
+      "confirmed": 72460,
       "date": "2020-10-27",
-      "deaths": 1700,
-      "recovered": 52730
+      "deaths": 1710,
+      "recovered": 53201
     }
   },
   "Morocco": {
@@ -1436,7 +1436,7 @@
       "confirmed": 57980,
       "date": "2020-10-27",
       "deaths": 28,
-      "recovered": 57879
+      "recovered": 57883
     }
   },
   "Slovakia": {
@@ -1564,7 +1564,7 @@
       "confirmed": 127042,
       "date": "2020-10-27",
       "deaths": 2147,
-      "recovered": 61700
+      "recovered": 62700
     }
   },
   "Tunisia": {
@@ -1577,10 +1577,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 363999,
+      "confirmed": 366208,
       "date": "2020-10-27",
-      "deaths": 9874,
-      "recovered": 316008
+      "deaths": 9950,
+      "recovered": 317519
     }
   },
   "US": {
@@ -1603,9 +1603,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 444085,
+          "confirmed": 446242,
           "date": "2020-10-27",
-          "deaths": 8516,
+          "deaths": 8532,
           "recovered": 0
         }
       },
@@ -1627,9 +1627,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 26055,
+          "confirmed": 26255,
           "date": "2020-10-27",
-          "deaths": 792,
+          "deaths": 795,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 34290,
+          "confirmed": 34657,
           "date": "2020-10-27",
-          "deaths": 991,
+          "deaths": 994,
           "recovered": 0
         }
       },
@@ -1691,9 +1691,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 33279,
+          "confirmed": 33552,
           "date": "2020-10-27",
-          "deaths": 384,
+          "deaths": 386,
           "recovered": 0
         }
       },
