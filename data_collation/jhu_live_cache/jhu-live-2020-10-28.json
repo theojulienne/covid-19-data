@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 56738,
+      "confirmed": 57276,
       "date": "2020-10-28",
-      "deaths": 1136,
-      "recovered": 48223
+      "deaths": 1138,
+      "recovered": 48637
     }
   },
   "Lebanon": {
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 65881,
+      "confirmed": 66037,
       "date": "2020-10-28",
-      "deaths": 556,
-      "recovered": 63044
+      "deaths": 557,
+      "recovered": 63165
     }
   },
   "Venezuela": {
