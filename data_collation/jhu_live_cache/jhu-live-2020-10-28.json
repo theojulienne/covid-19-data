@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 74871,
+          "confirmed": 74997,
           "date": "2020-10-28",
-          "deaths": 3153,
-          "recovered": 64363
+          "deaths": 3154,
+          "recovered": 64501
         }
       },
       "Quebec": {
@@ -554,7 +554,7 @@
           "confirmed": 72884,
           "date": "2020-10-28",
           "deaths": 1986,
-          "recovered": 53193
+          "recovered": 53872
         }
       },
       "Bayern": {
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 40880,
+      "confirmed": 42208,
       "date": "2020-10-28",
-      "deaths": 798,
+      "deaths": 803,
       "recovered": 0
     }
   },
@@ -1428,7 +1428,7 @@
       "confirmed": 57987,
       "date": "2020-10-28",
       "deaths": 28,
-      "recovered": 57883
+      "recovered": 57890
     }
   },
   "Slovakia": {
@@ -1603,9 +1603,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 446242,
+          "confirmed": 448472,
           "date": "2020-10-28",
-          "deaths": 8532,
+          "deaths": 8559,
           "recovered": 0
         }
       },
