@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 94609,
+      "confirmed": 95545,
       "date": "2020-10-28",
-      "deaths": 965,
-      "recovered": 84237
+      "deaths": 969,
+      "recovered": 84690
     }
   },
   "Belgium": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 123092,
+      "confirmed": 123906,
       "date": "2020-10-28",
-      "deaths": 756,
-      "recovered": 114116
+      "deaths": 763,
+      "recovered": 114923
     }
   },
   "Kyrgyzstan": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 217216,
+      "confirmed": 222559,
       "date": "2020-10-28",
-      "deaths": 6574,
-      "recovered": 155630
+      "deaths": 6681,
+      "recovered": 159855
     }
   },
   "Russia": {
