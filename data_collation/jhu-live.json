@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 110684,
+      "confirmed": 110832,
       "date": "2020-10-28",
-      "deaths": 1796,
-      "recovered": 105766
+      "deaths": 1825,
+      "recovered": 105883
     }
   },
   "Kenya": {
