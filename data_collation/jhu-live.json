@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 93966,
+      "confirmed": 94623,
       "date": "2020-10-28",
-      "deaths": 2633,
-      "recovered": 38536
+      "deaths": 2639,
+      "recovered": 38833
     }
   },
   "Hungary": {
@@ -1667,9 +1667,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 29962,
+          "confirmed": 30135,
           "date": "2020-10-28",
-          "deaths": 870,
+          "deaths": 885,
           "recovered": 0
         }
       },
