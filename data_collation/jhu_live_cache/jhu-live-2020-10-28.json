@@ -1241,10 +1241,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 129751,
+      "confirmed": 130422,
       "date": "2020-10-28",
-      "deaths": 2638,
-      "recovered": 105710
+      "deaths": 2650,
+      "recovered": 106440
     }
   },
   "Paraguay": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 611271,
+          "confirmed": 611524,
           "date": "2020-10-28",
-          "deaths": 12582,
+          "deaths": 12589,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 492438,
+          "confirmed": 492612,
           "date": "2020-10-28",
           "deaths": 9210,
           "recovered": 0
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 90047,
+      "confirmed": 90400,
       "date": "2020-10-28",
-      "deaths": 777,
-      "recovered": 84444
+      "deaths": 780,
+      "recovered": 84907
     }
   },
   "West Bank and Gaza": {
