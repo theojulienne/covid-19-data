@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 74997,
+          "confirmed": 75005,
           "date": "2020-10-28",
           "deaths": 3154,
-          "recovered": 64501
+          "recovered": 64507
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1206014,
+      "confirmed": 1241000,
       "date": "2020-10-28",
-      "deaths": 35268,
-      "recovered": 92830
+      "deaths": 35504,
+      "recovered": 94091
     }
   },
   "Georgia": {
@@ -551,10 +551,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 72884,
+          "confirmed": 75137,
           "date": "2020-10-28",
-          "deaths": 1986,
-          "recovered": 53193
+          "deaths": 1999,
+          "recovered": 53872
         }
       },
       "Bayern": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 312024,
+      "confirmed": 312417,
       "date": "2020-10-28",
-      "deaths": 2483,
-      "recovered": 296770
+      "deaths": 2484,
+      "recovered": 297881
     }
   },
   "Italy": {
@@ -989,10 +989,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 73995,
+      "confirmed": 75845,
       "date": "2020-10-28",
-      "deaths": 590,
-      "recovered": 36797
+      "deaths": 602,
+      "recovered": 37787
     }
   },
   "Libya": {
@@ -1121,10 +1121,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 203733,
+      "confirmed": 207718,
       "date": "2020-10-28",
-      "deaths": 3445,
-      "recovered": 168706
+      "deaths": 3506,
+      "recovered": 171591
     }
   },
   "Nepal": {
@@ -1569,18 +1569,18 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 52399,
+      "confirmed": 54278,
       "date": "2020-10-28",
-      "deaths": 983,
+      "deaths": 1153,
       "recovered": 5032
     }
   },
   "Turkey": {
     "live": {
-      "confirmed": 366208,
+      "confirmed": 368513,
       "date": "2020-10-28",
-      "deaths": 9950,
-      "recovered": 317519
+      "deaths": 10027,
+      "recovered": 319181
     }
   },
   "US": {
@@ -1595,7 +1595,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 612131,
+          "confirmed": 612274,
           "date": "2020-10-28",
           "deaths": 12593,
           "recovered": 0
@@ -1699,17 +1699,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 32767,
+          "confirmed": 33084,
           "date": "2020-10-28",
-          "deaths": 642,
+          "deaths": 643,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 43365,
+          "confirmed": 43740,
           "date": "2020-10-28",
-          "deaths": 1864,
+          "deaths": 1867,
           "recovered": 0
         }
       },
@@ -1723,9 +1723,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 493672,
+          "confirmed": 493876,
           "date": "2020-10-28",
-          "deaths": 9210,
+          "deaths": 9216,
           "recovered": 0
         }
       },
