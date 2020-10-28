@@ -551,15 +551,15 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 72735,
+          "confirmed": 72884,
           "date": "2020-10-28",
           "deaths": 1986,
-          "recovered": 53872
+          "recovered": 53193
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 93786,
+          "confirmed": 96420,
           "date": "2020-10-28",
           "deaths": 2772,
           "recovered": 72312
@@ -567,7 +567,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 28063,
+          "confirmed": 28064,
           "date": "2020-10-28",
           "deaths": 251,
           "recovered": 19345
@@ -575,15 +575,15 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 34200,
+          "confirmed": 35688,
           "date": "2020-10-28",
-          "deaths": 617,
+          "deaths": 629,
           "recovered": 23315
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 31570,
+          "confirmed": 32244,
           "date": "2020-10-28",
           "deaths": 735,
           "recovered": 24204
@@ -591,7 +591,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 114194,
+          "confirmed": 117278,
           "date": "2020-10-28",
           "deaths": 2059,
           "recovered": 82054
@@ -837,10 +837,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 396454,
+      "confirmed": 400483,
       "date": "2020-10-28",
-      "deaths": 13512,
-      "recovered": 322248
+      "deaths": 13612,
+      "recovered": 325793
     }
   },
   "Iran": {
@@ -1317,10 +1317,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 373144,
+      "confirmed": 375180,
       "date": "2020-10-28",
-      "deaths": 7053,
-      "recovered": 328602
+      "deaths": 7114,
+      "recovered": 329111
     }
   },
   "Poland": {
@@ -1328,7 +1328,7 @@
       "confirmed": 280229,
       "date": "2020-10-28",
       "deaths": 4615,
-      "recovered": 119237
+      "recovered": 123504
     }
   },
   "Portugal": {
@@ -1441,10 +1441,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 46056,
+      "confirmed": 48943,
       "date": "2020-10-28",
-      "deaths": 176,
-      "recovered": 11008
+      "deaths": 184,
+      "recovered": 11799
     }
   },
   "South Africa": {
