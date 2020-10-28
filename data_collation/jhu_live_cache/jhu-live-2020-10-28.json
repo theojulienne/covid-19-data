@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 75234,
+          "confirmed": 75571,
           "date": "2020-10-28",
-          "deaths": 3154,
-          "recovered": 64742
+          "deaths": 3159,
+          "recovered": 65041
         }
       },
       "Quebec": {
@@ -1189,10 +1189,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 27827,
+      "confirmed": 28697,
       "date": "2020-10-28",
-      "deaths": 949,
-      "recovered": 19479
+      "deaths": 963,
+      "recovered": 19771
     }
   },
   "Oman": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 717851,
+      "confirmed": 719714,
       "date": "2020-10-28",
-      "deaths": 19053,
-      "recovered": 647833
+      "deaths": 19111,
+      "recovered": 648654
     }
   },
   "Spain": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 612274,
+          "confirmed": 612580,
           "date": "2020-10-28",
-          "deaths": 12593,
+          "deaths": 12595,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 59586,
+          "confirmed": 59960,
           "date": "2020-10-28",
-          "deaths": 3428,
+          "deaths": 3438,
           "recovered": 0
         }
       },
