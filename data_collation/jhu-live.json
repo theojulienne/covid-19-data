@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 28895,
+          "confirmed": 29106,
           "date": "2020-10-29",
-          "deaths": 456,
-          "recovered": 27210
+          "deaths": 473,
+          "recovered": 27365
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 295796,
+          "confirmed": 296129,
           "date": "2020-10-29",
-          "deaths": 9794,
-          "recovered": 284053
+          "deaths": 9814,
+          "recovered": 284279
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30119,
+          "confirmed": 30188,
           "date": "2020-10-29",
-          "deaths": 1036,
-          "recovered": 28630
+          "deaths": 1046,
+          "recovered": 28683
         }
       }
     }
@@ -609,9 +609,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 34299,
+      "confirmed": 35510,
       "date": "2020-10-29",
-      "deaths": 603,
+      "deaths": 615,
       "recovered": 1347
     }
   },
@@ -1121,10 +1121,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 207718,
+      "confirmed": 212038,
       "date": "2020-10-29",
-      "deaths": 3506,
-      "recovered": 171591
+      "deaths": 3572,
+      "recovered": 174911
     }
   },
   "Nepal": {
@@ -1587,15 +1587,15 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 183913,
+          "confirmed": 184803,
           "date": "2020-10-29",
-          "deaths": 4195,
+          "deaths": 4204,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 614632,
+          "confirmed": 614913,
           "date": "2020-10-29",
           "deaths": 12628,
           "recovered": 0
@@ -1619,9 +1619,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 181108,
+          "confirmed": 183649,
           "date": "2020-10-29",
-          "deaths": 5450,
+          "deaths": 5463,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 80104,
+          "confirmed": 80794,
           "date": "2020-10-29",
-          "deaths": 1506,
+          "deaths": 1508,
           "recovered": 0
         }
       },
@@ -1685,7 +1685,7 @@
         "live": {
           "confirmed": 382394,
           "date": "2020-10-29",
-          "deaths": 28563,
+          "deaths": 28573,
           "recovered": 0
         }
       },
