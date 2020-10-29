@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 403079,
+      "confirmed": 404760,
       "date": "2020-10-29",
-      "deaths": 5861,
-      "recovered": 319733
+      "deaths": 5886,
+      "recovered": 321281
     }
   },
   "Belarus": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 40999,
+      "confirmed": 43775,
       "date": "2020-10-29",
-      "deaths": 493,
-      "recovered": 27770
+      "deaths": 511,
+      "recovered": 29233
     }
   },
   "Czechia": {
@@ -554,7 +554,7 @@
           "confirmed": 75164,
           "date": "2020-10-29",
           "deaths": 2000,
-          "recovered": 53872
+          "recovered": 54611
         }
       },
       "Bayern": {
@@ -967,7 +967,7 @@
     "live": {
       "confirmed": 51851,
       "date": "2020-10-29",
-      "deaths": 934,
+      "deaths": 950,
       "recovered": 35258
     }
   },
@@ -1317,10 +1317,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 299049,
+      "confirmed": 319205,
       "date": "2020-10-29",
-      "deaths": 4849,
-      "recovered": 123504
+      "deaths": 5149,
+      "recovered": 129267
     }
   },
   "Portugal": {
@@ -1433,10 +1433,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 48943,
+      "confirmed": 51728,
       "date": "2020-10-29",
-      "deaths": 184,
-      "recovered": 11799
+      "deaths": 200,
+      "recovered": 12227
     }
   },
   "Slovenia": {
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 129024,
+      "confirmed": 130336,
       "date": "2020-10-29",
-      "deaths": 485,
-      "recovered": 124647
+      "deaths": 488,
+      "recovered": 126147
     }
   },
   "United Kingdom": {
