@@ -1651,9 +1651,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 40861,
+          "confirmed": 41345,
           "date": "2020-10-29",
-          "deaths": 3052,
+          "deaths": 3054,
           "recovered": 0
         }
       },
@@ -1795,33 +1795,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 799019,
+          "confirmed": 818759,
           "date": "2020-10-29",
-          "deaths": 40414,
+          "deaths": 40628,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 36394,
+          "confirmed": 37216,
           "date": "2020-10-29",
-          "deaths": 680,
+          "deaths": 688,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 60403,
+          "confirmed": 61531,
           "date": "2020-10-29",
-          "deaths": 2754,
+          "deaths": 2791,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 46459,
+          "confirmed": 47834,
           "date": "2020-10-29",
-          "deaths": 1827,
+          "deaths": 1848,
           "recovered": 0
         }
       }
