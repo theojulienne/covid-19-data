@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 67451,
-        "deaths": 914,
-        "recovered": 51407
+        "confirmed": 69409,
+        "deaths": 925,
+        "recovered": 52617
       },
       "back_2week": {
-        "confirmed": 57326,
-        "deaths": 861,
-        "recovered": 44949
+        "confirmed": 58672,
+        "deaths": 872,
+        "recovered": 45846
       },
       "latest": {
-        "confirmed": 86102,
-        "deaths": 1005,
-        "recovered": 60308
+        "confirmed": 89496,
+        "deaths": 1027,
+        "recovered": 61684
       }
     },
     "AZE": {
@@ -1102,19 +1102,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 36373,
-        "deaths": 688,
-        "recovered": 29998
+        "confirmed": 37003,
+        "deaths": 690,
+        "recovered": 30432
       },
       "back_2week": {
-        "confirmed": 33101,
-        "deaths": 674,
-        "recovered": 27225
+        "confirmed": 33593,
+        "deaths": 675,
+        "recovered": 27680
       },
       "latest": {
-        "confirmed": 42157,
-        "deaths": 709,
-        "recovered": 32697
+        "confirmed": 43174,
+        "deaths": 715,
+        "recovered": 33126
       },
       "states": {
         "Faroe Islands": {
@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 434598,
-        "deaths": 10366,
-        "recovered": 366134
+        "confirmed": 438265,
+        "deaths": 10418,
+        "recovered": 369010
       },
       "back_2week": {
-        "confirmed": 409358,
-        "deaths": 9970,
-        "recovered": 344208
+        "confirmed": 413215,
+        "deaths": 10021,
+        "recovered": 347396
       },
       "latest": {
-        "confirmed": 459908,
-        "deaths": 10724,
-        "recovered": 388081
+        "confirmed": 463951,
+        "deaths": 10770,
+        "recovered": 391010
       }
     },
     "ISL": {
@@ -2051,19 +2051,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 50906,
-        "deaths": 746,
-        "recovered": 27832
+        "confirmed": 51625,
+        "deaths": 765,
+        "recovered": 28440
       },
       "back_2week": {
-        "confirmed": 44985,
-        "deaths": 656,
-        "recovered": 25007
+        "confirmed": 45821,
+        "deaths": 669,
+        "recovered": 25301
       },
       "latest": {
-        "confirmed": 57975,
-        "deaths": 812,
-        "recovered": 32253
+        "confirmed": 58874,
+        "deaths": 823,
+        "recovered": 32962
       }
     },
     "LCA": {
@@ -2796,19 +2796,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 129944,
-        "deaths": 224,
-        "recovered": 126866
+        "confirmed": 130210,
+        "deaths": 225,
+        "recovered": 127093
       },
       "back_2week": {
-        "confirmed": 128405,
+        "confirmed": 128603,
         "deaths": 220,
-        "recovered": 125373
+        "recovered": 125584
       },
       "latest": {
-        "confirmed": 131689,
+        "confirmed": 131939,
         "deaths": 230,
-        "recovered": 128617
+        "recovered": 128884
       }
     },
     "RKS": {
@@ -2881,19 +2881,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 342968,
-        "deaths": 5217,
-        "recovered": 329270
+        "confirmed": 343373,
+        "deaths": 5235,
+        "recovered": 329715
       },
       "back_2week": {
-        "confirmed": 340089,
-        "deaths": 5087,
-        "recovered": 326339
+        "confirmed": 340590,
+        "deaths": 5108,
+        "recovered": 326820
       },
       "latest": {
-        "confirmed": 345631,
-        "deaths": 5329,
-        "recovered": 332117
+        "confirmed": 346047,
+        "deaths": 5348,
+        "recovered": 332550
       }
     },
     "SDN": {
