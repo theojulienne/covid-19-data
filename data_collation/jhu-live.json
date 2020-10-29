@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 297013,
+      "confirmed": 303984,
       "date": "2020-10-29",
-      "deaths": 2675,
-      "recovered": 119373
+      "deaths": 2826,
+      "recovered": 120205
     }
   },
   "Denmark": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1240862,
+      "confirmed": 1288499,
       "date": "2020-10-29",
-      "deaths": 35493,
-      "recovered": 94048
+      "deaths": 35728,
+      "recovered": 95358
     }
   },
   "Georgia": {
@@ -559,18 +559,18 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 98998,
+          "confirmed": 99472,
           "date": "2020-10-29",
           "deaths": 2789,
-          "recovered": 73434
+          "recovered": 74607
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 29225,
+          "confirmed": 30355,
           "date": "2020-10-29",
           "deaths": 253,
-          "recovered": 19753
+          "recovered": 19868
         }
       },
       "Hessen": {
@@ -861,9 +861,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 59434,
+      "confirmed": 60297,
       "date": "2020-10-29",
-      "deaths": 1896,
+      "deaths": 1902,
       "recovered": 23364
     }
   },
@@ -1189,10 +1189,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 28697,
+      "confirmed": 29558,
       "date": "2020-10-29",
-      "deaths": 963,
-      "recovered": 19771
+      "deaths": 977,
+      "recovered": 19994
     }
   },
   "Oman": {
@@ -1595,7 +1595,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 614913,
+          "confirmed": 615028,
           "date": "2020-10-29",
           "deaths": 12628,
           "recovered": 0
@@ -1699,7 +1699,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33084,
+          "confirmed": 33397,
           "date": "2020-10-29",
           "deaths": 643,
           "recovered": 0
@@ -1707,9 +1707,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 43740,
+          "confirmed": 44139,
           "date": "2020-10-29",
-          "deaths": 1867,
+          "deaths": 1868,
           "recovered": 0
         }
       },
@@ -1723,17 +1723,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 496720,
+          "confirmed": 497639,
           "date": "2020-10-29",
-          "deaths": 9244,
+          "deaths": 9251,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 75353,
+          "confirmed": 76459,
           "date": "2020-10-29",
-          "deaths": 383,
+          "deaths": 387,
           "recovered": 0
         }
       },
