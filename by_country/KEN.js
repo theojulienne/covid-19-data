@@ -851,7 +851,7 @@ var covid19_dataset_country_ken = {
       920,
       934,
       934,
-      950
+      964
     ],
     "recovered": [
       0,

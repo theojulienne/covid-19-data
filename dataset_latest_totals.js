@@ -631,7 +631,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 101885,
+          "confirmed": 102814,
           "deaths": 6172
         },
         "Saskatchewan": {
@@ -1267,19 +1267,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 90490,
-        "deaths": 1371,
-        "recovered": 43638
+        "confirmed": 91118,
+        "deaths": 1384,
+        "recovered": 44506
       },
       "back_2week": {
-        "confirmed": 85718,
-        "deaths": 1305,
-        "recovered": 39307
+        "confirmed": 86430,
+        "deaths": 1312,
+        "recovered": 40165
       },
       "latest": {
-        "confirmed": 94218,
-        "deaths": 1445,
-        "recovered": 48968
+        "confirmed": 94820,
+        "deaths": 1451,
+        "recovered": 49886
       }
     },
     "FIN": {
@@ -1814,17 +1814,17 @@ var covid19_dataset_latest_totals = {
     "ISR": {
       "back_1week": {
         "confirmed": 307335,
-        "deaths": 2278,
+        "deaths": 2291,
         "recovered": 285475
       },
       "back_2week": {
         "confirmed": 298500,
-        "deaths": 2055,
+        "deaths": 2098,
         "recovered": 251711
       },
       "latest": {
         "confirmed": 312550,
-        "deaths": 2483,
+        "deaths": 2494,
         "recovered": 298043
       }
     },
@@ -2017,19 +2017,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 64336,
-        "deaths": 531,
-        "recovered": 29498
+        "confirmed": 65577,
+        "deaths": 536,
+        "recovered": 30470
       },
       "back_2week": {
-        "confirmed": 55869,
-        "deaths": 479,
-        "recovered": 24581
+        "confirmed": 57246,
+        "deaths": 499,
+        "recovered": 25164
       },
       "latest": {
-        "confirmed": 73995,
-        "deaths": 590,
-        "recovered": 36797
+        "confirmed": 75845,
+        "deaths": 602,
+        "recovered": 37787
       }
     },
     "LBR": {
