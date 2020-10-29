@@ -632,7 +632,7 @@ var covid19_dataset_latest_totals = {
         },
         "Quebec": {
           "confirmed": 102814,
-          "deaths": 6172
+          "deaths": 6189
         },
         "Saskatchewan": {
           "confirmed": 2841,
@@ -983,19 +983,19 @@ var covid19_dataset_latest_totals = {
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 97922,
-        "deaths": 1222,
-        "recovered": 60109
+        "confirmed": 99425,
+        "deaths": 1236,
+        "recovered": 60738
       },
       "back_2week": {
-        "confirmed": 90238,
-        "deaths": 1124,
-        "recovered": 53670
+        "confirmed": 91780,
+        "deaths": 1134,
+        "recovered": 54155
       },
       "latest": {
-        "confirmed": 105322,
-        "deaths": 1329,
-        "recovered": 64406
+        "confirmed": 106553,
+        "deaths": 1340,
+        "recovered": 64996
       }
     },
     "CUB": {
@@ -1165,18 +1165,18 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 154115,
-        "deaths": 12404,
+        "confirmed": 155625,
+        "deaths": 12453,
         "recovered": 134187
       },
       "back_2week": {
-        "confirmed": 148171,
-        "deaths": 12235,
+        "confirmed": 149083,
+        "deaths": 12264,
         "recovered": 128134
       },
       "latest": {
-        "confirmed": 163192,
-        "deaths": 12588,
+        "confirmed": 164908,
+        "deaths": 12608,
         "recovered": 141759
       }
     },
@@ -3873,19 +3873,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 706304,
-        "deaths": 18656,
-        "recovered": 639568
+        "confirmed": 708359,
+        "deaths": 18741,
+        "recovered": 641706
       },
       "back_2week": {
-        "confirmed": 694537,
-        "deaths": 18028,
-        "recovered": 625574
+        "confirmed": 696414,
+        "deaths": 18151,
+        "recovered": 626898
       },
       "latest": {
-        "confirmed": 717851,
-        "deaths": 19053,
-        "recovered": 647833
+        "confirmed": 719714,
+        "deaths": 19111,
+        "recovered": 648654
       }
     },
     "ZMB": {
