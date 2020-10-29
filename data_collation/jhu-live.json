@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 292280,
+      "confirmed": 297013,
       "date": "2020-10-29",
-      "deaths": 2630,
-      "recovered": 111963
+      "deaths": 2675,
+      "recovered": 119373
     }
   },
   "Denmark": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1240993,
+      "confirmed": 1240862,
       "date": "2020-10-29",
-      "deaths": 35504,
-      "recovered": 94091
+      "deaths": 35493,
+      "recovered": 94048
     }
   },
   "Georgia": {
@@ -1241,10 +1241,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 60557,
+      "confirmed": 61290,
       "date": "2020-10-29",
-      "deaths": 1347,
-      "recovered": 40748
+      "deaths": 1359,
+      "recovered": 41288
     }
   },
   "Peru": {
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 496439,
+          "confirmed": 496720,
           "date": "2020-10-29",
           "deaths": 9244,
           "recovered": 0
