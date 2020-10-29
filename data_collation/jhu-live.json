@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 52137,
+      "confirmed": 53152,
       "date": "2020-10-29",
-      "deaths": 699,
-      "recovered": 42033
+      "deaths": 708,
+      "recovered": 42516
     }
   },
   "Bahrain": {
@@ -583,9 +583,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 32980,
+          "confirmed": 33895,
           "date": "2020-10-29",
-          "deaths": 737,
+          "deaths": 741,
           "recovered": 24739
         }
       },
@@ -942,7 +942,7 @@
           "confirmed": 30701,
           "date": "2020-10-29",
           "deaths": 445,
-          "recovered": 28218
+          "recovered": 28373
         }
       }
     }
@@ -973,10 +973,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 123906,
+      "confirmed": 124666,
       "date": "2020-10-29",
-      "deaths": 763,
-      "recovered": 114923
+      "deaths": 767,
+      "recovered": 115475
     }
   },
   "Kyrgyzstan": {
