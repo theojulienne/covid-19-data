@@ -110,7 +110,7 @@
           "confirmed": 90497,
           "date": "2020-10-30",
           "deaths": 2226,
-          "recovered": 87424
+          "recovered": 87530
         }
       },
       "Amapa": {
@@ -126,7 +126,7 @@
           "confirmed": 159583,
           "date": "2020-10-30",
           "deaths": 4491,
-          "recovered": 135376
+          "recovered": 136063
         }
       },
       "Bahia": {
@@ -134,7 +134,7 @@
           "confirmed": 349711,
           "date": "2020-10-30",
           "deaths": 7546,
-          "recovered": 334760
+          "recovered": 336171
         }
       },
       "Ceara": {
@@ -142,7 +142,7 @@
           "confirmed": 272104,
           "date": "2020-10-30",
           "deaths": 9325,
-          "recovered": 232559
+          "recovered": 233043
         }
       },
       "Distrito Federal": {
@@ -158,7 +158,7 @@
           "confirmed": 153004,
           "date": "2020-10-30",
           "deaths": 3826,
-          "recovered": 141405
+          "recovered": 142114
         }
       },
       "Goias": {
@@ -166,7 +166,7 @@
           "confirmed": 252333,
           "date": "2020-10-30",
           "deaths": 5654,
-          "recovered": 242825
+          "recovered": 243964
         }
       },
       "Maranhao": {
@@ -182,7 +182,7 @@
           "confirmed": 141619,
           "date": "2020-10-30",
           "deaths": 3773,
-          "recovered": 132576
+          "recovered": 133333
         }
       },
       "Mato Grosso do Sul": {
@@ -190,7 +190,7 @@
           "confirmed": 81033,
           "date": "2020-10-30",
           "deaths": 1570,
-          "recovered": 75701
+          "recovered": 75987
         }
       },
       "Minas Gerais": {
@@ -198,7 +198,7 @@
           "confirmed": 353311,
           "date": "2020-10-30",
           "deaths": 8872,
-          "recovered": 322163
+          "recovered": 324207
         }
       },
       "Para": {
@@ -214,7 +214,7 @@
           "confirmed": 131979,
           "date": "2020-10-30",
           "deaths": 3076,
-          "recovered": 107933
+          "recovered": 107984
         }
       },
       "Parana": {
@@ -222,7 +222,7 @@
           "confirmed": 210901,
           "date": "2020-10-30",
           "deaths": 5147,
-          "recovered": 160340
+          "recovered": 160818
         }
       },
       "Pernambuco": {
@@ -230,7 +230,7 @@
           "confirmed": 161161,
           "date": "2020-10-30",
           "deaths": 8587,
-          "recovered": 142674
+          "recovered": 143013
         }
       },
       "Piaui": {
@@ -254,7 +254,7 @@
           "confirmed": 240694,
           "date": "2020-10-30",
           "deaths": 5699,
-          "recovered": 224325
+          "recovered": 226195
         }
       },
       "Rio de Janeiro": {
@@ -262,7 +262,7 @@
           "confirmed": 306672,
           "date": "2020-10-30",
           "deaths": 20376,
-          "recovered": 281259
+          "recovered": 282341
         }
       },
       "Rondonia": {
@@ -270,7 +270,7 @@
           "confirmed": 71121,
           "date": "2020-10-30",
           "deaths": 1449,
-          "recovered": 64015
+          "recovered": 64257
         }
       },
       "Roraima": {
@@ -294,7 +294,7 @@
           "confirmed": 1103582,
           "date": "2020-10-30",
           "deaths": 39007,
-          "recovered": 995809
+          "recovered": 998541
         }
       },
       "Sergipe": {
@@ -310,7 +310,7 @@
           "confirmed": 74837,
           "date": "2020-10-30",
           "deaths": 1092,
-          "recovered": 62360
+          "recovered": 62740
         }
       }
     }
@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 75925,
+          "confirmed": 75904,
           "date": "2020-10-30",
           "deaths": 3165,
-          "recovered": 65280
+          "recovered": 65331
         }
       },
       "Quebec": {
@@ -601,10 +601,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 47991,
+      "confirmed": 48055,
       "date": "2020-10-30",
       "deaths": 320,
-      "recovered": 47136
+      "recovered": 47169
     }
   },
   "Greece": {
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 500362,
+          "confirmed": 500563,
           "date": "2020-10-30",
           "deaths": 9287,
           "recovered": 0
