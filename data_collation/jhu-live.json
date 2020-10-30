@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 77549,
+          "confirmed": 77556,
           "date": "2020-10-30",
           "deaths": 3178,
-          "recovered": 66727
+          "recovered": 66728
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1288478,
+      "confirmed": 1337693,
       "date": "2020-10-30",
-      "deaths": 35728,
-      "recovered": 95358
+      "deaths": 36273,
+      "recovered": 96604
     }
   },
   "Georgia": {
@@ -1603,9 +1603,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 618375,
+          "confirmed": 618651,
           "date": "2020-10-30",
-          "deaths": 12651,
+          "deaths": 12658,
           "recovered": 0
         }
       },
@@ -1691,7 +1691,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 383841,
+          "confirmed": 385041,
           "date": "2020-10-30",
           "deaths": 28581,
           "recovered": 0
