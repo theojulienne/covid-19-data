@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 41268,
+      "confirmed": 41334,
       "date": "2020-10-30",
-      "deaths": 1532,
-      "recovered": 34239
+      "deaths": 1533,
+      "recovered": 34258
     }
   },
   "Algeria": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 53152,
+      "confirmed": 54174,
       "date": "2020-10-30",
-      "deaths": 708,
-      "recovered": 42516
+      "deaths": 718,
+      "recovered": 42996
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 96529,
+      "confirmed": 97499,
       "date": "2020-10-30",
-      "deaths": 973,
-      "recovered": 85332
+      "deaths": 977,
+      "recovered": 85982
     }
   },
   "Belgium": {
@@ -1129,10 +1129,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 164718,
+      "confirmed": 168235,
       "date": "2020-10-30",
-      "deaths": 904,
-      "recovered": 124862
+      "deaths": 920,
+      "recovered": 128958
     }
   },
   "Netherlands": {
@@ -1333,10 +1333,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 132150,
+      "confirmed": 132343,
       "date": "2020-10-30",
-      "deaths": 231,
-      "recovered": 129124
+      "deaths": 232,
+      "recovered": 129349
     }
   },
   "Romania": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 30705,
+      "confirmed": 32503,
       "date": "2020-10-30",
-      "deaths": 292,
-      "recovered": 10401
+      "deaths": 315,
+      "recovered": 11208
     }
   },
   "South Africa": {
@@ -1561,9 +1561,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 145044,
+      "confirmed": 154251,
       "date": "2020-10-30",
-      "deaths": 2200,
+      "deaths": 2229,
       "recovered": 65100
     }
   },
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 130336,
+      "confirmed": 131508,
       "date": "2020-10-30",
-      "deaths": 488,
-      "recovered": 126147
+      "deaths": 490,
+      "recovered": 127607
     }
   },
   "United Kingdom": {
