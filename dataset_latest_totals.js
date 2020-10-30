@@ -983,19 +983,19 @@ var covid19_dataset_latest_totals = {
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 99425,
-        "deaths": 1236,
-        "recovered": 60738
+        "confirmed": 100616,
+        "deaths": 1251,
+        "recovered": 61162
       },
       "back_2week": {
-        "confirmed": 91780,
-        "deaths": 1134,
-        "recovered": 54155
+        "confirmed": 93152,
+        "deaths": 1159,
+        "recovered": 57731
       },
       "latest": {
-        "confirmed": 106553,
-        "deaths": 1340,
-        "recovered": 64996
+        "confirmed": 107570,
+        "deaths": 1357,
+        "recovered": 65666
       }
     },
     "CUB": {
@@ -2306,19 +2306,19 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 24836,
-        "deaths": 862,
-        "recovered": 17905
+        "confirmed": 25473,
+        "deaths": 874,
+        "recovered": 18047
       },
       "back_2week": {
-        "confirmed": 21636,
-        "deaths": 809,
-        "recovered": 16591
+        "confirmed": 22170,
+        "deaths": 815,
+        "recovered": 16758
       },
       "latest": {
-        "confirmed": 28697,
-        "deaths": 963,
-        "recovered": 19771
+        "confirmed": 29558,
+        "deaths": 977,
+        "recovered": 19994
       }
     },
     "MLI": {
@@ -3873,19 +3873,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 708359,
-        "deaths": 18741,
-        "recovered": 641706
+        "confirmed": 710515,
+        "deaths": 18843,
+        "recovered": 642560
       },
       "back_2week": {
-        "confirmed": 696414,
-        "deaths": 18151,
-        "recovered": 626898
+        "confirmed": 698184,
+        "deaths": 18309,
+        "recovered": 628301
       },
       "latest": {
-        "confirmed": 719714,
-        "deaths": 19111,
-        "recovered": 648654
+        "confirmed": 721770,
+        "deaths": 19164,
+        "recovered": 649935
       }
     },
     "ZMB": {
