@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 95199,
+      "confirmed": 96150,
       "date": "2020-10-30",
-      "deaths": 2652,
-      "recovered": 39126
+      "deaths": 2661,
+      "recovered": 39804
     }
   },
   "Hungary": {
@@ -1207,26 +1207,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 39277,
+          "confirmed": 39361,
           "date": "2020-10-30",
-          "deaths": 1273,
-          "recovered": 37437
+          "deaths": 1276,
+          "recovered": 37463
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 103587,
+          "confirmed": 103831,
           "date": "2020-10-30",
-          "deaths": 2347,
-          "recovered": 97410
+          "deaths": 2354,
+          "recovered": 97422
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 144765,
+          "confirmed": 145238,
           "date": "2020-10-30",
-          "deaths": 2611,
-          "recovered": 137656
+          "deaths": 2620,
+          "recovered": 138346
         }
       }
     }
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 617060,
+          "confirmed": 617402,
           "date": "2020-10-30",
-          "deaths": 12631,
+          "deaths": 12635,
           "recovered": 0
         }
       },
@@ -1667,9 +1667,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 30566,
+          "confirmed": 30852,
           "date": "2020-10-30",
-          "deaths": 886,
+          "deaths": 890,
           "recovered": 0
         }
       },
