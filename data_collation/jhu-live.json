@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 76660,
+          "confirmed": 76812,
           "date": "2020-10-30",
-          "deaths": 3170,
-          "recovered": 65965
+          "deaths": 3175,
+          "recovered": 66004
         }
       },
       "Quebec": {
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 106790,
+      "confirmed": 107339,
       "date": "2020-10-30",
-      "deaths": 3704,
-      "recovered": 96187
+      "deaths": 3714,
+      "recovered": 96752
     }
   },
   "Honduras": {
@@ -1325,10 +1325,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 132616,
+      "confirmed": 137272,
       "date": "2020-10-30",
-      "deaths": 2428,
-      "recovered": 75702
+      "deaths": 2468,
+      "recovered": 77449
     }
   },
   "Qatar": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 154251,
       "date": "2020-10-30",
-      "deaths": 2242,
+      "deaths": 2249,
       "recovered": 65200
     }
   },
@@ -1605,7 +1605,7 @@
         "live": {
           "confirmed": 450601,
           "date": "2020-10-30",
-          "deaths": 8608,
+          "deaths": 8646,
           "recovered": 0
         }
       },
