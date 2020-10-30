@@ -551,17 +551,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 77448,
+          "confirmed": 77477,
           "date": "2020-10-30",
-          "deaths": 2009,
+          "deaths": 2010,
           "recovered": 54611
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 99472,
+          "confirmed": 102074,
           "date": "2020-10-30",
-          "deaths": 2789,
+          "deaths": 2797,
           "recovered": 74607
         }
       },
@@ -570,7 +570,7 @@
           "confirmed": 30355,
           "date": "2020-10-30",
           "deaths": 253,
-          "recovered": 19868
+          "recovered": 20209
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 37385,
           "date": "2020-10-30",
           "deaths": 637,
-          "recovered": 23913
+          "recovered": 24548
         }
       },
       "Niedersachsen": {
@@ -586,14 +586,14 @@
           "confirmed": 33895,
           "date": "2020-10-30",
           "deaths": 741,
-          "recovered": 24739
+          "recovered": 25178
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 122051,
+          "confirmed": 127447,
           "date": "2020-10-30",
-          "deaths": 2083,
+          "deaths": 2102,
           "recovered": 83725
         }
       }
@@ -981,10 +981,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 57798,
+      "confirmed": 58394,
       "date": "2020-10-30",
-      "deaths": 1139,
-      "recovered": 49097
+      "deaths": 1142,
+      "recovered": 49522
     }
   },
   "Lebanon": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 617402,
+          "confirmed": 617497,
           "date": "2020-10-30",
-          "deaths": 12635,
+          "deaths": 12637,
           "recovered": 0
         }
       },
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 66392,
+      "confirmed": 66542,
       "date": "2020-10-30",
-      "deaths": 561,
-      "recovered": 63581
+      "deaths": 562,
+      "recovered": 63713
     }
   },
   "Venezuela": {
