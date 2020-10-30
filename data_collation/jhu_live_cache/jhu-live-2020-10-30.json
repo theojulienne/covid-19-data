@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 166302,
+      "confirmed": 167147,
       "date": "2020-10-30",
-      "deaths": 12622,
+      "deaths": 12632,
       "recovered": 141759
     }
   },
@@ -997,10 +997,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 77778,
+      "confirmed": 79529,
       "date": "2020-10-30",
-      "deaths": 610,
-      "recovered": 39123
+      "deaths": 625,
+      "recovered": 40352
     }
   },
   "Libya": {
@@ -1467,89 +1467,89 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 125003,
+          "confirmed": 130191,
           "date": "2020-10-30",
-          "deaths": 2432,
+          "deaths": 2470,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 54925,
+          "confirmed": 56181,
           "date": "2020-10-30",
-          "deaths": 1627,
+          "deaths": 1654,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 60075,
+          "confirmed": 61592,
           "date": "2020-10-30",
-          "deaths": 1762,
+          "deaths": 1773,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 62754,
+          "confirmed": 64042,
           "date": "2020-10-30",
-          "deaths": 3405,
+          "deaths": 3425,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 79010,
+          "confirmed": 81036,
           "date": "2020-10-30",
-          "deaths": 3567,
+          "deaths": 3599,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 222652,
+          "confirmed": 228000,
           "date": "2020-10-30",
-          "deaths": 5977,
+          "deaths": 5991,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 32560,
+          "confirmed": 33222,
           "date": "2020-10-30",
-          "deaths": 895,
+          "deaths": 904,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 303945,
+          "confirmed": 306335,
           "date": "2020-10-30",
-          "deaths": 10403,
+          "deaths": 10419,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 32734,
+          "confirmed": 34363,
           "date": "2020-10-30",
-          "deaths": 306,
+          "deaths": 317,
           "recovered": 2180
         }
       },
       "Navarra": {
         "live": {
-          "confirmed": 31492,
+          "confirmed": 32150,
           "date": "2020-10-30",
-          "deaths": 699,
+          "deaths": 703,
           "recovered": 3905
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 63585,
+          "confirmed": 65315,
           "date": "2020-10-30",
-          "deaths": 2061,
+          "deaths": 2082,
           "recovered": 16160
         }
       }
@@ -1603,7 +1603,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 617733,
+          "confirmed": 617877,
           "date": "2020-10-30",
           "deaths": 12638,
           "recovered": 0
@@ -1707,7 +1707,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33397,
+          "confirmed": 33858,
           "date": "2020-10-30",
           "deaths": 643,
           "recovered": 0
@@ -1715,9 +1715,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 44139,
+          "confirmed": 44505,
           "date": "2020-10-30",
-          "deaths": 1868,
+          "deaths": 1875,
           "recovered": 0
         }
       },
@@ -1731,7 +1731,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 500563,
+          "confirmed": 501263,
           "date": "2020-10-30",
           "deaths": 9287,
           "recovered": 0
