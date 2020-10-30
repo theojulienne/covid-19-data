@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 50403,
+      "confirmed": 51496,
       "date": "2020-10-30",
-      "deaths": 1199,
-      "recovered": 30007
+      "deaths": 1219,
+      "recovered": 31330
     }
   },
   "Canada": {
@@ -346,7 +346,7 @@
           "confirmed": 76660,
           "date": "2020-10-30",
           "deaths": 3170,
-          "recovered": 65964
+          "recovered": 65965
         }
       },
       "Quebec": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 29106,
+          "confirmed": 29310,
           "date": "2020-10-30",
-          "deaths": 473,
-          "recovered": 27365
+          "deaths": 478,
+          "recovered": 27521
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 296129,
+          "confirmed": 296419,
           "date": "2020-10-30",
-          "deaths": 9814,
-          "recovered": 284279
+          "deaths": 9831,
+          "recovered": 284519
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30188,
+          "confirmed": 30258,
           "date": "2020-10-30",
-          "deaths": 1046,
-          "recovered": 28683
+          "deaths": 1051,
+          "recovered": 28748
         }
       }
     }
@@ -1139,41 +1139,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 30823,
+          "confirmed": 32350,
           "date": "2020-10-30",
-          "deaths": 786,
+          "deaths": 795,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 49763,
+          "confirmed": 51282,
           "date": "2020-10-30",
-          "deaths": 1694,
+          "deaths": 1717,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 63747,
+          "confirmed": 65454,
           "date": "2020-10-30",
-          "deaths": 1005,
+          "deaths": 1012,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 28927,
+          "confirmed": 30019,
           "date": "2020-10-30",
-          "deaths": 499,
+          "deaths": 506,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 96732,
+          "confirmed": 99905,
           "date": "2020-10-30",
-          "deaths": 1684,
+          "deaths": 1710,
           "recovered": 0
         }
       }
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 43592,
+      "confirmed": 45137,
       "date": "2020-10-30",
-      "deaths": 809,
+      "deaths": 814,
       "recovered": 0
     }
   },
@@ -1428,7 +1428,7 @@
       "confirmed": 58003,
       "date": "2020-10-30",
       "deaths": 28,
-      "recovered": 57899
+      "recovered": 57909
     }
   },
   "Slovakia": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 154251,
       "date": "2020-10-30",
-      "deaths": 2232,
+      "deaths": 2242,
       "recovered": 65200
     }
   },
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 32800,
+          "confirmed": 32937,
           "date": "2020-10-30",
           "deaths": 859,
           "recovered": 0
