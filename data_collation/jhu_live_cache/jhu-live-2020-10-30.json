@@ -578,7 +578,7 @@
           "confirmed": 39093,
           "date": "2020-10-30",
           "deaths": 641,
-          "recovered": 23913
+          "recovered": 24548
         }
       },
       "Niedersachsen": {
@@ -837,10 +837,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 404048,
+      "confirmed": 406945,
       "date": "2020-10-30",
-      "deaths": 13701,
-      "recovered": 329778
+      "deaths": 13782,
+      "recovered": 334295
     }
   },
   "Iran": {
@@ -1251,55 +1251,55 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 44423,
+          "confirmed": 44506,
           "date": "2020-10-30",
-          "deaths": 1450,
+          "deaths": 1452,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 36867,
+          "confirmed": 36991,
           "date": "2020-10-30",
-          "deaths": 1835,
+          "deaths": 1837,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 29565,
+          "confirmed": 29597,
           "date": "2020-10-30",
-          "deaths": 1671,
+          "deaths": 1673,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 32516,
+          "confirmed": 32615,
           "date": "2020-10-30",
-          "deaths": 2286,
+          "deaths": 2289,
           "recovered": 0
         }
       },
       "Lambayeque": {
         "live": {
-          "confirmed": 28510,
+          "confirmed": 28578,
           "date": "2020-10-30",
-          "deaths": 1773,
+          "deaths": 1775,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 404792,
+          "confirmed": 405903,
           "date": "2020-10-30",
-          "deaths": 15428,
+          "deaths": 15450,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 38151,
+          "confirmed": 38226,
           "date": "2020-10-30",
           "deaths": 2027,
           "recovered": 0
@@ -1320,7 +1320,7 @@
       "confirmed": 319205,
       "date": "2020-10-30",
       "deaths": 5149,
-      "recovered": 129267
+      "recovered": 134724
     }
   },
   "Portugal": {
@@ -1569,9 +1569,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 54278,
+      "confirmed": 58029,
       "date": "2020-10-30",
-      "deaths": 1153,
+      "deaths": 1253,
       "recovered": 5032
     }
   },
