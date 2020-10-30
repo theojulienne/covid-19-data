@@ -282,7 +282,8 @@ var covid19_dataset_country_jor = {
     "2020-10-27",
     "2020-10-28",
     "2020-10-29",
-    "2020-10-30"
+    "2020-10-30",
+    "2020-10-31"
   ],
   "total": {
     "confirmed": [
@@ -566,8 +567,7 @@ var covid19_dataset_country_jor = {
       53087,
       55055,
       58855,
-      61942,
-      65385
+      61942
     ],
     "deaths": [
       0,
@@ -850,8 +850,7 @@ var covid19_dataset_country_jor = {
       579,
       624,
       668,
-      700,
-      740
+      700
     ],
     "recovered": [
       0,
