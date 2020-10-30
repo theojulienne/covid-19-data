@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 46639,
+      "confirmed": 48137,
       "date": "2020-10-30",
-      "deaths": 1182,
-      "recovered": 27580
+      "deaths": 1212,
+      "recovered": 27870
     }
   },
   "Brazil": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 44034,
+      "confirmed": 45225,
       "date": "2020-10-30",
-      "deaths": 716,
-      "recovered": 33601
+      "deaths": 719,
+      "recovered": 34052
     }
   },
   "Dominican Republic": {
@@ -554,15 +554,15 @@
           "confirmed": 77477,
           "date": "2020-10-30",
           "deaths": 2010,
-          "recovered": 54611
+          "recovered": 55371
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 102074,
+          "confirmed": 102367,
           "date": "2020-10-30",
           "deaths": 2797,
-          "recovered": 74607
+          "recovered": 75816
         }
       },
       "Berlin": {
@@ -583,9 +583,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 34228,
+          "confirmed": 35445,
           "date": "2020-10-30",
-          "deaths": 743,
+          "deaths": 747,
           "recovered": 25178
         }
       },
@@ -594,7 +594,7 @@
           "confirmed": 127447,
           "date": "2020-10-30",
           "deaths": 2102,
-          "recovered": 83725
+          "recovered": 85381
         }
       }
     }
@@ -853,10 +853,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 467755,
+      "confirmed": 470633,
       "date": "2020-10-30",
-      "deaths": 10815,
-      "recovered": 394386
+      "deaths": 10862,
+      "recovered": 397241
     }
   },
   "Ireland": {
@@ -869,9 +869,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 313590,
+      "confirmed": 313701,
       "date": "2020-10-30",
-      "deaths": 2511,
+      "deaths": 2514,
       "recovered": 299822
     }
   },
@@ -1409,10 +1409,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 346482,
+      "confirmed": 346880,
       "date": "2020-10-30",
-      "deaths": 5363,
-      "recovered": 333005
+      "deaths": 5383,
+      "recovered": 333409
     }
   },
   "Serbia": {
@@ -1551,7 +1551,7 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 34070,
+          "confirmed": 34937,
           "date": "2020-10-30",
           "deaths": 2429,
           "recovered": 0
