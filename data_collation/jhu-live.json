@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 76866,
+          "confirmed": 77190,
           "date": "2020-10-30",
-          "deaths": 3175,
-          "recovered": 66109
+          "deaths": 3176,
+          "recovered": 66358
         }
       },
       "Quebec": {
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 95301,
+      "confirmed": 95789,
       "date": "2020-10-30",
-      "deaths": 1457,
-      "recovered": 50753
+      "deaths": 1464,
+      "recovered": 51713
     }
   },
   "France": {
@@ -861,9 +861,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 60297,
+      "confirmed": 61059,
       "date": "2020-10-30",
-      "deaths": 1902,
+      "deaths": 1908,
       "recovered": 23364
     }
   },
@@ -1603,15 +1603,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 617877,
+          "confirmed": 618375,
           "date": "2020-10-30",
-          "deaths": 12638,
+          "deaths": 12651,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 450601,
+          "confirmed": 453570,
           "date": "2020-10-30",
           "deaths": 8646,
           "recovered": 0
@@ -1619,9 +1619,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 62061,
+          "confirmed": 62322,
           "date": "2020-10-30",
-          "deaths": 1073,
+          "deaths": 1076,
           "recovered": 0
         }
       },
@@ -1723,9 +1723,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 70014,
+          "confirmed": 70526,
           "date": "2020-10-30",
-          "deaths": 915,
+          "deaths": 921,
           "recovered": 0
         }
       },
@@ -1739,15 +1739,15 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 76459,
+          "confirmed": 77973,
           "date": "2020-10-30",
-          "deaths": 387,
+          "deaths": 388,
           "recovered": 0
         }
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 41292,
+          "confirmed": 41932,
           "date": "2020-10-30",
           "deaths": 585,
           "recovered": 0
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 66542,
+      "confirmed": 66628,
       "date": "2020-10-30",
-      "deaths": 562,
-      "recovered": 63713
+      "deaths": 563,
+      "recovered": 63864
     }
   },
   "Venezuela": {
