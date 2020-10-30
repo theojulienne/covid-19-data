@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 93949,
+      "confirmed": 99576,
       "date": "2020-10-30",
-      "deaths": 1056,
-      "recovered": 63366
+      "deaths": 1082,
+      "recovered": 64987
     }
   },
   "Azerbaijan": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 81262,
       "date": "2020-10-30",
-      "deaths": 317,
+      "deaths": 319,
       "recovered": 78102
     }
   },
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 596941,
+      "confirmed": 604952,
       "date": "2020-10-30",
-      "deaths": 34113,
-      "recovered": 472598
+      "deaths": 34478,
+      "recovered": 477300
     }
   },
   "Iraq": {
@@ -941,8 +941,8 @@
         "live": {
           "confirmed": 30905,
           "date": "2020-10-30",
-          "deaths": 455,
-          "recovered": 28373
+          "deaths": 457,
+          "recovered": 28526
         }
       }
     }
@@ -973,10 +973,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 124666,
+      "confirmed": 125337,
       "date": "2020-10-30",
-      "deaths": 767,
-      "recovered": 115475
+      "deaths": 773,
+      "recovered": 116202
     }
   },
   "Kyrgyzstan": {
@@ -997,10 +997,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 59656,
+      "confirmed": 60628,
       "date": "2020-10-30",
-      "deaths": 831,
-      "recovered": 33550
+      "deaths": 847,
+      "recovered": 34369
     }
   },
   "Malaysia": {
@@ -1341,10 +1341,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 229040,
+      "confirmed": 235586,
       "date": "2020-10-30",
-      "deaths": 6764,
-      "recovered": 163852
+      "deaths": 6867,
+      "recovered": 167897
     }
   },
   "Russia": {
@@ -1563,8 +1563,8 @@
     "live": {
       "confirmed": 154251,
       "date": "2020-10-30",
-      "deaths": 2229,
-      "recovered": 65100
+      "deaths": 2232,
+      "recovered": 65200
     }
   },
   "Tunisia": {
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 52571,
+      "confirmed": 53075,
       "date": "2020-10-30",
-      "deaths": 473,
-      "recovered": 45448
+      "deaths": 481,
+      "recovered": 45896
     }
   }
 }
