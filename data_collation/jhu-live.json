@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1337693,
+      "confirmed": 1373036,
       "date": "2020-10-31",
-      "deaths": 36273,
-      "recovered": 96604
+      "deaths": 36494,
+      "recovered": 97475
     }
   },
   "Georgia": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 314367,
+      "confirmed": 314422,
       "date": "2020-10-31",
-      "deaths": 2523,
-      "recovered": 301158
+      "deaths": 2539,
+      "recovered": 301241
     }
   },
   "Italy": {
@@ -1603,9 +1603,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 621212,
+          "confirmed": 621376,
           "date": "2020-10-31",
-          "deaths": 12683,
+          "deaths": 12691,
           "recovered": 0
         }
       },
@@ -1731,9 +1731,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 504331,
+          "confirmed": 507463,
           "date": "2020-10-31",
-          "deaths": 9325,
+          "deaths": 9359,
           "recovered": 0
         }
       },
