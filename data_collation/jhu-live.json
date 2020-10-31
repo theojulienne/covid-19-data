@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 323673,
+      "confirmed": 330445,
       "date": "2020-10-31",
-      "deaths": 3078,
-      "recovered": 137575
+      "deaths": 3197,
+      "recovered": 137950
     }
   },
   "Denmark": {
@@ -609,10 +609,10 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 37196,
+      "confirmed": 39251,
       "date": "2020-10-31",
-      "deaths": 620,
-      "recovered": 1347
+      "deaths": 626,
+      "recovered": 23074
     }
   },
   "Guatemala": {
@@ -861,9 +861,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 61059,
+      "confirmed": 61456,
       "date": "2020-10-31",
-      "deaths": 1908,
+      "deaths": 1913,
       "recovered": 23364
     }
   },
@@ -973,7 +973,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 53797,
+      "confirmed": 55192,
       "date": "2020-10-31",
       "deaths": 981,
       "recovered": 35876
@@ -997,10 +997,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 79529,
+      "confirmed": 81228,
       "date": "2020-10-31",
-      "deaths": 625,
-      "recovered": 40352
+      "deaths": 637,
+      "recovered": 41624
     }
   },
   "Libya": {
@@ -1603,7 +1603,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 621106,
+          "confirmed": 621212,
           "date": "2020-10-31",
           "deaths": 12683,
           "recovered": 0
@@ -1707,7 +1707,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 33858,
+          "confirmed": 34104,
           "date": "2020-10-31",
           "deaths": 643,
           "recovered": 0

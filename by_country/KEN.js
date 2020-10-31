@@ -570,7 +570,8 @@ var covid19_dataset_country_ken = {
       50833,
       51851,
       52612,
-      53797
+      53797,
+      55192
     ],
     "deaths": [
       0,
