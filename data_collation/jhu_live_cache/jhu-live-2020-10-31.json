@@ -343,7 +343,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 77655,
+          "confirmed": 77841,
           "date": "2020-10-31",
           "deaths": 3179,
           "recovered": 66859
@@ -559,7 +559,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 104764,
+          "confirmed": 105330,
           "date": "2020-10-31",
           "deaths": 2804,
           "recovered": 76833
@@ -957,9 +957,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 69306,
+      "confirmed": 72607,
       "date": "2020-10-31",
-      "deaths": 772,
+      "deaths": 829,
       "recovered": 7600
     }
   },
@@ -1436,7 +1436,7 @@
       "confirmed": 58015,
       "date": "2020-10-31",
       "deaths": 28,
-      "recovered": 57909
+      "recovered": 57913
     }
   },
   "Slovakia": {
