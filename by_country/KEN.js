@@ -283,7 +283,8 @@ var covid19_dataset_country_ken = {
     "2020-10-28",
     "2020-10-29",
     "2020-10-30",
-    "2020-10-31"
+    "2020-10-31",
+    "2020-11-01"
   ],
   "total": {
     "confirmed": [
@@ -853,7 +854,8 @@ var covid19_dataset_country_ken = {
       920,
       934,
       934,
-      964
+      964,
+      981
     ],
     "recovered": [
       0,
