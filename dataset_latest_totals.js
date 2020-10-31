@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 40626,
-        "deaths": 1505,
-        "recovered": 33831
+        "confirmed": 40687,
+        "deaths": 1507,
+        "recovered": 34010
       },
       "back_2week": {
-        "confirmed": 40026,
-        "deaths": 1481,
-        "recovered": 33447
+        "confirmed": 40073,
+        "deaths": 1485,
+        "recovered": 33516
       },
       "latest": {
-        "confirmed": 41268,
-        "deaths": 1532,
-        "recovered": 34239
+        "confirmed": 41334,
+        "deaths": 1533,
+        "recovered": 34258
       }
     },
     "AGO": {
