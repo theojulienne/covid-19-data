@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 167147,
+      "confirmed": 168192,
       "date": "2020-10-31",
-      "deaths": 12632,
+      "deaths": 12670,
       "recovered": 141759
     }
   },
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 95789,
+      "confirmed": 96169,
       "date": "2020-10-31",
-      "deaths": 1464,
-      "recovered": 51713
+      "deaths": 1469,
+      "recovered": 52517
     }
   },
   "France": {
@@ -1197,10 +1197,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 30488,
+      "confirmed": 31572,
       "date": "2020-10-31",
-      "deaths": 982,
-      "recovered": 20448
+      "deaths": 994,
+      "recovered": 20731
     }
   },
   "Oman": {
@@ -1619,9 +1619,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 62322,
+          "confirmed": 62757,
           "date": "2020-10-31",
-          "deaths": 1076,
+          "deaths": 1078,
           "recovered": 0
         }
       },
@@ -1723,15 +1723,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 70526,
+          "confirmed": 70752,
           "date": "2020-10-31",
-          "deaths": 921,
+          "deaths": 923,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 503657,
+          "confirmed": 504331,
           "date": "2020-10-31",
           "deaths": 9325,
           "recovered": 0
@@ -1739,17 +1739,17 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 77973,
+          "confirmed": 79119,
           "date": "2020-10-31",
-          "deaths": 388,
+          "deaths": 389,
           "recovered": 0
         }
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 41932,
+          "confirmed": 42864,
           "date": "2020-10-31",
-          "deaths": 585,
+          "deaths": 592,
           "recovered": 0
         }
       }
