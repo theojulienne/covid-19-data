@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 99576,
+      "confirmed": 104925,
       "date": "2020-10-31",
-      "deaths": 1082,
-      "recovered": 64987
+      "deaths": 1109,
+      "recovered": 67226
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 97499,
+      "confirmed": 98482,
       "date": "2020-10-31",
-      "deaths": 977,
-      "recovered": 85982
+      "deaths": 980,
+      "recovered": 86663
     }
   },
   "Belgium": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 48137,
+      "confirmed": 50090,
       "date": "2020-10-31",
-      "deaths": 1212,
-      "recovered": 27870
+      "deaths": 1234,
+      "recovered": 28083
     }
   },
   "Brazil": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 45225,
+      "confirmed": 46351,
       "date": "2020-10-31",
-      "deaths": 719,
-      "recovered": 34052
+      "deaths": 721,
+      "recovered": 34523
     }
   },
   "Dominican Republic": {
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 58394,
+      "confirmed": 58878,
       "date": "2020-10-31",
-      "deaths": 1142,
-      "recovered": 49522
+      "deaths": 1144,
+      "recovered": 49983
     }
   },
   "Lebanon": {
@@ -1147,41 +1147,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 32350,
+          "confirmed": 33544,
           "date": "2020-10-31",
-          "deaths": 795,
+          "deaths": 798,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 51282,
+          "confirmed": 52889,
           "date": "2020-10-31",
-          "deaths": 1717,
+          "deaths": 1729,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 65454,
+          "confirmed": 66979,
           "date": "2020-10-31",
-          "deaths": 1012,
+          "deaths": 1020,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 30019,
+          "confirmed": 30744,
           "date": "2020-10-31",
-          "deaths": 506,
+          "deaths": 514,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 99905,
+          "confirmed": 102567,
           "date": "2020-10-31",
-          "deaths": 1710,
+          "deaths": 1721,
           "recovered": 0
         }
       }
@@ -1417,10 +1417,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 346880,
+      "confirmed": 347282,
       "date": "2020-10-31",
-      "deaths": 5383,
-      "recovered": 333409
+      "deaths": 5402,
+      "recovered": 333842
     }
   },
   "Serbia": {
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 53075,
+      "confirmed": 53520,
       "date": "2020-10-31",
-      "deaths": 481,
-      "recovered": 45896
+      "deaths": 483,
+      "recovered": 46309
     }
   }
 }
