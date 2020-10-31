@@ -351,10 +351,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 104952,
+          "confirmed": 106016,
           "date": "2020-10-31",
-          "deaths": 6231,
-          "recovered": 89592
+          "deaths": 6246,
+          "recovered": 90576
         }
       }
     }
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 107339,
+      "confirmed": 107939,
       "date": "2020-10-31",
-      "deaths": 3714,
-      "recovered": 96752
+      "deaths": 3729,
+      "recovered": 97289
     }
   },
   "Honduras": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 723682,
+      "confirmed": 725452,
       "date": "2020-10-31",
-      "deaths": 19230,
-      "recovered": 653052
+      "deaths": 19276,
+      "recovered": 654182
     }
   },
   "Spain": {
@@ -1651,17 +1651,17 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 60955,
+          "confirmed": 61408,
           "date": "2020-10-31",
-          "deaths": 3459,
+          "deaths": 3462,
           "recovered": 0
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 41731,
+          "confirmed": 42172,
           "date": "2020-10-31",
-          "deaths": 3055,
+          "deaths": 3060,
           "recovered": 0
         }
       },
