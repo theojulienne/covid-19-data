@@ -76,7 +76,7 @@
       "confirmed": 412314,
       "date": "2020-11-01",
       "deaths": 11452,
-      "recovered": 24906
+      "recovered": 24917
     }
   },
   "Bolivia": {
@@ -1603,9 +1603,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 622606,
+          "confirmed": 622969,
           "date": "2020-11-01",
-          "deaths": 12705,
+          "deaths": 12708,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 508204,
+          "confirmed": 508477,
           "date": "2020-11-01",
           "deaths": 9360,
           "recovered": 0
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 91589,
+      "confirmed": 92013,
       "date": "2020-11-01",
-      "deaths": 793,
-      "recovered": 86335
+      "deaths": 798,
+      "recovered": 86773
     }
   },
   "West Bank and Gaza": {
