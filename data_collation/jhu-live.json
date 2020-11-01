@@ -1611,7 +1611,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 62757,
+          "confirmed": 62971,
           "date": "2020-11-01",
           "deaths": 1078,
           "recovered": 0
@@ -1643,9 +1643,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 61408,
+          "confirmed": 61812,
           "date": "2020-11-01",
-          "deaths": 3462,
+          "deaths": 3471,
           "recovered": 0
         }
       },
