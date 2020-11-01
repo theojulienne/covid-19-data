@@ -571,7 +571,8 @@ var covid19_dataset_country_jpn = {
       98146,
       98877,
       99674,
-      100450
+      100450,
+      101327
     ],
     "deaths": [
       0,
@@ -856,7 +857,8 @@ var covid19_dataset_country_jpn = {
       1726,
       1731,
       1748,
-      1756
+      1756,
+      1769
     ],
     "recovered": [
       0,
@@ -1141,7 +1143,8 @@ var covid19_dataset_country_jpn = {
       89465,
       90118,
       90624,
-      91184
+      91184,
+      89765
     ]
   }
 };
