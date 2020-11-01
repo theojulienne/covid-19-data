@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 98482,
+      "confirmed": 99459,
       "date": "2020-11-01",
-      "deaths": 980,
-      "recovered": 86663
+      "deaths": 985,
+      "recovered": 87188
     }
   },
   "Belgium": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 33445,
+      "confirmed": 34015,
       "date": "2020-11-01",
       "deaths": 979,
-      "recovered": 29186
+      "recovered": 29788
     }
   },
   "Ethiopia": {
@@ -1005,18 +1005,18 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 61095,
+      "confirmed": 62045,
       "date": "2020-11-01",
-      "deaths": 857,
-      "recovered": 35030
+      "deaths": 871,
+      "recovered": 35853
     }
   },
   "Malaysia": {
     "live": {
-      "confirmed": 31548,
+      "confirmed": 32505,
       "date": "2020-11-01",
       "deaths": 249,
-      "recovered": 21248
+      "recovered": 22220
     }
   },
   "Mexico": {
@@ -1205,10 +1205,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 114434,
+      "confirmed": 115734,
       "date": "2020-11-01",
-      "deaths": 1208,
-      "recovered": 103060
+      "deaths": 1246,
+      "recovered": 105700
     }
   },
   "Pakistan": {
@@ -1325,10 +1325,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 362731,
+      "confirmed": 379902,
       "date": "2020-11-01",
-      "deaths": 5631,
-      "recovered": 140280
+      "deaths": 5783,
+      "recovered": 146595
     }
   },
   "Portugal": {
@@ -1341,10 +1341,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 132556,
+      "confirmed": 132720,
       "date": "2020-11-01",
       "deaths": 232,
-      "recovered": 129583
+      "recovered": 129784
     }
   },
   "Romania": {
@@ -1449,10 +1449,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 34307,
+      "confirmed": 35649,
       "date": "2020-11-01",
-      "deaths": 338,
-      "recovered": 12091
+      "deaths": 363,
+      "recovered": 12785
     }
   },
   "South Africa": {
