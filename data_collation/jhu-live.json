@@ -1595,9 +1595,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 186024,
+          "confirmed": 187359,
           "date": "2020-11-01",
-          "deaths": 4216,
+          "deaths": 4247,
           "recovered": 0
         }
       },
@@ -1667,9 +1667,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 31357,
+          "confirmed": 31585,
           "date": "2020-11-01",
-          "deaths": 889,
+          "deaths": 892,
           "recovered": 0
         }
       },
