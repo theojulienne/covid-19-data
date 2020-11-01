@@ -1643,14 +1643,14 @@ var covid19_dataset_latest_totals = {
     },
     "HND": {
       "back_1week": {
-        "confirmed": 91509,
-        "deaths": 2604,
-        "recovered": 37132
+        "confirmed": 92724,
+        "deaths": 2617,
+        "recovered": 37866
       },
       "back_2week": {
-        "confirmed": 86691,
-        "deaths": 2556,
-        "recovered": 34546
+        "confirmed": 87594,
+        "deaths": 2563,
+        "recovered": 34662
       },
       "latest": {
         "confirmed": 96888,
