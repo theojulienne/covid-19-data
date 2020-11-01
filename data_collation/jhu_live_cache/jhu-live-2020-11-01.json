@@ -559,7 +559,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 107044,
+          "confirmed": 107366,
           "date": "2020-11-01",
           "deaths": 2808,
           "recovered": 77609
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 107939,
+      "confirmed": 108104,
       "date": "2020-11-01",
-      "deaths": 3729,
-      "recovered": 97289
+      "deaths": 3738,
+      "recovered": 97756
     }
   },
   "Honduras": {
@@ -957,10 +957,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 72607,
+      "confirmed": 75866,
       "date": "2020-11-01",
-      "deaths": 829,
-      "recovered": 7600
+      "deaths": 866,
+      "recovered": 7740
     }
   },
   "Kazakhstan": {
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 33111,
+          "confirmed": 33248,
           "date": "2020-11-01",
           "deaths": 863,
           "recovered": 0
