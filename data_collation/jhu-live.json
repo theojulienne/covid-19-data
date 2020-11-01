@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 78532,
+          "confirmed": 78807,
           "date": "2020-11-01",
-          "deaths": 3186,
-          "recovered": 67735
+          "deaths": 3192,
+          "recovered": 67878
         }
       },
       "Quebec": {
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 127018,
+      "confirmed": 127332,
       "date": "2020-11-01",
-      "deaths": 2245,
-      "recovered": 104862
+      "deaths": 2249,
+      "recovered": 105289
     }
   },
   "Ecuador": {
@@ -879,66 +879,66 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 55740,
+          "confirmed": 59600,
           "date": "2020-11-01",
-          "deaths": 673,
-          "recovered": 11337
+          "deaths": 676,
+          "recovered": 11746
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 55841,
+          "confirmed": 57597,
           "date": "2020-11-01",
-          "deaths": 4631,
-          "recovered": 27997
+          "deaths": 4647,
+          "recovered": 28033
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 46422,
+          "confirmed": 48773,
           "date": "2020-11-01",
-          "deaths": 1212,
-          "recovered": 11304
+          "deaths": 1231,
+          "recovered": 11436
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 28608,
+          "confirmed": 29344,
           "date": "2020-11-01",
-          "deaths": 1774,
-          "recovered": 18403
+          "deaths": 1781,
+          "recovered": 18849
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 195744,
+          "confirmed": 204351,
           "date": "2020-11-01",
-          "deaths": 17535,
-          "recovered": 96198
+          "deaths": 17589,
+          "recovered": 96687
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 70636,
+          "confirmed": 72660,
           "date": "2020-11-01",
-          "deaths": 4383,
-          "recovered": 33429
+          "deaths": 4394,
+          "recovered": 33852
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 44263,
+          "confirmed": 46642,
           "date": "2020-11-01",
-          "deaths": 1345,
-          "recovered": 15074
+          "deaths": 1363,
+          "recovered": 15305
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 56953,
+          "confirmed": 59253,
           "date": "2020-11-01",
-          "deaths": 2401,
-          "recovered": 25373
+          "deaths": 2418,
+          "recovered": 25421
         }
       }
     }
@@ -973,10 +973,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 55192,
+      "confirmed": 55877,
       "date": "2020-11-01",
-      "deaths": 996,
-      "recovered": 35876
+      "deaths": 1013,
+      "recovered": 37194
     }
   },
   "Kuwait": {
@@ -1121,10 +1121,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 76040,
+      "confirmed": 76582,
       "date": "2020-11-01",
-      "deaths": 1785,
-      "recovered": 55782
+      "deaths": 1800,
+      "recovered": 56312
     }
   },
   "Morocco": {
@@ -1197,10 +1197,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 31572,
+      "confirmed": 32436,
       "date": "2020-11-01",
-      "deaths": 994,
-      "recovered": 20731
+      "deaths": 1004,
+      "recovered": 21090
     }
   },
   "Oman": {
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 141279,
+      "confirmed": 144341,
       "date": "2020-11-01",
-      "deaths": 2507,
-      "recovered": 80280
+      "deaths": 2544,
+      "recovered": 81771
     }
   },
   "Qatar": {
@@ -1585,10 +1585,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 375367,
+      "confirmed": 377473,
       "date": "2020-11-01",
-      "deaths": 10252,
-      "recovered": 323971
+      "deaths": 10326,
+      "recovered": 325486
     }
   },
   "US": {
@@ -1611,9 +1611,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 454550,
+          "confirmed": 457372,
           "date": "2020-11-01",
-          "deaths": 8657,
+          "deaths": 8675,
           "recovered": 0
         }
       },
@@ -1691,9 +1691,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 34473,
+          "confirmed": 34668,
           "date": "2020-11-01",
-          "deaths": 391,
+          "deaths": 393,
           "recovered": 0
         }
       },
