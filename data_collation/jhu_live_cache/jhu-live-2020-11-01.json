@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 55269,
+      "confirmed": 56444,
       "date": "2020-11-01",
-      "deaths": 730,
-      "recovered": 43543
+      "deaths": 740,
+      "recovered": 44157
     }
   },
   "Bahrain": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 52706,
+      "confirmed": 53405,
       "date": "2020-11-01",
-      "deaths": 1237,
-      "recovered": 32774
+      "deaths": 1258,
+      "recovered": 34189
     }
   },
   "Canada": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 29535,
+          "confirmed": 29731,
           "date": "2020-11-01",
-          "deaths": 482,
-          "recovered": 27743
+          "deaths": 486,
+          "recovered": 27979
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 296812,
+          "confirmed": 297119,
           "date": "2020-11-01",
-          "deaths": 9847,
-          "recovered": 284745
+          "deaths": 9864,
+          "recovered": 285069
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30342,
+          "confirmed": 30450,
           "date": "2020-11-01",
-          "deaths": 1057,
-          "recovered": 28818
+          "deaths": 1059,
+          "recovered": 28910
         }
       }
     }
@@ -975,7 +975,7 @@
     "live": {
       "confirmed": 55192,
       "date": "2020-11-01",
-      "deaths": 981,
+      "deaths": 996,
       "recovered": 35876
     }
   },
@@ -1425,9 +1425,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 46954,
+      "confirmed": 48403,
       "date": "2020-11-01",
-      "deaths": 820,
+      "deaths": 826,
       "recovered": 0
     }
   },
@@ -1436,7 +1436,7 @@
       "confirmed": 58019,
       "date": "2020-11-01",
       "deaths": 28,
-      "recovered": 57913
+      "recovered": 57924
     }
   },
   "Slovakia": {
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 67055,
+      "confirmed": 67101,
       "date": "2020-11-01",
-      "deaths": 568,
-      "recovered": 64235
+      "deaths": 570,
+      "recovered": 64354
     }
   },
   "Venezuela": {
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 53520,
+      "confirmed": 54060,
       "date": "2020-11-01",
-      "deaths": 483,
-      "recovered": 46309
+      "deaths": 489,
+      "recovered": 46773
     }
   }
 }
