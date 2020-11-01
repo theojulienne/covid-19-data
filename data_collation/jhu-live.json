@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 104925,
+      "confirmed": 109881,
       "date": "2020-11-01",
-      "deaths": 1109,
-      "recovered": 67226
+      "deaths": 1130,
+      "recovered": 69336
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 407684,
+      "confirmed": 409252,
       "date": "2020-11-01",
-      "deaths": 5923,
-      "recovered": 324145
+      "deaths": 5941,
+      "recovered": 325940
     }
   },
   "Belarus": {
@@ -583,9 +583,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 36949,
+          "confirmed": 37884,
           "date": "2020-11-01",
-          "deaths": 748,
+          "deaths": 761,
           "recovered": 26002
         }
       },
@@ -601,10 +601,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 48055,
+      "confirmed": 48124,
       "date": "2020-11-01",
       "deaths": 320,
-      "recovered": 47169
+      "recovered": 47215
     }
   },
   "Greece": {
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 612772,
+      "confirmed": 620491,
       "date": "2020-11-01",
-      "deaths": 34864,
-      "recovered": 481930
+      "deaths": 35298,
+      "recovered": 486691
     }
   },
   "Iraq": {
@@ -1137,10 +1137,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 170743,
+      "confirmed": 173567,
       "date": "2020-11-01",
-      "deaths": 937,
-      "recovered": 131222
+      "deaths": 960,
+      "recovered": 134842
     }
   },
   "Netherlands": {
@@ -1571,7 +1571,7 @@
     "live": {
       "confirmed": 154251,
       "date": "2020-11-01",
-      "deaths": 2297,
+      "deaths": 2301,
       "recovered": 65200
     }
   },
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 132629,
+      "confirmed": 133907,
       "date": "2020-11-01",
-      "deaths": 495,
-      "recovered": 128902
+      "deaths": 496,
+      "recovered": 130508
     }
   },
   "United Kingdom": {
