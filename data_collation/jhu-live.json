@@ -333,14 +333,6 @@
   },
   "Canada": {
     "subseries": {
-      "Alberta": {
-        "live": {
-          "confirmed": 27664,
-          "date": "2020-11-01",
-          "deaths": 323,
-          "recovered": 22169
-        }
-      },
       "Ontario": {
         "live": {
           "confirmed": 78807,
@@ -351,10 +343,10 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 106016,
+          "confirmed": 106981,
           "date": "2020-11-01",
-          "deaths": 6246,
-          "recovered": 90576
+          "deaths": 6272,
+          "recovered": 90897
         }
       }
     }
@@ -533,10 +525,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1373036,
+      "confirmed": 1419326,
       "date": "2020-11-01",
-      "deaths": 36494,
-      "recovered": 97475
+      "deaths": 36725,
+      "recovered": 98044
     }
   },
   "Georgia": {
@@ -567,10 +559,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 32231,
+          "confirmed": 32592,
           "date": "2020-11-01",
           "deaths": 261,
-          "recovered": 20814
+          "recovered": 20839
         }
       },
       "Hessen": {
@@ -861,9 +853,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 61456,
+      "confirmed": 62002,
       "date": "2020-11-01",
-      "deaths": 1913,
+      "deaths": 1915,
       "recovered": 23364
     }
   },
@@ -1627,9 +1619,17 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 186405,
+          "confirmed": 189660,
           "date": "2020-11-01",
-          "deaths": 5469,
+          "deaths": 5485,
+          "recovered": 0
+        }
+      },
+      "Indiana": {
+        "live": {
+          "confirmed": 27690,
+          "date": "2020-11-01",
+          "deaths": 796,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 36580,
+          "confirmed": 36936,
           "date": "2020-11-01",
-          "deaths": 1000,
+          "deaths": 1002,
           "recovered": 0
         }
       },
