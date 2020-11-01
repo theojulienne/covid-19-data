@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 49316,
+      "confirmed": 51495,
       "date": "2020-11-01",
-      "deaths": 546,
-      "recovered": 32818
+      "deaths": 562,
+      "recovered": 35039
     }
   },
   "Czechia": {
@@ -837,10 +837,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 410088,
+      "confirmed": 412784,
       "date": "2020-11-01",
-      "deaths": 13869,
-      "recovered": 337801
+      "deaths": 13943,
+      "recovered": 341942
     }
   },
   "Iran": {
@@ -1441,10 +1441,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 57664,
+      "confirmed": 59946,
       "date": "2020-11-01",
       "deaths": 219,
-      "recovered": 12617
+      "recovered": 12798
     }
   },
   "Slovenia": {
