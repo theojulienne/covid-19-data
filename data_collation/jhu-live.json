@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 80131,
+          "confirmed": 80493,
           "date": "2020-11-02",
-          "deaths": 3202,
-          "recovered": 69048
+          "deaths": 3205,
+          "recovered": 69326
         }
       },
       "Quebec": {
@@ -989,10 +989,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 82617,
+      "confirmed": 83697,
       "date": "2020-11-02",
-      "deaths": 643,
-      "recovered": 42904
+      "deaths": 652,
+      "recovered": 43885
     }
   },
   "Libya": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 626511,
+          "confirmed": 626938,
           "date": "2020-11-02",
-          "deaths": 12714,
+          "deaths": 12717,
           "recovered": 0
         }
       },
