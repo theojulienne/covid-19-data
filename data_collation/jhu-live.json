@@ -545,21 +545,21 @@
         "live": {
           "confirmed": 83597,
           "date": "2020-11-02",
-          "deaths": 2030,
+          "deaths": 2031,
           "recovered": 57478
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 107366,
+          "confirmed": 109349,
           "date": "2020-11-02",
-          "deaths": 2808,
+          "deaths": 2809,
           "recovered": 78901
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 32592,
+          "confirmed": 32593,
           "date": "2020-11-02",
           "deaths": 261,
           "recovered": 21266
@@ -567,25 +567,25 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 42072,
+          "confirmed": 43379,
           "date": "2020-11-02",
-          "deaths": 654,
+          "deaths": 663,
           "recovered": 26102
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 37884,
+          "confirmed": 37919,
           "date": "2020-11-02",
-          "deaths": 761,
+          "deaths": 762,
           "recovered": 26509
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 136116,
+          "confirmed": 139485,
           "date": "2020-11-02",
-          "deaths": 2145,
+          "deaths": 2154,
           "recovered": 90156
         }
       }
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 67101,
+      "confirmed": 67156,
       "date": "2020-11-02",
       "deaths": 570,
-      "recovered": 64354
+      "recovered": 64466
     }
   },
   "Venezuela": {
