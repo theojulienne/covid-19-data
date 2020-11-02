@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 29731,
+          "confirmed": 29931,
           "date": "2020-11-02",
-          "deaths": 486,
-          "recovered": 27979
+          "deaths": 493,
+          "recovered": 28140
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 297119,
+          "confirmed": 297423,
           "date": "2020-11-02",
-          "deaths": 9864,
-          "recovered": 285069
+          "deaths": 9887,
+          "recovered": 285343
         }
       },
       "Valparaiso": {
         "live": {
           "confirmed": 30450,
           "date": "2020-11-02",
-          "deaths": 1059,
-          "recovered": 28910
+          "deaths": 1063,
+          "recovered": 28989
         }
       }
     }
@@ -942,7 +942,7 @@
           "confirmed": 31323,
           "date": "2020-11-02",
           "deaths": 461,
-          "recovered": 28886
+          "recovered": 28958
         }
       }
     }
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 33248,
+          "confirmed": 33360,
           "date": "2020-11-02",
           "deaths": 863,
           "recovered": 0
