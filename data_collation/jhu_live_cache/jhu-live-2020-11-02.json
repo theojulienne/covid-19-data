@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 53405,
+      "confirmed": 54607,
       "date": "2020-11-02",
-      "deaths": 1258,
-      "recovered": 34189
+      "deaths": 1282,
+      "recovered": 37954
     }
   },
   "Canada": {
@@ -845,10 +845,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 475288,
+      "confirmed": 478701,
       "date": "2020-11-02",
-      "deaths": 10966,
-      "recovered": 402782
+      "deaths": 11017,
+      "recovered": 405777
     }
   },
   "Ireland": {
@@ -941,7 +941,7 @@
         "live": {
           "confirmed": 31323,
           "date": "2020-11-02",
-          "deaths": 457,
+          "deaths": 461,
           "recovered": 28886
         }
       }
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 48403,
+      "confirmed": 49205,
       "date": "2020-11-02",
-      "deaths": 826,
+      "deaths": 833,
       "recovered": 0
     }
   },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 512120,
+          "confirmed": 512621,
           "date": "2020-11-02",
           "deaths": 9375,
           "recovered": 0
