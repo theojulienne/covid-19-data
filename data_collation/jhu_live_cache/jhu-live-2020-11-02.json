@@ -861,10 +861,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 314778,
+      "confirmed": 314943,
       "date": "2020-11-02",
-      "deaths": 2553,
-      "recovered": 302463
+      "deaths": 2554,
+      "recovered": 302709
     }
   },
   "Italy": {
@@ -1739,7 +1739,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 27735,
+          "confirmed": 27951,
           "date": "2020-11-02",
           "deaths": 815,
           "recovered": 0
