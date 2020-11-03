@@ -545,21 +545,21 @@
         "live": {
           "confirmed": 85448,
           "date": "2020-11-03",
-          "deaths": 2044,
+          "deaths": 2045,
           "recovered": 58552
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 109898,
+          "confirmed": 112301,
           "date": "2020-11-03",
-          "deaths": 2811,
+          "deaths": 2816,
           "recovered": 80378
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 33305,
+          "confirmed": 33310,
           "date": "2020-11-03",
           "deaths": 261,
           "recovered": 21740
@@ -567,25 +567,25 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 43379,
+          "confirmed": 44598,
           "date": "2020-11-03",
-          "deaths": 663,
+          "deaths": 683,
           "recovered": 26835
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 38714,
+          "confirmed": 38862,
           "date": "2020-11-03",
-          "deaths": 762,
+          "deaths": 763,
           "recovered": 27197
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 139485,
+          "confirmed": 144137,
           "date": "2020-11-03",
-          "deaths": 2154,
+          "deaths": 2193,
           "recovered": 92392
         }
       }
