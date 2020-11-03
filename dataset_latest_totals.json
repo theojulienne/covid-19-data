@@ -418,19 +418,19 @@
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 92823,
-        "deaths": 957,
-        "recovered": 83237
+        "confirmed": 93707,
+        "deaths": 961,
+        "recovered": 83748
       },
       "back_2week": {
-        "confirmed": 87698,
-        "deaths": 929,
-        "recovered": 79757
+        "confirmed": 88290,
+        "deaths": 933,
+        "recovered": 80130
       },
       "latest": {
-        "confirmed": 99459,
-        "deaths": 985,
-        "recovered": 87188
+        "confirmed": 100400,
+        "deaths": 989,
+        "recovered": 87400
       }
     },
     "BLZ": {
@@ -2881,19 +2881,19 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 344875,
-        "deaths": 5296,
-        "recovered": 331330
+        "confirmed": 345232,
+        "deaths": 5313,
+        "recovered": 331691
       },
       "back_2week": {
-        "confirmed": 342202,
-        "deaths": 5185,
-        "recovered": 328538
+        "confirmed": 342583,
+        "deaths": 5201,
+        "recovered": 328895
       },
       "latest": {
-        "confirmed": 347656,
-        "deaths": 5420,
-        "recovered": 334236
+        "confirmed": 348037,
+        "deaths": 5437,
+        "recovered": 334672
       }
     },
     "SDN": {
@@ -2934,12 +2934,12 @@
       "back_1week": {
         "confirmed": 57973,
         "deaths": 28,
-        "recovered": 57858
+        "recovered": 57879
       },
       "back_2week": {
         "confirmed": 57915,
         "deaths": 28,
-        "recovered": 57807
+        "recovered": 57819
       },
       "latest": {
         "confirmed": 58020,
@@ -3034,18 +3034,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 39486,
-        "deaths": 792,
+        "confirmed": 39827,
+        "deaths": 793,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 36160,
-        "deaths": 776,
+        "confirmed": 36282,
+        "deaths": 778,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 48403,
-        "deaths": 826,
+        "confirmed": 49205,
+        "deaths": 833,
         "recovered": 0
       }
     },

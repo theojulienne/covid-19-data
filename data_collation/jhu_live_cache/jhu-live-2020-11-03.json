@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 100400,
+      "confirmed": 101329,
       "date": "2020-11-03",
-      "deaths": 989,
-      "recovered": 87400
+      "deaths": 992,
+      "recovered": 87985
     }
   },
   "Belgium": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 54607,
+      "confirmed": 55804,
       "date": "2020-11-03",
-      "deaths": 1282,
-      "recovered": 37954
+      "deaths": 1307,
+      "recovered": 39063
     }
   },
   "Canada": {
@@ -355,26 +355,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 29931,
+          "confirmed": 30078,
           "date": "2020-11-03",
-          "deaths": 493,
-          "recovered": 28140
+          "deaths": 494,
+          "recovered": 28318
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 297423,
+          "confirmed": 297630,
           "date": "2020-11-03",
-          "deaths": 9887,
-          "recovered": 285343
+          "deaths": 9902,
+          "recovered": 285614
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30450,
+          "confirmed": 30555,
           "date": "2020-11-03",
           "deaths": 1063,
-          "recovered": 28989
+          "recovered": 29057
         }
       }
     }
@@ -551,9 +551,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 112301,
+          "confirmed": 112535,
           "date": "2020-11-03",
-          "deaths": 2816,
+          "deaths": 2822,
           "recovered": 80378
         }
       },
@@ -1409,17 +1409,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 348037,
+      "confirmed": 348510,
       "date": "2020-11-03",
-      "deaths": 5437,
-      "recovered": 334672
+      "deaths": 5456,
+      "recovered": 335153
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 49205,
+      "confirmed": 51083,
       "date": "2020-11-03",
-      "deaths": 833,
+      "deaths": 844,
       "recovered": 0
     }
   },
@@ -1428,7 +1428,7 @@
       "confirmed": 58029,
       "date": "2020-11-03",
       "deaths": 28,
-      "recovered": 57924
+      "recovered": 57937
     }
   },
   "Slovakia": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 182303,
       "date": "2020-11-03",
-      "deaths": 2430,
+      "deaths": 2439,
       "recovered": 83400
     }
   },
