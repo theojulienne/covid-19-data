@@ -829,10 +829,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 415402,
+      "confirmed": 418375,
       "date": "2020-11-03",
-      "deaths": 14044,
-      "recovered": 345566
+      "deaths": 14146,
+      "recovered": 349497
     }
   },
   "Iran": {
@@ -1425,7 +1425,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58026,
+      "confirmed": 58029,
       "date": "2020-11-03",
       "deaths": 28,
       "recovered": 57924
