@@ -401,19 +401,19 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 40893,
-        "deaths": 1086,
-        "recovered": 26459
+        "confirmed": 41596,
+        "deaths": 1104,
+        "recovered": 26542
       },
       "back_2week": {
-        "confirmed": 34112,
-        "deaths": 984,
-        "recovered": 24995
+        "confirmed": 34661,
+        "deaths": 997,
+        "recovered": 25442
       },
       "latest": {
-        "confirmed": 51505,
-        "deaths": 1248,
-        "recovered": 28194
+        "confirmed": 52269,
+        "deaths": 1280,
+        "recovered": 28567
       }
     },
     "BLR": {
@@ -1102,19 +1102,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 40356,
-        "deaths": 702,
-        "recovered": 31985
+        "confirmed": 41412,
+        "deaths": 708,
+        "recovered": 32237
       },
       "back_2week": {
-        "confirmed": 35392,
-        "deaths": 680,
-        "recovered": 29255
+        "confirmed": 35844,
+        "deaths": 686,
+        "recovered": 29562
       },
       "latest": {
-        "confirmed": 47299,
-        "deaths": 723,
-        "recovered": 34959
+        "confirmed": 48241,
+        "deaths": 724,
+        "recovered": 35411
       },
       "states": {
         "Faroe Islands": {
@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 451707,
-        "deaths": 10623,
-        "recovered": 381349
+        "confirmed": 455398,
+        "deaths": 10671,
+        "recovered": 384593
       },
       "back_2week": {
-        "confirmed": 426634,
-        "deaths": 10254,
-        "recovered": 360477
+        "confirmed": 430678,
+        "deaths": 10317,
+        "recovered": 363532
       },
       "latest": {
-        "confirmed": 475288,
-        "deaths": 10966,
-        "recovered": 402782
+        "confirmed": 478701,
+        "deaths": 11017,
+        "recovered": 405777
       }
     },
     "ISL": {
