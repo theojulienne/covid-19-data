@@ -335,10 +335,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 80759,
+          "confirmed": 81060,
           "date": "2020-11-03",
           "deaths": 3209,
-          "recovered": 69600
+          "recovered": 69851
         }
       },
       "Quebec": {
@@ -453,10 +453,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 111257,
+      "confirmed": 112120,
       "date": "2020-11-03",
-      "deaths": 1404,
-      "recovered": 68129
+      "deaths": 1419,
+      "recovered": 68604
     }
   },
   "Croatia": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 727595,
+      "confirmed": 728836,
       "date": "2020-11-03",
-      "deaths": 19465,
-      "recovered": 657500
+      "deaths": 19539,
+      "recovered": 659259
     }
   },
   "Spain": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 629406,
+          "confirmed": 629551,
           "date": "2020-11-03",
-          "deaths": 12719,
+          "deaths": 12718,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 63191,
+          "confirmed": 63444,
           "date": "2020-11-03",
-          "deaths": 1080,
+          "deaths": 1081,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 42937,
+          "confirmed": 43349,
           "date": "2020-11-03",
-          "deaths": 3060,
+          "deaths": 3065,
           "recovered": 0
         }
       },
@@ -1731,9 +1731,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 81132,
+          "confirmed": 82219,
           "date": "2020-11-03",
-          "deaths": 396,
+          "deaths": 400,
           "recovered": 0
         }
       },
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 44029,
+          "confirmed": 44945,
           "date": "2020-11-03",
-          "deaths": 594,
+          "deaths": 599,
           "recovered": 0
         }
       }
