@@ -443,9 +443,9 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 84271,
+          "confirmed": 85073,
           "date": "2020-11-03",
-          "deaths": 2829,
+          "deaths": 2846,
           "recovered": 75805
         }
       }
@@ -485,10 +485,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 127591,
+      "confirmed": 127848,
       "date": "2020-11-03",
-      "deaths": 2250,
-      "recovered": 105634
+      "deaths": 2252,
+      "recovered": 105982
     }
   },
   "Ecuador": {
@@ -601,9 +601,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 42080,
+      "confirmed": 44246,
       "date": "2020-11-03",
-      "deaths": 642,
+      "deaths": 655,
       "recovered": 23074
     }
   },
@@ -861,9 +861,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 315983,
+      "confirmed": 316064,
       "date": "2020-11-03",
-      "deaths": 2580,
+      "deaths": 2583,
       "recovered": 303634
     }
   },
@@ -949,10 +949,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 81743,
+      "confirmed": 86576,
       "date": "2020-11-03",
-      "deaths": 913,
-      "recovered": 7858
+      "deaths": 967,
+      "recovered": 7993
     }
   },
   "Kazakhstan": {
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 56601,
+      "confirmed": 57093,
       "date": "2020-11-03",
-      "deaths": 1027,
-      "recovered": 37442
+      "deaths": 1039,
+      "recovered": 37846
     }
   },
   "Kuwait": {
@@ -1113,10 +1113,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 76777,
+      "confirmed": 77487,
       "date": "2020-11-03",
-      "deaths": 1818,
-      "recovered": 56875
+      "deaths": 1838,
+      "recovered": 57402
     }
   },
   "Morocco": {
