@@ -2304,8 +2304,7 @@ var covid19_dataset_top10_by_deaths = {
           35728,
           36273,
           36494,
-          36725,
-          37141
+          36725
         ],
         "recovered": [
           0,
@@ -4613,8 +4612,7 @@ var covid19_dataset_top10_by_deaths = {
           596941,
           604952,
           612772,
-          620491,
-          628780
+          620491
         ],
         "deaths": [
           0,
@@ -4901,8 +4899,7 @@ var covid19_dataset_top10_by_deaths = {
           34113,
           34478,
           34864,
-          35298,
-          35738
+          35298
         ],
         "recovered": [
           0,
@@ -5189,8 +5186,7 @@ var covid19_dataset_top10_by_deaths = {
           472598,
           477300,
           481930,
-          486691,
-          491247
+          486691
         ]
       }
     },
@@ -8076,7 +8072,8 @@ var covid19_dataset_top10_by_deaths = {
           8819759,
           8915806,
           9005946,
-          9079581
+          9079581,
+          9160960
         ],
         "deaths": [
           0,
@@ -8363,7 +8360,8 @@ var covid19_dataset_top10_by_deaths = {
           219508,
           220434,
           221395,
-          221776
+          221776,
+          222245
         ],
         "recovered": [
           0,
@@ -8650,7 +8648,8 @@ var covid19_dataset_top10_by_deaths = {
           3521921,
           3545530,
           3579038,
-          3596709
+          3599985,
+          3641614
         ],
         "tested": [
           0,
@@ -8937,7 +8936,8 @@ var covid19_dataset_top10_by_deaths = {
           126503769,
           127579707,
           128707950,
-          129538411
+          129598164,
+          130739268
         ]
       }
     }
@@ -9229,7 +9229,8 @@ var covid19_dataset_top10_by_deaths = {
     "2020-10-31",
     "2020-11-01",
     "2020-11-02",
-    "2020-11-03"
+    "2020-11-03",
+    "2020-11-04"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
