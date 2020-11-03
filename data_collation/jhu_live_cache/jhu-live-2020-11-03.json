@@ -461,10 +461,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 52660,
+      "confirmed": 54087,
       "date": "2020-11-03",
-      "deaths": 594,
-      "recovered": 37332
+      "deaths": 628,
+      "recovered": 39380
     }
   },
   "Czechia": {
@@ -939,7 +939,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 31323,
+          "confirmed": 31532,
           "date": "2020-11-03",
           "deaths": 461,
           "recovered": 28958
@@ -1317,10 +1317,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 395480,
+      "confirmed": 414844,
       "date": "2020-11-03",
-      "deaths": 5875,
-      "recovered": 154413
+      "deaths": 6102,
+      "recovered": 159986
     }
   },
   "Portugal": {
@@ -1433,10 +1433,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 61829,
+      "confirmed": 63556,
       "date": "2020-11-03",
-      "deaths": 219,
-      "recovered": 13012
+      "deaths": 235,
+      "recovered": 14257
     }
   },
   "Slovenia": {
