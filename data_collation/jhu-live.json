@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 357699,
+      "confirmed": 362985,
       "date": "2020-11-04",
-      "deaths": 3859,
-      "recovered": 171438
+      "deaths": 3913,
+      "recovered": 185180
     }
   },
   "Denmark": {
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 59879,
+      "confirmed": 60279,
       "date": "2020-11-04",
-      "deaths": 1155,
-      "recovered": 50741
+      "deaths": 1159,
+      "recovered": 51288
     }
   },
   "Lebanon": {
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 518737,
+          "confirmed": 518885,
           "date": "2020-11-04",
           "deaths": 9423,
           "recovered": 0
