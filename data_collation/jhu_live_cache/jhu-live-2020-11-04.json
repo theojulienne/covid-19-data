@@ -405,56 +405,56 @@
         "live": {
           "confirmed": 174345,
           "date": "2020-11-04",
-          "deaths": 3272,
-          "recovered": 158080
+          "deaths": 3298,
+          "recovered": 160459
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 72480,
           "date": "2020-11-04",
-          "deaths": 3136,
-          "recovered": 67629
+          "deaths": 3137,
+          "recovered": 67815
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 33476,
           "date": "2020-11-04",
-          "deaths": 850,
-          "recovered": 31598
+          "deaths": 851,
+          "recovered": 31864
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 325839,
           "date": "2020-11-04",
-          "deaths": 7688,
-          "recovered": 294061
+          "deaths": 7715,
+          "recovered": 294790
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 43394,
           "date": "2020-11-04",
-          "deaths": 1235,
-          "recovered": 39443
+          "deaths": 1241,
+          "recovered": 39759
         }
       },
       "Santander": {
         "live": {
           "confirmed": 43442,
           "date": "2020-11-04",
-          "deaths": 1710,
-          "recovered": 37942
+          "deaths": 1717,
+          "recovered": 38253
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 85509,
           "date": "2020-11-04",
-          "deaths": 2846,
-          "recovered": 75805
+          "deaths": 2865,
+          "recovered": 75962
         }
       }
     }
