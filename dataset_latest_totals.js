@@ -3120,7 +3120,7 @@ var covid19_dataset_latest_totals = {
     "SWE": {
       "back_1week": {
         "confirmed": 115785,
-        "deaths": 5918,
+        "deaths": 5959,
         "recovered": 0
       },
       "back_2week": {
@@ -3130,7 +3130,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 134532,
-        "deaths": 5969,
+        "deaths": 5989,
         "recovered": 0
       }
     },
