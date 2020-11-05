@@ -288,7 +288,8 @@ var covid19_dataset_country_slv = {
     "2020-11-02",
     "2020-11-03",
     "2020-11-04",
-    "2020-11-05"
+    "2020-11-05",
+    "2020-11-06"
   ],
   "total": {
     "confirmed": [
@@ -867,8 +868,7 @@ var covid19_dataset_country_slv = {
       975,
       979,
       983,
-      987,
-      992
+      987
     ],
     "recovered": [
       0,
