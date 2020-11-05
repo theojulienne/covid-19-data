@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 30205,
+          "confirmed": 30459,
           "date": "2020-11-05",
-          "deaths": 494,
-          "recovered": 28498
+          "deaths": 504,
+          "recovered": 28651
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 297806,
+          "confirmed": 298153,
           "date": "2020-11-05",
-          "deaths": 9923,
-          "recovered": 285881
+          "deaths": 9941,
+          "recovered": 286088
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30596,
+          "confirmed": 30671,
           "date": "2020-11-05",
-          "deaths": 1063,
-          "recovered": 29117
+          "deaths": 1075,
+          "recovered": 29167
         }
       }
     }
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 156940,
+      "confirmed": 161350,
       "date": "2020-11-05",
-      "deaths": 2694,
-      "recovered": 88946
+      "deaths": 2740,
+      "recovered": 91453
     }
   },
   "Qatar": {
@@ -1436,7 +1436,7 @@
       "confirmed": 58043,
       "date": "2020-11-05",
       "deaths": 28,
-      "recovered": 57938
+      "recovered": 57949
     }
   },
   "Slovakia": {
@@ -1635,9 +1635,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 33651,
+          "confirmed": 33821,
           "date": "2020-11-05",
-          "deaths": 864,
+          "deaths": 865,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 525097,
+          "confirmed": 525784,
           "date": "2020-11-05",
           "deaths": 9485,
           "recovered": 0
