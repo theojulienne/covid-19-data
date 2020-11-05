@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 453310,
+      "confirmed": 468213,
       "date": "2020-11-05",
-      "deaths": 12126,
-      "recovered": 26661
+      "deaths": 12331,
+      "recovered": 27334
     }
   },
   "Bolivia": {
@@ -553,21 +553,21 @@
         "live": {
           "confirmed": 90738,
           "date": "2020-11-05",
-          "deaths": 2071,
+          "deaths": 2072,
           "recovered": 59655
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 116131,
+          "confirmed": 119505,
           "date": "2020-11-05",
-          "deaths": 2843,
+          "deaths": 2851,
           "recovered": 82361
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 35966,
+          "confirmed": 35971,
           "date": "2020-11-05",
           "deaths": 272,
           "recovered": 22417
@@ -575,25 +575,25 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 45819,
+          "confirmed": 47477,
           "date": "2020-11-05",
-          "deaths": 699,
+          "deaths": 710,
           "recovered": 27736
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 40820,
+          "confirmed": 41209,
           "date": "2020-11-05",
-          "deaths": 790,
+          "deaths": 791,
           "recovered": 28013
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 148699,
+          "confirmed": 153766,
           "date": "2020-11-05",
-          "deaths": 2236,
+          "deaths": 2267,
           "recovered": 95140
         }
       }
