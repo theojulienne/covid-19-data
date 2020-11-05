@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1195276,
+      "confirmed": 1205928,
       "date": "2020-11-05",
-      "deaths": 32052,
-      "recovered": 1009278
+      "deaths": 32520,
+      "recovered": 1017647
     }
   },
   "Armenia": {
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 370285,
+      "confirmed": 378716,
       "date": "2020-11-05",
-      "deaths": 4089,
-      "recovered": 185866
+      "deaths": 4133,
+      "recovered": 199763
     }
   },
   "Denmark": {
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 524758,
+          "confirmed": 524912,
           "date": "2020-11-05",
           "deaths": 9485,
           "recovered": 0
