@@ -869,7 +869,8 @@ var covid19_dataset_country_bih = {
       1234,
       1248,
       1280,
-      1317
+      1317,
+      1358
     ],
     "recovered": [
       0,

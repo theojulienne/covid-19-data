@@ -869,7 +869,8 @@ var covid19_dataset_country_eth = {
       1469,
       1478,
       1489,
-      1494
+      1494,
+      1503
     ],
     "recovered": [
       0,

@@ -869,7 +869,8 @@ var covid19_dataset_country_pan = {
       2700,
       2706,
       2720,
-      2731
+      2731,
+      2744
     ],
     "recovered": [
       0,

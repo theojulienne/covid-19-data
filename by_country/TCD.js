@@ -869,7 +869,8 @@ var covid19_dataset_country_tcd = {
       98,
       98,
       98,
-      98
+      98,
+      99
     ],
     "recovered": [
       0,

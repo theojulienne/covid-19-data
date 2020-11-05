@@ -869,6 +869,7 @@ var covid19_dataset_country_esh = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [

@@ -869,7 +869,8 @@ var covid19_dataset_country_jor = {
       829,
       866,
       913,
-      967
+      967,
+      1029
     ],
     "recovered": [
       0,

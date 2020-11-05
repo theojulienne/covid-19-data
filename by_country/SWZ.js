@@ -869,6 +869,7 @@ var covid19_dataset_country_swz = {
       117,
       117,
       117,
+      117,
       117
     ],
     "recovered": [

@@ -869,6 +869,7 @@ var covid19_dataset_country_gnq = {
       83,
       83,
       83,
+      83,
       83
     ],
     "recovered": [

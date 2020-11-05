@@ -869,6 +869,7 @@ var covid19_dataset_country_yem = {
       599,
       600,
       601,
+      601,
       601
     ],
     "recovered": [

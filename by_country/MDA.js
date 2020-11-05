@@ -869,7 +869,8 @@ var covid19_dataset_country_mda = {
       1785,
       1800,
       1818,
-      1838
+      1838,
+      1851
     ],
     "recovered": [
       0,

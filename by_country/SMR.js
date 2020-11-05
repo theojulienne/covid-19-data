@@ -869,6 +869,7 @@ var covid19_dataset_country_smr = {
       42,
       42,
       42,
+      42,
       42
     ],
     "recovered": [

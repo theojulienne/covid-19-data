@@ -869,7 +869,8 @@ var covid19_dataset_country_idn = {
       13869,
       13943,
       14044,
-      14146
+      14146,
+      14259
     ],
     "recovered": [
       0,

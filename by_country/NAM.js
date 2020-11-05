@@ -869,6 +869,7 @@ var covid19_dataset_country_nam = {
       133,
       133,
       133,
+      133,
       133
     ],
     "recovered": [

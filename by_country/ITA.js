@@ -869,7 +869,8 @@ var covid19_dataset_country_ita = {
       38618,
       38826,
       39059,
-      39412
+      39412,
+      39764
     ],
     "recovered": [
       0,

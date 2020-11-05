@@ -869,6 +869,7 @@ var covid19_dataset_country_sdn = {
       837,
       837,
       837,
+      837,
       837
     ],
     "recovered": [

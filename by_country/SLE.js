@@ -869,6 +869,7 @@ var covid19_dataset_country_sle = {
       74,
       74,
       74,
+      74,
       74
     ],
     "recovered": [

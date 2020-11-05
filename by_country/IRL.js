@@ -869,7 +869,8 @@ var covid19_dataset_country_irl = {
       1913,
       1915,
       1917,
-      1922
+      1922,
+      1930
     ],
     "recovered": [
       0,

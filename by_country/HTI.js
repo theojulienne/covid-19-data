@@ -869,6 +869,7 @@ var covid19_dataset_country_hti = {
       232,
       232,
       232,
+      232,
       232
     ],
     "recovered": [

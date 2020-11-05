@@ -869,6 +869,7 @@ var covid19_dataset_country_caf = {
       62,
       62,
       62,
+      62,
       62
     ],
     "recovered": [

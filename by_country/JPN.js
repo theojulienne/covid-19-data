@@ -869,7 +869,8 @@ var covid19_dataset_country_jpn = {
       1769,
       1776,
       1787,
-      1794
+      1794,
+      1799
     ],
     "recovered": [
       0,

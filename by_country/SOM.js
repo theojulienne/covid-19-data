@@ -869,6 +869,7 @@ var covid19_dataset_country_som = {
       104,
       104,
       104,
+      107,
       107
     ],
     "recovered": [

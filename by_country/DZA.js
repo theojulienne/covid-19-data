@@ -869,7 +869,8 @@ var covid19_dataset_country_dza = {
       1964,
       1973,
       1980,
-      1980
+      1980,
+      1999
     ],
     "recovered": [
       0,

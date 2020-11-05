@@ -869,6 +869,7 @@ var covid19_dataset_country_mdv = {
       38,
       38,
       38,
+      38,
       38
     ],
     "recovered": [

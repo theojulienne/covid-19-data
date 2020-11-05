@@ -869,7 +869,8 @@ var covid19_dataset_country_gnb = {
       41,
       41,
       41,
-      41
+      41,
+      42
     ],
     "recovered": [
       0,

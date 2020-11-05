@@ -869,7 +869,8 @@ var covid19_dataset_country_hun = {
       1750,
       1819,
       1889,
-      1973
+      1973,
+      2063
     ],
     "recovered": [
       0,

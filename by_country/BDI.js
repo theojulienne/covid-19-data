@@ -869,6 +869,7 @@ var covid19_dataset_country_bdi = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [

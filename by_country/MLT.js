@@ -869,7 +869,8 @@ var covid19_dataset_country_mlt = {
       62,
       64,
       66,
-      64
+      64,
+      65
     ],
     "recovered": [
       0,

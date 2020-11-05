@@ -869,7 +869,8 @@ var covid19_dataset_country_dom = {
       2245,
       2249,
       2250,
-      2252
+      2252,
+      2257
     ],
     "recovered": [
       0,
