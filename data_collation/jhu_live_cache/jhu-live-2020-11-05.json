@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 41814,
+      "confirmed": 41935,
       "date": "2020-11-05",
-      "deaths": 1548,
-      "recovered": 34362
+      "deaths": 1554,
+      "recovered": 34440
     }
   },
   "Algeria": {
@@ -517,10 +517,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 34015,
+      "confirmed": 34782,
       "date": "2020-11-05",
       "deaths": 997,
-      "recovered": 29788
+      "recovered": 30707
     }
   },
   "Ethiopia": {
@@ -1441,10 +1441,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 66772,
+      "confirmed": 68734,
       "date": "2020-11-05",
-      "deaths": 261,
-      "recovered": 15474
+      "deaths": 286,
+      "recovered": 16426
     }
   },
   "Slovenia": {
