@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 468213,
+      "confirmed": 479341,
       "date": "2020-11-06",
-      "deaths": 12331,
-      "recovered": 27334
+      "deaths": 12520,
+      "recovered": 27987
     }
   },
   "Bolivia": {
@@ -553,21 +553,21 @@
         "live": {
           "confirmed": 93267,
           "date": "2020-11-06",
-          "deaths": 2091,
+          "deaths": 2092,
           "recovered": 60865
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 119897,
+          "confirmed": 123225,
           "date": "2020-11-06",
-          "deaths": 2852,
+          "deaths": 2885,
           "recovered": 84397
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 37353,
+          "confirmed": 37357,
           "date": "2020-11-06",
           "deaths": 287,
           "recovered": 23001
@@ -575,25 +575,25 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 47477,
+          "confirmed": 49327,
           "date": "2020-11-06",
-          "deaths": 710,
+          "deaths": 729,
           "recovered": 28596
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 42243,
+          "confirmed": 42707,
           "date": "2020-11-06",
-          "deaths": 796,
+          "deaths": 802,
           "recovered": 28910
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 153766,
+          "confirmed": 159027,
           "date": "2020-11-06",
-          "deaths": 2267,
+          "deaths": 2297,
           "recovered": 97827
         }
       }
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 99124,
+      "confirmed": 99347,
       "date": "2020-11-06",
-      "deaths": 2730,
-      "recovered": 42153
+      "deaths": 2736,
+      "recovered": 42574
     }
   },
   "Hungary": {
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 114235,
+      "confirmed": 114826,
       "date": "2020-11-06",
       "deaths": 1857,
-      "recovered": 107139
+      "recovered": 107339
     }
   },
   "Kenya": {
