@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 640501,
+          "confirmed": 641197,
           "date": "2020-11-06",
-          "deaths": 12836,
+          "deaths": 12847,
           "recovered": 0
         }
       },
@@ -1611,7 +1611,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 64115,
+          "confirmed": 64366,
           "date": "2020-11-06",
           "deaths": 1093,
           "recovered": 0
@@ -1731,9 +1731,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 85397,
+          "confirmed": 87259,
           "date": "2020-11-06",
-          "deaths": 408,
+          "deaths": 418,
           "recovered": 0
         }
       },
