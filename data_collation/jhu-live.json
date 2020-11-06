@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 416006,
+      "confirmed": 417475,
       "date": "2020-11-06",
-      "deaths": 6021,
-      "recovered": 333588
+      "deaths": 6036,
+      "recovered": 335027
     }
   },
   "Belarus": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 59415,
+      "confirmed": 62305,
       "date": "2020-11-06",
-      "deaths": 683,
-      "recovered": 43376
+      "deaths": 717,
+      "recovered": 46021
     }
   },
   "Czechia": {
@@ -1317,10 +1317,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 466679,
+      "confirmed": 493765,
       "date": "2020-11-06",
-      "deaths": 6842,
-      "recovered": 177681
+      "deaths": 7287,
+      "recovered": 188675
     }
   },
   "Portugal": {
@@ -1433,10 +1433,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 68734,
+      "confirmed": 71088,
       "date": "2020-11-06",
-      "deaths": 286,
-      "recovered": 16426
+      "deaths": 317,
+      "recovered": 16990
     }
   },
   "Slovenia": {
