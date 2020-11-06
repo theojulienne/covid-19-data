@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 83883,
+          "confirmed": 84288,
           "date": "2020-11-06",
-          "deaths": 3257,
-          "recovered": 72456
+          "deaths": 3259,
+          "recovered": 72736
         }
       },
       "Quebec": {
@@ -354,7 +354,7 @@
           "confirmed": 112189,
           "date": "2020-11-06",
           "deaths": 6403,
-          "recovered": 94884
+          "recovered": 95956
         }
       }
     }
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 98391,
+      "confirmed": 98746,
       "date": "2020-11-06",
-      "deaths": 1508,
-      "recovered": 57114
+      "deaths": 1512,
+      "recovered": 58103
     }
   },
   "France": {
@@ -1613,7 +1613,7 @@
         "live": {
           "confirmed": 64115,
           "date": "2020-11-06",
-          "deaths": 1087,
+          "deaths": 1093,
           "recovered": 0
         }
       },
@@ -1683,7 +1683,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 392012,
+          "confirmed": 393625,
           "date": "2020-11-06",
           "deaths": 28638,
           "recovered": 0
@@ -1715,15 +1715,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 73076,
+          "confirmed": 73264,
           "date": "2020-11-06",
-          "deaths": 940,
+          "deaths": 944,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 530350,
+          "confirmed": 531903,
           "date": "2020-11-06",
           "deaths": 9539,
           "recovered": 0
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 46805,
+          "confirmed": 47640,
           "date": "2020-11-06",
-          "deaths": 606,
+          "deaths": 616,
           "recovered": 0
         }
       }
