@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 82786,
+      "confirmed": 83023,
       "date": "2020-11-06",
       "deaths": 328,
-      "recovered": 80174
+      "recovered": 80526
     }
   },
   "Bangladesh": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 114367,
+      "confirmed": 115417,
       "date": "2020-11-06",
-      "deaths": 1444,
-      "recovered": 70002
+      "deaths": 1453,
+      "recovered": 70421
     }
   },
   "Croatia": {
@@ -1587,9 +1587,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 192414,
+          "confirmed": 194033,
           "date": "2020-11-06",
-          "deaths": 4322,
+          "deaths": 4335,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 204977,
+          "confirmed": 210266,
           "date": "2020-11-06",
-          "deaths": 5574,
+          "deaths": 5742,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 63500,
+          "confirmed": 64204,
           "date": "2020-11-06",
-          "deaths": 3494,
+          "deaths": 3501,
           "recovered": 0
         }
       },
