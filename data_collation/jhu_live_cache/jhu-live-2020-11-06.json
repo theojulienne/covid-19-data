@@ -405,7 +405,7 @@
         "live": {
           "confirmed": 178735,
           "date": "2020-11-06",
-          "deaths": 3322,
+          "deaths": 3360,
           "recovered": 163000
         }
       },
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 329879,
           "date": "2020-11-06",
-          "deaths": 7748,
+          "deaths": 7787,
           "recovered": 301106
         }
       },
@@ -437,7 +437,7 @@
         "live": {
           "confirmed": 43962,
           "date": "2020-11-06",
-          "deaths": 1245,
+          "deaths": 1254,
           "recovered": 40355
         }
       },
@@ -445,7 +445,7 @@
         "live": {
           "confirmed": 44184,
           "date": "2020-11-06",
-          "deaths": 1730,
+          "deaths": 1742,
           "recovered": 38885
         }
       },
@@ -453,7 +453,7 @@
         "live": {
           "confirmed": 87139,
           "date": "2020-11-06",
-          "deaths": 2875,
+          "deaths": 2893,
           "recovered": 77340
         }
       }
@@ -1797,7 +1797,7 @@
         "live": {
           "confirmed": 955236,
           "date": "2020-11-06",
-          "deaths": 42136,
+          "deaths": 42433,
           "recovered": 0
         }
       },
@@ -1805,7 +1805,7 @@
         "live": {
           "confirmed": 41374,
           "date": "2020-11-06",
-          "deaths": 740,
+          "deaths": 752,
           "recovered": 0
         }
       },
@@ -1813,7 +1813,7 @@
         "live": {
           "confirmed": 69660,
           "date": "2020-11-06",
-          "deaths": 2927,
+          "deaths": 2966,
           "recovered": 0
         }
       },
@@ -1821,7 +1821,7 @@
         "live": {
           "confirmed": 56927,
           "date": "2020-11-06",
-          "deaths": 1939,
+          "deaths": 1969,
           "recovered": 0
         }
       }
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 93480,
+      "confirmed": 93921,
       "date": "2020-11-06",
-      "deaths": 814,
-      "recovered": 88326
+      "deaths": 819,
+      "recovered": 88701
     }
   },
   "West Bank and Gaza": {
