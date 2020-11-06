@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 57506,
+      "confirmed": 59427,
       "date": "2020-11-06",
-      "deaths": 1402,
-      "recovered": 29689
+      "deaths": 1457,
+      "recovered": 29970
     }
   },
   "Brazil": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 57935,
+      "confirmed": 59277,
       "date": "2020-11-06",
-      "deaths": 1352,
-      "recovered": 42178
+      "deaths": 1376,
+      "recovered": 43277
     }
   },
   "Canada": {
@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 82834,
+          "confirmed": 83705,
           "date": "2020-11-06",
-          "deaths": 3245,
-          "recovered": 71476
+          "deaths": 3254,
+          "recovered": 72250
         }
       },
       "Quebec": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 30459,
+          "confirmed": 30716,
           "date": "2020-11-06",
-          "deaths": 504,
-          "recovered": 28651
+          "deaths": 507,
+          "recovered": 28807
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 298153,
+          "confirmed": 298521,
           "date": "2020-11-06",
-          "deaths": 9941,
-          "recovered": 286088
+          "deaths": 9956,
+          "recovered": 286340
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30671,
+          "confirmed": 30744,
           "date": "2020-11-06",
-          "deaths": 1075,
-          "recovered": 29167
+          "deaths": 1076,
+          "recovered": 29226
         }
       }
     }
@@ -559,10 +559,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 123225,
+          "confirmed": 124004,
           "date": "2020-11-06",
-          "deaths": 2885,
-          "recovered": 84397
+          "deaths": 2888,
+          "recovered": 86297
         }
       },
       "Berlin": {
@@ -853,10 +853,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 489571,
+      "confirmed": 493139,
       "date": "2020-11-06",
-      "deaths": 11175,
-      "recovered": 420206
+      "deaths": 11244,
+      "recovered": 423266
     }
   },
   "Ireland": {
@@ -950,7 +950,7 @@
           "confirmed": 32165,
           "date": "2020-11-06",
           "deaths": 463,
-          "recovered": 29411
+          "recovered": 29615
         }
       }
     }
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 61309,
+      "confirmed": 61748,
       "date": "2020-11-06",
-      "deaths": 1167,
-      "recovered": 52343
+      "deaths": 1170,
+      "recovered": 52855
     }
   },
   "Lebanon": {
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 55676,
+      "confirmed": 57958,
       "date": "2020-11-06",
-      "deaths": 861,
+      "deaths": 871,
       "recovered": 0
     }
   },
