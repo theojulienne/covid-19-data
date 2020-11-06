@@ -2,17 +2,17 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 41145,
+        "confirmed": 41268,
         "deaths": 1529,
         "recovered": 34237
       },
       "back_2week": {
-        "confirmed": 40510,
+        "confirmed": 40626,
         "deaths": 1501,
         "recovered": 33824
       },
       "latest": {
-        "confirmed": 41814,
+        "confirmed": 41935,
         "deaths": 1548,
         "recovered": 34362
       }
@@ -2618,7 +2618,7 @@
     "NZL": {
       "back_1week": {
         "confirmed": 1520,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1484,
@@ -2626,7 +2626,7 @@
       },
       "back_2week": {
         "confirmed": 1507,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
@@ -2634,7 +2634,7 @@
       },
       "latest": {
         "confirmed": 1529,
-        "current_hospitalized": 2,
+        "current_hospitalized": 3,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1490,
@@ -2932,17 +2932,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 57987,
+        "confirmed": 57994,
         "deaths": 28,
         "recovered": 57890
       },
       "back_2week": {
-        "confirmed": 57933,
+        "confirmed": 57941,
         "deaths": 28,
         "recovered": 57821
       },
       "latest": {
-        "confirmed": 58036,
+        "confirmed": 58043,
         "deaths": 28,
         "recovered": 57938
       }
