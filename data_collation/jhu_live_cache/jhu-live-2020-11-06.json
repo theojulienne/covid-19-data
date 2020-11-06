@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 129638,
+      "confirmed": 130463,
       "date": "2020-11-06",
-      "deaths": 799,
-      "recovered": 120564
+      "deaths": 804,
+      "recovered": 121263
     }
   },
   "Kyrgyzstan": {
@@ -1341,10 +1341,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 276802,
+      "confirmed": 287062,
       "date": "2020-11-06",
-      "deaths": 7540,
-      "recovered": 191085
+      "deaths": 7663,
+      "recovered": 195971
     }
   },
   "Russia": {
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 56672,
+      "confirmed": 57226,
       "date": "2020-11-06",
-      "deaths": 508,
-      "recovered": 48680
+      "deaths": 511,
+      "recovered": 49537
     }
   }
 }
