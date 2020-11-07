@@ -2711,19 +2711,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 376935,
-        "deaths": 7147,
-        "recovered": 329848
+        "confirmed": 378933,
+        "deaths": 7185,
+        "recovered": 330457
       },
       "back_2week": {
-        "confirmed": 363888,
-        "deaths": 6783,
-        "recovered": 312333
+        "confirmed": 365799,
+        "deaths": 6915,
+        "recovered": 312691
       },
       "latest": {
-        "confirmed": 389725,
-        "deaths": 7409,
-        "recovered": 349543
+        "confirmed": 391809,
+        "deaths": 7461,
+        "recovered": 349974
       }
     },
     "PNG": {

@@ -1309,10 +1309,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 391809,
+      "confirmed": 393961,
       "date": "2020-11-07",
-      "deaths": 7461,
-      "recovered": 349974
+      "deaths": 7485,
+      "recovered": 350216
     }
   },
   "Poland": {
@@ -1351,58 +1351,58 @@
     "subseries": {
       "Khanty-Mansi Autonomous Okrug": {
         "live": {
-          "confirmed": 29437,
+          "confirmed": 29636,
           "date": "2020-11-07",
-          "deaths": 269,
-          "recovered": 24765
+          "deaths": 274,
+          "recovered": 24886
         }
       },
       "Moscow": {
         "live": {
-          "confirmed": 456689,
+          "confirmed": 462518,
           "date": "2020-11-07",
-          "deaths": 7140,
-          "recovered": 332984
+          "deaths": 7215,
+          "recovered": 336659
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 90251,
+          "confirmed": 90880,
           "date": "2020-11-07",
-          "deaths": 1677,
-          "recovered": 67150
+          "deaths": 1691,
+          "recovered": 67585
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 44010,
+          "confirmed": 44444,
           "date": "2020-11-07",
-          "deaths": 857,
-          "recovered": 36780
+          "deaths": 869,
+          "recovered": 37201
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 32491,
+          "confirmed": 32805,
           "date": "2020-11-07",
-          "deaths": 911,
-          "recovered": 25828
+          "deaths": 929,
+          "recovered": 26112
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 67434,
+          "confirmed": 68692,
           "date": "2020-11-07",
-          "deaths": 4078,
-          "recovered": 41533
+          "deaths": 4131,
+          "recovered": 42184
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 37895,
+          "confirmed": 38188,
           "date": "2020-11-07",
-          "deaths": 815,
-          "recovered": 30001
+          "deaths": 823,
+          "recovered": 30301
         }
       }
     }
