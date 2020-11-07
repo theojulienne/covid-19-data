@@ -477,7 +477,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 397791,
+      "confirmed": 403497,
       "date": "2020-11-07",
       "deaths": 4484,
       "recovered": 214882
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 643238,
+          "confirmed": 643695,
           "date": "2020-11-07",
-          "deaths": 12864,
+          "deaths": 12874,
           "recovered": 0
         }
       },
@@ -1723,7 +1723,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 534041,
+          "confirmed": 534221,
           "date": "2020-11-07",
           "deaths": 9575,
           "recovered": 0
@@ -1739,7 +1739,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 29316,
+          "confirmed": 29832,
           "date": "2020-11-07",
           "deaths": 822,
           "recovered": 0
