@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 110502,
+      "confirmed": 111050,
       "date": "2020-11-07",
-      "deaths": 3794,
-      "recovered": 100319
+      "deaths": 3811,
+      "recovered": 100808
     }
   },
   "Honduras": {
@@ -957,10 +957,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 101248,
+      "confirmed": 104802,
       "date": "2020-11-07",
-      "deaths": 1136,
-      "recovered": 8506
+      "deaths": 1181,
+      "recovered": 8629
     }
   },
   "Kazakhstan": {
@@ -1325,10 +1325,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 166900,
+      "confirmed": 173540,
       "date": "2020-11-07",
-      "deaths": 2792,
-      "recovered": 93754
+      "deaths": 2848,
+      "recovered": 97747
     }
   },
   "Qatar": {
@@ -1635,7 +1635,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 34070,
+          "confirmed": 34246,
           "date": "2020-11-07",
           "deaths": 869,
           "recovered": 0
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 57226,
+      "confirmed": 57657,
       "date": "2020-11-07",
-      "deaths": 511,
-      "recovered": 49537
+      "deaths": 512,
+      "recovered": 49975
     }
   }
 }

@@ -1609,19 +1609,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 106790,
-        "deaths": 3704,
-        "recovered": 96187
+        "confirmed": 107339,
+        "deaths": 3714,
+        "recovered": 96752
       },
       "back_2week": {
-        "confirmed": 103172,
-        "deaths": 3580,
-        "recovered": 92665
+        "confirmed": 103902,
+        "deaths": 3594,
+        "recovered": 93341
       },
       "latest": {
-        "confirmed": 109849,
-        "deaths": 3766,
-        "recovered": 99753
+        "confirmed": 110502,
+        "deaths": 3794,
+        "recovered": 100319
       }
     },
     "GUY": {
@@ -1864,19 +1864,19 @@ var covid19_dataset_latest_totals = {
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 65385,
-        "deaths": 740,
-        "recovered": 7508
+        "confirmed": 69306,
+        "deaths": 772,
+        "recovered": 7600
       },
       "back_2week": {
-        "confirmed": 46441,
-        "deaths": 481,
-        "recovered": 7340
+        "confirmed": 48930,
+        "deaths": 508,
+        "recovered": 7449
       },
       "latest": {
-        "confirmed": 95864,
-        "deaths": 1069,
-        "recovered": 8336
+        "confirmed": 101248,
+        "deaths": 1136,
+        "recovered": 8506
       }
     },
     "JPN": {
@@ -2762,19 +2762,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 132616,
-        "deaths": 2428,
-        "recovered": 75702
+        "confirmed": 137272,
+        "deaths": 2468,
+        "recovered": 77449
       },
       "back_2week": {
-        "confirmed": 109541,
-        "deaths": 2245,
-        "recovered": 64531
+        "confirmed": 112440,
+        "deaths": 2276,
+        "recovered": 65880
       },
       "latest": {
-        "confirmed": 161350,
-        "deaths": 2740,
-        "recovered": 91453
+        "confirmed": 166900,
+        "deaths": 2792,
+        "recovered": 93754
       }
     },
     "PRY": {
