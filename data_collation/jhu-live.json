@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 479341,
+      "confirmed": 488044,
       "date": "2020-11-07",
-      "deaths": 12520,
-      "recovered": 27987
+      "deaths": 12708,
+      "recovered": 28613
     }
   },
   "Bolivia": {
@@ -554,7 +554,7 @@
           "confirmed": 96596,
           "date": "2020-11-07",
           "deaths": 2106,
-          "recovered": 62190
+          "recovered": 63194
         }
       },
       "Bayern": {
@@ -562,7 +562,7 @@
           "confirmed": 124004,
           "date": "2020-11-07",
           "deaths": 2888,
-          "recovered": 86297
+          "recovered": 87989
         }
       },
       "Berlin": {
@@ -570,7 +570,7 @@
           "confirmed": 38682,
           "date": "2020-11-07",
           "deaths": 292,
-          "recovered": 23652
+          "recovered": 23905
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 49327,
           "date": "2020-11-07",
           "deaths": 729,
-          "recovered": 29728
+          "recovered": 30620
         }
       },
       "Niedersachsen": {
@@ -586,7 +586,7 @@
           "confirmed": 43837,
           "date": "2020-11-07",
           "deaths": 806,
-          "recovered": 29770
+          "recovered": 30553
         }
       },
       "Nordrhein-Westfalen": {
@@ -594,7 +594,7 @@
           "confirmed": 159027,
           "date": "2020-11-07",
           "deaths": 2297,
-          "recovered": 100887
+          "recovered": 103662
         }
       }
     }
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 99347,
+      "confirmed": 99576,
       "date": "2020-11-07",
-      "deaths": 2736,
-      "recovered": 42574
+      "deaths": 2741,
+      "recovered": 42609
     }
   },
   "Hungary": {
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 114826,
+      "confirmed": 115439,
       "date": "2020-11-07",
       "deaths": 1857,
-      "recovered": 107339
+      "recovered": 107530
     }
   },
   "Kenya": {
@@ -1215,26 +1215,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 40148,
+          "confirmed": 40285,
           "date": "2020-11-07",
-          "deaths": 1287,
-          "recovered": 37866
+          "deaths": 1288,
+          "recovered": 37955
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 105856,
+          "confirmed": 106208,
           "date": "2020-11-07",
-          "deaths": 2390,
-          "recovered": 97549
+          "deaths": 2399,
+          "recovered": 97584
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 148343,
+          "confirmed": 148922,
           "date": "2020-11-07",
-          "deaths": 2664,
-          "recovered": 139866
+          "deaths": 2667,
+          "recovered": 140233
         }
       }
     }
