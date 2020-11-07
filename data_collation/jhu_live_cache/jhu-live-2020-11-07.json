@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 34966,
       "date": "2020-11-07",
-      "deaths": 1002,
+      "deaths": 1006,
       "recovered": 30941
     }
   },
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 68139,
+      "confirmed": 68367,
       "date": "2020-11-07",
-      "deaths": 579,
-      "recovered": 65333
+      "deaths": 580,
+      "recovered": 65550
     }
   },
   "Venezuela": {
