@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 84771,
+          "confirmed": 85019,
           "date": "2020-11-07",
-          "deaths": 3265,
-          "recovered": 73192
+          "deaths": 3273,
+          "recovered": 73222
         }
       },
       "Quebec": {
@@ -567,10 +567,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 38686,
+          "confirmed": 39379,
           "date": "2020-11-07",
-          "deaths": 292,
-          "recovered": 23652
+          "deaths": 294,
+          "recovered": 24025
         }
       },
       "Hessen": {
@@ -861,18 +861,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 64538,
+      "confirmed": 64855,
       "date": "2020-11-07",
-      "deaths": 1940,
+      "deaths": 1945,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 318402,
+      "confirmed": 318904,
       "date": "2020-11-07",
-      "deaths": 2644,
-      "recovered": 306890
+      "deaths": 2649,
+      "recovered": 307438
     }
   },
   "Italy": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 643825,
+          "confirmed": 644290,
           "date": "2020-11-07",
-          "deaths": 12876,
+          "deaths": 12877,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 210266,
+          "confirmed": 214924,
           "date": "2020-11-07",
-          "deaths": 5742,
+          "deaths": 5770,
           "recovered": 0
         }
       },
@@ -1685,7 +1685,7 @@
         "live": {
           "confirmed": 393625,
           "date": "2020-11-07",
-          "deaths": 28638,
+          "deaths": 28643,
           "recovered": 0
         }
       },
