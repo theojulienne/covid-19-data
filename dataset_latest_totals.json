@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 231383,
+        "confirmed": 234939,
         "deaths": 10127,
         "recovered": 194105
       },
       "back_2week": {
-        "confirmed": 211617,
+        "confirmed": 214519,
         "deaths": 9916,
         "recovered": 173299
       },
       "latest": {
-        "confirmed": 253482,
+        "confirmed": 258874,
         "deaths": 10432,
         "recovered": 210429
       },
@@ -623,7 +623,7 @@
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 82834,
+          "confirmed": 84759,
           "deaths": 3245
         },
         "Prince Edward Island": {
@@ -1034,17 +1034,17 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 310068,
+        "confirmed": 323673,
         "deaths": 3078,
         "recovered": 137575
       },
       "back_2week": {
-        "confirmed": 223065,
+        "confirmed": 238323,
         "deaths": 1971,
         "recovered": 91651
       },
       "latest": {
-        "confirmed": 391945,
+        "confirmed": 403497,
         "deaths": 4484,
         "recovered": 214882
       }
@@ -1148,35 +1148,35 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 57332,
-        "deaths": 1949,
-        "recovered": 39635
+        "confirmed": 57651,
+        "deaths": 1956,
+        "recovered": 40014
       },
       "back_2week": {
-        "confirmed": 55357,
-        "deaths": 1888,
-        "recovered": 38618
+        "confirmed": 55630,
+        "deaths": 1897,
+        "recovered": 38788
       },
       "latest": {
-        "confirmed": 60169,
-        "deaths": 2011,
-        "recovered": 41244
+        "confirmed": 60800,
+        "deaths": 2024,
+        "recovered": 41510
       }
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 166302,
-        "deaths": 12622,
+        "confirmed": 167147,
+        "deaths": 12632,
         "recovered": 141759
       },
       "back_2week": {
-        "confirmed": 156451,
-        "deaths": 12500,
+        "confirmed": 158270,
+        "deaths": 12528,
         "recovered": 134187
       },
       "latest": {
-        "confirmed": 171783,
-        "deaths": 12730,
+        "confirmed": 172508,
+        "deaths": 12761,
         "recovered": 149048
       }
     },
@@ -1267,19 +1267,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 95301,
-        "deaths": 1457,
-        "recovered": 50753
+        "confirmed": 95789,
+        "deaths": 1464,
+        "recovered": 51713
       },
       "back_2week": {
-        "confirmed": 91693,
-        "deaths": 1396,
-        "recovered": 45260
+        "confirmed": 92229,
+        "deaths": 1400,
+        "recovered": 46118
       },
       "latest": {
-        "confirmed": 98391,
-        "deaths": 1508,
-        "recovered": 57114
+        "confirmed": 98746,
+        "deaths": 1512,
+        "recovered": 58103
       }
     },
     "FIN": {
@@ -1575,18 +1575,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 35510,
-        "deaths": 615,
+        "confirmed": 37196,
+        "deaths": 620,
         "recovered": 23074
       },
       "back_2week": {
-        "confirmed": 28216,
-        "deaths": 549,
+        "confirmed": 29057,
+        "deaths": 559,
         "recovered": 19749
       },
       "latest": {
-        "confirmed": 49807,
-        "deaths": 702,
+        "confirmed": 52254,
+        "deaths": 715,
         "recovered": 23074
       }
     },
@@ -2187,19 +2187,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 212038,
-        "deaths": 3572,
-        "recovered": 174911
+        "confirmed": 215294,
+        "deaths": 3625,
+        "recovered": 177925
       },
       "back_2week": {
-        "confirmed": 186731,
-        "deaths": 3132,
-        "recovered": 154481
+        "confirmed": 190416,
+        "deaths": 3205,
+        "recovered": 157175
       },
       "latest": {
-        "confirmed": 240951,
-        "deaths": 4059,
-        "recovered": 197215
+        "confirmed": 246349,
+        "deaths": 4127,
+        "recovered": 200954
       }
     },
     "MCO": {

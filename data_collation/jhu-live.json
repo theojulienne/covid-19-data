@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 60800,
+      "confirmed": 61381,
       "date": "2020-11-07",
-      "deaths": 2024,
-      "recovered": 41510
+      "deaths": 2036,
+      "recovered": 41783
     }
   },
   "Argentina": {
@@ -343,7 +343,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 84759,
+          "confirmed": 84771,
           "date": "2020-11-07",
           "deaths": 3265,
           "recovered": 73192
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 403497,
+      "confirmed": 407440,
       "date": "2020-11-07",
-      "deaths": 4526,
-      "recovered": 229604
+      "deaths": 4614,
+      "recovered": 229786
     }
   },
   "Denmark": {
@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 172508,
+      "confirmed": 173486,
       "date": "2020-11-07",
-      "deaths": 12761,
+      "deaths": 12815,
       "recovered": 149048
     }
   },
@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 98746,
+      "confirmed": 99201,
       "date": "2020-11-07",
-      "deaths": 1512,
-      "recovered": 58103
+      "deaths": 1518,
+      "recovered": 58948
     }
   },
   "France": {
@@ -609,9 +609,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 52254,
+      "confirmed": 54809,
       "date": "2020-11-07",
-      "deaths": 715,
+      "deaths": 749,
       "recovered": 23074
     }
   },
@@ -1137,10 +1137,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 246349,
+      "confirmed": 252185,
       "date": "2020-11-07",
-      "deaths": 4127,
-      "recovered": 200954
+      "deaths": 4197,
+      "recovered": 205556
     }
   },
   "Nepal": {
@@ -1357,14 +1357,6 @@
   },
   "Russia": {
     "subseries": {
-      "Khanty-Mansi Autonomous Okrug": {
-        "live": {
-          "confirmed": 29636,
-          "date": "2020-11-07",
-          "deaths": 274,
-          "recovered": 24886
-        }
-      },
       "Moscow": {
         "live": {
           "confirmed": 462518,
@@ -1633,6 +1625,14 @@
           "recovered": 0
         }
       },
+      "Indiana": {
+        "live": {
+          "confirmed": 30001,
+          "date": "2020-11-07",
+          "deaths": 803,
+          "recovered": 0
+        }
+      },
       "Maryland": {
         "live": {
           "confirmed": 34246,
@@ -1659,9 +1659,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 40559,
+          "confirmed": 41436,
           "date": "2020-11-07",
-          "deaths": 1016,
+          "deaths": 1020,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 86673,
+          "confirmed": 88015,
           "date": "2020-11-07",
-          "deaths": 1568,
+          "deaths": 1571,
           "recovered": 0
         }
       },
@@ -1795,33 +1795,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 975504,
+          "confirmed": 997379,
           "date": "2020-11-07",
-          "deaths": 42736,
+          "deaths": 43064,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 41969,
+          "confirmed": 42497,
           "date": "2020-11-07",
-          "deaths": 760,
+          "deaths": 774,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 70732,
+          "confirmed": 72328,
           "date": "2020-11-07",
-          "deaths": 2997,
+          "deaths": 3036,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 58279,
+          "confirmed": 59237,
           "date": "2020-11-07",
-          "deaths": 1982,
+          "deaths": 2014,
           "recovered": 0
         }
       }
@@ -1831,7 +1831,7 @@
     "live": {
       "confirmed": 68367,
       "date": "2020-11-07",
-      "deaths": 580,
+      "deaths": 581,
       "recovered": 65550
     }
   },
