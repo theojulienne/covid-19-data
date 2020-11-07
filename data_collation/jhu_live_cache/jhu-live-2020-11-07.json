@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 734175,
+      "confirmed": 735906,
       "date": "2020-11-07",
-      "deaths": 19749,
-      "recovered": 675593
+      "deaths": 19789,
+      "recovered": 678738
     }
   },
   "Spain": {
@@ -1613,7 +1613,7 @@
         "live": {
           "confirmed": 64366,
           "date": "2020-11-07",
-          "deaths": 1093,
+          "deaths": 1095,
           "recovered": 0
         }
       },
@@ -1715,9 +1715,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 73264,
+          "confirmed": 74203,
           "date": "2020-11-07",
-          "deaths": 944,
+          "deaths": 951,
           "recovered": 0
         }
       },
@@ -1731,9 +1731,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 87259,
+          "confirmed": 89241,
           "date": "2020-11-07",
-          "deaths": 418,
+          "deaths": 424,
           "recovered": 0
         }
       },
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 47640,
+          "confirmed": 48590,
           "date": "2020-11-07",
-          "deaths": 616,
+          "deaths": 619,
           "recovered": 0
         }
       }
