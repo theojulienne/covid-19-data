@@ -403,7 +403,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 182285,
+          "confirmed": 183991,
           "date": "2020-11-08",
           "deaths": 3428,
           "recovered": 167103
@@ -411,7 +411,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 73272,
+          "confirmed": 73447,
           "date": "2020-11-08",
           "deaths": 3142,
           "recovered": 68573
@@ -419,7 +419,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 34001,
+          "confirmed": 34055,
           "date": "2020-11-08",
           "deaths": 859,
           "recovered": 32321
@@ -427,7 +427,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 333767,
+          "confirmed": 335008,
           "date": "2020-11-08",
           "deaths": 7854,
           "recovered": 303891
@@ -435,7 +435,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 44708,
+          "confirmed": 45007,
           "date": "2020-11-08",
           "deaths": 1265,
           "recovered": 40979
@@ -443,7 +443,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 45274,
+          "confirmed": 45561,
           "date": "2020-11-08",
           "deaths": 1765,
           "recovered": 39930
@@ -451,7 +451,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 89002,
+          "confirmed": 89703,
           "date": "2020-11-08",
           "deaths": 2938,
           "recovered": 78983
@@ -1085,14 +1085,6 @@
           "recovered": 30586
         }
       },
-      "San Luis Potosi": {
-        "live": {
-          "confirmed": 30090,
-          "date": "2020-11-08",
-          "deaths": 2154,
-          "recovered": 26889
-        }
-      },
       "Sonora": {
         "live": {
           "confirmed": 39159,
@@ -1587,9 +1579,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 165702,
+          "confirmed": 197269,
           "date": "2020-11-08",
-          "deaths": 3699,
+          "deaths": 4368,
           "recovered": 0
         }
       },
@@ -1643,9 +1635,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 64945,
+          "confirmed": 65656,
           "date": "2020-11-08",
-          "deaths": 3507,
+          "deaths": 3517,
           "recovered": 0
         }
       },
