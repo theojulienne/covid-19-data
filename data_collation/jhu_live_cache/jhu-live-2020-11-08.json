@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 105283,
+      "confirmed": 106279,
       "date": "2020-11-08",
-      "deaths": 1004,
-      "recovered": 90058
+      "deaths": 1007,
+      "recovered": 90998
     }
   },
   "Belgium": {
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 111050,
+      "confirmed": 111262,
       "date": "2020-11-08",
-      "deaths": 3811,
-      "recovered": 100808
+      "deaths": 3821,
+      "recovered": 101135
     }
   },
   "Honduras": {
@@ -1428,7 +1428,7 @@
       "confirmed": 58056,
       "date": "2020-11-08",
       "deaths": 28,
-      "recovered": 57968
+      "recovered": 57975
     }
   },
   "Slovakia": {
@@ -1635,9 +1635,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 34246,
+          "confirmed": 34384,
           "date": "2020-11-08",
-          "deaths": 869,
+          "deaths": 870,
           "recovered": 0
         }
       },
