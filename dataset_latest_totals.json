@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 112189,
-          "deaths": 6403
+          "confirmed": 113423,
+          "deaths": 6431
         },
         "Saskatchewan": {
           "confirmed": 3623,
@@ -1267,19 +1267,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 95789,
-        "deaths": 1464,
-        "recovered": 51713
+        "confirmed": 96169,
+        "deaths": 1469,
+        "recovered": 52517
       },
       "back_2week": {
-        "confirmed": 92229,
-        "deaths": 1400,
-        "recovered": 46118
+        "confirmed": 92858,
+        "deaths": 1419,
+        "recovered": 46842
       },
       "latest": {
-        "confirmed": 98746,
-        "deaths": 1512,
-        "recovered": 58103
+        "confirmed": 99201,
+        "deaths": 1518,
+        "recovered": 58948
       }
     },
     "FIN": {
@@ -1318,9 +1318,9 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 1337693,
-        "deaths": 36273,
-        "recovered": 96604
+        "confirmed": 1373036,
+        "deaths": 36494,
+        "recovered": 97475
       },
       "back_2week": {
         "confirmed": 1048842,
@@ -1329,8 +1329,8 @@
       },
       "latest": {
         "confirmed": 1665403,
-        "deaths": 39557,
-        "recovered": 105650
+        "deaths": 39861,
+        "recovered": 107259
       },
       "states": {
         "French Guiana": {
@@ -1814,17 +1814,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 314422,
-        "deaths": 2514,
+        "deaths": 2539,
         "recovered": 301241
       },
       "back_2week": {
         "confirmed": 309413,
-        "deaths": 2329,
+        "deaths": 2372,
         "recovered": 291206
       },
       "latest": {
         "confirmed": 318949,
-        "deaths": 2644,
+        "deaths": 2664,
         "recovered": 307473
       }
     },
