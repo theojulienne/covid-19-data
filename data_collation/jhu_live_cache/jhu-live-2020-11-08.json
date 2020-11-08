@@ -958,7 +958,7 @@
           "confirmed": 32648,
           "date": "2020-11-08",
           "deaths": 463,
-          "recovered": 29839
+          "recovered": 29976
         }
       }
     }
@@ -989,10 +989,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 131205,
+      "confirmed": 131743,
       "date": "2020-11-08",
-      "deaths": 808,
-      "recovered": 121889
+      "deaths": 811,
+      "recovered": 122576
     }
   },
   "Kyrgyzstan": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 296999,
+      "confirmed": 303751,
       "date": "2020-11-08",
-      "deaths": 7793,
-      "recovered": 201114
+      "deaths": 7879,
+      "recovered": 204679
     }
   },
   "Russia": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 211913,
       "date": "2020-11-08",
-      "deaths": 2749,
+      "deaths": 2764,
       "recovered": 87300
     }
   },
