@@ -633,10 +633,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 104943,
+      "confirmed": 109616,
       "date": "2020-11-08",
-      "deaths": 2357,
-      "recovered": 24847
+      "deaths": 2438,
+      "recovered": 25070
     }
   },
   "India": {
