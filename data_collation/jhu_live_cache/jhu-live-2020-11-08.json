@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 63748,
+      "confirmed": 65411,
       "date": "2020-11-08",
-      "deaths": 824,
-      "recovered": 48049
+      "deaths": 840,
+      "recovered": 48908
     }
   },
   "Bahrain": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 61212,
+      "confirmed": 62423,
       "date": "2020-11-08",
-      "deaths": 1490,
-      "recovered": 30654
+      "deaths": 1510,
+      "recovered": 30939
     }
   },
   "Brazil": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 60348,
+      "confirmed": 61377,
       "date": "2020-11-08",
-      "deaths": 1396,
-      "recovered": 44666
+      "deaths": 1420,
+      "recovered": 45756
     }
   },
   "Canada": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 30975,
+          "confirmed": 31218,
           "date": "2020-11-08",
-          "deaths": 510,
-          "recovered": 29012
+          "deaths": 516,
+          "recovered": 29224
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 298817,
+          "confirmed": 299139,
           "date": "2020-11-08",
-          "deaths": 9978,
-          "recovered": 286624
+          "deaths": 9993,
+          "recovered": 286968
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 30829,
+          "confirmed": 30917,
           "date": "2020-11-08",
-          "deaths": 1082,
-          "recovered": 29292
+          "deaths": 1085,
+          "recovered": 29358
         }
       }
     }
@@ -559,10 +559,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 130635,
+          "confirmed": 131022,
           "date": "2020-11-08",
           "deaths": 2913,
-          "recovered": 87989
+          "recovered": 89289
         }
       },
       "Berlin": {
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 60635,
+      "confirmed": 62747,
       "date": "2020-11-08",
-      "deaths": 880,
+      "deaths": 890,
       "recovered": 0
     }
   },
