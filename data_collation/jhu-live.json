@@ -343,10 +343,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 86269,
+          "confirmed": 86351,
           "date": "2020-11-08",
           "deaths": 3281,
-          "recovered": 74266
+          "recovered": 74270
         }
       },
       "Quebec": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 735906,
+      "confirmed": 737278,
       "date": "2020-11-08",
-      "deaths": 19789,
-      "recovered": 678738
+      "deaths": 19809,
+      "recovered": 679688
     }
   },
   "Spain": {
@@ -1569,10 +1569,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 69543,
+      "confirmed": 71119,
       "date": "2020-11-08",
-      "deaths": 1794,
-      "recovered": 47416
+      "deaths": 1873,
+      "recovered": 48103
     }
   },
   "Turkey": {
@@ -1595,9 +1595,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 649131,
+          "confirmed": 649348,
           "date": "2020-11-08",
-          "deaths": 12896,
+          "deaths": 12899,
           "recovered": 0
         }
       },
@@ -1715,23 +1715,23 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 74203,
+          "confirmed": 74991,
           "date": "2020-11-08",
-          "deaths": 951,
+          "deaths": 953,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 539178,
+          "confirmed": 539634,
           "date": "2020-11-08",
-          "deaths": 9612,
+          "deaths": 9624,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 89241,
+          "confirmed": 90744,
           "date": "2020-11-08",
           "deaths": 424,
           "recovered": 0
@@ -1747,9 +1747,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 48590,
+          "confirmed": 49295,
           "date": "2020-11-08",
-          "deaths": 619,
+          "deaths": 622,
           "recovered": 0
         }
       }
