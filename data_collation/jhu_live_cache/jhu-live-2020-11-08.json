@@ -343,7 +343,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 85990,
+          "confirmed": 85991,
           "date": "2020-11-08",
           "deaths": 3276,
           "recovered": 74084
@@ -973,10 +973,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 115439,
+      "confirmed": 116162,
       "date": "2020-11-08",
       "deaths": 1857,
-      "recovered": 107530
+      "recovered": 107668
     }
   },
   "Kenya": {
@@ -1223,26 +1223,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 40285,
+          "confirmed": 40397,
           "date": "2020-11-08",
           "deaths": 1288,
-          "recovered": 37955
+          "recovered": 38021
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 106208,
+          "confirmed": 106577,
           "date": "2020-11-08",
-          "deaths": 2399,
-          "recovered": 97584
+          "deaths": 2407,
+          "recovered": 97614
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 148922,
+          "confirmed": 149542,
           "date": "2020-11-08",
-          "deaths": 2667,
-          "recovered": 140233
+          "deaths": 2679,
+          "recovered": 140408
         }
       }
     }
