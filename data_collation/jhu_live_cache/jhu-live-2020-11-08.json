@@ -551,50 +551,50 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 99043,
+          "confirmed": 99046,
           "date": "2020-11-08",
-          "deaths": 2110,
-          "recovered": 64081
+          "deaths": 2111,
+          "recovered": 63194
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 128147,
+          "confirmed": 130635,
           "date": "2020-11-08",
-          "deaths": 2905,
-          "recovered": 89289
+          "deaths": 2913,
+          "recovered": 87989
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 39379,
+          "confirmed": 39383,
           "date": "2020-11-08",
           "deaths": 294,
-          "recovered": 24324
+          "recovered": 24025
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 51438,
+          "confirmed": 53161,
           "date": "2020-11-08",
-          "deaths": 741,
-          "recovered": 31181
+          "deaths": 753,
+          "recovered": 30620
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 44986,
+          "confirmed": 45002,
           "date": "2020-11-08",
-          "deaths": 816,
-          "recovered": 31098
+          "deaths": 817,
+          "recovered": 30553
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 164919,
+          "confirmed": 168205,
           "date": "2020-11-08",
-          "deaths": 2334,
-          "recovered": 105872
+          "deaths": 2341,
+          "recovered": 103662
         }
       }
     }
