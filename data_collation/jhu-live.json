@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 35145,
       "date": "2020-11-08",
-      "deaths": 1006,
+      "deaths": 1010,
       "recovered": 31172
     }
   },
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 318949,
+      "confirmed": 319022,
       "date": "2020-11-08",
       "deaths": 2664,
-      "recovered": 307473
+      "recovered": 307720
     }
   },
   "Italy": {
@@ -1267,23 +1267,23 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45042,
+          "confirmed": 45097,
           "date": "2020-11-08",
-          "deaths": 1474,
+          "deaths": 1478,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 38296,
+          "confirmed": 38456,
           "date": "2020-11-08",
-          "deaths": 1855,
+          "deaths": 1858,
           "recovered": 0
         }
       },
       "Ica": {
         "live": {
-          "confirmed": 30124,
+          "confirmed": 30205,
           "date": "2020-11-08",
           "deaths": 1690,
           "recovered": 0
@@ -1291,15 +1291,15 @@
       },
       "La Libertad": {
         "live": {
-          "confirmed": 33338,
+          "confirmed": 33454,
           "date": "2020-11-08",
-          "deaths": 2312,
+          "deaths": 2314,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 413204,
+          "confirmed": 414112,
           "date": "2020-11-08",
           "deaths": 15624,
           "recovered": 0
@@ -1307,9 +1307,9 @@
       },
       "Piura": {
         "live": {
-          "confirmed": 38917,
+          "confirmed": 38979,
           "date": "2020-11-08",
-          "deaths": 2042,
+          "deaths": 2047,
           "recovered": 0
         }
       }
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 68367,
+      "confirmed": 68512,
       "date": "2020-11-08",
-      "deaths": 581,
-      "recovered": 65550
+      "deaths": 583,
+      "recovered": 65762
     }
   },
   "Venezuela": {
