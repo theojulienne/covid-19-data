@@ -325,7 +325,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 61377,
+      "confirmed": 62386,
       "date": "2020-11-09",
       "deaths": 1420,
       "recovered": 45756
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 303751,
+      "confirmed": 306991,
       "date": "2020-11-09",
-      "deaths": 7879,
-      "recovered": 204679
+      "deaths": 8009,
+      "recovered": 206793
     }
   },
   "Russia": {
@@ -1561,9 +1561,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 211913,
+      "confirmed": 229222,
       "date": "2020-11-09",
-      "deaths": 2772,
+      "deaths": 2812,
       "recovered": 87300
     }
   },
