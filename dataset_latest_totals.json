@@ -631,8 +631,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 113423,
-          "deaths": 6431
+          "confirmed": 114820,
+          "deaths": 6440
         },
         "Saskatchewan": {
           "confirmed": 3738,
@@ -2306,19 +2306,19 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 31572,
-        "deaths": 994,
-        "recovered": 20731
+        "confirmed": 32436,
+        "deaths": 1004,
+        "recovered": 21090
       },
       "back_2week": {
-        "confirmed": 26394,
-        "deaths": 897,
-        "recovered": 18430
+        "confirmed": 26954,
+        "deaths": 919,
+        "recovered": 18627
       },
       "latest": {
-        "confirmed": 38782,
-        "deaths": 1110,
-        "recovered": 23011
+        "confirmed": 39760,
+        "deaths": 1136,
+        "recovered": 23035
       }
     },
     "MLI": {
@@ -3289,8 +3289,8 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 59813,
-        "deaths": 1317,
+        "confirmed": 61115,
+        "deaths": 1348,
         "recovered": 5032
       },
       "back_2week": {
@@ -3299,8 +3299,8 @@
         "recovered": 5032
       },
       "latest": {
-        "confirmed": 69543,
-        "deaths": 1794,
+        "confirmed": 71119,
+        "deaths": 1873,
         "recovered": 47416
       }
     },
@@ -3411,19 +3411,19 @@
         "confirmed": 9005946,
         "deaths": 221395,
         "recovered": 3579038,
-        "tested": 128667867
+        "tested": 128672946
       },
       "back_2week": {
         "confirmed": 8455529,
         "deaths": 215764,
         "recovered": 3375998,
-        "tested": 121603548
+        "tested": 121607136
       },
       "latest": {
         "confirmed": 9718108,
         "deaths": 228269,
         "recovered": 3814262,
-        "tested": 136226770
+        "tested": 136233793
       },
       "states": {
         "AK": {
@@ -3724,7 +3724,7 @@
           "deaths": 658,
           "hospitalized": 6020,
           "recovered": 92656,
-          "tested": 1100971
+          "tested": 1107994
         },
         "VA": {
           "confirmed": 190873,
