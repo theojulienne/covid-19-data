@@ -345,8 +345,8 @@
         "live": {
           "confirmed": 87447,
           "date": "2020-11-09",
-          "deaths": 3285,
-          "recovered": 74991
+          "deaths": 3290,
+          "recovered": 75200
         }
       },
       "Quebec": {
@@ -525,18 +525,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 99675,
+      "confirmed": 99982,
       "date": "2020-11-09",
-      "deaths": 1523,
-      "recovered": 59766
+      "deaths": 1530,
+      "recovered": 60710
     }
   },
   "France": {
     "live": {
-      "confirmed": 1790817,
+      "confirmed": 1810653,
       "date": "2020-11-09",
-      "deaths": 40131,
-      "recovered": 107935
+      "deaths": 40678,
+      "recovered": 109056
     }
   },
   "Georgia": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 319562,
+      "confirmed": 319784,
       "date": "2020-11-09",
-      "deaths": 2674,
-      "recovered": 308735
+      "deaths": 2676,
+      "recovered": 309163
     }
   },
   "Italy": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 737278,
+      "confirmed": 738525,
       "date": "2020-11-09",
-      "deaths": 19809,
-      "recovered": 679688
+      "deaths": 19845,
+      "recovered": 680726
     }
   },
   "Spain": {
@@ -1587,7 +1587,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 652408,
+          "confirmed": 652849,
           "date": "2020-11-09",
           "deaths": 12901,
           "recovered": 0
@@ -1699,7 +1699,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 47675,
+          "confirmed": 49456,
           "date": "2020-11-09",
           "deaths": 1889,
           "recovered": 0
@@ -1715,9 +1715,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 544416,
+          "confirmed": 544614,
           "date": "2020-11-09",
-          "deaths": 9624,
+          "deaths": 9627,
           "recovered": 0
         }
       },
@@ -1789,7 +1789,7 @@
         "live": {
           "confirmed": 1034708,
           "date": "2020-11-09",
-          "deaths": 43191,
+          "deaths": 43366,
           "recovered": 0
         }
       },
