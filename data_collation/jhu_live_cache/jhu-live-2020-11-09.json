@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 179324,
+      "confirmed": 183420,
       "date": "2020-11-09",
-      "deaths": 2896,
-      "recovered": 99781
+      "deaths": 2959,
+      "recovered": 102083
     }
   },
   "Qatar": {
@@ -1635,9 +1635,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 34384,
+          "confirmed": 34589,
           "date": "2020-11-09",
-          "deaths": 870,
+          "deaths": 871,
           "recovered": 0
         }
       },
