@@ -354,7 +354,7 @@
           "confirmed": 115989,
           "date": "2020-11-09",
           "deaths": 6455,
-          "recovered": 97962
+          "recovered": 98740
         }
       }
     }
@@ -1587,7 +1587,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 652849,
+          "confirmed": 652993,
           "date": "2020-11-09",
           "deaths": 12901,
           "recovered": 0
