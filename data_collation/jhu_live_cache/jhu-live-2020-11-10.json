@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 142475,
+      "confirmed": 142561,
       "date": "2020-11-10",
-      "deaths": 8795,
-      "recovered": 114466
+      "deaths": 8802,
+      "recovered": 114881
     }
   },
   "Bosnia and Herzegovina": {
@@ -973,7 +973,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 116772,
+      "confirmed": 117336,
       "date": "2020-11-10",
       "deaths": 1857,
       "recovered": 107843
@@ -1083,14 +1083,6 @@
           "date": "2020-11-10",
           "deaths": 4875,
           "recovered": 30711
-        }
-      },
-      "San Luis Potosi": {
-        "live": {
-          "confirmed": 30346,
-          "date": "2020-11-10",
-          "deaths": 2165,
-          "recovered": 27062
         }
       },
       "Sonora": {
@@ -1587,9 +1579,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 653479,
+          "confirmed": 655256,
           "date": "2020-11-10",
-          "deaths": 12911,
+          "deaths": 12941,
           "recovered": 0
         }
       },
@@ -1643,9 +1635,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 45576,
+          "confirmed": 77372,
           "date": "2020-11-10",
-          "deaths": 3084,
+          "deaths": 4348,
           "recovered": 0
         }
       },
@@ -1829,10 +1821,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 94883,
+      "confirmed": 95149,
       "date": "2020-11-10",
-      "deaths": 826,
-      "recovered": 89755
+      "deaths": 830,
+      "recovered": 90054
     }
   },
   "West Bank and Gaza": {
