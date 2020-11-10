@@ -1189,10 +1189,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 64184,
+      "confirmed": 64336,
       "date": "2020-11-10",
-      "deaths": 1158,
-      "recovered": 60069
+      "deaths": 1160,
+      "recovered": 60333
     }
   },
   "North Macedonia": {
@@ -1540,14 +1540,6 @@
           "deaths": 2467,
           "recovered": 0
         }
-      },
-      "Vastra Gotaland": {
-        "live": {
-          "confirmed": 30555,
-          "date": "2020-11-10",
-          "deaths": 893,
-          "recovered": 0
-        }
       }
     }
   },
@@ -1579,9 +1571,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 167063,
+          "confirmed": 200104,
           "date": "2020-11-10",
-          "deaths": 3709,
+          "deaths": 4389,
           "recovered": 0
         }
       },
@@ -1635,9 +1627,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 66034,
+          "confirmed": 66674,
           "date": "2020-11-10",
-          "deaths": 3523,
+          "deaths": 3526,
           "recovered": 0
         }
       },
