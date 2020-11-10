@@ -3423,7 +3423,7 @@ var covid19_dataset_latest_totals = {
         "confirmed": 9828278,
         "deaths": 228746,
         "recovered": 3843467,
-        "tested": 137269305
+        "tested": 137324435
       },
       "states": {
         "AK": {
@@ -3471,7 +3471,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 4671,
           "hospitalized": 12257,
           "recovered": 9800,
-          "tested": 2434474
+          "tested": 2489604
         },
         "DC": {
           "confirmed": 18001,
