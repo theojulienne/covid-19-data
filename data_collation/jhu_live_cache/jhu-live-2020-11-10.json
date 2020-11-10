@@ -73,10 +73,10 @@
   },
   "Belgium": {
     "live": {
-      "confirmed": 500789,
+      "confirmed": 503182,
       "date": "2020-11-10",
-      "deaths": 13055,
-      "recovered": 29651
+      "deaths": 13216,
+      "recovered": 29796
     }
   },
   "Bolivia": {
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 100508,
+      "confirmed": 100573,
       "date": "2020-11-10",
-      "deaths": 2751,
-      "recovered": 42959
+      "deaths": 2765,
+      "recovered": 43177
     }
   },
   "Hungary": {
