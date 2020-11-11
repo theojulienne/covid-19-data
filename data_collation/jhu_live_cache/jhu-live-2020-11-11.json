@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 63241,
+      "confirmed": 64453,
       "date": "2020-11-11",
-      "deaths": 1461,
-      "recovered": 47411
+      "deaths": 1480,
+      "recovered": 48532
     }
   },
   "Canada": {
@@ -363,26 +363,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 31541,
+          "confirmed": 31705,
           "date": "2020-11-11",
           "deaths": 524,
-          "recovered": 29616
+          "recovered": 29801
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 299569,
+          "confirmed": 299726,
           "date": "2020-11-11",
-          "deaths": 10033,
-          "recovered": 287494
+          "deaths": 10054,
+          "recovered": 287711
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 31021,
+          "confirmed": 31071,
           "date": "2020-11-11",
           "deaths": 1086,
-          "recovered": 29492
+          "recovered": 29562
         }
       }
     }
@@ -559,10 +559,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 139914,
+          "confirmed": 140509,
           "date": "2020-11-11",
-          "deaths": 3018,
-          "recovered": 93412
+          "deaths": 3019,
+          "recovered": 95719
         }
       },
       "Berlin": {
@@ -853,10 +853,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 505310,
+      "confirmed": 508508,
       "date": "2020-11-11",
-      "deaths": 11432,
-      "recovered": 434665
+      "deaths": 11482,
+      "recovered": 436657
     }
   },
   "Ireland": {
@@ -958,7 +958,7 @@
           "confirmed": 33415,
           "date": "2020-11-11",
           "deaths": 464,
-          "recovered": 30179
+          "recovered": 30460
         }
       }
     }
@@ -1147,41 +1147,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 40838,
+          "confirmed": 41336,
           "date": "2020-11-11",
-          "deaths": 910,
+          "deaths": 917,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 65485,
+          "confirmed": 66457,
           "date": "2020-11-11",
-          "deaths": 1852,
+          "deaths": 1868,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 77711,
+          "confirmed": 78607,
           "date": "2020-11-11",
-          "deaths": 1127,
+          "deaths": 1135,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 35781,
+          "confirmed": 36194,
           "date": "2020-11-11",
-          "deaths": 587,
+          "deaths": 594,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 121538,
+          "confirmed": 123071,
           "date": "2020-11-11",
-          "deaths": 1939,
+          "deaths": 1962,
           "recovered": 0
         }
       }
@@ -1401,9 +1401,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 66888,
+      "confirmed": 70424,
       "date": "2020-11-11",
-      "deaths": 915,
+      "deaths": 936,
       "recovered": 0
     }
   },
@@ -1535,9 +1535,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 46377,
+          "confirmed": 47685,
           "date": "2020-11-11",
           "deaths": 2468,
+          "recovered": 0
+        }
+      },
+      "Vastra Gotaland": {
+        "live": {
+          "confirmed": 31151,
+          "date": "2020-11-11",
+          "deaths": 898,
           "recovered": 0
         }
       }
@@ -1547,7 +1555,7 @@
     "live": {
       "confirmed": 243472,
       "date": "2020-11-11",
-      "deaths": 3057,
+      "deaths": 3087,
       "recovered": 122600
     }
   },
@@ -1571,9 +1579,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 200104,
+          "confirmed": 169091,
           "date": "2020-11-11",
-          "deaths": 4389,
+          "deaths": 3728,
           "recovered": 0
         }
       },
