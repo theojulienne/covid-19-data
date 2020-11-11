@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 100400,
-        "deaths": 989,
-        "recovered": 87400
+        "confirmed": 101329,
+        "deaths": 992,
+        "recovered": 87985
       },
       "back_2week": {
-        "confirmed": 93707,
-        "deaths": 961,
-        "recovered": 83748
+        "confirmed": 94609,
+        "deaths": 965,
+        "recovered": 84237
       },
       "latest": {
-        "confirmed": 107262,
-        "deaths": 1011,
-        "recovered": 91353
+        "confirmed": 108300,
+        "deaths": 1016,
+        "recovered": 91646
       }
     },
     "BLZ": {
@@ -2600,19 +2600,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 176500,
-        "deaths": 984,
-        "recovered": 137992
+        "confirmed": 179614,
+        "deaths": 1004,
+        "recovered": 141134
       },
       "back_2week": {
-        "confirmed": 159830,
-        "deaths": 862,
-        "recovered": 115675
+        "confirmed": 160400,
+        "deaths": 876,
+        "recovered": 118843
       },
       "latest": {
-        "confirmed": 197024,
-        "deaths": 1126,
-        "recovered": 159724
+        "confirmed": 199760,
+        "deaths": 1148,
+        "recovered": 160577
       }
     },
     "NZL": {
@@ -3102,19 +3102,19 @@ var covid19_dataset_latest_totals = {
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 36206,
-        "deaths": 388,
-        "recovered": 13297
+        "confirmed": 37382,
+        "deaths": 412,
+        "recovered": 14074
       },
       "back_2week": {
-        "confirmed": 24080,
-        "deaths": 251,
-        "recovered": 8582
+        "confirmed": 25603,
+        "deaths": 264,
+        "recovered": 8968
       },
       "latest": {
-        "confirmed": 45625,
-        "deaths": 578,
-        "recovered": 23533
+        "confirmed": 46717,
+        "deaths": 605,
+        "recovered": 25007
       }
     },
     "SWE": {
