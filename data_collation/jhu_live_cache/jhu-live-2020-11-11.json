@@ -973,10 +973,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 117336,
+      "confirmed": 117904,
       "date": "2020-11-11",
       "deaths": 1857,
-      "recovered": 108169
+      "recovered": 108387
     }
   },
   "Kenya": {
@@ -1707,7 +1707,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 552633,
+          "confirmed": 553900,
           "date": "2020-11-11",
           "deaths": 9684,
           "recovered": 0
@@ -1821,10 +1821,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 95149,
+      "confirmed": 95445,
       "date": "2020-11-11",
-      "deaths": 830,
-      "recovered": 90054
+      "deaths": 834,
+      "recovered": 90359
     }
   },
   "West Bank and Gaza": {
