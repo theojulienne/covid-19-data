@@ -294,7 +294,8 @@ var covid19_dataset_country_che = {
     "2020-11-08",
     "2020-11-09",
     "2020-11-10",
-    "2020-11-11"
+    "2020-11-11",
+    "2020-11-12"
   ],
   "total": {
     "confirmed": [
@@ -887,7 +888,7 @@ var covid19_dataset_country_che = {
       2749,
       2772,
       2902,
-      2974
+      3013
     ],
     "recovered": [
       0,
