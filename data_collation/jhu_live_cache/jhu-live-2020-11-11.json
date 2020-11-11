@@ -1259,41 +1259,41 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45164,
+          "confirmed": 45198,
           "date": "2020-11-11",
-          "deaths": 1483,
+          "deaths": 1486,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 38607,
+          "confirmed": 38693,
           "date": "2020-11-11",
-          "deaths": 1864,
+          "deaths": 1866,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 33558,
+          "confirmed": 33634,
           "date": "2020-11-11",
-          "deaths": 2319,
+          "deaths": 2321,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 415467,
+          "confirmed": 416174,
           "date": "2020-11-11",
-          "deaths": 15695,
+          "deaths": 15721,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39087,
+          "confirmed": 39158,
           "date": "2020-11-11",
-          "deaths": 2050,
+          "deaths": 2051,
           "recovered": 0
         }
       }
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 399253,
+          "confirmed": 401123,
           "date": "2020-11-11",
-          "deaths": 28673,
+          "deaths": 28677,
           "recovered": 0
         }
       },
@@ -1813,10 +1813,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 69027,
+      "confirmed": 69173,
       "date": "2020-11-11",
-      "deaths": 588,
-      "recovered": 66194
+      "deaths": 589,
+      "recovered": 66433
     }
   },
   "Venezuela": {
