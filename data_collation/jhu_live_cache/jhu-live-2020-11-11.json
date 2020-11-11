@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 142561,
+      "confirmed": 142664,
       "date": "2020-11-11",
-      "deaths": 8802,
-      "recovered": 114881
+      "deaths": 8808,
+      "recovered": 115199
     }
   },
   "Bosnia and Herzegovina": {
@@ -405,16 +405,16 @@
         "live": {
           "confirmed": 186183,
           "date": "2020-11-11",
-          "deaths": 3484,
-          "recovered": 171278
+          "deaths": 3510,
+          "recovered": 172339
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 73729,
           "date": "2020-11-11",
-          "deaths": 3149,
-          "recovered": 69169
+          "deaths": 3151,
+          "recovered": 69396
         }
       },
       "Bolivar": {
@@ -429,24 +429,24 @@
         "live": {
           "confirmed": 338196,
           "date": "2020-11-11",
-          "deaths": 7917,
-          "recovered": 304856
+          "deaths": 7956,
+          "recovered": 311652
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 45603,
           "date": "2020-11-11",
-          "deaths": 1279,
-          "recovered": 41686
+          "deaths": 1288,
+          "recovered": 41992
         }
       },
       "Santander": {
         "live": {
           "confirmed": 46044,
           "date": "2020-11-11",
-          "deaths": 1792,
-          "recovered": 40865
+          "deaths": 1804,
+          "recovered": 41145
         }
       },
       "Valle del Cauca": {
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 425845,
+      "confirmed": 429880,
       "date": "2020-11-11",
-      "deaths": 5263,
-      "recovered": 261273
+      "deaths": 5323,
+      "recovered": 277473
     }
   },
   "Denmark": {
@@ -1215,26 +1215,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 40843,
+          "confirmed": 41069,
           "date": "2020-11-11",
-          "deaths": 1290,
-          "recovered": 38168
+          "deaths": 1294,
+          "recovered": 38342
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 107329,
+          "confirmed": 107831,
           "date": "2020-11-11",
-          "deaths": 2420,
-          "recovered": 97651
+          "deaths": 2429,
+          "recovered": 97672
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 150834,
+          "confirmed": 151352,
           "date": "2020-11-11",
-          "deaths": 2687,
-          "recovered": 140812
+          "deaths": 2690,
+          "recovered": 140997
         }
       }
     }
@@ -1707,7 +1707,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 552301,
+          "confirmed": 552633,
           "date": "2020-11-11",
           "deaths": 9684,
           "recovered": 0
