@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 164866,
+      "confirmed": 172380,
       "date": "2020-11-11",
-      "deaths": 1499,
-      "recovered": 98663
+      "deaths": 1564,
+      "recovered": 103759
     }
   },
   "Azerbaijan": {
@@ -583,10 +583,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 48400,
+          "confirmed": 49658,
           "date": "2020-11-11",
-          "deaths": 843,
-          "recovered": 32926
+          "deaths": 860,
+          "recovered": 34017
         }
       },
       "Nordrhein-Westfalen": {
@@ -845,10 +845,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 703288,
+      "confirmed": 715068,
       "date": "2020-11-11",
-      "deaths": 39202,
-      "recovered": 530694
+      "deaths": 39664,
+      "recovered": 536105
     }
   },
   "Iraq": {
@@ -989,10 +989,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 133381,
+      "confirmed": 134159,
       "date": "2020-11-11",
-      "deaths": 821,
-      "recovered": 124156
+      "deaths": 826,
+      "recovered": 124905
     }
   },
   "Kyrgyzstan": {
@@ -1333,10 +1333,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 314295,
+      "confirmed": 324094,
       "date": "2020-11-11",
-      "deaths": 8186,
-      "recovered": 211408
+      "deaths": 8389,
+      "recovered": 218086
     }
   },
   "Russia": {
@@ -1545,9 +1545,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 235202,
+      "confirmed": 243472,
       "date": "2020-11-11",
-      "deaths": 3013,
+      "deaths": 3057,
       "recovered": 122600
     }
   },
@@ -1829,10 +1829,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 59422,
+      "confirmed": 60065,
       "date": "2020-11-11",
-      "deaths": 533,
-      "recovered": 51425
+      "deaths": 538,
+      "recovered": 52226
     }
   }
 }
