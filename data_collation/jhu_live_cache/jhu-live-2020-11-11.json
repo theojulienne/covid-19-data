@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 108687,
+      "confirmed": 110687,
       "date": "2020-11-11",
-      "deaths": 1609,
-      "recovered": 66835
+      "deaths": 1636,
+      "recovered": 68336
     }
   },
   "Austria": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 83811,
       "date": "2020-11-11",
-      "deaths": 331,
+      "deaths": 332,
       "recovered": 81415
     }
   },
@@ -519,7 +519,7 @@
     "live": {
       "confirmed": 35145,
       "date": "2020-11-11",
-      "deaths": 1020,
+      "deaths": 1024,
       "recovered": 31172
     }
   },
@@ -541,10 +541,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 63650,
+      "confirmed": 66561,
       "date": "2020-11-11",
-      "deaths": 521,
-      "recovered": 47390
+      "deaths": 566,
+      "recovered": 49811
     }
   },
   "Germany": {
@@ -955,7 +955,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 33098,
+          "confirmed": 33415,
           "date": "2020-11-11",
           "deaths": 464,
           "recovered": 30179
@@ -1579,9 +1579,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 660669,
+          "confirmed": 660970,
           "date": "2020-11-11",
-          "deaths": 12960,
+          "deaths": 12962,
           "recovered": 0
         }
       },
@@ -1743,26 +1743,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 44466,
+          "confirmed": 44948,
           "date": "2020-11-11",
-          "deaths": 594,
-          "recovered": 10890
+          "deaths": 605,
+          "recovered": 12037
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 45667,
+          "confirmed": 46632,
           "date": "2020-11-11",
-          "deaths": 894,
-          "recovered": 17004
+          "deaths": 914,
+          "recovered": 17473
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 34304,
+          "confirmed": 34988,
           "date": "2020-11-11",
-          "deaths": 995,
-          "recovered": 21679
+          "deaths": 1012,
+          "recovered": 22667
         }
       }
     }
