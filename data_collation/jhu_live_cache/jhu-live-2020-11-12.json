@@ -395,9 +395,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 92528,
+          "confirmed": 92529,
           "date": "2020-11-12",
-          "deaths": 3342,
+          "deaths": 3343,
           "recovered": 78322
         }
       },
@@ -637,10 +637,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 49808,
+      "confirmed": 49957,
       "date": "2020-11-12",
       "deaths": 320,
-      "recovered": 48019
+      "recovered": 48096
     }
   },
   "Greece": {
@@ -897,7 +897,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 322068,
+      "confirmed": 322159,
       "date": "2020-11-12",
       "deaths": 2706,
       "recovered": 310605
@@ -1609,7 +1609,7 @@
         "live": {
           "confirmed": 667169,
           "date": "2020-11-12",
-          "deaths": 12986,
+          "deaths": 12989,
           "recovered": 0
         }
       },
@@ -1657,7 +1657,7 @@
         "live": {
           "confirmed": 36023,
           "date": "2020-11-12",
-          "deaths": 2333,
+          "deaths": 2341,
           "recovered": 0
         }
       },
