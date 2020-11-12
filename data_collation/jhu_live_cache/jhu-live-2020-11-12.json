@@ -509,10 +509,10 @@
   },
   "El Salvador": {
     "live": {
-      "confirmed": 35145,
+      "confirmed": 36030,
       "date": "2020-11-12",
-      "deaths": 1024,
-      "recovered": 31172
+      "deaths": 1028,
+      "recovered": 32246
     }
   },
   "Ethiopia": {
@@ -625,10 +625,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 122863,
+      "confirmed": 126790,
       "date": "2020-11-12",
-      "deaths": 2697,
-      "recovered": 28808
+      "deaths": 2784,
+      "recovered": 29302
     }
   },
   "India": {
@@ -829,10 +829,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 448118,
+      "confirmed": 452291,
       "date": "2020-11-12",
-      "deaths": 14836,
-      "recovered": 378982
+      "deaths": 14933,
+      "recovered": 382084
     }
   },
   "Iran": {
