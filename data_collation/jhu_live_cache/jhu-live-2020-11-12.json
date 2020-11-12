@@ -81,10 +81,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 142664,
+      "confirmed": 142776,
       "date": "2020-11-12",
-      "deaths": 8808,
-      "recovered": 115199
+      "deaths": 8818,
+      "recovered": 115718
     }
   },
   "Bosnia and Herzegovina": {
@@ -397,8 +397,8 @@
         "live": {
           "confirmed": 187837,
           "date": "2020-11-12",
-          "deaths": 3510,
-          "recovered": 172339
+          "deaths": 3540,
+          "recovered": 174100
         }
       },
       "Atlantico": {
@@ -406,47 +406,47 @@
           "confirmed": 73913,
           "date": "2020-11-12",
           "deaths": 3151,
-          "recovered": 69396
+          "recovered": 69658
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 34379,
           "date": "2020-11-12",
-          "deaths": 866,
-          "recovered": 32722
+          "deaths": 868,
+          "recovered": 32849
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 340326,
           "date": "2020-11-12",
-          "deaths": 7956,
-          "recovered": 311652
+          "deaths": 7987,
+          "recovered": 314751
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 45918,
           "date": "2020-11-12",
-          "deaths": 1288,
-          "recovered": 41992
+          "deaths": 1293,
+          "recovered": 42365
         }
       },
       "Santander": {
         "live": {
           "confirmed": 46482,
           "date": "2020-11-12",
-          "deaths": 1804,
-          "recovered": 41145
+          "deaths": 1809,
+          "recovered": 41508
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 92323,
           "date": "2020-11-12",
-          "deaths": 2996,
-          "recovered": 81548
+          "deaths": 3024,
+          "recovered": 82857
         }
       }
     }
@@ -1709,7 +1709,7 @@
         "live": {
           "confirmed": 559893,
           "date": "2020-11-12",
-          "deaths": 9690,
+          "deaths": 9733,
           "recovered": 0
         }
       },
