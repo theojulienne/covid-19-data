@@ -525,7 +525,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 1867525,
+      "confirmed": 1867721,
       "date": "2020-11-12",
       "deaths": 42215,
       "recovered": 113017
@@ -543,17 +543,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 107646,
+          "confirmed": 107649,
           "date": "2020-11-12",
-          "deaths": 2188,
+          "deaths": 2189,
           "recovered": 68320
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 140509,
+          "confirmed": 144705,
           "date": "2020-11-12",
-          "deaths": 3019,
+          "deaths": 3050,
           "recovered": 95719
         }
       },
@@ -562,30 +562,30 @@
           "confirmed": 43146,
           "date": "2020-11-12",
           "deaths": 321,
-          "recovered": 26502
+          "recovered": 27085
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 57466,
+          "confirmed": 59371,
           "date": "2020-11-12",
-          "deaths": 809,
+          "deaths": 821,
           "recovered": 34540
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 49658,
+          "confirmed": 50167,
           "date": "2020-11-12",
-          "deaths": 860,
+          "deaths": 868,
           "recovered": 34017
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 180523,
+          "confirmed": 185138,
           "date": "2020-11-12",
-          "deaths": 2465,
+          "deaths": 2517,
           "recovered": 115152
         }
       }
@@ -1023,89 +1023,89 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 172403,
+          "confirmed": 174127,
           "date": "2020-11-12",
-          "deaths": 12070,
+          "deaths": 12154,
           "recovered": 142328
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 36643,
+          "confirmed": 36942,
           "date": "2020-11-12",
-          "deaths": 2665,
+          "deaths": 2707,
           "recovered": 30938
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 52404,
+          "confirmed": 52941,
           "date": "2020-11-12",
-          "deaths": 3569,
+          "deaths": 3584,
           "recovered": 45630
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 36648,
+          "confirmed": 36854,
           "date": "2020-11-12",
-          "deaths": 4359,
+          "deaths": 4388,
           "recovered": 29846
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 101705,
+          "confirmed": 102163,
           "date": "2020-11-12",
-          "deaths": 14404,
+          "deaths": 14476,
           "recovered": 86405
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 58213,
+          "confirmed": 58760,
           "date": "2020-11-12",
-          "deaths": 4133,
+          "deaths": 4159,
           "recovered": 49029
         }
       },
       "Puebla": {
         "live": {
-          "confirmed": 36848,
+          "confirmed": 36999,
           "date": "2020-11-12",
-          "deaths": 4883,
+          "deaths": 4903,
           "recovered": 30711
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 39635,
+          "confirmed": 39883,
           "date": "2020-11-12",
-          "deaths": 3211,
+          "deaths": 3218,
           "recovered": 35026
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 35207,
+          "confirmed": 35306,
           "date": "2020-11-12",
-          "deaths": 3002,
+          "deaths": 3006,
           "recovered": 31364
         }
       },
       "Tamaulipas": {
         "live": {
-          "confirmed": 33281,
+          "confirmed": 33362,
           "date": "2020-11-12",
-          "deaths": 2767,
+          "deaths": 2775,
           "recovered": 29450
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 38042,
+          "confirmed": 38093,
           "date": "2020-11-12",
-          "deaths": 5114,
+          "deaths": 5138,
           "recovered": 32254
         }
       }
