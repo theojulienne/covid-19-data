@@ -72,11 +72,63 @@
     }
   },
   "Belgium": {
-    "live": {
-      "confirmed": 515391,
-      "date": "2020-11-12",
-      "deaths": 13758,
-      "recovered": 31130
+    "subseries": {
+      "Antwerp": {
+        "live": {
+          "confirmed": 60009,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Brussels": {
+        "live": {
+          "confirmed": 70731,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "East Flanders": {
+        "live": {
+          "confirmed": 45858,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 39920,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Hainaut": {
+        "live": {
+          "confirmed": 82120,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "Liege": {
+        "live": {
+          "confirmed": 84445,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      },
+      "West Flanders": {
+        "live": {
+          "confirmed": 38310,
+          "date": "2020-11-12",
+          "deaths": 0,
+          "recovered": 0
+        }
+      }
     }
   },
   "Bolivia": {
@@ -97,6 +149,14 @@
   },
   "Brazil": {
     "subseries": {
+      "Acre": {
+        "live": {
+          "confirmed": 32113,
+          "date": "2020-11-12",
+          "deaths": 705,
+          "recovered": 29321
+        }
+      },
       "Alagoas": {
         "live": {
           "confirmed": 92040,
@@ -335,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 91936,
+          "confirmed": 92022,
           "date": "2020-11-12",
           "deaths": 3340,
-          "recovered": 78013
+          "recovered": 78050
         }
       },
       "Quebec": {
@@ -501,10 +561,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 100727,
+      "confirmed": 101248,
       "date": "2020-11-12",
-      "deaths": 1545,
-      "recovered": 62497
+      "deaths": 1554,
+      "recovered": 63268
     }
   },
   "France": {
@@ -527,10 +587,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 107649,
+          "confirmed": 110630,
           "date": "2020-11-12",
-          "deaths": 2189,
-          "recovered": 68320
+          "deaths": 2224,
+          "recovered": 69751
         }
       },
       "Bayern": {
@@ -1401,10 +1461,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 742394,
+      "confirmed": 744732,
       "date": "2020-11-12",
-      "deaths": 20011,
-      "recovered": 686458
+      "deaths": 20076,
+      "recovered": 690903
     }
   },
   "Spain": {
@@ -1521,10 +1581,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 74522,
+      "confirmed": 76106,
       "date": "2020-11-12",
-      "deaths": 2100,
-      "recovered": 51750
+      "deaths": 2151,
+      "recovered": 51807
     }
   },
   "Turkey": {
@@ -1547,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 665338,
+          "confirmed": 666874,
           "date": "2020-11-12",
           "deaths": 12980,
           "recovered": 0
@@ -1571,7 +1631,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 263949,
+          "confirmed": 269819,
           "date": "2020-11-12",
           "deaths": 6580,
           "recovered": 0
@@ -1627,9 +1687,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 90885,
+          "confirmed": 91859,
           "date": "2020-11-12",
-          "deaths": 1590,
+          "deaths": 1593,
           "recovered": 0
         }
       },
@@ -1651,17 +1711,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 39917,
+          "confirmed": 40621,
           "date": "2020-11-12",
-          "deaths": 645,
+          "deaths": 646,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 50354,
+          "confirmed": 51513,
           "date": "2020-11-12",
-          "deaths": 1901,
+          "deaths": 1904,
           "recovered": 0
         }
       },
@@ -1683,9 +1743,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 95258,
+          "confirmed": 97740,
           "date": "2020-11-12",
-          "deaths": 437,
+          "deaths": 442,
           "recovered": 0
         }
       },
