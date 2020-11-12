@@ -525,7 +525,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 1867721,
+      "confirmed": 1867525,
       "date": "2020-11-12",
       "deaths": 42215,
       "recovered": 113017
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 117904,
+      "confirmed": 118491,
       "date": "2020-11-12",
       "deaths": 1899,
-      "recovered": 108387
+      "recovered": 108632
     }
   },
   "Kenya": {
@@ -1207,26 +1207,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 41069,
+          "confirmed": 41258,
           "date": "2020-11-12",
-          "deaths": 1294,
-          "recovered": 38342
+          "deaths": 1302,
+          "recovered": 38426
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 107831,
+          "confirmed": 108221,
           "date": "2020-11-12",
-          "deaths": 2429,
+          "deaths": 2438,
           "recovered": 97672
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 151352,
+          "confirmed": 152072,
           "date": "2020-11-12",
-          "deaths": 2690,
-          "recovered": 140997
+          "deaths": 2704,
+          "recovered": 141446
         }
       }
     }
@@ -1597,7 +1597,7 @@
         "live": {
           "confirmed": 70582,
           "date": "2020-11-12",
-          "deaths": 1109,
+          "deaths": 1156,
           "recovered": 0
         }
       },
@@ -1733,7 +1733,7 @@
         "live": {
           "confirmed": 55471,
           "date": "2020-11-12",
-          "deaths": 632,
+          "deaths": 639,
           "recovered": 0
         }
       }
@@ -1821,10 +1821,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 95445,
+      "confirmed": 95750,
       "date": "2020-11-12",
-      "deaths": 834,
-      "recovered": 90359
+      "deaths": 838,
+      "recovered": 90743
     }
   },
   "West Bank and Gaza": {
