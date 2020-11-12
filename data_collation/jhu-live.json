@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 172380,
+      "confirmed": 181642,
       "date": "2020-11-12",
-      "deaths": 1564,
-      "recovered": 103759
+      "deaths": 1608,
+      "recovered": 107875
     }
   },
   "Azerbaijan": {
@@ -325,10 +325,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 64453,
+      "confirmed": 65598,
       "date": "2020-11-12",
-      "deaths": 1480,
-      "recovered": 48532
+      "deaths": 1508,
+      "recovered": 49563
     }
   },
   "Canada": {
@@ -551,10 +551,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 144705,
+          "confirmed": 145074,
           "date": "2020-11-12",
           "deaths": 3050,
-          "recovered": 95719
+          "recovered": 97857
         }
       },
       "Berlin": {
@@ -1393,9 +1393,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 70424,
+      "confirmed": 73765,
       "date": "2020-11-12",
-      "deaths": 936,
+      "deaths": 955,
       "recovered": 0
     }
   },
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 250396,
       "date": "2020-11-12",
-      "deaths": 3137,
+      "deaths": 3168,
       "recovered": 130000
     }
   },
@@ -1829,10 +1829,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 60065,
+      "confirmed": 60784,
       "date": "2020-11-12",
-      "deaths": 538,
-      "recovered": 52226
+      "deaths": 542,
+      "recovered": 52861
     }
   }
 }
