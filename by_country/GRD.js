@@ -593,9 +593,11 @@ var covid19_dataset_country_grd = {
       30,
       32,
       32,
+      32,
       32
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1177,6 +1179,7 @@ var covid19_dataset_country_grd = {
       24,
       24,
       24,
+      27,
       27,
       27,
       27,
