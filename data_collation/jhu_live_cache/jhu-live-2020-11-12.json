@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 68594,
+      "confirmed": 70216,
       "date": "2020-11-12",
-      "deaths": 885,
-      "recovered": 51007
+      "deaths": 905,
+      "recovered": 51986
     }
   },
   "Bahrain": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 425353,
+      "confirmed": 427198,
       "date": "2020-11-12",
-      "deaths": 6127,
-      "recovered": 343131
+      "deaths": 6140,
+      "recovered": 344868
     }
   },
   "Belarus": {
@@ -837,10 +837,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 715068,
+      "confirmed": 726585,
       "date": "2020-11-12",
-      "deaths": 39664,
-      "recovered": 536105
+      "deaths": 40121,
+      "recovered": 541566
     }
   },
   "Iraq": {
@@ -1005,18 +1005,18 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 70885,
+      "confirmed": 71804,
       "date": "2020-11-12",
-      "deaths": 970,
-      "recovered": 42098
+      "deaths": 985,
+      "recovered": 42703
     }
   },
   "Malaysia": {
     "live": {
-      "confirmed": 42872,
+      "confirmed": 43791,
       "date": "2020-11-12",
-      "deaths": 302,
-      "recovered": 31073
+      "deaths": 303,
+      "recovered": 32069
     }
   },
   "Mexico": {
@@ -1129,10 +1129,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 202329,
+      "confirmed": 204242,
       "date": "2020-11-12",
-      "deaths": 1174,
-      "recovered": 162243
+      "deaths": 1189,
+      "recovered": 164592
     }
   },
   "Netherlands": {
@@ -1409,18 +1409,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 79181,
+      "confirmed": 81772,
       "date": "2020-11-12",
-      "deaths": 414,
-      "recovered": 23247
+      "deaths": 464,
+      "recovered": 24314
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 48939,
+      "confirmed": 50864,
       "date": "2020-11-12",
-      "deaths": 645,
-      "recovered": 27577
+      "deaths": 686,
+      "recovered": 30027
     }
   },
   "South Africa": {
