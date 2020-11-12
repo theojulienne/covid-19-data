@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 109357,
+      "confirmed": 110455,
       "date": "2020-11-12",
-      "deaths": 1022,
-      "recovered": 92266
+      "deaths": 1027,
+      "recovered": 92843
     }
   },
   "Belgium": {
@@ -89,10 +89,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 66565,
+      "confirmed": 68293,
       "date": "2020-11-12",
-      "deaths": 1701,
-      "recovered": 32769
+      "deaths": 1750,
+      "recovered": 33690
     }
   },
   "Brazil": {
@@ -575,10 +575,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 50167,
+          "confirmed": 51271,
           "date": "2020-11-12",
-          "deaths": 868,
-          "recovered": 34017
+          "deaths": 881,
+          "recovered": 35213
         }
       },
       "Nordrhein-Westfalen": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 134159,
+      "confirmed": 134932,
       "date": "2020-11-12",
-      "deaths": 826,
-      "recovered": 124905
+      "deaths": 830,
+      "recovered": 125593
     }
   },
   "Kyrgyzstan": {
@@ -1325,10 +1325,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 324094,
+      "confirmed": 334236,
       "date": "2020-11-12",
-      "deaths": 8389,
-      "recovered": 218086
+      "deaths": 8510,
+      "recovered": 224916
     }
   },
   "Russia": {
@@ -1545,9 +1545,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 243472,
+      "confirmed": 250396,
       "date": "2020-11-12",
-      "deaths": 3113,
+      "deaths": 3137,
       "recovered": 130000
     }
   },
@@ -1769,10 +1769,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 145599,
+      "confirmed": 146735,
       "date": "2020-11-12",
-      "deaths": 520,
-      "recovered": 140442
+      "deaths": 523,
+      "recovered": 141215
     }
   },
   "United Kingdom": {
@@ -1813,9 +1813,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 69397,
+      "confirmed": 69475,
       "date": "2020-11-12",
-      "deaths": 591,
+      "deaths": 593,
       "recovered": 66672
     }
   },
