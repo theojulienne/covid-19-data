@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 68293,
+      "confirmed": 69625,
       "date": "2020-11-13",
-      "deaths": 1750,
-      "recovered": 33690
+      "deaths": 1808,
+      "recovered": 34491
     }
   },
   "Brazil": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 65598,
+      "confirmed": 66734,
       "date": "2020-11-13",
-      "deaths": 1508,
-      "recovered": 49563
+      "deaths": 1534,
+      "recovered": 50336
     }
   },
   "Canada": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 300026,
+          "confirmed": 300290,
           "date": "2020-11-13",
-          "deaths": 10072,
-          "recovered": 287903
+          "deaths": 10085,
+          "recovered": 288135
         }
       }
     }
@@ -587,10 +587,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 148882,
+          "confirmed": 149712,
           "date": "2020-11-13",
-          "deaths": 3081,
-          "recovered": 97857
+          "deaths": 3082,
+          "recovered": 100219
         }
       },
       "Berlin": {
@@ -1167,41 +1167,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 41945,
+          "confirmed": 42652,
           "date": "2020-11-13",
-          "deaths": 926,
+          "deaths": 935,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 67140,
+          "confirmed": 68055,
           "date": "2020-11-13",
-          "deaths": 1894,
+          "deaths": 1900,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 79614,
+          "confirmed": 80752,
           "date": "2020-11-13",
-          "deaths": 1143,
+          "deaths": 1164,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 36693,
+          "confirmed": 37208,
           "date": "2020-11-13",
-          "deaths": 600,
+          "deaths": 603,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 124597,
+          "confirmed": 126084,
           "date": "2020-11-13",
-          "deaths": 1983,
+          "deaths": 1990,
           "recovered": 0
         }
       }
@@ -1849,10 +1849,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 60784,
+      "confirmed": 61514,
       "date": "2020-11-13",
-      "deaths": 542,
-      "recovered": 52861
+      "deaths": 548,
+      "recovered": 53367
     }
   }
 }
