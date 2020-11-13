@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 41814,
-        "deaths": 1548,
-        "recovered": 34362
+        "confirmed": 41935,
+        "deaths": 1554,
+        "recovered": 34440
       },
       "back_2week": {
-        "confirmed": 41145,
-        "deaths": 1529,
-        "recovered": 34237
+        "confirmed": 41268,
+        "deaths": 1532,
+        "recovered": 34239
       },
       "latest": {
-        "confirmed": 42609,
-        "deaths": 1581,
-        "recovered": 34967
+        "confirmed": 42795,
+        "deaths": 1591,
+        "recovered": 35024
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 97150,
-        "deaths": 1448,
-        "recovered": 58811
+        "confirmed": 99563,
+        "deaths": 1476,
+        "recovered": 60135
       },
       "back_2week": {
-        "confirmed": 82651,
-        "deaths": 1243,
-        "recovered": 52508
+        "confirmed": 85034,
+        "deaths": 1272,
+        "recovered": 53257
       },
       "latest": {
-        "confirmed": 110548,
-        "deaths": 1636,
-        "recovered": 68336
+        "confirmed": 112680,
+        "deaths": 1668,
+        "recovered": 70130
       }
     },
     "ATG": {
@@ -1473,19 +1473,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 46817,
-        "deaths": 381,
-        "recovered": 31170
+        "confirmed": 49218,
+        "deaths": 401,
+        "recovered": 33459
       },
       "back_2week": {
-        "confirmed": 33858,
-        "deaths": 253,
-        "recovered": 14829
+        "confirmed": 35567,
+        "deaths": 273,
+        "recovered": 16904
       },
       "latest": {
-        "confirmed": 66561,
-        "deaths": 566,
-        "recovered": 49811
+        "confirmed": 69681,
+        "deaths": 599,
+        "recovered": 52169
       }
     },
     "GHA": {
