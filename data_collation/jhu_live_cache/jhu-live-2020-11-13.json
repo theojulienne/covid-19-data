@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 42923,
+      "confirmed": 42969,
       "date": "2020-11-13",
       "deaths": 1595,
       "recovered": 35036
@@ -1371,50 +1371,50 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 491542,
+          "confirmed": 497516,
           "date": "2020-11-13",
-          "deaths": 7573,
-          "recovered": 354705
+          "deaths": 7643,
+          "recovered": 358924
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 94299,
+          "confirmed": 95059,
           "date": "2020-11-13",
-          "deaths": 1758,
-          "recovered": 69908
+          "deaths": 1773,
+          "recovered": 70401
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 46521,
+          "confirmed": 46954,
           "date": "2020-11-13",
-          "deaths": 933,
-          "recovered": 39224
+          "deaths": 946,
+          "recovered": 39673
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 34347,
+          "confirmed": 34657,
           "date": "2020-11-13",
-          "deaths": 1013,
-          "recovered": 27440
+          "deaths": 1031,
+          "recovered": 27678
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 76152,
+          "confirmed": 77908,
           "date": "2020-11-13",
-          "deaths": 4385,
-          "recovered": 45871
+          "deaths": 4446,
+          "recovered": 46783
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 39690,
+          "confirmed": 40011,
           "date": "2020-11-13",
-          "deaths": 865,
-          "recovered": 31831
+          "deaths": 874,
+          "recovered": 32154
         }
       }
     }
@@ -1437,7 +1437,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58102,
+      "confirmed": 58114,
       "date": "2020-11-13",
       "deaths": 28,
       "recovered": 58002
