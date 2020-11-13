@@ -1025,10 +1025,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 100703,
+      "confirmed": 102607,
       "date": "2020-11-13",
-      "deaths": 775,
-      "recovered": 55706
+      "deaths": 796,
+      "recovered": 57693
     }
   },
   "Libya": {
@@ -1149,10 +1149,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 276821,
+      "confirmed": 282336,
       "date": "2020-11-13",
-      "deaths": 4570,
-      "recovered": 226040
+      "deaths": 4631,
+      "recovered": 229160
     }
   },
   "Nepal": {
@@ -1279,39 +1279,39 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45262,
+          "confirmed": 45333,
           "date": "2020-11-13",
-          "deaths": 1487,
+          "deaths": 1488,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 38791,
+          "confirmed": 38905,
           "date": "2020-11-13",
-          "deaths": 1867,
+          "deaths": 1870,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 33815,
+          "confirmed": 33911,
           "date": "2020-11-13",
-          "deaths": 2322,
+          "deaths": 2324,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 417066,
+          "confirmed": 417807,
           "date": "2020-11-13",
-          "deaths": 15739,
+          "deaths": 15756,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39265,
+          "confirmed": 39339,
           "date": "2020-11-13",
           "deaths": 2053,
           "recovered": 0
@@ -1463,89 +1463,89 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 184649,
+          "confirmed": 189744,
           "date": "2020-11-13",
-          "deaths": 3105,
+          "deaths": 3155,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 67053,
+          "confirmed": 67697,
           "date": "2020-11-13",
-          "deaths": 1943,
+          "deaths": 1966,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 79559,
+          "confirmed": 81854,
           "date": "2020-11-13",
-          "deaths": 1983,
+          "deaths": 2013,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 75607,
+          "confirmed": 76456,
           "date": "2020-11-13",
-          "deaths": 3525,
+          "deaths": 3545,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 103186,
+          "confirmed": 104785,
           "date": "2020-11-13",
-          "deaths": 4034,
+          "deaths": 4070,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 274425,
+          "confirmed": 278161,
           "date": "2020-11-13",
-          "deaths": 7340,
+          "deaths": 7362,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 41376,
+          "confirmed": 42132,
           "date": "2020-11-13",
-          "deaths": 1052,
+          "deaths": 1061,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 328548,
+          "confirmed": 330483,
           "date": "2020-11-13",
-          "deaths": 11011,
+          "deaths": 11053,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 47433,
+          "confirmed": 48473,
           "date": "2020-11-13",
-          "deaths": 452,
+          "deaths": 472,
           "recovered": 2180
         }
       },
       "Navarra": {
         "live": {
-          "confirmed": 37103,
+          "confirmed": 37333,
           "date": "2020-11-13",
-          "deaths": 784,
+          "deaths": 787,
           "recovered": 3905
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 82789,
+          "confirmed": 84175,
           "date": "2020-11-13",
-          "deaths": 2230,
+          "deaths": 2242,
           "recovered": 16160
         }
       }
@@ -1633,7 +1633,7 @@
         "live": {
           "confirmed": 269819,
           "date": "2020-11-13",
-          "deaths": 6580,
+          "deaths": 6587,
           "recovered": 0
         }
       },
@@ -1679,7 +1679,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 38620,
+          "confirmed": 39554,
           "date": "2020-11-13",
           "deaths": 912,
           "recovered": 0
@@ -1703,7 +1703,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 37399,
+          "confirmed": 37627,
           "date": "2020-11-13",
           "deaths": 412,
           "recovered": 0
