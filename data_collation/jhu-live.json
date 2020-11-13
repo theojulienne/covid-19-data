@@ -881,9 +881,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 66632,
+      "confirmed": 67099,
       "date": "2020-11-13",
-      "deaths": 1965,
+      "deaths": 1972,
       "recovered": 23364
     }
   },
@@ -1217,10 +1217,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 43835,
+      "confirmed": 44898,
       "date": "2020-11-13",
-      "deaths": 1238,
-      "recovered": 25782
+      "deaths": 1263,
+      "recovered": 26289
     }
   },
   "Oman": {
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 671052,
+          "confirmed": 671226,
           "date": "2020-11-13",
           "deaths": 12996,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 269819,
+          "confirmed": 276513,
           "date": "2020-11-13",
           "deaths": 6587,
           "recovered": 0
@@ -1687,9 +1687,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 91859,
+          "confirmed": 93073,
           "date": "2020-11-13",
-          "deaths": 1593,
+          "deaths": 1605,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 406194,
           "date": "2020-11-13",
-          "deaths": 28707,
+          "deaths": 28713,
           "recovered": 0
         }
       },
@@ -1711,17 +1711,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 40621,
+          "confirmed": 41295,
           "date": "2020-11-13",
-          "deaths": 646,
+          "deaths": 651,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 51513,
+          "confirmed": 52723,
           "date": "2020-11-13",
-          "deaths": 1904,
+          "deaths": 1909,
           "recovered": 0
         }
       },
@@ -1735,9 +1735,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 564424,
+          "confirmed": 566025,
           "date": "2020-11-13",
-          "deaths": 9789,
+          "deaths": 9793,
           "recovered": 0
         }
       },

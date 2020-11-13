@@ -1745,17 +1745,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 63483,
-        "deaths": 1930,
+        "confirmed": 64046,
+        "deaths": 1933,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 59434,
-        "deaths": 1896,
+        "confirmed": 60297,
+        "deaths": 1902,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 66247,
+        "confirmed": 66632,
         "deaths": 1965,
         "recovered": 23364
       }
@@ -2306,19 +2306,19 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 35097,
-        "deaths": 1071,
-        "recovered": 22024
+        "confirmed": 36372,
+        "deaths": 1084,
+        "recovered": 22526
       },
       "back_2week": {
-        "confirmed": 28697,
-        "deaths": 963,
-        "recovered": 19771
+        "confirmed": 29558,
+        "deaths": 977,
+        "recovered": 19994
       },
       "latest": {
-        "confirmed": 42540,
-        "deaths": 1212,
-        "recovered": 25353
+        "confirmed": 43835,
+        "deaths": 1238,
+        "recovered": 25782
       }
     },
     "MLI": {
