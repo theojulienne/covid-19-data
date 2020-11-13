@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1284519,
+      "confirmed": 1296378,
       "date": "2020-11-13",
-      "deaths": 34782,
-      "recovered": 1100180
+      "deaths": 35045,
+      "recovered": 1110477
     }
   },
   "Armenia": {
@@ -537,10 +537,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 110095,
+      "confirmed": 110319,
       "date": "2020-11-13",
-      "deaths": 6417,
-      "recovered": 100760
+      "deaths": 6429,
+      "recovered": 100847
     }
   },
   "El Salvador": {
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 71543,
           "date": "2020-11-13",
-          "deaths": 1121,
+          "deaths": 1166,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 36551,
+          "confirmed": 37113,
           "date": "2020-11-13",
-          "deaths": 2341,
+          "deaths": 2347,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 406194,
           "date": "2020-11-13",
-          "deaths": 28713,
+          "deaths": 28717,
           "recovered": 0
         }
       },
@@ -1735,9 +1735,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 566025,
+          "confirmed": 568295,
           "date": "2020-11-13",
-          "deaths": 9793,
+          "deaths": 9858,
           "recovered": 0
         }
       },
