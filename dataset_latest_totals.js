@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 250698,
+        "confirmed": 253482,
         "deaths": 10385,
         "recovered": 208815
       },
       "back_2week": {
-        "confirmed": 228366,
+        "confirmed": 231383,
         "deaths": 10084,
         "recovered": 191723
       },
       "latest": {
-        "confirmed": 280462,
+        "confirmed": 285936,
         "deaths": 10748,
         "recovered": 226826
       },
@@ -623,7 +623,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 65
         },
         "Ontario": {
-          "confirmed": 91613,
+          "confirmed": 93145,
           "deaths": 3337
         },
         "Prince Edward Island": {
@@ -1575,18 +1575,18 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 46892,
-        "deaths": 673,
+        "confirmed": 49807,
+        "deaths": 702,
         "recovered": 23074
       },
       "back_2week": {
-        "confirmed": 34299,
-        "deaths": 603,
+        "confirmed": 35510,
+        "deaths": 615,
         "recovered": 23074
       },
       "latest": {
-        "confirmed": 63321,
-        "deaths": 909,
+        "confirmed": 66637,
+        "deaths": 959,
         "recovered": 23074
       }
     },
@@ -1864,19 +1864,19 @@ var covid19_dataset_latest_totals = {
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 91234,
-        "deaths": 1029,
-        "recovered": 8188
+        "confirmed": 95864,
+        "deaths": 1069,
+        "recovered": 8336
       },
       "back_2week": {
-        "confirmed": 61942,
-        "deaths": 700,
+        "confirmed": 65385,
+        "deaths": 740,
         "recovered": 7508
       },
       "latest": {
-        "confirmed": 126401,
-        "deaths": 1467,
-        "recovered": 9416
+        "confirmed": 132086,
+        "deaths": 1547,
+        "recovered": 9564
       }
     },
     "JPN": {
@@ -1915,19 +1915,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 58587,
-        "deaths": 1051,
-        "recovered": 38381
+        "confirmed": 59595,
+        "deaths": 1072,
+        "recovered": 39193
       },
       "back_2week": {
-        "confirmed": 51851,
-        "deaths": 934,
-        "recovered": 35258
+        "confirmed": 52612,
+        "deaths": 964,
+        "recovered": 35604
       },
       "latest": {
-        "confirmed": 65804,
-        "deaths": 1180,
-        "recovered": 43626
+        "confirmed": 66723,
+        "deaths": 1203,
+        "recovered": 44040
       }
     },
     "KGZ": {
@@ -2221,19 +2221,19 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 78507,
-        "deaths": 1851,
-        "recovered": 58292
+        "confirmed": 79566,
+        "deaths": 1866,
+        "recovered": 59220
       },
       "back_2week": {
-        "confirmed": 73321,
-        "deaths": 1729,
-        "recovered": 53816
+        "confirmed": 74233,
+        "deaths": 1747,
+        "recovered": 54495
       },
       "latest": {
-        "confirmed": 84707,
-        "deaths": 1950,
-        "recovered": 66115
+        "confirmed": 86038,
+        "deaths": 1969,
+        "recovered": 67270
       }
     },
     "MDG": {
@@ -2762,19 +2762,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 156940,
-        "deaths": 2694,
-        "recovered": 88946
+        "confirmed": 161350,
+        "deaths": 2740,
+        "recovered": 91453
       },
       "back_2week": {
-        "confirmed": 128392,
-        "deaths": 2395,
-        "recovered": 74001
+        "confirmed": 132616,
+        "deaths": 2428,
+        "recovered": 75702
       },
       "latest": {
-        "confirmed": 192172,
-        "deaths": 3103,
-        "recovered": 110353
+        "confirmed": 198011,
+        "deaths": 3181,
+        "recovered": 113689
       }
     },
     "PRY": {
