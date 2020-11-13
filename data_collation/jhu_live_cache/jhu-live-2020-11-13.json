@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 427198,
+      "confirmed": 428965,
       "date": "2020-11-13",
-      "deaths": 6140,
-      "recovered": 344868
+      "deaths": 6159,
+      "recovered": 346387
     }
   },
   "Belarus": {
@@ -505,10 +505,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 75922,
+      "confirmed": 78978,
       "date": "2020-11-13",
-      "deaths": 925,
-      "recovered": 58649
+      "deaths": 968,
+      "recovered": 61264
     }
   },
   "Czechia": {
@@ -619,10 +619,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 51770,
+          "confirmed": 52873,
           "date": "2020-11-13",
-          "deaths": 882,
-          "recovered": 35213
+          "deaths": 889,
+          "recovered": 36450
         }
       },
       "Nordrhein-Westfalen": {
@@ -637,10 +637,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 49957,
+      "confirmed": 50018,
       "date": "2020-11-13",
       "deaths": 320,
-      "recovered": 48096
+      "recovered": 48179
     }
   },
   "Greece": {
@@ -1337,10 +1337,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 641496,
+      "confirmed": 665547,
       "date": "2020-11-13",
-      "deaths": 9080,
-      "recovered": 254349
+      "deaths": 9499,
+      "recovered": 267580
     }
   },
   "Portugal": {
@@ -1445,18 +1445,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 81772,
+      "confirmed": 83796,
       "date": "2020-11-13",
-      "deaths": 464,
-      "recovered": 24314
+      "deaths": 491,
+      "recovered": 26439
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 50870,
+      "confirmed": 52378,
       "date": "2020-11-13",
-      "deaths": 686,
-      "recovered": 30027
+      "deaths": 724,
+      "recovered": 31792
     }
   },
   "South Africa": {
@@ -1789,10 +1789,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 146735,
+      "confirmed": 147961,
       "date": "2020-11-13",
-      "deaths": 523,
-      "recovered": 141215
+      "deaths": 528,
+      "recovered": 141883
     }
   },
   "United Kingdom": {
@@ -1833,9 +1833,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 69617,
+      "confirmed": 69680,
       "date": "2020-11-13",
-      "deaths": 593,
+      "deaths": 594,
       "recovered": 66886
     }
   },
