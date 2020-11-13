@@ -442,7 +442,7 @@
           "confirmed": 189432,
           "date": "2020-11-13",
           "deaths": 3540,
-          "recovered": 174100
+          "recovered": 176661
         }
       },
       "Atlantico": {
@@ -450,7 +450,7 @@
           "confirmed": 74049,
           "date": "2020-11-13",
           "deaths": 3151,
-          "recovered": 69658
+          "recovered": 69911
         }
       },
       "Bolivar": {
@@ -458,7 +458,7 @@
           "confirmed": 34490,
           "date": "2020-11-13",
           "deaths": 868,
-          "recovered": 32849
+          "recovered": 33010
         }
       },
       "Capital District": {
@@ -466,15 +466,15 @@
           "confirmed": 342530,
           "date": "2020-11-13",
           "deaths": 7987,
-          "recovered": 314751
+          "recovered": 316563
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 46227,
           "date": "2020-11-13",
-          "deaths": 1293,
-          "recovered": 42365
+          "deaths": 1295,
+          "recovered": 42782
         }
       },
       "Santander": {
@@ -482,7 +482,7 @@
           "confirmed": 46810,
           "date": "2020-11-13",
           "deaths": 1809,
-          "recovered": 41508
+          "recovered": 42000
         }
       },
       "Valle del Cauca": {
@@ -490,7 +490,7 @@
           "confirmed": 93527,
           "date": "2020-11-13",
           "deaths": 3024,
-          "recovered": 82857
+          "recovered": 84196
         }
       }
     }
@@ -513,10 +513,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 443113,
+      "confirmed": 446675,
       "date": "2020-11-13",
-      "deaths": 5708,
-      "recovered": 285957
+      "deaths": 5755,
+      "recovered": 300719
     }
   },
   "Denmark": {
