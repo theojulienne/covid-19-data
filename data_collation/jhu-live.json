@@ -505,9 +505,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 450392,
+      "confirmed": 454030,
       "date": "2020-11-14",
-      "deaths": 5878,
+      "deaths": 5926,
       "recovered": 316352
     }
   },
@@ -1599,9 +1599,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 673617,
+          "confirmed": 675968,
           "date": "2020-11-14",
-          "deaths": 13011,
+          "deaths": 13040,
           "recovered": 0
         }
       },
