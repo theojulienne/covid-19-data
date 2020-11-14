@@ -978,7 +978,7 @@
           "confirmed": 34534,
           "date": "2020-11-14",
           "deaths": 464,
-          "recovered": 30954
+          "recovered": 31185
         }
       }
     }
@@ -1361,10 +1361,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 343725,
+      "confirmed": 353185,
       "date": "2020-11-14",
-      "deaths": 8684,
-      "recovered": 231808
+      "deaths": 8813,
+      "recovered": 239051
     }
   },
   "Russia": {
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 257135,
       "date": "2020-11-14",
-      "deaths": 3315,
+      "deaths": 3342,
       "recovered": 141000
     }
   },
@@ -1789,10 +1789,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 147961,
+      "confirmed": 149135,
       "date": "2020-11-14",
       "deaths": 528,
-      "recovered": 141883
+      "recovered": 142561
     }
   },
   "United Kingdom": {
@@ -1849,10 +1849,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 61514,
+      "confirmed": 62167,
       "date": "2020-11-14",
-      "deaths": 548,
-      "recovered": 53367
+      "deaths": 558,
+      "recovered": 53791
     }
   }
 }
