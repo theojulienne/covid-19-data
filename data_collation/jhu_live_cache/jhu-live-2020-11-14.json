@@ -398,7 +398,7 @@
           "confirmed": 122643,
           "date": "2020-11-14",
           "deaths": 6611,
-          "recovered": 102569
+          "recovered": 103668
         }
       }
     }
@@ -881,9 +881,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 67099,
+      "confirmed": 67526,
       "date": "2020-11-14",
-      "deaths": 1972,
+      "deaths": 1978,
       "recovered": 23364
     }
   },
@@ -1033,7 +1033,7 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 102607,
+      "confirmed": 104267,
       "date": "2020-11-14",
       "deaths": 806,
       "recovered": 58538
@@ -1583,8 +1583,8 @@
     "live": {
       "confirmed": 77668,
       "date": "2020-11-14",
-      "deaths": 2209,
-      "recovered": 52912
+      "deaths": 2279,
+      "recovered": 53758
     }
   },
   "Turkey": {
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 677761,
+          "confirmed": 678028,
           "date": "2020-11-14",
           "deaths": 13045,
           "recovered": 0
@@ -1711,7 +1711,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 41295,
+          "confirmed": 42123,
           "date": "2020-11-14",
           "deaths": 651,
           "recovered": 0
