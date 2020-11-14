@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 71580,
+      "confirmed": 73429,
       "date": "2020-11-14",
-      "deaths": 927,
-      "recovered": 53001
+      "deaths": 946,
+      "recovered": 54049
     }
   },
   "Bahrain": {
@@ -865,10 +865,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 738322,
+      "confirmed": 749525,
       "date": "2020-11-14",
-      "deaths": 40582,
-      "recovered": 546642
+      "deaths": 41034,
+      "recovered": 552747
     }
   },
   "Iraq": {
@@ -975,7 +975,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 34182,
+          "confirmed": 34534,
           "date": "2020-11-14",
           "deaths": 464,
           "recovered": 30954
@@ -1039,12 +1039,20 @@
       "recovered": 43259
     }
   },
+  "Lithuania": {
+    "live": {
+      "confirmed": 33387,
+      "date": "2020-11-14",
+      "deaths": 266,
+      "recovered": 7697
+    }
+  },
   "Malaysia": {
     "live": {
-      "confirmed": 45095,
+      "confirmed": 46209,
       "date": "2020-11-14",
-      "deaths": 304,
-      "recovered": 32969
+      "deaths": 306,
+      "recovered": 33772
     }
   },
   "Mexico": {
@@ -1157,10 +1165,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 206353,
+      "confirmed": 208299,
       "date": "2020-11-14",
-      "deaths": 1202,
-      "recovered": 168129
+      "deaths": 1215,
+      "recovered": 170632
     }
   },
   "Netherlands": {
@@ -1445,10 +1453,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 52385,
+      "confirmed": 54116,
       "date": "2020-11-14",
-      "deaths": 724,
-      "recovered": 31792
+      "deaths": 765,
+      "recovered": 33548
     }
   },
   "South Africa": {
@@ -1738,14 +1746,6 @@
           "confirmed": 99046,
           "date": "2020-11-14",
           "deaths": 449,
-          "recovered": 0
-        }
-      },
-      "Washington": {
-        "live": {
-          "confirmed": 33043,
-          "date": "2020-11-14",
-          "deaths": 836,
           "recovered": 0
         }
       },
