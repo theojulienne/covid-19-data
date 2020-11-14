@@ -597,7 +597,8 @@ var covid19_dataset_country_sle = {
       2385,
       2386,
       2386,
-      2387
+      2387,
+      2389
     ],
     "deaths": [
       0,
@@ -875,6 +876,7 @@ var covid19_dataset_country_sle = {
       73,
       73,
       73,
+      74,
       74,
       74,
       74,
@@ -1193,6 +1195,7 @@ var covid19_dataset_country_sle = {
       1813,
       1813,
       1813,
+      1816,
       1816
     ]
   }

@@ -597,7 +597,8 @@ var covid19_dataset_country_zmb = {
       16971,
       16997,
       17036,
-      17056
+      17056,
+      17093
     ],
     "deaths": [
       0,
@@ -893,6 +894,7 @@ var covid19_dataset_country_zmb = {
       349,
       349,
       349,
+      350,
       350,
       350,
       350
@@ -1193,7 +1195,8 @@ var covid19_dataset_country_zmb = {
       16011,
       16019,
       16070,
-      16102
+      16102,
+      16134
     ]
   }
 };
