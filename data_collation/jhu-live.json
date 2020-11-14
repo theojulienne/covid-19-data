@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 142889,
+      "confirmed": 143069,
       "date": "2020-11-14",
-      "deaths": 8825,
-      "recovered": 116137
+      "deaths": 8835,
+      "recovered": 116505
     }
   },
   "Bosnia and Herzegovina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 94457,
+          "confirmed": 94528,
           "date": "2020-11-14",
           "deaths": 3368,
-          "recovered": 79738
+          "recovered": 79760
         }
       },
       "Quebec": {
@@ -1727,7 +1727,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 569386,
+          "confirmed": 570077,
           "date": "2020-11-14",
           "deaths": 9858,
           "recovered": 0
