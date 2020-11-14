@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 94546,
+          "confirmed": 94570,
           "date": "2020-11-14",
           "deaths": 3368,
-          "recovered": 79774
+          "recovered": 79780
         }
       },
       "Quebec": {
@@ -653,10 +653,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 101468,
+      "confirmed": 102079,
       "date": "2020-11-14",
-      "deaths": 2804,
-      "recovered": 44068
+      "deaths": 2820,
+      "recovered": 44236
     }
   },
   "Hungary": {
@@ -1235,26 +1235,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 41472,
+          "confirmed": 41723,
           "date": "2020-11-14",
-          "deaths": 1303,
-          "recovered": 38526
+          "deaths": 1305,
+          "recovered": 38694
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 108822,
+          "confirmed": 109309,
           "date": "2020-11-14",
-          "deaths": 2455,
-          "recovered": 97692
+          "deaths": 2462,
+          "recovered": 97731
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 153051,
+          "confirmed": 153873,
           "date": "2020-11-14",
-          "deaths": 2718,
-          "recovered": 141760
+          "deaths": 2722,
+          "recovered": 142082
         }
       }
     }
@@ -1687,7 +1687,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 406194,
+          "confirmed": 408957,
           "date": "2020-11-14",
           "deaths": 28717,
           "recovered": 0
