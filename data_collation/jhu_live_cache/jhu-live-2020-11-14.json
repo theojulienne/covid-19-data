@@ -477,14 +477,6 @@
           "recovered": 42000
         }
       },
-      "Unknown": {
-        "live": {
-          "confirmed": 10644275,
-          "date": "2020-11-14",
-          "deaths": 178,
-          "recovered": 7650
-        }
-      },
       "Valle del Cauca": {
         "live": {
           "confirmed": 94425,
@@ -516,7 +508,7 @@
       "confirmed": 450392,
       "date": "2020-11-14",
       "deaths": 5878,
-      "recovered": 301385
+      "recovered": 316352
     }
   },
   "Denmark": {
@@ -1735,7 +1727,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 569142,
+          "confirmed": 569386,
           "date": "2020-11-14",
           "deaths": 9858,
           "recovered": 0
@@ -1746,6 +1738,14 @@
           "confirmed": 99046,
           "date": "2020-11-14",
           "deaths": 449,
+          "recovered": 0
+        }
+      },
+      "Washington": {
+        "live": {
+          "confirmed": 33043,
+          "date": "2020-11-14",
+          "deaths": 836,
           "recovered": 0
         }
       },
