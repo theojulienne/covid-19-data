@@ -4,7 +4,7 @@
       "confirmed": 43035,
       "date": "2020-11-14",
       "deaths": 1605,
-      "recovered": 35063
+      "recovered": 35067
     }
   },
   "Algeria": {
@@ -661,10 +661,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 131887,
+      "confirmed": 136723,
       "date": "2020-11-14",
-      "deaths": 2883,
-      "recovered": 29802
+      "deaths": 2990,
+      "recovered": 31126
     }
   },
   "India": {
@@ -1332,7 +1332,7 @@
       "confirmed": 665547,
       "date": "2020-11-14",
       "deaths": 9499,
-      "recovered": 267580
+      "recovered": 282215
     }
   },
   "Portugal": {
