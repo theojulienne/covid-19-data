@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 114383,
+      "confirmed": 115855,
       "date": "2020-11-14",
-      "deaths": 1697,
-      "recovered": 72116
+      "deaths": 1738,
+      "recovered": 74105
     }
   },
   "Austria": {
@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 36195,
       "date": "2020-11-14",
-      "deaths": 1033,
+      "deaths": 1039,
       "recovered": 32487
     }
   },
@@ -569,10 +569,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 73154,
+      "confirmed": 76658,
       "date": "2020-11-14",
-      "deaths": 636,
-      "recovered": 55511
+      "deaths": 669,
+      "recovered": 58674
     }
   },
   "Germany": {
@@ -1763,26 +1763,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 46137,
+          "confirmed": 46886,
           "date": "2020-11-14",
-          "deaths": 629,
-          "recovered": 14215
+          "deaths": 638,
+          "recovered": 14374
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 48646,
+          "confirmed": 49699,
           "date": "2020-11-14",
-          "deaths": 938,
-          "recovered": 18333
+          "deaths": 950,
+          "recovered": 18702
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 36000,
+          "confirmed": 36561,
           "date": "2020-11-14",
-          "deaths": 1035,
-          "recovered": 23728
+          "deaths": 1052,
+          "recovered": 24238
         }
       }
     }
