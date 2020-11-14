@@ -513,10 +513,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 60000,
+      "confirmed": 61078,
       "date": "2020-11-14",
-      "deaths": 756,
-      "recovered": 45705
+      "deaths": 757,
+      "recovered": 46774
     }
   },
   "Dominican Republic": {
@@ -611,10 +611,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 53883,
+          "confirmed": 54355,
           "date": "2020-11-14",
-          "deaths": 897,
-          "recovered": 36450
+          "deaths": 898,
+          "recovered": 37458
         }
       },
       "Nordrhein-Westfalen": {
@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 514496,
+      "confirmed": 516915,
       "date": "2020-11-14",
-      "deaths": 11580,
-      "recovered": 441856
+      "deaths": 11623,
+      "recovered": 444226
     }
   },
   "Ireland": {
@@ -1009,10 +1009,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 135650,
+      "confirmed": 136341,
       "date": "2020-11-14",
-      "deaths": 833,
-      "recovered": 126344
+      "deaths": 835,
+      "recovered": 126902
     }
   },
   "Kyrgyzstan": {
@@ -1177,7 +1177,7 @@
         "live": {
           "confirmed": 42652,
           "date": "2020-11-14",
-          "deaths": 935,
+          "deaths": 948,
           "recovered": 0
         }
       },
@@ -1185,7 +1185,7 @@
         "live": {
           "confirmed": 68055,
           "date": "2020-11-14",
-          "deaths": 1900,
+          "deaths": 1916,
           "recovered": 0
         }
       },
@@ -1193,7 +1193,7 @@
         "live": {
           "confirmed": 80752,
           "date": "2020-11-14",
-          "deaths": 1164,
+          "deaths": 1165,
           "recovered": 0
         }
       },
@@ -1201,7 +1201,7 @@
         "live": {
           "confirmed": 37208,
           "date": "2020-11-14",
-          "deaths": 603,
+          "deaths": 610,
           "recovered": 0
         }
       },
@@ -1209,7 +1209,7 @@
         "live": {
           "confirmed": 126084,
           "date": "2020-11-14",
-          "deaths": 1990,
+          "deaths": 2017,
           "recovered": 0
         }
       }
@@ -1421,10 +1421,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 352601,
+      "confirmed": 352950,
       "date": "2020-11-14",
-      "deaths": 5625,
-      "recovered": 339568
+      "deaths": 5641,
+      "recovered": 339947
     }
   },
   "Serbia": {
