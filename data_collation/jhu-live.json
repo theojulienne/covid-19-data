@@ -1035,8 +1035,8 @@
     "live": {
       "confirmed": 102607,
       "date": "2020-11-14",
-      "deaths": 796,
-      "recovered": 57693
+      "deaths": 806,
+      "recovered": 58538
     }
   },
   "Libya": {
@@ -1157,10 +1157,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 282336,
+      "confirmed": 288211,
       "date": "2020-11-14",
-      "deaths": 4631,
-      "recovered": 229160
+      "deaths": 4697,
+      "recovered": 234904
     }
   },
   "Nepal": {
@@ -1287,7 +1287,7 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45333,
+          "confirmed": 45407,
           "date": "2020-11-14",
           "deaths": 1488,
           "recovered": 0
@@ -1295,33 +1295,33 @@
       },
       "Callao": {
         "live": {
-          "confirmed": 38905,
+          "confirmed": 39032,
           "date": "2020-11-14",
-          "deaths": 1870,
+          "deaths": 1872,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 33911,
+          "confirmed": 34019,
           "date": "2020-11-14",
-          "deaths": 2324,
+          "deaths": 2329,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 417807,
+          "confirmed": 418659,
           "date": "2020-11-14",
-          "deaths": 15756,
+          "deaths": 15772,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39339,
+          "confirmed": 39431,
           "date": "2020-11-14",
-          "deaths": 2053,
+          "deaths": 2056,
           "recovered": 0
         }
       }
@@ -1615,9 +1615,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 490587,
+          "confirmed": 493097,
           "date": "2020-11-14",
-          "deaths": 8914,
+          "deaths": 8923,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 276513,
+          "confirmed": 280999,
           "date": "2020-11-14",
-          "deaths": 6587,
+          "deaths": 6675,
           "recovered": 0
         }
       },
@@ -1679,17 +1679,17 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 39554,
+          "confirmed": 40359,
           "date": "2020-11-14",
-          "deaths": 912,
+          "deaths": 914,
           "recovered": 0
         }
       },
       "Nevada": {
         "live": {
-          "confirmed": 93073,
+          "confirmed": 94640,
           "date": "2020-11-14",
-          "deaths": 1605,
+          "deaths": 1617,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 408957,
           "date": "2020-11-14",
-          "deaths": 28717,
+          "deaths": 28729,
           "recovered": 0
         }
       },
