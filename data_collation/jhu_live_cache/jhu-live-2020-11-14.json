@@ -985,10 +985,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 136555,
+      "confirmed": 141305,
       "date": "2020-11-14",
-      "deaths": 1618,
-      "recovered": 9729
+      "deaths": 1704,
+      "recovered": 9879
     }
   },
   "Kazakhstan": {
@@ -1440,7 +1440,7 @@
       "confirmed": 58116,
       "date": "2020-11-14",
       "deaths": 28,
-      "recovered": 58008
+      "recovered": 58019
     }
   },
   "Slovakia": {
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 35666,
+          "confirmed": 36052,
           "date": "2020-11-14",
-          "deaths": 880,
+          "deaths": 883,
           "recovered": 0
         }
       },
