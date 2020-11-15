@@ -1102,19 +1102,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 53180,
-        "deaths": 738,
-        "recovered": 38627
+        "confirmed": 54230,
+        "deaths": 740,
+        "recovered": 39490
       },
       "back_2week": {
-        "confirmed": 45225,
-        "deaths": 719,
-        "recovered": 34052
+        "confirmed": 46351,
+        "deaths": 721,
+        "recovered": 34523
       },
       "latest": {
-        "confirmed": 60000,
-        "deaths": 756,
-        "recovered": 45705
+        "confirmed": 61078,
+        "deaths": 757,
+        "recovered": 46774
       },
       "states": {
         "Faroe Islands": {
@@ -1779,19 +1779,19 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 493139,
-        "deaths": 11244,
-        "recovered": 423266
+        "confirmed": 496019,
+        "deaths": 11283,
+        "recovered": 425926
       },
       "back_2week": {
-        "confirmed": 470633,
-        "deaths": 10862,
-        "recovered": 397241
+        "confirmed": 472630,
+        "deaths": 10910,
+        "recovered": 399655
       },
       "latest": {
-        "confirmed": 514496,
-        "deaths": 11580,
-        "recovered": 441856
+        "confirmed": 516915,
+        "deaths": 11623,
+        "recovered": 444226
       }
     },
     "ISL": {
@@ -2600,19 +2600,19 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 188883,
-        "deaths": 1070,
-        "recovered": 152908
+        "confirmed": 191636,
+        "deaths": 1087,
+        "recovered": 155114
       },
       "back_2week": {
-        "confirmed": 168235,
-        "deaths": 920,
-        "recovered": 128958
+        "confirmed": 170743,
+        "deaths": 937,
+        "recovered": 131222
       },
       "latest": {
-        "confirmed": 206353,
-        "deaths": 1202,
-        "recovered": 168129
+        "confirmed": 208299,
+        "deaths": 1215,
+        "recovered": 170632
       }
     },
     "NZL": {

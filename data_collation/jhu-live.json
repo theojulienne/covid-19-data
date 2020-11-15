@@ -513,10 +513,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 61078,
+      "confirmed": 62136,
       "date": "2020-11-15",
-      "deaths": 757,
-      "recovered": 46774
+      "deaths": 760,
+      "recovered": 47747
     }
   },
   "Dominican Republic": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 516915,
+      "confirmed": 519152,
       "date": "2020-11-15",
-      "deaths": 11623,
-      "recovered": 444226
+      "deaths": 11670,
+      "recovered": 447039
     }
   },
   "Ireland": {
@@ -1165,10 +1165,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 208299,
+      "confirmed": 209776,
       "date": "2020-11-15",
-      "deaths": 1215,
-      "recovered": 170632
+      "deaths": 1221,
+      "recovered": 173430
     }
   },
   "Netherlands": {
