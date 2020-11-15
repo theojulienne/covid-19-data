@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 61031,
+          "confirmed": 61703,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 71711,
+          "confirmed": 72211,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 46991,
+          "confirmed": 47808,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 40486,
+          "confirmed": 40934,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 84021,
+          "confirmed": 85035,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 85748,
+          "confirmed": 86749,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 39158,
+          "confirmed": 39745,
           "date": "2020-11-15",
           "deaths": 0,
           "recovered": 0
@@ -419,7 +419,7 @@
     "subseries": {
       "Hubei": {
         "live": {
-          "confirmed": 68147,
+          "confirmed": 68148,
           "date": "2020-11-15",
           "deaths": 4512,
           "recovered": 63627
@@ -579,17 +579,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 115657,
+          "confirmed": 115670,
           "date": "2020-11-15",
-          "deaths": 2257,
+          "deaths": 2258,
           "recovered": 72689
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 153665,
+          "confirmed": 156421,
           "date": "2020-11-15",
-          "deaths": 3115,
+          "deaths": 3133,
           "recovered": 102451
         }
       },
@@ -598,31 +598,39 @@
           "confirmed": 47265,
           "date": "2020-11-15",
           "deaths": 358,
-          "recovered": 28585
+          "recovered": 28923
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 62462,
+          "confirmed": 64393,
           "date": "2020-11-15",
-          "deaths": 854,
+          "deaths": 864,
           "recovered": 37773
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 54355,
+          "confirmed": 55325,
           "date": "2020-11-15",
-          "deaths": 898,
+          "deaths": 903,
           "recovered": 37458
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 196363,
+          "confirmed": 200063,
           "date": "2020-11-15",
-          "deaths": 2616,
+          "deaths": 2623,
           "recovered": 125857
+        }
+      },
+      "Sachsen": {
+        "live": {
+          "confirmed": 33924,
+          "date": "2020-11-15",
+          "deaths": 511,
+          "recovered": 18090
         }
       }
     }
@@ -1118,14 +1126,6 @@
           "confirmed": 35602,
           "date": "2020-11-15",
           "deaths": 3017,
-          "recovered": 0
-        }
-      },
-      "Tamaulipas": {
-        "live": {
-          "confirmed": 33653,
-          "date": "2020-11-15",
-          "deaths": 2809,
           "recovered": 0
         }
       },
@@ -1687,7 +1687,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 408957,
+          "confirmed": 411831,
           "date": "2020-11-15",
           "deaths": 28732,
           "recovered": 0
