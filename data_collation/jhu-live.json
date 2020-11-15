@@ -397,7 +397,7 @@
         "live": {
           "confirmed": 122643,
           "date": "2020-11-15",
-          "deaths": 6611,
+          "deaths": 6626,
           "recovered": 103668
         }
       }
@@ -529,10 +529,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 179627,
+      "confirmed": 180295,
       "date": "2020-11-15",
-      "deaths": 12997,
-      "recovered": 154956
+      "deaths": 13008,
+      "recovered": 160639
     }
   },
   "Egypt": {
@@ -553,10 +553,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 102321,
+      "confirmed": 102720,
       "date": "2020-11-15",
-      "deaths": 1565,
-      "recovered": 63675
+      "deaths": 1569,
+      "recovered": 63866
     }
   },
   "France": {
@@ -889,9 +889,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 67526,
+      "confirmed": 67903,
       "date": "2020-11-15",
-      "deaths": 1978,
+      "deaths": 1979,
       "recovered": 23364
     }
   },
@@ -1041,10 +1041,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 104267,
+      "confirmed": 105430,
       "date": "2020-11-15",
-      "deaths": 806,
-      "recovered": 58538
+      "deaths": 817,
+      "recovered": 60416
     }
   },
   "Libya": {
@@ -1165,10 +1165,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 288211,
+      "confirmed": 293177,
       "date": "2020-11-15",
-      "deaths": 4697,
-      "recovered": 234904
+      "deaths": 4779,
+      "recovered": 238598
     }
   },
   "Nepal": {
@@ -1639,9 +1639,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 280999,
+          "confirmed": 286385,
           "date": "2020-11-15",
-          "deaths": 6675,
+          "deaths": 6699,
           "recovered": 0
         }
       },
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 411831,
           "date": "2020-11-15",
-          "deaths": 28732,
+          "deaths": 28740,
           "recovered": 0
         }
       },
