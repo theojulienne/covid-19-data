@@ -631,7 +631,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 121195,
+          "confirmed": 122643,
           "deaths": 6611
         },
         "Saskatchewan": {
@@ -3289,19 +3289,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 66334,
-        "deaths": 1577,
-        "recovered": 36727
+        "confirmed": 69543,
+        "deaths": 1794,
+        "recovered": 47416
       },
       "back_2week": {
-        "confirmed": 58029,
-        "deaths": 1253,
+        "confirmed": 59813,
+        "deaths": 1317,
         "recovered": 5032
       },
       "latest": {
-        "confirmed": 77668,
-        "deaths": 2209,
-        "recovered": 52912
+        "confirmed": 79339,
+        "deaths": 2279,
+        "recovered": 53758
       }
     },
     "TUR": {
