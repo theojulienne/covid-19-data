@@ -433,16 +433,16 @@
         "live": {
           "confirmed": 192874,
           "date": "2020-11-15",
-          "deaths": 3600,
-          "recovered": 178186
+          "deaths": 3619,
+          "recovered": 179680
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 74450,
           "date": "2020-11-15",
-          "deaths": 3155,
-          "recovered": 70071
+          "deaths": 3158,
+          "recovered": 70279
         }
       },
       "Bolivar": {
@@ -450,39 +450,39 @@
           "confirmed": 34845,
           "date": "2020-11-15",
           "deaths": 873,
-          "recovered": 33101
+          "recovered": 33348
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 345742,
           "date": "2020-11-15",
-          "deaths": 8047,
-          "recovered": 318012
+          "deaths": 8073,
+          "recovered": 319899
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 46983,
           "date": "2020-11-15",
-          "deaths": 1312,
-          "recovered": 43014
+          "deaths": 1318,
+          "recovered": 43397
         }
       },
       "Santander": {
         "live": {
           "confirmed": 47655,
           "date": "2020-11-15",
-          "deaths": 1824,
-          "recovered": 42307
+          "deaths": 1835,
+          "recovered": 42785
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 95173,
           "date": "2020-11-15",
-          "deaths": 3071,
-          "recovered": 85219
+          "deaths": 3084,
+          "recovered": 85976
         }
       }
     }
@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 36358,
       "date": "2020-11-15",
-      "deaths": 1039,
+      "deaths": 1044,
       "recovered": 32721
     }
   },
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 323339,
+      "confirmed": 323460,
       "date": "2020-11-15",
       "deaths": 2721,
-      "recovered": 312625
+      "recovered": 312823
     }
   },
   "Italy": {
@@ -1279,41 +1279,41 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45407,
+          "confirmed": 45472,
           "date": "2020-11-15",
-          "deaths": 1488,
+          "deaths": 1492,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 39032,
+          "confirmed": 39197,
           "date": "2020-11-15",
-          "deaths": 1872,
+          "deaths": 1874,
           "recovered": 0
         }
       },
       "La Libertad": {
         "live": {
-          "confirmed": 34019,
+          "confirmed": 34093,
           "date": "2020-11-15",
-          "deaths": 2329,
+          "deaths": 2332,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 418659,
+          "confirmed": 419479,
           "date": "2020-11-15",
-          "deaths": 15772,
+          "deaths": 15800,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39431,
+          "confirmed": 39535,
           "date": "2020-11-15",
-          "deaths": 2056,
+          "deaths": 2057,
           "recovered": 0
         }
       }
@@ -1601,7 +1601,7 @@
         "live": {
           "confirmed": 682831,
           "date": "2020-11-15",
-          "deaths": 13072,
+          "deaths": 13073,
           "recovered": 0
         }
       },
@@ -1833,10 +1833,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 69987,
+      "confirmed": 70038,
       "date": "2020-11-15",
-      "deaths": 594,
-      "recovered": 67241
+      "deaths": 597,
+      "recovered": 67315
     }
   },
   "Venezuela": {
