@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 198291,
+      "confirmed": 203956,
       "date": "2020-11-15",
-      "deaths": 1746,
-      "recovered": 119415
+      "deaths": 1829,
+      "recovered": 125674
     }
   },
   "Azerbaijan": {
@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 70900,
+      "confirmed": 71956,
       "date": "2020-11-15",
-      "deaths": 1857,
-      "recovered": 35361
+      "deaths": 1889,
+      "recovered": 35606
     }
   },
   "Brazil": {
@@ -1017,10 +1017,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 136341,
+      "confirmed": 136840,
       "date": "2020-11-15",
-      "deaths": 835,
-      "recovered": 126902
+      "deaths": 838,
+      "recovered": 127585
     }
   },
   "Kyrgyzstan": {
@@ -1045,6 +1045,14 @@
       "date": "2020-11-15",
       "deaths": 1017,
       "recovered": 44133
+    }
+  },
+  "Lithuania": {
+    "live": {
+      "confirmed": 34758,
+      "date": "2020-11-15",
+      "deaths": 277,
+      "recovered": 7753
     }
   },
   "Malaysia": {
@@ -1353,10 +1361,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 353185,
+      "confirmed": 360281,
       "date": "2020-11-15",
-      "deaths": 8813,
-      "recovered": 239051
+      "deaths": 8926,
+      "recovered": 243832
     }
   },
   "Russia": {
@@ -1445,10 +1453,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 54122,
+      "confirmed": 55042,
       "date": "2020-11-15",
-      "deaths": 765,
-      "recovered": 33548
+      "deaths": 797,
+      "recovered": 34864
     }
   },
   "South Africa": {
@@ -1599,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 683196,
+          "confirmed": 649503,
           "date": "2020-11-15",
-          "deaths": 13073,
+          "deaths": 12613,
           "recovered": 0
         }
       },
@@ -1849,10 +1857,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 62167,
+      "confirmed": 63031,
       "date": "2020-11-15",
-      "deaths": 558,
-      "recovered": 53791
+      "deaths": 565,
+      "recovered": 54346
     }
   }
 }
