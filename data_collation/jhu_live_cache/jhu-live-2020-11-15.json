@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1304846,
+      "confirmed": 1310491,
       "date": "2020-11-15",
-      "deaths": 35307,
-      "recovered": 1119366
+      "deaths": 35436,
+      "recovered": 1129102
     }
   },
   "Armenia": {
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 96259,
+          "confirmed": 96345,
           "date": "2020-11-15",
           "deaths": 3393,
           "recovered": 81273
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 192874,
+          "confirmed": 194398,
           "date": "2020-11-15",
           "deaths": 3619,
           "recovered": 179680
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 74450,
+          "confirmed": 74627,
           "date": "2020-11-15",
           "deaths": 3158,
           "recovered": 70279
@@ -447,7 +447,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 34845,
+          "confirmed": 35025,
           "date": "2020-11-15",
           "deaths": 873,
           "recovered": 33348
@@ -455,7 +455,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 345742,
+          "confirmed": 346711,
           "date": "2020-11-15",
           "deaths": 8073,
           "recovered": 319899
@@ -463,7 +463,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 46983,
+          "confirmed": 47258,
           "date": "2020-11-15",
           "deaths": 1318,
           "recovered": 43397
@@ -471,7 +471,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 47655,
+          "confirmed": 48009,
           "date": "2020-11-15",
           "deaths": 1835,
           "recovered": 42785
@@ -479,7 +479,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 95173,
+          "confirmed": 96171,
           "date": "2020-11-15",
           "deaths": 3084,
           "recovered": 85976
@@ -1609,7 +1609,7 @@
         "live": {
           "confirmed": 685126,
           "date": "2020-11-15",
-          "deaths": 13075,
+          "deaths": 13077,
           "recovered": 0
         }
       },
@@ -1617,7 +1617,7 @@
         "live": {
           "confirmed": 493097,
           "date": "2020-11-15",
-          "deaths": 8923,
+          "deaths": 8936,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 37652,
+          "confirmed": 38246,
           "date": "2020-11-15",
-          "deaths": 2351,
+          "deaths": 2355,
           "recovered": 0
         }
       },
