@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 96253,
+          "confirmed": 96259,
           "date": "2020-11-15",
           "deaths": 3393,
           "recovered": 81221
@@ -623,14 +623,6 @@
           "date": "2020-11-15",
           "deaths": 2623,
           "recovered": 125857
-        }
-      },
-      "Sachsen": {
-        "live": {
-          "confirmed": 33924,
-          "date": "2020-11-15",
-          "deaths": 511,
-          "recovered": 15843
         }
       }
     }
@@ -1615,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 650393,
+          "confirmed": 685126,
           "date": "2020-11-15",
-          "deaths": 12615,
+          "deaths": 13075,
           "recovered": 0
         }
       },
@@ -1631,7 +1623,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 72078,
+          "confirmed": 72420,
           "date": "2020-11-15",
           "deaths": 1171,
           "recovered": 0
@@ -1703,7 +1695,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 411831,
+          "confirmed": 414082,
           "date": "2020-11-15",
           "deaths": 28740,
           "recovered": 0
@@ -1735,9 +1727,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 79369,
+          "confirmed": 80502,
           "date": "2020-11-15",
-          "deaths": 991,
+          "deaths": 994,
           "recovered": 0
         }
       },
@@ -1751,15 +1743,15 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 102476,
+          "confirmed": 104128,
           "date": "2020-11-15",
-          "deaths": 452,
+          "deaths": 455,
           "recovered": 0
         }
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 58485,
+          "confirmed": 59549,
           "date": "2020-11-15",
           "deaths": 652,
           "recovered": 0
