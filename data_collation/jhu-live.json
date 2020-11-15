@@ -379,7 +379,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 37312,
+          "confirmed": 38338,
           "date": "2020-11-15",
           "deaths": 401,
           "recovered": 28321
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 95831,
+          "confirmed": 95964,
           "date": "2020-11-15",
           "deaths": 3387,
           "recovered": 80980
@@ -505,10 +505,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 456117,
+      "confirmed": 458229,
       "date": "2020-11-15",
-      "deaths": 6005,
-      "recovered": 316523
+      "deaths": 6058,
+      "recovered": 322383
     }
   },
   "Denmark": {
@@ -1261,10 +1261,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 144477,
+      "confirmed": 145309,
       "date": "2020-11-15",
-      "deaths": 2856,
-      "recovered": 123229
+      "deaths": 2867,
+      "recovered": 124271
     }
   },
   "Paraguay": {
@@ -1599,9 +1599,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 678556,
+          "confirmed": 682128,
           "date": "2020-11-15",
-          "deaths": 13067,
+          "deaths": 13072,
           "recovered": 0
         }
       },
