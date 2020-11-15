@@ -298,7 +298,8 @@ var covid19_dataset_country_srb = {
     "2020-11-12",
     "2020-11-13",
     "2020-11-14",
-    "2020-11-15"
+    "2020-11-15",
+    "2020-11-16"
   ],
   "total": {
     "confirmed": [
@@ -598,8 +599,7 @@ var covid19_dataset_country_srb = {
       66888,
       70424,
       73765,
-      77264,
-      81086
+      77264
     ],
     "deaths": [
       0,
@@ -898,8 +898,7 @@ var covid19_dataset_country_srb = {
       915,
       936,
       955,
-      972,
-      989
+      972
     ],
     "recovered": [
       0,
