@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 98059,
+          "confirmed": 98649,
           "date": "2020-11-16",
           "deaths": 3418,
-          "recovered": 83251
+          "recovered": 83427
         }
       },
       "Quebec": {
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 194398,
+          "confirmed": 195046,
           "date": "2020-11-16",
           "deaths": 3644,
           "recovered": 181026
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 74627,
+          "confirmed": 74835,
           "date": "2020-11-16",
           "deaths": 3161,
           "recovered": 70419
@@ -447,7 +447,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 35025,
+          "confirmed": 35200,
           "date": "2020-11-16",
           "deaths": 875,
           "recovered": 33456
@@ -455,7 +455,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 346711,
+          "confirmed": 347905,
           "date": "2020-11-16",
           "deaths": 8113,
           "recovered": 321548
@@ -463,7 +463,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 47258,
+          "confirmed": 47639,
           "date": "2020-11-16",
           "deaths": 1322,
           "recovered": 43754
@@ -471,7 +471,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 48009,
+          "confirmed": 48342,
           "date": "2020-11-16",
           "deaths": 1851,
           "recovered": 43006
@@ -479,7 +479,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 96171,
+          "confirmed": 96872,
           "date": "2020-11-16",
           "deaths": 3106,
           "recovered": 86676
@@ -529,9 +529,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 180295,
+      "confirmed": 180676,
       "date": "2020-11-16",
-      "deaths": 13008,
+      "deaths": 13016,
       "recovered": 160639
     }
   },
@@ -1609,15 +1609,15 @@
         "live": {
           "confirmed": 657023,
           "date": "2020-11-16",
-          "deaths": 12618,
+          "deaths": 12625,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 499402,
+          "confirmed": 501894,
           "date": "2020-11-16",
-          "deaths": 8936,
+          "deaths": 8957,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 38246,
+          "confirmed": 38643,
           "date": "2020-11-16",
-          "deaths": 2355,
+          "deaths": 2356,
           "recovered": 0
         }
       },
