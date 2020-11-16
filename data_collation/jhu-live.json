@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 203956,
+      "confirmed": 208613,
       "date": "2020-11-16",
-      "deaths": 1829,
-      "recovered": 125674
+      "deaths": 1887,
+      "recovered": 129671
     }
   },
   "Azerbaijan": {
@@ -611,10 +611,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 55433,
+          "confirmed": 55883,
           "date": "2020-11-16",
-          "deaths": 904,
-          "recovered": 38274
+          "deaths": 908,
+          "recovered": 39333
         }
       },
       "Nordrhein-Westfalen": {
@@ -994,7 +994,7 @@
           "confirmed": 34969,
           "date": "2020-11-16",
           "deaths": 464,
-          "recovered": 31368
+          "recovered": 31477
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 136840,
+      "confirmed": 137329,
       "date": "2020-11-16",
-      "deaths": 838,
-      "recovered": 127585
+      "deaths": 842,
+      "recovered": 128414
     }
   },
   "Kyrgyzstan": {
@@ -1173,10 +1173,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 209776,
+      "confirmed": 210973,
       "date": "2020-11-16",
-      "deaths": 1221,
-      "recovered": 173430
+      "deaths": 1230,
+      "recovered": 176364
     }
   },
   "Netherlands": {
@@ -1361,10 +1361,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 360281,
+      "confirmed": 365212,
       "date": "2020-11-16",
-      "deaths": 8926,
-      "recovered": 243832
+      "deaths": 9075,
+      "recovered": 246633
     }
   },
   "Russia": {
@@ -1453,10 +1453,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 55042,
+      "confirmed": 55543,
       "date": "2020-11-16",
-      "deaths": 797,
-      "recovered": 34864
+      "deaths": 831,
+      "recovered": 35387
     }
   },
   "South Africa": {
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 269974,
       "date": "2020-11-16",
-      "deaths": 3434,
+      "deaths": 3444,
       "recovered": 141000
     }
   },
