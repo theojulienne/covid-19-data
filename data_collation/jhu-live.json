@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 300954,
+          "confirmed": 301207,
           "date": "2020-11-16",
-          "deaths": 10116,
-          "recovered": 288748
+          "deaths": 10134,
+          "recovered": 289029
         }
       }
     }
@@ -433,7 +433,7 @@
         "live": {
           "confirmed": 194398,
           "date": "2020-11-16",
-          "deaths": 3644,
+          "deaths": 3614,
           "recovered": 181026
         }
       },
@@ -441,7 +441,7 @@
         "live": {
           "confirmed": 74627,
           "date": "2020-11-16",
-          "deaths": 3161,
+          "deaths": 3150,
           "recovered": 70419
         }
       },
@@ -449,7 +449,7 @@
         "live": {
           "confirmed": 35025,
           "date": "2020-11-16",
-          "deaths": 875,
+          "deaths": 872,
           "recovered": 33456
         }
       },
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 346711,
           "date": "2020-11-16",
-          "deaths": 8113,
+          "deaths": 7998,
           "recovered": 321548
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 47258,
           "date": "2020-11-16",
-          "deaths": 1322,
+          "deaths": 1311,
           "recovered": 43754
         }
       },
@@ -473,7 +473,7 @@
         "live": {
           "confirmed": 48009,
           "date": "2020-11-16",
-          "deaths": 1851,
+          "deaths": 1843,
           "recovered": 43006
         }
       },
@@ -481,7 +481,7 @@
         "live": {
           "confirmed": 96171,
           "date": "2020-11-16",
-          "deaths": 3106,
+          "deaths": 3082,
           "recovered": 86676
         }
       }
@@ -1429,7 +1429,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 84568,
+      "confirmed": 87381,
       "date": "2020-11-16",
       "deaths": 1030,
       "recovered": 0
@@ -1440,7 +1440,7 @@
       "confirmed": 58124,
       "date": "2020-11-16",
       "deaths": 28,
-      "recovered": 58029
+      "recovered": 58033
     }
   },
   "Slovakia": {
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 36269,
+          "confirmed": 36486,
           "date": "2020-11-16",
-          "deaths": 889,
+          "deaths": 890,
           "recovered": 0
         }
       },
