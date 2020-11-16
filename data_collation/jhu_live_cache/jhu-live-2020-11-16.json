@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 43240,
+      "confirmed": 43403,
       "date": "2020-11-16",
-      "deaths": 1617,
-      "recovered": 35092
+      "deaths": 1626,
+      "recovered": 35137
     }
   },
   "Algeria": {
@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 117337,
+      "confirmed": 117886,
       "date": "2020-11-16",
-      "deaths": 1763,
-      "recovered": 74984
+      "deaths": 1788,
+      "recovered": 75865
     }
   },
   "Austria": {
@@ -569,10 +569,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 79678,
+      "confirmed": 82835,
       "date": "2020-11-16",
-      "deaths": 703,
-      "recovered": 62061
+      "deaths": 733,
+      "recovered": 65291
     }
   },
   "Germany": {
@@ -991,7 +991,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 34789,
+          "confirmed": 34969,
           "date": "2020-11-16",
           "deaths": 464,
           "recovered": 21368
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 655099,
+          "confirmed": 655257,
           "date": "2020-11-16",
           "deaths": 12617,
           "recovered": 0
@@ -1771,26 +1771,26 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 47599,
+          "confirmed": 48179,
           "date": "2020-11-16",
-          "deaths": 642,
-          "recovered": 14611
+          "deaths": 643,
+          "recovered": 14711
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 50620,
+          "confirmed": 51499,
           "date": "2020-11-16",
-          "deaths": 965,
-          "recovered": 18759
+          "deaths": 976,
+          "recovered": 18767
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 36894,
+          "confirmed": 37466,
           "date": "2020-11-16",
-          "deaths": 1057,
-          "recovered": 24393
+          "deaths": 1066,
+          "recovered": 24488
         }
       }
     }
