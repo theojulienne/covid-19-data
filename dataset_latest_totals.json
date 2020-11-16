@@ -632,7 +632,7 @@
         },
         "Quebec": {
           "confirmed": 122643,
-          "deaths": 6611
+          "deaths": 6626
         },
         "Saskatchewan": {
           "confirmed": 4820,
@@ -1034,19 +1034,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 411220,
-        "deaths": 4681,
-        "recovered": 237757
+        "confirmed": 414828,
+        "deaths": 4858,
+        "recovered": 243129
       },
       "back_2week": {
-        "confirmed": 335102,
-        "deaths": 3251,
-        "recovered": 143359
+        "confirmed": 341644,
+        "deaths": 3429,
+        "recovered": 157418
       },
       "latest": {
-        "confirmed": 458229,
-        "deaths": 6058,
-        "recovered": 322383
+        "confirmed": 460116,
+        "deaths": 6208,
+        "recovered": 327306
       }
     },
     "DEU": {
@@ -1148,19 +1148,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 61381,
-        "deaths": 2036,
-        "recovered": 41783
+        "confirmed": 62051,
+        "deaths": 2048,
+        "recovered": 42037
       },
       "back_2week": {
-        "confirmed": 57942,
-        "deaths": 1964,
-        "recovered": 40201
+        "confirmed": 58272,
+        "deaths": 1973,
+        "recovered": 40395
       },
       "latest": {
-        "confirmed": 66819,
-        "deaths": 2139,
-        "recovered": 44199
+        "confirmed": 67679,
+        "deaths": 2154,
+        "recovered": 44633
       }
     },
     "ECU": {
@@ -1915,19 +1915,19 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 61769,
-        "deaths": 1103,
-        "recovered": 41019
+        "confirmed": 62488,
+        "deaths": 1111,
+        "recovered": 41931
       },
       "back_2week": {
-        "confirmed": 55192,
-        "deaths": 981,
-        "recovered": 35876
+        "confirmed": 55877,
+        "deaths": 1013,
+        "recovered": 37194
       },
       "latest": {
-        "confirmed": 69273,
-        "deaths": 1228,
-        "recovered": 44872
+        "confirmed": 70245,
+        "deaths": 1269,
+        "recovered": 45766
       }
     },
     "KGZ": {
