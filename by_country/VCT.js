@@ -601,9 +601,11 @@ var covid19_dataset_country_vct = {
       77,
       77,
       78,
+      78,
       78
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1201,6 +1203,7 @@ var covid19_dataset_country_vct = {
       74,
       74,
       76,
+      77,
       77
     ]
   }
