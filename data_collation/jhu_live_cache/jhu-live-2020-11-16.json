@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 75688,
+      "confirmed": 77083,
       "date": "2020-11-16",
-      "deaths": 967,
-      "recovered": 55150
+      "deaths": 985,
+      "recovered": 55755
     }
   },
   "Bahrain": {
@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 71956,
+      "confirmed": 72689,
       "date": "2020-11-16",
-      "deaths": 1889,
-      "recovered": 35606
+      "deaths": 1973,
+      "recovered": 36473
     }
   },
   "Brazil": {
@@ -513,10 +513,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 62136,
+      "confirmed": 63331,
       "date": "2020-11-16",
-      "deaths": 760,
-      "recovered": 47747
+      "deaths": 764,
+      "recovered": 48696
     }
   },
   "Dominican Republic": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 519152,
+      "confirmed": 521542,
       "date": "2020-11-16",
-      "deaths": 11670,
-      "recovered": 447039
+      "deaths": 11712,
+      "recovered": 449565
     }
   },
   "Ireland": {
@@ -1353,10 +1353,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 135785,
+      "confirmed": 136028,
       "date": "2020-11-16",
-      "deaths": 234,
-      "recovered": 132784
+      "deaths": 235,
+      "recovered": 133010
     }
   },
   "Romania": {
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 269974,
       "date": "2020-11-16",
-      "deaths": 3444,
+      "deaths": 3488,
       "recovered": 141000
     }
   },
@@ -1857,10 +1857,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 63031,
+      "confirmed": 63867,
       "date": "2020-11-16",
-      "deaths": 565,
-      "recovered": 54346
+      "deaths": 572,
+      "recovered": 54953
     }
   }
 }
