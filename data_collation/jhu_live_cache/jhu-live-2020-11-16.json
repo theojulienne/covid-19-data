@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 97651,
+          "confirmed": 97725,
           "date": "2020-11-16",
           "deaths": 3412,
-          "recovered": 82379
+          "recovered": 82431
         }
       },
       "Quebec": {
@@ -1041,10 +1041,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 105430,
+      "confirmed": 106446,
       "date": "2020-11-16",
-      "deaths": 817,
-      "recovered": 60416
+      "deaths": 827,
+      "recovered": 61263
     }
   },
   "Libya": {
@@ -1599,7 +1599,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 176204,
+          "confirmed": 176993,
           "date": "2020-11-16",
           "deaths": 3798,
           "recovered": 0
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 655257,
+          "confirmed": 656020,
           "date": "2020-11-16",
           "deaths": 12618,
           "recovered": 0
@@ -1687,7 +1687,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 95517,
+          "confirmed": 96391,
           "date": "2020-11-16",
           "deaths": 1618,
           "recovered": 0
@@ -1695,7 +1695,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 414082,
+          "confirmed": 416130,
           "date": "2020-11-16",
           "deaths": 28752,
           "recovered": 0
@@ -1719,9 +1719,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 52723,
+          "confirmed": 55302,
           "date": "2020-11-16",
-          "deaths": 1909,
+          "deaths": 1917,
           "recovered": 0
         }
       },
@@ -1735,7 +1735,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 581104,
+          "confirmed": 582004,
           "date": "2020-11-16",
           "deaths": 9940,
           "recovered": 0
@@ -1807,33 +1807,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1174979,
+          "confirmed": 1194402,
           "date": "2020-11-16",
-          "deaths": 45592,
+          "deaths": 45783,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 46831,
+          "confirmed": 47162,
           "date": "2020-11-16",
-          "deaths": 855,
+          "deaths": 869,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 81294,
+          "confirmed": 82011,
           "date": "2020-11-16",
-          "deaths": 3280,
+          "deaths": 3286,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 66214,
+          "confirmed": 67106,
           "date": "2020-11-16",
-          "deaths": 2207,
+          "deaths": 2209,
           "recovered": 0
         }
       }

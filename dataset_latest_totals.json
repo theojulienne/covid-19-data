@@ -2017,19 +2017,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 93097,
-        "deaths": 713,
+        "confirmed": 94236,
+        "deaths": 723,
         "recovered": 46602
       },
       "back_2week": {
-        "confirmed": 81228,
-        "deaths": 637,
-        "recovered": 41624
+        "confirmed": 82617,
+        "deaths": 643,
+        "recovered": 42904
       },
       "latest": {
-        "confirmed": 104267,
-        "deaths": 806,
-        "recovered": 58538
+        "confirmed": 105430,
+        "deaths": 817,
+        "recovered": 60416
       }
     },
     "LBR": {
@@ -3408,28 +3408,28 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 9718108,
+        "confirmed": 9717023,
         "deaths": 228269,
         "recovered": 3814262,
         "tested": 136287709
       },
       "back_2week": {
-        "confirmed": 9005946,
+        "confirmed": 9004903,
         "deaths": 221395,
         "recovered": 3579038,
         "tested": 128672946
       },
       "latest": {
-        "confirmed": 10704064,
+        "confirmed": 10703679,
         "deaths": 235917,
         "recovered": 4108090,
         "tested": 144745888
       },
       "states": {
         "AK": {
-          "confirmed": 22405,
+          "confirmed": 22020,
           "deaths": 98,
-          "hospitalized": 36,
+          "hospitalized": 543,
           "recovered": 7162,
           "tested": 862264
         },
