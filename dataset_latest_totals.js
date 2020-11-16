@@ -631,7 +631,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 122643,
+          "confirmed": 123854,
           "deaths": 6626
         },
         "Saskatchewan": {
@@ -1745,18 +1745,18 @@ var covid19_dataset_latest_totals = {
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 64855,
-        "deaths": 1945,
+        "confirmed": 65394,
+        "deaths": 1947,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 61456,
-        "deaths": 1913,
+        "confirmed": 62002,
+        "deaths": 1915,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 67526,
-        "deaths": 1978,
+        "confirmed": 67903,
+        "deaths": 1979,
         "recovered": 23364
       }
     },
@@ -2187,19 +2187,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 252185,
-        "deaths": 4197,
-        "recovered": 205556
+        "confirmed": 256781,
+        "deaths": 4272,
+        "recovered": 209801
       },
       "back_2week": {
-        "confirmed": 219084,
-        "deaths": 3695,
-        "recovered": 181275
+        "confirmed": 222544,
+        "deaths": 3762,
+        "recovered": 184313
       },
       "latest": {
-        "confirmed": 288211,
-        "deaths": 4697,
-        "recovered": 234904
+        "confirmed": 293177,
+        "deaths": 4779,
+        "recovered": 238598
       }
     },
     "MCO": {
@@ -3420,10 +3420,10 @@ var covid19_dataset_latest_totals = {
         "tested": 128672946
       },
       "latest": {
-        "confirmed": 10702830,
-        "deaths": 235914,
-        "recovered": 4108029,
-        "tested": 144742341
+        "confirmed": 10704064,
+        "deaths": 235917,
+        "recovered": 4108090,
+        "tested": 144745888
       },
       "states": {
         "AK": {
@@ -3686,11 +3686,11 @@ var covid19_dataset_latest_totals = {
           "tested": 2798085
         },
         "RI": {
-          "confirmed": 41529,
-          "deaths": 1254,
-          "hospitalized": 3756,
-          "recovered": 3086,
-          "tested": 476930
+          "confirmed": 42763,
+          "deaths": 1257,
+          "hospitalized": 3829,
+          "recovered": 3147,
+          "tested": 480477
         },
         "SC": {
           "confirmed": 194014,
