@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 114185,
+      "confirmed": 115448,
       "date": "2020-11-16",
-      "deaths": 1046,
-      "recovered": 95843
+      "deaths": 1053,
+      "recovered": 96462
     }
   },
   "Belgium": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 68994,
+      "confirmed": 70161,
       "date": "2020-11-16",
-      "deaths": 1577,
-      "recovered": 52351
+      "deaths": 1599,
+      "recovered": 53299
     }
   },
   "Canada": {
@@ -587,10 +587,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 158849,
+          "confirmed": 159075,
           "date": "2020-11-16",
           "deaths": 3144,
-          "recovered": 104056
+          "recovered": 106402
         }
       },
       "Berlin": {
@@ -1183,41 +1183,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 43814,
+          "confirmed": 44224,
           "date": "2020-11-16",
-          "deaths": 956,
+          "deaths": 961,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 70098,
+          "confirmed": 71078,
           "date": "2020-11-16",
-          "deaths": 1918,
+          "deaths": 1926,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 82497,
+          "confirmed": 83329,
           "date": "2020-11-16",
-          "deaths": 1178,
+          "deaths": 1180,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 38043,
+          "confirmed": 38401,
           "date": "2020-11-16",
-          "deaths": 613,
+          "deaths": 616,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 129188,
+          "confirmed": 130441,
           "date": "2020-11-16",
-          "deaths": 2031,
+          "deaths": 2045,
           "recovered": 0
         }
       }
@@ -1295,15 +1295,15 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45472,
+          "confirmed": 45517,
           "date": "2020-11-16",
-          "deaths": 1492,
+          "deaths": 1495,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 39197,
+          "confirmed": 39294,
           "date": "2020-11-16",
           "deaths": 1874,
           "recovered": 0
@@ -1311,15 +1311,15 @@
       },
       "Lima": {
         "live": {
-          "confirmed": 419479,
+          "confirmed": 420270,
           "date": "2020-11-16",
-          "deaths": 15800,
+          "deaths": 15824,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39535,
+          "confirmed": 39607,
           "date": "2020-11-16",
           "deaths": 2057,
           "recovered": 0
@@ -1421,17 +1421,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 353255,
+      "confirmed": 353556,
       "date": "2020-11-16",
-      "deaths": 5657,
-      "recovered": 340304
+      "deaths": 5676,
+      "recovered": 340668
     }
   },
   "Serbia": {
     "live": {
       "confirmed": 84568,
       "date": "2020-11-16",
-      "deaths": 1009,
+      "deaths": 1030,
       "recovered": 0
     }
   },
