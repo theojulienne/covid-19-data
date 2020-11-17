@@ -1328,9 +1328,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 97475
       },
       "latest": {
-        "confirmed": 1867721,
-        "deaths": 42215,
-        "recovered": 113017
+        "confirmed": 1956252,
+        "deaths": 43926,
+        "recovered": 117913
       },
       "states": {
         "French Guiana": {
