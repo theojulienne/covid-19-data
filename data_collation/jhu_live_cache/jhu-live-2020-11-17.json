@@ -9,9 +9,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 68589,
+      "confirmed": 69591,
       "date": "2020-11-17",
-      "deaths": 2168,
+      "deaths": 2186,
       "recovered": 45148
     }
   },
@@ -505,10 +505,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 465523,
+      "confirmed": 468181,
       "date": "2020-11-17",
-      "deaths": 6416,
-      "recovered": 341249
+      "deaths": 6487,
+      "recovered": 341401
     }
   },
   "Denmark": {
@@ -627,10 +627,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 36083,
+          "confirmed": 36829,
           "date": "2020-11-17",
-          "deaths": 546,
-          "recovered": 17523
+          "deaths": 555,
+          "recovered": 21390
         }
       }
     }
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 76403,
+      "confirmed": 78825,
       "date": "2020-11-17",
-      "deaths": 1165,
+      "deaths": 1228,
       "recovered": 23074
     }
   },
@@ -1001,10 +1001,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 149539,
+      "confirmed": 155993,
       "date": "2020-11-17",
-      "deaths": 1843,
-      "recovered": 10311
+      "deaths": 1909,
+      "recovered": 90267
     }
   },
   "Kazakhstan": {
@@ -1345,10 +1345,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 225672,
+      "confirmed": 230124,
       "date": "2020-11-17",
-      "deaths": 3472,
-      "recovered": 142155
+      "deaths": 3553,
+      "recovered": 149445
     }
   },
   "Qatar": {
@@ -1471,89 +1471,89 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 200550,
+          "confirmed": 202491,
           "date": "2020-11-17",
-          "deaths": 3264,
+          "deaths": 3354,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 68814,
+          "confirmed": 69196,
           "date": "2020-11-17",
-          "deaths": 2039,
+          "deaths": 2067,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 84029,
+          "confirmed": 85879,
           "date": "2020-11-17",
-          "deaths": 2028,
+          "deaths": 2055,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 77866,
+          "confirmed": 78735,
           "date": "2020-11-17",
-          "deaths": 3574,
+          "deaths": 3584,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 108777,
+          "confirmed": 109973,
           "date": "2020-11-17",
-          "deaths": 4122,
+          "deaths": 4188,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 283937,
+          "confirmed": 285993,
           "date": "2020-11-17",
-          "deaths": 7382,
+          "deaths": 7410,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 43714,
+          "confirmed": 44182,
           "date": "2020-11-17",
-          "deaths": 1084,
+          "deaths": 1101,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 333215,
+          "confirmed": 334655,
           "date": "2020-11-17",
-          "deaths": 11082,
+          "deaths": 11111,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 49720,
+          "confirmed": 50298,
           "date": "2020-11-17",
-          "deaths": 486,
+          "deaths": 501,
           "recovered": 2180
         }
       },
       "Navarra": {
         "live": {
-          "confirmed": 37870,
+          "confirmed": 38011,
           "date": "2020-11-17",
-          "deaths": 800,
+          "deaths": 803,
           "recovered": 3905
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 87101,
+          "confirmed": 88109,
           "date": "2020-11-17",
-          "deaths": 2245,
+          "deaths": 2331,
           "recovered": 16160
         }
       }
@@ -1639,9 +1639,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 36006,
+          "confirmed": 36874,
           "date": "2020-11-17",
-          "deaths": 823,
+          "deaths": 827,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 51712,
+          "confirmed": 52689,
           "date": "2020-11-17",
-          "deaths": 1050,
+          "deaths": 1055,
           "recovered": 0
         }
       },
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 38526,
           "date": "2020-11-17",
-          "deaths": 417,
+          "deaths": 421,
           "recovered": 0
         }
       },
