@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 208613,
+      "confirmed": 214597,
       "date": "2020-11-17",
-      "deaths": 1887,
-      "recovered": 129671
+      "deaths": 1945,
+      "recovered": 136487
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 434472,
+      "confirmed": 436684,
       "date": "2020-11-17",
-      "deaths": 6215,
-      "recovered": 351146
+      "deaths": 6254,
+      "recovered": 352895
     }
   },
   "Belarus": {
@@ -994,7 +994,7 @@
           "confirmed": 35267,
           "date": "2020-11-17",
           "deaths": 464,
-          "recovered": 31477
+          "recovered": 31704
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 137329,
+      "confirmed": 137885,
       "date": "2020-11-17",
-      "deaths": 842,
-      "recovered": 128414
+      "deaths": 848,
+      "recovered": 129041
     }
   },
   "Kyrgyzstan": {
@@ -1361,10 +1361,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 365212,
+      "confirmed": 373474,
       "date": "2020-11-17",
-      "deaths": 9075,
-      "recovered": 246633
+      "deaths": 9261,
+      "recovered": 253244
     }
   },
   "Russia": {
@@ -1575,8 +1575,8 @@
     "live": {
       "confirmed": 274534,
       "date": "2020-11-17",
-      "deaths": 3566,
-      "recovered": 162200
+      "deaths": 3597,
+      "recovered": 169100
     }
   },
   "Tunisia": {
