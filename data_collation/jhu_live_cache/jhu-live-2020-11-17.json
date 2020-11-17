@@ -433,7 +433,7 @@
         "live": {
           "confirmed": 195046,
           "date": "2020-11-17",
-          "deaths": 3644,
+          "deaths": 3670,
           "recovered": 182429
         }
       },
@@ -441,7 +441,7 @@
         "live": {
           "confirmed": 74835,
           "date": "2020-11-17",
-          "deaths": 3161,
+          "deaths": 3163,
           "recovered": 70586
         }
       },
@@ -449,7 +449,7 @@
         "live": {
           "confirmed": 35200,
           "date": "2020-11-17",
-          "deaths": 875,
+          "deaths": 877,
           "recovered": 33632
         }
       },
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 347905,
           "date": "2020-11-17",
-          "deaths": 8113,
+          "deaths": 8136,
           "recovered": 322262
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 47639,
           "date": "2020-11-17",
-          "deaths": 1322,
+          "deaths": 1326,
           "recovered": 44012
         }
       },
@@ -473,7 +473,7 @@
         "live": {
           "confirmed": 48342,
           "date": "2020-11-17",
-          "deaths": 1854,
+          "deaths": 1862,
           "recovered": 43349
         }
       },
@@ -481,7 +481,7 @@
         "live": {
           "confirmed": 96872,
           "date": "2020-11-17",
-          "deaths": 3114,
+          "deaths": 3138,
           "recovered": 87548
         }
       }
@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 36669,
       "date": "2020-11-17",
-      "deaths": 1047,
+      "deaths": 1052,
       "recovered": 33064
     }
   },
@@ -791,10 +791,10 @@
       },
       "Odisha": {
         "live": {
-          "confirmed": 308659,
+          "confirmed": 309408,
           "date": "2020-11-17",
-          "deaths": 1527,
-          "recovered": 297862
+          "deaths": 1543,
+          "recovered": 299159
         }
       },
       "Puducherry": {
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 324755,
+      "confirmed": 325035,
       "date": "2020-11-17",
       "deaths": 2735,
-      "recovered": 314093
+      "recovered": 314270
     }
   },
   "Italy": {
@@ -1033,10 +1033,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 66983,
+      "confirmed": 67469,
       "date": "2020-11-17",
-      "deaths": 1203,
-      "recovered": 57760
+      "deaths": 1207,
+      "recovered": 58315
     }
   },
   "Lebanon": {
@@ -1841,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 70381,
+      "confirmed": 70444,
       "date": "2020-11-17",
       "deaths": 598,
-      "recovered": 67655
+      "recovered": 67734
     }
   },
   "Venezuela": {
