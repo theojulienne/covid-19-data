@@ -1711,19 +1711,19 @@
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 437716,
-        "deaths": 14614,
-        "recovered": 368298
+        "confirmed": 440569,
+        "deaths": 14689,
+        "recovered": 372266
       },
       "back_2week": {
-        "confirmed": 412784,
-        "deaths": 13943,
-        "recovered": 341942
+        "confirmed": 415402,
+        "deaths": 14044,
+        "recovered": 345566
       },
       "latest": {
-        "confirmed": 467113,
-        "deaths": 15211,
-        "recovered": 391991
+        "confirmed": 470648,
+        "deaths": 15296,
+        "recovered": 395443
       }
     },
     "IND": {
