@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 98778,
+          "confirmed": 98938,
           "date": "2020-11-17",
-          "deaths": 3418,
-          "recovered": 83427
+          "deaths": 3424,
+          "recovered": 83692
         }
       },
       "Quebec": {
@@ -595,10 +595,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 49039,
+          "confirmed": 50606,
           "date": "2020-11-17",
-          "deaths": 371,
-          "recovered": 29927
+          "deaths": 394,
+          "recovered": 30940
         }
       },
       "Hessen": {
@@ -907,82 +907,82 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 115266,
+          "confirmed": 118285,
           "date": "2020-11-17",
-          "deaths": 1066,
-          "recovered": 22686
+          "deaths": 1085,
+          "recovered": 24474
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 91066,
+          "confirmed": 93285,
           "date": "2020-11-17",
-          "deaths": 5067,
-          "recovered": 30570
+          "deaths": 5115,
+          "recovered": 30902
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 86681,
+          "confirmed": 89219,
           "date": "2020-11-17",
-          "deaths": 1680,
-          "recovered": 15731
+          "deaths": 1739,
+          "recovered": 16225
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 43742,
+          "confirmed": 44427,
           "date": "2020-11-17",
-          "deaths": 2124,
-          "recovered": 25717
+          "deaths": 2144,
+          "recovered": 25752
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 324908,
+          "confirmed": 333356,
           "date": "2020-11-17",
-          "deaths": 19466,
-          "recovered": 153103
+          "deaths": 19668,
+          "recovered": 157121
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 128941,
+          "confirmed": 131547,
           "date": "2020-11-17",
-          "deaths": 5117,
-          "recovered": 50884
+          "deaths": 5190,
+          "recovered": 52571
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 35482,
+          "confirmed": 36716,
           "date": "2020-11-17",
-          "deaths": 1021,
-          "recovered": 8936
+          "deaths": 1057,
+          "recovered": 9052
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 42993,
+          "confirmed": 44691,
           "date": "2020-11-17",
-          "deaths": 932,
-          "recovered": 12296
+          "deaths": 971,
+          "recovered": 12964
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 81836,
+          "confirmed": 84197,
           "date": "2020-11-17",
-          "deaths": 1915,
-          "recovered": 26070
+          "deaths": 1967,
+          "recovered": 28078
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 102842,
+          "confirmed": 105966,
           "date": "2020-11-17",
-          "deaths": 2867,
-          "recovered": 37277
+          "deaths": 2967,
+          "recovered": 39928
         }
       }
     }
@@ -1157,10 +1157,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 89843,
+      "confirmed": 90912,
       "date": "2020-11-17",
-      "deaths": 2035,
-      "recovered": 71874
+      "deaths": 2054,
+      "recovered": 73059
     }
   },
   "Morocco": {
@@ -1453,7 +1453,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 56932,
+      "confirmed": 56937,
       "date": "2020-11-17",
       "deaths": 876,
       "recovered": 36519
@@ -1841,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 70509,
+      "confirmed": 70581,
       "date": "2020-11-17",
       "deaths": 598,
-      "recovered": 67734
+      "recovered": 67859
     }
   },
   "Venezuela": {
