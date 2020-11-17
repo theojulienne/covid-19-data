@@ -611,10 +611,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 56182,
+          "confirmed": 56827,
           "date": "2020-11-17",
-          "deaths": 917,
-          "recovered": 39333
+          "deaths": 927,
+          "recovered": 40511
         }
       },
       "Nordrhein-Westfalen": {
@@ -873,10 +873,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 775121,
+      "confirmed": 788473,
       "date": "2020-11-17",
-      "deaths": 41979,
-      "recovered": 564699
+      "deaths": 42461,
+      "recovered": 570774
     }
   },
   "Iraq": {
@@ -1173,10 +1173,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 210973,
+      "confirmed": 211475,
       "date": "2020-11-17",
-      "deaths": 1230,
-      "recovered": 176364
+      "deaths": 1247,
+      "recovered": 179242
     }
   },
   "Netherlands": {
@@ -1573,10 +1573,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 269974,
+      "confirmed": 274534,
       "date": "2020-11-17",
-      "deaths": 3536,
-      "recovered": 141000
+      "deaths": 3566,
+      "recovered": 162200
     }
   },
   "Tunisia": {
