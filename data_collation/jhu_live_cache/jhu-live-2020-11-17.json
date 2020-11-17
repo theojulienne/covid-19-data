@@ -561,10 +561,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 1992552,
+      "confirmed": 2038050,
       "date": "2020-11-17",
-      "deaths": 44731,
-      "recovered": 119653
+      "deaths": 45950,
+      "recovered": 121925
     }
   },
   "Georgia": {
@@ -1599,15 +1599,15 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 176993,
+          "confirmed": 178639,
           "date": "2020-11-17",
-          "deaths": 3798,
+          "deaths": 3809,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 664102,
+          "confirmed": 664377,
           "date": "2020-11-17",
           "deaths": 12631,
           "recovered": 0
@@ -1615,9 +1615,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 501894,
+          "confirmed": 506172,
           "date": "2020-11-17",
-          "deaths": 8957,
+          "deaths": 8991,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 38643,
+          "confirmed": 39117,
           "date": "2020-11-17",
-          "deaths": 2356,
+          "deaths": 2360,
           "recovered": 0
         }
       },
