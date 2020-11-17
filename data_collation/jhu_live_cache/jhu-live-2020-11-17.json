@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 70161,
+      "confirmed": 71730,
       "date": "2020-11-17",
-      "deaths": 1599,
-      "recovered": 53299
+      "deaths": 1625,
+      "recovered": 54274
     }
   },
   "Canada": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 301207,
+          "confirmed": 301364,
           "date": "2020-11-17",
-          "deaths": 10134,
-          "recovered": 289029
+          "deaths": 10144,
+          "recovered": 289275
         }
       }
     }
@@ -587,10 +587,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 160729,
+          "confirmed": 160865,
           "date": "2020-11-17",
-          "deaths": 3191,
-          "recovered": 106402
+          "deaths": 3193,
+          "recovered": 109022
         }
       },
       "Berlin": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 521542,
+      "confirmed": 524503,
       "date": "2020-11-17",
-      "deaths": 11712,
-      "recovered": 449565
+      "deaths": 11752,
+      "recovered": 453025
     }
   },
   "Ireland": {
@@ -1017,10 +1017,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 70804,
+      "confirmed": 71729,
       "date": "2020-11-17",
-      "deaths": 1287,
-      "recovered": 46244
+      "deaths": 1302,
+      "recovered": 47262
     }
   },
   "Kuwait": {
@@ -1431,7 +1431,7 @@
     "live": {
       "confirmed": 87381,
       "date": "2020-11-17",
-      "deaths": 1030,
+      "deaths": 1054,
       "recovered": 0
     }
   },
@@ -1440,7 +1440,7 @@
       "confirmed": 58130,
       "date": "2020-11-17",
       "deaths": 28,
-      "recovered": 58033
+      "recovered": 58039
     }
   },
   "Slovakia": {
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 274534,
       "date": "2020-11-17",
-      "deaths": 3597,
+      "deaths": 3608,
       "recovered": 169100
     }
   },
@@ -1797,10 +1797,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 151554,
+      "confirmed": 152809,
       "date": "2020-11-17",
-      "deaths": 534,
-      "recovered": 143932
+      "deaths": 538,
+      "recovered": 144647
     }
   },
   "United Kingdom": {
@@ -1841,7 +1841,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 70444,
+      "confirmed": 70509,
       "date": "2020-11-17",
       "deaths": 598,
       "recovered": 67734
