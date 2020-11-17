@@ -521,10 +521,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 134203,
+      "confirmed": 134697,
       "date": "2020-11-17",
-      "deaths": 2286,
-      "recovered": 110381
+      "deaths": 2290,
+      "recovered": 110761
     }
   },
   "Ecuador": {
@@ -653,10 +653,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 115032,
+      "confirmed": 115730,
       "date": "2020-11-17",
-      "deaths": 3938,
-      "recovered": 104786
+      "deaths": 3947,
+      "recovered": 105355
     }
   },
   "Honduras": {
@@ -1429,7 +1429,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 87381,
+      "confirmed": 92375,
       "date": "2020-11-17",
       "deaths": 1054,
       "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 36486,
+          "confirmed": 36905,
           "date": "2020-11-17",
-          "deaths": 890,
+          "deaths": 894,
           "recovered": 0
         }
       },
