@@ -909,7 +909,8 @@ var covid19_dataset_country_irl = {
       1978,
       1979,
       1984,
-      1995
+      1995,
+      2006
     ],
     "recovered": [
       0,
