@@ -607,7 +607,7 @@ var covid19_dataset_country_svn = {
       55042,
       55544,
       56937,
-      58950
+      58964
     ],
     "deaths": [
       0,
