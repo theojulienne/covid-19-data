@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 43628,
+      "confirmed": 43851,
       "date": "2020-11-18",
-      "deaths": 1638,
-      "recovered": 35160
+      "deaths": 1645,
+      "recovered": 35295
     }
   },
   "Algeria": {
@@ -25,7 +25,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 118870,
+      "confirmed": 120459,
       "date": "2020-11-18",
       "deaths": 1839,
       "recovered": 80069
@@ -569,7 +569,7 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 85952,
+      "confirmed": 89395,
       "date": "2020-11-18",
       "deaths": 815,
       "recovered": 71468
@@ -671,8 +671,8 @@
     "live": {
       "confirmed": 152659,
       "date": "2020-11-18",
-      "deaths": 3281,
-      "recovered": 34185
+      "deaths": 3380,
+      "recovered": 34846
     }
   },
   "India": {
@@ -1331,8 +1331,8 @@
     "live": {
       "confirmed": 410718,
       "date": "2020-11-18",
-      "deaths": 7862,
-      "recovered": 374543
+      "deaths": 7957,
+      "recovered": 374666
     }
   },
   "Poland": {
@@ -1437,7 +1437,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58130,
+      "confirmed": 58135,
       "date": "2020-11-18",
       "deaths": 28,
       "recovered": 58039

@@ -606,7 +606,8 @@ var covid19_dataset_country_geo = {
       76658,
       79678,
       82835,
-      85952
+      85952,
+      89395
     ],
     "deaths": [
       0,
