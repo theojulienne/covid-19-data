@@ -669,7 +669,7 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 152659,
+      "confirmed": 156949,
       "date": "2020-11-18",
       "deaths": 3380,
       "recovered": 34846
@@ -1329,7 +1329,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 410718,
+      "confirmed": 412097,
       "date": "2020-11-18",
       "deaths": 7957,
       "recovered": 374666
@@ -1371,50 +1371,50 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 522456,
+          "confirmed": 526630,
           "date": "2020-11-18",
-          "deaths": 7933,
-          "recovered": 377131
+          "deaths": 8009,
+          "recovered": 382634
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 98306,
+          "confirmed": 99170,
           "date": "2020-11-18",
-          "deaths": 1826,
-          "recovered": 72319
+          "deaths": 1840,
+          "recovered": 72818
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 48617,
+          "confirmed": 49049,
           "date": "2020-11-18",
-          "deaths": 996,
-          "recovered": 40741
+          "deaths": 1009,
+          "recovered": 41626
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 35907,
+          "confirmed": 36216,
           "date": "2020-11-18",
-          "deaths": 1094,
-          "recovered": 28774
+          "deaths": 1113,
+          "recovered": 29191
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 85873,
+          "confirmed": 88088,
           "date": "2020-11-18",
-          "deaths": 4620,
-          "recovered": 50831
+          "deaths": 4691,
+          "recovered": 51999
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 41361,
+          "confirmed": 41719,
           "date": "2020-11-18",
-          "deaths": 907,
-          "recovered": 33519
+          "deaths": 917,
+          "recovered": 33882
         }
       }
     }
