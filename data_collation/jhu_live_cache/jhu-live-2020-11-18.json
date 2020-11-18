@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 62503,
+          "confirmed": 62821,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 72810,
+          "confirmed": 72985,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 48637,
+          "confirmed": 48987,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 41274,
+          "confirmed": 41477,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 86654,
+          "confirmed": 87039,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 87365,
+          "confirmed": 87808,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 40255,
+          "confirmed": 40569,
           "date": "2020-11-18",
           "deaths": 0,
           "recovered": 0
@@ -661,10 +661,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 103239,
+      "confirmed": 103488,
       "date": "2020-11-18",
       "deaths": 2839,
-      "recovered": 44915
+      "recovered": 45082
     }
   },
   "Hungary": {
@@ -1009,10 +1009,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 121653,
+      "confirmed": 122335,
       "date": "2020-11-18",
       "deaths": 1899,
-      "recovered": 110382
+      "recovered": 110835
     }
   },
   "Kenya": {
@@ -1075,47 +1075,47 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 180210,
+          "confirmed": 180621,
           "date": "2020-11-18",
-          "deaths": 12686,
+          "deaths": 12707,
           "recovered": 0
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 37742,
+          "confirmed": 37797,
           "date": "2020-11-18",
-          "deaths": 2853,
+          "deaths": 2862,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 54433,
+          "confirmed": 54609,
           "date": "2020-11-18",
-          "deaths": 3657,
+          "deaths": 3663,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 37631,
+          "confirmed": 37709,
           "date": "2020-11-18",
-          "deaths": 4499,
+          "deaths": 4511,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 103448,
+          "confirmed": 103516,
           "date": "2020-11-18",
-          "deaths": 14809,
+          "deaths": 14836,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 60696,
+          "confirmed": 60700,
           "date": "2020-11-18",
           "deaths": 4245,
           "recovered": 0
@@ -1123,33 +1123,33 @@
       },
       "Puebla": {
         "live": {
-          "confirmed": 37676,
+          "confirmed": 37700,
           "date": "2020-11-18",
-          "deaths": 4970,
+          "deaths": 4971,
           "recovered": 0
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 40504,
+          "confirmed": 40666,
           "date": "2020-11-18",
-          "deaths": 3256,
+          "deaths": 3261,
           "recovered": 0
         }
       },
       "Tabasco": {
         "live": {
-          "confirmed": 35766,
+          "confirmed": 35821,
           "date": "2020-11-18",
-          "deaths": 3021,
+          "deaths": 3023,
           "recovered": 0
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 38403,
+          "confirmed": 38415,
           "date": "2020-11-18",
-          "deaths": 5181,
+          "deaths": 5184,
           "recovered": 0
         }
       }
@@ -1251,26 +1251,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 42615,
+          "confirmed": 42815,
           "date": "2020-11-18",
-          "deaths": 1315,
-          "recovered": 39110
+          "deaths": 1318,
+          "recovered": 39319
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 111047,
+          "confirmed": 111626,
           "date": "2020-11-18",
-          "deaths": 2492,
-          "recovered": 97789
+          "deaths": 2509,
+          "recovered": 97824
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 156528,
+          "confirmed": 157432,
           "date": "2020-11-18",
-          "deaths": 2751,
-          "recovered": 143252
+          "deaths": 2760,
+          "recovered": 143652
         }
       }
     }
@@ -1609,7 +1609,7 @@
         "live": {
           "confirmed": 665093,
           "date": "2020-11-18",
-          "deaths": 12638,
+          "deaths": 12662,
           "recovered": 0
         }
       },
