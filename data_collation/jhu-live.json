@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 143371,
+      "confirmed": 143473,
       "date": "2020-11-18",
-      "deaths": 8859,
-      "recovered": 117454
+      "deaths": 8866,
+      "recovered": 117789
     }
   },
   "Bosnia and Herzegovina": {
@@ -431,58 +431,58 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 195046,
+          "confirmed": 196075,
           "date": "2020-11-18",
-          "deaths": 3670,
-          "recovered": 182429
+          "deaths": 3696,
+          "recovered": 183524
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 74835,
+          "confirmed": 74975,
           "date": "2020-11-18",
-          "deaths": 3163,
-          "recovered": 70586
+          "deaths": 3166,
+          "recovered": 70813
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 35200,
+          "confirmed": 35265,
           "date": "2020-11-18",
-          "deaths": 877,
-          "recovered": 33632
+          "deaths": 879,
+          "recovered": 33802
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 347905,
+          "confirmed": 349474,
           "date": "2020-11-18",
-          "deaths": 8136,
-          "recovered": 322262
+          "deaths": 8155,
+          "recovered": 323887
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 47639,
+          "confirmed": 47958,
           "date": "2020-11-18",
-          "deaths": 1326,
-          "recovered": 44012
+          "deaths": 1335,
+          "recovered": 44354
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 48342,
+          "confirmed": 48616,
           "date": "2020-11-18",
-          "deaths": 1862,
-          "recovered": 43349
+          "deaths": 1871,
+          "recovered": 43643
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 96872,
+          "confirmed": 97437,
           "date": "2020-11-18",
-          "deaths": 3138,
-          "recovered": 87548
+          "deaths": 3163,
+          "recovered": 88217
         }
       }
     }
@@ -1607,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 664377,
+          "confirmed": 665093,
           "date": "2020-11-18",
-          "deaths": 12631,
+          "deaths": 12638,
           "recovered": 0
         }
       },
@@ -1735,7 +1735,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 590117,
+          "confirmed": 590409,
           "date": "2020-11-18",
           "deaths": 9999,
           "recovered": 0
@@ -1849,10 +1849,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 97739,
+      "confirmed": 98050,
       "date": "2020-11-18",
-      "deaths": 855,
-      "recovered": 92767
+      "deaths": 858,
+      "recovered": 93084
     }
   },
   "West Bank and Gaza": {
