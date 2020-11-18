@@ -587,10 +587,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 164288,
+          "confirmed": 164557,
           "date": "2020-11-18",
-          "deaths": 3262,
-          "recovered": 109022
+          "deaths": 3265,
+          "recovered": 112183
         }
       },
       "Berlin": {
@@ -881,7 +881,7 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 524503,
+      "confirmed": 526852,
       "date": "2020-11-18",
       "deaths": 11795,
       "recovered": 455176
@@ -1353,7 +1353,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 136222,
+      "confirmed": 136441,
       "date": "2020-11-18",
       "deaths": 235,
       "recovered": 133473
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 36905,
+          "confirmed": 37184,
           "date": "2020-11-18",
-          "deaths": 894,
+          "deaths": 899,
           "recovered": 0
         }
       },
