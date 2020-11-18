@@ -33,7 +33,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 214597,
+      "confirmed": 221688,
       "date": "2020-11-18",
       "deaths": 2054,
       "recovered": 142738
@@ -43,8 +43,8 @@
     "live": {
       "confirmed": 79158,
       "date": "2020-11-18",
-      "deaths": 1005,
-      "recovered": 56894
+      "deaths": 1030,
+      "recovered": 58111
     }
   },
   "Bahrain": {
@@ -497,7 +497,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 87464,
+      "confirmed": 90715,
       "date": "2020-11-18",
       "deaths": 1151,
       "recovered": 72673
@@ -865,7 +865,7 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 474455,
+      "confirmed": 478720,
       "date": "2020-11-18",
       "deaths": 15503,
       "recovered": 402347
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 325537,
+      "confirmed": 325974,
       "date": "2020-11-18",
-      "deaths": 2736,
-      "recovered": 314651
+      "deaths": 2737,
+      "recovered": 314894
     }
   },
   "Italy": {
@@ -994,7 +994,7 @@
           "confirmed": 35267,
           "date": "2020-11-18",
           "deaths": 468,
-          "recovered": 31704
+          "recovered": 32002
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 137885,
+      "confirmed": 138337,
       "date": "2020-11-18",
-      "deaths": 848,
-      "recovered": 129041
+      "deaths": 857,
+      "recovered": 129839
     }
   },
   "Kyrgyzstan": {
@@ -1173,10 +1173,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 211475,
+      "confirmed": 212917,
       "date": "2020-11-18",
-      "deaths": 1247,
-      "recovered": 179242
+      "deaths": 1259,
+      "recovered": 182780
     }
   },
   "Netherlands": {
@@ -1363,8 +1363,8 @@
     "live": {
       "confirmed": 373474,
       "date": "2020-11-18",
-      "deaths": 9261,
-      "recovered": 253244
+      "deaths": 9429,
+      "recovered": 261387
     }
   },
   "Russia": {
@@ -1453,7 +1453,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 56937,
+      "confirmed": 58950,
       "date": "2020-11-18",
       "deaths": 919,
       "recovered": 38507
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 274534,
       "date": "2020-11-18",
-      "deaths": 3664,
+      "deaths": 3686,
       "recovered": 169100
     }
   },
@@ -1797,10 +1797,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 152809,
+      "confirmed": 154101,
       "date": "2020-11-18",
-      "deaths": 538,
-      "recovered": 144647
+      "deaths": 542,
+      "recovered": 145537
     }
   },
   "United Kingdom": {
@@ -1859,8 +1859,8 @@
     "live": {
       "confirmed": 64935,
       "date": "2020-11-18",
-      "deaths": 580,
-      "recovered": 55684
+      "deaths": 589,
+      "recovered": 56843
     }
   }
 }
