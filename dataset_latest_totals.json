@@ -1933,18 +1933,18 @@
     "KGZ": {
       "back_1week": {
         "confirmed": 63390,
-        "deaths": 1182,
-        "recovered": 54358
+        "deaths": 1188,
+        "recovered": 55306
       },
       "back_2week": {
         "confirmed": 59879,
-        "deaths": 1155,
-        "recovered": 50741
+        "deaths": 1163,
+        "recovered": 51815
       },
       "latest": {
         "confirmed": 66983,
-        "deaths": 1203,
-        "recovered": 57760
+        "deaths": 1207,
+        "recovered": 58315
       }
     },
     "KHM": {
@@ -2984,17 +2984,17 @@
     "SLV": {
       "back_1week": {
         "confirmed": 35145,
-        "deaths": 1014,
+        "deaths": 1020,
         "recovered": 31172
       },
       "back_2week": {
         "confirmed": 34015,
-        "deaths": 983,
+        "deaths": 987,
         "recovered": 29788
       },
       "latest": {
         "confirmed": 36669,
-        "deaths": 1047,
+        "deaths": 1052,
         "recovered": 33064
       }
     },

@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 36669,
       "date": "2020-11-18",
-      "deaths": 1052,
+      "deaths": 1056,
       "recovered": 33064
     }
   },
@@ -1035,8 +1035,8 @@
     "live": {
       "confirmed": 67469,
       "date": "2020-11-18",
-      "deaths": 1207,
-      "recovered": 58315
+      "deaths": 1212,
+      "recovered": 58846
     }
   },
   "Lebanon": {
@@ -1607,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 667127,
+          "confirmed": 667567,
           "date": "2020-11-18",
-          "deaths": 12662,
+          "deaths": 12663,
           "recovered": 0
         }
       },
