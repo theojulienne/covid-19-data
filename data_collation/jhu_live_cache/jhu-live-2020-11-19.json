@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 44133,
+      "confirmed": 44228,
       "date": "2020-11-19",
       "deaths": 1650,
-      "recovered": 35339
+      "recovered": 35350
     }
   },
   "Algeria": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 438795,
+      "confirmed": 441159,
       "date": "2020-11-19",
-      "deaths": 6275,
-      "recovered": 354788
+      "deaths": 6305,
+      "recovered": 356722
     }
   },
   "Belarus": {
@@ -497,10 +497,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 90715,
+      "confirmed": 93879,
       "date": "2020-11-19",
-      "deaths": 1151,
-      "recovered": 72673
+      "deaths": 1200,
+      "recovered": 74865
     }
   },
   "Czechia": {
@@ -1241,10 +1241,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 121129,
+      "confirmed": 121360,
       "date": "2020-11-19",
-      "deaths": 1360,
-      "recovered": 112014
+      "deaths": 1365,
+      "recovered": 112406
     }
   },
   "Pakistan": {
@@ -1337,10 +1337,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 772823,
+      "confirmed": 796798,
       "date": "2020-11-19",
-      "deaths": 11451,
-      "recovered": 342883
+      "deaths": 12088,
+      "recovered": 361886
     }
   },
   "Portugal": {
@@ -1353,10 +1353,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 136441,
+      "confirmed": 136649,
       "date": "2020-11-19",
       "deaths": 235,
-      "recovered": 133473
+      "recovered": 133691
     }
   },
   "Romania": {
@@ -1445,18 +1445,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 89913,
+      "confirmed": 91578,
       "date": "2020-11-19",
       "deaths": 579,
-      "recovered": 35924
+      "recovered": 38695
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 58964,
+      "confirmed": 61028,
       "date": "2020-11-19",
-      "deaths": 919,
-      "recovered": 38507
+      "deaths": 964,
+      "recovered": 40153
     }
   },
   "South Africa": {
