@@ -1937,14 +1937,14 @@
         "recovered": 55306
       },
       "back_2week": {
-        "confirmed": 60774,
-        "deaths": 1163,
-        "recovered": 51815
+        "confirmed": 61309,
+        "deaths": 1167,
+        "recovered": 52343
       },
       "latest": {
-        "confirmed": 67469,
-        "deaths": 1207,
-        "recovered": 58315
+        "confirmed": 67894,
+        "deaths": 1212,
+        "recovered": 58846
       }
     },
     "KHM": {
