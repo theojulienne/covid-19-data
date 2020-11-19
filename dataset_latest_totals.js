@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 42463,
-        "deaths": 1577,
-        "recovered": 34954
+        "confirmed": 42609,
+        "deaths": 1581,
+        "recovered": 34967
       },
       "back_2week": {
-        "confirmed": 41728,
-        "deaths": 1544,
-        "recovered": 34355
+        "confirmed": 41814,
+        "deaths": 1548,
+        "recovered": 34362
       },
       "latest": {
-        "confirmed": 43628,
-        "deaths": 1638,
-        "recovered": 35160
+        "confirmed": 43851,
+        "deaths": 1645,
+        "recovered": 35295
       }
     },
     "AGO": {
@@ -1711,19 +1711,19 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 444348,
-        "deaths": 14761,
-        "recovered": 375741
+        "confirmed": 448118,
+        "deaths": 14836,
+        "recovered": 378982
       },
       "back_2week": {
-        "confirmed": 418375,
-        "deaths": 14146,
-        "recovered": 349497
+        "confirmed": 421731,
+        "deaths": 14259,
+        "recovered": 353282
       },
       "latest": {
-        "confirmed": 474455,
-        "deaths": 15393,
-        "recovered": 398636
+        "confirmed": 478720,
+        "deaths": 15503,
+        "recovered": 402347
       }
     },
     "IND": {
@@ -2051,19 +2051,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 70010,
-        "deaths": 957,
-        "recovered": 41512
+        "confirmed": 70885,
+        "deaths": 970,
+        "recovered": 42098
       },
       "back_2week": {
-        "confirmed": 63688,
-        "deaths": 893,
-        "recovered": 36995
+        "confirmed": 64587,
+        "deaths": 900,
+        "recovered": 37610
       },
       "latest": {
-        "confirmed": 74936,
-        "deaths": 1041,
-        "recovered": 45371
+        "confirmed": 75465,
+        "deaths": 1053,
+        "recovered": 46127
       }
     },
     "LCA": {
