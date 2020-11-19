@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 120459,
+      "confirmed": 121979,
       "date": "2020-11-19",
-      "deaths": 1839,
-      "recovered": 80069
+      "deaths": 1870,
+      "recovered": 88388
     }
   },
   "Austria": {
@@ -569,10 +569,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 89395,
+      "confirmed": 93092,
       "date": "2020-11-19",
-      "deaths": 815,
-      "recovered": 71468
+      "deaths": 853,
+      "recovered": 73877
     }
   },
   "Germany": {
@@ -991,7 +991,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 35760,
+          "confirmed": 36294,
           "date": "2020-11-19",
           "deaths": 468,
           "recovered": 32002
@@ -1735,9 +1735,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 597278,
+          "confirmed": 561952,
           "date": "2020-11-19",
-          "deaths": 10077,
+          "deaths": 9608,
           "recovered": 0
         }
       },
@@ -1771,26 +1771,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 49067,
+          "confirmed": 49618,
           "date": "2020-11-19",
-          "deaths": 663,
-          "recovered": 16161
+          "deaths": 673,
+          "recovered": 17197
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 53855,
+          "confirmed": 55203,
           "date": "2020-11-19",
-          "deaths": 1013,
-          "recovered": 19556
+          "deaths": 1047,
+          "recovered": 20012
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 38577,
+          "confirmed": 39229,
           "date": "2020-11-19",
-          "deaths": 1094,
-          "recovered": 25105
+          "deaths": 1108,
+          "recovered": 25379
+        }
+      },
+      "Odessa Oblast": {
+        "live": {
+          "confirmed": 35440,
+          "date": "2020-11-19",
+          "deaths": 489,
+          "recovered": 8436
         }
       }
     }
