@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 85182,
+      "confirmed": 85317,
       "date": "2020-11-19",
       "deaths": 337,
-      "recovered": 83087
+      "recovered": 83244
     }
   },
   "Bangladesh": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 102271,
+          "confirmed": 102677,
           "date": "2020-11-19",
-          "deaths": 3471,
-          "recovered": 87169
+          "deaths": 3490,
+          "recovered": 87690
         }
       },
       "Quebec": {
@@ -553,7 +553,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 2087196,
+      "confirmed": 2087176,
       "date": "2020-11-19",
       "deaths": 46795,
       "recovered": 126342
@@ -1461,10 +1461,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 757144,
+      "confirmed": 759658,
       "date": "2020-11-19",
-      "deaths": 20556,
-      "recovered": 701534
+      "deaths": 20671,
+      "recovered": 702544
     }
   },
   "Spain": {
@@ -1583,7 +1583,7 @@
     "live": {
       "confirmed": 285655,
       "date": "2020-11-19",
-      "deaths": 3827,
+      "deaths": 3870,
       "recovered": 180700
     }
   },
@@ -1615,17 +1615,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 678326,
+          "confirmed": 678596,
           "date": "2020-11-19",
-          "deaths": 12763,
+          "deaths": 12776,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 510419,
+          "confirmed": 515217,
           "date": "2020-11-19",
-          "deaths": 9033,
+          "deaths": 9059,
           "recovered": 0
         }
       },
@@ -1703,7 +1703,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 421740,
+          "confirmed": 424545,
           "date": "2020-11-19",
           "deaths": 28791,
           "recovered": 0
