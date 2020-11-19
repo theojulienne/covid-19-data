@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 81397,
+      "confirmed": 83994,
       "date": "2020-11-19",
-      "deaths": 1030,
-      "recovered": 58111
+      "deaths": 1053,
+      "recovered": 59465
     }
   },
   "Bahrain": {
@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 75577,
+      "confirmed": 76757,
       "date": "2020-11-19",
-      "deaths": 2089,
-      "recovered": 39886
+      "deaths": 2153,
+      "recovered": 41031
     }
   },
   "Brazil": {
@@ -547,7 +547,7 @@
     "live": {
       "confirmed": 36965,
       "date": "2020-11-19",
-      "deaths": 1056,
+      "deaths": 1061,
       "recovered": 33517
     }
   },
@@ -873,18 +873,18 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 801894,
+      "confirmed": 815117,
       "date": "2020-11-19",
-      "deaths": 42941,
-      "recovered": 576983
+      "deaths": 43417,
+      "recovered": 583704
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 526852,
+      "confirmed": 529226,
       "date": "2020-11-19",
-      "deaths": 11795,
-      "recovered": 455176
+      "deaths": 11834,
+      "recovered": 457490
     }
   },
   "Ireland": {
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 138337,
+      "confirmed": 138822,
       "date": "2020-11-19",
-      "deaths": 857,
-      "recovered": 129839
+      "deaths": 859,
+      "recovered": 130426
     }
   },
   "Kyrgyzstan": {
@@ -1173,10 +1173,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 212917,
+      "confirmed": 215020,
       "date": "2020-11-19",
-      "deaths": 1259,
-      "recovered": 182780
+      "deaths": 1276,
+      "recovered": 185638
     }
   },
   "Netherlands": {
@@ -1361,10 +1361,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 383743,
+      "confirmed": 393851,
       "date": "2020-11-19",
-      "deaths": 9429,
-      "recovered": 261387
+      "deaths": 9596,
+      "recovered": 269590
     }
   },
   "Russia": {
@@ -1805,10 +1805,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 154101,
+      "confirmed": 155254,
       "date": "2020-11-19",
-      "deaths": 542,
-      "recovered": 145537
+      "deaths": 544,
+      "recovered": 146469
     }
   },
   "United Kingdom": {
@@ -1865,10 +1865,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 66186,
+      "confirmed": 67296,
       "date": "2020-11-19",
-      "deaths": 589,
-      "recovered": 56843
+      "deaths": 598,
+      "recovered": 57469
     }
   }
 }
