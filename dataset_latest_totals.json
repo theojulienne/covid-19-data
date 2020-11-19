@@ -138,28 +138,28 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 27531,
-        "current_hospitalized": 24,
+        "confirmed": 27536,
+        "current_hospitalized": 25,
         "current_icu": 5,
         "deaths": 909,
-        "recovered": 4768,
-        "tested": 9200954
+        "recovered": 22299,
+        "tested": 9246896
       },
       "back_2week": {
-        "confirmed": 27489,
+        "confirmed": 27499,
         "current_hospitalized": 13,
         "current_icu": 5,
         "deaths": 909,
         "recovered": 4753,
-        "tested": 8966967
+        "tested": 9006602
       },
       "latest": {
-        "confirmed": 27567,
-        "current_hospitalized": 25,
+        "confirmed": 27575,
+        "current_hospitalized": 13,
         "current_icu": 5,
         "deaths": 909,
         "recovered": 22337,
-        "tested": 9441350
+        "tested": 9483163
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@
           "tested": 113590
         },
         "NSW": {
-          "confirmed": 4313,
+          "confirmed": 4320,
           "current_hospitalized": 4,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 55,
           "recovered": 2799,
-          "tested": 3299669
+          "tested": 3316716
         },
         "NT": {
           "confirmed": 46,
@@ -2618,7 +2618,7 @@
     "NZL": {
       "back_1week": {
         "confirmed": 1520,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1484,
@@ -2626,7 +2626,7 @@
       },
       "back_2week": {
         "confirmed": 1507,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
@@ -2634,7 +2634,7 @@
       },
       "latest": {
         "confirmed": 1529,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1490,
