@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 475284,
+      "confirmed": 479020,
       "date": "2020-11-19",
-      "deaths": 6740,
-      "recovered": 367574
+      "deaths": 6856,
+      "recovered": 368179
     }
   },
   "Denmark": {
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 82034,
+      "confirmed": 85261,
       "date": "2020-11-19",
-      "deaths": 1288,
+      "deaths": 1347,
       "recovered": 23074
     }
   },
@@ -1165,10 +1165,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 306995,
+      "confirmed": 311554,
       "date": "2020-11-19",
-      "deaths": 5013,
-      "recovered": 253351
+      "deaths": 5090,
+      "recovered": 257992
     }
   },
   "Nepal": {
@@ -1345,10 +1345,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 236015,
+      "confirmed": 243009,
       "date": "2020-11-19",
-      "deaths": 3632,
-      "recovered": 153702
+      "deaths": 3701,
+      "recovered": 157924
     }
   },
   "Qatar": {
@@ -1597,10 +1597,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 425628,
+      "confirmed": 430170,
       "date": "2020-11-19",
-      "deaths": 11820,
-      "recovered": 361655
+      "deaths": 11943,
+      "recovered": 364573
     }
   },
   "US": {
@@ -1647,9 +1647,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 37552,
+          "confirmed": 38327,
           "date": "2020-11-19",
-          "deaths": 828,
+          "deaths": 831,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 53486,
+          "confirmed": 54662,
           "date": "2020-11-19",
-          "deaths": 1061,
+          "deaths": 1066,
           "recovered": 0
         }
       },
@@ -1815,7 +1815,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1229140,
+          "confirmed": 1249431,
           "date": "2020-11-19",
           "deaths": 47140,
           "recovered": 0
@@ -1823,7 +1823,7 @@
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 48229,
+          "confirmed": 48716,
           "date": "2020-11-19",
           "deaths": 901,
           "recovered": 0
@@ -1831,7 +1831,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 84523,
+          "confirmed": 85612,
           "date": "2020-11-19",
           "deaths": 3427,
           "recovered": 0
@@ -1839,7 +1839,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 68449,
+          "confirmed": 69497,
           "date": "2020-11-19",
           "deaths": 2307,
           "recovered": 0
