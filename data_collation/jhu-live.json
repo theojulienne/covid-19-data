@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 228683,
+      "confirmed": 235351,
       "date": "2020-11-20",
-      "deaths": 2116,
-      "recovered": 149541
+      "deaths": 2224,
+      "recovered": 156483
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 441159,
+      "confirmed": 443434,
       "date": "2020-11-20",
-      "deaths": 6305,
-      "recovered": 356722
+      "deaths": 6322,
+      "recovered": 358431
     }
   },
   "Belarus": {
@@ -1057,18 +1057,18 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 40492,
+      "confirmed": 42757,
       "date": "2020-11-20",
-      "deaths": 341,
-      "recovered": 10008
+      "deaths": 357,
+      "recovered": 10498
     }
   },
   "Malaysia": {
     "live": {
-      "confirmed": 51680,
+      "confirmed": 52638,
       "date": "2020-11-20",
-      "deaths": 326,
-      "recovered": 38132
+      "deaths": 329,
+      "recovered": 39088
     }
   },
   "Mexico": {
@@ -1173,10 +1173,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 215020,
+      "confirmed": 216965,
       "date": "2020-11-20",
-      "deaths": 1276,
-      "recovered": 185638
+      "deaths": 1298,
+      "recovered": 191002
     }
   },
   "Netherlands": {
@@ -1453,10 +1453,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 61034,
+      "confirmed": 62580,
       "date": "2020-11-20",
-      "deaths": 964,
-      "recovered": 40153
+      "deaths": 995,
+      "recovered": 41691
     }
   },
   "South Africa": {
@@ -1573,9 +1573,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 285655,
+      "confirmed": 290601,
       "date": "2020-11-20",
-      "deaths": 3879,
+      "deaths": 3913,
       "recovered": 180700
     }
   },
