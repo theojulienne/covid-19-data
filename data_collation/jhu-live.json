@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 479020,
+      "confirmed": 481755,
       "date": "2020-11-20",
-      "deaths": 6856,
-      "recovered": 368179
+      "deaths": 6874,
+      "recovered": 379380
     }
   },
   "Denmark": {
