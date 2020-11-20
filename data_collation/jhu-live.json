@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 481755,
+      "confirmed": 484729,
       "date": "2020-11-20",
-      "deaths": 6874,
-      "recovered": 379380
+      "deaths": 6996,
+      "recovered": 379991
     }
   },
   "Denmark": {
@@ -545,10 +545,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 104427,
+      "confirmed": 104879,
       "date": "2020-11-20",
-      "deaths": 1607,
-      "recovered": 64983
+      "deaths": 1620,
+      "recovered": 65325
     }
   },
   "France": {
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 85261,
+      "confirmed": 87812,
       "date": "2020-11-20",
-      "deaths": 1347,
+      "deaths": 1419,
       "recovered": 23074
     }
   },
@@ -1157,10 +1157,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 311554,
+      "confirmed": 316260,
       "date": "2020-11-20",
-      "deaths": 5090,
-      "recovered": 257992
+      "deaths": 5182,
+      "recovered": 262212
     }
   },
   "Nepal": {
@@ -1589,19 +1589,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 430170,
+      "confirmed": 435273,
       "date": "2020-11-20",
-      "deaths": 11943,
-      "recovered": 364573
+      "deaths": 12084,
+      "recovered": 367592
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 183177,
+          "confirmed": 185580,
           "date": "2020-11-20",
-          "deaths": 3850,
+          "deaths": 3878,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 38327,
+          "confirmed": 39125,
           "date": "2020-11-20",
-          "deaths": 831,
+          "deaths": 836,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 54662,
+          "confirmed": 55721,
           "date": "2020-11-20",
-          "deaths": 1066,
+          "deaths": 1075,
           "recovered": 0
         }
       },
