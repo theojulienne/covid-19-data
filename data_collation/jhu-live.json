@@ -991,7 +991,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 36294,
+          "confirmed": 36816,
           "date": "2020-11-20",
           "deaths": 468,
           "recovered": 32222
@@ -1371,7 +1371,7 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 533068,
+          "confirmed": 539970,
           "date": "2020-11-20",
           "deaths": 8159,
           "recovered": 394252
@@ -1379,7 +1379,7 @@
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 100050,
+          "confirmed": 100937,
           "date": "2020-11-20",
           "deaths": 1871,
           "recovered": 73863
@@ -1387,7 +1387,7 @@
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 49490,
+          "confirmed": 49934,
           "date": "2020-11-20",
           "deaths": 1033,
           "recovered": 42964
@@ -1395,7 +1395,7 @@
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 36523,
+          "confirmed": 36834,
           "date": "2020-11-20",
           "deaths": 1151,
           "recovered": 29595
@@ -1403,7 +1403,7 @@
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 90400,
+          "confirmed": 92794,
           "date": "2020-11-20",
           "deaths": 4826,
           "recovered": 54429
@@ -1411,7 +1411,7 @@
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 42088,
+          "confirmed": 42460,
           "date": "2020-11-20",
           "deaths": 933,
           "recovered": 34629
@@ -1445,10 +1445,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 91578,
+      "confirmed": 93396,
       "date": "2020-11-20",
-      "deaths": 579,
-      "recovered": 38695
+      "deaths": 614,
+      "recovered": 40816
     }
   },
   "Slovenia": {
@@ -1581,10 +1581,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 83772,
+      "confirmed": 84995,
       "date": "2020-11-20",
-      "deaths": 2541,
-      "recovered": 58229
+      "deaths": 2611,
+      "recovered": 59334
     }
   },
   "Turkey": {
