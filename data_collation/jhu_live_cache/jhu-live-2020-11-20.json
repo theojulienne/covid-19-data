@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 301884,
+          "confirmed": 302198,
           "date": "2020-11-20",
-          "deaths": 10173,
-          "recovered": 289707
+          "deaths": 10191,
+          "recovered": 289896
         }
       }
     }
@@ -1001,10 +1001,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 169395,
+      "confirmed": 174335,
       "date": "2020-11-20",
-      "deaths": 2053,
-      "recovered": 100280
+      "deaths": 2116,
+      "recovered": 103834
     }
   },
   "Kazakhstan": {
@@ -1287,33 +1287,33 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45606,
+          "confirmed": 45747,
           "date": "2020-11-20",
-          "deaths": 1505,
+          "deaths": 1516,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 39461,
+          "confirmed": 39631,
           "date": "2020-11-20",
-          "deaths": 1878,
+          "deaths": 1883,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 421470,
+          "confirmed": 422903,
           "date": "2020-11-20",
-          "deaths": 15862,
+          "deaths": 15907,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39724,
+          "confirmed": 39946,
           "date": "2020-11-20",
-          "deaths": 2062,
+          "deaths": 2077,
           "recovered": 0
         }
       }
@@ -1337,10 +1337,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 243009,
+      "confirmed": 249498,
       "date": "2020-11-20",
-      "deaths": 3701,
-      "recovered": 157924
+      "deaths": 3762,
+      "recovered": 163000
     }
   },
   "Qatar": {
