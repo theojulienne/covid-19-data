@@ -1285,10 +1285,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 73639,
+      "confirmed": 74495,
       "date": "2020-11-20",
-      "deaths": 1624,
-      "recovered": 52608
+      "deaths": 1636,
+      "recovered": 53060
     }
   },
   "Peru": {
@@ -1615,9 +1615,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 678596,
+          "confirmed": 684189,
           "date": "2020-11-20",
-          "deaths": 12776,
+          "deaths": 12809,
           "recovered": 0
         }
       },
@@ -1743,7 +1743,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 568348,
+          "confirmed": 568831,
           "date": "2020-11-20",
           "deaths": 9703,
           "recovered": 0
