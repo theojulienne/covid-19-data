@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 198257,
+          "confirmed": 199979,
           "date": "2020-11-20",
           "deaths": 3757,
           "recovered": 186116
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 75379,
+          "confirmed": 75529,
           "date": "2020-11-20",
           "deaths": 3169,
           "recovered": 71120
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 353793,
+          "confirmed": 355714,
           "date": "2020-11-20",
           "deaths": 8206,
           "recovered": 326296
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 48497,
+          "confirmed": 48763,
           "date": "2020-11-20",
           "deaths": 1352,
           "recovered": 44941
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 49204,
+          "confirmed": 49505,
           "date": "2020-11-20",
           "deaths": 1900,
           "recovered": 44318
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 99067,
+          "confirmed": 100009,
           "date": "2020-11-20",
           "deaths": 3205,
           "recovered": 89907
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 111955,
+      "confirmed": 112318,
       "date": "2020-11-20",
-      "deaths": 6508,
-      "recovered": 101564
+      "deaths": 6521,
+      "recovered": 101685
     }
   },
   "El Salvador": {
@@ -1575,7 +1575,7 @@
     "live": {
       "confirmed": 290601,
       "date": "2020-11-20",
-      "deaths": 3962,
+      "deaths": 3992,
       "recovered": 180700
     }
   },
@@ -1657,7 +1657,7 @@
         "live": {
           "confirmed": 40230,
           "date": "2020-11-20",
-          "deaths": 2367,
+          "deaths": 2374,
           "recovered": 0
         }
       },
