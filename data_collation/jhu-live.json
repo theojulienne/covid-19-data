@@ -1711,9 +1711,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 46473,
+          "confirmed": 47321,
           "date": "2020-11-21",
-          "deaths": 663,
+          "deaths": 664,
           "recovered": 0
         }
       },
@@ -1729,7 +1729,7 @@
         "live": {
           "confirmed": 84385,
           "date": "2020-11-21",
-          "deaths": 1028,
+          "deaths": 1029,
           "recovered": 0
         }
       },
