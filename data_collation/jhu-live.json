@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 77994,
+      "confirmed": 79309,
       "date": "2020-11-21",
-      "deaths": 2209,
-      "recovered": 42916
+      "deaths": 2246,
+      "recovered": 43793
     }
   },
   "Brazil": {
@@ -1287,7 +1287,7 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45747,
+          "confirmed": 45785,
           "date": "2020-11-21",
           "deaths": 1516,
           "recovered": 0
@@ -1295,7 +1295,7 @@
       },
       "Callao": {
         "live": {
-          "confirmed": 39631,
+          "confirmed": 39773,
           "date": "2020-11-21",
           "deaths": 1883,
           "recovered": 0
@@ -1303,15 +1303,15 @@
       },
       "Lima": {
         "live": {
-          "confirmed": 422903,
+          "confirmed": 423663,
           "date": "2020-11-21",
-          "deaths": 15907,
+          "deaths": 15923,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 39946,
+          "confirmed": 40031,
           "date": "2020-11-21",
           "deaths": 2077,
           "recovered": 0
