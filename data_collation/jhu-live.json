@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 199979,
           "date": "2020-11-21",
-          "deaths": 3757,
-          "recovered": 186116
+          "deaths": 3785,
+          "recovered": 187209
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 75529,
           "date": "2020-11-21",
-          "deaths": 3169,
-          "recovered": 71120
+          "deaths": 3174,
+          "recovered": 71294
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 355714,
           "date": "2020-11-21",
-          "deaths": 8206,
-          "recovered": 326296
+          "deaths": 8228,
+          "recovered": 327529
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 48763,
           "date": "2020-11-21",
-          "deaths": 1352,
-          "recovered": 44941
+          "deaths": 1357,
+          "recovered": 45164
         }
       },
       "Santander": {
         "live": {
           "confirmed": 49505,
           "date": "2020-11-21",
-          "deaths": 1900,
-          "recovered": 44318
+          "deaths": 1909,
+          "recovered": 44617
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 100009,
           "date": "2020-11-21",
-          "deaths": 3205,
-          "recovered": 89907
+          "deaths": 3239,
+          "recovered": 90663
         }
       }
     }
@@ -1009,10 +1009,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 123888,
+      "confirmed": 124710,
       "date": "2020-11-21",
       "deaths": 1945,
-      "recovered": 111483
+      "recovered": 111895
     }
   },
   "Kenya": {
