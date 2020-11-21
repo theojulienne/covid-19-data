@@ -669,10 +669,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 165901,
+      "confirmed": 170298,
       "date": "2020-11-21",
-      "deaths": 3568,
-      "recovered": 38074
+      "deaths": 3689,
+      "recovered": 40820
     }
   },
   "India": {
@@ -865,10 +865,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 488310,
+      "confirmed": 493308,
       "date": "2020-11-21",
-      "deaths": 15678,
-      "recovered": 410552
+      "deaths": 15774,
+      "recovered": 413955
     }
   },
   "Iran": {
@@ -1137,14 +1137,6 @@
           "recovered": 0
         }
       },
-      "Tabasco": {
-        "live": {
-          "confirmed": 36075,
-          "date": "2020-11-21",
-          "deaths": 3030,
-          "recovered": 0
-        }
-      },
       "Veracruz": {
         "live": {
           "confirmed": 38549,
@@ -1340,7 +1332,7 @@
       "confirmed": 819262,
       "date": "2020-11-21",
       "deaths": 12714,
-      "recovered": 381800
+      "recovered": 407075
     }
   },
   "Portugal": {
@@ -1445,10 +1437,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 93396,
+      "confirmed": 95257,
       "date": "2020-11-21",
-      "deaths": 614,
-      "recovered": 40816
+      "deaths": 644,
+      "recovered": 43188
     }
   },
   "Slovenia": {
@@ -1779,7 +1771,7 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 50252,
+          "confirmed": 50784,
           "date": "2020-11-21",
           "deaths": 690,
           "recovered": 19582
@@ -1787,7 +1779,7 @@
       },
       "Kiev": {
         "live": {
-          "confirmed": 56594,
+          "confirmed": 57807,
           "date": "2020-11-21",
           "deaths": 1109,
           "recovered": 20704
@@ -1795,10 +1787,18 @@
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 39916,
+          "confirmed": 40416,
           "date": "2020-11-21",
           "deaths": 1133,
           "recovered": 26262
+        }
+      },
+      "Odessa Oblast": {
+        "live": {
+          "confirmed": 36727,
+          "date": "2020-11-21",
+          "deaths": 509,
+          "recovered": 8727
         }
       }
     }
@@ -1849,7 +1849,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 71280,
+      "confirmed": 71359,
       "date": "2020-11-21",
       "deaths": 603,
       "recovered": 68525
