@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 44514,
+      "confirmed": 44503,
       "date": "2020-11-21",
-      "deaths": 1672,
-      "recovered": 35418
+      "deaths": 1675,
+      "recovered": 35422
     }
   },
   "Algeria": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 76414,
+      "confirmed": 77848,
       "date": "2020-11-21",
-      "deaths": 1695,
-      "recovered": 56601
+      "deaths": 1722,
+      "recovered": 57679
     }
   },
   "Canada": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 302198,
+          "confirmed": 302540,
           "date": "2020-11-21",
-          "deaths": 10191,
-          "recovered": 289896
+          "deaths": 10202,
+          "recovered": 290200
         }
       }
     }
@@ -579,10 +579,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 177522,
+          "confirmed": 177922,
           "date": "2020-11-21",
-          "deaths": 3387,
-          "recovered": 118444
+          "deaths": 3399,
+          "recovered": 121073
         }
       },
       "Berlin": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 531769,
+      "confirmed": 533555,
       "date": "2020-11-21",
-      "deaths": 11883,
-      "recovered": 460394
+      "deaths": 11925,
+      "recovered": 463040
     }
   },
   "Ireland": {
@@ -1421,9 +1421,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 110351,
+      "confirmed": 116125,
       "date": "2020-11-21",
-      "deaths": 1140,
+      "deaths": 1168,
       "recovered": 0
     }
   },
@@ -1445,7 +1445,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 64270,
+      "confirmed": 64284,
       "date": "2020-11-21",
       "deaths": 1026,
       "recovered": 43272
