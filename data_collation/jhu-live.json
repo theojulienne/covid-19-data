@@ -1329,10 +1329,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 415067,
+      "confirmed": 416852,
       "date": "2020-11-21",
-      "deaths": 8025,
-      "recovered": 375237
+      "deaths": 8080,
+      "recovered": 375548
     }
   },
   "Poland": {
@@ -1371,50 +1371,50 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 539970,
+          "confirmed": 547138,
           "date": "2020-11-21",
-          "deaths": 8159,
-          "recovered": 394252
+          "deaths": 8233,
+          "recovered": 400332
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 100937,
+          "confirmed": 101853,
           "date": "2020-11-21",
-          "deaths": 1871,
-          "recovered": 73863
+          "deaths": 1886,
+          "recovered": 74424
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 49934,
+          "confirmed": 50385,
           "date": "2020-11-21",
-          "deaths": 1033,
-          "recovered": 42964
+          "deaths": 1047,
+          "recovered": 43823
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 36834,
+          "confirmed": 37146,
           "date": "2020-11-21",
-          "deaths": 1151,
-          "recovered": 29595
+          "deaths": 1171,
+          "recovered": 29883
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 92794,
+          "confirmed": 95270,
           "date": "2020-11-21",
-          "deaths": 4826,
-          "recovered": 54429
+          "deaths": 4896,
+          "recovered": 55704
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 42460,
+          "confirmed": 42838,
           "date": "2020-11-21",
-          "deaths": 933,
-          "recovered": 34629
+          "deaths": 943,
+          "recovered": 35011
         }
       }
     }
@@ -1437,7 +1437,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58143,
+      "confirmed": 58148,
       "date": "2020-11-21",
       "deaths": 28,
       "recovered": 58058
@@ -1781,24 +1781,24 @@
         "live": {
           "confirmed": 50252,
           "date": "2020-11-21",
-          "deaths": 678,
-          "recovered": 18487
+          "deaths": 690,
+          "recovered": 19582
         }
       },
       "Kiev": {
         "live": {
           "confirmed": 56594,
           "date": "2020-11-21",
-          "deaths": 1080,
-          "recovered": 20391
+          "deaths": 1109,
+          "recovered": 20704
         }
       },
       "Lviv Oblast": {
         "live": {
           "confirmed": 39916,
           "date": "2020-11-21",
-          "deaths": 1119,
-          "recovered": 25922
+          "deaths": 1133,
+          "recovered": 26262
         }
       }
     }
