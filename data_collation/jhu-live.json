@@ -619,10 +619,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 37132,
+          "confirmed": 37561,
           "date": "2020-11-21",
-          "deaths": 411,
-          "recovered": 21267
+          "deaths": 416,
+          "recovered": 21794
         }
       },
       "Sachsen": {
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 139308,
+      "confirmed": 139734,
       "date": "2020-11-21",
-      "deaths": 861,
-      "recovered": 131049
+      "deaths": 863,
+      "recovered": 131560
     }
   },
   "Kyrgyzstan": {
