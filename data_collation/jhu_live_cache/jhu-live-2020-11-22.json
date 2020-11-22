@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 73774,
+      "confirmed": 74862,
       "date": "2020-11-22",
-      "deaths": 2255,
-      "recovered": 48183
+      "deaths": 2272,
+      "recovered": 48794
     }
   },
   "Argentina": {
@@ -387,18 +387,18 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 105860,
+          "confirmed": 106125,
           "date": "2020-11-22",
-          "deaths": 3520,
-          "recovered": 90707
+          "deaths": 3522,
+          "recovered": 90963
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 130888,
+          "confirmed": 132042,
           "date": "2020-11-22",
-          "deaths": 6806,
-          "recovered": 112734
+          "deaths": 6829,
+          "recovered": 112913
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 490750,
+      "confirmed": 491647,
       "date": "2020-11-22",
-      "deaths": 7095,
-      "recovered": 394830
+      "deaths": 7164,
+      "recovered": 394947
     }
   },
   "Denmark": {
@@ -571,7 +571,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 132011,
+          "confirmed": 133573,
           "date": "2020-11-22",
           "deaths": 2448,
           "recovered": 87190
@@ -1041,10 +1041,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 115283,
+      "confirmed": 116476,
       "date": "2020-11-22",
-      "deaths": 894,
-      "recovered": 66135
+      "deaths": 900,
+      "recovered": 67667
     }
   },
   "Libya": {
@@ -1589,10 +1589,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 440805,
+      "confirmed": 446822,
       "date": "2020-11-22",
-      "deaths": 12219,
-      "recovered": 370825
+      "deaths": 12358,
+      "recovered": 374637
     }
   },
   "US": {
@@ -1639,9 +1639,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 39860,
+          "confirmed": 40796,
           "date": "2020-11-22",
-          "deaths": 839,
+          "deaths": 844,
           "recovered": 0
         }
       },
@@ -1673,13 +1673,13 @@
         "live": {
           "confirmed": 56816,
           "date": "2020-11-22",
-          "deaths": 1080,
+          "deaths": 1084,
           "recovered": 0
         }
       },
       "Missouri": {
         "live": {
-          "confirmed": 45635,
+          "confirmed": 46357,
           "date": "2020-11-22",
           "deaths": 944,
           "recovered": 0
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 40220,
           "date": "2020-11-22",
-          "deaths": 429,
+          "deaths": 430,
           "recovered": 0
         }
       },
@@ -1735,7 +1735,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 582009,
+          "confirmed": 582897,
           "date": "2020-11-22",
           "deaths": 9861,
           "recovered": 0
@@ -1815,33 +1815,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1284891,
+          "confirmed": 1301559,
           "date": "2020-11-22",
-          "deaths": 47842,
+          "deaths": 48212,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 49442,
+          "confirmed": 49784,
           "date": "2020-11-22",
-          "deaths": 923,
+          "deaths": 933,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 87517,
+          "confirmed": 88361,
           "date": "2020-11-22",
-          "deaths": 3496,
+          "deaths": 3503,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 71533,
+          "confirmed": 72341,
           "date": "2020-11-22",
-          "deaths": 2365,
+          "deaths": 2376,
           "recovered": 0
         }
       }
@@ -1849,10 +1849,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 71552,
+      "confirmed": 71617,
       "date": "2020-11-22",
       "deaths": 603,
-      "recovered": 68711
+      "recovered": 68827
     }
   },
   "Venezuela": {
