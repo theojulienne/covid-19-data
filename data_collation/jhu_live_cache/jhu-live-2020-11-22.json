@@ -153,7 +153,7 @@
         "live": {
           "confirmed": 93245,
           "date": "2020-11-22",
-          "deaths": 2311,
+          "deaths": 2314,
           "recovered": 89887
         }
       },
@@ -161,7 +161,7 @@
         "live": {
           "confirmed": 56085,
           "date": "2020-11-22",
-          "deaths": 787,
+          "deaths": 789,
           "recovered": 46049
         }
       },
@@ -169,7 +169,7 @@
         "live": {
           "confirmed": 172858,
           "date": "2020-11-22",
-          "deaths": 4761,
+          "deaths": 4771,
           "recovered": 147952
         }
       },
@@ -177,7 +177,7 @@
         "live": {
           "confirmed": 382164,
           "date": "2020-11-22",
-          "deaths": 8061,
+          "deaths": 8081,
           "recovered": 365848
         }
       },
@@ -185,15 +185,15 @@
         "live": {
           "confirmed": 289925,
           "date": "2020-11-22",
-          "deaths": 9477,
-          "recovered": 244955
+          "deaths": 9487,
+          "recovered": 245463
         }
       },
       "Distrito Federal": {
         "live": {
           "confirmed": 222836,
           "date": "2020-11-22",
-          "deaths": 3857,
+          "deaths": 3862,
           "recovered": 213717
         }
       },
@@ -201,7 +201,7 @@
         "live": {
           "confirmed": 176903,
           "date": "2020-11-22",
-          "deaths": 4101,
+          "deaths": 4114,
           "recovered": 164427
         }
       },
@@ -209,15 +209,15 @@
         "live": {
           "confirmed": 272494,
           "date": "2020-11-22",
-          "deaths": 6201,
-          "recovered": 262946
+          "deaths": 6224,
+          "recovered": 263228
         }
       },
       "Maranhao": {
         "live": {
           "confirmed": 190953,
           "date": "2020-11-22",
-          "deaths": 4218,
+          "deaths": 4224,
           "recovered": 184004
         }
       },
@@ -225,7 +225,7 @@
         "live": {
           "confirmed": 153800,
           "date": "2020-11-22",
-          "deaths": 4025,
+          "deaths": 4026,
           "recovered": 144878
         }
       },
@@ -233,23 +233,23 @@
         "live": {
           "confirmed": 90765,
           "date": "2020-11-22",
-          "deaths": 1713,
-          "recovered": 82598
+          "deaths": 1718,
+          "recovered": 83189
         }
       },
       "Minas Gerais": {
         "live": {
           "confirmed": 393110,
           "date": "2020-11-22",
-          "deaths": 9688,
-          "recovered": 361276
+          "deaths": 9732,
+          "recovered": 363351
         }
       },
       "Para": {
         "live": {
           "confirmed": 264810,
           "date": "2020-11-22",
-          "deaths": 6855,
+          "deaths": 6861,
           "recovered": 247967
         }
       },
@@ -257,7 +257,7 @@
         "live": {
           "confirmed": 141615,
           "date": "2020-11-22",
-          "deaths": 3236,
+          "deaths": 3244,
           "recovered": 113102
         }
       },
@@ -265,7 +265,7 @@
         "live": {
           "confirmed": 250898,
           "date": "2020-11-22",
-          "deaths": 5832,
+          "deaths": 5846,
           "recovered": 184661
         }
       },
@@ -273,7 +273,7 @@
         "live": {
           "confirmed": 174312,
           "date": "2020-11-22",
-          "deaths": 8899,
+          "deaths": 8920,
           "recovered": 154975
         }
       },
@@ -281,7 +281,7 @@
         "live": {
           "confirmed": 122007,
           "date": "2020-11-22",
-          "deaths": 2568,
+          "deaths": 2574,
           "recovered": 119519
         }
       },
@@ -289,7 +289,7 @@
         "live": {
           "confirmed": 84865,
           "date": "2020-11-22",
-          "deaths": 2657,
+          "deaths": 2658,
           "recovered": 47431
         }
       },
@@ -297,15 +297,15 @@
         "live": {
           "confirmed": 293221,
           "date": "2020-11-22",
-          "deaths": 6447,
-          "recovered": 269603
+          "deaths": 6487,
+          "recovered": 272440
         }
       },
       "Rio de Janeiro": {
         "live": {
           "confirmed": 336915,
           "date": "2020-11-22",
-          "deaths": 21938,
+          "deaths": 21971,
           "recovered": 308297
         }
       },
@@ -313,7 +313,7 @@
         "live": {
           "confirmed": 76729,
           "date": "2020-11-22",
-          "deaths": 1515,
+          "deaths": 1516,
           "recovered": 68444
         }
       },
@@ -329,7 +329,7 @@
         "live": {
           "confirmed": 317502,
           "date": "2020-11-22",
-          "deaths": 3435,
+          "deaths": 3459,
           "recovered": 290537
         }
       },
@@ -337,7 +337,7 @@
         "live": {
           "confirmed": 1200348,
           "date": "2020-11-22",
-          "deaths": 41179,
+          "deaths": 41256,
           "recovered": 1076616
         }
       },
@@ -353,7 +353,7 @@
         "live": {
           "confirmed": 79158,
           "date": "2020-11-22",
-          "deaths": 1147,
+          "deaths": 1148,
           "recovered": 71340
         }
       }
@@ -381,8 +381,8 @@
         "live": {
           "confirmed": 45288,
           "date": "2020-11-22",
-          "deaths": 282,
-          "recovered": 32835
+          "deaths": 471,
+          "recovered": 33543
         }
       },
       "Ontario": {
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 489563,
+      "confirmed": 490750,
       "date": "2020-11-22",
-      "deaths": 7067,
-      "recovered": 390065
+      "deaths": 7095,
+      "recovered": 394830
     }
   },
   "Denmark": {
@@ -1607,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 697808,
+          "confirmed": 699284,
           "date": "2020-11-22",
-          "deaths": 12875,
+          "deaths": 12881,
           "recovered": 0
         }
       },
@@ -1695,7 +1695,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 427572,
+          "confirmed": 430590,
           "date": "2020-11-22",
           "deaths": 28832,
           "recovered": 0
@@ -1735,7 +1735,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 575829,
+          "confirmed": 581517,
           "date": "2020-11-22",
           "deaths": 9861,
           "recovered": 0
