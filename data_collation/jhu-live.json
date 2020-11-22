@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 79309,
+      "confirmed": 80006,
       "date": "2020-11-22",
-      "deaths": 2246,
-      "recovered": 43793
+      "deaths": 2276,
+      "recovered": 44416
     }
   },
   "Brazil": {
@@ -1432,7 +1432,7 @@
       "confirmed": 58160,
       "date": "2020-11-22",
       "deaths": 28,
-      "recovered": 58064
+      "recovered": 58067
     }
   },
   "Slovakia": {
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 38428,
+          "confirmed": 38699,
           "date": "2020-11-22",
-          "deaths": 906,
+          "deaths": 907,
           "recovered": 0
         }
       },
