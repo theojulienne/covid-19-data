@@ -521,10 +521,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 184876,
+      "confirmed": 185643,
       "date": "2020-11-22",
-      "deaths": 13139,
-      "recovered": 160639
+      "deaths": 13201,
+      "recovered": 164009
     }
   },
   "Egypt": {
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 328613,
+      "confirmed": 328918,
       "date": "2020-11-22",
-      "deaths": 2757,
-      "recovered": 317348
+      "deaths": 2799,
+      "recovered": 317887
     }
   },
   "Italy": {
@@ -1453,10 +1453,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 765409,
+      "confirmed": 767679,
       "date": "2020-11-22",
-      "deaths": 20845,
-      "recovered": 707784
+      "deaths": 20903,
+      "recovered": 710099
     }
   },
   "Spain": {
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 704335,
+          "confirmed": 705400,
           "date": "2020-11-22",
           "deaths": 12920,
           "recovered": 0
@@ -1711,9 +1711,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 47321,
+          "confirmed": 48389,
           "date": "2020-11-22",
-          "deaths": 664,
+          "deaths": 665,
           "recovered": 0
         }
       },
@@ -1737,7 +1737,7 @@
         "live": {
           "confirmed": 582897,
           "date": "2020-11-22",
-          "deaths": 9861,
+          "deaths": 9896,
           "recovered": 0
         }
       },
