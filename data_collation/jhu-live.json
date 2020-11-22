@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 77848,
+      "confirmed": 79246,
       "date": "2020-11-22",
-      "deaths": 1722,
-      "recovered": 57679
+      "deaths": 1739,
+      "recovered": 58758
     }
   },
   "Canada": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 302540,
+          "confirmed": 302827,
           "date": "2020-11-22",
-          "deaths": 10202,
-          "recovered": 290200
+          "deaths": 10215,
+          "recovered": 290464
         }
       }
     }
@@ -579,7 +579,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 181001,
+          "confirmed": 181381,
           "date": "2020-11-22",
           "deaths": 3426,
           "recovered": 123171
@@ -619,7 +619,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 37587,
+          "confirmed": 38284,
           "date": "2020-11-22",
           "deaths": 420,
           "recovered": 22257
@@ -1175,7 +1175,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 47212,
+          "confirmed": 47762,
           "date": "2020-11-22",
           "deaths": 1005,
           "recovered": 0
@@ -1183,7 +1183,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 75627,
+          "confirmed": 76580,
           "date": "2020-11-22",
           "deaths": 1980,
           "recovered": 0
@@ -1191,7 +1191,7 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 87453,
+          "confirmed": 88405,
           "date": "2020-11-22",
           "deaths": 1232,
           "recovered": 0
@@ -1199,7 +1199,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 40552,
+          "confirmed": 41025,
           "date": "2020-11-22",
           "deaths": 642,
           "recovered": 0
@@ -1207,7 +1207,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 137050,
+          "confirmed": 138392,
           "date": "2020-11-22",
           "deaths": 2147,
           "recovered": 0
@@ -1421,9 +1421,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 116125,
+      "confirmed": 121120,
       "date": "2020-11-22",
-      "deaths": 1168,
+      "deaths": 1199,
       "recovered": 0
     }
   },
