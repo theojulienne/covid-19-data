@@ -248,19 +248,19 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 73429,
-        "deaths": 946,
-        "recovered": 54049
+        "confirmed": 75688,
+        "deaths": 967,
+        "recovered": 55150
       },
       "back_2week": {
-        "confirmed": 63748,
-        "deaths": 824,
-        "recovered": 48049
+        "confirmed": 65411,
+        "deaths": 840,
+        "recovered": 48908
       },
       "latest": {
-        "confirmed": 89898,
-        "deaths": 1107,
-        "recovered": 62243
+        "confirmed": 93094,
+        "deaths": 1131,
+        "recovered": 63841
       }
     },
     "BDI": {
@@ -401,36 +401,36 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 70900,
-        "deaths": 1857,
-        "recovered": 35361
+        "confirmed": 71956,
+        "deaths": 1889,
+        "recovered": 35606
       },
       "back_2week": {
-        "confirmed": 61212,
-        "deaths": 1490,
-        "recovered": 30654
+        "confirmed": 62423,
+        "deaths": 1510,
+        "recovered": 30939
       },
       "latest": {
-        "confirmed": 79309,
-        "deaths": 2246,
-        "recovered": 43793
+        "confirmed": 80006,
+        "deaths": 2276,
+        "recovered": 44416
       }
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 112870,
-        "deaths": 1039,
-        "recovered": 94337
+        "confirmed": 114185,
+        "deaths": 1046,
+        "recovered": 95843
       },
       "back_2week": {
-        "confirmed": 105283,
-        "deaths": 1004,
-        "recovered": 90058
+        "confirmed": 106279,
+        "deaths": 1007,
+        "recovered": 90998
       },
       "latest": {
-        "confirmed": 122435,
-        "deaths": 1089,
-        "recovered": 102113
+        "confirmed": 123999,
+        "deaths": 1096,
+        "recovered": 103848
       }
     },
     "BLZ": {
@@ -1102,19 +1102,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 61078,
-        "deaths": 757,
-        "recovered": 46774
+        "confirmed": 62136,
+        "deaths": 760,
+        "recovered": 47747
       },
       "back_2week": {
-        "confirmed": 54230,
-        "deaths": 740,
-        "recovered": 39490
+        "confirmed": 55121,
+        "deaths": 743,
+        "recovered": 40305
       },
       "latest": {
-        "confirmed": 69635,
-        "deaths": 781,
-        "recovered": 54436
+        "confirmed": 70485,
+        "deaths": 784,
+        "recovered": 55274
       },
       "states": {
         "Faroe Islands": {
@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 516915,
-        "deaths": 11623,
-        "recovered": 444226
+        "confirmed": 519152,
+        "deaths": 11670,
+        "recovered": 447039
       },
       "back_2week": {
-        "confirmed": 496019,
-        "deaths": 11283,
-        "recovered": 425926
+        "confirmed": 498549,
+        "deaths": 11327,
+        "recovered": 428928
       },
       "latest": {
-        "confirmed": 533555,
-        "deaths": 11925,
-        "recovered": 463040
+        "confirmed": 535321,
+        "deaths": 11958,
+        "recovered": 465452
       }
     },
     "ISL": {
@@ -2881,19 +2881,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 352950,
-        "deaths": 5641,
-        "recovered": 339947
+        "confirmed": 353255,
+        "deaths": 5657,
+        "recovered": 340304
       },
       "back_2week": {
-        "confirmed": 350229,
-        "deaths": 5525,
-        "recovered": 336966
+        "confirmed": 350592,
+        "deaths": 5540,
+        "recovered": 337386
       },
       "latest": {
-        "confirmed": 355034,
-        "deaths": 5761,
-        "recovered": 342882
+        "confirmed": 355258,
+        "deaths": 5780,
+        "recovered": 343371
       }
     },
     "SDN": {
