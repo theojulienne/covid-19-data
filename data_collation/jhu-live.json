@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 65043,
+          "confirmed": 65316,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 74700,
+          "confirmed": 74909,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 51272,
+          "confirmed": 51500,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 42435,
+          "confirmed": 42636,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 89570,
+          "confirmed": 89810,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 89792,
+          "confirmed": 89972,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 42241,
+          "confirmed": 42414,
           "date": "2020-11-23",
           "deaths": 0,
           "recovered": 0
@@ -574,7 +574,7 @@
           "confirmed": 133573,
           "date": "2020-11-23",
           "deaths": 2448,
-          "recovered": 87190
+          "recovered": 89210
         }
       },
       "Bayern": {
@@ -582,7 +582,7 @@
           "confirmed": 181381,
           "date": "2020-11-23",
           "deaths": 3426,
-          "recovered": 123171
+          "recovered": 126063
         }
       },
       "Berlin": {
@@ -590,7 +590,7 @@
           "confirmed": 56504,
           "date": "2020-11-23",
           "deaths": 449,
-          "recovered": 34883
+          "recovered": 35781
         }
       },
       "Hessen": {
@@ -598,7 +598,7 @@
           "confirmed": 75789,
           "date": "2020-11-23",
           "deaths": 1027,
-          "recovered": 46875
+          "recovered": 48143
         }
       },
       "Niedersachsen": {
@@ -606,7 +606,7 @@
           "confirmed": 63283,
           "date": "2020-11-23",
           "deaths": 1009,
-          "recovered": 46108
+          "recovered": 47137
         }
       },
       "Nordrhein-Westfalen": {
@@ -614,7 +614,7 @@
           "confirmed": 230976,
           "date": "2020-11-23",
           "deaths": 2956,
-          "recovered": 154562
+          "recovered": 158342
         }
       },
       "Rheinland-Pfalz": {
@@ -622,7 +622,7 @@
           "confirmed": 38284,
           "date": "2020-11-23",
           "deaths": 420,
-          "recovered": 22257
+          "recovered": 22744
         }
       },
       "Sachsen": {
@@ -1009,10 +1009,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 125466,
+      "confirmed": 126182,
       "date": "2020-11-23",
       "deaths": 1945,
-      "recovered": 112292
+      "recovered": 112806
     }
   },
   "Kenya": {
@@ -1243,26 +1243,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 44097,
+          "confirmed": 44599,
           "date": "2020-11-23",
-          "deaths": 1325,
-          "recovered": 39930
+          "deaths": 1327,
+          "recovered": 40235
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 114010,
+          "confirmed": 114508,
           "date": "2020-11-23",
-          "deaths": 2848,
-          "recovered": 97991
+          "deaths": 2861,
+          "recovered": 98019
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 162227,
+          "confirmed": 163329,
           "date": "2020-11-23",
-          "deaths": 2816,
-          "recovered": 145525
+          "deaths": 2829,
+          "recovered": 146008
         }
       }
     }
