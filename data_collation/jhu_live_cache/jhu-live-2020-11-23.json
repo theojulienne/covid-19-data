@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 44706,
+      "confirmed": 44988,
       "date": "2020-11-23",
-      "deaths": 1687,
-      "recovered": 35934
+      "deaths": 1695,
+      "recovered": 35976
     }
   },
   "Algeria": {
@@ -865,10 +865,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 497668,
+      "confirmed": 502110,
       "date": "2020-11-23",
-      "deaths": 15884,
-      "recovered": 418188
+      "deaths": 16002,
+      "recovered": 422386
     }
   },
   "Iran": {
@@ -1321,10 +1321,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 418818,
+      "confirmed": 420614,
       "date": "2020-11-23",
-      "deaths": 8123,
-      "recovered": 386486
+      "deaths": 8173,
+      "recovered": 386604
     }
   },
   "Poland": {
@@ -1437,10 +1437,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 96241,
+      "confirmed": 96472,
       "date": "2020-11-23",
-      "deaths": 671,
-      "recovered": 45883
+      "deaths": 693,
+      "recovered": 47933
     }
   },
   "Slovenia": {
