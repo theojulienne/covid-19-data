@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 107347,
+          "confirmed": 107349,
           "date": "2020-11-23",
           "deaths": 3532,
-          "recovered": 92054
+          "recovered": 92061
         }
       },
       "Quebec": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 302827,
+          "confirmed": 303145,
           "date": "2020-11-23",
-          "deaths": 10215,
-          "recovered": 290464
+          "deaths": 10228,
+          "recovered": 290744
         }
       }
     }
@@ -513,10 +513,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 138410,
+      "confirmed": 138829,
       "date": "2020-11-23",
-      "deaths": 2310,
-      "recovered": 112552
+      "deaths": 2311,
+      "recovered": 112882
     }
   },
   "Ecuador": {
@@ -619,10 +619,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 38309,
+          "confirmed": 39250,
           "date": "2020-11-23",
-          "deaths": 420,
-          "recovered": 22257
+          "deaths": 434,
+          "recovered": 22744
         }
       },
       "Sachsen": {
@@ -653,18 +653,18 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 118629,
+      "confirmed": 118722,
       "date": "2020-11-23",
-      "deaths": 4076,
-      "recovered": 107413
+      "deaths": 4092,
+      "recovered": 107819
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 104435,
+      "confirmed": 104915,
       "date": "2020-11-23",
-      "deaths": 2857,
-      "recovered": 46208
+      "deaths": 2859,
+      "recovered": 46475
     }
   },
   "Hungary": {
@@ -1337,10 +1337,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 260758,
+      "confirmed": 264802,
       "date": "2020-11-23",
-      "deaths": 3897,
-      "recovered": 172919
+      "deaths": 3971,
+      "recovered": 176827
     }
   },
   "Qatar": {
@@ -1647,7 +1647,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 38699,
+          "confirmed": 38985,
           "date": "2020-11-23",
           "deaths": 907,
           "recovered": 0
