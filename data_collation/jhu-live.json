@@ -553,7 +553,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 2145007,
+      "confirmed": 2144979,
       "date": "2020-11-23",
       "deaths": 48897,
       "recovered": 130633
@@ -889,7 +889,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 70461,
+      "confirmed": 70711,
       "date": "2020-11-23",
       "deaths": 2023,
       "recovered": 23364
@@ -1453,10 +1453,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 767679,
+      "confirmed": 769759,
       "date": "2020-11-23",
-      "deaths": 20903,
-      "recovered": 710099
+      "deaths": 20968,
+      "recovered": 711195
     }
   },
   "Spain": {
@@ -1581,10 +1581,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 88711,
+      "confirmed": 89196,
       "date": "2020-11-23",
-      "deaths": 2821,
-      "recovered": 62249
+      "deaths": 2862,
+      "recovered": 63846
     }
   },
   "Turkey": {
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 710296,
+          "confirmed": 711405,
           "date": "2020-11-23",
           "deaths": 12934,
           "recovered": 0
@@ -1687,9 +1687,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 104624,
+          "confirmed": 106033,
           "date": "2020-11-23",
-          "deaths": 1690,
+          "deaths": 1691,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 433605,
           "date": "2020-11-23",
-          "deaths": 28843,
+          "deaths": 28854,
           "recovered": 0
         }
       },
@@ -1719,9 +1719,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 59081,
+          "confirmed": 61498,
           "date": "2020-11-23",
-          "deaths": 1952,
+          "deaths": 1953,
           "recovered": 0
         }
       },
