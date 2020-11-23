@@ -1165,18 +1165,18 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 179627,
-        "deaths": 12997,
+        "confirmed": 180295,
+        "deaths": 13008,
         "recovered": 154956
       },
       "back_2week": {
-        "confirmed": 173486,
-        "deaths": 12815,
+        "confirmed": 174907,
+        "deaths": 12830,
         "recovered": 149048
       },
       "latest": {
-        "confirmed": 184876,
-        "deaths": 13139,
+        "confirmed": 185643,
+        "deaths": 13201,
         "recovered": 160639
       }
     },
@@ -1318,19 +1318,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 1956252,
-        "deaths": 43926,
-        "recovered": 117913
+        "confirmed": 1983480,
+        "deaths": 44227,
+        "recovered": 118583
       },
       "back_2week": {
-        "confirmed": 1665403,
-        "deaths": 39861,
-        "recovered": 107259
+        "confirmed": 1790817,
+        "deaths": 40131,
+        "recovered": 107935
       },
       "latest": {
-        "confirmed": 2127672,
-        "deaths": 48184,
-        "recovered": 129218
+        "confirmed": 2140829,
+        "deaths": 48398,
+        "recovered": 129722
       },
       "states": {
         "French Guiana": {
@@ -3420,10 +3420,10 @@
         "tested": 136316986
       },
       "latest": {
-        "confirmed": 11872752,
-        "deaths": 245902,
-        "recovered": 4485602,
-        "tested": 154477442
+        "confirmed": 11874157,
+        "deaths": 245908,
+        "recovered": 4485690,
+        "tested": 154482172
       },
       "states": {
         "AK": {
@@ -3685,11 +3685,11 @@
           "tested": 2971240
         },
         "RI": {
-          "confirmed": 48001,
-          "deaths": 1294,
-          "hospitalized": 4046,
-          "recovered": 3314,
-          "tested": 500932
+          "confirmed": 49406,
+          "deaths": 1300,
+          "hospitalized": 4146,
+          "recovered": 3402,
+          "tested": 505662
         },
         "SC": {
           "confirmed": 205018,
