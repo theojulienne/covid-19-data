@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1370366,
+      "confirmed": 1374631,
       "date": "2020-11-23",
-      "deaths": 37002,
-      "recovered": 1195492
+      "deaths": 37122,
+      "recovered": 1203800
     }
   },
   "Armenia": {
@@ -379,18 +379,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 46872,
+          "confirmed": 48421,
           "date": "2020-11-23",
-          "deaths": 471,
-          "recovered": 34206
+          "deaths": 476,
+          "recovered": 34779
         }
       },
       "Ontario": {
         "live": {
-          "confirmed": 108503,
+          "confirmed": 108677,
           "date": "2020-11-23",
-          "deaths": 3552,
-          "recovered": 93354
+          "deaths": 3553,
+          "recovered": 93475
         }
       },
       "Quebec": {
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 202844,
+          "confirmed": 203968,
           "date": "2020-11-23",
           "deaths": 3840,
           "recovered": 189418
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 75976,
+          "confirmed": 76193,
           "date": "2020-11-23",
           "deaths": 3182,
           "recovered": 71590
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 359210,
+          "confirmed": 359916,
           "date": "2020-11-23",
           "deaths": 8285,
           "recovered": 329989
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 49406,
+          "confirmed": 49876,
           "date": "2020-11-23",
           "deaths": 1368,
           "recovered": 45783
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 50131,
+          "confirmed": 50419,
           "date": "2020-11-23",
           "deaths": 1930,
           "recovered": 45153
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 101751,
+          "confirmed": 102508,
           "date": "2020-11-23",
           "deaths": 3287,
           "recovered": 92222
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 113027,
+      "confirmed": 113381,
       "date": "2020-11-23",
-      "deaths": 6548,
-      "recovered": 101881
+      "deaths": 6560,
+      "recovered": 101981
     }
   },
   "El Salvador": {
@@ -1287,33 +1287,33 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45834,
+          "confirmed": 45870,
           "date": "2020-11-23",
-          "deaths": 1518,
+          "deaths": 1519,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 39879,
+          "confirmed": 39978,
           "date": "2020-11-23",
-          "deaths": 1886,
+          "deaths": 1887,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 424399,
+          "confirmed": 424952,
           "date": "2020-11-23",
-          "deaths": 15956,
+          "deaths": 15977,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 40115,
+          "confirmed": 40160,
           "date": "2020-11-23",
-          "deaths": 2077,
+          "deaths": 2080,
           "recovered": 0
         }
       }
@@ -1609,7 +1609,7 @@
         "live": {
           "confirmed": 712608,
           "date": "2020-11-23",
-          "deaths": 12934,
+          "deaths": 12947,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 42019,
+          "confirmed": 42437,
           "date": "2020-11-23",
-          "deaths": 2385,
+          "deaths": 2391,
           "recovered": 0
         }
       },
@@ -1735,9 +1735,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 600833,
+          "confirmed": 601893,
           "date": "2020-11-23",
-          "deaths": 9922,
+          "deaths": 9932,
           "recovered": 0
         }
       },
