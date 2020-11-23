@@ -647,17 +647,17 @@
     "CHE": {
       "back_1week": {
         "confirmed": 257135,
-        "deaths": 3351,
+        "deaths": 3369,
         "recovered": 141000
       },
       "back_2week": {
         "confirmed": 211913,
-        "deaths": 2749,
+        "deaths": 2772,
         "recovered": 87300
       },
       "latest": {
         "confirmed": 290601,
-        "deaths": 4031,
+        "deaths": 4056,
         "recovered": 180700
       }
     },
@@ -1983,19 +1983,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 136341,
-        "deaths": 835,
-        "recovered": 126902
+        "confirmed": 136840,
+        "deaths": 838,
+        "recovered": 127585
       },
       "back_2week": {
-        "confirmed": 131205,
-        "deaths": 808,
-        "recovered": 121889
+        "confirmed": 131743,
+        "deaths": 811,
+        "recovered": 122576
       },
       "latest": {
-        "confirmed": 139734,
-        "deaths": 863,
-        "recovered": 131560
+        "confirmed": 140056,
+        "deaths": 866,
+        "recovered": 132178
       }
     },
     "LAO": {
@@ -2830,19 +2830,19 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 353185,
-        "deaths": 8813,
-        "recovered": 239051
+        "confirmed": 360281,
+        "deaths": 8926,
+        "recovered": 243832
       },
       "back_2week": {
-        "confirmed": 296999,
-        "deaths": 7793,
-        "recovered": 201114
+        "confirmed": 303751,
+        "deaths": 7879,
+        "recovered": 204679
       },
       "latest": {
-        "confirmed": 412808,
-        "deaths": 9916,
-        "recovered": 287310
+        "confirmed": 418645,
+        "deaths": 10047,
+        "recovered": 295148
       }
     },
     "RUS": {
@@ -3102,19 +3102,19 @@
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 54122,
-        "deaths": 765,
-        "recovered": 33548
+        "confirmed": 55042,
+        "deaths": 797,
+        "recovered": 34864
       },
       "back_2week": {
-        "confirmed": 44270,
-        "deaths": 531,
-        "recovered": 20767
+        "confirmed": 45161,
+        "deaths": 554,
+        "recovered": 22443
       },
       "latest": {
-        "confirmed": 64284,
-        "deaths": 1026,
-        "recovered": 43272
+        "confirmed": 65308,
+        "deaths": 1052,
+        "recovered": 44137
       }
     },
     "SWE": {

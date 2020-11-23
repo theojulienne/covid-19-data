@@ -994,7 +994,7 @@
           "confirmed": 38060,
           "date": "2020-11-23",
           "deaths": 468,
-          "recovered": 33224
+          "recovered": 33383
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 140056,
+      "confirmed": 140393,
       "date": "2020-11-23",
-      "deaths": 866,
-      "recovered": 132178
+      "deaths": 868,
+      "recovered": 132848
     }
   },
   "Kyrgyzstan": {
@@ -1353,10 +1353,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 418645,
+      "confirmed": 422852,
       "date": "2020-11-23",
-      "deaths": 10047,
-      "recovered": 295148
+      "deaths": 10177,
+      "recovered": 296844
     }
   },
   "Russia": {
@@ -1445,10 +1445,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 65308,
+      "confirmed": 65778,
       "date": "2020-11-23",
-      "deaths": 1052,
-      "recovered": 44137
+      "deaths": 1097,
+      "recovered": 44558
     }
   },
   "South Africa": {
@@ -1573,10 +1573,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 290601,
+      "confirmed": 300352,
       "date": "2020-11-23",
-      "deaths": 4056,
-      "recovered": 180700
+      "deaths": 4100,
+      "recovered": 206700
     }
   },
   "Tunisia": {
