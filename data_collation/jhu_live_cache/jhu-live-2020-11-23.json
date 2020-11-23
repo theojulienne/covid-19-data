@@ -153,8 +153,8 @@
         "live": {
           "confirmed": 93359,
           "date": "2020-11-23",
-          "deaths": 2314,
-          "recovered": 89887
+          "deaths": 2317,
+          "recovered": 90135
         }
       },
       "Amapa": {
@@ -169,7 +169,7 @@
         "live": {
           "confirmed": 173346,
           "date": "2020-11-23",
-          "deaths": 4771,
+          "deaths": 4779,
           "recovered": 147952
         }
       },
@@ -177,71 +177,71 @@
         "live": {
           "confirmed": 383945,
           "date": "2020-11-23",
-          "deaths": 8081,
-          "recovered": 365848
+          "deaths": 8102,
+          "recovered": 368575
         }
       },
       "Ceara": {
         "live": {
           "confirmed": 290959,
           "date": "2020-11-23",
-          "deaths": 9487,
-          "recovered": 245463
+          "deaths": 9485,
+          "recovered": 245977
         }
       },
       "Distrito Federal": {
         "live": {
           "confirmed": 223378,
           "date": "2020-11-23",
-          "deaths": 3862,
-          "recovered": 213717
+          "deaths": 3867,
+          "recovered": 214537
         }
       },
       "Espirito Santo": {
         "live": {
           "confirmed": 177486,
           "date": "2020-11-23",
-          "deaths": 4114,
-          "recovered": 164427
+          "deaths": 4128,
+          "recovered": 165214
         }
       },
       "Goias": {
         "live": {
           "confirmed": 273066,
           "date": "2020-11-23",
-          "deaths": 6224,
-          "recovered": 263228
+          "deaths": 6244,
+          "recovered": 263598
         }
       },
       "Maranhao": {
         "live": {
           "confirmed": 191127,
           "date": "2020-11-23",
-          "deaths": 4224,
-          "recovered": 184004
+          "deaths": 4232,
+          "recovered": 184250
         }
       },
       "Mato Grosso": {
         "live": {
           "confirmed": 154042,
           "date": "2020-11-23",
-          "deaths": 4026,
-          "recovered": 144878
+          "deaths": 4033,
+          "recovered": 145387
         }
       },
       "Mato Grosso do Sul": {
         "live": {
           "confirmed": 91682,
           "date": "2020-11-23",
-          "deaths": 1718,
-          "recovered": 83189
+          "deaths": 1722,
+          "recovered": 83233
         }
       },
       "Minas Gerais": {
         "live": {
           "confirmed": 395534,
           "date": "2020-11-23",
-          "deaths": 9732,
+          "deaths": 9777,
           "recovered": 363351
         }
       },
@@ -249,23 +249,23 @@
         "live": {
           "confirmed": 265562,
           "date": "2020-11-23",
-          "deaths": 6861,
-          "recovered": 247967
+          "deaths": 6865,
+          "recovered": 248844
         }
       },
       "Paraiba": {
         "live": {
           "confirmed": 142265,
           "date": "2020-11-23",
-          "deaths": 3244,
-          "recovered": 113102
+          "deaths": 3248,
+          "recovered": 113510
         }
       },
       "Parana": {
         "live": {
           "confirmed": 254487,
           "date": "2020-11-23",
-          "deaths": 5846,
+          "deaths": 5853,
           "recovered": 184661
         }
       },
@@ -273,23 +273,23 @@
         "live": {
           "confirmed": 175258,
           "date": "2020-11-23",
-          "deaths": 8920,
-          "recovered": 154975
+          "deaths": 8923,
+          "recovered": 155815
         }
       },
       "Piaui": {
         "live": {
           "confirmed": 122518,
           "date": "2020-11-23",
-          "deaths": 2574,
-          "recovered": 119519
+          "deaths": 2579,
+          "recovered": 119928
         }
       },
       "Rio Grande do Norte": {
         "live": {
           "confirmed": 85778,
           "date": "2020-11-23",
-          "deaths": 2658,
+          "deaths": 2660,
           "recovered": 47431
         }
       },
@@ -297,23 +297,23 @@
         "live": {
           "confirmed": 296904,
           "date": "2020-11-23",
-          "deaths": 6487,
-          "recovered": 272440
+          "deaths": 6494,
+          "recovered": 274438
         }
       },
       "Rio de Janeiro": {
         "live": {
           "confirmed": 337277,
           "date": "2020-11-23",
-          "deaths": 21971,
-          "recovered": 308297
+          "deaths": 21974,
+          "recovered": 309320
         }
       },
       "Rondonia": {
         "live": {
           "confirmed": 77064,
           "date": "2020-11-23",
-          "deaths": 1516,
+          "deaths": 1518,
           "recovered": 68444
         }
       },
@@ -329,23 +329,23 @@
         "live": {
           "confirmed": 323390,
           "date": "2020-11-23",
-          "deaths": 3459,
-          "recovered": 290537
+          "deaths": 3471,
+          "recovered": 293478
         }
       },
       "Sao Paulo": {
         "live": {
           "confirmed": 1205435,
           "date": "2020-11-23",
-          "deaths": 41256,
-          "recovered": 1076616
+          "deaths": 41267,
+          "recovered": 1082032
         }
       },
       "Sergipe": {
         "live": {
           "confirmed": 87089,
           "date": "2020-11-23",
-          "deaths": 2274,
+          "deaths": 2275,
           "recovered": 81667
         }
       },
@@ -354,7 +354,7 @@
           "confirmed": 79420,
           "date": "2020-11-23",
           "deaths": 1148,
-          "recovered": 71340
+          "recovered": 71947
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 491647,
+      "confirmed": 492263,
       "date": "2020-11-23",
-      "deaths": 7164,
-      "recovered": 394947
+      "deaths": 7196,
+      "recovered": 398101
     }
   },
   "Denmark": {
@@ -1607,9 +1607,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 705952,
+          "confirmed": 709385,
           "date": "2020-11-23",
-          "deaths": 12923,
+          "deaths": 12934,
           "recovered": 0
         }
       },
