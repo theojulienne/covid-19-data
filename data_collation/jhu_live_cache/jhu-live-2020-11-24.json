@@ -1615,7 +1615,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 77104,
+          "confirmed": 77817,
           "date": "2020-11-24",
           "deaths": 1195,
           "recovered": 0
@@ -1655,9 +1655,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 99820,
+          "confirmed": 101639,
           "date": "2020-11-24",
-          "deaths": 4470,
+          "deaths": 4509,
           "recovered": 0
         }
       },
@@ -1687,9 +1687,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 436588,
+          "confirmed": 439330,
           "date": "2020-11-24",
-          "deaths": 28860,
+          "deaths": 28866,
           "recovered": 0
         }
       },
@@ -1735,7 +1735,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 119566,
+          "confirmed": 121364,
           "date": "2020-11-24",
           "deaths": 503,
           "recovered": 0
