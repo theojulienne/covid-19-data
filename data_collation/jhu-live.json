@@ -587,10 +587,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 57309,
+          "confirmed": 58924,
           "date": "2020-11-24",
-          "deaths": 456,
-          "recovered": 36876
+          "deaths": 492,
+          "recovered": 37097
         }
       },
       "Hessen": {
@@ -619,10 +619,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 39275,
+          "confirmed": 39943,
           "date": "2020-11-24",
-          "deaths": 434,
-          "recovered": 22744
+          "deaths": 452,
+          "recovered": 23389
         }
       },
       "Sachsen": {
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 93006,
+      "confirmed": 95137,
       "date": "2020-11-24",
-      "deaths": 1714,
+      "deaths": 1815,
       "recovered": 23074
     }
   },
@@ -1001,10 +1001,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 188410,
+      "confirmed": 192996,
       "date": "2020-11-24",
-      "deaths": 2302,
-      "recovered": 120014
+      "deaths": 2380,
+      "recovered": 125433
     }
   },
   "Kazakhstan": {
@@ -1020,7 +1020,7 @@
       "confirmed": 78512,
       "date": "2020-11-24",
       "deaths": 1409,
-      "recovered": 51903
+      "recovered": 52709
     }
   },
   "Kuwait": {
@@ -1149,10 +1149,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 98418,
+      "confirmed": 99633,
       "date": "2020-11-24",
-      "deaths": 2169,
-      "recovered": 80882
+      "deaths": 2188,
+      "recovered": 82335
     }
   },
   "Morocco": {
@@ -1287,33 +1287,33 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45870,
+          "confirmed": 45882,
           "date": "2020-11-24",
-          "deaths": 1519,
+          "deaths": 1521,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 39978,
+          "confirmed": 40022,
           "date": "2020-11-24",
-          "deaths": 1887,
+          "deaths": 1890,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 424952,
+          "confirmed": 425322,
           "date": "2020-11-24",
-          "deaths": 15977,
+          "deaths": 15997,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 40160,
+          "confirmed": 40170,
           "date": "2020-11-24",
-          "deaths": 2080,
+          "deaths": 2082,
           "recovered": 0
         }
       }
@@ -1432,7 +1432,7 @@
       "confirmed": 58183,
       "date": "2020-11-24",
       "deaths": 28,
-      "recovered": 58071
+      "recovered": 58079
     }
   },
   "Slovakia": {
@@ -1679,9 +1679,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 46954,
+          "confirmed": 47884,
           "date": "2020-11-24",
-          "deaths": 946,
+          "deaths": 965,
           "recovered": 0
         }
       },
@@ -1815,33 +1815,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1314888,
+          "confirmed": 1324742,
           "date": "2020-11-24",
-          "deaths": 48406,
+          "deaths": 48941,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 50064,
+          "confirmed": 50143,
           "date": "2020-11-24",
-          "deaths": 936,
+          "deaths": 947,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 89310,
+          "confirmed": 90081,
           "date": "2020-11-24",
-          "deaths": 3503,
+          "deaths": 3544,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 73233,
+          "confirmed": 73828,
           "date": "2020-11-24",
-          "deaths": 2385,
+          "deaths": 2406,
           "recovered": 0
         }
       }
@@ -1849,10 +1849,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 71920,
+      "confirmed": 71985,
       "date": "2020-11-24",
       "deaths": 604,
-      "recovered": 69118
+      "recovered": 69240
     }
   },
   "Venezuela": {
