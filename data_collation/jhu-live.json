@@ -574,14 +574,14 @@
           "confirmed": 134819,
           "date": "2020-11-24",
           "deaths": 2496,
-          "recovered": 89210
+          "recovered": 91279
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 183507,
+          "confirmed": 185803,
           "date": "2020-11-24",
-          "deaths": 3440,
+          "deaths": 3490,
           "recovered": 126063
         }
       },
@@ -590,36 +590,36 @@
           "confirmed": 57309,
           "date": "2020-11-24",
           "deaths": 456,
-          "recovered": 35963
+          "recovered": 36876
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 76341,
+          "confirmed": 77897,
           "date": "2020-11-24",
-          "deaths": 1033,
+          "deaths": 1071,
           "recovered": 48143
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 64401,
+          "confirmed": 64504,
           "date": "2020-11-24",
-          "deaths": 1019,
+          "deaths": 1022,
           "recovered": 47137
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 233020,
+          "confirmed": 236806,
           "date": "2020-11-24",
-          "deaths": 2977,
+          "deaths": 3047,
           "recovered": 158342
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 39250,
+          "confirmed": 39275,
           "date": "2020-11-24",
           "deaths": 434,
           "recovered": 22744
@@ -627,9 +627,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 44717,
+          "confirmed": 44927,
           "date": "2020-11-24",
-          "deaths": 678,
+          "deaths": 682,
           "recovered": 27590
         }
       }
@@ -661,10 +661,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 104915,
+      "confirmed": 105211,
       "date": "2020-11-24",
-      "deaths": 2859,
-      "recovered": 46475
+      "deaths": 2869,
+      "recovered": 46616
     }
   },
   "Hungary": {
