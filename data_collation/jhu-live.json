@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1374631,
+      "confirmed": 1381795,
       "date": "2020-11-24",
-      "deaths": 37122,
-      "recovered": 1203800
+      "deaths": 37432,
+      "recovered": 1210634
     }
   },
   "Armenia": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 85886,
+      "confirmed": 86016,
       "date": "2020-11-24",
-      "deaths": 339,
-      "recovered": 84017
+      "deaths": 340,
+      "recovered": 84166
     }
   },
   "Bangladesh": {
@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 330796,
+      "confirmed": 330935,
       "date": "2020-11-24",
-      "deaths": 2821,
-      "recovered": 319017
+      "deaths": 2822,
+      "recovered": 319086
     }
   },
   "Italy": {
@@ -1567,7 +1567,7 @@
     "live": {
       "confirmed": 304593,
       "date": "2020-11-24",
-      "deaths": 4295,
+      "deaths": 4308,
       "recovered": 211500
     }
   },
@@ -1599,9 +1599,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 723856,
+          "confirmed": 724693,
           "date": "2020-11-24",
-          "deaths": 12965,
+          "deaths": 12967,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 42437,
+          "confirmed": 42863,
           "date": "2020-11-24",
-          "deaths": 2391,
+          "deaths": 2394,
           "recovered": 0
         }
       },
@@ -1719,9 +1719,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 86591,
+          "confirmed": 86684,
           "date": "2020-11-24",
-          "deaths": 1044,
+          "deaths": 1054,
           "recovered": 0
         }
       },
