@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2144942,
+      "confirmed": 2154097,
       "date": "2020-11-24",
-      "deaths": 48897,
-      "recovered": 130633
+      "deaths": 49902,
+      "recovered": 132720
     }
   },
   "Georgia": {
@@ -795,14 +795,6 @@
           "date": "2020-11-24",
           "deaths": 1657,
           "recovered": 306726
-        }
-      },
-      "Puducherry": {
-        "live": {
-          "confirmed": 36718,
-          "date": "2020-11-24",
-          "deaths": 609,
-          "recovered": 35582
         }
       },
       "Punjab": {
@@ -1581,10 +1573,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 89196,
+      "confirmed": 90213,
       "date": "2020-11-24",
-      "deaths": 2862,
-      "recovered": 63846
+      "deaths": 2935,
+      "recovered": 65303
     }
   },
   "Turkey": {
@@ -1599,9 +1591,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 191503,
+          "confirmed": 231396,
           "date": "2020-11-24",
-          "deaths": 3896,
+          "deaths": 4601,
           "recovered": 0
         }
       },
@@ -1687,9 +1679,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 106033,
+          "confirmed": 108252,
           "date": "2020-11-24",
-          "deaths": 1691,
+          "deaths": 1705,
           "recovered": 0
         }
       },
@@ -1711,17 +1703,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 49267,
+          "confirmed": 50231,
           "date": "2020-11-24",
-          "deaths": 665,
+          "deaths": 667,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 61498,
+          "confirmed": 62620,
           "date": "2020-11-24",
-          "deaths": 1953,
+          "deaths": 1960,
           "recovered": 0
         }
       },
