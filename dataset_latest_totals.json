@@ -1817,19 +1817,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 323741,
+        "confirmed": 324755,
         "deaths": 2732,
-        "recovered": 313380
+        "recovered": 314093
       },
       "back_2week": {
-        "confirmed": 319241,
+        "confirmed": 320184,
         "deaths": 2674,
-        "recovered": 308563
+        "recovered": 309424
       },
       "latest": {
-        "confirmed": 328918,
+        "confirmed": 329998,
         "deaths": 2799,
-        "recovered": 317887
+        "recovered": 318601
       }
     },
     "ITA": {
@@ -1941,14 +1941,14 @@
         "recovered": 57760
       },
       "back_2week": {
-        "confirmed": 62819,
-        "deaths": 1177,
-        "recovered": 53952
+        "confirmed": 63390,
+        "deaths": 1182,
+        "recovered": 54358
       },
       "latest": {
-        "confirmed": 69581,
-        "deaths": 1231,
-        "recovered": 60811
+        "confirmed": 69885,
+        "deaths": 1237,
+        "recovered": 61160
       }
     },
     "KHM": {
@@ -2987,18 +2987,18 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 36358,
-        "deaths": 1044,
-        "recovered": 32721
+        "confirmed": 36669,
+        "deaths": 1047,
+        "recovered": 33064
       },
       "back_2week": {
         "confirmed": 35145,
-        "deaths": 1010,
+        "deaths": 1014,
         "recovered": 31172
       },
       "latest": {
         "confirmed": 37562,
-        "deaths": 1075,
+        "deaths": 1081,
         "recovered": 34297
       }
     },
@@ -3774,19 +3774,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 70243,
+        "confirmed": 70381,
         "deaths": 598,
-        "recovered": 67526
+        "recovered": 67655
       },
       "back_2week": {
-        "confirmed": 68730,
+        "confirmed": 69027,
         "deaths": 585,
-        "recovered": 65971
+        "recovered": 66194
       },
       "latest": {
-        "confirmed": 71617,
+        "confirmed": 71774,
         "deaths": 603,
-        "recovered": 68827
+        "recovered": 69054
       }
     },
     "VAT": {
