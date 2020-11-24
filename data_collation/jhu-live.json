@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 45278,
+      "confirmed": 45280,
       "date": "2020-11-24",
       "deaths": 1712,
       "recovered": 36122
@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 80553,
+      "confirmed": 81739,
       "date": "2020-11-24",
-      "deaths": 2342,
-      "recovered": 45760
+      "deaths": 2394,
+      "recovered": 47525
     }
   },
   "Brazil": {
@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 71654,
+      "confirmed": 73021,
       "date": "2020-11-24",
-      "deaths": 789,
-      "recovered": 56032
+      "deaths": 797,
+      "recovered": 57075
     }
   },
   "Dominican Republic": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 537457,
+      "confirmed": 539749,
       "date": "2020-11-24",
-      "deaths": 11996,
-      "recovered": 467654
+      "deaths": 12031,
+      "recovered": 469784
     }
   },
   "Ireland": {
@@ -994,7 +994,7 @@
           "confirmed": 38246,
           "date": "2020-11-24",
           "deaths": 468,
-          "recovered": 33383
+          "recovered": 33595
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 140393,
+      "confirmed": 140795,
       "date": "2020-11-24",
-      "deaths": 868,
-      "recovered": 132848
+      "deaths": 870,
+      "recovered": 133407
     }
   },
   "Kyrgyzstan": {
@@ -1175,41 +1175,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 48305,
+          "confirmed": 48777,
           "date": "2020-11-24",
-          "deaths": 1010,
+          "deaths": 1016,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 77461,
+          "confirmed": 78130,
           "date": "2020-11-24",
-          "deaths": 1982,
+          "deaths": 1994,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 89161,
+          "confirmed": 89798,
           "date": "2020-11-24",
-          "deaths": 1233,
+          "deaths": 1245,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 41374,
+          "confirmed": 41659,
           "date": "2020-11-24",
-          "deaths": 645,
+          "deaths": 651,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 139567,
+          "confirmed": 140403,
           "date": "2020-11-24",
-          "deaths": 2186,
+          "deaths": 2222,
           "recovered": 0
         }
       }
@@ -1413,10 +1413,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 355489,
+      "confirmed": 355741,
       "date": "2020-11-24",
-      "deaths": 5796,
-      "recovered": 343816
+      "deaths": 5811,
+      "recovered": 344311
     }
   },
   "Serbia": {
@@ -1555,17 +1555,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 59714,
+          "confirmed": 65736,
           "date": "2020-11-24",
-          "deaths": 2605,
+          "deaths": 2631,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 37147,
+          "confirmed": 39278,
           "date": "2020-11-24",
-          "deaths": 941,
+          "deaths": 944,
           "recovered": 0
         }
       }
@@ -1849,7 +1849,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 71847,
+      "confirmed": 71920,
       "date": "2020-11-24",
       "deaths": 604,
       "recovered": 69118
