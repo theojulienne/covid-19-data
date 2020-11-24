@@ -481,10 +481,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 129418,
+      "confirmed": 132295,
       "date": "2020-11-24",
-      "deaths": 1608,
-      "recovered": 79372
+      "deaths": 1641,
+      "recovered": 81336
     }
   },
   "Croatia": {
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 494104,
+      "confirmed": 496638,
       "date": "2020-11-24",
-      "deaths": 7334,
-      "recovered": 398658
+      "deaths": 7360,
+      "recovered": 405982
     }
   },
   "Denmark": {
@@ -1269,10 +1269,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 154783,
+      "confirmed": 155658,
       "date": "2020-11-24",
-      "deaths": 2957,
-      "recovered": 135962
+      "deaths": 2973,
+      "recovered": 137004
     }
   },
   "Paraguay": {
@@ -1751,9 +1751,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 37631,
+          "confirmed": 39634,
           "date": "2020-11-24",
-          "deaths": 847,
+          "deaths": 859,
           "recovered": 0
         }
       },
