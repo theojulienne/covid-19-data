@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 65316,
+          "confirmed": 65509,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 74909,
+          "confirmed": 75004,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 51500,
+          "confirmed": 51716,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 42636,
+          "confirmed": 42715,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 89810,
+          "confirmed": 89991,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 89972,
+          "confirmed": 90044,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 42414,
+          "confirmed": 42510,
           "date": "2020-11-24",
           "deaths": 0,
           "recovered": 0
@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 203968,
           "date": "2020-11-24",
-          "deaths": 3840,
-          "recovered": 189418
+          "deaths": 3868,
+          "recovered": 190493
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 76193,
           "date": "2020-11-24",
-          "deaths": 3182,
-          "recovered": 71590
+          "deaths": 3188,
+          "recovered": 71772
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 359916,
           "date": "2020-11-24",
-          "deaths": 8285,
-          "recovered": 329989
+          "deaths": 8327,
+          "recovered": 332620
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 49876,
           "date": "2020-11-24",
-          "deaths": 1368,
-          "recovered": 45783
+          "deaths": 1376,
+          "recovered": 46089
         }
       },
       "Santander": {
         "live": {
           "confirmed": 50419,
           "date": "2020-11-24",
-          "deaths": 1930,
-          "recovered": 45153
+          "deaths": 1938,
+          "recovered": 45537
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 102508,
           "date": "2020-11-24",
-          "deaths": 3287,
-          "recovered": 92222
+          "deaths": 3313,
+          "recovered": 93030
         }
       }
     }
@@ -1607,7 +1607,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 718661,
+          "confirmed": 719827,
           "date": "2020-11-24",
           "deaths": 12955,
           "recovered": 0
@@ -1857,10 +1857,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 99835,
+      "confirmed": 100143,
       "date": "2020-11-24",
-      "deaths": 871,
-      "recovered": 94355
+      "deaths": 873,
+      "recovered": 94985
     }
   },
   "West Bank and Gaza": {

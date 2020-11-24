@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 295131,
+        "confirmed": 295139,
         "deaths": 10947,
         "recovered": 236870
       },
       "back_2week": {
-        "confirmed": 263220,
+        "confirmed": 263221,
         "deaths": 10547,
         "recovered": 216338
       },
       "latest": {
-        "confirmed": 329084,
+        "confirmed": 329191,
         "deaths": 11455,
         "recovered": 265568
       },
@@ -621,6 +621,10 @@
         "Nova Scotia": {
           "confirmed": 1168,
           "deaths": 65
+        },
+        "Nunavut": {
+          "confirmed": 107,
+          "deaths": 0
         },
         "Ontario": {
           "confirmed": 105860,
