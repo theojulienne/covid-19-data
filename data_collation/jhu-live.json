@@ -513,10 +513,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 138829,
+      "confirmed": 139111,
       "date": "2020-11-24",
-      "deaths": 2311,
-      "recovered": 112882
+      "deaths": 2313,
+      "recovered": 113134
     }
   },
   "Ecuador": {
@@ -627,10 +627,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 44927,
+          "confirmed": 46280,
           "date": "2020-11-24",
-          "deaths": 682,
-          "recovered": 27590
+          "deaths": 706,
+          "recovered": 28820
         }
       }
     }
@@ -653,10 +653,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 118722,
+      "confirmed": 119349,
       "date": "2020-11-24",
-      "deaths": 4092,
-      "recovered": 107819
+      "deaths": 4099,
+      "recovered": 108338
     }
   },
   "Honduras": {
@@ -1017,9 +1017,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 77785,
+      "confirmed": 78512,
       "date": "2020-11-24",
-      "deaths": 1392,
+      "deaths": 1409,
       "recovered": 51903
     }
   },
@@ -1337,10 +1337,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 264802,
+      "confirmed": 268721,
       "date": "2020-11-24",
-      "deaths": 3971,
-      "recovered": 176827
+      "deaths": 4056,
+      "recovered": 184233
     }
   },
   "Qatar": {
@@ -1647,9 +1647,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 38985,
+          "confirmed": 39297,
           "date": "2020-11-24",
-          "deaths": 907,
+          "deaths": 909,
           "recovered": 0
         }
       },
