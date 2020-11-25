@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 331179,
+      "confirmed": 331299,
       "date": "2020-11-25",
-      "deaths": 2822,
-      "recovered": 319293
+      "deaths": 2826,
+      "recovered": 319300
     }
   },
   "Italy": {
@@ -1321,9 +1321,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 909066,
+      "confirmed": 924422,
       "date": "2020-11-25",
-      "deaths": 14314,
+      "deaths": 14988,
       "recovered": 469527
     }
   },
@@ -1429,18 +1429,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 97493,
+      "confirmed": 99304,
       "date": "2020-11-25",
-      "deaths": 709,
-      "recovered": 50738
+      "deaths": 732,
+      "recovered": 53547
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 67080,
+      "confirmed": 69306,
       "date": "2020-11-25",
-      "deaths": 1156,
-      "recovered": 45587
+      "deaths": 1199,
+      "recovered": 47770
     }
   },
   "South Africa": {
