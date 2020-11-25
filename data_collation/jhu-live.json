@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 77000,
+      "confirmed": 78025,
       "date": "2020-11-25",
-      "deaths": 2309,
-      "recovered": 50070
+      "deaths": 2329,
+      "recovered": 50712
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 98927,
+      "confirmed": 102396,
       "date": "2020-11-25",
-      "deaths": 1194,
-      "recovered": 65734
+      "deaths": 1224,
+      "recovered": 66963
     }
   },
   "Bahrain": {
@@ -395,9 +395,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 134330,
+          "confirmed": 135430,
           "date": "2020-11-25",
-          "deaths": 6887,
+          "deaths": 6915,
           "recovered": 116624
         }
       }
@@ -587,10 +587,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 58924,
+          "confirmed": 60554,
           "date": "2020-11-25",
-          "deaths": 492,
-          "recovered": 38117
+          "deaths": 508,
+          "recovered": 38449
         }
       },
       "Hessen": {
@@ -637,34 +637,34 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 51184,
+      "confirmed": 51225,
       "date": "2020-11-25",
       "deaths": 323,
-      "recovered": 50029
+      "recovered": 50127
     }
   },
   "Greece": {
     "live": {
-      "confirmed": 95137,
+      "confirmed": 97288,
       "date": "2020-11-25",
-      "deaths": 1815,
+      "deaths": 1902,
       "recovered": 23074
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 119349,
+      "confirmed": 119989,
       "date": "2020-11-25",
-      "deaths": 4099,
-      "recovered": 108338
+      "deaths": 4107,
+      "recovered": 108854
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 105211,
+      "confirmed": 105572,
       "date": "2020-11-25",
-      "deaths": 2869,
-      "recovered": 46616
+      "deaths": 2877,
+      "recovered": 46821
     }
   },
   "Hungary": {
@@ -1141,10 +1141,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 99633,
+      "confirmed": 101203,
       "date": "2020-11-25",
-      "deaths": 2188,
-      "recovered": 82335
+      "deaths": 2209,
+      "recovered": 83789
     }
   },
   "Morocco": {
@@ -1841,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 72039,
+      "confirmed": 72178,
       "date": "2020-11-25",
       "deaths": 605,
-      "recovered": 69302
+      "recovered": 69455
     }
   },
   "Venezuela": {
