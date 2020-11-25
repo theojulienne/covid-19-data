@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 499831,
+      "confirmed": 502534,
       "date": "2020-11-25",
-      "deaths": 7483,
-      "recovered": 406726
+      "deaths": 7499,
+      "recovered": 416832
     }
   },
   "Denmark": {
@@ -1261,10 +1261,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 155658,
+      "confirmed": 156930,
       "date": "2020-11-25",
-      "deaths": 2973,
-      "recovered": 137004
+      "deaths": 2986,
+      "recovered": 138007
     }
   },
   "Paraguay": {
@@ -1591,17 +1591,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 231396,
+          "confirmed": 194410,
           "date": "2020-11-25",
-          "deaths": 4601,
+          "deaths": 3922,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 728058,
+          "confirmed": 729602,
           "date": "2020-11-25",
-          "deaths": 13012,
+          "deaths": 13028,
           "recovered": 0
         }
       },
@@ -1727,9 +1727,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 601893,
+          "confirmed": 648423,
           "date": "2020-11-25",
-          "deaths": 9932,
+          "deaths": 10475,
           "recovered": 0
         }
       },
