@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2154097,
+      "confirmed": 2169336,
       "date": "2020-11-25",
-      "deaths": 49902,
-      "recovered": 132720
+      "deaths": 50271,
+      "recovered": 134593
     }
   },
   "Georgia": {
@@ -881,9 +881,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 70930,
+      "confirmed": 71187,
       "date": "2020-11-25",
-      "deaths": 2028,
+      "deaths": 2033,
       "recovered": 23364
     }
   },
@@ -1607,9 +1607,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 536736,
+          "confirmed": 541400,
           "date": "2020-11-25",
-          "deaths": 9179,
+          "deaths": 9218,
           "recovered": 0
         }
       },
@@ -1679,15 +1679,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 108252,
+          "confirmed": 109827,
           "date": "2020-11-25",
-          "deaths": 1705,
+          "deaths": 1719,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 439330,
+          "confirmed": 442352,
           "date": "2020-11-25",
           "deaths": 28874,
           "recovered": 0
@@ -1703,9 +1703,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 50231,
+          "confirmed": 51161,
           "date": "2020-11-25",
-          "deaths": 667,
+          "deaths": 671,
           "recovered": 0
         }
       },
@@ -1721,7 +1721,7 @@
         "live": {
           "confirmed": 62620,
           "date": "2020-11-25",
-          "deaths": 1960,
+          "deaths": 1968,
           "recovered": 0
         }
       },
@@ -1735,7 +1735,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 613072,
+          "confirmed": 613835,
           "date": "2020-11-25",
           "deaths": 10001,
           "recovered": 0
