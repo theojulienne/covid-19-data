@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 331678,
+      "confirmed": 331915,
       "date": "2020-11-25",
       "deaths": 2826,
-      "recovered": 319842
+      "recovered": 319921
     }
   },
   "Italy": {
@@ -1445,9 +1445,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 772252,
+      "confirmed": 775502,
       "date": "2020-11-25",
-      "deaths": 21083,
+      "deaths": 21201,
       "recovered": 716444
     }
   },
@@ -1573,10 +1573,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 90213,
+      "confirmed": 91307,
       "date": "2020-11-25",
-      "deaths": 2935,
-      "recovered": 65303
+      "deaths": 2983,
+      "recovered": 66459
     }
   },
   "Turkey": {
@@ -1591,9 +1591,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 194410,
+          "confirmed": 234367,
           "date": "2020-11-25",
-          "deaths": 3922,
+          "deaths": 4606,
           "recovered": 0
         }
       },
@@ -1709,14 +1709,6 @@
           "recovered": 0
         }
       },
-      "Oklahoma": {
-        "live": {
-          "confirmed": 37441,
-          "date": "2020-11-25",
-          "deaths": 285,
-          "recovered": 0
-        }
-      },
       "Pennsylvania": {
         "live": {
           "confirmed": 63862,
@@ -1737,7 +1729,7 @@
         "live": {
           "confirmed": 616505,
           "date": "2020-11-25",
-          "deaths": 10002,
+          "deaths": 10065,
           "recovered": 0
         }
       },

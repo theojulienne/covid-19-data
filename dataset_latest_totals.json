@@ -3297,19 +3297,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 81003,
-        "deaths": 2396,
-        "recovered": 55551
+        "confirmed": 81723,
+        "deaths": 2445,
+        "recovered": 56748
       },
       "back_2week": {
-        "confirmed": 71569,
-        "deaths": 1920,
+        "confirmed": 72993,
+        "deaths": 2006,
         "recovered": 48103
       },
       "latest": {
-        "confirmed": 89196,
-        "deaths": 2862,
-        "recovered": 63846
+        "confirmed": 90213,
+        "deaths": 2935,
+        "recovered": 65303
       }
     },
     "TUR": {
@@ -3897,18 +3897,18 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 752269,
-        "deaths": 20314,
+        "confirmed": 754256,
+        "deaths": 20432,
         "recovered": 695496
       },
       "back_2week": {
-        "confirmed": 738525,
-        "deaths": 19845,
+        "confirmed": 740254,
+        "deaths": 19951,
         "recovered": 680726
       },
       "latest": {
-        "confirmed": 769759,
-        "deaths": 20968,
+        "confirmed": 772252,
+        "deaths": 21083,
         "recovered": 711195
       }
     },
