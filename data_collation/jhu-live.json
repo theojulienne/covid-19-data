@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 73021,
+      "confirmed": 74204,
       "date": "2020-11-25",
-      "deaths": 797,
-      "recovered": 57075
+      "deaths": 802,
+      "recovered": 58148
     }
   },
   "Dominican Republic": {
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 38647,
           "date": "2020-11-25",
-          "deaths": 468,
+          "deaths": 471,
           "recovered": 33964
         }
       }
@@ -1167,41 +1167,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 48777,
+          "confirmed": 49336,
           "date": "2020-11-25",
-          "deaths": 1016,
+          "deaths": 1025,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 78130,
+          "confirmed": 79007,
           "date": "2020-11-25",
-          "deaths": 1994,
+          "deaths": 2006,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 89798,
+          "confirmed": 90523,
           "date": "2020-11-25",
-          "deaths": 1245,
+          "deaths": 1250,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 41659,
+          "confirmed": 42039,
           "date": "2020-11-25",
-          "deaths": 651,
+          "deaths": 654,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 140403,
+          "confirmed": 141766,
           "date": "2020-11-25",
-          "deaths": 2222,
+          "deaths": 2253,
           "recovered": 0
         }
       }
@@ -1405,10 +1405,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 355741,
+      "confirmed": 356067,
       "date": "2020-11-25",
-      "deaths": 5811,
-      "recovered": 344311
+      "deaths": 5825,
+      "recovered": 344787
     }
   },
   "Serbia": {
@@ -1547,17 +1547,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 65736,
+          "confirmed": 67060,
           "date": "2020-11-25",
-          "deaths": 2631,
+          "deaths": 2632,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 39278,
+          "confirmed": 39653,
           "date": "2020-11-25",
-          "deaths": 944,
+          "deaths": 955,
           "recovered": 0
         }
       }
@@ -1567,7 +1567,7 @@
     "live": {
       "confirmed": 309469,
       "date": "2020-11-25",
-      "deaths": 4339,
+      "deaths": 4349,
       "recovered": 211500
     }
   },
