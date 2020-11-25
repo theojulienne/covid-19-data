@@ -1217,10 +1217,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 56164,
+      "confirmed": 57451,
       "date": "2020-11-25",
-      "deaths": 1561,
-      "recovered": 33892
+      "deaths": 1600,
+      "recovered": 34970
     }
   },
   "Oman": {
@@ -1599,7 +1599,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 730231,
+          "confirmed": 731765,
           "date": "2020-11-25",
           "deaths": 13034,
           "recovered": 0
@@ -1615,9 +1615,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 77817,
+          "confirmed": 78364,
           "date": "2020-11-25",
-          "deaths": 1195,
+          "deaths": 1202,
           "recovered": 0
         }
       },
@@ -1719,7 +1719,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 62620,
+          "confirmed": 63862,
           "date": "2020-11-25",
           "deaths": 1968,
           "recovered": 0
@@ -1727,9 +1727,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 86684,
+          "confirmed": 87160,
           "date": "2020-11-25",
-          "deaths": 1054,
+          "deaths": 1063,
           "recovered": 0
         }
       },
@@ -1737,15 +1737,15 @@
         "live": {
           "confirmed": 613835,
           "date": "2020-11-25",
-          "deaths": 10001,
+          "deaths": 10002,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 121364,
+          "confirmed": 122370,
           "date": "2020-11-25",
-          "deaths": 503,
+          "deaths": 516,
           "recovered": 0
         }
       },
@@ -1759,9 +1759,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 67986,
+          "confirmed": 69118,
           "date": "2020-11-25",
-          "deaths": 730,
+          "deaths": 735,
           "recovered": 0
         }
       }
