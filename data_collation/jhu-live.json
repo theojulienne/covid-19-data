@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 86185,
       "date": "2020-11-26",
-      "deaths": 340,
+      "deaths": 341,
       "recovered": 84335
     }
   },
@@ -539,7 +539,7 @@
     "live": {
       "confirmed": 37884,
       "date": "2020-11-26",
-      "deaths": 1086,
+      "deaths": 1098,
       "recovered": 34595
     }
   },
@@ -603,10 +603,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 66802,
+          "confirmed": 67797,
           "date": "2020-11-26",
-          "deaths": 1079,
-          "recovered": 49879
+          "deaths": 1093,
+          "recovered": 51259
         }
       },
       "Nordrhein-Westfalen": {
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 39128,
           "date": "2020-11-26",
-          "deaths": 471,
+          "deaths": 474,
           "recovered": 33964
         }
       }
@@ -1057,10 +1057,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 59817,
+      "confirmed": 60752,
       "date": "2020-11-26",
-      "deaths": 345,
-      "recovered": 46501
+      "deaths": 348,
+      "recovered": 49056
     }
   },
   "Mexico": {
@@ -1565,10 +1565,10 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 309469,
+      "confirmed": 313978,
       "date": "2020-11-26",
-      "deaths": 4393,
-      "recovered": 211500
+      "deaths": 4418,
+      "recovered": 218900
     }
   },
   "Tunisia": {
