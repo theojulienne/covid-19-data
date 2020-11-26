@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 45490,
+      "confirmed": 45716,
       "date": "2020-11-26",
-      "deaths": 1725,
-      "recovered": 36145
+      "deaths": 1737,
+      "recovered": 36232
     }
   },
   "Algeria": {
@@ -497,9 +497,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 505215,
+      "confirmed": 507549,
       "date": "2020-11-26",
-      "deaths": 7611,
+      "deaths": 7633,
       "recovered": 417657
     }
   },
@@ -561,10 +561,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 114889,
+      "confirmed": 118690,
       "date": "2020-11-26",
-      "deaths": 1085,
-      "recovered": 95581
+      "deaths": 1124,
+      "recovered": 98781
     }
   },
   "Germany": {
@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 331915,
+      "confirmed": 332317,
       "date": "2020-11-26",
       "deaths": 2826,
-      "recovered": 319921
+      "recovered": 320069
     }
   },
   "Italy": {
@@ -983,7 +983,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 38647,
+          "confirmed": 39128,
           "date": "2020-11-26",
           "deaths": 471,
           "recovered": 33964
@@ -1771,34 +1771,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 52538,
+          "confirmed": 53433,
           "date": "2020-11-26",
-          "deaths": 723,
-          "recovered": 25081
+          "deaths": 730,
+          "recovered": 26921
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 62620,
+          "confirmed": 64019,
           "date": "2020-11-26",
-          "deaths": 1196,
-          "recovered": 21437
+          "deaths": 1227,
+          "recovered": 21942
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 42874,
+          "confirmed": 43611,
           "date": "2020-11-26",
-          "deaths": 1183,
-          "recovered": 27590
+          "deaths": 1195,
+          "recovered": 28062
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 39742,
+          "confirmed": 40535,
           "date": "2020-11-26",
-          "deaths": 529,
-          "recovered": 8769
+          "deaths": 536,
+          "recovered": 8809
         }
       }
     }
