@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 86185,
+      "confirmed": 86347,
       "date": "2020-11-26",
       "deaths": 341,
-      "recovered": 84335
+      "recovered": 84510
     }
   },
   "Bangladesh": {
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 206820,
+          "confirmed": 208147,
           "date": "2020-11-26",
           "deaths": 3924,
           "recovered": 192692
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 76607,
+          "confirmed": 76924,
           "date": "2020-11-26",
           "deaths": 3194,
           "recovered": 72172
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 364377,
+          "confirmed": 367150,
           "date": "2020-11-26",
           "deaths": 8392,
           "recovered": 339032
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 50396,
+          "confirmed": 50835,
           "date": "2020-11-26",
           "deaths": 1389,
           "recovered": 46659
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 51000,
+          "confirmed": 51502,
           "date": "2020-11-26",
           "deaths": 1964,
           "recovered": 45987
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 104372,
+          "confirmed": 105253,
           "date": "2020-11-26",
           "deaths": 3371,
           "recovered": 94511
@@ -1445,9 +1445,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 775502,
+      "confirmed": 778571,
       "date": "2020-11-26",
-      "deaths": 21201,
+      "deaths": 21289,
       "recovered": 716444
     }
   },
