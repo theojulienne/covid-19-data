@@ -513,10 +513,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 139396,
+      "confirmed": 140922,
       "date": "2020-11-26",
-      "deaths": 2315,
-      "recovered": 113263
+      "deaths": 2317,
+      "recovered": 113687
     }
   },
   "Ecuador": {
@@ -579,7 +579,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 193533,
+          "confirmed": 194339,
           "date": "2020-11-26",
           "deaths": 3658,
           "recovered": 136575
@@ -589,8 +589,8 @@
         "live": {
           "confirmed": 60554,
           "date": "2020-11-26",
-          "deaths": 508,
-          "recovered": 39260
+          "deaths": 527,
+          "recovered": 39578
         }
       },
       "Hessen": {
@@ -619,7 +619,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 40847,
+          "confirmed": 41657,
           "date": "2020-11-26",
           "deaths": 491,
           "recovered": 24726
@@ -629,8 +629,8 @@
         "live": {
           "confirmed": 47690,
           "date": "2020-11-26",
-          "deaths": 720,
-          "recovered": 29950
+          "deaths": 785,
+          "recovered": 31270
         }
       }
     }
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 97288,
+      "confirmed": 99306,
       "date": "2020-11-26",
-      "deaths": 1902,
+      "deaths": 2001,
       "recovered": 23074
     }
   },
@@ -899,82 +899,82 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 143010,
+          "confirmed": 146018,
           "date": "2020-11-26",
-          "deaths": 1434,
-          "recovered": 39428
+          "deaths": 1483,
+          "recovered": 41151
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 112700,
+          "confirmed": 114855,
           "date": "2020-11-26",
-          "deaths": 5493,
-          "recovered": 34681
+          "deaths": 5548,
+          "recovered": 37835
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 109592,
+          "confirmed": 111852,
           "date": "2020-11-26",
-          "deaths": 2146,
-          "recovered": 20881
+          "deaths": 2215,
+          "recovered": 22334
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 49381,
+          "confirmed": 49951,
           "date": "2020-11-26",
-          "deaths": 2308,
-          "recovered": 33018
+          "deaths": 2322,
+          "recovered": 34137
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 386958,
+          "confirmed": 392655,
           "date": "2020-11-26",
-          "deaths": 21005,
-          "recovered": 227924
+          "deaths": 21212,
+          "recovered": 231042
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 156253,
+          "confirmed": 159004,
           "date": "2020-11-26",
-          "deaths": 5803,
-          "recovered": 72529
+          "deaths": 5875,
+          "recovered": 74723
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 47565,
+          "confirmed": 49001,
           "date": "2020-11-26",
-          "deaths": 1302,
-          "recovered": 12192
+          "deaths": 1354,
+          "recovered": 12668
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 57001,
+          "confirmed": 58769,
           "date": "2020-11-26",
-          "deaths": 1322,
-          "recovered": 17359
+          "deaths": 1371,
+          "recovered": 18890
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 97976,
+          "confirmed": 99327,
           "date": "2020-11-26",
-          "deaths": 2378,
-          "recovered": 46318
+          "deaths": 2450,
+          "recovered": 48742
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 130076,
+          "confirmed": 134056,
           "date": "2020-11-26",
-          "deaths": 3429,
-          "recovered": 51509
+          "deaths": 3501,
+          "recovered": 55403
         }
       }
     }
@@ -1141,10 +1141,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 101203,
+      "confirmed": 102894,
       "date": "2020-11-26",
-      "deaths": 2209,
-      "recovered": 83789
+      "deaths": 2229,
+      "recovered": 90485
     }
   },
   "Morocco": {
@@ -1329,10 +1329,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 274011,
+      "confirmed": 280394,
       "date": "2020-11-26",
-      "deaths": 4127,
-      "recovered": 189356
+      "deaths": 4209,
+      "recovered": 193944
     }
   },
   "Qatar": {
@@ -1424,7 +1424,7 @@
       "confirmed": 58195,
       "date": "2020-11-26",
       "deaths": 28,
-      "recovered": 58091
+      "recovered": 58104
     }
   },
   "Slovakia": {
@@ -1639,7 +1639,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 39790,
+          "confirmed": 40095,
           "date": "2020-11-26",
           "deaths": 921,
           "recovered": 0
@@ -1815,33 +1815,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1340635,
+          "confirmed": 1355272,
           "date": "2020-11-26",
-          "deaths": 49545,
+          "deaths": 49956,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 50676,
+          "confirmed": 51118,
           "date": "2020-11-26",
-          "deaths": 954,
+          "deaths": 962,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 90961,
+          "confirmed": 92186,
           "date": "2020-11-26",
-          "deaths": 3588,
+          "deaths": 3639,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 74735,
+          "confirmed": 75986,
           "date": "2020-11-26",
-          "deaths": 2446,
+          "deaths": 2474,
           "recovered": 0
         }
       }
