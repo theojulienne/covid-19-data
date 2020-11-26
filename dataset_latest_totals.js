@@ -401,19 +401,19 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 73944,
-        "deaths": 2042,
-        "recovered": 38660
+        "confirmed": 75577,
+        "deaths": 2089,
+        "recovered": 39886
       },
       "back_2week": {
-        "confirmed": 65024,
-        "deaths": 1629,
-        "recovered": 32261
+        "confirmed": 66565,
+        "deaths": 1701,
+        "recovered": 32769
       },
       "latest": {
-        "confirmed": 81739,
-        "deaths": 2394,
-        "recovered": 47525
+        "confirmed": 83328,
+        "deaths": 2429,
+        "recovered": 48210
       }
     },
     "BLR": {
@@ -1110,19 +1110,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 64551,
-        "deaths": 768,
-        "recovered": 49961
+        "confirmed": 65808,
+        "deaths": 770,
+        "recovered": 51217
       },
       "back_2week": {
-        "confirmed": 56958,
-        "deaths": 750,
-        "recovered": 42249
+        "confirmed": 57952,
+        "deaths": 753,
+        "recovered": 43483
       },
       "latest": {
-        "confirmed": 73021,
-        "deaths": 797,
-        "recovered": 57075
+        "confirmed": 74204,
+        "deaths": 802,
+        "recovered": 58148
       },
       "states": {
         "Faroe Islands": {
@@ -1923,19 +1923,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 71729,
-        "deaths": 1302,
-        "recovered": 47262
+        "confirmed": 72686,
+        "deaths": 1313,
+        "recovered": 49878
       },
       "back_2week": {
-        "confirmed": 64588,
-        "deaths": 1154,
-        "recovered": 43095
+        "confirmed": 65804,
+        "deaths": 1180,
+        "recovered": 43626
       },
       "latest": {
-        "confirmed": 78512,
-        "deaths": 1409,
-        "recovered": 52709
+        "confirmed": 79322,
+        "deaths": 1417,
+        "recovered": 52974
       }
     },
     "KGZ": {
