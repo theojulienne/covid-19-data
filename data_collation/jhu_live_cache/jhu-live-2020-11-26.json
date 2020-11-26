@@ -1591,17 +1591,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 234367,
+          "confirmed": 196849,
           "date": "2020-11-26",
-          "deaths": 4606,
+          "deaths": 3927,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 738639,
+          "confirmed": 738946,
           "date": "2020-11-26",
-          "deaths": 13100,
+          "deaths": 13101,
           "recovered": 0
         }
       },
@@ -1674,6 +1674,14 @@
           "confirmed": 48786,
           "date": "2020-11-26",
           "deaths": 971,
+          "recovered": 0
+        }
+      },
+      "Nebraska": {
+        "live": {
+          "confirmed": 37670,
+          "date": "2020-11-26",
+          "deaths": 296,
           "recovered": 0
         }
       },
