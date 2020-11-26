@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 309935,
-        "deaths": 11136,
+        "confirmed": 314453,
+        "deaths": 11238,
         "recovered": 248859
       },
       "back_2week": {
-        "confirmed": 276481,
-        "deaths": 10693,
+        "confirmed": 280465,
+        "deaths": 10748,
         "recovered": 224912
       },
       "latest": {
-        "confirmed": 346013,
-        "deaths": 11676,
+        "confirmed": 350971,
+        "deaths": 11733,
         "recovered": 278191
       },
       "states": {
@@ -627,7 +627,7 @@
           "deaths": 0
         },
         "Ontario": {
-          "confirmed": 110066,
+          "confirmed": 111376,
           "deaths": 3576
         },
         "Prince Edward Island": {
@@ -1617,19 +1617,19 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 115730,
-        "deaths": 3947,
-        "recovered": 105355
+        "confirmed": 116381,
+        "deaths": 4008,
+        "recovered": 105708
       },
       "back_2week": {
-        "confirmed": 112129,
-        "deaths": 3832,
-        "recovered": 102140
+        "confirmed": 112811,
+        "deaths": 3845,
+        "recovered": 102643
       },
       "latest": {
-        "confirmed": 119349,
-        "deaths": 4099,
-        "recovered": 108338
+        "confirmed": 119989,
+        "deaths": 4107,
+        "recovered": 108854
       }
     },
     "GUY": {
@@ -1872,19 +1872,19 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 155993,
-        "deaths": 1909,
-        "recovered": 90267
+        "confirmed": 163926,
+        "deaths": 1969,
+        "recovered": 94896
       },
       "back_2week": {
-        "confirmed": 120982,
-        "deaths": 1386,
-        "recovered": 9249
+        "confirmed": 126401,
+        "deaths": 1467,
+        "recovered": 9416
       },
       "latest": {
-        "confirmed": 192996,
-        "deaths": 2380,
-        "recovered": 125433
+        "confirmed": 198021,
+        "deaths": 2442,
+        "recovered": 131181
       }
     },
     "JPN": {
