@@ -555,8 +555,8 @@
     "live": {
       "confirmed": 2169336,
       "date": "2020-11-26",
-      "deaths": 50271,
-      "recovered": 134593
+      "deaths": 50610,
+      "recovered": 136277
     }
   },
   "Georgia": {
@@ -571,10 +571,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 139768,
+          "confirmed": 142868,
           "date": "2020-11-26",
-          "deaths": 2580,
-          "recovered": 93930
+          "deaths": 2625,
+          "recovered": 96320
         }
       },
       "Bayern": {
@@ -881,9 +881,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 71187,
+      "confirmed": 71494,
       "date": "2020-11-26",
-      "deaths": 2033,
+      "deaths": 2036,
       "recovered": 23364
     }
   },
@@ -1149,10 +1149,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 336506,
+      "confirmed": 340684,
       "date": "2020-11-26",
-      "deaths": 5539,
-      "recovered": 284496
+      "deaths": 5619,
+      "recovered": 289808
     }
   },
   "Nepal": {
@@ -1623,9 +1623,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 334193,
+          "confirmed": 339642,
           "date": "2020-11-26",
-          "deaths": 7176,
+          "deaths": 7220,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 442352,
           "date": "2020-11-26",
-          "deaths": 28881,
+          "deaths": 28884,
           "recovered": 0
         }
       },
