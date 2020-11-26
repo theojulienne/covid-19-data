@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 112713,
+          "confirmed": 112888,
           "date": "2020-11-26",
-          "deaths": 3592,
-          "recovered": 97438
+          "deaths": 3593,
+          "recovered": 97641
         }
       },
       "Quebec": {
