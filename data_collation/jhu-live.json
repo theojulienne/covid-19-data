@@ -619,7 +619,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 41682,
+          "confirmed": 42645,
           "date": "2020-11-27",
           "deaths": 508,
           "recovered": 25609
@@ -627,7 +627,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 49855,
+          "confirmed": 52214,
           "date": "2020-11-27",
           "deaths": 846,
           "recovered": 32640
@@ -881,9 +881,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 71494,
+      "confirmed": 71699,
       "date": "2020-11-27",
-      "deaths": 2036,
+      "deaths": 2043,
       "recovered": 23364
     }
   },
@@ -1149,10 +1149,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 340684,
+      "confirmed": 345276,
       "date": "2020-11-27",
-      "deaths": 5619,
-      "recovered": 289808
+      "deaths": 5689,
+      "recovered": 294036
     }
   },
   "Nepal": {
@@ -1623,9 +1623,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 339642,
+          "confirmed": 342905,
           "date": "2020-11-27",
-          "deaths": 7220,
+          "deaths": 7253,
           "recovered": 0
         }
       },
@@ -1687,7 +1687,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 111485,
+          "confirmed": 112894,
           "date": "2020-11-27",
           "deaths": 1735,
           "recovered": 0
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 446141,
           "date": "2020-11-27",
-          "deaths": 28898,
+          "deaths": 28905,
           "recovered": 0
         }
       },
