@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2182877,
+      "confirmed": 2195212,
       "date": "2020-11-27",
-      "deaths": 50610,
-      "recovered": 136277
+      "deaths": 51566,
+      "recovered": 137956
     }
   },
   "Georgia": {
@@ -571,10 +571,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 142878,
+          "confirmed": 145607,
           "date": "2020-11-27",
-          "deaths": 2626,
-          "recovered": 96320
+          "deaths": 2670,
+          "recovered": 98910
         }
       },
       "Bayern": {
@@ -1581,7 +1581,7 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 511043,
+      "confirmed": 548244,
       "date": "2020-11-27",
       "deaths": 13191,
       "recovered": 392616
@@ -1599,17 +1599,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 745617,
+          "confirmed": 749736,
           "date": "2020-11-27",
-          "deaths": 13138,
+          "deaths": 13149,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 541400,
+          "confirmed": 550996,
           "date": "2020-11-27",
-          "deaths": 9218,
+          "deaths": 9271,
           "recovered": 0
         }
       },
@@ -1719,9 +1719,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 63862,
+          "confirmed": 65484,
           "date": "2020-11-27",
-          "deaths": 1968,
+          "deaths": 1971,
           "recovered": 0
         }
       },
@@ -1735,9 +1735,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 621224,
+          "confirmed": 621836,
           "date": "2020-11-27",
-          "deaths": 10135,
+          "deaths": 10137,
           "recovered": 0
         }
       },

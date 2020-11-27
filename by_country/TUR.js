@@ -625,7 +625,7 @@ var covid19_dataset_country_tur = {
       460916,
       467730,
       503738,
-      511043
+      548244
     ],
     "deaths": [
       0,
