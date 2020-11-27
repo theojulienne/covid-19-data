@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 112888,
+          "confirmed": 112898,
           "date": "2020-11-27",
           "deaths": 3593,
-          "recovered": 97641
+          "recovered": 97645
         }
       },
       "Quebec": {
@@ -398,7 +398,7 @@
           "confirmed": 136894,
           "date": "2020-11-27",
           "deaths": 6947,
-          "recovered": 117551
+          "recovered": 118491
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 509665,
+      "confirmed": 511520,
       "date": "2020-11-27",
-      "deaths": 7751,
-      "recovered": 425542
+      "deaths": 7779,
+      "recovered": 431874
     }
   },
   "Denmark": {
@@ -1261,10 +1261,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 158532,
+      "confirmed": 160287,
       "date": "2020-11-27",
-      "deaths": 3002,
-      "recovered": 139356
+      "deaths": 3018,
+      "recovered": 140976
     }
   },
   "Paraguay": {
