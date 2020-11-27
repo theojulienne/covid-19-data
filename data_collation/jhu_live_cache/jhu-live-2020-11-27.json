@@ -605,8 +605,8 @@
         "live": {
           "confirmed": 68217,
           "date": "2020-11-27",
-          "deaths": 1104,
-          "recovered": 51259
+          "deaths": 1121,
+          "recovered": 52733
         }
       },
       "Nordrhein-Westfalen": {
@@ -983,10 +983,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 39128,
+          "confirmed": 39698,
           "date": "2020-11-27",
           "deaths": 474,
-          "recovered": 34405
+          "recovered": 34813
         }
       }
     }
@@ -1321,10 +1321,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 941112,
+      "confirmed": 958416,
       "date": "2020-11-27",
-      "deaths": 15568,
-      "recovered": 494869
+      "deaths": 16147,
+      "recovered": 516636
     }
   },
   "Portugal": {
@@ -1429,10 +1429,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 101257,
+      "confirmed": 103106,
       "date": "2020-11-27",
-      "deaths": 749,
-      "recovered": 56378
+      "deaths": 771,
+      "recovered": 59285
     }
   },
   "Slovenia": {
