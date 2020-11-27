@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 114584,
+          "confirmed": 114749,
           "date": "2020-11-27",
-          "deaths": 3613,
-          "recovered": 98900
+          "deaths": 3616,
+          "recovered": 99074
         }
       },
       "Quebec": {
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 208147,
+          "confirmed": 209944,
           "date": "2020-11-27",
           "deaths": 3946,
           "recovered": 193808
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 76924,
+          "confirmed": 77224,
           "date": "2020-11-27",
           "deaths": 3195,
           "recovered": 72342
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 367150,
+          "confirmed": 369722,
           "date": "2020-11-27",
           "deaths": 8421,
           "recovered": 341048
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 50835,
+          "confirmed": 51263,
           "date": "2020-11-27",
           "deaths": 1393,
           "recovered": 46928
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 51502,
+          "confirmed": 52029,
           "date": "2020-11-27",
           "deaths": 1976,
           "recovered": 46279
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 105253,
+          "confirmed": 105872,
           "date": "2020-11-27",
           "deaths": 3392,
           "recovered": 95110
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 114475,
+      "confirmed": 114832,
       "date": "2020-11-27",
-      "deaths": 6596,
-      "recovered": 102268
+      "deaths": 6608,
+      "recovered": 102390
     }
   },
   "Ethiopia": {
@@ -1209,10 +1209,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 58608,
+      "confirmed": 59701,
       "date": "2020-11-27",
-      "deaths": 1630,
-      "recovered": 36064
+      "deaths": 1658,
+      "recovered": 36825
     }
   },
   "Oman": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 43538,
+          "confirmed": 44577,
           "date": "2020-11-27",
-          "deaths": 2401,
+          "deaths": 2406,
           "recovered": 0
         }
       },
