@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 456438,
+      "confirmed": 458711,
       "date": "2020-11-27",
-      "deaths": 6524,
-      "recovered": 371453
+      "deaths": 6544,
+      "recovered": 373676
     }
   },
   "Belarus": {
@@ -535,6 +535,14 @@
       "recovered": 102268
     }
   },
+  "El Salvador": {
+    "live": {
+      "confirmed": 38405,
+      "date": "2020-11-27",
+      "deaths": 1102,
+      "recovered": 35078
+    }
+  },
   "Ethiopia": {
     "live": {
       "confirmed": 107669,
@@ -661,10 +669,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 192047,
+      "confirmed": 198440,
       "date": "2020-11-27",
-      "deaths": 4229,
-      "recovered": 49616
+      "deaths": 4364,
+      "recovered": 52126
     }
   },
   "India": {
@@ -849,10 +857,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 516753,
+      "confirmed": 522581,
       "date": "2020-11-27",
-      "deaths": 16352,
-      "recovered": 433649
+      "deaths": 16521,
+      "recovered": 437456
     }
   },
   "Iran": {
@@ -1583,9 +1591,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 236799,
+          "confirmed": 198822,
           "date": "2020-11-27",
-          "deaths": 4637,
+          "deaths": 3955,
           "recovered": 0
         }
       },
