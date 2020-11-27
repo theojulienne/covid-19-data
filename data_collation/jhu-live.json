@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 130012,
+      "confirmed": 131633,
       "date": "2020-11-27",
-      "deaths": 1128,
-      "recovered": 108769
+      "deaths": 1136,
+      "recovered": 110152
     }
   },
   "Belgium": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 85205,
+      "confirmed": 86633,
       "date": "2020-11-27",
-      "deaths": 1846,
-      "recovered": 64645
+      "deaths": 1865,
+      "recovered": 65972
     }
   },
   "Canada": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 303852,
+          "confirmed": 304181,
           "date": "2020-11-27",
-          "deaths": 10278,
-          "recovered": 291473
+          "deaths": 10296,
+          "recovered": 291670
         }
       }
     }
@@ -579,7 +579,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 197988,
+          "confirmed": 198432,
           "date": "2020-11-27",
           "deaths": 3702,
           "recovered": 140272
@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 544670,
+      "confirmed": 547215,
       "date": "2020-11-27",
-      "deaths": 12125,
-      "recovered": 474376
+      "deaths": 12167,
+      "recovered": 476297
     }
   },
   "Ireland": {
@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 333443,
+      "confirmed": 333557,
       "date": "2020-11-27",
-      "deaths": 2834,
-      "recovered": 321034
+      "deaths": 2836,
+      "recovered": 321035
     }
   },
   "Italy": {
@@ -1041,10 +1041,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 80407,
+      "confirmed": 81273,
       "date": "2020-11-27",
-      "deaths": 1140,
-      "recovered": 51585
+      "deaths": 1153,
+      "recovered": 52299
     }
   },
   "Lithuania": {
@@ -1279,33 +1279,33 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 45909,
+          "confirmed": 46013,
           "date": "2020-11-27",
-          "deaths": 1525,
+          "deaths": 1528,
           "recovered": 0
         }
       },
       "Callao": {
         "live": {
-          "confirmed": 40180,
+          "confirmed": 40416,
           "date": "2020-11-27",
-          "deaths": 1890,
+          "deaths": 1893,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 425948,
+          "confirmed": 427237,
           "date": "2020-11-27",
-          "deaths": 16013,
+          "deaths": 16052,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 40318,
+          "confirmed": 40495,
           "date": "2020-11-27",
-          "deaths": 2084,
+          "deaths": 2090,
           "recovered": 0
         }
       }
@@ -1413,9 +1413,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 148214,
+      "confirmed": 155994,
       "date": "2020-11-27",
-      "deaths": 1366,
+      "deaths": 1423,
       "recovered": 0
     }
   },
@@ -1567,7 +1567,7 @@
     "live": {
       "confirmed": 318290,
       "date": "2020-11-27",
-      "deaths": 4544,
+      "deaths": 4558,
       "recovered": 222100
     }
   },
