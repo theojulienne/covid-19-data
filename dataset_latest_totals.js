@@ -1821,19 +1821,19 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 326331,
+        "confirmed": 327049,
         "deaths": 2739,
-        "recovered": 315318
+        "recovered": 315930
       },
       "back_2week": {
-        "confirmed": 321326,
+        "confirmed": 322159,
         "deaths": 2700,
         "recovered": 310605
       },
       "latest": {
-        "confirmed": 331915,
+        "confirmed": 333084,
         "deaths": 2826,
-        "recovered": 319921
+        "recovered": 320821
       }
     },
     "ITA": {

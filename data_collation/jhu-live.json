@@ -881,10 +881,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 333084,
+      "confirmed": 333443,
       "date": "2020-11-27",
       "deaths": 2834,
-      "recovered": 320821
+      "recovered": 321034
     }
   },
   "Italy": {
@@ -1591,7 +1591,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 745270,
+          "confirmed": 745617,
           "date": "2020-11-27",
           "deaths": 13138,
           "recovered": 0
