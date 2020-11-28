@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 209944,
           "date": "2020-11-28",
-          "deaths": 3946,
-          "recovered": 193808
+          "deaths": 3986,
+          "recovered": 195105
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 77224,
           "date": "2020-11-28",
-          "deaths": 3195,
-          "recovered": 72342
+          "deaths": 3198,
+          "recovered": 72532
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 369722,
           "date": "2020-11-28",
-          "deaths": 8421,
-          "recovered": 341048
+          "deaths": 8449,
+          "recovered": 342957
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 51263,
           "date": "2020-11-28",
-          "deaths": 1393,
-          "recovered": 46928
+          "deaths": 1396,
+          "recovered": 47231
         }
       },
       "Santander": {
         "live": {
           "confirmed": 52029,
           "date": "2020-11-28",
-          "deaths": 1976,
-          "recovered": 46279
+          "deaths": 1988,
+          "recovered": 46657
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 105872,
           "date": "2020-11-28",
-          "deaths": 3392,
-          "recovered": 95110
+          "deaths": 3413,
+          "recovered": 95980
         }
       }
     }
@@ -566,7 +566,7 @@
           "confirmed": 145607,
           "date": "2020-11-28",
           "deaths": 2670,
-          "recovered": 98910
+          "recovered": 100985
         }
       },
       "Bayern": {
@@ -574,7 +574,7 @@
           "confirmed": 198432,
           "date": "2020-11-28",
           "deaths": 3702,
-          "recovered": 140272
+          "recovered": 142800
         }
       },
       "Berlin": {
@@ -582,7 +582,7 @@
           "confirmed": 63064,
           "date": "2020-11-28",
           "deaths": 539,
-          "recovered": 40762
+          "recovered": 41246
         }
       },
       "Hessen": {
@@ -590,7 +590,7 @@
           "confirmed": 83251,
           "date": "2020-11-28",
           "deaths": 1199,
-          "recovered": 54826
+          "recovered": 56180
         }
       },
       "Niedersachsen": {
@@ -598,7 +598,7 @@
           "confirmed": 69234,
           "date": "2020-11-28",
           "deaths": 1121,
-          "recovered": 52733
+          "recovered": 53789
         }
       },
       "Nordrhein-Westfalen": {
@@ -606,7 +606,7 @@
           "confirmed": 250884,
           "date": "2020-11-28",
           "deaths": 3306,
-          "recovered": 178315
+          "recovered": 182205
         }
       },
       "Rheinland-Pfalz": {
@@ -614,7 +614,7 @@
           "confirmed": 42645,
           "date": "2020-11-28",
           "deaths": 508,
-          "recovered": 25609
+          "recovered": 26109
         }
       },
       "Sachsen": {
@@ -993,10 +993,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 129213,
+      "confirmed": 130039,
       "date": "2020-11-28",
       "deaths": 1990,
-      "recovered": 115384
+      "recovered": 116044
     }
   },
   "Kenya": {
@@ -1227,26 +1227,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 46281,
+          "confirmed": 46604,
           "date": "2020-11-28",
-          "deaths": 1346,
-          "recovered": 41200
+          "deaths": 1355,
+          "recovered": 41477
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 117160,
+          "confirmed": 117898,
           "date": "2020-11-28",
-          "deaths": 2945,
-          "recovered": 98191
+          "deaths": 2960,
+          "recovered": 98289
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 168783,
+          "confirmed": 170206,
           "date": "2020-11-28",
-          "deaths": 2885,
-          "recovered": 148313
+          "deaths": 2897,
+          "recovered": 149115
         }
       }
     }
@@ -1671,7 +1671,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 38831,
+          "confirmed": 39133,
           "date": "2020-11-28",
           "deaths": 296,
           "recovered": 0
@@ -1849,10 +1849,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 101215,
+      "confirmed": 101524,
       "date": "2020-11-28",
-      "deaths": 884,
-      "recovered": 96072
+      "deaths": 888,
+      "recovered": 96402
     }
   },
   "West Bank and Gaza": {
