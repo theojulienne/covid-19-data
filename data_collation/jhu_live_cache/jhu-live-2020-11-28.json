@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 114749,
+          "confirmed": 115150,
           "date": "2020-11-28",
-          "deaths": 3616,
-          "recovered": 99074
+          "deaths": 3621,
+          "recovered": 99460
         }
       },
       "Quebec": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 304181,
+          "confirmed": 304601,
           "date": "2020-11-28",
-          "deaths": 10296,
-          "recovered": 291670
+          "deaths": 10308,
+          "recovered": 291943
         }
       }
     }
@@ -985,10 +985,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 207601,
+      "confirmed": 210709,
       "date": "2020-11-28",
-      "deaths": 2570,
-      "recovered": 140400
+      "deaths": 2626,
+      "recovered": 142710
     }
   },
   "Kazakhstan": {
@@ -1001,10 +1001,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 81656,
+      "confirmed": 82605,
       "date": "2020-11-28",
-      "deaths": 1441,
-      "recovered": 54125
+      "deaths": 1445,
+      "recovered": 54399
     }
   },
   "Kuwait": {
@@ -1321,10 +1321,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 285838,
+      "confirmed": 290706,
       "date": "2020-11-28",
-      "deaths": 4276,
-      "recovered": 199446
+      "deaths": 4363,
+      "recovered": 206275
     }
   },
   "Qatar": {
@@ -1633,7 +1633,7 @@
         "live": {
           "confirmed": 40479,
           "date": "2020-11-28",
-          "deaths": 923,
+          "deaths": 925,
           "recovered": 0
         }
       },
