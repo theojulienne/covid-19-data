@@ -398,7 +398,7 @@
           "confirmed": 138163,
           "date": "2020-11-28",
           "deaths": 6984,
-          "recovered": 118491
+          "recovered": 119727
         }
       }
     }
@@ -422,7 +422,7 @@
           "confirmed": 68148,
           "date": "2020-11-28",
           "deaths": 4512,
-          "recovered": 63629
+          "recovered": 63630
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 513675,
+      "confirmed": 515984,
       "date": "2020-11-28",
-      "deaths": 7934,
-      "recovered": 432587
+      "deaths": 7967,
+      "recovered": 425026
     }
   },
   "Denmark": {
@@ -1201,10 +1201,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 66974,
+      "confirmed": 67220,
       "date": "2020-11-28",
-      "deaths": 1169,
-      "recovered": 62585
+      "deaths": 1171,
+      "recovered": 62686
     }
   },
   "North Macedonia": {
@@ -1743,7 +1743,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 41414,
+          "confirmed": 42743,
           "date": "2020-11-28",
           "deaths": 866,
           "recovered": 0
