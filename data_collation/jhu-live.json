@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 115737,
+          "confirmed": 115765,
           "date": "2020-11-28",
-          "deaths": 3623,
-          "recovered": 100011
+          "deaths": 3625,
+          "recovered": 100019
         }
       },
       "Quebec": {
@@ -521,9 +521,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 189534,
+      "confirmed": 190909,
       "date": "2020-11-28",
-      "deaths": 13358,
+      "deaths": 13371,
       "recovered": 164009
     }
   },
@@ -537,18 +537,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 108438,
+      "confirmed": 108930,
       "date": "2020-11-28",
-      "deaths": 1686,
-      "recovered": 67506
+      "deaths": 1695,
+      "recovered": 68250
     }
   },
   "France": {
     "live": {
       "confirmed": 2195191,
       "date": "2020-11-28",
-      "deaths": 51566,
-      "recovered": 137956
+      "deaths": 51779,
+      "recovered": 139178
     }
   },
   "Georgia": {
@@ -873,9 +873,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 71699,
+      "confirmed": 71942,
       "date": "2020-11-28",
-      "deaths": 2043,
+      "deaths": 2050,
       "recovered": 23364
     }
   },
@@ -1615,9 +1615,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 342905,
+          "confirmed": 346238,
           "date": "2020-11-28",
-          "deaths": 7253,
+          "deaths": 7354,
           "recovered": 0
         }
       },
@@ -1689,7 +1689,7 @@
         "live": {
           "confirmed": 450484,
           "date": "2020-11-28",
-          "deaths": 28907,
+          "deaths": 28913,
           "recovered": 0
         }
       },
@@ -1703,9 +1703,17 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 91784,
+          "confirmed": 52652,
           "date": "2020-11-28",
-          "deaths": 1418,
+          "deaths": 672,
+          "recovered": 0
+        }
+      },
+      "Oklahoma": {
+        "live": {
+          "confirmed": 39512,
+          "date": "2020-11-28",
+          "deaths": 290,
           "recovered": 0
         }
       },
