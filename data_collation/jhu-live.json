@@ -563,18 +563,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 145607,
+          "confirmed": 145615,
           "date": "2020-11-28",
-          "deaths": 2670,
-          "recovered": 100985
+          "deaths": 2671,
+          "recovered": 98910
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 198432,
+          "confirmed": 201950,
           "date": "2020-11-28",
-          "deaths": 3702,
-          "recovered": 142800
+          "deaths": 3759,
+          "recovered": 140272
         }
       },
       "Berlin": {
@@ -587,41 +587,41 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 83251,
+          "confirmed": 84845,
           "date": "2020-11-28",
-          "deaths": 1199,
-          "recovered": 56180
+          "deaths": 1232,
+          "recovered": 54826
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 69234,
+          "confirmed": 69948,
           "date": "2020-11-28",
-          "deaths": 1121,
-          "recovered": 53789
+          "deaths": 1140,
+          "recovered": 52733
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 250884,
+          "confirmed": 255115,
           "date": "2020-11-28",
-          "deaths": 3306,
-          "recovered": 182205
+          "deaths": 3380,
+          "recovered": 178315
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 42645,
+          "confirmed": 42670,
           "date": "2020-11-28",
           "deaths": 508,
-          "recovered": 26109
+          "recovered": 25609
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 52214,
+          "confirmed": 52411,
           "date": "2020-11-28",
-          "deaths": 846,
+          "deaths": 858,
           "recovered": 32640
         }
       }
@@ -653,10 +653,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 106681,
+      "confirmed": 107134,
       "date": "2020-11-28",
-      "deaths": 2892,
-      "recovered": 47354
+      "deaths": 2899,
+      "recovered": 47576
     }
   },
   "Hungary": {
