@@ -595,7 +595,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 69948,
+          "confirmed": 70092,
           "date": "2020-11-28",
           "deaths": 1140,
           "recovered": 53789
@@ -613,8 +613,8 @@
         "live": {
           "confirmed": 42670,
           "date": "2020-11-28",
-          "deaths": 508,
-          "recovered": 25609
+          "deaths": 515,
+          "recovered": 26109
         }
       },
       "Sachsen": {
@@ -857,10 +857,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 922397,
+      "confirmed": 935799,
       "date": "2020-11-28",
-      "deaths": 47095,
-      "recovered": 640065
+      "deaths": 47486,
+      "recovered": 648831
     }
   },
   "Iraq": {
@@ -1049,10 +1049,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 61861,
+      "confirmed": 63176,
       "date": "2020-11-28",
-      "deaths": 350,
-      "recovered": 50204
+      "deaths": 354,
+      "recovered": 51314
     }
   },
   "Mexico": {
@@ -1149,10 +1149,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 229343,
+      "confirmed": 230723,
       "date": "2020-11-28",
-      "deaths": 1435,
-      "recovered": 209435
+      "deaths": 1454,
+      "recovered": 211186
     }
   },
   "Netherlands": {
@@ -1421,18 +1421,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 103106,
+      "confirmed": 104632,
       "date": "2020-11-28",
-      "deaths": 771,
-      "recovered": 59285
+      "deaths": 798,
+      "recovered": 62094
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 72674,
+      "confirmed": 74257,
       "date": "2020-11-28",
-      "deaths": 1293,
-      "recovered": 51121
+      "deaths": 1336,
+      "recovered": 52814
     }
   },
   "South Africa": {
@@ -1857,10 +1857,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 80429,
+      "confirmed": 81890,
       "date": "2020-11-28",
-      "deaths": 689,
-      "recovered": 61960
+      "deaths": 704,
+      "recovered": 62944
     }
   }
 }
