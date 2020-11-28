@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 209944,
+          "confirmed": 211146,
           "date": "2020-11-28",
           "deaths": 3986,
           "recovered": 195105
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 77224,
+          "confirmed": 77561,
           "date": "2020-11-28",
           "deaths": 3198,
           "recovered": 72532
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 369722,
+          "confirmed": 372174,
           "date": "2020-11-28",
           "deaths": 8449,
           "recovered": 342957
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 51263,
+          "confirmed": 51718,
           "date": "2020-11-28",
           "deaths": 1396,
           "recovered": 47231
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 52029,
+          "confirmed": 52455,
           "date": "2020-11-28",
           "deaths": 1988,
           "recovered": 46657
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 105872,
+          "confirmed": 106573,
           "date": "2020-11-28",
           "deaths": 3413,
           "recovered": 95980
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 114832,
+      "confirmed": 115183,
       "date": "2020-11-28",
-      "deaths": 6608,
-      "recovered": 102390
+      "deaths": 6621,
+      "recovered": 102490
     }
   },
   "Ethiopia": {
@@ -563,7 +563,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 145615,
+          "confirmed": 147876,
           "date": "2020-11-28",
           "deaths": 2701,
           "recovered": 100985
@@ -1631,9 +1631,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 44577,
+          "confirmed": 45363,
           "date": "2020-11-28",
-          "deaths": 2406,
+          "deaths": 2409,
           "recovered": 0
         }
       },
