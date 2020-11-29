@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 114025,
+      "confirmed": 118195,
       "date": "2020-11-29",
-      "deaths": 1323,
-      "recovered": 71691
+      "deaths": 1361,
+      "recovered": 73676
     }
   },
   "Bahrain": {
@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 460619,
+      "confirmed": 462407,
       "date": "2020-11-29",
-      "deaths": 6580,
-      "recovered": 375885
+      "deaths": 6609,
+      "recovered": 378172
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 133324,
+      "confirmed": 135008,
       "date": "2020-11-29",
-      "deaths": 1143,
-      "recovered": 111455
+      "deaths": 1151,
+      "recovered": 113375
     }
   },
   "Belgium": {
@@ -581,7 +581,7 @@
         "live": {
           "confirmed": 63064,
           "date": "2020-11-29",
-          "deaths": 539,
+          "deaths": 550,
           "recovered": 41780
         }
       },
@@ -613,8 +613,8 @@
         "live": {
           "confirmed": 43036,
           "date": "2020-11-29",
-          "deaths": 515,
-          "recovered": 26109
+          "deaths": 517,
+          "recovered": 26589
         }
       },
       "Sachsen": {
@@ -857,10 +857,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 935799,
+      "confirmed": 948749,
       "date": "2020-11-29",
-      "deaths": 47486,
-      "recovered": 648831
+      "deaths": 47874,
+      "recovered": 658292
     }
   },
   "Iraq": {
@@ -1033,10 +1033,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 81273,
+      "confirmed": 82430,
       "date": "2020-11-29",
-      "deaths": 1153,
-      "recovered": 52299
+      "deaths": 1166,
+      "recovered": 53266
     }
   },
   "Lithuania": {
@@ -1149,10 +1149,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 230723,
+      "confirmed": 231978,
       "date": "2020-11-29",
-      "deaths": 1454,
-      "recovered": 211186
+      "deaths": 1479,
+      "recovered": 212590
     }
   },
   "Netherlands": {
@@ -1857,10 +1857,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 81890,
+      "confirmed": 83585,
       "date": "2020-11-29",
-      "deaths": 704,
-      "recovered": 62944
+      "deaths": 717,
+      "recovered": 63834
     }
   }
 }
