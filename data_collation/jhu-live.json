@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 78354,
+      "confirmed": 79352,
       "date": "2020-11-29",
-      "deaths": 823,
-      "recovered": 61461
+      "deaths": 829,
+      "recovered": 62514
     }
   },
   "Dominican Republic": {
@@ -629,10 +629,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 51379,
+      "confirmed": 51476,
       "date": "2020-11-29",
       "deaths": 323,
-      "recovered": 50298
+      "recovered": 50358
     }
   },
   "Greece": {
@@ -865,10 +865,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 548821,
+      "confirmed": 550435,
       "date": "2020-11-29",
-      "deaths": 12200,
-      "recovered": 478537
+      "deaths": 12224,
+      "recovered": 480903
     }
   },
   "Ireland": {
@@ -1159,7 +1159,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 50988,
+          "confirmed": 51737,
           "date": "2020-11-29",
           "deaths": 1051,
           "recovered": 0
@@ -1167,33 +1167,33 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 81363,
+          "confirmed": 82310,
           "date": "2020-11-29",
-          "deaths": 2026,
+          "deaths": 2034,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 92843,
+          "confirmed": 93721,
           "date": "2020-11-29",
-          "deaths": 1285,
+          "deaths": 1286,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 43318,
+          "confirmed": 43745,
           "date": "2020-11-29",
-          "deaths": 674,
+          "deaths": 680,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 145193,
+          "confirmed": 146512,
           "date": "2020-11-29",
-          "deaths": 2321,
+          "deaths": 2328,
           "recovered": 0
         }
       }
@@ -1397,10 +1397,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 356911,
+      "confirmed": 357128,
       "date": "2020-11-29",
-      "deaths": 5870,
-      "recovered": 346023
+      "deaths": 5884,
+      "recovered": 346409
     }
   },
   "Serbia": {
