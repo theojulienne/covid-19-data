@@ -1059,65 +1059,73 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 196028,
+          "confirmed": 204448,
           "date": "2020-11-29",
-          "deaths": 13315,
+          "deaths": 17484,
           "recovered": 0
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 40566,
+          "confirmed": 41524,
           "date": "2020-11-29",
-          "deaths": 3202,
+          "deaths": 3286,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 60030,
+          "confirmed": 61473,
           "date": "2020-11-29",
-          "deaths": 3874,
+          "deaths": 3930,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 39889,
+          "confirmed": 40572,
           "date": "2020-11-29",
-          "deaths": 4732,
+          "deaths": 4708,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 109218,
+          "confirmed": 110779,
           "date": "2020-11-29",
-          "deaths": 15442,
+          "deaths": 11867,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 65649,
+          "confirmed": 66875,
           "date": "2020-11-29",
-          "deaths": 4494,
+          "deaths": 4560,
+          "recovered": 0
+        }
+      },
+      "Puebla": {
+        "live": {
+          "confirmed": 39657,
+          "date": "2020-11-29",
+          "deaths": 5151,
           "recovered": 0
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 42286,
+          "confirmed": 42780,
           "date": "2020-11-29",
-          "deaths": 3387,
+          "deaths": 3444,
           "recovered": 0
         }
       },
       "Veracruz": {
         "live": {
-          "confirmed": 39393,
+          "confirmed": 39686,
           "date": "2020-11-29",
-          "deaths": 5532,
+          "deaths": 5535,
           "recovered": 0
         }
       }
@@ -1263,7 +1271,7 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 46115,
+          "confirmed": 46230,
           "date": "2020-11-29",
           "deaths": 1532,
           "recovered": 0
@@ -1271,25 +1279,25 @@
       },
       "Callao": {
         "live": {
-          "confirmed": 40523,
+          "confirmed": 40661,
           "date": "2020-11-29",
-          "deaths": 1897,
+          "deaths": 1901,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 427821,
+          "confirmed": 428482,
           "date": "2020-11-29",
-          "deaths": 16070,
+          "deaths": 16082,
           "recovered": 0
         }
       },
       "Piura": {
         "live": {
-          "confirmed": 40602,
+          "confirmed": 40747,
           "date": "2020-11-29",
-          "deaths": 2095,
+          "deaths": 2096,
           "recovered": 0
         }
       }
@@ -1359,14 +1367,6 @@
           "date": "2020-11-29",
           "deaths": 1141,
           "recovered": 48167
-        }
-      },
-      "Rostov Oblast": {
-        "live": {
-          "confirmed": 39343,
-          "date": "2020-11-29",
-          "deaths": 1296,
-          "recovered": 31915
         }
       },
       "Saint Petersburg": {
@@ -1583,9 +1583,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 764378,
+          "confirmed": 766235,
           "date": "2020-11-29",
-          "deaths": 13210,
+          "deaths": 13211,
           "recovered": 0
         }
       },
