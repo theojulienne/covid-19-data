@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 116517,
+          "confirmed": 116916,
           "date": "2020-11-29",
-          "deaths": 3640,
-          "recovered": 100650
+          "deaths": 3642,
+          "recovered": 100863
         }
       },
       "Quebec": {
@@ -513,10 +513,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 142653,
+      "confirmed": 143473,
       "date": "2020-11-29",
-      "deaths": 2328,
-      "recovered": 114317
+      "deaths": 2330,
+      "recovered": 114818
     }
   },
   "Ecuador": {
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 40797,
           "date": "2020-11-29",
-          "deaths": 925,
+          "deaths": 927,
           "recovered": 0
         }
       },
