@@ -389,8 +389,8 @@
         "live": {
           "confirmed": 117436,
           "date": "2020-11-29",
-          "deaths": 3645,
-          "recovered": 101392
+          "deaths": 3661,
+          "recovered": 102009
         }
       },
       "Quebec": {
@@ -545,7 +545,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 2207771,
+      "confirmed": 2217555,
       "date": "2020-11-29",
       "deaths": 51977,
       "recovered": 138956
@@ -1209,10 +1209,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 60723,
+      "confirmed": 61543,
       "date": "2020-11-29",
-      "deaths": 1699,
-      "recovered": 37505
+      "deaths": 1731,
+      "recovered": 38400
     }
   },
   "Oman": {
@@ -1437,10 +1437,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 785139,
+      "confirmed": 787702,
       "date": "2020-11-29",
-      "deaths": 21439,
-      "recovered": 723347
+      "deaths": 21477,
+      "recovered": 730633
     }
   },
   "Spain": {
@@ -1551,16 +1551,16 @@
     "live": {
       "confirmed": 318290,
       "date": "2020-11-29",
-      "deaths": 4645,
+      "deaths": 4650,
       "recovered": 222100
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 94980,
+      "confirmed": 96251,
       "date": "2020-11-29",
-      "deaths": 3153,
-      "recovered": 69226
+      "deaths": 3219,
+      "recovered": 69624
     }
   },
   "Turkey": {
@@ -1583,7 +1583,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 769328,
+          "confirmed": 770265,
           "date": "2020-11-29",
           "deaths": 13211,
           "recovered": 0
@@ -1599,9 +1599,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 79996,
+          "confirmed": 80324,
           "date": "2020-11-29",
-          "deaths": 1224,
+          "deaths": 1230,
           "recovered": 0
         }
       },
@@ -1719,25 +1719,25 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 90385,
+          "confirmed": 90843,
           "date": "2020-11-29",
-          "deaths": 1078,
+          "deaths": 1080,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 625665,
+          "confirmed": 629273,
           "date": "2020-11-29",
-          "deaths": 10198,
+          "deaths": 10199,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 127293,
+          "confirmed": 128345,
           "date": "2020-11-29",
-          "deaths": 529,
+          "deaths": 533,
           "recovered": 0
         }
       },
@@ -1751,9 +1751,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 71771,
+          "confirmed": 72664,
           "date": "2020-11-29",
-          "deaths": 745,
+          "deaths": 747,
           "recovered": 0
         }
       }
