@@ -661,10 +661,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 204708,
+      "confirmed": 211527,
       "date": "2020-11-29",
-      "deaths": 4516,
-      "recovered": 54021
+      "deaths": 4672,
+      "recovered": 55637
     }
   },
   "India": {
@@ -849,10 +849,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 527999,
+      "confirmed": 534266,
       "date": "2020-11-29",
-      "deaths": 16646,
-      "recovered": 441983
+      "deaths": 16815,
+      "recovered": 445793
     }
   },
   "Iran": {
@@ -1041,10 +1041,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 58212,
+      "confirmed": 60193,
       "date": "2020-11-29",
-      "deaths": 482,
-      "recovered": 14056
+      "deaths": 493,
+      "recovered": 14120
     }
   },
   "Malaysia": {
