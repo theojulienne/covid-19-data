@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 144494,
+      "confirmed": 144592,
       "date": "2020-11-29",
-      "deaths": 8943,
-      "recovered": 121050
+      "deaths": 8949,
+      "recovered": 121280
     }
   },
   "Bosnia and Herzegovina": {
@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 211146,
           "date": "2020-11-29",
-          "deaths": 3986,
-          "recovered": 195105
+          "deaths": 4013,
+          "recovered": 197283
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 77561,
           "date": "2020-11-29",
-          "deaths": 3198,
-          "recovered": 72532
+          "deaths": 3199,
+          "recovered": 72753
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 372174,
           "date": "2020-11-29",
-          "deaths": 8449,
-          "recovered": 342957
+          "deaths": 8477,
+          "recovered": 343622
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 51718,
           "date": "2020-11-29",
-          "deaths": 1396,
-          "recovered": 47231
+          "deaths": 1401,
+          "recovered": 47644
         }
       },
       "Santander": {
         "live": {
           "confirmed": 52455,
           "date": "2020-11-29",
-          "deaths": 1988,
-          "recovered": 46657
+          "deaths": 1997,
+          "recovered": 47048
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 106573,
           "date": "2020-11-29",
-          "deaths": 3413,
-          "recovered": 95980
+          "deaths": 3441,
+          "recovered": 96794
         }
       }
     }
@@ -1719,7 +1719,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 623626,
+          "confirmed": 625287,
           "date": "2020-11-29",
           "deaths": 10198,
           "recovered": 0
@@ -1841,10 +1841,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 101524,
+      "confirmed": 101760,
       "date": "2020-11-29",
-      "deaths": 888,
-      "recovered": 96402
+      "deaths": 892,
+      "recovered": 96652
     }
   },
   "West Bank and Gaza": {
