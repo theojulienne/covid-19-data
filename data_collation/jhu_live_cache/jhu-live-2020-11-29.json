@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1413375,
+      "confirmed": 1418807,
       "date": "2020-11-29",
-      "deaths": 38322,
-      "recovered": 1242877
+      "deaths": 38473,
+      "recovered": 1249843
     }
   },
   "Armenia": {
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 211146,
+          "confirmed": 212758,
           "date": "2020-11-29",
           "deaths": 4013,
           "recovered": 197283
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 77561,
+          "confirmed": 77835,
           "date": "2020-11-29",
           "deaths": 3199,
           "recovered": 72753
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 372174,
+          "confirmed": 374077,
           "date": "2020-11-29",
           "deaths": 8477,
           "recovered": 343622
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 51718,
+          "confirmed": 52110,
           "date": "2020-11-29",
           "deaths": 1401,
           "recovered": 47644
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 52455,
+          "confirmed": 52896,
           "date": "2020-11-29",
           "deaths": 1997,
           "recovered": 47048
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 106573,
+          "confirmed": 107558,
           "date": "2020-11-29",
           "deaths": 3441,
           "recovered": 96794
@@ -881,10 +881,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 335132,
+      "confirmed": 335598,
       "date": "2020-11-29",
-      "deaths": 2854,
-      "recovered": 322327
+      "deaths": 2864,
+      "recovered": 323067
     }
   },
   "Italy": {
@@ -1575,17 +1575,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 203663,
+          "confirmed": 245145,
           "date": "2020-11-29",
-          "deaths": 3974,
+          "deaths": 4668,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 770265,
+          "confirmed": 774883,
           "date": "2020-11-29",
-          "deaths": 13211,
+          "deaths": 13227,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 45363,
+          "confirmed": 45972,
           "date": "2020-11-29",
-          "deaths": 2409,
+          "deaths": 2418,
           "recovered": 0
         }
       },
@@ -1661,14 +1661,6 @@
           "recovered": 0
         }
       },
-      "Nebraska": {
-        "live": {
-          "confirmed": 39555,
-          "date": "2020-11-29",
-          "deaths": 296,
-          "recovered": 0
-        }
-      },
       "Nevada": {
         "live": {
           "confirmed": 115190,
@@ -1681,7 +1673,7 @@
         "live": {
           "confirmed": 453933,
           "date": "2020-11-29",
-          "deaths": 28924,
+          "deaths": 28931,
           "recovered": 0
         }
       },
