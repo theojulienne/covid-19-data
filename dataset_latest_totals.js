@@ -1042,19 +1042,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 487563,
-        "deaths": 7021,
-        "recovered": 389873
+        "confirmed": 490750,
+        "deaths": 7095,
+        "recovered": 394830
       },
       "back_2week": {
-        "confirmed": 454030,
-        "deaths": 5926,
-        "recovered": 316352
+        "confirmed": 458229,
+        "deaths": 6058,
+        "recovered": 322383
       },
       "latest": {
-        "confirmed": 515984,
-        "deaths": 7967,
-        "recovered": 425026
+        "confirmed": 518649,
+        "deaths": 8054,
+        "recovered": 442327
       }
     },
     "DEU": {
@@ -1156,19 +1156,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 72755,
-        "deaths": 2236,
-        "recovered": 47581
+        "confirmed": 73774,
+        "deaths": 2255,
+        "recovered": 48183
       },
       "back_2week": {
-        "confirmed": 65975,
-        "deaths": 2124,
-        "recovered": 43779
+        "confirmed": 66819,
+        "deaths": 2139,
+        "recovered": 44199
       },
       "latest": {
-        "confirmed": 80168,
-        "deaths": 2372,
-        "recovered": 51946
+        "confirmed": 81212,
+        "deaths": 2393,
+        "recovered": 52568
       }
     },
     "ECU": {
@@ -1275,19 +1275,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 104879,
-        "deaths": 1620,
-        "recovered": 65325
+        "confirmed": 105352,
+        "deaths": 1636,
+        "recovered": 65534
       },
       "back_2week": {
-        "confirmed": 101757,
-        "deaths": 1558,
-        "recovered": 63571
+        "confirmed": 102321,
+        "deaths": 1565,
+        "recovered": 63675
       },
       "latest": {
-        "confirmed": 108438,
-        "deaths": 1686,
-        "recovered": 67506
+        "confirmed": 108930,
+        "deaths": 1695,
+        "recovered": 68250
       }
     },
     "FIN": {
@@ -1583,18 +1583,18 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 87812,
-        "deaths": 1419,
+        "confirmed": 90121,
+        "deaths": 1527,
         "recovered": 23074
       },
       "back_2week": {
-        "confirmed": 69675,
-        "deaths": 997,
+        "confirmed": 72510,
+        "deaths": 1035,
         "recovered": 23074
       },
       "latest": {
-        "confirmed": 101287,
-        "deaths": 2102,
+        "confirmed": 103034,
+        "deaths": 2223,
         "recovered": 23074
       }
     },
@@ -2195,19 +2195,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 316260,
-        "deaths": 5182,
-        "recovered": 262212
+        "confirmed": 320962,
+        "deaths": 5256,
+        "recovered": 266711
       },
       "back_2week": {
-        "confirmed": 282336,
-        "deaths": 4631,
-        "recovered": 229160
+        "confirmed": 288211,
+        "deaths": 4697,
+        "recovered": 234904
       },
       "latest": {
-        "confirmed": 345276,
-        "deaths": 5689,
-        "recovered": 294036
+        "confirmed": 349688,
+        "deaths": 5739,
+        "recovered": 298574
       }
     },
     "MCO": {
@@ -3314,19 +3314,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 435273,
-        "deaths": 12084,
-        "recovered": 367592
+        "confirmed": 440805,
+        "deaths": 12219,
+        "recovered": 370825
       },
       "back_2week": {
-        "confirmed": 407939,
-        "deaths": 11326,
-        "recovered": 348804
+        "confirmed": 411055,
+        "deaths": 11418,
+        "recovered": 351102
       },
       "latest": {
-        "confirmed": 548244,
-        "deaths": 13191,
-        "recovered": 392616
+        "confirmed": 578347,
+        "deaths": 13373,
+        "recovered": 396227
       }
     },
     "TWN": {
