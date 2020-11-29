@@ -881,10 +881,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 334789,
+      "confirmed": 334988,
       "date": "2020-11-29",
       "deaths": 2854,
-      "recovered": 322012
+      "recovered": 322211
     }
   },
   "Italy": {
@@ -1583,7 +1583,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 766235,
+          "confirmed": 767265,
           "date": "2020-11-29",
           "deaths": 13211,
           "recovered": 0
@@ -1841,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 72718,
+      "confirmed": 72753,
       "date": "2020-11-29",
       "deaths": 608,
-      "recovered": 69980
+      "recovered": 70047
     }
   },
   "Venezuela": {
