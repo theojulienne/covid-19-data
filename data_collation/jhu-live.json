@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 67070,
+          "confirmed": 67402,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 75996,
+          "confirmed": 76206,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 53256,
+          "confirmed": 53563,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 43553,
+          "confirmed": 43701,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 91397,
+          "confirmed": 92967,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 91266,
+          "confirmed": 91503,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 43773,
+          "confirmed": 44051,
           "date": "2020-11-29",
           "deaths": 0,
           "recovered": 0
@@ -565,7 +565,7 @@
         "live": {
           "confirmed": 147876,
           "date": "2020-11-29",
-          "deaths": 2701,
+          "deaths": 2702,
           "recovered": 100985
         }
       },
@@ -573,7 +573,7 @@
         "live": {
           "confirmed": 202370,
           "date": "2020-11-29",
-          "deaths": 3764,
+          "deaths": 3785,
           "recovered": 142800
         }
       },
@@ -582,14 +582,14 @@
           "confirmed": 63064,
           "date": "2020-11-29",
           "deaths": 539,
-          "recovered": 41246
+          "recovered": 41780
         }
       },
       "Hessen": {
         "live": {
           "confirmed": 84845,
           "date": "2020-11-29",
-          "deaths": 1232,
+          "deaths": 1240,
           "recovered": 56180
         }
       },
@@ -597,7 +597,7 @@
         "live": {
           "confirmed": 70092,
           "date": "2020-11-29",
-          "deaths": 1140,
+          "deaths": 1150,
           "recovered": 53789
         }
       },
@@ -605,7 +605,7 @@
         "live": {
           "confirmed": 255115,
           "date": "2020-11-29",
-          "deaths": 3380,
+          "deaths": 3418,
           "recovered": 182205
         }
       },
@@ -621,7 +621,7 @@
         "live": {
           "confirmed": 52411,
           "date": "2020-11-29",
-          "deaths": 858,
+          "deaths": 882,
           "recovered": 32640
         }
       }
@@ -653,10 +653,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 107134,
+      "confirmed": 107513,
       "date": "2020-11-29",
-      "deaths": 2899,
-      "recovered": 47576
+      "deaths": 2905,
+      "recovered": 47638
     }
   },
   "Hungary": {
@@ -993,10 +993,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 130039,
+      "confirmed": 130865,
       "date": "2020-11-29",
       "deaths": 1990,
-      "recovered": 116044
+      "recovered": 116187
     }
   },
   "Kenya": {
@@ -1575,9 +1575,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 242961,
+          "confirmed": 203663,
           "date": "2020-11-29",
-          "deaths": 4664,
+          "deaths": 3974,
           "recovered": 0
         }
       },
@@ -1658,6 +1658,14 @@
           "confirmed": 50729,
           "date": "2020-11-29",
           "deaths": 976,
+          "recovered": 0
+        }
+      },
+      "Nebraska": {
+        "live": {
+          "confirmed": 39555,
+          "date": "2020-11-29",
+          "deaths": 296,
           "recovered": 0
         }
       },
