@@ -395,9 +395,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 139643,
+          "confirmed": 141038,
           "date": "2020-11-29",
-          "deaths": 7021,
+          "deaths": 7033,
           "recovered": 120906
         }
       }
@@ -521,10 +521,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 190909,
+      "confirmed": 192117,
       "date": "2020-11-29",
-      "deaths": 13371,
-      "recovered": 164009
+      "deaths": 13423,
+      "recovered": 169804
     }
   },
   "Egypt": {
@@ -581,8 +581,8 @@
         "live": {
           "confirmed": 63888,
           "date": "2020-11-29",
-          "deaths": 550,
-          "recovered": 41780
+          "deaths": 553,
+          "recovered": 42014
         }
       },
       "Hessen": {
@@ -645,10 +645,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 121798,
+      "confirmed": 121971,
       "date": "2020-11-29",
-      "deaths": 4161,
-      "recovered": 110209
+      "deaths": 4166,
+      "recovered": 110588
     }
   },
   "Honduras": {
@@ -873,9 +873,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 71942,
+      "confirmed": 72241,
       "date": "2020-11-29",
-      "deaths": 2050,
+      "deaths": 2052,
       "recovered": 23364
     }
   },
@@ -1607,9 +1607,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 346238,
+          "confirmed": 349307,
           "date": "2020-11-29",
-          "deaths": 7354,
+          "deaths": 7383,
           "recovered": 0
         }
       },
@@ -1681,7 +1681,7 @@
         "live": {
           "confirmed": 453933,
           "date": "2020-11-29",
-          "deaths": 28920,
+          "deaths": 28924,
           "recovered": 0
         }
       },
@@ -1703,9 +1703,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 39512,
+          "confirmed": 39944,
           "date": "2020-11-29",
-          "deaths": 290,
+          "deaths": 291,
           "recovered": 0
         }
       },
