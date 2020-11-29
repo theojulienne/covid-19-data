@@ -547,8 +547,8 @@
     "live": {
       "confirmed": 2207771,
       "date": "2020-11-29",
-      "deaths": 51779,
-      "recovered": 138666
+      "deaths": 51977,
+      "recovered": 138956
     }
   },
   "Georgia": {
@@ -579,7 +579,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 63888,
+          "confirmed": 64220,
           "date": "2020-11-29",
           "deaths": 553,
           "recovered": 42014
@@ -1025,10 +1025,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 125678,
+      "confirmed": 126944,
       "date": "2020-11-29",
-      "deaths": 991,
-      "recovered": 74950
+      "deaths": 1004,
+      "recovered": 76774
     }
   },
   "Libya": {
@@ -1583,7 +1583,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 767265,
+          "confirmed": 769328,
           "date": "2020-11-29",
           "deaths": 13211,
           "recovered": 0
@@ -1591,9 +1591,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 554469,
+          "confirmed": 558861,
           "date": "2020-11-29",
-          "deaths": 9312,
+          "deaths": 9344,
           "recovered": 0
         }
       },
@@ -1695,7 +1695,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 92947,
+          "confirmed": 94710,
           "date": "2020-11-29",
           "deaths": 1417,
           "recovered": 0
