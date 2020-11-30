@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 118150,
+          "confirmed": 118588,
           "date": "2020-11-30",
-          "deaths": 3661,
-          "recovered": 102012
+          "deaths": 3666,
+          "recovered": 102219
         }
       },
       "Quebec": {
@@ -407,10 +407,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 304916,
+          "confirmed": 305218,
           "date": "2020-11-30",
-          "deaths": 10322,
-          "recovered": 292218
+          "deaths": 10342,
+          "recovered": 292502
         }
       }
     }
@@ -611,10 +611,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 43618,
+          "confirmed": 44345,
           "date": "2020-11-30",
-          "deaths": 517,
-          "recovered": 26589
+          "deaths": 546,
+          "recovered": 27198
         }
       },
       "Sachsen": {
@@ -645,10 +645,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 121971,
+      "confirmed": 122062,
       "date": "2020-11-30",
-      "deaths": 4166,
-      "recovered": 110588
+      "deaths": 4171,
+      "recovered": 110944
     }
   },
   "Honduras": {
@@ -993,10 +993,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 214307,
+      "confirmed": 219430,
       "date": "2020-11-30",
-      "deaths": 2694,
-      "recovered": 148572
+      "deaths": 2751,
+      "recovered": 155026
     }
   },
   "Kazakhstan": {
@@ -1416,7 +1416,7 @@
       "confirmed": 58218,
       "date": "2020-11-30",
       "deaths": 29,
-      "recovered": 58124
+      "recovered": 58134
     }
   },
   "Slovakia": {
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 41067,
           "date": "2020-11-30",
-          "deaths": 927,
+          "deaths": 931,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 51324,
+          "confirmed": 51819,
           "date": "2020-11-30",
-          "deaths": 976,
+          "deaths": 980,
           "recovered": 0
         }
       },
