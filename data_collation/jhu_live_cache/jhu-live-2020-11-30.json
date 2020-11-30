@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 118195,
+      "confirmed": 119217,
       "date": "2020-11-30",
-      "deaths": 1361,
-      "recovered": 73676
+      "deaths": 1371,
+      "recovered": 74156
     }
   },
   "Bahrain": {
@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 87374,
+      "confirmed": 87901,
       "date": "2020-11-30",
-      "deaths": 2620,
-      "recovered": 51479
+      "deaths": 2681,
+      "recovered": 52769
     }
   },
   "Brazil": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 89486,
+      "confirmed": 90713,
       "date": "2020-11-30",
-      "deaths": 1918,
-      "recovered": 68910
+      "deaths": 1941,
+      "recovered": 70156
     }
   },
   "Canada": {
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 207159,
+          "confirmed": 207541,
           "date": "2020-11-30",
           "deaths": 3804,
           "recovered": 147716
@@ -1405,9 +1405,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 169214,
+      "confirmed": 175438,
       "date": "2020-11-30",
-      "deaths": 1549,
+      "deaths": 1604,
       "recovered": 0
     }
   },
@@ -1551,7 +1551,7 @@
     "live": {
       "confirmed": 327072,
       "date": "2020-11-30",
-      "deaths": 4727,
+      "deaths": 4753,
       "recovered": 250200
     }
   },
