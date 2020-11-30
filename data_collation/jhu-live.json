@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 144592,
+      "confirmed": 144622,
       "date": "2020-11-30",
-      "deaths": 8949,
-      "recovered": 121280
+      "deaths": 8952,
+      "recovered": 121472
     }
   },
   "Bosnia and Herzegovina": {
@@ -433,7 +433,7 @@
         "live": {
           "confirmed": 212758,
           "date": "2020-11-30",
-          "deaths": 4013,
+          "deaths": 4038,
           "recovered": 198556
         }
       },
@@ -441,7 +441,7 @@
         "live": {
           "confirmed": 77835,
           "date": "2020-11-30",
-          "deaths": 3199,
+          "deaths": 3203,
           "recovered": 73023
         }
       },
@@ -449,7 +449,7 @@
         "live": {
           "confirmed": 374077,
           "date": "2020-11-30",
-          "deaths": 8477,
+          "deaths": 8505,
           "recovered": 344495
         }
       },
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 52110,
           "date": "2020-11-30",
-          "deaths": 1401,
+          "deaths": 1412,
           "recovered": 48117
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 52896,
           "date": "2020-11-30",
-          "deaths": 2005,
+          "deaths": 2013,
           "recovered": 47455
         }
       },
@@ -473,7 +473,7 @@
         "live": {
           "confirmed": 107558,
           "date": "2020-11-30",
-          "deaths": 3443,
+          "deaths": 3467,
           "recovered": 97279
         }
       }
@@ -1253,10 +1253,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 163453,
+      "confirmed": 164729,
       "date": "2020-11-30",
-      "deaths": 3039,
-      "recovered": 142872
+      "deaths": 3060,
+      "recovered": 143616
     }
   },
   "Paraguay": {
@@ -1719,7 +1719,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 631972,
+          "confirmed": 633618,
           "date": "2020-11-30",
           "deaths": 10223,
           "recovered": 0
