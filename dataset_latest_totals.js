@@ -1326,19 +1326,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2127672,
-        "deaths": 48184,
-        "recovered": 129218
+        "confirmed": 2140829,
+        "deaths": 48398,
+        "recovered": 129722
       },
       "back_2week": {
-        "confirmed": 1956252,
-        "deaths": 43926,
-        "recovered": 117913
+        "confirmed": 1983480,
+        "deaths": 44227,
+        "recovered": 118583
       },
       "latest": {
-        "confirmed": 2207771,
-        "deaths": 51779,
-        "recovered": 138666
+        "confirmed": 2217555,
+        "deaths": 51977,
+        "recovered": 138956
       },
       "states": {
         "French Guiana": {
