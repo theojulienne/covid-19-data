@@ -1719,7 +1719,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 634270,
+          "confirmed": 637626,
           "date": "2020-11-30",
           "deaths": 10223,
           "recovered": 0
@@ -1727,9 +1727,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 128345,
+          "confirmed": 129422,
           "date": "2020-11-30",
-          "deaths": 533,
+          "deaths": 534,
           "recovered": 0
         }
       },
