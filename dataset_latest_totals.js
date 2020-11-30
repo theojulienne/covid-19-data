@@ -1719,19 +1719,19 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 493308,
-        "deaths": 15774,
-        "recovered": 413955
+        "confirmed": 497668,
+        "deaths": 15884,
+        "recovered": 418188
       },
       "back_2week": {
-        "confirmed": 463007,
-        "deaths": 15148,
-        "recovered": 388094
+        "confirmed": 467113,
+        "deaths": 15211,
+        "recovered": 391991
       },
       "latest": {
-        "confirmed": 527999,
-        "deaths": 16646,
-        "recovered": 441983
+        "confirmed": 534266,
+        "deaths": 16815,
+        "recovered": 445793
       }
     },
     "IND": {
