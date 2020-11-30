@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 135008,
+      "confirmed": 136647,
       "date": "2020-11-30",
-      "deaths": 1151,
-      "recovered": 113375
+      "deaths": 1158,
+      "recovered": 114341
     }
   },
   "Belgium": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 118588,
+          "confirmed": 119042,
           "date": "2020-11-30",
-          "deaths": 3666,
-          "recovered": 102219
+          "deaths": 3667,
+          "recovered": 102679
         }
       },
       "Quebec": {
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 519723,
+      "confirmed": 521132,
       "date": "2020-11-30",
-      "deaths": 8138,
-      "recovered": 444406
+      "deaths": 8273,
+      "recovered": 444877
     }
   },
   "Denmark": {
@@ -563,10 +563,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 149318,
+          "confirmed": 150706,
           "date": "2020-11-30",
-          "deaths": 2715,
-          "recovered": 102558
+          "deaths": 2775,
+          "recovered": 104638
         }
       },
       "Bayern": {
@@ -619,10 +619,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 55274,
+          "confirmed": 57030,
           "date": "2020-11-30",
-          "deaths": 922,
-          "recovered": 32640
+          "deaths": 961,
+          "recovered": 35390
         }
       }
     }
@@ -1033,10 +1033,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 126944,
+      "confirmed": 127944,
       "date": "2020-11-30",
-      "deaths": 1004,
-      "recovered": 76774
+      "deaths": 1018,
+      "recovered": 83034
     }
   },
   "Libya": {
@@ -1329,10 +1329,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 138648,
+      "confirmed": 138833,
       "date": "2020-11-30",
       "deaths": 237,
-      "recovered": 135862
+      "recovered": 136090
     }
   },
   "Romania": {
@@ -1615,9 +1615,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 45371,
+          "confirmed": 46131,
           "date": "2020-11-30",
-          "deaths": 865,
+          "deaths": 870,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 66164,
+          "confirmed": 67336,
           "date": "2020-11-30",
-          "deaths": 1115,
+          "deaths": 1116,
           "recovered": 0
         }
       },
@@ -1687,9 +1687,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 43303,
+          "confirmed": 43661,
           "date": "2020-11-30",
-          "deaths": 450,
+          "deaths": 454,
           "recovered": 0
         }
       },
