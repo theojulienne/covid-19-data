@@ -1421,7 +1421,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 75806,
+      "confirmed": 75814,
       "date": "2020-12-01",
       "deaths": 1435,
       "recovered": 54138
@@ -1575,9 +1575,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 779356,
+          "confirmed": 784396,
           "date": "2020-12-01",
-          "deaths": 13227,
+          "deaths": 13243,
           "recovered": 0
         }
       },
@@ -1719,7 +1719,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 640210,
+          "confirmed": 641327,
           "date": "2020-12-01",
           "deaths": 10234,
           "recovered": 0
@@ -1841,10 +1841,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 102040,
+      "confirmed": 102394,
       "date": "2020-12-01",
-      "deaths": 894,
-      "recovered": 96652
+      "deaths": 897,
+      "recovered": 97326
     }
   },
   "West Bank and Gaza": {
