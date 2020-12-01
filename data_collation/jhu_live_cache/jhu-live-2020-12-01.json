@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 119897,
+          "confirmed": 120251,
           "date": "2020-12-01",
-          "deaths": 3672,
-          "recovered": 103249
+          "deaths": 3676,
+          "recovered": 103584
         }
       },
       "Quebec": {
@@ -621,8 +621,8 @@
         "live": {
           "confirmed": 57037,
           "date": "2020-12-01",
-          "deaths": 965,
-          "recovered": 35390
+          "deaths": 1006,
+          "recovered": 36930
         }
       }
     }
@@ -993,10 +993,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 219430,
+      "confirmed": 223617,
       "date": "2020-12-01",
-      "deaths": 2751,
-      "recovered": 155026
+      "deaths": 2802,
+      "recovered": 162959
     }
   },
   "Kazakhstan": {
@@ -1013,6 +1013,14 @@
       "date": "2020-12-01",
       "deaths": 1469,
       "recovered": 55344
+    }
+  },
+  "Kosovo": {
+    "live": {
+      "confirmed": 40117,
+      "date": "2020-12-01",
+      "deaths": 1026,
+      "recovered": 25586
     }
   },
   "Kuwait": {
@@ -1110,14 +1118,6 @@
           "confirmed": 67344,
           "date": "2020-12-01",
           "deaths": 4539,
-          "recovered": 0
-        }
-      },
-      "Puebla": {
-        "live": {
-          "confirmed": 39902,
-          "date": "2020-12-01",
-          "deaths": 5155,
           "recovered": 0
         }
       },
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 41297,
           "date": "2020-12-01",
-          "deaths": 931,
+          "deaths": 936,
           "recovered": 0
         }
       },
