@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 213928,
+          "confirmed": 215415,
           "date": "2020-12-01",
           "deaths": 4065,
           "recovered": 199617
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 78123,
+          "confirmed": 78541,
           "date": "2020-12-01",
           "deaths": 3206,
           "recovered": 73195
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 375315,
+          "confirmed": 377229,
           "date": "2020-12-01",
           "deaths": 8536,
           "recovered": 345646
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 52544,
+          "confirmed": 52927,
           "date": "2020-12-01",
           "deaths": 1415,
           "recovered": 48460
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 53314,
+          "confirmed": 53660,
           "date": "2020-12-01",
           "deaths": 2020,
           "recovered": 47749
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 108058,
+          "confirmed": 108948,
           "date": "2020-12-01",
           "deaths": 3495,
           "recovered": 98136
@@ -1551,7 +1551,7 @@
     "live": {
       "confirmed": 330874,
       "date": "2020-12-01",
-      "deaths": 4908,
+      "deaths": 4932,
       "recovered": 250200
     }
   },
@@ -1583,7 +1583,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 785989,
+          "confirmed": 786621,
           "date": "2020-12-01",
           "deaths": 13250,
           "recovered": 0
