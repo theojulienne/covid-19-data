@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 552549,
+      "confirmed": 554767,
       "date": "2020-12-01",
-      "deaths": 12258,
-      "recovered": 482674
+      "deaths": 12306,
+      "recovered": 484570
     }
   },
   "Ireland": {
@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 337373,
+      "confirmed": 337422,
       "date": "2020-12-01",
-      "deaths": 2865,
-      "recovered": 323995
+      "deaths": 2867,
+      "recovered": 323997
     }
   },
   "Italy": {
@@ -1017,10 +1017,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 142635,
+      "confirmed": 142992,
       "date": "2020-12-01",
-      "deaths": 880,
-      "recovered": 137071
+      "deaths": 881,
+      "recovered": 137625
     }
   },
   "Kyrgyzstan": {
@@ -1151,8 +1151,8 @@
     "live": {
       "confirmed": 233452,
       "date": "2020-12-01",
-      "deaths": 1508,
-      "recovered": 214521
+      "deaths": 1529,
+      "recovered": 216594
     }
   },
   "Netherlands": {
@@ -1337,10 +1337,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 475362,
+      "confirmed": 479634,
       "date": "2020-12-01",
-      "deaths": 11331,
-      "recovered": 353188
+      "deaths": 11530,
+      "recovered": 360934
     }
   },
   "Russia": {
@@ -1551,7 +1551,7 @@
     "live": {
       "confirmed": 330874,
       "date": "2020-12-01",
-      "deaths": 4851,
+      "deaths": 4870,
       "recovered": 250200
     }
   },
@@ -1727,7 +1727,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 641327,
+          "confirmed": 641907,
           "date": "2020-12-01",
           "deaths": 10234,
           "recovered": 0
@@ -1841,7 +1841,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 73094,
+      "confirmed": 73145,
       "date": "2020-12-01",
       "deaths": 610,
       "recovered": 70337
@@ -1857,10 +1857,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 85647,
+      "confirmed": 88004,
       "date": "2020-12-01",
-      "deaths": 732,
-      "recovered": 64987
+      "deaths": 747,
+      "recovered": 65938
     }
   }
 }
