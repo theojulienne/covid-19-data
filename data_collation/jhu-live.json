@@ -1049,10 +1049,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 61325,
+      "confirmed": 62515,
       "date": "2020-12-01",
-      "deaths": 506,
-      "recovered": 14211
+      "deaths": 519,
+      "recovered": 15077
     }
   },
   "Malaysia": {
@@ -1305,10 +1305,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 431630,
+      "confirmed": 432925,
       "date": "2020-12-01",
-      "deaths": 8392,
-      "recovered": 398658
+      "deaths": 8418,
+      "recovered": 398782
     }
   },
   "Poland": {
