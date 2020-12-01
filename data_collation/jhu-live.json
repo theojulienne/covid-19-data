@@ -1025,10 +1025,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 72807,
+      "confirmed": 73178,
       "date": "2020-12-01",
-      "deaths": 1271,
-      "recovered": 64149
+      "deaths": 1275,
+      "recovered": 64711
     }
   },
   "Lebanon": {
@@ -1067,57 +1067,65 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 206204,
+          "confirmed": 207699,
           "date": "2020-12-01",
-          "deaths": 13509,
+          "deaths": 13558,
           "recovered": 0
         }
       },
       "Coahuila": {
         "live": {
-          "confirmed": 41727,
+          "confirmed": 41948,
           "date": "2020-12-01",
-          "deaths": 3272,
+          "deaths": 3296,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 62073,
+          "confirmed": 62552,
           "date": "2020-12-01",
-          "deaths": 3959,
+          "deaths": 3985,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 40947,
+          "confirmed": 41266,
           "date": "2020-12-01",
-          "deaths": 4807,
+          "deaths": 4826,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 111180,
+          "confirmed": 111699,
           "date": "2020-12-01",
-          "deaths": 15608,
+          "deaths": 15655,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 67165,
+          "confirmed": 67344,
           "date": "2020-12-01",
           "deaths": 4539,
           "recovered": 0
         }
       },
+      "Puebla": {
+        "live": {
+          "confirmed": 39902,
+          "date": "2020-12-01",
+          "deaths": 5155,
+          "recovered": 0
+        }
+      },
       "Sonora": {
         "live": {
-          "confirmed": 42974,
+          "confirmed": 43459,
           "date": "2020-12-01",
-          "deaths": 3415,
+          "deaths": 3433,
           "recovered": 0
         }
       }
@@ -1567,9 +1575,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 245517,
+          "confirmed": 205658,
           "date": "2020-12-01",
-          "deaths": 4673,
+          "deaths": 3982,
           "recovered": 0
         }
       },
@@ -1833,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 73041,
+      "confirmed": 73094,
       "date": "2020-12-01",
-      "deaths": 608,
-      "recovered": 70303
+      "deaths": 610,
+      "recovered": 70337
     }
   },
   "Venezuela": {
