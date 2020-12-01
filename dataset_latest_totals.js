@@ -367,19 +367,19 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 85705,
+        "confirmed": 85886,
         "deaths": 338,
-        "recovered": 83829
+        "recovered": 84017
       },
       "back_2week": {
-        "confirmed": 84703,
+        "confirmed": 84882,
         "deaths": 334,
-        "recovered": 82469
+        "recovered": 82680
       },
       "latest": {
-        "confirmed": 86787,
+        "confirmed": 86956,
         "deaths": 341,
-        "recovered": 84977
+        "recovered": 85141
       }
     },
     "BHS": {
@@ -1275,19 +1275,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 105785,
-        "deaths": 1647,
-        "recovered": 65691
+        "confirmed": 106203,
+        "deaths": 1651,
+        "recovered": 65839
       },
       "back_2week": {
-        "confirmed": 102720,
-        "deaths": 1569,
-        "recovered": 63866
+        "confirmed": 103056,
+        "deaths": 1581,
+        "recovered": 64130
       },
       "latest": {
-        "confirmed": 109534,
-        "deaths": 1700,
-        "recovered": 69315
+        "confirmed": 110074,
+        "deaths": 1706,
+        "recovered": 73808
       }
     },
     "FIN": {
@@ -3417,19 +3417,19 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "back_1week": {
         "confirmed": 12023881,
-        "deaths": 246793,
+        "deaths": 246966,
         "recovered": 4481627,
         "tested": 155885818
       },
       "back_2week": {
         "confirmed": 10853611,
-        "deaths": 236589,
+        "deaths": 236761,
         "recovered": 4142565,
         "tested": 146084228
       },
       "latest": {
         "confirmed": 13130727,
-        "deaths": 256708,
+        "deaths": 256949,
         "recovered": 5015139,
         "tested": 165362160
       },
@@ -3619,7 +3619,7 @@ var covid19_dataset_latest_totals = {
         },
         "ND": {
           "confirmed": 78658,
-          "deaths": 680,
+          "deaths": 921,
           "hospitalized": 2667,
           "recovered": 70901,
           "tested": 348939

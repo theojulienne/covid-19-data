@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 86956,
+      "confirmed": 87137,
       "date": "2020-12-01",
       "deaths": 341,
-      "recovered": 85141
+      "recovered": 85357
     }
   },
   "Bangladesh": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 120818,
+          "confirmed": 121770,
           "date": "2020-12-01",
           "deaths": 3680,
-          "recovered": 104650
+          "recovered": 104668
         }
       },
       "Quebec": {
@@ -537,10 +537,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 110074,
+      "confirmed": 110554,
       "date": "2020-12-01",
-      "deaths": 1706,
-      "recovered": 73808
+      "deaths": 1709,
+      "recovered": 74917
     }
   },
   "France": {
@@ -889,10 +889,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 337961,
+      "confirmed": 338127,
       "date": "2020-12-01",
       "deaths": 2877,
-      "recovered": 324377
+      "recovered": 324449
     }
   },
   "Italy": {
@@ -1639,9 +1639,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 111994,
+          "confirmed": 113327,
           "date": "2020-12-01",
-          "deaths": 4586,
+          "deaths": 4604,
           "recovered": 0
         }
       },
@@ -1727,7 +1727,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 642433,
+          "confirmed": 643834,
           "date": "2020-12-01",
           "deaths": 10247,
           "recovered": 0
