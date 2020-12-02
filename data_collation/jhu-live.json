@@ -582,7 +582,7 @@
           "confirmed": 66306,
           "date": "2020-12-02",
           "deaths": 594,
-          "recovered": 44873
+          "recovered": 45910
         }
       },
       "Hessen": {
@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 132348,
+      "confirmed": 133118,
       "date": "2020-12-02",
       "deaths": 1990,
-      "recovered": 116863
+      "recovered": 117362
     }
   },
   "Kenya": {
@@ -1841,10 +1841,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 102394,
+      "confirmed": 102621,
       "date": "2020-12-02",
-      "deaths": 897,
-      "recovered": 97326
+      "deaths": 901,
+      "recovered": 97562
     }
   },
   "West Bank and Gaza": {
