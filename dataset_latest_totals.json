@@ -1753,18 +1753,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 70711,
-        "deaths": 2023,
+        "confirmed": 70930,
+        "deaths": 2028,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 68356,
-        "deaths": 1984,
+        "confirmed": 68686,
+        "deaths": 1995,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 72544,
-        "deaths": 2053,
+        "confirmed": 72798,
+        "deaths": 2069,
         "recovered": 23364
       }
     },
@@ -2195,19 +2195,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 327528,
-        "deaths": 5396,
-        "recovered": 275158
+        "confirmed": 331527,
+        "deaths": 5469,
+        "recovered": 279276
       },
       "back_2week": {
-        "confirmed": 296189,
-        "deaths": 4850,
-        "recovered": 243359
+        "confirmed": 301604,
+        "deaths": 4932,
+        "recovered": 247594
       },
       "latest": {
-        "confirmed": 356336,
-        "deaths": 5846,
-        "recovered": 305291
+        "confirmed": 359844,
+        "deaths": 5915,
+        "recovered": 310193
       }
     },
     "MCO": {
@@ -3416,22 +3416,22 @@
     },
     "USA": {
       "back_1week": {
-        "confirmed": 12174062,
+        "confirmed": 12174193,
         "deaths": 247906,
         "recovered": 4588104,
-        "tested": 157382284
+        "tested": 157382415
       },
       "back_2week": {
-        "confirmed": 11001886,
+        "confirmed": 11002079,
         "deaths": 237369,
         "recovered": 4201873,
-        "tested": 147335312
+        "tested": 147335505
       },
       "latest": {
-        "confirmed": 13277436,
+        "confirmed": 13277624,
         "deaths": 258073,
         "recovered": 5096208,
-        "tested": 166727555
+        "tested": 166727743
       },
       "states": {
         "AK": {
@@ -3741,11 +3741,11 @@
           "tested": 3353235
         },
         "VT": {
-          "confirmed": 4172,
+          "confirmed": 4360,
           "deaths": 69,
           "hospitalized": 45,
           "recovered": 2523,
-          "tested": 224284
+          "tested": 224472
         },
         "WA": {
           "confirmed": 162700,
