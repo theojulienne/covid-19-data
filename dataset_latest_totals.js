@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 27677,
+        "confirmed": 27684,
         "current_hospitalized": 7,
         "current_icu": 0,
         "deaths": 910,
-        "recovered": 2832,
-        "tested": 9905483
+        "recovered": 2836,
+        "tested": 9917803
       },
       "back_2week": {
-        "confirmed": 27622,
+        "confirmed": 27627,
         "current_hospitalized": 23,
         "current_icu": 5,
         "deaths": 909,
-        "recovered": 22332,
-        "tested": 9597799
+        "recovered": 22337,
+        "tested": 9628231
       },
       "latest": {
-        "confirmed": 27718,
-        "current_hospitalized": 7,
+        "confirmed": 27723,
+        "current_hospitalized": 21,
         "current_icu": 0,
         "deaths": 910,
         "recovered": 2895,
-        "tested": 10014121
+        "tested": 10024434
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 116324
         },
         "NSW": {
-          "confirmed": 4388,
-          "current_hospitalized": 2,
+          "confirmed": 4393,
+          "current_hospitalized": 3,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 55,
           "recovered": 2799,
-          "tested": 3472822
+          "tested": 3479457
         },
         "NT": {
           "confirmed": 46,
@@ -2626,7 +2626,7 @@ var covid19_dataset_latest_totals = {
     "NZL": {
       "back_1week": {
         "confirmed": 1520,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1484,
@@ -2634,7 +2634,7 @@ var covid19_dataset_latest_totals = {
       },
       "back_2week": {
         "confirmed": 1507,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1482,
@@ -2642,7 +2642,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 1529,
-        "current_hospitalized": 3,
+        "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
         "recovered": 1490,
