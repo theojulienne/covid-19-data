@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 67839,
+          "confirmed": 68099,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 76457,
+          "confirmed": 76573,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 54011,
+          "confirmed": 54243,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 43964,
+          "confirmed": 44133,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 93425,
+          "confirmed": 93621,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 91624,
+          "confirmed": 91816,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 44392,
+          "confirmed": 44668,
           "date": "2020-12-02",
           "deaths": 0,
           "recovered": 0
@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 215415,
           "date": "2020-12-02",
-          "deaths": 4065,
-          "recovered": 199617
+          "deaths": 4086,
+          "recovered": 200546
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 78541,
+          "confirmed": 78542,
           "date": "2020-12-02",
-          "deaths": 3206,
-          "recovered": 73195
+          "deaths": 3208,
+          "recovered": 73415
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 377229,
           "date": "2020-12-02",
-          "deaths": 8536,
-          "recovered": 345646
+          "deaths": 8570,
+          "recovered": 347323
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 52927,
           "date": "2020-12-02",
-          "deaths": 1415,
-          "recovered": 48460
+          "deaths": 1420,
+          "recovered": 48781
         }
       },
       "Santander": {
         "live": {
           "confirmed": 53660,
           "date": "2020-12-02",
-          "deaths": 2020,
-          "recovered": 47749
+          "deaths": 2032,
+          "recovered": 48041
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 108948,
           "date": "2020-12-02",
-          "deaths": 3495,
-          "recovered": 98136
+          "deaths": 3507,
+          "recovered": 98445
         }
       }
     }
@@ -563,17 +563,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 152774,
+          "confirmed": 152782,
           "date": "2020-12-02",
-          "deaths": 2824,
+          "deaths": 2825,
           "recovered": 107339
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 210660,
+          "confirmed": 213308,
           "date": "2020-12-02",
-          "deaths": 3879,
+          "deaths": 3970,
           "recovered": 151211
         }
       },
@@ -587,31 +587,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 88078,
+          "confirmed": 89446,
           "date": "2020-12-02",
-          "deaths": 1298,
+          "deaths": 1338,
           "recovered": 59866
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 72030,
+          "confirmed": 72534,
           "date": "2020-12-02",
-          "deaths": 1179,
+          "deaths": 1184,
           "recovered": 57054
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 263715,
+          "confirmed": 267069,
           "date": "2020-12-02",
-          "deaths": 3515,
+          "deaths": 3621,
           "recovered": 194490
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 45140,
+          "confirmed": 45169,
           "date": "2020-12-02",
           "deaths": 572,
           "recovered": 28138
@@ -619,9 +619,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 58606,
+          "confirmed": 58894,
           "date": "2020-12-02",
-          "deaths": 1006,
+          "deaths": 1010,
           "recovered": 36930
         }
       }
@@ -1219,26 +1219,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 47370,
+          "confirmed": 47701,
           "date": "2020-12-02",
-          "deaths": 1369,
-          "recovered": 41864
+          "deaths": 1375,
+          "recovered": 42130
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 119578,
+          "confirmed": 120356,
           "date": "2020-12-02",
-          "deaths": 3036,
-          "recovered": 98601
+          "deaths": 3066,
+          "recovered": 98825
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 174350,
+          "confirmed": 175642,
           "date": "2020-12-02",
-          "deaths": 2935,
-          "recovered": 152599
+          "deaths": 2962,
+          "recovered": 153642
         }
       }
     }
@@ -1575,9 +1575,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 793569,
+          "confirmed": 794945,
           "date": "2020-12-02",
-          "deaths": 13294,
+          "deaths": 13316,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 116346,
+          "confirmed": 118412,
           "date": "2020-12-02",
           "deaths": 1782,
           "recovered": 0
