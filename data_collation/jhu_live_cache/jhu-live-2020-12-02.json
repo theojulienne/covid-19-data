@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 87137,
+      "confirmed": 87270,
       "date": "2020-12-02",
       "deaths": 341,
-      "recovered": 85357
+      "recovered": 85463
     }
   },
   "Bangladesh": {
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 123633,
+          "confirmed": 123639,
           "date": "2020-12-02",
           "deaths": 3714,
           "recovered": 106328
@@ -431,7 +431,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 215415,
+          "confirmed": 216833,
           "date": "2020-12-02",
           "deaths": 4086,
           "recovered": 200546
@@ -439,7 +439,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 78542,
+          "confirmed": 78822,
           "date": "2020-12-02",
           "deaths": 3208,
           "recovered": 73415
@@ -447,7 +447,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 377229,
+          "confirmed": 379902,
           "date": "2020-12-02",
           "deaths": 8570,
           "recovered": 347323
@@ -455,7 +455,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 52927,
+          "confirmed": 53287,
           "date": "2020-12-02",
           "deaths": 1420,
           "recovered": 48781
@@ -463,7 +463,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 53660,
+          "confirmed": 54160,
           "date": "2020-12-02",
           "deaths": 2032,
           "recovered": 48041
@@ -471,7 +471,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 108948,
+          "confirmed": 110006,
           "date": "2020-12-02",
           "deaths": 3507,
           "recovered": 98445
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 116303,
+      "confirmed": 116724,
       "date": "2020-12-02",
-      "deaths": 6666,
-      "recovered": 102816
+      "deaths": 6694,
+      "recovered": 102949
     }
   },
   "Ethiopia": {
@@ -1567,9 +1567,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 253924,
+          "confirmed": 256699,
           "date": "2020-12-02",
-          "deaths": 4705,
+          "deaths": 4733,
           "recovered": 0
         }
       },
@@ -1577,7 +1577,7 @@
         "live": {
           "confirmed": 800790,
           "date": "2020-12-02",
-          "deaths": 13327,
+          "deaths": 13328,
           "recovered": 0
         }
       },
@@ -1585,7 +1585,7 @@
         "live": {
           "confirmed": 573298,
           "date": "2020-12-02",
-          "deaths": 9405,
+          "deaths": 9452,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 46743,
+          "confirmed": 47671,
           "date": "2020-12-02",
-          "deaths": 2430,
+          "deaths": 2435,
           "recovered": 0
         }
       },
@@ -1673,7 +1673,7 @@
         "live": {
           "confirmed": 470305,
           "date": "2020-12-02",
-          "deaths": 28958,
+          "deaths": 28966,
           "recovered": 0
         }
       },
@@ -1719,7 +1719,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 649463,
+          "confirmed": 651103,
           "date": "2020-12-02",
           "deaths": 10306,
           "recovered": 0
