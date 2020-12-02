@@ -857,10 +857,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 543975,
+      "confirmed": 549508,
       "date": "2020-12-02",
-      "deaths": 17081,
-      "recovered": 454879
+      "deaths": 17199,
+      "recovered": 458880
     }
   },
   "Iran": {
@@ -1549,10 +1549,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 96769,
+      "confirmed": 98072,
       "date": "2020-12-02",
-      "deaths": 3260,
-      "recovered": 70851
+      "deaths": 3311,
+      "recovered": 72473
     }
   },
   "Turkey": {
