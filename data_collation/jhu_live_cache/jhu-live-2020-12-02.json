@@ -398,7 +398,7 @@
           "confirmed": 143548,
           "date": "2020-12-02",
           "deaths": 7084,
-          "recovered": 123177
+          "recovered": 124200
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 526020,
+      "confirmed": 528474,
       "date": "2020-12-02",
-      "deaths": 8388,
-      "recovered": 452255
+      "deaths": 8407,
+      "recovered": 455177
     }
   },
   "Denmark": {
@@ -1735,9 +1735,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 44348,
+          "confirmed": 45127,
           "date": "2020-12-02",
-          "deaths": 881,
+          "deaths": 887,
           "recovered": 0
         }
       },
