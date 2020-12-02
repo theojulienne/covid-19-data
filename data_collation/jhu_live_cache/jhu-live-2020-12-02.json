@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 133118,
+      "confirmed": 175565,
       "date": "2020-12-02",
-      "deaths": 1990,
-      "recovered": 117362
+      "deaths": 2434,
+      "recovered": 148043
     }
   },
   "Kenya": {
@@ -1623,9 +1623,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 46230,
+          "confirmed": 46743,
           "date": "2020-12-02",
-          "deaths": 2425,
+          "deaths": 2430,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 40622,
+          "confirmed": 41213,
           "date": "2020-12-02",
-          "deaths": 315,
+          "deaths": 348,
           "recovered": 0
         }
       },
@@ -1833,10 +1833,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 73145,
+      "confirmed": 73276,
       "date": "2020-12-02",
-      "deaths": 610,
-      "recovered": 70337
+      "deaths": 611,
+      "recovered": 70534
     }
   },
   "Venezuela": {
