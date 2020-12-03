@@ -41,9 +41,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 129544,
+      "confirmed": 133733,
       "date": "2020-12-03",
-      "deaths": 1470,
+      "deaths": 1510,
       "recovered": 81234
     }
   },
@@ -507,8 +507,8 @@
     "live": {
       "confirmed": 83535,
       "date": "2020-12-03",
-      "deaths": 852,
-      "recovered": 66086
+      "deaths": 858,
+      "recovered": 67416
     }
   },
   "Dominican Republic": {
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 42393,
           "date": "2020-12-03",
-          "deaths": 482,
+          "deaths": 484,
           "recovered": 37348
         }
       }
@@ -1151,41 +1151,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 53144,
+          "confirmed": 53863,
           "date": "2020-12-03",
-          "deaths": 1066,
+          "deaths": 1075,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 84469,
+          "confirmed": 85375,
           "date": "2020-12-03",
-          "deaths": 2062,
+          "deaths": 2072,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 95881,
+          "confirmed": 96821,
           "date": "2020-12-03",
-          "deaths": 1307,
+          "deaths": 1316,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 44860,
+          "confirmed": 45294,
           "date": "2020-12-03",
-          "deaths": 696,
+          "deaths": 698,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 149682,
+          "confirmed": 151020,
           "date": "2020-12-03",
-          "deaths": 2364,
+          "deaths": 2389,
           "recovered": 0
         }
       }
@@ -1515,15 +1515,15 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 78617,
+          "confirmed": 80463,
           "date": "2020-12-03",
-          "deaths": 2751,
+          "deaths": 2774,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 44080,
+          "confirmed": 44986,
           "date": "2020-12-03",
           "deaths": 1014,
           "recovered": 0
