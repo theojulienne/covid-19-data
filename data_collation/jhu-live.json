@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 124686,
+          "confirmed": 125224,
           "date": "2020-12-03",
-          "deaths": 3715,
-          "recovered": 107137
+          "deaths": 3727,
+          "recovered": 107851
         }
       },
       "Quebec": {
@@ -563,10 +563,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 155941,
+          "confirmed": 158997,
           "date": "2020-12-03",
-          "deaths": 2883,
-          "recovered": 109934
+          "deaths": 2918,
+          "recovered": 112448
         }
       },
       "Bayern": {
@@ -1133,10 +1133,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 364190,
+      "confirmed": 368624,
       "date": "2020-12-03",
-      "deaths": 5985,
-      "recovered": 314237
+      "deaths": 6063,
+      "recovered": 318987
     }
   },
   "Nepal": {
@@ -1559,25 +1559,25 @@
       },
       "California": {
         "live": {
-          "confirmed": 810309,
+          "confirmed": 812365,
           "date": "2020-12-03",
-          "deaths": 13405,
+          "deaths": 13413,
           "recovered": 0
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 573298,
+          "confirmed": 579106,
           "date": "2020-12-03",
-          "deaths": 9452,
+          "deaths": 9497,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 82513,
+          "confirmed": 83479,
           "date": "2020-12-03",
-          "deaths": 1241,
+          "deaths": 1255,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 115456,
+          "confirmed": 117132,
           "date": "2020-12-03",
-          "deaths": 4617,
+          "deaths": 4663,
           "recovered": 0
         }
       },
@@ -1695,15 +1695,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 93786,
+          "confirmed": 94544,
           "date": "2020-12-03",
-          "deaths": 1106,
+          "deaths": 1116,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 653982,
+          "confirmed": 655876,
           "date": "2020-12-03",
           "deaths": 10379,
           "recovered": 0
@@ -1727,9 +1727,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 74800,
+          "confirmed": 75665,
           "date": "2020-12-03",
-          "deaths": 769,
+          "deaths": 780,
           "recovered": 0
         }
       }
