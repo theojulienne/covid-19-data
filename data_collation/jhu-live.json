@@ -369,7 +369,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 93600,
+      "confirmed": 95018,
       "date": "2020-12-03",
       "deaths": 2028,
       "recovered": 73748
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 123639,
+          "confirmed": 124155,
           "date": "2020-12-03",
-          "deaths": 3714,
-          "recovered": 106328
+          "deaths": 3715,
+          "recovered": 106641
         }
       },
       "Quebec": {
@@ -611,10 +611,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 46093,
+          "confirmed": 47108,
           "date": "2020-12-03",
-          "deaths": 592,
-          "recovered": 28703
+          "deaths": 608,
+          "recovered": 29505
         }
       },
       "Sachsen": {
@@ -647,8 +647,8 @@
     "live": {
       "confirmed": 123460,
       "date": "2020-12-03",
-      "deaths": 4191,
-      "recovered": 112181
+      "deaths": 4209,
+      "recovered": 112719
     }
   },
   "Honduras": {
@@ -1400,7 +1400,7 @@
       "confirmed": 58239,
       "date": "2020-12-03",
       "deaths": 29,
-      "recovered": 58144
+      "recovered": 58145
     }
   },
   "Slovakia": {
@@ -1607,9 +1607,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 42190,
+          "confirmed": 42458,
           "date": "2020-12-03",
-          "deaths": 938,
+          "deaths": 943,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 52993,
+          "confirmed": 53688,
           "date": "2020-12-03",
-          "deaths": 1008,
+          "deaths": 1035,
           "recovered": 0
         }
       },
@@ -1711,7 +1711,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 652564,
+          "confirmed": 653256,
           "date": "2020-12-03",
           "deaths": 10369,
           "recovered": 0
