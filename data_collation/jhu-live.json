@@ -52,7 +52,7 @@
       "confirmed": 87270,
       "date": "2020-12-03",
       "deaths": 341,
-      "recovered": 85463
+      "recovered": 85598
     }
   },
   "Bangladesh": {
@@ -1413,10 +1413,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 796472,
+      "confirmed": 800872,
       "date": "2020-12-03",
-      "deaths": 21709,
-      "recovered": 734305
+      "deaths": 21803,
+      "recovered": 739367
     }
   },
   "Spain": {
@@ -1559,7 +1559,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 812365,
+          "confirmed": 812972,
           "date": "2020-12-03",
           "deaths": 13413,
           "recovered": 0
