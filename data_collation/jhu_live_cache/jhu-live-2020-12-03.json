@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 1440103,
       "date": "2020-12-03",
-      "deaths": 39156,
-      "recovered": 1268358
+      "deaths": 39305,
+      "recovered": 1274675
     }
   },
   "Armenia": {
@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 87270,
+      "confirmed": 87432,
       "date": "2020-12-03",
       "deaths": 341,
       "recovered": 85598
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 125224,
+          "confirmed": 125233,
           "date": "2020-12-03",
           "deaths": 3727,
-          "recovered": 107851
+          "recovered": 107858
         }
       },
       "Quebec": {
@@ -521,9 +521,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 194876,
+      "confirmed": 195884,
       "date": "2020-12-03",
-      "deaths": 13562,
+      "deaths": 13612,
       "recovered": 169804
     }
   },
@@ -531,8 +531,8 @@
     "live": {
       "confirmed": 116724,
       "date": "2020-12-03",
-      "deaths": 6694,
-      "recovered": 102949
+      "deaths": 6713,
+      "recovered": 103082
     }
   },
   "Ethiopia": {
@@ -891,8 +891,8 @@
     "live": {
       "confirmed": 340867,
       "date": "2020-12-03",
-      "deaths": 2890,
-      "recovered": 326455
+      "deaths": 2891,
+      "recovered": 326644
     }
   },
   "Italy": {
@@ -1263,17 +1263,25 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 46346,
+          "confirmed": 46477,
           "date": "2020-12-03",
-          "deaths": 1534,
+          "deaths": 1539,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 429680,
+          "confirmed": 430948,
           "date": "2020-12-03",
-          "deaths": 16126,
+          "deaths": 16176,
+          "recovered": 0
+        }
+      },
+      "Piura": {
+        "live": {
+          "confirmed": 41047,
+          "date": "2020-12-03",
+          "deaths": 2114,
           "recovered": 0
         }
       }
@@ -1343,14 +1351,6 @@
           "date": "2020-12-03",
           "deaths": 1215,
           "recovered": 50363
-        }
-      },
-      "Rostov Oblast": {
-        "live": {
-          "confirmed": 41013,
-          "date": "2020-12-03",
-          "deaths": 1403,
-          "recovered": 33321
         }
       },
       "Saint Petersburg": {
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 256699,
           "date": "2020-12-03",
-          "deaths": 4733,
+          "deaths": 4797,
           "recovered": 0
         }
       },
@@ -1561,7 +1561,15 @@
         "live": {
           "confirmed": 812972,
           "date": "2020-12-03",
-          "deaths": 13413,
+          "deaths": 13426,
+          "recovered": 0
+        }
+      },
+      "Connecticut": {
+        "live": {
+          "confirmed": 41062,
+          "date": "2020-12-03",
+          "deaths": 1534,
           "recovered": 0
         }
       },
@@ -1607,9 +1615,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 47671,
+          "confirmed": 48896,
           "date": "2020-12-03",
-          "deaths": 2435,
+          "deaths": 2443,
           "recovered": 0
         }
       },
@@ -1655,9 +1663,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 470305,
+          "confirmed": 475769,
           "date": "2020-12-03",
-          "deaths": 28971,
+          "deaths": 28981,
           "recovered": 0
         }
       },
@@ -1703,7 +1711,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 655876,
+          "confirmed": 657998,
           "date": "2020-12-03",
           "deaths": 10379,
           "recovered": 0
@@ -1737,14 +1745,6 @@
   },
   "Ukraine": {
     "subseries": {
-      "Dnipropetrovsk Oblast": {
-        "live": {
-          "confirmed": 40966,
-          "date": "2020-12-03",
-          "deaths": 947,
-          "recovered": 23558
-        }
-      },
       "Kharkiv Oblast": {
         "live": {
           "confirmed": 57267,
