@@ -35,8 +35,8 @@
     "live": {
       "confirmed": 293430,
       "date": "2020-12-04",
-      "deaths": 3538,
-      "recovered": 238127
+      "deaths": 3651,
+      "recovered": 243775
     }
   },
   "Azerbaijan": {
@@ -489,10 +489,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 139415,
+      "confirmed": 143370,
       "date": "2020-12-04",
-      "deaths": 1964,
-      "recovered": 113509
+      "deaths": 2032,
+      "recovered": 117148
     }
   },
   "Czechia": {
@@ -867,8 +867,8 @@
     "live": {
       "confirmed": 1003494,
       "date": "2020-12-04",
-      "deaths": 49348,
-      "recovered": 699315
+      "deaths": 49695,
+      "recovered": 708106
     }
   },
   "Iraq": {
@@ -889,7 +889,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 341544,
+      "confirmed": 341760,
       "date": "2020-12-04",
       "deaths": 2896,
       "recovered": 326966
@@ -1057,10 +1057,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 69095,
+      "confirmed": 70236,
       "date": "2020-12-04",
       "deaths": 376,
-      "recovered": 57917
+      "recovered": 59061
     }
   },
   "Mexico": {
@@ -1527,8 +1527,8 @@
     "live": {
       "confirmed": 340115,
       "date": "2020-12-04",
-      "deaths": 5181,
-      "recovered": 257600
+      "deaths": 5221,
+      "recovered": 260600
     }
   },
   "Tunisia": {
@@ -1851,8 +1851,8 @@
     "live": {
       "confirmed": 92708,
       "date": "2020-12-04",
-      "deaths": 780,
-      "recovered": 68250
+      "deaths": 797,
+      "recovered": 70206
     }
   }
 }
