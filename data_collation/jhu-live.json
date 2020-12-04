@@ -135,8 +135,8 @@
     "live": {
       "confirmed": 144994,
       "date": "2020-12-04",
-      "deaths": 8972,
-      "recovered": 123673
+      "deaths": 8982,
+      "recovered": 124015
     }
   },
   "Bosnia and Herzegovina": {
@@ -433,7 +433,7 @@
         "live": {
           "confirmed": 218131,
           "date": "2020-12-04",
-          "deaths": 4107,
+          "deaths": 4130,
           "recovered": 202397
         }
       },
@@ -441,7 +441,7 @@
         "live": {
           "confirmed": 79073,
           "date": "2020-12-04",
-          "deaths": 3212,
+          "deaths": 3214,
           "recovered": 73947
         }
       },
@@ -449,7 +449,7 @@
         "live": {
           "confirmed": 382704,
           "date": "2020-12-04",
-          "deaths": 8600,
+          "deaths": 8634,
           "recovered": 351110
         }
       },
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 53678,
           "date": "2020-12-04",
-          "deaths": 1424,
+          "deaths": 1425,
           "recovered": 49591
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 54535,
           "date": "2020-12-04",
-          "deaths": 2048,
+          "deaths": 2056,
           "recovered": 48885
         }
       },
@@ -473,7 +473,7 @@
         "live": {
           "confirmed": 111017,
           "date": "2020-12-04",
-          "deaths": 3533,
+          "deaths": 3557,
           "recovered": 100220
         }
       }
@@ -1001,7 +1001,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 176342,
+      "confirmed": 177161,
       "date": "2020-12-04",
       "deaths": 2436,
       "recovered": 148732
@@ -1245,10 +1245,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 169339,
+      "confirmed": 171219,
       "date": "2020-12-04",
-      "deaths": 3114,
-      "recovered": 146576
+      "deaths": 3141,
+      "recovered": 148396
     }
   },
   "Paraguay": {
