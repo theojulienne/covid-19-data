@@ -398,7 +398,7 @@
           "confirmed": 146532,
           "date": "2020-12-04",
           "deaths": 7155,
-          "recovered": 125197
+          "recovered": 126179
         }
       }
     }
@@ -434,7 +434,7 @@
           "confirmed": 218131,
           "date": "2020-12-04",
           "deaths": 4107,
-          "recovered": 201530
+          "recovered": 202397
         }
       },
       "Atlantico": {
@@ -442,7 +442,7 @@
           "confirmed": 79073,
           "date": "2020-12-04",
           "deaths": 3212,
-          "recovered": 73719
+          "recovered": 73947
         }
       },
       "Capital District": {
@@ -450,7 +450,7 @@
           "confirmed": 382704,
           "date": "2020-12-04",
           "deaths": 8600,
-          "recovered": 349300
+          "recovered": 351110
         }
       },
       "Cundinamarca": {
@@ -458,23 +458,23 @@
           "confirmed": 53678,
           "date": "2020-12-04",
           "deaths": 1424,
-          "recovered": 49215
+          "recovered": 49591
         }
       },
       "Santander": {
         "live": {
           "confirmed": 54535,
           "date": "2020-12-04",
-          "deaths": 2038,
-          "recovered": 48412
+          "deaths": 2048,
+          "recovered": 48885
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 111017,
           "date": "2020-12-04",
-          "deaths": 3530,
-          "recovered": 99433
+          "deaths": 3533,
+          "recovered": 100220
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 535760,
+      "confirmed": 537663,
       "date": "2020-12-04",
-      "deaths": 8625,
-      "recovered": 461957
+      "deaths": 8641,
+      "recovered": 468302
     }
   },
   "Denmark": {
@@ -1559,7 +1559,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 812972,
+          "confirmed": 820304,
           "date": "2020-12-04",
           "deaths": 13465,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 41855,
+          "confirmed": 41968,
           "date": "2020-12-04",
-          "deaths": 358,
+          "deaths": 370,
           "recovered": 0
         }
       },
@@ -1711,7 +1711,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 659808,
+          "confirmed": 661568,
           "date": "2020-12-04",
           "deaths": 10460,
           "recovered": 0
