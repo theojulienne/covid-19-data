@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 1447732,
       "date": "2020-12-04",
-      "deaths": 39305,
-      "recovered": 1274675
+      "deaths": 39512,
+      "recovered": 1281955
     }
   },
   "Armenia": {
@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 87432,
+      "confirmed": 87600,
       "date": "2020-12-04",
       "deaths": 341,
       "recovered": 85710
@@ -521,9 +521,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 195884,
+      "confirmed": 196482,
       "date": "2020-12-04",
-      "deaths": 13612,
+      "deaths": 13696,
       "recovered": 169804
     }
   },
@@ -1201,10 +1201,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 65231,
+      "confirmed": 66330,
       "date": "2020-12-04",
-      "deaths": 1847,
-      "recovered": 41656
+      "deaths": 1877,
+      "recovered": 42241
     }
   },
   "Oman": {
@@ -1407,8 +1407,8 @@
     "live": {
       "confirmed": 800872,
       "date": "2020-12-04",
-      "deaths": 21803,
-      "recovered": 739367
+      "deaths": 21963,
+      "recovered": 740450
     }
   },
   "Spain": {
@@ -1553,7 +1553,15 @@
         "live": {
           "confirmed": 827924,
           "date": "2020-12-04",
-          "deaths": 13493,
+          "deaths": 13508,
+          "recovered": 0
+        }
+      },
+      "Connecticut": {
+        "live": {
+          "confirmed": 41535,
+          "date": "2020-12-04",
+          "deaths": 1545,
           "recovered": 0
         }
       },
@@ -1599,9 +1607,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 48896,
+          "confirmed": 50108,
           "date": "2020-12-04",
-          "deaths": 2443,
+          "deaths": 2450,
           "recovered": 0
         }
       },
@@ -1695,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 665094,
+          "confirmed": 665753,
           "date": "2020-12-04",
-          "deaths": 10468,
+          "deaths": 10564,
           "recovered": 0
         }
       },
@@ -1751,14 +1759,6 @@
           "date": "2020-12-04",
           "deaths": 1395,
           "recovered": 24585
-        }
-      },
-      "Kiev Oblast": {
-        "live": {
-          "confirmed": 41415,
-          "date": "2020-12-04",
-          "deaths": 727,
-          "recovered": 14648
         }
       },
       "Lviv Oblast": {
