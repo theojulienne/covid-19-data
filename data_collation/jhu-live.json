@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 126305,
+          "confirmed": 126948,
           "date": "2020-12-04",
-          "deaths": 3740,
-          "recovered": 108776
+          "deaths": 3756,
+          "recovered": 109294
         }
       },
       "Quebec": {
@@ -484,7 +484,7 @@
       "confirmed": 142505,
       "date": "2020-12-04",
       "deaths": 1757,
-      "recovered": 91424
+      "recovered": 95789
     }
   },
   "Croatia": {
@@ -537,7 +537,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 111579,
+      "confirmed": 112091,
       "date": "2020-12-04",
       "deaths": 1734,
       "recovered": 78619
@@ -619,10 +619,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 63535,
+          "confirmed": 65510,
           "date": "2020-12-04",
-          "deaths": 1142,
-          "recovered": 39830
+          "deaths": 1212,
+          "recovered": 41260
         }
       }
     }
@@ -1133,7 +1133,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 368624,
+      "confirmed": 372620,
       "date": "2020-12-04",
       "deaths": 6136,
       "recovered": 323814
@@ -1345,14 +1345,6 @@
           "recovered": 50826
         }
       },
-      "Rostov Oblast": {
-        "live": {
-          "confirmed": 41358,
-          "date": "2020-12-04",
-          "deaths": 1429,
-          "recovered": 33493
-        }
-      },
       "Saint Petersburg": {
         "live": {
           "confirmed": 140674,
@@ -1533,7 +1525,7 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 99280,
+      "confirmed": 100683,
       "date": "2020-12-04",
       "deaths": 3415,
       "recovered": 74513
@@ -1559,7 +1551,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 822605,
+          "confirmed": 827224,
           "date": "2020-12-04",
           "deaths": 13476,
           "recovered": 0
@@ -1575,9 +1567,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 42130,
+          "confirmed": 84735,
           "date": "2020-12-04",
-          "deaths": 714,
+          "deaths": 1264,
           "recovered": 0
         }
       },
@@ -1615,9 +1607,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 117132,
+          "confirmed": 119396,
           "date": "2020-12-04",
-          "deaths": 4663,
+          "deaths": 4678,
           "recovered": 0
         }
       },
@@ -1703,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 662685,
+          "confirmed": 664188,
           "date": "2020-12-04",
           "deaths": 10468,
           "recovered": 0
@@ -1713,7 +1705,7 @@
         "live": {
           "confirmed": 135523,
           "date": "2020-12-04",
-          "deaths": 562,
+          "deaths": 569,
           "recovered": 0
         }
       },
@@ -1727,9 +1719,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 75665,
+          "confirmed": 76570,
           "date": "2020-12-04",
-          "deaths": 780,
+          "deaths": 784,
           "recovered": 0
         }
       }
