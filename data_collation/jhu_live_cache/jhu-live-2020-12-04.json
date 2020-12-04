@@ -395,9 +395,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 146532,
+          "confirmed": 147877,
           "date": "2020-12-04",
-          "deaths": 7155,
+          "deaths": 7183,
           "recovered": 126179
         }
       }
@@ -629,23 +629,23 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 51667,
+      "confirmed": 52096,
       "date": "2020-12-04",
-      "deaths": 323,
-      "recovered": 50547
+      "deaths": 325,
+      "recovered": 50924
     }
   },
   "Greece": {
     "live": {
       "confirmed": 111537,
       "date": "2020-12-04",
-      "deaths": 2706,
+      "deaths": 2804,
       "recovered": 23074
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 124053,
+      "confirmed": 124805,
       "date": "2020-12-04",
       "deaths": 4224,
       "recovered": 113273
@@ -892,7 +892,7 @@
       "confirmed": 341760,
       "date": "2020-12-04",
       "deaths": 2896,
-      "recovered": 326966
+      "recovered": 327162
     }
   },
   "Italy": {
@@ -993,7 +993,7 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 231237,
+      "confirmed": 234353,
       "date": "2020-12-04",
       "deaths": 2960,
       "recovered": 177195
@@ -1009,10 +1009,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 86383,
+      "confirmed": 87249,
       "date": "2020-12-04",
-      "deaths": 1500,
-      "recovered": 67788
+      "deaths": 1506,
+      "recovered": 68110
     }
   },
   "Kuwait": {
@@ -1125,10 +1125,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 112307,
+      "confirmed": 113829,
       "date": "2020-12-04",
-      "deaths": 2363,
-      "recovered": 97549
+      "deaths": 2384,
+      "recovered": 98276
     }
   },
   "Morocco": {
@@ -1299,8 +1299,8 @@
     "live": {
       "confirmed": 307618,
       "date": "2020-12-04",
-      "deaths": 4724,
-      "recovered": 229018
+      "deaths": 4803,
+      "recovered": 234038
     }
   },
   "Qatar": {
@@ -1405,10 +1405,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 81349,
+      "confirmed": 83133,
       "date": "2020-12-04",
-      "deaths": 1592,
-      "recovered": 59469
+      "deaths": 1653,
+      "recovered": 60957
     }
   },
   "South Africa": {
@@ -1631,9 +1631,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 53688,
+          "confirmed": 54376,
           "date": "2020-12-04",
-          "deaths": 1035,
+          "deaths": 1084,
           "recovered": 0
         }
       },
