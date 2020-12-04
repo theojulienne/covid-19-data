@@ -539,16 +539,16 @@
     "live": {
       "confirmed": 111579,
       "date": "2020-12-04",
-      "deaths": 1724,
-      "recovered": 77385
+      "deaths": 1734,
+      "recovered": 78619
     }
   },
   "France": {
     "live": {
-      "confirmed": 2255912,
+      "confirmed": 2267035,
       "date": "2020-12-04",
-      "deaths": 53791,
-      "recovered": 144469
+      "deaths": 54417,
+      "recovered": 145324
     }
   },
   "Georgia": {
@@ -563,26 +563,26 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 159013,
+          "confirmed": 162388,
           "date": "2020-12-04",
-          "deaths": 2919,
-          "recovered": 112448
+          "deaths": 2978,
+          "recovered": 114920
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 222360,
+          "confirmed": 223067,
           "date": "2020-12-04",
-          "deaths": 4156,
-          "recovered": 159039
+          "deaths": 4176,
+          "recovered": 162974
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 68508,
+          "confirmed": 69768,
           "date": "2020-12-04",
-          "deaths": 641,
-          "recovered": 48499
+          "deaths": 657,
+          "recovered": 48747
         }
       },
       "Hessen": {
@@ -611,9 +611,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 47140,
+          "confirmed": 48239,
           "date": "2020-12-04",
-          "deaths": 608,
+          "deaths": 644,
           "recovered": 30600
         }
       },
@@ -881,7 +881,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 73228,
+      "confirmed": 73491,
       "date": "2020-12-04",
       "deaths": 2086,
       "recovered": 23364
@@ -1135,8 +1135,8 @@
     "live": {
       "confirmed": 368624,
       "date": "2020-12-04",
-      "deaths": 6063,
-      "recovered": 318987
+      "deaths": 6136,
+      "recovered": 323814
     }
   },
   "Nepal": {
@@ -1535,8 +1535,8 @@
     "live": {
       "confirmed": 99280,
       "date": "2020-12-04",
-      "deaths": 3359,
-      "recovered": 73607
+      "deaths": 3415,
+      "recovered": 74513
     }
   },
   "Turkey": {
@@ -1567,25 +1567,25 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 579106,
+          "confirmed": 584923,
           "date": "2020-12-04",
-          "deaths": 9497,
+          "deaths": 9539,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 83479,
+          "confirmed": 42130,
           "date": "2020-12-04",
-          "deaths": 1255,
+          "deaths": 714,
           "recovered": 0
         }
       },
       "Illinois": {
         "live": {
-          "confirmed": 366823,
+          "confirmed": 413259,
           "date": "2020-12-04",
-          "deaths": 7684,
+          "deaths": 8284,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 121863,
+          "confirmed": 123691,
           "date": "2020-12-04",
-          "deaths": 1817,
+          "deaths": 1828,
           "recovered": 0
         }
       },
@@ -1687,17 +1687,17 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 70476,
+          "confirmed": 72314,
           "date": "2020-12-04",
-          "deaths": 2005,
+          "deaths": 2033,
           "recovered": 0
         }
       },
       "Tennessee": {
         "live": {
-          "confirmed": 94544,
+          "confirmed": 95531,
           "date": "2020-12-04",
-          "deaths": 1116,
+          "deaths": 1128,
           "recovered": 0
         }
       },
