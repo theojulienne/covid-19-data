@@ -52,7 +52,7 @@
       "confirmed": 87432,
       "date": "2020-12-04",
       "deaths": 341,
-      "recovered": 85598
+      "recovered": 85710
     }
   },
   "Bangladesh": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 126948,
+          "confirmed": 127130,
           "date": "2020-12-04",
-          "deaths": 3756,
-          "recovered": 109294
+          "deaths": 3759,
+          "recovered": 109483
         }
       },
       "Quebec": {
@@ -481,9 +481,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 142505,
+      "confirmed": 143685,
       "date": "2020-12-04",
-      "deaths": 1757,
+      "deaths": 1773,
       "recovered": 95789
     }
   },
@@ -545,9 +545,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 2267035,
+      "confirmed": 2267019,
       "date": "2020-12-04",
-      "deaths": 54417,
+      "deaths": 54416,
       "recovered": 145324
     }
   },
@@ -1543,17 +1543,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 260817,
+          "confirmed": 264916,
           "date": "2020-12-04",
-          "deaths": 4797,
+          "deaths": 4841,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 827224,
+          "confirmed": 827924,
           "date": "2020-12-04",
-          "deaths": 13476,
+          "deaths": 13493,
           "recovered": 0
         }
       },
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 664188,
+          "confirmed": 665094,
           "date": "2020-12-04",
           "deaths": 10468,
           "recovered": 0
@@ -1703,7 +1703,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 135523,
+          "confirmed": 137040,
           "date": "2020-12-04",
           "deaths": 569,
           "recovered": 0
