@@ -960,7 +960,8 @@ var covid19_dataset_country_srb = {
       1652,
       1704,
       1765,
-      1834
+      1834,
+      1891
     ],
     "recovered": [
       0,
