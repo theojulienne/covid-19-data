@@ -7,14 +7,6 @@
       "recovered": 37393
     }
   },
-  "Albania": {
-    "live": {
-      "confirmed": 42148,
-      "date": "2020-12-05",
-      "deaths": 889,
-      "recovered": 21286
-    }
-  },
   "Algeria": {
     "live": {
       "confirmed": 87502,
@@ -553,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2267019,
+      "confirmed": 2279869,
       "date": "2020-12-05",
-      "deaths": 54416,
-      "recovered": 145324
+      "deaths": 54630,
+      "recovered": 146330
     }
   },
   "Georgia": {
@@ -1021,6 +1013,14 @@
       "date": "2020-12-05",
       "deaths": 1518,
       "recovered": 68532
+    }
+  },
+  "Kosovo": {
+    "live": {
+      "confirmed": 42337,
+      "date": "2020-12-05",
+      "deaths": 1087,
+      "recovered": 27821
     }
   },
   "Kuwait": {
@@ -1673,7 +1673,7 @@
         "live": {
           "confirmed": 102600,
           "date": "2020-12-05",
-          "deaths": 1458,
+          "deaths": 1463,
           "recovered": 0
         }
       },
