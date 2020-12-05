@@ -1049,10 +1049,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 69582,
+      "confirmed": 72430,
       "date": "2020-12-05",
-      "deaths": 590,
-      "recovered": 27760
+      "deaths": 611,
+      "recovered": 30277
     }
   },
   "Malaysia": {
@@ -1289,10 +1289,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1041846,
+      "confirmed": 1054273,
       "date": "2020-12-05",
-      "deaths": 19359,
-      "recovered": 666413
+      "deaths": 19861,
+      "recovered": 687910
     }
   },
   "Portugal": {
@@ -1397,10 +1397,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 83133,
+      "confirmed": 84769,
       "date": "2020-12-05",
-      "deaths": 1653,
-      "recovered": 60957
+      "deaths": 1700,
+      "recovered": 62600
     }
   },
   "South Africa": {
@@ -1781,10 +1781,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 174062,
+      "confirmed": 175276,
       "date": "2020-12-05",
-      "deaths": 586,
-      "recovered": 157828
+      "deaths": 589,
+      "recovered": 158498
     }
   },
   "United Kingdom": {
