@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 297245,
+      "confirmed": 300689,
       "date": "2020-12-05",
-      "deaths": 3651,
-      "recovered": 243775
+      "deaths": 3757,
+      "recovered": 249441
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 473991,
+      "confirmed": 475789,
       "date": "2020-12-05",
-      "deaths": 6772,
-      "recovered": 390951
+      "deaths": 6807,
+      "recovered": 393408
     }
   },
   "Belarus": {
@@ -489,10 +489,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 143370,
+      "confirmed": 147454,
       "date": "2020-12-05",
-      "deaths": 2032,
-      "recovered": 117148
+      "deaths": 2102,
+      "recovered": 120857
     }
   },
   "Czechia": {
@@ -597,8 +597,8 @@
         "live": {
           "confirmed": 76295,
           "date": "2020-12-05",
-          "deaths": 1256,
-          "recovered": 61202
+          "deaths": 1258,
+          "recovered": 62218
         }
       },
       "Nordrhein-Westfalen": {
@@ -865,10 +865,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1016835,
+      "confirmed": 1028986,
       "date": "2020-12-05",
-      "deaths": 49695,
-      "recovered": 708106
+      "deaths": 50016,
+      "recovered": 719708
     }
   },
   "Iraq": {
@@ -1057,10 +1057,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 70236,
+      "confirmed": 71359,
       "date": "2020-12-05",
-      "deaths": 376,
-      "recovered": 59061
+      "deaths": 380,
+      "recovered": 60204
     }
   },
   "Mexico": {
@@ -1141,10 +1141,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 238861,
+      "confirmed": 239885,
       "date": "2020-12-05",
-      "deaths": 1567,
-      "recovered": 221847
+      "deaths": 1577,
+      "recovered": 224053
     }
   },
   "Netherlands": {
@@ -1305,10 +1305,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 139643,
+      "confirmed": 139783,
       "date": "2020-12-05",
       "deaths": 239,
-      "recovered": 136872
+      "recovered": 137060
     }
   },
   "Romania": {
@@ -1389,10 +1389,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 113392,
+      "confirmed": 115462,
       "date": "2020-12-05",
-      "deaths": 957,
-      "recovered": 77142
+      "deaths": 981,
+      "recovered": 79956
     }
   },
   "Slovenia": {
@@ -1841,10 +1841,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 94676,
+      "confirmed": 96098,
       "date": "2020-12-05",
-      "deaths": 797,
-      "recovered": 70206
+      "deaths": 812,
+      "recovered": 71236
     }
   }
 }
