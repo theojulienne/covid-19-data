@@ -138,28 +138,28 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 27688,
+        "confirmed": 27693,
         "current_hospitalized": 7,
         "current_icu": 0,
         "deaths": 910,
-        "recovered": 2864,
-        "tested": 9959257
+        "recovered": 2878,
+        "tested": 9977631
       },
       "back_2week": {
-        "confirmed": 27643,
-        "current_hospitalized": 11,
-        "current_icu": 5,
+        "confirmed": 27646,
+        "current_hospitalized": 22,
+        "current_icu": 0,
         "deaths": 909,
-        "recovered": 22339,
-        "tested": 9714439
+        "recovered": 2823,
+        "tested": 9756655
       },
       "latest": {
-        "confirmed": 27742,
+        "confirmed": 27750,
         "current_hospitalized": 7,
         "current_icu": 0,
         "deaths": 910,
         "recovered": 2918,
-        "tested": 10059336
+        "tested": 10073773
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@
           "tested": 116324
         },
         "NSW": {
-          "confirmed": 4408,
+          "confirmed": 4414,
           "current_hospitalized": 3,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 55,
           "recovered": 2799,
-          "tested": 3506000
+          "tested": 3517128
         },
         "NT": {
           "confirmed": 46,
@@ -1821,19 +1821,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 331915,
-        "deaths": 2826,
-        "recovered": 319921
+        "confirmed": 332211,
+        "deaths": 2831,
+        "recovered": 319718
       },
       "back_2week": {
-        "confirmed": 326331,
-        "deaths": 2739,
-        "recovered": 315318
+        "confirmed": 326585,
+        "deaths": 2770,
+        "recovered": 314709
       },
       "latest": {
-        "confirmed": 339619,
-        "deaths": 2883,
-        "recovered": 325260
+        "confirmed": 339968,
+        "deaths": 2886,
+        "recovered": 325255
       }
     },
     "ITA": {
@@ -3431,7 +3431,7 @@
         "confirmed": 13858618,
         "deaths": 265936,
         "recovered": 5350895,
-        "tested": 170473343
+        "tested": 171468289
       },
       "states": {
         "AK": {
@@ -3683,7 +3683,7 @@
           "deaths": 973,
           "hospitalized": 4803,
           "recovered": 5870,
-          "tested": 1048378
+          "tested": 2043324
         },
         "PA": {
           "confirmed": 386837,
