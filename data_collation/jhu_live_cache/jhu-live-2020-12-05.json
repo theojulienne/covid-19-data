@@ -1025,10 +1025,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 74373,
+      "confirmed": 74774,
       "date": "2020-12-05",
-      "deaths": 1285,
-      "recovered": 66113
+      "deaths": 1290,
+      "recovered": 66538
     }
   },
   "Lebanon": {
