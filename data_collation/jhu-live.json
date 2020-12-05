@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 46837,
+      "confirmed": 47072,
       "date": "2020-12-05",
-      "deaths": 1846,
-      "recovered": 37260
+      "deaths": 1864,
+      "recovered": 37393
     }
   },
   "Algeria": {
@@ -1325,40 +1325,40 @@
         "live": {
           "confirmed": 632057,
           "date": "2020-12-05",
-          "deaths": 9203,
-          "recovered": 478724
+          "deaths": 9277,
+          "recovered": 485308
         }
       },
       "Moscow Oblast": {
         "live": {
           "confirmed": 115694,
           "date": "2020-12-05",
-          "deaths": 2193,
-          "recovered": 82704
+          "deaths": 2224,
+          "recovered": 83499
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
           "confirmed": 56397,
           "date": "2020-12-05",
-          "deaths": 1231,
-          "recovered": 50826
+          "deaths": 1245,
+          "recovered": 51300
         }
       },
       "Saint Petersburg": {
         "live": {
           "confirmed": 140674,
           "date": "2020-12-05",
-          "deaths": 5725,
-          "recovered": 80441
+          "deaths": 5783,
+          "recovered": 83558
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
           "confirmed": 47835,
           "date": "2020-12-05",
-          "deaths": 1076,
-          "recovered": 40069
+          "deaths": 1090,
+          "recovered": 40474
         }
       }
     }
