@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 128996,
+          "confirmed": 128997,
           "date": "2020-12-05",
           "deaths": 3774,
           "recovered": 111197
@@ -889,7 +889,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 343665,
+      "confirmed": 343826,
       "date": "2020-12-05",
       "deaths": 2909,
       "recovered": 327749
@@ -1017,10 +1017,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 143917,
+      "confirmed": 144164,
       "date": "2020-12-05",
-      "deaths": 886,
-      "recovered": 139148
+      "deaths": 889,
+      "recovered": 139610
     }
   },
   "Kyrgyzstan": {
@@ -1543,9 +1543,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 264916,
+          "confirmed": 269712,
           "date": "2020-12-05",
-          "deaths": 4841,
+          "deaths": 4861,
           "recovered": 0
         }
       },
@@ -1599,9 +1599,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 50108,
+          "confirmed": 51310,
           "date": "2020-12-05",
-          "deaths": 2450,
+          "deaths": 2455,
           "recovered": 0
         }
       },
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 667509,
+          "confirmed": 668811,
           "date": "2020-12-05",
-          "deaths": 10564,
+          "deaths": 10656,
           "recovered": 0
         }
       },
