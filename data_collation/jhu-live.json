@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 223067,
+          "confirmed": 226357,
           "date": "2020-12-05",
           "deaths": 4249,
           "recovered": 162974
@@ -587,7 +587,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 92825,
+          "confirmed": 94437,
           "date": "2020-12-05",
           "deaths": 1441,
           "recovered": 65136
@@ -595,7 +595,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 75695,
+          "confirmed": 76295,
           "date": "2020-12-05",
           "deaths": 1256,
           "recovered": 61202
@@ -603,7 +603,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 276697,
+          "confirmed": 281491,
           "date": "2020-12-05",
           "deaths": 3892,
           "recovered": 209300
@@ -611,7 +611,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 48239,
+          "confirmed": 48260,
           "date": "2020-12-05",
           "deaths": 644,
           "recovered": 30600
@@ -619,7 +619,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 65510,
+          "confirmed": 65830,
           "date": "2020-12-05",
           "deaths": 1224,
           "recovered": 41260
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 838282,
           "date": "2020-12-05",
-          "deaths": 14588,
+          "deaths": 13570,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 100680,
+          "confirmed": 102600,
           "date": "2020-12-05",
-          "deaths": 1442,
+          "deaths": 1458,
           "recovered": 0
         }
       },
