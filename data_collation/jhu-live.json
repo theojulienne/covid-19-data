@@ -395,17 +395,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 127130,
+          "confirmed": 127630,
           "date": "2020-12-05",
-          "deaths": 3763,
-          "recovered": 109803
+          "deaths": 3764,
+          "recovered": 109876
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 147877,
+          "confirmed": 149908,
           "date": "2020-12-05",
-          "deaths": 7183,
+          "deaths": 7231,
           "recovered": 127549
         }
       }
@@ -521,10 +521,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 146680,
+      "confirmed": 147655,
       "date": "2020-12-05",
-      "deaths": 2343,
-      "recovered": 116169
+      "deaths": 2345,
+      "recovered": 116329
     }
   },
   "Ecuador": {
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 113185,
+      "confirmed": 114568,
       "date": "2020-12-05",
-      "deaths": 2804,
+      "deaths": 2902,
       "recovered": 23074
     }
   },
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 342101,
+      "confirmed": 343665,
       "date": "2020-12-05",
-      "deaths": 2896,
-      "recovered": 327162
+      "deaths": 2901,
+      "recovered": 327710
     }
   },
   "Italy": {
@@ -1017,10 +1017,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 87249,
+      "confirmed": 87984,
       "date": "2020-12-05",
-      "deaths": 1506,
-      "recovered": 68110
+      "deaths": 1518,
+      "recovered": 68532
     }
   },
   "Kuwait": {
@@ -1133,10 +1133,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 113829,
+      "confirmed": 115557,
       "date": "2020-12-05",
-      "deaths": 2384,
-      "recovered": 98276
+      "deaths": 2403,
+      "recovered": 99606
     }
   },
   "Morocco": {
@@ -1305,10 +1305,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 312553,
+      "confirmed": 318640,
       "date": "2020-12-05",
-      "deaths": 4803,
-      "recovered": 234038
+      "deaths": 4876,
+      "recovered": 240203
     }
   },
   "Qatar": {
@@ -1392,7 +1392,7 @@
       "confirmed": 58255,
       "date": "2020-12-05",
       "deaths": 29,
-      "recovered": 58152
+      "recovered": 58158
     }
   },
   "Slovakia": {
@@ -1541,10 +1541,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 765997,
+      "confirmed": 797893,
       "date": "2020-12-05",
-      "deaths": 14509,
-      "recovered": 423142
+      "deaths": 14705,
+      "recovered": 427242
     }
   },
   "US": {
@@ -1599,7 +1599,7 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 43000,
+          "confirmed": 43635,
           "date": "2020-12-05",
           "deaths": 949,
           "recovered": 0
@@ -1801,7 +1801,7 @@
         "live": {
           "confirmed": 1452137,
           "date": "2020-12-05",
-          "deaths": 53025,
+          "deaths": 53369,
           "recovered": 0
         }
       },
@@ -1809,7 +1809,7 @@
         "live": {
           "confirmed": 54177,
           "date": "2020-12-05",
-          "deaths": 1032,
+          "deaths": 1039,
           "recovered": 0
         }
       },
@@ -1817,7 +1817,7 @@
         "live": {
           "confirmed": 98686,
           "date": "2020-12-05",
-          "deaths": 3889,
+          "deaths": 3911,
           "recovered": 0
         }
       },
@@ -1825,7 +1825,7 @@
         "live": {
           "confirmed": 85432,
           "date": "2020-12-05",
-          "deaths": 2671,
+          "deaths": 2695,
           "recovered": 0
         }
       }
