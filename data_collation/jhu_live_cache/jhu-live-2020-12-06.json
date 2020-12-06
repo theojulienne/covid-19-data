@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 87502,
+      "confirmed": 88252,
       "date": "2020-12-06",
-      "deaths": 2501,
-      "recovered": 56617
+      "deaths": 2516,
+      "recovered": 57146
     }
   },
   "Argentina": {
@@ -587,7 +587,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 71088,
+          "confirmed": 71443,
           "date": "2020-12-06",
           "deaths": 683,
           "recovered": 49816
@@ -1400,7 +1400,7 @@
       "confirmed": 58260,
       "date": "2020-12-06",
       "deaths": 29,
-      "recovered": 58158
+      "recovered": 58160
     }
   },
   "Slovakia": {
@@ -1575,9 +1575,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 590558,
+          "confirmed": 595382,
           "date": "2020-12-06",
-          "deaths": 9566,
+          "deaths": 9606,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 375789,
+          "confirmed": 379487,
           "date": "2020-12-06",
-          "deaths": 7766,
+          "deaths": 7799,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 126066,
+          "confirmed": 127819,
           "date": "2020-12-06",
-          "deaths": 1850,
+          "deaths": 1852,
           "recovered": 0
         }
       },
@@ -1671,7 +1671,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 46199,
+          "confirmed": 46983,
           "date": "2020-12-06",
           "deaths": 470,
           "recovered": 0
@@ -1687,7 +1687,7 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 43884,
+          "confirmed": 44505,
           "date": "2020-12-06",
           "deaths": 331,
           "recovered": 0
