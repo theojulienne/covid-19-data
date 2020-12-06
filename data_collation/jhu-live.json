@@ -661,10 +661,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 243581,
+      "confirmed": 250278,
       "date": "2020-12-06",
-      "deaths": 5706,
-      "recovered": 70396
+      "deaths": 5868,
+      "recovered": 71682
     }
   },
   "India": {
@@ -1281,10 +1281,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 438069,
+      "confirmed": 439834,
       "date": "2020-12-06",
-      "deaths": 8526,
-      "recovered": 399582
+      "deaths": 8554,
+      "recovered": 408634
     }
   },
   "Poland": {
