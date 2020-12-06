@@ -395,7 +395,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 129511,
+          "confirmed": 130184,
           "date": "2020-12-06",
           "deaths": 3784,
           "recovered": 112544
@@ -529,10 +529,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 197391,
+      "confirmed": 197998,
       "date": "2020-12-06",
-      "deaths": 13756,
-      "recovered": 169804
+      "deaths": 13778,
+      "recovered": 174188
     }
   },
   "Egypt": {
@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2279869,
+      "confirmed": 2290891,
       "date": "2020-12-06",
-      "deaths": 54630,
-      "recovered": 146330
+      "deaths": 54804,
+      "recovered": 146558
     }
   },
   "Georgia": {
@@ -589,8 +589,8 @@
         "live": {
           "confirmed": 71088,
           "date": "2020-12-06",
-          "deaths": 679,
-          "recovered": 49705
+          "deaths": 683,
+          "recovered": 49816
         }
       },
       "Hessen": {
@@ -889,7 +889,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 73948,
+      "confirmed": 74246,
       "date": "2020-12-06",
       "deaths": 2099,
       "recovered": 23364
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 344228,
+      "confirmed": 344798,
       "date": "2020-12-06",
-      "deaths": 2916,
-      "recovered": 327972
+      "deaths": 2915,
+      "recovered": 328734
     }
   },
   "Italy": {
@@ -1149,10 +1149,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 376738,
+      "confirmed": 379657,
       "date": "2020-12-06",
-      "deaths": 6184,
-      "recovered": 327693
+      "deaths": 6245,
+      "recovered": 331301
     }
   },
   "Nepal": {
@@ -1217,10 +1217,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 67311,
+      "confirmed": 67968,
       "date": "2020-12-06",
-      "deaths": 1901,
-      "recovered": 42872
+      "deaths": 1924,
+      "recovered": 43646
     }
   },
   "Oman": {
@@ -1665,7 +1665,7 @@
         "live": {
           "confirmed": 487064,
           "date": "2020-12-06",
-          "deaths": 29033,
+          "deaths": 29039,
           "recovered": 0
         }
       },
@@ -1673,7 +1673,7 @@
         "live": {
           "confirmed": 46199,
           "date": "2020-12-06",
-          "deaths": 467,
+          "deaths": 470,
           "recovered": 0
         }
       },
@@ -1689,7 +1689,7 @@
         "live": {
           "confirmed": 43884,
           "date": "2020-12-06",
-          "deaths": 321,
+          "deaths": 331,
           "recovered": 0
         }
       },
