@@ -398,7 +398,7 @@
           "confirmed": 130184,
           "date": "2020-12-06",
           "deaths": 3784,
-          "recovered": 112544
+          "recovered": 113014
         }
       },
       "Quebec": {
@@ -1421,10 +1421,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 810449,
+      "confirmed": 814565,
       "date": "2020-12-06",
-      "deaths": 22067,
-      "recovered": 744298
+      "deaths": 22206,
+      "recovered": 744780
     }
   },
   "Spain": {
@@ -1567,7 +1567,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 861715,
+          "confirmed": 865956,
           "date": "2020-12-06",
           "deaths": 13662,
           "recovered": 0
@@ -1585,7 +1585,7 @@
         "live": {
           "confirmed": 43169,
           "date": "2020-12-06",
-          "deaths": 723,
+          "deaths": 724,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 487064,
+          "confirmed": 492417,
           "date": "2020-12-06",
           "deaths": 29039,
           "recovered": 0
@@ -1679,9 +1679,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 104549,
+          "confirmed": 106426,
           "date": "2020-12-06",
-          "deaths": 1463,
+          "deaths": 1461,
           "recovered": 0
         }
       },
@@ -1703,17 +1703,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 96421,
+          "confirmed": 96953,
           "date": "2020-12-06",
-          "deaths": 1136,
+          "deaths": 1143,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 672502,
+          "confirmed": 675889,
           "date": "2020-12-06",
-          "deaths": 10658,
+          "deaths": 10659,
           "recovered": 0
         }
       },
@@ -1735,9 +1735,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 77390,
+          "confirmed": 77931,
           "date": "2020-12-06",
-          "deaths": 788,
+          "deaths": 789,
           "recovered": 0
         }
       }
