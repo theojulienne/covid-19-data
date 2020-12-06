@@ -497,10 +497,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 544112,
+      "confirmed": 544179,
       "date": "2020-12-06",
-      "deaths": 8782,
-      "recovered": 474167
+      "deaths": 8815,
+      "recovered": 476669
     }
   },
   "Denmark": {
@@ -1551,7 +1551,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 854355,
+          "confirmed": 855470,
           "date": "2020-12-06",
           "deaths": 13653,
           "recovered": 0
