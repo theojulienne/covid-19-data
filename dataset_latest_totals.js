@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 45723,
-        "deaths": 1740,
-        "recovered": 36295
+        "confirmed": 45844,
+        "deaths": 1752,
+        "recovered": 36709
       },
       "back_2week": {
-        "confirmed": 44363,
-        "deaths": 1666,
-        "recovered": 35370
+        "confirmed": 44503,
+        "deaths": 1678,
+        "recovered": 35422
       },
       "latest": {
-        "confirmed": 46837,
-        "deaths": 1846,
-        "recovered": 37260
+        "confirmed": 47072,
+        "deaths": 1864,
+        "recovered": 37393
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 132346,
-        "deaths": 2090,
-        "recovered": 105149
+        "confirmed": 133594,
+        "deaths": 2121,
+        "recovered": 106479
       },
       "back_2week": {
-        "confirmed": 123646,
-        "deaths": 1900,
-        "recovered": 90754
+        "confirmed": 124839,
+        "deaths": 1931,
+        "recovered": 92829
       },
       "latest": {
-        "confirmed": 139692,
-        "deaths": 2277,
-        "recovered": 114990
+        "confirmed": 140959,
+        "deaths": 2309,
+        "recovered": 116066
       }
     },
     "ATG": {
@@ -1481,19 +1481,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 123470,
-        "deaths": 1161,
-        "recovered": 102270
+        "confirmed": 127942,
+        "deaths": 1195,
+        "recovered": 106328
       },
       "back_2week": {
-        "confirmed": 96860,
-        "deaths": 894,
-        "recovered": 77932
+        "confirmed": 100684,
+        "deaths": 927,
+        "recovered": 81783
       },
       "latest": {
-        "confirmed": 152704,
-        "deaths": 1425,
-        "recovered": 126904
+        "confirmed": 158154,
+        "deaths": 1462,
+        "recovered": 129210
       }
     },
     "GHA": {
