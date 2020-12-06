@@ -390,7 +390,7 @@
           "confirmed": 128997,
           "date": "2020-12-06",
           "deaths": 3774,
-          "recovered": 111197
+          "recovered": 111504
         }
       },
       "Quebec": {
@@ -407,7 +407,7 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 306862,
+          "confirmed": 307311,
           "date": "2020-12-06",
           "deaths": 10424,
           "recovered": 294279
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 229675,
+          "confirmed": 229868,
           "date": "2020-12-06",
           "deaths": 4291,
           "recovered": 167823
@@ -645,10 +645,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 125352,
+      "confirmed": 125550,
       "date": "2020-12-06",
-      "deaths": 4239,
-      "recovered": 113870
+      "deaths": 4250,
+      "recovered": 114315
     }
   },
   "Honduras": {
@@ -1305,10 +1305,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 318640,
+      "confirmed": 322474,
       "date": "2020-12-06",
-      "deaths": 4876,
-      "recovered": 240203
+      "deaths": 4963,
+      "recovered": 243055
     }
   },
   "Qatar": {
@@ -1381,7 +1381,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 213843,
+      "confirmed": 219652,
       "date": "2020-12-06",
       "deaths": 1949,
       "recovered": 0
