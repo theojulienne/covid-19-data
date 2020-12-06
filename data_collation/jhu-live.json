@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 145279,
+      "confirmed": 147157,
       "date": "2020-12-06",
-      "deaths": 1198,
-      "recovered": 122339
+      "deaths": 1207,
+      "recovered": 124774
     }
   },
   "Belgium": {
@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 98047,
+      "confirmed": 99155,
       "date": "2020-12-06",
-      "deaths": 2081,
-      "recovered": 76382
+      "deaths": 2110,
+      "recovered": 77636
     }
   },
   "Canada": {
@@ -409,8 +409,8 @@
         "live": {
           "confirmed": 306862,
           "date": "2020-12-06",
-          "deaths": 10407,
-          "recovered": 293893
+          "deaths": 10424,
+          "recovered": 294279
         }
       }
     }
@@ -573,7 +573,7 @@
         "live": {
           "confirmed": 229675,
           "date": "2020-12-06",
-          "deaths": 4289,
+          "deaths": 4291,
           "recovered": 167823
         }
       },
@@ -1015,6 +1015,14 @@
       "recovered": 68532
     }
   },
+  "Kosovo": {
+    "live": {
+      "confirmed": 42805,
+      "date": "2020-12-06",
+      "deaths": 1106,
+      "recovered": 28504
+    }
+  },
   "Kuwait": {
     "live": {
       "confirmed": 144369,
@@ -1263,17 +1271,17 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 46645,
+          "confirmed": 46703,
           "date": "2020-12-06",
-          "deaths": 1545,
+          "deaths": 1546,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 432225,
+          "confirmed": 432960,
           "date": "2020-12-06",
-          "deaths": 16217,
+          "deaths": 16228,
           "recovered": 0
         }
       }
@@ -1375,7 +1383,7 @@
     "live": {
       "confirmed": 213843,
       "date": "2020-12-06",
-      "deaths": 1891,
+      "deaths": 1949,
       "recovered": 0
     }
   },
@@ -1575,9 +1583,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 418169,
+          "confirmed": 375789,
           "date": "2020-12-06",
-          "deaths": 8380,
+          "deaths": 7766,
           "recovered": 0
         }
       },
