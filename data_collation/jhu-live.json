@@ -563,7 +563,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 162388,
+          "confirmed": 164843,
           "date": "2020-12-06",
           "deaths": 3007,
           "recovered": 118282
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 226801,
+          "confirmed": 229675,
           "date": "2020-12-06",
           "deaths": 4289,
           "recovered": 167823
@@ -587,7 +587,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 94437,
+          "confirmed": 95954,
           "date": "2020-12-06",
           "deaths": 1460,
           "recovered": 67539
@@ -595,7 +595,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 76702,
+          "confirmed": 77033,
           "date": "2020-12-06",
           "deaths": 1261,
           "recovered": 62929
@@ -603,7 +603,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 281491,
+          "confirmed": 284815,
           "date": "2020-12-06",
           "deaths": 3924,
           "recovered": 215744
@@ -611,7 +611,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 48758,
+          "confirmed": 48779,
           "date": "2020-12-06",
           "deaths": 666,
           "recovered": 31563
@@ -619,7 +619,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 65830,
+          "confirmed": 68244,
           "date": "2020-12-06",
           "deaths": 1279,
           "recovered": 41260
@@ -1219,26 +1219,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 48683,
+          "confirmed": 49220,
           "date": "2020-12-06",
-          "deaths": 1399,
-          "recovered": 43839
+          "deaths": 1404,
+          "recovered": 44167
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 122293,
+          "confirmed": 122955,
           "date": "2020-12-06",
-          "deaths": 3137,
-          "recovered": 99215
+          "deaths": 3162,
+          "recovered": 99310
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 180904,
+          "confirmed": 182473,
           "date": "2020-12-06",
-          "deaths": 2991,
-          "recovered": 157006
+          "deaths": 3011,
+          "recovered": 158567
         }
       }
     }
@@ -1833,9 +1833,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 103877,
+      "confirmed": 104177,
       "date": "2020-12-06",
-      "deaths": 913,
+      "deaths": 916,
       "recovered": 98879
     }
   },
