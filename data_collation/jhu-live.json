@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1463110,
+      "confirmed": 1466309,
       "date": "2020-12-07",
-      "deaths": 39770,
-      "recovered": 1294692
+      "deaths": 39888,
+      "recovered": 1300696
     }
   },
   "Armenia": {
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 346490,
+      "confirmed": 346797,
       "date": "2020-12-07",
       "deaths": 2924,
-      "recovered": 330173
+      "recovered": 330188
     }
   },
   "Italy": {
@@ -1021,14 +1021,6 @@
       "date": "2020-12-07",
       "deaths": 1531,
       "recovered": 69414
-    }
-  },
-  "Kosovo": {
-    "live": {
-      "confirmed": 43324,
-      "date": "2020-12-07",
-      "deaths": 1120,
-      "recovered": 29430
     }
   },
   "Kuwait": {
@@ -1573,6 +1565,14 @@
           "recovered": 0
         }
       },
+      "Connecticut": {
+        "live": {
+          "confirmed": 43840,
+          "date": "2020-12-07",
+          "deaths": 1566,
+          "recovered": 0
+        }
+      },
       "Florida": {
         "live": {
           "confirmed": 599879,
@@ -1583,7 +1583,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 43415,
+          "confirmed": 43802,
           "date": "2020-12-07",
           "deaths": 725,
           "recovered": 0
@@ -1617,7 +1617,7 @@
         "live": {
           "confirmed": 52345,
           "date": "2020-12-07",
-          "deaths": 2468,
+          "deaths": 2479,
           "recovered": 0
         }
       },
@@ -1711,9 +1711,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 679743,
+          "confirmed": 681593,
           "date": "2020-12-07",
-          "deaths": 10693,
+          "deaths": 10707,
           "recovered": 0
         }
       },
