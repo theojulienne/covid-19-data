@@ -367,19 +367,19 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 86645,
+        "confirmed": 86787,
         "deaths": 341,
-        "recovered": 84785
+        "recovered": 84977
       },
       "back_2week": {
-        "confirmed": 85591,
+        "confirmed": 85705,
         "deaths": 338,
-        "recovered": 83617
+        "recovered": 83829
       },
       "latest": {
-        "confirmed": 87732,
+        "confirmed": 87930,
         "deaths": 341,
-        "recovered": 85876
+        "recovered": 86030
       }
     },
     "BHS": {
@@ -1173,18 +1173,18 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 190909,
-        "deaths": 13371,
+        "confirmed": 192117,
+        "deaths": 13423,
         "recovered": 164009
       },
       "back_2week": {
-        "confirmed": 184876,
-        "deaths": 13139,
+        "confirmed": 185643,
+        "deaths": 13201,
         "recovered": 160639
       },
       "latest": {
-        "confirmed": 197391,
-        "deaths": 13756,
+        "confirmed": 197998,
+        "deaths": 13778,
         "recovered": 169804
       }
     },
@@ -3428,10 +3428,10 @@ var covid19_dataset_latest_totals = {
         "tested": 154481609
       },
       "latest": {
-        "confirmed": 14293016,
-        "deaths": 270913,
-        "recovered": 5521022,
-        "tested": 174687702
+        "confirmed": 14294823,
+        "deaths": 270929,
+        "recovered": 5521148,
+        "tested": 174692647
       },
       "states": {
         "AK": {
@@ -3693,11 +3693,11 @@ var covid19_dataset_latest_totals = {
           "tested": 3323124
         },
         "RI": {
-          "confirmed": 62137,
-          "deaths": 1413,
-          "hospitalized": 4843,
-          "recovered": 3939,
-          "tested": 545059
+          "confirmed": 63944,
+          "deaths": 1429,
+          "hospitalized": 4984,
+          "recovered": 4065,
+          "tested": 550004
         },
         "SC": {
           "confirmed": 229235,
