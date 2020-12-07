@@ -571,7 +571,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 164843,
+          "confirmed": 166641,
           "date": "2020-12-07",
           "deaths": 3022,
           "recovered": 120243
@@ -579,7 +579,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 229868,
+          "confirmed": 231896,
           "date": "2020-12-07",
           "deaths": 4325,
           "recovered": 171004
@@ -595,7 +595,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 95954,
+          "confirmed": 96637,
           "date": "2020-12-07",
           "deaths": 1478,
           "recovered": 68981
@@ -603,7 +603,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 77575,
+          "confirmed": 77741,
           "date": "2020-12-07",
           "deaths": 1266,
           "recovered": 63986
@@ -611,7 +611,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 284815,
+          "confirmed": 287178,
           "date": "2020-12-07",
           "deaths": 3954,
           "recovered": 219774
@@ -619,7 +619,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 49475,
+          "confirmed": 49496,
           "date": "2020-12-07",
           "deaths": 674,
           "recovered": 32233
@@ -627,7 +627,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 68244,
+          "confirmed": 70168,
           "date": "2020-12-07",
           "deaths": 1292,
           "recovered": 41260
@@ -1041,10 +1041,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 74973,
+      "confirmed": 75395,
       "date": "2020-12-07",
-      "deaths": 1295,
-      "recovered": 66993
+      "deaths": 1297,
+      "recovered": 67400
     }
   },
   "Lebanon": {
@@ -1841,10 +1841,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 73904,
+      "confirmed": 74053,
       "date": "2020-12-07",
       "deaths": 611,
-      "recovered": 71173
+      "recovered": 71315
     }
   },
   "Venezuela": {
