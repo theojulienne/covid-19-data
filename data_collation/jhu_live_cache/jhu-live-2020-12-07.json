@@ -395,7 +395,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 131540,
+          "confirmed": 131928,
           "date": "2020-12-07",
           "deaths": 3805,
           "recovered": 114045
@@ -545,18 +545,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 113295,
+      "confirmed": 113735,
       "date": "2020-12-07",
-      "deaths": 1747,
-      "recovered": 80831
+      "deaths": 1755,
+      "recovered": 82803
     }
   },
   "France": {
     "live": {
-      "confirmed": 2290891,
+      "confirmed": 2294157,
       "date": "2020-12-07",
-      "deaths": 54804,
-      "recovered": 146558
+      "deaths": 55170,
+      "recovered": 147257
     }
   },
   "Georgia": {
@@ -571,9 +571,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 166641,
+          "confirmed": 168265,
           "date": "2020-12-07",
-          "deaths": 3023,
+          "deaths": 3097,
           "recovered": 120243
         }
       },
@@ -627,7 +627,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 70168,
+          "confirmed": 71320,
           "date": "2020-12-07",
           "deaths": 1298,
           "recovered": 44460
@@ -889,7 +889,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 74246,
+      "confirmed": 74468,
       "date": "2020-12-07",
       "deaths": 2099,
       "recovered": 23364
@@ -899,8 +899,8 @@
     "live": {
       "confirmed": 345661,
       "date": "2020-12-07",
-      "deaths": 2917,
-      "recovered": 329586
+      "deaths": 2924,
+      "recovered": 330173
     }
   },
   "Italy": {
@@ -1569,7 +1569,7 @@
         "live": {
           "confirmed": 879480,
           "date": "2020-12-07",
-          "deaths": 13707,
+          "deaths": 13720,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 379487,
+          "confirmed": 383744,
           "date": "2020-12-07",
-          "deaths": 7799,
+          "deaths": 7868,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 492417,
+          "confirmed": 496709,
           "date": "2020-12-07",
           "deaths": 29053,
           "recovered": 0
@@ -1671,7 +1671,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 46983,
+          "confirmed": 47547,
           "date": "2020-12-07",
           "deaths": 470,
           "recovered": 0
@@ -1689,7 +1689,7 @@
         "live": {
           "confirmed": 44505,
           "date": "2020-12-07",
-          "deaths": 331,
+          "deaths": 334,
           "recovered": 0
         }
       },
