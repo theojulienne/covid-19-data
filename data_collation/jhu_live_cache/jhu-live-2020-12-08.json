@@ -573,15 +573,15 @@
         "live": {
           "confirmed": 168265,
           "date": "2020-12-08",
-          "deaths": 3097,
+          "deaths": 3098,
           "recovered": 122484
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 232164,
+          "confirmed": 234614,
           "date": "2020-12-08",
-          "deaths": 4327,
+          "deaths": 4411,
           "recovered": 174546
         }
       },
@@ -595,25 +595,25 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 96637,
+          "confirmed": 97899,
           "date": "2020-12-08",
-          "deaths": 1478,
+          "deaths": 1529,
           "recovered": 70536
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 78132,
+          "confirmed": 78296,
           "date": "2020-12-08",
-          "deaths": 1271,
+          "deaths": 1277,
           "recovered": 65090
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 287178,
+          "confirmed": 290668,
           "date": "2020-12-08",
-          "deaths": 3954,
+          "deaths": 4064,
           "recovered": 223975
         }
       },
@@ -627,9 +627,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 71320,
+          "confirmed": 71636,
           "date": "2020-12-08",
-          "deaths": 1298,
+          "deaths": 1307,
           "recovered": 44460
         }
       }
@@ -1647,9 +1647,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 44222,
+          "confirmed": 44591,
           "date": "2020-12-08",
-          "deaths": 384,
+          "deaths": 389,
           "recovered": 0
         }
       },
@@ -1849,10 +1849,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 104442,
+      "confirmed": 104904,
       "date": "2020-12-08",
-      "deaths": 919,
-      "recovered": 99494
+      "deaths": 924,
+      "recovered": 99982
     }
   },
   "West Bank and Gaza": {
