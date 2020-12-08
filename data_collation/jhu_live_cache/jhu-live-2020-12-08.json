@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 88252,
+      "confirmed": 88825,
       "date": "2020-12-08",
-      "deaths": 2516,
-      "recovered": 57146
+      "deaths": 2527,
+      "recovered": 57648
     }
   },
   "Argentina": {
@@ -406,7 +406,7 @@
           "confirmed": 153176,
           "date": "2020-12-08",
           "deaths": 7277,
-          "recovered": 130018
+          "recovered": 131297
         }
       }
     }
@@ -1201,10 +1201,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 69255,
+      "confirmed": 69645,
       "date": "2020-12-08",
-      "deaths": 1180,
-      "recovered": 64774
+      "deaths": 1181,
+      "recovered": 64947
     }
   },
   "North Macedonia": {
@@ -1261,10 +1261,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 87920,
+      "confirmed": 88723,
       "date": "2020-12-08",
-      "deaths": 1853,
-      "recovered": 61948
+      "deaths": 1872,
+      "recovered": 62603
     }
   },
   "Peru": {
