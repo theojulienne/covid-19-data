@@ -398,7 +398,7 @@
           "confirmed": 133692,
           "date": "2020-12-08",
           "deaths": 3822,
-          "recovered": 115713
+          "recovered": 115757
         }
       },
       "Quebec": {
@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2294157,
+      "confirmed": 2307870,
       "date": "2020-12-08",
-      "deaths": 55170,
-      "recovered": 147257
+      "deaths": 56001,
+      "recovered": 148840
     }
   },
   "Georgia": {
@@ -571,9 +571,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 168265,
+          "confirmed": 170904,
           "date": "2020-12-08",
-          "deaths": 3098,
+          "deaths": 3169,
           "recovered": 122484
         }
       },
@@ -889,7 +889,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 74468,
+      "confirmed": 74682,
       "date": "2020-12-08",
       "deaths": 2099,
       "recovered": 23364
@@ -1211,8 +1211,8 @@
     "live": {
       "confirmed": 68332,
       "date": "2020-12-08",
-      "deaths": 1949,
-      "recovered": 44705
+      "deaths": 1977,
+      "recovered": 45621
     }
   },
   "Oman": {
@@ -1559,7 +1559,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 895642,
+          "confirmed": 898870,
           "date": "2020-12-08",
           "deaths": 13782,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 599879,
+          "confirmed": 604192,
           "date": "2020-12-08",
-          "deaths": 9657,
+          "deaths": 9661,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 129427,
+          "confirmed": 131510,
           "date": "2020-12-08",
-          "deaths": 1852,
+          "deaths": 1883,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 108639,
+          "confirmed": 114542,
           "date": "2020-12-08",
-          "deaths": 1468,
+          "deaths": 1462,
           "recovered": 0
         }
       },
@@ -1695,9 +1695,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 75073,
+          "confirmed": 76589,
           "date": "2020-12-08",
-          "deaths": 2055,
+          "deaths": 2107,
           "recovered": 0
         }
       },
