@@ -669,10 +669,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 254148,
+      "confirmed": 256367,
       "date": "2020-12-08",
-      "deaths": 5984,
-      "recovered": 74283
+      "deaths": 6120,
+      "recovered": 75281
     }
   },
   "India": {
@@ -1057,10 +1057,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 76036,
+      "confirmed": 77426,
       "date": "2020-12-08",
-      "deaths": 637,
-      "recovered": 30449
+      "deaths": 673,
+      "recovered": 32399
     }
   },
   "Malaysia": {
@@ -1331,42 +1331,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 654841,
+          "confirmed": 660073,
           "date": "2020-12-08",
-          "deaths": 9425,
-          "recovered": 495871
+          "deaths": 9496,
+          "recovered": 501403
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 119550,
+          "confirmed": 120891,
           "date": "2020-12-08",
-          "deaths": 2283,
-          "recovered": 85021
+          "deaths": 2316,
+          "recovered": 85841
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 57861,
+          "confirmed": 58343,
           "date": "2020-12-08",
-          "deaths": 1276,
-          "recovered": 51667
+          "deaths": 1290,
+          "recovered": 52112
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 151894,
+          "confirmed": 155628,
           "date": "2020-12-08",
-          "deaths": 5861,
-          "recovered": 86158
+          "deaths": 5947,
+          "recovered": 87969
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 49009,
+          "confirmed": 49391,
           "date": "2020-12-08",
-          "deaths": 1118,
-          "recovered": 41258
+          "deaths": 1133,
+          "recovered": 41644
         }
       }
     }
@@ -1389,7 +1389,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58273,
+      "confirmed": 58285,
       "date": "2020-12-08",
       "deaths": 29,
       "recovered": 58168
