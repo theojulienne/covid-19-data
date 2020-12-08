@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 347331,
+      "confirmed": 347497,
       "date": "2020-12-08",
-      "deaths": 2924,
-      "recovered": 330458
+      "deaths": 2925,
+      "recovered": 330475
     }
   },
   "Italy": {
@@ -1289,10 +1289,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 441399,
+      "confirmed": 442785,
       "date": "2020-12-08",
-      "deaths": 8572,
-      "recovered": 408702
+      "deaths": 8670,
+      "recovered": 408790
     }
   },
   "Poland": {
