@@ -17,7 +17,7 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 88825,
+      "confirmed": 89416,
       "date": "2020-12-08",
       "deaths": 2539,
       "recovered": 58146
@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 133232,
+          "confirmed": 133692,
           "date": "2020-12-08",
-          "deaths": 3820,
-          "recovered": 115225
+          "deaths": 3822,
+          "recovered": 115713
         }
       },
       "Quebec": {
@@ -545,10 +545,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 113735,
+      "confirmed": 114266,
       "date": "2020-12-08",
-      "deaths": 1755,
-      "recovered": 82803
+      "deaths": 1766,
+      "recovered": 84948
     }
   },
   "France": {
@@ -1141,10 +1141,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 381188,
+      "confirmed": 384088,
       "date": "2020-12-08",
-      "deaths": 6320,
-      "recovered": 334269
+      "deaths": 6370,
+      "recovered": 337719
     }
   },
   "Nepal": {
@@ -1559,9 +1559,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 894624,
+          "confirmed": 895642,
           "date": "2020-12-08",
-          "deaths": 13763,
+          "deaths": 13782,
           "recovered": 0
         }
       },
@@ -1591,15 +1591,15 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 383744,
+          "confirmed": 386876,
           "date": "2020-12-08",
-          "deaths": 7868,
+          "deaths": 7906,
           "recovered": 0
         }
       },
       "Indiana": {
         "live": {
-          "confirmed": 52737,
+          "confirmed": 53514,
           "date": "2020-12-08",
           "deaths": 929,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 74735,
+          "confirmed": 75353,
           "date": "2020-12-08",
           "deaths": 1176,
           "recovered": 0
@@ -1665,7 +1665,7 @@
         "live": {
           "confirmed": 496709,
           "date": "2020-12-08",
-          "deaths": 29068,
+          "deaths": 29087,
           "recovered": 0
         }
       },
@@ -1687,9 +1687,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 44851,
+          "confirmed": 45458,
           "date": "2020-12-08",
-          "deaths": 334,
+          "deaths": 335,
           "recovered": 0
         }
       },
