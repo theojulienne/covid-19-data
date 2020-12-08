@@ -3878,6 +3878,23 @@
         "recovered": 1
       }
     },
+    "WSM": {
+      "back_1week": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "back_2week": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      }
+    },
     "YEM": {
       "back_1week": {
         "confirmed": 2160,
