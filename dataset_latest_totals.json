@@ -154,12 +154,12 @@
         "tested": 10001710
       },
       "latest": {
-        "confirmed": 27783,
+        "confirmed": 27789,
         "current_hospitalized": 30,
         "current_icu": 0,
         "deaths": 910,
         "recovered": 2931,
-        "tested": 10204429
+        "tested": 10207593
       },
       "states": {
         "ACT": {
