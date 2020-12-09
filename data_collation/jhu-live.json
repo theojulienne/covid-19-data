@@ -17,9 +17,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 89416,
+      "confirmed": 90014,
       "date": "2020-12-09",
-      "deaths": 2539,
+      "deaths": 2554,
       "recovered": 58146
     }
   },
@@ -571,9 +571,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 170904,
+          "confirmed": 174946,
           "date": "2020-12-09",
-          "deaths": 3170,
+          "deaths": 3228,
           "recovered": 124940
         }
       },
@@ -587,10 +587,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 73431,
+          "confirmed": 74554,
           "date": "2020-12-09",
-          "deaths": 732,
-          "recovered": 53921
+          "deaths": 749,
+          "recovered": 54170
         }
       },
       "Hessen": {
@@ -627,10 +627,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 73767,
+          "confirmed": 75893,
           "date": "2020-12-09",
-          "deaths": 1381,
-          "recovered": 46030
+          "deaths": 1424,
+          "recovered": 47800
         }
       }
     }
@@ -1135,8 +1135,8 @@
     "live": {
       "confirmed": 384088,
       "date": "2020-12-09",
-      "deaths": 6370,
-      "recovered": 337719
+      "deaths": 6427,
+      "recovered": 341685
     }
   },
   "Nepal": {
@@ -1535,8 +1535,8 @@
     "live": {
       "confirmed": 893630,
       "date": "2020-12-09",
-      "deaths": 15314,
-      "recovered": 441515
+      "deaths": 15531,
+      "recovered": 447361
     }
   },
   "US": {
@@ -1591,9 +1591,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 53514,
+          "confirmed": 54204,
           "date": "2020-12-09",
-          "deaths": 929,
+          "deaths": 932,
           "recovered": 0
         }
       },
@@ -1625,7 +1625,7 @@
         "live": {
           "confirmed": 75353,
           "date": "2020-12-09",
-          "deaths": 1176,
+          "deaths": 1186,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 47986,
+          "confirmed": 48637,
           "date": "2020-12-09",
           "deaths": 476,
           "recovered": 0
@@ -1681,7 +1681,7 @@
         "live": {
           "confirmed": 45458,
           "date": "2020-12-09",
-          "deaths": 335,
+          "deaths": 342,
           "recovered": 0
         }
       },
