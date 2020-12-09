@@ -441,48 +441,48 @@
         "live": {
           "confirmed": 223435,
           "date": "2020-12-09",
-          "deaths": 4208,
-          "recovered": 205901
+          "deaths": 4237,
+          "recovered": 208098
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 80656,
           "date": "2020-12-09",
-          "deaths": 3231,
-          "recovered": 75202
+          "deaths": 3238,
+          "recovered": 75682
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 393583,
           "date": "2020-12-09",
-          "deaths": 8744,
-          "recovered": 361727
+          "deaths": 8770,
+          "recovered": 362670
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 55658,
           "date": "2020-12-09",
-          "deaths": 1468,
-          "recovered": 50924
+          "deaths": 1476,
+          "recovered": 51470
         }
       },
       "Santander": {
         "live": {
           "confirmed": 56279,
           "date": "2020-12-09",
-          "deaths": 2083,
-          "recovered": 50506
+          "deaths": 2092,
+          "recovered": 51046
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 115538,
           "date": "2020-12-09",
-          "deaths": 3663,
-          "recovered": 103481
+          "deaths": 3681,
+          "recovered": 105130
         }
       }
     }
@@ -1253,10 +1253,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 179230,
+      "confirmed": 181166,
       "date": "2020-12-09",
-      "deaths": 3212,
-      "recovered": 154330
+      "deaths": 3241,
+      "recovered": 155870
     }
   },
   "Paraguay": {
@@ -1559,9 +1559,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 900448,
+          "confirmed": 908514,
           "date": "2020-12-09",
-          "deaths": 13807,
+          "deaths": 13871,
           "recovered": 0
         }
       },
