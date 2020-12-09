@@ -143,8 +143,8 @@
     "live": {
       "confirmed": 145657,
       "date": "2020-12-09",
-      "deaths": 8997,
-      "recovered": 124981
+      "deaths": 9002,
+      "recovered": 125230
     }
   },
   "Bosnia and Herzegovina": {
@@ -406,7 +406,7 @@
           "confirmed": 154740,
           "date": "2020-12-09",
           "deaths": 7313,
-          "recovered": 131297
+          "recovered": 132573
         }
       }
     }
@@ -1085,7 +1085,7 @@
         "live": {
           "confirmed": 233577,
           "date": "2020-12-09",
-          "deaths": 14096,
+          "deaths": 14184,
           "recovered": 0
         }
       },
@@ -1093,7 +1093,7 @@
         "live": {
           "confirmed": 67644,
           "date": "2020-12-09",
-          "deaths": 4273,
+          "deaths": 4304,
           "recovered": 0
         }
       },
@@ -1101,7 +1101,7 @@
         "live": {
           "confirmed": 44003,
           "date": "2020-12-09",
-          "deaths": 5048,
+          "deaths": 5073,
           "recovered": 0
         }
       },
@@ -1109,7 +1109,7 @@
         "live": {
           "confirmed": 117654,
           "date": "2020-12-09",
-          "deaths": 16204,
+          "deaths": 16303,
           "recovered": 0
         }
       },
@@ -1117,7 +1117,7 @@
         "live": {
           "confirmed": 70717,
           "date": "2020-12-09",
-          "deaths": 4681,
+          "deaths": 4711,
           "recovered": 0
         }
       },
@@ -1125,7 +1125,7 @@
         "live": {
           "confirmed": 45641,
           "date": "2020-12-09",
-          "deaths": 3549,
+          "deaths": 3574,
           "recovered": 0
         }
       }
@@ -1559,7 +1559,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 908514,
+          "confirmed": 909788,
           "date": "2020-12-09",
           "deaths": 13871,
           "recovered": 0
@@ -1711,7 +1711,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 688779,
+          "confirmed": 690073,
           "date": "2020-12-09",
           "deaths": 10770,
           "recovered": 0
@@ -1851,8 +1851,8 @@
     "live": {
       "confirmed": 104904,
       "date": "2020-12-09",
-      "deaths": 924,
-      "recovered": 99982
+      "deaths": 928,
+      "recovered": 100476
     }
   },
   "West Bank and Gaza": {
