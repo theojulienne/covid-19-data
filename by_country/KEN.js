@@ -972,7 +972,8 @@ var covid19_dataset_country_ken = {
       1518,
       1526,
       1531,
-      1545
+      1545,
+      1552
     ],
     "recovered": [
       0,
@@ -1296,7 +1297,8 @@ var covid19_dataset_country_ken = {
       68532,
       68929,
       69414,
-      69839
+      69839,
+      70194
     ]
   }
 };
