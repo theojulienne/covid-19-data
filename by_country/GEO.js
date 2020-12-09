@@ -972,7 +972,8 @@ var covid19_dataset_country_geo = {
       1462,
       1504,
       1540,
-      1576
+      1576,
+      1614
     ],
     "recovered": [
       0,
@@ -1296,7 +1297,8 @@ var covid19_dataset_country_geo = {
       129210,
       133511,
       137499,
-      141392
+      141392,
+      145287
     ]
   }
 };
