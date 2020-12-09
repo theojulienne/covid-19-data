@@ -149,10 +149,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 96021,
+      "confirmed": 97317,
       "date": "2020-12-09",
-      "deaths": 3081,
-      "recovered": 60210
+      "deaths": 3151,
+      "recovered": 61322
     }
   },
   "Brazil": {
@@ -377,10 +377,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 101739,
+      "confirmed": 103166,
       "date": "2020-12-09",
-      "deaths": 2151,
-      "recovered": 80726
+      "deaths": 2174,
+      "recovered": 81715
     }
   },
   "Canada": {
@@ -415,10 +415,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 307966,
+          "confirmed": 308319,
           "date": "2020-12-09",
-          "deaths": 10452,
-          "recovered": 294911
+          "deaths": 10462,
+          "recovered": 295227
         }
       }
     }
@@ -579,9 +579,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 238442,
+          "confirmed": 239150,
           "date": "2020-12-09",
-          "deaths": 4518,
+          "deaths": 4539,
           "recovered": 178443
         }
       },
@@ -637,10 +637,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 52500,
+      "confirmed": 52622,
       "date": "2020-12-09",
       "deaths": 326,
-      "recovered": 51319
+      "recovered": 51424
     }
   },
   "Greece": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 568138,
+      "confirmed": 569873,
       "date": "2020-12-09",
-      "deaths": 12477,
-      "recovered": 498064
+      "deaths": 12501,
+      "recovered": 499846
     }
   },
   "Ireland": {
@@ -1023,6 +1023,14 @@
       "recovered": 69839
     }
   },
+  "Kosovo": {
+    "live": {
+      "confirmed": 44442,
+      "date": "2020-12-09",
+      "deaths": 1148,
+      "recovered": 31041
+    }
+  },
   "Kuwait": {
     "live": {
       "confirmed": 144900,
@@ -1086,14 +1094,6 @@
           "confirmed": 68236,
           "date": "2020-12-09",
           "deaths": 4304,
-          "recovered": 0
-        }
-      },
-      "Jalisco": {
-        "live": {
-          "confirmed": 44224,
-          "date": "2020-12-09",
-          "deaths": 5073,
           "recovered": 0
         }
       },
@@ -1365,17 +1365,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 359115,
+      "confirmed": 359274,
       "date": "2020-12-09",
-      "deaths": 5989,
-      "recovered": 349414
+      "deaths": 6002,
+      "recovered": 349624
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 234027,
+      "confirmed": 241831,
       "date": "2020-12-09",
-      "deaths": 2062,
+      "deaths": 2116,
       "recovered": 0
     }
   },
@@ -1519,7 +1519,7 @@
     "live": {
       "confirmed": 363654,
       "date": "2020-12-09",
-      "deaths": 5640,
+      "deaths": 5663,
       "recovered": 283000
     }
   },
