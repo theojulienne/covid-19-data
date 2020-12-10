@@ -975,7 +975,8 @@ var covid19_dataset_country_lby = {
       1231,
       1243,
       1255,
-      1261
+      1261,
+      1273
     ],
     "recovered": [
       0,
@@ -1300,7 +1301,8 @@ var covid19_dataset_country_lby = {
       56702,
       57380,
       57837,
-      58578
+      58578,
+      59222
     ]
   }
 };
