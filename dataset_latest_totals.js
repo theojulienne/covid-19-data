@@ -369,17 +369,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 87137,
         "deaths": 341,
-        "recovered": 85357
+        "recovered": 85463
       },
       "back_2week": {
         "confirmed": 86016,
         "deaths": 340,
-        "recovered": 84166
+        "recovered": 84335
       },
       "latest": {
         "confirmed": 88294,
         "deaths": 343,
-        "recovered": 86348
+        "recovered": 86518
       }
     },
     "BHS": {
@@ -2809,14 +2809,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 25586
       },
       "back_2week": {
-        "confirmed": 36253,
-        "deaths": 948,
-        "recovered": 22137
+        "confirmed": 35549,
+        "deaths": 939,
+        "recovered": 21746
       },
       "latest": {
-        "confirmed": 44442,
-        "deaths": 1148,
-        "recovered": 31041
+        "confirmed": 43881,
+        "deaths": 1137,
+        "recovered": 30157
       }
     },
     "ROU": {
@@ -3399,22 +3399,22 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 13453495,
+        "confirmed": 13454985,
         "deaths": 260530,
         "recovered": 5175226,
-        "tested": 168837587
+        "tested": 168839077
       },
       "back_2week": {
-        "confirmed": 12340753,
+        "confirmed": 12341974,
         "deaths": 249965,
         "recovered": 4650693,
-        "tested": 158893661
+        "tested": 158894882
       },
       "latest": {
-        "confirmed": 14864685,
+        "confirmed": 14867019,
         "deaths": 276056,
         "recovered": 5731780,
-        "tested": 179011083
+        "tested": 179013417
       },
       "states": {
         "AK": {
@@ -3601,11 +3601,11 @@ var covid19_dataset_latest_totals = {
           "tested": 5704900
         },
         "ND": {
-          "confirmed": 83342,
+          "confirmed": 85676,
           "deaths": 1028,
           "hospitalized": 2896,
           "recovered": 77562,
-          "tested": 358279
+          "tested": 360613
         },
         "NE": {
           "confirmed": 141127,

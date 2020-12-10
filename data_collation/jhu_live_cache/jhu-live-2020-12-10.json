@@ -60,7 +60,7 @@
       "confirmed": 88495,
       "date": "2020-12-10",
       "deaths": 347,
-      "recovered": 86518
+      "recovered": 86684
     }
   },
   "Bangladesh": {
@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 138279,
+          "confirmed": 138529,
           "date": "2020-12-10",
-          "deaths": 3889,
-          "recovered": 119794
+          "deaths": 3891,
+          "recovered": 119951
         }
       },
       "Quebec": {
@@ -1023,14 +1023,6 @@
       "recovered": 71254
     }
   },
-  "Kosovo": {
-    "live": {
-      "confirmed": 45004,
-      "date": "2020-12-10",
-      "deaths": 1161,
-      "recovered": 31802
-    }
-  },
   "Kuwait": {
     "live": {
       "confirmed": 145495,
@@ -1551,9 +1543,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 985856,
+          "confirmed": 987417,
           "date": "2020-12-10",
-          "deaths": 14670,
+          "deaths": 14689,
+          "recovered": 0
+        }
+      },
+      "Connecticut": {
+        "live": {
+          "confirmed": 45509,
+          "date": "2020-12-10",
+          "deaths": 1581,
           "recovered": 0
         }
       },
