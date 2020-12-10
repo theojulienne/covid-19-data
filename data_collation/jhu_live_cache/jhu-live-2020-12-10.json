@@ -143,8 +143,8 @@
     "live": {
       "confirmed": 145846,
       "date": "2020-12-10",
-      "deaths": 9002,
-      "recovered": 125230
+      "deaths": 9004,
+      "recovered": 125490
     }
   },
   "Bosnia and Herzegovina": {
@@ -406,7 +406,7 @@
           "confirmed": 156468,
           "date": "2020-12-10",
           "deaths": 7349,
-          "recovered": 132573
+          "recovered": 133692
         }
       }
     }
@@ -1009,10 +1009,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 181721,
+      "confirmed": 182498,
       "date": "2020-12-10",
       "deaths": 2544,
-      "recovered": 153432
+      "recovered": 154356
     }
   },
   "Kenya": {
@@ -1075,41 +1075,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 239006,
+          "confirmed": 244062,
           "date": "2020-12-10",
-          "deaths": 14184,
+          "deaths": 14286,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 68236,
+          "confirmed": 69188,
           "date": "2020-12-10",
-          "deaths": 4304,
+          "deaths": 4359,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 119071,
+          "confirmed": 120284,
           "date": "2020-12-10",
-          "deaths": 16303,
+          "deaths": 16411,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 71114,
+          "confirmed": 71317,
           "date": "2020-12-10",
-          "deaths": 4711,
+          "deaths": 4746,
           "recovered": 0
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 45880,
+          "confirmed": 46296,
           "date": "2020-12-10",
-          "deaths": 3574,
+          "deaths": 3594,
           "recovered": 0
         }
       }
@@ -1543,9 +1543,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 974067,
+          "confirmed": 976169,
           "date": "2020-12-10",
-          "deaths": 14635,
+          "deaths": 14650,
           "recovered": 0
         }
       },
@@ -1841,7 +1841,7 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 105384,
+      "confirmed": 105852,
       "date": "2020-12-10",
       "deaths": 933,
       "recovered": 100952
