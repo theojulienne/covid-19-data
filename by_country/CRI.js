@@ -975,7 +975,8 @@ var covid19_dataset_country_cri = {
       1773,
       1825,
       1846,
-      1864
+      1864,
+      1882
     ],
     "recovered": [
       0,
@@ -1300,7 +1301,8 @@ var covid19_dataset_country_cri = {
       95789,
       102855,
       105686,
-      107624
+      107624,
+      109855
     ]
   }
 };
