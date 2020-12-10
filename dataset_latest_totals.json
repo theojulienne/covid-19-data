@@ -2,19 +2,19 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 46516,
-        "deaths": 1822,
-        "recovered": 36946
+        "confirmed": 46718,
+        "deaths": 1841,
+        "recovered": 37218
       },
       "back_2week": {
-        "confirmed": 45174,
-        "deaths": 1715,
-        "recovered": 36122
+        "confirmed": 45384,
+        "deaths": 1728,
+        "recovered": 36145
       },
       "latest": {
-        "confirmed": 47716,
-        "deaths": 1906,
-        "recovered": 37920
+        "confirmed": 47851,
+        "deaths": 1919,
+        "recovered": 38032
       }
     },
     "AGO": {
@@ -1806,17 +1806,17 @@
       "back_1week": {
         "confirmed": 338389,
         "deaths": 2882,
-        "recovered": 324396
+        "recovered": 325255
       },
       "back_2week": {
         "confirmed": 331132,
         "deaths": 2826,
-        "recovered": 318853
+        "recovered": 319718
       },
       "latest": {
         "confirmed": 348285,
         "deaths": 2932,
-        "recovered": 331055
+        "recovered": 332089
       }
     },
     "ITA": {
@@ -1923,17 +1923,17 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 73178,
+        "confirmed": 73513,
         "deaths": 1275,
         "recovered": 64711
       },
       "back_2week": {
-        "confirmed": 70366,
+        "confirmed": 71171,
         "deaths": 1241,
         "recovered": 61593
       },
       "latest": {
-        "confirmed": 75690,
+        "confirmed": 76012,
         "deaths": 1301,
         "recovered": 67873
       }
@@ -3761,17 +3761,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 73276,
+        "confirmed": 73335,
         "deaths": 611,
         "recovered": 70534
       },
       "back_2week": {
-        "confirmed": 71985,
+        "confirmed": 72227,
         "deaths": 604,
         "recovered": 69240
       },
       "latest": {
-        "confirmed": 74206,
+        "confirmed": 74352,
         "deaths": 611,
         "recovered": 71482
       }

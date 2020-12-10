@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 47851,
+      "confirmed": 48034,
       "date": "2020-12-10",
-      "deaths": 1919,
-      "recovered": 38032
+      "deaths": 1935,
+      "recovered": 38099
     }
   },
   "Albania": {
@@ -900,7 +900,7 @@
       "confirmed": 350271,
       "date": "2020-12-10",
       "deaths": 2934,
-      "recovered": 332089
+      "recovered": 332354
     }
   },
   "Italy": {
@@ -1033,7 +1033,7 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 76012,
+      "confirmed": 76391,
       "date": "2020-12-10",
       "deaths": 1306,
       "recovered": 68894
@@ -1543,9 +1543,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 976169,
+          "confirmed": 978338,
           "date": "2020-12-10",
-          "deaths": 14650,
+          "deaths": 14669,
           "recovered": 0
         }
       },
@@ -1833,7 +1833,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 74352,
+      "confirmed": 74498,
       "date": "2020-12-10",
       "deaths": 611,
       "recovered": 71740
