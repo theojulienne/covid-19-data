@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 136599,
+          "confirmed": 137219,
           "date": "2020-12-10",
-          "deaths": 3861,
-          "recovered": 118253
+          "deaths": 3873,
+          "recovered": 118736
         }
       },
       "Quebec": {
@@ -415,10 +415,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 308319,
+          "confirmed": 308692,
           "date": "2020-12-10",
-          "deaths": 10462,
-          "recovered": 295227
+          "deaths": 10487,
+          "recovered": 295494
         }
       }
     }
@@ -523,8 +523,8 @@
     "live": {
       "confirmed": 150161,
       "date": "2020-12-10",
-      "deaths": 2350,
-      "recovered": 118008
+      "deaths": 2358,
+      "recovered": 118770
     }
   },
   "Ecuador": {
@@ -619,10 +619,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 52149,
+          "confirmed": 53442,
           "date": "2020-12-10",
-          "deaths": 759,
-          "recovered": 35345
+          "deaths": 805,
+          "recovered": 35375
         }
       },
       "Sachsen": {
@@ -655,8 +655,8 @@
     "live": {
       "confirmed": 127127,
       "date": "2020-12-10",
-      "deaths": 4311,
-      "recovered": 115931
+      "deaths": 4345,
+      "recovered": 116442
     }
   },
   "Honduras": {
@@ -1127,8 +1127,8 @@
     "live": {
       "confirmed": 120970,
       "date": "2020-12-10",
-      "deaths": 2481,
-      "recovered": 103973
+      "deaths": 2500,
+      "recovered": 105238
     }
   },
   "Morocco": {
@@ -1299,8 +1299,8 @@
     "live": {
       "confirmed": 332073,
       "date": "2020-12-10",
-      "deaths": 5192,
-      "recovered": 254700
+      "deaths": 5278,
+      "recovered": 259548
     }
   },
   "Qatar": {
@@ -1373,7 +1373,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 241831,
+      "confirmed": 249224,
       "date": "2020-12-10",
       "deaths": 2172,
       "recovered": 0
@@ -1384,7 +1384,7 @@
       "confirmed": 58297,
       "date": "2020-12-10",
       "deaths": 29,
-      "recovered": 58182
+      "recovered": 58188
     }
   },
   "Slovakia": {
@@ -1591,9 +1591,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 45345,
+          "confirmed": 45871,
           "date": "2020-12-10",
-          "deaths": 969,
+          "deaths": 974,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 57538,
+          "confirmed": 58197,
           "date": "2020-12-10",
-          "deaths": 1128,
+          "deaths": 1143,
           "recovered": 0
         }
       },
