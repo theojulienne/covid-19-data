@@ -1237,7 +1237,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 181166,
+      "confirmed": 182977,
       "date": "2020-12-10",
       "deaths": 3264,
       "recovered": 156870
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 695134,
+          "confirmed": 695864,
           "date": "2020-12-10",
           "deaths": 10878,
           "recovered": 0
@@ -1719,9 +1719,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 50188,
+          "confirmed": 50841,
           "date": "2020-12-10",
-          "deaths": 929,
+          "deaths": 944,
           "recovered": 0
         }
       },
@@ -1843,8 +1843,8 @@
     "live": {
       "confirmed": 105384,
       "date": "2020-12-10",
-      "deaths": 928,
-      "recovered": 100476
+      "deaths": 933,
+      "recovered": 100952
     }
   },
   "West Bank and Gaza": {
