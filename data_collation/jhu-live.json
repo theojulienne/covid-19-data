@@ -571,18 +571,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 174946,
+          "confirmed": 174948,
           "date": "2020-12-10",
-          "deaths": 3228,
-          "recovered": 124940
+          "deaths": 3229,
+          "recovered": 127469
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 239150,
+          "confirmed": 243797,
           "date": "2020-12-10",
-          "deaths": 4539,
-          "recovered": 178443
+          "deaths": 4621,
+          "recovered": 182397
         }
       },
       "Berlin": {
@@ -590,46 +590,46 @@
           "confirmed": 74554,
           "date": "2020-12-10",
           "deaths": 749,
-          "recovered": 54170
+          "recovered": 55369
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 99560,
+          "confirmed": 100900,
           "date": "2020-12-10",
-          "deaths": 1578,
-          "recovered": 72307
+          "deaths": 1601,
+          "recovered": 73971
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 79982,
+          "confirmed": 80894,
           "date": "2020-12-10",
-          "deaths": 1338,
-          "recovered": 66337
+          "deaths": 1353,
+          "recovered": 67551
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 294740,
+          "confirmed": 298431,
           "date": "2020-12-10",
-          "deaths": 4167,
-          "recovered": 228444
+          "deaths": 4226,
+          "recovered": 232816
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 52125,
+          "confirmed": 52149,
           "date": "2020-12-10",
           "deaths": 759,
-          "recovered": 34211
+          "recovered": 35345
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 75893,
+          "confirmed": 75895,
           "date": "2020-12-10",
-          "deaths": 1424,
+          "deaths": 1428,
           "recovered": 47800
         }
       }
@@ -661,7 +661,7 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 112175,
+      "confirmed": 112792,
       "date": "2020-12-10",
       "deaths": 2961,
       "recovered": 50888
@@ -1631,9 +1631,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 45054,
+          "confirmed": 45478,
           "date": "2020-12-10",
-          "deaths": 400,
+          "deaths": 407,
           "recovered": 0
         }
       },
