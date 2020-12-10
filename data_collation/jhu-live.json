@@ -49,7 +49,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 158555,
+      "confirmed": 162774,
       "date": "2020-12-10",
       "deaths": 1793,
       "recovered": 99892
@@ -377,10 +377,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 103166,
+      "confirmed": 104487,
       "date": "2020-12-10",
-      "deaths": 2174,
-      "recovered": 81715
+      "deaths": 2201,
+      "recovered": 82813
     }
   },
   "Canada": {
@@ -513,7 +513,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 97357,
+      "confirmed": 100489,
       "date": "2020-12-10",
       "deaths": 918,
       "recovered": 75664
@@ -579,9 +579,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 243797,
+          "confirmed": 244133,
           "date": "2020-12-10",
-          "deaths": 4621,
+          "deaths": 4644,
           "recovered": 182397
         }
       },
@@ -881,7 +881,7 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 569873,
+      "confirmed": 571253,
       "date": "2020-12-10",
       "deaths": 12526,
       "recovered": 501967
@@ -1021,6 +1021,14 @@
       "date": "2020-12-10",
       "deaths": 1552,
       "recovered": 70194
+    }
+  },
+  "Kosovo": {
+    "live": {
+      "confirmed": 45004,
+      "date": "2020-12-10",
+      "deaths": 1161,
+      "recovered": 31802
     }
   },
   "Kuwait": {
@@ -1367,7 +1375,7 @@
     "live": {
       "confirmed": 241831,
       "date": "2020-12-10",
-      "deaths": 2116,
+      "deaths": 2172,
       "recovered": 0
     }
   },
@@ -1511,7 +1519,7 @@
     "live": {
       "confirmed": 368695,
       "date": "2020-12-10",
-      "deaths": 5771,
+      "deaths": 5791,
       "recovered": 288400
     }
   },
@@ -1562,14 +1570,6 @@
           "confirmed": 607529,
           "date": "2020-12-10",
           "deaths": 9680,
-          "recovered": 0
-        }
-      },
-      "Georgia": {
-        "live": {
-          "confirmed": 44901,
-          "date": "2020-12-10",
-          "deaths": 733,
           "recovered": 0
         }
       },
