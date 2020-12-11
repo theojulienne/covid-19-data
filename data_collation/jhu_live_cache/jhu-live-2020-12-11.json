@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 139197,
+          "confirmed": 139644,
           "date": "2020-12-11",
-          "deaths": 3913,
-          "recovered": 120522
+          "deaths": 3918,
+          "recovered": 121059
         }
       },
       "Quebec": {
@@ -889,9 +889,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 75203,
+      "confirmed": 75507,
       "date": "2020-12-11",
-      "deaths": 2117,
+      "deaths": 2120,
       "recovered": 23364
     }
   },
@@ -1049,10 +1049,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 142187,
+      "confirmed": 143705,
       "date": "2020-12-11",
-      "deaths": 1170,
-      "recovered": 95737
+      "deaths": 1182,
+      "recovered": 97647
     }
   },
   "Libya": {
@@ -1133,7 +1133,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 391529,
+      "confirmed": 394564,
       "date": "2020-12-11",
       "deaths": 6542,
       "recovered": 349821
@@ -1203,8 +1203,8 @@
     "live": {
       "confirmed": 70883,
       "date": "2020-12-11",
-      "deaths": 2051,
-      "recovered": 47364
+      "deaths": 2077,
+      "recovered": 48170
     }
   },
   "Oman": {
@@ -1551,7 +1551,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1004339,
+          "confirmed": 1007708,
           "date": "2020-12-11",
           "deaths": 14787,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 395536,
+          "confirmed": 399460,
           "date": "2020-12-11",
-          "deaths": 8078,
+          "deaths": 8172,
           "recovered": 0
         }
       },
@@ -1649,7 +1649,7 @@
         "live": {
           "confirmed": 513336,
           "date": "2020-12-11",
-          "deaths": 29140,
+          "deaths": 29166,
           "recovered": 0
         }
       },
@@ -1671,7 +1671,7 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 46425,
+          "confirmed": 47460,
           "date": "2020-12-11",
           "deaths": 358,
           "recovered": 0
