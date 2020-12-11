@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 139644,
+          "confirmed": 140275,
           "date": "2020-12-11",
-          "deaths": 3918,
-          "recovered": 121059
+          "deaths": 3929,
+          "recovered": 121896
         }
       },
       "Quebec": {
@@ -571,9 +571,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 179160,
+          "confirmed": 182951,
           "date": "2020-12-11",
-          "deaths": 3293,
+          "deaths": 3352,
           "recovered": 130210
         }
       },
@@ -1036,7 +1036,7 @@
       "confirmed": 145495,
       "date": "2020-12-11",
       "deaths": 910,
-      "recovered": 141259
+      "recovered": 141569
     }
   },
   "Kyrgyzstan": {
@@ -1407,8 +1407,8 @@
     "live": {
       "confirmed": 836764,
       "date": "2020-12-11",
-      "deaths": 22747,
-      "recovered": 756671
+      "deaths": 22952,
+      "recovered": 758373
     }
   },
   "Spain": {
@@ -1551,17 +1551,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1011277,
+          "confirmed": 1011433,
           "date": "2020-12-11",
-          "deaths": 14787,
-          "recovered": 0
-        }
-      },
-      "Connecticut": {
-        "live": {
-          "confirmed": 45509,
-          "date": "2020-12-11",
-          "deaths": 1581,
+          "deaths": 14809,
           "recovered": 0
         }
       },
@@ -1570,6 +1562,14 @@
           "confirmed": 613542,
           "date": "2020-12-11",
           "deaths": 9738,
+          "recovered": 0
+        }
+      },
+      "Georgia": {
+        "live": {
+          "confirmed": 45902,
+          "date": "2020-12-11",
+          "deaths": 745,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 118896,
+          "confirmed": 120875,
           "date": "2020-12-11",
           "deaths": 1513,
           "recovered": 0
@@ -1703,17 +1703,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 702709,
+          "confirmed": 703084,
           "date": "2020-12-11",
-          "deaths": 10975,
+          "deaths": 10980,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 146687,
+          "confirmed": 147883,
           "date": "2020-12-11",
-          "deaths": 627,
+          "deaths": 633,
           "recovered": 0
         }
       },
@@ -1727,9 +1727,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 80863,
+          "confirmed": 81590,
           "date": "2020-12-11",
-          "deaths": 820,
+          "deaths": 824,
           "recovered": 0
         }
       }
