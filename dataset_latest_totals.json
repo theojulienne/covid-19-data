@@ -1923,17 +1923,17 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 73513,
-        "deaths": 1277,
-        "recovered": 65189
+        "confirmed": 73933,
+        "deaths": 1285,
+        "recovered": 66113
       },
       "back_2week": {
-        "confirmed": 71171,
-        "deaths": 1251,
-        "recovered": 62544
+        "confirmed": 71548,
+        "deaths": 1256,
+        "recovered": 62946
       },
       "latest": {
-        "confirmed": 76012,
+        "confirmed": 76391,
         "deaths": 1306,
         "recovered": 68894
       }
@@ -3761,17 +3761,17 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 73335,
+        "confirmed": 73431,
         "deaths": 611,
-        "recovered": 70534
+        "recovered": 70712
       },
       "back_2week": {
-        "confirmed": 72227,
+        "confirmed": 72409,
         "deaths": 606,
-        "recovered": 69477
+        "recovered": 69670
       },
       "latest": {
-        "confirmed": 74352,
+        "confirmed": 74498,
         "deaths": 611,
         "recovered": 71740
       }
