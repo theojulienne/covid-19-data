@@ -430,7 +430,7 @@
           "confirmed": 68149,
           "date": "2020-12-11",
           "deaths": 4512,
-          "recovered": 63635
+          "recovered": 63636
         }
       }
     }
@@ -441,24 +441,24 @@
         "live": {
           "confirmed": 225712,
           "date": "2020-12-11",
-          "deaths": 4254,
-          "recovered": 209118
+          "deaths": 4269,
+          "recovered": 210318
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 81376,
           "date": "2020-12-11",
-          "deaths": 3243,
-          "recovered": 75961
+          "deaths": 3249,
+          "recovered": 76319
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 397285,
           "date": "2020-12-11",
-          "deaths": 8792,
-          "recovered": 366092
+          "deaths": 8814,
+          "recovered": 368298
         }
       },
       "Cundinamarca": {
@@ -466,23 +466,23 @@
           "confirmed": 56224,
           "date": "2020-12-11",
           "deaths": 1480,
-          "recovered": 51783
+          "recovered": 52245
         }
       },
       "Santander": {
         "live": {
           "confirmed": 57176,
           "date": "2020-12-11",
-          "deaths": 2098,
-          "recovered": 51323
+          "deaths": 2107,
+          "recovered": 51793
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 117241,
           "date": "2020-12-11",
-          "deaths": 3718,
-          "recovered": 106538
+          "deaths": 3744,
+          "recovered": 107396
         }
       }
     }
@@ -1240,7 +1240,7 @@
       "confirmed": 182977,
       "date": "2020-12-11",
       "deaths": 3264,
-      "recovered": 156870
+      "recovered": 157888
     }
   },
   "Paraguay": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 700850,
+          "confirmed": 702024,
           "date": "2020-12-11",
           "deaths": 10969,
           "recovered": 0
@@ -1719,9 +1719,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 50841,
+          "confirmed": 51596,
           "date": "2020-12-11",
-          "deaths": 944,
+          "deaths": 894,
           "recovered": 0
         }
       },
@@ -1844,7 +1844,7 @@
       "confirmed": 105852,
       "date": "2020-12-11",
       "deaths": 933,
-      "recovered": 100952
+      "recovered": 101384
     }
   },
   "West Bank and Gaza": {
