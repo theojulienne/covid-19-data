@@ -515,8 +515,8 @@
     "live": {
       "confirmed": 100489,
       "date": "2020-12-11",
-      "deaths": 918,
-      "recovered": 75664
+      "deaths": 927,
+      "recovered": 76927
     }
   },
   "Dominican Republic": {
@@ -603,7 +603,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 82321,
+          "confirmed": 82984,
           "date": "2020-12-11",
           "deaths": 1386,
           "recovered": 68675
@@ -881,7 +881,7 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 571253,
+      "confirmed": 572600,
       "date": "2020-12-11",
       "deaths": 12549,
       "recovered": 503897
@@ -994,7 +994,7 @@
           "confirmed": 46173,
           "date": "2020-12-11",
           "deaths": 505,
-          "recovered": 39970
+          "recovered": 40375
         }
       }
     }
@@ -1049,10 +1049,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 89183,
+      "confirmed": 89880,
       "date": "2020-12-11",
-      "deaths": 1273,
-      "recovered": 59222
+      "deaths": 1278,
+      "recovered": 59839
     }
   },
   "Lithuania": {
@@ -1145,7 +1145,7 @@
         "live": {
           "confirmed": 59870,
           "date": "2020-12-11",
-          "deaths": 1109,
+          "deaths": 1119,
           "recovered": 0
         }
       },
@@ -1153,7 +1153,7 @@
         "live": {
           "confirmed": 93198,
           "date": "2020-12-11",
-          "deaths": 2125,
+          "deaths": 2136,
           "recovered": 0
         }
       },
@@ -1161,7 +1161,7 @@
         "live": {
           "confirmed": 104111,
           "date": "2020-12-11",
-          "deaths": 1374,
+          "deaths": 1385,
           "recovered": 0
         }
       },
@@ -1169,7 +1169,7 @@
         "live": {
           "confirmed": 49681,
           "date": "2020-12-11",
-          "deaths": 744,
+          "deaths": 745,
           "recovered": 0
         }
       },
@@ -1177,7 +1177,7 @@
         "live": {
           "confirmed": 161104,
           "date": "2020-12-11",
-          "deaths": 2474,
+          "deaths": 2491,
           "recovered": 0
         }
       }
@@ -1491,17 +1491,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 91402,
+          "confirmed": 93383,
           "date": "2020-12-11",
-          "deaths": 2864,
+          "deaths": 2936,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 50353,
+          "confirmed": 51634,
           "date": "2020-12-11",
-          "deaths": 1066,
+          "deaths": 1082,
           "recovered": 0
         }
       }
