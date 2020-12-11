@@ -2297,17 +2297,17 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 63890,
+        "confirmed": 65231,
         "deaths": 1847,
         "recovered": 41656
       },
       "back_2week": {
-        "confirmed": 57451,
+        "confirmed": 58608,
         "deaths": 1630,
         "recovered": 36064
       },
       "latest": {
-        "confirmed": 69954,
+        "confirmed": 70883,
         "deaths": 2051,
         "recovered": 47364
       }
