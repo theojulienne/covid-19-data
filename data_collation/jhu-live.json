@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 70953,
+          "confirmed": 71368,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 77970,
+          "confirmed": 78152,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 57142,
+          "confirmed": 57603,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 45723,
+          "confirmed": 45941,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 96008,
+          "confirmed": 96379,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 93229,
+          "confirmed": 93467,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -131,7 +131,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 47170,
+          "confirmed": 47509,
           "date": "2020-12-11",
           "deaths": 0,
           "recovered": 0
@@ -141,7 +141,7 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 146060,
+      "confirmed": 146385,
       "date": "2020-12-11",
       "deaths": 9008,
       "recovered": 125716
@@ -1211,26 +1211,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 50762,
+          "confirmed": 51172,
           "date": "2020-12-11",
-          "deaths": 1439,
-          "recovered": 44633
+          "deaths": 1450,
+          "recovered": 45129
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 125250,
+          "confirmed": 125897,
           "date": "2020-12-11",
-          "deaths": 3265,
-          "recovered": 111840
+          "deaths": 3284,
+          "recovered": 114647
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 189687,
+          "confirmed": 191246,
           "date": "2020-12-11",
-          "deaths": 3099,
-          "recovered": 163492
+          "deaths": 3109,
+          "recovered": 164604
         }
       }
     }
