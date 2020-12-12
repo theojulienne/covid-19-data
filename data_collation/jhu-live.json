@@ -605,7 +605,7 @@
         "live": {
           "confirmed": 83935,
           "date": "2020-12-12",
-          "deaths": 1403,
+          "deaths": 1416,
           "recovered": 69622
         }
       },
@@ -1133,10 +1133,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 246694,
+      "confirmed": 247593,
       "date": "2020-12-12",
-      "deaths": 1674,
-      "recovered": 232872
+      "deaths": 1689,
+      "recovered": 234231
     }
   },
   "Netherlands": {
