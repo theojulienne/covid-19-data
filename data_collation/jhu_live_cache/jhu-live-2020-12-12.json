@@ -406,7 +406,7 @@
           "confirmed": 160023,
           "date": "2020-12-12",
           "deaths": 7435,
-          "recovered": 134910
+          "recovered": 136646
         }
       }
     }
@@ -441,7 +441,7 @@
         "live": {
           "confirmed": 226936,
           "date": "2020-12-12",
-          "deaths": 4269,
+          "deaths": 4289,
           "recovered": 210318
         }
       },
@@ -449,7 +449,7 @@
         "live": {
           "confirmed": 81809,
           "date": "2020-12-12",
-          "deaths": 3249,
+          "deaths": 3257,
           "recovered": 76319
         }
       },
@@ -457,7 +457,7 @@
         "live": {
           "confirmed": 400408,
           "date": "2020-12-12",
-          "deaths": 8814,
+          "deaths": 8843,
           "recovered": 368298
         }
       },
@@ -465,7 +465,7 @@
         "live": {
           "confirmed": 56552,
           "date": "2020-12-12",
-          "deaths": 1480,
+          "deaths": 1495,
           "recovered": 52245
         }
       },
@@ -473,7 +473,7 @@
         "live": {
           "confirmed": 57559,
           "date": "2020-12-12",
-          "deaths": 2107,
+          "deaths": 2121,
           "recovered": 51793
         }
       },
@@ -481,7 +481,7 @@
         "live": {
           "confirmed": 117941,
           "date": "2020-12-12",
-          "deaths": 3744,
+          "deaths": 3767,
           "recovered": 107396
         }
       }
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 708377,
+          "confirmed": 709467,
           "date": "2020-12-12",
           "deaths": 11043,
           "recovered": 0
