@@ -1258,19 +1258,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 111579,
-        "deaths": 1724,
-        "recovered": 77385
+        "confirmed": 112091,
+        "deaths": 1734,
+        "recovered": 78619
       },
       "back_2week": {
-        "confirmed": 107669,
-        "deaths": 1672,
-        "recovered": 67001
+        "confirmed": 108438,
+        "deaths": 1686,
+        "recovered": 67506
       },
       "latest": {
-        "confirmed": 115360,
-        "deaths": 1779,
-        "recovered": 88975
+        "confirmed": 115782,
+        "deaths": 1791,
+        "recovered": 91209
       }
     },
     "FIN": {
@@ -2809,14 +2809,14 @@
         "recovered": 25586
       },
       "back_2week": {
-        "confirmed": 37792,
-        "deaths": 975,
-        "recovered": 23274
+        "confirmed": 37028,
+        "deaths": 963,
+        "recovered": 22690
       },
       "latest": {
-        "confirmed": 45594,
-        "deaths": 1174,
-        "recovered": 32498
+        "confirmed": 45004,
+        "deaths": 1161,
+        "recovered": 31802
       }
     },
     "ROU": {
@@ -3280,19 +3280,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 99280,
-        "deaths": 3359,
-        "recovered": 73607
+        "confirmed": 101900,
+        "deaths": 3481,
+        "recovered": 75464
       },
       "back_2week": {
-        "confirmed": 92475,
-        "deaths": 3034,
-        "recovered": 67453
+        "confirmed": 93770,
+        "deaths": 3106,
+        "recovered": 68464
       },
       "latest": {
-        "confirmed": 107814,
-        "deaths": 3758,
-        "recovered": 82193
+        "confirmed": 109104,
+        "deaths": 3801,
+        "recovered": 83162
       }
     },
     "TUR": {
