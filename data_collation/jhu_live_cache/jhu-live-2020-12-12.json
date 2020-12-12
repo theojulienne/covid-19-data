@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 316581,
+      "confirmed": 319822,
       "date": "2020-12-12",
-      "deaths": 4289,
-      "recovered": 273503
+      "deaths": 4415,
+      "recovered": 277883
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 487849,
+      "confirmed": 489178,
       "date": "2020-12-12",
-      "deaths": 6986,
-      "recovered": 414318
+      "deaths": 7020,
+      "recovered": 417503
     }
   },
   "Belarus": {
@@ -497,10 +497,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 168388,
+      "confirmed": 172523,
       "date": "2020-12-12",
-      "deaths": 2484,
-      "recovered": 140898
+      "deaths": 2562,
+      "recovered": 144691
     }
   },
   "Czechia": {
@@ -865,10 +865,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 605243,
+      "confirmed": 611631,
       "date": "2020-12-12",
-      "deaths": 18511,
-      "recovered": 496886
+      "deaths": 18653,
+      "recovered": 501376
     }
   },
   "Iran": {
@@ -1065,10 +1065,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 80309,
+      "confirmed": 82246,
       "date": "2020-12-12",
-      "deaths": 402,
-      "recovered": 67173
+      "deaths": 411,
+      "recovered": 68084
     }
   },
   "Mexico": {
@@ -1281,10 +1281,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1115201,
+      "confirmed": 1126700,
       "date": "2020-12-12",
-      "deaths": 22174,
-      "recovered": 815356
+      "deaths": 22676,
+      "recovered": 840541
     }
   },
   "Portugal": {
@@ -1297,10 +1297,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 140680,
+      "confirmed": 140827,
       "date": "2020-12-12",
       "deaths": 240,
-      "recovered": 138194
+      "recovered": 138347
     }
   },
   "Romania": {
@@ -1389,10 +1389,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 93737,
+      "confirmed": 95481,
       "date": "2020-12-12",
-      "deaths": 1998,
-      "recovered": 70733
+      "deaths": 2041,
+      "recovered": 72290
     }
   },
   "South Africa": {
@@ -1511,7 +1511,7 @@
     "live": {
       "confirmed": 373831,
       "date": "2020-12-12",
-      "deaths": 5928,
+      "deaths": 5960,
       "recovered": 291500
     }
   },
