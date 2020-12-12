@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 88820,
+      "confirmed": 88965,
       "date": "2020-12-12",
-      "deaths": 347,
-      "recovered": 86867
+      "deaths": 348,
+      "recovered": 87025
     }
   },
   "Bangladesh": {
@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 141454,
+          "confirmed": 142166,
           "date": "2020-12-12",
-          "deaths": 3944,
-          "recovered": 123758
+          "deaths": 3949,
+          "recovered": 123761
         }
       },
       "Quebec": {
@@ -899,8 +899,8 @@
     "live": {
       "confirmed": 355252,
       "date": "2020-12-12",
-      "deaths": 2979,
-      "recovered": 335093
+      "deaths": 2983,
+      "recovered": 335243
     }
   },
   "Italy": {
@@ -1397,10 +1397,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 845083,
+      "confirmed": 852965,
       "date": "2020-12-12",
-      "deaths": 22952,
-      "recovered": 758373
+      "deaths": 23106,
+      "recovered": 760118
     }
   },
   "Spain": {
@@ -1525,10 +1525,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 1780673,
+      "confirmed": 1809809,
       "date": "2020-12-12",
-      "deaths": 15977,
-      "recovered": 458109
+      "deaths": 16199,
+      "recovered": 1581565
     }
   },
   "US": {
@@ -1545,7 +1545,7 @@
         "live": {
           "confirmed": 1039149,
           "date": "2020-12-12",
-          "deaths": 14926,
+          "deaths": 14944,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 129126,
+          "confirmed": 130295,
           "date": "2020-12-12",
-          "deaths": 4847,
+          "deaths": 4888,
           "recovered": 0
         }
       },
@@ -1695,9 +1695,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 102463,
+          "confirmed": 103541,
           "date": "2020-12-12",
-          "deaths": 1191,
+          "deaths": 1207,
           "recovered": 0
         }
       },
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 711459,
           "date": "2020-12-12",
-          "deaths": 11043,
+          "deaths": 11129,
           "recovered": 0
         }
       },
