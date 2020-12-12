@@ -226,7 +226,7 @@
           "confirmed": 196446,
           "date": "2020-12-12",
           "deaths": 4362,
-          "recovered": 187711
+          "recovered": 187984
         }
       },
       "Mato Grosso": {
@@ -290,7 +290,7 @@
           "confirmed": 133336,
           "date": "2020-12-12",
           "deaths": 2704,
-          "recovered": 130707
+          "recovered": 131274
         }
       },
       "Rio Grande do Norte": {
@@ -322,7 +322,7 @@
           "confirmed": 84919,
           "date": "2020-12-12",
           "deaths": 1628,
-          "recovered": 74259
+          "recovered": 74621
         }
       },
       "Roraima": {
@@ -354,7 +354,7 @@
           "confirmed": 96990,
           "date": "2020-12-12",
           "deaths": 2351,
-          "recovered": 86256
+          "recovered": 86601
         }
       },
       "Tocantins": {
@@ -1009,10 +1009,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 184419,
+      "confirmed": 184557,
       "date": "2020-12-12",
-      "deaths": 2550,
-      "recovered": 156011
+      "deaths": 2551,
+      "recovered": 156093
     }
   },
   "Kenya": {
@@ -1075,7 +1075,7 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 248976,
+          "confirmed": 254543,
           "date": "2020-12-12",
           "deaths": 14500,
           "recovered": 0
@@ -1083,7 +1083,7 @@
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 69826,
+          "confirmed": 70711,
           "date": "2020-12-12",
           "deaths": 4463,
           "recovered": 0
@@ -1091,7 +1091,7 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 121562,
+          "confirmed": 122885,
           "date": "2020-12-12",
           "deaths": 16607,
           "recovered": 0
@@ -1099,7 +1099,7 @@
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 71981,
+          "confirmed": 72419,
           "date": "2020-12-12",
           "deaths": 4790,
           "recovered": 0
@@ -1107,7 +1107,7 @@
       },
       "Sonora": {
         "live": {
-          "confirmed": 46384,
+          "confirmed": 46729,
           "date": "2020-12-12",
           "deaths": 3650,
           "recovered": 0
