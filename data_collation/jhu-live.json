@@ -415,10 +415,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 309047,
+          "confirmed": 309491,
           "date": "2020-12-12",
-          "deaths": 10495,
-          "recovered": 295727
+          "deaths": 10517,
+          "recovered": 296146
         }
       }
     }
@@ -619,9 +619,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 54969,
+          "confirmed": 55503,
           "date": "2020-12-12",
-          "deaths": 837,
+          "deaths": 846,
           "recovered": 36978
         }
       },
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 572600,
+      "confirmed": 573622,
       "date": "2020-12-12",
-      "deaths": 12549,
-      "recovered": 503897
+      "deaths": 12565,
+      "recovered": 505669
     }
   },
   "Ireland": {
@@ -1143,41 +1143,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 61215,
+          "confirmed": 62098,
           "date": "2020-12-12",
-          "deaths": 1119,
+          "deaths": 1125,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 94581,
+          "confirmed": 96028,
           "date": "2020-12-12",
-          "deaths": 2136,
+          "deaths": 2143,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 105492,
+          "confirmed": 106914,
           "date": "2020-12-12",
-          "deaths": 1385,
+          "deaths": 1388,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 50466,
+          "confirmed": 51279,
           "date": "2020-12-12",
-          "deaths": 745,
+          "deaths": 748,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 163028,
+          "confirmed": 165167,
           "date": "2020-12-12",
-          "deaths": 2491,
+          "deaths": 2509,
           "recovered": 0
         }
       }
@@ -1255,17 +1255,17 @@
     "subseries": {
       "Arequipa": {
         "live": {
-          "confirmed": 46910,
+          "confirmed": 46982,
           "date": "2020-12-12",
-          "deaths": 1552,
+          "deaths": 1554,
           "recovered": 0
         }
       },
       "Lima": {
         "live": {
-          "confirmed": 435479,
+          "confirmed": 436101,
           "date": "2020-12-12",
-          "deaths": 16335,
+          "deaths": 16353,
           "recovered": 0
         }
       }
@@ -1357,10 +1357,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 359583,
+      "confirmed": 359749,
       "date": "2020-12-12",
-      "deaths": 6023,
-      "recovered": 350108
+      "deaths": 6036,
+      "recovered": 350347
     }
   },
   "Serbia": {
@@ -1511,7 +1511,7 @@
     "live": {
       "confirmed": 373831,
       "date": "2020-12-12",
-      "deaths": 5960,
+      "deaths": 5970,
       "recovered": 291500
     }
   },
