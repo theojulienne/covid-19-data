@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 71368,
+          "confirmed": 71827,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 78152,
+          "confirmed": 78384,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 57603,
+          "confirmed": 58025,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 45941,
+          "confirmed": 46136,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 96379,
+          "confirmed": 96715,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 93467,
+          "confirmed": 93672,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -131,7 +131,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 47509,
+          "confirmed": 47907,
           "date": "2020-12-12",
           "deaths": 0,
           "recovered": 0
@@ -994,7 +994,7 @@
           "confirmed": 46794,
           "date": "2020-12-12",
           "deaths": 510,
-          "recovered": 40375
+          "recovered": 40970
         }
       }
     }
@@ -1057,10 +1057,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 86949,
+      "confirmed": 90252,
       "date": "2020-12-12",
-      "deaths": 764,
-      "recovered": 36168
+      "deaths": 791,
+      "recovered": 38768
     }
   },
   "Malaysia": {
@@ -1273,10 +1273,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 447039,
+      "confirmed": 448331,
       "date": "2020-12-12",
-      "deaths": 8709,
-      "recovered": 409329
+      "deaths": 8730,
+      "recovered": 409433
     }
   },
   "Poland": {
