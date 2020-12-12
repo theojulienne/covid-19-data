@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 167155,
+      "confirmed": 171423,
       "date": "2020-12-12",
-      "deaths": 1840,
-      "recovered": 103550
+      "deaths": 1883,
+      "recovered": 107635
     }
   },
   "Bahrain": {
@@ -377,10 +377,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 105863,
+      "confirmed": 107215,
       "date": "2020-12-12",
-      "deaths": 2220,
-      "recovered": 84338
+      "deaths": 2245,
+      "recovered": 85406
     }
   },
   "Canada": {
@@ -579,9 +579,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 253069,
+          "confirmed": 253715,
           "date": "2020-12-12",
-          "deaths": 4812,
+          "deaths": 4818,
           "recovered": 189210
         }
       },
@@ -1023,6 +1023,14 @@
       "recovered": 71579
     }
   },
+  "Kosovo": {
+    "live": {
+      "confirmed": 46118,
+      "date": "2020-12-12",
+      "deaths": 1186,
+      "recovered": 33064
+    }
+  },
   "Kuwait": {
     "live": {
       "confirmed": 145789,
@@ -1367,7 +1375,7 @@
     "live": {
       "confirmed": 255758,
       "date": "2020-12-12",
-      "deaths": 2227,
+      "deaths": 2275,
       "recovered": 0
     }
   },
@@ -1562,14 +1570,6 @@
           "confirmed": 619729,
           "date": "2020-12-12",
           "deaths": 9791,
-          "recovered": 0
-        }
-      },
-      "Georgia": {
-        "live": {
-          "confirmed": 45902,
-          "date": "2020-12-12",
-          "deaths": 745,
           "recovered": 0
         }
       },
