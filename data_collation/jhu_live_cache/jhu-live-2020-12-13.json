@@ -573,7 +573,7 @@
         "live": {
           "confirmed": 182958,
           "date": "2020-12-13",
-          "deaths": 3353,
+          "deaths": 3400,
           "recovered": 132464
         }
       },
@@ -581,7 +581,7 @@
         "live": {
           "confirmed": 253715,
           "date": "2020-12-13",
-          "deaths": 4818,
+          "deaths": 4848,
           "recovered": 189210
         }
       },
@@ -597,7 +597,7 @@
         "live": {
           "confirmed": 105934,
           "date": "2020-12-13",
-          "deaths": 1716,
+          "deaths": 1749,
           "recovered": 77007
         }
       },
@@ -605,7 +605,7 @@
         "live": {
           "confirmed": 84322,
           "date": "2020-12-13",
-          "deaths": 1416,
+          "deaths": 1419,
           "recovered": 69622
         }
       },
@@ -613,7 +613,7 @@
         "live": {
           "confirmed": 310932,
           "date": "2020-12-13",
-          "deaths": 4422,
+          "deaths": 4455,
           "recovered": 240428
         }
       },
@@ -629,7 +629,7 @@
         "live": {
           "confirmed": 82226,
           "date": "2020-12-13",
-          "deaths": 1591,
+          "deaths": 1652,
           "recovered": 52000
         }
       }
@@ -1009,7 +1009,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 184557,
+      "confirmed": 185351,
       "date": "2020-12-13",
       "deaths": 2551,
       "recovered": 156744
@@ -1075,41 +1075,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 254543,
+          "confirmed": 259553,
           "date": "2020-12-13",
-          "deaths": 14500,
+          "deaths": 14611,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 70711,
+          "confirmed": 71581,
           "date": "2020-12-13",
-          "deaths": 4463,
+          "deaths": 4508,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 122885,
+          "confirmed": 124094,
           "date": "2020-12-13",
-          "deaths": 16607,
+          "deaths": 16682,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 72419,
+          "confirmed": 73077,
           "date": "2020-12-13",
-          "deaths": 4790,
+          "deaths": 4805,
           "recovered": 0
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 46729,
+          "confirmed": 47008,
           "date": "2020-12-13",
-          "deaths": 3650,
+          "deaths": 3686,
           "recovered": 0
         }
       }
