@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 91638,
+      "confirmed": 92102,
       "date": "2020-12-13",
-      "deaths": 2584,
-      "recovered": 60028
+      "deaths": 2596,
+      "recovered": 60457
     }
   },
   "Argentina": {
@@ -395,10 +395,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 142728,
+          "confirmed": 142798,
           "date": "2020-12-13",
-          "deaths": 3959,
-          "recovered": 124195
+          "deaths": 3960,
+          "recovered": 124652
         }
       },
       "Quebec": {
@@ -529,10 +529,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 201524,
+      "confirmed": 202110,
       "date": "2020-12-13",
-      "deaths": 13874,
-      "recovered": 174188
+      "deaths": 13875,
+      "recovered": 177951
     }
   },
   "Egypt": {
@@ -645,9 +645,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 123842,
+      "confirmed": 124534,
       "date": "2020-12-13",
-      "deaths": 3540,
+      "deaths": 3625,
       "recovered": 23074
     }
   },
@@ -1049,10 +1049,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 145245,
+      "confirmed": 146520,
       "date": "2020-12-13",
-      "deaths": 1190,
-      "recovered": 98584
+      "deaths": 1200,
+      "recovered": 101334
     }
   },
   "Libya": {
@@ -1591,9 +1591,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 57178,
+          "confirmed": 58091,
           "date": "2020-12-13",
-          "deaths": 958,
+          "deaths": 962,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 78430,
+          "confirmed": 79134,
           "date": "2020-12-13",
-          "deaths": 1231,
+          "deaths": 1243,
           "recovered": 0
         }
       },
@@ -1649,7 +1649,7 @@
         "live": {
           "confirmed": 139053,
           "date": "2020-12-13",
-          "deaths": 1994,
+          "deaths": 1999,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 50535,
+          "confirmed": 51290,
           "date": "2020-12-13",
-          "deaths": 483,
+          "deaths": 484,
           "recovered": 0
         }
       },
@@ -1789,10 +1789,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 183755,
+      "confirmed": 184949,
       "date": "2020-12-13",
-      "deaths": 609,
-      "recovered": 163048
+      "deaths": 617,
+      "recovered": 163679
     }
   },
   "United Kingdom": {
