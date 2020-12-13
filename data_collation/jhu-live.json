@@ -513,10 +513,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 107116,
+      "confirmed": 109758,
       "date": "2020-12-13",
-      "deaths": 935,
-      "recovered": 78236
+      "deaths": 941,
+      "recovered": 79394
     }
   },
   "Dominican Republic": {
@@ -881,10 +881,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 573622,
+      "confirmed": 574634,
       "date": "2020-12-13",
-      "deaths": 12565,
-      "recovered": 505669
+      "deaths": 12579,
+      "recovered": 507446
     }
   },
   "Ireland": {
@@ -1143,41 +1143,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 62098,
+          "confirmed": 63405,
           "date": "2020-12-13",
-          "deaths": 1125,
+          "deaths": 1127,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 96028,
+          "confirmed": 97659,
           "date": "2020-12-13",
-          "deaths": 2143,
+          "deaths": 2153,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 106914,
+          "confirmed": 108254,
           "date": "2020-12-13",
-          "deaths": 1388,
+          "deaths": 1390,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 51279,
+          "confirmed": 52147,
           "date": "2020-12-13",
-          "deaths": 748,
+          "deaths": 752,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 165167,
+          "confirmed": 167138,
           "date": "2020-12-13",
-          "deaths": 2509,
+          "deaths": 2516,
           "recovered": 0
         }
       }
@@ -1357,10 +1357,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 359749,
+      "confirmed": 359888,
       "date": "2020-12-13",
-      "deaths": 6036,
-      "recovered": 350347
+      "deaths": 6048,
+      "recovered": 350549
     }
   },
   "Serbia": {
