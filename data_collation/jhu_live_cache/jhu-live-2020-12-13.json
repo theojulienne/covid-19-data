@@ -441,48 +441,48 @@
         "live": {
           "confirmed": 228441,
           "date": "2020-12-13",
-          "deaths": 4289,
-          "recovered": 211713
+          "deaths": 4318,
+          "recovered": 213115
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 82113,
           "date": "2020-12-13",
-          "deaths": 3257,
-          "recovered": 76720
+          "deaths": 3262,
+          "recovered": 76967
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 403145,
           "date": "2020-12-13",
-          "deaths": 8843,
-          "recovered": 370274
+          "deaths": 8880,
+          "recovered": 371802
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 56837,
           "date": "2020-12-13",
-          "deaths": 1495,
-          "recovered": 52530
+          "deaths": 1502,
+          "recovered": 52770
         }
       },
       "Santander": {
         "live": {
           "confirmed": 57940,
           "date": "2020-12-13",
-          "deaths": 2121,
-          "recovered": 52143
+          "deaths": 2130,
+          "recovered": 52404
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 118737,
           "date": "2020-12-13",
-          "deaths": 3767,
-          "recovered": 108319
+          "deaths": 3790,
+          "recovered": 109095
         }
       }
     }
@@ -1211,26 +1211,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 51404,
+          "confirmed": 52092,
           "date": "2020-12-13",
-          "deaths": 1455,
-          "recovered": 45672
+          "deaths": 1463,
+          "recovered": 45866
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 126526,
+          "confirmed": 127212,
           "date": "2020-12-13",
-          "deaths": 3320,
-          "recovered": 114860
+          "deaths": 3351,
+          "recovered": 114910
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 192735,
+          "confirmed": 194359,
           "date": "2020-12-13",
-          "deaths": 3132,
-          "recovered": 165466
+          "deaths": 3149,
+          "recovered": 166492
         }
       }
     }
