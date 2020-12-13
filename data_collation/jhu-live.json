@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 171423,
+      "confirmed": 175874,
       "date": "2020-12-13",
-      "deaths": 1883,
-      "recovered": 107635
+      "deaths": 1922,
+      "recovered": 111918
     }
   },
   "Bahrain": {
@@ -603,9 +603,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 84771,
+          "confirmed": 85460,
           "date": "2020-12-13",
-          "deaths": 1419,
+          "deaths": 1420,
           "recovered": 70244
         }
       },
@@ -619,10 +619,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 55536,
+          "confirmed": 56319,
           "date": "2020-12-13",
-          "deaths": 846,
-          "recovered": 37378
+          "deaths": 855,
+          "recovered": 37908
         }
       },
       "Sachsen": {
@@ -994,7 +994,7 @@
           "confirmed": 47274,
           "date": "2020-12-13",
           "deaths": 510,
-          "recovered": 40970
+          "recovered": 41297
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 146044,
+      "confirmed": 146218,
       "date": "2020-12-13",
       "deaths": 911,
-      "recovered": 141825
+      "recovered": 142094
     }
   },
   "Kyrgyzstan": {
@@ -1305,10 +1305,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 551900,
+      "confirmed": 556335,
       "date": "2020-12-13",
-      "deaths": 13264,
-      "recovered": 451477
+      "deaths": 13385,
+      "recovered": 457360
     }
   },
   "Russia": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 715640,
+          "confirmed": 715866,
           "date": "2020-12-13",
           "deaths": 11129,
           "recovered": 0
