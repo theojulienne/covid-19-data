@@ -141,10 +141,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 146697,
+      "confirmed": 147030,
       "date": "2020-12-13",
-      "deaths": 9013,
-      "recovered": 125886
+      "deaths": 9014,
+      "recovered": 126092
     }
   },
   "Bosnia and Herzegovina": {
@@ -1012,7 +1012,7 @@
       "confirmed": 184557,
       "date": "2020-12-13",
       "deaths": 2551,
-      "recovered": 156093
+      "recovered": 156744
     }
   },
   "Kenya": {
@@ -1543,7 +1543,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1040185,
+          "confirmed": 1051031,
           "date": "2020-12-13",
           "deaths": 15011,
           "recovered": 0
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 714648,
+          "confirmed": 715640,
           "date": "2020-12-13",
           "deaths": 11129,
           "recovered": 0
