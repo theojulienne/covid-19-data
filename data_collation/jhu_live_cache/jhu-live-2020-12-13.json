@@ -149,10 +149,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 100306,
+      "confirmed": 101117,
       "date": "2020-12-13",
-      "deaths": 3298,
-      "recovered": 65289
+      "deaths": 3336,
+      "recovered": 65758
     }
   },
   "Brazil": {
@@ -377,10 +377,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 107215,
+      "confirmed": 108342,
       "date": "2020-12-13",
-      "deaths": 2245,
-      "recovered": 85406
+      "deaths": 2268,
+      "recovered": 86795
     }
   },
   "Canada": {
@@ -415,10 +415,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 309491,
+          "confirmed": 309969,
           "date": "2020-12-13",
-          "deaths": 10517,
-          "recovered": 296146
+          "deaths": 10526,
+          "recovered": 296597
         }
       }
     }
@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2348795,
+      "confirmed": 2362619,
       "date": "2020-12-13",
-      "deaths": 57210,
-      "recovered": 152555
+      "deaths": 57404,
+      "recovered": 153407
     }
   },
   "Georgia": {
@@ -579,7 +579,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 256903,
+          "confirmed": 257139,
           "date": "2020-12-13",
           "deaths": 4848,
           "recovered": 191165
@@ -1023,6 +1023,14 @@
       "recovered": 72596
     }
   },
+  "Kosovo": {
+    "live": {
+      "confirmed": 46580,
+      "date": "2020-12-13",
+      "deaths": 1198,
+      "recovered": 33600
+    }
+  },
   "Kuwait": {
     "live": {
       "confirmed": 146218,
@@ -1367,7 +1375,7 @@
     "live": {
       "confirmed": 261437,
       "date": "2020-12-13",
-      "deaths": 2275,
+      "deaths": 2331,
       "recovered": 0
     }
   },
@@ -1389,7 +1397,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 96311,
+      "confirmed": 96314,
       "date": "2020-12-13",
       "deaths": 2063,
       "recovered": 73377
@@ -1511,7 +1519,7 @@
     "live": {
       "confirmed": 373831,
       "date": "2020-12-13",
-      "deaths": 5976,
+      "deaths": 5984,
       "recovered": 291500
     }
   },
@@ -1682,14 +1690,6 @@
           "confirmed": 79646,
           "date": "2020-12-13",
           "deaths": 2127,
-          "recovered": 0
-        }
-      },
-      "Rhode Island": {
-        "live": {
-          "confirmed": 46213,
-          "date": "2020-12-13",
-          "deaths": 1114,
           "recovered": 0
         }
       },
