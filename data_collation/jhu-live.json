@@ -1511,7 +1511,7 @@
     "live": {
       "confirmed": 373831,
       "date": "2020-12-13",
-      "deaths": 5970,
+      "deaths": 5976,
       "recovered": 291500
     }
   },
@@ -1545,7 +1545,7 @@
         "live": {
           "confirmed": 1040185,
           "date": "2020-12-13",
-          "deaths": 14944,
+          "deaths": 15011,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 46370,
+          "confirmed": 46634,
           "date": "2020-12-13",
-          "deaths": 416,
+          "deaths": 417,
           "recovered": 0
         }
       },
@@ -1719,7 +1719,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 52398,
+          "confirmed": 53282,
           "date": "2020-12-13",
           "deaths": 912,
           "recovered": 0
