@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 71827,
+          "confirmed": 72370,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 78384,
+          "confirmed": 78560,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 58025,
+          "confirmed": 58400,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 46136,
+          "confirmed": 46311,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 96715,
+          "confirmed": 97090,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 93672,
+          "confirmed": 93875,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -131,7 +131,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 47907,
+          "confirmed": 48325,
           "date": "2020-12-13",
           "deaths": 0,
           "recovered": 0
@@ -897,10 +897,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 355786,
+      "confirmed": 356015,
       "date": "2020-12-13",
       "deaths": 2983,
-      "recovered": 335243
+      "recovered": 335693
     }
   },
   "Italy": {
@@ -1545,7 +1545,7 @@
         "live": {
           "confirmed": 1051031,
           "date": "2020-12-13",
-          "deaths": 15011,
+          "deaths": 15025,
           "recovered": 0
         }
       },
@@ -1833,10 +1833,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 74811,
+      "confirmed": 74956,
       "date": "2020-12-13",
       "deaths": 612,
-      "recovered": 72084
+      "recovered": 72243
     }
   },
   "Venezuela": {
