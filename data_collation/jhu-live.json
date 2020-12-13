@@ -398,7 +398,7 @@
           "confirmed": 142171,
           "date": "2020-12-13",
           "deaths": 3949,
-          "recovered": 123761
+          "recovered": 124132
         }
       },
       "Quebec": {
@@ -653,10 +653,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 129099,
+      "confirmed": 129282,
       "date": "2020-12-13",
-      "deaths": 4405,
-      "recovered": 117615
+      "deaths": 4423,
+      "recovered": 117923
     }
   },
   "Honduras": {
@@ -1125,10 +1125,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 125723,
+      "confirmed": 126518,
       "date": "2020-12-13",
-      "deaths": 2547,
-      "recovered": 107733
+      "deaths": 2572,
+      "recovered": 108901
     }
   },
   "Morocco": {
@@ -1373,7 +1373,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 261437,
+      "confirmed": 266432,
       "date": "2020-12-13",
       "deaths": 2331,
       "recovered": 0
@@ -1384,7 +1384,7 @@
       "confirmed": 58320,
       "date": "2020-12-13",
       "deaths": 29,
-      "recovered": 58197
+      "recovered": 58208
     }
   },
   "Slovakia": {
@@ -1599,9 +1599,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 46877,
+          "confirmed": 47288,
           "date": "2020-12-13",
-          "deaths": 985,
+          "deaths": 993,
           "recovered": 0
         }
       },
