@@ -553,10 +553,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2362619,
+      "confirmed": 2374152,
       "date": "2020-12-13",
-      "deaths": 57404,
-      "recovered": 153407
+      "deaths": 57554,
+      "recovered": 153659
     }
   },
   "Georgia": {
@@ -587,10 +587,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 78250,
+          "confirmed": 78798,
           "date": "2020-12-13",
-          "deaths": 813,
-          "recovered": 58198
+          "deaths": 821,
+          "recovered": 58284
         }
       },
       "Hessen": {
@@ -1405,10 +1405,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 852965,
+      "confirmed": 860964,
       "date": "2020-12-13",
-      "deaths": 23106,
-      "recovered": 760118
+      "deaths": 23276,
+      "recovered": 761011
     }
   },
   "Spain": {
@@ -1533,10 +1533,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 1809809,
+      "confirmed": 1836728,
       "date": "2020-12-13",
-      "deaths": 16199,
-      "recovered": 1581565
+      "deaths": 16417,
+      "recovered": 1603780
     }
   },
   "US": {
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 1054637,
           "date": "2020-12-13",
-          "deaths": 15029,
+          "deaths": 15037,
           "recovered": 0
         }
       },
@@ -1569,7 +1569,7 @@
         "live": {
           "confirmed": 625115,
           "date": "2020-12-13",
-          "deaths": 9803,
+          "deaths": 9838,
           "recovered": 0
         }
       },
@@ -1673,7 +1673,7 @@
         "live": {
           "confirmed": 123250,
           "date": "2020-12-13",
-          "deaths": 1520,
+          "deaths": 1517,
           "recovered": 0
         }
       },
