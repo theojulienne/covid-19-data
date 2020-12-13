@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 46837,
-        "deaths": 1846,
-        "recovered": 37260
+        "confirmed": 47072,
+        "deaths": 1864,
+        "recovered": 37393
       },
       "back_2week": {
-        "confirmed": 45723,
-        "deaths": 1740,
-        "recovered": 36295
+        "confirmed": 45844,
+        "deaths": 1752,
+        "recovered": 36709
       },
       "latest": {
-        "confirmed": 48116,
-        "deaths": 1945,
-        "recovered": 38141
+        "confirmed": 48229,
+        "deaths": 1956,
+        "recovered": 38200
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 139692,
-        "deaths": 2277,
-        "recovered": 114990
+        "confirmed": 140959,
+        "deaths": 2309,
+        "recovered": 116066
       },
       "back_2week": {
-        "confirmed": 132346,
-        "deaths": 2090,
-        "recovered": 105149
+        "confirmed": 133594,
+        "deaths": 2121,
+        "recovered": 106479
       },
       "latest": {
-        "confirmed": 146317,
-        "deaths": 2445,
-        "recovered": 123474
+        "confirmed": 147312,
+        "deaths": 2462,
+        "recovered": 124521
       }
     },
     "ATG": {
@@ -1043,18 +1043,18 @@ var covid19_dataset_latest_totals = {
     "CZE": {
       "back_1week": {
         "confirmed": 542406,
-        "deaths": 8738,
-        "recovered": 473994
+        "deaths": 8815,
+        "recovered": 476669
       },
       "back_2week": {
         "confirmed": 515984,
-        "deaths": 7967,
-        "recovered": 425026
+        "deaths": 8054,
+        "recovered": 442327
       },
       "latest": {
         "confirmed": 569205,
-        "deaths": 9341,
-        "recovered": 497828
+        "deaths": 9450,
+        "recovered": 503017
       }
     },
     "DEU": {
@@ -1464,19 +1464,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 152704,
-        "deaths": 1425,
-        "recovered": 126904
+        "confirmed": 158154,
+        "deaths": 1462,
+        "recovered": 129210
       },
       "back_2week": {
-        "confirmed": 123470,
-        "deaths": 1161,
-        "recovered": 102270
+        "confirmed": 127942,
+        "deaths": 1195,
+        "recovered": 106328
       },
       "latest": {
-        "confirmed": 183099,
-        "deaths": 1694,
-        "recovered": 150461
+        "confirmed": 187006,
+        "deaths": 1744,
+        "recovered": 154241
       }
     },
     "GHA": {
