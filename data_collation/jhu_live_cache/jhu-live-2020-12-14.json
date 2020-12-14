@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 72370,
+          "confirmed": 72691,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 78560,
+          "confirmed": 78711,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 58400,
+          "confirmed": 58793,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 97090,
+          "confirmed": 97424,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 93875,
+          "confirmed": 94007,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -123,7 +123,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 48325,
+          "confirmed": 48575,
           "date": "2020-12-14",
           "deaths": 0,
           "recovered": 0
@@ -653,10 +653,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 114043,
+      "confirmed": 114359,
       "date": "2020-12-14",
-      "deaths": 2974,
-      "recovered": 51410
+      "deaths": 2975,
+      "recovered": 51478
     }
   },
   "Hungary": {
@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 186260,
+      "confirmed": 186277,
       "date": "2020-12-14",
       "deaths": 2552,
-      "recovered": 157650
+      "recovered": 157701
     }
   },
   "Kenya": {
