@@ -65,18 +65,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 490533,
+      "confirmed": 492332,
       "date": "2020-12-14",
-      "deaths": 7052,
-      "recovered": 420896
+      "deaths": 7089,
+      "recovered": 423845
     }
   },
   "Belarus": {
     "live": {
       "confirmed": 160295,
       "date": "2020-12-14",
-      "deaths": 1263,
-      "recovered": 138464
+      "deaths": 1273,
+      "recovered": 139785
     }
   },
   "Belgium": {
@@ -489,7 +489,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 175886,
+      "confirmed": 177358,
       "date": "2020-12-14",
       "deaths": 2705,
       "recovered": 151884
@@ -629,7 +629,7 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 52933,
+      "confirmed": 53014,
       "date": "2020-12-14",
       "deaths": 327,
       "recovered": 51761
@@ -865,10 +865,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1108269,
+      "confirmed": 1115770,
       "date": "2020-12-14",
-      "deaths": 52196,
-      "recovered": 812270
+      "deaths": 52447,
+      "recovered": 823231
     }
   },
   "Iraq": {
@@ -1065,10 +1065,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 83475,
+      "confirmed": 84846,
       "date": "2020-12-14",
-      "deaths": 415,
-      "recovered": 69393
+      "deaths": 419,
+      "recovered": 70597
     }
   },
   "Mexico": {
@@ -1133,10 +1133,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 248423,
+      "confirmed": 249244,
       "date": "2020-12-14",
-      "deaths": 1698,
-      "recovered": 235731
+      "deaths": 1716,
+      "recovered": 236573
     }
   },
   "Netherlands": {
@@ -1201,7 +1201,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 126240,
+      "confirmed": 126504,
       "date": "2020-12-14",
       "deaths": 1472,
       "recovered": 118287
@@ -1389,10 +1389,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 96314,
+      "confirmed": 96745,
       "date": "2020-12-14",
-      "deaths": 2063,
-      "recovered": 73377
+      "deaths": 2107,
+      "recovered": 73760
     }
   },
   "South Africa": {
@@ -1511,7 +1511,7 @@
     "live": {
       "confirmed": 373831,
       "date": "2020-12-14",
-      "deaths": 6016,
+      "deaths": 6046,
       "recovered": 291500
     }
   },
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 721283,
+          "confirmed": 721696,
           "date": "2020-12-14",
           "deaths": 11130,
           "recovered": 0
@@ -1781,7 +1781,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 184949,
+      "confirmed": 186041,
       "date": "2020-12-14",
       "deaths": 618,
       "recovered": 164349
@@ -1841,10 +1841,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 109738,
+      "confirmed": 111102,
       "date": "2020-12-14",
-      "deaths": 978,
-      "recovered": 85110
+      "deaths": 1000,
+      "recovered": 87057
     }
   }
 }
