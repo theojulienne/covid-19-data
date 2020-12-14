@@ -73,7 +73,7 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 160295,
+      "confirmed": 162148,
       "date": "2020-12-14",
       "deaths": 1273,
       "recovered": 139785
@@ -595,9 +595,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 85729,
+          "confirmed": 86056,
           "date": "2020-12-14",
-          "deaths": 1427,
+          "deaths": 1429,
           "recovered": 71241
         }
       },
@@ -986,7 +986,7 @@
           "confirmed": 47579,
           "date": "2020-12-14",
           "deaths": 510,
-          "recovered": 41297
+          "recovered": 41555
         }
       }
     }
@@ -1305,10 +1305,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 556335,
+      "confirmed": 559587,
       "date": "2020-12-14",
-      "deaths": 13385,
-      "recovered": 457360
+      "deaths": 13494,
+      "recovered": 460780
     }
   },
   "Russia": {
@@ -1509,9 +1509,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 373831,
+      "confirmed": 384557,
       "date": "2020-12-14",
-      "deaths": 6046,
+      "deaths": 6060,
       "recovered": 291500
     }
   },
