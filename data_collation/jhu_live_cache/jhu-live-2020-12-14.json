@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 147030,
+      "confirmed": 147150,
       "date": "2020-12-14",
-      "deaths": 9014,
-      "recovered": 126092
+      "deaths": 9018,
+      "recovered": 126221
     }
   },
   "Bosnia and Herzegovina": {
@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 185513,
+      "confirmed": 186260,
       "date": "2020-12-14",
       "deaths": 2552,
-      "recovered": 156848
+      "recovered": 157650
     }
   },
   "Kenya": {
@@ -1075,41 +1075,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 259553,
+          "confirmed": 262794,
           "date": "2020-12-14",
-          "deaths": 14611,
+          "deaths": 14643,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 71581,
+          "confirmed": 72211,
           "date": "2020-12-14",
-          "deaths": 4508,
+          "deaths": 4534,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 124094,
+          "confirmed": 124966,
           "date": "2020-12-14",
-          "deaths": 16682,
+          "deaths": 16728,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 73077,
+          "confirmed": 73594,
           "date": "2020-12-14",
-          "deaths": 4805,
+          "deaths": 4809,
           "recovered": 0
         }
       },
       "Sonora": {
         "live": {
-          "confirmed": 47008,
+          "confirmed": 47113,
           "date": "2020-12-14",
-          "deaths": 3686,
+          "deaths": 3698,
           "recovered": 0
         }
       }
@@ -1545,7 +1545,7 @@
         "live": {
           "confirmed": 1124304,
           "date": "2020-12-14",
-          "deaths": 15602,
+          "deaths": 15613,
           "recovered": 0
         }
       },
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 717289,
+          "confirmed": 721283,
           "date": "2020-12-14",
-          "deaths": 11129,
+          "deaths": 11130,
           "recovered": 0
         }
       },
