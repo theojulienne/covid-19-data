@@ -1,10 +1,10 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 48527,
+      "confirmed": 48718,
       "date": "2020-12-14",
-      "deaths": 1965,
-      "recovered": 38250
+      "deaths": 1969,
+      "recovered": 38252
     }
   },
   "Albania": {
@@ -661,7 +661,7 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 280400,
+      "confirmed": 283870,
       "date": "2020-12-14",
       "deaths": 7130,
       "recovered": 82546
@@ -859,8 +859,8 @@
     "live": {
       "confirmed": 617820,
       "date": "2020-12-14",
-      "deaths": 18819,
-      "recovered": 505836
+      "deaths": 18956,
+      "recovered": 510957
     }
   },
   "Iran": {
@@ -891,8 +891,8 @@
     "live": {
       "confirmed": 357859,
       "date": "2020-12-14",
-      "deaths": 2999,
-      "recovered": 337487
+      "deaths": 3003,
+      "recovered": 337599
     }
   },
   "Italy": {
@@ -1273,7 +1273,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 449400,
+      "confirmed": 450733,
       "date": "2020-12-14",
       "deaths": 8757,
       "recovered": 418723
@@ -1284,7 +1284,7 @@
       "confirmed": 1135676,
       "date": "2020-12-14",
       "deaths": 22864,
-      "recovered": 858895
+      "recovered": 869155
     }
   },
   "Portugal": {
@@ -1315,7 +1315,7 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 692210,
+          "confirmed": 698084,
           "date": "2020-12-14",
           "deaths": 9945,
           "recovered": 534552
@@ -1323,7 +1323,7 @@
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 127821,
+          "confirmed": 129305,
           "date": "2020-12-14",
           "deaths": 2505,
           "recovered": 91222
@@ -1331,7 +1331,7 @@
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 60829,
+          "confirmed": 61322,
           "date": "2020-12-14",
           "deaths": 1380,
           "recovered": 54678
@@ -1339,7 +1339,7 @@
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 174486,
+          "confirmed": 178257,
           "date": "2020-12-14",
           "deaths": 6388,
           "recovered": 100611
@@ -1347,7 +1347,7 @@
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 51360,
+          "confirmed": 51757,
           "date": "2020-12-14",
           "deaths": 1230,
           "recovered": 44031
@@ -1383,8 +1383,8 @@
     "live": {
       "confirmed": 132984,
       "date": "2020-12-14",
-      "deaths": 1175,
-      "recovered": 97068
+      "deaths": 1205,
+      "recovered": 98585
     }
   },
   "Slovenia": {
