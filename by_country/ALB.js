@@ -987,7 +987,8 @@ var covid19_dataset_country_alb = {
       965,
       977,
       989,
-      1003
+      1003,
+      1016
     ],
     "recovered": [
       0,
