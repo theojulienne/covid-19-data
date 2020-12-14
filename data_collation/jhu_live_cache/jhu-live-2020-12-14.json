@@ -1237,10 +1237,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 190585,
+      "confirmed": 193007,
       "date": "2020-12-14",
-      "deaths": 3331,
-      "recovered": 160641
+      "deaths": 3356,
+      "recovered": 162105
     }
   },
   "Paraguay": {
@@ -1543,7 +1543,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1112101,
+          "confirmed": 1124304,
           "date": "2020-12-14",
           "deaths": 15602,
           "recovered": 0
@@ -1631,7 +1631,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 46634,
+          "confirmed": 47112,
           "date": "2020-12-14",
           "deaths": 417,
           "recovered": 0
