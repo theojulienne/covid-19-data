@@ -658,7 +658,8 @@ var covid19_dataset_country_rks = {
       45004,
       45594,
       46118,
-      46580
+      46580,
+      46909
     ],
     "deaths": [
       0,
