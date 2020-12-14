@@ -60,7 +60,7 @@
       "confirmed": 89143,
       "date": "2020-12-14",
       "deaths": 348,
-      "recovered": 87182
+      "recovered": 87332
     }
   },
   "Bangladesh": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 145917,
+          "confirmed": 146067,
           "date": "2020-12-14",
           "deaths": 3987,
-          "recovered": 126829
+          "recovered": 127103
         }
       },
       "Quebec": {
@@ -892,7 +892,7 @@
       "confirmed": 359070,
       "date": "2020-12-14",
       "deaths": 3004,
-      "recovered": 338321
+      "recovered": 338418
     }
   },
   "Italy": {
@@ -1013,14 +1013,6 @@
       "date": "2020-12-14",
       "deaths": 1593,
       "recovered": 73452
-    }
-  },
-  "Kosovo": {
-    "live": {
-      "confirmed": 46909,
-      "date": "2020-12-14",
-      "deaths": 1203,
-      "recovered": 34155
     }
   },
   "Kuwait": {
@@ -1397,7 +1389,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 860964,
+      "confirmed": 866127,
       "date": "2020-12-14",
       "deaths": 23451,
       "recovered": 762746
@@ -1545,15 +1537,15 @@
         "live": {
           "confirmed": 1133305,
           "date": "2020-12-14",
-          "deaths": 15633,
+          "deaths": 15646,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 46615,
+          "confirmed": 48308,
           "date": "2020-12-14",
-          "deaths": 1588,
+          "deaths": 1602,
           "recovered": 0
         }
       },
@@ -1567,9 +1559,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 46896,
+          "confirmed": 94144,
           "date": "2020-12-14",
-          "deaths": 750,
+          "deaths": 1315,
           "recovered": 0
         }
       },
@@ -1607,7 +1599,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 130295,
+          "confirmed": 131948,
           "date": "2020-12-14",
           "deaths": 4904,
           "recovered": 0
