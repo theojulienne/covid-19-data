@@ -9,7 +9,7 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 48530,
+      "confirmed": 49191,
       "date": "2020-12-14",
       "deaths": 1016,
       "recovered": 24820
@@ -17,7 +17,7 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 92102,
+      "confirmed": 92597,
       "date": "2020-12-14",
       "deaths": 2609,
       "recovered": 60888
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 144628,
+          "confirmed": 144744,
           "date": "2020-12-14",
-          "deaths": 3981,
-          "recovered": 125766
+          "deaths": 3982,
+          "recovered": 125887
         }
       },
       "Quebec": {
@@ -563,9 +563,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 188241,
+          "confirmed": 190410,
           "date": "2020-12-14",
-          "deaths": 3425,
+          "deaths": 3523,
           "recovered": 136052
         }
       },
@@ -899,82 +899,82 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 173965,
+          "confirmed": 175053,
           "date": "2020-12-14",
-          "deaths": 2310,
-          "recovered": 78395
+          "deaths": 2340,
+          "recovered": 80043
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 144755,
+          "confirmed": 146325,
           "date": "2020-12-14",
-          "deaths": 6572,
-          "recovered": 73421
+          "deaths": 6645,
+          "recovered": 74694
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 139676,
+          "confirmed": 140991,
           "date": "2020-12-14",
-          "deaths": 2938,
-          "recovered": 50129
+          "deaths": 2976,
+          "recovered": 52166
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 55618,
+          "confirmed": 55841,
           "date": "2020-12-14",
-          "deaths": 2657,
-          "recovered": 44566
+          "deaths": 2674,
+          "recovered": 44887
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 443662,
+          "confirmed": 444607,
           "date": "2020-12-14",
-          "deaths": 23810,
-          "recovered": 333503
+          "deaths": 23877,
+          "recovered": 342409
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 185538,
+          "confirmed": 186066,
           "date": "2020-12-14",
-          "deaths": 7088,
-          "recovered": 122476
+          "deaths": 7136,
+          "recovered": 125594
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 72972,
+          "confirmed": 73628,
           "date": "2020-12-14",
-          "deaths": 1934,
-          "recovered": 18892
+          "deaths": 1958,
+          "recovered": 19638
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 78190,
+          "confirmed": 79104,
           "date": "2020-12-14",
-          "deaths": 1967,
-          "recovered": 40504
+          "deaths": 1999,
+          "recovered": 41264
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 112344,
+          "confirmed": 112789,
           "date": "2020-12-14",
-          "deaths": 3151,
-          "recovered": 91079
+          "deaths": 3193,
+          "recovered": 92117
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 190641,
+          "confirmed": 193470,
           "date": "2020-12-14",
-          "deaths": 4801,
-          "recovered": 95141
+          "deaths": 4827,
+          "recovered": 96115
         }
       }
     }
@@ -1043,8 +1043,8 @@
     "live": {
       "confirmed": 146520,
       "date": "2020-12-14",
-      "deaths": 1200,
-      "recovered": 101334
+      "deaths": 1210,
+      "recovered": 103057
     }
   },
   "Libya": {
@@ -1127,8 +1127,8 @@
     "live": {
       "confirmed": 399609,
       "date": "2020-12-14",
-      "deaths": 6624,
-      "recovered": 356023
+      "deaths": 6659,
+      "recovered": 359065
     }
   },
   "Nepal": {
@@ -1193,7 +1193,7 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 73638,
+      "confirmed": 73851,
       "date": "2020-12-14",
       "deaths": 2147,
       "recovered": 50046
@@ -1583,9 +1583,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 58091,
+          "confirmed": 58931,
           "date": "2020-12-14",
-          "deaths": 962,
+          "deaths": 973,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 79134,
+          "confirmed": 79756,
           "date": "2020-12-14",
-          "deaths": 1243,
+          "deaths": 1246,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 51290,
+          "confirmed": 51896,
           "date": "2020-12-14",
-          "deaths": 484,
+          "deaths": 485,
           "recovered": 0
         }
       },
