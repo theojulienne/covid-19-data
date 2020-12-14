@@ -507,8 +507,8 @@
     "live": {
       "confirmed": 109758,
       "date": "2020-12-14",
-      "deaths": 941,
-      "recovered": 79394
+      "deaths": 950,
+      "recovered": 80564
     }
   },
   "Dominican Republic": {
@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 574634,
+      "confirmed": 575972,
       "date": "2020-12-14",
-      "deaths": 12579,
-      "recovered": 507446
+      "deaths": 12603,
+      "recovered": 509474
     }
   },
   "Ireland": {
@@ -1027,8 +1027,8 @@
     "live": {
       "confirmed": 146218,
       "date": "2020-12-14",
-      "deaths": 911,
-      "recovered": 142094
+      "deaths": 912,
+      "recovered": 142357
     }
   },
   "Kyrgyzstan": {
@@ -1143,41 +1143,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 63405,
+          "confirmed": 64550,
           "date": "2020-12-14",
-          "deaths": 1127,
+          "deaths": 1133,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 97659,
+          "confirmed": 98978,
           "date": "2020-12-14",
-          "deaths": 2153,
+          "deaths": 2161,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 108254,
+          "confirmed": 109505,
           "date": "2020-12-14",
-          "deaths": 1390,
+          "deaths": 1398,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 52147,
+          "confirmed": 52873,
           "date": "2020-12-14",
-          "deaths": 752,
+          "deaths": 754,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 167138,
+          "confirmed": 168806,
           "date": "2020-12-14",
-          "deaths": 2516,
+          "deaths": 2523,
           "recovered": 0
         }
       }
@@ -1257,7 +1257,7 @@
         "live": {
           "confirmed": 46982,
           "date": "2020-12-14",
-          "deaths": 1554,
+          "deaths": 1562,
           "recovered": 0
         }
       },
@@ -1265,7 +1265,7 @@
         "live": {
           "confirmed": 436101,
           "date": "2020-12-14",
-          "deaths": 16353,
+          "deaths": 16405,
           "recovered": 0
         }
       }
@@ -1359,8 +1359,8 @@
     "live": {
       "confirmed": 359888,
       "date": "2020-12-14",
-      "deaths": 6048,
-      "recovered": 350549
+      "deaths": 6059,
+      "recovered": 350792
     }
   },
   "Serbia": {
@@ -1512,7 +1512,7 @@
       "confirmed": 384557,
       "date": "2020-12-14",
       "deaths": 6060,
-      "recovered": 291500
+      "recovered": 308300
     }
   },
   "Tunisia": {
