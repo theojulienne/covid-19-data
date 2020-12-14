@@ -563,18 +563,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 186044,
+          "confirmed": 188241,
           "date": "2020-12-14",
-          "deaths": 3400,
-          "recovered": 134003
+          "deaths": 3425,
+          "recovered": 136052
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 257139,
+          "confirmed": 259793,
           "date": "2020-12-14",
-          "deaths": 4848,
-          "recovered": 191165
+          "deaths": 4895,
+          "recovered": 193749
         }
       },
       "Berlin": {
@@ -582,46 +582,46 @@
           "confirmed": 78798,
           "date": "2020-12-14",
           "deaths": 821,
-          "recovered": 58284
+          "recovered": 59421
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 107361,
+          "confirmed": 108316,
           "date": "2020-12-14",
-          "deaths": 1749,
-          "recovered": 77837
+          "deaths": 1755,
+          "recovered": 79222
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 85460,
+          "confirmed": 85729,
           "date": "2020-12-14",
-          "deaths": 1420,
-          "recovered": 70244
+          "deaths": 1427,
+          "recovered": 71241
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 314937,
+          "confirmed": 317966,
           "date": "2020-12-14",
-          "deaths": 4455,
-          "recovered": 242720
+          "deaths": 4489,
+          "recovered": 246364
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 56319,
+          "confirmed": 56345,
           "date": "2020-12-14",
           "deaths": 855,
-          "recovered": 37908
+          "recovered": 38120
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 84245,
+          "confirmed": 86807,
           "date": "2020-12-14",
-          "deaths": 1652,
+          "deaths": 1702,
           "recovered": 52000
         }
       }
@@ -1211,26 +1211,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 52092,
+          "confirmed": 52449,
           "date": "2020-12-14",
-          "deaths": 1463,
-          "recovered": 45866
+          "deaths": 1473,
+          "recovered": 46266
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 127212,
+          "confirmed": 127541,
           "date": "2020-12-14",
-          "deaths": 3351,
-          "recovered": 114910
+          "deaths": 3365,
+          "recovered": 114998
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 194359,
+          "confirmed": 195702,
           "date": "2020-12-14",
-          "deaths": 3149,
-          "recovered": 166492
+          "deaths": 3158,
+          "recovered": 167343
         }
       }
     }
@@ -1543,7 +1543,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1124304,
+          "confirmed": 1126718,
           "date": "2020-12-14",
           "deaths": 15613,
           "recovered": 0
