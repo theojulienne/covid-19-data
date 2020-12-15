@@ -1543,9 +1543,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1144874,
+          "confirmed": 1146605,
           "date": "2020-12-15",
-          "deaths": 15693,
+          "deaths": 15715,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 635337,
+          "confirmed": 640263,
           "date": "2020-12-15",
-          "deaths": 9887,
+          "deaths": 9902,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 142937,
+          "confirmed": 144834,
           "date": "2020-12-15",
-          "deaths": 2002,
+          "deaths": 2037,
           "recovered": 0
         }
       },
@@ -1649,7 +1649,7 @@
         "live": {
           "confirmed": 535829,
           "date": "2020-12-15",
-          "deaths": 26026,
+          "deaths": 29273,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 127264,
+          "confirmed": 128934,
           "date": "2020-12-15",
-          "deaths": 1518,
+          "deaths": 1524,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 81779,
+          "confirmed": 83113,
           "date": "2020-12-15",
-          "deaths": 2135,
+          "deaths": 2141,
           "recovered": 0
         }
       },
