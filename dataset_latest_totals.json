@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 87930,
+        "confirmed": 88111,
         "deaths": 341,
-        "recovered": 86030
+        "recovered": 86215
       },
       "back_2week": {
-        "confirmed": 86787,
+        "confirmed": 86956,
         "deaths": 341,
-        "recovered": 84977
+        "recovered": 85141
       },
       "latest": {
-        "confirmed": 89143,
+        "confirmed": 89268,
         "deaths": 348,
-        "recovered": 87182
+        "recovered": 87332
       }
     },
     "BHS": {

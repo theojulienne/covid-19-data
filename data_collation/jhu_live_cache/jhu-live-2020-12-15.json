@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 89268,
+      "confirmed": 89444,
       "date": "2020-12-15",
       "deaths": 348,
-      "recovered": 87332
+      "recovered": 87490
     }
   },
   "Bangladesh": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 147379,
+          "confirmed": 148231,
           "date": "2020-12-15",
-          "deaths": 4015,
-          "recovered": 128656
+          "deaths": 4017,
+          "recovered": 128811
         }
       },
       "Quebec": {
@@ -1253,14 +1253,6 @@
   },
   "Peru": {
     "subseries": {
-      "Arequipa": {
-        "live": {
-          "confirmed": 47179,
-          "date": "2020-12-15",
-          "deaths": 1570,
-          "recovered": 0
-        }
-      },
       "Lima": {
         "live": {
           "confirmed": 438143,
@@ -1545,7 +1537,7 @@
         "live": {
           "confirmed": 1154291,
           "date": "2020-12-15",
-          "deaths": 15715,
+          "deaths": 15757,
           "recovered": 0
         }
       },
@@ -1553,7 +1545,7 @@
         "live": {
           "confirmed": 48308,
           "date": "2020-12-15",
-          "deaths": 1602,
+          "deaths": 1607,
           "recovered": 0
         }
       },
@@ -1567,9 +1559,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 47182,
+          "confirmed": 95629,
           "date": "2020-12-15",
-          "deaths": 752,
+          "deaths": 1317,
           "recovered": 0
         }
       },
@@ -1607,9 +1599,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 131948,
+          "confirmed": 133627,
           "date": "2020-12-15",
-          "deaths": 4904,
+          "deaths": 4941,
           "recovered": 0
         }
       },
@@ -1649,7 +1641,7 @@
         "live": {
           "confirmed": 542155,
           "date": "2020-12-15",
-          "deaths": 29295,
+          "deaths": 29320,
           "recovered": 0
         }
       },
@@ -1703,7 +1695,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152379,
+          "confirmed": 153368,
           "date": "2020-12-15",
           "deaths": 658,
           "recovered": 0
