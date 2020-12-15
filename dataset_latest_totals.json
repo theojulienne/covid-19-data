@@ -1804,19 +1804,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 344906,
+        "confirmed": 346797,
         "deaths": 2917,
-        "recovered": 329368
+        "recovered": 330188
       },
       "back_2week": {
-        "confirmed": 335933,
+        "confirmed": 337191,
         "deaths": 2864,
-        "recovered": 322929
+        "recovered": 323681
       },
       "latest": {
-        "confirmed": 357176,
+        "confirmed": 359506,
         "deaths": 2999,
-        "recovered": 337186
+        "recovered": 338418
       }
     },
     "ITA": {
@@ -1928,12 +1928,12 @@
         "recovered": 67400
       },
       "back_2week": {
-        "confirmed": 72807,
-        "deaths": 1271,
-        "recovered": 64149
+        "confirmed": 73178,
+        "deaths": 1275,
+        "recovered": 64711
       },
       "latest": {
-        "confirmed": 77356,
+        "confirmed": 77674,
         "deaths": 1312,
         "recovered": 70450
       }
@@ -3766,14 +3766,14 @@
         "recovered": 71315
       },
       "back_2week": {
-        "confirmed": 72870,
+        "confirmed": 73094,
         "deaths": 608,
-        "recovered": 70151
+        "recovered": 70337
       },
       "latest": {
-        "confirmed": 74956,
+        "confirmed": 75094,
         "deaths": 612,
-        "recovered": 72243
+        "recovered": 72368
       }
     },
     "VAT": {
