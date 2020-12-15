@@ -661,10 +661,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 283870,
+      "confirmed": 285763,
       "date": "2020-12-15",
-      "deaths": 7130,
-      "recovered": 82546
+      "deaths": 7237,
+      "recovered": 83115
     }
   },
   "India": {
@@ -1049,10 +1049,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 95021,
+      "confirmed": 96452,
       "date": "2020-12-15",
-      "deaths": 825,
-      "recovered": 38957
+      "deaths": 863,
+      "recovered": 41665
     }
   },
   "Malaysia": {
@@ -1265,10 +1265,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 450733,
+      "confirmed": 451839,
       "date": "2020-12-15",
-      "deaths": 8757,
-      "recovered": 418723
+      "deaths": 8812,
+      "recovered": 418867
     }
   },
   "Poland": {
@@ -1365,7 +1365,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58325,
+      "confirmed": 58341,
       "date": "2020-12-15",
       "deaths": 29,
       "recovered": 58210
@@ -1537,7 +1537,7 @@
         "live": {
           "confirmed": 1144874,
           "date": "2020-12-15",
-          "deaths": 15693,
+          "deaths": 15696,
           "recovered": 0
         }
       },
