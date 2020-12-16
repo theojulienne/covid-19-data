@@ -433,48 +433,48 @@
         "live": {
           "confirmed": 233104,
           "date": "2020-12-16",
-          "deaths": 4348,
-          "recovered": 215702
+          "deaths": 4368,
+          "recovered": 216853
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 83382,
           "date": "2020-12-16",
-          "deaths": 3277,
-          "recovered": 77325
+          "deaths": 3281,
+          "recovered": 77895
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 411689,
           "date": "2020-12-16",
-          "deaths": 8944,
-          "recovered": 374434
+          "deaths": 8973,
+          "recovered": 375519
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 58155,
           "date": "2020-12-16",
-          "deaths": 1517,
-          "recovered": 53261
+          "deaths": 1525,
+          "recovered": 53723
         }
       },
       "Santander": {
         "live": {
           "confirmed": 58937,
           "date": "2020-12-16",
-          "deaths": 2149,
-          "recovered": 52865
+          "deaths": 2167,
+          "recovered": 53245
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 121146,
           "date": "2020-12-16",
-          "deaths": 3827,
-          "recovered": 110311
+          "deaths": 3845,
+          "recovered": 110932
         }
       }
     }
@@ -1535,9 +1535,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1155390,
+          "confirmed": 1166429,
           "date": "2020-12-16",
-          "deaths": 15782,
+          "deaths": 15868,
           "recovered": 0
         }
       },
@@ -1687,7 +1687,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 729270,
+          "confirmed": 732842,
           "date": "2020-12-16",
           "deaths": 11207,
           "recovered": 0

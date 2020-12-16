@@ -1309,17 +1309,17 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2290891,
+        "confirmed": 2292838,
         "deaths": 54804,
         "recovered": 146558
       },
       "back_2week": {
-        "confirmed": 2217555,
+        "confirmed": 2219502,
         "deaths": 51977,
         "recovered": 138956
       },
       "latest": {
-        "confirmed": 2374152,
+        "confirmed": 2376228,
         "deaths": 57554,
         "recovered": 153659
       },
@@ -1335,13 +1335,13 @@
           "recovered": 4842
         },
         "Guadeloupe": {
-          "confirmed": 8472,
-          "deaths": 151,
+          "confirmed": 8451,
+          "deaths": 152,
           "recovered": 2242
         },
         "Martinique": {
-          "confirmed": 5575,
-          "deaths": 42,
+          "confirmed": 5553,
+          "deaths": 41,
           "recovered": 98
         },
         "Mayotte": {
@@ -1355,7 +1355,7 @@
           "recovered": 32
         },
         "Reunion": {
-          "confirmed": 8431,
+          "confirmed": 8345,
           "deaths": 41,
           "recovered": 8037
         },
