@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 149610,
+          "confirmed": 149629,
           "date": "2020-12-16",
-          "deaths": 4031,
-          "recovered": 130089
+          "deaths": 4050,
+          "recovered": 130656
         }
       },
       "Quebec": {
@@ -1041,7 +1041,7 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 149933,
+      "confirmed": 150933,
       "date": "2020-12-16",
       "deaths": 1234,
       "recovered": 104207
@@ -1381,10 +1381,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 873679,
+      "confirmed": 883687,
       "date": "2020-12-16",
-      "deaths": 23661,
-      "recovered": 764977
+      "deaths": 23827,
+      "recovered": 774585
     }
   },
   "Spain": {
@@ -1527,7 +1527,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1173121,
+          "confirmed": 1193569,
           "date": "2020-12-16",
           "deaths": 15981,
           "recovered": 0
@@ -1543,9 +1543,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 640263,
+          "confirmed": 646525,
           "date": "2020-12-16",
-          "deaths": 9902,
+          "deaths": 9957,
           "recovered": 0
         }
       },
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 95629,
           "date": "2020-12-16",
-          "deaths": 1317,
+          "deaths": 1322,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 133627,
+          "confirmed": 134674,
           "date": "2020-12-16",
-          "deaths": 4941,
+          "deaths": 4960,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 108536,
+          "confirmed": 110566,
           "date": "2020-12-16",
-          "deaths": 1237,
+          "deaths": 1242,
           "recovered": 0
         }
       },
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 153368,
           "date": "2020-12-16",
-          "deaths": 658,
+          "deaths": 673,
           "recovered": 0
         }
       },
@@ -1711,9 +1711,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 84196,
+          "confirmed": 84661,
           "date": "2020-12-16",
-          "deaths": 833,
+          "deaths": 848,
           "recovered": 0
         }
       }
