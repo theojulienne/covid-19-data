@@ -563,7 +563,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 193705,
+          "confirmed": 193712,
           "date": "2020-12-16",
           "deaths": 3628,
           "recovered": 141501
@@ -571,7 +571,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 263523,
+          "confirmed": 267838,
           "date": "2020-12-16",
           "deaths": 5163,
           "recovered": 201408
@@ -579,7 +579,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 80935,
+          "confirmed": 80936,
           "date": "2020-12-16",
           "deaths": 899,
           "recovered": 61914
@@ -587,7 +587,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 109734,
+          "confirmed": 111433,
           "date": "2020-12-16",
           "deaths": 1906,
           "recovered": 82877
@@ -595,7 +595,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 86906,
+          "confirmed": 87268,
           "date": "2020-12-16",
           "deaths": 1482,
           "recovered": 73428
@@ -603,7 +603,7 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 322051,
+          "confirmed": 326681,
           "date": "2020-12-16",
           "deaths": 4786,
           "recovered": 255063
@@ -611,7 +611,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 58259,
+          "confirmed": 58279,
           "date": "2020-12-16",
           "deaths": 936,
           "recovered": 39819
@@ -619,7 +619,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 92358,
+          "confirmed": 92409,
           "date": "2020-12-16",
           "deaths": 1855,
           "recovered": 56000
@@ -1001,7 +1001,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 187709,
+      "confirmed": 187890,
       "date": "2020-12-16",
       "deaths": 2613,
       "recovered": 159985
@@ -1033,10 +1033,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 77910,
+      "confirmed": 78151,
       "date": "2020-12-16",
-      "deaths": 1316,
-      "recovered": 70867
+      "deaths": 1317,
+      "recovered": 71270
     }
   },
   "Lebanon": {
