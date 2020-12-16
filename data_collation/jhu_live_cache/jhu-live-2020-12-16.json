@@ -141,10 +141,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 102330,
+      "confirmed": 103232,
       "date": "2020-12-16",
-      "deaths": 3457,
-      "recovered": 67649
+      "deaths": 3511,
+      "recovered": 68245
     }
   },
   "Brazil": {
@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 116087,
+      "confirmed": 119779,
       "date": "2020-12-16",
-      "deaths": 961,
-      "recovered": 82099
+      "deaths": 975,
+      "recovered": 83801
     }
   },
   "Dominican Republic": {
@@ -573,7 +573,7 @@
         "live": {
           "confirmed": 267838,
           "date": "2020-12-16",
-          "deaths": 5163,
+          "deaths": 5173,
           "recovered": 201408
         }
       },
@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 577363,
+      "confirmed": 578916,
       "date": "2020-12-16",
-      "deaths": 12614,
-      "recovered": 511639
+      "deaths": 12636,
+      "recovered": 513405
     }
   },
   "Ireland": {
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 48717,
           "date": "2020-12-16",
-          "deaths": 522,
+          "deaths": 532,
           "recovered": 42621
         }
       }
@@ -1025,10 +1025,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 146710,
+      "confirmed": 146971,
       "date": "2020-12-16",
       "deaths": 913,
-      "recovered": 142599
+      "recovered": 142909
     }
   },
   "Kyrgyzstan": {
@@ -1349,10 +1349,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 360155,
+      "confirmed": 360335,
       "date": "2020-12-16",
-      "deaths": 6069,
-      "recovered": 350993
+      "deaths": 6080,
+      "recovered": 351192
     }
   },
   "Serbia": {
@@ -1483,17 +1483,17 @@
     "subseries": {
       "Stockholm": {
         "live": {
-          "confirmed": 98479,
+          "confirmed": 100515,
           "date": "2020-12-16",
-          "deaths": 2979,
+          "deaths": 2983,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 55373,
+          "confirmed": 55995,
           "date": "2020-12-16",
-          "deaths": 1085,
+          "deaths": 1120,
           "recovered": 0
         }
       }
