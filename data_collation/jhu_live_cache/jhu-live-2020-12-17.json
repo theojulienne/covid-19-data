@@ -369,10 +369,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 111900,
+      "confirmed": 113082,
       "date": "2020-12-17",
-      "deaths": 2346,
-      "recovered": 90453
+      "deaths": 2377,
+      "recovered": 91537
     }
   },
   "Canada": {
@@ -1009,18 +1009,18 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 92853,
+      "confirmed": 93405,
       "date": "2020-12-17",
-      "deaths": 1614,
-      "recovered": 74403
+      "deaths": 1618,
+      "recovered": 74999
     }
   },
   "Kuwait": {
     "live": {
-      "confirmed": 146971,
+      "confirmed": 147192,
       "date": "2020-12-17",
       "deaths": 913,
-      "recovered": 142909
+      "recovered": 143113
     }
   },
   "Kyrgyzstan": {
@@ -1495,7 +1495,7 @@
     "live": {
       "confirmed": 399511,
       "date": "2020-12-17",
-      "deaths": 6409,
+      "deaths": 6447,
       "recovered": 311500
     }
   },
@@ -1833,10 +1833,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 115606,
+      "confirmed": 117755,
       "date": "2020-12-17",
-      "deaths": 1048,
-      "recovered": 90952
+      "deaths": 1078,
+      "recovered": 92979
     }
   }
 }
