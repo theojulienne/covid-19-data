@@ -154,7 +154,7 @@
           "confirmed": 100011,
           "date": "2020-12-17",
           "deaths": 2389,
-          "recovered": 95317
+          "recovered": 95645
         }
       },
       "Amapa": {
@@ -178,7 +178,7 @@
           "confirmed": 456106,
           "date": "2020-12-17",
           "deaths": 8691,
-          "recovered": 435556
+          "recovered": 439587
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 320385,
           "date": "2020-12-17",
           "deaths": 9857,
-          "recovered": 259388
+          "recovered": 260282
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 241400,
           "date": "2020-12-17",
           "deaths": 4107,
-          "recovered": 230225
+          "recovered": 231071
         }
       },
       "Espirito Santo": {
@@ -202,7 +202,7 @@
           "confirmed": 220540,
           "date": "2020-12-17",
           "deaths": 4661,
-          "recovered": 199651
+          "recovered": 205077
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 296836,
           "date": "2020-12-17",
           "deaths": 6586,
-          "recovered": 285212
+          "recovered": 288135
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 116612,
           "date": "2020-12-17",
           "deaths": 1978,
-          "recovered": 99658
+          "recovered": 101178
         }
       },
       "Minas Gerais": {
@@ -242,7 +242,7 @@
           "confirmed": 477697,
           "date": "2020-12-17",
           "deaths": 10855,
-          "recovered": 432622
+          "recovered": 437636
         }
       },
       "Para": {
@@ -250,7 +250,7 @@
           "confirmed": 282719,
           "date": "2020-12-17",
           "deaths": 7018,
-          "recovered": 263211
+          "recovered": 265189
         }
       },
       "Paraiba": {
@@ -258,7 +258,7 @@
           "confirmed": 156122,
           "date": "2020-12-17",
           "deaths": 3487,
-          "recovered": 121400
+          "recovered": 122219
         }
       },
       "Parana": {
@@ -266,7 +266,7 @@
           "confirmed": 359892,
           "date": "2020-12-17",
           "deaths": 7117,
-          "recovered": 235668
+          "recovered": 239920
         }
       },
       "Pernambuco": {
@@ -298,7 +298,7 @@
           "confirmed": 388704,
           "date": "2020-12-17",
           "deaths": 7862,
-          "recovered": 362214
+          "recovered": 367054
         }
       },
       "Rio de Janeiro": {
@@ -306,7 +306,7 @@
           "confirmed": 395386,
           "date": "2020-12-17",
           "deaths": 24109,
-          "recovered": 364580
+          "recovered": 367923
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 87397,
           "date": "2020-12-17",
           "deaths": 1668,
-          "recovered": 74917
+          "recovered": 76113
         }
       },
       "Roraima": {
@@ -354,7 +354,7 @@
           "confirmed": 86180,
           "date": "2020-12-17",
           "deaths": 1208,
-          "recovered": 77170
+          "recovered": 77798
         }
       }
     }
@@ -389,8 +389,8 @@
         "live": {
           "confirmed": 151758,
           "date": "2020-12-17",
-          "deaths": 4066,
-          "recovered": 131750
+          "deaths": 4081,
+          "recovered": 132667
         }
       },
       "Quebec": {
@@ -529,10 +529,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 123153,
+      "confirmed": 123701,
       "date": "2020-12-17",
-      "deaths": 6990,
-      "recovered": 105719
+      "deaths": 7015,
+      "recovered": 105919
     }
   },
   "Ethiopia": {
@@ -1501,9 +1501,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 114547,
+      "confirmed": 115966,
       "date": "2020-12-17",
-      "deaths": 3997,
+      "deaths": 4032,
       "recovered": 87884
     }
   },
@@ -1529,13 +1529,13 @@
         "live": {
           "confirmed": 1284501,
           "date": "2020-12-17",
-          "deaths": 16818,
+          "deaths": 16836,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 49422,
+          "confirmed": 50036,
           "date": "2020-12-17",
           "deaths": 1619,
           "recovered": 0
@@ -1583,9 +1583,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 61640,
+          "confirmed": 111490,
           "date": "2020-12-17",
-          "deaths": 2551,
+          "deaths": 4128,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 745323,
+          "confirmed": 698319,
           "date": "2020-12-17",
-          "deaths": 11302,
+          "deaths": 9157,
           "recovered": 0
         }
       },
