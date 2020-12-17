@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 147716,
+      "confirmed": 148214,
       "date": "2020-12-17",
-      "deaths": 9026,
-      "recovered": 126720
+      "deaths": 9029,
+      "recovered": 126950
     }
   },
   "Bosnia and Herzegovina": {
@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 187890,
+      "confirmed": 188678,
       "date": "2020-12-17",
       "deaths": 2613,
-      "recovered": 159985
+      "recovered": 160731
     }
   },
   "Kenya": {
@@ -1067,33 +1067,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 269226,
+          "confirmed": 273444,
           "date": "2020-12-17",
-          "deaths": 14837,
+          "deaths": 14969,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 73257,
+          "confirmed": 73815,
           "date": "2020-12-17",
-          "deaths": 4611,
+          "deaths": 4650,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 127301,
+          "confirmed": 128747,
           "date": "2020-12-17",
-          "deaths": 16972,
+          "deaths": 17095,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 74572,
+          "confirmed": 75069,
           "date": "2020-12-17",
-          "deaths": 4842,
+          "deaths": 4870,
           "recovered": 0
         }
       }
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1215712,
+          "confirmed": 1218519,
           "date": "2020-12-17",
-          "deaths": 16180,
+          "deaths": 16203,
           "recovered": 0
         }
       },
@@ -1817,10 +1817,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 108480,
+      "confirmed": 108717,
       "date": "2020-12-17",
-      "deaths": 965,
-      "recovered": 103271
+      "deaths": 970,
+      "recovered": 103492
     }
   },
   "West Bank and Gaza": {
