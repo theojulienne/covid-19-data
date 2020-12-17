@@ -398,7 +398,7 @@
           "confirmed": 169173,
           "date": "2020-12-17",
           "deaths": 7613,
-          "recovered": 142894
+          "recovered": 144168
         }
       }
     }
@@ -481,10 +481,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 154096,
+      "confirmed": 155263,
       "date": "2020-12-17",
-      "deaths": 1956,
-      "recovered": 121031
+      "deaths": 1967,
+      "recovered": 122947
     }
   },
   "Croatia": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1194487,
+          "confirmed": 1215712,
           "date": "2020-12-17",
-          "deaths": 16050,
+          "deaths": 16180,
           "recovered": 0
         }
       },
@@ -1607,7 +1607,7 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 47761,
+          "confirmed": 48112,
           "date": "2020-12-17",
           "deaths": 454,
           "recovered": 0
