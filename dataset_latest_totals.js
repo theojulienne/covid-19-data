@@ -2,19 +2,19 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 47716,
-        "deaths": 1906,
-        "recovered": 37920
+        "confirmed": 47851,
+        "deaths": 1919,
+        "recovered": 38032
       },
       "back_2week": {
-        "confirmed": 46516,
-        "deaths": 1822,
-        "recovered": 36946
+        "confirmed": 46718,
+        "deaths": 1841,
+        "recovered": 37218
       },
       "latest": {
-        "confirmed": 48952,
-        "deaths": 1995,
-        "recovered": 38336
+        "confirmed": 49161,
+        "deaths": 2011,
+        "recovered": 38475
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 142928,
-        "deaths": 2372,
-        "recovered": 119147
+        "confirmed": 144066,
+        "deaths": 2393,
+        "recovered": 120532
       },
       "back_2week": {
-        "confirmed": 135967,
-        "deaths": 2193,
-        "recovered": 110365
+        "confirmed": 137231,
+        "deaths": 2228,
+        "recovered": 111795
       },
       "latest": {
-        "confirmed": 149120,
-        "deaths": 2529,
-        "recovered": 127452
+        "confirmed": 150218,
+        "deaths": 2556,
+        "recovered": 128694
       }
     },
     "ATG": {
@@ -1042,19 +1042,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 551070,
-        "deaths": 9036,
-        "recovered": 484781
+        "confirmed": 556927,
+        "deaths": 9136,
+        "recovered": 489759
       },
       "back_2week": {
-        "confirmed": 528474,
-        "deaths": 8407,
-        "recovered": 455177
+        "confirmed": 533042,
+        "deaths": 8515,
+        "recovered": 461599
       },
       "latest": {
-        "confirmed": 586251,
-        "deaths": 9743,
-        "recovered": 511798
+        "confirmed": 594148,
+        "deaths": 9882,
+        "recovered": 518423
       }
     },
     "DEU": {
