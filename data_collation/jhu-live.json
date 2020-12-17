@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 49365,
+      "confirmed": 49378,
       "date": "2020-12-17",
-      "deaths": 2024,
+      "deaths": 2025,
       "recovered": 38505
     }
   },
@@ -553,10 +553,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 198387,
+      "confirmed": 201368,
       "date": "2020-12-17",
-      "deaths": 1922,
-      "recovered": 167281
+      "deaths": 1953,
+      "recovered": 169282
     }
   },
   "Germany": {
@@ -661,10 +661,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 288567,
+      "confirmed": 291549,
       "date": "2020-12-17",
-      "deaths": 7381,
-      "recovered": 83940
+      "deaths": 7538,
+      "recovered": 86954
     }
   },
   "India": {
@@ -1049,10 +1049,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 99869,
+      "confirmed": 103028,
       "date": "2020-12-17",
-      "deaths": 907,
-      "recovered": 43379
+      "deaths": 933,
+      "recovered": 45113
     }
   },
   "Malaysia": {
@@ -1249,10 +1249,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 452988,
+      "confirmed": 454447,
       "date": "2020-12-17",
-      "deaths": 8833,
-      "recovered": 419282
+      "deaths": 8850,
+      "recovered": 419902
     }
   },
   "Poland": {
@@ -1291,42 +1291,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 708530,
+          "confirmed": 715241,
           "date": "2020-12-17",
-          "deaths": 10095,
-          "recovered": 545430
+          "deaths": 10171,
+          "recovered": 551207
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 132174,
+          "confirmed": 133645,
           "date": "2020-12-17",
-          "deaths": 2576,
-          "recovered": 93269
+          "deaths": 2611,
+          "recovered": 94369
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 62303,
+          "confirmed": 62799,
           "date": "2020-12-17",
-          "deaths": 1407,
-          "recovered": 55570
+          "deaths": 1424,
+          "recovered": 56008
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 185780,
+          "confirmed": 189543,
           "date": "2020-12-17",
-          "deaths": 6529,
-          "recovered": 105665
+          "deaths": 6608,
+          "recovered": 108731
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 52536,
+          "confirmed": 52933,
           "date": "2020-12-17",
-          "deaths": 1264,
-          "recovered": 44817
+          "deaths": 1279,
+          "recovered": 45222
         }
       }
     }
@@ -1349,7 +1349,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58353,
+      "confirmed": 58377,
       "date": "2020-12-17",
       "deaths": 29,
       "recovered": 58238
