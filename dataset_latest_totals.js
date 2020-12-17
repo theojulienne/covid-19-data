@@ -1923,14 +1923,14 @@ var covid19_dataset_latest_totals = {
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 75690,
-        "deaths": 1301,
-        "recovered": 67873
+        "confirmed": 76012,
+        "deaths": 1306,
+        "recovered": 68894
       },
       "back_2week": {
-        "confirmed": 73178,
-        "deaths": 1275,
-        "recovered": 64711
+        "confirmed": 73513,
+        "deaths": 1277,
+        "recovered": 65189
       },
       "latest": {
         "confirmed": 78151,
