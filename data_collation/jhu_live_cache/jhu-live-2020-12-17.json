@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 119779,
+      "confirmed": 123813,
       "date": "2020-12-17",
-      "deaths": 975,
-      "recovered": 83801
+      "deaths": 992,
+      "recovered": 85662
     }
   },
   "Dominican Republic": {
@@ -571,9 +571,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 272883,
+          "confirmed": 273339,
           "date": "2020-12-17",
-          "deaths": 5309,
+          "deaths": 5324,
           "recovered": 205799
         }
       },
@@ -595,9 +595,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 88898,
+          "confirmed": 90127,
           "date": "2020-12-17",
-          "deaths": 1523,
+          "deaths": 1560,
           "recovered": 74650
         }
       },
@@ -1333,10 +1333,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 360335,
+      "confirmed": 360516,
       "date": "2020-12-17",
-      "deaths": 6080,
-      "recovered": 351192
+      "deaths": 6091,
+      "recovered": 351365
     }
   },
   "Serbia": {
@@ -1465,17 +1465,25 @@
   },
   "Sweden": {
     "subseries": {
+      "Skane": {
+        "live": {
+          "confirmed": 48766,
+          "date": "2020-12-17",
+          "deaths": 582,
+          "recovered": 0
+        }
+      },
       "Stockholm": {
         "live": {
-          "confirmed": 100515,
+          "confirmed": 103105,
           "date": "2020-12-17",
-          "deaths": 2983,
+          "deaths": 3038,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 55995,
+          "confirmed": 56682,
           "date": "2020-12-17",
           "deaths": 1120,
           "recovered": 0
@@ -1575,9 +1583,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 109486,
+          "confirmed": 61640,
           "date": "2020-12-17",
-          "deaths": 4111,
+          "deaths": 2551,
           "recovered": 0
         }
       },
