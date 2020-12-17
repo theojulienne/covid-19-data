@@ -571,47 +571,47 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 268117,
+          "confirmed": 272883,
           "date": "2020-12-17",
-          "deaths": 5173,
+          "deaths": 5309,
           "recovered": 205799
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 82218,
+          "confirmed": 82253,
           "date": "2020-12-17",
-          "deaths": 928,
+          "deaths": 929,
           "recovered": 63184
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 111433,
+          "confirmed": 113998,
           "date": "2020-12-17",
-          "deaths": 1906,
+          "deaths": 1964,
           "recovered": 84901
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 88153,
+          "confirmed": 88898,
           "date": "2020-12-17",
-          "deaths": 1511,
+          "deaths": 1523,
           "recovered": 74650
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 326681,
+          "confirmed": 332684,
           "date": "2020-12-17",
-          "deaths": 4786,
+          "deaths": 4927,
           "recovered": 260253
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 59628,
+          "confirmed": 59649,
           "date": "2020-12-17",
           "deaths": 979,
           "recovered": 40756
@@ -619,9 +619,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 95512,
+          "confirmed": 95616,
           "date": "2020-12-17",
-          "deaths": 1919,
+          "deaths": 1923,
           "recovered": 60400
         }
       }
@@ -653,10 +653,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 114943,
+      "confirmed": 115317,
       "date": "2020-12-17",
-      "deaths": 3001,
-      "recovered": 52392
+      "deaths": 3013,
+      "recovered": 52945
     }
   },
   "Hungary": {
@@ -1195,7 +1195,7 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 53253,
+          "confirmed": 53609,
           "date": "2020-12-17",
           "deaths": 1502,
           "recovered": 47272
@@ -1203,7 +1203,7 @@
       },
       "Punjab": {
         "live": {
-          "confirmed": 128673,
+          "confirmed": 129291,
           "date": "2020-12-17",
           "deaths": 3491,
           "recovered": 115595
@@ -1211,7 +1211,7 @@
       },
       "Sindh": {
         "live": {
-          "confirmed": 198482,
+          "confirmed": 199706,
           "date": "2020-12-17",
           "deaths": 3237,
           "recovered": 176337
