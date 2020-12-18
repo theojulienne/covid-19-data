@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 191460,
+      "confirmed": 195422,
       "date": "2020-12-18",
-      "deaths": 2088,
-      "recovered": 127064
+      "deaths": 2133,
+      "recovered": 131252
     }
   },
   "Bahrain": {
@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 123813,
+      "confirmed": 128321,
       "date": "2020-12-18",
-      "deaths": 992,
-      "recovered": 85662
+      "deaths": 1007,
+      "recovered": 87560
     }
   },
   "Dominican Republic": {
@@ -873,10 +873,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 580449,
+      "confirmed": 581811,
       "date": "2020-12-18",
-      "deaths": 12650,
-      "recovered": 515321
+      "deaths": 12670,
+      "recovered": 517091
     }
   },
   "Ireland": {
@@ -985,7 +985,7 @@
         "live": {
           "confirmed": 50203,
           "date": "2020-12-18",
-          "deaths": 532,
+          "deaths": 536,
           "recovered": 43583
         }
       }
@@ -1333,10 +1333,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 360516,
+      "confirmed": 360690,
       "date": "2020-12-18",
-      "deaths": 6091,
-      "recovered": 351365
+      "deaths": 6101,
+      "recovered": 351573
     }
   },
   "Serbia": {
@@ -1469,7 +1469,7 @@
         "live": {
           "confirmed": 48766,
           "date": "2020-12-18",
-          "deaths": 582,
+          "deaths": 584,
           "recovered": 0
         }
       },
@@ -1477,7 +1477,7 @@
         "live": {
           "confirmed": 103105,
           "date": "2020-12-18",
-          "deaths": 3038,
+          "deaths": 3064,
           "recovered": 0
         }
       },
@@ -1485,7 +1485,7 @@
         "live": {
           "confirmed": 56682,
           "date": "2020-12-18",
-          "deaths": 1120,
+          "deaths": 1143,
           "recovered": 0
         }
       }
@@ -1607,9 +1607,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 62531,
+          "confirmed": 63160,
           "date": "2020-12-18",
-          "deaths": 1215,
+          "deaths": 1223,
           "recovered": 0
         }
       },
