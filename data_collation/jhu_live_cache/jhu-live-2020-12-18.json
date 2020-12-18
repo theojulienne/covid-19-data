@@ -133,10 +133,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 148214,
+      "confirmed": 148665,
       "date": "2020-12-18",
-      "deaths": 9029,
-      "recovered": 126950
+      "deaths": 9031,
+      "recovered": 127155
     }
   },
   "Bosnia and Herzegovina": {
@@ -398,7 +398,7 @@
           "confirmed": 171028,
           "date": "2020-12-18",
           "deaths": 7635,
-          "recovered": 144168
+          "recovered": 145532
         }
       }
     }
@@ -1001,10 +1001,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 188837,
+      "confirmed": 189527,
       "date": "2020-12-18",
       "deaths": 2613,
-      "recovered": 160889
+      "recovered": 161450
     }
   },
   "Kenya": {
@@ -1195,36 +1195,36 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 53609,
+          "confirmed": 54021,
           "date": "2020-12-18",
-          "deaths": 1502,
-          "recovered": 47272
+          "deaths": 1511,
+          "recovered": 48254
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 129291,
+          "confirmed": 130122,
           "date": "2020-12-18",
-          "deaths": 3491,
-          "recovered": 115595
+          "deaths": 3522,
+          "recovered": 115701
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 199706,
+          "confirmed": 201080,
           "date": "2020-12-18",
-          "deaths": 3237,
-          "recovered": 176337
+          "deaths": 3270,
+          "recovered": 178027
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 199947,
+      "confirmed": 203295,
       "date": "2020-12-18",
-      "deaths": 3439,
-      "recovered": 166600
+      "deaths": 3481,
+      "recovered": 168238
     }
   },
   "Paraguay": {
@@ -1679,7 +1679,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 699813,
+          "confirmed": 701419,
           "date": "2020-12-18",
           "deaths": 9157,
           "recovered": 0
