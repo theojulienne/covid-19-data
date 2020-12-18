@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 332828,
+      "confirmed": 334913,
       "date": "2020-12-18",
-      "deaths": 4982,
-      "recovered": 294315
+      "deaths": 5127,
+      "recovered": 297424
     }
   },
   "Azerbaijan": {
@@ -1041,10 +1041,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 93283,
+      "confirmed": 93772,
       "date": "2020-12-18",
-      "deaths": 1337,
-      "recovered": 63231
+      "deaths": 1346,
+      "recovered": 63886
     }
   },
   "Lithuania": {
@@ -1257,9 +1257,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1171854,
+      "confirmed": 1182864,
       "date": "2020-12-18",
-      "deaths": 24345,
+      "deaths": 24771,
       "recovered": 915576
     }
   },
