@@ -983,7 +983,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 49539,
+          "confirmed": 49540,
           "date": "2020-12-18",
           "deaths": 532,
           "recovered": 43041
@@ -1025,10 +1025,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 78415,
+      "confirmed": 78679,
       "date": "2020-12-18",
-      "deaths": 1321,
-      "recovered": 71656
+      "deaths": 1324,
+      "recovered": 72051
     }
   },
   "Lebanon": {
@@ -1527,9 +1527,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1301093,
+          "confirmed": 1304410,
           "date": "2020-12-18",
-          "deaths": 16950,
+          "deaths": 16998,
           "recovered": 0
         }
       },
@@ -1809,10 +1809,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 75538,
+      "confirmed": 75675,
       "date": "2020-12-18",
       "deaths": 612,
-      "recovered": 72810
+      "recovered": 72961
     }
   },
   "Venezuela": {
