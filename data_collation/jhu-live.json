@@ -555,17 +555,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 214454,
+          "confirmed": 214466,
           "date": "2020-12-22",
-          "deaths": 4100,
+          "deaths": 4101,
           "recovered": 156602
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 290018,
+          "confirmed": 292735,
           "date": "2020-12-22",
-          "deaths": 5694,
+          "deaths": 5802,
           "recovered": 222633
         }
       },
@@ -579,31 +579,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 121962,
+          "confirmed": 122638,
           "date": "2020-12-22",
-          "deaths": 2147,
+          "deaths": 2200,
           "recovered": 91819
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 95381,
+          "confirmed": 96232,
           "date": "2020-12-22",
-          "deaths": 1657,
+          "deaths": 1684,
           "recovered": 79710
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 352719,
+          "confirmed": 357298,
           "date": "2020-12-22",
-          "deaths": 5245,
+          "deaths": 5425,
           "recovered": 278868
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 64615,
+          "confirmed": 64640,
           "date": "2020-12-22",
           "deaths": 1090,
           "recovered": 44637
@@ -613,7 +613,7 @@
         "live": {
           "confirmed": 109229,
           "date": "2020-12-22",
-          "deaths": 2286,
+          "deaths": 2315,
           "recovered": 70000
         }
       }
@@ -645,10 +645,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 117022,
+      "confirmed": 117190,
       "date": "2020-12-22",
-      "deaths": 3027,
-      "recovered": 54267
+      "deaths": 3034,
+      "recovered": 54304
     }
   },
   "Hungary": {
@@ -1817,10 +1817,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 110075,
+      "confirmed": 110513,
       "date": "2020-12-22",
-      "deaths": 988,
-      "recovered": 104462
+      "deaths": 993,
+      "recovered": 104799
     }
   },
   "West Bank and Gaza": {
