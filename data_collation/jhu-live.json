@@ -390,7 +390,7 @@
           "confirmed": 179093,
           "date": "2020-12-22",
           "deaths": 7766,
-          "recovered": 151044
+          "recovered": 152869
         }
       }
     }
@@ -1679,7 +1679,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 725205,
+          "confirmed": 726488,
           "date": "2020-12-22",
           "deaths": 9523,
           "recovered": 0
@@ -1695,7 +1695,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 57783,
+          "confirmed": 58747,
           "date": "2020-12-22",
           "deaths": 956,
           "recovered": 0
