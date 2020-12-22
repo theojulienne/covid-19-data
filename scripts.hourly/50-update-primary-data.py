@@ -251,12 +251,12 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
         # find the first not
         first_real_index = 0
         for i, val in enumerate(series_data):
-            if val is not None:
+            if val is not None and updated_dataset_dates[i] in original_dates: # keep skipping until we overlap with the main dataset
                 # this is the first real datapoint, so start there
                 first_real_index = i
                 break
         first_new_date = updated_dataset_dates[first_real_index]
-        # we assume here that the overlayed updated dataset starts after the main one
+        # assert here that the overlayed updated dataset starts after the main one
         if first_new_date not in original_dates:
             print('WARNING: attempt to merge a dataset starting outside the original range {} in {} for {} in {}'.format(first_new_date, original_dates, state_code, country_code))
             return original
