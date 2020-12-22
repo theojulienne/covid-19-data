@@ -673,7 +673,8 @@ var covid19_dataset_country_tcd = {
       1818,
       1839,
       1867,
-      1890
+      1890,
+      1902
     ],
     "deaths": [
       0,
@@ -990,6 +991,7 @@ var covid19_dataset_country_tcd = {
       101,
       101,
       101,
+      102,
       102,
       102,
       102,
@@ -1345,7 +1347,8 @@ var covid19_dataset_country_tcd = {
       1626,
       1630,
       1632,
-      1632
+      1632,
+      1633
     ]
   }
 };
