@@ -258,7 +258,7 @@ def merge_dataset(original_dates, original, updated, country_code, state_code):
         first_new_date = updated_dataset_dates[first_real_index]
         # we assume here that the overlayed updated dataset starts after the main one
         if first_new_date not in original_dates:
-            print('WARNING: attempt to merge a dataset starting outside the original range'.format(key))
+            print('WARNING: attempt to merge a dataset starting outside the original range {} in {}'.format(first_new_date, original_dates))
             return original
 
         date_index_in_old = original_dates.index(first_new_date)
