@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 50171,
+      "confirmed": 50190,
       "date": "2020-12-22",
       "deaths": 2096,
       "recovered": 39585
@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 203593,
+      "confirmed": 205877,
       "date": "2020-12-22",
-      "deaths": 2253,
-      "recovered": 142807
+      "deaths": 2294,
+      "recovered": 147199
     }
   },
   "Bahrain": {
@@ -505,10 +505,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 137632,
+      "confirmed": 140175,
       "date": "2020-12-22",
-      "deaths": 1053,
-      "recovered": 93214
+      "deaths": 1070,
+      "recovered": 95933
     }
   },
   "Dominican Republic": {
@@ -865,10 +865,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 585345,
+      "confirmed": 586503,
       "date": "2020-12-22",
-      "deaths": 12710,
-      "recovered": 522637
+      "deaths": 12725,
+      "recovered": 524344
     }
   },
   "Ireland": {
@@ -1333,10 +1333,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 361178,
+      "confirmed": 361359,
       "date": "2020-12-22",
-      "deaths": 6131,
-      "recovered": 352089
+      "deaths": 6139,
+      "recovered": 352249
     }
   },
   "Serbia": {
@@ -1467,25 +1467,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 50836,
+          "confirmed": 56017,
           "date": "2020-12-22",
-          "deaths": 584,
+          "deaths": 618,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 104705,
+          "confirmed": 108953,
           "date": "2020-12-22",
-          "deaths": 3064,
+          "deaths": 3113,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 58876,
+          "confirmed": 63614,
           "date": "2020-12-22",
-          "deaths": 1143,
+          "deaths": 1146,
           "recovered": 0
         }
       }
@@ -1493,9 +1493,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 413991,
+      "confirmed": 418266,
       "date": "2020-12-22",
-      "deaths": 6781,
+      "deaths": 6832,
       "recovered": 311500
     }
   },
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 123945,
+      "confirmed": 125506,
       "date": "2020-12-22",
-      "deaths": 1169,
-      "recovered": 99547
+      "deaths": 1198,
+      "recovered": 101355
     }
   }
 }
