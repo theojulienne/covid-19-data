@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 163329,
+          "confirmed": 163392,
           "date": "2020-12-22",
           "deaths": 4195,
           "recovered": 141863
@@ -521,7 +521,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 206329,
+      "confirmed": 206364,
       "date": "2020-12-22",
       "deaths": 13949,
       "recovered": 181618
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2477255,
+      "confirmed": 2488889,
       "date": "2020-12-22",
-      "deaths": 60537,
-      "recovered": 160946
+      "deaths": 61339,
+      "recovered": 162540
     }
   },
   "Georgia": {
@@ -1543,9 +1543,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 677108,
+          "confirmed": 682489,
           "date": "2020-12-22",
-          "deaths": 10166,
+          "deaths": 10183,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 576582,
+          "confirmed": 582138,
           "date": "2020-12-22",
-          "deaths": 29597,
+          "deaths": 29621,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 139235,
+          "confirmed": 140807,
           "date": "2020-12-22",
-          "deaths": 1558,
+          "deaths": 1567,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 87395,
+          "confirmed": 88420,
           "date": "2020-12-22",
-          "deaths": 2224,
+          "deaths": 2313,
           "recovered": 0
         }
       },
