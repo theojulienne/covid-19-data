@@ -1,4 +1,12 @@
 {
+  "Afghanistan": {
+    "live": {
+      "confirmed": 50171,
+      "date": "2020-12-22",
+      "deaths": 2096,
+      "recovered": 39585
+    }
+  },
   "Albania": {
     "live": {
       "confirmed": 53425,
@@ -701,14 +709,6 @@
           "recovered": 598249
         }
       },
-      "Goa": {
-        "live": {
-          "confirmed": 50143,
-          "date": "2020-12-22",
-          "deaths": 723,
-          "recovered": 48479
-        }
-      },
       "Gujarat": {
         "live": {
           "confirmed": 236259,
@@ -1049,10 +1049,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 114487,
+      "confirmed": 116358,
       "date": "2020-12-22",
-      "deaths": 1039,
-      "recovered": 50863
+      "deaths": 1093,
+      "recovered": 54197
     }
   },
   "Malaysia": {
@@ -1249,10 +1249,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 461505,
+      "confirmed": 462815,
       "date": "2020-12-22",
-      "deaths": 8957,
-      "recovered": 429207
+      "deaths": 9021,
+      "recovered": 429419
     }
   },
   "Poland": {
