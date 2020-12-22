@@ -154,7 +154,7 @@
           "confirmed": 101443,
           "date": "2020-12-22",
           "deaths": 2417,
-          "recovered": 96913
+          "recovered": 97107
         }
       },
       "Amapa": {
@@ -178,7 +178,7 @@
           "confirmed": 471177,
           "date": "2020-12-22",
           "deaths": 8835,
-          "recovered": 451635
+          "recovered": 455316
         }
       },
       "Ceara": {
@@ -202,7 +202,7 @@
           "confirmed": 230280,
           "date": "2020-12-22",
           "deaths": 4795,
-          "recovered": 211598
+          "recovered": 213841
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 301226,
           "date": "2020-12-22",
           "deaths": 6668,
-          "recovered": 289828
+          "recovered": 291618
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 122187,
           "date": "2020-12-22",
           "deaths": 2077,
-          "recovered": 106259
+          "recovered": 107061
         }
       },
       "Minas Gerais": {
@@ -242,7 +242,7 @@
           "confirmed": 499499,
           "date": "2020-12-22",
           "deaths": 11235,
-          "recovered": 450098
+          "recovered": 454155
         }
       },
       "Para": {
@@ -258,7 +258,7 @@
           "confirmed": 159639,
           "date": "2020-12-22",
           "deaths": 3552,
-          "recovered": 123430
+          "recovered": 124217
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 138152,
           "date": "2020-12-22",
           "deaths": 2769,
-          "recovered": 134943
+          "recovered": 135361
         }
       },
       "Rio Grande do Norte": {
@@ -298,7 +298,7 @@
           "confirmed": 409794,
           "date": "2020-12-22",
           "deaths": 8159,
-          "recovered": 382156
+          "recovered": 388409
         }
       },
       "Rio de Janeiro": {
@@ -306,7 +306,7 @@
           "confirmed": 407575,
           "date": "2020-12-22",
           "deaths": 24479,
-          "recovered": 377071
+          "recovered": 380338
         }
       },
       "Rondonia": {
@@ -354,7 +354,7 @@
           "confirmed": 87695,
           "date": "2020-12-22",
           "deaths": 1217,
-          "recovered": 78510
+          "recovered": 78693
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 163392,
+          "confirmed": 164316,
           "date": "2020-12-22",
-          "deaths": 4205,
-          "recovered": 142409
+          "deaths": 4207,
+          "recovered": 142651
         }
       },
       "Quebec": {
@@ -1373,10 +1373,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 930711,
+      "confirmed": 940212,
       "date": "2020-12-22",
-      "deaths": 24907,
-      "recovered": 796346
+      "deaths": 25246,
+      "recovered": 808241
     }
   },
   "Spain": {
@@ -1501,10 +1501,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 121718,
+      "confirmed": 123323,
       "date": "2020-12-22",
-      "deaths": 4199,
-      "recovered": 95025
+      "deaths": 4237,
+      "recovered": 95763
     }
   },
   "Turkey": {
@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 344822,
           "date": "2020-12-22",
-          "deaths": 5590,
+          "deaths": 6170,
           "recovered": 0
         }
       },
@@ -1529,15 +1529,15 @@
         "live": {
           "confirmed": 1448868,
           "date": "2020-12-22",
-          "deaths": 17554,
+          "deaths": 17556,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 51717,
+          "confirmed": 52080,
           "date": "2020-12-22",
-          "deaths": 1647,
+          "deaths": 1653,
           "recovered": 0
         }
       },
