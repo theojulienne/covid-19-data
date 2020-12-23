@@ -1,4 +1,12 @@
 {
+  "Afghanistan": {
+    "live": {
+      "confirmed": 50433,
+      "date": "2020-12-23",
+      "deaths": 2117,
+      "recovered": 39692
+    }
+  },
   "Albania": {
     "live": {
       "confirmed": 53814,
@@ -857,10 +865,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 586503,
+      "confirmed": 587676,
       "date": "2020-12-23",
-      "deaths": 12725,
-      "recovered": 524344
+      "deaths": 12737,
+      "recovered": 525792
     }
   },
   "Ireland": {
@@ -967,9 +975,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 52450,
+          "confirmed": 53198,
           "date": "2020-12-23",
-          "deaths": 542,
+          "deaths": 552,
           "recovered": 45973
         }
       }
@@ -1459,25 +1467,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 56017,
+          "confirmed": 57185,
           "date": "2020-12-23",
-          "deaths": 618,
+          "deaths": 660,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 108953,
+          "confirmed": 110476,
           "date": "2020-12-23",
-          "deaths": 3113,
+          "deaths": 3114,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 63614,
+          "confirmed": 64588,
           "date": "2020-12-23",
-          "deaths": 1146,
+          "deaths": 1148,
           "recovered": 0
         }
       }
@@ -1485,9 +1493,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 418266,
+      "confirmed": 423299,
       "date": "2020-12-23",
-      "deaths": 6924,
+      "deaths": 6975,
       "recovered": 311500
     }
   },
@@ -1602,14 +1610,6 @@
           "confirmed": 65266,
           "date": "2020-12-23",
           "deaths": 1312,
-          "recovered": 0
-        }
-      },
-      "Nebraska": {
-        "live": {
-          "confirmed": 50341,
-          "date": "2020-12-23",
-          "deaths": 475,
           "recovered": 0
         }
       },
