@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 90634,
+      "confirmed": 90817,
       "date": "2020-12-23",
       "deaths": 350,
-      "recovered": 88666
+      "recovered": 88826
     }
   },
   "Bangladesh": {
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 166792,
+          "confirmed": 166802,
           "date": "2020-12-23",
           "deaths": 4248,
           "recovered": 144711
@@ -881,10 +881,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 384728,
+      "confirmed": 385022,
       "date": "2020-12-23",
-      "deaths": 3141,
-      "recovered": 351781
+      "deaths": 3150,
+      "recovered": 351876
     }
   },
   "Italy": {
@@ -1495,16 +1495,16 @@
     "live": {
       "confirmed": 423299,
       "date": "2020-12-23",
-      "deaths": 6975,
+      "deaths": 7029,
       "recovered": 311500
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 123323,
+      "confirmed": 125000,
       "date": "2020-12-23",
-      "deaths": 4237,
-      "recovered": 95763
+      "deaths": 4275,
+      "recovered": 97026
     }
   },
   "Turkey": {
@@ -1527,7 +1527,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1479822,
+          "confirmed": 1480553,
           "date": "2020-12-23",
           "deaths": 17864,
           "recovered": 0
@@ -1583,9 +1583,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 119113,
+          "confirmed": 120853,
           "date": "2020-12-23",
-          "deaths": 4210,
+          "deaths": 4244,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 118325,
+          "confirmed": 119716,
           "date": "2020-12-23",
-          "deaths": 1349,
+          "deaths": 1364,
           "recovered": 0
         }
       },
