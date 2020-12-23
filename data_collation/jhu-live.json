@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 154602,
+      "confirmed": 155440,
       "date": "2020-12-23",
-      "deaths": 2673,
-      "recovered": 134586
+      "deaths": 2691,
+      "recovered": 135638
     }
   },
   "Austria": {
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 635414,
+      "confirmed": 646312,
       "date": "2020-12-23",
       "deaths": 10664,
       "recovered": 546926
@@ -545,10 +545,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 212526,
+      "confirmed": 214871,
       "date": "2020-12-23",
-      "deaths": 2182,
-      "recovered": 188408
+      "deaths": 2233,
+      "recovered": 191968
     }
   },
   "Germany": {
