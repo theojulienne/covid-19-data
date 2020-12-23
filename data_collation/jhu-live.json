@@ -491,8 +491,8 @@
     "live": {
       "confirmed": 635414,
       "date": "2020-12-23",
-      "deaths": 10562,
-      "recovered": 541012
+      "deaths": 10664,
+      "recovered": 546926
     }
   },
   "Denmark": {
@@ -1715,50 +1715,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 54147,
+          "confirmed": 54625,
           "date": "2020-12-23",
-          "deaths": 1255,
-          "recovered": 40573
+          "deaths": 1279,
+          "recovered": 41533
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 65652,
+          "confirmed": 66243,
           "date": "2020-12-23",
-          "deaths": 999,
-          "recovered": 50661
+          "deaths": 1008,
+          "recovered": 51419
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 102282,
+          "confirmed": 103663,
           "date": "2020-12-23",
-          "deaths": 1749,
-          "recovered": 33981
+          "deaths": 1779,
+          "recovered": 34928
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 54022,
+          "confirmed": 54831,
           "date": "2020-12-23",
-          "deaths": 888,
-          "recovered": 25928
+          "deaths": 899,
+          "recovered": 27354
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 57401,
+          "confirmed": 57906,
           "date": "2020-12-23",
-          "deaths": 1649,
-          "recovered": 42455
+          "deaths": 1671,
+          "recovered": 42821
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 65503,
+          "confirmed": 66295,
           "date": "2020-12-23",
-          "deaths": 942,
-          "recovered": 27519
+          "deaths": 959,
+          "recovered": 29285
         }
       }
     }
