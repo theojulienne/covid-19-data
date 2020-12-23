@@ -398,7 +398,7 @@
           "confirmed": 181276,
           "date": "2020-12-23",
           "deaths": 7794,
-          "recovered": 152869
+          "recovered": 154673
         }
       }
     }
@@ -1221,10 +1221,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 214038,
+      "confirmed": 217202,
       "date": "2020-12-23",
-      "deaths": 3597,
-      "recovered": 174951
+      "deaths": 3632,
+      "recovered": 176428
     }
   },
   "Paraguay": {
@@ -1527,9 +1527,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1449806,
+          "confirmed": 1452187,
           "date": "2020-12-23",
-          "deaths": 17600,
+          "deaths": 17628,
           "recovered": 0
         }
       },
@@ -1679,7 +1679,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 730139,
+          "confirmed": 731856,
           "date": "2020-12-23",
           "deaths": 9523,
           "recovered": 0
@@ -1817,9 +1817,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 110513,
+      "confirmed": 110828,
       "date": "2020-12-23",
-      "deaths": 993,
+      "deaths": 997,
       "recovered": 104799
     }
   },
