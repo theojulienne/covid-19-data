@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 165808,
+          "confirmed": 165856,
           "date": "2020-12-23",
-          "deaths": 4227,
-          "recovered": 143788
+          "deaths": 4230,
+          "recovered": 143948
         }
       },
       "Quebec": {
@@ -545,10 +545,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2488889,
+      "confirmed": 2503693,
       "date": "2020-12-23",
-      "deaths": 61339,
-      "recovered": 162540
+      "deaths": 61614,
+      "recovered": 163754
     }
   },
   "Georgia": {
@@ -873,18 +873,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 81228,
+      "confirmed": 82155,
       "date": "2020-12-23",
-      "deaths": 2171,
+      "deaths": 2184,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 384169,
+      "confirmed": 384728,
       "date": "2020-12-23",
       "deaths": 3141,
-      "recovered": 351625
+      "recovered": 351781
     }
   },
   "Italy": {
@@ -1527,7 +1527,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1468668,
+          "confirmed": 1478047,
           "date": "2020-12-23",
           "deaths": 17846,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 52080,
+          "confirmed": 52574,
           "date": "2020-12-23",
-          "deaths": 1653,
+          "deaths": 1660,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 140807,
+          "confirmed": 142460,
           "date": "2020-12-23",
-          "deaths": 1567,
+          "deaths": 1569,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 88420,
+          "confirmed": 89164,
           "date": "2020-12-23",
-          "deaths": 2313,
+          "deaths": 2348,
           "recovered": 0
         }
       },
