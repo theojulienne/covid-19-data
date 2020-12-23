@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 165951,
+          "confirmed": 166792,
           "date": "2020-12-23",
-          "deaths": 4247,
-          "recovered": 144627
+          "deaths": 4248,
+          "recovered": 144711
         }
       },
       "Quebec": {
@@ -481,10 +481,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 160804,
+      "confirmed": 161942,
       "date": "2020-12-23",
-      "deaths": 2051,
-      "recovered": 127618
+      "deaths": 2065,
+      "recovered": 128216
     }
   },
   "Croatia": {
@@ -521,9 +521,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 206364,
+      "confirmed": 207084,
       "date": "2020-12-23",
-      "deaths": 13949,
+      "deaths": 13962,
       "recovered": 181618
     }
   },
@@ -1373,10 +1373,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 940212,
+      "confirmed": 954258,
       "date": "2020-12-23",
-      "deaths": 25246,
-      "recovered": 808241
+      "deaths": 25657,
+      "recovered": 811372
     }
   },
   "Spain": {
@@ -1527,9 +1527,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1478047,
+          "confirmed": 1479822,
           "date": "2020-12-23",
-          "deaths": 17848,
+          "deaths": 17864,
           "recovered": 0
         }
       },
@@ -1551,9 +1551,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 103543,
+          "confirmed": 104708,
           "date": "2020-12-23",
-          "deaths": 1345,
+          "deaths": 1354,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 140379,
+          "confirmed": 141165,
           "date": "2020-12-23",
-          "deaths": 5099,
+          "deaths": 5114,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 51871,
+          "confirmed": 55922,
           "date": "2020-12-23",
-          "deaths": 1190,
+          "deaths": 1277,
           "recovered": 0
         }
       },
@@ -1687,9 +1687,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 162741,
+          "confirmed": 164074,
           "date": "2020-12-23",
-          "deaths": 713,
+          "deaths": 728,
           "recovered": 0
         }
       },
