@@ -170,7 +170,7 @@
           "confirmed": 476955,
           "date": "2020-12-24",
           "deaths": 8893,
-          "recovered": 455316
+          "recovered": 458619
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 326058,
           "date": "2020-12-24",
           "deaths": 9942,
-          "recovered": 263771
+          "recovered": 264302
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 234382,
           "date": "2020-12-24",
           "deaths": 4866,
-          "recovered": 213841
+          "recovered": 216181
         }
       },
       "Goias": {
@@ -202,7 +202,7 @@
           "confirmed": 303212,
           "date": "2020-12-24",
           "deaths": 6723,
-          "recovered": 291618
+          "recovered": 292686
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 174301,
           "date": "2020-12-24",
           "deaths": 4360,
-          "recovered": 164398
+          "recovered": 165277
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 288465,
           "date": "2020-12-24",
           "deaths": 7078,
-          "recovered": 268976
+          "recovered": 269754
         }
       },
       "Paraiba": {
@@ -290,7 +290,7 @@
           "confirmed": 416098,
           "date": "2020-12-24",
           "deaths": 8345,
-          "recovered": 388409
+          "recovered": 390886
         }
       },
       "Rio de Janeiro": {
@@ -1187,26 +1187,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 55811,
+          "confirmed": 56160,
           "date": "2020-12-24",
-          "deaths": 1563,
-          "recovered": 49740
+          "deaths": 1577,
+          "recovered": 50244
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 133179,
+          "confirmed": 133874,
           "date": "2020-12-24",
-          "deaths": 3732,
-          "recovered": 121112
+          "deaths": 3783,
+          "recovered": 121216
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 206489,
+          "confirmed": 207407,
           "date": "2020-12-24",
-          "deaths": 3379,
-          "recovered": 184192
+          "deaths": 3419,
+          "recovered": 184999
         }
       }
     }
@@ -1695,9 +1695,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 58968,
+          "confirmed": 59383,
           "date": "2020-12-24",
-          "deaths": 964,
+          "deaths": 974,
           "recovered": 0
         }
       },
