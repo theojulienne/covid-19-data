@@ -1,12 +1,4 @@
 {
-  "Afghanistan": {
-    "live": {
-      "confirmed": 50433,
-      "date": "2020-12-24",
-      "deaths": 2117,
-      "recovered": 39692
-    }
-  },
   "Albania": {
     "live": {
       "confirmed": 54317,
@@ -361,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 194271,
+      "confirmed": 195886,
       "date": "2020-12-24",
-      "deaths": 6879,
-      "recovered": 105090
+      "deaths": 6978,
+      "recovered": 106465
     }
   },
   "Burma": {
@@ -398,7 +390,7 @@
           "confirmed": 183523,
           "date": "2020-12-24",
           "deaths": 7867,
-          "recovered": 154673
+          "recovered": 156275
         }
       }
     }
@@ -993,10 +985,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 193503,
+      "confirmed": 194257,
       "date": "2020-12-24",
       "deaths": 2677,
-      "recovered": 165950
+      "recovered": 167503
     }
   },
   "Kenya": {
@@ -1069,7 +1061,7 @@
         "live": {
           "confirmed": 297345,
           "date": "2020-12-24",
-          "deaths": 15679,
+          "deaths": 15786,
           "recovered": 0
         }
       },
@@ -1077,7 +1069,7 @@
         "live": {
           "confirmed": 77557,
           "date": "2020-12-24",
-          "deaths": 4867,
+          "deaths": 4914,
           "recovered": 0
         }
       },
@@ -1085,7 +1077,7 @@
         "live": {
           "confirmed": 135837,
           "date": "2020-12-24",
-          "deaths": 17780,
+          "deaths": 17937,
           "recovered": 0
         }
       },
@@ -1093,7 +1085,7 @@
         "live": {
           "confirmed": 78362,
           "date": "2020-12-24",
-          "deaths": 4958,
+          "deaths": 4983,
           "recovered": 0
         }
       }
@@ -1519,17 +1511,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 348990,
+          "confirmed": 353571,
           "date": "2020-12-24",
-          "deaths": 5692,
+          "deaths": 5727,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 1480553,
+          "confirmed": 1499043,
           "date": "2020-12-24",
-          "deaths": 17881,
+          "deaths": 18042,
           "recovered": 0
         }
       },
@@ -1613,6 +1605,14 @@
           "recovered": 0
         }
       },
+      "Nebraska": {
+        "live": {
+          "confirmed": 50726,
+          "date": "2020-12-24",
+          "deaths": 484,
+          "recovered": 0
+        }
+      },
       "Nevada": {
         "live": {
           "confirmed": 158750,
@@ -1679,9 +1679,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 733670,
+          "confirmed": 740625,
           "date": "2020-12-24",
-          "deaths": 9592,
+          "deaths": 9702,
           "recovered": 0
         }
       },
