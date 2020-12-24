@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 155440,
+      "confirmed": 156142,
       "date": "2020-12-24",
-      "deaths": 2691,
-      "recovered": 135638
+      "deaths": 2714,
+      "recovered": 136766
     }
   },
   "Austria": {
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 646312,
+      "confirmed": 660461,
       "date": "2020-12-24",
       "deaths": 10776,
       "recovered": 552444
@@ -545,10 +545,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 214871,
+      "confirmed": 216843,
       "date": "2020-12-24",
-      "deaths": 2233,
-      "recovered": 191968
+      "deaths": 2276,
+      "recovered": 194705
     }
   },
   "Germany": {
@@ -1286,7 +1286,7 @@
           "confirmed": 756586,
           "date": "2020-12-24",
           "deaths": 10613,
-          "recovered": 582772
+          "recovered": 588280
         }
       },
       "Moscow Oblast": {
@@ -1294,7 +1294,7 @@
           "confirmed": 142744,
           "date": "2020-12-24",
           "deaths": 2724,
-          "recovered": 101262
+          "recovered": 102563
         }
       },
       "Nizhny Novgorod Oblast": {
@@ -1302,7 +1302,7 @@
           "confirmed": 65805,
           "date": "2020-12-24",
           "deaths": 1516,
-          "recovered": 58669
+          "recovered": 59109
         }
       },
       "Saint Petersburg": {
@@ -1310,7 +1310,7 @@
           "confirmed": 212074,
           "date": "2020-12-24",
           "deaths": 7074,
-          "recovered": 123518
+          "recovered": 126171
         }
       },
       "Sverdlovsk Oblast": {
@@ -1318,7 +1318,7 @@
           "confirmed": 55341,
           "date": "2020-12-24",
           "deaths": 1376,
-          "recovered": 47658
+          "recovered": 48078
         }
       }
     }
