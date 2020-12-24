@@ -1258,19 +1258,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 117542,
-        "deaths": 1813,
-        "recovered": 96307
+        "confirmed": 118006,
+        "deaths": 1818,
+        "recovered": 97969
       },
       "back_2week": {
-        "confirmed": 114266,
-        "deaths": 1766,
-        "recovered": 84948
+        "confirmed": 114834,
+        "deaths": 1769,
+        "recovered": 87244
       },
       "latest": {
-        "confirmed": 120638,
-        "deaths": 1864,
-        "recovered": 104818
+        "confirmed": 120989,
+        "deaths": 1870,
+        "recovered": 105824
       }
     },
     "FIN": {
@@ -1309,19 +1309,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2390419,
-        "deaths": 58712,
-        "recovered": 155751
+        "confirmed": 2407983,
+        "deaths": 59001,
+        "recovered": 156975
       },
       "back_2week": {
-        "confirmed": 2309760,
-        "deaths": 56001,
-        "recovered": 148840
+        "confirmed": 2324300,
+        "deaths": 56294,
+        "recovered": 150219
       },
       "latest": {
-        "confirmed": 2488889,
-        "deaths": 61339,
-        "recovered": 162540
+        "confirmed": 2503693,
+        "deaths": 61614,
+        "recovered": 163754
       },
       "states": {
         "French Guiana": {
@@ -1804,19 +1804,19 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 360630,
-        "deaths": 3014,
-        "recovered": 338784
+        "confirmed": 365042,
+        "deaths": 3034,
+        "recovered": 341217
       },
       "back_2week": {
-        "confirmed": 348285,
-        "deaths": 2932,
-        "recovered": 331055
+        "confirmed": 350271,
+        "deaths": 2934,
+        "recovered": 332089
       },
       "latest": {
-        "confirmed": 382487,
-        "deaths": 3136,
-        "recovered": 351187
+        "confirmed": 385022,
+        "deaths": 3150,
+        "recovered": 351876
       }
     },
     "ITA": {
