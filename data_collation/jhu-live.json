@@ -653,10 +653,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 311554,
+      "confirmed": 314164,
       "date": "2020-12-25",
-      "deaths": 8729,
-      "recovered": 120529
+      "deaths": 8833,
+      "recovered": 123989
     }
   },
   "India": {
@@ -841,10 +841,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 692838,
+      "confirmed": 700097,
       "date": "2020-12-25",
-      "deaths": 20589,
-      "recovered": 563980
+      "deaths": 20847,
+      "recovered": 570304
     }
   },
   "Iran": {
@@ -1241,10 +1241,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 465724,
+      "confirmed": 467601,
       "date": "2020-12-25",
-      "deaths": 9055,
-      "recovered": 430490
+      "deaths": 9062,
+      "recovered": 430791
     }
   },
   "Poland": {
@@ -1283,42 +1283,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 764789,
+          "confirmed": 772104,
           "date": "2020-12-25",
-          "deaths": 10689,
-          "recovered": 588280
+          "deaths": 10763,
+          "recovered": 593939
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 144282,
+          "confirmed": 145858,
           "date": "2020-12-25",
-          "deaths": 2753,
-          "recovered": 102563
+          "deaths": 2773,
+          "recovered": 103908
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 66307,
+          "confirmed": 66812,
           "date": "2020-12-25",
-          "deaths": 1533,
-          "recovered": 59109
+          "deaths": 1549,
+          "recovered": 59538
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 215830,
+          "confirmed": 219581,
           "date": "2020-12-25",
-          "deaths": 7146,
-          "recovered": 126171
+          "deaths": 7222,
+          "recovered": 129205
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 55759,
+          "confirmed": 56162,
           "date": "2020-12-25",
-          "deaths": 1393,
-          "recovered": 48078
+          "deaths": 1409,
+          "recovered": 48484
         }
       }
     }
