@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 156142,
+      "confirmed": 156763,
       "date": "2020-12-25",
-      "deaths": 2714,
-      "recovered": 136766
+      "deaths": 2733,
+      "recovered": 137815
     }
   },
   "Austria": {
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 660461,
+      "confirmed": 664863,
       "date": "2020-12-25",
       "deaths": 10859,
       "recovered": 557696
@@ -545,10 +545,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 216843,
+      "confirmed": 218724,
       "date": "2020-12-25",
-      "deaths": 2276,
-      "recovered": 194705
+      "deaths": 2313,
+      "recovered": 196220
     }
   },
   "Germany": {
@@ -565,7 +565,7 @@
         "live": {
           "confirmed": 305866,
           "date": "2020-12-25",
-          "deaths": 6114,
+          "deaths": 6117,
           "recovered": 235381
         }
       },
@@ -1041,10 +1041,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 123889,
+      "confirmed": 126581,
       "date": "2020-12-25",
-      "deaths": 1186,
-      "recovered": 60559
+      "deaths": 1205,
+      "recovered": 60946
     }
   },
   "Malaysia": {
@@ -1341,7 +1341,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58495,
+      "confirmed": 58509,
       "date": "2020-12-25",
       "deaths": 29,
       "recovered": 58332
