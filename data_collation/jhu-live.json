@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 76916,
+          "confirmed": 77384,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 80362,
+          "confirmed": 80548,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 62687,
+          "confirmed": 63064,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 100491,
+          "confirmed": 100811,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 95752,
+          "confirmed": 95975,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 52128,
+          "confirmed": 52445,
           "date": "2020-12-25",
           "deaths": 0,
           "recovered": 0
@@ -1059,7 +1059,7 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 302199,
+          "confirmed": 307235,
           "date": "2020-12-25",
           "deaths": 15947,
           "recovered": 0
@@ -1067,7 +1067,7 @@
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 78148,
+          "confirmed": 78812,
           "date": "2020-12-25",
           "deaths": 4990,
           "recovered": 0
@@ -1075,7 +1075,7 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 137348,
+          "confirmed": 138802,
           "date": "2020-12-25",
           "deaths": 18083,
           "recovered": 0
@@ -1083,7 +1083,7 @@
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 78809,
+          "confirmed": 79594,
           "date": "2020-12-25",
           "deaths": 5000,
           "recovered": 0
@@ -1187,26 +1187,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 56160,
+          "confirmed": 56544,
           "date": "2020-12-25",
-          "deaths": 1577,
-          "recovered": 50244
+          "deaths": 1585,
+          "recovered": 50855
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 133874,
+          "confirmed": 134345,
           "date": "2020-12-25",
-          "deaths": 3783,
-          "recovered": 121216
+          "deaths": 3831,
+          "recovered": 121395
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 207407,
+          "confirmed": 208514,
           "date": "2020-12-25",
-          "deaths": 3419,
-          "recovered": 184999
+          "deaths": 3440,
+          "recovered": 185648
         }
       }
     }
