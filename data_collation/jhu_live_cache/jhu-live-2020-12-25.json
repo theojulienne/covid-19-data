@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 169443,
+          "confirmed": 169694,
           "date": "2020-12-25",
           "deaths": 4304,
-          "recovered": 147449
+          "recovered": 147699
         }
       },
       "Quebec": {
@@ -1543,9 +1543,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 106514,
+          "confirmed": 107603,
           "date": "2020-12-25",
-          "deaths": 1358,
+          "deaths": 1365,
           "recovered": 0
         }
       },
@@ -1681,7 +1681,7 @@
         "live": {
           "confirmed": 743828,
           "date": "2020-12-25",
-          "deaths": 9824,
+          "deaths": 9903,
           "recovered": 0
         }
       },
