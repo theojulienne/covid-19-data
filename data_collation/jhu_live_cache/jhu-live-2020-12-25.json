@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 152064,
+      "confirmed": 153121,
       "date": "2020-12-25",
-      "deaths": 9065,
-      "recovered": 129052
+      "deaths": 9076,
+      "recovered": 129387
     }
   },
   "Bosnia and Herzegovina": {
@@ -426,7 +426,7 @@
           "confirmed": 250617,
           "date": "2020-12-25",
           "deaths": 4602,
-          "recovered": 228226
+          "recovered": 230130
         }
       },
       "Atlantico": {
@@ -434,7 +434,7 @@
           "confirmed": 89729,
           "date": "2020-12-25",
           "deaths": 3364,
-          "recovered": 82198
+          "recovered": 82773
         }
       },
       "Capital District": {
@@ -442,7 +442,7 @@
           "confirmed": 443602,
           "date": "2020-12-25",
           "deaths": 9381,
-          "recovered": 394923
+          "recovered": 399073
         }
       },
       "Cundinamarca": {
@@ -450,7 +450,7 @@
           "confirmed": 63302,
           "date": "2020-12-25",
           "deaths": 1625,
-          "recovered": 57125
+          "recovered": 57664
         }
       },
       "Santander": {
@@ -458,7 +458,7 @@
           "confirmed": 63843,
           "date": "2020-12-25",
           "deaths": 2284,
-          "recovered": 56494
+          "recovered": 56975
         }
       },
       "Valle del Cauca": {
@@ -466,7 +466,7 @@
           "confirmed": 130202,
           "date": "2020-12-25",
           "deaths": 4069,
-          "recovered": 116674
+          "recovered": 118009
         }
       }
     }
@@ -985,10 +985,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 194257,
+      "confirmed": 194993,
       "date": "2020-12-25",
       "deaths": 2677,
-      "recovered": 167503
+      "recovered": 168805
     }
   },
   "Kenya": {
@@ -1001,10 +1001,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 53533,
+      "confirmed": 54770,
       "date": "2020-12-25",
-      "deaths": 756,
-      "recovered": 37425
+      "deaths": 773,
+      "recovered": 38048
     }
   },
   "Kuwait": {
@@ -1061,7 +1061,7 @@
         "live": {
           "confirmed": 302199,
           "date": "2020-12-25",
-          "deaths": 15786,
+          "deaths": 15947,
           "recovered": 0
         }
       },
@@ -1069,7 +1069,7 @@
         "live": {
           "confirmed": 78148,
           "date": "2020-12-25",
-          "deaths": 4914,
+          "deaths": 4990,
           "recovered": 0
         }
       },
@@ -1077,7 +1077,7 @@
         "live": {
           "confirmed": 137348,
           "date": "2020-12-25",
-          "deaths": 17937,
+          "deaths": 18083,
           "recovered": 0
         }
       },
@@ -1085,7 +1085,7 @@
         "live": {
           "confirmed": 78809,
           "date": "2020-12-25",
-          "deaths": 4983,
+          "deaths": 5000,
           "recovered": 0
         }
       }
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1512806,
+          "confirmed": 1527328,
           "date": "2020-12-25",
-          "deaths": 18093,
+          "deaths": 18259,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 50726,
+          "confirmed": 50962,
           "date": "2020-12-25",
-          "deaths": 484,
+          "deaths": 485,
           "recovered": 0
         }
       },
