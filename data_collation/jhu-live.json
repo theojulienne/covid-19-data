@@ -481,10 +481,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 202319,
+      "confirmed": 203962,
       "date": "2020-12-25",
-      "deaths": 3464,
-      "recovered": 183532
+      "deaths": 3548,
+      "recovered": 186553
     }
   },
   "Czechia": {
@@ -587,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 100343,
+          "confirmed": 101650,
           "date": "2020-12-25",
-          "deaths": 1764,
+          "deaths": 1770,
           "recovered": 83425
         }
       },
@@ -603,9 +603,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 67546,
+          "confirmed": 68088,
           "date": "2020-12-25",
-          "deaths": 1213,
+          "deaths": 1229,
           "recovered": 47304
         }
       },
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 608561,
+      "confirmed": 612373,
       "date": "2020-12-25",
-      "deaths": 14912,
-      "recovered": 523829
+      "deaths": 15023,
+      "recovered": 530308
     }
   },
   "Russia": {
@@ -1679,7 +1679,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 743534,
+          "confirmed": 743828,
           "date": "2020-12-25",
           "deaths": 9824,
           "recovered": 0
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 129080,
+      "confirmed": 130598,
       "date": "2020-12-25",
-      "deaths": 1243,
-      "recovered": 105233
+      "deaths": 1260,
+      "recovered": 106718
     }
   }
 }
