@@ -1043,18 +1043,18 @@
     "CZE": {
       "back_1week": {
         "confirmed": 594148,
-        "deaths": 9882,
-        "recovered": 518423
+        "deaths": 10036,
+        "recovered": 522649
       },
       "back_2week": {
         "confirmed": 556927,
-        "deaths": 9136,
-        "recovered": 489759
+        "deaths": 9226,
+        "recovered": 493946
       },
       "latest": {
         "confirmed": 646312,
-        "deaths": 10664,
-        "recovered": 546926
+        "deaths": 10776,
+        "recovered": 552444
       }
     },
     "DEU": {
@@ -1889,19 +1889,19 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 188837,
-        "deaths": 2613,
-        "recovered": 160889
+        "confirmed": 189551,
+        "deaths": 2615,
+        "recovered": 161561
       },
       "back_2week": {
-        "confirmed": 182657,
-        "deaths": 2546,
-        "recovered": 154432
+        "confirmed": 183630,
+        "deaths": 2550,
+        "recovered": 155338
       },
       "latest": {
-        "confirmed": 194257,
+        "confirmed": 194993,
         "deaths": 2677,
-        "recovered": 167503
+        "recovered": 168805
       }
     },
     "KEN": {
