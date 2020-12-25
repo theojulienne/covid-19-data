@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 54827,
+      "confirmed": 55380,
       "date": "2020-12-25",
-      "deaths": 1125,
-      "recovered": 30276
+      "deaths": 1134,
+      "recovered": 30790
     }
   },
   "Algeria": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 108298,
+      "confirmed": 108891,
       "date": "2020-12-25",
-      "deaths": 3878,
-      "recovered": 73896
+      "deaths": 3901,
+      "recovered": 74667
     }
   },
   "Brazil": {
@@ -191,9 +191,9 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 234382,
+          "confirmed": 236030,
           "date": "2020-12-25",
-          "deaths": 4866,
+          "deaths": 4890,
           "recovered": 216181
         }
       },
@@ -505,10 +505,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 163654,
+      "confirmed": 165035,
       "date": "2020-12-25",
       "deaths": 2404,
-      "recovered": 126732
+      "recovered": 127106
     }
   },
   "Ecuador": {
@@ -637,10 +637,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 134894,
+      "confirmed": 135080,
       "date": "2020-12-25",
-      "deaths": 4749,
-      "recovered": 122965
+      "deaths": 4757,
+      "recovered": 123345
     }
   },
   "Honduras": {
@@ -977,10 +977,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 283690,
+      "confirmed": 285306,
       "date": "2020-12-25",
-      "deaths": 3681,
-      "recovered": 254496
+      "deaths": 3711,
+      "recovered": 256312
     }
   },
   "Kazakhstan": {
@@ -1501,10 +1501,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2100712,
+      "confirmed": 2118255,
       "date": "2020-12-25",
-      "deaths": 19115,
-      "recovered": 1935292
+      "deaths": 19371,
+      "recovered": 1970803
     }
   },
   "US": {
@@ -1775,9 +1775,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 1874731,
+          "confirmed": 1906291,
           "date": "2020-12-25",
-          "deaths": 60706,
+          "deaths": 61276,
           "recovered": 0
         }
       },
@@ -1791,7 +1791,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 116870,
+          "confirmed": 118035,
           "date": "2020-12-25",
           "deaths": 4416,
           "recovered": 0
