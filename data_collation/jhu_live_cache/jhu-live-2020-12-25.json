@@ -529,10 +529,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 121399,
+      "confirmed": 121880,
       "date": "2020-12-25",
-      "deaths": 1882,
-      "recovered": 106845
+      "deaths": 1897,
+      "recovered": 107599
     }
   },
   "France": {
@@ -1703,7 +1703,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 89025,
+          "confirmed": 89354,
           "date": "2020-12-25",
           "deaths": 971,
           "recovered": 0
