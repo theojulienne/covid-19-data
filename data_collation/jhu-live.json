@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2525234,
+      "confirmed": 2545358,
       "date": "2020-12-25",
-      "deaths": 61904,
-      "recovered": 165121
+      "deaths": 62063,
+      "recovered": 165650
     }
   },
   "Georgia": {
@@ -1519,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1529293,
+          "confirmed": 1541713,
           "date": "2020-12-25",
           "deaths": 18301,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 596085,
+          "confirmed": 602926,
           "date": "2020-12-25",
-          "deaths": 29740,
+          "deaths": 29799,
           "recovered": 0
         }
       },

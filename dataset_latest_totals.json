@@ -1309,19 +1309,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2407983,
-        "deaths": 59001,
-        "recovered": 156975
+        "confirmed": 2426063,
+        "deaths": 59259,
+        "recovered": 158170
       },
       "back_2week": {
-        "confirmed": 2324300,
-        "deaths": 56294,
-        "recovered": 150219
+        "confirmed": 2337594,
+        "deaths": 56584,
+        "recovered": 151630
       },
       "latest": {
-        "confirmed": 2503693,
-        "deaths": 61614,
-        "recovered": 163754
+        "confirmed": 2525234,
+        "deaths": 61904,
+        "recovered": 165121
       },
       "states": {
         "French Guiana": {
