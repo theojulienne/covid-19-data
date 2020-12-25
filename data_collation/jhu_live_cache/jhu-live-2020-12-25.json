@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 97007,
+      "confirmed": 97441,
       "date": "2020-12-25",
-      "deaths": 2705,
-      "recovered": 64777
+      "deaths": 2716,
+      "recovered": 65144
     }
   },
   "Argentina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 169137,
+          "confirmed": 169443,
           "date": "2020-12-25",
-          "deaths": 4303,
-          "recovered": 146991
+          "deaths": 4304,
+          "recovered": 147449
         }
       },
       "Quebec": {
@@ -513,9 +513,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 208010,
+      "confirmed": 208828,
       "date": "2020-12-25",
-      "deaths": 13977,
+      "deaths": 13984,
       "recovered": 181618
     }
   },
@@ -1025,10 +1025,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 165933,
+      "confirmed": 168069,
       "date": "2020-12-25",
-      "deaths": 1353,
-      "recovered": 117311
+      "deaths": 1367,
+      "recovered": 118947
     }
   },
   "Libya": {
@@ -1101,10 +1101,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 425864,
+      "confirmed": 428193,
       "date": "2020-12-25",
-      "deaths": 7130,
-      "recovered": 388728
+      "deaths": 7170,
+      "recovered": 391920
     }
   },
   "Nepal": {
@@ -1487,7 +1487,7 @@
     "live": {
       "confirmed": 428197,
       "date": "2020-12-25",
-      "deaths": 7131,
+      "deaths": 7159,
       "recovered": 311500
     }
   },
@@ -1551,9 +1551,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 439308,
+          "confirmed": 441790,
           "date": "2020-12-25",
-          "deaths": 8925,
+          "deaths": 9012,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 51912,
+          "confirmed": 52363,
           "date": "2020-12-25",
-          "deaths": 1051,
+          "deaths": 1061,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 160569,
+          "confirmed": 161913,
           "date": "2020-12-25",
-          "deaths": 2244,
+          "deaths": 2259,
           "recovered": 0
         }
       },
