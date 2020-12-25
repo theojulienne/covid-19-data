@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 210061,
+      "confirmed": 211764,
       "date": "2020-12-25",
-      "deaths": 2380,
-      "recovered": 155886
+      "deaths": 2416,
+      "recovered": 160245
     }
   },
   "Bahrain": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 119788,
+      "confirmed": 120546,
       "date": "2020-12-25",
-      "deaths": 2532,
-      "recovered": 99927
+      "deaths": 2552,
+      "recovered": 100940
     }
   },
   "Canada": {
@@ -399,10 +399,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 315148,
+          "confirmed": 315724,
           "date": "2020-12-25",
-          "deaths": 10677,
-          "recovered": 301075
+          "deaths": 10700,
+          "recovered": 301451
         }
       }
     }
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 146341,
+      "confirmed": 149333,
       "date": "2020-12-25",
-      "deaths": 1114,
-      "recovered": 102184
+      "deaths": 1134,
+      "recovered": 105425
     }
   },
   "Dominican Republic": {
@@ -571,10 +571,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 92079,
+          "confirmed": 92357,
           "date": "2020-12-25",
-          "deaths": 1116,
-          "recovered": 71848
+          "deaths": 1118,
+          "recovered": 71944
         }
       },
       "Hessen": {
@@ -873,10 +873,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 393369,
+      "confirmed": 394391,
       "date": "2020-12-25",
-      "deaths": 3185,
-      "recovered": 356690
+      "deaths": 3186,
+      "recovered": 357868
     }
   },
   "Italy": {
@@ -993,10 +993,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 95431,
+      "confirmed": 95713,
       "date": "2020-12-25",
-      "deaths": 1652,
-      "recovered": 76720
+      "deaths": 1653,
+      "recovered": 76811
     }
   },
   "Korea, South": {
@@ -1009,10 +1009,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 149017,
+      "confirmed": 149277,
       "date": "2020-12-25",
       "deaths": 926,
-      "recovered": 144898
+      "recovered": 145130
     }
   },
   "Kyrgyzstan": {
@@ -1119,41 +1119,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 79140,
+          "confirmed": 80665,
           "date": "2020-12-25",
-          "deaths": 1218,
+          "deaths": 1235,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 115590,
+          "confirmed": 117197,
           "date": "2020-12-25",
-          "deaths": 2307,
+          "deaths": 2319,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 126532,
+          "confirmed": 128145,
           "date": "2020-12-25",
-          "deaths": 1541,
+          "deaths": 1548,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 62069,
+          "confirmed": 63114,
           "date": "2020-12-25",
-          "deaths": 817,
+          "deaths": 824,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 190065,
+          "confirmed": 192198,
           "date": "2020-12-25",
-          "deaths": 2687,
+          "deaths": 2709,
           "recovered": 0
         }
       }
@@ -1333,9 +1333,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 316344,
+      "confirmed": 320167,
       "date": "2020-12-25",
-      "deaths": 2882,
+      "deaths": 2931,
       "recovered": 0
     }
   },
@@ -1357,9 +1357,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 112021,
+      "confirmed": 113815,
       "date": "2020-12-25",
-      "deaths": 2479,
+      "deaths": 2507,
       "recovered": 91952
     }
   },
@@ -1487,7 +1487,7 @@
     "live": {
       "confirmed": 428197,
       "date": "2020-12-25",
-      "deaths": 7098,
+      "deaths": 7131,
       "recovered": 311500
     }
   },
