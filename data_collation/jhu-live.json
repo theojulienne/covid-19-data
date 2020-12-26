@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 77384,
+          "confirmed": 77791,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 80548,
+          "confirmed": 80741,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 63064,
+          "confirmed": 63438,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 100811,
+          "confirmed": 101110,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 95975,
+          "confirmed": 96158,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 52445,
+          "confirmed": 52696,
           "date": "2020-12-26",
           "deaths": 0,
           "recovered": 0
@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 153121,
+      "confirmed": 153590,
       "date": "2020-12-26",
-      "deaths": 9076,
-      "recovered": 129387
+      "deaths": 9083,
+      "recovered": 129754
     }
   },
   "Bosnia and Herzegovina": {
@@ -423,50 +423,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 250617,
+          "confirmed": 252615,
           "date": "2020-12-26",
-          "deaths": 4602,
-          "recovered": 230130
+          "deaths": 4630,
+          "recovered": 232143
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 89729,
+          "confirmed": 90594,
           "date": "2020-12-26",
-          "deaths": 3364,
-          "recovered": 82773
+          "deaths": 3375,
+          "recovered": 83557
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 443602,
+          "confirmed": 447821,
           "date": "2020-12-26",
-          "deaths": 9381,
-          "recovered": 399073
+          "deaths": 9437,
+          "recovered": 401986
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 63302,
+          "confirmed": 63905,
           "date": "2020-12-26",
-          "deaths": 1625,
-          "recovered": 57664
+          "deaths": 1636,
+          "recovered": 58323
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 63843,
+          "confirmed": 64602,
           "date": "2020-12-26",
-          "deaths": 2284,
-          "recovered": 56975
+          "deaths": 2298,
+          "recovered": 57566
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 130202,
+          "confirmed": 131644,
           "date": "2020-12-26",
-          "deaths": 4069,
-          "recovered": 118009
+          "deaths": 4105,
+          "recovered": 118960
         }
       }
     }
@@ -558,7 +558,7 @@
           "confirmed": 225354,
           "date": "2020-12-26",
           "deaths": 4373,
-          "recovered": 166728
+          "recovered": 169337
         }
       },
       "Bayern": {
@@ -566,7 +566,7 @@
           "confirmed": 305866,
           "date": "2020-12-26",
           "deaths": 6117,
-          "recovered": 235381
+          "recovered": 238404
         }
       },
       "Berlin": {
@@ -574,7 +574,7 @@
           "confirmed": 92357,
           "date": "2020-12-26",
           "deaths": 1118,
-          "recovered": 71944
+          "recovered": 72427
         }
       },
       "Hessen": {
@@ -582,7 +582,7 @@
           "confirmed": 129206,
           "date": "2020-12-26",
           "deaths": 2396,
-          "recovered": 97505
+          "recovered": 99018
         }
       },
       "Niedersachsen": {
@@ -590,7 +590,7 @@
           "confirmed": 101650,
           "date": "2020-12-26",
           "deaths": 1770,
-          "recovered": 83425
+          "recovered": 84470
         }
       },
       "Nordrhein-Westfalen": {
@@ -598,7 +598,7 @@
           "confirmed": 373298,
           "date": "2020-12-26",
           "deaths": 5835,
-          "recovered": 293690
+          "recovered": 297114
         }
       },
       "Rheinland-Pfalz": {
@@ -606,7 +606,7 @@
           "confirmed": 68088,
           "date": "2020-12-26",
           "deaths": 1229,
-          "recovered": 47304
+          "recovered": 48029
         }
       },
       "Sachsen": {
@@ -985,10 +985,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 195303,
+      "confirmed": 196056,
       "date": "2020-12-26",
       "deaths": 2682,
-      "recovered": 168961
+      "recovered": 170442
     }
   },
   "Kenya": {
@@ -1059,7 +1059,7 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 307235,
+          "confirmed": 310843,
           "date": "2020-12-26",
           "deaths": 16035,
           "recovered": 0
@@ -1067,7 +1067,7 @@
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 78812,
+          "confirmed": 79837,
           "date": "2020-12-26",
           "deaths": 5047,
           "recovered": 0
@@ -1075,7 +1075,7 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 138802,
+          "confirmed": 139895,
           "date": "2020-12-26",
           "deaths": 18217,
           "recovered": 0
@@ -1083,7 +1083,7 @@
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 79594,
+          "confirmed": 80064,
           "date": "2020-12-26",
           "deaths": 5025,
           "recovered": 0
