@@ -681,7 +681,8 @@ var covid19_dataset_country_atg = {
       153,
       153,
       154,
-      154
+      154,
+      155
     ],
     "deaths": [
       0,
@@ -1010,6 +1011,7 @@ var covid19_dataset_country_atg = {
       4,
       4,
       4,
+      5,
       5,
       5,
       5,
@@ -1360,6 +1362,7 @@ var covid19_dataset_country_atg = {
       143,
       143,
       144,
+      146,
       146,
       146
     ]
