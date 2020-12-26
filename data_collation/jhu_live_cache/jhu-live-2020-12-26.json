@@ -1521,7 +1521,7 @@
         "live": {
           "confirmed": 1561143,
           "date": "2020-12-26",
-          "deaths": 18330,
+          "deaths": 18393,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 141165,
+          "confirmed": 143107,
           "date": "2020-12-26",
-          "deaths": 5114,
+          "deaths": 5182,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 55011,
+          "confirmed": 55682,
           "date": "2020-12-26",
-          "deaths": 416,
+          "deaths": 419,
           "recovered": 0
         }
       },
@@ -1687,9 +1687,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 165732,
+          "confirmed": 167604,
           "date": "2020-12-26",
-          "deaths": 734,
+          "deaths": 736,
           "recovered": 0
         }
       },
@@ -1703,7 +1703,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 89354,
+          "confirmed": 89531,
           "date": "2020-12-26",
           "deaths": 971,
           "recovered": 0
