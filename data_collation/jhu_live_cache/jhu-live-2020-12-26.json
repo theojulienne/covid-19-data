@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1571680,
+      "confirmed": 1574554,
       "date": "2020-12-26",
-      "deaths": 42392,
+      "deaths": 42422,
       "recovered": 1384277
     }
   },
@@ -1213,10 +1213,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 223674,
+      "confirmed": 226660,
       "date": "2020-12-26",
-      "deaths": 3715,
-      "recovered": 180045
+      "deaths": 3756,
+      "recovered": 181749
     }
   },
   "Paraguay": {
