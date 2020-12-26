@@ -1001,10 +1001,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 54770,
+      "confirmed": 55902,
       "date": "2020-12-26",
-      "deaths": 773,
-      "recovered": 38048
+      "deaths": 793,
+      "recovered": 38532
     }
   },
   "Kuwait": {
@@ -1061,7 +1061,7 @@
         "live": {
           "confirmed": 307235,
           "date": "2020-12-26",
-          "deaths": 15947,
+          "deaths": 16035,
           "recovered": 0
         }
       },
@@ -1069,7 +1069,7 @@
         "live": {
           "confirmed": 78812,
           "date": "2020-12-26",
-          "deaths": 4990,
+          "deaths": 5047,
           "recovered": 0
         }
       },
@@ -1077,7 +1077,7 @@
         "live": {
           "confirmed": 138802,
           "date": "2020-12-26",
-          "deaths": 18083,
+          "deaths": 18217,
           "recovered": 0
         }
       },
@@ -1085,7 +1085,7 @@
         "live": {
           "confirmed": 79594,
           "date": "2020-12-26",
-          "deaths": 5000,
+          "deaths": 5025,
           "recovered": 0
         }
       }
@@ -1607,9 +1607,9 @@
       },
       "Nebraska": {
         "live": {
-          "confirmed": 50962,
+          "confirmed": 51281,
           "date": "2020-12-26",
-          "deaths": 485,
+          "deaths": 480,
           "recovered": 0
         }
       },
@@ -1817,10 +1817,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 111245,
+      "confirmed": 111603,
       "date": "2020-12-26",
-      "deaths": 1006,
-      "recovered": 105479
+      "deaths": 1010,
+      "recovered": 105804
     }
   },
   "West Bank and Gaza": {
