@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 507265,
+      "confirmed": 508099,
       "date": "2020-12-26",
-      "deaths": 7398,
-      "recovered": 448803
+      "deaths": 7428,
+      "recovered": 450488
     }
   },
   "Belarus": {
@@ -857,10 +857,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 589943,
+      "confirmed": 590779,
       "date": "2020-12-26",
-      "deaths": 12755,
-      "recovered": 528872
+      "deaths": 12767,
+      "recovered": 530262
     }
   },
   "Ireland": {
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 130598,
+      "confirmed": 131904,
       "date": "2020-12-26",
-      "deaths": 1260,
-      "recovered": 106718
+      "deaths": 1281,
+      "recovered": 108118
     }
   }
 }
