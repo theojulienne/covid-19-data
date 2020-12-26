@@ -555,17 +555,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 225354,
+          "confirmed": 227305,
           "date": "2020-12-26",
-          "deaths": 4373,
+          "deaths": 4400,
           "recovered": 169337
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 305866,
+          "confirmed": 308651,
           "date": "2020-12-26",
-          "deaths": 6117,
+          "deaths": 6150,
           "recovered": 238404
         }
       },
@@ -579,31 +579,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 129206,
+          "confirmed": 130109,
           "date": "2020-12-26",
-          "deaths": 2396,
+          "deaths": 2423,
           "recovered": 99018
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 101650,
+          "confirmed": 101877,
           "date": "2020-12-26",
-          "deaths": 1770,
+          "deaths": 1774,
           "recovered": 84470
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 373298,
+          "confirmed": 375714,
           "date": "2020-12-26",
-          "deaths": 5835,
+          "deaths": 5888,
           "recovered": 297114
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 68088,
+          "confirmed": 68113,
           "date": "2020-12-26",
           "deaths": 1229,
           "recovered": 48029
@@ -611,9 +611,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 119770,
+          "confirmed": 121060,
           "date": "2020-12-26",
-          "deaths": 2658,
+          "deaths": 2682,
           "recovered": 78000
         }
       }
@@ -645,10 +645,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 118421,
+      "confirmed": 118659,
       "date": "2020-12-26",
-      "deaths": 3060,
-      "recovered": 55433
+      "deaths": 3061,
+      "recovered": 55587
     }
   },
   "Hungary": {
@@ -985,10 +985,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 196056,
+      "confirmed": 196216,
       "date": "2020-12-26",
-      "deaths": 2682,
-      "recovered": 170442
+      "deaths": 2685,
+      "recovered": 170515
     }
   },
   "Kenya": {
