@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 171669,
+          "confirmed": 171882,
           "date": "2020-12-26",
-          "deaths": 4325,
-          "recovered": 149312
+          "deaths": 4327,
+          "recovered": 149532
         }
       },
       "Quebec": {
@@ -529,10 +529,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 121880,
+      "confirmed": 122413,
       "date": "2020-12-26",
-      "deaths": 1897,
-      "recovered": 107599
+      "deaths": 1901,
+      "recovered": 108269
     }
   },
   "France": {
@@ -873,10 +873,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 398015,
+      "confirmed": 398664,
       "date": "2020-12-26",
-      "deaths": 3203,
-      "recovered": 359817
+      "deaths": 3210,
+      "recovered": 359984
     }
   },
   "Italy": {
@@ -1169,10 +1169,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 80896,
+      "confirmed": 81425,
       "date": "2020-12-26",
-      "deaths": 2401,
-      "recovered": 58182
+      "deaths": 2427,
+      "recovered": 58720
     }
   },
   "Oman": {
@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 983359,
+      "confirmed": 994911,
       "date": "2020-12-26",
-      "deaths": 26276,
-      "recovered": 830251
+      "deaths": 26521,
+      "recovered": 839194
     }
   },
   "Spain": {
@@ -1493,10 +1493,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 128578,
+      "confirmed": 130230,
       "date": "2020-12-26",
-      "deaths": 4385,
-      "recovered": 98426
+      "deaths": 4426,
+      "recovered": 99514
     }
   },
   "Turkey": {
@@ -1519,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1561143,
+          "confirmed": 1561272,
           "date": "2020-12-26",
           "deaths": 18393,
           "recovered": 0
@@ -1543,9 +1543,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 107603,
+          "confirmed": 108359,
           "date": "2020-12-26",
-          "deaths": 1365,
+          "deaths": 1369,
           "recovered": 0
         }
       },
@@ -1681,7 +1681,7 @@
         "live": {
           "confirmed": 744422,
           "date": "2020-12-26",
-          "deaths": 9903,
+          "deaths": 9910,
           "recovered": 0
         }
       },
