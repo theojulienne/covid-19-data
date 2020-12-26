@@ -1017,10 +1017,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 80025,
+      "confirmed": 80182,
       "date": "2020-12-26",
-      "deaths": 1340,
-      "recovered": 74177
+      "deaths": 1344,
+      "recovered": 74477
     }
   },
   "Lebanon": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1541713,
+          "confirmed": 1545324,
           "date": "2020-12-26",
-          "deaths": 18301,
+          "deaths": 18321,
           "recovered": 0
         }
       },
@@ -1809,10 +1809,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 76568,
+      "confirmed": 76666,
       "date": "2020-12-26",
       "deaths": 612,
-      "recovered": 73911
+      "recovered": 74093
     }
   },
   "Venezuela": {
