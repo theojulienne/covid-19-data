@@ -849,10 +849,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1189203,
+      "confirmed": 1194963,
       "date": "2020-12-26",
-      "deaths": 54440,
-      "recovered": 933736
+      "deaths": 54574,
+      "recovered": 942548
     }
   },
   "Iraq": {
@@ -970,7 +970,7 @@
           "confirmed": 55919,
           "date": "2020-12-26",
           "deaths": 552,
-          "recovered": 47172
+          "recovered": 47751
         }
       }
     }
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 612373,
+      "confirmed": 613760,
       "date": "2020-12-26",
-      "deaths": 15023,
-      "recovered": 530308
+      "deaths": 15108,
+      "recovered": 536332
     }
   },
   "Russia": {
@@ -1679,7 +1679,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 744091,
+          "confirmed": 744422,
           "date": "2020-12-26",
           "deaths": 9903,
           "recovered": 0
