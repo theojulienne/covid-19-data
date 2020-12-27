@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 184922,
+      "confirmed": 186747,
       "date": "2020-12-27",
-      "deaths": 1376,
-      "recovered": 164538
+      "deaths": 1385,
+      "recovered": 166036
     }
   },
   "Belgium": {
@@ -587,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 102850,
+          "confirmed": 103059,
           "date": "2020-12-27",
-          "deaths": 1788,
+          "deaths": 1796,
           "recovered": 85140
         }
       },
@@ -603,9 +603,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 68758,
+          "confirmed": 69172,
           "date": "2020-12-27",
-          "deaths": 1257,
+          "deaths": 1272,
           "recovered": 48496
         }
       },
@@ -621,10 +621,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 54286,
+      "confirmed": 54401,
       "date": "2020-12-27",
       "deaths": 333,
-      "recovered": 53082
+      "recovered": 53180
     }
   },
   "Greece": {
@@ -993,10 +993,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 95843,
+      "confirmed": 95923,
       "date": "2020-12-27",
-      "deaths": 1655,
-      "recovered": 76998
+      "deaths": 1658,
+      "recovered": 77423
     }
   },
   "Korea, South": {
@@ -1109,10 +1109,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 257700,
+      "confirmed": 258181,
       "date": "2020-12-27",
-      "deaths": 1819,
-      "recovered": 249132
+      "deaths": 1825,
+      "recovered": 249863
     }
   },
   "Netherlands": {
@@ -1177,10 +1177,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 128290,
+      "confirmed": 128472,
       "date": "2020-12-27",
-      "deaths": 1491,
-      "recovered": 120441
+      "deaths": 1495,
+      "recovered": 120976
     }
   },
   "Pakistan": {
@@ -1265,10 +1265,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 142903,
+      "confirmed": 143062,
       "date": "2020-12-27",
       "deaths": 244,
-      "recovered": 140687
+      "recovered": 140866
     }
   },
   "Romania": {
@@ -1671,7 +1671,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 745888,
+          "confirmed": 746013,
           "date": "2020-12-27",
           "deaths": 9910,
           "recovered": 0
