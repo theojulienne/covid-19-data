@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 213192,
+      "confirmed": 214711,
       "date": "2020-12-27",
-      "deaths": 2454,
-      "recovered": 164500
+      "deaths": 2499,
+      "recovered": 168971
     }
   },
   "Bahrain": {
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 613760,
+      "confirmed": 615809,
       "date": "2020-12-27",
-      "deaths": 15108,
-      "recovered": 536332
+      "deaths": 15230,
+      "recovered": 540437
     }
   },
   "Russia": {
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 131904,
+      "confirmed": 133093,
       "date": "2020-12-27",
-      "deaths": 1281,
-      "recovered": 108118
+      "deaths": 1309,
+      "recovered": 109377
     }
   }
 }
