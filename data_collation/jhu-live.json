@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 994911,
+      "confirmed": 1004413,
       "date": "2020-12-27",
-      "deaths": 26521,
-      "recovered": 839194
+      "deaths": 26735,
+      "recovered": 844874
     }
   },
   "Spain": {
@@ -1493,10 +1493,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 130230,
+      "confirmed": 131592,
       "date": "2020-12-27",
-      "deaths": 4426,
-      "recovered": 99514
+      "deaths": 4466,
+      "recovered": 100207
     }
   },
   "Turkey": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1605142,
+          "confirmed": 1605301,
           "date": "2020-12-27",
-          "deaths": 18546,
+          "deaths": 18547,
           "recovered": 0
         }
       },
@@ -1695,7 +1695,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 89531,
+          "confirmed": 89838,
           "date": "2020-12-27",
           "deaths": 971,
           "recovered": 0
