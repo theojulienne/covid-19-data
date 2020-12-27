@@ -423,50 +423,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 252615,
+          "confirmed": 254482,
           "date": "2020-12-27",
-          "deaths": 4630,
-          "recovered": 232143
+          "deaths": 4662,
+          "recovered": 233897
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 90594,
+          "confirmed": 91202,
           "date": "2020-12-27",
-          "deaths": 3375,
-          "recovered": 83557
+          "deaths": 3385,
+          "recovered": 84259
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 447821,
+          "confirmed": 449799,
           "date": "2020-12-27",
-          "deaths": 9437,
-          "recovered": 401986
+          "deaths": 9479,
+          "recovered": 406471
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 63905,
+          "confirmed": 64308,
           "date": "2020-12-27",
-          "deaths": 1636,
-          "recovered": 58323
+          "deaths": 1652,
+          "recovered": 58807
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 64602,
+          "confirmed": 64987,
           "date": "2020-12-27",
-          "deaths": 2298,
-          "recovered": 57566
+          "deaths": 2312,
+          "recovered": 58048
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 131644,
+          "confirmed": 132781,
           "date": "2020-12-27",
-          "deaths": 4105,
-          "recovered": 118960
+          "deaths": 4138,
+          "recovered": 120178
         }
       }
     }
@@ -985,7 +985,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 196216,
+      "confirmed": 196992,
       "date": "2020-12-27",
       "deaths": 2685,
       "recovered": 170515
@@ -1028,7 +1028,7 @@
       "confirmed": 169472,
       "date": "2020-12-27",
       "deaths": 1379,
-      "recovered": 118947
+      "recovered": 120780
     }
   },
   "Libya": {
@@ -1061,7 +1061,7 @@
         "live": {
           "confirmed": 310843,
           "date": "2020-12-27",
-          "deaths": 16035,
+          "deaths": 16064,
           "recovered": 0
         }
       },
@@ -1069,7 +1069,7 @@
         "live": {
           "confirmed": 79837,
           "date": "2020-12-27",
-          "deaths": 5047,
+          "deaths": 5085,
           "recovered": 0
         }
       },
@@ -1077,7 +1077,7 @@
         "live": {
           "confirmed": 139895,
           "date": "2020-12-27",
-          "deaths": 18217,
+          "deaths": 18263,
           "recovered": 0
         }
       },
@@ -1085,7 +1085,7 @@
         "live": {
           "confirmed": 80064,
           "date": "2020-12-27",
-          "deaths": 5025,
+          "deaths": 5027,
           "recovered": 0
         }
       }
@@ -1221,10 +1221,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 103888,
+      "confirmed": 104162,
       "date": "2020-12-27",
-      "deaths": 2154,
-      "recovered": 75509
+      "deaths": 2174,
+      "recovered": 77359
     }
   },
   "Peru": {
@@ -1511,17 +1511,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 363771,
+          "confirmed": 368288,
           "date": "2020-12-27",
-          "deaths": 5875,
+          "deaths": 5889,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 1561272,
+          "confirmed": 1589680,
           "date": "2020-12-27",
-          "deaths": 18402,
+          "deaths": 18535,
           "recovered": 0
         }
       },
