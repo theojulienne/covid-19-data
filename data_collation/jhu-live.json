@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 172748,
+          "confirmed": 173495,
           "date": "2020-12-27",
-          "deaths": 4339,
-          "recovered": 150414
+          "deaths": 4340,
+          "recovered": 150878
         }
       },
       "Quebec": {
@@ -529,10 +529,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 122413,
+      "confirmed": 122864,
       "date": "2020-12-27",
-      "deaths": 1901,
-      "recovered": 108269
+      "deaths": 1909,
+      "recovered": 109293
     }
   },
   "France": {
@@ -873,10 +873,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 400099,
+      "confirmed": 401197,
       "date": "2020-12-27",
-      "deaths": 3222,
-      "recovered": 361318
+      "deaths": 3225,
+      "recovered": 363607
     }
   },
   "Italy": {
@@ -1025,10 +1025,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 169472,
+      "confirmed": 171226,
       "date": "2020-12-27",
-      "deaths": 1379,
-      "recovered": 120780
+      "deaths": 1394,
+      "recovered": 122547
     }
   },
   "Libya": {
@@ -1101,10 +1101,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 430562,
+      "confirmed": 432079,
       "date": "2020-12-27",
-      "deaths": 7204,
-      "recovered": 396095
+      "deaths": 7240,
+      "recovered": 398060
     }
   },
   "Nepal": {
@@ -1551,9 +1551,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 443238,
+          "confirmed": 445008,
           "date": "2020-12-27",
-          "deaths": 9045,
+          "deaths": 9105,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 84526,
+          "confirmed": 85143,
           "date": "2020-12-27",
-          "deaths": 1351,
+          "deaths": 1357,
           "recovered": 0
         }
       },
@@ -1617,15 +1617,15 @@
         "live": {
           "confirmed": 609512,
           "date": "2020-12-27",
-          "deaths": 29839,
+          "deaths": 29868,
           "recovered": 0
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 59704,
+          "confirmed": 60144,
           "date": "2020-12-27",
-          "deaths": 530,
+          "deaths": 540,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 55682,
+          "confirmed": 56086,
           "date": "2020-12-27",
-          "deaths": 419,
+          "deaths": 423,
           "recovered": 0
         }
       },

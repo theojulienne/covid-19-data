@@ -1258,19 +1258,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 119025,
-        "deaths": 1843,
-        "recovered": 100859
+        "confirmed": 119494,
+        "deaths": 1846,
+        "recovered": 102153
       },
       "back_2week": {
-        "confirmed": 115782,
-        "deaths": 1791,
-        "recovered": 91209
+        "confirmed": 116297,
+        "deaths": 1803,
+        "recovered": 92449
       },
       "latest": {
-        "confirmed": 121880,
-        "deaths": 1897,
-        "recovered": 107599
+        "confirmed": 122413,
+        "deaths": 1901,
+        "recovered": 108269
       }
     },
     "FIN": {
@@ -2008,19 +2008,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 154944,
-        "deaths": 1259,
-        "recovered": 106712
+        "confirmed": 156570,
+        "deaths": 1270,
+        "recovered": 110535
       },
       "back_2week": {
-        "confirmed": 143705,
-        "deaths": 1182,
-        "recovered": 97647
+        "confirmed": 145245,
+        "deaths": 1190,
+        "recovered": 98584
       },
       "latest": {
-        "confirmed": 168069,
-        "deaths": 1367,
-        "recovered": 118947
+        "confirmed": 169472,
+        "deaths": 1379,
+        "recovered": 120780
       }
     },
     "LBR": {
@@ -2178,19 +2178,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 412393,
-        "deaths": 6854,
-        "recovered": 372725
+        "confirmed": 415226,
+        "deaths": 6909,
+        "recovered": 375623
       },
       "back_2week": {
-        "confirmed": 394564,
-        "deaths": 6542,
-        "recovered": 349821
+        "confirmed": 397597,
+        "deaths": 6589,
+        "recovered": 353098
       },
       "latest": {
-        "confirmed": 428193,
-        "deaths": 7170,
-        "recovered": 391920
+        "confirmed": 430562,
+        "deaths": 7204,
+        "recovered": 396095
       }
     },
     "MCO": {
