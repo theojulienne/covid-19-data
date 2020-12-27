@@ -571,10 +571,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 92992,
+          "confirmed": 93807,
           "date": "2020-12-27",
-          "deaths": 1128,
-          "recovered": 72771
+          "deaths": 1149,
+          "recovered": 72869
         }
       },
       "Hessen": {
@@ -865,9 +865,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 85394,
+      "confirmed": 86129,
       "date": "2020-12-27",
-      "deaths": 2200,
+      "deaths": 2204,
       "recovered": 23364
     }
   },
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1593894,
+          "confirmed": 1605142,
           "date": "2020-12-27",
-          "deaths": 18538,
+          "deaths": 18546,
           "recovered": 0
         }
       },
@@ -1535,9 +1535,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 703327,
+          "confirmed": 707156,
           "date": "2020-12-27",
-          "deaths": 10299,
+          "deaths": 10330,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 609512,
+          "confirmed": 614264,
           "date": "2020-12-27",
-          "deaths": 29868,
+          "deaths": 29884,
           "recovered": 0
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 146807,
+          "confirmed": 148356,
           "date": "2020-12-27",
           "deaths": 1574,
           "recovered": 0
@@ -1679,9 +1679,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 167604,
+          "confirmed": 168064,
           "date": "2020-12-27",
-          "deaths": 736,
+          "deaths": 738,
           "recovered": 0
         }
       },
