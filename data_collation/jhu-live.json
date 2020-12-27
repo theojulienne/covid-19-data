@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 157349,
+      "confirmed": 157834,
       "date": "2020-12-27",
-      "deaths": 2752,
-      "recovered": 138669
+      "deaths": 2768,
+      "recovered": 139113
     }
   },
   "Austria": {
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 667569,
+      "confirmed": 670599,
       "date": "2020-12-27",
       "deaths": 11044,
       "recovered": 565841
@@ -545,10 +545,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 220508,
+      "confirmed": 221605,
       "date": "2020-12-27",
-      "deaths": 2352,
-      "recovered": 200339
+      "deaths": 2377,
+      "recovered": 203547
     }
   },
   "Germany": {
@@ -565,7 +565,7 @@
         "live": {
           "confirmed": 311091,
           "date": "2020-12-27",
-          "deaths": 6213,
+          "deaths": 6217,
           "recovered": 241133
         }
       },
@@ -967,7 +967,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 55919,
+          "confirmed": 56627,
           "date": "2020-12-27",
           "deaths": 562,
           "recovered": 47751
@@ -1286,7 +1286,7 @@
           "confirmed": 779584,
           "date": "2020-12-27",
           "deaths": 10840,
-          "recovered": 599541
+          "recovered": 604604
         }
       },
       "Moscow Oblast": {
@@ -1294,7 +1294,7 @@
           "confirmed": 147473,
           "date": "2020-12-27",
           "deaths": 2792,
-          "recovered": 105263
+          "recovered": 106612
         }
       },
       "Nizhny Novgorod Oblast": {
@@ -1302,7 +1302,7 @@
           "confirmed": 67313,
           "date": "2020-12-27",
           "deaths": 1568,
-          "recovered": 59986
+          "recovered": 60406
         }
       },
       "Saint Petersburg": {
@@ -1310,7 +1310,7 @@
           "confirmed": 223336,
           "date": "2020-12-27",
           "deaths": 7304,
-          "recovered": 133111
+          "recovered": 136239
         }
       },
       "Sverdlovsk Oblast": {
@@ -1318,7 +1318,7 @@
           "confirmed": 56568,
           "date": "2020-12-27",
           "deaths": 1424,
-          "recovered": 48892
+          "recovered": 49303
         }
       }
     }
