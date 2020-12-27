@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 508099,
+      "confirmed": 509148,
       "date": "2020-12-27",
-      "deaths": 7428,
-      "recovered": 450488
+      "deaths": 7452,
+      "recovered": 451961
     }
   },
   "Belarus": {
@@ -481,10 +481,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 204312,
+      "confirmed": 204930,
       "date": "2020-12-27",
-      "deaths": 3613,
-      "recovered": 189055
+      "deaths": 3671,
+      "recovered": 191226
     }
   },
   "Czechia": {
@@ -849,10 +849,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1194963,
+      "confirmed": 1200465,
       "date": "2020-12-27",
-      "deaths": 54574,
-      "recovered": 942548
+      "deaths": 54693,
+      "recovered": 951860
     }
   },
   "Iraq": {
@@ -1049,10 +1049,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 103900,
+      "confirmed": 105096,
       "date": "2020-12-27",
-      "deaths": 451,
-      "recovered": 83414
+      "deaths": 452,
+      "recovered": 84411
     }
   },
   "Mexico": {
@@ -1357,10 +1357,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 114184,
+      "confirmed": 114798,
       "date": "2020-12-27",
-      "deaths": 2532,
-      "recovered": 92986
+      "deaths": 2565,
+      "recovered": 93787
     }
   },
   "South Africa": {
