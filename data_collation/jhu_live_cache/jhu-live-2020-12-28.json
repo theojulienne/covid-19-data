@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 153347,
+      "confirmed": 155826,
       "date": "2020-12-28",
-      "deaths": 1174,
-      "recovered": 111718
+      "deaths": 1204,
+      "recovered": 114841
     }
   },
   "Dominican Republic": {
@@ -563,9 +563,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 312972,
+          "confirmed": 312985,
           "date": "2020-12-28",
-          "deaths": 6268,
+          "deaths": 6266,
           "recovered": 244449
         }
       },
@@ -1119,41 +1119,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 83438,
+          "confirmed": 84632,
           "date": "2020-12-28",
-          "deaths": 1243,
+          "deaths": 1256,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 119932,
+          "confirmed": 121000,
           "date": "2020-12-28",
-          "deaths": 2328,
+          "deaths": 2334,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 131248,
+          "confirmed": 132393,
           "date": "2020-12-28",
-          "deaths": 1557,
+          "deaths": 1565,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 64401,
+          "confirmed": 64962,
           "date": "2020-12-28",
-          "deaths": 831,
+          "deaths": 834,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 195574,
+          "confirmed": 196944,
           "date": "2020-12-28",
-          "deaths": 2722,
+          "deaths": 2729,
           "recovered": 0
         }
       }
@@ -1231,9 +1231,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 445475,
+          "confirmed": 446519,
           "date": "2020-12-28",
-          "deaths": 16670,
+          "deaths": 16709,
           "recovered": 0
         }
       }
@@ -1325,17 +1325,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 362220,
+      "confirmed": 362339,
       "date": "2020-12-28",
-      "deaths": 6185,
-      "recovered": 353179
+      "deaths": 6196,
+      "recovered": 353353
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 326060,
+      "confirmed": 328619,
       "date": "2020-12-28",
-      "deaths": 3030,
+      "deaths": 3073,
       "recovered": 0
     }
   },
