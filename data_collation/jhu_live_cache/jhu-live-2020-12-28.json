@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 154349,
+      "confirmed": 154843,
       "date": "2020-12-28",
-      "deaths": 9093,
-      "recovered": 129969
+      "deaths": 9098,
+      "recovered": 130222
     }
   },
   "Bosnia and Herzegovina": {
@@ -390,7 +390,7 @@
           "confirmed": 192665,
           "date": "2020-12-28",
           "deaths": 8023,
-          "recovered": 156275
+          "recovered": 164163
         }
       }
     }
@@ -423,50 +423,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 254482,
+          "confirmed": 255845,
           "date": "2020-12-28",
-          "deaths": 4662,
-          "recovered": 233897
+          "deaths": 4683,
+          "recovered": 235776
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 91202,
+          "confirmed": 91749,
           "date": "2020-12-28",
-          "deaths": 3385,
-          "recovered": 84259
+          "deaths": 3395,
+          "recovered": 85019
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 449799,
+          "confirmed": 452940,
           "date": "2020-12-28",
-          "deaths": 9479,
-          "recovered": 406471
+          "deaths": 9529,
+          "recovered": 409088
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 64308,
+          "confirmed": 64803,
           "date": "2020-12-28",
-          "deaths": 1652,
-          "recovered": 58807
+          "deaths": 1664,
+          "recovered": 59327
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 64987,
+          "confirmed": 65278,
           "date": "2020-12-28",
-          "deaths": 2312,
-          "recovered": 58048
+          "deaths": 2328,
+          "recovered": 58559
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 132781,
+          "confirmed": 133536,
           "date": "2020-12-28",
-          "deaths": 4138,
-          "recovered": 120178
+          "deaths": 4162,
+          "recovered": 121281
         }
       }
     }
@@ -985,7 +985,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 197142,
+      "confirmed": 197875,
       "date": "2020-12-28",
       "deaths": 2686,
       "recovered": 171798
@@ -1001,10 +1001,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 56872,
+      "confirmed": 57680,
       "date": "2020-12-28",
-      "deaths": 808,
-      "recovered": 39040
+      "deaths": 819,
+      "recovered": 39268
     }
   },
   "Kuwait": {
@@ -1028,7 +1028,7 @@
       "confirmed": 171226,
       "date": "2020-12-28",
       "deaths": 1394,
-      "recovered": 122547
+      "recovered": 122657
     }
   },
   "Libya": {
@@ -1061,7 +1061,7 @@
         "live": {
           "confirmed": 312342,
           "date": "2020-12-28",
-          "deaths": 16064,
+          "deaths": 16143,
           "recovered": 0
         }
       },
@@ -1069,7 +1069,7 @@
         "live": {
           "confirmed": 80161,
           "date": "2020-12-28",
-          "deaths": 5085,
+          "deaths": 5114,
           "recovered": 0
         }
       },
@@ -1077,7 +1077,7 @@
         "live": {
           "confirmed": 140641,
           "date": "2020-12-28",
-          "deaths": 18263,
+          "deaths": 18338,
           "recovered": 0
         }
       },
@@ -1085,7 +1085,7 @@
         "live": {
           "confirmed": 80222,
           "date": "2020-12-28",
-          "deaths": 5027,
+          "deaths": 5029,
           "recovered": 0
         }
       }
@@ -1213,10 +1213,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 228724,
+      "confirmed": 231357,
       "date": "2020-12-28",
-      "deaths": 3799,
-      "recovered": 183522
+      "deaths": 3840,
+      "recovered": 185966
     }
   },
   "Paraguay": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1606090,
+          "confirmed": 1621592,
           "date": "2020-12-28",
-          "deaths": 18547,
+          "deaths": 18588,
           "recovered": 0
         }
       },
@@ -1671,7 +1671,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 758351,
+          "confirmed": 763776,
           "date": "2020-12-28",
           "deaths": 9929,
           "recovered": 0
@@ -1809,10 +1809,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 111951,
+      "confirmed": 112316,
       "date": "2020-12-28",
-      "deaths": 1013,
-      "recovered": 106105
+      "deaths": 1014,
+      "recovered": 106453
     }
   },
   "West Bank and Gaza": {
