@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 91733,
+      "confirmed": 91935,
       "date": "2020-12-28",
       "deaths": 351,
-      "recovered": 89456
+      "recovered": 89643
     }
   },
   "Bangladesh": {
@@ -186,7 +186,7 @@
           "confirmed": 248543,
           "date": "2020-12-28",
           "deaths": 4201,
-          "recovered": 238553
+          "recovered": 239152
         }
       },
       "Espirito Santo": {
@@ -202,7 +202,7 @@
           "confirmed": 304462,
           "date": "2020-12-28",
           "deaths": 6752,
-          "recovered": 294913
+          "recovered": 295425
         }
       },
       "Maranhao": {
@@ -242,7 +242,7 @@
           "confirmed": 290326,
           "date": "2020-12-28",
           "deaths": 7130,
-          "recovered": 272030
+          "recovered": 272998
         }
       },
       "Paraiba": {
@@ -306,7 +306,7 @@
           "confirmed": 92775,
           "date": "2020-12-28",
           "deaths": 1747,
-          "recovered": 79517
+          "recovered": 79957
         }
       },
       "Roraima": {
@@ -322,7 +322,7 @@
           "confirmed": 479947,
           "date": "2020-12-28",
           "deaths": 5039,
-          "recovered": 454245
+          "recovered": 456350
         }
       },
       "Sao Paulo": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 176643,
+          "confirmed": 176814,
           "date": "2020-12-28",
-          "deaths": 4420,
-          "recovered": 154206
+          "deaths": 4424,
+          "recovered": 154392
         }
       },
       "Quebec": {
@@ -1519,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1633924,
+          "confirmed": 1634906,
           "date": "2020-12-28",
           "deaths": 18633,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 126227,
+          "confirmed": 180477,
           "date": "2020-12-28",
-          "deaths": 4326,
+          "deaths": 5696,
           "recovered": 0
         }
       },
@@ -1751,14 +1751,6 @@
           "date": "2020-12-28",
           "deaths": 1005,
           "recovered": 38403
-        }
-      },
-      "Zaporizhia Oblast": {
-        "live": {
-          "confirmed": 52175,
-          "date": "2020-12-28",
-          "deaths": 530,
-          "recovered": 18092
         }
       }
     }
