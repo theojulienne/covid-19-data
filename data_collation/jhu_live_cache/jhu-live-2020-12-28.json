@@ -555,17 +555,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 228893,
+          "confirmed": 230029,
           "date": "2020-12-28",
-          "deaths": 4438,
+          "deaths": 4486,
           "recovered": 173953
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 311091,
+          "confirmed": 312972,
           "date": "2020-12-28",
-          "deaths": 6217,
+          "deaths": 6265,
           "recovered": 244449
         }
       },
@@ -579,31 +579,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 131434,
+          "confirmed": 131804,
           "date": "2020-12-28",
-          "deaths": 2484,
+          "deaths": 2511,
           "recovered": 101234
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 103059,
+          "confirmed": 103244,
           "date": "2020-12-28",
-          "deaths": 1796,
+          "deaths": 1802,
           "recovered": 86211
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 378105,
+          "confirmed": 380487,
           "date": "2020-12-28",
-          "deaths": 5964,
+          "deaths": 6066,
           "recovered": 303674
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 69172,
+          "confirmed": 69197,
           "date": "2020-12-28",
           "deaths": 1272,
           "recovered": 49297
@@ -613,7 +613,7 @@
         "live": {
           "confirmed": 124256,
           "date": "2020-12-28",
-          "deaths": 2721,
+          "deaths": 2733,
           "recovered": 84900
         }
       }
@@ -1511,9 +1511,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 368288,
+          "confirmed": 368622,
           "date": "2020-12-28",
-          "deaths": 5889,
+          "deaths": 5890,
           "recovered": 0
         }
       },
