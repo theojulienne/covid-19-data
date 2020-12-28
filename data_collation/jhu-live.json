@@ -154,7 +154,7 @@
           "confirmed": 66724,
           "date": "2020-12-28",
           "deaths": 901,
-          "recovered": 52074
+          "recovered": 52126
         }
       },
       "Amazonas": {
@@ -170,7 +170,7 @@
           "confirmed": 483737,
           "date": "2020-12-28",
           "deaths": 9011,
-          "recovered": 468404
+          "recovered": 469734
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 239032,
           "date": "2020-12-28",
           "deaths": 4940,
-          "recovered": 219185
+          "recovered": 222312
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 175616,
           "date": "2020-12-28",
           "deaths": 4397,
-          "recovered": 166798
+          "recovered": 167368
         }
       },
       "Mato Grosso do Sul": {
@@ -290,7 +290,7 @@
           "confirmed": 431603,
           "date": "2020-12-28",
           "deaths": 8492,
-          "recovered": 408306
+          "recovered": 408640
         }
       },
       "Rio de Janeiro": {
@@ -330,7 +330,7 @@
           "confirmed": 1426176,
           "date": "2020-12-28",
           "deaths": 45863,
-          "recovered": 1260722
+          "recovered": 1270469
         }
       },
       "Sergipe": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 174477,
+          "confirmed": 176643,
           "date": "2020-12-28",
           "deaths": 4420,
-          "recovered": 154202
+          "recovered": 154206
         }
       },
       "Quebec": {
@@ -873,10 +873,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 406456,
+      "confirmed": 407285,
       "date": "2020-12-28",
-      "deaths": 3247,
-      "recovered": 366322
+      "deaths": 3256,
+      "recovered": 366520
     }
   },
   "Italy": {
@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1004413,
+      "confirmed": 1011871,
       "date": "2020-12-28",
-      "deaths": 26735,
-      "recovered": 844874
+      "deaths": 27071,
+      "recovered": 849974
     }
   },
   "Spain": {
@@ -1519,17 +1519,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 1631111,
+          "confirmed": 1633924,
           "date": "2020-12-28",
-          "deaths": 18592,
+          "deaths": 18633,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 53101,
+          "confirmed": 55037,
           "date": "2020-12-28",
-          "deaths": 1669,
+          "deaths": 1697,
           "recovered": 0
         }
       },
@@ -1543,7 +1543,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 108882,
+          "confirmed": 109720,
           "date": "2020-12-28",
           "deaths": 1369,
           "recovered": 0
@@ -1663,9 +1663,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 123701,
+          "confirmed": 124350,
           "date": "2020-12-28",
-          "deaths": 1388,
+          "deaths": 1408,
           "recovered": 0
         }
       },

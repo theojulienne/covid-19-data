@@ -3411,10 +3411,10 @@
         "tested": 185396049
       },
       "latest": {
-        "confirmed": 18673382,
-        "deaths": 321823,
+        "confirmed": 18675524,
+        "deaths": 321851,
         "recovered": 7402437,
-        "tested": 206586576
+        "tested": 206594754
       },
       "states": {
         "AK": {
@@ -3676,11 +3676,11 @@
           "tested": 3826249
         },
         "RI": {
-          "confirmed": 82066,
-          "deaths": 1704,
+          "confirmed": 84208,
+          "deaths": 1732,
           "hospitalized": 6131,
           "recovered": 5041,
-          "tested": 613839
+          "tested": 622017
         },
         "SC": {
           "confirmed": 288892,
@@ -3897,19 +3897,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 912477,
-        "deaths": 24539,
-        "recovered": 787782
+        "confirmed": 921922,
+        "deaths": 24691,
+        "recovered": 793914
       },
       "back_2week": {
-        "confirmed": 852965,
-        "deaths": 23106,
-        "recovered": 760118
+        "confirmed": 860964,
+        "deaths": 23276,
+        "recovered": 761011
       },
       "latest": {
-        "confirmed": 994911,
-        "deaths": 26521,
-        "recovered": 839194
+        "confirmed": 1004413,
+        "deaths": 26735,
+        "recovered": 844874
       }
     },
     "ZMB": {
