@@ -571,10 +571,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 93807,
+          "confirmed": 94453,
           "date": "2020-12-28",
-          "deaths": 1149,
-          "recovered": 73754
+          "deaths": 1172,
+          "recovered": 73919
         }
       },
       "Hessen": {
@@ -603,18 +603,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 69197,
+          "confirmed": 69998,
           "date": "2020-12-28",
-          "deaths": 1272,
+          "deaths": 1328,
           "recovered": 49297
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 124256,
+          "confirmed": 125973,
           "date": "2020-12-28",
-          "deaths": 2733,
-          "recovered": 84900
+          "deaths": 2811,
+          "recovered": 87700
         }
       }
     }
@@ -865,9 +865,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 86129,
+      "confirmed": 86894,
       "date": "2020-12-28",
-      "deaths": 2204,
+      "deaths": 2205,
       "recovered": 23364
     }
   },
@@ -1519,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1622972,
+          "confirmed": 1631111,
           "date": "2020-12-28",
           "deaths": 18592,
           "recovered": 0
@@ -1535,9 +1535,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 707156,
+          "confirmed": 711678,
           "date": "2020-12-28",
-          "deaths": 10330,
+          "deaths": 10367,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 148356,
+          "confirmed": 149343,
           "date": "2020-12-28",
-          "deaths": 1574,
+          "deaths": 1583,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 89887,
+          "confirmed": 91429,
           "date": "2020-12-28",
-          "deaths": 2356,
+          "deaths": 2369,
           "recovered": 0
         }
       },
