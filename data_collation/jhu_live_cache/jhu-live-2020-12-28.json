@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 509148,
+      "confirmed": 510080,
       "date": "2020-12-28",
-      "deaths": 7452,
-      "recovered": 451961
+      "deaths": 7479,
+      "recovered": 453318
     }
   },
   "Belarus": {
@@ -587,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 103244,
+          "confirmed": 103425,
           "date": "2020-12-28",
-          "deaths": 1802,
+          "deaths": 1804,
           "recovered": 86211
         }
       },
@@ -849,10 +849,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1200465,
+      "confirmed": 1206373,
       "date": "2020-12-28",
-      "deaths": 54693,
-      "recovered": 951860
+      "deaths": 54814,
+      "recovered": 960751
     }
   },
   "Iraq": {
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 615809,
+      "confirmed": 618429,
       "date": "2020-12-28",
-      "deaths": 15230,
-      "recovered": 540437
+      "deaths": 15334,
+      "recovered": 543341
     }
   },
   "Russia": {
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 133093,
+      "confirmed": 134310,
       "date": "2020-12-28",
-      "deaths": 1309,
-      "recovered": 109377
+      "deaths": 1332,
+      "recovered": 110927
     }
   }
 }
