@@ -857,10 +857,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 591597,
+      "confirmed": 592528,
       "date": "2020-12-28",
-      "deaths": 12780,
-      "recovered": 531803
+      "deaths": 12791,
+      "recovered": 533314
     }
   },
   "Ireland": {
@@ -967,9 +967,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 56627,
+          "confirmed": 57108,
           "date": "2020-12-28",
-          "deaths": 562,
+          "deaths": 568,
           "recovered": 48442
         }
       }
@@ -1485,9 +1485,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 428197,
+      "confirmed": 438284,
       "date": "2020-12-28",
-      "deaths": 7210,
+      "deaths": 7283,
       "recovered": 317600
     }
   },
