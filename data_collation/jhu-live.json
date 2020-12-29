@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 674340,
+      "confirmed": 685202,
       "date": "2020-12-29",
       "deaths": 11302,
       "recovered": 576499
@@ -545,10 +545,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 222143,
+      "confirmed": 224155,
       "date": "2020-12-29",
-      "deaths": 2418,
-      "recovered": 206313
+      "deaths": 2443,
+      "recovered": 208951
     }
   },
   "Germany": {
@@ -653,10 +653,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 316669,
+      "confirmed": 317571,
       "date": "2020-12-29",
-      "deaths": 9161,
-      "recovered": 134344
+      "deaths": 9292,
+      "recovered": 138365
     }
   },
   "India": {
@@ -967,7 +967,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 57108,
+          "confirmed": 57964,
           "date": "2020-12-29",
           "deaths": 568,
           "recovered": 48442
@@ -1283,42 +1283,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 792457,
+          "confirmed": 798098,
           "date": "2020-12-29",
-          "deaths": 10989,
-          "recovered": 609770
+          "deaths": 11064,
+          "recovered": 615396
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 150688,
+          "confirmed": 152235,
           "date": "2020-12-29",
-          "deaths": 2832,
-          "recovered": 107962
+          "deaths": 2856,
+          "recovered": 109363
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 68314,
+          "confirmed": 68811,
           "date": "2020-12-29",
-          "deaths": 1600,
-          "recovered": 60865
+          "deaths": 1614,
+          "recovered": 61330
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 230845,
+          "confirmed": 234602,
           "date": "2020-12-29",
-          "deaths": 7453,
-          "recovered": 138487
+          "deaths": 7532,
+          "recovered": 140596
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 57381,
+          "confirmed": 57782,
           "date": "2020-12-29",
-          "deaths": 1457,
-          "recovered": 49710
+          "deaths": 1474,
+          "recovered": 50115
         }
       }
     }
