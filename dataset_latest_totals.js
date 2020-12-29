@@ -401,19 +401,19 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 105524,
-        "deaths": 3625,
-        "recovered": 70620
+        "confirmed": 106222,
+        "deaths": 3706,
+        "recovered": 71548
       },
       "back_2week": {
-        "confirmed": 101117,
-        "deaths": 3336,
-        "recovered": 65758
+        "confirmed": 101461,
+        "deaths": 3391,
+        "recovered": 66486
       },
       "latest": {
-        "confirmed": 109691,
-        "deaths": 3953,
-        "recovered": 75717
+        "confirmed": 109911,
+        "deaths": 3942,
+        "recovered": 76121
       }
     },
     "BLR": {
@@ -1566,18 +1566,18 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 131072,
-        "deaths": 4172,
+        "confirmed": 131597,
+        "deaths": 4257,
         "recovered": 93764
       },
       "back_2week": {
-        "confirmed": 124534,
-        "deaths": 3625,
+        "confirmed": 125173,
+        "deaths": 3687,
         "recovered": 93764
       },
       "latest": {
-        "confirmed": 135456,
-        "deaths": 4606,
+        "confirmed": 135931,
+        "deaths": 4672,
         "recovered": 93764
       }
     },
@@ -1600,19 +1600,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 132765,
-        "deaths": 4656,
-        "recovered": 120994
+        "confirmed": 132867,
+        "deaths": 4688,
+        "recovered": 121337
       },
       "back_2week": {
-        "confirmed": 129282,
-        "deaths": 4423,
-        "recovered": 117923
+        "confirmed": 129405,
+        "deaths": 4445,
+        "recovered": 118217
       },
       "latest": {
-        "confirmed": 135309,
-        "deaths": 4768,
-        "recovered": 124267
+        "confirmed": 135441,
+        "deaths": 4773,
+        "recovered": 124604
       }
     },
     "GUY": {
@@ -2212,19 +2212,19 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 135207,
-        "deaths": 2752,
-        "recovered": 118635
+        "confirmed": 135910,
+        "deaths": 2777,
+        "recovered": 120015
       },
       "back_2week": {
-        "confirmed": 126518,
-        "deaths": 2572,
-        "recovered": 108901
+        "confirmed": 127253,
+        "deaths": 2598,
+        "recovered": 110179
       },
       "latest": {
-        "confirmed": 141355,
-        "deaths": 2891,
-        "recovered": 127404
+        "confirmed": 141924,
+        "deaths": 2909,
+        "recovered": 127813
       }
     },
     "MDG": {
