@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 510080,
+      "confirmed": 511261,
       "date": "2020-12-29",
-      "deaths": 7479,
-      "recovered": 453318
+      "deaths": 7509,
+      "recovered": 454563
     }
   },
   "Belarus": {
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 618429,
+      "confirmed": 623066,
       "date": "2020-12-29",
-      "deaths": 15334,
-      "recovered": 543341
+      "deaths": 15469,
+      "recovered": 549262
     }
   },
   "Russia": {
@@ -1357,10 +1357,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 115327,
+      "confirmed": 117284,
       "date": "2020-12-29",
-      "deaths": 2595,
-      "recovered": 94191
+      "deaths": 2631,
+      "recovered": 95688
     }
   },
   "South Africa": {
