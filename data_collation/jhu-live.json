@@ -146,7 +146,7 @@
           "confirmed": 103748,
           "date": "2020-12-29",
           "deaths": 2468,
-          "recovered": 98996
+          "recovered": 99183
         }
       },
       "Amapa": {
@@ -170,7 +170,7 @@
           "confirmed": 484485,
           "date": "2020-12-29",
           "deaths": 9041,
-          "recovered": 469734
+          "recovered": 472868
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 129484,
           "date": "2020-12-29",
           "deaths": 2245,
-          "recovered": 114020
+          "recovered": 114563
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 524658,
           "date": "2020-12-29",
           "deaths": 11605,
-          "recovered": 473047
+          "recovered": 479188
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 432241,
           "date": "2020-12-29",
           "deaths": 8536,
-          "recovered": 408640
+          "recovered": 411432
         }
       },
       "Rio de Janeiro": {
@@ -346,7 +346,7 @@
           "confirmed": 89410,
           "date": "2020-12-29",
           "deaths": 1226,
-          "recovered": 79815
+          "recovered": 80284
         }
       }
     }
@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2559575,
+      "confirmed": 2570767,
       "date": "2020-12-29",
-      "deaths": 62745,
-      "recovered": 166927
+      "deaths": 63713,
+      "recovered": 168011
     }
   },
   "Georgia": {
@@ -555,9 +555,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 231686,
+          "confirmed": 234481,
           "date": "2020-12-29",
-          "deaths": 4587,
+          "deaths": 4694,
           "recovered": 176933
         }
       },
@@ -571,10 +571,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 94453,
+          "confirmed": 95740,
           "date": "2020-12-29",
-          "deaths": 1172,
-          "recovered": 74744
+          "deaths": 1213,
+          "recovered": 75069
         }
       },
       "Hessen": {
@@ -603,10 +603,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 70024,
+          "confirmed": 70725,
           "date": "2020-12-29",
-          "deaths": 1328,
-          "recovered": 50212
+          "deaths": 1378,
+          "recovered": 50684
         }
       },
       "Sachsen": {
@@ -865,9 +865,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 86894,
+      "confirmed": 88439,
       "date": "2020-12-29",
-      "deaths": 2205,
+      "deaths": 2213,
       "recovered": 23364
     }
   },
@@ -1519,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1653273,
+          "confirmed": 1659415,
           "date": "2020-12-29",
           "deaths": 18748,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 149343,
+          "confirmed": 150937,
           "date": "2020-12-29",
-          "deaths": 1583,
+          "deaths": 1585,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 91429,
+          "confirmed": 92354,
           "date": "2020-12-29",
-          "deaths": 2369,
+          "deaths": 2407,
           "recovered": 0
         }
       },
