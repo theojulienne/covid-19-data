@@ -645,10 +645,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 119713,
+      "confirmed": 120103,
       "date": "2020-12-29",
-      "deaths": 3066,
-      "recovered": 55959
+      "deaths": 3088,
+      "recovered": 56463
     }
   },
   "Hungary": {
@@ -841,10 +841,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 719219,
+      "confirmed": 727122,
       "date": "2020-12-29",
-      "deaths": 21452,
-      "recovered": 589978
+      "deaths": 21703,
+      "recovered": 596783
     }
   },
   "Iran": {
@@ -970,7 +970,7 @@
           "confirmed": 57964,
           "date": "2020-12-29",
           "deaths": 568,
-          "recovered": 48442
+          "recovered": 48932
         }
       }
     }
@@ -1241,10 +1241,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 470650,
+      "confirmed": 471526,
       "date": "2020-12-29",
-      "deaths": 9124,
-      "recovered": 438780
+      "deaths": 9162,
+      "recovered": 439016
     }
   },
   "Poland": {
@@ -1341,7 +1341,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58529,
+      "confirmed": 58542,
       "date": "2020-12-29",
       "deaths": 29,
       "recovered": 58386
