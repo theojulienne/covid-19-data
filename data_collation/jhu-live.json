@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 178925,
+          "confirmed": 178942,
           "date": "2020-12-29",
           "deaths": 4461,
-          "recovered": 156379
+          "recovered": 156431
         }
       },
       "Quebec": {
@@ -473,10 +473,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 165762,
+      "confirmed": 166799,
       "date": "2020-12-29",
-      "deaths": 2144,
-      "recovered": 130289
+      "deaths": 2156,
+      "recovered": 130989
     }
   },
   "Croatia": {
@@ -1169,10 +1169,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 81804,
+      "confirmed": 82301,
       "date": "2020-12-29",
-      "deaths": 2456,
-      "recovered": 59650
+      "deaths": 2473,
+      "recovered": 60256
     }
   },
   "Oman": {
@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1011871,
+      "confirmed": 1021451,
       "date": "2020-12-29",
-      "deaths": 27071,
-      "recovered": 849974
+      "deaths": 27568,
+      "recovered": 858456
     }
   },
   "Spain": {
@@ -1583,9 +1583,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 144048,
+          "confirmed": 145176,
           "date": "2020-12-29",
-          "deaths": 5189,
+          "deaths": 5248,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 619980,
+          "confirmed": 626783,
           "date": "2020-12-29",
-          "deaths": 29975,
+          "deaths": 29999,
           "recovered": 0
         }
       },
@@ -1695,9 +1695,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 90070,
+          "confirmed": 90470,
           "date": "2020-12-29",
-          "deaths": 971,
+          "deaths": 995,
           "recovered": 0
         }
       }
