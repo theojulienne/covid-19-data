@@ -587,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 103750,
+          "confirmed": 104262,
           "date": "2020-12-29",
-          "deaths": 1851,
+          "deaths": 1884,
           "recovered": 87411
         }
       },
@@ -873,10 +873,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 408990,
+      "confirmed": 409338,
       "date": "2020-12-29",
-      "deaths": 3256,
-      "recovered": 367079
+      "deaths": 3257,
+      "recovered": 367082
     }
   },
   "Italy": {
@@ -987,7 +987,7 @@
     "live": {
       "confirmed": 198659,
       "date": "2020-12-29",
-      "deaths": 2689,
+      "deaths": 2755,
       "recovered": 173577
     }
   },
@@ -1033,10 +1033,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 98913,
+      "confirmed": 99350,
       "date": "2020-12-29",
-      "deaths": 1440,
-      "recovered": 69763
+      "deaths": 1444,
+      "recovered": 70412
     }
   },
   "Lithuania": {
@@ -1249,10 +1249,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1261010,
+      "confirmed": 1268634,
       "date": "2020-12-29",
-      "deaths": 27147,
-      "recovered": 1005376
+      "deaths": 27454,
+      "recovered": 1014005
     }
   },
   "Portugal": {
@@ -1349,10 +1349,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 168092,
+      "confirmed": 170187,
       "date": "2020-12-29",
-      "deaths": 1879,
-      "recovered": 120410
+      "deaths": 1983,
+      "recovered": 121760
     }
   },
   "Slovenia": {
