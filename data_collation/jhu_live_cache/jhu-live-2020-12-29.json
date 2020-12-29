@@ -178,7 +178,7 @@
           "confirmed": 328620,
           "date": "2020-12-29",
           "deaths": 9954,
-          "recovered": 266623
+          "recovered": 267008
         }
       },
       "Distrito Federal": {
@@ -314,7 +314,7 @@
           "confirmed": 68295,
           "date": "2020-12-29",
           "deaths": 773,
-          "recovered": 64516
+          "recovered": 65405
         }
       },
       "Santa Catarina": {
@@ -857,10 +857,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 592528,
+      "confirmed": 593541,
       "date": "2020-12-29",
-      "deaths": 12791,
-      "recovered": 533314
+      "deaths": 12800,
+      "recovered": 534801
     }
   },
   "Ireland": {
@@ -993,10 +993,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 95992,
+      "confirmed": 96139,
       "date": "2020-12-29",
-      "deaths": 1664,
-      "recovered": 77521
+      "deaths": 1665,
+      "recovered": 77659
     }
   },
   "Korea, South": {
@@ -1459,25 +1459,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 57185,
+          "confirmed": 64892,
           "date": "2020-12-29",
-          "deaths": 660,
+          "deaths": 666,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 110476,
+          "confirmed": 116574,
           "date": "2020-12-29",
-          "deaths": 3114,
+          "deaths": 3156,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 64588,
+          "confirmed": 70866,
           "date": "2020-12-29",
-          "deaths": 1148,
+          "deaths": 1197,
           "recovered": 0
         }
       }
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 134310,
+      "confirmed": 135459,
       "date": "2020-12-29",
-      "deaths": 1332,
-      "recovered": 110927
+      "deaths": 1351,
+      "recovered": 113082
     }
   }
 }
