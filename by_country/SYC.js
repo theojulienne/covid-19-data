@@ -687,9 +687,11 @@ var covid19_dataset_country_syc = {
       205,
       205,
       205,
-      205
+      205,
+      217
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1373,7 +1375,8 @@ var covid19_dataset_country_syc = {
       184,
       184,
       184,
-      184
+      184,
+      207
     ]
   }
 };

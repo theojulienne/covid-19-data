@@ -687,9 +687,11 @@ var covid19_dataset_country_tls = {
       41,
       41,
       41,
-      41
+      41,
+      44
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1371,6 +1373,7 @@ var covid19_dataset_country_tls = {
       31,
       31,
       31,
+      32,
       32,
       32,
       32

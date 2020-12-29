@@ -687,6 +687,7 @@ var covid19_dataset_country_gnq = {
       5236,
       5236,
       5236,
+      5248,
       5248
     ],
     "deaths": [
@@ -1030,6 +1031,7 @@ var covid19_dataset_country_gnq = {
       85,
       85,
       85,
+      86,
       86
     ],
     "recovered": [
@@ -1373,6 +1375,7 @@ var covid19_dataset_country_gnq = {
       5078,
       5078,
       5078,
+      5097,
       5097
     ]
   }
