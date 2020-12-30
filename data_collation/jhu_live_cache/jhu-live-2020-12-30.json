@@ -621,10 +621,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 54681,
+      "confirmed": 54771,
       "date": "2020-12-30",
       "deaths": 335,
-      "recovered": 53462
+      "recovered": 53594
     }
   },
   "Greece": {
@@ -1177,10 +1177,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 128633,
+      "confirmed": 128719,
       "date": "2020-12-30",
       "deaths": 1497,
-      "recovered": 121356
+      "recovered": 121614
     }
   },
   "Pakistan": {
@@ -1249,10 +1249,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1268634,
+      "confirmed": 1281414,
       "date": "2020-12-30",
-      "deaths": 27454,
-      "recovered": 1014005
+      "deaths": 28019,
+      "recovered": 1025889
     }
   },
   "Portugal": {
