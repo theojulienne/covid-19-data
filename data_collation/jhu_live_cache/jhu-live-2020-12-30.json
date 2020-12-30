@@ -537,10 +537,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2570767,
+      "confirmed": 2597124,
       "date": "2020-12-30",
-      "deaths": 63713,
-      "recovered": 168011
+      "deaths": 64016,
+      "recovered": 169250
     }
   },
   "Georgia": {
@@ -1169,10 +1169,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 82301,
+      "confirmed": 82794,
       "date": "2020-12-30",
-      "deaths": 2473,
-      "recovered": 60256
+      "deaths": 2488,
+      "recovered": 60706
     }
   },
   "Oman": {
@@ -1365,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1021451,
+      "confirmed": 1039161,
       "date": "2020-12-30",
-      "deaths": 27568,
-      "recovered": 858456
+      "deaths": 28033,
+      "recovered": 867597
     }
   },
   "Spain": {
@@ -1535,9 +1535,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 718495,
+          "confirmed": 725735,
           "date": "2020-12-30",
-          "deaths": 10388,
+          "deaths": 10432,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 61093,
+          "confirmed": 61990,
           "date": "2020-12-30",
-          "deaths": 545,
+          "deaths": 553,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 92354,
+          "confirmed": 92706,
           "date": "2020-12-30",
-          "deaths": 2407,
+          "deaths": 2437,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 170669,
+          "confirmed": 172049,
           "date": "2020-12-30",
-          "deaths": 749,
+          "deaths": 763,
           "recovered": 0
         }
       },
