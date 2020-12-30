@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 216584,
+      "confirmed": 217636,
       "date": "2020-12-30",
-      "deaths": 2575,
-      "recovered": 176228
+      "deaths": 2609,
+      "recovered": 180295
     }
   },
   "Bahrain": {
@@ -563,9 +563,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 318339,
+          "confirmed": 319232,
           "date": "2020-12-30",
-          "deaths": 6549,
+          "deaths": 6584,
           "recovered": 253015
         }
       },
@@ -857,10 +857,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 593541,
+      "confirmed": 594442,
       "date": "2020-12-30",
-      "deaths": 12800,
-      "recovered": 534801
+      "deaths": 12808,
+      "recovered": 536348
     }
   },
   "Ireland": {
@@ -993,10 +993,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 96139,
+      "confirmed": 96251,
       "date": "2020-12-30",
-      "deaths": 1665,
-      "recovered": 77659
+      "deaths": 1667,
+      "recovered": 78475
     }
   },
   "Korea, South": {
@@ -1119,41 +1119,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 85574,
+          "confirmed": 86967,
           "date": "2020-12-30",
-          "deaths": 1289,
+          "deaths": 1299,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 122040,
+          "confirmed": 123334,
           "date": "2020-12-30",
-          "deaths": 2356,
+          "deaths": 2369,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 133465,
+          "confirmed": 134953,
           "date": "2020-12-30",
-          "deaths": 1588,
+          "deaths": 1605,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 65482,
+          "confirmed": 66152,
           "date": "2020-12-30",
-          "deaths": 847,
+          "deaths": 857,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 198445,
+          "confirmed": 200391,
           "date": "2020-12-30",
-          "deaths": 2773,
+          "deaths": 2798,
           "recovered": 0
         }
       }
@@ -1325,10 +1325,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 362488,
+      "confirmed": 362601,
       "date": "2020-12-30",
-      "deaths": 6204,
-      "recovered": 353512
+      "deaths": 6214,
+      "recovered": 353682
     }
   },
   "Serbia": {
