@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1602163,
+      "confirmed": 1613928,
       "date": "2020-12-30",
-      "deaths": 43018,
-      "recovered": 1420885
+      "deaths": 43163,
+      "recovered": 1426676
     }
   },
   "Armenia": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 92169,
+      "confirmed": 92425,
       "date": "2020-12-30",
-      "deaths": 351,
-      "recovered": 89804
+      "deaths": 352,
+      "recovered": 90026
     }
   },
   "Bangladesh": {
@@ -178,7 +178,7 @@
           "confirmed": 330687,
           "date": "2020-12-30",
           "deaths": 9963,
-          "recovered": 268415
+          "recovered": 268457
         }
       },
       "Distrito Federal": {
@@ -202,7 +202,7 @@
           "confirmed": 306975,
           "date": "2020-12-30",
           "deaths": 6789,
-          "recovered": 297375
+          "recovered": 297599
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 177633,
           "date": "2020-12-30",
           "deaths": 4424,
-          "recovered": 168243
+          "recovered": 169095
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 291907,
           "date": "2020-12-30",
           "deaths": 7149,
-          "recovered": 273649
+          "recovered": 274564
         }
       },
       "Paraiba": {
@@ -322,7 +322,7 @@
           "confirmed": 485935,
           "date": "2020-12-30",
           "deaths": 5161,
-          "recovered": 459977
+          "recovered": 463863
         }
       },
       "Sao Paulo": {
@@ -1493,10 +1493,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 134802,
+      "confirmed": 137216,
       "date": "2020-12-30",
-      "deaths": 4570,
-      "recovered": 104401
+      "deaths": 4620,
+      "recovered": 104980
     }
   },
   "Turkey": {
@@ -1577,7 +1577,7 @@
         "live": {
           "confirmed": 129220,
           "date": "2020-12-30",
-          "deaths": 4360,
+          "deaths": 4401,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 636716,
+          "confirmed": 640466,
           "date": "2020-12-30",
-          "deaths": 29999,
+          "deaths": 30058,
           "recovered": 0
         }
       },
