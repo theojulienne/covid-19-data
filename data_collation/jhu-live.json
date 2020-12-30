@@ -178,7 +178,7 @@
           "confirmed": 330687,
           "date": "2020-12-30",
           "deaths": 9963,
-          "recovered": 267008
+          "recovered": 267510
         }
       },
       "Distrito Federal": {
@@ -274,7 +274,7 @@
           "confirmed": 141258,
           "date": "2020-12-30",
           "deaths": 2821,
-          "recovered": 138029
+          "recovered": 138698
         }
       },
       "Rio Grande do Norte": {
@@ -390,7 +390,7 @@
           "confirmed": 197311,
           "date": "2020-12-30",
           "deaths": 8124,
-          "recovered": 166066
+          "recovered": 168061
         }
       }
     }
@@ -985,10 +985,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 198659,
+      "confirmed": 199385,
       "date": "2020-12-30",
       "deaths": 2755,
-      "recovered": 173577
+      "recovered": 174624
     }
   },
   "Kenya": {
@@ -1059,33 +1059,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 315748,
+          "confirmed": 320251,
           "date": "2020-12-30",
-          "deaths": 16249,
+          "deaths": 16385,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 80911,
+          "confirmed": 81433,
           "date": "2020-12-30",
-          "deaths": 5148,
+          "deaths": 5198,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 141947,
+          "confirmed": 143488,
           "date": "2020-12-30",
-          "deaths": 18424,
+          "deaths": 18562,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 81001,
+          "confirmed": 81477,
           "date": "2020-12-30",
-          "deaths": 5031,
+          "deaths": 5078,
           "recovered": 0
         }
       }
@@ -1213,10 +1213,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 233705,
+      "confirmed": 238279,
       "date": "2020-12-30",
-      "deaths": 3892,
-      "recovered": 187552
+      "deaths": 3933,
+      "recovered": 189764
     }
   },
   "Paraguay": {
@@ -1511,17 +1511,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 377097,
+          "confirmed": 378921,
           "date": "2020-12-30",
-          "deaths": 5931,
+          "deaths": 6050,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 1664799,
+          "confirmed": 1678562,
           "date": "2020-12-30",
-          "deaths": 18844,
+          "deaths": 19093,
           "recovered": 0
         }
       },
@@ -1671,7 +1671,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 777960,
+          "confirmed": 780061,
           "date": "2020-12-30",
           "deaths": 10008,
           "recovered": 0
@@ -1687,9 +1687,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 61148,
+          "confirmed": 61455,
           "date": "2020-12-30",
-          "deaths": 977,
+          "deaths": 1022,
           "recovered": 0
         }
       },
