@@ -146,7 +146,7 @@
           "confirmed": 104119,
           "date": "2020-12-30",
           "deaths": 2475,
-          "recovered": 99183
+          "recovered": 99336
         }
       },
       "Amapa": {
@@ -194,7 +194,7 @@
           "confirmed": 244057,
           "date": "2020-12-30",
           "deaths": 5030,
-          "recovered": 224547
+          "recovered": 226910
         }
       },
       "Goias": {
@@ -250,7 +250,7 @@
           "confirmed": 164416,
           "date": "2020-12-30",
           "deaths": 3647,
-          "recovered": 125377
+          "recovered": 126385
         }
       },
       "Parana": {
@@ -258,7 +258,7 @@
           "confirmed": 408731,
           "date": "2020-12-30",
           "deaths": 7810,
-          "recovered": 283316
+          "recovered": 302988
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 438458,
           "date": "2020-12-30",
           "deaths": 8680,
-          "recovered": 417064
+          "recovered": 419972
         }
       },
       "Rio de Janeiro": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 182625,
+          "confirmed": 183104,
           "date": "2020-12-30",
-          "deaths": 4493,
-          "recovered": 159220
+          "deaths": 4499,
+          "recovered": 159433
         }
       },
       "Quebec": {
@@ -1231,9 +1231,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 447145,
+          "confirmed": 447719,
           "date": "2020-12-30",
-          "deaths": 16730,
+          "deaths": 16745,
           "recovered": 0
         }
       }
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1687079,
+          "confirmed": 1689992,
           "date": "2020-12-30",
-          "deaths": 19129,
+          "deaths": 19137,
           "recovered": 0
         }
       },
@@ -1615,7 +1615,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 633022,
+          "confirmed": 636716,
           "date": "2020-12-30",
           "deaths": 29999,
           "recovered": 0
@@ -1663,9 +1663,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 124976,
+          "confirmed": 126764,
           "date": "2020-12-30",
-          "deaths": 1431,
+          "deaths": 1453,
           "recovered": 0
         }
       },
