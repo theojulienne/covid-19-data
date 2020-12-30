@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 355352,
+      "confirmed": 357902,
       "date": "2020-12-30",
-      "deaths": 6059,
-      "recovered": 328974
+      "deaths": 6149,
+      "recovered": 330990
     }
   },
   "Azerbaijan": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 158447,
+      "confirmed": 161230,
       "date": "2020-12-30",
-      "deaths": 1226,
-      "recovered": 118727
+      "deaths": 1256,
+      "recovered": 122954
     }
   },
   "Dominican Republic": {
@@ -1459,25 +1459,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 64892,
+          "confirmed": 66753,
           "date": "2020-12-30",
-          "deaths": 666,
+          "deaths": 667,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 116574,
+          "confirmed": 118357,
           "date": "2020-12-30",
-          "deaths": 3156,
+          "deaths": 3271,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 70866,
+          "confirmed": 71791,
           "date": "2020-12-30",
-          "deaths": 1197,
+          "deaths": 1257,
           "recovered": 0
         }
       }
