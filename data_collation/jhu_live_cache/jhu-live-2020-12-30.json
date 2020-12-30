@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 98988,
+      "confirmed": 99311,
       "date": "2020-12-30",
-      "deaths": 2745,
-      "recovered": 66550
+      "deaths": 2751,
+      "recovered": 66855
     }
   },
   "Argentina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 181009,
+          "confirmed": 181490,
           "date": "2020-12-30",
-          "deaths": 4484,
-          "recovered": 157956
+          "deaths": 4490,
+          "recovered": 158397
         }
       },
       "Quebec": {
@@ -513,9 +513,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 210326,
+      "confirmed": 211512,
       "date": "2020-12-30",
-      "deaths": 14001,
+      "deaths": 14023,
       "recovered": 184507
     }
   },
@@ -571,10 +571,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 95740,
+          "confirmed": 96799,
           "date": "2020-12-30",
-          "deaths": 1213,
-          "recovered": 75918
+          "deaths": 1247,
+          "recovered": 76250
         }
       },
       "Hessen": {
@@ -603,10 +603,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 70749,
+          "confirmed": 72025,
           "date": "2020-12-30",
-          "deaths": 1378,
-          "recovered": 51244
+          "deaths": 1428,
+          "recovered": 51259
         }
       },
       "Sachsen": {
@@ -1025,10 +1025,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 175118,
+      "confirmed": 177996,
       "date": "2020-12-30",
-      "deaths": 1430,
-      "recovered": 125473
+      "deaths": 1456,
+      "recovered": 126460
     }
   },
   "Libya": {
@@ -1501,10 +1501,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2178580,
+      "confirmed": 2194272,
       "date": "2020-12-30",
-      "deaths": 20388,
-      "recovered": 2058437
+      "deaths": 20642,
+      "recovered": 2078629
     }
   },
   "US": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1679905,
+          "confirmed": 1682032,
           "date": "2020-12-30",
-          "deaths": 19125,
+          "deaths": 19129,
           "recovered": 0
         }
       },
@@ -1591,17 +1591,17 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 85482,
+          "confirmed": 85878,
           "date": "2020-12-30",
-          "deaths": 1365,
+          "deaths": 1370,
           "recovered": 0
         }
       },
       "Missouri": {
         "live": {
-          "confirmed": 68226,
+          "confirmed": 68821,
           "date": "2020-12-30",
-          "deaths": 1356,
+          "deaths": 1384,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 56943,
+          "confirmed": 57401,
           "date": "2020-12-30",
-          "deaths": 432,
+          "deaths": 435,
           "recovered": 0
         }
       },
