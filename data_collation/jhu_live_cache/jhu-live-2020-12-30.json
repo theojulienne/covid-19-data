@@ -1809,10 +1809,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 112636,
+      "confirmed": 112861,
       "date": "2020-12-30",
-      "deaths": 1018,
-      "recovered": 106737
+      "deaths": 1021,
+      "recovered": 106958
     }
   },
   "West Bank and Gaza": {
