@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 57727,
+      "confirmed": 58316,
       "date": "2020-12-31",
-      "deaths": 1174,
-      "recovered": 33185
+      "deaths": 1181,
+      "recovered": 33634
     }
   },
   "Algeria": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 184376,
+          "confirmed": 184439,
           "date": "2020-12-31",
           "deaths": 4532,
-          "recovered": 160461
+          "recovered": 160514
         }
       },
       "Quebec": {
@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 211512,
+      "confirmed": 212512,
       "date": "2020-12-31",
-      "deaths": 14023,
+      "deaths": 14034,
       "recovered": 184507
     }
   },
@@ -857,9 +857,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 90157,
+      "confirmed": 91779,
       "date": "2020-12-31",
-      "deaths": 2226,
+      "deaths": 2237,
       "recovered": 23364
     }
   },
@@ -868,7 +868,7 @@
       "confirmed": 419943,
       "date": "2020-12-31",
       "deaths": 3318,
-      "recovered": 374139
+      "recovered": 376322
     }
   },
   "Italy": {
@@ -987,8 +987,8 @@
     "live": {
       "confirmed": 96458,
       "date": "2020-12-31",
-      "deaths": 1667,
-      "recovered": 78475
+      "deaths": 1670,
+      "recovered": 78737
     }
   },
   "Korea, South": {
@@ -1501,10 +1501,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2194272,
+      "confirmed": 2208652,
       "date": "2020-12-31",
-      "deaths": 20642,
-      "recovered": 2078629
+      "deaths": 20881,
+      "recovered": 2100650
     }
   },
   "US": {
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1705800,
+          "confirmed": 1706963,
           "date": "2020-12-31",
-          "deaths": 19480,
+          "deaths": 19483,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 69796,
+          "confirmed": 70610,
           "date": "2020-12-31",
-          "deaths": 1127,
+          "deaths": 1144,
           "recovered": 0
         }
       },
@@ -1593,15 +1593,15 @@
         "live": {
           "confirmed": 85878,
           "date": "2020-12-31",
-          "deaths": 1370,
+          "deaths": 1382,
           "recovered": 0
         }
       },
       "Missouri": {
         "live": {
-          "confirmed": 68821,
+          "confirmed": 69480,
           "date": "2020-12-31",
-          "deaths": 1384,
+          "deaths": 1391,
           "recovered": 0
         }
       },
