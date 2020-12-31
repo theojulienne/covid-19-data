@@ -991,19 +991,19 @@ var covid19_dataset_latest_totals = {
     },
     "CRI": {
       "back_1week": {
-        "confirmed": 160804,
-        "deaths": 2051,
-        "recovered": 127618
+        "confirmed": 161942,
+        "deaths": 2065,
+        "recovered": 128216
       },
       "back_2week": {
-        "confirmed": 154096,
-        "deaths": 1956,
-        "recovered": 121031
+        "confirmed": 155263,
+        "deaths": 1967,
+        "recovered": 122947
       },
       "latest": {
-        "confirmed": 166799,
-        "deaths": 2156,
-        "recovered": 130989
+        "confirmed": 168114,
+        "deaths": 2171,
+        "recovered": 131507
       }
     },
     "CUB": {
@@ -1600,19 +1600,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 133601,
-        "deaths": 4718,
-        "recovered": 121936
+        "confirmed": 134256,
+        "deaths": 4739,
+        "recovered": 122438
       },
       "back_2week": {
-        "confirmed": 130082,
-        "deaths": 4476,
-        "recovered": 118793
+        "confirmed": 130828,
+        "deaths": 4510,
+        "recovered": 119288
       },
       "latest": {
-        "confirmed": 136287,
-        "deaths": 4781,
-        "recovered": 125161
+        "confirmed": 137166,
+        "deaths": 4803,
+        "recovered": 125630
       }
     },
     "GUY": {
@@ -3897,19 +3897,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 940212,
-        "deaths": 25246,
-        "recovered": 808241
+        "confirmed": 954258,
+        "deaths": 25657,
+        "recovered": 811372
       },
       "back_2week": {
-        "confirmed": 873679,
-        "deaths": 23661,
-        "recovered": 764977
+        "confirmed": 883687,
+        "deaths": 23827,
+        "recovered": 774585
       },
       "latest": {
-        "confirmed": 1021451,
-        "deaths": 27568,
-        "recovered": 858456
+        "confirmed": 1039161,
+        "deaths": 28033,
+        "recovered": 867597
       }
     },
     "ZMB": {
