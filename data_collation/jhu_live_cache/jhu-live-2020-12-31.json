@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 156887,
+      "confirmed": 158372,
       "date": "2020-12-31",
-      "deaths": 9135,
-      "recovered": 130910
+      "deaths": 9149,
+      "recovered": 131579
     }
   },
   "Bosnia and Herzegovina": {
@@ -382,7 +382,7 @@
           "confirmed": 199822,
           "date": "2020-12-31",
           "deaths": 8165,
-          "recovered": 168061
+          "recovered": 170045
         }
       }
     }
@@ -977,7 +977,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 199555,
+      "confirmed": 200350,
       "date": "2020-12-31",
       "deaths": 2760,
       "recovered": 174713
@@ -993,10 +993,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 59773,
+      "confirmed": 60740,
       "date": "2020-12-31",
-      "deaths": 879,
-      "recovered": 41435
+      "deaths": 900,
+      "recovered": 42271
     }
   },
   "Kuwait": {
@@ -1051,33 +1051,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 320251,
+          "confirmed": 325364,
           "date": "2020-12-31",
-          "deaths": 16385,
+          "deaths": 16572,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 81433,
+          "confirmed": 81957,
           "date": "2020-12-31",
-          "deaths": 5198,
+          "deaths": 5262,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 143488,
+          "confirmed": 144923,
           "date": "2020-12-31",
-          "deaths": 18562,
+          "deaths": 18749,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 81477,
+          "confirmed": 82035,
           "date": "2020-12-31",
-          "deaths": 5078,
+          "deaths": 5142,
           "recovered": 0
         }
       }
@@ -1511,9 +1511,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1689992,
+          "confirmed": 1704052,
           "date": "2020-12-31",
-          "deaths": 19137,
+          "deaths": 19451,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 785875,
+          "confirmed": 787198,
           "date": "2020-12-31",
           "deaths": 10098,
           "recovered": 0
@@ -1679,9 +1679,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 61455,
+          "confirmed": 61710,
           "date": "2020-12-31",
-          "deaths": 1022,
+          "deaths": 1037,
           "recovered": 0
         }
       },
