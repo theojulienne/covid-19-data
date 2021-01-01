@@ -346,7 +346,8 @@ var covid19_dataset_country_nld = {
           5305,
           5323,
           5373,
-          5442
+          5442,
+          5489
         ],
         "deaths": [
           0,
@@ -687,6 +688,7 @@ var covid19_dataset_country_nld = {
           47,
           47,
           47,
+          49,
           49,
           49,
           49,
@@ -1038,7 +1040,8 @@ var covid19_dataset_country_nld = {
           5092,
           5110,
           5118,
-          5132
+          5132,
+          5149
         ]
       }
     },
@@ -1388,7 +1391,8 @@ var covid19_dataset_country_nld = {
           182,
           182,
           182,
-          186
+          186,
+          196
         ],
         "deaths": [
           0,
@@ -1660,6 +1664,7 @@ var covid19_dataset_country_nld = {
           2,
           2,
           2,
+          3,
           3,
           3,
           3,
@@ -2080,7 +2085,8 @@ var covid19_dataset_country_nld = {
           174,
           174,
           174,
-          178
+          178,
+          180
         ]
       }
     },
@@ -2430,7 +2436,8 @@ var covid19_dataset_country_nld = {
           4144,
           4151,
           4179,
-          4230
+          4230,
+          4260
         ],
         "deaths": [
           0,
@@ -2772,6 +2779,7 @@ var covid19_dataset_country_nld = {
           12,
           12,
           13,
+          14,
           14,
           14,
           14,
@@ -3122,7 +3130,8 @@ var covid19_dataset_country_nld = {
           2529,
           2568,
           2657,
-          2759
+          2759,
+          2925
         ]
       }
     },
@@ -3472,7 +3481,8 @@ var covid19_dataset_country_nld = {
           1393,
           1411,
           1423,
-          1434
+          1434,
+          1456
         ],
         "deaths": [
           0,
@@ -3816,6 +3826,7 @@ var covid19_dataset_country_nld = {
           26,
           26,
           26,
+          27,
           27,
           27,
           27
@@ -4164,7 +4175,8 @@ var covid19_dataset_country_nld = {
           1238,
           1298,
           1308,
-          1320
+          1320,
+          1331
         ]
       }
     }
@@ -4863,7 +4875,8 @@ var covid19_dataset_country_nld = {
       762985,
       770400,
       777902,
-      787300
+      787300,
+      796981
     ],
     "deaths": [
       0,
@@ -5209,9 +5222,11 @@ var covid19_dataset_country_nld = {
       10998,
       11042,
       11212,
-      11324
+      11324,
+      11432
     ],
     "recovered": [
+      0,
       0,
       0,
       0,

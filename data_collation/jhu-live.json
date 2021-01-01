@@ -977,7 +977,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 200443,
+      "confirmed": 201196,
       "date": "2021-01-01",
       "deaths": 2761,
       "recovered": 175558
@@ -1223,9 +1223,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 447719,
+          "confirmed": 449514,
           "date": "2021-01-01",
-          "deaths": 16745,
+          "deaths": 16779,
           "recovered": 0
         }
       }
