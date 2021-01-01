@@ -218,7 +218,7 @@
           "confirmed": 133761,
           "date": "2021-01-01",
           "deaths": 2329,
-          "recovered": 116280
+          "recovered": 117816
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 542909,
           "date": "2021-01-01",
           "deaths": 11902,
-          "recovered": 491437
+          "recovered": 494278
         }
       },
       "Para": {
@@ -521,10 +521,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 124264,
+      "confirmed": 124652,
       "date": "2021-01-01",
-      "deaths": 1923,
-      "recovered": 112096
+      "deaths": 1937,
+      "recovered": 112251
     }
   },
   "France": {
@@ -857,9 +857,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 91779,
+      "confirmed": 93532,
       "date": "2021-01-01",
-      "deaths": 2237,
+      "deaths": 2248,
       "recovered": 23364
     }
   },
@@ -1485,10 +1485,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 139140,
+      "confirmed": 140557,
       "date": "2021-01-01",
-      "deaths": 4676,
-      "recovered": 105364
+      "deaths": 4730,
+      "recovered": 105499
     }
   },
   "Turkey": {
@@ -1607,9 +1607,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 653580,
+          "confirmed": 658785,
           "date": "2021-01-01",
-          "deaths": 30117,
+          "deaths": 30198,
           "recovered": 0
         }
       },
