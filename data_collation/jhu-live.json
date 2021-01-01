@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 513510,
+      "confirmed": 514500,
       "date": "2021-01-01",
-      "deaths": 7559,
-      "recovered": 457459
+      "deaths": 7576,
+      "recovered": 458656
     }
   },
   "Belarus": {
@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 210837,
+      "confirmed": 212007,
       "date": "2021-01-01",
-      "deaths": 3920,
-      "recovered": 198018
+      "deaths": 3961,
+      "recovered": 199820
     }
   },
   "Czechia": {
@@ -579,10 +579,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 108610,
+          "confirmed": 109474,
           "date": "2021-01-01",
-          "deaths": 2003,
-          "recovered": 90125
+          "deaths": 2005,
+          "recovered": 91472
         }
       },
       "Nordrhein-Westfalen": {
@@ -959,10 +959,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 60245,
+          "confirmed": 61028,
           "date": "2021-01-01",
           "deaths": 582,
-          "recovered": 49983
+          "recovered": 50365
         }
       }
     }
@@ -1025,10 +1025,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 100277,
+      "confirmed": 100744,
       "date": "2021-01-01",
-      "deaths": 1478,
-      "recovered": 72107
+      "deaths": 1487,
+      "recovered": 73252
     }
   },
   "Lithuania": {
@@ -1041,10 +1041,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 113010,
+      "confirmed": 115078,
       "date": "2021-01-01",
-      "deaths": 471,
-      "recovered": 88941
+      "deaths": 474,
+      "recovered": 91171
     }
   },
   "Mexico": {
@@ -1257,10 +1257,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 143834,
+      "confirmed": 144042,
       "date": "2021-01-01",
       "deaths": 245,
-      "recovered": 141422
+      "recovered": 141556
     }
   },
   "Romania": {
@@ -1757,10 +1757,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 207822,
+      "confirmed": 209678,
       "date": "2021-01-01",
-      "deaths": 669,
-      "recovered": 184442
+      "deaths": 671,
+      "recovered": 186019
     }
   },
   "United Kingdom": {
