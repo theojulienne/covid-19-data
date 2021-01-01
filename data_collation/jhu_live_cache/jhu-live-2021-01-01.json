@@ -170,7 +170,7 @@
           "confirmed": 335091,
           "date": "2021-01-01",
           "deaths": 9990,
-          "recovered": 269343
+          "recovered": 269846
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 308868,
           "date": "2021-01-01",
           "deaths": 6805,
-          "recovered": 298100
+          "recovered": 298401
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 179427,
           "date": "2021-01-01",
           "deaths": 4455,
-          "recovered": 169764
+          "recovered": 170171
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 293540,
           "date": "2021-01-01",
           "deaths": 7188,
-          "recovered": 275115
+          "recovered": 275483
         }
       },
       "Paraiba": {
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 138062,
+      "confirmed": 139471,
       "date": "2021-01-01",
-      "deaths": 7631,
-      "recovered": 112105
+      "deaths": 7687,
+      "recovered": 112826
     }
   },
   "Ethiopia": {
@@ -603,10 +603,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 135397,
+          "confirmed": 136622,
           "date": "2021-01-01",
-          "deaths": 3266,
-          "recovered": 97300
+          "deaths": 3287,
+          "recovered": 100200
         }
       }
     }
@@ -1221,7 +1221,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 107932,
+      "confirmed": 108349,
       "date": "2021-01-01",
       "deaths": 2262,
       "recovered": 81977
@@ -1513,15 +1513,15 @@
         "live": {
           "confirmed": 388349,
           "date": "2021-01-01",
-          "deaths": 6174,
+          "deaths": 6278,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 1743268,
+          "confirmed": 1744991,
           "date": "2021-01-01",
-          "deaths": 19922,
+          "deaths": 19987,
           "recovered": 0
         }
       },
