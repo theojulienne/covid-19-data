@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 194284,
+      "confirmed": 196223,
       "date": "2021-01-01",
-      "deaths": 1424,
-      "recovered": 175147
+      "deaths": 1433,
+      "recovered": 178102
     }
   },
   "Belgium": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 319054,
+          "confirmed": 319937,
           "date": "2021-01-01",
-          "deaths": 10800,
-          "recovered": 304357
+          "deaths": 10813,
+          "recovered": 304802
         }
       }
     }
@@ -865,10 +865,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 426749,
+      "confirmed": 428510,
       "date": "2021-01-01",
-      "deaths": 3338,
-      "recovered": 378038
+      "deaths": 3356,
+      "recovered": 379910
     }
   },
   "Italy": {
