@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 79005,
+          "confirmed": 79362,
           "date": "2021-01-01",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 81252,
+          "confirmed": 81420,
           "date": "2021-01-01",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 64629,
+          "confirmed": 64967,
           "date": "2021-01-01",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 101770,
+          "confirmed": 101966,
           "date": "2021-01-01",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 96618,
+          "confirmed": 96886,
           "date": "2021-01-01",
           "deaths": 0,
           "recovered": 0
@@ -547,23 +547,23 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 237993,
+          "confirmed": 240888,
           "date": "2021-01-01",
-          "deaths": 4789,
+          "deaths": 4840,
           "recovered": 184170
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 325012,
+          "confirmed": 328640,
           "date": "2021-01-01",
-          "deaths": 6717,
+          "deaths": 6766,
           "recovered": 257379
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 97442,
+          "confirmed": 97445,
           "date": "2021-01-01",
           "deaths": 1271,
           "recovered": 77560
@@ -571,31 +571,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 136577,
+          "confirmed": 138379,
           "date": "2021-01-01",
-          "deaths": 2845,
+          "deaths": 2887,
           "recovered": 106220
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 107871,
+          "confirmed": 108610,
           "date": "2021-01-01",
-          "deaths": 1993,
+          "deaths": 2003,
           "recovered": 90125
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 393185,
+          "confirmed": 396880,
           "date": "2021-01-01",
-          "deaths": 6552,
+          "deaths": 6632,
           "recovered": 318212
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 72794,
+          "confirmed": 72822,
           "date": "2021-01-01",
           "deaths": 1441,
           "recovered": 52400
@@ -603,9 +603,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 134954,
+          "confirmed": 135462,
           "date": "2021-01-01",
-          "deaths": 3242,
+          "deaths": 3266,
           "recovered": 97300
         }
       }
@@ -961,7 +961,7 @@
         "live": {
           "confirmed": 60245,
           "date": "2021-01-01",
-          "deaths": 577,
+          "deaths": 582,
           "recovered": 49983
         }
       }
@@ -1179,26 +1179,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 58379,
+          "confirmed": 58701,
           "date": "2021-01-01",
-          "deaths": 1638,
-          "recovered": 53272
+          "deaths": 1649,
+          "recovered": 53708
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 137949,
+          "confirmed": 138608,
           "date": "2021-01-01",
-          "deaths": 4013,
-          "recovered": 123269
+          "deaths": 4042,
+          "recovered": 123598
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 214425,
+          "confirmed": 215679,
           "date": "2021-01-01",
-          "deaths": 3533,
-          "recovered": 194651
+          "deaths": 3560,
+          "recovered": 195420
         }
       }
     }
