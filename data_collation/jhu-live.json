@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 92675,
+      "confirmed": 92913,
       "date": "2021-01-01",
       "deaths": 352,
-      "recovered": 90217
+      "recovered": 90369
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 186940,
+          "confirmed": 187344,
           "date": "2021-01-01",
           "deaths": 4568,
-          "recovered": 162364
+          "recovered": 162622
         }
       },
       "Quebec": {
@@ -563,10 +563,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 97445,
+          "confirmed": 97649,
           "date": "2021-01-01",
-          "deaths": 1271,
-          "recovered": 77560
+          "deaths": 1277,
+          "recovered": 78633
         }
       },
       "Hessen": {
@@ -1671,9 +1671,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 792524,
+          "confirmed": 795640,
           "date": "2021-01-01",
-          "deaths": 10227,
+          "deaths": 10335,
           "recovered": 0
         }
       },
