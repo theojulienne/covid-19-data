@@ -603,7 +603,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 135462,
+          "confirmed": 135397,
           "date": "2021-01-01",
           "deaths": 3266,
           "recovered": 97300
@@ -1017,9 +1017,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 181503,
+      "confirmed": 183888,
       "date": "2021-01-01",
-      "deaths": 1468,
+      "deaths": 1479,
       "recovered": 127959
     }
   },
@@ -1551,7 +1551,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 70610,
+          "confirmed": 71487,
           "date": "2021-01-01",
           "deaths": 1156,
           "recovered": 0
@@ -1599,15 +1599,15 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 170032,
+          "confirmed": 171850,
           "date": "2021-01-01",
-          "deaths": 2379,
+          "deaths": 2384,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 649197,
+          "confirmed": 653580,
           "date": "2021-01-01",
           "deaths": 30117,
           "recovered": 0

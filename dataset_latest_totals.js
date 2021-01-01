@@ -2008,18 +2008,18 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 163225,
-        "deaths": 1333,
+        "confirmed": 165933,
+        "deaths": 1353,
         "recovered": 116143
       },
       "back_2week": {
-        "confirmed": 150933,
-        "deaths": 1234,
+        "confirmed": 153049,
+        "deaths": 1248,
         "recovered": 104207
       },
       "latest": {
-        "confirmed": 177996,
-        "deaths": 1456,
+        "confirmed": 181503,
+        "deaths": 1468,
         "recovered": 126460
       }
     },
