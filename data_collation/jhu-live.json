@@ -1111,41 +1111,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 88252,
+          "confirmed": 89545,
           "date": "2021-01-01",
-          "deaths": 1309,
+          "deaths": 1320,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 124623,
+          "confirmed": 125767,
           "date": "2021-01-01",
-          "deaths": 2382,
+          "deaths": 2393,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 136570,
+          "confirmed": 137776,
           "date": "2021-01-01",
-          "deaths": 1627,
+          "deaths": 1652,
+          "recovered": 0
+        }
+      },
+      "Overijssel": {
+        "live": {
+          "confirmed": 54919,
+          "date": "2021-01-01",
+          "deaths": 694,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 66856,
+          "confirmed": 67465,
           "date": "2021-01-01",
-          "deaths": 868,
+          "deaths": 870,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 202237,
+          "confirmed": 203660,
           "date": "2021-01-01",
-          "deaths": 2820,
+          "deaths": 2840,
           "recovered": 0
         }
       }
@@ -1357,10 +1365,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1057161,
+      "confirmed": 1073887,
       "date": "2021-01-01",
-      "deaths": 28469,
-      "recovered": 879671
+      "deaths": 28887,
+      "recovered": 887701
     }
   },
   "Spain": {
@@ -1511,7 +1519,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1729016,
+          "confirmed": 1743268,
           "date": "2021-01-01",
           "deaths": 19922,
           "recovered": 0
@@ -1535,9 +1543,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 114273,
+          "confirmed": 116289,
           "date": "2021-01-01",
-          "deaths": 1391,
+          "deaths": 1394,
           "recovered": 0
         }
       },
@@ -1567,9 +1575,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 188600,
+          "confirmed": 134044,
           "date": "2021-01-01",
-          "deaths": 5801,
+          "deaths": 4427,
           "recovered": 0
         }
       },
@@ -1687,9 +1695,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 91624,
+          "confirmed": 92090,
           "date": "2021-01-01",
-          "deaths": 1002,
+          "deaths": 1003,
           "recovered": 0
         }
       }
