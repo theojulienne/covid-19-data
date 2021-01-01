@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 110985,
+      "confirmed": 112143,
       "date": "2021-01-01",
-      "deaths": 4050,
-      "recovered": 77225
+      "deaths": 4086,
+      "recovered": 77682
     }
   },
   "Brazil": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 186477,
+          "confirmed": 186940,
           "date": "2021-01-01",
-          "deaths": 4556,
-          "recovered": 161884
+          "deaths": 4568,
+          "recovered": 162364
         }
       },
       "Quebec": {
@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 212512,
+      "confirmed": 213378,
       "date": "2021-01-01",
-      "deaths": 14034,
+      "deaths": 14051,
       "recovered": 184507
     }
   },
@@ -1093,10 +1093,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 439193,
+      "confirmed": 440970,
       "date": "2021-01-01",
-      "deaths": 7388,
-      "recovered": 407504
+      "deaths": 7425,
+      "recovered": 409638
     }
   },
   "Nepal": {
@@ -1161,10 +1161,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 83329,
+      "confirmed": 83743,
       "date": "2021-01-01",
-      "deaths": 2503,
-      "recovered": 61447
+      "deaths": 2510,
+      "recovered": 61943
     }
   },
   "Oman": {
@@ -1493,10 +1493,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2208652,
+      "confirmed": 2220855,
       "date": "2021-01-01",
-      "deaths": 20881,
-      "recovered": 2100650
+      "deaths": 21093,
+      "recovered": 2114760
     }
   },
   "US": {
@@ -1553,7 +1553,7 @@
         "live": {
           "confirmed": 70610,
           "date": "2021-01-01",
-          "deaths": 1144,
+          "deaths": 1156,
           "recovered": 0
         }
       },
