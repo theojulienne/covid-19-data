@@ -1309,19 +1309,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2525234,
-        "deaths": 61904,
-        "recovered": 165121
+        "confirmed": 2545358,
+        "deaths": 62063,
+        "recovered": 165650
       },
       "back_2week": {
-        "confirmed": 2426063,
-        "deaths": 59259,
-        "recovered": 158170
+        "confirmed": 2441737,
+        "deaths": 59869,
+        "recovered": 159138
       },
       "latest": {
-        "confirmed": 2616902,
-        "deaths": 64267,
-        "recovered": 170426
+        "confirmed": 2636045,
+        "deaths": 64399,
+        "recovered": 170896
       },
       "states": {
         "French Guiana": {
@@ -1486,14 +1486,14 @@
         "recovered": 52777
       },
       "back_2week": {
-        "confirmed": 53553,
+        "confirmed": 53653,
         "deaths": 331,
-        "recovered": 52266
+        "recovered": 52331
       },
       "latest": {
-        "confirmed": 54771,
+        "confirmed": 54930,
         "deaths": 335,
-        "recovered": 53594
+        "recovered": 53758
       }
     },
     "GIN": {
@@ -3280,19 +3280,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 126752,
-        "deaths": 4324,
-        "recovered": 97776
+        "confirmed": 128578,
+        "deaths": 4385,
+        "recovered": 98426
       },
       "back_2week": {
-        "confirmed": 115966,
-        "deaths": 4032,
+        "confirmed": 117582,
+        "deaths": 4090,
         "recovered": 87884
       },
       "latest": {
-        "confirmed": 139140,
-        "deaths": 4676,
-        "recovered": 105364
+        "confirmed": 140557,
+        "deaths": 4730,
+        "recovered": 105499
       }
     },
     "TUR": {
@@ -3898,19 +3898,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 968563,
-        "deaths": 25983,
-        "recovered": 822978
+        "confirmed": 983359,
+        "deaths": 26276,
+        "recovered": 830251
       },
       "back_2week": {
-        "confirmed": 892813,
-        "deaths": 24011,
-        "recovered": 780313
+        "confirmed": 901538,
+        "deaths": 24285,
+        "recovered": 783818
       },
       "latest": {
-        "confirmed": 1057161,
-        "deaths": 28469,
-        "recovered": 879671
+        "confirmed": 1073887,
+        "deaths": 28887,
+        "recovered": 887701
       }
     },
     "ZMB": {
