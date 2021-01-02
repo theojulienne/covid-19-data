@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 212007,
+      "confirmed": 212262,
       "date": "2021-01-02",
-      "deaths": 3961,
-      "recovered": 199820
+      "deaths": 4016,
+      "recovered": 201300
     }
   },
   "Czechia": {
@@ -849,10 +849,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 596193,
+      "confirmed": 597033,
       "date": "2021-01-02",
-      "deaths": 12824,
-      "recovered": 539817
+      "deaths": 12829,
+      "recovered": 541746
     }
   },
   "Ireland": {
@@ -1273,10 +1273,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 636201,
+      "confirmed": 637395,
       "date": "2021-01-02",
-      "deaths": 15841,
-      "recovered": 566365
+      "deaths": 15919,
+      "recovered": 571333
     }
   },
   "Russia": {
@@ -1671,7 +1671,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 797570,
+          "confirmed": 797991,
           "date": "2021-01-02",
           "deaths": 10335,
           "recovered": 0
@@ -1825,10 +1825,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 139223,
+      "confirmed": 140287,
       "date": "2021-01-02",
-      "deaths": 1418,
-      "recovered": 118926
+      "deaths": 1446,
+      "recovered": 120403
     }
   }
 }
