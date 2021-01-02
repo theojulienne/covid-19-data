@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 514500,
+      "confirmed": 515184,
       "date": "2021-01-02",
-      "deaths": 7576,
-      "recovered": 458656
+      "deaths": 7599,
+      "recovered": 459620
     }
   },
   "Belarus": {
@@ -595,9 +595,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 73545,
+          "confirmed": 73921,
           "date": "2021-01-02",
-          "deaths": 1459,
+          "deaths": 1466,
           "recovered": 54190
         }
       },
@@ -959,10 +959,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 61028,
+          "confirmed": 61842,
           "date": "2021-01-02",
           "deaths": 586,
-          "recovered": 50365
+          "recovered": 50861
         }
       }
     }
@@ -1041,10 +1041,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 115078,
+      "confirmed": 117373,
       "date": "2021-01-02",
-      "deaths": 474,
-      "recovered": 91171
+      "deaths": 483,
+      "recovered": 94492
     }
   },
   "Mexico": {
