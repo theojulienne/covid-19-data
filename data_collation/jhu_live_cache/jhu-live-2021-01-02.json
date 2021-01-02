@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 219041,
+      "confirmed": 219462,
       "date": "2021-01-02",
-      "deaths": 2670,
-      "recovered": 188280
+      "deaths": 2703,
+      "recovered": 191925
     }
   },
   "Bahrain": {
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 330855,
+          "confirmed": 331155,
           "date": "2021-01-02",
-          "deaths": 6813,
+          "deaths": 6816,
           "recovered": 264172
         }
       },
@@ -603,10 +603,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 137031,
+          "confirmed": 138000,
           "date": "2021-01-02",
-          "deaths": 3302,
-          "recovered": 100200
+          "deaths": 3331,
+          "recovered": 100600
         }
       }
     }
@@ -1333,9 +1333,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 339997,
+      "confirmed": 341904,
       "date": "2021-01-02",
-      "deaths": 3250,
+      "deaths": 3288,
       "recovered": 0
     }
   },
