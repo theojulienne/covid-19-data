@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 160124,
+      "confirmed": 160985,
       "date": "2021-01-02",
-      "deaths": 9165,
-      "recovered": 132097
+      "deaths": 9175,
+      "recovered": 132510
     }
   },
   "Bosnia and Herzegovina": {
@@ -415,50 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 261592,
+          "confirmed": 263708,
           "date": "2021-01-02",
-          "deaths": 4786,
-          "recovered": 243989
+          "deaths": 4817,
+          "recovered": 245839
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 93975,
+          "confirmed": 94549,
           "date": "2021-01-02",
-          "deaths": 3433,
-          "recovered": 87316
+          "deaths": 3443,
+          "recovered": 87898
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 471155,
+          "confirmed": 475253,
           "date": "2021-01-02",
-          "deaths": 9788,
-          "recovered": 425697
+          "deaths": 9868,
+          "recovered": 430079
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 67160,
+          "confirmed": 67608,
           "date": "2021-01-02",
-          "deaths": 1712,
-          "recovered": 61645
+          "deaths": 1726,
+          "recovered": 62249
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 67114,
+          "confirmed": 67850,
           "date": "2021-01-02",
-          "deaths": 2383,
-          "recovered": 60674
+          "deaths": 2405,
+          "recovered": 61143
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 137867,
+          "confirmed": 138870,
           "date": "2021-01-02",
-          "deaths": 4274,
-          "recovered": 126646
+          "deaths": 4297,
+          "recovered": 127897
         }
       }
     }
@@ -993,10 +993,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 61769,
+      "confirmed": 62593,
       "date": "2021-01-02",
-      "deaths": 917,
-      "recovered": 42953
+      "deaths": 942,
+      "recovered": 43578
     }
   },
   "Kuwait": {
@@ -1051,33 +1051,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 330273,
+          "confirmed": 334137,
           "date": "2021-01-02",
-          "deaths": 16754,
+          "deaths": 16873,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 82517,
+          "confirmed": 83520,
           "date": "2021-01-02",
-          "deaths": 5341,
+          "deaths": 5365,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 146199,
+          "confirmed": 147443,
           "date": "2021-01-02",
-          "deaths": 18878,
+          "deaths": 19017,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 82595,
+          "confirmed": 83209,
           "date": "2021-01-02",
-          "deaths": 5171,
+          "deaths": 5202,
           "recovered": 0
         }
       }
@@ -1213,10 +1213,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 246790,
+      "confirmed": 249733,
       "date": "2021-01-02",
-      "deaths": 4022,
-      "recovered": 195138
+      "deaths": 4064,
+      "recovered": 197928
     }
   },
   "Paraguay": {
@@ -1487,7 +1487,7 @@
     "live": {
       "confirmed": 452296,
       "date": "2021-01-02",
-      "deaths": 7662,
+      "deaths": 7704,
       "recovered": 317600
     }
   },
@@ -1519,9 +1519,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1744991,
+          "confirmed": 1764054,
           "date": "2021-01-02",
-          "deaths": 20025,
+          "deaths": 20218,
           "recovered": 0
         }
       },
