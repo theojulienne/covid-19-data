@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 190026,
+          "confirmed": 190667,
           "date": "2021-01-02",
           "deaths": 4608,
-          "recovered": 164241
+          "recovered": 164698
         }
       },
       "Quebec": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 319937,
+          "confirmed": 320809,
           "date": "2021-01-02",
-          "deaths": 10813,
-          "recovered": 304802
+          "deaths": 10833,
+          "recovered": 305444
         }
       }
     }
@@ -521,10 +521,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 124652,
+      "confirmed": 125049,
       "date": "2021-01-02",
-      "deaths": 1937,
-      "recovered": 112251
+      "deaths": 1944,
+      "recovered": 112325
     }
   },
   "France": {
@@ -865,10 +865,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 428510,
+      "confirmed": 433799,
       "date": "2021-01-02",
-      "deaths": 3356,
-      "recovered": 379910
+      "deaths": 3384,
+      "recovered": 381715
     }
   },
   "Italy": {
@@ -1591,7 +1591,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 86273,
+          "confirmed": 86762,
           "date": "2021-01-02",
           "deaths": 1390,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 62454,
+          "confirmed": 64442,
           "date": "2021-01-02",
-          "deaths": 554,
+          "deaths": 568,
           "recovered": 0
         }
       },
@@ -1639,17 +1639,17 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 57993,
+          "confirmed": 58607,
           "date": "2021-01-02",
-          "deaths": 441,
+          "deaths": 444,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 93885,
+          "confirmed": 149295,
           "date": "2021-01-02",
-          "deaths": 2450,
+          "deaths": 3491,
           "recovered": 0
         }
       },
@@ -1751,14 +1751,6 @@
           "date": "2021-01-02",
           "deaths": 1062,
           "recovered": 45374
-        }
-      },
-      "Zaporizhia Oblast": {
-        "live": {
-          "confirmed": 54717,
-          "date": "2021-01-02",
-          "deaths": 594,
-          "recovered": 21166
         }
       }
     }
