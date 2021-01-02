@@ -977,10 +977,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 202060,
+      "confirmed": 202159,
       "date": "2021-01-02",
-      "deaths": 2765,
-      "recovered": 176774
+      "deaths": 2767,
+      "recovered": 176842
     }
   },
   "Kenya": {
@@ -1009,10 +1009,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 81156,
+      "confirmed": 81214,
       "date": "2021-01-02",
-      "deaths": 1356,
-      "recovered": 76148
+      "deaths": 1358,
+      "recovered": 76351
     }
   },
   "Lebanon": {
