@@ -547,17 +547,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 240888,
+          "confirmed": 242744,
           "date": "2021-01-02",
-          "deaths": 4840,
+          "deaths": 4894,
           "recovered": 190409
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 328755,
+          "confirmed": 330855,
           "date": "2021-01-02",
-          "deaths": 6766,
+          "deaths": 6811,
           "recovered": 264172
         }
       },
@@ -571,41 +571,41 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 138379,
+          "confirmed": 139368,
           "date": "2021-01-02",
-          "deaths": 2887,
+          "deaths": 2917,
           "recovered": 109223
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 109474,
+          "confirmed": 109810,
           "date": "2021-01-02",
-          "deaths": 2005,
+          "deaths": 2016,
           "recovered": 92555
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 396880,
+          "confirmed": 398678,
           "date": "2021-01-02",
-          "deaths": 6631,
+          "deaths": 6701,
           "recovered": 326307
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 73377,
+          "confirmed": 73545,
           "date": "2021-01-02",
-          "deaths": 1453,
+          "deaths": 1459,
           "recovered": 54190
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 136622,
+          "confirmed": 137031,
           "date": "2021-01-02",
-          "deaths": 3287,
+          "deaths": 3302,
           "recovered": 100200
         }
       }
@@ -637,9 +637,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 122763,
+      "confirmed": 122974,
       "date": "2021-01-02",
-      "deaths": 3141,
+      "deaths": 3160,
       "recovered": 56936
     }
   },
@@ -977,10 +977,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 201313,
+      "confirmed": 202060,
       "date": "2021-01-02",
       "deaths": 2765,
-      "recovered": 176242
+      "recovered": 176774
     }
   },
   "Kenya": {
@@ -1187,26 +1187,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 58701,
+          "confirmed": 59023,
           "date": "2021-01-02",
-          "deaths": 1649,
-          "recovered": 53708
+          "deaths": 1661,
+          "recovered": 53942
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 138608,
+          "confirmed": 139341,
           "date": "2021-01-02",
-          "deaths": 4042,
-          "recovered": 123598
+          "deaths": 4085,
+          "recovered": 124125
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 215679,
+          "confirmed": 216632,
           "date": "2021-01-02",
-          "deaths": 3560,
-          "recovered": 195420
+          "deaths": 3582,
+          "recovered": 196134
         }
       }
     }
@@ -1809,10 +1809,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 77126,
+      "confirmed": 77182,
       "date": "2021-01-02",
       "deaths": 614,
-      "recovered": 75112
+      "recovered": 75244
     }
   },
   "Venezuela": {
