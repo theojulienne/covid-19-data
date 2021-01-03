@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 212262,
+      "confirmed": 212958,
       "date": "2021-01-03",
-      "deaths": 4016,
-      "recovered": 201300
+      "deaths": 4072,
+      "recovered": 202442
     }
   },
   "Czechia": {
@@ -954,7 +954,7 @@
           "confirmed": 61842,
           "date": "2021-01-03",
           "deaths": 586,
-          "recovered": 50861
+          "recovered": 51295
         }
       }
     }
@@ -1244,7 +1244,7 @@
       "confirmed": 1312780,
       "date": "2021-01-03",
       "deaths": 29058,
-      "recovered": 1055436
+      "recovered": 1063093
     }
   },
   "Portugal": {
@@ -1341,10 +1341,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 186244,
+      "confirmed": 187463,
       "date": "2021-01-03",
-      "deaths": 2250,
-      "recovered": 128285
+      "deaths": 2317,
+      "recovered": 129994
     }
   },
   "Slovenia": {
