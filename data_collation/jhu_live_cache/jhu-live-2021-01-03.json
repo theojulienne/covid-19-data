@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 79680,
+          "confirmed": 79829,
           "date": "2021-01-03",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 81557,
+          "confirmed": 81663,
           "date": "2021-01-03",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 65260,
+          "confirmed": 65351,
           "date": "2021-01-03",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 102209,
+          "confirmed": 102333,
           "date": "2021-01-03",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 97027,
+          "confirmed": 97071,
           "date": "2021-01-03",
           "deaths": 0,
           "recovered": 0
@@ -186,7 +186,7 @@
           "confirmed": 250227,
           "date": "2021-01-03",
           "deaths": 5113,
-          "recovered": 228846
+          "recovered": 229191
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 179938,
           "date": "2021-01-03",
           "deaths": 4475,
-          "recovered": 170171
+          "recovered": 170648
         }
       },
       "Mato Grosso do Sul": {
@@ -218,7 +218,7 @@
           "confirmed": 135361,
           "date": "2021-01-03",
           "deaths": 2360,
-          "recovered": 117816
+          "recovered": 119295
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 293807,
           "date": "2021-01-03",
           "deaths": 7209,
-          "recovered": 275483
+          "recovered": 276014
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 143210,
           "date": "2021-01-03",
           "deaths": 2848,
-          "recovered": 139971
+          "recovered": 140229
         }
       },
       "Rio Grande do Norte": {
@@ -980,7 +980,7 @@
       "confirmed": 202873,
       "date": "2021-01-03",
       "deaths": 2767,
-      "recovered": 176842
+      "recovered": 177193
     }
   },
   "Kenya": {
@@ -1187,26 +1187,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 59023,
+          "confirmed": 59255,
           "date": "2021-01-03",
-          "deaths": 1661,
-          "recovered": 53942
+          "deaths": 1672,
+          "recovered": 54383
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 139341,
+          "confirmed": 140188,
           "date": "2021-01-03",
-          "deaths": 4085,
-          "recovered": 124125
+          "deaths": 4109,
+          "recovered": 124461
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 216632,
+          "confirmed": 217636,
           "date": "2021-01-03",
-          "deaths": 3582,
-          "recovered": 196134
+          "deaths": 3594,
+          "recovered": 196677
         }
       }
     }
