@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 198125,
+      "confirmed": 199962,
       "date": "2021-01-03",
-      "deaths": 1442,
-      "recovered": 181109
+      "deaths": 1451,
+      "recovered": 182630
     }
   },
   "Belgium": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 320809,
+          "confirmed": 321248,
           "date": "2021-01-03",
-          "deaths": 10833,
-          "recovered": 305444
+          "deaths": 10848,
+          "recovered": 306045
         }
       }
     }
@@ -951,9 +951,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 61842,
+          "confirmed": 62658,
           "date": "2021-01-03",
-          "deaths": 586,
+          "deaths": 587,
           "recovered": 51295
         }
       }
