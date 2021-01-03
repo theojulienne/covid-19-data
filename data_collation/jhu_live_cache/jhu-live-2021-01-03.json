@@ -154,7 +154,7 @@
           "confirmed": 201867,
           "date": "2021-01-03",
           "deaths": 5325,
-          "recovered": 171819
+          "recovered": 172310
         }
       },
       "Bahia": {
@@ -178,7 +178,7 @@
           "confirmed": 252874,
           "date": "2021-01-03",
           "deaths": 4268,
-          "recovered": 241952
+          "recovered": 243470
         }
       },
       "Espirito Santo": {
@@ -194,7 +194,7 @@
           "confirmed": 309194,
           "date": "2021-01-03",
           "deaths": 6805,
-          "recovered": 298693
+          "recovered": 299025
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 179938,
           "date": "2021-01-03",
           "deaths": 4475,
-          "recovered": 170648
+          "recovered": 171057
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 293807,
           "date": "2021-01-03",
           "deaths": 7209,
-          "recovered": 276014
+          "recovered": 276598
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
           "confirmed": 167615,
           "date": "2021-01-03",
           "deaths": 3692,
-          "recovered": 127509
+          "recovered": 127564
         }
       },
       "Parana": {
@@ -505,10 +505,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 214513,
+      "confirmed": 214614,
       "date": "2021-01-03",
       "deaths": 14059,
-      "recovered": 184507
+      "recovered": 190350
     }
   },
   "Egypt": {
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 151074,
+      "confirmed": 151343,
       "date": "2021-01-03",
       "deaths": 937,
-      "recovered": 146990
+      "recovered": 147271
     }
   },
   "Kyrgyzstan": {
@@ -1511,7 +1511,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 1819720,
+          "confirmed": 1820417,
           "date": "2021-01-03",
           "deaths": 20440,
           "recovered": 0
