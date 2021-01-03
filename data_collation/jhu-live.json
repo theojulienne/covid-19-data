@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 364302,
+      "confirmed": 365768,
       "date": "2021-01-03",
-      "deaths": 6275,
-      "recovered": 336922
+      "deaths": 6324,
+      "recovered": 338831
     }
   },
   "Azerbaijan": {
@@ -595,10 +595,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 73921,
+          "confirmed": 74440,
           "date": "2021-01-03",
-          "deaths": 1466,
-          "recovered": 54772
+          "deaths": 1476,
+          "recovered": 55282
         }
       },
       "Sachsen": {
@@ -1265,10 +1265,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 637395,
+      "confirmed": 640429,
       "date": "2021-01-03",
-      "deaths": 15919,
-      "recovered": 571333
+      "deaths": 15979,
+      "recovered": 574897
     }
   },
   "Russia": {
@@ -1349,10 +1349,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 124343,
+      "confirmed": 125086,
       "date": "2021-01-03",
-      "deaths": 2774,
-      "recovered": 102252
+      "deaths": 2803,
+      "recovered": 103107
     }
   },
   "South Africa": {
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 452296,
       "date": "2021-01-03",
-      "deaths": 7729,
+      "deaths": 7745,
       "recovered": 317600
     }
   },
@@ -1663,7 +1663,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 807905,
+          "confirmed": 808250,
           "date": "2021-01-03",
           "deaths": 10363,
           "recovered": 0
