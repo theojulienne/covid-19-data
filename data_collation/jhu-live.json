@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1640718,
+      "confirmed": 1648940,
       "date": "2021-01-04",
-      "deaths": 43482,
-      "recovered": 1452960
+      "deaths": 43634,
+      "recovered": 1458083
     }
   },
   "Armenia": {
@@ -178,7 +178,7 @@
           "confirmed": 253355,
           "date": "2021-01-04",
           "deaths": 4269,
-          "recovered": 243470
+          "recovered": 244292
         }
       },
       "Espirito Santo": {
@@ -202,7 +202,7 @@
           "confirmed": 201017,
           "date": "2021-01-04",
           "deaths": 4518,
-          "recovered": 190889
+          "recovered": 190921
         }
       },
       "Mato Grosso": {
@@ -234,7 +234,7 @@
           "confirmed": 294010,
           "date": "2021-01-04",
           "deaths": 7217,
-          "recovered": 276598
+          "recovered": 277446
         }
       },
       "Paraiba": {
@@ -290,7 +290,7 @@
           "confirmed": 435739,
           "date": "2021-01-04",
           "deaths": 25616,
-          "recovered": 406061
+          "recovered": 406718
         }
       },
       "Rondonia": {
@@ -298,7 +298,7 @@
           "confirmed": 96906,
           "date": "2021-01-04",
           "deaths": 1832,
-          "recovered": 81914
+          "recovered": 82665
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 497345,
           "date": "2021-01-04",
           "deaths": 5314,
-          "recovered": 469769
+          "recovered": 478526
         }
       },
       "Sao Paulo": {
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 142187,
+      "confirmed": 143464,
       "date": "2021-01-04",
-      "deaths": 7805,
-      "recovered": 113898
+      "deaths": 7863,
+      "recovered": 114601
     }
   },
   "Ethiopia": {
@@ -1223,9 +1223,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 450835,
+          "confirmed": 451577,
           "date": "2021-01-04",
-          "deaths": 16810,
+          "deaths": 16835,
           "recovered": 0
         }
       }
@@ -1503,9 +1503,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 417102,
+          "confirmed": 421146,
           "date": "2021-01-04",
-          "deaths": 6323,
+          "deaths": 6325,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 820407,
+          "confirmed": 828880,
           "date": "2021-01-04",
-          "deaths": 10422,
+          "deaths": 10490,
           "recovered": 0
         }
       },
