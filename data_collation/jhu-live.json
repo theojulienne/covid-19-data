@@ -1103,49 +1103,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 91687,
+          "confirmed": 92554,
           "date": "2021-01-04",
-          "deaths": 1331,
+          "deaths": 1337,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 128111,
+          "confirmed": 128977,
           "date": "2021-01-04",
-          "deaths": 2405,
+          "deaths": 2409,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 140257,
+          "confirmed": 141210,
           "date": "2021-01-04",
-          "deaths": 1667,
+          "deaths": 1676,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 56332,
+          "confirmed": 56865,
           "date": "2021-01-04",
-          "deaths": 702,
+          "deaths": 707,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 68537,
+          "confirmed": 69035,
           "date": "2021-01-04",
-          "deaths": 883,
+          "deaths": 889,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 206401,
+          "confirmed": 207745,
           "date": "2021-01-04",
-          "deaths": 2842,
+          "deaths": 2862,
           "recovered": 0
         }
       }
@@ -1317,17 +1317,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 363061,
+      "confirmed": 363155,
       "date": "2021-01-04",
-      "deaths": 6246,
-      "recovered": 354443
+      "deaths": 6256,
+      "recovered": 354609
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 343870,
+      "confirmed": 346585,
       "date": "2021-01-04",
-      "deaths": 3325,
+      "deaths": 3364,
       "recovered": 0
     }
   },
@@ -1479,7 +1479,7 @@
     "live": {
       "confirmed": 461961,
       "date": "2021-01-04",
-      "deaths": 7825,
+      "deaths": 7831,
       "recovered": 317600
     }
   },
