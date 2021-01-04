@@ -699,7 +699,8 @@ var covid19_dataset_country_lka = {
       42702,
       43299,
       43856,
-      44371
+      44371,
+      44774
     ],
     "deaths": [
       0,
@@ -1048,6 +1049,7 @@ var covid19_dataset_country_lka = {
       199,
       204,
       208,
+      211,
       211
     ],
     "recovered": [
@@ -1397,7 +1399,8 @@ var covid19_dataset_country_lka = {
       34623,
       35329,
       36155,
-      36717
+      36717,
+      37252
     ]
   }
 };

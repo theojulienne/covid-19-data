@@ -699,6 +699,7 @@ var covid19_dataset_country_gin = {
       13707,
       13722,
       13738,
+      13784,
       13784
     ],
     "deaths": [
@@ -1046,6 +1047,7 @@ var covid19_dataset_country_gin = {
       80,
       80,
       80,
+      81,
       81,
       81,
       81
@@ -1396,6 +1398,7 @@ var covid19_dataset_country_gin = {
       13082,
       13117,
       13141,
+      13153,
       13153,
       13153
     ]
