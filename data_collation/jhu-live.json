@@ -353,7 +353,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 126935,
+      "confirmed": 127525,
       "date": "2021-01-05",
       "deaths": 2744,
       "recovered": 110200
@@ -393,8 +393,8 @@
         "live": {
           "confirmed": 321724,
           "date": "2021-01-05",
-          "deaths": 10848,
-          "recovered": 306656
+          "deaths": 10863,
+          "recovered": 307187
         }
       }
     }
@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 64820,
           "date": "2021-01-05",
-          "deaths": 589,
+          "deaths": 603,
           "recovered": 52036
         }
       }
@@ -969,10 +969,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 96908,
+      "confirmed": 97127,
       "date": "2021-01-05",
-      "deaths": 1686,
-      "recovered": 79257
+      "deaths": 1690,
+      "recovered": 79357
     }
   },
   "Korea, South": {
@@ -1095,49 +1095,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 92554,
+          "confirmed": 93304,
           "date": "2021-01-05",
-          "deaths": 1337,
+          "deaths": 1360,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 128977,
+          "confirmed": 130099,
           "date": "2021-01-05",
-          "deaths": 2409,
+          "deaths": 2426,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 141210,
+          "confirmed": 142103,
           "date": "2021-01-05",
-          "deaths": 1676,
+          "deaths": 1703,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 56865,
+          "confirmed": 57509,
           "date": "2021-01-05",
-          "deaths": 707,
+          "deaths": 730,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 69035,
+          "confirmed": 69474,
           "date": "2021-01-05",
-          "deaths": 889,
+          "deaths": 894,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 207745,
+          "confirmed": 208957,
           "date": "2021-01-05",
-          "deaths": 2862,
+          "deaths": 2889,
           "recovered": 0
         }
       }
