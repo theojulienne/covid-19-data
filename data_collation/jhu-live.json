@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 80022,
+          "confirmed": 80140,
           "date": "2021-01-05",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 81719,
+          "confirmed": 81878,
           "date": "2021-01-05",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 65458,
+          "confirmed": 65581,
           "date": "2021-01-05",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 102383,
+          "confirmed": 102464,
           "date": "2021-01-05",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 97154,
+          "confirmed": 97210,
           "date": "2021-01-05",
           "deaths": 0,
           "recovered": 0
@@ -969,7 +969,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 203563,
+      "confirmed": 204286,
       "date": "2021-01-05",
       "deaths": 2771,
       "recovered": 178492
@@ -1179,26 +1179,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 59484,
+          "confirmed": 59729,
           "date": "2021-01-05",
-          "deaths": 1675,
-          "recovered": 54519
+          "deaths": 1683,
+          "recovered": 54668
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 140714,
+          "confirmed": 141393,
           "date": "2021-01-05",
-          "deaths": 4124,
-          "recovered": 125129
+          "deaths": 4160,
+          "recovered": 126225
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 218597,
+          "confirmed": 219452,
           "date": "2021-01-05",
-          "deaths": 3611,
-          "recovered": 197430
+          "deaths": 3623,
+          "recovered": 197870
         }
       }
     }
@@ -1801,10 +1801,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 114230,
+      "confirmed": 114407,
       "date": "2021-01-05",
-      "deaths": 1034,
-      "recovered": 108268
+      "deaths": 1038,
+      "recovered": 108468
     }
   },
   "West Bank and Gaza": {
