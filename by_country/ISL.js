@@ -701,7 +701,8 @@ var covid19_dataset_country_isl = {
       5754,
       5754,
       5754,
-      5754
+      5754,
+      5795
     ],
     "deaths": [
       0,
@@ -1046,6 +1047,7 @@ var covid19_dataset_country_isl = {
       28,
       28,
       28,
+      29,
       29,
       29,
       29,
@@ -1401,7 +1403,8 @@ var covid19_dataset_country_isl = {
       5578,
       5578,
       5578,
-      5578
+      5578,
+      5665
     ]
   }
 };
