@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 516929,
+      "confirmed": 517920,
       "date": "2021-01-05",
-      "deaths": 7650,
-      "recovered": 461515
+      "deaths": 7670,
+      "recovered": 462459
     }
   },
   "Belarus": {
@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 213319,
+      "confirmed": 214390,
       "date": "2021-01-05",
-      "deaths": 4126,
-      "recovered": 203294
+      "deaths": 4179,
+      "recovered": 204303
     }
   },
   "Czechia": {
@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 111453,
+          "confirmed": 111712,
           "date": "2021-01-05",
-          "deaths": 2101,
+          "deaths": 2108,
           "recovered": 95775
         }
       },
@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 772103,
+      "confirmed": 779548,
       "date": "2021-01-05",
-      "deaths": 22911,
-      "recovered": 639103
+      "deaths": 23109,
+      "recovered": 645746
     }
   },
   "Iran": {
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 450116,
+      "confirmed": 451044,
       "date": "2021-01-05",
-      "deaths": 3445,
-      "recovered": 391360
+      "deaths": 3448,
+      "recovered": 391374
     }
   },
   "Italy": {
@@ -1161,10 +1161,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 129584,
+      "confirmed": 129774,
       "date": "2021-01-05",
       "deaths": 1502,
-      "recovered": 122372
+      "recovered": 122406
     }
   },
   "Pakistan": {
@@ -1233,9 +1233,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1322947,
+      "confirmed": 1330543,
       "date": "2021-01-05",
-      "deaths": 29161,
+      "deaths": 29502,
       "recovered": 1078892
     }
   },
@@ -1341,10 +1341,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 125858,
+      "confirmed": 128359,
       "date": "2021-01-05",
-      "deaths": 2838,
-      "recovered": 103467
+      "deaths": 2861,
+      "recovered": 104988
     }
   },
   "South Africa": {
