@@ -3404,22 +3404,22 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 18827933,
+        "confirmed": 18875035,
         "deaths": 323240,
         "recovered": 7458443,
-        "tested": 207758497
+        "tested": 207805599
       },
       "back_2week": {
-        "confirmed": 17572222,
+        "confirmed": 17615387,
         "deaths": 307971,
         "recovered": 6871308,
-        "tested": 197699132
+        "tested": 197742297
       },
       "latest": {
-        "confirmed": 20295221,
+        "confirmed": 20345969,
         "deaths": 341570,
         "recovered": 8059734,
-        "tested": 216632049
+        "tested": 216682797
       },
       "states": {
         "AK": {
@@ -3627,11 +3627,11 @@ var covid19_dataset_latest_totals = {
           "tested": 532915
         },
         "NJ": {
-          "confirmed": 492042,
+          "confirmed": 542790,
           "deaths": 19208,
           "hospitalized": 48743,
           "recovered": 56873,
-          "tested": 7801895
+          "tested": 7852643
         },
         "NM": {
           "confirmed": 146394,
