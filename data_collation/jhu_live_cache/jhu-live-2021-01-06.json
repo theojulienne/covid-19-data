@@ -146,7 +146,7 @@
           "confirmed": 69096,
           "date": "2021-01-06",
           "deaths": 943,
-          "recovered": 53337
+          "recovered": 53600
         }
       },
       "Amazonas": {
@@ -186,7 +186,7 @@
           "confirmed": 255497,
           "date": "2021-01-06",
           "deaths": 5199,
-          "recovered": 233521
+          "recovered": 236126
         }
       },
       "Goias": {
@@ -250,7 +250,7 @@
           "confirmed": 427789,
           "date": "2021-01-06",
           "deaths": 8155,
-          "recovered": 312198
+          "recovered": 312210
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 443607,
           "date": "2021-01-06",
           "deaths": 25837,
-          "recovered": 412436
+          "recovered": 416229
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 204215,
+          "confirmed": 205266,
           "date": "2021-01-06",
-          "deaths": 4794,
-          "recovered": 175280
+          "deaths": 4800,
+          "recovered": 175579
         }
       },
       "Quebec": {
@@ -1503,17 +1503,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 1895241,
+          "confirmed": 1895404,
           "date": "2021-01-06",
-          "deaths": 21138,
+          "deaths": 21155,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 58959,
+          "confirmed": 59565,
           "date": "2021-01-06",
-          "deaths": 1755,
+          "deaths": 1763,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 133374,
+          "confirmed": 135111,
           "date": "2021-01-06",
-          "deaths": 1547,
+          "deaths": 1577,
           "recovered": 0
         }
       },
