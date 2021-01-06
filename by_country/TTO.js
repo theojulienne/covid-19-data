@@ -703,7 +703,8 @@ var covid19_dataset_country_tto = {
       7158,
       7162,
       7168,
-      7178
+      7178,
+      7186
     ],
     "deaths": [
       0,
@@ -1050,6 +1051,7 @@ var covid19_dataset_country_tto = {
       125,
       125,
       126,
+      127,
       127,
       127,
       127,
@@ -1405,7 +1407,8 @@ var covid19_dataset_country_tto = {
       6671,
       6680,
       6690,
-      6718
+      6718,
+      6735
     ]
   }
 };

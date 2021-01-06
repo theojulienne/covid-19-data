@@ -703,7 +703,8 @@ var covid19_dataset_country_bhs = {
       7887,
       7887,
       7914,
-      7924
+      7924,
+      7928
     ],
     "deaths": [
       0,
@@ -1053,6 +1054,7 @@ var covid19_dataset_country_bhs = {
       170,
       171,
       171,
+      175,
       175,
       175
     ],
@@ -1405,7 +1407,8 @@ var covid19_dataset_country_bhs = {
       6239,
       6239,
       6239,
-      6239
+      6239,
+      6260
     ]
   }
 };
