@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 60283,
+      "confirmed": 61008,
       "date": "2021-01-06",
-      "deaths": 1210,
-      "recovered": 35551
+      "deaths": 1217,
+      "recovered": 36102
     }
   },
   "Algeria": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 203390,
+          "confirmed": 203477,
           "date": "2021-01-06",
-          "deaths": 4782,
-          "recovered": 173886
+          "deaths": 4785,
+          "recovered": 174445
         }
       },
       "Quebec": {
@@ -563,10 +563,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 100771,
+          "confirmed": 102077,
           "date": "2021-01-06",
-          "deaths": 1390,
-          "recovered": 82837
+          "deaths": 1445,
+          "recovered": 83245
         }
       },
       "Hessen": {
@@ -1001,10 +1001,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 195759,
+      "confirmed": 199925,
       "date": "2021-01-06",
-      "deaths": 1529,
-      "recovered": 135596
+      "deaths": 1550,
+      "recovered": 136566
     }
   },
   "Libya": {
@@ -1077,10 +1077,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 445439,
+      "confirmed": 447081,
       "date": "2021-01-06",
-      "deaths": 7581,
-      "recovered": 416708
+      "deaths": 7618,
+      "recovered": 418744
     }
   },
   "Nepal": {
@@ -1485,10 +1485,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2270101,
+      "confirmed": 2283931,
       "date": "2021-01-06",
-      "deaths": 21879,
-      "recovered": 2155338
+      "deaths": 22070,
+      "recovered": 2164040
     }
   },
   "US": {
@@ -1543,9 +1543,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 73650,
+          "confirmed": 74434,
           "date": "2021-01-06",
-          "deaths": 1189,
+          "deaths": 1205,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 66419,
+          "confirmed": 67193,
           "date": "2021-01-06",
-          "deaths": 579,
+          "deaths": 591,
           "recovered": 0
         }
       },
@@ -1631,7 +1631,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 153246,
+          "confirmed": 154127,
           "date": "2021-01-06",
           "deaths": 3623,
           "recovered": 0
