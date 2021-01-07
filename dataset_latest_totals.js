@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 204369,
-        "deaths": 662,
-        "recovered": 181400
+        "confirmed": 206092,
+        "deaths": 665,
+        "recovered": 183007
       },
       "back_2week": {
-        "confirmed": 195878,
-        "deaths": 642,
-        "recovered": 171451
+        "confirmed": 197124,
+        "deaths": 645,
+        "recovered": 172984
       },
       "latest": {
-        "confirmed": 216699,
-        "deaths": 685,
-        "recovered": 193321
+        "confirmed": 218766,
+        "deaths": 689,
+        "recovered": 195520
       }
     },
     "ARG": {
@@ -2013,19 +2013,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 175118,
-        "deaths": 1430,
-        "recovered": 125473
+        "confirmed": 177996,
+        "deaths": 1456,
+        "recovered": 126460
       },
       "back_2week": {
-        "confirmed": 160979,
-        "deaths": 1311,
-        "recovered": 115124
+        "confirmed": 163225,
+        "deaths": 1333,
+        "recovered": 116143
       },
       "latest": {
-        "confirmed": 195759,
-        "deaths": 1529,
-        "recovered": 135596
+        "confirmed": 199925,
+        "deaths": 1550,
+        "recovered": 136566
       }
     },
     "LBR": {
@@ -3302,19 +3302,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 2178580,
-        "deaths": 20388,
-        "recovered": 2058437
+        "confirmed": 2194272,
+        "deaths": 20642,
+        "recovered": 2078629
       },
       "back_2week": {
-        "confirmed": 2062960,
-        "deaths": 18602,
-        "recovered": 1866815
+        "confirmed": 2082610,
+        "deaths": 18861,
+        "recovered": 1901307
       },
       "latest": {
-        "confirmed": 2270101,
-        "deaths": 21879,
-        "recovered": 2155338
+        "confirmed": 2283931,
+        "deaths": 22070,
+        "recovered": 2164040
       }
     },
     "TWN": {
