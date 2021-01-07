@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 204958,
+      "confirmed": 206796,
       "date": "2021-01-07",
-      "deaths": 1480,
-      "recovered": 186394
+      "deaths": 1489,
+      "recovered": 188789
     }
   },
   "Belgium": {
@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 114282,
+          "confirmed": 115779,
           "date": "2021-01-07",
-          "deaths": 2206,
+          "deaths": 2239,
           "recovered": 98310
         }
       },
@@ -825,18 +825,18 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1261903,
+      "confirmed": 1268263,
       "date": "2021-01-07",
-      "deaths": 55830,
-      "recovered": 1040521
+      "deaths": 55933,
+      "recovered": 1050553
     }
   },
   "Iraq": {
     "live": {
-      "confirmed": 599965,
+      "confirmed": 600755,
       "date": "2021-01-07",
-      "deaths": 12865,
-      "recovered": 549346
+      "deaths": 12869,
+      "recovered": 551127
     }
   },
   "Ireland": {
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 654007,
+      "confirmed": 658958,
       "date": "2021-01-07",
-      "deaths": 16299,
-      "recovered": 586764
+      "deaths": 16410,
+      "recovered": 591596
     }
   },
   "Russia": {
@@ -1443,15 +1443,15 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 74414,
+          "confirmed": 76622,
           "date": "2021-01-07",
-          "deaths": 673,
+          "deaths": 755,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 123006,
+          "confirmed": 125150,
           "date": "2021-01-07",
           "deaths": 3319,
           "recovered": 0
@@ -1459,9 +1459,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 78143,
+          "confirmed": 79771,
           "date": "2021-01-07",
-          "deaths": 1264,
+          "deaths": 1369,
           "recovered": 0
         }
       }
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 850785,
+          "confirmed": 851292,
           "date": "2021-01-07",
           "deaths": 10669,
           "recovered": 0
@@ -1809,10 +1809,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 144257,
+      "confirmed": 145252,
       "date": "2021-01-07",
-      "deaths": 1519,
-      "recovered": 126110
+      "deaths": 1536,
+      "recovered": 127495
     }
   }
 }
