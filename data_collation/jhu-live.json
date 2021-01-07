@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 165268,
+      "confirmed": 166981,
       "date": "2021-01-07",
-      "deaths": 9241,
-      "recovered": 134503
+      "deaths": 9287,
+      "recovered": 135186
     }
   },
   "Bosnia and Herzegovina": {
@@ -382,7 +382,7 @@
           "confirmed": 217999,
           "date": "2021-01-07",
           "deaths": 8488,
-          "recovered": 182602
+          "recovered": 184904
         }
       }
     }
@@ -415,50 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 273430,
+          "confirmed": 276328,
           "date": "2021-01-07",
-          "deaths": 4929,
-          "recovered": 251373
+          "deaths": 4965,
+          "recovered": 254076
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 96681,
+          "confirmed": 96957,
           "date": "2021-01-07",
-          "deaths": 3481,
-          "recovered": 89842
+          "deaths": 3489,
+          "recovered": 90101
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 490315,
+          "confirmed": 496317,
           "date": "2021-01-07",
-          "deaths": 10131,
-          "recovered": 440366
+          "deaths": 10203,
+          "recovered": 445357
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 69835,
+          "confirmed": 70712,
           "date": "2021-01-07",
-          "deaths": 1756,
-          "recovered": 64305
+          "deaths": 1773,
+          "recovered": 64572
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 69610,
+          "confirmed": 69936,
           "date": "2021-01-07",
-          "deaths": 2449,
-          "recovered": 62961
+          "deaths": 2468,
+          "recovered": 63213
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 141498,
+          "confirmed": 142758,
           "date": "2021-01-07",
-          "deaths": 4397,
-          "recovered": 131506
+          "deaths": 4439,
+          "recovered": 131964
         }
       }
     }
@@ -964,7 +964,7 @@
       "confirmed": 205064,
       "date": "2021-01-07",
       "deaths": 2775,
-      "recovered": 179377
+      "recovered": 180187
     }
   },
   "Kenya": {
@@ -977,10 +977,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 65818,
+      "confirmed": 66686,
       "date": "2021-01-07",
-      "deaths": 1027,
-      "recovered": 46995
+      "deaths": 1046,
+      "recovered": 47649
     }
   },
   "Kuwait": {
@@ -1035,33 +1035,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 342928,
+          "confirmed": 348421,
           "date": "2021-01-07",
-          "deaths": 17345,
+          "deaths": 17526,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 85350,
+          "confirmed": 85781,
           "date": "2021-01-07",
-          "deaths": 5499,
+          "deaths": 5562,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 150012,
+          "confirmed": 151455,
           "date": "2021-01-07",
-          "deaths": 19460,
+          "deaths": 19719,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 85375,
+          "confirmed": 86186,
           "date": "2021-01-07",
-          "deaths": 5229,
+          "deaths": 5327,
           "recovered": 0
         }
       }
@@ -1197,10 +1197,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 259770,
+      "confirmed": 264956,
       "date": "2021-01-07",
-      "deaths": 4238,
-      "recovered": 206087
+      "deaths": 4283,
+      "recovered": 208620
     }
   },
   "Paraguay": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1899933,
+          "confirmed": 1914521,
           "date": "2021-01-07",
-          "deaths": 21236,
+          "deaths": 21512,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 848688,
+          "confirmed": 850785,
           "date": "2021-01-07",
           "deaths": 10669,
           "recovered": 0
