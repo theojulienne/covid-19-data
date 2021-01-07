@@ -2472,8 +2472,7 @@ var covid19_dataset_top10_by_deaths = {
           2639404,
           2651893,
           2655915,
-          2676195,
-          2701215
+          2676195
         ],
         "deaths": [
           0,
@@ -2825,8 +2824,7 @@ var covid19_dataset_top10_by_deaths = {
           64555,
           64671,
           65049,
-          65915,
-          66197
+          65915
         ],
         "recovered": [
           0,
@@ -3178,8 +3176,7 @@ var covid19_dataset_top10_by_deaths = {
           171169,
           171381,
           172032,
-          173498,
-          174751
+          173498
         ]
       }
     },
@@ -5655,8 +5652,7 @@ var covid19_dataset_top10_by_deaths = {
           1237474,
           1243434,
           1249507,
-          1255620,
-          1261903
+          1255620
         ],
         "deaths": [
           0,
@@ -6008,8 +6004,7 @@ var covid19_dataset_top10_by_deaths = {
           55438,
           55540,
           55650,
-          55748,
-          55830
+          55748
         ],
         "recovered": [
           0,
@@ -6361,8 +6356,7 @@ var covid19_dataset_top10_by_deaths = {
           1004326,
           1013018,
           1020737,
-          1029028,
-          1040521
+          1029028
         ]
       }
     },
@@ -9898,7 +9892,8 @@ var covid19_dataset_top10_by_deaths = {
           20138068,
           20345969,
           20523064,
-          20737937
+          20737937,
+          20980939
         ],
         "deaths": [
           0,
@@ -10250,7 +10245,8 @@ var covid19_dataset_top10_by_deaths = {
           340128,
           341570,
           343105,
-          346619
+          346619,
+          350404
         ],
         "recovered": [
           0,
@@ -10602,7 +10598,8 @@ var covid19_dataset_top10_by_deaths = {
           8014648,
           8059734,
           8220980,
-          8298378
+          8298378,
+          8395924
         ],
         "tested": [
           2,
@@ -10954,7 +10951,8 @@ var covid19_dataset_top10_by_deaths = {
           215473839,
           216682797,
           218117169,
-          219498689
+          219498689,
+          220753592
         ]
       }
     }
@@ -11311,7 +11309,8 @@ var covid19_dataset_top10_by_deaths = {
     "2021-01-04",
     "2021-01-05",
     "2021-01-06",
-    "2021-01-07"
+    "2021-01-07",
+    "2021-01-08"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
