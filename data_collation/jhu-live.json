@@ -481,9 +481,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 794740,
+      "confirmed": 809601,
       "date": "2021-01-08",
-      "deaths": 12621,
+      "deaths": 12800,
       "recovered": 651814
     }
   },
@@ -537,10 +537,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 235491,
+      "confirmed": 236028,
       "date": "2021-01-08",
-      "deaths": 2694,
-      "recovered": 223695
+      "deaths": 2728,
+      "recovered": 224189
     }
   },
   "Germany": {
@@ -1325,7 +1325,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 58813,
+      "confirmed": 58836,
       "date": "2021-01-08",
       "deaths": 29,
       "recovered": 58562
