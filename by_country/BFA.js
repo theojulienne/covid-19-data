@@ -707,7 +707,8 @@ var covid19_dataset_country_bfa = {
       7051,
       7126,
       7342,
-      7563
+      7563,
+      7713
     ],
     "deaths": [
       0,
@@ -1060,6 +1061,7 @@ var covid19_dataset_country_bfa = {
       86,
       86,
       86,
+      89,
       89
     ],
     "recovered": [
@@ -1413,7 +1415,8 @@ var covid19_dataset_country_bfa = {
       5259,
       5300,
       5443,
-      5474
+      5474,
+      5533
     ]
   }
 };
