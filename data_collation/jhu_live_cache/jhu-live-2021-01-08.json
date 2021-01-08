@@ -186,7 +186,7 @@
           "confirmed": 258799,
           "date": "2021-01-08",
           "deaths": 5259,
-          "recovered": 238355
+          "recovered": 240711
         }
       },
       "Goias": {
@@ -242,7 +242,7 @@
           "confirmed": 170611,
           "date": "2021-01-08",
           "deaths": 3773,
-          "recovered": 129355
+          "recovered": 129902
         }
       },
       "Parana": {
@@ -290,7 +290,7 @@
           "confirmed": 452758,
           "date": "2021-01-08",
           "deaths": 26292,
-          "recovered": 416229
+          "recovered": 421587
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 212454,
+          "confirmed": 212951,
           "date": "2021-01-08",
-          "deaths": 4901,
-          "recovered": 181057
+          "deaths": 4909,
+          "recovered": 181292
         }
       },
       "Quebec": {
@@ -521,10 +521,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 127227,
+      "confirmed": 127572,
       "date": "2021-01-08",
-      "deaths": 1966,
-      "recovered": 113021
+      "deaths": 1974,
+      "recovered": 113182
     }
   },
   "France": {
@@ -1477,10 +1477,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 152254,
+      "confirmed": 154903,
       "date": "2021-01-08",
-      "deaths": 5052,
-      "recovered": 113415
+      "deaths": 5108,
+      "recovered": 115173
     }
   },
   "Turkey": {
@@ -1599,7 +1599,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 715839,
+          "confirmed": 720399,
           "date": "2021-01-08",
           "deaths": 30605,
           "recovered": 0
@@ -1647,17 +1647,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 136823,
+          "confirmed": 137891,
           "date": "2021-01-08",
-          "deaths": 1596,
+          "deaths": 1623,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 860858,
+          "confirmed": 863856,
           "date": "2021-01-08",
-          "deaths": 10808,
+          "deaths": 10935,
           "recovered": 0
         }
       },
