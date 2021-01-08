@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 211031,
+          "confirmed": 212454,
           "date": "2021-01-08",
-          "deaths": 4899,
-          "recovered": 180300
+          "deaths": 4901,
+          "recovered": 181057
         }
       },
       "Quebec": {
@@ -1349,10 +1349,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1170590,
+      "confirmed": 1192570,
       "date": "2021-01-08",
-      "deaths": 31809,
-      "recovered": 938216
+      "deaths": 32425,
+      "recovered": 947919
     }
   },
   "Spain": {
@@ -1519,17 +1519,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 788142,
+          "confirmed": 798096,
           "date": "2021-01-08",
-          "deaths": 10781,
+          "deaths": 10842,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 124046,
+          "confirmed": 126695,
           "date": "2021-01-08",
-          "deaths": 1413,
+          "deaths": 1424,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 152745,
+          "confirmed": 153802,
           "date": "2021-01-08",
-          "deaths": 5455,
+          "deaths": 5460,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 183447,
+          "confirmed": 185829,
           "date": "2021-01-08",
-          "deaths": 2524,
+          "deaths": 2566,
           "recovered": 0
         }
       },
@@ -1615,9 +1615,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 164559,
+          "confirmed": 166253,
           "date": "2021-01-08",
-          "deaths": 1633,
+          "deaths": 1637,
           "recovered": 0
         }
       },
@@ -1679,7 +1679,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 94998,
+          "confirmed": 95594,
           "date": "2021-01-08",
           "deaths": 1013,
           "recovered": 0
