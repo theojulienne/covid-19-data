@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 71250,
           "date": "2021-01-08",
-          "deaths": 622,
+          "deaths": 629,
           "recovered": 53952
         }
       }
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 658958,
+      "confirmed": 663799,
       "date": "2021-01-08",
-      "deaths": 16410,
-      "recovered": 591596
+      "deaths": 16506,
+      "recovered": 595007
     }
   },
   "Russia": {
@@ -1469,9 +1469,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 474764,
+      "confirmed": 477983,
       "date": "2021-01-08",
-      "deaths": 8178,
+      "deaths": 8212,
       "recovered": 317600
     }
   },
