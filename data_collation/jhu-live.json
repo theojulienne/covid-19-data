@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 81237,
+          "confirmed": 81508,
           "date": "2021-01-09",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 82722,
+          "confirmed": 82979,
           "date": "2021-01-09",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 66748,
+          "confirmed": 66989,
           "date": "2021-01-09",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 103241,
+          "confirmed": 103476,
           "date": "2021-01-09",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 97845,
+          "confirmed": 98011,
           "date": "2021-01-09",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 168891,
+      "confirmed": 171154,
       "date": "2021-01-09",
-      "deaths": 9304,
-      "recovered": 136266
+      "deaths": 9328,
+      "recovered": 136882
     }
   },
   "Bosnia and Herzegovina": {
@@ -550,7 +550,7 @@
           "confirmed": 257389,
           "date": "2021-01-09",
           "deaths": 5463,
-          "recovered": 207633
+          "recovered": 210300
         }
       },
       "Bayern": {
@@ -558,7 +558,7 @@
           "confirmed": 348331,
           "date": "2021-01-09",
           "deaths": 7664,
-          "recovered": 285886
+          "recovered": 288726
         }
       },
       "Berlin": {
@@ -566,7 +566,7 @@
           "confirmed": 105125,
           "date": "2021-01-09",
           "deaths": 1547,
-          "recovered": 85603
+          "recovered": 86037
         }
       },
       "Hessen": {
@@ -574,7 +574,7 @@
           "confirmed": 147012,
           "date": "2021-01-09",
           "deaths": 3349,
-          "recovered": 118324
+          "recovered": 119509
         }
       },
       "Niedersachsen": {
@@ -582,7 +582,7 @@
           "confirmed": 117541,
           "date": "2021-01-09",
           "deaths": 2284,
-          "recovered": 99235
+          "recovered": 100194
         }
       },
       "Nordrhein-Westfalen": {
@@ -590,7 +590,7 @@
           "confirmed": 420190,
           "date": "2021-01-09",
           "deaths": 7706,
-          "recovered": 350594
+          "recovered": 353548
         }
       },
       "Rheinland-Pfalz": {
@@ -598,7 +598,7 @@
           "confirmed": 79218,
           "date": "2021-01-09",
           "deaths": 1740,
-          "recovered": 59941
+          "recovered": 60454
         }
       },
       "Sachsen": {
@@ -977,10 +977,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 67358,
+      "confirmed": 67999,
       "date": "2021-01-09",
-      "deaths": 1081,
-      "recovered": 48369
+      "deaths": 1100,
+      "recovered": 49324
     }
   },
   "Kuwait": {
@@ -1035,33 +1035,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 354011,
+          "confirmed": 359312,
           "date": "2021-01-09",
-          "deaths": 17752,
+          "deaths": 17897,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 86483,
+          "confirmed": 87379,
           "date": "2021-01-09",
-          "deaths": 5650,
+          "deaths": 5701,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 153001,
+          "confirmed": 154171,
           "date": "2021-01-09",
-          "deaths": 19936,
+          "deaths": 20086,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 86953,
+          "confirmed": 87815,
           "date": "2021-01-09",
-          "deaths": 5356,
+          "deaths": 5408,
           "recovered": 0
         }
       }
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2037725,
+          "confirmed": 2042275,
           "date": "2021-01-09",
-          "deaths": 23064,
+          "deaths": 23097,
           "recovered": 0
         }
       },
