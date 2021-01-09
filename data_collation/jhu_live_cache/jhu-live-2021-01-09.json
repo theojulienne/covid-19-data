@@ -547,17 +547,17 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 257389,
+          "confirmed": 257403,
           "date": "2021-01-09",
-          "deaths": 5463,
+          "deaths": 5464,
           "recovered": 210300
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 348331,
+          "confirmed": 351615,
           "date": "2021-01-09",
-          "deaths": 7664,
+          "deaths": 7786,
           "recovered": 288726
         }
       },
@@ -571,31 +571,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 147012,
+          "confirmed": 148863,
           "date": "2021-01-09",
-          "deaths": 3349,
+          "deaths": 3461,
           "recovered": 119509
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 117541,
+          "confirmed": 118305,
           "date": "2021-01-09",
-          "deaths": 2284,
+          "deaths": 2313,
           "recovered": 100194
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 420190,
+          "confirmed": 424492,
           "date": "2021-01-09",
-          "deaths": 7706,
+          "deaths": 7866,
           "recovered": 353548
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 79218,
+          "confirmed": 79252,
           "date": "2021-01-09",
           "deaths": 1740,
           "recovered": 60454
@@ -605,7 +605,7 @@
         "live": {
           "confirmed": 152487,
           "date": "2021-01-09",
-          "deaths": 3969,
+          "deaths": 3981,
           "recovered": 118100
         }
       }
@@ -629,10 +629,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 125118,
+      "confirmed": 125557,
       "date": "2021-01-09",
-      "deaths": 3200,
-      "recovered": 57348
+      "deaths": 3244,
+      "recovered": 58517
     }
   },
   "Hungary": {
@@ -1793,10 +1793,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 115322,
+      "confirmed": 115667,
       "date": "2021-01-09",
-      "deaths": 1052,
-      "recovered": 109364
+      "deaths": 1056,
+      "recovered": 109684
     }
   },
   "West Bank and Gaza": {
