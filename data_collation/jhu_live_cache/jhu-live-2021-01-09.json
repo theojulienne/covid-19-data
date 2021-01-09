@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 214434,
+          "confirmed": 215044,
           "date": "2021-01-09",
-          "deaths": 4927,
-          "recovered": 182649
+          "deaths": 4938,
+          "recovered": 183262
         }
       },
       "Quebec": {
@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 219148,
+      "confirmed": 220349,
       "date": "2021-01-09",
-      "deaths": 14165,
+      "deaths": 14177,
       "recovered": 190350
     }
   },
@@ -841,9 +841,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 135884,
+      "confirmed": 140727,
       "date": "2021-01-09",
-      "deaths": 2327,
+      "deaths": 2336,
       "recovered": 23364
     }
   },
@@ -1077,10 +1077,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 450221,
+      "confirmed": 451637,
       "date": "2021-01-09",
-      "deaths": 7685,
-      "recovered": 422072
+      "deaths": 7709,
+      "recovered": 423541
     }
   },
   "Nepal": {
@@ -1493,14 +1493,6 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 58394,
-          "date": "2021-01-09",
-          "deaths": 784,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
           "confirmed": 447046,
@@ -1511,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 1991580,
+          "confirmed": 2061513,
           "date": "2021-01-09",
-          "deaths": 22415,
+          "deaths": 23144,
           "recovered": 0
         }
       },
@@ -1543,9 +1535,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 478889,
+          "confirmed": 481775,
           "date": "2021-01-09",
-          "deaths": 9783,
+          "deaths": 9806,
           "recovered": 0
         }
       },
@@ -1607,9 +1599,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 720399,
+          "confirmed": 726642,
           "date": "2021-01-09",
-          "deaths": 30630,
+          "deaths": 30674,
           "recovered": 0
         }
       },
@@ -1631,9 +1623,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 63058,
+          "confirmed": 63766,
           "date": "2021-01-09",
-          "deaths": 457,
+          "deaths": 464,
           "recovered": 0
         }
       },
