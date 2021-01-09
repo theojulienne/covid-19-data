@@ -170,7 +170,7 @@
           "confirmed": 342941,
           "date": "2021-01-09",
           "deaths": 10122,
-          "recovered": 274609
+          "recovered": 274636
         }
       },
       "Distrito Federal": {
@@ -266,7 +266,7 @@
           "confirmed": 145997,
           "date": "2021-01-09",
           "deaths": 2891,
-          "recovered": 142737
+          "recovered": 143513
         }
       },
       "Rio Grande do Norte": {
@@ -382,7 +382,7 @@
           "confirmed": 223106,
           "date": "2021-01-09",
           "deaths": 8606,
-          "recovered": 186996
+          "recovered": 189937
         }
       }
     }
@@ -415,7 +415,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 278815,
+          "confirmed": 281518,
           "date": "2021-01-09",
           "deaths": 5031,
           "recovered": 257295
@@ -423,7 +423,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 97872,
+          "confirmed": 98615,
           "date": "2021-01-09",
           "deaths": 3518,
           "recovered": 91184
@@ -431,7 +431,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 501691,
+          "confirmed": 507768,
           "date": "2021-01-09",
           "deaths": 10387,
           "recovered": 453954
@@ -439,7 +439,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 71614,
+          "confirmed": 72582,
           "date": "2021-01-09",
           "deaths": 1799,
           "recovered": 66361
@@ -447,7 +447,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 70899,
+          "confirmed": 71666,
           "date": "2021-01-09",
           "deaths": 2508,
           "recovered": 64300
@@ -455,7 +455,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 144010,
+          "confirmed": 145281,
           "date": "2021-01-09",
           "deaths": 4513,
           "recovered": 133231
@@ -961,10 +961,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 206840,
+      "confirmed": 207683,
       "date": "2021-01-09",
       "deaths": 2838,
-      "recovered": 181193
+      "recovered": 181944
     }
   },
   "Kenya": {
@@ -1197,10 +1197,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 269091,
+      "confirmed": 273037,
       "date": "2021-01-09",
-      "deaths": 4321,
-      "recovered": 212656
+      "deaths": 4363,
+      "recovered": 215361
     }
   },
   "Paraguay": {
@@ -1215,9 +1215,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 453069,
+          "confirmed": 454697,
           "date": "2021-01-09",
-          "deaths": 16873,
+          "deaths": 16923,
           "recovered": 0
         }
       }
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2018866,
+          "confirmed": 2037725,
           "date": "2021-01-09",
-          "deaths": 22727,
+          "deaths": 23064,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 868677,
+          "confirmed": 869756,
           "date": "2021-01-09",
           "deaths": 10935,
           "recovered": 0
@@ -1671,9 +1671,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 66998,
+          "confirmed": 67932,
           "date": "2021-01-09",
-          "deaths": 1093,
+          "deaths": 1105,
           "recovered": 0
         }
       },
