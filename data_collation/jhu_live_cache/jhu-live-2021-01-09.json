@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 520690,
+      "confirmed": 521382,
       "date": "2021-01-09",
-      "deaths": 7734,
-      "recovered": 465279
+      "deaths": 7756,
+      "recovered": 466064
     }
   },
   "Belarus": {
@@ -1233,10 +1233,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1365645,
+      "confirmed": 1376389,
       "date": "2021-01-09",
-      "deaths": 30574,
-      "recovered": 1104599
+      "deaths": 31011,
+      "recovered": 1113738
     }
   },
   "Portugal": {
@@ -1333,10 +1333,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 201164,
+      "confirmed": 205236,
       "date": "2021-01-09",
-      "deaths": 2788,
-      "recovered": 141490
+      "deaths": 2836,
+      "recovered": 144612
     }
   },
   "Slovenia": {

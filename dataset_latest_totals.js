@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 513510,
-        "deaths": 7559,
-        "recovered": 457459
+        "confirmed": 514500,
+        "deaths": 7576,
+        "recovered": 458656
       },
       "back_2week": {
-        "confirmed": 506102,
-        "deaths": 7378,
-        "recovered": 446690
+        "confirmed": 507265,
+        "deaths": 7398,
+        "recovered": 448803
       },
       "latest": {
-        "confirmed": 519905,
-        "deaths": 7718,
-        "recovered": 464446
+        "confirmed": 520690,
+        "deaths": 7734,
+        "recovered": 465279
       }
     },
     "BGR": {
@@ -2741,19 +2741,19 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 1294878,
-        "deaths": 28554,
-        "recovered": 1036138
+        "confirmed": 1305774,
+        "deaths": 28956,
+        "recovered": 1046281
       },
       "back_2week": {
-        "confirmed": 1239998,
-        "deaths": 26752,
-        "recovered": 975876
+        "confirmed": 1249079,
+        "deaths": 26992,
+        "recovered": 984683
       },
       "latest": {
-        "confirmed": 1356882,
-        "deaths": 30241,
-        "recovered": 1095616
+        "confirmed": 1365645,
+        "deaths": 30574,
+        "recovered": 1104599
       }
     },
     "PRT": {
@@ -3081,19 +3081,19 @@ var covid19_dataset_latest_totals = {
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 179543,
-        "deaths": 2138,
-        "recovered": 125971
+        "confirmed": 184508,
+        "deaths": 2250,
+        "recovered": 127190
       },
       "back_2week": {
-        "confirmed": 161562,
+        "confirmed": 165608,
         "deaths": 1732,
-        "recovered": 114267
+        "recovered": 115663
       },
       "latest": {
-        "confirmed": 198184,
-        "deaths": 2717,
-        "recovered": 138383
+        "confirmed": 201164,
+        "deaths": 2788,
+        "recovered": 141490
       }
     },
     "SVN": {
