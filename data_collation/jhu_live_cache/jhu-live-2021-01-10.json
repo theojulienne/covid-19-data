@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 75012,
           "date": "2021-01-10",
-          "deaths": 637,
+          "deaths": 640,
           "recovered": 55542
         }
       }
@@ -1257,9 +1257,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 668202,
+      "confirmed": 671284,
       "date": "2021-01-10",
-      "deaths": 16592,
+      "deaths": 16654,
       "recovered": 598610
     }
   },
