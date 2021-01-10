@@ -162,7 +162,7 @@
           "confirmed": 511192,
           "date": "2021-01-10",
           "deaths": 9392,
-          "recovered": 494972
+          "recovered": 496542
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 478501,
           "date": "2021-01-10",
           "deaths": 9413,
-          "recovered": 452882
+          "recovered": 455391
         }
       },
       "Rio de Janeiro": {
@@ -1477,10 +1477,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 157514,
+      "confirmed": 159276,
       "date": "2021-01-10",
-      "deaths": 5153,
-      "recovered": 116526
+      "deaths": 5215,
+      "recovered": 117701
     }
   },
   "Turkey": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 2101181,
           "date": "2021-01-10",
-          "deaths": 23538,
+          "deaths": 23549,
           "recovered": 0
         }
       },
@@ -1519,17 +1519,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 805980,
+          "confirmed": 812356,
           "date": "2021-01-10",
-          "deaths": 10905,
+          "deaths": 10962,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 128551,
+          "confirmed": 130181,
           "date": "2021-01-10",
-          "deaths": 1438,
+          "deaths": 1439,
           "recovered": 0
         }
       },
@@ -1599,7 +1599,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 736960,
+          "confirmed": 740884,
           "date": "2021-01-10",
           "deaths": 30791,
           "recovered": 0
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 879120,
+          "confirmed": 881366,
           "date": "2021-01-10",
           "deaths": 11167,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 190008,
+          "confirmed": 191395,
           "date": "2021-01-10",
           "deaths": 824,
           "recovered": 0
@@ -1679,9 +1679,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 96043,
+          "confirmed": 96381,
           "date": "2021-01-10",
-          "deaths": 1014,
+          "deaths": 1015,
           "recovered": 0
         }
       }
