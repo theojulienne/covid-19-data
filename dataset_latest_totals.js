@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 159738,
-        "deaths": 2828,
-        "recovered": 143355
+        "confirmed": 159798,
+        "deaths": 2836,
+        "recovered": 143640
       },
       "back_2week": {
-        "confirmed": 156763,
-        "deaths": 2733,
-        "recovered": 137815
+        "confirmed": 157349,
+        "deaths": 2752,
+        "recovered": 138669
       },
       "latest": {
-        "confirmed": 161415,
-        "deaths": 2908,
-        "recovered": 147961
+        "confirmed": 161794,
+        "deaths": 2922,
+        "recovered": 148893
       }
     },
     "ATG": {
@@ -1042,18 +1042,18 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 732022,
-        "deaths": 11711,
+        "confirmed": 735469,
+        "deaths": 11827,
         "recovered": 608128
       },
       "back_2week": {
-        "confirmed": 664863,
-        "deaths": 10859,
+        "confirmed": 667569,
+        "deaths": 10950,
         "recovered": 563454
       },
       "latest": {
-        "confirmed": 809601,
-        "deaths": 12800,
+        "confirmed": 822716,
+        "deaths": 12978,
         "recovered": 654008
       }
     },
@@ -1469,19 +1469,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 228410,
-        "deaths": 2528,
-        "recovered": 214992
+        "confirmed": 228752,
+        "deaths": 2572,
+        "recovered": 217973
       },
       "back_2week": {
-        "confirmed": 218724,
-        "deaths": 2313,
-        "recovered": 196220
+        "confirmed": 220508,
+        "deaths": 2352,
+        "recovered": 200339
       },
       "latest": {
-        "confirmed": 236028,
-        "deaths": 2728,
-        "recovered": 224189
+        "confirmed": 238086,
+        "deaths": 2750,
+        "recovered": 224718
       }
     },
     "GHA": {
@@ -2928,17 +2928,17 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 58629,
+        "confirmed": 58662,
         "deaths": 29,
         "recovered": 58449
       },
       "back_2week": {
-        "confirmed": 58509,
+        "confirmed": 58519,
         "deaths": 29,
         "recovered": 58352
       },
       "latest": {
-        "confirmed": 58836,
+        "confirmed": 58865,
         "deaths": 29,
         "recovered": 58580
       }
