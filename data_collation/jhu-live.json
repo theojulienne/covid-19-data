@@ -1,18 +1,18 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 63033,
+      "confirmed": 63595,
       "date": "2021-01-10",
-      "deaths": 1233,
-      "recovered": 37327
+      "deaths": 1241,
+      "recovered": 37648
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 101913,
+      "confirmed": 102144,
       "date": "2021-01-10",
-      "deaths": 2803,
-      "recovered": 69011
+      "deaths": 2807,
+      "recovered": 69212
     }
   },
   "Argentina": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 218142,
+          "confirmed": 218240,
           "date": "2021-01-10",
-          "deaths": 4970,
-          "recovered": 185297
+          "deaths": 4972,
+          "recovered": 185498
         }
       },
       "Quebec": {
@@ -621,10 +621,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 143127,
+      "confirmed": 143243,
       "date": "2021-01-10",
-      "deaths": 4999,
-      "recovered": 130549
+      "deaths": 5025,
+      "recovered": 131017
     }
   },
   "Honduras": {
@@ -1001,10 +1001,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 215553,
+      "confirmed": 219296,
       "date": "2021-01-10",
-      "deaths": 1590,
-      "recovered": 140569
+      "deaths": 1606,
+      "recovered": 142239
     }
   },
   "Libya": {
@@ -1341,7 +1341,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 139270,
+      "confirmed": 139281,
       "date": "2021-01-10",
       "deaths": 2998,
       "recovered": 111864
@@ -1543,9 +1543,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 77264,
+          "confirmed": 77884,
           "date": "2021-01-10",
-          "deaths": 1239,
+          "deaths": 1243,
           "recovered": 0
         }
       },
@@ -1575,9 +1575,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 90265,
+          "confirmed": 90839,
           "date": "2021-01-10",
-          "deaths": 1443,
+          "deaths": 1447,
           "recovered": 0
         }
       },
@@ -1591,9 +1591,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 187893,
+          "confirmed": 189730,
           "date": "2021-01-10",
-          "deaths": 2603,
+          "deaths": 2610,
           "recovered": 0
         }
       },
