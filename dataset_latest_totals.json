@@ -1044,17 +1044,17 @@
       "back_1week": {
         "confirmed": 732022,
         "deaths": 11711,
-        "recovered": 600073
+        "recovered": 608128
       },
       "back_2week": {
         "confirmed": 664863,
         "deaths": 10859,
-        "recovered": 557696
+        "recovered": 563454
       },
       "latest": {
         "confirmed": 809601,
         "deaths": 12800,
-        "recovered": 651814
+        "recovered": 654008
       }
     },
     "DEU": {
@@ -3771,14 +3771,14 @@
         "recovered": 75244
       },
       "back_2week": {
-        "confirmed": 76568,
+        "confirmed": 76666,
         "deaths": 612,
-        "recovered": 73911
+        "recovered": 74291
       },
       "latest": {
-        "confirmed": 77485,
+        "confirmed": 77530,
         "deaths": 616,
-        "recovered": 75875
+        "recovered": 75947
       }
     },
     "VAT": {
