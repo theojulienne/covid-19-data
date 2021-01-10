@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 485434,
+      "confirmed": 487034,
       "date": "2021-01-10",
       "deaths": 3645,
-      "recovered": 412296
+      "recovered": 414229
     }
   },
   "Italy": {
@@ -993,10 +993,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 82138,
+      "confirmed": 82273,
       "date": "2021-01-10",
-      "deaths": 1367,
-      "recovered": 77751
+      "deaths": 1369,
+      "recovered": 77902
     }
   },
   "Lebanon": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2082800,
+          "confirmed": 2084908,
           "date": "2021-01-10",
-          "deaths": 23495,
+          "deaths": 23538,
           "recovered": 0
         }
       },
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 877511,
+          "confirmed": 878812,
           "date": "2021-01-10",
           "deaths": 11167,
           "recovered": 0
