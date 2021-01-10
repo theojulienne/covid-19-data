@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 362911,
-        "deaths": 6261,
-        "recovered": 334901
+        "confirmed": 364302,
+        "deaths": 6275,
+        "recovered": 336922
       },
       "back_2week": {
-        "confirmed": 349055,
-        "deaths": 5783,
-        "recovered": 318154
+        "confirmed": 350484,
+        "deaths": 5843,
+        "recovered": 320753
       },
       "latest": {
-        "confirmed": 376793,
-        "deaths": 6641,
-        "recovered": 349215
+        "confirmed": 379071,
+        "deaths": 6687,
+        "recovered": 351382
       }
     },
     "AZE": {
@@ -2741,19 +2741,19 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 1305774,
-        "deaths": 28956,
-        "recovered": 1046281
+        "confirmed": 1312780,
+        "deaths": 29058,
+        "recovered": 1055436
       },
       "back_2week": {
-        "confirmed": 1249079,
-        "deaths": 26992,
-        "recovered": 984683
+        "confirmed": 1253957,
+        "deaths": 27061,
+        "recovered": 992381
       },
       "latest": {
-        "confirmed": 1365645,
-        "deaths": 30574,
-        "recovered": 1104599
+        "confirmed": 1376389,
+        "deaths": 31011,
+        "recovered": 1113738
       }
     },
     "PRT": {
@@ -3081,19 +3081,19 @@ var covid19_dataset_latest_totals = {
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 184508,
+        "confirmed": 186244,
         "deaths": 2250,
-        "recovered": 127190
+        "recovered": 128285
       },
       "back_2week": {
-        "confirmed": 165608,
+        "confirmed": 166649,
         "deaths": 1732,
-        "recovered": 115663
+        "recovered": 116948
       },
       "latest": {
-        "confirmed": 201164,
-        "deaths": 2788,
-        "recovered": 141490
+        "confirmed": 205236,
+        "deaths": 2836,
+        "recovered": 144612
       }
     },
     "SVN": {
