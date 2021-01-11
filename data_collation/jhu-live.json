@@ -355,8 +355,8 @@
     "live": {
       "confirmed": 130604,
       "date": "2021-01-11",
-      "deaths": 2846,
-      "recovered": 114049
+      "deaths": 2858,
+      "recovered": 114609
     }
   },
   "Canada": {
@@ -489,7 +489,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 181486,
+      "confirmed": 182725,
       "date": "2021-01-11",
       "deaths": 1597,
       "recovered": 155713
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 356922,
+          "confirmed": 357227,
           "date": "2021-01-11",
-          "deaths": 7916,
+          "deaths": 7917,
           "recovered": 294588
         }
       },
@@ -1009,7 +1009,7 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 104745,
+      "confirmed": 105378,
       "date": "2021-01-11",
       "deaths": 1589,
       "recovered": 81237
@@ -1309,7 +1309,7 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 363809,
+      "confirmed": 363949,
       "date": "2021-01-11",
       "deaths": 6295,
       "recovered": 355706
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 359689,
+      "confirmed": 361782,
       "date": "2021-01-11",
-      "deaths": 3582,
+      "deaths": 3610,
       "recovered": 0
     }
   },
