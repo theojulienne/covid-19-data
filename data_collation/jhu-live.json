@@ -65,7 +65,7 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 212201,
+      "confirmed": 213993,
       "date": "2021-01-11",
       "deaths": 1526,
       "recovered": 196284
@@ -825,7 +825,7 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1286406,
+      "confirmed": 1292614,
       "date": "2021-01-11",
       "deaths": 56262,
       "recovered": 1081736
@@ -1025,7 +1025,7 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 135992,
+      "confirmed": 138224,
       "date": "2021-01-11",
       "deaths": 555,
       "recovered": 109115
@@ -1257,7 +1257,7 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 671284,
+      "confirmed": 673271,
       "date": "2021-01-11",
       "deaths": 16725,
       "recovered": 600710
