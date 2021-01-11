@@ -202,7 +202,7 @@
           "confirmed": 201945,
           "date": "2021-01-11",
           "deaths": 4562,
-          "recovered": 191535
+          "recovered": 191545
         }
       },
       "Mato Grosso": {
@@ -210,7 +210,7 @@
           "confirmed": 188098,
           "date": "2021-01-11",
           "deaths": 4595,
-          "recovered": 177150
+          "recovered": 178504
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 172776,
           "date": "2021-01-11",
           "deaths": 3808,
-          "recovered": 130623
+          "recovered": 130673
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 480480,
           "date": "2021-01-11",
           "deaths": 9439,
-          "recovered": 456780
+          "recovered": 457266
         }
       },
       "Rio de Janeiro": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 222654,
+          "confirmed": 223626,
           "date": "2021-01-11",
-          "deaths": 5005,
-          "recovered": 188771
+          "deaths": 5021,
+          "recovered": 189618
         }
       },
       "Quebec": {
@@ -1077,10 +1077,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 452532,
+      "confirmed": 452988,
       "date": "2021-01-11",
-      "deaths": 7743,
-      "recovered": 424896
+      "deaths": 7767,
+      "recovered": 426006
     }
   },
   "Nepal": {
@@ -1469,10 +1469,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 159276,
+      "confirmed": 162350,
       "date": "2021-01-11",
-      "deaths": 5215,
-      "recovered": 117701
+      "deaths": 5284,
+      "recovered": 119446
     }
   },
   "Turkey": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 2132372,
           "date": "2021-01-11",
-          "deaths": 23846,
+          "deaths": 23875,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 154396,
+          "confirmed": 155897,
           "date": "2021-01-11",
-          "deaths": 5541,
+          "deaths": 5543,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 890890,
+          "confirmed": 896027,
           "date": "2021-01-11",
-          "deaths": 11225,
+          "deaths": 11254,
           "recovered": 0
         }
       },
@@ -1679,7 +1679,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 96381,
+          "confirmed": 96615,
           "date": "2021-01-11",
           "deaths": 1015,
           "recovered": 0
