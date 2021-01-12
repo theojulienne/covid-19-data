@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 115758,
+      "confirmed": 116200,
       "date": "2021-01-12",
-      "deaths": 4358,
-      "recovered": 82191
+      "deaths": 4373,
+      "recovered": 82822
     }
   },
   "Brazil": {
@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 77201,
           "date": "2021-01-12",
-          "deaths": 644,
+          "deaths": 646,
           "recovered": 56551
         }
       }
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 673271,
+      "confirmed": 676968,
       "date": "2021-01-12",
-      "deaths": 16725,
-      "recovered": 600710
+      "deaths": 16881,
+      "recovered": 605045
     }
   },
   "Russia": {
@@ -1655,7 +1655,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 903479,
+          "confirmed": 903777,
           "date": "2021-01-12",
           "deaths": 11280,
           "recovered": 0
@@ -1801,10 +1801,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 148171,
+      "confirmed": 148968,
       "date": "2021-01-12",
-      "deaths": 1614,
-      "recovered": 132158
+      "deaths": 1630,
+      "recovered": 133599
     }
   }
 }
