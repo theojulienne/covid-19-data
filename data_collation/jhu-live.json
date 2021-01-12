@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 836718,
+      "confirmed": 846765,
       "date": "2021-01-12",
-      "deaths": 24343,
-      "recovered": 688739
+      "deaths": 24645,
+      "recovered": 695807
     }
   },
   "Iran": {
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 504269,
+      "confirmed": 504888,
       "date": "2021-01-12",
-      "deaths": 3704,
-      "recovered": 425924
+      "deaths": 3723,
+      "recovered": 427197
     }
   },
   "Italy": {
@@ -946,7 +946,7 @@
           "confirmed": 77201,
           "date": "2021-01-12",
           "deaths": 644,
-          "recovered": 56046
+          "recovered": 56551
         }
       }
     }
@@ -1325,10 +1325,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 209069,
+      "confirmed": 211479,
       "date": "2021-01-12",
-      "deaths": 3007,
-      "recovered": 150239
+      "deaths": 3102,
+      "recovered": 153755
     }
   },
   "Slovenia": {
