@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 95879,
+      "confirmed": 96195,
       "date": "2021-01-12",
       "deaths": 356,
-      "recovered": 92645
+      "recovered": 92920
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 226386,
+          "confirmed": 226609,
           "date": "2021-01-12",
-          "deaths": 5069,
-          "recovered": 192919
+          "deaths": 5074,
+          "recovered": 193179
         }
       },
       "Quebec": {
@@ -465,10 +465,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 180061,
+      "confirmed": 181093,
       "date": "2021-01-12",
-      "deaths": 2353,
-      "recovered": 138631
+      "deaths": 2367,
+      "recovered": 139297
     }
   },
   "Croatia": {
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 508604,
+      "confirmed": 510063,
       "date": "2021-01-12",
-      "deaths": 3756,
-      "recovered": 429438
+      "deaths": 3771,
+      "recovered": 429929
     }
   },
   "Italy": {
@@ -1469,10 +1469,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 162350,
+      "confirmed": 164936,
       "date": "2021-01-12",
-      "deaths": 5284,
-      "recovered": 119446
+      "deaths": 5343,
+      "recovered": 120999
     }
   },
   "Turkey": {
@@ -1505,15 +1505,15 @@
         "live": {
           "confirmed": 2166524,
           "date": "2021-01-12",
-          "deaths": 24285,
+          "deaths": 24313,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 63073,
+          "confirmed": 64066,
           "date": "2021-01-12",
-          "deaths": 1797,
+          "deaths": 1806,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 213524,
+          "confirmed": 217580,
           "date": "2021-01-12",
-          "deaths": 6074,
+          "deaths": 6137,
           "recovered": 0
         }
       },
