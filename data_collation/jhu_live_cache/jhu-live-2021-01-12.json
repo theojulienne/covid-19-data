@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 523302,
+      "confirmed": 524020,
       "date": "2021-01-12",
-      "deaths": 7803,
-      "recovered": 467718
+      "deaths": 7819,
+      "recovered": 468681
     }
   },
   "Belarus": {
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 115633,
+      "confirmed": 115758,
       "date": "2021-01-12",
-      "deaths": 4330,
-      "recovered": 81625
+      "deaths": 4358,
+      "recovered": 82191
     }
   },
   "Brazil": {
@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 220223,
+      "confirmed": 220982,
       "date": "2021-01-12",
-      "deaths": 4403,
-      "recovered": 210844
+      "deaths": 4446,
+      "recovered": 211633
     }
   },
   "Czechia": {
@@ -963,7 +963,7 @@
     "live": {
       "confirmed": 210086,
       "date": "2021-01-12",
-      "deaths": 2845,
+      "deaths": 2875,
       "recovered": 183788
     }
   },
@@ -1009,10 +1009,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 105378,
+      "confirmed": 106030,
       "date": "2021-01-12",
-      "deaths": 1589,
-      "recovered": 81237
+      "deaths": 1622,
+      "recovered": 82229
     }
   },
   "Lithuania": {
@@ -1025,10 +1025,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 138224,
+      "confirmed": 141533,
       "date": "2021-01-12",
-      "deaths": 555,
-      "recovered": 109115
+      "deaths": 559,
+      "recovered": 110584
     }
   },
   "Mexico": {
@@ -1233,10 +1233,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1390385,
+      "confirmed": 1395779,
       "date": "2021-01-12",
-      "deaths": 31264,
-      "recovered": 1130460
+      "deaths": 31593,
+      "recovered": 1138126
     }
   },
   "Portugal": {
@@ -1333,10 +1333,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 139713,
+      "confirmed": 141573,
       "date": "2021-01-12",
-      "deaths": 3022,
-      "recovered": 112371
+      "deaths": 3053,
+      "recovered": 114330
     }
   },
   "South Africa": {
