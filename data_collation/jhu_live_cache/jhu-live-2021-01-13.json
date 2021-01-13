@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 226609,
+          "confirmed": 227861,
           "date": "2021-01-13",
-          "deaths": 5074,
-          "recovered": 193191
+          "deaths": 5110,
+          "recovered": 194462
         }
       },
       "Quebec": {
@@ -391,7 +391,7 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 327921,
+          "confirmed": 328631,
           "date": "2021-01-13",
           "deaths": 11008,
           "recovered": 312447
@@ -1095,49 +1095,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 100100,
+          "confirmed": 100921,
           "date": "2021-01-13",
-          "deaths": 1450,
+          "deaths": 1458,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 137937,
+          "confirmed": 138760,
           "date": "2021-01-13",
-          "deaths": 2504,
+          "deaths": 2524,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 149525,
+          "confirmed": 150293,
           "date": "2021-01-13",
-          "deaths": 1818,
+          "deaths": 1844,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 62160,
+          "confirmed": 62759,
           "date": "2021-01-13",
-          "deaths": 819,
+          "deaths": 827,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 72622,
+          "confirmed": 73181,
           "date": "2021-01-13",
-          "deaths": 938,
+          "deaths": 944,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 217822,
+          "confirmed": 219044,
           "date": "2021-01-13",
-          "deaths": 3028,
+          "deaths": 3067,
           "recovered": 0
         }
       }
@@ -1241,10 +1241,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 496552,
+      "confirmed": 507108,
       "date": "2021-01-13",
-      "deaths": 8080,
-      "recovered": 378084
+      "deaths": 8236,
+      "recovered": 382544
     }
   },
   "Qatar": {
@@ -1487,9 +1487,9 @@
     "subseries": {
       "Alabama": {
         "live": {
-          "confirmed": 59867,
+          "confirmed": 60269,
           "date": "2021-01-13",
-          "deaths": 842,
+          "deaths": 872,
           "recovered": 0
         }
       },
