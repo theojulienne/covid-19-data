@@ -194,7 +194,7 @@
           "confirmed": 320782,
           "date": "2021-01-13",
           "deaths": 6988,
-          "recovered": 310923
+          "recovered": 311605
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 303512,
           "date": "2021-01-13",
           "deaths": 7339,
-          "recovered": 284773
+          "recovered": 285714
         }
       },
       "Paraiba": {
@@ -371,7 +371,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 229840,
+          "confirmed": 229854,
           "date": "2021-01-13",
           "deaths": 5147,
           "recovered": 196687
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 151723,
+      "confirmed": 152719,
       "date": "2021-01-13",
-      "deaths": 8304,
-      "recovered": 119635
+      "deaths": 8362,
+      "recovered": 120312
     }
   },
   "Ethiopia": {
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 517271,
+      "confirmed": 520060,
       "date": "2021-01-13",
-      "deaths": 3803,
-      "recovered": 435586
+      "deaths": 3817,
+      "recovered": 437790
     }
   },
   "Italy": {
@@ -1463,7 +1463,7 @@
     "live": {
       "confirmed": 490358,
       "date": "2021-01-13",
-      "deaths": 8516,
+      "deaths": 8521,
       "recovered": 317600
     }
   },
@@ -1503,17 +1503,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2199515,
+          "confirmed": 2200485,
           "date": "2021-01-13",
-          "deaths": 24812,
+          "deaths": 24837,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 64066,
+          "confirmed": 65000,
           "date": "2021-01-13",
-          "deaths": 1806,
+          "deaths": 1821,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 217580,
+          "confirmed": 219975,
           "date": "2021-01-13",
-          "deaths": 6137,
+          "deaths": 6178,
           "recovered": 0
         }
       },
@@ -1657,7 +1657,7 @@
         "live": {
           "confirmed": 915565,
           "date": "2021-01-13",
-          "deaths": 11407,
+          "deaths": 11517,
           "recovered": 0
         }
       },
