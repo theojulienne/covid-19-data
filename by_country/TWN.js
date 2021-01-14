@@ -1437,7 +1437,8 @@ var covid19_dataset_country_twn = {
       720,
       720,
       726,
-      730
+      730,
+      731
     ]
   }
 };

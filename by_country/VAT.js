@@ -1437,6 +1437,7 @@ var covid19_dataset_country_vat = {
       15,
       15,
       15,
+      15,
       15
     ]
   }

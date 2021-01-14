@@ -1437,6 +1437,7 @@ var covid19_dataset_country_kgz = {
       77751,
       77902,
       78003,
+      78358,
       78358
     ]
   }

@@ -1437,7 +1437,8 @@ var covid19_dataset_country_khm = {
       371,
       374,
       374,
-      376
+      376,
+      377
     ]
   }
 };

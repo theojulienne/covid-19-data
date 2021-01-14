@@ -1437,7 +1437,8 @@ var covid19_dataset_country_tls = {
       40,
       41,
       41,
-      44
+      44,
+      45
     ]
   }
 };

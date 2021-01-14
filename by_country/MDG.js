@@ -1437,6 +1437,7 @@ var covid19_dataset_country_mdg = {
       17298,
       17447,
       17447,
+      17447,
       17447
     ]
   }

@@ -1437,6 +1437,7 @@ var covid19_dataset_country_ben = {
       3185,
       3185,
       3222,
+      3222,
       3222
     ]
   }

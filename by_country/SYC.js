@@ -1437,7 +1437,8 @@ var covid19_dataset_country_syc = {
       214,
       214,
       317,
-      314
+      314,
+      326
     ]
   }
 };

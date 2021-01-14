@@ -1437,6 +1437,7 @@ var covid19_dataset_country_lao = {
       40,
       40,
       40,
+      40,
       40
     ]
   }

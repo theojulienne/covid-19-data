@@ -1437,6 +1437,7 @@ var covid19_dataset_country_som = {
       3639,
       3639,
       3639,
+      3639,
       3639
     ]
   }

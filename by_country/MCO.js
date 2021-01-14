@@ -1437,7 +1437,8 @@ var covid19_dataset_country_mco = {
       830,
       850,
       883,
-      900
+      900,
+      926
     ]
   }
 };

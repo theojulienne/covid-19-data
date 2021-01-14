@@ -1437,6 +1437,7 @@ var covid19_dataset_country_tha = {
       5546,
       6566,
       6732,
+      6943,
       6943
     ]
   }

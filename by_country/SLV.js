@@ -1437,6 +1437,7 @@ var covid19_dataset_country_slv = {
       43134,
       43356,
       43356,
+      43810,
       43810
     ]
   }

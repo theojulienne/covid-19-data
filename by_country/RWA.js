@@ -1437,6 +1437,7 @@ var covid19_dataset_country_rwa = {
       6956,
       6974,
       6974,
+      6974,
       6974
     ]
   }

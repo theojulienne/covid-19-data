@@ -1437,6 +1437,7 @@ var covid19_dataset_country_fji = {
       44,
       47,
       47,
+      47,
       47
     ]
   }

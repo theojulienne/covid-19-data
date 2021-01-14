@@ -1437,6 +1437,7 @@ var covid19_dataset_country_bwa = {
       12927,
       12927,
       13310,
+      13310,
       13310
     ]
   }

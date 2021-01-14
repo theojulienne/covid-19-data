@@ -1437,6 +1437,7 @@ var covid19_dataset_country_png = {
       755,
       755,
       755,
+      755,
       755
     ]
   }

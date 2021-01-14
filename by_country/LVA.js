@@ -1437,6 +1437,7 @@ var covid19_dataset_country_lva = {
       35304,
       35771,
       36260,
+      36260,
       36260
     ]
   }

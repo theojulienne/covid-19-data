@@ -1437,7 +1437,8 @@ var covid19_dataset_country_brn = {
       153,
       153,
       153,
-      153
+      153,
+      168
     ]
   }
 };

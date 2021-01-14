@@ -1437,6 +1437,7 @@ var covid19_dataset_country_vct = {
       100,
       100,
       106,
+      106,
       106
     ]
   }
