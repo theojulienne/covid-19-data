@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 96470,
+      "confirmed": 96812,
       "date": "2021-01-14",
       "deaths": 356,
-      "recovered": 93160
+      "recovered": 93329
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 232791,
+          "confirmed": 233065,
           "date": "2021-01-14",
-          "deaths": 5206,
-          "recovered": 199742
+          "deaths": 5209,
+          "recovered": 200157
         }
       },
       "Quebec": {
@@ -529,7 +529,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 2845545,
+      "confirmed": 2845498,
       "date": "2021-01-14",
       "deaths": 68942,
       "recovered": 182673
@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 528204,
+      "confirmed": 529814,
       "date": "2021-01-14",
-      "deaths": 3860,
-      "recovered": 445943
+      "deaths": 3870,
+      "recovered": 447076
     }
   },
   "Italy": {
@@ -1341,10 +1341,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1278303,
+      "confirmed": 1296806,
       "date": "2021-01-14",
-      "deaths": 35140,
-      "recovered": 1030930
+      "deaths": 35582,
+      "recovered": 1049740
     }
   },
   "Spain": {
@@ -1463,16 +1463,16 @@
     "live": {
       "confirmed": 492832,
       "date": "2021-01-14",
-      "deaths": 8568,
+      "deaths": 8586,
       "recovered": 317600
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 168568,
+      "confirmed": 170895,
       "date": "2021-01-14",
-      "deaths": 5415,
-      "recovered": 122775
+      "deaths": 5478,
+      "recovered": 124610
     }
   },
   "Turkey": {
@@ -1485,35 +1485,27 @@
   },
   "US": {
     "subseries": {
-      "Alabama": {
-        "live": {
-          "confirmed": 60842,
-          "date": "2021-01-14",
-          "deaths": 887,
-          "recovered": 0
-        }
-      },
       "Arizona": {
         "live": {
-          "confirmed": 482464,
+          "confirmed": 488200,
           "date": "2021-01-14",
-          "deaths": 7450,
+          "deaths": 7574,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2222808,
+          "confirmed": 2228475,
           "date": "2021-01-14",
-          "deaths": 25197,
+          "deaths": 25305,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 65000,
+          "confirmed": 65226,
           "date": "2021-01-14",
-          "deaths": 1821,
+          "deaths": 1825,
           "recovered": 0
         }
       },
@@ -1561,7 +1553,7 @@
         "live": {
           "confirmed": 219975,
           "date": "2021-01-14",
-          "deaths": 6178,
+          "deaths": 6204,
           "recovered": 0
         }
       },
@@ -1647,17 +1639,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 142912,
+          "confirmed": 143791,
           "date": "2021-01-14",
-          "deaths": 1726,
+          "deaths": 1736,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 921930,
+          "confirmed": 983209,
           "date": "2021-01-14",
-          "deaths": 11517,
+          "deaths": 12090,
           "recovered": 0
         }
       },
