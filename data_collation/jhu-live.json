@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 231753,
+          "confirmed": 232791,
           "date": "2021-01-14",
-          "deaths": 5174,
-          "recovered": 198678
+          "deaths": 5206,
+          "recovered": 199742
         }
       },
       "Quebec": {
@@ -547,9 +547,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 267714,
+          "confirmed": 270023,
           "date": "2021-01-14",
-          "deaths": 5874,
+          "deaths": 5977,
           "recovered": 224722
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 135101,
+          "confirmed": 136770,
           "date": "2021-01-14",
-          "deaths": 1471,
+          "deaths": 1485,
           "recovered": 0
         }
       },
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 157362,
+          "confirmed": 158118,
           "date": "2021-01-14",
-          "deaths": 5575,
+          "deaths": 5620,
           "recovered": 0
         }
       },
@@ -1679,9 +1679,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 97758,
+          "confirmed": 98299,
           "date": "2021-01-14",
-          "deaths": 1025,
+          "deaths": 1030,
           "recovered": 0
         }
       }
