@@ -1042,19 +1042,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 759635,
-        "deaths": 12257,
-        "recovered": 625890
+        "confirmed": 776967,
+        "deaths": 12436,
+        "recovered": 638183
       },
       "back_2week": {
-        "confirmed": 685202,
-        "deaths": 11302,
-        "recovered": 576499
+        "confirmed": 701622,
+        "deaths": 11429,
+        "recovered": 584483
       },
       "latest": {
-        "confirmed": 844799,
-        "deaths": 13485,
-        "recovered": 676593
+        "confirmed": 855600,
+        "deaths": 13656,
+        "recovered": 692547
       }
     },
     "DEU": {
