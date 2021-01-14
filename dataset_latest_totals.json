@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 623384,
-        "deaths": 16253,
+        "confirmed": 631466,
+        "deaths": 16403,
         "recovered": 529580
       },
       "back_2week": {
-        "confirmed": 568807,
-        "deaths": 15387,
+        "confirmed": 577266,
+        "deaths": 15498,
         "recovered": 482944
       },
       "latest": {
-        "confirmed": 679072,
-        "deaths": 17255,
+        "confirmed": 686211,
+        "deaths": 17404,
         "recovered": 582822
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 1
         },
         "Ontario": {
-          "confirmed": 226609,
-          "deaths": 5074
+          "confirmed": 229854,
+          "deaths": 5147
         },
         "Prince Edward Island": {
           "confirmed": 103,
@@ -1141,17 +1141,17 @@
       "back_1week": {
         "confirmed": 175849,
         "deaths": 2419,
-        "recovered": 134331
+        "recovered": 134932
       },
       "back_2week": {
         "confirmed": 168265,
         "deaths": 2405,
-        "recovered": 129965
+        "recovered": 130264
       },
       "latest": {
         "confirmed": 184788,
         "deaths": 2427,
-        "recovered": 139867
+        "recovered": 140217
       }
     },
     "DZA": {
@@ -1862,17 +1862,17 @@
       "back_1week": {
         "confirmed": 301303,
         "deaths": 3940,
-        "recovered": 281020
+        "recovered": 282727
       },
       "back_2week": {
         "confirmed": 291393,
         "deaths": 3801,
-        "recovered": 266622
+        "recovered": 268843
       },
       "latest": {
         "confirmed": 309846,
         "deaths": 4076,
-        "recovered": 292104
+        "recovered": 293531
       }
     },
     "JPN": {
@@ -2219,17 +2219,17 @@
       "back_1week": {
         "confirmed": 146921,
         "deaths": 3070,
-        "recovered": 134751
+        "recovered": 135911
       },
       "back_2week": {
         "confirmed": 142851,
         "deaths": 2934,
-        "recovered": 128501
+        "recovered": 129539
       },
       "latest": {
         "confirmed": 150138,
         "deaths": 3176,
-        "recovered": 139427
+        "recovered": 140217
       }
     },
     "MDG": {
