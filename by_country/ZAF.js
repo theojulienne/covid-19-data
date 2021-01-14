@@ -1082,7 +1082,7 @@ var covid19_dataset_country_zaf = {
       33579,
       34334,
       35140,
-      35582
+      35852
     ],
     "recovered": [
       0,
