@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 80136,
           "date": "2021-01-14",
-          "deaths": 659,
+          "deaths": 662,
           "recovered": 58655
         }
       }
@@ -985,10 +985,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 155874,
+      "confirmed": 156434,
       "date": "2021-01-14",
       "deaths": 946,
-      "recovered": 149809
+      "recovered": 150061
     }
   },
   "Kyrgyzstan": {
@@ -1097,7 +1097,7 @@
         "live": {
           "confirmed": 100921,
           "date": "2021-01-14",
-          "deaths": 1458,
+          "deaths": 1472,
           "recovered": 0
         }
       },
@@ -1105,7 +1105,7 @@
         "live": {
           "confirmed": 138760,
           "date": "2021-01-14",
-          "deaths": 2524,
+          "deaths": 2531,
           "recovered": 0
         }
       },
@@ -1113,7 +1113,7 @@
         "live": {
           "confirmed": 150293,
           "date": "2021-01-14",
-          "deaths": 1844,
+          "deaths": 1849,
           "recovered": 0
         }
       },
@@ -1121,7 +1121,7 @@
         "live": {
           "confirmed": 62759,
           "date": "2021-01-14",
-          "deaths": 827,
+          "deaths": 834,
           "recovered": 0
         }
       },
@@ -1129,7 +1129,7 @@
         "live": {
           "confirmed": 73181,
           "date": "2021-01-14",
-          "deaths": 944,
+          "deaths": 956,
           "recovered": 0
         }
       },
@@ -1137,7 +1137,7 @@
         "live": {
           "confirmed": 219044,
           "date": "2021-01-14",
-          "deaths": 3067,
+          "deaths": 3094,
           "recovered": 0
         }
       }
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 366191,
+      "confirmed": 368072,
       "date": "2021-01-14",
-      "deaths": 3664,
+      "deaths": 3687,
       "recovered": 0
     }
   },
@@ -1463,7 +1463,7 @@
     "live": {
       "confirmed": 492832,
       "date": "2021-01-14",
-      "deaths": 8561,
+      "deaths": 8568,
       "recovered": 317600
     }
   },
