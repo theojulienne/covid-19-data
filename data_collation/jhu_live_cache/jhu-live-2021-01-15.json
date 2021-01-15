@@ -637,10 +637,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 347636,
+      "confirmed": 349149,
       "date": "2021-01-15",
-      "deaths": 11066,
-      "recovered": 220304
+      "deaths": 11177,
+      "recovered": 225021
     }
   },
   "India": {
@@ -1017,10 +1017,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 164414,
+      "confirmed": 165560,
       "date": "2021-01-15",
-      "deaths": 2346,
-      "recovered": 97511
+      "deaths": 2376,
+      "recovered": 100495
     }
   },
   "Malaysia": {
@@ -1225,10 +1225,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 494605,
+      "confirmed": 496646,
       "date": "2021-01-15",
-      "deaths": 9739,
-      "recovered": 459252
+      "deaths": 9876,
+      "recovered": 459737
     }
   },
   "Poland": {
@@ -1267,42 +1267,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 877428,
+          "confirmed": 882962,
           "date": "2021-01-15",
-          "deaths": 12241,
-          "recovered": 722487
+          "deaths": 12322,
+          "recovered": 729089
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 173259,
+          "confirmed": 174620,
           "date": "2021-01-15",
-          "deaths": 3188,
-          "recovered": 132567
+          "deaths": 3217,
+          "recovered": 133874
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 76287,
+          "confirmed": 76770,
           "date": "2021-01-15",
-          "deaths": 1865,
-          "recovered": 68592
+          "deaths": 1877,
+          "recovered": 69044
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 287814,
+          "confirmed": 290908,
           "date": "2021-01-15",
-          "deaths": 8649,
-          "recovered": 176523
+          "deaths": 8721,
+          "recovered": 180438
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 64018,
+          "confirmed": 64410,
           "date": "2021-01-15",
-          "deaths": 1753,
-          "recovered": 56435
+          "deaths": 1771,
+          "recovered": 56830
         }
       }
     }
