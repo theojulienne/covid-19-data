@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 234374,
+          "confirmed": 235133,
           "date": "2021-01-15",
           "deaths": 5285,
-          "recovered": 202322
+          "recovered": 202429
         }
       },
       "Quebec": {
@@ -547,9 +547,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 270036,
+          "confirmed": 271961,
           "date": "2021-01-15",
-          "deaths": 5978,
+          "deaths": 6049,
           "recovered": 227629
         }
       },
@@ -1341,10 +1341,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1296806,
+      "confirmed": 1311686,
       "date": "2021-01-15",
-      "deaths": 35852,
-      "recovered": 1049740
+      "deaths": 36467,
+      "recovered": 1062690
     }
   },
   "Spain": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2252705,
+          "confirmed": 2256642,
           "date": "2021-01-15",
-          "deaths": 25724,
+          "deaths": 25716,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 840415,
+          "confirmed": 848674,
           "date": "2021-01-15",
-          "deaths": 11230,
+          "deaths": 11290,
           "recovered": 0
         }
       },
@@ -1591,17 +1591,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 196134,
+          "confirmed": 197652,
           "date": "2021-01-15",
-          "deaths": 2762,
+          "deaths": 2795,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 783781,
+          "confirmed": 788933,
           "date": "2021-01-15",
-          "deaths": 31233,
+          "deaths": 31275,
           "recovered": 0
         }
       },
@@ -1617,7 +1617,7 @@
         "live": {
           "confirmed": 175770,
           "date": "2021-01-15",
-          "deaths": 1668,
+          "deaths": 1674,
           "recovered": 0
         }
       },
@@ -1631,9 +1631,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 165526,
+          "confirmed": 166195,
           "date": "2021-01-15",
-          "deaths": 3995,
+          "deaths": 4024,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 197806,
+          "confirmed": 199305,
           "date": "2021-01-15",
-          "deaths": 854,
+          "deaths": 862,
           "recovered": 0
         }
       },
