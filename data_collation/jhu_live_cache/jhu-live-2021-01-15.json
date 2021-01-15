@@ -547,18 +547,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 270023,
+          "confirmed": 270036,
           "date": "2021-01-15",
-          "deaths": 5977,
-          "recovered": 224722
+          "deaths": 5978,
+          "recovered": 227629
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 366702,
+          "confirmed": 369672,
           "date": "2021-01-15",
-          "deaths": 8407,
-          "recovered": 307616
+          "deaths": 8513,
+          "recovered": 311145
         }
       },
       "Berlin": {
@@ -566,46 +566,46 @@
           "confirmed": 110747,
           "date": "2021-01-15",
           "deaths": 1755,
-          "recovered": 92100
+          "recovered": 93003
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 154500,
+          "confirmed": 156127,
           "date": "2021-01-15",
-          "deaths": 3780,
-          "recovered": 126826
+          "deaths": 3843,
+          "recovered": 128574
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 124762,
+          "confirmed": 125183,
           "date": "2021-01-15",
-          "deaths": 2510,
-          "recovered": 106528
+          "deaths": 2531,
+          "recovered": 107454
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 439609,
+          "confirmed": 444159,
           "date": "2021-01-15",
-          "deaths": 8585,
-          "recovered": 373088
+          "deaths": 8838,
+          "recovered": 376568
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 83444,
+          "confirmed": 83476,
           "date": "2021-01-15",
           "deaths": 1977,
-          "recovered": 65469
+          "recovered": 66056
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 163288,
+          "confirmed": 163469,
           "date": "2021-01-15",
-          "deaths": 4786,
+          "deaths": 4794,
           "recovered": 131900
         }
       }
