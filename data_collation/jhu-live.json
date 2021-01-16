@@ -557,7 +557,7 @@
         "live": {
           "confirmed": 372696,
           "date": "2021-01-16",
-          "deaths": 8639,
+          "deaths": 8640,
           "recovered": 314041
         }
       },
@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 882418,
+      "confirmed": 896642,
       "date": "2021-01-16",
-      "deaths": 25484,
-      "recovered": 718696
+      "deaths": 25767,
+      "recovered": 727358
     }
   },
   "Iran": {
@@ -943,7 +943,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 83754,
+          "confirmed": 83946,
           "date": "2021-01-16",
           "deaths": 672,
           "recovered": 59908
@@ -1325,10 +1325,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 220707,
+      "confirmed": 222752,
       "date": "2021-01-16",
-      "deaths": 3362,
-      "recovered": 163323
+      "deaths": 3417,
+      "recovered": 166555
     }
   },
   "Slovenia": {
