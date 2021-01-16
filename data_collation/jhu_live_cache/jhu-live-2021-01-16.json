@@ -162,7 +162,7 @@
           "confirmed": 528539,
           "date": "2021-01-16",
           "deaths": 9575,
-          "recovered": 508189
+          "recovered": 512176
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 351351,
           "date": "2021-01-16",
           "deaths": 10209,
-          "recovered": 278015
+          "recovered": 278051
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 327030,
           "date": "2021-01-16",
           "deaths": 7072,
-          "recovered": 314444
+          "recovered": 315569
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 148415,
           "date": "2021-01-16",
           "deaths": 2648,
-          "recovered": 133167
+          "recovered": 134513
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 628966,
           "date": "2021-01-16",
           "deaths": 13182,
-          "recovered": 557815
+          "recovered": 563434
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 500792,
           "date": "2021-01-16",
           "deaths": 9838,
-          "recovered": 473148
+          "recovered": 476808
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 95503,
           "date": "2021-01-16",
           "deaths": 1301,
-          "recovered": 84979
+          "recovered": 85083
         }
       }
     }
@@ -1341,10 +1341,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1311686,
+      "confirmed": 1325659,
       "date": "2021-01-16",
-      "deaths": 36467,
-      "recovered": 1062690
+      "deaths": 36851,
+      "recovered": 1083978
     }
   },
   "Spain": {
@@ -1469,10 +1469,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 175065,
+      "confirmed": 177231,
       "date": "2021-01-16",
-      "deaths": 5528,
-      "recovered": 125635
+      "deaths": 5616,
+      "recovered": 127854
     }
   },
   "Turkey": {
@@ -1567,9 +1567,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 159033,
+          "confirmed": 159756,
           "date": "2021-01-16",
-          "deaths": 5629,
+          "deaths": 5663,
           "recovered": 0
         }
       },
@@ -1663,7 +1663,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 199305,
+          "confirmed": 200566,
           "date": "2021-01-16",
           "deaths": 867,
           "recovered": 0
@@ -1679,9 +1679,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 98795,
+          "confirmed": 99152,
           "date": "2021-01-16",
-          "deaths": 1029,
+          "deaths": 1103,
           "recovered": 0
         }
       }
