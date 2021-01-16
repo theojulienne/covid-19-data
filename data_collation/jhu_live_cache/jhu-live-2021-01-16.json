@@ -825,10 +825,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1318295,
+      "confirmed": 1324395,
       "date": "2021-01-16",
-      "deaths": 56621,
-      "recovered": 1107011
+      "deaths": 56717,
+      "recovered": 1113224
     }
   },
   "Iraq": {
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 688270,
+      "confirmed": 691488,
       "date": "2021-01-16",
-      "deaths": 17098,
-      "recovered": 618673
+      "deaths": 17164,
+      "recovered": 620058
     }
   },
   "Russia": {
@@ -1801,10 +1801,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 151142,
+      "confirmed": 151569,
       "date": "2021-01-16",
-      "deaths": 1687,
-      "recovered": 137648
+      "deaths": 1700,
+      "recovered": 138495
     }
   }
 }
