@@ -723,7 +723,8 @@ var covid19_dataset_country_vnm = {
       1515,
       1520,
       1521,
-      1531
+      1531,
+      1536
     ],
     "deaths": [
       0,
@@ -951,6 +952,7 @@ var covid19_dataset_country_vnm = {
       34,
       34,
       34,
+      35,
       35,
       35,
       35,
@@ -1445,7 +1447,8 @@ var covid19_dataset_country_vnm = {
       1361,
       1361,
       1369,
-      1369
+      1369,
+      1380
     ]
   }
 };

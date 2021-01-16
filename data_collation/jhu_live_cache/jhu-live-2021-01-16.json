@@ -547,18 +547,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 271961,
+          "confirmed": 271976,
           "date": "2021-01-16",
-          "deaths": 6049,
-          "recovered": 227629
+          "deaths": 6050,
+          "recovered": 229957
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 370031,
+          "confirmed": 372696,
           "date": "2021-01-16",
-          "deaths": 8515,
-          "recovered": 311145
+          "deaths": 8639,
+          "recovered": 314041
         }
       },
       "Berlin": {
@@ -566,46 +566,46 @@
           "confirmed": 111737,
           "date": "2021-01-16",
           "deaths": 1800,
-          "recovered": 93262
+          "recovered": 93686
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 156127,
+          "confirmed": 157255,
           "date": "2021-01-16",
-          "deaths": 3843,
-          "recovered": 128574
+          "deaths": 3907,
+          "recovered": 129877
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 126235,
+          "confirmed": 127115,
           "date": "2021-01-16",
-          "deaths": 2572,
-          "recovered": 107454
+          "deaths": 2604,
+          "recovered": 108355
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 444159,
+          "confirmed": 447493,
           "date": "2021-01-16",
-          "deaths": 8838,
-          "recovered": 376568
+          "deaths": 9033,
+          "recovered": 379549
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 84196,
+          "confirmed": 84229,
           "date": "2021-01-16",
           "deaths": 2035,
-          "recovered": 66441
+          "recovered": 66584
         }
       },
       "Sachsen": {
         "live": {
           "confirmed": 165336,
           "date": "2021-01-16",
-          "deaths": 4973,
+          "deaths": 4982,
           "recovered": 132800
         }
       }
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2276952,
+          "confirmed": 2278805,
           "date": "2021-01-16",
-          "deaths": 26205,
+          "deaths": 26273,
           "recovered": 0
         }
       },
