@@ -1690,19 +1690,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 334836,
-        "deaths": 10325,
-        "recovered": 179541
+        "confirmed": 337743,
+        "deaths": 10440,
+        "recovered": 186449
       },
       "back_2week": {
-        "confirmed": 322514,
-        "deaths": 9537,
-        "recovered": 150102
+        "confirmed": 325278,
+        "deaths": 9667,
+        "recovered": 157063
       },
       "latest": {
-        "confirmed": 347636,
-        "deaths": 11066,
-        "recovered": 220304
+        "confirmed": 349149,
+        "deaths": 11177,
+        "recovered": 225021
       }
     },
     "IDN": {
@@ -2132,19 +2132,19 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 154550,
-        "deaths": 2076,
-        "recovered": 86109
+        "confirmed": 156539,
+        "deaths": 2119,
+        "recovered": 87963
       },
       "back_2week": {
-        "confirmed": 140579,
-        "deaths": 1458,
+        "confirmed": 143903,
+        "deaths": 1589,
         "recovered": 71028
       },
       "latest": {
-        "confirmed": 164414,
-        "deaths": 2346,
-        "recovered": 97511
+        "confirmed": 165560,
+        "deaths": 2376,
+        "recovered": 100495
       }
     },
     "LUX": {
@@ -2707,19 +2707,19 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 482083,
-        "deaths": 9356,
-        "recovered": 449052
+        "confirmed": 483852,
+        "deaths": 9364,
+        "recovered": 449330
       },
       "back_2week": {
-        "confirmed": 474064,
-        "deaths": 9244,
-        "recovered": 439796
+        "confirmed": 475820,
+        "deaths": 9248,
+        "recovered": 439895
       },
       "latest": {
-        "confirmed": 494605,
-        "deaths": 9739,
-        "recovered": 459252
+        "confirmed": 496646,
+        "deaths": 9876,
+        "recovered": 459737
       }
     },
     "PNG": {
