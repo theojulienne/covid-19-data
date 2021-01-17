@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 83569,
+          "confirmed": 83849,
           "date": "2021-01-17",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 84839,
+          "confirmed": 85063,
           "date": "2021-01-17",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 68931,
+          "confirmed": 69220,
           "date": "2021-01-17",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 105139,
+          "confirmed": 105350,
           "date": "2021-01-17",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 99014,
+          "confirmed": 99216,
           "date": "2021-01-17",
           "deaths": 0,
           "recovered": 0
@@ -418,7 +418,7 @@
           "confirmed": 301675,
           "date": "2021-01-17",
           "deaths": 5336,
-          "recovered": 271825
+          "recovered": 275321
         }
       },
       "Atlantico": {
@@ -426,7 +426,7 @@
           "confirmed": 104588,
           "date": "2021-01-17",
           "deaths": 3628,
-          "recovered": 96041
+          "recovered": 96641
         }
       },
       "Capital District": {
@@ -434,7 +434,7 @@
           "confirmed": 551172,
           "date": "2021-01-17",
           "deaths": 11162,
-          "recovered": 485605
+          "recovered": 490332
         }
       },
       "Cundinamarca": {
@@ -442,7 +442,7 @@
           "confirmed": 81238,
           "date": "2021-01-17",
           "deaths": 2008,
-          "recovered": 73098
+          "recovered": 73637
         }
       },
       "Santander": {
@@ -450,7 +450,7 @@
           "confirmed": 76358,
           "date": "2021-01-17",
           "deaths": 2643,
-          "recovered": 68373
+          "recovered": 68780
         }
       },
       "Valle del Cauca": {
@@ -458,7 +458,7 @@
           "confirmed": 154000,
           "date": "2021-01-17",
           "deaths": 4795,
-          "recovered": 138712
+          "recovered": 139727
         }
       }
     }
@@ -629,9 +629,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 132412,
+      "confirmed": 133507,
       "date": "2021-01-17",
-      "deaths": 3344,
+      "deaths": 3348,
       "recovered": 60056
     }
   },
@@ -961,10 +961,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 213855,
+      "confirmed": 214833,
       "date": "2021-01-17",
       "deaths": 2883,
-      "recovered": 187457
+      "recovered": 187608
     }
   },
   "Kenya": {
@@ -1171,26 +1171,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 62996,
+          "confirmed": 63339,
           "date": "2021-01-17",
-          "deaths": 1773,
-          "recovered": 57755
+          "deaths": 1779,
+          "recovered": 58082
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 148488,
+          "confirmed": 149222,
           "date": "2021-01-17",
-          "deaths": 4387,
-          "recovered": 133586
+          "deaths": 4409,
+          "recovered": 133952
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 233396,
+          "confirmed": 234654,
           "date": "2021-01-17",
-          "deaths": 3769,
-          "recovered": 212266
+          "deaths": 3775,
+          "recovered": 212933
         }
       }
     }
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1014919,
+          "confirmed": 1017759,
           "date": "2021-01-17",
           "deaths": 12403,
           "recovered": 0
@@ -1785,10 +1785,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 118856,
+      "confirmed": 119306,
       "date": "2021-01-17",
-      "deaths": 1095,
-      "recovered": 112320
+      "deaths": 1101,
+      "recovered": 112622
     }
   },
   "West Bank and Gaza": {
