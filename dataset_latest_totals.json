@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 238745,
-          "deaths": 8938
+          "confirmed": 240970,
+          "deaths": 9005
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -655,17 +655,17 @@
     "CHE": {
       "back_1week": {
         "confirmed": 477983,
-        "deaths": 8230,
+        "deaths": 8253,
         "recovered": 317600
       },
       "back_2week": {
         "confirmed": 452296,
-        "deaths": 7704,
+        "deaths": 7729,
         "recovered": 317600
       },
       "latest": {
         "confirmed": 495228,
-        "deaths": 8646,
+        "deaths": 8675,
         "recovered": 317600
       }
     },
@@ -1605,19 +1605,19 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 142064,
-        "deaths": 4972,
-        "recovered": 129990
+        "confirmed": 143127,
+        "deaths": 4999,
+        "recovered": 130549
       },
       "back_2week": {
-        "confirmed": 138236,
-        "deaths": 4820,
-        "recovered": 126606
+        "confirmed": 138316,
+        "deaths": 4827,
+        "recovered": 127063
       },
       "latest": {
-        "confirmed": 147560,
-        "deaths": 5177,
-        "recovered": 133217
+        "confirmed": 148598,
+        "deaths": 5220,
+        "recovered": 133788
       }
     },
     "GUY": {
