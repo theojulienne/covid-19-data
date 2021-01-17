@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 103611,
+      "confirmed": 103833,
       "date": "2021-01-17",
-      "deaths": 2831,
-      "recovered": 70373
+      "deaths": 2836,
+      "recovered": 70554
     }
   },
   "Argentina": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 211736,
+      "confirmed": 211813,
       "date": "2021-01-17",
-      "deaths": 8474,
-      "recovered": 156326
+      "deaths": 8483,
+      "recovered": 156722
     }
   },
   "Burma": {
@@ -505,18 +505,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 230808,
+      "confirmed": 231482,
       "date": "2021-01-17",
-      "deaths": 14316,
-      "recovered": 193581
+      "deaths": 14319,
+      "recovered": 199332
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 155507,
+      "confirmed": 156397,
       "date": "2021-01-17",
-      "deaths": 8527,
-      "recovered": 122291
+      "deaths": 8583,
+      "recovered": 122993
     }
   },
   "Ethiopia": {
@@ -1145,10 +1145,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 108943,
+      "confirmed": 110387,
       "date": "2021-01-17",
-      "deaths": 1420,
-      "recovered": 85367
+      "deaths": 1435,
+      "recovered": 89317
     }
   },
   "North Macedonia": {
@@ -1551,9 +1551,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 227394,
+          "confirmed": 229430,
           "date": "2021-01-17",
-          "deaths": 6270,
+          "deaths": 6290,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1023192,
+          "confirmed": 1026687,
           "date": "2021-01-17",
           "deaths": 12468,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 72253,
+          "confirmed": 73015,
           "date": "2021-01-17",
           "deaths": 1152,
           "recovered": 0
