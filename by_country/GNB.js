@@ -727,7 +727,8 @@ var covid19_dataset_country_gnb = {
       2478,
       2478,
       2478,
-      2478
+      2478,
+      2509
     ],
     "deaths": [
       0,

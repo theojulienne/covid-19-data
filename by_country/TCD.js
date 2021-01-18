@@ -727,7 +727,8 @@ var covid19_dataset_country_tcd = {
       2709,
       2773,
       2807,
-      2855
+      2855,
+      2895
     ],
     "deaths": [
       0,

@@ -727,7 +727,8 @@ var covid19_dataset_country_com = {
       1169,
       1403,
       1469,
-      1577
+      1577,
+      1592
     ],
     "deaths": [
       0,

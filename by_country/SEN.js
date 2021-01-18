@@ -727,7 +727,8 @@ var covid19_dataset_country_sen = {
       21883,
       22178,
       22396,
-      22738
+      22738,
+      23028
     ],
     "deaths": [
       0,

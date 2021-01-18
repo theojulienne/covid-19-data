@@ -727,6 +727,7 @@ var covid19_dataset_country_brn = {
       174,
       174,
       174,
+      174,
       174
     ],
     "deaths": [

@@ -727,7 +727,8 @@ var covid19_dataset_country_dji = {
       5891,
       5900,
       5903,
-      5903
+      5903,
+      5905
     ],
     "deaths": [
       0,

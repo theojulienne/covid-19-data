@@ -727,7 +727,8 @@ var covid19_dataset_country_mwi = {
       9400,
       9991,
       11223,
-      11785
+      11785,
+      12470
     ],
     "deaths": [
       0,

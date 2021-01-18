@@ -727,6 +727,7 @@ var covid19_dataset_country_cri = {
       182156,
       183242,
       184187,
+      184187,
       184187
     ],
     "deaths": [

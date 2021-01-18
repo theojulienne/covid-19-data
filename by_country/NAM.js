@@ -727,7 +727,8 @@ var covid19_dataset_country_nam = {
       29183,
       29570,
       29889,
-      30198
+      30198,
+      30363
     ],
     "deaths": [
       0,

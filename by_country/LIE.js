@@ -727,7 +727,8 @@ var covid19_dataset_country_lie = {
       2370,
       2375,
       2378,
-      2383
+      2383,
+      2389
     ],
     "deaths": [
       0,

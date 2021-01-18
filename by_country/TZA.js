@@ -727,6 +727,7 @@ var covid19_dataset_country_tza = {
       509,
       509,
       509,
+      509,
       509
     ],
     "deaths": [

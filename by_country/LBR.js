@@ -727,6 +727,7 @@ var covid19_dataset_country_lbr = {
       1877,
       1878,
       1882,
+      1887,
       1887
     ],
     "deaths": [
