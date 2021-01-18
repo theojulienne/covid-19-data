@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 134318,
+      "confirmed": 134795,
       "date": "2021-01-18",
-      "deaths": 2955,
-      "recovered": 117663
+      "deaths": 2973,
+      "recovered": 118200
     }
   },
   "Canada": {
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 375137,
+          "confirmed": 376497,
           "date": "2021-01-18",
-          "deaths": 8700,
+          "deaths": 8772,
           "recovered": 319013
         }
       },
@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 86742,
           "date": "2021-01-18",
-          "deaths": 680,
+          "deaths": 683,
           "recovered": 64099
         }
       }
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 372533,
+      "confirmed": 374111,
       "date": "2021-01-18",
-      "deaths": 3750,
+      "deaths": 3771,
       "recovered": 0
     }
   },
@@ -1463,7 +1463,7 @@
     "live": {
       "confirmed": 499931,
       "date": "2021-01-18",
-      "deaths": 8715,
+      "deaths": 8728,
       "recovered": 317600
     }
   },
