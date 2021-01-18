@@ -178,7 +178,7 @@
           "confirmed": 264227,
           "date": "2021-01-18",
           "deaths": 4421,
-          "recovered": 251876
+          "recovered": 252768
         }
       },
       "Espirito Santo": {
@@ -234,7 +234,7 @@
           "confirmed": 309526,
           "date": "2021-01-18",
           "deaths": 7397,
-          "recovered": 288474
+          "recovered": 289203
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
           "confirmed": 177618,
           "date": "2021-01-18",
           "deaths": 3888,
-          "recovered": 132838
+          "recovered": 133270
         }
       },
       "Parana": {
@@ -322,7 +322,7 @@
           "confirmed": 1625339,
           "date": "2021-01-18",
           "deaths": 49945,
-          "recovered": 1390344
+          "recovered": 1402133
         }
       },
       "Sergipe": {
@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 128826,
+          "confirmed": 129324,
           "date": "2021-01-18",
-          "deaths": 2634,
+          "deaths": 2644,
           "recovered": 110640
         }
       },
@@ -1257,10 +1257,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 693644,
+      "confirmed": 695153,
       "date": "2021-01-18",
-      "deaths": 17221,
-      "recovered": 622414
+      "deaths": 17271,
+      "recovered": 625449
     }
   },
   "Russia": {
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1028899,
+          "confirmed": 1029413,
           "date": "2021-01-18",
           "deaths": 12468,
           "recovered": 0
@@ -1793,10 +1793,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 152031,
+      "confirmed": 152555,
       "date": "2021-01-18",
-      "deaths": 1718,
-      "recovered": 139131
+      "deaths": 1726,
+      "recovered": 140075
     }
   }
 }
