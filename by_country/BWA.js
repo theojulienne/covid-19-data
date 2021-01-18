@@ -1091,6 +1091,7 @@ var covid19_dataset_country_bwa = {
       59,
       71,
       71,
+      71,
       71
     ],
     "recovered": [
@@ -1452,6 +1453,7 @@ var covid19_dataset_country_bwa = {
       13310,
       13310,
       13310,
+      13519,
       13519,
       13519,
       13519

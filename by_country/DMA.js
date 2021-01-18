@@ -1091,6 +1091,7 @@ var covid19_dataset_country_dma = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -1454,6 +1455,7 @@ var covid19_dataset_country_dma = {
       101,
       101,
       101,
+      102,
       102
     ]
   }

@@ -1091,6 +1091,7 @@ var covid19_dataset_country_atg = {
       5,
       6,
       6,
+      6,
       6
     ],
     "recovered": [
@@ -1452,6 +1453,7 @@ var covid19_dataset_country_atg = {
       152,
       152,
       152,
+      156,
       156,
       156,
       156

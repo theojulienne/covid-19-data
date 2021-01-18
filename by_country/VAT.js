@@ -1091,6 +1091,7 @@ var covid19_dataset_country_vat = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -1363,6 +1364,7 @@ var covid19_dataset_country_vat = {
       12,
       12,
       12,
+      15,
       15,
       15,
       15,

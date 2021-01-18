@@ -1091,7 +1091,8 @@ var covid19_dataset_country_tun = {
       5415,
       5478,
       5528,
-      5616
+      5616,
+      5692
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_tun = {
       122775,
       124610,
       125635,
-      127854
+      127854,
+      128992
     ]
   }
 };

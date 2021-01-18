@@ -1091,6 +1091,7 @@ var covid19_dataset_country_khm = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_khm = {
       377,
       381,
       382,
-      385
+      385,
+      386
     ]
   }
 };

@@ -1091,6 +1091,7 @@ var covid19_dataset_country_twn = {
       7,
       7,
       7,
+      7,
       7
     ],
     "recovered": [
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_twn = {
       731,
       731,
       741,
-      751
+      751,
+      755
     ]
   }
 };

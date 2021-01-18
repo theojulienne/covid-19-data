@@ -1091,7 +1091,8 @@ var covid19_dataset_country_blr = {
       1544,
       1554,
       1564,
-      1573
+      1573,
+      1582
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_blr = {
       200132,
       202446,
       204500,
-      206676
+      206676,
+      209208
     ]
   }
 };

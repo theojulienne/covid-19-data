@@ -1091,6 +1091,7 @@ var covid19_dataset_country_dji = {
       61,
       61,
       61,
+      61,
       61
     ],
     "recovered": [
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_dji = {
       5808,
       5813,
       5816,
-      5819
+      5819,
+      5822
     ]
   }
 };

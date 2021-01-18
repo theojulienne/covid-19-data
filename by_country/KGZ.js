@@ -1091,7 +1091,8 @@ var covid19_dataset_country_kgz = {
       1375,
       1378,
       1382,
-      1384
+      1384,
+      1387
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_kgz = {
       78358,
       78563,
       78866,
-      78994
+      78994,
+      79104
     ]
   }
 };

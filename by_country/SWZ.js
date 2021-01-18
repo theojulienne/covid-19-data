@@ -1091,7 +1091,8 @@ var covid19_dataset_country_swz = {
       332,
       335,
       343,
-      360
+      360,
+      376
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_swz = {
       7986,
       8076,
       8076,
-      8076
+      8076,
+      8222
     ]
   }
 };

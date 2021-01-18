@@ -1091,7 +1091,8 @@ var covid19_dataset_country_eth = {
       2006,
       2008,
       2023,
-      2029
+      2029,
+      2030
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_eth = {
       114567,
       114749,
       115428,
-      116045
+      116045,
+      116147
     ]
   }
 };

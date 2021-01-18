@@ -1091,6 +1091,7 @@ var covid19_dataset_country_bhs = {
       175,
       175,
       175,
+      175,
       175
     ],
     "recovered": [
@@ -1454,6 +1455,7 @@ var covid19_dataset_country_bhs = {
       6351,
       6351,
       6507,
+      6525,
       6525
     ]
   }

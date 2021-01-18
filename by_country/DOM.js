@@ -1091,7 +1091,8 @@ var covid19_dataset_country_dom = {
       2428,
       2428,
       2432,
-      2432
+      2432,
+      2437
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_dom = {
       140217,
       140524,
       140931,
-      142030
+      142030,
+      143050
     ]
   }
 };

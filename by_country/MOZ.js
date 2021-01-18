@@ -1091,7 +1091,8 @@ var covid19_dataset_country_moz = {
       205,
       211,
       216,
-      234
+      234,
+      241
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_moz = {
       18282,
       18352,
       18371,
-      18515
+      18515,
+      18607
     ]
   }
 };

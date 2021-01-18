@@ -1091,6 +1091,7 @@ var covid19_dataset_country_sle = {
       77,
       77,
       77,
+      77,
       77
     ],
     "recovered": [
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_sle = {
       2013,
       2025,
       2025,
-      2025
+      2025,
+      2082
     ]
   }
 };

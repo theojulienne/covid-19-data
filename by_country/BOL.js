@@ -1091,7 +1091,8 @@ var covid19_dataset_country_bol = {
       9493,
       9530,
       9571,
-      9596
+      9596,
+      9636
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_bol = {
       140671,
       141736,
       142279,
-      142948
+      142948,
+      143437
     ]
   }
 };

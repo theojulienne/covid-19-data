@@ -1091,6 +1091,7 @@ var covid19_dataset_country_cog = {
       112,
       112,
       114,
+      114,
       114
     ],
     "recovered": [
@@ -1438,6 +1439,7 @@ var covid19_dataset_country_cog = {
       5831,
       5831,
       5831,
+      5846,
       5846,
       5846,
       5846,

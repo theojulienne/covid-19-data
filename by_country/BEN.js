@@ -1091,6 +1091,7 @@ var covid19_dataset_country_ben = {
       46,
       46,
       46,
+      46,
       46
     ],
     "recovered": [
@@ -1453,6 +1454,7 @@ var covid19_dataset_country_ben = {
       3222,
       3222,
       3222,
+      3245,
       3245,
       3245
     ]

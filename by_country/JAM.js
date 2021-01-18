@@ -1091,7 +1091,8 @@ var covid19_dataset_country_jam = {
       317,
       322,
       323,
-      323
+      323,
+      324
     ],
     "recovered": [
       0,
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_jam = {
       11568,
       11592,
       11630,
-      11674
+      11674,
+      11709
     ]
   }
 };

@@ -1091,6 +1091,7 @@ var covid19_dataset_country_syc = {
       1,
       1,
       1,
+      2,
       2
     ],
     "recovered": [
@@ -1454,7 +1455,8 @@ var covid19_dataset_country_syc = {
       326,
       360,
       460,
-      525
+      525,
+      539
     ]
   }
 };
