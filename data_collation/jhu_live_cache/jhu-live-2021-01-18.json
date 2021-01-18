@@ -1469,10 +1469,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 180090,
+      "confirmed": 181885,
       "date": "2021-01-18",
-      "deaths": 5692,
-      "recovered": 128992
+      "deaths": 5750,
+      "recovered": 131019
     }
   },
   "Turkey": {
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1029413,
+          "confirmed": 1031627,
           "date": "2021-01-18",
-          "deaths": 12468,
+          "deaths": 12481,
           "recovered": 0
         }
       },
