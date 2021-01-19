@@ -729,6 +729,7 @@ var covid19_dataset_country_uga = {
       38085,
       38085,
       38085,
+      38085,
       38085
     ],
     "deaths": [
@@ -1454,6 +1455,7 @@ var covid19_dataset_country_uga = {
       12852,
       12942,
       13018,
+      13083,
       13083,
       13083,
       13083,

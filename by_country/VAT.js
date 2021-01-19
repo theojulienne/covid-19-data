@@ -729,6 +729,7 @@ var covid19_dataset_country_vat = {
       27,
       27,
       27,
+      27,
       27
     ],
     "deaths": [
@@ -1366,6 +1367,7 @@ var covid19_dataset_country_vat = {
       12,
       12,
       12,
+      15,
       15,
       15,
       15,

@@ -729,7 +729,8 @@ var covid19_dataset_country_yem = {
       2110,
       2111,
       2112,
-      2112
+      2112,
+      2113
     ],
     "deaths": [
       0,
@@ -1458,7 +1459,8 @@ var covid19_dataset_country_yem = {
       1419,
       1419,
       1419,
-      1419
+      1419,
+      1421
     ]
   }
 };
