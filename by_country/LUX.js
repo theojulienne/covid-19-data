@@ -1093,7 +1093,8 @@ var covid19_dataset_country_lux = {
       545,
       549,
       549,
-      549
+      549,
+      557
     ],
     "recovered": [
       0,

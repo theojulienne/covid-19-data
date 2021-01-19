@@ -1093,7 +1093,8 @@ var covid19_dataset_country_gtm = {
       5151,
       5177,
       5220,
-      5254
+      5254,
+      5278
     ],
     "recovered": [
       0,

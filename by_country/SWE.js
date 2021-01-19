@@ -1093,6 +1093,7 @@ var covid19_dataset_country_swe = {
       10185,
       10323,
       10323,
+      10323,
       10323
     ],
     "recovered": [

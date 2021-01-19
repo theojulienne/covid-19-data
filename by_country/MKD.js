@@ -1093,7 +1093,8 @@ var covid19_dataset_country_mkd = {
       2672,
       2682,
       2696,
-      2702
+      2702,
+      2715
     ],
     "recovered": [
       0,

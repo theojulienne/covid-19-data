@@ -1093,6 +1093,7 @@ var covid19_dataset_country_tto = {
       130,
       130,
       131,
+      132,
       132
     ],
     "recovered": [

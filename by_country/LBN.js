@@ -1093,7 +1093,8 @@ var covid19_dataset_country_lbn = {
       1781,
       1825,
       1866,
-      1906
+      1906,
+      1959
     ],
     "recovered": [
       0,

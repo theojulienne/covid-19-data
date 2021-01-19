@@ -1093,7 +1093,8 @@ var covid19_dataset_country_tgo = {
       73,
       73,
       73,
-      73
+      73,
+      74
     ],
     "recovered": [
       0,

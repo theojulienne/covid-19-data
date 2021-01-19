@@ -1093,6 +1093,7 @@ var covid19_dataset_country_uga = {
       304,
       304,
       304,
+      304,
       304
     ],
     "recovered": [

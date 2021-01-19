@@ -1093,6 +1093,7 @@ var covid19_dataset_country_lca = {
       6,
       6,
       8,
+      8,
       8
     ],
     "recovered": [

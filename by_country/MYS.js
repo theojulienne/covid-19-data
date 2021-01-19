@@ -1093,7 +1093,8 @@ var covid19_dataset_country_mys = {
       578,
       586,
       594,
-      601
+      601,
+      605
     ],
     "recovered": [
       0,

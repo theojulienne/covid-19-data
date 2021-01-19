@@ -1093,6 +1093,7 @@ var covid19_dataset_country_rks = {
       1392,
       1399,
       1399,
+      1410,
       1410
     ],
     "recovered": [

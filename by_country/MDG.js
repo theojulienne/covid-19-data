@@ -1093,6 +1093,7 @@ var covid19_dataset_country_mdg = {
       267,
       267,
       267,
+      273,
       273
     ],
     "recovered": [

@@ -1093,7 +1093,8 @@ var covid19_dataset_country_irq = {
       12922,
       12932,
       12935,
-      12944
+      12944,
+      12953
     ],
     "recovered": [
       0,

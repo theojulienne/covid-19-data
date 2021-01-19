@@ -1093,7 +1093,8 @@ var covid19_dataset_country_mli = {
       305,
       308,
       308,
-      310
+      310,
+      311
     ],
     "recovered": [
       0,

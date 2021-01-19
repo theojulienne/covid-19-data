@@ -1093,6 +1093,7 @@ var covid19_dataset_country_gin = {
       81,
       81,
       81,
+      81,
       81
     ],
     "recovered": [

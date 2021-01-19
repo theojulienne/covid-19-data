@@ -1093,7 +1093,8 @@ var covid19_dataset_country_dza = {
       2822,
       2827,
       2831,
-      2836
+      2836,
+      2840
     ],
     "recovered": [
       0,

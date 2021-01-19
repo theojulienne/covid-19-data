@@ -1093,7 +1093,8 @@ var covid19_dataset_country_hun = {
       11066,
       11177,
       11264,
-      11341
+      11341,
+      11409
     ],
     "recovered": [
       0,

@@ -1093,6 +1093,7 @@ var covid19_dataset_country_png = {
       9,
       9,
       9,
+      9,
       9
     ],
     "recovered": [

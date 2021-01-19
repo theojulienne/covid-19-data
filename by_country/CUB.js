@@ -1093,7 +1093,8 @@ var covid19_dataset_country_cub = {
       160,
       162,
       166,
-      170
+      170,
+      173
     ],
     "recovered": [
       0,

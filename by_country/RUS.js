@@ -1093,7 +1093,8 @@ var covid19_dataset_country_rus = {
       63016,
       63558,
       64134,
-      64601
+      64601,
+      65059
     ],
     "recovered": [
       0,

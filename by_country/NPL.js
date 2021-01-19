@@ -1093,7 +1093,8 @@ var covid19_dataset_country_npl = {
       1943,
       1948,
       1954,
-      1959
+      1959,
+      1965
     ],
     "recovered": [
       0,

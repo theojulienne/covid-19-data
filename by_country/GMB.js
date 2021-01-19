@@ -1093,7 +1093,8 @@ var covid19_dataset_country_gmb = {
       126,
       127,
       127,
-      127
+      127,
+      128
     ],
     "recovered": [
       0,

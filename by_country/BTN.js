@@ -1093,6 +1093,7 @@ var covid19_dataset_country_btn = {
       1,
       1,
       1,
+      1,
       1
     ],
     "recovered": [

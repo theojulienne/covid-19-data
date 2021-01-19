@@ -1093,7 +1093,8 @@ var covid19_dataset_country_blz = {
       280,
       281,
       281,
-      281
+      281,
+      282
     ],
     "recovered": [
       0,

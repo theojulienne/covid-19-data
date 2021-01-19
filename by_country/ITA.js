@@ -1093,7 +1093,8 @@ var covid19_dataset_country_ita = {
       80848,
       81325,
       81800,
-      82177
+      82177,
+      82554
     ],
     "recovered": [
       0,
