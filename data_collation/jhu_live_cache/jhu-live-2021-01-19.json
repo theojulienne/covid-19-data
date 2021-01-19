@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 231644,
+      "confirmed": 232568,
       "date": "2021-01-19",
-      "deaths": 14322,
+      "deaths": 14382,
       "recovered": 199332
     }
   },
@@ -1487,7 +1487,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 512316,
+          "confirmed": 517584,
           "date": "2021-01-19",
           "deaths": 7865,
           "recovered": 0
@@ -1511,9 +1511,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 865495,
+          "confirmed": 870662,
           "date": "2021-01-19",
-          "deaths": 11502,
+          "deaths": 11574,
           "recovered": 0
         }
       },
@@ -1639,9 +1639,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 147469,
+          "confirmed": 147895,
           "date": "2021-01-19",
-          "deaths": 1793,
+          "deaths": 1800,
           "recovered": 0
         }
       },
@@ -1655,9 +1655,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 202259,
+          "confirmed": 202984,
           "date": "2021-01-19",
-          "deaths": 873,
+          "deaths": 879,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 99584,
+          "confirmed": 99867,
           "date": "2021-01-19",
-          "deaths": 1121,
+          "deaths": 1123,
           "recovered": 0
         }
       }
