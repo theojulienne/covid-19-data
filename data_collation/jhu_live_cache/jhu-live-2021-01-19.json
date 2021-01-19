@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 84093,
+          "confirmed": 84248,
           "date": "2021-01-19",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 85239,
+          "confirmed": 85347,
           "date": "2021-01-19",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 69433,
+          "confirmed": 69556,
           "date": "2021-01-19",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 105600,
+          "confirmed": 105702,
           "date": "2021-01-19",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 99311,
+          "confirmed": 99340,
           "date": "2021-01-19",
           "deaths": 0,
           "recovered": 0
@@ -170,7 +170,7 @@
           "confirmed": 353979,
           "date": "2021-01-19",
           "deaths": 10223,
-          "recovered": 278720
+          "recovered": 278791
         }
       },
       "Distrito Federal": {
@@ -258,7 +258,7 @@
           "confirmed": 241409,
           "date": "2021-01-19",
           "deaths": 10031,
-          "recovered": 205719
+          "recovered": 205930
         }
       },
       "Piaui": {
@@ -306,7 +306,7 @@
           "confirmed": 71065,
           "date": "2021-01-19",
           "deaths": 811,
-          "recovered": 67781
+          "recovered": 68035
         }
       },
       "Santa Catarina": {
@@ -415,50 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 304080,
+          "confirmed": 306491,
           "date": "2021-01-19",
-          "deaths": 5393,
-          "recovered": 282215
+          "deaths": 5441,
+          "recovered": 284051
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 105386,
+          "confirmed": 106181,
           "date": "2021-01-19",
-          "deaths": 3640,
-          "recovered": 97276
+          "deaths": 3653,
+          "recovered": 98239
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 556405,
+          "confirmed": 560284,
           "date": "2021-01-19",
-          "deaths": 11243,
-          "recovered": 493451
+          "deaths": 11347,
+          "recovered": 503530
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 82458,
+          "confirmed": 83596,
           "date": "2021-01-19",
-          "deaths": 2040,
-          "recovered": 74178
+          "deaths": 2077,
+          "recovered": 75657
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 77102,
+          "confirmed": 77589,
           "date": "2021-01-19",
-          "deaths": 2660,
-          "recovered": 69765
+          "deaths": 2681,
+          "recovered": 70604
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 154378,
+          "confirmed": 155727,
           "date": "2021-01-19",
-          "deaths": 4847,
-          "recovered": 141791
+          "deaths": 4877,
+          "recovered": 142847
         }
       }
     }
@@ -629,10 +629,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 134111,
+      "confirmed": 134938,
       "date": "2021-01-19",
-      "deaths": 3354,
-      "recovered": 60132
+      "deaths": 3368,
+      "recovered": 60165
     }
   },
   "Hungary": {
@@ -961,10 +961,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 215947,
+      "confirmed": 216964,
       "date": "2021-01-19",
-      "deaths": 2889,
-      "recovered": 188116
+      "deaths": 2891,
+      "recovered": 189105
     }
   },
   "Kenya": {
@@ -1035,33 +1035,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 407254,
+          "confirmed": 409551,
           "date": "2021-01-19",
-          "deaths": 19417,
+          "deaths": 19531,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 94939,
+          "confirmed": 95394,
           "date": "2021-01-19",
-          "deaths": 6181,
+          "deaths": 6227,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 168194,
+          "confirmed": 169105,
           "date": "2021-01-19",
-          "deaths": 21537,
+          "deaths": 21625,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 94365,
+          "confirmed": 94796,
           "date": "2021-01-19",
-          "deaths": 5744,
+          "deaths": 5760,
           "recovered": 0
         }
       }
@@ -1171,26 +1171,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 63615,
+          "confirmed": 63825,
           "date": "2021-01-19",
-          "deaths": 1783,
-          "recovered": 58240
+          "deaths": 1791,
+          "recovered": 58348
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 149782,
+          "confirmed": 150316,
           "date": "2021-01-19",
-          "deaths": 4432,
-          "recovered": 134489
+          "deaths": 4460,
+          "recovered": 134842
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 235576,
+          "confirmed": 236530,
           "date": "2021-01-19",
-          "deaths": 3793,
-          "recovered": 213624
+          "deaths": 3813,
+          "recovered": 214231
         }
       }
     }
@@ -1785,10 +1785,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 119803,
+      "confirmed": 120444,
       "date": "2021-01-19",
-      "deaths": 1106,
-      "recovered": 113002
+      "deaths": 1112,
+      "recovered": 113328
     }
   },
   "West Bank and Gaza": {
