@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 246250,
+          "confirmed": 246863,
           "date": "2021-01-19",
-          "deaths": 5494,
-          "recovered": 214789
+          "deaths": 5501,
+          "recovered": 215857
         }
       },
       "Quebec": {
@@ -1495,17 +1495,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2363605,
+          "confirmed": 2370832,
           "date": "2021-01-19",
-          "deaths": 26901,
+          "deaths": 27139,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 67081,
+          "confirmed": 67617,
           "date": "2021-01-19",
-          "deaths": 1851,
+          "deaths": 1853,
           "recovered": 0
         }
       },
@@ -1519,9 +1519,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 142806,
+          "confirmed": 144319,
           "date": "2021-01-19",
-          "deaths": 1527,
+          "deaths": 1548,
           "recovered": 0
         }
       },
@@ -1559,9 +1559,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 160650,
+          "confirmed": 161360,
           "date": "2021-01-19",
-          "deaths": 5669,
+          "deaths": 5680,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1037729,
+          "confirmed": 1038608,
           "date": "2021-01-19",
-          "deaths": 12548,
+          "deaths": 12633,
           "recovered": 0
         }
       },
