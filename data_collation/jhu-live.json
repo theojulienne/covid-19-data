@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 227696,
+      "confirmed": 228028,
       "date": "2021-01-20",
-      "deaths": 3032,
-      "recovered": 216720
+      "deaths": 3044,
+      "recovered": 217617
     }
   },
   "Bahrain": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 247144,
+          "confirmed": 247958,
           "date": "2021-01-20",
-          "deaths": 5501,
-          "recovered": 215872
+          "deaths": 5539,
+          "recovered": 217275
         }
       },
       "Quebec": {
@@ -595,9 +595,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 86124,
+          "confirmed": 87004,
           "date": "2021-01-20",
-          "deaths": 2145,
+          "deaths": 2187,
           "recovered": 70277
         }
       },
@@ -956,7 +956,7 @@
       "confirmed": 316427,
       "date": "2021-01-20",
       "deaths": 4170,
-      "recovered": 301893
+      "recovered": 303108
     }
   },
   "Kazakhstan": {
@@ -972,7 +972,7 @@
       "confirmed": 99308,
       "date": "2021-01-20",
       "deaths": 1734,
-      "recovered": 82478
+      "recovered": 82654
     }
   },
   "Korea, South": {
@@ -1543,9 +1543,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 63592,
+          "confirmed": 63994,
           "date": "2021-01-20",
-          "deaths": 1179,
+          "deaths": 1191,
           "recovered": 0
         }
       },
