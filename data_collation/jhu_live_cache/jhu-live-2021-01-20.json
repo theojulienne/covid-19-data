@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 396425,
+      "confirmed": 398096,
       "date": "2021-01-20",
-      "deaths": 7199,
-      "recovered": 373090
+      "deaths": 7237,
+      "recovered": 374824
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 228716,
+      "confirmed": 230494,
       "date": "2021-01-20",
-      "deaths": 1601,
-      "recovered": 212074
+      "deaths": 1610,
+      "recovered": 214366
     }
   },
   "Belgium": {
@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 225648,
+      "confirmed": 226550,
       "date": "2021-01-20",
-      "deaths": 4684,
-      "recovered": 217880
+      "deaths": 4711,
+      "recovered": 218358
     }
   },
   "Czechia": {
@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 927380,
+      "confirmed": 939948,
       "date": "2021-01-20",
-      "deaths": 26590,
-      "recovered": 753948
+      "deaths": 26857,
+      "recovered": 763703
     }
   },
   "Iran": {
@@ -1161,10 +1161,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 132146,
+      "confirmed": 132317,
       "date": "2021-01-20",
       "deaths": 1516,
-      "recovered": 124398
+      "recovered": 124579
     }
   },
   "Pakistan": {
@@ -1233,9 +1233,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1443804,
+      "confirmed": 1450747,
       "date": "2021-01-20",
-      "deaths": 33698,
+      "deaths": 34141,
       "recovered": 1207359
     }
   },
@@ -1325,18 +1325,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 226294,
+      "confirmed": 228778,
       "date": "2021-01-20",
-      "deaths": 3637,
-      "recovered": 173761
+      "deaths": 3737,
+      "recovered": 176864
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 151137,
+      "confirmed": 152835,
       "date": "2021-01-20",
-      "deaths": 3231,
-      "recovered": 125315
+      "deaths": 3257,
+      "recovered": 128709
     }
   },
   "South Africa": {
@@ -1733,10 +1733,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 260223,
+      "confirmed": 263729,
       "date": "2021-01-20",
-      "deaths": 756,
-      "recovered": 231675
+      "deaths": 762,
+      "recovered": 235421
     }
   },
   "United Kingdom": {
