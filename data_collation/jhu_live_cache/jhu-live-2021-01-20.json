@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 570085,
+      "confirmed": 570503,
       "date": "2021-01-20",
-      "deaths": 4142,
-      "recovered": 482781
+      "deaths": 4144,
+      "recovered": 482785
     }
   },
   "Italy": {
@@ -1236,7 +1236,7 @@
       "confirmed": 1443804,
       "date": "2021-01-20",
       "deaths": 33698,
-      "recovered": 1197034
+      "recovered": 1207359
     }
   },
   "Portugal": {
