@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 98260,
+      "confirmed": 98573,
       "date": "2021-01-20",
-      "deaths": 362,
-      "recovered": 94937
+      "deaths": 366,
+      "recovered": 95240
     }
   },
   "Bangladesh": {
@@ -1463,7 +1463,7 @@
     "live": {
       "confirmed": 504918,
       "date": "2021-01-20",
-      "deaths": 8891,
+      "deaths": 8924,
       "recovered": 317600
     }
   },
@@ -1503,9 +1503,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 67617,
+          "confirmed": 68079,
           "date": "2021-01-20",
-          "deaths": 1853,
+          "deaths": 1868,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1048445,
+          "confirmed": 1049144,
           "date": "2021-01-20",
-          "deaths": 12668,
+          "deaths": 12815,
           "recovered": 0
         }
       },
