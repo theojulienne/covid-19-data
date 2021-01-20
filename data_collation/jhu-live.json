@@ -963,7 +963,7 @@
     "live": {
       "confirmed": 218216,
       "date": "2021-01-20",
-      "deaths": 2894,
+      "deaths": 2948,
       "recovered": 190202
     }
   },
@@ -1777,10 +1777,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78091,
+      "confirmed": 78163,
       "date": "2021-01-20",
       "deaths": 620,
-      "recovered": 76585
+      "recovered": 76624
     }
   },
   "Venezuela": {
