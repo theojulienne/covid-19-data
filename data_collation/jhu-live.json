@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 248472,
+          "confirmed": 248551,
           "date": "2021-01-20",
-          "deaths": 5545,
-          "recovered": 217915
+          "deaths": 5547,
+          "recovered": 218006
         }
       },
       "Quebec": {
@@ -529,10 +529,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 2931050,
+      "confirmed": 2957547,
       "date": "2021-01-20",
-      "deaths": 70963,
-      "recovered": 187464
+      "deaths": 71273,
+      "recovered": 188890
     }
   },
   "Georgia": {
@@ -547,9 +547,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 277126,
+          "confirmed": 279450,
           "date": "2021-01-20",
-          "deaths": 6324,
+          "deaths": 6418,
           "recovered": 239758
         }
       },
@@ -841,9 +841,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 176839,
+      "confirmed": 179324,
       "date": "2021-01-20",
-      "deaths": 2708,
+      "deaths": 2768,
       "recovered": 23364
     }
   },
@@ -1495,7 +1495,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2383193,
+          "confirmed": 2385448,
           "date": "2021-01-20",
           "deaths": 27431,
           "recovered": 0
@@ -1513,7 +1513,7 @@
         "live": {
           "confirmed": 870662,
           "date": "2021-01-20",
-          "deaths": 11574,
+          "deaths": 11594,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 505173,
+          "confirmed": 507044,
           "date": "2021-01-20",
-          "deaths": 10218,
+          "deaths": 10255,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 202471,
+          "confirmed": 203292,
           "date": "2021-01-20",
-          "deaths": 2873,
+          "deaths": 2934,
           "recovered": 0
         }
       },
@@ -1607,9 +1607,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 181713,
+          "confirmed": 183023,
           "date": "2021-01-20",
-          "deaths": 1770,
+          "deaths": 1774,
           "recovered": 0
         }
       },
@@ -1623,17 +1623,17 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 170225,
+          "confirmed": 170754,
           "date": "2021-01-20",
-          "deaths": 4100,
+          "deaths": 4118,
           "recovered": 0
         }
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 67526,
+          "confirmed": 71172,
           "date": "2021-01-20",
-          "deaths": 1480,
+          "deaths": 1533,
           "recovered": 0
         }
       },
