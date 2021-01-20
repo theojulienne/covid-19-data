@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 333217,
+          "confirmed": 333879,
           "date": "2021-01-20",
-          "deaths": 11098,
-          "recovered": 317173
+          "deaths": 11119,
+          "recovered": 317972
         }
       }
     }
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 380295,
+          "confirmed": 380591,
           "date": "2021-01-20",
-          "deaths": 9107,
+          "deaths": 9140,
           "recovered": 326482
         }
       },
@@ -833,10 +833,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 609852,
+      "confirmed": 610598,
       "date": "2021-01-20",
-      "deaths": 12962,
-      "recovered": 573011
+      "deaths": 12968,
+      "recovered": 574920
     }
   },
   "Ireland": {
@@ -985,10 +985,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 158822,
+      "confirmed": 159264,
       "date": "2021-01-20",
-      "deaths": 950,
-      "recovered": 151936
+      "deaths": 951,
+      "recovered": 152420
     }
   },
   "Kyrgyzstan": {
@@ -1095,49 +1095,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 105134,
+          "confirmed": 105848,
           "date": "2021-01-20",
-          "deaths": 1533,
+          "deaths": 1549,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 143625,
+          "confirmed": 144428,
           "date": "2021-01-20",
-          "deaths": 2569,
+          "deaths": 2585,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 155461,
+          "confirmed": 156316,
           "date": "2021-01-20",
-          "deaths": 1896,
+          "deaths": 1902,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 65434,
+          "confirmed": 65895,
           "date": "2021-01-20",
-          "deaths": 883,
+          "deaths": 888,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 75220,
+          "confirmed": 75565,
           "date": "2021-01-20",
-          "deaths": 983,
+          "deaths": 987,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 224398,
+          "confirmed": 225578,
           "date": "2021-01-20",
-          "deaths": 3153,
+          "deaths": 3181,
           "recovered": 0
         }
       }
@@ -1215,9 +1215,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 471155,
+          "confirmed": 477590,
           "date": "2021-01-20",
-          "deaths": 17152,
+          "deaths": 17247,
           "recovered": 0
         }
       }
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 375799,
+      "confirmed": 377445,
       "date": "2021-01-20",
-      "deaths": 3791,
+      "deaths": 3810,
       "recovered": 0
     }
   },
@@ -1461,9 +1461,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 502191,
+      "confirmed": 504918,
       "date": "2021-01-20",
-      "deaths": 8859,
+      "deaths": 8891,
       "recovered": 317600
     }
   },
