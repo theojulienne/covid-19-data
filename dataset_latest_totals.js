@@ -1690,19 +1690,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 343656,
-        "deaths": 10725,
-        "recovered": 203972
+        "confirmed": 344352,
+        "deaths": 10853,
+        "recovered": 209852
       },
       "back_2week": {
-        "confirmed": 328851,
-        "deaths": 9977,
-        "recovered": 174070
+        "confirmed": 329721,
+        "deaths": 10080,
+        "recovered": 176576
       },
       "latest": {
-        "confirmed": 352703,
-        "deaths": 11409,
-        "recovered": 230441
+        "confirmed": 353276,
+        "deaths": 11520,
+        "recovered": 231915
       }
     },
     "IDN": {
@@ -2132,18 +2132,18 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 160446,
-        "deaths": 2232,
-        "recovered": 92608
+        "confirmed": 161348,
+        "deaths": 2272,
+        "recovered": 95627
       },
       "back_2week": {
-        "confirmed": 147997,
-        "deaths": 1950,
-        "recovered": 77832
+        "confirmed": 149497,
+        "deaths": 1996,
+        "recovered": 81630
       },
       "latest": {
-        "confirmed": 167992,
-        "deaths": 2469,
+        "confirmed": 168708,
+        "deaths": 2494,
         "recovered": 104297
       }
     },
@@ -2707,19 +2707,19 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 489736,
-        "deaths": 9416,
-        "recovered": 458206
+        "confirmed": 491258,
+        "deaths": 9554,
+        "recovered": 458172
       },
       "back_2week": {
-        "confirmed": 478761,
-        "deaths": 9263,
-        "recovered": 448279
+        "confirmed": 479693,
+        "deaths": 9321,
+        "recovered": 448375
       },
       "latest": {
-        "confirmed": 502736,
-        "deaths": 9909,
-        "recovered": 465988
+        "confirmed": 504084,
+        "deaths": 9978,
+        "recovered": 466249
       }
     },
     "PNG": {
