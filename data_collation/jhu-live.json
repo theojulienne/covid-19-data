@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 191090,
+      "confirmed": 193745,
       "date": "2021-01-21",
-      "deaths": 9722,
-      "recovered": 145537
+      "deaths": 9764,
+      "recovered": 146578
     }
   },
   "Bosnia and Herzegovina": {
@@ -382,7 +382,7 @@
           "confirmed": 247236,
           "date": "2021-01-21",
           "deaths": 9142,
-          "recovered": 217575
+          "recovered": 219592
         }
       }
     }
@@ -403,7 +403,7 @@
     "subseries": {
       "Hubei": {
         "live": {
-          "confirmed": 68149,
+          "confirmed": 68150,
           "date": "2021-01-21",
           "deaths": 4512,
           "recovered": 63637
@@ -961,10 +961,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 218216,
+      "confirmed": 219396,
       "date": "2021-01-21",
       "deaths": 2948,
-      "recovered": 190202
+      "recovered": 191326
     }
   },
   "Kenya": {
@@ -977,10 +977,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 73518,
+      "confirmed": 73918,
       "date": "2021-01-21",
-      "deaths": 1300,
-      "recovered": 60180
+      "deaths": 1316,
+      "recovered": 60846
     }
   },
   "Kuwait": {
@@ -1035,33 +1035,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 416989,
+          "confirmed": 424666,
           "date": "2021-01-21",
-          "deaths": 19789,
+          "deaths": 20028,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 96588,
+          "confirmed": 97793,
           "date": "2021-01-21",
-          "deaths": 6291,
+          "deaths": 6446,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 171125,
+          "confirmed": 173452,
           "date": "2021-01-21",
-          "deaths": 21894,
+          "deaths": 22097,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 95533,
+          "confirmed": 96418,
           "date": "2021-01-21",
-          "deaths": 5851,
+          "deaths": 5917,
           "recovered": 0
         }
       }
@@ -1197,10 +1197,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 301534,
+      "confirmed": 303777,
       "date": "2021-01-21",
-      "deaths": 4864,
-      "recovered": 243157
+      "deaths": 4912,
+      "recovered": 246452
     }
   },
   "Paraguay": {
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2388719,
+          "confirmed": 2395725,
           "date": "2021-01-21",
-          "deaths": 27536,
+          "deaths": 27863,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1055109,
+          "confirmed": 1055959,
           "date": "2021-01-21",
           "deaths": 12815,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 73667,
+          "confirmed": 74077,
           "date": "2021-01-21",
           "deaths": 1166,
           "recovered": 0
@@ -1785,10 +1785,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 121117,
+      "confirmed": 121691,
       "date": "2021-01-21",
-      "deaths": 1116,
-      "recovered": 113652
+      "deaths": 1122,
+      "recovered": 113982
     }
   },
   "West Bank and Gaza": {
