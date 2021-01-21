@@ -579,9 +579,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 132095,
+          "confirmed": 132685,
           "date": "2021-01-21",
-          "deaths": 2829,
+          "deaths": 2853,
           "recovered": 115395
         }
       },
@@ -1009,10 +1009,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 111124,
+      "confirmed": 111746,
       "date": "2021-01-21",
-      "deaths": 1715,
-      "recovered": 88930
+      "deaths": 1716,
+      "recovered": 89909
     }
   },
   "Lithuania": {
@@ -1025,10 +1025,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 169379,
+      "confirmed": 172549,
       "date": "2021-01-21",
-      "deaths": 630,
-      "recovered": 127662
+      "deaths": 642,
+      "recovered": 130152
     }
   },
   "Mexico": {
