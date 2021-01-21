@@ -1099,7 +1099,8 @@ var covid19_dataset_country_moz = {
       234,
       241,
       249,
-      253
+      253,
+      271
     ],
     "recovered": [
       0,
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_moz = {
       18515,
       18607,
       18880,
-      19132
+      19132,
+      19484
     ]
   }
 };

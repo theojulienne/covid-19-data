@@ -647,170 +647,170 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 886245,
+          "confirmed": 886418,
           "date": "2021-01-21",
           "deaths": 7142,
-          "recovered": 877443
+          "recovered": 877639
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 216887,
+          "confirmed": 216919,
           "date": "2021-01-21",
-          "deaths": 1075,
-          "recovered": 213084
+          "deaths": 1077,
+          "recovered": 213179
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 257991,
+          "confirmed": 258176,
           "date": "2021-01-21",
-          "deaths": 1461,
-          "recovered": 253289
+          "deaths": 1464,
+          "recovered": 253569
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 294355,
+          "confirmed": 294949,
           "date": "2021-01-21",
-          "deaths": 3575,
-          "recovered": 284848
+          "deaths": 3585,
+          "recovered": 285566
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 632821,
+          "confirmed": 633049,
           "date": "2021-01-21",
-          "deaths": 10764,
-          "recovered": 619723
+          "deaths": 10774,
+          "recovered": 620128
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 256852,
+          "confirmed": 257342,
           "date": "2021-01-21",
-          "deaths": 4369,
-          "recovered": 246516
+          "deaths": 4371,
+          "recovered": 247223
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 266581,
+          "confirmed": 266686,
           "date": "2021-01-21",
-          "deaths": 2993,
-          "recovered": 261751
+          "deaths": 2997,
+          "recovered": 261955
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 123538,
+          "confirmed": 123647,
           "date": "2021-01-21",
           "deaths": 1923,
-          "recovered": 120512
+          "recovered": 120625
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 117887,
+          "confirmed": 118012,
           "date": "2021-01-21",
           "deaths": 1057,
-          "recovered": 115683
+          "recovered": 115853
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 933077,
+          "confirmed": 933578,
           "date": "2021-01-21",
-          "deaths": 12181,
-          "recovered": 913012
+          "deaths": 12185,
+          "recovered": 913677
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 857380,
+          "confirmed": 864195,
           "date": "2021-01-21",
-          "deaths": 3506,
-          "recovered": 783393
+          "deaths": 3524,
+          "recovered": 790757
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 252186,
+          "confirmed": 252466,
           "date": "2021-01-21",
-          "deaths": 3763,
-          "recovered": 242691
+          "deaths": 3770,
+          "recovered": 243688
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 1994977,
+          "confirmed": 1997992,
           "date": "2021-01-21",
-          "deaths": 50523,
-          "recovered": 1894839
+          "deaths": 50582,
+          "recovered": 1899428
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 333566,
+          "confirmed": 333723,
           "date": "2021-01-21",
           "deaths": 1902,
-          "recovered": 330051
+          "recovered": 330321
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 170937,
+          "confirmed": 171136,
           "date": "2021-01-21",
-          "deaths": 5516,
-          "recovered": 163009
+          "deaths": 5520,
+          "recovered": 163211
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 315603,
+          "confirmed": 315816,
           "date": "2021-01-21",
-          "deaths": 2752,
-          "recovered": 308547
+          "deaths": 2754,
+          "recovered": 308985
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 831866,
+          "confirmed": 832415,
           "date": "2021-01-21",
-          "deaths": 12281,
-          "recovered": 814098
+          "deaths": 12290,
+          "recovered": 814811
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 292395,
+          "confirmed": 292621,
           "date": "2021-01-21",
-          "deaths": 1583,
-          "recovered": 286893
+          "deaths": 1584,
+          "recovered": 287117
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 597238,
+          "confirmed": 597628,
           "date": "2021-01-21",
-          "deaths": 8584,
-          "recovered": 580482
+          "deaths": 8591,
+          "recovered": 581164
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 95039,
+          "confirmed": 95192,
           "date": "2021-01-21",
-          "deaths": 1619,
-          "recovered": 91428
+          "deaths": 1622,
+          "recovered": 91565
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 566073,
+          "confirmed": 566482,
           "date": "2021-01-21",
-          "deaths": 10074,
-          "recovered": 549218
+          "deaths": 10080,
+          "recovered": 549727
         }
       }
     }
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1055959,
+          "confirmed": 1056515,
           "date": "2021-01-21",
           "deaths": 12815,
           "recovered": 0

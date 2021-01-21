@@ -1099,6 +1099,7 @@ var covid19_dataset_country_ssd = {
       63,
       63,
       63,
+      64,
       64
     ],
     "recovered": [
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_ssd = {
       3181,
       3181,
       3181,
-      3505
+      3505,
+      3542
     ]
   }
 };

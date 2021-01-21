@@ -1099,6 +1099,7 @@ var covid19_dataset_country_eri = {
       6,
       6,
       6,
+      6,
       6
     ],
     "recovered": [
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_eri = {
       1073,
       1073,
       1073,
-      1073
+      1073,
+      1234
     ]
   }
 };

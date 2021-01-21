@@ -1099,6 +1099,7 @@ var covid19_dataset_country_gnq = {
       86,
       86,
       86,
+      86,
       86
     ],
     "recovered": [
@@ -1464,6 +1465,7 @@ var covid19_dataset_country_gnq = {
       5169,
       5189,
       5189,
+      5191,
       5191,
       5191
     ]

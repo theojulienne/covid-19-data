@@ -1099,6 +1099,7 @@ var covid19_dataset_country_tcd = {
       111,
       111,
       113,
+      114,
       114
     ],
     "recovered": [
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_tcd = {
       2107,
       2130,
       2148,
-      2170
+      2170,
+      2178
     ]
   }
 };

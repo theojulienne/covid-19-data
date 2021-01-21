@@ -1099,6 +1099,7 @@ var covid19_dataset_country_lao = {
       0,
       0,
       0,
+      0,
       0
     ],
     "recovered": [
@@ -1460,6 +1461,7 @@ var covid19_dataset_country_lao = {
       40,
       40,
       40,
+      41,
       41,
       41,
       41,

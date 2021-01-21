@@ -1099,6 +1099,7 @@ var covid19_dataset_country_vnm = {
       35,
       35,
       35,
+      35,
       35
     ],
     "recovered": [
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_vnm = {
       1380,
       1380,
       1402,
-      1402
+      1402,
+      1406
     ]
   }
 };

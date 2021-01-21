@@ -1099,7 +1099,8 @@ var covid19_dataset_country_kwt = {
       947,
       947,
       948,
-      950
+      950,
+      951
     ],
     "recovered": [
       0,
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_kwt = {
       150678,
       151142,
       151496,
-      151936
+      151936,
+      152420
     ]
   }
 };

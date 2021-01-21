@@ -1099,6 +1099,7 @@ var covid19_dataset_country_lie = {
       49,
       49,
       50,
+      50,
       50
     ],
     "recovered": [
@@ -1465,7 +1466,8 @@ var covid19_dataset_country_lie = {
       2264,
       2264,
       2281,
-      2292
+      2292,
+      2302
     ]
   }
 };
