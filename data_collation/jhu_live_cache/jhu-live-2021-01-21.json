@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 249753,
+          "confirmed": 250593,
           "date": "2021-01-21",
-          "deaths": 5587,
-          "recovered": 219231
+          "deaths": 5608,
+          "recovered": 220444
         }
       },
       "Quebec": {
@@ -497,10 +497,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 198123,
+      "confirmed": 199672,
       "date": "2021-01-21",
-      "deaths": 2470,
-      "recovered": 145681
+      "deaths": 2482,
+      "recovered": 146020
     }
   },
   "Ecuador": {
@@ -595,9 +595,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 87040,
+          "confirmed": 87825,
           "date": "2021-01-21",
-          "deaths": 2187,
+          "deaths": 2216,
           "recovered": 71063
         }
       },
@@ -953,10 +953,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 317405,
+      "confirmed": 318181,
       "date": "2021-01-21",
-      "deaths": 4187,
-      "recovered": 303108
+      "deaths": 4198,
+      "recovered": 304200
     }
   },
   "Kazakhstan": {
@@ -1069,10 +1069,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 154118,
+      "confirmed": 154788,
       "date": "2021-01-21",
-      "deaths": 3299,
-      "recovered": 144356
+      "deaths": 3315,
+      "recovered": 145168
     }
   },
   "Morocco": {
@@ -1241,10 +1241,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 581605,
+      "confirmed": 595149,
       "date": "2021-01-21",
-      "deaths": 9465,
-      "recovered": 428364
+      "deaths": 9686,
+      "recovered": 434237
     }
   },
   "Qatar": {
@@ -1543,9 +1543,9 @@
       },
       "Maryland": {
         "live": {
-          "confirmed": 63994,
+          "confirmed": 64355,
           "date": "2021-01-21",
-          "deaths": 1191,
+          "deaths": 1193,
           "recovered": 0
         }
       },
@@ -1577,7 +1577,7 @@
         "live": {
           "confirmed": 79512,
           "date": "2021-01-21",
-          "deaths": 1604,
+          "deaths": 1619,
           "recovered": 0
         }
       },
