@@ -733,7 +733,8 @@ var covid19_dataset_country_blz = {
       11529,
       11580,
       11592,
-      11615
+      11615,
+      11642
     ],
     "deaths": [
       0,

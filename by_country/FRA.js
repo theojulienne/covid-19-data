@@ -366,7 +366,8 @@ var covid19_dataset_country_fra = {
           14776,
           14975,
           14975,
-          15055
+          15055,
+          15187
         ],
         "deaths": [
           0,
@@ -1469,6 +1470,7 @@ var covid19_dataset_country_fra = {
           17635,
           17635,
           17635,
+          17697,
           17697,
           17697
         ],
@@ -2574,6 +2576,7 @@ var covid19_dataset_country_fra = {
           8834,
           8834,
           8834,
+          8948,
           8948
         ],
         "deaths": [
@@ -3678,6 +3681,7 @@ var covid19_dataset_country_fra = {
           6227,
           6227,
           6227,
+          6302,
           6302
         ],
         "deaths": [
@@ -4782,7 +4786,8 @@ var covid19_dataset_country_fra = {
           6611,
           6611,
           6611,
-          6789
+          6789,
+          6918
         ],
         "deaths": [
           0,
@@ -5883,6 +5888,7 @@ var covid19_dataset_country_fra = {
           40,
           40,
           41,
+          44,
           44,
           44,
           44,
@@ -6990,6 +6996,7 @@ var covid19_dataset_country_fra = {
           9443,
           9443,
           9443,
+          9552,
           9552
         ],
         "deaths": [
@@ -8094,7 +8101,8 @@ var covid19_dataset_country_fra = {
           251,
           251,
           251,
-          251
+          251,
+          300
         ],
         "deaths": [
           0,
@@ -9178,6 +9186,7 @@ var covid19_dataset_country_fra = {
           15,
           15,
           15,
+          16,
           16,
           16,
           16,
@@ -10302,7 +10311,8 @@ var covid19_dataset_country_fra = {
           1076,
           1076,
           1076,
-          1076
+          1076,
+          1146
         ],
         "deaths": [
           0,
@@ -11390,6 +11400,7 @@ var covid19_dataset_country_fra = {
           0,
           0,
           0,
+          4,
           4,
           4,
           4,
@@ -12879,7 +12890,8 @@ var covid19_dataset_country_fra = {
       2866769,
       2903975,
       2907711,
-      2931050
+      2931050,
+      2957547
     ],
     "deaths": [
       0,

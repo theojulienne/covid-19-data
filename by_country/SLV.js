@@ -733,6 +733,7 @@ var covid19_dataset_country_slv = {
       50784,
       50784,
       51437,
+      51437,
       51437
     ],
     "deaths": [

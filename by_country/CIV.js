@@ -733,7 +733,8 @@ var covid19_dataset_country_civ = {
       24856,
       25241,
       25304,
-      25383
+      25383,
+      25597
     ],
     "deaths": [
       0,

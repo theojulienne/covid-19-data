@@ -733,6 +733,7 @@ var covid19_dataset_country_bwa = {
       17365,
       17365,
       18630,
+      18630,
       18630
     ],
     "deaths": [

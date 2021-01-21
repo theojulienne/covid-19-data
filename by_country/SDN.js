@@ -733,6 +733,7 @@ var covid19_dataset_country_sdn = {
       25730,
       26279,
       26279,
+      26279,
       26279
     ],
     "deaths": [

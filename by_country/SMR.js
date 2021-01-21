@@ -733,7 +733,8 @@ var covid19_dataset_country_smr = {
       2778,
       2778,
       2787,
-      2803
+      2803,
+      2815
     ],
     "deaths": [
       0,

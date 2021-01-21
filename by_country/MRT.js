@@ -733,7 +733,8 @@ var covid19_dataset_country_mrt = {
       15999,
       16039,
       16081,
-      16147
+      16147,
+      16212
     ],
     "deaths": [
       0,

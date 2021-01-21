@@ -733,7 +733,8 @@ var covid19_dataset_country_moz = {
       25862,
       26551,
       27446,
-      28270
+      28270,
+      29396
     ],
     "deaths": [
       0,

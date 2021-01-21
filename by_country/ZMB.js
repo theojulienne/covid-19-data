@@ -733,7 +733,8 @@ var covid19_dataset_country_zmb = {
       36074,
       37605,
       38207,
-      39515
+      39515,
+      40949
     ],
     "deaths": [
       0,

@@ -733,7 +733,8 @@ var covid19_dataset_country_isl = {
       5956,
       5956,
       5970,
-      5970
+      5970,
+      5975
     ],
     "deaths": [
       0,

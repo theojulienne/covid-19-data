@@ -733,7 +733,8 @@ var covid19_dataset_country_com = {
       1577,
       1592,
       1769,
-      1864
+      1864,
+      1933
     ],
     "deaths": [
       0,
