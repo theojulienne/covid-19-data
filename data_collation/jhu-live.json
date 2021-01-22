@@ -28,7 +28,7 @@
       "confirmed": 165528,
       "date": "2021-01-22",
       "deaths": 3021,
-      "recovered": 154046
+      "recovered": 154259
     }
   },
   "Austria": {
@@ -481,10 +481,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 917359,
+      "confirmed": 924847,
       "date": "2021-01-22",
-      "deaths": 14973,
-      "recovered": 782558
+      "deaths": 15130,
+      "recovered": 795878
     }
   },
   "Denmark": {
@@ -540,7 +540,7 @@
       "confirmed": 251071,
       "date": "2021-01-22",
       "deaths": 2998,
-      "recovered": 238101
+      "recovered": 238737
     }
   },
   "Germany": {
@@ -943,7 +943,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 90727,
+          "confirmed": 91902,
           "date": "2021-01-22",
           "deaths": 758,
           "recovered": 68901
@@ -993,10 +993,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 83585,
+      "confirmed": 83703,
       "date": "2021-01-22",
-      "deaths": 1394,
-      "recovered": 79509
+      "deaths": 1396,
+      "recovered": 79664
     }
   },
   "Lebanon": {
@@ -1035,33 +1035,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 424666,
+          "confirmed": 432631,
           "date": "2021-01-22",
-          "deaths": 20028,
+          "deaths": 20298,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 97793,
+          "confirmed": 99098,
           "date": "2021-01-22",
-          "deaths": 6446,
+          "deaths": 6522,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 173452,
+          "confirmed": 175900,
           "date": "2021-01-22",
-          "deaths": 22097,
+          "deaths": 22421,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 96418,
+          "confirmed": 97667,
           "date": "2021-01-22",
-          "deaths": 5917,
+          "deaths": 6012,
           "recovered": 0
         }
       }
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2415712,
+          "confirmed": 2416756,
           "date": "2021-01-22",
-          "deaths": 28377,
+          "deaths": 28478,
           "recovered": 0
         }
       },
@@ -1683,50 +1683,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 65210,
+          "confirmed": 65624,
           "date": "2021-01-22",
-          "deaths": 1701,
-          "recovered": 53018
+          "deaths": 1722,
+          "recovered": 53872
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 75670,
+          "confirmed": 75970,
           "date": "2021-01-22",
-          "deaths": 1290,
-          "recovered": 64329
+          "deaths": 1304,
+          "recovered": 64553
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 124835,
+          "confirmed": 125342,
           "date": "2021-01-22",
-          "deaths": 2246,
-          "recovered": 52146
+          "deaths": 2260,
+          "recovered": 55000
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 66949,
+          "confirmed": 67262,
           "date": "2021-01-22",
-          "deaths": 1086,
-          "recovered": 48883
+          "deaths": 1092,
+          "recovered": 50048
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 68224,
+          "confirmed": 68594,
           "date": "2021-01-22",
-          "deaths": 1996,
-          "recovered": 56692
+          "deaths": 2010,
+          "recovered": 57120
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 79456,
+          "confirmed": 79743,
           "date": "2021-01-22",
-          "deaths": 1270,
-          "recovered": 65706
+          "deaths": 1278,
+          "recovered": 67084
         }
       }
     }
