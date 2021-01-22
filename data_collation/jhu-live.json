@@ -33,9 +33,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 399798,
+      "confirmed": 401886,
       "date": "2021-01-22",
-      "deaths": 7288,
+      "deaths": 7330,
       "recovered": 378408
     }
   },
@@ -1265,9 +1265,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 703776,
+      "confirmed": 706475,
       "date": "2021-01-22",
-      "deaths": 17554,
+      "deaths": 17628,
       "recovered": 645923
     }
   },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1066431,
+          "confirmed": 1066978,
           "date": "2021-01-22",
           "deaths": 12980,
           "recovered": 0
