@@ -849,10 +849,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 582869,
+      "confirmed": 585746,
       "date": "2021-01-22",
       "deaths": 4245,
-      "recovered": 497347
+      "recovered": 499241
     }
   },
   "Italy": {
@@ -1777,10 +1777,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78219,
+      "confirmed": 78272,
       "date": "2021-01-22",
       "deaths": 620,
-      "recovered": 76655
+      "recovered": 76752
     }
   },
   "Venezuela": {
