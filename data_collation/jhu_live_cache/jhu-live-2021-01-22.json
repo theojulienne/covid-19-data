@@ -373,7 +373,7 @@
         "live": {
           "confirmed": 254046,
           "date": "2021-01-22",
-          "deaths": 5690,
+          "deaths": 5693,
           "recovered": 224287
         }
       },
@@ -841,9 +841,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 181922,
+      "confirmed": 184279,
       "date": "2021-01-22",
-      "deaths": 2818,
+      "deaths": 2870,
       "recovered": 23364
     }
   },
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2416756,
+          "confirmed": 2419213,
           "date": "2021-01-22",
-          "deaths": 28478,
+          "deaths": 28496,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 883080,
+          "confirmed": 889685,
           "date": "2021-01-22",
-          "deaths": 11649,
+          "deaths": 11749,
           "recovered": 0
         }
       },
@@ -1585,13 +1585,13 @@
         "live": {
           "confirmed": 205926,
           "date": "2021-01-22",
-          "deaths": 2974,
+          "deaths": 3017,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 840513,
+          "confirmed": 850577,
           "date": "2021-01-22",
           "deaths": 31942,
           "recovered": 0
@@ -1623,9 +1623,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 172058,
+          "confirmed": 172477,
           "date": "2021-01-22",
-          "deaths": 4181,
+          "deaths": 4211,
           "recovered": 0
         }
       },
