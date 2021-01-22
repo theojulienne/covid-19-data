@@ -65,7 +65,7 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 232298,
+      "confirmed": 234111,
       "date": "2021-01-22",
       "deaths": 1628,
       "recovered": 218831
@@ -476,7 +476,7 @@
       "confirmed": 227326,
       "date": "2021-01-22",
       "deaths": 4738,
-      "recovered": 219082
+      "recovered": 219878
     }
   },
   "Czechia": {
@@ -817,7 +817,7 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 951651,
+      "confirmed": 965283,
       "date": "2021-01-22",
       "deaths": 27453,
       "recovered": 781147
@@ -1233,9 +1233,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1457755,
+      "confirmed": 1464448,
       "date": "2021-01-22",
-      "deaths": 34561,
+      "deaths": 34908,
       "recovered": 1215732
     }
   },
@@ -1325,7 +1325,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 231242,
+      "confirmed": 233027,
       "date": "2021-01-22",
       "deaths": 3894,
       "recovered": 183942
@@ -1336,7 +1336,7 @@
       "confirmed": 154306,
       "date": "2021-01-22",
       "deaths": 3284,
-      "recovered": 131377
+      "recovered": 133428
     }
   },
   "South Africa": {
@@ -1736,7 +1736,7 @@
       "confirmed": 267258,
       "date": "2021-01-22",
       "deaths": 766,
-      "recovered": 239322
+      "recovered": 243267
     }
   },
   "United Kingdom": {
