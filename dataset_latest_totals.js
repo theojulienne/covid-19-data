@@ -188,12 +188,12 @@ var covid19_dataset_latest_totals = {
           "tested": 93774
         },
         "QLD": {
-          "confirmed": 1299,
+          "confirmed": 1300,
           "current_hospitalized": 23,
           "current_icu": 1,
           "deaths": 6,
           "recovered": 1258,
-          "tested": 1701283
+          "tested": 1708693
         },
         "SA": {
           "confirmed": 593,
