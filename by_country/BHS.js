@@ -1469,6 +1469,7 @@ var covid19_dataset_country_bhs = {
       6525,
       6680,
       6700,
+      6720,
       6720
     ]
   }

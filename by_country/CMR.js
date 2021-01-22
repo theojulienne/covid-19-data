@@ -1469,6 +1469,7 @@ var covid19_dataset_country_cmr = {
       26861,
       26861,
       26861,
+      26861,
       26861
     ]
   }

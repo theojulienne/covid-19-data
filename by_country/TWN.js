@@ -1469,6 +1469,7 @@ var covid19_dataset_country_twn = {
       755,
       756,
       766,
+      769,
       769
     ]
   }

@@ -1469,6 +1469,7 @@ var covid19_dataset_country_srb = {
       0,
       0,
       0,
+      0,
       0
     ]
   }

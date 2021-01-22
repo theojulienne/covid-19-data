@@ -1469,6 +1469,7 @@ var covid19_dataset_country_tjk = {
       13218,
       13218,
       13218,
+      13218,
       13218
     ]
   }

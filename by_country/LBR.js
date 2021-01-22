@@ -1469,6 +1469,7 @@ var covid19_dataset_country_lbr = {
       1701,
       1707,
       1707,
+      1714,
       1714
     ]
   }

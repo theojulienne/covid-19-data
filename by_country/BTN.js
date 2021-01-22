@@ -1469,6 +1469,7 @@ var covid19_dataset_country_btn = {
       574,
       583,
       605,
+      631,
       631
     ]
   }

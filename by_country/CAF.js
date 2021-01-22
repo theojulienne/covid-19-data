@@ -1469,6 +1469,7 @@ var covid19_dataset_country_caf = {
       4885,
       4885,
       4885,
+      4885,
       4885
     ]
   }

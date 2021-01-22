@@ -1469,7 +1469,8 @@ var covid19_dataset_country_atg = {
       156,
       156,
       157,
-      157
+      157,
+      162
     ]
   }
 };

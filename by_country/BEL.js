@@ -1469,6 +1469,7 @@ var covid19_dataset_country_bel = {
       0,
       0,
       0,
+      0,
       0
     ]
   }
