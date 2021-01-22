@@ -9,18 +9,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 104852,
+      "confirmed": 105124,
       "date": "2021-01-22",
-      "deaths": 2853,
-      "recovered": 71343
+      "deaths": 2856,
+      "recovered": 71552
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 1843077,
+      "confirmed": 1853830,
       "date": "2021-01-22",
-      "deaths": 46355,
-      "recovered": 1625755
+      "deaths": 46575,
+      "recovered": 1636826
     }
   },
   "Armenia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 213864,
+      "confirmed": 214430,
       "date": "2021-01-22",
-      "deaths": 8741,
-      "recovered": 177354
+      "deaths": 8799,
+      "recovered": 178602
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 119114,
+          "confirmed": 119757,
           "date": "2021-01-22",
-          "deaths": 1500,
-          "recovered": 107358
+          "deaths": 1512,
+          "recovered": 108258
         }
       },
       "Ontario": {
@@ -465,10 +465,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 188477,
+      "confirmed": 189308,
       "date": "2021-01-22",
-      "deaths": 2506,
-      "recovered": 145724
+      "deaths": 2518,
+      "recovered": 146448
     }
   },
   "Croatia": {
@@ -621,10 +621,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 152395,
+      "confirmed": 152956,
       "date": "2021-01-22",
-      "deaths": 5389,
-      "recovered": 136980
+      "deaths": 5420,
+      "recovered": 137092
     }
   },
   "Honduras": {
@@ -985,10 +985,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 159834,
+      "confirmed": 160367,
       "date": "2021-01-22",
-      "deaths": 951,
-      "recovered": 152826
+      "deaths": 952,
+      "recovered": 153307
     }
   },
   "Kyrgyzstan": {
@@ -1205,10 +1205,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 125518,
+      "confirmed": 126370,
       "date": "2021-01-22",
-      "deaths": 2570,
-      "recovered": 100848
+      "deaths": 2585,
+      "recovered": 101599
     }
   },
   "Peru": {
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2424629,
+          "confirmed": 2424941,
           "date": "2021-01-22",
-          "deaths": 28548,
+          "deaths": 28571,
           "recovered": 0
         }
       },
@@ -1551,7 +1551,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 235608,
+          "confirmed": 237806,
           "date": "2021-01-22",
           "deaths": 6415,
           "recovered": 0
@@ -1647,9 +1647,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1068842,
+          "confirmed": 1070764,
           "date": "2021-01-22",
-          "deaths": 13018,
+          "deaths": 13170,
           "recovered": 0
         }
       },
