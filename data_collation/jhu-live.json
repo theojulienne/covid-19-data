@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 252542,
+          "confirmed": 253416,
           "date": "2021-01-22",
-          "deaths": 5632,
-          "recovered": 222391
+          "deaths": 5686,
+          "recovered": 223592
         }
       },
       "Quebec": {
@@ -500,7 +500,7 @@
       "confirmed": 199672,
       "date": "2021-01-22",
       "deaths": 2482,
-      "recovered": 146020
+      "recovered": 146491
     }
   },
   "Ecuador": {
@@ -555,7 +555,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 385784,
+          "confirmed": 385869,
           "date": "2021-01-22",
           "deaths": 9422,
           "recovered": 332844
@@ -567,14 +567,6 @@
           "date": "2021-01-22",
           "deaths": 1996,
           "recovered": 99675
-        }
-      },
-      "Brandenburg": {
-        "live": {
-          "confirmed": 64482,
-          "date": "2021-01-22",
-          "deaths": 2054,
-          "recovered": 49141
         }
       },
       "Hessen": {
@@ -953,8 +945,8 @@
         "live": {
           "confirmed": 91902,
           "date": "2021-01-22",
-          "deaths": 758,
-          "recovered": 68901
+          "deaths": 767,
+          "recovered": 70417
         }
       }
     }
@@ -1080,7 +1072,7 @@
       "confirmed": 154788,
       "date": "2021-01-22",
       "deaths": 3315,
-      "recovered": 145168
+      "recovered": 145831
     }
   },
   "Morocco": {
@@ -1249,10 +1241,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 595149,
+      "confirmed": 609136,
       "date": "2021-01-22",
-      "deaths": 9686,
-      "recovered": 434237
+      "deaths": 9920,
+      "recovered": 441556
     }
   },
   "Qatar": {
@@ -1546,6 +1538,14 @@
           "confirmed": 83111,
           "date": "2021-01-22",
           "deaths": 1322,
+          "recovered": 0
+        }
+      },
+      "Maryland": {
+        "live": {
+          "confirmed": 64764,
+          "date": "2021-01-22",
+          "deaths": 1196,
           "recovered": 0
         }
       },
