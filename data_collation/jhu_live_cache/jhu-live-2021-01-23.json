@@ -1487,17 +1487,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 534440,
+          "confirmed": 540151,
           "date": "2021-01-23",
-          "deaths": 8377,
+          "deaths": 8499,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2436711,
+          "confirmed": 2441638,
           "date": "2021-01-23",
-          "deaths": 28922,
+          "deaths": 28955,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 889685,
+          "confirmed": 896255,
           "date": "2021-01-23",
-          "deaths": 11749,
+          "deaths": 11803,
           "recovered": 0
         }
       },
@@ -1591,7 +1591,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 856132,
+          "confirmed": 859473,
           "date": "2021-01-23",
           "deaths": 32068,
           "recovered": 0
@@ -1655,9 +1655,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 206819,
+          "confirmed": 207798,
           "date": "2021-01-23",
-          "deaths": 914,
+          "deaths": 920,
           "recovered": 0
         }
       },
