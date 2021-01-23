@@ -6,7 +6,6 @@ The timeseries datasets from https://github.com/CSSEGISandData/COVID-19 converte
 
 This repo collates multiple datasets into a single dataset used by [covid.graphics](https://covid.graphics). These specific datasets are:
  * Australia - https://github.com/theojulienne/covid-19-data-aus
- * New Zealand - https://github.com/tetrakai/covid-19-data-nz
  * United States - https://github.com/theojulienne/covid-19-data-usa
 
 ## Usage
