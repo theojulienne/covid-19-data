@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 965283,
+      "confirmed": 977474,
       "date": "2021-01-23",
-      "deaths": 27453,
-      "recovered": 781147
+      "deaths": 27664,
+      "recovered": 791059
     }
   },
   "Iran": {
@@ -1017,10 +1017,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 174846,
+      "confirmed": 175851,
       "date": "2021-01-23",
-      "deaths": 2591,
-      "recovered": 114925
+      "deaths": 2628,
+      "recovered": 118893
     }
   },
   "Malaysia": {
