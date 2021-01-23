@@ -946,7 +946,7 @@
           "confirmed": 92972,
           "date": "2021-01-23",
           "deaths": 767,
-          "recovered": 70417
+          "recovered": 72355
         }
       }
     }
@@ -1233,10 +1233,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1464448,
+      "confirmed": 1470879,
       "date": "2021-01-23",
-      "deaths": 34908,
-      "recovered": 1215732
+      "deaths": 35253,
+      "recovered": 1222782
     }
   },
   "Portugal": {
