@@ -367,7 +367,8 @@ var covid19_dataset_country_twn = {
     "2021-01-20",
     "2021-01-21",
     "2021-01-22",
-    "2021-01-23"
+    "2021-01-23",
+    "2021-01-24"
   ],
   "total": {
     "confirmed": [
@@ -736,7 +737,7 @@ var covid19_dataset_country_twn = {
       862,
       868,
       870,
-      870
+      881
     ],
     "deaths": [
       0,
@@ -1472,7 +1473,7 @@ var covid19_dataset_country_twn = {
       756,
       766,
       769,
-      769
+      777
     ]
   }
 };
