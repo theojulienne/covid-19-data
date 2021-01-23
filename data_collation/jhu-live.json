@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 228526,
+      "confirmed": 228688,
       "date": "2021-01-23",
-      "deaths": 3064,
-      "recovered": 219019
+      "deaths": 3072,
+      "recovered": 219724
     }
   },
   "Bahrain": {
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 160367,
+      "confirmed": 160901,
       "date": "2021-01-23",
       "deaths": 952,
-      "recovered": 153307
+      "recovered": 153746
     }
   },
   "Kyrgyzstan": {
@@ -1103,49 +1103,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 107187,
+          "confirmed": 107873,
           "date": "2021-01-23",
-          "deaths": 1573,
+          "deaths": 1585,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 146255,
+          "confirmed": 147102,
           "date": "2021-01-23",
-          "deaths": 2606,
+          "deaths": 2613,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 158189,
+          "confirmed": 159169,
           "date": "2021-01-23",
-          "deaths": 1925,
+          "deaths": 1932,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 66831,
+          "confirmed": 67254,
           "date": "2021-01-23",
-          "deaths": 901,
+          "deaths": 908,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 76304,
+          "confirmed": 76693,
           "date": "2021-01-23",
-          "deaths": 990,
+          "deaths": 992,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 227777,
+          "confirmed": 228643,
           "date": "2021-01-23",
-          "deaths": 3236,
+          "deaths": 3260,
           "recovered": 0
         }
       }
@@ -1325,9 +1325,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 380802,
+      "confirmed": 382285,
       "date": "2021-01-23",
-      "deaths": 3849,
+      "deaths": 3868,
       "recovered": 0
     }
   },
