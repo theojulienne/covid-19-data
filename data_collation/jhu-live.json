@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 193038,
+      "confirmed": 193917,
       "date": "2021-01-23",
-      "deaths": 1941,
-      "recovered": 177550
+      "deaths": 1969,
+      "recovered": 178967
     }
   },
   "Dominican Republic": {
@@ -567,6 +567,14 @@
           "date": "2021-01-23",
           "deaths": 2021,
           "recovered": 100596
+        }
+      },
+      "Brandenburg": {
+        "live": {
+          "confirmed": 65206,
+          "date": "2021-01-23",
+          "deaths": 2096,
+          "recovered": 49828
         }
       },
       "Hessen": {
@@ -1309,10 +1317,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 365988,
+      "confirmed": 366185,
       "date": "2021-01-23",
-      "deaths": 6346,
-      "recovered": 357525
+      "deaths": 6350,
+      "recovered": 357728
     }
   },
   "Serbia": {
@@ -1325,10 +1333,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 233027,
+      "confirmed": 234571,
       "date": "2021-01-23",
-      "deaths": 3894,
-      "recovered": 183942
+      "deaths": 3965,
+      "recovered": 186683
     }
   },
   "Slovenia": {
@@ -1538,14 +1546,6 @@
           "confirmed": 83622,
           "date": "2021-01-23",
           "deaths": 1331,
-          "recovered": 0
-        }
-      },
-      "Maryland": {
-        "live": {
-          "confirmed": 64764,
-          "date": "2021-01-23",
-          "deaths": 1196,
           "recovered": 0
         }
       },
