@@ -481,9 +481,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 924847,
+      "confirmed": 933361,
       "date": "2021-01-23",
-      "deaths": 15130,
+      "deaths": 15270,
       "recovered": 808263
     }
   },
@@ -637,10 +637,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 356973,
+      "confirmed": 358317,
       "date": "2021-01-23",
-      "deaths": 11811,
-      "recovered": 237362
+      "deaths": 11904,
+      "recovered": 239880
     }
   },
   "India": {
@@ -1225,10 +1225,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 509887,
+      "confirmed": 511679,
       "date": "2021-01-23",
-      "deaths": 10136,
-      "recovered": 467720
+      "deaths": 10190,
+      "recovered": 467886
     }
   },
   "Poland": {
@@ -1267,42 +1267,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 907389,
+          "confirmed": 910057,
           "date": "2021-01-23",
-          "deaths": 12831,
-          "recovered": 763500
+          "deaths": 12895,
+          "recovered": 769433
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 183133,
+          "confirmed": 184254,
           "date": "2021-01-23",
-          "deaths": 3449,
-          "recovered": 143026
+          "deaths": 3488,
+          "recovered": 144272
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 80161,
+          "confirmed": 80648,
           "date": "2021-01-23",
-          "deaths": 1989,
-          "recovered": 72420
+          "deaths": 2004,
+          "recovered": 72898
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 313608,
+          "confirmed": 316664,
           "date": "2021-01-23",
-          "deaths": 9181,
-          "recovered": 202307
+          "deaths": 9254,
+          "recovered": 206512
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 67136,
+          "confirmed": 67526,
           "date": "2021-01-23",
-          "deaths": 1890,
-          "recovered": 59615
+          "deaths": 1907,
+          "recovered": 60015
         }
       }
     }
