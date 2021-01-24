@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 198257,
+      "confirmed": 199989,
       "date": "2021-01-24",
-      "deaths": 9871,
-      "recovered": 148750
+      "deaths": 9927,
+      "recovered": 149895
     }
   },
   "Bosnia and Herzegovina": {
@@ -969,10 +969,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 222701,
+      "confirmed": 224285,
       "date": "2021-01-24",
       "deaths": 2953,
-      "recovered": 193702
+      "recovered": 194541
     }
   },
   "Kenya": {
@@ -985,10 +985,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 74692,
+      "confirmed": 75084,
       "date": "2021-01-24",
-      "deaths": 1337,
-      "recovered": 62044
+      "deaths": 1349,
+      "recovered": 62530
     }
   },
   "Kuwait": {
@@ -1197,18 +1197,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 307793,
+      "confirmed": 309851,
       "date": "2021-01-24",
-      "deaths": 4980,
-      "recovered": 253503
+      "deaths": 5034,
+      "recovered": 256597
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 126370,
+      "confirmed": 127081,
       "date": "2021-01-24",
-      "deaths": 2585,
-      "recovered": 101599
+      "deaths": 2607,
+      "recovered": 102344
     }
   },
   "Peru": {
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2452480,
+          "confirmed": 2455460,
           "date": "2021-01-24",
-          "deaths": 29313,
+          "deaths": 29356,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1080628,
+          "confirmed": 1082312,
           "date": "2021-01-24",
           "deaths": 13283,
           "recovered": 0
@@ -1663,7 +1663,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 74951,
+          "confirmed": 75433,
           "date": "2021-01-24",
           "deaths": 1203,
           "recovered": 0
@@ -1785,10 +1785,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 122795,
+      "confirmed": 123245,
       "date": "2021-01-24",
-      "deaths": 1136,
-      "recovered": 114925
+      "deaths": 1142,
+      "recovered": 115426
     }
   },
   "West Bank and Gaza": {
