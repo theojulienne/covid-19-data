@@ -1109,7 +1109,8 @@ var covid19_dataset_country_pol = {
       33698,
       34141,
       34561,
-      34908
+      34908,
+      35253
     ],
     "recovered": [
       0,

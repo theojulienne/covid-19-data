@@ -1109,6 +1109,7 @@ var covid19_dataset_country_syc = {
       2,
       2,
       2,
+      3,
       3
     ],
     "recovered": [

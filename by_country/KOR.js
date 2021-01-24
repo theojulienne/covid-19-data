@@ -1109,7 +1109,8 @@ var covid19_dataset_country_kor = {
       1300,
       1316,
       1328,
-      1337
+      1337,
+      1349
     ],
     "recovered": [
       0,

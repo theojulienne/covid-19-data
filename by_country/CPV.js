@@ -1109,7 +1109,8 @@ var covid19_dataset_country_cpv = {
       120,
       121,
       122,
-      122
+      122,
+      124
     ],
     "recovered": [
       0,

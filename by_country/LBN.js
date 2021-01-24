@@ -1109,7 +1109,8 @@ var covid19_dataset_country_lbn = {
       2020,
       2084,
       2151,
-      2208
+      2208,
+      2270
     ],
     "recovered": [
       0,

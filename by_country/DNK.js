@@ -739,6 +739,7 @@ var covid19_dataset_country_dnk = {
           1,
           1,
           1,
+          1,
           1
         ],
         "recovered": [
@@ -1486,6 +1487,7 @@ var covid19_dataset_country_dnk = {
           30
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -3337,7 +3339,8 @@ var covid19_dataset_country_dnk = {
       1837,
       1872,
       1909,
-      1941
+      1941,
+      1969
     ],
     "recovered": [
       0,

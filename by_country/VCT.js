@@ -1109,6 +1109,7 @@ var covid19_dataset_country_vct = {
       2,
       2,
       2,
+      2,
       2
     ],
     "recovered": [

@@ -1109,7 +1109,8 @@ var covid19_dataset_country_afg = {
       2346,
       2354,
       2363,
-      2370
+      2370,
+      2373
     ],
     "recovered": [
       0,

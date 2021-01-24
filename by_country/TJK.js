@@ -1109,6 +1109,7 @@ var covid19_dataset_country_tjk = {
       90,
       90,
       90,
+      90,
       90
     ],
     "recovered": [

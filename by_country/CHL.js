@@ -1109,7 +1109,8 @@ var covid19_dataset_country_chl = {
       17573,
       17594,
       17702,
-      17786
+      17786,
+      17854
     ],
     "recovered": [
       0,

@@ -1109,7 +1109,8 @@ var covid19_dataset_country_rwa = {
       148,
       153,
       162,
-      165
+      165,
+      172
     ],
     "recovered": [
       0,

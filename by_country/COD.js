@@ -1109,7 +1109,8 @@ var covid19_dataset_country_cod = {
       640,
       640,
       644,
-      647
+      647,
+      654
     ],
     "recovered": [
       0,

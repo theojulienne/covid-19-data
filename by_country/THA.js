@@ -1109,7 +1109,8 @@ var covid19_dataset_country_tha = {
       71,
       71,
       71,
-      71
+      71,
+      72
     ],
     "recovered": [
       2,

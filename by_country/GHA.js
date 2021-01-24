@@ -1109,6 +1109,7 @@ var covid19_dataset_country_gha = {
       358,
       358,
       361,
+      361,
       361
     ],
     "recovered": [

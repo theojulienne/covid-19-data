@@ -1109,7 +1109,8 @@ var covid19_dataset_country_sau = {
       6335,
       6338,
       6342,
-      6346
+      6346,
+      6350
     ],
     "recovered": [
       0,

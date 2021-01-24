@@ -1109,7 +1109,8 @@ var covid19_dataset_country_com = {
       51,
       54,
       55,
-      63
+      63,
+      70
     ],
     "recovered": [
       0,

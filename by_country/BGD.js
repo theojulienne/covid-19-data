@@ -1109,7 +1109,8 @@ var covid19_dataset_country_bgd = {
       7942,
       7950,
       7966,
-      7981
+      7981,
+      8003
     ],
     "recovered": [
       0,

@@ -1109,7 +1109,8 @@ var covid19_dataset_country_npl = {
       1969,
       1975,
       1979,
-      1986
+      1986,
+      1994
     ],
     "recovered": [
       0,

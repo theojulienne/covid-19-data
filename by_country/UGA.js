@@ -1109,6 +1109,7 @@ var covid19_dataset_country_uga = {
       305,
       305,
       316,
+      317,
       317
     ],
     "recovered": [

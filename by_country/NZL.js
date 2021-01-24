@@ -1109,6 +1109,7 @@ var covid19_dataset_country_nzl = {
       25,
       25,
       25,
+      25,
       25
     ],
     "recovered": [

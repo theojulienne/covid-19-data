@@ -1109,6 +1109,7 @@ var covid19_dataset_country_kwt = {
       950,
       951,
       951,
+      952,
       952
     ],
     "recovered": [

@@ -1109,6 +1109,7 @@ var covid19_dataset_country_ben = {
       46,
       46,
       48,
+      48,
       48
     ],
     "recovered": [

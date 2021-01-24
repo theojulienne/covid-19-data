@@ -1109,7 +1109,8 @@ var covid19_dataset_country_civ = {
       142,
       142,
       142,
-      143
+      143,
+      145
     ],
     "recovered": [
       0,

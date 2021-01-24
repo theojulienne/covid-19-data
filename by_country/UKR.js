@@ -1109,7 +1109,8 @@ var covid19_dataset_country_ukr = {
       22037,
       22264,
       22521,
-      22698
+      22698,
+      22830
     ],
     "recovered": [
       0,

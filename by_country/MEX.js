@@ -1109,7 +1109,8 @@ var covid19_dataset_country_mex = {
       142832,
       144371,
       146174,
-      147614
+      147614,
+      149084
     ],
     "recovered": [
       0,

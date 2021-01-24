@@ -1109,7 +1109,8 @@ var covid19_dataset_country_ven = {
       1116,
       1122,
       1129,
-      1136
+      1136,
+      1142
     ],
     "recovered": [
       0,

@@ -1109,6 +1109,7 @@ var covid19_dataset_country_qat = {
       248,
       248,
       248,
+      248,
       248
     ],
     "recovered": [

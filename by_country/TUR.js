@@ -1109,7 +1109,8 @@ var covid19_dataset_country_tur = {
       24328,
       24487,
       24640,
-      24789
+      24789,
+      24933
     ],
     "recovered": [
       0,
