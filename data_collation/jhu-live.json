@@ -547,9 +547,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 284407,
+          "confirmed": 285108,
           "date": "2021-01-24",
-          "deaths": 6618,
+          "deaths": 6632,
           "recovered": 247746
         }
       },
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2458373,
+          "confirmed": 2526401,
           "date": "2021-01-24",
-          "deaths": 29454,
+          "deaths": 29961,
           "recovered": 0
         }
       },
@@ -1511,9 +1511,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 896255,
+          "confirmed": 901004,
           "date": "2021-01-24",
-          "deaths": 11803,
+          "deaths": 11867,
           "recovered": 0
         }
       },
@@ -1538,14 +1538,6 @@
           "confirmed": 84435,
           "date": "2021-01-24",
           "deaths": 1336,
-          "recovered": 0
-        }
-      },
-      "Maryland": {
-        "live": {
-          "confirmed": 65562,
-          "date": "2021-01-24",
-          "deaths": 1205,
           "recovered": 0
         }
       },
@@ -1607,9 +1599,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 186742,
+          "confirmed": 187771,
           "date": "2021-01-24",
-          "deaths": 1832,
+          "deaths": 1852,
           "recovered": 0
         }
       },
