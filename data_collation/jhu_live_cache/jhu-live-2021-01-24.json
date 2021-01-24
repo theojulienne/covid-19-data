@@ -138,7 +138,7 @@
           "confirmed": 113662,
           "date": "2021-01-24",
           "deaths": 2674,
-          "recovered": 107976
+          "recovered": 108691
         }
       },
       "Amapa": {
@@ -186,7 +186,7 @@
           "confirmed": 284841,
           "date": "2021-01-24",
           "deaths": 5658,
-          "recovered": 265274
+          "recovered": 265640
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 206598,
           "date": "2021-01-24",
           "deaths": 4882,
-          "recovered": 191831
+          "recovered": 193762
         }
       },
       "Mato Grosso do Sul": {
@@ -226,7 +226,7 @@
           "confirmed": 686682,
           "date": "2021-01-24",
           "deaths": 14148,
-          "recovered": 608858
+          "recovered": 612188
         }
       },
       "Para": {
@@ -258,7 +258,7 @@
           "confirmed": 250165,
           "date": "2021-01-24",
           "deaths": 10177,
-          "recovered": 211038
+          "recovered": 213329
         }
       },
       "Piaui": {
@@ -290,7 +290,7 @@
           "confirmed": 500185,
           "date": "2021-01-24",
           "deaths": 28812,
-          "recovered": 460121
+          "recovered": 464860
         }
       },
       "Rondonia": {
@@ -338,7 +338,7 @@
           "confirmed": 99290,
           "date": "2021-01-24",
           "deaths": 1344,
-          "recovered": 87662
+          "recovered": 88393
         }
       }
     }
@@ -505,10 +505,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 238232,
+      "confirmed": 241292,
       "date": "2021-01-24",
-      "deaths": 14596,
-      "recovered": 199332
+      "deaths": 14623,
+      "recovered": 204071
     }
   },
   "Egypt": {
@@ -521,18 +521,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 133298,
+      "confirmed": 133767,
       "date": "2021-01-24",
-      "deaths": 2063,
-      "recovered": 118730
+      "deaths": 2066,
+      "recovered": 119416
     }
   },
   "France": {
     "live": {
-      "confirmed": 3026320,
+      "confirmed": 3044358,
       "date": "2021-01-24",
-      "deaths": 72497,
-      "recovered": 192165
+      "deaths": 72668,
+      "recovered": 192405
     }
   },
   "Georgia": {
@@ -1469,10 +1469,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 195314,
+      "confirmed": 197373,
       "date": "2021-01-24",
-      "deaths": 6154,
-      "recovered": 141862
+      "deaths": 6234,
+      "recovered": 144657
     }
   },
   "Turkey": {
@@ -1487,17 +1487,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 540151,
+          "confirmed": 545900,
           "date": "2021-01-24",
-          "deaths": 8499,
+          "deaths": 8561,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2526401,
+          "confirmed": 2527967,
           "date": "2021-01-24",
-          "deaths": 29961,
+          "deaths": 29974,
           "recovered": 0
         }
       },
@@ -1519,7 +1519,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 151758,
+          "confirmed": 152883,
           "date": "2021-01-24",
           "deaths": 1607,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 151133,
+          "confirmed": 151840,
           "date": "2021-01-24",
-          "deaths": 1864,
+          "deaths": 1871,
           "recovered": 0
         }
       },
@@ -1647,9 +1647,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 207798,
+          "confirmed": 208648,
           "date": "2021-01-24",
-          "deaths": 920,
+          "deaths": 929,
           "recovered": 0
         }
       },
@@ -1663,9 +1663,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 101352,
+          "confirmed": 101538,
           "date": "2021-01-24",
-          "deaths": 1135,
+          "deaths": 1136,
           "recovered": 0
         }
       }
