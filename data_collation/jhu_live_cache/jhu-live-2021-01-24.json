@@ -833,10 +833,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1367032,
+      "confirmed": 1372977,
       "date": "2021-01-24",
-      "deaths": 57294,
-      "recovered": 1158475
+      "deaths": 57383,
+      "recovered": 1164794
     }
   },
   "Iraq": {
@@ -1093,10 +1093,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 269180,
+      "confirmed": 269450,
       "date": "2021-01-24",
-      "deaths": 1994,
-      "recovered": 263734
+      "deaths": 2001,
+      "recovered": 264137
     }
   },
   "Netherlands": {
