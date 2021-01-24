@@ -739,7 +739,8 @@ var covid19_dataset_country_com = {
       1864,
       1933,
       1935,
-      2160
+      2160,
+      2260
     ],
     "deaths": [
       0,
@@ -1477,7 +1478,8 @@ var covid19_dataset_country_com = {
       1144,
       1210,
       1210,
-      1298
+      1298,
+      1315
     ]
   }
 };
