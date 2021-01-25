@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 260674,
+          "confirmed": 260721,
           "date": "2021-01-25",
-          "deaths": 5838,
-          "recovered": 232749
+          "deaths": 5840,
+          "recovered": 232837
         }
       },
       "Quebec": {
@@ -849,18 +849,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 187554,
+      "confirmed": 188923,
       "date": "2021-01-25",
-      "deaths": 2970,
+      "deaths": 2977,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 601069,
+      "confirmed": 611412,
       "date": "2021-01-25",
-      "deaths": 4437,
-      "recovered": 525543
+      "deaths": 4478,
+      "recovered": 533950
     }
   },
   "Italy": {
@@ -1351,79 +1351,79 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 348842,
+          "confirmed": 368220,
           "date": "2021-01-25",
-          "deaths": 5770,
+          "deaths": 5925,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 91963,
+          "confirmed": 94005,
           "date": "2021-01-25",
-          "deaths": 2824,
+          "deaths": 2858,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 245280,
+          "confirmed": 264742,
           "date": "2021-01-25",
-          "deaths": 4016,
+          "deaths": 4192,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 134196,
+          "confirmed": 139801,
           "date": "2021-01-25",
-          "deaths": 4288,
+          "deaths": 4319,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 167444,
+          "confirmed": 174017,
           "date": "2021-01-25",
-          "deaths": 5440,
+          "deaths": 5473,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 461871,
+          "confirmed": 473259,
           "date": "2021-01-25",
-          "deaths": 9236,
+          "deaths": 9266,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 82542,
+          "confirmed": 86829,
           "date": "2021-01-25",
-          "deaths": 1580,
+          "deaths": 1616,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 483391,
+          "confirmed": 493130,
           "date": "2021-01-25",
-          "deaths": 12266,
+          "deaths": 12372,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 86468,
+          "confirmed": 90786,
           "date": "2021-01-25",
-          "deaths": 883,
+          "deaths": 926,
           "recovered": 2180
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 125361,
+          "confirmed": 128093,
           "date": "2021-01-25",
           "deaths": 3199,
           "recovered": 16160
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2473914,
+          "confirmed": 2544168,
           "date": "2021-01-25",
-          "deaths": 29637,
+          "deaths": 30155,
           "recovered": 0
         }
       },
@@ -1538,14 +1538,6 @@
           "confirmed": 84685,
           "date": "2021-01-25",
           "deaths": 1338,
-          "recovered": 0
-        }
-      },
-      "Maryland": {
-        "live": {
-          "confirmed": 65865,
-          "date": "2021-01-25",
-          "deaths": 1206,
           "recovered": 0
         }
       },
@@ -1623,9 +1615,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 173561,
+          "confirmed": 174606,
           "date": "2021-01-25",
-          "deaths": 4233,
+          "deaths": 4243,
           "recovered": 0
         }
       },
