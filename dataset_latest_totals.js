@@ -3424,10 +3424,10 @@ var covid19_dataset_latest_totals = {
         "tested": 225234238
       },
       "latest": {
-        "confirmed": 24557321,
-        "deaths": 406347,
+        "confirmed": 24558297,
+        "deaths": 406361,
         "recovered": 9897518,
-        "tested": 247297199
+        "tested": 247300813
       },
       "states": {
         "AK": {
@@ -3689,11 +3689,11 @@ var covid19_dataset_latest_totals = {
           "tested": 4346867
         },
         "RI": {
-          "confirmed": 109735,
-          "deaths": 2083,
+          "confirmed": 110711,
+          "deaths": 2097,
           "hospitalized": 7844,
           "recovered": 6626,
-          "tested": 715438
+          "tested": 719052
         },
         "SC": {
           "confirmed": 413789,
