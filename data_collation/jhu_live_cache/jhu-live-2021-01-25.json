@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 119420,
+      "confirmed": 120143,
       "date": "2021-01-25",
-      "deaths": 4555,
-      "recovered": 90691
+      "deaths": 4593,
+      "recovered": 92605
     }
   },
   "Brazil": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 259647,
+          "confirmed": 260221,
           "date": "2021-01-25",
-          "deaths": 5811,
-          "recovered": 231354
+          "deaths": 5837,
+          "recovered": 232117
         }
       },
       "Quebec": {
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 391103,
+          "confirmed": 391173,
           "date": "2021-01-25",
-          "deaths": 9671,
+          "deaths": 9674,
           "recovered": 339898
         }
       },
@@ -1249,10 +1249,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 636190,
+      "confirmed": 643113,
       "date": "2021-01-25",
-      "deaths": 10469,
-      "recovered": 456491
+      "deaths": 10721,
+      "recovered": 461757
     }
   },
   "Qatar": {
@@ -1575,7 +1575,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 81147,
+          "confirmed": 81279,
           "date": "2021-01-25",
           "deaths": 1628,
           "recovered": 0
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1088037,
+          "confirmed": 1088307,
           "date": "2021-01-25",
           "deaths": 13365,
           "recovered": 0
