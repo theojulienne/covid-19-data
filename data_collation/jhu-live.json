@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 199989,
+      "confirmed": 201037,
       "date": "2021-01-25",
-      "deaths": 9927,
-      "recovered": 149895
+      "deaths": 9985,
+      "recovered": 150439
     }
   },
   "Bosnia and Herzegovina": {
@@ -969,7 +969,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 224395,
+      "confirmed": 225875,
       "date": "2021-01-25",
       "deaths": 2955,
       "recovered": 194635
@@ -985,10 +985,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 75084,
+      "confirmed": 75521,
       "date": "2021-01-25",
-      "deaths": 1349,
-      "recovered": 62530
+      "deaths": 1360,
+      "recovered": 62956
     }
   },
   "Kuwait": {
@@ -1045,7 +1045,7 @@
         "live": {
           "confirmed": 445982,
           "date": "2021-01-25",
-          "deaths": 20745,
+          "deaths": 20864,
           "recovered": 0
         }
       },
@@ -1053,7 +1053,7 @@
         "live": {
           "confirmed": 101423,
           "date": "2021-01-25",
-          "deaths": 6655,
+          "deaths": 6678,
           "recovered": 0
         }
       },
@@ -1061,7 +1061,7 @@
         "live": {
           "confirmed": 180558,
           "date": "2021-01-25",
-          "deaths": 22873,
+          "deaths": 22954,
           "recovered": 0
         }
       },
@@ -1069,7 +1069,7 @@
         "live": {
           "confirmed": 100209,
           "date": "2021-01-25",
-          "deaths": 6196,
+          "deaths": 6204,
           "recovered": 0
         }
       }
@@ -1197,10 +1197,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 309851,
+      "confirmed": 311244,
       "date": "2021-01-25",
-      "deaths": 5034,
-      "recovered": 256597
+      "deaths": 5063,
+      "recovered": 259095
     }
   },
   "Paraguay": {
@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2529089,
+          "confirmed": 2538332,
           "date": "2021-01-25",
-          "deaths": 30035,
+          "deaths": 30142,
           "recovered": 0
         }
       },
@@ -1639,7 +1639,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1087530,
+          "confirmed": 1088037,
           "date": "2021-01-25",
           "deaths": 13365,
           "recovered": 0
@@ -1777,9 +1777,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 123245,
+      "confirmed": 123709,
       "date": "2021-01-25",
-      "deaths": 1142,
+      "deaths": 1148,
       "recovered": 115426
     }
   },
