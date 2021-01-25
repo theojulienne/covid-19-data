@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 137574,
+      "confirmed": 137957,
       "date": "2021-01-25",
-      "deaths": 3062,
-      "recovered": 121558
+      "deaths": 3069,
+      "recovered": 122116
     }
   },
   "Canada": {
@@ -977,10 +977,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 99983,
+      "confirmed": 100052,
       "date": "2021-01-25",
       "deaths": 1744,
-      "recovered": 82969
+      "recovered": 83418
     }
   },
   "Korea, South": {
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 161285,
+      "confirmed": 161777,
       "date": "2021-01-25",
-      "deaths": 952,
-      "recovered": 154253
+      "deaths": 954,
+      "recovered": 154766
     }
   },
   "Kyrgyzstan": {
@@ -1111,31 +1111,31 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 108423,
+          "confirmed": 108888,
           "date": "2021-01-25",
-          "deaths": 1590,
+          "deaths": 1593,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 147906,
+          "confirmed": 148567,
           "date": "2021-01-25",
-          "deaths": 2617,
+          "deaths": 2621,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 159964,
+          "confirmed": 160529,
           "date": "2021-01-25",
-          "deaths": 1934,
+          "deaths": 1942,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 67665,
+          "confirmed": 68017,
           "date": "2021-01-25",
           "deaths": 909,
           "recovered": 0
@@ -1143,17 +1143,17 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 77003,
+          "confirmed": 77202,
           "date": "2021-01-25",
-          "deaths": 994,
+          "deaths": 995,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 229477,
+          "confirmed": 230312,
           "date": "2021-01-25",
-          "deaths": 3267,
+          "deaths": 3280,
           "recovered": 0
         }
       }
@@ -1317,17 +1317,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 366371,
+      "confirmed": 366584,
       "date": "2021-01-25",
-      "deaths": 6352,
-      "recovered": 357939
+      "deaths": 6355,
+      "recovered": 358137
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 383603,
+      "confirmed": 385126,
       "date": "2021-01-25",
-      "deaths": 3886,
+      "deaths": 3905,
       "recovered": 0
     }
   },
