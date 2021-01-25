@@ -825,10 +825,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 989262,
+      "confirmed": 999256,
       "date": "2021-01-25",
-      "deaths": 27835,
-      "recovered": 798810
+      "deaths": 28132,
+      "recovered": 809488
     }
   },
   "Iran": {
@@ -1244,7 +1244,7 @@
       "confirmed": 1475445,
       "date": "2021-01-25",
       "deaths": 35363,
-      "recovered": 1230446
+      "recovered": 1237736
     }
   },
   "Portugal": {
