@@ -857,10 +857,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 611412,
+      "confirmed": 613340,
       "date": "2021-01-25",
-      "deaths": 4478,
-      "recovered": 533950
+      "deaths": 4498,
+      "recovered": 534485
     }
   },
   "Italy": {
@@ -1543,9 +1543,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 241422,
+          "confirmed": 242907,
           "date": "2021-01-25",
-          "deaths": 6469,
+          "deaths": 6488,
           "recovered": 0
         }
       },
@@ -1631,17 +1631,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 151840,
+          "confirmed": 152273,
           "date": "2021-01-25",
-          "deaths": 1871,
+          "deaths": 1883,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1088307,
+          "confirmed": 1091303,
           "date": "2021-01-25",
-          "deaths": 13365,
+          "deaths": 13446,
           "recovered": 0
         }
       },
