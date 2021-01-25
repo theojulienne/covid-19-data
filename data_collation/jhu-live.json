@@ -489,10 +489,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 194671,
+      "confirmed": 195296,
       "date": "2021-01-25",
-      "deaths": 1983,
-      "recovered": 180125
+      "deaths": 2010,
+      "recovered": 181081
     }
   },
   "Dominican Republic": {
@@ -571,9 +571,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 65725,
+          "confirmed": 66009,
           "date": "2021-01-25",
-          "deaths": 2114,
+          "deaths": 2125,
           "recovered": 51104
         }
       },
@@ -587,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 136202,
+          "confirmed": 136535,
           "date": "2021-01-25",
-          "deaths": 2976,
+          "deaths": 2986,
           "recovered": 119410
         }
       },
@@ -1469,9 +1469,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 509279,
+      "confirmed": 513599,
       "date": "2021-01-25",
-      "deaths": 9065,
+      "deaths": 9093,
       "recovered": 317600
     }
   },
@@ -1793,10 +1793,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 155414,
+      "confirmed": 155884,
       "date": "2021-01-25",
-      "deaths": 1791,
-      "recovered": 144910
+      "deaths": 1796,
+      "recovered": 145639
     }
   }
 }
