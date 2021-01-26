@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 393778,
-        "deaths": 7082,
-        "recovered": 369218
+        "confirmed": 394939,
+        "deaths": 7122,
+        "recovered": 370865
       },
       "back_2week": {
-        "confirmed": 380722,
-        "deaths": 6723,
-        "recovered": 353749
+        "confirmed": 382258,
+        "deaths": 6747,
+        "recovered": 355530
       },
       "latest": {
-        "confirmed": 404714,
-        "deaths": 7418,
-        "recovered": 381654
+        "confirmed": 405723,
+        "deaths": 7451,
+        "recovered": 383200
       }
     },
     "AZE": {
@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 527632,
-        "deaths": 7906,
-        "recovered": 472437
+        "confirmed": 528329,
+        "deaths": 7922,
+        "recovered": 473173
       },
       "back_2week": {
-        "confirmed": 522453,
-        "deaths": 7781,
-        "recovered": 466801
+        "confirmed": 523302,
+        "deaths": 7803,
+        "recovered": 467718
       },
       "latest": {
-        "confirmed": 531799,
-        "deaths": 8023,
-        "recovered": 476413
+        "confirmed": 532401,
+        "deaths": 8041,
+        "recovered": 476979
       }
     },
     "BGR": {
@@ -2472,19 +2472,19 @@ var covid19_dataset_latest_totals = {
     },
     "MYS": {
       "back_1week": {
-        "confirmed": 158434,
-        "deaths": 601,
-        "recovered": 120051
+        "confirmed": 161740,
+        "deaths": 605,
+        "recovered": 122344
       },
       "back_2week": {
-        "confirmed": 135992,
-        "deaths": 551,
-        "recovered": 108109
+        "confirmed": 138224,
+        "deaths": 555,
+        "recovered": 109115
       },
       "latest": {
-        "confirmed": 183801,
-        "deaths": 678,
-        "recovered": 141446
+        "confirmed": 186849,
+        "deaths": 689,
+        "recovered": 145084
       }
     },
     "NAM": {
@@ -2749,19 +2749,19 @@ var covid19_dataset_latest_totals = {
     },
     "POL": {
       "back_1week": {
-        "confirmed": 1435582,
-        "deaths": 33355,
-        "recovered": 1181326
+        "confirmed": 1438914,
+        "deaths": 33407,
+        "recovered": 1187719
       },
       "back_2week": {
-        "confirmed": 1385522,
-        "deaths": 31189,
-        "recovered": 1123318
+        "confirmed": 1390385,
+        "deaths": 31264,
+        "recovered": 1130460
       },
       "latest": {
-        "confirmed": 1475445,
-        "deaths": 35363,
-        "recovered": 1230446
+        "confirmed": 1478119,
+        "deaths": 35401,
+        "recovered": 1237736
       }
     },
     "PRT": {
@@ -3089,36 +3089,36 @@ var covid19_dataset_latest_totals = {
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 223325,
-        "deaths": 3474,
-        "recovered": 168915
+        "confirmed": 224385,
+        "deaths": 3526,
+        "recovered": 171092
       },
       "back_2week": {
-        "confirmed": 208209,
-        "deaths": 2918,
-        "recovered": 147275
+        "confirmed": 209069,
+        "deaths": 3007,
+        "recovered": 150239
       },
       "latest": {
-        "confirmed": 236476,
+        "confirmed": 237027,
         "deaths": 4068,
-        "recovered": 189959
+        "recovered": 193380
       }
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 149125,
-        "deaths": 3180,
-        "recovered": 122008
+        "confirmed": 149424,
+        "deaths": 3206,
+        "recovered": 122745
       },
       "back_2week": {
-        "confirmed": 139281,
-        "deaths": 2998,
-        "recovered": 111864
+        "confirmed": 139713,
+        "deaths": 3022,
+        "recovered": 112371
       },
       "latest": {
-        "confirmed": 157830,
-        "deaths": 3360,
-        "recovered": 135993
+        "confirmed": 158131,
+        "deaths": 3379,
+        "recovered": 136402
       }
     },
     "SWE": {
