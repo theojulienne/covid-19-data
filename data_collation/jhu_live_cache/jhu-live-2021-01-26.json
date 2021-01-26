@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 338398,
+          "confirmed": 339021,
           "date": "2021-01-26",
-          "deaths": 11225,
-          "recovered": 321628
+          "deaths": 11244,
+          "recovered": 322409
         }
       }
     }
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 391863,
+          "confirmed": 391974,
           "date": "2021-01-26",
-          "deaths": 9778,
+          "deaths": 9842,
           "recovered": 343152
         }
       },
@@ -841,10 +841,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 614576,
+      "confirmed": 615380,
       "date": "2021-01-26",
-      "deaths": 13000,
-      "recovered": 583127
+      "deaths": 13010,
+      "recovered": 584752
     }
   },
   "Ireland": {
@@ -977,10 +977,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 100052,
+      "confirmed": 100193,
       "date": "2021-01-26",
-      "deaths": 1744,
-      "recovered": 83418
+      "deaths": 1750,
+      "recovered": 83625
     }
   },
   "Korea, South": {
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 161777,
+      "confirmed": 162282,
       "date": "2021-01-26",
-      "deaths": 954,
-      "recovered": 154766
+      "deaths": 957,
+      "recovered": 155303
     }
   },
   "Kyrgyzstan": {
@@ -1317,9 +1317,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 385126,
+      "confirmed": 387206,
       "date": "2021-01-26",
-      "deaths": 3905,
+      "deaths": 3924,
       "recovered": 0
     }
   },
@@ -1435,25 +1435,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 92857,
+          "confirmed": 94971,
           "date": "2021-01-26",
-          "deaths": 1144,
+          "deaths": 1220,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 133990,
+          "confirmed": 135257,
           "date": "2021-01-26",
-          "deaths": 3591,
+          "deaths": 3647,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 92897,
+          "confirmed": 94802,
           "date": "2021-01-26",
-          "deaths": 1721,
+          "deaths": 1756,
           "recovered": 0
         }
       }
