@@ -1495,9 +1495,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2550764,
+          "confirmed": 2552681,
           "date": "2021-01-26",
-          "deaths": 30303,
+          "deaths": 30333,
           "recovered": 0
         }
       },
@@ -1639,7 +1639,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1095682,
+          "confirmed": 1097380,
           "date": "2021-01-26",
           "deaths": 13491,
           "recovered": 0
