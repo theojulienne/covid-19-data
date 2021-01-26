@@ -1309,17 +1309,17 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 2903975,
+        "confirmed": 2907711,
         "deaths": 70309,
         "recovered": 185848
       },
       "back_2week": {
-        "confirmed": 2777921,
+        "confirmed": 2781503,
         "deaths": 67690,
         "recovered": 178943
       },
       "latest": {
-        "confirmed": 3044358,
+        "confirmed": 3048598,
         "deaths": 73113,
         "recovered": 193148
       },
