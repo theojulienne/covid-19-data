@@ -817,10 +817,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 999256,
+      "confirmed": 1012350,
       "date": "2021-01-26",
-      "deaths": 28132,
-      "recovered": 809488
+      "deaths": 28468,
+      "recovered": 820356
     }
   },
   "Iran": {
@@ -1169,10 +1169,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 133253,
+      "confirmed": 133407,
       "date": "2021-01-26",
-      "deaths": 1522,
-      "recovered": 126334
+      "deaths": 1524,
+      "recovered": 126409
     }
   },
   "Pakistan": {
