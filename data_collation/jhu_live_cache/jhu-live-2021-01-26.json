@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 229054,
+      "confirmed": 229502,
       "date": "2021-01-26",
-      "deaths": 4859,
-      "recovered": 221676
+      "deaths": 4882,
+      "recovered": 222110
     }
   },
   "Czechia": {
@@ -569,6 +569,14 @@
           "recovered": 102879
         }
       },
+      "Brandenburg": {
+        "live": {
+          "confirmed": 66361,
+          "date": "2021-01-26",
+          "deaths": 2183,
+          "recovered": 52061
+        }
+      },
       "Hessen": {
         "live": {
           "confirmed": 166452,
@@ -579,9 +587,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 136795,
+          "confirmed": 137021,
           "date": "2021-01-26",
-          "deaths": 3031,
+          "deaths": 3044,
           "recovered": 120781
         }
       },
@@ -945,7 +953,7 @@
         "live": {
           "confirmed": 95602,
           "date": "2021-01-26",
-          "deaths": 793,
+          "deaths": 806,
           "recovered": 76397
         }
       }
@@ -1046,14 +1054,6 @@
           "confirmed": 102976,
           "date": "2021-01-26",
           "deaths": 6723,
-          "recovered": 0
-        }
-      },
-      "Jalisco": {
-        "live": {
-          "confirmed": 66323,
-          "date": "2021-01-26",
-          "deaths": 7957,
           "recovered": 0
         }
       },
