@@ -52,7 +52,7 @@
       "confirmed": 100230,
       "date": "2021-01-26",
       "deaths": 369,
-      "recovered": 96761
+      "recovered": 97006
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 114836,
           "date": "2021-01-26",
           "deaths": 2692,
-          "recovered": 109577
+          "recovered": 110050
         }
       },
       "Amapa": {
@@ -162,7 +162,7 @@
           "confirmed": 566743,
           "date": "2021-01-26",
           "deaths": 9886,
-          "recovered": 543991
+          "recovered": 549704
         }
       },
       "Ceara": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 262548,
+          "confirmed": 263358,
           "date": "2021-01-26",
-          "deaths": 5913,
-          "recovered": 235623
+          "deaths": 5921,
+          "recovered": 236498
         }
       },
       "Quebec": {
@@ -632,7 +632,7 @@
       "confirmed": 154430,
       "date": "2021-01-26",
       "deaths": 5469,
-      "recovered": 139113
+      "recovered": 140308
     }
   },
   "Honduras": {
@@ -857,10 +857,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 613286,
+      "confirmed": 613578,
       "date": "2021-01-26",
-      "deaths": 4501,
-      "recovered": 534232
+      "deaths": 4512,
+      "recovered": 534444
     }
   },
   "Italy": {
@@ -1215,9 +1215,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 487906,
+          "confirmed": 492944,
           "date": "2021-01-26",
-          "deaths": 17439,
+          "deaths": 17573,
           "recovered": 0
         }
       }
@@ -1463,15 +1463,15 @@
     "live": {
       "confirmed": 515483,
       "date": "2021-01-26",
-      "deaths": 9187,
+      "deaths": 9204,
       "recovered": 317600
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 198636,
+      "confirmed": 200662,
       "date": "2021-01-26",
-      "deaths": 6287,
+      "deaths": 6370,
       "recovered": 148995
     }
   },
@@ -1495,17 +1495,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2577282,
+          "confirmed": 2578749,
           "date": "2021-01-26",
-          "deaths": 30497,
+          "deaths": 30561,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 70347,
+          "confirmed": 70766,
           "date": "2021-01-26",
-          "deaths": 1899,
+          "deaths": 1906,
           "recovered": 0
         }
       },
@@ -1583,9 +1583,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 880914,
+          "confirmed": 883627,
           "date": "2021-01-26",
-          "deaths": 32317,
+          "deaths": 32349,
           "recovered": 0
         }
       },
@@ -1639,17 +1639,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1101652,
+          "confirmed": 1103971,
           "date": "2021-01-26",
-          "deaths": 13520,
+          "deaths": 13622,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 209148,
+          "confirmed": 209946,
           "date": "2021-01-26",
-          "deaths": 931,
+          "deaths": 938,
           "recovered": 0
         }
       },
