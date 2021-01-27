@@ -1707,19 +1707,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 352703,
-        "deaths": 11409,
-        "recovered": 230441
+        "confirmed": 353276,
+        "deaths": 11520,
+        "recovered": 231915
       },
       "back_2week": {
-        "confirmed": 343656,
-        "deaths": 10725,
-        "recovered": 203972
+        "confirmed": 344352,
+        "deaths": 10853,
+        "recovered": 209852
       },
       "latest": {
-        "confirmed": 360418,
-        "deaths": 12024,
-        "recovered": 243092
+        "confirmed": 360877,
+        "deaths": 12113,
+        "recovered": 244681
       }
     },
     "IDN": {
@@ -2149,19 +2149,19 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 167992,
-        "deaths": 2469,
+        "confirmed": 168708,
+        "deaths": 2494,
         "recovered": 104297
       },
       "back_2week": {
-        "confirmed": 160446,
-        "deaths": 2232,
-        "recovered": 92608
+        "confirmed": 161348,
+        "deaths": 2272,
+        "recovered": 95627
       },
       "latest": {
-        "confirmed": 177166,
-        "deaths": 2664,
-        "recovered": 119254
+        "confirmed": 177934,
+        "deaths": 2688,
+        "recovered": 121907
       }
     },
     "LUX": {
@@ -2715,19 +2715,19 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 502736,
-        "deaths": 9909,
-        "recovered": 465988
+        "confirmed": 504084,
+        "deaths": 9978,
+        "recovered": 466249
       },
       "back_2week": {
-        "confirmed": 489736,
-        "deaths": 9416,
-        "recovered": 458206
+        "confirmed": 491258,
+        "deaths": 9554,
+        "recovered": 458172
       },
       "latest": {
-        "confirmed": 514996,
-        "deaths": 10292,
-        "recovered": 475422
+        "confirmed": 516166,
+        "deaths": 10386,
+        "recovered": 475423
       }
     },
     "PNG": {
