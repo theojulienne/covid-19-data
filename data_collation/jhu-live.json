@@ -557,7 +557,7 @@
         "live": {
           "confirmed": 393731,
           "date": "2021-01-27",
-          "deaths": 9943,
+          "deaths": 9947,
           "recovered": 347096
         }
       },
@@ -825,10 +825,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1385706,
+      "confirmed": 1392314,
       "date": "2021-01-27",
-      "deaths": 57560,
-      "recovered": 1177367
+      "deaths": 57651,
+      "recovered": 1183463
     }
   },
   "Iraq": {
@@ -945,7 +945,7 @@
         "live": {
           "confirmed": 96575,
           "date": "2021-01-27",
-          "deaths": 806,
+          "deaths": 824,
           "recovered": 78028
         }
       }
@@ -1025,10 +1025,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 190434,
+      "confirmed": 194114,
       "date": "2021-01-27",
-      "deaths": 700,
-      "recovered": 149160
+      "deaths": 707,
+      "recovered": 151018
     }
   },
   "Mexico": {
@@ -1785,10 +1785,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 156393,
+      "confirmed": 156996,
       "date": "2021-01-27",
-      "deaths": 1803,
-      "recovered": 146279
+      "deaths": 1808,
+      "recovered": 146934
     }
   }
 }
