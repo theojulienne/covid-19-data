@@ -170,7 +170,7 @@
           "confirmed": 365640,
           "date": "2021-01-27",
           "deaths": 10363,
-          "recovered": 282884
+          "recovered": 283539
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 288268,
           "date": "2021-01-27",
           "deaths": 5746,
-          "recovered": 267922
+          "recovered": 269532
         }
       },
       "Goias": {
@@ -382,7 +382,7 @@
           "confirmed": 256002,
           "date": "2021-01-27",
           "deaths": 9142,
-          "recovered": 228887
+          "recovered": 230803
         }
       }
     }
@@ -1197,10 +1197,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 312158,
+      "confirmed": 313834,
       "date": "2021-01-27",
-      "deaths": 5098,
-      "recovered": 261291
+      "deaths": 5137,
+      "recovered": 263495
     }
   },
   "Paraguay": {
@@ -1639,7 +1639,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1107131,
+          "confirmed": 1107952,
           "date": "2021-01-27",
           "deaths": 13622,
           "recovered": 0
