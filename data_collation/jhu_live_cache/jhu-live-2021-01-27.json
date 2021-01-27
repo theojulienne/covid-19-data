@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 100689,
+      "confirmed": 101116,
       "date": "2021-01-27",
-      "deaths": 370,
-      "recovered": 97006
+      "deaths": 371,
+      "recovered": 97337
     }
   },
   "Bangladesh": {
@@ -250,7 +250,7 @@
           "confirmed": 532689,
           "date": "2021-01-27",
           "deaths": 9584,
-          "recovered": 388812
+          "recovered": 392463
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 532944,
           "date": "2021-01-27",
           "deaths": 10443,
-          "recovered": 510543
+          "recovered": 512240
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 505596,
           "date": "2021-01-27",
           "deaths": 29043,
-          "recovered": 471277
+          "recovered": 474601
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 264452,
+          "confirmed": 264913,
           "date": "2021-01-27",
-          "deaths": 5961,
-          "recovered": 238274
+          "deaths": 5972,
+          "recovered": 239021
         }
       },
       "Quebec": {
@@ -857,10 +857,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 620698,
+      "confirmed": 621590,
       "date": "2021-01-27",
-      "deaths": 4574,
-      "recovered": 541109
+      "deaths": 4605,
+      "recovered": 542115
     }
   },
   "Italy": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2591566,
+          "confirmed": 2593477,
           "date": "2021-01-27",
-          "deaths": 31118,
+          "deaths": 31189,
           "recovered": 0
         }
       },
@@ -1527,9 +1527,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 155486,
+          "confirmed": 156531,
           "date": "2021-01-27",
-          "deaths": 1638,
+          "deaths": 1651,
           "recovered": 0
         }
       },
@@ -1725,10 +1725,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 285147,
+      "confirmed": 289086,
       "date": "2021-01-27",
-      "deaths": 805,
-      "recovered": 259194
+      "deaths": 811,
+      "recovered": 263730
     }
   },
   "United Kingdom": {
