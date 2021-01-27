@@ -745,7 +745,8 @@ var covid19_dataset_country_eri = {
       1940,
       1940,
       1940,
-      1950
+      1950,
+      1970
     ],
     "deaths": [
       0,
@@ -1117,6 +1118,7 @@ var covid19_dataset_country_eri = {
       6,
       6,
       6,
+      7,
       7
     ],
     "recovered": [
@@ -1489,7 +1491,8 @@ var covid19_dataset_country_eri = {
       1304,
       1304,
       1304,
-      1378
+      1378,
+      1530
     ]
   }
 };
