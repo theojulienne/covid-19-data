@@ -415,50 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 319066,
+          "confirmed": 320219,
           "date": "2021-01-27",
-          "deaths": 5703,
-          "recovered": 294897
+          "deaths": 5744,
+          "recovered": 295042
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 111348,
+          "confirmed": 112030,
           "date": "2021-01-27",
-          "deaths": 3765,
-          "recovered": 102876
+          "deaths": 3776,
+          "recovered": 104178
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 595731,
+          "confirmed": 598993,
           "date": "2021-01-27",
-          "deaths": 12095,
-          "recovered": 536064
+          "deaths": 12183,
+          "recovered": 538767
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 90097,
+          "confirmed": 91320,
           "date": "2021-01-27",
-          "deaths": 2279,
-          "recovered": 82665
+          "deaths": 2316,
+          "recovered": 83389
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 81176,
+          "confirmed": 81715,
           "date": "2021-01-27",
-          "deaths": 2816,
-          "recovered": 73887
+          "deaths": 2832,
+          "recovered": 74827
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 165238,
+          "confirmed": 167161,
           "date": "2021-01-27",
-          "deaths": 5183,
-          "recovered": 150194
+          "deaths": 5247,
+          "recovered": 150710
         }
       }
     }
@@ -1769,10 +1769,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78471,
+      "confirmed": 78510,
       "date": "2021-01-27",
       "deaths": 621,
-      "recovered": 76912
+      "recovered": 76997
     }
   },
   "Venezuela": {
