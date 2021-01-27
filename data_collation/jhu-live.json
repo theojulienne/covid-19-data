@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 339021,
+          "confirmed": 339671,
           "date": "2021-01-27",
-          "deaths": 11244,
-          "recovered": 322409
+          "deaths": 11260,
+          "recovered": 323228
         }
       }
     }
@@ -555,9 +555,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 393731,
+          "confirmed": 394180,
           "date": "2021-01-27",
-          "deaths": 9947,
+          "deaths": 9963,
           "recovered": 347096
         }
       },
@@ -606,7 +606,7 @@
           "confirmed": 90431,
           "date": "2021-01-27",
           "deaths": 2380,
-          "recovered": 75288
+          "recovered": 75355
         }
       },
       "Sachsen": {
@@ -614,7 +614,7 @@
           "confirmed": 176039,
           "date": "2021-01-27",
           "deaths": 5920,
-          "recovered": 153900
+          "recovered": 156100
         }
       }
     }
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 162282,
+      "confirmed": 162862,
       "date": "2021-01-27",
       "deaths": 957,
-      "recovered": 155303
+      "recovered": 155739
     }
   },
   "Kyrgyzstan": {
@@ -1317,17 +1317,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 366807,
+      "confirmed": 367023,
       "date": "2021-01-27",
-      "deaths": 6359,
-      "recovered": 358340
+      "deaths": 6363,
+      "recovered": 358545
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 387206,
+      "confirmed": 389045,
       "date": "2021-01-27",
-      "deaths": 3924,
+      "deaths": 3944,
       "recovered": 0
     }
   },
