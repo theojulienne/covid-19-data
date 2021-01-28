@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 229584,
+      "confirmed": 229793,
       "date": "2021-01-28",
-      "deaths": 3105,
-      "recovered": 221717
+      "deaths": 3113,
+      "recovered": 222154
     }
   },
   "Bahrain": {
@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 138802,
+      "confirmed": 139152,
       "date": "2021-01-28",
-      "deaths": 3089,
-      "recovered": 123170
+      "deaths": 3103,
+      "recovered": 123556
     }
   },
   "Canada": {
@@ -977,10 +977,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 100323,
+      "confirmed": 100422,
       "date": "2021-01-28",
-      "deaths": 1751,
-      "recovered": 83691
+      "deaths": 1753,
+      "recovered": 83757
     }
   },
   "Korea, South": {
@@ -1325,9 +1325,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 389045,
+      "confirmed": 390637,
       "date": "2021-01-28",
-      "deaths": 3944,
+      "deaths": 3965,
       "recovered": 0
     }
   },
