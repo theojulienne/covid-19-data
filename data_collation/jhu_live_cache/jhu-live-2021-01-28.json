@@ -550,7 +550,7 @@
           "confirmed": 288791,
           "date": "2021-01-28",
           "deaths": 6864,
-          "recovered": 281927
+          "recovered": 256340
         }
       },
       "Bayern": {
@@ -574,7 +574,7 @@
           "confirmed": 67036,
           "date": "2021-01-28",
           "deaths": 2248,
-          "recovered": 64788
+          "recovered": 53872
         }
       },
       "Hessen": {
@@ -582,7 +582,7 @@
           "confirmed": 167595,
           "date": "2021-01-28",
           "deaths": 4577,
-          "recovered": 163018
+          "recovered": 145886
         }
       },
       "Niedersachsen": {
@@ -590,7 +590,7 @@
           "confirmed": 138191,
           "date": "2021-01-28",
           "deaths": 3125,
-          "recovered": 122090
+          "recovered": 123233
         }
       },
       "Nordrhein-Westfalen": {
@@ -598,7 +598,7 @@
           "confirmed": 475013,
           "date": "2021-01-28",
           "deaths": 10301,
-          "recovered": 417935
+          "recovered": 421130
         }
       },
       "Rheinland-Pfalz": {
@@ -606,7 +606,7 @@
           "confirmed": 91077,
           "date": "2021-01-28",
           "deaths": 2417,
-          "recovered": 88660
+          "recovered": 75355
         }
       },
       "Sachsen": {
@@ -614,7 +614,7 @@
           "confirmed": 177144,
           "date": "2021-01-28",
           "deaths": 5993,
-          "recovered": 171151
+          "recovered": 156100
         }
       }
     }
@@ -645,10 +645,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 361881,
+      "confirmed": 363450,
       "date": "2021-01-28",
-      "deaths": 12198,
-      "recovered": 246596
+      "deaths": 12291,
+      "recovered": 249003
     }
   },
   "India": {
@@ -1025,10 +1025,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 179212,
+      "confirmed": 180170,
       "date": "2021-01-28",
-      "deaths": 2716,
-      "recovered": 123562
+      "deaths": 2743,
+      "recovered": 125067
     }
   },
   "Malaysia": {
@@ -1233,10 +1233,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 518407,
+      "confirmed": 519575,
       "date": "2021-01-28",
-      "deaths": 10481,
-      "recovered": 475542
+      "deaths": 10552,
+      "recovered": 475596
     }
   },
   "Poland": {
@@ -1275,42 +1275,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 919662,
+          "confirmed": 922559,
           "date": "2021-01-28",
-          "deaths": 13175,
-          "recovered": 791320
+          "deaths": 13237,
+          "recovered": 797462
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 188608,
+          "confirmed": 189547,
           "date": "2021-01-28",
-          "deaths": 3619,
-          "recovered": 148881
+          "deaths": 3657,
+          "recovered": 149984
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 82560,
+          "confirmed": 83029,
           "date": "2021-01-28",
-          "deaths": 2062,
-          "recovered": 74655
+          "deaths": 2077,
+          "recovered": 75132
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 325032,
+          "confirmed": 327160,
           "date": "2021-01-28",
-          "deaths": 9502,
-          "recovered": 217888
+          "deaths": 9571,
+          "recovered": 222012
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 69030,
+          "confirmed": 69399,
           "date": "2021-01-28",
-          "deaths": 1973,
-          "recovered": 61564
+          "deaths": 1989,
+          "recovered": 61948
         }
       }
     }
