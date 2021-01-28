@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 106097,
+      "confirmed": 106359,
       "date": "2021-01-27",
-      "deaths": 2871,
-      "recovered": 72336
+      "deaths": 2877,
+      "recovered": 72538
     }
   },
   "Argentina": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 216416,
+      "confirmed": 217014,
       "date": "2021-01-27",
-      "deaths": 8916,
-      "recovered": 180995
+      "deaths": 8944,
+      "recovered": 181622
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 121901,
+          "confirmed": 122360,
           "date": "2021-01-27",
-          "deaths": 1587,
-          "recovered": 111662
+          "deaths": 1599,
+          "recovered": 112558
         }
       },
       "Ontario": {
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 163129,
+      "confirmed": 163761,
       "date": "2021-01-27",
-      "deaths": 9067,
-      "recovered": 127433
+      "deaths": 9115,
+      "recovered": 127963
     }
   },
   "Ethiopia": {
@@ -629,10 +629,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 155459,
+      "confirmed": 156497,
       "date": "2021-01-27",
-      "deaths": 5486,
-      "recovered": 140308
+      "deaths": 5513,
+      "recovered": 141481
     }
   },
   "Honduras": {
@@ -1161,10 +1161,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 124299,
+      "confirmed": 126160,
       "date": "2021-01-27",
-      "deaths": 1522,
-      "recovered": 99276
+      "deaths": 1543,
+      "recovered": 100365
     }
   },
   "North Macedonia": {
@@ -1213,10 +1213,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 129394,
+      "confirmed": 130163,
       "date": "2021-01-27",
-      "deaths": 2651,
-      "recovered": 104570
+      "deaths": 2668,
+      "recovered": 105353
     }
   },
   "Peru": {
@@ -1639,17 +1639,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 152610,
+          "confirmed": 153547,
           "date": "2021-01-27",
-          "deaths": 1927,
+          "deaths": 1942,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1111969,
+          "confirmed": 1114650,
           "date": "2021-01-27",
-          "deaths": 13634,
+          "deaths": 13776,
           "recovered": 0
         }
       },

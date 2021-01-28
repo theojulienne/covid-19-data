@@ -11232,7 +11232,7 @@ var covid19_dataset_top10 = {
           9897518,
           9938582,
           10055461,
-          10129218
+          10129322
         ],
         "tested": [
           2,
@@ -11605,7 +11605,7 @@ var covid19_dataset_top10 = {
           247300813,
           248657179,
           250100302,
-          251525216
+          251534223
         ]
       }
     }
@@ -11983,7 +11983,8 @@ var covid19_dataset_top10 = {
     "2021-01-25",
     "2021-01-26",
     "2021-01-27",
-    "2021-01-28"
+    "2021-01-28",
+    "2021-01-29"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
