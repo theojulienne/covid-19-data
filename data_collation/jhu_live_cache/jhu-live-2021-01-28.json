@@ -573,7 +573,7 @@
         "live": {
           "confirmed": 67036,
           "date": "2021-01-28",
-          "deaths": 2248,
+          "deaths": 2283,
           "recovered": 53872
         }
       },
@@ -589,7 +589,7 @@
         "live": {
           "confirmed": 139029,
           "date": "2021-01-28",
-          "deaths": 3154,
+          "deaths": 3171,
           "recovered": 123233
         }
       },
@@ -841,10 +841,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 616259,
+      "confirmed": 617202,
       "date": "2021-01-28",
-      "deaths": 13018,
-      "recovered": 586327
+      "deaths": 13024,
+      "recovered": 588260
     }
   },
   "Ireland": {
@@ -993,10 +993,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 162862,
+      "confirmed": 163450,
       "date": "2021-01-28",
-      "deaths": 957,
-      "recovered": 155739
+      "deaths": 958,
+      "recovered": 156387
     }
   },
   "Kyrgyzstan": {
@@ -1265,10 +1265,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 718612,
+      "confirmed": 721513,
       "date": "2021-01-28",
-      "deaths": 18015,
-      "recovered": 662400
+      "deaths": 18105,
+      "recovered": 666001
     }
   },
   "Russia": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 2603417,
           "date": "2021-01-28",
-          "deaths": 31608,
+          "deaths": 31572,
           "recovered": 0
         }
       },
