@@ -3415,19 +3415,19 @@
         "confirmed": 23825661,
         "deaths": 390571,
         "recovered": 9528262,
-        "tested": 141749316
+        "tested": 133280964
       },
       "back_2week": {
         "confirmed": 22444282,
         "deaths": 369654,
         "recovered": 8926595,
-        "tested": 135797727
+        "tested": 127670744
       },
       "latest": {
         "confirmed": 24976767,
         "deaths": 413619,
         "recovered": 10129322,
-        "tested": 147086927
+        "tested": 138261593
       },
       "states": {
         "AK": {
@@ -3734,7 +3734,7 @@
           "deaths": 6174,
           "hospitalized": 20860,
           "recovered": 37527,
-          "tested": 5173658
+          "tested": 483606
         },
         "VT": {
           "confirmed": 11285,
@@ -3747,7 +3747,7 @@
           "confirmed": 302141,
           "deaths": 4148,
           "hospitalized": 17259,
-          "tested": 4437423
+          "tested": 302141
         },
         "WI": {
           "confirmed": 584041,
