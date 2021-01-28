@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 533444,
+      "confirmed": 533953,
       "date": "2021-01-28",
-      "deaths": 8072,
-      "recovered": 477935
+      "deaths": 8087,
+      "recovered": 478546
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 241133,
+      "confirmed": 242851,
       "date": "2021-01-28",
-      "deaths": 1678,
-      "recovered": 227068
+      "deaths": 1688,
+      "recovered": 229199
     }
   },
   "Belgium": {
@@ -473,10 +473,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 230359,
+      "confirmed": 230978,
       "date": "2021-01-28",
-      "deaths": 4913,
-      "recovered": 222396
+      "deaths": 4943,
+      "recovered": 222862
     }
   },
   "Czechia": {
@@ -547,18 +547,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 288791,
+          "confirmed": 288818,
           "date": "2021-01-28",
-          "deaths": 6864,
+          "deaths": 6871,
           "recovered": 256340
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 394180,
+          "confirmed": 396600,
           "date": "2021-01-28",
-          "deaths": 9963,
-          "recovered": 386484
+          "deaths": 10116,
+          "recovered": 350201
         }
       },
       "Berlin": {
@@ -566,7 +566,7 @@
           "confirmed": 118447,
           "date": "2021-01-28",
           "deaths": 2164,
-          "recovered": 116283
+          "recovered": 104318
         }
       },
       "Brandenburg": {
@@ -579,41 +579,41 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 167595,
+          "confirmed": 168871,
           "date": "2021-01-28",
-          "deaths": 4577,
+          "deaths": 4676,
           "recovered": 145886
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 138191,
+          "confirmed": 139029,
           "date": "2021-01-28",
-          "deaths": 3125,
+          "deaths": 3154,
           "recovered": 123233
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 475013,
+          "confirmed": 478263,
           "date": "2021-01-28",
-          "deaths": 10301,
+          "deaths": 10457,
           "recovered": 421130
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 91077,
+          "confirmed": 91099,
           "date": "2021-01-28",
           "deaths": 2417,
-          "recovered": 75355
+          "recovered": 76401
         }
       },
       "Sachsen": {
         "live": {
           "confirmed": 177144,
           "date": "2021-01-28",
-          "deaths": 5993,
+          "deaths": 6002,
           "recovered": 156100
         }
       }
@@ -825,10 +825,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1024298,
+      "confirmed": 1037993,
       "date": "2021-01-28",
-      "deaths": 28855,
-      "recovered": 831330
+      "deaths": 29331,
+      "recovered": 842122
     }
   },
   "Iran": {
@@ -1033,10 +1033,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 194114,
+      "confirmed": 198208,
       "date": "2021-01-28",
-      "deaths": 707,
-      "recovered": 151018
+      "deaths": 717,
+      "recovered": 154299
     }
   },
   "Mexico": {
@@ -1241,9 +1241,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1489512,
+      "confirmed": 1496665,
       "date": "2021-01-28",
-      "deaths": 36054,
+      "deaths": 36443,
       "recovered": 1250892
     }
   },
@@ -1333,18 +1333,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 241392,
+      "confirmed": 243427,
       "date": "2021-01-28",
-      "deaths": 4361,
-      "recovered": 202148
+      "deaths": 4411,
+      "recovered": 205247
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 161662,
+      "confirmed": 163200,
       "date": "2021-01-28",
-      "deaths": 3425,
-      "recovered": 140353
+      "deaths": 3448,
+      "recovered": 142134
     }
   },
   "South Africa": {
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 2603417,
           "date": "2021-01-28",
-          "deaths": 31572,
+          "deaths": 31608,
           "recovered": 0
         }
       },
@@ -1725,10 +1725,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 289086,
+      "confirmed": 293052,
       "date": "2021-01-28",
-      "deaths": 811,
-      "recovered": 263730
+      "deaths": 819,
+      "recovered": 267024
     }
   },
   "United Kingdom": {
