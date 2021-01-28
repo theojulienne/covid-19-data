@@ -3293,19 +3293,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 184483,
-        "deaths": 5844,
-        "recovered": 132983
+        "confirmed": 188373,
+        "deaths": 5921,
+        "recovered": 135543
       },
       "back_2week": {
-        "confirmed": 164936,
-        "deaths": 5343,
-        "recovered": 120999
+        "confirmed": 168568,
+        "deaths": 5415,
+        "recovered": 122775
       },
       "latest": {
-        "confirmed": 200662,
-        "deaths": 6370,
-        "recovered": 148995
+        "confirmed": 202323,
+        "deaths": 6446,
+        "recovered": 151214
       }
     },
     "TUR": {
@@ -3910,19 +3910,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1356716,
-        "deaths": 38288,
-        "recovered": 1144857
+        "confirmed": 1369426,
+        "deaths": 38854,
+        "recovered": 1160412
       },
       "back_2week": {
-        "confirmed": 1259748,
-        "deaths": 34334,
-        "recovered": 1019123
+        "confirmed": 1278303,
+        "deaths": 35140,
+        "recovered": 1030930
       },
       "latest": {
-        "confirmed": 1423578,
-        "deaths": 41797,
-        "recovered": 1254674
+        "confirmed": 1430648,
+        "deaths": 42550,
+        "recovered": 1263476
       }
     },
     "ZMB": {

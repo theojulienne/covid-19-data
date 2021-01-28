@@ -162,7 +162,7 @@
           "confirmed": 574062,
           "date": "2021-01-28",
           "deaths": 9952,
-          "recovered": 553011
+          "recovered": 556354
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 342816,
           "date": "2021-01-28",
           "deaths": 7318,
-          "recovered": 332544
+          "recovered": 333986
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 707649,
           "date": "2021-01-28",
           "deaths": 14544,
-          "recovered": 629887
+          "recovered": 638744
         }
       },
       "Para": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 266219,
+          "confirmed": 266281,
           "date": "2021-01-28",
           "deaths": 6004,
-          "recovered": 240507
+          "recovered": 240567
         }
       },
       "Quebec": {
@@ -1349,10 +1349,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1430648,
+      "confirmed": 1437798,
       "date": "2021-01-28",
-      "deaths": 42550,
-      "recovered": 1263476
+      "deaths": 43105,
+      "recovered": 1272197
     }
   },
   "Spain": {
@@ -1477,10 +1477,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 202323,
+      "confirmed": 204351,
       "date": "2021-01-28",
-      "deaths": 6446,
-      "recovered": 151214
+      "deaths": 6508,
+      "recovered": 152436
     }
   },
   "Turkey": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2604483,
+          "confirmed": 2606014,
           "date": "2021-01-28",
-          "deaths": 31705,
+          "deaths": 31789,
           "recovered": 0
         }
       },
@@ -1671,9 +1671,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 102268,
+          "confirmed": 102528,
           "date": "2021-01-28",
-          "deaths": 1151,
+          "deaths": 1154,
           "recovered": 0
         }
       }
