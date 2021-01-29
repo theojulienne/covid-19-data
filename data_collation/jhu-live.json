@@ -382,7 +382,7 @@
           "confirmed": 258698,
           "date": "2021-01-29",
           "deaths": 9667,
-          "recovered": 232221
+          "recovered": 233768
         }
       }
     }
@@ -415,50 +415,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 321321,
+          "confirmed": 322518,
           "date": "2021-01-29",
-          "deaths": 5786,
-          "recovered": 296918
+          "deaths": 5828,
+          "recovered": 298606
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 112868,
+          "confirmed": 113502,
           "date": "2021-01-29",
-          "deaths": 3783,
-          "recovered": 104739
+          "deaths": 3794,
+          "recovered": 105713
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 602584,
+          "confirmed": 605731,
           "date": "2021-01-29",
-          "deaths": 12287,
-          "recovered": 543945
+          "deaths": 12380,
+          "recovered": 546658
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 92446,
+          "confirmed": 93225,
           "date": "2021-01-29",
-          "deaths": 2345,
-          "recovered": 84441
+          "deaths": 2369,
+          "recovered": 86140
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 82164,
+          "confirmed": 82648,
           "date": "2021-01-29",
-          "deaths": 2850,
-          "recovered": 75397
+          "deaths": 2877,
+          "recovered": 75795
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 168849,
+          "confirmed": 170516,
           "date": "2021-01-29",
-          "deaths": 5295,
-          "recovered": 152118
+          "deaths": 5338,
+          "recovered": 153479
         }
       }
     }
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2611247,
+          "confirmed": 2611983,
           "date": "2021-01-29",
-          "deaths": 31857,
+          "deaths": 32118,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1122268,
+          "confirmed": 1124020,
           "date": "2021-01-29",
           "deaths": 13932,
           "recovered": 0
@@ -1777,10 +1777,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 124958,
+      "confirmed": 125364,
       "date": "2021-01-29",
-      "deaths": 1165,
-      "recovered": 117115
+      "deaths": 1171,
+      "recovered": 117447
     }
   },
   "West Bank and Gaza": {
