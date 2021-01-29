@@ -637,10 +637,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 144007,
+      "confirmed": 144992,
       "date": "2021-01-29",
-      "deaths": 3512,
-      "recovered": 60669
+      "deaths": 3549,
+      "recovered": 60735
     }
   },
   "Hungary": {
@@ -969,10 +969,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 231657,
+      "confirmed": 231716,
       "date": "2021-01-29",
       "deaths": 3040,
-      "recovered": 200943
+      "recovered": 201105
     }
   },
   "Kenya": {
@@ -1043,41 +1043,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 462892,
+          "confirmed": 469098,
           "date": "2021-01-29",
-          "deaths": 21698,
+          "deaths": 21951,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 104532,
+          "confirmed": 105498,
           "date": "2021-01-29",
-          "deaths": 6966,
+          "deaths": 7055,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 67666,
+          "confirmed": 68541,
           "date": "2021-01-29",
-          "deaths": 8192,
+          "deaths": 8276,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 185808,
+          "confirmed": 187955,
           "date": "2021-01-29",
-          "deaths": 23579,
+          "deaths": 23832,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 103796,
+          "confirmed": 104668,
           "date": "2021-01-29",
-          "deaths": 6445,
+          "deaths": 6544,
           "recovered": 0
         }
       }
