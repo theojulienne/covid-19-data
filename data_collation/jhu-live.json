@@ -170,7 +170,7 @@
           "confirmed": 368281,
           "date": "2021-01-29",
           "deaths": 10432,
-          "recovered": 284360
+          "recovered": 285331
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 346384,
           "date": "2021-01-29",
           "deaths": 7344,
-          "recovered": 333986
+          "recovered": 334524
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 212544,
           "date": "2021-01-29",
           "deaths": 4993,
-          "recovered": 198409
+          "recovered": 199694
         }
       },
       "Mato Grosso do Sul": {
@@ -266,7 +266,7 @@
           "confirmed": 157469,
           "date": "2021-01-29",
           "deaths": 3039,
-          "recovered": 152659
+          "recovered": 154230
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 512791,
           "date": "2021-01-29",
           "deaths": 29417,
-          "recovered": 474601
+          "recovered": 478004
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 569676,
           "date": "2021-01-29",
           "deaths": 6264,
-          "recovered": 542284
+          "recovered": 547909
         }
       },
       "Sao Paulo": {
@@ -571,7 +571,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 67721,
+          "confirmed": 68233,
           "date": "2021-01-29",
           "deaths": 2334,
           "recovered": 54747
@@ -589,7 +589,7 @@
         "live": {
           "confirmed": 139925,
           "date": "2021-01-29",
-          "deaths": 3189,
+          "deaths": 3227,
           "recovered": 124318
         }
       },
@@ -953,7 +953,7 @@
         "live": {
           "confirmed": 98507,
           "date": "2021-01-29",
-          "deaths": 844,
+          "deaths": 861,
           "recovered": 81767
         }
       }
@@ -1265,10 +1265,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 721513,
+      "confirmed": 724250,
       "date": "2021-01-29",
-      "deaths": 18105,
-      "recovered": 666001
+      "deaths": 18196,
+      "recovered": 669175
     }
   },
   "Russia": {

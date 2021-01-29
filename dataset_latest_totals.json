@@ -2834,19 +2834,19 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 700898,
-        "deaths": 17485,
-        "recovered": 635871
+        "confirmed": 703776,
+        "deaths": 17554,
+        "recovered": 641288
       },
       "back_2week": {
-        "confirmed": 681392,
-        "deaths": 16969,
-        "recovered": 610122
+        "confirmed": 684917,
+        "deaths": 17035,
+        "recovered": 614545
       },
       "latest": {
-        "confirmed": 718612,
-        "deaths": 18015,
-        "recovered": 662400
+        "confirmed": 721513,
+        "deaths": 18105,
+        "recovered": 666001
       }
     },
     "RUS": {
