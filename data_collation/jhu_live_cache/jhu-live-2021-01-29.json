@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 87168,
+          "confirmed": 87551,
           "date": "2021-01-29",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 87210,
+          "confirmed": 87422,
           "date": "2021-01-29",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 72364,
+          "confirmed": 72714,
           "date": "2021-01-29",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 107909,
+          "confirmed": 108311,
           "date": "2021-01-29",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 100770,
+          "confirmed": 100984,
           "date": "2021-01-29",
           "deaths": 0,
           "recovered": 0
@@ -550,7 +550,7 @@
           "confirmed": 290410,
           "date": "2021-01-29",
           "deaths": 6947,
-          "recovered": 256340
+          "recovered": 257913
         }
       },
       "Bayern": {
@@ -558,7 +558,7 @@
           "confirmed": 396628,
           "date": "2021-01-29",
           "deaths": 10116,
-          "recovered": 350201
+          "recovered": 352544
         }
       },
       "Berlin": {
@@ -566,7 +566,7 @@
           "confirmed": 118950,
           "date": "2021-01-29",
           "deaths": 2195,
-          "recovered": 104508
+          "recovered": 105033
         }
       },
       "Brandenburg": {
@@ -574,7 +574,7 @@
           "confirmed": 67721,
           "date": "2021-01-29",
           "deaths": 2283,
-          "recovered": 53872
+          "recovered": 54747
         }
       },
       "Hessen": {
@@ -582,7 +582,7 @@
           "confirmed": 168871,
           "date": "2021-01-29",
           "deaths": 4676,
-          "recovered": 145886
+          "recovered": 146967
         }
       },
       "Niedersachsen": {
@@ -590,7 +590,7 @@
           "confirmed": 139579,
           "date": "2021-01-29",
           "deaths": 3171,
-          "recovered": 123233
+          "recovered": 124318
         }
       },
       "Nordrhein-Westfalen": {
@@ -598,7 +598,7 @@
           "confirmed": 478263,
           "date": "2021-01-29",
           "deaths": 10457,
-          "recovered": 421130
+          "recovered": 423848
         }
       },
       "Rheinland-Pfalz": {
@@ -606,7 +606,7 @@
           "confirmed": 91683,
           "date": "2021-01-29",
           "deaths": 2449,
-          "recovered": 76401
+          "recovered": 77214
         }
       },
       "Sachsen": {
@@ -969,10 +969,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 230188,
+      "confirmed": 231657,
       "date": "2021-01-29",
       "deaths": 3040,
-      "recovered": 199667
+      "recovered": 200943
     }
   },
   "Kenya": {
@@ -1187,18 +1187,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 155805,
+          "confirmed": 156404,
           "date": "2021-01-29",
-          "deaths": 4661,
-          "recovered": 140545
+          "deaths": 4681,
+          "recovered": 141785
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 243683,
+          "confirmed": 244340,
           "date": "2021-01-29",
-          "deaths": 3957,
-          "recovered": 222037
+          "deaths": 3969,
+          "recovered": 222623
         }
       }
     }
