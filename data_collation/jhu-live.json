@@ -645,10 +645,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 363450,
+      "confirmed": 364909,
       "date": "2021-01-29",
-      "deaths": 12291,
-      "recovered": 249003
+      "deaths": 12374,
+      "recovered": 254783
     }
   },
   "India": {
@@ -1025,10 +1025,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 180170,
+      "confirmed": 181028,
       "date": "2021-01-29",
-      "deaths": 2743,
-      "recovered": 125067
+      "deaths": 2762,
+      "recovered": 126548
     }
   },
   "Malaysia": {
