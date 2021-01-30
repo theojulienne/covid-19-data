@@ -557,7 +557,7 @@
         "live": {
           "confirmed": 400504,
           "date": "2021-01-30",
-          "deaths": 10344,
+          "deaths": 10350,
           "recovered": 354617
         }
       },
@@ -597,7 +597,7 @@
         "live": {
           "confirmed": 483456,
           "date": "2021-01-30",
-          "deaths": 10717,
+          "deaths": 10720,
           "recovered": 426406
         }
       },
@@ -954,7 +954,7 @@
           "confirmed": 99276,
           "date": "2021-01-30",
           "deaths": 861,
-          "recovered": 81767
+          "recovered": 83768
         }
       }
     }
@@ -1233,10 +1233,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 521413,
+      "confirmed": 523516,
       "date": "2021-01-30",
-      "deaths": 10600,
-      "recovered": 475765
+      "deaths": 10669,
+      "recovered": 475904
     }
   },
   "Poland": {
@@ -1244,7 +1244,7 @@
       "confirmed": 1502810,
       "date": "2021-01-30",
       "deaths": 36780,
-      "recovered": 1257352
+      "recovered": 1264574
     }
   },
   "Portugal": {
