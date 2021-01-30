@@ -382,7 +382,7 @@
           "confirmed": 259993,
           "date": "2021-01-30",
           "deaths": 9717,
-          "recovered": 233768
+          "recovered": 235516
         }
       }
     }
@@ -505,9 +505,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 246000,
+      "confirmed": 246687,
       "date": "2021-01-30",
-      "deaths": 14766,
+      "deaths": 14802,
       "recovered": 204071
     }
   },
@@ -1205,10 +1205,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 316808,
+      "confirmed": 318253,
       "date": "2021-01-30",
-      "deaths": 5196,
-      "recovered": 269637
+      "deaths": 5221,
+      "recovered": 272180
     }
   },
   "Paraguay": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2626608,
+          "confirmed": 2627135,
           "date": "2021-01-30",
-          "deaths": 32369,
+          "deaths": 32397,
           "recovered": 0
         }
       },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1130936,
+          "confirmed": 1134290,
           "date": "2021-01-30",
           "deaths": 14092,
           "recovered": 0
