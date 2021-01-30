@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 534407,
+      "confirmed": 534770,
       "date": "2021-01-30",
-      "deaths": 8094,
-      "recovered": 478960
+      "deaths": 8111,
+      "recovered": 479297
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 244718,
+      "confirmed": 246570,
       "date": "2021-01-30",
-      "deaths": 1698,
-      "recovered": 231399
+      "deaths": 1708,
+      "recovered": 233499
     }
   },
   "Belgium": {
@@ -571,9 +571,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 68233,
+          "confirmed": 68751,
           "date": "2021-01-30",
-          "deaths": 2334,
+          "deaths": 2389,
           "recovered": 55231
         }
       },
@@ -645,10 +645,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 364909,
+      "confirmed": 366279,
       "date": "2021-01-30",
-      "deaths": 12374,
-      "recovered": 254783
+      "deaths": 12463,
+      "recovered": 259555
     }
   },
   "India": {
@@ -841,10 +841,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 618147,
+      "confirmed": 618922,
       "date": "2021-01-30",
-      "deaths": 13036,
-      "recovered": 589540
+      "deaths": 13041,
+      "recovered": 590857
     }
   },
   "Ireland": {
@@ -1265,10 +1265,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 724250,
+      "confirmed": 726918,
       "date": "2021-01-30",
-      "deaths": 18196,
-      "recovered": 669175
+      "deaths": 18264,
+      "recovered": 672532
     }
   },
   "Russia": {
@@ -1471,7 +1471,7 @@
     "live": {
       "confirmed": 521320,
       "date": "2021-01-30",
-      "deaths": 9354,
+      "deaths": 9365,
       "recovered": 317600
     }
   },
@@ -1785,10 +1785,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 158168,
+      "confirmed": 158559,
       "date": "2021-01-30",
-      "deaths": 1823,
-      "recovered": 148140
+      "deaths": 1831,
+      "recovered": 148583
     }
   }
 }
