@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 101971,
+      "confirmed": 102626,
       "date": "2021-01-30",
       "deaths": 372,
-      "recovered": 97948
+      "recovered": 98160
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 116773,
           "date": "2021-01-30",
           "deaths": 2728,
-          "recovered": 111531
+          "recovered": 111990
         }
       },
       "Amapa": {
@@ -162,7 +162,7 @@
           "confirmed": 581880,
           "date": "2021-01-30",
           "deaths": 10021,
-          "recovered": 559616
+          "recovered": 563176
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 275688,
           "date": "2021-01-30",
           "deaths": 4533,
-          "recovered": 262643
+          "recovered": 264783
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 292269,
           "date": "2021-01-30",
           "deaths": 5819,
-          "recovered": 274698
+          "recovered": 275426
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 159881,
           "date": "2021-01-30",
           "deaths": 2885,
-          "recovered": 147615
+          "recovered": 148417
         }
       },
       "Minas Gerais": {
@@ -242,7 +242,7 @@
           "confirmed": 189415,
           "date": "2021-01-30",
           "deaths": 4036,
-          "recovered": 138950
+          "recovered": 148722
         }
       },
       "Parana": {
@@ -274,7 +274,7 @@
           "confirmed": 138812,
           "date": "2021-01-30",
           "deaths": 3276,
-          "recovered": 95604
+          "recovered": 98586
         }
       },
       "Rio Grande do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 543499,
           "date": "2021-01-30",
           "deaths": 10615,
-          "recovered": 519137
+          "recovered": 522468
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 516868,
           "date": "2021-01-30",
           "deaths": 29563,
-          "recovered": 481788
+          "recovered": 485339
         }
       },
       "Rondonia": {
@@ -322,7 +322,7 @@
           "confirmed": 1759957,
           "date": "2021-01-30",
           "deaths": 52722,
-          "recovered": 1496420
+          "recovered": 1508890
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 101666,
           "date": "2021-01-30",
           "deaths": 1371,
-          "recovered": 90063
+          "recovered": 90382
         }
       }
     }
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 270188,
+          "confirmed": 270913,
           "date": "2021-01-30",
-          "deaths": 6128,
-          "recovered": 245828
+          "deaths": 6155,
+          "recovered": 246757
         }
       },
       "Quebec": {
@@ -857,10 +857,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 638779,
+      "confirmed": 638789,
       "date": "2021-01-30",
       "deaths": 4738,
-      "recovered": 561582
+      "recovered": 561655
     }
   },
   "Italy": {
@@ -1223,9 +1223,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 498357,
+          "confirmed": 503865,
           "date": "2021-01-30",
-          "deaths": 17714,
+          "deaths": 17857,
           "recovered": 0
         }
       }
@@ -1471,7 +1471,7 @@
     "live": {
       "confirmed": 521320,
       "date": "2021-01-30",
-      "deaths": 9369,
+      "deaths": 9370,
       "recovered": 317600
     }
   },
@@ -1503,7 +1503,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2637659,
+          "confirmed": 2639009,
           "date": "2021-01-30",
           "deaths": 32752,
           "recovered": 0
@@ -1527,9 +1527,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 158830,
+          "confirmed": 160110,
           "date": "2021-01-30",
-          "deaths": 1681,
+          "deaths": 1721,
           "recovered": 0
         }
       },
