@@ -1001,10 +1001,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 84377,
+      "confirmed": 84453,
       "date": "2021-01-30",
-      "deaths": 1409,
-      "recovered": 80643
+      "deaths": 1411,
+      "recovered": 80781
     }
   },
   "Lebanon": {
@@ -1503,9 +1503,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2634787,
+          "confirmed": 2635933,
           "date": "2021-01-30",
-          "deaths": 32639,
+          "deaths": 32709,
           "recovered": 0
         }
       },
@@ -1769,10 +1769,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78602,
+      "confirmed": 78672,
       "date": "2021-01-30",
       "deaths": 621,
-      "recovered": 77084
+      "recovered": 77146
     }
   },
   "Venezuela": {
