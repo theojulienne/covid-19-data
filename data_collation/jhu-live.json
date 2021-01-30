@@ -555,7 +555,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 400504,
+          "confirmed": 400561,
           "date": "2021-01-30",
           "deaths": 10350,
           "recovered": 354617
@@ -1325,9 +1325,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 392354,
+      "confirmed": 393897,
       "date": "2021-01-30",
-      "deaths": 3983,
+      "deaths": 4000,
       "recovered": 0
     }
   },
@@ -1647,7 +1647,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1134290,
+          "confirmed": 1134783,
           "date": "2021-01-30",
           "deaths": 14092,
           "recovered": 0
