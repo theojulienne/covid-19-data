@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 342453,
+          "confirmed": 343193,
           "date": "2021-01-31",
-          "deaths": 11329,
-          "recovered": 325288
+          "deaths": 11360,
+          "recovered": 326136
         }
       }
     }
@@ -543,7 +543,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 402173,
+          "confirmed": 402304,
           "date": "2021-01-31",
           "deaths": 10385,
           "recovered": 356201
@@ -599,10 +599,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 179742,
+          "confirmed": 180211,
           "date": "2021-01-31",
           "deaths": 6288,
-          "recovered": 160200
+          "recovered": 160600
         }
       }
     }
@@ -1313,9 +1313,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 393897,
+      "confirmed": 395263,
       "date": "2021-01-31",
-      "deaths": 4000,
+      "deaths": 4020,
       "recovered": 0
     }
   },
