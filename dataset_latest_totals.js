@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 165711,
-        "deaths": 3030,
-        "recovered": 154259
+        "confirmed": 165909,
+        "deaths": 3034,
+        "recovered": 154535
       },
       "back_2week": {
-        "confirmed": 163972,
-        "deaths": 2974,
-        "recovered": 152320
+        "confirmed": 164235,
+        "deaths": 2987,
+        "recovered": 152615
       },
       "latest": {
-        "confirmed": 166728,
-        "deaths": 3069,
-        "recovered": 156910
+        "confirmed": 166901,
+        "deaths": 3071,
+        "recovered": 157314
       }
     },
     "ATG": {
@@ -1042,19 +1042,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 924847,
-        "deaths": 15130,
-        "recovered": 795878
+        "confirmed": 933361,
+        "deaths": 15270,
+        "recovered": 808263
       },
       "back_2week": {
-        "confirmed": 874605,
-        "deaths": 14029,
-        "recovered": 717569
+        "confirmed": 883906,
+        "deaths": 14215,
+        "recovered": 719844
       },
       "latest": {
-        "confirmed": 972642,
-        "deaths": 16072,
-        "recovered": 859601
+        "confirmed": 980714,
+        "deaths": 16211,
+        "recovered": 860404
       }
     },
     "DEU": {
@@ -1486,19 +1486,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 251974,
-        "deaths": 3022,
-        "recovered": 238737
+        "confirmed": 252972,
+        "deaths": 3038,
+        "recovered": 240629
       },
       "back_2week": {
-        "confirmed": 245789,
-        "deaths": 2893,
-        "recovered": 229196
+        "confirmed": 247025,
+        "deaths": 2916,
+        "recovered": 231385
       },
       "latest": {
-        "confirmed": 256956,
-        "deaths": 3148,
-        "recovered": 247096
+        "confirmed": 257632,
+        "deaths": 3159,
+        "recovered": 248537
       }
     },
     "GHA": {
