@@ -146,7 +146,7 @@
           "confirmed": 76884,
           "date": "2021-01-31",
           "deaths": 1059,
-          "recovered": 57590
+          "recovered": 58186
         }
       },
       "Amazonas": {
@@ -154,7 +154,7 @@
           "confirmed": 265994,
           "date": "2021-01-31",
           "deaths": 8018,
-          "recovered": 215694
+          "recovered": 225426
         }
       },
       "Bahia": {
@@ -250,7 +250,7 @@
           "confirmed": 547430,
           "date": "2021-01-31",
           "deaths": 10013,
-          "recovered": 395985
+          "recovered": 399591
         }
       },
       "Pernambuco": {
@@ -298,7 +298,7 @@
           "confirmed": 123957,
           "date": "2021-01-31",
           "deaths": 2229,
-          "recovered": 97983
+          "recovered": 102860
         }
       },
       "Roraima": {
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 146110,
+      "confirmed": 147100,
       "date": "2021-01-31",
-      "deaths": 3575,
-      "recovered": 60821
+      "deaths": 3592,
+      "recovered": 60859
     }
   },
   "Hungary": {
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 234498,
+      "confirmed": 234569,
       "date": "2021-01-31",
-      "deaths": 3042,
-      "recovered": 203519
+      "deaths": 3045,
+      "recovered": 203657
     }
   },
   "Kenya": {
@@ -1175,17 +1175,17 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 156928,
+          "confirmed": 157353,
           "date": "2021-01-31",
-          "deaths": 4716,
+          "deaths": 4736,
           "recovered": 142651
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 245663,
+          "confirmed": 246437,
           "date": "2021-01-31",
-          "deaths": 3986,
+          "deaths": 3992,
           "recovered": 224101
         }
       }
