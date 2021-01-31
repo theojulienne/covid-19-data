@@ -1996,19 +1996,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 160367,
+        "confirmed": 160901,
         "deaths": 952,
-        "recovered": 153307
+        "recovered": 153746
       },
       "back_2week": {
-        "confirmed": 156964,
+        "confirmed": 157399,
         "deaths": 947,
-        "recovered": 150329
+        "recovered": 150678
       },
       "latest": {
-        "confirmed": 164108,
+        "confirmed": 164622,
         "deaths": 958,
-        "recovered": 156903
+        "recovered": 157404
       }
     },
     "LAO": {

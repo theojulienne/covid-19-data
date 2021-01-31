@@ -561,7 +561,7 @@
         "live": {
           "confirmed": 68751,
           "date": "2021-01-31",
-          "deaths": 2389,
+          "deaths": 2403,
           "recovered": 55662
         }
       },
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 92638,
+          "confirmed": 93016,
           "date": "2021-01-31",
-          "deaths": 2515,
+          "deaths": 2529,
           "recovered": 78280
         }
       },
@@ -939,9 +939,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 99276,
+          "confirmed": 99909,
           "date": "2021-01-31",
-          "deaths": 880,
+          "deaths": 883,
           "recovered": 83768
         }
       }
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 164622,
+      "confirmed": 165257,
       "date": "2021-01-31",
       "deaths": 959,
-      "recovered": 157404
+      "recovered": 157931
     }
   },
   "Kyrgyzstan": {
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 158559,
+      "confirmed": 158962,
       "date": "2021-01-31",
-      "deaths": 1831,
-      "recovered": 148583
+      "deaths": 1833,
+      "recovered": 148993
     }
   }
 }
