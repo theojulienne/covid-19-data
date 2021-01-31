@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 638789,
+      "confirmed": 640644,
       "date": "2021-01-31",
-      "deaths": 4738,
-      "recovered": 561655
+      "deaths": 4745,
+      "recovered": 563643
     }
   },
   "Italy": {
@@ -1523,7 +1523,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 523649,
+          "confirmed": 525021,
           "date": "2021-01-31",
           "deaths": 10565,
           "recovered": 0
