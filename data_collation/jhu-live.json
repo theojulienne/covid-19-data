@@ -545,7 +545,7 @@
         "live": {
           "confirmed": 402173,
           "date": "2021-01-31",
-          "deaths": 10379,
+          "deaths": 10385,
           "recovered": 356201
         }
       },
@@ -1013,10 +1013,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 181734,
+      "confirmed": 182539,
       "date": "2021-01-31",
-      "deaths": 2787,
-      "recovered": 129043
+      "deaths": 2803,
+      "recovered": 129175
     }
   },
   "Malaysia": {
@@ -1221,10 +1221,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 523516,
+      "confirmed": 525618,
       "date": "2021-01-31",
-      "deaths": 10669,
-      "recovered": 475904
+      "deaths": 10749,
+      "recovered": 487551
     }
   },
   "Poland": {
@@ -1263,42 +1263,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 927788,
+          "confirmed": 930072,
           "date": "2021-01-31",
-          "deaths": 13368,
-          "recovered": 809226
+          "deaths": 13434,
+          "recovered": 814728
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 191660,
+          "confirmed": 192742,
           "date": "2021-01-31",
-          "deaths": 3731,
-          "recovered": 152088
+          "deaths": 3764,
+          "recovered": 153099
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 83972,
+          "confirmed": 84436,
           "date": "2021-01-31",
-          "deaths": 2107,
-          "recovered": 76123
+          "deaths": 2118,
+          "recovered": 76617
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 331956,
+          "confirmed": 334116,
           "date": "2021-01-31",
-          "deaths": 9686,
-          "recovered": 229049
+          "deaths": 9733,
+          "recovered": 230486
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 70120,
+          "confirmed": 70472,
           "date": "2021-01-31",
-          "deaths": 2020,
-          "recovered": 62707
+          "deaths": 2034,
+          "recovered": 63074
         }
       }
     }
@@ -1491,7 +1491,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2649603,
+          "confirmed": 2650541,
           "date": "2021-01-31",
           "deaths": 33152,
           "recovered": 0
