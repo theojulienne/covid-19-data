@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 87914,
+          "confirmed": 88269,
           "date": "2021-01-31",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 87693,
+          "confirmed": 87956,
           "date": "2021-01-31",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 73047,
+          "confirmed": 73394,
           "date": "2021-01-31",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 108661,
+          "confirmed": 108969,
           "date": "2021-01-31",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 101184,
+          "confirmed": 101467,
           "date": "2021-01-31",
           "deaths": 0,
           "recovered": 0
@@ -202,7 +202,7 @@
           "confirmed": 207415,
           "date": "2021-01-31",
           "deaths": 4688,
-          "recovered": 194420
+          "recovered": 195540
         }
       },
       "Mato Grosso": {
@@ -234,7 +234,7 @@
           "confirmed": 328800,
           "date": "2021-01-31",
           "deaths": 7618,
-          "recovered": 307390
+          "recovered": 308081
         }
       },
       "Paraiba": {
@@ -258,7 +258,7 @@
           "confirmed": 260679,
           "date": "2021-01-31",
           "deaths": 10332,
-          "recovered": 220037
+          "recovered": 221666
         }
       },
       "Piaui": {
@@ -403,50 +403,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 323761,
+          "confirmed": 324932,
           "date": "2021-01-31",
-          "deaths": 5857,
-          "recovered": 300711
+          "deaths": 5890,
+          "recovered": 302194
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 114189,
+          "confirmed": 114633,
           "date": "2021-01-31",
-          "deaths": 3801,
-          "recovered": 106545
+          "deaths": 3814,
+          "recovered": 107407
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 608450,
+          "confirmed": 610855,
           "date": "2021-01-31",
-          "deaths": 12476,
-          "recovered": 549710
+          "deaths": 12559,
+          "recovered": 555981
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 94075,
+          "confirmed": 94687,
           "date": "2021-01-31",
-          "deaths": 2403,
-          "recovered": 87123
+          "deaths": 2440,
+          "recovered": 87893
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 83012,
+          "confirmed": 83411,
           "date": "2021-01-31",
-          "deaths": 2893,
-          "recovered": 76238
+          "deaths": 2908,
+          "recovered": 76477
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 171438,
+          "confirmed": 172607,
           "date": "2021-01-31",
-          "deaths": 5376,
-          "recovered": 155292
+          "deaths": 5423,
+          "recovered": 156360
         }
       }
     }
@@ -538,7 +538,7 @@
           "confirmed": 291818,
           "date": "2021-01-31",
           "deaths": 7013,
-          "recovered": 259283
+          "recovered": 260466
         }
       },
       "Bayern": {
@@ -546,7 +546,7 @@
           "confirmed": 400561,
           "date": "2021-01-31",
           "deaths": 10350,
-          "recovered": 354617
+          "recovered": 356201
         }
       },
       "Berlin": {
@@ -554,7 +554,7 @@
           "confirmed": 119797,
           "date": "2021-01-31",
           "deaths": 2264,
-          "recovered": 105676
+          "recovered": 106086
         }
       },
       "Brandenburg": {
@@ -562,7 +562,7 @@
           "confirmed": 68751,
           "date": "2021-01-31",
           "deaths": 2389,
-          "recovered": 55231
+          "recovered": 55662
         }
       },
       "Hessen": {
@@ -570,7 +570,7 @@
           "confirmed": 170883,
           "date": "2021-01-31",
           "deaths": 4786,
-          "recovered": 147918
+          "recovered": 148626
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 141634,
           "date": "2021-01-31",
           "deaths": 3267,
-          "recovered": 125206
+          "recovered": 125876
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 483456,
           "date": "2021-01-31",
           "deaths": 10720,
-          "recovered": 426406
+          "recovered": 428092
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 92609,
           "date": "2021-01-31",
           "deaths": 2513,
-          "recovered": 77854
+          "recovered": 78280
         }
       },
       "Sachsen": {
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 233156,
+      "confirmed": 234498,
       "date": "2021-01-31",
       "deaths": 3042,
-      "recovered": 202652
+      "recovered": 203519
     }
   },
   "Kenya": {
@@ -1031,41 +1031,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 474355,
+          "confirmed": 479292,
           "date": "2021-01-31",
-          "deaths": 22167,
+          "deaths": 22405,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 106371,
+          "confirmed": 107064,
           "date": "2021-01-31",
-          "deaths": 7185,
+          "deaths": 7317,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 69201,
+          "confirmed": 69856,
           "date": "2021-01-31",
-          "deaths": 8385,
+          "deaths": 8494,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 189751,
+          "confirmed": 191471,
           "date": "2021-01-31",
-          "deaths": 24066,
+          "deaths": 24329,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 105584,
+          "confirmed": 106333,
           "date": "2021-01-31",
-          "deaths": 6643,
+          "deaths": 6724,
           "recovered": 0
         }
       }
@@ -1178,7 +1178,7 @@
           "confirmed": 156928,
           "date": "2021-01-31",
           "deaths": 4716,
-          "recovered": 141991
+          "recovered": 142651
         }
       },
       "Sindh": {
@@ -1186,7 +1186,7 @@
           "confirmed": 245663,
           "date": "2021-01-31",
           "deaths": 3986,
-          "recovered": 223358
+          "recovered": 224101
         }
       }
     }
