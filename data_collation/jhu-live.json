@@ -210,7 +210,7 @@
           "confirmed": 215392,
           "date": "2021-01-31",
           "deaths": 5036,
-          "recovered": 202265
+          "recovered": 202996
         }
       },
       "Mato Grosso do Sul": {
@@ -1465,10 +1465,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 207468,
+      "confirmed": 208885,
       "date": "2021-01-31",
-      "deaths": 6680,
-      "recovered": 156160
+      "deaths": 6754,
+      "recovered": 157446
     }
   },
   "Turkey": {
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2653232,
+          "confirmed": 2659642,
           "date": "2021-01-31",
-          "deaths": 33202,
+          "deaths": 33338,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 525021,
+          "confirmed": 526088,
           "date": "2021-01-31",
-          "deaths": 10593,
+          "deaths": 10616,
           "recovered": 0
         }
       },
@@ -1539,9 +1539,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 249832,
+          "confirmed": 250879,
           "date": "2021-01-31",
-          "deaths": 6639,
+          "deaths": 6658,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1212827,
+          "confirmed": 1215784,
           "date": "2021-01-31",
           "deaths": 15004,
           "recovered": 0
