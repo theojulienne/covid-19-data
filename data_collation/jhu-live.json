@@ -194,7 +194,7 @@
           "confirmed": 350349,
           "date": "2021-01-31",
           "deaths": 7487,
-          "recovered": 336358
+          "recovered": 337103
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 215392,
           "date": "2021-01-31",
           "deaths": 5036,
-          "recovered": 201158
+          "recovered": 202265
         }
       },
       "Mato Grosso do Sul": {
@@ -266,7 +266,7 @@
           "confirmed": 158584,
           "date": "2021-01-31",
           "deaths": 3051,
-          "recovered": 155023
+          "recovered": 155451
         }
       },
       "Rio Grande do Norte": {
@@ -1193,10 +1193,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 318253,
+      "confirmed": 319453,
       "date": "2021-01-31",
-      "deaths": 5221,
-      "recovered": 272180
+      "deaths": 5244,
+      "recovered": 274806
     }
   },
   "Paraguay": {
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2639412,
+          "confirmed": 2649271,
           "date": "2021-01-31",
-          "deaths": 33092,
+          "deaths": 33124,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1208017,
+          "confirmed": 1210138,
           "date": "2021-01-31",
           "deaths": 14932,
           "recovered": 0
