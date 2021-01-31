@@ -248,19 +248,19 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 228526,
-        "deaths": 3064,
-        "recovered": 219019
+        "confirmed": 228688,
+        "deaths": 3072,
+        "recovered": 219724
       },
       "back_2week": {
-        "confirmed": 226549,
-        "deaths": 2983,
-        "recovered": 213773
+        "confirmed": 226951,
+        "deaths": 2998,
+        "recovered": 214423
       },
       "latest": {
-        "confirmed": 229935,
-        "deaths": 3119,
-        "recovered": 222553
+        "confirmed": 230066,
+        "deaths": 3126,
+        "recovered": 222960
       }
     },
     "BDI": {
@@ -418,19 +418,19 @@
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 234111,
-        "deaths": 1628,
-        "recovered": 218831
+        "confirmed": 235859,
+        "deaths": 1639,
+        "recovered": 220912
       },
       "back_2week": {
-        "confirmed": 221604,
-        "deaths": 1564,
-        "recovered": 204500
+        "confirmed": 223537,
+        "deaths": 1573,
+        "recovered": 206676
       },
       "latest": {
-        "confirmed": 244718,
-        "deaths": 1698,
-        "recovered": 231399
+        "confirmed": 246570,
+        "deaths": 1708,
+        "recovered": 233499
       }
     },
     "BLZ": {
@@ -655,17 +655,17 @@
     "CHE": {
       "back_1week": {
         "confirmed": 509279,
-        "deaths": 9034,
+        "deaths": 9050,
         "recovered": 317600
       },
       "back_2week": {
         "confirmed": 495228,
-        "deaths": 8646,
+        "deaths": 8675,
         "recovered": 317600
       },
       "latest": {
         "confirmed": 521320,
-        "deaths": 9354,
+        "deaths": 9370,
         "recovered": 317600
       }
     },
@@ -1110,19 +1110,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 193038,
-        "deaths": 1941,
-        "recovered": 177550
+        "confirmed": 193917,
+        "deaths": 1969,
+        "recovered": 178967
       },
       "back_2week": {
-        "confirmed": 187320,
-        "deaths": 1720,
-        "recovered": 165166
+        "confirmed": 188199,
+        "deaths": 1747,
+        "recovered": 166367
       },
       "latest": {
-        "confirmed": 197664,
-        "deaths": 2084,
-        "recovered": 185769
+        "confirmed": 198095,
+        "deaths": 2106,
+        "recovered": 186612
       },
       "states": {
         "Faroe Islands": {
@@ -1792,19 +1792,19 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 612092,
-        "deaths": 12984,
-        "recovered": 578292
+        "confirmed": 612870,
+        "deaths": 12988,
+        "recovered": 579838
       },
       "back_2week": {
-        "confirmed": 606991,
-        "deaths": 12932,
-        "recovered": 565889
+        "confirmed": 607587,
+        "deaths": 12935,
+        "recovered": 567898
       },
       "latest": {
-        "confirmed": 618147,
-        "deaths": 13036,
-        "recovered": 589540
+        "confirmed": 618922,
+        "deaths": 13041,
+        "recovered": 590857
       }
     },
     "ISL": {
