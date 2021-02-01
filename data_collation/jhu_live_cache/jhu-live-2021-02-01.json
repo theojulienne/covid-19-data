@@ -941,7 +941,7 @@
         "live": {
           "confirmed": 100302,
           "date": "2021-02-01",
-          "deaths": 883,
+          "deaths": 891,
           "recovered": 85698
         }
       }
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 165257,
+      "confirmed": 165843,
       "date": "2021-02-01",
       "deaths": 959,
-      "recovered": 157931
+      "recovered": 158476
     }
   },
   "Kyrgyzstan": {
@@ -1089,10 +1089,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 270959,
+      "confirmed": 271118,
       "date": "2021-02-01",
       "deaths": 2029,
-      "recovered": 266336
+      "recovered": 266600
     }
   },
   "Netherlands": {
@@ -1211,9 +1211,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 507596,
+          "confirmed": 509864,
           "date": "2021-02-01",
-          "deaths": 17927,
+          "deaths": 17996,
           "recovered": 0
         }
       }
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 158962,
+      "confirmed": 159443,
       "date": "2021-02-01",
-      "deaths": 1833,
-      "recovered": 148993
+      "deaths": 1840,
+      "recovered": 149621
     }
   }
 }
