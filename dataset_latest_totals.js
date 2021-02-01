@@ -3774,9 +3774,9 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 78317,
+        "confirmed": 78375,
         "deaths": 621,
-        "recovered": 76778
+        "recovered": 76815
       },
       "back_2week": {
         "confirmed": 77968,
