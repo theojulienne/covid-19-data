@@ -403,50 +403,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 324932,
+          "confirmed": 325959,
           "date": "2021-02-01",
-          "deaths": 5890,
-          "recovered": 302194
+          "deaths": 5902,
+          "recovered": 303994
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 114633,
+          "confirmed": 115073,
           "date": "2021-02-01",
-          "deaths": 3814,
-          "recovered": 107407
+          "deaths": 3817,
+          "recovered": 107957
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 610855,
+          "confirmed": 614475,
           "date": "2021-02-01",
           "deaths": 12559,
-          "recovered": 555981
+          "recovered": 562295
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 94687,
+          "confirmed": 94989,
           "date": "2021-02-01",
-          "deaths": 2440,
-          "recovered": 87893
+          "deaths": 2448,
+          "recovered": 88574
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 83411,
+          "confirmed": 83682,
           "date": "2021-02-01",
-          "deaths": 2908,
-          "recovered": 76477
+          "deaths": 2920,
+          "recovered": 76789
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 172607,
+          "confirmed": 173449,
           "date": "2021-02-01",
-          "deaths": 5423,
-          "recovered": 156360
+          "deaths": 5432,
+          "recovered": 157368
         }
       }
     }
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1217842,
+          "confirmed": 1221308,
           "date": "2021-02-01",
           "deaths": 15004,
           "recovered": 0
