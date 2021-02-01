@@ -36,19 +36,19 @@ var covid19_dataset_latest_totals = {
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 71441,
-        "deaths": 1310,
-        "recovered": 43384
+        "confirmed": 72274,
+        "deaths": 1315,
+        "recovered": 43890
       },
       "back_2week": {
-        "confirmed": 67216,
-        "deaths": 1270,
-        "recovered": 40090
+        "confirmed": 67690,
+        "deaths": 1277,
+        "recovered": 40453
       },
       "latest": {
-        "confirmed": 77251,
-        "deaths": 1369,
-        "recovered": 46927
+        "confirmed": 78127,
+        "deaths": 1380,
+        "recovered": 47424
       }
     },
     "AND": {
@@ -1258,19 +1258,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 133298,
-        "deaths": 2063,
-        "recovered": 118730
+        "confirmed": 133767,
+        "deaths": 2066,
+        "recovered": 119416
       },
       "back_2week": {
-        "confirmed": 130772,
-        "deaths": 2029,
-        "recovered": 116045
+        "confirmed": 131195,
+        "deaths": 2030,
+        "recovered": 116147
       },
       "latest": {
-        "confirmed": 137021,
-        "deaths": 2091,
-        "recovered": 122588
+        "confirmed": 137650,
+        "deaths": 2093,
+        "recovered": 122862
       }
     },
     "FIN": {
@@ -2200,19 +2200,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 465769,
-        "deaths": 8128,
-        "recovered": 441693
+        "confirmed": 466289,
+        "deaths": 8150,
+        "recovered": 442441
       },
       "back_2week": {
-        "confirmed": 458865,
-        "deaths": 7911,
-        "recovered": 433937
+        "confirmed": 459671,
+        "deaths": 7942,
+        "recovered": 434925
       },
       "latest": {
-        "confirmed": 470691,
-        "deaths": 8259,
-        "recovered": 448628
+        "confirmed": 471157,
+        "deaths": 8275,
+        "recovered": 449160
       }
     },
     "MCO": {
