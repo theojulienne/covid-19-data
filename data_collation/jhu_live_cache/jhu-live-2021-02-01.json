@@ -545,7 +545,7 @@
         "live": {
           "confirmed": 403454,
           "date": "2021-02-01",
-          "deaths": 10394,
+          "deaths": 10406,
           "recovered": 358170
         }
       },
@@ -601,7 +601,7 @@
         "live": {
           "confirmed": 180211,
           "date": "2021-02-01",
-          "deaths": 6289,
+          "deaths": 6293,
           "recovered": 160600
         }
       }
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 100773,
+      "confirmed": 100856,
       "date": "2021-02-01",
-      "deaths": 1763,
-      "recovered": 83907
+      "deaths": 1766,
+      "recovered": 83936
     }
   },
   "Korea, South": {
@@ -1313,9 +1313,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 395263,
+      "confirmed": 397002,
       "date": "2021-02-01",
-      "deaths": 4020,
+      "deaths": 4038,
       "recovered": 0
     }
   },
