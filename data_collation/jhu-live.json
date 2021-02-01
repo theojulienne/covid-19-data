@@ -194,7 +194,7 @@
           "confirmed": 350569,
           "date": "2021-02-01",
           "deaths": 7488,
-          "recovered": 337103
+          "recovered": 337835
         }
       },
       "Maranhao": {
@@ -266,7 +266,7 @@
           "confirmed": 159023,
           "date": "2021-02-01",
           "deaths": 3058,
-          "recovered": 155451
+          "recovered": 155732
         }
       },
       "Rio Grande do Norte": {
@@ -957,9 +957,9 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 235828,
+      "confirmed": 235844,
       "date": "2021-02-01",
-      "deaths": 3045,
+      "deaths": 3046,
       "recovered": 204668
     }
   },
@@ -1175,17 +1175,17 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 157353,
+          "confirmed": 157796,
           "date": "2021-02-01",
-          "deaths": 4736,
+          "deaths": 4747,
           "recovered": 142989
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 246437,
+          "confirmed": 247249,
           "date": "2021-02-01",
-          "deaths": 3992,
+          "deaths": 3996,
           "recovered": 224664
         }
       }
