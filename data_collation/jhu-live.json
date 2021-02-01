@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 215397,
+      "confirmed": 216835,
       "date": "2021-02-01",
-      "deaths": 10330,
-      "recovered": 158499
+      "deaths": 10379,
+      "recovered": 159222
     }
   },
   "Bosnia and Herzegovina": {
@@ -405,7 +405,7 @@
         "live": {
           "confirmed": 325959,
           "date": "2021-02-01",
-          "deaths": 5902,
+          "deaths": 5932,
           "recovered": 303994
         }
       },
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 115073,
           "date": "2021-02-01",
-          "deaths": 3817,
+          "deaths": 3828,
           "recovered": 107957
         }
       },
@@ -421,7 +421,7 @@
         "live": {
           "confirmed": 614475,
           "date": "2021-02-01",
-          "deaths": 12559,
+          "deaths": 12636,
           "recovered": 562295
         }
       },
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 94989,
           "date": "2021-02-01",
-          "deaths": 2448,
+          "deaths": 2459,
           "recovered": 88574
         }
       },
@@ -437,7 +437,7 @@
         "live": {
           "confirmed": 83682,
           "date": "2021-02-01",
-          "deaths": 2920,
+          "deaths": 2928,
           "recovered": 76789
         }
       },
@@ -445,7 +445,7 @@
         "live": {
           "confirmed": 173449,
           "date": "2021-02-01",
-          "deaths": 5432,
+          "deaths": 5456,
           "recovered": 157368
         }
       }
@@ -973,10 +973,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 78205,
+      "confirmed": 78508,
       "date": "2021-02-01",
-      "deaths": 1420,
-      "recovered": 67878
+      "deaths": 1425,
+      "recovered": 68309
     }
   },
   "Kuwait": {
@@ -1493,7 +1493,7 @@
         "live": {
           "confirmed": 2660135,
           "date": "2021-02-01",
-          "deaths": 33357,
+          "deaths": 33373,
           "recovered": 0
         }
       },
