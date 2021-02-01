@@ -755,7 +755,8 @@ var covid19_dataset_country_smr = {
       2941,
       2969,
       2996,
-      2996
+      2996,
+      3025
     ],
     "deaths": [
       0,
@@ -1132,7 +1133,8 @@ var covid19_dataset_country_smr = {
       65,
       65,
       65,
-      65
+      65,
+      67
     ],
     "recovered": [
       0,
@@ -1509,7 +1511,8 @@ var covid19_dataset_country_smr = {
       2675,
       2684,
       2695,
-      2695
+      2695,
+      2723
     ]
   }
 };
