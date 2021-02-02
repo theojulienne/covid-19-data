@@ -520,7 +520,7 @@
       "confirmed": 3190701,
       "date": "2021-02-02",
       "deaths": 76128,
-      "recovered": 200502
+      "recovered": 200492
     }
   },
   "Georgia": {
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2669206,
+          "confirmed": 2670306,
           "date": "2021-02-02",
-          "deaths": 33519,
+          "deaths": 33607,
           "recovered": 0
         }
       },
