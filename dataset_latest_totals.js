@@ -635,8 +635,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 262583,
-          "deaths": 9794
+          "confirmed": 263473,
+          "deaths": 9826
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1258,19 +1258,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 133767,
-        "deaths": 2066,
-        "recovered": 119416
+        "confirmed": 134132,
+        "deaths": 2071,
+        "recovered": 120199
       },
       "back_2week": {
-        "confirmed": 131195,
-        "deaths": 2030,
-        "recovered": 116147
+        "confirmed": 131546,
+        "deaths": 2033,
+        "recovered": 116335
       },
       "latest": {
-        "confirmed": 137650,
-        "deaths": 2093,
-        "recovered": 122862
+        "confirmed": 138384,
+        "deaths": 2103,
+        "recovered": 122968
       }
     },
     "FIN": {
@@ -1759,17 +1759,17 @@ var covid19_dataset_latest_totals = {
     "IRL": {
       "back_1week": {
         "confirmed": 187554,
-        "deaths": 2970,
+        "deaths": 2977,
         "recovered": 23364
       },
       "back_2week": {
         "confirmed": 172726,
-        "deaths": 2608,
+        "deaths": 2616,
         "recovered": 23364
       },
       "latest": {
         "confirmed": 196547,
-        "deaths": 3307,
+        "deaths": 3317,
         "recovered": 23364
       }
     },
@@ -2200,19 +2200,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 466289,
-        "deaths": 8150,
-        "recovered": 442441
+        "confirmed": 466626,
+        "deaths": 8172,
+        "recovered": 443472
       },
       "back_2week": {
-        "confirmed": 459671,
-        "deaths": 7942,
-        "recovered": 434925
+        "confirmed": 460144,
+        "deaths": 7977,
+        "recovered": 435686
       },
       "latest": {
-        "confirmed": 471157,
-        "deaths": 8275,
-        "recovered": 449160
+        "confirmed": 471438,
+        "deaths": 8287,
+        "recovered": 450052
       }
     },
     "MCO": {
