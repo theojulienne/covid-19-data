@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 343889,
+          "confirmed": 344391,
           "date": "2021-02-02",
-          "deaths": 11374,
-          "recovered": 327039
+          "deaths": 11390,
+          "recovered": 327947
         }
       }
     }
@@ -485,10 +485,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 215086,
+      "confirmed": 215920,
       "date": "2021-02-02",
-      "deaths": 2688,
-      "recovered": 158775
+      "deaths": 2704,
+      "recovered": 159606
     }
   },
   "Ecuador": {
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 100856,
+      "confirmed": 101009,
       "date": "2021-02-02",
       "deaths": 1766,
-      "recovered": 83936
+      "recovered": 83990
     }
   },
   "Korea, South": {
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 165843,
+      "confirmed": 166654,
       "date": "2021-02-02",
-      "deaths": 959,
-      "recovered": 158476
+      "deaths": 960,
+      "recovered": 158986
     }
   },
   "Kyrgyzstan": {
@@ -1000,7 +1000,7 @@
       "confirmed": 303072,
       "date": "2021-02-02",
       "deaths": 3145,
-      "recovered": 180877
+      "recovered": 183263
     }
   },
   "Libya": {
@@ -1305,17 +1305,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 368329,
+      "confirmed": 368639,
       "date": "2021-02-02",
-      "deaths": 6379,
-      "recovered": 359839
+      "deaths": 6383,
+      "recovered": 360110
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 397002,
+      "confirmed": 398905,
       "date": "2021-02-02",
-      "deaths": 4038,
+      "deaths": 4056,
       "recovered": 0
     }
   },
