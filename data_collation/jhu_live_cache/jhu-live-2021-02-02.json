@@ -170,7 +170,7 @@
           "confirmed": 374856,
           "date": "2021-02-02",
           "deaths": 10477,
-          "recovered": 286040
+          "recovered": 286897
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 351348,
           "date": "2021-02-02",
           "deaths": 7489,
-          "recovered": 337835
+          "recovered": 340901
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 216797,
           "date": "2021-02-02",
           "deaths": 5074,
-          "recovered": 204167
+          "recovered": 205691
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 329486,
           "date": "2021-02-02",
           "deaths": 7655,
-          "recovered": 310406
+          "recovered": 311971
         }
       },
       "Paraiba": {
@@ -258,7 +258,7 @@
           "confirmed": 261745,
           "date": "2021-02-02",
           "deaths": 10364,
-          "recovered": 222929
+          "recovered": 224393
         }
       },
       "Piaui": {
@@ -453,10 +453,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 194569,
+      "confirmed": 195009,
       "date": "2021-02-02",
-      "deaths": 2634,
-      "recovered": 153063
+      "deaths": 2641,
+      "recovered": 154227
     }
   },
   "Croatia": {
@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3190701,
+      "confirmed": 3213360,
       "date": "2021-02-02",
-      "deaths": 76128,
-      "recovered": 200492
+      "deaths": 76852,
+      "recovered": 202069
     }
   },
   "Georgia": {
@@ -1491,7 +1491,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2677618,
+          "confirmed": 2678677,
           "date": "2021-02-02",
           "deaths": 33822,
           "recovered": 0
@@ -1539,9 +1539,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 251924,
+          "confirmed": 252658,
           "date": "2021-02-02",
-          "deaths": 6673,
+          "deaths": 6690,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1235422,
+          "confirmed": 1236366,
           "date": "2021-02-02",
           "deaths": 15270,
           "recovered": 0
