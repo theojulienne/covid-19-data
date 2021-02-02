@@ -1707,19 +1707,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 359574,
-        "deaths": 11968,
-        "recovered": 241472
+        "confirmed": 360418,
+        "deaths": 12024,
+        "recovered": 243092
       },
       "back_2week": {
-        "confirmed": 351828,
-        "deaths": 11341,
-        "recovered": 228615
+        "confirmed": 352703,
+        "deaths": 11409,
+        "recovered": 230441
       },
       "latest": {
-        "confirmed": 367586,
-        "deaths": 12524,
-        "recovered": 262968
+        "confirmed": 368710,
+        "deaths": 12578,
+        "recovered": 264260
       }
     },
     "IDN": {
@@ -2149,19 +2149,19 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 176624,
-        "deaths": 2649,
-        "recovered": 119085
+        "confirmed": 177166,
+        "deaths": 2664,
+        "recovered": 119254
       },
       "back_2week": {
-        "confirmed": 167516,
-        "deaths": 2445,
-        "recovered": 104188
+        "confirmed": 167992,
+        "deaths": 2469,
+        "recovered": 104297
       },
       "latest": {
-        "confirmed": 182539,
-        "deaths": 2803,
-        "recovered": 129175
+        "confirmed": 182893,
+        "deaths": 2825,
+        "recovered": 129269
       }
     },
     "LUX": {
@@ -2715,19 +2715,19 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 513619,
-        "deaths": 10242,
-        "recovered": 475612
+        "confirmed": 514996,
+        "deaths": 10292,
+        "recovered": 475422
       },
       "back_2week": {
-        "confirmed": 500577,
-        "deaths": 9895,
-        "recovered": 465991
+        "confirmed": 502736,
+        "deaths": 9909,
+        "recovered": 465988
       },
       "latest": {
-        "confirmed": 525618,
-        "deaths": 10749,
-        "recovered": 487551
+        "confirmed": 527272,
+        "deaths": 10807,
+        "recovered": 487574
       }
     },
     "PNG": {
