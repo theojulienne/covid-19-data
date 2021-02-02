@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 655001,
+      "confirmed": 656016,
       "date": "2021-02-02",
-      "deaths": 4816,
-      "recovered": 578337
+      "deaths": 4863,
+      "recovered": 579592
     }
   },
   "Italy": {
@@ -1232,7 +1232,7 @@
       "confirmed": 1515889,
       "date": "2021-02-02",
       "deaths": 37222,
-      "recovered": 1276636
+      "recovered": 1281396
     }
   },
   "Portugal": {
@@ -1263,42 +1263,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 932109,
+          "confirmed": 933810,
           "date": "2021-02-02",
-          "deaths": 13495,
-          "recovered": 819611
+          "deaths": 13569,
+          "recovered": 824623
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 193810,
+          "confirmed": 194863,
           "date": "2021-02-02",
-          "deaths": 3796,
-          "recovered": 154097
+          "deaths": 3834,
+          "recovered": 155117
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 84904,
+          "confirmed": 85363,
           "date": "2021-02-02",
-          "deaths": 2130,
-          "recovered": 77102
+          "deaths": 2144,
+          "recovered": 77591
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 335958,
+          "confirmed": 337442,
           "date": "2021-02-02",
-          "deaths": 9786,
-          "recovered": 231759
+          "deaths": 9851,
+          "recovered": 233683
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 70820,
+          "confirmed": 71145,
           "date": "2021-02-02",
-          "deaths": 2048,
-          "recovered": 63442
+          "deaths": 2063,
+          "recovered": 63789
         }
       }
     }
@@ -1321,10 +1321,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 250357,
+      "confirmed": 252094,
       "date": "2021-02-02",
-      "deaths": 4711,
-      "recovered": 218923
+      "deaths": 4784,
+      "recovered": 222642
     }
   },
   "Slovenia": {
