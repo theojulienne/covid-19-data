@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 122199,
+      "confirmed": 122461,
       "date": "2021-02-02",
-      "deaths": 4724,
-      "recovered": 95180
+      "deaths": 4737,
+      "recovered": 95569
     }
   },
   "Brazil": {
@@ -477,10 +477,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 198960,
+      "confirmed": 199357,
       "date": "2021-02-02",
-      "deaths": 2145,
-      "recovered": 187967
+      "deaths": 2160,
+      "recovered": 188873
     }
   },
   "Dominican Republic": {
@@ -829,10 +829,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 620620,
+      "confirmed": 621755,
       "date": "2021-02-02",
-      "deaths": 13057,
-      "recovered": 593384
+      "deaths": 13068,
+      "recovered": 594594
     }
   },
   "Ireland": {
@@ -1431,25 +1431,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 96713,
+          "confirmed": 98903,
           "date": "2021-02-02",
-          "deaths": 1279,
+          "deaths": 1377,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 137344,
+          "confirmed": 138869,
           "date": "2021-02-02",
-          "deaths": 3714,
+          "deaths": 3737,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 96631,
+          "confirmed": 98915,
           "date": "2021-02-02",
-          "deaths": 1813,
+          "deaths": 1846,
           "recovered": 0
         }
       }
@@ -1457,9 +1457,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 525095,
+      "confirmed": 526728,
       "date": "2021-02-02",
-      "deaths": 9452,
+      "deaths": 9471,
       "recovered": 317600
     }
   },
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 159443,
+      "confirmed": 159956,
       "date": "2021-02-02",
-      "deaths": 1840,
-      "recovered": 149621
+      "deaths": 1849,
+      "recovered": 150123
     }
   }
 }
