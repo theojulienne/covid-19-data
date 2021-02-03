@@ -509,18 +509,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 138861,
+      "confirmed": 139408,
       "date": "2021-02-03",
-      "deaths": 2116,
-      "recovered": 123806
+      "deaths": 2122,
+      "recovered": 123988
     }
   },
   "France": {
     "live": {
-      "confirmed": 3213360,
+      "confirmed": 3239256,
       "date": "2021-02-03",
-      "deaths": 76852,
-      "recovered": 202069
+      "deaths": 77209,
+      "recovered": 203645
     }
   },
   "Georgia": {
@@ -837,9 +837,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 198424,
+      "confirmed": 199430,
       "date": "2021-02-03",
-      "deaths": 3418,
+      "deaths": 3512,
       "recovered": 23364
     }
   },
@@ -1507,9 +1507,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 946750,
+          "confirmed": 949937,
           "date": "2021-02-03",
-          "deaths": 12430,
+          "deaths": 12519,
           "recovered": 0
         }
       },
@@ -1571,17 +1571,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 215469,
+          "confirmed": 216121,
           "date": "2021-02-03",
-          "deaths": 3313,
+          "deaths": 3351,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 941169,
+          "confirmed": 942582,
           "date": "2021-02-03",
-          "deaths": 33165,
+          "deaths": 33198,
           "recovered": 0
         }
       },
@@ -1595,25 +1595,25 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 195011,
+          "confirmed": 195677,
           "date": "2021-02-03",
-          "deaths": 1917,
+          "deaths": 1922,
           "recovered": 0
         }
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 75542,
+          "confirmed": 75891,
           "date": "2021-02-03",
-          "deaths": 589,
+          "deaths": 595,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 180958,
+          "confirmed": 181263,
           "date": "2021-02-03",
-          "deaths": 4455,
+          "deaths": 4466,
           "recovered": 0
         }
       },
