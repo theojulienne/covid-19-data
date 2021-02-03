@@ -186,7 +186,7 @@
           "confirmed": 296542,
           "date": "2021-02-03",
           "deaths": 5912,
-          "recovered": 278985
+          "recovered": 280375
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 218475,
           "date": "2021-02-03",
           "deaths": 5098,
-          "recovered": 205691
+          "recovered": 207275
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 331163,
           "date": "2021-02-03",
           "deaths": 7669,
-          "recovered": 311971
+          "recovered": 313763
         }
       },
       "Paraiba": {
@@ -314,7 +314,7 @@
           "confirmed": 581352,
           "date": "2021-02-03",
           "deaths": 6416,
-          "recovered": 559697
+          "recovered": 562226
         }
       },
       "Sao Paulo": {
@@ -453,10 +453,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 195009,
+      "confirmed": 195537,
       "date": "2021-02-03",
-      "deaths": 2641,
-      "recovered": 154227
+      "deaths": 2650,
+      "recovered": 155045
     }
   },
   "Croatia": {
@@ -625,9 +625,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 148951,
+      "confirmed": 149790,
       "date": "2021-02-03",
-      "deaths": 3614,
+      "deaths": 3638,
       "recovered": 60979
     }
   },
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 667216,
+      "confirmed": 668874,
       "date": "2021-02-03",
-      "deaths": 4928,
-      "recovered": 589058
+      "deaths": 4948,
+      "recovered": 589081
     }
   },
   "Italy": {
@@ -1465,10 +1465,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 211412,
+      "confirmed": 212679,
       "date": "2021-02-03",
-      "deaths": 6893,
-      "recovered": 165067
+      "deaths": 6980,
+      "recovered": 167699
     }
   },
   "Turkey": {
@@ -1635,9 +1635,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1241803,
+          "confirmed": 1242611,
           "date": "2021-02-03",
-          "deaths": 15284,
+          "deaths": 15437,
           "recovered": 0
         }
       },
