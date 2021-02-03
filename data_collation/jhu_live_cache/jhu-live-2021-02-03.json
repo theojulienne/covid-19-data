@@ -27,7 +27,7 @@
     "live": {
       "confirmed": 167421,
       "date": "2021-02-03",
-      "deaths": 3089,
+      "deaths": 3096,
       "recovered": 158693
     }
   },
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 230455,
+      "confirmed": 230617,
       "date": "2021-02-03",
-      "deaths": 3141,
-      "recovered": 223807
+      "deaths": 3145,
+      "recovered": 224168
     }
   },
   "Bahrain": {
@@ -829,10 +829,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 621755,
+      "confirmed": 623072,
       "date": "2021-02-03",
-      "deaths": 13068,
-      "recovered": 594594
+      "deaths": 13079,
+      "recovered": 595869
     }
   },
   "Ireland": {
@@ -1099,49 +1099,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 112398,
+          "confirmed": 112883,
           "date": "2021-02-03",
-          "deaths": 1655,
+          "deaths": 1657,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 154216,
+          "confirmed": 154956,
           "date": "2021-02-03",
-          "deaths": 2682,
+          "deaths": 2690,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 166143,
+          "confirmed": 166842,
           "date": "2021-02-03",
-          "deaths": 2022,
+          "deaths": 2028,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 70229,
+          "confirmed": 70501,
           "date": "2021-02-03",
-          "deaths": 955,
+          "deaths": 965,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 79171,
+          "confirmed": 79410,
           "date": "2021-02-03",
-          "deaths": 1027,
+          "deaths": 1031,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 236286,
+          "confirmed": 236905,
           "date": "2021-02-03",
-          "deaths": 3417,
+          "deaths": 3434,
           "recovered": 0
         }
       }
@@ -1211,9 +1211,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 512537,
+          "confirmed": 516436,
           "date": "2021-02-03",
-          "deaths": 18058,
+          "deaths": 18135,
           "recovered": 0
         }
       }
@@ -1313,9 +1313,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 398905,
+      "confirmed": 400837,
       "date": "2021-02-03",
-      "deaths": 4056,
+      "deaths": 4071,
       "recovered": 0
     }
   },
