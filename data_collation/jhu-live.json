@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 536107,
+      "confirmed": 536545,
       "date": "2021-02-03",
-      "deaths": 8149,
-      "recovered": 480728
+      "deaths": 8162,
+      "recovered": 481306
     }
   },
   "Belarus": {
@@ -813,10 +813,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1099687,
+      "confirmed": 1111671,
       "date": "2021-02-03",
-      "deaths": 30581,
-      "recovered": 896530
+      "deaths": 30770,
+      "recovered": 905665
     }
   },
   "Iran": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 663665,
+      "confirmed": 664651,
       "date": "2021-02-03",
-      "deaths": 4888,
-      "recovered": 584840
+      "deaths": 4890,
+      "recovered": 585831
     }
   },
   "Italy": {
@@ -942,7 +942,7 @@
           "confirmed": 101534,
           "date": "2021-02-03",
           "deaths": 914,
-          "recovered": 87621
+          "recovered": 89108
         }
       }
     }
@@ -1005,10 +1005,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 120434,
+      "confirmed": 121243,
       "date": "2021-02-03",
-      "deaths": 1896,
-      "recovered": 100593
+      "deaths": 1914,
+      "recovered": 101348
     }
   },
   "Lithuania": {
@@ -1165,10 +1165,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 134685,
+      "confirmed": 134856,
       "date": "2021-02-03",
       "deaths": 1532,
-      "recovered": 127054
+      "recovered": 127169
     }
   },
   "Pakistan": {
@@ -1229,10 +1229,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1520215,
+      "confirmed": 1527016,
       "date": "2021-02-03",
-      "deaths": 37476,
-      "recovered": 1281396
+      "deaths": 37897,
+      "recovered": 1283698
     }
   },
   "Portugal": {
@@ -1321,10 +1321,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 252094,
+      "confirmed": 254826,
       "date": "2021-02-03",
-      "deaths": 4784,
-      "recovered": 222642
+      "deaths": 4889,
+      "recovered": 226471
     }
   },
   "Slovenia": {
