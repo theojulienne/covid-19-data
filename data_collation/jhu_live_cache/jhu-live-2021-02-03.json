@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 659978,
+      "confirmed": 663665,
       "date": "2021-02-03",
-      "deaths": 4887,
-      "recovered": 582199
+      "deaths": 4888,
+      "recovered": 584840
     }
   },
   "Italy": {
@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 84646,
+      "confirmed": 84762,
       "date": "2021-02-03",
-      "deaths": 1414,
-      "recovered": 81102
+      "deaths": 1415,
+      "recovered": 81232
     }
   },
   "Lebanon": {
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2683697,
+          "confirmed": 2683993,
           "date": "2021-02-03",
-          "deaths": 34056,
+          "deaths": 34117,
           "recovered": 0
         }
       },
@@ -1757,10 +1757,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78801,
+      "confirmed": 78859,
       "date": "2021-02-03",
       "deaths": 621,
-      "recovered": 77286
+      "recovered": 77333
     }
   },
   "Venezuela": {
