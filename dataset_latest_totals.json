@@ -1139,19 +1139,19 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 205162,
-        "deaths": 2545,
-        "recovered": 148922
+        "confirmed": 206305,
+        "deaths": 2564,
+        "recovered": 149812
       },
       "back_2week": {
-        "confirmed": 194966,
-        "deaths": 2448,
-        "recovered": 144208
+        "confirmed": 196591,
+        "deaths": 2461,
+        "recovered": 145115
       },
       "latest": {
-        "confirmed": 215086,
-        "deaths": 2688,
-        "recovered": 158775
+        "confirmed": 215920,
+        "deaths": 2704,
+        "recovered": 159606
       }
     },
     "DZA": {

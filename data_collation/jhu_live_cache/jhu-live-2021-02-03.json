@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 344391,
+          "confirmed": 344925,
           "date": "2021-02-03",
-          "deaths": 11390,
-          "recovered": 327947
+          "deaths": 11407,
+          "recovered": 328805
         }
       }
     }
@@ -485,10 +485,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 215920,
+      "confirmed": 217277,
       "date": "2021-02-03",
-      "deaths": 2704,
-      "recovered": 159606
+      "deaths": 2719,
+      "recovered": 160364
     }
   },
   "Ecuador": {
@@ -1635,7 +1635,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1239745,
+          "confirmed": 1240178,
           "date": "2021-02-03",
           "deaths": 15270,
           "recovered": 0
