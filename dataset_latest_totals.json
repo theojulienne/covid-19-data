@@ -401,19 +401,19 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 120143,
-        "deaths": 4593,
-        "recovered": 92605
+        "confirmed": 120532,
+        "deaths": 4621,
+        "recovered": 93332
       },
       "back_2week": {
-        "confirmed": 118083,
-        "deaths": 4486,
-        "recovered": 86505
+        "confirmed": 118383,
+        "deaths": 4509,
+        "recovered": 88071
       },
       "latest": {
-        "confirmed": 122199,
-        "deaths": 4724,
-        "recovered": 95180
+        "confirmed": 122461,
+        "deaths": 4737,
+        "recovered": 95569
       }
     },
     "BLR": {
@@ -1996,19 +1996,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 161777,
-        "deaths": 954,
-        "recovered": 154766
+        "confirmed": 162282,
+        "deaths": 957,
+        "recovered": 155303
       },
       "back_2week": {
-        "confirmed": 158244,
-        "deaths": 948,
-        "recovered": 151496
+        "confirmed": 158822,
+        "deaths": 950,
+        "recovered": 151936
       },
       "latest": {
-        "confirmed": 165843,
-        "deaths": 959,
-        "recovered": 158476
+        "confirmed": 166654,
+        "deaths": 960,
+        "recovered": 158986
       }
     },
     "LAO": {
@@ -2834,19 +2834,19 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 712561,
-        "deaths": 17841,
-        "recovered": 654875
+        "confirmed": 715438,
+        "deaths": 17938,
+        "recovered": 658595
       },
       "back_2week": {
-        "confirmed": 695153,
-        "deaths": 17271,
-        "recovered": 625449
+        "confirmed": 697898,
+        "deaths": 17369,
+        "recovered": 630236
       },
       "latest": {
-        "confirmed": 730056,
-        "deaths": 18402,
-        "recovered": 675767
+        "confirmed": 732732,
+        "deaths": 18513,
+        "recovered": 678473
       }
     },
     "RUS": {

@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 122461,
+      "confirmed": 122828,
       "date": "2021-02-03",
-      "deaths": 4737,
-      "recovered": 95569
+      "deaths": 4745,
+      "recovered": 96096
     }
   },
   "Brazil": {
@@ -941,7 +941,7 @@
         "live": {
           "confirmed": 101534,
           "date": "2021-02-03",
-          "deaths": 914,
+          "deaths": 946,
           "recovered": 89108
         }
       }
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 166654,
+      "confirmed": 167410,
       "date": "2021-02-03",
-      "deaths": 960,
-      "recovered": 158986
+      "deaths": 961,
+      "recovered": 159543
     }
   },
   "Kyrgyzstan": {
@@ -1253,10 +1253,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 732732,
+      "confirmed": 735484,
       "date": "2021-02-03",
-      "deaths": 18513,
-      "recovered": 678473
+      "deaths": 18600,
+      "recovered": 681271
     }
   },
   "Russia": {
