@@ -226,7 +226,7 @@
           "confirmed": 740972,
           "date": "2021-02-03",
           "deaths": 15126,
-          "recovered": 664226
+          "recovered": 670590
         }
       },
       "Para": {
@@ -330,7 +330,7 @@
           "confirmed": 138611,
           "date": "2021-02-03",
           "deaths": 2794,
-          "recovered": 122806
+          "recovered": 123220
         }
       },
       "Tocantins": {
@@ -1483,17 +1483,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 579346,
+          "confirmed": 581066,
           "date": "2021-02-03",
-          "deaths": 9354,
+          "deaths": 9503,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2685045,
+          "confirmed": 2686740,
           "date": "2021-02-03",
-          "deaths": 34171,
+          "deaths": 34198,
           "recovered": 0
         }
       },
@@ -1515,9 +1515,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 162187,
+          "confirmed": 163140,
           "date": "2021-02-03",
-          "deaths": 1740,
+          "deaths": 1764,
           "recovered": 0
         }
       },
@@ -1627,25 +1627,25 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 156570,
+          "confirmed": 156995,
           "date": "2021-02-03",
-          "deaths": 2030,
+          "deaths": 2057,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1240178,
+          "confirmed": 1241803,
           "date": "2021-02-03",
-          "deaths": 15270,
+          "deaths": 15284,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 215567,
+          "confirmed": 216450,
           "date": "2021-02-03",
-          "deaths": 978,
+          "deaths": 984,
           "recovered": 0
         }
       },
@@ -1659,7 +1659,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 103672,
+          "confirmed": 103941,
           "date": "2021-02-03",
           "deaths": 1181,
           "recovered": 0
