@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 275533,
+          "confirmed": 275638,
           "date": "2021-02-03",
-          "deaths": 6261,
-          "recovered": 252553
+          "deaths": 6266,
+          "recovered": 252606
         }
       },
       "Quebec": {
@@ -382,7 +382,7 @@
           "confirmed": 264526,
           "date": "2021-02-03",
           "deaths": 9862,
-          "recovered": 240083
+          "recovered": 241537
         }
       }
     }
@@ -1031,41 +1031,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 482472,
+          "confirmed": 483608,
           "date": "2021-02-03",
-          "deaths": 22601,
+          "deaths": 22667,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 107803,
+          "confirmed": 108179,
           "date": "2021-02-03",
-          "deaths": 7389,
+          "deaths": 7442,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 70362,
+          "confirmed": 70563,
           "date": "2021-02-03",
-          "deaths": 8571,
+          "deaths": 8604,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 192396,
+          "confirmed": 192800,
           "date": "2021-02-03",
-          "deaths": 24494,
+          "deaths": 24566,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 107137,
+          "confirmed": 107302,
           "date": "2021-02-03",
-          "deaths": 6740,
+          "deaths": 6759,
           "recovered": 0
         }
       }
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2682789,
+          "confirmed": 2683697,
           "date": "2021-02-03",
-          "deaths": 34041,
+          "deaths": 34056,
           "recovered": 0
         }
       },
