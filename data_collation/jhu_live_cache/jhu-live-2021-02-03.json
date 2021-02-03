@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 88771,
+          "confirmed": 88993,
           "date": "2021-02-03",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 88335,
+          "confirmed": 88527,
           "date": "2021-02-03",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 73863,
+          "confirmed": 74098,
           "date": "2021-02-03",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 109479,
+          "confirmed": 109640,
           "date": "2021-02-03",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 101664,
+          "confirmed": 101838,
           "date": "2021-02-03",
           "deaths": 0,
           "recovered": 0
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 237029,
+      "confirmed": 238257,
       "date": "2021-02-03",
       "deaths": 3046,
-      "recovered": 205991
+      "recovered": 207127
     }
   },
   "Kenya": {
@@ -1178,7 +1178,7 @@
           "confirmed": 158220,
           "date": "2021-02-03",
           "deaths": 4793,
-          "recovered": 143652
+          "recovered": 144208
         }
       },
       "Sindh": {
@@ -1186,17 +1186,17 @@
           "confirmed": 247727,
           "date": "2021-02-03",
           "deaths": 4004,
-          "recovered": 224983
+          "recovered": 225297
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 321103,
+      "confirmed": 322201,
       "date": "2021-02-03",
-      "deaths": 5296,
-      "recovered": 278442
+      "deaths": 5339,
+      "recovered": 280827
     }
   },
   "Paraguay": {
