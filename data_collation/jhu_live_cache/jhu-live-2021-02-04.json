@@ -382,7 +382,7 @@
           "confirmed": 265579,
           "date": "2021-02-04",
           "deaths": 9899,
-          "recovered": 241537
+          "recovered": 242692
         }
       }
     }
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2688614,
+          "confirmed": 2693142,
           "date": "2021-02-04",
-          "deaths": 34292,
+          "deaths": 34563,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 78678,
+          "confirmed": 79061,
           "date": "2021-02-04",
-          "deaths": 1250,
+          "deaths": 1264,
           "recovered": 0
         }
       },
