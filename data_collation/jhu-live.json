@@ -477,10 +477,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 199782,
+      "confirmed": 200335,
       "date": "2021-02-04",
-      "deaths": 2170,
-      "recovered": 189770
+      "deaths": 2184,
+      "recovered": 190549
     }
   },
   "Dominican Republic": {
@@ -575,9 +575,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 144638,
+          "confirmed": 145605,
           "date": "2021-02-04",
-          "deaths": 3412,
+          "deaths": 3461,
           "recovered": 130244
         }
       },
@@ -821,10 +821,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1438286,
+      "confirmed": 1445326,
       "date": "2021-02-04",
-      "deaths": 58189,
-      "recovered": 1229391
+      "deaths": 58256,
+      "recovered": 1235581
     }
   },
   "Iraq": {
@@ -1305,10 +1305,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 368945,
+      "confirmed": 369248,
       "date": "2021-02-04",
-      "deaths": 6386,
-      "recovered": 360400
+      "deaths": 6389,
+      "recovered": 360697
     }
   },
   "Serbia": {
@@ -1431,15 +1431,15 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 99497,
+          "confirmed": 100300,
           "date": "2021-02-04",
-          "deaths": 1413,
+          "deaths": 1414,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 139700,
+          "confirmed": 140199,
           "date": "2021-02-04",
           "deaths": 3731,
           "recovered": 0
@@ -1447,9 +1447,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 99745,
+          "confirmed": 100424,
           "date": "2021-02-04",
-          "deaths": 1864,
+          "deaths": 1913,
           "recovered": 0
         }
       }
@@ -1457,9 +1457,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 528524,
+      "confirmed": 530289,
       "date": "2021-02-04",
-      "deaths": 9530,
+      "deaths": 9539,
       "recovered": 317600
     }
   },
