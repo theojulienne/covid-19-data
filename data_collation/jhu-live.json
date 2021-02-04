@@ -258,7 +258,7 @@
           "confirmed": 265349,
           "date": "2021-02-04",
           "deaths": 10399,
-          "recovered": 224393
+          "recovered": 225556
         }
       },
       "Piaui": {
@@ -517,9 +517,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 3239256,
+      "confirmed": 3239223,
       "date": "2021-02-04",
-      "deaths": 77209,
+      "deaths": 77207,
       "recovered": 203645
     }
   },
@@ -562,7 +562,7 @@
           "confirmed": 69805,
           "date": "2021-02-04",
           "deaths": 2507,
-          "recovered": 59031
+          "recovered": 59416
         }
       },
       "Hessen": {
@@ -829,10 +829,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 623072,
+      "confirmed": 624222,
       "date": "2021-02-04",
-      "deaths": 13079,
-      "recovered": 595869
+      "deaths": 13091,
+      "recovered": 596959
     }
   },
   "Ireland": {
@@ -1253,10 +1253,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 735484,
+      "confirmed": 738152,
       "date": "2021-02-04",
-      "deaths": 18600,
-      "recovered": 681271
+      "deaths": 18675,
+      "recovered": 684095
     }
   },
   "Russia": {
