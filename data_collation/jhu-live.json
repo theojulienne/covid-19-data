@@ -989,10 +989,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 84762,
+      "confirmed": 84832,
       "date": "2021-02-04",
-      "deaths": 1415,
-      "recovered": 81232
+      "deaths": 1418,
+      "recovered": 81334
     }
   },
   "Lebanon": {
