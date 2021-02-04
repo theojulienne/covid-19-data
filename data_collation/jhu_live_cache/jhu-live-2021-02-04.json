@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 671459,
+      "confirmed": 672324,
       "date": "2021-02-04",
-      "deaths": 4947,
-      "recovered": 589386
+      "deaths": 4975,
+      "recovered": 589387
     }
   },
   "Italy": {
@@ -942,7 +942,7 @@
           "confirmed": 102268,
           "date": "2021-02-04",
           "deaths": 946,
-          "recovered": 89108
+          "recovered": 90663
         }
       }
     }
@@ -1321,10 +1321,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 254826,
+      "confirmed": 256903,
       "date": "2021-02-04",
-      "deaths": 4889,
-      "recovered": 226471
+      "deaths": 4976,
+      "recovered": 230456
     }
   },
   "Slovenia": {
