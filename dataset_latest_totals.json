@@ -1258,19 +1258,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 134569,
-        "deaths": 2075,
-        "recovered": 120748
+        "confirmed": 135045,
+        "deaths": 2083,
+        "recovered": 121594
       },
       "back_2week": {
-        "confirmed": 131727,
-        "deaths": 2037,
-        "recovered": 116392
+        "confirmed": 132034,
+        "deaths": 2044,
+        "recovered": 117353
       },
       "latest": {
-        "confirmed": 138861,
-        "deaths": 2116,
-        "recovered": 123806
+        "confirmed": 139408,
+        "deaths": 2122,
+        "recovered": 123988
       }
     },
     "FIN": {
@@ -1758,18 +1758,18 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 189851,
-        "deaths": 3066,
+        "confirmed": 191182,
+        "deaths": 3120,
         "recovered": 23364
       },
       "back_2week": {
-        "confirmed": 176839,
-        "deaths": 2708,
+        "confirmed": 179324,
+        "deaths": 2768,
         "recovered": 23364
       },
       "latest": {
-        "confirmed": 198424,
-        "deaths": 3418,
+        "confirmed": 199430,
+        "deaths": 3512,
         "recovered": 23364
       }
     },
