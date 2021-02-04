@@ -493,9 +493,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 252390,
+      "confirmed": 253339,
       "date": "2021-02-04",
-      "deaths": 14949,
+      "deaths": 14968,
       "recovered": 209814
     }
   },
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 160966,
+      "confirmed": 161665,
       "date": "2021-02-04",
-      "deaths": 5736,
-      "recovered": 146715
+      "deaths": 5785,
+      "recovered": 147486
     }
   },
   "Honduras": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 672324,
+      "confirmed": 674453,
       "date": "2021-02-04",
-      "deaths": 4975,
-      "recovered": 589387
+      "deaths": 4993,
+      "recovered": 589478
     }
   },
   "Italy": {
@@ -1081,10 +1081,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 473047,
+      "confirmed": 473667,
       "date": "2021-02-04",
-      "deaths": 8323,
-      "recovered": 451780
+      "deaths": 8351,
+      "recovered": 452522
     }
   },
   "Nepal": {
@@ -1459,7 +1459,7 @@
     "live": {
       "confirmed": 530289,
       "date": "2021-02-04",
-      "deaths": 9539,
+      "deaths": 9552,
       "recovered": 317600
     }
   },
@@ -1523,9 +1523,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 529089,
+          "confirmed": 530452,
           "date": "2021-02-04",
-          "deaths": 10041,
+          "deaths": 10065,
           "recovered": 0
         }
       },
@@ -1573,15 +1573,15 @@
         "live": {
           "confirmed": 216121,
           "date": "2021-02-04",
-          "deaths": 3351,
+          "deaths": 3398,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 944191,
+          "confirmed": 946554,
           "date": "2021-02-04",
-          "deaths": 33227,
+          "deaths": 33302,
           "recovered": 0
         }
       },
@@ -1603,9 +1603,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 75891,
+          "confirmed": 76213,
           "date": "2021-02-04",
-          "deaths": 595,
+          "deaths": 599,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 216450,
+          "confirmed": 217166,
           "date": "2021-02-04",
-          "deaths": 984,
+          "deaths": 991,
           "recovered": 0
         }
       },
