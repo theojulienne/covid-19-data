@@ -382,7 +382,7 @@
           "confirmed": 266672,
           "date": "2021-02-05",
           "deaths": 9941,
-          "recovered": 242692
+          "recovered": 243769
         }
       }
     }
@@ -403,50 +403,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 328612,
+          "confirmed": 329407,
           "date": "2021-02-05",
-          "deaths": 6031,
-          "recovered": 312487
+          "deaths": 6063,
+          "recovered": 313628
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 116162,
+          "confirmed": 116619,
           "date": "2021-02-05",
-          "deaths": 3859,
-          "recovered": 110005
+          "deaths": 3866,
+          "recovered": 110343
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 622916,
+          "confirmed": 626180,
           "date": "2021-02-05",
-          "deaths": 12841,
-          "recovered": 577566
+          "deaths": 12896,
+          "recovered": 582932
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 97308,
+          "confirmed": 98046,
           "date": "2021-02-05",
-          "deaths": 2512,
-          "recovered": 91008
+          "deaths": 2536,
+          "recovered": 91746
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 84616,
+          "confirmed": 85156,
           "date": "2021-02-05",
-          "deaths": 2990,
-          "recovered": 78265
+          "deaths": 2999,
+          "recovered": 78467
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 179283,
+          "confirmed": 180679,
           "date": "2021-02-05",
-          "deaths": 5569,
-          "recovered": 165947
+          "deaths": 5601,
+          "recovered": 167159
         }
       }
     }
@@ -1193,10 +1193,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 323382,
+      "confirmed": 324489,
       "date": "2021-02-05",
-      "deaths": 5366,
-      "recovered": 283298
+      "deaths": 5391,
+      "recovered": 285490
     }
   },
   "Paraguay": {
@@ -1211,9 +1211,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 516436,
+          "confirmed": 520911,
           "date": "2021-02-05",
-          "deaths": 18135,
+          "deaths": 18207,
           "recovered": 0
         }
       }
@@ -1651,9 +1651,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 79061,
+          "confirmed": 79340,
           "date": "2021-02-05",
-          "deaths": 1264,
+          "deaths": 1268,
           "recovered": 0
         }
       },
