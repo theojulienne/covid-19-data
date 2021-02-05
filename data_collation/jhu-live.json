@@ -942,7 +942,7 @@
           "confirmed": 102845,
           "date": "2021-02-05",
           "deaths": 971,
-          "recovered": 90663
+          "recovered": 92110
         }
       }
     }
@@ -1221,10 +1221,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 531699,
+      "confirmed": 533587,
       "date": "2021-02-05",
-      "deaths": 10997,
-      "recovered": 487927
+      "deaths": 11058,
+      "recovered": 488274
     }
   },
   "Poland": {
@@ -1321,10 +1321,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 256903,
+      "confirmed": 259533,
       "date": "2021-02-05",
-      "deaths": 4976,
-      "recovered": 230456
+      "deaths": 5050,
+      "recovered": 234371
     }
   },
   "Slovenia": {
