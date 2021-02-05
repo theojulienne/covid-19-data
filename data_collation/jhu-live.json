@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 230769,
+      "confirmed": 230907,
       "date": "2021-02-05",
-      "deaths": 3148,
-      "recovered": 224431
+      "deaths": 3153,
+      "recovered": 224760
     }
   },
   "Bahrain": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 345608,
+          "confirmed": 346283,
           "date": "2021-02-05",
-          "deaths": 11431,
-          "recovered": 329497
+          "deaths": 11447,
+          "recovered": 330077
         }
       }
     }
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 679149,
+      "confirmed": 680856,
       "date": "2021-02-05",
-      "deaths": 5019,
-      "recovered": 589839
+      "deaths": 5020,
+      "recovered": 590822
     }
   },
   "Italy": {
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 101339,
+      "confirmed": 101534,
       "date": "2021-02-05",
-      "deaths": 1773,
-      "recovered": 84143
+      "deaths": 1776,
+      "recovered": 84268
     }
   },
   "Korea, South": {
@@ -1321,9 +1321,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 402700,
+      "confirmed": 404668,
       "date": "2021-02-05",
-      "deaths": 4085,
+      "deaths": 4099,
       "recovered": 0
     }
   },
