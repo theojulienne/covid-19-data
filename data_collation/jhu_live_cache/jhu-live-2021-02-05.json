@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 419801,
+      "confirmed": 421189,
       "date": "2021-02-05",
-      "deaths": 7936,
-      "recovered": 397910
+      "deaths": 7973,
+      "recovered": 399329
     }
   },
   "Azerbaijan": {
@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3238798,
+      "confirmed": 3238752,
       "date": "2021-02-05",
-      "deaths": 77205,
-      "recovered": 203645
+      "deaths": 77561,
+      "recovered": 205148
     }
   },
   "Georgia": {
@@ -562,7 +562,7 @@
           "confirmed": 70233,
           "date": "2021-02-05",
           "deaths": 2539,
-          "recovered": 59742
+          "recovered": 60117
         }
       },
       "Hessen": {
@@ -575,9 +575,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 146205,
+          "confirmed": 146547,
           "date": "2021-02-05",
-          "deaths": 3509,
+          "deaths": 3516,
           "recovered": 131277
         }
       },
@@ -821,10 +821,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1445326,
+      "confirmed": 1452380,
       "date": "2021-02-05",
-      "deaths": 58256,
-      "recovered": 1235581
+      "deaths": 58336,
+      "recovered": 1241320
     }
   },
   "Iraq": {
@@ -941,7 +941,7 @@
         "live": {
           "confirmed": 102845,
           "date": "2021-02-05",
-          "deaths": 971,
+          "deaths": 993,
           "recovered": 92110
         }
       }
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 738152,
+      "confirmed": 740732,
       "date": "2021-02-05",
-      "deaths": 18675,
-      "recovered": 684095
+      "deaths": 18748,
+      "recovered": 686692
     }
   },
   "Russia": {
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1254898,
+          "confirmed": 1255441,
           "date": "2021-02-05",
           "deaths": 15605,
           "recovered": 0
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 161087,
+      "confirmed": 161559,
       "date": "2021-02-05",
-      "deaths": 1865,
-      "recovered": 151082
+      "deaths": 1867,
+      "recovered": 151690
     }
   }
 }
