@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 537030,
+      "confirmed": 537465,
       "date": "2021-02-05",
-      "deaths": 8175,
-      "recovered": 481917
+      "deaths": 8182,
+      "recovered": 482424
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 253413,
+      "confirmed": 255172,
       "date": "2021-02-05",
-      "deaths": 1755,
-      "recovered": 241150
+      "deaths": 1764,
+      "recovered": 243144
     }
   },
   "Belgium": {
@@ -1029,10 +1029,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 231483,
+      "confirmed": 234874,
       "date": "2021-02-05",
-      "deaths": 826,
-      "recovered": 181886
+      "deaths": 845,
+      "recovered": 185278
     }
   },
   "Mexico": {
@@ -1097,10 +1097,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 271602,
+      "confirmed": 271707,
       "date": "2021-02-05",
-      "deaths": 2033,
-      "recovered": 267292
+      "deaths": 2035,
+      "recovered": 267564
     }
   },
   "Netherlands": {
@@ -1337,10 +1337,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 171340,
+      "confirmed": 172299,
       "date": "2021-02-05",
-      "deaths": 3580,
-      "recovered": 150860
+      "deaths": 3595,
+      "recovered": 152290
     }
   },
   "South Africa": {
@@ -1713,10 +1713,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 316875,
+      "confirmed": 320126,
       "date": "2021-02-05",
-      "deaths": 888,
-      "recovered": 293180
+      "deaths": 902,
+      "recovered": 297040
     }
   },
   "United Kingdom": {
