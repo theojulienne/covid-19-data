@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 105496,
+      "confirmed": 106198,
       "date": "2021-02-05",
       "deaths": 377,
-      "recovered": 99939
+      "recovered": 100363
     }
   },
   "Bangladesh": {
@@ -186,7 +186,7 @@
           "confirmed": 299076,
           "date": "2021-02-05",
           "deaths": 5949,
-          "recovered": 281547
+          "recovered": 283076
         }
       },
       "Goias": {
@@ -290,7 +290,7 @@
           "confirmed": 532377,
           "date": "2021-02-05",
           "deaths": 30354,
-          "recovered": 497239
+          "recovered": 499782
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 278304,
+          "confirmed": 279952,
           "date": "2021-02-05",
-          "deaths": 6365,
-          "recovered": 255181
+          "deaths": 6431,
+          "recovered": 256563
         }
       },
       "Quebec": {
@@ -453,10 +453,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 195992,
+      "confirmed": 196438,
       "date": "2021-02-05",
-      "deaths": 2662,
-      "recovered": 155581
+      "deaths": 2672,
+      "recovered": 156181
     }
   },
   "Croatia": {
@@ -1499,17 +1499,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2707776,
+          "confirmed": 2708881,
           "date": "2021-02-05",
-          "deaths": 35228,
+          "deaths": 35267,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 74033,
+          "confirmed": 74404,
           "date": "2021-02-05",
-          "deaths": 1946,
+          "deaths": 1947,
           "recovered": 0
         }
       },
