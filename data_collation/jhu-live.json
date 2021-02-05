@@ -1031,41 +1031,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 488328,
+          "confirmed": 493069,
           "date": "2021-02-05",
-          "deaths": 22916,
+          "deaths": 23229,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 108483,
+          "confirmed": 109222,
           "date": "2021-02-05",
-          "deaths": 7577,
+          "deaths": 7663,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 70974,
+          "confirmed": 71399,
           "date": "2021-02-05",
-          "deaths": 8728,
+          "deaths": 8850,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 194299,
+          "confirmed": 195897,
           "date": "2021-02-05",
-          "deaths": 24881,
+          "deaths": 25124,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 107867,
+          "confirmed": 108477,
           "date": "2021-02-05",
-          "deaths": 6884,
+          "deaths": 6950,
           "recovered": 0
         }
       }
@@ -1757,10 +1757,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 78916,
+      "confirmed": 78989,
       "date": "2021-02-05",
       "deaths": 621,
-      "recovered": 77368
+      "recovered": 77443
     }
   },
   "Venezuela": {
