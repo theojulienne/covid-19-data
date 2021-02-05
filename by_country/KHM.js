@@ -763,9 +763,11 @@ var covid19_dataset_country_khm = {
       466,
       466,
       466,
-      467
+      467,
+      470
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -1525,7 +1527,8 @@ var covid19_dataset_country_khm = {
       443,
       443,
       447,
-      451
+      451,
+      452
     ]
   }
 };
