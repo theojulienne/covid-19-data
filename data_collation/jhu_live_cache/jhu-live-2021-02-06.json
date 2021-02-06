@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 106198,
+      "confirmed": 106713,
       "date": "2021-02-06",
-      "deaths": 377,
-      "recovered": 100363
+      "deaths": 379,
+      "recovered": 100772
     }
   },
   "Bangladesh": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 685324,
+      "confirmed": 685583,
       "date": "2021-02-06",
-      "deaths": 5057,
-      "recovered": 608402
+      "deaths": 5071,
+      "recovered": 609144
     }
   },
   "Italy": {
@@ -1473,10 +1473,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 215112,
+      "confirmed": 216176,
       "date": "2021-02-06",
-      "deaths": 7099,
-      "recovered": 171143
+      "deaths": 7162,
+      "recovered": 172885
     }
   },
   "Turkey": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2721247,
+          "confirmed": 2722026,
           "date": "2021-02-06",
-          "deaths": 35659,
+          "deaths": 35692,
           "recovered": 0
         }
       },
