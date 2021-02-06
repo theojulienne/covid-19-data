@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 279952,
+          "confirmed": 280088,
           "date": "2021-02-06",
-          "deaths": 6431,
-          "recovered": 256563
+          "deaths": 6435,
+          "recovered": 248518
         }
       },
       "Quebec": {
@@ -1186,7 +1186,7 @@
           "confirmed": 159705,
           "date": "2021-02-06",
           "deaths": 4840,
-          "recovered": 145681
+          "recovered": 146235
         }
       },
       "Sindh": {
@@ -1194,7 +1194,7 @@
           "confirmed": 249498,
           "date": "2021-02-06",
           "deaths": 4059,
-          "recovered": 226414
+          "recovered": 226752
         }
       }
     }
