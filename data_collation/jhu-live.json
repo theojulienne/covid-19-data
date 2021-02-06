@@ -939,7 +939,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 102845,
+          "confirmed": 103484,
           "date": "2021-02-06",
           "deaths": 993,
           "recovered": 92110
@@ -1013,10 +1013,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 185601,
+      "confirmed": 186278,
       "date": "2021-02-06",
-      "deaths": 2908,
-      "recovered": 135406
+      "deaths": 2927,
+      "recovered": 138013
     }
   },
   "Malaysia": {
@@ -1221,10 +1221,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 533587,
+      "confirmed": 535521,
       "date": "2021-02-06",
-      "deaths": 11058,
-      "recovered": 488274
+      "deaths": 11110,
+      "recovered": 488465
     }
   },
   "Poland": {
@@ -1263,42 +1263,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 939482,
+          "confirmed": 941696,
           "date": "2021-02-06",
-          "deaths": 13772,
-          "recovered": 839832
+          "deaths": 13832,
+          "recovered": 844165
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 197413,
+          "confirmed": 198368,
           "date": "2021-02-06",
-          "deaths": 3940,
-          "recovered": 158141
+          "deaths": 3971,
+          "recovered": 159153
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 86784,
+          "confirmed": 87256,
           "date": "2021-02-06",
-          "deaths": 2184,
-          "recovered": 78924
+          "deaths": 2198,
+          "recovered": 79361
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 342392,
+          "confirmed": 343640,
           "date": "2021-02-06",
-          "deaths": 9997,
-          "recovered": 243475
+          "deaths": 10042,
+          "recovered": 245947
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 72151,
+          "confirmed": 72474,
           "date": "2021-02-06",
-          "deaths": 2108,
-          "recovered": 64853
+          "deaths": 2121,
+          "recovered": 65197
         }
       }
     }
@@ -1491,9 +1491,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2716603,
+          "confirmed": 2720178,
           "date": "2021-02-06",
-          "deaths": 35583,
+          "deaths": 35659,
           "recovered": 0
         }
       },
