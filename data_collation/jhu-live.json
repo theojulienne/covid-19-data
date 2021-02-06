@@ -477,10 +477,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 200773,
+      "confirmed": 201186,
       "date": "2021-02-06",
-      "deaths": 2201,
-      "recovered": 191399
+      "deaths": 2215,
+      "recovered": 192104
     }
   },
   "Dominican Republic": {
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 95250,
+          "confirmed": 95414,
           "date": "2021-02-06",
-          "deaths": 2720,
+          "deaths": 2725,
           "recovered": 83171
         }
       },
@@ -1467,7 +1467,7 @@
     "live": {
       "confirmed": 531873,
       "date": "2021-02-06",
-      "deaths": 9584,
+      "deaths": 9603,
       "recovered": 317600
     }
   },
