@@ -837,9 +837,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 201763,
+      "confirmed": 202548,
       "date": "2021-02-06",
-      "deaths": 3621,
+      "deaths": 3674,
       "recovered": 23364
     }
   },
@@ -1005,10 +1005,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 315340,
+      "confirmed": 317836,
       "date": "2021-02-06",
-      "deaths": 3495,
-      "recovered": 194430
+      "deaths": 3562,
+      "recovered": 201137
     }
   },
   "Libya": {
@@ -1531,9 +1531,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 531999,
+          "confirmed": 533342,
           "date": "2021-02-06",
-          "deaths": 10100,
+          "deaths": 10124,
           "recovered": 0
         }
       },
@@ -1579,17 +1579,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 217521,
+          "confirmed": 218178,
           "date": "2021-02-06",
-          "deaths": 3430,
+          "deaths": 3453,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 951405,
+          "confirmed": 956647,
           "date": "2021-02-06",
-          "deaths": 33447,
+          "deaths": 33538,
           "recovered": 0
         }
       },
@@ -1611,15 +1611,15 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 76647,
+          "confirmed": 76932,
           "date": "2021-02-06",
-          "deaths": 606,
+          "deaths": 611,
           "recovered": 0
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 182563,
+          "confirmed": 182833,
           "date": "2021-02-06",
           "deaths": 4531,
           "recovered": 0
