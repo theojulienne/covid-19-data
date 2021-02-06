@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1970009,
+      "confirmed": 1976689,
       "date": "2021-02-06",
-      "deaths": 48985,
-      "recovered": 1763762
+      "deaths": 49110,
+      "recovered": 1772059
     }
   },
   "Armenia": {
@@ -186,7 +186,7 @@
           "confirmed": 300624,
           "date": "2021-02-06",
           "deaths": 5975,
-          "recovered": 283076
+          "recovered": 283465
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 359096,
           "date": "2021-02-06",
           "deaths": 7672,
-          "recovered": 344651
+          "recovered": 346341
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 222942,
           "date": "2021-02-06",
           "deaths": 5177,
-          "recovered": 208482
+          "recovered": 210705
         }
       },
       "Mato Grosso do Sul": {
@@ -226,7 +226,7 @@
           "confirmed": 762412,
           "date": "2021-02-06",
           "deaths": 15667,
-          "recovered": 685701
+          "recovered": 690116
         }
       },
       "Para": {
@@ -234,7 +234,7 @@
           "confirmed": 336453,
           "date": "2021-02-06",
           "deaths": 7717,
-          "recovered": 315277
+          "recovered": 317530
         }
       },
       "Paraiba": {
@@ -322,7 +322,7 @@
           "confirmed": 1833163,
           "date": "2021-02-06",
           "deaths": 54324,
-          "recovered": 1573945
+          "recovered": 1589680
         }
       },
       "Sergipe": {
@@ -617,10 +617,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 162295,
+      "confirmed": 162937,
       "date": "2021-02-06",
-      "deaths": 5816,
-      "recovered": 148133
+      "deaths": 5854,
+      "recovered": 148917
     }
   },
   "Honduras": {
@@ -1549,7 +1549,7 @@
         "live": {
           "confirmed": 255887,
           "date": "2021-02-06",
-          "deaths": 6784,
+          "deaths": 6809,
           "recovered": 0
         }
       },
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1262873,
+          "confirmed": 1263897,
           "date": "2021-02-06",
           "deaths": 15963,
           "recovered": 0
