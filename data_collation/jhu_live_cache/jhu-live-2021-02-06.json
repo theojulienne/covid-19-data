@@ -599,10 +599,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 183812,
+          "confirmed": 184283,
           "date": "2021-02-06",
-          "deaths": 6739,
-          "recovered": 166400
+          "deaths": 6753,
+          "recovered": 167250
         }
       }
     }
@@ -1313,17 +1313,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 369575,
+      "confirmed": 369961,
       "date": "2021-02-06",
-      "deaths": 6393,
-      "recovered": 360954
+      "deaths": 6397,
+      "recovered": 361237
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 404668,
+      "confirmed": 406352,
       "date": "2021-02-06",
-      "deaths": 4099,
+      "deaths": 4112,
       "recovered": 0
     }
   },
