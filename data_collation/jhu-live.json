@@ -1201,10 +1201,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 324489,
+      "confirmed": 325487,
       "date": "2021-02-06",
-      "deaths": 5391,
-      "recovered": 285490
+      "deaths": 5426,
+      "recovered": 287846
     }
   },
   "Paraguay": {
@@ -1501,7 +1501,7 @@
         "live": {
           "confirmed": 2710157,
           "date": "2021-02-06",
-          "deaths": 35296,
+          "deaths": 35278,
           "recovered": 0
         }
       },
