@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 255172,
+      "confirmed": 256959,
       "date": "2021-02-06",
-      "deaths": 1764,
-      "recovered": 243144
+      "deaths": 1773,
+      "recovered": 244941
     }
   },
   "Belgium": {
@@ -562,7 +562,7 @@
           "confirmed": 70656,
           "date": "2021-02-06",
           "deaths": 2622,
-          "recovered": 60188
+          "recovered": 60651
         }
       },
       "Hessen": {
@@ -829,10 +829,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 625756,
+      "confirmed": 627416,
       "date": "2021-02-06",
-      "deaths": 13103,
-      "recovered": 598147
+      "deaths": 13111,
+      "recovered": 599167
     }
   },
   "Ireland": {
@@ -995,6 +995,14 @@
       "recovered": 81542
     }
   },
+  "Latvia": {
+    "live": {
+      "confirmed": 71320,
+      "date": "2021-02-06",
+      "deaths": 1327,
+      "recovered": 59399
+    }
+  },
   "Lebanon": {
     "live": {
       "confirmed": 315340,
@@ -1089,10 +1097,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 271707,
+      "confirmed": 271806,
       "date": "2021-02-06",
       "deaths": 2035,
-      "recovered": 267564
+      "recovered": 267812
     }
   },
   "Netherlands": {
@@ -1253,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 740732,
+      "confirmed": 743343,
       "date": "2021-02-06",
-      "deaths": 18748,
-      "recovered": 686692
+      "deaths": 18809,
+      "recovered": 689474
     }
   },
   "Russia": {
@@ -1635,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1262102,
+          "confirmed": 1262514,
           "date": "2021-02-06",
           "deaths": 15828,
           "recovered": 0
@@ -1685,14 +1693,6 @@
           "recovered": 79141
         }
       },
-      "Kiev Oblast": {
-        "live": {
-          "confirmed": 70365,
-          "date": "2021-02-06",
-          "deaths": 1157,
-          "recovered": 59830
-        }
-      },
       "Lviv Oblast": {
         "live": {
           "confirmed": 72628,
@@ -1713,10 +1713,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 320126,
+      "confirmed": 323402,
       "date": "2021-02-06",
-      "deaths": 902,
-      "recovered": 297040
+      "deaths": 914,
+      "recovered": 301081
     }
   },
   "United Kingdom": {
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 161559,
+      "confirmed": 162029,
       "date": "2021-02-06",
-      "deaths": 1867,
-      "recovered": 151690
+      "deaths": 1870,
+      "recovered": 152120
     }
   }
 }

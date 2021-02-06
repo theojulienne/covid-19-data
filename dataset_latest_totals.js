@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 293052,
-        "deaths": 819,
-        "recovered": 267024
+        "confirmed": 297014,
+        "deaths": 826,
+        "recovered": 269999
       },
       "back_2week": {
-        "confirmed": 267258,
-        "deaths": 766,
-        "recovered": 239322
+        "confirmed": 270810,
+        "deaths": 776,
+        "recovered": 243267
       },
       "latest": {
-        "confirmed": 316875,
-        "deaths": 888,
-        "recovered": 293180
+        "confirmed": 320126,
+        "deaths": 902,
+        "recovered": 297040
       }
     },
     "ARG": {
@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 242851,
-        "deaths": 1688,
-        "recovered": 229199
+        "confirmed": 244718,
+        "deaths": 1698,
+        "recovered": 231399
       },
       "back_2week": {
-        "confirmed": 232298,
-        "deaths": 1619,
-        "recovered": 216744
+        "confirmed": 234111,
+        "deaths": 1628,
+        "recovered": 218831
       },
       "latest": {
-        "confirmed": 253413,
-        "deaths": 1755,
-        "recovered": 241150
+        "confirmed": 255172,
+        "deaths": 1764,
+        "recovered": 243144
       }
     },
     "BLZ": {
@@ -1792,19 +1792,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 617202,
-        "deaths": 13024,
-        "recovered": 588260
+        "confirmed": 618147,
+        "deaths": 13036,
+        "recovered": 589540
       },
       "back_2week": {
-        "confirmed": 611407,
-        "deaths": 12977,
-        "recovered": 576725
+        "confirmed": 612092,
+        "deaths": 12984,
+        "recovered": 578292
       },
       "latest": {
-        "confirmed": 624222,
-        "deaths": 13091,
-        "recovered": 596959
+        "confirmed": 625756,
+        "deaths": 13103,
+        "recovered": 598147
       }
     },
     "ISL": {
@@ -2183,19 +2183,19 @@ var covid19_dataset_latest_totals = {
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 63992,
-        "deaths": 1148,
-        "recovered": 52062
+        "confirmed": 64923,
+        "deaths": 1166,
+        "recovered": 53131
       },
       "back_2week": {
-        "confirmed": 58710,
-        "deaths": 1057,
-        "recovered": 42517
+        "confirmed": 59586,
+        "deaths": 1076,
+        "recovered": 46981
       },
       "latest": {
-        "confirmed": 69400,
-        "deaths": 1281,
-        "recovered": 55708
+        "confirmed": 70276,
+        "deaths": 1309,
+        "recovered": 57653
       }
     },
     "MAR": {
@@ -2613,19 +2613,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 270588,
+        "confirmed": 270745,
         "deaths": 2020,
-        "recovered": 265365
+        "recovered": 265698
       },
       "back_2week": {
-        "confirmed": 268646,
+        "confirmed": 268948,
         "deaths": 1979,
-        "recovered": 262868
+        "recovered": 263348
       },
       "latest": {
-        "confirmed": 271602,
+        "confirmed": 271707,
         "deaths": 2033,
-        "recovered": 267292
+        "recovered": 267564
       }
     },
     "NZL": {
@@ -2834,19 +2834,19 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 721513,
-        "deaths": 18105,
-        "recovered": 666001
+        "confirmed": 724250,
+        "deaths": 18196,
+        "recovered": 669175
       },
       "back_2week": {
-        "confirmed": 703776,
-        "deaths": 17554,
-        "recovered": 641288
+        "confirmed": 706475,
+        "deaths": 17628,
+        "recovered": 645923
       },
       "latest": {
-        "confirmed": 738152,
-        "deaths": 18675,
-        "recovered": 684095
+        "confirmed": 740732,
+        "deaths": 18748,
+        "recovered": 686692
       }
     },
     "RUS": {
