@@ -538,7 +538,7 @@
           "confirmed": 299122,
           "date": "2021-02-07",
           "deaths": 7403,
-          "recovered": 271050
+          "recovered": 272126
         }
       },
       "Bayern": {
@@ -546,7 +546,7 @@
           "confirmed": 411621,
           "date": "2021-02-07",
           "deaths": 11096,
-          "recovered": 371235
+          "recovered": 372635
         }
       },
       "Berlin": {
@@ -554,7 +554,7 @@
           "confirmed": 122447,
           "date": "2021-02-07",
           "deaths": 2466,
-          "recovered": 110882
+          "recovered": 111145
         }
       },
       "Brandenburg": {
@@ -570,7 +570,7 @@
           "confirmed": 176138,
           "date": "2021-02-07",
           "deaths": 5148,
-          "recovered": 156292
+          "recovered": 156843
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 147503,
           "date": "2021-02-07",
           "deaths": 3564,
-          "recovered": 132174
+          "recovered": 132710
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 497667,
           "date": "2021-02-07",
           "deaths": 11497,
-          "recovered": 447094
+          "recovered": 448591
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 95414,
           "date": "2021-02-07",
           "deaths": 2725,
-          "recovered": 83171
+          "recovered": 83614
         }
       },
       "Sachsen": {
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 242192,
+      "confirmed": 243404,
       "date": "2021-02-07",
       "deaths": 3119,
-      "recovered": 211826
+      "recovered": 213126
     }
   },
   "Kenya": {
@@ -1186,7 +1186,7 @@
           "confirmed": 160162,
           "date": "2021-02-07",
           "deaths": 4854,
-          "recovered": 146235
+          "recovered": 147115
         }
       },
       "Sindh": {
@@ -1194,7 +1194,7 @@
           "confirmed": 250043,
           "date": "2021-02-07",
           "deaths": 4066,
-          "recovered": 226752
+          "recovered": 227148
         }
       }
     }
@@ -1765,10 +1765,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 129231,
+      "confirmed": 129643,
       "date": "2021-02-07",
-      "deaths": 1223,
-      "recovered": 121094
+      "deaths": 1228,
+      "recovered": 121569
     }
   },
   "West Bank and Gaza": {
