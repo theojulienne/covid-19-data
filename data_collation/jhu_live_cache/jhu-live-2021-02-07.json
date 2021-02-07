@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 167937,
+      "confirmed": 168088,
       "date": "2021-02-07",
-      "deaths": 3114,
-      "recovered": 159577
+      "deaths": 3117,
+      "recovered": 159720
     }
   },
   "Austria": {
@@ -469,10 +469,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1030112,
+      "confirmed": 1034975,
       "date": "2021-02-07",
-      "deaths": 17129,
-      "recovered": 916789
+      "deaths": 17235,
+      "recovered": 919699
     }
   },
   "Denmark": {
@@ -525,10 +525,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 261620,
+      "confirmed": 262024,
       "date": "2021-02-07",
-      "deaths": 3269,
-      "recovered": 252815
+      "deaths": 3283,
+      "recovered": 253614
     }
   },
   "Germany": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2726272,
+          "confirmed": 2726789,
           "date": "2021-02-07",
-          "deaths": 35960,
+          "deaths": 35942,
           "recovered": 0
         }
       },
@@ -1679,33 +1679,33 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 79080,
+          "confirmed": 79244,
           "date": "2021-02-07",
-          "deaths": 1418,
-          "recovered": 71790
+          "deaths": 1425,
+          "recovered": 72079
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 130039,
+          "confirmed": 130236,
           "date": "2021-02-07",
-          "deaths": 2426,
-          "recovered": 79141
+          "deaths": 2442,
+          "recovered": 79510
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 72628,
+          "confirmed": 72830,
           "date": "2021-02-07",
-          "deaths": 2133,
-          "recovered": 63698
+          "deaths": 2135,
+          "recovered": 63767
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 82266,
+          "confirmed": 82478,
           "date": "2021-02-07",
-          "deaths": 1347,
+          "deaths": 1348,
           "recovered": 74353
         }
       }
