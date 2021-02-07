@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 537770,
+      "confirmed": 538062,
       "date": "2021-02-07",
-      "deaths": 8190,
-      "recovered": 482841
+      "deaths": 8205,
+      "recovered": 483372
     }
   },
   "Belarus": {
@@ -178,7 +178,7 @@
           "confirmed": 280026,
           "date": "2021-02-07",
           "deaths": 4600,
-          "recovered": 270060
+          "recovered": 270957
         }
       },
       "Espirito Santo": {
@@ -562,7 +562,7 @@
           "confirmed": 70930,
           "date": "2021-02-07",
           "deaths": 2629,
-          "recovered": 60651
+          "recovered": 60847
         }
       },
       "Hessen": {
@@ -575,7 +575,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 148108,
+          "confirmed": 148402,
           "date": "2021-02-07",
           "deaths": 3581,
           "recovered": 132710
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 95437,
+          "confirmed": 95703,
           "date": "2021-02-07",
-          "deaths": 2727,
+          "deaths": 2730,
           "recovered": 83614
         }
       },
@@ -821,10 +821,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1459370,
+      "confirmed": 1466435,
       "date": "2021-02-07",
-      "deaths": 58412,
-      "recovered": 1247374
+      "deaths": 58469,
+      "recovered": 1253554
     }
   },
   "Iraq": {
@@ -941,7 +941,7 @@
         "live": {
           "confirmed": 103913,
           "date": "2021-02-07",
-          "deaths": 1014,
+          "deaths": 1020,
           "recovered": 94682
         }
       }
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 743343,
+      "confirmed": 745318,
       "date": "2021-02-07",
-      "deaths": 18809,
-      "recovered": 689474
+      "deaths": 18881,
+      "recovered": 691377
     }
   },
   "Russia": {
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1265550,
+          "confirmed": 1265927,
           "date": "2021-02-07",
           "deaths": 15963,
           "recovered": 0
