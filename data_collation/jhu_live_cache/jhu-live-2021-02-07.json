@@ -210,7 +210,7 @@
           "confirmed": 222942,
           "date": "2021-02-07",
           "deaths": 5177,
-          "recovered": 210705
+          "recovered": 211509
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 336453,
           "date": "2021-02-07",
           "deaths": 7717,
-          "recovered": 317530
+          "recovered": 318167
         }
       },
       "Paraiba": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 281439,
+          "confirmed": 282932,
           "date": "2021-02-07",
-          "deaths": 6480,
-          "recovered": 249676
+          "deaths": 6497,
+          "recovered": 250808
         }
       },
       "Quebec": {
@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1473700,
+      "confirmed": 1476135,
       "date": "2021-02-07",
-      "deaths": 46180,
-      "recovered": 1340497
+      "deaths": 46290,
+      "recovered": 1360204
     }
   },
   "Spain": {
@@ -1549,7 +1549,7 @@
         "live": {
           "confirmed": 257241,
           "date": "2021-02-07",
-          "deaths": 6809,
+          "deaths": 6839,
           "recovered": 0
         }
       },
