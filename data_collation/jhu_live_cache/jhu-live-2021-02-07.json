@@ -837,9 +837,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 202548,
+      "confirmed": 203568,
       "date": "2021-02-07",
-      "deaths": 3674,
+      "deaths": 3686,
       "recovered": 23364
     }
   },
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 528680,
+          "confirmed": 533159,
           "date": "2021-02-07",
-          "deaths": 18381,
+          "deaths": 18452,
           "recovered": 0
         }
       }
@@ -1531,9 +1531,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 533342,
+          "confirmed": 534246,
           "date": "2021-02-07",
-          "deaths": 10124,
+          "deaths": 10138,
           "recovered": 0
         }
       },
@@ -1571,7 +1571,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 85062,
+          "confirmed": 85160,
           "date": "2021-02-07",
           "deaths": 1773,
           "recovered": 0
@@ -1587,9 +1587,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 961970,
+          "confirmed": 966839,
           "date": "2021-02-07",
-          "deaths": 33565,
+          "deaths": 33658,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 76932,
+          "confirmed": 77274,
           "date": "2021-02-07",
-          "deaths": 611,
+          "deaths": 619,
           "recovered": 0
         }
       },
