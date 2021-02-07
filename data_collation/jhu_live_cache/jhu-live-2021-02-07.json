@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 90042,
+          "confirmed": 90392,
           "date": "2021-02-07",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 89368,
+          "confirmed": 89662,
           "date": "2021-02-07",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 75333,
+          "confirmed": 75704,
           "date": "2021-02-07",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 110693,
+          "confirmed": 110929,
           "date": "2021-02-07",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 102404,
+          "confirmed": 102595,
           "date": "2021-02-07",
           "deaths": 0,
           "recovered": 0
