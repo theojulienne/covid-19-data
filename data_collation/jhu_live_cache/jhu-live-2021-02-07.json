@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3303273,
+      "confirmed": 3322988,
       "date": "2021-02-07",
-      "deaths": 78401,
-      "recovered": 207625
+      "deaths": 78572,
+      "recovered": 207909
     }
   },
   "Georgia": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 687492,
+      "confirmed": 688934,
       "date": "2021-02-07",
-      "deaths": 5096,
-      "recovered": 611795
+      "deaths": 5097,
+      "recovered": 617590
     }
   },
   "Italy": {
@@ -1089,10 +1089,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 474966,
+      "confirmed": 475355,
       "date": "2021-02-07",
-      "deaths": 8381,
-      "recovered": 453921
+      "deaths": 8394,
+      "recovered": 454504
     }
   },
   "Nepal": {
@@ -1491,9 +1491,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 590556,
+          "confirmed": 591717,
           "date": "2021-02-07",
-          "deaths": 9838,
+          "deaths": 9875,
           "recovered": 0
         }
       },
@@ -1515,9 +1515,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 964232,
+          "confirmed": 967823,
           "date": "2021-02-07",
-          "deaths": 12695,
+          "deaths": 12767,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 197793,
+          "confirmed": 198251,
           "date": "2021-02-07",
           "deaths": 1937,
           "recovered": 0
