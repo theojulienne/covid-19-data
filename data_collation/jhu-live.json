@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 422522,
+      "confirmed": 423839,
       "date": "2021-02-07",
-      "deaths": 7994,
-      "recovered": 400851
+      "deaths": 8012,
+      "recovered": 402053
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 256959,
+      "confirmed": 258691,
       "date": "2021-02-07",
-      "deaths": 1773,
-      "recovered": 244941
+      "deaths": 1783,
+      "recovered": 247177
     }
   },
   "Belgium": {
@@ -997,10 +997,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 71320,
+      "confirmed": 71800,
       "date": "2021-02-07",
-      "deaths": 1327,
-      "recovered": 59399
+      "deaths": 1339,
+      "recovered": 59897
     }
   },
   "Lebanon": {
@@ -1013,10 +1013,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 122894,
+      "confirmed": 124026,
       "date": "2021-02-07",
-      "deaths": 1936,
-      "recovered": 103312
+      "deaths": 1953,
+      "recovered": 104539
     }
   },
   "Lithuania": {
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 162029,
+      "confirmed": 162601,
       "date": "2021-02-07",
-      "deaths": 1870,
-      "recovered": 152120
+      "deaths": 1881,
+      "recovered": 152579
     }
   }
 }
