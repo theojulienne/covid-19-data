@@ -1245,10 +1245,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 761906,
+      "confirmed": 765414,
       "date": "2021-02-07",
-      "deaths": 13954,
-      "recovered": 599593
+      "deaths": 14158,
+      "recovered": 606166
     }
   },
   "Qatar": {
@@ -1587,9 +1587,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 959561,
+          "confirmed": 961970,
           "date": "2021-02-07",
-          "deaths": 33538,
+          "deaths": 33565,
           "recovered": 0
         }
       },
