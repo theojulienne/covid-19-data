@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1476135,
+      "confirmed": 1477511,
       "date": "2021-02-08",
-      "deaths": 46290,
-      "recovered": 1360204
+      "deaths": 46473,
+      "recovered": 1363947
     }
   },
   "Spain": {
@@ -1467,7 +1467,7 @@
     "live": {
       "confirmed": 535153,
       "date": "2021-02-08",
-      "deaths": 9628,
+      "deaths": 9651,
       "recovered": 317600
     }
   },
@@ -1491,17 +1491,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 591717,
+          "confirmed": 593608,
           "date": "2021-02-08",
-          "deaths": 9875,
+          "deaths": 9883,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2737059,
+          "confirmed": 2738185,
           "date": "2021-02-08",
-          "deaths": 36117,
+          "deaths": 36142,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 169940,
+          "confirmed": 170601,
           "date": "2021-02-08",
-          "deaths": 5966,
+          "deaths": 5971,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1275614,
+          "confirmed": 1275920,
           "date": "2021-02-08",
-          "deaths": 16102,
+          "deaths": 16129,
           "recovered": 0
         }
       },
