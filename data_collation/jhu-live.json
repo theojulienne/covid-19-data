@@ -485,10 +485,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 223398,
+      "confirmed": 224119,
       "date": "2021-02-08",
-      "deaths": 2831,
-      "recovered": 167214
+      "deaths": 2843,
+      "recovered": 168627
     }
   },
   "Ecuador": {
@@ -583,9 +583,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 95727,
+          "confirmed": 96053,
           "date": "2021-02-08",
-          "deaths": 2732,
+          "deaths": 2762,
           "recovered": 84206
         }
       },
@@ -949,10 +949,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 335154,
+      "confirmed": 336839,
       "date": "2021-02-08",
-      "deaths": 4379,
-      "recovered": 320335
+      "deaths": 4385,
+      "recovered": 321278
     }
   },
   "Kazakhstan": {
@@ -1081,10 +1081,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 164569,
+      "confirmed": 164858,
       "date": "2021-02-08",
-      "deaths": 3543,
-      "recovered": 153785
+      "deaths": 3557,
+      "recovered": 154303
     }
   },
   "Morocco": {
@@ -1245,10 +1245,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 765414,
+      "confirmed": 767919,
       "date": "2021-02-08",
-      "deaths": 14158,
-      "recovered": 606166
+      "deaths": 14354,
+      "recovered": 612921
     }
   },
   "Qatar": {
@@ -1321,9 +1321,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 407881,
+      "confirmed": 409841,
       "date": "2021-02-08",
-      "deaths": 4126,
+      "deaths": 4139,
       "recovered": 0
     }
   },
