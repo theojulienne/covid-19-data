@@ -538,7 +538,7 @@
           "confirmed": 300232,
           "date": "2021-02-08",
           "deaths": 7422,
-          "recovered": 272126
+          "recovered": 273366
         }
       },
       "Bayern": {
@@ -546,7 +546,7 @@
           "confirmed": 413039,
           "date": "2021-02-08",
           "deaths": 11128,
-          "recovered": 372635
+          "recovered": 374298
         }
       },
       "Berlin": {
@@ -554,7 +554,7 @@
           "confirmed": 122603,
           "date": "2021-02-08",
           "deaths": 2470,
-          "recovered": 111168
+          "recovered": 112023
         }
       },
       "Brandenburg": {
@@ -562,7 +562,7 @@
           "confirmed": 70930,
           "date": "2021-02-08",
           "deaths": 2629,
-          "recovered": 60847
+          "recovered": 61117
         }
       },
       "Hessen": {
@@ -570,7 +570,7 @@
           "confirmed": 176931,
           "date": "2021-02-08",
           "deaths": 5165,
-          "recovered": 156843
+          "recovered": 157646
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 148402,
           "date": "2021-02-08",
           "deaths": 3581,
-          "recovered": 132710
+          "recovered": 133487
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 499455,
           "date": "2021-02-08",
           "deaths": 11540,
-          "recovered": 448591
+          "recovered": 450894
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 95703,
           "date": "2021-02-08",
           "deaths": 2730,
-          "recovered": 83614
+          "recovered": 84206
         }
       },
       "Sachsen": {
@@ -625,10 +625,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 153905,
+      "confirmed": 154568,
       "date": "2021-02-08",
-      "deaths": 3710,
-      "recovered": 61785
+      "deaths": 3721,
+      "recovered": 61817
     }
   },
   "Hungary": {
@@ -1183,18 +1183,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 160580,
+          "confirmed": 160935,
           "date": "2021-02-08",
-          "deaths": 4880,
-          "recovered": 147115
+          "deaths": 4900,
+          "recovered": 147685
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 250648,
+          "confirmed": 251047,
           "date": "2021-02-08",
-          "deaths": 4087,
-          "recovered": 227148
+          "deaths": 4119,
+          "recovered": 227558
         }
       }
     }
