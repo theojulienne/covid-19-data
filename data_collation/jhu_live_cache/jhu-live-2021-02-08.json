@@ -509,17 +509,17 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 142338,
+      "confirmed": 142994,
       "date": "2021-02-08",
-      "deaths": 2148,
-      "recovered": 125619
+      "deaths": 2156,
+      "recovered": 125756
     }
   },
   "France": {
     "live": {
-      "confirmed": 3322988,
+      "confirmed": 3327305,
       "date": "2021-02-08",
-      "deaths": 78572,
+      "deaths": 79030,
       "recovered": 208925
     }
   },
@@ -1089,10 +1089,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 475355,
+      "confirmed": 475589,
       "date": "2021-02-08",
-      "deaths": 8394,
-      "recovered": 454504
+      "deaths": 8408,
+      "recovered": 454997
     }
   },
   "Nepal": {
@@ -1499,7 +1499,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2735750,
+          "confirmed": 2737059,
           "date": "2021-02-08",
           "deaths": 36117,
           "recovered": 0
@@ -1517,15 +1517,15 @@
         "live": {
           "confirmed": 971297,
           "date": "2021-02-08",
-          "deaths": 12846,
+          "deaths": 12845,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 166281,
+          "confirmed": 166741,
           "date": "2021-02-08",
-          "deaths": 1824,
+          "deaths": 1828,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 198251,
+          "confirmed": 198600,
           "date": "2021-02-08",
           "deaths": 1939,
           "recovered": 0
@@ -1643,17 +1643,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1272656,
+          "confirmed": 1275614,
           "date": "2021-02-08",
-          "deaths": 16016,
+          "deaths": 16102,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 219143,
+          "confirmed": 219458,
           "date": "2021-02-08",
-          "deaths": 1002,
+          "deaths": 1004,
           "recovered": 0
         }
       },
@@ -1667,7 +1667,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 104715,
+          "confirmed": 104793,
           "date": "2021-02-08",
           "deaths": 1215,
           "recovered": 0
