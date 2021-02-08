@@ -537,7 +537,7 @@
         "live": {
           "confirmed": 300711,
           "date": "2021-02-08",
-          "deaths": 7426,
+          "deaths": 7484,
           "recovered": 273366
         }
       },
@@ -839,16 +839,16 @@
     "live": {
       "confirmed": 203568,
       "date": "2021-02-08",
-      "deaths": 3686,
+      "deaths": 3687,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 693212,
+      "confirmed": 696528,
       "date": "2021-02-08",
-      "deaths": 5129,
-      "recovered": 620223
+      "deaths": 5171,
+      "recovered": 623084
     }
   },
   "Italy": {
@@ -1473,10 +1473,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 217086,
+      "confirmed": 217753,
       "date": "2021-02-08",
-      "deaths": 7214,
-      "recovered": 173862
+      "deaths": 7257,
+      "recovered": 175340
     }
   },
   "Turkey": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2734897,
+          "confirmed": 2735750,
           "date": "2021-02-08",
-          "deaths": 36101,
+          "deaths": 36117,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 534246,
+          "confirmed": 534950,
           "date": "2021-02-08",
-          "deaths": 10138,
+          "deaths": 10159,
           "recovered": 0
         }
       },
@@ -1581,15 +1581,15 @@
         "live": {
           "confirmed": 218739,
           "date": "2021-02-08",
-          "deaths": 3473,
+          "deaths": 3474,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 966839,
+          "confirmed": 973475,
           "date": "2021-02-08",
-          "deaths": 33658,
+          "deaths": 33747,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 77274,
+          "confirmed": 77482,
           "date": "2021-02-08",
-          "deaths": 619,
+          "deaths": 620,
           "recovered": 0
         }
       },
