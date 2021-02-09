@@ -942,7 +942,7 @@
           "confirmed": 104601,
           "date": "2021-02-09",
           "deaths": 1032,
-          "recovered": 95648
+          "recovered": 96587
         }
       }
     }
@@ -1240,7 +1240,7 @@
       "confirmed": 1552686,
       "date": "2021-02-09",
       "deaths": 39132,
-      "recovered": 1312856
+      "recovered": 1317474
     }
   },
   "Portugal": {
@@ -1329,10 +1329,10 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 264083,
+      "confirmed": 265807,
       "date": "2021-02-09",
-      "deaths": 5271,
-      "recovered": 245702
+      "deaths": 5382,
+      "recovered": 248386
     }
   },
   "Slovenia": {
