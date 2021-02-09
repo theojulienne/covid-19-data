@@ -509,10 +509,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 142994,
+      "confirmed": 143566,
       "date": "2021-02-09",
-      "deaths": 2156,
-      "recovered": 125756
+      "deaths": 2158,
+      "recovered": 126004
     }
   },
   "France": {
@@ -537,7 +537,7 @@
         "live": {
           "confirmed": 301091,
           "date": "2021-02-09",
-          "deaths": 7509,
+          "deaths": 7526,
           "recovered": 274899
         }
       },
@@ -837,7 +837,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 204397,
+      "confirmed": 204940,
       "date": "2021-02-09",
       "deaths": 3752,
       "recovered": 23364
@@ -1515,9 +1515,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 971297,
+          "confirmed": 974973,
           "date": "2021-02-09",
-          "deaths": 12845,
+          "deaths": 12902,
           "recovered": 0
         }
       },
@@ -1579,17 +1579,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 219183,
+          "confirmed": 219602,
           "date": "2021-02-09",
-          "deaths": 3474,
+          "deaths": 3509,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 977839,
+          "confirmed": 979830,
           "date": "2021-02-09",
-          "deaths": 33814,
+          "deaths": 33849,
           "recovered": 0
         }
       },
@@ -1605,7 +1605,7 @@
         "live": {
           "confirmed": 198600,
           "date": "2021-02-09",
-          "deaths": 1939,
+          "deaths": 1947,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 184590,
+          "confirmed": 185162,
           "date": "2021-02-09",
-          "deaths": 4562,
+          "deaths": 4570,
           "recovered": 0
         }
       },
