@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 284671,
+          "confirmed": 284674,
           "date": "2021-02-09",
-          "deaths": 6551,
-          "recovered": 264804
+          "deaths": 6554,
+          "recovered": 265737
         }
       },
       "Quebec": {
@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3327305,
+      "confirmed": 3345558,
       "date": "2021-02-09",
-      "deaths": 79030,
-      "recovered": 208925
+      "deaths": 79752,
+      "recovered": 210649
     }
   },
   "Georgia": {
@@ -535,7 +535,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 301091,
+          "confirmed": 301979,
           "date": "2021-02-09",
           "deaths": 7526,
           "recovered": 274899
@@ -1473,10 +1473,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 217753,
+      "confirmed": 218564,
       "date": "2021-02-09",
-      "deaths": 7257,
-      "recovered": 175340
+      "deaths": 7332,
+      "recovered": 176859
     }
   },
   "Turkey": {
@@ -1499,7 +1499,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2745663,
+          "confirmed": 2746680,
           "date": "2021-02-09",
           "deaths": 36365,
           "recovered": 0
@@ -1523,9 +1523,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 166741,
+          "confirmed": 167403,
           "date": "2021-02-09",
-          "deaths": 1828,
+          "deaths": 1848,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 170601,
+          "confirmed": 170878,
           "date": "2021-02-09",
-          "deaths": 5971,
+          "deaths": 5984,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 198600,
+          "confirmed": 199101,
           "date": "2021-02-09",
           "deaths": 1947,
           "recovered": 0
@@ -1651,9 +1651,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 219458,
+          "confirmed": 219989,
           "date": "2021-02-09",
-          "deaths": 1004,
+          "deaths": 1008,
           "recovered": 0
         }
       },
@@ -1667,9 +1667,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 104793,
+          "confirmed": 104937,
           "date": "2021-02-09",
-          "deaths": 1215,
+          "deaths": 1216,
           "recovered": 0
         }
       }
