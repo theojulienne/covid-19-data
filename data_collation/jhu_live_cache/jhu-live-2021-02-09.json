@@ -601,10 +601,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 72328,
+      "confirmed": 73003,
       "date": "2021-02-09",
-      "deaths": 472,
-      "recovered": 65149
+      "deaths": 482,
+      "recovered": 65583
     }
   },
   "Greece": {
@@ -965,10 +965,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 101944,
+      "confirmed": 102048,
       "date": "2021-02-09",
-      "deaths": 1786,
-      "recovered": 84473
+      "deaths": 1789,
+      "recovered": 84542
     }
   },
   "Korea, South": {
@@ -1439,15 +1439,15 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 100873,
+          "confirmed": 102180,
           "date": "2021-02-09",
-          "deaths": 1414,
+          "deaths": 1446,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 140785,
+          "confirmed": 142206,
           "date": "2021-02-09",
           "deaths": 3768,
           "recovered": 0
@@ -1455,7 +1455,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 101149,
+          "confirmed": 103036,
           "date": "2021-02-09",
           "deaths": 1933,
           "recovered": 0
@@ -1465,9 +1465,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 535153,
+      "confirmed": 536516,
       "date": "2021-02-09",
-      "deaths": 9651,
+      "deaths": 9670,
       "recovered": 317600
     }
   },
@@ -1773,10 +1773,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 163213,
+      "confirmed": 163975,
       "date": "2021-02-09",
-      "deaths": 1888,
-      "recovered": 153019
+      "deaths": 1897,
+      "recovered": 153682
     }
   }
 }
