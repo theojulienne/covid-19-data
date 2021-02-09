@@ -535,65 +535,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 300966,
+          "confirmed": 301091,
           "date": "2021-02-09",
-          "deaths": 7484,
+          "deaths": 7509,
           "recovered": 273366
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 413898,
+          "confirmed": 414332,
           "date": "2021-02-09",
-          "deaths": 11149,
+          "deaths": 11226,
           "recovered": 374298
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 122887,
+          "confirmed": 122890,
           "date": "2021-02-09",
-          "deaths": 2485,
+          "deaths": 2486,
           "recovered": 112038
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 177127,
+          "confirmed": 177331,
           "date": "2021-02-09",
-          "deaths": 5182,
+          "deaths": 5229,
           "recovered": 157646
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 148722,
+          "confirmed": 148877,
           "date": "2021-02-09",
-          "deaths": 3597,
+          "deaths": 3635,
           "recovered": 133487
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 500268,
+          "confirmed": 500500,
           "date": "2021-02-09",
-          "deaths": 11565,
+          "deaths": 11595,
           "recovered": 450894
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 96053,
+          "confirmed": 96076,
           "date": "2021-02-09",
-          "deaths": 2762,
+          "deaths": 2764,
           "recovered": 84206
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 184821,
+          "confirmed": 184880,
           "date": "2021-02-09",
-          "deaths": 6806,
+          "deaths": 6816,
           "recovered": 168100
         }
       }
@@ -1595,9 +1595,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 90074,
+          "confirmed": 90473,
           "date": "2021-02-09",
-          "deaths": 791,
+          "deaths": 794,
           "recovered": 0
         }
       },
