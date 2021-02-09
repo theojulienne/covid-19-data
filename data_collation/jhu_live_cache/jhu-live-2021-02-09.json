@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 108048,
+      "confirmed": 108807,
       "date": "2021-02-09",
-      "deaths": 383,
-      "recovered": 101629
+      "deaths": 387,
+      "recovered": 102289
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 284674,
+          "confirmed": 285044,
           "date": "2021-02-09",
           "deaths": 6554,
-          "recovered": 265737
+          "recovered": 265853
         }
       },
       "Quebec": {
@@ -845,10 +845,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 703102,
+      "confirmed": 703719,
       "date": "2021-02-09",
-      "deaths": 5202,
-      "recovered": 625841
+      "deaths": 5216,
+      "recovered": 628004
     }
   },
   "Italy": {
@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1477511,
+      "confirmed": 1479253,
       "date": "2021-02-09",
-      "deaths": 46473,
-      "recovered": 1363947
+      "deaths": 46869,
+      "recovered": 1367247
     }
   },
   "Spain": {
@@ -1467,7 +1467,7 @@
     "live": {
       "confirmed": 536516,
       "date": "2021-02-09",
-      "deaths": 9681,
+      "deaths": 9687,
       "recovered": 317600
     }
   },
@@ -1499,17 +1499,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746680,
+          "confirmed": 2748454,
           "date": "2021-02-09",
-          "deaths": 36365,
+          "deaths": 36445,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 75471,
+          "confirmed": 75752,
           "date": "2021-02-09",
-          "deaths": 1965,
+          "deaths": 1966,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 159553,
+          "confirmed": 159809,
           "date": "2021-02-09",
-          "deaths": 2163,
+          "deaths": 2176,
           "recovered": 0
         }
       },
