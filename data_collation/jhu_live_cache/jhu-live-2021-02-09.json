@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 124101,
+      "confirmed": 124443,
       "date": "2021-02-09",
-      "deaths": 4813,
-      "recovered": 98470
+      "deaths": 4834,
+      "recovered": 99669
     }
   },
   "Brazil": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 284138,
+          "confirmed": 284372,
           "date": "2021-02-09",
-          "deaths": 6532,
-          "recovered": 263870
+          "deaths": 6546,
+          "recovered": 264371
         }
       },
       "Quebec": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 348716,
+          "confirmed": 349282,
           "date": "2021-02-09",
-          "deaths": 11507,
-          "recovered": 332541
+          "deaths": 11528,
+          "recovered": 333242
         }
       }
     }
@@ -543,9 +543,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 414354,
+          "confirmed": 414364,
           "date": "2021-02-09",
-          "deaths": 11229,
+          "deaths": 11234,
           "recovered": 376727
         }
       },
@@ -567,9 +567,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 148877,
+          "confirmed": 148951,
           "date": "2021-02-09",
-          "deaths": 3635,
+          "deaths": 3650,
           "recovered": 134540
         }
       },
@@ -583,7 +583,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 96076,
+          "confirmed": 96347,
           "date": "2021-02-09",
           "deaths": 2764,
           "recovered": 85015
@@ -981,10 +981,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 171994,
+      "confirmed": 172996,
       "date": "2021-02-09",
-      "deaths": 969,
-      "recovered": 162120
+      "deaths": 975,
+      "recovered": 162711
     }
   },
   "Kyrgyzstan": {
@@ -1107,49 +1107,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 114717,
+          "confirmed": 114912,
           "date": "2021-02-09",
-          "deaths": 1697,
+          "deaths": 1710,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 158162,
+          "confirmed": 158527,
           "date": "2021-02-09",
-          "deaths": 2733,
+          "deaths": 2742,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 170095,
+          "confirmed": 170482,
           "date": "2021-02-09",
-          "deaths": 2065,
+          "deaths": 2075,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 71578,
+          "confirmed": 71629,
           "date": "2021-02-09",
-          "deaths": 979,
+          "deaths": 983,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 80776,
+          "confirmed": 80849,
           "date": "2021-02-09",
-          "deaths": 1037,
+          "deaths": 1040,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 240449,
+          "confirmed": 240780,
           "date": "2021-02-09",
-          "deaths": 3492,
+          "deaths": 3504,
           "recovered": 0
         }
       }
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 536546,
+          "confirmed": 539361,
           "date": "2021-02-09",
-          "deaths": 18525,
+          "deaths": 18590,
           "recovered": 0
         }
       }
@@ -1245,10 +1245,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 767919,
+      "confirmed": 770502,
       "date": "2021-02-09",
-      "deaths": 14354,
-      "recovered": 612921
+      "deaths": 14557,
+      "recovered": 628078
     }
   },
   "Qatar": {
@@ -1321,9 +1321,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 409841,
+      "confirmed": 411855,
       "date": "2021-02-09",
-      "deaths": 4139,
+      "deaths": 4154,
       "recovered": 0
     }
   },
