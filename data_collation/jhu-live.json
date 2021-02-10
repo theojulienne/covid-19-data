@@ -997,10 +997,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 85171,
+      "confirmed": 85253,
       "date": "2021-02-10",
-      "deaths": 1433,
-      "recovered": 81825
+      "deaths": 1436,
+      "recovered": 81923
     }
   },
   "Latvia": {
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 539361,
+          "confirmed": 542219,
           "date": "2021-02-10",
-          "deaths": 18590,
+          "deaths": 18661,
           "recovered": 0
         }
       }
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1282567,
+          "confirmed": 1282935,
           "date": "2021-02-10",
           "deaths": 16285,
           "recovered": 0
@@ -1757,10 +1757,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79204,
+      "confirmed": 79237,
       "date": "2021-02-10",
       "deaths": 621,
-      "recovered": 77609
+      "recovered": 77648
     }
   },
   "Venezuela": {
