@@ -138,7 +138,7 @@
           "confirmed": 121603,
           "date": "2021-02-10",
           "deaths": 2822,
-          "recovered": 116188
+          "recovered": 116506
         }
       },
       "Amapa": {
@@ -162,7 +162,7 @@
           "confirmed": 613339,
           "date": "2021-02-10",
           "deaths": 10451,
-          "recovered": 589353
+          "recovered": 592356
         }
       },
       "Ceara": {
@@ -218,7 +218,7 @@
           "confirmed": 166940,
           "date": "2021-02-10",
           "deaths": 3053,
-          "recovered": 156787
+          "recovered": 157290
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 780187,
           "date": "2021-02-10",
           "deaths": 15990,
-          "recovered": 704914
+          "recovered": 710679
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 568416,
           "date": "2021-02-10",
           "deaths": 11115,
-          "recovered": 546342
+          "recovered": 549437
         }
       },
       "Rio de Janeiro": {
@@ -322,7 +322,7 @@
           "confirmed": 1864977,
           "date": "2021-02-10",
           "deaths": 55087,
-          "recovered": 1624672
+          "recovered": 1638936
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 105184,
           "date": "2021-02-10",
           "deaths": 1430,
-          "recovered": 95751
+          "recovered": 96351
         }
       }
     }
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 285782,
+          "confirmed": 285798,
           "date": "2021-02-10",
-          "deaths": 6575,
-          "recovered": 266714
+          "deaths": 6591,
+          "recovered": 267288
         }
       },
       "Quebec": {
@@ -1467,16 +1467,16 @@
     "live": {
       "confirmed": 538118,
       "date": "2021-02-10",
-      "deaths": 9699,
+      "deaths": 9711,
       "recovered": 317600
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 218564,
+      "confirmed": 219650,
       "date": "2021-02-10",
-      "deaths": 7332,
-      "recovered": 176859
+      "deaths": 7378,
+      "recovered": 180381
     }
   },
   "Turkey": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2753380,
+          "confirmed": 2754078,
           "date": "2021-02-10",
-          "deaths": 36797,
+          "deaths": 36832,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 167403,
+          "confirmed": 167996,
           "date": "2021-02-10",
-          "deaths": 1848,
+          "deaths": 1855,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 170878,
+          "confirmed": 171194,
           "date": "2021-02-10",
-          "deaths": 5984,
+          "deaths": 5985,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 199101,
+          "confirmed": 199693,
           "date": "2021-02-10",
           "deaths": 1949,
           "recovered": 0
@@ -1667,9 +1667,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 104937,
+          "confirmed": 105088,
           "date": "2021-02-10",
-          "deaths": 1216,
+          "deaths": 1220,
           "recovered": 0
         }
       }
