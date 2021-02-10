@@ -535,65 +535,73 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 301979,
+          "confirmed": 302110,
           "date": "2021-02-10",
-          "deaths": 7526,
+          "deaths": 7552,
           "recovered": 276773
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 414364,
+          "confirmed": 415276,
           "date": "2021-02-10",
-          "deaths": 11234,
+          "deaths": 11371,
           "recovered": 378694
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 123189,
+          "confirmed": 123192,
           "date": "2021-02-10",
-          "deaths": 2506,
+          "deaths": 2507,
           "recovered": 113443
+        }
+      },
+      "Brandenburg": {
+        "live": {
+          "confirmed": 71659,
+          "date": "2021-02-10",
+          "deaths": 2716,
+          "recovered": 62567
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 177331,
+          "confirmed": 177988,
           "date": "2021-02-10",
-          "deaths": 5229,
+          "deaths": 5296,
           "recovered": 160028
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 148951,
+          "confirmed": 149347,
           "date": "2021-02-10",
-          "deaths": 3650,
+          "deaths": 3682,
           "recovered": 135643
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 500500,
+          "confirmed": 502766,
           "date": "2021-02-10",
-          "deaths": 11595,
+          "deaths": 11796,
           "recovered": 456798
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 96347,
+          "confirmed": 96371,
           "date": "2021-02-10",
-          "deaths": 2798,
+          "deaths": 2800,
           "recovered": 85832
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 185140,
+          "confirmed": 185204,
           "date": "2021-02-10",
-          "deaths": 6885,
+          "deaths": 6895,
           "recovered": 169250
         }
       }
@@ -1126,14 +1134,6 @@
           "confirmed": 170482,
           "date": "2021-02-10",
           "deaths": 2075,
-          "recovered": 0
-        }
-      },
-      "Overijssel": {
-        "live": {
-          "confirmed": 71629,
-          "date": "2021-02-10",
-          "deaths": 983,
           "recovered": 0
         }
       },

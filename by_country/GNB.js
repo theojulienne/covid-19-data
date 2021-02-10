@@ -773,7 +773,8 @@ var covid19_dataset_country_gnb = {
       2752,
       2772,
       2780,
-      2780
+      2780,
+      2810
     ],
     "deaths": [
       0,
@@ -1155,6 +1156,7 @@ var covid19_dataset_country_gnb = {
       45,
       45,
       45,
+      46,
       46,
       46,
       46,
@@ -1545,7 +1547,8 @@ var covid19_dataset_country_gnb = {
       2427,
       2427,
       2427,
-      2427
+      2427,
+      2432
     ]
   }
 };
