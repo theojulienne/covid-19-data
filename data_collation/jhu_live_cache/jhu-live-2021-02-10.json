@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 1993295,
+      "confirmed": 2001034,
       "date": "2021-02-10",
-      "deaths": 49566,
-      "recovered": 1792321
+      "deaths": 49674,
+      "recovered": 1798120
     }
   },
   "Armenia": {
@@ -186,7 +186,7 @@
           "confirmed": 304687,
           "date": "2021-02-10",
           "deaths": 6043,
-          "recovered": 287062
+          "recovered": 288527
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 363850,
           "date": "2021-02-10",
           "deaths": 7766,
-          "recovered": 350789
+          "recovered": 352505
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 226825,
           "date": "2021-02-10",
           "deaths": 5268,
-          "recovered": 214173
+          "recovered": 215571
         }
       },
       "Mato Grosso do Sul": {
@@ -371,9 +371,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 286205,
+          "confirmed": 286321,
           "date": "2021-02-10",
-          "deaths": 6591,
+          "deaths": 6598,
           "recovered": 267422
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1284246,
+          "confirmed": 1284665,
           "date": "2021-02-10",
-          "deaths": 16305,
+          "deaths": 16426,
           "recovered": 0
         }
       },
