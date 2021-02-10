@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 285456,
+          "confirmed": 285513,
           "date": "2021-02-10",
           "deaths": 6575,
-          "recovered": 266412
+          "recovered": 266690
         }
       },
       "Quebec": {
@@ -837,18 +837,18 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 204940,
+      "confirmed": 205939,
       "date": "2021-02-10",
-      "deaths": 3752,
+      "deaths": 3794,
       "recovered": 23364
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 706416,
+      "confirmed": 708827,
       "date": "2021-02-10",
-      "deaths": 5233,
-      "recovered": 630510
+      "deaths": 5244,
+      "recovered": 635277
     }
   },
   "Italy": {
@@ -1005,10 +1005,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 324866,
+      "confirmed": 328023,
       "date": "2021-02-10",
-      "deaths": 3737,
-      "recovered": 215359
+      "deaths": 3803,
+      "recovered": 217578
     }
   },
   "Libya": {
@@ -1089,10 +1089,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 476125,
+      "confirmed": 476689,
       "date": "2021-02-10",
-      "deaths": 8424,
-      "recovered": 456032
+      "deaths": 8436,
+      "recovered": 456751
     }
   },
   "Nepal": {
@@ -1531,9 +1531,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 535738,
+          "confirmed": 536818,
           "date": "2021-02-10",
-          "deaths": 10166,
+          "deaths": 10185,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 979830,
+          "confirmed": 983941,
           "date": "2021-02-10",
-          "deaths": 33849,
+          "deaths": 33984,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 77701,
+          "confirmed": 77947,
           "date": "2021-02-10",
-          "deaths": 633,
+          "deaths": 638,
           "recovered": 0
         }
       },
@@ -1627,9 +1627,9 @@
       },
       "Rhode Island": {
         "live": {
-          "confirmed": 76727,
+          "confirmed": 78666,
           "date": "2021-02-10",
-          "deaths": 1632,
+          "deaths": 1674,
           "recovered": 0
         }
       },
