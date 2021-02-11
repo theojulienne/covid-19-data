@@ -306,7 +306,7 @@
           "confirmed": 76327,
           "date": "2021-02-11",
           "deaths": 924,
-          "recovered": 71358
+          "recovered": 71375
         }
       },
       "Santa Catarina": {
@@ -382,7 +382,7 @@
           "confirmed": 272726,
           "date": "2021-02-11",
           "deaths": 10112,
-          "recovered": 250652
+          "recovered": 251620
         }
       }
     }
@@ -403,50 +403,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 332838,
+          "confirmed": 333507,
           "date": "2021-02-11",
-          "deaths": 6165,
-          "recovered": 318908
+          "deaths": 6191,
+          "recovered": 319463
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 118653,
+          "confirmed": 119007,
           "date": "2021-02-11",
-          "deaths": 3912,
-          "recovered": 112723
+          "deaths": 3919,
+          "recovered": 113071
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 633839,
+          "confirmed": 635355,
           "date": "2021-02-11",
-          "deaths": 13184,
-          "recovered": 598446
+          "deaths": 13229,
+          "recovered": 601035
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 100269,
+          "confirmed": 100712,
           "date": "2021-02-11",
-          "deaths": 2663,
-          "recovered": 94289
+          "deaths": 2676,
+          "recovered": 94698
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 86443,
+          "confirmed": 86796,
           "date": "2021-02-11",
-          "deaths": 3083,
-          "recovered": 80309
+          "deaths": 3092,
+          "recovered": 80612
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 185760,
+          "confirmed": 186685,
           "date": "2021-02-11",
-          "deaths": 5794,
-          "recovered": 173405
+          "deaths": 5818,
+          "recovered": 174289
         }
       }
     }
@@ -1201,10 +1201,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 328476,
+      "confirmed": 329367,
       "date": "2021-02-11",
-      "deaths": 5531,
-      "recovered": 297650
+      "deaths": 5550,
+      "recovered": 300610
     }
   },
   "Paraguay": {
@@ -1643,7 +1643,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1286923,
+          "confirmed": 1287583,
           "date": "2021-02-11",
           "deaths": 16426,
           "recovered": 0
