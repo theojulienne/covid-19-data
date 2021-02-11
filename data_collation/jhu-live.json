@@ -25,9 +25,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 168496,
+      "confirmed": 168676,
       "date": "2021-02-11",
-      "deaths": 3130,
+      "deaths": 3135,
       "recovered": 160670
     }
   },
@@ -543,7 +543,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 416786,
+          "confirmed": 416788,
           "date": "2021-02-11",
           "deaths": 11472,
           "recovered": 381233
@@ -553,7 +553,7 @@
         "live": {
           "confirmed": 123735,
           "date": "2021-02-11",
-          "deaths": 2556,
+          "deaths": 2558,
           "recovered": 114028
         }
       },
@@ -1271,42 +1271,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 948477,
+          "confirmed": 950517,
           "date": "2021-02-11",
-          "deaths": 14099,
-          "recovered": 858358
+          "deaths": 14160,
+          "recovered": 861916
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 201756,
+          "confirmed": 202477,
           "date": "2021-02-11",
-          "deaths": 4113,
-          "recovered": 162946
+          "deaths": 4147,
+          "recovered": 163834
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 89103,
+          "confirmed": 89557,
           "date": "2021-02-11",
-          "deaths": 2245,
-          "recovered": 81105
+          "deaths": 2259,
+          "recovered": 81539
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 348613,
+          "confirmed": 349740,
           "date": "2021-02-11",
-          "deaths": 10237,
-          "recovered": 256704
+          "deaths": 10298,
+          "recovered": 260037
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 73664,
+          "confirmed": 73948,
           "date": "2021-02-11",
-          "deaths": 2171,
-          "recovered": 66440
+          "deaths": 2183,
+          "recovered": 66734
         }
       }
     }
