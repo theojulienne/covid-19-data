@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 90962,
+          "confirmed": 91328,
           "date": "2021-02-11",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 90145,
+          "confirmed": 90503,
           "date": "2021-02-11",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 76358,
+          "confirmed": 76721,
           "date": "2021-02-11",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 111587,
+          "confirmed": 111890,
           "date": "2021-02-11",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 102873,
+          "confirmed": 103048,
           "date": "2021-02-11",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 230731,
+      "confirmed": 232502,
       "date": "2021-02-11",
-      "deaths": 10929,
-      "recovered": 170972
+      "deaths": 10996,
+      "recovered": 172710
     }
   },
   "Bosnia and Herzegovina": {
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 246474,
+      "confirmed": 247481,
       "date": "2021-02-11",
       "deaths": 3127,
-      "recovered": 217275
+      "recovered": 219044
     }
   },
   "Kenya": {
@@ -973,10 +973,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 81930,
+      "confirmed": 82434,
       "date": "2021-02-11",
-      "deaths": 1486,
-      "recovered": 72226
+      "deaths": 1496,
+      "recovered": 72638
     }
   },
   "Kuwait": {
@@ -1659,9 +1659,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 80594,
+          "confirmed": 80796,
           "date": "2021-02-11",
-          "deaths": 1290,
+          "deaths": 1295,
           "recovered": 0
         }
       },
