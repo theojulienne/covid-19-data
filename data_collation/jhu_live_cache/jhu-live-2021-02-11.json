@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 109604,
+      "confirmed": 110416,
       "date": "2021-02-11",
-      "deaths": 391,
-      "recovered": 102725
+      "deaths": 393,
+      "recovered": 103251
     }
   },
   "Bangladesh": {
@@ -371,7 +371,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 287123,
+          "confirmed": 287126,
           "date": "2021-02-11",
           "deaths": 6610,
           "recovered": 268546
@@ -512,7 +512,7 @@
       "confirmed": 144249,
       "date": "2021-02-11",
       "deaths": 2167,
-      "recovered": 126797
+      "recovered": 127622
     }
   },
   "France": {
@@ -601,10 +601,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 73003,
+      "confirmed": 73557,
       "date": "2021-02-11",
-      "deaths": 482,
-      "recovered": 65583
+      "deaths": 494,
+      "recovered": 66115
     }
   },
   "Greece": {
@@ -1467,7 +1467,7 @@
     "live": {
       "confirmed": 539474,
       "date": "2021-02-11",
-      "deaths": 9716,
+      "deaths": 9729,
       "recovered": 317600
     }
   },
@@ -1547,9 +1547,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 260497,
+          "confirmed": 261511,
           "date": "2021-02-11",
-          "deaths": 6924,
+          "deaths": 6950,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1289111,
+          "confirmed": 1292410,
           "date": "2021-02-11",
-          "deaths": 16451,
+          "deaths": 16588,
           "recovered": 0
         }
       },
