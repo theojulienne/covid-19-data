@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 286321,
+          "confirmed": 286351,
           "date": "2021-02-11",
-          "deaths": 6598,
-          "recovered": 267422
+          "deaths": 6607,
+          "recovered": 267892
         }
       },
       "Quebec": {
@@ -1435,6 +1435,14 @@
       }
     }
   },
+  "Sri Lanka": {
+    "live": {
+      "confirmed": 72710,
+      "date": "2021-02-11",
+      "deaths": 375,
+      "recovered": 66211
+    }
+  },
   "Sweden": {
     "subseries": {
       "Skane": {
@@ -1619,9 +1627,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 185696,
+          "confirmed": 113519,
           "date": "2021-02-11",
-          "deaths": 4592,
+          "deaths": 2984,
           "recovered": 0
         }
       },
