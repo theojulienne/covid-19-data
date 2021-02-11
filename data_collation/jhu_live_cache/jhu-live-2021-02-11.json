@@ -1039,41 +1039,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 506748,
+          "confirmed": 510630,
           "date": "2021-02-11",
-          "deaths": 24120,
+          "deaths": 24315,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 111876,
+          "confirmed": 112530,
           "date": "2021-02-11",
-          "deaths": 8054,
+          "deaths": 8162,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 72967,
+          "confirmed": 73393,
           "date": "2021-02-11",
-          "deaths": 9245,
+          "deaths": 9349,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 200473,
+          "confirmed": 201816,
           "date": "2021-02-11",
-          "deaths": 25922,
+          "deaths": 26116,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 110460,
+          "confirmed": 110941,
           "date": "2021-02-11",
-          "deaths": 7240,
+          "deaths": 7310,
           "recovered": 0
         }
       }
@@ -1126,14 +1126,6 @@
           "confirmed": 170988,
           "date": "2021-02-11",
           "deaths": 2089,
-          "recovered": 0
-        }
-      },
-      "Overijssel": {
-        "live": {
-          "confirmed": 71922,
-          "date": "2021-02-11",
-          "deaths": 985,
           "recovered": 0
         }
       },
@@ -1435,6 +1427,14 @@
       }
     }
   },
+  "Sri Lanka": {
+    "live": {
+      "confirmed": 72174,
+      "date": "2021-02-11",
+      "deaths": 375,
+      "recovered": 65644
+    }
+  },
   "Sweden": {
     "subseries": {
       "Skane": {
@@ -1499,9 +1499,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2755606,
+          "confirmed": 2759295,
           "date": "2021-02-11",
-          "deaths": 36902,
+          "deaths": 37086,
           "recovered": 0
         }
       },
@@ -1765,10 +1765,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 131096,
+      "confirmed": 131476,
       "date": "2021-02-11",
-      "deaths": 1247,
-      "recovered": 122991
+      "deaths": 1253,
+      "recovered": 123411
     }
   },
   "West Bank and Gaza": {
