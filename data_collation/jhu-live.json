@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 124696,
+      "confirmed": 125123,
       "date": "2021-02-11",
-      "deaths": 4853,
-      "recovered": 100640
+      "deaths": 4868,
+      "recovered": 102339
     }
   },
   "Brazil": {
@@ -477,9 +477,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 202887,
+      "confirmed": 203365,
       "date": "2021-02-11",
-      "deaths": 2255,
+      "deaths": 2269,
       "recovered": 195124
     }
   },
@@ -1115,41 +1115,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 115176,
+          "confirmed": 115627,
           "date": "2021-02-11",
-          "deaths": 1723,
+          "deaths": 1724,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 159079,
+          "confirmed": 159709,
           "date": "2021-02-11",
-          "deaths": 2750,
+          "deaths": 2759,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 170988,
+          "confirmed": 171861,
           "date": "2021-02-11",
-          "deaths": 2089,
+          "deaths": 2101,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 81114,
+          "confirmed": 81452,
           "date": "2021-02-11",
-          "deaths": 1043,
+          "deaths": 1063,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 241359,
+          "confirmed": 242330,
           "date": "2021-02-11",
-          "deaths": 3521,
+          "deaths": 3535,
           "recovered": 0
         }
       }
@@ -1313,17 +1313,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 371356,
+      "confirmed": 371720,
       "date": "2021-02-11",
-      "deaths": 6415,
-      "recovered": 362368
+      "deaths": 6420,
+      "recovered": 362642
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 413943,
+      "confirmed": 415943,
       "date": "2021-02-11",
-      "deaths": 4168,
+      "deaths": 4183,
       "recovered": 0
     }
   },
