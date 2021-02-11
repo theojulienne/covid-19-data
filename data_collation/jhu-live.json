@@ -374,7 +374,7 @@
           "confirmed": 287022,
           "date": "2021-02-11",
           "deaths": 6611,
-          "recovered": 268201
+          "recovered": 268544
         }
       },
       "Quebec": {
@@ -1491,17 +1491,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 598825,
+          "confirmed": 600254,
           "date": "2021-02-11",
-          "deaths": 10190,
+          "deaths": 10329,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2759926,
+          "confirmed": 2761464,
           "date": "2021-02-11",
-          "deaths": 37164,
+          "deaths": 37187,
           "recovered": 0
         }
       },
@@ -1515,7 +1515,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 979163,
+          "confirmed": 983683,
           "date": "2021-02-11",
           "deaths": 13005,
           "recovered": 0
@@ -1555,9 +1555,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 171194,
+          "confirmed": 171548,
           "date": "2021-02-11",
-          "deaths": 5985,
+          "deaths": 6005,
           "recovered": 0
         }
       },
@@ -1667,9 +1667,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 105088,
+          "confirmed": 105286,
           "date": "2021-02-11",
-          "deaths": 1220,
+          "deaths": 1221,
           "recovered": 0
         }
       }
