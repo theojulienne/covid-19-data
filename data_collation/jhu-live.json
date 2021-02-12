@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 91328,
+          "confirmed": 91639,
           "date": "2021-02-12",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 90503,
+          "confirmed": 90742,
           "date": "2021-02-12",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 76721,
+          "confirmed": 77080,
           "date": "2021-02-12",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 111890,
+          "confirmed": 112169,
           "date": "2021-02-12",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 103048,
+          "confirmed": 103188,
           "date": "2021-02-12",
           "deaths": 0,
           "recovered": 0
@@ -628,7 +628,7 @@
       "confirmed": 157468,
       "date": "2021-02-12",
       "deaths": 3806,
-      "recovered": 62120
+      "recovered": 62991
     }
   },
   "Hungary": {
@@ -957,10 +957,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 247533,
+      "confirmed": 248484,
       "date": "2021-02-12",
-      "deaths": 3131,
-      "recovered": 220211
+      "deaths": 3132,
+      "recovered": 220497
     }
   },
   "Kenya": {
@@ -1175,18 +1175,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 162391,
+          "confirmed": 162875,
           "date": "2021-02-12",
-          "deaths": 4982,
-          "recovered": 149987
+          "deaths": 4994,
+          "recovered": 150638
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 252296,
+          "confirmed": 252719,
           "date": "2021-02-12",
-          "deaths": 4171,
-          "recovered": 229215
+          "deaths": 4183,
+          "recovered": 229645
         }
       }
     }
