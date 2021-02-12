@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 794412,
-        "deaths": 20361,
+        "confirmed": 798394,
+        "deaths": 20486,
         "recovered": 726258
       },
       "back_2week": {
-        "confirmed": 766019,
-        "deaths": 19485,
+        "confirmed": 770825,
+        "deaths": 19676,
         "recovered": 690369
       },
       "latest": {
-        "confirmed": 818755,
-        "deaths": 21007,
+        "confirmed": 821932,
+        "deaths": 21089,
         "recovered": 760476
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 1
         },
         "Ontario": {
-          "confirmed": 286321,
-          "deaths": 6598
+          "confirmed": 287262,
+          "deaths": 6614
         },
         "Prince Edward Island": {
           "confirmed": 114,
@@ -1140,18 +1140,18 @@ var covid19_dataset_latest_totals = {
     "DOM": {
       "back_1week": {
         "confirmed": 217277,
-        "deaths": 2719,
-        "recovered": 160364
+        "deaths": 2747,
+        "recovered": 162810
       },
       "back_2week": {
         "confirmed": 207455,
-        "deaths": 2579,
-        "recovered": 150804
+        "deaths": 2603,
+        "recovered": 151703
       },
       "latest": {
         "confirmed": 225472,
-        "deaths": 2883,
-        "recovered": 171186
+        "deaths": 2904,
+        "recovered": 172562
       }
     },
     "DZA": {
@@ -1878,18 +1878,18 @@ var covid19_dataset_latest_totals = {
     "JOR": {
       "back_1week": {
         "confirmed": 330474,
-        "deaths": 4344,
-        "recovered": 317218
+        "deaths": 4354,
+        "recovered": 317948
       },
       "back_2week": {
         "confirmed": 323111,
-        "deaths": 4262,
-        "recovered": 311080
+        "deaths": 4269,
+        "recovered": 311888
       },
       "latest": {
         "confirmed": 340177,
-        "deaths": 4411,
-        "recovered": 323206
+        "deaths": 4421,
+        "recovered": 324070
       }
     },
     "JPN": {
@@ -2767,18 +2767,18 @@ var covid19_dataset_latest_totals = {
     "PRT": {
       "back_1week": {
         "confirmed": 740944,
-        "deaths": 13257,
-        "recovered": 563174
+        "deaths": 13482,
+        "recovered": 573934
       },
       "back_2week": {
         "confirmed": 668951,
-        "deaths": 11305,
-        "recovered": 484753
+        "deaths": 11608,
+        "recovered": 493699
       },
       "latest": {
         "confirmed": 774889,
-        "deaths": 14718,
-        "recovered": 636859
+        "deaths": 14885,
+        "recovered": 645122
       }
     },
     "PRY": {

@@ -353,7 +353,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 141522,
+      "confirmed": 141543,
       "date": "2021-02-12",
       "deaths": 3188,
       "recovered": 129287
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 287262,
+          "confirmed": 287557,
           "date": "2021-02-12",
-          "deaths": 6614,
-          "recovered": 268677
+          "deaths": 6634,
+          "recovered": 269018
         }
       },
       "Quebec": {
@@ -391,10 +391,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 350679,
+          "confirmed": 351567,
           "date": "2021-02-12",
-          "deaths": 11583,
-          "recovered": 334390
+          "deaths": 11608,
+          "recovered": 334857
         }
       }
     }
@@ -487,8 +487,8 @@
     "live": {
       "confirmed": 226714,
       "date": "2021-02-12",
-      "deaths": 2904,
-      "recovered": 172562
+      "deaths": 2917,
+      "recovered": 173882
     }
   },
   "Ecuador": {
@@ -543,18 +543,18 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 418459,
+          "confirmed": 418492,
           "date": "2021-02-12",
-          "deaths": 11548,
+          "deaths": 11549,
           "recovered": 383369
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 124134,
+          "confirmed": 124515,
           "date": "2021-02-12",
-          "deaths": 2574,
-          "recovered": 114773
+          "deaths": 2597,
+          "recovered": 114823
         }
       },
       "Brandenburg": {
@@ -591,18 +591,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 97141,
+          "confirmed": 97496,
           "date": "2021-02-12",
-          "deaths": 2846,
+          "deaths": 2871,
           "recovered": 87329
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 186520,
+          "confirmed": 186937,
           "date": "2021-02-12",
-          "deaths": 7044,
-          "recovered": 171000
+          "deaths": 7094,
+          "recovered": 171750
         }
       }
     }
@@ -959,8 +959,8 @@
     "live": {
       "confirmed": 341984,
       "date": "2021-02-12",
-      "deaths": 4421,
-      "recovered": 324070
+      "deaths": 4433,
+      "recovered": 324711
     }
   },
   "Kazakhstan": {
@@ -1247,8 +1247,8 @@
     "live": {
       "confirmed": 778369,
       "date": "2021-02-12",
-      "deaths": 14885,
-      "recovered": 645122
+      "deaths": 15034,
+      "recovered": 652739
     }
   },
   "Qatar": {
