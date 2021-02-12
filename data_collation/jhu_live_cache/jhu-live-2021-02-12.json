@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 2008345,
       "date": "2021-02-12",
-      "deaths": 49874,
-      "recovered": 1806260
+      "deaths": 50029,
+      "recovered": 1814160
     }
   },
   "Armenia": {
@@ -49,9 +49,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 110416,
+      "confirmed": 111312,
       "date": "2021-02-12",
-      "deaths": 393,
+      "deaths": 395,
       "recovered": 103878
     }
   },
@@ -455,8 +455,8 @@
     "live": {
       "confirmed": 198756,
       "date": "2021-02-12",
-      "deaths": 2710,
-      "recovered": 160462
+      "deaths": 2714,
+      "recovered": 160946
     }
   },
   "Croatia": {
@@ -503,8 +503,8 @@
     "live": {
       "confirmed": 171993,
       "date": "2021-02-12",
-      "deaths": 9857,
-      "recovered": 133707
+      "deaths": 9899,
+      "recovered": 134215
     }
   },
   "Ethiopia": {
@@ -1475,8 +1475,8 @@
     "live": {
       "confirmed": 220478,
       "date": "2021-02-12",
-      "deaths": 7429,
-      "recovered": 180830
+      "deaths": 7461,
+      "recovered": 181198
     }
   },
   "Turkey": {
@@ -1547,9 +1547,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 261511,
+          "confirmed": 262531,
           "date": "2021-02-12",
-          "deaths": 6950,
+          "deaths": 6982,
           "recovered": 0
         }
       },
@@ -1635,17 +1635,17 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 161729,
+          "confirmed": 162498,
           "date": "2021-02-12",
-          "deaths": 2214,
+          "deaths": 2229,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1294050,
+          "confirmed": 1295998,
           "date": "2021-02-12",
-          "deaths": 16588,
+          "deaths": 16725,
           "recovered": 0
         }
       },
