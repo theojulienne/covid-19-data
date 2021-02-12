@@ -52,7 +52,7 @@
       "confirmed": 110416,
       "date": "2021-02-12",
       "deaths": 393,
-      "recovered": 103251
+      "recovered": 103878
     }
   },
   "Bangladesh": {
@@ -493,9 +493,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 262213,
+      "confirmed": 263517,
       "date": "2021-02-12",
-      "deaths": 15174,
+      "deaths": 15220,
       "recovered": 220398
     }
   },
@@ -1337,7 +1337,7 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1484900,
+      "confirmed": 1487681,
       "date": "2021-02-12",
       "deaths": 47670,
       "recovered": 1383626
@@ -1499,17 +1499,17 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770611,
+          "confirmed": 2770861,
           "date": "2021-02-12",
-          "deaths": 37688,
+          "deaths": 37711,
           "recovered": 0
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 76266,
+          "confirmed": 76511,
           "date": "2021-02-12",
-          "deaths": 1982,
+          "deaths": 1986,
           "recovered": 0
         }
       },
@@ -1523,7 +1523,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 168689,
+          "confirmed": 169319,
           "date": "2021-02-12",
           "deaths": 1894,
           "recovered": 0
