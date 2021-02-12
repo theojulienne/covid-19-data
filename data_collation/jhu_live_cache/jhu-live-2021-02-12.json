@@ -464,7 +464,7 @@
       "confirmed": 236709,
       "date": "2021-02-12",
       "deaths": 5263,
-      "recovered": 228896
+      "recovered": 229327
     }
   },
   "Czechia": {
@@ -821,10 +821,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1191990,
+      "confirmed": 1201859,
       "date": "2021-02-12",
-      "deaths": 32381,
-      "recovered": 993117
+      "deaths": 32656,
+      "recovered": 1004117
     }
   },
   "Iran": {
@@ -950,7 +950,7 @@
           "confirmed": 105833,
           "date": "2021-02-12",
           "deaths": 1096,
-          "recovered": 98128
+          "recovered": 98559
         }
       }
     }
@@ -1040,7 +1040,7 @@
       "confirmed": 254988,
       "date": "2021-02-12",
       "deaths": 936,
-      "recovered": 202269
+      "recovered": 205774
     }
   },
   "Mexico": {
@@ -1237,9 +1237,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 1570658,
+      "confirmed": 1577036,
       "date": "2021-02-12",
-      "deaths": 40177,
+      "deaths": 40424,
       "recovered": 1330127
     }
   },
@@ -1329,7 +1329,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 271473,
+      "confirmed": 273904,
       "date": "2021-02-12",
       "deaths": 5733,
       "recovered": 255300
