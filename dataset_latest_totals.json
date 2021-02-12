@@ -3911,18 +3911,18 @@
     "ZAF": {
       "back_1week": {
         "confirmed": 1463016,
-        "deaths": 45344,
-        "recovered": 1323680
+        "deaths": 45605,
+        "recovered": 1327186
       },
       "back_2week": {
         "confirmed": 1430648,
-        "deaths": 42550,
-        "recovered": 1263476
+        "deaths": 43105,
+        "recovered": 1272197
       },
       "latest": {
         "confirmed": 1482412,
-        "deaths": 47145,
-        "recovered": 1374368
+        "deaths": 47382,
+        "recovered": 1377980
       }
     },
     "ZMB": {
