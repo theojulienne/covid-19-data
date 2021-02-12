@@ -997,9 +997,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 85328,
+      "confirmed": 85398,
       "date": "2021-02-12",
-      "deaths": 1437,
+      "deaths": 1439,
       "recovered": 82098
     }
   },
@@ -1219,7 +1219,7 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 542219,
+          "confirmed": 550121,
           "date": "2021-02-12",
           "deaths": 18825,
           "recovered": 0
@@ -1768,7 +1768,7 @@
       "confirmed": 79303,
       "date": "2021-02-12",
       "deaths": 622,
-      "recovered": 77726
+      "recovered": 77780
     }
   },
   "Venezuela": {
