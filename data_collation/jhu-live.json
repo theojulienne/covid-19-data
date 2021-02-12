@@ -644,7 +644,7 @@
       "confirmed": 381875,
       "date": "2021-02-12",
       "deaths": 13444,
-      "recovered": 287134
+      "recovered": 289520
     }
   },
   "India": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 714812,
+      "confirmed": 716643,
       "date": "2021-02-12",
-      "deaths": 5283,
-      "recovered": 644703
+      "deaths": 5286,
+      "recovered": 645768
     }
   },
   "Italy": {
@@ -1232,7 +1232,7 @@
       "confirmed": 543282,
       "date": "2021-02-12",
       "deaths": 11469,
-      "recovered": 500335
+      "recovered": 500654
     }
   },
   "Poland": {
@@ -1273,40 +1273,40 @@
         "live": {
           "confirmed": 950517,
           "date": "2021-02-12",
-          "deaths": 14160,
-          "recovered": 861916
+          "deaths": 14223,
+          "recovered": 865100
         }
       },
       "Moscow Oblast": {
         "live": {
           "confirmed": 202477,
           "date": "2021-02-12",
-          "deaths": 4147,
-          "recovered": 163834
+          "deaths": 4177,
+          "recovered": 164682
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
           "confirmed": 89557,
           "date": "2021-02-12",
-          "deaths": 2259,
-          "recovered": 81539
+          "deaths": 2273,
+          "recovered": 81984
         }
       },
       "Saint Petersburg": {
         "live": {
           "confirmed": 349740,
           "date": "2021-02-12",
-          "deaths": 10298,
-          "recovered": 260037
+          "deaths": 10356,
+          "recovered": 263483
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
           "confirmed": 73948,
           "date": "2021-02-12",
-          "deaths": 2183,
-          "recovered": 66734
+          "deaths": 2197,
+          "recovered": 67018
         }
       }
     }
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2767549,
+          "confirmed": 2768175,
           "date": "2021-02-12",
-          "deaths": 37509,
+          "deaths": 37576,
           "recovered": 0
         }
       },
