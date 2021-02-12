@@ -1000,7 +1000,7 @@
       "confirmed": 85328,
       "date": "2021-02-12",
       "deaths": 1437,
-      "recovered": 82006
+      "recovered": 82098
     }
   },
   "Latvia": {
@@ -1221,7 +1221,7 @@
         "live": {
           "confirmed": 542219,
           "date": "2021-02-12",
-          "deaths": 18661,
+          "deaths": 18825,
           "recovered": 0
         }
       }

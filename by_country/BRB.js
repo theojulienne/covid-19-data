@@ -777,7 +777,8 @@ var covid19_dataset_country_brb = {
       1709,
       1732,
       1814,
-      1857
+      1857,
+      1904
     ],
     "deaths": [
       0,
@@ -1164,6 +1165,7 @@ var covid19_dataset_country_brb = {
       18,
       18,
       18,
+      20,
       20,
       20
     ],
@@ -1553,7 +1555,8 @@ var covid19_dataset_country_brb = {
       1400,
       1427,
       1470,
-      1504
+      1504,
+      1547
     ]
   }
 };
