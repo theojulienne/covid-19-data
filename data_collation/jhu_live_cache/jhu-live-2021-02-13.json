@@ -1279,42 +1279,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 952656,
+          "confirmed": 954619,
           "date": "2021-02-13",
-          "deaths": 14223,
-          "recovered": 865100
+          "deaths": 14290,
+          "recovered": 867780
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 203319,
+          "confirmed": 204203,
           "date": "2021-02-13",
-          "deaths": 4177,
-          "recovered": 164682
+          "deaths": 4208,
+          "recovered": 165578
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 89996,
+          "confirmed": 90437,
           "date": "2021-02-13",
-          "deaths": 2273,
-          "recovered": 81984
+          "deaths": 2285,
+          "recovered": 82427
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 350874,
+          "confirmed": 352004,
           "date": "2021-02-13",
-          "deaths": 10356,
-          "recovered": 263483
+          "deaths": 10408,
+          "recovered": 266161
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 74224,
+          "confirmed": 74496,
           "date": "2021-02-13",
-          "deaths": 2197,
-          "recovered": 67018
+          "deaths": 2210,
+          "recovered": 67303
         }
       }
     }
