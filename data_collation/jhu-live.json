@@ -43,8 +43,8 @@
     "live": {
       "confirmed": 231840,
       "date": "2021-02-13",
-      "deaths": 3173,
-      "recovered": 226345
+      "deaths": 3178,
+      "recovered": 226514
     }
   },
   "Bahrain": {
@@ -138,7 +138,7 @@
           "confirmed": 122999,
           "date": "2021-02-13",
           "deaths": 2848,
-          "recovered": 116976
+          "recovered": 117403
         }
       },
       "Amapa": {
@@ -154,7 +154,7 @@
           "confirmed": 292494,
           "date": "2021-02-13",
           "deaths": 9753,
-          "recovered": 244354
+          "recovered": 248575
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 623678,
           "date": "2021-02-13",
           "deaths": 10610,
-          "recovered": 595314
+          "recovered": 598416
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 283706,
           "date": "2021-02-13",
           "deaths": 4671,
-          "recovered": 273141
+          "recovered": 273949
         }
       },
       "Espirito Santo": {
@@ -210,7 +210,7 @@
           "confirmed": 230522,
           "date": "2021-02-13",
           "deaths": 5336,
-          "recovered": 216567
+          "recovered": 217649
         }
       },
       "Mato Grosso do Sul": {
@@ -218,7 +218,7 @@
           "confirmed": 169308,
           "date": "2021-02-13",
           "deaths": 3100,
-          "recovered": 158161
+          "recovered": 158878
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 798711,
           "date": "2021-02-13",
           "deaths": 16595,
-          "recovered": 717863
+          "recovered": 723139
         }
       },
       "Para": {
@@ -242,7 +242,7 @@
           "confirmed": 203113,
           "date": "2021-02-13",
           "deaths": 4213,
-          "recovered": 154210
+          "recovered": 154749
         }
       },
       "Parana": {
@@ -274,7 +274,7 @@
           "confirmed": 148199,
           "date": "2021-02-13",
           "deaths": 3392,
-          "recovered": 104832
+          "recovered": 108220
         }
       },
       "Rio Grande do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 580518,
           "date": "2021-02-13",
           "deaths": 11300,
-          "recovered": 553624
+          "recovered": 556374
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 551882,
           "date": "2021-02-13",
           "deaths": 31283,
-          "recovered": 513870
+          "recovered": 516418
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 608544,
           "date": "2021-02-13",
           "deaths": 6686,
-          "recovered": 580228
+          "recovered": 583085
         }
       },
       "Sao Paulo": {
@@ -599,9 +599,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 97521,
+          "confirmed": 97619,
           "date": "2021-02-13",
-          "deaths": 2873,
+          "deaths": 2875,
           "recovered": 87818
         }
       },
@@ -837,18 +837,18 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1503753,
+      "confirmed": 1510873,
       "date": "2021-02-13",
-      "deaths": 58809,
-      "recovered": 1285014
+      "deaths": 58883,
+      "recovered": 1291726
     }
   },
   "Iraq": {
     "live": {
       "confirmed": 639438,
       "date": "2021-02-13",
-      "deaths": 13157,
-      "recovered": 604822
+      "deaths": 13164,
+      "recovered": 605980
     }
   },
   "Ireland": {
@@ -1013,7 +1013,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 75509,
+      "confirmed": 76282,
       "date": "2021-02-13",
       "deaths": 1443,
       "recovered": 64528
@@ -1113,7 +1113,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 272557,
+      "confirmed": 272614,
       "date": "2021-02-13",
       "deaths": 2054,
       "recovered": 268929
@@ -1269,10 +1269,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 757676,
+      "confirmed": 760091,
       "date": "2021-02-13",
-      "deaths": 19277,
-      "recovered": 703966
+      "deaths": 19325,
+      "recovered": 706394
     }
   },
   "Russia": {
