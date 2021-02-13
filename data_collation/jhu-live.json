@@ -495,8 +495,8 @@
     "live": {
       "confirmed": 227764,
       "date": "2021-02-13",
-      "deaths": 2917,
-      "recovered": 173882
+      "deaths": 2932,
+      "recovered": 175329
     }
   },
   "Ecuador": {
@@ -967,8 +967,8 @@
     "live": {
       "confirmed": 343563,
       "date": "2021-02-13",
-      "deaths": 4433,
-      "recovered": 324711
+      "deaths": 4444,
+      "recovered": 325892
     }
   },
   "Kazakhstan": {
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 417871,
+      "confirmed": 419493,
       "date": "2021-02-13",
-      "deaths": 4199,
+      "deaths": 4214,
       "recovered": 0
     }
   },
@@ -1483,7 +1483,7 @@
     "live": {
       "confirmed": 540727,
       "date": "2021-02-13",
-      "deaths": 9747,
+      "deaths": 9750,
       "recovered": 317600
     }
   },
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1298758,
+          "confirmed": 1299161,
           "date": "2021-02-13",
           "deaths": 16796,
           "recovered": 0
