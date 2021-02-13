@@ -186,7 +186,7 @@
           "confirmed": 309294,
           "date": "2021-02-13",
           "deaths": 6116,
-          "recovered": 290125
+          "recovered": 291870
         }
       },
       "Goias": {
@@ -369,6 +369,14 @@
           "recovered": 121068
         }
       },
+      "British Columbia": {
+        "live": {
+          "confirmed": 72750,
+          "date": "2021-02-13",
+          "deaths": 1288,
+          "recovered": 67008
+        }
+      },
       "Ontario": {
         "live": {
           "confirmed": 287873,
@@ -382,7 +390,7 @@
           "confirmed": 274831,
           "date": "2021-02-13",
           "deaths": 10173,
-          "recovered": 252651
+          "recovered": 254001
         }
       }
     }
@@ -1499,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770905,
+          "confirmed": 2774241,
           "date": "2021-02-13",
-          "deaths": 37712,
+          "deaths": 37823,
           "recovered": 0
         }
       },
@@ -1619,9 +1627,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 187007,
+          "confirmed": 114308,
           "date": "2021-02-13",
-          "deaths": 4639,
+          "deaths": 3009,
           "recovered": 0
         }
       },
@@ -1643,7 +1651,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1298042,
+          "confirmed": 1298758,
           "date": "2021-02-13",
           "deaths": 16796,
           "recovered": 0
@@ -1661,7 +1669,7 @@
         "live": {
           "confirmed": 81082,
           "date": "2021-02-13",
-          "deaths": 1305,
+          "deaths": 1311,
           "recovered": 0
         }
       },
