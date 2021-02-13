@@ -120,7 +120,7 @@
       "confirmed": 233854,
       "date": "2021-02-13",
       "deaths": 11044,
-      "recovered": 174329
+      "recovered": 175958
     }
   },
   "Bosnia and Herzegovina": {
@@ -968,7 +968,7 @@
       "confirmed": 248566,
       "date": "2021-02-13",
       "deaths": 3132,
-      "recovered": 220497
+      "recovered": 221838
     }
   },
   "Kenya": {
@@ -981,10 +981,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 82837,
+      "confirmed": 83199,
       "date": "2021-02-13",
-      "deaths": 1507,
-      "recovered": 72936
+      "deaths": 1514,
+      "recovered": 73227
     }
   },
   "Kuwait": {
@@ -1049,7 +1049,7 @@
         "live": {
           "confirmed": 514415,
           "date": "2021-02-13",
-          "deaths": 24563,
+          "deaths": 24821,
           "recovered": 0
         }
       },
@@ -1057,7 +1057,7 @@
         "live": {
           "confirmed": 113160,
           "date": "2021-02-13",
-          "deaths": 8241,
+          "deaths": 8351,
           "recovered": 0
         }
       },
@@ -1065,7 +1065,7 @@
         "live": {
           "confirmed": 73753,
           "date": "2021-02-13",
-          "deaths": 9469,
+          "deaths": 9582,
           "recovered": 0
         }
       },
@@ -1073,7 +1073,7 @@
         "live": {
           "confirmed": 203108,
           "date": "2021-02-13",
-          "deaths": 26346,
+          "deaths": 26556,
           "recovered": 0
         }
       },
@@ -1081,7 +1081,7 @@
         "live": {
           "confirmed": 111419,
           "date": "2021-02-13",
-          "deaths": 7446,
+          "deaths": 7527,
           "recovered": 0
         }
       }
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2774241,
+          "confirmed": 2775058,
           "date": "2021-02-13",
-          "deaths": 37823,
+          "deaths": 37847,
           "recovered": 0
         }
       },
@@ -1667,7 +1667,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 81082,
+          "confirmed": 81330,
           "date": "2021-02-13",
           "deaths": 1311,
           "recovered": 0
