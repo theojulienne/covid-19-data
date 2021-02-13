@@ -51,8 +51,8 @@
     "live": {
       "confirmed": 111312,
       "date": "2021-02-13",
-      "deaths": 395,
-      "recovered": 103878
+      "deaths": 398,
+      "recovered": 104487
     }
   },
   "Bangladesh": {
@@ -194,7 +194,7 @@
           "confirmed": 369652,
           "date": "2021-02-13",
           "deaths": 7911,
-          "recovered": 354698
+          "recovered": 355869
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 169308,
           "date": "2021-02-13",
           "deaths": 3100,
-          "recovered": 158878
+          "recovered": 160000
         }
       },
       "Minas Gerais": {
@@ -250,7 +250,7 @@
           "confirmed": 583786,
           "date": "2021-02-13",
           "deaths": 10661,
-          "recovered": 427487
+          "recovered": 431303
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 551882,
           "date": "2021-02-13",
           "deaths": 31283,
-          "recovered": 516418
+          "recovered": 518643
         }
       },
       "Rondonia": {
@@ -330,7 +330,7 @@
           "confirmed": 143837,
           "date": "2021-02-13",
           "deaths": 2861,
-          "recovered": 134274
+          "recovered": 134583
         }
       },
       "Tocantins": {
@@ -338,7 +338,7 @@
           "confirmed": 106495,
           "date": "2021-02-13",
           "deaths": 1447,
-          "recovered": 97299
+          "recovered": 97560
         }
       }
     }
@@ -551,9 +551,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 124518,
+          "confirmed": 124719,
           "date": "2021-02-13",
-          "deaths": 2598,
+          "deaths": 2605,
           "recovered": 115124
         }
       },
@@ -609,9 +609,9 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 74347,
+      "confirmed": 75118,
       "date": "2021-02-13",
-      "deaths": 505,
+      "deaths": 518,
       "recovered": 66846
     }
   },
@@ -625,9 +625,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 166283,
+      "confirmed": 167071,
       "date": "2021-02-13",
-      "deaths": 6057,
+      "deaths": 6094,
       "recovered": 153614
     }
   },
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 721759,
+      "confirmed": 721846,
       "date": "2021-02-13",
-      "deaths": 5340,
-      "recovered": 655235
+      "deaths": 5351,
+      "recovered": 655292
     }
   },
   "Italy": {
@@ -1097,9 +1097,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 477656,
+      "confirmed": 478135,
       "date": "2021-02-13",
-      "deaths": 8450,
+      "deaths": 8460,
       "recovered": 458504
     }
   },
@@ -1475,7 +1475,7 @@
     "live": {
       "confirmed": 540727,
       "date": "2021-02-13",
-      "deaths": 9750,
+      "deaths": 9755,
       "recovered": 317600
     }
   },
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2777258,
+          "confirmed": 2778514,
           "date": "2021-02-13",
-          "deaths": 37955,
+          "deaths": 38006,
           "recovered": 0
         }
       },
@@ -1523,7 +1523,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 987845,
+          "confirmed": 992206,
           "date": "2021-02-13",
           "deaths": 13128,
           "recovered": 0
@@ -1531,7 +1531,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 169319,
+          "confirmed": 169994,
           "date": "2021-02-13",
           "deaths": 1916,
           "recovered": 0
@@ -1563,7 +1563,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 99157,
+          "confirmed": 99289,
           "date": "2021-02-13",
           "deaths": 4083,
           "recovered": 0
@@ -1643,9 +1643,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 162498,
+          "confirmed": 163398,
           "date": "2021-02-13",
-          "deaths": 2229,
+          "deaths": 2233,
           "recovered": 0
         }
       },
