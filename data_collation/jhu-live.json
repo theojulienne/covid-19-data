@@ -19,8 +19,8 @@
     "live": {
       "confirmed": 2015496,
       "date": "2021-02-13",
-      "deaths": 50029,
-      "recovered": 1814160
+      "deaths": 50188,
+      "recovered": 1820965
     }
   },
   "Armenia": {
@@ -49,7 +49,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 111312,
+      "confirmed": 112102,
       "date": "2021-02-13",
       "deaths": 398,
       "recovered": 104487
@@ -146,7 +146,7 @@
           "confirmed": 80191,
           "date": "2021-02-13",
           "deaths": 1098,
-          "recovered": 59135
+          "recovered": 59318
         }
       },
       "Amazonas": {
@@ -234,7 +234,7 @@
           "confirmed": 346146,
           "date": "2021-02-13",
           "deaths": 7924,
-          "recovered": 325493
+          "recovered": 326173
         }
       },
       "Paraiba": {
@@ -282,7 +282,7 @@
           "confirmed": 580518,
           "date": "2021-02-13",
           "deaths": 11300,
-          "recovered": 556374
+          "recovered": 557341
         }
       },
       "Rio de Janeiro": {
@@ -1499,9 +1499,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 602290,
+          "confirmed": 603617,
           "date": "2021-02-13",
-          "deaths": 10467,
+          "deaths": 10550,
           "recovered": 0
         }
       },
@@ -1555,9 +1555,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 262531,
+          "confirmed": 263405,
           "date": "2021-02-13",
-          "deaths": 6982,
+          "deaths": 7012,
           "recovered": 0
         }
       },
@@ -1651,7 +1651,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1299615,
+          "confirmed": 1302009,
           "date": "2021-02-13",
           "deaths": 16915,
           "recovered": 0
