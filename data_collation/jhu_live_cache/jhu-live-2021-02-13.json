@@ -41,7 +41,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 231840,
+      "confirmed": 231995,
       "date": "2021-02-13",
       "deaths": 3178,
       "recovered": 226514
@@ -60,7 +60,7 @@
       "confirmed": 539975,
       "date": "2021-02-13",
       "deaths": 8253,
-      "recovered": 486393
+      "recovered": 486767
     }
   },
   "Belarus": {
@@ -488,7 +488,7 @@
       "confirmed": 203793,
       "date": "2021-02-13",
       "deaths": 2280,
-      "recovered": 195625
+      "recovered": 196027
     }
   },
   "Dominican Republic": {
@@ -845,7 +845,7 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 639438,
+      "confirmed": 641628,
       "date": "2021-02-13",
       "deaths": 13164,
       "recovered": 605980
@@ -1321,10 +1321,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 372073,
+      "confirmed": 372410,
       "date": "2021-02-13",
-      "deaths": 6424,
-      "recovered": 362947
+      "deaths": 6429,
+      "recovered": 363303
     }
   },
   "Serbia": {
@@ -1448,7 +1448,7 @@
       "confirmed": 74056,
       "date": "2021-02-13",
       "deaths": 384,
-      "recovered": 66984
+      "recovered": 67831
     }
   },
   "Sweden": {
