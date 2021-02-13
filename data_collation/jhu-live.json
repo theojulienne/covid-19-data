@@ -1013,10 +1013,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 334093,
+      "confirmed": 339268,
       "date": "2021-02-13",
-      "deaths": 3915,
-      "recovered": 224380
+      "deaths": 3961,
+      "recovered": 226658
     }
   },
   "Libya": {
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 550121,
+          "confirmed": 554538,
           "date": "2021-02-13",
-          "deaths": 18825,
+          "deaths": 18909,
           "recovered": 0
         }
       }
@@ -1437,7 +1437,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 74484,
+      "confirmed": 74852,
       "date": "2021-02-13",
       "deaths": 384,
       "recovered": 67831
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2775694,
+          "confirmed": 2776349,
           "date": "2021-02-13",
-          "deaths": 37911,
+          "deaths": 37955,
           "recovered": 0
         }
       },
@@ -1539,7 +1539,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 539151,
+          "confirmed": 540083,
           "date": "2021-02-13",
           "deaths": 10273,
           "recovered": 0
@@ -1579,7 +1579,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 86196,
+          "confirmed": 86374,
           "date": "2021-02-13",
           "deaths": 1851,
           "recovered": 0
@@ -1611,9 +1611,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 200793,
+          "confirmed": 201300,
           "date": "2021-02-13",
-          "deaths": 2560,
+          "deaths": 2789,
           "recovered": 0
         }
       },
