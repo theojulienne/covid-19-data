@@ -845,9 +845,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 208796,
+      "confirmed": 209582,
       "date": "2021-02-14",
-      "deaths": 3931,
+      "deaths": 3948,
       "recovered": 23364
     }
   },
@@ -1013,10 +1013,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 336999,
+      "confirmed": 339129,
       "date": "2021-02-14",
-      "deaths": 3961,
-      "recovered": 226658
+      "deaths": 3993,
+      "recovered": 239293
     }
   },
   "Libya": {
@@ -1221,7 +1221,7 @@
         "live": {
           "confirmed": 554538,
           "date": "2021-02-14",
-          "deaths": 18909,
+          "deaths": 19014,
           "recovered": 0
         }
       }
@@ -1437,7 +1437,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 75209,
+      "confirmed": 75654,
       "date": "2021-02-14",
       "deaths": 390,
       "recovered": 68696
@@ -1541,7 +1541,7 @@
         "live": {
           "confirmed": 540083,
           "date": "2021-02-14",
-          "deaths": 10273,
+          "deaths": 10288,
           "recovered": 0
         }
       },
@@ -1587,17 +1587,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 221949,
+          "confirmed": 222429,
           "date": "2021-02-14",
-          "deaths": 3625,
+          "deaths": 3639,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1005788,
+          "confirmed": 1009629,
           "date": "2021-02-14",
-          "deaths": 34315,
+          "deaths": 34404,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 78642,
+          "confirmed": 78840,
           "date": "2021-02-14",
-          "deaths": 657,
+          "deaths": 666,
           "recovered": 0
         }
       },
