@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 250399,
+      "confirmed": 250476,
       "date": "2021-02-14",
-      "deaths": 3135,
-      "recovered": 223153
+      "deaths": 3138,
+      "recovered": 223408
     }
   },
   "Kenya": {
@@ -997,7 +997,7 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 85441,
+      "confirmed": 85475,
       "date": "2021-02-14",
       "deaths": 1441,
       "recovered": 82253
@@ -1765,7 +1765,7 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79381,
+      "confirmed": 79416,
       "date": "2021-02-14",
       "deaths": 622,
       "recovered": 77890
