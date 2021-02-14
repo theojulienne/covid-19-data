@@ -27,8 +27,8 @@
     "live": {
       "confirmed": 169022,
       "date": "2021-02-14",
-      "deaths": 3140,
-      "recovered": 160942
+      "deaths": 3141,
+      "recovered": 161015
     }
   },
   "Austria": {
@@ -469,10 +469,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1082849,
+      "confirmed": 1088009,
       "date": "2021-02-14",
-      "deaths": 18058,
-      "recovered": 963707
+      "deaths": 18143,
+      "recovered": 966399
     }
   },
   "Denmark": {
@@ -527,8 +527,8 @@
     "live": {
       "confirmed": 265200,
       "date": "2021-02-14",
-      "deaths": 3343,
-      "recovered": 257441
+      "deaths": 3352,
+      "recovered": 258093
     }
   },
   "Germany": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2782926,
+          "confirmed": 2783492,
           "date": "2021-02-14",
-          "deaths": 38266,
+          "deaths": 38285,
           "recovered": 0
         }
       },
@@ -1687,34 +1687,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 80301,
+          "confirmed": 80394,
           "date": "2021-02-14",
-          "deaths": 1476,
-          "recovered": 73612
+          "deaths": 1478,
+          "recovered": 73936
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 131867,
+          "confirmed": 131949,
           "date": "2021-02-14",
-          "deaths": 2504,
-          "recovered": 86719
+          "deaths": 2514,
+          "recovered": 87000
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 74184,
+          "confirmed": 74348,
           "date": "2021-02-14",
-          "deaths": 2186,
-          "recovered": 66091
+          "deaths": 2187,
+          "recovered": 66168
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 83225,
+          "confirmed": 83296,
           "date": "2021-02-14",
           "deaths": 1375,
-          "recovered": 76351
+          "recovered": 76356
         }
       }
     }
