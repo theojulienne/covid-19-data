@@ -51,8 +51,8 @@
     "live": {
       "confirmed": 112102,
       "date": "2021-02-14",
-      "deaths": 398,
-      "recovered": 104487
+      "deaths": 403,
+      "recovered": 105166
     }
   },
   "Bangladesh": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 723726,
+      "confirmed": 724380,
       "date": "2021-02-14",
-      "deaths": 5378,
-      "recovered": 662401
+      "deaths": 5388,
+      "recovered": 663732
     }
   },
   "Italy": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2784779,
+          "confirmed": 2785229,
           "date": "2021-02-14",
-          "deaths": 38325,
+          "deaths": 38358,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 169994,
+          "confirmed": 170435,
           "date": "2021-02-14",
           "deaths": 1918,
           "recovered": 0
@@ -1643,9 +1643,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 163398,
+          "confirmed": 164270,
           "date": "2021-02-14",
-          "deaths": 2233,
+          "deaths": 2241,
           "recovered": 0
         }
       },
