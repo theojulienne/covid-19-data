@@ -406,7 +406,7 @@
           "confirmed": 335422,
           "date": "2021-02-14",
           "deaths": 6260,
-          "recovered": 321990
+          "recovered": 322665
         }
       },
       "Atlantico": {
@@ -414,7 +414,7 @@
           "confirmed": 119727,
           "date": "2021-02-14",
           "deaths": 3935,
-          "recovered": 113735
+          "recovered": 114066
         }
       },
       "Capital District": {
@@ -422,7 +422,7 @@
           "confirmed": 640081,
           "date": "2021-02-14",
           "deaths": 13349,
-          "recovered": 605210
+          "recovered": 606992
         }
       },
       "Cundinamarca": {
@@ -430,7 +430,7 @@
           "confirmed": 101910,
           "date": "2021-02-14",
           "deaths": 2738,
-          "recovered": 95868
+          "recovered": 96189
         }
       },
       "Santander": {
@@ -438,7 +438,7 @@
           "confirmed": 87793,
           "date": "2021-02-14",
           "deaths": 3142,
-          "recovered": 81623
+          "recovered": 81993
         }
       },
       "Valle del Cauca": {
@@ -446,7 +446,7 @@
           "confirmed": 188511,
           "date": "2021-02-14",
           "deaths": 5915,
-          "recovered": 176478
+          "recovered": 177174
         }
       }
     }
@@ -611,8 +611,8 @@
     "live": {
       "confirmed": 75118,
       "date": "2021-02-14",
-      "deaths": 518,
-      "recovered": 66846
+      "deaths": 533,
+      "recovered": 67087
     }
   },
   "Greece": {
@@ -1439,7 +1439,7 @@
     "live": {
       "confirmed": 74852,
       "date": "2021-02-14",
-      "deaths": 384,
+      "deaths": 390,
       "recovered": 67831
     }
   },
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2779192,
+          "confirmed": 2782035,
           "date": "2021-02-14",
-          "deaths": 38038,
+          "deaths": 38218,
           "recovered": 0
         }
       },
@@ -1651,7 +1651,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1302009,
+          "confirmed": 1302693,
           "date": "2021-02-14",
           "deaths": 16915,
           "recovered": 0
@@ -1775,8 +1775,8 @@
     "live": {
       "confirmed": 132259,
       "date": "2021-02-14",
-      "deaths": 1267,
-      "recovered": 124253
+      "deaths": 1273,
+      "recovered": 124734
     }
   },
   "West Bank and Gaza": {
