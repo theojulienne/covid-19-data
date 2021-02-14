@@ -25,7 +25,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 169022,
+      "confirmed": 169167,
       "date": "2021-02-14",
       "deaths": 3141,
       "recovered": 161015
@@ -525,7 +525,7 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 265200,
+      "confirmed": 265557,
       "date": "2021-02-14",
       "deaths": 3352,
       "recovered": 258093
@@ -575,10 +575,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 153187,
+          "confirmed": 153188,
           "date": "2021-02-14",
           "deaths": 3836,
-          "recovered": 138851
+          "recovered": 138857
         }
       },
       "Nordrhein-Westfalen": {
@@ -644,7 +644,7 @@
       "confirmed": 385755,
       "date": "2021-02-14",
       "deaths": 13636,
-      "recovered": 293542
+      "recovered": 296173
     }
   },
   "India": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 721846,
+      "confirmed": 723038,
       "date": "2021-02-14",
-      "deaths": 5351,
-      "recovered": 655292
+      "deaths": 5368,
+      "recovered": 656199
     }
   },
   "Italy": {
@@ -1271,42 +1271,42 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 954619,
+          "confirmed": 956178,
           "date": "2021-02-14",
-          "deaths": 14290,
-          "recovered": 867780
+          "deaths": 14348,
+          "recovered": 869869
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 204203,
+          "confirmed": 205031,
           "date": "2021-02-14",
-          "deaths": 4208,
-          "recovered": 165578
+          "deaths": 4237,
+          "recovered": 166380
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 90437,
+          "confirmed": 90871,
           "date": "2021-02-14",
-          "deaths": 2285,
-          "recovered": 82427
+          "deaths": 2294,
+          "recovered": 82864
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 352004,
+          "confirmed": 353103,
           "date": "2021-02-14",
-          "deaths": 10408,
-          "recovered": 266161
+          "deaths": 10463,
+          "recovered": 267706
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 74496,
+          "confirmed": 74764,
           "date": "2021-02-14",
-          "deaths": 2210,
-          "recovered": 67303
+          "deaths": 2221,
+          "recovered": 67580
         }
       }
     }
