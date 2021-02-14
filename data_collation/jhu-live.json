@@ -535,18 +535,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 305024,
+          "confirmed": 305815,
           "date": "2021-02-14",
-          "deaths": 7717,
-          "recovered": 281315
+          "deaths": 7741,
+          "recovered": 282206
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 419743,
+          "confirmed": 420473,
           "date": "2021-02-14",
-          "deaths": 11651,
-          "recovered": 385086
+          "deaths": 11681,
+          "recovered": 386315
         }
       },
       "Berlin": {
@@ -554,54 +554,54 @@
           "confirmed": 124719,
           "date": "2021-02-14",
           "deaths": 2605,
-          "recovered": 115124
+          "recovered": 115338
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 72853,
+          "confirmed": 73087,
           "date": "2021-02-14",
-          "deaths": 2783,
+          "deaths": 2790,
           "recovered": 64605
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 180050,
+          "confirmed": 180444,
           "date": "2021-02-14",
-          "deaths": 5434,
-          "recovered": 162862
+          "deaths": 5448,
+          "recovered": 163394
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 152918,
+          "confirmed": 153187,
           "date": "2021-02-14",
-          "deaths": 3823,
-          "recovered": 138376
+          "deaths": 3836,
+          "recovered": 138851
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 508203,
+          "confirmed": 509494,
           "date": "2021-02-14",
-          "deaths": 12064,
-          "recovered": 464661
+          "deaths": 12096,
+          "recovered": 466028
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 97619,
+          "confirmed": 97640,
           "date": "2021-02-14",
-          "deaths": 2875,
-          "recovered": 87818
+          "deaths": 2877,
+          "recovered": 88167
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 187261,
+          "confirmed": 187317,
           "date": "2021-02-14",
-          "deaths": 7115,
+          "deaths": 7127,
           "recovered": 172300
         }
       }
@@ -636,7 +636,7 @@
       "confirmed": 159024,
       "date": "2021-02-14",
       "deaths": 3848,
-      "recovered": 63153
+      "recovered": 63170
     }
   },
   "Hungary": {
