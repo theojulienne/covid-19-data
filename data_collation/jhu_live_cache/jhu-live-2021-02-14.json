@@ -562,7 +562,7 @@
           "confirmed": 73087,
           "date": "2021-02-14",
           "deaths": 2790,
-          "recovered": 64605
+          "recovered": 64763
         }
       },
       "Hessen": {
@@ -575,7 +575,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 153188,
+          "confirmed": 153477,
           "date": "2021-02-14",
           "deaths": 3836,
           "recovered": 138857
@@ -591,7 +591,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 97640,
+          "confirmed": 97852,
           "date": "2021-02-14",
           "deaths": 2877,
           "recovered": 88167
@@ -829,10 +829,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1510873,
+      "confirmed": 1518263,
       "date": "2021-02-14",
-      "deaths": 58883,
-      "recovered": 1291726
+      "deaths": 58945,
+      "recovered": 1298023
     }
   },
   "Iraq": {
@@ -1173,7 +1173,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 136622,
+      "confirmed": 137306,
       "date": "2021-02-14",
       "deaths": 1542,
       "recovered": 129054
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 760091,
+      "confirmed": 761963,
       "date": "2021-02-14",
-      "deaths": 19325,
-      "recovered": 706394
+      "deaths": 19366,
+      "recovered": 708151
     }
   },
   "Russia": {
@@ -1783,8 +1783,8 @@
     "live": {
       "confirmed": 166800,
       "date": "2021-02-14",
-      "deaths": 1930,
-      "recovered": 155950
+      "deaths": 1933,
+      "recovered": 156472
     }
   }
 }
