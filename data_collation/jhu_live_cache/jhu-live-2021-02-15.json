@@ -33,7 +33,7 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 433487,
+      "confirmed": 434712,
       "date": "2021-02-15",
       "deaths": 8221,
       "recovered": 412457
@@ -57,7 +57,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 540592,
+      "confirmed": 541038,
       "date": "2021-02-15",
       "deaths": 8285,
       "recovered": 487870
@@ -461,7 +461,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 237657,
+      "confirmed": 237725,
       "date": "2021-02-15",
       "deaths": 5339,
       "recovered": 230384
@@ -575,9 +575,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 153651,
+          "confirmed": 154037,
           "date": "2021-02-15",
-          "deaths": 3845,
+          "deaths": 3846,
           "recovered": 139551
         }
       },
@@ -831,8 +831,8 @@
     "live": {
       "confirmed": 1518263,
       "date": "2021-02-15",
-      "deaths": 58945,
-      "recovered": 1298023
+      "deaths": 59028,
+      "recovered": 1304330
     }
   },
   "Iraq": {
@@ -949,7 +949,7 @@
         "live": {
           "confirmed": 106839,
           "date": "2021-02-15",
-          "deaths": 1128,
+          "deaths": 1134,
           "recovered": 100170
         }
       }
@@ -1007,7 +1007,7 @@
     "live": {
       "confirmed": 76706,
       "date": "2021-02-15",
-      "deaths": 1451,
+      "deaths": 1468,
       "recovered": 65046
     }
   },
@@ -1107,8 +1107,8 @@
     "live": {
       "confirmed": 272718,
       "date": "2021-02-15",
-      "deaths": 2054,
-      "recovered": 269060
+      "deaths": 2055,
+      "recovered": 269204
     }
   },
   "Netherlands": {
@@ -1263,8 +1263,8 @@
     "live": {
       "confirmed": 761963,
       "date": "2021-02-15",
-      "deaths": 19366,
-      "recovered": 708151
+      "deaths": 19445,
+      "recovered": 709520
     }
   },
   "Russia": {
@@ -1329,7 +1329,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 276234,
+      "confirmed": 278254,
       "date": "2021-02-15",
       "deaths": 5952,
       "recovered": 255300
@@ -1337,7 +1337,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 179477,
+      "confirmed": 179726,
       "date": "2021-02-15",
       "deaths": 3728,
       "recovered": 163162
@@ -1651,7 +1651,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1307045,
+          "confirmed": 1307307,
           "date": "2021-02-15",
           "deaths": 16979,
           "recovered": 0
@@ -1721,7 +1721,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 348772,
+      "confirmed": 351895,
       "date": "2021-02-15",
       "deaths": 1027,
       "recovered": 336731
@@ -1783,8 +1783,8 @@
     "live": {
       "confirmed": 167604,
       "date": "2021-02-15",
-      "deaths": 1933,
-      "recovered": 156472
+      "deaths": 1936,
+      "recovered": 157205
     }
   }
 }
