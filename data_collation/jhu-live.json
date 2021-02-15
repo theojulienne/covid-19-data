@@ -1097,7 +1097,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 478474,
+      "confirmed": 478595,
       "date": "2021-02-15",
       "deaths": 8491,
       "recovered": 459549
@@ -1499,7 +1499,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 605109,
+          "confirmed": 606163,
           "date": "2021-02-15",
           "deaths": 10580,
           "recovered": 0
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2788006,
+          "confirmed": 2788331,
           "date": "2021-02-15",
           "deaths": 38466,
           "recovered": 0
@@ -1525,7 +1525,7 @@
         "live": {
           "confirmed": 995247,
           "date": "2021-02-15",
-          "deaths": 13193,
+          "deaths": 13276,
           "recovered": 0
         }
       },
@@ -1539,7 +1539,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 540791,
+          "confirmed": 541413,
           "date": "2021-02-15",
           "deaths": 10315,
           "recovered": 0
@@ -1587,7 +1587,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 222429,
+          "confirmed": 222670,
           "date": "2021-02-15",
           "deaths": 3650,
           "recovered": 0
@@ -1611,9 +1611,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 201692,
+          "confirmed": 202092,
           "date": "2021-02-15",
-          "deaths": 2784,
+          "deaths": 2802,
           "recovered": 0
         }
       },
