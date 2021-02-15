@@ -373,8 +373,8 @@
         "live": {
           "confirmed": 290677,
           "date": "2021-02-15",
-          "deaths": 6660,
-          "recovered": 270560
+          "deaths": 6676,
+          "recovered": 271449
         }
       },
       "Quebec": {
@@ -517,10 +517,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3390952,
+      "confirmed": 3447518,
       "date": "2021-02-15",
-      "deaths": 80404,
-      "recovered": 213405
+      "deaths": 81405,
+      "recovered": 216280
     }
   },
   "Georgia": {
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 97872,
+          "confirmed": 98111,
           "date": "2021-02-15",
-          "deaths": 2879,
+          "deaths": 2906,
           "recovered": 88578
         }
       },
@@ -959,8 +959,8 @@
     "live": {
       "confirmed": 347250,
       "date": "2021-02-15",
-      "deaths": 4455,
-      "recovered": 327099
+      "deaths": 4473,
+      "recovered": 328231
     }
   },
   "Kazakhstan": {
@@ -1167,8 +1167,8 @@
     "live": {
       "confirmed": 97052,
       "date": "2021-02-15",
-      "deaths": 2989,
-      "recovered": 87652
+      "deaths": 2998,
+      "recovered": 87960
     }
   },
   "Oman": {
@@ -1579,7 +1579,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 86487,
+          "confirmed": 86575,
           "date": "2021-02-15",
           "deaths": 1851,
           "recovered": 0
