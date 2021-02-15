@@ -51,8 +51,8 @@
     "live": {
       "confirmed": 112742,
       "date": "2021-02-15",
-      "deaths": 403,
-      "recovered": 105166
+      "deaths": 406,
+      "recovered": 105784
     }
   },
   "Bangladesh": {
@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 141601,
+      "confirmed": 141637,
       "date": "2021-02-15",
-      "deaths": 3189,
-      "recovered": 130331
+      "deaths": 3190,
+      "recovered": 130465
     }
   },
   "Canada": {
@@ -371,7 +371,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 290922,
+          "confirmed": 291313,
           "date": "2021-02-15",
           "deaths": 6676,
           "recovered": 271449
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 729373,
+      "confirmed": 730293,
       "date": "2021-02-15",
-      "deaths": 5406,
-      "recovered": 669783
+      "deaths": 5414,
+      "recovered": 670251
     }
   },
   "Italy": {
@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1491807,
+      "confirmed": 1492909,
       "date": "2021-02-15",
-      "deaths": 47899,
-      "recovered": 1388321
+      "deaths": 48094,
+      "recovered": 1391155
     }
   },
   "Spain": {
@@ -1481,10 +1481,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 223244,
+      "confirmed": 223549,
       "date": "2021-02-15",
-      "deaths": 7544,
-      "recovered": 182421
+      "deaths": 7575,
+      "recovered": 183530
     }
   },
   "Turkey": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2789406,
+          "confirmed": 2789678,
           "date": "2021-02-15",
-          "deaths": 38492,
+          "deaths": 38493,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 170435,
+          "confirmed": 170800,
           "date": "2021-02-15",
           "deaths": 1925,
           "recovered": 0
@@ -1563,7 +1563,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 99289,
+          "confirmed": 99515,
           "date": "2021-02-15",
           "deaths": 4084,
           "recovered": 0
@@ -1643,15 +1643,15 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 164270,
+          "confirmed": 165016,
           "date": "2021-02-15",
-          "deaths": 2241,
+          "deaths": 2243,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1307307,
+          "confirmed": 1308140,
           "date": "2021-02-15",
           "deaths": 17006,
           "recovered": 0
