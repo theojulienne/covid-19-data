@@ -119,8 +119,8 @@
     "live": {
       "confirmed": 236036,
       "date": "2021-02-15",
-      "deaths": 11155,
-      "recovered": 177282
+      "deaths": 11202,
+      "recovered": 177775
     }
   },
   "Bosnia and Herzegovina": {
@@ -403,50 +403,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 335422,
+          "confirmed": 336056,
           "date": "2021-02-15",
-          "deaths": 6260,
-          "recovered": 322665
+          "deaths": 6274,
+          "recovered": 323367
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 119727,
+          "confirmed": 120090,
           "date": "2021-02-15",
-          "deaths": 3935,
-          "recovered": 114066
+          "deaths": 3944,
+          "recovered": 114239
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 640081,
+          "confirmed": 641238,
           "date": "2021-02-15",
-          "deaths": 13349,
-          "recovered": 606992
+          "deaths": 13382,
+          "recovered": 608612
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 101910,
+          "confirmed": 102246,
           "date": "2021-02-15",
-          "deaths": 2738,
-          "recovered": 96189
+          "deaths": 2746,
+          "recovered": 96505
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 87793,
+          "confirmed": 88152,
           "date": "2021-02-15",
-          "deaths": 3142,
-          "recovered": 81993
+          "deaths": 3152,
+          "recovered": 82209
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 188511,
+          "confirmed": 189004,
           "date": "2021-02-15",
-          "deaths": 5915,
-          "recovered": 177174
+          "deaths": 5940,
+          "recovered": 177690
         }
       }
     }
@@ -983,8 +983,8 @@
     "live": {
       "confirmed": 83525,
       "date": "2021-02-15",
-      "deaths": 1522,
-      "recovered": 73559
+      "deaths": 1527,
+      "recovered": 73794
     }
   },
   "Kuwait": {
@@ -1201,7 +1201,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 331692,
+      "confirmed": 332179,
       "date": "2021-02-15",
       "deaths": 5636,
       "recovered": 311783
@@ -1439,7 +1439,7 @@
     "live": {
       "confirmed": 75654,
       "date": "2021-02-15",
-      "deaths": 390,
+      "deaths": 397,
       "recovered": 68696
     }
   },
@@ -1773,7 +1773,7 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 132743,
+      "confirmed": 133218,
       "date": "2021-02-15",
       "deaths": 1279,
       "recovered": 125179
