@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 92169,
+          "confirmed": 92393,
           "date": "2021-02-15",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 91224,
+          "confirmed": 91398,
           "date": "2021-02-15",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 77626,
+          "confirmed": 77904,
           "date": "2021-02-15",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 112650,
+          "confirmed": 112799,
           "date": "2021-02-15",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 103525,
+          "confirmed": 103602,
           "date": "2021-02-15",
           "deaths": 0,
           "recovered": 0
@@ -635,7 +635,7 @@
     "live": {
       "confirmed": 159788,
       "date": "2021-02-15",
-      "deaths": 3857,
+      "deaths": 3866,
       "recovered": 63170
     }
   },
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 250476,
+      "confirmed": 251248,
       "date": "2021-02-15",
       "deaths": 3138,
-      "recovered": 223408
+      "recovered": 224274
     }
   },
   "Kenya": {
@@ -1183,18 +1183,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 163833,
+          "confirmed": 164268,
           "date": "2021-02-15",
-          "deaths": 5037,
-          "recovered": 151551
+          "deaths": 5051,
+          "recovered": 151896
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 253511,
+          "confirmed": 253762,
           "date": "2021-02-15",
-          "deaths": 4212,
-          "recovered": 235143
+          "deaths": 4219,
+          "recovered": 235470
         }
       }
     }
