@@ -965,7 +965,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 251248,
+      "confirmed": 251267,
       "date": "2021-02-15",
       "deaths": 3140,
       "recovered": 224479
@@ -999,8 +999,8 @@
     "live": {
       "confirmed": 85475,
       "date": "2021-02-15",
-      "deaths": 1441,
-      "recovered": 82253
+      "deaths": 1442,
+      "recovered": 82306
     }
   },
   "Latvia": {
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 558099,
+          "confirmed": 562312,
           "date": "2021-02-15",
-          "deaths": 19014,
+          "deaths": 19114,
           "recovered": 0
         }
       }
@@ -1768,7 +1768,7 @@
       "confirmed": 79416,
       "date": "2021-02-15",
       "deaths": 622,
-      "recovered": 77890
+      "recovered": 77928
     }
   },
   "Venezuela": {
