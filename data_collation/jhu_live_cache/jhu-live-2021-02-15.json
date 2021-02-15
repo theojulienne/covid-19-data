@@ -479,8 +479,8 @@
     "live": {
       "confirmed": 204362,
       "date": "2021-02-15",
-      "deaths": 2292,
-      "recovered": 196384
+      "deaths": 2301,
+      "recovered": 196765
     }
   },
   "Dominican Republic": {
@@ -559,7 +559,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 73241,
+          "confirmed": 73242,
           "date": "2021-02-15",
           "deaths": 2795,
           "recovered": 64815
@@ -1032,7 +1032,7 @@
       "confirmed": 190937,
       "date": "2021-02-15",
       "deaths": 3080,
-      "recovered": 125444
+      "recovered": 175034
     }
   },
   "Malaysia": {
@@ -1256,7 +1256,7 @@
       "confirmed": 157244,
       "date": "2021-02-15",
       "deaths": 255,
-      "recovered": 148314
+      "recovered": 148677
     }
   },
   "Romania": {
@@ -1473,9 +1473,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 540727,
+      "confirmed": 543207,
       "date": "2021-02-15",
-      "deaths": 9765,
+      "deaths": 9776,
       "recovered": 317600
     }
   },
