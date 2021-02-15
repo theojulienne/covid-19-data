@@ -829,7 +829,7 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1518263,
+      "confirmed": 1526023,
       "date": "2021-02-15",
       "deaths": 59028,
       "recovered": 1304330
@@ -1005,10 +1005,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 76706,
+      "confirmed": 76984,
       "date": "2021-02-15",
       "deaths": 1468,
-      "recovered": 65046
+      "recovered": 65450
     }
   },
   "Lebanon": {
@@ -1029,10 +1029,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 187991,
+      "confirmed": 190937,
       "date": "2021-02-15",
-      "deaths": 2988,
-      "recovered": 142313
+      "deaths": 3080,
+      "recovered": 125444
     }
   },
   "Malaysia": {
@@ -1105,7 +1105,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 272718,
+      "confirmed": 272840,
       "date": "2021-02-15",
       "deaths": 2055,
       "recovered": 269204
@@ -1261,7 +1261,7 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 761963,
+      "confirmed": 763294,
       "date": "2021-02-15",
       "deaths": 19445,
       "recovered": 709520
@@ -1781,7 +1781,7 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 167604,
+      "confirmed": 168444,
       "date": "2021-02-15",
       "deaths": 1936,
       "recovered": 157205
