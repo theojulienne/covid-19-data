@@ -2151,17 +2151,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 186278,
         "deaths": 2927,
-        "recovered": 138013
+        "recovered": 168890
       },
       "back_2week": {
         "confirmed": 181740,
         "deaths": 2791,
-        "recovered": 129175
+        "recovered": 160516
       },
       "latest": {
-        "confirmed": 187991,
-        "deaths": 2988,
-        "recovered": 142313
+        "confirmed": 190241,
+        "deaths": 3057,
+        "recovered": 175034
       }
     },
     "LUX": {

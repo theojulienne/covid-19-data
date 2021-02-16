@@ -538,7 +538,7 @@
           "confirmed": 306385,
           "date": "2021-02-16",
           "deaths": 7794,
-          "recovered": 283292
+          "recovered": 284602
         }
       },
       "Bayern": {
@@ -546,7 +546,7 @@
           "confirmed": 421351,
           "date": "2021-02-16",
           "deaths": 11695,
-          "recovered": 387712
+          "recovered": 389624
         }
       },
       "Berlin": {
@@ -554,7 +554,7 @@
           "confirmed": 124987,
           "date": "2021-02-16",
           "deaths": 2620,
-          "recovered": 115911
+          "recovered": 116510
         }
       },
       "Brandenburg": {
@@ -562,7 +562,7 @@
           "confirmed": 73242,
           "date": "2021-02-16",
           "deaths": 2795,
-          "recovered": 64815
+          "recovered": 65350
         }
       },
       "Hessen": {
@@ -570,7 +570,7 @@
           "confirmed": 180703,
           "date": "2021-02-16",
           "deaths": 5460,
-          "recovered": 164030
+          "recovered": 164872
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 154037,
           "date": "2021-02-16",
           "deaths": 3846,
-          "recovered": 139551
+          "recovered": 140451
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 510522,
           "date": "2021-02-16",
           "deaths": 12118,
-          "recovered": 467868
+          "recovered": 470308
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 98111,
           "date": "2021-02-16",
           "deaths": 2906,
-          "recovered": 88578
+          "recovered": 89151
         }
       },
       "Sachsen": {
@@ -633,7 +633,7 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 160171,
+      "confirmed": 160983,
       "date": "2021-02-16",
       "deaths": 3893,
       "recovered": 63346
@@ -965,7 +965,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 251953,
+      "confirmed": 251959,
       "date": "2021-02-16",
       "deaths": 3142,
       "recovered": 225972
