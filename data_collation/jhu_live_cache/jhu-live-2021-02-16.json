@@ -43,8 +43,8 @@
     "live": {
       "confirmed": 232197,
       "date": "2021-02-16",
-      "deaths": 3183,
-      "recovered": 226760
+      "deaths": 3185,
+      "recovered": 226951
     }
   },
   "Bahrain": {
@@ -535,7 +535,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 306401,
+          "confirmed": 306433,
           "date": "2021-02-16",
           "deaths": 7805,
           "recovered": 284602
@@ -543,9 +543,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 421792,
+          "confirmed": 421826,
           "date": "2021-02-16",
-          "deaths": 11773,
+          "deaths": 11775,
           "recovered": 389624
         }
       },
@@ -839,8 +839,8 @@
     "live": {
       "confirmed": 646650,
       "date": "2021-02-16",
-      "deaths": 13185,
-      "recovered": 608178
+      "deaths": 13192,
+      "recovered": 609800
     }
   },
   "Ireland": {
@@ -949,8 +949,8 @@
         "live": {
           "confirmed": 107189,
           "date": "2021-02-16",
-          "deaths": 1134,
-          "recovered": 100170
+          "deaths": 1161,
+          "recovered": 100880
         }
       }
     }
@@ -1007,7 +1007,7 @@
     "live": {
       "confirmed": 76984,
       "date": "2021-02-16",
-      "deaths": 1468,
+      "deaths": 1486,
       "recovered": 65450
     }
   },
@@ -1255,16 +1255,16 @@
     "live": {
       "confirmed": 158132,
       "date": "2021-02-16",
-      "deaths": 255,
-      "recovered": 148677
+      "deaths": 256,
+      "recovered": 148638
     }
   },
   "Romania": {
     "live": {
       "confirmed": 763294,
       "date": "2021-02-16",
-      "deaths": 19445,
-      "recovered": 709520
+      "deaths": 19526,
+      "recovered": 711977
     }
   },
   "Russia": {
@@ -1651,7 +1651,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1309402,
+          "confirmed": 1309588,
           "date": "2021-02-16",
           "deaths": 17006,
           "recovered": 0
