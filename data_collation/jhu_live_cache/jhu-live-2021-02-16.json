@@ -997,10 +997,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 85516,
+      "confirmed": 85564,
       "date": "2021-02-16",
-      "deaths": 1442,
-      "recovered": 82306
+      "deaths": 1444,
+      "recovered": 82391
     }
   },
   "Latvia": {
@@ -1183,18 +1183,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 164268,
+          "confirmed": 164696,
           "date": "2021-02-16",
-          "deaths": 5051,
-          "recovered": 151896
+          "deaths": 5084,
+          "recovered": 152325
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 253762,
+          "confirmed": 254016,
           "date": "2021-02-16",
-          "deaths": 4219,
-          "recovered": 235470
+          "deaths": 4226,
+          "recovered": 235854
         }
       }
     }
@@ -1765,10 +1765,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79442,
+      "confirmed": 79461,
       "date": "2021-02-16",
       "deaths": 622,
-      "recovered": 77928
+      "recovered": 77969
     }
   },
   "Venezuela": {
