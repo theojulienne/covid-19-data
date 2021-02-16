@@ -41,7 +41,7 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 232197,
+      "confirmed": 232337,
       "date": "2021-02-16",
       "deaths": 3185,
       "recovered": 226951
@@ -479,8 +479,8 @@
     "live": {
       "confirmed": 204799,
       "date": "2021-02-16",
-      "deaths": 2301,
-      "recovered": 196765
+      "deaths": 2308,
+      "recovered": 197258
     }
   },
   "Dominican Republic": {
@@ -553,7 +553,7 @@
         "live": {
           "confirmed": 124979,
           "date": "2021-02-16",
-          "deaths": 2620,
+          "deaths": 2821,
           "recovered": 116510
         }
       },
@@ -599,7 +599,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 187820,
+          "confirmed": 187836,
           "date": "2021-02-16",
           "deaths": 7190,
           "recovered": 173000
@@ -837,7 +837,7 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 646650,
+      "confirmed": 649982,
       "date": "2021-02-16",
       "deaths": 13192,
       "recovered": 609800
@@ -1005,7 +1005,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 76984,
+      "confirmed": 77697,
       "date": "2021-02-16",
       "deaths": 1486,
       "recovered": 65450
@@ -1253,7 +1253,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 158132,
+      "confirmed": 158138,
       "date": "2021-02-16",
       "deaths": 256,
       "recovered": 148638
@@ -1261,7 +1261,7 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 763294,
+      "confirmed": 765970,
       "date": "2021-02-16",
       "deaths": 19526,
       "recovered": 711977
@@ -1447,25 +1447,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 103958,
+          "confirmed": 105401,
           "date": "2021-02-16",
-          "deaths": 1474,
+          "deaths": 1499,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 144522,
+          "confirmed": 146379,
           "date": "2021-02-16",
-          "deaths": 3820,
+          "deaths": 3821,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 105596,
+          "confirmed": 107867,
           "date": "2021-02-16",
-          "deaths": 1993,
+          "deaths": 2001,
           "recovered": 0
         }
       }
@@ -1783,8 +1783,8 @@
     "live": {
       "confirmed": 168444,
       "date": "2021-02-16",
-      "deaths": 1936,
-      "recovered": 157205
+      "deaths": 1942,
+      "recovered": 157982
     }
   }
 }
