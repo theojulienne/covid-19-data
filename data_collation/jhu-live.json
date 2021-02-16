@@ -52,7 +52,7 @@
       "confirmed": 113590,
       "date": "2021-02-16",
       "deaths": 406,
-      "recovered": 105784
+      "recovered": 106412
     }
   },
   "Bangladesh": {
@@ -290,7 +290,7 @@
           "confirmed": 555541,
           "date": "2021-02-16",
           "deaths": 31512,
-          "recovered": 520643
+          "recovered": 529210
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 292256,
+          "confirmed": 292583,
           "date": "2021-02-16",
           "deaths": 6689,
-          "recovered": 272935
+          "recovered": 272937
         }
       },
       "Quebec": {
@@ -855,8 +855,8 @@
     "live": {
       "confirmed": 734003,
       "date": "2021-02-16",
-      "deaths": 5435,
-      "recovered": 673294
+      "deaths": 5441,
+      "recovered": 673681
     }
   },
   "Italy": {
@@ -1348,7 +1348,7 @@
       "confirmed": 1492909,
       "date": "2021-02-16",
       "deaths": 48094,
-      "recovered": 1391155
+      "recovered": 1396951
     }
   },
   "Spain": {
@@ -1515,9 +1515,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 77266,
+          "confirmed": 77457,
           "date": "2021-02-16",
-          "deaths": 1998,
+          "deaths": 2000,
           "recovered": 0
         }
       },
@@ -1531,7 +1531,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 170800,
+          "confirmed": 171286,
           "date": "2021-02-16",
           "deaths": 1951,
           "recovered": 0
@@ -1643,9 +1643,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 165016,
+          "confirmed": 165626,
           "date": "2021-02-16",
-          "deaths": 2243,
+          "deaths": 2247,
           "recovered": 0
         }
       },
