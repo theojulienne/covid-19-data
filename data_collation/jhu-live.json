@@ -641,10 +641,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 388799,
+      "confirmed": 389622,
       "date": "2021-02-16",
-      "deaths": 13752,
-      "recovered": 298008
+      "deaths": 13837,
+      "recovered": 298773
     }
   },
   "India": {
@@ -853,7 +853,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 730293,
+      "confirmed": 732040,
       "date": "2021-02-16",
       "deaths": 5423,
       "recovered": 671210
@@ -1229,7 +1229,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 550860,
+      "confirmed": 552246,
       "date": "2021-02-16",
       "deaths": 11524,
       "recovered": 511796
@@ -1240,7 +1240,7 @@
       "confirmed": 1591497,
       "date": "2021-02-16",
       "deaths": 40832,
-      "recovered": 1347670
+      "recovered": 1352443
     }
   },
   "Portugal": {
@@ -1271,7 +1271,7 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 957996,
+          "confirmed": 959405,
           "date": "2021-02-16",
           "deaths": 14464,
           "recovered": 873898
@@ -1279,7 +1279,7 @@
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 205832,
+          "confirmed": 206475,
           "date": "2021-02-16",
           "deaths": 4297,
           "recovered": 168010
@@ -1287,7 +1287,7 @@
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 91302,
+          "confirmed": 91718,
           "date": "2021-02-16",
           "deaths": 2313,
           "recovered": 83686
@@ -1295,7 +1295,7 @@
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 354196,
+          "confirmed": 355278,
           "date": "2021-02-16",
           "deaths": 10560,
           "recovered": 272134
@@ -1303,7 +1303,7 @@
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 75027,
+          "confirmed": 75259,
           "date": "2021-02-16",
           "deaths": 2243,
           "recovered": 68097
@@ -1331,7 +1331,7 @@
     "live": {
       "confirmed": 278254,
       "date": "2021-02-16",
-      "deaths": 5952,
+      "deaths": 6063,
       "recovered": 255300
     }
   },
