@@ -382,7 +382,7 @@
           "confirmed": 277518,
           "date": "2021-02-16",
           "deaths": 10229,
-          "recovered": 256270
+          "recovered": 257434
         }
       }
     }
@@ -453,10 +453,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 199187,
+      "confirmed": 200024,
       "date": "2021-02-16",
-      "deaths": 2714,
-      "recovered": 160946
+      "deaths": 2730,
+      "recovered": 163334
     }
   },
   "Croatia": {
@@ -1773,7 +1773,7 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 133218,
+      "confirmed": 133577,
       "date": "2021-02-16",
       "deaths": 1285,
       "recovered": 125565
