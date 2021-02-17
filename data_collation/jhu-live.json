@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 436139,
+      "confirmed": 437874,
       "date": "2021-02-17",
-      "deaths": 8260,
-      "recovered": 413908
+      "deaths": 8290,
+      "recovered": 415221
     }
   },
   "Azerbaijan": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 205183,
+      "confirmed": 205597,
       "date": "2021-02-17",
-      "deaths": 2308,
-      "recovered": 197258
+      "deaths": 2316,
+      "recovered": 197746
     }
   },
   "Dominican Republic": {
@@ -585,8 +585,8 @@
         "live": {
           "confirmed": 154902,
           "date": "2021-02-17",
-          "deaths": 3909,
-          "recovered": 141400
+          "deaths": 3958,
+          "recovered": 141398
         }
       },
       "Nordrhein-Westfalen": {
@@ -1029,10 +1029,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 128036,
+      "confirmed": 128348,
       "date": "2021-02-17",
-      "deaths": 2051,
-      "recovered": 111864
+      "deaths": 2056,
+      "recovered": 112731
     }
   },
   "Lithuania": {
@@ -1455,25 +1455,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 105401,
+          "confirmed": 105908,
           "date": "2021-02-17",
-          "deaths": 1499,
+          "deaths": 1506,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 146379,
+          "confirmed": 147254,
           "date": "2021-02-17",
-          "deaths": 3821,
+          "deaths": 3840,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 107867,
+          "confirmed": 108489,
           "date": "2021-02-17",
-          "deaths": 2001,
+          "deaths": 2027,
           "recovered": 0
         }
       }
@@ -1481,9 +1481,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 544282,
+      "confirmed": 545535,
       "date": "2021-02-17",
-      "deaths": 9817,
+      "deaths": 9838,
       "recovered": 317600
     }
   },
