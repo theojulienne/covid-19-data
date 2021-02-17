@@ -617,10 +617,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 77046,
+      "confirmed": 77748,
       "date": "2021-02-17",
-      "deaths": 555,
-      "recovered": 68713
+      "deaths": 561,
+      "recovered": 69321
     }
   },
   "Greece": {
@@ -649,10 +649,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 389622,
+      "confirmed": 391170,
       "date": "2021-02-17",
-      "deaths": 13837,
-      "recovered": 298773
+      "deaths": 13931,
+      "recovered": 299989
     }
   },
   "India": {
@@ -1037,10 +1037,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 191264,
+      "confirmed": 191821,
       "date": "2021-02-17",
-      "deaths": 3095,
-      "recovered": 175278
+      "deaths": 3113,
+      "recovered": 176671
     }
   },
   "Malaysia": {
@@ -1237,10 +1237,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 552246,
+      "confirmed": 553424,
       "date": "2021-02-17",
-      "deaths": 11524,
-      "recovered": 511796
+      "deaths": 11577,
+      "recovered": 512033
     }
   },
   "Poland": {
@@ -1281,40 +1281,40 @@
         "live": {
           "confirmed": 959405,
           "date": "2021-02-17",
-          "deaths": 14464,
-          "recovered": 873898
+          "deaths": 14523,
+          "recovered": 876141
         }
       },
       "Moscow Oblast": {
         "live": {
           "confirmed": 206475,
           "date": "2021-02-17",
-          "deaths": 4297,
-          "recovered": 168010
+          "deaths": 4327,
+          "recovered": 168765
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
           "confirmed": 91718,
           "date": "2021-02-17",
-          "deaths": 2313,
-          "recovered": 83686
+          "deaths": 2324,
+          "recovered": 84120
         }
       },
       "Saint Petersburg": {
         "live": {
           "confirmed": 355278,
           "date": "2021-02-17",
-          "deaths": 10560,
-          "recovered": 272134
+          "deaths": 10597,
+          "recovered": 275016
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
           "confirmed": 75259,
           "date": "2021-02-17",
-          "deaths": 2243,
-          "recovered": 68097
+          "deaths": 2257,
+          "recovered": 68335
         }
       }
     }
