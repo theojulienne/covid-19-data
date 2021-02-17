@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 292735,
+          "confirmed": 292986,
           "date": "2021-02-17",
-          "deaths": 6716,
-          "recovered": 275337
+          "deaths": 6723,
+          "recovered": 275722
         }
       },
       "Quebec": {
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 231095,
+      "confirmed": 231737,
       "date": "2021-02-17",
-      "deaths": 2975,
-      "recovered": 179097
+      "deaths": 2990,
+      "recovered": 180170
     }
   },
   "Ecuador": {
@@ -599,7 +599,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 98399,
+          "confirmed": 98757,
           "date": "2021-02-17",
           "deaths": 2944,
           "recovered": 90103
@@ -1123,41 +1123,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 117178,
+          "confirmed": 117451,
           "date": "2021-02-17",
-          "deaths": 1754,
+          "deaths": 1760,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 162374,
+          "confirmed": 162887,
           "date": "2021-02-17",
-          "deaths": 2802,
+          "deaths": 2814,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 175342,
+          "confirmed": 176160,
           "date": "2021-02-17",
-          "deaths": 2151,
+          "deaths": 2171,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 82711,
+          "confirmed": 82936,
           "date": "2021-02-17",
-          "deaths": 1082,
+          "deaths": 1087,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 245693,
+          "confirmed": 246420,
           "date": "2021-02-17",
-          "deaths": 3581,
+          "deaths": 3598,
           "recovered": 0
         }
       }
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 788561,
+      "confirmed": 790885,
       "date": "2021-02-17",
-      "deaths": 15522,
-      "recovered": 677719
+      "deaths": 15649,
+      "recovered": 683061
     }
   },
   "Qatar": {
@@ -1587,9 +1587,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 86694,
+          "confirmed": 86846,
           "date": "2021-02-17",
-          "deaths": 1852,
+          "deaths": 1873,
           "recovered": 0
         }
       },
