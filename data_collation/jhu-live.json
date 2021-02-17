@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 268073,
+      "confirmed": 268219,
       "date": "2021-02-17",
-      "deaths": 15392,
+      "deaths": 15394,
       "recovered": 230377
     }
   },
@@ -517,10 +517,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 148490,
+      "confirmed": 149308,
       "date": "2021-02-17",
-      "deaths": 2223,
-      "recovered": 129145
+      "deaths": 2237,
+      "recovered": 130124
     }
   },
   "France": {
@@ -545,7 +545,7 @@
         "live": {
           "confirmed": 307197,
           "date": "2021-02-17",
-          "deaths": 7837,
+          "deaths": 7850,
           "recovered": 286072
         }
       },
@@ -607,7 +607,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 188275,
+          "confirmed": 188901,
           "date": "2021-02-17",
           "deaths": 7282,
           "recovered": 174700
@@ -1497,7 +1497,7 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2602034,
+      "confirmed": 2609359,
       "date": "2021-02-17",
       "deaths": 27738,
       "recovered": 2496833
@@ -1515,7 +1515,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797693,
+          "confirmed": 2798134,
           "date": "2021-02-17",
           "deaths": 38842,
           "recovered": 0
@@ -1595,9 +1595,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 222916,
+          "confirmed": 223200,
           "date": "2021-02-17",
-          "deaths": 3658,
+          "deaths": 3696,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 188831,
+          "confirmed": 189373,
           "date": "2021-02-17",
-          "deaths": 4674,
+          "deaths": 4693,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1238003,
+          "confirmed": 1238376,
           "date": "2021-02-17",
-          "deaths": 16223,
+          "deaths": 16246,
           "recovered": 0
         }
       },
