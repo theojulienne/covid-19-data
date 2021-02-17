@@ -958,7 +958,7 @@
           "confirmed": 107567,
           "date": "2021-02-17",
           "deaths": 1161,
-          "recovered": 100880
+          "recovered": 102184
         }
       }
     }
@@ -1181,10 +1181,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 137929,
+      "confirmed": 138206,
       "date": "2021-02-17",
-      "deaths": 1544,
-      "recovered": 129543
+      "deaths": 1549,
+      "recovered": 129752
     }
   },
   "Pakistan": {
@@ -1248,7 +1248,7 @@
       "confirmed": 1596673,
       "date": "2021-02-17",
       "deaths": 41028,
-      "recovered": 1352443
+      "recovered": 1354598
     }
   },
   "Portugal": {
@@ -1279,7 +1279,7 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 959405,
+          "confirmed": 960687,
           "date": "2021-02-17",
           "deaths": 14523,
           "recovered": 876141
@@ -1287,7 +1287,7 @@
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 206475,
+          "confirmed": 206945,
           "date": "2021-02-17",
           "deaths": 4327,
           "recovered": 168765
@@ -1295,7 +1295,7 @@
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 91718,
+          "confirmed": 92137,
           "date": "2021-02-17",
           "deaths": 2324,
           "recovered": 84120
@@ -1303,7 +1303,7 @@
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 355278,
+          "confirmed": 356381,
           "date": "2021-02-17",
           "deaths": 10597,
           "recovered": 275016
@@ -1311,7 +1311,7 @@
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 75259,
+          "confirmed": 75487,
           "date": "2021-02-17",
           "deaths": 2257,
           "recovered": 68335
@@ -1337,9 +1337,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 279696,
+      "confirmed": 282864,
       "date": "2021-02-17",
-      "deaths": 6063,
+      "deaths": 6168,
       "recovered": 255300
     }
   },
