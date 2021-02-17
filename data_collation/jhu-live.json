@@ -1201,7 +1201,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 332679,
+      "confirmed": 333251,
       "date": "2021-02-17",
       "deaths": 5655,
       "recovered": 314797
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2795285,
+          "confirmed": 2795983,
           "date": "2021-02-17",
-          "deaths": 38597,
+          "deaths": 38603,
           "recovered": 0
         }
       },
@@ -1651,9 +1651,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1310573,
+          "confirmed": 1311370,
           "date": "2021-02-17",
-          "deaths": 17006,
+          "deaths": 17028,
           "recovered": 0
         }
       },
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 81541,
           "date": "2021-02-17",
-          "deaths": 1311,
+          "deaths": 1321,
           "recovered": 0
         }
       },
