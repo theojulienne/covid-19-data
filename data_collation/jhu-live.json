@@ -1183,7 +1183,7 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 164696,
+          "confirmed": 165200,
           "date": "2021-02-17",
           "deaths": 5114,
           "recovered": 152869
@@ -1191,7 +1191,7 @@
       },
       "Sindh": {
         "live": {
-          "confirmed": 254016,
+          "confirmed": 254286,
           "date": "2021-02-17",
           "deaths": 4244,
           "recovered": 236499
