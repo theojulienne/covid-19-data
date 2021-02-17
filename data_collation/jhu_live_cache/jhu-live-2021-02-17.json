@@ -119,8 +119,8 @@
     "live": {
       "confirmed": 237144,
       "date": "2021-02-17",
-      "deaths": 11234,
-      "recovered": 179057
+      "deaths": 11274,
+      "recovered": 180155
     }
   },
   "Bosnia and Herzegovina": {
@@ -968,7 +968,7 @@
       "confirmed": 251959,
       "date": "2021-02-17",
       "deaths": 3142,
-      "recovered": 225972
+      "recovered": 227023
     }
   },
   "Kenya": {
@@ -983,8 +983,8 @@
     "live": {
       "confirmed": 84325,
       "date": "2021-02-17",
-      "deaths": 1534,
-      "recovered": 74551
+      "deaths": 1538,
+      "recovered": 75360
     }
   },
   "Kuwait": {
@@ -1047,41 +1047,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 523677,
+          "confirmed": 527111,
           "date": "2021-02-17",
-          "deaths": 25292,
+          "deaths": 25486,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 114426,
+          "confirmed": 114946,
           "date": "2021-02-17",
-          "deaths": 8462,
+          "deaths": 8515,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 74623,
+          "confirmed": 74937,
           "date": "2021-02-17",
-          "deaths": 9742,
+          "deaths": 9873,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 206257,
+          "confirmed": 207337,
           "date": "2021-02-17",
-          "deaths": 26856,
+          "deaths": 27092,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 112466,
+          "confirmed": 112677,
           "date": "2021-02-17",
-          "deaths": 7637,
+          "deaths": 7737,
           "recovered": 0
         }
       }
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2795983,
+          "confirmed": 2797161,
           "date": "2021-02-17",
-          "deaths": 38603,
+          "deaths": 38723,
           "recovered": 0
         }
       },
@@ -1667,7 +1667,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 81541,
+          "confirmed": 82022,
           "date": "2021-02-17",
           "deaths": 1321,
           "recovered": 0
@@ -1773,10 +1773,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 133577,
+      "confirmed": 133927,
       "date": "2021-02-17",
-      "deaths": 1285,
-      "recovered": 125565
+      "deaths": 1292,
+      "recovered": 125924
     }
   },
   "West Bank and Gaza": {
