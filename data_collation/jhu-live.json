@@ -641,10 +641,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 161727,
+      "confirmed": 162584,
       "date": "2021-02-18",
-      "deaths": 3913,
-      "recovered": 63471
+      "deaths": 3933,
+      "recovered": 63618
     }
   },
   "Hungary": {
@@ -973,7 +973,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 253690,
+      "confirmed": 253751,
       "date": "2021-02-18",
       "deaths": 3144,
       "recovered": 228479
@@ -1191,7 +1191,7 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 165200,
+          "confirmed": 165716,
           "date": "2021-02-18",
           "deaths": 5138,
           "recovered": 153644
@@ -1199,7 +1199,7 @@
       },
       "Sindh": {
         "live": {
-          "confirmed": 254286,
+          "confirmed": 254678,
           "date": "2021-02-18",
           "deaths": 4263,
           "recovered": 237371
