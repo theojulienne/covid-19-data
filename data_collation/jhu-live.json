@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 293538,
+          "confirmed": 293838,
           "date": "2021-02-18",
-          "deaths": 6732,
-          "recovered": 276598
+          "deaths": 6748,
+          "recovered": 276985
         }
       },
       "Quebec": {
@@ -553,8 +553,8 @@
         "live": {
           "confirmed": 424566,
           "date": "2021-02-18",
-          "deaths": 11946,
-          "recovered": 393361
+          "deaths": 11959,
+          "recovered": 393237
         }
       },
       "Berlin": {
@@ -599,18 +599,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 98775,
+          "confirmed": 99197,
           "date": "2021-02-18",
-          "deaths": 2945,
-          "recovered": 90365
+          "deaths": 2961,
+          "recovered": 90587
         }
       },
       "Sachsen": {
         "live": {
           "confirmed": 188972,
           "date": "2021-02-18",
-          "deaths": 7294,
-          "recovered": 174700
+          "deaths": 7343,
+          "recovered": 175300
         }
       }
     }
@@ -1587,9 +1587,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 86846,
+          "confirmed": 86981,
           "date": "2021-02-18",
-          "deaths": 1873,
+          "deaths": 1881,
           "recovered": 0
         }
       },
