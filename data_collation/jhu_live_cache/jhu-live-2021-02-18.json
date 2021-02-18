@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 232491,
+      "confirmed": 232636,
       "date": "2021-02-18",
-      "deaths": 3187,
-      "recovered": 227116
+      "deaths": 3190,
+      "recovered": 227271
     }
   },
   "Bahrain": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 205597,
+      "confirmed": 206065,
       "date": "2021-02-18",
-      "deaths": 2316,
-      "recovered": 197746
+      "deaths": 2319,
+      "recovered": 198179
     }
   },
   "Dominican Republic": {
@@ -567,9 +567,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 74065,
+          "confirmed": 74077,
           "date": "2021-02-18",
-          "deaths": 2874,
+          "deaths": 2875,
           "recovered": 66378
         }
       },
@@ -583,10 +583,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 155842,
+          "confirmed": 156441,
           "date": "2021-02-18",
-          "deaths": 3977,
-          "recovered": 142245
+          "deaths": 3991,
+          "recovered": 142214
         }
       },
       "Nordrhein-Westfalen": {
@@ -845,10 +845,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 653557,
+      "confirmed": 657453,
       "date": "2021-02-18",
-      "deaths": 13204,
-      "recovered": 611036
+      "deaths": 13220,
+      "recovered": 612727
     }
   },
   "Ireland": {
@@ -1448,14 +1448,14 @@
       "confirmed": 77906,
       "date": "2021-02-18",
       "deaths": 422,
-      "recovered": 71176
+      "recovered": 71823
     }
   },
   "Sweden": {
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 105908,
+          "confirmed": 106493,
           "date": "2021-02-18",
           "deaths": 1506,
           "recovered": 0
@@ -1463,7 +1463,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 147254,
+          "confirmed": 148324,
           "date": "2021-02-18",
           "deaths": 3840,
           "recovered": 0
@@ -1471,9 +1471,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 108489,
+          "confirmed": 109509,
           "date": "2021-02-18",
-          "deaths": 2027,
+          "deaths": 2036,
           "recovered": 0
         }
       }
@@ -1481,9 +1481,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 545535,
+      "confirmed": 546754,
       "date": "2021-02-18",
-      "deaths": 9849,
+      "deaths": 9862,
       "recovered": 317600
     }
   },
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 170527,
+      "confirmed": 171154,
       "date": "2021-02-18",
-      "deaths": 1948,
-      "recovered": 158709
+      "deaths": 1956,
+      "recovered": 159369
     }
   }
 }
