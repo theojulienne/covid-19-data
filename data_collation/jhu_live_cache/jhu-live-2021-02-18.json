@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 437874,
+      "confirmed": 439841,
       "date": "2021-02-18",
-      "deaths": 8290,
-      "recovered": 415221
+      "deaths": 8312,
+      "recovered": 416431
     }
   },
   "Azerbaijan": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 337639,
           "date": "2021-02-18",
-          "deaths": 6294,
+          "deaths": 6324,
           "recovered": 325202
         }
       },
@@ -421,7 +421,7 @@
         "live": {
           "confirmed": 120666,
           "date": "2021-02-18",
-          "deaths": 3958,
+          "deaths": 3969,
           "recovered": 115029
         }
       },
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 646350,
           "date": "2021-02-18",
-          "deaths": 13375,
+          "deaths": 13489,
           "recovered": 614408
         }
       },
@@ -437,7 +437,7 @@
         "live": {
           "confirmed": 103059,
           "date": "2021-02-18",
-          "deaths": 2778,
+          "deaths": 2789,
           "recovered": 97662
         }
       },
@@ -445,7 +445,7 @@
         "live": {
           "confirmed": 88852,
           "date": "2021-02-18",
-          "deaths": 3188,
+          "deaths": 3196,
           "recovered": 83159
         }
       },
@@ -453,7 +453,7 @@
         "live": {
           "confirmed": 190600,
           "date": "2021-02-18",
-          "deaths": 5974,
+          "deaths": 5998,
           "recovered": 179567
         }
       }
@@ -837,10 +837,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1542076,
+      "confirmed": 1550142,
       "date": "2021-02-18",
-      "deaths": 59184,
-      "recovered": 1317612
+      "deaths": 59264,
+      "recovered": 1324231
     }
   },
   "Iraq": {
@@ -1016,7 +1016,7 @@
       "confirmed": 79351,
       "date": "2021-02-18",
       "deaths": 1521,
-      "recovered": 66208
+      "recovered": 68119
     }
   },
   "Lebanon": {
@@ -1269,10 +1269,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 768785,
+      "confirmed": 771843,
       "date": "2021-02-18",
-      "deaths": 19588,
-      "recovered": 714709
+      "deaths": 19659,
+      "recovered": 717179
     }
   },
   "Russia": {
