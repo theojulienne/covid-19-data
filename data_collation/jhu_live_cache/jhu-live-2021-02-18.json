@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 541877,
+      "confirmed": 542268,
       "date": "2021-02-18",
-      "deaths": 8314,
-      "recovered": 489254
+      "deaths": 8329,
+      "recovered": 489932
     }
   },
   "Belarus": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 337639,
           "date": "2021-02-18",
-          "deaths": 6324,
+          "deaths": 6294,
           "recovered": 325202
         }
       },
@@ -421,7 +421,7 @@
         "live": {
           "confirmed": 120666,
           "date": "2021-02-18",
-          "deaths": 3969,
+          "deaths": 3958,
           "recovered": 115029
         }
       },
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 646350,
           "date": "2021-02-18",
-          "deaths": 13489,
+          "deaths": 13375,
           "recovered": 614408
         }
       },
@@ -437,7 +437,7 @@
         "live": {
           "confirmed": 103059,
           "date": "2021-02-18",
-          "deaths": 2789,
+          "deaths": 2778,
           "recovered": 97662
         }
       },
@@ -445,7 +445,7 @@
         "live": {
           "confirmed": 88852,
           "date": "2021-02-18",
-          "deaths": 3196,
+          "deaths": 3188,
           "recovered": 83159
         }
       },
@@ -453,7 +453,7 @@
         "live": {
           "confirmed": 190600,
           "date": "2021-02-18",
-          "deaths": 5998,
+          "deaths": 5974,
           "recovered": 179567
         }
       }
@@ -1013,9 +1013,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 78643,
+      "confirmed": 79351,
       "date": "2021-02-18",
-      "deaths": 1508,
+      "deaths": 1521,
       "recovered": 66208
     }
   },
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1240338,
+          "confirmed": 1240649,
           "date": "2021-02-18",
           "deaths": 16292,
           "recovered": 0
@@ -1729,10 +1729,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 358583,
+      "confirmed": 361877,
       "date": "2021-02-18",
-      "deaths": 1055,
-      "recovered": 343935
+      "deaths": 1073,
+      "recovered": 347366
     }
   },
   "United Kingdom": {
