@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 294697,
+          "confirmed": 294978,
           "date": "2021-02-19",
-          "deaths": 6783,
-          "recovered": 277825
+          "deaths": 6800,
+          "recovered": 278142
         }
       },
       "Quebec": {
@@ -399,7 +399,7 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 356216,
+          "confirmed": 357108,
           "date": "2021-02-19",
           "deaths": 11783,
           "recovered": 339804
@@ -551,9 +551,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 425827,
+          "confirmed": 425961,
           "date": "2021-02-19",
-          "deaths": 12045,
+          "deaths": 12049,
           "recovered": 394803
         }
       },
@@ -583,9 +583,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 156581,
+          "confirmed": 157273,
           "date": "2021-02-19",
-          "deaths": 4010,
+          "deaths": 4059,
           "recovered": 143118
         }
       },
@@ -602,15 +602,15 @@
           "confirmed": 99219,
           "date": "2021-02-19",
           "deaths": 2962,
-          "recovered": 91001
+          "recovered": 91098
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 189550,
+          "confirmed": 189931,
           "date": "2021-02-19",
-          "deaths": 7351,
-          "recovered": 175300
+          "deaths": 7431,
+          "recovered": 175950
         }
       }
     }
@@ -861,7 +861,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 743814,
+      "confirmed": 744513,
       "date": "2021-02-19",
       "deaths": 5526,
       "recovered": 693503
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 792829,
+      "confirmed": 794769,
       "date": "2021-02-19",
-      "deaths": 15754,
-      "recovered": 687462
+      "deaths": 15821,
+      "recovered": 691866
     }
   },
   "Qatar": {
@@ -1445,10 +1445,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 78420,
+      "confirmed": 78668,
       "date": "2021-02-19",
       "deaths": 430,
-      "recovered": 71823
+      "recovered": 72566
     }
   },
   "Sweden": {
@@ -1587,9 +1587,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 86981,
+          "confirmed": 87177,
           "date": "2021-02-19",
-          "deaths": 1881,
+          "deaths": 1915,
           "recovered": 0
         }
       },

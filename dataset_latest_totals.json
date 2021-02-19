@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 818755,
-        "deaths": 21007,
+        "confirmed": 821932,
+        "deaths": 21089,
         "recovered": 760476
       },
       "back_2week": {
-        "confirmed": 794412,
-        "deaths": 20361,
+        "confirmed": 798394,
+        "deaths": 20486,
         "recovered": 726258
       },
       "latest": {
-        "confirmed": 839155,
-        "deaths": 21439,
+        "confirmed": 842590,
+        "deaths": 21509,
         "recovered": 785508
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 1
         },
         "Ontario": {
-          "confirmed": 293538,
-          "deaths": 6732
+          "confirmed": 294697,
+          "deaths": 6783
         },
         "Prince Edward Island": {
           "confirmed": 114,
@@ -2115,19 +2115,19 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 72174,
+        "confirmed": 73116,
         "deaths": 375,
-        "recovered": 65644
+        "recovered": 66211
       },
       "back_2week": {
-        "confirmed": 66409,
+        "confirmed": 67115,
         "deaths": 332,
-        "recovered": 59883
+        "recovered": 60567
       },
       "latest": {
-        "confirmed": 77906,
+        "confirmed": 78420,
         "deaths": 422,
-        "recovered": 71176
+        "recovered": 71823
       }
     },
     "LSO": {
@@ -2766,19 +2766,19 @@
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 774889,
-        "deaths": 14718,
-        "recovered": 636859
+        "confirmed": 778369,
+        "deaths": 14885,
+        "recovered": 645122
       },
       "back_2week": {
-        "confirmed": 740944,
-        "deaths": 13257,
-        "recovered": 563174
+        "confirmed": 748858,
+        "deaths": 13482,
+        "recovered": 573934
       },
       "latest": {
-        "confirmed": 790885,
-        "deaths": 15649,
-        "recovered": 683061
+        "confirmed": 792829,
+        "deaths": 15754,
+        "recovered": 687462
       }
     },
     "PRY": {
