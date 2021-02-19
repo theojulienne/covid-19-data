@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 337639,
+          "confirmed": 338256,
           "date": "2021-02-19",
           "deaths": 6338,
-          "recovered": 325202
+          "recovered": 325821
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 120666,
+          "confirmed": 120879,
           "date": "2021-02-19",
           "deaths": 3974,
-          "recovered": 115029
+          "recovered": 115223
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 646350,
+          "confirmed": 647597,
           "date": "2021-02-19",
           "deaths": 13540,
-          "recovered": 614408
+          "recovered": 617227
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 103059,
+          "confirmed": 103448,
           "date": "2021-02-19",
           "deaths": 2797,
-          "recovered": 97662
+          "recovered": 97904
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 88852,
+          "confirmed": 89064,
           "date": "2021-02-19",
           "deaths": 3216,
-          "recovered": 83159
+          "recovered": 83414
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 190600,
+          "confirmed": 191264,
           "date": "2021-02-19",
           "deaths": 6018,
-          "recovered": 179567
+          "recovered": 180241
         }
       }
     }
@@ -1165,10 +1165,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 149369,
+      "confirmed": 150246,
       "date": "2021-02-19",
-      "deaths": 1787,
-      "recovered": 125722
+      "deaths": 1803,
+      "recovered": 126417
     }
   },
   "North Macedonia": {
@@ -1209,18 +1209,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 333755,
+      "confirmed": 334463,
       "date": "2021-02-19",
-      "deaths": 5672,
-      "recovered": 316048
+      "deaths": 5694,
+      "recovered": 317432
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 147253,
+      "confirmed": 148622,
       "date": "2021-02-19",
-      "deaths": 2991,
-      "recovered": 123293
+      "deaths": 3008,
+      "recovered": 124105
     }
   },
   "Peru": {
