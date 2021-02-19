@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 93129,
+          "confirmed": 93441,
           "date": "2021-02-19",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 92027,
+          "confirmed": 92308,
           "date": "2021-02-19",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 78822,
+          "confirmed": 79232,
           "date": "2021-02-19",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 113334,
+          "confirmed": 113584,
           "date": "2021-02-19",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 103915,
+          "confirmed": 104058,
           "date": "2021-02-19",
           "deaths": 0,
           "recovered": 0
@@ -973,10 +973,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 253751,
+      "confirmed": 254652,
       "date": "2021-02-19",
       "deaths": 3144,
-      "recovered": 229623
+      "recovered": 229851
     }
   },
   "Kenya": {
