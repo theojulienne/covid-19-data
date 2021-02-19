@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2046795,
+      "confirmed": 2054681,
       "date": "2021-02-19",
-      "deaths": 50857,
-      "recovered": 1849451
+      "deaths": 51000,
+      "recovered": 1855645
     }
   },
   "Armenia": {
@@ -258,7 +258,7 @@
           "confirmed": 287066,
           "date": "2021-02-19",
           "deaths": 10780,
-          "recovered": 247456
+          "recovered": 248691
         }
       },
       "Piaui": {
@@ -322,7 +322,7 @@
           "confirmed": 1949459,
           "date": "2021-02-19",
           "deaths": 57240,
-          "recovered": 1720128
+          "recovered": 1722223
         }
       },
       "Sergipe": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 201241,
+      "confirmed": 201678,
       "date": "2021-02-19",
-      "deaths": 2756,
-      "recovered": 168307
+      "deaths": 2763,
+      "recovered": 169053
     }
   },
   "Croatia": {
@@ -1523,9 +1523,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 77794,
+          "confirmed": 78181,
           "date": "2021-02-19",
-          "deaths": 2016,
+          "deaths": 2027,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1241821,
+          "confirmed": 1243096,
           "date": "2021-02-19",
-          "deaths": 16342,
+          "deaths": 16397,
           "recovered": 0
         }
       },
