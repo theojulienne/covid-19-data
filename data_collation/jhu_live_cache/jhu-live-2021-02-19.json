@@ -861,7 +861,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 741934,
+      "confirmed": 743814,
       "date": "2021-02-19",
       "deaths": 5521,
       "recovered": 690048
@@ -958,7 +958,7 @@
           "confirmed": 108365,
           "date": "2021-02-19",
           "deaths": 1207,
-          "recovered": 102796
+          "recovered": 103202
         }
       }
     }
@@ -1337,9 +1337,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 285419,
+      "confirmed": 287752,
       "date": "2021-02-19",
-      "deaths": 6271,
+      "deaths": 6350,
       "recovered": 255300
     }
   },
