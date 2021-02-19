@@ -33,18 +33,18 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 439841,
+      "confirmed": 441659,
       "date": "2021-02-19",
-      "deaths": 8312,
-      "recovered": 416431
+      "deaths": 8348,
+      "recovered": 417654
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 232636,
+      "confirmed": 232829,
       "date": "2021-02-19",
-      "deaths": 3190,
-      "recovered": 227271
+      "deaths": 3193,
+      "recovered": 227472
     }
   },
   "Bahrain": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 542268,
+      "confirmed": 542674,
       "date": "2021-02-19",
-      "deaths": 8329,
-      "recovered": 489932
+      "deaths": 8337,
+      "recovered": 490468
     }
   },
   "Belarus": {
@@ -837,10 +837,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1550142,
+      "confirmed": 1558159,
       "date": "2021-02-19",
-      "deaths": 59264,
-      "recovered": 1324231
+      "deaths": 59341,
+      "recovered": 1331162
     }
   },
   "Iraq": {
@@ -1013,9 +1013,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 79351,
+      "confirmed": 80040,
       "date": "2021-02-19",
-      "deaths": 1521,
+      "deaths": 1533,
       "recovered": 68119
     }
   },
@@ -1269,10 +1269,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 771843,
+      "confirmed": 774555,
       "date": "2021-02-19",
-      "deaths": 19659,
-      "recovered": 717179
+      "deaths": 19738,
+      "recovered": 719693
     }
   },
   "Russia": {
