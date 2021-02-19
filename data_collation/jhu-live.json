@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 96838,
+      "confirmed": 97909,
       "date": "2021-02-19",
-      "deaths": 1617,
-      "recovered": 60675
+      "deaths": 1636,
+      "recovered": 61605
     }
   },
   "Algeria": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 294978,
+          "confirmed": 295043,
           "date": "2021-02-19",
           "deaths": 6800,
-          "recovered": 278142
+          "recovered": 278213
         }
       },
       "Quebec": {
@@ -517,10 +517,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 150179,
+      "confirmed": 151016,
       "date": "2021-02-19",
-      "deaths": 2249,
-      "recovered": 130399
+      "deaths": 2259,
+      "recovered": 130566
     }
   },
   "France": {
@@ -559,10 +559,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 126211,
+          "confirmed": 126573,
           "date": "2021-02-19",
-          "deaths": 2703,
-          "recovered": 118071
+          "deaths": 2720,
+          "recovered": 118170
         }
       },
       "Brandenburg": {
@@ -625,9 +625,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 176059,
+      "confirmed": 177494,
       "date": "2021-02-19",
-      "deaths": 6221,
+      "deaths": 6249,
       "recovered": 93764
     }
   },
@@ -997,10 +997,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 181484,
+      "confirmed": 182460,
       "date": "2021-02-19",
-      "deaths": 1027,
-      "recovered": 169406
+      "deaths": 1034,
+      "recovered": 170326
     }
   },
   "Kyrgyzstan": {
@@ -1497,10 +1497,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2616600,
+      "confirmed": 2624019,
       "date": "2021-02-19",
-      "deaths": 27821,
-      "recovered": 2504050
+      "deaths": 27903,
+      "recovered": 2511548
     }
   },
   "US": {
@@ -1555,9 +1555,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 89582,
+          "confirmed": 89700,
           "date": "2021-02-19",
-          "deaths": 1613,
+          "deaths": 1616,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 94018,
+          "confirmed": 94306,
           "date": "2021-02-19",
-          "deaths": 830,
+          "deaths": 833,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 190004,
+          "confirmed": 190261,
           "date": "2021-02-19",
-          "deaths": 4722,
+          "deaths": 4731,
           "recovered": 0
         }
       },
