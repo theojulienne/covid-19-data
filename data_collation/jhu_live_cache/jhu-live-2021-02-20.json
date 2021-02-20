@@ -1515,7 +1515,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2814128,
+          "confirmed": 2814546,
           "date": "2021-02-20",
           "deaths": 39972,
           "recovered": 0
@@ -1621,7 +1621,7 @@
         "live": {
           "confirmed": 203699,
           "date": "2021-02-20",
-          "deaths": 2845,
+          "deaths": 2858,
           "recovered": 0
         }
       },
