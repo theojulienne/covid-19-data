@@ -142,7 +142,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 4,
         "current_icu": 0,
         "deaths": 911,
-        "recovered": 3224,
+        "recovered": 3228,
         "tested": 13724651
       },
       "back_2week": {
@@ -150,7 +150,7 @@ var covid19_dataset_latest_totals = {
         "current_hospitalized": 12,
         "current_icu": 0,
         "deaths": 911,
-        "recovered": 3210,
+        "recovered": 3211,
         "tested": 13588865
       },
       "latest": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 163887
         },
         "NSW": {
-          "confirmed": 4954,
+          "confirmed": 4956,
           "current_hospitalized": 2,
           "current_icu": 0,
           "current_ventilators": 16,
           "deaths": 56,
           "recovered": 2799,
-          "tested": 4867114
+          "tested": 4884084
         },
         "NT": {
           "confirmed": 103,
