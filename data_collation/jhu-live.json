@@ -649,10 +649,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 397116,
+      "confirmed": 400111,
       "date": "2021-02-20",
-      "deaths": 14145,
-      "recovered": 302689
+      "deaths": 14252,
+      "recovered": 304680
     }
   },
   "India": {
@@ -955,7 +955,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 108365,
+          "confirmed": 108692,
           "date": "2021-02-20",
           "deaths": 1218,
           "recovered": 103202
@@ -1037,10 +1037,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 192986,
+      "confirmed": 193562,
       "date": "2021-02-20",
-      "deaths": 3145,
-      "recovered": 178126
+      "deaths": 3162,
+      "recovered": 179364
     }
   },
   "Malaysia": {
