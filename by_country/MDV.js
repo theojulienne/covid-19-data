@@ -793,7 +793,8 @@ var covid19_dataset_country_mdv = {
       17953,
       18082,
       18224,
-      18340
+      18340,
+      18467
     ],
     "deaths": [
       0,
@@ -1184,6 +1185,7 @@ var covid19_dataset_country_mdv = {
       56,
       56,
       57,
+      58,
       58,
       58,
       58,
@@ -1585,7 +1587,8 @@ var covid19_dataset_country_mdv = {
       15560,
       15633,
       15768,
-      15863
+      15863,
+      15965
     ]
   }
 };
