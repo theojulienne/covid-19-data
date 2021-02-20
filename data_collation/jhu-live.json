@@ -390,7 +390,7 @@
           "confirmed": 280687,
           "date": "2021-02-20",
           "deaths": 10278,
-          "recovered": 260245
+          "recovered": 261429
         }
       }
     }
@@ -411,49 +411,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 338256,
+          "confirmed": 338935,
           "date": "2021-02-20",
-          "deaths": 6338,
+          "deaths": 6358,
           "recovered": 325821
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 120879,
+          "confirmed": 121100,
           "date": "2021-02-20",
-          "deaths": 3974,
+          "deaths": 3980,
           "recovered": 115223
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 647597,
+          "confirmed": 648712,
           "date": "2021-02-20",
-          "deaths": 13540,
+          "deaths": 13582,
           "recovered": 617227
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 103448,
+          "confirmed": 103738,
           "date": "2021-02-20",
-          "deaths": 2797,
+          "deaths": 2806,
           "recovered": 97904
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 89064,
+          "confirmed": 89269,
           "date": "2021-02-20",
-          "deaths": 3216,
+          "deaths": 3228,
           "recovered": 83414
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 191264,
+          "confirmed": 191789,
           "date": "2021-02-20",
-          "deaths": 6018,
+          "deaths": 6043,
           "recovered": 180241
         }
       }
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2809357,
+          "confirmed": 2809564,
           "date": "2021-02-20",
-          "deaths": 39679,
+          "deaths": 39696,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 82402,
+          "confirmed": 82615,
           "date": "2021-02-20",
-          "deaths": 1348,
+          "deaths": 1357,
           "recovered": 0
         }
       },
