@@ -138,7 +138,7 @@
           "confirmed": 127341,
           "date": "2021-02-20",
           "deaths": 2913,
-          "recovered": 121447
+          "recovered": 121858
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 81689,
           "date": "2021-02-20",
           "deaths": 1121,
-          "recovered": 59450
+          "recovered": 59917
         }
       },
       "Amazonas": {
@@ -154,7 +154,7 @@
           "confirmed": 303586,
           "date": "2021-02-20",
           "deaths": 10359,
-          "recovered": 254834
+          "recovered": 258592
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 647384,
           "date": "2021-02-20",
           "deaths": 11060,
-          "recovered": 615962
+          "recovered": 619018
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 315310,
           "date": "2021-02-20",
           "deaths": 6257,
-          "recovered": 296340
+          "recovered": 298296
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 378589,
           "date": "2021-02-20",
           "deaths": 8229,
-          "recovered": 362969
+          "recovered": 364500
         }
       },
       "Maranhao": {
@@ -202,7 +202,7 @@
           "confirmed": 215223,
           "date": "2021-02-20",
           "deaths": 4910,
-          "recovered": 200614
+          "recovered": 201198
         }
       },
       "Mato Grosso": {
@@ -210,7 +210,7 @@
           "confirmed": 238835,
           "date": "2021-02-20",
           "deaths": 5500,
-          "recovered": 224326
+          "recovered": 225860
         }
       },
       "Mato Grosso do Sul": {
@@ -218,7 +218,7 @@
           "confirmed": 174106,
           "date": "2021-02-20",
           "deaths": 3186,
-          "recovered": 162334
+          "recovered": 163126
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 353036,
           "date": "2021-02-20",
           "deaths": 8163,
-          "recovered": 331483
+          "recovered": 332881
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
           "confirmed": 209933,
           "date": "2021-02-20",
           "deaths": 4328,
-          "recovered": 155907
+          "recovered": 156097
         }
       },
       "Parana": {
@@ -274,7 +274,7 @@
           "confirmed": 159072,
           "date": "2021-02-20",
           "deaths": 3448,
-          "recovered": 108220
+          "recovered": 118035
         }
       },
       "Rio Grande do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 598456,
           "date": "2021-02-20",
           "deaths": 11666,
-          "recovered": 568924
+          "recovered": 572331
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 141212,
           "date": "2021-02-20",
           "deaths": 2667,
-          "recovered": 118333
+          "recovered": 120509
         }
       },
       "Roraima": {
@@ -330,7 +330,7 @@
           "confirmed": 147266,
           "date": "2021-02-20",
           "deaths": 2901,
-          "recovered": 135858
+          "recovered": 137264
         }
       },
       "Tocantins": {
@@ -338,7 +338,7 @@
           "confirmed": 108896,
           "date": "2021-02-20",
           "deaths": 1470,
-          "recovered": 98580
+          "recovered": 98895
         }
       }
     }
@@ -551,10 +551,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 427177,
+          "confirmed": 427235,
           "date": "2021-02-20",
-          "deaths": 12105,
-          "recovered": 396301
+          "deaths": 12100,
+          "recovered": 396297
         }
       },
       "Berlin": {
@@ -607,10 +607,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 189987,
+          "confirmed": 190393,
           "date": "2021-02-20",
-          "deaths": 7443,
-          "recovered": 175950
+          "deaths": 7455,
+          "recovered": 176350
         }
       }
     }
@@ -1123,41 +1123,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 118296,
+          "confirmed": 118762,
           "date": "2021-02-20",
-          "deaths": 1770,
+          "deaths": 1776,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 164443,
+          "confirmed": 165258,
           "date": "2021-02-20",
-          "deaths": 2829,
+          "deaths": 2839,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 177949,
+          "confirmed": 178796,
           "date": "2021-02-20",
-          "deaths": 2190,
+          "deaths": 2198,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 83556,
+          "confirmed": 83834,
           "date": "2021-02-20",
-          "deaths": 1100,
+          "deaths": 1107,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 248328,
+          "confirmed": 249143,
           "date": "2021-02-20",
-          "deaths": 3634,
+          "deaths": 3643,
           "recovered": 0
         }
       }
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 431680,
+      "confirmed": 434122,
       "date": "2021-02-20",
-      "deaths": 4306,
+      "deaths": 4321,
       "recovered": 0
     }
   },
