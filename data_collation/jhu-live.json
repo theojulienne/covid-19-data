@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 116482,
+      "confirmed": 117234,
       "date": "2021-02-20",
-      "deaths": 418,
-      "recovered": 108353
+      "deaths": 420,
+      "recovered": 109085
     }
   },
   "Bangladesh": {
@@ -250,7 +250,7 @@
           "confirmed": 608226,
           "date": "2021-02-20",
           "deaths": 11061,
-          "recovered": 445050
+          "recovered": 449980
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 569184,
           "date": "2021-02-20",
           "deaths": 32045,
-          "recovered": 532138
+          "recovered": 535888
         }
       },
       "Rondonia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 296894,
+          "confirmed": 297011,
           "date": "2021-02-20",
-          "deaths": 6846,
-          "recovered": 280204
+          "deaths": 6848,
+          "recovered": 280307
         }
       },
       "Quebec": {
@@ -633,10 +633,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 170275,
+      "confirmed": 170931,
       "date": "2021-02-20",
-      "deaths": 6220,
-      "recovered": 157198
+      "deaths": 6249,
+      "recovered": 157794
     }
   },
   "Honduras": {
@@ -1353,10 +1353,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1500677,
+      "confirmed": 1502367,
       "date": "2021-02-20",
-      "deaths": 48859,
-      "recovered": 1406907
+      "deaths": 48940,
+      "recovered": 1409553
     }
   },
   "Spain": {
@@ -1489,10 +1489,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 226740,
+      "confirmed": 227643,
       "date": "2021-02-20",
-      "deaths": 7719,
-      "recovered": 187753
+      "deaths": 7755,
+      "recovered": 188317
     }
   },
   "Turkey": {
@@ -1571,7 +1571,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 100239,
+          "confirmed": 100372,
           "date": "2021-02-20",
           "deaths": 4118,
           "recovered": 0
@@ -1587,9 +1587,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 87177,
+          "confirmed": 87345,
           "date": "2021-02-20",
-          "deaths": 1915,
+          "deaths": 1917,
           "recovered": 0
         }
       },
@@ -1653,7 +1653,7 @@
         "live": {
           "confirmed": 166083,
           "date": "2021-02-20",
-          "deaths": 2268,
+          "deaths": 2279,
           "recovered": 0
         }
       },
@@ -1661,7 +1661,7 @@
         "live": {
           "confirmed": 1244315,
           "date": "2021-02-20",
-          "deaths": 16439,
+          "deaths": 16537,
           "recovered": 0
         }
       },
