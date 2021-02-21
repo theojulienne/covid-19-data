@@ -1110,19 +1110,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 203793,
-        "deaths": 2280,
-        "recovered": 195625
+        "confirmed": 204067,
+        "deaths": 2284,
+        "recovered": 196027
       },
       "back_2week": {
-        "confirmed": 200773,
-        "deaths": 2201,
-        "recovered": 191399
+        "confirmed": 201186,
+        "deaths": 2215,
+        "recovered": 192104
       },
       "latest": {
-        "confirmed": 206617,
-        "deaths": 2327,
-        "recovered": 198619
+        "confirmed": 207081,
+        "deaths": 2333,
+        "recovered": 199026
       },
       "states": {
         "Faroe Islands": {
@@ -1503,9 +1503,9 @@ var covid19_dataset_latest_totals = {
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 74347,
-        "deaths": 505,
-        "recovered": 66333
+        "confirmed": 75836,
+        "deaths": 533,
+        "recovered": 67087
       },
       "back_2week": {
         "confirmed": 70046,
@@ -1513,9 +1513,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 63502
       },
       "latest": {
-        "confirmed": 79165,
-        "deaths": 568,
-        "recovered": 71025
+        "confirmed": 79655,
+        "deaths": 572,
+        "recovered": 72516
       }
     },
     "GIN": {
@@ -1792,19 +1792,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 639438,
-        "deaths": 13157,
-        "recovered": 604822
+        "confirmed": 641628,
+        "deaths": 13164,
+        "recovered": 605980
       },
       "back_2week": {
-        "confirmed": 625756,
-        "deaths": 13103,
-        "recovered": 598147
+        "confirmed": 627416,
+        "deaths": 13111,
+        "recovered": 599167
       },
       "latest": {
-        "confirmed": 661477,
-        "deaths": 13232,
-        "recovered": 614529
+        "confirmed": 664750,
+        "deaths": 13245,
+        "recovered": 616507
       }
     },
     "ISL": {
