@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 297011,
+          "confirmed": 297338,
           "date": "2021-02-21",
-          "deaths": 6848,
-          "recovered": 280307
+          "deaths": 6851,
+          "recovered": 280581
         }
       },
       "Quebec": {
@@ -399,7 +399,7 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 357924,
+          "confirmed": 358729,
           "date": "2021-02-21",
           "deaths": 11824,
           "recovered": 341561
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 234502,
+      "confirmed": 235462,
       "date": "2021-02-21",
-      "deaths": 3028,
-      "recovered": 183720
+      "deaths": 3038,
+      "recovered": 185154
     }
   },
   "Ecuador": {
@@ -551,7 +551,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 428297,
+          "confirmed": 428351,
           "date": "2021-02-21",
           "deaths": 12114,
           "recovered": 397260
@@ -599,18 +599,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 99792,
+          "confirmed": 100113,
           "date": "2021-02-21",
-          "deaths": 2989,
+          "deaths": 2993,
           "recovered": 91867
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 190498,
+          "confirmed": 190797,
           "date": "2021-02-21",
-          "deaths": 7458,
-          "recovered": 176350
+          "deaths": 7459,
+          "recovered": 176550
         }
       }
     }
@@ -1227,9 +1227,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 582007,
+          "confirmed": 585634,
           "date": "2021-02-21",
-          "deaths": 19540,
+          "deaths": 19619,
           "recovered": 0
         }
       }
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 796339,
+      "confirmed": 797525,
       "date": "2021-02-21",
-      "deaths": 15897,
-      "recovered": 696916
+      "deaths": 15962,
+      "recovered": 699222
     }
   },
   "Qatar": {
