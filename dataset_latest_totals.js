@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 2015496,
-        "deaths": 50029,
-        "recovered": 1814160
+        "confirmed": 2021553,
+        "deaths": 50188,
+        "recovered": 1820965
       },
       "back_2week": {
-        "confirmed": 1970009,
-        "deaths": 48985,
-        "recovered": 1763762
+        "confirmed": 1976689,
+        "deaths": 49110,
+        "recovered": 1772059
       },
       "latest": {
-        "confirmed": 2054681,
-        "deaths": 51000,
-        "recovered": 1855645
+        "confirmed": 2060625,
+        "deaths": 51122,
+        "recovered": 1861433
       }
     },
     "ARM": {
@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 28720,
+        "confirmed": 28723,
         "current_hospitalized": 4,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3230,
-        "tested": 13842554
+        "tested": 13858683
       },
       "back_2week": {
-        "confirmed": 28694,
+        "confirmed": 28697,
         "current_hospitalized": 4,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3212,
-        "tested": 13706267
+        "tested": 13722396
       },
       "latest": {
-        "confirmed": 28731,
+        "confirmed": 28734,
         "current_hospitalized": 10,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3247,
-        "tested": 14019006
+        "tested": 14035135
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 3,
           "recovered": 115,
-          "tested": 165642
+          "tested": 167473
         },
         "NSW": {
           "confirmed": 4957,
@@ -180,12 +180,12 @@ var covid19_dataset_latest_totals = {
           "tested": 4900506
         },
         "NT": {
-          "confirmed": 103,
-          "current_hospitalized": 4,
+          "confirmed": 104,
+          "current_hospitalized": 3,
           "current_icu": 0,
           "deaths": 0,
           "recovered": 101,
-          "tested": 114733
+          "tested": 117514
         },
         "QLD": {
           "confirmed": 1321,
@@ -201,7 +201,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 4,
           "recovered": 602,
-          "tested": 1047665
+          "tested": 1063172
         },
         "TAS": {
           "confirmed": 234,
@@ -209,15 +209,15 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 13,
           "recovered": 221,
-          "tested": 167535
+          "tested": 169688
         },
         "VIC": {
-          "confirmed": 20475,
-          "current_hospitalized": 0,
-          "current_icu": 0,
+          "confirmed": 20479,
+          "current_hospitalized": 1,
+          "current_icu": 1,
           "deaths": 820,
           "recovered": 19522,
-          "tested": 4782488
+          "tested": 4851742
         },
         "WA": {
           "confirmed": 910,
@@ -225,7 +225,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 9,
           "recovered": 897,
-          "tested": 839767
+          "tested": 845459
         }
       }
     },
@@ -3293,19 +3293,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 221455,
-        "deaths": 7461,
-        "recovered": 181198
+        "confirmed": 222504,
+        "deaths": 7508,
+        "recovered": 181627
       },
       "back_2week": {
-        "confirmed": 215112,
-        "deaths": 7099,
-        "recovered": 171143
+        "confirmed": 216176,
+        "deaths": 7162,
+        "recovered": 172885
       },
       "latest": {
-        "confirmed": 226740,
-        "deaths": 7719,
-        "recovered": 187753
+        "confirmed": 227643,
+        "deaths": 7755,
+        "recovered": 188317
       }
     },
     "TUR": {
