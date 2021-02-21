@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1245558,
+          "confirmed": 1247775,
           "date": "2021-02-21",
           "deaths": 16537,
           "recovered": 0
@@ -1675,7 +1675,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 82615,
+          "confirmed": 82835,
           "date": "2021-02-21",
           "deaths": 1357,
           "recovered": 0
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 135114,
+      "confirmed": 135603,
       "date": "2021-02-21",
-      "deaths": 1308,
-      "recovered": 127143
+      "deaths": 1312,
+      "recovered": 127598
     }
   },
   "West Bank and Gaza": {
