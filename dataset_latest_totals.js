@@ -2115,19 +2115,19 @@ var covid19_dataset_latest_totals = {
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 74056,
+        "confirmed": 74852,
         "deaths": 384,
-        "recovered": 66984
+        "recovered": 67831
       },
       "back_2week": {
-        "confirmed": 67850,
+        "confirmed": 68576,
         "deaths": 343,
-        "recovered": 61461
+        "recovered": 62594
       },
       "latest": {
-        "confirmed": 78937,
+        "confirmed": 79480,
         "deaths": 433,
-        "recovered": 72566
+        "recovered": 73456
       }
     },
     "LSO": {
@@ -2319,19 +2319,19 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 96518,
-        "deaths": 2971,
-        "recovered": 87324
+        "confirmed": 96872,
+        "deaths": 2976,
+        "recovered": 87446
       },
       "back_2week": {
-        "confirmed": 94196,
-        "deaths": 2908,
-        "recovered": 83634
+        "confirmed": 94599,
+        "deaths": 2916,
+        "recovered": 83735
       },
       "latest": {
-        "confirmed": 98584,
-        "deaths": 3037,
-        "recovered": 89022
+        "confirmed": 99031,
+        "deaths": 3047,
+        "recovered": 89249
       }
     },
     "MLI": {
@@ -2885,19 +2885,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 372073,
-        "deaths": 6424,
-        "recovered": 362947
+        "confirmed": 372410,
+        "deaths": 6429,
+        "recovered": 363303
       },
       "back_2week": {
-        "confirmed": 369575,
-        "deaths": 6393,
-        "recovered": 360954
+        "confirmed": 369961,
+        "deaths": 6397,
+        "recovered": 361237
       },
       "latest": {
-        "confirmed": 374366,
-        "deaths": 6454,
-        "recovered": 365363
+        "confirmed": 374691,
+        "deaths": 6457,
+        "recovered": 365745
       }
     },
     "SDN": {
@@ -3038,18 +3038,18 @@ var covid19_dataset_latest_totals = {
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 417871,
-        "deaths": 4199,
+        "confirmed": 419493,
+        "deaths": 4214,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 404668,
-        "deaths": 4099,
+        "confirmed": 406352,
+        "deaths": 4112,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 431680,
-        "deaths": 4306,
+        "confirmed": 434122,
+        "deaths": 4321,
         "recovered": 0
       }
     },
