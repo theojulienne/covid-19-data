@@ -845,10 +845,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 667937,
+      "confirmed": 671801,
       "date": "2021-02-22",
-      "deaths": 13272,
-      "recovered": 618509
+      "deaths": 13295,
+      "recovered": 620745
     }
   },
   "Ireland": {
@@ -1123,41 +1123,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 119187,
+          "confirmed": 119495,
           "date": "2021-02-22",
-          "deaths": 1777,
+          "deaths": 1780,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 166119,
+          "confirmed": 166863,
           "date": "2021-02-22",
-          "deaths": 2842,
+          "deaths": 2846,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 179755,
+          "confirmed": 180576,
           "date": "2021-02-22",
-          "deaths": 2200,
+          "deaths": 2206,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 84158,
+          "confirmed": 84449,
           "date": "2021-02-22",
-          "deaths": 1110,
+          "deaths": 1111,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 249957,
+          "confirmed": 250759,
           "date": "2021-02-22",
-          "deaths": 3648,
+          "deaths": 3653,
           "recovered": 0
         }
       }
@@ -1321,17 +1321,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 375006,
+      "confirmed": 375333,
       "date": "2021-02-22",
-      "deaths": 6461,
-      "recovered": 366094
+      "deaths": 6466,
+      "recovered": 366412
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 436640,
+      "confirmed": 439596,
       "date": "2021-02-22",
-      "deaths": 4337,
+      "deaths": 4351,
       "recovered": 0
     }
   },
@@ -1445,10 +1445,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 79999,
+      "confirmed": 80222,
       "date": "2021-02-22",
       "deaths": 445,
-      "recovered": 74299
+      "recovered": 75110
     }
   },
   "Sweden": {
