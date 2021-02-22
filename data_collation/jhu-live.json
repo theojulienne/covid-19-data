@@ -861,7 +861,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 750043,
+      "confirmed": 752398,
       "date": "2021-02-22",
       "deaths": 5585,
       "recovered": 706946
@@ -958,7 +958,7 @@
           "confirmed": 109142,
           "date": "2021-02-22",
           "deaths": 1262,
-          "recovered": 103970
+          "recovered": 104317
         }
       }
     }
@@ -1227,9 +1227,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 585634,
+          "confirmed": 589391,
           "date": "2021-02-22",
-          "deaths": 19619,
+          "deaths": 19720,
           "recovered": 0
         }
       }
@@ -1248,7 +1248,7 @@
       "confirmed": 1638767,
       "date": "2021-02-22",
       "deaths": 42171,
-      "recovered": 1378414
+      "recovered": 1384373
     }
   },
   "Portugal": {
@@ -1337,9 +1337,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 292143,
+      "confirmed": 292792,
       "date": "2021-02-22",
-      "deaths": 6505,
+      "deaths": 6577,
       "recovered": 255300
     }
   },
