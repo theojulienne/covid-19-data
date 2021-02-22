@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 281456,
-          "deaths": 10292
+          "confirmed": 282122,
+          "deaths": 10307
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1139,19 +1139,19 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 228895,
-        "deaths": 2932,
-        "recovered": 175329
+        "confirmed": 229768,
+        "deaths": 2944,
+        "recovered": 176788
       },
       "back_2week": {
-        "confirmed": 222148,
-        "deaths": 2801,
-        "recovered": 165659
+        "confirmed": 223398,
+        "deaths": 2831,
+        "recovered": 167214
       },
       "latest": {
-        "confirmed": 234502,
-        "deaths": 3028,
-        "recovered": 183720
+        "confirmed": 235462,
+        "deaths": 3038,
+        "recovered": 185154
       }
     },
     "DZA": {
@@ -1588,18 +1588,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 171466,
-        "deaths": 6103,
+        "confirmed": 172128,
+        "deaths": 6126,
         "recovered": 93764
       },
       "back_2week": {
-        "confirmed": 163213,
-        "deaths": 5951,
+        "confirmed": 163946,
+        "deaths": 5972,
         "recovered": 93764
       },
       "latest": {
-        "confirmed": 178918,
-        "deaths": 6272,
+        "confirmed": 179802,
+        "deaths": 6297,
         "recovered": 93764
       }
     },
@@ -2319,19 +2319,19 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 96872,
-        "deaths": 2976,
-        "recovered": 87446
+        "confirmed": 97052,
+        "deaths": 2989,
+        "recovered": 87652
       },
       "back_2week": {
-        "confirmed": 94599,
-        "deaths": 2916,
-        "recovered": 83735
+        "confirmed": 94798,
+        "deaths": 2924,
+        "recovered": 83999
       },
       "latest": {
-        "confirmed": 99031,
-        "deaths": 3047,
-        "recovered": 89249
+        "confirmed": 99285,
+        "deaths": 3063,
+        "recovered": 89400
       }
     },
     "MLI": {
