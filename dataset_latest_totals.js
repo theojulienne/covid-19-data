@@ -655,17 +655,17 @@ var covid19_dataset_latest_totals = {
     "CHE": {
       "back_1week": {
         "confirmed": 540727,
-        "deaths": 9755,
+        "deaths": 9765,
         "recovered": 317600
       },
       "back_2week": {
         "confirmed": 531873,
-        "deaths": 9606,
+        "deaths": 9613,
         "recovered": 317600
       },
       "latest": {
         "confirmed": 547775,
-        "deaths": 9886,
+        "deaths": 9887,
         "recovered": 317600
       }
     },
@@ -1110,19 +1110,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 204067,
-        "deaths": 2284,
-        "recovered": 196027
+        "confirmed": 204362,
+        "deaths": 2292,
+        "recovered": 196384
       },
       "back_2week": {
-        "confirmed": 201186,
-        "deaths": 2215,
-        "recovered": 192104
+        "confirmed": 201621,
+        "deaths": 2216,
+        "recovered": 192695
       },
       "latest": {
-        "confirmed": 207081,
-        "deaths": 2333,
-        "recovered": 199026
+        "confirmed": 207577,
+        "deaths": 2338,
+        "recovered": 199449
       },
       "states": {
         "Faroe Islands": {
@@ -1309,14 +1309,14 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 3431805,
-        "deaths": 81244,
+        "confirmed": 3447518,
+        "deaths": 81405,
         "recovered": 213405
       },
       "back_2week": {
-        "confirmed": 3303273,
-        "deaths": 78401,
-        "recovered": 207625
+        "confirmed": 3322988,
+        "deaths": 78572,
+        "recovered": 207909
       },
       "latest": {
         "confirmed": 3517166,
@@ -1928,19 +1928,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 102792,
+        "confirmed": 102867,
         "deaths": 1795,
-        "recovered": 84952
+        "recovered": 85008
       },
       "back_2week": {
-        "confirmed": 101690,
-        "deaths": 1776,
-        "recovered": 84302
+        "confirmed": 101819,
+        "deaths": 1779,
+        "recovered": 84361
       },
       "latest": {
-        "confirmed": 103993,
-        "deaths": 1817,
-        "recovered": 85540
+        "confirmed": 104201,
+        "deaths": 1823,
+        "recovered": 85577
       }
     },
     "KGZ": {
