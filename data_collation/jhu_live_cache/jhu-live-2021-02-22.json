@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2822247,
+          "confirmed": 2822392,
           "date": "2021-02-22",
-          "deaths": 40400,
+          "deaths": 40412,
           "recovered": 0
         }
       },
@@ -1773,10 +1773,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79654,
+      "confirmed": 79681,
       "date": "2021-02-22",
       "deaths": 622,
-      "recovered": 78152
+      "recovered": 78171
     }
   },
   "Venezuela": {
