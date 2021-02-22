@@ -1499,9 +1499,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 613333,
+          "confirmed": 614525,
           "date": "2021-02-22",
-          "deaths": 10984,
+          "deaths": 10982,
           "recovered": 0
         }
       },
@@ -1515,9 +1515,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 78181,
+          "confirmed": 78803,
           "date": "2021-02-22",
-          "deaths": 2027,
+          "deaths": 2034,
           "recovered": 0
         }
       },
@@ -1557,7 +1557,7 @@
         "live": {
           "confirmed": 268954,
           "date": "2021-02-22",
-          "deaths": 7180,
+          "deaths": 7191,
           "recovered": 0
         }
       },
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1254692,
+          "confirmed": 1255453,
           "date": "2021-02-22",
           "deaths": 16681,
           "recovered": 0
