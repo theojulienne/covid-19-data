@@ -583,7 +583,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 159197,
+          "confirmed": 159492,
           "date": "2021-02-22",
           "deaths": 4113,
           "recovered": 144910
@@ -1269,10 +1269,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 779695,
+      "confirmed": 781329,
       "date": "2021-02-22",
-      "deaths": 19847,
-      "recovered": 724333
+      "deaths": 19894,
+      "recovered": 725526
     }
   },
   "Russia": {
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 173635,
+      "confirmed": 174969,
       "date": "2021-02-22",
-      "deaths": 1976,
-      "recovered": 161410
+      "deaths": 1986,
+      "recovered": 162025
     }
   },
   "Zambia": {
