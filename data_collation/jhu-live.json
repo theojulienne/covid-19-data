@@ -162,7 +162,7 @@
           "confirmed": 653335,
           "date": "2021-02-22",
           "deaths": 11191,
-          "recovered": 625441
+          "recovered": 627674
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 840315,
           "date": "2021-02-22",
           "deaths": 17714,
-          "recovered": 765805
+          "recovered": 767617
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 169465,
           "date": "2021-02-22",
           "deaths": 3242,
-          "recovered": 165610
+          "recovered": 165865
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 604385,
           "date": "2021-02-22",
           "deaths": 11771,
-          "recovered": 575190
+          "recovered": 576991
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 109841,
           "date": "2021-02-22",
           "deaths": 1481,
-          "recovered": 99777
+          "recovered": 99936
         }
       }
     }
@@ -609,10 +609,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 80253,
+      "confirmed": 80759,
       "date": "2021-02-22",
-      "deaths": 577,
-      "recovered": 73018
+      "deaths": 582,
+      "recovered": 73365
     }
   },
   "Greece": {
@@ -1481,10 +1481,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 228362,
+      "confirmed": 228937,
       "date": "2021-02-22",
-      "deaths": 7793,
-      "recovered": 188607
+      "deaths": 7811,
+      "recovered": 189358
     }
   },
   "Turkey": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2823205,
+          "confirmed": 2823493,
           "date": "2021-02-22",
-          "deaths": 40437,
+          "deaths": 40468,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 173846,
+          "confirmed": 174135,
           "date": "2021-02-22",
-          "deaths": 2015,
+          "deaths": 2026,
           "recovered": 0
         }
       },
@@ -1563,7 +1563,7 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 100372,
+          "confirmed": 100642,
           "date": "2021-02-22",
           "deaths": 4118,
           "recovered": 0
@@ -1683,7 +1683,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 106336,
+          "confirmed": 106397,
           "date": "2021-02-22",
           "deaths": 1258,
           "recovered": 0
