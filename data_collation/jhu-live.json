@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1153159,
+      "confirmed": 1157180,
       "date": "2021-02-22",
-      "deaths": 19214,
-      "recovered": 1014997
+      "deaths": 19330,
+      "recovered": 1017406
     }
   },
   "Denmark": {
@@ -533,10 +533,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 268355,
+      "confirmed": 268502,
       "date": "2021-02-22",
-      "deaths": 3435,
-      "recovered": 261637
+      "deaths": 3447,
+      "recovered": 262244
     }
   },
   "Germany": {
@@ -955,7 +955,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 108964,
+          "confirmed": 109142,
           "date": "2021-02-22",
           "deaths": 1262,
           "recovered": 103970
@@ -1695,34 +1695,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 81775,
+          "confirmed": 81825,
           "date": "2021-02-22",
-          "deaths": 1530,
-          "recovered": 75408
+          "deaths": 1532,
+          "recovered": 75703
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 134506,
+          "confirmed": 134675,
           "date": "2021-02-22",
-          "deaths": 2573,
-          "recovered": 91803
+          "deaths": 2581,
+          "recovered": 91925
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 76154,
+          "confirmed": 76433,
           "date": "2021-02-22",
           "deaths": 2228,
-          "recovered": 67620
+          "recovered": 67654
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 84400,
+          "confirmed": 84524,
           "date": "2021-02-22",
           "deaths": 1393,
-          "recovered": 78017
+          "recovered": 78033
         }
       }
     }
