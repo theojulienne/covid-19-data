@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 94338,
+          "confirmed": 94684,
           "date": "2021-02-22",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 92955,
+          "confirmed": 93210,
           "date": "2021-02-22",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 80365,
+          "confirmed": 80695,
           "date": "2021-02-22",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 114160,
+          "confirmed": 114374,
           "date": "2021-02-22",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 104408,
+          "confirmed": 104535,
           "date": "2021-02-22",
           "deaths": 0,
           "recovered": 0
@@ -973,10 +973,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 256388,
+      "confirmed": 257087,
       "date": "2021-02-22",
       "deaths": 3150,
-      "recovered": 232309
+      "recovered": 232504
     }
   },
   "Kenya": {
@@ -1191,18 +1191,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 167345,
+          "confirmed": 167819,
           "date": "2021-02-22",
-          "deaths": 5204,
-          "recovered": 154895
+          "deaths": 5208,
+          "recovered": 155632
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 255834,
+          "confirmed": 256220,
           "date": "2021-02-22",
-          "deaths": 4288,
-          "recovered": 238792
+          "deaths": 4292,
+          "recovered": 239111
         }
       }
     }
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 135603,
+      "confirmed": 136068,
       "date": "2021-02-22",
-      "deaths": 1312,
-      "recovered": 127598
+      "deaths": 1316,
+      "recovered": 128088
     }
   },
   "West Bank and Gaza": {
