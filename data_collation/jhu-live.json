@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 100246,
+      "confirmed": 101285,
       "date": "2021-02-22",
-      "deaths": 1666,
-      "recovered": 63329
+      "deaths": 1681,
+      "recovered": 64318
     }
   },
   "Algeria": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 298503,
+          "confirmed": 298589,
           "date": "2021-02-22",
-          "deaths": 6867,
-          "recovered": 281659
+          "deaths": 6868,
+          "recovered": 281737
         }
       },
       "Quebec": {
@@ -399,10 +399,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 358729,
+          "confirmed": 359659,
           "date": "2021-02-22",
-          "deaths": 11824,
-          "recovered": 341561
+          "deaths": 11848,
+          "recovered": 342447
         }
       }
     }
@@ -559,7 +559,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 126908,
+          "confirmed": 127187,
           "date": "2021-02-22",
           "deaths": 2741,
           "recovered": 119169
@@ -591,18 +591,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 100129,
+          "confirmed": 100350,
           "date": "2021-02-22",
           "deaths": 3019,
-          "recovered": 92218
+          "recovered": 91872
         }
       },
       "Sachsen": {
         "live": {
           "confirmed": 190830,
           "date": "2021-02-22",
-          "deaths": 7460,
-          "recovered": 176550
+          "deaths": 7482,
+          "recovered": 176800
         }
       }
     }
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 752398,
+      "confirmed": 754481,
       "date": "2021-02-22",
-      "deaths": 5585,
-      "recovered": 706946
+      "deaths": 5593,
+      "recovered": 708969
     }
   },
   "Italy": {
@@ -1491,8 +1491,8 @@
     "live": {
       "confirmed": 2638422,
       "date": "2021-02-22",
-      "deaths": 28060,
-      "recovered": 2523760
+      "deaths": 28138,
+      "recovered": 2529450
     }
   },
   "US": {
@@ -1547,9 +1547,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 89923,
+          "confirmed": 90042,
           "date": "2021-02-22",
-          "deaths": 1619,
+          "deaths": 1622,
           "recovered": 0
         }
       },
@@ -1621,7 +1621,7 @@
         "live": {
           "confirmed": 79804,
           "date": "2021-02-22",
-          "deaths": 700,
+          "deaths": 705,
           "recovered": 0
         }
       },
