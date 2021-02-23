@@ -138,28 +138,28 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 28726,
-        "current_hospitalized": 12,
-        "current_icu": 0,
-        "deaths": 911,
-        "recovered": 3236,
-        "tested": 13923227
-      },
-      "back_2week": {
-        "confirmed": 28705,
-        "current_hospitalized": 10,
-        "current_icu": 0,
-        "deaths": 911,
-        "recovered": 3216,
-        "tested": 13772124
-      },
-      "latest": {
-        "confirmed": 28741,
+        "confirmed": 28729,
         "current_hospitalized": 11,
         "current_icu": 0,
         "deaths": 911,
+        "recovered": 3236,
+        "tested": 13950395
+      },
+      "back_2week": {
+        "confirmed": 28708,
+        "current_hospitalized": 9,
+        "current_icu": 0,
+        "deaths": 911,
+        "recovered": 3216,
+        "tested": 13799292
+      },
+      "latest": {
+        "confirmed": 28744,
+        "current_hospitalized": 10,
+        "current_icu": 0,
+        "deaths": 911,
         "recovered": 3251,
-        "tested": 14090307
+        "tested": 14117475
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 115,
-          "tested": 167735
+          "tested": 168443
         },
         "NSW": {
           "confirmed": 4961,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 101,
-          "tested": 118279
+          "tested": 118981
         },
         "QLD": {
           "confirmed": 1323,
@@ -201,7 +201,7 @@
           "current_icu": 0,
           "deaths": 4,
           "recovered": 603,
-          "tested": 1067502
+          "tested": 1069938
         },
         "TAS": {
           "confirmed": 234,
@@ -209,23 +209,23 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 221,
-          "tested": 170121
+          "tested": 170421
         },
         "VIC": {
           "confirmed": 20479,
           "current_hospitalized": 1,
-          "current_icu": 1,
+          "current_icu": 0,
           "deaths": 820,
           "recovered": 19522,
-          "tested": 4862081
+          "tested": 4870358
         },
         "WA": {
-          "confirmed": 911,
+          "confirmed": 912,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 9,
           "recovered": 899,
-          "tested": 845459
+          "tested": 853710
         }
       }
     },
@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 112742,
-        "deaths": 403,
-        "recovered": 105166
+        "confirmed": 113590,
+        "deaths": 406,
+        "recovered": 105784
       },
       "back_2week": {
-        "confirmed": 107329,
-        "deaths": 380,
-        "recovered": 101168
+        "confirmed": 108048,
+        "deaths": 383,
+        "recovered": 101629
       },
       "latest": {
-        "confirmed": 117809,
-        "deaths": 423,
-        "recovered": 110007
+        "confirmed": 118530,
+        "deaths": 429,
+        "recovered": 110827
       }
     },
     "BHS": {
@@ -627,8 +627,8 @@
           "deaths": 1
         },
         "Ontario": {
-          "confirmed": 298154,
-          "deaths": 6861
+          "confirmed": 298800,
+          "deaths": 6868
         },
         "Prince Edward Island": {
           "confirmed": 114,
@@ -3901,19 +3901,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1491807,
-        "deaths": 47899,
-        "recovered": 1388321
+        "confirmed": 1492909,
+        "deaths": 48094,
+        "recovered": 1391155
       },
       "back_2week": {
-        "confirmed": 1476135,
-        "deaths": 46290,
-        "recovered": 1360204
+        "confirmed": 1477511,
+        "deaths": 46473,
+        "recovered": 1363947
       },
       "latest": {
-        "confirmed": 1503796,
-        "deaths": 49053,
-        "recovered": 1412015
+        "confirmed": 1504588,
+        "deaths": 49150,
+        "recovered": 1413566
       }
     },
     "ZMB": {
