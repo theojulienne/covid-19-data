@@ -1008,7 +1008,7 @@
       "confirmed": 82462,
       "date": "2021-02-23",
       "deaths": 1570,
-      "recovered": 70741
+      "recovered": 71506
     }
   },
   "Lebanon": {
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 781329,
+      "confirmed": 784711,
       "date": "2021-02-23",
-      "deaths": 19894,
-      "recovered": 725526
+      "deaths": 20013,
+      "recovered": 728252
     }
   },
   "Russia": {
