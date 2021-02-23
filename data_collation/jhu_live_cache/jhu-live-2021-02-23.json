@@ -569,7 +569,7 @@
         "live": {
           "confirmed": 75052,
           "date": "2021-02-23",
-          "deaths": 2938,
+          "deaths": 2939,
           "recovered": 67924
         }
       },
@@ -1005,10 +1005,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 85929,
+      "confirmed": 86001,
       "date": "2021-02-23",
-      "deaths": 1458,
-      "recovered": 82803
+      "deaths": 1460,
+      "recovered": 82879
     }
   },
   "Latvia": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825210,
+          "confirmed": 2825527,
           "date": "2021-02-23",
-          "deaths": 40532,
+          "deaths": 40563,
           "recovered": 0
         }
       },
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1255683,
+          "confirmed": 1255931,
           "date": "2021-02-23",
           "deaths": 16681,
           "recovered": 0
@@ -1781,10 +1781,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79681,
+      "confirmed": 79717,
       "date": "2021-02-23",
       "deaths": 622,
-      "recovered": 78171
+      "recovered": 78185
     }
   },
   "Venezuela": {
