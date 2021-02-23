@@ -399,7 +399,7 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 359659,
+          "confirmed": 360251,
           "date": "2021-02-23",
           "deaths": 11871,
           "recovered": 343197
@@ -957,10 +957,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 368278,
+      "confirmed": 372417,
       "date": "2021-02-23",
-      "deaths": 4570,
-      "recovered": 337359
+      "deaths": 4589,
+      "recovered": 339214
     }
   },
   "Kazakhstan": {
@@ -1165,10 +1165,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 99408,
+      "confirmed": 99917,
       "date": "2021-02-23",
-      "deaths": 3076,
-      "recovered": 89742
+      "deaths": 3085,
+      "recovered": 90096
     }
   },
   "Oman": {
@@ -1245,10 +1245,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 798074,
+      "confirmed": 799106,
       "date": "2021-02-23",
-      "deaths": 16023,
-      "recovered": 701409
+      "deaths": 16086,
+      "recovered": 705976
     }
   },
   "Qatar": {
@@ -1321,7 +1321,7 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 439596,
+      "confirmed": 442853,
       "date": "2021-02-23",
       "deaths": 4366,
       "recovered": 0
