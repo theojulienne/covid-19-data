@@ -1200,7 +1200,8 @@ var covid19_dataset_country_srb = {
       4306,
       4321,
       4337,
-      4351
+      4351,
+      4366
     ],
     "recovered": [
       0,
