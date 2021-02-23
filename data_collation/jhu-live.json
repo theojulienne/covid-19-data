@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 94684,
+          "confirmed": 94879,
           "date": "2021-02-23",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 93210,
+          "confirmed": 93319,
           "date": "2021-02-23",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 80695,
+          "confirmed": 80904,
           "date": "2021-02-23",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 114374,
+          "confirmed": 114487,
           "date": "2021-02-23",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 104535,
+          "confirmed": 104559,
           "date": "2021-02-23",
           "deaths": 0,
           "recovered": 0
@@ -186,7 +186,7 @@
           "confirmed": 318812,
           "date": "2021-02-23",
           "deaths": 6298,
-          "recovered": 298845
+          "recovered": 301061
         }
       },
       "Goias": {
@@ -633,10 +633,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 165095,
+      "confirmed": 165737,
       "date": "2021-02-23",
-      "deaths": 3996,
-      "recovered": 64678
+      "deaths": 4024,
+      "recovered": 64781
     }
   },
   "Hungary": {
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 257100,
+      "confirmed": 257792,
       "date": "2021-02-23",
-      "deaths": 3152,
-      "recovered": 233498
+      "deaths": 3153,
+      "recovered": 233700
     }
   },
   "Kenya": {
@@ -1183,18 +1183,18 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 167819,
+          "confirmed": 168348,
           "date": "2021-02-23",
-          "deaths": 5208,
-          "recovered": 155632
+          "deaths": 5237,
+          "recovered": 155948
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 256220,
+          "confirmed": 256445,
           "date": "2021-02-23",
-          "deaths": 4292,
-          "recovered": 239111
+          "deaths": 4293,
+          "recovered": 239286
         }
       }
     }
