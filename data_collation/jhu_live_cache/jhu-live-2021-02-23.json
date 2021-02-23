@@ -546,7 +546,7 @@
           "confirmed": 311530,
           "date": "2021-02-23",
           "deaths": 7965,
-          "recovered": 290824
+          "recovered": 291767
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 429060,
           "date": "2021-02-23",
           "deaths": 12124,
-          "recovered": 398194
+          "recovered": 399692
         }
       },
       "Berlin": {
@@ -562,7 +562,7 @@
           "confirmed": 127187,
           "date": "2021-02-23",
           "deaths": 2741,
-          "recovered": 119169
+          "recovered": 119576
         }
       },
       "Hessen": {
@@ -570,7 +570,7 @@
           "confirmed": 184447,
           "date": "2021-02-23",
           "deaths": 5672,
-          "recovered": 169099
+          "recovered": 169743
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 159492,
           "date": "2021-02-23",
           "deaths": 4113,
-          "recovered": 144910
+          "recovered": 145759
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 521557,
           "date": "2021-02-23",
           "deaths": 12633,
-          "recovered": 481884
+          "recovered": 483618
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 100350,
           "date": "2021-02-23",
           "deaths": 3019,
-          "recovered": 91872
+          "recovered": 92333
         }
       },
       "Sachsen": {
@@ -965,7 +965,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 257792,
+      "confirmed": 257800,
       "date": "2021-02-23",
       "deaths": 3153,
       "recovered": 233700

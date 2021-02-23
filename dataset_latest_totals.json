@@ -3414,19 +3414,19 @@
       "back_1week": {
         "confirmed": 27321534,
         "deaths": 473752,
-        "recovered": 11454848,
+        "recovered": 11588426,
         "tested": 150044109
       },
       "back_2week": {
         "confirmed": 26691239,
         "deaths": 452107,
-        "recovered": 10963492,
+        "recovered": 11092916,
         "tested": 146148666
       },
       "latest": {
         "confirmed": 27770758,
         "deaths": 487011,
-        "recovered": 11833477,
+        "recovered": 11970290,
         "tested": 153106315
       },
       "states": {
@@ -3455,6 +3455,7 @@
           "confirmed": 807967,
           "deaths": 15505,
           "hospitalized": 56946,
+          "recovered": 114497,
           "tested": 3748204
         },
         "CA": {
@@ -3466,6 +3467,7 @@
           "confirmed": 420614,
           "deaths": 5892,
           "hospitalized": 23169,
+          "recovered": 22316,
           "tested": 2555865
         },
         "CT": {
