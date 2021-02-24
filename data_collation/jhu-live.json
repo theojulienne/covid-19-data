@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 94879,
+          "confirmed": 95112,
           "date": "2021-02-24",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 93319,
+          "confirmed": 93612,
           "date": "2021-02-24",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 80904,
+          "confirmed": 81178,
           "date": "2021-02-24",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 114487,
+          "confirmed": 114708,
           "date": "2021-02-24",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 104559,
+          "confirmed": 104736,
           "date": "2021-02-24",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 243176,
+      "confirmed": 244380,
       "date": "2021-02-24",
-      "deaths": 11470,
-      "recovered": 186118
+      "deaths": 11508,
+      "recovered": 188645
     }
   },
   "Bosnia and Herzegovina": {
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 257800,
+      "confirmed": 258553,
       "date": "2021-02-24",
-      "deaths": 3153,
-      "recovered": 234646
+      "deaths": 3155,
+      "recovered": 234889
     }
   },
   "Kenya": {
@@ -1185,16 +1185,16 @@
         "live": {
           "confirmed": 168348,
           "date": "2021-02-24",
-          "deaths": 5237,
-          "recovered": 155948
+          "deaths": 5269,
+          "recovered": 156821
         }
       },
       "Sindh": {
         "live": {
           "confirmed": 256445,
           "date": "2021-02-24",
-          "deaths": 4293,
-          "recovered": 239286
+          "deaths": 4301,
+          "recovered": 240057
         }
       }
     }
@@ -1651,7 +1651,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 166686,
+          "confirmed": 166981,
           "date": "2021-02-24",
           "deaths": 2286,
           "recovered": 0
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1258195,
+          "confirmed": 1258523,
           "date": "2021-02-24",
           "deaths": 16763,
           "recovered": 0
