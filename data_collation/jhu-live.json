@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 448371,
+      "confirmed": 450376,
       "date": "2021-02-24",
-      "deaths": 8434,
-      "recovered": 423014
+      "deaths": 8470,
+      "recovered": 424348
     }
   },
   "Azerbaijan": {
@@ -575,10 +575,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 160402,
+          "confirmed": 160905,
           "date": "2021-02-24",
-          "deaths": 4204,
-          "recovered": 146681
+          "deaths": 4213,
+          "recovered": 146673
         }
       },
       "Nordrhein-Westfalen": {
@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 675982,
+      "confirmed": 680288,
       "date": "2021-02-24",
-      "deaths": 13311,
-      "recovered": 623337
+      "deaths": 13324,
+      "recovered": 625447
     }
   },
   "Ireland": {
@@ -1008,7 +1008,7 @@
       "confirmed": 83445,
       "date": "2021-02-24",
       "deaths": 1587,
-      "recovered": 71506
+      "recovered": 72462
     }
   },
   "Lebanon": {
@@ -1797,10 +1797,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 75582,
+      "confirmed": 76484,
       "date": "2021-02-24",
-      "deaths": 1040,
-      "recovered": 69436
+      "deaths": 1051,
+      "recovered": 69803
     }
   }
 }

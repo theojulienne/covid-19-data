@@ -231,19 +231,19 @@
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 434712,
-        "deaths": 8221,
-        "recovered": 412457
+        "confirmed": 436139,
+        "deaths": 8260,
+        "recovered": 413908
       },
       "back_2week": {
-        "confirmed": 424896,
-        "deaths": 8032,
-        "recovered": 403302
+        "confirmed": 426093,
+        "deaths": 8071,
+        "recovered": 404676
       },
       "latest": {
-        "confirmed": 446644,
-        "deaths": 8397,
-        "recovered": 421811
+        "confirmed": 448371,
+        "deaths": 8434,
+        "recovered": 423014
       }
     },
     "AZE": {
@@ -1797,19 +1797,19 @@
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 646650,
-        "deaths": 13185,
-        "recovered": 608178
+        "confirmed": 649982,
+        "deaths": 13192,
+        "recovered": 609800
       },
       "back_2week": {
-        "confirmed": 630263,
-        "deaths": 13126,
-        "recovered": 601041
+        "confirmed": 632257,
+        "deaths": 13134,
+        "recovered": 602018
       },
       "latest": {
-        "confirmed": 671801,
-        "deaths": 13295,
-        "recovered": 620745
+        "confirmed": 675982,
+        "deaths": 13311,
+        "recovered": 623337
       }
     },
     "ISL": {
@@ -2195,12 +2195,12 @@
       "back_2week": {
         "confirmed": 72869,
         "deaths": 1363,
-        "recovered": 60117
+        "recovered": 60798
       },
       "latest": {
         "confirmed": 82462,
         "deaths": 1570,
-        "recovered": 70741
+        "recovered": 71506
       }
     },
     "MAR": {
@@ -3923,19 +3923,19 @@
     },
     "ZMB": {
       "back_1week": {
-        "confirmed": 70248,
-        "deaths": 959,
-        "recovered": 63262
+        "confirmed": 70823,
+        "deaths": 974,
+        "recovered": 63609
       },
       "back_2week": {
-        "confirmed": 63573,
-        "deaths": 869,
-        "recovered": 56329
+        "confirmed": 64610,
+        "deaths": 881,
+        "recovered": 58319
       },
       "latest": {
-        "confirmed": 75027,
-        "deaths": 1031,
-        "recovered": 68928
+        "confirmed": 75582,
+        "deaths": 1040,
+        "recovered": 69436
       }
     },
     "ZWE": {
