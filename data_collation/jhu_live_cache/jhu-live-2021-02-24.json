@@ -226,7 +226,7 @@
           "confirmed": 847763,
           "date": "2021-02-24",
           "deaths": 17774,
-          "recovered": 773470
+          "recovered": 778996
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 612191,
           "date": "2021-02-24",
           "deaths": 11932,
-          "recovered": 580427
+          "recovered": 582359
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 110761,
           "date": "2021-02-24",
           "deaths": 1490,
-          "recovered": 100226
+          "recovered": 100431
         }
       }
     }
@@ -381,8 +381,8 @@
         "live": {
           "confirmed": 300902,
           "date": "2021-02-24",
-          "deaths": 6891,
-          "recovered": 284216
+          "deaths": 6892,
+          "recovered": 284633
         }
       },
       "Quebec": {
@@ -853,7 +853,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 762508,
+      "confirmed": 763558,
       "date": "2021-02-24",
       "deaths": 5660,
       "recovered": 717524
@@ -1475,7 +1475,7 @@
     "live": {
       "confirmed": 552698,
       "date": "2021-02-24",
-      "deaths": 9938,
+      "deaths": 9942,
       "recovered": 317600
     }
   },
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2830624,
+          "confirmed": 2831090,
           "date": "2021-02-24",
           "deaths": 40888,
           "recovered": 0
@@ -1531,9 +1531,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 174668,
+          "confirmed": 175311,
           "date": "2021-02-24",
-          "deaths": 2024,
+          "deaths": 2042,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 100878,
+          "confirmed": 101094,
           "date": "2021-02-24",
-          "deaths": 4124,
+          "deaths": 4125,
           "recovered": 0
         }
       },
@@ -1587,9 +1587,17 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 224944,
+          "confirmed": 225301,
           "date": "2021-02-24",
           "deaths": 3827,
+          "recovered": 0
+        }
+      },
+      "New Jersey": {
+        "live": {
+          "confirmed": 75860,
+          "date": "2021-02-24",
+          "deaths": 2603,
           "recovered": 0
         }
       },
@@ -1627,9 +1635,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 192818,
+          "confirmed": 117318,
           "date": "2021-02-24",
-          "deaths": 4802,
+          "deaths": 3098,
           "recovered": 0
         }
       },
@@ -1659,9 +1667,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 226787,
+          "confirmed": 227251,
           "date": "2021-02-24",
-          "deaths": 1057,
+          "deaths": 1067,
           "recovered": 0
         }
       },
@@ -1675,9 +1683,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 106512,
+          "confirmed": 106628,
           "date": "2021-02-24",
-          "deaths": 1260,
+          "deaths": 1261,
           "recovered": 0
         }
       }
