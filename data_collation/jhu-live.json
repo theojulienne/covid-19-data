@@ -401,8 +401,8 @@
         "live": {
           "confirmed": 360251,
           "date": "2021-02-24",
-          "deaths": 11871,
-          "recovered": 343197
+          "deaths": 11892,
+          "recovered": 343965
         }
       }
     }
@@ -973,10 +973,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 104500,
+      "confirmed": 104780,
       "date": "2021-02-24",
-      "deaths": 1837,
-      "recovered": 85665
+      "deaths": 1839,
+      "recovered": 86378
     }
   },
   "Korea, South": {
@@ -1117,7 +1117,7 @@
         "live": {
           "confirmed": 119845,
           "date": "2021-02-24",
-          "deaths": 1793,
+          "deaths": 1800,
           "recovered": 0
         }
       },
@@ -1125,7 +1125,7 @@
         "live": {
           "confirmed": 167543,
           "date": "2021-02-24",
-          "deaths": 2855,
+          "deaths": 2864,
           "recovered": 0
         }
       },
@@ -1133,7 +1133,7 @@
         "live": {
           "confirmed": 181416,
           "date": "2021-02-24",
-          "deaths": 2224,
+          "deaths": 2232,
           "recovered": 0
         }
       },
@@ -1141,7 +1141,7 @@
         "live": {
           "confirmed": 84719,
           "date": "2021-02-24",
-          "deaths": 1114,
+          "deaths": 1118,
           "recovered": 0
         }
       },
@@ -1149,7 +1149,7 @@
         "live": {
           "confirmed": 251470,
           "date": "2021-02-24",
-          "deaths": 3676,
+          "deaths": 3691,
           "recovered": 0
         }
       }
@@ -1323,7 +1323,7 @@
     "live": {
       "confirmed": 442853,
       "date": "2021-02-24",
-      "deaths": 4366,
+      "deaths": 4383,
       "recovered": 0
     }
   },
@@ -1447,7 +1447,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 108530,
+          "confirmed": 108978,
           "date": "2021-02-24",
           "deaths": 1547,
           "recovered": 0
@@ -1455,7 +1455,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 151647,
+          "confirmed": 153177,
           "date": "2021-02-24",
           "deaths": 3865,
           "recovered": 0
@@ -1463,7 +1463,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 112900,
+          "confirmed": 113606,
           "date": "2021-02-24",
           "deaths": 2076,
           "recovered": 0
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 176377,
+      "confirmed": 177768,
       "date": "2021-02-24",
-      "deaths": 1994,
-      "recovered": 162757
+      "deaths": 1999,
+      "recovered": 163795
     }
   },
   "Zambia": {
