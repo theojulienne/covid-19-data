@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 131336,
-          "deaths": 1843
+          "confirmed": 131603,
+          "deaths": 1853
         },
         "British Columbia": {
           "confirmed": 77263,

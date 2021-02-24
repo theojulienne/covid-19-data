@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 131603,
+          "confirmed": 132033,
           "date": "2021-02-24",
-          "deaths": 1853,
-          "recovered": 125234
+          "deaths": 1866,
+          "recovered": 125622
         }
       },
       "British Columbia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 301271,
+          "confirmed": 301380,
           "date": "2021-02-24",
-          "deaths": 6892,
-          "recovered": 284635
+          "deaths": 6895,
+          "recovered": 284736
         }
       },
       "Quebec": {
@@ -853,7 +853,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 763558,
+      "confirmed": 763756,
       "date": "2021-02-24",
       "deaths": 5660,
       "recovered": 717695
@@ -1557,7 +1557,7 @@
         "live": {
           "confirmed": 269941,
           "date": "2021-02-24",
-          "deaths": 7205,
+          "deaths": 7229,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1060684,
+          "confirmed": 1062010,
           "date": "2021-02-24",
           "deaths": 35347,
           "recovered": 0
@@ -1659,9 +1659,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1258993,
+          "confirmed": 1259485,
           "date": "2021-02-24",
-          "deaths": 16774,
+          "deaths": 16898,
           "recovered": 0
         }
       },
