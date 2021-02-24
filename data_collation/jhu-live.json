@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 300827,
+          "confirmed": 300902,
           "date": "2021-02-24",
-          "deaths": 6888,
-          "recovered": 284188
+          "deaths": 6891,
+          "recovered": 284216
         }
       },
       "Quebec": {
@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 275780,
+      "confirmed": 278779,
       "date": "2021-02-24",
-      "deaths": 15567,
+      "deaths": 15634,
       "recovered": 238817
     }
   },
@@ -525,10 +525,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 3608271,
+      "confirmed": 3639501,
       "date": "2021-02-24",
-      "deaths": 84610,
-      "recovered": 226208
+      "deaths": 84884,
+      "recovered": 227575
     }
   },
   "Georgia": {
@@ -855,8 +855,8 @@
     "live": {
       "confirmed": 762508,
       "date": "2021-02-24",
-      "deaths": 5649,
-      "recovered": 715318
+      "deaths": 5660,
+      "recovered": 717524
     }
   },
   "Italy": {
@@ -1107,7 +1107,7 @@
     "live": {
       "confirmed": 273760,
       "date": "2021-02-24",
-      "deaths": 2066,
+      "deaths": 2684,
       "recovered": 270139
     }
   },
@@ -1509,7 +1509,7 @@
         "live": {
           "confirmed": 2830624,
           "date": "2021-02-24",
-          "deaths": 40884,
+          "deaths": 40888,
           "recovered": 0
         }
       },
@@ -1523,9 +1523,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1023635,
+          "confirmed": 1027502,
           "date": "2021-02-24",
-          "deaths": 13763,
+          "deaths": 13818,
           "recovered": 0
         }
       },
@@ -1589,13 +1589,13 @@
         "live": {
           "confirmed": 224944,
           "date": "2021-02-24",
-          "deaths": 3810,
+          "deaths": 3827,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1057599,
+          "confirmed": 1060684,
           "date": "2021-02-24",
           "deaths": 35322,
           "recovered": 0
@@ -1611,9 +1611,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 205358,
+          "confirmed": 205701,
           "date": "2021-02-24",
-          "deaths": 2893,
+          "deaths": 2902,
           "recovered": 0
         }
       },
@@ -1627,9 +1627,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 192522,
+          "confirmed": 192818,
           "date": "2021-02-24",
-          "deaths": 4789,
+          "deaths": 4802,
           "recovered": 0
         }
       },
