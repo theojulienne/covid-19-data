@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2080824,
+      "confirmed": 2085411,
       "date": "2021-02-25",
-      "deaths": 51524,
-      "recovered": 1881890
+      "deaths": 51650,
+      "recovered": 1882568
     }
   },
   "Armenia": {
@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 77822,
+          "confirmed": 78278,
           "date": "2021-02-25",
-          "deaths": 1336,
-          "recovered": 71753
+          "deaths": 1338,
+          "recovered": 72219
         }
       },
       "Ontario": {
@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 342084,
+          "confirmed": 342789,
           "date": "2021-02-25",
-          "deaths": 6437,
-          "recovered": 330140
+          "deaths": 6451,
+          "recovered": 331070
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 122277,
+          "confirmed": 122497,
           "date": "2021-02-25",
-          "deaths": 4010,
-          "recovered": 116272
+          "deaths": 4013,
+          "recovered": 116669
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 652994,
+          "confirmed": 654204,
           "date": "2021-02-25",
-          "deaths": 13703,
-          "recovered": 624325
+          "deaths": 13734,
+          "recovered": 625619
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 104661,
+          "confirmed": 104850,
           "date": "2021-02-25",
-          "deaths": 2850,
-          "recovered": 99462
+          "deaths": 2862,
+          "recovered": 99632
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 90089,
+          "confirmed": 90280,
           "date": "2021-02-25",
-          "deaths": 3262,
-          "recovered": 84458
+          "deaths": 3273,
+          "recovered": 84658
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 193667,
+          "confirmed": 194047,
           "date": "2021-02-25",
-          "deaths": 6114,
-          "recovered": 183084
+          "deaths": 6128,
+          "recovered": 183507
         }
       }
     }
@@ -1499,7 +1499,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 615292,
+          "confirmed": 616252,
           "date": "2021-02-25",
           "deaths": 11124,
           "recovered": 0
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2831090,
+          "confirmed": 2831809,
           "date": "2021-02-25",
-          "deaths": 40906,
+          "deaths": 41848,
           "recovered": 0
         }
       },
@@ -1677,7 +1677,7 @@
         "live": {
           "confirmed": 83195,
           "date": "2021-02-25",
-          "deaths": 1371,
+          "deaths": 1380,
           "recovered": 0
         }
       },
