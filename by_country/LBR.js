@@ -803,7 +803,8 @@ var covid19_dataset_country_lbr = {
       1988,
       1988,
       1996,
-      1998
+      1998,
+      2002
     ],
     "deaths": [
       0,
@@ -1196,6 +1197,7 @@ var covid19_dataset_country_lbr = {
       84,
       84,
       84,
+      85,
       85,
       85,
       85,
@@ -1605,7 +1607,8 @@ var covid19_dataset_country_lbr = {
       1856,
       1856,
       1856,
-      1879
+      1879,
+      1883
     ]
   }
 };
