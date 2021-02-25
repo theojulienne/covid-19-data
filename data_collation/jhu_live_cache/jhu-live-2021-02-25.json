@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 244380,
+      "confirmed": 245719,
       "date": "2021-02-25",
-      "deaths": 11508,
-      "recovered": 188645
+      "deaths": 11547,
+      "recovered": 189832
     }
   },
   "Bosnia and Herzegovina": {
@@ -965,10 +965,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 258609,
+      "confirmed": 259404,
       "date": "2021-02-25",
       "deaths": 3155,
-      "recovered": 234889
+      "recovered": 235585
     }
   },
   "Kenya": {
@@ -981,10 +981,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 88120,
+      "confirmed": 88516,
       "date": "2021-02-25",
-      "deaths": 1576,
-      "recovered": 79050
+      "deaths": 1581,
+      "recovered": 79487
     }
   },
   "Kuwait": {
@@ -1201,10 +1201,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 337805,
+      "confirmed": 338701,
       "date": "2021-02-25",
-      "deaths": 5772,
-      "recovered": 322238
+      "deaths": 5789,
+      "recovered": 323283
     }
   },
   "Paraguay": {
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2831809,
+          "confirmed": 2834428,
           "date": "2021-02-25",
           "deaths": 41848,
           "recovered": 0
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1260014,
+          "confirmed": 1261174,
           "date": "2021-02-25",
           "deaths": 16898,
           "recovered": 0
@@ -1675,7 +1675,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 83195,
+          "confirmed": 83357,
           "date": "2021-02-25",
           "deaths": 1380,
           "recovered": 0
