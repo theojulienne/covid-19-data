@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 281707,
+      "confirmed": 282898,
       "date": "2021-02-25",
-      "deaths": 1939,
-      "recovered": 271733
+      "deaths": 1948,
+      "recovered": 273146
     }
   },
   "Belgium": {
@@ -1021,10 +1021,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 131262,
+      "confirmed": 131833,
       "date": "2021-02-25",
-      "deaths": 2151,
-      "recovered": 117991
+      "deaths": 2156,
+      "recovered": 118791
     }
   },
   "Lithuania": {
@@ -1440,7 +1440,7 @@
       "confirmed": 81467,
       "date": "2021-02-25",
       "deaths": 457,
-      "recovered": 76514
+      "recovered": 76961
     }
   },
   "Sweden": {
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1261174,
+          "confirmed": 1261445,
           "date": "2021-02-25",
           "deaths": 16898,
           "recovered": 0
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 177768,
+      "confirmed": 179293,
       "date": "2021-02-25",
-      "deaths": 1999,
-      "recovered": 163795
+      "deaths": 2008,
+      "recovered": 164557
     }
   },
   "Zambia": {
