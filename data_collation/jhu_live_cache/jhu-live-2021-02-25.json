@@ -543,65 +543,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 313497,
+          "confirmed": 313551,
           "date": "2021-02-25",
-          "deaths": 8004,
-          "recovered": 292742
+          "deaths": 8006,
+          "recovered": 293779
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 430850,
+          "confirmed": 432364,
           "date": "2021-02-25",
-          "deaths": 12250,
-          "recovered": 401222
+          "deaths": 12284,
+          "recovered": 402570
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 127936,
+          "confirmed": 127940,
           "date": "2021-02-25",
           "deaths": 2781,
-          "recovered": 119974
+          "recovered": 120254
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 185434,
+          "confirmed": 186288,
           "date": "2021-02-25",
-          "deaths": 5752,
-          "recovered": 170535
+          "deaths": 5775,
+          "recovered": 171198
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 160905,
+          "confirmed": 161644,
           "date": "2021-02-25",
-          "deaths": 4213,
-          "recovered": 146673
+          "deaths": 4231,
+          "recovered": 147676
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 524022,
+          "confirmed": 526695,
           "date": "2021-02-25",
-          "deaths": 12800,
-          "recovered": 485623
+          "deaths": 12875,
+          "recovered": 487366
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 101009,
+          "confirmed": 101021,
           "date": "2021-02-25",
           "deaths": 3062,
-          "recovered": 93012
+          "recovered": 93238
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 192347,
+          "confirmed": 192414,
           "date": "2021-02-25",
-          "deaths": 7563,
+          "deaths": 7574,
           "recovered": 178050
         }
       }
@@ -1183,7 +1183,7 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 168891,
+          "confirmed": 169474,
           "date": "2021-02-25",
           "deaths": 5308,
           "recovered": 157459
@@ -1191,7 +1191,7 @@
       },
       "Sindh": {
         "live": {
-          "confirmed": 256741,
+          "confirmed": 257089,
           "date": "2021-02-25",
           "deaths": 4315,
           "recovered": 240676
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 136986,
+      "confirmed": 137445,
       "date": "2021-02-25",
-      "deaths": 1325,
-      "recovered": 129027
+      "deaths": 1331,
+      "recovered": 129487
     }
   },
   "West Bank and Gaza": {
