@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2085411,
+      "confirmed": 2093645,
       "date": "2021-02-25",
-      "deaths": 51650,
-      "recovered": 1882568
+      "deaths": 51795,
+      "recovered": 1886732
     }
   },
   "Armenia": {
@@ -379,9 +379,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 302471,
+          "confirmed": 302573,
           "date": "2021-02-25",
-          "deaths": 6917,
+          "deaths": 6918,
           "recovered": 285840
         }
       },
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 767233,
+      "confirmed": 767726,
       "date": "2021-02-25",
-      "deaths": 5685,
-      "recovered": 721731
+      "deaths": 5687,
+      "recovered": 722308
     }
   },
   "Italy": {
@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1507448,
+      "confirmed": 1509124,
       "date": "2021-02-25",
-      "deaths": 49523,
-      "recovered": 1422622
+      "deaths": 49667,
+      "recovered": 1424401
     }
   },
   "Spain": {
