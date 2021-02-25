@@ -1309,19 +1309,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 3471268,
-        "deaths": 82399,
-        "recovered": 218890
+        "confirmed": 3495775,
+        "deaths": 82705,
+        "recovered": 219862
       },
       "back_2week": {
-        "confirmed": 3345558,
-        "deaths": 79752,
-        "recovered": 210649
+        "confirmed": 3370645,
+        "deaths": 80045,
+        "recovered": 211765
       },
       "latest": {
-        "confirmed": 3608271,
-        "deaths": 84610,
-        "recovered": 226208
+        "confirmed": 3639501,
+        "deaths": 84884,
+        "recovered": 226881
       },
       "states": {
         "French Guiana": {
@@ -1508,9 +1508,9 @@ var covid19_dataset_latest_totals = {
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 77046,
-        "deaths": 555,
-        "recovered": 68713
+        "confirmed": 78271,
+        "deaths": 565,
+        "recovered": 69775
       },
       "back_2week": {
         "confirmed": 73003,
@@ -1518,9 +1518,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 65583
       },
       "latest": {
-        "confirmed": 80759,
-        "deaths": 582,
-        "recovered": 73365
+        "confirmed": 81245,
+        "deaths": 584,
+        "recovered": 74047
       }
     },
     "GIN": {
@@ -2205,19 +2205,19 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 479071,
-        "deaths": 8504,
-        "recovered": 460628
+        "confirmed": 479579,
+        "deaths": 8517,
+        "recovered": 461466
       },
       "back_2week": {
-        "confirmed": 476125,
-        "deaths": 8424,
-        "recovered": 456032
+        "confirmed": 476689,
+        "deaths": 8436,
+        "recovered": 456751
       },
       "latest": {
-        "confirmed": 481709,
-        "deaths": 8574,
-        "recovered": 466105
+        "confirmed": 482128,
+        "deaths": 8592,
+        "recovered": 466815
       }
     },
     "MCO": {
