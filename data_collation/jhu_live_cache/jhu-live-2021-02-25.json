@@ -997,10 +997,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 86025,
+      "confirmed": 86091,
       "date": "2021-02-25",
-      "deaths": 1460,
-      "recovered": 82938
+      "deaths": 1463,
+      "recovered": 83006
     }
   },
   "Latvia": {
@@ -1773,10 +1773,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79749,
+      "confirmed": 79773,
       "date": "2021-02-25",
       "deaths": 622,
-      "recovered": 78252
+      "recovered": 78290
     }
   },
   "Venezuela": {
