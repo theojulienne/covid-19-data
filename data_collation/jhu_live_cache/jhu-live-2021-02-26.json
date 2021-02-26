@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 241592,
+      "confirmed": 242097,
       "date": "2021-02-26",
-      "deaths": 5489,
-      "recovered": 233170
+      "deaths": 5503,
+      "recovered": 233548
     }
   },
   "Czechia": {
@@ -545,16 +545,16 @@
         "live": {
           "confirmed": 314658,
           "date": "2021-02-26",
-          "deaths": 8042,
-          "recovered": 293779
+          "deaths": 8043,
+          "recovered": 294726
         }
       },
       "Bayern": {
         "live": {
           "confirmed": 433808,
           "date": "2021-02-26",
-          "deaths": 12329,
-          "recovered": 402503
+          "deaths": 12331,
+          "recovered": 403902
         }
       },
       "Berlin": {
@@ -562,7 +562,7 @@
           "confirmed": 128448,
           "date": "2021-02-26",
           "deaths": 2805,
-          "recovered": 120264
+          "recovered": 120672
         }
       },
       "Hessen": {
@@ -578,7 +578,7 @@
           "confirmed": 162671,
           "date": "2021-02-26",
           "deaths": 4270,
-          "recovered": 147676
+          "recovered": 148650
         }
       },
       "Nordrhein-Westfalen": {
@@ -594,7 +594,7 @@
           "confirmed": 101447,
           "date": "2021-02-26",
           "deaths": 3070,
-          "recovered": 93081
+          "recovered": 93500
         }
       },
       "Sachsen": {
@@ -1005,9 +1005,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 84258,
+      "confirmed": 84983,
       "date": "2021-02-26",
-      "deaths": 1593,
+      "deaths": 1601,
       "recovered": 73285
     }
   },
@@ -1037,10 +1037,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 293698,
+      "confirmed": 295951,
       "date": "2021-02-26",
-      "deaths": 1100,
-      "recovered": 263761
+      "deaths": 1111,
+      "recovered": 266846
     }
   },
   "Mexico": {
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 791971,
+      "confirmed": 795732,
       "date": "2021-02-26",
-      "deaths": 20167,
-      "recovered": 733616
+      "deaths": 20233,
+      "recovered": 736020
     }
   },
   "Russia": {
@@ -1797,10 +1797,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 77171,
+      "confirmed": 77639,
       "date": "2021-02-26",
-      "deaths": 1059,
-      "recovered": 70800
+      "deaths": 1066,
+      "recovered": 72635
     }
   }
 }
