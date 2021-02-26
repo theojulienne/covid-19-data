@@ -162,7 +162,7 @@
           "confirmed": 669821,
           "date": "2021-02-26",
           "deaths": 11488,
-          "recovered": 635265
+          "recovered": 639286
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 624831,
           "date": "2021-02-26",
           "deaths": 12149,
-          "recovered": 586716
+          "recovered": 587743
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 579118,
           "date": "2021-02-26",
           "deaths": 32771,
-          "recovered": 540979
+          "recovered": 542702
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 657649,
           "date": "2021-02-26",
           "deaths": 7165,
-          "recovered": 615011
+          "recovered": 618625
         }
       },
       "Sao Paulo": {
@@ -322,7 +322,7 @@
           "confirmed": 2014529,
           "date": "2021-02-26",
           "deaths": 58873,
-          "recovered": 1786558
+          "recovered": 1790461
         }
       },
       "Sergipe": {
@@ -1201,10 +1201,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 338701,
+      "confirmed": 339383,
       "date": "2021-02-26",
-      "deaths": 5789,
-      "recovered": 323283
+      "deaths": 5810,
+      "recovered": 324156
     }
   },
   "Paraguay": {
@@ -1337,9 +1337,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 187005,
+      "confirmed": 187762,
       "date": "2021-02-26",
-      "deaths": 3802,
+      "deaths": 3809,
       "recovered": 171905
     }
   },
