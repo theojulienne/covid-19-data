@@ -1508,19 +1508,19 @@
     },
     "GHA": {
       "back_1week": {
-        "confirmed": 78271,
-        "deaths": 565,
-        "recovered": 69775
+        "confirmed": 78689,
+        "deaths": 568,
+        "recovered": 70348
       },
       "back_2week": {
-        "confirmed": 73003,
-        "deaths": 482,
-        "recovered": 65583
+        "confirmed": 73557,
+        "deaths": 494,
+        "recovered": 66115
       },
       "latest": {
-        "confirmed": 81245,
-        "deaths": 584,
-        "recovered": 74047
+        "confirmed": 81673,
+        "deaths": 588,
+        "recovered": 74681
       }
     },
     "GIN": {

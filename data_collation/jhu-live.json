@@ -399,10 +399,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 361991,
+          "confirmed": 363065,
           "date": "2021-02-26",
-          "deaths": 11909,
-          "recovered": 344654
+          "deaths": 11935,
+          "recovered": 345324
         }
       }
     }
@@ -551,10 +551,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 433808,
+          "confirmed": 433918,
           "date": "2021-02-26",
-          "deaths": 12331,
-          "recovered": 403902
+          "deaths": 12330,
+          "recovered": 403889
         }
       },
       "Berlin": {
@@ -609,10 +609,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 81673,
+      "confirmed": 82131,
       "date": "2021-02-26",
-      "deaths": 588,
-      "recovered": 74681
+      "deaths": 594,
+      "recovered": 75604
     }
   },
   "Greece": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 769971,
+      "confirmed": 770780,
       "date": "2021-02-26",
-      "deaths": 5694,
-      "recovered": 723606
+      "deaths": 5697,
+      "recovered": 725727
     }
   },
   "Italy": {
@@ -1115,41 +1115,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 120729,
+          "confirmed": 121052,
           "date": "2021-02-26",
-          "deaths": 1801,
+          "deaths": 1809,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 169291,
+          "confirmed": 170152,
           "date": "2021-02-26",
-          "deaths": 2868,
+          "deaths": 2874,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 183224,
+          "confirmed": 184303,
           "date": "2021-02-26",
-          "deaths": 2240,
+          "deaths": 2247,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 85402,
+          "confirmed": 85866,
           "date": "2021-02-26",
-          "deaths": 1119,
+          "deaths": 1126,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 253414,
+          "confirmed": 254338,
           "date": "2021-02-26",
-          "deaths": 3702,
+          "deaths": 3721,
           "recovered": 0
         }
       }
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 179293,
+      "confirmed": 180848,
       "date": "2021-02-26",
-      "deaths": 2008,
-      "recovered": 164557
+      "deaths": 2019,
+      "recovered": 165205
     }
   },
   "Zambia": {
