@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 285330,
+          "confirmed": 286145,
           "date": "2021-02-26",
-          "deaths": 10361,
+          "deaths": 10372,
           "recovered": 266879
         }
       }
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 237629,
+      "confirmed": 238205,
       "date": "2021-02-26",
-      "deaths": 3075,
-      "recovered": 188300
+      "deaths": 3082,
+      "recovered": 189163
     }
   },
   "Ecuador": {
@@ -559,10 +559,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 128448,
+          "confirmed": 128943,
           "date": "2021-02-26",
-          "deaths": 2805,
-          "recovered": 120672
+          "deaths": 2814,
+          "recovered": 120694
         }
       },
       "Hessen": {
@@ -599,9 +599,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 193119,
+          "confirmed": 193671,
           "date": "2021-02-26",
-          "deaths": 7613,
+          "deaths": 7699,
           "recovered": 178650
         }
       }
@@ -617,18 +617,18 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 186469,
+      "confirmed": 188201,
       "date": "2021-02-26",
-      "deaths": 6410,
+      "deaths": 6439,
       "recovered": 93764
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 173142,
+      "confirmed": 173814,
       "date": "2021-02-26",
-      "deaths": 6334,
-      "recovered": 160047
+      "deaths": 6348,
+      "recovered": 160576
     }
   },
   "Honduras": {
@@ -957,10 +957,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 380268,
+      "confirmed": 383912,
       "date": "2021-02-26",
-      "deaths": 4627,
-      "recovered": 342600
+      "deaths": 4650,
+      "recovered": 343840
     }
   },
   "Kazakhstan": {
@@ -973,10 +973,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 105057,
+      "confirmed": 105467,
       "date": "2021-02-26",
-      "deaths": 1847,
-      "recovered": 86497
+      "deaths": 1853,
+      "recovered": 86521
     }
   },
   "Korea, South": {
@@ -1165,10 +1165,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 101214,
+      "confirmed": 101762,
       "date": "2021-02-26",
-      "deaths": 3111,
-      "recovered": 90685
+      "deaths": 3119,
+      "recovered": 90895
     }
   },
   "Oman": {
