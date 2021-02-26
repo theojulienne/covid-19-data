@@ -154,12 +154,12 @@ var covid19_dataset_latest_totals = {
         "tested": 13918874
       },
       "latest": {
-        "confirmed": 28758,
+        "confirmed": 28762,
         "current_hospitalized": 13,
         "current_icu": 0,
         "deaths": 911,
         "recovered": 3254,
-        "tested": 14240544
+        "tested": 14248147
       },
       "states": {
         "ACT": {

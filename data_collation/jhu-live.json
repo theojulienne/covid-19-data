@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 245719,
+      "confirmed": 246822,
       "date": "2021-02-26",
-      "deaths": 11547,
-      "recovered": 189832
+      "deaths": 11577,
+      "recovered": 191081
     }
   },
   "Bosnia and Herzegovina": {
@@ -981,10 +981,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 88516,
+      "confirmed": 88922,
       "date": "2021-02-26",
-      "deaths": 1581,
-      "recovered": 79487
+      "deaths": 1585,
+      "recovered": 79880
     }
   },
   "Kuwait": {
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1263918,
+          "confirmed": 1264322,
           "date": "2021-02-26",
           "deaths": 17030,
           "recovered": 0
@@ -1675,9 +1675,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 83357,
+          "confirmed": 83611,
           "date": "2021-02-26",
-          "deaths": 1380,
+          "deaths": 1390,
           "recovered": 0
         }
       },
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 137445,
+      "confirmed": 137871,
       "date": "2021-02-26",
-      "deaths": 1331,
-      "recovered": 129487
+      "deaths": 1334,
+      "recovered": 129927
     }
   },
   "West Bank and Gaza": {
