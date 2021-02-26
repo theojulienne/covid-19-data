@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 171510,
+      "confirmed": 171227,
       "date": "2021-02-26",
-      "deaths": 3183,
-      "recovered": 163165
+      "deaths": 3179,
+      "recovered": 162984
     }
   },
   "Austria": {
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1212780,
+      "confirmed": 1198168,
       "date": "2021-02-26",
-      "deaths": 19999,
-      "recovered": 1055083
+      "deaths": 19835,
+      "recovered": 1046575
     }
   },
   "Denmark": {
@@ -533,10 +533,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 270137,
+      "confirmed": 269800,
       "date": "2021-02-26",
-      "deaths": 3485,
-      "recovered": 264047
+      "deaths": 3475,
+      "recovered": 263727
     }
   },
   "Germany": {
@@ -947,7 +947,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 110240,
+          "confirmed": 109970,
           "date": "2021-02-26",
           "deaths": 1322,
           "recovered": 105595
@@ -1695,34 +1695,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 83137,
+          "confirmed": 82806,
           "date": "2021-02-26",
           "deaths": 1559,
-          "recovered": 76344
+          "recovered": 76217
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 137076,
+          "confirmed": 136328,
           "date": "2021-02-26",
           "deaths": 2620,
-          "recovered": 93402
+          "recovered": 92841
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 77823,
+          "confirmed": 77349,
           "date": "2021-02-26",
           "deaths": 2254,
-          "recovered": 68349
+          "recovered": 68249
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 85485,
+          "confirmed": 85166,
           "date": "2021-02-26",
           "deaths": 1417,
-          "recovered": 78729
+          "recovered": 78503
         }
       }
     }
