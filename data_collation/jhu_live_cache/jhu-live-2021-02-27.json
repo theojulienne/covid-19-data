@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 105229,
+      "confirmed": 106215,
       "date": "2021-02-27",
-      "deaths": 1756,
-      "recovered": 68007
+      "deaths": 1775,
+      "recovered": 68969
     }
   },
   "Algeria": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 304224,
+          "confirmed": 304286,
           "date": "2021-02-27",
           "deaths": 6949,
-          "recovered": 287163
+          "recovered": 287219
         }
       },
       "Quebec": {
@@ -517,10 +517,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 157047,
+      "confirmed": 158053,
       "date": "2021-02-27",
-      "deaths": 2340,
-      "recovered": 134561
+      "deaths": 2354,
+      "recovered": 134736
     }
   },
   "France": {
@@ -559,10 +559,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 128946,
+          "confirmed": 129255,
           "date": "2021-02-27",
-          "deaths": 2814,
-          "recovered": 120864
+          "deaths": 2818,
+          "recovered": 120890
         }
       },
       "Hessen": {
@@ -853,17 +853,17 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 770780,
+      "confirmed": 773261,
       "date": "2021-02-27",
-      "deaths": 5697,
-      "recovered": 725727
+      "deaths": 5726,
+      "recovered": 727553
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 262843,
+          "confirmed": 265058,
           "date": "2021-02-27",
           "deaths": 4273,
           "recovered": 185794
@@ -871,7 +871,7 @@
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 255479,
+          "confirmed": 258007,
           "date": "2021-02-27",
           "deaths": 10521,
           "recovered": 206815
@@ -879,7 +879,7 @@
       },
       "Lazio": {
         "live": {
-          "confirmed": 231540,
+          "confirmed": 232887,
           "date": "2021-02-27",
           "deaths": 5871,
           "recovered": 191352
@@ -887,7 +887,7 @@
       },
       "Liguria": {
         "live": {
-          "confirmed": 77379,
+          "confirmed": 77730,
           "date": "2021-02-27",
           "deaths": 3628,
           "recovered": 68901
@@ -895,7 +895,7 @@
       },
       "Lombardia": {
         "live": {
-          "confirmed": 595361,
+          "confirmed": 599552,
           "date": "2021-02-27",
           "deaths": 28324,
           "recovered": 507514
@@ -903,7 +903,7 @@
       },
       "Piemonte": {
         "live": {
-          "confirmed": 245044,
+          "confirmed": 246232,
           "date": "2021-02-27",
           "deaths": 9365,
           "recovered": 221224
@@ -911,7 +911,7 @@
       },
       "Puglia": {
         "live": {
-          "confirmed": 144874,
+          "confirmed": 145997,
           "date": "2021-02-27",
           "deaths": 3907,
           "recovered": 109633
@@ -919,7 +919,7 @@
       },
       "Sicilia": {
         "live": {
-          "confirmed": 151587,
+          "confirmed": 152105,
           "date": "2021-02-27",
           "deaths": 4117,
           "recovered": 122217
@@ -927,7 +927,7 @@
       },
       "Toscana": {
         "live": {
-          "confirmed": 154041,
+          "confirmed": 155167,
           "date": "2021-02-27",
           "deaths": 4655,
           "recovered": 133083
@@ -935,7 +935,7 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 331451,
+          "confirmed": 332736,
           "date": "2021-02-27",
           "deaths": 9837,
           "recovered": 298867
@@ -1097,10 +1097,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 482994,
+      "confirmed": 483410,
       "date": "2021-02-27",
-      "deaths": 8608,
-      "recovered": 468387
+      "deaths": 8615,
+      "recovered": 468807
     }
   },
   "Nepal": {
@@ -1492,7 +1492,7 @@
       "confirmed": 2683971,
       "date": "2021-02-27",
       "deaths": 28432,
-      "recovered": 2556785
+      "recovered": 2565723
     }
   },
   "US": {
@@ -1547,9 +1547,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 90416,
+          "confirmed": 90560,
           "date": "2021-02-27",
-          "deaths": 1633,
+          "deaths": 1638,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 88203,
+          "confirmed": 88294,
           "date": "2021-02-27",
-          "deaths": 1965,
+          "deaths": 1969,
           "recovered": 0
         }
       },
@@ -1603,7 +1603,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1072220,
+          "confirmed": 1075993,
           "date": "2021-02-27",
           "deaths": 35550,
           "recovered": 0
@@ -1627,9 +1627,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 80429,
+          "confirmed": 80665,
           "date": "2021-02-27",
-          "deaths": 729,
+          "deaths": 737,
           "recovered": 0
         }
       },
@@ -1739,33 +1739,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3646745,
+          "confirmed": 3653272,
           "date": "2021-02-27",
-          "deaths": 107954,
+          "deaths": 108208,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 112173,
+          "confirmed": 112357,
           "date": "2021-02-27",
-          "deaths": 2050,
+          "deaths": 2052,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 200987,
+          "confirmed": 201512,
           "date": "2021-02-27",
-          "deaths": 7111,
+          "deaths": 7129,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 203180,
+          "confirmed": 203378,
           "date": "2021-02-27",
-          "deaths": 5300,
+          "deaths": 5316,
           "recovered": 0
         }
       }
