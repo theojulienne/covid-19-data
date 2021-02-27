@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 78673,
+          "confirmed": 79262,
           "date": "2021-02-27",
-          "deaths": 1348,
-          "recovered": 72781
+          "deaths": 1355,
+          "recovered": 73188
         }
       },
       "Ontario": {
@@ -1201,10 +1201,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 339383,
+      "confirmed": 339781,
       "date": "2021-02-27",
-      "deaths": 5810,
-      "recovered": 324156
+      "deaths": 5820,
+      "recovered": 324836
     }
   },
   "Paraguay": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2840874,
+          "confirmed": 2841188,
           "date": "2021-02-27",
-          "deaths": 42418,
+          "deaths": 42430,
           "recovered": 0
         }
       },
@@ -1677,7 +1677,7 @@
         "live": {
           "confirmed": 83611,
           "date": "2021-02-27",
-          "deaths": 1390,
+          "deaths": 1394,
           "recovered": 0
         }
       },
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 137871,
+      "confirmed": 138295,
       "date": "2021-02-27",
-      "deaths": 1334,
-      "recovered": 129927
+      "deaths": 1338,
+      "recovered": 130379
     }
   },
   "West Bank and Gaza": {
