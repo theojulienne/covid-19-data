@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 304286,
+          "confirmed": 304525,
           "date": "2021-02-27",
-          "deaths": 6949,
-          "recovered": 287219
+          "deaths": 6950,
+          "recovered": 287457
         }
       },
       "Quebec": {
@@ -543,9 +543,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 315605,
+          "confirmed": 316542,
           "date": "2021-02-27",
-          "deaths": 8060,
+          "deaths": 8067,
           "recovered": 295477
         }
       },
@@ -585,7 +585,7 @@
         "live": {
           "confirmed": 530703,
           "date": "2021-02-27",
-          "deaths": 13031,
+          "deaths": 13028,
           "recovered": 490807
         }
       },
@@ -845,9 +845,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 218251,
+      "confirmed": 218980,
       "date": "2021-02-27",
-      "deaths": 4300,
+      "deaths": 4313,
       "recovered": 23364
     }
   },
@@ -1013,9 +1013,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 369692,
+      "confirmed": 372792,
       "date": "2021-02-27",
-      "deaths": 4610,
+      "deaths": 4652,
       "recovered": 285050
     }
   },
@@ -1475,7 +1475,7 @@
     "live": {
       "confirmed": 554932,
       "date": "2021-02-27",
-      "deaths": 9961,
+      "deaths": 9966,
       "recovered": 317600
     }
   },
@@ -1489,9 +1489,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2683971,
+      "confirmed": 2693164,
       "date": "2021-02-27",
-      "deaths": 28432,
+      "deaths": 28503,
       "recovered": 2565723
     }
   },
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2842976,
+          "confirmed": 2843190,
           "date": "2021-02-27",
-          "deaths": 42582,
+          "deaths": 42615,
           "recovered": 0
         }
       },
@@ -1539,9 +1539,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 473194,
+          "confirmed": 473944,
           "date": "2021-02-27",
-          "deaths": 9339,
+          "deaths": 9351,
           "recovered": 0
         }
       },
@@ -1571,9 +1571,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 100202,
+          "confirmed": 100379,
           "date": "2021-02-27",
-          "deaths": 1580,
+          "deaths": 1583,
           "recovered": 0
         }
       },
@@ -1595,9 +1595,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 76862,
+          "confirmed": 77290,
           "date": "2021-02-27",
-          "deaths": 2614,
+          "deaths": 2616,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 96252,
+          "confirmed": 96552,
           "date": "2021-02-27",
-          "deaths": 855,
+          "deaths": 856,
           "recovered": 0
         }
       },
