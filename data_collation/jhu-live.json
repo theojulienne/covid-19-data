@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 233989,
+      "confirmed": 234267,
       "date": "2021-02-27",
-      "deaths": 3213,
-      "recovered": 228479
+      "deaths": 3218,
+      "recovered": 228651
     }
   },
   "Bahrain": {
@@ -551,9 +551,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 435229,
+          "confirmed": 435315,
           "date": "2021-02-27",
-          "deaths": 12363,
+          "deaths": 12366,
           "recovered": 405108
         }
       },
@@ -599,10 +599,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 193719,
+          "confirmed": 194133,
           "date": "2021-02-27",
-          "deaths": 7707,
-          "recovered": 178650
+          "deaths": 7752,
+          "recovered": 179350
         }
       }
     }
@@ -1115,7 +1115,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 121052,
+          "confirmed": 121556,
           "date": "2021-02-27",
           "deaths": 1809,
           "recovered": 0
@@ -1123,33 +1123,33 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 170152,
+          "confirmed": 170903,
           "date": "2021-02-27",
-          "deaths": 2874,
+          "deaths": 2877,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 184303,
+          "confirmed": 185330,
           "date": "2021-02-27",
-          "deaths": 2247,
+          "deaths": 2254,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 85866,
+          "confirmed": 86200,
           "date": "2021-02-27",
-          "deaths": 1126,
+          "deaths": 1131,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 254338,
+          "confirmed": 255335,
           "date": "2021-02-27",
-          "deaths": 3721,
+          "deaths": 3732,
           "recovered": 0
         }
       }

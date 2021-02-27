@@ -248,19 +248,19 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 232636,
-        "deaths": 3190,
-        "recovered": 227271
+        "confirmed": 232829,
+        "deaths": 3193,
+        "recovered": 227472
       },
       "back_2week": {
-        "confirmed": 231649,
-        "deaths": 3170,
-        "recovered": 226119
+        "confirmed": 231840,
+        "deaths": 3173,
+        "recovered": 226345
       },
       "latest": {
-        "confirmed": 233770,
-        "deaths": 3209,
-        "recovered": 228299
+        "confirmed": 233989,
+        "deaths": 3213,
+        "recovered": 228479
       }
     },
     "BDI": {
