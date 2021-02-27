@@ -1603,9 +1603,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1075993,
+          "confirmed": 1080027,
           "date": "2021-02-27",
-          "deaths": 35550,
+          "deaths": 35627,
           "recovered": 0
         }
       },
@@ -1659,17 +1659,17 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1347110,
+          "confirmed": 1348075,
           "date": "2021-02-27",
-          "deaths": 19787,
+          "deaths": 19841,
           "recovered": 0
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 228057,
+          "confirmed": 228487,
           "date": "2021-02-27",
-          "deaths": 1083,
+          "deaths": 1093,
           "recovered": 0
         }
       },
