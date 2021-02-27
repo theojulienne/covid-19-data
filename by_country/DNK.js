@@ -403,6 +403,7 @@ var covid19_dataset_country_dnk = {
           658,
           658,
           658,
+          658,
           658
         ],
         "deaths": [
@@ -756,6 +757,7 @@ var covid19_dataset_country_dnk = {
           0,
           0,
           0,
+          1,
           1,
           1,
           1,
@@ -1209,7 +1211,8 @@ var covid19_dataset_country_dnk = {
           655,
           655,
           656,
-          656
+          656,
+          657
         ]
       }
     },
@@ -1616,9 +1619,11 @@ var covid19_dataset_country_dnk = {
           30,
           30,
           30,
+          30,
           30
         ],
         "deaths": [
+          0,
           0,
           0,
           0,
@@ -2388,6 +2393,7 @@ var covid19_dataset_country_dnk = {
           29,
           29,
           29,
+          30,
           30,
           30,
           30,
@@ -3235,7 +3241,8 @@ var covid19_dataset_country_dnk = {
       208027,
       208556,
       209079,
-      209682
+      209682,
+      210212
     ],
     "deaths": [
       0,
@@ -3638,7 +3645,8 @@ var covid19_dataset_country_dnk = {
       2343,
       2343,
       2345,
-      2351
+      2351,
+      2353
     ],
     "recovered": [
       0,
@@ -4041,7 +4049,8 @@ var covid19_dataset_country_dnk = {
       199818,
       200263,
       200715,
-      201154
+      201154,
+      201531
     ]
   }
 };
