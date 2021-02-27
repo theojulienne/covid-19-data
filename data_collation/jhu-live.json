@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 171510,
+      "confirmed": 171793,
       "date": "2021-02-27",
-      "deaths": 3183,
-      "recovered": 163165
+      "deaths": 3190,
+      "recovered": 163309
     }
   },
   "Austria": {
@@ -533,10 +533,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 270137,
+      "confirmed": 270510,
       "date": "2021-02-27",
-      "deaths": 3485,
-      "recovered": 264047
+      "deaths": 3499,
+      "recovered": 264589
     }
   },
   "Germany": {
@@ -585,7 +585,7 @@
         "live": {
           "confirmed": 530703,
           "date": "2021-02-27",
-          "deaths": 13028,
+          "deaths": 13031,
           "recovered": 490807
         }
       },
@@ -593,7 +593,7 @@
         "live": {
           "confirmed": 101835,
           "date": "2021-02-27",
-          "deaths": 3089,
+          "deaths": 3090,
           "recovered": 93815
         }
       },
@@ -1695,34 +1695,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 83137,
+          "confirmed": 83539,
           "date": "2021-02-27",
-          "deaths": 1568,
-          "recovered": 76344
+          "deaths": 1578,
+          "recovered": 76455
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 137076,
+          "confirmed": 137656,
           "date": "2021-02-27",
-          "deaths": 2635,
-          "recovered": 93402
+          "deaths": 2643,
+          "recovered": 93771
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 77823,
+          "confirmed": 78519,
           "date": "2021-02-27",
-          "deaths": 2257,
-          "recovered": 68349
+          "deaths": 2272,
+          "recovered": 68837
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 85485,
+          "confirmed": 85748,
           "date": "2021-02-27",
-          "deaths": 1422,
-          "recovered": 78729
+          "deaths": 1429,
+          "recovered": 79014
         }
       }
     }
