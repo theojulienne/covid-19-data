@@ -178,7 +178,7 @@
           "confirmed": 294911,
           "date": "2021-02-27",
           "deaths": 4819,
-          "recovered": 282169
+          "recovered": 282531
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 324123,
           "date": "2021-02-27",
           "deaths": 6387,
-          "recovered": 305041
+          "recovered": 306334
         }
       },
       "Goias": {
@@ -314,7 +314,7 @@
           "confirmed": 663699,
           "date": "2021-02-27",
           "deaths": 7242,
-          "recovered": 618625
+          "recovered": 622993
         }
       },
       "Sao Paulo": {
@@ -981,10 +981,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 88922,
+      "confirmed": 89321,
       "date": "2021-02-27",
-      "deaths": 1585,
-      "recovered": 79880
+      "deaths": 1595,
+      "recovered": 80333
     }
   },
   "Kuwait": {
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2841188,
+          "confirmed": 2841286,
           "date": "2021-02-27",
-          "deaths": 42430,
+          "deaths": 42447,
           "recovered": 0
         }
       },
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1345472,
+          "confirmed": 1346699,
           "date": "2021-02-27",
           "deaths": 19787,
           "recovered": 0
@@ -1675,7 +1675,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 83611,
+          "confirmed": 83801,
           "date": "2021-02-27",
           "deaths": 1394,
           "recovered": 0
