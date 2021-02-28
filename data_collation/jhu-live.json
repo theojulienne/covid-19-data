@@ -829,10 +829,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1623159,
+      "confirmed": 1631169,
       "date": "2021-02-28",
-      "deaths": 59980,
-      "recovered": 1386534
+      "deaths": 60073,
+      "recovered": 1393125
     }
   },
   "Iraq": {
@@ -1005,10 +1005,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 85810,
+      "confirmed": 86186,
       "date": "2021-02-28",
-      "deaths": 1614,
-      "recovered": 74839
+      "deaths": 1618,
+      "recovered": 75255
     }
   },
   "Lebanon": {
@@ -1037,10 +1037,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 298315,
+      "confirmed": 300752,
       "date": "2021-02-28",
-      "deaths": 1121,
-      "recovered": 270166
+      "deaths": 1130,
+      "recovered": 273417
     }
   },
   "Mexico": {
@@ -1105,10 +1105,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 274065,
+      "confirmed": 274143,
       "date": "2021-02-28",
-      "deaths": 2773,
-      "recovered": 270325
+      "deaths": 2774,
+      "recovered": 270407
     }
   },
   "Netherlands": {
@@ -1337,7 +1337,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 189627,
+      "confirmed": 190081,
       "date": "2021-02-28",
       "deaths": 3836,
       "recovered": 175210
@@ -1797,10 +1797,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 78202,
+      "confirmed": 78534,
       "date": "2021-02-28",
-      "deaths": 1081,
-      "recovered": 73609
+      "deaths": 1091,
+      "recovered": 74498
     }
   }
 }
