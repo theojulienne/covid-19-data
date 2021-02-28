@@ -258,7 +258,7 @@
           "confirmed": 298859,
           "date": "2021-02-28",
           "deaths": 10974,
-          "recovered": 254810
+          "recovered": 257881
         }
       },
       "Piaui": {
@@ -298,7 +298,7 @@
           "confirmed": 147999,
           "date": "2021-02-28",
           "deaths": 2832,
-          "recovered": 127415
+          "recovered": 129870
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 668811,
           "date": "2021-02-28",
           "deaths": 7314,
-          "recovered": 622993
+          "recovered": 626305
         }
       },
       "Sao Paulo": {
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1349368,
+          "confirmed": 1349850,
           "date": "2021-02-28",
           "deaths": 19841,
           "recovered": 0
