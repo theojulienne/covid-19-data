@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 234267,
+      "confirmed": 234537,
       "date": "2021-02-28",
-      "deaths": 3218,
-      "recovered": 228651
+      "deaths": 3220,
+      "recovered": 228768
     }
   },
   "Bahrain": {
@@ -170,7 +170,7 @@
           "confirmed": 422782,
           "date": "2021-02-28",
           "deaths": 11259,
-          "recovered": 311391
+          "recovered": 312489
         }
       },
       "Distrito Federal": {
@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 692241,
+      "confirmed": 695489,
       "date": "2021-02-28",
-      "deaths": 13383,
-      "recovered": 632998
+      "deaths": 13406,
+      "recovered": 635931
     }
   },
   "Ireland": {
@@ -1021,10 +1021,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 132458,
+      "confirmed": 133338,
       "date": "2021-02-28",
-      "deaths": 2174,
-      "recovered": 119492
+      "deaths": 2179,
+      "recovered": 120240
     }
   },
   "Lithuania": {
@@ -1261,10 +1261,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 799164,
+      "confirmed": 801994,
       "date": "2021-02-28",
-      "deaths": 20287,
-      "recovered": 738569
+      "deaths": 20350,
+      "recovered": 740352
     }
   },
   "Russia": {
@@ -1659,7 +1659,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1349850,
+          "confirmed": 1350025,
           "date": "2021-02-28",
           "deaths": 19841,
           "recovered": 0
@@ -1789,10 +1789,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 181909,
+      "confirmed": 183612,
       "date": "2021-02-28",
-      "deaths": 2025,
-      "recovered": 166119
+      "deaths": 2042,
+      "recovered": 166936
     }
   },
   "Zambia": {
