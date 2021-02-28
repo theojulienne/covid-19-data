@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 305454,
+          "confirmed": 305717,
           "date": "2021-02-28",
-          "deaths": 6964,
-          "recovered": 288260
+          "deaths": 6965,
+          "recovered": 288509
         }
       },
       "Quebec": {
@@ -559,10 +559,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 129257,
+          "confirmed": 129358,
           "date": "2021-02-28",
           "deaths": 2818,
-          "recovered": 121073
+          "recovered": 121097
         }
       },
       "Hessen": {
@@ -845,9 +845,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 218980,
+      "confirmed": 219592,
       "date": "2021-02-28",
-      "deaths": 4313,
+      "deaths": 4319,
       "recovered": 23364
     }
   },
@@ -1547,9 +1547,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 473944,
+          "confirmed": 474397,
           "date": "2021-02-28",
-          "deaths": 9351,
+          "deaths": 9359,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 100379,
+          "confirmed": 100538,
           "date": "2021-02-28",
-          "deaths": 1583,
+          "deaths": 1584,
           "recovered": 0
         }
       },
@@ -1595,7 +1595,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 226469,
+          "confirmed": 226701,
           "date": "2021-02-28",
           "deaths": 3861,
           "recovered": 0
@@ -1603,9 +1603,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 77290,
+          "confirmed": 77537,
           "date": "2021-02-28",
-          "deaths": 2616,
+          "deaths": 2617,
           "recovered": 0
         }
       },
@@ -1613,7 +1613,7 @@
         "live": {
           "confirmed": 1081688,
           "date": "2021-02-28",
-          "deaths": 35627,
+          "deaths": 35649,
           "recovered": 0
         }
       },
@@ -1635,9 +1635,9 @@
       },
       "Oklahoma": {
         "live": {
-          "confirmed": 80665,
+          "confirmed": 80795,
           "date": "2021-02-28",
-          "deaths": 737,
+          "deaths": 747,
           "recovered": 0
         }
       },
