@@ -3906,19 +3906,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1500677,
-        "deaths": 48859,
-        "recovered": 1406907
+        "confirmed": 1502367,
+        "deaths": 48940,
+        "recovered": 1409553
       },
       "back_2week": {
-        "confirmed": 1487681,
-        "deaths": 47670,
-        "recovered": 1383626
+        "confirmed": 1490063,
+        "deaths": 47821,
+        "recovered": 1385996
       },
       "latest": {
-        "confirmed": 1510778,
-        "deaths": 49784,
-        "recovered": 1426417
+        "confirmed": 1512225,
+        "deaths": 49941,
+        "recovered": 1429047
       }
     },
     "ZMB": {
