@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 121778,
+      "confirmed": 122394,
       "date": "2021-02-28",
-      "deaths": 444,
-      "recovered": 114472
+      "deaths": 449,
+      "recovered": 115089
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 131066,
           "date": "2021-02-28",
           "deaths": 2989,
-          "recovered": 124518
+          "recovered": 125307
         }
       },
       "Amapa": {
@@ -290,7 +290,7 @@
           "confirmed": 582164,
           "date": "2021-02-28",
           "deaths": 33035,
-          "recovered": 544854
+          "recovered": 545855
         }
       },
       "Rondonia": {
@@ -853,10 +853,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 774479,
+      "confirmed": 775807,
       "date": "2021-02-28",
-      "deaths": 5738,
-      "recovered": 728407
+      "deaths": 5752,
+      "recovered": 733184
     }
   },
   "Italy": {
@@ -1489,10 +1489,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 232615,
+      "confirmed": 233277,
       "date": "2021-02-28",
-      "deaths": 7974,
-      "recovered": 197619
+      "deaths": 8001,
+      "recovered": 198006
     }
   },
   "Turkey": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2848173,
+          "confirmed": 2848276,
           "date": "2021-02-28",
-          "deaths": 42774,
+          "deaths": 42775,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 168375,
+          "confirmed": 168639,
           "date": "2021-02-28",
-          "deaths": 2345,
+          "deaths": 2352,
           "recovered": 0
         }
       },
