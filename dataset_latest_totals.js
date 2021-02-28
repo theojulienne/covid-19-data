@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 170011,
-        "deaths": 3158,
-        "recovered": 161790
+        "confirmed": 170234,
+        "deaths": 3159,
+        "recovered": 161903
       },
       "back_2week": {
-        "confirmed": 168830,
-        "deaths": 3138,
-        "recovered": 160838
+        "confirmed": 169022,
+        "deaths": 3140,
+        "recovered": 160942
       },
       "latest": {
-        "confirmed": 171510,
-        "deaths": 3183,
-        "recovered": 163165
+        "confirmed": 171793,
+        "deaths": 3190,
+        "recovered": 163309
       }
     },
     "ATG": {
@@ -1042,19 +1042,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1134957,
-        "deaths": 18913,
-        "recovered": 1003739
+        "confirmed": 1146321,
+        "deaths": 19097,
+        "recovered": 1012094
       },
       "back_2week": {
-        "confirmed": 1073966,
-        "deaths": 17902,
-        "recovered": 955938
+        "confirmed": 1082849,
+        "deaths": 18058,
+        "recovered": 963707
       },
       "latest": {
-        "confirmed": 1212780,
-        "deaths": 19999,
-        "recovered": 1055083
+        "confirmed": 1227595,
+        "deaths": 20194,
+        "recovered": 1064022
       }
     },
     "DEU": {
@@ -1491,19 +1491,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 267701,
-        "deaths": 3406,
-        "recovered": 260597
+        "confirmed": 268097,
+        "deaths": 3425,
+        "recovered": 261066
       },
       "back_2week": {
-        "confirmed": 264665,
-        "deaths": 3336,
-        "recovered": 256684
+        "confirmed": 265200,
+        "deaths": 3343,
+        "recovered": 257441
       },
       "latest": {
-        "confirmed": 270137,
-        "deaths": 3485,
-        "recovered": 264047
+        "confirmed": 270510,
+        "deaths": 3499,
+        "recovered": 264589
       }
     },
     "GHA": {
