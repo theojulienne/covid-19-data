@@ -399,10 +399,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 364151,
+          "confirmed": 364272,
           "date": "2021-02-28",
-          "deaths": 11959,
-          "recovered": 346259
+          "deaths": 11984,
+          "recovered": 347157
         }
       }
     }
@@ -973,10 +973,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 105648,
+      "confirmed": 105973,
       "date": "2021-02-28",
-      "deaths": 1854,
-      "recovered": 86609
+      "deaths": 1856,
+      "recovered": 86678
     }
   },
   "Korea, South": {
@@ -1115,41 +1115,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 121556,
+          "confirmed": 121948,
           "date": "2021-02-28",
-          "deaths": 1809,
+          "deaths": 1810,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 170903,
+          "confirmed": 171603,
           "date": "2021-02-28",
-          "deaths": 2877,
+          "deaths": 2880,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 185330,
+          "confirmed": 186565,
           "date": "2021-02-28",
-          "deaths": 2254,
+          "deaths": 2256,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 86200,
+          "confirmed": 86553,
           "date": "2021-02-28",
-          "deaths": 1131,
+          "deaths": 1132,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 255335,
+          "confirmed": 256288,
           "date": "2021-02-28",
-          "deaths": 3732,
+          "deaths": 3739,
           "recovered": 0
         }
       }
@@ -1253,10 +1253,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 163197,
+      "confirmed": 163664,
       "date": "2021-02-28",
-      "deaths": 257,
-      "recovered": 153219
+      "deaths": 258,
+      "recovered": 153621
     }
   },
   "Romania": {
@@ -1437,10 +1437,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 82890,
+      "confirmed": 83094,
       "date": "2021-02-28",
       "deaths": 464,
-      "recovered": 78373
+      "recovered": 78947
     }
   },
   "Sweden": {
