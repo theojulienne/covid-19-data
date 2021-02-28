@@ -218,7 +218,7 @@
           "confirmed": 180986,
           "date": "2021-02-28",
           "deaths": 3306,
-          "recovered": 168870
+          "recovered": 169343
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 874884,
           "date": "2021-02-28",
           "deaths": 18431,
-          "recovered": 796228
+          "recovered": 799509
         }
       },
       "Para": {
@@ -250,7 +250,7 @@
           "confirmed": 643344,
           "date": "2021-02-28",
           "deaths": 11635,
-          "recovered": 466716
+          "recovered": 467768
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 638996,
           "date": "2021-02-28",
           "deaths": 12343,
-          "recovered": 595442
+          "recovered": 598357
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 113594,
           "date": "2021-02-28",
           "deaths": 1517,
-          "recovered": 101353
+          "recovered": 101612
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 284347,
+      "confirmed": 286155,
       "date": "2021-02-28",
-      "deaths": 15779,
-      "recovered": 238817
+      "deaths": 15811,
+      "recovered": 247898
     }
   },
   "Egypt": {
@@ -1105,10 +1105,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 483410,
+      "confirmed": 483654,
       "date": "2021-02-28",
-      "deaths": 8615,
-      "recovered": 468807
+      "deaths": 8623,
+      "recovered": 469046
     }
   },
   "Nepal": {
@@ -1531,9 +1531,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1037503,
+          "confirmed": 1040981,
           "date": "2021-02-28",
-          "deaths": 13980,
+          "deaths": 14036,
           "recovered": 0
         }
       },
@@ -1611,9 +1611,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1081688,
+          "confirmed": 1085604,
           "date": "2021-02-28",
-          "deaths": 35649,
+          "deaths": 35712,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 228487,
+          "confirmed": 228775,
           "date": "2021-02-28",
-          "deaths": 1093,
+          "deaths": 1096,
           "recovered": 0
         }
       },
