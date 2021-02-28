@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 285959,
+      "confirmed": 287306,
       "date": "2021-02-28",
-      "deaths": 1966,
-      "recovered": 276234
+      "deaths": 1976,
+      "recovered": 277995
     }
   },
   "Belgium": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 210732,
+      "confirmed": 211195,
       "date": "2021-02-28",
-      "deaths": 2358,
-      "recovered": 201848
+      "deaths": 2361,
+      "recovered": 202181
     }
   },
   "Dominican Republic": {
@@ -575,10 +575,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 164439,
+          "confirmed": 164745,
           "date": "2021-02-28",
-          "deaths": 4296,
-          "recovered": 149936
+          "deaths": 4297,
+          "recovered": 149934
         }
       },
       "Nordrhein-Westfalen": {
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 102006,
+          "confirmed": 102260,
           "date": "2021-02-28",
-          "deaths": 3092,
+          "deaths": 3095,
           "recovered": 94075
         }
       },
@@ -1313,10 +1313,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 377061,
+      "confirmed": 377383,
       "date": "2021-02-28",
-      "deaths": 6488,
-      "recovered": 368011
+      "deaths": 6494,
+      "recovered": 368305
     }
   },
   "Serbia": {

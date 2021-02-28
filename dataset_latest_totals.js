@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 275322,
-        "deaths": 1894,
-        "recovered": 264976
+        "confirmed": 276990,
+        "deaths": 1903,
+        "recovered": 266892
       },
       "back_2week": {
-        "confirmed": 265284,
-        "deaths": 1830,
-        "recovered": 254032
+        "confirmed": 267029,
+        "deaths": 1840,
+        "recovered": 255980
       },
       "latest": {
-        "confirmed": 284500,
-        "deaths": 1957,
-        "recovered": 274743
+        "confirmed": 285959,
+        "deaths": 1966,
+        "recovered": 276234
       }
     },
     "BLZ": {
@@ -1110,19 +1110,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 206617,
-        "deaths": 2327,
-        "recovered": 198619
+        "confirmed": 207081,
+        "deaths": 2333,
+        "recovered": 199026
       },
       "back_2week": {
-        "confirmed": 203793,
-        "deaths": 2280,
-        "recovered": 195625
+        "confirmed": 204067,
+        "deaths": 2284,
+        "recovered": 196027
       },
       "latest": {
-        "confirmed": 210212,
-        "deaths": 2353,
-        "recovered": 201531
+        "confirmed": 210732,
+        "deaths": 2358,
+        "recovered": 201848
       },
       "states": {
         "Faroe Islands": {
@@ -2890,19 +2890,19 @@ var covid19_dataset_latest_totals = {
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 374366,
-        "deaths": 6454,
-        "recovered": 365363
+        "confirmed": 374691,
+        "deaths": 6457,
+        "recovered": 365745
       },
       "back_2week": {
-        "confirmed": 372073,
-        "deaths": 6424,
-        "recovered": 362947
+        "confirmed": 372410,
+        "deaths": 6429,
+        "recovered": 363303
       },
       "latest": {
-        "confirmed": 376723,
-        "deaths": 6483,
-        "recovered": 367691
+        "confirmed": 377061,
+        "deaths": 6488,
+        "recovered": 368011
       }
     },
     "SDN": {
