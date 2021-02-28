@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2104197,
+      "confirmed": 2107365,
       "date": "2021-02-28",
-      "deaths": 51946,
-      "recovered": 1899087
+      "deaths": 51965,
+      "recovered": 1905021
     }
   },
   "Armenia": {
@@ -137,7 +137,7 @@
         "live": {
           "confirmed": 131066,
           "date": "2021-02-28",
-          "deaths": 2989,
+          "deaths": 2999,
           "recovered": 125307
         }
       },
@@ -145,7 +145,7 @@
         "live": {
           "confirmed": 83505,
           "date": "2021-02-28",
-          "deaths": 1139,
+          "deaths": 1140,
           "recovered": 60476
         }
       },
@@ -153,7 +153,7 @@
         "live": {
           "confirmed": 315599,
           "date": "2021-02-28",
-          "deaths": 10831,
+          "deaths": 10860,
           "recovered": 269142
         }
       },
@@ -161,7 +161,7 @@
         "live": {
           "confirmed": 680904,
           "date": "2021-02-28",
-          "deaths": 11729,
+          "deaths": 11819,
           "recovered": 648593
         }
       },
@@ -169,7 +169,7 @@
         "live": {
           "confirmed": 422782,
           "date": "2021-02-28",
-          "deaths": 11259,
+          "deaths": 11284,
           "recovered": 312489
         }
       },
@@ -177,7 +177,7 @@
         "live": {
           "confirmed": 295615,
           "date": "2021-02-28",
-          "deaths": 4831,
+          "deaths": 4838,
           "recovered": 283000
         }
       },
@@ -185,7 +185,7 @@
         "live": {
           "confirmed": 325190,
           "date": "2021-02-28",
-          "deaths": 6396,
+          "deaths": 6406,
           "recovered": 307019
         }
       },
@@ -193,7 +193,7 @@
         "live": {
           "confirmed": 395572,
           "date": "2021-02-28",
-          "deaths": 8510,
+          "deaths": 8517,
           "recovered": 378377
         }
       },
@@ -201,7 +201,7 @@
         "live": {
           "confirmed": 219233,
           "date": "2021-02-28",
-          "deaths": 5032,
+          "deaths": 5052,
           "recovered": 204229
         }
       },
@@ -209,7 +209,7 @@
         "live": {
           "confirmed": 248943,
           "date": "2021-02-28",
-          "deaths": 5687,
+          "deaths": 5713,
           "recovered": 234677
         }
       },
@@ -217,7 +217,7 @@
         "live": {
           "confirmed": 180986,
           "date": "2021-02-28",
-          "deaths": 3306,
+          "deaths": 3319,
           "recovered": 169343
         }
       },
@@ -225,7 +225,7 @@
         "live": {
           "confirmed": 874884,
           "date": "2021-02-28",
-          "deaths": 18431,
+          "deaths": 18565,
           "recovered": 799509
         }
       },
@@ -233,7 +233,7 @@
         "live": {
           "confirmed": 363916,
           "date": "2021-02-28",
-          "deaths": 8577,
+          "deaths": 8591,
           "recovered": 341990
         }
       },
@@ -241,7 +241,7 @@
         "live": {
           "confirmed": 219723,
           "date": "2021-02-28",
-          "deaths": 4471,
+          "deaths": 4496,
           "recovered": 157849
         }
       },
@@ -249,7 +249,7 @@
         "live": {
           "confirmed": 643344,
           "date": "2021-02-28",
-          "deaths": 11635,
+          "deaths": 11669,
           "recovered": 467768
         }
       },
@@ -257,7 +257,7 @@
         "live": {
           "confirmed": 298859,
           "date": "2021-02-28",
-          "deaths": 10974,
+          "deaths": 10996,
           "recovered": 257881
         }
       },
@@ -265,7 +265,7 @@
         "live": {
           "confirmed": 173290,
           "date": "2021-02-28",
-          "deaths": 3326,
+          "deaths": 3335,
           "recovered": 169672
         }
       },
@@ -273,7 +273,7 @@
         "live": {
           "confirmed": 165344,
           "date": "2021-02-28",
-          "deaths": 3578,
+          "deaths": 3585,
           "recovered": 123331
         }
       },
@@ -281,7 +281,7 @@
         "live": {
           "confirmed": 638996,
           "date": "2021-02-28",
-          "deaths": 12343,
+          "deaths": 12392,
           "recovered": 598357
         }
       },
@@ -289,7 +289,7 @@
         "live": {
           "confirmed": 582164,
           "date": "2021-02-28",
-          "deaths": 33035,
+          "deaths": 33080,
           "recovered": 545855
         }
       },
@@ -297,7 +297,7 @@
         "live": {
           "confirmed": 147999,
           "date": "2021-02-28",
-          "deaths": 2832,
+          "deaths": 2850,
           "recovered": 129870
         }
       },
@@ -313,7 +313,7 @@
         "live": {
           "confirmed": 668811,
           "date": "2021-02-28",
-          "deaths": 7314,
+          "deaths": 7358,
           "recovered": 626305
         }
       },
@@ -321,7 +321,7 @@
         "live": {
           "confirmed": 2037267,
           "date": "2021-02-28",
-          "deaths": 59428,
+          "deaths": 59493,
           "recovered": 1805549
         }
       },
@@ -329,7 +329,7 @@
         "live": {
           "confirmed": 150533,
           "date": "2021-02-28",
-          "deaths": 2955,
+          "deaths": 2961,
           "recovered": 141391
         }
       },
@@ -337,7 +337,7 @@
         "live": {
           "confirmed": 113594,
           "date": "2021-02-28",
-          "deaths": 1517,
+          "deaths": 1526,
           "recovered": 101612
         }
       }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 305994,
+          "confirmed": 306057,
           "date": "2021-02-28",
           "deaths": 6975,
-          "recovered": 288862
+          "recovered": 288968
         }
       },
       "Quebec": {
@@ -1507,9 +1507,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 619003,
+          "confirmed": 619848,
           "date": "2021-02-28",
-          "deaths": 11323,
+          "deaths": 11333,
           "recovered": 0
         }
       },
