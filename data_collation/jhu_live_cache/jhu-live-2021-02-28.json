@@ -609,10 +609,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 82586,
+      "confirmed": 83212,
       "date": "2021-02-28",
-      "deaths": 594,
-      "recovered": 76573
+      "deaths": 599,
+      "recovered": 77133
     }
   },
   "Greece": {
@@ -641,10 +641,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 424130,
+      "confirmed": 428599,
       "date": "2021-02-28",
-      "deaths": 14902,
-      "recovered": 319691
+      "deaths": 14974,
+      "recovered": 321128
     }
   },
   "India": {
@@ -1240,7 +1240,7 @@
       "confirmed": 1696885,
       "date": "2021-02-28",
       "deaths": 43656,
-      "recovered": 1414461
+      "recovered": 1422829
     }
   },
   "Portugal": {
