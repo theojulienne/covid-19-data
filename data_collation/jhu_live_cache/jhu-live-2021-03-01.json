@@ -739,7 +739,7 @@
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 261403,
+          "confirmed": 261766,
           "date": "2021-03-01",
           "deaths": 3864,
           "recovered": 255117
@@ -755,7 +755,7 @@
       },
       "Odisha": {
         "live": {
-          "confirmed": 337104,
+          "confirmed": 337191,
           "date": "2021-03-01",
           "deaths": 1916,
           "recovered": 334571
@@ -763,7 +763,7 @@
       },
       "Punjab": {
         "live": {
-          "confirmed": 181597,
+          "confirmed": 182176,
           "date": "2021-03-01",
           "deaths": 5832,
           "recovered": 171712
@@ -771,7 +771,7 @@
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 320180,
+          "confirmed": 320336,
           "date": "2021-03-01",
           "deaths": 2787,
           "recovered": 316241
@@ -779,7 +779,7 @@
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 851063,
+          "confirmed": 851542,
           "date": "2021-03-01",
           "deaths": 12496,
           "recovered": 835024
@@ -787,7 +787,7 @@
       },
       "Telangana": {
         "live": {
-          "confirmed": 298807,
+          "confirmed": 298923,
           "date": "2021-03-01",
           "deaths": 1634,
           "recovered": 295387
@@ -795,7 +795,7 @@
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 603427,
+          "confirmed": 603527,
           "date": "2021-03-01",
           "deaths": 8725,
           "recovered": 592699
@@ -811,7 +811,7 @@
       },
       "West Bengal": {
         "live": {
-          "confirmed": 574926,
+          "confirmed": 575118,
           "date": "2021-03-01",
           "deaths": 10268,
           "recovered": 561543
@@ -989,10 +989,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 89676,
+      "confirmed": 90031,
       "date": "2021-03-01",
-      "deaths": 1603,
-      "recovered": 80697
+      "deaths": 1605,
+      "recovered": 81070
     }
   },
   "Kuwait": {
@@ -1005,10 +1005,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 86229,
+      "confirmed": 86251,
       "date": "2021-03-01",
-      "deaths": 1464,
-      "recovered": 83179
+      "deaths": 1466,
+      "recovered": 83210
     }
   },
   "Latvia": {
@@ -1781,10 +1781,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 79886,
+      "confirmed": 79926,
       "date": "2021-03-01",
       "deaths": 622,
-      "recovered": 78442
+      "recovered": 78496
     }
   },
   "Venezuela": {
