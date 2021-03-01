@@ -1123,41 +1123,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 121948,
+          "confirmed": 122255,
           "date": "2021-03-01",
-          "deaths": 1810,
+          "deaths": 1812,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 171603,
+          "confirmed": 172137,
           "date": "2021-03-01",
-          "deaths": 2880,
+          "deaths": 2884,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 186565,
+          "confirmed": 187376,
           "date": "2021-03-01",
-          "deaths": 2256,
+          "deaths": 2258,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 86553,
+          "confirmed": 86855,
           "date": "2021-03-01",
-          "deaths": 1132,
+          "deaths": 1133,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 256288,
+          "confirmed": 257151,
           "date": "2021-03-01",
-          "deaths": 3739,
+          "deaths": 3747,
           "recovered": 0
         }
       }
@@ -1337,9 +1337,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 308083,
+      "confirmed": 308925,
       "date": "2021-03-01",
-      "deaths": 7189,
+      "deaths": 7270,
       "recovered": 255300
     }
   },
