@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 234537,
+      "confirmed": 234662,
       "date": "2021-03-01",
-      "deaths": 3220,
-      "recovered": 228768
+      "deaths": 3223,
+      "recovered": 228839
     }
   },
   "Bahrain": {
@@ -485,10 +485,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 211195,
+      "confirmed": 211692,
       "date": "2021-03-01",
-      "deaths": 2361,
-      "recovered": 202181
+      "deaths": 2365,
+      "recovered": 202517
     }
   },
   "Dominican Republic": {
@@ -837,10 +837,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 695489,
+      "confirmed": 699088,
       "date": "2021-03-01",
-      "deaths": 13406,
-      "recovered": 635931
+      "deaths": 13428,
+      "recovered": 639639
     }
   },
   "Ireland": {
@@ -1321,10 +1321,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 377383,
+      "confirmed": 377700,
       "date": "2021-03-01",
-      "deaths": 6494,
-      "recovered": 368305
+      "deaths": 6500,
+      "recovered": 368640
     }
   },
   "Serbia": {
@@ -1481,9 +1481,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 554932,
+      "confirmed": 557492,
       "date": "2021-03-01",
-      "deaths": 9966,
+      "deaths": 9971,
       "recovered": 317600
     }
   },
@@ -1797,10 +1797,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 183612,
+      "confirmed": 185336,
       "date": "2021-03-01",
-      "deaths": 2042,
-      "recovered": 166936
+      "deaths": 2058,
+      "recovered": 167744
     }
   },
   "Zambia": {
