@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 141916,
+      "confirmed": 141965,
       "date": "2021-03-02",
       "deaths": 3199,
-      "recovered": 131487
+      "recovered": 131534
     }
   },
   "Canada": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 307176,
+          "confirmed": 307468,
           "date": "2021-03-02",
-          "deaths": 6982,
-          "recovered": 289928
+          "deaths": 6990,
+          "recovered": 290285
         }
       },
       "Quebec": {
@@ -1219,9 +1219,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 606712,
+          "confirmed": 615737,
           "date": "2021-03-02",
-          "deaths": 20154,
+          "deaths": 20414,
           "recovered": 0
         }
       }
@@ -1245,10 +1245,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 804956,
+      "confirmed": 805647,
       "date": "2021-03-02",
-      "deaths": 16351,
-      "recovered": 720235
+      "deaths": 16389,
+      "recovered": 723465
     }
   },
   "Qatar": {
@@ -1321,9 +1321,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 462728,
+      "confirmed": 466885,
       "date": "2021-03-02",
-      "deaths": 4459,
+      "deaths": 4475,
       "recovered": 0
     }
   },
@@ -1475,7 +1475,7 @@
     "live": {
       "confirmed": 558622,
       "date": "2021-03-02",
-      "deaths": 9999,
+      "deaths": 10005,
       "recovered": 317600
     }
   },
