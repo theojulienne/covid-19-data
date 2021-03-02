@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 205086,
+      "confirmed": 205514,
       "date": "2021-03-02",
-      "deaths": 2812,
-      "recovered": 181851
+      "deaths": 2820,
+      "recovered": 183911
     }
   },
   "Croatia": {
@@ -1499,17 +1499,17 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 620656,
+          "confirmed": 621320,
           "date": "2021-03-02",
-          "deaths": 11332,
+          "deaths": 11379,
           "recovered": 0
         }
       },
       "California": {
         "live": {
-          "confirmed": 2853353,
+          "confirmed": 2853628,
           "date": "2021-03-02",
-          "deaths": 43114,
+          "deaths": 43122,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 178288,
+          "confirmed": 178902,
           "date": "2021-03-02",
-          "deaths": 2085,
+          "deaths": 2097,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 102122,
+          "confirmed": 102411,
           "date": "2021-03-02",
-          "deaths": 4143,
+          "deaths": 4147,
           "recovered": 0
         }
       },
@@ -1683,9 +1683,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 107112,
+          "confirmed": 107203,
           "date": "2021-03-02",
-          "deaths": 1274,
+          "deaths": 1282,
           "recovered": 0
         }
       }
