@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 172216,
+      "confirmed": 172456,
       "date": "2021-03-02",
-      "deaths": 3195,
-      "recovered": 163511
+      "deaths": 3200,
+      "recovered": 163738
     }
   },
   "Austria": {
@@ -477,10 +477,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1240051,
+      "confirmed": 1252242,
       "date": "2021-03-02",
-      "deaths": 20469,
-      "recovered": 1070622
+      "deaths": 20701,
+      "recovered": 1082617
     }
   },
   "Denmark": {
@@ -533,10 +533,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 270918,
+      "confirmed": 271379,
       "date": "2021-03-02",
-      "deaths": 3520,
-      "recovered": 265523
+      "deaths": 3532,
+      "recovered": 265686
     }
   },
   "Germany": {
@@ -546,7 +546,7 @@
           "confirmed": 317473,
           "date": "2021-03-02",
           "deaths": 8102,
-          "recovered": 296774
+          "recovered": 297619
         }
       },
       "Bayern": {
@@ -554,7 +554,7 @@
           "confirmed": 438074,
           "date": "2021-03-02",
           "deaths": 12431,
-          "recovered": 406841
+          "recovered": 408112
         }
       },
       "Berlin": {
@@ -562,7 +562,7 @@
           "confirmed": 129604,
           "date": "2021-03-02",
           "deaths": 2825,
-          "recovered": 121584
+          "recovered": 121903
         }
       },
       "Hessen": {
@@ -570,7 +570,7 @@
           "confirmed": 188912,
           "date": "2021-03-02",
           "deaths": 5843,
-          "recovered": 173390
+          "recovered": 174109
         }
       },
       "Niedersachsen": {
@@ -578,7 +578,7 @@
           "confirmed": 165339,
           "date": "2021-03-02",
           "deaths": 4326,
-          "recovered": 150672
+          "recovered": 151584
         }
       },
       "Nordrhein-Westfalen": {
@@ -586,7 +586,7 @@
           "confirmed": 533871,
           "date": "2021-03-02",
           "deaths": 13141,
-          "recovered": 493315
+          "recovered": 494975
         }
       },
       "Rheinland-Pfalz": {
@@ -594,7 +594,7 @@
           "confirmed": 102444,
           "date": "2021-03-02",
           "deaths": 3111,
-          "recovered": 94608
+          "recovered": 94885
         }
       },
       "Sachsen": {
@@ -947,7 +947,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 111027,
+          "confirmed": 111259,
           "date": "2021-03-02",
           "deaths": 1392,
           "recovered": 106926
@@ -1507,9 +1507,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2852774,
+          "confirmed": 2853294,
           "date": "2021-03-02",
-          "deaths": 43056,
+          "deaths": 43102,
           "recovered": 0
         }
       },
@@ -1695,34 +1695,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 83884,
+          "confirmed": 84203,
           "date": "2021-03-02",
-          "deaths": 1590,
-          "recovered": 76929
+          "deaths": 1600,
+          "recovered": 77016
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 138020,
+          "confirmed": 138483,
           "date": "2021-03-02",
-          "deaths": 2662,
-          "recovered": 93850
+          "deaths": 2672,
+          "recovered": 94596
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 79233,
+          "confirmed": 79582,
           "date": "2021-03-02",
-          "deaths": 2279,
-          "recovered": 69386
+          "deaths": 2293,
+          "recovered": 69673
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 86099,
+          "confirmed": 86418,
           "date": "2021-03-02",
-          "deaths": 1429,
-          "recovered": 79144
+          "deaths": 1440,
+          "recovered": 79421
         }
       }
     }
