@@ -950,7 +950,7 @@
           "confirmed": 111259,
           "date": "2021-03-02",
           "deaths": 1392,
-          "recovered": 106926
+          "recovered": 107311
         }
       }
     }
@@ -1029,10 +1029,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 199398,
+      "confirmed": 199825,
       "date": "2021-03-02",
-      "deaths": 3253,
-      "recovered": 184848
+      "deaths": 3263,
+      "recovered": 185770
     }
   },
   "Malaysia": {
@@ -1173,10 +1173,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 141808,
+      "confirmed": 142169,
       "date": "2021-03-02",
-      "deaths": 1577,
-      "recovered": 132685
+      "deaths": 1580,
+      "recovered": 132945
     }
   },
   "Pakistan": {
@@ -1240,7 +1240,7 @@
       "confirmed": 1711772,
       "date": "2021-03-02",
       "deaths": 43793,
-      "recovered": 1430861
+      "recovered": 1438032
     }
   },
   "Portugal": {
