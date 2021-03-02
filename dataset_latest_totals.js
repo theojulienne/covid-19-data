@@ -1319,8 +1319,8 @@ var covid19_dataset_latest_totals = {
         "recovered": 213405
       },
       "latest": {
-        "confirmed": 3664050,
-        "deaths": 85141,
+        "confirmed": 3712474,
+        "deaths": 85858,
         "recovered": 228299
       },
       "states": {

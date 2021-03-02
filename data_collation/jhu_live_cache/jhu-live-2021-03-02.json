@@ -1345,10 +1345,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1513393,
+      "confirmed": 1513959,
       "date": "2021-03-02",
-      "deaths": 49993,
-      "recovered": 1430259
+      "deaths": 50077,
+      "recovered": 1431336
     }
   },
   "Spain": {
@@ -1507,7 +1507,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2851672,
+          "confirmed": 2851806,
           "date": "2021-03-02",
           "deaths": 43020,
           "recovered": 0
@@ -1781,10 +1781,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 139116,
+      "confirmed": 139545,
       "date": "2021-03-02",
-      "deaths": 1344,
-      "recovered": 130834
+      "deaths": 1348,
+      "recovered": 131647
     }
   },
   "West Bank and Gaza": {
