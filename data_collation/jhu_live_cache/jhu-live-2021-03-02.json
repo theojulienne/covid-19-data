@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 107931,
+      "confirmed": 108823,
       "date": "2021-03-02",
-      "deaths": 1816,
-      "recovered": 70413
+      "deaths": 1835,
+      "recovered": 71173
     }
   },
   "Algeria": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 307468,
+          "confirmed": 307550,
           "date": "2021-03-02",
-          "deaths": 6990,
-          "recovered": 290285
+          "deaths": 6991,
+          "recovered": 290373
         }
       },
       "Quebec": {
@@ -543,9 +543,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 317473,
+          "confirmed": 318506,
           "date": "2021-03-02",
-          "deaths": 8102,
+          "deaths": 8151,
           "recovered": 297619
         }
       },
@@ -847,7 +847,7 @@
     "live": {
       "confirmed": 220273,
       "date": "2021-03-02",
-      "deaths": 4319,
+      "deaths": 4333,
       "recovered": 23364
     }
   },
@@ -1021,10 +1021,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 376938,
+      "confirmed": 380036,
       "date": "2021-03-02",
-      "deaths": 4743,
-      "recovered": 294270
+      "deaths": 4805,
+      "recovered": 296237
     }
   },
   "Libya": {
@@ -1105,10 +1105,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 483766,
+      "confirmed": 484159,
       "date": "2021-03-02",
-      "deaths": 8637,
-      "recovered": 469345
+      "deaths": 8645,
+      "recovered": 469868
     }
   },
   "Nepal": {
@@ -1497,7 +1497,7 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 2711479,
+      "confirmed": 2723316,
       "date": "2021-03-02",
       "deaths": 28706,
       "recovered": 2586073
@@ -1547,9 +1547,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 474885,
+          "confirmed": 475386,
           "date": "2021-03-02",
-          "deaths": 9369,
+          "deaths": 9400,
           "recovered": 0
         }
       },
@@ -1579,9 +1579,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 100680,
+          "confirmed": 100764,
           "date": "2021-03-02",
-          "deaths": 1585,
+          "deaths": 1586,
           "recovered": 0
         }
       },
