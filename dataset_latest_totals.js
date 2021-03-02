@@ -3420,19 +3420,19 @@ var covid19_dataset_latest_totals = {
         "confirmed": 27770758,
         "deaths": 487011,
         "recovered": 10364309,
-        "tested": 146939111
+        "tested": 140907293
       },
       "back_2week": {
         "confirmed": 27321534,
         "deaths": 473752,
         "recovered": 10035626,
-        "tested": 144096901
+        "tested": 138127705
       },
       "latest": {
         "confirmed": 28240367,
         "deaths": 501053,
         "recovered": 10670516,
-        "tested": 150317033
+        "tested": 144185338
       },
       "states": {
         "AK": {
@@ -3711,7 +3711,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 11411,
           "hospitalized": 18605,
           "recovered": 749863,
-          "tested": 6906699
+          "tested": 775004
         },
         "TX": {
           "confirmed": 2644024,
