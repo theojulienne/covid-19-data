@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 308651,
+          "confirmed": 308689,
           "date": "2021-03-03",
-          "deaths": 7004,
-          "recovered": 291596
+          "deaths": 7006,
+          "recovered": 291634
         }
       },
       "Quebec": {
@@ -845,7 +845,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 220630,
+      "confirmed": 221189,
       "date": "2021-03-03",
       "deaths": 4357,
       "recovered": 23364
@@ -1021,10 +1021,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 380036,
+      "confirmed": 383499,
       "date": "2021-03-03",
-      "deaths": 4805,
-      "recovered": 296237
+      "deaths": 4866,
+      "recovered": 298406
     }
   },
   "Libya": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2856932,
+          "confirmed": 2779083,
           "date": "2021-03-03",
-          "deaths": 43366,
+          "deaths": 42508,
           "recovered": 0
         }
       },
@@ -1531,9 +1531,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1046077,
+          "confirmed": 1049728,
           "date": "2021-03-03",
-          "deaths": 14181,
+          "deaths": 14229,
           "recovered": 0
         }
       },
@@ -1595,25 +1595,25 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 227107,
+          "confirmed": 227455,
           "date": "2021-03-03",
-          "deaths": 3871,
+          "deaths": 3887,
           "recovered": 0
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 78445,
+          "confirmed": 78951,
           "date": "2021-03-03",
-          "deaths": 2621,
+          "deaths": 2627,
           "recovered": 0
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1095481,
+          "confirmed": 1098450,
           "date": "2021-03-03",
-          "deaths": 35888,
+          "deaths": 35976,
           "recovered": 0
         }
       },
@@ -1643,9 +1643,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 118906,
+          "confirmed": 119245,
           "date": "2021-03-03",
-          "deaths": 3127,
+          "deaths": 3132,
           "recovered": 0
         }
       },
@@ -1667,9 +1667,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1283036,
+          "confirmed": 1361201,
           "date": "2021-03-03",
-          "deaths": 17479,
+          "deaths": 20134,
           "recovered": 0
         }
       },
