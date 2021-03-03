@@ -950,7 +950,7 @@
           "confirmed": 111575,
           "date": "2021-03-03",
           "deaths": 1397,
-          "recovered": 107311
+          "recovered": 107546
         }
       }
     }
@@ -1240,7 +1240,7 @@
       "confirmed": 1719708,
       "date": "2021-03-03",
       "deaths": 44008,
-      "recovered": 1438032
+      "recovered": 1441479
     }
   },
   "Portugal": {
