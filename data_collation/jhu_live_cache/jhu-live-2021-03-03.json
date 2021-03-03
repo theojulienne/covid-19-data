@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2118676,
+      "confirmed": 2126531,
       "date": "2021-03-03",
-      "deaths": 52192,
-      "recovered": 1916936
+      "deaths": 52453,
+      "recovered": 1921589
     }
   },
   "Armenia": {
@@ -170,7 +170,7 @@
           "confirmed": 430184,
           "date": "2021-03-03",
           "deaths": 11348,
-          "recovered": 316526
+          "recovered": 317465
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 299399,
           "date": "2021-03-03",
           "deaths": 4887,
-          "recovered": 284604
+          "recovered": 285388
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 328490,
           "date": "2021-03-03",
           "deaths": 6457,
-          "recovered": 310464
+          "recovered": 311415
         }
       },
       "Goias": {
@@ -242,7 +242,7 @@
           "confirmed": 223169,
           "date": "2021-03-03",
           "deaths": 4558,
-          "recovered": 164611
+          "recovered": 164712
         }
       },
       "Parana": {
@@ -379,7 +379,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 308960,
+          "confirmed": 308962,
           "date": "2021-03-03",
           "deaths": 7011,
           "recovered": 291988
@@ -625,10 +625,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 175411,
+      "confirmed": 176250,
       "date": "2021-03-03",
-      "deaths": 6412,
-      "recovered": 162481
+      "deaths": 6427,
+      "recovered": 163009
     }
   },
   "Honduras": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2779234,
+          "confirmed": 2779407,
           "date": "2021-03-03",
-          "deaths": 42508,
+          "deaths": 42528,
           "recovered": 0
         }
       },
@@ -1661,7 +1661,7 @@
         "live": {
           "confirmed": 168872,
           "date": "2021-03-03",
-          "deaths": 2361,
+          "deaths": 2372,
           "recovered": 0
         }
       },

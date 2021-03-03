@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 2069751,
-        "deaths": 51359,
-        "recovered": 1872213
+        "confirmed": 2077228,
+        "deaths": 51510,
+        "recovered": 1877898
       },
       "back_2week": {
-        "confirmed": 2029057,
-        "deaths": 50327,
-        "recovered": 1833442
+        "confirmed": 2033060,
+        "deaths": 50432,
+        "recovered": 1838291
       },
       "latest": {
-        "confirmed": 2112023,
-        "deaths": 52077,
-        "recovered": 1911338
+        "confirmed": 2118676,
+        "deaths": 52192,
+        "recovered": 1916936
       }
     },
     "ARM": {
@@ -1627,19 +1627,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 171289,
-        "deaths": 6306,
-        "recovered": 158501
+        "confirmed": 172072,
+        "deaths": 6315,
+        "recovered": 159206
       },
       "back_2week": {
-        "confirmed": 167383,
-        "deaths": 6150,
-        "recovered": 154446
+        "confirmed": 168103,
+        "deaths": 6158,
+        "recovered": 155211
       },
       "latest": {
-        "confirmed": 174653,
-        "deaths": 6402,
-        "recovered": 161816
+        "confirmed": 175411,
+        "deaths": 6412,
+        "recovered": 162481
       }
     },
     "GUY": {
@@ -3420,19 +3420,19 @@ var covid19_dataset_latest_totals = {
         "confirmed": 27823104,
         "deaths": 488242,
         "recovered": 10393380,
-        "tested": 141246879
+        "tested": 132022292
       },
       "back_2week": {
         "confirmed": 27376361,
         "deaths": 474829,
         "recovered": 10079642,
-        "tested": 138475577
+        "tested": 129540874
       },
       "latest": {
         "confirmed": 28288171,
         "deaths": 502293,
         "recovered": 10699584,
-        "tested": 144545911
+        "tested": 135006835
       },
       "states": {
         "AK": {
@@ -3611,7 +3611,7 @@ var covid19_dataset_latest_totals = {
         "NC": {
           "confirmed": 862170,
           "deaths": 11254,
-          "tested": 10401246
+          "tested": 862170
         },
         "ND": {
           "confirmed": 99852,
