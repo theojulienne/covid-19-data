@@ -1029,10 +1029,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 135585,
+      "confirmed": 136587,
       "date": "2021-03-04",
-      "deaths": 2219,
-      "recovered": 123003
+      "deaths": 2233,
+      "recovered": 123777
     }
   },
   "Lithuania": {
@@ -1248,7 +1248,7 @@
       "confirmed": 1735406,
       "date": "2021-03-04",
       "deaths": 44360,
-      "recovered": 1441479
+      "recovered": 1448619
     }
   },
   "Portugal": {
