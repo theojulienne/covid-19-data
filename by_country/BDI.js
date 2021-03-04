@@ -817,7 +817,8 @@ var covid19_dataset_country_bdi = {
       2181,
       2209,
       2217,
-      2224
+      2224,
+      2240
     ],
     "deaths": [
       0,
@@ -1225,6 +1226,7 @@ var covid19_dataset_country_bdi = {
       3,
       3,
       3,
+      3,
       3
     ],
     "recovered": [
@@ -1578,6 +1580,7 @@ var covid19_dataset_country_bdi = {
       687,
       687,
       687,
+      773,
       773,
       773,
       773,
