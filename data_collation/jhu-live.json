@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 290447,
+      "confirmed": 291621,
       "date": "2021-03-04",
-      "deaths": 2002,
-      "recovered": 280766
+      "deaths": 2011,
+      "recovered": 282039
     }
   },
   "Belgium": {
@@ -575,9 +575,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 166951,
+          "confirmed": 167427,
           "date": "2021-03-04",
-          "deaths": 4391,
+          "deaths": 4404,
           "recovered": 153364
         }
       },
@@ -1261,18 +1261,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 165071,
+      "confirmed": 165546,
       "date": "2021-03-04",
       "deaths": 260,
-      "recovered": 154752
+      "recovered": 155070
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 812318,
+      "confirmed": 816589,
       "date": "2021-03-04",
-      "deaths": 20586,
-      "recovered": 746779
+      "deaths": 20684,
+      "recovered": 749673
     }
   },
   "Russia": {
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1364451,
+          "confirmed": 1364754,
           "date": "2021-03-04",
           "deaths": 20250,
           "recovered": 0
@@ -1797,10 +1797,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 189326,
+      "confirmed": 191203,
       "date": "2021-03-04",
-      "deaths": 2078,
-      "recovered": 169915
+      "deaths": 2091,
+      "recovered": 171318
     }
   },
   "Zambia": {
