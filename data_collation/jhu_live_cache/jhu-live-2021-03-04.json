@@ -390,7 +390,7 @@
           "confirmed": 289670,
           "date": "2021-03-04",
           "deaths": 10426,
-          "recovered": 271156
+          "recovered": 271908
         }
       }
     }
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 205514,
+      "confirmed": 205890,
       "date": "2021-03-04",
-      "deaths": 2820,
-      "recovered": 183911
+      "deaths": 2824,
+      "recovered": 185045
     }
   },
   "Croatia": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2779597,
+          "confirmed": 2779762,
           "date": "2021-03-04",
-          "deaths": 42542,
+          "deaths": 42543,
           "recovered": 0
         }
       },
@@ -1683,9 +1683,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 84326,
+          "confirmed": 84488,
           "date": "2021-03-04",
-          "deaths": 1397,
+          "deaths": 1406,
           "recovered": 0
         }
       },
