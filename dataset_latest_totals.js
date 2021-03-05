@@ -1950,7 +1950,7 @@ var covid19_dataset_latest_totals = {
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 86025,
+        "confirmed": 86091,
         "deaths": 1460,
         "recovered": 82938
       },
@@ -3770,12 +3770,12 @@ var covid19_dataset_latest_totals = {
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 79749,
+        "confirmed": 79773,
         "deaths": 622,
         "recovered": 78252
       },
       "back_2week": {
-        "confirmed": 79497,
+        "confirmed": 79548,
         "deaths": 622,
         "recovered": 77993
       },
