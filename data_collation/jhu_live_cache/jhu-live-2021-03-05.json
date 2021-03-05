@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 310165,
+          "confirmed": 310666,
           "date": "2021-03-05",
-          "deaths": 7024,
-          "recovered": 293154
+          "deaths": 7035,
+          "recovered": 293591
         }
       },
       "Quebec": {
@@ -1253,10 +1253,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 807456,
+      "confirmed": 808405,
       "date": "2021-03-05",
-      "deaths": 16458,
-      "recovered": 727053
+      "deaths": 16486,
+      "recovered": 728659
     }
   },
   "Qatar": {
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 474807,
+      "confirmed": 478878,
       "date": "2021-03-05",
-      "deaths": 4508,
+      "deaths": 4525,
       "recovered": 0
     }
   },
