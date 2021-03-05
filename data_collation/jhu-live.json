@@ -210,7 +210,7 @@
           "confirmed": 256092,
           "date": "2021-03-05",
           "deaths": 5840,
-          "recovered": 239338
+          "recovered": 242204
         }
       },
       "Mato Grosso do Sul": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 310915,
+          "confirmed": 311013,
           "date": "2021-03-05",
-          "deaths": 7035,
-          "recovered": 293907
+          "deaths": 7036,
+          "recovered": 294011
         }
       },
       "Quebec": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 206293,
+      "confirmed": 206640,
       "date": "2021-03-05",
-      "deaths": 2829,
-      "recovered": 186093
+      "deaths": 2833,
+      "recovered": 187484
     }
   },
   "Croatia": {
@@ -1611,9 +1611,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1109181,
+          "confirmed": 1111198,
           "date": "2021-03-05",
-          "deaths": 36153,
+          "deaths": 36172,
           "recovered": 0
         }
       },
@@ -1659,9 +1659,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 169427,
+          "confirmed": 169733,
           "date": "2021-03-05",
-          "deaths": 2380,
+          "deaths": 2386,
           "recovered": 0
         }
       },
