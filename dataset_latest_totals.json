@@ -1309,19 +1309,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 3639501,
-        "deaths": 84884,
-        "recovered": 226881
+        "confirmed": 3664050,
+        "deaths": 85141,
+        "recovered": 228299
       },
       "back_2week": {
-        "confirmed": 3495775,
-        "deaths": 82705,
-        "recovered": 219862
+        "confirmed": 3517177,
+        "deaths": 82975,
+        "recovered": 221252
       },
       "latest": {
-        "confirmed": 3785326,
-        "deaths": 87079,
-        "recovered": 234034
+        "confirmed": 3810605,
+        "deaths": 87372,
+        "recovered": 235435
       },
       "states": {
         "French Guiana": {
@@ -1764,17 +1764,17 @@
     "IRL": {
       "back_1week": {
         "confirmed": 216840,
-        "deaths": 4237,
+        "deaths": 4271,
         "recovered": 23364
       },
       "back_2week": {
         "confirmed": 211751,
-        "deaths": 4036,
+        "deaths": 4082,
         "recovered": 23364
       },
       "latest": {
         "confirmed": 221189,
-        "deaths": 4357,
+        "deaths": 4396,
         "recovered": 23364
       }
     },
@@ -2205,19 +2205,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 482128,
-        "deaths": 8592,
-        "recovered": 466815
+        "confirmed": 482514,
+        "deaths": 8598,
+        "recovered": 467541
       },
       "back_2week": {
-        "confirmed": 479579,
-        "deaths": 8517,
-        "recovered": 461466
+        "confirmed": 480056,
+        "deaths": 8524,
+        "recovered": 462436
       },
       "latest": {
-        "confirmed": 484753,
-        "deaths": 8653,
-        "recovered": 470425
+        "confirmed": 485147,
+        "deaths": 8669,
+        "recovered": 470933
       }
     },
     "MCO": {
@@ -3315,17 +3315,17 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 2665194,
+        "confirmed": 2674766,
         "deaths": 28358,
         "recovered": 2546503
       },
       "back_2week": {
-        "confirmed": 2609359,
+        "confirmed": 2616600,
         "deaths": 27821,
         "recovered": 2504050
       },
       "latest": {
-        "confirmed": 2734836,
+        "confirmed": 2746158,
         "deaths": 28839,
         "recovered": 2601137
       }
