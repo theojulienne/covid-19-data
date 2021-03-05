@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2782720,
+          "confirmed": 2782925,
           "date": "2021-03-05",
-          "deaths": 42852,
+          "deaths": 42874,
           "recovered": 0
         }
       },
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1367310,
+          "confirmed": 1368091,
           "date": "2021-03-05",
           "deaths": 20407,
           "recovered": 0
@@ -1683,9 +1683,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 84488,
+          "confirmed": 84714,
           "date": "2021-03-05",
-          "deaths": 1406,
+          "deaths": 1413,
           "recovered": 0
         }
       },
