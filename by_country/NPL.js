@@ -1230,7 +1230,8 @@ var covid19_dataset_country_npl = {
       2777,
       2777,
       2778,
-      2778
+      2778,
+      3010
     ],
     "recovered": [
       0,
