@@ -641,10 +641,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 172577,
+      "confirmed": 173020,
       "date": "2021-03-06",
-      "deaths": 4231,
-      "recovered": 67630
+      "deaths": 4247,
+      "recovered": 67900
     }
   },
   "Hungary": {
@@ -1013,10 +1013,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 86451,
+      "confirmed": 86506,
       "date": "2021-03-06",
-      "deaths": 1470,
-      "recovered": 83424
+      "deaths": 1471,
+      "recovered": 83484
     }
   },
   "Latvia": {
@@ -1515,9 +1515,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2789166,
+          "confirmed": 2789983,
           "date": "2021-03-06",
-          "deaths": 43355,
+          "deaths": 43390,
           "recovered": 0
         }
       },
@@ -1563,9 +1563,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 275785,
+          "confirmed": 276540,
           "date": "2021-03-06",
-          "deaths": 7367,
+          "deaths": 7374,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 229592,
+          "confirmed": 230245,
           "date": "2021-03-06",
-          "deaths": 1108,
+          "deaths": 1117,
           "recovered": 0
         }
       },
@@ -1781,10 +1781,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 80081,
+      "confirmed": 80125,
       "date": "2021-03-06",
       "deaths": 622,
-      "recovered": 78722
+      "recovered": 78802
     }
   },
   "Venezuela": {
