@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 549184,
+      "confirmed": 549724,
       "date": "2021-03-06",
-      "deaths": 8441,
-      "recovered": 501144
+      "deaths": 8451,
+      "recovered": 501966
     }
   },
   "Belarus": {
@@ -575,10 +575,10 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 168812,
+          "confirmed": 169245,
           "date": "2021-03-06",
-          "deaths": 4437,
-          "recovered": 154995
+          "deaths": 4443,
+          "recovered": 154990
         }
       },
       "Nordrhein-Westfalen": {
@@ -591,9 +591,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 103881,
+          "confirmed": 104023,
           "date": "2021-03-06",
-          "deaths": 3160,
+          "deaths": 3161,
           "recovered": 96234
         }
       },
@@ -1277,10 +1277,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 820931,
+      "confirmed": 824995,
       "date": "2021-03-06",
-      "deaths": 20785,
-      "recovered": 752234
+      "deaths": 20854,
+      "recovered": 754335
     }
   },
   "Russia": {
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1371262,
+          "confirmed": 1371377,
           "date": "2021-03-06",
           "deaths": 20571,
           "recovered": 0
@@ -1805,10 +1805,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 81341,
+      "confirmed": 82011,
       "date": "2021-03-06",
-      "deaths": 1113,
-      "recovered": 77081
+      "deaths": 1116,
+      "recovered": 77609
     }
   }
 }
