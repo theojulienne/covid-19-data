@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 311013,
+          "confirmed": 311328,
           "date": "2021-03-06",
           "deaths": 7036,
-          "recovered": 294011
+          "recovered": 294382
         }
       },
       "Quebec": {
@@ -399,10 +399,10 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 370427,
+          "confirmed": 371757,
           "date": "2021-03-06",
-          "deaths": 12098,
-          "recovered": 351113
+          "deaths": 12122,
+          "recovered": 352244
         }
       }
     }
@@ -493,10 +493,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 242087,
+      "confirmed": 242660,
       "date": "2021-03-06",
-      "deaths": 3150,
-      "recovered": 195594
+      "deaths": 3162,
+      "recovered": 196484
     }
   },
   "Ecuador": {
@@ -973,10 +973,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 417934,
+      "confirmed": 421415,
       "date": "2021-03-06",
-      "deaths": 4862,
-      "recovered": 358848
+      "deaths": 4900,
+      "recovered": 362765
     }
   },
   "Kazakhstan": {
@@ -1329,9 +1329,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 478878,
+      "confirmed": 482397,
       "date": "2021-03-06",
-      "deaths": 4525,
+      "deaths": 4542,
       "recovered": 0
     }
   },
