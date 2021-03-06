@@ -146,7 +146,7 @@
           "confirmed": 85065,
           "date": "2021-03-06",
           "deaths": 1156,
-          "recovered": 63071
+          "recovered": 64242
         }
       },
       "Amazonas": {
@@ -202,7 +202,7 @@
           "confirmed": 222481,
           "date": "2021-03-06",
           "deaths": 5201,
-          "recovered": 206320
+          "recovered": 206696
         }
       },
       "Mato Grosso": {
@@ -226,7 +226,7 @@
           "confirmed": 908869,
           "date": "2021-03-06",
           "deaths": 19204,
-          "recovered": 826955
+          "recovered": 832599
         }
       },
       "Para": {
@@ -242,7 +242,7 @@
           "confirmed": 226536,
           "date": "2021-03-06",
           "deaths": 4632,
-          "recovered": 164712
+          "recovered": 165016
         }
       },
       "Parana": {
@@ -274,7 +274,7 @@
           "confirmed": 171943,
           "date": "2021-03-06",
           "deaths": 3709,
-          "recovered": 123516
+          "recovered": 127103
         }
       },
       "Rio Grande do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 676576,
           "date": "2021-03-06",
           "deaths": 13188,
-          "recovered": 623181
+          "recovered": 628419
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 155471,
           "date": "2021-03-06",
           "deaths": 3040,
-          "recovered": 135593
+          "recovered": 136752
         }
       },
       "Roraima": {
@@ -322,7 +322,7 @@
           "confirmed": 2093924,
           "date": "2021-03-06",
           "deaths": 61064,
-          "recovered": 1852904
+          "recovered": 1854850
         }
       },
       "Sergipe": {
@@ -330,7 +330,7 @@
           "confirmed": 154031,
           "date": "2021-03-06",
           "deaths": 3003,
-          "recovered": 144160
+          "recovered": 144322
         }
       },
       "Tocantins": {
@@ -1005,10 +1005,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 198110,
+      "confirmed": 199428,
       "date": "2021-03-06",
-      "deaths": 1113,
-      "recovered": 184239
+      "deaths": 1120,
+      "recovered": 185231
     }
   },
   "Kyrgyzstan": {
@@ -1361,10 +1361,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1518979,
+      "confirmed": 1520206,
       "date": "2021-03-06",
-      "deaths": 50566,
-      "recovered": 1437050
+      "deaths": 50647,
+      "recovered": 1439515
     }
   },
   "Spain": {
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2790252,
+          "confirmed": 2790822,
           "date": "2021-03-06",
-          "deaths": 43411,
+          "deaths": 43531,
           "recovered": 0
         }
       },
@@ -1539,17 +1539,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1056897,
+          "confirmed": 1059537,
           "date": "2021-03-06",
-          "deaths": 14321,
+          "deaths": 14370,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 180436,
+          "confirmed": 180908,
           "date": "2021-03-06",
-          "deaths": 2142,
+          "deaths": 2152,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 209467,
+          "confirmed": 209811,
           "date": "2021-03-06",
           "deaths": 3132,
           "recovered": 0
@@ -1675,9 +1675,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1292607,
+          "confirmed": 1292752,
           "date": "2021-03-06",
-          "deaths": 17892,
+          "deaths": 17989,
           "recovered": 0
         }
       },
@@ -1699,7 +1699,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 107555,
+          "confirmed": 107631,
           "date": "2021-03-06",
           "deaths": 1284,
           "recovered": 0
