@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 113761,
+      "confirmed": 113948,
       "date": "2021-03-06",
-      "deaths": 3002,
-      "recovered": 78672
+      "deaths": 3007,
+      "recovered": 78824
     }
   },
   "Argentina": {
@@ -981,10 +981,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 107329,
+      "confirmed": 107729,
       "date": "2021-03-06",
-      "deaths": 1870,
-      "recovered": 87099
+      "deaths": 1873,
+      "recovered": 87176
     }
   },
   "Korea, South": {
@@ -1217,10 +1217,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 343281,
+      "confirmed": 343743,
       "date": "2021-03-06",
-      "deaths": 5895,
-      "recovered": 329709
+      "deaths": 5907,
+      "recovered": 330474
     }
   },
   "Paraguay": {
@@ -1667,7 +1667,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1370517,
+          "confirmed": 1370975,
           "date": "2021-03-06",
           "deaths": 20571,
           "recovered": 0
