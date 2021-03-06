@@ -821,6 +821,7 @@ var covid19_dataset_country_twn = {
       955,
       955,
       958,
+      960,
       960
     ],
     "deaths": [
@@ -1203,6 +1204,7 @@ var covid19_dataset_country_twn = {
       8,
       8,
       8,
+      9,
       9,
       9,
       9,
@@ -1641,6 +1643,7 @@ var covid19_dataset_country_twn = {
       919,
       919,
       926,
+      928,
       928
     ]
   }
