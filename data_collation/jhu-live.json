@@ -162,7 +162,7 @@
           "confirmed": 706375,
           "date": "2021-03-06",
           "deaths": 12353,
-          "recovered": 671789
+          "recovered": 676536
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 676576,
           "date": "2021-03-06",
           "deaths": 13188,
-          "recovered": 628419
+          "recovered": 630229
         }
       },
       "Rio de Janeiro": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 311663,
+          "confirmed": 312318,
           "date": "2021-03-06",
-          "deaths": 7037,
-          "recovered": 294745
+          "deaths": 7049,
+          "recovered": 295459
         }
       },
       "Quebec": {
@@ -501,9 +501,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 291070,
+      "confirmed": 292943,
       "date": "2021-03-06",
-      "deaths": 15997,
+      "deaths": 16020,
       "recovered": 247898
     }
   },
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2790822,
+          "confirmed": 2790862,
           "date": "2021-03-06",
-          "deaths": 43531,
+          "deaths": 43535,
           "recovered": 0
         }
       },
