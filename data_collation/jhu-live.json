@@ -517,10 +517,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 164073,
+      "confirmed": 165029,
       "date": "2021-03-06",
-      "deaths": 2404,
-      "recovered": 137431
+      "deaths": 2420,
+      "recovered": 137785
     }
   },
   "France": {
@@ -633,10 +633,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 177716,
+      "confirmed": 178337,
       "date": "2021-03-06",
-      "deaths": 6455,
-      "recovered": 164067
+      "deaths": 6467,
+      "recovered": 164564
     }
   },
   "Honduras": {
@@ -861,10 +861,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 796465,
+      "confirmed": 799727,
       "date": "2021-03-06",
-      "deaths": 5834,
-      "recovered": 750435
+      "deaths": 5856,
+      "recovered": 753081
     }
   },
   "Italy": {
@@ -1243,9 +1243,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 622045,
+          "confirmed": 629128,
           "date": "2021-03-06",
-          "deaths": 20593,
+          "deaths": 20770,
           "recovered": 0
         }
       }
@@ -1515,9 +1515,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 624419,
+          "confirmed": 625556,
           "date": "2021-03-06",
-          "deaths": 11540,
+          "deaths": 11575,
           "recovered": 0
         }
       },
@@ -1595,7 +1595,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 89030,
+          "confirmed": 89278,
           "date": "2021-03-06",
           "deaths": 2019,
           "recovered": 0
