@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 347316,
+          "confirmed": 347819,
           "date": "2021-03-07",
-          "deaths": 6599,
-          "recovered": 335685
+          "deaths": 6615,
+          "recovered": 336128
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 124867,
+          "confirmed": 125236,
           "date": "2021-03-07",
-          "deaths": 4055,
-          "recovered": 118751
+          "deaths": 4060,
+          "recovered": 119090
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 661916,
+          "confirmed": 662729,
           "date": "2021-03-07",
-          "deaths": 13936,
-          "recovered": 635448
+          "deaths": 13962,
+          "recovered": 636482
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 106618,
+          "confirmed": 106799,
           "date": "2021-03-07",
-          "deaths": 2912,
-          "recovered": 101695
+          "deaths": 2917,
+          "recovered": 101970
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 91733,
+          "confirmed": 91850,
           "date": "2021-03-07",
-          "deaths": 3359,
-          "recovered": 86418
+          "deaths": 3371,
+          "recovered": 86533
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 197188,
+          "confirmed": 197614,
           "date": "2021-03-07",
-          "deaths": 6247,
-          "recovered": 186755
+          "deaths": 6259,
+          "recovered": 187023
         }
       }
     }
@@ -837,10 +837,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1681682,
+      "confirmed": 1689692,
       "date": "2021-03-07",
-      "deaths": 60594,
-      "recovered": 1435357
+      "deaths": 60687,
+      "recovered": 1442198
     }
   },
   "Iraq": {
@@ -1021,9 +1021,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 90009,
+      "confirmed": 90331,
       "date": "2021-03-07",
-      "deaths": 1687,
+      "deaths": 1695,
       "recovered": 78507
     }
   },
@@ -1129,10 +1129,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 274655,
+      "confirmed": 274721,
       "date": "2021-03-07",
       "deaths": 3010,
-      "recovered": 270828
+      "recovered": 270886
     }
   },
   "Netherlands": {
@@ -1277,10 +1277,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 166475,
+      "confirmed": 166949,
       "date": "2021-03-07",
       "deaths": 262,
-      "recovered": 155700
+      "recovered": 156001
     }
   },
   "Romania": {
@@ -1745,10 +1745,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 408236,
+      "confirmed": 410849,
       "date": "2021-03-07",
-      "deaths": 1310,
-      "recovered": 391205
+      "deaths": 1322,
+      "recovered": 392792
     }
   },
   "United Kingdom": {
