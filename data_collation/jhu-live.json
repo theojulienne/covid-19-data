@@ -633,10 +633,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 178337,
+      "confirmed": 178560,
       "date": "2021-03-07",
-      "deaths": 6467,
-      "recovered": 164564
+      "deaths": 6473,
+      "recovered": 164940
     }
   },
   "Honduras": {
@@ -1361,10 +1361,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1520206,
+      "confirmed": 1521068,
       "date": "2021-03-07",
-      "deaths": 50647,
-      "recovered": 1439515
+      "deaths": 50678,
+      "recovered": 1440874
     }
   },
   "Spain": {
@@ -1523,7 +1523,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2793410,
+          "confirmed": 2793797,
           "date": "2021-03-07",
           "deaths": 43669,
           "recovered": 0
@@ -1539,17 +1539,17 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1059537,
+          "confirmed": 1062140,
           "date": "2021-03-07",
-          "deaths": 14370,
+          "deaths": 14402,
           "recovered": 0
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 180908,
+          "confirmed": 181329,
           "date": "2021-03-07",
-          "deaths": 2152,
+          "deaths": 2153,
           "recovered": 0
         }
       },
@@ -1619,9 +1619,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1121112,
+          "confirmed": 1122785,
           "date": "2021-03-07",
-          "deaths": 36312,
+          "deaths": 36325,
           "recovered": 0
         }
       },
@@ -1635,7 +1635,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 209811,
+          "confirmed": 209970,
           "date": "2021-03-07",
           "deaths": 3132,
           "recovered": 0
@@ -1699,7 +1699,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 107631,
+          "confirmed": 107719,
           "date": "2021-03-07",
           "deaths": 1284,
           "recovered": 0
