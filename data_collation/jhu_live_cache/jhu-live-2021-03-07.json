@@ -1225,10 +1225,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 343743,
+      "confirmed": 344477,
       "date": "2021-03-07",
-      "deaths": 5907,
-      "recovered": 330474
+      "deaths": 5910,
+      "recovered": 331233
     }
   },
   "Paraguay": {
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2791040,
+          "confirmed": 2792778,
           "date": "2021-03-07",
-          "deaths": 43535,
+          "deaths": 43627,
           "recovered": 0
         }
       },
@@ -1675,7 +1675,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1293699,
+          "confirmed": 1294071,
           "date": "2021-03-07",
           "deaths": 17989,
           "recovered": 0
@@ -1691,7 +1691,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 84855,
+          "confirmed": 85015,
           "date": "2021-03-07",
           "deaths": 1415,
           "recovered": 0
