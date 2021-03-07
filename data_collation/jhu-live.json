@@ -1013,10 +1013,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 86506,
+      "confirmed": 86550,
       "date": "2021-03-07",
       "deaths": 1471,
-      "recovered": 83484
+      "recovered": 83530
     }
   },
   "Latvia": {
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2792778,
+          "confirmed": 2793325,
           "date": "2021-03-07",
-          "deaths": 43627,
+          "deaths": 43653,
           "recovered": 0
         }
       },
@@ -1789,10 +1789,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 80125,
+      "confirmed": 80176,
       "date": "2021-03-07",
       "deaths": 622,
-      "recovered": 78802
+      "recovered": 78884
     }
   },
   "Venezuela": {
