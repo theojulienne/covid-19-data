@@ -861,7 +861,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 799727,
+      "confirmed": 800721,
       "date": "2021-03-07",
       "deaths": 5861,
       "recovered": 753985
@@ -1037,10 +1037,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 137482,
+      "confirmed": 138640,
       "date": "2021-03-07",
-      "deaths": 2236,
-      "recovered": 124712
+      "deaths": 2273,
+      "recovered": 125842
     }
   },
   "Lithuania": {
@@ -1197,10 +1197,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 142896,
+      "confirmed": 143955,
       "date": "2021-03-07",
-      "deaths": 1583,
-      "recovered": 133491
+      "deaths": 1591,
+      "recovered": 134314
     }
   },
   "Pakistan": {
