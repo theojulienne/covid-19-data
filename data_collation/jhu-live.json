@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 313445,
+          "confirmed": 313801,
           "date": "2021-03-07",
-          "deaths": 7053,
-          "recovered": 296153
+          "deaths": 7061,
+          "recovered": 296491
         }
       },
       "Quebec": {
@@ -863,8 +863,8 @@
     "live": {
       "confirmed": 801461,
       "date": "2021-03-07",
-      "deaths": 5889,
-      "recovered": 757875
+      "deaths": 5891,
+      "recovered": 758541
     }
   },
   "Italy": {
@@ -1491,7 +1491,7 @@
     "live": {
       "confirmed": 562290,
       "date": "2021-03-07",
-      "deaths": 10046,
+      "deaths": 10048,
       "recovered": 317600
     }
   },
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2793797,
+          "confirmed": 2793921,
           "date": "2021-03-07",
-          "deaths": 43669,
+          "deaths": 43722,
           "recovered": 0
         }
       },
@@ -1675,9 +1675,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1294255,
+          "confirmed": 1294755,
           "date": "2021-03-07",
-          "deaths": 17989,
+          "deaths": 18011,
           "recovered": 0
         }
       },
@@ -1757,7 +1757,7 @@
         "live": {
           "confirmed": 3694339,
           "date": "2021-03-07",
-          "deaths": 109541,
+          "deaths": 109602,
           "recovered": 0
         }
       },
@@ -1765,7 +1765,7 @@
         "live": {
           "confirmed": 113645,
           "date": "2021-03-07",
-          "deaths": 2072,
+          "deaths": 2075,
           "recovered": 0
         }
       },
@@ -1781,7 +1781,7 @@
         "live": {
           "confirmed": 205038,
           "date": "2021-03-07",
-          "deaths": 5385,
+          "deaths": 5403,
           "recovered": 0
         }
       }
