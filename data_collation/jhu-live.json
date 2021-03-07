@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 126126,
+      "confirmed": 126602,
       "date": "2021-03-07",
-      "deaths": 469,
-      "recovered": 119047
+      "deaths": 472,
+      "recovered": 119771
     }
   },
   "Bangladesh": {
@@ -282,7 +282,7 @@
           "confirmed": 686175,
           "date": "2021-03-07",
           "deaths": 13370,
-          "recovered": 635753
+          "recovered": 636354
         }
       },
       "Rio de Janeiro": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 313801,
+          "confirmed": 313908,
           "date": "2021-03-07",
           "deaths": 7061,
-          "recovered": 296491
+          "recovered": 296581
         }
       },
       "Quebec": {
@@ -501,10 +501,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 292943,
+      "confirmed": 294503,
       "date": "2021-03-07",
-      "deaths": 16020,
-      "recovered": 247898
+      "deaths": 16039,
+      "recovered": 256009
     }
   },
   "Egypt": {
@@ -861,7 +861,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 801461,
+      "confirmed": 801575,
       "date": "2021-03-07",
       "deaths": 5891,
       "recovered": 758541
@@ -1523,9 +1523,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2793921,
+          "confirmed": 2795381,
           "date": "2021-03-07",
-          "deaths": 43722,
+          "deaths": 43736,
           "recovered": 0
         }
       },
