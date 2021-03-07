@@ -27,8 +27,8 @@
     "live": {
       "confirmed": 174257,
       "date": "2021-03-07",
-      "deaths": 3219,
-      "recovered": 164654
+      "deaths": 3221,
+      "recovered": 164784
     }
   },
   "Austria": {
@@ -535,8 +535,8 @@
     "live": {
       "confirmed": 272617,
       "date": "2021-03-07",
-      "deaths": 3567,
-      "recovered": 266344
+      "deaths": 3576,
+      "recovered": 266693
     }
   },
   "Germany": {
@@ -599,7 +599,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 197934,
+          "confirmed": 197946,
           "date": "2021-03-07",
           "deaths": 7989,
           "recovered": 182550
@@ -1711,34 +1711,34 @@
     "subseries": {
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 86127,
+          "confirmed": 86489,
           "date": "2021-03-07",
-          "deaths": 1636,
-          "recovered": 77696
+          "deaths": 1642,
+          "recovered": 77836
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 141598,
+          "confirmed": 142030,
           "date": "2021-03-07",
-          "deaths": 2753,
-          "recovered": 96287
+          "deaths": 2767,
+          "recovered": 96328
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 81752,
+          "confirmed": 82353,
           "date": "2021-03-07",
-          "deaths": 2320,
-          "recovered": 70760
+          "deaths": 2329,
+          "recovered": 71079
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 87957,
+          "confirmed": 88313,
           "date": "2021-03-07",
-          "deaths": 1468,
-          "recovered": 79738
+          "deaths": 1471,
+          "recovered": 79882
         }
       }
     }
