@@ -829,10 +829,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1373836,
+      "confirmed": 1379662,
       "date": "2021-03-07",
-      "deaths": 37154,
-      "recovered": 1189510
+      "deaths": 37266,
+      "recovered": 1194656
     }
   },
   "Iran": {
@@ -963,10 +963,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 112448,
+          "confirmed": 112685,
           "date": "2021-03-07",
-          "deaths": 1451,
-          "recovered": 108587
+          "deaths": 1459,
+          "recovered": 108864
         }
       }
     }
@@ -1285,9 +1285,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 824995,
+      "confirmed": 828283,
       "date": "2021-03-07",
-      "deaths": 20854,
+      "deaths": 20900,
       "recovered": 754335
     }
   },
@@ -1675,7 +1675,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1294208,
+          "confirmed": 1294255,
           "date": "2021-03-07",
           "deaths": 17989,
           "recovered": 0
@@ -1805,10 +1805,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 194548,
+      "confirmed": 196812,
       "date": "2021-03-07",
-      "deaths": 2127,
-      "recovered": 173732
+      "deaths": 2140,
+      "recovered": 175178
     }
   },
   "Zambia": {
