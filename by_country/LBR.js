@@ -823,7 +823,8 @@ var covid19_dataset_country_lbr = {
       2014,
       2017,
       2017,
-      2023
+      2023,
+      2024
     ],
     "deaths": [
       0,
@@ -1216,6 +1217,7 @@ var covid19_dataset_country_lbr = {
       84,
       84,
       84,
+      85,
       85,
       85,
       85,
@@ -1645,7 +1647,8 @@ var covid19_dataset_country_lbr = {
       1884,
       1884,
       1884,
-      1884
+      1884,
+      1892
     ]
   }
 };
