@@ -379,17 +379,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 312979,
+          "confirmed": 313058,
           "date": "2021-03-07",
           "deaths": 7053,
-          "recovered": 295892
+          "recovered": 295946
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 291924,
+          "confirmed": 292631,
           "date": "2021-03-07",
-          "deaths": 10465,
+          "deaths": 10472,
           "recovered": 274245
         }
       }
@@ -625,9 +625,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 203978,
+      "confirmed": 205120,
       "date": "2021-03-07",
-      "deaths": 6705,
+      "deaths": 6758,
       "recovered": 93764
     }
   },
@@ -973,10 +973,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 421415,
+      "confirmed": 427717,
       "date": "2021-03-07",
-      "deaths": 4900,
-      "recovered": 362765
+      "deaths": 4935,
+      "recovered": 367315
     }
   },
   "Kazakhstan": {
@@ -989,10 +989,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 108362,
+      "confirmed": 108827,
       "date": "2021-03-07",
-      "deaths": 1874,
-      "recovered": 87550
+      "deaths": 1876,
+      "recovered": 87570
     }
   },
   "Korea, South": {
@@ -1113,10 +1113,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 79237,
+      "confirmed": 79774,
       "date": "2021-03-07",
-      "deaths": 1059,
-      "recovered": 69209
+      "deaths": 1067,
+      "recovered": 69645
     }
   },
   "Morocco": {
@@ -1507,8 +1507,8 @@
     "live": {
       "confirmed": 2769230,
       "date": "2021-03-07",
-      "deaths": 28965,
-      "recovered": 2616139
+      "deaths": 29030,
+      "recovered": 2623924
     }
   },
   "US": {
