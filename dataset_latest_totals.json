@@ -104,17 +104,17 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 171510,
+        "confirmed": 171793,
         "deaths": 3190,
         "recovered": 163309
       },
       "back_2week": {
-        "confirmed": 170011,
+        "confirmed": 170234,
         "deaths": 3159,
         "recovered": 161903
       },
       "latest": {
-        "confirmed": 173749,
+        "confirmed": 174257,
         "deaths": 3219,
         "recovered": 164654
       }
@@ -1042,19 +1042,19 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1212780,
-        "deaths": 19999,
-        "recovered": 1055083
+        "confirmed": 1227595,
+        "deaths": 20194,
+        "recovered": 1064022
       },
       "back_2week": {
-        "confirmed": 1134957,
-        "deaths": 18913,
-        "recovered": 1003739
+        "confirmed": 1146321,
+        "deaths": 19097,
+        "recovered": 1012094
       },
       "latest": {
-        "confirmed": 1299002,
-        "deaths": 21325,
-        "recovered": 1115172
+        "confirmed": 1312164,
+        "deaths": 21558,
+        "recovered": 1126420
       }
     },
     "DEU": {
@@ -1491,17 +1491,17 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 270137,
+        "confirmed": 270510,
         "deaths": 3499,
         "recovered": 264589
       },
       "back_2week": {
-        "confirmed": 267701,
+        "confirmed": 268097,
         "deaths": 3425,
         "recovered": 261066
       },
       "latest": {
-        "confirmed": 272262,
+        "confirmed": 272617,
         "deaths": 3567,
         "recovered": 266344
       }
@@ -1712,19 +1712,19 @@
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 419182,
-        "deaths": 14795,
-        "recovered": 317899
+        "confirmed": 424130,
+        "deaths": 14902,
+        "recovered": 319691
       },
       "back_2week": {
-        "confirmed": 397116,
-        "deaths": 14145,
-        "recovered": 302689
+        "confirmed": 400111,
+        "deaths": 14252,
+        "recovered": 304680
       },
       "latest": {
-        "confirmed": 452547,
-        "deaths": 15619,
-        "recovered": 331557
+        "confirmed": 459816,
+        "deaths": 15765,
+        "recovered": 333045
       }
     },
     "IDN": {
@@ -1832,8 +1832,8 @@
     "ISR": {
       "back_1week": {
         "confirmed": 770780,
-        "deaths": 5697,
-        "recovered": 725727
+        "deaths": 5732,
+        "recovered": 727576
       },
       "back_2week": {
         "confirmed": 744513,
@@ -1842,8 +1842,8 @@
       },
       "latest": {
         "confirmed": 796465,
-        "deaths": 5834,
-        "recovered": 750435
+        "deaths": 5856,
+        "recovered": 753081
       }
     },
     "ITA": {
@@ -2154,19 +2154,19 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 196690,
-        "deaths": 3225,
-        "recovered": 182263
+        "confirmed": 197343,
+        "deaths": 3234,
+        "recovered": 183324
       },
       "back_2week": {
-        "confirmed": 192986,
-        "deaths": 3145,
-        "recovered": 178126
+        "confirmed": 193562,
+        "deaths": 3162,
+        "recovered": 179364
       },
       "latest": {
-        "confirmed": 201335,
-        "deaths": 3303,
-        "recovered": 187162
+        "confirmed": 201799,
+        "deaths": 3321,
+        "recovered": 188103
       }
     },
     "LUX": {
@@ -2720,19 +2720,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 571327,
-        "deaths": 12247,
-        "recovered": 524582
+        "confirmed": 574247,
+        "deaths": 12289,
+        "recovered": 524865
       },
       "back_2week": {
-        "confirmed": 557058,
-        "deaths": 11829,
-        "recovered": 512789
+        "confirmed": 559288,
+        "deaths": 12068,
+        "recovered": 513120
       },
       "latest": {
-        "confirmed": 587704,
-        "deaths": 12423,
-        "recovered": 535207
+        "confirmed": 591138,
+        "deaths": 12465,
+        "recovered": 535350
       }
     },
     "PNG": {
