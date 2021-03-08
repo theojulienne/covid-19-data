@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 253950,
+      "confirmed": 254273,
       "date": "2021-03-08",
-      "deaths": 11807,
-      "recovered": 197427
+      "deaths": 11823,
+      "recovered": 198236
     }
   },
   "Bosnia and Herzegovina": {
@@ -363,7 +363,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 135537,
+          "confirmed": 135837,
           "date": "2021-03-08",
           "deaths": 1914,
           "recovered": 128974
@@ -390,7 +390,7 @@
           "confirmed": 292631,
           "date": "2021-03-08",
           "deaths": 10472,
-          "recovered": 274245
+          "recovered": 275059
         }
       }
     }
@@ -997,10 +997,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 92471,
+      "confirmed": 92817,
       "date": "2021-03-08",
-      "deaths": 1634,
-      "recovered": 83220
+      "deaths": 1642,
+      "recovered": 83474
     }
   },
   "Kuwait": {
@@ -1207,28 +1207,28 @@
     "subseries": {
       "Punjab": {
         "live": {
-          "confirmed": 177008,
+          "confirmed": 177823,
           "date": "2021-03-08",
-          "deaths": 5552,
-          "recovered": 164989
+          "deaths": 5565,
+          "recovered": 165678
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 259666,
+          "confirmed": 259855,
           "date": "2021-03-08",
-          "deaths": 4424,
-          "recovered": 248999
+          "deaths": 4426,
+          "recovered": 249188
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 344477,
+      "confirmed": 344834,
       "date": "2021-03-08",
-      "deaths": 5910,
-      "recovered": 331233
+      "deaths": 5923,
+      "recovered": 331762
     }
   },
   "Paraguay": {
@@ -1455,7 +1455,7 @@
     "live": {
       "confirmed": 85695,
       "date": "2021-03-08",
-      "deaths": 497,
+      "deaths": 502,
       "recovered": 82059
     }
   },
@@ -1667,7 +1667,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 170004,
+          "confirmed": 170270,
           "date": "2021-03-08",
           "deaths": 2392,
           "recovered": 0
