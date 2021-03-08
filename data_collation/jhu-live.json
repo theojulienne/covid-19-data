@@ -162,7 +162,7 @@
           "confirmed": 714005,
           "date": "2021-03-08",
           "deaths": 12530,
-          "recovered": 676536
+          "recovered": 680532
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 445189,
           "date": "2021-03-08",
           "deaths": 11705,
-          "recovered": 322222
+          "recovered": 323685
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 334837,
           "date": "2021-03-08",
           "deaths": 6552,
-          "recovered": 315026
+          "recovered": 315584
         }
       },
       "Goias": {
@@ -234,7 +234,7 @@
           "confirmed": 373041,
           "date": "2021-03-08",
           "deaths": 8930,
-          "recovered": 348731
+          "recovered": 349451
         }
       },
       "Paraiba": {
@@ -322,7 +322,7 @@
           "confirmed": 2113738,
           "date": "2021-03-08",
           "deaths": 61463,
-          "recovered": 1865993
+          "recovered": 1877249
         }
       },
       "Sergipe": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 348308,
           "date": "2021-03-08",
-          "deaths": 6615,
+          "deaths": 6625,
           "recovered": 336558
         }
       },
@@ -421,7 +421,7 @@
         "live": {
           "confirmed": 125582,
           "date": "2021-03-08",
-          "deaths": 4060,
+          "deaths": 4065,
           "recovered": 119443
         }
       },
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 663603,
           "date": "2021-03-08",
-          "deaths": 13962,
+          "deaths": 13980,
           "recovered": 638247
         }
       },
@@ -437,7 +437,7 @@
         "live": {
           "confirmed": 106929,
           "date": "2021-03-08",
-          "deaths": 2917,
+          "deaths": 2925,
           "recovered": 102267
         }
       },
@@ -445,7 +445,7 @@
         "live": {
           "confirmed": 91946,
           "date": "2021-03-08",
-          "deaths": 3371,
+          "deaths": 3375,
           "recovered": 86620
         }
       },
@@ -453,7 +453,7 @@
         "live": {
           "confirmed": 197886,
           "date": "2021-03-08",
-          "deaths": 6259,
+          "deaths": 6274,
           "recovered": 187387
         }
       }
@@ -1669,13 +1669,13 @@
         "live": {
           "confirmed": 170004,
           "date": "2021-03-08",
-          "deaths": 2391,
+          "deaths": 2392,
           "recovered": 0
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1295632,
+          "confirmed": 1296279,
           "date": "2021-03-08",
           "deaths": 18011,
           "recovered": 0
