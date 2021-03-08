@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 99037,
+          "confirmed": 99384,
           "date": "2021-03-08",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 97365,
+          "confirmed": 97621,
           "date": "2021-03-08",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 85652,
+          "confirmed": 85934,
           "date": "2021-03-08",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 118325,
+          "confirmed": 118634,
           "date": "2021-03-08",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 106315,
+          "confirmed": 106433,
           "date": "2021-03-08",
           "deaths": 0,
           "recovered": 0
@@ -543,18 +543,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 323482,
+          "confirmed": 323938,
           "date": "2021-03-08",
-          "deaths": 8264,
-          "recovered": 301724
+          "deaths": 8272,
+          "recovered": 302479
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 446402,
+          "confirmed": 447237,
           "date": "2021-03-08",
-          "deaths": 12635,
-          "recovered": 414151
+          "deaths": 12642,
+          "recovered": 414995
         }
       },
       "Berlin": {
@@ -562,44 +562,44 @@
           "confirmed": 131976,
           "date": "2021-03-08",
           "deaths": 2894,
-          "recovered": 123697
+          "recovered": 124030
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 192671,
+          "confirmed": 192976,
           "date": "2021-03-08",
-          "deaths": 5935,
-          "recovered": 177121
+          "deaths": 5944,
+          "recovered": 177586
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 170120,
+          "confirmed": 170286,
           "date": "2021-03-08",
-          "deaths": 4445,
-          "recovered": 155510
+          "deaths": 4448,
+          "recovered": 156224
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 544088,
+          "confirmed": 544937,
           "date": "2021-03-08",
-          "deaths": 13377,
-          "recovered": 503555
+          "deaths": 13380,
+          "recovered": 504957
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 104246,
+          "confirmed": 104258,
           "date": "2021-03-08",
           "deaths": 3162,
-          "recovered": 96443
+          "recovered": 96704
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 198311,
+          "confirmed": 198323,
           "date": "2021-03-08",
           "deaths": 7989,
           "recovered": 182700
@@ -607,10 +607,10 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 79216,
+          "confirmed": 79412,
           "date": "2021-03-08",
-          "deaths": 2944,
-          "recovered": 71022
+          "deaths": 2946,
+          "recovered": 71353
         }
       }
     }
@@ -981,10 +981,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 267657,
+      "confirmed": 268327,
       "date": "2021-03-08",
-      "deaths": 3180,
-      "recovered": 245358
+      "deaths": 3184,
+      "recovered": 246033
     }
   },
   "Kenya": {
@@ -1063,41 +1063,41 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 569851,
+          "confirmed": 570719,
           "date": "2021-03-08",
-          "deaths": 28163,
+          "deaths": 28230,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 121427,
+          "confirmed": 121621,
           "date": "2021-03-08",
-          "deaths": 9326,
+          "deaths": 9339,
           "recovered": 0
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 79374,
+          "confirmed": 79429,
           "date": "2021-03-08",
-          "deaths": 10703,
+          "deaths": 10720,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 221397,
+          "confirmed": 221584,
           "date": "2021-03-08",
-          "deaths": 29447,
+          "deaths": 29507,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 116587,
+          "confirmed": 116667,
           "date": "2021-03-08",
-          "deaths": 8506,
+          "deaths": 8508,
           "recovered": 0
         }
       }
