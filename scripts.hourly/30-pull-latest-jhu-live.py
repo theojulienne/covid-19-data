@@ -19,7 +19,8 @@ if response:
     country = point['Country_Region']
     state = point['Province_State']
     live_data[country][state]['confirmed'] += point['Confirmed']
-    live_data[country][state]['recovered'] += point['Recovered']
+    if point['Recovered'] is not None:
+        live_data[country][state]['recovered'] += point['Recovered']
     live_data[country][state]['deaths'] += point['Deaths']
 
     when = point['Last_Update'] / 1000.
