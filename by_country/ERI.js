@@ -867,6 +867,7 @@ var covid19_dataset_country_eri = {
       3183,
       3192,
       3208,
+      3208,
       3208
     ],
     "deaths": [
@@ -1298,6 +1299,7 @@ var covid19_dataset_country_eri = {
       7,
       7,
       8,
+      9,
       9,
       9,
       9
@@ -1732,6 +1734,7 @@ var covid19_dataset_country_eri = {
       2865,
       2962,
       2962,
+      2970,
       2970,
       2970
     ]
