@@ -127,8 +127,8 @@
     "live": {
       "confirmed": 162032,
       "date": "2021-03-29",
-      "deaths": 6220,
-      "recovered": 128241
+      "deaths": 6427,
+      "recovered": 128980
     }
   },
   "Brazil": {
@@ -493,7 +493,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 228013,
+      "confirmed": 228692,
       "date": "2021-03-29",
       "deaths": 2415,
       "recovered": 217071
@@ -609,7 +609,7 @@
         "live": {
           "confirmed": 114654,
           "date": "2021-03-29",
-          "deaths": 3306,
+          "deaths": 3313,
           "recovered": 103414
         }
       },
@@ -617,8 +617,8 @@
         "live": {
           "confirmed": 218526,
           "date": "2021-03-29",
-          "deaths": 8332,
-          "recovered": 194600
+          "deaths": 8335,
+          "recovered": 195200
         }
       },
       "Thuringen": {
@@ -863,8 +863,8 @@
     "live": {
       "confirmed": 832428,
       "date": "2021-03-29",
-      "deaths": 14212,
-      "recovered": 745935
+      "deaths": 14249,
+      "recovered": 750435
     }
   },
   "Ireland": {
@@ -981,7 +981,7 @@
         "live": {
           "confirmed": 119438,
           "date": "2021-03-29",
-          "deaths": 1715,
+          "deaths": 1727,
           "recovered": 114993
         }
       }
@@ -1023,8 +1023,8 @@
     "live": {
       "confirmed": 87655,
       "date": "2021-03-29",
-      "deaths": 1848,
-      "recovered": 72618
+      "deaths": 1852,
+      "recovered": 73521
     }
   },
   "Kuwait": {
@@ -1215,7 +1215,7 @@
     "live": {
       "confirmed": 93150,
       "date": "2021-03-29",
-      "deaths": 656,
+      "deaths": 660,
       "recovered": 17998
     }
   },
@@ -1355,8 +1355,8 @@
     "live": {
       "confirmed": 388325,
       "date": "2021-03-29",
-      "deaths": 6650,
-      "recovered": 376947
+      "deaths": 6656,
+      "recovered": 377304
     }
   },
   "Serbia": {
@@ -1756,8 +1756,8 @@
     "live": {
       "confirmed": 455197,
       "date": "2021-03-29",
-      "deaths": 1481,
-      "recovered": 438706
+      "deaths": 1486,
+      "recovered": 440731
     }
   },
   "United Kingdom": {
@@ -1814,7 +1814,7 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 236462,
+      "confirmed": 238248,
       "date": "2021-03-29",
       "deaths": 2599,
       "recovered": 211521
