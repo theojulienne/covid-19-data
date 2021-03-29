@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 318681,
+      "confirmed": 319599,
       "date": "2021-03-29",
-      "deaths": 2219,
-      "recovered": 309535
+      "deaths": 2227,
+      "recovered": 310189
     }
   },
   "Belgium": {
@@ -495,8 +495,8 @@
     "live": {
       "confirmed": 228013,
       "date": "2021-03-29",
-      "deaths": 2414,
-      "recovered": 216590
+      "deaths": 2415,
+      "recovered": 217071
     }
   },
   "Dominican Republic": {
@@ -591,7 +591,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 194246,
+          "confirmed": 194408,
           "date": "2021-03-29",
           "deaths": 4816,
           "recovered": 173759
@@ -933,14 +933,6 @@
           "recovered": 593324
         }
       },
-      "Marche": {
-        "live": {
-          "confirmed": 86998,
-          "date": "2021-03-29",
-          "deaths": 2591,
-          "recovered": 74403
-        }
-      },
       "Piemonte": {
         "live": {
           "confirmed": 303617,
@@ -1027,6 +1019,14 @@
       "recovered": 94124
     }
   },
+  "Kosovo": {
+    "live": {
+      "confirmed": 87655,
+      "date": "2021-03-29",
+      "deaths": 1848,
+      "recovered": 72618
+    }
+  },
   "Kuwait": {
     "live": {
       "confirmed": 228299,
@@ -1048,7 +1048,7 @@
       "confirmed": 101207,
       "date": "2021-03-29",
       "deaths": 1883,
-      "recovered": 92014
+      "recovered": 92190
     }
   },
   "Lebanon": {
@@ -1513,9 +1513,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 592217,
+      "confirmed": 596790,
       "date": "2021-03-29",
-      "deaths": 10300,
+      "deaths": 10302,
       "recovered": 317600
     }
   },
@@ -1816,8 +1816,8 @@
     "live": {
       "confirmed": 236462,
       "date": "2021-03-29",
-      "deaths": 2581,
-      "recovered": 210340
+      "deaths": 2599,
+      "recovered": 211521
     }
   },
   "Zambia": {
