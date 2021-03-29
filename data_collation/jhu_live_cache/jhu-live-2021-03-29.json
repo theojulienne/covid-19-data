@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 109900,
+          "confirmed": 110493,
           "date": "2021-03-29",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 107693,
+          "confirmed": 108348,
           "date": "2021-03-29",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 97539,
+          "confirmed": 98200,
           "date": "2021-03-29",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 129056,
+          "confirmed": 129766,
           "date": "2021-03-29",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 111009,
+          "confirmed": 111323,
           "date": "2021-03-29",
           "deaths": 0,
           "recovered": 0
@@ -170,7 +170,7 @@
           "confirmed": 524428,
           "date": "2021-03-29",
           "deaths": 13580,
-          "recovered": 369351
+          "recovered": 372131
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 340166,
           "date": "2021-03-29",
           "deaths": 5757,
-          "recovered": 315384
+          "recovered": 318811
         }
       },
       "Espirito Santo": {
@@ -202,7 +202,7 @@
           "confirmed": 239953,
           "date": "2021-03-29",
           "deaths": 5949,
-          "recovered": 218424
+          "recovered": 219061
         }
       },
       "Mato Grosso": {
@@ -290,7 +290,7 @@
           "confirmed": 640467,
           "date": "2021-03-29",
           "deaths": 36109,
-          "recovered": 593593
+          "recovered": 595479
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 89116,
           "date": "2021-03-29",
           "deaths": 1320,
-          "recovered": 82300
+          "recovered": 83620
         }
       },
       "Santa Catarina": {
@@ -314,7 +314,7 @@
           "confirmed": 795391,
           "date": "2021-03-29",
           "deaths": 10482,
-          "recovered": 748892
+          "recovered": 755946
         }
       },
       "Sao Paulo": {
@@ -322,7 +322,7 @@
           "confirmed": 2420100,
           "date": "2021-03-29",
           "deaths": 71991,
-          "recovered": 2062273
+          "recovered": 2077570
         }
       },
       "Sergipe": {
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 290792,
+      "confirmed": 292284,
       "date": "2021-03-29",
       "deaths": 3220,
-      "recovered": 263808
+      "recovered": 264596
     }
   },
   "Kenya": {
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 101757,
+      "confirmed": 102141,
       "date": "2021-03-29",
-      "deaths": 1722,
-      "recovered": 93855
+      "deaths": 1726,
+      "recovered": 94124
     }
   },
   "Kuwait": {
@@ -1089,7 +1089,7 @@
         "live": {
           "confirmed": 604468,
           "date": "2021-03-29",
-          "deaths": 30254,
+          "deaths": 30278,
           "recovered": 0
         }
       },
@@ -1097,7 +1097,7 @@
         "live": {
           "confirmed": 127076,
           "date": "2021-03-29",
-          "deaths": 9896,
+          "deaths": 9905,
           "recovered": 0
         }
       },
@@ -1105,7 +1105,7 @@
         "live": {
           "confirmed": 231879,
           "date": "2021-03-29",
-          "deaths": 31118,
+          "deaths": 31145,
           "recovered": 0
         }
       },
@@ -1113,7 +1113,7 @@
         "live": {
           "confirmed": 119243,
           "date": "2021-03-29",
-          "deaths": 8951,
+          "deaths": 8970,
           "recovered": 0
         }
       }
@@ -1477,9 +1477,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 92007,
+      "confirmed": 92088,
       "date": "2021-03-29",
-      "deaths": 559,
+      "deaths": 561,
       "recovered": 88623
     }
   },
