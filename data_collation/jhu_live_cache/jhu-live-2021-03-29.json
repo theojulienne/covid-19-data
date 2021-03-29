@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 92858,
+      "confirmed": 93150,
       "date": "2021-03-29",
       "deaths": 656,
       "recovered": 17998
@@ -1249,10 +1249,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 353497,
+      "confirmed": 353839,
       "date": "2021-03-29",
-      "deaths": 6090,
-      "recovered": 342379
+      "deaths": 6100,
+      "recovered": 342774
     }
   },
   "Paraguay": {
@@ -1546,7 +1546,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2753734,
+          "confirmed": 2754389,
           "date": "2021-03-29",
           "deaths": 46304
         }
@@ -1588,9 +1588,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 209207,
+          "confirmed": 209784,
           "date": "2021-03-29",
-          "deaths": 5902
+          "deaths": 5914
         }
       },
       "Michigan": {
@@ -1798,7 +1798,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 95278,
+      "confirmed": 97406,
       "date": "2021-03-29",
       "deaths": 915,
       "recovered": 77567
