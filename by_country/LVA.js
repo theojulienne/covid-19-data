@@ -1302,7 +1302,8 @@ var covid19_dataset_country_lva = {
       1864,
       1867,
       1872,
-      1878
+      1878,
+      1883
     ],
     "recovered": [
       0,

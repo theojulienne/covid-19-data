@@ -25,7 +25,7 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 190317,
+      "confirmed": 190741,
       "date": "2021-03-29",
       "deaths": 3476,
       "recovered": 172096
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 103630,
+      "confirmed": 104214,
       "date": "2021-03-29",
-      "deaths": 868,
-      "recovered": 77270
+      "deaths": 879,
+      "recovered": 77867
     }
   },
   "Ethiopia": {
@@ -665,7 +665,7 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 633861,
+      "confirmed": 641124,
       "date": "2021-03-29",
       "deaths": 20161,
       "recovered": 399961
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 831924,
+      "confirmed": 832012,
       "date": "2021-03-29",
-      "deaths": 6185,
-      "recovered": 816218
+      "deaths": 6194,
+      "recovered": 816570
     }
   },
   "Italy": {
@@ -1047,7 +1047,7 @@
     "live": {
       "confirmed": 101040,
       "date": "2021-03-29",
-      "deaths": 1878,
+      "deaths": 1883,
       "recovered": 92014
     }
   },
@@ -1279,8 +1279,8 @@
     "live": {
       "confirmed": 721892,
       "date": "2021-03-29",
-      "deaths": 13170,
-      "recovered": 603154
+      "deaths": 13186,
+      "recovered": 603213
     }
   },
   "Poland": {
@@ -1288,7 +1288,7 @@
       "confirmed": 2250991,
       "date": "2021-03-29",
       "deaths": 51884,
-      "recovered": 1798922
+      "recovered": 1824431
     }
   },
   "Portugal": {
@@ -1369,9 +1369,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 357910,
+      "confirmed": 358115,
       "date": "2021-03-29",
-      "deaths": 9496,
+      "deaths": 9542,
       "recovered": 255300
     }
   },
