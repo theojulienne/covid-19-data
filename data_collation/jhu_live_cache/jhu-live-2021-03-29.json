@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 308311,
+          "confirmed": 309202,
           "date": "2021-03-29",
-          "deaths": 10647,
+          "deaths": 10651,
           "recovered": 289827
         }
       }
@@ -503,8 +503,8 @@
     "live": {
       "confirmed": 251983,
       "date": "2021-03-29",
-      "deaths": 3304,
-      "recovered": 211044
+      "deaths": 3307,
+      "recovered": 211409
     }
   },
   "Ecuador": {
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 144018,
+          "confirmed": 144586,
           "date": "2021-03-29",
-          "deaths": 3039,
-          "recovered": 132704
+          "deaths": 3043,
+          "recovered": 132814
         }
       },
       "Hessen": {
@@ -643,7 +643,7 @@
     "live": {
       "confirmed": 254031,
       "date": "2021-03-29",
-      "deaths": 7880,
+      "deaths": 7945,
       "recovered": 93764
     }
   },
@@ -1293,7 +1293,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 820407,
+      "confirmed": 820716,
       "date": "2021-03-29",
       "deaths": 16843,
       "recovered": 775849
@@ -1766,7 +1766,7 @@
         "live": {
           "confirmed": 3789899,
           "date": "2021-03-29",
-          "deaths": 111392,
+          "deaths": 111414,
           "recovered": 0
         }
       },
@@ -1790,7 +1790,7 @@
         "live": {
           "confirmed": 209066,
           "date": "2021-03-29",
-          "deaths": 5505,
+          "deaths": 5506,
           "recovered": 0
         }
       }
@@ -1822,7 +1822,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 87872,
+      "confirmed": 88012,
       "date": "2021-03-29",
       "deaths": 1200,
       "recovered": 84464
