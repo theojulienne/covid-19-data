@@ -1037,10 +1037,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 88092,
+      "confirmed": 88163,
       "date": "2021-03-29",
-      "deaths": 1495,
-      "recovered": 84600
+      "deaths": 1497,
+      "recovered": 84653
     }
   },
   "Latvia": {
@@ -1706,40 +1706,40 @@
         "live": {
           "confirmed": 89802,
           "date": "2021-03-29",
-          "deaths": 2325,
-          "recovered": 73861
+          "deaths": 2334,
+          "recovered": 74020
         }
       },
       "Kharkiv Oblast": {
         "live": {
           "confirmed": 101472,
           "date": "2021-03-29",
-          "deaths": 1904,
-          "recovered": 83811
+          "deaths": 1921,
+          "recovered": 84163
         }
       },
       "Kiev": {
         "live": {
           "confirmed": 159367,
           "date": "2021-03-29",
-          "deaths": 3309,
-          "recovered": 104901
+          "deaths": 3334,
+          "recovered": 105118
         }
       },
       "Kiev Oblast": {
         "live": {
           "confirmed": 93441,
           "date": "2021-03-29",
-          "deaths": 1562,
-          "recovered": 76929
+          "deaths": 1565,
+          "recovered": 77063
         }
       },
       "Lviv Oblast": {
         "live": {
           "confirmed": 101056,
           "date": "2021-03-29",
-          "deaths": 2583,
-          "recovered": 77978
+          "deaths": 2592,
+          "recovered": 78319
         }
       },
       "Odessa Oblast": {
@@ -1747,7 +1747,7 @@
           "confirmed": 105175,
           "date": "2021-03-29",
           "deaths": 1735,
-          "recovered": 82984
+          "recovered": 83004
         }
       }
     }

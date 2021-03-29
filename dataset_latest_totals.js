@@ -1955,12 +1955,12 @@ var covid19_dataset_latest_totals = {
         "recovered": 84185
       },
       "back_2week": {
-        "confirmed": 86818,
-        "deaths": 1480,
-        "recovered": 83809
+        "confirmed": 86850,
+        "deaths": 1483,
+        "recovered": 83875
       },
       "latest": {
-        "confirmed": 87946,
+        "confirmed": 88092,
         "deaths": 1495,
         "recovered": 84600
       }
