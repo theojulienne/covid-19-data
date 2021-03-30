@@ -242,7 +242,7 @@
           "confirmed": 256470,
           "date": "2021-03-30",
           "deaths": 5601,
-          "recovered": 183028
+          "recovered": 183369
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 839764,
           "date": "2021-03-30",
           "deaths": 16290,
-          "recovered": 586881
+          "recovered": 589955
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 832007,
           "date": "2021-03-30",
           "deaths": 19020,
-          "recovered": 794517
+          "recovered": 797587
         }
       },
       "Rio de Janeiro": {
@@ -1213,7 +1213,7 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 127240,
+      "confirmed": 128511,
       "date": "2021-03-30",
       "deaths": 3749,
       "recovered": 106392
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1545979,
+      "confirmed": 1546735,
       "date": "2021-03-30",
-      "deaths": 52710,
-      "recovered": 1472645
+      "deaths": 52788,
+      "recovered": 1473588
     }
   },
   "Spain": {
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 598713,
       "date": "2021-03-30",
-      "deaths": 10310,
+      "deaths": 10322,
       "recovered": 317600
     }
   },
@@ -1554,16 +1554,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756433,
+          "confirmed": 2756564,
           "date": "2021-03-30",
-          "deaths": 46374
+          "deaths": 46388
         }
       },
       "Connecticut": {
         "live": {
           "confirmed": 88876,
           "date": "2021-03-30",
-          "deaths": 2108
+          "deaths": 2109
         }
       },
       "Florida": {
@@ -1680,7 +1680,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 236287,
+          "confirmed": 236475,
           "date": "2021-03-30",
           "deaths": 1185
         }
