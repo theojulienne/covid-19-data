@@ -59,8 +59,8 @@
     "live": {
       "confirmed": 600895,
       "date": "2021-03-30",
-      "deaths": 8949,
-      "recovered": 537718
+      "deaths": 8994,
+      "recovered": 539880
     }
   },
   "Belarus": {
@@ -591,9 +591,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 194850,
+          "confirmed": 195247,
           "date": "2021-03-30",
-          "deaths": 4836,
+          "deaths": 4838,
           "recovered": 174967
         }
       },
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 641124,
+      "confirmed": 645733,
       "date": "2021-03-30",
-      "deaths": 20161,
-      "recovered": 399961
+      "deaths": 20435,
+      "recovered": 402964
     }
   },
   "India": {
@@ -845,7 +845,7 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1501093,
+      "confirmed": 1505775,
       "date": "2021-03-30",
       "deaths": 40754,
       "recovered": 1342695
@@ -853,10 +853,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1864984,
+      "confirmed": 1875234,
       "date": "2021-03-30",
-      "deaths": 62478,
-      "recovered": 1600488
+      "deaths": 62569,
+      "recovered": 1608807
     }
   },
   "Iraq": {
@@ -1048,7 +1048,7 @@
       "confirmed": 101733,
       "date": "2021-03-30",
       "deaths": 1893,
-      "recovered": 92190
+      "recovered": 92825
     }
   },
   "Lebanon": {
@@ -1147,8 +1147,8 @@
     "live": {
       "confirmed": 276980,
       "date": "2021-03-30",
-      "deaths": 3027,
-      "recovered": 272612
+      "deaths": 3030,
+      "recovered": 272727
     }
   },
   "Netherlands": {
@@ -1309,10 +1309,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 940443,
+      "confirmed": 946647,
       "date": "2021-03-30",
-      "deaths": 23234,
-      "recovered": 840127
+      "deaths": 23409,
+      "recovered": 845357
     }
   },
   "Russia": {
@@ -1672,7 +1672,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1251783,
+          "confirmed": 1251877,
           "date": "2021-03-30",
           "deaths": 18707
         }
@@ -1754,10 +1754,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 457071,
+      "confirmed": 459360,
       "date": "2021-03-30",
-      "deaths": 1486,
-      "recovered": 440731
+      "deaths": 1492,
+      "recovered": 443153
     }
   },
   "United Kingdom": {
