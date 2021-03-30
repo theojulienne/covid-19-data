@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 309202,
+          "confirmed": 310066,
           "date": "2021-03-30",
-          "deaths": 10651,
+          "deaths": 10658,
           "recovered": 290564
         }
       }
@@ -503,8 +503,8 @@
     "live": {
       "confirmed": 252182,
       "date": "2021-03-30",
-      "deaths": 3307,
-      "recovered": 211409
+      "deaths": 3317,
+      "recovered": 211744
     }
   },
   "Ecuador": {
@@ -577,8 +577,8 @@
         "live": {
           "confirmed": 144593,
           "date": "2021-03-30",
-          "deaths": 3043,
-          "recovered": 133222
+          "deaths": 3047,
+          "recovered": 133326
         }
       },
       "Hessen": {
@@ -617,8 +617,8 @@
         "live": {
           "confirmed": 219099,
           "date": "2021-03-30",
-          "deaths": 8338,
-          "recovered": 195200
+          "deaths": 8358,
+          "recovered": 196350
         }
       },
       "Thuringen": {
@@ -991,8 +991,8 @@
     "live": {
       "confirmed": 597256,
       "date": "2021-03-30",
-      "deaths": 6651,
-      "recovered": 494417
+      "deaths": 6747,
+      "recovered": 503952
     }
   },
   "Kazakhstan": {
@@ -1293,7 +1293,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 820716,
+      "confirmed": 821104,
       "date": "2021-03-30",
       "deaths": 16845,
       "recovered": 777503
