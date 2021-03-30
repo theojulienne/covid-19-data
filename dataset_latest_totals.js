@@ -1952,7 +1952,7 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 87389,
         "deaths": 1490,
-        "recovered": 84185
+        "recovered": 84223
       },
       "back_2week": {
         "confirmed": 86850,
@@ -1961,8 +1961,8 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 88092,
-        "deaths": 1495,
-        "recovered": 84600
+        "deaths": 1497,
+        "recovered": 84653
       }
     },
     "KHM": {
