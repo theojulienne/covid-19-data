@@ -43,8 +43,8 @@
     "live": {
       "confirmed": 257330,
       "date": "2021-03-30",
-      "deaths": 3513,
-      "recovered": 236500
+      "deaths": 3538,
+      "recovered": 237338
     }
   },
   "Bahrain": {
@@ -493,7 +493,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 228692,
+      "confirmed": 229902,
       "date": "2021-03-30",
       "deaths": 2417,
       "recovered": 218246
@@ -1023,8 +1023,8 @@
     "live": {
       "confirmed": 88429,
       "date": "2021-03-30",
-      "deaths": 1852,
-      "recovered": 73521
+      "deaths": 1866,
+      "recovered": 74186
     }
   },
   "Kuwait": {
@@ -1157,7 +1157,7 @@
         "live": {
           "confirmed": 139433,
           "date": "2021-03-30",
-          "deaths": 1888,
+          "deaths": 1890,
           "recovered": 0
         }
       },
@@ -1165,7 +1165,7 @@
         "live": {
           "confirmed": 198455,
           "date": "2021-03-30",
-          "deaths": 2997,
+          "deaths": 2999,
           "recovered": 0
         }
       },
@@ -1173,7 +1173,7 @@
         "live": {
           "confirmed": 218527,
           "date": "2021-03-30",
-          "deaths": 2395,
+          "deaths": 2406,
           "recovered": 0
         }
       },
@@ -1181,7 +1181,7 @@
         "live": {
           "confirmed": 98623,
           "date": "2021-03-30",
-          "deaths": 1186,
+          "deaths": 1188,
           "recovered": 0
         }
       },
@@ -1189,7 +1189,7 @@
         "live": {
           "confirmed": 296560,
           "date": "2021-03-30",
-          "deaths": 3985,
+          "deaths": 3989,
           "recovered": 0
         }
       }
@@ -1355,15 +1355,15 @@
     "live": {
       "confirmed": 388866,
       "date": "2021-03-30",
-      "deaths": 6656,
-      "recovered": 377304
+      "deaths": 6663,
+      "recovered": 377714
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 585506,
+      "confirmed": 595489,
       "date": "2021-03-30",
-      "deaths": 5190,
+      "deaths": 5270,
       "recovered": 0
     }
   },
@@ -1609,9 +1609,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 92390,
+          "confirmed": 92570,
           "date": "2021-03-30",
-          "deaths": 2082
+          "deaths": 2097
         }
       },
       "Nevada": {
