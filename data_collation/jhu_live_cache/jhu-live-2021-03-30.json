@@ -51,8 +51,8 @@
     "live": {
       "confirmed": 142669,
       "date": "2021-03-30",
-      "deaths": 515,
-      "recovered": 133753
+      "deaths": 517,
+      "recovered": 134442
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 152210,
           "date": "2021-03-30",
           "deaths": 3511,
-          "recovered": 144429
+          "recovered": 144928
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 96199,
           "date": "2021-03-30",
           "deaths": 1279,
-          "recovered": 71718
+          "recovered": 71807
         }
       },
       "Amazonas": {
@@ -290,7 +290,7 @@
           "confirmed": 641254,
           "date": "2021-03-30",
           "deaths": 36149,
-          "recovered": 596789
+          "recovered": 599767
         }
       },
       "Rondonia": {
@@ -559,9 +559,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 359284,
+          "confirmed": 361663,
           "date": "2021-03-30",
-          "deaths": 8648,
+          "deaths": 8684,
           "recovered": 326000
         }
       },
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 251169,
+      "confirmed": 252171,
       "date": "2021-03-30",
-      "deaths": 8760,
-      "recovered": 215920
+      "deaths": 8788,
+      "recovered": 216712
     }
   },
   "Turkey": {
@@ -1554,14 +1554,14 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756564,
+          "confirmed": 2756693,
           "date": "2021-03-30",
-          "deaths": 46388
+          "deaths": 46412
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 88876,
+          "confirmed": 89346,
           "date": "2021-03-30",
           "deaths": 2109
         }
@@ -1598,7 +1598,7 @@
         "live": {
           "confirmed": 210300,
           "date": "2021-03-30",
-          "deaths": 5922
+          "deaths": 5928
         }
       },
       "Michigan": {
@@ -1666,16 +1666,16 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 90257,
+          "confirmed": 90345,
           "date": "2021-03-30",
-          "deaths": 1557
+          "deaths": 1559
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1252030,
+          "confirmed": 1252798,
           "date": "2021-03-30",
-          "deaths": 18714
+          "deaths": 18745
         }
       },
       "Utah": {
