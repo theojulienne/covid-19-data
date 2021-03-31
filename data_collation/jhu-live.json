@@ -9,7 +9,7 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 116946,
+      "confirmed": 117061,
       "date": "2021-03-30",
       "deaths": 3089,
       "recovered": 81442
@@ -17,7 +17,7 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2322611,
+      "confirmed": 2332765,
       "date": "2021-03-30",
       "deaths": 55736,
       "recovered": 2095853
@@ -146,7 +146,7 @@
           "confirmed": 96910,
           "date": "2021-03-30",
           "deaths": 1292,
-          "recovered": 71807
+          "recovered": 72132
         }
       },
       "Amazonas": {
@@ -258,7 +258,7 @@
           "confirmed": 346800,
           "date": "2021-03-30",
           "deaths": 12118,
-          "recovered": 291303
+          "recovered": 293723
         }
       },
       "Piaui": {
@@ -374,7 +374,7 @@
           "confirmed": 98195,
           "date": "2021-03-30",
           "deaths": 1455,
-          "recovered": 89722
+          "recovered": 90401
         }
       },
       "Ontario": {
@@ -419,50 +419,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 369749,
+          "confirmed": 372048,
           "date": "2021-03-30",
-          "deaths": 6952,
-          "recovered": 351994
+          "deaths": 6983,
+          "recovered": 353259
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 147611,
+          "confirmed": 149595,
           "date": "2021-03-30",
-          "deaths": 4422,
-          "recovered": 134124
+          "deaths": 4460,
+          "recovered": 135356
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 684241,
+          "confirmed": 685821,
           "date": "2021-03-30",
-          "deaths": 14357,
-          "recovered": 658376
+          "deaths": 14383,
+          "recovered": 659145
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 110736,
+          "confirmed": 110849,
           "date": "2021-03-30",
-          "deaths": 3053,
-          "recovered": 106162
+          "deaths": 3058,
+          "recovered": 106410
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 94219,
+          "confirmed": 94351,
           "date": "2021-03-30",
-          "deaths": 3480,
-          "recovered": 89150
+          "deaths": 3485,
+          "recovered": 89255
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 207215,
+          "confirmed": 207712,
           "date": "2021-03-30",
-          "deaths": 6531,
-          "recovered": 196271
+          "deaths": 6550,
+          "recovered": 196742
         }
       }
     }
@@ -1207,8 +1207,8 @@
     "live": {
       "confirmed": 162641,
       "date": "2021-03-30",
-      "deaths": 2049,
-      "recovered": 150466
+      "deaths": 2056,
+      "recovered": 151532
     }
   },
   "North Macedonia": {
@@ -1221,7 +1221,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 94622,
+      "confirmed": 95208,
       "date": "2021-03-30",
       "deaths": 661,
       "recovered": 17998
