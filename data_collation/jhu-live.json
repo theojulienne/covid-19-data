@@ -170,7 +170,7 @@
           "confirmed": 532534,
           "date": "2021-03-31",
           "deaths": 13778,
-          "recovered": 377912
+          "recovered": 380789
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 343111,
           "date": "2021-03-31",
           "deaths": 5912,
-          "recovered": 319712
+          "recovered": 321374
         }
       },
       "Espirito Santo": {
@@ -194,7 +194,7 @@
           "confirmed": 481061,
           "date": "2021-03-31",
           "deaths": 11444,
-          "recovered": 458130
+          "recovered": 460027
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 213869,
           "date": "2021-03-31",
           "deaths": 4220,
-          "recovered": 194511
+          "recovered": 194999
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1111893,
           "date": "2021-03-31",
           "deaths": 23915,
-          "recovered": 993217
+          "recovered": 1005681
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 203458,
           "date": "2021-03-31",
           "deaths": 4066,
-          "recovered": 198057
+          "recovered": 199578
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 839070,
           "date": "2021-03-31",
           "deaths": 19432,
-          "recovered": 797587
+          "recovered": 801198
         }
       },
       "Rio de Janeiro": {
@@ -322,7 +322,7 @@
           "confirmed": 2446680,
           "date": "2021-03-31",
           "deaths": 73492,
-          "recovered": 2091783
+          "recovered": 2120478
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 140018,
           "date": "2021-03-31",
           "deaths": 2007,
-          "recovered": 120933
+          "recovered": 121515
         }
       }
     }
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 204521,
+      "confirmed": 206589,
       "date": "2021-03-31",
-      "deaths": 2841,
-      "recovered": 156625
+      "deaths": 2865,
+      "recovered": 158109
     }
   },
   "France": {
@@ -1267,9 +1267,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 719692,
+          "confirmed": 722513,
           "date": "2021-03-31",
-          "deaths": 22692,
+          "deaths": 22771,
           "recovered": 0
         }
       }
@@ -1477,9 +1477,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 92442,
+      "confirmed": 92706,
       "date": "2021-03-31",
-      "deaths": 566,
+      "deaths": 568,
       "recovered": 89251
     }
   },
@@ -1546,9 +1546,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2758206,
+          "confirmed": 2758475,
           "date": "2021-03-31",
-          "deaths": 46474
+          "deaths": 46492
         }
       },
       "Connecticut": {
@@ -1560,16 +1560,16 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1126544,
+          "confirmed": 1129442,
           "date": "2021-03-31",
           "deaths": 15264
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 188234,
+          "confirmed": 188575,
           "date": "2021-03-31",
-          "deaths": 2320
+          "deaths": 2333
         }
       },
       "Illinois": {
@@ -1597,7 +1597,7 @@
         "live": {
           "confirmed": 117758,
           "date": "2021-03-31",
-          "deaths": 4255
+          "deaths": 4256
         }
       },
       "Minnesota": {
@@ -1681,7 +1681,7 @@
         "live": {
           "confirmed": 236475,
           "date": "2021-03-31",
-          "deaths": 1185
+          "deaths": 1188
         }
       },
       "Washington": {
@@ -1693,9 +1693,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 110131,
+          "confirmed": 110286,
           "date": "2021-03-31",
-          "deaths": 1301
+          "deaths": 1303
         }
       }
     }
