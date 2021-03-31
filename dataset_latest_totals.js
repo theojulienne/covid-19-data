@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 2252172,
-        "deaths": 54671,
-        "recovered": 2037686
+        "confirmed": 2261577,
+        "deaths": 54823,
+        "recovered": 2043957
       },
       "back_2week": {
-        "confirmed": 2201886,
-        "deaths": 53836,
-        "recovered": 1993215
+        "confirmed": 2210121,
+        "deaths": 54036,
+        "recovered": 1998594
       },
       "latest": {
-        "confirmed": 2322611,
-        "deaths": 55611,
-        "recovered": 2088256
+        "confirmed": 2332765,
+        "deaths": 55736,
+        "recovered": 2095853
       }
     },
     "ARM": {
@@ -350,34 +350,34 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 307890,
-        "deaths": 12188,
-        "recovered": 237031
+        "confirmed": 312741,
+        "deaths": 12307,
+        "recovered": 239602
       },
       "back_2week": {
-        "confirmed": 283194,
-        "deaths": 11472,
-        "recovered": 227059
+        "confirmed": 287568,
+        "deaths": 11579,
+        "recovered": 228816
       },
       "latest": {
-        "confirmed": 333250,
-        "deaths": 12913,
-        "recovered": 252473
+        "confirmed": 338426,
+        "deaths": 13068,
+        "recovered": 255692
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 136741,
+        "confirmed": 137550,
         "deaths": 503,
         "recovered": 129845
       },
       "back_2week": {
-        "confirmed": 131683,
+        "confirmed": 132369,
         "deaths": 487,
         "recovered": 125503
       },
       "latest": {
-        "confirmed": 142669,
+        "confirmed": 143574,
         "deaths": 517,
         "recovered": 134442
       }
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 146885,
-          "deaths": 1983
+          "confirmed": 147461,
+          "deaths": 1987
         },
         "British Columbia": {
           "confirmed": 98195,
