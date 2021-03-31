@@ -1310,7 +1310,7 @@ var covid19_dataset_country_isr = {
       6185,
       6197,
       6193,
-      6203
+      6209
     ],
     "recovered": [
       0,
@@ -1747,7 +1747,7 @@ var covid19_dataset_country_isr = {
       816218,
       817698,
       818558,
-      819564
+      819665
     ]
   }
 };

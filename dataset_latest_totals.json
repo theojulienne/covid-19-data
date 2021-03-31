@@ -1309,19 +1309,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 4268711,
-        "deaths": 92080,
-        "recovered": 253477
+        "confirmed": 4283389,
+        "deaths": 92367,
+        "recovered": 254144
       },
       "back_2week": {
-        "confirmed": 4050010,
-        "deaths": 90260,
-        "recovered": 246083
+        "confirmed": 4080012,
+        "deaths": 90660,
+        "recovered": 247672
       },
       "latest": {
-        "confirmed": 4522779,
-        "deaths": 94388,
-        "recovered": 261447
+        "confirmed": 4553481,
+        "deaths": 94769,
+        "recovered": 262669
       },
       "states": {
         "French Guiana": {
@@ -3298,19 +3298,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 245923,
-        "deaths": 8569,
-        "recovered": 213106
+        "confirmed": 246507,
+        "deaths": 8610,
+        "recovered": 213505
       },
       "back_2week": {
-        "confirmed": 242124,
-        "deaths": 8404,
-        "recovered": 209166
+        "confirmed": 242673,
+        "deaths": 8429,
+        "recovered": 209755
       },
       "latest": {
-        "confirmed": 251169,
-        "deaths": 8760,
-        "recovered": 215920
+        "confirmed": 252171,
+        "deaths": 8788,
+        "recovered": 216712
       }
     },
     "TUR": {
@@ -3906,19 +3906,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1538451,
-        "deaths": 52196,
-        "recovered": 1463953
+        "confirmed": 1538961,
+        "deaths": 52251,
+        "recovered": 1465204
       },
       "back_2week": {
-        "confirmed": 1530033,
-        "deaths": 51421,
-        "recovered": 1455325
+        "confirmed": 1530966,
+        "deaths": 51560,
+        "recovered": 1458001
       },
       "latest": {
-        "confirmed": 1545979,
-        "deaths": 52710,
-        "recovered": 1472645
+        "confirmed": 1546735,
+        "deaths": 52788,
+        "recovered": 1473588
       }
     },
     "ZMB": {
