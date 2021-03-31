@@ -104,17 +104,17 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 184219,
+        "confirmed": 185020,
         "deaths": 3384,
         "recovered": 169172
       },
       "back_2week": {
-        "confirmed": 178702,
+        "confirmed": 179287,
         "deaths": 3277,
         "recovered": 166702
       },
       "latest": {
-        "confirmed": 190741,
+        "confirmed": 191491,
         "deaths": 3497,
         "recovered": 172605
       }
@@ -1242,18 +1242,18 @@ var covid19_dataset_latest_totals = {
     "EST": {
       "back_1week": {
         "confirmed": 96394,
-        "deaths": 797,
-        "recovered": 68249
+        "deaths": 809,
+        "recovered": 70346
       },
       "back_2week": {
         "confirmed": 86086,
-        "deaths": 728,
-        "recovered": 60007
+        "deaths": 739,
+        "recovered": 60376
       },
       "latest": {
         "confirmed": 104214,
-        "deaths": 879,
-        "recovered": 77867
+        "deaths": 896,
+        "recovered": 80092
       }
     },
     "ETH": {
@@ -1712,19 +1712,19 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 580642,
-        "deaths": 18451,
-        "recovered": 373666
+        "confirmed": 586123,
+        "deaths": 18703,
+        "recovered": 378176
       },
       "back_2week": {
-        "confirmed": 524196,
-        "deaths": 17083,
-        "recovered": 354817
+        "confirmed": 529122,
+        "deaths": 17226,
+        "recovered": 356679
       },
       "latest": {
-        "confirmed": 641124,
-        "deaths": 20161,
-        "recovered": 399961
+        "confirmed": 645733,
+        "deaths": 20435,
+        "recovered": 402964
       }
     },
     "IDN": {
@@ -1832,18 +1832,18 @@ var covid19_dataset_latest_totals = {
     "ISR": {
       "back_1week": {
         "confirmed": 828764,
-        "deaths": 6109,
-        "recovered": 807653
+        "deaths": 6122,
+        "recovered": 808869
       },
       "back_2week": {
         "confirmed": 820913,
-        "deaths": 6030,
-        "recovered": 787893
+        "deaths": 6048,
+        "recovered": 790340
       },
       "latest": {
         "confirmed": 832125,
-        "deaths": 6197,
-        "recovered": 817698
+        "deaths": 6193,
+        "recovered": 818558
       }
     },
     "ITA": {
@@ -2756,17 +2756,17 @@ var covid19_dataset_latest_totals = {
       "back_1week": {
         "confirmed": 2073129,
         "deaths": 49365,
-        "recovered": 1676008
+        "recovered": 1693875
       },
       "back_2week": {
         "confirmed": 1917527,
         "deaths": 47206,
-        "recovered": 1574455
+        "recovered": 1587164
       },
       "latest": {
         "confirmed": 2267964,
         "deaths": 51932,
-        "recovered": 1824431
+        "recovered": 1848199
       }
     },
     "PRT": {
@@ -3094,36 +3094,36 @@ var covid19_dataset_latest_totals = {
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 349270,
-        "deaths": 9104,
+        "confirmed": 350551,
+        "deaths": 9190,
         "recovered": 255300
       },
       "back_2week": {
-        "confirmed": 337960,
-        "deaths": 8605,
+        "confirmed": 339538,
+        "deaths": 8669,
         "recovered": 255300
       },
       "latest": {
-        "confirmed": 358115,
-        "deaths": 9542,
+        "confirmed": 359330,
+        "deaths": 9624,
         "recovered": 255300
       }
     },
     "SVN": {
       "back_1week": {
         "confirmed": 206317,
-        "deaths": 3976,
-        "recovered": 191706
+        "deaths": 3985,
+        "recovered": 192439
       },
       "back_2week": {
         "confirmed": 200579,
-        "deaths": 3938,
-        "recovered": 186386
+        "deaths": 3941,
+        "recovered": 187112
       },
       "latest": {
         "confirmed": 212966,
-        "deaths": 4024,
-        "recovered": 196518
+        "deaths": 4040,
+        "recovered": 197420
       }
     },
     "SWE": {

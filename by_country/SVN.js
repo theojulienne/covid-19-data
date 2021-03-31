@@ -1308,7 +1308,8 @@ var covid19_dataset_country_svn = {
       4011,
       4018,
       4024,
-      4040
+      4040,
+      4047
     ],
     "recovered": [
       0,
@@ -1744,7 +1745,8 @@ var covid19_dataset_country_svn = {
       195845,
       196319,
       196518,
-      197420
+      197420,
+      198524
     ]
   }
 };
