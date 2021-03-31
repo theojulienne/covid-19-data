@@ -933,14 +933,6 @@
           "recovered": 608894
         }
       },
-      "Marche": {
-        "live": {
-          "confirmed": 88370,
-          "date": "2021-03-31",
-          "deaths": 2621,
-          "recovered": 76382
-        }
-      },
       "Piemonte": {
         "live": {
           "confirmed": 309280,
@@ -1145,10 +1137,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 495421,
+      "confirmed": 496097,
       "date": "2021-03-31",
-      "deaths": 8813,
-      "recovered": 483165
+      "deaths": 8818,
+      "recovered": 483363
     }
   },
   "Nepal": {
@@ -1213,10 +1205,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 128511,
+      "confirmed": 130022,
       "date": "2021-03-31",
-      "deaths": 3749,
-      "recovered": 106392
+      "deaths": 3781,
+      "recovered": 106979
     }
   },
   "Norway": {
@@ -1537,10 +1529,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 3277880,
+      "confirmed": 3317182,
       "date": "2021-03-31",
-      "deaths": 31385,
-      "recovered": 2995033
+      "deaths": 31537,
+      "recovered": 3014226
     }
   },
   "US": {
@@ -1554,9 +1546,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2757741,
+          "confirmed": 2758206,
           "date": "2021-03-31",
-          "deaths": 46470
+          "deaths": 46474
         }
       },
       "Connecticut": {
@@ -1570,7 +1562,7 @@
         "live": {
           "confirmed": 1126544,
           "date": "2021-03-31",
-          "deaths": 15217
+          "deaths": 15264
         }
       },
       "Georgia": {
@@ -1582,7 +1574,7 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 496856,
+          "confirmed": 497885,
           "date": "2021-03-31",
           "deaths": 9665
         }
@@ -1624,7 +1616,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 234300,
+          "confirmed": 234549,
           "date": "2021-03-31",
           "deaths": 4108
         }
@@ -1638,30 +1630,37 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1248026,
+          "confirmed": 1250727,
           "date": "2021-03-31",
           "deaths": 37910
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 102517,
+          "confirmed": 102725,
           "date": "2021-03-31",
-          "deaths": 906
+          "deaths": 909
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 219305,
+          "confirmed": 219810,
           "date": "2021-03-31",
           "deaths": 3325
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 129790,
+          "confirmed": 130405,
           "date": "2021-03-31",
-          "deaths": 3259
+          "deaths": 3270
+        }
+      },
+      "Rhode Island": {
+        "live": {
+          "confirmed": 88787,
+          "date": "2021-03-31",
+          "deaths": 1909
         }
       },
       "Tennessee": {
