@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 542542,
+      "confirmed": 546229,
       "date": "2021-03-31",
-      "deaths": 9308,
-      "recovered": 497816
+      "deaths": 9339,
+      "recovered": 501116
     }
   },
   "Azerbaijan": {
@@ -525,7 +525,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 105416,
+      "confirmed": 106424,
       "date": "2021-03-31",
       "deaths": 902,
       "recovered": 81859
@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 87593,
+          "confirmed": 87595,
           "date": "2021-03-31",
           "deaths": 3302,
           "recovered": 77700
@@ -641,10 +641,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 90287,
+      "confirmed": 90552,
       "date": "2021-03-31",
-      "deaths": 740,
-      "recovered": 87137
+      "deaths": 742,
+      "recovered": 87966
     }
   },
   "Greece": {
@@ -885,7 +885,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 832639,
+      "confirmed": 832998,
       "date": "2021-03-31",
       "deaths": 6201,
       "recovered": 818953
@@ -989,8 +989,8 @@
         "live": {
           "confirmed": 120216,
           "date": "2021-03-31",
-          "deaths": 1737,
-          "recovered": 115381
+          "deaths": 1739,
+          "recovered": 115690
         }
       }
     }
@@ -1285,17 +1285,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 741181,
+      "confirmed": 747288,
       "date": "2021-03-31",
-      "deaths": 13191,
-      "recovered": 603310
+      "deaths": 13297,
+      "recovered": 603746
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2288826,
+      "confirmed": 2321717,
       "date": "2021-03-31",
-      "deaths": 52392,
+      "deaths": 53045,
       "recovered": 1861925
     }
   },
@@ -1385,7 +1385,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 214045,
+      "confirmed": 215602,
       "date": "2021-03-31",
       "deaths": 4047,
       "recovered": 198524
