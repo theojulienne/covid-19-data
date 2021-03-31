@@ -871,6 +871,7 @@ var covid19_dataset_country_ssd = {
       10048,
       10079,
       10098,
+      10119,
       10119
     ],
     "deaths": [
@@ -1302,6 +1303,7 @@ var covid19_dataset_country_ssd = {
       106,
       106,
       107,
+      108,
       108,
       108,
       108,
@@ -1741,6 +1743,7 @@ var covid19_dataset_country_ssd = {
       9330,
       9391,
       9454,
+      9594,
       9594
     ]
   }
