@@ -1045,7 +1045,7 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 88276,
+      "confirmed": 88374,
       "date": "2021-03-31",
       "deaths": 1499,
       "recovered": 84809
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2757318,
+          "confirmed": 2757417,
           "date": "2021-03-31",
-          "deaths": 46425
+          "deaths": 46434
         }
       },
       "Connecticut": {
@@ -1705,7 +1705,7 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 90913,
+          "confirmed": 91122,
           "date": "2021-03-31",
           "deaths": 2357,
           "recovered": 74436
@@ -1713,7 +1713,7 @@
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 102898,
+          "confirmed": 103804,
           "date": "2021-03-31",
           "deaths": 1962,
           "recovered": 84783
@@ -1721,7 +1721,7 @@
       },
       "Kiev": {
         "live": {
-          "confirmed": 161191,
+          "confirmed": 162291,
           "date": "2021-03-31",
           "deaths": 3405,
           "recovered": 105605
@@ -1729,7 +1729,7 @@
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 94893,
+          "confirmed": 95323,
           "date": "2021-03-31",
           "deaths": 1612,
           "recovered": 77512
@@ -1737,7 +1737,7 @@
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 102837,
+          "confirmed": 103670,
           "date": "2021-03-31",
           "deaths": 2629,
           "recovered": 79111
@@ -1745,7 +1745,7 @@
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 106554,
+          "confirmed": 107566,
           "date": "2021-03-31",
           "deaths": 1776,
           "recovered": 83037
