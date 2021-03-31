@@ -390,7 +390,7 @@
           "confirmed": 310066,
           "date": "2021-03-31",
           "deaths": 10658,
-          "recovered": 290564
+          "recovered": 291290
         }
       }
     }
@@ -1023,8 +1023,8 @@
     "live": {
       "confirmed": 102582,
       "date": "2021-03-31",
-      "deaths": 1729,
-      "recovered": 94563
+      "deaths": 1731,
+      "recovered": 95030
     }
   },
   "Kosovo": {
@@ -1259,15 +1259,15 @@
     "live": {
       "confirmed": 354085,
       "date": "2021-03-31",
-      "deaths": 6103,
-      "recovered": 343057
+      "deaths": 6109,
+      "recovered": 343501
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 210425,
+      "confirmed": 212691,
       "date": "2021-03-31",
-      "deaths": 4113,
+      "deaths": 4161,
       "recovered": 173994
     }
   },
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756777,
+          "confirmed": 2757003,
           "date": "2021-03-31",
-          "deaths": 46423
+          "deaths": 46425
         }
       },
       "Connecticut": {
@@ -1799,10 +1799,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 99584,
+      "confirmed": 102461,
       "date": "2021-03-31",
-      "deaths": 928,
-      "recovered": 79410
+      "deaths": 953,
+      "recovered": 81438
     }
   },
   "Venezuela": {
