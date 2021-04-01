@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 125157,
+      "confirmed": 125506,
       "date": "2021-04-01",
-      "deaths": 2235,
-      "recovered": 91271
+      "deaths": 2241,
+      "recovered": 91875
     }
   },
   "Algeria": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 144445,
+      "confirmed": 145380,
       "date": "2021-04-01",
-      "deaths": 521,
-      "recovered": 135315
+      "deaths": 523,
+      "recovered": 136064
     }
   },
   "Bangladesh": {
@@ -146,7 +146,7 @@
           "confirmed": 97542,
           "date": "2021-04-01",
           "deaths": 1302,
-          "recovered": 72132
+          "recovered": 72266
         }
       },
       "Amazonas": {
@@ -170,7 +170,7 @@
           "confirmed": 538301,
           "date": "2021-04-01",
           "deaths": 14024,
-          "recovered": 380789
+          "recovered": 383785
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 382138,
           "date": "2021-04-01",
           "deaths": 7490,
-          "recovered": 351496
+          "recovered": 352521
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 484309,
           "date": "2021-04-01",
           "deaths": 11598,
-          "recovered": 460845
+          "recovered": 462145
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 417523,
           "date": "2021-04-01",
           "deaths": 10426,
-          "recovered": 390166
+          "recovered": 391866
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
           "confirmed": 259173,
           "date": "2021-04-01",
           "deaths": 5744,
-          "recovered": 183668
+          "recovered": 186084
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 846105,
           "date": "2021-04-01",
           "deaths": 16717,
-          "recovered": 589955
+          "recovered": 598367
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 845380,
           "date": "2021-04-01",
           "deaths": 19736,
-          "recovered": 807072
+          "recovered": 808641
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 647875,
           "date": "2021-04-01",
           "deaths": 36727,
-          "recovered": 599767
+          "recovered": 605442
         }
       },
       "Rondonia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 342633,
+      "confirmed": 346327,
       "date": "2021-04-01",
-      "deaths": 13197,
-      "recovered": 259561
+      "deaths": 13313,
+      "recovered": 262095
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 148332,
+          "confirmed": 149207,
           "date": "2021-04-01",
-          "deaths": 1990,
-          "recovered": 137992
+          "deaths": 1994,
+          "recovered": 138560
         }
       },
       "British Columbia": {
@@ -1013,10 +1013,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 134058,
+      "confirmed": 135042,
       "date": "2021-04-01",
-      "deaths": 2153,
-      "recovered": 92679
+      "deaths": 2167,
+      "recovered": 93067
     }
   },
   "Korea, South": {
@@ -1515,16 +1515,16 @@
     "live": {
       "confirmed": 603092,
       "date": "2021-04-01",
-      "deaths": 10344,
+      "deaths": 10350,
       "recovered": 317600
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 254018,
+      "confirmed": 255308,
       "date": "2021-04-01",
-      "deaths": 8812,
-      "recovered": 217293
+      "deaths": 8843,
+      "recovered": 217928
     }
   },
   "Turkey": {
@@ -1588,9 +1588,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 211528,
+          "confirmed": 212356,
           "date": "2021-04-01",
-          "deaths": 5940
+          "deaths": 5953
         }
       },
       "Michigan": {
@@ -1672,7 +1672,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1254771,
+          "confirmed": 1255588,
           "date": "2021-04-01",
           "deaths": 18863
         }
