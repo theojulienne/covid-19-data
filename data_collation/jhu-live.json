@@ -65,7 +65,7 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 321807,
+      "confirmed": 323043,
       "date": "2021-04-01",
       "deaths": 2257,
       "recovered": 313628
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 169626,
+      "confirmed": 171324,
       "date": "2021-04-01",
-      "deaths": 6599,
-      "recovered": 130492
+      "deaths": 6675,
+      "recovered": 131166
     }
   },
   "Brazil": {
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 500549,
+          "confirmed": 500762,
           "date": "2021-04-01",
-          "deaths": 13264,
+          "deaths": 13266,
           "recovered": 451300
         }
       },
@@ -1165,7 +1165,7 @@
         "live": {
           "confirmed": 140927,
           "date": "2021-04-01",
-          "deaths": 1894,
+          "deaths": 1897,
           "recovered": 0
         }
       },
@@ -1173,7 +1173,7 @@
         "live": {
           "confirmed": 200581,
           "date": "2021-04-01",
-          "deaths": 3003,
+          "deaths": 3004,
           "recovered": 0
         }
       },
@@ -1181,7 +1181,7 @@
         "live": {
           "confirmed": 220654,
           "date": "2021-04-01",
-          "deaths": 2413,
+          "deaths": 2417,
           "recovered": 0
         }
       },
@@ -1189,7 +1189,7 @@
         "live": {
           "confirmed": 99561,
           "date": "2021-04-01",
-          "deaths": 1190,
+          "deaths": 1193,
           "recovered": 0
         }
       },
@@ -1197,7 +1197,7 @@
         "live": {
           "confirmed": 300189,
           "date": "2021-04-01",
-          "deaths": 3994,
+          "deaths": 4000,
           "recovered": 0
         }
       }
@@ -1371,7 +1371,7 @@
     "live": {
       "confirmed": 600596,
       "date": "2021-04-01",
-      "deaths": 5308,
+      "deaths": 5345,
       "recovered": 0
     }
   },
@@ -1495,7 +1495,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 124024,
+          "confirmed": 124712,
           "date": "2021-04-01",
           "deaths": 1643,
           "recovered": 0
@@ -1503,7 +1503,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 192075,
+          "confirmed": 194252,
           "date": "2021-04-01",
           "deaths": 4029,
           "recovered": 0
@@ -1511,7 +1511,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 143550,
+          "confirmed": 145238,
           "date": "2021-04-01",
           "deaths": 2213,
           "recovered": 0
@@ -1617,9 +1617,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 92739,
+          "confirmed": 92892,
           "date": "2021-04-01",
-          "deaths": 2099
+          "deaths": 2102
         }
       },
       "Nevada": {
@@ -1762,10 +1762,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 461444,
+      "confirmed": 463759,
       "date": "2021-04-01",
-      "deaths": 1497,
-      "recovered": 445355
+      "deaths": 1499,
+      "recovered": 447790
     }
   },
   "United Kingdom": {
