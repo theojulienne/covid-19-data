@@ -138,7 +138,7 @@
           "confirmed": 153490,
           "date": "2021-04-01",
           "deaths": 3554,
-          "recovered": 144928
+          "recovered": 146077
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 259173,
           "date": "2021-04-01",
           "deaths": 5744,
-          "recovered": 183369
+          "recovered": 183668
         }
       },
       "Parana": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 358725,
+          "confirmed": 359074,
           "date": "2021-04-01",
-          "deaths": 7379,
-          "recovered": 331304
+          "deaths": 7384,
+          "recovered": 331464
         }
       },
       "Quebec": {
@@ -533,18 +533,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 206589,
+      "confirmed": 208961,
       "date": "2021-04-01",
-      "deaths": 2865,
-      "recovered": 158109
+      "deaths": 2890,
+      "recovered": 159436
     }
   },
   "France": {
     "live": {
-      "confirmed": 4611392,
+      "confirmed": 4661841,
       "date": "2021-04-01",
-      "deaths": 95052,
-      "recovered": 264511
+      "deaths": 95356,
+      "recovered": 266039
     }
   },
   "Georgia": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 833407,
+      "confirmed": 833456,
       "date": "2021-04-01",
-      "deaths": 6218,
-      "recovered": 820644
+      "deaths": 6220,
+      "recovered": 820703
     }
   },
   "Italy": {
@@ -1546,16 +1546,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2759550,
+          "confirmed": 2759670,
           "date": "2021-04-01",
           "deaths": 46573
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 89598,
+          "confirmed": 90096,
           "date": "2021-04-01",
-          "deaths": 2111
+          "deaths": 2115
         }
       },
       "Florida": {
@@ -1644,7 +1644,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 219810,
+          "confirmed": 220461,
           "date": "2021-04-01",
           "deaths": 3325
         }
