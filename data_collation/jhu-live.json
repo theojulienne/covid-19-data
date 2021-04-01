@@ -477,7 +477,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 271632,
+      "confirmed": 274054,
       "date": "2021-04-01",
       "deaths": 5967,
       "recovered": 255639
@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 88464,
+          "confirmed": 88466,
           "date": "2021-04-01",
           "deaths": 3306,
           "recovered": 78140
@@ -599,7 +599,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 198107,
+          "confirmed": 198641,
           "date": "2021-04-01",
           "deaths": 4880,
           "recovered": 177600
@@ -863,8 +863,8 @@
     "live": {
       "confirmed": 1885564,
       "date": "2021-04-01",
-      "deaths": 62665,
-      "recovered": 1617333
+      "deaths": 62759,
+      "recovered": 1626144
     }
   },
   "Iraq": {
@@ -1155,8 +1155,8 @@
     "live": {
       "confirmed": 277309,
       "date": "2021-04-01",
-      "deaths": 3030,
-      "recovered": 272786
+      "deaths": 3031,
+      "recovered": 272851
     }
   },
   "Netherlands": {
@@ -1317,10 +1317,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 952803,
+      "confirmed": 958918,
       "date": "2021-04-01",
-      "deaths": 23538,
-      "recovered": 850672
+      "deaths": 23674,
+      "recovered": 856405
     }
   },
   "Russia": {
@@ -1680,7 +1680,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1254306,
+          "confirmed": 1254534,
           "date": "2021-04-01",
           "deaths": 18762
         }

@@ -1678,17 +1678,17 @@
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 258745,
+        "confirmed": 260636,
         "deaths": 5828,
         "recovered": 247208
       },
       "back_2week": {
-        "confirmed": 251865,
+        "confirmed": 253310,
         "deaths": 5709,
         "recovered": 242111
       },
       "latest": {
-        "confirmed": 269009,
+        "confirmed": 271632,
         "deaths": 5947,
         "recovered": 254379
       }
@@ -1781,18 +1781,18 @@
     "IRN": {
       "back_1week": {
         "confirmed": 1815712,
-        "deaths": 61951,
-        "recovered": 1555766
+        "deaths": 62045,
+        "recovered": 1562709
       },
       "back_2week": {
         "confirmed": 1763313,
-        "deaths": 61427,
-        "recovered": 1506360
+        "deaths": 61492,
+        "recovered": 1514061
       },
       "latest": {
         "confirmed": 1875234,
-        "deaths": 62569,
-        "recovered": 1608807
+        "deaths": 62665,
+        "recovered": 1617333
       }
     },
     "IRQ": {
@@ -2619,18 +2619,18 @@
     "NPL": {
       "back_1week": {
         "confirmed": 276244,
-        "deaths": 3019,
-        "recovered": 272097
+        "deaths": 3020,
+        "recovered": 272187
       },
       "back_2week": {
         "confirmed": 275424,
         "deaths": 3014,
-        "recovered": 271495
+        "recovered": 271550
       },
       "latest": {
         "confirmed": 277147,
         "deaths": 3030,
-        "recovered": 272727
+        "recovered": 272786
       }
     },
     "NZL": {
@@ -2839,19 +2839,19 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 907007,
-        "deaths": 22442,
-        "recovered": 814182
+        "confirmed": 913143,
+        "deaths": 22579,
+        "recovered": 819799
       },
       "back_2week": {
-        "confirmed": 868799,
-        "deaths": 21698,
-        "recovered": 787392
+        "confirmed": 874985,
+        "deaths": 21787,
+        "recovered": 790813
       },
       "latest": {
-        "confirmed": 946647,
-        "deaths": 23409,
-        "recovered": 845357
+        "confirmed": 952803,
+        "deaths": 23538,
+        "recovered": 850672
       }
     },
     "RUS": {
