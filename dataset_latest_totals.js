@@ -1627,12 +1627,12 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 189067,
+        "confirmed": 190208,
         "deaths": 6730,
         "recovered": 172621
       },
       "back_2week": {
-        "confirmed": 183985,
+        "confirmed": 184934,
         "deaths": 6599,
         "recovered": 169149
       },
