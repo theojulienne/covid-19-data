@@ -353,7 +353,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142434,
+      "confirmed": 142466,
       "date": "2021-04-01",
       "deaths": 3206,
       "recovered": 131802
@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 311091,
+          "confirmed": 312362,
           "date": "2021-04-01",
-          "deaths": 10667,
+          "deaths": 10676,
           "recovered": 291906
         }
       }
@@ -401,16 +401,16 @@
         "live": {
           "confirmed": 95470,
           "date": "2021-04-01",
-          "deaths": 1557,
-          "recovered": 89123
+          "deaths": 1598,
+          "recovered": 89745
         }
       },
       "Metropolitana": {
         "live": {
           "confirmed": 419769,
           "date": "2021-04-01",
-          "deaths": 12868,
-          "recovered": 392112
+          "deaths": 12903,
+          "recovered": 394121
         }
       }
     }
@@ -493,7 +493,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 230603,
+      "confirmed": 231265,
       "date": "2021-04-01",
       "deaths": 2423,
       "recovered": 219695
@@ -651,7 +651,7 @@
     "live": {
       "confirmed": 263689,
       "date": "2021-04-01",
-      "deaths": 8093,
+      "deaths": 8160,
       "recovered": 93764
     }
   },
@@ -999,8 +999,8 @@
     "live": {
       "confirmed": 611577,
       "date": "2021-04-01",
-      "deaths": 6858,
-      "recovered": 513144
+      "deaths": 6940,
+      "recovered": 520498
     }
   },
   "Kazakhstan": {
@@ -1029,10 +1029,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 89181,
+      "confirmed": 91079,
       "date": "2021-04-01",
-      "deaths": 1866,
-      "recovered": 74186
+      "deaths": 1892,
+      "recovered": 75850
     }
   },
   "Kuwait": {
@@ -1215,8 +1215,8 @@
     "live": {
       "confirmed": 130022,
       "date": "2021-04-01",
-      "deaths": 3781,
-      "recovered": 106979
+      "deaths": 3810,
+      "recovered": 107740
     }
   },
   "Norway": {
@@ -1361,7 +1361,7 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 390007,
+      "confirmed": 390597,
       "date": "2021-04-01",
       "deaths": 6676,
       "recovered": 378469
@@ -1682,7 +1682,7 @@
         "live": {
           "confirmed": 1254534,
           "date": "2021-04-01",
-          "deaths": 18762
+          "deaths": 18809
         }
       },
       "Utah": {
@@ -1774,7 +1774,7 @@
         "live": {
           "confirmed": 3800722,
           "date": "2021-04-01",
-          "deaths": 111489,
+          "deaths": 111530,
           "recovered": 0
         }
       },
@@ -1790,7 +1790,7 @@
         "live": {
           "confirmed": 218432,
           "date": "2021-04-01",
-          "deaths": 7602,
+          "deaths": 7610,
           "recovered": 0
         }
       },
@@ -1798,7 +1798,7 @@
         "live": {
           "confirmed": 209345,
           "date": "2021-04-01",
-          "deaths": 5507,
+          "deaths": 5509,
           "recovered": 0
         }
       }
