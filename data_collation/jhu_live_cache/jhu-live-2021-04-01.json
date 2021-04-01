@@ -35,8 +35,8 @@
     "live": {
       "confirmed": 546229,
       "date": "2021-04-01",
-      "deaths": 9339,
-      "recovered": 501116
+      "deaths": 9368,
+      "recovered": 503729
     }
   },
   "Azerbaijan": {
@@ -855,8 +855,8 @@
     "live": {
       "confirmed": 1511712,
       "date": "2021-04-01",
-      "deaths": 40858,
-      "recovered": 1348330
+      "deaths": 41054,
+      "recovered": 1355578
     }
   },
   "Iran": {
@@ -1055,7 +1055,7 @@
     "live": {
       "confirmed": 102363,
       "date": "2021-04-01",
-      "deaths": 1899,
+      "deaths": 1913,
       "recovered": 93631
     }
   },
@@ -1071,8 +1071,8 @@
     "live": {
       "confirmed": 158957,
       "date": "2021-04-01",
-      "deaths": 2667,
-      "recovered": 147147
+      "deaths": 2680,
+      "recovered": 147864
     }
   },
   "Lithuania": {
@@ -1087,8 +1087,8 @@
     "live": {
       "confirmed": 345500,
       "date": "2021-04-01",
-      "deaths": 1272,
-      "recovered": 329624
+      "deaths": 1278,
+      "recovered": 331001
     }
   },
   "Mexico": {
@@ -1231,8 +1231,8 @@
     "live": {
       "confirmed": 159218,
       "date": "2021-04-01",
-      "deaths": 1678,
-      "recovered": 143966
+      "deaths": 1681,
+      "recovered": 144639
     }
   },
   "Pakistan": {
@@ -1285,17 +1285,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 747288,
+      "confirmed": 756199,
       "date": "2021-04-01",
-      "deaths": 13297,
-      "recovered": 603746
+      "deaths": 13303,
+      "recovered": 603948
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2321717,
+      "confirmed": 2356970,
       "date": "2021-04-01",
-      "deaths": 53045,
+      "deaths": 53665,
       "recovered": 1882179
     }
   },
@@ -1377,9 +1377,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 361185,
+      "confirmed": 362489,
       "date": "2021-04-01",
-      "deaths": 9719,
+      "deaths": 9790,
       "recovered": 255300
     }
   },
@@ -1387,8 +1387,8 @@
     "live": {
       "confirmed": 215602,
       "date": "2021-04-01",
-      "deaths": 4047,
-      "recovered": 198524
+      "deaths": 4054,
+      "recovered": 199490
     }
   },
   "South Africa": {
