@@ -210,7 +210,7 @@
           "confirmed": 308546,
           "date": "2021-03-31",
           "deaths": 7542,
-          "recovered": 282331
+          "recovered": 284856
         }
       },
       "Mato Grosso do Sul": {
@@ -422,7 +422,7 @@
           "confirmed": 372048,
           "date": "2021-03-31",
           "deaths": 6983,
-          "recovered": 353259
+          "recovered": 354364
         }
       },
       "Atlantico": {
@@ -430,7 +430,7 @@
           "confirmed": 149595,
           "date": "2021-03-31",
           "deaths": 4460,
-          "recovered": 135356
+          "recovered": 137149
         }
       },
       "Capital District": {
@@ -438,7 +438,7 @@
           "confirmed": 685821,
           "date": "2021-03-31",
           "deaths": 14383,
-          "recovered": 659145
+          "recovered": 660006
         }
       },
       "Cundinamarca": {
@@ -446,7 +446,7 @@
           "confirmed": 110849,
           "date": "2021-03-31",
           "deaths": 3058,
-          "recovered": 106410
+          "recovered": 106522
         }
       },
       "Santander": {
@@ -454,7 +454,7 @@
           "confirmed": 94351,
           "date": "2021-03-31",
           "deaths": 3485,
-          "recovered": 89255
+          "recovered": 89317
         }
       },
       "Valle del Cauca": {
@@ -462,7 +462,7 @@
           "confirmed": 207712,
           "date": "2021-03-31",
           "deaths": 6550,
-          "recovered": 196742
+          "recovered": 197183
         }
       }
     }
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 201432,
+      "confirmed": 202131,
       "date": "2021-03-31",
-      "deaths": 11956,
-      "recovered": 154194
+      "deaths": 11995,
+      "recovered": 154694
     }
   },
   "Estonia": {
@@ -1029,10 +1029,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 230821,
+      "confirmed": 232103,
       "date": "2021-03-31",
-      "deaths": 1308,
-      "recovered": 215250
+      "deaths": 1313,
+      "recovered": 216580
     }
   },
   "Kyrgyzstan": {
@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 162762,
+      "confirmed": 162891,
       "date": "2021-03-31",
-      "deaths": 2056,
-      "recovered": 151532
+      "deaths": 2057,
+      "recovered": 151648
     }
   },
   "North Macedonia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 95695,
+      "confirmed": 96079,
       "date": "2021-03-31",
       "deaths": 673,
       "recovered": 17998
@@ -1672,7 +1672,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1253942,
+          "confirmed": 1254306,
           "date": "2021-03-31",
           "deaths": 18762
         }

@@ -1190,19 +1190,19 @@
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 196061,
-        "deaths": 11637,
-        "recovered": 150424
+        "confirmed": 196709,
+        "deaths": 11680,
+        "recovered": 150924
       },
       "back_2week": {
-        "confirmed": 191555,
-        "deaths": 11340,
-        "recovered": 147767
+        "confirmed": 192195,
+        "deaths": 11384,
+        "recovered": 148089
       },
       "latest": {
-        "confirmed": 200739,
-        "deaths": 11914,
-        "recovered": 153630
+        "confirmed": 201432,
+        "deaths": 11956,
+        "recovered": 154194
       }
     },
     "ERI": {
@@ -2001,19 +2001,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 220455,
-        "deaths": 1233,
-        "recovered": 204978
+        "confirmed": 221743,
+        "deaths": 1246,
+        "recovered": 206180
       },
       "back_2week": {
-        "confirmed": 210855,
-        "deaths": 1179,
-        "recovered": 195507
+        "confirmed": 212169,
+        "deaths": 1186,
+        "recovered": 196821
       },
       "latest": {
-        "confirmed": 229550,
-        "deaths": 1298,
-        "recovered": 213942
+        "confirmed": 230821,
+        "deaths": 1308,
+        "recovered": 215250
       }
     },
     "LAO": {
@@ -2528,19 +2528,19 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 161868,
-        "deaths": 2030,
-        "recovered": 148125
+        "confirmed": 162076,
+        "deaths": 2031,
+        "recovered": 148530
       },
       "back_2week": {
-        "confirmed": 160895,
-        "deaths": 2016,
-        "recovered": 145752
+        "confirmed": 161074,
+        "deaths": 2018,
+        "recovered": 146072
       },
       "latest": {
-        "confirmed": 162641,
-        "deaths": 2049,
-        "recovered": 150466
+        "confirmed": 162762,
+        "deaths": 2056,
+        "recovered": 151532
       }
     },
     "NIC": {
@@ -3446,7 +3446,7 @@
           "confirmed": 514072,
           "deaths": 10526,
           "hospitalized": 48934,
-          "recovered": 295690,
+          "recovered": 285130,
           "tested": 4173445
         },
         "AR": {
