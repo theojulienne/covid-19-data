@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 99035,
+          "confirmed": 100048,
           "date": "2021-04-01",
-          "deaths": 1455,
-          "recovered": 90401
+          "deaths": 1458,
+          "recovered": 91066
         }
       },
       "Ontario": {
@@ -390,7 +390,7 @@
           "confirmed": 311091,
           "date": "2021-04-01",
           "deaths": 10667,
-          "recovered": 291290
+          "recovered": 291906
         }
       }
     }
@@ -1546,9 +1546,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2758563,
+          "confirmed": 2759096,
           "date": "2021-04-01",
-          "deaths": 46494
+          "deaths": 46501
         }
       },
       "Connecticut": {
@@ -1798,7 +1798,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 102461,
+      "confirmed": 105549,
       "date": "2021-04-01",
       "deaths": 974,
       "recovered": 83380
