@@ -1311,7 +1311,8 @@ var covid19_dataset_country_lka = {
       561,
       566,
       566,
-      568
+      568,
+      571
     ],
     "recovered": [
       0,
