@@ -67,8 +67,8 @@
     "live": {
       "confirmed": 321807,
       "date": "2021-04-01",
-      "deaths": 2247,
-      "recovered": 312320
+      "deaths": 2257,
+      "recovered": 313628
     }
   },
   "Belgium": {
@@ -861,7 +861,7 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1885564,
+      "confirmed": 1897314,
       "date": "2021-04-01",
       "deaths": 62759,
       "recovered": 1626144
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 120691,
           "date": "2021-04-01",
-          "deaths": 1760,
+          "deaths": 1764,
           "recovered": 116012
         }
       }
@@ -1153,7 +1153,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 277309,
+      "confirmed": 277461,
       "date": "2021-04-01",
       "deaths": 3031,
       "recovered": 272851
@@ -1505,7 +1505,7 @@
         "live": {
           "confirmed": 192075,
           "date": "2021-04-01",
-          "deaths": 4003,
+          "deaths": 4029,
           "recovered": 0
         }
       },
@@ -1513,7 +1513,7 @@
         "live": {
           "confirmed": 143550,
           "date": "2021-04-01",
-          "deaths": 2212,
+          "deaths": 2213,
           "recovered": 0
         }
       }
@@ -1521,9 +1521,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 601124,
+      "confirmed": 603092,
       "date": "2021-04-01",
-      "deaths": 10337,
+      "deaths": 10344,
       "recovered": 317600
     }
   },
@@ -1822,10 +1822,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 242353,
+      "confirmed": 244645,
       "date": "2021-04-01",
-      "deaths": 2627,
-      "recovered": 215429
+      "deaths": 2645,
+      "recovered": 217224
     }
   }
 }
