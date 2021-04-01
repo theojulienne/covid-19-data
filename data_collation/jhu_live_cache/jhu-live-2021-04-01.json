@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 111361,
+          "confirmed": 112081,
           "date": "2021-04-01",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 109055,
+          "confirmed": 109550,
           "date": "2021-04-01",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 99056,
+          "confirmed": 99902,
           "date": "2021-04-01",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 130482,
+          "confirmed": 131194,
           "date": "2021-04-01",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 111770,
+          "confirmed": 112208,
           "date": "2021-04-01",
           "deaths": 0,
           "recovered": 0
@@ -119,8 +119,8 @@
     "live": {
       "confirmed": 271419,
       "date": "2021-04-01",
-      "deaths": 12239,
-      "recovered": 220856
+      "deaths": 12257,
+      "recovered": 221962
     }
   },
   "Bosnia and Herzegovina": {
@@ -562,7 +562,7 @@
           "confirmed": 364987,
           "date": "2021-04-01",
           "deaths": 8704,
-          "recovered": 327700
+          "recovered": 329300
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 496683,
           "date": "2021-04-01",
           "deaths": 13242,
-          "recovered": 449100
+          "recovered": 451300
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 146261,
           "date": "2021-04-01",
           "deaths": 3055,
-          "recovered": 133900
+          "recovered": 134400
         }
       },
       "Hessen": {
@@ -586,7 +586,7 @@
           "confirmed": 217605,
           "date": "2021-04-01",
           "deaths": 6321,
-          "recovered": 193600
+          "recovered": 194800
         }
       },
       "Niedersachsen": {
@@ -594,7 +594,7 @@
           "confirmed": 196611,
           "date": "2021-04-01",
           "deaths": 4849,
-          "recovered": 176400
+          "recovered": 177600
         }
       },
       "Nordrhein-Westfalen": {
@@ -602,7 +602,7 @@
           "confirmed": 608416,
           "date": "2021-04-01",
           "deaths": 14194,
-          "recovered": 548200
+          "recovered": 551400
         }
       },
       "Rheinland-Pfalz": {
@@ -610,7 +610,7 @@
           "confirmed": 116777,
           "date": "2021-04-01",
           "deaths": 3328,
-          "recovered": 104300
+          "recovered": 104800
         }
       },
       "Sachsen": {
@@ -626,7 +626,7 @@
           "confirmed": 94098,
           "date": "2021-04-01",
           "deaths": 3325,
-          "recovered": 81850
+          "recovered": 82490
         }
       }
     }
@@ -1000,7 +1000,7 @@
       "confirmed": 295506,
       "date": "2021-04-01",
       "deaths": 3228,
-      "recovered": 267130
+      "recovered": 268349
     }
   },
   "Kenya": {
@@ -1013,10 +1013,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 103088,
+      "confirmed": 103639,
       "date": "2021-04-01",
-      "deaths": 1731,
-      "recovered": 95030
+      "deaths": 1735,
+      "recovered": 95439
     }
   },
   "Kosovo": {
@@ -1089,7 +1089,7 @@
         "live": {
           "confirmed": 607167,
           "date": "2021-04-01",
-          "deaths": 30457,
+          "deaths": 30534,
           "recovered": 0
         }
       },
@@ -1097,7 +1097,7 @@
         "live": {
           "confirmed": 127404,
           "date": "2021-04-01",
-          "deaths": 9941,
+          "deaths": 9959,
           "recovered": 0
         }
       },
@@ -1105,7 +1105,7 @@
         "live": {
           "confirmed": 232689,
           "date": "2021-04-01",
-          "deaths": 31423,
+          "deaths": 31569,
           "recovered": 0
         }
       },
@@ -1113,7 +1113,7 @@
         "live": {
           "confirmed": 119612,
           "date": "2021-04-01",
-          "deaths": 8997,
+          "deaths": 9029,
           "recovered": 0
         }
       }
