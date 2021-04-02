@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 145380,
+      "confirmed": 146454,
       "date": "2021-04-02",
-      "deaths": 523,
-      "recovered": 136064
+      "deaths": 527,
+      "recovered": 136827
     }
   },
   "Bangladesh": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 361141,
+          "confirmed": 361147,
           "date": "2021-04-02",
           "deaths": 7391,
-          "recovered": 332813
+          "recovered": 332821
         }
       },
       "Quebec": {
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 253196,
+      "confirmed": 253781,
       "date": "2021-04-02",
-      "deaths": 3330,
-      "recovered": 212818
+      "deaths": 3334,
+      "recovered": 213339
     }
   },
   "Ecuador": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 194756,
+      "confirmed": 195036,
       "date": "2021-04-02",
-      "deaths": 6860,
-      "recovered": 177964
+      "deaths": 6875,
+      "recovered": 178659
     }
   },
   "Honduras": {
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1549451,
+      "confirmed": 1550724,
       "date": "2021-04-02",
-      "deaths": 52897,
-      "recovered": 1474826
+      "deaths": 52946,
+      "recovered": 1475398
     }
   },
   "Spain": {
@@ -1547,9 +1547,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 637254,
+          "confirmed": 637393,
           "date": "2021-04-02",
-          "deaths": 12027
+          "deaths": 12032
         }
       },
       "California": {
@@ -1561,9 +1561,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 90096,
+          "confirmed": 90537,
           "date": "2021-04-02",
-          "deaths": 2115
+          "deaths": 2117
         }
       },
       "Florida": {
