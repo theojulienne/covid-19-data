@@ -138,7 +138,7 @@
           "confirmed": 154199,
           "date": "2021-04-02",
           "deaths": 3576,
-          "recovered": 146077
+          "recovered": 146821
         }
       },
       "Amapa": {
@@ -218,7 +218,7 @@
           "confirmed": 217457,
           "date": "2021-04-02",
           "deaths": 4334,
-          "recovered": 196702
+          "recovered": 198388
         }
       },
       "Minas Gerais": {
@@ -282,7 +282,7 @@
           "confirmed": 850220,
           "date": "2021-04-02",
           "deaths": 20063,
-          "recovered": 808641
+          "recovered": 816887
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 141913,
           "date": "2021-04-02",
           "deaths": 2057,
-          "recovered": 122028
+          "recovered": 122580
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 359724,
+          "confirmed": 361141,
           "date": "2021-04-02",
-          "deaths": 7384,
-          "recovered": 331927
+          "deaths": 7391,
+          "recovered": 332813
         }
       },
       "Quebec": {
@@ -1575,9 +1575,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 188919,
+          "confirmed": 189190,
           "date": "2021-04-02",
-          "deaths": 2346
+          "deaths": 2358
         }
       },
       "Illinois": {
