@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1539617,
+      "confirmed": 1545865,
       "date": "2021-04-02",
-      "deaths": 26586,
-      "recovered": 1371074
+      "deaths": 26765,
+      "recovered": 1374823
     }
   },
   "Denmark": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2760822,
+          "confirmed": 2760881,
           "date": "2021-04-02",
-          "deaths": 46615
+          "deaths": 46628
         }
       },
       "Connecticut": {
@@ -1712,50 +1712,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 92096,
+          "confirmed": 93274,
           "date": "2021-04-02",
-          "deaths": 2387,
-          "recovered": 75225
+          "deaths": 2423,
+          "recovered": 76076
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 104424,
+          "confirmed": 105918,
           "date": "2021-04-02",
-          "deaths": 1980,
-          "recovered": 85286
+          "deaths": 2004,
+          "recovered": 85813
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 163441,
+          "confirmed": 164605,
           "date": "2021-04-02",
-          "deaths": 3449,
-          "recovered": 106217
+          "deaths": 3495,
+          "recovered": 106788
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 96285,
+          "confirmed": 97441,
           "date": "2021-04-02",
-          "deaths": 1642,
-          "recovered": 78249
+          "deaths": 1669,
+          "recovered": 78803
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 104811,
+          "confirmed": 106479,
           "date": "2021-04-02",
-          "deaths": 2654,
-          "recovered": 79625
+          "deaths": 2672,
+          "recovered": 80140
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 108871,
+          "confirmed": 110479,
           "date": "2021-04-02",
-          "deaths": 1830,
-          "recovered": 83179
+          "deaths": 1874,
+          "recovered": 83306
         }
       }
     }
