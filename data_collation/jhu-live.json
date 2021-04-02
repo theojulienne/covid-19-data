@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 171324,
+      "confirmed": 173478,
       "date": "2021-04-02",
-      "deaths": 6675,
-      "recovered": 131166
+      "deaths": 6763,
+      "recovered": 131726
     }
   },
   "Brazil": {
@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 312362,
+          "confirmed": 313676,
           "date": "2021-04-02",
-          "deaths": 10676,
+          "deaths": 10681,
           "recovered": 292648
         }
       }
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 96422,
+          "confirmed": 97259,
           "date": "2021-04-02",
-          "deaths": 1598,
-          "recovered": 89745
+          "deaths": 1608,
+          "recovered": 90475
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 422691,
+          "confirmed": 425592,
           "date": "2021-04-02",
-          "deaths": 12903,
-          "recovered": 394121
+          "deaths": 12927,
+          "recovered": 396188
         }
       }
     }
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 147474,
+          "confirmed": 147950,
           "date": "2021-04-02",
-          "deaths": 3071,
-          "recovered": 135000
+          "deaths": 3081,
+          "recovered": 135200
         }
       },
       "Brandenburg": {
@@ -623,10 +623,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 223882,
+          "confirmed": 225160,
           "date": "2021-04-02",
-          "deaths": 8405,
-          "recovered": 197600
+          "deaths": 8424,
+          "recovered": 200100
         }
       },
       "Thuringen": {
@@ -877,9 +877,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 236600,
+      "confirmed": 237187,
       "date": "2021-04-02",
-      "deaths": 4705,
+      "deaths": 4713,
       "recovered": 23364
     }
   },
@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 726435,
+          "confirmed": 732232,
           "date": "2021-04-02",
-          "deaths": 22863,
+          "deaths": 22925,
           "recovered": 0
         }
       }
@@ -1301,10 +1301,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 822314,
+      "confirmed": 822862,
       "date": "2021-04-02",
-      "deaths": 16859,
-      "recovered": 778912
+      "deaths": 16868,
+      "recovered": 779655
     }
   },
   "Qatar": {
@@ -1488,7 +1488,7 @@
       "confirmed": 92917,
       "date": "2021-04-02",
       "deaths": 571,
-      "recovered": 89407
+      "recovered": 89701
     }
   },
   "Sweden": {
@@ -1638,9 +1638,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1256985,
+          "confirmed": 1259383,
           "date": "2021-04-02",
-          "deaths": 37981
+          "deaths": 37990
         }
       },
       "North Carolina": {
