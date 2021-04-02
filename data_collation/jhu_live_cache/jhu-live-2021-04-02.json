@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 231265,
+      "confirmed": 231973,
       "date": "2021-04-02",
-      "deaths": 2423,
-      "recovered": 219695
+      "deaths": 2424,
+      "recovered": 220354
     }
   },
   "Dominican Republic": {
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 503897,
+          "confirmed": 504112,
           "date": "2021-04-02",
-          "deaths": 13294,
+          "deaths": 13293,
           "recovered": 453400
         }
       },
@@ -1361,10 +1361,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 390597,
+      "confirmed": 391325,
       "date": "2021-04-02",
-      "deaths": 6676,
-      "recovered": 378469
+      "deaths": 6684,
+      "recovered": 378873
     }
   },
   "Serbia": {
@@ -1822,9 +1822,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 244645,
+      "confirmed": 246893,
       "date": "2021-04-02",
-      "deaths": 2645,
+      "deaths": 2661,
       "recovered": 217224
     }
   }
