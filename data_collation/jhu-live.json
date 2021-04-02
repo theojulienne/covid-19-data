@@ -162,7 +162,7 @@
           "confirmed": 808461,
           "date": "2021-04-02",
           "deaths": 15472,
-          "recovered": 776831
+          "recovered": 780270
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 541227,
           "date": "2021-04-02",
           "deaths": 14167,
-          "recovered": 383785
+          "recovered": 383864
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 486646,
           "date": "2021-04-02",
           "deaths": 11725,
-          "recovered": 462167
+          "recovered": 463433
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 1135856,
           "date": "2021-04-02",
           "deaths": 24728,
-          "recovered": 1016078
+          "recovered": 1025093
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 206631,
           "date": "2021-04-02",
           "deaths": 4141,
-          "recovered": 201169
+          "recovered": 202330
         }
       },
       "Rio Grande do Norte": {
@@ -579,14 +579,6 @@
           "date": "2021-04-02",
           "deaths": 3081,
           "recovered": 135200
-        }
-      },
-      "Brandenburg": {
-        "live": {
-          "confirmed": 89195,
-          "date": "2021-04-02",
-          "deaths": 3309,
-          "recovered": 78570
         }
       },
       "Hessen": {
@@ -1576,9 +1568,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1133758,
+          "confirmed": 1137544,
           "date": "2021-04-02",
-          "deaths": 15307
+          "deaths": 15347
         }
       },
       "Georgia": {
@@ -1611,9 +1603,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 120222,
+          "confirmed": 210462,
           "date": "2021-04-02",
-          "deaths": 4264
+          "deaths": 6339
         }
       },
       "Minnesota": {
@@ -1688,9 +1680,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 236965,
+          "confirmed": 237215,
           "date": "2021-04-02",
-          "deaths": 1189
+          "deaths": 1192
         }
       },
       "Washington": {
@@ -1702,9 +1694,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 110413,
+          "confirmed": 110601,
           "date": "2021-04-02",
-          "deaths": 1306
+          "deaths": 1307
         }
       }
     }
