@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 274054,
+      "confirmed": 276416,
       "date": "2021-04-02",
-      "deaths": 5967,
-      "recovered": 255639
+      "deaths": 5996,
+      "recovered": 257309
     }
   },
   "Czechia": {
@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 89194,
+          "confirmed": 89195,
           "date": "2021-04-02",
           "deaths": 3309,
           "recovered": 78570
@@ -599,7 +599,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 199767,
+          "confirmed": 200371,
           "date": "2021-04-02",
           "deaths": 4892,
           "recovered": 179000
@@ -987,10 +987,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 120691,
+          "confirmed": 121131,
           "date": "2021-04-02",
           "deaths": 1764,
-          "recovered": 116012
+          "recovered": 116257
         }
       }
     }
@@ -1285,10 +1285,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 756199,
+      "confirmed": 771497,
       "date": "2021-04-02",
-      "deaths": 13303,
-      "recovered": 603948
+      "deaths": 13320,
+      "recovered": 604368
     }
   },
   "Poland": {
