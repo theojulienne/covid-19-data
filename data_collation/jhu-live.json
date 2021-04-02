@@ -649,9 +649,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 267172,
+      "confirmed": 270230,
       "date": "2021-04-02",
-      "deaths": 8160,
+      "deaths": 8232,
       "recovered": 93764
     }
   },
@@ -997,10 +997,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 618059,
+      "confirmed": 622833,
       "date": "2021-04-02",
-      "deaths": 6940,
-      "recovered": 520498
+      "deaths": 7039,
+      "recovered": 525703
     }
   },
   "Kazakhstan": {
@@ -1013,10 +1013,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 135042,
+      "confirmed": 136893,
       "date": "2021-04-02",
-      "deaths": 2167,
-      "recovered": 93067
+      "deaths": 2186,
+      "recovered": 93430
     }
   },
   "Korea, South": {
@@ -1589,9 +1589,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 93681,
+          "confirmed": 93810,
           "date": "2021-04-02",
-          "deaths": 1697
+          "deaths": 1699
         }
       },
       "Massachusetts": {
@@ -1610,9 +1610,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 108453,
+          "confirmed": 109060,
           "date": "2021-04-02",
-          "deaths": 1647
+          "deaths": 1648
         }
       },
       "Missouri": {
@@ -1772,25 +1772,25 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3804506,
+          "confirmed": 3807387,
           "date": "2021-04-02",
-          "deaths": 111530,
+          "deaths": 111577,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 117396,
+          "confirmed": 117503,
           "date": "2021-04-02",
-          "deaths": 2115,
+          "deaths": 2116,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 218832,
+          "confirmed": 219246,
           "date": "2021-04-02",
-          "deaths": 7610,
+          "deaths": 7614,
           "recovered": 0
         }
       },
