@@ -875,7 +875,8 @@ var covid19_dataset_country_bwa = {
       38466,
       39848,
       39848,
-      39848
+      39848,
+      40878
     ],
     "deaths": [
       0,
@@ -1312,7 +1313,8 @@ var covid19_dataset_country_bwa = {
       506,
       568,
       568,
-      568
+      568,
+      591
     ],
     "recovered": [
       0,
@@ -1747,6 +1749,7 @@ var covid19_dataset_country_bwa = {
       33903,
       33903,
       33903,
+      36958,
       36958,
       36958,
       36958

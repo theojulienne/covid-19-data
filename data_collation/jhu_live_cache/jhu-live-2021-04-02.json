@@ -562,7 +562,7 @@
           "confirmed": 367731,
           "date": "2021-04-02",
           "deaths": 8728,
-          "recovered": 329300
+          "recovered": 331000
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 503897,
           "date": "2021-04-02",
           "deaths": 13294,
-          "recovered": 451300
+          "recovered": 453400
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 147474,
           "date": "2021-04-02",
           "deaths": 3071,
-          "recovered": 134600
+          "recovered": 135000
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 89194,
           "date": "2021-04-02",
           "deaths": 3309,
-          "recovered": 78140
+          "recovered": 78570
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 221480,
           "date": "2021-04-02",
           "deaths": 6351,
-          "recovered": 194800
+          "recovered": 195800
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 199767,
           "date": "2021-04-02",
           "deaths": 4892,
-          "recovered": 177600
+          "recovered": 179000
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 617617,
           "date": "2021-04-02",
           "deaths": 14269,
-          "recovered": 551400
+          "recovered": 554100
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 117681,
           "date": "2021-04-02",
           "deaths": 3334,
-          "recovered": 104800
+          "recovered": 105300
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 96262,
           "date": "2021-04-02",
           "deaths": 3367,
-          "recovered": 82490
+          "recovered": 83020
         }
       }
     }
@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 189043,
+      "confirmed": 189726,
       "date": "2021-04-02",
-      "deaths": 4605,
-      "recovered": 72732
+      "deaths": 4622,
+      "recovered": 73308
     }
   },
   "Hungary": {
@@ -1814,10 +1814,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 160497,
+      "confirmed": 161751,
       "date": "2021-04-02",
-      "deaths": 1602,
-      "recovered": 147846
+      "deaths": 1615,
+      "recovered": 148656
     }
   },
   "West Bank and Gaza": {
