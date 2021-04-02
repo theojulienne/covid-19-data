@@ -1249,10 +1249,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 355051,
+      "confirmed": 355499,
       "date": "2021-04-02",
-      "deaths": 6114,
-      "recovered": 343904
+      "deaths": 6119,
+      "recovered": 344327
     }
   },
   "Paraguay": {
@@ -1798,10 +1798,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 105549,
+      "confirmed": 108188,
       "date": "2021-04-02",
-      "deaths": 974,
-      "recovered": 83380
+      "deaths": 1009,
+      "recovered": 85200
     }
   },
   "Venezuela": {
