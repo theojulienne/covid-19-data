@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 617764,
+      "confirmed": 624594,
       "date": "2021-04-02",
-      "deaths": 9105,
-      "recovered": 544938
+      "deaths": 9155,
+      "recovered": 547411
     }
   },
   "Belarus": {
@@ -853,10 +853,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1517854,
+      "confirmed": 1523179,
       "date": "2021-04-02",
-      "deaths": 41054,
-      "recovered": 1355578
+      "deaths": 41151,
+      "recovered": 1361017
     }
   },
   "Iran": {
