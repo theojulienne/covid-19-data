@@ -615,9 +615,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 118275,
+          "confirmed": 118809,
           "date": "2021-04-03",
-          "deaths": 3337,
+          "deaths": 3340,
           "recovered": 105800
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1908974,
+      "confirmed": 1920394,
       "date": "2021-04-03",
-      "deaths": 62876,
-      "recovered": 1633949
+      "deaths": 62999,
+      "recovered": 1642418
     }
   },
   "Iraq": {
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 347972,
+      "confirmed": 349610,
       "date": "2021-04-03",
-      "deaths": 1283,
-      "recovered": 332443
+      "deaths": 1286,
+      "recovered": 333892
     }
   },
   "Mexico": {
@@ -1145,10 +1145,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 277640,
+      "confirmed": 277768,
       "date": "2021-04-03",
-      "deaths": 3031,
-      "recovered": 272962
+      "deaths": 3032,
+      "recovered": 273123
     }
   },
   "Netherlands": {
@@ -1309,18 +1309,18 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 181678,
+      "confirmed": 182548,
       "date": "2021-04-03",
-      "deaths": 298,
-      "recovered": 165003
+      "deaths": 301,
+      "recovered": 165471
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 964726,
+      "confirmed": 970224,
       "date": "2021-04-03",
-      "deaths": 23819,
-      "recovered": 862137
+      "deaths": 23973,
+      "recovered": 867663
     }
   },
   "Russia": {
@@ -1673,7 +1673,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1256925,
+          "confirmed": 1257067,
           "date": "2021-04-03",
           "deaths": 18926
         }
@@ -1755,10 +1755,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 465939,
+      "confirmed": 468023,
       "date": "2021-04-03",
-      "deaths": 1502,
-      "recovered": 450111
+      "deaths": 1504,
+      "recovered": 452321
     }
   },
   "United Kingdom": {
