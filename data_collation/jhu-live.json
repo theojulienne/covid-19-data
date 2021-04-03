@@ -314,7 +314,7 @@
           "confirmed": 813871,
           "date": "2021-04-03",
           "deaths": 11125,
-          "recovered": 769659
+          "recovered": 773868
         }
       },
       "Sao Paulo": {
@@ -562,7 +562,7 @@
           "confirmed": 370330,
           "date": "2021-04-03",
           "deaths": 8737,
-          "recovered": 331000
+          "recovered": 332700
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 506786,
           "date": "2021-04-03",
           "deaths": 13303,
-          "recovered": 453400
+          "recovered": 455400
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 147958,
           "date": "2021-04-03",
           "deaths": 3081,
-          "recovered": 135200
+          "recovered": 135500
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 89709,
           "date": "2021-04-03",
           "deaths": 3313,
-          "recovered": 78570
+          "recovered": 78940
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 223165,
           "date": "2021-04-03",
           "deaths": 6365,
-          "recovered": 195800
+          "recovered": 196900
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 201024,
           "date": "2021-04-03",
           "deaths": 4898,
-          "recovered": 179000
+          "recovered": 180100
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 621574,
           "date": "2021-04-03",
           "deaths": 14296,
-          "recovered": 554100
+          "recovered": 556900
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 118275,
           "date": "2021-04-03",
           "deaths": 3337,
-          "recovered": 105300
+          "recovered": 105800
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 97010,
           "date": "2021-04-03",
           "deaths": 3374,
-          "recovered": 83020
+          "recovered": 83650
         }
       }
     }
