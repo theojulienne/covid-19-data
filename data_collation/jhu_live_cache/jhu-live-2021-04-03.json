@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 112704,
+          "confirmed": 113315,
           "date": "2021-04-03",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 110226,
+          "confirmed": 110737,
           "date": "2021-04-03",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 100629,
+          "confirmed": 101251,
           "date": "2021-04-03",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 132025,
+          "confirmed": 132754,
           "date": "2021-04-03",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 112600,
+          "confirmed": 112995,
           "date": "2021-04-03",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 273327,
+      "confirmed": 273947,
       "date": "2021-04-03",
-      "deaths": 12280,
-      "recovered": 222924
+      "deaths": 12305,
+      "recovered": 223760
     }
   },
   "Bosnia and Herzegovina": {
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 104194,
+      "confirmed": 104736,
       "date": "2021-04-03",
-      "deaths": 1737,
-      "recovered": 95861
+      "deaths": 1740,
+      "recovered": 96196
     }
   },
   "Kosovo": {
@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 732232,
+          "confirmed": 734859,
           "date": "2021-04-03",
-          "deaths": 22925,
+          "deaths": 22996,
           "recovered": 0
         }
       }
