@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 231973,
+      "confirmed": 232718,
       "date": "2021-04-03",
-      "deaths": 2424,
-      "recovered": 220354
+      "deaths": 2428,
+      "recovered": 221004
     }
   },
   "Dominican Republic": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 506786,
+          "confirmed": 506893,
           "date": "2021-04-03",
           "deaths": 13303,
           "recovered": 455400
@@ -623,10 +623,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 225163,
+          "confirmed": 226162,
           "date": "2021-04-03",
-          "deaths": 8425,
-          "recovered": 200100
+          "deaths": 8430,
+          "recovered": 201000
         }
       },
       "Thuringen": {
@@ -1617,7 +1617,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 93062,
+          "confirmed": 93187,
           "date": "2021-04-03",
           "deaths": 2102
         }
