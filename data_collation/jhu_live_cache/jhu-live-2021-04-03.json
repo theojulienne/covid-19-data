@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 833707,
+      "confirmed": 834070,
       "date": "2021-04-03",
-      "deaths": 6220,
-      "recovered": 820906
+      "deaths": 6236,
+      "recovered": 821748
     }
   },
   "Italy": {
@@ -1061,10 +1061,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 474925,
+      "confirmed": 477113,
       "date": "2021-04-03",
-      "deaths": 6346,
-      "recovered": 377136
+      "deaths": 6379,
+      "recovered": 380472
     }
   },
   "Libya": {
@@ -1145,10 +1145,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 497257,
+      "confirmed": 497832,
       "date": "2021-04-03",
-      "deaths": 8835,
-      "recovered": 484224
+      "deaths": 8842,
+      "recovered": 484793
     }
   },
   "Nepal": {
@@ -1213,10 +1213,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 132740,
+      "confirmed": 134134,
       "date": "2021-04-03",
-      "deaths": 3860,
-      "recovered": 108197
+      "deaths": 3905,
+      "recovered": 108676
     }
   },
   "Norway": {
@@ -1576,9 +1576,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1137544,
+          "confirmed": 1141182,
           "date": "2021-04-03",
-          "deaths": 15347
+          "deaths": 15380
         }
       },
       "Georgia": {
@@ -1590,9 +1590,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 500914,
+          "confirmed": 502207,
           "date": "2021-04-03",
-          "deaths": 9687
+          "deaths": 9693
         }
       },
       "Indiana": {
@@ -1632,16 +1632,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 235081,
+          "confirmed": 235444,
           "date": "2021-04-03",
-          "deaths": 4119
+          "deaths": 4132
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 92547,
+          "confirmed": 93058,
           "date": "2021-04-03",
-          "deaths": 2745
+          "deaths": 2748
         }
       },
       "New York": {
@@ -1688,9 +1688,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 237215,
+          "confirmed": 237462,
           "date": "2021-04-03",
-          "deaths": 1192
+          "deaths": 1193
         }
       },
       "Washington": {
