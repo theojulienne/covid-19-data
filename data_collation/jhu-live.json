@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 362909,
+          "confirmed": 363009,
           "date": "2021-04-03",
           "deaths": 7406,
-          "recovered": 333965
+          "recovered": 334011
         }
       },
       "Quebec": {
@@ -877,9 +877,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 237187,
+      "confirmed": 237695,
       "date": "2021-04-03",
-      "deaths": 4713,
+      "deaths": 4715,
       "recovered": 23364
     }
   },
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 97410,
+      "confirmed": 97860,
       "date": "2021-04-03",
       "deaths": 673,
       "recovered": 17998
@@ -1487,8 +1487,8 @@
     "live": {
       "confirmed": 93128,
       "date": "2021-04-03",
-      "deaths": 571,
-      "recovered": 89701
+      "deaths": 575,
+      "recovered": 90021
     }
   },
   "Sweden": {
@@ -1765,15 +1765,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3807387,
+          "confirmed": 3810234,
           "date": "2021-04-03",
-          "deaths": 111577,
+          "deaths": 111585,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 117503,
+          "confirmed": 117587,
           "date": "2021-04-03",
           "deaths": 2116,
           "recovered": 0
@@ -1781,7 +1781,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 219246,
+          "confirmed": 219643,
           "date": "2021-04-03",
           "deaths": 7614,
           "recovered": 0
@@ -1789,9 +1789,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 209532,
+          "confirmed": 209627,
           "date": "2021-04-03",
-          "deaths": 5509,
+          "deaths": 5511,
           "recovered": 0
         }
       }
