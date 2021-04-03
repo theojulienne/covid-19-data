@@ -186,7 +186,7 @@
           "confirmed": 386176,
           "date": "2021-04-02",
           "deaths": 7601,
-          "recovered": 352521
+          "recovered": 353868
         }
       },
       "Goias": {
@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 162997,
+      "confirmed": 163063,
       "date": "2021-04-02",
       "deaths": 2058,
-      "recovered": 151708
+      "recovered": 151835
     }
   },
   "North Macedonia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 97152,
+      "confirmed": 97410,
       "date": "2021-04-02",
       "deaths": 673,
       "recovered": 17998
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 255308,
+      "confirmed": 256931,
       "date": "2021-04-02",
-      "deaths": 8843,
-      "recovered": 217928
+      "deaths": 8890,
+      "recovered": 218377
     }
   },
   "Turkey": {
