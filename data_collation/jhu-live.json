@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 624594,
+      "confirmed": 630277,
       "date": "2021-04-03",
-      "deaths": 9155,
-      "recovered": 547411
+      "deaths": 9213,
+      "recovered": 549775
     }
   },
   "Belarus": {
@@ -1815,10 +1815,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 246893,
+      "confirmed": 248482,
       "date": "2021-04-03",
-      "deaths": 2661,
-      "recovered": 217224
+      "deaths": 2681,
+      "recovered": 220418
     }
   }
 }
