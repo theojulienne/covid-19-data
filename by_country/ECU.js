@@ -878,7 +878,8 @@ var covid19_dataset_country_ecu = {
       327325,
       328755,
       330388,
-      332038
+      332038,
+      333175
     ],
     "deaths": [
       0,
@@ -1317,7 +1318,8 @@ var covid19_dataset_country_ecu = {
       16780,
       16847,
       16877,
-      16910
+      16910,
+      16929
     ],
     "recovered": [
       0,
