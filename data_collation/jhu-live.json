@@ -363,7 +363,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 149207,
+          "confirmed": 150307,
           "date": "2021-04-04",
           "deaths": 1994,
           "recovered": 138560
@@ -390,7 +390,7 @@
           "confirmed": 314958,
           "date": "2021-04-04",
           "deaths": 10684,
-          "recovered": 292648
+          "recovered": 294560
         }
       }
     }
@@ -1257,10 +1257,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 355850,
+      "confirmed": 356073,
       "date": "2021-04-04",
-      "deaths": 6126,
-      "recovered": 344701
+      "deaths": 6131,
+      "recovered": 345120
     }
   },
   "Paraguay": {
