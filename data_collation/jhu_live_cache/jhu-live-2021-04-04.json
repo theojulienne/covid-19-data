@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 556012,
+      "confirmed": 558755,
       "date": "2021-04-04",
-      "deaths": 9434,
-      "recovered": 509550
+      "deaths": 9449,
+      "recovered": 512642
     }
   },
   "Azerbaijan": {
@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 278650,
+      "confirmed": 280026,
       "date": "2021-04-04",
-      "deaths": 6025,
-      "recovered": 258872
+      "deaths": 6058,
+      "recovered": 260536
     }
   },
   "Czechia": {
@@ -561,7 +561,7 @@
         "live": {
           "confirmed": 371389,
           "date": "2021-04-04",
-          "deaths": 8744,
+          "deaths": 8743,
           "recovered": 333900
         }
       },
@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 89948,
+          "confirmed": 89949,
           "date": "2021-04-04",
           "deaths": 3317,
           "recovered": 79210
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 202111,
+          "confirmed": 202490,
           "date": "2021-04-04",
-          "deaths": 4905,
+          "deaths": 4906,
           "recovered": 180800
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 1920394,
+      "confirmed": 1932074,
       "date": "2021-04-04",
-      "deaths": 62999,
-      "recovered": 1642418
+      "deaths": 63160,
+      "recovered": 1650569
     }
   },
   "Iraq": {
@@ -1061,10 +1061,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 161088,
+      "confirmed": 162294,
       "date": "2021-04-04",
-      "deaths": 2684,
-      "recovered": 148288
+      "deaths": 2737,
+      "recovered": 149238
     }
   },
   "Lithuania": {
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 349610,
+      "confirmed": 350959,
       "date": "2021-04-04",
-      "deaths": 1286,
-      "recovered": 333892
+      "deaths": 1288,
+      "recovered": 335162
     }
   },
   "Mexico": {
@@ -1221,10 +1221,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 160018,
+      "confirmed": 163157,
       "date": "2021-04-04",
-      "deaths": 1681,
-      "recovered": 144639
+      "deaths": 1690,
+      "recovered": 146677
     }
   },
   "Pakistan": {
