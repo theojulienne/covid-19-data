@@ -162,7 +162,7 @@
           "confirmed": 813794,
           "date": "2021-04-04",
           "deaths": 15660,
-          "recovered": 780270
+          "recovered": 785652
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 1153526,
           "date": "2021-04-04",
           "deaths": 25534,
-          "recovered": 1030947
+          "recovered": 1031512
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 208974,
           "date": "2021-04-04",
           "deaths": 4212,
-          "recovered": 203487
+          "recovered": 204400
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 859253,
           "date": "2021-04-04",
           "deaths": 20436,
-          "recovered": 816887
+          "recovered": 824026
         }
       },
       "Rio de Janeiro": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 213311,
+      "confirmed": 215189,
       "date": "2021-04-04",
-      "deaths": 2936,
-      "recovered": 161226
+      "deaths": 2963,
+      "recovered": 161968
     }
   },
   "France": {
@@ -1624,7 +1624,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 235444,
+          "confirmed": 235590,
           "date": "2021-04-04",
           "deaths": 4132
         }
@@ -1675,7 +1675,7 @@
         "live": {
           "confirmed": 1258160,
           "date": "2021-04-04",
-          "deaths": 18973
+          "deaths": 18981
         }
       },
       "Utah": {
@@ -1694,7 +1694,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 110754,
+          "confirmed": 110937,
           "date": "2021-04-04",
           "deaths": 1308
         }
