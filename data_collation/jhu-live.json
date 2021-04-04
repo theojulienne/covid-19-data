@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 113315,
+          "confirmed": 113880,
           "date": "2021-04-04",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 110737,
+          "confirmed": 111448,
           "date": "2021-04-04",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 101251,
+          "confirmed": 101894,
           "date": "2021-04-04",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 132754,
+          "confirmed": 133362,
           "date": "2021-04-04",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 112995,
+          "confirmed": 113407,
           "date": "2021-04-04",
           "deaths": 0,
           "recovered": 0
@@ -1265,10 +1265,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 217886,
+      "confirmed": 219393,
       "date": "2021-04-04",
-      "deaths": 4294,
-      "recovered": 178804
+      "deaths": 4344,
+      "recovered": 180369
     }
   },
   "Peru": {
@@ -1807,10 +1807,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 162730,
+      "confirmed": 164337,
       "date": "2021-04-04",
-      "deaths": 1629,
-      "recovered": 149459
+      "deaths": 1647,
+      "recovered": 150374
     }
   },
   "West Bank and Gaza": {
