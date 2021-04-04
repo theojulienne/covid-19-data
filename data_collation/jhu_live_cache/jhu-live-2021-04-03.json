@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2373153,
+      "confirmed": 2383537,
       "date": "2021-04-03",
-      "deaths": 56023,
-      "recovered": 2121954
+      "deaths": 56106,
+      "recovered": 2130640
     }
   },
   "Armenia": {
@@ -170,7 +170,7 @@
           "confirmed": 548635,
           "date": "2021-04-03",
           "deaths": 14334,
-          "recovered": 386368
+          "recovered": 388801
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 387778,
           "date": "2021-04-03",
           "deaths": 7639,
-          "recovered": 353868
+          "recovered": 355742
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 488558,
           "date": "2021-04-03",
           "deaths": 11822,
-          "recovered": 463845
+          "recovered": 465458
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 312625,
           "date": "2021-04-03",
           "deaths": 7785,
-          "recovered": 288740
+          "recovered": 290052
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 422442,
           "date": "2021-04-03",
           "deaths": 10693,
-          "recovered": 393099
+          "recovered": 394451
         }
       },
       "Paraiba": {
@@ -322,7 +322,7 @@
           "confirmed": 2520204,
           "date": "2021-04-03",
           "deaths": 76750,
-          "recovered": 2120478
+          "recovered": 2149176
         }
       },
       "Sergipe": {
@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 163063,
+      "confirmed": 163113,
       "date": "2021-04-03",
       "deaths": 2058,
-      "recovered": 151835
+      "recovered": 151853
     }
   },
   "North Macedonia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 97860,
+      "confirmed": 98102,
       "date": "2021-04-03",
       "deaths": 673,
       "recovered": 17998
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1550724,
+      "confirmed": 1551501,
       "date": "2021-04-03",
-      "deaths": 52946,
-      "recovered": 1475398
+      "deaths": 52954,
+      "recovered": 1476605
     }
   },
   "Spain": {
