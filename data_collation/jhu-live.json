@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 232718,
+      "confirmed": 233318,
       "date": "2021-04-04",
-      "deaths": 2428,
-      "recovered": 221004
+      "deaths": 2429,
+      "recovered": 221590
     }
   },
   "Dominican Republic": {
@@ -623,10 +623,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 226165,
+          "confirmed": 226899,
           "date": "2021-04-04",
-          "deaths": 8430,
-          "recovered": 201000
+          "deaths": 8431,
+          "recovered": 201300
         }
       },
       "Thuringen": {
@@ -1309,10 +1309,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 182548,
+      "confirmed": 183424,
       "date": "2021-04-04",
-      "deaths": 301,
-      "recovered": 165471
+      "deaths": 303,
+      "recovered": 165952
     }
   },
   "Romania": {
