@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 4707488,
+      "confirmed": 4788117,
       "date": "2021-04-04",
-      "deaths": 95677,
-      "recovered": 267607
+      "deaths": 96046,
+      "recovered": 269497
     }
   },
   "Georgia": {
@@ -1137,10 +1137,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 497832,
+      "confirmed": 498197,
       "date": "2021-04-04",
-      "deaths": 8842,
-      "recovered": 484793
+      "deaths": 8850,
+      "recovered": 484921
     }
   },
   "Nepal": {
@@ -1537,10 +1537,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 3445052,
+      "confirmed": 3487050,
       "date": "2021-04-04",
-      "deaths": 32078,
-      "recovered": 3082676
+      "deaths": 32263,
+      "recovered": 3105350
     }
   },
   "US": {
@@ -1568,9 +1568,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1141182,
+          "confirmed": 1144075,
           "date": "2021-04-04",
-          "deaths": 15380
+          "deaths": 15401
         }
       },
       "Georgia": {
@@ -1680,7 +1680,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 237462,
+          "confirmed": 237659,
           "date": "2021-04-04",
           "deaths": 1193
         }
