@@ -1705,50 +1705,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 94707,
+          "confirmed": 95850,
           "date": "2021-04-04",
-          "deaths": 2449,
-          "recovered": 76114
+          "deaths": 2473,
+          "recovered": 76217
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 107388,
+          "confirmed": 108776,
           "date": "2021-04-04",
-          "deaths": 2023,
-          "recovered": 86360
+          "deaths": 2051,
+          "recovered": 86819
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 166658,
+          "confirmed": 167210,
           "date": "2021-04-04",
-          "deaths": 3545,
-          "recovered": 107484
+          "deaths": 3585,
+          "recovered": 107552
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 98807,
+          "confirmed": 99611,
           "date": "2021-04-04",
-          "deaths": 1695,
-          "recovered": 79364
+          "deaths": 1707,
+          "recovered": 79811
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 108017,
+          "confirmed": 108882,
           "date": "2021-04-04",
-          "deaths": 2688,
-          "recovered": 80783
+          "deaths": 2708,
+          "recovered": 81004
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 112000,
+          "confirmed": 113075,
           "date": "2021-04-04",
-          "deaths": 1881,
-          "recovered": 83661
+          "deaths": 1902,
+          "recovered": 83911
         }
       }
     }
