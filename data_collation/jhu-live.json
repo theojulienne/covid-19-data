@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 98167,
+          "confirmed": 98962,
           "date": "2021-04-04",
-          "deaths": 1618,
-          "recovered": 91440
+          "deaths": 1627,
+          "recovered": 92350
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 428817,
+          "confirmed": 431597,
           "date": "2021-04-04",
-          "deaths": 12956,
-          "recovered": 399302
+          "deaths": 13001,
+          "recovered": 402161
         }
       }
     }
@@ -877,9 +877,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 237695,
+      "confirmed": 238148,
       "date": "2021-04-04",
-      "deaths": 4715,
+      "deaths": 4718,
       "recovered": 23364
     }
   },
@@ -987,7 +987,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 121577,
+          "confirmed": 121932,
           "date": "2021-04-04",
           "deaths": 1764,
           "recovered": 116913
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 98102,
+      "confirmed": 98445,
       "date": "2021-04-04",
       "deaths": 673,
       "recovered": 17998
@@ -1617,7 +1617,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 93187,
+          "confirmed": 93344,
           "date": "2021-04-04",
           "deaths": 2103
         }
@@ -1638,9 +1638,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1267577,
+          "confirmed": 1269896,
           "date": "2021-04-04",
-          "deaths": 38118
+          "deaths": 38129
         }
       },
       "North Carolina": {
