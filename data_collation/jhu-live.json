@@ -178,7 +178,7 @@
           "confirmed": 349775,
           "date": "2021-04-05",
           "deaths": 6288,
-          "recovered": 325726
+          "recovered": 329673
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 388600,
           "date": "2021-04-05",
           "deaths": 7672,
-          "recovered": 355742
+          "recovered": 356296
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 489469,
           "date": "2021-04-05",
           "deaths": 11838,
-          "recovered": 467737
+          "recovered": 468971
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 220894,
           "date": "2021-04-05",
           "deaths": 4481,
-          "recovered": 198388
+          "recovered": 202278
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1156435,
           "date": "2021-04-05",
           "deaths": 25654,
-          "recovered": 1031512
+          "recovered": 1033692
         }
       },
       "Para": {
@@ -338,7 +338,7 @@
           "confirmed": 143322,
           "date": "2021-04-05",
           "deaths": 2107,
-          "recovered": 122832
+          "recovered": 123375
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 370062,
+          "confirmed": 370074,
           "date": "2021-04-05",
           "deaths": 7434,
-          "recovered": 338588
+          "recovered": 338598
         }
       },
       "Quebec": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 335681,
+      "confirmed": 336777,
       "date": "2021-04-05",
-      "deaths": 16956,
+      "deaths": 16987,
       "recovered": 290314
     }
   },
@@ -1639,9 +1639,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 93426,
+          "confirmed": 93767,
           "date": "2021-04-05",
-          "deaths": 2747
+          "deaths": 2748
         }
       },
       "New York": {
@@ -1683,14 +1683,14 @@
         "live": {
           "confirmed": 1258957,
           "date": "2021-04-05",
-          "deaths": 18995
+          "deaths": 18996
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 237659,
+          "confirmed": 237765,
           "date": "2021-04-05",
-          "deaths": 1193
+          "deaths": 1194
         }
       },
       "Washington": {
@@ -1702,7 +1702,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 110937,
+          "confirmed": 111014,
           "date": "2021-04-05",
           "deaths": 1308
         }
