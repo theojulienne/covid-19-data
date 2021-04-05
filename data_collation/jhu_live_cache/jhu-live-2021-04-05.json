@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 163113,
+      "confirmed": 163195,
       "date": "2021-04-05",
       "deaths": 2058,
-      "recovered": 151853
+      "recovered": 151998
     }
   },
   "North Macedonia": {
@@ -1799,17 +1799,17 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 113904,
+      "confirmed": 117757,
       "date": "2021-04-05",
-      "deaths": 1071,
+      "deaths": 1101,
       "recovered": 89035
     }
   },
   "Venezuela": {
     "live": {
-      "confirmed": 164337,
+      "confirmed": 166123,
       "date": "2021-04-05",
-      "deaths": 1647,
+      "deaths": 1662,
       "recovered": 150374
     }
   },
