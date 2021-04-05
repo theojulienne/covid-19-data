@@ -1678,19 +1678,19 @@
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 265901,
-        "deaths": 5872,
-        "recovered": 250239
+        "confirmed": 267222,
+        "deaths": 5893,
+        "recovered": 251237
       },
       "back_2week": {
-        "confirmed": 256805,
-        "deaths": 5753,
-        "recovered": 244135
+        "confirmed": 257639,
+        "deaths": 5773,
+        "recovered": 244944
       },
       "latest": {
-        "confirmed": 278650,
-        "deaths": 6025,
-        "recovered": 258872
+        "confirmed": 280026,
+        "deaths": 6058,
+        "recovered": 260536
       }
     },
     "HTI": {
