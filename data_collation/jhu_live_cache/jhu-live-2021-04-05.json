@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 637364,
+      "confirmed": 644439,
       "date": "2021-04-05",
-      "deaths": 9266,
-      "recovered": 552482
+      "deaths": 9318,
+      "recovered": 555414
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 327304,
+      "confirmed": 328290,
       "date": "2021-04-05",
-      "deaths": 2285,
-      "recovered": 318033
+      "deaths": 2294,
+      "recovered": 318756
     }
   },
   "Belgium": {
