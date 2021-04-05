@@ -1309,10 +1309,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 823335,
+      "confirmed": 823494,
       "date": "2021-04-05",
-      "deaths": 16879,
-      "recovered": 780322
+      "deaths": 16885,
+      "recovered": 780643
     }
   },
   "Qatar": {
@@ -1625,7 +1625,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 93344,
+          "confirmed": 93430,
           "date": "2021-04-05",
           "deaths": 2103
         }
