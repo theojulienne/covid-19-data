@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 367501,
+          "confirmed": 369066,
           "date": "2021-04-05",
-          "deaths": 7425,
-          "recovered": 337043
+          "deaths": 7433,
+          "recovered": 337992
         }
       },
       "Quebec": {
@@ -869,10 +869,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 873568,
+      "confirmed": 879991,
       "date": "2021-04-05",
-      "deaths": 14463,
-      "recovered": 778535
+      "deaths": 14502,
+      "recovered": 784199
     }
   },
   "Ireland": {
@@ -1163,7 +1163,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 144153,
+          "confirmed": 144693,
           "date": "2021-04-05",
           "deaths": 1903,
           "recovered": 0
@@ -1171,23 +1171,23 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 205408,
+          "confirmed": 206379,
           "date": "2021-04-05",
-          "deaths": 3013,
+          "deaths": 3014,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 225228,
+          "confirmed": 226082,
           "date": "2021-04-05",
-          "deaths": 2429,
+          "deaths": 2433,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 101515,
+          "confirmed": 101818,
           "date": "2021-04-05",
           "deaths": 1197,
           "recovered": 0
@@ -1195,9 +1195,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 307781,
+          "confirmed": 309146,
           "date": "2021-04-05",
-          "deaths": 4013,
+          "deaths": 4015,
           "recovered": 0
         }
       }
@@ -1221,7 +1221,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 98676,
+      "confirmed": 99026,
       "date": "2021-04-05",
       "deaths": 676,
       "recovered": 17998
@@ -1283,9 +1283,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 736657,
+          "confirmed": 739104,
           "date": "2021-04-05",
-          "deaths": 23141,
+          "deaths": 23253,
           "recovered": 0
         }
       }
@@ -1496,7 +1496,7 @@
       "confirmed": 93436,
       "date": "2021-04-05",
       "deaths": 581,
-      "recovered": 90208
+      "recovered": 90563
     }
   },
   "Sweden": {
