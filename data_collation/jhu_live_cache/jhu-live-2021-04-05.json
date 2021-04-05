@@ -210,7 +210,7 @@
           "confirmed": 313257,
           "date": "2021-04-05",
           "deaths": 7862,
-          "recovered": 290052
+          "recovered": 291209
         }
       },
       "Mato Grosso do Sul": {
@@ -266,7 +266,7 @@
           "confirmed": 209874,
           "date": "2021-04-05",
           "deaths": 4240,
-          "recovered": 204400
+          "recovered": 205341
         }
       },
       "Rio Grande do Norte": {
@@ -1239,26 +1239,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 91439,
+          "confirmed": 92423,
           "date": "2021-04-05",
-          "deaths": 2440,
-          "recovered": 78290
+          "deaths": 2457,
+          "recovered": 78880
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 231073,
+          "confirmed": 233348,
           "date": "2021-04-05",
-          "deaths": 6572,
-          "recovered": 193985
+          "deaths": 6587,
+          "recovered": 195684
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 266378,
+          "confirmed": 266618,
           "date": "2021-04-05",
           "deaths": 4509,
-          "recovered": 256642
+          "recovered": 256706
         }
       }
     }
