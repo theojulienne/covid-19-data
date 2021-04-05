@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 369839,
+          "confirmed": 370062,
           "date": "2021-04-05",
           "deaths": 7434,
-          "recovered": 338496
+          "recovered": 338588
         }
       },
       "Quebec": {
@@ -533,18 +533,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 215189,
+      "confirmed": 217327,
       "date": "2021-04-05",
-      "deaths": 2963,
-      "recovered": 161968
+      "deaths": 3000,
+      "recovered": 163022
     }
   },
   "France": {
     "live": {
-      "confirmed": 4788285,
+      "confirmed": 4799078,
       "date": "2021-04-05",
-      "deaths": 96046,
-      "recovered": 269497
+      "deaths": 96243,
+      "recovered": 269937
     }
   },
   "Georgia": {
@@ -1045,10 +1045,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 237192,
+      "confirmed": 238549,
       "date": "2021-04-05",
-      "deaths": 1353,
-      "recovered": 221943
+      "deaths": 1365,
+      "recovered": 223269
     }
   },
   "Latvia": {
@@ -1145,10 +1145,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 498197,
+      "confirmed": 498329,
       "date": "2021-04-05",
-      "deaths": 8850,
-      "recovered": 484921
+      "deaths": 8857,
+      "recovered": 485162
     }
   },
   "Nepal": {
@@ -1576,9 +1576,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1144075,
+          "confirmed": 1146215,
           "date": "2021-04-05",
-          "deaths": 15401
+          "deaths": 15423
         }
       },
       "Georgia": {
@@ -1590,9 +1590,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 503169,
+          "confirmed": 504203,
           "date": "2021-04-05",
-          "deaths": 9702
+          "deaths": 9708
         }
       },
       "Indiana": {
@@ -1632,7 +1632,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 235590,
+          "confirmed": 235695,
           "date": "2021-04-05",
           "deaths": 4132
         }
@@ -1667,9 +1667,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 130974,
+          "confirmed": 132575,
           "date": "2021-04-05",
-          "deaths": 3282
+          "deaths": 3285
         }
       },
       "Tennessee": {
