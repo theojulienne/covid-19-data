@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 270735,
+      "confirmed": 271834,
       "date": "2021-04-05",
-      "deaths": 3677,
-      "recovered": 241646
+      "deaths": 3711,
+      "recovered": 242293
     }
   },
   "Bahrain": {
@@ -154,7 +154,7 @@
           "confirmed": 352312,
           "date": "2021-04-05",
           "deaths": 12072,
-          "recovered": 298476
+          "recovered": 301338
         }
       },
       "Bahia": {
@@ -194,7 +194,7 @@
           "confirmed": 489469,
           "date": "2021-04-05",
           "deaths": 11838,
-          "recovered": 465458
+          "recovered": 467737
         }
       },
       "Maranhao": {
@@ -322,7 +322,7 @@
           "confirmed": 2527400,
           "date": "2021-04-05",
           "deaths": 77020,
-          "recovered": 2149176
+          "recovered": 2166848
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 143322,
           "date": "2021-04-05",
           "deaths": 2107,
-          "recovered": 122580
+          "recovered": 122832
         }
       }
     }
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 233318,
+      "confirmed": 233797,
       "date": "2021-04-05",
-      "deaths": 2429,
-      "recovered": 221590
+      "deaths": 2430,
+      "recovered": 222152
     }
   },
   "Dominican Republic": {
@@ -1137,10 +1137,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 92519,
+      "confirmed": 92740,
       "date": "2021-04-05",
-      "deaths": 1305,
-      "recovered": 85598
+      "deaths": 1317,
+      "recovered": 86029
     }
   },
   "Morocco": {
@@ -1223,7 +1223,7 @@
     "live": {
       "confirmed": 98676,
       "date": "2021-04-05",
-      "deaths": 673,
+      "deaths": 676,
       "recovered": 17998
     }
   },
@@ -1369,17 +1369,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 392682,
+      "confirmed": 393377,
       "date": "2021-04-05",
-      "deaths": 6697,
-      "recovered": 379816
+      "deaths": 6704,
+      "recovered": 380305
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 617669,
+      "confirmed": 621375,
       "date": "2021-04-05",
-      "deaths": 5458,
+      "deaths": 5497,
       "recovered": 0
     }
   },
@@ -1823,10 +1823,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 251288,
+      "confirmed": 253922,
       "date": "2021-04-05",
-      "deaths": 2706,
-      "recovered": 222007
+      "deaths": 2716,
+      "recovered": 223249
     }
   }
 }
