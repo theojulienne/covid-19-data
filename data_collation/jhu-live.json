@@ -162,7 +162,7 @@
           "confirmed": 815649,
           "date": "2021-04-05",
           "deaths": 15710,
-          "recovered": 785652
+          "recovered": 787720
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 860136,
           "date": "2021-04-05",
           "deaths": 20499,
-          "recovered": 824026
+          "recovered": 826381
         }
       },
       "Rio de Janeiro": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 370074,
+          "confirmed": 370994,
           "date": "2021-04-05",
-          "deaths": 7434,
-          "recovered": 338598
+          "deaths": 7436,
+          "recovered": 339177
         }
       },
       "Quebec": {
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 834563,
+      "confirmed": 834603,
       "date": "2021-04-05",
-      "deaths": 6245,
-      "recovered": 823280
+      "deaths": 6248,
+      "recovered": 823330
     }
   },
   "Italy": {
@@ -1583,7 +1583,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 189652,
+          "confirmed": 189791,
           "date": "2021-04-05",
           "deaths": 2365
         }
@@ -1611,9 +1611,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 213589,
+          "confirmed": 217617,
           "date": "2021-04-05",
-          "deaths": 6359
+          "deaths": 6365
         }
       },
       "Minnesota": {
@@ -1660,7 +1660,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 221525,
+          "confirmed": 222329,
           "date": "2021-04-05",
           "deaths": 3337
         }
