@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 90161,
+          "confirmed": 90162,
           "date": "2021-04-05",
           "deaths": 3321,
           "recovered": 79600
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 202826,
+          "confirmed": 203074,
           "date": "2021-04-05",
-          "deaths": 4908,
+          "deaths": 4909,
           "recovered": 181900
         }
       },
@@ -853,18 +853,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1534255,
+      "confirmed": 1537967,
       "date": "2021-04-05",
-      "deaths": 41669,
-      "recovered": 1375877
+      "deaths": 41815,
+      "recovered": 1381677
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 1932074,
+      "confirmed": 1945964,
       "date": "2021-04-05",
-      "deaths": 63160,
-      "recovered": 1650569
+      "deaths": 63332,
+      "recovered": 1658978
     }
   },
   "Iraq": {
@@ -997,7 +997,7 @@
         "live": {
           "confirmed": 122181,
           "date": "2021-04-05",
-          "deaths": 1764,
+          "deaths": 1767,
           "recovered": 117259
         }
       }
@@ -1069,10 +1069,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 162294,
+      "confirmed": 163442,
       "date": "2021-04-05",
-      "deaths": 2737,
-      "recovered": 149238
+      "deaths": 2757,
+      "recovered": 149836
     }
   },
   "Lithuania": {
@@ -1085,10 +1085,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 350959,
+      "confirmed": 352029,
       "date": "2021-04-05",
-      "deaths": 1288,
-      "recovered": 335162
+      "deaths": 1295,
+      "recovered": 336456
     }
   },
   "Mexico": {
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 277944,
+      "confirmed": 278210,
       "date": "2021-04-05",
-      "deaths": 3032,
-      "recovered": 273240
+      "deaths": 3036,
+      "recovered": 273342
     }
   },
   "Netherlands": {
@@ -1229,10 +1229,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 163157,
+      "confirmed": 164274,
       "date": "2021-04-05",
-      "deaths": 1690,
-      "recovered": 146677
+      "deaths": 1722,
+      "recovered": 147539
     }
   },
   "Pakistan": {
@@ -1325,10 +1325,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 974375,
+      "confirmed": 977986,
       "date": "2021-04-05",
-      "deaths": 24070,
-      "recovered": 871950
+      "deaths": 24190,
+      "recovered": 875487
     }
   },
   "Russia": {
@@ -1681,7 +1681,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1258599,
+          "confirmed": 1258747,
           "date": "2021-04-05",
           "deaths": 18981
         }
@@ -1763,10 +1763,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 470136,
+      "confirmed": 472148,
       "date": "2021-04-05",
-      "deaths": 1510,
-      "recovered": 454600
+      "deaths": 1512,
+      "recovered": 456747
     }
   },
   "United Kingdom": {
