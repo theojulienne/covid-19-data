@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 280164,
+      "confirmed": 280899,
       "date": "2021-04-06",
-      "deaths": 6083,
-      "recovered": 262227
+      "deaths": 6113,
+      "recovered": 263758
     }
   },
   "Czechia": {
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 109781,
+      "confirmed": 110680,
       "date": "2021-04-06",
-      "deaths": 950,
-      "recovered": 87092
+      "deaths": 964,
+      "recovered": 89105
     }
   },
   "Ethiopia": {
@@ -633,10 +633,10 @@
   },
   "Ghana": {
     "live": {
-      "confirmed": 90900,
+      "confirmed": 90946,
       "date": "2021-04-06",
       "deaths": 752,
-      "recovered": 88674
+      "recovered": 88743
     }
   },
   "Greece": {
@@ -987,10 +987,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 122181,
+          "confirmed": 122580,
           "date": "2021-04-06",
           "deaths": 1767,
-          "recovered": 117259
+          "recovered": 117602
         }
       }
     }
@@ -1029,10 +1029,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 91079,
+      "confirmed": 93841,
       "date": "2021-04-06",
-      "deaths": 1892,
-      "recovered": 75850
+      "deaths": 1934,
+      "recovered": 78160
     }
   },
   "Kuwait": {
@@ -1285,18 +1285,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 803398,
+      "confirmed": 812760,
       "date": "2021-04-06",
-      "deaths": 13435,
-      "recovered": 646237
+      "deaths": 13817,
+      "recovered": 646381
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2448463,
+      "confirmed": 2456709,
       "date": "2021-04-06",
-      "deaths": 55005,
-      "recovered": 2009308
+      "deaths": 55065,
+      "recovered": 2036577
     }
   },
   "Portugal": {
@@ -1377,7 +1377,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 365400,
+      "confirmed": 365733,
       "date": "2021-04-06",
       "deaths": 10094,
       "recovered": 255300
@@ -1385,10 +1385,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 220425,
+      "confirmed": 220698,
       "date": "2021-04-06",
-      "deaths": 4082,
-      "recovered": 202239
+      "deaths": 4089,
+      "recovered": 203214
     }
   },
   "South Africa": {
