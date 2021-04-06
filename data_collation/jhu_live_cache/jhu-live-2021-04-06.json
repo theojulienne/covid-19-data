@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 560972,
+      "confirmed": 562907,
       "date": "2021-04-06",
-      "deaths": 9482,
-      "recovered": 516084
+      "deaths": 9517,
+      "recovered": 519202
     }
   },
   "Azerbaijan": {
@@ -591,9 +591,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 203209,
+          "confirmed": 203363,
           "date": "2021-04-06",
-          "deaths": 4911,
+          "deaths": 4914,
           "recovered": 183400
         }
       },
@@ -845,18 +845,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1537967,
+      "confirmed": 1542516,
       "date": "2021-04-06",
-      "deaths": 41815,
-      "recovered": 1381677
+      "deaths": 41977,
+      "recovered": 1385973
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 1945964,
+      "confirmed": 1963394,
       "date": "2021-04-06",
-      "deaths": 63332,
-      "recovered": 1658978
+      "deaths": 63506,
+      "recovered": 1667079
     }
   },
   "Iraq": {
@@ -1045,9 +1045,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 104224,
+      "confirmed": 104533,
       "date": "2021-04-06",
-      "deaths": 1934,
+      "deaths": 1937,
       "recovered": 95758
     }
   },
@@ -1061,10 +1061,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 163442,
+      "confirmed": 164318,
       "date": "2021-04-06",
-      "deaths": 2757,
-      "recovered": 149836
+      "deaths": 2765,
+      "recovered": 150478
     }
   },
   "Lithuania": {
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 352029,
+      "confirmed": 353329,
       "date": "2021-04-06",
-      "deaths": 1295,
-      "recovered": 336456
+      "deaths": 1300,
+      "recovered": 337868
     }
   },
   "Mexico": {
@@ -1221,10 +1221,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 164274,
+      "confirmed": 165480,
       "date": "2021-04-06",
-      "deaths": 1722,
-      "recovered": 147539
+      "deaths": 1728,
+      "recovered": 148303
     }
   },
   "Pakistan": {
