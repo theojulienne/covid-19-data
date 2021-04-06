@@ -1882,19 +1882,19 @@ var covid19_dataset_latest_totals = {
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 589316,
-        "deaths": 6554,
-        "recovered": 485507
+        "confirmed": 597256,
+        "deaths": 6651,
+        "recovered": 494417
       },
       "back_2week": {
-        "confirmed": 535455,
-        "deaths": 5876,
-        "recovered": 434167
+        "confirmed": 544724,
+        "deaths": 5985,
+        "recovered": 441239
       },
       "latest": {
-        "confirmed": 632907,
-        "deaths": 7201,
-        "recovered": 543761
+        "confirmed": 639444,
+        "deaths": 7283,
+        "recovered": 552764
       }
     },
     "JPN": {
