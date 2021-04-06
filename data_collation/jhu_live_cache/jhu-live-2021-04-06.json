@@ -218,7 +218,7 @@
           "confirmed": 221725,
           "date": "2021-04-06",
           "deaths": 4513,
-          "recovered": 202278
+          "recovered": 203050
         }
       },
       "Minas Gerais": {
@@ -266,7 +266,7 @@
           "confirmed": 210843,
           "date": "2021-04-06",
           "deaths": 4268,
-          "recovered": 205341
+          "recovered": 206802
         }
       },
       "Rio Grande do Norte": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 373246,
+          "confirmed": 374257,
           "date": "2021-04-06",
-          "deaths": 7445,
-          "recovered": 340857
+          "deaths": 7447,
+          "recovered": 341478
         }
       },
       "Quebec": {
@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 216764,
+      "confirmed": 219846,
       "date": "2021-04-06",
-      "deaths": 2957,
-      "recovered": 192699
+      "deaths": 3000,
+      "recovered": 193857
     }
   },
   "Croatia": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 217327,
+      "confirmed": 219381,
       "date": "2021-04-06",
-      "deaths": 3000,
-      "recovered": 163022
+      "deaths": 3025,
+      "recovered": 163956
     }
   },
   "France": {
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 261177,
+      "confirmed": 263043,
       "date": "2021-04-06",
-      "deaths": 8993,
-      "recovered": 219912
+      "deaths": 9039,
+      "recovered": 220645
     }
   },
   "Turkey": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2768737,
+          "confirmed": 2769084,
           "date": "2021-04-06",
-          "deaths": 46965
+          "deaths": 47005
         }
       },
       "Connecticut": {
@@ -1575,9 +1575,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 189791,
+          "confirmed": 190109,
           "date": "2021-04-06",
-          "deaths": 2365
+          "deaths": 2368
         }
       },
       "Illinois": {
@@ -1666,9 +1666,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 90982,
+          "confirmed": 91035,
           "date": "2021-04-06",
-          "deaths": 1564
+          "deaths": 1565
         }
       },
       "Texas": {
