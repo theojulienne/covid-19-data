@@ -543,7 +543,7 @@
     "live": {
       "confirmed": 4799078,
       "date": "2021-04-06",
-      "deaths": 96243,
+      "deaths": 96246,
       "recovered": 269937
     }
   },
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 511196,
+          "confirmed": 511367,
           "date": "2021-04-06",
-          "deaths": 13344,
+          "deaths": 13345,
           "recovered": 461400
         }
       },
@@ -1488,7 +1488,7 @@
       "confirmed": 93595,
       "date": "2021-04-06",
       "deaths": 581,
-      "recovered": 90563
+      "recovered": 90708
     }
   },
   "Sweden": {

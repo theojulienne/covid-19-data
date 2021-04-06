@@ -1310,17 +1310,17 @@
     "FRA": {
       "back_1week": {
         "confirmed": 4513685,
-        "deaths": 94028,
+        "deaths": 94388,
         "recovered": 260389
       },
       "back_2week": {
         "confirmed": 4252919,
-        "deaths": 91737,
+        "deaths": 92080,
         "recovered": 251238
       },
       "latest": {
         "confirmed": 4788117,
-        "deaths": 96046,
+        "deaths": 96243,
         "recovered": 269497
       },
       "states": {
@@ -2122,17 +2122,17 @@
       "back_1week": {
         "confirmed": 92088,
         "deaths": 561,
-        "recovered": 88623
+        "recovered": 88914
       },
       "back_2week": {
         "confirmed": 90200,
         "deaths": 546,
-        "recovered": 86759
+        "recovered": 87058
       },
       "latest": {
         "confirmed": 93436,
         "deaths": 581,
-        "recovered": 90208
+        "recovered": 90563
       }
     },
     "LSO": {
