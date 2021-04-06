@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 644439,
+      "confirmed": 651652,
       "date": "2021-04-06",
-      "deaths": 9318,
-      "recovered": 555414
+      "deaths": 9384,
+      "recovered": 558383
     }
   },
   "Belarus": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 233797,
+      "confirmed": 234317,
       "date": "2021-04-06",
-      "deaths": 2430,
-      "recovered": 222152
+      "deaths": 2432,
+      "recovered": 223012
     }
   },
   "Dominican Republic": {
@@ -559,10 +559,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 372408,
+          "confirmed": 373193,
           "date": "2021-04-06",
-          "deaths": 8748,
-          "recovered": 333900
+          "deaths": 8761,
+          "recovered": 337300
         }
       },
       "Bayern": {
@@ -607,9 +607,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 119753,
+          "confirmed": 120117,
           "date": "2021-04-06",
-          "deaths": 3343,
+          "deaths": 3353,
           "recovered": 107300
         }
       },
@@ -1029,10 +1029,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 93841,
+      "confirmed": 94330,
       "date": "2021-04-06",
-      "deaths": 1934,
-      "recovered": 78160
+      "deaths": 1942,
+      "recovered": 78914
     }
   },
   "Kuwait": {
@@ -1495,7 +1495,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 124712,
+          "confirmed": 126645,
           "date": "2021-04-06",
           "deaths": 1643,
           "recovered": 0
@@ -1503,17 +1503,17 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 194252,
+          "confirmed": 199728,
           "date": "2021-04-06",
-          "deaths": 4029,
+          "deaths": 4042,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 145238,
+          "confirmed": 149331,
           "date": "2021-04-06",
-          "deaths": 2213,
+          "deaths": 2221,
           "recovered": 0
         }
       }
@@ -1521,9 +1521,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 605342,
+      "confirmed": 610274,
       "date": "2021-04-06",
-      "deaths": 10377,
+      "deaths": 10398,
       "recovered": 317600
     }
   },
