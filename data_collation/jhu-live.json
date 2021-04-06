@@ -549,10 +549,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 284061,
+      "confirmed": 284958,
       "date": "2021-04-06",
-      "deaths": 3822,
-      "recovered": 275024
+      "deaths": 3832,
+      "recovered": 275220
     }
   },
   "Germany": {
@@ -570,7 +570,7 @@
           "confirmed": 511196,
           "date": "2021-04-06",
           "deaths": 13344,
-          "recovered": 458700
+          "recovered": 461400
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 149239,
           "date": "2021-04-06",
           "deaths": 3086,
-          "recovered": 136600
+          "recovered": 137300
         }
       },
       "Hessen": {
@@ -586,7 +586,7 @@
           "confirmed": 225220,
           "date": "2021-04-06",
           "deaths": 6381,
-          "recovered": 198300
+          "recovered": 199500
         }
       },
       "Niedersachsen": {
@@ -594,7 +594,7 @@
           "confirmed": 203209,
           "date": "2021-04-06",
           "deaths": 4911,
-          "recovered": 181900
+          "recovered": 183400
         }
       },
       "Nordrhein-Westfalen": {
@@ -602,7 +602,7 @@
           "confirmed": 627782,
           "date": "2021-04-06",
           "deaths": 14344,
-          "recovered": 561400
+          "recovered": 564700
         }
       },
       "Rheinland-Pfalz": {
@@ -610,7 +610,7 @@
           "confirmed": 119753,
           "date": "2021-04-06",
           "deaths": 3343,
-          "recovered": 106800
+          "recovered": 107300
         }
       },
       "Sachsen": {
@@ -626,7 +626,7 @@
           "confirmed": 97990,
           "date": "2021-04-06",
           "deaths": 3393,
-          "recovered": 84720
+          "recovered": 85400
         }
       }
     }
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 834603,
+      "confirmed": 834822,
       "date": "2021-04-06",
-      "deaths": 6248,
-      "recovered": 823330
+      "deaths": 6253,
+      "recovered": 823527
     }
   },
   "Italy": {
@@ -1048,7 +1048,7 @@
       "confirmed": 104224,
       "date": "2021-04-06",
       "deaths": 1934,
-      "recovered": 95561
+      "recovered": 95758
     }
   },
   "Lebanon": {
@@ -1069,10 +1069,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 220212,
+      "confirmed": 220900,
       "date": "2021-04-06",
-      "deaths": 3615,
-      "recovered": 201727
+      "deaths": 3623,
+      "recovered": 201845
     }
   },
   "Malaysia": {
