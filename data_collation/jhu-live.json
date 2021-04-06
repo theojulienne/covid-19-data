@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 274934,
+      "confirmed": 275392,
       "date": "2021-04-06",
-      "deaths": 12324,
-      "recovered": 224998
+      "deaths": 12344,
+      "recovered": 225483
     }
   },
   "Bosnia and Herzegovina": {
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 307669,
+      "confirmed": 307676,
       "date": "2021-04-06",
-      "deaths": 3242,
-      "recovered": 275334
+      "deaths": 3249,
+      "recovered": 275505
     }
   },
   "Kenya": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2763313,
+          "confirmed": 2768436,
           "date": "2021-04-06",
-          "deaths": 46786
+          "deaths": 46954
         }
       },
       "Connecticut": {
@@ -1640,7 +1640,7 @@
         "live": {
           "confirmed": 1277149,
           "date": "2021-04-06",
-          "deaths": 38239
+          "deaths": 38250
         }
       },
       "North Carolina": {
