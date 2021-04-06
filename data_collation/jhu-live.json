@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 114374,
+          "confirmed": 114648,
           "date": "2021-04-06",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 111938,
+          "confirmed": 112215,
           "date": "2021-04-06",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 102367,
+          "confirmed": 102684,
           "date": "2021-04-06",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 133887,
+          "confirmed": 134107,
           "date": "2021-04-06",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 113694,
+          "confirmed": 113782,
           "date": "2021-04-06",
           "deaths": 0,
           "recovered": 0
@@ -390,7 +390,7 @@
           "confirmed": 317364,
           "date": "2021-04-06",
           "deaths": 10697,
-          "recovered": 294560
+          "recovered": 296396
         }
       }
     }
@@ -562,7 +562,7 @@
           "confirmed": 372408,
           "date": "2021-04-06",
           "deaths": 8748,
-          "recovered": 333900
+          "recovered": 335500
         }
       },
       "Bayern": {
@@ -1087,31 +1087,31 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 612753,
+          "confirmed": 613058,
           "date": "2021-04-06",
-          "deaths": 30686,
+          "deaths": 30741,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 128041,
+          "confirmed": 128076,
           "date": "2021-04-06",
-          "deaths": 10005,
+          "deaths": 10036,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 234620,
+          "confirmed": 234754,
           "date": "2021-04-06",
-          "deaths": 31726,
+          "deaths": 31766,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 120224,
+          "confirmed": 120242,
           "date": "2021-04-06",
           "deaths": 9048,
           "recovered": 0
