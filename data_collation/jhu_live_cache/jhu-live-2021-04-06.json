@@ -138,7 +138,7 @@
           "confirmed": 156522,
           "date": "2021-04-06",
           "deaths": 3665,
-          "recovered": 148876
+          "recovered": 149548
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 264640,
           "date": "2021-04-06",
           "deaths": 5949,
-          "recovered": 186259
+          "recovered": 186879
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 860924,
           "date": "2021-04-06",
           "deaths": 20600,
-          "recovered": 826381
+          "recovered": 833116
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 659237,
           "date": "2021-04-06",
           "deaths": 37693,
-          "recovered": 614214
+          "recovered": 616078
         }
       },
       "Rondonia": {
@@ -1561,9 +1561,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 91364,
+          "confirmed": 91622,
           "date": "2021-04-06",
-          "deaths": 2125
+          "deaths": 2126
         }
       },
       "Florida": {
@@ -1640,7 +1640,7 @@
         "live": {
           "confirmed": 1279714,
           "date": "2021-04-06",
-          "deaths": 38281
+          "deaths": 38289
         }
       },
       "North Carolina": {
@@ -1673,9 +1673,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1262350,
+          "confirmed": 1263186,
           "date": "2021-04-06",
-          "deaths": 19006
+          "deaths": 19034
         }
       },
       "Utah": {
