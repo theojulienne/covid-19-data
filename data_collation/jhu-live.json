@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2769478,
+          "confirmed": 2769689,
           "date": "2021-04-07",
-          "deaths": 47013
+          "deaths": 47015
         }
       },
       "Connecticut": {
@@ -1673,7 +1673,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1263186,
+          "confirmed": 1263565,
           "date": "2021-04-07",
           "deaths": 19034
         }
@@ -1687,9 +1687,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 92476,
+          "confirmed": 92570,
           "date": "2021-04-07",
-          "deaths": 1473
+          "deaths": 1475
         }
       },
       "Wisconsin": {
