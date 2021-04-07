@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 126936,
+      "confirmed": 127192,
       "date": "2021-04-07",
-      "deaths": 2283,
-      "recovered": 95035
+      "deaths": 2291,
+      "recovered": 95600
     }
   },
   "Algeria": {
@@ -301,14 +301,6 @@
           "recovered": 164607
         }
       },
-      "Roraima": {
-        "live": {
-          "confirmed": 90582,
-          "date": "2021-04-07",
-          "deaths": 1362,
-          "recovered": 84118
-        }
-      },
       "Santa Catarina": {
         "live": {
           "confirmed": 821952,
@@ -379,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 375397,
+          "confirmed": 375728,
           "date": "2021-04-07",
-          "deaths": 7456,
-          "recovered": 342414
+          "deaths": 7457,
+          "recovered": 342612
         }
       },
       "Quebec": {
@@ -575,10 +567,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 149840,
+          "confirmed": 150377,
           "date": "2021-04-07",
-          "deaths": 3090,
-          "recovered": 138000
+          "deaths": 3102,
+          "recovered": 138200
         }
       },
       "Hessen": {
@@ -877,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835104,
+      "confirmed": 835163,
       "date": "2021-04-07",
-      "deaths": 6261,
-      "recovered": 823955
+      "deaths": 6262,
+      "recovered": 824110
     }
   },
   "Italy": {
@@ -1403,71 +1395,71 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 511920,
+          "confirmed": 513619,
           "date": "2021-04-07",
-          "deaths": 9276,
+          "deaths": 9315,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 111836,
+          "confirmed": 112210,
           "date": "2021-04-07",
-          "deaths": 3358,
+          "deaths": 3364,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 386482,
+          "confirmed": 386631,
           "date": "2021-04-07",
-          "deaths": 7134,
+          "deaths": 7150,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 176769,
+          "confirmed": 177253,
           "date": "2021-04-07",
-          "deaths": 5762,
+          "deaths": 5771,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 214460,
+          "confirmed": 214908,
           "date": "2021-04-07",
-          "deaths": 6648,
+          "deaths": 6658,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 542879,
+          "confirmed": 543680,
           "date": "2021-04-07",
-          "deaths": 13500,
+          "deaths": 13522,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 117311,
+          "confirmed": 117487,
           "date": "2021-04-07",
-          "deaths": 2342,
+          "deaths": 2345,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 632515,
+          "confirmed": 635461,
           "date": "2021-04-07",
-          "deaths": 14648,
+          "deaths": 14662,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 108939,
+          "confirmed": 108996,
           "date": "2021-04-07",
           "deaths": 1572,
           "recovered": 2180
@@ -1475,9 +1467,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 166088,
+          "confirmed": 166773,
           "date": "2021-04-07",
-          "deaths": 3946,
+          "deaths": 3947,
           "recovered": 16160
         }
       }
@@ -1554,9 +1546,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770037,
+          "confirmed": 2770165,
           "date": "2021-04-07",
-          "deaths": 47016
+          "deaths": 47044
         }
       },
       "Connecticut": {
@@ -1662,6 +1654,13 @@
           "confirmed": 133485,
           "date": "2021-04-07",
           "deaths": 3293
+        }
+      },
+      "Rhode Island": {
+        "live": {
+          "confirmed": 90620,
+          "date": "2021-04-07",
+          "deaths": 1920
         }
       },
       "Tennessee": {
