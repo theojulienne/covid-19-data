@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 329258,
+      "confirmed": 330536,
       "date": "2021-04-07",
-      "deaths": 2304,
-      "recovered": 319601
+      "deaths": 2314,
+      "recovered": 320844
     }
   },
   "Belgium": {
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 177506,
+      "confirmed": 179248,
       "date": "2021-04-07",
-      "deaths": 7052,
-      "recovered": 134700
+      "deaths": 7132,
+      "recovered": 137242
     }
   },
   "Brazil": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 234317,
+      "confirmed": 234931,
       "date": "2021-04-07",
-      "deaths": 2432,
-      "recovered": 223012
+      "deaths": 2435,
+      "recovered": 223824
     }
   },
   "Dominican Republic": {
@@ -1369,9 +1369,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 625773,
+      "confirmed": 629388,
       "date": "2021-04-07",
-      "deaths": 5537,
+      "deaths": 5579,
       "recovered": 0
     }
   },
