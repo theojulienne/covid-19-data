@@ -5319,7 +5319,7 @@ var covid19_dataset_top10_by_deaths = {
           267607,
           269497,
           269937,
-          271172
+          269989
         ]
       }
     },
@@ -14159,7 +14159,8 @@ var covid19_dataset_top10_by_deaths = {
     "2021-04-04",
     "2021-04-05",
     "2021-04-06",
-    "2021-04-07"
+    "2021-04-07",
+    "2021-04-08"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});

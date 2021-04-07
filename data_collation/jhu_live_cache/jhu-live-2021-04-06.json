@@ -9,18 +9,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 117739,
+      "confirmed": 117879,
       "date": "2021-04-06",
-      "deaths": 3108,
-      "recovered": 81994
+      "deaths": 3112,
+      "recovered": 82096
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 2407159,
+      "confirmed": 2428029,
       "date": "2021-04-06",
-      "deaths": 56471,
-      "recovered": 2153509
+      "deaths": 56634,
+      "recovered": 2164045
     }
   },
   "Armenia": {
@@ -258,7 +258,7 @@
           "confirmed": 358505,
           "date": "2021-04-06",
           "deaths": 12479,
-          "recovered": 298206
+          "recovered": 303491
         }
       },
       "Piaui": {
@@ -363,18 +363,18 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 153194,
+          "confirmed": 154125,
           "date": "2021-04-06",
-          "deaths": 1998,
-          "recovered": 140614
+          "deaths": 2001,
+          "recovered": 141315
         }
       },
       "British Columbia": {
         "live": {
-          "confirmed": 100880,
+          "confirmed": 105988,
           "date": "2021-04-06",
-          "deaths": 1463,
-          "recovered": 91732
+          "deaths": 1489,
+          "recovered": 95691
         }
       },
       "Ontario": {
@@ -544,7 +544,7 @@
       "confirmed": 4807123,
       "date": "2021-04-06",
       "deaths": 96672,
-      "recovered": 271172
+      "recovered": 269989
     }
   },
   "Georgia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 99645,
+      "confirmed": 100149,
       "date": "2021-04-06",
       "deaths": 677,
       "recovered": 17998
@@ -1361,10 +1361,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 393377,
+      "confirmed": 394169,
       "date": "2021-04-06",
-      "deaths": 6704,
-      "recovered": 380305
+      "deaths": 6711,
+      "recovered": 380772
     }
   },
   "Serbia": {
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 610274,
       "date": "2021-04-06",
-      "deaths": 10398,
+      "deaths": 10403,
       "recovered": 317600
     }
   },
@@ -1556,7 +1556,7 @@
         "live": {
           "confirmed": 2769179,
           "date": "2021-04-06",
-          "deaths": 47005
+          "deaths": 47013
         }
       },
       "Connecticut": {
