@@ -525,10 +525,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 219381,
+      "confirmed": 221544,
       "date": "2021-04-07",
-      "deaths": 3025,
-      "recovered": 163956
+      "deaths": 3058,
+      "recovered": 166135
     }
   },
   "France": {
@@ -869,10 +869,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835163,
+      "confirmed": 835216,
       "date": "2021-04-07",
-      "deaths": 6262,
-      "recovered": 824110
+      "deaths": 6266,
+      "recovered": 824160
     }
   },
   "Italy": {
@@ -1197,10 +1197,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 136426,
+      "confirmed": 137728,
       "date": "2021-04-07",
-      "deaths": 4022,
-      "recovered": 111139
+      "deaths": 4073,
+      "recovered": 111765
     }
   },
   "Norway": {
@@ -1553,9 +1553,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 91622,
+          "confirmed": 91935,
           "date": "2021-04-07",
-          "deaths": 2126
+          "deaths": 2127
         }
       },
       "Florida": {
@@ -1665,7 +1665,7 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 91035,
+          "confirmed": 91178,
           "date": "2021-04-07",
           "deaths": 1565
         }
