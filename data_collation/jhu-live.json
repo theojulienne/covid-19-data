@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 191136,
+      "confirmed": 192413,
       "date": "2021-04-07",
-      "deaths": 4681,
-      "recovered": 73463
+      "deaths": 4686,
+      "recovered": 73688
     }
   },
   "Hungary": {
