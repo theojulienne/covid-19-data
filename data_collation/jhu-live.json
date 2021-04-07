@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 100045,
+          "confirmed": 100614,
           "date": "2021-04-07",
-          "deaths": 1639,
-          "recovered": 93162
+          "deaths": 1643,
+          "recovered": 94755
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 436060,
+          "confirmed": 438293,
           "date": "2021-04-07",
-          "deaths": 13054,
-          "recovered": 404909
+          "deaths": 13098,
+          "recovered": 410457
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 254603,
+      "confirmed": 254937,
       "date": "2021-04-07",
-      "deaths": 3355,
-      "recovered": 214704
+      "deaths": 3369,
+      "recovered": 214943
     }
   },
   "Ecuador": {
@@ -567,10 +567,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 513600,
+          "confirmed": 513560,
           "date": "2021-04-07",
-          "deaths": 13390,
-          "recovered": 464300
+          "deaths": 13388,
+          "recovered": 464200
         }
       },
       "Berlin": {
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 120135,
+          "confirmed": 120845,
           "date": "2021-04-07",
-          "deaths": 3353,
-          "recovered": 108000
+          "deaths": 3362,
+          "recovered": 108100
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 227885,
+          "confirmed": 229207,
           "date": "2021-04-07",
-          "deaths": 8449,
-          "recovered": 203800
+          "deaths": 8470,
+          "recovered": 205400
         }
       },
       "Thuringen": {
@@ -1485,7 +1485,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 93772,
+      "confirmed": 93910,
       "date": "2021-04-07",
       "deaths": 588,
       "recovered": 90917
