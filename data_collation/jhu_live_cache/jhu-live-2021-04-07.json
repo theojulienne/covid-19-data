@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 377557,
+          "confirmed": 377999,
           "date": "2021-04-07",
           "deaths": 7461,
-          "recovered": 343829
+          "recovered": 344222
         }
       },
       "Quebec": {
@@ -1515,7 +1515,7 @@
     "live": {
       "confirmed": 612575,
       "date": "2021-04-07",
-      "deaths": 10421,
+      "deaths": 10431,
       "recovered": 317600
     }
   },
@@ -1539,9 +1539,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 639586,
+          "confirmed": 640143,
           "date": "2021-04-07",
-          "deaths": 12029
+          "deaths": 12055
         }
       },
       "California": {
@@ -1632,7 +1632,7 @@
         "live": {
           "confirmed": 1285633,
           "date": "2021-04-07",
-          "deaths": 38336
+          "deaths": 38348
         }
       },
       "North Carolina": {
