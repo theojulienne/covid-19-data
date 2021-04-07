@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142530,
+      "confirmed": 142541,
       "date": "2021-04-07",
       "deaths": 3206,
-      "recovered": 131819
+      "recovered": 131829
     }
   },
   "Canada": {
@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 280899,
+      "confirmed": 282548,
       "date": "2021-04-07",
-      "deaths": 6113,
-      "recovered": 263758
+      "deaths": 6149,
+      "recovered": 265038
     }
   },
   "Czechia": {
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 203838,
+          "confirmed": 204161,
           "date": "2021-04-07",
-          "deaths": 4939,
+          "deaths": 4950,
           "recovered": 185100
         }
       },
@@ -853,18 +853,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1542516,
+      "confirmed": 1547376,
       "date": "2021-04-07",
-      "deaths": 41977,
-      "recovered": 1385973
+      "deaths": 42064,
+      "recovered": 1391742
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 1963394,
+      "confirmed": 1984348,
       "date": "2021-04-07",
-      "deaths": 63506,
-      "recovered": 1667079
+      "deaths": 63699,
+      "recovered": 1675891
     }
   },
   "Iraq": {
@@ -1045,9 +1045,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 104533,
+      "confirmed": 105176,
       "date": "2021-04-07",
-      "deaths": 1937,
+      "deaths": 1946,
       "recovered": 96254
     }
   },
@@ -1061,10 +1061,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 164318,
+      "confirmed": 165287,
       "date": "2021-04-07",
-      "deaths": 2765,
-      "recovered": 150478
+      "deaths": 2772,
+      "recovered": 151189
     }
   },
   "Lithuania": {
@@ -1221,10 +1221,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 165480,
+      "confirmed": 166685,
       "date": "2021-04-07",
-      "deaths": 1728,
-      "recovered": 148303
+      "deaths": 1735,
+      "recovered": 149049
     }
   },
   "Pakistan": {
@@ -1385,10 +1385,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 220698,
+      "confirmed": 221890,
       "date": "2021-04-07",
-      "deaths": 4089,
-      "recovered": 203214
+      "deaths": 4092,
+      "recovered": 204497
     }
   },
   "South Africa": {
@@ -1485,9 +1485,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 93690,
+      "confirmed": 93772,
       "date": "2021-04-07",
-      "deaths": 586,
+      "deaths": 588,
       "recovered": 90708
     }
   },
