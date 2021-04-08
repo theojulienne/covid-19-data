@@ -401,19 +401,19 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 167654,
-        "deaths": 6519,
-        "recovered": 129918
+        "confirmed": 169626,
+        "deaths": 6599,
+        "recovered": 130492
       },
       "back_2week": {
-        "confirmed": 156346,
-        "deaths": 6005,
-        "recovered": 126237
+        "confirmed": 158198,
+        "deaths": 6067,
+        "recovered": 127247
       },
       "latest": {
-        "confirmed": 177506,
-        "deaths": 7052,
-        "recovered": 134700
+        "confirmed": 179248,
+        "deaths": 7132,
+        "recovered": 137242
       }
     },
     "BLR": {
@@ -1110,19 +1110,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 229902,
-        "deaths": 2417,
-        "recovered": 218246
+        "confirmed": 230603,
+        "deaths": 2419,
+        "recovered": 218985
       },
       "back_2week": {
-        "confirmed": 227031,
-        "deaths": 2403,
-        "recovered": 215035
+        "confirmed": 225030,
+        "deaths": 2404,
+        "recovered": 215770
       },
       "latest": {
-        "confirmed": 234317,
-        "deaths": 2432,
-        "recovered": 223012
+        "confirmed": 234931,
+        "deaths": 2435,
+        "recovered": 223824
       },
       "states": {
         "Faroe Islands": {
@@ -2120,19 +2120,19 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 92442,
-        "deaths": 566,
-        "recovered": 89090
+        "confirmed": 92706,
+        "deaths": 568,
+        "recovered": 89251
       },
       "back_2week": {
-        "confirmed": 90765,
+        "confirmed": 91018,
         "deaths": 552,
-        "recovered": 87306
+        "recovered": 87630
       },
       "latest": {
-        "confirmed": 93690,
-        "deaths": 586,
-        "recovered": 90708
+        "confirmed": 93910,
+        "deaths": 588,
+        "recovered": 90917
       }
     },
     "LSO": {
@@ -2602,17 +2602,17 @@
     "NOR": {
       "back_1week": {
         "confirmed": 95208,
-        "deaths": 661,
+        "deaths": 673,
         "recovered": 17998
       },
       "back_2week": {
         "confirmed": 89120,
-        "deaths": 649,
+        "deaths": 656,
         "recovered": 17998
       },
       "latest": {
         "confirmed": 100149,
-        "deaths": 677,
+        "deaths": 683,
         "recovered": 17998
       }
     },
@@ -2827,14 +2827,14 @@
         "recovered": 74186
       },
       "back_2week": {
-        "confirmed": 80295,
-        "deaths": 1752,
-        "recovered": 67268
+        "confirmed": 84172,
+        "deaths": 1811,
+        "recovered": 70090
       },
       "latest": {
-        "confirmed": 94330,
-        "deaths": 1942,
-        "recovered": 78914
+        "confirmed": 95015,
+        "deaths": 1956,
+        "recovered": 79702
       }
     },
     "ROU": {
@@ -2890,19 +2890,19 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 389422,
-        "deaths": 6663,
-        "recovered": 377714
+        "confirmed": 390007,
+        "deaths": 6669,
+        "recovered": 378083
       },
       "back_2week": {
-        "confirmed": 385834,
-        "deaths": 6618,
-        "recovered": 375165
+        "confirmed": 386300,
+        "deaths": 6624,
+        "recovered": 375471
       },
       "latest": {
-        "confirmed": 394169,
-        "deaths": 6711,
-        "recovered": 380772
+        "confirmed": 394952,
+        "deaths": 6719,
+        "recovered": 381189
       }
     },
     "SDN": {
@@ -3043,18 +3043,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 595489,
-        "deaths": 5270,
+        "confirmed": 600596,
+        "deaths": 5308,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 561372,
-        "deaths": 5002,
+        "confirmed": 566669,
+        "deaths": 5039,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 625773,
-        "deaths": 5537,
+        "confirmed": 629388,
+        "deaths": 5579,
         "recovered": 0
       }
     },
