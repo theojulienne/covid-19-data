@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 115402,
+          "confirmed": 115979,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 112945,
+          "confirmed": 113439,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 103311,
+          "confirmed": 104042,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 134717,
+          "confirmed": 135387,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 114138,
+          "confirmed": 114560,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -138,7 +138,7 @@
           "confirmed": 158069,
           "date": "2021-04-08",
           "deaths": 3710,
-          "recovered": 149548
+          "recovered": 150949
         }
       },
       "Amapa": {
@@ -162,7 +162,7 @@
           "confirmed": 825015,
           "date": "2021-04-08",
           "deaths": 16107,
-          "recovered": 794967
+          "recovered": 798297
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 395799,
           "date": "2021-04-08",
           "deaths": 7937,
-          "recovered": 366408
+          "recovered": 369225
         }
       },
       "Goias": {
@@ -250,7 +250,7 @@
           "confirmed": 869167,
           "date": "2021-04-08",
           "deaths": 18118,
-          "recovered": 613836
+          "recovered": 619017
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 875450,
           "date": "2021-04-08",
           "deaths": 21261,
-          "recovered": 839406
+          "recovered": 843500
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 666025,
           "date": "2021-04-08",
           "deaths": 38282,
-          "recovered": 619894
+          "recovered": 624024
         }
       },
       "Rondonia": {
@@ -1523,16 +1523,16 @@
     "live": {
       "confirmed": 615024,
       "date": "2021-04-08",
-      "deaths": 10441,
+      "deaths": 10445,
       "recovered": 317600
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 264994,
+      "confirmed": 266827,
       "date": "2021-04-08",
-      "deaths": 9087,
-      "recovered": 221545
+      "deaths": 9136,
+      "recovered": 222461
     }
   },
   "Turkey": {
@@ -1673,7 +1673,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1265571,
+          "confirmed": 1266284,
           "date": "2021-04-08",
           "deaths": 19130
         }
