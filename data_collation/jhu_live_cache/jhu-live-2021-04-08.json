@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835216,
+      "confirmed": 835385,
       "date": "2021-04-08",
-      "deaths": 6266,
-      "recovered": 824160
+      "deaths": 6270,
+      "recovered": 824344
     }
   },
   "Italy": {
@@ -987,7 +987,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 123135,
+          "confirmed": 123680,
           "date": "2021-04-08",
           "deaths": 1777,
           "recovered": 117913
@@ -1069,10 +1069,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 222020,
+      "confirmed": 223127,
       "date": "2021-04-08",
-      "deaths": 3635,
-      "recovered": 203042
+      "deaths": 3647,
+      "recovered": 203803
     }
   },
   "Malaysia": {
