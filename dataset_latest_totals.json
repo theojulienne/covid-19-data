@@ -3315,19 +3315,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 3277880,
-        "deaths": 31385,
-        "recovered": 2995033
+        "confirmed": 3317182,
+        "deaths": 31537,
+        "recovered": 3014226
       },
       "back_2week": {
-        "confirmed": 3061520,
-        "deaths": 30316,
-        "recovered": 2863882
+        "confirmed": 3091282,
+        "deaths": 30462,
+        "recovered": 2881643
       },
       "latest": {
-        "confirmed": 3579185,
-        "deaths": 32667,
-        "recovered": 3159475
+        "confirmed": 3633925,
+        "deaths": 32943,
+        "recovered": 3194978
       }
     },
     "TWN": {
