@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1560777,
+      "confirmed": 1567848,
       "date": "2021-04-08",
-      "deaths": 27329,
-      "recovered": 1430816
+      "deaths": 27466,
+      "recovered": 1434281
     }
   },
   "Denmark": {
@@ -755,10 +755,10 @@
       },
       "Karnataka": {
         "live": {
-          "confirmed": 1026584,
+          "confirmed": 1033560,
           "date": "2021-04-08",
-          "deaths": 12696,
-          "recovered": 968762
+          "deaths": 12731,
+          "recovered": 971556
         }
       },
       "Kerala": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2771290,
+          "confirmed": 2771406,
           "date": "2021-04-08",
-          "deaths": 47103
+          "deaths": 47108
         }
       },
       "Connecticut": {
