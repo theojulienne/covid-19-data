@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 114869,
+          "confirmed": 115402,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 112498,
+          "confirmed": 112945,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 102923,
+          "confirmed": 103311,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 134386,
+          "confirmed": 134717,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 113816,
+          "confirmed": 114138,
           "date": "2021-04-08",
           "deaths": 0,
           "recovered": 0
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 106898,
+      "confirmed": 107598,
       "date": "2021-04-08",
-      "deaths": 1756,
-      "recovered": 97928
+      "deaths": 1758,
+      "recovered": 98360
     }
   },
   "Kosovo": {
@@ -1257,18 +1257,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 356913,
+      "confirmed": 357277,
       "date": "2021-04-08",
-      "deaths": 6146,
-      "recovered": 346153
+      "deaths": 6148,
+      "recovered": 346611
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 224736,
+      "confirmed": 227116,
       "date": "2021-04-08",
-      "deaths": 4522,
-      "recovered": 185131
+      "deaths": 4584,
+      "recovered": 186730
     }
   },
   "Peru": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770918,
+          "confirmed": 2771290,
           "date": "2021-04-08",
-          "deaths": 47086
+          "deaths": 47103
         }
       },
       "Connecticut": {
