@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 379915,
+          "confirmed": 381529,
           "date": "2021-04-08",
-          "deaths": 7471,
-          "recovered": 345653
+          "deaths": 7478,
+          "recovered": 346823
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 4807123,
+      "confirmed": 4903965,
       "date": "2021-04-08",
-      "deaths": 96672,
-      "recovered": 269989
+      "deaths": 97422,
+      "recovered": 274401
     }
   },
   "Georgia": {
@@ -551,9 +551,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 377133,
+          "confirmed": 380772,
           "date": "2021-04-08",
-          "deaths": 8831,
+          "deaths": 8868,
           "recovered": 341300
         }
       },
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835437,
+      "confirmed": 835486,
       "date": "2021-04-08",
-      "deaths": 6277,
-      "recovered": 824666
+      "deaths": 6279,
+      "recovered": 824748
     }
   },
   "Italy": {
@@ -1554,16 +1554,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2771804,
+          "confirmed": 2771870,
           "date": "2021-04-08",
-          "deaths": 47161
+          "deaths": 47172
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 91935,
+          "confirmed": 92269,
           "date": "2021-04-08",
-          "deaths": 2127
+          "deaths": 2129
         }
       },
       "Florida": {
@@ -1675,14 +1675,14 @@
         "live": {
           "confirmed": 1265571,
           "date": "2021-04-08",
-          "deaths": 19083
+          "deaths": 19130
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 238187,
+          "confirmed": 238400,
           "date": "2021-04-08",
-          "deaths": 1197
+          "deaths": 1201
         }
       },
       "Washington": {
