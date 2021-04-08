@@ -562,7 +562,7 @@
           "confirmed": 377133,
           "date": "2021-04-08",
           "deaths": 8831,
-          "recovered": 339400
+          "recovered": 341300
         }
       },
       "Bayern": {
@@ -570,15 +570,15 @@
           "confirmed": 517336,
           "date": "2021-04-08",
           "deaths": 13419,
-          "recovered": 464200
+          "recovered": 467100
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 150377,
+          "confirmed": 150385,
           "date": "2021-04-08",
-          "deaths": 3102,
-          "recovered": 138200
+          "deaths": 3098,
+          "recovered": 138800
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 90999,
           "date": "2021-04-08",
           "deaths": 3358,
-          "recovered": 80610
+          "recovered": 81090
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 227581,
           "date": "2021-04-08",
           "deaths": 6441,
-          "recovered": 201000
+          "recovered": 202400
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 205087,
           "date": "2021-04-08",
           "deaths": 4962,
-          "recovered": 185100
+          "recovered": 186600
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 633940,
           "date": "2021-04-08",
           "deaths": 14462,
-          "recovered": 568400
+          "recovered": 572000
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 120870,
           "date": "2021-04-08",
           "deaths": 3362,
-          "recovered": 108100
+          "recovered": 108700
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 99350,
           "date": "2021-04-08",
           "deaths": 3444,
-          "recovered": 86160
+          "recovered": 86860
         }
       }
     }
@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 192413,
+      "confirmed": 193029,
       "date": "2021-04-08",
-      "deaths": 4686,
-      "recovered": 73688
+      "deaths": 4703,
+      "recovered": 74299
     }
   },
   "Hungary": {
