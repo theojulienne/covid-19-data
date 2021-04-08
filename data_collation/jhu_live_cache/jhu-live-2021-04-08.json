@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 254937,
+      "confirmed": 256031,
       "date": "2021-04-08",
-      "deaths": 3369,
-      "recovered": 214943
+      "deaths": 3378,
+      "recovered": 215405
     }
   },
   "Ecuador": {
