@@ -138,7 +138,7 @@
           "confirmed": 158822,
           "date": "2021-04-09",
           "deaths": 3732,
-          "recovered": 150949
+          "recovered": 151667
         }
       },
       "Amapa": {
@@ -186,7 +186,7 @@
           "confirmed": 398217,
           "date": "2021-04-09",
           "deaths": 8014,
-          "recovered": 369225
+          "recovered": 371676
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 225992,
           "date": "2021-04-09",
           "deaths": 4717,
-          "recovered": 205751
+          "recovered": 207412
         }
       },
       "Minas Gerais": {
@@ -242,7 +242,7 @@
           "confirmed": 268179,
           "date": "2021-04-09",
           "deaths": 6085,
-          "recovered": 190002
+          "recovered": 190188
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 873972,
           "date": "2021-04-09",
           "deaths": 18492,
-          "recovered": 619017
+          "recovered": 623358
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 879263,
           "date": "2021-04-09",
           "deaths": 21538,
-          "recovered": 843500
+          "recovered": 849784
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 671207,
           "date": "2021-04-09",
           "deaths": 38657,
-          "recovered": 624024
+          "recovered": 627510
         }
       },
       "Rondonia": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 219846,
+      "confirmed": 222544,
       "date": "2021-04-09",
-      "deaths": 3000,
-      "recovered": 193857
+      "deaths": 3018,
+      "recovered": 194760
     }
   },
   "Croatia": {
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1554975,
+      "confirmed": 1556242,
       "date": "2021-04-09",
-      "deaths": 53173,
-      "recovered": 1480632
+      "deaths": 53226,
+      "recovered": 1481637
     }
   },
   "Spain": {
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 617543,
       "date": "2021-04-09",
-      "deaths": 10449,
+      "deaths": 10450,
       "recovered": 317600
     }
   },
@@ -1561,9 +1561,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 92269,
+          "confirmed": 92953,
           "date": "2021-04-09",
-          "deaths": 2129
+          "deaths": 2130
         }
       },
       "Florida": {
