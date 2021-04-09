@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2450068,
+      "confirmed": 2473751,
       "date": "2021-04-08",
-      "deaths": 56832,
-      "recovered": 2174625
+      "deaths": 57122,
+      "recovered": 2188983
     }
   },
   "Armenia": {
@@ -178,7 +178,7 @@
           "confirmed": 354816,
           "date": "2021-04-08",
           "deaths": 6609,
-          "recovered": 334162
+          "recovered": 335776
         }
       },
       "Espirito Santo": {
@@ -258,7 +258,7 @@
           "confirmed": 364354,
           "date": "2021-04-08",
           "deaths": 12623,
-          "recovered": 305544
+          "recovered": 307902
         }
       },
       "Piaui": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 364419,
+      "confirmed": 367376,
       "date": "2021-04-08",
-      "deaths": 14034,
-      "recovered": 278665
+      "deaths": 14170,
+      "recovered": 281979
     }
   },
   "Burma": {
@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 106985,
+          "confirmed": 108278,
           "date": "2021-04-08",
-          "deaths": 1491,
-          "recovered": 96626
+          "deaths": 1493,
+          "recovered": 97462
         }
       },
       "Ontario": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 101607,
+      "confirmed": 101960,
       "date": "2021-04-08",
       "deaths": 684,
       "recovered": 17998
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2771870,
+          "confirmed": 2772629,
           "date": "2021-04-08",
-          "deaths": 47172
+          "deaths": 47188
         }
       },
       "Connecticut": {
