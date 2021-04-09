@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 285765,
+      "confirmed": 288364,
       "date": "2021-04-09",
-      "deaths": 6185,
-      "recovered": 266813
+      "deaths": 6235,
+      "recovered": 268929
     }
   },
   "Czechia": {
@@ -990,7 +990,7 @@
           "confirmed": 124217,
           "date": "2021-04-09",
           "deaths": 1782,
-          "recovered": 118295
+          "recovered": 118732
         }
       }
     }
