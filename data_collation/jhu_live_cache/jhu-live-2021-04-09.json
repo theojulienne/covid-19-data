@@ -234,7 +234,7 @@
           "confirmed": 431636,
           "date": "2021-04-09",
           "deaths": 10975,
-          "recovered": 402854
+          "recovered": 405154
         }
       },
       "Paraiba": {
@@ -299,14 +299,6 @@
           "date": "2021-04-09",
           "deaths": 4464,
           "recovered": 171652
-        }
-      },
-      "Roraima": {
-        "live": {
-          "confirmed": 91036,
-          "date": "2021-04-09",
-          "deaths": 1384,
-          "recovered": 85381
         }
       },
       "Santa Catarina": {
@@ -639,6 +631,14 @@
       }
     }
   },
+  "Ghana": {
+    "live": {
+      "confirmed": 91109,
+      "date": "2021-04-09",
+      "deaths": 752,
+      "recovered": 88971
+    }
+  },
   "Greece": {
     "live": {
       "confirmed": 288230,
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 198374,
+      "confirmed": 199964,
       "date": "2021-04-09",
-      "deaths": 6928,
-      "recovered": 182408
+      "deaths": 6955,
+      "recovered": 183131
     }
   },
   "Honduras": {
@@ -1007,8 +1007,8 @@
     "live": {
       "confirmed": 315102,
       "date": "2021-04-09",
-      "deaths": 3258,
-      "recovered": 280800
+      "deaths": 3261,
+      "recovered": 280972
     }
   },
   "Kenya": {
