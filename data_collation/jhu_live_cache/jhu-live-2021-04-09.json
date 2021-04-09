@@ -1155,41 +1155,41 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 147037,
+          "confirmed": 147810,
           "date": "2021-04-09",
-          "deaths": 1907,
+          "deaths": 1911,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 209584,
+          "confirmed": 210836,
           "date": "2021-04-09",
-          "deaths": 3021,
+          "deaths": 3024,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 228881,
+          "confirmed": 229913,
           "date": "2021-04-09",
-          "deaths": 2441,
+          "deaths": 2456,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 103310,
+          "confirmed": 103878,
           "date": "2021-04-09",
-          "deaths": 1206,
+          "deaths": 1207,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 314202,
+          "confirmed": 316314,
           "date": "2021-04-09",
-          "deaths": 4029,
+          "deaths": 4034,
           "recovered": 0
         }
       }
