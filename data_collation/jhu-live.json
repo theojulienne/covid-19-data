@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 153074,
+      "confirmed": 154280,
       "date": "2021-04-09",
-      "deaths": 548,
-      "recovered": 141911
+      "deaths": 550,
+      "recovered": 142741
     }
   },
   "Bangladesh": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 156905,
+          "confirmed": 158426,
           "date": "2021-04-09",
-          "deaths": 2005,
-          "recovered": 142713
+          "deaths": 2007,
+          "recovered": 143360
         }
       },
       "British Columbia": {
@@ -1205,10 +1205,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 138891,
+      "confirmed": 140065,
       "date": "2021-04-09",
-      "deaths": 4108,
-      "recovered": 112619
+      "deaths": 4150,
+      "recovered": 113430
     }
   },
   "Norway": {
@@ -1596,9 +1596,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 216825,
+          "confirmed": 217606,
           "date": "2021-04-09",
-          "deaths": 6000
+          "deaths": 6001
         }
       },
       "Michigan": {
@@ -1666,14 +1666,14 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 91338,
+          "confirmed": 91497,
           "date": "2021-04-09",
-          "deaths": 1574
+          "deaths": 1575
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1266865,
+          "confirmed": 1267554,
           "date": "2021-04-09",
           "deaths": 19192
         }
