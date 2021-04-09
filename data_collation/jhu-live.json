@@ -755,10 +755,10 @@
       },
       "Kerala": {
         "live": {
-          "confirmed": 1144594,
+          "confirmed": 1148947,
           "date": "2021-04-09",
-          "deaths": 4710,
-          "recovered": 1108078
+          "deaths": 4728,
+          "recovered": 1110283
         }
       },
       "Madhya Pradesh": {
@@ -1705,50 +1705,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 99373,
+          "confirmed": 101038,
           "date": "2021-04-09",
-          "deaths": 2556,
-          "recovered": 78669
+          "deaths": 2591,
+          "recovered": 79140
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 113253,
+          "confirmed": 114447,
           "date": "2021-04-09",
-          "deaths": 2130,
-          "recovered": 89394
+          "deaths": 2151,
+          "recovered": 90033
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 172403,
+          "confirmed": 174267,
           "date": "2021-04-09",
-          "deaths": 3749,
-          "recovered": 109449
+          "deaths": 3797,
+          "recovered": 110137
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 103187,
+          "confirmed": 104452,
           "date": "2021-04-09",
-          "deaths": 1806,
-          "recovered": 81722
+          "deaths": 1847,
+          "recovered": 82439
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 113448,
+          "confirmed": 115087,
           "date": "2021-04-09",
-          "deaths": 2782,
-          "recovered": 83462
+          "deaths": 2797,
+          "recovered": 84237
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 117549,
+          "confirmed": 118743,
           "date": "2021-04-09",
-          "deaths": 2028,
-          "recovered": 85422
+          "deaths": 2056,
+          "recovered": 85965
         }
       }
     }
