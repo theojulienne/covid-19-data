@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 385144,
+          "confirmed": 385154,
           "date": "2021-04-09",
           "deaths": 7496,
-          "recovered": 349485
+          "recovered": 349489
         }
       },
       "Quebec": {
@@ -551,9 +551,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 380790,
+          "confirmed": 384086,
           "date": "2021-04-09",
-          "deaths": 8868,
+          "deaths": 8902,
           "recovered": 343200
         }
       },
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 266827,
+      "confirmed": 268837,
       "date": "2021-04-09",
-      "deaths": 9136,
-      "recovered": 222461
+      "deaths": 9179,
+      "recovered": 223391
     }
   },
   "Turkey": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2773958,
+          "confirmed": 2774152,
           "date": "2021-04-09",
-          "deaths": 47268
+          "deaths": 47295
         }
       },
       "Connecticut": {
@@ -1575,9 +1575,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 190756,
+          "confirmed": 191039,
           "date": "2021-04-09",
-          "deaths": 2387
+          "deaths": 2397
         }
       },
       "Illinois": {
@@ -1680,9 +1680,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 238400,
+          "confirmed": 238631,
           "date": "2021-04-09",
-          "deaths": 1201
+          "deaths": 1205
         }
       },
       "Washington": {
@@ -1694,9 +1694,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 111438,
+          "confirmed": 111661,
           "date": "2021-04-09",
-          "deaths": 1311
+          "deaths": 1313
         }
       }
     }
@@ -1765,9 +1765,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3821151,
+          "confirmed": 3815779,
           "date": "2021-04-09",
-          "deaths": 111710,
+          "deaths": 111761,
           "recovered": 0
         }
       },
