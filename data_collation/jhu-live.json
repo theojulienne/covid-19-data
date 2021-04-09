@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835641,
+      "confirmed": 835674,
       "date": "2021-04-09",
       "deaths": 6280,
-      "recovered": 824947
+      "recovered": 825195
     }
   },
   "Italy": {
@@ -1617,7 +1617,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 93993,
+          "confirmed": 94195,
           "date": "2021-04-09",
           "deaths": 2106
         }
@@ -1815,10 +1815,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 262017,
+      "confirmed": 264395,
       "date": "2021-04-09",
-      "deaths": 2781,
-      "recovered": 227988
+      "deaths": 2812,
+      "recovered": 229876
     }
   }
 }
