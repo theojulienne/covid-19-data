@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 617436,
+          "confirmed": 618837,
           "date": "2021-04-10",
-          "deaths": 30958,
+          "deaths": 31025,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 128647,
+          "confirmed": 128801,
           "date": "2021-04-10",
-          "deaths": 10160,
+          "deaths": 10164,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 236428,
+          "confirmed": 236913,
           "date": "2021-04-10",
-          "deaths": 32030,
+          "deaths": 32108,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 120565,
+          "confirmed": 120717,
           "date": "2021-04-10",
-          "deaths": 9085,
+          "deaths": 9110,
           "recovered": 0
         }
       }
@@ -1265,19 +1265,19 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 229595,
+      "confirmed": 232142,
       "date": "2021-04-10",
-      "deaths": 4644,
-      "recovered": 188340
+      "deaths": 4698,
+      "recovered": 189971
     }
   },
   "Peru": {
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 753032,
+          "confirmed": 757551,
           "date": "2021-04-10",
-          "deaths": 23776,
+          "deaths": 23927,
           "recovered": 0
         }
       }
@@ -1687,9 +1687,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 93324,
+          "confirmed": 93760,
           "date": "2021-04-10",
-          "deaths": 1481
+          "deaths": 1482
         }
       },
       "Wisconsin": {
