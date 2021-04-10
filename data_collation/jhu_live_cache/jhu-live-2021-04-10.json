@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 115979,
+          "confirmed": 116575,
           "date": "2021-04-10",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 113439,
+          "confirmed": 113993,
           "date": "2021-04-10",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 104042,
+          "confirmed": 104672,
           "date": "2021-04-10",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 135387,
+          "confirmed": 136086,
           "date": "2021-04-10",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 114560,
+          "confirmed": 114947,
           "date": "2021-04-10",
           "deaths": 0,
           "recovered": 0
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 108269,
+      "confirmed": 108945,
       "date": "2021-04-10",
-      "deaths": 1764,
-      "recovered": 98786
+      "deaths": 1765,
+      "recovered": 99301
     }
   },
   "Kosovo": {
@@ -1257,10 +1257,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 357704,
+      "confirmed": 358098,
       "date": "2021-04-10",
-      "deaths": 6152,
-      "recovered": 347060
+      "deaths": 6156,
+      "recovered": 347483
     }
   },
   "Paraguay": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2775090,
+          "confirmed": 2775291,
           "date": "2021-04-10",
-          "deaths": 47333
+          "deaths": 47341
         }
       },
       "Connecticut": {
@@ -1799,18 +1799,18 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 130657,
+      "confirmed": 137946,
       "date": "2021-04-10",
-      "deaths": 1275,
-      "recovered": 101241
+      "deaths": 1363,
+      "recovered": 104241
     }
   },
   "Venezuela": {
     "live": {
-      "confirmed": 171373,
+      "confirmed": 172461,
       "date": "2021-04-10",
-      "deaths": 1720,
-      "recovered": 154811
+      "deaths": 1739,
+      "recovered": 155662
     }
   },
   "West Bank and Gaza": {
