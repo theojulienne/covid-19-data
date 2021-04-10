@@ -170,7 +170,7 @@
           "confirmed": 579930,
           "date": "2021-04-10",
           "deaths": 15278,
-          "recovered": 397879
+          "recovered": 403511
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 505075,
           "date": "2021-04-10",
           "deaths": 12644,
-          "recovered": 481224
+          "recovered": 482173
         }
       },
       "Maranhao": {
@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 193783,
+      "confirmed": 194548,
       "date": "2021-04-10",
-      "deaths": 4715,
-      "recovered": 74759
+      "deaths": 4766,
+      "recovered": 75233
     }
   },
   "Hungary": {
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 317836,
+      "confirmed": 317937,
       "date": "2021-04-10",
-      "deaths": 3261,
-      "recovered": 282483
+      "deaths": 3262,
+      "recovered": 282653
     }
   },
   "Kenya": {
@@ -1231,26 +1231,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 96128,
+          "confirmed": 97318,
           "date": "2021-04-10",
-          "deaths": 2553,
-          "recovered": 81959
+          "deaths": 2586,
+          "recovered": 82479
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 243295,
+          "confirmed": 245923,
           "date": "2021-04-10",
-          "deaths": 6851,
-          "recovered": 199941
+          "deaths": 6908,
+          "recovered": 200235
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 267970,
+          "confirmed": 268284,
           "date": "2021-04-10",
-          "deaths": 4521,
-          "recovered": 257322
+          "deaths": 4523,
+          "recovered": 257593
         }
       }
     }
