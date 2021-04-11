@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2497881,
+      "confirmed": 2517300,
       "date": "2021-04-10",
-      "deaths": 57350,
-      "recovered": 2203926
+      "deaths": 57647,
+      "recovered": 2217783
     }
   },
   "Armenia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 370179,
+      "confirmed": 371531,
       "date": "2021-04-10",
-      "deaths": 14308,
-      "recovered": 284869
+      "deaths": 14351,
+      "recovered": 285799
     }
   },
   "Burma": {
@@ -390,7 +390,7 @@
           "confirmed": 324848,
           "date": "2021-04-10",
           "deaths": 10737,
-          "recovered": 300471
+          "recovered": 301740
         }
       }
     }
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 208876,
+      "confirmed": 209677,
       "date": "2021-04-10",
-      "deaths": 12362,
-      "recovered": 158454
+      "deaths": 12405,
+      "recovered": 159054
     }
   },
   "Estonia": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 244325,
+      "confirmed": 245704,
       "date": "2021-04-10",
-      "deaths": 1393,
-      "recovered": 228627
+      "deaths": 1403,
+      "recovered": 229846
     }
   },
   "Latvia": {
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 268837,
+      "confirmed": 270297,
       "date": "2021-04-10",
-      "deaths": 9179,
-      "recovered": 223391
+      "deaths": 9235,
+      "recovered": 224397
     }
   },
   "Turkey": {
@@ -1547,9 +1547,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 641029,
+          "confirmed": 641607,
           "date": "2021-04-10",
-          "deaths": 12083
+          "deaths": 12103
         }
       },
       "California": {
@@ -1687,7 +1687,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 93760,
+          "confirmed": 94132,
           "date": "2021-04-10",
           "deaths": 1482
         }
@@ -1799,10 +1799,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 137946,
+      "confirmed": 141380,
       "date": "2021-04-10",
-      "deaths": 1363,
-      "recovered": 104241
+      "deaths": 1414,
+      "recovered": 104434
     }
   },
   "Venezuela": {
