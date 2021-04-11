@@ -162,7 +162,7 @@
           "confirmed": 835962,
           "date": "2021-04-11",
           "deaths": 16445,
-          "recovered": 805347
+          "recovered": 807761
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 506951,
           "date": "2021-04-11",
           "deaths": 12743,
-          "recovered": 482173
+          "recovered": 484306
         }
       },
       "Maranhao": {
@@ -338,7 +338,7 @@
           "confirmed": 147752,
           "date": "2021-04-11",
           "deaths": 2227,
-          "recovered": 125205
+          "recovered": 126456
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 392192,
+          "confirmed": 394184,
           "date": "2021-04-11",
-          "deaths": 7516,
-          "recovered": 353852
+          "deaths": 7530,
+          "recovered": 354973
         }
       },
       "Quebec": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 835900,
+      "confirmed": 835933,
       "date": "2021-04-11",
       "deaths": 6296,
-      "recovered": 826078
+      "recovered": 826205
     }
   },
   "Italy": {
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 617543,
       "date": "2021-04-11",
-      "deaths": 10452,
+      "deaths": 10453,
       "recovered": 317600
     }
   },
@@ -1575,7 +1575,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 191357,
+          "confirmed": 191620,
           "date": "2021-04-11",
           "deaths": 2408
         }
@@ -1673,9 +1673,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1268947,
+          "confirmed": 1269150,
           "date": "2021-04-11",
-          "deaths": 19231
+          "deaths": 19240
         }
       },
       "Utah": {
