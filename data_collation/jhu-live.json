@@ -1061,10 +1061,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 166888,
+      "confirmed": 167825,
       "date": "2021-04-11",
-      "deaths": 2807,
-      "recovered": 152328
+      "deaths": 2823,
+      "recovered": 152921
     }
   },
   "Lithuania": {
@@ -1293,10 +1293,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2552898,
+      "confirmed": 2574631,
       "date": "2021-04-11",
-      "deaths": 58176,
-      "recovered": 2143065
+      "deaths": 58421,
+      "recovered": 2171301
     }
   },
   "Portugal": {
@@ -1377,18 +1377,18 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 370473,
+      "confirmed": 371062,
       "date": "2021-04-11",
-      "deaths": 10487,
+      "deaths": 10565,
       "recovered": 255300
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 225950,
+      "confirmed": 226499,
       "date": "2021-04-11",
-      "deaths": 4112,
-      "recovered": 207927
+      "deaths": 4119,
+      "recovered": 208561
     }
   },
   "South Africa": {
