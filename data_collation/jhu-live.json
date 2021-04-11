@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 201295,
+      "confirmed": 202640,
       "date": "2021-04-11",
-      "deaths": 6977,
-      "recovered": 183917
+      "deaths": 7001,
+      "recovered": 184758
     }
   },
   "Honduras": {
@@ -1257,10 +1257,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 358098,
+      "confirmed": 358377,
       "date": "2021-04-11",
-      "deaths": 6156,
-      "recovered": 347483
+      "deaths": 6159,
+      "recovered": 347898
     }
   },
   "Paraguay": {
@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 757551,
+          "confirmed": 762906,
           "date": "2021-04-11",
-          "deaths": 23927,
+          "deaths": 24091,
           "recovered": 0
         }
       }
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2777375,
+          "confirmed": 2777735,
           "date": "2021-04-11",
-          "deaths": 47413
+          "deaths": 47426
         }
       },
       "Connecticut": {
