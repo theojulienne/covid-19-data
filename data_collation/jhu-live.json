@@ -657,7 +657,7 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 194548,
+      "confirmed": 195525,
       "date": "2021-04-11",
       "deaths": 4770,
       "recovered": 75553
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 124787,
           "date": "2021-04-11",
-          "deaths": 1782,
+          "deaths": 1787,
           "recovered": 118732
         }
       }
