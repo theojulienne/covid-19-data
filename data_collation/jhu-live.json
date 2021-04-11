@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 390853,
+          "confirmed": 391259,
           "date": "2021-04-11",
           "deaths": 7515,
-          "recovered": 352979
+          "recovered": 353173
         }
       },
       "Quebec": {
@@ -869,9 +869,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 240643,
+      "confirmed": 240945,
       "date": "2021-04-11",
-      "deaths": 4783,
+      "deaths": 4785,
       "recovered": 23364
     }
   },
@@ -1309,10 +1309,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 189064,
+      "confirmed": 190025,
       "date": "2021-04-11",
-      "deaths": 331,
-      "recovered": 169086
+      "deaths": 333,
+      "recovered": 169635
     }
   },
   "Romania": {
