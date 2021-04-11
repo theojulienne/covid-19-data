@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 334863,
+      "confirmed": 336038,
       "date": "2021-04-11",
-      "deaths": 2344,
-      "recovered": 325108
+      "deaths": 2354,
+      "recovered": 326487
     }
   },
   "Belgium": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 237101,
+      "confirmed": 237792,
       "date": "2021-04-11",
-      "deaths": 2439,
-      "recovered": 225968
+      "deaths": 2441,
+      "recovered": 226630
     }
   },
   "Dominican Republic": {
@@ -1485,10 +1485,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 94848,
+      "confirmed": 95018,
       "date": "2021-04-11",
-      "deaths": 595,
-      "recovered": 91456
+      "deaths": 596,
+      "recovered": 91631
     }
   },
   "Sweden": {

@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 324694,
-        "deaths": 2267,
-        "recovered": 315226
+        "confirmed": 326065,
+        "deaths": 2276,
+        "recovered": 316649
       },
       "back_2week": {
-        "confirmed": 316418,
-        "deaths": 2202,
-        "recovered": 307004
+        "confirmed": 317631,
+        "deaths": 2211,
+        "recovered": 308216
       },
       "latest": {
-        "confirmed": 333430,
-        "deaths": 2334,
-        "recovered": 323748
+        "confirmed": 334863,
+        "deaths": 2344,
+        "recovered": 325108
       }
     },
     "BLZ": {
@@ -1110,19 +1110,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 231973,
-        "deaths": 2424,
-        "recovered": 220354
+        "confirmed": 232718,
+        "deaths": 2428,
+        "recovered": 221004
       },
       "back_2week": {
-        "confirmed": 226633,
-        "deaths": 2411,
-        "recovered": 215596
+        "confirmed": 227049,
+        "deaths": 2413,
+        "recovered": 216126
       },
       "latest": {
-        "confirmed": 236346,
-        "deaths": 2436,
-        "recovered": 225255
+        "confirmed": 237101,
+        "deaths": 2439,
+        "recovered": 225968
       },
       "states": {
         "Faroe Islands": {
@@ -2120,19 +2120,19 @@ var covid19_dataset_latest_totals = {
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 93128,
-        "deaths": 571,
-        "recovered": 89701
+        "confirmed": 93295,
+        "deaths": 575,
+        "recovered": 90021
       },
       "back_2week": {
-        "confirmed": 91561,
-        "deaths": 557,
-        "recovered": 88145
+        "confirmed": 91839,
+        "deaths": 558,
+        "recovered": 88388
       },
       "latest": {
-        "confirmed": 94564,
-        "deaths": 593,
-        "recovered": 91272
+        "confirmed": 94848,
+        "deaths": 595,
+        "recovered": 91456
       }
     },
     "LSO": {
