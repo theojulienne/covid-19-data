@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 678937,
+      "confirmed": 684756,
       "date": "2021-04-11",
-      "deaths": 9661,
-      "recovered": 572378
+      "deaths": 9739,
+      "recovered": 576590
     }
   },
   "Belarus": {
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 527569,
+          "confirmed": 528825,
           "date": "2021-04-11",
-          "deaths": 13492,
+          "deaths": 13499,
           "recovered": 474200
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 918155,
+      "confirmed": 924946,
       "date": "2021-04-11",
-      "deaths": 14678,
-      "recovered": 809663
+      "deaths": 14713,
+      "recovered": 814853
     }
   },
   "Ireland": {
@@ -1155,23 +1155,23 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 148735,
+          "confirmed": 149740,
           "date": "2021-04-11",
-          "deaths": 1914,
+          "deaths": 1916,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 212144,
+          "confirmed": 213544,
           "date": "2021-04-11",
-          "deaths": 3028,
+          "deaths": 3032,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 231018,
+          "confirmed": 232262,
           "date": "2021-04-11",
           "deaths": 2460,
           "recovered": 0
@@ -1179,17 +1179,17 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 104331,
+          "confirmed": 104820,
           "date": "2021-04-11",
-          "deaths": 1208,
+          "deaths": 1209,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 318223,
+          "confirmed": 320328,
           "date": "2021-04-11",
-          "deaths": 4039,
+          "deaths": 4043,
           "recovered": 0
         }
       }
@@ -1361,10 +1361,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 397636,
+      "confirmed": 398435,
       "date": "2021-04-11",
-      "deaths": 6747,
-      "recovered": 382773
+      "deaths": 6754,
+      "recovered": 383321
     }
   },
   "Serbia": {
