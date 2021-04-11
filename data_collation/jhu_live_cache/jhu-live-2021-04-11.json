@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 574755,
+      "confirmed": 577007,
       "date": "2021-04-11",
-      "deaths": 9662,
-      "recovered": 532539
+      "deaths": 9687,
+      "recovered": 535798
     }
   },
   "Azerbaijan": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 389648,
+          "confirmed": 390853,
           "date": "2021-04-11",
-          "deaths": 7513,
-          "recovered": 352338
+          "deaths": 7515,
+          "recovered": 352979
         }
       },
       "Quebec": {
@@ -623,10 +623,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 234696,
+          "confirmed": 235730,
           "date": "2021-04-11",
-          "deaths": 8555,
-          "recovered": 206900
+          "deaths": 8557,
+          "recovered": 209900
         }
       },
       "Thuringen": {
@@ -1369,9 +1369,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 639476,
+      "confirmed": 642208,
       "date": "2021-04-11",
-      "deaths": 5700,
+      "deaths": 5735,
       "recovered": 0
     }
   },
@@ -1815,10 +1815,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 265897,
+      "confirmed": 268132,
       "date": "2021-04-11",
-      "deaths": 2838,
-      "recovered": 231288
+      "deaths": 2860,
+      "recovered": 232960
     }
   }
 }

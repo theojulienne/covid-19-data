@@ -231,19 +231,19 @@
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 552729,
-        "deaths": 9397,
-        "recovered": 506675
+        "confirmed": 556012,
+        "deaths": 9434,
+        "recovered": 509550
       },
       "back_2week": {
-        "confirmed": 530288,
-        "deaths": 9200,
-        "recovered": 486088
+        "confirmed": 533786,
+        "deaths": 9231,
+        "recovered": 488964
       },
       "latest": {
-        "confirmed": 571616,
-        "deaths": 9624,
-        "recovered": 529191
+        "confirmed": 574755,
+        "deaths": 9662,
+        "recovered": 532539
       }
     },
     "AZE": {
@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 998208,
-        "deaths": 23011,
+        "confirmed": 1005296,
+        "deaths": 23038,
         "recovered": 924144
       },
       "back_2week": {
-        "confirmed": 961567,
-        "deaths": 22809,
+        "confirmed": 965882,
+        "deaths": 22830,
         "recovered": 899230
       },
       "latest": {
-        "confirmed": 1052560,
-        "deaths": 23236,
+        "confirmed": 1060052,
+        "deaths": 23270,
         "recovered": 962451
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 385604,
-          "deaths": 7496
+          "confirmed": 389648,
+          "deaths": 7513
         },
         "Prince Edward Island": {
           "confirmed": 160,
@@ -3043,18 +3043,18 @@
     },
     "SRB": {
       "back_1week": {
-        "confirmed": 610232,
-        "deaths": 5384,
+        "confirmed": 614365,
+        "deaths": 5422,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 571895,
-        "deaths": 5075,
+        "confirmed": 581617,
+        "deaths": 5151,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 636418,
-        "deaths": 5659,
+        "confirmed": 639476,
+        "deaths": 5700,
         "recovered": 0
       }
     },
