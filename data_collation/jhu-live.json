@@ -9,18 +9,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 118378,
+      "confirmed": 118516,
       "date": "2021-04-11",
-      "deaths": 3126,
-      "recovered": 82493
+      "deaths": 3130,
+      "recovered": 82600
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 2517300,
+      "confirmed": 2532562,
       "date": "2021-04-11",
-      "deaths": 57647,
-      "recovered": 2217783
+      "deaths": 57779,
+      "recovered": 2233140
     }
   },
   "Armenia": {
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 257186,
+      "confirmed": 257698,
       "date": "2021-04-11",
-      "deaths": 3385,
-      "recovered": 216020
+      "deaths": 3388,
+      "recovered": 216452
     }
   },
   "Ecuador": {
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 209677,
+      "confirmed": 210489,
       "date": "2021-04-11",
-      "deaths": 12405,
-      "recovered": 159054
+      "deaths": 12445,
+      "recovered": 159499
     }
   },
   "Estonia": {
@@ -1013,10 +1013,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 145184,
+      "confirmed": 145670,
       "date": "2021-04-11",
-      "deaths": 2330,
-      "recovered": 98605
+      "deaths": 2348,
+      "recovered": 99095
     }
   },
   "Korea, South": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 245704,
+      "confirmed": 247094,
       "date": "2021-04-11",
-      "deaths": 1403,
-      "recovered": 229846
+      "deaths": 1407,
+      "recovered": 231240
     }
   },
   "Latvia": {
@@ -1129,10 +1129,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 94035,
+      "confirmed": 94269,
       "date": "2021-04-11",
-      "deaths": 1365,
-      "recovered": 88144
+      "deaths": 1373,
+      "recovered": 88505
     }
   },
   "Morocco": {
@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 163736,
+      "confirmed": 163799,
       "date": "2021-04-11",
       "deaths": 2060,
-      "recovered": 154098
+      "recovered": 154107
     }
   },
   "North Macedonia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 103456,
+      "confirmed": 103621,
       "date": "2021-04-11",
       "deaths": 684,
       "recovered": 17998
@@ -1547,9 +1547,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 641607,
+          "confirmed": 641724,
           "date": "2021-04-11",
-          "deaths": 12103
+          "deaths": 12102
         }
       },
       "California": {
