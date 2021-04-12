@@ -266,7 +266,7 @@
           "confirmed": 218653,
           "date": "2021-04-12",
           "deaths": 4493,
-          "recovered": 212838
+          "recovered": 213445
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 891554,
           "date": "2021-04-12",
           "deaths": 21881,
-          "recovered": 856467
+          "recovered": 858147
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 148065,
           "date": "2021-04-12",
           "deaths": 2248,
-          "recovered": 126456
+          "recovered": 128572
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 396696,
+          "confirmed": 398447,
           "date": "2021-04-12",
-          "deaths": 7541,
-          "recovered": 356629
+          "deaths": 7546,
+          "recovered": 357672
         }
       },
       "Quebec": {
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 924946,
+      "confirmed": 932899,
       "date": "2021-04-12",
-      "deaths": 14713,
-      "recovered": 814853
+      "deaths": 14757,
+      "recovered": 820532
     }
   },
   "Ireland": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 836128,
+      "confirmed": 836158,
       "date": "2021-04-12",
       "deaths": 6304,
-      "recovered": 826481
+      "recovered": 826494
     }
   },
   "Italy": {
@@ -1205,10 +1205,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 141844,
+      "confirmed": 142034,
       "date": "2021-04-12",
-      "deaths": 4228,
-      "recovered": 116780
+      "deaths": 4262,
+      "recovered": 117794
     }
   },
   "Norway": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2781509,
+          "confirmed": 2782054,
           "date": "2021-04-12",
-          "deaths": 47508
+          "deaths": 47519
         }
       },
       "Connecticut": {
@@ -1575,9 +1575,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 191620,
+          "confirmed": 191801,
           "date": "2021-04-12",
-          "deaths": 2408
+          "deaths": 2414
         }
       },
       "Illinois": {
@@ -1638,9 +1638,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1308311,
+          "confirmed": 1309701,
           "date": "2021-04-12",
-          "deaths": 38645
+          "deaths": 38654
         }
       },
       "North Carolina": {
@@ -1680,7 +1680,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 239066,
+          "confirmed": 239174,
           "date": "2021-04-12",
           "deaths": 1207
         }
