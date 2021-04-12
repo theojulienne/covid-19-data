@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 114174,
+      "confirmed": 114443,
       "date": "2021-04-12",
-      "deaths": 1028,
-      "recovered": 94807
+      "deaths": 1037,
+      "recovered": 95246
     }
   },
   "Ethiopia": {
@@ -1285,10 +1285,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 864868,
+      "confirmed": 876225,
       "date": "2021-04-12",
-      "deaths": 14945,
-      "recovered": 703404
+      "deaths": 15149,
+      "recovered": 703625
     }
   },
   "Poland": {
@@ -1296,7 +1296,7 @@
       "confirmed": 2574631,
       "date": "2021-04-12",
       "deaths": 58421,
-      "recovered": 2171301
+      "recovered": 2197782
     }
   },
   "Portugal": {
@@ -1327,34 +1327,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1048316,
+          "confirmed": 1050149,
           "date": "2021-04-12",
-          "deaths": 17248,
-          "recovered": 960171
+          "deaths": 17302,
+          "recovered": 961392
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 238632,
+          "confirmed": 239201,
           "date": "2021-04-12",
-          "deaths": 5567,
-          "recovered": 196087
+          "deaths": 5576,
+          "recovered": 196511
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 110264,
+          "confirmed": 110476,
           "date": "2021-04-12",
-          "deaths": 2945,
-          "recovered": 105011
+          "deaths": 2952,
+          "recovered": 105268
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 402382,
+          "confirmed": 403088,
           "date": "2021-04-12",
-          "deaths": 12601,
-          "recovered": 357577
+          "deaths": 12635,
+          "recovered": 357829
         }
       }
     }
@@ -1377,9 +1377,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 371062,
+      "confirmed": 371168,
       "date": "2021-04-12",
-      "deaths": 10565,
+      "deaths": 10630,
       "recovered": 255300
     }
   },
