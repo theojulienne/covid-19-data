@@ -353,7 +353,7 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142576,
+      "confirmed": 142596,
       "date": "2021-04-12",
       "deaths": 3206,
       "recovered": 131869
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 396589,
+          "confirmed": 396696,
           "date": "2021-04-12",
-          "deaths": 7539,
-          "recovered": 356595
+          "deaths": 7541,
+          "recovered": 356629
         }
       },
       "Quebec": {
@@ -533,17 +533,17 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 228996,
+      "confirmed": 230944,
       "date": "2021-04-12",
-      "deaths": 3174,
-      "recovered": 170633
+      "deaths": 3208,
+      "recovered": 171980
     }
   },
   "France": {
     "live": {
-      "confirmed": 5021865,
+      "confirmed": 5030401,
       "date": "2021-04-12",
-      "deaths": 98118,
+      "deaths": 98503,
       "recovered": 279624
     }
   },
@@ -1053,9 +1053,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 496846,
+      "confirmed": 497854,
       "date": "2021-04-12",
-      "deaths": 6661,
+      "deaths": 6703,
       "recovered": 406095
     }
   },
@@ -1485,7 +1485,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 95313,
+      "confirmed": 95394,
       "date": "2021-04-12",
       "deaths": 598,
       "recovered": 91775
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 623126,
       "date": "2021-04-12",
-      "deaths": 10457,
+      "deaths": 10464,
       "recovered": 317600
     }
   },
@@ -1554,7 +1554,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2781081,
+          "confirmed": 2781440,
           "date": "2021-04-12",
           "deaths": 47506
         }
@@ -1568,9 +1568,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1169205,
+          "confirmed": 1170207,
           "date": "2021-04-12",
-          "deaths": 15579
+          "deaths": 15590
         }
       },
       "Georgia": {
@@ -1624,7 +1624,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 238008,
+          "confirmed": 238245,
           "date": "2021-04-12",
           "deaths": 4178
         }
@@ -1652,16 +1652,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 225716,
+          "confirmed": 226274,
           "date": "2021-04-12",
           "deaths": 3385
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 135632,
+          "confirmed": 137201,
           "date": "2021-04-12",
-          "deaths": 3333
+          "deaths": 3336
         }
       },
       "Tennessee": {
