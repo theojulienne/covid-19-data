@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 577007,
+      "confirmed": 578950,
       "date": "2021-04-12",
-      "deaths": 9687,
-      "recovered": 535798
+      "deaths": 9706,
+      "recovered": 538609
     }
   },
   "Azerbaijan": {
@@ -1293,9 +1293,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2574631,
+      "confirmed": 2586647,
       "date": "2021-04-12",
-      "deaths": 58421,
+      "deaths": 58481,
       "recovered": 2197782
     }
   },
