@@ -170,7 +170,7 @@
           "confirmed": 586078,
           "date": "2021-04-12",
           "deaths": 15441,
-          "recovered": 403511
+          "recovered": 407820
         }
       },
       "Distrito Federal": {
@@ -178,7 +178,7 @@
           "confirmed": 359122,
           "date": "2021-04-12",
           "deaths": 6754,
-          "recovered": 338387
+          "recovered": 340131
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 404161,
           "date": "2021-04-12",
           "deaths": 8164,
-          "recovered": 372407
+          "recovered": 373097
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 507511,
           "date": "2021-04-12",
           "deaths": 12783,
-          "recovered": 484306
+          "recovered": 484522
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 437805,
           "date": "2021-04-12",
           "deaths": 11200,
-          "recovered": 407289
+          "recovered": 409664
         }
       },
       "Paraiba": {
@@ -242,7 +242,7 @@
           "confirmed": 271325,
           "date": "2021-04-12",
           "deaths": 6176,
-          "recovered": 190188
+          "recovered": 192859
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 883365,
           "date": "2021-04-12",
           "deaths": 19076,
-          "recovered": 623358
+          "recovered": 630204
         }
       },
       "Pernambuco": {
@@ -322,7 +322,7 @@
           "confirmed": 2643534,
           "date": "2021-04-12",
           "deaths": 82917,
-          "recovered": 2249636
+          "recovered": 2269521
         }
       },
       "Sergipe": {
@@ -330,7 +330,7 @@
           "confirmed": 184113,
           "date": "2021-04-12",
           "deaths": 3770,
-          "recovered": 163462
+          "recovered": 168687
         }
       },
       "Tocantins": {
