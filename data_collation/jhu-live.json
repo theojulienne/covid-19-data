@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 114443,
+      "confirmed": 115080,
       "date": "2021-04-13",
-      "deaths": 1037,
-      "recovered": 95246
+      "deaths": 1049,
+      "recovered": 96844
     }
   },
   "Ethiopia": {
@@ -1285,10 +1285,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 876225,
+      "confirmed": 884783,
       "date": "2021-04-13",
-      "deaths": 15149,
-      "recovered": 703625
+      "deaths": 15286,
+      "recovered": 703963
     }
   },
   "Poland": {
@@ -1296,7 +1296,7 @@
       "confirmed": 2586647,
       "date": "2021-04-13",
       "deaths": 58481,
-      "recovered": 2197782
+      "recovered": 2219655
     }
   },
   "Portugal": {
@@ -1377,9 +1377,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 371168,
+      "confirmed": 372038,
       "date": "2021-04-13",
-      "deaths": 10630,
+      "deaths": 10716,
       "recovered": 255300
     }
   },
