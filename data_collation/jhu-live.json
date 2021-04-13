@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 157729,
+      "confirmed": 158789,
       "date": "2021-04-13",
-      "deaths": 562,
-      "recovered": 145953
+      "deaths": 566,
+      "recovered": 147162
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 161502,
           "date": "2021-04-13",
           "deaths": 3826,
-          "recovered": 152224
+          "recovered": 154445
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 272811,
           "date": "2021-04-13",
           "deaths": 6234,
-          "recovered": 192859
+          "recovered": 193434
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 892087,
           "date": "2021-04-13",
           "deaths": 22047,
-          "recovered": 860028
+          "recovered": 862875
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 680357,
           "date": "2021-04-13",
           "deaths": 39444,
-          "recovered": 633850
+          "recovered": 637348
         }
       },
       "Rondonia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 375115,
+      "confirmed": 378059,
       "date": "2021-04-13",
-      "deaths": 14619,
-      "recovered": 289356
+      "deaths": 14746,
+      "recovered": 293351
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 162038,
+          "confirmed": 163119,
           "date": "2021-04-13",
-          "deaths": 2018,
-          "recovered": 145171
+          "deaths": 2021,
+          "recovered": 146011
         }
       },
       "British Columbia": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 203309,
+      "confirmed": 205322,
       "date": "2021-04-13",
-      "deaths": 7020,
-      "recovered": 186127
+      "deaths": 7057,
+      "recovered": 187052
     }
   },
   "Honduras": {
@@ -1547,9 +1547,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 642652,
+          "confirmed": 643093,
           "date": "2021-04-13",
-          "deaths": 12097
+          "deaths": 12112
         }
       },
       "California": {
@@ -1673,7 +1673,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1273434,
+          "confirmed": 1274353,
           "date": "2021-04-13",
           "deaths": 19272
         }
