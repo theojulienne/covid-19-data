@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 398461,
+          "confirmed": 399566,
           "date": "2021-04-13",
-          "deaths": 7546,
-          "recovered": 357678
+          "deaths": 7553,
+          "recovered": 358531
         }
       },
       "Quebec": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 532742,
+          "confirmed": 532861,
           "date": "2021-04-13",
           "deaths": 13563,
           "recovered": 478900
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 124745,
+          "confirmed": 125378,
           "date": "2021-04-13",
-          "deaths": 3405,
-          "recovered": 111600
+          "deaths": 3414,
+          "recovered": 111300
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 236520,
+          "confirmed": 237981,
           "date": "2021-04-13",
-          "deaths": 8573,
-          "recovered": 210700
+          "deaths": 8611,
+          "recovered": 212400
         }
       },
       "Thuringen": {
@@ -1301,10 +1301,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 827765,
+      "confirmed": 828173,
       "date": "2021-04-13",
-      "deaths": 16918,
-      "recovered": 785063
+      "deaths": 16923,
+      "recovered": 785809
     }
   },
   "Qatar": {
@@ -1369,9 +1369,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 645173,
+      "confirmed": 648745,
       "date": "2021-04-13",
-      "deaths": 5773,
+      "deaths": 5808,
       "recovered": 0
     }
   },
@@ -1617,9 +1617,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 94605,
+          "confirmed": 94780,
           "date": "2021-04-13",
-          "deaths": 2110
+          "deaths": 2117
         }
       },
       "Nevada": {
