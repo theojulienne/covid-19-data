@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 104655,
+          "confirmed": 105184,
           "date": "2021-04-13",
           "deaths": 1719,
-          "recovered": 98154
+          "recovered": 98931
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 453350,
+          "confirmed": 455602,
           "date": "2021-04-13",
-          "deaths": 13322,
-          "recovered": 423089
+          "deaths": 13356,
+          "recovered": 426337
         }
       }
     }
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 258039,
+      "confirmed": 258637,
       "date": "2021-04-13",
-      "deaths": 3392,
-      "recovered": 216780
+      "deaths": 3397,
+      "recovered": 217008
     }
   },
   "Ecuador": {
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 154002,
+          "confirmed": 154671,
           "date": "2021-04-13",
-          "deaths": 3127,
-          "recovered": 141700
+          "deaths": 3128,
+          "recovered": 141900
         }
       },
       "Brandenburg": {
@@ -997,10 +997,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 669300,
+      "confirmed": 672090,
       "date": "2021-04-13",
-      "deaths": 7855,
-      "recovered": 604044
+      "deaths": 7937,
+      "recovered": 610614
     }
   },
   "Kazakhstan": {
@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 766342,
+          "confirmed": 768972,
           "date": "2021-04-13",
-          "deaths": 24194,
+          "deaths": 24350,
           "recovered": 0
         }
       }
