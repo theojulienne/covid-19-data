@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 156462,
+      "confirmed": 157729,
       "date": "2021-04-12",
-      "deaths": 557,
-      "recovered": 144917
+      "deaths": 562,
+      "recovered": 145953
     }
   },
   "Bangladesh": {
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 210489,
+      "confirmed": 211307,
       "date": "2021-04-12",
-      "deaths": 12445,
-      "recovered": 159499
+      "deaths": 12487,
+      "recovered": 159999
     }
   },
   "Estonia": {
@@ -1197,10 +1197,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 163799,
+      "confirmed": 163837,
       "date": "2021-04-12",
-      "deaths": 2060,
-      "recovered": 154107
+      "deaths": 2061,
+      "recovered": 154177
     }
   },
   "North Macedonia": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 103966,
+      "confirmed": 104269,
       "date": "2021-04-12",
       "deaths": 687,
       "recovered": 17998
