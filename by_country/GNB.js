@@ -897,6 +897,7 @@ var covid19_dataset_country_gnb = {
       3664,
       3675,
       3678,
+      3680,
       3680
     ],
     "deaths": [
@@ -1338,6 +1339,7 @@ var covid19_dataset_country_gnb = {
       63,
       65,
       65,
+      66,
       66,
       66,
       66,
@@ -1793,6 +1795,7 @@ var covid19_dataset_country_gnb = {
       3042,
       3049,
       3059,
+      3069,
       3069
     ]
   }

@@ -562,7 +562,7 @@
           "confirmed": 389448,
           "date": "2021-04-13",
           "deaths": 8946,
-          "recovered": 347800
+          "recovered": 349900
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 532742,
           "date": "2021-04-13",
           "deaths": 13563,
-          "recovered": 476100
+          "recovered": 478900
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 154002,
           "date": "2021-04-13",
           "deaths": 3127,
-          "recovered": 141200
+          "recovered": 141700
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 93523,
           "date": "2021-04-13",
           "deaths": 3401,
-          "recovered": 82690
+          "recovered": 83110
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 234519,
           "date": "2021-04-13",
           "deaths": 6521,
-          "recovered": 206500
+          "recovered": 207700
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 212178,
           "date": "2021-04-13",
           "deaths": 5037,
-          "recovered": 191000
+          "recovered": 192500
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 652744,
           "date": "2021-04-13",
           "deaths": 14655,
-          "recovered": 582600
+          "recovered": 586000
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 124745,
           "date": "2021-04-13",
           "deaths": 3405,
-          "recovered": 111100
+          "recovered": 111600
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 103095,
           "date": "2021-04-13",
           "deaths": 3524,
-          "recovered": 89490
+          "recovered": 90270
         }
       }
     }
@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 195780,
+      "confirmed": 196086,
       "date": "2021-04-13",
-      "deaths": 4804,
-      "recovered": 75796
+      "deaths": 4861,
+      "recovered": 75952
     }
   },
   "Hungary": {
