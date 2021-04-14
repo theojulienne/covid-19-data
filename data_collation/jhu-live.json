@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 289601,
+      "confirmed": 291894,
       "date": "2021-04-14",
-      "deaths": 3978,
-      "recovered": 253762
+      "deaths": 4009,
+      "recovered": 255833
     }
   },
   "Bahrain": {
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 184698,
+      "confirmed": 186372,
       "date": "2021-04-14",
-      "deaths": 7487,
-      "recovered": 141602
+      "deaths": 7642,
+      "recovered": 143944
     }
   },
   "Brazil": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 402003,
+          "confirmed": 403247,
           "date": "2021-04-14",
-          "deaths": 7559,
-          "recovered": 360560
+          "deaths": 7573,
+          "recovered": 361509
         }
       },
       "Quebec": {
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 941078,
+      "confirmed": 949050,
       "date": "2021-04-14",
-      "deaths": 14796,
-      "recovered": 826323
+      "deaths": 14836,
+      "recovered": 831519
     }
   },
   "Ireland": {
@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 768972,
+          "confirmed": 771636,
           "date": "2021-04-14",
-          "deaths": 24350,
+          "deaths": 24472,
           "recovered": 0
         }
       }
@@ -1485,7 +1485,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 95620,
+      "confirmed": 95719,
       "date": "2021-04-14",
       "deaths": 602,
       "recovered": 92151
@@ -1673,7 +1673,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1274353,
+          "confirmed": 1274538,
           "date": "2021-04-14",
           "deaths": 19272
         }
