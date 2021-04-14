@@ -138,7 +138,7 @@
           "confirmed": 162216,
           "date": "2021-04-14",
           "deaths": 3850,
-          "recovered": 154445
+          "recovered": 155036
         }
       },
       "Amapa": {
@@ -282,7 +282,7 @@
           "confirmed": 898514,
           "date": "2021-04-14",
           "deaths": 22388,
-          "recovered": 862875
+          "recovered": 867860
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 684758,
           "date": "2021-04-14",
           "deaths": 39791,
-          "recovered": 637348
+          "recovered": 640823
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 406031,
+          "confirmed": 406573,
           "date": "2021-04-14",
-          "deaths": 7585,
-          "recovered": 363443
+          "deaths": 7590,
+          "recovered": 363634
         }
       },
       "Quebec": {
@@ -1385,10 +1385,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1559960,
+      "confirmed": 1561559,
       "date": "2021-04-14",
-      "deaths": 53423,
-      "recovered": 1485315
+      "deaths": 53498,
+      "recovered": 1486873
     }
   },
   "Spain": {
@@ -1515,7 +1515,7 @@
     "live": {
       "confirmed": 627968,
       "date": "2021-04-14",
-      "deaths": 10485,
+      "deaths": 10488,
       "recovered": 317600
     }
   },
@@ -1553,9 +1553,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 94341,
+          "confirmed": 94841,
           "date": "2021-04-14",
-          "deaths": 2139
+          "deaths": 2140
         }
       },
       "Florida": {
@@ -1588,9 +1588,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 219924,
+          "confirmed": 220605,
           "date": "2021-04-14",
-          "deaths": 6012
+          "deaths": 6016
         }
       },
       "Michigan": {
@@ -1630,9 +1630,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1314992,
+          "confirmed": 1316398,
           "date": "2021-04-14",
-          "deaths": 38738
+          "deaths": 38747
         }
       },
       "North Carolina": {
@@ -1658,9 +1658,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 92106,
+          "confirmed": 92365,
           "date": "2021-04-14",
-          "deaths": 1576
+          "deaths": 1583
         }
       },
       "Texas": {
