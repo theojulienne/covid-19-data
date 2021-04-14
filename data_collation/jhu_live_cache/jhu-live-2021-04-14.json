@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 158789,
+      "confirmed": 159964,
       "date": "2021-04-14",
-      "deaths": 566,
-      "recovered": 147162
+      "deaths": 569,
+      "recovered": 148093
     }
   },
   "Bangladesh": {
@@ -186,7 +186,7 @@
           "confirmed": 406941,
           "date": "2021-04-14",
           "deaths": 8310,
-          "recovered": 374490
+          "recovered": 379771
         }
       },
       "Goias": {
@@ -330,17 +330,17 @@
           "confirmed": 149269,
           "date": "2021-04-14",
           "deaths": 2289,
-          "recovered": 128938
+          "recovered": 129261
         }
       }
     }
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 378059,
+      "confirmed": 380576,
       "date": "2021-04-14",
-      "deaths": 14746,
-      "recovered": 293351
+      "deaths": 14871,
+      "recovered": 296998
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 163119,
+          "confirmed": 164531,
           "date": "2021-04-14",
-          "deaths": 2021,
-          "recovered": 146011
+          "deaths": 2029,
+          "recovered": 146933
         }
       },
       "British Columbia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 406573,
+          "confirmed": 406575,
           "date": "2021-04-14",
-          "deaths": 7590,
-          "recovered": 363634
+          "deaths": 7592,
+          "recovered": 363639
         }
       },
       "Quebec": {
@@ -641,10 +641,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 205322,
+      "confirmed": 207127,
       "date": "2021-04-14",
-      "deaths": 7057,
-      "recovered": 187052
+      "deaths": 7089,
+      "recovered": 187894
     }
   },
   "Honduras": {
@@ -1665,7 +1665,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1274808,
+          "confirmed": 1275994,
           "date": "2021-04-14",
           "deaths": 19301
         }

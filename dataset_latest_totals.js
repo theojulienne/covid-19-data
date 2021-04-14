@@ -355,31 +355,31 @@ var covid19_dataset_latest_totals = {
         "recovered": 273429
       },
       "back_2week": {
-        "confirmed": 333250,
-        "deaths": 12913,
-        "recovered": 252473
+        "confirmed": 338426,
+        "deaths": 13068,
+        "recovered": 255692
       },
       "latest": {
-        "confirmed": 375115,
-        "deaths": 14619,
-        "recovered": 289356
+        "confirmed": 378059,
+        "deaths": 14746,
+        "recovered": 293351
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 149791,
-        "deaths": 541,
-        "recovered": 139205
+        "confirmed": 150811,
+        "deaths": 545,
+        "recovered": 140125
       },
       "back_2week": {
-        "confirmed": 142669,
-        "deaths": 515,
-        "recovered": 133753
+        "confirmed": 143574,
+        "deaths": 517,
+        "recovered": 134442
       },
       "latest": {
-        "confirmed": 157729,
-        "deaths": 562,
-        "recovered": 145953
+        "confirmed": 158789,
+        "deaths": 566,
+        "recovered": 147162
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 162038,
-          "deaths": 2018
+          "confirmed": 163119,
+          "deaths": 2021
         },
         "British Columbia": {
           "confirmed": 112829,
@@ -1627,19 +1627,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 195680,
-        "deaths": 6894,
-        "recovered": 180527
+        "confirmed": 197020,
+        "deaths": 6903,
+        "recovered": 181532
       },
       "back_2week": {
-        "confirmed": 193556,
-        "deaths": 6809,
-        "recovered": 175896
+        "confirmed": 193834,
+        "deaths": 6823,
+        "recovered": 176613
       },
       "latest": {
-        "confirmed": 203309,
-        "deaths": 7020,
-        "recovered": 186127
+        "confirmed": 205322,
+        "deaths": 7057,
+        "recovered": 187052
       }
     },
     "GUY": {
