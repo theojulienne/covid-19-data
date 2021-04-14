@@ -422,7 +422,7 @@
           "confirmed": 416415,
           "date": "2021-04-14",
           "deaths": 7777,
-          "recovered": 378910
+          "recovered": 381475
         }
       },
       "Atlantico": {
@@ -430,7 +430,7 @@
           "confirmed": 189654,
           "date": "2021-04-14",
           "deaths": 5282,
-          "recovered": 168370
+          "recovered": 172078
         }
       },
       "Capital District": {
@@ -438,7 +438,7 @@
           "confirmed": 716999,
           "date": "2021-04-14",
           "deaths": 14736,
-          "recovered": 675448
+          "recovered": 676901
         }
       },
       "Cundinamarca": {
@@ -446,7 +446,7 @@
           "confirmed": 114921,
           "date": "2021-04-14",
           "deaths": 3125,
-          "recovered": 109150
+          "recovered": 109576
         }
       },
       "Santander": {
@@ -454,7 +454,7 @@
           "confirmed": 96647,
           "date": "2021-04-14",
           "deaths": 3539,
-          "recovered": 90587
+          "recovered": 90752
         }
       },
       "Valle del Cauca": {
@@ -462,7 +462,7 @@
           "confirmed": 218980,
           "date": "2021-04-14",
           "deaths": 6758,
-          "recovered": 205554
+          "recovered": 206766
         }
       }
     }
@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1585037,
+      "confirmed": 1590124,
       "date": "2021-04-14",
-      "deaths": 28038,
-      "recovered": 1473483
+      "deaths": 28124,
+      "recovered": 1480882
     }
   },
   "Denmark": {
@@ -1554,7 +1554,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2784178,
+          "confirmed": 2784209,
           "date": "2021-04-14",
           "deaths": 47559
         }
