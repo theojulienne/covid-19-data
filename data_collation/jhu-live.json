@@ -390,7 +390,7 @@
           "confirmed": 329472,
           "date": "2021-04-14",
           "deaths": 10756,
-          "recovered": 304267
+          "recovered": 305463
         }
       }
     }
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2783901,
+          "confirmed": 2784178,
           "date": "2021-04-14",
-          "deaths": 47557
+          "deaths": 47559
         }
       },
       "Connecticut": {
@@ -1799,10 +1799,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 147173,
+      "confirmed": 149430,
       "date": "2021-04-14",
-      "deaths": 1533,
-      "recovered": 113125
+      "deaths": 1595,
+      "recovered": 116533
     }
   },
   "Venezuela": {
