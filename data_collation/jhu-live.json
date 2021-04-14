@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 204053,
+      "confirmed": 205128,
       "date": "2021-04-14",
-      "deaths": 3775,
-      "recovered": 183660
+      "deaths": 3794,
+      "recovered": 184243
     }
   },
   "Austria": {
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 728078,
+      "confirmed": 731675,
       "date": "2021-04-14",
-      "deaths": 23980,
-      "recovered": 431124
+      "deaths": 24265,
+      "recovered": 435344
     }
   },
   "India": {
@@ -1327,34 +1327,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1051931,
+          "confirmed": 1053768,
           "date": "2021-04-14",
-          "deaths": 17360,
-          "recovered": 963086
+          "deaths": 17412,
+          "recovered": 964837
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 239734,
+          "confirmed": 240302,
           "date": "2021-04-14",
-          "deaths": 5589,
-          "recovered": 197078
+          "deaths": 5601,
+          "recovered": 197595
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 110677,
+          "confirmed": 110892,
           "date": "2021-04-14",
-          "deaths": 2960,
-          "recovered": 105518
+          "deaths": 2974,
+          "recovered": 105777
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 403789,
+          "confirmed": 404501,
           "date": "2021-04-14",
-          "deaths": 12665,
-          "recovered": 359023
+          "deaths": 12693,
+          "recovered": 360000
         }
       }
     }
