@@ -899,7 +899,8 @@ var covid19_dataset_country_tcd = {
       4619,
       4625,
       4636,
-      4641
+      4641,
+      4652
     ],
     "deaths": [
       0,
@@ -1344,6 +1345,7 @@ var covid19_dataset_country_tcd = {
       166,
       166,
       166,
+      167,
       167,
       167,
       167,
@@ -1797,7 +1799,8 @@ var covid19_dataset_country_tcd = {
       4279,
       4286,
       4286,
-      4298
+      4298,
+      4306
     ]
   }
 };
