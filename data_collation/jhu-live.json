@@ -419,49 +419,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 412619,
+          "confirmed": 416415,
           "date": "2021-04-14",
-          "deaths": 7702,
+          "deaths": 7777,
           "recovered": 378910
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 186292,
+          "confirmed": 189654,
           "date": "2021-04-14",
-          "deaths": 5188,
+          "deaths": 5282,
           "recovered": 168370
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 713559,
+          "confirmed": 716999,
           "date": "2021-04-14",
-          "deaths": 14706,
+          "deaths": 14736,
           "recovered": 675448
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 114448,
+          "confirmed": 114921,
           "date": "2021-04-14",
-          "deaths": 3118,
+          "deaths": 3125,
           "recovered": 109150
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 96381,
+          "confirmed": 96647,
           "date": "2021-04-14",
-          "deaths": 3536,
+          "deaths": 3539,
           "recovered": 90587
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 217981,
+          "confirmed": 218980,
           "date": "2021-04-14",
-          "deaths": 6737,
+          "deaths": 6758,
           "recovered": 205554
         }
       }
@@ -1705,50 +1705,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 105572,
+          "confirmed": 106178,
           "date": "2021-04-14",
-          "deaths": 2717,
-          "recovered": 80770
+          "deaths": 2745,
+          "recovered": 81270
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 118663,
+          "confirmed": 119918,
           "date": "2021-04-14",
-          "deaths": 2260,
-          "recovered": 92345
+          "deaths": 2283,
+          "recovered": 93315
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 178609,
+          "confirmed": 180066,
           "date": "2021-04-14",
-          "deaths": 3974,
-          "recovered": 111821
+          "deaths": 4021,
+          "recovered": 112534
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 107539,
+          "confirmed": 108384,
           "date": "2021-04-14",
-          "deaths": 1932,
-          "recovered": 83994
+          "deaths": 1971,
+          "recovered": 84800
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 118577,
+          "confirmed": 119540,
           "date": "2021-04-14",
-          "deaths": 2898,
-          "recovered": 86756
+          "deaths": 2933,
+          "recovered": 87399
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 121662,
+          "confirmed": 122568,
           "date": "2021-04-14",
-          "deaths": 2112,
-          "recovered": 87362
+          "deaths": 2154,
+          "recovered": 87837
         }
       }
     }
