@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 205128,
+      "confirmed": 206142,
       "date": "2021-04-15",
-      "deaths": 3794,
-      "recovered": 184243
+      "deaths": 3817,
+      "recovered": 185125
     }
   },
   "Austria": {
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 115629,
+      "confirmed": 116200,
       "date": "2021-04-15",
-      "deaths": 1057,
-      "recovered": 97889
+      "deaths": 1064,
+      "recovered": 99096
     }
   },
   "Ethiopia": {
@@ -549,10 +549,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 291214,
+      "confirmed": 292244,
       "date": "2021-04-15",
-      "deaths": 3901,
-      "recovered": 278683
+      "deaths": 3908,
+      "recovered": 279389
     }
   },
   "Germany": {
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 731675,
+      "confirmed": 736982,
       "date": "2021-04-15",
-      "deaths": 24265,
-      "recovered": 435344
+      "deaths": 24521,
+      "recovered": 440498
     }
   },
   "India": {
@@ -1327,34 +1327,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1053768,
+          "confirmed": 1056223,
           "date": "2021-04-15",
-          "deaths": 17412,
-          "recovered": 964837
+          "deaths": 17471,
+          "recovered": 966781
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 240302,
+          "confirmed": 240867,
           "date": "2021-04-15",
-          "deaths": 5601,
-          "recovered": 197595
+          "deaths": 5614,
+          "recovered": 198084
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 110892,
+          "confirmed": 111103,
           "date": "2021-04-15",
-          "deaths": 2974,
-          "recovered": 105777
+          "deaths": 2989,
+          "recovered": 106043
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 404501,
+          "confirmed": 405220,
           "date": "2021-04-15",
-          "deaths": 12693,
-          "recovered": 360000
+          "deaths": 12720,
+          "recovered": 361456
         }
       }
     }
@@ -1485,9 +1485,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 95719,
+      "confirmed": 95737,
       "date": "2021-04-15",
-      "deaths": 602,
+      "deaths": 604,
       "recovered": 92151
     }
   },
