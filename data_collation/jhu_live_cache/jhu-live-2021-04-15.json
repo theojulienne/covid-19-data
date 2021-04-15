@@ -1701,7 +1701,7 @@
           "confirmed": 107183,
           "date": "2021-04-15",
           "deaths": 2776,
-          "recovered": 81270
+          "recovered": 81707
         }
       },
       "Kharkiv Oblast": {
@@ -1709,7 +1709,7 @@
           "confirmed": 121086,
           "date": "2021-04-15",
           "deaths": 2312,
-          "recovered": 93315
+          "recovered": 94319
         }
       },
       "Kiev": {
@@ -1717,7 +1717,7 @@
           "confirmed": 181691,
           "date": "2021-04-15",
           "deaths": 4072,
-          "recovered": 112534
+          "recovered": 113240
         }
       },
       "Kiev Oblast": {
@@ -1725,7 +1725,7 @@
           "confirmed": 109219,
           "date": "2021-04-15",
           "deaths": 2010,
-          "recovered": 84800
+          "recovered": 85726
         }
       },
       "Lviv Oblast": {
@@ -1733,7 +1733,7 @@
           "confirmed": 120288,
           "date": "2021-04-15",
           "deaths": 2950,
-          "recovered": 87399
+          "recovered": 87872
         }
       },
       "Odessa Oblast": {
@@ -1741,7 +1741,7 @@
           "confirmed": 123449,
           "date": "2021-04-15",
           "deaths": 2188,
-          "recovered": 87837
+          "recovered": 87990
         }
       }
     }
