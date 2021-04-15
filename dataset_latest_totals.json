@@ -1173,18 +1173,18 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 337702,
-        "deaths": 17004,
+        "confirmed": 339604,
+        "deaths": 17057,
         "recovered": 290314
       },
       "back_2week": {
-        "confirmed": 327325,
-        "deaths": 16780,
+        "confirmed": 328755,
+        "deaths": 16847,
         "recovered": 281684
       },
       "latest": {
-        "confirmed": 347589,
-        "deaths": 17351,
+        "confirmed": 350539,
+        "deaths": 17400,
         "recovered": 298604
       }
     },
