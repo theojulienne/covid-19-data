@@ -162,7 +162,7 @@
           "confirmed": 848627,
           "date": "2021-04-15",
           "deaths": 16859,
-          "recovered": 816077
+          "recovered": 819319
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 904944,
           "date": "2021-04-15",
           "deaths": 22565,
-          "recovered": 867860
+          "recovered": 869363
         }
       },
       "Rio de Janeiro": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 234405,
+      "confirmed": 236554,
       "date": "2021-04-15",
-      "deaths": 3252,
-      "recovered": 174591
+      "deaths": 3285,
+      "recovered": 175879
     }
   },
   "France": {
@@ -869,9 +869,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 242105,
+      "confirmed": 242402,
       "date": "2021-04-15",
-      "deaths": 4812,
+      "deaths": 4820,
       "recovered": 23364
     }
   },
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2786067,
+          "confirmed": 2786168,
           "date": "2021-04-15",
-          "deaths": 47724
+          "deaths": 47731
         }
       },
       "Connecticut": {
