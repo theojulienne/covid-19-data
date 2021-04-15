@@ -390,7 +390,7 @@
           "confirmed": 331031,
           "date": "2021-04-15",
           "deaths": 10763,
-          "recovered": 305463
+          "recovered": 306608
         }
       }
     }
@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 623164,
+          "confirmed": 624799,
           "date": "2021-04-15",
-          "deaths": 31684,
+          "deaths": 31771,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 129138,
+          "confirmed": 129323,
           "date": "2021-04-15",
-          "deaths": 10215,
+          "deaths": 10248,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 238792,
+          "confirmed": 239331,
           "date": "2021-04-15",
-          "deaths": 32942,
+          "deaths": 33005,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 120987,
+          "confirmed": 121110,
           "date": "2021-04-15",
-          "deaths": 9144,
+          "deaths": 9148,
           "recovered": 0
         }
       }
@@ -1265,10 +1265,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 240141,
+      "confirmed": 242161,
       "date": "2021-04-15",
-      "deaths": 4978,
-      "recovered": 196718
+      "deaths": 5040,
+      "recovered": 198473
     }
   },
   "Peru": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2784976,
+          "confirmed": 2785698,
           "date": "2021-04-15",
-          "deaths": 47634
+          "deaths": 47686
         }
       },
       "Connecticut": {
@@ -1792,10 +1792,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 149430,
+      "confirmed": 152089,
       "date": "2021-04-15",
-      "deaths": 1595,
-      "recovered": 116533
+      "deaths": 1647,
+      "recovered": 119388
     }
   },
   "Venezuela": {
