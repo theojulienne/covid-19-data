@@ -290,7 +290,7 @@
           "confirmed": 688797,
           "date": "2021-04-15",
           "deaths": 40091,
-          "recovered": 640823
+          "recovered": 644412
         }
       },
       "Rondonia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 380576,
+      "confirmed": 382761,
       "date": "2021-04-15",
-      "deaths": 14871,
-      "recovered": 296998
+      "deaths": 14979,
+      "recovered": 300391
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 164531,
+          "confirmed": 166177,
           "date": "2021-04-15",
-          "deaths": 2029,
-          "recovered": 146933
+          "deaths": 2034,
+          "recovered": 147920
         }
       },
       "British Columbia": {
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1561559,
+      "confirmed": 1562931,
       "date": "2021-04-15",
-      "deaths": 53498,
-      "recovered": 1486873
+      "deaths": 53571,
+      "recovered": 1488060
     }
   },
   "Spain": {
@@ -1638,9 +1638,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1318301,
+          "confirmed": 1320567,
           "date": "2021-04-15",
-          "deaths": 38757
+          "deaths": 38813
         }
       },
       "North Carolina": {
@@ -1666,7 +1666,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1276428,
+          "confirmed": 1277080,
           "date": "2021-04-15",
           "deaths": 19337
         }
