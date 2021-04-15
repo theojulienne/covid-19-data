@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 703170,
+      "confirmed": 707362,
       "date": "2021-04-15",
-      "deaths": 9987,
-      "recovered": 591299
+      "deaths": 10081,
+      "recovered": 597214
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 338801,
+      "confirmed": 340023,
       "date": "2021-04-15",
-      "deaths": 2383,
-      "recovered": 329135
+      "deaths": 2393,
+      "recovered": 330483
     }
   },
   "Belgium": {
@@ -845,18 +845,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1583182,
+      "confirmed": 1589359,
       "date": "2021-04-15",
-      "deaths": 42906,
-      "recovered": 1431892
+      "deaths": 43073,
+      "recovered": 1438254
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 2143794,
+      "confirmed": 2168872,
       "date": "2021-04-15",
-      "deaths": 65359,
-      "recovered": 1739002
+      "deaths": 65680,
+      "recovered": 1749041
     }
   },
   "Iraq": {
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 128182,
           "date": "2021-04-15",
-          "deaths": 1803,
+          "deaths": 1812,
           "recovered": 121418
         }
       }
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 365829,
+      "confirmed": 367977,
       "date": "2021-04-15",
-      "deaths": 1353,
-      "recovered": 347780
+      "deaths": 1363,
+      "recovered": 349039
     }
   },
   "Mexico": {
@@ -1317,10 +1317,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1016449,
+      "confirmed": 1020301,
       "date": "2021-04-15",
-      "deaths": 25605,
-      "recovered": 920653
+      "deaths": 25800,
+      "recovered": 925395
     }
   },
   "Russia": {
@@ -1488,7 +1488,7 @@
       "confirmed": 95737,
       "date": "2021-04-15",
       "deaths": 604,
-      "recovered": 92151
+      "recovered": 92308
     }
   },
   "Sweden": {
@@ -1666,7 +1666,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1275994,
+          "confirmed": 1276146,
           "date": "2021-04-15",
           "deaths": 19301
         }
