@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 291894,
+      "confirmed": 294211,
       "date": "2021-04-15",
-      "deaths": 4009,
-      "recovered": 255833
+      "deaths": 4045,
+      "recovered": 257942
     }
   },
   "Bahrain": {
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 186372,
+      "confirmed": 187715,
       "date": "2021-04-15",
-      "deaths": 7642,
-      "recovered": 143944
+      "deaths": 7702,
+      "recovered": 144932
     }
   },
   "Brazil": {
@@ -379,17 +379,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 406590,
+          "confirmed": 408025,
           "date": "2021-04-15",
-          "deaths": 7592,
-          "recovered": 363632
+          "deaths": 7601,
+          "recovered": 364762
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 331031,
+          "confirmed": 332544,
           "date": "2021-04-15",
-          "deaths": 10763,
+          "deaths": 10778,
           "recovered": 306608
         }
       }
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 156006,
+          "confirmed": 157022,
           "date": "2021-04-15",
-          "deaths": 3134,
-          "recovered": 143300
+          "deaths": 3143,
+          "recovered": 143600
         }
       },
       "Brandenburg": {
@@ -615,9 +615,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 126610,
+          "confirmed": 127676,
           "date": "2021-04-15",
-          "deaths": 3422,
+          "deaths": 3434,
           "recovered": 112700
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 949050,
+      "confirmed": 956860,
       "date": "2021-04-15",
-      "deaths": 14836,
-      "recovered": 831519
+      "deaths": 14885,
+      "recovered": 837336
     }
   },
   "Ireland": {
@@ -1129,10 +1129,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 94859,
+      "confirmed": 95042,
       "date": "2021-04-15",
-      "deaths": 1405,
-      "recovered": 89615
+      "deaths": 1412,
+      "recovered": 89965
     }
   },
   "Morocco": {
@@ -1213,7 +1213,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 105607,
+      "confirmed": 105870,
       "date": "2021-04-15",
       "deaths": 707,
       "recovered": 17998
@@ -1301,18 +1301,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 828857,
+      "confirmed": 829358,
       "date": "2021-04-15",
-      "deaths": 16931,
-      "recovered": 786469
+      "deaths": 16933,
+      "recovered": 787011
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 192963,
+      "confirmed": 193952,
       "date": "2021-04-15",
-      "deaths": 348,
-      "recovered": 171388
+      "deaths": 357,
+      "recovered": 171985
     }
   },
   "Romania": {
@@ -1521,9 +1521,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 627968,
+      "confirmed": 630194,
       "date": "2021-04-15",
-      "deaths": 10492,
+      "deaths": 10497,
       "recovered": 317600
     }
   },
@@ -1584,7 +1584,7 @@
         "live": {
           "confirmed": 516399,
           "date": "2021-04-15",
-          "deaths": 9792
+          "deaths": 9791
         }
       },
       "Indiana": {
@@ -1631,9 +1631,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 97118,
+          "confirmed": 97483,
           "date": "2021-04-15",
-          "deaths": 2774
+          "deaths": 2782
         }
       },
       "New York": {
@@ -1758,33 +1758,33 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3826495,
+          "confirmed": 3828666,
           "date": "2021-04-15",
-          "deaths": 111862,
+          "deaths": 111887,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 118573,
+          "confirmed": 118732,
           "date": "2021-04-15",
-          "deaths": 2130,
+          "deaths": 2132,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 222660,
+          "confirmed": 222897,
           "date": "2021-04-15",
-          "deaths": 7636,
+          "deaths": 7637,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 210577,
+          "confirmed": 210681,
           "date": "2021-04-15",
-          "deaths": 5533,
+          "deaths": 5535,
           "recovered": 0
         }
       }
