@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 160934,
+      "confirmed": 162089,
       "date": "2021-04-16",
-      "deaths": 574,
-      "recovered": 149159
+      "deaths": 581,
+      "recovered": 150179
     }
   },
   "Bangladesh": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 382761,
+      "confirmed": 384887,
       "date": "2021-04-16",
-      "deaths": 14979,
-      "recovered": 300391
+      "deaths": 15100,
+      "recovered": 304033
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 166177,
+          "confirmed": 167793,
           "date": "2021-04-16",
           "deaths": 2034,
-          "recovered": 147920
+          "recovered": 149000
         }
       },
       "British Columbia": {
@@ -1215,7 +1215,7 @@
     "live": {
       "confirmed": 106522,
       "date": "2021-04-16",
-      "deaths": 707,
+      "deaths": 708,
       "recovered": 17998
     }
   },
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2788159,
+          "confirmed": 2788253,
           "date": "2021-04-16",
-          "deaths": 47819
+          "deaths": 47824
         }
       },
       "Connecticut": {
@@ -1666,7 +1666,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1277656,
+          "confirmed": 1278195,
           "date": "2021-04-16",
           "deaths": 19339
         }
