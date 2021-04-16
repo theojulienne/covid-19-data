@@ -170,7 +170,7 @@
           "confirmed": 597518,
           "date": "2021-04-16",
           "deaths": 15650,
-          "recovered": 411754
+          "recovered": 417260
         }
       },
       "Distrito Federal": {
@@ -218,7 +218,7 @@
           "confirmed": 233948,
           "date": "2021-04-16",
           "deaths": 5055,
-          "recovered": 215207
+          "recovered": 216864
         }
       },
       "Minas Gerais": {
@@ -338,7 +338,7 @@
           "confirmed": 151243,
           "date": "2021-04-16",
           "deaths": 2327,
-          "recovered": 130487
+          "recovered": 130970
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 414207,
+          "confirmed": 415686,
           "date": "2021-04-16",
-          "deaths": 7645,
-          "recovered": 369335
+          "deaths": 7652,
+          "recovered": 370223
         }
       },
       "Quebec": {
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1562931,
+      "confirmed": 1564355,
       "date": "2021-04-16",
-      "deaths": 53571,
-      "recovered": 1488060
+      "deaths": 53663,
+      "recovered": 1488572
     }
   },
   "Spain": {
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 279376,
+      "confirmed": 281777,
       "date": "2021-04-16",
-      "deaths": 9553,
-      "recovered": 231285
+      "deaths": 9639,
+      "recovered": 232643
     }
   },
   "Turkey": {
