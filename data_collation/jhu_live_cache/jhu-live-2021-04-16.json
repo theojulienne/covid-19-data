@@ -390,7 +390,7 @@
           "confirmed": 332544,
           "date": "2021-04-16",
           "deaths": 10778,
-          "recovered": 306608
+          "recovered": 307748
         }
       }
     }
@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 624799,
+          "confirmed": 626047,
           "date": "2021-04-16",
-          "deaths": 31771,
+          "deaths": 31813,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 129323,
+          "confirmed": 129437,
           "date": "2021-04-16",
-          "deaths": 10248,
+          "deaths": 10300,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 239331,
+          "confirmed": 239725,
           "date": "2021-04-16",
-          "deaths": 33005,
+          "deaths": 33066,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 121110,
+          "confirmed": 121235,
           "date": "2021-04-16",
-          "deaths": 9148,
+          "deaths": 9153,
           "recovered": 0
         }
       }
@@ -1257,18 +1257,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 359516,
+      "confirmed": 359830,
       "date": "2021-04-16",
-      "deaths": 6177,
-      "recovered": 349318
+      "deaths": 6183,
+      "recovered": 349718
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 242161,
+      "confirmed": 244528,
       "date": "2021-04-16",
-      "deaths": 5040,
-      "recovered": 198473
+      "deaths": 5110,
+      "recovered": 200259
     }
   },
   "Peru": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2787004,
+          "confirmed": 2787284,
           "date": "2021-04-16",
-          "deaths": 47742
+          "deaths": 47747
         }
       },
       "Connecticut": {
@@ -1792,10 +1792,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 152089,
+      "confirmed": 156499,
       "date": "2021-04-16",
-      "deaths": 1647,
-      "recovered": 119388
+      "deaths": 1726,
+      "recovered": 122637
     }
   },
   "Venezuela": {
