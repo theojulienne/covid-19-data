@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 286114,
+      "confirmed": 287360,
       "date": "2021-04-17",
-      "deaths": 12603,
-      "recovered": 235495
+      "deaths": 12625,
+      "recovered": 236455
     }
   },
   "Bosnia and Herzegovina": {
@@ -390,7 +390,7 @@
           "confirmed": 334071,
           "date": "2021-04-17",
           "deaths": 10785,
-          "recovered": 307748
+          "recovered": 309345
         }
       }
     }
@@ -559,7 +559,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 403557,
+          "confirmed": 403571,
           "date": "2021-04-17",
           "deaths": 9047,
           "recovered": 356100
@@ -567,15 +567,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 546956,
+          "confirmed": 550632,
           "date": "2021-04-17",
-          "deaths": 13687,
+          "deaths": 13717,
           "recovered": 487800
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 158308,
+          "confirmed": 158317,
           "date": "2021-04-17",
           "deaths": 3147,
           "recovered": 144300
@@ -583,39 +583,39 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 95604,
+          "confirmed": 96158,
           "date": "2021-04-17",
-          "deaths": 3436,
+          "deaths": 3443,
           "recovered": 84680
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 240509,
+          "confirmed": 242061,
           "date": "2021-04-17",
-          "deaths": 6585,
+          "deaths": 6596,
           "recovered": 211900
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 217562,
+          "confirmed": 219426,
           "date": "2021-04-17",
-          "deaths": 5115,
+          "deaths": 5119,
           "recovered": 196700
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 669472,
+          "confirmed": 674695,
           "date": "2021-04-17",
-          "deaths": 14813,
+          "deaths": 14854,
           "recovered": 596700
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 128813,
+          "confirmed": 128838,
           "date": "2021-04-17",
           "deaths": 3447,
           "recovered": 113400
@@ -623,17 +623,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 244089,
+          "confirmed": 244093,
           "date": "2021-04-17",
-          "deaths": 8722,
+          "deaths": 8724,
           "recovered": 216600
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 106200,
+          "confirmed": 107057,
           "date": "2021-04-17",
-          "deaths": 3607,
+          "deaths": 3641,
           "recovered": 92670
         }
       }
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 128849,
           "date": "2021-04-17",
-          "deaths": 1812,
+          "deaths": 1820,
           "recovered": 121876
         }
       }
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 333046,
+      "confirmed": 335868,
       "date": "2021-04-17",
       "deaths": 3282,
-      "recovered": 292103
+      "recovered": 294995
     }
   },
   "Kenya": {
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 112789,
+      "confirmed": 113444,
       "date": "2021-04-17",
-      "deaths": 1790,
-      "recovered": 103062
+      "deaths": 1794,
+      "recovered": 103594
     }
   },
   "Kosovo": {
@@ -1523,7 +1523,7 @@
     "live": {
       "confirmed": 632399,
       "date": "2021-04-17",
-      "deaths": 10503,
+      "deaths": 10505,
       "recovered": 317600
     }
   },
@@ -1800,10 +1800,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 179365,
+      "confirmed": 180609,
       "date": "2021-04-17",
-      "deaths": 1853,
-      "recovered": 161820
+      "deaths": 1870,
+      "recovered": 162936
     }
   },
   "West Bank and Gaza": {
