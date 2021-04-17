@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 355964,
+      "confirmed": 358157,
       "date": "2021-04-17",
-      "deaths": 17528,
+      "deaths": 17641,
       "recovered": 298604
     }
   },
@@ -1547,9 +1547,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 644499,
+          "confirmed": 644692,
           "date": "2021-04-17",
-          "deaths": 12150
+          "deaths": 12147
         }
       },
       "California": {
@@ -1568,16 +1568,16 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1187431,
+          "confirmed": 1191126,
           "date": "2021-04-17",
-          "deaths": 15722
+          "deaths": 15761
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 193112,
+          "confirmed": 193455,
           "date": "2021-04-17",
-          "deaths": 2447
+          "deaths": 2454
         }
       },
       "Illinois": {
@@ -1687,9 +1687,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 112801,
+          "confirmed": 112980,
           "date": "2021-04-17",
-          "deaths": 1320
+          "deaths": 1322
         }
       }
     }
