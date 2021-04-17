@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142617,
+      "confirmed": 142619,
       "date": "2021-04-17",
       "deaths": 3206,
-      "recovered": 131884
+      "recovered": 131889
     }
   },
   "Canada": {
@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 303598,
+      "confirmed": 306225,
       "date": "2021-04-17",
-      "deaths": 6486,
-      "recovered": 281059
+      "deaths": 6523,
+      "recovered": 283418
     }
   },
   "Czechia": {
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 219426,
+          "confirmed": 220100,
           "date": "2021-04-17",
-          "deaths": 5119,
+          "deaths": 5120,
           "recovered": 197600
         }
       },
@@ -845,18 +845,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1594722,
+      "confirmed": 1599763,
       "date": "2021-04-17",
-      "deaths": 43196,
-      "recovered": 1444229
+      "deaths": 43328,
+      "recovered": 1450192
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 2194133,
+      "confirmed": 2215445,
       "date": "2021-04-17",
-      "deaths": 66008,
-      "recovered": 1761497
+      "deaths": 66327,
+      "recovered": 1772688
     }
   },
   "Iraq": {
@@ -990,7 +990,7 @@
           "confirmed": 129608,
           "date": "2021-04-17",
           "deaths": 1820,
-          "recovered": 121876
+          "recovered": 122419
         }
       }
     }
@@ -1045,10 +1045,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 110343,
+      "confirmed": 110997,
       "date": "2021-04-17",
-      "deaths": 2042,
-      "recovered": 101088
+      "deaths": 2048,
+      "recovered": 101944
     }
   },
   "Lebanon": {
@@ -1385,10 +1385,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 230826,
+      "confirmed": 231593,
       "date": "2021-04-17",
-      "deaths": 4147,
-      "recovered": 213980
+      "deaths": 4153,
+      "recovered": 215272
     }
   },
   "South Africa": {
