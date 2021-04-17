@@ -1916,19 +1916,19 @@ var covid19_dataset_latest_totals = {
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 315102,
-        "deaths": 3261,
-        "recovered": 280972
+        "confirmed": 317937,
+        "deaths": 3262,
+        "recovered": 282653
       },
       "back_2week": {
-        "confirmed": 299626,
-        "deaths": 3234,
-        "recovered": 269765
+        "confirmed": 301818,
+        "deaths": 3236,
+        "recovered": 271216
       },
       "latest": {
-        "confirmed": 333046,
+        "confirmed": 335868,
         "deaths": 3282,
-        "recovered": 292103
+        "recovered": 294995
       }
     },
     "KEN": {
