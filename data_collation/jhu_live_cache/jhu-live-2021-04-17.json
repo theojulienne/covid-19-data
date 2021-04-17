@@ -162,7 +162,7 @@
           "confirmed": 855871,
           "date": "2021-04-17",
           "deaths": 17134,
-          "recovered": 823110
+          "recovered": 826161
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 609849,
           "date": "2021-04-17",
           "deaths": 16075,
-          "recovered": 417260
+          "recovered": 421558
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 521333,
           "date": "2021-04-17",
           "deaths": 13481,
-          "recovered": 494074
+          "recovered": 498452
         }
       },
       "Maranhao": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 418555,
+          "confirmed": 419706,
           "date": "2021-04-17",
-          "deaths": 7661,
-          "recovered": 372652
+          "deaths": 7679,
+          "recovered": 373799
         }
       },
       "Quebec": {
@@ -1529,10 +1529,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 281777,
+      "confirmed": 283976,
       "date": "2021-04-17",
-      "deaths": 9639,
-      "recovered": 232643
+      "deaths": 9717,
+      "recovered": 234012
     }
   },
   "Turkey": {
@@ -1554,9 +1554,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2789394,
+          "confirmed": 2789501,
           "date": "2021-04-17",
-          "deaths": 47874
+          "deaths": 47879
         }
       },
       "Connecticut": {
@@ -1603,9 +1603,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 244941,
+          "confirmed": 246941,
           "date": "2021-04-17",
-          "deaths": 6539
+          "deaths": 6562
         }
       },
       "Minnesota": {
@@ -1668,7 +1668,7 @@
         "live": {
           "confirmed": 1278441,
           "date": "2021-04-17",
-          "deaths": 19377
+          "deaths": 19405
         }
       },
       "Utah": {
