@@ -1275,9 +1275,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 780669,
+          "confirmed": 783670,
           "date": "2021-04-17",
-          "deaths": 24742,
+          "deaths": 24881,
           "recovered": 0
         }
       }
@@ -1393,10 +1393,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1564355,
+      "confirmed": 1565680,
       "date": "2021-04-17",
-      "deaths": 53663,
-      "recovered": 1488572
+      "deaths": 53711,
+      "recovered": 1489457
     }
   },
   "Spain": {
@@ -1596,9 +1596,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 221942,
+          "confirmed": 222489,
           "date": "2021-04-17",
-          "deaths": 6022
+          "deaths": 6023
         }
       },
       "Michigan": {
