@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 342923,
+      "confirmed": 344223,
       "date": "2021-04-18",
-      "deaths": 2413,
-      "recovered": 333373
+      "deaths": 2423,
+      "recovered": 334852
     }
   },
   "Belgium": {
@@ -559,7 +559,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 406431,
+          "confirmed": 406256,
           "date": "2021-04-18",
           "deaths": 9060,
           "recovered": 359400
@@ -1145,10 +1145,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 283658,
+      "confirmed": 284673,
       "date": "2021-04-18",
-      "deaths": 3075,
-      "recovered": 275038
+      "deaths": 3083,
+      "recovered": 275300
     }
   },
   "Netherlands": {
@@ -1285,10 +1285,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 926052,
+      "confirmed": 936133,
       "date": "2021-04-18",
-      "deaths": 15810,
-      "recovered": 706532
+      "deaths": 15960,
+      "recovered": 779084
     }
   },
   "Poland": {
@@ -1808,10 +1808,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 279753,
+      "confirmed": 280741,
       "date": "2021-04-18",
-      "deaths": 2983,
-      "recovered": 245295
+      "deaths": 3017,
+      "recovered": 247359
     }
   }
 }
