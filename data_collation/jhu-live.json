@@ -390,7 +390,7 @@
           "confirmed": 335608,
           "date": "2021-04-18",
           "deaths": 10793,
-          "recovered": 309345
+          "recovered": 311047
         }
       }
     }
@@ -1257,18 +1257,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 360249,
+      "confirmed": 360597,
       "date": "2021-04-18",
-      "deaths": 6185,
-      "recovered": 350134
+      "deaths": 6187,
+      "recovered": 350347
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 246806,
+      "confirmed": 248364,
       "date": "2021-04-18",
-      "deaths": 5177,
-      "recovered": 202109
+      "deaths": 5251,
+      "recovered": 203982
     }
   },
   "Peru": {
