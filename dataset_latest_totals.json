@@ -3906,19 +3906,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1556242,
-        "deaths": 53226,
-        "recovered": 1481637
+        "confirmed": 1557527,
+        "deaths": 53256,
+        "recovered": 1482682
       },
       "back_2week": {
-        "confirmed": 1550724,
-        "deaths": 52946,
-        "recovered": 1475398
+        "confirmed": 1551501,
+        "deaths": 52954,
+        "recovered": 1476605
       },
       "latest": {
-        "confirmed": 1564355,
-        "deaths": 53663,
-        "recovered": 1488572
+        "confirmed": 1565680,
+        "deaths": 53711,
+        "recovered": 1489457
       }
     },
     "ZMB": {
