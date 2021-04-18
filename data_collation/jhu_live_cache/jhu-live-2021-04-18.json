@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 119837,
+          "confirmed": 120399,
           "date": "2021-04-18",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 116785,
+          "confirmed": 117256,
           "date": "2021-04-18",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 108146,
+          "confirmed": 108604,
           "date": "2021-04-18",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 139679,
+          "confirmed": 140236,
           "date": "2021-04-18",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 117172,
+          "confirmed": 117466,
           "date": "2021-04-18",
           "deaths": 0,
           "recovered": 0
@@ -419,49 +419,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 428031,
+          "confirmed": 431199,
           "date": "2021-04-18",
-          "deaths": 8079,
+          "deaths": 8208,
           "recovered": 391185
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 198323,
+          "confirmed": 201540,
           "date": "2021-04-18",
-          "deaths": 5546,
+          "deaths": 5647,
           "recovered": 178251
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 729061,
+          "confirmed": 732872,
           "date": "2021-04-18",
-          "deaths": 14820,
+          "deaths": 14879,
           "recovered": 681408
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 116403,
+          "confirmed": 116831,
           "date": "2021-04-18",
-          "deaths": 3142,
+          "deaths": 3154,
           "recovered": 110648
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 97604,
+          "confirmed": 97950,
           "date": "2021-04-18",
-          "deaths": 3551,
+          "deaths": 3560,
           "recovered": 91434
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 222523,
+          "confirmed": 223744,
           "date": "2021-04-18",
-          "deaths": 6808,
+          "deaths": 6849,
           "recovered": 209673
         }
       }
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 335936,
+      "confirmed": 338764,
       "date": "2021-04-18",
       "deaths": 3288,
-      "recovered": 295067
+      "recovered": 296873
     }
   },
   "Kenya": {
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 113444,
+      "confirmed": 114115,
       "date": "2021-04-18",
-      "deaths": 1794,
-      "recovered": 103594
+      "deaths": 1797,
+      "recovered": 104006
     }
   },
   "Kosovo": {
@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 627326,
+          "confirmed": 628622,
           "date": "2021-04-18",
-          "deaths": 31882,
+          "deaths": 31942,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 129562,
+          "confirmed": 129685,
           "date": "2021-04-18",
-          "deaths": 10347,
+          "deaths": 10365,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 240198,
+          "confirmed": 240693,
           "date": "2021-04-18",
-          "deaths": 33136,
+          "deaths": 33325,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 121343,
+          "confirmed": 121421,
           "date": "2021-04-18",
-          "deaths": 9161,
+          "deaths": 9169,
           "recovered": 0
         }
       }
