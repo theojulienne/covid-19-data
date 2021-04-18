@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 422847,
+          "confirmed": 424839,
           "date": "2021-04-18",
-          "deaths": 7687,
-          "recovered": 376457
+          "deaths": 7703,
+          "recovered": 377761
         }
       },
       "Quebec": {
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 837012,
+      "confirmed": 837047,
       "date": "2021-04-18",
       "deaths": 6334,
-      "recovered": 828439
+      "recovered": 828488
     }
   },
   "Italy": {
