@@ -1,18 +1,18 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 129456,
+      "confirmed": 129594,
       "date": "2021-04-18",
-      "deaths": 2340,
-      "recovered": 101142
+      "deaths": 2342,
+      "recovered": 101584
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 119486,
+      "confirmed": 119642,
       "date": "2021-04-18",
-      "deaths": 3152,
-      "recovered": 83286
+      "deaths": 3155,
+      "recovered": 83397
     }
   },
   "Argentina": {
@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 163113,
       "date": "2021-04-18",
-      "deaths": 588,
+      "deaths": 592,
       "recovered": 151286
     }
   },
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 421734,
+          "confirmed": 422847,
           "date": "2021-04-18",
-          "deaths": 7685,
-          "recovered": 375511
+          "deaths": 7687,
+          "recovered": 376457
         }
       },
       "Quebec": {
@@ -481,6 +481,14 @@
       "date": "2021-04-18",
       "deaths": 6562,
       "recovered": 285560
+    }
+  },
+  "Cuba": {
+    "live": {
+      "confirmed": 93511,
+      "date": "2021-04-18",
+      "deaths": 525,
+      "recovered": 88035
     }
   },
   "Czechia": {
@@ -641,9 +649,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 313444,
+      "confirmed": 315273,
       "date": "2021-04-18",
-      "deaths": 9397,
+      "deaths": 9462,
       "recovered": 93764
     }
   },
@@ -877,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 836926,
+      "confirmed": 837012,
       "date": "2021-04-18",
       "deaths": 6334,
-      "recovered": 828052
+      "recovered": 828439
     }
   },
   "Italy": {
@@ -1013,10 +1021,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 151287,
+      "confirmed": 151653,
       "date": "2021-04-18",
-      "deaths": 2463,
-      "recovered": 101362
+      "deaths": 2481,
+      "recovered": 101642
     }
   },
   "Korea, South": {
@@ -1029,10 +1037,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 100329,
+      "confirmed": 101191,
       "date": "2021-04-18",
-      "deaths": 2061,
-      "recovered": 86054
+      "deaths": 2080,
+      "recovered": 87224
     }
   },
   "Kuwait": {
@@ -1121,26 +1129,26 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 245494,
+      "confirmed": 245897,
       "date": "2021-04-18",
-      "deaths": 5548,
-      "recovered": 230090
+      "deaths": 5571,
+      "recovered": 231235
     }
   },
   "Montenegro": {
     "live": {
-      "confirmed": 95377,
+      "confirmed": 95551,
       "date": "2021-04-18",
-      "deaths": 1427,
-      "recovered": 90608
+      "deaths": 1429,
+      "recovered": 90903
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 505447,
+      "confirmed": 505811,
       "date": "2021-04-18",
-      "deaths": 8944,
-      "recovered": 491537
+      "deaths": 8945,
+      "recovered": 491810
     }
   },
   "Nepal": {
@@ -1537,10 +1545,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 4212645,
+      "confirmed": 4268447,
       "date": "2021-04-18",
-      "deaths": 35608,
-      "recovered": 3643734
+      "deaths": 35926,
+      "recovered": 3687590
     }
   },
   "US": {
@@ -1554,7 +1562,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2790644,
+          "confirmed": 2790880,
           "date": "2021-04-18",
           "deaths": 47925
         }
@@ -1582,9 +1590,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 520642,
+          "confirmed": 521694,
           "date": "2021-04-18",
-          "deaths": 9819
+          "deaths": 9824
         }
       },
       "Indiana": {
@@ -1596,9 +1604,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 222489,
+          "confirmed": 129172,
           "date": "2021-04-18",
-          "deaths": 6023
+          "deaths": 3695
         }
       },
       "Michigan": {
@@ -1638,9 +1646,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1328622,
+          "confirmed": 1330652,
           "date": "2021-04-18",
-          "deaths": 38932
+          "deaths": 38963
         }
       },
       "North Carolina": {
@@ -1673,7 +1681,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 240347,
+          "confirmed": 240497,
           "date": "2021-04-18",
           "deaths": 1210
         }
