@@ -549,10 +549,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5221888,
+      "confirmed": 5249622,
       "date": "2021-04-18",
-      "deaths": 99947,
-      "recovered": 288182
+      "deaths": 100075,
+      "recovered": 288664
     }
   },
   "Georgia": {
@@ -1061,9 +1061,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 508503,
+      "confirmed": 510403,
       "date": "2021-04-18",
-      "deaths": 6886,
+      "deaths": 6925,
       "recovered": 423848
     }
   },
@@ -1229,10 +1229,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 176668,
+      "confirmed": 180031,
       "date": "2021-04-18",
-      "deaths": 1821,
-      "recovered": 156845
+      "deaths": 1878,
+      "recovered": 160324
     }
   },
   "Pakistan": {
@@ -1646,9 +1646,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1330652,
+          "confirmed": 1332030,
           "date": "2021-04-18",
-          "deaths": 38963
+          "deaths": 38969
         }
       },
       "North Carolina": {
@@ -1660,7 +1660,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 229210,
+          "confirmed": 229509,
           "date": "2021-04-18",
           "deaths": 3425
         }
