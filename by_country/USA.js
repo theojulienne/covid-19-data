@@ -3888,7 +3888,6 @@ var covid19_dataset_country_usa = {
           285130,
           295690,
           295690,
-          295690,
           295690
         ],
         "tested": [
