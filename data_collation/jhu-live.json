@@ -162,7 +162,7 @@
           "confirmed": 859760,
           "date": "2021-04-18",
           "deaths": 17228,
-          "recovered": 826161
+          "recovered": 828606
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 616022,
           "date": "2021-04-18",
           "deaths": 16163,
-          "recovered": 421558
+          "recovered": 424581
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 413996,
           "date": "2021-04-18",
           "deaths": 8588,
-          "recovered": 385548
+          "recovered": 386306
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 236087,
           "date": "2021-04-18",
           "deaths": 5156,
-          "recovered": 216864
+          "recovered": 219268
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1275234,
           "date": "2021-04-18",
           "deaths": 29940,
-          "recovered": 1151944
+          "recovered": 1165442
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 225796,
           "date": "2021-04-18",
           "deaths": 4731,
-          "recovered": 219695
+          "recovered": 220534
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 920426,
           "date": "2021-04-18",
           "deaths": 23121,
-          "recovered": 877989
+          "recovered": 884729
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 152684,
           "date": "2021-04-18",
           "deaths": 2357,
-          "recovered": 130970
+          "recovered": 131837
         }
       }
     }
@@ -517,10 +517,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 358157,
+      "confirmed": 360546,
       "date": "2021-04-18",
-      "deaths": 17641,
-      "recovered": 298604
+      "deaths": 17703,
+      "recovered": 309541
     }
   },
   "Egypt": {
@@ -1576,14 +1576,14 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1191126,
+          "confirmed": 1195223,
           "date": "2021-04-18",
-          "deaths": 15761
+          "deaths": 15779
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 193455,
+          "confirmed": 193661,
           "date": "2021-04-18",
           "deaths": 2454
         }
@@ -1667,16 +1667,16 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 233913,
+          "confirmed": 234138,
           "date": "2021-04-18",
-          "deaths": 5244
+          "deaths": 5245
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1279432,
+          "confirmed": 1279668,
           "date": "2021-04-18",
-          "deaths": 19405
+          "deaths": 19424
         }
       },
       "Utah": {
@@ -1695,7 +1695,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 112980,
+          "confirmed": 113213,
           "date": "2021-04-18",
           "deaths": 1322
         }
