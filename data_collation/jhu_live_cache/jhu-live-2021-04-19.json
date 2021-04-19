@@ -162,7 +162,7 @@
           "confirmed": 862334,
           "date": "2021-04-19",
           "deaths": 17303,
-          "recovered": 828606
+          "recovered": 830817
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 524021,
           "date": "2021-04-19",
           "deaths": 13672,
-          "recovered": 499729
+          "recovered": 501732
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 1279549,
           "date": "2021-04-19",
           "deaths": 30309,
-          "recovered": 1165442
+          "recovered": 1167827
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 226624,
           "date": "2021-04-19",
           "deaths": 4758,
-          "recovered": 220534
+          "recovered": 221790
         }
       },
       "Rio Grande do Norte": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 427261,
+          "confirmed": 427770,
           "date": "2021-04-19",
-          "deaths": 7709,
-          "recovered": 379805
+          "deaths": 7710,
+          "recovered": 380298
         }
       },
       "Quebec": {
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2791849,
+          "confirmed": 2792057,
           "date": "2021-04-19",
-          "deaths": 47931
+          "deaths": 47929
         }
       },
       "Connecticut": {
@@ -1576,16 +1576,16 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1195223,
+          "confirmed": 1197674,
           "date": "2021-04-19",
-          "deaths": 15779
+          "deaths": 15799
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 193661,
+          "confirmed": 193858,
           "date": "2021-04-19",
-          "deaths": 2454
+          "deaths": 2456
         }
       },
       "Illinois": {
@@ -1611,9 +1611,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 246941,
+          "confirmed": 249566,
           "date": "2021-04-19",
-          "deaths": 6562
+          "deaths": 6575
         }
       },
       "Minnesota": {
@@ -1674,14 +1674,14 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1280273,
+          "confirmed": 1280572,
           "date": "2021-04-19",
-          "deaths": 19424
+          "deaths": 19428
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 240497,
+          "confirmed": 240618,
           "date": "2021-04-19",
           "deaths": 1210
         }
@@ -1695,7 +1695,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 113213,
+          "confirmed": 113312,
           "date": "2021-04-19",
           "deaths": 1322
         }
