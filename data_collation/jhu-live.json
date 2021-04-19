@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 837047,
+      "confirmed": 837160,
       "date": "2021-04-19",
-      "deaths": 6335,
-      "recovered": 828488
+      "deaths": 6338,
+      "recovered": 828552
     }
   },
   "Italy": {
@@ -995,7 +995,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 130151,
+          "confirmed": 130556,
           "date": "2021-04-19",
           "deaths": 1831,
           "recovered": 122875
@@ -1077,10 +1077,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 233631,
+      "confirmed": 234232,
       "date": "2021-04-19",
-      "deaths": 3760,
-      "recovered": 211411
+      "deaths": 3770,
+      "recovered": 211503
     }
   },
   "Malaysia": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 632399,
       "date": "2021-04-19",
-      "deaths": 10508,
+      "deaths": 10510,
       "recovered": 317600
     }
   },
@@ -1709,7 +1709,7 @@
           "confirmed": 111559,
           "date": "2021-04-19",
           "deaths": 2946,
-          "recovered": 83190
+          "recovered": 83917
         }
       },
       "Kharkiv Oblast": {
@@ -1717,7 +1717,7 @@
           "confirmed": 126061,
           "date": "2021-04-19",
           "deaths": 2423,
-          "recovered": 96272
+          "recovered": 96913
         }
       },
       "Kiev": {
@@ -1725,7 +1725,7 @@
           "confirmed": 185339,
           "date": "2021-04-19",
           "deaths": 4221,
-          "recovered": 115361
+          "recovered": 115592
         }
       },
       "Kiev Oblast": {
@@ -1733,7 +1733,7 @@
           "confirmed": 112135,
           "date": "2021-04-19",
           "deaths": 2087,
-          "recovered": 88048
+          "recovered": 88269
         }
       },
       "Lviv Oblast": {
@@ -1741,7 +1741,7 @@
           "confirmed": 123397,
           "date": "2021-04-19",
           "deaths": 3050,
-          "recovered": 89278
+          "recovered": 89602
         }
       },
       "Odessa Oblast": {
@@ -1749,7 +1749,7 @@
           "confirmed": 126828,
           "date": "2021-04-19",
           "deaths": 2245,
-          "recovered": 88955
+          "recovered": 89056
         }
       }
     }
