@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 300666,
+      "confirmed": 301661,
       "date": "2021-04-19",
-      "deaths": 4140,
-      "recovered": 264403
+      "deaths": 4169,
+      "recovered": 265539
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 344223,
+      "confirmed": 345110,
       "date": "2021-04-19",
-      "deaths": 2423,
-      "recovered": 334852
+      "deaths": 2433,
+      "recovered": 335485
     }
   },
   "Belgium": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 424854,
+          "confirmed": 426058,
           "date": "2021-04-19",
-          "deaths": 7703,
-          "recovered": 377777
+          "deaths": 7709,
+          "recovered": 378725
         }
       },
       "Quebec": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 556150,
+          "confirmed": 556293,
           "date": "2021-04-19",
           "deaths": 13739,
           "recovered": 493700
@@ -615,9 +615,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 130111,
+          "confirmed": 130727,
           "date": "2021-04-19",
-          "deaths": 3453,
+          "deaths": 3469,
           "recovered": 114800
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 977175,
+      "confirmed": 984950,
       "date": "2021-04-19",
-      "deaths": 14981,
-      "recovered": 856532
+      "deaths": 15026,
+      "recovered": 864039
     }
   },
   "Ireland": {
@@ -1221,9 +1221,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 107510,
+      "confirmed": 107767,
       "date": "2021-04-19",
-      "deaths": 708,
+      "deaths": 709,
       "recovered": 17998
     }
   },
@@ -1317,10 +1317,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 196580,
+      "confirmed": 197476,
       "date": "2021-04-19",
-      "deaths": 382,
-      "recovered": 173970
+      "deaths": 386,
+      "recovered": 174698
     }
   },
   "Romania": {
@@ -1369,10 +1369,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 404970,
+      "confirmed": 405940,
       "date": "2021-04-19",
-      "deaths": 6823,
-      "recovered": 388702
+      "deaths": 6834,
+      "recovered": 389598
     }
   },
   "Serbia": {
