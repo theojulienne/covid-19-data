@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 718950,
+      "confirmed": 723221,
       "date": "2021-04-19",
-      "deaths": 10385,
-      "recovered": 614936
+      "deaths": 10497,
+      "recovered": 621300
     }
   },
   "Belarus": {
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 284673,
+      "confirmed": 285900,
       "date": "2021-04-19",
-      "deaths": 3083,
-      "recovered": 275300
+      "deaths": 3091,
+      "recovered": 275555
     }
   },
   "Netherlands": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 632399,
       "date": "2021-04-19",
-      "deaths": 10518,
+      "deaths": 10520,
       "recovered": 317600
     }
   },
