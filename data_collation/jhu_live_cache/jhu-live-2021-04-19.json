@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 120399,
+          "confirmed": 120881,
           "date": "2021-04-19",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 117256,
+          "confirmed": 117733,
           "date": "2021-04-19",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 108604,
+          "confirmed": 108993,
           "date": "2021-04-19",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 140236,
+          "confirmed": 140620,
           "date": "2021-04-19",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 117466,
+          "confirmed": 117783,
           "date": "2021-04-19",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 288545,
+      "confirmed": 289066,
       "date": "2021-04-19",
-      "deaths": 12634,
-      "recovered": 237313
+      "deaths": 12648,
+      "recovered": 238195
     }
   },
   "Bosnia and Herzegovina": {
@@ -154,7 +154,7 @@
           "confirmed": 363586,
           "date": "2021-04-19",
           "deaths": 12371,
-          "recovered": 309603
+          "recovered": 311360
         }
       },
       "Bahia": {
@@ -178,7 +178,7 @@
           "confirmed": 366708,
           "date": "2021-04-19",
           "deaths": 7210,
-          "recovered": 344807
+          "recovered": 348450
         }
       },
       "Espirito Santo": {
@@ -194,7 +194,7 @@
           "confirmed": 524021,
           "date": "2021-04-19",
           "deaths": 13672,
-          "recovered": 498474
+          "recovered": 499729
         }
       },
       "Maranhao": {
@@ -202,7 +202,7 @@
           "confirmed": 255998,
           "date": "2021-04-19",
           "deaths": 6866,
-          "recovered": 227535
+          "recovered": 230904
         }
       },
       "Mato Grosso": {
@@ -250,7 +250,7 @@
           "confirmed": 906990,
           "date": "2021-04-19",
           "deaths": 20349,
-          "recovered": 645607
+          "recovered": 648889
         }
       },
       "Pernambuco": {
@@ -258,7 +258,7 @@
           "confirmed": 382164,
           "date": "2021-04-19",
           "deaths": 13212,
-          "recovered": 319407
+          "recovered": 324576
         }
       },
       "Piaui": {
@@ -290,7 +290,7 @@
           "confirmed": 703349,
           "date": "2021-04-19",
           "deaths": 41310,
-          "recovered": 648643
+          "recovered": 653975
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 93752,
           "date": "2021-04-19",
           "deaths": 1445,
-          "recovered": 85381
+          "recovered": 86691
         }
       },
       "Santa Catarina": {
@@ -314,7 +314,7 @@
           "confirmed": 855902,
           "date": "2021-04-19",
           "deaths": 12582,
-          "recovered": 815227
+          "recovered": 822243
         }
       },
       "Sao Paulo": {
@@ -322,7 +322,7 @@
           "confirmed": 2746217,
           "date": "2021-04-19",
           "deaths": 88350,
-          "recovered": 2358583
+          "recovered": 2381499
         }
       },
       "Sergipe": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 212307,
+      "confirmed": 212734,
       "date": "2021-04-19",
-      "deaths": 7190,
-      "recovered": 190388
+      "deaths": 7221,
+      "recovered": 190944
     }
   },
   "Honduras": {
@@ -1013,10 +1013,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 338845,
+      "confirmed": 341564,
       "date": "2021-04-19",
       "deaths": 3290,
-      "recovered": 296962
+      "recovered": 298735
     }
   },
   "Kenya": {
@@ -1029,10 +1029,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 114115,
+      "confirmed": 114646,
       "date": "2021-04-19",
-      "deaths": 1797,
-      "recovered": 104006
+      "deaths": 1801,
+      "recovered": 104474
     }
   },
   "Kosovo": {
@@ -1265,18 +1265,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 360597,
+      "confirmed": 360841,
       "date": "2021-04-19",
-      "deaths": 6187,
-      "recovered": 350347
+      "deaths": 6188,
+      "recovered": 350610
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 248364,
+      "confirmed": 250165,
       "date": "2021-04-19",
-      "deaths": 5251,
-      "recovered": 203982
+      "deaths": 5313,
+      "recovered": 205883
     }
   },
   "Peru": {
