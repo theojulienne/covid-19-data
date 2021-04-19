@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 336952,
+          "confirmed": 338044,
           "date": "2021-04-19",
-          "deaths": 10802,
+          "deaths": 10816,
           "recovered": 312701
         }
       }
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 837160,
+      "confirmed": 837199,
       "date": "2021-04-19",
-      "deaths": 6338,
-      "recovered": 828552
+      "deaths": 6340,
+      "recovered": 828667
     }
   },
   "Italy": {
@@ -1309,10 +1309,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 831001,
+      "confirmed": 831221,
       "date": "2021-04-19",
-      "deaths": 16945,
-      "recovered": 788669
+      "deaths": 16946,
+      "recovered": 789216
     }
   },
   "Qatar": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 637304,
       "date": "2021-04-19",
-      "deaths": 10520,
+      "deaths": 10521,
       "recovered": 317600
     }
   },
