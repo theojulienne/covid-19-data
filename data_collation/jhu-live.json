@@ -997,7 +997,7 @@
         "live": {
           "confirmed": 130151,
           "date": "2021-04-19",
-          "deaths": 1830,
+          "deaths": 1831,
           "recovered": 122875
         }
       }
@@ -1095,33 +1095,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 628622,
+          "confirmed": 629218,
           "date": "2021-04-19",
-          "deaths": 31942,
+          "deaths": 31970,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 129685,
+          "confirmed": 129711,
           "date": "2021-04-19",
-          "deaths": 10365,
+          "deaths": 10373,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 240693,
+          "confirmed": 240823,
           "date": "2021-04-19",
-          "deaths": 33325,
+          "deaths": 33346,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 121421,
+          "confirmed": 121473,
           "date": "2021-04-19",
-          "deaths": 9169,
+          "deaths": 9170,
           "recovered": 0
         }
       }
@@ -1562,7 +1562,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2791439,
+          "confirmed": 2791587,
           "date": "2021-04-19",
           "deaths": 47930
         }
