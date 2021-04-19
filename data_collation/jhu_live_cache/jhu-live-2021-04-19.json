@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 188994,
+      "confirmed": 191154,
       "date": "2021-04-19",
-      "deaths": 7788,
-      "recovered": 145863
+      "deaths": 7938,
+      "recovered": 148146
     }
   },
   "Brazil": {
@@ -483,14 +483,6 @@
       "recovered": 287787
     }
   },
-  "Cuba": {
-    "live": {
-      "confirmed": 93511,
-      "date": "2021-04-19",
-      "deaths": 525,
-      "recovered": 88035
-    }
-  },
   "Czechia": {
     "live": {
       "confirmed": 1602711,
@@ -501,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 242633,
+      "confirmed": 243374,
       "date": "2021-04-19",
-      "deaths": 2455,
-      "recovered": 231166
+      "deaths": 2459,
+      "recovered": 231628
     }
   },
   "Dominican Republic": {
@@ -1163,41 +1155,49 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 155818,
+          "confirmed": 156568,
           "date": "2021-04-19",
-          "deaths": 1935,
+          "deaths": 1938,
+          "recovered": 0
+        }
+      },
+      "Limburg": {
+        "live": {
+          "confirmed": 93758,
+          "date": "2021-04-19",
+          "deaths": 1551,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 222742,
+          "confirmed": 223988,
           "date": "2021-04-19",
-          "deaths": 3049,
+          "deaths": 3050,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 239880,
+          "confirmed": 240888,
           "date": "2021-04-19",
-          "deaths": 2479,
+          "deaths": 2480,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 108580,
+          "confirmed": 109124,
           "date": "2021-04-19",
-          "deaths": 1217,
+          "deaths": 1222,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 333895,
+          "confirmed": 335710,
           "date": "2021-04-19",
-          "deaths": 4081,
+          "deaths": 4085,
           "recovered": 0
         }
       }
@@ -1377,9 +1377,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 662368,
+      "confirmed": 664972,
       "date": "2021-04-19",
-      "deaths": 5991,
+      "deaths": 6026,
       "recovered": 0
     }
   },
@@ -1529,7 +1529,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 632399,
+      "confirmed": 637304,
       "date": "2021-04-19",
       "deaths": 10520,
       "recovered": 317600
