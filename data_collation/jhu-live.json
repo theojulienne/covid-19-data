@@ -1496,30 +1496,30 @@
       "confirmed": 97105,
       "date": "2021-04-20",
       "deaths": 620,
-      "recovered": 93374
+      "recovered": 93547
     }
   },
   "Sweden": {
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 133098,
+          "confirmed": 134760,
           "date": "2021-04-20",
-          "deaths": 1663,
+          "deaths": 1669,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 214510,
+          "confirmed": 218109,
           "date": "2021-04-20",
-          "deaths": 4105,
+          "deaths": 4124,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 159744,
+          "confirmed": 162392,
           "date": "2021-04-20",
           "deaths": 2267,
           "recovered": 0
@@ -1529,7 +1529,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 637304,
+      "confirmed": 639445,
       "date": "2021-04-20",
       "deaths": 10531,
       "recovered": 317600
@@ -1756,10 +1756,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 498957,
+      "confirmed": 500860,
       "date": "2021-04-20",
-      "deaths": 1556,
-      "recovered": 481326
+      "deaths": 1559,
+      "recovered": 483180
     }
   },
   "United Kingdom": {
@@ -1816,10 +1816,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 282270,
+      "confirmed": 284280,
       "date": "2021-04-20",
-      "deaths": 3047,
-      "recovered": 249382
+      "deaths": 3078,
+      "recovered": 251663
     }
   }
 }
