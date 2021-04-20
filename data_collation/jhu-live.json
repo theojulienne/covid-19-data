@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 119805,
+      "confirmed": 119992,
       "date": "2021-04-20",
-      "deaths": 3160,
-      "recovered": 83514
+      "deaths": 3165,
+      "recovered": 83636
     }
   },
   "Argentina": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 430108,
+          "confirmed": 430294,
           "date": "2021-04-20",
-          "deaths": 7730,
-          "recovered": 382278
+          "deaths": 7731,
+          "recovered": 382515
         }
       },
       "Quebec": {
@@ -641,9 +641,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 316879,
+      "confirmed": 320629,
       "date": "2021-04-20",
-      "deaths": 9540,
+      "deaths": 9627,
       "recovered": 93764
     }
   },
@@ -1053,10 +1053,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 511398,
+      "confirmed": 513006,
       "date": "2021-04-20",
-      "deaths": 6959,
-      "recovered": 429598
+      "deaths": 6995,
+      "recovered": 432548
     }
   },
   "Libya": {
@@ -1121,10 +1121,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 246238,
+      "confirmed": 246691,
       "date": "2021-04-20",
-      "deaths": 5591,
-      "recovered": 232328
+      "deaths": 5616,
+      "recovered": 233281
     }
   },
   "Montenegro": {
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2792875,
+          "confirmed": 2793047,
           "date": "2021-04-20",
-          "deaths": 47933
+          "deaths": 47956
         }
       },
       "Connecticut": {
@@ -1590,9 +1590,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 522552,
+          "confirmed": 523598,
           "date": "2021-04-20",
-          "deaths": 9835
+          "deaths": 9839
         }
       },
       "Indiana": {
@@ -1634,7 +1634,7 @@
         "live": {
           "confirmed": 240307,
           "date": "2021-04-20",
-          "deaths": 4213
+          "deaths": 4218
         }
       },
       "New Jersey": {
@@ -1653,9 +1653,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 107500,
+          "confirmed": 107698,
           "date": "2021-04-20",
-          "deaths": 924
+          "deaths": 927
         }
       },
       "Ohio": {
