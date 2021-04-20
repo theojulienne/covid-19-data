@@ -493,10 +493,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1602711,
+      "confirmed": 1606030,
       "date": "2021-04-20",
-      "deaths": 28532,
-      "recovered": 1508982
+      "deaths": 28640,
+      "recovered": 1515106
     }
   },
   "Denmark": {
@@ -1562,7 +1562,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2792858,
+          "confirmed": 2792875,
           "date": "2021-04-20",
           "deaths": 47933
         }
@@ -1706,50 +1706,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 111559,
+          "confirmed": 112155,
           "date": "2021-04-20",
-          "deaths": 2946,
-          "recovered": 83917
+          "deaths": 2962,
+          "recovered": 85362
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 126061,
+          "confirmed": 126865,
           "date": "2021-04-20",
-          "deaths": 2423,
-          "recovered": 96913
+          "deaths": 2441,
+          "recovered": 97508
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 185339,
+          "confirmed": 186231,
           "date": "2021-04-20",
-          "deaths": 4221,
-          "recovered": 115592
+          "deaths": 4257,
+          "recovered": 115857
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 112135,
+          "confirmed": 112782,
           "date": "2021-04-20",
-          "deaths": 2087,
-          "recovered": 88269
+          "deaths": 2107,
+          "recovered": 88645
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 123397,
+          "confirmed": 123874,
           "date": "2021-04-20",
-          "deaths": 3050,
-          "recovered": 89602
+          "deaths": 3064,
+          "recovered": 90142
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 126828,
+          "confirmed": 127519,
           "date": "2021-04-20",
-          "deaths": 2245,
-          "recovered": 89056
+          "deaths": 2262,
+          "recovered": 89565
         }
       }
     }
