@@ -186,7 +186,7 @@
           "confirmed": 418457,
           "date": "2021-04-20",
           "deaths": 8764,
-          "recovered": 389847
+          "recovered": 392396
         }
       },
       "Goias": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 388815,
+      "confirmed": 390911,
       "date": "2021-04-20",
-      "deaths": 15412,
-      "recovered": 310922
+      "deaths": 15518,
+      "recovered": 314273
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 172186,
+          "confirmed": 173531,
           "date": "2021-04-20",
-          "deaths": 2043,
-          "recovered": 151719
+          "deaths": 2048,
+          "recovered": 153002
         }
       },
       "British Columbia": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 258497,
+      "confirmed": 259868,
       "date": "2021-04-20",
-      "deaths": 1456,
-      "recovered": 241696
+      "deaths": 1468,
+      "recovered": 243056
     }
   },
   "Latvia": {
@@ -1555,9 +1555,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 645967,
+          "confirmed": 646478,
           "date": "2021-04-20",
-          "deaths": 12148
+          "deaths": 12173
         }
       },
       "California": {
@@ -1674,9 +1674,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1283441,
+          "confirmed": 1284729,
           "date": "2021-04-20",
-          "deaths": 19438
+          "deaths": 19463
         }
       },
       "Utah": {
