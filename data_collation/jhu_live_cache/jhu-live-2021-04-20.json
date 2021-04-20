@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 338044,
+          "confirmed": 339180,
           "date": "2021-04-20",
-          "deaths": 10816,
+          "deaths": 10833,
           "recovered": 314376
         }
       }
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 984950,
+      "confirmed": 993158,
       "date": "2021-04-20",
-      "deaths": 15026,
-      "recovered": 864039
+      "deaths": 15060,
+      "recovered": 870927
     }
   },
   "Ireland": {
@@ -1029,10 +1029,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 101191,
+      "confirmed": 101832,
       "date": "2021-04-20",
-      "deaths": 2080,
-      "recovered": 87224
+      "deaths": 2105,
+      "recovered": 88164
     }
   },
   "Kuwait": {
