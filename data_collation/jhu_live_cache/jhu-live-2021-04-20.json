@@ -138,7 +138,7 @@
           "confirmed": 167039,
           "date": "2021-04-20",
           "deaths": 3991,
-          "recovered": 158555
+          "recovered": 159468
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 280967,
           "date": "2021-04-20",
           "deaths": 6478,
-          "recovered": 194389
+          "recovered": 194932
         }
       },
       "Parana": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 432663,
+          "confirmed": 432666,
           "date": "2021-04-20",
           "deaths": 7741,
-          "recovered": 384897
+          "recovered": 384917
         }
       },
       "Quebec": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 360563,
+      "confirmed": 361154,
       "date": "2021-04-20",
-      "deaths": 17703,
+      "deaths": 17744,
       "recovered": 309541
     }
   },
@@ -1604,9 +1604,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 129684,
+          "confirmed": 129834,
           "date": "2021-04-20",
-          "deaths": 3699
+          "deaths": 3700
         }
       },
       "Michigan": {
