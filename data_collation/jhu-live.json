@@ -390,7 +390,7 @@
           "confirmed": 338044,
           "date": "2021-04-20",
           "deaths": 10816,
-          "recovered": 312701
+          "recovered": 314376
         }
       }
     }
@@ -1273,10 +1273,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 250165,
+      "confirmed": 252443,
       "date": "2021-04-20",
-      "deaths": 5313,
-      "recovered": 205883
+      "deaths": 5384,
+      "recovered": 207803
     }
   },
   "Peru": {
@@ -1562,7 +1562,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2792544,
+          "confirmed": 2792858,
           "date": "2021-04-20",
           "deaths": 47933
         }
@@ -1688,9 +1688,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 96808,
+          "confirmed": 97230,
           "date": "2021-04-20",
-          "deaths": 1494
+          "deaths": 1498
         }
       },
       "Wisconsin": {
