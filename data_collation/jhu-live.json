@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 97666,
+          "confirmed": 97669,
           "date": "2021-04-21",
           "deaths": 3479,
           "recovered": 86690
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 223867,
+          "confirmed": 224723,
           "date": "2021-04-21",
-          "deaths": 5158,
+          "deaths": 5166,
           "recovered": 201900
         }
       },
@@ -853,10 +853,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2286927,
+      "confirmed": 2311813,
       "date": "2021-04-21",
-      "deaths": 67525,
-      "recovered": 1810531
+      "deaths": 67913,
+      "recovered": 1823958
     }
   },
   "Iraq": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 639445,
       "date": "2021-04-21",
-      "deaths": 10532,
+      "deaths": 10536,
       "recovered": 317600
     }
   },
@@ -1674,7 +1674,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1285011,
+          "confirmed": 1285217,
           "date": "2021-04-21",
           "deaths": 19463
         }
