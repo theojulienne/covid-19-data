@@ -44,7 +44,7 @@
       "confirmed": 303858,
       "date": "2021-04-21",
       "deaths": 4203,
-      "recovered": 267485
+      "recovered": 269965
     }
   },
   "Bahrain": {
@@ -128,7 +128,7 @@
       "confirmed": 191876,
       "date": "2021-04-21",
       "deaths": 8025,
-      "recovered": 149273
+      "recovered": 150458
     }
   },
   "Brazil": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 244065,
+      "confirmed": 244868,
       "date": "2021-04-21",
-      "deaths": 2463,
-      "recovered": 232191
+      "deaths": 2465,
+      "recovered": 232899
     }
   },
   "Dominican Republic": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 562346,
+          "confirmed": 562577,
           "date": "2021-04-21",
           "deaths": 13824,
           "recovered": 499900
@@ -864,7 +864,7 @@
       "confirmed": 993158,
       "date": "2021-04-21",
       "deaths": 15060,
-      "recovered": 870927
+      "recovered": 877309
     }
   },
   "Ireland": {
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 132110,
           "date": "2021-04-21",
-          "deaths": 1836,
+          "deaths": 1840,
           "recovered": 124367
         }
       }
@@ -1377,9 +1377,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 667937,
+      "confirmed": 670801,
       "date": "2021-04-21",
-      "deaths": 6058,
+      "deaths": 6095,
       "recovered": 0
     }
   },
@@ -1816,10 +1816,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 284280,
+      "confirmed": 286028,
       "date": "2021-04-21",
-      "deaths": 3078,
-      "recovered": 251663
+      "deaths": 3096,
+      "recovered": 254199
     }
   }
 }
