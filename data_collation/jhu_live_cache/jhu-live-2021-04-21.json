@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 434277,
+          "confirmed": 434941,
           "date": "2021-04-21",
-          "deaths": 7752,
-          "recovered": 386479
+          "deaths": 7756,
+          "recovered": 387454
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5300321,
+      "confirmed": 5334144,
       "date": "2021-04-21",
-      "deaths": 100895,
-      "recovered": 291009
+      "deaths": 101221,
+      "recovered": 292859
     }
   },
   "Georgia": {
@@ -869,9 +869,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 244297,
+      "confirmed": 244695,
       "date": "2021-04-21",
-      "deaths": 4847,
+      "deaths": 4856,
       "recovered": 23364
     }
   },
@@ -1013,10 +1013,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 152523,
+      "confirmed": 153488,
       "date": "2021-04-21",
-      "deaths": 2519,
-      "recovered": 103838
+      "deaths": 2540,
+      "recovered": 105279
     }
   },
   "Korea, South": {
@@ -1129,10 +1129,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 95894,
+      "confirmed": 96048,
       "date": "2021-04-21",
-      "deaths": 1441,
-      "recovered": 91403
+      "deaths": 1444,
+      "recovered": 91679
     }
   },
   "Morocco": {
@@ -1223,7 +1223,7 @@
     "live": {
       "confirmed": 108839,
       "date": "2021-04-21",
-      "deaths": 709,
+      "deaths": 734,
       "recovered": 17998
     }
   },
@@ -1545,10 +1545,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 4384624,
+      "confirmed": 4446591,
       "date": "2021-04-21",
-      "deaths": 36613,
-      "recovered": 3792129
+      "deaths": 36975,
+      "recovered": 3844342
     }
   },
   "US": {
@@ -1562,7 +1562,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2794475,
+          "confirmed": 2794633,
           "date": "2021-04-21",
           "deaths": 47991
         }
@@ -1618,9 +1618,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 116392,
+          "confirmed": 116721,
           "date": "2021-04-21",
-          "deaths": 1683
+          "deaths": 1690
         }
       },
       "Missouri": {
@@ -1639,9 +1639,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 98913,
+          "confirmed": 99235,
           "date": "2021-04-21",
-          "deaths": 2801
+          "deaths": 2802
         }
       },
       "New York": {
