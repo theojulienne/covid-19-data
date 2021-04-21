@@ -170,7 +170,7 @@
           "confirmed": 623781,
           "date": "2021-04-21",
           "deaths": 16307,
-          "recovered": 428865
+          "recovered": 428905
         }
       },
       "Distrito Federal": {
@@ -266,7 +266,7 @@
           "confirmed": 229291,
           "date": "2021-04-21",
           "deaths": 4802,
-          "recovered": 223176
+          "recovered": 224802
         }
       },
       "Rio Grande do Norte": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 245155,
+      "confirmed": 246484,
       "date": "2021-04-21",
-      "deaths": 3439,
-      "recovered": 181935
+      "deaths": 3474,
+      "recovered": 183932
     }
   },
   "France": {
@@ -1576,16 +1576,16 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1200782,
+          "confirmed": 1203880,
           "date": "2021-04-21",
-          "deaths": 15820
+          "deaths": 15858
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 194084,
+          "confirmed": 194385,
           "date": "2021-04-21",
-          "deaths": 2455
+          "deaths": 2459
         }
       },
       "Illinois": {
@@ -1653,9 +1653,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 107698,
+          "confirmed": 107960,
           "date": "2021-04-21",
-          "deaths": 927
+          "deaths": 933
         }
       },
       "Ohio": {
@@ -1681,9 +1681,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 240822,
+          "confirmed": 241132,
           "date": "2021-04-21",
-          "deaths": 1212
+          "deaths": 1213
         }
       },
       "Washington": {
@@ -1695,9 +1695,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 113438,
+          "confirmed": 113566,
           "date": "2021-04-21",
-          "deaths": 1324
+          "deaths": 1325
         }
       }
     }
