@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 339180,
+          "confirmed": 340397,
           "date": "2021-04-21",
-          "deaths": 10833,
+          "deaths": 10838,
           "recovered": 315984
         }
       }
@@ -997,10 +997,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 692181,
+      "confirmed": 695390,
       "date": "2021-04-21",
-      "deaths": 8372,
-      "recovered": 649718
+      "deaths": 8429,
+      "recovered": 654493
     }
   },
   "Kazakhstan": {
@@ -1221,7 +1221,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 108587,
+      "confirmed": 108839,
       "date": "2021-04-21",
       "deaths": 709,
       "recovered": 17998
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 642131,
       "date": "2021-04-21",
-      "deaths": 10539,
+      "deaths": 10545,
       "recovered": 317600
     }
   },
@@ -1625,7 +1625,7 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 95865,
+          "confirmed": 96058,
           "date": "2021-04-21",
           "deaths": 2147
         }

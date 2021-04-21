@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 338044,
-          "deaths": 10816
+          "confirmed": 339180,
+          "deaths": 10833
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1882,19 +1882,19 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 669300,
-        "deaths": 7855,
-        "recovered": 604044
+        "confirmed": 672090,
+        "deaths": 7937,
+        "recovered": 610614
       },
       "back_2week": {
-        "confirmed": 639444,
-        "deaths": 7283,
-        "recovered": 552764
+        "confirmed": 645449,
+        "deaths": 7383,
+        "recovered": 561894
       },
       "latest": {
-        "confirmed": 689482,
-        "deaths": 8308,
-        "recovered": 644486
+        "confirmed": 692181,
+        "deaths": 8372,
+        "recovered": 649718
       }
     },
     "JPN": {
