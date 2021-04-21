@@ -382,7 +382,7 @@
           "confirmed": 339180,
           "date": "2021-04-21",
           "deaths": 10833,
-          "recovered": 314376
+          "recovered": 315984
         }
       }
     }
@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 436264,
+          "confirmed": 439665,
           "date": "2021-04-21",
-          "deaths": 8458,
-          "recovered": 402674
+          "deaths": 8576,
+          "recovered": 406006
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 207253,
+          "confirmed": 208969,
           "date": "2021-04-21",
-          "deaths": 5831,
-          "recovered": 188001
+          "deaths": 5928,
+          "recovered": 191356
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 739154,
+          "confirmed": 743437,
           "date": "2021-04-21",
-          "deaths": 14986,
-          "recovered": 689834
+          "deaths": 15019,
+          "recovered": 693008
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 118468,
+          "confirmed": 119278,
           "date": "2021-04-21",
-          "deaths": 3180,
-          "recovered": 112210
+          "deaths": 3195,
+          "recovered": 112828
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 98671,
+          "confirmed": 99041,
           "date": "2021-04-21",
-          "deaths": 3569,
-          "recovered": 92365
+          "deaths": 3578,
+          "recovered": 92661
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 225468,
+          "confirmed": 226538,
           "date": "2021-04-21",
-          "deaths": 6916,
-          "recovered": 212798
+          "deaths": 6943,
+          "recovered": 213676
         }
       }
     }
@@ -1283,9 +1283,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 790830,
+          "confirmed": 797047,
           "date": "2021-04-21",
-          "deaths": 25339,
+          "deaths": 25510,
           "recovered": 0
         }
       }
