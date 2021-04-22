@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 121517,
+          "confirmed": 122203,
           "date": "2021-04-22",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 118420,
+          "confirmed": 119019,
           "date": "2021-04-22",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 109615,
+          "confirmed": 110325,
           "date": "2021-04-22",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 141257,
+          "confirmed": 142071,
           "date": "2021-04-22",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 118231,
+          "confirmed": 118656,
           "date": "2021-04-22",
           "deaths": 0,
           "recovered": 0
@@ -355,7 +355,7 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 173531,
+          "confirmed": 175230,
           "date": "2021-04-22",
           "deaths": 2048,
           "recovered": 153002
@@ -382,7 +382,7 @@
           "confirmed": 340397,
           "date": "2021-04-22",
           "deaths": 10838,
-          "recovered": 315984
+          "recovered": 317338
         }
       }
     }
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 346971,
+      "confirmed": 349864,
       "date": "2021-04-22",
       "deaths": 3297,
-      "recovered": 303437
+      "recovered": 305810
     }
   },
   "Kenya": {
@@ -1021,10 +1021,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 115926,
+      "confirmed": 116661,
       "date": "2021-04-22",
-      "deaths": 1806,
-      "recovered": 105877
+      "deaths": 1808,
+      "recovered": 106459
     }
   },
   "Kosovo": {
@@ -1265,18 +1265,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 361319,
+      "confirmed": 361678,
       "date": "2021-04-22",
-      "deaths": 6192,
-      "recovered": 351228
+      "deaths": 6196,
+      "recovered": 351582
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 255046,
+      "confirmed": 257706,
       "date": "2021-04-22",
-      "deaths": 5470,
-      "recovered": 209754
+      "deaths": 5561,
+      "recovered": 211739
     }
   },
   "Peru": {
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2795287,
+          "confirmed": 2795644,
           "date": "2021-04-22",
-          "deaths": 48046
+          "deaths": 48054
         }
       },
       "Connecticut": {
@@ -1808,10 +1808,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 185736,
+      "confirmed": 186745,
       "date": "2021-04-22",
-      "deaths": 1944,
-      "recovered": 168418
+      "deaths": 1965,
+      "recovered": 169685
     }
   },
   "West Bank and Gaza": {
