@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 732060,
+      "confirmed": 736074,
       "date": "2021-04-22",
-      "deaths": 10683,
-      "recovered": 635183
+      "deaths": 10781,
+      "recovered": 642449
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 347316,
+      "confirmed": 348486,
       "date": "2021-04-22",
-      "deaths": 2453,
-      "recovered": 337620
+      "deaths": 2463,
+      "recovered": 338927
     }
   },
   "Belgium": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 244868,
+      "confirmed": 245761,
       "date": "2021-04-22",
-      "deaths": 2465,
-      "recovered": 232899
+      "deaths": 2467,
+      "recovered": 233614
     }
   },
   "Dominican Republic": {
@@ -987,7 +987,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 132110,
+          "confirmed": 132971,
           "date": "2021-04-22",
           "deaths": 1840,
           "recovered": 124872
@@ -1061,10 +1061,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 173683,
+      "confirmed": 174216,
       "date": "2021-04-22",
-      "deaths": 2924,
-      "recovered": 158891
+      "deaths": 2936,
+      "recovered": 159630
     }
   },
   "Lithuania": {
@@ -1145,59 +1145,59 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 289787,
+      "confirmed": 292152,
       "date": "2021-04-22",
-      "deaths": 3112,
-      "recovered": 276093
+      "deaths": 3117,
+      "recovered": 276345
     }
   },
   "Netherlands": {
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 158225,
+          "confirmed": 159462,
           "date": "2021-04-22",
-          "deaths": 1943,
+          "deaths": 1945,
           "recovered": 0
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 94947,
+          "confirmed": 95621,
           "date": "2021-04-22",
-          "deaths": 1560,
+          "deaths": 1563,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 226836,
+          "confirmed": 228362,
           "date": "2021-04-22",
-          "deaths": 3055,
+          "deaths": 3056,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 242977,
+          "confirmed": 244312,
           "date": "2021-04-22",
-          "deaths": 2487,
+          "deaths": 2490,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 110310,
+          "confirmed": 110995,
           "date": "2021-04-22",
-          "deaths": 1228,
+          "deaths": 1229,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 339669,
+          "confirmed": 342097,
           "date": "2021-04-22",
-          "deaths": 4091,
+          "deaths": 4096,
           "recovered": 0
         }
       }
@@ -1223,7 +1223,7 @@
     "live": {
       "confirmed": 109137,
       "date": "2021-04-22",
-      "deaths": 734,
+      "deaths": 735,
       "recovered": 17998
     }
   },
@@ -1369,10 +1369,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 408038,
+      "confirmed": 409093,
       "date": "2021-04-22",
-      "deaths": 6858,
-      "recovered": 391362
+      "deaths": 6869,
+      "recovered": 392448
     }
   },
   "Serbia": {
@@ -1503,7 +1503,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 135516,
+          "confirmed": 136223,
           "date": "2021-04-22",
           "deaths": 1669,
           "recovered": 0
@@ -1511,7 +1511,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 219693,
+          "confirmed": 221251,
           "date": "2021-04-22",
           "deaths": 4139,
           "recovered": 0
@@ -1519,7 +1519,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 163317,
+          "confirmed": 165108,
           "date": "2021-04-22",
           "deaths": 2277,
           "recovered": 0
@@ -1529,9 +1529,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 642131,
+      "confirmed": 644396,
       "date": "2021-04-22",
-      "deaths": 10550,
+      "deaths": 10551,
       "recovered": 317600
     }
   },
@@ -1816,10 +1816,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 286028,
+      "confirmed": 287680,
       "date": "2021-04-22",
-      "deaths": 3096,
-      "recovered": 254199
+      "deaths": 3115,
+      "recovered": 256559
     }
   }
 }
