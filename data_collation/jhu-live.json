@@ -138,7 +138,7 @@
           "confirmed": 168272,
           "date": "2021-04-22",
           "deaths": 4034,
-          "recovered": 159468
+          "recovered": 160829
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 103733,
           "date": "2021-04-22",
           "deaths": 1488,
-          "recovered": 75190
+          "recovered": 76149
         }
       },
       "Amazonas": {
@@ -162,7 +162,7 @@
           "confirmed": 871672,
           "date": "2021-04-22",
           "deaths": 17574,
-          "recovered": 834831
+          "recovered": 840641
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 422024,
           "date": "2021-04-22",
           "deaths": 8913,
-          "recovered": 393316
+          "recovered": 395538
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 239918,
           "date": "2021-04-22",
           "deaths": 5335,
-          "recovered": 220401
+          "recovered": 222597
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 456628,
           "date": "2021-04-22",
           "deaths": 12165,
-          "recovered": 425540
+          "recovered": 427250
         }
       },
       "Paraiba": {
@@ -250,7 +250,7 @@
           "confirmed": 917441,
           "date": "2021-04-22",
           "deaths": 20809,
-          "recovered": 654855
+          "recovered": 659225
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 934970,
           "date": "2021-04-22",
           "deaths": 23690,
-          "recovered": 892039
+          "recovered": 899756
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 712525,
           "date": "2021-04-22",
           "deaths": 42110,
-          "recovered": 653975
+          "recovered": 655639
         }
       },
       "Rondonia": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 644396,
       "date": "2021-04-22",
-      "deaths": 10554,
+      "deaths": 10555,
       "recovered": 317600
     }
   },
@@ -1555,9 +1555,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 646960,
+          "confirmed": 647434,
           "date": "2021-04-22",
-          "deaths": 12176
+          "deaths": 12191
         }
       },
       "California": {
@@ -1604,9 +1604,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 130103,
+          "confirmed": 130366,
           "date": "2021-04-22",
-          "deaths": 3701
+          "deaths": 3705
         }
       },
       "Michigan": {

@@ -853,6 +853,9 @@ var covid19_dataset_latest_totals = {
           "deaths": 0,
           "recovered": 1
         },
+        "Unknown": {
+          "deaths": 0
+        },
         "Xinjiang": {
           "confirmed": 980,
           "deaths": 3,
