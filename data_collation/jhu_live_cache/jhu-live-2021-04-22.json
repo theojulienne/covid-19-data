@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 630819,
+          "confirmed": 632255,
           "date": "2021-04-22",
-          "deaths": 32091,
+          "deaths": 32136,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 129838,
+          "confirmed": 129949,
           "date": "2021-04-22",
-          "deaths": 10402,
+          "deaths": 10424,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 241356,
+          "confirmed": 241813,
           "date": "2021-04-22",
-          "deaths": 33473,
+          "deaths": 33527,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 121571,
+          "confirmed": 121687,
           "date": "2021-04-22",
-          "deaths": 9184,
+          "deaths": 9194,
           "recovered": 0
         }
       }
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2795225,
+          "confirmed": 2795287,
           "date": "2021-04-22",
-          "deaths": 48044
+          "deaths": 48046
         }
       },
       "Connecticut": {
@@ -1674,7 +1674,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1286422,
+          "confirmed": 1286701,
           "date": "2021-04-22",
           "deaths": 19499
         }
