@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 210518,
+      "confirmed": 211399,
       "date": "2021-04-22",
-      "deaths": 3944,
-      "recovered": 190271
+      "deaths": 3969,
+      "recovered": 191158
     }
   },
   "Austria": {
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 118789,
+      "confirmed": 119218,
       "date": "2021-04-22",
-      "deaths": 1109,
-      "recovered": 104653
+      "deaths": 1120,
+      "recovered": 105471
     }
   },
   "Ethiopia": {
@@ -990,7 +990,7 @@
           "confirmed": 132110,
           "date": "2021-04-22",
           "deaths": 1840,
-          "recovered": 124367
+          "recovered": 124872
         }
       }
     }
@@ -1045,10 +1045,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 112983,
+      "confirmed": 113561,
       "date": "2021-04-22",
-      "deaths": 2079,
-      "recovered": 102596
+      "deaths": 2088,
+      "recovered": 103230
     }
   },
   "Lebanon": {
@@ -1293,18 +1293,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 962307,
+      "confirmed": 971049,
       "date": "2021-04-22",
-      "deaths": 16265,
-      "recovered": 829608
+      "deaths": 16370,
+      "recovered": 846691
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2718493,
+      "confirmed": 2731256,
       "date": "2021-04-22",
-      "deaths": 63473,
-      "recovered": 2366230
+      "deaths": 64168,
+      "recovered": 2380787
     }
   },
   "Portugal": {
@@ -1335,34 +1335,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1070036,
+          "confirmed": 1072740,
           "date": "2021-04-22",
-          "deaths": 17812,
-          "recovered": 975973
+          "deaths": 17866,
+          "recovered": 977880
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 244379,
+          "confirmed": 244969,
           "date": "2021-04-22",
-          "deaths": 5702,
-          "recovered": 201344
+          "deaths": 5716,
+          "recovered": 201937
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 112324,
+          "confirmed": 112517,
           "date": "2021-04-22",
-          "deaths": 3066,
-          "recovered": 107449
+          "deaths": 3080,
+          "recovered": 107666
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 409392,
+          "confirmed": 410074,
           "date": "2021-04-22",
-          "deaths": 12906,
-          "recovered": 365900
+          "deaths": 12941,
+          "recovered": 366806
         }
       }
     }
