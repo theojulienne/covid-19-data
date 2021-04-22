@@ -1493,9 +1493,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 98050,
+      "confirmed": 98722,
       "date": "2021-04-22",
-      "deaths": 630,
+      "deaths": 634,
       "recovered": 93884
     }
   },
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 644396,
       "date": "2021-04-22",
-      "deaths": 10553,
+      "deaths": 10554,
       "recovered": 317600
     }
   },
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2795915,
+          "confirmed": 2796088,
           "date": "2021-04-22",
-          "deaths": 48088
+          "deaths": 48092
         }
       },
       "Connecticut": {
@@ -1632,23 +1632,23 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 240909,
+          "confirmed": 241353,
           "date": "2021-04-22",
           "deaths": 4239
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 99235,
+          "confirmed": 99542,
           "date": "2021-04-22",
-          "deaths": 2802
+          "deaths": 2805
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1340925,
+          "confirmed": 1343989,
           "date": "2021-04-22",
-          "deaths": 39066
+          "deaths": 39117
         }
       },
       "North Carolina": {
@@ -1660,16 +1660,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 231002,
+          "confirmed": 231456,
           "date": "2021-04-22",
           "deaths": 3432
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 238120,
+          "confirmed": 238714,
           "date": "2021-04-22",
-          "deaths": 5292
+          "deaths": 5301
         }
       },
       "Texas": {
