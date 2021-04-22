@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 340397,
+          "confirmed": 341645,
           "date": "2021-04-22",
-          "deaths": 10838,
+          "deaths": 10845,
           "recovered": 317338
         }
       }
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 567037,
+          "confirmed": 567360,
           "date": "2021-04-22",
-          "deaths": 13867,
+          "deaths": 13868,
           "recovered": 503500
         }
       },
@@ -615,9 +615,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 132803,
+          "confirmed": 133928,
           "date": "2021-04-22",
-          "deaths": 3489,
+          "deaths": 3504,
           "recovered": 116700
         }
       },
@@ -1029,10 +1029,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 102338,
+      "confirmed": 102720,
       "date": "2021-04-22",
-      "deaths": 2110,
-      "recovered": 88925
+      "deaths": 2115,
+      "recovered": 89432
     }
   },
   "Kuwait": {
@@ -1213,10 +1213,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 148618,
+      "confirmed": 149221,
       "date": "2021-04-22",
-      "deaths": 4556,
-      "recovered": 125593
+      "deaths": 4595,
+      "recovered": 126234
     }
   },
   "Norway": {
@@ -1667,14 +1667,14 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 237821,
+          "confirmed": 238120,
           "date": "2021-04-22",
           "deaths": 5292
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1286701,
+          "confirmed": 1286846,
           "date": "2021-04-22",
           "deaths": 19499
         }
