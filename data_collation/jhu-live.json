@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 167165,
+      "confirmed": 168201,
       "date": "2021-04-22",
-      "deaths": 607,
-      "recovered": 155768
+      "deaths": 614,
+      "recovered": 156981
     }
   },
   "Bangladesh": {
@@ -242,7 +242,7 @@
           "confirmed": 283147,
           "date": "2021-04-22",
           "deaths": 6549,
-          "recovered": 194932
+          "recovered": 195396
         }
       },
       "Parana": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 175230,
+          "confirmed": 177087,
           "date": "2021-04-22",
-          "deaths": 2048,
-          "recovered": 153002
+          "deaths": 2054,
+          "recovered": 155851
         }
       },
       "British Columbia": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 216329,
+      "confirmed": 218145,
       "date": "2021-04-22",
-      "deaths": 7309,
-      "recovered": 193313
+      "deaths": 7345,
+      "recovered": 194075
     }
   },
   "Honduras": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 261307,
+      "confirmed": 262766,
       "date": "2021-04-22",
-      "deaths": 1482,
-      "recovered": 244410
+      "deaths": 1493,
+      "recovered": 245824
     }
   },
   "Latvia": {
@@ -1537,10 +1537,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 291833,
+      "confirmed": 294138,
       "date": "2021-04-22",
-      "deaths": 9993,
-      "recovered": 242238
+      "deaths": 10063,
+      "recovered": 244517
     }
   },
   "Turkey": {
@@ -1674,9 +1674,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1287092,
+          "confirmed": 1288006,
           "date": "2021-04-22",
-          "deaths": 19502
+          "deaths": 19532
         }
       },
       "Utah": {
