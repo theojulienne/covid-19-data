@@ -654,17 +654,17 @@ var covid19_dataset_latest_totals = {
     },
     "CHE": {
       "back_1week": {
-        "confirmed": 627968,
+        "confirmed": 630194,
         "deaths": 10498,
         "recovered": 317600
       },
       "back_2week": {
-        "confirmed": 612575,
+        "confirmed": 615024,
         "deaths": 10445,
         "recovered": 317600
       },
       "latest": {
-        "confirmed": 642131,
+        "confirmed": 644396,
         "deaths": 10555,
         "recovered": 317600
       }
@@ -2623,19 +2623,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 281564,
-        "deaths": 3061,
-        "recovered": 274447
+        "confirmed": 282054,
+        "deaths": 3066,
+        "recovered": 274604
       },
       "back_2week": {
-        "confirmed": 278768,
+        "confirmed": 279100,
         "deaths": 3038,
-        "recovered": 273529
+        "recovered": 273608
       },
       "latest": {
-        "confirmed": 289787,
-        "deaths": 3112,
-        "recovered": 276093
+        "confirmed": 292152,
+        "deaths": 3117,
+        "recovered": 276345
       }
     },
     "NZL": {
