@@ -186,7 +186,7 @@
           "confirmed": 423834,
           "date": "2021-04-23",
           "deaths": 9000,
-          "recovered": 395538
+          "recovered": 398099
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 240667,
           "date": "2021-04-23",
           "deaths": 5374,
-          "recovered": 222597
+          "recovered": 224726
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1302628,
           "date": "2021-04-23",
           "deaths": 31386,
-          "recovered": 1191903
+          "recovered": 1198780
         }
       },
       "Para": {
@@ -242,7 +242,7 @@
           "confirmed": 284189,
           "date": "2021-04-23",
           "deaths": 6576,
-          "recovered": 195396
+          "recovered": 195659
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 920025,
           "date": "2021-04-23",
           "deaths": 20959,
-          "recovered": 659225
+          "recovered": 661922
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 716103,
           "date": "2021-04-23",
           "deaths": 42362,
-          "recovered": 655639
+          "recovered": 669491
         }
       },
       "Rondonia": {
@@ -330,7 +330,7 @@
           "confirmed": 155130,
           "date": "2021-04-23",
           "deaths": 2428,
-          "recovered": 136479
+          "recovered": 137045
         }
       }
     }
@@ -1401,10 +1401,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1571348,
+      "confirmed": 1572985,
       "date": "2021-04-23",
-      "deaths": 53995,
-      "recovered": 1496756
+      "deaths": 54066,
+      "recovered": 1499110
     }
   },
   "Spain": {
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797407,
+          "confirmed": 2797518,
           "date": "2021-04-23",
-          "deaths": 48170
+          "deaths": 48174
         }
       },
       "Connecticut": {
@@ -1681,9 +1681,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 241414,
+          "confirmed": 241606,
           "date": "2021-04-23",
-          "deaths": 1213
+          "deaths": 1214
         }
       },
       "Washington": {
