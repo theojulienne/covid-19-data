@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 99053,
+          "confirmed": 99056,
           "date": "2021-04-23",
           "deaths": 3492,
           "recovered": 87790
@@ -990,7 +990,7 @@
           "confirmed": 133730,
           "date": "2021-04-23",
           "deaths": 1848,
-          "recovered": 124872
+          "recovered": 125442
         }
       }
     }
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 384688,
+      "confirmed": 387535,
       "date": "2021-04-23",
-      "deaths": 1407,
-      "recovered": 361267
+      "deaths": 1415,
+      "recovered": 363608
     }
   },
   "Mexico": {
@@ -1393,10 +1393,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 234811,
+      "confirmed": 235711,
       "date": "2021-04-23",
-      "deaths": 4187,
-      "recovered": 219232
+      "deaths": 4195,
+      "recovered": 220505
     }
   },
   "South Africa": {
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 644396,
       "date": "2021-04-23",
-      "deaths": 10560,
+      "deaths": 10561,
       "recovered": 317600
     }
   },
