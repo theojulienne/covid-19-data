@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 736074,
+      "confirmed": 739703,
       "date": "2021-04-23",
-      "deaths": 10781,
-      "recovered": 642449
+      "deaths": 10869,
+      "recovered": 647674
     }
   },
   "Belarus": {
@@ -599,9 +599,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 227807,
+          "confirmed": 228780,
           "date": "2021-04-23",
-          "deaths": 5194,
+          "deaths": 5197,
           "recovered": 205400
         }
       },
@@ -845,18 +845,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1626812,
+      "confirmed": 1632248,
       "date": "2021-04-23",
-      "deaths": 44172,
-      "recovered": 1481449
+      "deaths": 44346,
+      "recovered": 1487369
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 2335905,
+      "confirmed": 2358809,
       "date": "2021-04-23",
-      "deaths": 68366,
-      "recovered": 1837590
+      "deaths": 68746,
+      "recovered": 1850791
     }
   },
   "Iraq": {
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 133730,
           "date": "2021-04-23",
-          "deaths": 1848,
+          "deaths": 1853,
           "recovered": 125442
         }
       }
@@ -1045,10 +1045,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 113561,
+      "confirmed": 114244,
       "date": "2021-04-23",
-      "deaths": 2088,
-      "recovered": 103230
+      "deaths": 2094,
+      "recovered": 103953
     }
   },
   "Lebanon": {
@@ -1293,10 +1293,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 971049,
+      "confirmed": 979740,
       "date": "2021-04-23",
-      "deaths": 16370,
-      "recovered": 846691
+      "deaths": 16529,
+      "recovered": 860412
     }
   },
   "Poland": {
@@ -1325,10 +1325,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1039998,
+      "confirmed": 1042521,
       "date": "2021-04-23",
-      "deaths": 26943,
-      "recovered": 959126
+      "deaths": 27113,
+      "recovered": 963840
     }
   },
   "Russia": {
@@ -1674,7 +1674,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1288190,
+          "confirmed": 1288273,
           "date": "2021-04-23",
           "deaths": 19532
         }
@@ -1756,10 +1756,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 504872,
+      "confirmed": 506845,
       "date": "2021-04-23",
-      "deaths": 1565,
-      "recovered": 486920
+      "deaths": 1567,
+      "recovered": 488664
     }
   },
   "United Kingdom": {
