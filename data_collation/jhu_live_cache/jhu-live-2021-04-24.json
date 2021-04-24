@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 448213,
+          "confirmed": 449440,
           "date": "2021-04-24",
-          "deaths": 7865,
-          "recovered": 403116
+          "deaths": 7871,
+          "recovered": 404374
         }
       },
       "Quebec": {
@@ -877,7 +877,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 837971,
+      "confirmed": 837974,
       "date": "2021-04-24",
       "deaths": 6350,
       "recovered": 829811
@@ -1283,9 +1283,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 803011,
+          "confirmed": 807851,
           "date": "2021-04-24",
-          "deaths": 25805,
+          "deaths": 25966,
           "recovered": 0
         }
       }
@@ -1531,7 +1531,7 @@
     "live": {
       "confirmed": 646509,
       "date": "2021-04-24",
-      "deaths": 10568,
+      "deaths": 10594,
       "recovered": 317600
     }
   },
@@ -1562,9 +1562,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798430,
+          "confirmed": 2798546,
           "date": "2021-04-24",
-          "deaths": 48218
+          "deaths": 48224
         }
       },
       "Connecticut": {
