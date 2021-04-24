@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 309789,
+      "confirmed": 311465,
       "date": "2021-04-24",
-      "deaths": 4307,
-      "recovered": 274766
+      "deaths": 4342,
+      "recovered": 276934
     }
   },
   "Bahrain": {
@@ -869,10 +869,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1018321,
+      "confirmed": 1025288,
       "date": "2021-04-24",
-      "deaths": 15174,
-      "recovered": 891007
+      "deaths": 15217,
+      "recovered": 897966
     }
   },
   "Ireland": {
@@ -1229,7 +1229,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 110061,
+      "confirmed": 110274,
       "date": "2021-04-24",
       "deaths": 736,
       "recovered": 17998
@@ -1385,9 +1385,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 675904,
+      "confirmed": 677972,
       "date": "2021-04-24",
-      "deaths": 6164,
+      "deaths": 6196,
       "recovered": 0
     }
   },
@@ -1570,7 +1570,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797823,
+          "confirmed": 2798243,
           "date": "2021-04-24",
           "deaths": 48193
         }
@@ -1764,10 +1764,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 506845,
+      "confirmed": 508925,
       "date": "2021-04-24",
-      "deaths": 1567,
-      "recovered": 488664
+      "deaths": 1569,
+      "recovered": 490457
     }
   },
   "United Kingdom": {
