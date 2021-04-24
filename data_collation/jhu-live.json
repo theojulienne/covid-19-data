@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 122871,
+          "confirmed": 123386,
           "date": "2021-04-24",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 119506,
+          "confirmed": 119935,
           "date": "2021-04-24",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 110848,
+          "confirmed": 111290,
           "date": "2021-04-24",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 142700,
+          "confirmed": 143150,
           "date": "2021-04-24",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 119025,
+          "confirmed": 119349,
           "date": "2021-04-24",
           "deaths": 0,
           "recovered": 0
@@ -1029,10 +1029,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 117458,
+      "confirmed": 118243,
       "date": "2021-04-24",
-      "deaths": 1811,
-      "recovered": 107071
+      "deaths": 1812,
+      "recovered": 107781
     }
   },
   "Kosovo": {
@@ -1095,33 +1095,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 633423,
+          "confirmed": 634752,
           "date": "2021-04-24",
-          "deaths": 32183,
+          "deaths": 32241,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 130050,
+          "confirmed": 130140,
           "date": "2021-04-24",
-          "deaths": 10459,
+          "deaths": 10471,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 242180,
+          "confirmed": 242530,
           "date": "2021-04-24",
-          "deaths": 33590,
+          "deaths": 33643,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 121896,
+          "confirmed": 121975,
           "date": "2021-04-24",
-          "deaths": 9248,
+          "deaths": 9272,
           "recovered": 0
         }
       }
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797658,
+          "confirmed": 2797823,
           "date": "2021-04-24",
-          "deaths": 48192
+          "deaths": 48193
         }
       },
       "Connecticut": {
