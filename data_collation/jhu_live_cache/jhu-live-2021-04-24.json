@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 350221,
+      "confirmed": 351674,
       "date": "2021-04-24",
-      "deaths": 2473,
-      "recovered": 340660
+      "deaths": 2483,
+      "recovered": 342102
     }
   },
   "Belgium": {
@@ -591,9 +591,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 99514,
+          "confirmed": 99517,
           "date": "2021-04-24",
-          "deaths": 3498,
+          "deaths": 3497,
           "recovered": 88280
         }
       },
@@ -607,9 +607,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 229651,
+          "confirmed": 230218,
           "date": "2021-04-24",
-          "deaths": 5209,
+          "deaths": 5220,
           "recovered": 206700
         }
       },
@@ -623,9 +623,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 135024,
+          "confirmed": 135563,
           "date": "2021-04-24",
-          "deaths": 3513,
+          "deaths": 3514,
           "recovered": 118000
         }
       },
@@ -997,7 +997,7 @@
         "live": {
           "confirmed": 134606,
           "date": "2021-04-24",
-          "deaths": 1853,
+          "deaths": 1856,
           "recovered": 125991
         }
       }
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 294601,
+      "confirmed": 297087,
       "date": "2021-04-24",
-      "deaths": 3122,
-      "recovered": 276755
+      "deaths": 3136,
+      "recovered": 277123
     }
   },
   "Netherlands": {
@@ -1824,10 +1824,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 289120,
+      "confirmed": 290259,
       "date": "2021-04-24",
-      "deaths": 3138,
-      "recovered": 259105
+      "deaths": 3151,
+      "recovered": 260650
     }
   }
 }
