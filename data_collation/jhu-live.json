@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 169254,
+      "confirmed": 170335,
       "date": "2021-04-24",
-      "deaths": 617,
-      "recovered": 158133
+      "deaths": 620,
+      "recovered": 159198
     }
   },
   "Bangladesh": {
@@ -461,9 +461,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 236930,
+      "confirmed": 238760,
       "date": "2021-04-24",
-      "deaths": 3136,
+      "deaths": 3143,
       "recovered": 199982
     }
   },
@@ -1537,10 +1537,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 296343,
+      "confirmed": 298572,
       "date": "2021-04-24",
-      "deaths": 10170,
-      "recovered": 246001
+      "deaths": 10231,
+      "recovered": 248013
     }
   },
   "Turkey": {
@@ -1555,9 +1555,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 648089,
+          "confirmed": 648676,
           "date": "2021-04-24",
-          "deaths": 12202
+          "deaths": 12219
         }
       },
       "California": {
@@ -1604,9 +1604,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 130661,
+          "confirmed": 130965,
           "date": "2021-04-24",
-          "deaths": 3708
+          "deaths": 3709
         }
       },
       "Michigan": {
@@ -1674,7 +1674,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1289113,
+          "confirmed": 1290195,
           "date": "2021-04-24",
           "deaths": 19576
         }
