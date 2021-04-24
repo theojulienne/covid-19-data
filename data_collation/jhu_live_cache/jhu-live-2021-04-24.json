@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142687,
+      "confirmed": 142704,
       "date": "2021-04-24",
       "deaths": 3206,
-      "recovered": 131921
+      "recovered": 131925
     }
   },
   "Canada": {
@@ -853,10 +853,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1632248,
+      "confirmed": 1636792,
       "date": "2021-04-24",
-      "deaths": 44346,
-      "recovered": 1487369
+      "deaths": 44500,
+      "recovered": 1492322
     }
   },
   "Iran": {
@@ -1053,9 +1053,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 114244,
+      "confirmed": 114955,
       "date": "2021-04-24",
-      "deaths": 2094,
+      "deaths": 2101,
       "recovered": 103953
     }
   },
@@ -1085,10 +1085,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 387535,
+      "confirmed": 390252,
       "date": "2021-04-24",
-      "deaths": 1415,
-      "recovered": 363608
+      "deaths": 1426,
+      "recovered": 365900
     }
   },
   "Mexico": {
@@ -1343,34 +1343,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1075242,
+          "confirmed": 1077783,
           "date": "2021-04-24",
-          "deaths": 17923,
-          "recovered": 980003
+          "deaths": 17982,
+          "recovered": 981882
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 245578,
+          "confirmed": 246174,
           "date": "2021-04-24",
-          "deaths": 5727,
-          "recovered": 202505
+          "deaths": 5739,
+          "recovered": 203016
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 112711,
+          "confirmed": 112904,
           "date": "2021-04-24",
-          "deaths": 3093,
-          "recovered": 107883
+          "deaths": 3108,
+          "recovered": 108094
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 410768,
+          "confirmed": 411457,
           "date": "2021-04-24",
-          "deaths": 12978,
-          "recovered": 367807
+          "deaths": 13017,
+          "recovered": 368819
         }
       }
     }
@@ -1401,10 +1401,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 235711,
+      "confirmed": 236613,
       "date": "2021-04-24",
-      "deaths": 4195,
-      "recovered": 220505
+      "deaths": 4203,
+      "recovered": 221814
     }
   },
   "South Africa": {
