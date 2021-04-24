@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 294391,
+      "confirmed": 295892,
       "date": "2021-04-24",
-      "deaths": 12758,
-      "recovered": 243064
+      "deaths": 12783,
+      "recovered": 244079
     }
   },
   "Bosnia and Herzegovina": {
@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 204828,
+      "confirmed": 205696,
       "date": "2021-04-24",
-      "deaths": 5047,
-      "recovered": 77431
+      "deaths": 5095,
+      "recovered": 77531
     }
   },
   "Hungary": {
@@ -1013,10 +1013,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 355825,
+      "confirmed": 355918,
       "date": "2021-04-24",
       "deaths": 3304,
-      "recovered": 310856
+      "recovered": 310933
     }
   },
   "Kenya": {
