@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 130270,
+      "confirmed": 130409,
       "date": "2021-04-24",
-      "deaths": 2367,
-      "recovered": 104278
+      "deaths": 2372,
+      "recovered": 105016
     }
   },
   "Algeria": {
@@ -517,9 +517,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 371306,
+      "confirmed": 372754,
       "date": "2021-04-24",
-      "deaths": 18062,
+      "deaths": 18158,
       "recovered": 309541
     }
   },
@@ -541,18 +541,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 249292,
+      "confirmed": 250955,
       "date": "2021-04-24",
-      "deaths": 3511,
-      "recovered": 188080
+      "deaths": 3531,
+      "recovered": 190013
     }
   },
   "France": {
     "live": {
-      "confirmed": 5399600,
+      "confirmed": 5432085,
       "date": "2021-04-24",
-      "deaths": 101830,
-      "recovered": 296453
+      "deaths": 102046,
+      "recovered": 297886
     }
   },
   "Georgia": {
@@ -1129,10 +1129,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 248518,
+      "confirmed": 248898,
       "date": "2021-04-24",
-      "deaths": 5691,
-      "recovered": 235965
+      "deaths": 5709,
+      "recovered": 236774
     }
   },
   "Montenegro": {
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 646509,
       "date": "2021-04-24",
-      "deaths": 10567,
+      "deaths": 10568,
       "recovered": 317600
     }
   },
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798307,
+          "confirmed": 2798430,
           "date": "2021-04-24",
-          "deaths": 48221
+          "deaths": 48218
         }
       },
       "Connecticut": {
@@ -1584,9 +1584,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1210654,
+          "confirmed": 1214975,
           "date": "2021-04-24",
-          "deaths": 15957
+          "deaths": 15979
         }
       },
       "Georgia": {
@@ -1598,9 +1598,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 527102,
+          "confirmed": 528337,
           "date": "2021-04-24",
-          "deaths": 9869
+          "deaths": 9878
         }
       },
       "Indiana": {
@@ -1668,16 +1668,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 231952,
+          "confirmed": 232378,
           "date": "2021-04-24",
           "deaths": 3454
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 239538,
+          "confirmed": 239905,
           "date": "2021-04-24",
-          "deaths": 5316
+          "deaths": 5317
         }
       },
       "Texas": {
