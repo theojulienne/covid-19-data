@@ -170,7 +170,7 @@
           "confirmed": 641230,
           "date": "2021-04-24",
           "deaths": 16790,
-          "recovered": 436973
+          "recovered": 440233
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 536340,
           "date": "2021-04-24",
           "deaths": 14343,
-          "recovered": 509499
+          "recovered": 511674
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 460306,
           "date": "2021-04-24",
           "deaths": 12354,
-          "recovered": 429413
+          "recovered": 431220
         }
       },
       "Paraiba": {
@@ -390,7 +390,7 @@
           "confirmed": 342688,
           "date": "2021-04-24",
           "deaths": 10860,
-          "recovered": 318676
+          "recovered": 320302
         }
       }
     }
@@ -422,7 +422,7 @@
           "confirmed": 450099,
           "date": "2021-04-24",
           "deaths": 8938,
-          "recovered": 412318
+          "recovered": 416668
         }
       },
       "Atlantico": {
@@ -430,7 +430,7 @@
           "confirmed": 218229,
           "date": "2021-04-24",
           "deaths": 6185,
-          "recovered": 196879
+          "recovered": 199951
         }
       },
       "Capital District": {
@@ -438,7 +438,7 @@
           "confirmed": 758895,
           "date": "2021-04-24",
           "deaths": 15199,
-          "recovered": 698587
+          "recovered": 701961
         }
       },
       "Cundinamarca": {
@@ -446,7 +446,7 @@
           "confirmed": 121396,
           "date": "2021-04-24",
           "deaths": 3236,
-          "recovered": 114199
+          "recovered": 114761
         }
       },
       "Santander": {
@@ -454,7 +454,7 @@
           "confirmed": 100313,
           "date": "2021-04-24",
           "deaths": 3601,
-          "recovered": 93620
+          "recovered": 94150
         }
       },
       "Valle del Cauca": {
@@ -462,17 +462,17 @@
           "confirmed": 229982,
           "date": "2021-04-24",
           "deaths": 7041,
-          "recovered": 215596
+          "recovered": 216757
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 235274,
+      "confirmed": 236930,
       "date": "2021-04-24",
-      "deaths": 3125,
-      "recovered": 199779
+      "deaths": 3136,
+      "recovered": 199982
     }
   },
   "Croatia": {
@@ -1281,10 +1281,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 260382,
+      "confirmed": 263134,
       "date": "2021-04-24",
-      "deaths": 5633,
-      "recovered": 213710
+      "deaths": 5715,
+      "recovered": 215702
     }
   },
   "Peru": {
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797518,
+          "confirmed": 2797658,
           "date": "2021-04-24",
-          "deaths": 48174
+          "deaths": 48192
         }
       },
       "Connecticut": {
@@ -1654,9 +1654,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1345152,
+          "confirmed": 1346763,
           "date": "2021-04-24",
-          "deaths": 39122
+          "deaths": 39164
         }
       },
       "North Carolina": {
@@ -1682,7 +1682,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1288782,
+          "confirmed": 1288963,
           "date": "2021-04-24",
           "deaths": 19556
         }
@@ -1808,10 +1808,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 175891,
+      "confirmed": 179537,
       "date": "2021-04-24",
-      "deaths": 2160,
-      "recovered": 145464
+      "deaths": 2227,
+      "recovered": 148561
     }
   },
   "Venezuela": {
