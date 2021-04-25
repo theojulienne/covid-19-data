@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 295892,
+      "confirmed": 297185,
       "date": "2021-04-25",
-      "deaths": 12783,
-      "recovered": 244079
+      "deaths": 12812,
+      "recovered": 244881
     }
   },
   "Bosnia and Herzegovina": {
@@ -567,23 +567,23 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 424960,
+          "confirmed": 427869,
           "date": "2021-04-25",
-          "deaths": 9201,
+          "deaths": 9211,
           "recovered": 375600
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 575160,
+          "confirmed": 578061,
           "date": "2021-04-25",
-          "deaths": 13958,
+          "deaths": 13967,
           "recovered": 511800
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 164110,
+          "confirmed": 164116,
           "date": "2021-04-25",
           "deaths": 3187,
           "recovered": 150500
@@ -591,39 +591,39 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 99517,
+          "confirmed": 99879,
           "date": "2021-04-25",
-          "deaths": 3497,
+          "deaths": 3502,
           "recovered": 88610
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 253605,
+          "confirmed": 255088,
           "date": "2021-04-25",
-          "deaths": 6733,
+          "deaths": 6742,
           "recovered": 223100
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 230218,
+          "confirmed": 230846,
           "date": "2021-04-25",
-          "deaths": 5220,
+          "deaths": 5224,
           "recovered": 207400
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 709522,
+          "confirmed": 714360,
           "date": "2021-04-25",
-          "deaths": 15201,
+          "deaths": 15218,
           "recovered": 626500
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 135563,
+          "confirmed": 135587,
           "date": "2021-04-25",
           "deaths": 3514,
           "recovered": 118600
@@ -631,17 +631,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 254954,
+          "confirmed": 254957,
           "date": "2021-04-25",
-          "deaths": 8929,
+          "deaths": 8933,
           "recovered": 224900
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 111876,
+          "confirmed": 112543,
           "date": "2021-04-25",
-          "deaths": 3736,
+          "deaths": 3741,
           "recovered": 98770
         }
       }
@@ -1013,10 +1013,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 355918,
+      "confirmed": 358834,
       "date": "2021-04-25",
-      "deaths": 3304,
-      "recovered": 310933
+      "deaths": 3311,
+      "recovered": 312802
     }
   },
   "Kenya": {
