@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 170335,
+      "confirmed": 171370,
       "date": "2021-04-25",
-      "deaths": 620,
-      "recovered": 159198
+      "deaths": 624,
+      "recovered": 160089
     }
   },
   "Bangladesh": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 265404,
+      "confirmed": 266949,
       "date": "2021-04-25",
-      "deaths": 1511,
-      "recovered": 248633
+      "deaths": 1516,
+      "recovered": 250074
     }
   },
   "Latvia": {
@@ -1409,10 +1409,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1574370,
+      "confirmed": 1575471,
       "date": "2021-04-25",
-      "deaths": 54125,
-      "recovered": 1500360
+      "deaths": 54148,
+      "recovered": 1501185
     }
   },
   "Spain": {
@@ -1612,9 +1612,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 130965,
+          "confirmed": 131174,
           "date": "2021-04-25",
-          "deaths": 3709
+          "deaths": 3710
         }
       },
       "Michigan": {
