@@ -301,14 +301,6 @@
           "recovered": 190718
         }
       },
-      "Roraima": {
-        "live": {
-          "confirmed": 95027,
-          "date": "2021-04-25",
-          "deaths": 1472,
-          "recovered": 89008
-        }
-      },
       "Santa Catarina": {
         "live": {
           "confirmed": 871982,
@@ -501,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 247010,
+      "confirmed": 247622,
       "date": "2021-04-25",
-      "deaths": 2474,
-      "recovered": 235065
+      "deaths": 2475,
+      "recovered": 235622
     }
   },
   "Dominican Republic": {
@@ -575,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 578061,
+          "confirmed": 578265,
           "date": "2021-04-25",
-          "deaths": 13967,
+          "deaths": 13968,
           "recovered": 511800
         }
       },
@@ -869,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1025288,
+      "confirmed": 1031322,
       "date": "2021-04-25",
-      "deaths": 15217,
-      "recovered": 897966
+      "deaths": 15257,
+      "recovered": 905301
     }
   },
   "Ireland": {
@@ -1163,7 +1155,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 161528,
+          "confirmed": 162383,
           "date": "2021-04-25",
           "deaths": 1954,
           "recovered": 0
@@ -1171,7 +1163,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 97142,
+          "confirmed": 97925,
           "date": "2021-04-25",
           "deaths": 1567,
           "recovered": 0
@@ -1179,33 +1171,41 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 231409,
+          "confirmed": 233053,
           "date": "2021-04-25",
-          "deaths": 3058,
+          "deaths": 3059,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 246687,
+          "confirmed": 247656,
           "date": "2021-04-25",
-          "deaths": 2493,
+          "deaths": 2495,
+          "recovered": 0
+        }
+      },
+      "Overijssel": {
+        "live": {
+          "confirmed": 95110,
+          "date": "2021-04-25",
+          "deaths": 1102,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 112307,
+          "confirmed": 112816,
           "date": "2021-04-25",
-          "deaths": 1233,
+          "deaths": 1234,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 346252,
+          "confirmed": 348195,
           "date": "2021-04-25",
-          "deaths": 4106,
+          "deaths": 4112,
           "recovered": 0
         }
       }
