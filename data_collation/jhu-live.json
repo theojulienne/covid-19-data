@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 742400,
+      "confirmed": 745322,
       "date": "2021-04-25",
-      "deaths": 10952,
-      "recovered": 653151
+      "deaths": 11053,
+      "recovered": 657452
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 351674,
+      "confirmed": 352950,
       "date": "2021-04-25",
-      "deaths": 2483,
-      "recovered": 342102
+      "deaths": 2493,
+      "recovered": 343557
     }
   },
   "Belgium": {
@@ -623,9 +623,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 135587,
+          "confirmed": 136256,
           "date": "2021-04-25",
-          "deaths": 3514,
+          "deaths": 3515,
           "recovered": 118600
         }
       },
@@ -995,9 +995,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 134606,
+          "confirmed": 135241,
           "date": "2021-04-25",
-          "deaths": 1856,
+          "deaths": 1860,
           "recovered": 126617
         }
       }
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 297087,
+      "confirmed": 300119,
       "date": "2021-04-25",
-      "deaths": 3136,
-      "recovered": 277123
+      "deaths": 3164,
+      "recovered": 277573
     }
   },
   "Netherlands": {
@@ -1333,10 +1333,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1044722,
+      "confirmed": 1046264,
       "date": "2021-04-25",
-      "deaths": 27267,
-      "recovered": 968746
+      "deaths": 27394,
+      "recovered": 972476
     }
   },
   "Russia": {
@@ -1682,7 +1682,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1290498,
+          "confirmed": 1290594,
           "date": "2021-04-25",
           "deaths": 19576
         }
