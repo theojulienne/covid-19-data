@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 452229,
+          "confirmed": 453337,
           "date": "2021-04-25",
-          "deaths": 7881,
-          "recovered": 407283
+          "deaths": 7895,
+          "recovered": 408512
         }
       },
       "Quebec": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838014,
+      "confirmed": 838024,
       "date": "2021-04-25",
       "deaths": 6352,
-      "recovered": 829957
+      "recovered": 829983
     }
   },
   "Italy": {
@@ -1545,10 +1545,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 298572,
+      "confirmed": 300342,
       "date": "2021-04-25",
-      "deaths": 10231,
-      "recovered": 248013
+      "deaths": 10304,
+      "recovered": 249146
     }
   },
   "Turkey": {
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798583,
+          "confirmed": 2798667,
           "date": "2021-04-25",
-          "deaths": 48245
+          "deaths": 48254
         }
       },
       "Connecticut": {
