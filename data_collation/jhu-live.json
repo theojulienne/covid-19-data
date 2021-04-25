@@ -509,10 +509,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 263470,
+      "confirmed": 263944,
       "date": "2021-04-24",
-      "deaths": 3448,
-      "recovered": 220678
+      "deaths": 3451,
+      "recovered": 221294
     }
   },
   "Ecuador": {
@@ -1061,10 +1061,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 518104,
+      "confirmed": 519615,
       "date": "2021-04-24",
-      "deaths": 7090,
-      "recovered": 441631
+      "deaths": 7118,
+      "recovered": 445163
     }
   },
   "Libya": {
@@ -1213,10 +1213,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 164633,
+      "confirmed": 164684,
       "date": "2021-04-24",
       "deaths": 2061,
-      "recovered": 154643
+      "recovered": 154687
     }
   },
   "North Macedonia": {
@@ -1229,7 +1229,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 110274,
+      "confirmed": 110390,
       "date": "2021-04-24",
       "deaths": 736,
       "recovered": 17998
@@ -1409,10 +1409,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1572985,
+      "confirmed": 1574370,
       "date": "2021-04-24",
-      "deaths": 54066,
-      "recovered": 1499110
+      "deaths": 54125,
+      "recovered": 1500360
     }
   },
   "Spain": {
@@ -1696,7 +1696,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 99085,
+          "confirmed": 99551,
           "date": "2021-04-24",
           "deaths": 1504
         }
@@ -1808,10 +1808,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 179537,
+      "confirmed": 182326,
       "date": "2021-04-24",
-      "deaths": 2227,
-      "recovered": 148561
+      "deaths": 2283,
+      "recovered": 151669
     }
   },
   "Venezuela": {
