@@ -419,49 +419,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 450099,
+          "confirmed": 453103,
           "date": "2021-04-25",
-          "deaths": 8938,
+          "deaths": 9068,
           "recovered": 416668
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 218229,
+          "confirmed": 220152,
           "date": "2021-04-25",
-          "deaths": 6185,
+          "deaths": 6271,
           "recovered": 199951
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 758895,
+          "confirmed": 763255,
           "date": "2021-04-25",
-          "deaths": 15199,
+          "deaths": 15269,
           "recovered": 701961
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 121396,
+          "confirmed": 122342,
           "date": "2021-04-25",
-          "deaths": 3236,
+          "deaths": 3251,
           "recovered": 114761
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 100313,
+          "confirmed": 100799,
           "date": "2021-04-25",
-          "deaths": 3601,
+          "deaths": 3606,
           "recovered": 94150
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 229982,
+          "confirmed": 231274,
           "date": "2021-04-25",
-          "deaths": 7041,
+          "deaths": 7083,
           "recovered": 216757
         }
       }
@@ -1291,9 +1291,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 807851,
+          "confirmed": 810991,
           "date": "2021-04-25",
-          "deaths": 25966,
+          "deaths": 26140,
           "recovered": 0
         }
       }
@@ -1572,7 +1572,7 @@
         "live": {
           "confirmed": 2798971,
           "date": "2021-04-25",
-          "deaths": 48224
+          "deaths": 48228
         }
       },
       "Connecticut": {
