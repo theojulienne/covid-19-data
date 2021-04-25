@@ -1570,7 +1570,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798994,
+          "confirmed": 2798329,
           "date": "2021-04-25",
           "deaths": 48228
         }
@@ -1824,10 +1824,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 290259,
+      "confirmed": 290972,
       "date": "2021-04-25",
-      "deaths": 3151,
-      "recovered": 260650
+      "deaths": 3167,
+      "recovered": 262602
     }
   }
 }
