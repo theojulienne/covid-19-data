@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 212878,
+      "confirmed": 213288,
       "date": "2021-04-25",
-      "deaths": 4001,
-      "recovered": 193360
+      "deaths": 4018,
+      "recovered": 194080
     }
   },
   "Austria": {
@@ -493,10 +493,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1618068,
+      "confirmed": 1618076,
       "date": "2021-04-25",
-      "deaths": 28920,
-      "recovered": 1524041
+      "deaths": 28946,
+      "recovered": 1524100
     }
   },
   "Denmark": {
@@ -557,17 +557,17 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 302785,
+      "confirmed": 303751,
       "date": "2021-04-25",
-      "deaths": 4007,
-      "recovered": 284749
+      "deaths": 4025,
+      "recovered": 285971
     }
   },
   "Germany": {
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 427869,
+          "confirmed": 427928,
           "date": "2021-04-25",
           "deaths": 9211,
           "recovered": 375600
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 837974,
+      "confirmed": 838006,
       "date": "2021-04-25",
       "deaths": 6350,
-      "recovered": 829811
+      "recovered": 829851
     }
   },
   "Italy": {
@@ -1077,10 +1077,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 240522,
+      "confirmed": 241297,
       "date": "2021-04-25",
-      "deaths": 3841,
-      "recovered": 217779
+      "deaths": 3848,
+      "recovered": 217911
     }
   },
   "Malaysia": {
