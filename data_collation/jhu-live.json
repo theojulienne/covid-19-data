@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 321372,
+      "confirmed": 322626,
       "date": "2021-04-25",
-      "deaths": 6815,
-      "recovered": 298210
+      "deaths": 6854,
+      "recovered": 300492
     }
   },
   "Cuba": {
@@ -493,10 +493,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1618076,
+      "confirmed": 1619383,
       "date": "2021-04-25",
-      "deaths": 28946,
-      "recovered": 1524100
+      "deaths": 28962,
+      "recovered": 1524146
     }
   },
   "Denmark": {
@@ -591,7 +591,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 99879,
+          "confirmed": 99882,
           "date": "2021-04-25",
           "deaths": 3502,
           "recovered": 88610
@@ -853,18 +853,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1636792,
+      "confirmed": 1641194,
       "date": "2021-04-25",
-      "deaths": 44500,
-      "recovered": 1492322
+      "deaths": 44594,
+      "recovered": 1496126
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 2377039,
+      "confirmed": 2396204,
       "date": "2021-04-25",
-      "deaths": 69120,
-      "recovered": 1863405
+      "deaths": 69574,
+      "recovered": 1877517
     }
   },
   "Iraq": {
@@ -1069,10 +1069,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 174752,
+      "confirmed": 175286,
       "date": "2021-04-25",
-      "deaths": 2947,
-      "recovered": 160113
+      "deaths": 2996,
+      "recovered": 160643
     }
   },
   "Lithuania": {
@@ -1237,10 +1237,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 185278,
+      "confirmed": 188816,
       "date": "2021-04-25",
-      "deaths": 1942,
-      "recovered": 165051
+      "deaths": 1977,
+      "recovered": 168770
     }
   },
   "Pakistan": {
@@ -1764,10 +1764,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 508925,
+      "confirmed": 510738,
       "date": "2021-04-25",
-      "deaths": 1569,
-      "recovered": 490457
+      "deaths": 1571,
+      "recovered": 492109
     }
   },
   "United Kingdom": {
