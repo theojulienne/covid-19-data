@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 300119,
+      "confirmed": 303561,
       "date": "2021-04-26",
-      "deaths": 3164,
-      "recovered": 277573
+      "deaths": 3176,
+      "recovered": 277951
     }
   },
   "Netherlands": {
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 646509,
       "date": "2021-04-26",
-      "deaths": 10576,
+      "deaths": 10578,
       "recovered": 317600
     }
   },
