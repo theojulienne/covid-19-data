@@ -533,10 +533,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 120215,
+      "confirmed": 120378,
       "date": "2021-04-26",
-      "deaths": 1143,
-      "recovered": 107298
+      "deaths": 1145,
+      "recovered": 107906
     }
   },
   "Ethiopia": {
@@ -1312,7 +1312,7 @@
       "confirmed": 2758856,
       "date": "2021-04-26",
       "deaths": 65415,
-      "recovered": 2439412
+      "recovered": 2455005
     }
   },
   "Portugal": {
@@ -1343,34 +1343,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1080309,
+          "confirmed": 1082996,
           "date": "2021-04-26",
-          "deaths": 18035,
-          "recovered": 983221
+          "deaths": 18090,
+          "recovered": 984346
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 246785,
+          "confirmed": 247394,
           "date": "2021-04-26",
-          "deaths": 5740,
-          "recovered": 203390
+          "deaths": 5748,
+          "recovered": 203720
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 113096,
+          "confirmed": 113273,
           "date": "2021-04-26",
-          "deaths": 3116,
-          "recovered": 108309
+          "deaths": 3130,
+          "recovered": 108517
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 412158,
+          "confirmed": 412864,
           "date": "2021-04-26",
-          "deaths": 13045,
-          "recovered": 369792
+          "deaths": 13082,
+          "recovered": 370626
         }
       }
     }
@@ -1393,9 +1393,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 379911,
+      "confirmed": 380010,
       "date": "2021-04-26",
-      "deaths": 11495,
+      "deaths": 11531,
       "recovered": 255300
     }
   },
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 646509,
       "date": "2021-04-26",
-      "deaths": 10570,
+      "deaths": 10571,
       "recovered": 317600
     }
   },
