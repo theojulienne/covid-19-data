@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 213288,
+      "confirmed": 213469,
       "date": "2021-04-26",
-      "deaths": 4018,
-      "recovered": 194080
+      "deaths": 4040,
+      "recovered": 194900
     }
   },
   "Austria": {
@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142712,
+      "confirmed": 142722,
       "date": "2021-04-26",
-      "deaths": 3206,
-      "recovered": 131930
+      "deaths": 3207,
+      "recovered": 131932
     }
   },
   "Canada": {
@@ -493,10 +493,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1619383,
+      "confirmed": 1620206,
       "date": "2021-04-26",
-      "deaths": 28962,
-      "recovered": 1524146
+      "deaths": 29002,
+      "recovered": 1537362
     }
   },
   "Denmark": {
@@ -557,10 +557,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 303751,
+      "confirmed": 304272,
       "date": "2021-04-26",
-      "deaths": 4025,
-      "recovered": 285971
+      "deaths": 4043,
+      "recovered": 287029
     }
   },
   "Germany": {
@@ -673,10 +673,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 769518,
+      "confirmed": 771454,
       "date": "2021-04-26",
-      "deaths": 26625,
-      "recovered": 482207
+      "deaths": 26801,
+      "recovered": 486435
     }
   },
   "India": {
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838024,
+      "confirmed": 838084,
       "date": "2021-04-26",
       "deaths": 6352,
-      "recovered": 829983
+      "recovered": 830012
     }
   },
   "Italy": {
@@ -995,7 +995,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 135241,
+          "confirmed": 135666,
           "date": "2021-04-26",
           "deaths": 1860,
           "recovered": 126617
@@ -1077,10 +1077,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 241297,
+      "confirmed": 241872,
       "date": "2021-04-26",
-      "deaths": 3848,
-      "recovered": 217911
+      "deaths": 3857,
+      "recovered": 218011
     }
   },
   "Malaysia": {
@@ -1291,9 +1291,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 810991,
+          "confirmed": 813841,
           "date": "2021-04-26",
-          "deaths": 26140,
+          "deaths": 26248,
           "recovered": 0
         }
       }
