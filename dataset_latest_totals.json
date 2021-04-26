@@ -350,36 +350,36 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 385963,
-        "deaths": 15138,
-        "recovered": 305237
+        "confirmed": 386381,
+        "deaths": 15195,
+        "recovered": 306678
       },
       "back_2week": {
-        "confirmed": 371531,
-        "deaths": 14351,
-        "recovered": 285799
+        "confirmed": 371993,
+        "deaths": 14418,
+        "recovered": 286258
       },
       "latest": {
-        "confirmed": 397100,
-        "deaths": 15859,
-        "recovered": 324386
+        "confirmed": 397500,
+        "deaths": 15907,
+        "recovered": 324943
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 163113,
-        "deaths": 588,
-        "recovered": 151286
+        "confirmed": 164110,
+        "deaths": 594,
+        "recovered": 152361
       },
       "back_2week": {
-        "confirmed": 155402,
-        "deaths": 554,
-        "recovered": 143889
+        "confirmed": 156462,
+        "deaths": 557,
+        "recovered": 144917
       },
       "latest": {
-        "confirmed": 170335,
-        "deaths": 620,
-        "recovered": 159198
+        "confirmed": 171370,
+        "deaths": 624,
+        "recovered": 160089
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 180369,
-          "deaths": 2064
+          "confirmed": 181806,
+          "deaths": 2067
         },
         "British Columbia": {
           "confirmed": 123758,
@@ -1632,19 +1632,19 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 212307,
-        "deaths": 7190,
-        "recovered": 190388
+        "confirmed": 212734,
+        "deaths": 7221,
+        "recovered": 190944
       },
       "back_2week": {
-        "confirmed": 202640,
-        "deaths": 7001,
-        "recovered": 184758
+        "confirmed": 203071,
+        "deaths": 7016,
+        "recovered": 185549
       },
       "latest": {
-        "confirmed": 221307,
-        "deaths": 7395,
-        "recovered": 195802
+        "confirmed": 221698,
+        "deaths": 7410,
+        "recovered": 196657
       }
     },
     "GUY": {
