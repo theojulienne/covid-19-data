@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 313006,
+      "confirmed": 313812,
       "date": "2021-04-26",
-      "deaths": 4371,
-      "recovered": 279179
+      "deaths": 4402,
+      "recovered": 280403
     }
   },
   "Bahrain": {
@@ -162,7 +162,7 @@
           "confirmed": 884044,
           "date": "2021-04-26",
           "deaths": 18003,
-          "recovered": 843954
+          "recovered": 852616
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 650846,
           "date": "2021-04-26",
           "deaths": 16988,
-          "recovered": 440233
+          "recovered": 450145
         }
       },
       "Distrito Federal": {
@@ -210,7 +210,7 @@
           "confirmed": 351368,
           "date": "2021-04-26",
           "deaths": 9345,
-          "recovered": 330093
+          "recovered": 332504
         }
       },
       "Mato Grosso do Sul": {
@@ -226,7 +226,7 @@
           "confirmed": 1323153,
           "date": "2021-04-26",
           "deaths": 32318,
-          "recovered": 1214612
+          "recovered": 1216421
         }
       },
       "Para": {
@@ -234,7 +234,7 @@
           "confirmed": 462843,
           "date": "2021-04-26",
           "deaths": 12504,
-          "recovered": 432186
+          "recovered": 432874
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 235203,
           "date": "2021-04-26",
           "deaths": 4955,
-          "recovered": 228951
+          "recovered": 229434
         }
       },
       "Rio Grande do Norte": {
@@ -1570,7 +1570,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2799576,
+          "confirmed": 2799787,
           "date": "2021-04-26",
           "deaths": 48258
         }
@@ -1619,9 +1619,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 258358,
+          "confirmed": 260560,
           "date": "2021-04-26",
-          "deaths": 6710
+          "deaths": 6721
         }
       },
       "Minnesota": {
@@ -1654,7 +1654,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1352716,
+          "confirmed": 1353438,
           "date": "2021-04-26",
           "deaths": 39268
         }
@@ -1703,7 +1703,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114138,
+          "confirmed": 114230,
           "date": "2021-04-26",
           "deaths": 1338
         }
