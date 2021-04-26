@@ -2810,19 +2810,19 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 195757,
-        "deaths": 376,
-        "recovered": 173257
+        "confirmed": 196580,
+        "deaths": 382,
+        "recovered": 173970
       },
       "back_2week": {
-        "confirmed": 189064,
-        "deaths": 331,
-        "recovered": 169086
+        "confirmed": 190025,
+        "deaths": 333,
+        "recovered": 169635
       },
       "latest": {
-        "confirmed": 201496,
-        "deaths": 418,
-        "recovered": 179974
+        "confirmed": 202201,
+        "deaths": 428,
+        "recovered": 181522
       }
     },
     "RKS": {

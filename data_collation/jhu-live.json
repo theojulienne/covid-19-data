@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 455228,
+          "confirmed": 456753,
           "date": "2021-04-26",
-          "deaths": 7908,
-          "recovered": 410975
+          "deaths": 7921,
+          "recovered": 412639
         }
       },
       "Quebec": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838100,
+      "confirmed": 838107,
       "date": "2021-04-26",
       "deaths": 6353,
-      "recovered": 830085
+      "recovered": 830088
     }
   },
   "Italy": {
@@ -1325,10 +1325,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 202201,
+      "confirmed": 202904,
       "date": "2021-04-26",
-      "deaths": 428,
-      "recovered": 181522
+      "deaths": 437,
+      "recovered": 183100
     }
   },
   "Romania": {
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2799787,
+          "confirmed": 2799954,
           "date": "2021-04-26",
-          "deaths": 48258
+          "deaths": 48261
         }
       },
       "Connecticut": {
@@ -1584,16 +1584,16 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1217565,
+          "confirmed": 1219590,
           "date": "2021-04-26",
-          "deaths": 16001
+          "deaths": 16036
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 195674,
+          "confirmed": 195838,
           "date": "2021-04-26",
-          "deaths": 2477
+          "deaths": 2483
         }
       },
       "Illinois": {
@@ -1656,7 +1656,7 @@
         "live": {
           "confirmed": 1353438,
           "date": "2021-04-26",
-          "deaths": 39268
+          "deaths": 39277
         }
       },
       "North Carolina": {
@@ -1684,14 +1684,14 @@
         "live": {
           "confirmed": 1291630,
           "date": "2021-04-26",
-          "deaths": 19601
+          "deaths": 19604
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 147212,
+          "confirmed": 147313,
           "date": "2021-04-26",
-          "deaths": 841
+          "deaths": 842
         }
       },
       "Washington": {
