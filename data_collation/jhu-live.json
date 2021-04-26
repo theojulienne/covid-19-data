@@ -567,9 +567,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 429661,
+          "confirmed": 429711,
           "date": "2021-04-26",
-          "deaths": 9228,
+          "deaths": 9226,
           "recovered": 377900
         }
       },
