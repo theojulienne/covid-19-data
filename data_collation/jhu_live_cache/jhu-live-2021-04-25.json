@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2845872,
+      "confirmed": 2860884,
       "date": "2021-04-25",
-      "deaths": 61474,
-      "recovered": 2496277
+      "deaths": 61644,
+      "recovered": 2518167
     }
   },
   "Armenia": {
@@ -1229,7 +1229,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 110497,
+      "confirmed": 110612,
       "date": "2021-04-25",
       "deaths": 736,
       "recovered": 17998
@@ -1570,7 +1570,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798772,
+          "confirmed": 2799118,
           "date": "2021-04-25",
           "deaths": 48254
         }
