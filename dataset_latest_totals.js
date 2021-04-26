@@ -1887,19 +1887,19 @@ var covid19_dataset_latest_totals = {
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 683466,
-        "deaths": 8178,
-        "recovered": 631944
+        "confirmed": 685973,
+        "deaths": 8246,
+        "recovered": 638481
       },
       "back_2week": {
-        "confirmed": 662395,
-        "deaths": 7708,
-        "recovered": 588353
+        "confirmed": 665735,
+        "deaths": 7773,
+        "recovered": 596293
       },
       "latest": {
-        "confirmed": 700423,
-        "deaths": 8563,
-        "recovered": 664772
+        "confirmed": 702154,
+        "deaths": 8615,
+        "recovered": 668337
       }
     },
     "JPN": {
@@ -2329,19 +2329,19 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 146733,
-        "deaths": 4419,
-        "recovered": 122121
+        "confirmed": 147094,
+        "deaths": 4443,
+        "recovered": 122810
       },
       "back_2week": {
-        "confirmed": 141157,
-        "deaths": 4182,
-        "recovered": 115433
+        "confirmed": 141844,
+        "deaths": 4228,
+        "recovered": 116780
       },
       "latest": {
-        "confirmed": 150274,
-        "deaths": 4650,
-        "recovered": 128496
+        "confirmed": 150588,
+        "deaths": 4677,
+        "recovered": 129053
       }
     },
     "MLI": {
@@ -2380,19 +2380,19 @@ var covid19_dataset_latest_totals = {
     },
     "MNE": {
       "back_1week": {
-        "confirmed": 95377,
-        "deaths": 1427,
-        "recovered": 90608
+        "confirmed": 95551,
+        "deaths": 1429,
+        "recovered": 90903
       },
       "back_2week": {
-        "confirmed": 94035,
-        "deaths": 1365,
-        "recovered": 88144
+        "confirmed": 94269,
+        "deaths": 1373,
+        "recovered": 88505
       },
       "latest": {
-        "confirmed": 96499,
-        "deaths": 1463,
-        "recovered": 92377
+        "confirmed": 96660,
+        "deaths": 1465,
+        "recovered": 92609
       }
     },
     "MNG": {
