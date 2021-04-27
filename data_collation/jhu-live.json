@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 610545,
+      "confirmed": 612170,
       "date": "2021-04-27",
-      "deaths": 10098,
-      "recovered": 575217
+      "deaths": 10126,
+      "recovered": 577977
     }
   },
   "Azerbaijan": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 323036,
+      "confirmed": 324833,
       "date": "2021-04-27",
-      "deaths": 6905,
-      "recovered": 302699
+      "deaths": 6957,
+      "recovered": 304546
     }
   },
   "Cuba": {
@@ -1077,10 +1077,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 395718,
+      "confirmed": 398451,
       "date": "2021-04-27",
-      "deaths": 1449,
-      "recovered": 369556
+      "deaths": 1462,
+      "recovered": 371575
     }
   },
   "Mexico": {
