@@ -146,7 +146,7 @@
           "confirmed": 104518,
           "date": "2021-04-27",
           "deaths": 1517,
-          "recovered": 76149
+          "recovered": 76652
         }
       },
       "Amazonas": {
@@ -202,7 +202,7 @@
           "confirmed": 262246,
           "date": "2021-04-27",
           "deaths": 7129,
-          "recovered": 234573
+          "recovered": 236086
         }
       },
       "Mato Grosso": {
@@ -218,7 +218,7 @@
           "confirmed": 244200,
           "date": "2021-04-27",
           "deaths": 5542,
-          "recovered": 224726
+          "recovered": 228715
         }
       },
       "Minas Gerais": {
@@ -250,7 +250,7 @@
           "confirmed": 931343,
           "date": "2021-04-27",
           "deaths": 21650,
-          "recovered": 665566
+          "recovered": 670103
         }
       },
       "Pernambuco": {
@@ -258,7 +258,7 @@
           "confirmed": 396841,
           "date": "2021-04-27",
           "deaths": 13687,
-          "recovered": 330763
+          "recovered": 335815
         }
       },
       "Piaui": {
@@ -290,7 +290,7 @@
           "confirmed": 724858,
           "date": "2021-04-27",
           "deaths": 42927,
-          "recovered": 675188
+          "recovered": 678349
         }
       },
       "Rondonia": {
@@ -298,7 +298,7 @@
           "confirmed": 209688,
           "date": "2021-04-27",
           "deaths": 5076,
-          "recovered": 190718
+          "recovered": 195322
         }
       },
       "Santa Catarina": {
@@ -330,7 +330,7 @@
           "confirmed": 156890,
           "date": "2021-04-27",
           "deaths": 2473,
-          "recovered": 137045
+          "recovered": 138446
         }
       }
     }
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2801109,
+          "confirmed": 2801237,
           "date": "2021-04-27",
-          "deaths": 48279
+          "deaths": 48281
         }
       },
       "Connecticut": {
@@ -1612,7 +1612,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 131332,
+          "confirmed": 131487,
           "date": "2021-04-27",
           "deaths": 3713
         }
@@ -1682,9 +1682,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1294244,
+          "confirmed": 1294419,
           "date": "2021-04-27",
-          "deaths": 19606
+          "deaths": 19641
         }
       },
       "Utah": {
