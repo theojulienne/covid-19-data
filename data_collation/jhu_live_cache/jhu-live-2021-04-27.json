@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 458299,
+          "confirmed": 458423,
           "date": "2021-04-27",
-          "deaths": 7933,
-          "recovered": 415037
+          "deaths": 7934,
+          "recovered": 415183
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5460793,
+      "confirmed": 5490025,
       "date": "2021-04-27",
-      "deaths": 102567,
-      "recovered": 299611
+      "deaths": 102907,
+      "recovered": 301625
     }
   },
   "Georgia": {
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 165108,
+          "confirmed": 166048,
           "date": "2021-04-27",
-          "deaths": 3193,
-          "recovered": 152100
+          "deaths": 3201,
+          "recovered": 152300
         }
       },
       "Brandenburg": {
@@ -1501,7 +1501,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 102376,
+      "confirmed": 103487,
       "date": "2021-04-27",
       "deaths": 647,
       "recovered": 94856
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 653957,
       "date": "2021-04-27",
-      "deaths": 10590,
+      "deaths": 10591,
       "recovered": 317600
     }
   },
@@ -1563,9 +1563,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 649874,
+          "confirmed": 650392,
           "date": "2021-04-27",
-          "deaths": 12227
+          "deaths": 12231
         }
       },
       "California": {
@@ -1640,16 +1640,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 242524,
+          "confirmed": 242819,
           "date": "2021-04-27",
-          "deaths": 4271
+          "deaths": 4281
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 100215,
+          "confirmed": 100407,
           "date": "2021-04-27",
-          "deaths": 2812
+          "deaths": 2819
         }
       },
       "New York": {
@@ -1675,9 +1675,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 241609,
+          "confirmed": 242217,
           "date": "2021-04-27",
-          "deaths": 5328
+          "deaths": 5338
         }
       },
       "Texas": {

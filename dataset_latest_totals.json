@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5249622,
-        "deaths": 100075,
-        "recovered": 288664
+        "confirmed": 5256318,
+        "deaths": 100522,
+        "recovered": 289796
       },
       "back_2week": {
-        "confirmed": 5021865,
-        "deaths": 98118,
-        "recovered": 278477
+        "confirmed": 5030401,
+        "deaths": 98503,
+        "recovered": 279624
       },
       "latest": {
-        "confirmed": 5456417,
-        "deaths": 102190,
-        "recovered": 298410
+        "confirmed": 5460793,
+        "deaths": 102567,
+        "recovered": 299611
       },
       "states": {
         "French Guiana": {
@@ -2125,17 +2125,17 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 96796,
+        "confirmed": 97105,
         "deaths": 618,
         "recovered": 93374
       },
       "back_2week": {
-        "confirmed": 95131,
+        "confirmed": 95394,
         "deaths": 598,
         "recovered": 91775
       },
       "latest": {
-        "confirmed": 101379,
+        "confirmed": 102376,
         "deaths": 642,
         "recovered": 94577
       }
@@ -3660,7 +3660,6 @@
         "NY": {
           "confirmed": 1109400,
           "deaths": 19320,
-          "hospitalized": 123708,
           "tested": 40885139
         },
         "OH": {
