@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 120378,
+      "confirmed": 120836,
       "date": "2021-04-27",
-      "deaths": 1145,
-      "recovered": 107906
+      "deaths": 1148,
+      "recovered": 108968
     }
   },
   "Ethiopia": {
@@ -1301,18 +1301,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1006428,
+      "confirmed": 1013618,
       "date": "2021-04-27",
-      "deaths": 16853,
-      "recovered": 914952
+      "deaths": 16916,
+      "recovered": 925027
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2762323,
+      "confirmed": 2768034,
       "date": "2021-04-27",
-      "deaths": 65437,
-      "recovered": 2455005
+      "deaths": 65897,
+      "recovered": 2467036
     }
   },
   "Portugal": {
@@ -1343,34 +1343,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1082996,
+          "confirmed": 1085094,
           "date": "2021-04-27",
-          "deaths": 18090,
-          "recovered": 984346
+          "deaths": 18148,
+          "recovered": 985769
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 247394,
+          "confirmed": 247986,
           "date": "2021-04-27",
-          "deaths": 5748,
-          "recovered": 203720
+          "deaths": 5762,
+          "recovered": 204173
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 113273,
+          "confirmed": 113443,
           "date": "2021-04-27",
-          "deaths": 3130,
-          "recovered": 108517
+          "deaths": 3142,
+          "recovered": 108709
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 412864,
+          "confirmed": 413576,
           "date": "2021-04-27",
-          "deaths": 13082,
-          "recovered": 370626
+          "deaths": 13120,
+          "recovered": 371598
         }
       }
     }
@@ -1393,9 +1393,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 380010,
+      "confirmed": 380498,
       "date": "2021-04-27",
-      "deaths": 11531,
+      "deaths": 11572,
       "recovered": 255300
     }
   },
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 651822,
       "date": "2021-04-27",
-      "deaths": 10583,
+      "deaths": 10585,
       "recovered": 317600
     }
   },
