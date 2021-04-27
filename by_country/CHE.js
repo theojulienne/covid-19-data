@@ -1391,7 +1391,7 @@ var covid19_dataset_country_che = {
       10594,
       10570,
       10583,
-      10589
+      10590
     ],
     "recovered": [
       0,
