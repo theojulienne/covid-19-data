@@ -9,18 +9,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 120922,
+      "confirmed": 121112,
       "date": "2021-04-26",
-      "deaths": 3207,
-      "recovered": 84299
+      "deaths": 3217,
+      "recovered": 84440
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 2860884,
+      "confirmed": 2879677,
       "date": "2021-04-26",
-      "deaths": 61644,
-      "recovered": 2518167
+      "deaths": 62087,
+      "recovered": 2542004
     }
   },
   "Armenia": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 252279,
+      "confirmed": 253120,
       "date": "2021-04-26",
-      "deaths": 3551,
-      "recovered": 192747
+      "deaths": 3570,
+      "recovered": 193497
     }
   },
   "France": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 266949,
+      "confirmed": 268235,
       "date": "2021-04-26",
-      "deaths": 1516,
-      "recovered": 250074
+      "deaths": 1527,
+      "recovered": 251511
     }
   },
   "Latvia": {
@@ -1213,10 +1213,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 164719,
+      "confirmed": 164756,
       "date": "2021-04-26",
       "deaths": 2062,
-      "recovered": 154926
+      "recovered": 154963
     }
   },
   "North Macedonia": {
@@ -1764,10 +1764,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 510738,
+      "confirmed": 512497,
       "date": "2021-04-26",
-      "deaths": 1571,
-      "recovered": 492109
+      "deaths": 1573,
+      "recovered": 493689
     }
   },
   "United Kingdom": {
