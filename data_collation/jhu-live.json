@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 213469,
+      "confirmed": 214064,
       "date": "2021-04-27",
-      "deaths": 4040,
-      "recovered": 194900
+      "deaths": 4058,
+      "recovered": 195701
     }
   },
   "Austria": {
@@ -549,10 +549,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 304272,
+      "confirmed": 305850,
       "date": "2021-04-27",
-      "deaths": 4043,
-      "recovered": 287029
+      "deaths": 4060,
+      "recovered": 287938
     }
   },
   "Germany": {
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 771454,
+      "confirmed": 772707,
       "date": "2021-04-27",
-      "deaths": 26801,
-      "recovered": 486435
+      "deaths": 26984,
+      "recovered": 491620
     }
   },
   "India": {
@@ -1291,9 +1291,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 813841,
+          "confirmed": 816973,
           "date": "2021-04-27",
-          "deaths": 26248,
+          "deaths": 26374,
           "recovered": 0
         }
       }
