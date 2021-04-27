@@ -1145,10 +1145,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 303561,
+      "confirmed": 307925,
       "date": "2021-04-27",
-      "deaths": 3176,
-      "recovered": 277951
+      "deaths": 3194,
+      "recovered": 278506
     }
   },
   "Netherlands": {
@@ -1511,15 +1511,15 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 136944,
+          "confirmed": 138604,
           "date": "2021-04-27",
-          "deaths": 1669,
+          "deaths": 1675,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 222719,
+          "confirmed": 226471,
           "date": "2021-04-27",
           "deaths": 4160,
           "recovered": 0
@@ -1527,9 +1527,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 165866,
+          "confirmed": 167963,
           "date": "2021-04-27",
-          "deaths": 2283,
+          "deaths": 2284,
           "recovered": 0
         }
       }
@@ -1537,9 +1537,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 651822,
+      "confirmed": 653957,
       "date": "2021-04-27",
-      "deaths": 10585,
+      "deaths": 10587,
       "recovered": 317600
     }
   },
@@ -1764,10 +1764,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 512497,
+      "confirmed": 514591,
       "date": "2021-04-27",
-      "deaths": 1573,
-      "recovered": 493689
+      "deaths": 1578,
+      "recovered": 495589
     }
   },
   "United Kingdom": {
