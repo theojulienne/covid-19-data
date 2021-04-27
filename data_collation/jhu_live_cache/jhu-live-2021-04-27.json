@@ -382,7 +382,7 @@
           "confirmed": 345697,
           "date": "2021-04-27",
           "deaths": 10886,
-          "recovered": 323086
+          "recovered": 324441
         }
       }
     }
@@ -411,49 +411,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 456195,
+          "confirmed": 458194,
           "date": "2021-04-27",
-          "deaths": 9195,
+          "deaths": 9298,
           "recovered": 423036
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 223686,
+          "confirmed": 226188,
           "date": "2021-04-27",
-          "deaths": 6363,
+          "deaths": 6456,
           "recovered": 205250
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 766778,
+          "confirmed": 770603,
           "date": "2021-04-27",
-          "deaths": 15342,
+          "deaths": 15406,
           "recovered": 709215
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 123087,
+          "confirmed": 123706,
           "date": "2021-04-27",
-          "deaths": 3268,
+          "deaths": 3290,
           "recovered": 116162
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 101280,
+          "confirmed": 101771,
           "date": "2021-04-27",
-          "deaths": 3618,
+          "deaths": 3628,
           "recovered": 95236
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 232486,
+          "confirmed": 233192,
           "date": "2021-04-27",
-          "deaths": 7120,
+          "deaths": 7158,
           "recovered": 218820
         }
       }
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 238760,
+      "confirmed": 241240,
       "date": "2021-04-27",
-      "deaths": 3143,
-      "recovered": 199982
+      "deaths": 3168,
+      "recovered": 201264
     }
   },
   "Croatia": {
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 222523,
+      "confirmed": 223514,
       "date": "2021-04-27",
-      "deaths": 13049,
-      "recovered": 167024
+      "deaths": 13107,
+      "recovered": 167900
     }
   },
   "Estonia": {
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2799954,
+          "confirmed": 2800461,
           "date": "2021-04-27",
-          "deaths": 48261
+          "deaths": 48265
         }
       },
       "Connecticut": {
