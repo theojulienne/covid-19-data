@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 195971,
+      "confirmed": 196732,
       "date": "2021-04-27",
-      "deaths": 8350,
-      "recovered": 155647
+      "deaths": 8418,
+      "recovered": 157095
     }
   },
   "Brazil": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 581623,
+          "confirmed": 581729,
           "date": "2021-04-27",
           "deaths": 14029,
           "recovered": 517800
@@ -615,17 +615,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 136777,
+          "confirmed": 137542,
           "date": "2021-04-27",
-          "deaths": 3528,
+          "deaths": 3539,
           "recovered": 119800
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 256639,
+          "confirmed": 258132,
           "date": "2021-04-27",
-          "deaths": 8990,
+          "deaths": 9007,
           "recovered": 227800
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1037858,
+      "confirmed": 1045010,
       "date": "2021-04-27",
-      "deaths": 15303,
-      "recovered": 913211
+      "deaths": 15348,
+      "recovered": 920523
     }
   },
   "Ireland": {
@@ -1377,10 +1377,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 413174,
+      "confirmed": 414219,
       "date": "2021-04-27",
-      "deaths": 6913,
-      "recovered": 396604
+      "deaths": 6922,
+      "recovered": 397587
     }
   },
   "Serbia": {
@@ -1504,7 +1504,7 @@
       "confirmed": 102376,
       "date": "2021-04-27",
       "deaths": 647,
-      "recovered": 94577
+      "recovered": 94856
     }
   },
   "Sweden": {
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 653957,
       "date": "2021-04-27",
-      "deaths": 10588,
+      "deaths": 10589,
       "recovered": 317600
     }
   },
@@ -1824,10 +1824,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 292052,
+      "confirmed": 293466,
       "date": "2021-04-27",
-      "deaths": 3184,
-      "recovered": 264660
+      "deaths": 3201,
+      "recovered": 267346
     }
   }
 }
