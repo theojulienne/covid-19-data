@@ -138,7 +138,7 @@
           "confirmed": 170902,
           "date": "2021-04-27",
           "deaths": 4138,
-          "recovered": 163124
+          "recovered": 163573
         }
       },
       "Amapa": {
@@ -210,7 +210,7 @@
           "confirmed": 352607,
           "date": "2021-04-27",
           "deaths": 9417,
-          "recovered": 334851
+          "recovered": 336458
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 462976,
           "date": "2021-04-27",
           "deaths": 12572,
-          "recovered": 433891
+          "recovered": 435853
         }
       },
       "Paraiba": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 399259,
+      "confirmed": 401109,
       "date": "2021-04-27",
-      "deaths": 16101,
-      "recovered": 329043
+      "deaths": 16182,
+      "recovered": 332418
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 183301,
+          "confirmed": 184840,
           "date": "2021-04-27",
           "deaths": 2074,
-          "recovered": 160617
+          "recovered": 162052
         }
       },
       "British Columbia": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 241240,
+      "confirmed": 243167,
       "date": "2021-04-27",
-      "deaths": 3168,
-      "recovered": 201264
+      "deaths": 3186,
+      "recovered": 201784
     }
   },
   "Croatia": {
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 268235,
+      "confirmed": 269681,
       "date": "2021-04-27",
-      "deaths": 1527,
-      "recovered": 251511
+      "deaths": 1535,
+      "recovered": 252888
     }
   },
   "Latvia": {
@@ -1409,10 +1409,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1576320,
+      "confirmed": 1577200,
       "date": "2021-04-27",
-      "deaths": 54186,
-      "recovered": 1501880
+      "deaths": 54237,
+      "recovered": 1502986
     }
   },
   "Spain": {
@@ -1682,7 +1682,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1294419,
+          "confirmed": 1295096,
           "date": "2021-04-27",
           "deaths": 19641
         }
