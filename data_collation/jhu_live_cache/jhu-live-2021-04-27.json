@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 456753,
+          "confirmed": 457556,
           "date": "2021-04-27",
-          "deaths": 7921,
-          "recovered": 412639
+          "deaths": 7928,
+          "recovered": 413821
         }
       },
       "Quebec": {
@@ -391,18 +391,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 113301,
+          "confirmed": 113642,
           "date": "2021-04-27",
           "deaths": 1854,
-          "recovered": 107493
+          "recovered": 108091
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 488817,
+          "confirmed": 490170,
           "date": "2021-04-27",
-          "deaths": 13961,
-          "recovered": 458686
+          "deaths": 14003,
+          "recovered": 461114
         }
       }
     }
@@ -989,7 +989,7 @@
         "live": {
           "confirmed": 136494,
           "date": "2021-04-27",
-          "deaths": 1860,
+          "deaths": 1863,
           "recovered": 127860
         }
       }
@@ -1317,10 +1317,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 834638,
+      "confirmed": 834991,
       "date": "2021-04-27",
-      "deaths": 16965,
-      "recovered": 793011
+      "deaths": 16970,
+      "recovered": 794205
     }
   },
   "Qatar": {
@@ -1633,9 +1633,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 96824,
+          "confirmed": 96995,
           "date": "2021-04-27",
-          "deaths": 2153
+          "deaths": 2168
         }
       },
       "Nevada": {
@@ -1675,9 +1675,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 241349,
+          "confirmed": 241609,
           "date": "2021-04-27",
-          "deaths": 5327
+          "deaths": 5328
         }
       },
       "Texas": {
