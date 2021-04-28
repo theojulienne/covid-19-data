@@ -927,7 +927,8 @@ var covid19_dataset_country_vct = {
       1827,
       1830,
       1830,
-      1839
+      1839,
+      1844
     ],
     "deaths": [
       0,
@@ -1390,7 +1391,8 @@ var covid19_dataset_country_vct = {
       10,
       10,
       10,
-      10
+      10,
+      11
     ],
     "recovered": [
       0,
@@ -1851,6 +1853,7 @@ var covid19_dataset_country_vct = {
       1703,
       1703,
       1703,
+      1711,
       1711,
       1711,
       1711
