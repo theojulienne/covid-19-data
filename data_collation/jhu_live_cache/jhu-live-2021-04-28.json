@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 207320,
+      "confirmed": 208356,
       "date": "2021-04-28",
-      "deaths": 5193,
-      "recovered": 77814
+      "deaths": 5212,
+      "recovered": 78127
     }
   },
   "Hungary": {
@@ -1714,50 +1714,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 118620,
+          "confirmed": 119204,
           "date": "2021-04-28",
-          "deaths": 3224,
-          "recovered": 94113
+          "deaths": 3263,
+          "recovered": 95503
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 132949,
+          "confirmed": 133767,
           "date": "2021-04-28",
-          "deaths": 2639,
-          "recovered": 104458
+          "deaths": 2673,
+          "recovered": 105340
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 192620,
+          "confirmed": 193690,
           "date": "2021-04-28",
-          "deaths": 4497,
-          "recovered": 120873
+          "deaths": 4537,
+          "recovered": 122047
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 117413,
+          "confirmed": 117797,
           "date": "2021-04-28",
-          "deaths": 2280,
-          "recovered": 95078
+          "deaths": 2316,
+          "recovered": 96821
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 127801,
+          "confirmed": 128331,
           "date": "2021-04-28",
-          "deaths": 3199,
-          "recovered": 97699
+          "deaths": 3231,
+          "recovered": 99234
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 132089,
+          "confirmed": 132611,
           "date": "2021-04-28",
-          "deaths": 2449,
-          "recovered": 95690
+          "deaths": 2484,
+          "recovered": 98178
         }
       }
     }
