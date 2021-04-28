@@ -218,7 +218,7 @@
           "confirmed": 245238,
           "date": "2021-04-28",
           "deaths": 5581,
-          "recovered": 228715
+          "recovered": 229595
         }
       },
       "Minas Gerais": {
@@ -330,7 +330,7 @@
           "confirmed": 157616,
           "date": "2021-04-28",
           "deaths": 2488,
-          "recovered": 138446
+          "recovered": 139734
         }
       }
     }
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 462370,
+          "confirmed": 463754,
           "date": "2021-04-28",
-          "deaths": 7965,
-          "recovered": 419358
+          "deaths": 7982,
+          "recovered": 420917
         }
       },
       "Quebec": {
@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838317,
+      "confirmed": 838323,
       "date": "2021-04-28",
       "deaths": 6361,
-      "recovered": 830371
+      "recovered": 830374
     }
   },
   "Italy": {
@@ -1563,23 +1563,23 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 650392,
+          "confirmed": 650853,
           "date": "2021-04-28",
-          "deaths": 12231
+          "deaths": 12236
         }
       },
       "California": {
         "live": {
-          "confirmed": 2802020,
+          "confirmed": 2802092,
           "date": "2021-04-28",
-          "deaths": 48317
+          "deaths": 48321
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 97724,
+          "confirmed": 97853,
           "date": "2021-04-28",
-          "deaths": 2157
+          "deaths": 2159
         }
       },
       "Florida": {
@@ -1591,9 +1591,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 196083,
+          "confirmed": 196330,
           "date": "2021-04-28",
-          "deaths": 2484
+          "deaths": 2495
         }
       },
       "Illinois": {
@@ -1689,7 +1689,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 147430,
+          "confirmed": 147650,
           "date": "2021-04-28",
           "deaths": 843
         }
@@ -1703,9 +1703,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114324,
+          "confirmed": 114484,
           "date": "2021-04-28",
-          "deaths": 1339
+          "deaths": 1342
         }
       }
     }
