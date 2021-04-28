@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 196732,
+      "confirmed": 197378,
       "date": "2021-04-28",
-      "deaths": 8418,
-      "recovered": 157095
+      "deaths": 8464,
+      "recovered": 158160
     }
   },
   "Brazil": {
@@ -154,7 +154,7 @@
           "confirmed": 368854,
           "date": "2021-04-28",
           "deaths": 12562,
-          "recovered": 314201
+          "recovered": 316045
         }
       },
       "Bahia": {
@@ -1385,9 +1385,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 683799,
+      "confirmed": 685937,
       "date": "2021-04-28",
-      "deaths": 6286,
+      "deaths": 6312,
       "recovered": 0
     }
   },
@@ -1504,7 +1504,7 @@
       "confirmed": 103487,
       "date": "2021-04-28",
       "deaths": 655,
-      "recovered": 94856
+      "recovered": 95083
     }
   },
   "Sweden": {
@@ -1537,7 +1537,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 653957,
+      "confirmed": 656077,
       "date": "2021-04-28",
       "deaths": 10607,
       "recovered": 317600
@@ -1824,10 +1824,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 293466,
+      "confirmed": 294550,
       "date": "2021-04-28",
-      "deaths": 3201,
-      "recovered": 267346
+      "deaths": 3206,
+      "recovered": 268054
     }
   }
 }
