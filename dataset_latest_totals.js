@@ -2125,17 +2125,17 @@ var covid19_dataset_latest_totals = {
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 97105,
+        "confirmed": 97472,
         "deaths": 620,
         "recovered": 93547
       },
       "back_2week": {
-        "confirmed": 95394,
+        "confirmed": 95620,
         "deaths": 602,
         "recovered": 91926
       },
       "latest": {
-        "confirmed": 102376,
+        "confirmed": 103487,
         "deaths": 647,
         "recovered": 94856
       }

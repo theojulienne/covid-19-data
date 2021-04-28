@@ -391,18 +391,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 113642,
+          "confirmed": 113921,
           "date": "2021-04-28",
           "deaths": 1854,
-          "recovered": 108091
+          "recovered": 108697
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 490170,
+          "confirmed": 492120,
           "date": "2021-04-28",
-          "deaths": 14003,
-          "recovered": 461114
+          "deaths": 14054,
+          "recovered": 463691
         }
       }
     }
@@ -1501,9 +1501,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 103487,
+      "confirmed": 104475,
       "date": "2021-04-28",
-      "deaths": 655,
+      "deaths": 661,
       "recovered": 95083
     }
   },
@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 656077,
       "date": "2021-04-28",
-      "deaths": 10608,
+      "deaths": 10615,
       "recovered": 317600
     }
   },
@@ -1633,9 +1633,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 96995,
+          "confirmed": 97137,
           "date": "2021-04-28",
-          "deaths": 2168
+          "deaths": 2178
         }
       },
       "Nevada": {
@@ -1774,31 +1774,31 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3852904,
+          "confirmed": 3854733,
           "date": "2021-04-28",
-          "deaths": 112107,
+          "deaths": 112134,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 119894,
+          "confirmed": 119992,
           "date": "2021-04-28",
-          "deaths": 2143,
+          "deaths": 2144,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 225479,
+          "confirmed": 225683,
           "date": "2021-04-28",
-          "deaths": 7653,
+          "deaths": 7654,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 211354,
+          "confirmed": 211389,
           "date": "2021-04-28",
           "deaths": 5548,
           "recovered": 0
