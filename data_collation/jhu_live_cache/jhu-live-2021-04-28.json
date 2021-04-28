@@ -266,7 +266,7 @@
           "confirmed": 236596,
           "date": "2021-04-28",
           "deaths": 5020,
-          "recovered": 230367
+          "recovered": 231572
         }
       },
       "Rio Grande do Norte": {
@@ -382,7 +382,7 @@
           "confirmed": 346596,
           "date": "2021-04-28",
           "deaths": 10898,
-          "recovered": 324441
+          "recovered": 325691
         }
       }
     }
@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 636344,
+          "confirmed": 637401,
           "date": "2021-04-28",
-          "deaths": 32339,
+          "deaths": 32392,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 130287,
+          "confirmed": 130399,
           "date": "2021-04-28",
-          "deaths": 10540,
+          "deaths": 10558,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 242981,
+          "confirmed": 243315,
           "date": "2021-04-28",
-          "deaths": 33727,
+          "deaths": 33785,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 122118,
+          "confirmed": 122234,
           "date": "2021-04-28",
-          "deaths": 9310,
+          "deaths": 9326,
           "recovered": 0
         }
       }
