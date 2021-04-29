@@ -250,7 +250,7 @@
           "confirmed": 938546,
           "date": "2021-04-29",
           "deaths": 22013,
-          "recovered": 672688
+          "recovered": 675526
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 733764,
           "date": "2021-04-29",
           "deaths": 43618,
-          "recovered": 681858
+          "recovered": 685269
         }
       },
       "Rondonia": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 377662,
+      "confirmed": 380689,
       "date": "2021-04-29",
-      "deaths": 18470,
+      "deaths": 18552,
       "recovered": 318598
     }
   },
@@ -1037,10 +1037,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 271145,
+      "confirmed": 272562,
       "date": "2021-04-29",
-      "deaths": 1546,
-      "recovered": 254423
+      "deaths": 1554,
+      "recovered": 255817
     }
   },
   "Latvia": {
@@ -1409,10 +1409,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1578450,
+      "confirmed": 1579536,
       "date": "2021-04-29",
-      "deaths": 54285,
-      "recovered": 1503611
+      "deaths": 54331,
+      "recovered": 1504426
     }
   },
   "Spain": {
@@ -1545,10 +1545,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 305313,
+      "confirmed": 307215,
       "date": "2021-04-29",
-      "deaths": 10563,
-      "recovered": 255870
+      "deaths": 10641,
+      "recovered": 258190
     }
   },
   "Turkey": {
@@ -1612,9 +1612,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 131763,
+          "confirmed": 132011,
           "date": "2021-04-29",
-          "deaths": 3715
+          "deaths": 3718
         }
       },
       "Michigan": {
