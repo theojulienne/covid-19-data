@@ -1539,7 +1539,7 @@
     "live": {
       "confirmed": 658143,
       "date": "2021-04-29",
-      "deaths": 10623,
+      "deaths": 10625,
       "recovered": 317600
     }
   },
@@ -1774,15 +1774,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3854733,
+          "confirmed": 3856836,
           "date": "2021-04-29",
-          "deaths": 112134,
+          "deaths": 112149,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 119992,
+          "confirmed": 120087,
           "date": "2021-04-29",
           "deaths": 2144,
           "recovered": 0
@@ -1790,17 +1790,17 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 225683,
+          "confirmed": 225861,
           "date": "2021-04-29",
-          "deaths": 7654,
+          "deaths": 7659,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 211389,
+          "confirmed": 211458,
           "date": "2021-04-29",
-          "deaths": 5548,
+          "deaths": 5550,
           "recovered": 0
         }
       }
