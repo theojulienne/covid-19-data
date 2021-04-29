@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 300258,
+      "confirmed": 301831,
       "date": "2021-04-29",
-      "deaths": 12885,
-      "recovered": 247961
+      "deaths": 12920,
+      "recovered": 249103
     }
   },
   "Bosnia and Herzegovina": {
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 369592,
+      "confirmed": 369704,
       "date": "2021-04-29",
-      "deaths": 3326,
-      "recovered": 322666
+      "deaths": 3331,
+      "recovered": 322749
     }
   },
   "Kenya": {
@@ -1247,36 +1247,36 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 115596,
+          "confirmed": 116523,
           "date": "2021-04-29",
-          "deaths": 3201,
-          "recovered": 100051
+          "deaths": 3238,
+          "recovered": 101342
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 296144,
+          "confirmed": 298818,
           "date": "2021-04-29",
-          "deaths": 8224,
-          "recovered": 240814
+          "deaths": 8327,
+          "recovered": 242068
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 280356,
+          "confirmed": 281385,
           "date": "2021-04-29",
-          "deaths": 4624,
-          "recovered": 263265
+          "deaths": 4629,
+          "recovered": 263773
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 363533,
+      "confirmed": 363895,
       "date": "2021-04-29",
-      "deaths": 6216,
-      "recovered": 353503
+      "deaths": 6222,
+      "recovered": 353774
     }
   },
   "Paraguay": {
@@ -1816,10 +1816,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 193721,
+      "confirmed": 194959,
       "date": "2021-04-29",
-      "deaths": 2082,
-      "recovered": 176058
+      "deaths": 2099,
+      "recovered": 177082
     }
   },
   "West Bank and Gaza": {
