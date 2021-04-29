@@ -1314,19 +1314,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5300321,
-        "deaths": 100895,
-        "recovered": 291009
+        "confirmed": 5334144,
+        "deaths": 101221,
+        "recovered": 292859
       },
       "back_2week": {
-        "confirmed": 5068534,
-        "deaths": 98836,
-        "recovered": 280958
+        "confirmed": 5111882,
+        "deaths": 99133,
+        "recovered": 283059
       },
       "latest": {
-        "confirmed": 5490025,
-        "deaths": 102907,
-        "recovered": 300619
+        "confirmed": 5521227,
+        "deaths": 103219,
+        "recovered": 302323
       },
       "states": {
         "French Guiana": {
@@ -1632,19 +1632,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 214700,
-        "deaths": 7279,
-        "recovered": 192519
+        "confirmed": 216329,
+        "deaths": 7309,
+        "recovered": 193313
       },
       "back_2week": {
-        "confirmed": 205322,
-        "deaths": 7057,
-        "recovered": 187052
+        "confirmed": 207127,
+        "deaths": 7089,
+        "recovered": 187894
       },
       "latest": {
-        "confirmed": 223025,
-        "deaths": 7453,
-        "recovered": 199005
+        "confirmed": 224621,
+        "deaths": 7478,
+        "recovered": 200241
       }
     },
     "GUY": {
@@ -2810,19 +2810,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 198361,
-        "deaths": 391,
-        "recovered": 175431
+        "confirmed": 199180,
+        "deaths": 400,
+        "recovered": 176188
       },
       "back_2week": {
-        "confirmed": 191979,
-        "deaths": 340,
-        "recovered": 170787
+        "confirmed": 192963,
+        "deaths": 348,
+        "recovered": 171388
       },
       "latest": {
-        "confirmed": 203599,
-        "deaths": 441,
-        "recovered": 184712
+        "confirmed": 204289,
+        "deaths": 445,
+        "recovered": 186318
       }
     },
     "RKS": {
