@@ -567,15 +567,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 585368,
+          "confirmed": 589479,
           "date": "2021-04-29",
-          "deaths": 14057,
+          "deaths": 14101,
           "recovered": 521600
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 167101,
+          "confirmed": 167111,
           "date": "2021-04-29",
           "deaths": 3210,
           "recovered": 153200
@@ -583,39 +583,39 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 100710,
+          "confirmed": 101415,
           "date": "2021-04-29",
-          "deaths": 3534,
+          "deaths": 3552,
           "recovered": 90130
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 258487,
+          "confirmed": 260590,
           "date": "2021-04-29",
-          "deaths": 6815,
+          "deaths": 6834,
           "recovered": 227700
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 233766,
+          "confirmed": 235608,
           "date": "2021-04-29",
-          "deaths": 5260,
+          "deaths": 5281,
           "recovered": 212100
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 724667,
+          "confirmed": 730086,
           "date": "2021-04-29",
-          "deaths": 15375,
+          "deaths": 15435,
           "recovered": 639800
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 138715,
+          "confirmed": 138745,
           "date": "2021-04-29",
           "deaths": 3544,
           "recovered": 120600
@@ -623,17 +623,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 260381,
+          "confirmed": 260409,
           "date": "2021-04-29",
-          "deaths": 9037,
+          "deaths": 9041,
           "recovered": 232100
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 114282,
+          "confirmed": 115170,
           "date": "2021-04-29",
-          "deaths": 3776,
+          "deaths": 3790,
           "recovered": 101200
         }
       }
@@ -1005,10 +1005,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 366709,
+      "confirmed": 369592,
       "date": "2021-04-29",
       "deaths": 3326,
-      "recovered": 319816
+      "recovered": 322666
     }
   },
   "Kenya": {
