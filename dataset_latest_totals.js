@@ -1671,14 +1671,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 76446
       },
       "back_2week": {
-        "confirmed": 196704,
-        "deaths": 4873,
-        "recovered": 76081
+        "confirmed": 198214,
+        "deaths": 4905,
+        "recovered": 76130
       },
       "latest": {
-        "confirmed": 207320,
-        "deaths": 5193,
-        "recovered": 77814
+        "confirmed": 208356,
+        "deaths": 5212,
+        "recovered": 78127
       }
     },
     "HRV": {
