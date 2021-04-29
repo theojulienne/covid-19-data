@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 2905172,
+      "confirmed": 2928890,
       "date": "2021-04-28",
-      "deaths": 62599,
-      "recovered": 2563223
+      "deaths": 62947,
+      "recovered": 2582164
     }
   },
   "Armenia": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 243167,
+      "confirmed": 245601,
       "date": "2021-04-28",
-      "deaths": 3186,
-      "recovered": 201784
+      "deaths": 3202,
+      "recovered": 202215
     }
   },
   "Croatia": {
@@ -1213,10 +1213,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 164912,
+      "confirmed": 164993,
       "date": "2021-04-28",
       "deaths": 2063,
-      "recovered": 155012
+      "recovered": 155021
     }
   },
   "North Macedonia": {
@@ -1229,7 +1229,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 111915,
+      "confirmed": 112156,
       "date": "2021-04-28",
       "deaths": 753,
       "recovered": 17998
@@ -1570,7 +1570,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2802092,
+          "confirmed": 2802150,
           "date": "2021-04-28",
           "deaths": 48321
         }
@@ -1696,9 +1696,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 100477,
+          "confirmed": 100953,
           "date": "2021-04-28",
-          "deaths": 1507
+          "deaths": 1512
         }
       },
       "Wisconsin": {
@@ -1808,10 +1808,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 190096,
+      "confirmed": 193027,
       "date": "2021-04-28",
-      "deaths": 2452,
-      "recovered": 160632
+      "deaths": 2497,
+      "recovered": 162407
     }
   },
   "Venezuela": {
