@@ -194,7 +194,7 @@
           "confirmed": 546895,
           "date": "2021-04-29",
           "deaths": 14832,
-          "recovered": 520871
+          "recovered": 522213
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 356547,
           "date": "2021-04-29",
           "deaths": 9536,
-          "recovered": 336458
+          "recovered": 338245
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 466894,
           "date": "2021-04-29",
           "deaths": 12794,
-          "recovered": 435853
+          "recovered": 438008
         }
       },
       "Paraiba": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 249785,
+      "confirmed": 250554,
       "date": "2021-04-29",
-      "deaths": 2481,
-      "recovered": 237753
+      "deaths": 2483,
+      "recovered": 237757
     }
   },
   "Dominican Republic": {
@@ -527,7 +527,7 @@
     "live": {
       "confirmed": 121657,
       "date": "2021-04-29",
-      "deaths": 1148,
+      "deaths": 1158,
       "recovered": 110599
     }
   },
@@ -1145,33 +1145,33 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 312699,
+      "confirmed": 317530,
       "date": "2021-04-29",
-      "deaths": 3211,
-      "recovered": 279279
+      "deaths": 3246,
+      "recovered": 280167
     }
   },
   "Netherlands": {
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 164846,
+          "confirmed": 165595,
           "date": "2021-04-29",
-          "deaths": 1963,
+          "deaths": 1965,
           "recovered": 0
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 99659,
+          "confirmed": 100339,
           "date": "2021-04-29",
-          "deaths": 1576,
+          "deaths": 1580,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 236847,
+          "confirmed": 238213,
           "date": "2021-04-29",
           "deaths": 3068,
           "recovered": 0
@@ -1179,33 +1179,33 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 250369,
+          "confirmed": 251268,
           "date": "2021-04-29",
-          "deaths": 2502,
+          "deaths": 2507,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 96297,
+          "confirmed": 96782,
           "date": "2021-04-29",
-          "deaths": 1104,
+          "deaths": 1106,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 114098,
+          "confirmed": 114591,
           "date": "2021-04-29",
-          "deaths": 1238,
+          "deaths": 1239,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 352962,
+          "confirmed": 354727,
           "date": "2021-04-29",
-          "deaths": 4120,
+          "deaths": 4124,
           "recovered": 0
         }
       }
@@ -1231,7 +1231,7 @@
     "live": {
       "confirmed": 112156,
       "date": "2021-04-29",
-      "deaths": 753,
+      "deaths": 754,
       "recovered": 17998
     }
   },
@@ -1385,9 +1385,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 685937,
+      "confirmed": 687944,
       "date": "2021-04-29",
-      "deaths": 6312,
+      "deaths": 6337,
       "recovered": 0
     }
   },
@@ -1504,14 +1504,14 @@
       "confirmed": 104953,
       "date": "2021-04-29",
       "deaths": 661,
-      "recovered": 95083
+      "recovered": 95445
     }
   },
   "Sweden": {
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 139462,
+          "confirmed": 140255,
           "date": "2021-04-29",
           "deaths": 1677,
           "recovered": 0
@@ -1519,7 +1519,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 227828,
+          "confirmed": 229589,
           "date": "2021-04-29",
           "deaths": 4160,
           "recovered": 0
@@ -1527,7 +1527,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 168948,
+          "confirmed": 170402,
           "date": "2021-04-29",
           "deaths": 2290,
           "recovered": 0
@@ -1537,7 +1537,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 656077,
+      "confirmed": 658143,
       "date": "2021-04-29",
       "deaths": 10623,
       "recovered": 317600
