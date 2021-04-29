@@ -877,10 +877,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838323,
+      "confirmed": 838372,
       "date": "2021-04-29",
       "deaths": 6361,
-      "recovered": 830374
+      "recovered": 830441
     }
   },
   "Italy": {
@@ -1069,10 +1069,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 244555,
+      "confirmed": 245896,
       "date": "2021-04-29",
-      "deaths": 3900,
-      "recovered": 220565
+      "deaths": 3916,
+      "recovered": 221576
     }
   },
   "Malaysia": {
