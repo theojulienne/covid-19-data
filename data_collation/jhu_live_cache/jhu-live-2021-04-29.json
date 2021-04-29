@@ -162,7 +162,7 @@
           "confirmed": 893276,
           "date": "2021-04-29",
           "deaths": 18298,
-          "recovered": 859495
+          "recovered": 862967
         }
       },
       "Ceara": {
@@ -266,7 +266,7 @@
           "confirmed": 237845,
           "date": "2021-04-29",
           "deaths": 5046,
-          "recovered": 231572
+          "recovered": 232752
         }
       },
       "Rio Grande do Norte": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 255288,
+      "confirmed": 256418,
       "date": "2021-04-29",
-      "deaths": 3639,
-      "recovered": 196424
+      "deaths": 3658,
+      "recovered": 197916
     }
   },
   "France": {
@@ -559,9 +559,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 439465,
+          "confirmed": 443059,
           "date": "2021-04-29",
-          "deaths": 9308,
+          "deaths": 9341,
           "recovered": 386800
         }
       },
@@ -869,9 +869,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 247857,
+      "confirmed": 248326,
       "date": "2021-04-29",
-      "deaths": 4896,
+      "deaths": 4899,
       "recovered": 23364
     }
   },
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2802646,
+          "confirmed": 2802815,
           "date": "2021-04-29",
-          "deaths": 48371
+          "deaths": 48379
         }
       },
       "Connecticut": {
@@ -1584,9 +1584,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1225307,
+          "confirmed": 1228406,
           "date": "2021-04-29",
-          "deaths": 16104
+          "deaths": 16121
         }
       },
       "Georgia": {
@@ -1640,7 +1640,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 243155,
+          "confirmed": 243550,
           "date": "2021-04-29",
           "deaths": 4295
         }
@@ -1656,7 +1656,7 @@
         "live": {
           "confirmed": 1359115,
           "date": "2021-04-29",
-          "deaths": 39407
+          "deaths": 39415
         }
       },
       "North Carolina": {
@@ -1703,9 +1703,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114484,
+          "confirmed": 114633,
           "date": "2021-04-29",
-          "deaths": 1342
+          "deaths": 1344
         }
       }
     }
