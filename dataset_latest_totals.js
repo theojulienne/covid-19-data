@@ -1047,19 +1047,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1606030,
-        "deaths": 28640,
-        "recovered": 1515106
+        "confirmed": 1609861,
+        "deaths": 28711,
+        "recovered": 1517774
       },
       "back_2week": {
-        "confirmed": 1585037,
-        "deaths": 28038,
-        "recovered": 1473483
+        "confirmed": 1590124,
+        "deaths": 28124,
+        "recovered": 1480882
       },
       "latest": {
-        "confirmed": 1622777,
-        "deaths": 29075,
-        "recovered": 1541963
+        "confirmed": 1626033,
+        "deaths": 29141,
+        "recovered": 1542244
       }
     },
     "DEU": {

@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1626033,
+      "confirmed": 1628536,
       "date": "2021-04-29",
-      "deaths": 29141,
-      "recovered": 1542244
+      "deaths": 29213,
+      "recovered": 1548014
     }
   },
   "Denmark": {
@@ -562,7 +562,7 @@
           "confirmed": 439465,
           "date": "2021-04-29",
           "deaths": 9308,
-          "recovered": 384000
+          "recovered": 386800
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 589479,
           "date": "2021-04-29",
           "deaths": 14101,
-          "recovered": 521600
+          "recovered": 525100
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 167111,
           "date": "2021-04-29",
           "deaths": 3210,
-          "recovered": 153200
+          "recovered": 153900
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 101415,
           "date": "2021-04-29",
           "deaths": 3552,
-          "recovered": 90130
+          "recovered": 90780
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 260590,
           "date": "2021-04-29",
           "deaths": 6834,
-          "recovered": 227700
+          "recovered": 229400
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 235608,
           "date": "2021-04-29",
           "deaths": 5281,
-          "recovered": 212100
+          "recovered": 213800
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 730086,
           "date": "2021-04-29",
           "deaths": 15435,
-          "recovered": 639800
+          "recovered": 644600
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 138745,
           "date": "2021-04-29",
           "deaths": 3544,
-          "recovered": 120600
+          "recovered": 121500
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 115170,
           "date": "2021-04-29",
           "deaths": 3790,
-          "recovered": 101200
+          "recovered": 101900
         }
       }
     }
@@ -1570,9 +1570,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2802527,
+          "confirmed": 2802545,
           "date": "2021-04-29",
-          "deaths": 48333
+          "deaths": 48335
         }
       },
       "Connecticut": {
