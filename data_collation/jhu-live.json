@@ -322,7 +322,7 @@
           "confirmed": 201124,
           "date": "2021-04-30",
           "deaths": 4246,
-          "recovered": 182182
+          "recovered": 185920
         }
       },
       "Tocantins": {
@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 464286,
+          "confirmed": 467418,
           "date": "2021-04-30",
-          "deaths": 9495,
-          "recovered": 431672
+          "deaths": 9618,
+          "recovered": 434892
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 232409,
+          "confirmed": 234453,
           "date": "2021-04-30",
-          "deaths": 6685,
-          "recovered": 212328
+          "deaths": 6778,
+          "recovered": 215392
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 779447,
+          "confirmed": 783413,
           "date": "2021-04-30",
-          "deaths": 15573,
-          "recovered": 719477
+          "deaths": 15635,
+          "recovered": 723315
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 125330,
+          "confirmed": 126271,
           "date": "2021-04-30",
-          "deaths": 3336,
-          "recovered": 118217
+          "deaths": 3362,
+          "recovered": 118880
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 103054,
+          "confirmed": 103816,
           "date": "2021-04-30",
-          "deaths": 3642,
-          "recovered": 96152
+          "deaths": 3660,
+          "recovered": 96474
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 235437,
+          "confirmed": 236454,
           "date": "2021-04-30",
-          "deaths": 7238,
-          "recovered": 222392
+          "deaths": 7291,
+          "recovered": 223398
         }
       }
     }
@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 209490,
+      "confirmed": 211076,
       "date": "2021-04-30",
-      "deaths": 5223,
-      "recovered": 78140
+      "deaths": 5261,
+      "recovered": 78517
     }
   },
   "Hungary": {
@@ -1247,26 +1247,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 116523,
+          "confirmed": 117557,
           "date": "2021-04-30",
-          "deaths": 3238,
-          "recovered": 101342
+          "deaths": 3274,
+          "recovered": 102142
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 298818,
+          "confirmed": 301114,
           "date": "2021-04-30",
-          "deaths": 8327,
-          "recovered": 242068
+          "deaths": 8410,
+          "recovered": 243463
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 281385,
+          "confirmed": 282445,
           "date": "2021-04-30",
-          "deaths": 4629,
-          "recovered": 263773
+          "deaths": 4633,
+          "recovered": 264052
         }
       }
     }
@@ -1816,10 +1816,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 194959,
+      "confirmed": 196386,
       "date": "2021-04-30",
-      "deaths": 2099,
-      "recovered": 177082
+      "deaths": 2117,
+      "recovered": 178072
     }
   },
   "West Bank and Gaza": {
