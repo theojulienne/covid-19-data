@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 225528,
+      "confirmed": 226531,
       "date": "2021-04-30",
-      "deaths": 13219,
-      "recovered": 169308
+      "deaths": 13278,
+      "recovered": 170008
     }
   },
   "Estonia": {
@@ -987,9 +987,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 137419,
+          "confirmed": 138446,
           "date": "2021-04-30",
-          "deaths": 1863,
+          "deaths": 1873,
           "recovered": 129244
         }
       }
@@ -1087,33 +1087,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 638536,
+          "confirmed": 639655,
           "date": "2021-04-30",
-          "deaths": 32443,
+          "deaths": 32502,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 130520,
+          "confirmed": 130643,
           "date": "2021-04-30",
-          "deaths": 10569,
+          "deaths": 10598,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 243654,
+          "confirmed": 244002,
           "date": "2021-04-30",
-          "deaths": 33849,
+          "deaths": 33904,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 122329,
+          "confirmed": 122440,
           "date": "2021-04-30",
-          "deaths": 9330,
+          "deaths": 9346,
           "recovered": 0
         }
       }
@@ -1229,7 +1229,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 112336,
+      "confirmed": 112541,
       "date": "2021-04-30",
       "deaths": 754,
       "recovered": 17998
