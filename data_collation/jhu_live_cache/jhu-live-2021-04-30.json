@@ -162,7 +162,7 @@
           "confirmed": 897273,
           "date": "2021-04-30",
           "deaths": 18391,
-          "recovered": 862967
+          "recovered": 866640
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 1351739,
           "date": "2021-04-30",
           "deaths": 33401,
-          "recovered": 1242487
+          "recovered": 1249715
         }
       },
       "Para": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 470762,
+          "confirmed": 470764,
           "date": "2021-04-30",
           "deaths": 8032,
-          "recovered": 428933
+          "recovered": 428945
         }
       },
       "Quebec": {
@@ -1553,10 +1553,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 307215,
+      "confirmed": 309119,
       "date": "2021-04-30",
-      "deaths": 10641,
-      "recovered": 258190
+      "deaths": 10722,
+      "recovered": 259957
     }
   },
   "Turkey": {
@@ -1592,9 +1592,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1228406,
+          "confirmed": 1231324,
           "date": "2021-04-30",
-          "deaths": 16121
+          "deaths": 16157
         }
       },
       "Georgia": {
@@ -1627,9 +1627,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 264471,
+          "confirmed": 265699,
           "date": "2021-04-30",
-          "deaths": 6800
+          "deaths": 6819
         }
       },
       "Minnesota": {
@@ -1664,7 +1664,7 @@
         "live": {
           "confirmed": 1360359,
           "date": "2021-04-30",
-          "deaths": 39448
+          "deaths": 39455
         }
       },
       "North Carolina": {
@@ -1690,9 +1690,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1298339,
+          "confirmed": 1298413,
           "date": "2021-04-30",
-          "deaths": 19705
+          "deaths": 19732
         }
       },
       "Utah": {
@@ -1711,9 +1711,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114633,
+          "confirmed": 114801,
           "date": "2021-04-30",
-          "deaths": 1344
+          "deaths": 1345
         }
       }
     }
