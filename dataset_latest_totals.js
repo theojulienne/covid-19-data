@@ -1496,19 +1496,19 @@ var covid19_dataset_latest_totals = {
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 299038,
-        "deaths": 3971,
-        "recovered": 282869
+        "confirmed": 300264,
+        "deaths": 3981,
+        "recovered": 283557
       },
       "back_2week": {
-        "confirmed": 291214,
-        "deaths": 3901,
-        "recovered": 278683
+        "confirmed": 292244,
+        "deaths": 3908,
+        "recovered": 279389
       },
       "latest": {
-        "confirmed": 307401,
-        "deaths": 4077,
-        "recovered": 288816
+        "confirmed": 308834,
+        "deaths": 4095,
+        "recovered": 289976
       }
     },
     "GHA": {
@@ -1836,19 +1836,19 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 837492,
+        "confirmed": 837807,
         "deaths": 6346,
-        "recovered": 829127
+        "recovered": 829424
       },
       "back_2week": {
-        "confirmed": 836590,
-        "deaths": 6312,
-        "recovered": 827562
+        "confirmed": 836902,
+        "deaths": 6315,
+        "recovered": 827934
       },
       "latest": {
-        "confirmed": 838323,
-        "deaths": 6361,
-        "recovered": 830374
+        "confirmed": 838407,
+        "deaths": 6362,
+        "recovered": 830530
       }
     },
     "ITA": {
@@ -2159,19 +2159,19 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 236533,
-        "deaths": 3802,
-        "recovered": 213970
+        "confirmed": 237950,
+        "deaths": 3818,
+        "recovered": 215031
       },
       "back_2week": {
-        "confirmed": 229260,
-        "deaths": 3718,
-        "recovered": 208123
+        "confirmed": 230462,
+        "deaths": 3730,
+        "recovered": 208890
       },
       "latest": {
-        "confirmed": 244555,
-        "deaths": 3900,
-        "recovered": 220565
+        "confirmed": 245896,
+        "deaths": 3916,
+        "recovered": 221576
       }
     },
     "LUX": {
