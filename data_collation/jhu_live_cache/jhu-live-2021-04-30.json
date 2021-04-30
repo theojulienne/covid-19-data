@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 470764,
+          "confirmed": 471069,
           "date": "2021-04-30",
-          "deaths": 8032,
-          "recovered": 428945
+          "deaths": 8040,
+          "recovered": 429369
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 256418,
+      "confirmed": 257442,
       "date": "2021-04-30",
-      "deaths": 3658,
-      "recovered": 197916
+      "deaths": 3688,
+      "recovered": 198862
     }
   },
   "France": {
@@ -1417,10 +1417,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1579536,
+      "confirmed": 1581210,
       "date": "2021-04-30",
-      "deaths": 54331,
-      "recovered": 1504426
+      "deaths": 54350,
+      "recovered": 1505620
     }
   },
   "Spain": {
@@ -1571,9 +1571,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 651560,
+          "confirmed": 652238,
           "date": "2021-04-30",
-          "deaths": 12251
+          "deaths": 12267
         }
       },
       "California": {
@@ -1585,9 +1585,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 97948,
+          "confirmed": 98131,
           "date": "2021-04-30",
-          "deaths": 2160
+          "deaths": 2165
         }
       },
       "Florida": {
@@ -1599,9 +1599,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 100594,
+          "confirmed": 100704,
           "date": "2021-04-30",
-          "deaths": 1140
+          "deaths": 1143
         }
       },
       "Illinois": {
@@ -1662,7 +1662,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1360359,
+          "confirmed": 1361225,
           "date": "2021-04-30",
           "deaths": 39455
         }
@@ -1697,9 +1697,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 147821,
+          "confirmed": 147949,
           "date": "2021-04-30",
-          "deaths": 845
+          "deaths": 847
         }
       },
       "Washington": {
