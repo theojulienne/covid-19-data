@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 211076,
+      "confirmed": 212333,
       "date": "2021-05-01",
-      "deaths": 5261,
-      "recovered": 78517
+      "deaths": 5281,
+      "recovered": 78623
     }
   },
   "Hungary": {
@@ -1013,10 +1013,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 372662,
+      "confirmed": 375539,
       "date": "2021-05-01",
       "deaths": 3334,
-      "recovered": 325470
+      "recovered": 328532
     }
   },
   "Kenya": {
@@ -1255,26 +1255,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 117557,
+          "confirmed": 118413,
           "date": "2021-05-01",
-          "deaths": 3274,
-          "recovered": 102142
+          "deaths": 3310,
+          "recovered": 102938
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 301114,
+          "confirmed": 303182,
           "date": "2021-05-01",
-          "deaths": 8410,
-          "recovered": 243463
+          "deaths": 8500,
+          "recovered": 247050
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 282445,
+          "confirmed": 283560,
           "date": "2021-05-01",
-          "deaths": 4633,
-          "recovered": 264052
+          "deaths": 4645,
+          "recovered": 264414
         }
       }
     }
@@ -1824,10 +1824,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 196386,
+      "confirmed": 197683,
       "date": "2021-05-01",
-      "deaths": 2117,
-      "recovered": 178072
+      "deaths": 2136,
+      "recovered": 179200
     }
   },
   "West Bank and Gaza": {
