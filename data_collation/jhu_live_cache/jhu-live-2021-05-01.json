@@ -1580,7 +1580,7 @@
         "live": {
           "confirmed": 2804787,
           "date": "2021-05-01",
-          "deaths": 48837
+          "deaths": 48547
         }
       },
       "Connecticut": {
@@ -1627,9 +1627,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 265699,
+          "confirmed": 266846,
           "date": "2021-05-01",
-          "deaths": 6819
+          "deaths": 6859
         }
       },
       "Minnesota": {
@@ -1678,7 +1678,7 @@
         "live": {
           "confirmed": 234900,
           "date": "2021-05-01",
-          "deaths": 3469
+          "deaths": 3485
         }
       },
       "Pennsylvania": {
@@ -1711,7 +1711,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114801,
+          "confirmed": 114963,
           "date": "2021-05-01",
           "deaths": 1345
         }
