@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1630758,
+      "confirmed": 1632932,
       "date": "2021-05-01",
-      "deaths": 29267,
-      "recovered": 1549439
+      "deaths": 29316,
+      "recovered": 1555152
     }
   },
   "Denmark": {
@@ -995,7 +995,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 139144,
+          "confirmed": 140194,
           "date": "2021-05-01",
           "deaths": 1875,
           "recovered": 129953
@@ -1077,10 +1077,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 247269,
+      "confirmed": 248655,
       "date": "2021-05-01",
-      "deaths": 3923,
-      "recovered": 222436
+      "deaths": 3937,
+      "recovered": 224649
     }
   },
   "Malaysia": {
