@@ -1263,19 +1263,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 247989,
-        "deaths": 3496,
-        "recovered": 185107
+        "confirmed": 249292,
+        "deaths": 3511,
+        "recovered": 188080
       },
       "back_2week": {
-        "confirmed": 236554,
-        "deaths": 3285,
-        "recovered": 175879
+        "confirmed": 238527,
+        "deaths": 3300,
+        "recovered": 177629
       },
       "latest": {
-        "confirmed": 256418,
-        "deaths": 3658,
-        "recovered": 197916
+        "confirmed": 257442,
+        "deaths": 3688,
+        "recovered": 198862
       }
     },
     "FIN": {
@@ -3910,19 +3910,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1571348,
-        "deaths": 53995,
-        "recovered": 1496756
+        "confirmed": 1572985,
+        "deaths": 54066,
+        "recovered": 1499110
       },
       "back_2week": {
-        "confirmed": 1562931,
-        "deaths": 53571,
-        "recovered": 1488060
+        "confirmed": 1564355,
+        "deaths": 53663,
+        "recovered": 1488572
       },
       "latest": {
-        "confirmed": 1579536,
-        "deaths": 54331,
-        "recovered": 1504426
+        "confirmed": 1581210,
+        "deaths": 54350,
+        "recovered": 1505620
       }
     },
     "ZMB": {
