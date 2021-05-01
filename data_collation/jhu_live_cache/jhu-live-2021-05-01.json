@@ -853,10 +853,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1668368,
+      "confirmed": 1672880,
       "date": "2021-05-01",
-      "deaths": 45521,
-      "recovered": 1522634
+      "deaths": 45652,
+      "recovered": 1526978
     }
   },
   "Iran": {
@@ -1053,10 +1053,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 118558,
+      "confirmed": 119370,
       "date": "2021-05-01",
-      "deaths": 2131,
-      "recovered": 107701
+      "deaths": 2139,
+      "recovered": 108949
     }
   },
   "Lebanon": {
@@ -1309,18 +1309,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1037460,
+      "confirmed": 1046653,
       "date": "2021-05-01",
-      "deaths": 17234,
-      "recovered": 946318
+      "deaths": 17354,
+      "recovered": 957051
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2792142,
+      "confirmed": 2798617,
       "date": "2021-05-01",
-      "deaths": 67502,
-      "recovered": 2496810
+      "deaths": 67924,
+      "recovered": 2510858
     }
   },
   "Portugal": {
