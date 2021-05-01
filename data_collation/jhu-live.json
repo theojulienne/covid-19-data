@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 122108,
+      "confirmed": 122311,
       "date": "2021-05-01",
-      "deaths": 3253,
-      "recovered": 85108
+      "deaths": 3261,
+      "recovered": 85249
     }
   },
   "Argentina": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 473352,
+          "confirmed": 474296,
           "date": "2021-05-01",
-          "deaths": 8059,
-          "recovered": 431923
+          "deaths": 8061,
+          "recovered": 432997
         }
       },
       "Quebec": {
@@ -399,10 +399,10 @@
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 497605,
+          "confirmed": 500160,
           "date": "2021-05-01",
-          "deaths": 14150,
-          "recovered": 467044
+          "deaths": 14191,
+          "recovered": 469954
         }
       }
     }
@@ -477,10 +477,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 106707,
+      "confirmed": 107622,
       "date": "2021-05-01",
-      "deaths": 644,
-      "recovered": 100603
+      "deaths": 654,
+      "recovered": 101475
     }
   },
   "Czechia": {
@@ -501,17 +501,17 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 266561,
+      "confirmed": 266861,
       "date": "2021-05-01",
-      "deaths": 3480,
-      "recovered": 226392
+      "deaths": 3487,
+      "recovered": 227267
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 381862,
+      "confirmed": 384589,
       "date": "2021-05-01",
-      "deaths": 18631,
+      "deaths": 18724,
       "recovered": 318598
     }
   },
@@ -1021,10 +1021,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 159318,
+      "confirmed": 160053,
       "date": "2021-05-01",
-      "deaths": 2724,
-      "recovered": 108565
+      "deaths": 2744,
+      "recovered": 108789
     }
   },
   "Korea, South": {
@@ -1145,10 +1145,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 511249,
+      "confirmed": 511562,
       "date": "2021-05-01",
-      "deaths": 9023,
-      "recovered": 497621
+      "deaths": 9026,
+      "recovered": 498131
     }
   },
   "Nepal": {
@@ -1229,10 +1229,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 152367,
+      "confirmed": 152581,
       "date": "2021-05-01",
-      "deaths": 4855,
-      "recovered": 132765
+      "deaths": 4891,
+      "recovered": 133070
     }
   },
   "Norway": {
@@ -1325,18 +1325,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 836493,
+      "confirmed": 836947,
       "date": "2021-05-01",
-      "deaths": 16974,
-      "recovered": 795838
+      "deaths": 16976,
+      "recovered": 796477
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 205652,
+      "confirmed": 206302,
       "date": "2021-05-01",
-      "deaths": 458,
-      "recovered": 189544
+      "deaths": 465,
+      "recovered": 191071
     }
   },
   "Romania": {
@@ -1561,10 +1561,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 4820591,
+      "confirmed": 4849408,
       "date": "2021-05-01",
-      "deaths": 40131,
-      "recovered": 4323897
+      "deaths": 40504,
+      "recovered": 4405199
     }
   },
   "US": {
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2804659,
+          "confirmed": 2804787,
           "date": "2021-05-01",
-          "deaths": 48802
+          "deaths": 48837
         }
       },
       "Connecticut": {
@@ -1613,9 +1613,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 98285,
+          "confirmed": 98455,
           "date": "2021-05-01",
-          "deaths": 1734
+          "deaths": 1733
         }
       },
       "Massachusetts": {
@@ -1634,9 +1634,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 119560,
+          "confirmed": 119846,
           "date": "2021-05-01",
-          "deaths": 1705
+          "deaths": 1707
         }
       },
       "Missouri": {
@@ -1697,9 +1697,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 147949,
+          "confirmed": 148119,
           "date": "2021-05-01",
-          "deaths": 847
+          "deaths": 848
         }
       },
       "Washington": {
@@ -1772,10 +1772,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 520236,
+      "confirmed": 521948,
       "date": "2021-05-01",
-      "deaths": 1587,
-      "recovered": 500779
+      "deaths": 1591,
+      "recovered": 502460
     }
   },
   "United Kingdom": {
