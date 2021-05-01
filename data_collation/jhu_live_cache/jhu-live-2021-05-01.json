@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 121866,
+      "confirmed": 122108,
       "date": "2021-05-01",
-      "deaths": 3244,
-      "recovered": 84940
+      "deaths": 3253,
+      "recovered": 85108
     }
   },
   "Argentina": {
@@ -411,49 +411,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 467418,
+          "confirmed": 469997,
           "date": "2021-05-01",
-          "deaths": 9618,
+          "deaths": 9734,
           "recovered": 434892
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 234453,
+          "confirmed": 236523,
           "date": "2021-05-01",
-          "deaths": 6778,
+          "deaths": 6870,
           "recovered": 215392
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 783413,
+          "confirmed": 788109,
           "date": "2021-05-01",
-          "deaths": 15635,
+          "deaths": 15692,
           "recovered": 723315
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 126271,
+          "confirmed": 127181,
           "date": "2021-05-01",
-          "deaths": 3362,
+          "deaths": 3382,
           "recovered": 118880
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 103816,
+          "confirmed": 104540,
           "date": "2021-05-01",
-          "deaths": 3660,
+          "deaths": 3682,
           "recovered": 96474
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 236454,
+          "confirmed": 237497,
           "date": "2021-05-01",
-          "deaths": 7291,
+          "deaths": 7329,
           "recovered": 223398
         }
       }
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2804319,
+          "confirmed": 2804628,
           "date": "2021-05-01",
           "deaths": 48492
         }
