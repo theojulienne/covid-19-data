@@ -583,9 +583,9 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 102347,
+          "confirmed": 102352,
           "date": "2021-05-01",
-          "deaths": 3570,
+          "deaths": 3568,
           "recovered": 91740
         }
       },
@@ -861,10 +861,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2499077,
+      "confirmed": 2516157,
       "date": "2021-05-01",
-      "deaths": 71758,
-      "recovered": 1954321
+      "deaths": 72090,
+      "recovered": 1971064
     }
   },
   "Iraq": {
@@ -998,7 +998,7 @@
           "confirmed": 140194,
           "date": "2021-05-01",
           "deaths": 1875,
-          "recovered": 129953
+          "recovered": 130630
         }
       }
     }
@@ -1085,10 +1085,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 408713,
+      "confirmed": 411594,
       "date": "2021-05-01",
-      "deaths": 1506,
-      "recovered": 377980
+      "deaths": 1521,
+      "recovered": 380442
     }
   },
   "Mexico": {
