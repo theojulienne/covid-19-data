@@ -937,7 +937,7 @@ var covid19_dataset_country_lka = {
       106484,
       108146,
       109862,
-      111090
+      111753
     ],
     "deaths": [
       0,
