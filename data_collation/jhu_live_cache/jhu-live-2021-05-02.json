@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 122311,
+      "confirmed": 122522,
       "date": "2021-05-02",
-      "deaths": 3261,
-      "recovered": 85249
+      "deaths": 3270,
+      "recovered": 85398
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 320322,
+      "confirmed": 321380,
       "date": "2021-05-02",
-      "deaths": 4538,
-      "recovered": 291564
+      "deaths": 4561,
+      "recovered": 293689
     }
   },
   "Bahrain": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 475866,
+          "confirmed": 476002,
           "date": "2021-05-02",
           "deaths": 8066,
-          "recovered": 434716
+          "recovered": 434829
         }
       },
       "Quebec": {
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 266861,
+      "confirmed": 267455,
       "date": "2021-05-02",
-      "deaths": 3487,
-      "recovered": 227267
+      "deaths": 3493,
+      "recovered": 227924
     }
   },
   "Ecuador": {
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 168969,
+          "confirmed": 169024,
           "date": "2021-05-02",
-          "deaths": 3214,
-          "recovered": 155900
+          "deaths": 3216,
+          "recovered": 156000
         }
       },
       "Brandenburg": {
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838535,
+      "confirmed": 838542,
       "date": "2021-05-02",
-      "deaths": 6365,
-      "recovered": 830740
+      "deaths": 6366,
+      "recovered": 830863
     }
   },
   "Italy": {
@@ -1061,9 +1061,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 527508,
+      "confirmed": 528208,
       "date": "2021-05-02",
-      "deaths": 7302,
+      "deaths": 7324,
       "recovered": 464660
     }
   },
@@ -1129,10 +1129,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 251160,
+      "confirmed": 251335,
       "date": "2021-05-02",
-      "deaths": 5826,
-      "recovered": 240393
+      "deaths": 5838,
+      "recovered": 240824
     }
   },
   "Montenegro": {
@@ -1145,10 +1145,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 511562,
+      "confirmed": 511856,
       "date": "2021-05-02",
-      "deaths": 9026,
-      "recovered": 498131
+      "deaths": 9028,
+      "recovered": 498415
     }
   },
   "Nepal": {
@@ -1333,10 +1333,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 206302,
+      "confirmed": 206948,
       "date": "2021-05-02",
-      "deaths": 465,
-      "recovered": 191071
+      "deaths": 472,
+      "recovered": 192551
     }
   },
   "Romania": {
@@ -1401,9 +1401,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 382720,
+      "confirmed": 383098,
       "date": "2021-05-02",
-      "deaths": 11732,
+      "deaths": 11766,
       "recovered": 255300
     }
   },
@@ -1561,10 +1561,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 4849408,
+      "confirmed": 4875388,
       "date": "2021-05-02",
-      "deaths": 40504,
-      "recovered": 4405199
+      "deaths": 40844,
+      "recovered": 4480381
     }
   },
   "US": {
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2805713,
+          "confirmed": 2805861,
           "date": "2021-05-02",
-          "deaths": 48559
+          "deaths": 48606
         }
       },
       "Connecticut": {
@@ -1613,9 +1613,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 98455,
+          "confirmed": 98637,
           "date": "2021-05-02",
-          "deaths": 1733
+          "deaths": 1736
         }
       },
       "Massachusetts": {
@@ -1634,14 +1634,14 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 119846,
+          "confirmed": 120196,
           "date": "2021-05-02",
           "deaths": 1707
         }
       },
       "Missouri": {
         "live": {
-          "confirmed": 97757,
+          "confirmed": 97849,
           "date": "2021-05-02",
           "deaths": 2184
         }
