@@ -1045,10 +1045,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 275270,
+      "confirmed": 276586,
       "date": "2021-05-02",
-      "deaths": 1569,
-      "recovered": 258599
+      "deaths": 1578,
+      "recovered": 260008
     }
   },
   "Latvia": {
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2806061,
+          "confirmed": 2806116,
           "date": "2021-05-02",
           "deaths": 48610
         }
@@ -1620,7 +1620,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 132458,
+          "confirmed": 132603,
           "date": "2021-05-02",
           "deaths": 3721
         }
