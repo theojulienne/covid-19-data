@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 177997,
+      "confirmed": 179297,
       "date": "2021-05-02",
-      "deaths": 648,
-      "recovered": 166851
+      "deaths": 651,
+      "recovered": 167852
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 174476,
           "date": "2021-05-02",
           "deaths": 4240,
-          "recovered": 164593
+          "recovered": 166575
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 105971,
           "date": "2021-05-02",
           "deaths": 1549,
-          "recovered": 76652
+          "recovered": 78064
         }
       },
       "Amazonas": {
@@ -178,7 +178,7 @@
           "confirmed": 379752,
           "date": "2021-05-02",
           "deaths": 7826,
-          "recovered": 362144
+          "recovered": 364114
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 437813,
           "date": "2021-05-02",
           "deaths": 9536,
-          "recovered": 410153
+          "recovered": 411308
         }
       },
       "Goias": {
@@ -210,7 +210,7 @@
           "confirmed": 361209,
           "date": "2021-05-02",
           "deaths": 9643,
-          "recovered": 342807
+          "recovered": 343698
         }
       },
       "Mato Grosso do Sul": {
@@ -282,7 +282,7 @@
           "confirmed": 979807,
           "date": "2021-05-02",
           "deaths": 25086,
-          "recovered": 939790
+          "recovered": 941539
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 745456,
           "date": "2021-05-02",
           "deaths": 44619,
-          "recovered": 689155
+          "recovered": 694160
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 890577,
           "date": "2021-05-02",
           "deaths": 13592,
-          "recovered": 855020
+          "recovered": 857182
         }
       },
       "Sao Paulo": {
@@ -314,7 +314,7 @@
           "confirmed": 2918044,
           "date": "2021-05-02",
           "deaths": 96941,
-          "recovered": 2570300
+          "recovered": 2588973
         }
       },
       "Sergipe": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 404846,
+      "confirmed": 405194,
       "date": "2021-05-02",
-      "deaths": 16444,
-      "recovered": 339889
+      "deaths": 16492,
+      "recovered": 340442
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 193167,
+          "confirmed": 194898,
           "date": "2021-05-02",
-          "deaths": 2083,
-          "recovered": 168580
+          "deaths": 2086,
+          "recovered": 169892
         }
       },
       "British Columbia": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 228477,
+      "confirmed": 228684,
       "date": "2021-05-02",
-      "deaths": 7543,
-      "recovered": 204141
+      "deaths": 7558,
+      "recovered": 205365
     }
   },
   "Honduras": {
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1300398,
+          "confirmed": 1300710,
           "date": "2021-05-02",
           "deaths": 19764
         }
