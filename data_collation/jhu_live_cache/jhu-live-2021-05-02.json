@@ -266,7 +266,7 @@
           "confirmed": 240868,
           "date": "2021-05-02",
           "deaths": 5124,
-          "recovered": 234570
+          "recovered": 235995
         }
       },
       "Rio Grande do Norte": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 258062,
+      "confirmed": 258384,
       "date": "2021-05-02",
-      "deaths": 3709,
-      "recovered": 200148
+      "deaths": 3726,
+      "recovered": 200508
     }
   },
   "France": {
@@ -1553,10 +1553,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 310734,
+      "confirmed": 311743,
       "date": "2021-05-02",
-      "deaths": 10808,
-      "recovered": 261552
+      "deaths": 10868,
+      "recovered": 262602
     }
   },
   "Turkey": {
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2805971,
+          "confirmed": 2806061,
           "date": "2021-05-02",
-          "deaths": 48606
+          "deaths": 48610
         }
       },
       "Connecticut": {
@@ -1592,9 +1592,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1234450,
+          "confirmed": 1236676,
           "date": "2021-05-02",
-          "deaths": 16198
+          "deaths": 16219
         }
       },
       "Georgia": {
@@ -1676,7 +1676,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 235374,
+          "confirmed": 235659,
           "date": "2021-05-02",
           "deaths": 3485
         }
@@ -1690,9 +1690,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1300215,
+          "confirmed": 1300398,
           "date": "2021-05-02",
-          "deaths": 19758
+          "deaths": 19764
         }
       },
       "Utah": {
@@ -1711,7 +1711,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 114963,
+          "confirmed": 115093,
           "date": "2021-05-02",
           "deaths": 1345
         }
