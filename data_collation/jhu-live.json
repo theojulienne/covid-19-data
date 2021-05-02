@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 474595,
+          "confirmed": 475644,
           "date": "2021-05-02",
-          "deaths": 8062,
-          "recovered": 433460
+          "deaths": 8064,
+          "recovered": 434484
         }
       },
       "Quebec": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 598261,
+          "confirmed": 598378,
           "date": "2021-05-02",
           "deaths": 14193,
           "recovered": 533600
@@ -623,10 +623,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 264495,
+          "confirmed": 265357,
           "date": "2021-05-02",
-          "deaths": 9116,
-          "recovered": 236000
+          "deaths": 9119,
+          "recovered": 236500
         }
       },
       "Thuringen": {
@@ -869,10 +869,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1070366,
+      "confirmed": 1074930,
       "date": "2021-05-02",
-      "deaths": 15498,
-      "recovered": 949341
+      "deaths": 15536,
+      "recovered": 957200
     }
   },
   "Ireland": {
@@ -1021,10 +1021,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 160053,
+      "confirmed": 160422,
       "date": "2021-05-02",
-      "deaths": 2744,
-      "recovered": 108789
+      "deaths": 2763,
+      "recovered": 108861
     }
   },
   "Korea, South": {
@@ -1137,10 +1137,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 97517,
+      "confirmed": 97619,
       "date": "2021-05-02",
-      "deaths": 1502,
-      "recovered": 93701
+      "deaths": 1505,
+      "recovered": 93874
     }
   },
   "Morocco": {
@@ -1237,7 +1237,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 113259,
+      "confirmed": 113423,
       "date": "2021-05-02",
       "deaths": 756,
       "recovered": 17998
@@ -1509,7 +1509,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 109862,
+      "confirmed": 111090,
       "date": "2021-05-02",
       "deaths": 687,
       "recovered": 97242
