@@ -1255,26 +1255,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 118413,
+          "confirmed": 119277,
           "date": "2021-05-02",
-          "deaths": 3310,
-          "recovered": 102938
+          "deaths": 3350,
+          "recovered": 103921
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 303182,
+          "confirmed": 304889,
           "date": "2021-05-02",
-          "deaths": 8500,
-          "recovered": 247050
+          "deaths": 8550,
+          "recovered": 250033
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 283560,
+          "confirmed": 284738,
           "date": "2021-05-02",
-          "deaths": 4645,
-          "recovered": 264414
+          "deaths": 4658,
+          "recovered": 264832
         }
       }
     }

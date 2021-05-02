@@ -935,7 +935,8 @@ var covid19_dataset_country_ner = {
       5220,
       5224,
       5226,
-      5228
+      5228,
+      5229
     ],
     "deaths": [
       0,
@@ -1392,6 +1393,7 @@ var covid19_dataset_country_ner = {
       190,
       190,
       190,
+      191,
       191,
       191,
       191,
@@ -1869,7 +1871,8 @@ var covid19_dataset_country_ner = {
       4843,
       4847,
       4851,
-      4851
+      4851,
+      4855
     ]
   }
 };

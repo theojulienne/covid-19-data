@@ -935,6 +935,7 @@ var covid19_dataset_country_nga = {
       164912,
       164993,
       165055,
+      165110,
       165110
     ],
     "deaths": [
@@ -1399,6 +1400,7 @@ var covid19_dataset_country_nga = {
       2061,
       2062,
       2062,
+      2063,
       2063,
       2063,
       2063,
@@ -1869,6 +1871,7 @@ var covid19_dataset_country_nga = {
       155012,
       155021,
       155041,
+      155101,
       155101
     ]
   }
