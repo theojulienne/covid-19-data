@@ -162,7 +162,7 @@
           "confirmed": 905113,
           "date": "2021-05-02",
           "deaths": 18561,
-          "recovered": 870299
+          "recovered": 872677
         }
       },
       "Ceara": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 476743,
+          "confirmed": 477138,
           "date": "2021-05-02",
-          "deaths": 8067,
-          "recovered": 435656
+          "deaths": 8070,
+          "recovered": 436048
         }
       },
       "Quebec": {
@@ -885,10 +885,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838542,
+      "confirmed": 838554,
       "date": "2021-05-02",
       "deaths": 6366,
-      "recovered": 830863
+      "recovered": 830878
     }
   },
   "Italy": {
@@ -1417,10 +1417,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1582842,
+      "confirmed": 1584064,
       "date": "2021-05-02",
-      "deaths": 54406,
-      "recovered": 1506732
+      "deaths": 54417,
+      "recovered": 1507778
     }
   },
   "Spain": {
@@ -1599,7 +1599,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 100815,
+          "confirmed": 100888,
           "date": "2021-05-02",
           "deaths": 1143
         }
