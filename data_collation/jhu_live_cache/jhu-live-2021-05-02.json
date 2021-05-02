@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 620485,
+      "confirmed": 622110,
       "date": "2021-05-02",
-      "deaths": 10233,
-      "recovered": 587115
+      "deaths": 10245,
+      "recovered": 589534
     }
   },
   "Azerbaijan": {
@@ -861,10 +861,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2516157,
+      "confirmed": 2534855,
       "date": "2021-05-02",
-      "deaths": 72090,
-      "recovered": 1971064
+      "deaths": 72484,
+      "recovered": 1988165
     }
   },
   "Iraq": {
@@ -997,7 +997,7 @@
         "live": {
           "confirmed": 141073,
           "date": "2021-05-02",
-          "deaths": 1881,
+          "deaths": 1882,
           "recovered": 130630
         }
       }
@@ -1085,10 +1085,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 411594,
+      "confirmed": 415012,
       "date": "2021-05-02",
-      "deaths": 1521,
-      "recovered": 380442
+      "deaths": 1533,
+      "recovered": 383140
     }
   },
   "Mexico": {
@@ -1221,10 +1221,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 165110,
+      "confirmed": 165153,
       "date": "2021-05-02",
       "deaths": 2063,
-      "recovered": 155101
+      "recovered": 155109
     }
   },
   "North Macedonia": {
@@ -1245,10 +1245,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 193253,
+      "confirmed": 195807,
       "date": "2021-05-02",
-      "deaths": 2010,
-      "recovered": 173123
+      "deaths": 2043,
+      "recovered": 176833
     }
   },
   "Pakistan": {
@@ -1409,10 +1409,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 241309,
+      "confirmed": 241672,
       "date": "2021-05-02",
-      "deaths": 4258,
-      "recovered": 227411
+      "deaths": 4263,
+      "recovered": 227883
     }
   },
   "South Africa": {
@@ -1832,10 +1832,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 296462,
+      "confirmed": 297126,
       "date": "2021-05-02",
-      "deaths": 3249,
-      "recovered": 272333
+      "deaths": 3257,
+      "recovered": 274275
     }
   }
 }
