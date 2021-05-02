@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 252045,
+      "confirmed": 252912,
       "date": "2021-05-02",
-      "deaths": 2489,
-      "recovered": 239913
+      "deaths": 2490,
+      "recovered": 240569
     }
   },
   "Dominican Republic": {
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 328893,
+      "confirmed": 336030,
       "date": "2021-05-02",
-      "deaths": 3298,
-      "recovered": 282382
+      "deaths": 3325,
+      "recovered": 283994
     }
   },
   "Netherlands": {
