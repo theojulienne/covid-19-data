@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 760584,
+      "confirmed": 761943,
       "date": "2021-05-02",
-      "deaths": 11510,
-      "recovered": 684671
+      "deaths": 11579,
+      "recovered": 687328
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 359982,
+      "confirmed": 361063,
       "date": "2021-05-02",
-      "deaths": 2552,
-      "recovered": 350433
+      "deaths": 2562,
+      "recovered": 351816
     }
   },
   "Belgium": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 334229,
+      "confirmed": 335173,
       "date": "2021-05-02",
-      "deaths": 7130,
-      "recovered": 312823
+      "deaths": 7182,
+      "recovered": 314839
     }
   },
   "Cuba": {
@@ -583,7 +583,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 102685,
+          "confirmed": 102690,
           "date": "2021-05-02",
           "deaths": 3574,
           "recovered": 92070
@@ -615,9 +615,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 140911,
+          "confirmed": 141424,
           "date": "2021-05-02",
-          "deaths": 3561,
+          "deaths": 3562,
           "recovered": 123800
         }
       },
@@ -998,7 +998,7 @@
           "confirmed": 141073,
           "date": "2021-05-02",
           "deaths": 1882,
-          "recovered": 130630
+          "recovered": 131393
         }
       }
     }
@@ -1069,10 +1069,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 177508,
+      "confirmed": 177871,
       "date": "2021-05-02",
-      "deaths": 3029,
-      "recovered": 163191
+      "deaths": 3039,
+      "recovered": 163716
     }
   },
   "Lithuania": {
@@ -1341,10 +1341,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1056572,
+      "confirmed": 1057655,
       "date": "2021-05-02",
-      "deaths": 28194,
-      "recovered": 992605
+      "deaths": 28282,
+      "recovered": 995506
     }
   },
   "Russia": {
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1300137,
+          "confirmed": 1300215,
           "date": "2021-05-02",
           "deaths": 19758
         }
@@ -1832,10 +1832,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 297126,
+      "confirmed": 297638,
       "date": "2021-05-02",
-      "deaths": 3257,
-      "recovered": 274275
+      "deaths": 3272,
+      "recovered": 275392
     }
   }
 }
