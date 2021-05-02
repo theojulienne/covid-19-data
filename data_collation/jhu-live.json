@@ -210,7 +210,7 @@
           "confirmed": 361209,
           "date": "2021-05-02",
           "deaths": 9643,
-          "recovered": 341272
+          "recovered": 342807
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 472986,
           "date": "2021-05-02",
           "deaths": 13083,
-          "recovered": 441079
+          "recovered": 442048
         }
       },
       "Paraiba": {
@@ -1289,10 +1289,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 279077,
+      "confirmed": 281023,
       "date": "2021-05-02",
-      "deaths": 6385,
-      "recovered": 229519
+      "deaths": 6476,
+      "recovered": 231517
     }
   },
   "Peru": {
