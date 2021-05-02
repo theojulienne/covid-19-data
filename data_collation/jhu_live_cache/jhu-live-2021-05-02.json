@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 126489,
+          "confirmed": 126959,
           "date": "2021-05-02",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 122444,
+          "confirmed": 122792,
           "date": "2021-05-02",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 113851,
+          "confirmed": 114233,
           "date": "2021-05-02",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 146378,
+          "confirmed": 146815,
           "date": "2021-05-02",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 121221,
+          "confirmed": 121503,
           "date": "2021-05-02",
           "deaths": 0,
           "recovered": 0
@@ -1029,10 +1029,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 122634,
+      "confirmed": 123240,
       "date": "2021-05-02",
-      "deaths": 1831,
-      "recovered": 112337
+      "deaths": 1833,
+      "recovered": 112865
     }
   },
   "Kosovo": {
@@ -1281,10 +1281,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 364576,
+      "confirmed": 364844,
       "date": "2021-05-02",
-      "deaths": 6232,
-      "recovered": 354385
+      "deaths": 6235,
+      "recovered": 354713
     }
   },
   "Paraguay": {
