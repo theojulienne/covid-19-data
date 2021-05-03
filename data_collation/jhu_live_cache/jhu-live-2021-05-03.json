@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 477138,
+          "confirmed": 478208,
           "date": "2021-05-03",
-          "deaths": 8070,
-          "recovered": 436048
+          "deaths": 8073,
+          "recovered": 437057
         }
       },
       "Quebec": {
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 141454,
+          "confirmed": 141909,
           "date": "2021-05-03",
-          "deaths": 3562,
+          "deaths": 3565,
           "recovered": 124500
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 265361,
+          "confirmed": 265851,
           "date": "2021-05-03",
-          "deaths": 9120,
-          "recovered": 236500
+          "deaths": 9136,
+          "recovered": 237300
         }
       },
       "Thuringen": {
@@ -869,10 +869,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1074930,
+      "confirmed": 1079998,
       "date": "2021-05-03",
-      "deaths": 15536,
-      "recovered": 957200
+      "deaths": 15566,
+      "recovered": 964551
     }
   },
   "Ireland": {
@@ -1137,10 +1137,10 @@
   },
   "Montenegro": {
     "live": {
-      "confirmed": 97619,
+      "confirmed": 97718,
       "date": "2021-05-03",
-      "deaths": 1505,
-      "recovered": 93874
+      "deaths": 1510,
+      "recovered": 94016
     }
   },
   "Morocco": {
@@ -1237,7 +1237,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 113469,
+      "confirmed": 113627,
       "date": "2021-05-03",
       "deaths": 757,
       "recovered": 17998
@@ -1325,10 +1325,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 837277,
+      "confirmed": 837457,
       "date": "2021-05-03",
       "deaths": 16977,
-      "recovered": 796721
+      "recovered": 797124
     }
   },
   "Qatar": {
@@ -1512,7 +1512,7 @@
       "confirmed": 111753,
       "date": "2021-05-03",
       "deaths": 696,
-      "recovered": 97848
+      "recovered": 98209
     }
   },
   "Sweden": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 663952,
       "date": "2021-05-03",
-      "deaths": 10649,
+      "deaths": 10653,
       "recovered": 317600
     }
   },
