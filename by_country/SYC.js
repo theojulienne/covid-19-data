@@ -937,6 +937,7 @@ var covid19_dataset_country_syc = {
       5456,
       5559,
       5873,
+      5873,
       5873
     ],
     "deaths": [
@@ -1405,6 +1406,7 @@ var covid19_dataset_country_syc = {
       26,
       26,
       28,
+      28,
       28
     ],
     "recovered": [
@@ -1872,6 +1874,7 @@ var covid19_dataset_country_syc = {
       4675,
       4675,
       4675,
+      5101,
       5101,
       5101
     ]
