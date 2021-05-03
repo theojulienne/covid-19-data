@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 126959,
+          "confirmed": 127330,
           "date": "2021-05-03",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 122792,
+          "confirmed": 123005,
           "date": "2021-05-03",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 114233,
+          "confirmed": 114559,
           "date": "2021-05-03",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 146815,
+          "confirmed": 147114,
           "date": "2021-05-03",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 121503,
+          "confirmed": 121618,
           "date": "2021-05-03",
           "deaths": 0,
           "recovered": 0
@@ -382,7 +382,7 @@
           "confirmed": 351880,
           "date": "2021-05-03",
           "deaths": 10942,
-          "recovered": 330362
+          "recovered": 331513
         }
       }
     }
@@ -429,7 +429,7 @@
         "live": {
           "confirmed": 797937,
           "date": "2021-05-03",
-          "deaths": 15729,
+          "deaths": 15766,
           "recovered": 735593
         }
       },
@@ -1029,10 +1029,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 123240,
+      "confirmed": 123728,
       "date": "2021-05-03",
-      "deaths": 1833,
-      "recovered": 112865
+      "deaths": 1834,
+      "recovered": 113356
     }
   },
   "Kosovo": {
@@ -1281,27 +1281,27 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 364844,
+      "confirmed": 365104,
       "date": "2021-05-03",
-      "deaths": 6235,
-      "recovered": 354713
+      "deaths": 6238,
+      "recovered": 354974
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 281023,
+      "confirmed": 282543,
       "date": "2021-05-03",
-      "deaths": 6476,
-      "recovered": 231517
+      "deaths": 6572,
+      "recovered": 233453
     }
   },
   "Peru": {
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 829001,
+          "confirmed": 833226,
           "date": "2021-05-03",
-          "deaths": 26959,
+          "deaths": 27188,
           "recovered": 0
         }
       }
@@ -1824,9 +1824,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 198865,
+      "confirmed": 200067,
       "date": "2021-05-03",
-      "deaths": 2155,
+      "deaths": 2172,
       "recovered": 180301
     }
   },
