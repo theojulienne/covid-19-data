@@ -1666,14 +1666,14 @@
     },
     "HND": {
       "back_1week": {
-        "confirmed": 205696,
-        "deaths": 5095,
-        "recovered": 77531
+        "confirmed": 206907,
+        "deaths": 5141,
+        "recovered": 77679
       },
       "back_2week": {
-        "confirmed": 200259,
-        "deaths": 4954,
-        "recovered": 76235
+        "confirmed": 200935,
+        "deaths": 4957,
+        "recovered": 76339
       },
       "latest": {
         "confirmed": 213167,
