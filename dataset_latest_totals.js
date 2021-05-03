@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 247010,
+        "confirmed": 247622,
         "deaths": 2474,
-        "recovered": 235065
+        "recovered": 235622
       },
       "back_2week": {
-        "confirmed": 241731,
+        "confirmed": 242633,
         "deaths": 2452,
-        "recovered": 230638
+        "recovered": 231166
       },
       "latest": {
-        "confirmed": 252045,
+        "confirmed": 252912,
         "deaths": 2489,
-        "recovered": 239913
+        "recovered": 240569
       },
       "states": {
         "Faroe Islands": {
@@ -1734,19 +1734,19 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 1636792,
-        "deaths": 44500,
-        "recovered": 1492322
+        "confirmed": 1641194,
+        "deaths": 44594,
+        "recovered": 1496126
       },
       "back_2week": {
-        "confirmed": 1599763,
-        "deaths": 43328,
-        "recovered": 1450192
+        "confirmed": 1604348,
+        "deaths": 43424,
+        "recovered": 1455065
       },
       "latest": {
-        "confirmed": 1672880,
-        "deaths": 45652,
-        "recovered": 1526978
+        "confirmed": 1677274,
+        "deaths": 45796,
+        "recovered": 1530718
       }
     },
     "IND": {
@@ -2623,19 +2623,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 297087,
-        "deaths": 3136,
-        "recovered": 277123
+        "confirmed": 300119,
+        "deaths": 3164,
+        "recovered": 277573
       },
       "back_2week": {
-        "confirmed": 283658,
-        "deaths": 3075,
-        "recovered": 275038
+        "confirmed": 284673,
+        "deaths": 3083,
+        "recovered": 275300
       },
       "latest": {
-        "confirmed": 328893,
-        "deaths": 3298,
-        "recovered": 282382
+        "confirmed": 336030,
+        "deaths": 3325,
+        "recovered": 283994
       }
     },
     "NZL": {

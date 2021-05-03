@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 252912,
+      "confirmed": 253673,
       "date": "2021-05-03",
       "deaths": 2490,
-      "recovered": 240569
+      "recovered": 241279
     }
   },
   "Dominican Republic": {
@@ -585,7 +585,7 @@
         "live": {
           "confirmed": 102837,
           "date": "2021-05-03",
-          "deaths": 3577,
+          "deaths": 3576,
           "recovered": 92380
         }
       },
@@ -853,10 +853,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1677274,
+      "confirmed": 1682004,
       "date": "2021-05-03",
-      "deaths": 45796,
-      "recovered": 1530718
+      "deaths": 45949,
+      "recovered": 1535491
     }
   },
   "Iran": {
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 336030,
+      "confirmed": 343418,
       "date": "2021-05-03",
-      "deaths": 3325,
-      "recovered": 283994
+      "deaths": 3362,
+      "recovered": 286015
     }
   },
   "Netherlands": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 659974,
       "date": "2021-05-03",
-      "deaths": 10644,
+      "deaths": 10648,
       "recovered": 317600
     }
   },
