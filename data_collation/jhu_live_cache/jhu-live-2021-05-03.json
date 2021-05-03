@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 216863,
+      "confirmed": 217008,
       "date": "2021-05-03",
-      "deaths": 4139,
-      "recovered": 199755
+      "deaths": 4149,
+      "recovered": 200472
     }
   },
   "Austria": {
@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1634114,
+      "confirmed": 1634619,
       "date": "2021-05-03",
-      "deaths": 29343,
-      "recovered": 1555215
+      "deaths": 29365,
+      "recovered": 1562295
     }
   },
   "Denmark": {
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 122685,
+      "confirmed": 122943,
       "date": "2021-05-03",
-      "deaths": 1168,
-      "recovered": 112267
+      "deaths": 1172,
+      "recovered": 112480
     }
   },
   "Ethiopia": {
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 782892,
+      "confirmed": 784111,
       "date": "2021-05-03",
-      "deaths": 27802,
-      "recovered": 523510
+      "deaths": 27908,
+      "recovered": 528201
     }
   },
   "India": {
@@ -1351,34 +1351,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1098718,
+          "confirmed": 1101353,
           "date": "2021-05-03",
-          "deaths": 18428,
-          "recovered": 994965
+          "deaths": 18486,
+          "recovered": 996373
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 251180,
+          "confirmed": 251821,
           "date": "2021-05-03",
-          "deaths": 5859,
-          "recovered": 206611
+          "deaths": 5874,
+          "recovered": 207013
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 114282,
+          "confirmed": 114429,
           "date": "2021-05-03",
-          "deaths": 3207,
-          "recovered": 109651
+          "deaths": 3221,
+          "recovered": 109830
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 417195,
+          "confirmed": 417899,
           "date": "2021-05-03",
-          "deaths": 13284,
-          "recovered": 376696
+          "deaths": 13318,
+          "recovered": 377451
         }
       }
     }
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 659974,
       "date": "2021-05-03",
-      "deaths": 10634,
+      "deaths": 10635,
       "recovered": 317600
     }
   },
