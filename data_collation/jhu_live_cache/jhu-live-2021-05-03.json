@@ -345,10 +345,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142838,
+      "confirmed": 142842,
       "date": "2021-05-03",
       "deaths": 3209,
-      "recovered": 131981
+      "recovered": 131989
     }
   },
   "Canada": {
@@ -1832,10 +1832,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 297638,
+      "confirmed": 298203,
       "date": "2021-05-03",
-      "deaths": 3272,
-      "recovered": 275392
+      "deaths": 3283,
+      "recovered": 276171
     }
   }
 }
