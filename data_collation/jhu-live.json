@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 600610,
+          "confirmed": 600734,
           "date": "2021-05-04",
-          "deaths": 14244,
+          "deaths": 14245,
           "recovered": 539700
         }
       },
@@ -869,10 +869,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2555587,
+      "confirmed": 2575737,
       "date": "2021-05-04",
-      "deaths": 72875,
-      "recovered": 2004949
+      "deaths": 73219,
+      "recovered": 2022586
     }
   },
   "Iraq": {
@@ -1393,9 +1393,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 693169,
+      "confirmed": 694473,
       "date": "2021-05-04",
-      "deaths": 6432,
+      "deaths": 6456,
       "recovered": 0
     }
   },
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 665585,
       "date": "2021-05-04",
-      "deaths": 10662,
+      "deaths": 10663,
       "recovered": 317600
     }
   },
