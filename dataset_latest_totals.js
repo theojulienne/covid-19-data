@@ -3759,7 +3759,6 @@ var covid19_dataset_latest_totals = {
         "WV": {
           "confirmed": 153128,
           "deaths": 2679,
-          "hospitalized": 4982,
           "recovered": 124983,
           "tested": 2640076
         },
