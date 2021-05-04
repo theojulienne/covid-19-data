@@ -162,7 +162,7 @@
           "confirmed": 909912,
           "date": "2021-05-04",
           "deaths": 18730,
-          "recovered": 872677
+          "recovered": 878399
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 439857,
           "date": "2021-05-04",
           "deaths": 9613,
-          "recovered": 411308
+          "recovered": 413174
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 554859,
           "date": "2021-05-04",
           "deaths": 15127,
-          "recovered": 526787
+          "recovered": 532499
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 1371818,
           "date": "2021-05-04",
           "deaths": 34313,
-          "recovered": 1261550
+          "recovered": 1269377
         }
       },
       "Para": {
@@ -250,7 +250,7 @@
           "confirmed": 955247,
           "date": "2021-05-04",
           "deaths": 22674,
-          "recovered": 682036
+          "recovered": 685666
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 980806,
           "date": "2021-05-04",
           "deaths": 25165,
-          "recovered": 943031
+          "recovered": 947857
         }
       },
       "Rio de Janeiro": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 484152,
+          "confirmed": 485172,
           "date": "2021-05-04",
-          "deaths": 8131,
-          "recovered": 444531
+          "deaths": 8146,
+          "recovered": 445861
         }
       },
       "Quebec": {
@@ -1571,9 +1571,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 653994,
+          "confirmed": 654517,
           "date": "2021-05-04",
-          "deaths": 12277
+          "deaths": 12283
         }
       },
       "California": {
@@ -1585,9 +1585,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 98443,
+          "confirmed": 98503,
           "date": "2021-05-04",
-          "deaths": 2167
+          "deaths": 2168
         }
       },
       "Florida": {
@@ -1620,7 +1620,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 132683,
+          "confirmed": 132810,
           "date": "2021-05-04",
           "deaths": 3725
         }
@@ -1692,7 +1692,7 @@
         "live": {
           "confirmed": 1303227,
           "date": "2021-05-04",
-          "deaths": 19775
+          "deaths": 19795
         }
       },
       "Utah": {
