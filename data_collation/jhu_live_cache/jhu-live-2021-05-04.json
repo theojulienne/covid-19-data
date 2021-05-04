@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 180462,
+      "confirmed": 181880,
       "date": "2021-05-04",
-      "deaths": 657,
-      "recovered": 168865
+      "deaths": 662,
+      "recovered": 169852
     }
   },
   "Bangladesh": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 405825,
+      "confirmed": 406192,
       "date": "2021-05-04",
-      "deaths": 16548,
-      "recovered": 341168
+      "deaths": 16609,
+      "recovered": 342226
     }
   },
   "Burma": {
@@ -358,7 +358,7 @@
           "confirmed": 196910,
           "date": "2021-05-04",
           "deaths": 2090,
-          "recovered": 171212
+          "recovered": 172931
         }
       },
       "British Columbia": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 256676,
+      "confirmed": 257980,
       "date": "2021-05-04",
-      "deaths": 3290,
-      "recovered": 205467
+      "deaths": 3310,
+      "recovered": 206319
     }
   },
   "Croatia": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 388046,
+      "confirmed": 391242,
       "date": "2021-05-04",
-      "deaths": 18765,
+      "deaths": 18863,
       "recovered": 329582
     }
   },
@@ -1467,9 +1467,9 @@
       },
       "Catalonia": {
         "live": {
-          "confirmed": 588394,
+          "confirmed": 587461,
           "date": "2021-05-04",
-          "deaths": 14152,
+          "deaths": 14191,
           "recovered": 26203
         }
       },
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1303227,
+          "confirmed": 1303624,
           "date": "2021-05-04",
           "deaths": 19795
         }
