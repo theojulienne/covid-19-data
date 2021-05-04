@@ -562,7 +562,7 @@
           "confirmed": 451468,
           "date": "2021-05-04",
           "deaths": 9410,
-          "recovered": 396300
+          "recovered": 399300
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 600610,
           "date": "2021-05-04",
           "deaths": 14244,
-          "recovered": 536100
+          "recovered": 539700
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 169576,
           "date": "2021-05-04",
           "deaths": 3228,
-          "recovered": 156700
+          "recovered": 157300
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 102965,
           "date": "2021-05-04",
           "deaths": 3593,
-          "recovered": 92380
+          "recovered": 92780
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 265989,
           "date": "2021-05-04",
           "deaths": 6933,
-          "recovered": 234000
+          "recovered": 235400
         }
       },
       "Niedersachsen": {
@@ -602,23 +602,23 @@
           "confirmed": 240906,
           "date": "2021-05-04",
           "deaths": 5344,
-          "recovered": 218800
+          "recovered": 220500
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
           "confirmed": 748455,
           "date": "2021-05-04",
-          "deaths": 15689,
-          "recovered": 659700
+          "deaths": 15690,
+          "recovered": 664500
         }
       },
       "Rheinland-Pfalz": {
         "live": {
           "confirmed": 141936,
           "date": "2021-05-04",
-          "deaths": 3564,
-          "recovered": 124500
+          "deaths": 3565,
+          "recovered": 125300
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 118180,
           "date": "2021-05-04",
           "deaths": 3888,
-          "recovered": 104600
+          "recovered": 105300
         }
       }
     }
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2807629,
+          "confirmed": 2807642,
           "date": "2021-05-04",
           "deaths": 48619
         }
