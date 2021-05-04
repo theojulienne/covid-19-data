@@ -248,19 +248,19 @@ var covid19_dataset_latest_totals = {
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 313006,
-        "deaths": 4371,
-        "recovered": 279179
+        "confirmed": 313812,
+        "deaths": 4402,
+        "recovered": 280403
       },
       "back_2week": {
-        "confirmed": 300666,
-        "deaths": 4140,
-        "recovered": 264403
+        "confirmed": 301661,
+        "deaths": 4169,
+        "recovered": 265539
       },
       "latest": {
-        "confirmed": 321380,
-        "deaths": 4561,
-        "recovered": 293689
+        "confirmed": 321798,
+        "deaths": 4580,
+        "recovered": 294784
       }
     },
     "BDI": {
@@ -2380,19 +2380,19 @@ var covid19_dataset_latest_totals = {
     },
     "MNE": {
       "back_1week": {
-        "confirmed": 96779,
-        "deaths": 1473,
-        "recovered": 92756
+        "confirmed": 96660,
+        "deaths": 1465,
+        "recovered": 92609
       },
       "back_2week": {
-        "confirmed": 95695,
-        "deaths": 1438,
-        "recovered": 91119
+        "confirmed": 95551,
+        "deaths": 1429,
+        "recovered": 90903
       },
       "latest": {
-        "confirmed": 97718,
-        "deaths": 1510,
-        "recovered": 94016
+        "confirmed": 97619,
+        "deaths": 1505,
+        "recovered": 93874
       }
     },
     "MNG": {
@@ -2810,19 +2810,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 202201,
-        "deaths": 428,
-        "recovered": 181522
+        "confirmed": 202904,
+        "deaths": 437,
+        "recovered": 183100
       },
       "back_2week": {
-        "confirmed": 196580,
-        "deaths": 382,
-        "recovered": 173970
+        "confirmed": 197476,
+        "deaths": 386,
+        "recovered": 174698
       },
       "latest": {
-        "confirmed": 206948,
-        "deaths": 472,
-        "recovered": 192551
+        "confirmed": 207592,
+        "deaths": 480,
+        "recovered": 194099
       }
     },
     "RKS": {
