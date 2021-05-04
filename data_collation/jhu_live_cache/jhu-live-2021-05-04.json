@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 335522,
+      "confirmed": 336918,
       "date": "2021-05-04",
-      "deaths": 7218,
-      "recovered": 316926
+      "deaths": 7264,
+      "recovered": 318621
     }
   },
   "Cuba": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838664,
+      "confirmed": 838670,
       "date": "2021-05-04",
       "deaths": 6369,
-      "recovered": 831036
+      "recovered": 831057
     }
   },
   "Italy": {
@@ -1061,10 +1061,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 119953,
+      "confirmed": 120378,
       "date": "2021-05-04",
-      "deaths": 2154,
-      "recovered": 109281
+      "deaths": 2159,
+      "recovered": 109480
     }
   },
   "Lebanon": {
@@ -1093,10 +1093,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 417512,
+      "confirmed": 420632,
       "date": "2021-05-04",
-      "deaths": 1551,
-      "recovered": 385208
+      "deaths": 1574,
+      "recovered": 387542
     }
   },
   "Mexico": {
@@ -1245,10 +1245,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 196900,
+      "confirmed": 197802,
       "date": "2021-05-04",
-      "deaths": 2053,
-      "recovered": 178052
+      "deaths": 2062,
+      "recovered": 179175
     }
   },
   "Pakistan": {
@@ -1309,17 +1309,17 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1062225,
+      "confirmed": 1067892,
       "date": "2021-05-04",
-      "deaths": 17525,
-      "recovered": 975234
+      "deaths": 17622,
+      "recovered": 984210
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2805756,
+      "confirmed": 2808052,
       "date": "2021-05-04",
-      "deaths": 68105,
+      "deaths": 68133,
       "recovered": 2536931
     }
   },
@@ -1409,10 +1409,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 241883,
+      "confirmed": 242777,
       "date": "2021-05-04",
-      "deaths": 4269,
-      "recovered": 228110
+      "deaths": 4273,
+      "recovered": 228829
     }
   },
   "South Africa": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 663952,
       "date": "2021-05-04",
-      "deaths": 10656,
+      "deaths": 10658,
       "recovered": 317600
     }
   },
