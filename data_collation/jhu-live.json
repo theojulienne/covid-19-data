@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 127330,
+          "confirmed": 127541,
           "date": "2021-05-04",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 123005,
+          "confirmed": 123218,
           "date": "2021-05-04",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 114559,
+          "confirmed": 114694,
           "date": "2021-05-04",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 147114,
+          "confirmed": 147230,
           "date": "2021-05-04",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 121618,
+          "confirmed": 121696,
           "date": "2021-05-04",
           "deaths": 0,
           "recovered": 0
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 307561,
+      "confirmed": 308984,
       "date": "2021-05-04",
-      "deaths": 13021,
-      "recovered": 253406
+      "deaths": 13035,
+      "recovered": 254683
     }
   },
   "Bosnia and Herzegovina": {
@@ -266,7 +266,7 @@
           "confirmed": 242934,
           "date": "2021-05-04",
           "deaths": 5182,
-          "recovered": 236600
+          "recovered": 237608
         }
       },
       "Rio Grande do Norte": {
@@ -1029,10 +1029,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 123728,
+      "confirmed": 124269,
       "date": "2021-05-04",
-      "deaths": 1834,
-      "recovered": 113356
+      "deaths": 1840,
+      "recovered": 114128
     }
   },
   "Kosovo": {
