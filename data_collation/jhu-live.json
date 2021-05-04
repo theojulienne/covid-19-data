@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 483919,
+          "confirmed": 484152,
           "date": "2021-05-04",
-          "deaths": 8127,
-          "recovered": 444183
+          "deaths": 8131,
+          "recovered": 444531
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 258813,
+      "confirmed": 259354,
       "date": "2021-05-04",
-      "deaths": 3757,
-      "recovered": 201156
+      "deaths": 3772,
+      "recovered": 202679
     }
   },
   "France": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838688,
+      "confirmed": 838697,
       "date": "2021-05-04",
       "deaths": 6369,
-      "recovered": 831084
+      "recovered": 831090
     }
   },
   "Italy": {
@@ -1417,10 +1417,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1584961,
+      "confirmed": 1586148,
       "date": "2021-05-04",
-      "deaths": 54452,
-      "recovered": 1508558
+      "deaths": 54511,
+      "recovered": 1509656
     }
   },
   "Spain": {
@@ -1553,10 +1553,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 312747,
+      "confirmed": 314152,
       "date": "2021-05-04",
-      "deaths": 10915,
-      "recovered": 264730
+      "deaths": 11016,
+      "recovered": 266696
     }
   },
   "Turkey": {
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2807785,
+          "confirmed": 2808201,
           "date": "2021-05-04",
-          "deaths": 48626
+          "deaths": 48636
         }
       },
       "Connecticut": {
@@ -1599,7 +1599,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 100985,
+          "confirmed": 101091,
           "date": "2021-05-04",
           "deaths": 1145
         }
@@ -1697,9 +1697,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 148320,
+          "confirmed": 148411,
           "date": "2021-05-04",
-          "deaths": 848
+          "deaths": 854
         }
       },
       "Washington": {
