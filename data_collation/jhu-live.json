@@ -1061,9 +1061,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 120378,
+      "confirmed": 120736,
       "date": "2021-05-05",
-      "deaths": 2159,
+      "deaths": 2166,
       "recovered": 110153
     }
   },
@@ -1309,18 +1309,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1067892,
+      "confirmed": 1073555,
       "date": "2021-05-05",
-      "deaths": 17622,
-      "recovered": 984210
+      "deaths": 17800,
+      "recovered": 993042
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2808052,
+      "confirmed": 2811951,
       "date": "2021-05-05",
-      "deaths": 68133,
-      "recovered": 2536931
+      "deaths": 68482,
+      "recovered": 2540684
     }
   },
   "Portugal": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 665585,
       "date": "2021-05-05",
-      "deaths": 10671,
+      "deaths": 10672,
       "recovered": 317600
     }
   },
