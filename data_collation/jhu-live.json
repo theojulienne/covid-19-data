@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 383164,
+      "confirmed": 385491,
       "date": "2021-05-05",
-      "deaths": 3352,
-      "recovered": 333578
+      "deaths": 3357,
+      "recovered": 336306
     }
   },
   "Kenya": {
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1303624,
+          "confirmed": 1303794,
           "date": "2021-05-05",
           "deaths": 19795
         }
