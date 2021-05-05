@@ -394,15 +394,15 @@
           "confirmed": 116887,
           "date": "2021-05-05",
           "deaths": 1899,
-          "recovered": 111928
+          "recovered": 112499
         }
       },
       "Metropolitana": {
         "live": {
           "confirmed": 505560,
           "date": "2021-05-05",
-          "deaths": 14300,
-          "recovered": 477077
+          "deaths": 14329,
+          "recovered": 478897
         }
       }
     }
@@ -1013,10 +1013,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 715703,
+      "confirmed": 716923,
       "date": "2021-05-05",
-      "deaths": 8955,
-      "recovered": 694427
+      "deaths": 8988,
+      "recovered": 696524
     }
   },
   "Kazakhstan": {
@@ -1385,10 +1385,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 421300,
+      "confirmed": 422316,
       "date": "2021-05-05",
-      "deaths": 7006,
-      "recovered": 404707
+      "deaths": 7018,
+      "recovered": 405607
     }
   },
   "Serbia": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 667380,
       "date": "2021-05-05",
-      "deaths": 10677,
+      "deaths": 10678,
       "recovered": 317600
     }
   },
@@ -1683,9 +1683,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 246228,
+          "confirmed": 246386,
           "date": "2021-05-05",
-          "deaths": 5386
+          "deaths": 5390
         }
       },
       "Texas": {
@@ -1782,15 +1782,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3865013,
+          "confirmed": 3866919,
           "date": "2021-05-05",
-          "deaths": 112186,
+          "deaths": 112213,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 120501,
+          "confirmed": 120600,
           "date": "2021-05-05",
           "deaths": 2146,
           "recovered": 0
@@ -1798,7 +1798,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 226644,
+          "confirmed": 226729,
           "date": "2021-05-05",
           "deaths": 7660,
           "recovered": 0
@@ -1806,7 +1806,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 211638,
+          "confirmed": 211692,
           "date": "2021-05-05",
           "deaths": 5551,
           "recovered": 0
@@ -1832,10 +1832,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 298921,
+      "confirmed": 299736,
       "date": "2021-05-05",
-      "deaths": 3296,
-      "recovered": 277673
+      "deaths": 3317,
+      "recovered": 279652
     }
   }
 }
