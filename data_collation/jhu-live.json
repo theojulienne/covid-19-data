@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 181880,
+      "confirmed": 183330,
       "date": "2021-05-05",
-      "deaths": 662,
-      "recovered": 169852
+      "deaths": 664,
+      "recovered": 170886
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 487626,
+          "confirmed": 488535,
           "date": "2021-05-05",
-          "deaths": 8165,
-          "recovered": 448519
+          "deaths": 8173,
+          "recovered": 449670
         }
       },
       "Quebec": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838761,
+      "confirmed": 838767,
       "date": "2021-05-05",
       "deaths": 6370,
-      "recovered": 831215
+      "recovered": 831218
     }
   },
   "Italy": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 667380,
       "date": "2021-05-05",
-      "deaths": 10683,
+      "deaths": 10685,
       "recovered": 317600
     }
   },
@@ -1585,7 +1585,7 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 98503,
+          "confirmed": 98651,
           "date": "2021-05-05",
           "deaths": 2168
         }
@@ -1692,7 +1692,7 @@
         "live": {
           "confirmed": 1303977,
           "date": "2021-05-05",
-          "deaths": 19797
+          "deaths": 19822
         }
       },
       "Utah": {
