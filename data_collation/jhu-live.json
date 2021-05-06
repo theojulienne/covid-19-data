@@ -154,7 +154,7 @@
           "confirmed": 373402,
           "date": "2021-05-06",
           "deaths": 12691,
-          "recovered": 318611
+          "recovered": 320074
         }
       },
       "Bahia": {
@@ -242,7 +242,7 @@
           "confirmed": 297586,
           "date": "2021-05-06",
           "deaths": 6939,
-          "recovered": 204944
+          "recovered": 206044
         }
       },
       "Parana": {
@@ -298,7 +298,7 @@
           "confirmed": 214879,
           "date": "2021-05-06",
           "deaths": 5265,
-          "recovered": 199908
+          "recovered": 202510
         }
       },
       "Santa Catarina": {
@@ -314,7 +314,7 @@
           "confirmed": 2956210,
           "date": "2021-05-06",
           "deaths": 98710,
-          "recovered": 2624056
+          "recovered": 2641113
         }
       },
       "Sergipe": {
