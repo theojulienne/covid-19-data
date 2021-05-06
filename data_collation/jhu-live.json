@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 323841,
+      "confirmed": 324685,
       "date": "2021-05-06",
-      "deaths": 4617,
-      "recovered": 298949
+      "deaths": 4635,
+      "recovered": 301006
     }
   },
   "Bahrain": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 254482,
+      "confirmed": 256482,
       "date": "2021-05-06",
-      "deaths": 2491,
-      "recovered": 242159
+      "deaths": 2493,
+      "recovered": 243718
     }
   },
   "Dominican Republic": {
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 606639,
+          "confirmed": 607104,
           "date": "2021-05-06",
-          "deaths": 14318,
+          "deaths": 14325,
           "recovered": 547400
         }
       },
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 143452,
+          "confirmed": 144187,
           "date": "2021-05-06",
-          "deaths": 3590,
+          "deaths": 3608,
           "recovered": 127200
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 268919,
+          "confirmed": 270436,
           "date": "2021-05-06",
-          "deaths": 9207,
-          "recovered": 241500
+          "deaths": 9229,
+          "recovered": 243100
         }
       },
       "Thuringen": {
@@ -877,10 +877,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1091954,
+      "confirmed": 1098187,
       "date": "2021-05-06",
-      "deaths": 15640,
-      "recovered": 979041
+      "deaths": 15673,
+      "recovered": 986134
     }
   },
   "Ireland": {
@@ -1385,10 +1385,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 422316,
+      "confirmed": 423406,
       "date": "2021-05-06",
-      "deaths": 7018,
-      "recovered": 405607
+      "deaths": 7032,
+      "recovered": 406589
     }
   },
   "Serbia": {
@@ -1512,7 +1512,7 @@
       "confirmed": 117529,
       "date": "2021-05-06",
       "deaths": 734,
-      "recovered": 100075
+      "recovered": 100885
     }
   },
   "Sweden": {
@@ -1545,7 +1545,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 667380,
+      "confirmed": 669067,
       "date": "2021-05-06",
       "deaths": 10694,
       "recovered": 317600
@@ -1832,10 +1832,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 299736,
+      "confirmed": 300387,
       "date": "2021-05-06",
-      "deaths": 3317,
-      "recovered": 279652
+      "deaths": 3326,
+      "recovered": 281586
     }
   }
 }
