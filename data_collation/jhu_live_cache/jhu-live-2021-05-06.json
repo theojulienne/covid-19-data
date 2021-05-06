@@ -266,7 +266,7 @@
           "confirmed": 245160,
           "date": "2021-05-06",
           "deaths": 5235,
-          "recovered": 238776
+          "recovered": 240515
         }
       },
       "Rio Grande do Norte": {
@@ -411,49 +411,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 479502,
+          "confirmed": 481445,
           "date": "2021-05-06",
-          "deaths": 10100,
+          "deaths": 10171,
           "recovered": 449931
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 242778,
+          "confirmed": 244327,
           "date": "2021-05-06",
-          "deaths": 7181,
+          "deaths": 7239,
           "recovered": 227412
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 805856,
+          "confirmed": 809891,
           "date": "2021-05-06",
-          "deaths": 16015,
+          "deaths": 16090,
           "recovered": 745334
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 131000,
+          "confirmed": 131670,
           "date": "2021-05-06",
-          "deaths": 3490,
+          "deaths": 3521,
           "recovered": 123313
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 107113,
+          "confirmed": 107688,
           "date": "2021-05-06",
-          "deaths": 3769,
+          "deaths": 3784,
           "recovered": 99499
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 239898,
+          "confirmed": 240833,
           "date": "2021-05-06",
-          "deaths": 7465,
+          "deaths": 7502,
           "recovered": 227457
         }
       }
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 231803,
+      "confirmed": 232905,
       "date": "2021-05-06",
-      "deaths": 13591,
-      "recovered": 173341
+      "deaths": 13655,
+      "recovered": 174217
     }
   },
   "Estonia": {
@@ -1103,33 +1103,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 643067,
+          "confirmed": 643861,
           "date": "2021-05-06",
-          "deaths": 32650,
+          "deaths": 32690,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 130920,
+          "confirmed": 131005,
           "date": "2021-05-06",
-          "deaths": 10663,
+          "deaths": 10668,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 244953,
+          "confirmed": 245277,
           "date": "2021-05-06",
-          "deaths": 34068,
+          "deaths": 34095,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 122757,
+          "confirmed": 122846,
           "date": "2021-05-06",
-          "deaths": 9399,
+          "deaths": 9405,
           "recovered": 0
         }
       }
