@@ -250,7 +250,7 @@
           "confirmed": 965949,
           "date": "2021-05-06",
           "deaths": 23249,
-          "recovered": 685666
+          "recovered": 691114
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 992471,
           "date": "2021-05-06",
           "deaths": 25544,
-          "recovered": 953933
+          "recovered": 955021
         }
       },
       "Rio de Janeiro": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 490644,
+          "confirmed": 490929,
           "date": "2021-05-06",
-          "deaths": 8187,
-          "recovered": 451837
+          "deaths": 8191,
+          "recovered": 452186
         }
       },
       "Quebec": {
@@ -1221,10 +1221,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 165273,
+      "confirmed": 165285,
       "date": "2021-05-06",
       "deaths": 2065,
-      "recovered": 155403
+      "recovered": 155413
     }
   },
   "North Macedonia": {
@@ -1417,10 +1417,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1588221,
+      "confirmed": 1590370,
       "date": "2021-05-06",
-      "deaths": 54557,
-      "recovered": 1510385
+      "deaths": 54620,
+      "recovered": 1511905
     }
   },
   "Spain": {
@@ -1571,14 +1571,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 655094,
+          "confirmed": 655492,
           "date": "2021-05-06",
-          "deaths": 12287
+          "deaths": 12292
         }
       },
       "California": {
         "live": {
-          "confirmed": 2809671,
+          "confirmed": 2809801,
           "date": "2021-05-06",
           "deaths": 48725
         }
@@ -1599,9 +1599,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101178,
+          "confirmed": 101244,
           "date": "2021-05-06",
-          "deaths": 1147
+          "deaths": 1150
         }
       },
       "Illinois": {
