@@ -162,7 +162,7 @@
           "confirmed": 916951,
           "date": "2021-05-06",
           "deaths": 18897,
-          "recovered": 882231
+          "recovered": 885369
         }
       },
       "Ceara": {
@@ -282,7 +282,7 @@
           "confirmed": 992471,
           "date": "2021-05-06",
           "deaths": 25544,
-          "recovered": 952565
+          "recovered": 953933
         }
       },
       "Rio de Janeiro": {
@@ -330,7 +330,7 @@
           "confirmed": 162321,
           "date": "2021-05-06",
           "deaths": 2615,
-          "recovered": 144193
+          "recovered": 145450
         }
       }
     }
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 260139,
+      "confirmed": 260802,
       "date": "2021-05-06",
-      "deaths": 3795,
-      "recovered": 203408
+      "deaths": 3822,
+      "recovered": 205458
     }
   },
   "France": {
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2809609,
+          "confirmed": 2809671,
           "date": "2021-05-06",
-          "deaths": 48712
+          "deaths": 48725
         }
       },
       "Connecticut": {
@@ -1592,9 +1592,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1242926,
+          "confirmed": 1245307,
           "date": "2021-05-06",
-          "deaths": 16309
+          "deaths": 16344
         }
       },
       "Georgia": {
@@ -1627,9 +1627,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 270233,
+          "confirmed": 271434,
           "date": "2021-05-06",
-          "deaths": 6928
+          "deaths": 6977
         }
       },
       "Minnesota": {
@@ -1692,7 +1692,7 @@
         "live": {
           "confirmed": 1304862,
           "date": "2021-05-06",
-          "deaths": 19825
+          "deaths": 19843
         }
       },
       "Utah": {
@@ -1711,9 +1711,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 115400,
+          "confirmed": 115554,
           "date": "2021-05-06",
-          "deaths": 1347
+          "deaths": 1348
         }
       }
     }
