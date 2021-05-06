@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 123781,
+      "confirmed": 124147,
       "date": "2021-05-06",
-      "deaths": 1183,
-      "recovered": 114033
+      "deaths": 1187,
+      "recovered": 114618
     }
   },
   "Ethiopia": {
@@ -1003,7 +1003,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 143011,
+          "confirmed": 143602,
           "date": "2021-05-06",
           "deaths": 1883,
           "recovered": 133488
@@ -1320,7 +1320,7 @@
       "confirmed": 2811951,
       "date": "2021-05-06",
       "deaths": 68482,
-      "recovered": 2540684
+      "recovered": 2546751
     }
   },
   "Portugal": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 667380,
       "date": "2021-05-06",
-      "deaths": 10685,
+      "deaths": 10686,
       "recovered": 317600
     }
   },
