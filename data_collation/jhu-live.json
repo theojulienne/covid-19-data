@@ -138,7 +138,7 @@
           "confirmed": 176835,
           "date": "2021-05-06",
           "deaths": 4311,
-          "recovered": 166575
+          "recovered": 168236
         }
       },
       "Amapa": {
@@ -218,7 +218,7 @@
           "confirmed": 252449,
           "date": "2021-05-06",
           "deaths": 5898,
-          "recovered": 237704
+          "recovered": 238768
         }
       },
       "Minas Gerais": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 490929,
+          "confirmed": 491926,
           "date": "2021-05-06",
-          "deaths": 8191,
-          "recovered": 452186
+          "deaths": 8202,
+          "recovered": 453379
         }
       },
       "Quebec": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838817,
+      "confirmed": 838828,
       "date": "2021-05-06",
-      "deaths": 6371,
-      "recovered": 831228
+      "deaths": 6374,
+      "recovered": 831279
     }
   },
   "Italy": {
@@ -1578,16 +1578,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2809801,
+          "confirmed": 2810264,
           "date": "2021-05-06",
-          "deaths": 48725
+          "deaths": 48728
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 98651,
+          "confirmed": 98850,
           "date": "2021-05-06",
-          "deaths": 2168
+          "deaths": 2169
         }
       },
       "Florida": {
@@ -1620,7 +1620,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 132967,
+          "confirmed": 133161,
           "date": "2021-05-06",
           "deaths": 3729
         }
