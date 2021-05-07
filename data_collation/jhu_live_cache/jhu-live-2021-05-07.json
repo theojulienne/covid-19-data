@@ -162,7 +162,7 @@
           "confirmed": 920422,
           "date": "2021-05-07",
           "deaths": 18980,
-          "recovered": 885369
+          "recovered": 889109
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 444634,
           "date": "2021-05-07",
           "deaths": 9784,
-          "recovered": 417296
+          "recovered": 418931
         }
       },
       "Goias": {
@@ -314,7 +314,7 @@
           "confirmed": 2969680,
           "date": "2021-05-07",
           "deaths": 99406,
-          "recovered": 2646811
+          "recovered": 2650311
         }
       },
       "Sergipe": {
@@ -1137,10 +1137,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 252153,
+      "confirmed": 252413,
       "date": "2021-05-07",
-      "deaths": 5912,
-      "recovered": 242363
+      "deaths": 5929,
+      "recovered": 242796
     }
   },
   "Morocco": {
@@ -1627,9 +1627,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 271434,
+          "confirmed": 272632,
           "date": "2021-05-07",
-          "deaths": 6977
+          "deaths": 6989
         }
       },
       "Minnesota": {
@@ -1711,7 +1711,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 115554,
+          "confirmed": 115667,
           "date": "2021-05-07",
           "deaths": 1348
         }
