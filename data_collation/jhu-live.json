@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 128504,
+          "confirmed": 128975,
           "date": "2021-05-07",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 123923,
+          "confirmed": 124269,
           "date": "2021-05-07",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 115532,
+          "confirmed": 115967,
           "date": "2021-05-07",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 148169,
+          "confirmed": 148646,
           "date": "2021-05-07",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 122462,
+          "confirmed": 122785,
           "date": "2021-05-07",
           "deaths": 0,
           "recovered": 0
@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 481445,
+          "confirmed": 483550,
           "date": "2021-05-07",
-          "deaths": 10171,
-          "recovered": 452013
+          "deaths": 10250,
+          "recovered": 454781
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 244327,
+          "confirmed": 245941,
           "date": "2021-05-07",
-          "deaths": 7239,
-          "recovered": 229345
+          "deaths": 7291,
+          "recovered": 231616
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 809891,
+          "confirmed": 814615,
           "date": "2021-05-07",
-          "deaths": 16090,
-          "recovered": 749909
+          "deaths": 16160,
+          "recovered": 754293
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 131670,
+          "confirmed": 132343,
           "date": "2021-05-07",
-          "deaths": 3521,
-          "recovered": 124492
+          "deaths": 3540,
+          "recovered": 125473
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 107688,
+          "confirmed": 108266,
           "date": "2021-05-07",
-          "deaths": 3784,
-          "recovered": 100337
+          "deaths": 3801,
+          "recovered": 100858
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 240833,
+          "confirmed": 241550,
           "date": "2021-05-07",
-          "deaths": 7502,
-          "recovered": 228217
+          "deaths": 7535,
+          "recovered": 229221
         }
       }
     }
@@ -1037,10 +1037,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 125519,
+      "confirmed": 126044,
       "date": "2021-05-07",
-      "deaths": 1851,
-      "recovered": 115491
+      "deaths": 1860,
+      "recovered": 116022
     }
   },
   "Kosovo": {
@@ -1103,31 +1103,31 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 643861,
+          "confirmed": 644697,
           "date": "2021-05-07",
-          "deaths": 32690,
+          "deaths": 32733,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 131005,
+          "confirmed": 131042,
           "date": "2021-05-07",
-          "deaths": 10668,
+          "deaths": 10669,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 245277,
+          "confirmed": 245541,
           "date": "2021-05-07",
-          "deaths": 34095,
+          "deaths": 34120,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 122846,
+          "confirmed": 122914,
           "date": "2021-05-07",
           "deaths": 9405,
           "recovered": 0
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2810594,
+          "confirmed": 2810968,
           "date": "2021-05-07",
           "deaths": 48739
         }
