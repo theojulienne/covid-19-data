@@ -138,7 +138,7 @@
           "confirmed": 177434,
           "date": "2021-05-07",
           "deaths": 4329,
-          "recovered": 168236
+          "recovered": 169945
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 298776,
           "date": "2021-05-07",
           "deaths": 6964,
-          "recovered": 206044
+          "recovered": 212221
         }
       },
       "Parana": {
@@ -290,7 +290,7 @@
           "confirmed": 770401,
           "date": "2021-05-07",
           "deaths": 45914,
-          "recovered": 695771
+          "recovered": 722012
         }
       },
       "Rondonia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 494206,
+          "confirmed": 494884,
           "date": "2021-05-07",
-          "deaths": 8215,
-          "recovered": 456002
+          "deaths": 8229,
+          "recovered": 457032
         }
       },
       "Quebec": {
@@ -1013,9 +1013,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 717930,
+      "confirmed": 718632,
       "date": "2021-05-07",
-      "deaths": 9014,
+      "deaths": 9047,
       "recovered": 699460
     }
   },
@@ -1585,9 +1585,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 98850,
+          "confirmed": 98965,
           "date": "2021-05-07",
-          "deaths": 2169
+          "deaths": 2173
         }
       },
       "Florida": {
@@ -1620,9 +1620,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 133161,
+          "confirmed": 133329,
           "date": "2021-05-07",
-          "deaths": 3729
+          "deaths": 3731
         }
       },
       "Michigan": {
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1305833,
+          "confirmed": 1306065,
           "date": "2021-05-07",
           "deaths": 19875
         }
