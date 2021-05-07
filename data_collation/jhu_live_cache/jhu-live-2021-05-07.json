@@ -170,7 +170,7 @@
           "confirmed": 697560,
           "date": "2021-05-07",
           "deaths": 18167,
-          "recovered": 460112
+          "recovered": 464084
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 563329,
           "date": "2021-05-07",
           "deaths": 15467,
-          "recovered": 535812
+          "recovered": 537619
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 368041,
           "date": "2021-05-07",
           "deaths": 9877,
-          "recovered": 348553
+          "recovered": 349973
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 480129,
           "date": "2021-05-07",
           "deaths": 13391,
-          "recovered": 447759
+          "recovered": 449460
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 246871,
           "date": "2021-05-07",
           "deaths": 5260,
-          "recovered": 240515
+          "recovered": 241822
         }
       },
       "Rio Grande do Norte": {
@@ -314,7 +314,7 @@
           "confirmed": 2969680,
           "date": "2021-05-07",
           "deaths": 99406,
-          "recovered": 2641113
+          "recovered": 2646811
         }
       },
       "Sergipe": {
@@ -562,7 +562,7 @@
           "confirmed": 461325,
           "date": "2021-05-07",
           "deaths": 9488,
-          "recovered": 406000
+          "recovered": 409200
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 609616,
           "date": "2021-05-07",
           "deaths": 14367,
-          "recovered": 547400
+          "recovered": 550700
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 171737,
           "date": "2021-05-07",
           "deaths": 3254,
-          "recovered": 159200
+          "recovered": 160200
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 104342,
           "date": "2021-05-07",
           "deaths": 3619,
-          "recovered": 93920
+          "recovered": 94480
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 270669,
           "date": "2021-05-07",
           "deaths": 7026,
-          "recovered": 238900
+          "recovered": 240700
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 244980,
           "date": "2021-05-07",
           "deaths": 5386,
-          "recovered": 223800
+          "recovered": 225300
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 761517,
           "date": "2021-05-07",
           "deaths": 15863,
-          "recovered": 675000
+          "recovered": 679800
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 144219,
           "date": "2021-05-07",
           "deaths": 3608,
-          "recovered": 127200
+          "recovered": 128200
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 120382,
           "date": "2021-05-07",
           "deaths": 3915,
-          "recovered": 106800
+          "recovered": 107500
         }
       }
     }
@@ -1255,26 +1255,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 121728,
+          "confirmed": 122520,
           "date": "2021-05-07",
-          "deaths": 3497,
-          "recovered": 107370
+          "deaths": 3537,
+          "recovered": 108462
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 312522,
+          "confirmed": 314517,
           "date": "2021-05-07",
-          "deaths": 8809,
-          "recovered": 262555
+          "deaths": 8891,
+          "recovered": 264647
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 288680,
+          "confirmed": 289646,
           "date": "2021-05-07",
-          "deaths": 4691,
-          "recovered": 266718
+          "deaths": 4698,
+          "recovered": 267524
         }
       }
     }
