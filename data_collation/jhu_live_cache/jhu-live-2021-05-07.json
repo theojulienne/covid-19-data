@@ -1341,10 +1341,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1062527,
+      "confirmed": 1063949,
       "date": "2021-05-07",
-      "deaths": 28710,
-      "recovered": 1005623
+      "deaths": 28799,
+      "recovered": 1009237
     }
   },
   "Russia": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 669067,
       "date": "2021-05-07",
-      "deaths": 10697,
+      "deaths": 10698,
       "recovered": 317600
     }
   },
