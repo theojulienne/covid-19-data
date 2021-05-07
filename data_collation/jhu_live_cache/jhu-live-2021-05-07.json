@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 492949,
+          "confirmed": 493889,
           "date": "2021-05-07",
-          "deaths": 8211,
-          "recovered": 454641
+          "deaths": 8214,
+          "recovered": 455655
         }
       },
       "Quebec": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 395327,
+      "confirmed": 396888,
       "date": "2021-05-07",
-      "deaths": 19018,
+      "deaths": 19061,
       "recovered": 329582
     }
   },
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5679730,
+      "confirmed": 5698706,
       "date": "2021-05-07",
-      "deaths": 105119,
-      "recovered": 312621
+      "deaths": 105370,
+      "recovered": 314146
     }
   },
   "Georgia": {
@@ -593,7 +593,7 @@
         "live": {
           "confirmed": 270669,
           "date": "2021-05-07",
-          "deaths": 7029,
+          "deaths": 7026,
           "recovered": 240700
         }
       },
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2811069,
+          "confirmed": 2811252,
           "date": "2021-05-07",
-          "deaths": 48739
+          "deaths": 48767
         }
       },
       "Connecticut": {
@@ -1592,9 +1592,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1245307,
+          "confirmed": 1247502,
           "date": "2021-05-07",
-          "deaths": 16344
+          "deaths": 16379
         }
       },
       "Georgia": {
@@ -1648,16 +1648,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 245693,
+          "confirmed": 246106,
           "date": "2021-05-07",
-          "deaths": 4323
+          "deaths": 4330
         }
       },
       "New Jersey": {
         "live": {
-          "confirmed": 103082,
+          "confirmed": 103164,
           "date": "2021-05-07",
-          "deaths": 2840
+          "deaths": 2842
         }
       },
       "New York": {
@@ -1676,9 +1676,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 237018,
+          "confirmed": 237433,
           "date": "2021-05-07",
-          "deaths": 3499
+          "deaths": 3515
         }
       },
       "Pennsylvania": {
@@ -1690,9 +1690,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1305723,
+          "confirmed": 1305833,
           "date": "2021-05-07",
-          "deaths": 19843
+          "deaths": 19851
         }
       },
       "Utah": {
