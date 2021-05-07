@@ -345,10 +345,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 142874,
+      "confirmed": 142903,
       "date": "2021-05-07",
       "deaths": 3210,
-      "recovered": 131999
+      "recovered": 132000
     }
   },
   "Canada": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 341052,
+      "confirmed": 342487,
       "date": "2021-05-07",
-      "deaths": 7355,
-      "recovered": 321755
+      "deaths": 7388,
+      "recovered": 323834
     }
   },
   "Cuba": {
@@ -575,9 +575,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 171737,
+          "confirmed": 171752,
           "date": "2021-05-07",
-          "deaths": 3254,
+          "deaths": 3255,
           "recovered": 160200
         }
       },
@@ -1317,10 +1317,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2818378,
+      "confirmed": 2824425,
       "date": "2021-05-07",
-      "deaths": 68993,
-      "recovered": 2546751
+      "deaths": 69445,
+      "recovered": 2555059
     }
   },
   "Portugal": {
@@ -1351,34 +1351,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1107949,
+          "confirmed": 1110795,
           "date": "2021-05-07",
-          "deaths": 18662,
-          "recovered": 1001798
+          "deaths": 18722,
+          "recovered": 1004060
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 253647,
+          "confirmed": 254255,
           "date": "2021-05-07",
-          "deaths": 5901,
-          "recovered": 208299
+          "deaths": 5910,
+          "recovered": 208727
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 114764,
+          "confirmed": 114871,
           "date": "2021-05-07",
-          "deaths": 3256,
-          "recovered": 110249
+          "deaths": 3271,
+          "recovered": 110356
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 420034,
+          "confirmed": 420756,
           "date": "2021-05-07",
-          "deaths": 13420,
-          "recovered": 380006
+          "deaths": 13451,
+          "recovered": 380877
         }
       }
     }
