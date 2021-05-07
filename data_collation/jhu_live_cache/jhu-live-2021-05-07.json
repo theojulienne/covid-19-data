@@ -1724,48 +1724,48 @@
         "live": {
           "confirmed": 124662,
           "date": "2021-05-07",
-          "deaths": 3452,
-          "recovered": 102264
+          "deaths": 3490,
+          "recovered": 102900
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 138407,
+          "confirmed": 139398,
           "date": "2021-05-07",
-          "deaths": 2849,
-          "recovered": 112276
+          "deaths": 2865,
+          "recovered": 113383
         }
       },
       "Kiev": {
         "live": {
           "confirmed": 197968,
           "date": "2021-05-07",
-          "deaths": 4720,
-          "recovered": 125315
+          "deaths": 4750,
+          "recovered": 126618
         }
       },
       "Kiev Oblast": {
         "live": {
           "confirmed": 119980,
           "date": "2021-05-07",
-          "deaths": 2428,
-          "recovered": 102647
+          "deaths": 2458,
+          "recovered": 104067
         }
       },
       "Lviv Oblast": {
         "live": {
           "confirmed": 130836,
           "date": "2021-05-07",
-          "deaths": 3329,
-          "recovered": 105726
+          "deaths": 3345,
+          "recovered": 107135
         }
       },
       "Odessa Oblast": {
         "live": {
           "confirmed": 135610,
           "date": "2021-05-07",
-          "deaths": 2616,
-          "recovered": 103614
+          "deaths": 2642,
+          "recovered": 104706
         }
       }
     }
