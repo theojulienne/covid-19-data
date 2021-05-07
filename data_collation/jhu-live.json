@@ -1005,7 +1005,7 @@
         "live": {
           "confirmed": 144509,
           "date": "2021-05-07",
-          "deaths": 1887,
+          "deaths": 1893,
           "recovered": 134661
         }
       }
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 368580,
+      "confirmed": 377603,
       "date": "2021-05-07",
-      "deaths": 3529,
-      "recovered": 292490
+      "deaths": 3579,
+      "recovered": 295395
     }
   },
   "Netherlands": {
@@ -1409,10 +1409,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 244556,
+      "confirmed": 245159,
       "date": "2021-05-07",
-      "deaths": 4282,
-      "recovered": 230602
+      "deaths": 4285,
+      "recovered": 231559
     }
   },
   "South Africa": {
