@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 218325,
+      "confirmed": 218681,
       "date": "2021-05-07",
-      "deaths": 4192,
-      "recovered": 202273
+      "deaths": 4209,
+      "recovered": 203307
     }
   },
   "Austria": {
@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1641120,
+      "confirmed": 1642696,
       "date": "2021-05-07",
-      "deaths": 29521,
-      "recovered": 1569862
+      "deaths": 29608,
+      "recovered": 1570842
     }
   },
   "Denmark": {
@@ -549,10 +549,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 317719,
+      "confirmed": 319266,
       "date": "2021-05-07",
-      "deaths": 4227,
-      "recovered": 297676
+      "deaths": 4245,
+      "recovered": 298807
     }
   },
   "Germany": {
@@ -561,7 +561,7 @@
         "live": {
           "confirmed": 461325,
           "date": "2021-05-07",
-          "deaths": 9488,
+          "deaths": 9489,
           "recovered": 409200
         }
       },
@@ -585,7 +585,7 @@
         "live": {
           "confirmed": 104342,
           "date": "2021-05-07",
-          "deaths": 3619,
+          "deaths": 3618,
           "recovered": 94480
         }
       },
@@ -593,7 +593,7 @@
         "live": {
           "confirmed": 270669,
           "date": "2021-05-07",
-          "deaths": 7026,
+          "deaths": 7029,
           "recovered": 240700
         }
       },
@@ -665,10 +665,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 787647,
+      "confirmed": 789188,
       "date": "2021-05-07",
-      "deaths": 28297,
-      "recovered": 546246
+      "deaths": 28403,
+      "recovered": 553836
     }
   },
   "India": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 838828,
+      "confirmed": 838850,
       "date": "2021-05-07",
       "deaths": 6374,
-      "recovered": 831279
+      "recovered": 831335
     }
   },
   "Italy": {
@@ -1003,7 +1003,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 143602,
+          "confirmed": 144509,
           "date": "2021-05-07",
           "deaths": 1887,
           "recovered": 134133
@@ -1085,10 +1085,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 254091,
+      "confirmed": 255384,
       "date": "2021-05-07",
-      "deaths": 4000,
-      "recovered": 228696
+      "deaths": 4019,
+      "recovered": 229667
     }
   },
   "Malaysia": {
