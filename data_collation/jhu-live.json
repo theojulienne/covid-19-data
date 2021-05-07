@@ -1289,10 +1289,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 288974,
+      "confirmed": 291540,
       "date": "2021-05-07",
-      "deaths": 6798,
-      "recovered": 239165
+      "deaths": 6883,
+      "recovered": 241040
     }
   },
   "Peru": {
@@ -1409,7 +1409,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 244495,
+      "confirmed": 244556,
       "date": "2021-05-07",
       "deaths": 4282,
       "recovered": 230602
