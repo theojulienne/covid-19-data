@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 496698,
+          "confirmed": 496702,
           "date": "2021-05-08",
           "deaths": 8246,
-          "recovered": 459140
+          "recovered": 459147
         }
       },
       "Quebec": {
@@ -1013,9 +1013,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 718632,
+      "confirmed": 719233,
       "date": "2021-05-08",
-      "deaths": 9047,
+      "deaths": 9076,
       "recovered": 701191
     }
   },
@@ -1578,9 +1578,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2812473,
+          "confirmed": 2812553,
           "date": "2021-05-08",
-          "deaths": 48824
+          "deaths": 48829
         }
       },
       "Connecticut": {
@@ -1599,9 +1599,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101334,
+          "confirmed": 101411,
           "date": "2021-05-08",
-          "deaths": 1150
+          "deaths": 1151
         }
       },
       "Illinois": {
