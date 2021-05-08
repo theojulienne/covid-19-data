@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 128975,
+          "confirmed": 129567,
           "date": "2021-05-08",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 124269,
+          "confirmed": 124660,
           "date": "2021-05-08",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 115967,
+          "confirmed": 116400,
           "date": "2021-05-08",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 148646,
+          "confirmed": 149212,
           "date": "2021-05-08",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 122785,
+          "confirmed": 123114,
           "date": "2021-05-08",
           "deaths": 0,
           "recovered": 0
@@ -1037,10 +1037,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 126044,
+      "confirmed": 126745,
       "date": "2021-05-08",
-      "deaths": 1860,
-      "recovered": 116022
+      "deaths": 1865,
+      "recovered": 116881
     }
   },
   "Kosovo": {
@@ -1103,9 +1103,9 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 644697,
+          "confirmed": 645512,
           "date": "2021-05-08",
-          "deaths": 32733,
+          "deaths": 32787,
           "recovered": 0
         }
       },
@@ -1119,17 +1119,17 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 245541,
+          "confirmed": 245817,
           "date": "2021-05-08",
-          "deaths": 34120,
+          "deaths": 34172,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 122914,
+          "confirmed": 123038,
           "date": "2021-05-08",
-          "deaths": 9405,
+          "deaths": 9425,
           "recovered": 0
         }
       }
@@ -1511,7 +1511,7 @@
     "live": {
       "confirmed": 121338,
       "date": "2021-05-08",
-      "deaths": 745,
+      "deaths": 764,
       "recovered": 101763
     }
   },
