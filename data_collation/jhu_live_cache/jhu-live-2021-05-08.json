@@ -371,17 +371,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 495707,
+          "confirmed": 495744,
           "date": "2021-05-08",
-          "deaths": 8236,
-          "recovered": 457958
+          "deaths": 8238,
+          "recovered": 458011
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 356216,
+          "confirmed": 357174,
           "date": "2021-05-08",
-          "deaths": 10974,
+          "deaths": 10981,
           "recovered": 336505
         }
       }
@@ -477,10 +477,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 113876,
+      "confirmed": 114912,
       "date": "2021-05-08",
-      "deaths": 713,
-      "recovered": 107476
+      "deaths": 722,
+      "recovered": 108448
     }
   },
   "Czechia": {
@@ -1016,7 +1016,7 @@
       "confirmed": 718632,
       "date": "2021-05-08",
       "deaths": 9047,
-      "recovered": 699460
+      "recovered": 701191
     }
   },
   "Kazakhstan": {
@@ -1069,10 +1069,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 531834,
+      "confirmed": 532269,
       "date": "2021-05-08",
-      "deaths": 7436,
-      "recovered": 478482
+      "deaths": 7460,
+      "recovered": 481968
     }
   },
   "Libya": {
@@ -1662,7 +1662,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1371557,
+          "confirmed": 1372259,
           "date": "2021-05-08",
           "deaths": 39719
         }
@@ -1683,9 +1683,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 247895,
+          "confirmed": 248141,
           "date": "2021-05-08",
-          "deaths": 5420
+          "deaths": 5423
         }
       },
       "Texas": {
@@ -1782,15 +1782,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3871255,
+          "confirmed": 3872997,
           "date": "2021-05-08",
-          "deaths": 112238,
+          "deaths": 112243,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 120767,
+          "confirmed": 120848,
           "date": "2021-05-08",
           "deaths": 2147,
           "recovered": 0
@@ -1798,7 +1798,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 227248,
+          "confirmed": 227472,
           "date": "2021-05-08",
           "deaths": 7661,
           "recovered": 0
