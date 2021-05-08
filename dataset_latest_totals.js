@@ -2623,19 +2623,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 317530,
-        "deaths": 3246,
-        "recovered": 280167
+        "confirmed": 323187,
+        "deaths": 3279,
+        "recovered": 281095
       },
       "back_2week": {
-        "confirmed": 292152,
-        "deaths": 3117,
-        "recovered": 276345
+        "confirmed": 294601,
+        "deaths": 3122,
+        "recovered": 276755
       },
       "latest": {
-        "confirmed": 368580,
-        "deaths": 3529,
-        "recovered": 292490
+        "confirmed": 377603,
+        "deaths": 3579,
+        "recovered": 295395
       }
     },
     "NZL": {

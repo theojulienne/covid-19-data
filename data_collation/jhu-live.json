@@ -1005,7 +1005,7 @@
         "live": {
           "confirmed": 145630,
           "date": "2021-05-08",
-          "deaths": 1893,
+          "deaths": 1899,
           "recovered": 135687
         }
       }
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 377603,
+      "confirmed": 385890,
       "date": "2021-05-08",
-      "deaths": 3579,
-      "recovered": 295395
+      "deaths": 3632,
+      "recovered": 298765
     }
   },
   "Netherlands": {
