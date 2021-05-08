@@ -562,7 +562,7 @@
           "confirmed": 463883,
           "date": "2021-05-08",
           "deaths": 9515,
-          "recovered": 409200
+          "recovered": 411800
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 612095,
           "date": "2021-05-08",
           "deaths": 14392,
-          "recovered": 550700
+          "recovered": 553900
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 172332,
           "date": "2021-05-08",
           "deaths": 3265,
-          "recovered": 160200
+          "recovered": 160700
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 104674,
           "date": "2021-05-08",
           "deaths": 3626,
-          "recovered": 94480
+          "recovered": 94930
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 271849,
           "date": "2021-05-08",
           "deaths": 7045,
-          "recovered": 240700
+          "recovered": 242200
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 246084,
           "date": "2021-05-08",
           "deaths": 5404,
-          "recovered": 225300
+          "recovered": 226600
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 765050,
           "date": "2021-05-08",
           "deaths": 15914,
-          "recovered": 679800
+          "recovered": 683900
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 144937,
           "date": "2021-05-08",
           "deaths": 3613,
-          "recovered": 128200
+          "recovered": 129100
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 120937,
           "date": "2021-05-08",
           "deaths": 3938,
-          "recovered": 107500
+          "recovered": 108200
         }
       }
     }
@@ -1725,7 +1725,7 @@
           "confirmed": 125330,
           "date": "2021-05-08",
           "deaths": 3523,
-          "recovered": 102900
+          "recovered": 103563
         }
       },
       "Kharkiv Oblast": {
@@ -1733,7 +1733,7 @@
           "confirmed": 140021,
           "date": "2021-05-08",
           "deaths": 2885,
-          "recovered": 113383
+          "recovered": 114369
         }
       },
       "Kiev": {
@@ -1741,7 +1741,7 @@
           "confirmed": 198721,
           "date": "2021-05-08",
           "deaths": 4787,
-          "recovered": 126618
+          "recovered": 127886
         }
       },
       "Kiev Oblast": {
@@ -1749,7 +1749,7 @@
           "confirmed": 120350,
           "date": "2021-05-08",
           "deaths": 2488,
-          "recovered": 104067
+          "recovered": 105192
         }
       },
       "Lviv Oblast": {
@@ -1757,7 +1757,7 @@
           "confirmed": 131314,
           "date": "2021-05-08",
           "deaths": 3367,
-          "recovered": 107135
+          "recovered": 108653
         }
       },
       "Odessa Oblast": {
@@ -1765,7 +1765,7 @@
           "confirmed": 135976,
           "date": "2021-05-08",
           "deaths": 2667,
-          "recovered": 104706
+          "recovered": 105905
         }
       }
     }
