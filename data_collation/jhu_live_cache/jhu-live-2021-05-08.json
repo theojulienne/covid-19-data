@@ -414,7 +414,7 @@
           "confirmed": 485892,
           "date": "2021-05-08",
           "deaths": 10336,
-          "recovered": 454781
+          "recovered": 457828
         }
       },
       "Atlantico": {
@@ -422,7 +422,7 @@
           "confirmed": 247141,
           "date": "2021-05-08",
           "deaths": 7358,
-          "recovered": 231616
+          "recovered": 233190
         }
       },
       "Capital District": {
@@ -430,7 +430,7 @@
           "confirmed": 820319,
           "date": "2021-05-08",
           "deaths": 16258,
-          "recovered": 754293
+          "recovered": 758135
         }
       },
       "Cundinamarca": {
@@ -438,7 +438,7 @@
           "confirmed": 133012,
           "date": "2021-05-08",
           "deaths": 3558,
-          "recovered": 125473
+          "recovered": 126371
         }
       },
       "Santander": {
@@ -446,7 +446,7 @@
           "confirmed": 108821,
           "date": "2021-05-08",
           "deaths": 3819,
-          "recovered": 100858
+          "recovered": 101500
         }
       },
       "Valle del Cauca": {
@@ -454,7 +454,7 @@
           "confirmed": 242744,
           "date": "2021-05-08",
           "deaths": 7570,
-          "recovered": 229221
+          "recovered": 229938
         }
       }
     }
@@ -1237,7 +1237,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 115629,
+      "confirmed": 115818,
       "date": "2021-05-08",
       "deaths": 767,
       "recovered": 17998
@@ -1824,10 +1824,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 204057,
+      "confirmed": 205181,
       "date": "2021-05-08",
-      "deaths": 2244,
-      "recovered": 186388
+      "deaths": 2263,
+      "recovered": 187665
     }
   },
   "West Bank and Gaza": {
