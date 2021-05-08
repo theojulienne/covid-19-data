@@ -1309,18 +1309,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1087885,
+      "confirmed": 1094849,
       "date": "2021-05-08",
-      "deaths": 18099,
-      "recovered": 1003160
+      "deaths": 18269,
+      "recovered": 1013204
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2824425,
+      "confirmed": 2829196,
       "date": "2021-05-08",
-      "deaths": 69445,
-      "recovered": 2555059
+      "deaths": 69866,
+      "recovered": 2563079
     }
   },
   "Portugal": {
@@ -1351,34 +1351,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1110795,
+          "confirmed": 1113560,
           "date": "2021-05-08",
-          "deaths": 18722,
-          "recovered": 1004060
+          "deaths": 18779,
+          "recovered": 1006542
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 254255,
+          "confirmed": 254885,
           "date": "2021-05-08",
-          "deaths": 5910,
-          "recovered": 208727
+          "deaths": 5918,
+          "recovered": 209150
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 114871,
+          "confirmed": 114983,
           "date": "2021-05-08",
-          "deaths": 3271,
-          "recovered": 110356
+          "deaths": 3287,
+          "recovered": 110459
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 420756,
+          "confirmed": 421482,
           "date": "2021-05-08",
-          "deaths": 13451,
-          "recovered": 380877
+          "deaths": 13485,
+          "recovered": 381738
         }
       }
     }

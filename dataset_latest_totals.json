@@ -2725,19 +2725,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 1028738,
-        "deaths": 17145,
-        "recovered": 942239
+        "confirmed": 1037460,
+        "deaths": 17234,
+        "recovered": 946318
       },
       "back_2week": {
-        "confirmed": 971049,
-        "deaths": 16370,
-        "recovered": 846691
+        "confirmed": 979740,
+        "deaths": 16529,
+        "recovered": 860412
       },
       "latest": {
-        "confirmed": 1080172,
-        "deaths": 17991,
-        "recovered": 999011
+        "confirmed": 1087885,
+        "deaths": 18099,
+        "recovered": 1003160
       }
     },
     "PNG": {
@@ -2759,19 +2759,19 @@
     },
     "POL": {
       "back_1week": {
-        "confirmed": 2785353,
-        "deaths": 67073,
-        "recovered": 2483780
+        "confirmed": 2792142,
+        "deaths": 67502,
+        "recovered": 2496810
       },
       "back_2week": {
-        "confirmed": 2731256,
-        "deaths": 64168,
-        "recovered": 2380787
+        "confirmed": 2742122,
+        "deaths": 64707,
+        "recovered": 2401457
       },
       "latest": {
-        "confirmed": 2818378,
-        "deaths": 68993,
-        "recovered": 2546751
+        "confirmed": 2824425,
+        "deaths": 69445,
+        "recovered": 2555059
       }
     },
     "PRT": {
