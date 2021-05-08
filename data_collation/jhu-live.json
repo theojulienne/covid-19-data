@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3118134,
+      "confirmed": 3136158,
       "date": "2021-05-08",
-      "deaths": 66872,
-      "recovered": 2777902
+      "deaths": 67042,
+      "recovered": 2798328
     }
   },
   "Armenia": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 186403,
+      "confirmed": 187905,
       "date": "2021-05-08",
-      "deaths": 674,
-      "recovered": 173036
+      "deaths": 678,
+      "recovered": 174357
     }
   },
   "Bangladesh": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 409495,
+      "confirmed": 409961,
       "date": "2021-05-08",
-      "deaths": 16886,
-      "recovered": 347870
+      "deaths": 16902,
+      "recovered": 348185
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 205115,
+          "confirmed": 207157,
           "date": "2021-05-08",
-          "deaths": 2106,
-          "recovered": 178149
+          "deaths": 2108,
+          "recovered": 179894
         }
       },
       "British Columbia": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 496702,
+          "confirmed": 497032,
           "date": "2021-05-08",
           "deaths": 8246,
-          "recovered": 459147
+          "recovered": 459438
         }
       },
       "Quebec": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 282981,
+      "confirmed": 284076,
       "date": "2021-05-08",
-      "deaths": 1628,
-      "recovered": 266917
+      "deaths": 1635,
+      "recovered": 268316
     }
   },
   "Latvia": {
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2812553,
+          "confirmed": 2812612,
           "date": "2021-05-08",
           "deaths": 48829
         }
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1306730,
+          "confirmed": 1307090,
           "date": "2021-05-08",
           "deaths": 19896
         }
@@ -1704,7 +1704,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 104573,
+          "confirmed": 104963,
           "date": "2021-05-08",
           "deaths": 1532
         }
