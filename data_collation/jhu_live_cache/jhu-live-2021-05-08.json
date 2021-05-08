@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 325407,
+      "confirmed": 326056,
       "date": "2021-05-08",
-      "deaths": 4650,
-      "recovered": 302860
+      "deaths": 4666,
+      "recovered": 304580
     }
   },
   "Bahrain": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 257505,
+      "confirmed": 258182,
       "date": "2021-05-08",
-      "deaths": 2495,
-      "recovered": 244364
+      "deaths": 2497,
+      "recovered": 244998
     }
   },
   "Dominican Republic": {
@@ -1385,10 +1385,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 424445,
+      "confirmed": 425442,
       "date": "2021-05-08",
-      "deaths": 7045,
-      "recovered": 407650
+      "deaths": 7059,
+      "recovered": 408676
     }
   },
   "Serbia": {
@@ -1512,7 +1512,7 @@
       "confirmed": 121338,
       "date": "2021-05-08",
       "deaths": 764,
-      "recovered": 101763
+      "recovered": 103098
     }
   },
   "Sweden": {
