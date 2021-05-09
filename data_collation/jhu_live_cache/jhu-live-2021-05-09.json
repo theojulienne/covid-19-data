@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 233696,
+      "confirmed": 234883,
       "date": "2021-05-09",
-      "deaths": 7695,
-      "recovered": 211572
+      "deaths": 7717,
+      "recovered": 212814
     }
   },
   "Honduras": {
@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 393758,
+      "confirmed": 396108,
       "date": "2021-05-09",
       "deaths": 3369,
-      "recovered": 346345
+      "recovered": 349451
     }
   },
   "Kenya": {
