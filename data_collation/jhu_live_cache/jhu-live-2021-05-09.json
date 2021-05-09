@@ -1003,7 +1003,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 145630,
+          "confirmed": 146662,
           "date": "2021-05-09",
           "deaths": 1899,
           "recovered": 135687
@@ -1085,10 +1085,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 256906,
+      "confirmed": 257827,
       "date": "2021-05-09",
-      "deaths": 4024,
-      "recovered": 231841
+      "deaths": 4034,
+      "recovered": 232076
     }
   },
   "Malaysia": {
