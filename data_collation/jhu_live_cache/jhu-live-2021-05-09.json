@@ -226,7 +226,7 @@
           "confirmed": 1411114,
           "date": "2021-05-09",
           "deaths": 35750,
-          "recovered": 1299489
+          "recovered": 1304598
         }
       },
       "Para": {
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5718165,
+      "confirmed": 5727293,
       "date": "2021-05-09",
-      "deaths": 105530,
-      "recovered": 315324
+      "deaths": 105645,
+      "recovered": 315726
     }
   },
   "Georgia": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 234883,
+      "confirmed": 235098,
       "date": "2021-05-09",
-      "deaths": 7717,
-      "recovered": 212814
+      "deaths": 7733,
+      "recovered": 213641
     }
   },
   "Honduras": {
@@ -1547,7 +1547,7 @@
     "live": {
       "confirmed": 670613,
       "date": "2021-05-09",
-      "deaths": 10705,
+      "deaths": 10706,
       "recovered": 317600
     }
   },
@@ -1578,7 +1578,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2813193,
+          "confirmed": 2813231,
           "date": "2021-05-09",
           "deaths": 48861
         }
@@ -1662,9 +1662,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1373488,
+          "confirmed": 1374273,
           "date": "2021-05-09",
-          "deaths": 39755
+          "deaths": 39779
         }
       },
       "North Carolina": {
@@ -1676,7 +1676,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 237780,
+          "confirmed": 238016,
           "date": "2021-05-09",
           "deaths": 3515
         }
@@ -1697,9 +1697,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 148980,
+          "confirmed": 149081,
           "date": "2021-05-09",
-          "deaths": 856
+          "deaths": 857
         }
       },
       "Washington": {
