@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 316153,
+      "confirmed": 317547,
       "date": "2021-05-09",
-      "deaths": 13182,
-      "recovered": 259431
+      "deaths": 13205,
+      "recovered": 260438
     }
   },
   "Bosnia and Herzegovina": {
@@ -559,63 +559,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 463883,
+          "confirmed": 465900,
           "date": "2021-05-09",
-          "deaths": 9515,
+          "deaths": 9526,
           "recovered": 411800
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 612179,
+          "confirmed": 614107,
           "date": "2021-05-09",
-          "deaths": 14392,
+          "deaths": 14412,
           "recovered": 553900
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 172345,
+          "confirmed": 172649,
           "date": "2021-05-09",
-          "deaths": 3266,
+          "deaths": 3301,
           "recovered": 160700
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 104674,
+          "confirmed": 104930,
           "date": "2021-05-09",
-          "deaths": 3626,
+          "deaths": 3630,
           "recovered": 94930
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 271849,
+          "confirmed": 272962,
           "date": "2021-05-09",
-          "deaths": 7045,
+          "deaths": 7055,
           "recovered": 242200
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 246084,
+          "confirmed": 247016,
           "date": "2021-05-09",
-          "deaths": 5404,
+          "deaths": 5406,
           "recovered": 226600
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 765050,
+          "confirmed": 768194,
           "date": "2021-05-09",
-          "deaths": 15914,
+          "deaths": 15927,
           "recovered": 683900
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 145268,
+          "confirmed": 145288,
           "date": "2021-05-09",
           "deaths": 3613,
           "recovered": 129100
@@ -623,17 +623,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 272477,
+          "confirmed": 272481,
           "date": "2021-05-09",
-          "deaths": 9266,
+          "deaths": 9269,
           "recovered": 245800
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 120937,
+          "confirmed": 121395,
           "date": "2021-05-09",
-          "deaths": 3938,
+          "deaths": 3956,
           "recovered": 108200
         }
       }
@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 218330,
+      "confirmed": 219288,
       "date": "2021-05-09",
-      "deaths": 5585,
-      "recovered": 81160
+      "deaths": 5617,
+      "recovered": 81382
     }
   },
   "Hungary": {
@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 396108,
+      "confirmed": 396130,
       "date": "2021-05-09",
-      "deaths": 3369,
-      "recovered": 349451
+      "deaths": 3371,
+      "recovered": 349508
     }
   },
   "Kenya": {
@@ -1255,26 +1255,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 123150,
+          "confirmed": 123842,
           "date": "2021-05-09",
-          "deaths": 3562,
-          "recovered": 109609
+          "deaths": 3588,
+          "recovered": 110179
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 316334,
+          "confirmed": 317972,
           "date": "2021-05-09",
-          "deaths": 8951,
-          "recovered": 266745
+          "deaths": 9032,
+          "recovered": 269355
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 290756,
+          "confirmed": 291668,
           "date": "2021-05-09",
-          "deaths": 4722,
-          "recovered": 268558
+          "deaths": 4726,
+          "recovered": 269234
         }
       }
     }
