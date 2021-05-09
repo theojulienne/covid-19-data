@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 258182,
+      "confirmed": 259056,
       "date": "2021-05-09",
       "deaths": 2497,
-      "recovered": 244998
+      "recovered": 245562
     }
   },
   "Dominican Republic": {
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 614107,
+          "confirmed": 614221,
           "date": "2021-05-09",
           "deaths": 14412,
           "recovered": 556100
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 145288,
+          "confirmed": 145707,
           "date": "2021-05-09",
-          "deaths": 3613,
+          "deaths": 3614,
           "recovered": 129700
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 272481,
+          "confirmed": 273116,
           "date": "2021-05-09",
-          "deaths": 9269,
-          "recovered": 245800
+          "deaths": 9272,
+          "recovered": 246500
         }
       },
       "Thuringen": {
@@ -1153,10 +1153,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 385890,
+      "confirmed": 394667,
       "date": "2021-05-09",
-      "deaths": 3632,
-      "recovered": 298765
+      "deaths": 3720,
+      "recovered": 302787
     }
   },
   "Netherlands": {
@@ -1393,9 +1393,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 698518,
+      "confirmed": 700408,
       "date": "2021-05-09",
-      "deaths": 6519,
+      "deaths": 6558,
       "recovered": 0
     }
   },
