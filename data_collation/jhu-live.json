@@ -371,17 +371,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 497918,
+          "confirmed": 497965,
           "date": "2021-05-09",
           "deaths": 8251,
-          "recovered": 460344
+          "recovered": 460377
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 357174,
+          "confirmed": 358134,
           "date": "2021-05-09",
-          "deaths": 10981,
+          "deaths": 10987,
           "recovered": 337538
         }
       }
@@ -1237,7 +1237,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 116134,
+      "confirmed": 116365,
       "date": "2021-05-09",
       "deaths": 767,
       "recovered": 17998
@@ -1662,9 +1662,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1373115,
+          "confirmed": 1373488,
           "date": "2021-05-09",
-          "deaths": 39753
+          "deaths": 39755
         }
       },
       "North Carolina": {
