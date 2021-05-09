@@ -170,7 +170,7 @@
           "confirmed": 716862,
           "date": "2021-05-09",
           "deaths": 18538,
-          "recovered": 470679
+          "recovered": 473643
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 448223,
           "date": "2021-05-09",
           "deaths": 9869,
-          "recovered": 421577
+          "recovered": 422365
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 566841,
           "date": "2021-05-09",
           "deaths": 15585,
-          "recovered": 541274
+          "recovered": 541314
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 370939,
           "date": "2021-05-09",
           "deaths": 9980,
-          "recovered": 351604
+          "recovered": 353259
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 484675,
           "date": "2021-05-09",
           "deaths": 13540,
-          "recovered": 450766
+          "recovered": 453031
         }
       },
       "Paraiba": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 409961,
+      "confirmed": 410202,
       "date": "2021-05-09",
-      "deaths": 16902,
-      "recovered": 348185
+      "deaths": 16929,
+      "recovered": 348392
     }
   },
   "Burma": {
@@ -355,10 +355,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 207157,
+          "confirmed": 208790,
           "date": "2021-05-09",
-          "deaths": 2108,
-          "recovered": 179894
+          "deaths": 2110,
+          "recovered": 181483
         }
       },
       "British Columbia": {
@@ -1620,7 +1620,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 133465,
+          "confirmed": 133571,
           "date": "2021-05-09",
           "deaths": 3732
         }
@@ -1690,7 +1690,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1307497,
+          "confirmed": 1307804,
           "date": "2021-05-09",
           "deaths": 19903
         }
