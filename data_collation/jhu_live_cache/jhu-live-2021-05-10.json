@@ -562,7 +562,7 @@
           "confirmed": 466904,
           "date": "2021-05-10",
           "deaths": 9537,
-          "recovered": 413900
+          "recovered": 416500
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 615338,
           "date": "2021-05-10",
           "deaths": 14418,
-          "recovered": 556100
+          "recovered": 558300
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 172739,
           "date": "2021-05-10",
           "deaths": 3302,
-          "recovered": 161000
+          "recovered": 161800
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 105072,
           "date": "2021-05-10",
           "deaths": 3633,
-          "recovered": 95290
+          "recovered": 95580
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 273352,
           "date": "2021-05-10",
           "deaths": 7055,
-          "recovered": 243100
+          "recovered": 244200
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 247423,
           "date": "2021-05-10",
           "deaths": 5410,
-          "recovered": 227300
+          "recovered": 228300
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 769889,
           "date": "2021-05-10",
           "deaths": 15943,
-          "recovered": 686500
+          "recovered": 690300
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 145736,
           "date": "2021-05-10",
           "deaths": 3614,
-          "recovered": 129700
+          "recovered": 130400
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 121642,
           "date": "2021-05-10",
           "deaths": 3960,
-          "recovered": 108700
+          "recovered": 109400
         }
       }
     }
