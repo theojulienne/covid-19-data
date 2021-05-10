@@ -1059,6 +1059,14 @@
       "recovered": 269633
     }
   },
+  "Kyrgyzstan": {
+    "live": {
+      "confirmed": 98654,
+      "date": "2021-05-10",
+      "deaths": 1660,
+      "recovered": 91816
+    }
+  },
   "Latvia": {
     "live": {
       "confirmed": 123963,
@@ -1592,9 +1600,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1251445,
+          "confirmed": 1152921,
           "date": "2021-05-10",
-          "deaths": 16432
+          "deaths": 15019
         }
       },
       "Georgia": {
@@ -1725,7 +1733,7 @@
           "confirmed": 126577,
           "date": "2021-05-10",
           "deaths": 3570,
-          "recovered": 103755
+          "recovered": 104152
         }
       },
       "Kharkiv Oblast": {
@@ -1733,7 +1741,7 @@
           "confirmed": 140557,
           "date": "2021-05-10",
           "deaths": 2915,
-          "recovered": 115178
+          "recovered": 115920
         }
       },
       "Kiev": {
@@ -1741,7 +1749,7 @@
           "confirmed": 199077,
           "date": "2021-05-10",
           "deaths": 4826,
-          "recovered": 128111
+          "recovered": 128157
         }
       },
       "Kiev Oblast": {
@@ -1749,7 +1757,7 @@
           "confirmed": 120744,
           "date": "2021-05-10",
           "deaths": 2516,
-          "recovered": 106008
+          "recovered": 106291
         }
       },
       "Lviv Oblast": {
@@ -1757,7 +1765,7 @@
           "confirmed": 131860,
           "date": "2021-05-10",
           "deaths": 3377,
-          "recovered": 109234
+          "recovered": 110243
         }
       },
       "Odessa Oblast": {
@@ -1765,7 +1773,7 @@
           "confirmed": 136401,
           "date": "2021-05-10",
           "deaths": 2686,
-          "recovered": 106277
+          "recovered": 106949
         }
       }
     }
