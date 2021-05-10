@@ -282,7 +282,7 @@
           "confirmed": 1007895,
           "date": "2021-05-10",
           "deaths": 25933,
-          "recovered": 967259
+          "recovered": 968732
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 786087,
           "date": "2021-05-10",
           "deaths": 46427,
-          "recovered": 729539
+          "recovered": 731144
         }
       },
       "Rondonia": {
@@ -371,9 +371,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 500865,
+          "confirmed": 503287,
           "date": "2021-05-10",
-          "deaths": 8267,
+          "deaths": 8304,
           "recovered": 466845
         }
       },
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 235098,
+      "confirmed": 235304,
       "date": "2021-05-10",
-      "deaths": 7733,
-      "recovered": 213641
+      "deaths": 7736,
+      "recovered": 214601
     }
   },
   "Honduras": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 285068,
+      "confirmed": 286046,
       "date": "2021-05-10",
-      "deaths": 1645,
-      "recovered": 269633
+      "deaths": 1652,
+      "recovered": 270883
     }
   },
   "Kyrgyzstan": {
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 674296,
       "date": "2021-05-10",
-      "deaths": 10714,
+      "deaths": 10715,
       "recovered": 317600
     }
   },
@@ -1579,23 +1579,23 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 657299,
+          "confirmed": 657877,
           "date": "2021-05-10",
           "deaths": 12325
         }
       },
       "California": {
         "live": {
-          "confirmed": 2814055,
+          "confirmed": 2814111,
           "date": "2021-05-10",
           "deaths": 48868
         }
       },
       "Connecticut": {
         "live": {
-          "confirmed": 98965,
+          "confirmed": 99161,
           "date": "2021-05-10",
-          "deaths": 2173
+          "deaths": 2174
         }
       },
       "Florida": {
@@ -1698,7 +1698,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1308147,
+          "confirmed": 1308335,
           "date": "2021-05-10",
           "deaths": 19922
         }
