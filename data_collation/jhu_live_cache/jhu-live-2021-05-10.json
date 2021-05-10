@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 368888,
+      "confirmed": 369767,
       "date": "2021-05-10",
-      "deaths": 2632,
-      "recovered": 359687
+      "deaths": 2642,
+      "recovered": 360255
     }
   },
   "Belgium": {
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 385475,
+      "confirmed": 385786,
       "date": "2021-05-10",
-      "deaths": 12019,
+      "deaths": 12051,
       "recovered": 255300
     }
   },
