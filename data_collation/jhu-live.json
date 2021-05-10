@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 358134,
+          "confirmed": 358796,
           "date": "2021-05-10",
-          "deaths": 10987,
+          "deaths": 10993,
           "recovered": 338628
         }
       }
@@ -567,7 +567,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 615338,
+          "confirmed": 615380,
           "date": "2021-05-10",
           "deaths": 14418,
           "recovered": 558300
@@ -615,18 +615,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 145736,
+          "confirmed": 146089,
           "date": "2021-05-10",
-          "deaths": 3614,
+          "deaths": 3622,
           "recovered": 130400
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 273120,
+          "confirmed": 273492,
           "date": "2021-05-10",
-          "deaths": 9273,
-          "recovered": 246500
+          "deaths": 9288,
+          "recovered": 247400
         }
       },
       "Thuringen": {
@@ -1013,9 +1013,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 719233,
+      "confirmed": 720998,
       "date": "2021-05-10",
-      "deaths": 9076,
+      "deaths": 9125,
       "recovered": 703577
     }
   },
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 674296,
       "date": "2021-05-10",
-      "deaths": 10710,
+      "deaths": 10714,
       "recovered": 317600
     }
   },
