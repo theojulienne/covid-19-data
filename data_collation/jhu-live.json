@@ -575,9 +575,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 173192,
+          "confirmed": 173207,
           "date": "2021-05-11",
-          "deaths": 3305,
+          "deaths": 3306,
           "recovered": 162700
         }
       },
@@ -1045,10 +1045,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 105784,
+      "confirmed": 106081,
       "date": "2021-05-11",
-      "deaths": 2207,
-      "recovered": 96841
+      "deaths": 2215,
+      "recovered": 97661
     }
   },
   "Kuwait": {
@@ -1317,18 +1317,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1108826,
+      "confirmed": 1113547,
       "date": "2021-05-11",
-      "deaths": 18562,
-      "recovered": 1030367
+      "deaths": 18620,
+      "recovered": 1038175
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2835083,
+      "confirmed": 2838180,
       "date": "2021-05-11",
-      "deaths": 70034,
-      "recovered": 2576034
+      "deaths": 70336,
+      "recovered": 2580245
     }
   },
   "Portugal": {
@@ -1359,34 +1359,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1119284,
+          "confirmed": 1121912,
           "date": "2021-05-11",
-          "deaths": 18893,
-          "recovered": 1010652
+          "deaths": 18954,
+          "recovered": 1012703
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 256170,
+          "confirmed": 256827,
           "date": "2021-05-11",
-          "deaths": 5936,
-          "recovered": 210018
+          "deaths": 5945,
+          "recovered": 210520
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 115220,
+          "confirmed": 115344,
           "date": "2021-05-11",
-          "deaths": 3319,
-          "recovered": 110660
+          "deaths": 3333,
+          "recovered": 110757
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 422935,
+          "confirmed": 423652,
           "date": "2021-05-11",
-          "deaths": 13552,
-          "recovered": 383291
+          "deaths": 13587,
+          "recovered": 384100
         }
       }
     }
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 385786,
+      "confirmed": 386136,
       "date": "2021-05-11",
-      "deaths": 12051,
+      "deaths": 12077,
       "recovered": 255300
     }
   },
