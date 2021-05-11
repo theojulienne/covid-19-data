@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 130482,
+          "confirmed": 130755,
           "date": "2021-05-11",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 125251,
+          "confirmed": 125401,
           "date": "2021-05-11",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 117035,
+          "confirmed": 117176,
           "date": "2021-05-11",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 150045,
+          "confirmed": 150217,
           "date": "2021-05-11",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 123686,
+          "confirmed": 123730,
           "date": "2021-05-11",
           "deaths": 0,
           "recovered": 0
@@ -1037,10 +1037,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 127772,
+      "confirmed": 128283,
       "date": "2021-05-11",
-      "deaths": 1875,
-      "recovered": 117844
+      "deaths": 1879,
+      "recovered": 118717
     }
   },
   "Kosovo": {
@@ -1111,31 +1111,31 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 646448,
+          "confirmed": 646570,
           "date": "2021-05-11",
-          "deaths": 32825,
+          "deaths": 32835,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 131083,
+          "confirmed": 131095,
           "date": "2021-05-11",
-          "deaths": 10680,
+          "deaths": 10681,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 246080,
+          "confirmed": 246125,
           "date": "2021-05-11",
-          "deaths": 34207,
+          "deaths": 34211,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 123119,
+          "confirmed": 123138,
           "date": "2021-05-11",
           "deaths": 9427,
           "recovered": 0
@@ -1832,10 +1832,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 207870,
+      "confirmed": 209162,
       "date": "2021-05-11",
-      "deaths": 2291,
-      "recovered": 190768
+      "deaths": 2304,
+      "recovered": 192075
     }
   },
   "West Bank and Gaza": {
