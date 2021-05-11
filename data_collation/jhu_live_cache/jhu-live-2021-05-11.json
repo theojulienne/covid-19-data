@@ -162,7 +162,7 @@
           "confirmed": 932031,
           "date": "2021-05-11",
           "deaths": 19320,
-          "recovered": 897620
+          "recovered": 901434
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 449416,
           "date": "2021-05-11",
           "deaths": 9953,
-          "recovered": 424299
+          "recovered": 425875
         }
       },
       "Goias": {
@@ -250,7 +250,7 @@
           "confirmed": 989417,
           "date": "2021-05-11",
           "deaths": 23925,
-          "recovered": 699921
+          "recovered": 700241
         }
       },
       "Pernambuco": {
@@ -282,7 +282,7 @@
           "confirmed": 1008296,
           "date": "2021-05-11",
           "deaths": 25990,
-          "recovered": 968732
+          "recovered": 972691
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 786757,
           "date": "2021-05-11",
           "deaths": 46442,
-          "recovered": 731144
+          "recovered": 735429
         }
       },
       "Rondonia": {
@@ -1593,9 +1593,9 @@
       },
       "Connecticut": {
         "live": {
-          "confirmed": 99161,
+          "confirmed": 99238,
           "date": "2021-05-11",
-          "deaths": 2174
+          "deaths": 2175
         }
       },
       "Florida": {
