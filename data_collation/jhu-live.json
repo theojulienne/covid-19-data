@@ -562,7 +562,7 @@
           "confirmed": 467990,
           "date": "2021-05-11",
           "deaths": 9565,
-          "recovered": 416500
+          "recovered": 419700
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 615986,
           "date": "2021-05-11",
           "deaths": 14471,
-          "recovered": 558300
+          "recovered": 561900
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 173192,
           "date": "2021-05-11",
           "deaths": 3305,
-          "recovered": 161800
+          "recovered": 162700
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 105072,
           "date": "2021-05-11",
           "deaths": 3633,
-          "recovered": 95580
+          "recovered": 96020
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 273775,
           "date": "2021-05-11",
           "deaths": 7073,
-          "recovered": 244200
+          "recovered": 246000
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 247892,
           "date": "2021-05-11",
           "deaths": 5428,
-          "recovered": 228300
+          "recovered": 229700
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 771298,
           "date": "2021-05-11",
           "deaths": 16030,
-          "recovered": 690300
+          "recovered": 694900
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 146113,
           "date": "2021-05-11",
           "deaths": 3622,
-          "recovered": 130400
+          "recovered": 131400
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 121996,
           "date": "2021-05-11",
           "deaths": 3984,
-          "recovered": 109400
+          "recovered": 110000
         }
       }
     }
@@ -1061,10 +1061,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 98654,
+      "confirmed": 99033,
       "date": "2021-05-11",
-      "deaths": 1660,
-      "recovered": 91816
+      "deaths": 1667,
+      "recovered": 92120
     }
   },
   "Latvia": {
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 674296,
       "date": "2021-05-11",
-      "deaths": 10715,
+      "deaths": 10716,
       "recovered": 317600
     }
   },
@@ -1586,7 +1586,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2814702,
+          "confirmed": 2814842,
           "date": "2021-05-11",
           "deaths": 48871
         }
