@@ -170,7 +170,7 @@
           "confirmed": 716862,
           "date": "2021-05-11",
           "deaths": 18538,
-          "recovered": 475516
+          "recovered": 479301
         }
       },
       "Distrito Federal": {
@@ -226,7 +226,7 @@
           "confirmed": 1416845,
           "date": "2021-05-11",
           "deaths": 36062,
-          "recovered": 1305510
+          "recovered": 1314150
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 250728,
           "date": "2021-05-11",
           "deaths": 5376,
-          "recovered": 244235
+          "recovered": 245127
         }
       },
       "Rio Grande do Norte": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 504496,
+          "confirmed": 504510,
           "date": "2021-05-11",
           "deaths": 8312,
-          "recovered": 468752
+          "recovered": 468803
         }
       },
       "Quebec": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 402060,
+      "confirmed": 402595,
       "date": "2021-05-11",
-      "deaths": 19242,
+      "deaths": 19286,
       "recovered": 342878
     }
   },
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 263120,
+      "confirmed": 263672,
       "date": "2021-05-11",
-      "deaths": 3897,
-      "recovered": 211493
+      "deaths": 3911,
+      "recovered": 212567
     }
   },
   "France": {
@@ -1153,10 +1153,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 513922,
+      "confirmed": 514164,
       "date": "2021-05-11",
-      "deaths": 9077,
-      "recovered": 501146
+      "deaths": 9083,
+      "recovered": 501404
     }
   },
   "Nepal": {
@@ -1341,10 +1341,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 211389,
+      "confirmed": 211732,
       "date": "2021-05-11",
-      "deaths": 512,
-      "recovered": 202552
+      "deaths": 516,
+      "recovered": 203546
     }
   },
   "Romania": {
@@ -1561,10 +1561,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 321837,
+      "confirmed": 322998,
       "date": "2021-05-11",
-      "deaths": 11468,
-      "recovered": 279634
+      "deaths": 11556,
+      "recovered": 281554
     }
   },
   "Turkey": {
@@ -1600,9 +1600,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1154104,
+          "confirmed": 1254506,
           "date": "2021-05-11",
-          "deaths": 15042
+          "deaths": 16479
         }
       },
       "Georgia": {
@@ -1635,9 +1635,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 274306,
+          "confirmed": 275174,
           "date": "2021-05-11",
-          "deaths": 7041
+          "deaths": 7083
         }
       },
       "Minnesota": {
@@ -1645,13 +1645,6 @@
           "confirmed": 122131,
           "date": "2021-05-11",
           "deaths": 1726
-        }
-      },
-      "Missouri": {
-        "live": {
-          "confirmed": 98705,
-          "date": "2021-05-11",
-          "deaths": 2204
         }
       },
       "Nevada": {
@@ -1670,9 +1663,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1375552,
+          "confirmed": 1375855,
           "date": "2021-05-11",
-          "deaths": 39824
+          "deaths": 39826
         }
       },
       "North Carolina": {
@@ -1684,9 +1677,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 238188,
+          "confirmed": 238527,
           "date": "2021-05-11",
-          "deaths": 3515
+          "deaths": 3520
         }
       },
       "Pennsylvania": {
@@ -1705,9 +1698,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 149164,
+          "confirmed": 149226,
           "date": "2021-05-11",
-          "deaths": 857
+          "deaths": 861
         }
       },
       "Washington": {
@@ -1719,9 +1712,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 115913,
+          "confirmed": 115987,
           "date": "2021-05-11",
-          "deaths": 1351
+          "deaths": 1354
         }
       }
     }
