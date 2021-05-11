@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 29859,
-        "current_hospitalized": 32,
+        "confirmed": 29869,
+        "current_hospitalized": 29,
         "current_icu": 2,
         "deaths": 909,
         "recovered": 3629,
-        "tested": 17094246
+        "tested": 17126355
       },
       "back_2week": {
-        "confirmed": 29748,
-        "current_hospitalized": 31,
+        "confirmed": 29760,
+        "current_hospitalized": 27,
         "current_icu": 2,
         "deaths": 909,
         "recovered": 3529,
-        "tested": 16865602
+        "tested": 16898593
       },
       "latest": {
-        "confirmed": 29923,
-        "current_hospitalized": 35,
+        "confirmed": 29931,
+        "current_hospitalized": 30,
         "current_icu": 2,
         "deaths": 909,
         "recovered": 3738,
-        "tested": 17221109
+        "tested": 17259848
       },
       "states": {
         "ACT": {
@@ -168,40 +168,40 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 3,
           "recovered": 121,
-          "tested": 202662
+          "tested": 202924
         },
         "NSW": {
-          "confirmed": 5527,
+          "confirmed": 5532,
           "current_hospitalized": 3,
           "current_icu": 1,
           "current_ventilators": 16,
           "deaths": 54,
           "recovered": 2799,
-          "tested": 5740693
+          "tested": 5758717
         },
         "NT": {
           "confirmed": 167,
-          "current_hospitalized": 12,
+          "current_hospitalized": 11,
           "current_icu": 0,
           "deaths": 0,
           "recovered": 155,
-          "tested": 183758
+          "tested": 184534
         },
         "QLD": {
           "confirmed": 1580,
-          "current_hospitalized": 19,
+          "current_hospitalized": 18,
           "current_icu": 0,
           "deaths": 6,
           "recovered": 1551,
-          "tested": 2503479
+          "tested": 2507379
         },
         "SA": {
-          "confirmed": 738,
+          "confirmed": 740,
           "current_hospitalized": 1,
           "current_icu": 0,
           "deaths": 4,
           "recovered": 708,
-          "tested": 1292604
+          "tested": 1296060
         },
         "TAS": {
           "confirmed": 234,
@@ -209,20 +209,20 @@ var covid19_dataset_latest_totals = {
           "current_icu": 0,
           "deaths": 13,
           "recovered": 221,
-          "tested": 215888
+          "tested": 216271
         },
         "VIC": {
-          "confirmed": 20527,
+          "confirmed": 20533,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 820,
           "recovered": 19522,
-          "tested": 5933641
+          "tested": 5946871
         },
         "WA": {
           "confirmed": 1013,
           "current_hospitalized": 1,
-          "current_icu": 0,
+          "current_icu": 1,
           "deaths": 9,
           "recovered": 982,
           "tested": 1112253

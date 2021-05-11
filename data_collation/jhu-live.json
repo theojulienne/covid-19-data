@@ -365,8 +365,8 @@
         "live": {
           "confirmed": 136108,
           "date": "2021-05-11",
-          "deaths": 1624,
-          "recovered": 128149
+          "deaths": 1622,
+          "recovered": 128139
         }
       },
       "Ontario": {
@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 237410,
+      "confirmed": 238560,
       "date": "2021-05-11",
-      "deaths": 13904,
-      "recovered": 176763
+      "deaths": 13972,
+      "recovered": 177440
     }
   },
   "Estonia": {
@@ -1289,18 +1289,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 367656,
+      "confirmed": 367908,
       "date": "2021-05-11",
-      "deaths": 6271,
-      "recovered": 357101
+      "deaths": 6277,
+      "recovered": 357353
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 297789,
+      "confirmed": 299684,
       "date": "2021-05-11",
-      "deaths": 7130,
-      "recovered": 246680
+      "deaths": 7209,
+      "recovered": 248587
     }
   },
   "Peru": {
@@ -1586,7 +1586,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2814556,
+          "confirmed": 2814702,
           "date": "2021-05-11",
           "deaths": 48871
         }
