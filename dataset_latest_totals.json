@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 179297,
-        "deaths": 651,
-        "recovered": 167852
+        "confirmed": 180462,
+        "deaths": 657,
+        "recovered": 168865
       },
       "back_2week": {
-        "confirmed": 171370,
-        "deaths": 624,
-        "recovered": 160089
+        "confirmed": 172576,
+        "deaths": 625,
+        "recovered": 161491
       },
       "latest": {
-        "confirmed": 189356,
-        "deaths": 685,
-        "recovered": 175332
+        "confirmed": 191018,
+        "deaths": 691,
+        "recovered": 176338
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 208790,
-          "deaths": 2110
+          "confirmed": 210387,
+          "deaths": 2117
         },
         "British Columbia": {
           "confirmed": 134341,
