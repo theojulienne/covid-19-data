@@ -861,18 +861,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1718575,
+      "confirmed": 1723596,
       "date": "2021-05-11",
-      "deaths": 47218,
-      "recovered": 1574615
+      "deaths": 47465,
+      "recovered": 1580207
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 2673219,
+      "confirmed": 2691352,
       "date": "2021-05-11",
-      "deaths": 75261,
-      "recovered": 2127192
+      "deaths": 75568,
+      "recovered": 2144197
     }
   },
   "Iraq": {
@@ -1005,7 +1005,7 @@
         "live": {
           "confirmed": 148160,
           "date": "2021-05-11",
-          "deaths": 1904,
+          "deaths": 1907,
           "recovered": 138070
         }
       }
@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 124301,
+      "confirmed": 124960,
       "date": "2021-05-11",
-      "deaths": 2213,
-      "recovered": 113214
+      "deaths": 2217,
+      "recovered": 113430
     }
   },
   "Lebanon": {
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 444484,
+      "confirmed": 448457,
       "date": "2021-05-11",
-      "deaths": 1700,
-      "recovered": 405388
+      "deaths": 1722,
+      "recovered": 408236
     }
   },
   "Mexico": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1066731,
+      "confirmed": 1067887,
       "date": "2021-05-11",
-      "deaths": 29034,
-      "recovered": 1015092
+      "deaths": 29135,
+      "recovered": 1017047
     }
   },
   "Russia": {
@@ -1417,10 +1417,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 246231,
+      "confirmed": 246725,
       "date": "2021-05-11",
-      "deaths": 4299,
-      "recovered": 232983
+      "deaths": 4302,
+      "recovered": 233788
     }
   },
   "South Africa": {
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 674296,
       "date": "2021-05-11",
-      "deaths": 10717,
+      "deaths": 10719,
       "recovered": 317600
     }
   },
@@ -1698,7 +1698,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1309361,
+          "confirmed": 1309426,
           "date": "2021-05-11",
           "deaths": 19922
         }
