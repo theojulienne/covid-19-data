@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 358796,
+          "confirmed": 359456,
           "date": "2021-05-11",
-          "deaths": 10993,
+          "deaths": 11002,
           "recovered": 339660
         }
       }
@@ -1013,9 +1013,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 720998,
+      "confirmed": 721853,
       "date": "2021-05-11",
-      "deaths": 9125,
+      "deaths": 9151,
       "recovered": 705392
     }
   },
@@ -1045,10 +1045,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 106081,
+      "confirmed": 106130,
       "date": "2021-05-11",
-      "deaths": 2215,
-      "recovered": 97661
+      "deaths": 2218,
+      "recovered": 98007
     }
   },
   "Kuwait": {
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 839740,
+      "confirmed": 840008,
       "date": "2021-05-11",
-      "deaths": 16993,
-      "recovered": 800645
+      "deaths": 16994,
+      "recovered": 801306
     }
   },
   "Qatar": {
