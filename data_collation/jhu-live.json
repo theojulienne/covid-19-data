@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 327087,
+      "confirmed": 327601,
       "date": "2021-05-11",
-      "deaths": 4698,
-      "recovered": 307011
+      "deaths": 4713,
+      "recovered": 308317
     }
   },
   "Bahrain": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 503296,
+          "confirmed": 503863,
           "date": "2021-05-11",
-          "deaths": 8304,
-          "recovered": 466856
+          "deaths": 8306,
+          "recovered": 467686
         }
       },
       "Quebec": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 259988,
+      "confirmed": 260913,
       "date": "2021-05-11",
-      "deaths": 2497,
-      "recovered": 246169
+      "deaths": 2499,
+      "recovered": 246903
     }
   },
   "Dominican Republic": {
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 615986,
+          "confirmed": 616033,
           "date": "2021-05-11",
-          "deaths": 14471,
+          "deaths": 14474,
           "recovered": 561900
         }
       },
@@ -1161,49 +1161,49 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 403794,
+      "confirmed": 413111,
       "date": "2021-05-11",
-      "deaths": 3859,
-      "recovered": 306794
+      "deaths": 4084,
+      "recovered": 312019
     }
   },
   "Netherlands": {
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 174765,
+          "confirmed": 175503,
           "date": "2021-05-11",
-          "deaths": 1988,
+          "deaths": 1991,
           "recovered": 0
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 106810,
+          "confirmed": 107191,
           "date": "2021-05-11",
-          "deaths": 1605,
+          "deaths": 1606,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 252353,
+          "confirmed": 253354,
           "date": "2021-05-11",
-          "deaths": 3096,
+          "deaths": 3098,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 262262,
+          "confirmed": 263036,
           "date": "2021-05-11",
-          "deaths": 2538,
+          "deaths": 2558,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 101625,
+          "confirmed": 102077,
           "date": "2021-05-11",
           "deaths": 1115,
           "recovered": 0
@@ -1211,17 +1211,17 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 120000,
+          "confirmed": 120425,
           "date": "2021-05-11",
-          "deaths": 1260,
+          "deaths": 1261,
           "recovered": 0
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 372851,
+          "confirmed": 374019,
           "date": "2021-05-11",
-          "deaths": 4178,
+          "deaths": 4185,
           "recovered": 0
         }
       }
@@ -1401,9 +1401,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 701326,
+      "confirmed": 702451,
       "date": "2021-05-11",
-      "deaths": 6576,
+      "deaths": 6594,
       "recovered": 0
     }
   },
@@ -1527,25 +1527,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 145278,
+          "confirmed": 147128,
           "date": "2021-05-11",
-          "deaths": 1688,
+          "deaths": 1702,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 238733,
+          "confirmed": 242275,
           "date": "2021-05-11",
-          "deaths": 4230,
+          "deaths": 4244,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 176041,
+          "confirmed": 178278,
           "date": "2021-05-11",
-          "deaths": 2313,
+          "deaths": 2314,
           "recovered": 0
         }
       }
@@ -1649,9 +1649,9 @@
       },
       "Missouri": {
         "live": {
-          "confirmed": 98627,
+          "confirmed": 98705,
           "date": "2021-05-11",
-          "deaths": 2201
+          "deaths": 2204
         }
       },
       "Nevada": {
