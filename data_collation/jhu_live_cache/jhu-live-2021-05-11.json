@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 490335,
+          "confirmed": 492532,
           "date": "2021-05-11",
-          "deaths": 10531,
-          "recovered": 462373
+          "deaths": 10568,
+          "recovered": 464989
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 250021,
+          "confirmed": 251519,
           "date": "2021-05-11",
-          "deaths": 7512,
-          "recovered": 235952
+          "deaths": 7553,
+          "recovered": 237158
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 831296,
+          "confirmed": 834757,
           "date": "2021-05-11",
           "deaths": 16470,
-          "recovered": 767943
+          "recovered": 772345
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 134854,
+          "confirmed": 135994,
           "date": "2021-05-11",
-          "deaths": 3594,
-          "recovered": 127424
+          "deaths": 3615,
+          "recovered": 128280
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 110052,
+          "confirmed": 110711,
           "date": "2021-05-11",
-          "deaths": 3862,
-          "recovered": 102500
+          "deaths": 3884,
+          "recovered": 103101
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 245366,
+          "confirmed": 246333,
           "date": "2021-05-11",
-          "deaths": 7641,
-          "recovered": 232319
+          "deaths": 7653,
+          "recovered": 233665
         }
       }
     }
@@ -559,7 +559,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 467977,
+          "confirmed": 467990,
           "date": "2021-05-11",
           "deaths": 9565,
           "recovered": 416500
@@ -567,17 +567,17 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 615380,
+          "confirmed": 615986,
           "date": "2021-05-11",
-          "deaths": 14418,
+          "deaths": 14471,
           "recovered": 558300
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 172741,
+          "confirmed": 173192,
           "date": "2021-05-11",
-          "deaths": 3302,
+          "deaths": 3305,
           "recovered": 161800
         }
       },
@@ -591,31 +591,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 273352,
+          "confirmed": 273775,
           "date": "2021-05-11",
-          "deaths": 7055,
+          "deaths": 7073,
           "recovered": 244200
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 247422,
+          "confirmed": 247892,
           "date": "2021-05-11",
-          "deaths": 5410,
+          "deaths": 5428,
           "recovered": 228300
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 769889,
+          "confirmed": 771298,
           "date": "2021-05-11",
-          "deaths": 15943,
+          "deaths": 16030,
           "recovered": 690300
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 146089,
+          "confirmed": 146113,
           "date": "2021-05-11",
           "deaths": 3622,
           "recovered": 130400
@@ -623,17 +623,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 273492,
+          "confirmed": 273524,
           "date": "2021-05-11",
-          "deaths": 9288,
+          "deaths": 9291,
           "recovered": 247400
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 121642,
+          "confirmed": 121996,
           "date": "2021-05-11",
-          "deaths": 3960,
+          "deaths": 3984,
           "recovered": 109400
         }
       }
@@ -1519,7 +1519,7 @@
     "live": {
       "confirmed": 128530,
       "date": "2021-05-11",
-      "deaths": 801,
+      "deaths": 827,
       "recovered": 105611
     }
   },
