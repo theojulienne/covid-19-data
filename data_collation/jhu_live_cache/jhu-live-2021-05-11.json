@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3165121,
+      "confirmed": 3191097,
       "date": "2021-05-11",
-      "deaths": 67821,
-      "recovered": 2837058
+      "deaths": 68311,
+      "recovered": 2854364
     }
   },
   "Armenia": {
@@ -178,7 +178,7 @@
           "confirmed": 388286,
           "date": "2021-05-11",
           "deaths": 8184,
-          "recovered": 371293
+          "recovered": 372483
         }
       },
       "Espirito Santo": {
@@ -194,7 +194,7 @@
           "confirmed": 569991,
           "date": "2021-05-11",
           "deaths": 15715,
-          "recovered": 543176
+          "recovered": 544975
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 374036,
           "date": "2021-05-11",
           "deaths": 10078,
-          "recovered": 354728
+          "recovered": 356473
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 486610,
           "date": "2021-05-11",
           "deaths": 13611,
-          "recovered": 454488
+          "recovered": 456442
         }
       },
       "Paraiba": {
@@ -258,7 +258,7 @@
           "confirmed": 429187,
           "date": "2021-05-11",
           "deaths": 14639,
-          "recovered": 357854
+          "recovered": 366511
         }
       },
       "Piaui": {
@@ -306,7 +306,7 @@
           "confirmed": 914946,
           "date": "2021-05-11",
           "deaths": 14185,
-          "recovered": 872569
+          "recovered": 881763
         }
       },
       "Sao Paulo": {
@@ -314,7 +314,7 @@
           "confirmed": 3022568,
           "date": "2021-05-11",
           "deaths": 101660,
-          "recovered": 2650311
+          "recovered": 2709902
         }
       },
       "Sergipe": {
@@ -337,10 +337,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 411280,
+      "confirmed": 412157,
       "date": "2021-05-11",
-      "deaths": 17045,
-      "recovered": 351397
+      "deaths": 17104,
+      "recovered": 353619
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 136108,
+          "confirmed": 136623,
           "date": "2021-05-11",
-          "deaths": 1622,
-          "recovered": 128139
+          "deaths": 1624,
+          "recovered": 128782
         }
       },
       "Ontario": {
@@ -461,10 +461,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 271478,
+      "confirmed": 273714,
       "date": "2021-05-11",
-      "deaths": 3430,
-      "recovered": 214788
+      "deaths": 3456,
+      "recovered": 216191
     }
   },
   "Croatia": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 235304,
+      "confirmed": 236266,
       "date": "2021-05-11",
-      "deaths": 7736,
-      "recovered": 214601
+      "deaths": 7776,
+      "recovered": 215803
     }
   },
   "Honduras": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 286046,
+      "confirmed": 287199,
       "date": "2021-05-11",
-      "deaths": 1652,
-      "recovered": 270883
+      "deaths": 1660,
+      "recovered": 272123
     }
   },
   "Kyrgyzstan": {
@@ -1817,10 +1817,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 222870,
+      "confirmed": 225847,
       "date": "2021-05-11",
-      "deaths": 3171,
-      "recovered": 194964
+      "deaths": 3208,
+      "recovered": 197085
     }
   },
   "Venezuela": {
@@ -1833,10 +1833,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 302249,
+      "confirmed": 302777,
       "date": "2021-05-11",
-      "deaths": 3378,
-      "recovered": 287206
+      "deaths": 3393,
+      "recovered": 287932
     }
   }
 }
