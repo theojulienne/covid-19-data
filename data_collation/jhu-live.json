@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 632766,
+      "confirmed": 633960,
       "date": "2021-05-12",
-      "deaths": 10413,
-      "recovered": 607712
+      "deaths": 10428,
+      "recovered": 609666
     }
   },
   "Azerbaijan": {
@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 124960,
+      "confirmed": 125689,
       "date": "2021-05-12",
-      "deaths": 2217,
-      "recovered": 113430
+      "deaths": 2223,
+      "recovered": 114981
     }
   },
   "Lebanon": {
@@ -1417,10 +1417,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 246725,
+      "confirmed": 247449,
       "date": "2021-05-12",
-      "deaths": 4302,
-      "recovered": 233788
+      "deaths": 4304,
+      "recovered": 234189
     }
   },
   "South Africa": {
@@ -1691,7 +1691,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1309939,
+          "confirmed": 1310200,
           "date": "2021-05-12",
           "deaths": 19950
         }
