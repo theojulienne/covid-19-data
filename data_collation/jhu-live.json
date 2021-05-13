@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 174409,
+          "confirmed": 174423,
           "date": "2021-05-13",
           "deaths": 3325,
-          "recovered": 163600
+          "recovered": 163700
         }
       },
       "Brandenburg": {
@@ -1325,10 +1325,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2842339,
+      "confirmed": 2845762,
       "date": "2021-05-13",
-      "deaths": 70679,
-      "recovered": 2582519
+      "deaths": 71021,
+      "recovered": 2584751
     }
   },
   "Portugal": {
@@ -1359,34 +1359,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1124630,
+          "confirmed": 1127417,
           "date": "2021-05-13",
-          "deaths": 19013,
-          "recovered": 1015097
+          "deaths": 19068,
+          "recovered": 1017740
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 257469,
+          "confirmed": 258112,
           "date": "2021-05-13",
-          "deaths": 5955,
-          "recovered": 211105
+          "deaths": 5966,
+          "recovered": 211623
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 115465,
+          "confirmed": 115588,
           "date": "2021-05-13",
-          "deaths": 3344,
-          "recovered": 110852
+          "deaths": 3359,
+          "recovered": 110959
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 424386,
+          "confirmed": 425127,
           "date": "2021-05-13",
-          "deaths": 13626,
-          "recovered": 385033
+          "deaths": 13657,
+          "recovered": 386075
         }
       }
     }
@@ -1417,10 +1417,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 247449,
+      "confirmed": 248046,
       "date": "2021-05-13",
-      "deaths": 4304,
-      "recovered": 234189
+      "deaths": 4308,
+      "recovered": 235106
     }
   },
   "South Africa": {
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 677210,
       "date": "2021-05-13",
-      "deaths": 10725,
+      "deaths": 10727,
       "recovered": 317600
     }
   },
