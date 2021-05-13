@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 404632,
+      "confirmed": 405783,
       "date": "2021-05-13",
-      "deaths": 19349,
+      "deaths": 19442,
       "recovered": 342878
     }
   },
@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 264367,
+      "confirmed": 264960,
       "date": "2021-05-13",
-      "deaths": 3938,
-      "recovered": 214808
+      "deaths": 3951,
+      "recovered": 215734
     }
   },
   "France": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 288184,
+      "confirmed": 289243,
       "date": "2021-05-13",
-      "deaths": 1669,
-      "recovered": 273289
+      "deaths": 1674,
+      "recovered": 274554
     }
   },
   "Kyrgyzstan": {
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 677210,
       "date": "2021-05-13",
-      "deaths": 10727,
+      "deaths": 10728,
       "recovered": 317600
     }
   },
@@ -1712,9 +1712,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 116083,
+          "confirmed": 116179,
           "date": "2021-05-13",
-          "deaths": 1356
+          "deaths": 1368
         }
       }
     }
