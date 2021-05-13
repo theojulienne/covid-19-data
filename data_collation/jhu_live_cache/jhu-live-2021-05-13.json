@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 347094,
+      "confirmed": 348158,
       "date": "2021-05-13",
-      "deaths": 7589,
-      "recovered": 331388
+      "deaths": 7623,
+      "recovered": 332669
     }
   },
   "Cuba": {
@@ -1006,7 +1006,7 @@
           "confirmed": 150139,
           "date": "2021-05-13",
           "deaths": 1915,
-          "recovered": 139000
+          "recovered": 139906
         }
       }
     }
@@ -1069,9 +1069,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 125689,
+      "confirmed": 126378,
       "date": "2021-05-13",
-      "deaths": 2223,
+      "deaths": 2240,
       "recovered": 114981
     }
   },
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 453222,
+      "confirmed": 458077,
       "date": "2021-05-13",
-      "deaths": 1761,
-      "recovered": 411360
+      "deaths": 1788,
+      "recovered": 414707
     }
   },
   "Mexico": {
@@ -1317,10 +1317,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1118359,
+      "confirmed": 1124724,
       "date": "2021-05-13",
-      "deaths": 18714,
-      "recovered": 1046431
+      "deaths": 18821,
+      "recovered": 1050643
     }
   },
   "Poland": {
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 386540,
+      "confirmed": 386868,
       "date": "2021-05-13",
-      "deaths": 12096,
+      "deaths": 12135,
       "recovered": 255300
     }
   },
