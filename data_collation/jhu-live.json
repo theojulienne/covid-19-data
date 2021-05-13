@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3191097,
+      "confirmed": 3215572,
       "date": "2021-05-12",
-      "deaths": 68311,
-      "recovered": 2854364
+      "deaths": 68807,
+      "recovered": 2869341
     }
   },
   "Armenia": {
@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 320209,
+      "confirmed": 322578,
       "date": "2021-05-12",
-      "deaths": 13258,
-      "recovered": 262970
+      "deaths": 13308,
+      "recovered": 265017
     }
   },
   "Bosnia and Herzegovina": {
@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 136623,
+          "confirmed": 137223,
           "date": "2021-05-12",
-          "deaths": 1624,
-          "recovered": 128782
+          "deaths": 1627,
+          "recovered": 129524
         }
       },
       "Ontario": {
@@ -517,9 +517,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 402595,
+      "confirmed": 404632,
       "date": "2021-05-12",
-      "deaths": 19286,
+      "deaths": 19349,
       "recovered": 342878
     }
   },
@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 287199,
+      "confirmed": 288184,
       "date": "2021-05-12",
-      "deaths": 1660,
-      "recovered": 272123
+      "deaths": 1669,
+      "recovered": 273289
     }
   },
   "Kyrgyzstan": {
@@ -1161,10 +1161,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 514164,
+      "confirmed": 514432,
       "date": "2021-05-12",
-      "deaths": 9083,
-      "recovered": 501404
+      "deaths": 9088,
+      "recovered": 501692
     }
   },
   "Nepal": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 117757,
+      "confirmed": 117995,
       "date": "2021-05-12",
       "deaths": 774,
       "recovered": 17998
@@ -1401,10 +1401,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 428369,
+      "confirmed": 429389,
       "date": "2021-05-12",
-      "deaths": 7098,
-      "recovered": 412102
+      "deaths": 7111,
+      "recovered": 413010
     }
   },
   "Serbia": {
@@ -1636,7 +1636,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 133668,
+          "confirmed": 133808,
           "date": "2021-05-12",
           "deaths": 3736
         }
@@ -1699,7 +1699,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1310892,
+          "confirmed": 1311131,
           "date": "2021-05-12",
           "deaths": 19980
         }
@@ -1713,9 +1713,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 105690,
+          "confirmed": 105967,
           "date": "2021-05-12",
-          "deaths": 1538
+          "deaths": 1541
         }
       },
       "Wisconsin": {
