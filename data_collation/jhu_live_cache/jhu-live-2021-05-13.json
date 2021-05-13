@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 509724,
+          "confirmed": 509951,
           "date": "2021-05-13",
-          "deaths": 8376,
-          "recovered": 475209
+          "deaths": 8381,
+          "recovered": 475502
         }
       },
       "Quebec": {
@@ -1425,10 +1425,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1602031,
+      "confirmed": 1605252,
       "date": "2021-05-13",
-      "deaths": 54968,
-      "recovered": 1519734
+      "deaths": 55012,
+      "recovered": 1520878
     }
   },
   "Spain": {
@@ -1561,10 +1561,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 324103,
+      "confirmed": 324823,
       "date": "2021-05-13",
-      "deaths": 11637,
-      "recovered": 283270
+      "deaths": 11693,
+      "recovered": 284754
     }
   },
   "Turkey": {
@@ -1607,7 +1607,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101636,
+          "confirmed": 101709,
           "date": "2021-05-13",
           "deaths": 1158
         }
