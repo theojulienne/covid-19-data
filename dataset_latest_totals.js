@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 3047417,
-        "deaths": 65202,
-        "recovered": 2717458
+        "confirmed": 3071496,
+        "deaths": 65865,
+        "recovered": 2734465
       },
       "back_2week": {
-        "confirmed": 2905172,
-        "deaths": 62599,
-        "recovered": 2563223
+        "confirmed": 2928890,
+        "deaths": 62947,
+        "recovered": 2582164
       },
       "latest": {
-        "confirmed": 3191097,
-        "deaths": 68311,
-        "recovered": 2854364
+        "confirmed": 3215572,
+        "deaths": 68807,
+        "recovered": 2869341
       }
     },
     "ARM": {
@@ -350,36 +350,36 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 406192,
-        "deaths": 16609,
-        "recovered": 342226
+        "confirmed": 407827,
+        "deaths": 16773,
+        "recovered": 344895
       },
       "back_2week": {
-        "confirmed": 401109,
-        "deaths": 16182,
-        "recovered": 332418
+        "confirmed": 402491,
+        "deaths": 16278,
+        "recovered": 335431
       },
       "latest": {
-        "confirmed": 412157,
-        "deaths": 17104,
-        "recovered": 353619
+        "confirmed": 412814,
+        "deaths": 17150,
+        "recovered": 357149
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 181880,
-        "deaths": 662,
-        "recovered": 169852
+        "confirmed": 183330,
+        "deaths": 664,
+        "recovered": 170886
       },
       "back_2week": {
-        "confirmed": 173548,
-        "deaths": 626,
-        "recovered": 162537
+        "confirmed": 174659,
+        "deaths": 632,
+        "recovered": 163937
       },
       "latest": {
-        "confirmed": 192750,
-        "deaths": 697,
-        "recovered": 177212
+        "confirmed": 194289,
+        "deaths": 705,
+        "recovered": 178458
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 211836,
-          "deaths": 2119
+          "confirmed": 213635,
+          "deaths": 2123
         },
         "British Columbia": {
           "confirmed": 136623,
