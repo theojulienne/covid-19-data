@@ -525,10 +525,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 239740,
+      "confirmed": 240927,
       "date": "2021-05-13",
-      "deaths": 14033,
-      "recovered": 178241
+      "deaths": 14091,
+      "recovered": 178805
     }
   },
   "Estonia": {
@@ -1297,10 +1297,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 368368,
+      "confirmed": 368930,
       "date": "2021-05-13",
-      "deaths": 6282,
-      "recovered": 357714
+      "deaths": 6285,
+      "recovered": 358044
     }
   },
   "Paraguay": {
