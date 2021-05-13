@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 201796,
+      "confirmed": 202003,
       "date": "2021-05-13",
-      "deaths": 8943,
-      "recovered": 167704
+      "deaths": 8958,
+      "recovered": 168145
     }
   },
   "Brazil": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 262159,
+      "confirmed": 263514,
       "date": "2021-05-13",
       "deaths": 2499,
-      "recovered": 247855
+      "recovered": 248683
     }
   },
   "Dominican Republic": {
@@ -562,7 +562,7 @@
           "confirmed": 473405,
           "date": "2021-05-13",
           "deaths": 9640,
-          "recovered": 423100
+          "recovered": 426200
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 620746,
           "date": "2021-05-13",
           "deaths": 14536,
-          "recovered": 565900
+          "recovered": 569300
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 174423,
           "date": "2021-05-13",
           "deaths": 3325,
-          "recovered": 163700
+          "recovered": 164300
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 105881,
           "date": "2021-05-13",
           "deaths": 3664,
-          "recovered": 96580
+          "recovered": 97100
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 276800,
           "date": "2021-05-13",
           "deaths": 7100,
-          "recovered": 247700
+          "recovered": 249100
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 250092,
           "date": "2021-05-13",
           "deaths": 5455,
-          "recovered": 231100
+          "recovered": 232700
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 778353,
           "date": "2021-05-13",
           "deaths": 16170,
-          "recovered": 700200
+          "recovered": 704700
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 147473,
           "date": "2021-05-13",
           "deaths": 3631,
-          "recovered": 132700
+          "recovered": 134100
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 123320,
           "date": "2021-05-13",
           "deaths": 4032,
-          "recovered": 110900
+          "recovered": 111500
         }
       }
     }
@@ -869,10 +869,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2707761,
+      "confirmed": 2722007,
       "date": "2021-05-13",
-      "deaths": 75934,
-      "recovered": 2162087
+      "deaths": 76231,
+      "recovered": 2179890
     }
   },
   "Iraq": {
@@ -1161,10 +1161,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 422349,
+      "confirmed": 431191,
       "date": "2021-05-13",
-      "deaths": 4252,
-      "recovered": 316463
+      "deaths": 4466,
+      "recovered": 321518
     }
   },
   "Netherlands": {
