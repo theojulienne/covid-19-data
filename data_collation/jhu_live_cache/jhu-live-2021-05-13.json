@@ -861,10 +861,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1728204,
+      "confirmed": 1731652,
       "date": "2021-05-13",
-      "deaths": 47617,
-      "recovered": 1584878
+      "deaths": 47716,
+      "recovered": 1589079
     }
   },
   "Iran": {
@@ -1333,10 +1333,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 840493,
+      "confirmed": 840929,
       "date": "2021-05-13",
-      "deaths": 16998,
-      "recovered": 801621
+      "deaths": 16999,
+      "recovered": 801961
     }
   },
   "Qatar": {
@@ -1684,9 +1684,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 249520,
+          "confirmed": 249662,
           "date": "2021-05-13",
-          "deaths": 5460
+          "deaths": 5463
         }
       },
       "Texas": {
