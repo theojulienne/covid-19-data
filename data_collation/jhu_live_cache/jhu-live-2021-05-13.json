@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 126064,
+      "confirmed": 126364,
       "date": "2021-05-13",
-      "deaths": 1210,
-      "recovered": 117108
+      "deaths": 1212,
+      "recovered": 117582
     }
   },
   "Ethiopia": {
