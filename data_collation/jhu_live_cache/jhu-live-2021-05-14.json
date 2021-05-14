@@ -861,10 +861,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1731652,
+      "confirmed": 1734285,
       "date": "2021-05-14",
-      "deaths": 47716,
-      "recovered": 1589079
+      "deaths": 47823,
+      "recovered": 1592886
     }
   },
   "Iran": {
@@ -1417,10 +1417,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 248046,
+      "confirmed": 248520,
       "date": "2021-05-14",
-      "deaths": 4308,
-      "recovered": 235106
+      "deaths": 4314,
+      "recovered": 236049
     }
   },
   "South Africa": {
