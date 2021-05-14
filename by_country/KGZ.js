@@ -960,7 +960,8 @@ var covid19_dataset_country_kgz = {
       98654,
       99033,
       99316,
-      99645
+      99645,
+      99845
     ],
     "deaths": [
       0,

@@ -1955,17 +1955,17 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 96958,
+        "confirmed": 97278,
         "deaths": 1640,
         "recovered": 90611
       },
       "back_2week": {
-        "confirmed": 94599,
+        "confirmed": 94944,
         "deaths": 1598,
         "recovered": 88923
       },
       "latest": {
-        "confirmed": 99316,
+        "confirmed": 99645,
         "deaths": 1681,
         "recovered": 92718
       }
@@ -2159,19 +2159,19 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 252699,
-        "deaths": 3993,
-        "recovered": 227526
+        "confirmed": 254091,
+        "deaths": 4000,
+        "recovered": 228696
       },
       "back_2week": {
-        "confirmed": 244555,
-        "deaths": 3900,
-        "recovered": 220565
+        "confirmed": 245896,
+        "deaths": 3916,
+        "recovered": 221576
       },
       "latest": {
-        "confirmed": 261128,
-        "deaths": 4059,
-        "recovered": 235265
+        "confirmed": 262335,
+        "deaths": 4071,
+        "recovered": 236442
       }
     },
     "LUX": {
