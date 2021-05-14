@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 634893,
+      "confirmed": 635780,
       "date": "2021-05-14",
-      "deaths": 10444,
-      "recovered": 611254
+      "deaths": 10455,
+      "recovered": 612523
     }
   },
   "Azerbaijan": {
@@ -1006,7 +1006,7 @@
           "confirmed": 150993,
           "date": "2021-05-14",
           "deaths": 1922,
-          "recovered": 139906
+          "recovered": 140796
         }
       }
     }
@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 126378,
+      "confirmed": 127053,
       "date": "2021-05-14",
-      "deaths": 2240,
-      "recovered": 114981
+      "deaths": 2248,
+      "recovered": 115670
     }
   },
   "Lebanon": {
@@ -1317,18 +1317,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1124724,
+      "confirmed": 1131467,
       "date": "2021-05-14",
-      "deaths": 18821,
-      "recovered": 1050643
+      "deaths": 18958,
+      "recovered": 1053523
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2845762,
+      "confirmed": 2849014,
       "date": "2021-05-14",
-      "deaths": 71021,
-      "recovered": 2584751
+      "deaths": 71311,
+      "recovered": 2589277
     }
   },
   "Portugal": {
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 386868,
+      "confirmed": 387162,
       "date": "2021-05-14",
-      "deaths": 12135,
+      "deaths": 12168,
       "recovered": 255300
     }
   },
