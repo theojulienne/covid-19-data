@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 497090,
+          "confirmed": 499380,
           "date": "2021-05-14",
-          "deaths": 10753,
-          "recovered": 468176
+          "deaths": 10822,
+          "recovered": 470327
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 254688,
+          "confirmed": 255563,
           "date": "2021-05-14",
-          "deaths": 7695,
-          "recovered": 239843
+          "deaths": 7735,
+          "recovered": 241179
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 845261,
+          "confirmed": 852988,
           "date": "2021-05-14",
-          "deaths": 16771,
-          "recovered": 779278
+          "deaths": 16902,
+          "recovered": 785038
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 138580,
+          "confirmed": 139627,
           "date": "2021-05-14",
-          "deaths": 3689,
-          "recovered": 130280
+          "deaths": 3734,
+          "recovered": 131094
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 112669,
+          "confirmed": 113902,
           "date": "2021-05-14",
-          "deaths": 3921,
-          "recovered": 104324
+          "deaths": 3951,
+          "recovered": 104966
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 248720,
+          "confirmed": 249706,
           "date": "2021-05-14",
-          "deaths": 7765,
-          "recovered": 235756
+          "deaths": 7807,
+          "recovered": 236655
         }
       }
     }
@@ -1111,9 +1111,9 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 648011,
+          "confirmed": 648972,
           "date": "2021-05-14",
-          "deaths": 32889,
+          "deaths": 32905,
           "recovered": 0
         }
       },
@@ -1127,17 +1127,17 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 246516,
+          "confirmed": 246972,
           "date": "2021-05-14",
-          "deaths": 34265,
+          "deaths": 34352,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 123231,
+          "confirmed": 123292,
           "date": "2021-05-14",
-          "deaths": 9435,
+          "deaths": 9439,
           "recovered": 0
         }
       }
@@ -1586,7 +1586,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2816797,
+          "confirmed": 2816986,
           "date": "2021-05-14",
           "deaths": 48975
         }
