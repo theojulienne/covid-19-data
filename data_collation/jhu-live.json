@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 131617,
+          "confirmed": 132080,
           "date": "2021-05-14",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 125884,
+          "confirmed": 126156,
           "date": "2021-05-14",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 117795,
+          "confirmed": 118123,
           "date": "2021-05-14",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 151058,
+          "confirmed": 151542,
           "date": "2021-05-14",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 124322,
+          "confirmed": 124656,
           "date": "2021-05-14",
           "deaths": 0,
           "recovered": 0
@@ -138,7 +138,7 @@
           "confirmed": 182433,
           "date": "2021-05-14",
           "deaths": 4446,
-          "recovered": 171763
+          "recovered": 173977
         }
       },
       "Amapa": {
@@ -154,7 +154,7 @@
           "confirmed": 377559,
           "date": "2021-05-14",
           "deaths": 12792,
-          "recovered": 321084
+          "recovered": 323054
         }
       },
       "Bahia": {
@@ -298,7 +298,7 @@
           "confirmed": 220425,
           "date": "2021-05-14",
           "deaths": 5434,
-          "recovered": 204079
+          "recovered": 208827
         }
       },
       "Santa Catarina": {
@@ -314,7 +314,7 @@
           "confirmed": 3053889,
           "date": "2021-05-14",
           "deaths": 102934,
-          "recovered": 2709902
+          "recovered": 2731387
         }
       },
       "Sergipe": {
@@ -322,7 +322,7 @@
           "confirmed": 214662,
           "date": "2021-05-14",
           "deaths": 4640,
-          "recovered": 191647
+          "recovered": 194081
         }
       },
       "Tocantins": {
@@ -1037,10 +1037,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 129633,
+      "confirmed": 130380,
       "date": "2021-05-14",
-      "deaths": 1891,
-      "recovered": 119906
+      "deaths": 1893,
+      "recovered": 120395
     }
   },
   "Kosovo": {
@@ -1119,9 +1119,9 @@
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 131202,
+          "confirmed": 131227,
           "date": "2021-05-14",
-          "deaths": 10688,
+          "deaths": 10677,
           "recovered": 0
         }
       },
@@ -1586,7 +1586,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2816986,
+          "confirmed": 2817186,
           "date": "2021-05-14",
           "deaths": 48975
         }
