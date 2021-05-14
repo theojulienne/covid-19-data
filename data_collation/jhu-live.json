@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 778687,
+      "confirmed": 779535,
       "date": "2021-05-14",
-      "deaths": 12076,
-      "recovered": 719619
+      "deaths": 12102,
+      "recovered": 720471
     }
   },
   "Belarus": {
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 348158,
+      "confirmed": 349084,
       "date": "2021-05-14",
-      "deaths": 7623,
-      "recovered": 332669
+      "deaths": 7664,
+      "recovered": 334206
     }
   },
   "Cuba": {
@@ -869,10 +869,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2722007,
+      "confirmed": 2732152,
       "date": "2021-05-14",
-      "deaths": 76231,
-      "recovered": 2179890
+      "deaths": 76433,
+      "recovered": 2196197
     }
   },
   "Iraq": {
@@ -1005,7 +1005,7 @@
         "live": {
           "confirmed": 150993,
           "date": "2021-05-14",
-          "deaths": 1922,
+          "deaths": 1924,
           "recovered": 140796
         }
       }
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 458077,
+      "confirmed": 462190,
       "date": "2021-05-14",
-      "deaths": 1788,
-      "recovered": 414707
+      "deaths": 1822,
+      "recovered": 418897
     }
   },
   "Mexico": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1069770,
+      "confirmed": 1070605,
       "date": "2021-05-14",
-      "deaths": 29308,
-      "recovered": 1020194
+      "deaths": 29413,
+      "recovered": 1022029
     }
   },
   "Russia": {
@@ -1691,7 +1691,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1311672,
+          "confirmed": 1311721,
           "date": "2021-05-14",
           "deaths": 20001
         }
@@ -1781,10 +1781,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 542158,
+      "confirmed": 543610,
       "date": "2021-05-14",
-      "deaths": 1623,
-      "recovered": 522356
+      "deaths": 1626,
+      "recovered": 523778
     }
   },
   "United Kingdom": {
