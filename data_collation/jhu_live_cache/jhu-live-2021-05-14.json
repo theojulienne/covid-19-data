@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 404348,
+      "confirmed": 407024,
       "date": "2021-05-14",
-      "deaths": 3387,
-      "recovered": 359891
+      "deaths": 3391,
+      "recovered": 362684
     }
   },
   "Kenya": {
@@ -1833,10 +1833,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 210948,
+      "confirmed": 211838,
       "date": "2021-05-14",
-      "deaths": 2337,
-      "recovered": 194166
+      "deaths": 2352,
+      "recovered": 195380
     }
   },
   "West Bank and Gaza": {
