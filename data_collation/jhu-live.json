@@ -1425,10 +1425,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1608393,
+      "confirmed": 1611143,
       "date": "2021-05-15",
-      "deaths": 55124,
-      "recovered": 1522165
+      "deaths": 55183,
+      "recovered": 1523243
     }
   },
   "Spain": {
@@ -1607,9 +1607,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101762,
+          "confirmed": 101819,
           "date": "2021-05-15",
-          "deaths": 1158
+          "deaths": 1159
         }
       },
       "Illinois": {
@@ -1656,9 +1656,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 103613,
+          "confirmed": 103703,
           "date": "2021-05-15",
-          "deaths": 2853
+          "deaths": 2854
         }
       },
       "New York": {
@@ -1677,7 +1677,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 239515,
+          "confirmed": 239724,
           "date": "2021-05-15",
           "deaths": 3540
         }
@@ -1691,9 +1691,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1312573,
+          "confirmed": 1312876,
           "date": "2021-05-15",
-          "deaths": 20031
+          "deaths": 20050
         }
       },
       "Utah": {
