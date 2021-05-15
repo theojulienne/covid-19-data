@@ -1,18 +1,18 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 131939,
+      "confirmed": 131978,
       "date": "2021-05-15",
-      "deaths": 2427,
-      "recovered": 122105
+      "deaths": 2429,
+      "recovered": 123081
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 125059,
+      "confirmed": 125194,
       "date": "2021-05-15",
-      "deaths": 3360,
-      "recovered": 87137
+      "deaths": 3366,
+      "recovered": 87251
     }
   },
   "Argentina": {
@@ -162,7 +162,7 @@
           "confirmed": 948753,
           "date": "2021-05-15",
           "deaths": 19739,
-          "recovered": 911392
+          "recovered": 915258
         }
       },
       "Ceara": {
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 514628,
+          "confirmed": 514729,
           "date": "2021-05-15",
           "deaths": 8427,
-          "recovered": 481610
+          "recovered": 481716
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5796026,
+      "confirmed": 5811711,
       "date": "2021-05-15",
-      "deaths": 106652,
-      "recovered": 319798
+      "deaths": 106764,
+      "recovered": 320711
     }
   },
   "Georgia": {
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839079,
+      "confirmed": 839117,
       "date": "2021-05-15",
-      "deaths": 6380,
-      "recovered": 831898
+      "deaths": 6381,
+      "recovered": 831929
     }
   },
   "Italy": {
@@ -1586,7 +1586,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2819177,
+          "confirmed": 2819119,
           "date": "2021-05-15",
           "deaths": 49027
         }
@@ -1600,9 +1600,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1161289,
+          "confirmed": 1162980,
           "date": "2021-05-15",
-          "deaths": 15146
+          "deaths": 15174
         }
       },
       "Georgia": {
@@ -1635,9 +1635,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 277317,
+          "confirmed": 277714,
           "date": "2021-05-15",
-          "deaths": 7139
+          "deaths": 7176
         }
       },
       "Minnesota": {
