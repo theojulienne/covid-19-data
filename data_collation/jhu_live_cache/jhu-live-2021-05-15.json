@@ -599,7 +599,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 251476,
+          "confirmed": 251472,
           "date": "2021-05-15",
           "deaths": 5469,
           "recovered": 234900
@@ -1003,7 +1003,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 150993,
+          "confirmed": 151765,
           "date": "2021-05-15",
           "deaths": 1924,
           "recovered": 140796
@@ -1093,10 +1093,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 263475,
+      "confirmed": 264724,
       "date": "2021-05-15",
-      "deaths": 4084,
-      "recovered": 237431
+      "deaths": 4088,
+      "recovered": 239702
     }
   },
   "Malaysia": {
