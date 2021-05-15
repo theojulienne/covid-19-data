@@ -562,7 +562,7 @@
           "confirmed": 476593,
           "date": "2021-05-15",
           "deaths": 9686,
-          "recovered": 429400
+          "recovered": 433100
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 622728,
           "date": "2021-05-15",
           "deaths": 14554,
-          "recovered": 571600
+          "recovered": 574800
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 174578,
           "date": "2021-05-15",
           "deaths": 3396,
-          "recovered": 164900
+          "recovered": 165300
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 106145,
           "date": "2021-05-15",
           "deaths": 3665,
-          "recovered": 97400
+          "recovered": 98000
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 277815,
           "date": "2021-05-15",
           "deaths": 7106,
-          "recovered": 250700
+          "recovered": 252000
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 250813,
           "date": "2021-05-15",
           "deaths": 5459,
-          "recovered": 234000
+          "recovered": 234900
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 780826,
           "date": "2021-05-15",
           "deaths": 16190,
-          "recovered": 708900
+          "recovered": 712800
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 148368,
           "date": "2021-05-15",
           "deaths": 3639,
-          "recovered": 135000
+          "recovered": 135500
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 123688,
           "date": "2021-05-15",
           "deaths": 4032,
-          "recovered": 112100
+          "recovered": 112700
         }
       }
     }
@@ -1833,10 +1833,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 211838,
+      "confirmed": 212998,
       "date": "2021-05-15",
-      "deaths": 2352,
-      "recovered": 195380
+      "deaths": 2366,
+      "recovered": 196759
     }
   },
   "West Bank and Gaza": {
