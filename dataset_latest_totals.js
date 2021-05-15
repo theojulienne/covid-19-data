@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 627484,
-        "deaths": 10333,
-        "recovered": 597922
+        "confirmed": 628817,
+        "deaths": 10351,
+        "recovered": 599854
       },
       "back_2week": {
-        "confirmed": 616739,
-        "deaths": 10179,
-        "recovered": 582575
+        "confirmed": 618870,
+        "deaths": 10205,
+        "recovered": 584777
       },
       "latest": {
-        "confirmed": 634893,
-        "deaths": 10444,
-        "recovered": 611254
+        "confirmed": 635780,
+        "deaths": 10455,
+        "recovered": 612523
       }
     },
     "AZE": {
@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 364951,
-        "deaths": 2602,
-        "recovered": 355531
+        "confirmed": 366305,
+        "deaths": 2612,
+        "recovered": 356842
       },
       "back_2week": {
-        "confirmed": 357233,
-        "deaths": 2532,
-        "recovered": 347554
+        "confirmed": 358738,
+        "deaths": 2542,
+        "recovered": 349013
       },
       "latest": {
-        "confirmed": 372242,
-        "deaths": 2671,
-        "recovered": 362806
+        "confirmed": 373351,
+        "deaths": 2681,
+        "recovered": 363873
       }
     },
     "BLZ": {
@@ -1115,9 +1115,9 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 256482,
-        "deaths": 2493,
-        "recovered": 243718
+        "confirmed": 257505,
+        "deaths": 2495,
+        "recovered": 244364
       },
       "back_2week": {
         "confirmed": 250554,
@@ -1125,9 +1125,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 237757
       },
       "latest": {
-        "confirmed": 263514,
+        "confirmed": 264465,
         "deaths": 2499,
-        "recovered": 248683
+        "recovered": 249487
       },
       "states": {
         "Faroe Islands": {
