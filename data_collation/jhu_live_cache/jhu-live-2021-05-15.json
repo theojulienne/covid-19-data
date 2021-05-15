@@ -477,10 +477,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 121838,
+      "confirmed": 123221,
       "date": "2021-05-15",
-      "deaths": 785,
-      "recovered": 114544
+      "deaths": 796,
+      "recovered": 115505
     }
   },
   "Czechia": {
@@ -641,9 +641,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 373881,
+      "confirmed": 375831,
       "date": "2021-05-15",
-      "deaths": 11322,
+      "deaths": 11365,
       "recovered": 93764
     }
   },
@@ -1029,10 +1029,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 165112,
+      "confirmed": 165379,
       "date": "2021-05-15",
-      "deaths": 2976,
-      "recovered": 113432
+      "deaths": 3001,
+      "recovered": 113489
     }
   },
   "Korea, South": {
@@ -1145,10 +1145,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 253567,
+      "confirmed": 253736,
       "date": "2021-05-15",
-      "deaths": 6006,
-      "recovered": 244487
+      "deaths": 6016,
+      "recovered": 244664
     }
   },
   "Morocco": {
@@ -1341,10 +1341,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 212667,
+      "confirmed": 212927,
       "date": "2021-05-15",
-      "deaths": 524,
-      "recovered": 205750
+      "deaths": 526,
+      "recovered": 206307
     }
   },
   "Romania": {
@@ -1621,9 +1621,9 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 100387,
+          "confirmed": 100526,
           "date": "2021-05-15",
-          "deaths": 1748
+          "deaths": 1750
         }
       },
       "Massachusetts": {
@@ -1642,7 +1642,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 122664,
+          "confirmed": 122817,
           "date": "2021-05-15",
           "deaths": 1731
         }
@@ -1663,9 +1663,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1379066,
+          "confirmed": 1379774,
           "date": "2021-05-15",
-          "deaths": 39937
+          "deaths": 39938
         }
       },
       "North Carolina": {
