@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 514899,
+          "confirmed": 514907,
           "date": "2021-05-15",
           "deaths": 8430,
-          "recovered": 481987
+          "recovered": 481991
         }
       },
       "Quebec": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 407002,
+      "confirmed": 409520,
       "date": "2021-05-15",
-      "deaths": 19514,
+      "deaths": 19692,
       "recovered": 342878
     }
   },
@@ -893,7 +893,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839117,
+      "confirmed": 839118,
       "date": "2021-05-15",
       "deaths": 6381,
       "recovered": 831929
