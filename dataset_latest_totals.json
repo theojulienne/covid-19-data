@@ -1955,19 +1955,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 97278,
-        "deaths": 1640,
-        "recovered": 90611
+        "confirmed": 97663,
+        "deaths": 1643,
+        "recovered": 90959
       },
       "back_2week": {
-        "confirmed": 94944,
-        "deaths": 1598,
-        "recovered": 88923
+        "confirmed": 95275,
+        "deaths": 1604,
+        "recovered": 89191
       },
       "latest": {
-        "confirmed": 99645,
-        "deaths": 1681,
-        "recovered": 92718
+        "confirmed": 99845,
+        "deaths": 1687,
+        "recovered": 92953
       }
     },
     "KHM": {
