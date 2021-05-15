@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 242120,
+      "confirmed": 243317,
       "date": "2021-05-15",
-      "deaths": 14150,
-      "recovered": 179261
+      "deaths": 14206,
+      "recovered": 179817
     }
   },
   "Estonia": {
@@ -1586,9 +1586,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2817733,
+          "confirmed": 2817993,
           "date": "2021-05-15",
-          "deaths": 49004
+          "deaths": 49007
         }
       },
       "Connecticut": {
