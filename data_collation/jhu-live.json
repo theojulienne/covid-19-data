@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 513933,
+          "confirmed": 514628,
           "date": "2021-05-15",
-          "deaths": 8423,
-          "recovered": 480791
+          "deaths": 8427,
+          "recovered": 481610
         }
       },
       "Quebec": {
@@ -501,10 +501,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 275378,
+      "confirmed": 276272,
       "date": "2021-05-15",
-      "deaths": 3565,
-      "recovered": 232925
+      "deaths": 3569,
+      "recovered": 233431
     }
   },
   "Ecuador": {
@@ -649,10 +649,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 240170,
+      "confirmed": 241117,
       "date": "2021-05-15",
-      "deaths": 7845,
-      "recovered": 219456
+      "deaths": 7872,
+      "recovered": 220536
     }
   },
   "Honduras": {
@@ -1153,10 +1153,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 514705,
+      "confirmed": 514817,
       "date": "2021-05-15",
-      "deaths": 9092,
-      "recovered": 502604
+      "deaths": 9098,
+      "recovered": 502884
     }
   },
   "Nepal": {
@@ -1517,10 +1517,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 138085,
+      "confirmed": 140471,
       "date": "2021-05-15",
       "deaths": 921,
-      "recovered": 110108
+      "recovered": 117220
     }
   },
   "Sweden": {
@@ -1569,10 +1569,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5095390,
+      "confirmed": 5106862,
       "date": "2021-05-15",
-      "deaths": 44301,
-      "recovered": 4894024
+      "deaths": 44537,
+      "recovered": 4932838
     }
   },
   "US": {
@@ -1586,9 +1586,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2818773,
+          "confirmed": 2819177,
           "date": "2021-05-15",
-          "deaths": 49007
+          "deaths": 49027
         }
       },
       "Connecticut": {
@@ -1614,9 +1614,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 545785,
+          "confirmed": 546360,
           "date": "2021-05-15",
-          "deaths": 10114
+          "deaths": 10136
         }
       },
       "Indiana": {
@@ -1684,9 +1684,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 250649,
+          "confirmed": 250835,
           "date": "2021-05-15",
-          "deaths": 5493
+          "deaths": 5495
         }
       },
       "Texas": {
@@ -1698,9 +1698,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 149607,
+          "confirmed": 149710,
           "date": "2021-05-15",
-          "deaths": 871
+          "deaths": 872
         }
       },
       "Washington": {
