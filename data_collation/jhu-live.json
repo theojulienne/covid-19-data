@@ -533,10 +533,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 265832,
+      "confirmed": 266264,
       "date": "2021-05-16",
-      "deaths": 3976,
-      "recovered": 218866
+      "deaths": 3996,
+      "recovered": 219566
     }
   },
   "France": {
@@ -1594,9 +1594,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2819689,
+          "confirmed": 2819746,
           "date": "2021-05-16",
-          "deaths": 49053
+          "deaths": 49054
         }
       },
       "Florida": {
@@ -1608,7 +1608,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101819,
+          "confirmed": 101863,
           "date": "2021-05-16",
           "deaths": 1159
         }
@@ -1678,7 +1678,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 239724,
+          "confirmed": 239911,
           "date": "2021-05-16",
           "deaths": 3540
         }
