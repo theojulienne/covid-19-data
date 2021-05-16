@@ -525,10 +525,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 243317,
+      "confirmed": 244520,
       "date": "2021-05-16",
-      "deaths": 14206,
-      "recovered": 179817
+      "deaths": 14269,
+      "recovered": 180577
     }
   },
   "Estonia": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 118927,
+      "confirmed": 119052,
       "date": "2021-05-16",
       "deaths": 774,
       "recovered": 17998
@@ -1692,7 +1692,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1312876,
+          "confirmed": 1312986,
           "date": "2021-05-16",
           "deaths": 20050
         }
