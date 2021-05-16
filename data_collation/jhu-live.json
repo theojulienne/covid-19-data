@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 225256,
+      "confirmed": 225964,
       "date": "2021-05-16",
-      "deaths": 5937,
-      "recovered": 82549
+      "deaths": 5954,
+      "recovered": 82561
     }
   },
   "Hungary": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 409659,
+      "confirmed": 412236,
       "date": "2021-05-16",
-      "deaths": 3392,
-      "recovered": 365452
+      "deaths": 3394,
+      "recovered": 368703
     }
   },
   "Kenya": {
