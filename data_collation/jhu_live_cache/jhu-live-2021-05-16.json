@@ -485,10 +485,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1652238,
+      "confirmed": 1652840,
       "date": "2021-05-16",
-      "deaths": 29886,
-      "recovered": 1592219
+      "deaths": 29901,
+      "recovered": 1592263
     }
   },
   "Denmark": {
@@ -575,10 +575,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 175201,
+          "confirmed": 175206,
           "date": "2021-05-16",
           "deaths": 3399,
-          "recovered": 165600
+          "recovered": 165700
         }
       },
       "Brandenburg": {
@@ -861,10 +861,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1736670,
+      "confirmed": 1739750,
       "date": "2021-05-16",
-      "deaths": 47967,
-      "recovered": 1597067
+      "deaths": 48093,
+      "recovered": 1600857
     }
   },
   "Iran": {
@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 127597,
+      "confirmed": 127978,
       "date": "2021-05-16",
-      "deaths": 2257,
-      "recovered": 116427
+      "deaths": 2266,
+      "recovered": 117231
     }
   },
   "Lebanon": {
@@ -1317,18 +1317,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1138187,
+      "confirmed": 1143963,
       "date": "2021-05-16",
-      "deaths": 19051,
-      "recovered": 1062427
+      "deaths": 19191,
+      "recovered": 1069868
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2851911,
+      "confirmed": 2854079,
       "date": "2021-05-16",
-      "deaths": 71609,
-      "recovered": 2595635
+      "deaths": 71664,
+      "recovered": 2600974
     }
   },
   "Portugal": {
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 387420,
+      "confirmed": 387523,
       "date": "2021-05-16",
-      "deaths": 12203,
+      "deaths": 12224,
       "recovered": 255300
     }
   },
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 679510,
       "date": "2021-05-16",
-      "deaths": 10730,
+      "deaths": 10731,
       "recovered": 317600
     }
   },
