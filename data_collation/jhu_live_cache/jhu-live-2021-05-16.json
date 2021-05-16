@@ -559,7 +559,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 477881,
+          "confirmed": 478020,
           "date": "2021-05-16",
           "deaths": 9694,
           "recovered": 434700
@@ -1093,10 +1093,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 264724,
+      "confirmed": 265536,
       "date": "2021-05-16",
-      "deaths": 4088,
-      "recovered": 239702
+      "deaths": 4103,
+      "recovered": 239915
     }
   },
   "Malaysia": {
