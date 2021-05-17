@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 637097,
+      "confirmed": 637573,
       "date": "2021-05-17",
-      "deaths": 10474,
-      "recovered": 616148
+      "deaths": 10480,
+      "recovered": 617307
     }
   },
   "Azerbaijan": {
@@ -525,10 +525,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 127053,
+      "confirmed": 127206,
       "date": "2021-05-17",
-      "deaths": 1222,
-      "recovered": 118678
+      "deaths": 1223,
+      "recovered": 118772
     }
   },
   "Ethiopia": {
@@ -861,10 +861,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1739750,
+      "confirmed": 1744045,
       "date": "2021-05-17",
-      "deaths": 48093,
-      "recovered": 1600857
+      "deaths": 48305,
+      "recovered": 1606611
     }
   },
   "Iran": {
@@ -1006,7 +1006,7 @@
           "confirmed": 152726,
           "date": "2021-05-17",
           "deaths": 1935,
-          "recovered": 142310
+          "recovered": 143053
         }
       }
     }
@@ -1069,9 +1069,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 127978,
+      "confirmed": 128125,
       "date": "2021-05-17",
-      "deaths": 2266,
+      "deaths": 2269,
       "recovered": 117231
     }
   },
@@ -1317,18 +1317,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1143963,
+      "confirmed": 1149925,
       "date": "2021-05-17",
-      "deaths": 19191,
-      "recovered": 1069868
+      "deaths": 19262,
+      "recovered": 1076428
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2854079,
+      "confirmed": 2855190,
       "date": "2021-05-17",
-      "deaths": 71664,
-      "recovered": 2600974
+      "deaths": 71675,
+      "recovered": 2605703
     }
   },
   "Portugal": {
@@ -1359,34 +1359,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1137097,
+          "confirmed": 1140670,
           "date": "2021-05-17",
-          "deaths": 19242,
-          "recovered": 1025794
+          "deaths": 19299,
+          "recovered": 1027835
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 260103,
+          "confirmed": 260804,
           "date": "2021-05-17",
-          "deaths": 5997,
-          "recovered": 213302
+          "deaths": 6007,
+          "recovered": 213801
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 115977,
+          "confirmed": 116113,
           "date": "2021-05-17",
-          "deaths": 3407,
-          "recovered": 111283
+          "deaths": 3422,
+          "recovered": 111382
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 427382,
+          "confirmed": 428145,
           "date": "2021-05-17",
-          "deaths": 13762,
-          "recovered": 389984
+          "deaths": 13801,
+          "recovered": 390650
         }
       }
     }
@@ -1409,9 +1409,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 387523,
+      "confirmed": 387659,
       "date": "2021-05-17",
-      "deaths": 12224,
+      "deaths": 12238,
       "recovered": 255300
     }
   },
@@ -1555,7 +1555,7 @@
     "live": {
       "confirmed": 679510,
       "date": "2021-05-17",
-      "deaths": 10731,
+      "deaths": 10732,
       "recovered": 317600
     }
   },
