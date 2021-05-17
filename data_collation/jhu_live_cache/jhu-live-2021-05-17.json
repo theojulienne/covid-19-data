@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 414325,
+      "confirmed": 414345,
       "date": "2021-05-17",
-      "deaths": 3394,
-      "recovered": 370441
+      "deaths": 3400,
+      "recovered": 370524
     }
   },
   "Kenya": {
@@ -1061,10 +1061,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 100473,
+      "confirmed": 100732,
       "date": "2021-05-17",
-      "deaths": 1703,
-      "recovered": 93602
+      "deaths": 1711,
+      "recovered": 93886
     }
   },
   "Latvia": {
@@ -1561,9 +1561,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 101447,
+      "confirmed": 111082,
       "date": "2021-05-17",
-      "deaths": 589,
+      "deaths": 614,
       "recovered": 26873
     }
   },
