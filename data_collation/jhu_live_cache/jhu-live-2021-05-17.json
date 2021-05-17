@@ -411,50 +411,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 503531,
+          "confirmed": 505388,
           "date": "2021-05-17",
-          "deaths": 10986,
-          "recovered": 474971
+          "deaths": 11011,
+          "recovered": 477157
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 258026,
+          "confirmed": 259283,
           "date": "2021-05-17",
-          "deaths": 7848,
-          "recovered": 243288
+          "deaths": 7902,
+          "recovered": 244712
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 861997,
+          "confirmed": 867546,
           "date": "2021-05-17",
           "deaths": 17138,
-          "recovered": 793763
+          "recovered": 796996
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 141818,
+          "confirmed": 142710,
           "date": "2021-05-17",
-          "deaths": 3814,
-          "recovered": 132763
+          "deaths": 3854,
+          "recovered": 133408
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 116642,
+          "confirmed": 117915,
           "date": "2021-05-17",
-          "deaths": 4010,
-          "recovered": 107026
+          "deaths": 4042,
+          "recovered": 107720
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 251550,
+          "confirmed": 252715,
           "date": "2021-05-17",
-          "deaths": 7882,
-          "recovered": 238075
+          "deaths": 7901,
+          "recovered": 239025
         }
       }
     }
@@ -1245,7 +1245,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 119186,
+      "confirmed": 119299,
       "date": "2021-05-17",
       "deaths": 774,
       "recovered": 17998
@@ -1594,7 +1594,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2819853,
+          "confirmed": 2819991,
           "date": "2021-05-17",
           "deaths": 49059
         }
