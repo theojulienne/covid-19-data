@@ -562,7 +562,7 @@
           "confirmed": 478020,
           "date": "2021-05-17",
           "deaths": 9694,
-          "recovered": 434700
+          "recovered": 436900
         }
       },
       "Bayern": {
@@ -570,7 +570,7 @@
           "confirmed": 625450,
           "date": "2021-05-17",
           "deaths": 14587,
-          "recovered": 576400
+          "recovered": 578500
         }
       },
       "Berlin": {
@@ -578,7 +578,7 @@
           "confirmed": 175206,
           "date": "2021-05-17",
           "deaths": 3399,
-          "recovered": 165700
+          "recovered": 166300
         }
       },
       "Brandenburg": {
@@ -586,7 +586,7 @@
           "confirmed": 106476,
           "date": "2021-05-17",
           "deaths": 3673,
-          "recovered": 98000
+          "recovered": 98400
         }
       },
       "Hessen": {
@@ -594,7 +594,7 @@
           "confirmed": 279036,
           "date": "2021-05-17",
           "deaths": 7128,
-          "recovered": 252600
+          "recovered": 253700
         }
       },
       "Niedersachsen": {
@@ -602,7 +602,7 @@
           "confirmed": 252095,
           "date": "2021-05-17",
           "deaths": 5473,
-          "recovered": 235200
+          "recovered": 235900
         }
       },
       "Nordrhein-Westfalen": {
@@ -610,7 +610,7 @@
           "confirmed": 784628,
           "date": "2021-05-17",
           "deaths": 16235,
-          "recovered": 715000
+          "recovered": 718700
         }
       },
       "Rheinland-Pfalz": {
@@ -618,7 +618,7 @@
           "confirmed": 149083,
           "date": "2021-05-17",
           "deaths": 3646,
-          "recovered": 136300
+          "recovered": 136900
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 124286,
           "date": "2021-05-17",
           "deaths": 4055,
-          "recovered": 112900
+          "recovered": 113700
         }
       }
     }
@@ -657,10 +657,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 225964,
+      "confirmed": 226719,
       "date": "2021-05-17",
-      "deaths": 5954,
-      "recovered": 82561
+      "deaths": 5960,
+      "recovered": 82602
     }
   },
   "Hungary": {
@@ -1021,10 +1021,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 412236,
+      "confirmed": 414325,
       "date": "2021-05-17",
       "deaths": 3394,
-      "recovered": 368703
+      "recovered": 370441
     }
   },
   "Kenya": {
@@ -1519,7 +1519,7 @@
     "live": {
       "confirmed": 142746,
       "date": "2021-05-17",
-      "deaths": 941,
+      "deaths": 962,
       "recovered": 118322
     }
   },
