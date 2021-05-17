@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 202143,
+      "confirmed": 202490,
       "date": "2021-05-17",
-      "deaths": 8981,
-      "recovered": 168549
+      "deaths": 9051,
+      "recovered": 169455
     }
   },
   "Brazil": {
@@ -1171,15 +1171,15 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 178437,
+          "confirmed": 178756,
           "date": "2021-05-17",
-          "deaths": 2000,
+          "deaths": 2001,
           "recovered": 0
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 109483,
+          "confirmed": 109742,
           "date": "2021-05-17",
           "deaths": 1617,
           "recovered": 0
@@ -1187,23 +1187,23 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 258313,
+          "confirmed": 258714,
           "date": "2021-05-17",
-          "deaths": 3103,
+          "deaths": 3106,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 266429,
+          "confirmed": 266761,
           "date": "2021-05-17",
-          "deaths": 2567,
+          "deaths": 2568,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 103990,
+          "confirmed": 104179,
           "date": "2021-05-17",
           "deaths": 1121,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 122357,
+          "confirmed": 122525,
           "date": "2021-05-17",
           "deaths": 1264,
           "recovered": 0
@@ -1219,9 +1219,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 380260,
+          "confirmed": 381032,
           "date": "2021-05-17",
-          "deaths": 4201,
+          "deaths": 4203,
           "recovered": 0
         }
       }
@@ -1401,9 +1401,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 706458,
+      "confirmed": 707033,
       "date": "2021-05-17",
-      "deaths": 6681,
+      "deaths": 6696,
       "recovered": 0
     }
   },
