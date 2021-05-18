@@ -390,7 +390,7 @@
           "confirmed": 363847,
           "date": "2021-05-18",
           "deaths": 11042,
-          "recovered": 344950
+          "recovered": 345794
         }
       }
     }
@@ -422,7 +422,7 @@
           "confirmed": 506913,
           "date": "2021-05-18",
           "deaths": 11095,
-          "recovered": 477157
+          "recovered": 479312
         }
       },
       "Atlantico": {
@@ -430,7 +430,7 @@
           "confirmed": 260242,
           "date": "2021-05-18",
           "deaths": 7983,
-          "recovered": 244712
+          "recovered": 245854
         }
       },
       "Capital District": {
@@ -438,7 +438,7 @@
           "confirmed": 870533,
           "date": "2021-05-18",
           "deaths": 17317,
-          "recovered": 796996
+          "recovered": 802221
         }
       },
       "Cundinamarca": {
@@ -446,7 +446,7 @@
           "confirmed": 143855,
           "date": "2021-05-18",
           "deaths": 3910,
-          "recovered": 133408
+          "recovered": 134110
         }
       },
       "Santander": {
@@ -454,7 +454,7 @@
           "confirmed": 118631,
           "date": "2021-05-18",
           "deaths": 4075,
-          "recovered": 107720
+          "recovered": 108795
         }
       },
       "Valle del Cauca": {
@@ -462,7 +462,7 @@
           "confirmed": 253244,
           "date": "2021-05-18",
           "deaths": 7969,
-          "recovered": 239025
+          "recovered": 240014
         }
       }
     }
@@ -1297,10 +1297,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 370877,
+      "confirmed": 371145,
       "date": "2021-05-18",
-      "deaths": 6296,
-      "recovered": 359214
+      "deaths": 6297,
+      "recovered": 359481
     }
   },
   "Paraguay": {
@@ -1714,9 +1714,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 107147,
+          "confirmed": 107366,
           "date": "2021-05-18",
-          "deaths": 1540
+          "deaths": 1546
         }
       },
       "Wisconsin": {
