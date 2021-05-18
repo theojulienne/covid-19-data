@@ -162,7 +162,7 @@
           "confirmed": 957267,
           "date": "2021-05-18",
           "deaths": 19972,
-          "recovered": 921056
+          "recovered": 924699
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 1465668,
           "date": "2021-05-18",
           "deaths": 37557,
-          "recovered": 1349808
+          "recovered": 1359067
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 1032330,
           "date": "2021-05-18",
           "deaths": 26724,
-          "recovered": 990913
+          "recovered": 993260
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 817947,
           "date": "2021-05-18",
           "deaths": 48024,
-          "recovered": 739390
+          "recovered": 758949
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 3096845,
           "date": "2021-05-18",
           "deaths": 104295,
-          "recovered": 2769019
+          "recovered": 2783863
         }
       },
       "Sergipe": {
@@ -371,7 +371,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 520461,
+          "confirmed": 520974,
           "date": "2021-05-18",
           "deaths": 8486,
           "recovered": 491245
@@ -559,9 +559,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 479236,
+          "confirmed": 481089,
           "date": "2021-05-18",
-          "deaths": 9725,
+          "deaths": 9751,
           "recovered": 440100
         }
       },
@@ -893,10 +893,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839163,
+      "confirmed": 839167,
       "date": "2021-05-18",
       "deaths": 6392,
-      "recovered": 832092
+      "recovered": 832104
     }
   },
   "Italy": {
@@ -1594,7 +1594,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2820805,
+          "confirmed": 2820861,
           "date": "2021-05-18",
           "deaths": 49070
         }
@@ -1608,7 +1608,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101892,
+          "confirmed": 101951,
           "date": "2021-05-18",
           "deaths": 1159
         }
