@@ -683,42 +683,42 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 1435491,
+          "confirmed": 1454052,
           "date": "2021-05-18",
-          "deaths": 9372,
-          "recovered": 1215683
+          "deaths": 9481,
+          "recovered": 1233017
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 328629,
+          "confirmed": 335023,
           "date": "2021-05-18",
-          "deaths": 2179,
-          "recovered": 281726
+          "deaths": 2271,
+          "recovered": 286463
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 651909,
+          "confirmed": 657829,
           "date": "2021-05-18",
-          "deaths": 3832,
-          "recovered": 572987
+          "deaths": 3928,
+          "recovered": 584203
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 912477,
+          "confirmed": 919054,
           "date": "2021-05-18",
-          "deaths": 11734,
-          "recovered": 797150
+          "deaths": 11883,
+          "recovered": 811015
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1393867,
+          "confirmed": 1398391,
           "date": "2021-05-18",
-          "deaths": 21506,
-          "recovered": 1309578
+          "deaths": 21846,
+          "recovered": 1320496
         }
       },
       "Goa": {
@@ -1271,26 +1271,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 127038,
+          "confirmed": 127224,
           "date": "2021-05-18",
-          "deaths": 3786,
-          "recovered": 115428
+          "deaths": 3804,
+          "recovered": 115742
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 327362,
+          "confirmed": 328775,
           "date": "2021-05-18",
-          "deaths": 9411,
-          "recovered": 287376
+          "deaths": 9500,
+          "recovered": 288809
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 299194,
+          "confirmed": 299913,
           "date": "2021-05-18",
-          "deaths": 4801,
-          "recovered": 276076
+          "deaths": 4824,
+          "recovered": 276742
         }
       }
     }
