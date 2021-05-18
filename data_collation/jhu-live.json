@@ -234,7 +234,7 @@
           "confirmed": 499176,
           "date": "2021-05-18",
           "deaths": 13961,
-          "recovered": 464203
+          "recovered": 468556
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 257554,
           "date": "2021-05-18",
           "deaths": 5537,
-          "recovered": 250887
+          "recovered": 252418
         }
       },
       "Rio Grande do Norte": {
@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 267339,
+      "confirmed": 268255,
       "date": "2021-05-18",
       "deaths": 2503,
-      "recovered": 251665
+      "recovered": 252686
     }
   },
   "Dominican Republic": {
@@ -1341,10 +1341,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 213485,
+      "confirmed": 213855,
       "date": "2021-05-18",
-      "deaths": 532,
-      "recovered": 207796
+      "deaths": 536,
+      "recovered": 208614
     }
   },
   "Romania": {
@@ -1393,17 +1393,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 433980,
+      "confirmed": 435912,
       "date": "2021-05-18",
-      "deaths": 7174,
-      "recovered": 418914
+      "deaths": 7200,
+      "recovered": 420888
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 707033,
+      "confirmed": 707719,
       "date": "2021-05-18",
-      "deaths": 6696,
+      "deaths": 6710,
       "recovered": 0
     }
   },
@@ -1527,25 +1527,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 149348,
+          "confirmed": 150664,
           "date": "2021-05-18",
-          "deaths": 1703,
+          "deaths": 1715,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 245353,
+          "confirmed": 247714,
           "date": "2021-05-18",
-          "deaths": 4266,
+          "deaths": 4267,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 180440,
+          "confirmed": 182679,
           "date": "2021-05-18",
-          "deaths": 2329,
+          "deaths": 2331,
           "recovered": 0
         }
       }
