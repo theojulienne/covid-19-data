@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 202490,
+      "confirmed": 202675,
       "date": "2021-05-18",
-      "deaths": 9051,
-      "recovered": 169455
+      "deaths": 9070,
+      "recovered": 170256
     }
   },
   "Brazil": {
@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 363847,
+          "confirmed": 364396,
           "date": "2021-05-18",
-          "deaths": 11042,
+          "deaths": 11050,
           "recovered": 345794
         }
       }
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 627031,
+          "confirmed": 627055,
           "date": "2021-05-18",
-          "deaths": 14633,
+          "deaths": 14638,
           "recovered": 582400
         }
       },
@@ -1006,7 +1006,7 @@
           "confirmed": 153458,
           "date": "2021-05-18",
           "deaths": 1953,
-          "recovered": 143053
+          "recovered": 143910
         }
       }
     }
@@ -1657,9 +1657,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 103797,
+          "confirmed": 103831,
           "date": "2021-05-18",
-          "deaths": 2855
+          "deaths": 2858
         }
       },
       "New York": {
