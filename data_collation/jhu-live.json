@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 520411,
+          "confirmed": 520461,
           "date": "2021-05-18",
-          "deaths": 8477,
-          "recovered": 489945
+          "deaths": 8486,
+          "recovered": 491245
         }
       },
       "Quebec": {
@@ -1601,9 +1601,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1165299,
+          "confirmed": 1166666,
           "date": "2021-05-18",
-          "deaths": 15207
+          "deaths": 15239
         }
       },
       "Georgia": {
@@ -1666,7 +1666,7 @@
         "live": {
           "confirmed": 1382522,
           "date": "2021-05-18",
-          "deaths": 40015
+          "deaths": 40017
         }
       },
       "North Carolina": {
@@ -1678,9 +1678,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 240104,
+          "confirmed": 240344,
           "date": "2021-05-18",
-          "deaths": 3540
+          "deaths": 3554
         }
       },
       "Pennsylvania": {
@@ -1699,9 +1699,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 149840,
+          "confirmed": 149935,
           "date": "2021-05-18",
-          "deaths": 872
+          "deaths": 876
         }
       },
       "Washington": {
@@ -1713,9 +1713,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 116474,
+          "confirmed": 116546,
           "date": "2021-05-18",
-          "deaths": 1368
+          "deaths": 1370
         }
       }
     }
