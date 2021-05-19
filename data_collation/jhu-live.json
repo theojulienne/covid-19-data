@@ -186,7 +186,7 @@
           "confirmed": 462444,
           "date": "2021-05-19",
           "deaths": 10326,
-          "recovered": 433068
+          "recovered": 434940
         }
       },
       "Goias": {
@@ -226,7 +226,7 @@
           "confirmed": 1472801,
           "date": "2021-05-19",
           "deaths": 37617,
-          "recovered": 1359067
+          "recovered": 1368401
         }
       },
       "Para": {
@@ -330,7 +330,7 @@
           "confirmed": 169365,
           "date": "2021-05-19",
           "deaths": 2737,
-          "recovered": 152214
+          "recovered": 153562
         }
       }
     }
@@ -371,10 +371,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 523179,
+          "confirmed": 523186,
           "date": "2021-05-19",
           "deaths": 8508,
-          "recovered": 494090
+          "recovered": 494097
         }
       },
       "Quebec": {
@@ -1425,10 +1425,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1617840,
+      "confirmed": 1621362,
       "date": "2021-05-19",
-      "deaths": 55340,
-      "recovered": 1527968
+      "deaths": 55507,
+      "recovered": 1528868
     }
   },
   "Spain": {
@@ -1596,7 +1596,7 @@
         "live": {
           "confirmed": 2821648,
           "date": "2021-05-19",
-          "deaths": 49088
+          "deaths": 49092
         }
       },
       "Florida": {
@@ -1608,9 +1608,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 101951,
+          "confirmed": 102035,
           "date": "2021-05-19",
-          "deaths": 1159
+          "deaths": 1161
         }
       },
       "Illinois": {
@@ -1692,9 +1692,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1315769,
+          "confirmed": 1316060,
           "date": "2021-05-19",
-          "deaths": 20083
+          "deaths": 20115
         }
       },
       "Utah": {
