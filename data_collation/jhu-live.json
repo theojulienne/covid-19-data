@@ -517,10 +517,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 246909,
+      "confirmed": 248078,
       "date": "2021-05-19",
-      "deaths": 14388,
-      "recovered": 182024
+      "deaths": 14441,
+      "recovered": 182693
     }
   },
   "Estonia": {
