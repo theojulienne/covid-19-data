@@ -493,10 +493,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 268255,
+      "confirmed": 269343,
       "date": "2021-05-19",
-      "deaths": 2503,
-      "recovered": 252686
+      "deaths": 2505,
+      "recovered": 253678
     }
   },
   "Dominican Republic": {
@@ -1161,10 +1161,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 472354,
+      "confirmed": 480418,
       "date": "2021-05-19",
-      "deaths": 5411,
-      "recovered": 352414
+      "deaths": 5657,
+      "recovered": 360403
     }
   },
   "Netherlands": {
@@ -1237,17 +1237,17 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 154804,
+      "confirmed": 154891,
       "date": "2021-05-19",
-      "deaths": 5232,
-      "recovered": 146302
+      "deaths": 5249,
+      "recovered": 146499
     }
   },
   "Norway": {
     "live": {
       "confirmed": 119814,
       "date": "2021-05-19",
-      "deaths": 774,
+      "deaths": 781,
       "recovered": 17998
     }
   },
@@ -1341,10 +1341,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 213855,
+      "confirmed": 214150,
       "date": "2021-05-19",
-      "deaths": 536,
-      "recovered": 208614
+      "deaths": 538,
+      "recovered": 209251
     }
   },
   "Romania": {
@@ -1401,9 +1401,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 707719,
+      "confirmed": 708328,
       "date": "2021-05-19",
-      "deaths": 6710,
+      "deaths": 6725,
       "recovered": 0
     }
   },
@@ -1527,25 +1527,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 150664,
+          "confirmed": 151421,
           "date": "2021-05-19",
-          "deaths": 1715,
+          "deaths": 1716,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 247714,
+          "confirmed": 248348,
           "date": "2021-05-19",
-          "deaths": 4267,
+          "deaths": 4294,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 182679,
+          "confirmed": 183588,
           "date": "2021-05-19",
-          "deaths": 2331,
+          "deaths": 2336,
           "recovered": 0
         }
       }
