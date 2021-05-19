@@ -33,9 +33,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 638155,
+      "confirmed": 639054,
       "date": "2021-05-19",
-      "deaths": 10499,
+      "deaths": 10508,
       "recovered": 618798
     }
   },
@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 782129,
+      "confirmed": 783737,
       "date": "2021-05-19",
-      "deaths": 12211,
-      "recovered": 724209
+      "deaths": 12248,
+      "recovered": 726132
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 378711,
+      "confirmed": 380089,
       "date": "2021-05-19",
-      "deaths": 2721,
-      "recovered": 368832
+      "deaths": 2732,
+      "recovered": 370135
     }
   },
   "Belgium": {
@@ -575,7 +575,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 176035,
+          "confirmed": 176049,
           "date": "2021-05-19",
           "deaths": 3412,
           "recovered": 167700
@@ -1045,10 +1045,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 106531,
+      "confirmed": 106595,
       "date": "2021-05-19",
-      "deaths": 2231,
-      "recovered": 99608
+      "deaths": 2232,
+      "recovered": 100017
     }
   },
   "Kuwait": {
@@ -1349,10 +1349,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1072972,
+      "confirmed": 1073679,
       "date": "2021-05-19",
-      "deaths": 29662,
-      "recovered": 1027412
+      "deaths": 29716,
+      "recovered": 1028554
     }
   },
   "Russia": {
@@ -1553,9 +1553,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 683400,
+      "confirmed": 684954,
       "date": "2021-05-19",
-      "deaths": 10754,
+      "deaths": 10755,
       "recovered": 317600
     }
   },
