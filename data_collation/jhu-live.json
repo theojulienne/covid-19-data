@@ -282,7 +282,7 @@
           "confirmed": 1038044,
           "date": "2021-05-19",
           "deaths": 26901,
-          "recovered": 995776
+          "recovered": 999737
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 823456,
           "date": "2021-05-19",
           "deaths": 48313,
-          "recovered": 763444
+          "recovered": 766981
         }
       },
       "Rondonia": {
@@ -509,9 +509,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 411466,
+      "confirmed": 412907,
       "date": "2021-05-19",
-      "deaths": 19877,
+      "deaths": 19979,
       "recovered": 354499
     }
   },
@@ -1594,7 +1594,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2821648,
+          "confirmed": 2821788,
           "date": "2021-05-19",
           "deaths": 49092
         }
