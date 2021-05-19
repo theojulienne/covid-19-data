@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 202675,
+      "confirmed": 202847,
       "date": "2021-05-19",
-      "deaths": 9070,
-      "recovered": 170256
+      "deaths": 9086,
+      "recovered": 170788
     }
   },
   "Brazil": {
@@ -379,9 +379,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 364396,
+          "confirmed": 364980,
           "date": "2021-05-19",
-          "deaths": 11050,
+          "deaths": 11058,
           "recovered": 346639
         }
       }
@@ -567,9 +567,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 628744,
+          "confirmed": 628821,
           "date": "2021-05-19",
-          "deaths": 14661,
+          "deaths": 14662,
           "recovered": 585800
         }
       },
@@ -609,23 +609,23 @@
         "live": {
           "confirmed": 789621,
           "date": "2021-05-19",
-          "deaths": 16357,
+          "deaths": 16356,
           "recovered": 727800
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 149661,
+          "confirmed": 150189,
           "date": "2021-05-19",
-          "deaths": 3662,
+          "deaths": 3672,
           "recovered": 138600
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 279228,
+          "confirmed": 280245,
           "date": "2021-05-19",
-          "deaths": 9455,
+          "deaths": 9481,
           "recovered": 251500
         }
       },
@@ -1517,7 +1517,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 147720,
+      "confirmed": 150771,
       "date": "2021-05-19",
       "deaths": 1015,
       "recovered": 121145
