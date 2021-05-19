@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 204524,
       "date": "2021-05-19",
-      "deaths": 767,
+      "deaths": 768,
       "recovered": 186961
     }
   },
@@ -469,10 +469,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 350997,
+      "confirmed": 351997,
       "date": "2021-05-19",
-      "deaths": 7765,
-      "recovered": 338361
+      "deaths": 7792,
+      "recovered": 338982
     }
   },
   "Cuba": {
@@ -869,10 +869,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2779415,
+      "confirmed": 2792204,
       "date": "2021-05-19",
-      "deaths": 77532,
-      "recovered": 2258046
+      "deaths": 77765,
+      "recovered": 2272719
     }
   },
   "Iraq": {
@@ -1005,7 +1005,7 @@
         "live": {
           "confirmed": 154224,
           "date": "2021-05-19",
-          "deaths": 1953,
+          "deaths": 1968,
           "recovered": 144876
         }
       }
@@ -1085,10 +1085,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 182012,
+      "confirmed": 182350,
       "date": "2021-05-19",
       "deaths": 3097,
-      "recovered": 168785
+      "recovered": 169070
     }
   },
   "Lithuania": {
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 479421,
+      "confirmed": 485496,
       "date": "2021-05-19",
-      "deaths": 1994,
-      "recovered": 432600
+      "deaths": 2040,
+      "recovered": 436116
     }
   },
   "Mexico": {
@@ -1417,10 +1417,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 249921,
+      "confirmed": 250453,
       "date": "2021-05-19",
-      "deaths": 4333,
-      "recovered": 238517
+      "deaths": 4338,
+      "recovered": 239442
     }
   },
   "South Africa": {
@@ -1782,10 +1782,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 548681,
+      "confirmed": 550029,
       "date": "2021-05-19",
-      "deaths": 1637,
-      "recovered": 528769
+      "deaths": 1639,
+      "recovered": 530085
     }
   },
   "United Kingdom": {
@@ -1842,10 +1842,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 304074,
+      "confirmed": 304532,
       "date": "2021-05-19",
-      "deaths": 3437,
-      "recovered": 293808
+      "deaths": 3448,
+      "recovered": 295643
     }
   }
 }
