@@ -609,7 +609,7 @@
         "live": {
           "confirmed": 789621,
           "date": "2021-05-19",
-          "deaths": 16356,
+          "deaths": 16357,
           "recovered": 727800
         }
       },
@@ -1724,58 +1724,58 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 129421,
+          "confirmed": 129878,
           "date": "2021-05-19",
-          "deaths": 3809,
-          "recovered": 112008
+          "deaths": 3846,
+          "recovered": 113895
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 143575,
+          "confirmed": 144142,
           "date": "2021-05-19",
-          "deaths": 3073,
-          "recovered": 123635
+          "deaths": 3092,
+          "recovered": 124642
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 202417,
+          "confirmed": 202894,
           "date": "2021-05-19",
-          "deaths": 4959,
-          "recovered": 133079
+          "deaths": 4972,
+          "recovered": 134959
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 122471,
+          "confirmed": 122807,
           "date": "2021-05-19",
-          "deaths": 2592,
-          "recovered": 112406
+          "deaths": 2604,
+          "recovered": 113348
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 133422,
+          "confirmed": 133661,
           "date": "2021-05-19",
-          "deaths": 3488,
-          "recovered": 120365
+          "deaths": 3499,
+          "recovered": 121614
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 138065,
+          "confirmed": 138195,
           "date": "2021-05-19",
-          "deaths": 2821,
-          "recovered": 114308
+          "deaths": 2827,
+          "recovered": 115380
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 100344,
+          "confirmed": 100620,
           "date": "2021-05-19",
-          "deaths": 2184,
-          "recovered": 90061
+          "deaths": 2193,
+          "recovered": 90649
         }
       }
     }
