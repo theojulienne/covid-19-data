@@ -1003,7 +1003,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 153458,
+          "confirmed": 154224,
           "date": "2021-05-19",
           "deaths": 1953,
           "recovered": 143910
@@ -1061,10 +1061,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 100966,
+      "confirmed": 101219,
       "date": "2021-05-19",
-      "deaths": 1718,
-      "recovered": 94168
+      "deaths": 1725,
+      "recovered": 94483
     }
   },
   "Latvia": {
@@ -1093,10 +1093,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 266795,
+      "confirmed": 267769,
       "date": "2021-05-19",
-      "deaths": 4126,
-      "recovered": 242103
+      "deaths": 4136,
+      "recovered": 243126
     }
   },
   "Malaysia": {
@@ -1555,15 +1555,15 @@
     "live": {
       "confirmed": 683400,
       "date": "2021-05-19",
-      "deaths": 10752,
+      "deaths": 10753,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 113555,
+      "confirmed": 116949,
       "date": "2021-05-19",
-      "deaths": 649,
+      "deaths": 678,
       "recovered": 26873
     }
   },
@@ -1594,9 +1594,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2821153,
+          "confirmed": 2821358,
           "date": "2021-05-19",
-          "deaths": 49069
+          "deaths": 49074
         }
       },
       "Florida": {
