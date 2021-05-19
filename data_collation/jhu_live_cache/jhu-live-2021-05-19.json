@@ -861,10 +861,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1748230,
+      "confirmed": 1753101,
       "date": "2021-05-19",
-      "deaths": 48477,
-      "recovered": 1612239
+      "deaths": 48669,
+      "recovered": 1616603
     }
   },
   "Iran": {
@@ -1006,7 +1006,7 @@
           "confirmed": 154224,
           "date": "2021-05-19",
           "deaths": 1953,
-          "recovered": 143910
+          "recovered": 144876
         }
       }
     }
