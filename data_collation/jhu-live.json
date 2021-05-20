@@ -1467,9 +1467,9 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 189827,
+          "confirmed": 190021,
           "date": "2021-05-20",
-          "deaths": 5900,
+          "deaths": 5894,
           "recovered": 6392
         }
       },
@@ -1602,21 +1602,21 @@
       },
       "California": {
         "live": {
-          "confirmed": 2822292,
+          "confirmed": 2822367,
           "date": "2021-05-20",
-          "deaths": 49113
+          "deaths": 49116
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 1168055,
+          "confirmed": 1169438,
           "date": "2021-05-20",
-          "deaths": 15270
+          "deaths": 15306
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 102035,
+          "confirmed": 102106,
           "date": "2021-05-20",
           "deaths": 1161
         }
@@ -1665,9 +1665,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 103872,
+          "confirmed": 103898,
           "date": "2021-05-20",
-          "deaths": 2858
+          "deaths": 2859
         }
       },
       "New York": {
@@ -1721,9 +1721,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 116613,
+          "confirmed": 116725,
           "date": "2021-05-20",
-          "deaths": 1370
+          "deaths": 1371
         }
       }
     }
