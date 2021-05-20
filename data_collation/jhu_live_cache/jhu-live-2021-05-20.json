@@ -138,7 +138,7 @@
           "confirmed": 186122,
           "date": "2021-05-20",
           "deaths": 4538,
-          "recovered": 173977
+          "recovered": 177282
         }
       },
       "Amapa": {
@@ -154,7 +154,7 @@
           "confirmed": 380416,
           "date": "2021-05-20",
           "deaths": 12893,
-          "recovered": 323054
+          "recovered": 326120
         }
       },
       "Bahia": {
@@ -202,7 +202,7 @@
           "confirmed": 281250,
           "date": "2021-05-20",
           "deaths": 7789,
-          "recovered": 246329
+          "recovered": 249760
         }
       },
       "Mato Grosso": {
@@ -210,7 +210,7 @@
           "confirmed": 385848,
           "date": "2021-05-20",
           "deaths": 10373,
-          "recovered": 361300
+          "recovered": 366623
         }
       },
       "Mato Grosso do Sul": {
@@ -218,7 +218,7 @@
           "confirmed": 269557,
           "date": "2021-05-20",
           "deaths": 6310,
-          "recovered": 246572
+          "recovered": 249323
         }
       },
       "Minas Gerais": {
@@ -250,7 +250,7 @@
           "confirmed": 1039201,
           "date": "2021-05-20",
           "deaths": 25059,
-          "recovered": 715281
+          "recovered": 723296
         }
       },
       "Pernambuco": {
@@ -298,7 +298,7 @@
           "confirmed": 223294,
           "date": "2021-05-20",
           "deaths": 5545,
-          "recovered": 208827
+          "recovered": 211039
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 936823,
           "date": "2021-05-20",
           "deaths": 14621,
-          "recovered": 893852
+          "recovered": 901919
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 220619,
           "date": "2021-05-20",
           "deaths": 4802,
-          "recovered": 194081
+          "recovered": 200282
         }
       },
       "Tocantins": {
@@ -552,7 +552,7 @@
       "confirmed": 5863138,
       "date": "2021-05-20",
       "deaths": 107390,
-      "recovered": 324452
+      "recovered": 324444
     }
   },
   "Georgia": {
@@ -1602,9 +1602,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2821788,
+          "confirmed": 2822077,
           "date": "2021-05-20",
-          "deaths": 49092
+          "deaths": 49096
         }
       },
       "Florida": {
