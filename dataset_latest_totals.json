@@ -1785,19 +1785,19 @@
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 2691352,
-        "deaths": 75568,
-        "recovered": 2144197
+        "confirmed": 2707761,
+        "deaths": 75934,
+        "recovered": 2162087
       },
       "back_2week": {
-        "confirmed": 2575737,
-        "deaths": 73219,
-        "recovered": 2022586
+        "confirmed": 2591609,
+        "deaths": 73568,
+        "recovered": 2039427
       },
       "latest": {
-        "confirmed": 2779415,
-        "deaths": 77532,
-        "recovered": 2258046
+        "confirmed": 2792204,
+        "deaths": 77765,
+        "recovered": 2272719
       }
     },
     "IRQ": {

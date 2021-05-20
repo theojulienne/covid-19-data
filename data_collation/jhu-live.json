@@ -877,10 +877,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2792204,
+      "confirmed": 2804632,
       "date": "2021-05-20",
-      "deaths": 77765,
-      "recovered": 2272719
+      "deaths": 77994,
+      "recovered": 2290613
     }
   },
   "Iraq": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 684954,
       "date": "2021-05-20",
-      "deaths": 10758,
+      "deaths": 10759,
       "recovered": 317600
     }
   },
