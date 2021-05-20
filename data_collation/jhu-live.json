@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 143159,
+      "confirmed": 143183,
       "date": "2021-05-20",
       "deaths": 3216,
-      "recovered": 132136
+      "recovered": 132148
     }
   },
   "Canada": {
@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 364980,
+          "confirmed": 365642,
           "date": "2021-05-20",
-          "deaths": 11058,
+          "deaths": 11066,
           "recovered": 347387
         }
       }
@@ -631,9 +631,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 280274,
+          "confirmed": 280894,
           "date": "2021-05-20",
-          "deaths": 9483,
+          "deaths": 9507,
           "recovered": 252900
         }
       },
@@ -1245,15 +1245,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 154891,
+      "confirmed": 154937,
       "date": "2021-05-20",
-      "deaths": 5249,
-      "recovered": 146499
+      "deaths": 5265,
+      "recovered": 146632
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 120292,
+      "confirmed": 120513,
       "date": "2021-05-20",
       "deaths": 781,
       "recovered": 17998
@@ -1401,10 +1401,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 436239,
+      "confirmed": 437569,
       "date": "2021-05-20",
-      "deaths": 7201,
-      "recovered": 420671
+      "deaths": 7214,
+      "recovered": 421726
     }
   },
   "Serbia": {
