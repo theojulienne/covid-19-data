@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 206878,
+      "confirmed": 209293,
       "date": "2021-05-20",
-      "deaths": 773,
-      "recovered": 188496
+      "deaths": 780,
+      "recovered": 189962
     }
   },
   "Bangladesh": {
@@ -250,7 +250,7 @@
           "confirmed": 1039201,
           "date": "2021-05-20",
           "deaths": 25059,
-          "recovered": 723296
+          "recovered": 726607
         }
       },
       "Pernambuco": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 221467,
+          "confirmed": 222279,
           "date": "2021-05-20",
-          "deaths": 2158,
-          "recovered": 200496
+          "deaths": 2162,
+          "recovered": 202442
         }
       },
       "British Columbia": {
@@ -517,9 +517,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 412907,
+      "confirmed": 415255,
       "date": "2021-05-20",
-      "deaths": 19979,
+      "deaths": 20022,
       "recovered": 354499
     }
   },
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1316908,
+          "confirmed": 1317026,
           "date": "2021-05-20",
           "deaths": 20137
         }
