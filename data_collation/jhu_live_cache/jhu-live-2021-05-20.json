@@ -607,9 +607,9 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 254252,
+          "confirmed": 254251,
           "date": "2021-05-20",
-          "deaths": 5530,
+          "deaths": 5529,
           "recovered": 239700
         }
       },
@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 101219,
+      "confirmed": 101580,
       "date": "2021-05-20",
-      "deaths": 1725,
-      "recovered": 94483
+      "deaths": 1729,
+      "recovered": 94803
     }
   },
   "Latvia": {
@@ -1602,7 +1602,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2822077,
+          "confirmed": 2822175,
           "date": "2021-05-20",
           "deaths": 49096
         }
