@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 783737,
+      "confirmed": 785194,
       "date": "2021-05-20",
-      "deaths": 12248,
-      "recovered": 726132
+      "deaths": 12284,
+      "recovered": 727510
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 380089,
+      "confirmed": 381546,
       "date": "2021-05-20",
-      "deaths": 2732,
-      "recovered": 370135
+      "deaths": 2742,
+      "recovered": 371666
     }
   },
   "Belgium": {
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 155067,
           "date": "2021-05-20",
-          "deaths": 1968,
+          "deaths": 1981,
           "recovered": 145819
         }
       }
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 485496,
+      "confirmed": 492302,
       "date": "2021-05-20",
-      "deaths": 2040,
-      "recovered": 436116
+      "deaths": 2099,
+      "recovered": 440032
     }
   },
   "Mexico": {
@@ -1357,10 +1357,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1073679,
+      "confirmed": 1074297,
       "date": "2021-05-20",
-      "deaths": 29716,
-      "recovered": 1028554
+      "deaths": 29777,
+      "recovered": 1029375
     }
   },
   "Russia": {
@@ -1425,10 +1425,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 250453,
+      "confirmed": 250811,
       "date": "2021-05-20",
-      "deaths": 4338,
-      "recovered": 239442
+      "deaths": 4345,
+      "recovered": 240211
     }
   },
   "South Africa": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1316368,
+          "confirmed": 1316427,
           "date": "2021-05-20",
           "deaths": 20115
         }
@@ -1790,10 +1790,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 550029,
+      "confirmed": 551430,
       "date": "2021-05-20",
-      "deaths": 1639,
-      "recovered": 530085
+      "deaths": 1642,
+      "recovered": 531459
     }
   },
   "United Kingdom": {
