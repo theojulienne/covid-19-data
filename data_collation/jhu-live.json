@@ -162,7 +162,7 @@
           "confirmed": 966268,
           "date": "2021-05-20",
           "deaths": 20131,
-          "recovered": 928500
+          "recovered": 932687
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 463443,
           "date": "2021-05-20",
           "deaths": 10342,
-          "recovered": 436442
+          "recovered": 437961
         }
       },
       "Goias": {
@@ -282,7 +282,7 @@
           "confirmed": 1043927,
           "date": "2021-05-20",
           "deaths": 27031,
-          "recovered": 999737
+          "recovered": 1003639
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 828283,
           "date": "2021-05-20",
           "deaths": 48662,
-          "recovered": 766981
+          "recovered": 770379
         }
       },
       "Rondonia": {
@@ -1433,10 +1433,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1621362,
+      "confirmed": 1625003,
       "date": "2021-05-20",
-      "deaths": 55507,
-      "recovered": 1528868
+      "deaths": 55568,
+      "recovered": 1531993
     }
   },
   "Spain": {
@@ -1595,16 +1595,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 661969,
+          "confirmed": 662348,
           "date": "2021-05-20",
-          "deaths": 12382
+          "deaths": 12392
         }
       },
       "California": {
         "live": {
-          "confirmed": 2822367,
+          "confirmed": 2822601,
           "date": "2021-05-20",
-          "deaths": 49116
+          "deaths": 49118
         }
       },
       "Florida": {
@@ -1637,7 +1637,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 134286,
+          "confirmed": 134362,
           "date": "2021-05-20",
           "deaths": 3749
         }
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1316818,
+          "confirmed": 1316908,
           "date": "2021-05-20",
           "deaths": 20137
         }
