@@ -186,7 +186,7 @@
           "confirmed": 463443,
           "date": "2021-05-20",
           "deaths": 10342,
-          "recovered": 434940
+          "recovered": 436442
         }
       },
       "Goias": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 524650,
+          "confirmed": 525365,
           "date": "2021-05-20",
-          "deaths": 8518,
-          "recovered": 495553
+          "deaths": 8533,
+          "recovered": 496573
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 267597,
+      "confirmed": 268035,
       "date": "2021-05-20",
-      "deaths": 4038,
-      "recovered": 222560
+      "deaths": 4048,
+      "recovered": 223993
     }
   },
   "France": {
@@ -901,10 +901,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839261,
+      "confirmed": 839263,
       "date": "2021-05-20",
       "deaths": 6396,
-      "recovered": 832242
+      "recovered": 832243
     }
   },
   "Italy": {
@@ -1315,9 +1315,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 863454,
+          "confirmed": 865232,
           "date": "2021-05-20",
-          "deaths": 29013,
+          "deaths": 29096,
           "recovered": 0
         }
       }
@@ -1644,9 +1644,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 279280,
+          "confirmed": 279690,
           "date": "2021-05-20",
-          "deaths": 7215
+          "deaths": 7243
         }
       },
       "Minnesota": {
@@ -1707,7 +1707,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 150046,
+          "confirmed": 150131,
           "date": "2021-05-20",
           "deaths": 877
         }
