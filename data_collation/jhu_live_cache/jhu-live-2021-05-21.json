@@ -170,7 +170,7 @@
           "confirmed": 756076,
           "date": "2021-05-21",
           "deaths": 19573,
-          "recovered": 526133
+          "recovered": 526179
         }
       },
       "Distrito Federal": {
@@ -1527,7 +1527,7 @@
     "live": {
       "confirmed": 154786,
       "date": "2021-05-21",
-      "deaths": 1051,
+      "deaths": 1089,
       "recovered": 123532
     }
   },
