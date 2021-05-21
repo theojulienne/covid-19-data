@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 155716,
           "date": "2021-05-21",
-          "deaths": 1981,
+          "deaths": 1994,
           "recovered": 146549
         }
       }
@@ -1080,7 +1080,7 @@
       "confirmed": 130271,
       "date": "2021-05-21",
       "deaths": 2309,
-      "recovered": 118750
+      "recovered": 120348
     }
   },
   "Lebanon": {
@@ -1535,7 +1535,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 151892,
+          "confirmed": 152297,
           "date": "2021-05-21",
           "deaths": 1716,
           "recovered": 0
@@ -1543,7 +1543,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 249011,
+          "confirmed": 249494,
           "date": "2021-05-21",
           "deaths": 4294,
           "recovered": 0
@@ -1551,9 +1551,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 184261,
+          "confirmed": 184956,
           "date": "2021-05-21",
-          "deaths": 2337,
+          "deaths": 2342,
           "recovered": 0
         }
       }
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 686152,
       "date": "2021-05-21",
-      "deaths": 10766,
+      "deaths": 10768,
       "recovered": 317600
     }
   },

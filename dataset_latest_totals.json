@@ -2200,12 +2200,12 @@
       "back_2week": {
         "confirmed": 121509,
         "deaths": 2178,
-        "recovered": 110153
+        "recovered": 110904
       },
       "latest": {
         "confirmed": 129794,
         "deaths": 2301,
-        "recovered": 118219
+        "recovered": 118750
       }
     },
     "MAR": {
