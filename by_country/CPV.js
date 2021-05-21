@@ -973,7 +973,8 @@ var covid19_dataset_country_cpv = {
       28168,
       28281,
       28410,
-      28699
+      28699,
+      28898
     ],
     "deaths": [
       0,
@@ -1459,6 +1460,7 @@ var covid19_dataset_country_cpv = {
       249,
       251,
       252,
+      253,
       253
     ],
     "recovered": [
@@ -1945,7 +1947,8 @@ var covid19_dataset_country_cpv = {
       25023,
       25432,
       25581,
-      25816
+      25816,
+      26116
     ]
   }
 };
