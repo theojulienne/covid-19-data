@@ -162,7 +162,7 @@
           "confirmed": 971450,
           "date": "2021-05-21",
           "deaths": 20205,
-          "recovered": 932687
+          "recovered": 936855
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 1492530,
           "date": "2021-05-21",
           "deaths": 38222,
-          "recovered": 1375458
+          "recovered": 1382793
         }
       },
       "Para": {
@@ -234,7 +234,7 @@
           "confirmed": 505239,
           "date": "2021-05-21",
           "deaths": 14115,
-          "recovered": 471494
+          "recovered": 472805
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 262027,
           "date": "2021-05-21",
           "deaths": 5697,
-          "recovered": 255249
+          "recovered": 256461
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 1049279,
           "date": "2021-05-21",
           "deaths": 27167,
-          "recovered": 1003639
+          "recovered": 1007106
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 170785,
           "date": "2021-05-21",
           "deaths": 2760,
-          "recovered": 153562
+          "recovered": 154996
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 526482,
+          "confirmed": 527111,
           "date": "2021-05-21",
-          "deaths": 8551,
-          "recovered": 498026
+          "deaths": 8564,
+          "recovered": 499048
         }
       },
       "Quebec": {
@@ -1700,9 +1700,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317174,
+          "confirmed": 1317347,
           "date": "2021-05-21",
-          "deaths": 20141
+          "deaths": 20156
         }
       },
       "Utah": {
