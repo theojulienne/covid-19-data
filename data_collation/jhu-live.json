@@ -162,7 +162,7 @@
           "confirmed": 976251,
           "date": "2021-05-22",
           "deaths": 20280,
-          "recovered": 936855
+          "recovered": 941121
         }
       },
       "Ceara": {
@@ -250,7 +250,7 @@
           "confirmed": 1054127,
           "date": "2021-05-22",
           "deaths": 25375,
-          "recovered": 726607
+          "recovered": 733508
         }
       },
       "Pernambuco": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 528351,
+          "confirmed": 528353,
           "date": "2021-05-22",
           "deaths": 8575,
-          "recovered": 500558
+          "recovered": 500566
         }
       },
       "Quebec": {
@@ -1315,9 +1315,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 867205,
+          "confirmed": 868683,
           "date": "2021-05-22",
-          "deaths": 29165,
+          "deaths": 29265,
           "recovered": 0
         }
       }
@@ -1700,9 +1700,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317575,
+          "confirmed": 1317837,
           "date": "2021-05-22",
-          "deaths": 20156
+          "deaths": 20173
         }
       },
       "Utah": {
