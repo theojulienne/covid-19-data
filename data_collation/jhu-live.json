@@ -901,10 +901,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839290,
+      "confirmed": 839308,
       "date": "2021-05-22",
       "deaths": 6397,
-      "recovered": 832279
+      "recovered": 832299
     }
   },
   "Italy": {
@@ -1577,10 +1577,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 332833,
+      "confirmed": 334099,
       "date": "2021-05-22",
-      "deaths": 12141,
-      "recovered": 294184
+      "deaths": 12182,
+      "recovered": 295170
     }
   },
   "Turkey": {
