@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 140953,
+          "confirmed": 141373,
           "date": "2021-05-21",
-          "deaths": 1661,
-          "recovered": 134521
+          "deaths": 1667,
+          "recovered": 135068
         }
       },
       "Ontario": {
@@ -419,50 +419,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 511880,
+          "confirmed": 514021,
           "date": "2021-05-21",
-          "deaths": 11299,
-          "recovered": 484594
+          "deaths": 11368,
+          "recovered": 486817
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 263054,
+          "confirmed": 264036,
           "date": "2021-05-21",
-          "deaths": 8114,
-          "recovered": 249321
+          "deaths": 8160,
+          "recovered": 250548
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 884089,
+          "confirmed": 889761,
           "date": "2021-05-21",
-          "deaths": 17648,
-          "recovered": 817438
+          "deaths": 17757,
+          "recovered": 823540
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 147650,
+          "confirmed": 148484,
           "date": "2021-05-21",
-          "deaths": 4022,
-          "recovered": 137539
+          "deaths": 4050,
+          "recovered": 138946
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 121144,
+          "confirmed": 122139,
           "date": "2021-05-21",
-          "deaths": 4155,
-          "recovered": 111423
+          "deaths": 4193,
+          "recovered": 112569
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 254950,
+          "confirmed": 256292,
           "date": "2021-05-21",
-          "deaths": 8083,
-          "recovered": 241866
+          "deaths": 8115,
+          "recovered": 242313
         }
       }
     }
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 121174,
+      "confirmed": 121511,
       "date": "2021-05-21",
       "deaths": 781,
       "recovered": 17998
@@ -1714,9 +1714,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 107845,
+          "confirmed": 108120,
           "date": "2021-05-21",
-          "deaths": 1555
+          "deaths": 1559
         }
       },
       "Wisconsin": {

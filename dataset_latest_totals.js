@@ -591,8 +591,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 2162
         },
         "British Columbia": {
-          "confirmed": 140596,
-          "deaths": 1658
+          "confirmed": 140953,
+          "deaths": 1661
         },
         "Diamond Princess": {
           "confirmed": 0,
