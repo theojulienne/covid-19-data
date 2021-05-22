@@ -51,16 +51,16 @@
     "live": {
       "confirmed": 212151,
       "date": "2021-05-22",
-      "deaths": 794,
+      "deaths": 798,
       "recovered": 191522
     }
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 786698,
+      "confirmed": 787726,
       "date": "2021-05-22",
-      "deaths": 12310,
-      "recovered": 729039
+      "deaths": 12348,
+      "recovered": 729798
     }
   },
   "Belarus": {
@@ -1357,10 +1357,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1074781,
+      "confirmed": 1075236,
       "date": "2021-05-22",
-      "deaths": 29826,
-      "recovered": 1030137
+      "deaths": 29885,
+      "recovered": 1031605
     }
   },
   "Russia": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317536,
+          "confirmed": 1317575,
           "date": "2021-05-22",
           "deaths": 20156
         }
