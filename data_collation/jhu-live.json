@@ -1297,10 +1297,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 372800,
+      "confirmed": 373308,
       "date": "2021-05-22",
-      "deaths": 6314,
-      "recovered": 360665
+      "deaths": 6321,
+      "recovered": 361111
     }
   },
   "Paraguay": {
@@ -1602,7 +1602,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2823369,
+          "confirmed": 2823589,
           "date": "2021-05-22",
           "deaths": 49179
         }
