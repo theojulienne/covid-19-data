@@ -170,7 +170,7 @@
           "confirmed": 758808,
           "date": "2021-05-22",
           "deaths": 19668,
-          "recovered": 526179
+          "recovered": 531677
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 592539,
           "date": "2021-05-22",
           "deaths": 16497,
-          "recovered": 556945
+          "recovered": 566538
         }
       },
       "Maranhao": {
@@ -234,7 +234,7 @@
           "confirmed": 506810,
           "date": "2021-05-22",
           "deaths": 14178,
-          "recovered": 472805
+          "recovered": 474068
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 263251,
           "date": "2021-05-22",
           "deaths": 5718,
-          "recovered": 256461
+          "recovered": 257583
         }
       },
       "Rio Grande do Norte": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 528274,
+          "confirmed": 528351,
           "date": "2021-05-22",
-          "deaths": 8574,
-          "recovered": 500471
+          "deaths": 8575,
+          "recovered": 500558
         }
       },
       "Quebec": {
@@ -1595,9 +1595,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 662747,
+          "confirmed": 663311,
           "date": "2021-05-22",
-          "deaths": 12406
+          "deaths": 12419
         }
       },
       "California": {
@@ -1665,14 +1665,14 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 103965,
+          "confirmed": 103993,
           "date": "2021-05-22",
-          "deaths": 2860
+          "deaths": 2861
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1385031,
+          "confirmed": 1385314,
           "date": "2021-05-22",
           "deaths": 40092
         }
