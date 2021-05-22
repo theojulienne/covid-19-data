@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 343065,
+      "confirmed": 346070,
       "date": "2021-05-22",
-      "deaths": 13780,
-      "recovered": 277711
+      "deaths": 13957,
+      "recovered": 279345
     }
   },
   "Bosnia and Herzegovina": {
@@ -623,9 +623,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 150987,
+          "confirmed": 151175,
           "date": "2021-05-22",
-          "deaths": 3694,
+          "deaths": 3695,
           "recovered": 140900
         }
       },
@@ -877,10 +877,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2815882,
+      "confirmed": 2823887,
       "date": "2021-05-22",
-      "deaths": 78194,
-      "recovered": 2304824
+      "deaths": 78381,
+      "recovered": 2319746
     }
   },
   "Iraq": {
@@ -1169,10 +1169,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 497052,
+      "confirmed": 505643,
       "date": "2021-05-22",
-      "deaths": 6024,
-      "recovered": 374836
+      "deaths": 6153,
+      "recovered": 383684
     }
   },
   "Netherlands": {
@@ -1245,10 +1245,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 154982,
+      "confirmed": 155028,
       "date": "2021-05-22",
-      "deaths": 5280,
-      "recovered": 146721
+      "deaths": 5296,
+      "recovered": 146800
     }
   },
   "Norway": {
