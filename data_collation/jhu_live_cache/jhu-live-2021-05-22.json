@@ -1271,26 +1271,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 128561,
+          "confirmed": 129013,
           "date": "2021-05-22",
-          "deaths": 3875,
-          "recovered": 117773
+          "deaths": 3900,
+          "recovered": 118323
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 332000,
+          "confirmed": 333057,
           "date": "2021-05-22",
-          "deaths": 9704,
-          "recovered": 297179
+          "deaths": 9739,
+          "recovered": 298796
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 304571,
+          "confirmed": 306707,
           "date": "2021-05-22",
-          "deaths": 4869,
-          "recovered": 279188
+          "deaths": 4891,
+          "recovered": 280167
         }
       }
     }
@@ -1602,7 +1602,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2823589,
+          "confirmed": 2823652,
           "date": "2021-05-22",
           "deaths": 49179
         }
@@ -1842,10 +1842,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 219864,
+      "confirmed": 221042,
       "date": "2021-05-22",
-      "deaths": 2465,
-      "recovered": 203523
+      "deaths": 2483,
+      "recovered": 204615
     }
   },
   "West Bank and Gaza": {
