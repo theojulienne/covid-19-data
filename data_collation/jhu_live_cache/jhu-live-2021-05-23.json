@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 214870,
       "date": "2021-05-23",
-      "deaths": 809,
+      "deaths": 812,
       "recovered": 193337
     }
   },
@@ -583,7 +583,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 177184,
+          "confirmed": 177193,
           "date": "2021-05-23",
           "deaths": 3438,
           "recovered": 169400
@@ -1014,7 +1014,7 @@
           "confirmed": 156853,
           "date": "2021-05-23",
           "deaths": 1999,
-          "recovered": 147406
+          "recovered": 148037
         }
       }
     }
@@ -1077,9 +1077,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 130712,
+      "confirmed": 130945,
       "date": "2021-05-23",
-      "deaths": 2323,
+      "deaths": 2326,
       "recovered": 121123
     }
   },
@@ -1333,10 +1333,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2864546,
+      "confirmed": 2865622,
       "date": "2021-05-23",
-      "deaths": 72882,
-      "recovered": 2621686
+      "deaths": 72928,
+      "recovered": 2624724
     }
   },
   "Portugal": {
@@ -1425,10 +1425,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 251531,
+      "confirmed": 251690,
       "date": "2021-05-23",
-      "deaths": 4349,
-      "recovered": 241448
+      "deaths": 4353,
+      "recovered": 241735
     }
   },
   "South Africa": {
