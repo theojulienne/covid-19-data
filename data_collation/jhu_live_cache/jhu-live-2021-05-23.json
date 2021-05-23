@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 427787,
+      "confirmed": 427873,
       "date": "2021-05-23",
-      "deaths": 3418,
-      "recovered": 386660
+      "deaths": 3423,
+      "recovered": 386743
     }
   },
   "Kenya": {
