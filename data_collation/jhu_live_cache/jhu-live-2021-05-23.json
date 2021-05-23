@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 247106,
+      "confirmed": 247454,
       "date": "2021-05-23",
-      "deaths": 7996,
-      "recovered": 226819
+      "deaths": 8000,
+      "recovered": 227600
     }
   },
   "Honduras": {
