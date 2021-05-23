@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 298223,
+      "confirmed": 299215,
       "date": "2021-05-23",
-      "deaths": 1724,
-      "recovered": 283952
+      "deaths": 1734,
+      "recovered": 285118
     }
   },
   "Kyrgyzstan": {
@@ -1433,10 +1433,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1632571,
+      "confirmed": 1635465,
       "date": "2021-05-23",
-      "deaths": 55772,
-      "recovered": 1537430
+      "deaths": 55802,
+      "recovered": 1539395
     }
   },
   "Spain": {
@@ -1577,10 +1577,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 334099,
+      "confirmed": 335345,
       "date": "2021-05-23",
-      "deaths": 12182,
-      "recovered": 295170
+      "deaths": 12236,
+      "recovered": 295789
     }
   },
   "Turkey": {
@@ -1609,14 +1609,14 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1172316,
+          "confirmed": 1173388,
           "date": "2021-05-23",
-          "deaths": 15358
+          "deaths": 15365
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 102205,
+          "confirmed": 102237,
           "date": "2021-05-23",
           "deaths": 1169
         }
@@ -1700,9 +1700,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317931,
+          "confirmed": 1318360,
           "date": "2021-05-23",
-          "deaths": 20173
+          "deaths": 20181
         }
       },
       "Utah": {
@@ -1721,7 +1721,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 116870,
+          "confirmed": 116913,
           "date": "2021-05-23",
           "deaths": 1375
         }
