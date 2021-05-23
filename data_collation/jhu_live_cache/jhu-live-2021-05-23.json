@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 246156,
+      "confirmed": 247106,
       "date": "2021-05-23",
-      "deaths": 7977,
-      "recovered": 226014
+      "deaths": 7996,
+      "recovered": 226819
     }
   },
   "Honduras": {
@@ -1602,9 +1602,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2823980,
+          "confirmed": 2824264,
           "date": "2021-05-23",
-          "deaths": 49216
+          "deaths": 49219
         }
       },
       "Florida": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317837,
+          "confirmed": 1317894,
           "date": "2021-05-23",
           "deaths": 20173
         }
