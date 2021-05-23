@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 640876,
+      "confirmed": 641380,
       "date": "2021-05-23",
-      "deaths": 10541,
-      "recovered": 621998
+      "deaths": 10546,
+      "recovered": 622889
     }
   },
   "Azerbaijan": {
@@ -1169,10 +1169,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 505643,
+      "confirmed": 513241,
       "date": "2021-05-23",
-      "deaths": 6153,
-      "recovered": 383684
+      "deaths": 6346,
+      "recovered": 391348
     }
   },
   "Netherlands": {
