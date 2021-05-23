@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 529633,
+          "confirmed": 529748,
           "date": "2021-05-23",
-          "deaths": 8587,
-          "recovered": 502207
+          "deaths": 8588,
+          "recovered": 502392
         }
       },
       "Quebec": {
@@ -904,7 +904,7 @@
       "confirmed": 839319,
       "date": "2021-05-23",
       "deaths": 6404,
-      "recovered": 832353
+      "recovered": 832364
     }
   },
   "Italy": {
@@ -1525,7 +1525,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 161242,
+      "confirmed": 164201,
       "date": "2021-05-23",
       "deaths": 1178,
       "recovered": 128607
@@ -1595,9 +1595,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 663311,
+          "confirmed": 663581,
           "date": "2021-05-23",
-          "deaths": 12419
+          "deaths": 12426
         }
       },
       "California": {

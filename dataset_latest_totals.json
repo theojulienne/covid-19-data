@@ -2125,17 +2125,17 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 138085,
+        "confirmed": 140471,
         "deaths": 923,
         "recovered": 117220
       },
       "back_2week": {
-        "confirmed": 121338,
+        "confirmed": 123234,
         "deaths": 764,
         "recovered": 103098
       },
       "latest": {
-        "confirmed": 158333,
+        "confirmed": 161242,
         "deaths": 1133,
         "recovered": 126995
       }
