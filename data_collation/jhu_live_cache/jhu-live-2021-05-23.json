@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 384773,
+      "confirmed": 386025,
       "date": "2021-05-23",
-      "deaths": 2761,
-      "recovered": 374854
+      "deaths": 2771,
+      "recovered": 376453
     }
   },
   "Belgium": {
@@ -623,9 +623,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 151187,
+          "confirmed": 151318,
           "date": "2021-05-23",
-          "deaths": 3695,
+          "deaths": 3696,
           "recovered": 141400
         }
       },
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 156853,
           "date": "2021-05-23",
-          "deaths": 1999,
+          "deaths": 2001,
           "recovered": 148037
         }
       }
@@ -1093,10 +1093,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 182899,
+      "confirmed": 183311,
       "date": "2021-05-23",
-      "deaths": 3105,
-      "recovered": 169733
+      "deaths": 3111,
+      "recovered": 169945
     }
   },
   "Lithuania": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1317894,
+          "confirmed": 1317931,
           "date": "2021-05-23",
           "deaths": 20173
         }
