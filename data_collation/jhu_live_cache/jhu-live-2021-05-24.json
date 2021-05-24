@@ -194,7 +194,7 @@
           "confirmed": 595328,
           "date": "2021-05-24",
           "deaths": 16559,
-          "recovered": 566538
+          "recovered": 568534
         }
       },
       "Maranhao": {
@@ -322,7 +322,7 @@
           "confirmed": 3188105,
           "date": "2021-05-24",
           "deaths": 107614,
-          "recovered": 2816930
+          "recovered": 2848596
         }
       },
       "Sergipe": {
@@ -541,18 +541,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 269194,
+      "confirmed": 269500,
       "date": "2021-05-24",
-      "deaths": 4076,
-      "recovered": 228757
+      "deaths": 4084,
+      "recovered": 230784
     }
   },
   "France": {
     "live": {
-      "confirmed": 5547914,
+      "confirmed": 5550143,
       "date": "2021-05-24",
-      "deaths": 107789,
-      "recovered": 327679
+      "deaths": 107851,
+      "recovered": 327886
     }
   },
   "Georgia": {
@@ -1602,9 +1602,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825031,
+          "confirmed": 2825129,
           "date": "2021-05-24",
-          "deaths": 49243
+          "deaths": 49245
         }
       },
       "Florida": {
@@ -1644,9 +1644,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 280388,
+          "confirmed": 280777,
           "date": "2021-05-24",
-          "deaths": 7297
+          "deaths": 7298
         }
       },
       "Minnesota": {
@@ -1658,9 +1658,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 249831,
+          "confirmed": 250169,
           "date": "2021-05-24",
-          "deaths": 4376
+          "deaths": 4383
         }
       },
       "New Jersey": {
@@ -1686,16 +1686,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 241564,
+          "confirmed": 241693,
           "date": "2021-05-24",
           "deaths": 3576
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 151949,
+          "confirmed": 152530,
           "date": "2021-05-24",
-          "deaths": 3594
+          "deaths": 3615
         }
       },
       "Texas": {
