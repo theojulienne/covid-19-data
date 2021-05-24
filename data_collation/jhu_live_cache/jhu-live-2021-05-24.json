@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 218047,
       "date": "2021-05-24",
-      "deaths": 833,
+      "deaths": 838,
       "recovered": 194885
     }
   },
@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 203150,
+      "confirmed": 203391,
       "date": "2021-05-24",
-      "deaths": 9108,
-      "recovered": 172005
+      "deaths": 9150,
+      "recovered": 172730
     }
   },
   "Brazil": {
@@ -477,10 +477,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 353986,
+      "confirmed": 354060,
       "date": "2021-05-24",
-      "deaths": 7903,
-      "recovered": 342202
+      "deaths": 7929,
+      "recovered": 342868
     }
   },
   "Cuba": {
@@ -501,10 +501,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 273494,
+      "confirmed": 274413,
       "date": "2021-05-24",
-      "deaths": 2508,
-      "recovered": 257387
+      "deaths": 2509,
+      "recovered": 258184
     }
   },
   "Dominican Republic": {
@@ -575,9 +575,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 634391,
+          "confirmed": 634399,
           "date": "2021-05-24",
-          "deaths": 14787,
+          "deaths": 14786,
           "recovered": 596500
         }
       },
@@ -1093,10 +1093,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 183311,
+      "confirmed": 183592,
       "date": "2021-05-24",
-      "deaths": 3111,
-      "recovered": 169945
+      "deaths": 3112,
+      "recovered": 170195
     }
   },
   "Lithuania": {
@@ -1245,10 +1245,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155063,
+      "confirmed": 155067,
       "date": "2021-05-24",
-      "deaths": 5311,
-      "recovered": 146869
+      "deaths": 5329,
+      "recovered": 146940
     }
   },
   "Norway": {
@@ -1401,10 +1401,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 440914,
+      "confirmed": 442071,
       "date": "2021-05-24",
-      "deaths": 7249,
-      "recovered": 424690
+      "deaths": 7264,
+      "recovered": 425677
     }
   },
   "Serbia": {
