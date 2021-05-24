@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 126229,
+          "confirmed": 126662,
           "date": "2021-05-24",
           "deaths": 2040,
-          "recovered": 120558
+          "recovered": 121167
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 552133,
+          "confirmed": 554477,
           "date": "2021-05-24",
-          "deaths": 15111,
-          "recovered": 518971
+          "deaths": 15141,
+          "recovered": 521467
         }
       }
     }
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 687353,
       "date": "2021-05-24",
-      "deaths": 10778,
+      "deaths": 10779,
       "recovered": 317600
     }
   },
@@ -1604,21 +1604,21 @@
         "live": {
           "confirmed": 2825129,
           "date": "2021-05-24",
-          "deaths": 49245
+          "deaths": 49247
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 1173388,
+          "confirmed": 1174216,
           "date": "2021-05-24",
-          "deaths": 15365
+          "deaths": 15373
         }
       },
       "Georgia": {
         "live": {
-          "confirmed": 102237,
+          "confirmed": 102257,
           "date": "2021-05-24",
-          "deaths": 1169
+          "deaths": 1170
         }
       },
       "Illinois": {
@@ -1707,7 +1707,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 150409,
+          "confirmed": 150465,
           "date": "2021-05-24",
           "deaths": 886
         }
@@ -1721,7 +1721,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 116913,
+          "confirmed": 116949,
           "date": "2021-05-24",
           "deaths": 1375
         }
