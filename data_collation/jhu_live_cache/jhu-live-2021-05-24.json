@@ -170,7 +170,7 @@
           "confirmed": 770432,
           "date": "2021-05-24",
           "deaths": 19815,
-          "recovered": 531677
+          "recovered": 537066
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 470020,
           "date": "2021-05-24",
           "deaths": 10512,
-          "recovered": 437961
+          "recovered": 440750
         }
       },
       "Goias": {
@@ -226,7 +226,7 @@
           "confirmed": 1516282,
           "date": "2021-05-24",
           "deaths": 39086,
-          "recovered": 1382793
+          "recovered": 1395481
         }
       },
       "Para": {
@@ -234,7 +234,7 @@
           "confirmed": 508448,
           "date": "2021-05-24",
           "deaths": 14233,
-          "recovered": 474068
+          "recovered": 475260
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 265216,
           "date": "2021-05-24",
           "deaths": 5762,
-          "recovered": 257583
+          "recovered": 259083
         }
       },
       "Rio Grande do Norte": {
@@ -306,7 +306,7 @@
           "confirmed": 102019,
           "date": "2021-05-24",
           "deaths": 1602,
-          "recovered": 94757
+          "recovered": 95738
         }
       },
       "Santa Catarina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 530032,
+          "confirmed": 530104,
           "date": "2021-05-24",
           "deaths": 8591,
-          "recovered": 502942
+          "recovered": 503111
         }
       },
       "Quebec": {
@@ -1433,10 +1433,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1635465,
+      "confirmed": 1637848,
       "date": "2021-05-24",
-      "deaths": 55802,
-      "recovered": 1539395
+      "deaths": 55874,
+      "recovered": 1541250
     }
   },
   "Spain": {
@@ -1595,7 +1595,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 663581,
+          "confirmed": 663965,
           "date": "2021-05-24",
           "deaths": 12426
         }
