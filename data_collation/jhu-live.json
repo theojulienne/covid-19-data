@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 218047,
       "date": "2021-05-24",
-      "deaths": 825,
+      "deaths": 829,
       "recovered": 194885
     }
   },
@@ -623,9 +623,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 151337,
+          "confirmed": 151485,
           "date": "2021-05-24",
-          "deaths": 3696,
+          "deaths": 3698,
           "recovered": 141900
         }
       },
@@ -1011,7 +1011,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 156853,
+          "confirmed": 157193,
           "date": "2021-05-24",
           "deaths": 2001,
           "recovered": 148911
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 512091,
+      "confirmed": 518600,
       "date": "2021-05-24",
-      "deaths": 2248,
-      "recovered": 452821
+      "deaths": 2309,
+      "recovered": 456273
     }
   },
   "Mexico": {
@@ -1357,10 +1357,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1075543,
+      "confirmed": 1075773,
       "date": "2021-05-24",
-      "deaths": 29941,
-      "recovered": 1032888
+      "deaths": 29977,
+      "recovered": 1033984
     }
   },
   "Russia": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1318360,
+          "confirmed": 1318363,
           "date": "2021-05-24",
           "deaths": 20181
         }
