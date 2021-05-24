@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 102511,
+      "confirmed": 102702,
       "date": "2021-05-24",
-      "deaths": 1751,
-      "recovered": 95811
+      "deaths": 1757,
+      "recovered": 96119
     }
   },
   "Latvia": {
@@ -1315,9 +1315,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 870412,
+          "confirmed": 871728,
           "date": "2021-05-24",
-          "deaths": 29346,
+          "deaths": 29423,
           "recovered": 0
         }
       }
@@ -1732,58 +1732,58 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 131663,
+          "confirmed": 131853,
           "date": "2021-05-24",
-          "deaths": 3966,
-          "recovered": 117744
+          "deaths": 3978,
+          "recovered": 118112
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 145429,
+          "confirmed": 145530,
           "date": "2021-05-24",
-          "deaths": 3159,
-          "recovered": 128524
+          "deaths": 3161,
+          "recovered": 129178
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 204151,
+          "confirmed": 204276,
           "date": "2021-05-24",
-          "deaths": 5017,
-          "recovered": 144972
+          "deaths": 5023,
+          "recovered": 147712
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 123931,
+          "confirmed": 124006,
           "date": "2021-05-24",
           "deaths": 2641,
-          "recovered": 115761
+          "recovered": 115957
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 134624,
+          "confirmed": 134665,
           "date": "2021-05-24",
-          "deaths": 3522,
-          "recovered": 124542
+          "deaths": 3524,
+          "recovered": 125065
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 138859,
+          "confirmed": 138888,
           "date": "2021-05-24",
           "deaths": 2860,
-          "recovered": 118073
+          "recovered": 118181
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 101610,
+          "confirmed": 101664,
           "date": "2021-05-24",
-          "deaths": 2222,
-          "recovered": 92522
+          "deaths": 2245,
+          "recovered": 92648
         }
       }
     }
