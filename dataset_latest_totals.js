@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 779796,
-        "deaths": 12124,
-        "recovered": 721435
+        "confirmed": 780159,
+        "deaths": 12149,
+        "recovered": 722036
       },
       "back_2week": {
-        "confirmed": 772127,
-        "deaths": 11878,
-        "recovered": 706833
+        "confirmed": 773513,
+        "deaths": 11934,
+        "recovered": 710162
       },
       "latest": {
-        "confirmed": 787726,
-        "deaths": 12348,
-        "recovered": 729798
+        "confirmed": 789080,
+        "deaths": 12376,
+        "recovered": 730697
       }
     },
     "BGR": {
@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 374714,
-        "deaths": 2691,
-        "recovered": 365255
+        "confirmed": 376341,
+        "deaths": 2701,
+        "recovered": 367097
       },
       "back_2week": {
-        "confirmed": 367674,
-        "deaths": 2622,
-        "recovered": 358261
+        "confirmed": 368888,
+        "deaths": 2632,
+        "recovered": 359687
       },
       "latest": {
-        "confirmed": 384773,
-        "deaths": 2761,
-        "recovered": 374854
+        "confirmed": 386025,
+        "deaths": 2771,
+        "recovered": 376453
       }
     },
     "BLZ": {
@@ -2623,19 +2623,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 447704,
-        "deaths": 4856,
-        "recovered": 333108
+        "confirmed": 455020,
+        "deaths": 5001,
+        "recovered": 339756
       },
       "back_2week": {
-        "confirmed": 385890,
-        "deaths": 3632,
-        "recovered": 298765
+        "confirmed": 394667,
+        "deaths": 3720,
+        "recovered": 302787
       },
       "latest": {
-        "confirmed": 505643,
-        "deaths": 6153,
-        "recovered": 383684
+        "confirmed": 513241,
+        "deaths": 6346,
+        "recovered": 391348
       }
     },
     "NZL": {

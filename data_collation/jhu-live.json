@@ -51,24 +51,24 @@
     "live": {
       "confirmed": 218047,
       "date": "2021-05-24",
-      "deaths": 829,
+      "deaths": 833,
       "recovered": 194885
     }
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 789080,
+      "confirmed": 790521,
       "date": "2021-05-24",
-      "deaths": 12376,
-      "recovered": 730697
+      "deaths": 12401,
+      "recovered": 731531
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 386025,
+      "confirmed": 386978,
       "date": "2021-05-24",
-      "deaths": 2771,
-      "recovered": 376453
+      "deaths": 2780,
+      "recovered": 377105
     }
   },
   "Belgium": {
@@ -1169,10 +1169,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 513241,
+      "confirmed": 520461,
       "date": "2021-05-24",
-      "deaths": 6346,
-      "recovered": 391348
+      "deaths": 6531,
+      "recovered": 398483
     }
   },
   "Netherlands": {
@@ -1850,10 +1850,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 305201,
+      "confirmed": 305777,
       "date": "2021-05-24",
-      "deaths": 3459,
-      "recovered": 297201
+      "deaths": 3470,
+      "recovered": 298502
     }
   }
 }
