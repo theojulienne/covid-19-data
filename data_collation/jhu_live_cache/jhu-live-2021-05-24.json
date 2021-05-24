@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 218047,
       "date": "2021-05-24",
-      "deaths": 820,
+      "deaths": 825,
       "recovered": 194885
     }
   },
@@ -1014,7 +1014,7 @@
           "confirmed": 156853,
           "date": "2021-05-24",
           "deaths": 2001,
-          "recovered": 148037
+          "recovered": 148911
         }
       }
     }
@@ -1333,10 +1333,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2865622,
+      "confirmed": 2866181,
       "date": "2021-05-24",
-      "deaths": 72928,
-      "recovered": 2624724
+      "deaths": 72945,
+      "recovered": 2627679
     }
   },
   "Portugal": {
@@ -1367,34 +1367,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1157039,
+          "confirmed": 1159526,
           "date": "2021-05-24",
-          "deaths": 19648,
-          "recovered": 1042788
+          "deaths": 19707,
+          "recovered": 1044518
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 265234,
+          "confirmed": 266000,
           "date": "2021-05-24",
-          "deaths": 6069,
-          "recovered": 217300
+          "deaths": 6077,
+          "recovered": 217945
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 116960,
+          "confirmed": 117101,
           "date": "2021-05-24",
-          "deaths": 3504,
-          "recovered": 111935
+          "deaths": 3519,
+          "recovered": 112045
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 432982,
+          "confirmed": 433833,
           "date": "2021-05-24",
-          "deaths": 14039,
-          "recovered": 397617
+          "deaths": 14077,
+          "recovered": 397733
         }
       }
     }
@@ -1425,10 +1425,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 251690,
+      "confirmed": 251773,
       "date": "2021-05-24",
-      "deaths": 4353,
-      "recovered": 241735
+      "deaths": 4355,
+      "recovered": 241879
     }
   },
   "South Africa": {
