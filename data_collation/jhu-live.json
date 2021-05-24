@@ -387,9 +387,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 367376,
+          "confirmed": 367809,
           "date": "2021-05-24",
-          "deaths": 11084,
+          "deaths": 11095,
           "recovered": 348694
         }
       }
@@ -509,10 +509,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 283729,
+      "confirmed": 284567,
       "date": "2021-05-24",
-      "deaths": 3606,
-      "recovered": 235814
+      "deaths": 3610,
+      "recovered": 236771
     }
   },
   "Ecuador": {
@@ -631,9 +631,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 281887,
+          "confirmed": 281924,
           "date": "2021-05-24",
-          "deaths": 9564,
+          "deaths": 9566,
           "recovered": 257100
         }
       },
@@ -911,98 +911,98 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 415965,
+          "confirmed": 416366,
           "date": "2021-05-24",
-          "deaths": 7074,
-          "recovered": 336853
+          "deaths": 7102,
+          "recovered": 337994
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 382073,
+          "confirmed": 382387,
           "date": "2021-05-24",
-          "deaths": 13146,
-          "recovered": 349845
+          "deaths": 13153,
+          "recovered": 350713
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 106768,
+          "confirmed": 106770,
           "date": "2021-05-24",
           "deaths": 3778,
-          "recovered": 97748
+          "recovered": 97759
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 339612,
+          "confirmed": 339904,
           "date": "2021-05-24",
-          "deaths": 8090,
-          "recovered": 303893
+          "deaths": 8101,
+          "recovered": 305156
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 102297,
+          "confirmed": 102358,
           "date": "2021-05-24",
-          "deaths": 4305,
-          "recovered": 96065
+          "deaths": 4308,
+          "recovered": 96243
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 831087,
+          "confirmed": 831336,
           "date": "2021-05-24",
-          "deaths": 33471,
-          "recovered": 761995
+          "deaths": 33478,
+          "recovered": 762218
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 101944,
+          "confirmed": 102002,
           "date": "2021-05-24",
-          "deaths": 3004,
-          "recovered": 94432
+          "deaths": 3006,
+          "recovered": 94495
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 358459,
+          "confirmed": 358565,
           "date": "2021-05-24",
-          "deaths": 11579,
-          "recovered": 338952
+          "deaths": 11587,
+          "recovered": 339316
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 248758,
+          "confirmed": 248829,
           "date": "2021-05-24",
-          "deaths": 6389,
-          "recovered": 209640
+          "deaths": 6400,
+          "recovered": 210660
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 222892,
+          "confirmed": 223270,
           "date": "2021-05-24",
-          "deaths": 5739,
-          "recovered": 204225
+          "deaths": 5747,
+          "recovered": 204507
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 239474,
+          "confirmed": 239719,
           "date": "2021-05-24",
-          "deaths": 6625,
-          "recovered": 221550
+          "deaths": 6639,
+          "recovered": 222131
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 421924,
+          "confirmed": 422074,
           "date": "2021-05-24",
-          "deaths": 11528,
-          "recovered": 399246
+          "deaths": 11530,
+          "recovered": 399489
         }
       }
     }
@@ -1024,7 +1024,7 @@
       "confirmed": 726432,
       "date": "2021-05-24",
       "deaths": 9295,
-      "recovered": 710608
+      "recovered": 711614
     }
   },
   "Kazakhstan": {
@@ -1800,15 +1800,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3895920,
+          "confirmed": 3897815,
           "date": "2021-05-24",
-          "deaths": 112339,
+          "deaths": 112342,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 122154,
+          "confirmed": 122207,
           "date": "2021-05-24",
           "deaths": 2152,
           "recovered": 0
@@ -1816,7 +1816,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 232030,
+          "confirmed": 232343,
           "date": "2021-05-24",
           "deaths": 7664,
           "recovered": 0
@@ -1824,7 +1824,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 212434,
+          "confirmed": 212535,
           "date": "2021-05-24",
           "deaths": 5566,
           "recovered": 0
