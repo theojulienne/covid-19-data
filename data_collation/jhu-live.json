@@ -533,10 +533,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 128592,
+      "confirmed": 128669,
       "date": "2021-05-24",
-      "deaths": 1240,
-      "recovered": 120886
+      "deaths": 1241,
+      "recovered": 121114
     }
   },
   "Ethiopia": {
@@ -1077,10 +1077,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 130945,
+      "confirmed": 131079,
       "date": "2021-05-24",
-      "deaths": 2326,
-      "recovered": 121123
+      "deaths": 2328,
+      "recovered": 122088
     }
   },
   "Lebanon": {
@@ -1417,9 +1417,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 388835,
+      "confirmed": 388854,
       "date": "2021-05-24",
-      "deaths": 12292,
+      "deaths": 12296,
       "recovered": 255300
     }
   },
