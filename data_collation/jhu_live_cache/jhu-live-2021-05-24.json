@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 132209,
+      "confirmed": 132215,
       "date": "2021-05-24",
-      "deaths": 2444,
-      "recovered": 128732
+      "deaths": 2445,
+      "recovered": 128826
     }
   },
   "Algeria": {
@@ -41,17 +41,17 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 332454,
+      "confirmed": 332610,
       "date": "2021-05-24",
-      "deaths": 4860,
-      "recovered": 320708
+      "deaths": 4867,
+      "recovered": 321132
     }
   },
   "Bahrain": {
     "live": {
       "confirmed": 218047,
       "date": "2021-05-24",
-      "deaths": 841,
+      "deaths": 843,
       "recovered": 194885
     }
   },
@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 143234,
+      "confirmed": 143262,
       "date": "2021-05-24",
       "deaths": 3216,
-      "recovered": 132194
+      "recovered": 132218
     }
   },
   "Canada": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 529748,
+          "confirmed": 529791,
           "date": "2021-05-24",
-          "deaths": 8588,
-          "recovered": 502392
+          "deaths": 8590,
+          "recovered": 502469
         }
       },
       "Quebec": {
@@ -485,10 +485,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 133053,
+      "confirmed": 134208,
       "date": "2021-05-24",
-      "deaths": 877,
-      "recovered": 125236
+      "deaths": 890,
+      "recovered": 126459
     }
   },
   "Czechia": {
@@ -649,18 +649,18 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 389804,
+      "confirmed": 391181,
       "date": "2021-05-24",
-      "deaths": 11772,
+      "deaths": 11822,
       "recovered": 93764
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 247454,
+      "confirmed": 247644,
       "date": "2021-05-24",
-      "deaths": 8000,
-      "recovered": 227600
+      "deaths": 8009,
+      "recovered": 228169
     }
   },
   "Honduras": {
@@ -1153,18 +1153,18 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 254676,
+      "confirmed": 254741,
       "date": "2021-05-24",
-      "deaths": 6075,
-      "recovered": 246570
+      "deaths": 6080,
+      "recovered": 246766
     }
   },
   "Morocco": {
     "live": {
-      "confirmed": 517023,
+      "confirmed": 517113,
       "date": "2021-05-24",
-      "deaths": 9122,
-      "recovered": 505228
+      "deaths": 9126,
+      "recovered": 505392
     }
   },
   "Nepal": {
@@ -1525,7 +1525,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 164201,
+      "confirmed": 166484,
       "date": "2021-05-24",
       "deaths": 1210,
       "recovered": 128607
@@ -1630,7 +1630,7 @@
       },
       "Indiana": {
         "live": {
-          "confirmed": 101363,
+          "confirmed": 101425,
           "date": "2021-05-24",
           "deaths": 1757
         }
@@ -1700,9 +1700,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1318363,
+          "confirmed": 1318537,
           "date": "2021-05-24",
-          "deaths": 20181
+          "deaths": 20198
         }
       },
       "Utah": {
