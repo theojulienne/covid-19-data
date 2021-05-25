@@ -981,7 +981,8 @@ var covid19_dataset_country_nzl = {
       2662,
       2662,
       2668,
-      2668
+      2668,
+      2669
     ],
     "deaths": [
       0,
@@ -1374,6 +1375,7 @@ var covid19_dataset_country_nzl = {
       25,
       25,
       25,
+      26,
       26,
       26,
       26,
@@ -1961,7 +1963,8 @@ var covid19_dataset_country_nzl = {
       2613,
       2613,
       2615,
-      2615
+      2615,
+      2621
     ]
   }
 };

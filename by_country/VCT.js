@@ -981,7 +981,8 @@ var covid19_dataset_country_vct = {
       1954,
       1962,
       1973,
-      1973
+      1973,
+      1978
     ],
     "deaths": [
       0,
@@ -1454,6 +1455,7 @@ var covid19_dataset_country_vct = {
       11,
       11,
       11,
+      12,
       12,
       12,
       12,
@@ -1960,6 +1962,7 @@ var covid19_dataset_country_vct = {
       1780,
       1786,
       1809,
+      1827,
       1827,
       1827
     ]
