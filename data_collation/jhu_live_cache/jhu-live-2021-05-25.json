@@ -390,7 +390,7 @@
           "confirmed": 367809,
           "date": "2021-05-25",
           "deaths": 11095,
-          "recovered": 348694
+          "recovered": 351002
         }
       }
     }
@@ -1305,10 +1305,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 332971,
+      "confirmed": 335691,
       "date": "2021-05-25",
-      "deaths": 8360,
-      "recovered": 274920
+      "deaths": 8474,
+      "recovered": 277128
     }
   },
   "Peru": {
@@ -1602,7 +1602,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825129,
+          "confirmed": 2825291,
           "date": "2021-05-25",
           "deaths": 49247
         }
