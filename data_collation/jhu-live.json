@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 641740,
+      "confirmed": 642138,
       "date": "2021-05-25",
-      "deaths": 10547,
-      "recovered": 623668
+      "deaths": 10551,
+      "recovered": 624549
     }
   },
   "Azerbaijan": {
@@ -583,7 +583,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 177310,
+          "confirmed": 177319,
           "date": "2021-05-25",
           "deaths": 3440,
           "recovered": 170200
@@ -1011,10 +1011,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 157193,
+          "confirmed": 157735,
           "date": "2021-05-25",
           "deaths": 2001,
-          "recovered": 148911
+          "recovered": 149589
         }
       }
     }
@@ -1053,10 +1053,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 106770,
+      "confirmed": 106850,
       "date": "2021-05-25",
-      "deaths": 2244,
-      "recovered": 100883
+      "deaths": 2245,
+      "recovered": 101251
     }
   },
   "Kuwait": {
@@ -1077,9 +1077,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 131079,
+      "confirmed": 131514,
       "date": "2021-05-25",
-      "deaths": 2328,
+      "deaths": 2342,
       "recovered": 122088
     }
   },
@@ -1333,10 +1333,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2866181,
+      "confirmed": 2867187,
       "date": "2021-05-25",
-      "deaths": 72945,
-      "recovered": 2627679
+      "deaths": 73096,
+      "recovered": 2629626
     }
   },
   "Portugal": {
@@ -1563,15 +1563,15 @@
     "live": {
       "confirmed": 687353,
       "date": "2021-05-25",
-      "deaths": 10779,
+      "deaths": 10780,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 132213,
+      "confirmed": 135439,
       "date": "2021-05-25",
-      "deaths": 806,
+      "deaths": 832,
       "recovered": 26873
     }
   },
