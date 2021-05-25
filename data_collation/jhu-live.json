@@ -422,7 +422,7 @@
           "confirmed": 520995,
           "date": "2021-05-25",
           "deaths": 11568,
-          "recovered": 491139
+          "recovered": 493395
         }
       },
       "Atlantico": {
@@ -430,7 +430,7 @@
           "confirmed": 266970,
           "date": "2021-05-25",
           "deaths": 8280,
-          "recovered": 252091
+          "recovered": 253403
         }
       },
       "Capital District": {
@@ -438,7 +438,7 @@
           "confirmed": 908222,
           "date": "2021-05-25",
           "deaths": 18105,
-          "recovered": 833744
+          "recovered": 839872
         }
       },
       "Cundinamarca": {
@@ -446,7 +446,7 @@
           "confirmed": 153232,
           "date": "2021-05-25",
           "deaths": 4187,
-          "recovered": 140983
+          "recovered": 143184
         }
       },
       "Santander": {
@@ -454,7 +454,7 @@
           "confirmed": 125353,
           "date": "2021-05-25",
           "deaths": 4298,
-          "recovered": 114109
+          "recovered": 115214
         }
       },
       "Valle del Cauca": {
@@ -462,7 +462,7 @@
           "confirmed": 258597,
           "date": "2021-05-25",
           "deaths": 8227,
-          "recovered": 244237
+          "recovered": 244976
         }
       }
     }
@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 232672,
+      "confirmed": 233116,
       "date": "2021-05-25",
-      "deaths": 6146,
-      "recovered": 83625
+      "deaths": 6188,
+      "recovered": 83725
     }
   },
   "Hungary": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 431278,
+      "confirmed": 431288,
       "date": "2021-05-25",
-      "deaths": 3428,
-      "recovered": 391817
+      "deaths": 3429,
+      "recovered": 391861
     }
   },
   "Kenya": {
@@ -1714,9 +1714,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 108120,
+          "confirmed": 108508,
           "date": "2021-05-25",
-          "deaths": 1559
+          "deaths": 1562
         }
       },
       "Wisconsin": {
