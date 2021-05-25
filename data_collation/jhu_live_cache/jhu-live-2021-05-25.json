@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 203391,
+      "confirmed": 203513,
       "date": "2021-05-25",
-      "deaths": 9150,
-      "recovered": 172730
+      "deaths": 9168,
+      "recovered": 173187
     }
   },
   "Brazil": {
@@ -501,10 +501,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 274413,
+      "confirmed": 275207,
       "date": "2021-05-25",
-      "deaths": 2509,
-      "recovered": 258184
+      "deaths": 2510,
+      "recovered": 259313
     }
   },
   "Dominican Republic": {
@@ -885,10 +885,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1172042,
+      "confirmed": 1176980,
       "date": "2021-05-25",
-      "deaths": 16214,
-      "recovered": 1086612
+      "deaths": 16241,
+      "recovered": 1090891
     }
   },
   "Ireland": {
@@ -901,10 +901,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839374,
+      "confirmed": 839378,
       "date": "2021-05-25",
       "deaths": 6406,
-      "recovered": 832403
+      "recovered": 832408
     }
   },
   "Italy": {
@@ -1093,10 +1093,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 183592,
+      "confirmed": 183932,
       "date": "2021-05-25",
-      "deaths": 3112,
-      "recovered": 170195
+      "deaths": 3114,
+      "recovered": 170489
     }
   },
   "Lithuania": {
@@ -1401,10 +1401,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 442071,
+      "confirmed": 443460,
       "date": "2021-05-25",
-      "deaths": 7264,
-      "recovered": 425677
+      "deaths": 7278,
+      "recovered": 426589
     }
   },
   "Serbia": {
@@ -1535,17 +1535,17 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 152297,
+          "confirmed": 153120,
           "date": "2021-05-25",
-          "deaths": 1716,
+          "deaths": 1730,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 249494,
+          "confirmed": 250763,
           "date": "2021-05-25",
-          "deaths": 4294,
+          "deaths": 4305,
           "recovered": 0
         }
       },
