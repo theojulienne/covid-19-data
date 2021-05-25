@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 349653,
+      "confirmed": 352170,
       "date": "2021-05-25",
-      "deaths": 13965,
-      "recovered": 282010
+      "deaths": 14024,
+      "recovered": 283673
     }
   },
   "Bosnia and Herzegovina": {
@@ -567,7 +567,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 487886,
+          "confirmed": 487960,
           "date": "2021-05-25",
           "deaths": 9849,
           "recovered": 456600
@@ -607,7 +607,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 256237,
+          "confirmed": 256233,
           "date": "2021-05-25",
           "deaths": 5561,
           "recovered": 243600
@@ -641,7 +641,7 @@
         "live": {
           "confirmed": 126542,
           "date": "2021-05-25",
-          "deaths": 4148,
+          "deaths": 4149,
           "recovered": 118000
         }
       }
@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 102702,
+      "confirmed": 103000,
       "date": "2021-05-25",
-      "deaths": 1757,
-      "recovered": 96119
+      "deaths": 1765,
+      "recovered": 96433
     }
   },
   "Latvia": {
@@ -1602,7 +1602,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825291,
+          "confirmed": 2825379,
           "date": "2021-05-25",
           "deaths": 49247
         }
