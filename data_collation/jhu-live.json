@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 220847,
+      "confirmed": 223613,
       "date": "2021-05-25",
-      "deaths": 862,
-      "recovered": 196685
+      "deaths": 866,
+      "recovered": 198220
     }
   },
   "Bangladesh": {
@@ -1595,16 +1595,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 663965,
+          "confirmed": 664365,
           "date": "2021-05-25",
-          "deaths": 12426
+          "deaths": 12432
         }
       },
       "California": {
         "live": {
           "confirmed": 2825611,
           "date": "2021-05-25",
-          "deaths": 49259
+          "deaths": 49260
         }
       },
       "Florida": {
