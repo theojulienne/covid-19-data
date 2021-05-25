@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 135741,
+          "confirmed": 135932,
           "date": "2021-05-25",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 128748,
+          "confirmed": 128859,
           "date": "2021-05-25",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 120505,
+          "confirmed": 120599,
           "date": "2021-05-25",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 154803,
+          "confirmed": 154917,
           "date": "2021-05-25",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 126880,
+          "confirmed": 126948,
           "date": "2021-05-25",
           "deaths": 0,
           "recovered": 0
@@ -419,49 +419,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 518811,
+          "confirmed": 520995,
           "date": "2021-05-25",
-          "deaths": 11495,
+          "deaths": 11568,
           "recovered": 491139
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 266065,
+          "confirmed": 266970,
           "date": "2021-05-25",
-          "deaths": 8253,
+          "deaths": 8280,
           "recovered": 252091
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 903121,
+          "confirmed": 908222,
           "date": "2021-05-25",
-          "deaths": 17992,
+          "deaths": 18105,
           "recovered": 833744
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 152516,
+          "confirmed": 153232,
           "date": "2021-05-25",
-          "deaths": 4146,
+          "deaths": 4187,
           "recovered": 140983
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 124270,
+          "confirmed": 125353,
           "date": "2021-05-25",
-          "deaths": 4266,
+          "deaths": 4298,
           "recovered": 114109
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 258125,
+          "confirmed": 258597,
           "date": "2021-05-25",
-          "deaths": 8202,
+          "deaths": 8227,
           "recovered": 244237
         }
       }
@@ -570,7 +570,7 @@
           "confirmed": 487694,
           "date": "2021-05-25",
           "deaths": 9846,
-          "recovered": 454600
+          "recovered": 456600
         }
       },
       "Bayern": {
@@ -578,7 +578,7 @@
           "confirmed": 634399,
           "date": "2021-05-25",
           "deaths": 14786,
-          "recovered": 596500
+          "recovered": 599000
         }
       },
       "Berlin": {
@@ -586,7 +586,7 @@
           "confirmed": 177243,
           "date": "2021-05-25",
           "deaths": 3439,
-          "recovered": 169900
+          "recovered": 170200
         }
       },
       "Brandenburg": {
@@ -594,7 +594,7 @@
           "confirmed": 107799,
           "date": "2021-05-25",
           "deaths": 3699,
-          "recovered": 100500
+          "recovered": 100900
         }
       },
       "Hessen": {
@@ -602,7 +602,7 @@
           "confirmed": 283870,
           "date": "2021-05-25",
           "deaths": 7212,
-          "recovered": 262000
+          "recovered": 263900
         }
       },
       "Niedersachsen": {
@@ -610,7 +610,7 @@
           "confirmed": 256162,
           "date": "2021-05-25",
           "deaths": 5559,
-          "recovered": 242600
+          "recovered": 243600
         }
       },
       "Nordrhein-Westfalen": {
@@ -618,7 +618,7 @@
           "confirmed": 798113,
           "date": "2021-05-25",
           "deaths": 16493,
-          "recovered": 743600
+          "recovered": 747100
         }
       },
       "Rheinland-Pfalz": {
@@ -626,7 +626,7 @@
           "confirmed": 151485,
           "date": "2021-05-25",
           "deaths": 3698,
-          "recovered": 141900
+          "recovered": 142200
         }
       },
       "Sachsen": {
@@ -634,7 +634,7 @@
           "confirmed": 281924,
           "date": "2021-05-25",
           "deaths": 9566,
-          "recovered": 257100
+          "recovered": 258200
         }
       },
       "Thuringen": {
@@ -642,7 +642,7 @@
           "confirmed": 126475,
           "date": "2021-05-25",
           "deaths": 4148,
-          "recovered": 117500
+          "recovered": 118000
         }
       }
     }
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 429720,
+      "confirmed": 431278,
       "date": "2021-05-25",
       "deaths": 3428,
-      "recovered": 389569
+      "recovered": 391817
     }
   },
   "Kenya": {
@@ -1045,10 +1045,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 136467,
+      "confirmed": 136983,
       "date": "2021-05-25",
-      "deaths": 1934,
-      "recovered": 126427
+      "deaths": 1938,
+      "recovered": 126993
     }
   },
   "Kosovo": {
@@ -1119,33 +1119,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 654031,
+          "confirmed": 654137,
           "date": "2021-05-25",
-          "deaths": 33107,
+          "deaths": 33114,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 131664,
+          "confirmed": 131666,
           "date": "2021-05-25",
-          "deaths": 10762,
+          "deaths": 10763,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 248748,
+          "confirmed": 248789,
           "date": "2021-05-25",
-          "deaths": 34615,
+          "deaths": 34623,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 123937,
+          "confirmed": 123957,
           "date": "2021-05-25",
-          "deaths": 9487,
+          "deaths": 9488,
           "recovered": 0
         }
       }
@@ -1527,7 +1527,7 @@
     "live": {
       "confirmed": 167172,
       "date": "2021-05-25",
-      "deaths": 1210,
+      "deaths": 1243,
       "recovered": 139947
     }
   },
@@ -1842,10 +1842,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 223345,
+      "confirmed": 224819,
       "date": "2021-05-25",
-      "deaths": 2513,
-      "recovered": 206921
+      "deaths": 2528,
+      "recovered": 208218
     }
   },
   "West Bank and Gaza": {
