@@ -419,50 +419,50 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 520995,
+          "confirmed": 523357,
           "date": "2021-05-26",
-          "deaths": 11568,
-          "recovered": 493395
+          "deaths": 11628,
+          "recovered": 494742
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 266970,
+          "confirmed": 267859,
           "date": "2021-05-26",
-          "deaths": 8280,
-          "recovered": 253403
+          "deaths": 8304,
+          "recovered": 254355
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 908222,
+          "confirmed": 916103,
           "date": "2021-05-26",
-          "deaths": 18105,
-          "recovered": 839872
+          "deaths": 18221,
+          "recovered": 845333
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 153232,
+          "confirmed": 154146,
           "date": "2021-05-26",
-          "deaths": 4187,
-          "recovered": 143184
+          "deaths": 4226,
+          "recovered": 144144
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 125353,
+          "confirmed": 126542,
           "date": "2021-05-26",
-          "deaths": 4298,
-          "recovered": 115214
+          "deaths": 4327,
+          "recovered": 116327
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 258597,
+          "confirmed": 259940,
           "date": "2021-05-26",
-          "deaths": 8227,
-          "recovered": 244976
+          "deaths": 8260,
+          "recovered": 245542
         }
       }
     }
@@ -1297,18 +1297,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 374356,
+      "confirmed": 374937,
       "date": "2021-05-26",
-      "deaths": 6346,
-      "recovered": 362177
+      "deaths": 6353,
+      "recovered": 362765
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 335691,
+      "confirmed": 338914,
       "date": "2021-05-26",
-      "deaths": 8474,
-      "recovered": 277128
+      "deaths": 8591,
+      "recovered": 279343
     }
   },
   "Peru": {
@@ -1602,9 +1602,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825890,
+          "confirmed": 2825960,
           "date": "2021-05-26",
-          "deaths": 49261
+          "deaths": 49265
         }
       },
       "Florida": {
@@ -1714,9 +1714,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 108508,
+          "confirmed": 108614,
           "date": "2021-05-26",
-          "deaths": 1562
+          "deaths": 1565
         }
       },
       "Wisconsin": {
