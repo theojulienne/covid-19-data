@@ -306,7 +306,7 @@
           "confirmed": 102289,
           "date": "2021-05-26",
           "deaths": 1610,
-          "recovered": 95738
+          "recovered": 96188
         }
       },
       "Santa Catarina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 532132,
+          "confirmed": 532198,
           "date": "2021-05-26",
-          "deaths": 8613,
-          "recovered": 506569
+          "deaths": 8619,
+          "recovered": 506713
         }
       },
       "Quebec": {
@@ -1700,14 +1700,14 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1320975,
+          "confirmed": 1321210,
           "date": "2021-05-26",
-          "deaths": 20220
+          "deaths": 20247
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 150523,
+          "confirmed": 150591,
           "date": "2021-05-26",
           "deaths": 886
         }
