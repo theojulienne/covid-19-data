@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3562135,
+      "confirmed": 3586736,
       "date": "2021-05-25",
-      "deaths": 74480,
-      "recovered": 3133183
+      "deaths": 75056,
+      "recovered": 3157660
     }
   },
   "Armenia": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 790521,
+      "confirmed": 792196,
       "date": "2021-05-25",
-      "deaths": 12401,
-      "recovered": 731531
+      "deaths": 12441,
+      "recovered": 732810
     }
   },
   "Belarus": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 247644,
+      "confirmed": 248824,
       "date": "2021-05-25",
-      "deaths": 8009,
-      "recovered": 228169
+      "deaths": 8022,
+      "recovered": 229126
     }
   },
   "Honduras": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 122917,
+      "confirmed": 123163,
       "date": "2021-05-25",
       "deaths": 782,
       "recovered": 17998
@@ -1435,8 +1435,8 @@
     "live": {
       "confirmed": 1637848,
       "date": "2021-05-25",
-      "deaths": 55874,
-      "recovered": 1541250
+      "deaths": 55976,
+      "recovered": 1543951
     }
   },
   "Spain": {
@@ -1525,9 +1525,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 168980,
+      "confirmed": 169900,
       "date": "2021-05-25",
-      "deaths": 1243,
+      "deaths": 1269,
       "recovered": 141175
     }
   },
@@ -1602,9 +1602,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2825611,
+          "confirmed": 2825729,
           "date": "2021-05-25",
-          "deaths": 49260
+          "deaths": 49261
         }
       },
       "Florida": {
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1320715,
+          "confirmed": 1320867,
           "date": "2021-05-25",
           "deaths": 20219
         }
