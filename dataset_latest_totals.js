@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 3335965,
-        "deaths": 71027,
-        "recovered": 2973267
+        "confirmed": 3371508,
+        "deaths": 71771,
+        "recovered": 2992325
       },
       "back_2week": {
-        "confirmed": 3165121,
-        "deaths": 67821,
-        "recovered": 2837058
+        "confirmed": 3191097,
+        "deaths": 68311,
+        "recovered": 2854364
       },
       "latest": {
-        "confirmed": 3562135,
-        "deaths": 74480,
-        "recovered": 3133183
+        "confirmed": 3586736,
+        "deaths": 75056,
+        "recovered": 3157660
       }
     },
     "ARM": {
@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 414869,
-        "deaths": 17343,
-        "recovered": 364682
+        "confirmed": 415326,
+        "deaths": 17379,
+        "recovered": 367464
       },
       "back_2week": {
-        "confirmed": 411280,
-        "deaths": 17045,
-        "recovered": 351397
+        "confirmed": 412157,
+        "deaths": 17104,
+        "recovered": 353619
       },
       "latest": {
-        "confirmed": 416727,
-        "deaths": 17513,
-        "recovered": 373703
+        "confirmed": 417133,
+        "deaths": 17581,
+        "recovered": 376126
       }
     },
     "BHR": {
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 224647,
-          "deaths": 2183
+          "confirmed": 225034,
+          "deaths": 2192
         },
         "British Columbia": {
           "confirmed": 141373,
@@ -1263,19 +1263,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 266646,
-        "deaths": 4008,
-        "recovered": 220642
+        "confirmed": 267100,
+        "deaths": 4021,
+        "recovered": 221451
       },
       "back_2week": {
-        "confirmed": 263120,
-        "deaths": 3897,
-        "recovered": 211493
+        "confirmed": 263672,
+        "deaths": 3911,
+        "recovered": 212567
       },
       "latest": {
-        "confirmed": 269500,
-        "deaths": 4084,
-        "recovered": 230784
+        "confirmed": 269782,
+        "deaths": 4093,
+        "recovered": 231635
       }
     },
     "FIN": {
