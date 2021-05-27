@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 333097,
+      "confirmed": 333317,
       "date": "2021-05-27",
-      "deaths": 4885,
-      "recovered": 322273
+      "deaths": 4891,
+      "recovered": 322806
     }
   },
   "Bahrain": {
@@ -575,7 +575,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 636238,
+          "confirmed": 636342,
           "date": "2021-05-27",
           "deaths": 14894,
           "recovered": 603700
@@ -1179,47 +1179,47 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 182570,
+          "confirmed": 182885,
           "date": "2021-05-27",
-          "deaths": 2011,
+          "deaths": 2012,
           "recovered": 0
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 112265,
+          "confirmed": 112520,
           "date": "2021-05-27",
-          "deaths": 1632,
+          "deaths": 1634,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 264765,
+          "confirmed": 265269,
           "date": "2021-05-27",
-          "deaths": 3121,
+          "deaths": 3123,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 270957,
+          "confirmed": 271408,
           "date": "2021-05-27",
-          "deaths": 2584,
+          "deaths": 2588,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 106762,
+          "confirmed": 107070,
           "date": "2021-05-27",
-          "deaths": 1128,
+          "deaths": 1129,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 124768,
+          "confirmed": 125058,
           "date": "2021-05-27",
           "deaths": 1271,
           "recovered": 0
@@ -1227,9 +1227,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 389035,
+          "confirmed": 389881,
           "date": "2021-05-27",
-          "deaths": 4239,
+          "deaths": 4245,
           "recovered": 0
         }
       }
@@ -1245,10 +1245,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155117,
+      "confirmed": 155169,
       "date": "2021-05-27",
-      "deaths": 5356,
-      "recovered": 147190
+      "deaths": 5369,
+      "recovered": 147301
     }
   },
   "Norway": {
@@ -1528,7 +1528,7 @@
       "confirmed": 172277,
       "date": "2021-05-27",
       "deaths": 1298,
-      "recovered": 142378
+      "recovered": 143789
     }
   },
   "Sweden": {
