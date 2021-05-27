@@ -567,9 +567,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 489315,
+          "confirmed": 489337,
           "date": "2021-05-27",
-          "deaths": 9896,
+          "deaths": 9893,
           "recovered": 460900
         }
       },
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 434997,
+      "confirmed": 435104,
       "date": "2021-05-27",
       "deaths": 3433,
-      "recovered": 396907
+      "recovered": 397004
     }
   },
   "Kenya": {
