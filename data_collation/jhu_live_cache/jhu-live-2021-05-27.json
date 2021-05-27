@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 532198,
+          "confirmed": 532584,
           "date": "2021-05-27",
-          "deaths": 8619,
-          "recovered": 506713
+          "deaths": 8624,
+          "recovered": 507453
         }
       },
       "Quebec": {
@@ -623,17 +623,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 151913,
+          "confirmed": 152155,
           "date": "2021-05-27",
-          "deaths": 3716,
+          "deaths": 3720,
           "recovered": 143500
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 282423,
+          "confirmed": 283004,
           "date": "2021-05-27",
-          "deaths": 9612,
+          "deaths": 9621,
           "recovered": 260500
         }
       },
@@ -885,10 +885,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1181698,
+      "confirmed": 1186309,
       "date": "2021-05-27",
-      "deaths": 16267,
-      "recovered": 1094140
+      "deaths": 16289,
+      "recovered": 1098199
     }
   },
   "Ireland": {
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 159162,
           "date": "2021-05-27",
-          "deaths": 2015,
+          "deaths": 2026,
           "recovered": 150879
         }
       }
@@ -1053,10 +1053,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 106905,
+      "confirmed": 106928,
       "date": "2021-05-27",
-      "deaths": 2246,
-      "recovered": 101661
+      "deaths": 2247,
+      "recovered": 101891
     }
   },
   "Kuwait": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 123662,
+      "confirmed": 123903,
       "date": "2021-05-27",
       "deaths": 783,
       "recovered": 17998
@@ -1401,17 +1401,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 444780,
+      "confirmed": 445963,
       "date": "2021-05-27",
-      "deaths": 7295,
-      "recovered": 427462
+      "deaths": 7309,
+      "recovered": 428502
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 711116,
+      "confirmed": 711442,
       "date": "2021-05-27",
-      "deaths": 6811,
+      "deaths": 6823,
       "recovered": 0
     }
   },
@@ -1525,7 +1525,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 172277,
+      "confirmed": 174059,
       "date": "2021-05-27",
       "deaths": 1298,
       "recovered": 143789
