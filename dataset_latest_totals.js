@@ -1161,19 +1161,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 125693,
-        "deaths": 3388,
-        "recovered": 87609
+        "confirmed": 125896,
+        "deaths": 3395,
+        "recovered": 87746
       },
       "back_2week": {
-        "confirmed": 124483,
-        "deaths": 3343,
-        "recovered": 86703
+        "confirmed": 124682,
+        "deaths": 3350,
+        "recovered": 86857
       },
       "latest": {
-        "confirmed": 127361,
-        "deaths": 3433,
-        "recovered": 88672
+        "confirmed": 127646,
+        "deaths": 3440,
+        "recovered": 88861
       }
     },
     "ECU": {
@@ -2040,19 +2040,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 536554,
-        "deaths": 7641,
-        "recovered": 502762
+        "confirmed": 537043,
+        "deaths": 7651,
+        "recovered": 503774
       },
       "back_2week": {
-        "confirmed": 533685,
-        "deaths": 7527,
-        "recovered": 489319
+        "confirmed": 534388,
+        "deaths": 7549,
+        "recovered": 490305
       },
       "latest": {
-        "confirmed": 538991,
-        "deaths": 7690,
-        "recovered": 513249
+        "confirmed": 539271,
+        "deaths": 7697,
+        "recovered": 513884
       }
     },
     "LBR": {
@@ -3320,19 +3320,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 5139485,
-        "deaths": 45186,
-        "recovered": 4971245
+        "confirmed": 5151038,
+        "deaths": 45419,
+        "recovered": 4980516
       },
       "back_2week": {
-        "confirmed": 5059433,
-        "deaths": 43589,
-        "recovered": 4766124
+        "confirmed": 5072462,
+        "deaths": 43821,
+        "recovered": 4801291
       },
       "latest": {
-        "confirmed": 5203385,
-        "deaths": 46621,
-        "recovered": 5045508
+        "confirmed": 5212123,
+        "deaths": 46787,
+        "recovered": 5057713
       }
     },
     "TWN": {
