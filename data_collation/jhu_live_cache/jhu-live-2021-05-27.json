@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 203658,
+      "confirmed": 203762,
       "date": "2021-05-27",
-      "deaths": 9184,
-      "recovered": 173487
+      "deaths": 9194,
+      "recovered": 173626
     }
   },
   "Brazil": {
@@ -389,7 +389,7 @@
         "live": {
           "confirmed": 368463,
           "date": "2021-05-27",
-          "deaths": 11105,
+          "deaths": 11115,
           "recovered": 352230
         }
       }
@@ -509,10 +509,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 286269,
+      "confirmed": 288034,
       "date": "2021-05-27",
-      "deaths": 3613,
-      "recovered": 237553
+      "deaths": 3620,
+      "recovered": 238499
     }
   },
   "Ecuador": {
@@ -1024,7 +1024,7 @@
       "confirmed": 731436,
       "date": "2021-05-27",
       "deaths": 9384,
-      "recovered": 712929
+      "recovered": 713331
     }
   },
   "Kazakhstan": {
@@ -1341,10 +1341,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 846434,
+      "confirmed": 847006,
       "date": "2021-05-27",
       "deaths": 17022,
-      "recovered": 807065
+      "recovered": 807532
     }
   },
   "Qatar": {
@@ -1800,15 +1800,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3902160,
+          "confirmed": 3904934,
           "date": "2021-05-27",
-          "deaths": 112363,
+          "deaths": 112371,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 122348,
+          "confirmed": 122432,
           "date": "2021-05-27",
           "deaths": 2152,
           "recovered": 0
@@ -1816,7 +1816,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 233207,
+          "confirmed": 233671,
           "date": "2021-05-27",
           "deaths": 7666,
           "recovered": 0
@@ -1824,9 +1824,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 212582,
+          "confirmed": 212640,
           "date": "2021-05-27",
-          "deaths": 5567,
+          "deaths": 5569,
           "recovered": 0
         }
       }
