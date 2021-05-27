@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 533367,
+      "confirmed": 541224,
       "date": "2021-05-27",
-      "deaths": 2432,
-      "recovered": 464727
+      "deaths": 2491,
+      "recovered": 469325
     }
   },
   "Mexico": {
@@ -1357,10 +1357,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1076533,
+      "confirmed": 1076840,
       "date": "2021-05-27",
-      "deaths": 30092,
-      "recovered": 1035902
+      "deaths": 30131,
+      "recovered": 1036646
     }
   },
   "Russia": {
@@ -1563,7 +1563,7 @@
     "live": {
       "confirmed": 691119,
       "date": "2021-05-27",
-      "deaths": 10791,
+      "deaths": 10795,
       "recovered": 317600
     }
   },
@@ -1700,7 +1700,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1321370,
+          "confirmed": 1321393,
           "date": "2021-05-27",
           "deaths": 20247
         }
