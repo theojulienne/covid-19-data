@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 532646,
+          "confirmed": 532945,
           "date": "2021-05-27",
-          "deaths": 8626,
-          "recovered": 507555
+          "deaths": 8627,
+          "recovered": 507912
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 270180,
+      "confirmed": 270527,
       "date": "2021-05-27",
-      "deaths": 4108,
-      "recovered": 233216
+      "deaths": 4127,
+      "recovered": 234426
     }
   },
   "France": {
@@ -567,9 +567,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 489337,
+          "confirmed": 490555,
           "date": "2021-05-27",
-          "deaths": 9893,
+          "deaths": 9915,
           "recovered": 460900
         }
       },
@@ -1602,16 +1602,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2827156,
+          "confirmed": 2827266,
           "date": "2021-05-27",
-          "deaths": 49305
+          "deaths": 49310
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 1176122,
+          "confirmed": 1177290,
           "date": "2021-05-27",
-          "deaths": 15447
+          "deaths": 15475
         }
       },
       "Georgia": {
@@ -1644,9 +1644,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 281279,
+          "confirmed": 281556,
           "date": "2021-05-27",
-          "deaths": 7324
+          "deaths": 7351
         }
       },
       "Minnesota": {
@@ -1674,7 +1674,7 @@
         "live": {
           "confirmed": 1387869,
           "date": "2021-05-27",
-          "deaths": 40159
+          "deaths": 40160
         }
       },
       "North Carolina": {
@@ -1721,9 +1721,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117083,
+          "confirmed": 117124,
           "date": "2021-05-27",
-          "deaths": 1375
+          "deaths": 1380
         }
       }
     }
