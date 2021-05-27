@@ -1987,6 +1987,23 @@
         "recovered": 19022
       }
     },
+    "KIR": {
+      "back_1week": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "back_2week": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      }
+    },
     "KOR": {
       "back_1week": {
         "confirmed": 133471,
