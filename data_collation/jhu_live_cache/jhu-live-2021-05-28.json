@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 229468,
       "date": "2021-05-28",
-      "deaths": 902,
+      "deaths": 907,
       "recovered": 201683
     }
   },
@@ -869,10 +869,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1797499,
+      "confirmed": 1803361,
       "date": "2021-05-28",
-      "deaths": 49907,
-      "recovered": 1649187
+      "deaths": 50100,
+      "recovered": 1654557
     }
   },
   "Iran": {
@@ -1011,9 +1011,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 159162,
+          "confirmed": 159776,
           "date": "2021-05-28",
-          "deaths": 2026,
+          "deaths": 2027,
           "recovered": 150879
         }
       }
@@ -1325,18 +1325,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1200430,
+      "confirmed": 1209154,
       "date": "2021-05-28",
-      "deaths": 20379,
-      "recovered": 1131942
+      "deaths": 20566,
+      "recovered": 1134818
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2869652,
+      "confirmed": 2870595,
       "date": "2021-05-28",
-      "deaths": 73440,
-      "recovered": 2632483
+      "deaths": 73557,
+      "recovered": 2634711
     }
   },
   "Portugal": {
@@ -1367,34 +1367,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1167122,
+          "confirmed": 1170396,
           "date": "2021-05-28",
-          "deaths": 19884,
-          "recovered": 1052132
+          "deaths": 19940,
+          "recovered": 1055130
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 268213,
+          "confirmed": 268959,
           "date": "2021-05-28",
-          "deaths": 6107,
-          "recovered": 219798
+          "deaths": 6118,
+          "recovered": 220431
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 117530,
+          "confirmed": 117676,
           "date": "2021-05-28",
-          "deaths": 3571,
-          "recovered": 112295
+          "deaths": 3586,
+          "recovered": 112372
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 436352,
+          "confirmed": 437192,
           "date": "2021-05-28",
-          "deaths": 14193,
-          "recovered": 401551
+          "deaths": 14226,
+          "recovered": 402723
         }
       }
     }
