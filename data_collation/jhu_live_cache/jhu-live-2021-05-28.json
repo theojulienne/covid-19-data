@@ -146,7 +146,7 @@
           "confirmed": 111280,
           "date": "2021-05-28",
           "deaths": 1683,
-          "recovered": 85384
+          "recovered": 87050
         }
       },
       "Amazonas": {
@@ -154,7 +154,7 @@
           "confirmed": 384634,
           "date": "2021-05-28",
           "deaths": 12951,
-          "recovered": 326120
+          "recovered": 329224
         }
       },
       "Bahia": {
@@ -162,7 +162,7 @@
           "confirmed": 999463,
           "date": "2021-05-28",
           "deaths": 20856,
-          "recovered": 941121
+          "recovered": 960258
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 402182,
           "date": "2021-05-28",
           "deaths": 8569,
-          "recovered": 384945
+          "recovered": 385481
         }
       },
       "Espirito Santo": {
@@ -186,7 +186,7 @@
           "confirmed": 477047,
           "date": "2021-05-28",
           "deaths": 10683,
-          "recovered": 442511
+          "recovered": 448481
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 602460,
           "date": "2021-05-28",
           "deaths": 16864,
-          "recovered": 570870
+          "recovered": 573662
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 1545702,
           "date": "2021-05-28",
           "deaths": 39784,
-          "recovered": 1414213
+          "recovered": 1420363
         }
       },
       "Para": {
@@ -250,7 +250,7 @@
           "confirmed": 1079255,
           "date": "2021-05-28",
           "deaths": 25966,
-          "recovered": 733508
+          "recovered": 747963
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 855244,
           "date": "2021-05-28",
           "deaths": 50125,
-          "recovered": 785438
+          "recovered": 790596
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 958906,
           "date": "2021-05-28",
           "deaths": 15073,
-          "recovered": 919127
+          "recovered": 921496
         }
       },
       "Sao Paulo": {
@@ -338,7 +338,7 @@
           "confirmed": 175765,
           "date": "2021-05-28",
           "deaths": 2825,
-          "recovered": 154996
+          "recovered": 158108
         }
       }
     }
@@ -567,7 +567,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 490555,
+          "confirmed": 490577,
           "date": "2021-05-28",
           "deaths": 9915,
           "recovered": 462600
@@ -575,73 +575,73 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 636342,
+          "confirmed": 637463,
           "date": "2021-05-28",
-          "deaths": 14894,
+          "deaths": 14919,
           "recovered": 605000
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 177669,
+          "confirmed": 177939,
           "date": "2021-05-28",
-          "deaths": 3460,
+          "deaths": 3465,
           "recovered": 171400
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 107911,
+          "confirmed": 108084,
           "date": "2021-05-28",
-          "deaths": 3710,
+          "deaths": 3720,
           "recovered": 101600
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 284916,
+          "confirmed": 285572,
           "date": "2021-05-28",
-          "deaths": 7282,
+          "deaths": 7305,
           "recovered": 266600
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 256768,
+          "confirmed": 257191,
           "date": "2021-05-28",
-          "deaths": 5584,
+          "deaths": 5598,
           "recovered": 246500
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 800759,
+          "confirmed": 802514,
           "date": "2021-05-28",
-          "deaths": 16639,
+          "deaths": 16684,
           "recovered": 755700
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 152155,
+          "confirmed": 152176,
           "date": "2021-05-28",
-          "deaths": 3720,
+          "deaths": 3719,
           "recovered": 143900
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 283004,
+          "confirmed": 283059,
           "date": "2021-05-28",
-          "deaths": 9621,
+          "deaths": 9625,
           "recovered": 261300
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 126959,
+          "confirmed": 127183,
           "date": "2021-05-28",
-          "deaths": 4176,
+          "deaths": 4189,
           "recovered": 119400
         }
       }
@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 234923,
+      "confirmed": 235599,
       "date": "2021-05-28",
-      "deaths": 6240,
-      "recovered": 84006
+      "deaths": 6259,
+      "recovered": 84223
     }
   },
   "Hungary": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 435104,
+      "confirmed": 436931,
       "date": "2021-05-28",
-      "deaths": 3433,
-      "recovered": 397004
+      "deaths": 3435,
+      "recovered": 399524
     }
   },
   "Kenya": {
