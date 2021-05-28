@@ -51,7 +51,7 @@
     "live": {
       "confirmed": 229468,
       "date": "2021-05-28",
-      "deaths": 907,
+      "deaths": 910,
       "recovered": 201683
     }
   },
@@ -501,10 +501,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 277399,
+      "confirmed": 278396,
       "date": "2021-05-28",
-      "deaths": 2511,
-      "recovered": 261844
+      "deaths": 2512,
+      "recovered": 262748
     }
   },
   "Dominican Republic": {
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 159776,
           "date": "2021-05-28",
-          "deaths": 2027,
+          "deaths": 2032,
           "recovered": 151483
         }
       }
@@ -1093,10 +1093,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 184472,
+      "confirmed": 184815,
       "date": "2021-05-28",
-      "deaths": 3115,
-      "recovered": 171006
+      "deaths": 3116,
+      "recovered": 171279
     }
   },
   "Lithuania": {
@@ -1563,13 +1563,13 @@
     "live": {
       "confirmed": 692111,
       "date": "2021-05-28",
-      "deaths": 10798,
+      "deaths": 10799,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 144976,
+      "confirmed": 147039,
       "date": "2021-05-28",
       "deaths": 954,
       "recovered": 26873
@@ -1850,10 +1850,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 306795,
+      "confirmed": 307569,
       "date": "2021-05-28",
-      "deaths": 3483,
-      "recovered": 299559
+      "deaths": 3489,
+      "recovered": 300125
     }
   }
 }
