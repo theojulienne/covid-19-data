@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 226416,
+      "confirmed": 229468,
       "date": "2021-05-27",
-      "deaths": 887,
-      "recovered": 199713
+      "deaths": 902,
+      "recovered": 201683
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 142886,
+          "confirmed": 143264,
           "date": "2021-05-27",
-          "deaths": 1683,
-          "recovered": 137517
+          "deaths": 1690,
+          "recovered": 137929
         }
       },
       "Ontario": {
@@ -469,10 +469,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 309486,
+      "confirmed": 311922,
       "date": "2021-05-27",
-      "deaths": 3908,
-      "recovered": 238971
+      "deaths": 3929,
+      "recovered": 239917
     }
   },
   "Croatia": {
@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 303039,
+      "confirmed": 304199,
       "date": "2021-05-27",
-      "deaths": 1751,
-      "recovered": 288289
+      "deaths": 1755,
+      "recovered": 289367
     }
   },
   "Kyrgyzstan": {
@@ -1237,10 +1237,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 166146,
+      "confirmed": 166191,
       "date": "2021-05-27",
       "deaths": 2071,
-      "recovered": 156529
+      "recovered": 156535
     }
   },
   "North Macedonia": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 123903,
+      "confirmed": 124071,
       "date": "2021-05-27",
       "deaths": 783,
       "recovered": 17998
@@ -1349,10 +1349,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 216397,
+      "confirmed": 216683,
       "date": "2021-05-27",
       "deaths": 552,
-      "recovered": 211896
+      "recovered": 212048
     }
   },
   "Romania": {
@@ -1577,10 +1577,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 338853,
+      "confirmed": 340250,
       "date": "2021-05-27",
-      "deaths": 12398,
-      "recovered": 298855
+      "deaths": 12451,
+      "recovered": 299331
     }
   },
   "Turkey": {
