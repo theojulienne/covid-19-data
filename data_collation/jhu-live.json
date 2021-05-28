@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 535953,
+          "confirmed": 536274,
           "date": "2021-05-28",
-          "deaths": 8686,
-          "recovered": 513401
+          "deaths": 8694,
+          "recovered": 514075
         }
       },
       "Quebec": {
@@ -541,10 +541,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 270527,
+      "confirmed": 270944,
       "date": "2021-05-28",
-      "deaths": 4127,
-      "recovered": 234426
+      "deaths": 4139,
+      "recovered": 235850
     }
   },
   "France": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 251336,
+      "confirmed": 252929,
       "date": "2021-05-28",
-      "deaths": 8070,
-      "recovered": 230882
+      "deaths": 8094,
+      "recovered": 231594
     }
   },
   "Honduras": {
@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 304199,
+      "confirmed": 305583,
       "date": "2021-05-28",
-      "deaths": 1755,
-      "recovered": 289367
+      "deaths": 1760,
+      "recovered": 290377
     }
   },
   "Kyrgyzstan": {
@@ -1315,9 +1315,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 875084,
+          "confirmed": 876601,
           "date": "2021-05-28",
-          "deaths": 29618,
+          "deaths": 29674,
           "recovered": 0
         }
       }
@@ -1433,10 +1433,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1649977,
+      "confirmed": 1654551,
       "date": "2021-05-28",
-      "deaths": 56170,
-      "recovered": 1548092
+      "deaths": 56293,
+      "recovered": 1551520
     }
   },
   "Spain": {
@@ -1577,10 +1577,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 340250,
+      "confirmed": 341952,
       "date": "2021-05-28",
-      "deaths": 12451,
-      "recovered": 299331
+      "deaths": 12513,
+      "recovered": 299771
     }
   },
   "Turkey": {
@@ -1616,9 +1616,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102433,
+          "confirmed": 102469,
           "date": "2021-05-28",
-          "deaths": 1175
+          "deaths": 1178
         }
       },
       "Illinois": {
@@ -1700,9 +1700,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1322069,
+          "confirmed": 1322368,
           "date": "2021-05-28",
-          "deaths": 20269
+          "deaths": 20288
         }
       },
       "Utah": {
