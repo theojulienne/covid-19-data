@@ -1053,10 +1053,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 106928,
+      "confirmed": 106946,
       "date": "2021-05-28",
       "deaths": 2247,
-      "recovered": 101891
+      "recovered": 102303
     }
   },
   "Kuwait": {
@@ -1253,7 +1253,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 124071,
+      "confirmed": 124211,
       "date": "2021-05-28",
       "deaths": 783,
       "recovered": 17998
@@ -1341,18 +1341,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 847006,
+      "confirmed": 847604,
       "date": "2021-05-28",
-      "deaths": 17022,
-      "recovered": 807532
+      "deaths": 17023,
+      "recovered": 808047
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 216683,
+      "confirmed": 216885,
       "date": "2021-05-28",
       "deaths": 552,
-      "recovered": 212048
+      "recovered": 212379
     }
   },
   "Romania": {
@@ -1409,9 +1409,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 711442,
+      "confirmed": 711772,
       "date": "2021-05-28",
-      "deaths": 6823,
+      "deaths": 6834,
       "recovered": 0
     }
   },
