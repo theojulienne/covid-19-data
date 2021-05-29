@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 143486,
+      "confirmed": 143526,
       "date": "2021-05-29",
       "deaths": 3216,
-      "recovered": 132279
+      "recovered": 132297
     }
   },
   "Canada": {
@@ -379,17 +379,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 536700,
+          "confirmed": 536728,
           "date": "2021-05-29",
           "deaths": 8695,
-          "recovered": 514745
+          "recovered": 514792
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 369318,
+          "confirmed": 369728,
           "date": "2021-05-29",
-          "deaths": 11118,
+          "deaths": 11125,
           "recovered": 353442
         }
       }
@@ -1666,9 +1666,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 104206,
+          "confirmed": 104225,
           "date": "2021-05-29",
-          "deaths": 2866
+          "deaths": 2867
         }
       },
       "New York": {
@@ -1801,23 +1801,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3908214,
+          "confirmed": 3910803,
           "date": "2021-05-29",
-          "deaths": 112379,
+          "deaths": 112385,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 122507,
+          "confirmed": 122575,
           "date": "2021-05-29",
-          "deaths": 2152,
+          "deaths": 2153,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 234312,
+          "confirmed": 234895,
           "date": "2021-05-29",
           "deaths": 7668,
           "recovered": 0
