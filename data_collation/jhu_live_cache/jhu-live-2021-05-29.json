@@ -382,7 +382,7 @@
           "confirmed": 537138,
           "date": "2021-05-29",
           "deaths": 8698,
-          "recovered": 515500
+          "recovered": 515505
         }
       },
       "Quebec": {
@@ -909,7 +909,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839452,
+      "confirmed": 839453,
       "date": "2021-05-29",
       "deaths": 6407,
       "recovered": 832539
@@ -1323,9 +1323,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 876601,
+          "confirmed": 878346,
           "date": "2021-05-29",
-          "deaths": 29674,
+          "deaths": 29722,
           "recovered": 0
         }
       }
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1654551,
+      "confirmed": 1659070,
       "date": "2021-05-29",
-      "deaths": 56293,
-      "recovered": 1551520
+      "deaths": 56363,
+      "recovered": 1554184
     }
   },
   "Spain": {
@@ -1603,9 +1603,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 666214,
+          "confirmed": 666606,
           "date": "2021-05-29",
-          "deaths": 12464
+          "deaths": 12480
         }
       },
       "California": {
@@ -1696,7 +1696,7 @@
         "live": {
           "confirmed": 152956,
           "date": "2021-05-29",
-          "deaths": 3667
+          "deaths": 3669
         }
       },
       "Texas": {
