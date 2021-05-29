@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 536274,
+          "confirmed": 536700,
           "date": "2021-05-29",
-          "deaths": 8694,
-          "recovered": 514081
+          "deaths": 8695,
+          "recovered": 514745
         }
       },
       "Quebec": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 124410,
+      "confirmed": 124557,
       "date": "2021-05-29",
       "deaths": 783,
       "recovered": 17998
@@ -1409,17 +1409,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 447178,
+      "confirmed": 448284,
       "date": "2021-05-29",
-      "deaths": 7320,
-      "recovered": 429663
+      "deaths": 7334,
+      "recovered": 430937
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 711772,
+      "confirmed": 712046,
       "date": "2021-05-29",
-      "deaths": 6834,
+      "deaths": 6844,
       "recovered": 0
     }
   },
