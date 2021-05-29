@@ -1019,9 +1019,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 159776,
+          "confirmed": 160315,
           "date": "2021-05-29",
-          "deaths": 2032,
+          "deaths": 2038,
           "recovered": 152231
         }
       }
@@ -1571,13 +1571,13 @@
     "live": {
       "confirmed": 693023,
       "date": "2021-05-29",
-      "deaths": 10801,
+      "deaths": 10805,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 149779,
+      "confirmed": 151842,
       "date": "2021-05-29",
       "deaths": 988,
       "recovered": 26873
@@ -1791,10 +1791,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 565451,
+      "confirmed": 567263,
       "date": "2021-05-29",
-      "deaths": 1668,
-      "recovered": 545229
+      "deaths": 1673,
+      "recovered": 547008
     }
   },
   "United Kingdom": {
