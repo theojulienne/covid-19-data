@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 381546,
-        "deaths": 2742,
-        "recovered": 371666
+        "confirmed": 383302,
+        "deaths": 2752,
+        "recovered": 373391
       },
       "back_2week": {
-        "confirmed": 372242,
-        "deaths": 2671,
-        "recovered": 362806
+        "confirmed": 373351,
+        "deaths": 2681,
+        "recovered": 363873
       },
       "latest": {
-        "confirmed": 390203,
-        "deaths": 2811,
-        "recovered": 380677
+        "confirmed": 391637,
+        "deaths": 2821,
+        "recovered": 382167
       }
     },
     "BLZ": {
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 270557,
+        "confirmed": 271908,
         "deaths": 2506,
-        "recovered": 254739
+        "recovered": 255624
       },
       "back_2week": {
-        "confirmed": 263514,
+        "confirmed": 264465,
         "deaths": 2499,
-        "recovered": 248683
+        "recovered": 249487
       },
       "latest": {
-        "confirmed": 277399,
-        "deaths": 2511,
-        "recovered": 261844
+        "confirmed": 278396,
+        "deaths": 2512,
+        "recovered": 262748
       },
       "states": {
         "Faroe Islands": {
@@ -2827,19 +2827,19 @@ var covid19_dataset_latest_totals = {
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 214463,
-        "deaths": 539,
-        "recovered": 209773
+        "confirmed": 214830,
+        "deaths": 541,
+        "recovered": 210150
       },
       "back_2week": {
-        "confirmed": 212423,
-        "deaths": 522,
-        "recovered": 205160
+        "confirmed": 212667,
+        "deaths": 524,
+        "recovered": 205750
       },
       "latest": {
-        "confirmed": 216683,
+        "confirmed": 216885,
         "deaths": 552,
-        "recovered": 212048
+        "recovered": 212379
       }
     },
     "RKS": {
