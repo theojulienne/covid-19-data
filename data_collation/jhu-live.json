@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 128198,
+      "confirmed": 128456,
       "date": "2021-05-29",
-      "deaths": 3455,
-      "recovered": 89232
+      "deaths": 3460,
+      "recovered": 89419
     }
   },
   "Argentina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 536728,
+          "confirmed": 537039,
           "date": "2021-05-29",
-          "deaths": 8695,
-          "recovered": 514792
+          "deaths": 8697,
+          "recovered": 515368
         }
       },
       "Quebec": {
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 128783,
+          "confirmed": 129509,
           "date": "2021-05-29",
-          "deaths": 2057,
-          "recovered": 123081
+          "deaths": 2069,
+          "recovered": 123656
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 566129,
+          "confirmed": 569995,
           "date": "2021-05-29",
-          "deaths": 15312,
-          "recovered": 531463
+          "deaths": 15354,
+          "recovered": 534926
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 289288,
+      "confirmed": 290526,
       "date": "2021-05-29",
-      "deaths": 3623,
-      "recovered": 238615
+      "deaths": 3628,
+      "recovered": 238810
     }
   },
   "Ecuador": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 252929,
+      "confirmed": 253837,
       "date": "2021-05-29",
-      "deaths": 8094,
-      "recovered": 231594
+      "deaths": 8121,
+      "recovered": 232359
     }
   },
   "Honduras": {
@@ -1169,10 +1169,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 518458,
+      "confirmed": 518868,
       "date": "2021-05-29",
-      "deaths": 9135,
-      "recovered": 506443
+      "deaths": 9138,
+      "recovered": 506740
     }
   },
   "Nepal": {
@@ -1349,10 +1349,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 847604,
+      "confirmed": 848213,
       "date": "2021-05-29",
       "deaths": 17023,
-      "recovered": 808047
+      "recovered": 808557
     }
   },
   "Qatar": {
@@ -1593,10 +1593,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5228322,
+      "confirmed": 5235978,
       "date": "2021-05-29",
-      "deaths": 47134,
-      "recovered": 5083099
+      "deaths": 47271,
+      "recovered": 5094279
     }
   },
   "US": {
@@ -1610,9 +1610,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2832628,
+          "confirmed": 2832753,
           "date": "2021-05-29",
-          "deaths": 49468
+          "deaths": 49480
         }
       },
       "Florida": {
@@ -1652,9 +1652,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 124129,
+          "confirmed": 124198,
           "date": "2021-05-29",
-          "deaths": 1751
+          "deaths": 1752
         }
       },
       "Nevada": {
@@ -1673,9 +1673,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1388548,
+          "confirmed": 1388814,
           "date": "2021-05-29",
-          "deaths": 40176
+          "deaths": 40189
         }
       },
       "North Carolina": {
