@@ -1263,19 +1263,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 268035,
-        "deaths": 4048,
-        "recovered": 223993
+        "confirmed": 268520,
+        "deaths": 4060,
+        "recovered": 225480
       },
       "back_2week": {
-        "confirmed": 264960,
-        "deaths": 3951,
-        "recovered": 215734
+        "confirmed": 265413,
+        "deaths": 3964,
+        "recovered": 217370
       },
       "latest": {
-        "confirmed": 270527,
-        "deaths": 4127,
-        "recovered": 234426
+        "confirmed": 270944,
+        "deaths": 4139,
+        "recovered": 235850
       }
     },
     "FIN": {
@@ -1315,18 +1315,18 @@
     "FRA": {
       "back_1week": {
         "confirmed": 5526555,
-        "deaths": 107522,
+        "deaths": 107645,
         "recovered": 324444
       },
       "back_2week": {
         "confirmed": 5796058,
-        "deaths": 106481,
-        "recovered": 319025
+        "deaths": 106652,
+        "recovered": 319798
       },
       "latest": {
         "confirmed": 5588981,
-        "deaths": 108343,
-        "recovered": 329920
+        "deaths": 108466,
+        "recovered": 331006
       },
       "states": {
         "French Guiana": {
