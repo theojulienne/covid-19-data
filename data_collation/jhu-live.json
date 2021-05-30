@@ -665,10 +665,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 236451,
+      "confirmed": 236952,
       "date": "2021-05-30",
-      "deaths": 6284,
-      "recovered": 84223
+      "deaths": 6296,
+      "recovered": 84389
     }
   },
   "Hungary": {
@@ -1127,33 +1127,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 657121,
+          "confirmed": 657832,
           "date": "2021-05-30",
-          "deaths": 33171,
+          "deaths": 33198,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 131874,
+          "confirmed": 131934,
           "date": "2021-05-30",
-          "deaths": 10835,
+          "deaths": 10869,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 249892,
+          "confirmed": 250093,
           "date": "2021-05-30",
-          "deaths": 34927,
+          "deaths": 34955,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 124278,
+          "confirmed": 124233,
           "date": "2021-05-30",
-          "deaths": 9514,
+          "deaths": 9531,
           "recovered": 0
         }
       }
@@ -1843,10 +1843,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 230147,
+      "confirmed": 231443,
       "date": "2021-05-30",
-      "deaths": 2595,
-      "recovered": 212199
+      "deaths": 2615,
+      "recovered": 213365
     }
   },
   "West Bank and Gaza": {
