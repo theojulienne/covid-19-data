@@ -57,18 +57,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 798830,
+      "confirmed": 800540,
       "date": "2021-05-31",
-      "deaths": 12583,
-      "recovered": 738805
+      "deaths": 12619,
+      "recovered": 740372
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 393807,
+      "confirmed": 394439,
       "date": "2021-05-31",
-      "deaths": 2841,
-      "recovered": 384933
+      "deaths": 2851,
+      "recovered": 385382
     }
   },
   "Belgium": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 537919,
+          "confirmed": 538256,
           "date": "2021-05-31",
-          "deaths": 8704,
-          "recovered": 516826
+          "deaths": 8712,
+          "recovered": 517355
         }
       },
       "Quebec": {
@@ -501,10 +501,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 280383,
+      "confirmed": 281227,
       "date": "2021-05-31",
       "deaths": 2516,
-      "recovered": 264562
+      "recovered": 265478
     }
   },
   "Dominican Republic": {
@@ -1177,10 +1177,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 557124,
+      "confirmed": 561302,
       "date": "2021-05-31",
-      "deaths": 7272,
-      "recovered": 440955
+      "deaths": 7386,
+      "recovered": 447446
     }
   },
   "Netherlands": {
@@ -1253,10 +1253,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155269,
+      "confirmed": 155272,
       "date": "2021-05-31",
-      "deaths": 5408,
-      "recovered": 148664
+      "deaths": 5413,
+      "recovered": 148709
     }
   },
   "Norway": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1659070,
+      "confirmed": 1662825,
       "date": "2021-05-31",
-      "deaths": 56363,
-      "recovered": 1554184
+      "deaths": 56439,
+      "recovered": 1556874
     }
   },
   "Spain": {
@@ -1569,9 +1569,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 693023,
+      "confirmed": 694740,
       "date": "2021-05-31",
-      "deaths": 10807,
+      "deaths": 10809,
       "recovered": 317600
     }
   },
