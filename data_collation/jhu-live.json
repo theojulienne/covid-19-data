@@ -186,7 +186,7 @@
           "confirmed": 480587,
           "date": "2021-05-31",
           "deaths": 10724,
-          "recovered": 451118
+          "recovered": 453077
         }
       },
       "Goias": {
@@ -226,7 +226,7 @@
           "confirmed": 1569774,
           "date": "2021-05-31",
           "deaths": 40452,
-          "recovered": 1436122
+          "recovered": 1442420
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 1084263,
           "date": "2021-05-31",
           "deaths": 28158,
-          "recovered": 1036867
+          "recovered": 1039824
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 863865,
           "date": "2021-05-31",
           "deaths": 50574,
-          "recovered": 795179
+          "recovered": 801877
         }
       },
       "Rondonia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 539193,
+          "confirmed": 539196,
           "date": "2021-05-31",
           "deaths": 8737,
-          "recovered": 519363
+          "recovered": 519368
         }
       },
       "Quebec": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1662825,
+      "confirmed": 1665617,
       "date": "2021-05-31",
-      "deaths": 56439,
-      "recovered": 1556874
+      "deaths": 56506,
+      "recovered": 1559337
     }
   },
   "Spain": {
