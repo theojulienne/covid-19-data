@@ -575,9 +575,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 639246,
+          "confirmed": 639260,
           "date": "2021-05-31",
-          "deaths": 14943,
+          "deaths": 14944,
           "recovered": 608900
         }
       },
@@ -586,7 +586,7 @@
           "confirmed": 178231,
           "date": "2021-05-31",
           "deaths": 3481,
-          "recovered": 171900
+          "recovered": 172000
         }
       },
       "Brandenburg": {
@@ -623,17 +623,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 152721,
+          "confirmed": 152836,
           "date": "2021-05-31",
-          "deaths": 3725,
+          "deaths": 3731,
           "recovered": 145200
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 283778,
+          "confirmed": 283830,
           "date": "2021-05-31",
-          "deaths": 9683,
+          "deaths": 9690,
           "recovered": 263800
         }
       },
@@ -1666,7 +1666,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 104237,
+          "confirmed": 104255,
           "date": "2021-05-31",
           "deaths": 2867
         }
