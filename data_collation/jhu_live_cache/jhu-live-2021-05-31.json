@@ -338,7 +338,7 @@
           "confirmed": 177786,
           "date": "2021-05-31",
           "deaths": 2867,
-          "recovered": 159306
+          "recovered": 161194
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 538487,
+          "confirmed": 539193,
           "date": "2021-05-31",
-          "deaths": 8717,
-          "recovered": 517863
+          "deaths": 8737,
+          "recovered": 519363
         }
       },
       "Quebec": {
@@ -517,9 +517,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 425841,
+      "confirmed": 426037,
       "date": "2021-05-31",
-      "deaths": 20545,
+      "deaths": 20572,
       "recovered": 375151
     }
   },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 307812,
+      "confirmed": 309222,
       "date": "2021-05-31",
-      "deaths": 1771,
-      "recovered": 292701
+      "deaths": 1772,
+      "recovered": 293899
     }
   },
   "Kyrgyzstan": {
@@ -1585,10 +1585,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 344688,
+      "confirmed": 345474,
       "date": "2021-05-31",
-      "deaths": 12623,
-      "recovered": 301869
+      "deaths": 12654,
+      "recovered": 303467
     }
   },
   "Turkey": {
@@ -1624,7 +1624,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102545,
+          "confirmed": 102567,
           "date": "2021-05-31",
           "deaths": 1179
         }
