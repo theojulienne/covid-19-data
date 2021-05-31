@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 128725,
+      "confirmed": 128913,
       "date": "2021-05-31",
-      "deaths": 3465,
-      "recovered": 89625
+      "deaths": 3472,
+      "recovered": 89839
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 333864,
+      "confirmed": 333956,
       "date": "2021-05-31",
-      "deaths": 4907,
-      "recovered": 324103
+      "deaths": 4913,
+      "recovered": 324565
     }
   },
   "Bahrain": {
@@ -162,7 +162,7 @@
           "confirmed": 1010166,
           "date": "2021-05-31",
           "deaths": 21074,
-          "recovered": 965804
+          "recovered": 975260
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 607358,
           "date": "2021-05-31",
           "deaths": 17005,
-          "recovered": 577127
+          "recovered": 581132
         }
       },
       "Maranhao": {
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 130101,
+          "confirmed": 130575,
           "date": "2021-05-31",
-          "deaths": 2085,
-          "recovered": 124174
+          "deaths": 2098,
+          "recovered": 124676
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 573471,
+          "confirmed": 576507,
           "date": "2021-05-31",
-          "deaths": 15401,
-          "recovered": 537962
+          "deaths": 15450,
+          "recovered": 540957
         }
       }
     }
@@ -549,10 +549,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5608347,
+      "confirmed": 5609558,
       "date": "2021-05-31",
-      "deaths": 108574,
-      "recovered": 331911
+      "deaths": 108700,
+      "recovered": 332474
     }
   },
   "Georgia": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 254225,
+      "confirmed": 254417,
       "date": "2021-05-31",
-      "deaths": 8137,
-      "recovered": 233002
+      "deaths": 8165,
+      "recovered": 233595
     }
   },
   "Honduras": {
@@ -1029,9 +1029,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 734659,
+      "confirmed": 736534,
       "date": "2021-05-31",
-      "deaths": 9436,
+      "deaths": 9462,
       "recovered": 715796
     }
   },
@@ -1093,10 +1093,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 540277,
+      "confirmed": 540388,
       "date": "2021-05-31",
-      "deaths": 7723,
-      "recovered": 517859
+      "deaths": 7729,
+      "recovered": 519779
     }
   },
   "Libya": {
@@ -1349,10 +1349,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 848658,
+      "confirmed": 849093,
       "date": "2021-05-31",
-      "deaths": 17023,
-      "recovered": 808813
+      "deaths": 17025,
+      "recovered": 809135
     }
   },
   "Qatar": {
@@ -1451,71 +1451,71 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 581880,
+          "confirmed": 584878,
           "date": "2021-05-31",
-          "deaths": 9880,
+          "deaths": 9887,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 123905,
+          "confirmed": 124235,
           "date": "2021-05-31",
-          "deaths": 3504,
+          "deaths": 3509,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 394360,
+          "confirmed": 394760,
           "date": "2021-05-31",
-          "deaths": 7389,
+          "deaths": 7392,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 192347,
+          "confirmed": 193066,
           "date": "2021-05-31",
-          "deaths": 5912,
+          "deaths": 5918,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 230600,
+          "confirmed": 231104,
           "date": "2021-05-31",
-          "deaths": 6882,
+          "deaths": 6884,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 611008,
+          "confirmed": 611755,
           "date": "2021-05-31",
-          "deaths": 14531,
+          "deaths": 14542,
           "recovered": 26203
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 126622,
+          "confirmed": 126933,
           "date": "2021-05-31",
-          "deaths": 2402,
+          "deaths": 2404,
           "recovered": 9204
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 714616,
+          "confirmed": 716173,
           "date": "2021-05-31",
-          "deaths": 15285,
+          "deaths": 15287,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 112926,
+          "confirmed": 113069,
           "date": "2021-05-31",
           "deaths": 1600,
           "recovered": 2180
@@ -1523,7 +1523,7 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 197812,
+          "confirmed": 198674,
           "date": "2021-05-31",
           "deaths": 4429,
           "recovered": 16160
@@ -1533,7 +1533,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 184983,
+      "confirmed": 186364,
       "date": "2021-05-31",
       "deaths": 1441,
       "recovered": 151740
@@ -1593,26 +1593,26 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5242911,
+      "confirmed": 5249404,
       "date": "2021-05-31",
-      "deaths": 47405,
-      "recovered": 5105042
+      "deaths": 47527,
+      "recovered": 5114624
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 667208,
+          "confirmed": 667516,
           "date": "2021-05-31",
           "deaths": 12482
         }
       },
       "California": {
         "live": {
-          "confirmed": 2833518,
+          "confirmed": 2833624,
           "date": "2021-05-31",
-          "deaths": 49489
+          "deaths": 49491
         }
       },
       "Florida": {
@@ -1631,9 +1631,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 553474,
+          "confirmed": 553716,
           "date": "2021-05-31",
-          "deaths": 10293
+          "deaths": 10320
         }
       },
       "Massachusetts": {
@@ -1673,9 +1673,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1389238,
+          "confirmed": 1389518,
           "date": "2021-05-31",
-          "deaths": 40197
+          "deaths": 40204
         }
       },
       "North Carolina": {
