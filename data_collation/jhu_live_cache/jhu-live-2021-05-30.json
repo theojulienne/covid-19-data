@@ -390,7 +390,7 @@
           "confirmed": 370043,
           "date": "2021-05-30",
           "deaths": 11127,
-          "recovered": 354104
+          "recovered": 354734
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 290526,
+      "confirmed": 291910,
       "date": "2021-05-30",
       "deaths": 3628,
-      "recovered": 238810
+      "recovered": 240993
     }
   },
   "Ecuador": {
@@ -657,10 +657,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 253837,
+      "confirmed": 254225,
       "date": "2021-05-30",
-      "deaths": 8121,
-      "recovered": 232359
+      "deaths": 8137,
+      "recovered": 233002
     }
   },
   "Honduras": {
@@ -1245,10 +1245,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 166285,
+      "confirmed": 166315,
       "date": "2021-05-30",
       "deaths": 2071,
-      "recovered": 156557
+      "recovered": 156558
     }
   },
   "North Macedonia": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 124773,
+      "confirmed": 124824,
       "date": "2021-05-30",
       "deaths": 783,
       "recovered": 17998
@@ -1835,10 +1835,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 288172,
+      "confirmed": 291488,
       "date": "2021-05-30",
-      "deaths": 4176,
-      "recovered": 246321
+      "deaths": 4213,
+      "recovered": 250049
     }
   },
   "Venezuela": {
@@ -1851,10 +1851,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 307838,
+      "confirmed": 308048,
       "date": "2021-05-30",
-      "deaths": 3492,
-      "recovered": 300524
+      "deaths": 3495,
+      "recovered": 300661
     }
   }
 }

@@ -1144,19 +1144,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 281630,
+        "confirmed": 282685,
         "deaths": 3603,
-        "recovered": 235608
+        "recovered": 235636
       },
       "back_2week": {
-        "confirmed": 275378,
+        "confirmed": 276272,
         "deaths": 3565,
-        "recovered": 232925
+        "recovered": 233431
       },
       "latest": {
-        "confirmed": 289288,
+        "confirmed": 290526,
         "deaths": 3623,
-        "recovered": 238615
+        "recovered": 238810
       }
     },
     "DZA": {
@@ -1632,19 +1632,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 246156,
-        "deaths": 7977,
-        "recovered": 226014
+        "confirmed": 247106,
+        "deaths": 7996,
+        "recovered": 226819
       },
       "back_2week": {
-        "confirmed": 240170,
-        "deaths": 7845,
-        "recovered": 219456
+        "confirmed": 241117,
+        "deaths": 7872,
+        "recovered": 220536
       },
       "latest": {
-        "confirmed": 252929,
-        "deaths": 8094,
-        "recovered": 231594
+        "confirmed": 253837,
+        "deaths": 8121,
+        "recovered": 232359
       }
     },
     "GUY": {
@@ -2550,19 +2550,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 165944,
+        "confirmed": 165979,
         "deaths": 2067,
-        "recovered": 156462
+        "recovered": 156468
       },
       "back_2week": {
-        "confirmed": 165661,
+        "confirmed": 165702,
         "deaths": 2066,
-        "recovered": 156399
+        "recovered": 156412
       },
       "latest": {
-        "confirmed": 166254,
+        "confirmed": 166285,
         "deaths": 2071,
-        "recovered": 156546
+        "recovered": 156557
       }
     },
     "NIC": {
@@ -3422,19 +3422,19 @@ var covid19_dataset_latest_totals = {
     },
     "URY": {
       "back_1week": {
-        "confirmed": 258540,
-        "deaths": 3760,
-        "recovered": 222003
+        "confirmed": 262009,
+        "deaths": 3811,
+        "recovered": 224787
       },
       "back_2week": {
-        "confirmed": 235206,
-        "deaths": 3369,
-        "recovered": 204051
+        "confirmed": 238079,
+        "deaths": 3419,
+        "recovered": 206670
       },
       "latest": {
-        "confirmed": 282198,
-        "deaths": 4118,
-        "recovered": 242661
+        "confirmed": 288172,
+        "deaths": 4176,
+        "recovered": 246321
       }
     },
     "USA": {
