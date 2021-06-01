@@ -583,9 +583,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 639477,
+          "confirmed": 639472,
           "date": "2021-06-01",
-          "deaths": 14955,
+          "deaths": 14954,
           "recovered": 611000
         }
       },
@@ -631,17 +631,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 152844,
+          "confirmed": 153039,
           "date": "2021-06-01",
-          "deaths": 3731,
+          "deaths": 3736,
           "recovered": 145300
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 283842,
+          "confirmed": 284056,
           "date": "2021-06-01",
-          "deaths": 9694,
+          "deaths": 9719,
           "recovered": 264900
         }
       },
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 125116,
+      "confirmed": 125355,
       "date": "2021-06-01",
       "deaths": 783,
       "recovered": 17998
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 695496,
       "date": "2021-06-01",
-      "deaths": 10812,
+      "deaths": 10813,
       "recovered": 317600
     }
   },
