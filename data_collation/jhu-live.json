@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 240531,
+      "confirmed": 242790,
       "date": "2021-06-01",
-      "deaths": 980,
-      "recovered": 211024
+      "deaths": 1009,
+      "recovered": 213827
     }
   },
   "Bangladesh": {
@@ -282,7 +282,7 @@
           "confirmed": 1085523,
           "date": "2021-06-01",
           "deaths": 28192,
-          "recovered": 1039824
+          "recovered": 1044374
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 865363,
           "date": "2021-06-01",
           "deaths": 50584,
-          "recovered": 801877
+          "recovered": 805372
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 103506,
           "date": "2021-06-01",
           "deaths": 1635,
-          "recovered": 97414
+          "recovered": 97922
         }
       },
       "Santa Catarina": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 418577,
+      "confirmed": 418813,
       "date": "2021-06-01",
-      "deaths": 17700,
-      "recovered": 382183
+      "deaths": 17726,
+      "recovered": 383765
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 227509,
+          "confirmed": 227718,
           "date": "2021-06-01",
-          "deaths": 2227,
-          "recovered": 217636
+          "deaths": 2228,
+          "recovered": 218719
         }
       },
       "British Columbia": {
@@ -525,9 +525,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 426037,
+      "confirmed": 427690,
       "date": "2021-06-01",
-      "deaths": 20572,
+      "deaths": 20620,
       "recovered": 375151
     }
   },
@@ -1646,9 +1646,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 134871,
+          "confirmed": 134915,
           "date": "2021-06-01",
-          "deaths": 3757
+          "deaths": 3759
         }
       },
       "Michigan": {
