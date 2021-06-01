@@ -485,10 +485,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 356181,
+      "confirmed": 356397,
       "date": "2021-06-01",
-      "deaths": 8026,
-      "recovered": 346220
+      "deaths": 8034,
+      "recovered": 346520
     }
   },
   "Cuba": {
@@ -509,10 +509,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 281227,
+      "confirmed": 282135,
       "date": "2021-06-01",
       "deaths": 2516,
-      "recovered": 265478
+      "recovered": 266626
     }
   },
   "Dominican Republic": {
@@ -1577,9 +1577,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 694740,
+      "confirmed": 695496,
       "date": "2021-06-01",
-      "deaths": 10810,
+      "deaths": 10811,
       "recovered": 317600
     }
   },
