@@ -379,17 +379,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 539428,
+          "confirmed": 539467,
           "date": "2021-06-01",
-          "deaths": 8739,
-          "recovered": 519980
+          "deaths": 8740,
+          "recovered": 520059
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 370319,
+          "confirmed": 370527,
           "date": "2021-06-01",
-          "deaths": 11128,
+          "deaths": 11133,
           "recovered": 355266
         }
       }
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 130575,
+          "confirmed": 130916,
           "date": "2021-06-01",
           "deaths": 2098,
-          "recovered": 124676
+          "recovered": 125195
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 576507,
+          "confirmed": 578764,
           "date": "2021-06-01",
-          "deaths": 15450,
-          "recovered": 540957
+          "deaths": 15492,
+          "recovered": 543958
         }
       }
     }
@@ -493,10 +493,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 142266,
+      "confirmed": 143323,
       "date": "2021-06-01",
-      "deaths": 958,
-      "recovered": 135216
+      "deaths": 965,
+      "recovered": 136339
     }
   },
   "Czechia": {
@@ -517,10 +517,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 292786,
+      "confirmed": 294021,
       "date": "2021-06-01",
-      "deaths": 3628,
-      "recovered": 241596
+      "deaths": 3634,
+      "recovered": 241806
     }
   },
   "Ecuador": {
@@ -665,10 +665,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 254417,
+      "confirmed": 255833,
       "date": "2021-06-01",
-      "deaths": 8165,
-      "recovered": 233595
+      "deaths": 8183,
+      "recovered": 234775
     }
   },
   "Honduras": {
@@ -1040,7 +1040,7 @@
       "confirmed": 736534,
       "date": "2021-06-01",
       "deaths": 9462,
-      "recovered": 715796
+      "recovered": 716960
     }
   },
   "Kazakhstan": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 170735,
+      "confirmed": 171084,
       "date": "2021-06-01",
-      "deaths": 3172,
-      "recovered": 116847
+      "deaths": 3188,
+      "recovered": 117023
     }
   },
   "Korea, South": {
@@ -1357,10 +1357,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 849093,
+      "confirmed": 849538,
       "date": "2021-06-01",
       "deaths": 17025,
-      "recovered": 809135
+      "recovered": 809813
     }
   },
   "Qatar": {
@@ -1709,9 +1709,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1323247,
+          "confirmed": 1323310,
           "date": "2021-06-01",
-          "deaths": 20311
+          "deaths": 20314
         }
       },
       "Utah": {
@@ -1809,7 +1809,7 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3916049,
+          "confirmed": 3918522,
           "date": "2021-06-01",
           "deaths": 112391,
           "recovered": 0
@@ -1817,7 +1817,7 @@
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 122677,
+          "confirmed": 122731,
           "date": "2021-06-01",
           "deaths": 2153,
           "recovered": 0
@@ -1825,7 +1825,7 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 235911,
+          "confirmed": 236389,
           "date": "2021-06-01",
           "deaths": 7669,
           "recovered": 0
@@ -1833,7 +1833,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 212702,
+          "confirmed": 212796,
           "date": "2021-06-01",
           "deaths": 5569,
           "recovered": 0
