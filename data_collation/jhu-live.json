@@ -591,10 +591,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 178360,
+          "confirmed": 178373,
           "date": "2021-06-01",
           "deaths": 3485,
-          "recovered": 172400
+          "recovered": 172500
         }
       },
       "Brandenburg": {
@@ -893,10 +893,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2913136,
+      "confirmed": 2923823,
       "date": "2021-06-01",
-      "deaths": 80156,
-      "recovered": 2458684
+      "deaths": 80327,
+      "recovered": 2477596
     }
   },
   "Iraq": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 185776,
+      "confirmed": 186072,
       "date": "2021-06-01",
-      "deaths": 3126,
-      "recovered": 171874
+      "deaths": 3127,
+      "recovered": 172117
     }
   },
   "Lithuania": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 572357,
+      "confirmed": 579462,
       "date": "2021-06-01",
-      "deaths": 2796,
-      "recovered": 490038
+      "deaths": 2867,
+      "recovered": 496121
     }
   },
   "Mexico": {
@@ -1277,10 +1277,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 217224,
+      "confirmed": 218271,
       "date": "2021-06-01",
-      "deaths": 2345,
-      "recovered": 199960
+      "deaths": 2356,
+      "recovered": 200421
     }
   },
   "Pakistan": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1077737,
+      "confirmed": 1077978,
       "date": "2021-06-01",
-      "deaths": 30312,
-      "recovered": 1039821
+      "deaths": 30353,
+      "recovered": 1040527
     }
   },
   "Russia": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 253722,
+      "confirmed": 254045,
       "date": "2021-06-01",
-      "deaths": 4375,
-      "recovered": 245049
+      "deaths": 4376,
+      "recovered": 245545
     }
   },
   "South Africa": {
@@ -1709,7 +1709,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1323221,
+          "confirmed": 1323247,
           "date": "2021-06-01",
           "deaths": 20311
         }
@@ -1799,10 +1799,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 570836,
+      "confirmed": 572804,
       "date": "2021-06-01",
-      "deaths": 1680,
-      "recovered": 550525
+      "deaths": 1684,
+      "recovered": 552479
     }
   },
   "United Kingdom": {
@@ -1859,10 +1859,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 308350,
+      "confirmed": 308732,
       "date": "2021-06-01",
-      "deaths": 3497,
-      "recovered": 300776
+      "deaths": 3503,
+      "recovered": 300919
     }
   }
 }
