@@ -382,7 +382,7 @@
           "confirmed": 539910,
           "date": "2021-06-01",
           "deaths": 8745,
-          "recovered": 520981
+          "recovered": 520983
         }
       },
       "Quebec": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1665617,
+      "confirmed": 1669231,
       "date": "2021-06-01",
-      "deaths": 56506,
-      "recovered": 1559337
+      "deaths": 56601,
+      "recovered": 1563719
     }
   },
   "Spain": {
@@ -1702,7 +1702,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 152956,
+          "confirmed": 153308,
           "date": "2021-06-01",
           "deaths": 3669
         }
