@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 644815,
+      "confirmed": 645152,
       "date": "2021-06-01",
-      "deaths": 10603,
-      "recovered": 628856
+      "deaths": 10615,
+      "recovered": 629713
     }
   },
   "Azerbaijan": {
@@ -885,10 +885,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1821703,
+      "confirmed": 1826527,
       "date": "2021-06-01",
-      "deaths": 50578,
-      "recovered": 1669119
+      "deaths": 50723,
+      "recovered": 1674479
     }
   },
   "Iran": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 561302,
+      "confirmed": 566587,
       "date": "2021-06-01",
-      "deaths": 7386,
-      "recovered": 447446
+      "deaths": 7454,
+      "recovered": 454344
     }
   },
   "Netherlands": {
