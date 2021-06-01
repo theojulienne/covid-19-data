@@ -162,7 +162,7 @@
           "confirmed": 1012200,
           "date": "2021-06-01",
           "deaths": 21241,
-          "recovered": 975260
+          "recovered": 979917
         }
       },
       "Ceara": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 539643,
+          "confirmed": 539910,
           "date": "2021-06-01",
-          "deaths": 8740,
-          "recovered": 520382
+          "deaths": 8745,
+          "recovered": 520981
         }
       },
       "Quebec": {
@@ -917,10 +917,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839508,
+      "confirmed": 839511,
       "date": "2021-06-01",
       "deaths": 6413,
-      "recovered": 832634
+      "recovered": 832635
     }
   },
   "Italy": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 695496,
       "date": "2021-06-01",
-      "deaths": 10814,
+      "deaths": 10826,
       "recovered": 317600
     }
   },
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 345474,
+      "confirmed": 346986,
       "date": "2021-06-01",
-      "deaths": 12654,
-      "recovered": 303467
+      "deaths": 12720,
+      "recovered": 305055
     }
   },
   "Turkey": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2731527,
+          "confirmed": 2731589,
           "date": "2021-06-01",
           "deaths": 47791
         }
@@ -1632,7 +1632,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102567,
+          "confirmed": 102594,
           "date": "2021-06-01",
           "deaths": 1179
         }
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 251460,
           "date": "2021-06-01",
-          "deaths": 4406
+          "deaths": 4410
         }
       },
       "New Jersey": {
@@ -1709,14 +1709,14 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1323310,
+          "confirmed": 1323382,
           "date": "2021-06-01",
-          "deaths": 20314
+          "deaths": 20318
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 150965,
+          "confirmed": 151004,
           "date": "2021-06-01",
           "deaths": 891
         }
