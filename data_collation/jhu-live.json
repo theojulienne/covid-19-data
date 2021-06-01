@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3753609,
+      "confirmed": 3781784,
       "date": "2021-05-31",
-      "deaths": 77456,
-      "recovered": 3319068
+      "deaths": 78093,
+      "recovered": 3350602
     }
   },
   "Armenia": {
@@ -1610,7 +1610,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2833624,
+          "confirmed": 2833796,
           "date": "2021-05-31",
           "deaths": 49491
         }
@@ -1835,10 +1835,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 291488,
+      "confirmed": 294503,
       "date": "2021-05-31",
-      "deaths": 4213,
-      "recovered": 250049
+      "deaths": 4276,
+      "recovered": 253573
     }
   },
   "Venezuela": {
@@ -1851,10 +1851,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 308048,
+      "confirmed": 308350,
       "date": "2021-05-31",
-      "deaths": 3495,
-      "recovered": 300661
+      "deaths": 3497,
+      "recovered": 300776
     }
   }
 }
