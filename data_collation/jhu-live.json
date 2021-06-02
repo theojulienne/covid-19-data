@@ -379,7 +379,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 540760,
+          "confirmed": 540763,
           "date": "2021-06-02",
           "deaths": 8768,
           "recovered": 522551
@@ -1611,16 +1611,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 667512,
+          "confirmed": 668278,
           "date": "2021-06-02",
-          "deaths": 12481
+          "deaths": 12489
         }
       },
       "California": {
         "live": {
-          "confirmed": 2732151,
+          "confirmed": 2732248,
           "date": "2021-06-02",
-          "deaths": 47806
+          "deaths": 47812
         }
       },
       "Florida": {
@@ -1681,7 +1681,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1389899,
+          "confirmed": 1389979,
           "date": "2021-06-02",
           "deaths": 40225
         }
@@ -1709,9 +1709,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1323664,
+          "confirmed": 1323735,
           "date": "2021-06-02",
-          "deaths": 20322
+          "deaths": 20335
         }
       },
       "Utah": {
