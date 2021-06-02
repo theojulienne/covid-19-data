@@ -350,36 +350,36 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 416727,
-        "deaths": 17513,
-        "recovered": 373703
+        "confirmed": 417133,
+        "deaths": 17581,
+        "recovered": 376126
       },
       "back_2week": {
-        "confirmed": 414869,
-        "deaths": 17343,
-        "recovered": 364682
+        "confirmed": 415326,
+        "deaths": 17379,
+        "recovered": 367464
       },
       "latest": {
-        "confirmed": 418577,
-        "deaths": 17700,
-        "recovered": 382183
+        "confirmed": 418813,
+        "deaths": 17726,
+        "recovered": 383765
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 220847,
-        "deaths": 848,
-        "recovered": 196685
+        "confirmed": 223613,
+        "deaths": 866,
+        "recovered": 198220
       },
       "back_2week": {
-        "confirmed": 202556,
-        "deaths": 752,
-        "recovered": 185619
+        "confirmed": 204524,
+        "deaths": 765,
+        "recovered": 186961
       },
       "latest": {
-        "confirmed": 240531,
-        "deaths": 980,
-        "recovered": 211024
+        "confirmed": 242790,
+        "deaths": 1009,
+        "recovered": 213827
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 227509,
-          "deaths": 2227
+          "confirmed": 227718,
+          "deaths": 2228
         },
         "British Columbia": {
           "confirmed": 144289,
@@ -3320,19 +3320,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 336414,
-        "deaths": 12273,
-        "recovered": 297123
+        "confirmed": 337529,
+        "deaths": 12342,
+        "recovered": 298141
       },
       "back_2week": {
-        "confirmed": 327473,
-        "deaths": 11899,
-        "recovered": 288935
+        "confirmed": 328528,
+        "deaths": 11971,
+        "recovered": 290282
       },
       "latest": {
-        "confirmed": 345474,
-        "deaths": 12654,
-        "recovered": 303467
+        "confirmed": 346986,
+        "deaths": 12720,
+        "recovered": 305055
       }
     },
     "TUR": {
