@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204093,
+      "confirmed": 204172,
       "date": "2021-06-02",
-      "deaths": 9270,
-      "recovered": 175456
+      "deaths": 9303,
+      "recovered": 175704
     }
   },
   "Brazil": {
@@ -583,7 +583,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 640257,
+          "confirmed": 640274,
           "date": "2021-06-02",
           "deaths": 14965,
           "recovered": 612400
@@ -631,9 +631,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 153054,
+          "confirmed": 153283,
           "date": "2021-06-02",
-          "deaths": 3736,
+          "deaths": 3745,
           "recovered": 145600
         }
       },
@@ -1069,10 +1069,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107021,
+      "confirmed": 107039,
       "date": "2021-06-02",
       "deaths": 2248,
-      "recovered": 102927
+      "recovered": 103166
     }
   },
   "Kuwait": {
@@ -1541,7 +1541,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 189241,
+      "confirmed": 191809,
       "date": "2021-06-02",
       "deaths": 1527,
       "recovered": 153371
