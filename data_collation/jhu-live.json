@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 137774,
+          "confirmed": 137973,
           "date": "2021-06-02",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 130285,
+          "confirmed": 130484,
           "date": "2021-06-02",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 121894,
+          "confirmed": 121992,
           "date": "2021-06-02",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 156779,
+          "confirmed": 157004,
           "date": "2021-06-02",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 128291,
+          "confirmed": 128473,
           "date": "2021-06-02",
           "deaths": 0,
           "recovered": 0
@@ -1321,10 +1321,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 355384,
+      "confirmed": 358244,
       "date": "2021-06-02",
-      "deaths": 9186,
-      "recovered": 292715
+      "deaths": 9293,
+      "recovered": 294994
     }
   },
   "Peru": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2731589,
+          "confirmed": 2732002,
           "date": "2021-06-02",
           "deaths": 47791
         }
@@ -1843,18 +1843,18 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 294503,
+      "confirmed": 298006,
       "date": "2021-06-02",
-      "deaths": 4276,
-      "recovered": 253573
+      "deaths": 4342,
+      "recovered": 257030
     }
   },
   "Venezuela": {
     "live": {
-      "confirmed": 234165,
+      "confirmed": 235567,
       "date": "2021-06-02",
-      "deaths": 2646,
-      "recovered": 215640
+      "deaths": 2661,
+      "recovered": 216746
     }
   },
   "West Bank and Gaza": {
