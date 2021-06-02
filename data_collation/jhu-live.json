@@ -170,7 +170,7 @@
           "confirmed": 805134,
           "date": "2021-06-02",
           "deaths": 20587,
-          "recovered": 558327
+          "recovered": 561518
         }
       },
       "Distrito Federal": {
@@ -218,7 +218,7 @@
           "confirmed": 292677,
           "date": "2021-06-02",
           "deaths": 6867,
-          "recovered": 263613
+          "recovered": 264466
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1579287,
           "date": "2021-06-02",
           "deaths": 40556,
-          "recovered": 1451585
+          "recovered": 1463864
         }
       },
       "Para": {
@@ -266,7 +266,7 @@
           "confirmed": 273756,
           "date": "2021-06-02",
           "deaths": 5952,
-          "recovered": 265912
+          "recovered": 267702
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 1091074,
           "date": "2021-06-02",
           "deaths": 28354,
-          "recovered": 1044374
+          "recovered": 1046716
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 179196,
           "date": "2021-06-02",
           "deaths": 2889,
-          "recovered": 161928
+          "recovered": 162763
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 540442,
+          "confirmed": 540760,
           "date": "2021-06-02",
-          "deaths": 8753,
-          "recovered": 521916
+          "deaths": 8768,
+          "recovered": 522551
         }
       },
       "Quebec": {
@@ -525,9 +525,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 427690,
+      "confirmed": 428865,
       "date": "2021-06-02",
-      "deaths": 20620,
+      "deaths": 20681,
       "recovered": 375151
     }
   },
@@ -549,10 +549,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 271790,
+      "confirmed": 272036,
       "date": "2021-06-02",
-      "deaths": 4171,
-      "recovered": 239475
+      "deaths": 4178,
+      "recovered": 242442
     }
   },
   "France": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 310501,
+      "confirmed": 311846,
       "date": "2021-06-02",
-      "deaths": 1775,
-      "recovered": 294972
+      "deaths": 1779,
+      "recovered": 296242
     }
   },
   "Kyrgyzstan": {
@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2732151,
           "date": "2021-06-02",
-          "deaths": 47802
+          "deaths": 47806
         }
       },
       "Florida": {
@@ -1632,9 +1632,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102594,
+          "confirmed": 102631,
           "date": "2021-06-02",
-          "deaths": 1179
+          "deaths": 1181
         }
       },
       "Illinois": {
@@ -1716,9 +1716,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 151004,
+          "confirmed": 151080,
           "date": "2021-06-02",
-          "deaths": 891
+          "deaths": 892
         }
       },
       "Washington": {
