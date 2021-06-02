@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 802305,
+      "confirmed": 804293,
       "date": "2021-06-02",
-      "deaths": 12660,
-      "recovered": 742151
+      "deaths": 12694,
+      "recovered": 744065
     }
   },
   "Belarus": {
@@ -1271,7 +1271,7 @@
     "live": {
       "confirmed": 125576,
       "date": "2021-06-02",
-      "deaths": 783,
+      "deaths": 785,
       "recovered": 17998
     }
   },
