@@ -1037,9 +1037,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 737284,
+      "confirmed": 737888,
       "date": "2021-06-02",
-      "deaths": 9472,
+      "deaths": 9489,
       "recovered": 718123
     }
   },
@@ -1625,9 +1625,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1181352,
+          "confirmed": 1181895,
           "date": "2021-06-02",
-          "deaths": 15535
+          "deaths": 15557
         }
       },
       "Georgia": {
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 251809,
           "date": "2021-06-02",
-          "deaths": 4410
+          "deaths": 4413
         }
       },
       "New Jersey": {
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 243020,
           "date": "2021-06-02",
-          "deaths": 3605
+          "deaths": 3622
         }
       },
       "Pennsylvania": {
@@ -1730,9 +1730,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117272,
+          "confirmed": 117291,
           "date": "2021-06-02",
-          "deaths": 1386
+          "deaths": 1390
         }
       }
     }
