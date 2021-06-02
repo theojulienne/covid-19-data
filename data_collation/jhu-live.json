@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 222778,
+      "confirmed": 222870,
       "date": "2021-06-02",
-      "deaths": 4445,
-      "recovered": 213429
+      "deaths": 4446,
+      "recovered": 213578
     }
   },
   "Austria": {
@@ -503,8 +503,8 @@
     "live": {
       "confirmed": 1662256,
       "date": "2021-06-02",
-      "deaths": 30119,
-      "recovered": 1621262
+      "deaths": 30126,
+      "recovered": 1622432
     }
   },
   "Denmark": {
@@ -541,10 +541,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 129674,
+      "confirmed": 129804,
       "date": "2021-06-02",
-      "deaths": 1258,
-      "recovered": 123237
+      "deaths": 1259,
+      "recovered": 123589
     }
   },
   "Ethiopia": {
@@ -565,10 +565,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 345196,
+      "confirmed": 346150,
       "date": "2021-06-02",
-      "deaths": 4804,
-      "recovered": 328620
+      "deaths": 4834,
+      "recovered": 329516
     }
   },
   "Germany": {
@@ -681,10 +681,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 804712,
+      "confirmed": 804987,
       "date": "2021-06-02",
-      "deaths": 29761,
-      "recovered": 703352
+      "deaths": 29774,
+      "recovered": 705378
     }
   },
   "India": {
@@ -917,10 +917,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839511,
+      "confirmed": 839515,
       "date": "2021-06-02",
       "deaths": 6413,
-      "recovered": 832635
+      "recovered": 832657
     }
   },
   "Italy": {
@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 274776,
+      "confirmed": 275198,
       "date": "2021-06-02",
-      "deaths": 4276,
-      "recovered": 256176
+      "deaths": 4283,
+      "recovered": 256887
     }
   },
   "Malaysia": {
@@ -1543,7 +1543,7 @@
     "live": {
       "confirmed": 189241,
       "date": "2021-06-02",
-      "deaths": 1484,
+      "deaths": 1527,
       "recovered": 153371
     }
   },
@@ -1585,9 +1585,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 162022,
+      "confirmed": 165462,
       "date": "2021-06-02",
-      "deaths": 1069,
+      "deaths": 1107,
       "recovered": 26873
     }
   },
