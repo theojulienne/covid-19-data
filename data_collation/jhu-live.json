@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 541370,
+          "confirmed": 541371,
           "date": "2021-06-03",
           "deaths": 8776,
-          "recovered": 523353
+          "recovered": 523359
         }
       },
       "Quebec": {
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 131293,
+          "confirmed": 131861,
           "date": "2021-06-03",
-          "deaths": 2098,
-          "recovered": 125673
+          "deaths": 2121,
+          "recovered": 126136
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 581583,
+          "confirmed": 585397,
           "date": "2021-06-03",
-          "deaths": 15532,
-          "recovered": 546558
+          "deaths": 15589,
+          "recovered": 549344
         }
       }
     }
@@ -1618,16 +1618,16 @@
       },
       "California": {
         "live": {
-          "confirmed": 2732689,
+          "confirmed": 2732754,
           "date": "2021-06-03",
-          "deaths": 47828
+          "deaths": 47830
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 1181895,
+          "confirmed": 1182864,
           "date": "2021-06-03",
-          "deaths": 15557
+          "deaths": 15576
         }
       },
       "Georgia": {
@@ -1716,7 +1716,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 151080,
+          "confirmed": 151182,
           "date": "2021-06-03",
           "deaths": 892
         }
@@ -1730,9 +1730,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117291,
+          "confirmed": 117317,
           "date": "2021-06-03",
-          "deaths": 1390
+          "deaths": 1395
         }
       }
     }
@@ -1809,31 +1809,31 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 3921939,
+          "confirmed": 3926154,
           "date": "2021-06-03",
-          "deaths": 112402,
+          "deaths": 112415,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 122815,
+          "confirmed": 122895,
           "date": "2021-06-03",
-          "deaths": 2153,
+          "deaths": 2154,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 237066,
+          "confirmed": 237901,
           "date": "2021-06-03",
-          "deaths": 7670,
+          "deaths": 7674,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 212879,
+          "confirmed": 212928,
           "date": "2021-06-03",
           "deaths": 5569,
           "recovered": 0
