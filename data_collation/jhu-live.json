@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3817139,
+      "confirmed": 3852156,
       "date": "2021-06-02",
-      "deaths": 78733,
-      "recovered": 3381337
+      "deaths": 79320,
+      "recovered": 3409316
     }
   },
   "Armenia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 125764,
+      "confirmed": 125929,
       "date": "2021-06-02",
       "deaths": 785,
       "recovered": 17998
@@ -1646,7 +1646,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 134915,
+          "confirmed": 134928,
           "date": "2021-06-02",
           "deaths": 3759
         }
@@ -1709,7 +1709,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1323735,
+          "confirmed": 1323988,
           "date": "2021-06-02",
           "deaths": 20335
         }
@@ -1723,9 +1723,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 109757,
+          "confirmed": 109819,
           "date": "2021-06-02",
-          "deaths": 1585
+          "deaths": 1588
         }
       },
       "Wisconsin": {
