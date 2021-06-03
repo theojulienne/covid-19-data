@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 541371,
+          "confirmed": 541401,
           "date": "2021-06-03",
-          "deaths": 8776,
-          "recovered": 523359
+          "deaths": 8779,
+          "recovered": 523395
         }
       },
       "Quebec": {
@@ -909,7 +909,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 262787,
+      "confirmed": 263252,
       "date": "2021-06-03",
       "deaths": 4941,
       "recovered": 23364
@@ -917,7 +917,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839527,
+      "confirmed": 839532,
       "date": "2021-06-03",
       "deaths": 6416,
       "recovered": 832812
@@ -1632,7 +1632,7 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102631,
+          "confirmed": 102682,
           "date": "2021-06-03",
           "deaths": 1181
         }
@@ -1709,9 +1709,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1324113,
+          "confirmed": 1324298,
           "date": "2021-06-03",
-          "deaths": 20338
+          "deaths": 20355
         }
       },
       "Utah": {
