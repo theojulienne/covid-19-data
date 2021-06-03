@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 143823,
+      "confirmed": 143945,
       "date": "2021-06-03",
-      "deaths": 3218,
-      "recovered": 132388
+      "deaths": 3221,
+      "recovered": 132408
     }
   },
   "Canada": {
@@ -379,17 +379,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 541131,
+          "confirmed": 541171,
           "date": "2021-06-03",
-          "deaths": 8772,
-          "recovered": 523045
+          "deaths": 8774,
+          "recovered": 523121
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 370815,
+          "confirmed": 371082,
           "date": "2021-06-03",
-          "deaths": 11138,
+          "deaths": 11144,
           "recovered": 356202
         }
       }
@@ -493,10 +493,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 144514,
+      "confirmed": 145567,
       "date": "2021-06-03",
-      "deaths": 977,
-      "recovered": 137614
+      "deaths": 985,
+      "recovered": 138621
     }
   },
   "Czechia": {
@@ -517,10 +517,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 295680,
+      "confirmed": 297119,
       "date": "2021-06-03",
-      "deaths": 3637,
-      "recovered": 242634
+      "deaths": 3642,
+      "recovered": 243235
     }
   },
   "Ecuador": {
@@ -657,9 +657,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 405542,
+      "confirmed": 406751,
       "date": "2021-06-03",
-      "deaths": 12145,
+      "deaths": 12184,
       "recovered": 93764
     }
   },
@@ -1040,7 +1040,7 @@
       "confirmed": 738521,
       "date": "2021-06-03",
       "deaths": 9500,
-      "recovered": 718123
+      "recovered": 719049
     }
   },
   "Kazakhstan": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 171226,
+      "confirmed": 171658,
       "date": "2021-06-03",
-      "deaths": 3206,
-      "recovered": 117039
+      "deaths": 3223,
+      "recovered": 117345
     }
   },
   "Korea, South": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 255285,
+      "confirmed": 255354,
       "date": "2021-06-03",
-      "deaths": 6120,
-      "recovered": 247716
+      "deaths": 6125,
+      "recovered": 247830
     }
   },
   "Morocco": {
@@ -1674,9 +1674,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 104287,
+          "confirmed": 104301,
           "date": "2021-06-03",
-          "deaths": 2867
+          "deaths": 2868
         }
       },
       "New York": {
@@ -1704,7 +1704,7 @@
         "live": {
           "confirmed": 153308,
           "date": "2021-06-03",
-          "deaths": 3682
+          "deaths": 3692
         }
       },
       "Texas": {
