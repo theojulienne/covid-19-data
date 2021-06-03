@@ -139,27 +139,27 @@
     "AUS": {
       "back_1week": {
         "confirmed": 29921,
-        "current_hospitalized": 22,
+        "current_hospitalized": 21,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3848,
-        "tested": 18418796
+        "tested": 18434983
       },
       "back_2week": {
         "confirmed": 29839,
-        "current_hospitalized": 20,
+        "current_hospitalized": 19,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3811,
-        "tested": 17959919
+        "tested": 17976106
       },
       "latest": {
-        "confirmed": 29941,
+        "confirmed": 29944,
         "current_hospitalized": 21,
         "current_icu": 1,
         "deaths": 911,
         "recovered": 3867,
-        "tested": 18557262
+        "tested": 18630968
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 121,
-          "tested": 213868
+          "tested": 214834
         },
         "NSW": {
           "confirmed": 5399,
@@ -181,11 +181,11 @@
         },
         "NT": {
           "confirmed": 173,
-          "current_hospitalized": 0,
+          "current_hospitalized": 3,
           "current_icu": 0,
           "deaths": 0,
           "recovered": 170,
-          "tested": 209398
+          "tested": 209444
         },
         "QLD": {
           "confirmed": 1619,
@@ -196,12 +196,12 @@
           "tested": 2629978
         },
         "SA": {
-          "confirmed": 754,
+          "confirmed": 760,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 4,
           "recovered": 748,
-          "tested": 1389438
+          "tested": 1397356
         },
         "TAS": {
           "confirmed": 234,
@@ -209,23 +209,23 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 221,
-          "tested": 232862
+          "tested": 234095
         },
         "VIC": {
-          "confirmed": 20609,
-          "current_hospitalized": 1,
+          "confirmed": 20614,
+          "current_hospitalized": 2,
           "current_icu": 0,
           "deaths": 820,
           "recovered": 19522,
-          "tested": 6515320
+          "tested": 6566353
         },
         "WA": {
-          "confirmed": 1019,
+          "confirmed": 1018,
           "current_hospitalized": 0,
           "current_icu": 0,
           "deaths": 9,
           "recovered": 1006,
-          "tested": 1196796
+          "tested": 1201329
         }
       }
     },
@@ -350,36 +350,36 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 417133,
-        "deaths": 17581,
-        "recovered": 376126
+        "confirmed": 417526,
+        "deaths": 17617,
+        "recovered": 377318
       },
       "back_2week": {
-        "confirmed": 415326,
-        "deaths": 17379,
-        "recovered": 367464
+        "confirmed": 415687,
+        "deaths": 17416,
+        "recovered": 369781
       },
       "latest": {
-        "confirmed": 418813,
-        "deaths": 17726,
-        "recovered": 383765
+        "confirmed": 419010,
+        "deaths": 17747,
+        "recovered": 384777
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 223613,
-        "deaths": 866,
-        "recovered": 198220
+        "confirmed": 226416,
+        "deaths": 882,
+        "recovered": 199713
       },
       "back_2week": {
-        "confirmed": 204524,
-        "deaths": 765,
-        "recovered": 186961
+        "confirmed": 206878,
+        "deaths": 773,
+        "recovered": 188496
       },
       "latest": {
-        "confirmed": 242790,
-        "deaths": 1009,
-        "recovered": 213827
+        "confirmed": 244726,
+        "deaths": 1031,
+        "recovered": 216832
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 227718,
-          "deaths": 2228
+          "confirmed": 228128,
+          "deaths": 2231
         },
         "British Columbia": {
           "confirmed": 144473,
