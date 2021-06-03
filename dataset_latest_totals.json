@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 301863,
-        "deaths": 1746,
-        "recovered": 287357
+        "confirmed": 303039,
+        "deaths": 1751,
+        "recovered": 288289
       },
       "back_2week": {
-        "confirmed": 293574,
-        "deaths": 1701,
-        "recovered": 279924
+        "confirmed": 294693,
+        "deaths": 1703,
+        "recovered": 280940
       },
       "latest": {
-        "confirmed": 310501,
-        "deaths": 1775,
-        "recovered": 294972
+        "confirmed": 311846,
+        "deaths": 1779,
+        "recovered": 296242
       }
     },
     "LAO": {
@@ -3320,19 +3320,19 @@
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 337529,
-        "deaths": 12342,
-        "recovered": 298141
+        "confirmed": 338853,
+        "deaths": 12398,
+        "recovered": 298855
       },
       "back_2week": {
-        "confirmed": 328528,
-        "deaths": 11971,
-        "recovered": 290282
+        "confirmed": 329925,
+        "deaths": 12032,
+        "recovered": 291515
       },
       "latest": {
-        "confirmed": 346986,
-        "deaths": 12720,
-        "recovered": 305055
+        "confirmed": 348911,
+        "deaths": 12793,
+        "recovered": 306354
       }
     },
     "TUR": {
