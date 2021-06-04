@@ -162,7 +162,7 @@
           "confirmed": 1025987,
           "date": "2021-06-04",
           "deaths": 21512,
-          "recovered": 988790
+          "recovered": 992591
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 815740,
           "date": "2021-06-04",
           "deaths": 20834,
-          "recovered": 565733
+          "recovered": 569170
         }
       },
       "Distrito Federal": {
@@ -218,7 +218,7 @@
           "confirmed": 297323,
           "date": "2021-06-04",
           "deaths": 6976,
-          "recovered": 264466
+          "recovered": 268375
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1605025,
           "date": "2021-06-04",
           "deaths": 40880,
-          "recovered": 1472460
+          "recovered": 1477442
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 1104487,
           "date": "2021-06-04",
           "deaths": 28609,
-          "recovered": 1046716
+          "recovered": 1056899
         }
       },
       "Rio de Janeiro": {
@@ -290,7 +290,7 @@
           "confirmed": 878747,
           "date": "2021-06-04",
           "deaths": 51320,
-          "recovered": 813434
+          "recovered": 816359
         }
       },
       "Rondonia": {
@@ -338,7 +338,7 @@
           "confirmed": 180864,
           "date": "2021-06-04",
           "deaths": 2913,
-          "recovered": 162763
+          "recovered": 163751
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542515,
+          "confirmed": 542526,
           "date": "2021-06-04",
           "deaths": 8808,
-          "recovered": 524971
+          "recovered": 524973
         }
       },
       "Quebec": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1680373,
+      "confirmed": 1686041,
       "date": "2021-06-04",
-      "deaths": 56765,
-      "recovered": 1567635
+      "deaths": 56832,
+      "recovered": 1570975
     }
   },
   "Spain": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 668506,
+          "confirmed": 668711,
           "date": "2021-06-04",
-          "deaths": 12490
+          "deaths": 12502
         }
       },
       "California": {
