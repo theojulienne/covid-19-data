@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 246658,
+      "confirmed": 248150,
       "date": "2021-06-04",
-      "deaths": 1050,
-      "recovered": 219108
+      "deaths": 1069,
+      "recovered": 221508
     }
   },
   "Bangladesh": {
@@ -138,7 +138,7 @@
           "confirmed": 194926,
           "date": "2021-06-04",
           "deaths": 4802,
-          "recovered": 184699
+          "recovered": 186876
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 112654,
           "date": "2021-06-04",
           "deaths": 1712,
-          "recovered": 88251
+          "recovered": 88751
         }
       },
       "Amazonas": {
@@ -242,7 +242,7 @@
           "confirmed": 337779,
           "date": "2021-06-04",
           "deaths": 7765,
-          "recovered": 224912
+          "recovered": 229062
         }
       },
       "Parana": {
@@ -250,7 +250,7 @@
           "confirmed": 1108126,
           "date": "2021-06-04",
           "deaths": 26916,
-          "recovered": 763527
+          "recovered": 772839
         }
       },
       "Pernambuco": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 419180,
+      "confirmed": 419337,
       "date": "2021-06-04",
-      "deaths": 17792,
-      "recovered": 385271
+      "deaths": 17810,
+      "recovered": 385931
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 228424,
+          "confirmed": 228668,
           "date": "2021-06-04",
-          "deaths": 2236,
-          "recovered": 220357
+          "deaths": 2243,
+          "recovered": 221010
         }
       },
       "British Columbia": {
@@ -1646,9 +1646,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 134980,
+          "confirmed": 135007,
           "date": "2021-06-04",
-          "deaths": 3761
+          "deaths": 3762
         }
       },
       "Michigan": {
@@ -1709,7 +1709,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1326423,
+          "confirmed": 1326524,
           "date": "2021-06-04",
           "deaths": 20372
         }
