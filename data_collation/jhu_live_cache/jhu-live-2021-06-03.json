@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3852156,
+      "confirmed": 3884447,
       "date": "2021-06-03",
-      "deaths": 79320,
-      "recovered": 3409316
+      "deaths": 79873,
+      "recovered": 3438437
     }
   },
   "Armenia": {
@@ -525,18 +525,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 428865,
+      "confirmed": 429817,
       "date": "2021-06-03",
-      "deaths": 20681,
+      "deaths": 20706,
       "recovered": 375151
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 264557,
+      "confirmed": 265489,
       "date": "2021-06-03",
-      "deaths": 15178,
-      "recovered": 193491
+      "deaths": 15222,
+      "recovered": 194291
     }
   },
   "Estonia": {
@@ -665,10 +665,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 257167,
+      "confirmed": 258633,
       "date": "2021-06-03",
-      "deaths": 8214,
-      "recovered": 235641
+      "deaths": 8238,
+      "recovered": 236469
     }
   },
   "Honduras": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 540844,
+      "confirmed": 541009,
       "date": "2021-06-03",
-      "deaths": 7740,
-      "recovered": 520717
+      "deaths": 7747,
+      "recovered": 521458
     }
   },
   "Libya": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 166560,
+      "confirmed": 166682,
       "date": "2021-06-03",
-      "deaths": 2099,
-      "recovered": 159946
+      "deaths": 2117,
+      "recovered": 162521
     }
   },
   "North Macedonia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 126058,
+      "confirmed": 126218,
       "date": "2021-06-03",
       "deaths": 785,
       "recovered": 17998
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 880414,
+          "confirmed": 883032,
           "date": "2021-06-03",
-          "deaths": 29801,
+          "deaths": 84360,
           "recovered": 0
         }
       }
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 668489,
+          "confirmed": 668506,
           "date": "2021-06-03",
-          "deaths": 12493
+          "deaths": 12490
         }
       },
       "California": {
@@ -1723,9 +1723,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 109819,
+          "confirmed": 109966,
           "date": "2021-06-03",
-          "deaths": 1588
+          "deaths": 1591
         }
       },
       "Wisconsin": {
