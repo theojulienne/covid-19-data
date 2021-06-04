@@ -1263,19 +1263,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 270180,
-        "deaths": 4108,
-        "recovered": 233216
+        "confirmed": 270527,
+        "deaths": 4127,
+        "recovered": 234426
       },
       "back_2week": {
-        "confirmed": 267597,
-        "deaths": 4038,
-        "recovered": 222560
+        "confirmed": 268035,
+        "deaths": 4048,
+        "recovered": 223993
       },
       "latest": {
-        "confirmed": 272036,
-        "deaths": 4178,
-        "recovered": 242442
+        "confirmed": 272285,
+        "deaths": 4185,
+        "recovered": 243378
       }
     },
     "FIN": {
@@ -1632,19 +1632,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 250296,
-        "deaths": 8058,
-        "recovered": 230019
+        "confirmed": 251336,
+        "deaths": 8070,
+        "recovered": 230882
       },
       "back_2week": {
-        "confirmed": 243833,
-        "deaths": 7928,
-        "recovered": 224185
+        "confirmed": 245247,
+        "deaths": 7952,
+        "recovered": 225210
       },
       "latest": {
-        "confirmed": 257167,
-        "deaths": 8214,
-        "recovered": 235641
+        "confirmed": 258633,
+        "deaths": 8238,
+        "recovered": 236469
       }
     },
     "GUY": {
@@ -2023,19 +2023,19 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 303039,
-        "deaths": 1751,
-        "recovered": 288289
+        "confirmed": 304199,
+        "deaths": 1755,
+        "recovered": 289367
       },
       "back_2week": {
-        "confirmed": 294693,
-        "deaths": 1703,
-        "recovered": 280940
+        "confirmed": 295861,
+        "deaths": 1711,
+        "recovered": 281920
       },
       "latest": {
-        "confirmed": 311846,
-        "deaths": 1779,
-        "recovered": 296242
+        "confirmed": 313289,
+        "deaths": 1783,
+        "recovered": 297329
       }
     },
     "LAO": {

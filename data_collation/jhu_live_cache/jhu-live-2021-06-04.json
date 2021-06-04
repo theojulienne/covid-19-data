@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542144,
+          "confirmed": 542279,
           "date": "2021-06-04",
-          "deaths": 8792,
-          "recovered": 524379
+          "deaths": 8796,
+          "recovered": 524559
         }
       },
       "Quebec": {
@@ -549,10 +549,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 272285,
+      "confirmed": 272632,
       "date": "2021-06-04",
-      "deaths": 4185,
-      "recovered": 243378
+      "deaths": 4193,
+      "recovered": 244650
     }
   },
   "France": {
@@ -665,10 +665,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 258633,
+      "confirmed": 259954,
       "date": "2021-06-04",
-      "deaths": 8238,
-      "recovered": 236469
+      "deaths": 8258,
+      "recovered": 237398
     }
   },
   "Honduras": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 313289,
+      "confirmed": 314569,
       "date": "2021-06-04",
-      "deaths": 1783,
-      "recovered": 297329
+      "deaths": 1787,
+      "recovered": 298485
     }
   },
   "Kyrgyzstan": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2733196,
+          "confirmed": 2733331,
           "date": "2021-06-04",
-          "deaths": 47847
+          "deaths": 47851
         }
       },
       "Florida": {
@@ -1681,9 +1681,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1390492,
+          "confirmed": 1390670,
           "date": "2021-06-04",
-          "deaths": 40261
+          "deaths": 40263
         }
       },
       "North Carolina": {
@@ -1730,9 +1730,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117317,
+          "confirmed": 117354,
           "date": "2021-06-04",
-          "deaths": 1395
+          "deaths": 1396
         }
       }
     }
