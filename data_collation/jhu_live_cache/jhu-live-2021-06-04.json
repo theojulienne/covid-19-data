@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 222978,
+      "confirmed": 223050,
       "date": "2021-06-04",
-      "deaths": 4448,
-      "recovered": 213813
+      "deaths": 4452,
+      "recovered": 214059
     }
   },
   "Austria": {
@@ -541,10 +541,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 129909,
+      "confirmed": 130005,
       "date": "2021-06-04",
       "deaths": 1260,
-      "recovered": 124033
+      "recovered": 124161
     }
   },
   "Ethiopia": {
@@ -681,10 +681,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 805302,
+      "confirmed": 805571,
       "date": "2021-06-04",
-      "deaths": 29792,
-      "recovered": 708198
+      "deaths": 29818,
+      "recovered": 711105
     }
   },
   "India": {
