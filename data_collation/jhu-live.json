@@ -1029,8 +1029,8 @@
         "live": {
           "confirmed": 162961,
           "date": "2021-06-04",
-          "deaths": 2075,
-          "recovered": 155152
+          "deaths": 2079,
+          "recovered": 155664
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 134162,
+      "confirmed": 134421,
       "date": "2021-06-04",
-      "deaths": 2392,
-      "recovered": 126999
+      "deaths": 2402,
+      "recovered": 127493
     }
   },
   "Lebanon": {

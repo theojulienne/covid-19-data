@@ -2210,18 +2210,18 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 131910,
-        "deaths": 2348,
-        "recovered": 122743
+        "confirmed": 132258,
+        "deaths": 2355,
+        "recovered": 123466
       },
       "back_2week": {
-        "confirmed": 129297,
-        "deaths": 2298,
-        "recovered": 118219
+        "confirmed": 129794,
+        "deaths": 2301,
+        "recovered": 118750
       },
       "latest": {
-        "confirmed": 133866,
-        "deaths": 2386,
+        "confirmed": 134162,
+        "deaths": 2392,
         "recovered": 126999
       }
     },
