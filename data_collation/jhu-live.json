@@ -665,10 +665,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 259954,
+      "confirmed": 261392,
       "date": "2021-06-05",
-      "deaths": 8258,
-      "recovered": 237398
+      "deaths": 8280,
+      "recovered": 238344
     }
   },
   "Honduras": {
@@ -917,10 +917,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839539,
+      "confirmed": 839566,
       "date": "2021-06-05",
-      "deaths": 6417,
-      "recovered": 832817
+      "deaths": 6418,
+      "recovered": 832826
     }
   },
   "Italy": {
@@ -1683,7 +1683,7 @@
         "live": {
           "confirmed": 1391115,
           "date": "2021-06-05",
-          "deaths": 40272
+          "deaths": 40276
         }
       },
       "North Carolina": {
