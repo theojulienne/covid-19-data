@@ -501,10 +501,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1663040,
+      "confirmed": 1663363,
       "date": "2021-06-05",
-      "deaths": 30142,
-      "recovered": 1623286
+      "deaths": 30157,
+      "recovered": 1624712
     }
   },
   "Denmark": {
@@ -565,10 +565,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 347762,
+      "confirmed": 348594,
       "date": "2021-06-05",
-      "deaths": 4876,
-      "recovered": 331680
+      "deaths": 4893,
+      "recovered": 332304
     }
   },
   "Germany": {
@@ -577,7 +577,7 @@
         "live": {
           "confirmed": 495178,
           "date": "2021-06-05",
-          "deaths": 10014,
+          "deaths": 10015,
           "recovered": 474500
         }
       },
@@ -615,7 +615,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 259283,
+          "confirmed": 259277,
           "date": "2021-06-05",
           "deaths": 5659,
           "recovered": 250200
@@ -681,10 +681,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 805571,
+      "confirmed": 805871,
       "date": "2021-06-05",
-      "deaths": 29818,
-      "recovered": 711105
+      "deaths": 29842,
+      "recovered": 714329
     }
   },
   "India": {
@@ -1085,10 +1085,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 106223,
+      "confirmed": 106636,
       "date": "2021-06-05",
-      "deaths": 1837,
-      "recovered": 99794
+      "deaths": 1842,
+      "recovered": 100114
     }
   },
   "Latvia": {
@@ -1585,9 +1585,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 171978,
+      "confirmed": 174796,
       "date": "2021-06-05",
-      "deaths": 1177,
+      "deaths": 1213,
       "recovered": 26873
     }
   },
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2733645,
+          "confirmed": 2733717,
           "date": "2021-06-05",
           "deaths": 47865
         }
