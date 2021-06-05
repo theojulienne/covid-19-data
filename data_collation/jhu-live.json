@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 646167,
+      "confirmed": 646438,
       "date": "2021-06-05",
-      "deaths": 10631,
-      "recovered": 631138
+      "deaths": 10636,
+      "recovered": 630458
     }
   },
   "Azerbaijan": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542526,
+          "confirmed": 542846,
           "date": "2021-06-05",
-          "deaths": 8808,
-          "recovered": 524973
+          "deaths": 8811,
+          "recovered": 525371
         }
       },
       "Quebec": {
@@ -583,9 +583,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 641704,
+          "confirmed": 641712,
           "date": "2021-06-05",
-          "deaths": 15007,
+          "deaths": 15009,
           "recovered": 616000
         }
       },
@@ -639,9 +639,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 284678,
+          "confirmed": 284824,
           "date": "2021-06-05",
-          "deaths": 9815,
+          "deaths": 9857,
           "recovered": 267800
         }
       },
@@ -901,10 +901,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1218524,
+      "confirmed": 1221678,
       "date": "2021-06-05",
-      "deaths": 16488,
-      "recovered": 1133347
+      "deaths": 16518,
+      "recovered": 1137695
     }
   },
   "Ireland": {
@@ -1195,7 +1195,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 185637,
+          "confirmed": 185908,
           "date": "2021-06-05",
           "deaths": 2022,
           "recovered": 0
@@ -1203,39 +1203,39 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 114157,
+          "confirmed": 114302,
           "date": "2021-06-05",
-          "deaths": 1641,
+          "deaths": 1644,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 268995,
+          "confirmed": 269417,
           "date": "2021-06-05",
-          "deaths": 3131,
+          "deaths": 3132,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 274222,
+          "confirmed": 274481,
           "date": "2021-06-05",
-          "deaths": 2603,
+          "deaths": 2606,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 108648,
+          "confirmed": 108816,
           "date": "2021-06-05",
-          "deaths": 1133,
+          "deaths": 1134,
           "recovered": 0
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 126600,
+          "confirmed": 126740,
           "date": "2021-06-05",
           "deaths": 1277,
           "recovered": 0
@@ -1243,9 +1243,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 395314,
+          "confirmed": 395865,
           "date": "2021-06-05",
-          "deaths": 4263,
+          "deaths": 4264,
           "recovered": 0
         }
       }
@@ -1261,15 +1261,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155379,
+      "confirmed": 155407,
       "date": "2021-06-05",
-      "deaths": 5442,
-      "recovered": 148910
+      "deaths": 5448,
+      "recovered": 148960
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 126521,
+      "confirmed": 126613,
       "date": "2021-06-05",
       "deaths": 785,
       "recovered": 17998
@@ -1417,17 +1417,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 455418,
+      "confirmed": 456562,
       "date": "2021-06-05",
-      "deaths": 7424,
-      "recovered": 438206
+      "deaths": 7440,
+      "recovered": 439459
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 713417,
+      "confirmed": 713562,
       "date": "2021-06-05",
-      "deaths": 6900,
+      "deaths": 6909,
       "recovered": 0
     }
   },
@@ -1674,9 +1674,9 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 104315,
+          "confirmed": 104369,
           "date": "2021-06-05",
-          "deaths": 2869
+          "deaths": 2872
         }
       },
       "New York": {
