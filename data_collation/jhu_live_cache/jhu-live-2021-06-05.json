@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 223050,
+      "confirmed": 223143,
       "date": "2021-06-05",
-      "deaths": 4452,
-      "recovered": 214059
+      "deaths": 4454,
+      "recovered": 214268
     }
   },
   "Austria": {
@@ -541,10 +541,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 130005,
+      "confirmed": 130068,
       "date": "2021-06-05",
-      "deaths": 1260,
-      "recovered": 124161
+      "deaths": 1262,
+      "recovered": 124576
     }
   },
   "Ethiopia": {
