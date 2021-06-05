@@ -591,10 +591,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 179089,
+          "confirmed": 179102,
           "date": "2021-06-05",
           "deaths": 3506,
-          "recovered": 173200
+          "recovered": 173300
         }
       },
       "Brandenburg": {
@@ -885,10 +885,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1843612,
+      "confirmed": 1850206,
       "date": "2021-06-05",
-      "deaths": 51296,
-      "recovered": 1697543
+      "deaths": 51449,
+      "recovered": 1701784
     }
   },
   "Iran": {
@@ -1030,7 +1030,7 @@
           "confirmed": 163397,
           "date": "2021-06-05",
           "deaths": 2087,
-          "recovered": 155664
+          "recovered": 156265
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 134421,
+      "confirmed": 134677,
       "date": "2021-06-05",
-      "deaths": 2402,
-      "recovered": 127493
+      "deaths": 2407,
+      "recovered": 127962
     }
   },
   "Lebanon": {
