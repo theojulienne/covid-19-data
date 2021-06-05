@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542909,
+          "confirmed": 542949,
           "date": "2021-06-05",
-          "deaths": 8815,
-          "recovered": 525465
+          "deaths": 8817,
+          "recovered": 525519
         }
       },
       "Quebec": {
@@ -1632,9 +1632,9 @@
       },
       "Georgia": {
         "live": {
-          "confirmed": 102722,
+          "confirmed": 102763,
           "date": "2021-06-05",
-          "deaths": 1182
+          "deaths": 1190
         }
       },
       "Illinois": {
