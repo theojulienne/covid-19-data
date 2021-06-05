@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 334539,
+      "confirmed": 334647,
       "date": "2021-06-05",
-      "deaths": 4933,
-      "recovered": 326269
+      "deaths": 4936,
+      "recovered": 326619
     }
   },
   "Bahrain": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542846,
+          "confirmed": 542863,
           "date": "2021-06-05",
-          "deaths": 8811,
-          "recovered": 525371
+          "deaths": 8812,
+          "recovered": 525386
         }
       },
       "Quebec": {
@@ -927,98 +927,98 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 420550,
+          "confirmed": 420857,
           "date": "2021-06-05",
-          "deaths": 7239,
-          "recovered": 349128
+          "deaths": 7241,
+          "recovered": 349803
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 384514,
+          "confirmed": 384648,
           "date": "2021-06-05",
-          "deaths": 13198,
-          "recovered": 359102
+          "deaths": 13208,
+          "recovered": 359726
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 107094,
+          "confirmed": 107164,
           "date": "2021-06-05",
-          "deaths": 3791,
-          "recovered": 98562
+          "deaths": 3792,
+          "recovered": 98624
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 342822,
+          "confirmed": 343032,
           "date": "2021-06-05",
-          "deaths": 8204,
-          "recovered": 320838
+          "deaths": 8213,
+          "recovered": 321930
         }
       },
       "Liguria": {
         "live": {
-          "confirmed": 102875,
+          "confirmed": 102898,
           "date": "2021-06-05",
           "deaths": 4330,
-          "recovered": 97688
+          "recovered": 97755
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 836791,
+          "confirmed": 837227,
           "date": "2021-06-05",
-          "deaths": 33643,
-          "recovered": 781589
+          "deaths": 33653,
+          "recovered": 782231
         }
       },
       "Marche": {
         "live": {
-          "confirmed": 102947,
+          "confirmed": 103045,
           "date": "2021-06-05",
           "deaths": 3018,
-          "recovered": 96494
+          "recovered": 96621
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 361083,
+          "confirmed": 361272,
           "date": "2021-06-05",
-          "deaths": 11652,
-          "recovered": 345302
+          "deaths": 11654,
+          "recovered": 345690
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 251082,
+          "confirmed": 251243,
           "date": "2021-06-05",
-          "deaths": 6536,
-          "recovered": 224298
+          "deaths": 6537,
+          "recovered": 225500
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 227015,
+          "confirmed": 227249,
           "date": "2021-06-05",
-          "deaths": 5863,
-          "recovered": 212834
+          "deaths": 5871,
+          "recovered": 213483
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 242062,
+          "confirmed": 242216,
           "date": "2021-06-05",
-          "deaths": 6741,
-          "recovered": 228895
+          "deaths": 6749,
+          "recovered": 229320
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 423792,
+          "confirmed": 423922,
           "date": "2021-06-05",
-          "deaths": 11579,
-          "recovered": 404796
+          "deaths": 11580,
+          "recovered": 405352
         }
       }
     }
@@ -1037,9 +1037,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 739015,
+      "confirmed": 739319,
       "date": "2021-06-05",
-      "deaths": 9509,
+      "deaths": 9516,
       "recovered": 719676
     }
   },
