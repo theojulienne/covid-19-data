@@ -1115,19 +1115,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 277399,
-        "deaths": 2511,
-        "recovered": 261844
+        "confirmed": 278396,
+        "deaths": 2512,
+        "recovered": 262748
       },
       "back_2week": {
-        "confirmed": 270557,
+        "confirmed": 271908,
         "deaths": 2506,
-        "recovered": 254739
+        "recovered": 255624
       },
       "latest": {
-        "confirmed": 284117,
+        "confirmed": 285044,
         "deaths": 2517,
-        "recovered": 268938
+        "recovered": 269956
       },
       "states": {
         "Faroe Islands": {
@@ -2144,17 +2144,17 @@
       "back_1week": {
         "confirmed": 174861,
         "deaths": 1298,
-        "recovered": 143789
+        "recovered": 146362
       },
       "back_2week": {
         "confirmed": 154786,
         "deaths": 1051,
-        "recovered": 123532
+        "recovered": 125360
       },
       "latest": {
         "confirmed": 195844,
         "deaths": 1608,
-        "recovered": 162397
+        "recovered": 164281
       }
     },
     "LSO": {
@@ -2640,19 +2640,19 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 542256,
-        "deaths": 6951,
-        "recovered": 418829
+        "confirmed": 549111,
+        "deaths": 7047,
+        "recovered": 428670
       },
       "back_2week": {
-        "confirmed": 488645,
-        "deaths": 5847,
-        "recovered": 366946
+        "confirmed": 497052,
+        "deaths": 6024,
+        "recovered": 374836
       },
       "latest": {
-        "confirmed": 576936,
-        "deaths": 7630,
-        "recovered": 467467
+        "confirmed": 581560,
+        "deaths": 7731,
+        "recovered": 476130
       }
     },
     "NZL": {
@@ -2827,19 +2827,19 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 216683,
+        "confirmed": 216885,
         "deaths": 552,
-        "recovered": 212048
+        "recovered": 212379
       },
       "back_2week": {
-        "confirmed": 214463,
-        "deaths": 539,
-        "recovered": 209773
+        "confirmed": 214830,
+        "deaths": 541,
+        "recovered": 210150
       },
       "latest": {
-        "confirmed": 218080,
-        "deaths": 563,
-        "recovered": 214377
+        "confirmed": 218263,
+        "deaths": 565,
+        "recovered": 214625
       }
     },
     "RKS": {

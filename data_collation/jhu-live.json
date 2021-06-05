@@ -186,7 +186,7 @@
           "confirmed": 487842,
           "date": "2021-06-05",
           "deaths": 10916,
-          "recovered": 457894
+          "recovered": 459442
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 619810,
           "date": "2021-06-05",
           "deaths": 17350,
-          "recovered": 588037
+          "recovered": 590919
         }
       },
       "Maranhao": {
@@ -266,7 +266,7 @@
           "confirmed": 276655,
           "date": "2021-06-05",
           "deaths": 6019,
-          "recovered": 269667
+          "recovered": 271166
         }
       },
       "Rio Grande do Norte": {
@@ -509,10 +509,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 285044,
+      "confirmed": 285636,
       "date": "2021-06-05",
-      "deaths": 2517,
-      "recovered": 269956
+      "deaths": 2518,
+      "recovered": 270784
     }
   },
   "Dominican Republic": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 581560,
+      "confirmed": 585100,
       "date": "2021-06-05",
-      "deaths": 7731,
-      "recovered": 476130
+      "deaths": 7799,
+      "recovered": 484373
     }
   },
   "Netherlands": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 218263,
+      "confirmed": 218455,
       "date": "2021-06-05",
-      "deaths": 565,
-      "recovered": 214625
+      "deaths": 566,
+      "recovered": 214950
     }
   },
   "Romania": {
@@ -1544,7 +1544,7 @@
       "confirmed": 199254,
       "date": "2021-06-05",
       "deaths": 1656,
-      "recovered": 164281
+      "recovered": 166132
     }
   },
   "Sweden": {
