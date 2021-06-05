@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 144157,
+      "confirmed": 144253,
       "date": "2021-06-05",
-      "deaths": 3221,
-      "recovered": 132415
+      "deaths": 3223,
+      "recovered": 132449
     }
   },
   "Canada": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 542894,
+          "confirmed": 542909,
           "date": "2021-06-05",
           "deaths": 8815,
-          "recovered": 525439
+          "recovered": 525465
         }
       },
       "Quebec": {
@@ -399,18 +399,18 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 132522,
+          "confirmed": 133162,
           "date": "2021-06-05",
-          "deaths": 2133,
-          "recovered": 126650
+          "deaths": 2143,
+          "recovered": 127316
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 589294,
+          "confirmed": 593602,
           "date": "2021-06-05",
-          "deaths": 15627,
-          "recovered": 552019
+          "deaths": 15685,
+          "recovered": 555820
         }
       }
     }
@@ -525,9 +525,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 430739,
+      "confirmed": 431429,
       "date": "2021-06-05",
-      "deaths": 20755,
+      "deaths": 20773,
       "recovered": 375151
     }
   },
@@ -575,9 +575,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 495178,
+          "confirmed": 495580,
           "date": "2021-06-05",
-          "deaths": 10015,
+          "deaths": 10017,
           "recovered": 474500
         }
       },
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 541232,
+      "confirmed": 541423,
       "date": "2021-06-05",
-      "deaths": 7752,
-      "recovered": 522465
+      "deaths": 7758,
+      "recovered": 523476
     }
   },
   "Libya": {
@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 275915,
+      "confirmed": 276256,
       "date": "2021-06-05",
-      "deaths": 4297,
-      "recovered": 258341
+      "deaths": 4302,
+      "recovered": 259591
     }
   },
   "Malaysia": {
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 520769,
+      "confirmed": 521195,
       "date": "2021-06-05",
-      "deaths": 9169,
-      "recovered": 508570
+      "deaths": 9173,
+      "recovered": 508850
     }
   },
   "Nepal": {
@@ -1541,7 +1541,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 199254,
+      "confirmed": 202357,
       "date": "2021-06-05",
       "deaths": 1656,
       "recovered": 166132
@@ -1601,10 +1601,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5276468,
+      "confirmed": 5282594,
       "date": "2021-06-05",
-      "deaths": 47976,
-      "recovered": 5147610
+      "deaths": 48068,
+      "recovered": 5154771
     }
   },
   "US": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2733717,
+          "confirmed": 2733745,
           "date": "2021-06-05",
-          "deaths": 47865
+          "deaths": 47885
         }
       },
       "Florida": {
@@ -1653,16 +1653,16 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 282805,
+          "confirmed": 282943,
           "date": "2021-06-05",
-          "deaths": 7425
+          "deaths": 7461
         }
       },
       "Minnesota": {
         "live": {
-          "confirmed": 124408,
+          "confirmed": 124470,
           "date": "2021-06-05",
-          "deaths": 1757
+          "deaths": 1760
         }
       },
       "Nevada": {
@@ -1716,7 +1716,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 151281,
+          "confirmed": 151356,
           "date": "2021-06-05",
           "deaths": 893
         }
@@ -1859,10 +1859,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 309644,
+      "confirmed": 309853,
       "date": "2021-06-05",
-      "deaths": 3511,
-      "recovered": 301544
+      "deaths": 3516,
+      "recovered": 301670
     }
   }
 }
