@@ -501,10 +501,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1663363,
+      "confirmed": 1663517,
       "date": "2021-06-06",
-      "deaths": 30157,
-      "recovered": 1624712
+      "deaths": 30159,
+      "recovered": 1624721
     }
   },
   "Denmark": {
@@ -565,10 +565,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 348594,
+      "confirmed": 349098,
       "date": "2021-06-06",
-      "deaths": 4893,
-      "recovered": 332304
+      "deaths": 4910,
+      "recovered": 333505
     }
   },
   "Germany": {
@@ -615,7 +615,7 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 259406,
+          "confirmed": 259405,
           "date": "2021-06-06",
           "deaths": 5663,
           "recovered": 250300
@@ -681,10 +681,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 805871,
+      "confirmed": 806008,
       "date": "2021-06-06",
-      "deaths": 29842,
-      "recovered": 714329
+      "deaths": 29854,
+      "recovered": 716163
     }
   },
   "India": {
@@ -920,7 +920,7 @@
       "confirmed": 839566,
       "date": "2021-06-06",
       "deaths": 6418,
-      "recovered": 832826
+      "recovered": 832812
     }
   },
   "Italy": {
@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 276256,
+      "confirmed": 276453,
       "date": "2021-06-06",
-      "deaths": 4302,
-      "recovered": 259591
+      "deaths": 4307,
+      "recovered": 259793
     }
   },
   "Malaysia": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 134072,
+          "confirmed": 134321,
           "date": "2021-06-06",
-          "deaths": 4135,
-          "recovered": 125357
+          "deaths": 4144,
+          "recovered": 125859
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 341789,
+          "confirmed": 342192,
           "date": "2021-06-06",
-          "deaths": 10241,
-          "recovered": 316166
+          "deaths": 10290,
+          "recovered": 317190
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 322350,
+          "confirmed": 323072,
           "date": "2021-06-06",
-          "deaths": 5105,
-          "recovered": 293510
+          "deaths": 5116,
+          "recovered": 294257
         }
       }
     }
