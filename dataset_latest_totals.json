@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5588981,
-        "deaths": 108466,
-        "recovered": 331006
+        "confirmed": 5600353,
+        "deaths": 108532,
+        "recovered": 331686
       },
       "back_2week": {
-        "confirmed": 5526555,
-        "deaths": 107645,
+        "confirmed": 5538938,
+        "deaths": 107732,
         "recovered": 324444
       },
       "latest": {
-        "confirmed": 5641296,
-        "deaths": 109069,
-        "recovered": 335715
+        "confirmed": 5647950,
+        "deaths": 109126,
+        "recovered": 336178
       },
       "states": {
         "French Guiana": {
@@ -1632,19 +1632,19 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 252929,
-        "deaths": 8094,
-        "recovered": 231594
+        "confirmed": 253837,
+        "deaths": 8121,
+        "recovered": 232359
       },
       "back_2week": {
-        "confirmed": 246156,
-        "deaths": 7977,
-        "recovered": 226014
+        "confirmed": 247106,
+        "deaths": 7996,
+        "recovered": 226819
       },
       "latest": {
-        "confirmed": 259954,
-        "deaths": 8258,
-        "recovered": 237398
+        "confirmed": 261392,
+        "deaths": 8280,
+        "recovered": 238344
       }
     },
     "GUY": {
@@ -2057,18 +2057,18 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 539888,
-        "deaths": 7711,
+        "confirmed": 540132,
+        "deaths": 7718,
         "recovered": 516530
       },
       "back_2week": {
-        "confirmed": 537887,
-        "deaths": 7664,
+        "confirmed": 538218,
+        "deaths": 7670,
         "recovered": 507424
       },
       "latest": {
-        "confirmed": 541232,
-        "deaths": 7752,
+        "confirmed": 541423,
+        "deaths": 7758,
         "recovered": 522465
       }
     },

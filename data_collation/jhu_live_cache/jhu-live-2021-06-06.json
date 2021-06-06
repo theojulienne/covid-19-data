@@ -162,7 +162,7 @@
           "confirmed": 1032454,
           "date": "2021-06-06",
           "deaths": 21707,
-          "recovered": 996824
+          "recovered": 1000142
         }
       },
       "Ceara": {
@@ -170,7 +170,7 @@
           "confirmed": 821842,
           "date": "2021-06-06",
           "deaths": 20903,
-          "recovered": 569170
+          "recovered": 571198
         }
       },
       "Distrito Federal": {
@@ -250,7 +250,7 @@
           "confirmed": 1115638,
           "date": "2021-06-06",
           "deaths": 27018,
-          "recovered": 772839
+          "recovered": 776711
         }
       },
       "Pernambuco": {
@@ -266,7 +266,7 @@
           "confirmed": 278152,
           "date": "2021-06-06",
           "deaths": 6042,
-          "recovered": 271166
+          "recovered": 271738
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 1109976,
           "date": "2021-06-06",
           "deaths": 28765,
-          "recovered": 1060931
+          "recovered": 1064177
         }
       },
       "Rio de Janeiro": {
@@ -314,7 +314,7 @@
           "confirmed": 983333,
           "date": "2021-06-06",
           "deaths": 15572,
-          "recovered": 940514
+          "recovered": 945726
         }
       },
       "Sao Paulo": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 543334,
+          "confirmed": 543567,
           "date": "2021-06-06",
-          "deaths": 8821,
-          "recovered": 526023
+          "deaths": 8822,
+          "recovered": 526420
         }
       },
       "Quebec": {
@@ -557,10 +557,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5647950,
+      "confirmed": 5652705,
       "date": "2021-06-06",
-      "deaths": 109126,
-      "recovered": 336178
+      "deaths": 109144,
+      "recovered": 336313
     }
   },
   "Georgia": {
@@ -665,10 +665,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 261392,
+      "confirmed": 261958,
       "date": "2021-06-06",
-      "deaths": 8280,
-      "recovered": 238344
+      "deaths": 8294,
+      "recovered": 239176
     }
   },
   "Honduras": {
@@ -1101,9 +1101,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 541423,
+      "confirmed": 541557,
       "date": "2021-06-06",
-      "deaths": 7758,
+      "deaths": 7763,
       "recovered": 523476
     }
   },
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2734299,
+          "confirmed": 2734386,
           "date": "2021-06-06",
-          "deaths": 47908
+          "deaths": 47913
         }
       },
       "Florida": {
@@ -1681,9 +1681,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1391115,
+          "confirmed": 1391363,
           "date": "2021-06-06",
-          "deaths": 40276
+          "deaths": 40293
         }
       },
       "North Carolina": {
@@ -1695,7 +1695,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 243439,
+          "confirmed": 243520,
           "date": "2021-06-06",
           "deaths": 3636
         }
