@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 398909,
+      "confirmed": 399852,
       "date": "2021-06-06",
-      "deaths": 2900,
-      "recovered": 391003
+      "deaths": 2910,
+      "recovered": 392366
     }
   },
   "Belgium": {
@@ -631,7 +631,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 153713,
+          "confirmed": 153786,
           "date": "2021-06-06",
           "deaths": 3753,
           "recovered": 146600
@@ -893,10 +893,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 2960751,
+      "confirmed": 2966363,
       "date": "2021-06-06",
-      "deaths": 80941,
-      "recovered": 2537092
+      "deaths": 81063,
+      "recovered": 2552401
     }
   },
   "Iraq": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 186953,
+      "confirmed": 187281,
       "date": "2021-06-06",
-      "deaths": 3137,
-      "recovered": 172916
+      "deaths": 3143,
+      "recovered": 173189
     }
   },
   "Lithuania": {
