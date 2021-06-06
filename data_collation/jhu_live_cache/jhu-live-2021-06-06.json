@@ -525,10 +525,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 431429,
+      "confirmed": 432353,
       "date": "2021-06-06",
-      "deaths": 20773,
-      "recovered": 375151
+      "deaths": 20809,
+      "recovered": 398645
     }
   },
   "Egypt": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1691491,
+      "confirmed": 1696564,
       "date": "2021-06-06",
-      "deaths": 56929,
-      "recovered": 1574223
+      "deaths": 56974,
+      "recovered": 1578033
     }
   },
   "Spain": {
