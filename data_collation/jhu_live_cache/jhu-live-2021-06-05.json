@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 3915397,
+      "confirmed": 3939024,
       "date": "2021-06-05",
-      "deaths": 80411,
-      "recovered": 3465137
+      "deaths": 80867,
+      "recovered": 3497500
     }
   },
   "Armenia": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 228668,
+          "confirmed": 228961,
           "date": "2021-06-05",
-          "deaths": 2243,
-          "recovered": 221010
+          "deaths": 2246,
+          "recovered": 221644
         }
       },
       "British Columbia": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 314569,
+      "confirmed": 315900,
       "date": "2021-06-05",
-      "deaths": 1787,
-      "recovered": 298485
+      "deaths": 1794,
+      "recovered": 299795
     }
   },
   "Kyrgyzstan": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 126613,
+      "confirmed": 126689,
       "date": "2021-06-05",
       "deaths": 785,
       "recovered": 17998
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 352303,
+      "confirmed": 353782,
       "date": "2021-06-05",
-      "deaths": 12902,
-      "recovered": 309126
+      "deaths": 12948,
+      "recovered": 310705
     }
   },
   "Turkey": {
@@ -1613,7 +1613,7 @@
         "live": {
           "confirmed": 668942,
           "date": "2021-06-05",
-          "deaths": 12502
+          "deaths": 12524
         }
       },
       "California": {
@@ -1723,7 +1723,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 110089,
+          "confirmed": 110220,
           "date": "2021-06-05",
           "deaths": 1593
         }
@@ -1843,10 +1843,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 308490,
+      "confirmed": 312703,
       "date": "2021-06-05",
-      "deaths": 4516,
-      "recovered": 267776
+      "deaths": 4583,
+      "recovered": 271481
     }
   },
   "Venezuela": {
