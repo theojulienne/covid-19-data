@@ -1027,7 +1027,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 163748,
+          "confirmed": 163983,
           "date": "2021-06-07",
           "deaths": 2092,
           "recovered": 156786
@@ -1093,7 +1093,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 134812,
+      "confirmed": 134888,
       "date": "2021-06-07",
       "deaths": 2413,
       "recovered": 128619
@@ -1349,10 +1349,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2875136,
+      "confirmed": 2875328,
       "date": "2021-06-07",
-      "deaths": 74152,
-      "recovered": 2645150
+      "deaths": 74160,
+      "recovered": 2645877
     }
   },
   "Portugal": {
@@ -1383,34 +1383,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1198007,
+          "confirmed": 1201273,
           "date": "2021-06-07",
-          "deaths": 20469,
-          "recovered": 1076346
+          "deaths": 20528,
+          "recovered": 1077914
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 275797,
+          "confirmed": 276584,
           "date": "2021-06-07",
-          "deaths": 6208,
-          "recovered": 226784
+          "deaths": 6216,
+          "recovered": 227420
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 119042,
+          "confirmed": 119200,
           "date": "2021-06-07",
-          "deaths": 3713,
-          "recovered": 113223
+          "deaths": 3726,
+          "recovered": 113339
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 444727,
+          "confirmed": 445581,
           "date": "2021-06-07",
-          "deaths": 14580,
-          "recovered": 411822
+          "deaths": 14620,
+          "recovered": 412711
         }
       }
     }
@@ -1433,9 +1433,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 390436,
+      "confirmed": 390451,
       "date": "2021-06-07",
-      "deaths": 12404,
+      "deaths": 12414,
       "recovered": 255300
     }
   },
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 697292,
       "date": "2021-06-07",
-      "deaths": 10832,
+      "deaths": 10836,
       "recovered": 317600
     }
   },

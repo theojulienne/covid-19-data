@@ -655,12 +655,12 @@
     "CHE": {
       "back_1week": {
         "confirmed": 693023,
-        "deaths": 10805,
+        "deaths": 10806,
         "recovered": 317600
       },
       "back_2week": {
         "confirmed": 687353,
-        "deaths": 10775,
+        "deaths": 10776,
         "recovered": 317600
       },
       "latest": {
@@ -2210,17 +2210,17 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 132918,
+        "confirmed": 133098,
         "deaths": 2370,
         "recovered": 125340
       },
       "back_2week": {
-        "confirmed": 130712,
+        "confirmed": 130945,
         "deaths": 2323,
         "recovered": 121123
       },
       "latest": {
-        "confirmed": 134677,
+        "confirmed": 134812,
         "deaths": 2407,
         "recovered": 127962
       }
@@ -2776,19 +2776,19 @@
     },
     "POL": {
       "back_1week": {
-        "confirmed": 2871371,
-        "deaths": 73682,
-        "recovered": 2636675
+        "confirmed": 2871950,
+        "deaths": 73738,
+        "recovered": 2638222
       },
       "back_2week": {
-        "confirmed": 2864546,
-        "deaths": 72882,
-        "recovered": 2621686
+        "confirmed": 2865622,
+        "deaths": 72928,
+        "recovered": 2624724
       },
       "latest": {
-        "confirmed": 2874824,
-        "deaths": 74139,
-        "recovered": 2644273
+        "confirmed": 2875136,
+        "deaths": 74152,
+        "recovered": 2645150
       }
     },
     "PRT": {
@@ -3116,18 +3116,18 @@
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 389440,
-        "deaths": 12333,
+        "confirmed": 389690,
+        "deaths": 12339,
         "recovered": 255300
       },
       "back_2week": {
-        "confirmed": 388719,
-        "deaths": 12286,
+        "confirmed": 388835,
+        "deaths": 12292,
         "recovered": 255300
       },
       "latest": {
-        "confirmed": 390340,
-        "deaths": 12395,
+        "confirmed": 390436,
+        "deaths": 12404,
         "recovered": 255300
       }
     },
