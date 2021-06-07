@@ -162,7 +162,7 @@
           "confirmed": 1035524,
           "date": "2021-06-07",
           "deaths": 21749,
-          "recovered": 1000142
+          "recovered": 1003088
         }
       },
       "Ceara": {
@@ -186,7 +186,7 @@
           "confirmed": 489142,
           "date": "2021-06-07",
           "deaths": 10957,
-          "recovered": 459442
+          "recovered": 460528
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 621630,
           "date": "2021-06-07",
           "deaths": 17429,
-          "recovered": 592984
+          "recovered": 594246
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 301559,
           "date": "2021-06-07",
           "deaths": 7122,
-          "recovered": 271507
+          "recovered": 274114
         }
       },
       "Minas Gerais": {
@@ -266,7 +266,7 @@
           "confirmed": 278801,
           "date": "2021-06-07",
           "deaths": 6064,
-          "recovered": 271738
+          "recovered": 272199
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 1111570,
           "date": "2021-06-07",
           "deaths": 28795,
-          "recovered": 1064177
+          "recovered": 1071006
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 182504,
           "date": "2021-06-07",
           "deaths": 2944,
-          "recovered": 164308
+          "recovered": 164583
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 543972,
+          "confirmed": 544362,
           "date": "2021-06-07",
-          "deaths": 8829,
-          "recovered": 527050
+          "deaths": 8848,
+          "recovered": 527967
         }
       },
       "Quebec": {
@@ -1628,7 +1628,7 @@
         "live": {
           "confirmed": 2735003,
           "date": "2021-06-07",
-          "deaths": 47915
+          "deaths": 47917
         }
       },
       "Florida": {
@@ -1710,9 +1710,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1327467,
+          "confirmed": 1327803,
           "date": "2021-06-07",
-          "deaths": 20400
+          "deaths": 20401
         }
       },
       "Utah": {
