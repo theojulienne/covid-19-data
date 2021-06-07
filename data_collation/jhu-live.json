@@ -583,7 +583,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 642508,
+          "confirmed": 642512,
           "date": "2021-06-07",
           "deaths": 15017,
           "recovered": 617600
@@ -631,9 +631,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 153794,
+          "confirmed": 153877,
           "date": "2021-06-07",
-          "deaths": 3753,
+          "deaths": 3759,
           "recovered": 146900
         }
       },
@@ -909,7 +909,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 264498,
+      "confirmed": 264875,
       "date": "2021-06-07",
       "deaths": 4941,
       "recovered": 23364
@@ -1029,7 +1029,7 @@
         "live": {
           "confirmed": 163983,
           "date": "2021-06-07",
-          "deaths": 2092,
+          "deaths": 2095,
           "recovered": 157286
         }
       }
@@ -1069,10 +1069,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107058,
+      "confirmed": 107099,
       "date": "2021-06-07",
-      "deaths": 2249,
-      "recovered": 103495
+      "deaths": 2250,
+      "recovered": 103972
     }
   },
   "Kuwait": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155417,
+      "confirmed": 155418,
       "date": "2021-06-07",
-      "deaths": 5455,
-      "recovered": 149292
+      "deaths": 5458,
+      "recovered": 149496
     }
   },
   "Norway": {
@@ -1357,10 +1357,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 852646,
+      "confirmed": 853034,
       "date": "2021-06-07",
-      "deaths": 17034,
-      "recovered": 811897
+      "deaths": 17036,
+      "recovered": 812174
     }
   },
   "Qatar": {
@@ -1417,10 +1417,10 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 457546,
+      "confirmed": 458707,
       "date": "2021-06-07",
-      "deaths": 7456,
-      "recovered": 440644
+      "deaths": 7471,
+      "recovered": 441860
     }
   },
   "Serbia": {
