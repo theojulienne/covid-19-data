@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 449858,
+      "confirmed": 450868,
       "date": "2021-06-07",
-      "deaths": 3471,
-      "recovered": 417705
+      "deaths": 3473,
+      "recovered": 418803
     }
   },
   "Kenya": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 134321,
+          "confirmed": 134558,
           "date": "2021-06-07",
-          "deaths": 4144,
-          "recovered": 125859
+          "deaths": 4158,
+          "recovered": 126035
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 342192,
+          "confirmed": 342498,
           "date": "2021-06-07",
-          "deaths": 10290,
-          "recovered": 317190
+          "deaths": 10314,
+          "recovered": 317947
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 323072,
+          "confirmed": 323828,
           "date": "2021-06-07",
-          "deaths": 5116,
-          "recovered": 294257
+          "deaths": 5136,
+          "recovered": 294836
         }
       }
     }
