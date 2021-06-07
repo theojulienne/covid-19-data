@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 544362,
+          "confirmed": 544363,
           "date": "2021-06-07",
           "deaths": 8848,
-          "recovered": 527967
+          "recovered": 527970
         }
       },
       "Quebec": {
@@ -1085,10 +1085,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 317197,
+      "confirmed": 318676,
       "date": "2021-06-07",
-      "deaths": 1795,
-      "recovered": 301137
+      "deaths": 1798,
+      "recovered": 302393
     }
   },
   "Kyrgyzstan": {
@@ -1587,7 +1587,7 @@
     "live": {
       "confirmed": 698369,
       "date": "2021-06-07",
-      "deaths": 10840,
+      "deaths": 10841,
       "recovered": 317600
     }
   },
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 355732,
+      "confirmed": 356750,
       "date": "2021-06-07",
-      "deaths": 12980,
-      "recovered": 311340
+      "deaths": 13027,
+      "recovered": 312979
     }
   },
   "Turkey": {
