@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204410,
+      "confirmed": 204455,
       "date": "2021-06-08",
-      "deaths": 9411,
-      "recovered": 176589
+      "deaths": 9460,
+      "recovered": 176703
     }
   },
   "Brazil": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 544363,
+          "confirmed": 544539,
           "date": "2021-06-08",
-          "deaths": 8848,
-          "recovered": 527970
+          "deaths": 8854,
+          "recovered": 528345
         }
       },
       "Quebec": {
@@ -591,7 +591,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 642704,
+          "confirmed": 642692,
           "date": "2021-06-08",
           "deaths": 15037,
           "recovered": 618200
@@ -639,17 +639,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 153886,
+          "confirmed": 154017,
           "date": "2021-06-08",
-          "deaths": 3759,
+          "deaths": 3769,
           "recovered": 147600
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 284931,
+          "confirmed": 285047,
           "date": "2021-06-08",
-          "deaths": 9901,
+          "deaths": 9915,
           "recovered": 269300
         }
       },
@@ -909,10 +909,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1229121,
+      "confirmed": 1233240,
       "date": "2021-06-08",
-      "deaths": 16566,
-      "recovered": 1146745
+      "deaths": 16589,
+      "recovered": 1151515
     }
   },
   "Ireland": {
@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155418,
+      "confirmed": 155441,
       "date": "2021-06-08",
-      "deaths": 5458,
-      "recovered": 149496
+      "deaths": 5462,
+      "recovered": 149528
     }
   },
   "Norway": {
@@ -1425,17 +1425,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 458707,
+      "confirmed": 459968,
       "date": "2021-06-08",
-      "deaths": 7471,
-      "recovered": 441860
+      "deaths": 7488,
+      "recovered": 442782
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 713840,
+      "confirmed": 714054,
       "date": "2021-06-08",
-      "deaths": 6924,
+      "deaths": 6930,
       "recovered": 0
     }
   },
