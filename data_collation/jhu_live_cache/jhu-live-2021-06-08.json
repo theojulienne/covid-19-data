@@ -1860,10 +1860,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 310233,
+      "confirmed": 310544,
       "date": "2021-06-08",
-      "deaths": 3517,
-      "recovered": 302147
+      "deaths": 3520,
+      "recovered": 302357
     }
   }
 }
