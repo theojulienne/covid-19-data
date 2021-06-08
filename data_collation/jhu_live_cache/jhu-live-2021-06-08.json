@@ -162,7 +162,7 @@
           "confirmed": 1037924,
           "date": "2021-06-08",
           "deaths": 21829,
-          "recovered": 1003088
+          "recovered": 1007142
         }
       },
       "Ceara": {
@@ -218,7 +218,7 @@
           "confirmed": 303209,
           "date": "2021-06-08",
           "deaths": 7185,
-          "recovered": 274114
+          "recovered": 275398
         }
       },
       "Minas Gerais": {
@@ -242,7 +242,7 @@
           "confirmed": 345596,
           "date": "2021-06-08",
           "deaths": 7883,
-          "recovered": 230002
+          "recovered": 230145
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 1119156,
           "date": "2021-06-08",
           "deaths": 28866,
-          "recovered": 1071006
+          "recovered": 1074998
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 182924,
           "date": "2021-06-08",
           "deaths": 2953,
-          "recovered": 164583
+          "recovered": 164842
         }
       }
     }
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 356750,
+      "confirmed": 358183,
       "date": "2021-06-08",
-      "deaths": 13027,
-      "recovered": 312979
+      "deaths": 13126,
+      "recovered": 314730
     }
   },
   "Turkey": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2735494,
+          "confirmed": 2735551,
           "date": "2021-06-08",
-          "deaths": 47923
+          "deaths": 47928
         }
       },
       "Florida": {
@@ -1682,7 +1682,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1391842,
+          "confirmed": 1391957,
           "date": "2021-06-08",
           "deaths": 40310
         }
