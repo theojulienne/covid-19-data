@@ -138,7 +138,7 @@
           "confirmed": 198440,
           "date": "2021-06-08",
           "deaths": 4880,
-          "recovered": 188557
+          "recovered": 190207
         }
       },
       "Amapa": {
@@ -242,7 +242,7 @@
           "confirmed": 345596,
           "date": "2021-06-08",
           "deaths": 7883,
-          "recovered": 230145
+          "recovered": 234250
         }
       },
       "Parana": {
@@ -290,7 +290,7 @@
           "confirmed": 884936,
           "date": "2021-06-08",
           "deaths": 51540,
-          "recovered": 821355
+          "recovered": 826149
         }
       },
       "Rondonia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 544554,
+          "confirmed": 544636,
           "date": "2021-06-08",
-          "deaths": 8854,
-          "recovered": 528402
+          "deaths": 8869,
+          "recovered": 528816
         }
       },
       "Quebec": {
@@ -583,9 +583,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 495944,
+          "confirmed": 496594,
           "date": "2021-06-08",
-          "deaths": 10030,
+          "deaths": 10041,
           "recovered": 476700
         }
       },
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1699849,
+      "confirmed": 1704058,
       "date": "2021-06-08",
-      "deaths": 57063,
-      "recovered": 1581540
+      "deaths": 57183,
+      "recovered": 1587015
     }
   },
   "Spain": {
@@ -1619,16 +1619,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 669681,
+          "confirmed": 669977,
           "date": "2021-06-08",
-          "deaths": 12525
+          "deaths": 12533
         }
       },
       "California": {
         "live": {
           "confirmed": 2735551,
           "date": "2021-06-08",
-          "deaths": 47928
+          "deaths": 47930
         }
       },
       "Florida": {
