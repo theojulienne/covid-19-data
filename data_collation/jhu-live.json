@@ -390,7 +390,7 @@
           "confirmed": 371960,
           "date": "2021-06-08",
           "deaths": 11152,
-          "recovered": 357867
+          "recovered": 358221
         }
       }
     }
@@ -430,7 +430,7 @@
           "confirmed": 561985,
           "date": "2021-06-08",
           "deaths": 12410,
-          "recovered": 523504
+          "recovered": 526620
         }
       },
       "Atlantico": {
@@ -438,7 +438,7 @@
           "confirmed": 277210,
           "date": "2021-06-08",
           "deaths": 8613,
-          "recovered": 263917
+          "recovered": 264491
         }
       },
       "Bolivar": {
@@ -446,7 +446,7 @@
           "confirmed": 111008,
           "date": "2021-06-08",
           "deaths": 2125,
-          "recovered": 105283
+          "recovered": 106282
         }
       },
       "Capital District": {
@@ -454,7 +454,7 @@
           "confirmed": 1031680,
           "date": "2021-06-08",
           "deaths": 19931,
-          "recovered": 921535
+          "recovered": 934928
         }
       },
       "Cundinamarca": {
@@ -462,7 +462,7 @@
           "confirmed": 178956,
           "date": "2021-06-08",
           "deaths": 4729,
-          "recovered": 164499
+          "recovered": 166757
         }
       },
       "Santander": {
@@ -470,7 +470,7 @@
           "confirmed": 146276,
           "date": "2021-06-08",
           "deaths": 4865,
-          "recovered": 130186
+          "recovered": 131651
         }
       },
       "Valle del Cauca": {
@@ -478,7 +478,7 @@
           "confirmed": 279723,
           "date": "2021-06-08",
           "deaths": 8884,
-          "recovered": 261280
+          "recovered": 262789
         }
       }
     }
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 373165,
+      "confirmed": 375996,
       "date": "2021-06-08",
-      "deaths": 9874,
-      "recovered": 306695
+      "deaths": 10005,
+      "recovered": 309120
     }
   },
   "Peru": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2735003,
+          "confirmed": 2735136,
           "date": "2021-06-08",
           "deaths": 47917
         }
@@ -1724,9 +1724,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 110220,
+          "confirmed": 109349,
           "date": "2021-06-08",
-          "deaths": 1593
+          "deaths": 1589
         }
       },
       "Wisconsin": {
