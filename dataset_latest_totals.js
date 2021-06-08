@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 569073,
-        "deaths": 1677,
-        "recovered": 548785
+        "confirmed": 570836,
+        "deaths": 1680,
+        "recovered": 550525
       },
       "back_2week": {
-        "confirmed": 556107,
-        "deaths": 1651,
-        "recovered": 536050
+        "confirmed": 557619,
+        "deaths": 1654,
+        "recovered": 537531
       },
       "latest": {
-        "confirmed": 583071,
-        "deaths": 1699,
-        "recovered": 562576
+        "confirmed": 585039,
+        "deaths": 1702,
+        "recovered": 564509
       }
     },
     "ARG": {
@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 393807,
-        "deaths": 2841,
-        "recovered": 384933
+        "confirmed": 394439,
+        "deaths": 2851,
+        "recovered": 385382
       },
       "back_2week": {
-        "confirmed": 386025,
-        "deaths": 2771,
-        "recovered": 376453
+        "confirmed": 386978,
+        "deaths": 2780,
+        "recovered": 377105
       },
       "latest": {
-        "confirmed": 399852,
-        "deaths": 2910,
-        "recovered": 392366
+        "confirmed": 400422,
+        "deaths": 2919,
+        "recovered": 392744
       }
     },
     "BLZ": {
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 280383,
+        "confirmed": 281227,
         "deaths": 2516,
-        "recovered": 264562
+        "recovered": 265478
       },
       "back_2week": {
-        "confirmed": 273494,
+        "confirmed": 274413,
         "deaths": 2508,
-        "recovered": 257387
+        "recovered": 258184
       },
       "latest": {
-        "confirmed": 286489,
+        "confirmed": 286948,
         "deaths": 2518,
-        "recovered": 271568
+        "recovered": 272371
       },
       "states": {
         "Faroe Islands": {

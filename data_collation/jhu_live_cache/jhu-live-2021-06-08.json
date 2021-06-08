@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 400422,
+      "confirmed": 401019,
       "date": "2021-06-08",
-      "deaths": 2919,
-      "recovered": 392744
+      "deaths": 2929,
+      "recovered": 393237
     }
   },
   "Belgium": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 286948,
+      "confirmed": 287325,
       "date": "2021-06-08",
       "deaths": 2520,
-      "recovered": 272371
+      "recovered": 273241
     }
   },
   "Dominican Republic": {
@@ -1559,25 +1559,25 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 154791,
+          "confirmed": 155145,
           "date": "2021-06-08",
-          "deaths": 1743,
+          "deaths": 1749,
           "recovered": 0
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 252972,
+          "confirmed": 253388,
           "date": "2021-06-08",
-          "deaths": 4339,
+          "deaths": 4344,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 188652,
+          "confirmed": 188988,
           "date": "2021-06-08",
-          "deaths": 2363,
+          "deaths": 2364,
           "recovered": 0
         }
       }
@@ -1800,10 +1800,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 585039,
+      "confirmed": 587244,
       "date": "2021-06-08",
-      "deaths": 1702,
-      "recovered": 564509
+      "deaths": 1704,
+      "recovered": 566677
     }
   },
   "United Kingdom": {
