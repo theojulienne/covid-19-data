@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 389994,
+      "confirmed": 392975,
       "date": "2021-06-09",
-      "deaths": 15082,
-      "recovered": 308971
+      "deaths": 15177,
+      "recovered": 311340
     }
   },
   "Bosnia and Herzegovina": {
@@ -583,10 +583,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 496594,
+          "confirmed": 496615,
           "date": "2021-06-09",
-          "deaths": 10041,
-          "recovered": 476700
+          "deaths": 10036,
+          "recovered": 478300
         }
       },
       "Bayern": {
@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 242377,
+      "confirmed": 242796,
       "date": "2021-06-09",
-      "deaths": 6493,
-      "recovered": 86381
+      "deaths": 6532,
+      "recovered": 86418
     }
   },
   "Hungary": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2735766,
+          "confirmed": 2735898,
           "date": "2021-06-09",
           "deaths": 47930
         }
@@ -1852,10 +1852,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 243621,
+      "confirmed": 245300,
       "date": "2021-06-09",
-      "deaths": 2734,
-      "recovered": 223788
+      "deaths": 2750,
+      "recovered": 225266
     }
   },
   "West Bank and Gaza": {
