@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 545115,
+          "confirmed": 545117,
           "date": "2021-06-09",
           "deaths": 8892,
-          "recovered": 529716
+          "recovered": 529717
         }
       },
       "Quebec": {
