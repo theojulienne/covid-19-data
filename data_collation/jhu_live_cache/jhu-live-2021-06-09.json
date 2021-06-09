@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 401019,
+      "confirmed": 401853,
       "date": "2021-06-09",
-      "deaths": 2929,
-      "recovered": 393237
+      "deaths": 2939,
+      "recovered": 394272
     }
   },
   "Belgium": {
@@ -1381,10 +1381,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1079154,
+      "confirmed": 1079294,
       "date": "2021-06-09",
-      "deaths": 31155,
-      "recovered": 1043371
+      "deaths": 31383,
+      "recovered": 1043482
     }
   },
   "Russia": {
@@ -1587,7 +1587,7 @@
     "live": {
       "confirmed": 698798,
       "date": "2021-06-09",
-      "deaths": 10848,
+      "deaths": 10850,
       "recovered": 317600
     }
   },
