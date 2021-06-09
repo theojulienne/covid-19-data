@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204455,
+      "confirmed": 204512,
       "date": "2021-06-09",
-      "deaths": 9460,
-      "recovered": 176703
+      "deaths": 9467,
+      "recovered": 176881
     }
   },
   "Brazil": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 544636,
+          "confirmed": 544838,
           "date": "2021-06-09",
-          "deaths": 8869,
-          "recovered": 528816
+          "deaths": 8877,
+          "recovered": 529195
         }
       },
       "Quebec": {
@@ -909,10 +909,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1233240,
+      "confirmed": 1237856,
       "date": "2021-06-09",
-      "deaths": 16589,
-      "recovered": 1151515
+      "deaths": 16614,
+      "recovered": 1155887
     }
   },
   "Ireland": {
@@ -1069,10 +1069,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107099,
+      "confirmed": 107125,
       "date": "2021-06-09",
-      "deaths": 2250,
-      "recovered": 103972
+      "deaths": 2252,
+      "recovered": 104238
     }
   },
   "Kuwait": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 595364,
+      "confirmed": 598813,
       "date": "2021-06-09",
-      "deaths": 8098,
-      "recovered": 504530
+      "deaths": 8179,
+      "recovered": 510298
     }
   },
   "Netherlands": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155441,
+      "confirmed": 155469,
       "date": "2021-06-09",
-      "deaths": 5462,
-      "recovered": 149528
+      "deaths": 5467,
+      "recovered": 149551
     }
   },
   "Norway": {
@@ -1417,17 +1417,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 459968,
+      "confirmed": 461242,
       "date": "2021-06-09",
-      "deaths": 7488,
-      "recovered": 442782
+      "deaths": 7503,
+      "recovered": 443810
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 714054,
+      "confirmed": 714252,
       "date": "2021-06-09",
-      "deaths": 6930,
+      "deaths": 6938,
       "recovered": 0
     }
   },
