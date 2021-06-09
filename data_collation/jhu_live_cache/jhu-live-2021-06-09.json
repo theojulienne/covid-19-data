@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 334849,
+      "confirmed": 334917,
       "date": "2021-06-09",
-      "deaths": 4947,
-      "recovered": 327387
+      "deaths": 4948,
+      "recovered": 327626
     }
   },
   "Bahrain": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 815282,
+      "confirmed": 817819,
       "date": "2021-06-09",
-      "deaths": 12913,
-      "recovered": 755302
+      "deaths": 12949,
+      "recovered": 757569
     }
   },
   "Belarus": {
@@ -194,7 +194,7 @@
           "confirmed": 622986,
           "date": "2021-06-09",
           "deaths": 17572,
-          "recovered": 594425
+          "recovered": 598390
         }
       },
       "Maranhao": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 287325,
+      "confirmed": 288229,
       "date": "2021-06-09",
       "deaths": 2520,
-      "recovered": 273241
+      "recovered": 274334
     }
   },
   "Dominican Republic": {
@@ -963,14 +963,6 @@
           "date": "2021-06-09",
           "deaths": 8229,
           "recovered": 325390
-        }
-      },
-      "Liguria": {
-        "live": {
-          "confirmed": 102962,
-          "date": "2021-06-09",
-          "deaths": 4337,
-          "recovered": 97982
         }
       },
       "Lombardia": {
@@ -1559,7 +1551,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 155145,
+          "confirmed": 155276,
           "date": "2021-06-09",
           "deaths": 1749,
           "recovered": 0
@@ -1567,17 +1559,17 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 253388,
+          "confirmed": 253548,
           "date": "2021-06-09",
-          "deaths": 4344,
+          "deaths": 4349,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 188988,
+          "confirmed": 189144,
           "date": "2021-06-09",
-          "deaths": 2364,
+          "deaths": 2363,
           "recovered": 0
         }
       }
@@ -1710,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1328133,
+          "confirmed": 1328236,
           "date": "2021-06-09",
           "deaths": 20412
         }
@@ -1864,6 +1856,14 @@
       "date": "2021-06-09",
       "deaths": 3520,
       "recovered": 302357
+    }
+  },
+  "Zambia": {
+    "live": {
+      "confirmed": 103763,
+      "date": "2021-06-09",
+      "deaths": 1324,
+      "recovered": 94189
     }
   }
 }
