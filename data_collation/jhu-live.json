@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 144579,
+      "confirmed": 144715,
       "date": "2021-06-09",
-      "deaths": 3228,
-      "recovered": 132615
+      "deaths": 3233,
+      "recovered": 132655
     }
   },
   "Canada": {
@@ -591,9 +591,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 643322,
+          "confirmed": 643380,
           "date": "2021-06-09",
-          "deaths": 15062,
+          "deaths": 15063,
           "recovered": 619600
         }
       },
@@ -639,9 +639,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154023,
+          "confirmed": 154200,
           "date": "2021-06-09",
-          "deaths": 3769,
+          "deaths": 3771,
           "recovered": 147700
         }
       },
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 888325,
+          "confirmed": 889711,
           "date": "2021-06-09",
-          "deaths": 84811,
+          "deaths": 84996,
           "recovered": 0
         }
       }
