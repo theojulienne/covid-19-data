@@ -162,7 +162,7 @@
           "confirmed": 1041351,
           "date": "2021-06-09",
           "deaths": 21939,
-          "recovered": 1007142
+          "recovered": 1012358
         }
       },
       "Ceara": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 273175,
+      "confirmed": 273398,
       "date": "2021-06-09",
-      "deaths": 4220,
-      "recovered": 247502
+      "deaths": 4226,
+      "recovered": 248285
     }
   },
   "France": {
@@ -1674,9 +1674,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1392122,
+          "confirmed": 1392226,
           "date": "2021-06-09",
-          "deaths": 40313
+          "deaths": 40314
         }
       },
       "North Carolina": {
@@ -1723,9 +1723,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117431,
+          "confirmed": 117456,
           "date": "2021-06-09",
-          "deaths": 1406
+          "deaths": 1408
         }
       }
     }
