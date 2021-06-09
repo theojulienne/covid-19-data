@@ -390,7 +390,7 @@
           "confirmed": 372109,
           "date": "2021-06-09",
           "deaths": 11156,
-          "recovered": 358221
+          "recovered": 358553
         }
       }
     }
@@ -568,7 +568,7 @@
       "confirmed": 5659478,
       "date": "2021-06-09",
       "deaths": 109278,
-      "recovered": 337466
+      "recovered": 335174
     }
   },
   "Georgia": {
@@ -1321,10 +1321,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 382851,
+      "confirmed": 383733,
       "date": "2021-06-09",
-      "deaths": 6404,
-      "recovered": 368653
+      "deaths": 6408,
+      "recovered": 369273
     }
   },
   "Paraguay": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2735621,
+          "confirmed": 2735766,
           "date": "2021-06-09",
           "deaths": 47930
         }
