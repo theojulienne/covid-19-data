@@ -350,36 +350,36 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 418577,
-        "deaths": 17700,
-        "recovered": 382183
+        "confirmed": 418813,
+        "deaths": 17726,
+        "recovered": 383765
       },
       "back_2week": {
-        "confirmed": 416727,
-        "deaths": 17513,
-        "recovered": 373703
+        "confirmed": 417133,
+        "deaths": 17581,
+        "recovered": 376126
       },
       "latest": {
-        "confirmed": 419681,
-        "deaths": 17854,
-        "recovered": 386693
+        "confirmed": 419859,
+        "deaths": 17860,
+        "recovered": 387416
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 240531,
-        "deaths": 980,
-        "recovered": 211024
+        "confirmed": 242790,
+        "deaths": 1009,
+        "recovered": 213827
       },
       "back_2week": {
-        "confirmed": 220847,
-        "deaths": 848,
-        "recovered": 196685
+        "confirmed": 223613,
+        "deaths": 866,
+        "recovered": 198220
       },
       "latest": {
-        "confirmed": 252600,
-        "deaths": 1143,
-        "recovered": 231113
+        "confirmed": 253879,
+        "deaths": 1161,
+        "recovered": 233480
       }
     },
     "BHS": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 229319,
-          "deaths": 2248
+          "confirmed": 229458,
+          "deaths": 2251
         },
         "British Columbia": {
           "confirmed": 145530,
@@ -3926,19 +3926,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1665617,
-        "deaths": 56506,
-        "recovered": 1559337
+        "confirmed": 1669231,
+        "deaths": 56601,
+        "recovered": 1563719
       },
       "back_2week": {
         "confirmed": 1637848,
-        "deaths": 55874,
-        "recovered": 1541250
+        "deaths": 55976,
+        "recovered": 1543951
       },
       "latest": {
-        "confirmed": 1699849,
-        "deaths": 57063,
-        "recovered": 1581540
+        "confirmed": 1704058,
+        "deaths": 57183,
+        "recovered": 1587015
       }
     },
     "ZMB": {
