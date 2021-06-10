@@ -599,7 +599,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 179467,
+          "confirmed": 179479,
           "date": "2021-06-10",
           "deaths": 3513,
           "recovered": 174200
@@ -1027,10 +1027,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 164792,
+          "confirmed": 165231,
           "date": "2021-06-10",
-          "deaths": 2112,
-          "recovered": 158392
+          "deaths": 2118,
+          "recovered": 158857
         }
       }
     }
@@ -1277,10 +1277,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 228579,
+      "confirmed": 230219,
       "date": "2021-06-10",
-      "deaths": 2448,
-      "recovered": 206844
+      "deaths": 2467,
+      "recovered": 207795
     }
   },
   "Pakistan": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 699339,
       "date": "2021-06-10",
-      "deaths": 10851,
+      "deaths": 10852,
       "recovered": 317600
     }
   },
