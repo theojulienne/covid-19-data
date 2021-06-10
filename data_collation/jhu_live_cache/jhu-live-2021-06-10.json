@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 188157,
+      "confirmed": 188386,
       "date": "2021-06-10",
-      "deaths": 3152,
-      "recovered": 173877
+      "deaths": 3155,
+      "recovered": 174223
     }
   },
   "Lithuania": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 633891,
+      "confirmed": 639562,
       "date": "2021-06-10",
-      "deaths": 3611,
-      "recovered": 548705
+      "deaths": 3684,
+      "recovered": 556030
     }
   },
   "Mexico": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 255907,
+      "confirmed": 256103,
       "date": "2021-06-10",
-      "deaths": 4392,
-      "recovered": 248093
+      "deaths": 4393,
+      "recovered": 248459
     }
   },
   "South Africa": {
@@ -1702,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1329099,
+          "confirmed": 1329135,
           "date": "2021-06-10",
           "deaths": 20426
         }
