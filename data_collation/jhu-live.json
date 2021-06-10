@@ -909,10 +909,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1237856,
+      "confirmed": 1242540,
       "date": "2021-06-10",
-      "deaths": 16614,
-      "recovered": 1155887
+      "deaths": 16648,
+      "recovered": 1159973
     }
   },
   "Ireland": {
