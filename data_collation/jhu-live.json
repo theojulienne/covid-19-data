@@ -427,9 +427,9 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 561985,
+          "confirmed": 567472,
           "date": "2021-06-10",
-          "deaths": 12428,
+          "deaths": 12526,
           "recovered": 529506
         }
       },
@@ -451,33 +451,33 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 1031680,
+          "confirmed": 1047822,
           "date": "2021-06-10",
-          "deaths": 19931,
+          "deaths": 20182,
           "recovered": 944398
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 178956,
+          "confirmed": 181802,
           "date": "2021-06-10",
-          "deaths": 4748,
+          "deaths": 4809,
           "recovered": 168262
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 146276,
+          "confirmed": 151905,
           "date": "2021-06-10",
-          "deaths": 4890,
+          "deaths": 4953,
           "recovered": 134289
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 279723,
+          "confirmed": 282550,
           "date": "2021-06-10",
-          "deaths": 8897,
+          "deaths": 8972,
           "recovered": 265018
         }
       }
@@ -485,10 +485,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 333820,
+      "confirmed": 336007,
       "date": "2021-06-10",
-      "deaths": 4251,
-      "recovered": 252688
+      "deaths": 4278,
+      "recovered": 258822
     }
   },
   "Croatia": {
@@ -541,10 +541,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 269527,
+      "confirmed": 270292,
       "date": "2021-06-10",
-      "deaths": 15437,
-      "recovered": 197832
+      "deaths": 15471,
+      "recovered": 198632
     }
   },
   "Estonia": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 383733,
+      "confirmed": 384512,
       "date": "2021-06-10",
-      "deaths": 6408,
-      "recovered": 369273
+      "deaths": 6413,
+      "recovered": 369857
     }
   },
   "Paraguay": {
@@ -1611,16 +1611,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 670381,
+          "confirmed": 670302,
           "date": "2021-06-10",
-          "deaths": 12535
+          "deaths": 12534
         }
       },
       "California": {
         "live": {
-          "confirmed": 2736350,
+          "confirmed": 2736411,
           "date": "2021-06-10",
-          "deaths": 47949
+          "deaths": 47950
         }
       },
       "Florida": {
