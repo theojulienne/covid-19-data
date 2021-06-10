@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 392975,
+      "confirmed": 396814,
       "date": "2021-06-10",
-      "deaths": 15177,
-      "recovered": 311340
+      "deaths": 15247,
+      "recovered": 313445
     }
   },
   "Bosnia and Herzegovina": {
@@ -1085,10 +1085,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 108173,
+      "confirmed": 108667,
       "date": "2021-06-10",
-      "deaths": 1864,
-      "recovered": 101364
+      "deaths": 1869,
+      "recovered": 101715
     }
   },
   "Latvia": {
@@ -1734,7 +1734,7 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 134519,
+          "confirmed": 134638,
           "date": "2021-06-10",
           "deaths": 4325,
           "recovered": 125783
@@ -1742,7 +1742,7 @@
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 147543,
+          "confirmed": 147671,
           "date": "2021-06-10",
           "deaths": 3390,
           "recovered": 139423
@@ -1750,7 +1750,7 @@
       },
       "Kiev": {
         "live": {
-          "confirmed": 210087,
+          "confirmed": 210303,
           "date": "2021-06-10",
           "deaths": 5136,
           "recovered": 188531
@@ -1758,7 +1758,7 @@
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 126294,
+          "confirmed": 126396,
           "date": "2021-06-10",
           "deaths": 2708,
           "recovered": 121151
@@ -1766,7 +1766,7 @@
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 136580,
+          "confirmed": 136708,
           "date": "2021-06-10",
           "deaths": 3601,
           "recovered": 130717
@@ -1774,7 +1774,7 @@
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 139913,
+          "confirmed": 139976,
           "date": "2021-06-10",
           "deaths": 2926,
           "recovered": 133670
@@ -1782,7 +1782,7 @@
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 103779,
+          "confirmed": 103812,
           "date": "2021-06-10",
           "deaths": 2386,
           "recovered": 99747
