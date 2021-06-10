@@ -401,19 +401,19 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 204093,
-        "deaths": 9270,
-        "recovered": 175456
+        "confirmed": 204172,
+        "deaths": 9303,
+        "recovered": 175704
       },
       "back_2week": {
-        "confirmed": 203513,
-        "deaths": 9168,
-        "recovered": 173187
+        "confirmed": 203658,
+        "deaths": 9184,
+        "recovered": 173487
       },
       "latest": {
-        "confirmed": 204455,
-        "deaths": 9460,
-        "recovered": 176703
+        "confirmed": 204512,
+        "deaths": 9467,
+        "recovered": 176881
       }
     },
     "BLR": {
@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1390979,
-        "deaths": 25546,
+        "confirmed": 1393163,
+        "deaths": 25590,
         "recovered": 1335777
       },
       "back_2week": {
-        "confirmed": 1371941,
-        "deaths": 25269,
+        "confirmed": 1374272,
+        "deaths": 25303,
         "recovered": 1300280
       },
       "latest": {
-        "confirmed": 1402983,
-        "deaths": 25774,
+        "confirmed": 1404443,
+        "deaths": 25816,
         "recovered": 1356098
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 544636,
-          "deaths": 8869
+          "confirmed": 545117,
+          "deaths": 8892
         },
         "Prince Edward Island": {
           "confirmed": 206,
@@ -2827,19 +2827,19 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 217688,
-        "deaths": 560,
-        "recovered": 213632
+        "confirmed": 217882,
+        "deaths": 562,
+        "recovered": 214020
       },
       "back_2week": {
-        "confirmed": 216091,
-        "deaths": 549,
-        "recovered": 211635
+        "confirmed": 216397,
+        "deaths": 552,
+        "recovered": 211896
       },
       "latest": {
-        "confirmed": 218980,
-        "deaths": 570,
-        "recovered": 215899
+        "confirmed": 219138,
+        "deaths": 573,
+        "recovered": 216123
       }
     },
     "RKS": {
