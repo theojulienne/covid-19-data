@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 242796,
+      "confirmed": 243467,
       "date": "2021-06-10",
-      "deaths": 6532,
-      "recovered": 86418
+      "deaths": 6559,
+      "recovered": 86549
     }
   },
   "Hungary": {
