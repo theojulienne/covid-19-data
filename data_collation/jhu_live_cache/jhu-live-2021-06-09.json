@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4008771,
+      "confirmed": 4038528,
       "date": "2021-06-09",
-      "deaths": 82667,
-      "recovered": 3585811
+      "deaths": 83272,
+      "recovered": 3608895
     }
   },
   "Armenia": {
@@ -135,7 +135,7 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 199215,
+          "confirmed": 200000,
           "date": "2021-06-09",
           "deaths": 4922,
           "recovered": 190207
@@ -429,8 +429,8 @@
         "live": {
           "confirmed": 561985,
           "date": "2021-06-09",
-          "deaths": 12410,
-          "recovered": 526620
+          "deaths": 12428,
+          "recovered": 529506
         }
       },
       "Atlantico": {
@@ -454,31 +454,31 @@
           "confirmed": 1031680,
           "date": "2021-06-09",
           "deaths": 19931,
-          "recovered": 934928
+          "recovered": 944398
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 178956,
           "date": "2021-06-09",
-          "deaths": 4729,
-          "recovered": 166757
+          "deaths": 4748,
+          "recovered": 168262
         }
       },
       "Santander": {
         "live": {
           "confirmed": 146276,
           "date": "2021-06-09",
-          "deaths": 4865,
-          "recovered": 131651
+          "deaths": 4890,
+          "recovered": 134289
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 279723,
           "date": "2021-06-09",
-          "deaths": 8884,
-          "recovered": 262789
+          "deaths": 8897,
+          "recovered": 265018
         }
       }
     }
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 127254,
+      "confirmed": 127466,
       "date": "2021-06-09",
       "deaths": 789,
       "recovered": 17998
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 358183,
+      "confirmed": 360285,
       "date": "2021-06-09",
-      "deaths": 13126,
-      "recovered": 314730
+      "deaths": 13229,
+      "recovered": 316004
     }
   },
   "Turkey": {
@@ -1702,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1328617,
+          "confirmed": 1329099,
           "date": "2021-06-09",
           "deaths": 20426
         }
@@ -1716,9 +1716,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 109458,
+          "confirmed": 110688,
           "date": "2021-06-09",
-          "deaths": 1595
+          "deaths": 1604
         }
       },
       "Wisconsin": {
@@ -1836,10 +1836,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 322978,
+      "confirmed": 326405,
       "date": "2021-06-09",
-      "deaths": 4749,
-      "recovered": 283397
+      "deaths": 4816,
+      "recovered": 286472
     }
   },
   "Venezuela": {
