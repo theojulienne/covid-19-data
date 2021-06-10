@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2736638,
           "date": "2021-06-10",
-          "deaths": 47961
+          "deaths": 47969
         }
       },
       "Florida": {
@@ -1702,9 +1702,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1329263,
+          "confirmed": 1329694,
           "date": "2021-06-10",
-          "deaths": 20428
+          "deaths": 20435
         }
       },
       "Utah": {
