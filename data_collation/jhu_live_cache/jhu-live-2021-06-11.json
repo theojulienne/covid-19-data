@@ -1027,7 +1027,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 165231,
+          "confirmed": 165666,
           "date": "2021-06-11",
           "deaths": 2118,
           "recovered": 158857
@@ -1349,10 +1349,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2876667,
+      "confirmed": 2877007,
       "date": "2021-06-11",
-      "deaths": 74447,
-      "recovered": 2647095
+      "deaths": 74515,
+      "recovered": 2647688
     }
   },
   "Portugal": {
@@ -1383,34 +1383,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1214459,
+          "confirmed": 1220312,
           "date": "2021-06-11",
-          "deaths": 20711,
-          "recovered": 1084914
+          "deaths": 20771,
+          "recovered": 1087975
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 278942,
+          "confirmed": 279779,
           "date": "2021-06-11",
-          "deaths": 6240,
-          "recovered": 230011
+          "deaths": 6250,
+          "recovered": 230812
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 119702,
+          "confirmed": 119879,
           "date": "2021-06-11",
-          "deaths": 3782,
-          "recovered": 113670
+          "deaths": 3800,
+          "recovered": 113797
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 448138,
+          "confirmed": 449001,
           "date": "2021-06-11",
-          "deaths": 14760,
-          "recovered": 416973
+          "deaths": 14805,
+          "recovered": 418057
         }
       }
     }
@@ -1433,7 +1433,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 390809,
+      "confirmed": 390893,
       "date": "2021-06-11",
       "deaths": 12433,
       "recovered": 255300
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 699697,
       "date": "2021-06-11",
-      "deaths": 10854,
+      "deaths": 10855,
       "recovered": 317600
     }
   },
