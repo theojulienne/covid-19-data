@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 139668,
+          "confirmed": 139788,
           "date": "2021-06-11",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 131845,
+          "confirmed": 131985,
           "date": "2021-06-11",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 122982,
+          "confirmed": 123078,
           "date": "2021-06-11",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 158354,
+          "confirmed": 158461,
           "date": "2021-06-11",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 129526,
+          "confirmed": 129622,
           "date": "2021-06-11",
           "deaths": 0,
           "recovered": 0
@@ -170,7 +170,7 @@
           "confirmed": 833862,
           "date": "2021-06-11",
           "deaths": 21379,
-          "recovered": 579757
+          "recovered": 582524
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 495177,
           "date": "2021-06-11",
           "deaths": 11087,
-          "recovered": 462967
+          "recovered": 468836
         }
       },
       "Goias": {
@@ -194,7 +194,7 @@
           "confirmed": 632626,
           "date": "2021-06-11",
           "deaths": 17784,
-          "recovered": 599923
+          "recovered": 604010
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 421870,
           "date": "2021-06-11",
           "deaths": 11138,
-          "recovered": 394515
+          "recovered": 398277
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 530248,
           "date": "2021-06-11",
           "deaths": 14864,
-          "recovered": 489673
+          "recovered": 495831
         }
       },
       "Paraiba": {
@@ -266,7 +266,7 @@
           "confirmed": 281493,
           "date": "2021-06-11",
           "deaths": 6159,
-          "recovered": 272836
+          "recovered": 275985
         }
       },
       "Rio Grande do Norte": {
@@ -322,7 +322,7 @@
           "confirmed": 3405481,
           "date": "2021-06-11",
           "deaths": 116693,
-          "recovered": 3048550
+          "recovered": 3064635
         }
       },
       "Sergipe": {
@@ -1135,33 +1135,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 664844,
+          "confirmed": 665860,
           "date": "2021-06-11",
-          "deaths": 34311,
+          "deaths": 34332,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 132252,
+          "confirmed": 132303,
           "date": "2021-06-11",
-          "deaths": 10996,
+          "deaths": 11016,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 253842,
+          "confirmed": 254090,
           "date": "2021-06-11",
-          "deaths": 37058,
+          "deaths": 37074,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 124963,
+          "confirmed": 125075,
           "date": "2021-06-11",
-          "deaths": 9616,
+          "deaths": 9626,
           "recovered": 0
         }
       }
