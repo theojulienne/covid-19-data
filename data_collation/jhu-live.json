@@ -583,7 +583,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 497666,
+          "confirmed": 498032,
           "date": "2021-06-11",
           "deaths": 10062,
           "recovered": 479300
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2737145,
+          "confirmed": 2737178,
           "date": "2021-06-11",
-          "deaths": 47983
+          "deaths": 47984
         }
       },
       "Florida": {
@@ -1662,7 +1662,7 @@
         "live": {
           "confirmed": 253969,
           "date": "2021-06-11",
-          "deaths": 4439
+          "deaths": 4440
         }
       },
       "New Jersey": {
@@ -1723,7 +1723,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117492,
+          "confirmed": 117517,
           "date": "2021-06-11",
           "deaths": 1410
         }
