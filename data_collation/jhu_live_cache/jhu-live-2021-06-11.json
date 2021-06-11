@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 273678,
+      "confirmed": 273892,
       "date": "2021-06-11",
-      "deaths": 4231,
-      "recovered": 249028
+      "deaths": 4235,
+      "recovered": 249471
     }
   },
   "France": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 267447,
+      "confirmed": 269308,
       "date": "2021-06-11",
-      "deaths": 8388,
-      "recovered": 243191
+      "deaths": 8416,
+      "recovered": 244416
     }
   },
   "Honduras": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 323357,
+      "confirmed": 325014,
       "date": "2021-06-11",
-      "deaths": 1810,
-      "recovered": 306232
+      "deaths": 1813,
+      "recovered": 307512
     }
   },
   "Kyrgyzstan": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 362658,
+      "confirmed": 364819,
       "date": "2021-06-11",
-      "deaths": 13305,
-      "recovered": 317758
+      "deaths": 13365,
+      "recovered": 319475
     }
   },
   "Turkey": {
@@ -1702,9 +1702,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1329921,
+          "confirmed": 1330141,
           "date": "2021-06-11",
-          "deaths": 20440
+          "deaths": 20452
         }
       },
       "Utah": {
