@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 396814,
+      "confirmed": 400047,
       "date": "2021-06-11",
-      "deaths": 15247,
-      "recovered": 313445
+      "deaths": 15321,
+      "recovered": 315304
     }
   },
   "Bosnia and Herzegovina": {
@@ -427,58 +427,58 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 567472,
+          "confirmed": 570945,
           "date": "2021-06-11",
-          "deaths": 12526,
-          "recovered": 531415
+          "deaths": 12602,
+          "recovered": 534338
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 278311,
+          "confirmed": 279030,
           "date": "2021-06-11",
-          "deaths": 8642,
-          "recovered": 265584
+          "deaths": 8656,
+          "recovered": 266287
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 111906,
+          "confirmed": 112993,
           "date": "2021-06-11",
-          "deaths": 2143,
-          "recovered": 107645
+          "deaths": 2161,
+          "recovered": 108216
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1047822,
+          "confirmed": 1058524,
           "date": "2021-06-11",
-          "deaths": 20182,
-          "recovered": 952606
+          "deaths": 20323,
+          "recovered": 961475
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 181802,
+          "confirmed": 183631,
           "date": "2021-06-11",
-          "deaths": 4809,
-          "recovered": 169803
+          "deaths": 4832,
+          "recovered": 171576
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 151905,
+          "confirmed": 153932,
           "date": "2021-06-11",
-          "deaths": 4953,
-          "recovered": 137322
+          "deaths": 5001,
+          "recovered": 140290
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 282550,
+          "confirmed": 285002,
           "date": "2021-06-11",
-          "deaths": 8972,
-          "recovered": 266496
+          "deaths": 9029,
+          "recovered": 267685
         }
       }
     }
@@ -583,10 +583,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 497646,
+          "confirmed": 497666,
           "date": "2021-06-11",
-          "deaths": 10063,
-          "recovered": 478900
+          "deaths": 10060,
+          "recovered": 479300
         }
       },
       "Bayern": {
@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 243467,
+      "confirmed": 244295,
       "date": "2021-06-11",
-      "deaths": 6559,
-      "recovered": 86549
+      "deaths": 6567,
+      "recovered": 87302
     }
   },
   "Hungary": {
@@ -699,34 +699,34 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 1779773,
+          "confirmed": 1787883,
           "date": "2021-06-11",
-          "deaths": 11696,
-          "recovered": 1664082
+          "deaths": 11763,
+          "recovered": 1677063
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 446445,
+          "confirmed": 450201,
           "date": "2021-06-11",
-          "deaths": 3793,
-          "recovered": 392806
+          "deaths": 3844,
+          "recovered": 397929
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 715179,
+          "confirmed": 715730,
           "date": "2021-06-11",
-          "deaths": 9429,
+          "deaths": 9452,
           "recovered": 701234
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 983916,
+          "confirmed": 984950,
           "date": "2021-06-11",
-          "deaths": 13271,
-          "recovered": 952532
+          "deaths": 13285,
+          "recovered": 954390
         }
       },
       "Delhi": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 146303,
+      "confirmed": 146859,
       "date": "2021-06-11",
-      "deaths": 1979,
-      "recovered": 136713
+      "deaths": 1981,
+      "recovered": 137224
     }
   },
   "Kosovo": {
@@ -1792,10 +1792,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 591613,
+      "confirmed": 589423,
       "date": "2021-06-11",
-      "deaths": 1717,
-      "recovered": 570960
+      "deaths": 1710,
+      "recovered": 568828
     }
   },
   "United Kingdom": {
