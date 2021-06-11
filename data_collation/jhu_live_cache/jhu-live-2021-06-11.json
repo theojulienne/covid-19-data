@@ -390,7 +390,7 @@
           "confirmed": 372476,
           "date": "2021-06-11",
           "deaths": 11166,
-          "recovered": 358849
+          "recovered": 359104
         }
       }
     }
@@ -541,10 +541,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 270292,
+      "confirmed": 271047,
       "date": "2021-06-11",
-      "deaths": 15471,
-      "recovered": 198632
+      "deaths": 15510,
+      "recovered": 199285
     }
   },
   "Estonia": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 265662,
+      "confirmed": 267447,
       "date": "2021-06-11",
-      "deaths": 8361,
-      "recovered": 242033
+      "deaths": 8388,
+      "recovered": 243191
     }
   },
   "Honduras": {
@@ -1313,18 +1313,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 384512,
+      "confirmed": 385353,
       "date": "2021-06-11",
-      "deaths": 6413,
-      "recovered": 369857
+      "deaths": 6419,
+      "recovered": 370485
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 382231,
+      "confirmed": 384989,
       "date": "2021-06-11",
-      "deaths": 10278,
-      "recovered": 314155
+      "deaths": 10412,
+      "recovered": 316857
     }
   },
   "Peru": {
