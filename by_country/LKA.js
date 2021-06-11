@@ -1524,7 +1524,8 @@ var covid19_dataset_country_lka = {
       1789,
       1844,
       1910,
-      1910
+      1910,
+      2011
     ],
     "recovered": [
       0,
