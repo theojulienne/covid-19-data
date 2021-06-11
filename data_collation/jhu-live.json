@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 601687,
+      "confirmed": 604396,
       "date": "2021-06-11",
-      "deaths": 8238,
-      "recovered": 515591
+      "deaths": 8305,
+      "recovered": 520816
     }
   },
   "Netherlands": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 256103,
+      "confirmed": 256224,
       "date": "2021-06-11",
-      "deaths": 4393,
-      "recovered": 248459
+      "deaths": 4398,
+      "recovered": 248743
     }
   },
   "South Africa": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 699697,
       "date": "2021-06-11",
-      "deaths": 10857,
+      "deaths": 10858,
       "recovered": 317600
     }
   },
