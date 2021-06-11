@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 132355,
+      "confirmed": 132727,
       "date": "2021-06-11",
-      "deaths": 3552,
-      "recovered": 92132
+      "deaths": 3560,
+      "recovered": 92384
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 334992,
+      "confirmed": 335065,
       "date": "2021-06-11",
       "deaths": 4951,
-      "recovered": 327907
+      "recovered": 328194
     }
   },
   "Bahrain": {
@@ -226,7 +226,7 @@
           "confirmed": 1657147,
           "date": "2021-06-11",
           "deaths": 42319,
-          "recovered": 1522063
+          "recovered": 1531043
         }
       },
       "Para": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 546005,
+          "confirmed": 546096,
           "date": "2021-06-11",
-          "deaths": 8907,
-          "recovered": 530869
+          "deaths": 8908,
+          "recovered": 531029
         }
       },
       "Quebec": {
@@ -533,9 +533,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 436023,
+      "confirmed": 437121,
       "date": "2021-06-11",
-      "deaths": 20949,
+      "deaths": 20997,
       "recovered": 398645
     }
   },
@@ -565,10 +565,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5667993,
+      "confirmed": 5671864,
       "date": "2021-06-11",
-      "deaths": 109398,
-      "recovered": 336579
+      "deaths": 109472,
+      "recovered": 337201
     }
   },
   "Georgia": {
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 265739,
+      "confirmed": 266058,
       "date": "2021-06-11",
       "deaths": 4941,
       "recovered": 23364
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 522765,
+      "confirmed": 523165,
       "date": "2021-06-11",
-      "deaths": 9192,
-      "recovered": 510299
+      "deaths": 9202,
+      "recovered": 510623
     }
   },
   "Nepal": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 127676,
+      "confirmed": 127763,
       "date": "2021-06-11",
       "deaths": 789,
       "recovered": 17998
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1722086,
+      "confirmed": 1730106,
       "date": "2021-06-11",
-      "deaths": 57410,
-      "recovered": 1593059
+      "deaths": 57592,
+      "recovered": 1598293
     }
   },
   "Spain": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 216134,
+      "confirmed": 218366,
       "date": "2021-06-11",
       "deaths": 2011,
-      "recovered": 182238
+      "recovered": 184090
     }
   },
   "Sweden": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2737132,
+          "confirmed": 2737145,
           "date": "2021-06-11",
           "deaths": 47983
         }
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 555488,
+          "confirmed": 555646,
           "date": "2021-06-11",
-          "deaths": 10399
+          "deaths": 10410
         }
       },
       "Massachusetts": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 283376,
+          "confirmed": 283520,
           "date": "2021-06-11",
-          "deaths": 7507
+          "deaths": 7510
         }
       },
       "Minnesota": {
@@ -1660,7 +1660,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 253754,
+          "confirmed": 253969,
           "date": "2021-06-11",
           "deaths": 4439
         }
@@ -1674,9 +1674,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1392592,
+          "confirmed": 1393059,
           "date": "2021-06-11",
-          "deaths": 40323
+          "deaths": 40337
         }
       },
       "North Carolina": {
@@ -1688,9 +1688,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 243866,
+          "confirmed": 243944,
           "date": "2021-06-11",
-          "deaths": 3645
+          "deaths": 3663
         }
       },
       "Pennsylvania": {
