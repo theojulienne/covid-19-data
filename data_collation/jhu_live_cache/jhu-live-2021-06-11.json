@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 545692,
+          "confirmed": 545985,
           "date": "2021-06-11",
-          "deaths": 8906,
-          "recovered": 530546
+          "deaths": 8907,
+          "recovered": 530834
         }
       },
       "Quebec": {
@@ -639,9 +639,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154321,
+          "confirmed": 154410,
           "date": "2021-06-11",
-          "deaths": 3771,
+          "deaths": 3783,
           "recovered": 148200
         }
       },
@@ -909,10 +909,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1242540,
+      "confirmed": 1246860,
       "date": "2021-06-11",
-      "deaths": 16648,
-      "recovered": 1159973
+      "deaths": 16668,
+      "recovered": 1164103
     }
   },
   "Ireland": {
@@ -1195,7 +1195,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 186949,
+          "confirmed": 187118,
           "date": "2021-06-11",
           "deaths": 2025,
           "recovered": 0
@@ -1203,7 +1203,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 114821,
+          "confirmed": 114932,
           "date": "2021-06-11",
           "deaths": 1648,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 270690,
+          "confirmed": 270903,
           "date": "2021-06-11",
           "deaths": 3133,
           "recovered": 0
@@ -1219,15 +1219,15 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 275506,
+          "confirmed": 275664,
           "date": "2021-06-11",
-          "deaths": 2616,
+          "deaths": 2618,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 109358,
+          "confirmed": 109427,
           "date": "2021-06-11",
           "deaths": 1135,
           "recovered": 0
@@ -1235,7 +1235,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 127347,
+          "confirmed": 127446,
           "date": "2021-06-11",
           "deaths": 1280,
           "recovered": 0
@@ -1243,9 +1243,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 397756,
+          "confirmed": 398172,
           "date": "2021-06-11",
-          "deaths": 4269,
+          "deaths": 4270,
           "recovered": 0
         }
       }
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 219281,
+      "confirmed": 219466,
       "date": "2021-06-11",
       "deaths": 574,
-      "recovered": 216301
+      "recovered": 216483
     }
   },
   "Romania": {
@@ -1417,17 +1417,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 461242,
+      "confirmed": 463703,
       "date": "2021-06-11",
-      "deaths": 7503,
-      "recovered": 443810
+      "deaths": 7537,
+      "recovered": 446054
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 714462,
+      "confirmed": 714634,
       "date": "2021-06-11",
-      "deaths": 6945,
+      "deaths": 6951,
       "recovered": 0
     }
   },
