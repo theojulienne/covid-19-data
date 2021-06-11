@@ -1,10 +1,10 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 132426,
+      "confirmed": 132437,
       "date": "2021-06-11",
-      "deaths": 2452,
-      "recovered": 129785
+      "deaths": 2453,
+      "recovered": 129807
     }
   },
   "Algeria": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839650,
+      "confirmed": 839653,
       "date": "2021-06-11",
       "deaths": 6428,
-      "recovered": 832898
+      "recovered": 832905
     }
   },
   "Italy": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 541940,
+      "confirmed": 542375,
       "date": "2021-06-11",
-      "deaths": 7780,
-      "recovered": 525065
+      "deaths": 7790,
+      "recovered": 526598
     }
   },
   "Libya": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 700051,
       "date": "2021-06-11",
-      "deaths": 10858,
+      "deaths": 10859,
       "recovered": 317600
     }
   },
@@ -1702,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1329821,
+          "confirmed": 1329837,
           "date": "2021-06-11",
           "deaths": 20435
         }
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 105909,
+      "confirmed": 107974,
       "date": "2021-06-11",
-      "deaths": 1332,
-      "recovered": 94995
+      "deaths": 1348,
+      "recovered": 95674
     }
   }
 }
