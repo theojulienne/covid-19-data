@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 647971,
+      "confirmed": 648187,
       "date": "2021-06-11",
-      "deaths": 10650,
-      "recovered": 632660
+      "deaths": 10652,
+      "recovered": 633105
     }
   },
   "Azerbaijan": {
@@ -65,10 +65,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 402819,
+      "confirmed": 403845,
       "date": "2021-06-11",
-      "deaths": 2949,
-      "recovered": 395463
+      "deaths": 2958,
+      "recovered": 396650
     }
   },
   "Belgium": {
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3003112,
+      "confirmed": 3013078,
       "date": "2021-06-11",
-      "deaths": 81672,
-      "recovered": 2612091
+      "deaths": 81796,
+      "recovered": 2624802
     }
   },
   "Iraq": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 639562,
+      "confirmed": 646411,
       "date": "2021-06-11",
-      "deaths": 3684,
-      "recovered": 556030
+      "deaths": 3768,
+      "recovered": 563779
     }
   },
   "Mexico": {
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 890539,
+          "confirmed": 891716,
           "date": "2021-06-11",
-          "deaths": 85079,
+          "deaths": 85186,
           "recovered": 0
         }
       }
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1079427,
+      "confirmed": 1079530,
       "date": "2021-06-11",
-      "deaths": 31531,
-      "recovered": 1043604
+      "deaths": 31681,
+      "recovered": 1043803
     }
   },
   "Russia": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 699697,
       "date": "2021-06-11",
-      "deaths": 10856,
+      "deaths": 10857,
       "recovered": 317600
     }
   },
@@ -1792,10 +1792,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 591613,
+      "confirmed": 593894,
       "date": "2021-06-11",
-      "deaths": 1717,
-      "recovered": 570960
+      "deaths": 1720,
+      "recovered": 573194
     }
   },
   "United Kingdom": {
