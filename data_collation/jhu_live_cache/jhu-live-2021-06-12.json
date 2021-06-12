@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839653,
+      "confirmed": 839661,
       "date": "2021-06-12",
       "deaths": 6428,
-      "recovered": 832905
+      "recovered": 832909
     }
   },
   "Italy": {
@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2737633,
           "date": "2021-06-12",
-          "deaths": 48008
+          "deaths": 48002
         }
       },
       "Florida": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 283520,
+          "confirmed": 283605,
           "date": "2021-06-12",
-          "deaths": 7510
+          "deaths": 7532
         }
       },
       "Minnesota": {
