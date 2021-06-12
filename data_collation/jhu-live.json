@@ -226,7 +226,7 @@
           "confirmed": 1667905,
           "date": "2021-06-12",
           "deaths": 42589,
-          "recovered": 1531043
+          "recovered": 1541704
         }
       },
       "Para": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 670860,
+          "confirmed": 671304,
           "date": "2021-06-12",
-          "deaths": 12551
+          "deaths": 12566
         }
       },
       "California": {
