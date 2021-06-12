@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 230119,
+          "confirmed": 230298,
           "date": "2021-06-12",
-          "deaths": 2265,
-          "recovered": 224325
+          "deaths": 2269,
+          "recovered": 224782
         }
       },
       "British Columbia": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 273892,
+      "confirmed": 274028,
       "date": "2021-06-12",
-      "deaths": 4235,
-      "recovered": 249471
+      "deaths": 4237,
+      "recovered": 250089
     }
   },
   "France": {
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 891716,
+          "confirmed": 892420,
           "date": "2021-06-12",
-          "deaths": 85186,
+          "deaths": 85263,
           "recovered": 0
         }
       }
@@ -1639,7 +1639,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135151,
+          "confirmed": 135172,
           "date": "2021-06-12",
           "deaths": 3770
         }
@@ -1674,7 +1674,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1393164,
+          "confirmed": 1393335,
           "date": "2021-06-12",
           "deaths": 40348
         }
@@ -1704,7 +1704,7 @@
         "live": {
           "confirmed": 1330260,
           "date": "2021-06-12",
-          "deaths": 20452
+          "deaths": 20457
         }
       },
       "Utah": {
@@ -1716,7 +1716,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 110911,
+          "confirmed": 111022,
           "date": "2021-06-12",
           "deaths": 1614
         }
