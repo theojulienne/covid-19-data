@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4066156,
+      "confirmed": 4093090,
       "date": "2021-06-11",
-      "deaths": 83941,
-      "recovered": 3639402
+      "deaths": 84628,
+      "recovered": 3668672
     }
   },
   "Armenia": {
@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 255954,
+      "confirmed": 256921,
       "date": "2021-06-11",
-      "deaths": 1188,
-      "recovered": 238540
+      "deaths": 1196,
+      "recovered": 240529
     }
   },
   "Bangladesh": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 166982,
+      "confirmed": 167051,
       "date": "2021-06-11",
       "deaths": 2117,
-      "recovered": 163331
+      "recovered": 163430
     }
   },
   "North Macedonia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 127763,
+      "confirmed": 127874,
       "date": "2021-06-11",
       "deaths": 789,
       "recovered": 17998
@@ -1836,10 +1836,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 330027,
+      "confirmed": 333484,
       "date": "2021-06-11",
-      "deaths": 4862,
-      "recovered": 289754
+      "deaths": 4906,
+      "recovered": 293332
     }
   },
   "Venezuela": {
