@@ -573,10 +573,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 352649,
+      "confirmed": 353443,
       "date": "2021-06-12",
-      "deaths": 5012,
-      "recovered": 337820
+      "deaths": 5034,
+      "recovered": 338318
     }
   },
   "Germany": {
