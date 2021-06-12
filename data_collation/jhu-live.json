@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 456283,
+      "confirmed": 456346,
       "date": "2021-06-12",
-      "deaths": 3484,
-      "recovered": 427065
+      "deaths": 3487,
+      "recovered": 427095
     }
   },
   "Kenya": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 135383,
+          "confirmed": 135569,
           "date": "2021-06-12",
-          "deaths": 4194,
-          "recovered": 127464
+          "deaths": 4203,
+          "recovered": 127820
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 343499,
+          "confirmed": 343703,
           "date": "2021-06-12",
-          "deaths": 10457,
-          "recovered": 320912
+          "deaths": 10479,
+          "recovered": 321422
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 326413,
+          "confirmed": 327021,
           "date": "2021-06-12",
-          "deaths": 5196,
-          "recovered": 297546
+          "deaths": 5220,
+          "recovered": 298344
         }
       }
     }
@@ -1844,10 +1844,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 247847,
+      "confirmed": 248820,
       "date": "2021-06-12",
-      "deaths": 2781,
-      "recovered": 227699
+      "deaths": 2797,
+      "recovered": 228998
     }
   },
   "West Bank and Gaza": {
