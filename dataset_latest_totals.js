@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 222978,
+        "confirmed": 223050,
         "deaths": 4448,
-        "recovered": 213813
+        "recovered": 214059
       },
       "back_2week": {
-        "confirmed": 222409,
+        "confirmed": 222513,
         "deaths": 4416,
-        "recovered": 212265
+        "recovered": 212566
       },
       "latest": {
-        "confirmed": 223460,
+        "confirmed": 223555,
         "deaths": 4478,
-        "recovered": 214857
+        "recovered": 214998
       }
     },
     "ATG": {
@@ -1047,19 +1047,19 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1662608,
-        "deaths": 30136,
-        "recovered": 1622876
+        "confirmed": 1663040,
+        "deaths": 30142,
+        "recovered": 1623286
       },
       "back_2week": {
-        "confirmed": 1659980,
-        "deaths": 30059,
-        "recovered": 1614915
+        "confirmed": 1660481,
+        "deaths": 30088,
+        "recovered": 1615008
       },
       "latest": {
-        "confirmed": 1664649,
-        "deaths": 30211,
-        "recovered": 1628170
+        "confirmed": 1664839,
+        "deaths": 30219,
+        "recovered": 1628416
       }
     },
     "DEU": {
@@ -2176,19 +2176,19 @@ var covid19_dataset_latest_totals = {
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 275545,
-        "deaths": 4289,
-        "recovered": 257675
+        "confirmed": 275915,
+        "deaths": 4297,
+        "recovered": 258341
       },
       "back_2week": {
-        "confirmed": 272826,
-        "deaths": 4229,
-        "recovered": 251709
+        "confirmed": 273346,
+        "deaths": 4235,
+        "recovered": 252582
       },
       "latest": {
-        "confirmed": 277222,
-        "deaths": 4327,
-        "recovered": 261916
+        "confirmed": 277379,
+        "deaths": 4330,
+        "recovered": 262140
       }
     },
     "LUX": {

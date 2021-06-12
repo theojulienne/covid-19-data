@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 223555,
+      "confirmed": 223643,
       "date": "2021-06-12",
       "deaths": 4482,
-      "recovered": 214998
+      "recovered": 215118
     }
   },
   "Austria": {
@@ -509,10 +509,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1664839,
+      "confirmed": 1665022,
       "date": "2021-06-12",
-      "deaths": 30219,
-      "recovered": 1628416
+      "deaths": 30224,
+      "recovered": 1629375
     }
   },
   "Denmark": {
@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 277379,
+      "confirmed": 277623,
       "date": "2021-06-12",
-      "deaths": 4330,
-      "recovered": 262140
+      "deaths": 4335,
+      "recovered": 263216
     }
   },
   "Malaysia": {
