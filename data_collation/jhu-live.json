@@ -138,7 +138,7 @@
           "confirmed": 202492,
           "date": "2021-06-13",
           "deaths": 4984,
-          "recovered": 190207
+          "recovered": 193222
         }
       },
       "Amapa": {
@@ -162,7 +162,7 @@
           "confirmed": 1062742,
           "date": "2021-06-13",
           "deaths": 22425,
-          "recovered": 1021005
+          "recovered": 1028604
         }
       },
       "Ceara": {
@@ -194,7 +194,7 @@
           "confirmed": 637861,
           "date": "2021-06-13",
           "deaths": 17928,
-          "recovered": 606505
+          "recovered": 608643
         }
       },
       "Maranhao": {
@@ -290,7 +290,7 @@
           "confirmed": 905229,
           "date": "2021-06-13",
           "deaths": 52927,
-          "recovered": 841026
+          "recovered": 842522
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 107348,
           "date": "2021-06-13",
           "deaths": 1679,
-          "recovered": 99861
+          "recovered": 101156
         }
       },
       "Santa Catarina": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 547021,
+          "confirmed": 547034,
           "date": "2021-06-13",
           "deaths": 8920,
-          "recovered": 532300
+          "recovered": 532339
         }
       },
       "Quebec": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 271131,
+      "confirmed": 271703,
       "date": "2021-06-13",
-      "deaths": 8439,
-      "recovered": 245610
+      "deaths": 8455,
+      "recovered": 246426
     }
   },
   "Honduras": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839664,
+      "confirmed": 839666,
       "date": "2021-06-13",
       "deaths": 6430,
-      "recovered": 832927
+      "recovered": 832931
     }
   },
   "Italy": {
@@ -1061,10 +1061,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107125,
+      "confirmed": 107170,
       "date": "2021-06-13",
-      "deaths": 2252,
-      "recovered": 104238
+      "deaths": 2255,
+      "recovered": 104678
     }
   },
   "Kuwait": {
