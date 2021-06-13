@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 133070,
+      "confirmed": 133388,
       "date": "2021-06-13",
-      "deaths": 3565,
-      "recovered": 92620
+      "deaths": 3571,
+      "recovered": 92852
     }
   },
   "Argentina": {
@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 335126,
+      "confirmed": 335171,
       "date": "2021-06-13",
       "deaths": 4953,
-      "recovered": 328398
+      "recovered": 328580
     }
   },
   "Bahrain": {
@@ -178,7 +178,7 @@
           "confirmed": 416129,
           "date": "2021-06-13",
           "deaths": 8937,
-          "recovered": 395333
+          "recovered": 398721
         }
       },
       "Espirito Santo": {
@@ -226,7 +226,7 @@
           "confirmed": 1678558,
           "date": "2021-06-13",
           "deaths": 42872,
-          "recovered": 1541704
+          "recovered": 1545235
         }
       },
       "Para": {
@@ -298,7 +298,7 @@
           "confirmed": 237788,
           "date": "2021-06-13",
           "deaths": 5910,
-          "recovered": 220854
+          "recovered": 224353
         }
       },
       "Roraima": {
@@ -314,7 +314,7 @@
           "confirmed": 1004794,
           "date": "2021-06-13",
           "deaths": 15937,
-          "recovered": 953007
+          "recovered": 964697
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 250542,
           "date": "2021-06-13",
           "deaths": 5365,
-          "recovered": 219529
+          "recovered": 230141
         }
       },
       "Tocantins": {
@@ -565,10 +565,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5675604,
+      "confirmed": 5678209,
       "date": "2021-06-13",
-      "deaths": 109503,
-      "recovered": 337566
+      "deaths": 109509,
+      "recovered": 337668
     }
   },
   "Georgia": {
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 266489,
+      "confirmed": 266804,
       "date": "2021-06-13",
       "deaths": 4941,
       "recovered": 23364
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1739425,
+      "confirmed": 1747082,
       "date": "2021-06-13",
-      "deaths": 57706,
-      "recovered": 1602406
+      "deaths": 57765,
+      "recovered": 1606581
     }
   },
   "Spain": {
@@ -1593,10 +1593,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5325435,
+      "confirmed": 5330447,
       "date": "2021-06-13",
-      "deaths": 48668,
-      "recovered": 5198057
+      "deaths": 48721,
+      "recovered": 5202251
     }
   },
   "US": {
@@ -1610,7 +1610,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2737950,
+          "confirmed": 2737967,
           "date": "2021-06-13",
           "deaths": 48006
         }
@@ -1624,9 +1624,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 555734,
+          "confirmed": 555850,
           "date": "2021-06-13",
-          "deaths": 10419
+          "deaths": 10423
         }
       },
       "Massachusetts": {
@@ -1666,7 +1666,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1393450,
+          "confirmed": 1393559,
           "date": "2021-06-13",
           "deaths": 40353
         }
@@ -1680,7 +1680,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 244039,
+          "confirmed": 244089,
           "date": "2021-06-13",
           "deaths": 3663
         }
