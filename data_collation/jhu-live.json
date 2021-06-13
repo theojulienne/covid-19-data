@@ -49,10 +49,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 256921,
+      "confirmed": 257852,
       "date": "2021-06-13",
-      "deaths": 1196,
-      "recovered": 240529
+      "deaths": 1206,
+      "recovered": 242678
     }
   },
   "Bangladesh": {
@@ -541,10 +541,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 271780,
+      "confirmed": 272491,
       "date": "2021-06-13",
-      "deaths": 15547,
-      "recovered": 199840
+      "deaths": 15582,
+      "recovered": 200273
     }
   },
   "Estonia": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 269308,
+      "confirmed": 271131,
       "date": "2021-06-13",
-      "deaths": 8416,
-      "recovered": 244416
+      "deaths": 8439,
+      "recovered": 245610
     }
   },
   "Honduras": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 167051,
+      "confirmed": 167059,
       "date": "2021-06-13",
       "deaths": 2117,
-      "recovered": 163430
+      "recovered": 163436
     }
   },
   "North Macedonia": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 386269,
+      "confirmed": 387127,
       "date": "2021-06-13",
-      "deaths": 6427,
-      "recovered": 371015
+      "deaths": 6439,
+      "recovered": 371597
     }
   },
   "Paraguay": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2737633,
+          "confirmed": 2737865,
           "date": "2021-06-13",
-          "deaths": 48002
+          "deaths": 48004
         }
       },
       "Florida": {
