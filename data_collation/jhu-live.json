@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 546987,
+          "confirmed": 547021,
           "date": "2021-06-13",
           "deaths": 8920,
-          "recovered": 532262
+          "recovered": 532300
         }
       },
       "Quebec": {
@@ -493,7 +493,7 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 358504,
+      "confirmed": 358563,
       "date": "2021-06-13",
       "deaths": 8132,
       "recovered": 349244
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 274028,
+      "confirmed": 274187,
       "date": "2021-06-13",
-      "deaths": 4237,
-      "recovered": 250089
+      "deaths": 4242,
+      "recovered": 250664
     }
   },
   "France": {
@@ -583,7 +583,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 498259,
+          "confirmed": 498142,
           "date": "2021-06-13",
           "deaths": 10074,
           "recovered": 480600
@@ -1701,7 +1701,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 151929,
+          "confirmed": 151991,
           "date": "2021-06-13",
           "deaths": 896
         }
