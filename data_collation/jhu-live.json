@@ -973,14 +973,6 @@
           "recovered": 787042
         }
       },
-      "Marche": {
-        "live": {
-          "confirmed": 103378,
-          "date": "2021-06-13",
-          "deaths": 3025,
-          "recovered": 97483
-        }
-      },
       "Piemonte": {
         "live": {
           "confirmed": 362087,
@@ -1840,6 +1832,14 @@
       "date": "2021-06-13",
       "deaths": 4956,
       "recovered": 296855
+    }
+  },
+  "Uzbekistan": {
+    "live": {
+      "confirmed": 103510,
+      "date": "2021-06-13",
+      "deaths": 708,
+      "recovered": 99416
     }
   },
   "Venezuela": {
