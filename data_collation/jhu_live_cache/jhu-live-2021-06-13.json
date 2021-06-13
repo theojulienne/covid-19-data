@@ -202,7 +202,7 @@
           "confirmed": 301017,
           "date": "2021-06-13",
           "deaths": 8511,
-          "recovered": 258985
+          "recovered": 263493
         }
       },
       "Mato Grosso": {
@@ -250,7 +250,7 @@
           "confirmed": 1147348,
           "date": "2021-06-13",
           "deaths": 28086,
-          "recovered": 788060
+          "recovered": 802945
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 905229,
           "date": "2021-06-13",
           "deaths": 52927,
-          "recovered": 831268
+          "recovered": 841026
         }
       },
       "Rondonia": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 289559,
+      "confirmed": 289874,
       "date": "2021-06-13",
       "deaths": 2525,
-      "recovered": 277448
+      "recovered": 278256
     }
   },
   "Dominican Republic": {
@@ -591,9 +591,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 645009,
+          "confirmed": 645010,
           "date": "2021-06-13",
-          "deaths": 15101,
+          "deaths": 15100,
           "recovered": 623400
         }
       },

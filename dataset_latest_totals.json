@@ -1115,19 +1115,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 285044,
+        "confirmed": 285636,
         "deaths": 2517,
-        "recovered": 269956
+        "recovered": 270784
       },
       "back_2week": {
-        "confirmed": 278396,
+        "confirmed": 279434,
         "deaths": 2512,
-        "recovered": 262748
+        "recovered": 263618
       },
       "latest": {
-        "confirmed": 289122,
+        "confirmed": 289559,
         "deaths": 2523,
-        "recovered": 276517
+        "recovered": 277448
       },
       "states": {
         "Faroe Islands": {
