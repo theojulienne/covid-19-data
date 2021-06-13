@@ -1178,18 +1178,18 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 430739,
-        "deaths": 20755,
+        "confirmed": 431429,
+        "deaths": 20773,
         "recovered": 375151
       },
       "back_2week": {
-        "confirmed": 423165,
-        "deaths": 20408,
+        "confirmed": 424741,
+        "deaths": 20485,
         "recovered": 366425
       },
       "latest": {
-        "confirmed": 437121,
-        "deaths": 20997,
+        "confirmed": 438108,
+        "deaths": 21018,
         "recovered": 398645
       }
     },
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 314569,
-        "deaths": 1787,
-        "recovered": 298485
+        "confirmed": 315900,
+        "deaths": 1794,
+        "recovered": 299795
       },
       "back_2week": {
-        "confirmed": 305583,
-        "deaths": 1760,
-        "recovered": 290377
+        "confirmed": 306717,
+        "deaths": 1764,
+        "recovered": 291521
       },
       "latest": {
-        "confirmed": 325014,
-        "deaths": 1813,
-        "recovered": 307512
+        "confirmed": 326451,
+        "deaths": 1817,
+        "recovered": 308829
       }
     },
     "LAO": {

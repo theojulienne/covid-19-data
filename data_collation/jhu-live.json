@@ -533,9 +533,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 438108,
+      "confirmed": 438934,
       "date": "2021-06-13",
-      "deaths": 21018,
+      "deaths": 21048,
       "recovered": 398645
     }
   },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 326451,
+      "confirmed": 327963,
       "date": "2021-06-13",
-      "deaths": 1817,
-      "recovered": 308829
+      "deaths": 1820,
+      "recovered": 310095
     }
   },
   "Kyrgyzstan": {
