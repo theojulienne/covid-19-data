@@ -2640,19 +2640,19 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 581560,
-        "deaths": 7731,
-        "recovered": 476130
+        "confirmed": 585100,
+        "deaths": 7799,
+        "recovered": 484373
       },
       "back_2week": {
-        "confirmed": 549111,
-        "deaths": 7047,
-        "recovered": 428670
+        "confirmed": 553422,
+        "deaths": 7163,
+        "recovered": 434750
       },
       "latest": {
-        "confirmed": 604396,
-        "deaths": 8305,
-        "recovered": 520816
+        "confirmed": 606778,
+        "deaths": 8366,
+        "recovered": 527111
       }
     },
     "NZL": {
