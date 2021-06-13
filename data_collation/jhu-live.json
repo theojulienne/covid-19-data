@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 824486,
+      "confirmed": 826922,
       "date": "2021-06-13",
-      "deaths": 13071,
-      "recovered": 764024
+      "deaths": 13118,
+      "recovered": 766266
     }
   },
   "Belarus": {
@@ -353,10 +353,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 145230,
+      "confirmed": 145603,
       "date": "2021-06-13",
-      "deaths": 3241,
-      "recovered": 132830
+      "deaths": 3244,
+      "recovered": 132928
     }
   },
   "Canada": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 546905,
+          "confirmed": 546987,
           "date": "2021-06-13",
           "deaths": 8920,
-          "recovered": 532080
+          "recovered": 532262
         }
       },
       "Quebec": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839663,
+      "confirmed": 839664,
       "date": "2021-06-13",
       "deaths": 6430,
-      "recovered": 832922
+      "recovered": 832927
     }
   },
   "Italy": {
@@ -1169,10 +1169,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 523620,
+      "confirmed": 523890,
       "date": "2021-06-13",
-      "deaths": 9207,
-      "recovered": 510958
+      "deaths": 9211,
+      "recovered": 511126
     }
   },
   "Nepal": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 127986,
+      "confirmed": 128046,
       "date": "2021-06-13",
       "deaths": 789,
       "recovered": 17998
@@ -1533,7 +1533,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 223163,
+      "confirmed": 223638,
       "date": "2021-06-13",
       "deaths": 2136,
       "recovered": 188547
@@ -1610,9 +1610,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2737865,
+          "confirmed": 2737950,
           "date": "2021-06-13",
-          "deaths": 48004
+          "deaths": 48006
         }
       },
       "Florida": {
@@ -1645,9 +1645,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 124736,
+          "confirmed": 124765,
           "date": "2021-06-13",
-          "deaths": 1769
+          "deaths": 1771
         }
       },
       "Nevada": {
@@ -1666,9 +1666,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1393335,
+          "confirmed": 1393450,
           "date": "2021-06-13",
-          "deaths": 40348
+          "deaths": 40353
         }
       },
       "North Carolina": {
