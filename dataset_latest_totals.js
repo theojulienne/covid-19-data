@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 419180,
-        "deaths": 17792,
-        "recovered": 385271
+        "confirmed": 419337,
+        "deaths": 17810,
+        "recovered": 385931
       },
       "back_2week": {
-        "confirmed": 417819,
-        "deaths": 17637,
-        "recovered": 379156
+        "confirmed": 418106,
+        "deaths": 17652,
+        "recovered": 380254
       },
       "latest": {
-        "confirmed": 420090,
-        "deaths": 17887,
-        "recovered": 388585
+        "confirmed": 420213,
+        "deaths": 17893,
+        "recovered": 389368
       }
     },
     "BHR": {
@@ -2023,19 +2023,19 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 313289,
-        "deaths": 1783,
-        "recovered": 297329
+        "confirmed": 314569,
+        "deaths": 1787,
+        "recovered": 298485
       },
       "back_2week": {
-        "confirmed": 304199,
-        "deaths": 1755,
-        "recovered": 289367
+        "confirmed": 305583,
+        "deaths": 1760,
+        "recovered": 290377
       },
       "latest": {
-        "confirmed": 323357,
-        "deaths": 1810,
-        "recovered": 306232
+        "confirmed": 325014,
+        "deaths": 1813,
+        "recovered": 307512
       }
     },
     "LAO": {
@@ -3320,19 +3320,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 350487,
-        "deaths": 12839,
-        "recovered": 307778
+        "confirmed": 352303,
+        "deaths": 12902,
+        "recovered": 309126
       },
       "back_2week": {
-        "confirmed": 340250,
-        "deaths": 12451,
-        "recovered": 299331
+        "confirmed": 341952,
+        "deaths": 12513,
+        "recovered": 299771
       },
       "latest": {
-        "confirmed": 362658,
-        "deaths": 13305,
-        "recovered": 317758
+        "confirmed": 364819,
+        "deaths": 13365,
+        "recovered": 319475
       }
     },
     "TUR": {
