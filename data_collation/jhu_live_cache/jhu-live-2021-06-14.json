@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 648620,
+      "confirmed": 648732,
       "date": "2021-06-14",
-      "deaths": 10661,
-      "recovered": 633939
+      "deaths": 10662,
+      "recovered": 634123
     }
   },
   "Azerbaijan": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 826922,
+      "confirmed": 829972,
       "date": "2021-06-14",
-      "deaths": 13118,
-      "recovered": 766266
+      "deaths": 13172,
+      "recovered": 768830
     }
   },
   "Belarus": {
@@ -146,7 +146,7 @@
           "confirmed": 113940,
           "date": "2021-06-14",
           "deaths": 1762,
-          "recovered": 89782
+          "recovered": 90692
         }
       },
       "Amazonas": {
@@ -202,7 +202,7 @@
           "confirmed": 301238,
           "date": "2021-06-14",
           "deaths": 8544,
-          "recovered": 263493
+          "recovered": 263681
         }
       },
       "Mato Grosso": {
@@ -298,7 +298,7 @@
           "confirmed": 238112,
           "date": "2021-06-14",
           "deaths": 5916,
-          "recovered": 224353
+          "recovered": 224510
         }
       },
       "Roraima": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 289874,
+      "confirmed": 290111,
       "date": "2021-06-14",
-      "deaths": 2525,
-      "recovered": 278256
+      "deaths": 2526,
+      "recovered": 279072
     }
   },
   "Dominican Republic": {
@@ -591,10 +591,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 645161,
+          "confirmed": 645164,
           "date": "2021-06-14",
-          "deaths": 15100,
-          "recovered": 623800
+          "deaths": 15101,
+          "recovered": 623500
         }
       },
       "Berlin": {
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3028717,
+      "confirmed": 3039432,
       "date": "2021-06-14",
-      "deaths": 82098,
-      "recovered": 2652792
+      "deaths": 82217,
+      "recovered": 2666601
     }
   },
   "Iraq": {
@@ -1101,10 +1101,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 189059,
+      "confirmed": 189284,
       "date": "2021-06-14",
-      "deaths": 3161,
-      "recovered": 174666
+      "deaths": 3165,
+      "recovered": 174976
     }
   },
   "Lithuania": {
