@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4111147,
+      "confirmed": 4124190,
       "date": "2021-06-13",
-      "deaths": 85075,
-      "recovered": 3695288
+      "deaths": 85343,
+      "recovered": 3721350
     }
   },
   "Armenia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 420294,
+      "confirmed": 420336,
       "date": "2021-06-13",
-      "deaths": 17898,
-      "recovered": 389402
+      "deaths": 17900,
+      "recovered": 389495
     }
   },
   "Burma": {
@@ -390,7 +390,7 @@
           "confirmed": 372989,
           "date": "2021-06-13",
           "deaths": 11172,
-          "recovered": 359698
+          "recovered": 359981
         }
       }
     }
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 336470,
+      "confirmed": 338513,
       "date": "2021-06-13",
-      "deaths": 4956,
-      "recovered": 296855
+      "deaths": 4995,
+      "recovered": 300119
     }
   },
   "Uzbekistan": {
