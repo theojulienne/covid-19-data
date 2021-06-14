@@ -117,10 +117,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 405347,
+      "confirmed": 406954,
       "date": "2021-06-14",
-      "deaths": 15485,
-      "recovered": 319666
+      "deaths": 15542,
+      "recovered": 321665
     }
   },
   "Bosnia and Herzegovina": {
@@ -583,82 +583,82 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 498142,
+          "confirmed": 498250,
           "date": "2021-06-14",
-          "deaths": 10074,
-          "recovered": 480600
+          "deaths": 10076,
+          "recovered": 481400
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 645010,
+          "confirmed": 645161,
           "date": "2021-06-14",
           "deaths": 15100,
-          "recovered": 623400
+          "recovered": 623800
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 179688,
+          "confirmed": 179693,
           "date": "2021-06-14",
           "deaths": 3517,
-          "recovered": 174700
+          "recovered": 174900
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 108641,
+          "confirmed": 108654,
           "date": "2021-06-14",
-          "deaths": 3755,
+          "deaths": 3756,
           "recovered": 104000
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 289484,
+          "confirmed": 289516,
           "date": "2021-06-14",
           "deaths": 7436,
-          "recovered": 276800
+          "recovered": 277000
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 260206,
+          "confirmed": 260235,
           "date": "2021-06-14",
-          "deaths": 5699,
-          "recovered": 252600
+          "deaths": 5701,
+          "recovered": 252800
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 813246,
+          "confirmed": 813347,
           "date": "2021-06-14",
-          "deaths": 16981,
-          "recovered": 783000
+          "deaths": 16983,
+          "recovered": 784100
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154488,
+          "confirmed": 154492,
           "date": "2021-06-14",
           "deaths": 3783,
-          "recovered": 149000
+          "recovered": 149100
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285446,
+          "confirmed": 285449,
           "date": "2021-06-14",
           "deaths": 9974,
-          "recovered": 271600
+          "recovered": 271900
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128478,
+          "confirmed": 128489,
           "date": "2021-06-14",
-          "deaths": 4285,
-          "recovered": 123300
+          "deaths": 4286,
+          "recovered": 123400
         }
       }
     }
@@ -681,9 +681,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 247074,
+      "confirmed": 247728,
       "date": "2021-06-14",
-      "deaths": 6606,
+      "deaths": 6631,
       "recovered": 88164
     }
   },
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 147874,
+      "confirmed": 148273,
       "date": "2021-06-14",
-      "deaths": 1985,
-      "recovered": 138581
+      "deaths": 1988,
+      "recovered": 139022
     }
   },
   "Kosovo": {
@@ -1603,9 +1603,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 671304,
+          "confirmed": 671616,
           "date": "2021-06-14",
-          "deaths": 12566
+          "deaths": 12567
         }
       },
       "California": {
