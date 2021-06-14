@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 133388,
+      "confirmed": 133742,
       "date": "2021-06-14",
-      "deaths": 3571,
-      "recovered": 92852
+      "deaths": 3579,
+      "recovered": 93094
     }
   },
   "Argentina": {
@@ -194,7 +194,7 @@
           "confirmed": 638281,
           "date": "2021-06-14",
           "deaths": 17953,
-          "recovered": 608666
+          "recovered": 610020
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 1683100,
           "date": "2021-06-14",
           "deaths": 43124,
-          "recovered": 1545235
+          "recovered": 1547087
         }
       },
       "Para": {
@@ -533,9 +533,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 438934,
+      "confirmed": 439139,
       "date": "2021-06-14",
-      "deaths": 21048,
+      "deaths": 21051,
       "recovered": 398645
     }
   },
@@ -583,9 +583,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 498492,
+          "confirmed": 498582,
           "date": "2021-06-14",
-          "deaths": 10076,
+          "deaths": 10096,
           "recovered": 481400
         }
       },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 327963,
+      "confirmed": 329526,
       "date": "2021-06-14",
-      "deaths": 1820,
-      "recovered": 310095
+      "deaths": 1828,
+      "recovered": 311559
     }
   },
   "Kyrgyzstan": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1747082,
+      "confirmed": 1752630,
       "date": "2021-06-14",
-      "deaths": 57765,
-      "recovered": 1606581
+      "deaths": 57879,
+      "recovered": 1611447
     }
   },
   "Spain": {
@@ -1624,9 +1624,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 555850,
+          "confirmed": 555902,
           "date": "2021-06-14",
-          "deaths": 10423
+          "deaths": 10427
         }
       },
       "Massachusetts": {
@@ -1654,7 +1654,7 @@
         "live": {
           "confirmed": 254376,
           "date": "2021-06-14",
-          "deaths": 4440
+          "deaths": 4443
         }
       },
       "New Jersey": {
@@ -1715,7 +1715,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117517,
+          "confirmed": 117585,
           "date": "2021-06-14",
           "deaths": 1410
         }
