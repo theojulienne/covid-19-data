@@ -1021,6 +1021,7 @@ var covid19_dataset_country_blz = {
       12916,
       12924,
       12938,
+      12938,
       12938
     ],
     "deaths": [
@@ -1520,6 +1521,7 @@ var covid19_dataset_country_blz = {
       324,
       324,
       324,
+      325,
       325,
       325,
       325,
@@ -2040,6 +2042,7 @@ var covid19_dataset_country_blz = {
       12449,
       12456,
       12460,
+      12463,
       12463,
       12463
     ]
