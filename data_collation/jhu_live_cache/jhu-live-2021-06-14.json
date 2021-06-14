@@ -525,10 +525,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 308650,
+      "confirmed": 309477,
       "date": "2021-06-14",
-      "deaths": 3707,
-      "recovered": 251689
+      "deaths": 3708,
+      "recovered": 252803
     }
   },
   "Ecuador": {
@@ -647,9 +647,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285449,
+          "confirmed": 285472,
           "date": "2021-06-14",
-          "deaths": 9974,
+          "deaths": 9980,
           "recovered": 271900
         }
       },
@@ -1032,7 +1032,7 @@
       "confirmed": 739847,
       "date": "2021-06-14",
       "deaths": 9530,
-      "recovered": 726219
+      "recovered": 726932
     }
   },
   "Kazakhstan": {
@@ -1093,10 +1093,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 542375,
+      "confirmed": 542649,
       "date": "2021-06-14",
-      "deaths": 7790,
-      "recovered": 526598
+      "deaths": 7801,
+      "recovered": 527645
     }
   },
   "Libya": {
@@ -1253,15 +1253,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155536,
+      "confirmed": 155540,
       "date": "2021-06-14",
-      "deaths": 5471,
-      "recovered": 149628
+      "deaths": 5472,
+      "recovered": 149642
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 128046,
+      "confirmed": 128198,
       "date": "2021-06-14",
       "deaths": 789,
       "recovered": 17998
@@ -1357,10 +1357,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 219730,
+      "confirmed": 219887,
       "date": "2021-06-14",
-      "deaths": 577,
-      "recovered": 216944
+      "deaths": 579,
+      "recovered": 217143
     }
   },
   "Romania": {
@@ -1417,9 +1417,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 714891,
+      "confirmed": 715015,
       "date": "2021-06-14",
-      "deaths": 6962,
+      "deaths": 6970,
       "recovered": 0
     }
   },
