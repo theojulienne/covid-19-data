@@ -1921,19 +1921,19 @@
     },
     "KAZ": {
       "back_1week": {
-        "confirmed": 449858,
-        "deaths": 3471,
-        "recovered": 417705
+        "confirmed": 450868,
+        "deaths": 3473,
+        "recovered": 418803
       },
       "back_2week": {
-        "confirmed": 438715,
-        "deaths": 3442,
-        "recovered": 402272
+        "confirmed": 441774,
+        "deaths": 3448,
+        "recovered": 407252
       },
       "latest": {
-        "confirmed": 457404,
-        "deaths": 3487,
-        "recovered": 428469
+        "confirmed": 457474,
+        "deaths": 3491,
+        "recovered": 428494
       }
     },
     "KEN": {
