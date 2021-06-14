@@ -509,10 +509,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1665097,
+      "confirmed": 1665139,
       "date": "2021-06-14",
-      "deaths": 30225,
-      "recovered": 1629379
+      "deaths": 30226,
+      "recovered": 1630429
     }
   },
   "Denmark": {
@@ -573,10 +573,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 353965,
+      "confirmed": 354276,
       "date": "2021-06-14",
-      "deaths": 5048,
-      "recovered": 339392
+      "deaths": 5060,
+      "recovered": 340328
     }
   },
   "Germany": {
@@ -599,7 +599,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 179693,
+          "confirmed": 179694,
           "date": "2021-06-14",
           "deaths": 3517,
           "recovered": 174900
@@ -1109,10 +1109,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 277746,
+      "confirmed": 277812,
       "date": "2021-06-14",
-      "deaths": 4339,
-      "recovered": 263362
+      "deaths": 4342,
+      "recovered": 263442
     }
   },
   "Malaysia": {
