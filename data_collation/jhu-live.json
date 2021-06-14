@@ -493,10 +493,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 358563,
+      "confirmed": 358581,
       "date": "2021-06-14",
-      "deaths": 8132,
-      "recovered": 349244
+      "deaths": 8152,
+      "recovered": 349582
     }
   },
   "Cuba": {
@@ -1177,10 +1177,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 608472,
+      "confirmed": 610521,
       "date": "2021-06-14",
-      "deaths": 8412,
-      "recovered": 531105
+      "deaths": 8465,
+      "recovered": 536252
     }
   },
   "Netherlands": {
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 111746,
+      "confirmed": 113134,
       "date": "2021-06-14",
-      "deaths": 1389,
-      "recovered": 97756
+      "deaths": 1416,
+      "recovered": 98994
     }
   }
 }
