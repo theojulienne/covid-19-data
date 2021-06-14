@@ -1019,9 +1019,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 166437,
+          "confirmed": 166646,
           "date": "2021-06-14",
-          "deaths": 2140,
+          "deaths": 2143,
           "recovered": 160244
         }
       }
@@ -1333,18 +1333,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1315639,
+      "confirmed": 1322053,
       "date": "2021-06-14",
-      "deaths": 22788,
-      "recovered": 1232986
+      "deaths": 22845,
+      "recovered": 1240112
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2877469,
+      "confirmed": 2877608,
       "date": "2021-06-14",
-      "deaths": 74573,
-      "recovered": 2648504
+      "deaths": 74574,
+      "recovered": 2648859
     }
   },
   "Portugal": {
@@ -1375,34 +1375,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1234717,
+          "confirmed": 1241307,
           "date": "2021-06-14",
-          "deaths": 20907,
-          "recovered": 1093738
+          "deaths": 20979,
+          "recovered": 1096553
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 281621,
+          "confirmed": 282664,
           "date": "2021-06-14",
-          "deaths": 6267,
-          "recovered": 232459
+          "deaths": 6277,
+          "recovered": 233357
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 120242,
+          "confirmed": 120430,
           "date": "2021-06-14",
-          "deaths": 3837,
-          "recovered": 114049
+          "deaths": 3857,
+          "recovered": 114159
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 450730,
+          "confirmed": 451595,
           "date": "2021-06-14",
-          "deaths": 14898,
-          "recovered": 420356
+          "deaths": 14946,
+          "recovered": 421315
         }
       }
     }
@@ -1425,9 +1425,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 391026,
+      "confirmed": 391038,
       "date": "2021-06-14",
-      "deaths": 12439,
+      "deaths": 12441,
       "recovered": 255300
     }
   },
@@ -1577,9 +1577,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 195909,
+      "confirmed": 199264,
       "date": "2021-06-14",
-      "deaths": 1449,
+      "deaths": 1466,
       "recovered": 26873
     }
   },
