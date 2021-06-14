@@ -1955,19 +1955,19 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 106636,
-        "deaths": 1842,
-        "recovered": 100114
+        "confirmed": 106973,
+        "deaths": 1847,
+        "recovered": 100447
       },
       "back_2week": {
-        "confirmed": 104222,
-        "deaths": 1797,
-        "recovered": 98000
+        "confirmed": 104555,
+        "deaths": 1803,
+        "recovered": 98300
       },
       "latest": {
-        "confirmed": 109812,
-        "deaths": 1881,
-        "recovered": 102314
+        "confirmed": 110370,
+        "deaths": 1890,
+        "recovered": 102633
       }
     },
     "KHM": {
@@ -3790,19 +3790,19 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 101436,
+        "confirmed": 101722,
         "deaths": 696,
-        "recovered": 97517
+        "recovered": 97714
       },
       "back_2week": {
-        "confirmed": 99844,
+        "confirmed": 100124,
         "deaths": 688,
-        "recovered": 95529
+        "recovered": 95786
       },
       "latest": {
-        "confirmed": 103206,
+        "confirmed": 103510,
         "deaths": 705,
-        "recovered": 99152
+        "recovered": 99416
       }
     },
     "VAT": {
