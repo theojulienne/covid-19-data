@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4124190,
+      "confirmed": 4145482,
       "date": "2021-06-14",
-      "deaths": 85343,
-      "recovered": 3721350
+      "deaths": 86029,
+      "recovered": 3748794
     }
   },
   "Armenia": {
@@ -541,10 +541,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 273182,
+      "confirmed": 273795,
       "date": "2021-06-14",
-      "deaths": 15623,
-      "recovered": 201038
+      "deaths": 15654,
+      "recovered": 201739
     }
   },
   "Estonia": {
@@ -610,7 +610,7 @@
           "confirmed": 108654,
           "date": "2021-06-14",
           "deaths": 3756,
-          "recovered": 104000
+          "recovered": 103900
         }
       },
       "Hessen": {
@@ -626,7 +626,7 @@
           "confirmed": 260235,
           "date": "2021-06-14",
           "deaths": 5701,
-          "recovered": 252800
+          "recovered": 252600
         }
       },
       "Nordrhein-Westfalen": {
@@ -658,7 +658,7 @@
           "confirmed": 128489,
           "date": "2021-06-14",
           "deaths": 4286,
-          "recovered": 123400
+          "recovered": 123300
         }
       }
     }
@@ -1061,10 +1061,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107170,
+      "confirmed": 107175,
       "date": "2021-06-14",
       "deaths": 2255,
-      "recovered": 104678
+      "recovered": 104772
     }
   },
   "Kuwait": {
@@ -1245,10 +1245,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 167066,
+      "confirmed": 167078,
       "date": "2021-06-14",
       "deaths": 2117,
-      "recovered": 163463
+      "recovered": 163469
     }
   },
   "North Macedonia": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 128198,
+      "confirmed": 128277,
       "date": "2021-06-14",
       "deaths": 789,
       "recovered": 17998
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 338513,
+      "confirmed": 340818,
       "date": "2021-06-14",
-      "deaths": 4995,
-      "recovered": 300119
+      "deaths": 5036,
+      "recovered": 303880
     }
   },
   "Uzbekistan": {
