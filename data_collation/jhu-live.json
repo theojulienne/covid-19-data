@@ -1305,18 +1305,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 387842,
+      "confirmed": 388325,
       "date": "2021-06-15",
-      "deaths": 6444,
-      "recovered": 371984
+      "deaths": 6451,
+      "recovered": 372341
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 391436,
+      "confirmed": 393482,
       "date": "2021-06-15",
-      "deaths": 10834,
-      "recovered": 324961
+      "deaths": 10954,
+      "recovered": 327670
     }
   },
   "Peru": {

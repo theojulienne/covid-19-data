@@ -18264,6 +18264,7 @@ var covid19_dataset_country_aus = {
           1642,
           1642,
           1650,
+          1652,
           1652
         ],
         "current_hospitalized": [
@@ -18776,7 +18777,8 @@ var covid19_dataset_country_aus = {
           11,
           10,
           10,
-          18
+          18,
+          null
         ],
         "current_icu": [
           0,
@@ -19288,7 +19290,8 @@ var covid19_dataset_country_aus = {
           0,
           0,
           0,
-          0
+          0,
+          null
         ],
         "deaths": [
           0,
@@ -19423,6 +19426,7 @@ var covid19_dataset_country_aus = {
           7,
           7,
           7,
+          6,
           6,
           6,
           6,
@@ -20823,6 +20827,7 @@ var covid19_dataset_country_aus = {
           2720592,
           2728383,
           2738010,
+          2741713,
           2741713
         ]
       }
@@ -35140,6 +35145,7 @@ var covid19_dataset_country_aus = {
       30055,
       30056,
       30065,
+      30073,
       30073
     ],
     "current_hospitalized": [
@@ -35652,7 +35658,8 @@ var covid19_dataset_country_aus = {
       18,
       17,
       17,
-      25
+      25,
+      7
     ],
     "current_icu": [
       0,
@@ -36164,6 +36171,7 @@ var covid19_dataset_country_aus = {
       1,
       1,
       1,
+      1,
       1
     ],
     "deaths": [
@@ -36631,6 +36639,7 @@ var covid19_dataset_country_aus = {
       911,
       911,
       909,
+      911,
       911,
       911,
       911,
@@ -37700,6 +37709,7 @@ var covid19_dataset_country_aus = {
       19286952,
       19314047,
       19340861,
+      19354043,
       19354043
     ]
   }
