@@ -493,10 +493,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 358581,
+      "confirmed": 358677,
       "date": "2021-06-15",
-      "deaths": 8152,
-      "recovered": 349582
+      "deaths": 8160,
+      "recovered": 349750
     }
   },
   "Cuba": {
@@ -1021,8 +1021,8 @@
         "live": {
           "confirmed": 166983,
           "date": "2021-06-15",
-          "deaths": 2143,
-          "recovered": 160595
+          "deaths": 2155,
+          "recovered": 161071
         }
       }
     }
@@ -1101,10 +1101,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 189284,
+      "confirmed": 189555,
       "date": "2021-06-15",
-      "deaths": 3165,
-      "recovered": 174976
+      "deaths": 3166,
+      "recovered": 175226
     }
   },
   "Lithuania": {
@@ -1571,15 +1571,15 @@
     "live": {
       "confirmed": 700735,
       "date": "2021-06-15",
-      "deaths": 10863,
+      "deaths": 10864,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 199264,
+      "confirmed": 202264,
       "date": "2021-06-15",
-      "deaths": 1466,
+      "deaths": 1485,
       "recovered": 26873
     }
   },
