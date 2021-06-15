@@ -41,10 +41,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 335196,
+      "confirmed": 335264,
       "date": "2021-06-15",
-      "deaths": 4955,
-      "recovered": 328699
+      "deaths": 4958,
+      "recovered": 328876
     }
   },
   "Bahrain": {
@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 829972,
+      "confirmed": 833291,
       "date": "2021-06-15",
-      "deaths": 13172,
-      "recovered": 768830
+      "deaths": 13222,
+      "recovered": 771073
     }
   },
   "Belarus": {
@@ -178,7 +178,7 @@
           "confirmed": 418089,
           "date": "2021-06-15",
           "deaths": 8976,
-          "recovered": 398721
+          "recovered": 400330
         }
       },
       "Espirito Santo": {
@@ -322,7 +322,7 @@
           "confirmed": 3464158,
           "date": "2021-06-15",
           "deaths": 118213,
-          "recovered": 3075383
+          "recovered": 3121444
         }
       },
       "Sergipe": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 290111,
+      "confirmed": 290333,
       "date": "2021-06-15",
-      "deaths": 2526,
-      "recovered": 279072
+      "deaths": 2527,
+      "recovered": 280084
     }
   },
   "Dominican Republic": {
@@ -647,9 +647,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285478,
+          "confirmed": 285532,
           "date": "2021-06-15",
-          "deaths": 9981,
+          "deaths": 9989,
           "recovered": 272400
         }
       },
@@ -1177,10 +1177,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 610521,
+      "confirmed": 612202,
       "date": "2021-06-15",
-      "deaths": 8465,
-      "recovered": 536252
+      "deaths": 8506,
+      "recovered": 540439
     }
   },
   "Netherlands": {
@@ -1543,7 +1543,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 155456,
+          "confirmed": 155639,
           "date": "2021-06-15",
           "deaths": 1749,
           "recovered": 0
@@ -1551,7 +1551,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 253770,
+          "confirmed": 253951,
           "date": "2021-06-15",
           "deaths": 4353,
           "recovered": 0
@@ -1559,7 +1559,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 189381,
+          "confirmed": 189520,
           "date": "2021-06-15",
           "deaths": 2367,
           "recovered": 0
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 113134,
+      "confirmed": 115824,
       "date": "2021-06-15",
-      "deaths": 1416,
-      "recovered": 98994
+      "deaths": 1444,
+      "recovered": 99895
     }
   }
 }
