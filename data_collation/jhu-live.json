@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 133742,
+      "confirmed": 134115,
       "date": "2021-06-15",
-      "deaths": 3579,
-      "recovered": 93094
+      "deaths": 3588,
+      "recovered": 93355
     }
   },
   "Argentina": {
@@ -186,7 +186,7 @@
           "confirmed": 499839,
           "date": "2021-06-15",
           "deaths": 11173,
-          "recovered": 473312
+          "recovered": 475154
         }
       },
       "Goias": {
@@ -290,7 +290,7 @@
           "confirmed": 909341,
           "date": "2021-06-15",
           "deaths": 53015,
-          "recovered": 845952
+          "recovered": 849578
         }
       },
       "Rondonia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 547901,
+          "confirmed": 547959,
           "date": "2021-06-15",
-          "deaths": 8940,
-          "recovered": 533897
+          "deaths": 8944,
+          "recovered": 534007
         }
       },
       "Quebec": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 271990,
+      "confirmed": 273730,
       "date": "2021-06-15",
-      "deaths": 8465,
-      "recovered": 247134
+      "deaths": 8500,
+      "recovered": 248316
     }
   },
   "Honduras": {
@@ -1585,10 +1585,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 370224,
+      "confirmed": 372221,
       "date": "2021-06-15",
-      "deaths": 13567,
-      "recovered": 323201
+      "deaths": 13656,
+      "recovered": 324846
     }
   },
   "Turkey": {
@@ -1668,7 +1668,7 @@
         "live": {
           "confirmed": 1394020,
           "date": "2021-06-15",
-          "deaths": 40368
+          "deaths": 40369
         }
       },
       "North Carolina": {
