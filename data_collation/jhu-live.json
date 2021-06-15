@@ -557,18 +557,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 274346,
+      "confirmed": 274480,
       "date": "2021-06-15",
-      "deaths": 4250,
-      "recovered": 251107
+      "deaths": 4257,
+      "recovered": 251880
     }
   },
   "France": {
     "live": {
-      "confirmed": 5678893,
+      "confirmed": 5681846,
       "date": "2021-06-15",
-      "deaths": 109572,
-      "recovered": 338034
+      "deaths": 109645,
+      "recovered": 338712
     }
   },
   "Georgia": {
@@ -935,10 +935,10 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 422619,
+          "confirmed": 422755,
           "date": "2021-06-15",
-          "deaths": 7342,
-          "recovered": 355448
+          "deaths": 7357,
+          "recovered": 403661
         }
       },
       "Emilia-Romagna": {
@@ -1029,10 +1029,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 739847,
+      "confirmed": 744377,
       "date": "2021-06-15",
-      "deaths": 9530,
-      "recovered": 721016
+      "deaths": 9614,
+      "recovered": 727670
     }
   },
   "Kazakhstan": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 128277,
+      "confirmed": 128356,
       "date": "2021-06-15",
       "deaths": 789,
       "recovered": 17998
@@ -1357,10 +1357,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 219887,
+      "confirmed": 220033,
       "date": "2021-06-15",
       "deaths": 579,
-      "recovered": 217143
+      "recovered": 217352
     }
   },
   "Romania": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1752630,
+      "confirmed": 1761066,
       "date": "2021-06-15",
-      "deaths": 57879,
-      "recovered": 1611447
+      "deaths": 58087,
+      "recovered": 1616405
     }
   },
   "Spain": {
@@ -1682,7 +1682,7 @@
         "live": {
           "confirmed": 244220,
           "date": "2021-06-15",
-          "deaths": 3663
+          "deaths": 3668
         }
       },
       "Pennsylvania": {
@@ -1715,7 +1715,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117585,
+          "confirmed": 117601,
           "date": "2021-06-15",
           "deaths": 1410
         }
