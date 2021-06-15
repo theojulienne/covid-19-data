@@ -162,7 +162,7 @@
           "confirmed": 1066552,
           "date": "2021-06-15",
           "deaths": 22601,
-          "recovered": 1030977
+          "recovered": 1035655
         }
       },
       "Ceara": {
@@ -242,7 +242,7 @@
           "confirmed": 361435,
           "date": "2021-06-15",
           "deaths": 8158,
-          "recovered": 236555
+          "recovered": 241749
         }
       },
       "Parana": {
@@ -282,7 +282,7 @@
           "confirmed": 1149424,
           "date": "2021-06-15",
           "deaths": 29701,
-          "recovered": 1100220
+          "recovered": 1103038
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 188252,
           "date": "2021-06-15",
           "deaths": 3029,
-          "recovered": 168302
+          "recovered": 170274
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 547801,
+          "confirmed": 547901,
           "date": "2021-06-15",
-          "deaths": 8937,
-          "recovered": 533679
+          "deaths": 8940,
+          "recovered": 533897
         }
       },
       "Quebec": {
@@ -533,9 +533,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 439139,
+      "confirmed": 439374,
       "date": "2021-06-15",
-      "deaths": 21051,
+      "deaths": 21061,
       "recovered": 398645
     }
   },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 329526,
+      "confirmed": 331013,
       "date": "2021-06-15",
-      "deaths": 1828,
-      "recovered": 311559
+      "deaths": 1831,
+      "recovered": 312850
     }
   },
   "Kyrgyzstan": {
@@ -1666,7 +1666,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1393932,
+          "confirmed": 1394020,
           "date": "2021-06-15",
           "deaths": 40368
         }
@@ -1701,7 +1701,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152051,
+          "confirmed": 152121,
           "date": "2021-06-15",
           "deaths": 896
         }
