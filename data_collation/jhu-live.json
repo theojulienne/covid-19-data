@@ -125,10 +125,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204668,
+      "confirmed": 204697,
       "date": "2021-06-15",
-      "deaths": 9495,
-      "recovered": 177976
+      "deaths": 9534,
+      "recovered": 178136
     }
   },
   "Brazil": {
@@ -501,10 +501,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 159057,
+      "confirmed": 160594,
       "date": "2021-06-15",
-      "deaths": 1098,
-      "recovered": 150855
+      "deaths": 1106,
+      "recovered": 152014
     }
   },
   "Czechia": {
@@ -1253,10 +1253,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155540,
+      "confirmed": 155568,
       "date": "2021-06-15",
       "deaths": 5472,
-      "recovered": 149642
+      "recovered": 149676
     }
   },
   "Norway": {
@@ -1533,10 +1533,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 225922,
+      "confirmed": 227765,
       "date": "2021-06-15",
       "deaths": 2260,
-      "recovered": 190464
+      "recovered": 192478
     }
   },
   "Sweden": {
