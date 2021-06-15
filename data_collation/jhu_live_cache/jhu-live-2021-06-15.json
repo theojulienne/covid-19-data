@@ -1077,10 +1077,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 110829,
+      "confirmed": 111343,
       "date": "2021-06-15",
-      "deaths": 1899,
-      "recovered": 102890
+      "deaths": 1905,
+      "recovered": 103257
     }
   },
   "Latvia": {
@@ -1726,58 +1726,58 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 134930,
+          "confirmed": 135012,
           "date": "2021-06-15",
-          "deaths": 4368,
-          "recovered": 127623
+          "deaths": 4373,
+          "recovered": 127865
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 147901,
+          "confirmed": 147961,
           "date": "2021-06-15",
-          "deaths": 3431,
-          "recovered": 141315
+          "deaths": 3438,
+          "recovered": 141626
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 210938,
+          "confirmed": 211181,
           "date": "2021-06-15",
-          "deaths": 5156,
-          "recovered": 196874
+          "deaths": 5160,
+          "recovered": 198921
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 126703,
+          "confirmed": 126754,
           "date": "2021-06-15",
-          "deaths": 2720,
-          "recovered": 121855
+          "deaths": 2722,
+          "recovered": 121923
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 136968,
+          "confirmed": 137002,
           "date": "2021-06-15",
-          "deaths": 3618,
-          "recovered": 131227
+          "deaths": 3625,
+          "recovered": 131365
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 140146,
+          "confirmed": 140194,
           "date": "2021-06-15",
-          "deaths": 2940,
-          "recovered": 134564
+          "deaths": 2941,
+          "recovered": 134733
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 104046,
+          "confirmed": 104098,
           "date": "2021-06-15",
-          "deaths": 2400,
-          "recovered": 100374
+          "deaths": 2405,
+          "recovered": 100481
         }
       }
     }
@@ -1836,10 +1836,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 103813,
+      "confirmed": 104113,
       "date": "2021-06-15",
-      "deaths": 708,
-      "recovered": 99733
+      "deaths": 709,
+      "recovered": 99986
     }
   },
   "Venezuela": {
