@@ -1610,9 +1610,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2738019,
+          "confirmed": 2738795,
           "date": "2021-06-15",
-          "deaths": 48008
+          "deaths": 48014
         }
       },
       "Florida": {
@@ -1844,10 +1844,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 251686,
+      "confirmed": 252883,
       "date": "2021-06-15",
-      "deaths": 2829,
-      "recovered": 231558
+      "deaths": 2845,
+      "recovered": 233028
     }
   },
   "West Bank and Gaza": {
