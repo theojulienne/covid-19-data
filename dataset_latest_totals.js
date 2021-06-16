@@ -1161,19 +1161,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 131283,
-        "deaths": 3527,
-        "recovered": 91413
+        "confirmed": 131647,
+        "deaths": 3537,
+        "recovered": 91651
       },
       "back_2week": {
-        "confirmed": 128913,
-        "deaths": 3472,
-        "recovered": 89839
+        "confirmed": 129218,
+        "deaths": 3480,
+        "recovered": 90057
       },
       "latest": {
-        "confirmed": 133742,
-        "deaths": 3579,
-        "recovered": 93094
+        "confirmed": 134115,
+        "deaths": 3588,
+        "recovered": 93355
       }
     },
     "ECU": {
@@ -1632,19 +1632,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 262255,
-        "deaths": 8305,
-        "recovered": 239804
+        "confirmed": 263836,
+        "deaths": 8331,
+        "recovered": 240961
       },
       "back_2week": {
-        "confirmed": 254417,
-        "deaths": 8165,
-        "recovered": 233595
+        "confirmed": 255833,
+        "deaths": 8183,
+        "recovered": 234775
       },
       "latest": {
-        "confirmed": 271990,
-        "deaths": 8465,
-        "recovered": 247134
+        "confirmed": 273730,
+        "deaths": 8500,
+        "recovered": 248316
       }
     },
     "GUY": {
@@ -3926,19 +3926,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1699849,
-        "deaths": 57063,
-        "recovered": 1581540
+        "confirmed": 1704058,
+        "deaths": 57183,
+        "recovered": 1587015
       },
       "back_2week": {
-        "confirmed": 1665617,
-        "deaths": 56506,
-        "recovered": 1559337
+        "confirmed": 1669231,
+        "deaths": 56601,
+        "recovered": 1563719
       },
       "latest": {
-        "confirmed": 1752630,
-        "deaths": 57879,
-        "recovered": 1611447
+        "confirmed": 1761066,
+        "deaths": 58087,
+        "recovered": 1616405
       }
     },
     "ZMB": {

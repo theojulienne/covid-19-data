@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 134115,
+      "confirmed": 134458,
       "date": "2021-06-16",
-      "deaths": 3588,
-      "recovered": 93355
+      "deaths": 3598,
+      "recovered": 93586
     }
   },
   "Argentina": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 273730,
+      "confirmed": 275202,
       "date": "2021-06-16",
-      "deaths": 8500,
-      "recovered": 248316
+      "deaths": 8527,
+      "recovered": 249560
     }
   },
   "Honduras": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1761066,
+      "confirmed": 1774312,
       "date": "2021-06-16",
-      "deaths": 58087,
-      "recovered": 1616405
+      "deaths": 58223,
+      "recovered": 1620317
     }
   },
   "Spain": {
@@ -1666,9 +1666,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1394121,
+          "confirmed": 1394173,
           "date": "2021-06-16",
-          "deaths": 40369
+          "deaths": 40372
         }
       },
       "North Carolina": {
@@ -1715,9 +1715,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117601,
+          "confirmed": 117611,
           "date": "2021-06-16",
-          "deaths": 1410
+          "deaths": 1414
         }
       }
     }
