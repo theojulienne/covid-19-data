@@ -1025,6 +1025,7 @@ var covid19_dataset_country_sdn = {
       36203,
       36203,
       36203,
+      36304,
       36304
     ],
     "deaths": [
@@ -1537,6 +1538,7 @@ var covid19_dataset_country_sdn = {
       2719,
       2719,
       2732,
+      2732,
       2732
     ],
     "recovered": [
@@ -2048,6 +2050,7 @@ var covid19_dataset_country_sdn = {
       29841,
       29841,
       29841,
+      29994,
       29994,
       29994
     ]
