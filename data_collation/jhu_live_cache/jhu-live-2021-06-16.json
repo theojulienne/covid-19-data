@@ -266,7 +266,7 @@
           "confirmed": 285644,
           "date": "2021-06-16",
           "deaths": 6265,
-          "recovered": 277980
+          "recovered": 279537
         }
       },
       "Rio Grande do Norte": {
@@ -282,7 +282,7 @@
           "confirmed": 1149424,
           "date": "2021-06-16",
           "deaths": 29701,
-          "recovered": 1103038
+          "recovered": 1105550
         }
       },
       "Rio de Janeiro": {
@@ -485,10 +485,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 343604,
+      "confirmed": 345312,
       "date": "2021-06-16",
-      "deaths": 4388,
-      "recovered": 262852
+      "deaths": 4407,
+      "recovered": 265255
     }
   },
   "Croatia": {
@@ -1533,7 +1533,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 227765,
+      "confirmed": 228256,
       "date": "2021-06-16",
       "deaths": 2260,
       "recovered": 192478
@@ -1844,10 +1844,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 252883,
+      "confirmed": 254116,
       "date": "2021-06-16",
-      "deaths": 2845,
-      "recovered": 233028
+      "deaths": 2865,
+      "recovered": 234393
     }
   },
   "West Bank and Gaza": {
