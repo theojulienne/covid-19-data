@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4145482,
+      "confirmed": 4172742,
       "date": "2021-06-15",
-      "deaths": 86029,
-      "recovered": 3748794
+      "deaths": 86615,
+      "recovered": 3771968
     }
   },
   "Armenia": {
@@ -170,7 +170,7 @@
           "confirmed": 851411,
           "date": "2021-06-15",
           "deaths": 21604,
-          "recovered": 592809
+          "recovered": 593701
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 642879,
           "date": "2021-06-15",
           "deaths": 18119,
-          "recovered": 611089
+          "recovered": 614351
         }
       },
       "Maranhao": {
@@ -210,7 +210,7 @@
           "confirmed": 429398,
           "date": "2021-06-15",
           "deaths": 11312,
-          "recovered": 404050
+          "recovered": 406115
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 535640,
           "date": "2021-06-15",
           "deaths": 15005,
-          "recovered": 499891
+          "recovered": 500992
         }
       },
       "Paraiba": {
@@ -642,7 +642,7 @@
           "confirmed": 154632,
           "date": "2021-06-15",
           "deaths": 3827,
-          "recovered": 149200
+          "recovered": 149100
         }
       },
       "Sachsen": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 128356,
+      "confirmed": 128499,
       "date": "2021-06-15",
       "deaths": 789,
       "recovered": 17998
@@ -1694,9 +1694,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1331182,
+          "confirmed": 1331371,
           "date": "2021-06-15",
-          "deaths": 20483
+          "deaths": 20485
         }
       },
       "Utah": {
@@ -1708,9 +1708,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 111137,
+          "confirmed": 111201,
           "date": "2021-06-15",
-          "deaths": 1614
+          "deaths": 1617
         }
       },
       "Wisconsin": {
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 340818,
+      "confirmed": 343615,
       "date": "2021-06-15",
-      "deaths": 5036,
-      "recovered": 303880
+      "deaths": 5089,
+      "recovered": 307189
     }
   },
   "Uzbekistan": {
