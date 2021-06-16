@@ -290,7 +290,7 @@
           "confirmed": 913682,
           "date": "2021-06-16",
           "deaths": 53242,
-          "recovered": 849578
+          "recovered": 854040
         }
       },
       "Rondonia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 420654,
+      "confirmed": 420749,
       "date": "2021-06-16",
-      "deaths": 17932,
-      "recovered": 390971
+      "deaths": 17957,
+      "recovered": 392035
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 230705,
+          "confirmed": 230858,
           "date": "2021-06-16",
-          "deaths": 2274,
-          "recovered": 225627
+          "deaths": 2278,
+          "recovered": 225941
         }
       },
       "British Columbia": {
@@ -379,7 +379,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 548386,
+          "confirmed": 548388,
           "date": "2021-06-16",
           "deaths": 8976,
           "recovered": 534694
@@ -533,10 +533,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 439374,
+      "confirmed": 441180,
       "date": "2021-06-16",
-      "deaths": 21061,
-      "recovered": 398645
+      "deaths": 21153,
+      "recovered": 407512
     }
   },
   "Egypt": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 274480,
+      "confirmed": 274601,
       "date": "2021-06-16",
-      "deaths": 4257,
-      "recovered": 251880
+      "deaths": 4260,
+      "recovered": 252451
     }
   },
   "France": {
@@ -1533,7 +1533,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 229887,
+      "confirmed": 230692,
       "date": "2021-06-16",
       "deaths": 2315,
       "recovered": 194145
@@ -1610,9 +1610,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2739362,
+          "confirmed": 2739502,
           "date": "2021-06-16",
-          "deaths": 48026
+          "deaths": 48028
         }
       },
       "Florida": {
@@ -1631,7 +1631,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135202,
+          "confirmed": 135218,
           "date": "2021-06-16",
           "deaths": 3770
         }
@@ -1694,7 +1694,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1331526,
+          "confirmed": 1332406,
           "date": "2021-06-16",
           "deaths": 20500
         }
