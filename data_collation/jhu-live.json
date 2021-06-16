@@ -427,58 +427,58 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 578317,
+          "confirmed": 587256,
           "date": "2021-06-16",
-          "deaths": 12811,
-          "recovered": 547269
+          "deaths": 12902,
+          "recovered": 550402
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 280382,
+          "confirmed": 282214,
           "date": "2021-06-16",
-          "deaths": 8730,
-          "recovered": 268865
+          "deaths": 8749,
+          "recovered": 269488
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 115359,
+          "confirmed": 119008,
           "date": "2021-06-16",
-          "deaths": 2234,
-          "recovered": 112362
+          "deaths": 2251,
+          "recovered": 113630
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1079120,
+          "confirmed": 1104052,
           "date": "2021-06-16",
-          "deaths": 20831,
-          "recovered": 996172
+          "deaths": 21123,
+          "recovered": 1006595
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 188243,
+          "confirmed": 194499,
           "date": "2021-06-16",
-          "deaths": 4984,
-          "recovered": 179642
+          "deaths": 5053,
+          "recovered": 181746
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 157266,
+          "confirmed": 162297,
           "date": "2021-06-16",
-          "deaths": 5174,
-          "recovered": 147376
+          "deaths": 5217,
+          "recovered": 148732
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 289148,
+          "confirmed": 293384,
           "date": "2021-06-16",
-          "deaths": 9224,
-          "recovered": 275024
+          "deaths": 9301,
+          "recovered": 276566
         }
       }
     }
