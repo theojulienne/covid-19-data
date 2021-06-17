@@ -250,7 +250,7 @@
           "confirmed": 1162966,
           "date": "2021-06-17",
           "deaths": 28847,
-          "recovered": 818586
+          "recovered": 822163
         }
       },
       "Pernambuco": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 274601,
+      "confirmed": 274775,
       "date": "2021-06-17",
-      "deaths": 4260,
-      "recovered": 252451
+      "deaths": 4262,
+      "recovered": 253195
     }
   },
   "France": {
@@ -925,7 +925,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839744,
+      "confirmed": 839747,
       "date": "2021-06-17",
       "deaths": 6427,
       "recovered": 832968
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 332570,
+      "confirmed": 334216,
       "date": "2021-06-17",
-      "deaths": 1837,
-      "recovered": 314218
+      "deaths": 1842,
+      "recovered": 315645
     }
   },
   "Kyrgyzstan": {
@@ -1169,10 +1169,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 524975,
+      "confirmed": 525443,
       "date": "2021-06-17",
-      "deaths": 9221,
-      "recovered": 512097
+      "deaths": 9225,
+      "recovered": 512487
     }
   },
   "Nepal": {
