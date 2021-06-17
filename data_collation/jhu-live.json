@@ -170,7 +170,7 @@
           "confirmed": 856267,
           "date": "2021-06-17",
           "deaths": 21876,
-          "recovered": 596570
+          "recovered": 599516
         }
       },
       "Distrito Federal": {
@@ -226,7 +226,7 @@
           "confirmed": 1705133,
           "date": "2021-06-17",
           "deaths": 43559,
-          "recovered": 1568531
+          "recovered": 1578071
         }
       },
       "Para": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 548598,
+          "confirmed": 548644,
           "date": "2021-06-17",
-          "deaths": 8977,
-          "recovered": 534967
+          "deaths": 8979,
+          "recovered": 535032
         }
       },
       "Quebec": {
@@ -1349,10 +1349,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 860395,
+      "confirmed": 861628,
       "date": "2021-06-17",
-      "deaths": 17055,
-      "recovered": 817092
+      "deaths": 17057,
+      "recovered": 817754
     }
   },
   "Qatar": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1774312,
+      "confirmed": 1786079,
       "date": "2021-06-17",
-      "deaths": 58223,
-      "recovered": 1620317
+      "deaths": 58323,
+      "recovered": 1623319
     }
   },
   "Spain": {
@@ -1593,10 +1593,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5348249,
+      "confirmed": 5354153,
       "date": "2021-06-17",
-      "deaths": 48950,
-      "recovered": 5215654
+      "deaths": 49012,
+      "recovered": 5219797
     }
   },
   "US": {
@@ -1645,9 +1645,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 124816,
+          "confirmed": 124863,
           "date": "2021-06-17",
-          "deaths": 1773
+          "deaths": 1774
         }
       },
       "Nevada": {
@@ -1659,7 +1659,7 @@
       },
       "New Jersey": {
         "live": {
-          "confirmed": 104634,
+          "confirmed": 104653,
           "date": "2021-06-17",
           "deaths": 2879
         }
@@ -1694,9 +1694,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332531,
+          "confirmed": 1332686,
           "date": "2021-06-17",
-          "deaths": 20503
+          "deaths": 20505
         }
       },
       "Utah": {
