@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 140267,
+          "confirmed": 140363,
           "date": "2021-06-17",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 132450,
+          "confirmed": 132537,
           "date": "2021-06-17",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 123386,
+          "confirmed": 123457,
           "date": "2021-06-17",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 158809,
+          "confirmed": 158901,
           "date": "2021-06-17",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 129904,
+          "confirmed": 129985,
           "date": "2021-06-17",
           "deaths": 0,
           "recovered": 0
@@ -162,7 +162,7 @@
           "confirmed": 1077784,
           "date": "2021-06-17",
           "deaths": 22822,
-          "recovered": 1035655
+          "recovered": 1040809
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 419548,
           "date": "2021-06-17",
           "deaths": 9016,
-          "recovered": 401051
+          "recovered": 402111
         }
       },
       "Espirito Santo": {
@@ -322,7 +322,7 @@
           "confirmed": 3509967,
           "date": "2021-06-17",
           "deaths": 119905,
-          "recovered": 3122130
+          "recovered": 3134988
         }
       },
       "Sergipe": {
@@ -1127,33 +1127,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 669037,
+          "confirmed": 669911,
           "date": "2021-06-17",
-          "deaths": 34388,
+          "deaths": 34403,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 132476,
+          "confirmed": 132531,
           "date": "2021-06-17",
-          "deaths": 11042,
+          "deaths": 11057,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 255586,
+          "confirmed": 255816,
           "date": "2021-06-17",
-          "deaths": 37166,
+          "deaths": 37179,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 125526,
+          "confirmed": 125676,
           "date": "2021-06-17",
-          "deaths": 9661,
+          "deaths": 9675,
           "recovered": 0
         }
       }
