@@ -1077,10 +1077,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 111990,
+      "confirmed": 112777,
       "date": "2021-06-17",
-      "deaths": 1912,
-      "recovered": 103565
+      "deaths": 1916,
+      "recovered": 103930
     }
   },
   "Latvia": {
@@ -1726,57 +1726,57 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 135067,
+          "confirmed": 135145,
           "date": "2021-06-17",
-          "deaths": 4378,
+          "deaths": 4386,
           "recovered": 128004
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 148025,
+          "confirmed": 148121,
           "date": "2021-06-17",
-          "deaths": 3446,
+          "deaths": 3456,
           "recovered": 141908
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 211437,
+          "confirmed": 211688,
           "date": "2021-06-17",
-          "deaths": 5162,
+          "deaths": 5165,
           "recovered": 200800
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 126829,
+          "confirmed": 126889,
           "date": "2021-06-17",
-          "deaths": 2729,
+          "deaths": 2730,
           "recovered": 122140
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 137016,
+          "confirmed": 137061,
           "date": "2021-06-17",
-          "deaths": 3625,
+          "deaths": 3630,
           "recovered": 131470
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 140230,
+          "confirmed": 140251,
           "date": "2021-06-17",
-          "deaths": 2951,
+          "deaths": 2955,
           "recovered": 134781
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 104150,
+          "confirmed": 104208,
           "date": "2021-06-17",
-          "deaths": 2410,
+          "deaths": 2414,
           "recovered": 100699
         }
       }
@@ -1836,10 +1836,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 104463,
+      "confirmed": 104834,
       "date": "2021-06-17",
-      "deaths": 711,
-      "recovered": 100328
+      "deaths": 713,
+      "recovered": 100623
     }
   },
   "Venezuela": {
