@@ -57,10 +57,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 837247,
+      "confirmed": 841087,
       "date": "2021-06-17",
-      "deaths": 13282,
-      "recovered": 773752
+      "deaths": 13345,
+      "recovered": 776466
     }
   },
   "Belarus": {
@@ -170,7 +170,7 @@
           "confirmed": 856267,
           "date": "2021-06-17",
           "deaths": 21876,
-          "recovered": 593701
+          "recovered": 596570
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 502887,
           "date": "2021-06-17",
           "deaths": 11218,
-          "recovered": 475154
+          "recovered": 476393
         }
       },
       "Goias": {
@@ -517,10 +517,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 290686,
+      "confirmed": 291017,
       "date": "2021-06-17",
-      "deaths": 2527,
-      "recovered": 281195
+      "deaths": 2528,
+      "recovered": 282123
     }
   },
   "Dominican Republic": {
@@ -591,9 +591,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 645836,
+          "confirmed": 645802,
           "date": "2021-06-17",
-          "deaths": 15152,
+          "deaths": 15151,
           "recovered": 625400
         }
       },
