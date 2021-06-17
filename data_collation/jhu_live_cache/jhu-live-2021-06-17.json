@@ -146,7 +146,7 @@
           "confirmed": 115089,
           "date": "2021-06-17",
           "deaths": 1784,
-          "recovered": 90692
+          "recovered": 91921
         }
       },
       "Amazonas": {
@@ -154,7 +154,7 @@
           "confirmed": 395104,
           "date": "2021-06-17",
           "deaths": 13182,
-          "recovered": 337529
+          "recovered": 338923
         }
       },
       "Bahia": {
@@ -202,7 +202,7 @@
           "confirmed": 304364,
           "date": "2021-06-17",
           "deaths": 8619,
-          "recovered": 263681
+          "recovered": 266110
         }
       },
       "Mato Grosso": {
@@ -258,7 +258,7 @@
           "confirmed": 526963,
           "date": "2021-06-17",
           "deaths": 16990,
-          "recovered": 432119
+          "recovered": 438357
         }
       },
       "Piaui": {
@@ -298,7 +298,7 @@
           "confirmed": 240996,
           "date": "2021-06-17",
           "deaths": 5977,
-          "recovered": 224510
+          "recovered": 227118
         }
       },
       "Roraima": {
@@ -429,8 +429,8 @@
         "live": {
           "confirmed": 587256,
           "date": "2021-06-17",
-          "deaths": 12902,
-          "recovered": 550402
+          "deaths": 12937,
+          "recovered": 552608
         }
       },
       "Atlantico": {
@@ -438,47 +438,47 @@
           "confirmed": 282214,
           "date": "2021-06-17",
           "deaths": 8749,
-          "recovered": 269488
+          "recovered": 270004
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 119008,
           "date": "2021-06-17",
-          "deaths": 2251,
-          "recovered": 113630
+          "deaths": 2269,
+          "recovered": 114722
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1104052,
           "date": "2021-06-17",
-          "deaths": 21123,
-          "recovered": 1006595
+          "deaths": 21188,
+          "recovered": 1015562
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 194499,
           "date": "2021-06-17",
-          "deaths": 5053,
-          "recovered": 181746
+          "deaths": 5083,
+          "recovered": 183597
         }
       },
       "Santander": {
         "live": {
           "confirmed": 162297,
           "date": "2021-06-17",
-          "deaths": 5217,
-          "recovered": 148732
+          "deaths": 5254,
+          "recovered": 150414
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 293384,
           "date": "2021-06-17",
-          "deaths": 9301,
-          "recovered": 276566
+          "deaths": 9322,
+          "recovered": 278052
         }
       }
     }
@@ -1279,26 +1279,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 136313,
+          "confirmed": 136474,
           "date": "2021-06-17",
-          "deaths": 4240,
-          "recovered": 128806
+          "deaths": 4247,
+          "recovered": 129134
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 344379,
+          "confirmed": 344512,
           "date": "2021-06-17",
-          "deaths": 10567,
-          "recovered": 323113
+          "deaths": 10586,
+          "recovered": 323478
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 329279,
+          "confirmed": 329947,
           "date": "2021-06-17",
-          "deaths": 5273,
-          "recovered": 300881
+          "deaths": 5292,
+          "recovered": 304697
         }
       }
     }
