@@ -639,17 +639,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154721,
+          "confirmed": 154778,
           "date": "2021-06-17",
-          "deaths": 3830,
+          "deaths": 3834,
           "recovered": 149300
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285561,
+          "confirmed": 285590,
           "date": "2021-06-17",
-          "deaths": 9998,
+          "deaths": 10004,
           "recovered": 272900
         }
       },
@@ -1029,10 +1029,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 744844,
+      "confirmed": 745366,
       "date": "2021-06-17",
-      "deaths": 9622,
-      "recovered": 728266
+      "deaths": 9635,
+      "recovered": 728886
     }
   },
   "Kazakhstan": {
@@ -1852,10 +1852,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 312164,
+      "confirmed": 312334,
       "date": "2021-06-17",
-      "deaths": 3544,
-      "recovered": 304777
+      "deaths": 3545,
+      "recovered": 305205
     }
   },
   "Zambia": {
