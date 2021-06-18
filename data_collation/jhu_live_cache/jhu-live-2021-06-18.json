@@ -138,7 +138,7 @@
           "confirmed": 206570,
           "date": "2021-06-18",
           "deaths": 5074,
-          "recovered": 195130
+          "recovered": 196622
         }
       },
       "Amapa": {
@@ -146,7 +146,7 @@
           "confirmed": 115225,
           "date": "2021-06-18",
           "deaths": 1790,
-          "recovered": 91921
+          "recovered": 92769
         }
       },
       "Amazonas": {
@@ -194,7 +194,7 @@
           "confirmed": 649310,
           "date": "2021-06-18",
           "deaths": 18292,
-          "recovered": 614351
+          "recovered": 619681
         }
       },
       "Maranhao": {
@@ -242,7 +242,7 @@
           "confirmed": 368578,
           "date": "2021-06-18",
           "deaths": 8269,
-          "recovered": 241749
+          "recovered": 242820
         }
       },
       "Parana": {
@@ -266,7 +266,7 @@
           "confirmed": 287660,
           "date": "2021-06-18",
           "deaths": 6308,
-          "recovered": 279537
+          "recovered": 281349
         }
       },
       "Rio Grande do Norte": {
@@ -322,7 +322,7 @@
           "confirmed": 3525021,
           "date": "2021-06-18",
           "deaths": 120524,
-          "recovered": 3134988
+          "recovered": 3145406
         }
       },
       "Sergipe": {
@@ -330,7 +330,7 @@
           "confirmed": 254856,
           "date": "2021-06-18",
           "deaths": 5478,
-          "recovered": 231468
+          "recovered": 237796
         }
       },
       "Tocantins": {
@@ -1535,7 +1535,7 @@
     "live": {
       "confirmed": 233064,
       "date": "2021-06-18",
-      "deaths": 2374,
+      "deaths": 2425,
       "recovered": 195434
     }
   },
