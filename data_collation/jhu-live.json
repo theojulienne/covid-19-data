@@ -599,9 +599,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 179858,
+          "confirmed": 179826,
           "date": "2021-06-18",
-          "deaths": 3544,
+          "deaths": 3541,
           "recovered": 175200
         }
       },
@@ -1045,10 +1045,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 177282,
+      "confirmed": 178078,
       "date": "2021-06-18",
-      "deaths": 3434,
-      "recovered": 122018
+      "deaths": 3437,
+      "recovered": 122346
     }
   },
   "Korea, South": {
@@ -1349,10 +1349,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 861628,
+      "confirmed": 862926,
       "date": "2021-06-18",
-      "deaths": 17057,
-      "recovered": 817754
+      "deaths": 17061,
+      "recovered": 818440
     }
   },
   "Qatar": {
