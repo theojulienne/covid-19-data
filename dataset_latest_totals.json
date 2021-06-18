@@ -628,7 +628,7 @@
         },
         "Ontario": {
           "confirmed": 548745,
-          "deaths": 8976
+          "deaths": 8984
         },
         "Prince Edward Island": {
           "confirmed": 206,
@@ -1178,18 +1178,18 @@
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 433870,
-        "deaths": 20903,
+        "confirmed": 436023,
+        "deaths": 20949,
         "recovered": 398645
       },
       "back_2week": {
-        "confirmed": 428865,
-        "deaths": 20681,
+        "confirmed": 429817,
+        "deaths": 20706,
         "recovered": 375151
       },
       "latest": {
-        "confirmed": 441180,
-        "deaths": 21153,
+        "confirmed": 442341,
+        "deaths": 21175,
         "recovered": 407512
       }
     },
@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5663717,
-        "deaths": 109331,
-        "recovered": 335947
+        "confirmed": 5667993,
+        "deaths": 109398,
+        "recovered": 336579
       },
       "back_2week": {
-        "confirmed": 5619133,
-        "deaths": 108834,
-        "recovered": 333397
+        "confirmed": 5634526,
+        "deaths": 108982,
+        "recovered": 334930
       },
       "latest": {
-        "confirmed": 5683536,
-        "deaths": 109685,
-        "recovered": 337995
+        "confirmed": 5685387,
+        "deaths": 109741,
+        "recovered": 338555
       },
       "states": {
         "French Guiana": {
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 321648,
-        "deaths": 1806,
-        "recovered": 304916
+        "confirmed": 323357,
+        "deaths": 1810,
+        "recovered": 306232
       },
       "back_2week": {
-        "confirmed": 311846,
-        "deaths": 1779,
-        "recovered": 296242
+        "confirmed": 313289,
+        "deaths": 1783,
+        "recovered": 297329
       },
       "latest": {
-        "confirmed": 332570,
-        "deaths": 1837,
-        "recovered": 314218
+        "confirmed": 334216,
+        "deaths": 1842,
+        "recovered": 315645
       }
     },
     "LAO": {
