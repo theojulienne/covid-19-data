@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 267949,
+      "confirmed": 268251,
       "date": "2021-06-18",
       "deaths": 4979,
       "recovered": 23364
@@ -1694,7 +1694,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332303,
+          "confirmed": 1332325,
           "date": "2021-06-18",
           "deaths": 20542
         }
