@@ -75,14 +75,14 @@
         "recovered": 568828
       },
       "back_2week": {
-        "confirmed": 574958,
-        "deaths": 1686,
-        "recovered": 554589
+        "confirmed": 576947,
+        "deaths": 1689,
+        "recovered": 556549
       },
       "latest": {
-        "confirmed": 603961,
-        "deaths": 1738,
-        "recovered": 583115
+        "confirmed": 606128,
+        "deaths": 1741,
+        "recovered": 585242
       }
     },
     "ARG": {
@@ -248,19 +248,19 @@
     },
     "AZE": {
       "back_1week": {
-        "confirmed": 334917,
-        "deaths": 4948,
-        "recovered": 327626
+        "confirmed": 334992,
+        "deaths": 4951,
+        "recovered": 327907
       },
       "back_2week": {
-        "confirmed": 334288,
-        "deaths": 4926,
-        "recovered": 325418
+        "confirmed": 334416,
+        "deaths": 4929,
+        "recovered": 325863
       },
       "latest": {
-        "confirmed": 335291,
+        "confirmed": 335339,
         "deaths": 4959,
-        "recovered": 329038
+        "recovered": 329191
       }
     },
     "BDI": {
@@ -333,19 +333,19 @@
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 817819,
-        "deaths": 12949,
-        "recovered": 757569
+        "confirmed": 820395,
+        "deaths": 12989,
+        "recovered": 759630
       },
       "back_2week": {
-        "confirmed": 804293,
-        "deaths": 12694,
-        "recovered": 744065
+        "confirmed": 805980,
+        "deaths": 12724,
+        "recovered": 746035
       },
       "latest": {
-        "confirmed": 837247,
-        "deaths": 13282,
-        "recovered": 773752
+        "confirmed": 841087,
+        "deaths": 13345,
+        "recovered": 776466
       }
     },
     "BGR": {
@@ -1115,19 +1115,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 288229,
+        "confirmed": 288704,
         "deaths": 2520,
-        "recovered": 274334
+        "recovered": 275524
       },
       "back_2week": {
-        "confirmed": 283089,
+        "confirmed": 284117,
         "deaths": 2516,
-        "recovered": 267808
+        "recovered": 268938
       },
       "latest": {
-        "confirmed": 290686,
+        "confirmed": 291017,
         "deaths": 2527,
-        "recovered": 281195
+        "recovered": 282123
       },
       "states": {
         "Faroe Islands": {
