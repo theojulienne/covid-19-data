@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 134840,
+      "confirmed": 135219,
       "date": "2021-06-18",
-      "deaths": 3605,
-      "recovered": 93831
+      "deaths": 3615,
+      "recovered": 94093
     }
   },
   "Argentina": {
@@ -162,7 +162,7 @@
           "confirmed": 1083037,
           "date": "2021-06-18",
           "deaths": 22906,
-          "recovered": 1045096
+          "recovered": 1049119
         }
       },
       "Ceara": {
@@ -218,7 +218,7 @@
           "confirmed": 319490,
           "date": "2021-06-18",
           "deaths": 7671,
-          "recovered": 293643
+          "recovered": 296297
         }
       },
       "Minas Gerais": {
@@ -226,7 +226,7 @@
           "confirmed": 1714057,
           "date": "2021-06-18",
           "deaths": 43814,
-          "recovered": 1578071
+          "recovered": 1587974
         }
       },
       "Para": {
@@ -282,7 +282,7 @@
           "confirmed": 1166535,
           "date": "2021-06-18",
           "deaths": 30163,
-          "recovered": 1115438
+          "recovered": 1122250
         }
       },
       "Rio de Janeiro": {
@@ -338,7 +338,7 @@
           "confirmed": 190543,
           "date": "2021-06-18",
           "deaths": 3061,
-          "recovered": 171927
+          "recovered": 172276
         }
       }
     }
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549020,
+          "confirmed": 549048,
           "date": "2021-06-18",
-          "deaths": 8985,
-          "recovered": 535645
+          "deaths": 8986,
+          "recovered": 535668
         }
       },
       "Quebec": {
@@ -525,10 +525,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 312815,
+      "confirmed": 314031,
       "date": "2021-06-18",
-      "deaths": 3733,
-      "recovered": 255323
+      "deaths": 3742,
+      "recovered": 256874
     }
   },
   "Ecuador": {
@@ -1638,9 +1638,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 283942,
+          "confirmed": 284016,
           "date": "2021-06-18",
-          "deaths": 7560
+          "deaths": 7566
         }
       },
       "Minnesota": {
@@ -1701,7 +1701,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152389,
+          "confirmed": 152508,
           "date": "2021-06-18",
           "deaths": 895
         }
