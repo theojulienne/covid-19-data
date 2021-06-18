@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 401853,
-        "deaths": 2939,
-        "recovered": 394272
+        "confirmed": 402819,
+        "deaths": 2949,
+        "recovered": 395463
       },
       "back_2week": {
-        "confirmed": 395990,
-        "deaths": 2871,
-        "recovered": 387338
+        "confirmed": 396869,
+        "deaths": 2882,
+        "recovered": 388632
       },
       "latest": {
-        "confirmed": 407748,
-        "deaths": 3006,
-        "recovered": 400513
+        "confirmed": 408621,
+        "deaths": 3015,
+        "recovered": 401462
       }
     },
     "BLZ": {
@@ -2640,19 +2640,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 598813,
-        "deaths": 8179,
-        "recovered": 510298
+        "confirmed": 601687,
+        "deaths": 8238,
+        "recovered": 515591
       },
       "back_2week": {
-        "confirmed": 571111,
-        "deaths": 7555,
-        "recovered": 461563
+        "confirmed": 576936,
+        "deaths": 7630,
+        "recovered": 467467
       },
       "latest": {
-        "confirmed": 614216,
-        "deaths": 8558,
-        "recovered": 543521
+        "confirmed": 615984,
+        "deaths": 8597,
+        "recovered": 545662
       }
     },
     "NZL": {
@@ -3967,19 +3967,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZMB": {
       "back_1week": {
-        "confirmed": 103763,
-        "deaths": 1324,
-        "recovered": 94189
+        "confirmed": 105909,
+        "deaths": 1332,
+        "recovered": 94995
       },
       "back_2week": {
-        "confirmed": 96563,
-        "deaths": 1284,
-        "recovered": 92108
+        "confirmed": 97388,
+        "deaths": 1288,
+        "recovered": 92320
       },
       "latest": {
-        "confirmed": 118850,
-        "deaths": 1492,
-        "recovered": 100423
+        "confirmed": 122244,
+        "deaths": 1525,
+        "recovered": 101885
       }
     },
     "ZWE": {
