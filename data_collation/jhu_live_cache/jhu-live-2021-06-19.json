@@ -33,10 +33,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 649309,
+      "confirmed": 649445,
       "date": "2021-06-19",
-      "deaths": 10677,
-      "recovered": 635544
+      "deaths": 10679,
+      "recovered": 635886
     }
   },
   "Azerbaijan": {
@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 140451,
+          "confirmed": 140507,
           "date": "2021-06-19",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 132598,
+          "confirmed": 132701,
           "date": "2021-06-19",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 123524,
+          "confirmed": 123562,
           "date": "2021-06-19",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 158962,
+          "confirmed": 159014,
           "date": "2021-06-19",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 130044,
+          "confirmed": 130081,
           "date": "2021-06-19",
           "deaths": 0,
           "recovered": 0
@@ -893,10 +893,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 1963266,
+      "confirmed": 1976172,
       "date": "2021-06-19",
-      "deaths": 54043,
-      "recovered": 1779127
+      "deaths": 54291,
+      "recovered": 1786143
     }
   },
   "Iran": {
@@ -1022,7 +1022,7 @@
           "confirmed": 168389,
           "date": "2021-06-19",
           "deaths": 2176,
-          "recovered": 162215
+          "recovered": 162671
         }
       }
     }
