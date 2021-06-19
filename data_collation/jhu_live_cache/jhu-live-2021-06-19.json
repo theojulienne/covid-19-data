@@ -493,10 +493,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 359031,
+      "confirmed": 359115,
       "date": "2021-06-19",
-      "deaths": 8168,
-      "recovered": 350163
+      "deaths": 8169,
+      "recovered": 350280
     }
   },
   "Cuba": {
@@ -639,10 +639,10 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154845,
+          "confirmed": 154869,
           "date": "2021-06-19",
           "deaths": 3869,
-          "recovered": 149600
+          "recovered": 149700
         }
       },
       "Sachsen": {
@@ -1019,9 +1019,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 168389,
+          "confirmed": 168777,
           "date": "2021-06-19",
-          "deaths": 2176,
+          "deaths": 2180,
           "recovered": 162671
         }
       }
@@ -1117,10 +1117,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 685204,
+      "confirmed": 691115,
       "date": "2021-06-19",
-      "deaths": 4276,
-      "recovered": 615326
+      "deaths": 4348,
+      "recovered": 622244
     }
   },
   "Mexico": {
@@ -1365,10 +1365,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1080140,
+      "confirmed": 1080203,
       "date": "2021-06-19",
-      "deaths": 32212,
-      "recovered": 1044919
+      "deaths": 32308,
+      "recovered": 1044944
     }
   },
   "Russia": {
@@ -1694,7 +1694,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332505,
+          "confirmed": 1332526,
           "date": "2021-06-19",
           "deaths": 20542
         }
@@ -1784,10 +1784,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 608070,
+      "confirmed": 610179,
       "date": "2021-06-19",
-      "deaths": 1747,
-      "recovered": 587160
+      "deaths": 1752,
+      "recovered": 589235
     }
   },
   "United Kingdom": {
