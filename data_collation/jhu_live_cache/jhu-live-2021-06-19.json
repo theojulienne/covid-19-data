@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549322,
+          "confirmed": 549324,
           "date": "2021-06-19",
           "deaths": 8994,
-          "recovered": 536036
+          "recovered": 536047
         }
       },
       "Quebec": {
@@ -1666,9 +1666,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1394976,
+          "confirmed": 1395036,
           "date": "2021-06-19",
-          "deaths": 40388
+          "deaths": 40385
         }
       },
       "North Carolina": {
@@ -1694,7 +1694,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332526,
+          "confirmed": 1332679,
           "date": "2021-06-19",
           "deaths": 20549
         }
