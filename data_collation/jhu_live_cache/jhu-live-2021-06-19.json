@@ -533,9 +533,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 444395,
+      "confirmed": 445586,
       "date": "2021-06-19",
-      "deaths": 21234,
+      "deaths": 21284,
       "recovered": 407512
     }
   },
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839769,
+      "confirmed": 839829,
       "date": "2021-06-19",
       "deaths": 6427,
-      "recovered": 833000
+      "recovered": 833012
     }
   },
   "Italy": {
