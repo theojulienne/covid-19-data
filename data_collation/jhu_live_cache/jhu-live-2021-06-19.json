@@ -1045,10 +1045,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 178078,
+      "confirmed": 178792,
       "date": "2021-06-19",
-      "deaths": 3437,
-      "recovered": 122346
+      "deaths": 3447,
+      "recovered": 122631
     }
   },
   "Korea, South": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1796589,
+      "confirmed": 1810164,
       "date": "2021-06-19",
-      "deaths": 58441,
-      "recovered": 1632182
+      "deaths": 58590,
+      "recovered": 1640849
     }
   },
   "Spain": {
@@ -1593,10 +1593,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5359728,
+      "confirmed": 5365208,
       "date": "2021-06-19",
-      "deaths": 49071,
-      "recovered": 5224224
+      "deaths": 49122,
+      "recovered": 5228419
     }
   },
   "US": {
@@ -1645,9 +1645,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 124892,
+          "confirmed": 124928,
           "date": "2021-06-19",
-          "deaths": 1775
+          "deaths": 1777
         }
       },
       "Nevada": {
@@ -1666,7 +1666,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1394788,
+          "confirmed": 1394902,
           "date": "2021-06-19",
           "deaths": 40381
         }
@@ -1701,9 +1701,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152508,
+          "confirmed": 152610,
           "date": "2021-06-19",
-          "deaths": 895
+          "deaths": 896
         }
       },
       "Washington": {

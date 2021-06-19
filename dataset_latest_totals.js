@@ -1938,19 +1938,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 174285,
-        "deaths": 3362,
-        "recovered": 119246
+        "confirmed": 174773,
+        "deaths": 3378,
+        "recovered": 119589
       },
       "back_2week": {
-        "confirmed": 171658,
-        "deaths": 3223,
-        "recovered": 117345
+        "confirmed": 171942,
+        "deaths": 3240,
+        "recovered": 117469
       },
       "latest": {
-        "confirmed": 177282,
-        "deaths": 3434,
-        "recovered": 122018
+        "confirmed": 178078,
+        "deaths": 3437,
+        "recovered": 122346
       }
     },
     "KGZ": {
@@ -3361,19 +3361,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 5313098,
-        "deaths": 48524,
-        "recovered": 5186728
+        "confirmed": 5319359,
+        "deaths": 48593,
+        "recovered": 5192945
       },
       "back_2week": {
-        "confirmed": 5270299,
-        "deaths": 47882,
-        "recovered": 5139993
+        "confirmed": 5276468,
+        "deaths": 47976,
+        "recovered": 5147610
       },
       "latest": {
-        "confirmed": 5354153,
-        "deaths": 49012,
-        "recovered": 5219797
+        "confirmed": 5359728,
+        "deaths": 49071,
+        "recovered": 5224224
       }
     },
     "TWN": {
@@ -3950,19 +3950,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1722086,
-        "deaths": 57410,
-        "recovered": 1593059
+        "confirmed": 1730106,
+        "deaths": 57592,
+        "recovered": 1598293
       },
       "back_2week": {
-        "confirmed": 1680373,
-        "deaths": 56765,
-        "recovered": 1567635
+        "confirmed": 1686041,
+        "deaths": 56832,
+        "recovered": 1570975
       },
       "latest": {
-        "confirmed": 1786079,
-        "deaths": 58323,
-        "recovered": 1623319
+        "confirmed": 1796589,
+        "deaths": 58441,
+        "recovered": 1632182
       }
     },
     "ZMB": {
