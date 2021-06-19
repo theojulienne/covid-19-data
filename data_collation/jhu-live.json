@@ -430,7 +430,7 @@
           "confirmed": 598460,
           "date": "2021-06-19",
           "deaths": 13069,
-          "recovered": 554429
+          "recovered": 557901
         }
       },
       "Atlantico": {
@@ -438,7 +438,7 @@
           "confirmed": 283557,
           "date": "2021-06-19",
           "deaths": 8795,
-          "recovered": 270585
+          "recovered": 271224
         }
       },
       "Bolivar": {
@@ -446,7 +446,7 @@
           "confirmed": 121702,
           "date": "2021-06-19",
           "deaths": 2319,
-          "recovered": 115919
+          "recovered": 116892
         }
       },
       "Capital District": {
@@ -454,7 +454,7 @@
           "confirmed": 1136113,
           "date": "2021-06-19",
           "deaths": 21615,
-          "recovered": 1024506
+          "recovered": 1033864
         }
       },
       "Cundinamarca": {
@@ -462,7 +462,7 @@
           "confirmed": 200595,
           "date": "2021-06-19",
           "deaths": 5171,
-          "recovered": 185957
+          "recovered": 187693
         }
       },
       "Santander": {
@@ -470,7 +470,7 @@
           "confirmed": 168447,
           "date": "2021-06-19",
           "deaths": 5374,
-          "recovered": 152402
+          "recovered": 154382
         }
       },
       "Valle del Cauca": {
@@ -478,7 +478,7 @@
           "confirmed": 299020,
           "date": "2021-06-19",
           "deaths": 9493,
-          "recovered": 279740
+          "recovered": 281749
         }
       }
     }
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 348662,
+      "confirmed": 351378,
       "date": "2021-06-19",
-      "deaths": 5152,
-      "recovered": 313388
+      "deaths": 5207,
+      "recovered": 317016
     }
   },
   "Uzbekistan": {
