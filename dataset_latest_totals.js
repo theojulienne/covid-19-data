@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 593894,
-        "deaths": 1720,
-        "recovered": 573194
+        "confirmed": 596017,
+        "deaths": 1724,
+        "recovered": 575288
       },
       "back_2week": {
-        "confirmed": 579009,
-        "deaths": 1691,
-        "recovered": 558584
+        "confirmed": 581197,
+        "deaths": 1696,
+        "recovered": 560734
       },
       "latest": {
-        "confirmed": 608070,
-        "deaths": 1747,
-        "recovered": 587160
+        "confirmed": 610179,
+        "deaths": 1752,
+        "recovered": 589235
       }
     },
     "ARG": {
@@ -231,19 +231,19 @@ var covid19_dataset_latest_totals = {
     },
     "AUT": {
       "back_1week": {
-        "confirmed": 648187,
+        "confirmed": 648387,
         "deaths": 10652,
-        "recovered": 633105
+        "recovered": 633538
       },
       "back_2week": {
-        "confirmed": 646167,
-        "deaths": 10631,
-        "recovered": 631138
+        "confirmed": 646438,
+        "deaths": 10636,
+        "recovered": 630458
       },
       "latest": {
-        "confirmed": 649309,
-        "deaths": 10677,
-        "recovered": 635544
+        "confirmed": 649445,
+        "deaths": 10679,
+        "recovered": 635886
       }
     },
     "AZE": {
@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 403845,
-        "deaths": 2958,
-        "recovered": 396650
+        "confirmed": 404740,
+        "deaths": 2969,
+        "recovered": 397587
       },
       "back_2week": {
-        "confirmed": 398052,
-        "deaths": 2892,
-        "recovered": 389929
+        "confirmed": 398909,
+        "deaths": 2900,
+        "recovered": 391003
       },
       "latest": {
-        "confirmed": 409385,
-        "deaths": 3025,
-        "recovered": 402202
+        "confirmed": 410096,
+        "deaths": 3035,
+        "recovered": 402876
       }
     },
     "BLZ": {
