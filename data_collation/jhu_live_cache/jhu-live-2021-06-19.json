@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4242763,
+      "confirmed": 4258394,
       "date": "2021-06-19",
-      "deaths": 88247,
-      "recovered": 3844329
+      "deaths": 88742,
+      "recovered": 3868105
     }
   },
   "Armenia": {
@@ -210,7 +210,7 @@
           "confirmed": 436145,
           "date": "2021-06-19",
           "deaths": 11435,
-          "recovered": 407880
+          "recovered": 412610
         }
       },
       "Mato Grosso do Sul": {
@@ -234,7 +234,7 @@
           "confirmed": 541833,
           "date": "2021-06-19",
           "deaths": 15183,
-          "recovered": 502521
+          "recovered": 505342
         }
       },
       "Paraiba": {
@@ -258,7 +258,7 @@
           "confirmed": 535707,
           "date": "2021-06-19",
           "deaths": 17216,
-          "recovered": 438357
+          "recovered": 449231
         }
       },
       "Piaui": {
@@ -314,7 +314,7 @@
           "confirmed": 1025344,
           "date": "2021-06-19",
           "deaths": 16285,
-          "recovered": 973425
+          "recovered": 985897
         }
       },
       "Sao Paulo": {
