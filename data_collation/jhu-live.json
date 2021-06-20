@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549542,
+          "confirmed": 549553,
           "date": "2021-06-20",
           "deaths": 8997,
-          "recovered": 536365
+          "recovered": 536374
         }
       },
       "Quebec": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275036,
+      "confirmed": 275194,
       "date": "2021-06-20",
-      "deaths": 4280,
-      "recovered": 254296
+      "deaths": 4283,
+      "recovered": 254948
     }
   },
   "France": {
