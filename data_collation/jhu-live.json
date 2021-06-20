@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549476,
+          "confirmed": 549510,
           "date": "2021-06-20",
           "deaths": 8996,
-          "recovered": 536271
+          "recovered": 536315
         }
       },
       "Quebec": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 129225,
+      "confirmed": 129275,
       "date": "2021-06-20",
       "deaths": 790,
       "recovered": 17998
