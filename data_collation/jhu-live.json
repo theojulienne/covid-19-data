@@ -9,10 +9,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 135586,
+      "confirmed": 135821,
       "date": "2021-06-20",
-      "deaths": 3624,
-      "recovered": 94336
+      "deaths": 3631,
+      "recovered": 94571
     }
   },
   "Argentina": {
@@ -583,9 +583,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 499633,
+          "confirmed": 499700,
           "date": "2021-06-20",
-          "deaths": 10159,
+          "deaths": 10161,
           "recovered": 484600
         }
       },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 337371,
+      "confirmed": 339032,
       "date": "2021-06-20",
-      "deaths": 1862,
-      "recovered": 318419
+      "deaths": 1870,
+      "recovered": 319885
     }
   },
   "Kyrgyzstan": {
@@ -1610,7 +1610,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2741341,
+          "confirmed": 2741387,
           "date": "2021-06-20",
           "deaths": 48131
         }
