@@ -493,10 +493,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 359115,
+      "confirmed": 359173,
       "date": "2021-06-20",
-      "deaths": 8169,
-      "recovered": 350280
+      "deaths": 8174,
+      "recovered": 350402
     }
   },
   "Cuba": {
@@ -639,7 +639,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 154870,
+          "confirmed": 154899,
           "date": "2021-06-20",
           "deaths": 3869,
           "recovered": 149900
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3086974,
+      "confirmed": 3095135,
       "date": "2021-06-20",
-      "deaths": 82854,
-      "recovered": 2736013
+      "deaths": 82965,
+      "recovered": 2748320
     }
   },
   "Iraq": {
@@ -1117,10 +1117,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 691115,
+      "confirmed": 696408,
       "date": "2021-06-20",
-      "deaths": 4348,
-      "recovered": 622244
+      "deaths": 4408,
+      "recovered": 628185
     }
   },
   "Mexico": {
@@ -1269,36 +1269,36 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 242723,
+      "confirmed": 248043,
       "date": "2021-06-20",
-      "deaths": 2626,
-      "recovered": 213880
+      "deaths": 2710,
+      "recovered": 218841
     }
   },
   "Pakistan": {
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 136819,
+          "confirmed": 136973,
           "date": "2021-06-20",
-          "deaths": 4257,
-          "recovered": 129678
+          "deaths": 4262,
+          "recovered": 130345
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 344799,
+          "confirmed": 344970,
           "date": "2021-06-20",
-          "deaths": 10615,
-          "recovered": 323925
+          "deaths": 10633,
+          "recovered": 324530
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 331094,
+          "confirmed": 331659,
           "date": "2021-06-20",
-          "deaths": 5314,
-          "recovered": 305933
+          "deaths": 5327,
+          "recovered": 307067
         }
       }
     }
@@ -1365,10 +1365,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1080203,
+      "confirmed": 1080256,
       "date": "2021-06-20",
-      "deaths": 32308,
-      "recovered": 1044944
+      "deaths": 32326,
+      "recovered": 1045122
     }
   },
   "Russia": {
@@ -1433,10 +1433,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 256956,
+      "confirmed": 256982,
       "date": "2021-06-20",
       "deaths": 4412,
-      "recovered": 250813
+      "recovered": 250970
     }
   },
   "South Africa": {
@@ -1694,7 +1694,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332781,
+          "confirmed": 1332790,
           "date": "2021-06-20",
           "deaths": 20549
         }
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 126973,
+      "confirmed": 129033,
       "date": "2021-06-20",
-      "deaths": 1595,
-      "recovered": 105960
+      "deaths": 1644,
+      "recovered": 108960
     }
   }
 }
