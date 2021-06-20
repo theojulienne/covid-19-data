@@ -75,7 +75,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 140507,
+          "confirmed": 140580,
           "date": "2021-06-20",
           "deaths": 0,
           "recovered": 0
@@ -83,7 +83,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 132701,
+          "confirmed": 132769,
           "date": "2021-06-20",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 123562,
+          "confirmed": 123609,
           "date": "2021-06-20",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 159014,
+          "confirmed": 159061,
           "date": "2021-06-20",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 130081,
+          "confirmed": 130135,
           "date": "2021-06-20",
           "deaths": 0,
           "recovered": 0
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 278409,
+      "confirmed": 279947,
       "date": "2021-06-20",
-      "deaths": 8595,
-      "recovered": 251837
+      "deaths": 8645,
+      "recovered": 252995
     }
   },
   "Honduras": {
@@ -1305,10 +1305,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 392166,
+      "confirmed": 393144,
       "date": "2021-06-20",
-      "deaths": 6465,
-      "recovered": 375487
+      "deaths": 6468,
+      "recovered": 376215
     }
   },
   "Paraguay": {
@@ -1603,9 +1603,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 673057,
+          "confirmed": 673704,
           "date": "2021-06-20",
-          "deaths": 12614
+          "deaths": 12639
         }
       },
       "California": {
