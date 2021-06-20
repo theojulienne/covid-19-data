@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839850,
+      "confirmed": 839867,
       "date": "2021-06-20",
       "deaths": 6427,
-      "recovered": 833032
+      "recovered": 833038
     }
   },
   "Italy": {
@@ -1585,10 +1585,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 381175,
+      "confirmed": 382950,
       "date": "2021-06-20",
-      "deaths": 13960,
-      "recovered": 331910
+      "deaths": 14038,
+      "recovered": 332962
     }
   },
   "Turkey": {
@@ -1694,9 +1694,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332790,
+          "confirmed": 1332919,
           "date": "2021-06-20",
-          "deaths": 20549
+          "deaths": 20554
         }
       },
       "Utah": {
