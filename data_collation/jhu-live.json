@@ -1019,9 +1019,9 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 168777,
+          "confirmed": 169153,
           "date": "2021-06-20",
-          "deaths": 2180,
+          "deaths": 2181,
           "recovered": 162671
         }
       }
@@ -1333,18 +1333,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1353220,
+      "confirmed": 1359015,
       "date": "2021-06-20",
-      "deaths": 23538,
-      "recovered": 1270243
+      "deaths": 23621,
+      "recovered": 1277715
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2878634,
+      "confirmed": 2878767,
       "date": "2021-06-20",
-      "deaths": 74823,
-      "recovered": 2650194
+      "deaths": 74828,
+      "recovered": 2650476
     }
   },
   "Portugal": {
@@ -1375,34 +1375,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1278265,
+          "confirmed": 1286570,
           "date": "2021-06-20",
-          "deaths": 21352,
-          "recovered": 1113794
+          "deaths": 21433,
+          "recovered": 1116739
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 288904,
+          "confirmed": 290542,
           "date": "2021-06-20",
-          "deaths": 6329,
-          "recovered": 237857
+          "deaths": 6342,
+          "recovered": 238812
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 121469,
+          "confirmed": 121718,
           "date": "2021-06-20",
-          "deaths": 3957,
-          "recovered": 114756
+          "deaths": 3980,
+          "recovered": 114874
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 456336,
+          "confirmed": 457355,
           "date": "2021-06-20",
-          "deaths": 15268,
-          "recovered": 428256
+          "deaths": 15341,
+          "recovered": 428695
         }
       }
     }
@@ -1577,9 +1577,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 214449,
+      "confirmed": 218131,
       "date": "2021-06-20",
-      "deaths": 1609,
+      "deaths": 1629,
       "recovered": 26873
     }
   },
