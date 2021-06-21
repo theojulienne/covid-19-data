@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4258394,
+      "confirmed": 4268789,
       "date": "2021-06-20",
-      "deaths": 88742,
-      "recovered": 3868105
+      "deaths": 89043,
+      "recovered": 3890213
     }
   },
   "Armenia": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421005,
+      "confirmed": 421032,
       "date": "2021-06-20",
-      "deaths": 17989,
-      "recovered": 392809
+      "deaths": 17990,
+      "recovered": 392816
     }
   },
   "Burma": {
@@ -1261,7 +1261,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 129275,
+      "confirmed": 129333,
       "date": "2021-06-20",
       "deaths": 790,
       "recovered": 17998
@@ -1603,9 +1603,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 673704,
+          "confirmed": 674080,
           "date": "2021-06-20",
-          "deaths": 12639
+          "deaths": 12644
         }
       },
       "California": {
