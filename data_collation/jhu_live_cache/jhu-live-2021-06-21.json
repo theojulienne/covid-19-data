@@ -541,10 +541,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 276756,
+      "confirmed": 277288,
       "date": "2021-06-21",
-      "deaths": 15829,
-      "recovered": 205157
+      "deaths": 15859,
+      "recovered": 205613
     }
   },
   "Estonia": {
@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 466115,
+      "confirmed": 466125,
       "date": "2021-06-21",
-      "deaths": 3509,
-      "recovered": 436925
+      "deaths": 3510,
+      "recovered": 436955
     }
   },
   "Kenya": {
