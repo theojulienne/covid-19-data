@@ -162,7 +162,7 @@
           "confirmed": 1097339,
           "date": "2021-06-21",
           "deaths": 23177,
-          "recovered": 1053444
+          "recovered": 1059838
         }
       },
       "Ceara": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549729,
+          "confirmed": 549780,
           "date": "2021-06-21",
-          "deaths": 8999,
-          "recovered": 536707
+          "deaths": 9008,
+          "recovered": 536769
         }
       },
       "Quebec": {
@@ -430,7 +430,7 @@
           "confirmed": 606547,
           "date": "2021-06-21",
           "deaths": 13191,
-          "recovered": 565409
+          "recovered": 569228
         }
       },
       "Atlantico": {
@@ -438,7 +438,7 @@
           "confirmed": 284614,
           "date": "2021-06-21",
           "deaths": 8844,
-          "recovered": 272492
+          "recovered": 272586
         }
       },
       "Bolivar": {
@@ -446,7 +446,7 @@
           "confirmed": 122717,
           "date": "2021-06-21",
           "deaths": 2350,
-          "recovered": 117963
+          "recovered": 118283
         }
       },
       "Capital District": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 839971,
+      "confirmed": 839990,
       "date": "2021-06-21",
       "deaths": 6427,
-      "recovered": 833053
+      "recovered": 833062
     }
   },
   "Italy": {
@@ -1603,7 +1603,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 674080,
+          "confirmed": 674413,
           "date": "2021-06-21",
           "deaths": 12644
         }
