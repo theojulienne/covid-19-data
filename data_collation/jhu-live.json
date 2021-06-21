@@ -438,7 +438,7 @@
           "confirmed": 284614,
           "date": "2021-06-21",
           "deaths": 8844,
-          "recovered": 272222
+          "recovered": 272492
         }
       },
       "Bolivar": {
@@ -446,7 +446,7 @@
           "confirmed": 122717,
           "date": "2021-06-21",
           "deaths": 2350,
-          "recovered": 117858
+          "recovered": 117963
         }
       },
       "Capital District": {
@@ -454,7 +454,7 @@
           "confirmed": 1157637,
           "date": "2021-06-21",
           "deaths": 21905,
-          "recovered": 1052665
+          "recovered": 1059162
         }
       },
       "Cundinamarca": {
@@ -462,7 +462,7 @@
           "confirmed": 203452,
           "date": "2021-06-21",
           "deaths": 5261,
-          "recovered": 191273
+          "recovered": 192097
         }
       },
       "Santander": {
@@ -470,7 +470,7 @@
           "confirmed": 172678,
           "date": "2021-06-21",
           "deaths": 5468,
-          "recovered": 158900
+          "recovered": 160215
         }
       },
       "Valle del Cauca": {
@@ -478,7 +478,7 @@
           "confirmed": 303867,
           "date": "2021-06-21",
           "deaths": 9626,
-          "recovered": 284834
+          "recovered": 286337
         }
       }
     }
@@ -583,9 +583,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 499703,
+          "confirmed": 499758,
           "date": "2021-06-21",
-          "deaths": 10161,
+          "deaths": 10171,
           "recovered": 484900
         }
       },
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 280507,
+      "confirmed": 280854,
       "date": "2021-06-21",
-      "deaths": 8694,
-      "recovered": 253940
+      "deaths": 8735,
+      "recovered": 254700
     }
   },
   "Honduras": {
@@ -1441,10 +1441,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1823319,
+      "confirmed": 1832479,
       "date": "2021-06-21",
-      "deaths": 58702,
-      "recovered": 1647503
+      "deaths": 58795,
+      "recovered": 1656680
     }
   },
   "Spain": {
@@ -1535,7 +1535,7 @@
     "live": {
       "confirmed": 241820,
       "date": "2021-06-21",
-      "deaths": 2581,
+      "deaths": 2633,
       "recovered": 201389
     }
   },
@@ -1680,7 +1680,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 244557,
+          "confirmed": 244594,
           "date": "2021-06-21",
           "deaths": 3678
         }
@@ -1701,7 +1701,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152699,
+          "confirmed": 152736,
           "date": "2021-06-21",
           "deaths": 896
         }
@@ -1715,9 +1715,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117648,
+          "confirmed": 117680,
           "date": "2021-06-21",
-          "deaths": 1416
+          "deaths": 1417
         }
       }
     }
