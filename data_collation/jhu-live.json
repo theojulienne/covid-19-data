@@ -226,7 +226,7 @@
           "confirmed": 1738342,
           "date": "2021-06-21",
           "deaths": 44536,
-          "recovered": 1587974
+          "recovered": 1604492
         }
       },
       "Para": {
@@ -345,10 +345,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421032,
+      "confirmed": 421152,
       "date": "2021-06-21",
-      "deaths": 17990,
-      "recovered": 392816
+      "deaths": 18000,
+      "recovered": 393186
     }
   },
   "Burma": {
@@ -363,10 +363,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 231359,
+          "confirmed": 231419,
           "date": "2021-06-21",
-          "deaths": 2290,
-          "recovered": 226942
+          "deaths": 2292,
+          "recovered": 227124
         }
       },
       "British Columbia": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550053,
+          "confirmed": 550084,
           "date": "2021-06-21",
-          "deaths": 9036,
-          "recovered": 537273
+          "deaths": 9037,
+          "recovered": 537340
         }
       },
       "Quebec": {
@@ -1631,9 +1631,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135278,
+          "confirmed": 135286,
           "date": "2021-06-21",
-          "deaths": 3772
+          "deaths": 3774
         }
       },
       "Michigan": {
@@ -1694,9 +1694,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1332964,
+          "confirmed": 1333117,
           "date": "2021-06-21",
-          "deaths": 20559
+          "deaths": 20560
         }
       },
       "Utah": {

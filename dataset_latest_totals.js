@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 420294,
-        "deaths": 17898,
-        "recovered": 389402
+        "confirmed": 420336,
+        "deaths": 17900,
+        "recovered": 389495
       },
       "back_2week": {
-        "confirmed": 419426,
-        "deaths": 17813,
-        "recovered": 386068
+        "confirmed": 419473,
+        "deaths": 17820,
+        "recovered": 386099
       },
       "latest": {
-        "confirmed": 421005,
-        "deaths": 17989,
-        "recovered": 392809
+        "confirmed": 421032,
+        "deaths": 17990,
+        "recovered": 392816
       }
     },
     "BHR": {
@@ -581,14 +581,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 1348019
       },
       "latest": {
-        "confirmed": 1415663,
+        "confirmed": 1416203,
         "deaths": 26055,
         "recovered": 1376908
       },
       "states": {
         "Alberta": {
-          "confirmed": 231259,
-          "deaths": 2289
+          "confirmed": 231359,
+          "deaths": 2290
         },
         "British Columbia": {
           "confirmed": 146902,
