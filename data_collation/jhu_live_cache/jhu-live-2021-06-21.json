@@ -25,10 +25,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 224227,
+      "confirmed": 224253,
       "date": "2021-06-21",
-      "deaths": 4498,
-      "recovered": 216049
+      "deaths": 4499,
+      "recovered": 216112
     }
   },
   "Austria": {
@@ -549,10 +549,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 130806,
+      "confirmed": 130818,
       "date": "2021-06-21",
       "deaths": 1268,
-      "recovered": 126664
+      "recovered": 126696
     }
   },
   "Ethiopia": {
@@ -573,10 +573,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 358881,
+      "confirmed": 359141,
       "date": "2021-06-21",
-      "deaths": 5160,
-      "recovered": 344748
+      "deaths": 5175,
+      "recovered": 345582
     }
   },
   "Germany": {
@@ -689,10 +689,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 807428,
+      "confirmed": 807630,
       "date": "2021-06-21",
-      "deaths": 29950,
-      "recovered": 734627
+      "deaths": 29959,
+      "recovered": 735574
     }
   },
   "India": {
@@ -1425,9 +1425,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 391248,
+      "confirmed": 391325,
       "date": "2021-06-21",
-      "deaths": 12478,
+      "deaths": 12492,
       "recovered": 255300
     }
   },
@@ -1571,15 +1571,15 @@
     "live": {
       "confirmed": 701627,
       "date": "2021-06-21",
-      "deaths": 10868,
+      "deaths": 10869,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 218131,
+      "confirmed": 221306,
       "date": "2021-06-21",
-      "deaths": 1629,
+      "deaths": 1658,
       "recovered": 26873
     }
   },
