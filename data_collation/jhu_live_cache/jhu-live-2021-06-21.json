@@ -290,7 +290,7 @@
           "confirmed": 932229,
           "date": "2021-06-21",
           "deaths": 54250,
-          "recovered": 865881
+          "recovered": 869163
         }
       },
       "Rondonia": {
@@ -322,7 +322,7 @@
           "confirmed": 3582792,
           "date": "2021-06-21",
           "deaths": 122160,
-          "recovered": 3145406
+          "recovered": 3192471
         }
       },
       "Sergipe": {
@@ -379,10 +379,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 549780,
+          "confirmed": 550053,
           "date": "2021-06-21",
-          "deaths": 9008,
-          "recovered": 536769
+          "deaths": 9036,
+          "recovered": 537273
         }
       },
       "Quebec": {
@@ -557,10 +557,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275194,
+      "confirmed": 275318,
       "date": "2021-06-21",
-      "deaths": 4283,
-      "recovered": 254948
+      "deaths": 4286,
+      "recovered": 255502
     }
   },
   "France": {
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 339032,
+      "confirmed": 340967,
       "date": "2021-06-21",
-      "deaths": 1870,
-      "recovered": 319885
+      "deaths": 1877,
+      "recovered": 321293
     }
   },
   "Kyrgyzstan": {
@@ -1610,9 +1610,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2741979,
+          "confirmed": 2742100,
           "date": "2021-06-21",
-          "deaths": 48135
+          "deaths": 48140
         }
       },
       "Florida": {
@@ -1638,9 +1638,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 284016,
+          "confirmed": 284139,
           "date": "2021-06-21",
-          "deaths": 7566
+          "deaths": 7578
         }
       },
       "Minnesota": {
@@ -1694,9 +1694,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1333045,
+          "confirmed": 1332964,
           "date": "2021-06-21",
-          "deaths": 20558
+          "deaths": 20559
         }
       },
       "Utah": {
