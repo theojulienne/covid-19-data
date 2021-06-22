@@ -290,7 +290,7 @@
           "confirmed": 1183398,
           "date": "2021-06-22",
           "deaths": 30450,
-          "recovered": 1136950
+          "recovered": 1139368
         }
       },
       "Rio de Janeiro": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 148617,
+      "confirmed": 149247,
       "date": "2021-06-22",
-      "deaths": 3265,
-      "recovered": 133753
+      "deaths": 3267,
+      "recovered": 133893
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550228,
+          "confirmed": 550239,
           "date": "2021-06-22",
-          "deaths": 9043,
-          "recovered": 537632
+          "deaths": 9047,
+          "recovered": 537644
         }
       },
       "Quebec": {
@@ -1674,9 +1674,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1395508,
+          "confirmed": 1395592,
           "date": "2021-06-22",
-          "deaths": 40390
+          "deaths": 40393
         }
       },
       "North Carolina": {
@@ -1704,7 +1704,7 @@
         "live": {
           "confirmed": 1333275,
           "date": "2021-06-22",
-          "deaths": 20561
+          "deaths": 20563
         }
       },
       "Utah": {
