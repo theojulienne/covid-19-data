@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132490,
+      "confirmed": 132491,
       "date": "2021-06-22",
-      "deaths": 2454,
-      "recovered": 129918
+      "deaths": 2455,
+      "recovered": 129929
     }
   },
   "Algeria": {
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 747000,
+      "confirmed": 747504,
       "date": "2021-06-22",
-      "deaths": 9671,
-      "recovered": 730831
+      "deaths": 9683,
+      "recovered": 731418
     }
   },
   "Kazakhstan": {
@@ -1357,10 +1357,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 865806,
+      "confirmed": 866826,
       "date": "2021-06-22",
-      "deaths": 17068,
-      "recovered": 820081
+      "deaths": 17074,
+      "recovered": 821374
     }
   },
   "Qatar": {
