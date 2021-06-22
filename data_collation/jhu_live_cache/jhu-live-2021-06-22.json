@@ -390,7 +390,7 @@
           "confirmed": 374011,
           "date": "2021-06-22",
           "deaths": 11191,
-          "recovered": 361352
+          "recovered": 361521
         }
       }
     }
@@ -1021,7 +1021,7 @@
         "live": {
           "confirmed": 169389,
           "date": "2021-06-22",
-          "deaths": 2181,
+          "deaths": 2182,
           "recovered": 163459
         }
       }
@@ -1305,18 +1305,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 393727,
+      "confirmed": 394241,
       "date": "2021-06-22",
-      "deaths": 6475,
-      "recovered": 376761
+      "deaths": 6477,
+      "recovered": 377243
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 406220,
+      "confirmed": 407721,
       "date": "2021-06-22",
-      "deaths": 11633,
-      "recovered": 343959
+      "deaths": 11743,
+      "recovered": 346646
     }
   },
   "Peru": {
@@ -1708,9 +1708,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 111557,
+          "confirmed": 111679,
           "date": "2021-06-22",
-          "deaths": 1610
+          "deaths": 1614
         }
       },
       "Wisconsin": {
