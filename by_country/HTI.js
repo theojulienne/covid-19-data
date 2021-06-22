@@ -1037,7 +1037,8 @@ var covid19_dataset_country_hti = {
       16859,
       16859,
       16859,
-      16859
+      16859,
+      17061
     ],
     "deaths": [
       0,
@@ -1555,7 +1556,8 @@ var covid19_dataset_country_hti = {
       361,
       361,
       361,
-      361
+      361,
+      369
     ],
     "recovered": [
       0,
@@ -2073,7 +2075,8 @@ var covid19_dataset_country_hti = {
       12590,
       12612,
       12645,
-      12645
+      12645,
+      12667
     ]
   }
 };
