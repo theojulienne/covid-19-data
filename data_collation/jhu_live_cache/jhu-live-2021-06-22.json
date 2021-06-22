@@ -274,7 +274,7 @@
           "confirmed": 290302,
           "date": "2021-06-22",
           "deaths": 6397,
-          "recovered": 281349
+          "recovered": 283852
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 1183398,
           "date": "2021-06-22",
           "deaths": 30450,
-          "recovered": 1128061
+          "recovered": 1136950
         }
       },
       "Rio de Janeiro": {
@@ -346,7 +346,7 @@
           "confirmed": 192801,
           "date": "2021-06-22",
           "deaths": 3106,
-          "recovered": 172276
+          "recovered": 174382
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550217,
+          "confirmed": 550226,
           "date": "2021-06-22",
           "deaths": 9043,
-          "recovered": 537614
+          "recovered": 537629
         }
       },
       "Quebec": {
@@ -681,10 +681,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 280854,
+      "confirmed": 282713,
       "date": "2021-06-22",
-      "deaths": 8735,
-      "recovered": 254700
+      "deaths": 8785,
+      "recovered": 255996
     }
   },
   "Honduras": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 256187,
+      "confirmed": 256232,
       "date": "2021-06-22",
-      "deaths": 6173,
-      "recovered": 249216
+      "deaths": 6175,
+      "recovered": 249250
     }
   },
   "Morocco": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 284139,
+          "confirmed": 284191,
           "date": "2021-06-22",
-          "deaths": 7578
+          "deaths": 7581
         }
       },
       "Minnesota": {
@@ -1660,9 +1660,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 256067,
+          "confirmed": 256415,
           "date": "2021-06-22",
-          "deaths": 4464
+          "deaths": 4471
         }
       },
       "New Jersey": {
@@ -1674,7 +1674,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1395438,
+          "confirmed": 1395508,
           "date": "2021-06-22",
           "deaths": 40390
         }
@@ -1690,7 +1690,7 @@
         "live": {
           "confirmed": 244705,
           "date": "2021-06-22",
-          "deaths": 3678
+          "deaths": 3685
         }
       },
       "Pennsylvania": {
@@ -1723,9 +1723,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117680,
+          "confirmed": 117695,
           "date": "2021-06-22",
-          "deaths": 1417
+          "deaths": 1418
         }
       }
     }
