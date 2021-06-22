@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 258731,
-        "deaths": 1221,
-        "recovered": 244579
+        "confirmed": 259523,
+        "deaths": 1236,
+        "recovered": 246074
       },
       "back_2week": {
-        "confirmed": 251078,
-        "deaths": 1119,
-        "recovered": 228370
+        "confirmed": 252600,
+        "deaths": 1143,
+        "recovered": 231113
       },
       "latest": {
-        "confirmed": 262892,
-        "deaths": 1306,
-        "recovered": 253910
+        "confirmed": 263295,
+        "deaths": 1311,
+        "recovered": 254913
       }
     },
     "BHS": {
@@ -587,7 +587,7 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 231359,
+          "confirmed": 231419,
           "deaths": 2290
         },
         "British Columbia": {
@@ -1263,19 +1263,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 274187,
-        "deaths": 4242,
-        "recovered": 250664
+        "confirmed": 274346,
+        "deaths": 4250,
+        "recovered": 251107
       },
       "back_2week": {
-        "confirmed": 272914,
-        "deaths": 4209,
-        "recovered": 246247
+        "confirmed": 273024,
+        "deaths": 4213,
+        "recovered": 246883
       },
       "latest": {
-        "confirmed": 275194,
-        "deaths": 4283,
-        "recovered": 254948
+        "confirmed": 275318,
+        "deaths": 4286,
+        "recovered": 255502
       }
     },
     "FIN": {
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 327963,
-        "deaths": 1820,
-        "recovered": 310095
+        "confirmed": 329526,
+        "deaths": 1828,
+        "recovered": 311559
       },
       "back_2week": {
-        "confirmed": 317197,
-        "deaths": 1795,
-        "recovered": 301137
+        "confirmed": 318676,
+        "deaths": 1798,
+        "recovered": 302393
       },
       "latest": {
-        "confirmed": 339032,
-        "deaths": 1870,
-        "recovered": 319885
+        "confirmed": 340967,
+        "deaths": 1877,
+        "recovered": 321293
       }
     },
     "LAO": {
@@ -2142,17 +2142,17 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 223638,
+        "confirmed": 225922,
         "deaths": 2136,
         "recovered": 188547
       },
       "back_2week": {
-        "confirmed": 205333,
+        "confirmed": 207979,
         "deaths": 1696,
         "recovered": 167304
       },
       "latest": {
-        "confirmed": 239689,
+        "confirmed": 241820,
         "deaths": 2581,
         "recovered": 201389
       }
