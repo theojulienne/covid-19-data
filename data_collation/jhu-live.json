@@ -17,10 +17,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4268789,
+      "confirmed": 4277395,
       "date": "2021-06-21",
-      "deaths": 89043,
-      "recovered": 3890213
+      "deaths": 89490,
+      "recovered": 3910835
     }
   },
   "Armenia": {
@@ -1093,10 +1093,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 543505,
+      "confirmed": 543551,
       "date": "2021-06-21",
-      "deaths": 7822,
-      "recovered": 529618
+      "deaths": 7825,
+      "recovered": 530393
     }
   },
   "Libya": {
@@ -1585,10 +1585,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 382950,
+      "confirmed": 385428,
       "date": "2021-06-21",
-      "deaths": 14038,
-      "recovered": 332962
+      "deaths": 14118,
+      "recovered": 336652
     }
   },
   "Turkey": {
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 354865,
+      "confirmed": 356382,
       "date": "2021-06-21",
-      "deaths": 5271,
-      "recovered": 323494
+      "deaths": 5316,
+      "recovered": 326871
     }
   },
   "Uzbekistan": {
@@ -1852,10 +1852,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 312673,
+      "confirmed": 312811,
       "date": "2021-06-21",
-      "deaths": 3551,
-      "recovered": 306240
+      "deaths": 3554,
+      "recovered": 306312
     }
   },
   "Zambia": {
