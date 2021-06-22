@@ -1161,19 +1161,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 133388,
-        "deaths": 3571,
-        "recovered": 92852
+        "confirmed": 133742,
+        "deaths": 3579,
+        "recovered": 93094
       },
       "back_2week": {
-        "confirmed": 130958,
-        "deaths": 3518,
-        "recovered": 91198
+        "confirmed": 131283,
+        "deaths": 3527,
+        "recovered": 91413
       },
       "latest": {
-        "confirmed": 135821,
-        "deaths": 3631,
-        "recovered": 94571
+        "confirmed": 136294,
+        "deaths": 3641,
+        "recovered": 94822
       }
     },
     "ECU": {

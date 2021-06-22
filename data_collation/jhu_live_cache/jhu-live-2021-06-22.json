@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 136294,
+      "confirmed": 136679,
       "date": "2021-06-22",
-      "deaths": 3641,
-      "recovered": 94822
+      "deaths": 3650,
+      "recovered": 95084
     }
   },
   "Argentina": {
@@ -322,7 +322,7 @@
           "confirmed": 1027760,
           "date": "2021-06-22",
           "deaths": 16374,
-          "recovered": 985897
+          "recovered": 991760
         }
       },
       "Sao Paulo": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550226,
+          "confirmed": 550228,
           "date": "2021-06-22",
           "deaths": 9043,
-          "recovered": 537629
+          "recovered": 537632
         }
       },
       "Quebec": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2742460,
+          "confirmed": 2742511,
           "date": "2021-06-22",
-          "deaths": 48148
+          "deaths": 48149
         }
       },
       "Florida": {
@@ -1709,7 +1709,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152736,
+          "confirmed": 152828,
           "date": "2021-06-22",
           "deaths": 896
         }
