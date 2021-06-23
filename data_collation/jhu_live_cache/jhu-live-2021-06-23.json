@@ -194,7 +194,7 @@
           "confirmed": 509452,
           "date": "2021-06-23",
           "deaths": 11326,
-          "recovered": 482535
+          "recovered": 483932
         }
       },
       "Goias": {
@@ -218,7 +218,7 @@
           "confirmed": 439779,
           "date": "2021-06-23",
           "deaths": 11552,
-          "recovered": 412610
+          "recovered": 417216
         }
       },
       "Mato Grosso do Sul": {
@@ -576,7 +576,7 @@
       "confirmed": 5694975,
       "date": "2021-06-23",
       "deaths": 109928,
-      "recovered": 340086
+      "recovered": 338834
     }
   },
   "Georgia": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 167292,
+      "confirmed": 167331,
       "date": "2021-06-23",
       "deaths": 2118,
-      "recovered": 163797
+      "recovered": 163913
     }
   },
   "North Macedonia": {
@@ -1321,10 +1321,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 407721,
+      "confirmed": 409467,
       "date": "2021-06-23",
-      "deaths": 11743,
-      "recovered": 346646
+      "deaths": 11849,
+      "recovered": 349337
     }
   },
   "Peru": {
@@ -1543,8 +1543,8 @@
     "live": {
       "confirmed": 243913,
       "date": "2021-06-23",
-      "deaths": 2633,
-      "recovered": 201389
+      "deaths": 2704,
+      "recovered": 209296
     }
   },
   "Sweden": {
