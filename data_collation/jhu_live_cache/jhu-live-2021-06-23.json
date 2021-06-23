@@ -170,7 +170,7 @@
           "confirmed": 1104545,
           "date": "2021-06-23",
           "deaths": 23354,
-          "recovered": 1064909
+          "recovered": 1068704
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 869161,
           "date": "2021-06-23",
           "deaths": 22182,
-          "recovered": 609174
+          "recovered": 611033
         }
       },
       "Distrito Federal": {
@@ -226,7 +226,7 @@
           "confirmed": 325505,
           "date": "2021-06-23",
           "deaths": 7864,
-          "recovered": 302735
+          "recovered": 303789
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1747308,
           "date": "2021-06-23",
           "deaths": 44623,
-          "recovered": 1615394
+          "recovered": 1626400
         }
       },
       "Para": {
@@ -346,7 +346,7 @@
           "confirmed": 193656,
           "date": "2021-06-23",
           "deaths": 3119,
-          "recovered": 174382
+          "recovered": 175055
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550530,
+          "confirmed": 550542,
           "date": "2021-06-23",
-          "deaths": 9058,
-          "recovered": 538172
+          "deaths": 9061,
+          "recovered": 538183
         }
       },
       "Quebec": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 447176,
+      "confirmed": 449107,
       "date": "2021-06-23",
-      "deaths": 21315,
+      "deaths": 21367,
       "recovered": 415508
     }
   },
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 387773,
+      "confirmed": 391411,
       "date": "2021-06-23",
-      "deaths": 14223,
-      "recovered": 339065
+      "deaths": 14318,
+      "recovered": 340834
     }
   },
   "Turkey": {
@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2743048,
           "date": "2021-06-23",
-          "deaths": 48178
+          "deaths": 48181
         }
       },
       "Florida": {
@@ -1704,7 +1704,7 @@
         "live": {
           "confirmed": 1333623,
           "date": "2021-06-23",
-          "deaths": 20567
+          "deaths": 20577
         }
       },
       "Utah": {
