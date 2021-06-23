@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 105749,
+      "confirmed": 107957,
       "date": "2021-06-23",
-      "deaths": 4293,
+      "deaths": 4366,
       "recovered": 65565
     }
   },
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550239,
+          "confirmed": 550291,
           "date": "2021-06-23",
-          "deaths": 9047,
-          "recovered": 537644
+          "deaths": 9049,
+          "recovered": 537733
         }
       },
       "Quebec": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 191253,
+      "confirmed": 191476,
       "date": "2021-06-23",
-      "deaths": 3181,
-      "recovered": 176649
+      "deaths": 3183,
+      "recovered": 176869
     }
   },
   "Lithuania": {

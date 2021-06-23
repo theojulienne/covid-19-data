@@ -2,18 +2,18 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 91458,
-        "deaths": 3612,
+        "confirmed": 93272,
+        "deaths": 3683,
         "recovered": 61706
       },
       "back_2week": {
-        "confirmed": 80841,
-        "deaths": 3187,
+        "confirmed": 82326,
+        "deaths": 3251,
         "recovered": 58998
       },
       "latest": {
-        "confirmed": 103902,
-        "deaths": 4215,
+        "confirmed": 105749,
+        "deaths": 4293,
         "recovered": 65071
       }
     },
@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1410828,
-        "deaths": 25921,
+        "confirmed": 1411652,
+        "deaths": 25943,
         "recovered": 1368941
       },
       "back_2week": {
-        "confirmed": 1401912,
-        "deaths": 25741,
+        "confirmed": 1402983,
+        "deaths": 25774,
         "recovered": 1353705
       },
       "latest": {
-        "confirmed": 1417236,
-        "deaths": 26103,
+        "confirmed": 1417702,
+        "deaths": 26121,
         "recovered": 1379852
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 550084,
-          "deaths": 9037
+          "confirmed": 550239,
+          "deaths": 9047
         },
         "Prince Edward Island": {
           "confirmed": 206,
@@ -2091,19 +2091,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 189284,
-        "deaths": 3165,
-        "recovered": 174976
+        "confirmed": 189555,
+        "deaths": 3166,
+        "recovered": 175226
       },
       "back_2week": {
-        "confirmed": 187685,
-        "deaths": 3146,
-        "recovered": 173394
+        "confirmed": 187928,
+        "deaths": 3149,
+        "recovered": 173636
       },
       "latest": {
-        "confirmed": 191038,
-        "deaths": 3178,
-        "recovered": 176450
+        "confirmed": 191253,
+        "deaths": 3181,
+        "recovered": 176649
       }
     },
     "LCA": {
