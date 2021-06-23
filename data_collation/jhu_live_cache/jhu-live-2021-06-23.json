@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 335568,
+      "confirmed": 335625,
       "date": "2021-06-23",
-      "deaths": 4963,
-      "recovered": 329710
+      "deaths": 4965,
+      "recovered": 329794
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 861150,
+      "confirmed": 866877,
       "date": "2021-06-23",
-      "deaths": 13702,
-      "recovered": 788385
+      "deaths": 13787,
+      "recovered": 791553
     }
   },
   "Belarus": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204886,
+      "confirmed": 204910,
       "date": "2021-06-23",
-      "deaths": 9648,
-      "recovered": 180643
+      "deaths": 9651,
+      "recovered": 180862
     }
   },
   "Brazil": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 291956,
+      "confirmed": 292179,
       "date": "2021-06-23",
       "deaths": 2531,
-      "recovered": 285375
+      "recovered": 285891
     }
   },
   "Dominican Republic": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 626343,
+      "confirmed": 627854,
       "date": "2021-06-23",
-      "deaths": 8813,
-      "recovered": 564882
+      "deaths": 8894,
+      "recovered": 568440
     }
   },
   "Netherlands": {
@@ -1551,7 +1551,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 156076,
+          "confirmed": 156134,
           "date": "2021-06-23",
           "deaths": 1759,
           "recovered": 0
@@ -1559,15 +1559,15 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 254512,
+          "confirmed": 254584,
           "date": "2021-06-23",
-          "deaths": 4354,
+          "deaths": 4359,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 189926,
+          "confirmed": 189997,
           "date": "2021-06-23",
           "deaths": 2377,
           "recovered": 0
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 133659,
+      "confirmed": 137026,
       "date": "2021-06-23",
-      "deaths": 1744,
-      "recovered": 111844
+      "deaths": 1794,
+      "recovered": 113109
     }
   }
 }
