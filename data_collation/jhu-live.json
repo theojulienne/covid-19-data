@@ -146,7 +146,7 @@
           "confirmed": 211156,
           "date": "2021-06-23",
           "deaths": 5176,
-          "recovered": 196622
+          "recovered": 201122
         }
       },
       "Amapa": {
@@ -154,7 +154,7 @@
           "confirmed": 115976,
           "date": "2021-06-23",
           "deaths": 1807,
-          "recovered": 92769
+          "recovered": 94183
         }
       },
       "Amazonas": {
@@ -162,7 +162,7 @@
           "confirmed": 398245,
           "date": "2021-06-23",
           "deaths": 13241,
-          "recovered": 338923
+          "recovered": 341700
         }
       },
       "Bahia": {
@@ -170,7 +170,7 @@
           "confirmed": 1104545,
           "date": "2021-06-23",
           "deaths": 23354,
-          "recovered": 1059838
+          "recovered": 1064909
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 869161,
           "date": "2021-06-23",
           "deaths": 22182,
-          "recovered": 602956
+          "recovered": 609174
         }
       },
       "Distrito Federal": {
@@ -186,7 +186,7 @@
           "confirmed": 424523,
           "date": "2021-06-23",
           "deaths": 9129,
-          "recovered": 404406
+          "recovered": 406811
         }
       },
       "Espirito Santo": {
@@ -210,7 +210,7 @@
           "confirmed": 309716,
           "date": "2021-06-23",
           "deaths": 8811,
-          "recovered": 268609
+          "recovered": 270082
         }
       },
       "Mato Grosso": {
@@ -226,7 +226,7 @@
           "confirmed": 325505,
           "date": "2021-06-23",
           "deaths": 7864,
-          "recovered": 296297
+          "recovered": 302735
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1747308,
           "date": "2021-06-23",
           "deaths": 44623,
-          "recovered": 1604492
+          "recovered": 1615394
         }
       },
       "Para": {
@@ -242,7 +242,7 @@
           "confirmed": 543964,
           "date": "2021-06-23",
           "deaths": 15245,
-          "recovered": 505342
+          "recovered": 508732
         }
       },
       "Paraiba": {
@@ -250,7 +250,7 @@
           "confirmed": 380250,
           "date": "2021-06-23",
           "deaths": 8433,
-          "recovered": 242820
+          "recovered": 249641
         }
       },
       "Parana": {
@@ -258,7 +258,7 @@
           "confirmed": 1230730,
           "date": "2021-06-23",
           "deaths": 30148,
-          "recovered": 822163
+          "recovered": 854749
         }
       },
       "Pernambuco": {
@@ -266,7 +266,7 @@
           "confirmed": 539815,
           "date": "2021-06-23",
           "deaths": 17343,
-          "recovered": 449231
+          "recovered": 454676
         }
       },
       "Piaui": {
@@ -298,7 +298,7 @@
           "confirmed": 937290,
           "date": "2021-06-23",
           "deaths": 54452,
-          "recovered": 869163
+          "recovered": 872813
         }
       },
       "Rondonia": {
@@ -306,7 +306,7 @@
           "confirmed": 244761,
           "date": "2021-06-23",
           "deaths": 6069,
-          "recovered": 227118
+          "recovered": 230656
         }
       },
       "Roraima": {
@@ -322,7 +322,7 @@
           "confirmed": 1032128,
           "date": "2021-06-23",
           "deaths": 16436,
-          "recovered": 991760
+          "recovered": 994723
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 3610743,
           "date": "2021-06-23",
           "deaths": 123101,
-          "recovered": 3192471
+          "recovered": 3215161
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 259084,
           "date": "2021-06-23",
           "deaths": 5583,
-          "recovered": 237796
+          "recovered": 238862
         }
       },
       "Tocantins": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2742741,
+          "confirmed": 2742882,
           "date": "2021-06-23",
           "deaths": 48151
         }
