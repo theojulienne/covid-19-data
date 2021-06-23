@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 149247,
+      "confirmed": 149927,
       "date": "2021-06-23",
-      "deaths": 3267,
-      "recovered": 133893
+      "deaths": 3269,
+      "recovered": 134093
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550473,
+          "confirmed": 550530,
           "date": "2021-06-23",
-          "deaths": 9056,
-          "recovered": 538066
+          "deaths": 9058,
+          "recovered": 538172
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275391,
+      "confirmed": 275502,
       "date": "2021-06-23",
-      "deaths": 4290,
-      "recovered": 255962
+      "deaths": 4292,
+      "recovered": 256787
     }
   },
   "France": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 179876,
+      "confirmed": 180498,
       "date": "2021-06-23",
-      "deaths": 3484,
-      "recovered": 123050
+      "deaths": 3514,
+      "recovered": 123363
     }
   },
   "Korea, South": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 342929,
+      "confirmed": 344799,
       "date": "2021-06-23",
-      "deaths": 1888,
-      "recovered": 322897
+      "deaths": 1894,
+      "recovered": 324578
     }
   },
   "Kyrgyzstan": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 674660,
+          "confirmed": 675025,
           "date": "2021-06-23",
-          "deaths": 12654
+          "deaths": 12659
         }
       },
       "California": {
@@ -1709,9 +1709,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 152828,
+          "confirmed": 153003,
           "date": "2021-06-23",
-          "deaths": 896
+          "deaths": 897
         }
       },
       "Washington": {
