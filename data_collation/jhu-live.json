@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550446,
+          "confirmed": 550473,
           "date": "2021-06-23",
-          "deaths": 9054,
-          "recovered": 537998
+          "deaths": 9056,
+          "recovered": 538066
         }
       },
       "Quebec": {
@@ -1101,9 +1101,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 543698,
+      "confirmed": 543865,
       "date": "2021-06-23",
-      "deaths": 7829,
+      "deaths": 7832,
       "recovered": 530689
     }
   },
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 527174,
+      "confirmed": 527696,
       "date": "2021-06-23",
-      "deaths": 9247,
-      "recovered": 514279
+      "deaths": 9254,
+      "recovered": 514624
     }
   },
   "Nepal": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155640,
+      "confirmed": 155645,
       "date": "2021-06-23",
-      "deaths": 5477,
-      "recovered": 149908
+      "deaths": 5478,
+      "recovered": 149916
     }
   },
   "Norway": {
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 899569,
+          "confirmed": 903371,
           "date": "2021-06-23",
-          "deaths": 85692,
+          "deaths": 85995,
           "recovered": 0
         }
       }
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 243913,
+      "confirmed": 246109,
       "date": "2021-06-23",
-      "deaths": 2704,
-      "recovered": 209296
+      "deaths": 2769,
+      "recovered": 211186
     }
   },
   "Sweden": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2742884,
+          "confirmed": 2743048,
           "date": "2021-06-23",
-          "deaths": 48177
+          "deaths": 48178
         }
       },
       "Florida": {
@@ -1674,9 +1674,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1395679,
+          "confirmed": 1395757,
           "date": "2021-06-23",
-          "deaths": 40392
+          "deaths": 40393
         }
       },
       "North Carolina": {
@@ -1723,9 +1723,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117695,
+          "confirmed": 117723,
           "date": "2021-06-23",
-          "deaths": 1418
+          "deaths": 1419
         }
       }
     }
