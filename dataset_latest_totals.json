@@ -1161,19 +1161,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 133742,
-        "deaths": 3579,
-        "recovered": 93094
+        "confirmed": 134115,
+        "deaths": 3588,
+        "recovered": 93355
       },
       "back_2week": {
-        "confirmed": 131283,
-        "deaths": 3527,
-        "recovered": 91413
+        "confirmed": 131647,
+        "deaths": 3537,
+        "recovered": 91651
       },
       "latest": {
-        "confirmed": 136294,
-        "deaths": 3641,
-        "recovered": 94822
+        "confirmed": 136679,
+        "deaths": 3650,
+        "recovered": 95084
       }
     },
     "ECU": {
@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5678893,
-        "deaths": 109572,
-        "recovered": 338034
+        "confirmed": 5681846,
+        "deaths": 109645,
+        "recovered": 337467
       },
       "back_2week": {
-        "confirmed": 5653678,
-        "deaths": 109208,
-        "recovered": 336806
+        "confirmed": 5659478,
+        "deaths": 109278,
+        "recovered": 335174
       },
       "latest": {
-        "confirmed": 5692968,
-        "deaths": 109878,
-        "recovered": 339638
+        "confirmed": 5694975,
+        "deaths": 109928,
+        "recovered": 338834
       },
       "states": {
         "French Guiana": {
@@ -2261,19 +2261,19 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 255830,
-        "deaths": 6154,
-        "recovered": 248733
+        "confirmed": 255878,
+        "deaths": 6156,
+        "recovered": 248812
       },
       "back_2week": {
-        "confirmed": 255501,
-        "deaths": 6137,
-        "recovered": 248062
+        "confirmed": 255541,
+        "deaths": 6141,
+        "recovered": 248145
       },
       "latest": {
-        "confirmed": 256187,
-        "deaths": 6173,
-        "recovered": 249216
+        "confirmed": 256232,
+        "deaths": 6175,
+        "recovered": 249250
       }
     },
     "MDG": {
@@ -3950,19 +3950,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1752630,
-        "deaths": 57879,
-        "recovered": 1611447
+        "confirmed": 1761066,
+        "deaths": 58087,
+        "recovered": 1616405
       },
       "back_2week": {
-        "confirmed": 1699849,
-        "deaths": 57063,
-        "recovered": 1581540
+        "confirmed": 1704058,
+        "deaths": 57183,
+        "recovered": 1587015
       },
       "latest": {
-        "confirmed": 1832479,
-        "deaths": 58795,
-        "recovered": 1656680
+        "confirmed": 1843572,
+        "deaths": 59092,
+        "recovered": 1665540
       }
     },
     "ZMB": {
