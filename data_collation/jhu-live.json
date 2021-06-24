@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 149927,
+      "confirmed": 150714,
       "date": "2021-06-24",
-      "deaths": 3269,
-      "recovered": 134093
+      "deaths": 3275,
+      "recovered": 134589
     }
   },
   "Canada": {
@@ -387,17 +387,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550727,
+          "confirmed": 550740,
           "date": "2021-06-24",
           "deaths": 9064,
-          "recovered": 538370
+          "recovered": 538393
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 374222,
+          "confirmed": 374318,
           "date": "2021-06-24",
-          "deaths": 11198,
+          "deaths": 11202,
           "recovered": 361840
         }
       }
@@ -625,7 +625,7 @@
         "live": {
           "confirmed": 290469,
           "date": "2021-06-24",
-          "deaths": 7500,
+          "deaths": 7499,
           "recovered": 280600
         }
       },
@@ -649,7 +649,7 @@
         "live": {
           "confirmed": 155039,
           "date": "2021-06-24",
-          "deaths": 3875,
+          "deaths": 3874,
           "recovered": 150200
         }
       },
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 246109,
+      "confirmed": 248050,
       "date": "2021-06-24",
-      "deaths": 2769,
-      "recovered": 211186
+      "deaths": 2814,
+      "recovered": 212825
     }
   },
   "Sweden": {
@@ -1681,9 +1681,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 114364,
+          "confirmed": 114395,
           "date": "2021-06-24",
-          "deaths": 975
+          "deaths": 976
         }
       },
       "Ohio": {
@@ -1702,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334631,
+          "confirmed": 1334839,
           "date": "2021-06-24",
           "deaths": 20579
         }
@@ -1794,15 +1794,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 4066294,
+          "confirmed": 4079362,
           "date": "2021-06-24",
-          "deaths": 112598,
+          "deaths": 112614,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 125272,
+          "confirmed": 125470,
           "date": "2021-06-24",
           "deaths": 2155,
           "recovered": 0
@@ -1810,15 +1810,15 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 260711,
+          "confirmed": 263710,
           "date": "2021-06-24",
-          "deaths": 7701,
+          "deaths": 7706,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 215593,
+          "confirmed": 216030,
           "date": "2021-06-24",
           "deaths": 5573,
           "recovered": 0
