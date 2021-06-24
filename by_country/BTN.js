@@ -1041,7 +1041,8 @@ var covid19_dataset_country_btn = {
       1903,
       1924,
       1939,
-      1963
+      1963,
+      1970
     ],
     "deaths": [
       0,
@@ -1396,6 +1397,7 @@ var covid19_dataset_country_btn = {
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -2081,6 +2083,7 @@ var covid19_dataset_country_btn = {
       1544,
       1676,
       1685,
+      1702,
       1702
     ]
   }

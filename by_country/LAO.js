@@ -1041,7 +1041,8 @@ var covid19_dataset_country_lao = {
       2050,
       2053,
       2054,
-      2067
+      2067,
+      2076
     ],
     "deaths": [
       0,
@@ -1536,6 +1537,7 @@ var covid19_dataset_country_lao = {
       2,
       2,
       2,
+      3,
       3,
       3,
       3,
@@ -2081,7 +2083,8 @@ var covid19_dataset_country_lao = {
       1935,
       1944,
       1948,
-      1954
+      1954,
+      1960
     ]
   }
 };

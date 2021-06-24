@@ -1041,6 +1041,7 @@ var covid19_dataset_country_vct = {
       2192,
       2195,
       2196,
+      2207,
       2207
     ],
     "deaths": [
@@ -1514,6 +1515,7 @@ var covid19_dataset_country_vct = {
       11,
       11,
       11,
+      12,
       12,
       12,
       12,
@@ -2081,6 +2083,7 @@ var covid19_dataset_country_vct = {
       1934,
       1935,
       1936,
+      1941,
       1941
     ]
   }
