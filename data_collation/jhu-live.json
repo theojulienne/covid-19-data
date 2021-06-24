@@ -279,9 +279,9 @@
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 292309,
+          "confirmed": 328683,
           "date": "2021-06-24",
-          "deaths": 6640,
+          "deaths": 6657,
           "recovered": 150649
         }
       },
@@ -438,7 +438,7 @@
           "confirmed": 618029,
           "date": "2021-06-24",
           "deaths": 13401,
-          "recovered": 572946
+          "recovered": 574922
         }
       },
       "Atlantico": {
@@ -446,7 +446,7 @@
           "confirmed": 286184,
           "date": "2021-06-24",
           "deaths": 8880,
-          "recovered": 273198
+          "recovered": 273555
         }
       },
       "Bolivar": {
@@ -454,7 +454,7 @@
           "confirmed": 125612,
           "date": "2021-06-24",
           "deaths": 2392,
-          "recovered": 119187
+          "recovered": 120308
         }
       },
       "Capital District": {
@@ -462,7 +462,7 @@
           "confirmed": 1182399,
           "date": "2021-06-24",
           "deaths": 22427,
-          "recovered": 1069079
+          "recovered": 1077595
         }
       },
       "Cundinamarca": {
@@ -470,7 +470,7 @@
           "confirmed": 209324,
           "date": "2021-06-24",
           "deaths": 5411,
-          "recovered": 194059
+          "recovered": 196154
         }
       },
       "Santander": {
@@ -478,7 +478,7 @@
           "confirmed": 177724,
           "date": "2021-06-24",
           "deaths": 5635,
-          "recovered": 161687
+          "recovered": 163156
         }
       },
       "Valle del Cauca": {
@@ -486,17 +486,17 @@
           "confirmed": 310823,
           "date": "2021-06-24",
           "deaths": 9822,
-          "recovered": 288588
+          "recovered": 291137
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 355620,
+      "confirmed": 357523,
       "date": "2021-06-24",
-      "deaths": 4546,
-      "recovered": 281042
+      "deaths": 4567,
+      "recovered": 283935
     }
   },
   "Croatia": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 395449,
+      "confirmed": 396526,
       "date": "2021-06-24",
-      "deaths": 6483,
-      "recovered": 378109
+      "deaths": 6491,
+      "recovered": 378954
     }
   },
   "Paraguay": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2743267,
+          "confirmed": 2743317,
           "date": "2021-06-24",
-          "deaths": 48181
+          "deaths": 48187
         }
       },
       "Florida": {
