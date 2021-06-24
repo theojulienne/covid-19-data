@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 107957,
+      "confirmed": 109532,
       "date": "2021-06-24",
-      "deaths": 4366,
+      "deaths": 4452,
       "recovered": 66102
     }
   },
@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 335625,
+      "confirmed": 335676,
       "date": "2021-06-24",
       "deaths": 4965,
-      "recovered": 329794
+      "recovered": 329870
     }
   },
   "Bahrain": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204910,
+      "confirmed": 204936,
       "date": "2021-06-24",
-      "deaths": 9651,
-      "recovered": 180862
+      "deaths": 9653,
+      "recovered": 181199
     }
   },
   "Brazil": {
@@ -210,7 +210,7 @@
           "confirmed": 311057,
           "date": "2021-06-24",
           "deaths": 8841,
-          "recovered": 270082
+          "recovered": 271202
         }
       },
       "Mato Grosso": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 292179,
+      "confirmed": 292352,
       "date": "2021-06-24",
       "deaths": 2531,
-      "recovered": 285891
+      "recovered": 286366
     }
   },
   "Dominican Republic": {
@@ -1551,7 +1551,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 156134,
+          "confirmed": 156189,
           "date": "2021-06-24",
           "deaths": 1759,
           "recovered": 0
@@ -1559,7 +1559,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 254584,
+          "confirmed": 254646,
           "date": "2021-06-24",
           "deaths": 4359,
           "recovered": 0
@@ -1567,9 +1567,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 189997,
+          "confirmed": 190059,
           "date": "2021-06-24",
-          "deaths": 2377,
+          "deaths": 2380,
           "recovered": 0
         }
       }
@@ -1577,7 +1577,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 702278,
+      "confirmed": 702398,
       "date": "2021-06-24",
       "deaths": 10878,
       "recovered": 317600
