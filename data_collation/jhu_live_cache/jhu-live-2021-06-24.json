@@ -4,7 +4,7 @@
       "confirmed": 109532,
       "date": "2021-06-24",
       "deaths": 4452,
-      "recovered": 66102
+      "recovered": 66799
     }
   },
   "Albania": {
@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 649845,
+      "confirmed": 649922,
       "date": "2021-06-24",
-      "deaths": 10686,
-      "recovered": 636740
+      "deaths": 10697,
+      "recovered": 636923
     }
   },
   "Azerbaijan": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550542,
+          "confirmed": 550727,
           "date": "2021-06-24",
-          "deaths": 9061,
-          "recovered": 538183
+          "deaths": 9064,
+          "recovered": 538370
         }
       },
       "Quebec": {
@@ -599,9 +599,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 647006,
+          "confirmed": 646991,
           "date": "2021-06-24",
-          "deaths": 15229,
+          "deaths": 15231,
           "recovered": 628300
         }
       },
@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155003,
+          "confirmed": 155039,
           "date": "2021-06-24",
           "deaths": 3875,
           "recovered": 150200
@@ -655,9 +655,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285752,
+          "confirmed": 285774,
           "date": "2021-06-24",
-          "deaths": 10049,
+          "deaths": 10061,
           "recovered": 274300
         }
       },
@@ -917,10 +917,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1305000,
+      "confirmed": 1311093,
       "date": "2021-06-24",
-      "deaths": 16968,
-      "recovered": 1213952
+      "deaths": 16999,
+      "recovered": 1217982
     }
   },
   "Ireland": {
@@ -1069,10 +1069,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107247,
+      "confirmed": 107299,
       "date": "2021-06-24",
-      "deaths": 2256,
-      "recovered": 105025
+      "deaths": 2260,
+      "recovered": 105064
     }
   },
   "Kuwait": {
@@ -1195,7 +1195,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 188362,
+          "confirmed": 188427,
           "date": "2021-06-24",
           "deaths": 2028,
           "recovered": 0
@@ -1203,7 +1203,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 115497,
+          "confirmed": 115524,
           "date": "2021-06-24",
           "deaths": 1653,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 272413,
+          "confirmed": 272508,
           "date": "2021-06-24",
           "deaths": 3138,
           "recovered": 0
@@ -1219,7 +1219,7 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 277462,
+          "confirmed": 277595,
           "date": "2021-06-24",
           "deaths": 2624,
           "recovered": 0
@@ -1227,7 +1227,7 @@
       },
       "Overijssel": {
         "live": {
-          "confirmed": 110050,
+          "confirmed": 110098,
           "date": "2021-06-24",
           "deaths": 1139,
           "recovered": 0
@@ -1235,7 +1235,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 128321,
+          "confirmed": 128380,
           "date": "2021-06-24",
           "deaths": 1280,
           "recovered": 0
@@ -1243,9 +1243,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 400936,
+          "confirmed": 401147,
           "date": "2021-06-24",
-          "deaths": 4272,
+          "deaths": 4273,
           "recovered": 0
         }
       }
@@ -1417,17 +1417,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 478135,
+      "confirmed": 479390,
       "date": "2021-06-24",
-      "deaths": 7716,
-      "recovered": 459091
+      "deaths": 7730,
+      "recovered": 460338
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 716016,
+      "confirmed": 716096,
       "date": "2021-06-24",
-      "deaths": 7013,
+      "deaths": 7019,
       "recovered": 0
     }
   },
@@ -1702,7 +1702,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334619,
+          "confirmed": 1334631,
           "date": "2021-06-24",
           "deaths": 20579
         }
@@ -1860,10 +1860,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 137026,
+      "confirmed": 140620,
       "date": "2021-06-24",
-      "deaths": 1794,
-      "recovered": 113109
+      "deaths": 1855,
+      "recovered": 115898
     }
   }
 }
