@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 748103,
+      "confirmed": 748685,
       "date": "2021-06-24",
-      "deaths": 9693,
-      "recovered": 732006
+      "deaths": 9703,
+      "recovered": 732475
     }
   },
   "Kazakhstan": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 627854,
+      "confirmed": 629431,
       "date": "2021-06-24",
-      "deaths": 8894,
-      "recovered": 568440
+      "deaths": 8918,
+      "recovered": 570958
     }
   },
   "Netherlands": {
@@ -1261,15 +1261,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155645,
+      "confirmed": 155655,
       "date": "2021-06-24",
-      "deaths": 5478,
-      "recovered": 149916
+      "deaths": 5481,
+      "recovered": 149933
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 129944,
+      "confirmed": 130161,
       "date": "2021-06-24",
       "deaths": 792,
       "recovered": 17998
