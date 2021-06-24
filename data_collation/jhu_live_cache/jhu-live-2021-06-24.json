@@ -1660,7 +1660,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 256826,
+          "confirmed": 257221,
           "date": "2021-06-24",
           "deaths": 4480
         }
@@ -1674,7 +1674,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1395757,
+          "confirmed": 1395869,
           "date": "2021-06-24",
           "deaths": 40393
         }
@@ -1723,9 +1723,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117723,
+          "confirmed": 117760,
           "date": "2021-06-24",
-          "deaths": 1419
+          "deaths": 1422
         }
       }
     }
