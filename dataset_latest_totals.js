@@ -3865,14 +3865,14 @@ var covid19_dataset_latest_totals = {
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 254116,
-        "deaths": 2865,
-        "recovered": 234393
+        "confirmed": 255457,
+        "deaths": 2886,
+        "recovered": 235795
       },
       "back_2week": {
-        "confirmed": 245300,
-        "deaths": 2750,
-        "recovered": 225266
+        "confirmed": 246764,
+        "deaths": 2764,
+        "recovered": 226548
       },
       "latest": {
         "confirmed": 263372,
