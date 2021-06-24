@@ -170,7 +170,7 @@
           "confirmed": 1108769,
           "date": "2021-06-24",
           "deaths": 23467,
-          "recovered": 1068704
+          "recovered": 1071802
         }
       },
       "Ceara": {
@@ -234,7 +234,7 @@
           "confirmed": 1757649,
           "date": "2021-06-24",
           "deaths": 45036,
-          "recovered": 1626400
+          "recovered": 1634144
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1193849,
           "date": "2021-06-24",
           "deaths": 30749,
-          "recovered": 1143627
+          "recovered": 1149121
         }
       },
       "Rio de Janeiro": {
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550834,
+          "confirmed": 550848,
           "date": "2021-06-24",
           "deaths": 9068,
           "recovered": 538533
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275502,
+      "confirmed": 275601,
       "date": "2021-06-24",
-      "deaths": 4292,
-      "recovered": 256787
+      "deaths": 4296,
+      "recovered": 257429
     }
   },
   "France": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 391411,
+      "confirmed": 395362,
       "date": "2021-06-24",
-      "deaths": 14318,
-      "recovered": 340834
+      "deaths": 14406,
+      "recovered": 342598
     }
   },
   "Turkey": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 675025,
+          "confirmed": 675488,
           "date": "2021-06-24",
-          "deaths": 12659
+          "deaths": 12665
         }
       },
       "California": {
@@ -1704,7 +1704,7 @@
         "live": {
           "confirmed": 1334839,
           "date": "2021-06-24",
-          "deaths": 20581
+          "deaths": 20586
         }
       },
       "Utah": {
