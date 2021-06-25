@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 426748,
+      "confirmed": 429178,
       "date": "2021-06-25",
-      "deaths": 16329,
-      "recovered": 346879
+      "deaths": 16414,
+      "recovered": 348915
     }
   },
   "Bosnia and Herzegovina": {
@@ -591,81 +591,81 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500359,
+          "confirmed": 500349,
           "date": "2021-06-25",
           "deaths": 10195,
-          "recovered": 486600
+          "recovered": 486900
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 646991,
+          "confirmed": 647125,
           "date": "2021-06-25",
-          "deaths": 15231,
-          "recovered": 628300
+          "deaths": 15235,
+          "recovered": 628600
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 180035,
+          "confirmed": 180077,
           "date": "2021-06-25",
-          "deaths": 3548,
-          "recovered": 175800
+          "deaths": 3553,
+          "recovered": 175900
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 108643,
+          "confirmed": 108649,
           "date": "2021-06-25",
-          "deaths": 3790,
+          "deaths": 3792,
           "recovered": 104600
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 290469,
+          "confirmed": 290538,
           "date": "2021-06-25",
-          "deaths": 7499,
-          "recovered": 280600
+          "deaths": 7501,
+          "recovered": 281100
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 260800,
+          "confirmed": 260843,
           "date": "2021-06-25",
-          "deaths": 5750,
-          "recovered": 254000
+          "deaths": 5754,
+          "recovered": 254100
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 815326,
+          "confirmed": 815516,
           "date": "2021-06-25",
-          "deaths": 17093,
-          "recovered": 792800
+          "deaths": 17105,
+          "recovered": 794100
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155039,
+          "confirmed": 155041,
           "date": "2021-06-25",
           "deaths": 3874,
-          "recovered": 150200
+          "recovered": 150300
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285774,
+          "confirmed": 285777,
           "date": "2021-06-25",
-          "deaths": 10061,
-          "recovered": 274300
+          "deaths": 10063,
+          "recovered": 274600
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128710,
+          "confirmed": 128728,
           "date": "2021-06-25",
-          "deaths": 4321,
+          "deaths": 4324,
           "recovered": 123900
         }
       }
@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 255663,
+      "confirmed": 256818,
       "date": "2021-06-25",
-      "deaths": 6844,
-      "recovered": 92014
+      "deaths": 6879,
+      "recovered": 92187
     }
   },
   "Hungary": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 153155,
+      "confirmed": 153789,
       "date": "2021-06-25",
-      "deaths": 2008,
-      "recovered": 144788
+      "deaths": 2009,
+      "recovered": 145389
     }
   },
   "Kosovo": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 396526,
+      "confirmed": 397727,
       "date": "2021-06-25",
-      "deaths": 6491,
-      "recovered": 378954
+      "deaths": 6500,
+      "recovered": 379858
     }
   },
   "Paraguay": {
@@ -1844,10 +1844,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 264551,
+      "confirmed": 265642,
       "date": "2021-06-25",
-      "deaths": 3007,
-      "recovered": 245519
+      "deaths": 3023,
+      "recovered": 246983
     }
   },
   "West Bank and Gaza": {
