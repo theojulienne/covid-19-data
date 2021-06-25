@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 140801,
+          "confirmed": 140881,
           "date": "2021-06-25",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 133027,
+          "confirmed": 133095,
           "date": "2021-06-25",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 123781,
+          "confirmed": 123835,
           "date": "2021-06-25",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 159201,
+          "confirmed": 159279,
           "date": "2021-06-25",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 130398,
+          "confirmed": 130768,
           "date": "2021-06-25",
           "deaths": 0,
           "recovered": 0
@@ -438,7 +438,7 @@
           "confirmed": 621981,
           "date": "2021-06-25",
           "deaths": 13471,
-          "recovered": 574922
+          "recovered": 576801
         }
       },
       "Atlantico": {
@@ -446,7 +446,7 @@
           "confirmed": 286687,
           "date": "2021-06-25",
           "deaths": 8886,
-          "recovered": 273555
+          "recovered": 274092
         }
       },
       "Bolivar": {
@@ -454,7 +454,7 @@
           "confirmed": 126264,
           "date": "2021-06-25",
           "deaths": 2406,
-          "recovered": 120308
+          "recovered": 121312
         }
       },
       "Capital District": {
@@ -462,7 +462,7 @@
           "confirmed": 1197968,
           "date": "2021-06-25",
           "deaths": 22583,
-          "recovered": 1077595
+          "recovered": 1088086
         }
       },
       "Cundinamarca": {
@@ -470,7 +470,7 @@
           "confirmed": 210540,
           "date": "2021-06-25",
           "deaths": 5509,
-          "recovered": 196154
+          "recovered": 197909
         }
       },
       "Santander": {
@@ -478,7 +478,7 @@
           "confirmed": 179956,
           "date": "2021-06-25",
           "deaths": 5693,
-          "recovered": 163156
+          "recovered": 164717
         }
       },
       "Valle del Cauca": {
@@ -486,7 +486,7 @@
           "confirmed": 313832,
           "date": "2021-06-25",
           "deaths": 9895,
-          "recovered": 291137
+          "recovered": 293694
         }
       }
     }
@@ -1015,10 +1015,10 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 425162,
+          "confirmed": 425197,
           "date": "2021-06-25",
-          "deaths": 11611,
-          "recovered": 408655
+          "deaths": 11608,
+          "recovered": 408762
         }
       }
     }
@@ -1135,33 +1135,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 676145,
+          "confirmed": 677496,
           "date": "2021-06-25",
-          "deaths": 34529,
+          "deaths": 34564,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 132747,
+          "confirmed": 132829,
           "date": "2021-06-25",
-          "deaths": 11089,
+          "deaths": 11091,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 257272,
+          "confirmed": 257636,
           "date": "2021-06-25",
-          "deaths": 37263,
+          "deaths": 37297,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 126382,
+          "confirmed": 126553,
           "date": "2021-06-25",
-          "deaths": 9712,
+          "deaths": 9719,
           "recovered": 0
         }
       }
@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2743954,
           "date": "2021-06-25",
-          "deaths": 48215
+          "deaths": 48221
         }
       },
       "Florida": {
@@ -1702,9 +1702,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334953,
+          "confirmed": 1334825,
           "date": "2021-06-25",
-          "deaths": 20588
+          "deaths": 20594
         }
       },
       "Utah": {
