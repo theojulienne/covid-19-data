@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4326101,
+      "confirmed": 4350564,
       "date": "2021-06-24",
-      "deaths": 90986,
-      "recovered": 3944323
+      "deaths": 91438,
+      "recovered": 3967633
     }
   },
   "Armenia": {
@@ -202,7 +202,7 @@
           "confirmed": 665184,
           "date": "2021-06-24",
           "deaths": 18803,
-          "recovered": 628089
+          "recovered": 635400
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 443061,
           "date": "2021-06-24",
           "deaths": 11626,
-          "recovered": 417216
+          "recovered": 420434
         }
       },
       "Mato Grosso do Sul": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421339,
+      "confirmed": 421401,
       "date": "2021-06-24",
-      "deaths": 18013,
-      "recovered": 393870
+      "deaths": 18022,
+      "recovered": 393948
     }
   },
   "Burma": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 543865,
+      "confirmed": 544002,
       "date": "2021-06-24",
-      "deaths": 7832,
-      "recovered": 530689
+      "deaths": 7835,
+      "recovered": 531156
     }
   },
   "Libya": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 130161,
+      "confirmed": 130270,
       "date": "2021-06-24",
       "deaths": 792,
       "recovered": 17998
@@ -1716,9 +1716,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 112120,
+          "confirmed": 112205,
           "date": "2021-06-24",
-          "deaths": 1650
+          "deaths": 1652
         }
       },
       "Wisconsin": {
@@ -1828,10 +1828,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 360247,
+      "confirmed": 361994,
       "date": "2021-06-24",
-      "deaths": 5374,
-      "recovered": 332112
+      "deaths": 5413,
+      "recovered": 334971
     }
   },
   "Uzbekistan": {
