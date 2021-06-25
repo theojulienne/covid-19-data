@@ -4,7 +4,7 @@
       "confirmed": 111592,
       "date": "2021-06-25",
       "deaths": 4519,
-      "recovered": 66799
+      "recovered": 67183
     }
   },
   "Albania": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 204936,
+      "confirmed": 204945,
       "date": "2021-06-25",
-      "deaths": 9653,
-      "recovered": 181199
+      "deaths": 9655,
+      "recovered": 181725
     }
   },
   "Brazil": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 550990,
+          "confirmed": 550995,
           "date": "2021-06-25",
           "deaths": 9070,
-          "recovered": 538685
+          "recovered": 538689
         }
       },
       "Quebec": {
@@ -917,10 +917,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1311093,
+      "confirmed": 1316418,
       "date": "2021-06-25",
-      "deaths": 16999,
-      "recovered": 1217982
+      "deaths": 17033,
+      "recovered": 1222494
     }
   },
   "Ireland": {
@@ -1203,7 +1203,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 188427,
+          "confirmed": 188492,
           "date": "2021-06-25",
           "deaths": 2028,
           "recovered": 0
@@ -1211,31 +1211,31 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 115524,
+          "confirmed": 115555,
           "date": "2021-06-25",
-          "deaths": 1653,
+          "deaths": 1654,
           "recovered": 0
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 272508,
+          "confirmed": 272590,
           "date": "2021-06-25",
-          "deaths": 3138,
+          "deaths": 3139,
           "recovered": 0
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 277595,
+          "confirmed": 277701,
           "date": "2021-06-25",
-          "deaths": 2624,
+          "deaths": 2625,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 110098,
+          "confirmed": 110127,
           "date": "2021-06-25",
           "deaths": 1139,
           "recovered": 0
@@ -1243,7 +1243,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 128380,
+          "confirmed": 128437,
           "date": "2021-06-25",
           "deaths": 1280,
           "recovered": 0
@@ -1251,9 +1251,9 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 401147,
+          "confirmed": 401356,
           "date": "2021-06-25",
-          "deaths": 4273,
+          "deaths": 4275,
           "recovered": 0
         }
       }
@@ -1269,15 +1269,15 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155655,
+      "confirmed": 155663,
       "date": "2021-06-25",
-      "deaths": 5481,
-      "recovered": 149933
+      "deaths": 5484,
+      "recovered": 149946
     }
   },
   "Norway": {
     "live": {
-      "confirmed": 130270,
+      "confirmed": 130342,
       "date": "2021-06-25",
       "deaths": 792,
       "recovered": 17998
@@ -1373,10 +1373,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 221378,
+      "confirmed": 221465,
       "date": "2021-06-25",
-      "deaths": 587,
-      "recovered": 218928
+      "deaths": 588,
+      "recovered": 219041
     }
   },
   "Romania": {
@@ -1425,17 +1425,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 479390,
+      "confirmed": 480702,
       "date": "2021-06-25",
-      "deaths": 7730,
-      "recovered": 460338
+      "deaths": 7743,
+      "recovered": 461628
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 716096,
+      "confirmed": 716172,
       "date": "2021-06-25",
-      "deaths": 7019,
+      "deaths": 7024,
       "recovered": 0
     }
   },
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 140620,
+      "confirmed": 143215,
       "date": "2021-06-25",
-      "deaths": 1855,
-      "recovered": 115898
+      "deaths": 1915,
+      "recovered": 119411
     }
   }
 }
