@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500349,
+          "confirmed": 500491,
           "date": "2021-06-25",
-          "deaths": 10195,
+          "deaths": 10221,
           "recovered": 486900
         }
       },
@@ -633,7 +633,7 @@
         "live": {
           "confirmed": 260843,
           "date": "2021-06-25",
-          "deaths": 5757,
+          "deaths": 5754,
           "recovered": 254100
         }
       },
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1877143,
+      "confirmed": 1895905,
       "date": "2021-06-25",
-      "deaths": 59406,
-      "recovered": 1675827
+      "deaths": 59621,
+      "recovered": 1690380
     }
   },
   "Spain": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2744152,
+          "confirmed": 2744207,
           "date": "2021-06-25",
           "deaths": 48242
         }
@@ -1668,9 +1668,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 257221,
+          "confirmed": 257961,
           "date": "2021-06-25",
-          "deaths": 4480
+          "deaths": 4482
         }
       },
       "New York": {
@@ -1724,9 +1724,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117760,
+          "confirmed": 117772,
           "date": "2021-06-25",
-          "deaths": 1422
+          "deaths": 1423
         }
       }
     }
