@@ -435,57 +435,57 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 618029,
+          "confirmed": 621981,
           "date": "2021-06-25",
-          "deaths": 13401,
+          "deaths": 13471,
           "recovered": 574922
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 286184,
+          "confirmed": 286687,
           "date": "2021-06-25",
-          "deaths": 8880,
+          "deaths": 8886,
           "recovered": 273555
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 125612,
+          "confirmed": 126264,
           "date": "2021-06-25",
-          "deaths": 2392,
+          "deaths": 2406,
           "recovered": 120308
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1182399,
+          "confirmed": 1197968,
           "date": "2021-06-25",
-          "deaths": 22427,
+          "deaths": 22583,
           "recovered": 1077595
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 209324,
+          "confirmed": 210540,
           "date": "2021-06-25",
-          "deaths": 5411,
+          "deaths": 5509,
           "recovered": 196154
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 177724,
+          "confirmed": 179956,
           "date": "2021-06-25",
-          "deaths": 5635,
+          "deaths": 5693,
           "recovered": 163156
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 310823,
+          "confirmed": 313832,
           "date": "2021-06-25",
-          "deaths": 9822,
+          "deaths": 9895,
           "recovered": 291137
         }
       }
@@ -959,10 +959,10 @@
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 107502,
+          "confirmed": 106867,
           "date": "2021-06-25",
-          "deaths": 3800,
-          "recovered": 99348
+          "deaths": 3787,
+          "recovered": 102843
         }
       },
       "Lazio": {
@@ -1321,10 +1321,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 411615,
+      "confirmed": 413457,
       "date": "2021-06-25",
-      "deaths": 11973,
-      "recovered": 352014
+      "deaths": 12086,
+      "recovered": 354697
     }
   },
   "Peru": {
@@ -1618,15 +1618,15 @@
       },
       "California": {
         "live": {
-          "confirmed": 2743485,
+          "confirmed": 2743954,
           "date": "2021-06-25",
-          "deaths": 48213
+          "deaths": 48215
         }
       },
       "Florida": {
         "live": {
           "confirmed": 1194987,
-          "date": "2021-06-23",
+          "date": "2021-06-25",
           "deaths": 15576
         }
       },
@@ -1702,9 +1702,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334839,
+          "confirmed": 1334953,
           "date": "2021-06-25",
-          "deaths": 20586
+          "deaths": 20588
         }
       },
       "Utah": {
