@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132499,
+      "confirmed": 132506,
       "date": "2021-06-25",
       "deaths": 2455,
-      "recovered": 129966
+      "recovered": 129975
     }
   },
   "Algeria": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 150714,
+      "confirmed": 151573,
       "date": "2021-06-25",
-      "deaths": 3275,
-      "recovered": 134589
+      "deaths": 3282,
+      "recovered": 134779
     }
   },
   "Canada": {
@@ -647,17 +647,17 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155041,
+          "confirmed": 155076,
           "date": "2021-06-25",
-          "deaths": 3874,
+          "deaths": 3881,
           "recovered": 150300
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285777,
+          "confirmed": 285803,
           "date": "2021-06-25",
-          "deaths": 10063,
+          "deaths": 10066,
           "recovered": 274600
         }
       },
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 869879,
+      "confirmed": 871483,
       "date": "2021-06-25",
-      "deaths": 17079,
-      "recovered": 823103
+      "deaths": 17081,
+      "recovered": 823960
     }
   },
   "Qatar": {
