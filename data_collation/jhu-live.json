@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 469975,
+      "confirmed": 471498,
       "date": "2021-06-25",
-      "deaths": 3513,
-      "recovered": 440177
+      "deaths": 3518,
+      "recovered": 441455
     }
   },
   "Kenya": {
@@ -1175,6 +1175,14 @@
       "recovered": 249381
     }
   },
+  "Mongolia": {
+    "live": {
+      "confirmed": 104900,
+      "date": "2021-06-25",
+      "deaths": 493,
+      "recovered": 67579
+    }
+  },
   "Morocco": {
     "live": {
       "confirmed": 528180,
@@ -1287,26 +1295,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 137370,
+          "confirmed": 137484,
           "date": "2021-06-25",
-          "deaths": 4289,
-          "recovered": 131142
+          "deaths": 4294,
+          "recovered": 131318
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 345449,
+          "confirmed": 345546,
           "date": "2021-06-25",
-          "deaths": 10688,
-          "recovered": 325486
+          "deaths": 10700,
+          "recovered": 325784
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 333798,
+          "confirmed": 334453,
           "date": "2021-06-25",
-          "deaths": 5368,
-          "recovered": 309070
+          "deaths": 5392,
+          "recovered": 309496
         }
       }
     }
@@ -1663,13 +1671,6 @@
           "confirmed": 257221,
           "date": "2021-06-25",
           "deaths": 4480
-        }
-      },
-      "New Jersey": {
-        "live": {
-          "confirmed": 104835,
-          "date": "2021-06-25",
-          "deaths": 2884
         }
       },
       "New York": {
