@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 109532,
+      "confirmed": 111592,
       "date": "2021-06-25",
-      "deaths": 4452,
+      "deaths": 4519,
       "recovered": 66799
     }
   },
@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 649922,
+      "confirmed": 650016,
       "date": "2021-06-25",
-      "deaths": 10697,
-      "recovered": 636923
+      "deaths": 10700,
+      "recovered": 637051
     }
   },
   "Azerbaijan": {
@@ -901,18 +901,18 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2053995,
+      "confirmed": 2072867,
       "date": "2021-06-25",
-      "deaths": 55949,
-      "recovered": 1826504
+      "deaths": 56371,
+      "recovered": 1835061
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 3140129,
+      "confirmed": 3150949,
       "date": "2021-06-25",
-      "deaths": 83473,
-      "recovered": 2797105
+      "deaths": 83588,
+      "recovered": 2809595
     }
   },
   "Iraq": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 191660,
+      "confirmed": 192129,
       "date": "2021-06-25",
       "deaths": 3185,
-      "recovered": 177106
+      "recovered": 177358
     }
   },
   "Lithuania": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 716847,
+      "confirmed": 722659,
       "date": "2021-06-25",
-      "deaths": 4721,
-      "recovered": 650964
+      "deaths": 4803,
+      "recovered": 657739
     }
   },
   "Mexico": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334825,
+          "confirmed": 1334843,
           "date": "2021-06-25",
           "deaths": 20594
         }
