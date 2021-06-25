@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551114,
+          "confirmed": 551136,
           "date": "2021-06-25",
           "deaths": 9077,
-          "recovered": 538870
+          "recovered": 538876
         }
       },
       "Quebec": {
@@ -1585,9 +1585,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 702398,
+      "confirmed": 702507,
       "date": "2021-06-25",
-      "deaths": 10880,
+      "deaths": 10882,
       "recovered": 317600
     }
   },
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 395362,
+      "confirmed": 398829,
       "date": "2021-06-25",
-      "deaths": 14406,
-      "recovered": 342598
+      "deaths": 14489,
+      "recovered": 344386
     }
   },
   "Turkey": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1334968,
+          "confirmed": 1335043,
           "date": "2021-06-25",
-          "deaths": 20598
+          "deaths": 20610
         }
       },
       "Utah": {
