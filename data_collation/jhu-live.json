@@ -557,10 +557,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 130908,
+      "confirmed": 130941,
       "date": "2021-06-26",
       "deaths": 1269,
-      "recovered": 127046
+      "recovered": 127130
     }
   },
   "Ethiopia": {
@@ -607,10 +607,10 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 180124,
+          "confirmed": 180115,
           "date": "2021-06-26",
           "deaths": 3556,
-          "recovered": 175800
+          "recovered": 175900
         }
       },
       "Brandenburg": {
@@ -1593,9 +1593,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 236291,
+      "confirmed": 240452,
       "date": "2021-06-26",
-      "deaths": 1819,
+      "deaths": 1870,
       "recovered": 26873
     }
   },
