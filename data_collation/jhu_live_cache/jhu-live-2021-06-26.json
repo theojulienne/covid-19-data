@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 137772,
+      "confirmed": 138113,
       "date": "2021-06-26",
-      "deaths": 3678,
-      "recovered": 95878
+      "deaths": 3685,
+      "recovered": 96108
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551325,
+          "confirmed": 551349,
           "date": "2021-06-26",
-          "deaths": 9081,
-          "recovered": 539196
+          "deaths": 9083,
+          "recovered": 539246
         }
       },
       "Quebec": {
@@ -1675,9 +1675,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1396404,
+          "confirmed": 1396523,
           "date": "2021-06-26",
-          "deaths": 40402
+          "deaths": 40410
         }
       },
       "North Carolina": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 244967,
+          "confirmed": 245029,
           "date": "2021-06-26",
           "deaths": 3710
         }
