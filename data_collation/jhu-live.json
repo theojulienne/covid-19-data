@@ -4,7 +4,7 @@
       "confirmed": 111592,
       "date": "2021-06-26",
       "deaths": 4519,
-      "recovered": 67183
+      "recovered": 67483
     }
   },
   "Albania": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 878804,
+      "confirmed": 883138,
       "date": "2021-06-26",
-      "deaths": 13976,
-      "recovered": 797559
+      "deaths": 14053,
+      "recovered": 800854
     }
   },
   "Belarus": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551136,
+          "confirmed": 551311,
           "date": "2021-06-26",
-          "deaths": 9077,
-          "recovered": 538876
+          "deaths": 9079,
+          "recovered": 539166
         }
       },
       "Quebec": {
@@ -599,9 +599,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 647233,
+          "confirmed": 647125,
           "date": "2021-06-26",
-          "deaths": 15241,
+          "deaths": 15242,
           "recovered": 628700
         }
       },
@@ -1029,7 +1029,7 @@
         "live": {
           "confirmed": 172109,
           "date": "2021-06-26",
-          "deaths": 2202,
+          "deaths": 2206,
           "recovered": 165319
         }
       }
@@ -1203,7 +1203,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 188492,
+          "confirmed": 188535,
           "date": "2021-06-26",
           "deaths": 2028,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 115555,
+          "confirmed": 115577,
           "date": "2021-06-26",
           "deaths": 1654,
           "recovered": 0
@@ -1219,7 +1219,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 272590,
+          "confirmed": 272685,
           "date": "2021-06-26",
           "deaths": 3139,
           "recovered": 0
@@ -1227,7 +1227,7 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 277701,
+          "confirmed": 277808,
           "date": "2021-06-26",
           "deaths": 2625,
           "recovered": 0
@@ -1235,7 +1235,7 @@
       },
       "Overijssel": {
         "live": {
-          "confirmed": 110127,
+          "confirmed": 110172,
           "date": "2021-06-26",
           "deaths": 1139,
           "recovered": 0
@@ -1243,7 +1243,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 128437,
+          "confirmed": 128483,
           "date": "2021-06-26",
           "deaths": 1280,
           "recovered": 0
@@ -1251,7 +1251,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 401356,
+          "confirmed": 401511,
           "date": "2021-06-26",
           "deaths": 4275,
           "recovered": 0
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 130342,
+      "confirmed": 130491,
       "date": "2021-06-26",
       "deaths": 792,
       "recovered": 17998
@@ -1365,18 +1365,18 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 871483,
+      "confirmed": 873051,
       "date": "2021-06-26",
-      "deaths": 17081,
-      "recovered": 823960
+      "deaths": 17083,
+      "recovered": 825209
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 221465,
+      "confirmed": 221590,
       "date": "2021-06-26",
       "deaths": 588,
-      "recovered": 219041
+      "recovered": 219202
     }
   },
   "Romania": {
@@ -1425,17 +1425,17 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 480702,
+      "confirmed": 482003,
       "date": "2021-06-26",
-      "deaths": 7743,
-      "recovered": 461628
+      "deaths": 7760,
+      "recovered": 463004
     }
   },
   "Serbia": {
     "live": {
-      "confirmed": 716172,
+      "confirmed": 716238,
       "date": "2021-06-26",
-      "deaths": 7024,
+      "deaths": 7029,
       "recovered": 0
     }
   },
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 143215,
+      "confirmed": 146031,
       "date": "2021-06-26",
-      "deaths": 1915,
-      "recovered": 119411
+      "deaths": 1967,
+      "recovered": 121965
     }
   }
 }
