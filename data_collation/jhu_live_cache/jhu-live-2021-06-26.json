@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 471498,
+      "confirmed": 473228,
       "date": "2021-06-26",
       "deaths": 3518,
-      "recovered": 441455
+      "recovered": 442620
     }
   },
   "Kenya": {
@@ -1177,10 +1177,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 104900,
+      "confirmed": 107262,
       "date": "2021-06-26",
-      "deaths": 493,
-      "recovered": 67579
+      "deaths": 505,
+      "recovered": 68751
     }
   },
   "Morocco": {
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 265642,
+      "confirmed": 266952,
       "date": "2021-06-26",
-      "deaths": 3023,
-      "recovered": 246983
+      "deaths": 3038,
+      "recovered": 248066
     }
   },
   "West Bank and Gaza": {
