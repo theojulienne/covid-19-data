@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421487,
+      "confirmed": 421515,
       "date": "2021-06-26",
-      "deaths": 18026,
-      "recovered": 394091
+      "deaths": 18027,
+      "recovered": 394106
     }
   },
   "Burma": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551349,
+          "confirmed": 551394,
           "date": "2021-06-26",
           "deaths": 9083,
-          "recovered": 539246
+          "recovered": 539256
         }
       },
       "Quebec": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 398829,
+      "confirmed": 403493,
       "date": "2021-06-26",
-      "deaths": 14489,
-      "recovered": 344386
+      "deaths": 14579,
+      "recovered": 346290
     }
   },
   "Turkey": {
@@ -1647,7 +1647,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135349,
+          "confirmed": 135362,
           "date": "2021-06-26",
           "deaths": 3777
         }
@@ -1717,7 +1717,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 112265,
+          "confirmed": 112339,
           "date": "2021-06-26",
           "deaths": 1652
         }
