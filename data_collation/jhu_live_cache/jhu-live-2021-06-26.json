@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 413952,
+      "confirmed": 414730,
       "date": "2021-06-26",
-      "deaths": 3093,
-      "recovered": 406686
+      "deaths": 3103,
+      "recovered": 407528
     }
   },
   "Belgium": {
@@ -1193,10 +1193,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 631152,
+      "confirmed": 632326,
       "date": "2021-06-26",
-      "deaths": 8945,
-      "recovered": 576413
+      "deaths": 8975,
+      "recovered": 581327
     }
   },
   "Netherlands": {
