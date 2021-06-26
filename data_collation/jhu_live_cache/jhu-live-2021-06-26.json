@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5699818,
+      "confirmed": 5701946,
       "date": "2021-06-26",
-      "deaths": 110032,
-      "recovered": 340005
+      "deaths": 110044,
+      "recovered": 340230
     }
   },
   "Georgia": {
@@ -681,10 +681,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 288987,
+      "confirmed": 290852,
       "date": "2021-06-26",
-      "deaths": 8960,
-      "recovered": 259850
+      "deaths": 9008,
+      "recovered": 261133
     }
   },
   "Honduras": {
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 1335188,
           "date": "2021-06-26",
-          "deaths": 20611
+          "deaths": 20620
         }
       },
       "Utah": {
