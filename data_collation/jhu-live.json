@@ -178,7 +178,7 @@
           "confirmed": 876055,
           "date": "2021-06-26",
           "deaths": 22352,
-          "recovered": 614691
+          "recovered": 615870
         }
       },
       "Distrito Federal": {
@@ -234,7 +234,7 @@
           "confirmed": 1774127,
           "date": "2021-06-26",
           "deaths": 45498,
-          "recovered": 1643248
+          "recovered": 1652502
         }
       },
       "Para": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 141699,
+          "confirmed": 142140,
           "date": "2021-06-26",
-          "deaths": 2276,
-          "recovered": 136900
+          "deaths": 2288,
+          "recovered": 137328
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 646198,
+          "confirmed": 648227,
           "date": "2021-06-26",
-          "deaths": 16732,
-          "recovered": 615671
+          "deaths": 16792,
+          "recovered": 618548
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 112611,
+          "confirmed": 113124,
           "date": "2021-06-26",
-          "deaths": 2882,
-          "recovered": 106519
+          "deaths": 2899,
+          "recovered": 107109
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 177253,
+      "confirmed": 179656,
       "date": "2021-06-26",
-      "deaths": 1219,
-      "recovered": 165611
+      "deaths": 1231,
+      "recovered": 167269
     }
   },
   "Czechia": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 321073,
+      "confirmed": 322071,
       "date": "2021-06-26",
-      "deaths": 3789,
-      "recovered": 261929
+      "deaths": 3796,
+      "recovered": 262865
     }
   },
   "Ecuador": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500500,
+          "confirmed": 500584,
           "date": "2021-06-26",
-          "deaths": 10221,
+          "deaths": 10222,
           "recovered": 487400
         }
       },
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 181885,
+      "confirmed": 182393,
       "date": "2021-06-26",
-      "deaths": 3556,
-      "recovered": 123853
+      "deaths": 3574,
+      "recovered": 124392
     }
   },
   "Korea, South": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 256475,
+      "confirmed": 256527,
       "date": "2021-06-26",
-      "deaths": 6182,
-      "recovered": 249465
+      "deaths": 6183,
+      "recovered": 249518
     }
   },
   "Mongolia": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 528731,
+      "confirmed": 529224,
       "date": "2021-06-26",
-      "deaths": 9268,
-      "recovered": 515537
+      "deaths": 9273,
+      "recovered": 515863
     }
   },
   "Nepal": {
@@ -1549,7 +1549,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 251012,
+      "confirmed": 251751,
       "date": "2021-06-26",
       "deaths": 2905,
       "recovered": 214668
@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5398878,
+      "confirmed": 5404144,
       "date": "2021-06-26",
-      "deaths": 49473,
-      "recovered": 5261892
+      "deaths": 49524,
+      "recovered": 5269294
     }
   },
   "US": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2744704,
+          "confirmed": 2744725,
           "date": "2021-06-26",
-          "deaths": 48244
+          "deaths": 48262
         }
       },
       "Florida": {
@@ -1661,7 +1661,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125080,
+          "confirmed": 125100,
           "date": "2021-06-26",
           "deaths": 1785
         }
@@ -1677,7 +1677,7 @@
         "live": {
           "confirmed": 1396287,
           "date": "2021-06-26",
-          "deaths": 40401
+          "deaths": 40402
         }
       },
       "North Carolina": {
