@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 137130,
+      "confirmed": 137169,
       "date": "2021-06-26",
-      "deaths": 2501,
-      "recovered": 133313
+      "deaths": 2503,
+      "recovered": 133489
     }
   },
   "Lebanon": {
@@ -1349,18 +1349,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1385053,
+      "confirmed": 1391911,
       "date": "2021-06-26",
-      "deaths": 24152,
-      "recovered": 1305608
+      "deaths": 24244,
+      "recovered": 1314220
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2879470,
+      "confirmed": 2879569,
       "date": "2021-06-26",
-      "deaths": 74953,
-      "recovered": 2651209
+      "deaths": 74974,
+      "recovered": 2651360
     }
   },
   "Portugal": {
@@ -1391,34 +1391,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1323757,
+          "confirmed": 1332214,
           "date": "2021-06-26",
-          "deaths": 21876,
-          "recovered": 1135580
+          "deaths": 21972,
+          "recovered": 1139840
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 301291,
+          "confirmed": 303795,
           "date": "2021-06-26",
-          "deaths": 6419,
-          "recovered": 246121
+          "deaths": 6439,
+          "recovered": 248057
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 123156,
+          "confirmed": 123483,
           "date": "2021-06-26",
-          "deaths": 4091,
-          "recovered": 115568
+          "deaths": 4117,
+          "recovered": 115711
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 462895,
+          "confirmed": 464142,
           "date": "2021-06-26",
-          "deaths": 15793,
-          "recovered": 436708
+          "deaths": 15900,
+          "recovered": 439041
         }
       }
     }
@@ -1441,7 +1441,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 391490,
+      "confirmed": 391531,
       "date": "2021-06-26",
       "deaths": 12505,
       "recovered": 255300
