@@ -43,7 +43,7 @@
     "live": {
       "confirmed": 650016,
       "date": "2021-06-26",
-      "deaths": 10700,
+      "deaths": 10699,
       "recovered": 637051
     }
   },
@@ -1027,7 +1027,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 171575,
+          "confirmed": 172109,
           "date": "2021-06-26",
           "deaths": 2202,
           "recovered": 164951
