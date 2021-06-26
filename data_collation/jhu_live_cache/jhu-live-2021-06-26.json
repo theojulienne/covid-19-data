@@ -933,7 +933,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 840813,
+      "confirmed": 840823,
       "date": "2021-06-26",
       "deaths": 6429,
       "recovered": 833133
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335188,
+          "confirmed": 1335330,
           "date": "2021-06-26",
           "deaths": 20620
         }
