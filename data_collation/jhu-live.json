@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 452234,
+      "confirmed": 453365,
       "date": "2021-06-26",
-      "deaths": 21433,
+      "deaths": 21485,
       "recovered": 415508
     }
   },
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 840638,
+      "confirmed": 840813,
       "date": "2021-06-26",
       "deaths": 6429,
-      "recovered": 833121
+      "recovered": 833133
     }
   },
   "Italy": {
@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 473228,
+      "confirmed": 473282,
       "date": "2021-06-26",
-      "deaths": 3518,
-      "recovered": 442620
+      "deaths": 3521,
+      "recovered": 442669
     }
   },
   "Kenya": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1895905,
+      "confirmed": 1913861,
       "date": "2021-06-26",
-      "deaths": 59621,
-      "recovered": 1690380
+      "deaths": 59778,
+      "recovered": 1702070
     }
   },
   "Spain": {
@@ -1675,7 +1675,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1396287,
+          "confirmed": 1396404,
           "date": "2021-06-26",
           "deaths": 40402
         }
@@ -1710,9 +1710,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 153229,
+          "confirmed": 153320,
           "date": "2021-06-26",
-          "deaths": 906
+          "deaths": 908
         }
       },
       "Washington": {
