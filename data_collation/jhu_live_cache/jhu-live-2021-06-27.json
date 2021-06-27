@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 258349,
+      "confirmed": 259628,
       "date": "2021-06-27",
-      "deaths": 6902,
-      "recovered": 92253
+      "deaths": 6916,
+      "recovered": 92309
     }
   },
   "Hungary": {
@@ -1177,10 +1177,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 107262,
+      "confirmed": 109694,
       "date": "2021-06-27",
-      "deaths": 505,
-      "recovered": 68751
+      "deaths": 518,
+      "recovered": 69958
     }
   },
   "Morocco": {
