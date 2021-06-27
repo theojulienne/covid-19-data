@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 473282,
+      "confirmed": 475097,
       "date": "2021-06-27",
-      "deaths": 3521,
-      "recovered": 442669
+      "deaths": 3523,
+      "recovered": 443739
     }
   },
   "Kenya": {
@@ -1085,10 +1085,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 119873,
+      "confirmed": 120865,
       "date": "2021-06-27",
-      "deaths": 1971,
-      "recovered": 107915
+      "deaths": 1977,
+      "recovered": 108465
     }
   },
   "Latvia": {
