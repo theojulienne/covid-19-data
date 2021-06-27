@@ -178,7 +178,7 @@
           "confirmed": 878665,
           "date": "2021-06-27",
           "deaths": 22420,
-          "recovered": 615870
+          "recovered": 617960
         }
       },
       "Distrito Federal": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551559,
+          "confirmed": 551574,
           "date": "2021-06-27",
           "deaths": 9085,
-          "recovered": 539472
+          "recovered": 539494
         }
       },
       "Quebec": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 256527,
+      "confirmed": 256559,
       "date": "2021-06-27",
-      "deaths": 6183,
-      "recovered": 249518
+      "deaths": 6184,
+      "recovered": 249556
     }
   },
   "Mongolia": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 251751,
+      "confirmed": 253618,
       "date": "2021-06-27",
-      "deaths": 2905,
-      "recovered": 214668
+      "deaths": 2944,
+      "recovered": 218998
     }
   },
   "Sweden": {
@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5404144,
+      "confirmed": 5409027,
       "date": "2021-06-27",
-      "deaths": 49524,
-      "recovered": 5269294
+      "deaths": 49576,
+      "recovered": 5275231
     }
   },
   "US": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2745158,
+          "confirmed": 2745404,
           "date": "2021-06-27",
-          "deaths": 48263
+          "deaths": 48291
         }
       },
       "Florida": {
@@ -1661,7 +1661,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125100,
+          "confirmed": 125125,
           "date": "2021-06-27",
           "deaths": 1785
         }
@@ -1675,9 +1675,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1396523,
+          "confirmed": 1396677,
           "date": "2021-06-27",
-          "deaths": 40410
+          "deaths": 40418
         }
       },
       "North Carolina": {

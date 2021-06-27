@@ -2142,18 +2142,18 @@ var covid19_dataset_latest_totals = {
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 235413,
-        "deaths": 2480,
-        "recovered": 197259
+        "confirmed": 237661,
+        "deaths": 2534,
+        "recovered": 199393
       },
       "back_2week": {
-        "confirmed": 218366,
-        "deaths": 2011,
-        "recovered": 184090
+        "confirmed": 221277,
+        "deaths": 2073,
+        "recovered": 186516
       },
       "latest": {
-        "confirmed": 249926,
-        "deaths": 2862,
+        "confirmed": 251751,
+        "deaths": 2905,
         "recovered": 214668
       }
     },
@@ -2261,19 +2261,19 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 256054,
-        "deaths": 6165,
-        "recovered": 249066
+        "confirmed": 256103,
+        "deaths": 6168,
+        "recovered": 249129
       },
       "back_2week": {
-        "confirmed": 255715,
-        "deaths": 6149,
-        "recovered": 248501
+        "confirmed": 255758,
+        "deaths": 6152,
+        "recovered": 248594
       },
       "latest": {
-        "confirmed": 256475,
-        "deaths": 6182,
-        "recovered": 249465
+        "confirmed": 256527,
+        "deaths": 6183,
+        "recovered": 249518
       }
     },
     "MDG": {
@@ -3361,19 +3361,19 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 5359728,
-        "deaths": 49071,
-        "recovered": 5224224
+        "confirmed": 5365208,
+        "deaths": 49122,
+        "recovered": 5228419
       },
       "back_2week": {
-        "confirmed": 5319359,
-        "deaths": 48593,
-        "recovered": 5192945
+        "confirmed": 5325435,
+        "deaths": 48668,
+        "recovered": 5198057
       },
       "latest": {
-        "confirmed": 5398878,
-        "deaths": 49473,
-        "recovered": 5261892
+        "confirmed": 5404144,
+        "deaths": 49524,
+        "recovered": 5269294
       }
     },
     "TWN": {
