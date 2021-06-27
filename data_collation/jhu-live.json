@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 154457,
+      "confirmed": 155071,
       "date": "2021-06-27",
-      "deaths": 2012,
-      "recovered": 145989
+      "deaths": 2013,
+      "recovered": 146340
     }
   },
   "Kosovo": {
@@ -1135,25 +1135,25 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 678996,
+          "confirmed": 680396,
           "date": "2021-06-27",
-          "deaths": 34607,
+          "deaths": 34634,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 132914,
+          "confirmed": 132955,
           "date": "2021-06-27",
-          "deaths": 11095,
+          "deaths": 11116,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 257992,
+          "confirmed": 258307,
           "date": "2021-06-27",
-          "deaths": 37313,
+          "deaths": 37340,
           "recovered": 0
         }
       },
@@ -1295,26 +1295,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 137560,
+          "confirmed": 137628,
           "date": "2021-06-27",
-          "deaths": 4298,
-          "recovered": 131396
+          "deaths": 4304,
+          "recovered": 131513
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 345655,
+          "confirmed": 345796,
           "date": "2021-06-27",
-          "deaths": 10713,
-          "recovered": 326029
+          "deaths": 10721,
+          "recovered": 326231
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 335044,
+          "confirmed": 335555,
           "date": "2021-06-27",
-          "deaths": 5407,
-          "recovered": 310096
+          "deaths": 5410,
+          "recovered": 311005
         }
       }
     }
