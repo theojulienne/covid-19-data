@@ -438,7 +438,7 @@
           "confirmed": 630099,
           "date": "2021-06-27",
           "deaths": 13604,
-          "recovered": 580468
+          "recovered": 584686
         }
       },
       "Atlantico": {
@@ -446,7 +446,7 @@
           "confirmed": 288583,
           "date": "2021-06-27",
           "deaths": 8922,
-          "recovered": 274568
+          "recovered": 275298
         }
       },
       "Bolivar": {
@@ -454,7 +454,7 @@
           "confirmed": 128732,
           "date": "2021-06-27",
           "deaths": 2440,
-          "recovered": 121938
+          "recovered": 122859
         }
       },
       "Capital District": {
@@ -462,7 +462,7 @@
           "confirmed": 1218716,
           "date": "2021-06-27",
           "deaths": 23020,
-          "recovered": 1103756
+          "recovered": 1112585
         }
       },
       "Cundinamarca": {
@@ -470,7 +470,7 @@
           "confirmed": 215275,
           "date": "2021-06-27",
           "deaths": 5598,
-          "recovered": 198981
+          "recovered": 201461
         }
       },
       "Santander": {
@@ -478,7 +478,7 @@
           "confirmed": 184199,
           "date": "2021-06-27",
           "deaths": 5793,
-          "recovered": 167163
+          "recovered": 169248
         }
       },
       "Valle del Cauca": {
@@ -486,7 +486,7 @@
           "confirmed": 319640,
           "date": "2021-06-27",
           "deaths": 10004,
-          "recovered": 295764
+          "recovered": 298570
         }
       }
     }
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 415320,
+      "confirmed": 416843,
       "date": "2021-06-27",
-      "deaths": 12211,
-      "recovered": 357368
+      "deaths": 12365,
+      "recovered": 360030
     }
   },
   "Peru": {
@@ -1626,14 +1626,14 @@
       },
       "California": {
         "live": {
-          "confirmed": 2745053,
+          "confirmed": 2745158,
           "date": "2021-06-27",
-          "deaths": 48262
+          "deaths": 48263
         }
       },
       "Florida": {
         "live": {
-          "confirmed": 1194987,
+          "confirmed": 1200305,
           "date": "2021-06-27",
           "deaths": 15576
         }
