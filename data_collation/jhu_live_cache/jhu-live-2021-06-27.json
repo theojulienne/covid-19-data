@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2093962,
+      "confirmed": 2115304,
       "date": "2021-06-27",
-      "deaths": 56729,
-      "recovered": 1842457
+      "deaths": 57138,
+      "recovered": 1850481
     }
   },
   "Iran": {
@@ -1030,7 +1030,7 @@
           "confirmed": 172495,
           "date": "2021-06-27",
           "deaths": 2206,
-          "recovered": 165319
+          "recovered": 165665
         }
       }
     }
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 192129,
+      "confirmed": 192470,
       "date": "2021-06-27",
-      "deaths": 3185,
-      "recovered": 177358
+      "deaths": 3187,
+      "recovered": 177600
     }
   },
   "Lithuania": {
