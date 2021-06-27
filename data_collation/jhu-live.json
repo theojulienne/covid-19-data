@@ -557,10 +557,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 130941,
+      "confirmed": 130968,
       "date": "2021-06-27",
       "deaths": 1269,
-      "recovered": 127130
+      "recovered": 127149
     }
   },
   "Ethiopia": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 840823,
+      "confirmed": 840850,
       "date": "2021-06-27",
       "deaths": 6429,
-      "recovered": 833133
+      "recovered": 833142
     }
   },
   "Italy": {
