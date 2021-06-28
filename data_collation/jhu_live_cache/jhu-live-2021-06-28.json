@@ -1085,10 +1085,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 120865,
+      "confirmed": 121946,
       "date": "2021-06-28",
-      "deaths": 1977,
-      "recovered": 108465
+      "deaths": 1982,
+      "recovered": 108953
     }
   },
   "Latvia": {
@@ -1735,50 +1735,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 135531,
+          "confirmed": 135555,
           "date": "2021-06-28",
-          "deaths": 4424,
-          "recovered": 129695
+          "deaths": 4427,
+          "recovered": 129790
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 148494,
+          "confirmed": 148495,
           "date": "2021-06-28",
-          "deaths": 3519,
-          "recovered": 143891
+          "deaths": 3521,
+          "recovered": 143919
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 213370,
+          "confirmed": 213486,
           "date": "2021-06-28",
           "deaths": 5190,
-          "recovered": 204239
+          "recovered": 204359
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 127266,
+          "confirmed": 127288,
           "date": "2021-06-28",
           "deaths": 2742,
-          "recovered": 123586
+          "recovered": 123589
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 137388,
+          "confirmed": 137390,
           "date": "2021-06-28",
           "deaths": 3650,
-          "recovered": 132507
+          "recovered": 132527
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 140538,
+          "confirmed": 140549,
           "date": "2021-06-28",
           "deaths": 2975,
-          "recovered": 135938
+          "recovered": 136045
         }
       }
     }
@@ -1837,10 +1837,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 109223,
+      "confirmed": 109692,
       "date": "2021-06-28",
-      "deaths": 729,
-      "recovered": 105006
+      "deaths": 731,
+      "recovered": 105780
     }
   },
   "Venezuela": {
