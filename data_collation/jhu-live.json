@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 475039,
+      "confirmed": 476740,
       "date": "2021-06-28",
-      "deaths": 3523,
-      "recovered": 443739
+      "deaths": 3524,
+      "recovered": 444980
     }
   },
   "Kenya": {
@@ -1177,10 +1177,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 109694,
+      "confirmed": 111505,
       "date": "2021-06-28",
-      "deaths": 518,
-      "recovered": 69958
+      "deaths": 533,
+      "recovered": 70792
     }
   },
   "Morocco": {
