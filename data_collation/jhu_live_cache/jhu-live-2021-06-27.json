@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4393142,
+      "confirmed": 4405247,
       "date": "2021-06-27",
-      "deaths": 92317,
-      "recovered": 4010346
+      "deaths": 92568,
+      "recovered": 4027510
     }
   },
   "Armenia": {
@@ -202,7 +202,7 @@
           "confirmed": 671057,
           "date": "2021-06-27",
           "deaths": 18988,
-          "recovered": 635400
+          "recovered": 639805
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 445653,
           "date": "2021-06-27",
           "deaths": 11722,
-          "recovered": 420434
+          "recovered": 423781
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 549528,
           "date": "2021-06-27",
           "deaths": 15406,
-          "recovered": 508732
+          "recovered": 513108
         }
       },
       "Paraiba": {
@@ -541,10 +541,10 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 453365,
+      "confirmed": 454336,
       "date": "2021-06-27",
-      "deaths": 21485,
-      "recovered": 415508
+      "deaths": 21523,
+      "recovered": 423688
     }
   },
   "Egypt": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 349923,
+      "confirmed": 351481,
       "date": "2021-06-27",
-      "deaths": 1919,
-      "recovered": 329423
+      "deaths": 1933,
+      "recovered": 331015
     }
   },
   "Kyrgyzstan": {
@@ -1101,9 +1101,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 544291,
+      "confirmed": 544454,
       "date": "2021-06-27",
-      "deaths": 7841,
+      "deaths": 7843,
       "recovered": 531749
     }
   },
@@ -1261,10 +1261,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 167465,
+      "confirmed": 167467,
       "date": "2021-06-27",
       "deaths": 2119,
-      "recovered": 163946
+      "recovered": 163949
     }
   },
   "North Macedonia": {
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 364859,
+      "confirmed": 365866,
       "date": "2021-06-27",
-      "deaths": 5474,
-      "recovered": 340352
+      "deaths": 5494,
+      "recovered": 342494
     }
   },
   "Uzbekistan": {
@@ -1853,10 +1853,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 313520,
+      "confirmed": 313721,
       "date": "2021-06-27",
-      "deaths": 3556,
-      "recovered": 307236
+      "deaths": 3559,
+      "recovered": 307618
     }
   },
   "Zambia": {
