@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 650261,
+      "confirmed": 650324,
       "date": "2021-06-28",
-      "deaths": 10700,
-      "recovered": 637424
+      "deaths": 10701,
+      "recovered": 637545
     }
   },
   "Azerbaijan": {
@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2115304,
+      "confirmed": 2135998,
       "date": "2021-06-28",
-      "deaths": 57138,
-      "recovered": 1850481
+      "deaths": 57561,
+      "recovered": 1859961
     }
   },
   "Iran": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 840888,
+      "confirmed": 840995,
       "date": "2021-06-28",
       "deaths": 6429,
-      "recovered": 833169
+      "recovered": 833208
     }
   },
   "Italy": {
@@ -1030,7 +1030,7 @@
           "confirmed": 172812,
           "date": "2021-06-28",
           "deaths": 2207,
-          "recovered": 165665
+          "recovered": 166069
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 137210,
+      "confirmed": 137240,
       "date": "2021-06-28",
       "deaths": 2503,
-      "recovered": 133489
+      "recovered": 133648
     }
   },
   "Lebanon": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 192470,
+      "confirmed": 192786,
       "date": "2021-06-28",
-      "deaths": 3187,
-      "recovered": 177600
+      "deaths": 3191,
+      "recovered": 177882
     }
   },
   "Lithuania": {
@@ -1285,10 +1285,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 262059,
+      "confirmed": 264302,
       "date": "2021-06-28",
-      "deaths": 2967,
-      "recovered": 229998
+      "deaths": 3013,
+      "recovered": 231718
     }
   },
   "Pakistan": {
@@ -1449,10 +1449,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 257240,
+      "confirmed": 257252,
       "date": "2021-06-28",
       "deaths": 4419,
-      "recovered": 252030
+      "recovered": 252054
     }
   },
   "South Africa": {
