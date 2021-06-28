@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551740,
+          "confirmed": 551985,
           "date": "2021-06-28",
-          "deaths": 9086,
-          "recovered": 539714
+          "deaths": 9105,
+          "recovered": 540210
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275935,
+      "confirmed": 275974,
       "date": "2021-06-28",
-      "deaths": 4314,
-      "recovered": 259044
+      "deaths": 4315,
+      "recovered": 259617
     }
   },
   "France": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 841184,
+      "confirmed": 841196,
       "date": "2021-06-28",
-      "deaths": 6430,
-      "recovered": 833226
+      "deaths": 6429,
+      "recovered": 833228
     }
   },
   "Italy": {
@@ -1549,7 +1549,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 253618,
+      "confirmed": 255508,
       "date": "2021-06-28",
       "deaths": 2944,
       "recovered": 218998
@@ -1619,7 +1619,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 676604,
+          "confirmed": 676949,
           "date": "2021-06-28",
           "deaths": 12692
         }
@@ -1705,14 +1705,14 @@
         "live": {
           "confirmed": 1335568,
           "date": "2021-06-28",
-          "deaths": 20625
+          "deaths": 20626
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 153404,
+          "confirmed": 153471,
           "date": "2021-06-28",
-          "deaths": 911
+          "deaths": 912
         }
       },
       "Washington": {
