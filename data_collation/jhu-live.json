@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 433013,
+      "confirmed": 433935,
       "date": "2021-06-28",
-      "deaths": 16551,
-      "recovered": 353032
+      "deaths": 16581,
+      "recovered": 354569
     }
   },
   "Bosnia and Herzegovina": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 155071,
+      "confirmed": 155572,
       "date": "2021-06-28",
-      "deaths": 2013,
-      "recovered": 146340
+      "deaths": 2015,
+      "recovered": 146675
     }
   },
   "Kosovo": {
