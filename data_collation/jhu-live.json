@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 415339,
+      "confirmed": 415780,
       "date": "2021-06-28",
-      "deaths": 3113,
-      "recovered": 408307
+      "deaths": 3122,
+      "recovered": 408503
     }
   },
   "Belgium": {
@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 359652,
+      "confirmed": 359666,
       "date": "2021-06-28",
-      "deaths": 8200,
-      "recovered": 350938
+      "deaths": 8202,
+      "recovered": 351039
     }
   },
   "Cuba": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 734048,
+      "confirmed": 739266,
       "date": "2021-06-28",
-      "deaths": 4944,
-      "recovered": 667709
+      "deaths": 5001,
+      "recovered": 672453
     }
   },
   "Mexico": {
@@ -1193,10 +1193,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 633679,
+      "confirmed": 635188,
       "date": "2021-06-28",
-      "deaths": 9009,
-      "recovered": 584334
+      "deaths": 9051,
+      "recovered": 588187
     }
   },
   "Netherlands": {
@@ -1381,9 +1381,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1080630,
+      "confirmed": 1080667,
       "date": "2021-06-28",
-      "deaths": 33253,
+      "deaths": 33311,
       "recovered": 1045351
     }
   },
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335404,
+          "confirmed": 1335411,
           "date": "2021-06-28",
           "deaths": 20624
         }
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 626936,
+      "confirmed": 628976,
       "date": "2021-06-28",
-      "deaths": 1796,
-      "recovered": 605618
+      "deaths": 1802,
+      "recovered": 607606
     }
   },
   "United Kingdom": {
