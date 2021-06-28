@@ -1666,13 +1666,13 @@ var covid19_dataset_latest_totals = {
     },
     "HND": {
       "back_1week": {
-        "confirmed": 253128,
-        "deaths": 6759,
+        "confirmed": 253875,
+        "deaths": 6766,
         "recovered": 91650
       },
       "back_2week": {
-        "confirmed": 247074,
-        "deaths": 6606,
+        "confirmed": 247728,
+        "deaths": 6631,
         "recovered": 88164
       },
       "latest": {
