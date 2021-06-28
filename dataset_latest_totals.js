@@ -1144,19 +1144,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 315815,
-        "deaths": 3754,
-        "recovered": 257034
+        "confirmed": 316787,
+        "deaths": 3756,
+        "recovered": 258173
       },
       "back_2week": {
-        "confirmed": 307847,
-        "deaths": 3705,
-        "recovered": 250595
+        "confirmed": 308650,
+        "deaths": 3707,
+        "recovered": 251689
       },
       "latest": {
-        "confirmed": 322071,
-        "deaths": 3796,
-        "recovered": 262865
+        "confirmed": 322778,
+        "deaths": 3797,
+        "recovered": 263958
       }
     },
     "DZA": {
@@ -1314,19 +1314,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5691181,
-        "deaths": 109830,
-        "recovered": 339290
+        "confirmed": 5692996,
+        "deaths": 109844,
+        "recovered": 339339
       },
       "back_2week": {
-        "confirmed": 5675604,
-        "deaths": 109503,
-        "recovered": 337566
+        "confirmed": 5678209,
+        "deaths": 109509,
+        "recovered": 337668
       },
       "latest": {
-        "confirmed": 5701946,
-        "deaths": 110044,
-        "recovered": 340230
+        "confirmed": 5703524,
+        "deaths": 110061,
+        "recovered": 340293
       },
       "states": {
         "French Guiana": {
@@ -3950,19 +3950,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1810164,
-        "deaths": 58590,
-        "recovered": 1640849
+        "confirmed": 1823319,
+        "deaths": 58702,
+        "recovered": 1647503
       },
       "back_2week": {
-        "confirmed": 1739425,
-        "deaths": 57706,
-        "recovered": 1602406
+        "confirmed": 1747082,
+        "deaths": 57765,
+        "recovered": 1606581
       },
       "latest": {
-        "confirmed": 1913861,
-        "deaths": 59778,
-        "recovered": 1702070
+        "confirmed": 1928897,
+        "deaths": 59900,
+        "recovered": 1709999
       }
     },
     "ZMB": {
