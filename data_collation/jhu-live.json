@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 551739,
+          "confirmed": 551740,
           "date": "2021-06-28",
-          "deaths": 9085,
-          "recovered": 539709
+          "deaths": 9086,
+          "recovered": 539714
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 142456,
+          "confirmed": 142792,
           "date": "2021-06-28",
-          "deaths": 2299,
-          "recovered": 137719
+          "deaths": 2311,
+          "recovered": 138083
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 649857,
+          "confirmed": 651380,
           "date": "2021-06-28",
-          "deaths": 16856,
-          "recovered": 620921
+          "deaths": 16917,
+          "recovered": 623009
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 113607,
+          "confirmed": 113975,
           "date": "2021-06-28",
-          "deaths": 2914,
-          "recovered": 107631
+          "deaths": 2936,
+          "recovered": 108164
         }
       }
     }
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746039,
+          "confirmed": 2746171,
           "date": "2021-06-28",
-          "deaths": 48294
+          "deaths": 48296
         }
       },
       "Florida": {
@@ -1675,7 +1675,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1396902,
+          "confirmed": 1396984,
           "date": "2021-06-28",
           "deaths": 40425
         }
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245073,
+          "confirmed": 245120,
           "date": "2021-06-28",
           "deaths": 3710
         }
@@ -1724,9 +1724,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117772,
+          "confirmed": 117802,
           "date": "2021-06-28",
-          "deaths": 1423
+          "deaths": 1424
         }
       }
     }
