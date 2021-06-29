@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5703780,
+      "confirmed": 5705863,
       "date": "2021-06-29",
-      "deaths": 110105,
-      "recovered": 340555
+      "deaths": 110149,
+      "recovered": 340876
     }
   },
   "Georgia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500675,
+          "confirmed": 500814,
           "date": "2021-06-29",
-          "deaths": 10236,
+          "deaths": 10243,
           "recovered": 487800
         }
       },
@@ -925,7 +925,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 271589,
+      "confirmed": 271931,
       "date": "2021-06-29",
       "deaths": 4989,
       "recovered": 23364
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 841319,
+      "confirmed": 841486,
       "date": "2021-06-29",
       "deaths": 6429,
-      "recovered": 833249
+      "recovered": 833293
     }
   },
   "Italy": {
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 750389,
+      "confirmed": 750886,
       "date": "2021-06-29",
-      "deaths": 9737,
-      "recovered": 734140
+      "deaths": 9743,
+      "recovered": 734634
     }
   },
   "Kazakhstan": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 182884,
+      "confirmed": 183603,
       "date": "2021-06-29",
-      "deaths": 3612,
-      "recovered": 124588
+      "deaths": 3621,
+      "recovered": 125388
     }
   },
   "Korea, South": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746782,
+          "confirmed": 2746876,
           "date": "2021-06-29",
-          "deaths": 48300
+          "deaths": 48302
         }
       },
       "Florida": {
@@ -1640,9 +1640,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 556885,
+          "confirmed": 556951,
           "date": "2021-06-29",
-          "deaths": 10486
+          "deaths": 10490
         }
       },
       "Massachusetts": {
@@ -1654,9 +1654,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 284498,
+          "confirmed": 284563,
           "date": "2021-06-29",
-          "deaths": 7602
+          "deaths": 7610
         }
       },
       "Minnesota": {
@@ -1668,16 +1668,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 258822,
+          "confirmed": 259356,
           "date": "2021-06-29",
-          "deaths": 4485
+          "deaths": 4491
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1397057,
+          "confirmed": 1397154,
           "date": "2021-06-29",
-          "deaths": 40426
+          "deaths": 40431
         }
       },
       "North Carolina": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245120,
+          "confirmed": 245205,
           "date": "2021-06-29",
           "deaths": 3710
         }
