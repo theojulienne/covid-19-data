@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 433935,
+      "confirmed": 435568,
       "date": "2021-06-29",
-      "deaths": 16581,
-      "recovered": 354569
+      "deaths": 16631,
+      "recovered": 356575
     }
   },
   "Bosnia and Herzegovina": {
@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 361005,
+      "confirmed": 364304,
       "date": "2021-06-29",
-      "deaths": 4602,
-      "recovered": 287248
+      "deaths": 4648,
+      "recovered": 289545
     }
   },
   "Croatia": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 155572,
+      "confirmed": 156167,
       "date": "2021-06-29",
-      "deaths": 2015,
-      "recovered": 146675
+      "deaths": 2017,
+      "recovered": 147077
     }
   },
   "Kosovo": {
@@ -1295,26 +1295,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 137759,
+          "confirmed": 137831,
           "date": "2021-06-29",
-          "deaths": 4308,
-          "recovered": 131626
+          "deaths": 4311,
+          "recovered": 131698
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 345900,
+          "confirmed": 346036,
           "date": "2021-06-29",
-          "deaths": 10729,
-          "recovered": 326512
+          "deaths": 10740,
+          "recovered": 326669
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 336076,
+          "confirmed": 336507,
           "date": "2021-06-29",
-          "deaths": 5418,
-          "recovered": 311374
+          "deaths": 5427,
+          "recovered": 311779
         }
       }
     }
@@ -1551,8 +1551,8 @@
     "live": {
       "confirmed": 255508,
       "date": "2021-06-29",
-      "deaths": 2944,
-      "recovered": 218998
+      "deaths": 2985,
+      "recovered": 221249
     }
   },
   "Sweden": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746430,
+          "confirmed": 2746698,
           "date": "2021-06-29",
           "deaths": 48296
         }
