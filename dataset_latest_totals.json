@@ -418,19 +418,19 @@
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 410678,
-        "deaths": 3044,
-        "recovered": 403758
+        "confirmed": 411153,
+        "deaths": 3053,
+        "recovered": 404025
       },
       "back_2week": {
-        "confirmed": 405663,
-        "deaths": 2978,
-        "recovered": 398742
+        "confirmed": 406360,
+        "deaths": 2987,
+        "recovered": 399174
       },
       "latest": {
-        "confirmed": 415339,
-        "deaths": 3113,
-        "recovered": 408307
+        "confirmed": 415780,
+        "deaths": 3122,
+        "recovered": 408503
       }
     },
     "BLZ": {
@@ -1115,19 +1115,19 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 291652,
-        "deaths": 2530,
-        "recovered": 284211
+        "confirmed": 291801,
+        "deaths": 2531,
+        "recovered": 284752
       },
       "back_2week": {
-        "confirmed": 289874,
-        "deaths": 2525,
-        "recovered": 278256
+        "confirmed": 290111,
+        "deaths": 2526,
+        "recovered": 279072
       },
       "latest": {
-        "confirmed": 292943,
-        "deaths": 2532,
-        "recovered": 287344
+        "confirmed": 293094,
+        "deaths": 2533,
+        "recovered": 287570
       },
       "states": {
         "Faroe Islands": {
