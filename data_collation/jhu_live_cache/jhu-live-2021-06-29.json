@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 138840,
+      "confirmed": 139229,
       "date": "2021-06-29",
-      "deaths": 3699,
-      "recovered": 96572
+      "deaths": 3708,
+      "recovered": 96815
     }
   },
   "Argentina": {
@@ -665,7 +665,7 @@
         "live": {
           "confirmed": 128748,
           "date": "2021-06-29",
-          "deaths": 4334,
+          "deaths": 4333,
           "recovered": 123900
         }
       }
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 676949,
+          "confirmed": 677345,
           "date": "2021-06-29",
-          "deaths": 12692
+          "deaths": 12702
         }
       },
       "California": {
@@ -1691,7 +1691,7 @@
         "live": {
           "confirmed": 245205,
           "date": "2021-06-29",
-          "deaths": 3710
+          "deaths": 3716
         }
       },
       "Pennsylvania": {
@@ -1710,9 +1710,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 153471,
+          "confirmed": 153590,
           "date": "2021-06-29",
-          "deaths": 912
+          "deaths": 913
         }
       },
       "Washington": {
@@ -1724,9 +1724,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117802,
+          "confirmed": 117830,
           "date": "2021-06-29",
-          "deaths": 1424
+          "deaths": 1428
         }
       }
     }
