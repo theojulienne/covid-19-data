@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4405247,
+      "confirmed": 4423636,
       "date": "2021-06-28",
-      "deaths": 92568,
-      "recovered": 4027510
+      "deaths": 93142,
+      "recovered": 4046308
     }
   },
   "Armenia": {
@@ -218,7 +218,7 @@
           "confirmed": 446911,
           "date": "2021-06-28",
           "deaths": 11761,
-          "recovered": 423781
+          "recovered": 425648
         }
       },
       "Mato Grosso do Sul": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421531,
+      "confirmed": 421646,
       "date": "2021-06-28",
-      "deaths": 18027,
-      "recovered": 394125
+      "deaths": 18040,
+      "recovered": 394242
     }
   },
   "Burma": {
@@ -541,7 +541,7 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 454336,
+      "confirmed": 455743,
       "date": "2021-06-28",
       "deaths": 21523,
       "recovered": 423688
@@ -610,7 +610,7 @@
           "confirmed": 180121,
           "date": "2021-06-28",
           "deaths": 3556,
-          "recovered": 175900
+          "recovered": 176200
         }
       },
       "Brandenburg": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 351481,
+      "confirmed": 353133,
       "date": "2021-06-28",
-      "deaths": 1933,
-      "recovered": 331015
+      "deaths": 1943,
+      "recovered": 332678
     }
   },
   "Kyrgyzstan": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 544454,
+      "confirmed": 544520,
       "date": "2021-06-28",
-      "deaths": 7843,
-      "recovered": 531749
+      "deaths": 7845,
+      "recovered": 532287
     }
   },
   "Libya": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746171,
+          "confirmed": 2746373,
           "date": "2021-06-28",
           "deaths": 48296
         }
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 365866,
+      "confirmed": 366915,
       "date": "2021-06-28",
-      "deaths": 5494,
-      "recovered": 342494
+      "deaths": 5524,
+      "recovered": 344803
     }
   },
   "Uzbekistan": {
