@@ -258,7 +258,7 @@
           "confirmed": 1274017,
           "date": "2021-06-29",
           "deaths": 30451,
-          "recovered": 884137
+          "recovered": 890344
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 1210224,
           "date": "2021-06-29",
           "deaths": 31158,
-          "recovered": 1162789
+          "recovered": 1167017
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 953858,
           "date": "2021-06-29",
           "deaths": 55195,
-          "recovered": 889396
+          "recovered": 892309
         }
       },
       "Rondonia": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 275974,
+      "confirmed": 276037,
       "date": "2021-06-29",
-      "deaths": 4315,
-      "recovered": 259617
+      "deaths": 4320,
+      "recovered": 260302
     }
   },
   "France": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335550,
+          "confirmed": 1335683,
           "date": "2021-06-29",
-          "deaths": 20628
+          "deaths": 20632
         }
       },
       "Utah": {
