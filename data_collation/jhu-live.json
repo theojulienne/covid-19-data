@@ -170,7 +170,7 @@
           "confirmed": 1120408,
           "date": "2021-06-29",
           "deaths": 23817,
-          "recovered": 1083487
+          "recovered": 1087249
         }
       },
       "Ceara": {
@@ -202,7 +202,7 @@
           "confirmed": 671969,
           "date": "2021-06-29",
           "deaths": 18992,
-          "recovered": 639805
+          "recovered": 643526
         }
       },
       "Maranhao": {
@@ -226,7 +226,7 @@
           "confirmed": 333581,
           "date": "2021-06-29",
           "deaths": 8123,
-          "recovered": 307563
+          "recovered": 312879
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1788725,
           "date": "2021-06-29",
           "deaths": 45924,
-          "recovered": 1659641
+          "recovered": 1666865
         }
       },
       "Para": {
@@ -346,7 +346,7 @@
           "confirmed": 196708,
           "date": "2021-06-29",
           "deaths": 3192,
-          "recovered": 178807
+          "recovered": 179090
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552142,
+          "confirmed": 552180,
           "date": "2021-06-29",
-          "deaths": 9107,
-          "recovered": 540412
+          "deaths": 9125,
+          "recovered": 540594
         }
       },
       "Quebec": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746876,
+          "confirmed": 2746931,
           "date": "2021-06-29",
           "deaths": 48302
         }
