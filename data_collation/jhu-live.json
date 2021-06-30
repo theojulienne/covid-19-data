@@ -389,7 +389,7 @@
         "live": {
           "confirmed": 552330,
           "date": "2021-06-30",
-          "deaths": 9130,
+          "deaths": 9131,
           "recovered": 540840
         }
       },
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 1954466,
+      "confirmed": 1973972,
       "date": "2021-06-30",
-      "deaths": 60264,
-      "recovered": 1739976
+      "deaths": 60647,
+      "recovered": 1748042
     }
   },
   "Spain": {
@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5420156,
+      "confirmed": 5425652,
       "date": "2021-06-30",
-      "deaths": 49687,
-      "recovered": 5287094
+      "deaths": 49732,
+      "recovered": 5294285
     }
   },
   "US": {
@@ -1654,9 +1654,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 284563,
+          "confirmed": 284623,
           "date": "2021-06-30",
-          "deaths": 7610
+          "deaths": 7609
         }
       },
       "Minnesota": {
@@ -1670,7 +1670,7 @@
         "live": {
           "confirmed": 259885,
           "date": "2021-06-30",
-          "deaths": 4491
+          "deaths": 4494
         }
       },
       "New York": {
@@ -1724,7 +1724,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117830,
+          "confirmed": 117852,
           "date": "2021-06-30",
           "deaths": 1428
         }
