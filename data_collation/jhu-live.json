@@ -925,9 +925,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 271931,
+      "confirmed": 271908,
       "date": "2021-06-30",
-      "deaths": 4989,
+      "deaths": 4998,
       "recovered": 23364
     }
   },
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2747172,
+          "confirmed": 2747328,
           "date": "2021-06-30",
-          "deaths": 48314
+          "deaths": 48316
         }
       },
       "Florida": {
@@ -1640,9 +1640,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 556951,
+          "confirmed": 557001,
           "date": "2021-06-30",
-          "deaths": 10490
+          "deaths": 10492
         }
       },
       "Massachusetts": {
@@ -1668,16 +1668,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 259356,
+          "confirmed": 259885,
           "date": "2021-06-30",
           "deaths": 4491
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1397154,
+          "confirmed": 1397330,
           "date": "2021-06-30",
-          "deaths": 40431
+          "deaths": 40430
         }
       },
       "North Carolina": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245205,
+          "confirmed": 245253,
           "date": "2021-06-30",
           "deaths": 3716
         }
