@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 750886,
+      "confirmed": 751404,
       "date": "2021-06-30",
-      "deaths": 9743,
-      "recovered": 734634
+      "deaths": 9750,
+      "recovered": 735094
     }
   },
   "Kazakhstan": {
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 877195,
+      "confirmed": 879557,
       "date": "2021-06-30",
-      "deaths": 17092,
-      "recovered": 827969
+      "deaths": 17096,
+      "recovered": 828990
     }
   },
   "Qatar": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 257225,
+      "confirmed": 258405,
       "date": "2021-06-30",
-      "deaths": 3030,
-      "recovered": 223471
+      "deaths": 3077,
+      "recovered": 225952
     }
   },
   "Sweden": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335683,
+          "confirmed": 1335694,
           "date": "2021-06-30",
           "deaths": 20632
         }
