@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 117158,
+      "confirmed": 118659,
       "date": "2021-06-30",
-      "deaths": 4794,
+      "deaths": 4871,
       "recovered": 70016
     }
   },
@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 650353,
+      "confirmed": 650412,
       "date": "2021-06-30",
-      "deaths": 10700,
-      "recovered": 637613
+      "deaths": 10702,
+      "recovered": 637751
     }
   },
   "Azerbaijan": {
@@ -1030,7 +1030,7 @@
           "confirmed": 174002,
           "date": "2021-06-30",
           "deaths": 2215,
-          "recovered": 166449
+          "recovered": 166841
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 137329,
+      "confirmed": 137429,
       "date": "2021-06-30",
-      "deaths": 2508,
-      "recovered": 133648
+      "deaths": 2513,
+      "recovered": 133928
     }
   },
   "Lebanon": {
@@ -1285,10 +1285,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 266536,
+      "confirmed": 268545,
       "date": "2021-06-30",
-      "deaths": 3056,
-      "recovered": 233287
+      "deaths": 3100,
+      "recovered": 234861
     }
   },
   "Pakistan": {
