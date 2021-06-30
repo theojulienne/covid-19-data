@@ -170,7 +170,7 @@
           "confirmed": 1123311,
           "date": "2021-06-30",
           "deaths": 23906,
-          "recovered": 1087249
+          "recovered": 1089638
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 334681,
           "date": "2021-06-30",
           "deaths": 8153,
-          "recovered": 312879
+          "recovered": 313398
         }
       },
       "Minas Gerais": {
@@ -290,7 +290,7 @@
           "confirmed": 1214291,
           "date": "2021-06-30",
           "deaths": 31280,
-          "recovered": 1167017
+          "recovered": 1169471
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 957424,
           "date": "2021-06-30",
           "deaths": 55337,
-          "recovered": 892309
+          "recovered": 893595
         }
       },
       "Rondonia": {
@@ -346,7 +346,7 @@
           "confirmed": 197266,
           "date": "2021-06-30",
           "deaths": 3205,
-          "recovered": 179090
+          "recovered": 180023
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552375,
+          "confirmed": 552415,
           "date": "2021-06-30",
-          "deaths": 9132,
-          "recovered": 540863
+          "deaths": 9145,
+          "recovered": 541033
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276037,
+      "confirmed": 276174,
       "date": "2021-06-30",
       "deaths": 4320,
-      "recovered": 260302
+      "recovered": 260372
     }
   },
   "France": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 414182,
+      "confirmed": 420103,
       "date": "2021-06-30",
-      "deaths": 14843,
-      "recovered": 352180
+      "deaths": 14959,
+      "recovered": 354441
     }
   },
   "Turkey": {
@@ -1619,14 +1619,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 677345,
+          "confirmed": 677912,
           "date": "2021-06-30",
-          "deaths": 12702
+          "deaths": 12707
         }
       },
       "California": {
         "live": {
-          "confirmed": 2747361,
+          "confirmed": 2746304,
           "date": "2021-06-30",
           "deaths": 48325
         }
@@ -1705,14 +1705,14 @@
         "live": {
           "confirmed": 1336095,
           "date": "2021-06-30",
-          "deaths": 20636
+          "deaths": 20637
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 153590,
+          "confirmed": 153773,
           "date": "2021-06-30",
-          "deaths": 913
+          "deaths": 915
         }
       },
       "Washington": {
