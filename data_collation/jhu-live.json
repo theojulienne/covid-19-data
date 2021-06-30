@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 139229,
+      "confirmed": 139626,
       "date": "2021-06-30",
-      "deaths": 3708,
-      "recovered": 96815
+      "deaths": 3716,
+      "recovered": 97089
     }
   },
   "Argentina": {
@@ -234,7 +234,7 @@
           "confirmed": 1795062,
           "date": "2021-06-30",
           "deaths": 45961,
-          "recovered": 1666865
+          "recovered": 1677523
         }
       },
       "Para": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552314,
+          "confirmed": 552330,
           "date": "2021-06-30",
-          "deaths": 9129,
-          "recovered": 540812
+          "deaths": 9130,
+          "recovered": 540840
         }
       },
       "Quebec": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500818,
+          "confirmed": 500943,
           "date": "2021-06-30",
-          "deaths": 10243,
+          "deaths": 10261,
           "recovered": 488100
         }
       },
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 530585,
+      "confirmed": 531361,
       "date": "2021-06-30",
-      "deaths": 9292,
-      "recovered": 517059
+      "deaths": 9296,
+      "recovered": 517576
     }
   },
   "Nepal": {
@@ -1549,7 +1549,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 258405,
+      "confirmed": 259089,
       "date": "2021-06-30",
       "deaths": 3077,
       "recovered": 225952
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2747171,
+          "confirmed": 2747172,
           "date": "2021-06-30",
-          "deaths": 48299
+          "deaths": 48314
         }
       },
       "Florida": {
@@ -1661,9 +1661,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125181,
+          "confirmed": 125204,
           "date": "2021-06-30",
-          "deaths": 1787
+          "deaths": 1788
         }
       },
       "Nevada": {
@@ -1682,7 +1682,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 114599,
+          "confirmed": 114641,
           "date": "2021-06-30",
           "deaths": 976
         }
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335694,
+          "confirmed": 1335786,
           "date": "2021-06-30",
           "deaths": 20632
         }
