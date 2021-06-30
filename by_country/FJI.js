@@ -1053,7 +1053,8 @@ var covid19_dataset_country_fji = {
       3063,
       3329,
       3591,
-      3832
+      3832,
+      4144
     ],
     "deaths": [
       0,
@@ -1579,7 +1580,8 @@ var covid19_dataset_country_fji = {
       14,
       15,
       15,
-      17
+      17,
+      21
     ],
     "recovered": [
       0,
@@ -2105,7 +2107,8 @@ var covid19_dataset_country_fji = {
       675,
       736,
       753,
-      779
+      779,
+      808
     ]
   }
 };

@@ -1053,7 +1053,8 @@ var covid19_dataset_country_ben = {
       8170,
       8170,
       8170,
-      8170
+      8170,
+      8199
     ],
     "deaths": [
       0,
@@ -1573,6 +1574,7 @@ var covid19_dataset_country_ben = {
       103,
       103,
       103,
+      104,
       104,
       104,
       104,
@@ -2099,6 +2101,7 @@ var covid19_dataset_country_ben = {
       7979,
       7979,
       7979,
+      8000,
       8000,
       8000,
       8000,

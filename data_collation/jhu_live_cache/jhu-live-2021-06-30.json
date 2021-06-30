@@ -1029,8 +1029,8 @@
         "live": {
           "confirmed": 173288,
           "date": "2021-06-30",
-          "deaths": 2211,
-          "recovered": 166069
+          "deaths": 2215,
+          "recovered": 166449
         }
       }
     }
@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 478063,
+      "confirmed": 480162,
       "date": "2021-06-30",
       "deaths": 3527,
-      "recovered": 446259
+      "recovered": 447545
     }
   },
   "Kenya": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2747275,
+          "confirmed": 2747315,
           "date": "2021-06-30",
           "deaths": 48302
         }
