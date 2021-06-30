@@ -350,35 +350,35 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 421152,
-        "deaths": 18000,
-        "recovered": 393186
+        "confirmed": 421246,
+        "deaths": 18008,
+        "recovered": 393636
       },
       "back_2week": {
-        "confirmed": 420493,
-        "deaths": 17915,
-        "recovered": 390388
+        "confirmed": 420654,
+        "deaths": 17932,
+        "recovered": 390971
       },
       "latest": {
-        "confirmed": 421646,
-        "deaths": 18040,
-        "recovered": 394242
+        "confirmed": 421751,
+        "deaths": 18049,
+        "recovered": 394469
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 263295,
-        "deaths": 1311,
-        "recovered": 254913
+        "confirmed": 263689,
+        "deaths": 1326,
+        "recovered": 256063
       },
       "back_2week": {
-        "confirmed": 259523,
-        "deaths": 1236,
-        "recovered": 246074
+        "confirmed": 260334,
+        "deaths": 1246,
+        "recovered": 247493
       },
       "latest": {
-        "confirmed": 265477,
-        "deaths": 1348,
+        "confirmed": 265643,
+        "deaths": 1351,
         "recovered": 260363
       }
     },
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 231850,
-          "deaths": 2295
+          "confirmed": 231911,
+          "deaths": 2299
         },
         "British Columbia": {
           "confirmed": 147549,
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 340967,
-        "deaths": 1877,
-        "recovered": 321293
+        "confirmed": 342929,
+        "deaths": 1888,
+        "recovered": 322897
       },
       "back_2week": {
-        "confirmed": 329526,
-        "deaths": 1828,
-        "recovered": 311559
+        "confirmed": 331013,
+        "deaths": 1831,
+        "recovered": 312850
       },
       "latest": {
-        "confirmed": 353133,
-        "deaths": 1943,
-        "recovered": 332678
+        "confirmed": 354851,
+        "deaths": 1961,
+        "recovered": 334445
       }
     },
     "LAO": {
