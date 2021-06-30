@@ -194,7 +194,7 @@
           "confirmed": 516765,
           "date": "2021-06-30",
           "deaths": 11462,
-          "recovered": 487628
+          "recovered": 490862
         }
       },
       "Goias": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552330,
+          "confirmed": 552375,
           "date": "2021-06-30",
-          "deaths": 9131,
-          "recovered": 540840
+          "deaths": 9132,
+          "recovered": 540863
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5705863,
+      "confirmed": 5707142,
       "date": "2021-06-30",
-      "deaths": 110149,
-      "recovered": 340876
+      "deaths": 110161,
+      "recovered": 341159
     }
   },
   "Georgia": {
@@ -1467,47 +1467,47 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 618002,
+          "confirmed": 619323,
           "date": "2021-06-30",
-          "deaths": 10041,
+          "deaths": 10062,
           "recovered": 10671
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 126773,
+          "confirmed": 126928,
           "date": "2021-06-30",
-          "deaths": 3544,
+          "deaths": 3549,
           "recovered": 3772
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 401750,
+          "confirmed": 402684,
           "date": "2021-06-30",
-          "deaths": 7413,
+          "deaths": 7412,
           "recovered": 9970
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 196600,
+          "confirmed": 196732,
           "date": "2021-06-30",
-          "deaths": 6011,
+          "deaths": 6012,
           "recovered": 6392
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 235582,
+          "confirmed": 236146,
           "date": "2021-06-30",
-          "deaths": 6923,
+          "deaths": 6925,
           "recovered": 8716
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 644151,
+          "confirmed": 647694,
           "date": "2021-06-30",
           "deaths": 14736,
           "recovered": 26203
@@ -1515,7 +1515,7 @@
       },
       "Galicia": {
         "live": {
-          "confirmed": 129735,
+          "confirmed": 129914,
           "date": "2021-06-30",
           "deaths": 2423,
           "recovered": 9204
@@ -1523,15 +1523,15 @@
       },
       "Madrid": {
         "live": {
-          "confirmed": 731035,
+          "confirmed": 732007,
           "date": "2021-06-30",
-          "deaths": 15440,
+          "deaths": 15450,
           "recovered": 40736
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 114809,
+          "confirmed": 114918,
           "date": "2021-06-30",
           "deaths": 1606,
           "recovered": 2180
@@ -1539,9 +1539,9 @@
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 204365,
+          "confirmed": 204666,
           "date": "2021-06-30",
-          "deaths": 4529,
+          "deaths": 4535,
           "recovered": 16160
         }
       }
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2747328,
+          "confirmed": 2747361,
           "date": "2021-06-30",
-          "deaths": 48316
+          "deaths": 48325
         }
       },
       "Florida": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1335786,
+          "confirmed": 1336095,
           "date": "2021-06-30",
-          "deaths": 20632
+          "deaths": 20636
         }
       },
       "Utah": {
