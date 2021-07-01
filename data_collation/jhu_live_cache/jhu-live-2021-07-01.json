@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 139626,
+      "confirmed": 140075,
       "date": "2021-07-01",
-      "deaths": 3716,
-      "recovered": 97089
+      "deaths": 3726,
+      "recovered": 97380
     }
   },
   "Argentina": {
@@ -170,7 +170,7 @@
           "confirmed": 1124994,
           "date": "2021-07-01",
           "deaths": 24012,
-          "recovered": 1089638
+          "recovered": 1092550
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 885980,
           "date": "2021-07-01",
           "deaths": 22571,
-          "recovered": 618554
+          "recovered": 622443
         }
       },
       "Distrito Federal": {
@@ -234,7 +234,7 @@
           "confirmed": 1803748,
           "date": "2021-07-01",
           "deaths": 46242,
-          "recovered": 1677523
+          "recovered": 1686090
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1215519,
           "date": "2021-07-01",
           "deaths": 31398,
-          "recovered": 1169471
+          "recovered": 1173125
         }
       },
       "Rio de Janeiro": {
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 190993,
+      "confirmed": 193945,
       "date": "2021-07-01",
-      "deaths": 1284,
-      "recovered": 174151
+      "deaths": 1302,
+      "recovered": 176030
     }
   },
   "Czechia": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276174,
+      "confirmed": 276250,
       "date": "2021-07-01",
-      "deaths": 4320,
-      "recovered": 260372
+      "deaths": 4325,
+      "recovered": 260737
     }
   },
   "France": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 356687,
+      "confirmed": 358511,
       "date": "2021-07-01",
-      "deaths": 1969,
-      "recovered": 336122
+      "deaths": 1979,
+      "recovered": 337829
     }
   },
   "Kyrgyzstan": {
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 677912,
+          "confirmed": 678229,
           "date": "2021-07-01",
-          "deaths": 12707
+          "deaths": 12709
         }
       },
       "California": {
@@ -1675,9 +1675,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1397445,
+          "confirmed": 1397590,
           "date": "2021-07-01",
-          "deaths": 40431
+          "deaths": 40439
         }
       },
       "North Carolina": {
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 1337287,
           "date": "2021-07-01",
-          "deaths": 20653
+          "deaths": 20659
         }
       },
       "Utah": {
