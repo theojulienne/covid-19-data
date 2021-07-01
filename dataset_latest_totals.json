@@ -2414,19 +2414,19 @@
     },
     "MNG": {
       "back_1week": {
-        "confirmed": 98050,
-        "deaths": 459,
-        "recovered": 64354
+        "confirmed": 102629,
+        "deaths": 482,
+        "recovered": 66602
       },
       "back_2week": {
-        "confirmed": 83128,
-        "deaths": 389,
-        "recovered": 58649
+        "confirmed": 85770,
+        "deaths": 400,
+        "recovered": 59220
       },
       "latest": {
-        "confirmed": 113232,
-        "deaths": 548,
-        "recovered": 73007
+        "confirmed": 115478,
+        "deaths": 563,
+        "recovered": 76654
       }
     },
     "MOZ": {
