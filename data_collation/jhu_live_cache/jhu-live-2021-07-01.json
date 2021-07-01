@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 141176,
+          "confirmed": 141299,
           "date": "2021-07-01",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 133432,
+          "confirmed": 133516,
           "date": "2021-07-01",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 124309,
+          "confirmed": 124384,
           "date": "2021-07-01",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 159633,
+          "confirmed": 159671,
           "date": "2021-07-01",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 131314,
+          "confirmed": 131377,
           "date": "2021-07-01",
           "deaths": 0,
           "recovered": 0
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1337035,
+          "confirmed": 1337174,
           "date": "2021-07-01",
-          "deaths": 20643
+          "deaths": 20646
         }
       },
       "Utah": {
