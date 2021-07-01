@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5707142,
+      "confirmed": 5709806,
       "date": "2021-07-01",
-      "deaths": 110161,
-      "recovered": 340159
+      "deaths": 110190,
+      "recovered": 340446
     }
   },
   "Georgia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 500954,
+          "confirmed": 501029,
           "date": "2021-07-01",
-          "deaths": 10261,
+          "deaths": 10272,
           "recovered": 488300
         }
       },
@@ -1373,10 +1373,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 222071,
+      "confirmed": 222217,
       "date": "2021-07-01",
-      "deaths": 590,
-      "recovered": 219799
+      "deaths": 591,
+      "recovered": 219985
     }
   },
   "Romania": {
@@ -1552,7 +1552,7 @@
       "confirmed": 260972,
       "date": "2021-07-01",
       "deaths": 3120,
-      "recovered": 225952
+      "recovered": 227840
     }
   },
   "Sweden": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2746985,
+          "confirmed": 2747102,
           "date": "2021-07-01",
           "deaths": 48365
         }
@@ -1654,9 +1654,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 284623,
+          "confirmed": 284758,
           "date": "2021-07-01",
-          "deaths": 7609
+          "deaths": 7614
         }
       },
       "Minnesota": {
@@ -1670,14 +1670,14 @@
         "live": {
           "confirmed": 260389,
           "date": "2021-07-01",
-          "deaths": 4494
+          "deaths": 4504
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1397330,
+          "confirmed": 1397445,
           "date": "2021-07-01",
-          "deaths": 40430
+          "deaths": 40431
         }
       },
       "North Carolina": {
@@ -1724,7 +1724,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117852,
+          "confirmed": 117884,
           "date": "2021-07-01",
           "deaths": 1428
         }
