@@ -298,7 +298,7 @@
           "confirmed": 958199,
           "date": "2021-07-01",
           "deaths": 55470,
-          "recovered": 893595
+          "recovered": 895595
         }
       },
       "Rondonia": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421829,
+      "confirmed": 421902,
       "date": "2021-07-01",
-      "deaths": 18061,
-      "recovered": 394657
+      "deaths": 18067,
+      "recovered": 394930
     }
   },
   "Burma": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2747102,
+          "confirmed": 2747133,
           "date": "2021-07-01",
-          "deaths": 48366
+          "deaths": 48367
         }
       },
       "Florida": {
@@ -1647,9 +1647,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135387,
+          "confirmed": 135401,
           "date": "2021-07-01",
-          "deaths": 3778
+          "deaths": 3780
         }
       },
       "Michigan": {
