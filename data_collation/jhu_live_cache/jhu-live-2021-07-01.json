@@ -1085,10 +1085,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 125003,
+      "confirmed": 126395,
       "date": "2021-07-01",
-      "deaths": 2000,
-      "recovered": 110082
+      "deaths": 2009,
+      "recovered": 110698
     }
   },
   "Latvia": {
@@ -1735,50 +1735,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 135574,
+          "confirmed": 135605,
           "date": "2021-07-01",
-          "deaths": 4429,
-          "recovered": 129912
+          "deaths": 4434,
+          "recovered": 130057
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 148534,
+          "confirmed": 148575,
           "date": "2021-07-01",
-          "deaths": 3526,
-          "recovered": 144072
+          "deaths": 3531,
+          "recovered": 144126
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 213788,
+          "confirmed": 214019,
           "date": "2021-07-01",
-          "deaths": 5191,
-          "recovered": 204623
+          "deaths": 5194,
+          "recovered": 204857
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 127328,
+          "confirmed": 127384,
           "date": "2021-07-01",
-          "deaths": 2744,
-          "recovered": 123719
+          "deaths": 2749,
+          "recovered": 123798
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 137425,
+          "confirmed": 137454,
           "date": "2021-07-01",
           "deaths": 3650,
-          "recovered": 132606
+          "recovered": 132872
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 140584,
+          "confirmed": 140625,
           "date": "2021-07-01",
           "deaths": 2975,
-          "recovered": 136706
+          "recovered": 136769
         }
       }
     }
@@ -1837,10 +1837,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 110677,
+      "confirmed": 111153,
       "date": "2021-07-01",
-      "deaths": 736,
-      "recovered": 107063
+      "deaths": 740,
+      "recovered": 107696
     }
   },
   "Venezuela": {
