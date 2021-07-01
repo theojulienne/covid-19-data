@@ -70,19 +70,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARE": {
       "back_1week": {
-        "confirmed": 616160,
-        "deaths": 1767,
-        "recovered": 595086
+        "confirmed": 618148,
+        "deaths": 1773,
+        "recovered": 597008
       },
       "back_2week": {
-        "confirmed": 601950,
-        "deaths": 1734,
-        "recovered": 581139
+        "confirmed": 603961,
+        "deaths": 1738,
+        "recovered": 583115
       },
       "latest": {
-        "confirmed": 631160,
-        "deaths": 1807,
-        "recovered": 609711
+        "confirmed": 632907,
+        "deaths": 1811,
+        "recovered": 611442
       }
     },
     "ARG": {
@@ -2091,19 +2091,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 191253,
-        "deaths": 3181,
-        "recovered": 176649
+        "confirmed": 191476,
+        "deaths": 3183,
+        "recovered": 176869
       },
       "back_2week": {
-        "confirmed": 189555,
+        "confirmed": 189888,
         "deaths": 3166,
-        "recovered": 175226
+        "recovered": 175471
       },
       "latest": {
-        "confirmed": 193238,
-        "deaths": 3191,
-        "recovered": 178191
+        "confirmed": 193474,
+        "deaths": 3193,
+        "recovered": 178387
       }
     },
     "LCA": {
@@ -2499,19 +2499,19 @@ var covid19_dataset_latest_totals = {
     },
     "MYS": {
       "back_1week": {
-        "confirmed": 705762,
-        "deaths": 4554,
-        "recovered": 639181
+        "confirmed": 711006,
+        "deaths": 4637,
+        "recovered": 645553
       },
       "back_2week": {
-        "confirmed": 667876,
-        "deaths": 4069,
-        "recovered": 593695
+        "confirmed": 673026,
+        "deaths": 4142,
+        "recovered": 600935
       },
       "latest": {
-        "confirmed": 745703,
-        "deaths": 5108,
-        "recovered": 677751
+        "confirmed": 751979,
+        "deaths": 5170,
+        "recovered": 682680
       }
     },
     "NAM": {
