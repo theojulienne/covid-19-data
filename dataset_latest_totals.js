@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1417702,
+        "confirmed": 1418467,
         "deaths": 26121,
         "recovered": 1381123
       },
       "back_2week": {
-        "confirmed": 1411652,
+        "confirmed": 1412737,
         "deaths": 25943,
         "recovered": 1370779
       },
       "latest": {
-        "confirmed": 1422226,
+        "confirmed": 1422830,
         "deaths": 26246,
         "recovered": 1388529
       },
@@ -627,7 +627,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 552180,
+          "confirmed": 552415,
           "deaths": 9125
         },
         "Prince Edward Island": {
@@ -1144,19 +1144,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 318368,
-        "deaths": 3769,
-        "recovered": 260533
+        "confirmed": 319254,
+        "deaths": 3773,
+        "recovered": 261222
       },
       "back_2week": {
-        "confirmed": 310391,
-        "deaths": 3717,
-        "recovered": 253272
+        "confirmed": 311833,
+        "deaths": 3726,
+        "recovered": 254400
       },
       "latest": {
-        "confirmed": 324364,
-        "deaths": 3815,
-        "recovered": 265800
+        "confirmed": 325221,
+        "deaths": 3822,
+        "recovered": 266079
       }
     },
     "DZA": {
@@ -1598,18 +1598,18 @@ var covid19_dataset_latest_totals = {
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 418943,
-        "deaths": 12575,
+        "confirmed": 419455,
+        "deaths": 12589,
         "recovered": 93764
       },
       "back_2week": {
-        "confirmed": 416195,
-        "deaths": 12459,
+        "confirmed": 416741,
+        "deaths": 12472,
         "recovered": 93764
       },
       "latest": {
-        "confirmed": 421829,
-        "deaths": 12676,
+        "confirmed": 422456,
+        "deaths": 12687,
         "recovered": 93764
       }
     },
@@ -3463,352 +3463,352 @@ var covid19_dataset_latest_totals = {
     },
     "USA": {
       "back_1week": {
-        "confirmed": 32268065,
-        "deaths": 563328,
+        "confirmed": 32287182,
+        "deaths": 564566,
         "recovered": 10651043,
-        "tested": 462543331
+        "tested": 463854835
       },
       "back_2week": {
-        "confirmed": 32190380,
-        "deaths": 561464,
+        "confirmed": 32209195,
+        "deaths": 562921,
         "recovered": 10344086,
-        "tested": 458176299
+        "tested": 459581177
       },
       "latest": {
-        "confirmed": 32354549,
-        "deaths": 565507,
+        "confirmed": 32373300,
+        "deaths": 566031,
         "recovered": 10863687,
-        "tested": 406946472
+        "tested": 336445021
       },
       "states": {
         "AK": {
-          "confirmed": 68272,
+          "confirmed": 68339,
           "deaths": 367,
-          "hospitalized": 1887,
+          "hospitalized": 1895,
           "recovered": 7164,
-          "tested": 2553183
+          "tested": 2554424
         },
         "AL": {
-          "confirmed": 550448,
-          "deaths": 11336,
-          "hospitalized": 61225,
+          "confirmed": 550980,
+          "deaths": 11350,
+          "hospitalized": 61458,
           "recovered": 295690,
-          "tested": 4728305
+          "tested": 4730559
         },
         "AR": {
-          "confirmed": 347896,
-          "deaths": 5895,
-          "hospitalized": 25368,
+          "confirmed": 348699,
+          "deaths": 5905,
+          "hospitalized": 25606,
           "recovered": 315181,
-          "tested": 2844655
+          "tested": 2848782
         },
         "AZ": {
-          "confirmed": 893147,
-          "deaths": 17913,
-          "hospitalized": 78714,
-          "tested": 8141431
+          "confirmed": 894106,
+          "deaths": 17930,
+          "hospitalized": 79059,
+          "tested": 8150160
         },
         "CA": {
-          "confirmed": 3712795,
-          "deaths": 62990,
+          "confirmed": 3710283,
+          "deaths": 63023,
           "tested": 59512360
         },
         "CO": {
-          "confirmed": 556775,
-          "deaths": 6777,
-          "hospitalized": 39193,
-          "tested": 8260124
+          "confirmed": 557347,
+          "deaths": 6788,
+          "hospitalized": 39394,
+          "tested": 8277814
         },
         "CT": {
-          "confirmed": 349212,
-          "deaths": 8275,
-          "hospitalized": 22296,
+          "confirmed": 349301,
+          "deaths": 8276,
+          "hospitalized": 22346,
           "recovered": 9800,
-          "tested": 9509675
+          "tested": 9515521
         },
         "DC": {
-          "confirmed": 49323,
+          "confirmed": 49347,
           "deaths": 1141,
           "recovered": 29470,
-          "tested": 2053347
+          "tested": 2059028
         },
         "DE": {
-          "confirmed": 109682,
+          "confirmed": 109712,
           "deaths": 1694,
           "recovered": 18605,
-          "tested": 2167607
+          "tested": 2168896
         },
         "FL": {
-          "confirmed": 2325853,
-          "deaths": 37817,
-          "hospitalized": 150084,
-          "tested": 31119268
+          "confirmed": 2329484,
+          "deaths": 37877,
+          "hospitalized": 151046,
+          "tested": 31151864
         },
         "GA": {
-          "confirmed": 1133291,
-          "deaths": 21393,
-          "hospitalized": 91127,
-          "tested": 8714895
+          "confirmed": 1133983,
+          "deaths": 21412,
+          "hospitalized": 91609,
+          "tested": 8724988
         },
         "HI": {
-          "confirmed": 36297,
+          "confirmed": 36344,
           "deaths": 513,
-          "hospitalized": 4000,
+          "hospitalized": 4024,
           "recovered": 11930,
-          "tested": 1694935
+          "tested": 1698418
         },
         "IA": {
-          "confirmed": 373600,
-          "deaths": 6133,
-          "hospitalized": 5694,
+          "confirmed": 373802,
+          "deaths": 6134,
+          "hospitalized": 5895,
           "recovered": 319780,
-          "tested": 3635645
+          "tested": 3640204
         },
         "ID": {
-          "confirmed": 194778,
-          "deaths": 2145,
-          "hospitalized": 9155,
+          "confirmed": 194901,
+          "deaths": 2149,
+          "hospitalized": 9180,
           "recovered": 95808,
-          "tested": 1659698
+          "tested": 1662225
         },
         "IL": {
-          "confirmed": 1390930,
-          "deaths": 25653,
-          "tested": 21348269
+          "confirmed": 1391480,
+          "deaths": 25667,
+          "tested": 21396807
         },
         "IN": {
-          "confirmed": 753073,
-          "deaths": 13835,
-          "hospitalized": 63635,
-          "tested": 8836645
+          "confirmed": 753528,
+          "deaths": 13844,
+          "hospitalized": 63915,
+          "tested": 8843923
         },
         "KS": {
-          "confirmed": 317534,
-          "deaths": 5147,
-          "hospitalized": 15469,
-          "tested": 3139041
+          "confirmed": 317878,
+          "deaths": 5150,
+          "hospitalized": 15558,
+          "tested": 3143749
         },
         "KY": {
-          "confirmed": 464584,
-          "deaths": 7208,
-          "hospitalized": 38482,
+          "confirmed": 464893,
+          "deaths": 7217,
+          "hospitalized": 38645,
           "recovered": 48131,
-          "tested": 4659635
+          "tested": 4670910
         },
         "LA": {
-          "confirmed": 480147,
-          "deaths": 10725,
+          "confirmed": 480876,
+          "deaths": 10732,
           "recovered": 415954,
-          "tested": 6871021
+          "tested": 6880872
         },
         "MA": {
-          "confirmed": 709769,
-          "deaths": 17990,
-          "hospitalized": 35535,
+          "confirmed": 709873,
+          "deaths": 17993,
+          "hospitalized": 35713,
           "recovered": 508745,
-          "tested": 23528354
+          "tested": 23529477
         },
         "MD": {
-          "confirmed": 462144,
-          "deaths": 9737,
-          "hospitalized": 75178,
+          "confirmed": 462279,
+          "deaths": 9741,
+          "hospitalized": 75621,
           "recovered": 9703,
-          "tested": 11597239
+          "tested": 11599965
         },
         "ME": {
-          "confirmed": 68976,
+          "confirmed": 69037,
           "deaths": 858,
-          "hospitalized": 4704,
+          "hospitalized": 4745,
           "recovered": 12838,
-          "tested": 2374204
+          "tested": 2377009
         },
         "MI": {
-          "confirmed": 999351,
-          "deaths": 20961,
+          "confirmed": 999711,
+          "deaths": 20996,
           "recovered": 549881,
-          "tested": 14478475
+          "tested": 14500219
         },
         "MN": {
-          "confirmed": 605137,
-          "deaths": 7675,
-          "hospitalized": 35840,
+          "confirmed": 605297,
+          "deaths": 7680,
+          "hospitalized": 35916,
           "recovered": 475170,
-          "tested": 12689632
+          "tested": 12700163
         },
         "MO": {
-          "confirmed": 616499,
-          "deaths": 9257,
-          "tested": 6354459
+          "confirmed": 618734,
+          "deaths": 9311,
+          "tested": 6358196
         },
         "MS": {
-          "confirmed": 321263,
-          "deaths": 7407,
-          "hospitalized": 14798,
+          "confirmed": 321764,
+          "deaths": 7412,
+          "hospitalized": 14904,
           "recovered": 278162,
-          "tested": 1448473
+          "tested": 1449789
         },
         "MT": {
-          "confirmed": 113559,
-          "deaths": 1662,
-          "hospitalized": 7578,
+          "confirmed": 113690,
+          "deaths": 1665,
+          "hospitalized": 7622,
           "recovered": 97801,
-          "tested": 1250026
+          "tested": 1251928
         },
         "NC": {
-          "confirmed": 1012919,
-          "deaths": 13416,
-          "tested": 11974482
+          "confirmed": 1013684,
+          "deaths": 13437,
+          "tested": 12000054
         },
         "ND": {
-          "confirmed": 110663,
+          "confirmed": 110707,
           "deaths": 1528,
-          "hospitalized": 5988,
+          "hospitalized": 6002,
           "recovered": 98240,
-          "tested": 1666018
+          "tested": 1667939
         },
         "NE": {
-          "confirmed": 224358,
-          "deaths": 2259,
-          "hospitalized": 9000,
+          "confirmed": 224488,
+          "deaths": 2260,
+          "hospitalized": 9044,
           "recovered": 156825,
-          "tested": 2078760
+          "tested": 2080310
         },
         "NH": {
-          "confirmed": 99437,
+          "confirmed": 99481,
           "deaths": 1371,
-          "hospitalized": 3884,
+          "hospitalized": 3887,
           "recovered": 73327,
-          "tested": 2101430
+          "tested": 2104345
         },
         "NJ": {
-          "confirmed": 1022830,
-          "deaths": 26437,
-          "hospitalized": 98704,
-          "tested": 14674485
+          "confirmed": 1023200,
+          "deaths": 26444,
+          "hospitalized": 98957,
+          "tested": 14696550
         },
         "NM": {
-          "confirmed": 205388,
-          "deaths": 4335,
-          "hospitalized": 17616,
+          "confirmed": 205484,
+          "deaths": 4338,
+          "hospitalized": 17686,
           "recovered": 155000,
-          "tested": 3053075
+          "tested": 3056404
         },
         "NV": {
-          "confirmed": 332224,
-          "deaths": 5669,
-          "tested": 3510596
+          "confirmed": 333154,
+          "deaths": 5678,
+          "tested": 3516239
         },
         "NY": {
-          "confirmed": 1157104,
-          "deaths": 19925,
-          "tested": 47540877
+          "confirmed": 1157344,
+          "deaths": 19928,
+          "tested": 47634458
         },
         "OH": {
-          "confirmed": 1110700,
-          "deaths": 20281,
-          "hospitalized": 93500,
+          "confirmed": 1111124,
+          "deaths": 20309,
+          "hospitalized": 94069,
           "recovered": 923986,
-          "tested": 13190456
+          "tested": 13217275
         },
         "OK": {
-          "confirmed": 457419,
-          "deaths": 7386,
-          "hospitalized": 36368,
+          "confirmed": 457851,
+          "deaths": 7390,
+          "hospitalized": 36549,
           "recovered": 411624,
-          "tested": 2386048
+          "tested": 2388115
         },
         "OR": {
-          "confirmed": 208136,
-          "deaths": 2763,
-          "hospitalized": 17402,
+          "confirmed": 208446,
+          "deaths": 2770,
+          "hospitalized": 17502,
           "recovered": 5870,
-          "tested": 3879321
+          "tested": 3888403
         },
         "PA": {
-          "confirmed": 1211603,
-          "deaths": 27654,
-          "hospitalized": 68232,
+          "confirmed": 1211869,
+          "deaths": 27670,
+          "hospitalized": 68900,
           "recovered": 859218,
-          "tested": 15340176
+          "tested": 15363184
         },
         "RI": {
-          "confirmed": 152559,
+          "confirmed": 152589,
           "deaths": 2728,
-          "hospitalized": 9851,
-          "tested": 3746114
+          "hospitalized": 9855,
+          "tested": 3752263
         },
         "SC": {
-          "confirmed": 597030,
-          "deaths": 9823,
-          "hospitalized": 29724,
+          "confirmed": 597309,
+          "deaths": 9831,
+          "hospitalized": 29799,
           "recovered": 218863,
-          "tested": 6525301
+          "tested": 6529849
         },
         "SD": {
-          "confirmed": 124504,
-          "deaths": 2030,
-          "hospitalized": 8819,
+          "confirmed": 124521,
+          "deaths": 2033,
+          "hospitalized": 8849,
           "recovered": 109371,
-          "tested": 654641
+          "tested": 655803
         },
         "TN": {
-          "confirmed": 866857,
-          "deaths": 12557,
-          "hospitalized": 32407,
+          "confirmed": 866841,
+          "deaths": 12564,
+          "hospitalized": 32519,
           "recovered": 756793,
-          "tested": 7198585
+          "tested": 7199838
         },
         "TX": {
-          "confirmed": 2984340,
-          "deaths": 51199,
+          "confirmed": 2986847,
+          "deaths": 51223,
           "recovered": 2491753,
-          "tested": 27519744
+          "tested": 27528402
         },
         "UT": {
-          "confirmed": 413950,
-          "deaths": 2363,
-          "hospitalized": 18144,
+          "confirmed": 414565,
+          "deaths": 2368,
+          "hospitalized": 18239,
           "recovered": 358249,
-          "tested": 4296249
+          "tested": 4304496
         },
         "VA": {
-          "confirmed": 679828,
-          "deaths": 11396,
-          "hospitalized": 53998,
-          "tested": 8340148
+          "confirmed": 680340,
+          "deaths": 11415,
+          "hospitalized": 54315,
+          "tested": 8346593
         },
         "VT": {
-          "confirmed": 24392,
-          "deaths": 256,
-          "hospitalized": 979,
+          "confirmed": 22822,
+          "deaths": 249,
+          "hospitalized": 981,
           "recovered": 13305,
-          "tested": 1805986
+          "tested": 1807827
         },
         "WA": {
-          "confirmed": 450666,
-          "deaths": 5906,
-          "hospitalized": 39778,
+          "confirmed": 451248,
+          "deaths": 5920,
+          "hospitalized": 40154,
           "tested": 6372599
         },
         "WI": {
-          "confirmed": 677346,
-          "deaths": 8105,
-          "hospitalized": 38761,
+          "confirmed": 677531,
+          "deaths": 8126,
+          "hospitalized": 38891,
           "recovered": 552642,
-          "tested": 9767356
+          "tested": 9783079
         },
         "WV": {
-          "confirmed": 163912,
-          "deaths": 2876,
+          "confirmed": 163992,
+          "deaths": 2879,
           "recovered": 124983,
-          "tested": 2849930
+          "tested": 2853257
         },
         "WY": {
-          "confirmed": 62049,
-          "deaths": 740,
-          "hospitalized": 2995,
+          "confirmed": 62195,
+          "deaths": 747,
+          "hospitalized": 3021,
           "recovered": 53550,
-          "tested": 815854
+          "tested": 816422
         }
       }
     },
