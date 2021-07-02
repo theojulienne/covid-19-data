@@ -226,7 +226,7 @@
           "confirmed": 336087,
           "date": "2021-07-02",
           "deaths": 8231,
-          "recovered": 315039
+          "recovered": 316567
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1810854,
           "date": "2021-07-02",
           "deaths": 46459,
-          "recovered": 1686090
+          "recovered": 1694747
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1219231,
           "date": "2021-07-02",
           "deaths": 31497,
-          "recovered": 1173125
+          "recovered": 1177716
         }
       },
       "Rio de Janeiro": {
@@ -346,7 +346,7 @@
           "confirmed": 198150,
           "date": "2021-07-02",
           "deaths": 3227,
-          "recovered": 181180
+          "recovered": 181553
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552772,
+          "confirmed": 552857,
           "date": "2021-07-02",
-          "deaths": 9153,
-          "recovered": 541397
+          "deaths": 9163,
+          "recovered": 541529
         }
       },
       "Quebec": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 426879,
+      "confirmed": 432761,
       "date": "2021-07-02",
-      "deaths": 15065,
-      "recovered": 356321
+      "deaths": 15179,
+      "recovered": 358521
     }
   },
   "Turkey": {
@@ -1628,7 +1628,7 @@
         "live": {
           "confirmed": 2748079,
           "date": "2021-07-02",
-          "deaths": 48404
+          "deaths": 48407
         }
       },
       "Florida": {
@@ -1710,9 +1710,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 153949,
+          "confirmed": 154070,
           "date": "2021-07-02",
-          "deaths": 917
+          "deaths": 918
         }
       },
       "Washington": {
