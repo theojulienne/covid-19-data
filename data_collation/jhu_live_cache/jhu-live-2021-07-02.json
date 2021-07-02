@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552478,
+          "confirmed": 552729,
           "date": "2021-07-02",
-          "deaths": 9144,
-          "recovered": 541082
+          "deaths": 9153,
+          "recovered": 541348
         }
       },
       "Quebec": {
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 751937,
+      "confirmed": 752395,
       "date": "2021-07-02",
-      "deaths": 9756,
-      "recovered": 735610
+      "deaths": 9760,
+      "recovered": 735907
     }
   },
   "Kazakhstan": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1337633,
+          "confirmed": 1337649,
           "date": "2021-07-02",
           "deaths": 20662
         }
