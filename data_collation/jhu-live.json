@@ -1585,7 +1585,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 703176,
+      "confirmed": 703334,
       "date": "2021-07-02",
       "deaths": 10894,
       "recovered": 317600
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 634582,
+      "confirmed": 636245,
       "date": "2021-07-02",
-      "deaths": 1819,
-      "recovered": 612998
+      "deaths": 1825,
+      "recovered": 614636
     }
   },
   "United Kingdom": {
