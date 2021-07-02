@@ -170,7 +170,7 @@
           "confirmed": 1128432,
           "date": "2021-07-02",
           "deaths": 24105,
-          "recovered": 1092550
+          "recovered": 1095712
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 887774,
           "date": "2021-07-02",
           "deaths": 22627,
-          "recovered": 622443
+          "recovered": 623651
         }
       },
       "Distrito Federal": {
@@ -565,9 +565,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276250,
+      "confirmed": 276323,
       "date": "2021-07-02",
-      "deaths": 4325,
+      "deaths": 4327,
       "recovered": 260737
     }
   },
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 358511,
+      "confirmed": 360406,
       "date": "2021-07-02",
-      "deaths": 1979,
-      "recovered": 337829
+      "deaths": 1995,
+      "recovered": 339604
     }
   },
   "Kyrgyzstan": {
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 131509,
+      "confirmed": 131589,
       "date": "2021-07-02",
       "deaths": 794,
       "recovered": 17998
@@ -1619,14 +1619,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 678229,
+          "confirmed": 678591,
           "date": "2021-07-02",
-          "deaths": 12709
+          "deaths": 12725
         }
       },
       "California": {
         "live": {
-          "confirmed": 2747977,
+          "confirmed": 2748079,
           "date": "2021-07-02",
           "deaths": 48404
         }
@@ -1691,7 +1691,7 @@
         "live": {
           "confirmed": 245334,
           "date": "2021-07-02",
-          "deaths": 3716
+          "deaths": 3725
         }
       },
       "Pennsylvania": {
@@ -1724,7 +1724,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117884,
+          "confirmed": 117908,
           "date": "2021-07-02",
           "deaths": 1428
         }
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 157832,
+      "confirmed": 160613,
       "date": "2021-07-02",
-      "deaths": 2271,
-      "recovered": 134419
+      "deaths": 2341,
+      "recovered": 137819
     }
   }
 }
