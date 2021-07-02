@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 262760,
+      "confirmed": 263376,
       "date": "2021-07-02",
-      "deaths": 7005,
-      "recovered": 92454
+      "deaths": 7030,
+      "recovered": 92472
     }
   },
   "Hungary": {
@@ -1177,9 +1177,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 117963,
+      "confirmed": 120339,
       "date": "2021-07-02",
-      "deaths": 578,
+      "deaths": 592,
       "recovered": 79256
     }
   },
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 272712,
+      "confirmed": 274024,
       "date": "2021-07-02",
-      "deaths": 3119,
-      "recovered": 253946
+      "deaths": 3136,
+      "recovered": 255256
     }
   },
   "West Bank and Gaza": {
