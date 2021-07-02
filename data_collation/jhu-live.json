@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 336122,
+      "confirmed": 336223,
       "date": "2021-07-02",
-      "deaths": 4975,
-      "recovered": 330275
+      "deaths": 4977,
+      "recovered": 330338
     }
   },
   "Bahrain": {
@@ -65,18 +65,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 921559,
+      "confirmed": 930042,
       "date": "2021-07-02",
-      "deaths": 14646,
-      "recovered": 820913
+      "deaths": 14778,
+      "recovered": 825422
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 418212,
+      "confirmed": 419330,
       "date": "2021-07-02",
-      "deaths": 3153,
-      "recovered": 410984
+      "deaths": 3164,
+      "recovered": 412128
     }
   },
   "Belgium": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 294152,
+      "confirmed": 294478,
       "date": "2021-07-02",
-      "deaths": 2535,
-      "recovered": 288476
+      "deaths": 2536,
+      "recovered": 288691
     }
   },
   "Dominican Republic": {
@@ -655,9 +655,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 285927,
+          "confirmed": 285933,
           "date": "2021-07-02",
-          "deaths": 10084,
+          "deaths": 10085,
           "recovered": 275100
         }
       },
@@ -1029,7 +1029,7 @@
         "live": {
           "confirmed": 175335,
           "date": "2021-07-02",
-          "deaths": 2220,
+          "deaths": 2222,
           "recovered": 167766
         }
       }
@@ -1559,7 +1559,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 156367,
+          "confirmed": 156392,
           "date": "2021-07-02",
           "deaths": 1761,
           "recovered": 0
@@ -1567,7 +1567,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 254930,
+          "confirmed": 254989,
           "date": "2021-07-02",
           "deaths": 4360,
           "recovered": 0
@@ -1575,9 +1575,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 190296,
+          "confirmed": 190331,
           "date": "2021-07-02",
-          "deaths": 2384,
+          "deaths": 2385,
           "recovered": 0
         }
       }
