@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 140550,
+      "confirmed": 141007,
       "date": "2021-07-03",
-      "deaths": 3735,
-      "recovered": 97701
+      "deaths": 3745,
+      "recovered": 98031
     }
   },
   "Argentina": {
@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 266140,
+      "confirmed": 266286,
       "date": "2021-07-03",
-      "deaths": 1356,
-      "recovered": 262162
+      "deaths": 1358,
+      "recovered": 262552
     }
   },
   "Bangladesh": {
@@ -170,7 +170,7 @@
           "confirmed": 1132050,
           "date": "2021-07-03",
           "deaths": 24187,
-          "recovered": 1095712
+          "recovered": 1098816
         }
       },
       "Ceara": {
@@ -314,7 +314,7 @@
           "confirmed": 112927,
           "date": "2021-07-03",
           "deaths": 1750,
-          "recovered": 104946
+          "recovered": 106376
         }
       },
       "Santa Catarina": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 421983,
+      "confirmed": 422034,
       "date": "2021-07-03",
-      "deaths": 18083,
-      "recovered": 395282
+      "deaths": 18084,
+      "recovered": 395289
     }
   },
   "Burma": {
@@ -681,10 +681,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 298904,
+      "confirmed": 301189,
       "date": "2021-07-03",
-      "deaths": 9350,
-      "recovered": 266602
+      "deaths": 9419,
+      "recovered": 267900
     }
   },
   "Honduras": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 360406,
+      "confirmed": 362018,
       "date": "2021-07-03",
-      "deaths": 1995,
-      "recovered": 339604
+      "deaths": 2005,
+      "recovered": 341477
     }
   },
   "Kyrgyzstan": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 256870,
+      "confirmed": 256931,
       "date": "2021-07-03",
-      "deaths": 6194,
-      "recovered": 249825
+      "deaths": 6195,
+      "recovered": 249888
     }
   },
   "Mongolia": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 262795,
+      "confirmed": 264057,
       "date": "2021-07-03",
-      "deaths": 3157,
-      "recovered": 229541
+      "deaths": 3191,
+      "recovered": 231394
     }
   },
   "Sweden": {
@@ -1619,14 +1619,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 678591,
+          "confirmed": 679112,
           "date": "2021-07-03",
-          "deaths": 12725
+          "deaths": 12738
         }
       },
       "California": {
         "live": {
-          "confirmed": 2748894,
+          "confirmed": 2749483,
           "date": "2021-07-03",
           "deaths": 48298
         }
