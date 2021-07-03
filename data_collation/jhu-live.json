@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 432761,
+      "confirmed": 438945,
       "date": "2021-07-03",
-      "deaths": 15179,
-      "recovered": 358521
+      "deaths": 15261,
+      "recovered": 360645
     }
   },
   "Turkey": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2748844,
+          "confirmed": 2748894,
           "date": "2021-07-03",
-          "deaths": 48409
+          "deaths": 48298
         }
       },
       "Florida": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1337966,
+          "confirmed": 1338238,
           "date": "2021-07-03",
           "deaths": 20684
         }
