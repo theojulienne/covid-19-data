@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 197253,
+      "confirmed": 200728,
       "date": "2021-07-03",
-      "deaths": 1322,
-      "recovered": 178441
+      "deaths": 1337,
+      "recovered": 180887
     }
   },
   "Czechia": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 842371,
+      "confirmed": 842621,
       "date": "2021-07-03",
       "deaths": 6429,
-      "recovered": 833623
+      "recovered": 833690
     }
   },
   "Italy": {
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 884442,
+      "confirmed": 887047,
       "date": "2021-07-03",
-      "deaths": 17108,
-      "recovered": 831479
+      "deaths": 17112,
+      "recovered": 833197
     }
   },
   "Qatar": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245334,
+          "confirmed": 245367,
           "date": "2021-07-03",
           "deaths": 3725
         }
