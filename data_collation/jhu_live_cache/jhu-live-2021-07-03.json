@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552857,
+          "confirmed": 552973,
           "date": "2021-07-03",
-          "deaths": 9163,
-          "recovered": 541529
+          "deaths": 9166,
+          "recovered": 541681
         }
       },
       "Quebec": {
@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 424165,
+      "confirmed": 425347,
       "date": "2021-07-03",
-      "deaths": 12701,
+      "deaths": 12710,
       "recovered": 93764
     }
   },
@@ -917,10 +917,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1359836,
+      "confirmed": 1365211,
       "date": "2021-07-03",
-      "deaths": 17256,
-      "recovered": 1255203
+      "deaths": 17281,
+      "recovered": 1260297
     }
   },
   "Ireland": {
@@ -1269,7 +1269,7 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155700,
+      "confirmed": 155706,
       "date": "2021-07-03",
       "deaths": 5486,
       "recovered": 150067
