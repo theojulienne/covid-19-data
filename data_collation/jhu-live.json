@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4491551,
+      "confirmed": 4512439,
       "date": "2021-07-02",
-      "deaths": 94772,
-      "recovered": 4092053
+      "deaths": 95382,
+      "recovered": 4114096
     }
   },
   "Armenia": {
@@ -186,7 +186,7 @@
           "confirmed": 431771,
           "date": "2021-07-02",
           "deaths": 9276,
-          "recovered": 413925
+          "recovered": 415052
         }
       },
       "Espirito Santo": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 459538,
+      "confirmed": 461157,
       "date": "2021-07-02",
-      "deaths": 21605,
+      "deaths": 21623,
       "recovered": 423688
     }
   },
@@ -602,7 +602,7 @@
           "confirmed": 647750,
           "date": "2021-07-02",
           "deaths": 15268,
-          "recovered": 629900
+          "recovered": 630000
         }
       },
       "Berlin": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 545016,
+      "confirmed": 545226,
       "date": "2021-07-02",
-      "deaths": 7854,
-      "recovered": 532776
+      "deaths": 7856,
+      "recovered": 532988
     }
   },
   "Libya": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2748079,
+          "confirmed": 2748139,
           "date": "2021-07-02",
           "deaths": 48407
         }
@@ -1682,7 +1682,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 114680,
+          "confirmed": 114737,
           "date": "2021-07-02",
           "deaths": 975
         }
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 370600,
+      "confirmed": 371417,
       "date": "2021-07-02",
-      "deaths": 5619,
-      "recovered": 350291
+      "deaths": 5642,
+      "recovered": 352118
     }
   },
   "Uzbekistan": {
@@ -1853,10 +1853,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 314288,
+      "confirmed": 314409,
       "date": "2021-07-02",
-      "deaths": 3565,
-      "recovered": 308303
+      "deaths": 3570,
+      "recovered": 308413
     }
   },
   "Zambia": {

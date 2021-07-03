@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 4326101,
-        "deaths": 90986,
-        "recovered": 3944323
+        "confirmed": 4350564,
+        "deaths": 91438,
+        "recovered": 3967633
       },
       "back_2week": {
-        "confirmed": 4198620,
-        "deaths": 87261,
-        "recovered": 3791979
+        "confirmed": 4222400,
+        "deaths": 87789,
+        "recovered": 3818346
       },
       "latest": {
-        "confirmed": 4470374,
-        "deaths": 94304,
-        "recovered": 4076921
+        "confirmed": 4491551,
+        "deaths": 94772,
+        "recovered": 4092053
       }
     },
     "ARM": {
@@ -1178,18 +1178,18 @@ var covid19_dataset_latest_totals = {
     },
     "ECU": {
       "back_1week": {
-        "confirmed": 449107,
-        "deaths": 21367,
+        "confirmed": 449483,
+        "deaths": 21377,
         "recovered": 415508
       },
       "back_2week": {
-        "confirmed": 441180,
-        "deaths": 21153,
+        "confirmed": 442341,
+        "deaths": 21175,
         "recovered": 407512
       },
       "latest": {
-        "confirmed": 458504,
-        "deaths": 21560,
+        "confirmed": 459538,
+        "deaths": 21605,
         "recovered": 423688
       }
     },
@@ -2057,19 +2057,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 543865,
-        "deaths": 7832,
-        "recovered": 530689
+        "confirmed": 544002,
+        "deaths": 7835,
+        "recovered": 531156
       },
       "back_2week": {
-        "confirmed": 542934,
-        "deaths": 7808,
+        "confirmed": 543099,
+        "deaths": 7811,
         "recovered": 527645
       },
       "latest": {
-        "confirmed": 544866,
-        "deaths": 7851,
-        "recovered": 532537
+        "confirmed": 545016,
+        "deaths": 7854,
+        "recovered": 532776
       }
     },
     "LBR": {
@@ -3446,19 +3446,19 @@ var covid19_dataset_latest_totals = {
     },
     "URY": {
       "back_1week": {
-        "confirmed": 360247,
-        "deaths": 5374,
-        "recovered": 332112
+        "confirmed": 361994,
+        "deaths": 5413,
+        "recovered": 334971
       },
       "back_2week": {
-        "confirmed": 346515,
-        "deaths": 5120,
-        "recovered": 309965
+        "confirmed": 348662,
+        "deaths": 5152,
+        "recovered": 313388
       },
       "latest": {
-        "confirmed": 369350,
-        "deaths": 5593,
-        "recovered": 348489
+        "confirmed": 370600,
+        "deaths": 5619,
+        "recovered": 350291
       }
     },
     "USA": {
