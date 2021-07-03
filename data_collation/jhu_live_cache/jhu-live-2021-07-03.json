@@ -202,7 +202,7 @@
           "confirmed": 681276,
           "date": "2021-07-03",
           "deaths": 19319,
-          "recovered": 650209
+          "recovered": 651846
         }
       },
       "Maranhao": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 552987,
+          "confirmed": 553005,
           "date": "2021-07-03",
-          "deaths": 9166,
-          "recovered": 541702
+          "deaths": 9167,
+          "recovered": 541742
         }
       },
       "Quebec": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 532994,
+      "confirmed": 533945,
       "date": "2021-07-03",
-      "deaths": 9307,
-      "recovered": 518641
+      "deaths": 9315,
+      "recovered": 519139
     }
   },
   "Nepal": {
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 131749,
+      "confirmed": 131818,
       "date": "2021-07-03",
       "deaths": 794,
       "recovered": 17998
@@ -1661,9 +1661,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125243,
+          "confirmed": 125276,
           "date": "2021-07-03",
-          "deaths": 1789
+          "deaths": 1790
         }
       },
       "Nevada": {
@@ -1675,9 +1675,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1397903,
+          "confirmed": 1397984,
           "date": "2021-07-03",
-          "deaths": 40444
+          "deaths": 40443
         }
       },
       "North Carolina": {
@@ -1795,15 +1795,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 4218807,
+          "confirmed": 4239686,
           "date": "2021-07-03",
-          "deaths": 112732,
+          "deaths": 112747,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 127787,
+          "confirmed": 128247,
           "date": "2021-07-03",
           "deaths": 2156,
           "recovered": 0
@@ -1811,9 +1811,9 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 289279,
+          "confirmed": 292387,
           "date": "2021-07-03",
-          "deaths": 7726,
+          "deaths": 7729,
           "recovered": 0
         }
       },
