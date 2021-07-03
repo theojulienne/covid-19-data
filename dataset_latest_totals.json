@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5698076,
-        "deaths": 109999,
-        "recovered": 339701
+        "confirmed": 5699818,
+        "deaths": 110032,
+        "recovered": 340005
       },
       "back_2week": {
-        "confirmed": 5685387,
-        "deaths": 109741,
-        "recovered": 338555
+        "confirmed": 5688557,
+        "deaths": 109808,
+        "recovered": 339027
       },
       "latest": {
-        "confirmed": 5709806,
-        "deaths": 110190,
-        "recovered": 340446
+        "confirmed": 5712276,
+        "deaths": 110213,
+        "recovered": 340724
       },
       "states": {
         "French Guiana": {
@@ -3361,19 +3361,19 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 5393248,
-        "deaths": 49417,
-        "recovered": 5254708
+        "confirmed": 5398878,
+        "deaths": 49473,
+        "recovered": 5261892
       },
       "back_2week": {
-        "confirmed": 5354153,
-        "deaths": 49012,
-        "recovered": 5219797
+        "confirmed": 5359728,
+        "deaths": 49071,
+        "recovered": 5224224
       },
       "latest": {
-        "confirmed": 5430940,
-        "deaths": 49774,
-        "recovered": 5300504
+        "confirmed": 5435831,
+        "deaths": 49829,
+        "recovered": 5305856
       }
     },
     "TWN": {
@@ -3950,19 +3950,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1877143,
-        "deaths": 59406,
-        "recovered": 1675827
+        "confirmed": 1895905,
+        "deaths": 59621,
+        "recovered": 1690380
       },
       "back_2week": {
-        "confirmed": 1786079,
-        "deaths": 58323,
-        "recovered": 1623319
+        "confirmed": 1796589,
+        "deaths": 58441,
+        "recovered": 1632182
       },
       "latest": {
-        "confirmed": 1995556,
-        "deaths": 61029,
-        "recovered": 1754793
+        "confirmed": 2019826,
+        "deaths": 61332,
+        "recovered": 1773930
       }
     },
     "ZMB": {

@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5712276,
+      "confirmed": 5715282,
       "date": "2021-07-03",
-      "deaths": 110213,
-      "recovered": 340724
+      "deaths": 110230,
+      "recovered": 340889
     }
   },
   "Georgia": {
@@ -591,10 +591,10 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501130,
+          "confirmed": 501227,
           "date": "2021-07-03",
-          "deaths": 10276,
-          "recovered": 488400
+          "deaths": 10278,
+          "recovered": 488500
         }
       },
       "Bayern": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2019826,
+      "confirmed": 2046311,
       "date": "2021-07-03",
-      "deaths": 61332,
-      "recovered": 1773930
+      "deaths": 61507,
+      "recovered": 1792361
     }
   },
   "Spain": {
@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5435831,
+      "confirmed": 5440368,
       "date": "2021-07-03",
-      "deaths": 49829,
-      "recovered": 5305856
+      "deaths": 49874,
+      "recovered": 5310769
     }
   },
   "US": {
@@ -1675,7 +1675,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1397984,
+          "confirmed": 1398096,
           "date": "2021-07-03",
           "deaths": 40443
         }
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 1337966,
           "date": "2021-07-03",
-          "deaths": 20677
+          "deaths": 20684
         }
       },
       "Utah": {
