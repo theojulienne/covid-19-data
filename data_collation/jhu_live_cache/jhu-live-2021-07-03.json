@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 278826,
+      "confirmed": 278863,
       "date": "2021-07-03",
-      "deaths": 4387,
-      "recovered": 267827
+      "deaths": 4389,
+      "recovered": 267903
     }
   },
   "Malaysia": {
@@ -1593,9 +1593,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 270921,
+      "confirmed": 277151,
       "date": "2021-07-03",
-      "deaths": 2141,
+      "deaths": 2182,
       "recovered": 26873
     }
   },
