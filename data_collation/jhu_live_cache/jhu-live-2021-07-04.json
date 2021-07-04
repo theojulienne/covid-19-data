@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 163087,
+      "confirmed": 165405,
       "date": "2021-07-04",
-      "deaths": 3384,
-      "recovered": 138026
+      "deaths": 3419,
+      "recovered": 138715
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553147,
+          "confirmed": 553157,
           "date": "2021-07-04",
           "deaths": 9169,
-          "recovered": 541920
+          "recovered": 541946
         }
       },
       "Quebec": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501235,
+          "confirmed": 501256,
           "date": "2021-07-04",
-          "deaths": 10278,
+          "deaths": 10279,
           "recovered": 488600
         }
       },
@@ -641,7 +641,7 @@
         "live": {
           "confirmed": 816772,
           "date": "2021-07-04",
-          "deaths": 17168,
+          "deaths": 17166,
           "recovered": 796700
         }
       },
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 842850,
+      "confirmed": 842890,
       "date": "2021-07-04",
-      "deaths": 6429,
-      "recovered": 833892
+      "deaths": 6428,
+      "recovered": 833919
     }
   },
   "Italy": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 533945,
+      "confirmed": 534550,
       "date": "2021-07-04",
-      "deaths": 9315,
-      "recovered": 519139
+      "deaths": 9319,
+      "recovered": 519696
     }
   },
   "Nepal": {
@@ -1675,9 +1675,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1398096,
+          "confirmed": 1398185,
           "date": "2021-07-04",
-          "deaths": 40443
+          "deaths": 40449
         }
       },
       "North Carolina": {
