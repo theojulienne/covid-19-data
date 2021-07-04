@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 264057,
+      "confirmed": 265630,
       "date": "2021-07-04",
-      "deaths": 3191,
-      "recovered": 231394
+      "deaths": 3236,
+      "recovered": 233317
     }
   },
   "Sweden": {
@@ -1677,7 +1677,7 @@
         "live": {
           "confirmed": 1398185,
           "date": "2021-07-04",
-          "deaths": 40449
+          "deaths": 40451
         }
       },
       "North Carolina": {
