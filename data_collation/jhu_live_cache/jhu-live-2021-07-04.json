@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 225464,
+      "confirmed": 225553,
       "date": "2021-07-04",
-      "deaths": 4521,
-      "recovered": 217074
+      "deaths": 4526,
+      "recovered": 217131
     }
   },
   "Austria": {
