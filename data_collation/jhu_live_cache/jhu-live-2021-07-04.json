@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 185591,
+      "confirmed": 185868,
       "date": "2021-07-04",
-      "deaths": 3671,
-      "recovered": 126956
+      "deaths": 3675,
+      "recovered": 127625
     }
   },
   "Korea, South": {
@@ -1705,7 +1705,7 @@
         "live": {
           "confirmed": 1338249,
           "date": "2021-07-04",
-          "deaths": 20684
+          "deaths": 20688
         }
       },
       "Utah": {
