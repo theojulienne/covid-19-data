@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 650662,
+      "confirmed": 650737,
       "date": "2021-07-04",
       "deaths": 10709,
-      "recovered": 638167
+      "recovered": 638319
     }
   },
   "Azerbaijan": {
@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 360181,
+      "confirmed": 360237,
       "date": "2021-07-04",
-      "deaths": 8215,
-      "recovered": 351385
+      "deaths": 8218,
+      "recovered": 351461
     }
   },
   "Cuba": {
@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2256851,
+      "confirmed": 2284084,
       "date": "2021-07-04",
-      "deaths": 60027,
-      "recovered": 1915147
+      "deaths": 60582,
+      "recovered": 1928274
     }
   },
   "Iran": {
@@ -1027,10 +1027,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 176051,
+          "confirmed": 176569,
           "date": "2021-07-04",
-          "deaths": 2222,
-          "recovered": 168288
+          "deaths": 2223,
+          "recovered": 168764
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 137600,
+      "confirmed": 137631,
       "date": "2021-07-04",
-      "deaths": 2526,
-      "recovered": 134243
+      "deaths": 2528,
+      "recovered": 134314
     }
   },
   "Lebanon": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 194323,
+      "confirmed": 195042,
       "date": "2021-07-04",
-      "deaths": 3205,
-      "recovered": 178871
+      "deaths": 3211,
+      "recovered": 179095
     }
   },
   "Lithuania": {
@@ -1285,10 +1285,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 270504,
+      "confirmed": 275166,
       "date": "2021-07-04",
-      "deaths": 3140,
-      "recovered": 236988
+      "deaths": 3283,
+      "recovered": 242874
     }
   },
   "Pakistan": {
@@ -1449,10 +1449,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 257413,
+      "confirmed": 257421,
       "date": "2021-07-04",
       "deaths": 4419,
-      "recovered": 252540
+      "recovered": 252566
     }
   },
   "South Africa": {
