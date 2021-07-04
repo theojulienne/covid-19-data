@@ -438,7 +438,7 @@
           "confirmed": 654839,
           "date": "2021-07-04",
           "deaths": 14018,
-          "recovered": 603483
+          "recovered": 607306
         }
       },
       "Atlantico": {
@@ -446,7 +446,7 @@
           "confirmed": 293234,
           "date": "2021-07-04",
           "deaths": 9009,
-          "recovered": 278996
+          "recovered": 279783
         }
       },
       "Bolivar": {
@@ -454,7 +454,7 @@
           "confirmed": 134387,
           "date": "2021-07-04",
           "deaths": 2552,
-          "recovered": 127833
+          "recovered": 128729
         }
       },
       "Capital District": {
@@ -462,7 +462,7 @@
           "confirmed": 1284662,
           "date": "2021-07-04",
           "deaths": 24119,
-          "recovered": 1167763
+          "recovered": 1176930
         }
       },
       "Cundinamarca": {
@@ -470,7 +470,7 @@
           "confirmed": 226269,
           "date": "2021-07-04",
           "deaths": 5859,
-          "recovered": 211119
+          "recovered": 212602
         }
       },
       "Santander": {
@@ -478,7 +478,7 @@
           "confirmed": 197756,
           "date": "2021-07-04",
           "deaths": 6169,
-          "recovered": 180754
+          "recovered": 182528
         }
       },
       "Valle del Cauca": {
@@ -486,7 +486,7 @@
           "confirmed": 336436,
           "date": "2021-07-04",
           "deaths": 10459,
-          "recovered": 310962
+          "recovered": 313520
         }
       }
     }
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 426318,
+      "confirmed": 427542,
       "date": "2021-07-04",
-      "deaths": 13127,
-      "recovered": 375825
+      "deaths": 13235,
+      "recovered": 378151
     }
   },
   "Peru": {
