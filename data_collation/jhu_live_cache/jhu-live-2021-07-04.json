@@ -1135,33 +1135,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 688847,
+          "confirmed": 690995,
           "date": "2021-07-04",
-          "deaths": 34735,
+          "deaths": 34755,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 133139,
+          "confirmed": 133174,
           "date": "2021-07-04",
-          "deaths": 11115,
+          "deaths": 11116,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 260381,
+          "confirmed": 260922,
           "date": "2021-07-04",
-          "deaths": 37431,
+          "deaths": 37449,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 127758,
+          "confirmed": 127976,
           "date": "2021-07-04",
-          "deaths": 9767,
+          "deaths": 9768,
           "recovered": 0
         }
       }
@@ -1321,10 +1321,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 406013,
+      "confirmed": 407330,
       "date": "2021-07-04",
-      "deaths": 6560,
-      "recovered": 386621
+      "deaths": 6567,
+      "recovered": 387617
     }
   },
   "Paraguay": {
