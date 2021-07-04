@@ -9,18 +9,18 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132534,
+      "confirmed": 132535,
       "date": "2021-07-04",
       "deaths": 2456,
-      "recovered": 130023
+      "recovered": 130027
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 141007,
+      "confirmed": 141471,
       "date": "2021-07-04",
-      "deaths": 3745,
-      "recovered": 98031
+      "deaths": 3755,
+      "recovered": 98387
     }
   },
   "Argentina": {
@@ -170,7 +170,7 @@
           "confirmed": 1135261,
           "date": "2021-07-04",
           "deaths": 24235,
-          "recovered": 1098816
+          "recovered": 1100892
         }
       },
       "Ceara": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5715282,
+      "confirmed": 5717831,
       "date": "2021-07-04",
-      "deaths": 110230,
-      "recovered": 340889
+      "deaths": 110239,
+      "recovered": 340920
     }
   },
   "Georgia": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2046311,
+      "confirmed": 2062896,
       "date": "2021-07-04",
-      "deaths": 61507,
-      "recovered": 1792361
+      "deaths": 61840,
+      "recovered": 1808082
     }
   },
   "Spain": {
