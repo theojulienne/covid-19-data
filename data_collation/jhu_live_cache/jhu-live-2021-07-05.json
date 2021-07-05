@@ -234,7 +234,7 @@
           "confirmed": 1827108,
           "date": "2021-07-05",
           "deaths": 47079,
-          "recovered": 1694747
+          "recovered": 1706564
         }
       },
       "Para": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 165405,
+      "confirmed": 168374,
       "date": "2021-07-05",
-      "deaths": 3419,
-      "recovered": 138715
+      "deaths": 3461,
+      "recovered": 139473
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553342,
+          "confirmed": 553339,
           "date": "2021-07-05",
-          "deaths": 9172,
-          "recovered": 542163
+          "deaths": 9173,
+          "recovered": 542160
         }
       },
       "Quebec": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 363672,
+      "confirmed": 365649,
       "date": "2021-07-05",
-      "deaths": 2017,
-      "recovered": 343265
+      "deaths": 2029,
+      "recovered": 345106
     }
   },
   "Kyrgyzstan": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 534550,
+      "confirmed": 534797,
       "date": "2021-07-05",
-      "deaths": 9319,
-      "recovered": 519696
+      "deaths": 9329,
+      "recovered": 520107
     }
   },
   "Nepal": {
@@ -1724,9 +1724,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117908,
+          "confirmed": 117936,
           "date": "2021-07-05",
-          "deaths": 1428
+          "deaths": 1429
         }
       }
     }
