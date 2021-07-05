@@ -1321,10 +1321,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 407330,
+      "confirmed": 408123,
       "date": "2021-07-05",
-      "deaths": 6567,
-      "recovered": 387617
+      "deaths": 6574,
+      "recovered": 388293
     }
   },
   "Paraguay": {
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 276395,
+      "confirmed": 277635,
       "date": "2021-07-05",
-      "deaths": 3173,
-      "recovered": 257720
+      "deaths": 3190,
+      "recovered": 258954
     }
   },
   "West Bank and Gaza": {
