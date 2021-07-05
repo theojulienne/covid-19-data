@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 444090,
+      "confirmed": 444968,
       "date": "2021-07-05",
-      "deaths": 16920,
-      "recovered": 366939
+      "deaths": 16951,
+      "recovered": 368327
     }
   },
   "Bosnia and Herzegovina": {
@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 266918,
+      "confirmed": 267858,
       "date": "2021-07-05",
-      "deaths": 7081,
-      "recovered": 92959
+      "deaths": 7089,
+      "recovered": 93204
     }
   },
   "Hungary": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 160084,
+      "confirmed": 160795,
       "date": "2021-07-05",
-      "deaths": 2026,
-      "recovered": 149614
+      "deaths": 2028,
+      "recovered": 150044
     }
   },
   "Kosovo": {
@@ -1135,15 +1135,15 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 690995,
+          "confirmed": 691748,
           "date": "2021-07-05",
-          "deaths": 34755,
+          "deaths": 34761,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 133174,
+          "confirmed": 133176,
           "date": "2021-07-05",
           "deaths": 11116,
           "recovered": 0
@@ -1151,17 +1151,17 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 260922,
+          "confirmed": 261133,
           "date": "2021-07-05",
-          "deaths": 37449,
+          "deaths": 37453,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 127976,
+          "confirmed": 128075,
           "date": "2021-07-05",
-          "deaths": 9768,
+          "deaths": 9770,
           "recovered": 0
         }
       }
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 427542,
+      "confirmed": 428743,
       "date": "2021-07-05",
-      "deaths": 13235,
-      "recovered": 378151
+      "deaths": 13346,
+      "recovered": 380290
     }
   },
   "Peru": {
