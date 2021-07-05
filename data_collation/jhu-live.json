@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553288,
+          "confirmed": 553315,
           "date": "2021-07-05",
           "deaths": 9170,
-          "recovered": 542117
+          "recovered": 542139
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 144371,
+          "confirmed": 144628,
           "date": "2021-07-05",
-          "deaths": 2353,
-          "recovered": 140049
+          "deaths": 2362,
+          "recovered": 140369
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 658099,
+          "confirmed": 659075,
           "date": "2021-07-05",
-          "deaths": 17232,
-          "recovered": 632352
+          "deaths": 17299,
+          "recovered": 633705
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 115898,
+          "confirmed": 116194,
           "date": "2021-07-05",
-          "deaths": 3004,
-          "recovered": 110674
+          "deaths": 3027,
+          "recovered": 111051
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 204247,
+      "confirmed": 207322,
       "date": "2021-07-05",
-      "deaths": 1351,
-      "recovered": 183520
+      "deaths": 1372,
+      "recovered": 186781
     }
   },
   "Czechia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501259,
+          "confirmed": 501283,
           "date": "2021-07-05",
-          "deaths": 10279,
+          "deaths": 10282,
           "recovered": 488800
         }
       },

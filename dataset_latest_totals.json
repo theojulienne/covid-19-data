@@ -1013,19 +1013,19 @@
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 179656,
-        "deaths": 1231,
-        "recovered": 167269
+        "confirmed": 182354,
+        "deaths": 1241,
+        "recovered": 168872
       },
       "back_2week": {
-        "confirmed": 166368,
-        "deaths": 1148,
-        "recovered": 157285
+        "confirmed": 167804,
+        "deaths": 1159,
+        "recovered": 158488
       },
       "latest": {
-        "confirmed": 200728,
-        "deaths": 1337,
-        "recovered": 180887
+        "confirmed": 204247,
+        "deaths": 1351,
+        "recovered": 183520
       }
     },
     "CYP": {
