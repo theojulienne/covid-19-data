@@ -1177,10 +1177,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 125260,
+      "confirmed": 126811,
       "date": "2021-07-05",
-      "deaths": 617,
-      "recovered": 84819
+      "deaths": 629,
+      "recovered": 87145
     }
   },
   "Morocco": {
