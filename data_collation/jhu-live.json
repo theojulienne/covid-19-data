@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 141471,
+      "confirmed": 141966,
       "date": "2021-07-05",
-      "deaths": 3755,
-      "recovered": 98387
+      "deaths": 3765,
+      "recovered": 98748
     }
   },
   "Argentina": {
@@ -170,7 +170,7 @@
           "confirmed": 1137167,
           "date": "2021-07-05",
           "deaths": 24259,
-          "recovered": 1100892
+          "recovered": 1102758
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 338328,
           "date": "2021-07-05",
           "deaths": 8331,
-          "recovered": 316567
+          "recovered": 320253
         }
       },
       "Minas Gerais": {
@@ -346,7 +346,7 @@
           "confirmed": 199455,
           "date": "2021-07-05",
           "deaths": 3256,
-          "recovered": 181553
+          "recovered": 182851
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553339,
+          "confirmed": 553538,
           "date": "2021-07-05",
-          "deaths": 9173,
-          "recovered": 542160
+          "deaths": 9182,
+          "recovered": 542408
         }
       },
       "Quebec": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 443631,
+      "confirmed": 447161,
       "date": "2021-07-05",
-      "deaths": 15377,
-      "recovered": 362236
+      "deaths": 15482,
+      "recovered": 364538
     }
   },
   "Turkey": {
