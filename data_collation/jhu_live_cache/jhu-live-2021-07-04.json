@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4526473,
+      "confirmed": 4535473,
       "date": "2021-07-04",
-      "deaths": 95594,
-      "recovered": 4136824
+      "deaths": 95904,
+      "recovered": 4156006
     }
   },
   "Armenia": {
@@ -194,7 +194,7 @@
           "confirmed": 521053,
           "date": "2021-07-04",
           "deaths": 11534,
-          "recovered": 493135
+          "recovered": 495815
         }
       },
       "Goias": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 362018,
+      "confirmed": 363672,
       "date": "2021-07-04",
-      "deaths": 2005,
-      "recovered": 341477
+      "deaths": 2017,
+      "recovered": 343265
     }
   },
   "Kyrgyzstan": {
@@ -1101,9 +1101,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 545363,
+      "confirmed": 545570,
       "date": "2021-07-04",
-      "deaths": 7859,
+      "deaths": 7861,
       "recovered": 533150
     }
   },
@@ -1441,7 +1441,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 391696,
+      "confirmed": 391717,
       "date": "2021-07-04",
       "deaths": 12513,
       "recovered": 255300
