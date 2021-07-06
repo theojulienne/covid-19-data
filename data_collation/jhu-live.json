@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 360246,
+      "confirmed": 360342,
       "date": "2021-07-06",
-      "deaths": 8219,
-      "recovered": 351528
+      "deaths": 8221,
+      "recovered": 351593
     }
   },
   "Cuba": {
@@ -1449,10 +1449,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 257429,
+      "confirmed": 257477,
       "date": "2021-07-06",
-      "deaths": 4420,
-      "recovered": 252584
+      "deaths": 4421,
+      "recovered": 252649
     }
   },
   "South Africa": {
