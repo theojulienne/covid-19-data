@@ -290,7 +290,7 @@
           "confirmed": 1231166,
           "date": "2021-07-06",
           "deaths": 31761,
-          "recovered": 1185582
+          "recovered": 1192285
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 966888,
           "date": "2021-07-06",
           "deaths": 56039,
-          "recovered": 902869
+          "recovered": 905728
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 113568,
           "date": "2021-07-06",
           "deaths": 1756,
-          "recovered": 106376
+          "recovered": 107046
         }
       },
       "Santa Catarina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553650,
+          "confirmed": 553651,
           "date": "2021-07-06",
           "deaths": 9187,
-          "recovered": 542602
+          "recovered": 542619
         }
       },
       "Quebec": {
@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155716,
+      "confirmed": 155732,
       "date": "2021-07-06",
       "deaths": 5486,
-      "recovered": 150100
+      "recovered": 150104
     }
   },
   "Norway": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1338486,
+          "confirmed": 1338487,
           "date": "2021-07-06",
           "deaths": 20694
         }
