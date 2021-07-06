@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 336479,
+      "confirmed": 336557,
       "date": "2021-07-06",
       "deaths": 4978,
-      "recovered": 330466
+      "recovered": 330513
     }
   },
   "Bahrain": {
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 753776,
+      "confirmed": 754281,
       "date": "2021-07-06",
-      "deaths": 9785,
-      "recovered": 737215
+      "deaths": 9795,
+      "recovered": 737709
     }
   },
   "Kazakhstan": {
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 165513,
+      "confirmed": 167132,
       "date": "2021-07-06",
-      "deaths": 2492,
-      "recovered": 145908
+      "deaths": 2559,
+      "recovered": 147751
     }
   }
 }
