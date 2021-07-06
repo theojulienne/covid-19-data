@@ -170,7 +170,7 @@
           "confirmed": 1138377,
           "date": "2021-07-06",
           "deaths": 24312,
-          "recovered": 1102758
+          "recovered": 1105976
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 893270,
           "date": "2021-07-06",
           "deaths": 22753,
-          "recovered": 626584
+          "recovered": 628154
         }
       },
       "Distrito Federal": {
@@ -234,7 +234,7 @@
           "confirmed": 1828904,
           "date": "2021-07-06",
           "deaths": 47120,
-          "recovered": 1706564
+          "recovered": 1715284
         }
       },
       "Para": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553648,
+          "confirmed": 553650,
           "date": "2021-07-06",
-          "deaths": 9186,
-          "recovered": 542596
+          "deaths": 9187,
+          "recovered": 542602
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276503,
+      "confirmed": 276598,
       "date": "2021-07-06",
-      "deaths": 4332,
-      "recovered": 261156
+      "deaths": 4335,
+      "recovered": 261656
     }
   },
   "France": {
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 132136,
+      "confirmed": 132260,
       "date": "2021-07-06",
       "deaths": 794,
       "recovered": 17998
@@ -1703,16 +1703,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1338419,
+          "confirmed": 1338486,
           "date": "2021-07-06",
-          "deaths": 20691
+          "deaths": 20694
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 154070,
+          "confirmed": 154406,
           "date": "2021-07-06",
-          "deaths": 918
+          "deaths": 919
         }
       },
       "Washington": {
