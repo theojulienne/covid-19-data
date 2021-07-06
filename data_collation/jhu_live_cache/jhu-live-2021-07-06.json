@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 282082,
+      "confirmed": 282257,
       "date": "2021-07-06",
-      "deaths": 16264,
-      "recovered": 214087
+      "deaths": 16284,
+      "recovered": 214852
     }
   },
   "Estonia": {
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 428743,
+      "confirmed": 429884,
       "date": "2021-07-06",
-      "deaths": 13346,
-      "recovered": 380290
+      "deaths": 13447,
+      "recovered": 382291
     }
   },
   "Peru": {
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 277635,
+      "confirmed": 278665,
       "date": "2021-07-06",
-      "deaths": 3190,
-      "recovered": 258954
+      "deaths": 3209,
+      "recovered": 260224
     }
   },
   "West Bank and Gaza": {
