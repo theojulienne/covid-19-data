@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 497008,
+      "confirmed": 497017,
       "date": "2021-07-06",
-      "deaths": 3546,
-      "recovered": 456005
+      "deaths": 3548,
+      "recovered": 456032
     }
   },
   "Kenya": {
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 195824,
+      "confirmed": 196894,
       "date": "2021-07-06",
-      "deaths": 3213,
-      "recovered": 179398
+      "deaths": 3215,
+      "recovered": 179685
     }
   },
   "Lithuania": {
@@ -1193,10 +1193,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 646367,
+      "confirmed": 648085,
       "date": "2021-07-06",
-      "deaths": 9248,
-      "recovered": 611429
+      "deaths": 9263,
+      "recovered": 612994
     }
   },
   "Netherlands": {
@@ -1585,7 +1585,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 703783,
+      "confirmed": 704057,
       "date": "2021-07-06",
       "deaths": 10895,
       "recovered": 317600
