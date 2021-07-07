@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 429144,
+      "confirmed": 430960,
       "date": "2021-07-07",
-      "deaths": 12730,
+      "deaths": 12739,
       "recovered": 93764
     }
   },
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 754281,
+      "confirmed": 754927,
       "date": "2021-07-07",
-      "deaths": 9795,
-      "recovered": 737709
+      "deaths": 9800,
+      "recovered": 738303
     }
   },
   "Kazakhstan": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1338681,
+          "confirmed": 1338872,
           "date": "2021-07-07",
           "deaths": 20696
         }
