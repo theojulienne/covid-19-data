@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553768,
+          "confirmed": 553799,
           "date": "2021-07-07",
           "deaths": 9186,
-          "recovered": 542753
+          "recovered": 542771
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5720593,
+      "confirmed": 5724395,
       "date": "2021-07-07",
-      "deaths": 110297,
-      "recovered": 340385
+      "deaths": 110319,
+      "recovered": 340586
     }
   },
   "Georgia": {
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257105,
+      "confirmed": 257187,
       "date": "2021-07-07",
-      "deaths": 6200,
-      "recovered": 250042
+      "deaths": 6203,
+      "recovered": 250128
     }
   },
   "Mongolia": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2090909,
+      "confirmed": 2112336,
       "date": "2021-07-07",
-      "deaths": 62628,
-      "recovered": 1845038
+      "deaths": 63039,
+      "recovered": 1853804
     }
   },
   "Spain": {
@@ -1640,9 +1640,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 557498,
+          "confirmed": 557590,
           "date": "2021-07-07",
-          "deaths": 10512
+          "deaths": 10515
         }
       },
       "Massachusetts": {
@@ -1668,16 +1668,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 262134,
+          "confirmed": 262481,
           "date": "2021-07-07",
           "deaths": 4513
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1398823,
+          "confirmed": 1399080,
           "date": "2021-07-07",
-          "deaths": 40460
+          "deaths": 40463
         }
       },
       "North Carolina": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245445,
+          "confirmed": 245511,
           "date": "2021-07-07",
           "deaths": 3725
         }

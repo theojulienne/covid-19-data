@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5703780,
-        "deaths": 110105,
-        "recovered": 340555
+        "confirmed": 5705863,
+        "deaths": 110149,
+        "recovered": 340876
       },
       "back_2week": {
-        "confirmed": 5692968,
-        "deaths": 109878,
-        "recovered": 339638
+        "confirmed": 5694975,
+        "deaths": 109928,
+        "recovered": 338834
       },
       "latest": {
-        "confirmed": 5718270,
-        "deaths": 110270,
-        "recovered": 341121
+        "confirmed": 5720593,
+        "deaths": 110297,
+        "recovered": 340385
       },
       "states": {
         "French Guiana": {
@@ -2261,19 +2261,19 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 256614,
-        "deaths": 6187,
-        "recovered": 249590
+        "confirmed": 256669,
+        "deaths": 6191,
+        "recovered": 249643
       },
       "back_2week": {
-        "confirmed": 256187,
-        "deaths": 6173,
-        "recovered": 249216
+        "confirmed": 256232,
+        "deaths": 6175,
+        "recovered": 249250
       },
       "latest": {
-        "confirmed": 257035,
-        "deaths": 6197,
-        "recovered": 249978
+        "confirmed": 257105,
+        "deaths": 6200,
+        "recovered": 250042
       }
     },
     "MDG": {
@@ -3950,19 +3950,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1941119,
-        "deaths": 60038,
-        "recovered": 1723882
+        "confirmed": 1954466,
+        "deaths": 60264,
+        "recovered": 1739976
       },
       "back_2week": {
-        "confirmed": 1832479,
-        "deaths": 58795,
-        "recovered": 1656680
+        "confirmed": 1843572,
+        "deaths": 59092,
+        "recovered": 1665540
       },
       "latest": {
-        "confirmed": 2075409,
-        "deaths": 62171,
-        "recovered": 1827821
+        "confirmed": 2090909,
+        "deaths": 62628,
+        "recovered": 1845038
       }
     },
     "ZMB": {
