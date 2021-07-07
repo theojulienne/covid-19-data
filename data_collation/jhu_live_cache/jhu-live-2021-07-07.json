@@ -435,57 +435,57 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 659294,
+          "confirmed": 661751,
           "date": "2021-07-07",
-          "deaths": 14147,
+          "deaths": 14198,
           "recovered": 612450
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 294539,
+          "confirmed": 295037,
           "date": "2021-07-07",
-          "deaths": 9034,
+          "deaths": 9043,
           "recovered": 280895
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 137036,
+          "confirmed": 138324,
           "date": "2021-07-07",
-          "deaths": 2575,
+          "deaths": 2594,
           "recovered": 130814
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1298245,
+          "confirmed": 1306739,
           "date": "2021-07-07",
-          "deaths": 24420,
+          "deaths": 24519,
           "recovered": 1196411
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 230920,
+          "confirmed": 232842,
           "date": "2021-07-07",
-          "deaths": 5917,
+          "deaths": 5945,
           "recovered": 215824
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 200178,
+          "confirmed": 201493,
           "date": "2021-07-07",
-          "deaths": 6254,
+          "deaths": 6285,
           "recovered": 184997
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 339953,
+          "confirmed": 341630,
           "date": "2021-07-07",
-          "deaths": 10595,
+          "deaths": 10652,
           "recovered": 318929
         }
       }
@@ -576,7 +576,7 @@
       "confirmed": 5720593,
       "date": "2021-07-07",
       "deaths": 110297,
-      "recovered": 341397
+      "recovered": 340385
     }
   },
   "Georgia": {
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 429884,
+      "confirmed": 431367,
       "date": "2021-07-07",
-      "deaths": 13447,
-      "recovered": 382291
+      "deaths": 13553,
+      "recovered": 384284
     }
   },
   "Peru": {
