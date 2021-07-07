@@ -202,7 +202,7 @@
           "confirmed": 686433,
           "date": "2021-07-07",
           "deaths": 19485,
-          "recovered": 655260
+          "recovered": 657548
         }
       },
       "Maranhao": {
@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 497017,
+      "confirmed": 499755,
       "date": "2021-07-07",
-      "deaths": 3548,
-      "recovered": 456032
+      "deaths": 3550,
+      "recovered": 457543
     }
   },
   "Kenya": {
@@ -1177,9 +1177,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 128454,
+      "confirmed": 130452,
       "date": "2021-07-07",
-      "deaths": 639,
+      "deaths": 646,
       "recovered": 89717
     }
   },

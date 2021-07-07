@@ -1067,7 +1067,8 @@ var covid19_dataset_country_tgo = {
       13999,
       14039,
       14069,
-      14082
+      14082,
+      14105
     ],
     "deaths": [
       0,
@@ -1600,6 +1601,7 @@ var covid19_dataset_country_tgo = {
       130,
       130,
       131,
+      132,
       132
     ],
     "recovered": [
@@ -2133,7 +2135,8 @@ var covid19_dataset_country_tgo = {
       13522,
       13531,
       13535,
-      13536
+      13536,
+      13572
     ]
   }
 };
