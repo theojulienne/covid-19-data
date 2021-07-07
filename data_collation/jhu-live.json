@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 792693,
+      "confirmed": 799790,
       "date": "2021-07-07",
-      "deaths": 5677,
-      "recovered": 714815
+      "deaths": 5768,
+      "recovered": 719678
     }
   },
   "Mexico": {
@@ -1193,10 +1193,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 648085,
+      "confirmed": 650162,
       "date": "2021-07-07",
-      "deaths": 9263,
-      "recovered": 612994
+      "deaths": 9291,
+      "recovered": 614327
     }
   },
   "Netherlands": {
@@ -1279,7 +1279,7 @@
     "live": {
       "confirmed": 132363,
       "date": "2021-07-07",
-      "deaths": 794,
+      "deaths": 796,
       "recovered": 17998
     }
   },
@@ -1585,7 +1585,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 704057,
+      "confirmed": 704352,
       "date": "2021-07-07",
       "deaths": 10896,
       "recovered": 317600
