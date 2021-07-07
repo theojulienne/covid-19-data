@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 225661,
+      "confirmed": 225801,
       "date": "2021-07-07",
-      "deaths": 4530,
-      "recovered": 217250
+      "deaths": 4531,
+      "recovered": 217303
     }
   },
   "Austria": {
@@ -517,10 +517,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1668170,
+      "confirmed": 1668277,
       "date": "2021-07-07",
-      "deaths": 30312,
-      "recovered": 1636428
+      "deaths": 30311,
+      "recovered": 1636543
     }
   },
   "Denmark": {
@@ -581,10 +581,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 371293,
+      "confirmed": 372685,
       "date": "2021-07-07",
-      "deaths": 5383,
-      "recovered": 355718
+      "deaths": 5394,
+      "recovered": 356780
     }
   },
   "Germany": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 843892,
+      "confirmed": 844139,
       "date": "2021-07-07",
       "deaths": 6429,
-      "recovered": 834257
+      "recovered": 834332
     }
   },
   "Italy": {
@@ -1117,10 +1117,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 278950,
+      "confirmed": 278984,
       "date": "2021-07-07",
       "deaths": 4395,
-      "recovered": 268019
+      "recovered": 268036
     }
   },
   "Malaysia": {
@@ -1735,50 +1735,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 135732,
+          "confirmed": 135751,
           "date": "2021-07-07",
-          "deaths": 4448,
-          "recovered": 130372
+          "deaths": 4451,
+          "recovered": 130493
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 148667,
+          "confirmed": 148687,
           "date": "2021-07-07",
-          "deaths": 3542,
-          "recovered": 144376
+          "deaths": 3546,
+          "recovered": 144418
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 214822,
+          "confirmed": 215039,
           "date": "2021-07-07",
           "deaths": 5201,
-          "recovered": 205574
+          "recovered": 205994
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 127565,
+          "confirmed": 127614,
           "date": "2021-07-07",
-          "deaths": 2755,
-          "recovered": 124036
+          "deaths": 2758,
+          "recovered": 124095
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 137569,
+          "confirmed": 137601,
           "date": "2021-07-07",
           "deaths": 3661,
-          "recovered": 133155
+          "recovered": 133181
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 140833,
+          "confirmed": 140869,
           "date": "2021-07-07",
-          "deaths": 2985,
-          "recovered": 137094
+          "deaths": 2990,
+          "recovered": 137159
         }
       }
     }
