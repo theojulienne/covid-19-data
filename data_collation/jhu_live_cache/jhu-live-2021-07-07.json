@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 141766,
+          "confirmed": 141868,
           "date": "2021-07-07",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 134061,
+          "confirmed": 134169,
           "date": "2021-07-07",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 124897,
+          "confirmed": 124995,
           "date": "2021-07-07",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 159841,
+          "confirmed": 159912,
           "date": "2021-07-07",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 131670,
+          "confirmed": 131721,
           "date": "2021-07-07",
           "deaths": 0,
           "recovered": 0
@@ -322,7 +322,7 @@
           "confirmed": 1066484,
           "date": "2021-07-07",
           "deaths": 17146,
-          "recovered": 1026413
+          "recovered": 1031823
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 3809222,
           "date": "2021-07-07",
           "deaths": 130389,
-          "recovered": 3395346
+          "recovered": 3422338
         }
       },
       "Sergipe": {
@@ -438,7 +438,7 @@
           "confirmed": 661751,
           "date": "2021-07-07",
           "deaths": 14198,
-          "recovered": 612450
+          "recovered": 621930
         }
       },
       "Atlantico": {
@@ -446,7 +446,7 @@
           "confirmed": 295037,
           "date": "2021-07-07",
           "deaths": 9043,
-          "recovered": 280895
+          "recovered": 281964
         }
       },
       "Bolivar": {
@@ -454,7 +454,7 @@
           "confirmed": 138324,
           "date": "2021-07-07",
           "deaths": 2594,
-          "recovered": 130814
+          "recovered": 132598
         }
       },
       "Capital District": {
@@ -462,7 +462,7 @@
           "confirmed": 1306739,
           "date": "2021-07-07",
           "deaths": 24519,
-          "recovered": 1196411
+          "recovered": 1201136
         }
       },
       "Cundinamarca": {
@@ -470,7 +470,7 @@
           "confirmed": 232842,
           "date": "2021-07-07",
           "deaths": 5945,
-          "recovered": 215824
+          "recovered": 219065
         }
       },
       "Santander": {
@@ -478,7 +478,7 @@
           "confirmed": 201493,
           "date": "2021-07-07",
           "deaths": 6285,
-          "recovered": 184997
+          "recovered": 187441
         }
       },
       "Valle del Cauca": {
@@ -486,7 +486,7 @@
           "confirmed": 341630,
           "date": "2021-07-07",
           "deaths": 10652,
-          "recovered": 318929
+          "recovered": 321482
         }
       }
     }
@@ -1321,10 +1321,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 408728,
+      "confirmed": 410004,
       "date": "2021-07-07",
-      "deaths": 6583,
-      "recovered": 389434
+      "deaths": 6591,
+      "recovered": 389912
     }
   },
   "Paraguay": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1338487,
+          "confirmed": 1338650,
           "date": "2021-07-07",
-          "deaths": 20694
+          "deaths": 20696
         }
       },
       "Utah": {
