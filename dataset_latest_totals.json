@@ -2142,19 +2142,19 @@
     },
     "LKA": {
       "back_1week": {
-        "confirmed": 255508,
-        "deaths": 2985,
-        "recovered": 221249
+        "confirmed": 257225,
+        "deaths": 3030,
+        "recovered": 223471
       },
       "back_2week": {
-        "confirmed": 241820,
-        "deaths": 2633,
-        "recovered": 201389
+        "confirmed": 243913,
+        "deaths": 2704,
+        "recovered": 209296
       },
       "latest": {
-        "confirmed": 266499,
-        "deaths": 3268,
-        "recovered": 234942
+        "confirmed": 267433,
+        "deaths": 3313,
+        "recovered": 236659
       }
     },
     "LSO": {

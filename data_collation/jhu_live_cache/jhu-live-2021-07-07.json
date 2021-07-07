@@ -258,7 +258,7 @@
           "confirmed": 1308643,
           "date": "2021-07-07",
           "deaths": 31692,
-          "recovered": 920590
+          "recovered": 924709
         }
       },
       "Pernambuco": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 171976,
+      "confirmed": 175923,
       "date": "2021-07-07",
-      "deaths": 3513,
-      "recovered": 140387
+      "deaths": 3570,
+      "recovered": 141255
     }
   },
   "Canada": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 267433,
+      "confirmed": 268676,
       "date": "2021-07-07",
-      "deaths": 3313,
-      "recovered": 236659
+      "deaths": 3351,
+      "recovered": 238131
     }
   },
   "Sweden": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1338872,
+          "confirmed": 1339628,
           "date": "2021-07-07",
-          "deaths": 20696
+          "deaths": 20705
         }
       },
       "Utah": {
