@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4552750,
+      "confirmed": 4574340,
       "date": "2021-07-06",
-      "deaths": 96521,
-      "recovered": 4175856
+      "deaths": 96983,
+      "recovered": 4192546
     }
   },
   "Armenia": {
@@ -303,7 +303,7 @@
       },
       "Rondonia": {
         "live": {
-          "confirmed": 252024,
+          "confirmed": 251977,
           "date": "2021-07-06",
           "deaths": 6226,
           "recovered": 234484
@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 374324,
+      "confirmed": 375812,
       "date": "2021-07-06",
-      "deaths": 4726,
-      "recovered": 299908
+      "deaths": 4740,
+      "recovered": 300983
     }
   },
   "Croatia": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 462649,
+      "confirmed": 463951,
       "date": "2021-07-06",
-      "deaths": 21695,
+      "deaths": 21708,
       "recovered": 431404
     }
   },
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 545671,
+      "confirmed": 545965,
       "date": "2021-07-06",
-      "deaths": 7863,
-      "recovered": 533560
+      "deaths": 7865,
+      "recovered": 533692
     }
   },
   "Libya": {
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 132260,
+      "confirmed": 132363,
       "date": "2021-07-06",
       "deaths": 794,
       "recovered": 17998
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2751572,
+          "confirmed": 2751898,
           "date": "2021-07-06",
           "deaths": 48359
         }
@@ -1717,9 +1717,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 112712,
+          "confirmed": 112963,
           "date": "2021-07-06",
-          "deaths": 1657
+          "deaths": 1661
         }
       },
       "Wisconsin": {
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 373286,
+      "confirmed": 374019,
       "date": "2021-07-06",
-      "deaths": 5711,
-      "recovered": 356929
+      "deaths": 5735,
+      "recovered": 358305
     }
   },
   "Uzbekistan": {
