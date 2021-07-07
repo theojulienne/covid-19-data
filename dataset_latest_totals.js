@@ -36,19 +36,19 @@ var covid19_dataset_latest_totals = {
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 132513,
+        "confirmed": 132514,
         "deaths": 2456,
-        "recovered": 129994
+        "recovered": 130002
       },
       "back_2week": {
-        "confirmed": 132490,
+        "confirmed": 132496,
         "deaths": 2454,
-        "recovered": 129918
+        "recovered": 129941
       },
       "latest": {
-        "confirmed": 132537,
+        "confirmed": 132544,
         "deaths": 2456,
-        "recovered": 130029
+        "recovered": 130033
       }
     },
     "AND": {
