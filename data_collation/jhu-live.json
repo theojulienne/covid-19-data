@@ -178,7 +178,7 @@
           "confirmed": 894678,
           "date": "2021-07-07",
           "deaths": 22791,
-          "recovered": 628154
+          "recovered": 629974
         }
       },
       "Distrito Federal": {
@@ -226,7 +226,7 @@
           "confirmed": 339323,
           "date": "2021-07-07",
           "deaths": 8400,
-          "recovered": 320253
+          "recovered": 324562
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1836198,
           "date": "2021-07-07",
           "deaths": 47148,
-          "recovered": 1715284
+          "recovered": 1723971
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1235914,
           "date": "2021-07-07",
           "deaths": 31867,
-          "recovered": 1192285
+          "recovered": 1195805
         }
       },
       "Rio de Janeiro": {
@@ -346,7 +346,7 @@
           "confirmed": 200243,
           "date": "2021-07-07",
           "deaths": 3266,
-          "recovered": 182851
+          "recovered": 183782
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 553799,
+          "confirmed": 553876,
           "date": "2021-07-07",
-          "deaths": 9186,
-          "recovered": 542771
+          "deaths": 9192,
+          "recovered": 542903
         }
       },
       "Quebec": {
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 680292,
+          "confirmed": 680501,
           "date": "2021-07-07",
-          "deaths": 12754
+          "deaths": 12758
         }
       },
       "California": {
@@ -1710,7 +1710,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 154406,
+          "confirmed": 154542,
           "date": "2021-07-07",
           "deaths": 919
         }
@@ -1724,7 +1724,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 117958,
+          "confirmed": 118012,
           "date": "2021-07-07",
           "deaths": 1429
         }
