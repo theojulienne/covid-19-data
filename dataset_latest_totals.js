@@ -1314,19 +1314,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5705863,
-        "deaths": 110149,
-        "recovered": 340876
+        "confirmed": 5707142,
+        "deaths": 110161,
+        "recovered": 340159
       },
       "back_2week": {
-        "confirmed": 5694975,
-        "deaths": 109928,
-        "recovered": 338834
+        "confirmed": 5696069,
+        "deaths": 109955,
+        "recovered": 339232
       },
       "latest": {
-        "confirmed": 5720593,
-        "deaths": 110297,
-        "recovered": 340385
+        "confirmed": 5724395,
+        "deaths": 110319,
+        "recovered": 340586
       },
       "states": {
         "French Guiana": {
@@ -2817,19 +2817,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 877195,
-        "deaths": 17092,
-        "recovered": 827969
+        "confirmed": 879557,
+        "deaths": 17096,
+        "recovered": 828990
       },
       "back_2week": {
-        "confirmed": 866826,
-        "deaths": 17074,
-        "recovered": 821374
+        "confirmed": 868323,
+        "deaths": 17077,
+        "recovered": 822234
       },
       "latest": {
-        "confirmed": 892741,
-        "deaths": 17118,
-        "recovered": 837135
+        "confirmed": 896026,
+        "deaths": 17126,
+        "recovered": 838642
       }
     },
     "PRY": {
@@ -3950,19 +3950,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 1954466,
-        "deaths": 60264,
-        "recovered": 1739976
+        "confirmed": 1973972,
+        "deaths": 60647,
+        "recovered": 1748042
       },
       "back_2week": {
-        "confirmed": 1843572,
-        "deaths": 59092,
-        "recovered": 1665540
+        "confirmed": 1861065,
+        "deaths": 59258,
+        "recovered": 1671391
       },
       "latest": {
-        "confirmed": 2090909,
-        "deaths": 62628,
-        "recovered": 1845038
+        "confirmed": 2112336,
+        "deaths": 63039,
+        "recovered": 1853804
       }
     },
     "ZMB": {
