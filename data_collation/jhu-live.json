@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4574340,
+      "confirmed": 4593763,
       "date": "2021-07-07",
-      "deaths": 96983,
-      "recovered": 4192546
+      "deaths": 97439,
+      "recovered": 4206478
     }
   },
   "Armenia": {
@@ -533,17 +533,17 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 330244,
+      "confirmed": 330941,
       "date": "2021-07-07",
-      "deaths": 3866,
-      "recovered": 270897
+      "deaths": 3870,
+      "recovered": 271753
     }
   },
   "Ecuador": {
     "live": {
-      "confirmed": 463951,
+      "confirmed": 465029,
       "date": "2021-07-07",
-      "deaths": 21708,
+      "deaths": 21728,
       "recovered": 431404
     }
   },
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 367642,
+      "confirmed": 369227,
       "date": "2021-07-07",
-      "deaths": 2049,
-      "recovered": 346993
+      "deaths": 2059,
+      "recovered": 348850
     }
   },
   "Kyrgyzstan": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 545965,
+      "confirmed": 546366,
       "date": "2021-07-07",
-      "deaths": 7865,
-      "recovered": 533692
+      "deaths": 7867,
+      "recovered": 533761
     }
   },
   "Libya": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 535974,
+      "confirmed": 537253,
       "date": "2021-07-07",
-      "deaths": 9336,
-      "recovered": 520963
+      "deaths": 9341,
+      "recovered": 521671
     }
   },
   "Nepal": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2752843,
+          "confirmed": 2752898,
           "date": "2021-07-07",
           "deaths": 48384
         }
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 374019,
+      "confirmed": 374665,
       "date": "2021-07-07",
-      "deaths": 5735,
-      "recovered": 358305
+      "deaths": 5758,
+      "recovered": 359275
     }
   },
   "Uzbekistan": {
