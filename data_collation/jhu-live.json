@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5459923,
+      "confirmed": 5465094,
       "date": "2021-07-08",
-      "deaths": 50048,
-      "recovered": 5328747
+      "deaths": 50096,
+      "recovered": 5333759
     }
   },
   "US": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1341252,
+          "confirmed": 1341836,
           "date": "2021-07-08",
-          "deaths": 20713
+          "deaths": 20719
         }
       },
       "Utah": {
