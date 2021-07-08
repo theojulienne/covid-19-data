@@ -398,7 +398,7 @@
           "confirmed": 375365,
           "date": "2021-07-08",
           "deaths": 11219,
-          "recovered": 363339
+          "recovered": 363415
         }
       }
     }
@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 375812,
+      "confirmed": 377091,
       "date": "2021-07-08",
-      "deaths": 4740,
-      "recovered": 300983
+      "deaths": 4753,
+      "recovered": 301726
     }
   },
   "Croatia": {
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 282421,
+      "confirmed": 282582,
       "date": "2021-07-08",
-      "deaths": 16306,
-      "recovered": 215419
+      "deaths": 16332,
+      "recovered": 216217
     }
   },
   "Estonia": {
@@ -1261,10 +1261,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 168000,
+      "confirmed": 168110,
       "date": "2021-07-08",
       "deaths": 2122,
-      "recovered": 164405
+      "recovered": 164408
     }
   },
   "North Macedonia": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2752898,
+          "confirmed": 2753328,
           "date": "2021-07-08",
           "deaths": 48384
         }
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1340792,
+          "confirmed": 1341111,
           "date": "2021-07-08",
-          "deaths": 20705
+          "deaths": 20707
         }
       },
       "Utah": {
