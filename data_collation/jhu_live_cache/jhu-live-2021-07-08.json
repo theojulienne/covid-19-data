@@ -1029,8 +1029,8 @@
         "live": {
           "confirmed": 179320,
           "date": "2021-07-08",
-          "deaths": 2228,
-          "recovered": 170260
+          "deaths": 2230,
+          "recovered": 170752
         }
       }
     }
@@ -1587,7 +1587,7 @@
     "live": {
       "confirmed": 704352,
       "date": "2021-07-08",
-      "deaths": 10896,
+      "deaths": 10898,
       "recovered": 317600
     }
   },
