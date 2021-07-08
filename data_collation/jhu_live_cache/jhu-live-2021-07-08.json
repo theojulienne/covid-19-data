@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 499755,
+      "confirmed": 502581,
       "date": "2021-07-08",
-      "deaths": 3550,
-      "recovered": 457580
+      "deaths": 3556,
+      "recovered": 459007
     }
   },
   "Kenya": {
