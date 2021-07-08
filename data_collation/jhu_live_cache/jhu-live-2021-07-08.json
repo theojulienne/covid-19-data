@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554051,
+          "confirmed": 554104,
           "date": "2021-07-08",
-          "deaths": 9195,
-          "recovered": 543070
+          "deaths": 9197,
+          "recovered": 543134
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276683,
+      "confirmed": 276799,
       "date": "2021-07-08",
-      "deaths": 4338,
-      "recovered": 261749
+      "deaths": 4341,
+      "recovered": 261817
     }
   },
   "France": {
@@ -1710,9 +1710,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 154542,
+          "confirmed": 154761,
           "date": "2021-07-08",
-          "deaths": 919
+          "deaths": 921
         }
       },
       "Washington": {
