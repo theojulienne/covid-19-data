@@ -1177,10 +1177,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 131962,
+      "confirmed": 134270,
       "date": "2021-07-09",
-      "deaths": 655,
-      "recovered": 93840
+      "deaths": 660,
+      "recovered": 96513
     }
   },
   "Morocco": {
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 280980,
+      "confirmed": 281907,
       "date": "2021-07-09",
-      "deaths": 3239,
-      "recovered": 262677
+      "deaths": 3253,
+      "recovered": 263830
     }
   },
   "West Bank and Gaza": {

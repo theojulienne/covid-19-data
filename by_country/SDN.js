@@ -1071,6 +1071,7 @@ var covid19_dataset_country_sdn = {
       36658,
       36709,
       36799,
+      36805,
       36805
     ],
     "deaths": [
@@ -1600,6 +1601,7 @@ var covid19_dataset_country_sdn = {
       2754,
       2754,
       2754,
+      2760,
       2760,
       2760,
       2760,
@@ -2140,6 +2142,7 @@ var covid19_dataset_country_sdn = {
       30543,
       30543,
       30608,
+      30647,
       30647,
       30647
     ]
