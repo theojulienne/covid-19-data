@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132565,
+      "confirmed": 132580,
       "date": "2021-07-09",
       "deaths": 2456,
-      "recovered": 130037
+      "recovered": 130043
     }
   },
   "Algeria": {
@@ -1029,7 +1029,7 @@
         "live": {
           "confirmed": 180142,
           "date": "2021-07-09",
-          "deaths": 2230,
+          "deaths": 2232,
           "recovered": 171321
         }
       }
@@ -1071,7 +1071,7 @@
     "live": {
       "confirmed": 107835,
       "date": "2021-07-09",
-      "deaths": 2266,
+      "deaths": 2268,
       "recovered": 105422
     }
   },
