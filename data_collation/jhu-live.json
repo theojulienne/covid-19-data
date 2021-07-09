@@ -517,10 +517,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1668619,
+      "confirmed": 1668891,
       "date": "2021-07-09",
       "deaths": 30331,
-      "recovered": 1636599
+      "recovered": 1636772
     }
   },
   "Denmark": {
@@ -1593,9 +1593,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 308230,
+      "confirmed": 317506,
       "date": "2021-07-09",
-      "deaths": 2462,
+      "deaths": 2534,
       "recovered": 26873
     }
   },
