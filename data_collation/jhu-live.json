@@ -435,57 +435,57 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 664446,
+          "confirmed": 667480,
           "date": "2021-07-09",
-          "deaths": 14250,
+          "deaths": 14312,
           "recovered": 624319
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 295826,
+          "confirmed": 296417,
           "date": "2021-07-09",
-          "deaths": 9053,
+          "deaths": 9062,
           "recovered": 282357
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 139085,
+          "confirmed": 140119,
           "date": "2021-07-09",
-          "deaths": 2608,
+          "deaths": 2617,
           "recovered": 133359
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1313549,
+          "confirmed": 1319074,
           "date": "2021-07-09",
-          "deaths": 24652,
+          "deaths": 24773,
           "recovered": 1218623
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 234225,
+          "confirmed": 235949,
           "date": "2021-07-09",
-          "deaths": 5972,
+          "deaths": 6008,
           "recovered": 220103
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 202776,
+          "confirmed": 203867,
           "date": "2021-07-09",
-          "deaths": 6338,
+          "deaths": 6373,
           "recovered": 188420
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 344656,
+          "confirmed": 347022,
           "date": "2021-07-09",
-          "deaths": 10716,
+          "deaths": 10797,
           "recovered": 322487
         }
       }
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 282582,
+      "confirmed": 282737,
       "date": "2021-07-09",
-      "deaths": 16332,
-      "recovered": 216217
+      "deaths": 16351,
+      "recovered": 216982
     }
   },
   "Estonia": {
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 432801,
+      "confirmed": 434264,
       "date": "2021-07-09",
-      "deaths": 13645,
-      "recovered": 386222
+      "deaths": 13729,
+      "recovered": 388138
     }
   },
   "Peru": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2755373,
+          "confirmed": 2756105,
           "date": "2021-07-09",
           "deaths": 48434
         }
