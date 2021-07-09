@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554202,
+          "confirmed": 554235,
           "date": "2021-07-09",
           "deaths": 9198,
-          "recovered": 543266
+          "recovered": 543295
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 331826,
+      "confirmed": 332384,
       "date": "2021-07-09",
-      "deaths": 3870,
-      "recovered": 272392
+      "deaths": 3879,
+      "recovered": 272778
     }
   },
   "Ecuador": {
@@ -925,7 +925,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 276104,
+      "confirmed": 276735,
       "date": "2021-07-09",
       "deaths": 5006,
       "recovered": 23364
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257272,
+      "confirmed": 257343,
       "date": "2021-07-09",
-      "deaths": 6205,
-      "recovered": 250220
+      "deaths": 6207,
+      "recovered": 250307
     }
   },
   "Mongolia": {
@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155760,
+      "confirmed": 155770,
       "date": "2021-07-09",
-      "deaths": 5486,
-      "recovered": 150118
+      "deaths": 5487,
+      "recovered": 150123
     }
   },
   "Norway": {
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 899295,
+      "confirmed": 902489,
       "date": "2021-07-09",
-      "deaths": 17135,
-      "recovered": 840297
+      "deaths": 17142,
+      "recovered": 842024
     }
   },
   "Qatar": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 269946,
+      "confirmed": 271483,
       "date": "2021-07-09",
-      "deaths": 3391,
-      "recovered": 239584
+      "deaths": 3434,
+      "recovered": 241035
     }
   },
   "Sweden": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756137,
+          "confirmed": 2756138,
           "date": "2021-07-09",
-          "deaths": 48434
+          "deaths": 48478
         }
       },
       "Florida": {
@@ -1661,7 +1661,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125397,
+          "confirmed": 125434,
           "date": "2021-07-09",
           "deaths": 1791
         }
@@ -1682,9 +1682,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 115027,
+          "confirmed": 115088,
           "date": "2021-07-09",
-          "deaths": 979
+          "deaths": 980
         }
       },
       "Ohio": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1342138,
+          "confirmed": 1342320,
           "date": "2021-07-09",
-          "deaths": 20721
+          "deaths": 20728
         }
       },
       "Utah": {
