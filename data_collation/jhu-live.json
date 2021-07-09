@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 130113,
+      "confirmed": 131586,
       "date": "2021-07-09",
-      "deaths": 5477,
+      "deaths": 5561,
       "recovered": 78521
     }
   },
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 199526,
+      "confirmed": 201236,
       "date": "2021-07-09",
-      "deaths": 3227,
-      "recovered": 180204
+      "deaths": 3232,
+      "recovered": 180484
     }
   },
   "Lithuania": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 808658,
+      "confirmed": 817838,
       "date": "2021-07-09",
-      "deaths": 5903,
-      "recovered": 725480
+      "deaths": 5980,
+      "recovered": 731193
     }
   },
   "Mexico": {
@@ -1381,9 +1381,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081120,
+      "confirmed": 1081174,
       "date": "2021-07-09",
-      "deaths": 34168,
+      "deaths": 34197,
       "recovered": 1045351
     }
   },
@@ -1449,10 +1449,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 257619,
+      "confirmed": 257703,
       "date": "2021-07-09",
       "deaths": 4423,
-      "recovered": 252744
+      "recovered": 252792
     }
   },
   "South Africa": {
