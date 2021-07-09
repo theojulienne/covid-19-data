@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 180055,
+      "confirmed": 184375,
       "date": "2021-07-09",
-      "deaths": 3621,
-      "recovered": 142309
+      "deaths": 3685,
+      "recovered": 143460
     }
   },
   "Canada": {
@@ -395,9 +395,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 375429,
+          "confirmed": 375716,
           "date": "2021-07-09",
-          "deaths": 11229,
+          "deaths": 11230,
           "recovered": 363484
         }
       }
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 145191,
+          "confirmed": 145418,
           "date": "2021-07-09",
-          "deaths": 2380,
-          "recovered": 141147
+          "deaths": 2392,
+          "recovered": 141321
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 661632,
+          "confirmed": 662581,
           "date": "2021-07-09",
-          "deaths": 17430,
-          "recovered": 637166
+          "deaths": 17487,
+          "recovered": 637971
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 116985,
+          "confirmed": 117292,
           "date": "2021-07-09",
-          "deaths": 3049,
-          "recovered": 112061
+          "deaths": 3058,
+          "recovered": 112291
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 218396,
+      "confirmed": 224818,
       "date": "2021-07-09",
-      "deaths": 1431,
-      "recovered": 195818
+      "deaths": 1451,
+      "recovered": 198981
     }
   },
   "Czechia": {
@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 433021,
+      "confirmed": 435018,
       "date": "2021-07-09",
-      "deaths": 12749,
+      "deaths": 12761,
       "recovered": 93764
     }
   },
@@ -933,92 +933,92 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 845123,
+      "confirmed": 845379,
       "date": "2021-07-09",
       "deaths": 6434,
-      "recovered": 834894
+      "recovered": 835048
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 425312,
+          "confirmed": 425538,
           "date": "2021-07-09",
-          "deaths": 7528,
-          "recovered": 411075
+          "deaths": 7539,
+          "recovered": 411257
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 387311,
+          "confirmed": 387410,
           "date": "2021-07-09",
           "deaths": 13266,
-          "recovered": 371857
+          "recovered": 371950
         }
       },
       "Friuli Venezia Giulia": {
         "live": {
-          "confirmed": 107051,
+          "confirmed": 107066,
           "date": "2021-07-09",
           "deaths": 3789,
-          "recovered": 103059
+          "recovered": 103071
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 346626,
+          "confirmed": 346761,
           "date": "2021-07-09",
-          "deaths": 8369,
-          "recovered": 336015
+          "deaths": 8372,
+          "recovered": 336245
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 842870,
+          "confirmed": 843100,
           "date": "2021-07-09",
-          "deaths": 33792,
-          "recovered": 800393
+          "deaths": 33795,
+          "recovered": 800453
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 363170,
+          "confirmed": 363210,
           "date": "2021-07-09",
-          "deaths": 11697,
-          "recovered": 350772
+          "deaths": 11698,
+          "recovered": 350815
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 253678,
+          "confirmed": 253722,
           "date": "2021-07-09",
-          "deaths": 6648,
-          "recovered": 244679
+          "deaths": 6650,
+          "recovered": 244936
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 232714,
+          "confirmed": 232915,
           "date": "2021-07-09",
-          "deaths": 5987,
-          "recovered": 223270
+          "deaths": 5988,
+          "recovered": 223418
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 244719,
+          "confirmed": 244798,
           "date": "2021-07-09",
-          "deaths": 6887,
-          "recovered": 236346
+          "deaths": 6888,
+          "recovered": 236415
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 426025,
+          "confirmed": 426131,
           "date": "2021-07-09",
-          "deaths": 11619,
-          "recovered": 409646
+          "deaths": 11620,
+          "recovered": 409694
         }
       }
     }
@@ -1056,7 +1056,7 @@
       "confirmed": 187525,
       "date": "2021-07-09",
       "deaths": 3716,
-      "recovered": 131099
+      "recovered": 176456
     }
   },
   "Korea, South": {
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 680884,
+          "confirmed": 681552,
           "date": "2021-07-09",
-          "deaths": 12758
+          "deaths": 12764
         }
       },
       "California": {
@@ -1795,15 +1795,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 4362481,
+          "confirmed": 4393205,
           "date": "2021-07-09",
-          "deaths": 112858,
+          "deaths": 112880,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 130814,
+          "confirmed": 131419,
           "date": "2021-07-09",
           "deaths": 2156,
           "recovered": 0
@@ -1811,17 +1811,17 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 306449,
+          "confirmed": 309665,
           "date": "2021-07-09",
-          "deaths": 7744,
+          "deaths": 7750,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 223149,
+          "confirmed": 223804,
           "date": "2021-07-09",
-          "deaths": 5578,
+          "deaths": 5579,
           "recovered": 0
         }
       }
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 170456,
+      "confirmed": 172405,
       "date": "2021-07-09",
-      "deaths": 2672,
-      "recovered": 152103
+      "deaths": 2736,
+      "recovered": 154776
     }
   }
 }
