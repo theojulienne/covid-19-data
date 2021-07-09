@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 143652,
+      "confirmed": 144483,
       "date": "2021-07-09",
-      "deaths": 3798,
-      "recovered": 99931
+      "deaths": 3811,
+      "recovered": 100383
     }
   },
   "Argentina": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276799,
+      "confirmed": 276871,
       "date": "2021-07-09",
-      "deaths": 4341,
-      "recovered": 261817
+      "deaths": 4342,
+      "recovered": 261933
     }
   },
   "France": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 370932,
+      "confirmed": 372549,
       "date": "2021-07-09",
-      "deaths": 2071,
-      "recovered": 350471
+      "deaths": 2089,
+      "recovered": 352208
     }
   },
   "Kyrgyzstan": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 538589,
+      "confirmed": 539839,
       "date": "2021-07-09",
-      "deaths": 9346,
-      "recovered": 522377
+      "deaths": 9351,
+      "recovered": 523128
     }
   },
   "Nepal": {
@@ -1675,7 +1675,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1399920,
+          "confirmed": 1400150,
           "date": "2021-07-09",
           "deaths": 40470
         }
@@ -1689,9 +1689,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245590,
+          "confirmed": 245651,
           "date": "2021-07-09",
-          "deaths": 3727
+          "deaths": 3730
         }
       },
       "Pennsylvania": {
@@ -1724,9 +1724,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 118092,
+          "confirmed": 118103,
           "date": "2021-07-09",
-          "deaths": 1429
+          "deaths": 1433
         }
       }
     }
