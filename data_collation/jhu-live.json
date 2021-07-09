@@ -170,7 +170,7 @@
           "confirmed": 1147552,
           "date": "2021-07-09",
           "deaths": 24574,
-          "recovered": 1111853
+          "recovered": 1115272
         }
       },
       "Ceara": {
@@ -234,7 +234,7 @@
           "confirmed": 1849993,
           "date": "2021-07-09",
           "deaths": 47596,
-          "recovered": 1723971
+          "recovered": 1738540
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1243508,
           "date": "2021-07-09",
           "deaths": 32053,
-          "recovered": 1199590
+          "recovered": 1203069
         }
       },
       "Rio de Janeiro": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554243,
+          "confirmed": 554274,
           "date": "2021-07-09",
-          "deaths": 9199,
-          "recovered": 543302
+          "deaths": 9200,
+          "recovered": 543347
         }
       },
       "Quebec": {
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 132796,
+      "confirmed": 132885,
       "date": "2021-07-09",
       "deaths": 796,
       "recovered": 17998
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 473229,
+      "confirmed": 481735,
       "date": "2021-07-09",
-      "deaths": 15861,
-      "recovered": 375756
+      "deaths": 16050,
+      "recovered": 378917
     }
   },
   "Turkey": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756341,
+          "confirmed": 2756409,
           "date": "2021-07-09",
           "deaths": 48478
         }
@@ -1705,14 +1705,14 @@
         "live": {
           "confirmed": 1342320,
           "date": "2021-07-09",
-          "deaths": 20728
+          "deaths": 20737
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 154761,
+          "confirmed": 154956,
           "date": "2021-07-09",
-          "deaths": 921
+          "deaths": 920
         }
       },
       "Washington": {
