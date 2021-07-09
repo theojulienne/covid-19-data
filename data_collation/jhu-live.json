@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4593763,
+      "confirmed": 4613019,
       "date": "2021-07-08",
-      "deaths": 97439,
-      "recovered": 4206478
+      "deaths": 97904,
+      "recovered": 4226694
     }
   },
   "Armenia": {
@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 377091,
+      "confirmed": 378938,
       "date": "2021-07-08",
-      "deaths": 4753,
-      "recovered": 301726
+      "deaths": 4760,
+      "recovered": 304395
     }
   },
   "Croatia": {
@@ -681,10 +681,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 308273,
+      "confirmed": 311342,
       "date": "2021-07-08",
-      "deaths": 9573,
-      "recovered": 273182
+      "deaths": 9609,
+      "recovered": 274697
     }
   },
   "Honduras": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 546366,
+      "confirmed": 546766,
       "date": "2021-07-08",
-      "deaths": 7867,
-      "recovered": 533761
+      "deaths": 7869,
+      "recovered": 533932
     }
   },
   "Libya": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2755094,
+          "confirmed": 2755174,
           "date": "2021-07-08",
           "deaths": 48433
         }
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1341836,
+          "confirmed": 1342117,
           "date": "2021-07-08",
-          "deaths": 20719
+          "deaths": 20721
         }
       },
       "Utah": {
@@ -1717,9 +1717,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 113054,
+          "confirmed": 113157,
           "date": "2021-07-08",
-          "deaths": 1664
+          "deaths": 1665
         }
       },
       "Wisconsin": {
@@ -1829,10 +1829,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 374665,
+      "confirmed": 375298,
       "date": "2021-07-08",
-      "deaths": 5758,
-      "recovered": 359275
+      "deaths": 5772,
+      "recovered": 360438
     }
   },
   "Uzbekistan": {
