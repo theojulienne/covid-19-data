@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554274,
+          "confirmed": 554297,
           "date": "2021-07-09",
           "deaths": 9200,
-          "recovered": 543347
+          "recovered": 543379
         }
       },
       "Quebec": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1342320,
+          "confirmed": 1342661,
           "date": "2021-07-09",
           "deaths": 20737
         }
