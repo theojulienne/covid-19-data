@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 184375,
+      "confirmed": 188752,
       "date": "2021-07-10",
-      "deaths": 3685,
-      "recovered": 143460
+      "deaths": 3756,
+      "recovered": 144809
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554384,
+          "confirmed": 554403,
           "date": "2021-07-10",
           "deaths": 9205,
-          "recovered": 543485
+          "recovered": 543508
         }
       },
       "Quebec": {
