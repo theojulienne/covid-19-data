@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155581,
+          "confirmed": 155610,
           "date": "2021-07-10",
           "deaths": 3894,
           "recovered": 150800
@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2455912,
+      "confirmed": 2491006,
       "date": "2021-07-10",
-      "deaths": 64631,
-      "recovered": 2023548
+      "deaths": 65457,
+      "recovered": 2052109
     }
   },
   "Iran": {
@@ -1029,8 +1029,8 @@
         "live": {
           "confirmed": 181092,
           "date": "2021-07-10",
-          "deaths": 2232,
-          "recovered": 171321
+          "deaths": 2237,
+          "recovered": 171941
         }
       }
     }
@@ -1093,10 +1093,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 137831,
+      "confirmed": 137863,
       "date": "2021-07-10",
       "deaths": 2536,
-      "recovered": 134610
+      "recovered": 134629
     }
   },
   "Lebanon": {
