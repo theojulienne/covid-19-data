@@ -435,57 +435,57 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 667480,
+          "confirmed": 671381,
           "date": "2021-07-10",
-          "deaths": 14312,
+          "deaths": 14369,
           "recovered": 627824
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 296417,
+          "confirmed": 297035,
           "date": "2021-07-10",
-          "deaths": 9062,
+          "deaths": 9072,
           "recovered": 282999
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 140119,
+          "confirmed": 140494,
           "date": "2021-07-10",
-          "deaths": 2617,
+          "deaths": 2636,
           "recovered": 134160
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1319074,
+          "confirmed": 1325534,
           "date": "2021-07-10",
-          "deaths": 24773,
+          "deaths": 24896,
           "recovered": 1228330
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 235949,
+          "confirmed": 237666,
           "date": "2021-07-10",
-          "deaths": 6008,
+          "deaths": 6041,
           "recovered": 221922
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 203867,
+          "confirmed": 205097,
           "date": "2021-07-10",
-          "deaths": 6373,
+          "deaths": 6417,
           "recovered": 190309
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 347022,
+          "confirmed": 349428,
           "date": "2021-07-10",
-          "deaths": 10797,
+          "deaths": 10870,
           "recovered": 325309
         }
       }
@@ -1277,7 +1277,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 132885,
+      "confirmed": 132966,
       "date": "2021-07-10",
       "deaths": 796,
       "recovered": 17998
@@ -1633,7 +1633,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1207744,
+          "confirmed": 1218824,
           "date": "2021-07-10",
           "deaths": 15576
         }
