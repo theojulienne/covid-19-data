@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4613019,
+      "confirmed": 4627537,
       "date": "2021-07-09",
-      "deaths": 97904,
-      "recovered": 4226694
+      "deaths": 98148,
+      "recovered": 4246200
     }
   },
   "Armenia": {
@@ -218,7 +218,7 @@
           "confirmed": 460456,
           "date": "2021-07-09",
           "deaths": 12067,
-          "recovered": 435158
+          "recovered": 440831
         }
       },
       "Mato Grosso do Sul": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 232359,
+          "confirmed": 232411,
           "date": "2021-07-09",
           "deaths": 2307,
-          "recovered": 229355
+          "recovered": 229429
         }
       },
       "British Columbia": {
@@ -1101,10 +1101,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 546766,
+      "confirmed": 547170,
       "date": "2021-07-09",
-      "deaths": 7869,
-      "recovered": 533932
+      "deaths": 7871,
+      "recovered": 534069
     }
   },
   "Libya": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756409,
+          "confirmed": 2756611,
           "date": "2021-07-09",
-          "deaths": 48478
+          "deaths": 48480
         }
       },
       "Florida": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1342661,
+          "confirmed": 1342929,
           "date": "2021-07-09",
-          "deaths": 20737
+          "deaths": 20741
         }
       },
       "Utah": {
