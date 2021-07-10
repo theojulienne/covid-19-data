@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 276871,
+      "confirmed": 276984,
       "date": "2021-07-10",
-      "deaths": 4342,
-      "recovered": 261933
+      "deaths": 4343,
+      "recovered": 261979
     }
   },
   "France": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1342978,
+          "confirmed": 1343278,
           "date": "2021-07-10",
           "deaths": 20745
         }
