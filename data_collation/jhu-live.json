@@ -1027,7 +1027,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 180142,
+          "confirmed": 181092,
           "date": "2021-07-10",
           "deaths": 2232,
           "recovered": 171321
@@ -1349,18 +1349,18 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1461455,
+      "confirmed": 1467119,
       "date": "2021-07-10",
-      "deaths": 25720,
-      "recovered": 1383833
+      "deaths": 25816,
+      "recovered": 1391335
     }
   },
   "Poland": {
     "live": {
-      "confirmed": 2880670,
+      "confirmed": 2880755,
       "date": "2021-07-10",
-      "deaths": 75152,
-      "recovered": 2652409
+      "deaths": 75159,
+      "recovered": 2652458
     }
   },
   "Portugal": {
@@ -1391,34 +1391,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1418134,
+          "confirmed": 1423828,
           "date": "2021-07-10",
-          "deaths": 23430,
-          "recovered": 1214731
+          "deaths": 23538,
+          "recovered": 1221766
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 337448,
+          "confirmed": 339935,
           "date": "2021-07-10",
-          "deaths": 6690,
-          "recovered": 272599
+          "deaths": 6707,
+          "recovered": 274580
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 128849,
+          "confirmed": 129376,
           "date": "2021-07-10",
-          "deaths": 4456,
-          "recovered": 118556
+          "deaths": 4484,
+          "recovered": 118945
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 485943,
+          "confirmed": 487921,
           "date": "2021-07-10",
-          "deaths": 17290,
-          "recovered": 467942
+          "deaths": 17392,
+          "recovered": 467994
         }
       }
     }
@@ -1441,9 +1441,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 391852,
+      "confirmed": 391893,
       "date": "2021-07-10",
-      "deaths": 12517,
+      "deaths": 12519,
       "recovered": 255300
     }
   },
