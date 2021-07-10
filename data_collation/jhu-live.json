@@ -65,18 +65,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1000543,
+      "confirmed": 1009315,
       "date": "2021-07-10",
-      "deaths": 16004,
-      "recovered": 862384
+      "deaths": 16189,
+      "recovered": 868139
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 425804,
+      "confirmed": 426886,
       "date": "2021-07-10",
-      "deaths": 3236,
-      "recovered": 418920
+      "deaths": 3247,
+      "recovered": 420085
     }
   },
   "Belgium": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 298094,
+      "confirmed": 298614,
       "date": "2021-07-10",
-      "deaths": 2538,
-      "recovered": 290033
+      "deaths": 2539,
+      "recovered": 290228
     }
   },
   "Dominican Republic": {
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 648729,
+          "confirmed": 648739,
           "date": "2021-07-10",
           "deaths": 15295,
-          "recovered": 631000
+          "recovered": 631100
         }
       },
       "Berlin": {
@@ -655,7 +655,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286027,
+          "confirmed": 286042,
           "date": "2021-07-10",
           "deaths": 10103,
           "recovered": 275500
@@ -1069,10 +1069,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107835,
+      "confirmed": 107842,
       "date": "2021-07-10",
       "deaths": 2268,
-      "recovered": 105422
+      "recovered": 105444
     }
   },
   "Kuwait": {
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 172405,
+      "confirmed": 174789,
       "date": "2021-07-10",
-      "deaths": 2736,
-      "recovered": 154776
+      "deaths": 2775,
+      "recovered": 157489
     }
   }
 }
