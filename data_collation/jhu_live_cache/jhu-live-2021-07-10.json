@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 282737,
+      "confirmed": 282864,
       "date": "2021-07-10",
-      "deaths": 16351,
-      "recovered": 216982
+      "deaths": 16368,
+      "recovered": 217324
     }
   },
   "Estonia": {
@@ -1261,10 +1261,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 168256,
+      "confirmed": 168442,
       "date": "2021-07-10",
       "deaths": 2122,
-      "recovered": 164415
+      "recovered": 164423
     }
   },
   "North Macedonia": {
