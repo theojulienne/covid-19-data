@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 144483,
+      "confirmed": 145296,
       "date": "2021-07-10",
-      "deaths": 3811,
-      "recovered": 100383
+      "deaths": 3824,
+      "recovered": 100911
     }
   },
   "Argentina": {
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 224818,
+      "confirmed": 231568,
       "date": "2021-07-10",
-      "deaths": 1451,
-      "recovered": 198981
+      "deaths": 1490,
+      "recovered": 201817
     }
   },
   "Czechia": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 845379,
+      "confirmed": 845767,
       "date": "2021-07-10",
-      "deaths": 6434,
-      "recovered": 835048
+      "deaths": 6435,
+      "recovered": 835164
     }
   },
   "Italy": {
