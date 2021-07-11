@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 437345,
+      "confirmed": 438809,
       "date": "2021-07-11",
-      "deaths": 12763,
+      "deaths": 12768,
       "recovered": 93764
     }
   },
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 846083,
+      "confirmed": 846134,
       "date": "2021-07-11",
       "deaths": 6438,
-      "recovered": 835557
+      "recovered": 835588
     }
   },
   "Italy": {

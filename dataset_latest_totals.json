@@ -1598,18 +1598,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 424165,
-        "deaths": 12701,
+        "confirmed": 425347,
+        "deaths": 12710,
         "recovered": 93764
       },
       "back_2week": {
-        "confirmed": 420295,
-        "deaths": 12625,
+        "confirmed": 420670,
+        "deaths": 12637,
         "recovered": 93764
       },
       "latest": {
-        "confirmed": 435018,
-        "deaths": 12761,
+        "confirmed": 437345,
+        "deaths": 12763,
         "recovered": 93764
       }
     },
