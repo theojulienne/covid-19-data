@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 267112,
+      "confirmed": 267212,
       "date": "2021-07-11",
-      "deaths": 1376,
-      "recovered": 264488
+      "deaths": 1377,
+      "recovered": 264687
     }
   },
   "Bangladesh": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 422446,
+      "confirmed": 422462,
       "date": "2021-07-11",
       "deaths": 18140,
-      "recovered": 396315
+      "recovered": 396316
     }
   },
   "Burma": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2759080,
+          "confirmed": 2759233,
           "date": "2021-07-11",
           "deaths": 48481
         }
