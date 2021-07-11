@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554510,
+          "confirmed": 554511,
           "date": "2021-07-11",
           "deaths": 9210,
-          "recovered": 543689
+          "recovered": 543692
         }
       },
       "Quebec": {
@@ -925,7 +925,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 277316,
+      "confirmed": 277892,
       "date": "2021-07-11",
       "deaths": 5006,
       "recovered": 23364
@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155783,
+      "confirmed": 155797,
       "date": "2021-07-11",
       "deaths": 5487,
-      "recovered": 150124
+      "recovered": 150126
     }
   },
   "Norway": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 273031,
+      "confirmed": 274538,
       "date": "2021-07-11",
-      "deaths": 3467,
-      "recovered": 242839
+      "deaths": 3502,
+      "recovered": 244437
     }
   },
   "Sweden": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1343278,
+          "confirmed": 1343298,
           "date": "2021-07-11",
           "deaths": 20745
         }
