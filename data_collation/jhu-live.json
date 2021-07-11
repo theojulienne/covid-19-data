@@ -581,10 +581,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 376200,
+      "confirmed": 377152,
       "date": "2021-07-11",
-      "deaths": 5443,
-      "recovered": 358227
+      "deaths": 5452,
+      "recovered": 359226
     }
   },
   "Germany": {
