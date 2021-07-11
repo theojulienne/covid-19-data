@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 267038,
+      "confirmed": 267112,
       "date": "2021-07-11",
-      "deaths": 1374,
-      "recovered": 264340
+      "deaths": 1376,
+      "recovered": 264488
     }
   },
   "Bangladesh": {
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 435522,
+      "confirmed": 436624,
       "date": "2021-07-11",
-      "deaths": 13806,
-      "recovered": 390003
+      "deaths": 13867,
+      "recovered": 391681
     }
   },
   "Peru": {
