@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 333053,
+      "confirmed": 333681,
       "date": "2021-07-11",
-      "deaths": 3889,
-      "recovered": 273391
+      "deaths": 3892,
+      "recovered": 273945
     }
   },
   "Ecuador": {
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 682115,
+          "confirmed": 682854,
           "date": "2021-07-11",
-          "deaths": 12779
+          "deaths": 12781
         }
       },
       "California": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1343409,
+          "confirmed": 1343539,
           "date": "2021-07-11",
           "deaths": 20747
         }
