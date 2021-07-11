@@ -9,18 +9,18 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132587,
+      "confirmed": 132592,
       "date": "2021-07-11",
       "deaths": 2456,
-      "recovered": 130047
+      "recovered": 130050
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 145296,
+      "confirmed": 146064,
       "date": "2021-07-11",
-      "deaths": 3824,
-      "recovered": 100911
+      "deaths": 3836,
+      "recovered": 101430
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554511,
+          "confirmed": 554546,
           "date": "2021-07-11",
           "deaths": 9210,
-          "recovered": 543692
+          "recovered": 543715
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5737910,
+      "confirmed": 5742166,
       "date": "2021-07-11",
-      "deaths": 110379,
-      "recovered": 341218
+      "deaths": 110383,
+      "recovered": 341237
     }
   },
   "Georgia": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 188513,
+      "confirmed": 188754,
       "date": "2021-07-11",
-      "deaths": 3721,
-      "recovered": 178119
+      "deaths": 3722,
+      "recovered": 179520
     }
   },
   "Korea, South": {
@@ -1185,10 +1185,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 541405,
+      "confirmed": 542462,
       "date": "2021-07-11",
-      "deaths": 9360,
-      "recovered": 523998
+      "deaths": 9369,
+      "recovered": 524826
     }
   },
   "Nepal": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2179297,
+      "confirmed": 2195599,
       "date": "2021-07-11",
-      "deaths": 64138,
-      "recovered": 1904107
+      "deaths": 64289,
+      "recovered": 1922601
     }
   },
   "Spain": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2759122,
+          "confirmed": 2759080,
           "date": "2021-07-11",
           "deaths": 48481
         }
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245714,
+          "confirmed": 245747,
           "date": "2021-07-11",
           "deaths": 3730
         }
