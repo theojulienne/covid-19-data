@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 452676,
+      "confirmed": 453595,
       "date": "2021-07-11",
-      "deaths": 17173,
-      "recovered": 377313
+      "deaths": 17200,
+      "recovered": 378733
     }
   },
   "Bosnia and Herzegovina": {
@@ -655,7 +655,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286042,
+          "confirmed": 286045,
           "date": "2021-07-11",
           "deaths": 10103,
           "recovered": 275500
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 166722,
+      "confirmed": 168046,
       "date": "2021-07-11",
-      "deaths": 2038,
-      "recovered": 153153
+      "deaths": 2043,
+      "recovered": 153760
     }
   },
   "Kosovo": {
@@ -1135,33 +1135,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 704488,
+          "confirmed": 707845,
           "date": "2021-07-11",
-          "deaths": 34886,
+          "deaths": 34911,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 133589,
+          "confirmed": 133710,
           "date": "2021-07-11",
-          "deaths": 11118,
+          "deaths": 11123,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 264333,
+          "confirmed": 265142,
           "date": "2021-07-11",
-          "deaths": 37532,
+          "deaths": 37549,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 129406,
+          "confirmed": 129760,
           "date": "2021-07-11",
-          "deaths": 9781,
+          "deaths": 9809,
           "recovered": 0
         }
       }
@@ -1321,10 +1321,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 413626,
+      "confirmed": 414647,
       "date": "2021-07-11",
-      "deaths": 6614,
-      "recovered": 393377
+      "deaths": 6627,
+      "recovered": 394465
     }
   },
   "Paraguay": {
