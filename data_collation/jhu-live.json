@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257419,
+      "confirmed": 257467,
       "date": "2021-07-11",
-      "deaths": 6208,
-      "recovered": 250384
+      "deaths": 6209,
+      "recovered": 250447
     }
   },
   "Mongolia": {
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 905651,
+      "confirmed": 907974,
       "date": "2021-07-11",
-      "deaths": 17148,
-      "recovered": 844497
+      "deaths": 17156,
+      "recovered": 845516
     }
   },
   "Qatar": {
@@ -1675,7 +1675,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1400732,
+          "confirmed": 1400955,
           "date": "2021-07-11",
           "deaths": 40481
         }
