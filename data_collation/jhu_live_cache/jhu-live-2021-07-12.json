@@ -591,18 +591,18 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501818,
+          "confirmed": 501848,
           "date": "2021-07-12",
-          "deaths": 10317,
-          "recovered": 489400
+          "deaths": 10318,
+          "recovered": 489500
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 648891,
+          "confirmed": 648971,
           "date": "2021-07-12",
-          "deaths": 15295,
-          "recovered": 631200
+          "deaths": 15296,
+          "recovered": 631300
         }
       },
       "Berlin": {
@@ -615,7 +615,7 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 108808,
+          "confirmed": 108813,
           "date": "2021-07-12",
           "deaths": 3812,
           "recovered": 104700
@@ -623,7 +623,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 291761,
+          "confirmed": 291793,
           "date": "2021-07-12",
           "deaths": 7555,
           "recovered": 283000
@@ -639,31 +639,31 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 818057,
+          "confirmed": 818143,
           "date": "2021-07-12",
           "deaths": 17206,
-          "recovered": 798200
+          "recovered": 798400
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155628,
+          "confirmed": 155631,
           "date": "2021-07-12",
           "deaths": 3894,
-          "recovered": 150800
+          "recovered": 150900
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286045,
+          "confirmed": 286049,
           "date": "2021-07-12",
           "deaths": 10103,
-          "recovered": 275500
+          "recovered": 275600
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128851,
+          "confirmed": 128855,
           "date": "2021-07-12",
           "deaths": 4354,
           "recovered": 124200
@@ -1295,26 +1295,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 139313,
+          "confirmed": 139463,
           "date": "2021-07-12",
-          "deaths": 4359,
-          "recovered": 133220
+          "deaths": 4362,
+          "recovered": 133321
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 348085,
+          "confirmed": 348309,
           "date": "2021-07-12",
-          "deaths": 10819,
-          "recovered": 328767
+          "deaths": 10822,
+          "recovered": 328838
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 346360,
+          "confirmed": 347478,
           "date": "2021-07-12",
-          "deaths": 5599,
-          "recovered": 317411
+          "deaths": 5607,
+          "recovered": 317667
         }
       }
     }
