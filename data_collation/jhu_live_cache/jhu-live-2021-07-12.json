@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 131586,
+      "confirmed": 134653,
       "date": "2021-07-12",
-      "deaths": 5561,
+      "deaths": 5791,
       "recovered": 81077
     }
   },
@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 360826,
+      "confirmed": 360841,
       "date": "2021-07-12",
-      "deaths": 8227,
-      "recovered": 352007
+      "deaths": 8229,
+      "recovered": 352101
     }
   },
   "Cuba": {
@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2527203,
+      "confirmed": 2567630,
       "date": "2021-07-12",
-      "deaths": 66464,
-      "recovered": 2084724
+      "deaths": 67355,
+      "recovered": 2119478
     }
   },
   "Iran": {
@@ -1125,10 +1125,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 836296,
+      "confirmed": 844870,
       "date": "2021-07-12",
-      "deaths": 6158,
-      "recovered": 742297
+      "deaths": 6260,
+      "recovered": 747338
     }
   },
   "Mexico": {
@@ -1285,10 +1285,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 284905,
+      "confirmed": 286072,
       "date": "2021-07-12",
-      "deaths": 3423,
-      "recovered": 257689
+      "deaths": 3435,
+      "recovered": 259550
     }
   },
   "Pakistan": {
@@ -1381,10 +1381,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081236,
+      "confirmed": 1081275,
       "date": "2021-07-12",
-      "deaths": 34217,
-      "recovered": 1045351
+      "deaths": 34219,
+      "recovered": 1045390
     }
   },
   "Russia": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1343539,
+          "confirmed": 1343551,
           "date": "2021-07-12",
           "deaths": 20747
         }
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 650220,
+      "confirmed": 651762,
       "date": "2021-07-12",
-      "deaths": 1866,
-      "recovered": 628290
+      "deaths": 1870,
+      "recovered": 629809
     }
   },
   "United Kingdom": {
