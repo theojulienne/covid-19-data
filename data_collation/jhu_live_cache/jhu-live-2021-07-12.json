@@ -170,7 +170,7 @@
           "confirmed": 1158122,
           "date": "2021-07-12",
           "deaths": 24770,
-          "recovered": 1121230
+          "recovered": 1123063
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 901794,
           "date": "2021-07-12",
           "deaths": 23034,
-          "recovered": 633171
+          "recovered": 633244
         }
       },
       "Distrito Federal": {
@@ -290,7 +290,7 @@
           "confirmed": 1252036,
           "date": "2021-07-12",
           "deaths": 32216,
-          "recovered": 1208730
+          "recovered": 1210097
         }
       },
       "Rio de Janeiro": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554640,
+          "confirmed": 554639,
           "date": "2021-07-12",
           "deaths": 9214,
-          "recovered": 543818
+          "recovered": 543819
         }
       },
       "Quebec": {
@@ -1670,7 +1670,7 @@
         "live": {
           "confirmed": 265462,
           "date": "2021-07-12",
-          "deaths": 4530
+          "deaths": 4538
         }
       },
       "New York": {
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 245747,
+          "confirmed": 245793,
           "date": "2021-07-12",
           "deaths": 3730
         }
@@ -1724,7 +1724,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 118103,
+          "confirmed": 118265,
           "date": "2021-07-12",
           "deaths": 1433
         }
