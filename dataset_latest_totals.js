@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 936256,
-        "deaths": 14912,
-        "recovered": 829199
+        "confirmed": 944917,
+        "deaths": 15065,
+        "recovered": 833897
       },
       "back_2week": {
-        "confirmed": 883138,
-        "deaths": 14053,
-        "recovered": 800854
+        "confirmed": 888406,
+        "deaths": 14172,
+        "recovered": 804103
       },
       "latest": {
-        "confirmed": 1009315,
-        "deaths": 16189,
-        "recovered": 868139
+        "confirmed": 1021189,
+        "deaths": 16419,
+        "recovered": 874501
       }
     },
     "BGR": {
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 294925,
+        "confirmed": 295317,
         "deaths": 2537,
-        "recovered": 288894
+        "recovered": 289066
       },
       "back_2week": {
-        "confirmed": 292769,
+        "confirmed": 292943,
         "deaths": 2531,
-        "recovered": 287101
+        "recovered": 287344
       },
       "latest": {
-        "confirmed": 298614,
+        "confirmed": 299223,
         "deaths": 2539,
-        "recovered": 290228
+        "recovered": 290372
       },
       "states": {
         "Faroe Islands": {
@@ -2091,19 +2091,19 @@ var covid19_dataset_latest_totals = {
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 194323,
-        "deaths": 3205,
-        "recovered": 178871
+        "confirmed": 195042,
+        "deaths": 3211,
+        "recovered": 179095
       },
       "back_2week": {
-        "confirmed": 192129,
-        "deaths": 3185,
-        "recovered": 177358
+        "confirmed": 192470,
+        "deaths": 3187,
+        "recovered": 177600
       },
       "latest": {
-        "confirmed": 201236,
-        "deaths": 3232,
-        "recovered": 180484
+        "confirmed": 204090,
+        "deaths": 3240,
+        "recovered": 180860
       }
     },
     "LCA": {

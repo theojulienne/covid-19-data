@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1021189,
+      "confirmed": 1034957,
       "date": "2021-07-12",
-      "deaths": 16419,
-      "recovered": 874501
+      "deaths": 16639,
+      "recovered": 881521
     }
   },
   "Belarus": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 299223,
+      "confirmed": 300071,
       "date": "2021-07-12",
       "deaths": 2539,
-      "recovered": 290372
+      "recovered": 290555
     }
   },
   "Dominican Republic": {
@@ -599,7 +599,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 648971,
+          "confirmed": 648981,
           "date": "2021-07-12",
           "deaths": 15296,
           "recovered": 631300
@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155631,
+          "confirmed": 155660,
           "date": "2021-07-12",
           "deaths": 3894,
           "recovered": 150900
@@ -655,9 +655,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286049,
+          "confirmed": 286061,
           "date": "2021-07-12",
-          "deaths": 10103,
+          "deaths": 10104,
           "recovered": 275600
         }
       },
@@ -1109,10 +1109,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 204090,
+      "confirmed": 206769,
       "date": "2021-07-12",
-      "deaths": 3240,
-      "recovered": 180860
+      "deaths": 3243,
+      "recovered": 181203
     }
   },
   "Lithuania": {
