@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4639098,
+      "confirmed": 4647948,
       "date": "2021-07-11",
-      "deaths": 98501,
-      "recovered": 4264937
+      "deaths": 98781,
+      "recovered": 4282904
     }
   },
   "Armenia": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1009315,
+      "confirmed": 1021189,
       "date": "2021-07-11",
-      "deaths": 16189,
-      "recovered": 868139
+      "deaths": 16419,
+      "recovered": 874501
     }
   },
   "Belarus": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 491021,
+      "confirmed": 497613,
       "date": "2021-07-11",
-      "deaths": 16244,
-      "recovered": 388017
+      "deaths": 16388,
+      "recovered": 393305
     }
   },
   "Turkey": {
