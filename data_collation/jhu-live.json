@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 146064,
+      "confirmed": 146942,
       "date": "2021-07-12",
-      "deaths": 3836,
-      "recovered": 101430
+      "deaths": 3851,
+      "recovered": 102010
     }
   },
   "Argentina": {
@@ -250,7 +250,7 @@
           "confirmed": 408009,
           "date": "2021-07-12",
           "deaths": 8794,
-          "recovered": 274237
+          "recovered": 277910
         }
       },
       "Parana": {
@@ -258,7 +258,7 @@
           "confirmed": 1325450,
           "date": "2021-07-12",
           "deaths": 32466,
-          "recovered": 941183
+          "recovered": 942875
         }
       },
       "Pernambuco": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 333681,
+      "confirmed": 334544,
       "date": "2021-07-12",
-      "deaths": 3892,
-      "recovered": 273945
+      "deaths": 3893,
+      "recovered": 275595
     }
   },
   "Ecuador": {
@@ -1053,10 +1053,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 188754,
+      "confirmed": 188942,
       "date": "2021-07-12",
-      "deaths": 3722,
-      "recovered": 179520
+      "deaths": 3723,
+      "recovered": 179861
     }
   },
   "Korea, South": {
@@ -1077,10 +1077,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 375594,
+      "confirmed": 377364,
       "date": "2021-07-12",
-      "deaths": 2117,
-      "recovered": 355562
+      "deaths": 2136,
+      "recovered": 357256
     }
   },
   "Kyrgyzstan": {
@@ -1339,9 +1339,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 911402,
+          "confirmed": 915866,
           "date": "2021-07-12",
-          "deaths": 86605,
+          "deaths": 86943,
           "recovered": 0
         }
       }
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1343697,
+          "confirmed": 1343992,
           "date": "2021-07-12",
-          "deaths": 20752
+          "deaths": 20756
         }
       },
       "Utah": {
