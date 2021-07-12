@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 453595,
+      "confirmed": 454241,
       "date": "2021-07-12",
-      "deaths": 17200,
-      "recovered": 378733
+      "deaths": 17219,
+      "recovered": 380500
     }
   },
   "Bosnia and Herzegovina": {
@@ -1045,10 +1045,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 512685,
+      "confirmed": 516624,
       "date": "2021-07-12",
-      "deaths": 3569,
-      "recovered": 464930
+      "deaths": 3572,
+      "recovered": 466471
     }
   },
   "Kenya": {
