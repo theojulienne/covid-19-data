@@ -1246,19 +1246,19 @@
     },
     "EST": {
       "back_1week": {
-        "confirmed": 131161,
+        "confirmed": 131188,
         "deaths": 1269,
-        "recovered": 127536
+        "recovered": 127559
       },
       "back_2week": {
-        "confirmed": 130941,
+        "confirmed": 130968,
         "deaths": 1269,
-        "recovered": 127130
+        "recovered": 127149
       },
       "latest": {
-        "confirmed": 131460,
+        "confirmed": 131487,
         "deaths": 1270,
-        "recovered": 127841
+        "recovered": 127855
       }
     },
     "ETH": {
@@ -1501,14 +1501,14 @@
         "recovered": 353612
       },
       "back_2week": {
-        "confirmed": 362937,
-        "deaths": 5255,
-        "recovered": 348705
+        "confirmed": 363522,
+        "deaths": 5266,
+        "recovered": 349658
       },
       "latest": {
-        "confirmed": 376200,
-        "deaths": 5443,
-        "recovered": 358227
+        "confirmed": 377152,
+        "deaths": 5452,
+        "recovered": 359226
       }
     },
     "GHA": {
@@ -2210,17 +2210,17 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 137600,
+        "confirmed": 137631,
         "deaths": 2526,
         "recovered": 134243
       },
       "back_2week": {
-        "confirmed": 137169,
+        "confirmed": 137210,
         "deaths": 2503,
         "recovered": 133489
       },
       "latest": {
-        "confirmed": 137863,
+        "confirmed": 137899,
         "deaths": 2536,
         "recovered": 134629
       }
