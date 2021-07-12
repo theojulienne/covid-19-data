@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 420406,
-        "deaths": 3175,
-        "recovered": 413292
+        "confirmed": 421350,
+        "deaths": 3185,
+        "recovered": 414460
       },
       "back_2week": {
-        "confirmed": 414730,
-        "deaths": 3103,
-        "recovered": 407528
+        "confirmed": 415339,
+        "deaths": 3113,
+        "recovered": 408307
       },
       "latest": {
-        "confirmed": 426886,
-        "deaths": 3247,
-        "recovered": 420085
+        "confirmed": 427906,
+        "deaths": 3257,
+        "recovered": 421305
       }
     },
     "BLZ": {
@@ -1785,19 +1785,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 3241037,
-        "deaths": 84627,
-        "recovered": 2914830
+        "confirmed": 3254818,
+        "deaths": 84792,
+        "recovered": 2926266
       },
       "back_2week": {
-        "confirmed": 3157983,
-        "deaths": 83711,
-        "recovered": 2822704
+        "confirmed": 3167741,
+        "deaths": 83845,
+        "recovered": 2835633
       },
       "latest": {
-        "confirmed": 3355786,
-        "deaths": 85694,
-        "recovered": 3010090
+        "confirmed": 3373450,
+        "deaths": 85859,
+        "recovered": 3025911
       }
     },
     "IRQ": {
@@ -2640,19 +2640,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 643580,
-        "deaths": 9198,
-        "recovered": 606666
+        "confirmed": 644622,
+        "deaths": 9225,
+        "recovered": 609218
       },
       "back_2week": {
-        "confirmed": 632326,
-        "deaths": 8975,
-        "recovered": 581327
+        "confirmed": 633679,
+        "deaths": 9009,
+        "recovered": 584334
       },
       "latest": {
-        "confirmed": 654212,
-        "deaths": 9362,
-        "recovered": 618361
+        "confirmed": 655449,
+        "deaths": 9382,
+        "recovered": 619894
       }
     },
     "NZL": {
