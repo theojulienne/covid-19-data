@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501848,
+          "confirmed": 501824,
           "date": "2021-07-12",
-          "deaths": 10318,
+          "deaths": 10317,
           "recovered": 489500
         }
       },
@@ -1030,7 +1030,7 @@
           "confirmed": 181706,
           "date": "2021-07-12",
           "deaths": 2240,
-          "recovered": 172501
+          "recovered": 173136
         }
       }
     }
