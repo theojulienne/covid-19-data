@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 273702,
+      "confirmed": 274478,
       "date": "2021-07-12",
-      "deaths": 7250,
-      "recovered": 94243
+      "deaths": 7259,
+      "recovered": 94391
     }
   },
   "Hungary": {
@@ -1061,10 +1061,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 168046,
+      "confirmed": 169146,
       "date": "2021-07-12",
-      "deaths": 2043,
-      "recovered": 153760
+      "deaths": 2044,
+      "recovered": 154187
     }
   },
   "Kosovo": {
@@ -1135,15 +1135,15 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 707845,
+          "confirmed": 709145,
           "date": "2021-07-12",
-          "deaths": 34911,
+          "deaths": 34927,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 133710,
+          "confirmed": 133733,
           "date": "2021-07-12",
           "deaths": 11123,
           "recovered": 0
@@ -1151,15 +1151,15 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 265142,
+          "confirmed": 265391,
           "date": "2021-07-12",
-          "deaths": 37549,
+          "deaths": 37555,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 129760,
+          "confirmed": 129911,
           "date": "2021-07-12",
           "deaths": 9809,
           "recovered": 0
@@ -1321,18 +1321,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 414647,
+      "confirmed": 415480,
       "date": "2021-07-12",
-      "deaths": 6627,
-      "recovered": 394465
+      "deaths": 6632,
+      "recovered": 395309
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 436624,
+      "confirmed": 437719,
       "date": "2021-07-12",
-      "deaths": 13867,
-      "recovered": 391681
+      "deaths": 13918,
+      "recovered": 393333
     }
   },
   "Peru": {
