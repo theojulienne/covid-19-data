@@ -234,7 +234,7 @@
           "confirmed": 1866541,
           "date": "2021-07-13",
           "deaths": 48124,
-          "recovered": 1750005
+          "recovered": 1758742
         }
       },
       "Para": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554830,
+          "confirmed": 554833,
           "date": "2021-07-13",
           "deaths": 9220,
-          "recovered": 544100
+          "recovered": 544102
         }
       },
       "Quebec": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2764716,
+          "confirmed": 2765274,
           "date": "2021-07-13",
           "deaths": 48563
         }
