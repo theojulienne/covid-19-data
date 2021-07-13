@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 440872,
+      "confirmed": 444783,
       "date": "2021-07-13",
-      "deaths": 12778,
+      "deaths": 12782,
       "recovered": 93764
     }
   },
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 847108,
+      "confirmed": 847525,
       "date": "2021-07-13",
       "deaths": 6439,
-      "recovered": 835941
+      "recovered": 836150
     }
   },
   "Italy": {
@@ -1037,10 +1037,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 757690,
+      "confirmed": 758291,
       "date": "2021-07-13",
-      "deaths": 9843,
-      "recovered": 740546
+      "deaths": 9855,
+      "recovered": 741031
     }
   },
   "Kazakhstan": {
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 909756,
+      "confirmed": 912406,
       "date": "2021-07-13",
-      "deaths": 17164,
-      "recovered": 846544
+      "deaths": 17173,
+      "recovered": 850034
     }
   },
   "Qatar": {
@@ -1698,12 +1698,12 @@
         "live": {
           "confirmed": 155134,
           "date": "2021-07-13",
-          "deaths": 3770
+          "deaths": 3773
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1344055,
+          "confirmed": 1344207,
           "date": "2021-07-13",
           "deaths": 20756
         }
@@ -1795,15 +1795,15 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 4480518,
+          "confirmed": 4512957,
           "date": "2021-07-13",
-          "deaths": 112937,
+          "deaths": 112982,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 132997,
+          "confirmed": 133508,
           "date": "2021-07-13",
           "deaths": 2158,
           "recovered": 0
@@ -1811,17 +1811,17 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 316037,
+          "confirmed": 318566,
           "date": "2021-07-13",
-          "deaths": 7757,
+          "deaths": 7761,
           "recovered": 0
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 225691,
+          "confirmed": 226428,
           "date": "2021-07-13",
-          "deaths": 5579,
+          "deaths": 5580,
           "recovered": 0
         }
       }
