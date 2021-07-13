@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132597,
+      "confirmed": 132608,
       "date": "2021-07-13",
       "deaths": 2456,
-      "recovered": 130052
+      "recovered": 130053
     }
   },
   "Algeria": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554806,
+          "confirmed": 554824,
           "date": "2021-07-13",
-          "deaths": 9219,
-          "recovered": 544059
+          "deaths": 9220,
+          "recovered": 544087
         }
       },
       "Quebec": {
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 244914,
+      "confirmed": 250527,
       "date": "2021-07-13",
-      "deaths": 1579,
-      "recovered": 208361
+      "deaths": 1608,
+      "recovered": 212023
     }
   },
   "Czechia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 501891,
+          "confirmed": 502097,
           "date": "2021-07-13",
-          "deaths": 10320,
+          "deaths": 10323,
           "recovered": 489600
         }
       },
@@ -1169,10 +1169,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257529,
+      "confirmed": 257588,
       "date": "2021-07-13",
-      "deaths": 6211,
-      "recovered": 250489
+      "deaths": 6214,
+      "recovered": 250545
     }
   },
   "Mongolia": {
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 276106,
+      "confirmed": 277519,
       "date": "2021-07-13",
-      "deaths": 3533,
-      "recovered": 246241
+      "deaths": 3574,
+      "recovered": 247569
     }
   },
   "Sweden": {
@@ -1661,9 +1661,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125490,
+          "confirmed": 125597,
           "date": "2021-07-13",
-          "deaths": 1792
+          "deaths": 1793
         }
       },
       "Nevada": {
@@ -1682,7 +1682,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 115309,
+          "confirmed": 115389,
           "date": "2021-07-13",
           "deaths": 981
         }
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 176742,
+      "confirmed": 178748,
       "date": "2021-07-13",
-      "deaths": 2867,
-      "recovered": 162239
+      "deaths": 2904,
+      "recovered": 163681
     }
   }
 }
