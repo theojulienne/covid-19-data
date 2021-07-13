@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 266426,
+        "confirmed": 266557,
         "deaths": 1360,
-        "recovered": 262814
+        "recovered": 263373
       },
       "back_2week": {
-        "confirmed": 265247,
+        "confirmed": 265477,
         "deaths": 1345,
-        "recovered": 259787
+        "recovered": 260363
       },
       "latest": {
-        "confirmed": 267212,
+        "confirmed": 267324,
         "deaths": 1377,
-        "recovered": 264687
+        "recovered": 264831
       }
     },
     "BHS": {
@@ -587,7 +587,7 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 232411,
+          "confirmed": 232501,
           "deaths": 2307
         },
         "British Columbia": {
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 363672,
-        "deaths": 2017,
-        "recovered": 343265
+        "confirmed": 365649,
+        "deaths": 2029,
+        "recovered": 345106
       },
       "back_2week": {
-        "confirmed": 351481,
-        "deaths": 1933,
-        "recovered": 331015
+        "confirmed": 353133,
+        "deaths": 1943,
+        "recovered": 332678
       },
       "latest": {
-        "confirmed": 375594,
-        "deaths": 2117,
-        "recovered": 355562
+        "confirmed": 377364,
+        "deaths": 2136,
+        "recovered": 357256
       }
     },
     "LAO": {
@@ -2227,19 +2227,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 534550,
-        "deaths": 9319,
-        "recovered": 519696
+        "confirmed": 534797,
+        "deaths": 9329,
+        "recovered": 520107
       },
       "back_2week": {
-        "confirmed": 529676,
-        "deaths": 9277,
-        "recovered": 516269
+        "confirmed": 529895,
+        "deaths": 9283,
+        "recovered": 516529
       },
       "latest": {
-        "confirmed": 542462,
-        "deaths": 9369,
-        "recovered": 524826
+        "confirmed": 543119,
+        "deaths": 9384,
+        "recovered": 525286
       }
     },
     "MCO": {
