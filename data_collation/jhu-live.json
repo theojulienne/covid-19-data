@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554833,
+          "confirmed": 554866,
           "date": "2021-07-13",
-          "deaths": 9220,
-          "recovered": 544102
+          "deaths": 9221,
+          "recovered": 544165
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277137,
+      "confirmed": 277212,
       "date": "2021-07-13",
-      "deaths": 4343,
-      "recovered": 262022
+      "deaths": 4347,
+      "recovered": 262102
     }
   },
   "France": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 847525,
+      "confirmed": 847602,
       "date": "2021-07-13",
-      "deaths": 6439,
-      "recovered": 836150
+      "deaths": 6440,
+      "recovered": 836185
     }
   },
   "Italy": {
@@ -1349,10 +1349,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1478061,
+      "confirmed": 1481660,
       "date": "2021-07-13",
-      "deaths": 26015,
-      "recovered": 1402918
+      "deaths": 26092,
+      "recovered": 1408634
     }
   },
   "Poland": {
@@ -1619,14 +1619,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 682947,
+          "confirmed": 682991,
           "date": "2021-07-13",
-          "deaths": 12781
+          "deaths": 12793
         }
       },
       "California": {
         "live": {
-          "confirmed": 2765274,
+          "confirmed": 2765371,
           "date": "2021-07-13",
           "deaths": 48563
         }
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1344207,
+          "confirmed": 1344612,
           "date": "2021-07-13",
-          "deaths": 20756
+          "deaths": 20764
         }
       },
       "Utah": {
