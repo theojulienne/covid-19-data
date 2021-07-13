@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 380482,
+      "confirmed": 383500,
       "date": "2021-07-13",
-      "deaths": 4773,
-      "recovered": 305426
+      "deaths": 4812,
+      "recovered": 307274
     }
   },
   "Croatia": {
