@@ -17,18 +17,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 146942,
+      "confirmed": 147883,
       "date": "2021-07-13",
-      "deaths": 3851,
-      "recovered": 102010
+      "deaths": 3867,
+      "recovered": 102594
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 4662937,
+      "confirmed": 4682960,
       "date": "2021-07-13",
-      "deaths": 99255,
-      "recovered": 4300823
+      "deaths": 99640,
+      "recovered": 4314593
     }
   },
   "Armenia": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205181,
+      "confirmed": 205214,
       "date": "2021-07-13",
-      "deaths": 9662,
-      "recovered": 185717
+      "deaths": 9663,
+      "recovered": 185991
     }
   },
   "Brazil": {
@@ -218,7 +218,7 @@
           "confirmed": 464786,
           "date": "2021-07-13",
           "deaths": 12157,
-          "recovered": 443848
+          "recovered": 445307
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 562351,
           "date": "2021-07-13",
           "deaths": 15719,
-          "recovered": 525757
+          "recovered": 526907
         }
       },
       "Paraiba": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148154,
+          "confirmed": 148187,
           "date": "2021-07-13",
           "deaths": 1760,
-          "recovered": 145722
+          "recovered": 145775
         }
       },
       "Ontario": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 501923,
+      "confirmed": 510396,
       "date": "2021-07-13",
-      "deaths": 16494,
-      "recovered": 400378
+      "deaths": 16651,
+      "recovered": 406349
     }
   },
   "Turkey": {
@@ -1717,9 +1717,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 113621,
+          "confirmed": 113725,
           "date": "2021-07-13",
-          "deaths": 1669
+          "deaths": 1675
         }
       },
       "Wisconsin": {
