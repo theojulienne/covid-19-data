@@ -1081,9 +1081,11 @@ var covid19_dataset_country_dma = {
       197,
       197,
       197,
+      199,
       199
     ],
     "deaths": [
+      0,
       0,
       0,
       0,
@@ -2161,6 +2163,7 @@ var covid19_dataset_country_dma = {
       192,
       192,
       192,
+      194,
       194
     ]
   }

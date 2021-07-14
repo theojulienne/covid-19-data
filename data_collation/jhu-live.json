@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 455436,
+      "confirmed": 456815,
       "date": "2021-07-14",
-      "deaths": 17250,
-      "recovered": 381945
+      "deaths": 17287,
+      "recovered": 383441
     }
   },
   "Bosnia and Herzegovina": {
@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 274977,
+      "confirmed": 275675,
       "date": "2021-07-14",
-      "deaths": 7288,
-      "recovered": 94540
+      "deaths": 7324,
+      "recovered": 94731
     }
   },
   "Hungary": {
@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 520336,
+      "confirmed": 524878,
       "date": "2021-07-14",
-      "deaths": 3578,
-      "recovered": 468287
+      "deaths": 3584,
+      "recovered": 471323
     }
   },
   "Kenya": {
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 170296,
+      "confirmed": 171911,
       "date": "2021-07-14",
-      "deaths": 2046,
-      "recovered": 154752
+      "deaths": 2048,
+      "recovered": 155491
     }
   },
   "Kosovo": {
@@ -1169,10 +1169,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 140530,
+      "confirmed": 141689,
       "date": "2021-07-14",
-      "deaths": 699,
-      "recovered": 111064
+      "deaths": 703,
+      "recovered": 114872
     }
   },
   "Morocco": {
@@ -1845,10 +1845,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 285910,
+      "confirmed": 286990,
       "date": "2021-07-14",
-      "deaths": 3302,
-      "recovered": 268872
+      "deaths": 3315,
+      "recovered": 269971
     }
   },
   "West Bank and Gaza": {
