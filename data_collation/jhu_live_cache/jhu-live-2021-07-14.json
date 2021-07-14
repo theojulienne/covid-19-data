@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 337456,
+      "confirmed": 337602,
       "date": "2021-07-14",
       "deaths": 4988,
-      "recovered": 330873
+      "recovered": 330946
     }
   },
   "Bahrain": {
@@ -65,18 +65,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1047155,
+      "confirmed": 1059538,
       "date": "2021-07-14",
-      "deaths": 16842,
-      "recovered": 889167
+      "deaths": 17052,
+      "recovered": 897412
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 429181,
+      "confirmed": 430121,
       "date": "2021-07-14",
-      "deaths": 3276,
-      "recovered": 422374
+      "deaths": 3287,
+      "recovered": 423404
     }
   },
   "Belgium": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205214,
+      "confirmed": 205238,
       "date": "2021-07-14",
-      "deaths": 9663,
-      "recovered": 185991
+      "deaths": 9664,
+      "recovered": 186382
     }
   },
   "Brazil": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554866,
+          "confirmed": 554943,
           "date": "2021-07-14",
-          "deaths": 9221,
-          "recovered": 544165
+          "deaths": 9226,
+          "recovered": 544284
         }
       },
       "Quebec": {
@@ -917,10 +917,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1447557,
+      "confirmed": 1457192,
       "date": "2021-07-14",
-      "deaths": 17630,
-      "recovered": 1320260
+      "deaths": 17677,
+      "recovered": 1326073
     }
   },
   "Ireland": {
@@ -1203,7 +1203,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 193622,
+          "confirmed": 194644,
           "date": "2021-07-14",
           "deaths": 2029,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 117393,
+          "confirmed": 117706,
           "date": "2021-07-14",
           "deaths": 1655,
           "recovered": 0
@@ -1219,7 +1219,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 280178,
+          "confirmed": 281406,
           "date": "2021-07-14",
           "deaths": 3140,
           "recovered": 0
@@ -1227,15 +1227,15 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 293212,
+          "confirmed": 295848,
           "date": "2021-07-14",
-          "deaths": 2629,
+          "deaths": 2630,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 113669,
+          "confirmed": 114180,
           "date": "2021-07-14",
           "deaths": 1141,
           "recovered": 0
@@ -1243,7 +1243,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 135272,
+          "confirmed": 136309,
           "date": "2021-07-14",
           "deaths": 1281,
           "recovered": 0
@@ -1251,7 +1251,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 415785,
+          "confirmed": 418213,
           "date": "2021-07-14",
           "deaths": 4292,
           "recovered": 0
@@ -1433,9 +1433,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 717812,
+      "confirmed": 717937,
       "date": "2021-07-14",
-      "deaths": 7076,
+      "deaths": 7077,
       "recovered": 0
     }
   },
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1344647,
+          "confirmed": 1345273,
           "date": "2021-07-14",
-          "deaths": 20764
+          "deaths": 20768
         }
       },
       "Utah": {
@@ -1853,18 +1853,18 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 315224,
+      "confirmed": 315409,
       "date": "2021-07-14",
-      "deaths": 3582,
-      "recovered": 310027
+      "deaths": 3585,
+      "recovered": 310239
     }
   },
   "Zambia": {
     "live": {
-      "confirmed": 178748,
+      "confirmed": 180549,
       "date": "2021-07-14",
-      "deaths": 2904,
-      "recovered": 163681
+      "deaths": 2949,
+      "recovered": 164924
     }
   }
 }
