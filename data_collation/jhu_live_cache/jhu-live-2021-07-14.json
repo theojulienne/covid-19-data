@@ -387,15 +387,15 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 554958,
+          "confirmed": 554983,
           "date": "2021-07-14",
-          "deaths": 9227,
-          "recovered": 544315
+          "deaths": 9231,
+          "recovered": 544356
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 375716,
+          "confirmed": 376044,
           "date": "2021-07-14",
           "deaths": 11231,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277212,
+      "confirmed": 277318,
       "date": "2021-07-14",
-      "deaths": 4347,
-      "recovered": 262102
+      "deaths": 4349,
+      "recovered": 262167
     }
   },
   "France": {
@@ -811,10 +811,10 @@
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 791656,
+          "confirmed": 791583,
           "date": "2021-07-14",
-          "deaths": 10506,
-          "recovered": 780735
+          "deaths": 10508,
+          "recovered": 780796
         }
       },
       "Maharashtra": {
@@ -1045,9 +1045,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 189703,
+      "confirmed": 190183,
       "date": "2021-07-14",
-      "deaths": 3732,
+      "deaths": 3737,
       "recovered": 180624
     }
   },
@@ -1069,10 +1069,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 379076,
+      "confirmed": 380699,
       "date": "2021-07-14",
-      "deaths": 2147,
-      "recovered": 359025
+      "deaths": 2158,
+      "recovered": 360746
     }
   },
   "Kyrgyzstan": {
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 545016,
+      "confirmed": 547273,
       "date": "2021-07-14",
-      "deaths": 9395,
-      "recovered": 526168
+      "deaths": 9404,
+      "recovered": 527256
     }
   },
   "Namibia": {
@@ -1575,9 +1575,9 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 190705,
+          "confirmed": 190786,
           "date": "2021-07-14",
-          "deaths": 2386,
+          "deaths": 2383,
           "recovered": 0
         }
       }
@@ -1609,10 +1609,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5493244,
+      "confirmed": 5500151,
       "date": "2021-07-14",
-      "deaths": 50324,
-      "recovered": 5360012
+      "deaths": 50367,
+      "recovered": 5365075
     }
   },
   "US": {
@@ -1710,9 +1710,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 155588,
+          "confirmed": 155787,
           "date": "2021-07-14",
-          "deaths": 922
+          "deaths": 923
         }
       },
       "Washington": {
