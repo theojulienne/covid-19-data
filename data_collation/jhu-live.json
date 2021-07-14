@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 147883,
+      "confirmed": 148797,
       "date": "2021-07-14",
-      "deaths": 3867,
-      "recovered": 102594
+      "deaths": 3882,
+      "recovered": 103192
     }
   },
   "Argentina": {
@@ -1185,10 +1185,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 108055,
+      "confirmed": 108785,
       "date": "2021-07-14",
-      "deaths": 2090,
-      "recovered": 78908
+      "deaths": 2240,
+      "recovered": 80421
     }
   },
   "Nepal": {
@@ -1619,9 +1619,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 682991,
+          "confirmed": 684555,
           "date": "2021-07-14",
-          "deaths": 12793
+          "deaths": 12814
         }
       },
       "California": {
@@ -1703,9 +1703,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1345273,
+          "confirmed": 1345448,
           "date": "2021-07-14",
-          "deaths": 20768
+          "deaths": 20770
         }
       },
       "Utah": {
