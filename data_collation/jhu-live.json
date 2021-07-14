@@ -1117,10 +1117,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 855949,
+      "confirmed": 867567,
       "date": "2021-07-14",
-      "deaths": 6385,
-      "recovered": 753328
+      "deaths": 6503,
+      "recovered": 759705
     }
   },
   "Mexico": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1344612,
+          "confirmed": 1344647,
           "date": "2021-07-14",
           "deaths": 20764
         }
