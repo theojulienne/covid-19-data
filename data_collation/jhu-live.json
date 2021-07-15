@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 385069,
+      "confirmed": 386722,
       "date": "2021-07-15",
-      "deaths": 4829,
-      "recovered": 308570
+      "deaths": 4842,
+      "recovered": 311761
     }
   },
   "Croatia": {
@@ -1339,9 +1339,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 915866,
+          "confirmed": 917121,
           "date": "2021-07-15",
-          "deaths": 86943,
+          "deaths": 87014,
           "recovered": 0
         }
       }
