@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155840,
+      "confirmed": 155866,
       "date": "2021-07-15",
       "deaths": 5487,
-      "recovered": 150146
+      "recovered": 150154
     }
   },
   "Norway": {
@@ -1626,9 +1626,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2769405,
+          "confirmed": 2769547,
           "date": "2021-07-15",
-          "deaths": 48607
+          "deaths": 48611
         }
       },
       "Florida": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1348278,
+          "confirmed": 1348556,
           "date": "2021-07-15",
           "deaths": 20802
         }
