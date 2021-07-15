@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 275675,
+      "confirmed": 276989,
       "date": "2021-07-15",
-      "deaths": 7324,
-      "recovered": 94731
+      "deaths": 7356,
+      "recovered": 95000
     }
   },
   "Hungary": {
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 171911,
+      "confirmed": 173511,
       "date": "2021-07-15",
-      "deaths": 2048,
-      "recovered": 155491
+      "deaths": 2050,
+      "recovered": 156509
     }
   },
   "Kosovo": {
@@ -1169,10 +1169,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 141689,
+      "confirmed": 143128,
       "date": "2021-07-15",
-      "deaths": 703,
-      "recovered": 114872
+      "deaths": 707,
+      "recovered": 118219
     }
   },
   "Morocco": {
@@ -1717,9 +1717,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 113725,
+          "confirmed": 113896,
           "date": "2021-07-15",
-          "deaths": 1675
+          "deaths": 1676
         }
       },
       "Wisconsin": {
