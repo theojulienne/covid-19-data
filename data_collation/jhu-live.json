@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 208357,
+      "confirmed": 212545,
       "date": "2021-07-15",
-      "deaths": 4181,
-      "recovered": 151442
+      "deaths": 4346,
+      "recovered": 153609
     }
   },
   "Canada": {
@@ -1029,10 +1029,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 759025,
+      "confirmed": 759686,
       "date": "2021-07-15",
-      "deaths": 9864,
-      "recovered": 741540
+      "deaths": 9872,
+      "recovered": 742065
     }
   },
   "Kazakhstan": {
@@ -1433,9 +1433,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 717937,
+      "confirmed": 718093,
       "date": "2021-07-15",
-      "deaths": 7077,
+      "deaths": 7078,
       "recovered": 0
     }
   },
