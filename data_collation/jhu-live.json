@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 430121,
+      "confirmed": 431112,
       "date": "2021-07-15",
-      "deaths": 3287,
-      "recovered": 423404
+      "deaths": 3297,
+      "recovered": 424546
     }
   },
   "Belgium": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 302328,
+      "confirmed": 303469,
       "date": "2021-07-15",
-      "deaths": 2539,
-      "recovered": 291240
+      "deaths": 2540,
+      "recovered": 291712
     }
   },
   "Dominican Republic": {
@@ -599,7 +599,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 649598,
+          "confirmed": 649604,
           "date": "2021-07-15",
           "deaths": 15300,
           "recovered": 631800
@@ -1021,7 +1021,7 @@
         "live": {
           "confirmed": 185495,
           "date": "2021-07-15",
-          "deaths": 2246,
+          "deaths": 2250,
           "recovered": 174993
         }
       }
@@ -1061,10 +1061,10 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 107879,
+      "confirmed": 107883,
       "date": "2021-07-15",
       "deaths": 2268,
-      "recovered": 105509
+      "recovered": 105514
     }
   },
   "Kuwait": {
@@ -1087,8 +1087,8 @@
     "live": {
       "confirmed": 138041,
       "date": "2021-07-15",
-      "deaths": 2541,
-      "recovered": 134916
+      "deaths": 2542,
+      "recovered": 134980
     }
   },
   "Lebanon": {
@@ -1559,7 +1559,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 156696,
+          "confirmed": 156759,
           "date": "2021-07-15",
           "deaths": 1761,
           "recovered": 0
@@ -1567,15 +1567,15 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 255802,
+          "confirmed": 255909,
           "date": "2021-07-15",
-          "deaths": 4363,
+          "deaths": 4364,
           "recovered": 0
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 190786,
+          "confirmed": 190854,
           "date": "2021-07-15",
           "deaths": 2383,
           "recovered": 0
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 654813,
+      "confirmed": 656354,
       "date": "2021-07-15",
-      "deaths": 1880,
-      "recovered": 632775
+      "deaths": 1885,
+      "recovered": 634272
     }
   },
   "United Kingdom": {
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 180549,
+      "confirmed": 182129,
       "date": "2021-07-15",
-      "deaths": 2949,
-      "recovered": 164924
+      "deaths": 2991,
+      "recovered": 166388
     }
   }
 }
