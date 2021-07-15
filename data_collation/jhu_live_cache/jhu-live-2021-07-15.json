@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 456815,
+      "confirmed": 458212,
       "date": "2021-07-15",
-      "deaths": 17287,
-      "recovered": 383441
+      "deaths": 17345,
+      "recovered": 384876
     }
   },
   "Bosnia and Herzegovina": {
@@ -1077,10 +1077,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 143668,
+      "confirmed": 144958,
       "date": "2021-07-15",
-      "deaths": 2133,
-      "recovered": 120731
+      "deaths": 2143,
+      "recovered": 121760
     }
   },
   "Latvia": {
@@ -1837,10 +1837,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 117409,
+      "confirmed": 117902,
       "date": "2021-07-15",
-      "deaths": 781,
-      "recovered": 112546
+      "deaths": 785,
+      "recovered": 112941
     }
   },
   "Venezuela": {
