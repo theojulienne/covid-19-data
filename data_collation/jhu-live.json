@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132616,
+      "confirmed": 132629,
       "date": "2021-07-15",
       "deaths": 2456,
-      "recovered": 130059
+      "recovered": 130061
     }
   },
   "Algeria": {
@@ -186,7 +186,7 @@
           "confirmed": 439528,
           "date": "2021-07-15",
           "deaths": 9420,
-          "recovered": 422983
+          "recovered": 423595
         }
       },
       "Espirito Santo": {
@@ -210,7 +210,7 @@
           "confirmed": 328190,
           "date": "2021-07-15",
           "deaths": 9378,
-          "recovered": 282881
+          "recovered": 284564
         }
       },
       "Mato Grosso": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555095,
+          "confirmed": 555106,
           "date": "2021-07-15",
           "deaths": 9236,
-          "recovered": 544474
+          "recovered": 544489
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 146318,
+          "confirmed": 146508,
           "date": "2021-07-15",
-          "deaths": 2404,
-          "recovered": 142602
+          "deaths": 2423,
+          "recovered": 142773
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 665822,
+          "confirmed": 666498,
           "date": "2021-07-15",
-          "deaths": 17713,
-          "recovered": 642496
+          "deaths": 17760,
+          "recovered": 643117
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 118302,
+          "confirmed": 118507,
           "date": "2021-07-15",
-          "deaths": 3087,
-          "recovered": 113750
+          "deaths": 3104,
+          "recovered": 113961
         }
       }
     }
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 547273,
+      "confirmed": 549844,
       "date": "2021-07-15",
-      "deaths": 9404,
-      "recovered": 527256
+      "deaths": 9418,
+      "recovered": 528645
     }
   },
   "Namibia": {
@@ -1661,7 +1661,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125657,
+          "confirmed": 125699,
           "date": "2021-07-15",
           "deaths": 1793
         }
@@ -1682,9 +1682,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 115501,
+          "confirmed": 115621,
           "date": "2021-07-15",
-          "deaths": 981
+          "deaths": 982
         }
       },
       "Ohio": {
