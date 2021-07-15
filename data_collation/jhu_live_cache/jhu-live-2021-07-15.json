@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 226756,
+      "confirmed": 226949,
       "date": "2021-07-15",
-      "deaths": 4552,
-      "recovered": 217896
+      "deaths": 4556,
+      "recovered": 218022
     }
   },
   "Austria": {
@@ -581,10 +581,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 381336,
+      "confirmed": 382734,
       "date": "2021-07-15",
-      "deaths": 5492,
-      "recovered": 361327
+      "deaths": 5503,
+      "recovered": 362491
     }
   },
   "Germany": {
@@ -607,7 +607,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 180885,
+          "confirmed": 180891,
           "date": "2021-07-15",
           "deaths": 3568,
           "recovered": 176600
@@ -1593,9 +1593,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 363029,
+      "confirmed": 372215,
       "date": "2021-07-15",
-      "deaths": 2934,
+      "deaths": 3032,
       "recovered": 26873
     }
   },
