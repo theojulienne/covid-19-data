@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4682960,
+      "confirmed": 4702657,
       "date": "2021-07-14",
-      "deaths": 99640,
-      "recovered": 4314593
+      "deaths": 100250,
+      "recovered": 4326403
     }
   },
   "Armenia": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148187,
+          "confirmed": 148228,
           "date": "2021-07-14",
           "deaths": 1760,
-          "recovered": 145775
+          "recovered": 145817
         }
       },
       "Ontario": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 470882,
+      "confirmed": 471757,
       "date": "2021-07-14",
-      "deaths": 21832,
+      "deaths": 21850,
       "recovered": 437167
     }
   },
@@ -1365,10 +1365,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 912406,
+      "confirmed": 916559,
       "date": "2021-07-14",
-      "deaths": 17173,
-      "recovered": 850034
+      "deaths": 17182,
+      "recovered": 852269
     }
   },
   "Qatar": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 510396,
+      "confirmed": 518609,
       "date": "2021-07-14",
-      "deaths": 16651,
-      "recovered": 406349
+      "deaths": 16845,
+      "recovered": 413155
     }
   },
   "Turkey": {
