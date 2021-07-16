@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 143689,
+          "confirmed": 143935,
           "date": "2021-07-16",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 135881,
+          "confirmed": 136100,
           "date": "2021-07-16",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 126553,
+          "confirmed": 126757,
           "date": "2021-07-16",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 161553,
+          "confirmed": 161649,
           "date": "2021-07-16",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 132440,
+          "confirmed": 132520,
           "date": "2021-07-16",
           "deaths": 0,
           "recovered": 0
@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 687408,
           "date": "2021-07-16",
-          "deaths": 14592,
-          "recovered": 647128
+          "deaths": 14650,
+          "recovered": 648528
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 300366,
           "date": "2021-07-16",
-          "deaths": 9106,
-          "recovered": 286526
+          "deaths": 9111,
+          "recovered": 287140
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 143876,
           "date": "2021-07-16",
-          "deaths": 2706,
-          "recovered": 138935
+          "deaths": 2727,
+          "recovered": 139515
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1358292,
           "date": "2021-07-16",
-          "deaths": 25356,
-          "recovered": 1275343
+          "deaths": 25468,
+          "recovered": 1281867
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 243681,
           "date": "2021-07-16",
-          "deaths": 6172,
-          "recovered": 230167
+          "deaths": 6215,
+          "recovered": 231255
         }
       },
       "Santander": {
         "live": {
           "confirmed": 210601,
           "date": "2021-07-16",
-          "deaths": 6596,
-          "recovered": 197062
+          "deaths": 6628,
+          "recovered": 198092
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 362677,
           "date": "2021-07-16",
-          "deaths": 11234,
-          "recovered": 339638
+          "deaths": 11291,
+          "recovered": 341768
         }
       }
     }
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 283409,
+      "confirmed": 283490,
       "date": "2021-07-16",
-      "deaths": 16418,
-      "recovered": 220530
+      "deaths": 16425,
+      "recovered": 221516
     }
   },
   "Estonia": {
@@ -1329,10 +1329,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 441056,
+      "confirmed": 442207,
       "date": "2021-07-16",
-      "deaths": 14066,
-      "recovered": 397953
+      "deaths": 14120,
+      "recovered": 399438
     }
   },
   "Peru": {
@@ -1587,7 +1587,7 @@
     "live": {
       "confirmed": 707357,
       "date": "2021-07-16",
-      "deaths": 10902,
+      "deaths": 10863,
       "recovered": 317600
     }
   },
