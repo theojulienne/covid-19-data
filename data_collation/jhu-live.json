@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 212545,
+      "confirmed": 218739,
       "date": "2021-07-16",
-      "deaths": 4346,
-      "recovered": 153609
+      "deaths": 4536,
+      "recovered": 155959
     }
   },
   "Canada": {
@@ -1029,10 +1029,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 759686,
+      "confirmed": 760161,
       "date": "2021-07-16",
-      "deaths": 9872,
-      "recovered": 742065
+      "deaths": 9879,
+      "recovered": 742516
     }
   },
   "Kazakhstan": {
@@ -1269,10 +1269,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155866,
+      "confirmed": 155882,
       "date": "2021-07-16",
       "deaths": 5487,
-      "recovered": 150154
+      "recovered": 150159
     }
   },
   "Norway": {
@@ -1339,9 +1339,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 917121,
+          "confirmed": 917806,
           "date": "2021-07-16",
-          "deaths": 87014,
+          "deaths": 87038,
           "recovered": 0
         }
       }
@@ -1549,10 +1549,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 280543,
+      "confirmed": 281622,
       "date": "2021-07-16",
-      "deaths": 3661,
-      "recovered": 253953
+      "deaths": 3711,
+      "recovered": 254871
     }
   },
   "Sweden": {
