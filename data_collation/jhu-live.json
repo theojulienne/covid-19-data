@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4702657,
+      "confirmed": 4719952,
       "date": "2021-07-15",
-      "deaths": 100250,
-      "recovered": 4326403
+      "deaths": 100695,
+      "recovered": 4345549
     }
   },
   "Armenia": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205238,
+      "confirmed": 205267,
       "date": "2021-07-15",
-      "deaths": 9664,
-      "recovered": 186382
+      "deaths": 9665,
+      "recovered": 186872
     }
   },
   "Brazil": {
@@ -218,7 +218,7 @@
           "confirmed": 467895,
           "date": "2021-07-15",
           "deaths": 12193,
-          "recovered": 445307
+          "recovered": 447392
         }
       },
       "Mato Grosso do Sul": {
@@ -290,7 +290,7 @@
           "confirmed": 1264483,
           "date": "2021-07-15",
           "deaths": 32500,
-          "recovered": 1213135
+          "recovered": 1220164
         }
       },
       "Rio de Janeiro": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148228,
+          "confirmed": 148286,
           "date": "2021-07-15",
-          "deaths": 1760,
-          "recovered": 145817
+          "deaths": 1761,
+          "recovered": 145859
         }
       },
       "Ontario": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 518609,
+      "confirmed": 526487,
       "date": "2021-07-15",
-      "deaths": 16845,
-      "recovered": 413155
+      "deaths": 17009,
+      "recovered": 419641
     }
   },
   "Turkey": {
@@ -1717,9 +1717,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 113896,
+          "confirmed": 114042,
           "date": "2021-07-15",
-          "deaths": 1676
+          "deaths": 1675
         }
       },
       "Wisconsin": {
@@ -1853,10 +1853,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 315409,
+      "confirmed": 315504,
       "date": "2021-07-15",
       "deaths": 3585,
-      "recovered": 310239
+      "recovered": 310329
     }
   },
   "Zambia": {
