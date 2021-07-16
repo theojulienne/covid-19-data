@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555245,
+          "confirmed": 555258,
           "date": "2021-07-16",
           "deaths": 9241,
-          "recovered": 544646
+          "recovered": 544655
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5760374,
+      "confirmed": 5771282,
       "date": "2021-07-16",
-      "deaths": 110464,
-      "recovered": 340929
+      "deaths": 110486,
+      "recovered": 341209
     }
   },
   "Georgia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 502486,
+          "confirmed": 502662,
           "date": "2021-07-16",
-          "deaths": 10333,
+          "deaths": 10338,
           "recovered": 490200
         }
       },
@@ -1177,10 +1177,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 549844,
+      "confirmed": 552635,
       "date": "2021-07-16",
-      "deaths": 9418,
-      "recovered": 528645
+      "deaths": 9427,
+      "recovered": 529853
     }
   },
   "Namibia": {
@@ -1626,7 +1626,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770647,
+          "confirmed": 2770856,
           "date": "2021-07-16",
           "deaths": 48638
         }
@@ -1640,9 +1640,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 558781,
+          "confirmed": 558928,
           "date": "2021-07-16",
-          "deaths": 10538
+          "deaths": 10539
         }
       },
       "Massachusetts": {
@@ -1654,9 +1654,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 285595,
+          "confirmed": 285947,
           "date": "2021-07-16",
-          "deaths": 7649
+          "deaths": 7657
         }
       },
       "Minnesota": {
@@ -1670,12 +1670,12 @@
         "live": {
           "confirmed": 267734,
           "date": "2021-07-16",
-          "deaths": 4558
+          "deaths": 4563
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1403543,
+          "confirmed": 1403717,
           "date": "2021-07-16",
           "deaths": 40495
         }
@@ -1689,7 +1689,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 246085,
+          "confirmed": 246195,
           "date": "2021-07-16",
           "deaths": 3740
         }
