@@ -909,10 +909,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3464055,
+      "confirmed": 3485940,
       "date": "2021-07-16",
-      "deaths": 86592,
-      "recovered": 3086017
+      "deaths": 86791,
+      "recovered": 3101618
     }
   },
   "Iraq": {
@@ -1101,10 +1101,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 214568,
+      "confirmed": 217434,
       "date": "2021-07-16",
-      "deaths": 3249,
-      "recovered": 182359
+      "deaths": 3253,
+      "recovered": 182785
     }
   },
   "Lithuania": {
