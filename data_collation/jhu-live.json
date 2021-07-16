@@ -146,7 +146,7 @@
           "confirmed": 224758,
           "date": "2021-07-16",
           "deaths": 5594,
-          "recovered": 214767
+          "recovered": 216352
         }
       },
       "Amapa": {
@@ -154,7 +154,7 @@
           "confirmed": 119427,
           "date": "2021-07-16",
           "deaths": 1876,
-          "recovered": 100523
+          "recovered": 100791
         }
       },
       "Amazonas": {
@@ -162,7 +162,7 @@
           "confirmed": 409783,
           "date": "2021-07-16",
           "deaths": 13413,
-          "recovered": 349979
+          "recovered": 351713
         }
       },
       "Bahia": {
@@ -194,7 +194,7 @@
           "confirmed": 531327,
           "date": "2021-07-16",
           "deaths": 11692,
-          "recovered": 505366
+          "recovered": 507679
         }
       },
       "Goias": {
@@ -226,7 +226,7 @@
           "confirmed": 346142,
           "date": "2021-07-16",
           "deaths": 8612,
-          "recovered": 328706
+          "recovered": 330412
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1888402,
           "date": "2021-07-16",
           "deaths": 48513,
-          "recovered": 1767575
+          "recovered": 1782054
         }
       },
       "Para": {
@@ -242,7 +242,7 @@
           "confirmed": 564575,
           "date": "2021-07-16",
           "deaths": 15775,
-          "recovered": 526907
+          "recovered": 528568
         }
       },
       "Paraiba": {
@@ -250,7 +250,7 @@
           "confirmed": 411054,
           "date": "2021-07-16",
           "deaths": 8841,
-          "recovered": 277910
+          "recovered": 283386
         }
       },
       "Parana": {
@@ -266,7 +266,7 @@
           "confirmed": 575865,
           "date": "2021-07-16",
           "deaths": 18235,
-          "recovered": 489824
+          "recovered": 497027
         }
       },
       "Piaui": {
@@ -290,7 +290,7 @@
           "confirmed": 1264483,
           "date": "2021-07-16",
           "deaths": 32500,
-          "recovered": 1220164
+          "recovered": 1222612
         }
       },
       "Rio de Janeiro": {
@@ -306,7 +306,7 @@
           "confirmed": 253640,
           "date": "2021-07-16",
           "deaths": 6296,
-          "recovered": 239575
+          "recovered": 241114
         }
       },
       "Roraima": {
@@ -322,7 +322,7 @@
           "confirmed": 1086728,
           "date": "2021-07-16",
           "deaths": 17474,
-          "recovered": 1042555
+          "recovered": 1051074
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 3908279,
           "date": "2021-07-16",
           "deaths": 133901,
-          "recovered": 3554764
+          "recovered": 3562192
         }
       },
       "Sergipe": {
@@ -338,7 +338,7 @@
           "confirmed": 270077,
           "date": "2021-07-16",
           "deaths": 5846,
-          "recovered": 251350
+          "recovered": 256875
         }
       },
       "Tocantins": {
@@ -346,7 +346,7 @@
           "confirmed": 203981,
           "date": "2021-07-16",
           "deaths": 3375,
-          "recovered": 185493
+          "recovered": 187069
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555258,
+          "confirmed": 555297,
           "date": "2021-07-16",
-          "deaths": 9241,
-          "recovered": 544655
+          "deaths": 9245,
+          "recovered": 544675
         }
       },
       "Quebec": {
@@ -1059,14 +1059,6 @@
       "recovered": 157113
     }
   },
-  "Kosovo": {
-    "live": {
-      "confirmed": 107894,
-      "date": "2021-07-16",
-      "deaths": 2268,
-      "recovered": 105531
-    }
-  },
   "Kuwait": {
     "live": {
       "confirmed": 382084,
@@ -1619,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 685284,
+          "confirmed": 686219,
           "date": "2021-07-16",
-          "deaths": 12820
+          "deaths": 12829
         }
       },
       "California": {
@@ -1633,9 +1625,9 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1218824,
+          "confirmed": 1349962,
           "date": "2021-07-16",
-          "deaths": 15576
+          "deaths": 17059
         }
       },
       "Illinois": {
