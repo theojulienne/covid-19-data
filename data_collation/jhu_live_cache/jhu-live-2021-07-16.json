@@ -591,31 +591,31 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 502472,
+          "confirmed": 502486,
           "date": "2021-07-16",
-          "deaths": 10334,
-          "recovered": 490000
+          "deaths": 10333,
+          "recovered": 490200
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 649604,
+          "confirmed": 649847,
           "date": "2021-07-16",
-          "deaths": 15300,
-          "recovered": 631800
+          "deaths": 15306,
+          "recovered": 631900
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 180891,
+          "confirmed": 181017,
           "date": "2021-07-16",
-          "deaths": 3568,
+          "deaths": 3569,
           "recovered": 176600
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 108890,
+          "confirmed": 108908,
           "date": "2021-07-16",
           "deaths": 3815,
           "recovered": 104700
@@ -623,7 +623,7 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 292135,
+          "confirmed": 292286,
           "date": "2021-07-16",
           "deaths": 7563,
           "recovered": 283300
@@ -631,23 +631,23 @@
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 261998,
+          "confirmed": 262161,
           "date": "2021-07-16",
-          "deaths": 5801,
-          "recovered": 255200
+          "deaths": 5802,
+          "recovered": 255300
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 819026,
+          "confirmed": 819373,
           "date": "2021-07-16",
-          "deaths": 17236,
-          "recovered": 798900
+          "deaths": 17238,
+          "recovered": 799000
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 155951,
+          "confirmed": 155957,
           "date": "2021-07-16",
           "deaths": 3895,
           "recovered": 151200
@@ -655,17 +655,17 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286148,
+          "confirmed": 286150,
           "date": "2021-07-16",
-          "deaths": 10110,
+          "deaths": 10111,
           "recovered": 275600
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128900,
+          "confirmed": 128925,
           "date": "2021-07-16",
-          "deaths": 4359,
+          "deaths": 4360,
           "recovered": 124200
         }
       }
@@ -1127,33 +1127,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 717991,
+          "confirmed": 722391,
           "date": "2021-07-16",
-          "deaths": 35024,
+          "deaths": 35049,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 134223,
+          "confirmed": 134414,
           "date": "2021-07-16",
-          "deaths": 11128,
+          "deaths": 11130,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 267866,
+          "confirmed": 269097,
           "date": "2021-07-16",
-          "deaths": 37617,
+          "deaths": 37633,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 130981,
+          "confirmed": 131474,
           "date": "2021-07-16",
-          "deaths": 9827,
+          "deaths": 9836,
           "recovered": 0
         }
       }
@@ -1303,28 +1303,28 @@
       },
       "Punjab": {
         "live": {
-          "confirmed": 349111,
+          "confirmed": 349475,
           "date": "2021-07-16",
-          "deaths": 10852,
-          "recovered": 329203
+          "deaths": 10856,
+          "recovered": 329344
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 351006,
+          "confirmed": 352472,
           "date": "2021-07-16",
-          "deaths": 5647,
-          "recovered": 318796
+          "deaths": 5672,
+          "recovered": 319445
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 418604,
+      "confirmed": 419829,
       "date": "2021-07-16",
-      "deaths": 6661,
-      "recovered": 398300
+      "deaths": 6674,
+      "recovered": 399471
     }
   },
   "Paraguay": {
