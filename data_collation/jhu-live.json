@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156030,
+          "confirmed": 156063,
           "date": "2021-07-17",
           "deaths": 3895,
           "recovered": 151200
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 893323,
+      "confirmed": 905851,
       "date": "2021-07-17",
-      "deaths": 6728,
-      "recovered": 772542
+      "deaths": 6866,
+      "recovered": 779171
     }
   },
   "Mexico": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081539,
+      "confirmed": 1081588,
       "date": "2021-07-17",
-      "deaths": 34250,
-      "recovered": 1046691
+      "deaths": 34252,
+      "recovered": 1046719
     }
   },
   "Russia": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1349883,
+          "confirmed": 1349961,
           "date": "2021-07-17",
           "deaths": 20819
         }
