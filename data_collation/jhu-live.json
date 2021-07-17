@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 143935,
+          "confirmed": 144191,
           "date": "2021-07-17",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 136100,
+          "confirmed": 136281,
           "date": "2021-07-17",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 126757,
+          "confirmed": 126938,
           "date": "2021-07-17",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 161649,
+          "confirmed": 161753,
           "date": "2021-07-17",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 132520,
+          "confirmed": 132598,
           "date": "2021-07-17",
           "deaths": 0,
           "recovered": 0
@@ -170,7 +170,7 @@
           "confirmed": 1168377,
           "date": "2021-07-17",
           "deaths": 25108,
-          "recovered": 1130364
+          "recovered": 1133215
         }
       },
       "Ceara": {
@@ -210,7 +210,7 @@
           "confirmed": 329943,
           "date": "2021-07-17",
           "deaths": 9417,
-          "recovered": 284564
+          "recovered": 285983
         }
       },
       "Mato Grosso": {
@@ -322,7 +322,7 @@
           "confirmed": 1088880,
           "date": "2021-07-17",
           "deaths": 17520,
-          "recovered": 1051074
+          "recovered": 1053386
         }
       },
       "Sao Paulo": {
@@ -330,7 +330,7 @@
           "confirmed": 3919754,
           "date": "2021-07-17",
           "deaths": 134320,
-          "recovered": 3562192
+          "recovered": 3566058
         }
       },
       "Sergipe": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2770856,
+          "confirmed": 2771723,
           "date": "2021-07-17",
-          "deaths": 48638
+          "deaths": 48639
         }
       },
       "Florida": {
