@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 151103,
+      "confirmed": 152210,
       "date": "2021-07-17",
-      "deaths": 3910,
-      "recovered": 104397
+      "deaths": 3922,
+      "recovered": 104992
     }
   },
   "Argentina": {
@@ -387,17 +387,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555429,
+          "confirmed": 555449,
           "date": "2021-07-17",
           "deaths": 9246,
-          "recovered": 544851
+          "recovered": 544879
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 376192,
+          "confirmed": 376289,
           "date": "2021-07-17",
-          "deaths": 11235,
+          "deaths": 11236,
           "recovered": 364033
         }
       }
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 850104,
+      "confirmed": 850941,
       "date": "2021-07-17",
-      "deaths": 6444,
-      "recovered": 837587
+      "deaths": 6446,
+      "recovered": 837828
     }
   },
   "Italy": {
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 1405168,
           "date": "2021-07-17",
-          "deaths": 40501
+          "deaths": 40502
         }
       },
       "North Carolina": {

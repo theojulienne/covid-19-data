@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 376149,
-          "deaths": 11232
+          "confirmed": 376192,
+          "deaths": 11235
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1161,19 +1161,19 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 143652,
-        "deaths": 3798,
-        "recovered": 99931
+        "confirmed": 144483,
+        "deaths": 3811,
+        "recovered": 100383
       },
       "back_2week": {
-        "confirmed": 140075,
-        "deaths": 3726,
-        "recovered": 97380
+        "confirmed": 140550,
+        "deaths": 3735,
+        "recovered": 97701
       },
       "latest": {
-        "confirmed": 149906,
-        "deaths": 3895,
-        "recovered": 103809
+        "confirmed": 151103,
+        "deaths": 3910,
+        "recovered": 104397
       }
     },
     "ECU": {
@@ -1836,19 +1836,19 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 844989,
-        "deaths": 6432,
-        "recovered": 834790
+        "confirmed": 845379,
+        "deaths": 6434,
+        "recovered": 835048
       },
       "back_2week": {
-        "confirmed": 842067,
+        "confirmed": 842371,
         "deaths": 6429,
-        "recovered": 833496
+        "recovered": 833623
       },
       "latest": {
-        "confirmed": 849274,
-        "deaths": 6443,
-        "recovered": 837125
+        "confirmed": 850104,
+        "deaths": 6444,
+        "recovered": 837587
       }
     },
     "ITA": {
