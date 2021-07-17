@@ -655,7 +655,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286184,
+          "confirmed": 286204,
           "date": "2021-07-17",
           "deaths": 10115,
           "recovered": 275700
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 850941,
+      "confirmed": 850968,
       "date": "2021-07-17",
       "deaths": 6446,
-      "recovered": 837828
+      "recovered": 837840
     }
   },
   "Italy": {
