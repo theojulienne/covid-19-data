@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 422873,
+      "confirmed": 422930,
       "date": "2021-07-17",
       "deaths": 18169,
-      "recovered": 397160
+      "recovered": 397170
     }
   },
   "Burma": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 473647,
+      "confirmed": 475215,
       "date": "2021-07-17",
-      "deaths": 21899,
+      "deaths": 21933,
       "recovered": 437167
     }
   },
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277536,
+      "confirmed": 277615,
       "date": "2021-07-17",
-      "deaths": 4352,
-      "recovered": 262237
+      "deaths": 4354,
+      "recovered": 262265
     }
   },
   "France": {
