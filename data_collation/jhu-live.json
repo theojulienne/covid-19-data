@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 337970,
+      "confirmed": 338183,
       "date": "2021-07-17",
-      "deaths": 4990,
-      "recovered": 331112
+      "deaths": 4991,
+      "recovered": 331200
     }
   },
   "Bahrain": {
@@ -65,18 +65,18 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1083922,
+      "confirmed": 1092411,
       "date": "2021-07-17",
-      "deaths": 17465,
-      "recovered": 914343
+      "deaths": 17669,
+      "recovered": 923163
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 432388,
+      "confirmed": 433409,
       "date": "2021-07-17",
-      "deaths": 3306,
-      "recovered": 425907
+      "deaths": 3316,
+      "recovered": 427025
     }
   },
   "Belgium": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 304429,
+      "confirmed": 305459,
       "date": "2021-07-17",
-      "deaths": 2541,
-      "recovered": 292099
+      "deaths": 2542,
+      "recovered": 292468
     }
   },
   "Dominican Republic": {
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 650151,
+          "confirmed": 650150,
           "date": "2021-07-17",
-          "deaths": 15308,
-          "recovered": 632000
+          "deaths": 15307,
+          "recovered": 632100
         }
       },
       "Berlin": {
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 315504,
+      "confirmed": 315641,
       "date": "2021-07-17",
-      "deaths": 3585,
-      "recovered": 310329
+      "deaths": 3587,
+      "recovered": 310525
     }
   },
   "Zambia": {
