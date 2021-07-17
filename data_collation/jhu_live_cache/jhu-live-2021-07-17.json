@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205267,
+      "confirmed": 205285,
       "date": "2021-07-17",
-      "deaths": 9665,
-      "recovered": 186872
+      "deaths": 9666,
+      "recovered": 187213
     }
   },
   "Brazil": {
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 283490,
+      "confirmed": 283567,
       "date": "2021-07-17",
-      "deaths": 16425,
-      "recovered": 221516
+      "deaths": 16431,
+      "recovered": 222315
     }
   },
   "Estonia": {
@@ -681,10 +681,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 327755,
+      "confirmed": 330651,
       "date": "2021-07-17",
-      "deaths": 9834,
-      "recovered": 286201
+      "deaths": 9871,
+      "recovered": 288118
     }
   },
   "Honduras": {
@@ -1153,10 +1153,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257766,
+      "confirmed": 257842,
       "date": "2021-07-17",
-      "deaths": 6219,
-      "recovered": 250719
+      "deaths": 6222,
+      "recovered": 250798
     }
   },
   "Mongolia": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 169074,
+      "confirmed": 169206,
       "date": "2021-07-17",
       "deaths": 2126,
-      "recovered": 164662
+      "recovered": 164666
     }
   },
   "North Macedonia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 133876,
+      "confirmed": 134092,
       "date": "2021-07-17",
       "deaths": 796,
       "recovered": 17998
@@ -1313,18 +1313,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 419829,
+      "confirmed": 420916,
       "date": "2021-07-17",
-      "deaths": 6674,
-      "recovered": 399471
+      "deaths": 6688,
+      "recovered": 400592
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 442207,
+      "confirmed": 443378,
       "date": "2021-07-17",
-      "deaths": 14120,
-      "recovered": 399438
+      "deaths": 14178,
+      "recovered": 400910
     }
   },
   "Peru": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 223911,
+      "confirmed": 224044,
       "date": "2021-07-17",
       "deaths": 599,
-      "recovered": 221805
+      "recovered": 221913
     }
   },
   "Romania": {
@@ -1821,10 +1821,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 378041,
+      "confirmed": 378480,
       "date": "2021-07-17",
-      "deaths": 5865,
-      "recovered": 366690
+      "deaths": 5871,
+      "recovered": 367457
     }
   },
   "Uzbekistan": {
