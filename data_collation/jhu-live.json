@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 305459,
+      "confirmed": 306100,
       "date": "2021-07-18",
       "deaths": 2542,
-      "recovered": 292468
+      "recovered": 292825
     }
   },
   "Dominican Republic": {
@@ -599,7 +599,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 650330,
+          "confirmed": 650329,
           "date": "2021-07-18",
           "deaths": 15307,
           "recovered": 632100
@@ -655,7 +655,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286207,
+          "confirmed": 286225,
           "date": "2021-07-18",
           "deaths": 10116,
           "recovered": 275700
@@ -1853,10 +1853,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 184672,
+      "confirmed": 185649,
       "date": "2021-07-18",
-      "deaths": 3052,
-      "recovered": 169320
+      "deaths": 3084,
+      "recovered": 171699
     }
   }
 }
