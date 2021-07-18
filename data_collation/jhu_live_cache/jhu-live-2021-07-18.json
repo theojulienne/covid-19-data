@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 547386,
+      "confirmed": 547510,
       "date": "2021-07-18",
       "deaths": 3612,
-      "recovered": 483380
+      "recovered": 483462
     }
   },
   "Kenya": {
@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 147656,
+      "confirmed": 149029,
       "date": "2021-07-18",
-      "deaths": 2165,
-      "recovered": 124058
+      "deaths": 2175,
+      "recovered": 125161
     }
   },
   "Latvia": {
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 118881,
+      "confirmed": 119388,
       "date": "2021-07-18",
-      "deaths": 793,
-      "recovered": 113825
+      "deaths": 796,
+      "recovered": 114303
     }
   },
   "Venezuela": {
