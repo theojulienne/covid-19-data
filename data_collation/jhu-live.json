@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 692062,
           "date": "2021-07-18",
-          "deaths": 14709,
-          "recovered": 651311
+          "deaths": 14760,
+          "recovered": 654368
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 301645,
           "date": "2021-07-18",
-          "deaths": 9121,
-          "recovered": 287714
+          "deaths": 9130,
+          "recovered": 288208
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 144744,
           "date": "2021-07-18",
-          "deaths": 2731,
-          "recovered": 139781
+          "deaths": 2739,
+          "recovered": 140221
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1371462,
           "date": "2021-07-18",
-          "deaths": 25573,
-          "recovered": 1288803
+          "deaths": 25680,
+          "recovered": 1294627
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 246502,
           "date": "2021-07-18",
-          "deaths": 6245,
-          "recovered": 232050
+          "deaths": 6280,
+          "recovered": 233431
         }
       },
       "Santander": {
         "live": {
           "confirmed": 212380,
           "date": "2021-07-18",
-          "deaths": 6670,
-          "recovered": 199126
+          "deaths": 6707,
+          "recovered": 199998
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 366121,
           "date": "2021-07-18",
-          "deaths": 11354,
-          "recovered": 343752
+          "deaths": 11416,
+          "recovered": 345799
         }
       }
     }
