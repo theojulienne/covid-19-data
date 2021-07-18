@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 460818,
+      "confirmed": 461714,
       "date": "2021-07-18",
-      "deaths": 17406,
-      "recovered": 387979
+      "deaths": 17443,
+      "recovered": 389170
     }
   },
   "Bosnia and Herzegovina": {
@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 541893,
+      "confirmed": 547386,
       "date": "2021-07-18",
       "deaths": 3612,
-      "recovered": 480557
+      "recovered": 483380
     }
   },
   "Kenya": {
@@ -1119,33 +1119,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 726475,
+          "confirmed": 730359,
           "date": "2021-07-18",
-          "deaths": 35077,
+          "deaths": 35103,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 134675,
+          "confirmed": 134918,
           "date": "2021-07-18",
-          "deaths": 11130,
+          "deaths": 11131,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 270357,
+          "confirmed": 271572,
           "date": "2021-07-18",
-          "deaths": 37663,
+          "deaths": 37688,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 132040,
+          "confirmed": 132678,
           "date": "2021-07-18",
-          "deaths": 9840,
+          "deaths": 9866,
           "recovered": 0
         }
       }
@@ -1161,10 +1161,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 145787,
+      "confirmed": 147253,
       "date": "2021-07-18",
-      "deaths": 726,
-      "recovered": 125882
+      "deaths": 734,
+      "recovered": 130612
     }
   },
   "Morocco": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 420916,
+      "confirmed": 421957,
       "date": "2021-07-18",
-      "deaths": 6688,
-      "recovered": 400592
+      "deaths": 6697,
+      "recovered": 401758
     }
   },
   "Paraguay": {
