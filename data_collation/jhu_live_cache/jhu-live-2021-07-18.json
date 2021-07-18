@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 338183,
+      "confirmed": 338438,
       "date": "2021-07-18",
-      "deaths": 4991,
-      "recovered": 331200
+      "deaths": 4992,
+      "recovered": 332194
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1092411,
+      "confirmed": 1103989,
       "date": "2021-07-18",
-      "deaths": 17669,
-      "recovered": 923163
+      "deaths": 17894,
+      "recovered": 932008
     }
   },
   "Belarus": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 224236,
+      "confirmed": 229521,
       "date": "2021-07-18",
-      "deaths": 4769,
-      "recovered": 158969
+      "deaths": 5000,
+      "recovered": 161859
     }
   },
   "Canada": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555449,
+          "confirmed": 555546,
           "date": "2021-07-18",
-          "deaths": 9246,
-          "recovered": 544879
+          "deaths": 9249,
+          "recovered": 544956
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 146864,
+          "confirmed": 147015,
           "date": "2021-07-18",
-          "deaths": 2434,
-          "recovered": 143139
+          "deaths": 2443,
+          "recovered": 143288
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 667607,
+          "confirmed": 668136,
           "date": "2021-07-18",
-          "deaths": 17840,
-          "recovered": 644382
+          "deaths": 17881,
+          "recovered": 644789
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 118859,
+          "confirmed": 119020,
           "date": "2021-07-18",
-          "deaths": 3135,
-          "recovered": 114417
+          "deaths": 3149,
+          "recovered": 114548
         }
       }
     }
@@ -917,10 +917,10 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 1483014,
+      "confirmed": 1491712,
       "date": "2021-07-18",
-      "deaths": 17789,
-      "recovered": 1348303
+      "deaths": 17830,
+      "recovered": 1356267
     }
   },
   "Ireland": {
@@ -1195,7 +1195,7 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 198516,
+          "confirmed": 199836,
           "date": "2021-07-18",
           "deaths": 2029,
           "recovered": 0
@@ -1203,7 +1203,7 @@
       },
       "Limburg": {
         "live": {
-          "confirmed": 119123,
+          "confirmed": 119636,
           "date": "2021-07-18",
           "deaths": 1655,
           "recovered": 0
@@ -1211,7 +1211,7 @@
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 286651,
+          "confirmed": 287957,
           "date": "2021-07-18",
           "deaths": 3140,
           "recovered": 0
@@ -1219,15 +1219,15 @@
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 303717,
+          "confirmed": 306055,
           "date": "2021-07-18",
-          "deaths": 2634,
+          "deaths": 2635,
           "recovered": 0
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 115992,
+          "confirmed": 116468,
           "date": "2021-07-18",
           "deaths": 1141,
           "recovered": 0
@@ -1235,7 +1235,7 @@
       },
       "Utrecht": {
         "live": {
-          "confirmed": 139048,
+          "confirmed": 139742,
           "date": "2021-07-18",
           "deaths": 1281,
           "recovered": 0
@@ -1243,7 +1243,7 @@
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 425022,
+          "confirmed": 427379,
           "date": "2021-07-18",
           "deaths": 4293,
           "recovered": 0
@@ -1425,9 +1425,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 718465,
+      "confirmed": 718590,
       "date": "2021-07-18",
-      "deaths": 7080,
+      "deaths": 7083,
       "recovered": 0
     }
   },
