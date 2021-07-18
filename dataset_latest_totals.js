@@ -635,7 +635,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 376192,
+          "confirmed": 376289,
           "deaths": 11235
         },
         "Repatriated Travellers": {
@@ -1263,19 +1263,19 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 276871,
-        "deaths": 4342,
-        "recovered": 261933
+        "confirmed": 276984,
+        "deaths": 4343,
+        "recovered": 261979
       },
       "back_2week": {
-        "confirmed": 276323,
-        "deaths": 4327,
-        "recovered": 260737
+        "confirmed": 276368,
+        "deaths": 4330,
+        "recovered": 260949
       },
       "latest": {
-        "confirmed": 277536,
-        "deaths": 4352,
-        "recovered": 262237
+        "confirmed": 277615,
+        "deaths": 4354,
+        "recovered": 262265
       }
     },
     "FIN": {
@@ -2346,19 +2346,19 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 155770,
+        "confirmed": 155783,
         "deaths": 5487,
-        "recovered": 150123
+        "recovered": 150124
       },
       "back_2week": {
-        "confirmed": 155700,
+        "confirmed": 155706,
         "deaths": 5486,
         "recovered": 150067
       },
       "latest": {
-        "confirmed": 155882,
+        "confirmed": 155901,
         "deaths": 5487,
-        "recovered": 150159
+        "recovered": 150168
       }
     },
     "MLI": {
@@ -2516,19 +2516,19 @@ var covid19_dataset_latest_totals = {
     },
     "NAM": {
       "back_1week": {
-        "confirmed": 102373,
-        "deaths": 1883,
-        "recovered": 76102
+        "confirmed": 104099,
+        "deaths": 1911,
+        "recovered": 76871
       },
       "back_2week": {
-        "confirmed": 92869,
-        "deaths": 1586,
-        "recovered": 68710
+        "confirmed": 94047,
+        "deaths": 1626,
+        "recovered": 69672
       },
       "latest": {
-        "confirmed": 110365,
-        "deaths": 2371,
-        "recovered": 84613
+        "confirmed": 111417,
+        "deaths": 2467,
+        "recovered": 86666
       }
     },
     "NER": {

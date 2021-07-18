@@ -234,7 +234,7 @@
           "confirmed": 1900420,
           "date": "2021-07-18",
           "deaths": 48872,
-          "recovered": 1782054
+          "recovered": 1788739
         }
       },
       "Para": {
@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 376289,
+          "confirmed": 376370,
           "date": "2021-07-18",
           "deaths": 11236,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277615,
+      "confirmed": 277696,
       "date": "2021-07-18",
-      "deaths": 4354,
-      "recovered": 262265
+      "deaths": 4357,
+      "recovered": 262314
     }
   },
   "France": {
@@ -1177,10 +1177,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 111417,
+      "confirmed": 112160,
       "date": "2021-07-18",
-      "deaths": 2467,
-      "recovered": 86666
+      "deaths": 2506,
+      "recovered": 87313
     }
   },
   "Nepal": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155901,
+      "confirmed": 155922,
       "date": "2021-07-18",
       "deaths": 5487,
-      "recovered": 150168
+      "recovered": 150170
     }
   },
   "Norway": {
@@ -1331,9 +1331,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 917806,
+          "confirmed": 918784,
           "date": "2021-07-18",
-          "deaths": 87038,
+          "deaths": 87062,
           "recovered": 0
         }
       }
@@ -1611,7 +1611,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 687123,
+          "confirmed": 687998,
           "date": "2021-07-18",
           "deaths": 12839
         }
@@ -1667,7 +1667,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1405596,
+          "confirmed": 1405988,
           "date": "2021-07-18",
           "deaths": 40508
         }
