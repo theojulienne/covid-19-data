@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156066,
+          "confirmed": 156090,
           "date": "2021-07-18",
           "deaths": 3895,
           "recovered": 151200
@@ -901,10 +901,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 2832755,
+      "confirmed": 2877476,
       "date": "2021-07-18",
-      "deaths": 72489,
-      "recovered": 2232394
+      "deaths": 73582,
+      "recovered": 2261658
     }
   },
   "Iran": {
@@ -1019,10 +1019,10 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 188176,
+          "confirmed": 189184,
           "date": "2021-07-18",
           "deaths": 2252,
-          "recovered": 176353
+          "recovered": 177075
         }
       }
     }
@@ -1077,10 +1077,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 138126,
+      "confirmed": 138159,
       "date": "2021-07-18",
       "deaths": 2543,
-      "recovered": 135014
+      "recovered": 135103
     }
   },
   "Lebanon": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 258169,
+      "confirmed": 258190,
       "date": "2021-07-18",
       "deaths": 4425,
-      "recovered": 252994
+      "recovered": 253003
     }
   },
   "South Africa": {
