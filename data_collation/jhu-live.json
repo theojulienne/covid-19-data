@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 653412,
+      "confirmed": 653735,
       "date": "2021-07-18",
-      "deaths": 10728,
-      "recovered": 639422
+      "deaths": 10729,
+      "recovered": 639573
     }
   },
   "Azerbaijan": {
@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 361488,
+      "confirmed": 361595,
       "date": "2021-07-18",
-      "deaths": 8236,
-      "recovered": 352529
+      "deaths": 8238,
+      "recovered": 352613
     }
   },
   "Cuba": {
@@ -909,10 +909,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3501079,
+      "confirmed": 3523263,
       "date": "2021-07-18",
-      "deaths": 86966,
-      "recovered": 3118349
+      "deaths": 87161,
+      "recovered": 3135060
     }
   },
   "Iraq": {
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 905851,
+      "confirmed": 916561,
       "date": "2021-07-18",
-      "deaths": 6866,
-      "recovered": 779171
+      "deaths": 7019,
+      "recovered": 784949
     }
   },
   "Mexico": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081588,
+      "confirmed": 1081632,
       "date": "2021-07-18",
-      "deaths": 34252,
-      "recovered": 1046719
+      "deaths": 34253,
+      "recovered": 1046739
     }
   },
   "Russia": {
@@ -1433,7 +1433,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 392034,
+      "confirmed": 392100,
       "date": "2021-07-18",
       "deaths": 12524,
       "recovered": 255300
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1350608,
+          "confirmed": 1350632,
           "date": "2021-07-18",
           "deaths": 20827
         }
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 659449,
+      "confirmed": 660978,
       "date": "2021-07-18",
-      "deaths": 1896,
-      "recovered": 637267
+      "deaths": 1898,
+      "recovered": 638771
     }
   },
   "United Kingdom": {
