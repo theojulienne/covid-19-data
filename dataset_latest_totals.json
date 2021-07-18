@@ -2261,19 +2261,19 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 257343,
-        "deaths": 6207,
-        "recovered": 250307
+        "confirmed": 257419,
+        "deaths": 6208,
+        "recovered": 250384
       },
       "back_2week": {
-        "confirmed": 256870,
-        "deaths": 6194,
-        "recovered": 249825
+        "confirmed": 256931,
+        "deaths": 6195,
+        "recovered": 249888
       },
       "latest": {
-        "confirmed": 257842,
-        "deaths": 6222,
-        "recovered": 250798
+        "confirmed": 257903,
+        "deaths": 6224,
+        "recovered": 250861
       }
     },
     "MDG": {

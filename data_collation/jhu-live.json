@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555570,
+          "confirmed": 555589,
           "date": "2021-07-18",
-          "deaths": 9249,
-          "recovered": 544983
+          "deaths": 9250,
+          "recovered": 544995
         }
       },
       "Quebec": {
@@ -1153,10 +1153,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257903,
+      "confirmed": 257946,
       "date": "2021-07-18",
-      "deaths": 6224,
-      "recovered": 250861
+      "deaths": 6226,
+      "recovered": 250913
     }
   },
   "Mongolia": {
