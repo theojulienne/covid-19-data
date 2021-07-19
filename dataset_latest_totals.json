@@ -2227,19 +2227,19 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 541405,
-        "deaths": 9360,
-        "recovered": 523998
+        "confirmed": 542462,
+        "deaths": 9369,
+        "recovered": 524826
       },
       "back_2week": {
-        "confirmed": 533945,
-        "deaths": 9315,
-        "recovered": 519139
+        "confirmed": 534550,
+        "deaths": 9319,
+        "recovered": 519696
       },
       "latest": {
-        "confirmed": 555488,
-        "deaths": 9434,
-        "recovered": 530801
+        "confirmed": 557632,
+        "deaths": 9450,
+        "recovered": 531649
       }
     },
     "MCO": {

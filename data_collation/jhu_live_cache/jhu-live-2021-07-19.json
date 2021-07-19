@@ -170,7 +170,7 @@
           "confirmed": 1173423,
           "date": "2021-07-19",
           "deaths": 25197,
-          "recovered": 1137569
+          "recovered": 1139183
         }
       },
       "Ceara": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555699,
+          "confirmed": 555803,
           "date": "2021-07-19",
-          "deaths": 9251,
-          "recovered": 545123
+          "deaths": 9255,
+          "recovered": 545205
         }
       },
       "Quebec": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 852745,
+      "confirmed": 852943,
       "date": "2021-07-19",
       "deaths": 6450,
-      "recovered": 838822
+      "recovered": 838849
     }
   },
   "Italy": {
@@ -1169,10 +1169,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 557632,
+      "confirmed": 558785,
       "date": "2021-07-19",
-      "deaths": 9450,
-      "recovered": 531649
+      "deaths": 9466,
+      "recovered": 533229
     }
   },
   "Namibia": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2779822,
+          "confirmed": 2780225,
           "date": "2021-07-19",
           "deaths": 48678
         }
@@ -1702,9 +1702,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 156182,
+          "confirmed": 156706,
           "date": "2021-07-19",
-          "deaths": 926
+          "deaths": 927
         }
       },
       "Washington": {
