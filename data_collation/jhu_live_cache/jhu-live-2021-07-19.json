@@ -1161,10 +1161,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 147253,
+      "confirmed": 148424,
       "date": "2021-07-19",
-      "deaths": 734,
-      "recovered": 130612
+      "deaths": 740,
+      "recovered": 134101
     }
   },
   "Morocco": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 140560,
+          "confirmed": 140818,
           "date": "2021-07-19",
-          "deaths": 4385,
-          "recovered": 134044
+          "deaths": 4386,
+          "recovered": 134144
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 350259,
+          "confirmed": 350618,
           "date": "2021-07-19",
-          "deaths": 10871,
-          "recovered": 329627
+          "deaths": 10881,
+          "recovered": 329756
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 355462,
+          "confirmed": 356929,
           "date": "2021-07-19",
-          "deaths": 5702,
-          "recovered": 320215
+          "deaths": 5720,
+          "recovered": 320600
         }
       }
     }
