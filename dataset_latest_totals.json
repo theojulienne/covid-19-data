@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 1428162,
-        "deaths": 26389,
+        "deaths": 26396,
         "recovered": 1395951
       },
       "back_2week": {
         "confirmed": 1424784,
-        "deaths": 26312,
+        "deaths": 26316,
         "recovered": 1391557
       },
       "latest": {
         "confirmed": 1430740,
-        "deaths": 26452,
+        "deaths": 26457,
         "recovered": 1398940
       },
       "states": {
@@ -628,7 +628,7 @@
         },
         "Ontario": {
           "confirmed": 555589,
-          "deaths": 9246
+          "deaths": 9250
         },
         "Prince Edward Island": {
           "confirmed": 208,
@@ -1314,19 +1314,19 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5737910,
-        "deaths": 110379,
-        "recovered": 341218
+        "confirmed": 5742166,
+        "deaths": 110383,
+        "recovered": 341237
       },
       "back_2week": {
-        "confirmed": 5715282,
-        "deaths": 110230,
-        "recovered": 340889
+        "confirmed": 5717831,
+        "deaths": 110239,
+        "recovered": 340920
       },
       "latest": {
-        "confirmed": 5782231,
-        "deaths": 110502,
-        "recovered": 341351
+        "confirmed": 5794763,
+        "deaths": 110507,
+        "recovered": 341381
       },
       "states": {
         "French Guiana": {
@@ -2465,17 +2465,17 @@
     },
     "MUS": {
       "back_1week": {
-        "confirmed": 1858,
+        "confirmed": 2131,
         "deaths": 18,
         "recovered": 1534
       },
       "back_2week": {
-        "confirmed": 1858,
+        "confirmed": 1913,
         "deaths": 18,
         "recovered": 1534
       },
       "latest": {
-        "confirmed": 1858,
+        "confirmed": 2364,
         "deaths": 18,
         "recovered": 1534
       }
@@ -3950,19 +3950,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2179297,
-        "deaths": 64138,
-        "recovered": 1904107
+        "confirmed": 2195599,
+        "deaths": 64289,
+        "recovered": 1922601
       },
       "back_2week": {
-        "confirmed": 2046311,
-        "deaths": 61507,
-        "recovered": 1792361
+        "confirmed": 2062896,
+        "deaths": 61840,
+        "recovered": 1808082
       },
       "latest": {
-        "confirmed": 2283880,
-        "deaths": 66676,
-        "recovered": 2028881
+        "confirmed": 2295095,
+        "deaths": 66859,
+        "recovered": 2050164
       }
     },
     "ZMB": {
