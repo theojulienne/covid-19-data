@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 461714,
+      "confirmed": 462154,
       "date": "2021-07-19",
-      "deaths": 17443,
-      "recovered": 389170
+      "deaths": 17458,
+      "recovered": 390745
     }
   },
   "Bosnia and Herzegovina": {
@@ -591,7 +591,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 502844,
+          "confirmed": 502888,
           "date": "2021-07-19",
           "deaths": 10339,
           "recovered": 490600
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 650329,
+          "confirmed": 650434,
           "date": "2021-07-19",
           "deaths": 15307,
-          "recovered": 632100
+          "recovered": 632400
         }
       },
       "Berlin": {
@@ -615,42 +615,42 @@
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 108932,
+          "confirmed": 108945,
           "date": "2021-07-19",
           "deaths": 3815,
-          "recovered": 104700
+          "recovered": 104800
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 292622,
+          "confirmed": 292660,
           "date": "2021-07-19",
-          "deaths": 7564,
-          "recovered": 283300
+          "deaths": 7565,
+          "recovered": 283400
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 262486,
+          "confirmed": 262530,
           "date": "2021-07-19",
           "deaths": 5804,
-          "recovered": 255500
+          "recovered": 255600
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 820129,
+          "confirmed": 820285,
           "date": "2021-07-19",
           "deaths": 17243,
-          "recovered": 799200
+          "recovered": 799500
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156090,
+          "confirmed": 156091,
           "date": "2021-07-19",
           "deaths": 3895,
-          "recovered": 151200
+          "recovered": 151300
         }
       },
       "Sachsen": {
@@ -663,10 +663,10 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128944,
+          "confirmed": 128950,
           "date": "2021-07-19",
           "deaths": 4360,
-          "recovered": 124200
+          "recovered": 124300
         }
       }
     }
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 177951,
+      "confirmed": 179203,
       "date": "2021-07-19",
-      "deaths": 2057,
-      "recovered": 158953
+      "deaths": 2058,
+      "recovered": 159630
     }
   },
   "Kuwait": {
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 291716,
+      "confirmed": 292779,
       "date": "2021-07-19",
-      "deaths": 3362,
-      "recovered": 274522
+      "deaths": 3377,
+      "recovered": 275712
     }
   },
   "West Bank and Gaza": {
