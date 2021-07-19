@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 137853,
+      "confirmed": 141489,
       "date": "2021-07-19",
-      "deaths": 5983,
+      "deaths": 6213,
       "recovered": 82586
     }
   },
@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 149029,
+      "confirmed": 150316,
       "date": "2021-07-19",
-      "deaths": 2175,
-      "recovered": 125161
+      "deaths": 2186,
+      "recovered": 126450
     }
   },
   "Latvia": {
@@ -1093,10 +1093,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 221495,
+      "confirmed": 224920,
       "date": "2021-07-19",
-      "deaths": 3281,
-      "recovered": 183436
+      "deaths": 3299,
+      "recovered": 184053
     }
   },
   "Lithuania": {
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 916561,
+      "confirmed": 927533,
       "date": "2021-07-19",
-      "deaths": 7019,
-      "recovered": 784949
+      "deaths": 7148,
+      "recovered": 791388
     }
   },
   "Mexico": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081632,
+      "confirmed": 1081678,
       "date": "2021-07-19",
-      "deaths": 34253,
-      "recovered": 1046739
+      "deaths": 34254,
+      "recovered": 1046776
     }
   },
   "Russia": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 707976,
       "date": "2021-07-19",
-      "deaths": 10902,
+      "deaths": 10903,
       "recovered": 317600
     }
   },
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1351845,
+          "confirmed": 1351866,
           "date": "2021-07-19",
           "deaths": 20829
         }
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 660978,
+      "confirmed": 662486,
       "date": "2021-07-19",
-      "deaths": 1898,
-      "recovered": 638771
+      "deaths": 1900,
+      "recovered": 640248
     }
   },
   "United Kingdom": {
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 119388,
+      "confirmed": 119973,
       "date": "2021-07-19",
-      "deaths": 796,
-      "recovered": 114303
+      "deaths": 801,
+      "recovered": 114865
     }
   },
   "Venezuela": {
