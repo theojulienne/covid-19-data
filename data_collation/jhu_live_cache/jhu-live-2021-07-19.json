@@ -226,7 +226,7 @@
           "confirmed": 348293,
           "date": "2021-07-19",
           "deaths": 8680,
-          "recovered": 330412
+          "recovered": 331811
         }
       },
       "Minas Gerais": {
@@ -346,7 +346,7 @@
           "confirmed": 205064,
           "date": "2021-07-19",
           "deaths": 3408,
-          "recovered": 187069
+          "recovered": 187915
         }
       }
     }
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555698,
+          "confirmed": 555699,
           "date": "2021-07-19",
           "deaths": 9251,
           "recovered": 545123
@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 376370,
+          "confirmed": 376431,
           "date": "2021-07-19",
           "deaths": 11236,
           "recovered": 364033
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2778054,
+          "confirmed": 2779822,
           "date": "2021-07-19",
           "deaths": 48678
         }
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1406384,
+          "confirmed": 1406699,
           "date": "2021-07-19",
-          "deaths": 40510
+          "deaths": 40511
         }
       },
       "North Carolina": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 246342,
+          "confirmed": 246432,
           "date": "2021-07-19",
           "deaths": 3746
         }
@@ -1716,7 +1716,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 118512,
+          "confirmed": 118675,
           "date": "2021-07-19",
           "deaths": 1436
         }
