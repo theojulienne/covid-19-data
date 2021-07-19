@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 153309,
+      "confirmed": 154486,
       "date": "2021-07-19",
-      "deaths": 3938,
-      "recovered": 105604
+      "deaths": 3956,
+      "recovered": 106337
     }
   },
   "Argentina": {
@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 267882,
+      "confirmed": 267949,
       "date": "2021-07-19",
       "deaths": 1380,
-      "recovered": 265638
+      "recovered": 265759
     }
   },
   "Bangladesh": {
@@ -298,7 +298,7 @@
           "confirmed": 999906,
           "date": "2021-07-19",
           "deaths": 57578,
-          "recovered": 927931
+          "recovered": 933640
         }
       },
       "Rondonia": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 422965,
+      "confirmed": 423078,
       "date": "2021-07-19",
-      "deaths": 18174,
-      "recovered": 397174
+      "deaths": 18177,
+      "recovered": 397363
     }
   },
   "Burma": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 232676,
+          "confirmed": 232806,
           "date": "2021-07-19",
-          "deaths": 2314,
-          "recovered": 229783
+          "deaths": 2316,
+          "recovered": 229885
         }
       },
       "British Columbia": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 337575,
+      "confirmed": 337738,
       "date": "2021-07-19",
       "deaths": 3916,
-      "recovered": 279714
+      "recovered": 280241
     }
   },
   "Ecuador": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277696,
+      "confirmed": 277780,
       "date": "2021-07-19",
       "deaths": 4357,
-      "recovered": 262314
+      "recovered": 262457
     }
   },
   "France": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135791,
+          "confirmed": 135938,
           "date": "2021-07-19",
-          "deaths": 3786
+          "deaths": 3787
         }
       },
       "Michigan": {
