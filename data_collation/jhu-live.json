@@ -202,7 +202,7 @@
           "confirmed": 709656,
           "date": "2021-07-19",
           "deaths": 20063,
-          "recovered": 678006
+          "recovered": 678671
         }
       },
       "Maranhao": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555664,
+          "confirmed": 555678,
           "date": "2021-07-19",
           "deaths": 9250,
-          "recovered": 545087
+          "recovered": 545097
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 147015,
+          "confirmed": 147117,
           "date": "2021-07-19",
           "deaths": 2443,
-          "recovered": 143288
+          "recovered": 143482
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 668136,
+          "confirmed": 668479,
           "date": "2021-07-19",
-          "deaths": 17881,
-          "recovered": 644789
+          "deaths": 17905,
+          "recovered": 645469
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 119020,
+          "confirmed": 119097,
           "date": "2021-07-19",
           "deaths": 3149,
-          "recovered": 114548
+          "recovered": 114752
         }
       }
     }
@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 281887,
+      "confirmed": 288392,
       "date": "2021-07-19",
-      "deaths": 1905,
-      "recovered": 241314
+      "deaths": 1966,
+      "recovered": 251795
     }
   },
   "Czechia": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 502927,
+          "confirmed": 502993,
           "date": "2021-07-19",
-          "deaths": 10339,
+          "deaths": 10346,
           "recovered": 490700
         }
       },
@@ -673,9 +673,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 457312,
+      "confirmed": 459146,
       "date": "2021-07-19",
-      "deaths": 12826,
+      "deaths": 12834,
       "recovered": 93764
     }
   },
@@ -925,7 +925,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 284510,
+      "confirmed": 285581,
       "date": "2021-07-19",
       "deaths": 5018,
       "recovered": 23364
@@ -1153,10 +1153,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 257946,
+      "confirmed": 258007,
       "date": "2021-07-19",
-      "deaths": 6226,
-      "recovered": 250913
+      "deaths": 6227,
+      "recovered": 250957
     }
   },
   "Mongolia": {
@@ -1177,10 +1177,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 112160,
+      "confirmed": 112824,
       "date": "2021-07-19",
-      "deaths": 2506,
-      "recovered": 87313
+      "deaths": 2532,
+      "recovered": 87778
     }
   },
   "Nepal": {
@@ -1653,7 +1653,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 125762,
+          "confirmed": 125842,
           "date": "2021-07-19",
           "deaths": 1794
         }
