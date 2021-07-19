@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 306100,
+      "confirmed": 306944,
       "date": "2021-07-19",
       "deaths": 2542,
-      "recovered": 292825
+      "recovered": 293230
     }
   },
   "Dominican Republic": {
@@ -599,7 +599,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 650434,
+          "confirmed": 650457,
           "date": "2021-07-19",
           "deaths": 15307,
           "recovered": 632400
@@ -647,7 +647,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156091,
+          "confirmed": 156169,
           "date": "2021-07-19",
           "deaths": 3895,
           "recovered": 151300
@@ -655,9 +655,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286225,
+          "confirmed": 286229,
           "date": "2021-07-19",
-          "deaths": 10116,
+          "deaths": 10119,
           "recovered": 275700
         }
       },
@@ -909,10 +909,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3523263,
+      "confirmed": 3548704,
       "date": "2021-07-19",
-      "deaths": 87161,
-      "recovered": 3135060
+      "deaths": 87374,
+      "recovered": 3152653
     }
   },
   "Iraq": {
