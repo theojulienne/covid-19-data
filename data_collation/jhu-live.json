@@ -170,7 +170,7 @@
           "confirmed": 1173423,
           "date": "2021-07-19",
           "deaths": 25197,
-          "recovered": 1133215
+          "recovered": 1137569
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 909020,
           "date": "2021-07-19",
           "deaths": 23202,
-          "recovered": 636082
+          "recovered": 637167
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 533762,
           "date": "2021-07-19",
           "deaths": 11716,
-          "recovered": 507679
+          "recovered": 510030
         }
       },
       "Goias": {
@@ -202,7 +202,7 @@
           "confirmed": 709656,
           "date": "2021-07-19",
           "deaths": 20063,
-          "recovered": 677174
+          "recovered": 678006
         }
       },
       "Maranhao": {
@@ -218,7 +218,7 @@
           "confirmed": 470737,
           "date": "2021-07-19",
           "deaths": 12252,
-          "recovered": 448574
+          "recovered": 449748
         }
       },
       "Mato Grosso do Sul": {
@@ -242,7 +242,7 @@
           "confirmed": 566090,
           "date": "2021-07-19",
           "deaths": 15824,
-          "recovered": 529155
+          "recovered": 529988
         }
       },
       "Paraiba": {
@@ -274,7 +274,7 @@
           "confirmed": 305231,
           "date": "2021-07-19",
           "deaths": 6746,
-          "recovered": 297403
+          "recovered": 298193
         }
       },
       "Rio Grande do Norte": {
@@ -290,7 +290,7 @@
           "confirmed": 1271270,
           "date": "2021-07-19",
           "deaths": 32642,
-          "recovered": 1222612
+          "recovered": 1228419
         }
       },
       "Rio de Janeiro": {
@@ -330,7 +330,7 @@
           "confirmed": 3939632,
           "date": "2021-07-19",
           "deaths": 134803,
-          "recovered": 3566058
+          "recovered": 3592632
         }
       },
       "Sergipe": {
