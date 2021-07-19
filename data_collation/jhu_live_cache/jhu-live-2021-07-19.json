@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 385762,
+      "confirmed": 386869,
       "date": "2021-07-19",
-      "deaths": 2221,
-      "recovered": 366935
+      "deaths": 2238,
+      "recovered": 368420
     }
   },
   "Kyrgyzstan": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155922,
+      "confirmed": 155931,
       "date": "2021-07-19",
       "deaths": 5487,
-      "recovered": 150170
+      "recovered": 150223
     }
   },
   "Norway": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 224278,
+      "confirmed": 224402,
       "date": "2021-07-19",
       "deaths": 599,
-      "recovered": 222105
+      "recovered": 222257
     }
   },
   "Romania": {
@@ -1601,17 +1601,17 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5529719,
+      "confirmed": 5537386,
       "date": "2021-07-19",
-      "deaths": 50554,
-      "recovered": 5386587
+      "deaths": 50604,
+      "recovered": 5390739
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 687998,
+          "confirmed": 688837,
           "date": "2021-07-19",
           "deaths": 12839
         }
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1352603,
+          "confirmed": 1352837,
           "date": "2021-07-19",
           "deaths": 20830
         }
