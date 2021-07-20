@@ -146,7 +146,7 @@
           "confirmed": 226165,
           "date": "2021-07-20",
           "deaths": 5656,
-          "recovered": 216352
+          "recovered": 218297
         }
       },
       "Amapa": {
@@ -186,7 +186,7 @@
           "confirmed": 442223,
           "date": "2021-07-20",
           "deaths": 9491,
-          "recovered": 424658
+          "recovered": 426300
         }
       },
       "Espirito Santo": {
@@ -258,7 +258,7 @@
           "confirmed": 1347283,
           "date": "2021-07-20",
           "deaths": 33813,
-          "recovered": 954790
+          "recovered": 967457
         }
       },
       "Pernambuco": {
@@ -266,7 +266,7 @@
           "confirmed": 579425,
           "date": "2021-07-20",
           "deaths": 18342,
-          "recovered": 497027
+          "recovered": 500584
         }
       },
       "Piaui": {
@@ -290,7 +290,7 @@
           "confirmed": 1271486,
           "date": "2021-07-20",
           "deaths": 32669,
-          "recovered": 1228419
+          "recovered": 1229785
         }
       },
       "Rio de Janeiro": {
@@ -330,7 +330,7 @@
           "confirmed": 3942776,
           "date": "2021-07-20",
           "deaths": 134900,
-          "recovered": 3592632
+          "recovered": 3608391
         }
       },
       "Sergipe": {
@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 277974,
+      "confirmed": 281604,
       "date": "2021-07-20",
-      "deaths": 7391,
-      "recovered": 95311
+      "deaths": 7482,
+      "recovered": 95839
     }
   },
   "Hungary": {
@@ -1161,10 +1161,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 148424,
+      "confirmed": 149733,
       "date": "2021-07-20",
-      "deaths": 740,
-      "recovered": 134101
+      "deaths": 745,
+      "recovered": 137602
     }
   },
   "Morocco": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 140818,
+          "confirmed": 140962,
           "date": "2021-07-20",
-          "deaths": 4386,
-          "recovered": 134144
+          "deaths": 4391,
+          "recovered": 134285
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 350618,
+          "confirmed": 351000,
           "date": "2021-07-20",
-          "deaths": 10881,
-          "recovered": 329756
+          "deaths": 10892,
+          "recovered": 329875
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 356929,
+          "confirmed": 358176,
           "date": "2021-07-20",
-          "deaths": 5720,
-          "recovered": 320600
+          "deaths": 5737,
+          "recovered": 321093
         }
       }
     }

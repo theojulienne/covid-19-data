@@ -1666,14 +1666,14 @@
     },
     "HND": {
       "back_1week": {
-        "confirmed": 274478,
-        "deaths": 7259,
-        "recovered": 94391
+        "confirmed": 274977,
+        "deaths": 7288,
+        "recovered": 94540
       },
       "back_2week": {
-        "confirmed": 267858,
-        "deaths": 7089,
-        "recovered": 93204
+        "confirmed": 269000,
+        "deaths": 7129,
+        "recovered": 93480
       },
       "latest": {
         "confirmed": 277974,
@@ -2414,9 +2414,9 @@
     },
     "MNG": {
       "back_1week": {
-        "confirmed": 137788,
-        "deaths": 684,
-        "recovered": 103666
+        "confirmed": 140530,
+        "deaths": 699,
+        "recovered": 111064
       },
       "back_2week": {
         "confirmed": 126811,
