@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 653998,
+      "confirmed": 654314,
       "date": "2021-07-20",
       "deaths": 10729,
-      "recovered": 639700
+      "recovered": 639831
     }
   },
   "Azerbaijan": {
@@ -1019,7 +1019,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 189911,
+          "confirmed": 191298,
           "date": "2021-07-20",
           "deaths": 2253,
           "recovered": 177854
@@ -1349,10 +1349,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2881491,
+      "confirmed": 2881594,
       "date": "2021-07-20",
-      "deaths": 75215,
-      "recovered": 2653034
+      "deaths": 75219,
+      "recovered": 2652994
     }
   },
   "Portugal": {
@@ -1383,34 +1383,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1467142,
+          "confirmed": 1470330,
           "date": "2021-07-20",
-          "deaths": 24484,
-          "recovered": 1288984
+          "deaths": 24585,
+          "recovered": 1296952
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 362558,
+          "confirmed": 365036,
           "date": "2021-07-20",
-          "deaths": 6906,
-          "recovered": 291555
+          "deaths": 6928,
+          "recovered": 293502
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 134134,
+          "confirmed": 134661,
           "date": "2021-07-20",
-          "deaths": 4734,
-          "recovered": 122454
+          "deaths": 4763,
+          "recovered": 122859
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 505573,
+          "confirmed": 507507,
           "date": "2021-07-20",
-          "deaths": 18326,
-          "recovered": 481000
+          "deaths": 18424,
+          "recovered": 482894
         }
       }
     }
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 258199,
+      "confirmed": 258287,
       "date": "2021-07-20",
       "deaths": 4425,
-      "recovered": 253011
+      "recovered": 253059
     }
   },
   "South Africa": {
