@@ -333,19 +333,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 1021189,
-        "deaths": 16419,
-        "recovered": 874501
+        "confirmed": 1034957,
+        "deaths": 16639,
+        "recovered": 881521
       },
       "back_2week": {
-        "confirmed": 944917,
-        "deaths": 15065,
-        "recovered": 833897
+        "confirmed": 954881,
+        "deaths": 15229,
+        "recovered": 839082
       },
       "latest": {
-        "confirmed": 1103989,
-        "deaths": 17894,
-        "recovered": 932008
+        "confirmed": 1117310,
+        "deaths": 18125,
+        "recovered": 941343
       }
     },
     "BGR": {
@@ -401,9 +401,9 @@ var covid19_dataset_latest_totals = {
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 205145,
+        "confirmed": 205181,
         "deaths": 9656,
-        "recovered": 184999
+        "recovered": 185717
       },
       "back_2week": {
         "confirmed": 205047,
@@ -411,26 +411,26 @@ var covid19_dataset_latest_totals = {
         "recovered": 183663
       },
       "latest": {
-        "confirmed": 205285,
+        "confirmed": 205313,
         "deaths": 9666,
-        "recovered": 187213
+        "recovered": 187885
       }
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 427906,
-        "deaths": 3257,
-        "recovered": 421305
+        "confirmed": 428595,
+        "deaths": 3266,
+        "recovered": 421842
       },
       "back_2week": {
-        "confirmed": 421350,
-        "deaths": 3185,
-        "recovered": 414460
+        "confirmed": 421964,
+        "deaths": 3194,
+        "recovered": 414948
       },
       "latest": {
-        "confirmed": 434362,
-        "deaths": 3326,
-        "recovered": 428202
+        "confirmed": 435020,
+        "deaths": 3334,
+        "recovered": 428682
       }
     },
     "BLZ": {
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 299223,
+        "confirmed": 300071,
         "deaths": 2539,
-        "recovered": 290372
+        "recovered": 290555
       },
       "back_2week": {
-        "confirmed": 295317,
+        "confirmed": 295654,
         "deaths": 2537,
-        "recovered": 289066
+        "recovered": 289221
       },
       "latest": {
-        "confirmed": 306100,
+        "confirmed": 306944,
         "deaths": 2542,
-        "recovered": 292825
+        "recovered": 293230
       },
       "states": {
         "Faroe Islands": {
