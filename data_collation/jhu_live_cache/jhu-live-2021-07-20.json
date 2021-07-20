@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 154486,
+      "confirmed": 155784,
       "date": "2021-07-20",
-      "deaths": 3956,
-      "recovered": 106337
+      "deaths": 3979,
+      "recovered": 107041
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555866,
+          "confirmed": 555871,
           "date": "2021-07-20",
           "deaths": 9255,
-          "recovered": 545305
+          "recovered": 545331
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 147117,
+          "confirmed": 147194,
           "date": "2021-07-20",
           "deaths": 2443,
-          "recovered": 143482
+          "recovered": 143674
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 668479,
+          "confirmed": 668727,
           "date": "2021-07-20",
-          "deaths": 17905,
-          "recovered": 645469
+          "deaths": 17934,
+          "recovered": 646113
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 119097,
+          "confirmed": 119182,
           "date": "2021-07-20",
           "deaths": 3149,
-          "recovered": 114752
+          "recovered": 114960
         }
       }
     }
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5796453,
+      "confirmed": 5814442,
       "date": "2021-07-20",
-      "deaths": 110519,
-      "recovered": 341615
+      "deaths": 110548,
+      "recovered": 342030
     }
   },
   "Georgia": {
@@ -1045,10 +1045,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 193189,
+      "confirmed": 193807,
       "date": "2021-07-20",
-      "deaths": 3783,
-      "recovered": 182921
+      "deaths": 3800,
+      "recovered": 183211
     }
   },
   "Korea, South": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2780225,
+          "confirmed": 2784058,
           "date": "2021-07-20",
-          "deaths": 48678
+          "deaths": 48682
         }
       },
       "Florida": {
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 559767,
+          "confirmed": 559884,
           "date": "2021-07-20",
-          "deaths": 10547
+          "deaths": 10550
         }
       },
       "Massachusetts": {
@@ -1667,7 +1667,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1407179,
+          "confirmed": 1407548,
           "date": "2021-07-20",
           "deaths": 40515
         }

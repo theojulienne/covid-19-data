@@ -1161,19 +1161,19 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 146064,
-        "deaths": 3836,
-        "recovered": 101430
+        "confirmed": 146942,
+        "deaths": 3851,
+        "recovered": 102010
       },
       "back_2week": {
-        "confirmed": 141471,
-        "deaths": 3755,
-        "recovered": 98387
+        "confirmed": 141966,
+        "deaths": 3765,
+        "recovered": 98748
       },
       "latest": {
-        "confirmed": 153309,
-        "deaths": 3938,
-        "recovered": 105604
+        "confirmed": 154486,
+        "deaths": 3956,
+        "recovered": 106337
       }
     },
     "ECU": {
@@ -1314,19 +1314,19 @@ var covid19_dataset_latest_totals = {
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 5742166,
-        "deaths": 110383,
-        "recovered": 341237
+        "confirmed": 5742783,
+        "deaths": 110406,
+        "recovered": 341520
       },
       "back_2week": {
-        "confirmed": 5717831,
-        "deaths": 110239,
-        "recovered": 340920
+        "confirmed": 5718270,
+        "deaths": 110270,
+        "recovered": 341121
       },
       "latest": {
-        "confirmed": 5794763,
-        "deaths": 110507,
-        "recovered": 341381
+        "confirmed": 5796453,
+        "deaths": 110519,
+        "recovered": 341615
       },
       "states": {
         "French Guiana": {
@@ -1938,19 +1938,19 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 188754,
-        "deaths": 3722,
-        "recovered": 179520
+        "confirmed": 188942,
+        "deaths": 3723,
+        "recovered": 179861
       },
       "back_2week": {
-        "confirmed": 185868,
-        "deaths": 3675,
-        "recovered": 127625
+        "confirmed": 186053,
+        "deaths": 3690,
+        "recovered": 128811
       },
       "latest": {
-        "confirmed": 192758,
-        "deaths": 3775,
-        "recovered": 182326
+        "confirmed": 193189,
+        "deaths": 3783,
+        "recovered": 182921
       }
     },
     "KGZ": {
