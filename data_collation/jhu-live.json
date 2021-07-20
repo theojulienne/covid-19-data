@@ -387,15 +387,15 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 555871,
+          "confirmed": 555885,
           "date": "2021-07-20",
           "deaths": 9255,
-          "recovered": 545331
+          "recovered": 545340
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 376431,
+          "confirmed": 376416,
           "date": "2021-07-20",
           "deaths": 11236,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277780,
+      "confirmed": 277877,
       "date": "2021-07-20",
-      "deaths": 4357,
-      "recovered": 262457
+      "deaths": 4359,
+      "recovered": 262550
     }
   },
   "France": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 286419,
+      "confirmed": 287973,
       "date": "2021-07-20",
-      "deaths": 3827,
-      "recovered": 261848
+      "deaths": 3870,
+      "recovered": 262828
     }
   },
   "Sweden": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 285947,
+          "confirmed": 286328,
           "date": "2021-07-20",
-          "deaths": 7657
+          "deaths": 7661
         }
       },
       "Minnesota": {
@@ -1660,9 +1660,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 270421,
+          "confirmed": 271310,
           "date": "2021-07-20",
-          "deaths": 4566
+          "deaths": 4565
         }
       },
       "New York": {
@@ -1681,16 +1681,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 246432,
+          "confirmed": 246599,
           "date": "2021-07-20",
-          "deaths": 3746
+          "deaths": 3749
         }
       },
       "Pennsylvania": {
         "live": {
           "confirmed": 155608,
           "date": "2021-07-20",
-          "deaths": 3774
+          "deaths": 3776
         }
       },
       "Texas": {
@@ -1716,7 +1716,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 118675,
+          "confirmed": 118784,
           "date": "2021-07-20",
           "deaths": 1436
         }
