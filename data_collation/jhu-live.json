@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 141489,
+      "confirmed": 142414,
       "date": "2021-07-20",
-      "deaths": 6213,
+      "deaths": 6266,
       "recovered": 82586
     }
   },
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 927533,
+      "confirmed": 939899,
       "date": "2021-07-20",
-      "deaths": 7148,
-      "recovered": 791388
+      "deaths": 7241,
+      "recovered": 798955
     }
   },
   "Mexico": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1081678,
+      "confirmed": 1081773,
       "date": "2021-07-20",
-      "deaths": 34254,
-      "recovered": 1046776
+      "deaths": 34258,
+      "recovered": 1046881
     }
   },
   "Russia": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1353243,
+          "confirmed": 1353359,
           "date": "2021-07-20",
           "deaths": 20831
         }
