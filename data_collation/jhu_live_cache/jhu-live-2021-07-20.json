@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 234710,
+      "confirmed": 240570,
       "date": "2021-07-20",
-      "deaths": 5281,
-      "recovered": 164670
+      "deaths": 5567,
+      "recovered": 167171
     }
   },
   "Canada": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 337738,
+      "confirmed": 337975,
       "date": "2021-07-20",
-      "deaths": 3916,
-      "recovered": 280241
+      "deaths": 3928,
+      "recovered": 280645
     }
   },
   "Ecuador": {
@@ -655,9 +655,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286228,
+          "confirmed": 286252,
           "date": "2021-07-20",
-          "deaths": 10120,
+          "deaths": 10121,
           "recovered": 275700
         }
       },
