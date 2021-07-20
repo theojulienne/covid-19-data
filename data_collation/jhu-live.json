@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 144191,
+          "confirmed": 144910,
           "date": "2021-07-20",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 136281,
+          "confirmed": 136948,
           "date": "2021-07-20",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 126938,
+          "confirmed": 127391,
           "date": "2021-07-20",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 161753,
+          "confirmed": 162014,
           "date": "2021-07-20",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 132598,
+          "confirmed": 132797,
           "date": "2021-07-20",
           "deaths": 0,
           "recovered": 0
@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 692062,
           "date": "2021-07-20",
-          "deaths": 14801,
-          "recovered": 657644
+          "deaths": 14851,
+          "recovered": 660671
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 301645,
           "date": "2021-07-20",
-          "deaths": 9137,
-          "recovered": 288748
+          "deaths": 9139,
+          "recovered": 289184
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 144744,
           "date": "2021-07-20",
-          "deaths": 2751,
-          "recovered": 140405
+          "deaths": 2758,
+          "recovered": 140957
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1371462,
           "date": "2021-07-20",
-          "deaths": 25820,
-          "recovered": 1302119
+          "deaths": 25923,
+          "recovered": 1307302
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 246502,
           "date": "2021-07-20",
-          "deaths": 6320,
-          "recovered": 234223
+          "deaths": 6340,
+          "recovered": 235497
         }
       },
       "Santander": {
         "live": {
           "confirmed": 212380,
           "date": "2021-07-20",
-          "deaths": 6745,
-          "recovered": 200934
+          "deaths": 6770,
+          "recovered": 201821
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 366121,
           "date": "2021-07-20",
-          "deaths": 11462,
-          "recovered": 347217
+          "deaths": 11521,
+          "recovered": 348724
         }
       }
     }
@@ -1119,15 +1119,15 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 731705,
+          "confirmed": 733303,
           "date": "2021-07-20",
-          "deaths": 35121,
+          "deaths": 35153,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 135000,
+          "confirmed": 135133,
           "date": "2021-07-20",
           "deaths": 11134,
           "recovered": 0
@@ -1135,17 +1135,17 @@
       },
       "Mexico": {
         "live": {
-          "confirmed": 271929,
+          "confirmed": 272431,
           "date": "2021-07-20",
-          "deaths": 37698,
+          "deaths": 37728,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 132843,
+          "confirmed": 133131,
           "date": "2021-07-20",
-          "deaths": 9870,
+          "deaths": 9873,
           "recovered": 0
         }
       }
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 292779,
+      "confirmed": 293866,
       "date": "2021-07-20",
-      "deaths": 3377,
-      "recovered": 275712
+      "deaths": 3392,
+      "recovered": 276952
     }
   },
   "West Bank and Gaza": {
