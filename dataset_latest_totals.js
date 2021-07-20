@@ -1819,18 +1819,18 @@ var covid19_dataset_latest_totals = {
     },
     "ISL": {
       "back_1week": {
-        "confirmed": 6555,
-        "deaths": 29,
+        "confirmed": 6675,
+        "deaths": 30,
         "recovered": 6476
       },
       "back_2week": {
-        "confirmed": 6555,
-        "deaths": 29,
+        "confirmed": 6654,
+        "deaths": 30,
         "recovered": 6476
       },
       "latest": {
-        "confirmed": 6555,
-        "deaths": 29,
+        "confirmed": 6718,
+        "deaths": 30,
         "recovered": 6476
       }
     },
