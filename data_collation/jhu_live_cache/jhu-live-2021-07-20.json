@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 267949,
+      "confirmed": 268027,
       "date": "2021-07-20",
       "deaths": 1380,
-      "recovered": 265759
+      "recovered": 265832
     }
   },
   "Bangladesh": {
@@ -178,7 +178,7 @@
           "confirmed": 909205,
           "date": "2021-07-20",
           "deaths": 23233,
-          "recovered": 637167
+          "recovered": 637597
         }
       },
       "Distrito Federal": {
@@ -298,7 +298,7 @@
           "confirmed": 1000496,
           "date": "2021-07-20",
           "deaths": 57585,
-          "recovered": 933640
+          "recovered": 935355
         }
       },
       "Rondonia": {
@@ -314,7 +314,7 @@
           "confirmed": 117266,
           "date": "2021-07-20",
           "deaths": 1811,
-          "recovered": 109258
+          "recovered": 111193
         }
       },
       "Santa Catarina": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 423078,
+      "confirmed": 423223,
       "date": "2021-07-20",
-      "deaths": 18177,
-      "recovered": 397363
+      "deaths": 18184,
+      "recovered": 397648
     }
   },
   "Burma": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 232806,
+          "confirmed": 232875,
           "date": "2021-07-20",
-          "deaths": 2316,
-          "recovered": 229885
+          "deaths": 2318,
+          "recovered": 229951
         }
       },
       "British Columbia": {
@@ -1061,10 +1061,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 386869,
+      "confirmed": 387912,
       "date": "2021-07-20",
-      "deaths": 2238,
-      "recovered": 368420
+      "deaths": 2247,
+      "recovered": 369737
     }
   },
   "Kyrgyzstan": {
@@ -1601,19 +1601,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5537386,
+      "confirmed": 5546166,
       "date": "2021-07-20",
-      "deaths": 50604,
-      "recovered": 5390739
+      "deaths": 50650,
+      "recovered": 5395300
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 688900,
+          "confirmed": 689596,
           "date": "2021-07-20",
-          "deaths": 12841
+          "deaths": 12836
         }
       },
       "California": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 135938,
+          "confirmed": 136020,
           "date": "2021-07-20",
-          "deaths": 3787
+          "deaths": 3788
         }
       },
       "Michigan": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1353798,
+          "confirmed": 1355199,
           "date": "2021-07-20",
-          "deaths": 20834
+          "deaths": 20839
         }
       },
       "Utah": {
