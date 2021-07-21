@@ -350,36 +350,36 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 422545,
-        "deaths": 18144,
-        "recovered": 396528
+        "confirmed": 422619,
+        "deaths": 18154,
+        "recovered": 396642
       },
       "back_2week": {
-        "confirmed": 422151,
-        "deaths": 18125,
-        "recovered": 395609
+        "confirmed": 422238,
+        "deaths": 18127,
+        "recovered": 395915
       },
       "latest": {
-        "confirmed": 423078,
-        "deaths": 18177,
-        "recovered": 397363
+        "confirmed": 423223,
+        "deaths": 18184,
+        "recovered": 397648
       }
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 267324,
+        "confirmed": 267400,
         "deaths": 1378,
-        "recovered": 264831
+        "recovered": 265013
       },
       "back_2week": {
-        "confirmed": 266557,
-        "deaths": 1363,
-        "recovered": 263373
+        "confirmed": 266685,
+        "deaths": 1366,
+        "recovered": 263660
       },
       "latest": {
-        "confirmed": 267949,
+        "confirmed": 268027,
         "deaths": 1380,
-        "recovered": 265759
+        "recovered": 265832
       }
     },
     "BHS": {
@@ -587,7 +587,7 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 232806,
+          "confirmed": 232875,
           "deaths": 2316
         },
         "British Columbia": {
@@ -2749,19 +2749,19 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 1478061,
-        "deaths": 26015,
-        "recovered": 1402918
+        "confirmed": 1481660,
+        "deaths": 26092,
+        "recovered": 1408634
       },
       "back_2week": {
-        "confirmed": 1441746,
-        "deaths": 25192,
-        "recovered": 1364960
+        "confirmed": 1445832,
+        "deaths": 25296,
+        "recovered": 1370923
       },
       "latest": {
-        "confirmed": 1513396,
-        "deaths": 26786,
-        "recovered": 1439049
+        "confirmed": 1517903,
+        "deaths": 26844,
+        "recovered": 1444253
       }
     },
     "PLW": {
