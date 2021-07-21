@@ -170,7 +170,7 @@
           "confirmed": 1175267,
           "date": "2021-07-21",
           "deaths": 25304,
-          "recovered": 1139183
+          "recovered": 1143706
         }
       },
       "Ceara": {
@@ -234,7 +234,7 @@
           "confirmed": 1909343,
           "date": "2021-07-21",
           "deaths": 49025,
-          "recovered": 1799001
+          "recovered": 1805618
         }
       },
       "Para": {
@@ -290,7 +290,7 @@
           "confirmed": 1272258,
           "date": "2021-07-21",
           "deaths": 32763,
-          "recovered": 1231601
+          "recovered": 1232829
         }
       },
       "Rio de Janeiro": {
@@ -330,7 +330,7 @@
           "confirmed": 3947574,
           "date": "2021-07-21",
           "deaths": 135490,
-          "recovered": 3608391
+          "recovered": 3627268
         }
       },
       "Sergipe": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556039,
+          "confirmed": 556067,
           "date": "2021-07-21",
-          "deaths": 9257,
-          "recovered": 545468
+          "deaths": 9260,
+          "recovered": 545489
         }
       },
       "Quebec": {
@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 337975,
+      "confirmed": 338291,
       "date": "2021-07-21",
-      "deaths": 3928,
-      "recovered": 280645
+      "deaths": 3929,
+      "recovered": 282841
     }
   },
   "Ecuador": {
@@ -1045,10 +1045,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 193807,
+      "confirmed": 194310,
       "date": "2021-07-21",
-      "deaths": 3800,
-      "recovered": 183211
+      "deaths": 3811,
+      "recovered": 183980
     }
   },
   "Korea, South": {
@@ -1153,10 +1153,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 258096,
+      "confirmed": 258237,
       "date": "2021-07-21",
-      "deaths": 6229,
-      "recovered": 251033
+      "deaths": 6232,
+      "recovered": 251125
     }
   },
   "Mongolia": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2311232,
+      "confirmed": 2327472,
       "date": "2021-07-21",
-      "deaths": 67676,
-      "recovered": 2085119
+      "deaths": 68192,
+      "recovered": 2098818
     }
   },
   "Spain": {
@@ -1541,7 +1541,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 289153,
+      "confirmed": 289577,
       "date": "2021-07-21",
       "deaths": 3917,
       "recovered": 263758
