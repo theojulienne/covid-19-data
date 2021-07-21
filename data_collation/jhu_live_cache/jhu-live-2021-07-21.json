@@ -581,10 +581,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 390945,
+      "confirmed": 393360,
       "date": "2021-07-21",
-      "deaths": 5592,
-      "recovered": 367130
+      "deaths": 5618,
+      "recovered": 368073
     }
   },
   "Germany": {
@@ -607,7 +607,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 181593,
+          "confirmed": 181599,
           "date": "2021-07-21",
           "deaths": 3576,
           "recovered": 176900
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 854434,
+      "confirmed": 854981,
       "date": "2021-07-21",
       "deaths": 6452,
-      "recovered": 839285
+      "recovered": 839430
     }
   },
   "Italy": {
