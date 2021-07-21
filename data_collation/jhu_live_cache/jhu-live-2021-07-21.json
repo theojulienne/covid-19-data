@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 144910,
+          "confirmed": 145146,
           "date": "2021-07-21",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 136948,
+          "confirmed": 137160,
           "date": "2021-07-21",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 127391,
+          "confirmed": 127541,
           "date": "2021-07-21",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 162014,
+          "confirmed": 162100,
           "date": "2021-07-21",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 132797,
+          "confirmed": 132900,
           "date": "2021-07-21",
           "deaths": 0,
           "recovered": 0
@@ -576,7 +576,7 @@
       "confirmed": 5814442,
       "date": "2021-07-21",
       "deaths": 110548,
-      "recovered": 342030
+      "recovered": 340775
     }
   },
   "Georgia": {
@@ -1119,33 +1119,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 733303,
+          "confirmed": 737792,
           "date": "2021-07-21",
-          "deaths": 35153,
+          "deaths": 35194,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 135133,
+          "confirmed": 135414,
           "date": "2021-07-21",
-          "deaths": 11134,
+          "deaths": 11135,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 272431,
+          "confirmed": 273960,
           "date": "2021-07-21",
-          "deaths": 37728,
+          "deaths": 37769,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 133131,
+          "confirmed": 133615,
           "date": "2021-07-21",
-          "deaths": 9873,
+          "deaths": 9888,
           "recovered": 0
         }
       }
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 169678,
+      "confirmed": 169884,
       "date": "2021-07-21",
       "deaths": 2128,
-      "recovered": 164720
+      "recovered": 164733
     }
   },
   "North Macedonia": {
