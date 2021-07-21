@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 281604,
+      "confirmed": 282686,
       "date": "2021-07-21",
-      "deaths": 7482,
-      "recovered": 95839
+      "deaths": 7507,
+      "recovered": 96452
     }
   },
   "Hungary": {
@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 557767,
+      "confirmed": 563173,
       "date": "2021-07-21",
-      "deaths": 5062,
-      "recovered": 487524
+      "deaths": 5116,
+      "recovered": 490128
     }
   },
   "Kenya": {
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 180481,
+      "confirmed": 182265,
       "date": "2021-07-21",
-      "deaths": 2059,
-      "recovered": 160347
+      "deaths": 2060,
+      "recovered": 161634
     }
   },
   "Kuwait": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 140962,
+          "confirmed": 141138,
           "date": "2021-07-21",
-          "deaths": 4391,
-          "recovered": 134285
+          "deaths": 4397,
+          "recovered": 134433
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 351000,
+          "confirmed": 351345,
           "date": "2021-07-21",
-          "deaths": 10892,
-          "recovered": 329875
+          "deaths": 10900,
+          "recovered": 330004
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 358176,
+          "confirmed": 359824,
           "date": "2021-07-21",
-          "deaths": 5737,
-          "recovered": 321093
+          "deaths": 5756,
+          "recovered": 321431
         }
       }
     }
