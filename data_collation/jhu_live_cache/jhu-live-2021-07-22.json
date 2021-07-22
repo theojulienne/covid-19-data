@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 376519,
+          "confirmed": 376429,
           "date": "2021-07-22",
           "deaths": 11238,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 277959,
+      "confirmed": 278105,
       "date": "2021-07-22",
-      "deaths": 4360,
-      "recovered": 262588
+      "deaths": 4363,
+      "recovered": 262692
     }
   },
   "France": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 856827,
+      "confirmed": 856986,
       "date": "2021-07-22",
       "deaths": 6457,
-      "recovered": 840526
+      "recovered": 840610
     }
   },
   "Italy": {
@@ -1601,10 +1601,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5554317,
+      "confirmed": 5563903,
       "date": "2021-07-22",
-      "deaths": 50709,
-      "recovered": 5400246
+      "deaths": 50761,
+      "recovered": 5405339
     }
   },
   "US": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1359953,
+          "confirmed": 1361630,
           "date": "2021-07-22",
           "deaths": 20863
         }
