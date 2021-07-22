@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 268092,
+      "confirmed": 268225,
       "date": "2021-07-22",
       "deaths": 1381,
-      "recovered": 265930
+      "recovered": 266036
     }
   },
   "Bangladesh": {
@@ -298,7 +298,7 @@
           "confirmed": 1005098,
           "date": "2021-07-22",
           "deaths": 57856,
-          "recovered": 935355
+          "recovered": 940297
         }
       },
       "Rondonia": {
@@ -330,7 +330,7 @@
           "confirmed": 3966009,
           "date": "2021-07-22",
           "deaths": 135973,
-          "recovered": 3627268
+          "recovered": 3649393
         }
       },
       "Sergipe": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 423319,
+      "confirmed": 423440,
       "date": "2021-07-22",
-      "deaths": 18187,
-      "recovered": 397831
+      "deaths": 18189,
+      "recovered": 397900
     }
   },
   "Burma": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 232956,
+          "confirmed": 233062,
           "date": "2021-07-22",
-          "deaths": 2318,
-          "recovered": 229989
+          "deaths": 2320,
+          "recovered": 230066
         }
       },
       "British Columbia": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 478615,
+      "confirmed": 479784,
       "date": "2021-07-22",
-      "deaths": 30752,
+      "deaths": 30777,
       "recovered": 443880
     }
   },
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155965,
+      "confirmed": 155981,
       "date": "2021-07-22",
-      "deaths": 5488,
-      "recovered": 150243
+      "deaths": 5489,
+      "recovered": 150251
     }
   },
   "Norway": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 136114,
+          "confirmed": 136210,
           "date": "2021-07-22",
-          "deaths": 3788
+          "deaths": 3790
         }
       },
       "Michigan": {
