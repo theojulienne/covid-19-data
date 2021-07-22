@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 338291,
+      "confirmed": 338902,
       "date": "2021-07-22",
-      "deaths": 3929,
-      "recovered": 282841
+      "deaths": 3931,
+      "recovered": 287607
     }
   },
   "Ecuador": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2327472,
+      "confirmed": 2342330,
       "date": "2021-07-22",
-      "deaths": 68192,
-      "recovered": 2098818
+      "deaths": 68625,
+      "recovered": 2109820
     }
   },
   "Spain": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 246750,
+          "confirmed": 246913,
           "date": "2021-07-22",
           "deaths": 3749
         }
@@ -1716,9 +1716,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 118916,
+          "confirmed": 119027,
           "date": "2021-07-22",
-          "deaths": 1437
+          "deaths": 1438
         }
       }
     }
