@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 654745,
+      "confirmed": 655197,
       "date": "2021-07-22",
-      "deaths": 10729,
-      "recovered": 640018
+      "deaths": 10730,
+      "recovered": 640202
     }
   },
   "Azerbaijan": {
@@ -1022,7 +1022,7 @@
           "confirmed": 195109,
           "date": "2021-07-22",
           "deaths": 2259,
-          "recovered": 179473
+          "recovered": 180390
         }
       }
     }
@@ -1080,7 +1080,7 @@
       "confirmed": 138344,
       "date": "2021-07-22",
       "deaths": 2550,
-      "recovered": 135213
+      "recovered": 135262
     }
   },
   "Lebanon": {
