@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 464177,
+      "confirmed": 465351,
       "date": "2021-07-22",
-      "deaths": 17505,
-      "recovered": 394002
+      "deaths": 17546,
+      "recovered": 395353
     }
   },
   "Bosnia and Herzegovina": {
@@ -591,7 +591,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 503514,
+          "confirmed": 503528,
           "date": "2021-07-22",
           "deaths": 10360,
           "recovered": 490800
@@ -599,15 +599,15 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 650930,
+          "confirmed": 651216,
           "date": "2021-07-22",
-          "deaths": 15310,
-          "recovered": 632700
+          "deaths": 15316,
+          "recovered": 632800
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 181599,
+          "confirmed": 181724,
           "date": "2021-07-22",
           "deaths": 3576,
           "recovered": 176900
@@ -623,31 +623,31 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 292951,
+          "confirmed": 293201,
           "date": "2021-07-22",
-          "deaths": 7569,
-          "recovered": 283500
+          "deaths": 7573,
+          "recovered": 283700
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 262887,
+          "confirmed": 263136,
           "date": "2021-07-22",
-          "deaths": 5805,
-          "recovered": 255700
+          "deaths": 5806,
+          "recovered": 255800
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 821135,
+          "confirmed": 821692,
           "date": "2021-07-22",
-          "deaths": 17254,
-          "recovered": 799800
+          "deaths": 17260,
+          "recovered": 800100
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156467,
+          "confirmed": 156476,
           "date": "2021-07-22",
           "deaths": 3897,
           "recovered": 151600
@@ -655,7 +655,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286289,
+          "confirmed": 286283,
           "date": "2021-07-22",
           "deaths": 10126,
           "recovered": 275700
@@ -663,7 +663,7 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 128997,
+          "confirmed": 129010,
           "date": "2021-07-22",
           "deaths": 4362,
           "recovered": 124300
@@ -689,10 +689,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 282686,
+      "confirmed": 284187,
       "date": "2021-07-22",
-      "deaths": 7507,
-      "recovered": 96452
+      "deaths": 7535,
+      "recovered": 96839
     }
   },
   "Hungary": {
@@ -1053,10 +1053,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 182265,
+      "confirmed": 184103,
       "date": "2021-07-22",
-      "deaths": 2060,
-      "recovered": 161634
+      "deaths": 2063,
+      "recovered": 163073
     }
   },
   "Kuwait": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 424455,
+      "confirmed": 425599,
       "date": "2021-07-22",
-      "deaths": 6716,
-      "recovered": 404606
+      "deaths": 6723,
+      "recovered": 405811
     }
   },
   "Paraguay": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2792837,
+          "confirmed": 2792998,
           "date": "2021-07-22",
           "deaths": 48695
         }
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1359243,
+          "confirmed": 1359563,
           "date": "2021-07-22",
-          "deaths": 20853
+          "deaths": 20855
         }
       },
       "Utah": {
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 294727,
+      "confirmed": 295746,
       "date": "2021-07-22",
-      "deaths": 3408,
-      "recovered": 278117
+      "deaths": 3426,
+      "recovered": 279177
     }
   },
   "West Bank and Gaza": {
