@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 142414,
+      "confirmed": 143183,
       "date": "2021-07-22",
-      "deaths": 6266,
+      "deaths": 6325,
       "recovered": 82586
     }
   },
@@ -146,7 +146,7 @@
           "confirmed": 226887,
           "date": "2021-07-22",
           "deaths": 5685,
-          "recovered": 218297
+          "recovered": 218807
         }
       },
       "Amapa": {
@@ -170,7 +170,7 @@
           "confirmed": 1178355,
           "date": "2021-07-22",
           "deaths": 25357,
-          "recovered": 1143706
+          "recovered": 1145914
         }
       },
       "Ceara": {
@@ -226,7 +226,7 @@
           "confirmed": 349779,
           "date": "2021-07-22",
           "deaths": 8749,
-          "recovered": 332431
+          "recovered": 333199
         }
       },
       "Minas Gerais": {
@@ -234,7 +234,7 @@
           "confirmed": 1915094,
           "date": "2021-07-22",
           "deaths": 49233,
-          "recovered": 1805618
+          "recovered": 1811490
         }
       },
       "Para": {
@@ -250,7 +250,7 @@
           "confirmed": 414982,
           "date": "2021-07-22",
           "deaths": 8905,
-          "recovered": 283386
+          "recovered": 288893
         }
       },
       "Parana": {
@@ -258,7 +258,7 @@
           "confirmed": 1352948,
           "date": "2021-07-22",
           "deaths": 33992,
-          "recovered": 967457
+          "recovered": 979947
         }
       },
       "Pernambuco": {
@@ -290,7 +290,7 @@
           "confirmed": 1275329,
           "date": "2021-07-22",
           "deaths": 32831,
-          "recovered": 1232829
+          "recovered": 1238177
         }
       },
       "Rio de Janeiro": {
@@ -346,7 +346,7 @@
           "confirmed": 206010,
           "date": "2021-07-22",
           "deaths": 3429,
-          "recovered": 188818
+          "recovered": 189433
         }
       }
     }
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556209,
+          "confirmed": 556282,
           "date": "2021-07-22",
-          "deaths": 9263,
-          "recovered": 545605
+          "deaths": 9264,
+          "recovered": 545662
         }
       },
       "Quebec": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 690372,
+          "confirmed": 691323,
           "date": "2021-07-22",
-          "deaths": 12848
+          "deaths": 12858
         }
       },
       "California": {
@@ -1702,9 +1702,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 157126,
+          "confirmed": 157373,
           "date": "2021-07-22",
-          "deaths": 930
+          "deaths": 931
         }
       },
       "Washington": {
