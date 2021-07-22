@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 227936,
+      "confirmed": 228161,
       "date": "2021-07-22",
-      "deaths": 4573,
-      "recovered": 218585
+      "deaths": 4575,
+      "recovered": 218676
     }
   },
   "Austria": {
@@ -557,10 +557,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 132059,
+      "confirmed": 132179,
       "date": "2021-07-22",
       "deaths": 1271,
-      "recovered": 128243
+      "recovered": 128271
     }
   },
   "Ethiopia": {
@@ -581,10 +581,10 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 393360,
+      "confirmed": 395621,
       "date": "2021-07-22",
-      "deaths": 5618,
-      "recovered": 368073
+      "deaths": 5636,
+      "recovered": 369483
     }
   },
   "Germany": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 169884,
+      "confirmed": 170122,
       "date": "2021-07-22",
-      "deaths": 2128,
-      "recovered": 164733
+      "deaths": 2130,
+      "recovered": 164741
     }
   },
   "North Macedonia": {
