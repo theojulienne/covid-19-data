@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556185,
+          "confirmed": 556209,
           "date": "2021-07-22",
-          "deaths": 9262,
-          "recovered": 545590
+          "deaths": 9263,
+          "recovered": 545603
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 147276,
+          "confirmed": 147487,
           "date": "2021-07-22",
-          "deaths": 2443,
-          "recovered": 143854
+          "deaths": 2462,
+          "recovered": 143989
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 668999,
+          "confirmed": 669511,
           "date": "2021-07-22",
-          "deaths": 17970,
-          "recovered": 646603
+          "deaths": 18017,
+          "recovered": 647071
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 119262,
+          "confirmed": 119458,
           "date": "2021-07-22",
-          "deaths": 3149,
-          "recovered": 115161
+          "deaths": 3178,
+          "recovered": 115316
         }
       }
     }
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 856261,
+      "confirmed": 856827,
       "date": "2021-07-22",
-      "deaths": 6455,
-      "recovered": 840029
+      "deaths": 6457,
+      "recovered": 840526
     }
   },
   "Italy": {
@@ -1653,9 +1653,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 126079,
+          "confirmed": 126163,
           "date": "2021-07-22",
-          "deaths": 1794
+          "deaths": 1795
         }
       },
       "Nevada": {
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1408430,
+          "confirmed": 1408996,
           "date": "2021-07-22",
-          "deaths": 40520
+          "deaths": 40521
         }
       },
       "North Carolina": {
