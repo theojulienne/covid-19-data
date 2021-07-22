@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 246663,
+      "confirmed": 253364,
       "date": "2021-07-22",
-      "deaths": 5814,
-      "recovered": 170779
+      "deaths": 6133,
+      "recovered": 173926
     }
   },
   "Canada": {
