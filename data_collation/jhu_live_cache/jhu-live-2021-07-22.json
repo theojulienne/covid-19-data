@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1136503,
+      "confirmed": 1140200,
       "date": "2021-07-22",
-      "deaths": 18498,
-      "recovered": 961044
+      "deaths": 18685,
+      "recovered": 969610
     }
   },
   "Belarus": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 308615,
+      "confirmed": 309420,
       "date": "2021-07-22",
       "deaths": 2542,
-      "recovered": 294559
+      "recovered": 295176
     }
   },
   "Dominican Republic": {
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 651216,
+          "confirmed": 651227,
           "date": "2021-07-22",
           "deaths": 15316,
-          "recovered": 632800
+          "recovered": 632900
         }
       },
       "Berlin": {
@@ -1551,7 +1551,7 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 157058,
+          "confirmed": 157119,
           "date": "2021-07-22",
           "deaths": 1761,
           "recovered": 0
@@ -1559,7 +1559,7 @@
       },
       "Stockholm": {
         "live": {
-          "confirmed": 256584,
+          "confirmed": 256827,
           "date": "2021-07-22",
           "deaths": 4369,
           "recovered": 0
@@ -1567,7 +1567,7 @@
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 191226,
+          "confirmed": 191311,
           "date": "2021-07-22",
           "deaths": 2383,
           "recovered": 0
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 665533,
+      "confirmed": 667080,
       "date": "2021-07-22",
-      "deaths": 1907,
-      "recovered": 643234
+      "deaths": 1910,
+      "recovered": 644753
     }
   },
   "United Kingdom": {
@@ -1853,10 +1853,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 188573,
+      "confirmed": 189731,
       "date": "2021-07-22",
-      "deaths": 3162,
-      "recovered": 175429
+      "deaths": 3196,
+      "recovered": 177419
     }
   }
 }
