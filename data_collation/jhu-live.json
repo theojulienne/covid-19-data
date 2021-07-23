@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 339274,
+      "confirmed": 339645,
       "date": "2021-07-23",
-      "deaths": 4999,
-      "recovered": 331629
+      "deaths": 5002,
+      "recovered": 331782
     }
   },
   "Bahrain": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 253364,
+      "confirmed": 258870,
       "date": "2021-07-23",
-      "deaths": 6133,
-      "recovered": 173926
+      "deaths": 6459,
+      "recovered": 177021
     }
   },
   "Canada": {
@@ -647,18 +647,18 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 156610,
+          "confirmed": 156700,
           "date": "2021-07-23",
-          "deaths": 3897,
+          "deaths": 3904,
           "recovered": 151700
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286310,
+          "confirmed": 286359,
           "date": "2021-07-23",
           "deaths": 10128,
-          "recovered": 275700
+          "recovered": 275800
         }
       },
       "Thuringen": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 857554,
+      "confirmed": 857977,
       "date": "2021-07-23",
       "deaths": 6457,
-      "recovered": 840801
+      "recovered": 841252
     }
   },
   "Italy": {
@@ -1029,10 +1029,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 763106,
+      "confirmed": 763437,
       "date": "2021-07-23",
-      "deaths": 9929,
-      "recovered": 745551
+      "deaths": 9933,
+      "recovered": 746015
     }
   },
   "Kazakhstan": {
