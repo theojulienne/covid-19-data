@@ -170,7 +170,7 @@
           "confirmed": 1180732,
           "date": "2021-07-23",
           "deaths": 25410,
-          "recovered": 1145914
+          "recovered": 1147915
         }
       },
       "Ceara": {
@@ -298,7 +298,7 @@
           "confirmed": 1008623,
           "date": "2021-07-23",
           "deaths": 58036,
-          "recovered": 940297
+          "recovered": 943055
         }
       },
       "Rondonia": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556453,
+          "confirmed": 556462,
           "date": "2021-07-23",
           "deaths": 9265,
-          "recovered": 545802
+          "recovered": 545825
         }
       },
       "Quebec": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 155981,
+      "confirmed": 156017,
       "date": "2021-07-23",
       "deaths": 5489,
-      "recovered": 150251
+      "recovered": 150263
     }
   },
   "Norway": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2798849,
+          "confirmed": 2799458,
           "date": "2021-07-23",
-          "deaths": 48727
+          "deaths": 48731
         }
       },
       "Florida": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1362633,
+          "confirmed": 1363092,
           "date": "2021-07-23",
           "deaths": 20886
         }

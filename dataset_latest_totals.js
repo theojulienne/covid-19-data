@@ -2346,19 +2346,19 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 155840,
+        "confirmed": 155866,
         "deaths": 5487,
-        "recovered": 150146
+        "recovered": 150154
       },
       "back_2week": {
-        "confirmed": 155741,
+        "confirmed": 155760,
         "deaths": 5486,
-        "recovered": 150114
+        "recovered": 150118
       },
       "latest": {
-        "confirmed": 155965,
+        "confirmed": 155981,
         "deaths": 5488,
-        "recovered": 150243
+        "recovered": 150251
       }
     },
     "MLI": {
