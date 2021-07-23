@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556409,
+          "confirmed": 556453,
           "date": "2021-07-23",
-          "deaths": 9264,
-          "recovered": 545765
+          "deaths": 9265,
+          "recovered": 545802
         }
       },
       "Quebec": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 691323,
+          "confirmed": 692379,
           "date": "2021-07-23",
-          "deaths": 12858
+          "deaths": 12863
         }
       },
       "California": {
