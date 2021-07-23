@@ -178,7 +178,7 @@
           "confirmed": 911021,
           "date": "2021-07-23",
           "deaths": 23287,
-          "recovered": 637597
+          "recovered": 638550
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 537509,
           "date": "2021-07-23",
           "deaths": 11787,
-          "recovered": 510030
+          "recovered": 514529
         }
       },
       "Goias": {
@@ -1037,10 +1037,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 568915,
+      "confirmed": 575267,
       "date": "2021-07-23",
-      "deaths": 5180,
-      "recovered": 492685
+      "deaths": 5244,
+      "recovered": 495217
     }
   },
   "Kenya": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 141288,
+          "confirmed": 141359,
           "date": "2021-07-23",
-          "deaths": 4402,
-          "recovered": 134499
+          "deaths": 4405,
+          "recovered": 134549
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 351592,
+          "confirmed": 351707,
           "date": "2021-07-23",
-          "deaths": 10906,
-          "recovered": 330288
+          "deaths": 10909,
+          "recovered": 330301
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 361160,
+          "confirmed": 362182,
           "date": "2021-07-23",
-          "deaths": 5784,
-          "recovered": 321777
+          "deaths": 5785,
+          "recovered": 321929
         }
       }
     }
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2797563,
+          "confirmed": 2797680,
           "date": "2021-07-23",
           "deaths": 48704
         }
