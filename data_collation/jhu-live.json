@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4798851,
+      "confirmed": 4812351,
       "date": "2021-07-22",
-      "deaths": 102818,
-      "recovered": 4431871
+      "deaths": 103074,
+      "recovered": 4447953
     }
   },
   "Armenia": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205345,
+      "confirmed": 205384,
       "date": "2021-07-22",
-      "deaths": 9671,
-      "recovered": 188137
+      "deaths": 9673,
+      "recovered": 188330
     }
   },
   "Brazil": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148641,
+          "confirmed": 148730,
           "date": "2021-07-22",
           "deaths": 1763,
-          "recovered": 146142
+          "recovered": 146178
         }
       },
       "Ontario": {
@@ -1085,9 +1085,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 552328,
+      "confirmed": 552871,
       "date": "2021-07-22",
-      "deaths": 7888,
+      "deaths": 7889,
       "recovered": 535663
     }
   },
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 134969,
+      "confirmed": 135235,
       "date": "2021-07-22",
       "deaths": 799,
       "recovered": 17998
@@ -1341,10 +1341,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1524449,
+      "confirmed": 1530266,
       "date": "2021-07-22",
-      "deaths": 26874,
-      "recovered": 1449579
+      "deaths": 26891,
+      "recovered": 1452813
     }
   },
   "Poland": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 289577,
+      "confirmed": 291298,
       "date": "2021-07-22",
-      "deaths": 3917,
-      "recovered": 263758
+      "deaths": 3959,
+      "recovered": 264755
     }
   },
   "Sweden": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1361630,
+          "confirmed": 1361970,
           "date": "2021-07-22",
-          "deaths": 20863
+          "deaths": 20868
         }
       },
       "Utah": {
@@ -1709,7 +1709,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 114922,
+          "confirmed": 115189,
           "date": "2021-07-22",
           "deaths": 1676
         }
@@ -1821,10 +1821,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 379613,
+      "confirmed": 379911,
       "date": "2021-07-22",
-      "deaths": 5905,
-      "recovered": 370213
+      "deaths": 5913,
+      "recovered": 370711
     }
   },
   "Uzbekistan": {
