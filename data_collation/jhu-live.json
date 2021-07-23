@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 423440,
+      "confirmed": 423575,
       "date": "2021-07-23",
-      "deaths": 18189,
-      "recovered": 397900
+      "deaths": 18193,
+      "recovered": 398132
     }
   },
   "Burma": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 136210,
+          "confirmed": 136324,
           "date": "2021-07-23",
-          "deaths": 3790
+          "deaths": 3791
         }
       },
       "Michigan": {
