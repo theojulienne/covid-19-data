@@ -445,23 +445,23 @@
         "live": {
           "confirmed": 304095,
           "date": "2021-07-23",
-          "deaths": 9154,
-          "recovered": 290185
+          "deaths": 9156,
+          "recovered": 290410
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 147824,
           "date": "2021-07-23",
-          "deaths": 2786,
-          "recovered": 142772
+          "deaths": 2791,
+          "recovered": 142881
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1389729,
           "date": "2021-07-23",
-          "deaths": 26044,
+          "deaths": 26106,
           "recovered": 1317269
         }
       },
@@ -478,14 +478,14 @@
           "confirmed": 214442,
           "date": "2021-07-23",
           "deaths": 6826,
-          "recovered": 202349
+          "recovered": 202907
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 373269,
           "date": "2021-07-23",
-          "deaths": 11636,
+          "deaths": 11694,
           "recovered": 351970
         }
       }
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2794620,
+          "confirmed": 2797563,
           "date": "2021-07-23",
-          "deaths": 48702
+          "deaths": 48704
         }
       },
       "Florida": {
