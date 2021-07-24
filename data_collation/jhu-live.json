@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4812351,
+      "confirmed": 4827973,
       "date": "2021-07-23",
-      "deaths": 103074,
-      "recovered": 4447953
+      "deaths": 103359,
+      "recovered": 4464987
     }
   },
   "Armenia": {
@@ -143,209 +143,209 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 227121,
+          "confirmed": 227369,
           "date": "2021-07-23",
-          "deaths": 5698,
+          "deaths": 5711,
           "recovered": 218807
         }
       },
       "Amapa": {
         "live": {
-          "confirmed": 120403,
+          "confirmed": 120534,
           "date": "2021-07-23",
-          "deaths": 1888,
+          "deaths": 1889,
           "recovered": 100791
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 413146,
+          "confirmed": 413558,
           "date": "2021-07-23",
-          "deaths": 13462,
+          "deaths": 13468,
           "recovered": 351713
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 1180732,
+          "confirmed": 1182673,
           "date": "2021-07-23",
-          "deaths": 25410,
+          "deaths": 25457,
           "recovered": 1147915
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 911021,
+          "confirmed": 913440,
           "date": "2021-07-23",
-          "deaths": 23287,
+          "deaths": 23361,
           "recovered": 638550
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 443797,
+          "confirmed": 444665,
           "date": "2021-07-23",
-          "deaths": 9526,
+          "deaths": 9538,
           "recovered": 426962
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 537509,
+          "confirmed": 538133,
           "date": "2021-07-23",
-          "deaths": 11787,
+          "deaths": 11800,
           "recovered": 514529
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 719410,
+          "confirmed": 722637,
           "date": "2021-07-23",
-          "deaths": 20322,
+          "deaths": 20394,
           "recovered": 681595
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 332315,
+          "confirmed": 332749,
           "date": "2021-07-23",
-          "deaths": 9510,
+          "deaths": 9529,
           "recovered": 285983
         }
       },
       "Mato Grosso": {
         "live": {
-          "confirmed": 476808,
+          "confirmed": 478366,
           "date": "2021-07-23",
-          "deaths": 12357,
+          "deaths": 12382,
           "recovered": 449748
         }
       },
       "Mato Grosso do Sul": {
         "live": {
-          "confirmed": 350611,
+          "confirmed": 351267,
           "date": "2021-07-23",
-          "deaths": 8779,
+          "deaths": 8802,
           "recovered": 333199
         }
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 1921230,
+          "confirmed": 1928391,
           "date": "2021-07-23",
-          "deaths": 49377,
+          "deaths": 49500,
           "recovered": 1811490
         }
       },
       "Para": {
         "live": {
-          "confirmed": 568161,
+          "confirmed": 568722,
           "date": "2021-07-23",
-          "deaths": 15914,
+          "deaths": 15941,
           "recovered": 529988
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 416261,
+          "confirmed": 417159,
           "date": "2021-07-23",
-          "deaths": 8915,
+          "deaths": 8922,
           "recovered": 288893
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 1355387,
+          "confirmed": 1357700,
           "date": "2021-07-23",
-          "deaths": 34087,
+          "deaths": 34181,
           "recovered": 979947
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 582849,
+          "confirmed": 583969,
           "date": "2021-07-23",
-          "deaths": 18502,
+          "deaths": 18548,
           "recovered": 500584
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 306574,
+          "confirmed": 306947,
           "date": "2021-07-23",
-          "deaths": 6770,
+          "deaths": 6777,
           "recovered": 298193
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 355349,
+          "confirmed": 355668,
           "date": "2021-07-23",
-          "deaths": 7039,
+          "deaths": 7044,
           "recovered": 150649
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 1279550,
+          "confirmed": 1343586,
           "date": "2021-07-23",
-          "deaths": 32910,
+          "deaths": 32972,
           "recovered": 1238177
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1008623,
+          "confirmed": 1012026,
           "date": "2021-07-23",
-          "deaths": 58036,
+          "deaths": 58219,
           "recovered": 943055
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 255454,
+          "confirmed": 255724,
           "date": "2021-07-23",
-          "deaths": 6326,
+          "deaths": 6331,
           "recovered": 241114
         }
       },
       "Roraima": {
         "live": {
-          "confirmed": 118036,
+          "confirmed": 118338,
           "date": "2021-07-23",
-          "deaths": 1826,
+          "deaths": 1828,
           "recovered": 111193
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 1098579,
+          "confirmed": 1100959,
           "date": "2021-07-23",
-          "deaths": 17707,
+          "deaths": 17726,
           "recovered": 1053386
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 3979102,
+          "confirmed": 3991188,
           "date": "2021-07-23",
-          "deaths": 136466,
+          "deaths": 136884,
           "recovered": 3649393
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 272220,
+          "confirmed": 272677,
           "date": "2021-07-23",
-          "deaths": 5882,
+          "deaths": 5888,
           "recovered": 256875
         }
       },
       "Tocantins": {
         "live": {
-          "confirmed": 206619,
+          "confirmed": 207143,
           "date": "2021-07-23",
-          "deaths": 3440,
+          "deaths": 3452,
           "recovered": 189433
         }
       }
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148730,
+          "confirmed": 148842,
           "date": "2021-07-23",
-          "deaths": 1763,
-          "recovered": 146178
+          "deaths": 1767,
+          "recovered": 146463
         }
       },
       "Ontario": {
