@@ -1101,6 +1101,7 @@ var covid19_dataset_country_mne = {
       100690,
       100755,
       100802,
+      100865,
       100865
     ],
     "deaths": [
@@ -1650,6 +1651,7 @@ var covid19_dataset_country_mne = {
       1623,
       1623,
       1623,
+      1624,
       1624,
       1624
     ],
@@ -2201,6 +2203,7 @@ var covid19_dataset_country_mne = {
       98686,
       98711,
       98739,
+      98761,
       98761
     ]
   }
