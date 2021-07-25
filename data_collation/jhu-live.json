@@ -1321,10 +1321,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 448508,
+      "confirmed": 448918,
       "date": "2021-07-25",
-      "deaths": 14550,
-      "recovered": 410297
+      "deaths": 14593,
+      "recovered": 411592
     }
   },
   "Peru": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2806673,
+          "confirmed": 2807356,
           "date": "2021-07-25",
-          "deaths": 48737
+          "deaths": 48738
         }
       },
       "Florida": {
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 297782,
+      "confirmed": 298804,
       "date": "2021-07-25",
-      "deaths": 3458,
-      "recovered": 281194
+      "deaths": 3475,
+      "recovered": 282201
     }
   },
   "West Bank and Gaza": {
