@@ -517,10 +517,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1672340,
+      "confirmed": 1672409,
       "date": "2021-07-25",
       "deaths": 30357,
-      "recovered": 1638611
+      "recovered": 1638881
     }
   },
   "Denmark": {
@@ -933,10 +933,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 859398,
+      "confirmed": 859875,
       "date": "2021-07-25",
-      "deaths": 6458,
-      "recovered": 841667
+      "deaths": 6459,
+      "recovered": 841922
     }
   },
   "Italy": {
@@ -1069,10 +1069,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 156152,
+      "confirmed": 157147,
       "date": "2021-07-25",
-      "deaths": 2238,
-      "recovered": 133444
+      "deaths": 2249,
+      "recovered": 135132
     }
   },
   "Latvia": {
@@ -1101,10 +1101,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 280774,
+      "confirmed": 280966,
       "date": "2021-07-25",
       "deaths": 4410,
-      "recovered": 268620
+      "recovered": 268627
     }
   },
   "Malaysia": {
@@ -1161,10 +1161,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 155224,
+      "confirmed": 156737,
       "date": "2021-07-25",
-      "deaths": 767,
-      "recovered": 149533
+      "deaths": 774,
+      "recovered": 152158
     }
   },
   "Morocco": {
@@ -1829,10 +1829,10 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 123559,
+      "confirmed": 124290,
       "date": "2021-07-25",
-      "deaths": 826,
-      "recovered": 117962
+      "deaths": 832,
+      "recovered": 118638
     }
   },
   "Venezuela": {
