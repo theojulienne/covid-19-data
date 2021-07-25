@@ -387,17 +387,17 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556647,
+          "confirmed": 556669,
           "date": "2021-07-25",
           "deaths": 9270,
-          "recovered": 546019
+          "recovered": 546062
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 376651,
+          "confirmed": 376753,
           "date": "2021-07-25",
-          "deaths": 11239,
+          "deaths": 11240,
           "recovered": 364033
         }
       }
@@ -591,7 +591,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 504201,
+          "confirmed": 504319,
           "date": "2021-07-25",
           "deaths": 10377,
           "recovered": 490900
