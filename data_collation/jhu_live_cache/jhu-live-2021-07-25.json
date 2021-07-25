@@ -1601,19 +1601,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5587378,
+      "confirmed": 5601608,
       "date": "2021-07-25",
-      "deaths": 50879,
-      "recovered": 5415937
+      "deaths": 50934,
+      "recovered": 5421148
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 693537,
+          "confirmed": 694836,
           "date": "2021-07-25",
-          "deaths": 12875
+          "deaths": 12874
         }
       },
       "California": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1364794,
+          "confirmed": 1365531,
           "date": "2021-07-25",
-          "deaths": 20897
+          "deaths": 20904
         }
       },
       "Utah": {
