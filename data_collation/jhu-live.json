@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556629,
+          "confirmed": 556647,
           "date": "2021-07-25",
           "deaths": 9270,
-          "recovered": 545992
+          "recovered": 546019
         }
       },
       "Quebec": {
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 291870,
+      "confirmed": 292996,
       "date": "2021-07-25",
       "deaths": 5026,
       "recovered": 23364
@@ -1787,23 +1787,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 4947127,
+          "confirmed": 4972040,
           "date": "2021-07-25",
-          "deaths": 113508,
+          "deaths": 113534,
           "recovered": 0
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 147720,
+          "confirmed": 148984,
           "date": "2021-07-25",
-          "deaths": 2168,
+          "deaths": 2170,
           "recovered": 0
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 338778,
+          "confirmed": 340015,
           "date": "2021-07-25",
           "deaths": 7859,
           "recovered": 0
@@ -1811,7 +1811,7 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 235635,
+          "confirmed": 236873,
           "date": "2021-07-25",
           "deaths": 5595,
           "recovered": 0
