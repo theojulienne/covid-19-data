@@ -170,7 +170,7 @@
           "confirmed": 1184314,
           "date": "2021-07-25",
           "deaths": 25485,
-          "recovered": 1147915
+          "recovered": 1149787
         }
       },
       "Ceara": {
@@ -178,7 +178,7 @@
           "confirmed": 914005,
           "date": "2021-07-25",
           "deaths": 23364,
-          "recovered": 638550
+          "recovered": 639477
         }
       },
       "Distrito Federal": {
@@ -194,7 +194,7 @@
           "confirmed": 538854,
           "date": "2021-07-25",
           "deaths": 11805,
-          "recovered": 514529
+          "recovered": 515859
         }
       },
       "Goias": {
@@ -290,7 +290,7 @@
           "confirmed": 1350885,
           "date": "2021-07-25",
           "deaths": 33039,
-          "recovered": 1305530
+          "recovered": 1307463
         }
       },
       "Rio de Janeiro": {
@@ -298,7 +298,7 @@
           "confirmed": 1013744,
           "date": "2021-07-25",
           "deaths": 58361,
-          "recovered": 943055
+          "recovered": 944924
         }
       },
       "Rondonia": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 860344,
+      "confirmed": 860652,
       "date": "2021-07-25",
       "deaths": 6460,
-      "recovered": 842803
+      "recovered": 842888
     }
   },
   "Italy": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 135631,
+      "confirmed": 135714,
       "date": "2021-07-25",
       "deaths": 799,
       "recovered": 17998
@@ -1341,10 +1341,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1543281,
+      "confirmed": 1548755,
       "date": "2021-07-25",
-      "deaths": 27131,
-      "recovered": 1461749
+      "deaths": 27224,
+      "recovered": 1467269
     }
   },
   "Poland": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 563930,
+      "confirmed": 569289,
       "date": "2021-07-25",
-      "deaths": 18369,
-      "recovered": 457597
+      "deaths": 18600,
+      "recovered": 460361
     }
   },
   "Turkey": {
