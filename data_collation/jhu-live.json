@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132853,
+      "confirmed": 132875,
       "date": "2021-07-25",
       "deaths": 2456,
-      "recovered": 130125
+      "recovered": 130139
     }
   },
   "Algeria": {
@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 264527,
+      "confirmed": 269525,
       "date": "2021-07-25",
-      "deaths": 6756,
-      "recovered": 181249
+      "deaths": 7111,
+      "recovered": 185402
     }
   },
   "Canada": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 156054,
+      "confirmed": 156078,
       "date": "2021-07-25",
       "deaths": 5489,
-      "recovered": 150273
+      "recovered": 150279
     }
   },
   "Norway": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 294850,
+      "confirmed": 296516,
       "date": "2021-07-25",
-      "deaths": 4054,
-      "recovered": 266665
+      "deaths": 4099,
+      "recovered": 267602
     }
   },
   "Sweden": {
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1412430,
+          "confirmed": 1413185,
           "date": "2021-07-25",
-          "deaths": 40531
+          "deaths": 40533
         }
       },
       "North Carolina": {
