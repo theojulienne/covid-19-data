@@ -613,14 +613,6 @@
           "recovered": 176800
         }
       },
-      "Brandenburg": {
-        "live": {
-          "confirmed": 109049,
-          "date": "2021-07-25",
-          "deaths": 3817,
-          "recovered": 104900
-        }
-      },
       "Hessen": {
         "live": {
           "confirmed": 293730,
@@ -901,10 +893,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 3127826,
+      "confirmed": 3166505,
       "date": "2021-07-25",
-      "deaths": 82013,
-      "recovered": 2471678
+      "deaths": 83279,
+      "recovered": 2509318
     }
   },
   "Iran": {
@@ -1017,12 +1009,20 @@
   },
   "Japan": {
     "subseries": {
+      "Osaka": {
+        "live": {
+          "confirmed": 109375,
+          "date": "2021-07-25",
+          "deaths": 2714,
+          "recovered": 102019
+        }
+      },
       "Tokyo": {
         "live": {
-          "confirmed": 197596,
+          "confirmed": 199359,
           "date": "2021-07-25",
           "deaths": 2260,
-          "recovered": 182166
+          "recovered": 183370
         }
       }
     }
@@ -1585,9 +1585,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 481967,
+      "confirmed": 497302,
       "date": "2021-07-25",
-      "deaths": 3930,
+      "deaths": 4059,
       "recovered": 26873
     }
   },
