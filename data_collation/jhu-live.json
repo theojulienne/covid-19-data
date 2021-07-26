@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 143439,
+      "confirmed": 144285,
       "date": "2021-07-26",
-      "deaths": 6357,
+      "deaths": 6477,
       "recovered": 82586
     }
   },
@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 340443,
+      "confirmed": 340715,
       "date": "2021-07-26",
-      "deaths": 5006,
-      "recovered": 332056
+      "deaths": 5009,
+      "recovered": 332136
     }
   },
   "Bahrain": {
@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1164635,
+      "confirmed": 1179827,
       "date": "2021-07-26",
-      "deaths": 19274,
-      "recovered": 998923
+      "deaths": 19521,
+      "recovered": 1009975
     }
   },
   "Belarus": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 311520,
+      "confirmed": 312292,
       "date": "2021-07-26",
-      "deaths": 2542,
-      "recovered": 296932
+      "deaths": 2543,
+      "recovered": 297851
     }
   },
   "Dominican Republic": {
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 652105,
+          "confirmed": 652103,
           "date": "2021-07-26",
           "deaths": 15321,
-          "recovered": 633300
+          "recovered": 633400
         }
       },
       "Berlin": {
@@ -647,10 +647,10 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286411,
+          "confirmed": 286437,
           "date": "2021-07-26",
           "deaths": 10128,
-          "recovered": 275800
+          "recovered": 275900
         }
       },
       "Thuringen": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 225198,
+      "confirmed": 225376,
       "date": "2021-07-26",
       "deaths": 600,
-      "recovered": 222976
+      "recovered": 223114
     }
   },
   "Romania": {
@@ -1667,7 +1667,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1413185,
+          "confirmed": 1413852,
           "date": "2021-07-26",
           "deaths": 40533
         }
