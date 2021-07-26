@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 705555,
           "date": "2021-07-26",
-          "deaths": 15040,
-          "recovered": 667484
+          "deaths": 15077,
+          "recovered": 669765
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 305413,
           "date": "2021-07-26",
-          "deaths": 9162,
-          "recovered": 291338
+          "deaths": 9170,
+          "recovered": 291872
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 148879,
           "date": "2021-07-26",
-          "deaths": 2806,
-          "recovered": 143778
+          "deaths": 2809,
+          "recovered": 144068
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1399105,
           "date": "2021-07-26",
-          "deaths": 26243,
-          "recovered": 1327287
+          "deaths": 26298,
+          "recovered": 1328268
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 253592,
           "date": "2021-07-26",
-          "deaths": 6426,
-          "recovered": 240858
+          "deaths": 6451,
+          "recovered": 241765
         }
       },
       "Santander": {
         "live": {
           "confirmed": 215666,
           "date": "2021-07-26",
-          "deaths": 6875,
-          "recovered": 203442
+          "deaths": 6887,
+          "recovered": 203770
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 377068,
           "date": "2021-07-26",
-          "deaths": 11788,
-          "recovered": 354861
+          "deaths": 11829,
+          "recovered": 356159
         }
       }
     }
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 135714,
+      "confirmed": 135767,
       "date": "2021-07-26",
       "deaths": 799,
       "recovered": 17998
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2807356,
+          "confirmed": 2809440,
           "date": "2021-07-26",
-          "deaths": 48738
+          "deaths": 48742
         }
       },
       "Florida": {
