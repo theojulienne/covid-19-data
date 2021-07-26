@@ -330,7 +330,7 @@
           "confirmed": 4001078,
           "date": "2021-07-26",
           "deaths": 137236,
-          "recovered": 3649393
+          "recovered": 3686875
         }
       },
       "Sergipe": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 588856,
+      "confirmed": 595577,
       "date": "2021-07-26",
-      "deaths": 5382,
-      "recovered": 500952
+      "deaths": 5452,
+      "recovered": 503416
     }
   },
   "Kenya": {
@@ -1153,10 +1153,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 156737,
+      "confirmed": 157974,
       "date": "2021-07-26",
-      "deaths": 774,
-      "recovered": 152158
+      "deaths": 782,
+      "recovered": 154172
     }
   },
   "Morocco": {
@@ -1287,36 +1287,36 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 141627,
+          "confirmed": 141925,
           "date": "2021-07-26",
-          "deaths": 4417,
-          "recovered": 134731
+          "deaths": 4420,
+          "recovered": 134962
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 352682,
+          "confirmed": 353238,
           "date": "2021-07-26",
-          "deaths": 10939,
-          "recovered": 330986
+          "deaths": 10944,
+          "recovered": 331189
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 364784,
+          "confirmed": 367092,
           "date": "2021-07-26",
-          "deaths": 5814,
-          "recovered": 322786
+          "deaths": 5833,
+          "recovered": 323585
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 429083,
+      "confirmed": 429949,
       "date": "2021-07-26",
-      "deaths": 6750,
-      "recovered": 409216
+      "deaths": 6759,
+      "recovered": 409995
     }
   },
   "Paraguay": {
