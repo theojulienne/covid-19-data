@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3691432,
+      "confirmed": 3723246,
       "date": "2021-07-26",
-      "deaths": 88800,
-      "recovered": 3256856
+      "deaths": 89122,
+      "recovered": 3274346
     }
   },
   "Iraq": {
@@ -1085,10 +1085,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 233449,
+      "confirmed": 236961,
       "date": "2021-07-26",
-      "deaths": 3375,
-      "recovered": 186355
+      "deaths": 3398,
+      "recovered": 187221
     }
   },
   "Lithuania": {
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 1013438,
+      "confirmed": 1027954,
       "date": "2021-07-26",
-      "deaths": 7994,
-      "recovered": 844541
+      "deaths": 8201,
+      "recovered": 853913
     }
   },
   "Mexico": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 680556,
+      "confirmed": 682947,
       "date": "2021-07-26",
-      "deaths": 9713,
-      "recovered": 643615
+      "deaths": 9738,
+      "recovered": 645301
     }
   },
   "Netherlands": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1082292,
+      "confirmed": 1082376,
       "date": "2021-07-26",
-      "deaths": 34268,
-      "recovered": 1047246
+      "deaths": 34270,
+      "recovered": 1047291
     }
   },
   "Russia": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 712668,
       "date": "2021-07-26",
-      "deaths": 10895,
+      "deaths": 10896,
       "recovered": 317600
     }
   },
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1365531,
+          "confirmed": 1365552,
           "date": "2021-07-26",
           "deaths": 20904
         }
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 671636,
+      "confirmed": 673185,
       "date": "2021-07-26",
-      "deaths": 1920,
-      "recovered": 649173
+      "deaths": 1927,
+      "recovered": 650683
     }
   },
   "United Kingdom": {
