@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 440708,
+      "confirmed": 441356,
       "date": "2021-07-26",
-      "deaths": 3394,
-      "recovered": 434882
+      "deaths": 3403,
+      "recovered": 435374
     }
   },
   "Belgium": {
@@ -1577,9 +1577,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 712668,
+      "confirmed": 714414,
       "date": "2021-07-26",
-      "deaths": 10896,
+      "deaths": 10897,
       "recovered": 317600
     }
   },
