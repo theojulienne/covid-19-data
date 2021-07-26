@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556793,
+          "confirmed": 556916,
           "date": "2021-07-26",
-          "deaths": 9272,
-          "recovered": 546173
+          "deaths": 9273,
+          "recovered": 546237
         }
       },
       "Quebec": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2811411,
+          "confirmed": 2812840,
           "date": "2021-07-26",
           "deaths": 48762
         }
@@ -1695,16 +1695,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1366060,
+          "confirmed": 1366594,
           "date": "2021-07-26",
-          "deaths": 20904
+          "deaths": 20908
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 157373,
+          "confirmed": 158089,
           "date": "2021-07-26",
-          "deaths": 931
+          "deaths": 933
         }
       },
       "Washington": {
