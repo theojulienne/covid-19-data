@@ -33,10 +33,10 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 228798,
+      "confirmed": 228910,
       "date": "2021-07-26",
-      "deaths": 4587,
-      "recovered": 219062
+      "deaths": 4590,
+      "recovered": 219168
     }
   },
   "Austria": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 860652,
+      "confirmed": 861516,
       "date": "2021-07-26",
-      "deaths": 6460,
-      "recovered": 842888
+      "deaths": 6461,
+      "recovered": 843344
     }
   },
   "Italy": {
