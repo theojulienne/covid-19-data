@@ -635,7 +635,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 376651,
+          "confirmed": 376753,
           "deaths": 11239
         },
         "Repatriated Travellers": {
@@ -2749,19 +2749,19 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 1502359,
-        "deaths": 26598,
-        "recovered": 1428504
+        "confirmed": 1507755,
+        "deaths": 26714,
+        "recovered": 1433851
       },
       "back_2week": {
-        "confirmed": 1467119,
-        "deaths": 25816,
-        "recovered": 1391335
+        "confirmed": 1473025,
+        "deaths": 25921,
+        "recovered": 1397403
       },
       "latest": {
-        "confirmed": 1543281,
-        "deaths": 27131,
-        "recovered": 1461749
+        "confirmed": 1548755,
+        "deaths": 27224,
+        "recovered": 1467269
       }
     },
     "PLW": {
@@ -3366,14 +3366,14 @@
         "recovered": 5380752
       },
       "back_2week": {
-        "confirmed": 5476294,
-        "deaths": 50192,
-        "recovered": 5344102
+        "confirmed": 5481555,
+        "deaths": 50229,
+        "recovered": 5349344
       },
       "latest": {
-        "confirmed": 5587378,
-        "deaths": 50879,
-        "recovered": 5415937
+        "confirmed": 5601608,
+        "deaths": 50934,
+        "recovered": 5421148
       }
     },
     "TWN": {
