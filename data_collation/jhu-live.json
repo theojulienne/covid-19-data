@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 269525,
+      "confirmed": 274155,
       "date": "2021-07-26",
-      "deaths": 7111,
-      "recovered": 185402
+      "deaths": 7507,
+      "recovered": 189729
     }
   },
   "Canada": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 569289,
+      "confirmed": 573394,
       "date": "2021-07-26",
-      "deaths": 18600,
-      "recovered": 460361
+      "deaths": 18804,
+      "recovered": 471196
     }
   },
   "Turkey": {
