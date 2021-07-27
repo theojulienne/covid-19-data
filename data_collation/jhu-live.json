@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556987,
+          "confirmed": 556996,
           "date": "2021-07-27",
-          "deaths": 9274,
-          "recovered": 546366
+          "deaths": 9275,
+          "recovered": 546396
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5919170,
+      "confirmed": 5946041,
       "date": "2021-07-27",
-      "deaths": 110661,
-      "recovered": 342182
+      "deaths": 110689,
+      "recovered": 342647
     }
   },
   "Georgia": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2818370,
+          "confirmed": 2819050,
           "date": "2021-07-27",
-          "deaths": 48766
+          "deaths": 48767
         }
       },
       "Florida": {
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 562216,
+          "confirmed": 562540,
           "date": "2021-07-27",
-          "deaths": 10554
+          "deaths": 10557
         }
       },
       "Massachusetts": {
@@ -1660,16 +1660,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 275983,
+          "confirmed": 276934,
           "date": "2021-07-27",
-          "deaths": 4636
+          "deaths": 4653
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1415038,
+          "confirmed": 1415675,
           "date": "2021-07-27",
-          "deaths": 40536
+          "deaths": 40538
         }
       },
       "North Carolina": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 247441,
+          "confirmed": 247687,
           "date": "2021-07-27",
           "deaths": 3756
         }
