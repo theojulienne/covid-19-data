@@ -363,8 +363,8 @@
     "live": {
       "confirmed": 279119,
       "date": "2021-07-27",
-      "deaths": 7507,
-      "recovered": 189729
+      "deaths": 7845,
+      "recovered": 194410
     }
   },
   "Canada": {
@@ -1145,10 +1145,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 258713,
+      "confirmed": 258852,
       "date": "2021-07-27",
-      "deaths": 6245,
-      "recovered": 251553
+      "deaths": 6247,
+      "recovered": 251645
     }
   },
   "Mongolia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 136097,
+      "confirmed": 136177,
       "date": "2021-07-27",
       "deaths": 799,
       "recovered": 17998
