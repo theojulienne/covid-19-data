@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 441356,
+      "confirmed": 441881,
       "date": "2021-07-27",
-      "deaths": 3403,
-      "recovered": 435374
+      "deaths": 3413,
+      "recovered": 435842
     }
   },
   "Belgium": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 682947,
+      "confirmed": 685673,
       "date": "2021-07-27",
-      "deaths": 9738,
-      "recovered": 645301
+      "deaths": 9758,
+      "recovered": 647079
     }
   },
   "Netherlands": {
@@ -1577,7 +1577,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 714414,
+      "confirmed": 715267,
       "date": "2021-07-27",
       "deaths": 10899,
       "recovered": 317600
@@ -1845,10 +1845,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 316088,
+      "confirmed": 316189,
       "date": "2021-07-27",
-      "deaths": 3599,
-      "recovered": 311526
+      "deaths": 3600,
+      "recovered": 311560
     }
   },
   "Zambia": {
