@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 595577,
+      "confirmed": 602397,
       "date": "2021-07-27",
-      "deaths": 5452,
-      "recovered": 503416
+      "deaths": 5538,
+      "recovered": 506116
     }
   },
   "Kenya": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 429949,
+      "confirmed": 430444,
       "date": "2021-07-27",
-      "deaths": 6759,
-      "recovered": 409995
+      "deaths": 6768,
+      "recovered": 410678
     }
   },
   "Paraguay": {
