@@ -1105,7 +1105,7 @@ var covid19_dataset_country_brn = {
       305,
       305,
       311,
-      311,
+      313,
       321,
       321
     ],
