@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 138504,
+      "confirmed": 138572,
       "date": "2021-07-27",
-      "deaths": 2550,
-      "recovered": 135380
+      "deaths": 2552,
+      "recovered": 135431
     }
   },
   "Lebanon": {
@@ -1085,10 +1085,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 236961,
+      "confirmed": 240309,
       "date": "2021-07-27",
-      "deaths": 3398,
-      "recovered": 187221
+      "deaths": 3422,
+      "recovered": 187960
     }
   },
   "Lithuania": {
@@ -1277,10 +1277,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 294526,
+      "confirmed": 295017,
       "date": "2021-07-27",
-      "deaths": 3771,
-      "recovered": 276483
+      "deaths": 3788,
+      "recovered": 277010
     }
   },
   "Pakistan": {
@@ -1579,7 +1579,7 @@
     "live": {
       "confirmed": 714414,
       "date": "2021-07-27",
-      "deaths": 10898,
+      "deaths": 10899,
       "recovered": 317600
     }
   },
