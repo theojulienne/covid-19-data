@@ -305,7 +305,7 @@
         "live": {
           "confirmed": 256357,
           "date": "2021-07-27",
-          "deaths": 6338,
+          "deaths": 6336,
           "recovered": 245126
         }
       },
@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 707109,
           "date": "2021-07-27",
-          "deaths": 15077,
-          "recovered": 669765
+          "deaths": 15103,
+          "recovered": 672817
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 305719,
           "date": "2021-07-27",
-          "deaths": 9170,
-          "recovered": 291872
+          "deaths": 9175,
+          "recovered": 292740
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 149208,
           "date": "2021-07-27",
-          "deaths": 2809,
-          "recovered": 144068
+          "deaths": 2812,
+          "recovered": 144603
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1400870,
           "date": "2021-07-27",
-          "deaths": 26298,
-          "recovered": 1328268
+          "deaths": 26350,
+          "recovered": 1332952
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 254046,
           "date": "2021-07-27",
-          "deaths": 6451,
-          "recovered": 241765
+          "deaths": 6469,
+          "recovered": 242647
         }
       },
       "Santander": {
         "live": {
           "confirmed": 216263,
           "date": "2021-07-27",
-          "deaths": 6887,
-          "recovered": 203770
+          "deaths": 6907,
+          "recovered": 204560
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 377814,
           "date": "2021-07-27",
-          "deaths": 11829,
-          "recovered": 356159
+          "deaths": 11876,
+          "recovered": 357771
         }
       }
     }
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2816829,
+          "confirmed": 2817468,
           "date": "2021-07-27",
           "deaths": 48762
         }
