@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 163660,
+      "confirmed": 165204,
       "date": "2021-07-27",
-      "deaths": 4087,
-      "recovered": 111322
+      "deaths": 4112,
+      "recovered": 112050
     }
   },
   "Argentina": {
@@ -234,7 +234,7 @@
           "confirmed": 1937490,
           "date": "2021-07-27",
           "deaths": 49869,
-          "recovered": 1824555
+          "recovered": 1835335
         }
       },
       "Para": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 556996,
+          "confirmed": 557046,
           "date": "2021-07-27",
-          "deaths": 9275,
-          "recovered": 546396
+          "deaths": 9279,
+          "recovered": 546438
         }
       },
       "Quebec": {
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 278717,
+      "confirmed": 278920,
       "date": "2021-07-27",
-      "deaths": 4371,
-      "recovered": 262925
+      "deaths": 4374,
+      "recovered": 262968
     }
   },
   "France": {
@@ -673,10 +673,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 352584,
+      "confirmed": 355223,
       "date": "2021-07-27",
-      "deaths": 10112,
-      "recovered": 308908
+      "deaths": 10176,
+      "recovered": 311828
     }
   },
   "Honduras": {
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 294272,
+      "confirmed": 295386,
       "date": "2021-07-27",
       "deaths": 5026,
       "recovered": 23364
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 393605,
+      "confirmed": 394538,
       "date": "2021-07-27",
-      "deaths": 2293,
-      "recovered": 377434
+      "deaths": 2298,
+      "recovered": 378810
     }
   },
   "Kyrgyzstan": {
@@ -1611,14 +1611,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 696066,
+          "confirmed": 697023,
           "date": "2021-07-27",
-          "deaths": 12874
+          "deaths": 12881
         }
       },
       "California": {
         "live": {
-          "confirmed": 2819050,
+          "confirmed": 2819241,
           "date": "2021-07-27",
           "deaths": 48767
         }
@@ -1667,7 +1667,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1415675,
+          "confirmed": 1416219,
           "date": "2021-07-27",
           "deaths": 40538
         }
