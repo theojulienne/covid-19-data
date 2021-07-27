@@ -2,18 +2,18 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 137853,
-        "deaths": 5983,
+        "confirmed": 141489,
+        "deaths": 6213,
         "recovered": 82586
       },
       "back_2week": {
-        "confirmed": 131586,
-        "deaths": 5561,
+        "confirmed": 134653,
+        "deaths": 5791,
         "recovered": 81077
       },
       "latest": {
-        "confirmed": 143439,
-        "deaths": 6357,
+        "confirmed": 144285,
+        "deaths": 6477,
         "recovered": 82586
       }
     },
@@ -635,7 +635,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 376753,
+          "confirmed": 376828,
           "deaths": 11240
         },
         "Repatriated Travellers": {
@@ -3950,19 +3950,19 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2295095,
-        "deaths": 66859,
-        "recovered": 2050164
+        "confirmed": 2302304,
+        "deaths": 67080,
+        "recovered": 2069085
       },
       "back_2week": {
-        "confirmed": 2195599,
-        "deaths": 64289,
-        "recovered": 1922601
+        "confirmed": 2206781,
+        "deaths": 64509,
+        "recovered": 1943513
       },
       "latest": {
-        "confirmed": 2377823,
-        "deaths": 69775,
-        "recovered": 2158183
+        "confirmed": 2383490,
+        "deaths": 70018,
+        "recovered": 2169452
       }
     },
     "ZMB": {

@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 144285,
+      "confirmed": 145008,
       "date": "2021-07-27",
-      "deaths": 6477,
+      "deaths": 6515,
       "recovered": 82586
     }
   },
@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 376828,
+          "confirmed": 376901,
           "date": "2021-07-27",
           "deaths": 11240,
           "recovered": 364033
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2383490,
+      "confirmed": 2391223,
       "date": "2021-07-27",
-      "deaths": 70018,
-      "recovered": 2169452
+      "deaths": 70338,
+      "recovered": 2180494
     }
   },
   "Spain": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 286917,
+          "confirmed": 287572,
           "date": "2021-07-27",
-          "deaths": 7669
+          "deaths": 7676
         }
       },
       "Minnesota": {
@@ -1702,9 +1702,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 158089,
+          "confirmed": 158303,
           "date": "2021-07-27",
-          "deaths": 933
+          "deaths": 936
         }
       },
       "Washington": {
