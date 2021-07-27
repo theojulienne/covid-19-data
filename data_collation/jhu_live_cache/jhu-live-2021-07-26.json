@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4846615,
+      "confirmed": 4859170,
       "date": "2021-07-26",
-      "deaths": 103721,
-      "recovered": 4493984
+      "deaths": 104105,
+      "recovered": 4508137
     }
   },
   "Armenia": {
@@ -133,10 +133,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 205420,
+      "confirmed": 205495,
       "date": "2021-07-26",
-      "deaths": 9675,
-      "recovered": 188460
+      "deaths": 9677,
+      "recovered": 188835
     }
   },
   "Brazil": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 148842,
+          "confirmed": 149109,
           "date": "2021-07-26",
-          "deaths": 1767,
-          "recovered": 146463
+          "deaths": 1768,
+          "recovered": 146636
         }
       },
       "Ontario": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5916568,
+      "confirmed": 5919170,
       "date": "2021-07-26",
-      "deaths": 110625,
-      "recovered": 341877
+      "deaths": 110661,
+      "recovered": 342182
     }
   },
   "Georgia": {
@@ -610,7 +610,7 @@
           "confirmed": 181720,
           "date": "2021-07-26",
           "deaths": 3578,
-          "recovered": 176800
+          "recovered": 176900
         }
       },
       "Hessen": {
@@ -1709,9 +1709,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 115416,
+          "confirmed": 116154,
           "date": "2021-07-26",
-          "deaths": 1677
+          "deaths": 1678
         }
       },
       "Wisconsin": {
