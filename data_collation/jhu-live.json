@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 165204,
+      "confirmed": 167131,
       "date": "2021-07-28",
-      "deaths": 4112,
-      "recovered": 112050
+      "deaths": 4161,
+      "recovered": 112900
     }
   },
   "Argentina": {
@@ -387,7 +387,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557180,
+          "confirmed": 557181,
           "date": "2021-07-28",
           "deaths": 9283,
           "recovered": 546538
@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 376901,
+          "confirmed": 377034,
           "date": "2021-07-28",
           "deaths": 11240,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 278920,
+      "confirmed": 279153,
       "date": "2021-07-28",
-      "deaths": 4374,
-      "recovered": 262968
+      "deaths": 4376,
+      "recovered": 263066
     }
   },
   "France": {
@@ -673,9 +673,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 355223,
+      "confirmed": 358798,
       "date": "2021-07-28",
-      "deaths": 10176,
+      "deaths": 10224,
       "recovered": 311828
     }
   },
@@ -1177,10 +1177,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 117293,
+      "confirmed": 117570,
       "date": "2021-07-28",
-      "deaths": 2871,
-      "recovered": 93508
+      "deaths": 2927,
+      "recovered": 93931
     }
   },
   "Nepal": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 299892,
+      "confirmed": 301832,
       "date": "2021-07-28",
-      "deaths": 4195,
-      "recovered": 270356
+      "deaths": 4258,
+      "recovered": 271855
     }
   },
   "Sweden": {
@@ -1660,9 +1660,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 276934,
+          "confirmed": 277982,
           "date": "2021-07-28",
-          "deaths": 4653
+          "deaths": 4669
         }
       },
       "New York": {
@@ -1716,9 +1716,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 119879,
+          "confirmed": 120216,
           "date": "2021-07-28",
-          "deaths": 1363
+          "deaths": 1441
         }
       }
     }
