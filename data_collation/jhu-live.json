@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132891,
+      "confirmed": 132922,
       "date": "2021-07-28",
       "deaths": 2456,
-      "recovered": 130152
+      "recovered": 130166
     }
   },
   "Algeria": {
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 284059,
+      "confirmed": 284090,
       "date": "2021-07-28",
-      "deaths": 16494,
-      "recovered": 227970
+      "deaths": 16498,
+      "recovered": 228624
     }
   },
   "Estonia": {
@@ -1321,10 +1321,10 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 449902,
+      "confirmed": 450494,
       "date": "2021-07-28",
-      "deaths": 14701,
-      "recovered": 414125
+      "deaths": 14759,
+      "recovered": 415391
     }
   },
   "Peru": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1370419,
+          "confirmed": 1373934,
           "date": "2021-07-28",
           "deaths": 20930
         }
