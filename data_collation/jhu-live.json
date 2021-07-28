@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557173,
+          "confirmed": 557180,
           "date": "2021-07-28",
           "deaths": 9283,
-          "recovered": 546529
+          "recovered": 546538
         }
       },
       "Quebec": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 865877,
+      "confirmed": 866866,
       "date": "2021-07-28",
-      "deaths": 6460,
-      "recovered": 844943
+      "deaths": 6462,
+      "recovered": 845721
     }
   },
   "Italy": {
@@ -1161,10 +1161,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 588448,
+      "confirmed": 597876,
       "date": "2021-07-28",
-      "deaths": 9638,
-      "recovered": 549116
+      "deaths": 9665,
+      "recovered": 550882
     }
   },
   "Mozambique": {
@@ -1620,7 +1620,7 @@
         "live": {
           "confirmed": 2711456,
           "date": "2021-07-28",
-          "deaths": 47357
+          "deaths": 47368
         }
       },
       "Florida": {
@@ -1653,7 +1653,7 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 126640,
+          "confirmed": 126788,
           "date": "2021-07-28",
           "deaths": 1800
         }
@@ -1674,9 +1674,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 118004,
+          "confirmed": 118317,
           "date": "2021-07-28",
-          "deaths": 988
+          "deaths": 990
         }
       },
       "Ohio": {
@@ -1690,14 +1690,14 @@
         "live": {
           "confirmed": 156240,
           "date": "2021-07-28",
-          "deaths": 3780
+          "deaths": 3783
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1374064,
+          "confirmed": 1374506,
           "date": "2021-07-28",
-          "deaths": 20930
+          "deaths": 20938
         }
       },
       "Utah": {
@@ -1803,9 +1803,9 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 342059,
+          "confirmed": 341307,
           "date": "2021-07-28",
-          "deaths": 7866,
+          "deaths": 7911,
           "recovered": 0
         }
       },
