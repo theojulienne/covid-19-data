@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 469182,
+      "confirmed": 470024,
       "date": "2021-07-28",
-      "deaths": 17672,
-      "recovered": 402031
+      "deaths": 17716,
+      "recovered": 403396
     }
   },
   "Bosnia and Herzegovina": {
@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 290447,
+      "confirmed": 291687,
       "date": "2021-07-28",
-      "deaths": 7650,
-      "recovered": 97711
+      "deaths": 7713,
+      "recovered": 98410
     }
   },
   "Hungary": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 602397,
+      "confirmed": 609646,
       "date": "2021-07-28",
-      "deaths": 5538,
-      "recovered": 506116
+      "deaths": 5619,
+      "recovered": 509015
     }
   },
   "Kenya": {
@@ -1153,10 +1153,10 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 159101,
+      "confirmed": 160344,
       "date": "2021-07-28",
-      "deaths": 789,
-      "recovered": 156405
+      "deaths": 796,
+      "recovered": 158505
     }
   },
   "Morocco": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 142139,
+          "confirmed": 142400,
           "date": "2021-07-28",
-          "deaths": 4423,
-          "recovered": 135106
+          "deaths": 4428,
+          "recovered": 135606
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 353695,
+          "confirmed": 354312,
           "date": "2021-07-28",
-          "deaths": 10964,
-          "recovered": 331222
+          "deaths": 10978,
+          "recovered": 331433
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 369245,
+          "confirmed": 371762,
           "date": "2021-07-28",
-          "deaths": 5840,
-          "recovered": 324206
+          "deaths": 5860,
+          "recovered": 330166
         }
       }
     }
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 300919,
+      "confirmed": 301979,
       "date": "2021-07-28",
-      "deaths": 3509,
-      "recovered": 284435
+      "deaths": 3524,
+      "recovered": 285776
     }
   },
   "Vietnam": {
