@@ -418,19 +418,19 @@ var covid19_dataset_latest_totals = {
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 435020,
-        "deaths": 3334,
-        "recovered": 428682
+        "confirmed": 435620,
+        "deaths": 3344,
+        "recovered": 429257
       },
       "back_2week": {
-        "confirmed": 428595,
-        "deaths": 3266,
-        "recovered": 421842
+        "confirmed": 429181,
+        "deaths": 3276,
+        "recovered": 422374
       },
       "latest": {
-        "confirmed": 441356,
-        "deaths": 3403,
-        "recovered": 435374
+        "confirmed": 441881,
+        "deaths": 3413,
+        "recovered": 435842
       }
     },
     "BLZ": {
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 306944,
+        "confirmed": 307764,
         "deaths": 2542,
-        "recovered": 293230
+        "recovered": 293906
       },
       "back_2week": {
-        "confirmed": 300071,
+        "confirmed": 301126,
         "deaths": 2539,
-        "recovered": 290555
+        "recovered": 290841
       },
       "latest": {
-        "confirmed": 312292,
-        "deaths": 2543,
-        "recovered": 297851
+        "confirmed": 312851,
+        "deaths": 2546,
+        "recovered": 298953
       },
       "states": {
         "Faroe Islands": {
@@ -2640,19 +2640,19 @@ var covid19_dataset_latest_totals = {
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 668751,
-        "deaths": 9582,
-        "recovered": 633332
+        "confirmed": 670953,
+        "deaths": 9607,
+        "recovered": 634927
       },
       "back_2week": {
-        "confirmed": 657139,
-        "deaths": 9400,
-        "recovered": 621027
+        "confirmed": 658778,
+        "deaths": 9412,
+        "recovered": 623105
       },
       "latest": {
-        "confirmed": 682947,
-        "deaths": 9738,
-        "recovered": 645301
+        "confirmed": 685673,
+        "deaths": 9758,
+        "recovered": 647079
       }
     },
     "NZL": {
