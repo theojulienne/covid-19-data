@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 268731,
+      "confirmed": 268846,
       "date": "2021-07-28",
       "deaths": 1383,
-      "recovered": 266497
+      "recovered": 266571
     }
   },
   "Bangladesh": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 233681,
+          "confirmed": 233875,
           "date": "2021-07-28",
           "deaths": 2325,
-          "recovered": 230183
+          "recovered": 230216
         }
       },
       "British Columbia": {
@@ -676,7 +676,7 @@
       "confirmed": 358798,
       "date": "2021-07-28",
       "deaths": 10224,
-      "recovered": 311828
+      "recovered": 314439
     }
   },
   "Honduras": {
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 206813,
           "date": "2021-07-28",
-          "deaths": 2262,
+          "deaths": 2285,
           "recovered": 186917
         }
       }
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 394538,
+      "confirmed": 395479,
       "date": "2021-07-28",
-      "deaths": 2298,
-      "recovered": 378810
+      "deaths": 2303,
+      "recovered": 380175
     }
   },
   "Kyrgyzstan": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 697023,
+          "confirmed": 698013,
           "date": "2021-07-28",
-          "deaths": 12881
+          "deaths": 12880
         }
       },
       "California": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 136723,
+          "confirmed": 136846,
           "date": "2021-07-28",
-          "deaths": 3792
+          "deaths": 3793
         }
       },
       "Michigan": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1374842,
+          "confirmed": 1375831,
           "date": "2021-07-28",
-          "deaths": 20950
+          "deaths": 20955
         }
       },
       "Utah": {
