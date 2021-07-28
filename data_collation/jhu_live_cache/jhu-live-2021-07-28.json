@@ -83,7 +83,7 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 146850,
+          "confirmed": 147084,
           "date": "2021-07-28",
           "deaths": 0,
           "recovered": 0
@@ -91,7 +91,7 @@
       },
       "Brussels": {
         "live": {
-          "confirmed": 138743,
+          "confirmed": 138976,
           "date": "2021-07-28",
           "deaths": 0,
           "recovered": 0
@@ -99,7 +99,7 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 128647,
+          "confirmed": 128802,
           "date": "2021-07-28",
           "deaths": 0,
           "recovered": 0
@@ -107,7 +107,7 @@
       },
       "Hainaut": {
         "live": {
-          "confirmed": 162844,
+          "confirmed": 162947,
           "date": "2021-07-28",
           "deaths": 0,
           "recovered": 0
@@ -115,7 +115,7 @@
       },
       "Liege": {
         "live": {
-          "confirmed": 133371,
+          "confirmed": 133473,
           "date": "2021-07-28",
           "deaths": 0,
           "recovered": 0
@@ -435,7 +435,7 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 707109,
+          "confirmed": 708549,
           "date": "2021-07-28",
           "deaths": 15103,
           "recovered": 672817
@@ -443,7 +443,7 @@
       },
       "Atlantico": {
         "live": {
-          "confirmed": 305719,
+          "confirmed": 306101,
           "date": "2021-07-28",
           "deaths": 9175,
           "recovered": 292740
@@ -451,7 +451,7 @@
       },
       "Bolivar": {
         "live": {
-          "confirmed": 149208,
+          "confirmed": 149552,
           "date": "2021-07-28",
           "deaths": 2812,
           "recovered": 144603
@@ -459,7 +459,7 @@
       },
       "Capital District": {
         "live": {
-          "confirmed": 1400870,
+          "confirmed": 1403613,
           "date": "2021-07-28",
           "deaths": 26350,
           "recovered": 1332952
@@ -467,7 +467,7 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 254046,
+          "confirmed": 254761,
           "date": "2021-07-28",
           "deaths": 6469,
           "recovered": 242647
@@ -475,7 +475,7 @@
       },
       "Santander": {
         "live": {
-          "confirmed": 216263,
+          "confirmed": 216937,
           "date": "2021-07-28",
           "deaths": 6907,
           "recovered": 204560
@@ -483,7 +483,7 @@
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 377814,
+          "confirmed": 379538,
           "date": "2021-07-28",
           "deaths": 11876,
           "recovered": 357771
@@ -493,10 +493,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 398608,
+      "confirmed": 402044,
       "date": "2021-07-28",
-      "deaths": 4941,
-      "recovered": 322423
+      "deaths": 4987,
+      "recovered": 325139
     }
   },
   "Croatia": {
@@ -1111,33 +1111,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 760440,
+          "confirmed": 765441,
           "date": "2021-07-28",
-          "deaths": 35428,
+          "deaths": 35475,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 136803,
+          "confirmed": 137257,
           "date": "2021-07-28",
-          "deaths": 11150,
+          "deaths": 11153,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 282067,
+          "confirmed": 284008,
           "date": "2021-07-28",
-          "deaths": 37982,
+          "deaths": 38071,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 137495,
+          "confirmed": 138284,
           "date": "2021-07-28",
-          "deaths": 10009,
+          "deaths": 10023,
           "recovered": 0
         }
       }
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 430444,
+      "confirmed": 431554,
       "date": "2021-07-28",
-      "deaths": 6768,
-      "recovered": 410678
+      "deaths": 6781,
+      "recovered": 411945
     }
   },
   "Paraguay": {
@@ -1541,7 +1541,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 299366,
+      "confirmed": 299892,
       "date": "2021-07-28",
       "deaths": 4195,
       "recovered": 270356
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2709617,
+          "confirmed": 2711456,
           "date": "2021-07-28",
-          "deaths": 47352
+          "deaths": 47357
         }
       },
       "Florida": {
