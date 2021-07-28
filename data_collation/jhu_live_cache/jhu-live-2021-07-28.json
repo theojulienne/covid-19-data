@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 656949,
+      "confirmed": 657501,
       "date": "2021-07-28",
       "deaths": 10737,
-      "recovered": 641541
+      "recovered": 641880
     }
   },
   "Azerbaijan": {
@@ -1014,7 +1014,7 @@
           "confirmed": 206813,
           "date": "2021-07-28",
           "deaths": 2262,
-          "recovered": 185612
+          "recovered": 186917
         }
       }
     }
@@ -1072,7 +1072,7 @@
       "confirmed": 138650,
       "date": "2021-07-28",
       "deaths": 2554,
-      "recovered": 135431
+      "recovered": 135463
     }
   },
   "Lebanon": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 258780,
+      "confirmed": 258864,
       "date": "2021-07-28",
       "deaths": 4428,
-      "recovered": 253480
+      "recovered": 253563
     }
   },
   "South Africa": {
@@ -1579,15 +1579,15 @@
     "live": {
       "confirmed": 715267,
       "date": "2021-07-28",
-      "deaths": 10898,
+      "deaths": 10901,
       "recovered": 317600
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 526828,
+      "confirmed": 543361,
       "date": "2021-07-28",
-      "deaths": 4264,
+      "deaths": 4397,
       "recovered": 26873
     }
   },
