@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 145552,
+      "confirmed": 145996,
       "date": "2021-07-29",
-      "deaths": 6577,
+      "deaths": 6615,
       "recovered": 82586
     }
   },
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557357,
+          "confirmed": 557398,
           "date": "2021-07-29",
           "deaths": 9294,
-          "recovered": 546710
+          "recovered": 546729
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 5971078,
+      "confirmed": 5996132,
       "date": "2021-07-29",
-      "deaths": 110718,
-      "recovered": 341160
+      "deaths": 110740,
+      "recovered": 341577
     }
   },
   "Georgia": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2391223,
+      "confirmed": 2422151,
       "date": "2021-07-29",
-      "deaths": 70338,
-      "recovered": 2180494
+      "deaths": 71431,
+      "recovered": 2194762
     }
   },
   "Spain": {
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 563084,
+          "confirmed": 563452,
           "date": "2021-07-29",
-          "deaths": 10559
+          "deaths": 10564
         }
       },
       "Massachusetts": {
@@ -1660,16 +1660,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 277982,
+          "confirmed": 279142,
           "date": "2021-07-29",
-          "deaths": 4669
+          "deaths": 4693
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1417526,
+          "confirmed": 1418560,
           "date": "2021-07-29",
-          "deaths": 40545
+          "deaths": 40548
         }
       },
       "North Carolina": {
@@ -1681,14 +1681,14 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 247958,
+          "confirmed": 248193,
           "date": "2021-07-29",
           "deaths": 3756
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 156240,
+          "confirmed": 156688,
           "date": "2021-07-29",
           "deaths": 3784
         }
