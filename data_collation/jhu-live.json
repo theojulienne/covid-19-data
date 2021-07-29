@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4875927,
+      "confirmed": 4891810,
       "date": "2021-07-28",
-      "deaths": 104352,
-      "recovered": 4519922
+      "deaths": 104822,
+      "recovered": 4529259
     }
   },
   "Armenia": {
@@ -218,7 +218,7 @@
           "confirmed": 482143,
           "date": "2021-07-28",
           "deaths": 12468,
-          "recovered": 456929
+          "recovered": 461784
         }
       },
       "Mato Grosso do Sul": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 149259,
+          "confirmed": 149444,
           "date": "2021-07-28",
-          "deaths": 1768,
-          "recovered": 146700
+          "deaths": 1771,
+          "recovered": 146756
         }
       },
       "Ontario": {
@@ -1169,10 +1169,10 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 113426,
+      "confirmed": 115886,
       "date": "2021-07-28",
-      "deaths": 1341,
-      "recovered": 86079
+      "deaths": 1367,
+      "recovered": 86423
     }
   },
   "Namibia": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 575002,
+      "confirmed": 578962,
       "date": "2021-07-28",
-      "deaths": 18968,
-      "recovered": 479032
+      "deaths": 19027,
+      "recovered": 491854
     }
   },
   "Turkey": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2712671,
+          "confirmed": 2712862,
           "date": "2021-07-28",
           "deaths": 47368
         }
