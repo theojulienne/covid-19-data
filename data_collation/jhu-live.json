@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3792014,
+      "confirmed": 3826447,
       "date": "2021-07-29",
-      "deaths": 89782,
-      "recovered": 3310163
+      "deaths": 90074,
+      "recovered": 3329065
     }
   },
   "Iraq": {
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 1061476,
+      "confirmed": 1078646,
       "date": "2021-07-29",
-      "deaths": 8551,
-      "recovered": 877812
+      "deaths": 8725,
+      "recovered": 890742
     }
   },
   "Mexico": {
@@ -1577,7 +1577,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 716038,
+      "confirmed": 716865,
       "date": "2021-07-29",
       "deaths": 10905,
       "recovered": 317600
