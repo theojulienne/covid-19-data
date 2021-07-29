@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 470024,
+      "confirmed": 470929,
       "date": "2021-07-29",
-      "deaths": 17716,
-      "recovered": 403396
+      "deaths": 17754,
+      "recovered": 404509
     }
   },
   "Bosnia and Herzegovina": {
@@ -591,74 +591,74 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 505120,
+          "confirmed": 505714,
           "date": "2021-07-29",
-          "deaths": 10389,
-          "recovered": 491700
+          "deaths": 10402,
+          "recovered": 492900
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 652663,
+          "confirmed": 654078,
           "date": "2021-07-29",
-          "deaths": 15325,
-          "recovered": 633700
+          "deaths": 15342,
+          "recovered": 634500
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 182177,
+          "confirmed": 182630,
           "date": "2021-07-29",
-          "deaths": 3581,
-          "recovered": 177100
+          "deaths": 3588,
+          "recovered": 177900
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 294058,
+          "confirmed": 294779,
           "date": "2021-07-29",
-          "deaths": 7579,
-          "recovered": 284400
+          "deaths": 7580,
+          "recovered": 285000
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 264216,
+          "confirmed": 264858,
           "date": "2021-07-29",
-          "deaths": 5813,
-          "recovered": 256200
+          "deaths": 5819,
+          "recovered": 256600
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 824476,
+          "confirmed": 826740,
           "date": "2021-07-29",
-          "deaths": 17283,
-          "recovered": 801900
+          "deaths": 17307,
+          "recovered": 803500
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 157225,
+          "confirmed": 157486,
           "date": "2021-07-29",
-          "deaths": 3906,
-          "recovered": 152100
+          "deaths": 3909,
+          "recovered": 152200
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286572,
+          "confirmed": 286822,
           "date": "2021-07-29",
-          "deaths": 10132,
-          "recovered": 275900
+          "deaths": 10135,
+          "recovered": 276000
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129159,
+          "confirmed": 129448,
           "date": "2021-07-29",
-          "deaths": 4379,
-          "recovered": 124400
+          "deaths": 4395,
+          "recovered": 124600
         }
       }
     }
@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 291687,
+      "confirmed": 292969,
       "date": "2021-07-29",
-      "deaths": 7713,
-      "recovered": 98410
+      "deaths": 7758,
+      "recovered": 99072
     }
   },
   "Hungary": {
@@ -1045,10 +1045,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 193427,
+      "confirmed": 195099,
       "date": "2021-07-29",
-      "deaths": 2083,
-      "recovered": 170494
+      "deaths": 2085,
+      "recovered": 171559
     }
   },
   "Kuwait": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2715766,
+          "confirmed": 2715935,
           "date": "2021-07-29",
           "deaths": 47368
         }
@@ -1837,18 +1837,18 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 301979,
+      "confirmed": 302988,
       "date": "2021-07-29",
-      "deaths": 3524,
-      "recovered": 285776
+      "deaths": 3542,
+      "recovered": 286795
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 117121,
+      "confirmed": 123640,
       "date": "2021-07-29",
-      "deaths": 524,
-      "recovered": 22946
+      "deaths": 630,
+      "recovered": 27457
     }
   },
   "West Bank and Gaza": {
