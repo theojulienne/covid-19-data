@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 132999,
+      "confirmed": 133036,
       "date": "2021-07-30",
       "deaths": 2457,
-      "recovered": 130187
+      "recovered": 130205
     }
   },
   "Algeria": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557591,
+          "confirmed": 557610,
           "date": "2021-07-30",
           "deaths": 9299,
-          "recovered": 546856
+          "recovered": 546870
         }
       },
       "Quebec": {
@@ -591,9 +591,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 505412,
+          "confirmed": 505661,
           "date": "2021-07-30",
-          "deaths": 10391,
+          "deaths": 10393,
           "recovered": 492400
         }
       },
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 304202,
+      "confirmed": 306662,
       "date": "2021-07-30",
-      "deaths": 4324,
-      "recovered": 273496
+      "deaths": 4380,
+      "recovered": 275212
     }
   },
   "Sweden": {
@@ -1611,16 +1611,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 699300,
+          "confirmed": 700767,
           "date": "2021-07-30",
-          "deaths": 12893
+          "deaths": 12904
         }
       },
       "California": {
         "live": {
-          "confirmed": 2722905,
+          "confirmed": 2722964,
           "date": "2021-07-30",
-          "deaths": 47389
+          "deaths": 47408
         }
       },
       "Florida": {
@@ -1653,9 +1653,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 126920,
+          "confirmed": 127080,
           "date": "2021-07-30",
-          "deaths": 1801
+          "deaths": 1803
         }
       },
       "Nevada": {
@@ -1674,9 +1674,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 118725,
+          "confirmed": 119119,
           "date": "2021-07-30",
-          "deaths": 990
+          "deaths": 991
         }
       },
       "Ohio": {
@@ -1690,7 +1690,7 @@
         "live": {
           "confirmed": 156688,
           "date": "2021-07-30",
-          "deaths": 3784
+          "deaths": 3785
         }
       },
       "Texas": {
