@@ -87,19 +87,19 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 4784219,
-        "deaths": 102381,
-        "recovered": 4420995
+        "confirmed": 4798851,
+        "deaths": 102818,
+        "recovered": 4431871
       },
       "back_2week": {
-        "confirmed": 4682960,
-        "deaths": 99640,
-        "recovered": 4314593
+        "confirmed": 4702657,
+        "deaths": 100250,
+        "recovered": 4326403
       },
       "latest": {
-        "confirmed": 4875927,
-        "deaths": 104352,
-        "recovered": 4519922
+        "confirmed": 4891810,
+        "deaths": 104822,
+        "recovered": 4529259
       }
     },
     "ARM": {
@@ -138,28 +138,28 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 32177,
-        "current_hospitalized": 12,
+        "confirmed": 32190,
+        "current_hospitalized": 17,
         "current_icu": 3,
         "deaths": 916,
         "recovered": 4074,
-        "tested": 23685145
+        "tested": 23711057
       },
       "back_2week": {
-        "confirmed": 31334,
-        "current_hospitalized": 125,
+        "confirmed": 31347,
+        "current_hospitalized": 130,
         "current_icu": 22,
         "deaths": 913,
         "recovered": 4020,
-        "tested": 22696257
+        "tested": 22722169
       },
       "latest": {
-        "confirmed": 33285,
-        "current_hospitalized": 201,
+        "confirmed": 33305,
+        "current_hospitalized": 206,
         "current_icu": 60,
         "deaths": 922,
         "recovered": 4108,
-        "tested": 24493366
+        "tested": 24561287
       },
       "states": {
         "ACT": {
@@ -168,7 +168,7 @@
           "current_icu": 0,
           "deaths": 3,
           "recovered": 121,
-          "tested": 264748
+          "tested": 266210
         },
         "NSW": {
           "confirmed": 8105,
@@ -185,7 +185,7 @@
           "current_icu": 0,
           "deaths": 0,
           "recovered": 190,
-          "tested": 291137
+          "tested": 292511
         },
         "QLD": {
           "confirmed": 1790,
@@ -201,7 +201,7 @@
           "current_icu": 0,
           "deaths": 4,
           "recovered": 827,
-          "tested": 1855351
+          "tested": 1871408
         },
         "TAS": {
           "confirmed": 234,
@@ -209,23 +209,23 @@
           "current_icu": 0,
           "deaths": 13,
           "recovered": 221,
-          "tested": 288880
+          "tested": 290293
         },
         "VIC": {
-          "confirmed": 20924,
+          "confirmed": 20932,
           "current_hospitalized": 7,
           "current_icu": 2,
           "deaths": 820,
           "recovered": 19522,
-          "tested": 8140576
+          "tested": 8176438
         },
         "WA": {
-          "confirmed": 1050,
-          "current_hospitalized": 2,
-          "current_icu": 0,
+          "confirmed": 1051,
+          "current_hospitalized": 3,
+          "current_icu": 1,
           "deaths": 9,
           "recovered": 1030,
-          "tested": 1500634
+          "tested": 1501084
         }
       }
     },
@@ -401,19 +401,19 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 205340,
+        "confirmed": 205345,
         "deaths": 9669,
-        "recovered": 188019
+        "recovered": 188137
       },
       "back_2week": {
-        "confirmed": 205214,
+        "confirmed": 205238,
         "deaths": 9663,
-        "recovered": 185991
+        "recovered": 186382
       },
       "latest": {
-        "confirmed": 205523,
+        "confirmed": 205566,
         "deaths": 9686,
-        "recovered": 189063
+        "recovered": 189259
       }
     },
     "BLR": {
@@ -591,7 +591,7 @@
           "deaths": 2325
         },
         "British Columbia": {
-          "confirmed": 149259,
+          "confirmed": 149444,
           "deaths": 1768
         },
         "Diamond Princess": {
@@ -2057,19 +2057,19 @@
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 551789,
-        "deaths": 7887,
-        "recovered": 535485
+        "confirmed": 552328,
+        "deaths": 7888,
+        "recovered": 535663
       },
       "back_2week": {
-        "confirmed": 548455,
-        "deaths": 7879,
-        "recovered": 534725
+        "confirmed": 548972,
+        "deaths": 7881,
+        "recovered": 534768
       },
       "latest": {
-        "confirmed": 557145,
-        "deaths": 7895,
-        "recovered": 536559
+        "confirmed": 558369,
+        "deaths": 7897,
+        "recovered": 536623
       }
     },
     "LBR": {
