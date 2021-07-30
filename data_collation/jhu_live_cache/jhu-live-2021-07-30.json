@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 363227,
+      "confirmed": 363397,
       "date": "2021-07-30",
-      "deaths": 8250,
-      "recovered": 353901
+      "deaths": 8254,
+      "recovered": 354055
     }
   },
   "Cuba": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1082880,
+      "confirmed": 1083033,
       "date": "2021-07-30",
-      "deaths": 34275,
-      "recovered": 1047528
+      "deaths": 34278,
+      "recovered": 1047682
     }
   },
   "Russia": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 258963,
+      "confirmed": 259079,
       "date": "2021-07-30",
       "deaths": 4428,
-      "recovered": 253619
+      "recovered": 253681
     }
   },
   "South Africa": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1384257,
+          "confirmed": 1384347,
           "date": "2021-07-30",
           "deaths": 20968
         }
