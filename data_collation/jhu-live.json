@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 470929,
+      "confirmed": 471958,
       "date": "2021-07-30",
-      "deaths": 17754,
-      "recovered": 404509
+      "deaths": 17784,
+      "recovered": 405853
     }
   },
   "Bosnia and Herzegovina": {
@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 480720,
+      "confirmed": 485673,
       "date": "2021-07-30",
-      "deaths": 30797,
+      "deaths": 31549,
       "recovered": 443880
     }
   },
@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 292969,
+      "confirmed": 294561,
       "date": "2021-07-30",
-      "deaths": 7758,
-      "recovered": 99072
+      "deaths": 7793,
+      "recovered": 99879
     }
   },
   "Hungary": {
@@ -1045,10 +1045,10 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 195099,
+      "confirmed": 196806,
       "date": "2021-07-30",
-      "deaths": 2085,
-      "recovered": 171559
+      "deaths": 2089,
+      "recovered": 172757
     }
   },
   "Kuwait": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 142799,
+          "confirmed": 143213,
           "date": "2021-07-30",
-          "deaths": 4435,
-          "recovered": 135687
+          "deaths": 4444,
+          "recovered": 135846
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 354904,
+          "confirmed": 355483,
           "date": "2021-07-30",
-          "deaths": 10995,
-          "recovered": 331704
+          "deaths": 11019,
+          "recovered": 332078
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 374434,
+          "confirmed": 377231,
           "date": "2021-07-30",
-          "deaths": 5903,
-          "recovered": 330836
+          "deaths": 5947,
+          "recovered": 331309
         }
       }
     }
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2718631,
+          "confirmed": 2721686,
           "date": "2021-07-30",
-          "deaths": 47385
+          "deaths": 47387
         }
       },
       "Florida": {
@@ -1845,10 +1845,10 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 123640,
+      "confirmed": 133405,
       "date": "2021-07-30",
-      "deaths": 630,
-      "recovered": 27457
+      "deaths": 1020,
+      "recovered": 31780
     }
   },
   "West Bank and Gaza": {
