@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3826447,
+      "confirmed": 3851162,
       "date": "2021-07-30",
-      "deaths": 90074,
-      "recovered": 3329065
+      "deaths": 90344,
+      "recovered": 3348363
     }
   },
   "Iraq": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 690642,
+      "confirmed": 693109,
       "date": "2021-07-30",
-      "deaths": 9807,
-      "recovered": 650445
+      "deaths": 9834,
+      "recovered": 652261
     }
   },
   "Netherlands": {
@@ -1577,7 +1577,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 716865,
+      "confirmed": 717665,
       "date": "2021-07-30",
       "deaths": 10905,
       "recovered": 317600
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 194140,
+      "confirmed": 195096,
       "date": "2021-07-30",
-      "deaths": 3355,
-      "recovered": 185210
+      "deaths": 3376,
+      "recovered": 186211
     }
   }
 }
