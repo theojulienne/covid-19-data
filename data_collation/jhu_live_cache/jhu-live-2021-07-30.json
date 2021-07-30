@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 279629,
+      "confirmed": 280024,
       "date": "2021-07-30",
-      "deaths": 4381,
-      "recovered": 263392
+      "deaths": 4383,
+      "recovered": 263425
     }
   },
   "France": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 396332,
+      "confirmed": 397098,
       "date": "2021-07-30",
-      "deaths": 2309,
-      "recovered": 381575
+      "deaths": 2314,
+      "recovered": 382826
     }
   },
   "Kyrgyzstan": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1385036,
+          "confirmed": 1389407,
           "date": "2021-07-30",
           "deaths": 20978
         }

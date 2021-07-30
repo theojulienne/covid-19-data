@@ -1263,19 +1263,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 277959,
-        "deaths": 4360,
-        "recovered": 262588
+        "confirmed": 278105,
+        "deaths": 4363,
+        "recovered": 262692
       },
       "back_2week": {
-        "confirmed": 277318,
-        "deaths": 4349,
-        "recovered": 262167
+        "confirmed": 277443,
+        "deaths": 4350,
+        "recovered": 262206
       },
       "latest": {
-        "confirmed": 279153,
-        "deaths": 4376,
-        "recovered": 263066
+        "confirmed": 279629,
+        "deaths": 4381,
+        "recovered": 263392
       }
     },
     "FIN": {
@@ -2023,19 +2023,19 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 388881,
-        "deaths": 2255,
-        "recovered": 371125
+        "confirmed": 389868,
+        "deaths": 2264,
+        "recovered": 372358
       },
       "back_2week": {
-        "confirmed": 380699,
-        "deaths": 2158,
-        "recovered": 360746
+        "confirmed": 382084,
+        "deaths": 2174,
+        "recovered": 362393
       },
       "latest": {
-        "confirmed": 395479,
-        "deaths": 2303,
-        "recovered": 380175
+        "confirmed": 396332,
+        "deaths": 2309,
+        "recovered": 381575
       }
     },
     "LAO": {
