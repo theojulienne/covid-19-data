@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 289333,
+      "confirmed": 294460,
       "date": "2021-07-30",
-      "deaths": 8552,
-      "recovered": 202235
+      "deaths": 8942,
+      "recovered": 205677
     }
   },
   "Canada": {
@@ -1261,10 +1261,10 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 156225,
+      "confirmed": 156299,
       "date": "2021-07-30",
-      "deaths": 5491,
-      "recovered": 150333
+      "deaths": 5493,
+      "recovered": 150350
     }
   },
   "Norway": {
@@ -1341,10 +1341,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1572287,
+      "confirmed": 1580824,
       "date": "2021-07-30",
-      "deaths": 27577,
-      "recovered": 1488437
+      "deaths": 27722,
+      "recovered": 1491182
     }
   },
   "Poland": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 225905,
+      "confirmed": 226077,
       "date": "2021-07-30",
       "deaths": 601,
-      "recovered": 223494
+      "recovered": 223591
     }
   },
   "Romania": {
@@ -1853,10 +1853,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 316487,
+      "confirmed": 316603,
       "date": "2021-07-30",
       "deaths": 3601,
-      "recovered": 311714
+      "recovered": 311772
     }
   },
   "Zambia": {
