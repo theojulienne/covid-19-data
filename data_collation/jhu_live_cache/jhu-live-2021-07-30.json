@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 617387,
+      "confirmed": 625165,
       "date": "2021-07-30",
-      "deaths": 5619,
-      "recovered": 517244
+      "deaths": 5780,
+      "recovered": 522304
     }
   },
   "Kenya": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2721686,
+          "confirmed": 2722905,
           "date": "2021-07-30",
-          "deaths": 47387
+          "deaths": 47389
         }
       },
       "Florida": {
@@ -1837,17 +1837,17 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 302988,
+      "confirmed": 303797,
       "date": "2021-07-30",
-      "deaths": 3542,
-      "recovered": 286795
+      "deaths": 3558,
+      "recovered": 287720
     }
   },
   "Vietnam": {
     "live": {
       "confirmed": 133405,
       "date": "2021-07-30",
-      "deaths": 1020,
+      "deaths": 1022,
       "recovered": 31780
     }
   },
