@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 377172,
+          "confirmed": 377297,
           "date": "2021-07-30",
           "deaths": 11241,
           "recovered": 364033
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2722964,
+          "confirmed": 2724569,
           "date": "2021-07-30",
-          "deaths": 47408
+          "deaths": 47412
         }
       },
       "Florida": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 287572,
+          "confirmed": 288327,
           "date": "2021-07-30",
-          "deaths": 7676
+          "deaths": 7684
         }
       },
       "Minnesota": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 248193,
+          "confirmed": 248416,
           "date": "2021-07-30",
           "deaths": 3756
         }
@@ -1716,9 +1716,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 120539,
+          "confirmed": 120939,
           "date": "2021-07-30",
-          "deaths": 1442
+          "deaths": 1443
         }
       }
     }
