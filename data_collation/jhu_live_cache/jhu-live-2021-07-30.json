@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 711232,
           "date": "2021-07-30",
-          "deaths": 15190,
-          "recovered": 679875
+          "deaths": 15233,
+          "recovered": 681592
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 306993,
           "date": "2021-07-30",
-          "deaths": 9191,
-          "recovered": 294139
+          "deaths": 9196,
+          "recovered": 294631
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 150230,
           "date": "2021-07-30",
-          "deaths": 2821,
-          "recovered": 145609
+          "deaths": 2830,
+          "recovered": 145990
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1408458,
           "date": "2021-07-30",
-          "deaths": 26459,
-          "recovered": 1346804
+          "deaths": 26509,
+          "recovered": 1350659
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 255659,
           "date": "2021-07-30",
-          "deaths": 6498,
-          "recovered": 244192
+          "deaths": 6515,
+          "recovered": 244771
         }
       },
       "Santander": {
         "live": {
           "confirmed": 218182,
           "date": "2021-07-30",
-          "deaths": 6941,
-          "recovered": 206062
+          "deaths": 6965,
+          "recovered": 206669
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 382022,
           "date": "2021-07-30",
-          "deaths": 11951,
-          "recovered": 361611
+          "deaths": 11990,
+          "recovered": 362828
         }
       }
     }
@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 284128,
+      "confirmed": 284170,
       "date": "2021-07-30",
-      "deaths": 16507,
-      "recovered": 228836
+      "deaths": 16514,
+      "recovered": 229167
     }
   },
   "Estonia": {
@@ -1313,10 +1313,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 432523,
+      "confirmed": 433545,
       "date": "2021-07-30",
-      "deaths": 6791,
-      "recovered": 412994
+      "deaths": 6798,
+      "recovered": 414118
     }
   },
   "Paraguay": {
@@ -1821,10 +1821,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 380976,
+      "confirmed": 381187,
       "date": "2021-07-30",
-      "deaths": 5950,
-      "recovered": 372721
+      "deaths": 5953,
+      "recovered": 373007
     }
   },
   "Uzbekistan": {
