@@ -49,10 +49,10 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 343216,
+      "confirmed": 343849,
       "date": "2021-07-31",
-      "deaths": 5022,
-      "recovered": 332752
+      "deaths": 5023,
+      "recovered": 332926
     }
   },
   "Bahrain": {
@@ -1011,7 +1011,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 213978,
+          "confirmed": 218036,
           "date": "2021-07-31",
           "deaths": 2290,
           "recovered": 190803
@@ -1021,10 +1021,10 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 770150,
+      "confirmed": 770712,
       "date": "2021-07-31",
-      "deaths": 10020,
-      "recovered": 750141
+      "deaths": 10032,
+      "recovered": 750518
     }
   },
   "Kazakhstan": {
@@ -1177,10 +1177,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 118429,
+      "confirmed": 118922,
       "date": "2021-07-31",
-      "deaths": 2999,
-      "recovered": 94556
+      "deaths": 3044,
+      "recovered": 95250
     }
   },
   "Nepal": {
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1421296,
+          "confirmed": 1422575,
           "date": "2021-07-31",
-          "deaths": 40553
+          "deaths": 40561
         }
       },
       "North Carolina": {
