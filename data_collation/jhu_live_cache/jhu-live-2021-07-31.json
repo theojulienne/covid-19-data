@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 377297,
+          "confirmed": 377486,
           "date": "2021-07-31",
           "deaths": 11241,
           "recovered": 364033
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 280024,
+      "confirmed": 280365,
       "date": "2021-07-31",
-      "deaths": 4383,
-      "recovered": 263425
+      "deaths": 4385,
+      "recovered": 263500
     }
   },
   "France": {
