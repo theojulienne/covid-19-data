@@ -681,10 +681,10 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 294561,
+      "confirmed": 297111,
       "date": "2021-07-31",
-      "deaths": 7793,
-      "recovered": 99879
+      "deaths": 7834,
+      "recovered": 100697
     }
   },
   "Hungary": {
@@ -1287,26 +1287,26 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 143213,
+          "confirmed": 143673,
           "date": "2021-07-31",
-          "deaths": 4444,
-          "recovered": 135846
+          "deaths": 4456,
+          "recovered": 135930
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 355483,
+          "confirmed": 356211,
           "date": "2021-07-31",
-          "deaths": 11019,
-          "recovered": 332078
+          "deaths": 11041,
+          "recovered": 332429
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 377231,
+          "confirmed": 380093,
           "date": "2021-07-31",
-          "deaths": 5947,
-          "recovered": 331309
+          "deaths": 5971,
+          "recovered": 331802
         }
       }
     }
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 303797,
+      "confirmed": 304726,
       "date": "2021-07-31",
-      "deaths": 3558,
-      "recovered": 287720
+      "deaths": 3576,
+      "recovered": 288864
     }
   },
   "Vietnam": {
