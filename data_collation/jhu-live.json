@@ -9,10 +9,10 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 133036,
+      "confirmed": 133081,
       "date": "2021-07-31",
       "deaths": 2457,
-      "recovered": 130205
+      "recovered": 130222
     }
   },
   "Algeria": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557820,
+          "confirmed": 557866,
           "date": "2021-07-31",
-          "deaths": 9301,
-          "recovered": 546981
+          "deaths": 9306,
+          "recovered": 547010
         }
       },
       "Quebec": {
@@ -1013,7 +1013,7 @@
         "live": {
           "confirmed": 218036,
           "date": "2021-07-31",
-          "deaths": 2290,
+          "deaths": 2293,
           "recovered": 190803
         }
       }
@@ -1161,10 +1161,10 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 615999,
+      "confirmed": 623528,
       "date": "2021-07-31",
-      "deaths": 9732,
-      "recovered": 557408
+      "deaths": 9785,
+      "recovered": 561930
     }
   },
   "Mozambique": {
@@ -1365,10 +1365,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 226077,
+      "confirmed": 226239,
       "date": "2021-07-31",
       "deaths": 601,
-      "recovered": 223591
+      "recovered": 223732
     }
   },
   "Romania": {
@@ -1593,10 +1593,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 586146,
+      "confirmed": 589565,
       "date": "2021-07-31",
-      "deaths": 19503,
-      "recovered": 505497
+      "deaths": 19686,
+      "recovered": 510696
     }
   },
   "Turkey": {
