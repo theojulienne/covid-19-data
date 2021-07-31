@@ -639,7 +639,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 157474,
+          "confirmed": 157527,
           "date": "2021-07-31",
           "deaths": 3906,
           "recovered": 152200
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3851162,
+      "confirmed": 3871008,
       "date": "2021-07-31",
-      "deaths": 90344,
-      "recovered": 3348363
+      "deaths": 90630,
+      "recovered": 3367272
     }
   },
   "Iraq": {
@@ -1069,10 +1069,10 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 138799,
+      "confirmed": 138863,
       "date": "2021-07-31",
       "deaths": 2556,
-      "recovered": 135463
+      "recovered": 135583
     }
   },
   "Lebanon": {
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 1095486,
+      "confirmed": 1113272,
       "date": "2021-07-31",
-      "deaths": 8725,
-      "recovered": 902921
+      "deaths": 9024,
+      "recovered": 914639
     }
   },
   "Mexico": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1083033,
+      "confirmed": 1083189,
       "date": "2021-07-31",
-      "deaths": 34278,
-      "recovered": 1047682
+      "deaths": 34281,
+      "recovered": 1047723
     }
   },
   "Russia": {
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 679321,
+      "confirmed": 680858,
       "date": "2021-07-31",
-      "deaths": 1943,
-      "recovered": 656680
+      "deaths": 1949,
+      "recovered": 658198
     }
   },
   "United Kingdom": {
