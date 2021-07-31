@@ -65,10 +65,10 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1240115,
+      "confirmed": 1249484,
       "date": "2021-07-31",
-      "deaths": 20467,
-      "recovered": 1064195
+      "deaths": 20685,
+      "recovered": 1078212
     }
   },
   "Belarus": {
@@ -525,10 +525,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 316068,
+      "confirmed": 316807,
       "date": "2021-07-31",
-      "deaths": 2548,
-      "recovered": 302377
+      "deaths": 2549,
+      "recovered": 303182
     }
   },
   "Dominican Republic": {
@@ -599,10 +599,10 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 653524,
+          "confirmed": 653523,
           "date": "2021-07-31",
-          "deaths": 15338,
-          "recovered": 633900
+          "deaths": 15339,
+          "recovered": 634000
         }
       },
       "Berlin": {
@@ -647,7 +647,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 286661,
+          "confirmed": 286687,
           "date": "2021-07-31",
           "deaths": 10135,
           "recovered": 275900
@@ -1341,10 +1341,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1580824,
+      "confirmed": 1588965,
       "date": "2021-07-31",
-      "deaths": 27722,
-      "recovered": 1491182
+      "deaths": 27889,
+      "recovered": 1500189
     }
   },
   "Poland": {
@@ -1861,10 +1861,10 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 195096,
+      "confirmed": 195816,
       "date": "2021-07-31",
-      "deaths": 3376,
-      "recovered": 186211
+      "deaths": 3389,
+      "recovered": 187236
     }
   }
 }
