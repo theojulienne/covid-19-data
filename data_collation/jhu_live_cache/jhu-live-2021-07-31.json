@@ -509,10 +509,10 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 375721,
+      "confirmed": 384596,
       "date": "2021-07-31",
-      "deaths": 2693,
-      "recovered": 329811
+      "deaths": 2758,
+      "recovered": 338968
     }
   },
   "Czechia": {
@@ -1077,10 +1077,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 560396,
+      "confirmed": 561380,
       "date": "2021-07-31",
-      "deaths": 7903,
-      "recovered": 536963
+      "deaths": 7906,
+      "recovered": 537111
     }
   },
   "Libya": {
@@ -1145,10 +1145,10 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 259356,
+      "confirmed": 259478,
       "date": "2021-07-31",
       "deaths": 6255,
-      "recovered": 251967
+      "recovered": 252051
     }
   },
   "Mongolia": {
@@ -1169,10 +1169,10 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 119950,
+      "confirmed": 122028,
       "date": "2021-07-31",
-      "deaths": 1407,
-      "recovered": 88081
+      "deaths": 1434,
+      "recovered": 88380
     }
   },
   "Namibia": {
@@ -1667,7 +1667,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1422575,
+          "confirmed": 1423565,
           "date": "2021-07-31",
           "deaths": 40563
         }
