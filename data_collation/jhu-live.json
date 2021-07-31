@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 269080,
+      "confirmed": 269186,
       "date": "2021-07-31",
       "deaths": 1384,
-      "recovered": 266705
+      "recovered": 266796
     }
   },
   "Bangladesh": {
@@ -676,7 +676,7 @@
       "confirmed": 368484,
       "date": "2021-07-31",
       "deaths": 10339,
-      "recovered": 319323
+      "recovered": 321832
     }
   },
   "Honduras": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2730309,
+          "confirmed": 2731190,
           "date": "2021-07-31",
           "deaths": 47415
         }
