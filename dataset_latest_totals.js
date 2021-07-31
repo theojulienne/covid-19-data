@@ -87,19 +87,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 4798851,
-        "deaths": 102818,
-        "recovered": 4431871
+        "confirmed": 4812351,
+        "deaths": 103074,
+        "recovered": 4447953
       },
       "back_2week": {
-        "confirmed": 4702657,
-        "deaths": 100250,
-        "recovered": 4326403
+        "confirmed": 4719952,
+        "deaths": 100695,
+        "recovered": 4345549
       },
       "latest": {
-        "confirmed": 4891810,
-        "deaths": 104822,
-        "recovered": 4529259
+        "confirmed": 4905925,
+        "deaths": 105113,
+        "recovered": 4542904
       }
     },
     "ARM": {
@@ -591,7 +591,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 2325
         },
         "British Columbia": {
-          "confirmed": 149444,
+          "confirmed": 149646,
           "deaths": 1771
         },
         "Diamond Princess": {

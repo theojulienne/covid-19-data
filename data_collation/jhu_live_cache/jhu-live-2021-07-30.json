@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4905925,
+      "confirmed": 4919408,
       "date": "2021-07-30",
-      "deaths": 105113,
-      "recovered": 4542904
+      "deaths": 105586,
+      "recovered": 4557037
     }
   },
   "Armenia": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 149646,
+          "confirmed": 149889,
           "date": "2021-07-30",
           "deaths": 1771,
-          "recovered": 146810
+          "recovered": 146876
         }
       },
       "Ontario": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2724569,
+          "confirmed": 2724890,
           "date": "2021-07-30",
           "deaths": 47412
         }
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 1389407,
           "date": "2021-07-30",
-          "deaths": 20978
+          "deaths": 20994
         }
       },
       "Utah": {
