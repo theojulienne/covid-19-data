@@ -533,10 +533,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 341510,
+      "confirmed": 341905,
       "date": "2021-07-31",
-      "deaths": 3956,
-      "recovered": 320755
+      "deaths": 3963,
+      "recovered": 323333
     }
   },
   "Ecuador": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 6020331,
+      "confirmed": 6043802,
       "date": "2021-07-31",
-      "deaths": 110799,
-      "recovered": 342009
+      "deaths": 110842,
+      "recovered": 342374
     }
   },
   "Georgia": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 871343,
+      "confirmed": 873827,
       "date": "2021-07-31",
-      "deaths": 6469,
-      "recovered": 848364
+      "deaths": 6473,
+      "recovered": 848971
     }
   },
   "Italy": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2435036,
+      "confirmed": 2447454,
       "date": "2021-07-31",
-      "deaths": 71679,
-      "recovered": 2207960
+      "deaths": 72013,
+      "recovered": 2222338
     }
   },
   "Spain": {
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 1422575,
           "date": "2021-07-31",
-          "deaths": 40561
+          "deaths": 40563
         }
       },
       "North Carolina": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 248416,
+          "confirmed": 248686,
           "date": "2021-07-31",
           "deaths": 3756
         }
@@ -1697,7 +1697,7 @@
         "live": {
           "confirmed": 1390259,
           "date": "2021-07-31",
-          "deaths": 20999
+          "deaths": 21005
         }
       },
       "Utah": {
