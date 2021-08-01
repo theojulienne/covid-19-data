@@ -395,7 +395,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 377486,
+          "confirmed": 377644,
           "date": "2021-08-01",
           "deaths": 11241,
           "recovered": 364033
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1423565,
+          "confirmed": 1424401,
           "date": "2021-08-01",
-          "deaths": 40563
+          "deaths": 40564
         }
       },
       "North Carolina": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1390783,
+          "confirmed": 1391423,
           "date": "2021-08-01",
-          "deaths": 21005
+          "deaths": 21011
         }
       },
       "Utah": {
