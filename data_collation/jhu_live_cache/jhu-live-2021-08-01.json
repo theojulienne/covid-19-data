@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 171392,
+      "confirmed": 172564,
       "date": "2021-08-01",
-      "deaths": 4254,
-      "recovered": 115276
+      "deaths": 4291,
+      "recovered": 116009
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 557985,
+          "confirmed": 558007,
           "date": "2021-08-01",
           "deaths": 9307,
-          "recovered": 547097
+          "recovered": 547121
         }
       },
       "Quebec": {
@@ -565,18 +565,18 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 280365,
+      "confirmed": 280565,
       "date": "2021-08-01",
-      "deaths": 4385,
-      "recovered": 263500
+      "deaths": 4390,
+      "recovered": 263587
     }
   },
   "France": {
     "live": {
-      "confirmed": 6043802,
+      "confirmed": 6063402,
       "date": "2021-08-01",
-      "deaths": 110842,
-      "recovered": 342374
+      "deaths": 110860,
+      "recovered": 342482
     }
   },
   "Georgia": {
@@ -1037,10 +1037,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 203213,
+      "confirmed": 203680,
       "date": "2021-08-01",
-      "deaths": 3931,
-      "recovered": 188936
+      "deaths": 3946,
+      "recovered": 189131
     }
   },
   "Korea, South": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2447454,
+      "confirmed": 2456184,
       "date": "2021-08-01",
-      "deaths": 72013,
-      "recovered": 2222338
+      "deaths": 72191,
+      "recovered": 2230871
     }
   },
   "Spain": {
@@ -1681,7 +1681,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 248686,
+          "confirmed": 248837,
           "date": "2021-08-01",
           "deaths": 3756
         }
