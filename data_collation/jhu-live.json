@@ -557,10 +557,10 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 133557,
+      "confirmed": 133685,
       "date": "2021-08-01",
       "deaths": 1272,
-      "recovered": 128898
+      "recovered": 128902
     }
   },
   "Ethiopia": {
@@ -1069,7 +1069,7 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 138863,
+      "confirmed": 138899,
       "date": "2021-08-01",
       "deaths": 2556,
       "recovered": 135583
@@ -1349,10 +1349,10 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2882939,
+      "confirmed": 2883029,
       "date": "2021-08-01",
       "deaths": 75261,
-      "recovered": 2653700
+      "recovered": 2653807
     }
   },
   "Portugal": {
@@ -1383,34 +1383,34 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1506126,
+          "confirmed": 1508610,
           "date": "2021-08-01",
-          "deaths": 25626,
-          "recovered": 1360030
+          "deaths": 25704,
+          "recovered": 1363505
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 385237,
+          "confirmed": 386895,
           "date": "2021-08-01",
-          "deaths": 7207,
-          "recovered": 314700
+          "deaths": 7239,
+          "recovered": 316414
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 140558,
+          "confirmed": 141093,
           "date": "2021-08-01",
-          "deaths": 5068,
-          "recovered": 128056
+          "deaths": 5096,
+          "recovered": 128543
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 528726,
+          "confirmed": 530637,
           "date": "2021-08-01",
-          "deaths": 19245,
-          "recovered": 503621
+          "deaths": 19312,
+          "recovered": 505321
         }
       }
     }
@@ -1433,7 +1433,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 392647,
+      "confirmed": 392704,
       "date": "2021-08-01",
       "deaths": 12540,
       "recovered": 255300
