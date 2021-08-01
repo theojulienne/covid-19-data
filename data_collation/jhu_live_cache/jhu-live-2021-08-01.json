@@ -673,9 +673,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 368484,
+      "confirmed": 369626,
       "date": "2021-08-01",
-      "deaths": 10339,
+      "deaths": 10413,
       "recovered": 321832
     }
   },
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 875713,
+      "confirmed": 875801,
       "date": "2021-08-01",
       "deaths": 6477,
-      "recovered": 850757
+      "recovered": 850839
     }
   },
   "Italy": {
@@ -1611,9 +1611,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 702469,
+          "confirmed": 704359,
           "date": "2021-08-01",
-          "deaths": 12915
+          "deaths": 12920
         }
       },
       "California": {
@@ -1667,9 +1667,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1424401,
+          "confirmed": 1425366,
           "date": "2021-08-01",
-          "deaths": 40564
+          "deaths": 40567
         }
       },
       "North Carolina": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1391423,
+          "confirmed": 1393109,
           "date": "2021-08-01",
           "deaths": 21011
         }
