@@ -437,56 +437,56 @@
         "live": {
           "confirmed": 713959,
           "date": "2021-08-01",
-          "deaths": 15261,
-          "recovered": 682569
+          "deaths": 15283,
+          "recovered": 684136
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 307920,
           "date": "2021-08-01",
-          "deaths": 9202,
-          "recovered": 295088
+          "deaths": 9210,
+          "recovered": 295401
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 150697,
           "date": "2021-08-01",
-          "deaths": 2832,
-          "recovered": 146329
+          "deaths": 2843,
+          "recovered": 146592
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1413905,
           "date": "2021-08-01",
-          "deaths": 26558,
-          "recovered": 1354234
+          "deaths": 26621,
+          "recovered": 1358640
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 256633,
           "date": "2021-08-01",
-          "deaths": 6534,
-          "recovered": 245137
+          "deaths": 6545,
+          "recovered": 245547
         }
       },
       "Santander": {
         "live": {
           "confirmed": 218800,
           "date": "2021-08-01",
-          "deaths": 6988,
-          "recovered": 207246
+          "deaths": 7002,
+          "recovered": 207634
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 384493,
           "date": "2021-08-01",
-          "deaths": 12041,
-          "recovered": 364202
+          "deaths": 12089,
+          "recovered": 365467
         }
       }
     }
@@ -1313,18 +1313,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 434460,
+      "confirmed": 435655,
       "date": "2021-08-01",
-      "deaths": 6808,
-      "recovered": 415265
+      "deaths": 6823,
+      "recovered": 416263
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 452085,
+      "confirmed": 452388,
       "date": "2021-08-01",
-      "deaths": 14929,
-      "recovered": 419028
+      "deaths": 14981,
+      "recovered": 420031
     }
   },
   "Peru": {
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2731190,
+          "confirmed": 2734416,
           "date": "2021-08-01",
           "deaths": 47415
         }
