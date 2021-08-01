@@ -73,10 +73,10 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 446040,
+      "confirmed": 446998,
       "date": "2021-08-01",
-      "deaths": 3454,
-      "recovered": 440200
+      "deaths": 3464,
+      "recovered": 441369
     }
   },
   "Belgium": {
@@ -639,7 +639,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 157531,
+          "confirmed": 157565,
           "date": "2021-08-01",
           "deaths": 3906,
           "recovered": 152200
@@ -1014,7 +1014,7 @@
           "confirmed": 218036,
           "date": "2021-08-01",
           "deaths": 2293,
-          "recovered": 190803
+          "recovered": 192356
         }
       }
     }
@@ -1085,10 +1085,10 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 249114,
+      "confirmed": 253436,
       "date": "2021-08-01",
-      "deaths": 3509,
-      "recovered": 190978
+      "deaths": 3548,
+      "recovered": 192184
     }
   },
   "Lithuania": {
@@ -1277,10 +1277,10 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 295857,
+      "confirmed": 296835,
       "date": "2021-08-01",
-      "deaths": 3814,
-      "recovered": 278195
+      "deaths": 3850,
+      "recovered": 279892
     }
   },
   "Pakistan": {
@@ -1373,10 +1373,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1083189,
+      "confirmed": 1083341,
       "date": "2021-08-01",
-      "deaths": 34281,
-      "recovered": 1047723
+      "deaths": 34286,
+      "recovered": 1047767
     }
   },
   "Russia": {
@@ -1441,10 +1441,10 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 259215,
+      "confirmed": 259273,
       "date": "2021-08-01",
       "deaths": 4429,
-      "recovered": 253742
+      "recovered": 253763
     }
   },
   "South Africa": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1390756,
+          "confirmed": 1390783,
           "date": "2021-08-01",
           "deaths": 21005
         }
@@ -1777,10 +1777,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 680858,
+      "confirmed": 682377,
       "date": "2021-08-01",
-      "deaths": 1949,
-      "recovered": 658198
+      "deaths": 1951,
+      "recovered": 659664
     }
   },
   "United Kingdom": {
@@ -1853,10 +1853,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 316738,
+      "confirmed": 316861,
       "date": "2021-08-01",
-      "deaths": 3603,
-      "recovered": 311832
+      "deaths": 3604,
+      "recovered": 311918
     }
   },
   "Zambia": {
