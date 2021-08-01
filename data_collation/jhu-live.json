@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 363615,
+      "confirmed": 363758,
       "date": "2021-08-01",
-      "deaths": 8259,
-      "recovered": 354238
+      "deaths": 8263,
+      "recovered": 354393
     }
   },
   "Cuba": {
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3871008,
+      "confirmed": 3903519,
       "date": "2021-08-01",
-      "deaths": 90630,
-      "recovered": 3367272
+      "deaths": 90996,
+      "recovered": 3385195
     }
   },
   "Iraq": {
@@ -1011,7 +1011,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 218036,
+          "confirmed": 221094,
           "date": "2021-08-01",
           "deaths": 2293,
           "recovered": 192356
@@ -1101,10 +1101,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 1113272,
+      "confirmed": 1130422,
       "date": "2021-08-01",
       "deaths": 9024,
-      "recovered": 914639
+      "recovered": 925965
     }
   },
   "Mexico": {
@@ -1185,10 +1185,10 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 695389,
+      "confirmed": 697370,
       "date": "2021-08-01",
-      "deaths": 9857,
-      "recovered": 654177
+      "deaths": 9875,
+      "recovered": 656197
     }
   },
   "Netherlands": {
