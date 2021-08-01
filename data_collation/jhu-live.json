@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 269186,
+      "confirmed": 269303,
       "date": "2021-08-01",
       "deaths": 1384,
-      "recovered": 266796
+      "recovered": 266921
     }
   },
   "Bangladesh": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 425054,
+      "confirmed": 425148,
       "date": "2021-08-01",
-      "deaths": 18213,
-      "recovered": 398545
+      "deaths": 18215,
+      "recovered": 398554
     }
   },
   "Burma": {
@@ -676,7 +676,7 @@
       "confirmed": 369626,
       "date": "2021-08-01",
       "deaths": 10413,
-      "recovered": 321832
+      "recovered": 324332
     }
   },
   "Honduras": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 397831,
+      "confirmed": 398538,
       "date": "2021-08-01",
-      "deaths": 2320,
-      "recovered": 384062
+      "deaths": 2328,
+      "recovered": 385401
     }
   },
   "Kyrgyzstan": {
@@ -1169,10 +1169,10 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 122028,
+      "confirmed": 123541,
       "date": "2021-08-01",
-      "deaths": 1434,
-      "recovered": 88380
+      "deaths": 1462,
+      "recovered": 90845
     }
   },
   "Namibia": {
