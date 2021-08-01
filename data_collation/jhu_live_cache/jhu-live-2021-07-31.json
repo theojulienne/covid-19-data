@@ -17,18 +17,18 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 170189,
+      "confirmed": 171392,
       "date": "2021-07-31",
-      "deaths": 4219,
-      "recovered": 114531
+      "deaths": 4254,
+      "recovered": 115276
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 4919408,
+      "confirmed": 4929764,
       "date": "2021-07-31",
-      "deaths": 105586,
-      "recovered": 4557037
+      "deaths": 105721,
+      "recovered": 4569552
     }
   },
   "Armenia": {
@@ -125,10 +125,10 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 471958,
+      "confirmed": 472813,
       "date": "2021-07-31",
-      "deaths": 17784,
-      "recovered": 405853
+      "deaths": 17806,
+      "recovered": 407072
     }
   },
   "Bosnia and Herzegovina": {
@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 424872,
+      "confirmed": 425054,
       "date": "2021-07-31",
-      "deaths": 18211,
-      "recovered": 398536
+      "deaths": 18213,
+      "recovered": 398545
     }
   },
   "Burma": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 173411,
+      "confirmed": 173908,
       "date": "2021-07-31",
       "deaths": 2149,
-      "recovered": 164978
+      "recovered": 164994
     }
   },
   "North Macedonia": {
@@ -1821,10 +1821,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 381364,
+      "confirmed": 381517,
       "date": "2021-07-31",
-      "deaths": 5959,
-      "recovered": 373290
+      "deaths": 5964,
+      "recovered": 373481
     }
   },
   "Uzbekistan": {
