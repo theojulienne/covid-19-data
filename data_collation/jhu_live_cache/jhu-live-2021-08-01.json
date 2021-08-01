@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 486544,
+      "confirmed": 487372,
       "date": "2021-08-01",
-      "deaths": 31591,
+      "deaths": 31631,
       "recovered": 443880
     }
   },
@@ -1601,19 +1601,19 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5704713,
+      "confirmed": 5727045,
       "date": "2021-08-01",
-      "deaths": 51253,
-      "recovered": 5449253
+      "deaths": 51332,
+      "recovered": 5454360
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 700767,
+          "confirmed": 702469,
           "date": "2021-08-01",
-          "deaths": 12904
+          "deaths": 12915
         }
       },
       "California": {
@@ -1837,18 +1837,18 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 304726,
+      "confirmed": 305766,
       "date": "2021-08-01",
-      "deaths": 3576,
-      "recovered": 288864
+      "deaths": 3591,
+      "recovered": 290181
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 141122,
+      "confirmed": 150060,
       "date": "2021-08-01",
-      "deaths": 1161,
-      "recovered": 35484
+      "deaths": 1306,
+      "recovered": 38734
     }
   },
   "West Bank and Gaza": {

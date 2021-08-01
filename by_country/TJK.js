@@ -1117,7 +1117,8 @@ var covid19_dataset_country_tjk = {
       14761,
       14845,
       14929,
-      15004
+      15004,
+      15082
     ],
     "deaths": [
       0,
@@ -1674,6 +1675,7 @@ var covid19_dataset_country_tjk = {
       118,
       119,
       120,
+      121,
       121,
       121
     ],
@@ -2233,7 +2235,8 @@ var covid19_dataset_country_tjk = {
       14245,
       14313,
       14389,
-      14470
+      14470,
+      14556
     ]
   }
 };
