@@ -41,10 +41,10 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 659056,
+      "confirmed": 659508,
       "date": "2021-08-01",
-      "deaths": 10737,
-      "recovered": 643027
+      "deaths": 10738,
+      "recovered": 643387
     }
   },
   "Azerbaijan": {
@@ -893,10 +893,10 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 3409658,
+      "confirmed": 3440396,
       "date": "2021-08-01",
-      "deaths": 94119,
-      "recovered": 2770092
+      "deaths": 95723,
+      "recovered": 2809538
     }
   },
   "Iran": {
