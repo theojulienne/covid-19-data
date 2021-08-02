@@ -517,10 +517,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1673694,
+      "confirmed": 1673769,
       "date": "2021-08-02",
       "deaths": 30374,
-      "recovered": 1640599
+      "recovered": 1640812
     }
   },
   "Denmark": {
@@ -1093,10 +1093,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 283016,
+      "confirmed": 283246,
       "date": "2021-08-02",
       "deaths": 4416,
-      "recovered": 269323
+      "recovered": 269361
     }
   },
   "Malaysia": {
