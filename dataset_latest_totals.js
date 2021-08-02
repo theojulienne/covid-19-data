@@ -3157,19 +3157,19 @@ var covid19_dataset_latest_totals = {
     },
     "SVN": {
       "back_1week": {
-        "confirmed": 258619,
+        "confirmed": 258651,
         "deaths": 4427,
-        "recovered": 253362
+        "recovered": 253385
       },
       "back_2week": {
-        "confirmed": 258169,
+        "confirmed": 258190,
         "deaths": 4425,
-        "recovered": 252994
+        "recovered": 253003
       },
       "latest": {
-        "confirmed": 259215,
+        "confirmed": 259273,
         "deaths": 4429,
-        "recovered": 253742
+        "recovered": 253763
       }
     },
     "SWE": {
