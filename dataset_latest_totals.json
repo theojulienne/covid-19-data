@@ -1922,17 +1922,17 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 582013,
-        "deaths": 5244,
+        "deaths": 8538,
         "recovered": 498125
       },
       "back_2week": {
         "confirmed": 547386,
-        "deaths": 4909,
+        "deaths": 8173,
         "recovered": 483380
       },
       "latest": {
         "confirmed": 633469,
-        "deaths": 5866,
+        "deaths": 9077,
         "recovered": 527894
       }
     },
@@ -3361,9 +3361,9 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 5587378,
-        "deaths": 50879,
-        "recovered": 5415937
+        "confirmed": 5601608,
+        "deaths": 50934,
+        "recovered": 5421148
       },
       "back_2week": {
         "confirmed": 5522039,
@@ -3371,9 +3371,9 @@
         "recovered": 5380752
       },
       "latest": {
-        "confirmed": 5727045,
-        "deaths": 51332,
-        "recovered": 5454360
+        "confirmed": 5747935,
+        "deaths": 51428,
+        "recovered": 5459899
       }
     },
     "TWN": {
