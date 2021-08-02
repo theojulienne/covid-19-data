@@ -541,9 +541,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 487372,
+      "confirmed": 487598,
       "date": "2021-08-02",
-      "deaths": 31631,
+      "deaths": 31634,
       "recovered": 443880
     }
   },
@@ -591,58 +591,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 505910,
+          "confirmed": 505977,
           "date": "2021-08-02",
           "deaths": 10395,
-          "recovered": 492600
+          "recovered": 492700
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 653803,
+          "confirmed": 653947,
           "date": "2021-08-02",
           "deaths": 15338,
-          "recovered": 634300
+          "recovered": 634600
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 182733,
+          "confirmed": 182750,
           "date": "2021-08-02",
           "deaths": 3583,
-          "recovered": 177800
+          "recovered": 177900
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 294919,
+          "confirmed": 294967,
           "date": "2021-08-02",
           "deaths": 7587,
-          "recovered": 285000
+          "recovered": 285200
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 265191,
+          "confirmed": 265270,
           "date": "2021-08-02",
           "deaths": 5817,
-          "recovered": 256700
+          "recovered": 256900
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 827603,
+          "confirmed": 827847,
           "date": "2021-08-02",
           "deaths": 17292,
-          "recovered": 803300
+          "recovered": 803800
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 157565,
+          "confirmed": 157568,
           "date": "2021-08-02",
           "deaths": 3906,
-          "recovered": 152200
+          "recovered": 152300
         }
       },
       "Sachsen": {
@@ -655,7 +655,7 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129231,
+          "confirmed": 129237,
           "date": "2021-08-02",
           "deaths": 4381,
           "recovered": 124500
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 305766,
+      "confirmed": 306673,
       "date": "2021-08-02",
-      "deaths": 3591,
-      "recovered": 290181
+      "deaths": 3607,
+      "recovered": 291556
     }
   },
   "Vietnam": {
