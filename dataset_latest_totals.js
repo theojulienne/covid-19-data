@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 32638,
-        "current_hospitalized": 179,
-        "current_icu": 41,
+        "confirmed": 32789,
+        "current_hospitalized": 185,
+        "current_icu": 47,
         "deaths": 917,
         "recovered": 4097,
-        "tested": 24180053
+        "tested": 24338591
       },
       "back_2week": {
-        "confirmed": 31686,
-        "current_hospitalized": 129,
-        "current_icu": 21,
-        "deaths": 914,
-        "recovered": 4044,
-        "tested": 23190557
+        "confirmed": 31860,
+        "current_hospitalized": 134,
+        "current_icu": 23,
+        "deaths": 915,
+        "recovered": 4046,
+        "tested": 23414306
       },
       "latest": {
-        "confirmed": 33947,
-        "current_hospitalized": 264,
-        "current_icu": 58,
-        "deaths": 924,
+        "confirmed": 34195,
+        "current_hospitalized": 295,
+        "current_icu": 59,
+        "deaths": 925,
         "recovered": 4126,
-        "tested": 25082741
+        "tested": 25181921
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 269229
         },
         "NSW": {
-          "confirmed": 8725,
-          "current_hospitalized": 198,
-          "current_icu": 53,
+          "confirmed": 8964,
+          "current_hospitalized": 222,
+          "current_icu": 54,
           "current_ventilators": 16,
-          "deaths": 69,
+          "deaths": 70,
           "recovered": 2799,
-          "tested": 9093107
+          "tested": 9180819
         },
         "NT": {
           "confirmed": 197,
@@ -188,12 +188,12 @@ var covid19_dataset_latest_totals = {
           "tested": 297028
         },
         "QLD": {
-          "confirmed": 1800,
-          "current_hospitalized": 46,
+          "confirmed": 1809,
+          "current_hospitalized": 53,
           "current_icu": 1,
           "deaths": 6,
           "recovered": 1720,
-          "tested": 3369042
+          "tested": 3380510
         },
         "SA": {
           "confirmed": 859,
