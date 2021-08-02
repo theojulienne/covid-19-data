@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 172564,
+      "confirmed": 173922,
       "date": "2021-08-02",
-      "deaths": 4291,
-      "recovered": 116009
+      "deaths": 4329,
+      "recovered": 116770
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 558014,
+          "confirmed": 558034,
           "date": "2021-08-02",
           "deaths": 9307,
-          "recovered": 547129
+          "recovered": 547147
         }
       },
       "Quebec": {
@@ -407,26 +407,26 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 148581,
+          "confirmed": 148659,
           "date": "2021-08-02",
-          "deaths": 2525,
-          "recovered": 145252
+          "deaths": 2528,
+          "recovered": 145385
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 674280,
+          "confirmed": 674717,
           "date": "2021-08-02",
-          "deaths": 18325,
-          "recovered": 651838
+          "deaths": 18348,
+          "recovered": 652290
         }
       },
       "Valparaiso": {
         "live": {
-          "confirmed": 120533,
+          "confirmed": 120603,
           "date": "2021-08-02",
-          "deaths": 3268,
-          "recovered": 116477
+          "deaths": 3275,
+          "recovered": 116586
         }
       }
     }
@@ -565,10 +565,10 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 280565,
+      "confirmed": 280833,
       "date": "2021-08-02",
-      "deaths": 4390,
-      "recovered": 263587
+      "deaths": 4391,
+      "recovered": 263694
     }
   },
   "France": {
@@ -935,66 +935,66 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 431440,
+          "confirmed": 431634,
           "date": "2021-08-02",
-          "deaths": 7594,
-          "recovered": 415150
+          "deaths": 7598,
+          "recovered": 415644
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 394934,
+          "confirmed": 395489,
           "date": "2021-08-02",
-          "deaths": 13283,
-          "recovered": 374009
+          "deaths": 13285,
+          "recovered": 374148
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 359244,
+          "confirmed": 359536,
           "date": "2021-08-02",
-          "deaths": 8404,
+          "deaths": 8406,
           "recovered": 340049
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 853492,
+          "confirmed": 853818,
           "date": "2021-08-02",
           "deaths": 33827,
-          "recovered": 808491
+          "recovered": 808545
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 365973,
+          "confirmed": 366111,
           "date": "2021-08-02",
           "deaths": 11699,
-          "recovered": 351799
+          "recovered": 351858
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 256189,
+          "confirmed": 256255,
           "date": "2021-08-02",
           "deaths": 6669,
-          "recovered": 247099
+          "recovered": 247134
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 243541,
+          "confirmed": 243803,
           "date": "2021-08-02",
-          "deaths": 6047,
-          "recovered": 226275
+          "deaths": 6050,
+          "recovered": 226404
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 252675,
+          "confirmed": 253127,
           "date": "2021-08-02",
-          "deaths": 6913,
-          "recovered": 238194
+          "deaths": 6919,
+          "recovered": 238354
         }
       },
       "Veneto": {
@@ -1169,18 +1169,18 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 123541,
+      "confirmed": 124962,
       "date": "2021-08-02",
-      "deaths": 1462,
-      "recovered": 90845
+      "deaths": 1479,
+      "recovered": 95815
     }
   },
   "Namibia": {
     "live": {
-      "confirmed": 119285,
+      "confirmed": 119442,
       "date": "2021-08-02",
-      "deaths": 3057,
-      "recovered": 95913
+      "deaths": 3064,
+      "recovered": 96219
     }
   },
   "Nepal": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 137954,
+      "confirmed": 138049,
       "date": "2021-08-02",
       "deaths": 799,
       "recovered": 17998
@@ -1357,10 +1357,10 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 970937,
+      "confirmed": 972127,
       "date": "2021-08-02",
-      "deaths": 17369,
-      "recovered": 903514
+      "deaths": 17378,
+      "recovered": 904962
     }
   },
   "Qatar": {
@@ -1541,10 +1541,10 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 311349,
+      "confirmed": 313769,
       "date": "2021-08-02",
-      "deaths": 4503,
-      "recovered": 278910
+      "deaths": 4566,
+      "recovered": 280868
     }
   },
   "Sweden": {
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 564091,
+          "confirmed": 565780,
           "date": "2021-08-02",
-          "deaths": 10566
+          "deaths": 10572
         }
       },
       "Massachusetts": {
@@ -1662,7 +1662,7 @@
         "live": {
           "confirmed": 280201,
           "date": "2021-08-02",
-          "deaths": 4705
+          "deaths": 4711
         }
       },
       "New York": {
@@ -1681,23 +1681,23 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 248837,
+          "confirmed": 249014,
           "date": "2021-08-02",
           "deaths": 3756
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 156688,
+          "confirmed": 157274,
           "date": "2021-08-02",
           "deaths": 3784
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1393147,
+          "confirmed": 1394556,
           "date": "2021-08-02",
-          "deaths": 21011
+          "deaths": 21023
         }
       },
       "Utah": {
