@@ -676,7 +676,7 @@
       "confirmed": 370258,
       "date": "2021-08-02",
       "deaths": 10448,
-      "recovered": 324332
+      "recovered": 326004
     }
   },
   "Honduras": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 398538,
+      "confirmed": 399343,
       "date": "2021-08-02",
-      "deaths": 2328,
-      "recovered": 385401
+      "deaths": 2339,
+      "recovered": 386690
     }
   },
   "Kyrgyzstan": {
@@ -1077,10 +1077,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 562527,
+      "confirmed": 563124,
       "date": "2021-08-02",
-      "deaths": 7909,
-      "recovered": 537111
+      "deaths": 7912,
+      "recovered": 537451
     }
   },
   "Libya": {
@@ -1702,9 +1702,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 159377,
+          "confirmed": 160152,
           "date": "2021-08-02",
-          "deaths": 941
+          "deaths": 946
         }
       },
       "Washington": {
