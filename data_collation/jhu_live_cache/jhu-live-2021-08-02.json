@@ -549,10 +549,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 284262,
+      "confirmed": 284311,
       "date": "2021-08-02",
-      "deaths": 16524,
-      "recovered": 230368
+      "deaths": 16528,
+      "recovered": 230699
     }
   },
   "Estonia": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 173908,
+      "confirmed": 174315,
       "date": "2021-08-02",
       "deaths": 2149,
-      "recovered": 164994
+      "recovered": 165005
     }
   },
   "North Macedonia": {
@@ -1313,18 +1313,18 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 435655,
+      "confirmed": 436475,
       "date": "2021-08-02",
-      "deaths": 6823,
-      "recovered": 416263
+      "deaths": 6833,
+      "recovered": 417137
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 452388,
+      "confirmed": 452698,
       "date": "2021-08-02",
-      "deaths": 14981,
-      "recovered": 420031
+      "deaths": 15042,
+      "recovered": 421051
     }
   },
   "Peru": {
@@ -1601,10 +1601,10 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5727045,
+      "confirmed": 5747935,
       "date": "2021-08-02",
-      "deaths": 51332,
-      "recovered": 5454360
+      "deaths": 51428,
+      "recovered": 5459899
     }
   },
   "US": {
