@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 558007,
+          "confirmed": 558014,
           "date": "2021-08-02",
           "deaths": 9307,
-          "recovered": 547121
+          "recovered": 547129
         }
       },
       "Quebec": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 877316,
+      "confirmed": 878931,
       "date": "2021-08-02",
-      "deaths": 6477,
-      "recovered": 851285
+      "deaths": 6486,
+      "recovered": 851899
     }
   },
   "Italy": {
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2456184,
+      "confirmed": 2461758,
       "date": "2021-08-02",
-      "deaths": 72191,
-      "recovered": 2230871
+      "deaths": 72437,
+      "recovered": 2238388
     }
   },
   "Spain": {
@@ -1618,9 +1618,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2738222,
+          "confirmed": 2739723,
           "date": "2021-08-02",
-          "deaths": 47415
+          "deaths": 47521
         }
       },
       "Florida": {
@@ -1653,9 +1653,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 127080,
+          "confirmed": 127240,
           "date": "2021-08-02",
-          "deaths": 1803
+          "deaths": 1805
         }
       },
       "Nevada": {
@@ -1667,16 +1667,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1425366,
+          "confirmed": 1426256,
           "date": "2021-08-02",
-          "deaths": 40567
+          "deaths": 40574
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 119119,
+          "confirmed": 120200,
           "date": "2021-08-02",
-          "deaths": 991
+          "deaths": 993
         }
       },
       "Ohio": {
@@ -1690,7 +1690,7 @@
         "live": {
           "confirmed": 156688,
           "date": "2021-08-02",
-          "deaths": 3785
+          "deaths": 3784
         }
       },
       "Texas": {

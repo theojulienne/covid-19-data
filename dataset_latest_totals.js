@@ -571,17 +571,17 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1433525,
+        "confirmed": 1433792,
         "deaths": 26504,
         "recovered": 1401834
       },
       "back_2week": {
-        "confirmed": 1430437,
+        "confirmed": 1430740,
         "deaths": 26452,
         "recovered": 1398940
       },
       "latest": {
-        "confirmed": 1438457,
+        "confirmed": 1438817,
         "deaths": 26560,
         "recovered": 1404107
       },
@@ -627,7 +627,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 557866,
+          "confirmed": 558007,
           "deaths": 9306
         },
         "Prince Edward Island": {
@@ -1837,17 +1837,17 @@ var covid19_dataset_latest_totals = {
     "ISR": {
       "back_1week": {
         "confirmed": 860652,
-        "deaths": 6458,
+        "deaths": 6460,
         "recovered": 842888
       },
       "back_2week": {
         "confirmed": 851723,
-        "deaths": 6446,
+        "deaths": 6449,
         "recovered": 838463
       },
       "latest": {
         "confirmed": 875801,
-        "deaths": 6473,
+        "deaths": 6477,
         "recovered": 850839
       }
     },
@@ -2817,19 +2817,19 @@ var covid19_dataset_latest_totals = {
     },
     "PRT": {
       "back_1week": {
-        "confirmed": 953059,
-        "deaths": 17292,
-        "recovered": 881570
+        "confirmed": 950434,
+        "deaths": 17284,
+        "recovered": 880368
       },
       "back_2week": {
-        "confirmed": 930685,
-        "deaths": 17207,
-        "recovered": 861707
+        "confirmed": 927424,
+        "deaths": 17199,
+        "recovered": 860449
       },
       "latest": {
-        "confirmed": 966041,
-        "deaths": 17344,
-        "recovered": 897886
+        "confirmed": 968631,
+        "deaths": 17361,
+        "recovered": 902014
       }
     },
     "PRY": {
@@ -3950,19 +3950,19 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2368105,
-        "deaths": 69488,
-        "recovered": 2147168
+        "confirmed": 2377823,
+        "deaths": 69775,
+        "recovered": 2158183
       },
       "back_2week": {
-        "confirmed": 2283880,
-        "deaths": 66676,
-        "recovered": 2028881
+        "confirmed": 2295095,
+        "deaths": 66859,
+        "recovered": 2050164
       },
       "latest": {
-        "confirmed": 2447454,
-        "deaths": 72013,
-        "recovered": 2222338
+        "confirmed": 2456184,
+        "deaths": 72191,
+        "recovered": 2230871
       }
     },
     "ZMB": {
