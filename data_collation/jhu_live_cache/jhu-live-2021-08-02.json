@@ -361,10 +361,10 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 302665,
+      "confirmed": 306354,
       "date": "2021-08-02",
-      "deaths": 9731,
-      "recovered": 213227
+      "deaths": 10061,
+      "recovered": 217142
     }
   },
   "Canada": {
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 302074,
+      "confirmed": 303426,
       "date": "2021-08-02",
       "deaths": 5035,
       "recovered": 23364
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1393109,
+          "confirmed": 1393147,
           "date": "2021-08-02",
           "deaths": 21011
         }
