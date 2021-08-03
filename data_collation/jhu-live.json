@@ -17,10 +17,10 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 173922,
+      "confirmed": 175229,
       "date": "2021-08-03",
-      "deaths": 4329,
-      "recovered": 116770
+      "deaths": 4370,
+      "recovered": 117557
     }
   },
   "Argentina": {
@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 558171,
+          "confirmed": 558223,
           "date": "2021-08-03",
           "deaths": 9307,
-          "recovered": 547290
+          "recovered": 547348
         }
       },
       "Quebec": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 6063402,
+      "confirmed": 6084067,
       "date": "2021-08-03",
-      "deaths": 110860,
-      "recovered": 342482
+      "deaths": 110922,
+      "recovered": 343427
     }
   },
   "Georgia": {
@@ -673,9 +673,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 370258,
+      "confirmed": 373047,
       "date": "2021-08-03",
-      "deaths": 10448,
+      "deaths": 10483,
       "recovered": 326004
     }
   },
@@ -917,7 +917,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 303426,
+      "confirmed": 304310,
       "date": "2021-08-03",
       "deaths": 5035,
       "recovered": 23364
@@ -1449,10 +1449,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2461758,
+      "confirmed": 2470746,
       "date": "2021-08-03",
-      "deaths": 72437,
-      "recovered": 2238388
+      "deaths": 72992,
+      "recovered": 2250708
     }
   },
   "Spain": {
@@ -1632,9 +1632,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 565780,
+          "confirmed": 566466,
           "date": "2021-08-03",
-          "deaths": 10572
+          "deaths": 10576
         }
       },
       "Massachusetts": {
@@ -1646,9 +1646,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 288327,
+          "confirmed": 289338,
           "date": "2021-08-03",
-          "deaths": 7684
+          "deaths": 7694
         }
       },
       "Minnesota": {
@@ -1667,21 +1667,21 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1427030,
+          "confirmed": 1428173,
           "date": "2021-08-03",
-          "deaths": 40574
+          "deaths": 40582
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 120200,
+          "confirmed": 120493,
           "date": "2021-08-03",
-          "deaths": 993
+          "deaths": 994
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 249014,
+          "confirmed": 249350,
           "date": "2021-08-03",
           "deaths": 3756
         }
