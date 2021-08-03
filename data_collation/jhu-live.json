@@ -353,10 +353,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 425541,
+      "confirmed": 426003,
       "date": "2021-08-03",
-      "deaths": 18222,
-      "recovered": 398617
+      "deaths": 18225,
+      "recovered": 398669
     }
   },
   "Burma": {
@@ -371,10 +371,10 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 234295,
+          "confirmed": 235038,
           "date": "2021-08-03",
           "deaths": 2328,
-          "recovered": 230312
+          "recovered": 230534
         }
       },
       "British Columbia": {
@@ -1053,10 +1053,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 399343,
+      "confirmed": 400128,
       "date": "2021-08-03",
-      "deaths": 2339,
-      "recovered": 386690
+      "deaths": 2345,
+      "recovered": 387832
     }
   },
   "Kyrgyzstan": {
@@ -1077,10 +1077,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 563124,
+      "confirmed": 564354,
       "date": "2021-08-03",
-      "deaths": 7912,
-      "recovered": 537451
+      "deaths": 7917,
+      "recovered": 537653
     }
   },
   "Libya": {
@@ -1169,10 +1169,10 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 124962,
+      "confirmed": 126391,
       "date": "2021-08-03",
-      "deaths": 1479,
-      "recovered": 95815
+      "deaths": 1500,
+      "recovered": 96446
     }
   },
   "Namibia": {
@@ -1639,9 +1639,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 137559,
+          "confirmed": 137762,
           "date": "2021-08-03",
-          "deaths": 3794
+          "deaths": 3796
         }
       },
       "Michigan": {
@@ -1660,9 +1660,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 282357,
+          "confirmed": 283321,
           "date": "2021-08-03",
-          "deaths": 4711
+          "deaths": 4721
         }
       },
       "New York": {
@@ -1695,7 +1695,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1396503,
+          "confirmed": 1397990,
           "date": "2021-08-03",
           "deaths": 21036
         }
