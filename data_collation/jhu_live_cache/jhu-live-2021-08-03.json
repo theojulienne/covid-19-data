@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 558225,
+          "confirmed": 558463,
           "date": "2021-08-03",
-          "deaths": 9307,
-          "recovered": 547358
+          "deaths": 9310,
+          "recovered": 547523
         }
       },
       "Quebec": {
@@ -676,7 +676,7 @@
       "confirmed": 373047,
       "date": "2021-08-03",
       "deaths": 10483,
-      "recovered": 326004
+      "recovered": 328765
     }
   },
   "Honduras": {
@@ -925,10 +925,10 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 882391,
+      "confirmed": 882798,
       "date": "2021-08-03",
       "deaths": 6495,
-      "recovered": 853059
+      "recovered": 853150
     }
   },
   "Italy": {
@@ -1669,7 +1669,7 @@
         "live": {
           "confirmed": 1428173,
           "date": "2021-08-03",
-          "deaths": 40582
+          "deaths": 40583
         }
       },
       "North Carolina": {
