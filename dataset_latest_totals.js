@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1434866,
-        "deaths": 26511,
+        "confirmed": 1435403,
+        "deaths": 26519,
         "recovered": 1402588
       },
       "back_2week": {
-        "confirmed": 1431378,
-        "deaths": 26466,
+        "confirmed": 1431691,
+        "deaths": 26468,
         "recovered": 1399812
       },
       "latest": {
-        "confirmed": 1439032,
-        "deaths": 26561,
+        "confirmed": 1441275,
+        "deaths": 26569,
         "recovered": 1404327
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 558036,
-          "deaths": 9307
+          "confirmed": 558466,
+          "deaths": 9310
         },
         "Prince Edward Island": {
           "confirmed": 208,
@@ -1115,19 +1115,19 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 312292,
+        "confirmed": 312851,
         "deaths": 2543,
-        "recovered": 297851
+        "recovered": 298953
       },
       "back_2week": {
-        "confirmed": 306944,
+        "confirmed": 307764,
         "deaths": 2542,
-        "recovered": 293230
+        "recovered": 293906
       },
       "latest": {
-        "confirmed": 318485,
+        "confirmed": 319295,
         "deaths": 2550,
-        "recovered": 304669
+        "recovered": 305519
       },
       "states": {
         "Faroe Islands": {
