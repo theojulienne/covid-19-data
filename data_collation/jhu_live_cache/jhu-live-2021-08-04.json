@@ -387,10 +387,10 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 558573,
+          "confirmed": 558613,
           "date": "2021-08-04",
           "deaths": 9322,
-          "recovered": 547609
+          "recovered": 547660
         }
       },
       "Quebec": {
@@ -673,9 +673,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 373047,
+      "confirmed": 377446,
       "date": "2021-08-04",
-      "deaths": 10483,
+      "deaths": 10524,
       "recovered": 328765
     }
   },
@@ -1077,9 +1077,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 564354,
+      "confirmed": 565896,
       "date": "2021-08-04",
-      "deaths": 7917,
+      "deaths": 7921,
       "recovered": 537653
     }
   },
@@ -1702,9 +1702,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 160401,
+          "confirmed": 160782,
           "date": "2021-08-04",
-          "deaths": 946
+          "deaths": 948
         }
       },
       "Washington": {
