@@ -576,7 +576,7 @@
       "confirmed": 6084067,
       "date": "2021-08-04",
       "deaths": 110922,
-      "recovered": 343427
+      "recovered": 341758
     }
   },
   "Georgia": {
@@ -1253,10 +1253,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 174759,
+      "confirmed": 175264,
       "date": "2021-08-04",
-      "deaths": 2160,
-      "recovered": 165037
+      "deaths": 2163,
+      "recovered": 165122
     }
   },
   "North Macedonia": {
@@ -1695,9 +1695,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1403742,
+          "confirmed": 1405874,
           "date": "2021-08-04",
-          "deaths": 21036
+          "deaths": 21041
         }
       },
       "Utah": {
@@ -1821,10 +1821,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 381715,
+      "confirmed": 381853,
       "date": "2021-08-04",
-      "deaths": 5972,
-      "recovered": 373839
+      "deaths": 5976,
+      "recovered": 374044
     }
   },
   "Uzbekistan": {
@@ -1845,10 +1845,10 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 165339,
+      "confirmed": 170190,
       "date": "2021-08-04",
-      "deaths": 1881,
-      "recovered": 46965
+      "deaths": 2071,
+      "recovered": 50831
     }
   },
   "West Bank and Gaza": {
