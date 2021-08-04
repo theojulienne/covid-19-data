@@ -1,26 +1,26 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 148572,
+      "confirmed": 148933,
       "date": "2021-08-04",
-      "deaths": 6804,
+      "deaths": 6836,
       "recovered": 82586
     }
   },
   "Albania": {
     "live": {
-      "confirmed": 133211,
+      "confirmed": 133310,
       "date": "2021-08-04",
       "deaths": 2457,
-      "recovered": 130291
+      "recovered": 130314
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 175229,
+      "confirmed": 176724,
       "date": "2021-08-04",
-      "deaths": 4370,
-      "recovered": 117557
+      "deaths": 4404,
+      "recovered": 118409
     }
   },
   "Argentina": {
@@ -573,10 +573,10 @@
   },
   "France": {
     "live": {
-      "confirmed": 6084067,
+      "confirmed": 6111503,
       "date": "2021-08-04",
-      "deaths": 110922,
-      "recovered": 341758
+      "deaths": 110952,
+      "recovered": 342253
     }
   },
   "Georgia": {
@@ -917,9 +917,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 304310,
+      "confirmed": 305527,
       "date": "2021-08-04",
-      "deaths": 5035,
+      "deaths": 5044,
       "recovered": 23364
     }
   },
@@ -1185,10 +1185,10 @@
   },
   "Namibia": {
     "live": {
-      "confirmed": 119797,
+      "confirmed": 119984,
       "date": "2021-08-04",
-      "deaths": 3080,
-      "recovered": 96341
+      "deaths": 3112,
+      "recovered": 96568
     }
   },
   "Nepal": {
@@ -1457,10 +1457,10 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2470746,
+      "confirmed": 2484009,
       "date": "2021-08-04",
-      "deaths": 72992,
-      "recovered": 2250708
+      "deaths": 73415,
+      "recovered": 2258603
     }
   },
   "Spain": {
@@ -1549,7 +1549,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 317914,
+      "confirmed": 318755,
       "date": "2021-08-04",
       "deaths": 4727,
       "recovered": 284524
@@ -1640,9 +1640,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 566466,
+          "confirmed": 566985,
           "date": "2021-08-04",
-          "deaths": 10576
+          "deaths": 10581
         }
       },
       "Massachusetts": {
@@ -1670,26 +1670,26 @@
         "live": {
           "confirmed": 283321,
           "date": "2021-08-04",
-          "deaths": 4721
+          "deaths": 4744
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1429209,
+          "confirmed": 1430176,
           "date": "2021-08-04",
           "deaths": 40583
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 120493,
+          "confirmed": 120955,
           "date": "2021-08-04",
-          "deaths": 994
+          "deaths": 995
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 249350,
+          "confirmed": 249773,
           "date": "2021-08-04",
           "deaths": 3764
         }
