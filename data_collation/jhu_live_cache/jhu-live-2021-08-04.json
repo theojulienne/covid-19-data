@@ -607,7 +607,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 183276,
+          "confirmed": 183282,
           "date": "2021-08-04",
           "deaths": 3583,
           "recovered": 178100
@@ -1093,10 +1093,10 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 283656,
+      "confirmed": 284191,
       "date": "2021-08-04",
-      "deaths": 4420,
-      "recovered": 269662
+      "deaths": 4422,
+      "recovered": 269840
     }
   },
   "Malaysia": {
@@ -1727,50 +1727,50 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 136600,
+          "confirmed": 136664,
           "date": "2021-08-04",
-          "deaths": 4517,
-          "recovered": 131397
+          "deaths": 4520,
+          "recovered": 131418
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 149562,
+          "confirmed": 149637,
           "date": "2021-08-04",
-          "deaths": 3606,
-          "recovered": 145158
+          "deaths": 3609,
+          "recovered": 145173
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 219340,
+          "confirmed": 219576,
           "date": "2021-08-04",
-          "deaths": 5235,
-          "recovered": 209591
+          "deaths": 5238,
+          "recovered": 209777
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 128239,
+          "confirmed": 128273,
           "date": "2021-08-04",
           "deaths": 2773,
-          "recovered": 124928
+          "recovered": 124939
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 138236,
+          "confirmed": 138270,
           "date": "2021-08-04",
-          "deaths": 3690,
-          "recovered": 133959
+          "deaths": 3692,
+          "recovered": 133974
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 142111,
+          "confirmed": 142157,
           "date": "2021-08-04",
-          "deaths": 3017,
-          "recovered": 137930
+          "deaths": 3020,
+          "recovered": 137942
         }
       }
     }
