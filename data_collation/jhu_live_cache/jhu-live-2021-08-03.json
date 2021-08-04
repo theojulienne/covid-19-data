@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4947030,
+      "confirmed": 4961880,
       "date": "2021-08-03",
-      "deaths": 106045,
-      "recovered": 4594873
+      "deaths": 106447,
+      "recovered": 4606026
     }
   },
   "Armenia": {
@@ -57,10 +57,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 269401,
+      "confirmed": 269495,
       "date": "2021-08-03",
       "deaths": 1384,
-      "recovered": 267026
+      "recovered": 267096
     }
   },
   "Bangladesh": {
@@ -379,10 +379,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 149889,
+          "confirmed": 150631,
           "date": "2021-08-03",
-          "deaths": 1771,
-          "recovered": 146876
+          "deaths": 1772,
+          "recovered": 147285
         }
       },
       "Ontario": {
@@ -618,7 +618,7 @@
           "confirmed": 295099,
           "date": "2021-08-03",
           "deaths": 7586,
-          "recovered": 285200
+          "recovered": 285300
         }
       },
       "Niedersachsen": {
@@ -626,7 +626,7 @@
           "confirmed": 265391,
           "date": "2021-08-03",
           "deaths": 5817,
-          "recovered": 256900
+          "recovered": 257100
         }
       },
       "Nordrhein-Westfalen": {
@@ -634,7 +634,7 @@
           "confirmed": 828457,
           "date": "2021-08-03",
           "deaths": 17296,
-          "recovered": 803800
+          "recovered": 804200
         }
       },
       "Rheinland-Pfalz": {
@@ -1709,9 +1709,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 117388,
+          "confirmed": 118704,
           "date": "2021-08-03",
-          "deaths": 1679
+          "deaths": 1681
         }
       },
       "Wisconsin": {
