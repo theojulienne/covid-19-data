@@ -1668,17 +1668,17 @@
       "back_1week": {
         "confirmed": 290447,
         "deaths": 7650,
-        "recovered": 97711
+        "recovered": 98410
       },
       "back_2week": {
         "confirmed": 281604,
         "deaths": 7482,
-        "recovered": 96098
+        "recovered": 96452
       },
       "latest": {
         "confirmed": 300572,
         "deaths": 7902,
-        "recovered": 100697
+        "recovered": 101644
       }
     },
     "HRV": {
