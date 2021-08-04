@@ -501,10 +501,10 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 363973,
+      "confirmed": 364244,
       "date": "2021-08-04",
       "deaths": 8267,
-      "recovered": 354695
+      "recovered": 354830
     }
   },
   "Cuba": {
@@ -901,10 +901,10 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 3979727,
+      "confirmed": 4019084,
       "date": "2021-08-04",
-      "deaths": 91785,
-      "recovered": 3424650
+      "deaths": 92194,
+      "recovered": 3444798
     }
   },
   "Iraq": {
@@ -1109,10 +1109,10 @@
   },
   "Malaysia": {
     "live": {
-      "confirmed": 1163291,
+      "confirmed": 1183110,
       "date": "2021-08-04",
-      "deaths": 9598,
-      "recovered": 950029
+      "deaths": 9855,
+      "recovered": 962733
     }
   },
   "Mexico": {
@@ -1381,10 +1381,10 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1083711,
+      "confirmed": 1083982,
       "date": "2021-08-04",
-      "deaths": 34297,
-      "recovered": 1047915
+      "deaths": 34298,
+      "recovered": 1048072
     }
   },
   "Russia": {
@@ -1601,10 +1601,10 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 596775,
+      "confirmed": 599594,
       "date": "2021-08-04",
-      "deaths": 20226,
-      "recovered": 521335
+      "deaths": 20410,
+      "recovered": 525889
     }
   },
   "Turkey": {
@@ -1703,7 +1703,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1405874,
+          "confirmed": 1406016,
           "date": "2021-08-04",
           "deaths": 21041
         }
@@ -1785,10 +1785,10 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 685462,
+      "confirmed": 686981,
       "date": "2021-08-04",
-      "deaths": 1960,
-      "recovered": 662660
+      "deaths": 1965,
+      "recovered": 664130
     }
   },
   "United Kingdom": {
@@ -1861,18 +1861,18 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 317264,
+      "confirmed": 317404,
       "date": "2021-08-04",
       "deaths": 3609,
-      "recovered": 312289
+      "recovered": 312320
     }
   },
   "Zambia": {
     "live": {
-      "confirmed": 197123,
+      "confirmed": 197791,
       "date": "2021-08-04",
-      "deaths": 3422,
-      "recovered": 189341
+      "deaths": 3430,
+      "recovered": 189658
     }
   }
 }
