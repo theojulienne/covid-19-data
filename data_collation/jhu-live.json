@@ -1045,10 +1045,10 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 205356,
+      "confirmed": 206691,
       "date": "2021-08-04",
-      "deaths": 3995,
-      "recovered": 190095
+      "deaths": 4025,
+      "recovered": 191188
     }
   },
   "Korea, South": {
@@ -1349,10 +1349,10 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 1612541,
+      "confirmed": 1619824,
       "date": "2021-08-04",
-      "deaths": 28141,
-      "recovered": 1521263
+      "deaths": 28231,
+      "recovered": 1528422
     }
   },
   "Poland": {
@@ -1373,10 +1373,10 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 226710,
+      "confirmed": 226874,
       "date": "2021-08-04",
       "deaths": 601,
-      "recovered": 224129
+      "recovered": 224285
     }
   },
   "Romania": {
