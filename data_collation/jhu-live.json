@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 656734,
+      "confirmed": 664724,
       "date": "2021-08-04",
       "deaths": 9077,
-      "recovered": 543986
+      "recovered": 547650
     }
   },
   "Kenya": {
@@ -1837,15 +1837,15 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 307570,
+      "confirmed": 308452,
       "date": "2021-08-04",
-      "deaths": 3623,
-      "recovered": 292567
+      "deaths": 3637,
+      "recovered": 293672
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 170190,
+      "confirmed": 174461,
       "date": "2021-08-04",
       "deaths": 2071,
       "recovered": 50831
