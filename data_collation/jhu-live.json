@@ -689,10 +689,10 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 809731,
+      "confirmed": 809803,
       "date": "2021-08-05",
       "deaths": 30032,
-      "recovered": 749773
+      "recovered": 750955
     }
   },
   "India": {
@@ -1011,7 +1011,7 @@
     "subseries": {
       "Tokyo": {
         "live": {
-          "confirmed": 231164,
+          "confirmed": 236164,
           "date": "2021-08-05",
           "deaths": 2301,
           "recovered": 197045
