@@ -517,10 +517,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1673926,
+      "confirmed": 1674183,
       "date": "2021-08-05",
-      "deaths": 30378,
-      "recovered": 1641074
+      "deaths": 30372,
+      "recovered": 1641321
     }
   },
   "Denmark": {
@@ -1029,10 +1029,10 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 664724,
+      "confirmed": 672895,
       "date": "2021-08-05",
       "deaths": 9077,
-      "recovered": 547650
+      "recovered": 555079
     }
   },
   "Kenya": {
@@ -1111,33 +1111,33 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 793882,
+          "confirmed": 799306,
           "date": "2021-08-05",
-          "deaths": 35813,
+          "deaths": 35874,
           "recovered": 0
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 139494,
+          "confirmed": 140012,
           "date": "2021-08-05",
-          "deaths": 11179,
+          "deaths": 11186,
           "recovered": 0
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 295320,
+          "confirmed": 297540,
           "date": "2021-08-05",
-          "deaths": 38406,
+          "deaths": 38509,
           "recovered": 0
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 144508,
+          "confirmed": 145738,
           "date": "2021-08-05",
-          "deaths": 10203,
+          "deaths": 10218,
           "recovered": 0
         }
       }
@@ -1467,9 +1467,9 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 148902,
+          "confirmed": 149510,
           "date": "2021-08-05",
-          "deaths": 3604,
+          "deaths": 3601,
           "recovered": 3772
         }
       },
@@ -1837,10 +1837,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 308452,
+      "confirmed": 309218,
       "date": "2021-08-05",
-      "deaths": 3637,
-      "recovered": 293672
+      "deaths": 3649,
+      "recovered": 294607
     }
   },
   "Vietnam": {
