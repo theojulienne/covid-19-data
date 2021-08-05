@@ -437,66 +437,66 @@
         "live": {
           "confirmed": 718303,
           "date": "2021-08-05",
-          "deaths": 15364,
-          "recovered": 689484
+          "deaths": 15399,
+          "recovered": 690291
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 309071,
           "date": "2021-08-05",
-          "deaths": 9231,
-          "recovered": 296454
+          "deaths": 9239,
+          "recovered": 296855
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 151740,
           "date": "2021-08-05",
-          "deaths": 2864,
-          "recovered": 147331
+          "deaths": 2868,
+          "recovered": 147652
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1420779,
           "date": "2021-08-05",
-          "deaths": 26766,
-          "recovered": 1366681
+          "deaths": 26797,
+          "recovered": 1369593
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 258384,
           "date": "2021-08-05",
-          "deaths": 6593,
-          "recovered": 246974
+          "deaths": 6603,
+          "recovered": 247445
         }
       },
       "Santander": {
         "live": {
           "confirmed": 220136,
           "date": "2021-08-05",
-          "deaths": 7046,
-          "recovered": 208848
+          "deaths": 7061,
+          "recovered": 209273
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 387973,
           "date": "2021-08-05",
-          "deaths": 12189,
-          "recovered": 368042
+          "deaths": 12223,
+          "recovered": 369318
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 411123,
+      "confirmed": 412918,
       "date": "2021-08-05",
-      "deaths": 5070,
-      "recovered": 334117
+      "deaths": 5087,
+      "recovered": 334759
     }
   },
   "Croatia": {
@@ -1269,7 +1269,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 138945,
+      "confirmed": 139218,
       "date": "2021-08-05",
       "deaths": 804,
       "recovered": 17998
@@ -1618,7 +1618,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2756940,
+          "confirmed": 2761537,
           "date": "2021-08-05",
           "deaths": 47575
         }
