@@ -635,7 +635,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 377973,
+          "confirmed": 378157,
           "deaths": 11241
         },
         "Repatriated Travellers": {
@@ -1263,19 +1263,19 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 278920,
-        "deaths": 4374,
-        "recovered": 262968
+        "confirmed": 279153,
+        "deaths": 4376,
+        "recovered": 263066
       },
       "back_2week": {
-        "confirmed": 277877,
-        "deaths": 4359,
-        "recovered": 262550
+        "confirmed": 277959,
+        "deaths": 4360,
+        "recovered": 262588
       },
       "latest": {
-        "confirmed": 281300,
-        "deaths": 4395,
-        "recovered": 263885
+        "confirmed": 281811,
+        "deaths": 4403,
+        "recovered": 264008
       }
     },
     "FIN": {
@@ -1634,7 +1634,7 @@
       "back_1week": {
         "confirmed": 358798,
         "deaths": 10224,
-        "recovered": 311828
+        "recovered": 314439
       },
       "back_2week": {
         "confirmed": 340857,
@@ -1644,7 +1644,7 @@
       "latest": {
         "confirmed": 377446,
         "deaths": 10524,
-        "recovered": 328765
+        "recovered": 331374
       }
     },
     "GUY": {
