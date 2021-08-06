@@ -25,10 +25,10 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 4975616,
+      "confirmed": 4989402,
       "date": "2021-08-05",
-      "deaths": 106747,
-      "recovered": 4615834
+      "deaths": 107023,
+      "recovered": 4630436
     }
   },
   "Armenia": {
@@ -137,6 +137,14 @@
       "date": "2021-08-05",
       "deaths": 9689,
       "recovered": 190492
+    }
+  },
+  "Botswana": {
+    "live": {
+      "confirmed": 122574,
+      "date": "2021-08-05",
+      "deaths": 1704,
+      "recovered": 104731
     }
   },
   "Brazil": {
@@ -330,7 +338,7 @@
           "confirmed": 4084112,
           "date": "2021-08-05",
           "deaths": 139870,
-          "recovered": 3778637
+          "recovered": 3781155
         }
       },
       "Sergipe": {
@@ -379,10 +387,10 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 150973,
+          "confirmed": 151375,
           "date": "2021-08-05",
           "deaths": 1772,
-          "recovered": 147409
+          "recovered": 147510
         }
       },
       "Ontario": {
@@ -493,10 +501,10 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 412918,
+      "confirmed": 414745,
       "date": "2021-08-05",
-      "deaths": 5087,
-      "recovered": 334759
+      "deaths": 5108,
+      "recovered": 335510
     }
   },
   "Croatia": {
@@ -681,9 +689,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 303387,
+      "confirmed": 304181,
       "date": "2021-08-05",
-      "deaths": 8014,
+      "deaths": 8052,
       "recovered": 102384
     }
   },
@@ -1085,10 +1093,10 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 565896,
+      "confirmed": 567044,
       "date": "2021-08-05",
-      "deaths": 7921,
-      "recovered": 537653
+      "deaths": 7926,
+      "recovered": 538039
     }
   },
   "Libya": {
@@ -1277,7 +1285,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 139463,
+      "confirmed": 139778,
       "date": "2021-08-05",
       "deaths": 804,
       "recovered": 17998
@@ -1626,9 +1634,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2763809,
+          "confirmed": 2645670,
           "date": "2021-08-05",
-          "deaths": 47618
+          "deaths": 45823
         }
       },
       "Florida": {
@@ -1717,7 +1725,7 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 119301,
+          "confirmed": 119960,
           "date": "2021-08-05",
           "deaths": 1683
         }
@@ -1829,10 +1837,10 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 381994,
+      "confirmed": 382155,
       "date": "2021-08-05",
-      "deaths": 5979,
-      "recovered": 374203
+      "deaths": 5982,
+      "recovered": 374386
     }
   },
   "Uzbekistan": {
@@ -1861,10 +1869,10 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 317404,
+      "confirmed": 317534,
       "date": "2021-08-05",
       "deaths": 3609,
-      "recovered": 312320
+      "recovered": 312362
     }
   },
   "Zambia": {
