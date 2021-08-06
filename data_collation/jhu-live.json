@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 149429,
+          "confirmed": 149744,
           "date": "2021-08-06",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 141542,
+          "confirmed": 141966,
           "date": "2021-08-06",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 130333,
+          "confirmed": 130521,
           "date": "2021-08-06",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 164294,
+          "confirmed": 164498,
           "date": "2021-08-06",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 134184,
+          "confirmed": 134318,
           "date": "2021-08-06",
           "deaths": 0
         }
@@ -1516,9 +1516,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1415674,
+          "confirmed": 1416985,
           "date": "2021-08-06",
-          "deaths": 21082
+          "deaths": 21086
         }
       },
       "Utah": {
@@ -1652,9 +1652,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 181756,
+      "confirmed": 185057,
       "date": "2021-08-06",
-      "deaths": 2327
+      "deaths": 2720
     }
   },
   "West Bank and Gaza": {
