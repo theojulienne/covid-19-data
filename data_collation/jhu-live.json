@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 149744,
+          "confirmed": 150061,
           "date": "2021-08-07",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 141966,
+          "confirmed": 142326,
           "date": "2021-08-07",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 130521,
+          "confirmed": 130711,
           "date": "2021-08-07",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 164498,
+          "confirmed": 164673,
           "date": "2021-08-07",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 134318,
+          "confirmed": 134426,
           "date": "2021-08-07",
           "deaths": 0
         }
@@ -991,30 +991,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 804298,
+          "confirmed": 809616,
           "date": "2021-08-07",
-          "deaths": 35964
+          "deaths": 36028
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 140597,
+          "confirmed": 141120,
           "date": "2021-08-07",
-          "deaths": 11196
+          "deaths": 11202
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 299839,
+          "confirmed": 301988,
           "date": "2021-08-07",
-          "deaths": 38612
+          "deaths": 38700
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 147299,
+          "confirmed": 148789,
           "date": "2021-08-07",
-          "deaths": 10249
+          "deaths": 10267
         }
       }
     }
@@ -1176,9 +1176,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 454194,
+      "confirmed": 454542,
       "date": "2021-08-07",
-      "deaths": 15207
+      "deaths": 15238
     }
   },
   "Peru": {
@@ -1439,7 +1439,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2659008,
+          "confirmed": 2660510,
           "date": "2021-08-07",
           "deaths": 45851
         }
