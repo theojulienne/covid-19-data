@@ -392,49 +392,49 @@
         "live": {
           "confirmed": 720267,
           "date": "2021-08-07",
-          "deaths": 15427
+          "deaths": 15453
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 309677,
           "date": "2021-08-07",
-          "deaths": 9243
+          "deaths": 9248
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 152196,
           "date": "2021-08-07",
-          "deaths": 2877
+          "deaths": 2885
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1424073,
           "date": "2021-08-07",
-          "deaths": 26829
+          "deaths": 26854
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 259038,
           "date": "2021-08-07",
-          "deaths": 6624
+          "deaths": 6629
         }
       },
       "Santander": {
         "live": {
           "confirmed": 220652,
           "date": "2021-08-07",
-          "deaths": 7070
+          "deaths": 7083
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 389774,
           "date": "2021-08-07",
-          "deaths": 12248
+          "deaths": 12276
         }
       }
     }
@@ -1652,9 +1652,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 189066,
+      "confirmed": 193381,
       "date": "2021-08-07",
-      "deaths": 2720
+      "deaths": 3016
     }
   },
   "West Bank and Gaza": {
