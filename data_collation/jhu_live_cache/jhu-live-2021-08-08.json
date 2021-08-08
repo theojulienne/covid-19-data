@@ -576,7 +576,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287024,
+          "confirmed": 287028,
           "date": "2021-08-08",
           "deaths": 10140
         }
@@ -933,9 +933,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 209228,
+      "confirmed": 210956,
       "date": "2021-08-08",
-      "deaths": 2116
+      "deaths": 2121
     }
   },
   "Kuwait": {
@@ -1176,9 +1176,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 454542,
+      "confirmed": 454865,
       "date": "2021-08-08",
-      "deaths": 15238
+      "deaths": 15268
     }
   },
   "Peru": {
@@ -1423,9 +1423,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5870741,
+      "confirmed": 5895841,
       "date": "2021-08-08",
-      "deaths": 51976
+      "deaths": 52088
     }
   },
   "US": {
