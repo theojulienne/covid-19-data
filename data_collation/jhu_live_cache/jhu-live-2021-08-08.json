@@ -527,49 +527,49 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 507549,
+          "confirmed": 507846,
           "date": "2021-08-08",
-          "deaths": 10429
+          "deaths": 10430
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 655471,
+          "confirmed": 655883,
           "date": "2021-08-08",
           "deaths": 15360
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 184117,
+          "confirmed": 184188,
           "date": "2021-08-08",
           "deaths": 3585
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 296092,
+          "confirmed": 296318,
           "date": "2021-08-08",
           "deaths": 7593
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 266520,
+          "confirmed": 266696,
           "date": "2021-08-08",
           "deaths": 5819
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 832720,
+          "confirmed": 833859,
           "date": "2021-08-08",
           "deaths": 17305
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 158409,
+          "confirmed": 158412,
           "date": "2021-08-08",
           "deaths": 3911
         }
@@ -583,7 +583,7 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129369,
+          "confirmed": 129378,
           "date": "2021-08-08",
           "deaths": 4384
         }
@@ -991,30 +991,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 809616,
+          "confirmed": 814132,
           "date": "2021-08-08",
-          "deaths": 36028
+          "deaths": 36093
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 141120,
+          "confirmed": 141582,
           "date": "2021-08-08",
-          "deaths": 11202
+          "deaths": 11215
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 301988,
+          "confirmed": 303948,
           "date": "2021-08-08",
-          "deaths": 38700
+          "deaths": 38767
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 148789,
+          "confirmed": 150353,
           "date": "2021-08-08",
-          "deaths": 10267
+          "deaths": 10288
         }
       }
     }
@@ -1652,9 +1652,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 200715,
+      "confirmed": 205656,
       "date": "2021-08-08",
-      "deaths": 3016
+      "deaths": 3250
     }
   },
   "West Bank and Gaza": {
