@@ -564,7 +564,8 @@ var covid19_dataset_country_tza = {
     "2021-08-05",
     "2021-08-06",
     "2021-08-07",
-    "2021-08-08"
+    "2021-08-08",
+    "2021-08-09"
   ],
   "total": {
     "confirmed": [
@@ -1129,6 +1130,7 @@ var covid19_dataset_country_tza = {
       1017,
       1017,
       1017,
+      1017,
       1017
     ],
     "deaths": [
@@ -1239,6 +1241,7 @@ var covid19_dataset_country_tza = {
       16,
       16,
       16,
+      21,
       21,
       21,
       21,
@@ -2257,6 +2260,7 @@ var covid19_dataset_country_tza = {
       183,
       183,
       183,
+      0,
       0
     ]
   }

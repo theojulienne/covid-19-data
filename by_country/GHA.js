@@ -564,7 +564,8 @@ var covid19_dataset_country_gha = {
     "2021-08-05",
     "2021-08-06",
     "2021-08-07",
-    "2021-08-08"
+    "2021-08-08",
+    "2021-08-09"
   ],
   "total": {
     "confirmed": [
@@ -1129,6 +1130,7 @@ var covid19_dataset_country_gha = {
       104994,
       105512,
       106053,
+      106434,
       106434
     ],
     "deaths": [
@@ -1693,6 +1695,7 @@ var covid19_dataset_country_gha = {
       837,
       844,
       847,
+      854,
       854
     ],
     "recovered": [
@@ -2257,6 +2260,7 @@ var covid19_dataset_country_gha = {
       98229,
       98392,
       98633,
+      0,
       0
     ]
   }
