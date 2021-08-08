@@ -490,9 +490,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 284580,
+      "confirmed": 284641,
       "date": "2021-08-08",
-      "deaths": 16562
+      "deaths": 16566
     }
   },
   "Estonia": {
@@ -1116,9 +1116,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 177142,
+      "confirmed": 177615,
       "date": "2021-08-08",
-      "deaths": 2181
+      "deaths": 2185
     }
   },
   "North Macedonia": {
