@@ -565,7 +565,8 @@ var covid19_dataset_country_png = {
     "2021-08-06",
     "2021-08-07",
     "2021-08-08",
-    "2021-08-09"
+    "2021-08-09",
+    "2021-08-10"
   ],
   "total": {
     "confirmed": [
@@ -1131,6 +1132,7 @@ var covid19_dataset_country_png = {
       17774,
       17774,
       17774,
+      17774,
       17774
     ],
     "deaths": [
@@ -1680,6 +1682,7 @@ var covid19_dataset_country_png = {
       179,
       187,
       191,
+      192,
       192,
       192,
       192,
@@ -2260,6 +2263,7 @@ var covid19_dataset_country_png = {
       17384,
       17384,
       17384,
+      0,
       0,
       0
     ]
