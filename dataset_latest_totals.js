@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 34226,
-        "current_hospitalized": 292,
+        "confirmed": 34477,
+        "current_hospitalized": 312,
         "current_icu": 59,
-        "deaths": 925,
-        "recovered": 4128,
-        "tested": 25426449
+        "deaths": 926,
+        "recovered": 4130,
+        "tested": 25608882
       },
       "back_2week": {
-        "confirmed": 32800,
-        "current_hospitalized": 184,
-        "current_icu": 48,
-        "deaths": 917,
-        "recovered": 4097,
-        "tested": 24452458
+        "confirmed": 32952,
+        "current_hospitalized": 199,
+        "current_icu": 49,
+        "deaths": 919,
+        "recovered": 4102,
+        "tested": 24594187
       },
       "latest": {
-        "confirmed": 36141,
-        "current_hospitalized": 433,
-        "current_icu": 62,
-        "deaths": 939,
+        "confirmed": 36430,
+        "current_hospitalized": 17,
+        "current_icu": 3,
+        "deaths": 940,
         "recovered": 0,
-        "tested": 26533302
+        "tested": 26693536
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 277742
         },
         "NSW": {
-          "confirmed": 10728,
+          "confirmed": 11012,
           "current_hospitalized": 351,
           "current_icu": 58,
           "current_ventilators": 16,
-          "deaths": 84,
+          "deaths": 85,
           "recovered": 2799,
-          "tested": 9930372
+          "tested": 10064212
         },
         "NT": {
           "confirmed": 199,
@@ -188,12 +188,12 @@ var covid19_dataset_latest_totals = {
           "tested": 307136
         },
         "QLD": {
-          "confirmed": 1918,
+          "confirmed": 1923,
           "current_hospitalized": 65,
           "current_icu": 1,
           "deaths": 6,
           "recovered": 0,
-          "tested": 3656013
+          "tested": 3682407
         },
         "SA": {
           "confirmed": 866,

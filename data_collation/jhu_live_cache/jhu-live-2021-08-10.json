@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 150061,
+          "confirmed": 150785,
           "date": "2021-08-10",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 142326,
+          "confirmed": 143383,
           "date": "2021-08-10",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 130711,
+          "confirmed": 131174,
           "date": "2021-08-10",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 164673,
+          "confirmed": 165047,
           "date": "2021-08-10",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 134426,
+          "confirmed": 134698,
           "date": "2021-08-10",
           "deaths": 0
         }
@@ -991,30 +991,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 815833,
+          "confirmed": 817561,
           "date": "2021-08-10",
-          "deaths": 36116
+          "deaths": 36171
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 141640,
+          "confirmed": 141704,
           "date": "2021-08-10",
           "deaths": 11215
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 304441,
+          "confirmed": 304869,
           "date": "2021-08-10",
-          "deaths": 38791
+          "deaths": 38842
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 150836,
+          "confirmed": 151191,
           "date": "2021-08-10",
-          "deaths": 10295
+          "deaths": 10328
         }
       }
     }
@@ -1176,9 +1176,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 455120,
+      "confirmed": 455389,
       "date": "2021-08-10",
-      "deaths": 15293
+      "deaths": 15315
     }
   },
   "Peru": {
@@ -1423,9 +1423,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5918510,
+      "confirmed": 5942241,
       "date": "2021-08-10",
-      "deaths": 52196
+      "deaths": 52313
     }
   },
   "US": {
@@ -1652,9 +1652,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 215560,
+      "confirmed": 219745,
       "date": "2021-08-10",
-      "deaths": 3397
+      "deaths": 3757
     }
   },
   "West Bank and Gaza": {
