@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 150785,
+          "confirmed": 151053,
           "date": "2021-08-11",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 143383,
+          "confirmed": 143746,
           "date": "2021-08-11",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 131174,
+          "confirmed": 131380,
           "date": "2021-08-11",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 165047,
+          "confirmed": 165142,
           "date": "2021-08-11",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 134698,
+          "confirmed": 134884,
           "date": "2021-08-11",
           "deaths": 0
         }
@@ -527,65 +527,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 508736,
+          "confirmed": 508752,
           "date": "2021-08-11",
           "deaths": 10433
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 656285,
+          "confirmed": 656939,
           "date": "2021-08-11",
-          "deaths": 15363
+          "deaths": 15367
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 184588,
+          "confirmed": 184948,
           "date": "2021-08-11",
           "deaths": 3585
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 296532,
+          "confirmed": 296947,
           "date": "2021-08-11",
           "deaths": 7597
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 266935,
+          "confirmed": 267275,
           "date": "2021-08-11",
-          "deaths": 5819
+          "deaths": 5822
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 835008,
+          "confirmed": 836507,
           "date": "2021-08-11",
-          "deaths": 17308
+          "deaths": 17311
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 158770,
+          "confirmed": 158781,
           "date": "2021-08-11",
           "deaths": 3913
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287152,
+          "confirmed": 287160,
           "date": "2021-08-11",
           "deaths": 10140
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129407,
+          "confirmed": 129444,
           "date": "2021-08-11",
-          "deaths": 4386
+          "deaths": 4387
         }
       }
     }
@@ -933,9 +933,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 213987,
+      "confirmed": 216206,
       "date": "2021-08-11",
-      "deaths": 2134
+      "deaths": 2135
     }
   },
   "Kuwait": {
@@ -1116,9 +1116,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 178508,
+      "confirmed": 179118,
       "date": "2021-08-11",
-      "deaths": 2192
+      "deaths": 2194
     }
   },
   "North Macedonia": {
@@ -1146,39 +1146,39 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 149056,
+          "confirmed": 149532,
           "date": "2021-08-11",
-          "deaths": 4570
+          "deaths": 4588
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 365824,
+          "confirmed": 367054,
           "date": "2021-08-11",
-          "deaths": 11239
+          "deaths": 11256
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 401790,
+          "confirmed": 403964,
           "date": "2021-08-11",
-          "deaths": 6235
+          "deaths": 6275
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 442818,
+      "confirmed": 443718,
       "date": "2021-08-11",
-      "deaths": 6912
+      "deaths": 6918
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 455389,
+      "confirmed": 455680,
       "date": "2021-08-11",
-      "deaths": 15315
+      "deaths": 15341
     }
   },
   "Peru": {
@@ -1423,9 +1423,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 5942241,
+      "confirmed": 5968838,
       "date": "2021-08-11",
-      "deaths": 52313
+      "deaths": 52437
     }
   },
   "US": {
