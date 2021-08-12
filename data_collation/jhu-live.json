@@ -520,65 +520,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 509381,
+          "confirmed": 509395,
           "date": "2021-08-12",
           "deaths": 10434
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 656991,
+          "confirmed": 657596,
           "date": "2021-08-12",
-          "deaths": 15367
+          "deaths": 15369
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 184955,
+          "confirmed": 185306,
           "date": "2021-08-12",
           "deaths": 3585
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 296947,
+          "confirmed": 297378,
           "date": "2021-08-12",
-          "deaths": 7597
+          "deaths": 7595
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 267275,
+          "confirmed": 267712,
           "date": "2021-08-12",
-          "deaths": 5822
+          "deaths": 5826
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 836507,
+          "confirmed": 838393,
           "date": "2021-08-12",
-          "deaths": 17311
+          "deaths": 17317
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 159020,
+          "confirmed": 159030,
           "date": "2021-08-12",
           "deaths": 3914
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287287,
+          "confirmed": 287293,
           "date": "2021-08-12",
-          "deaths": 10141
+          "deaths": 10142
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129444,
+          "confirmed": 129473,
           "date": "2021-08-12",
-          "deaths": 4387
+          "deaths": 4388
         }
       }
     }
@@ -926,9 +926,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 216206,
+      "confirmed": 218192,
       "date": "2021-08-12",
-      "deaths": 2135
+      "deaths": 2138
     }
   },
   "Kuwait": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2814902,
+          "confirmed": 2816311,
           "date": "2021-08-12",
-          "deaths": 47348
+          "deaths": 47353
         }
       },
       "Florida": {
@@ -1645,7 +1645,7 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 236901,
+      "confirmed": 241543,
       "date": "2021-08-12",
       "deaths": 4487
     }
