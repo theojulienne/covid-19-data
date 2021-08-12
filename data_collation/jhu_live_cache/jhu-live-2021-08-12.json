@@ -390,49 +390,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 723642,
+          "confirmed": 724626,
           "date": "2021-08-12",
           "deaths": 15543
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 310550,
+          "confirmed": 310762,
           "date": "2021-08-12",
           "deaths": 9275
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 152868,
+          "confirmed": 153023,
           "date": "2021-08-12",
           "deaths": 2895
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1428252,
+          "confirmed": 1429091,
           "date": "2021-08-12",
           "deaths": 26979
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 260085,
+          "confirmed": 260315,
           "date": "2021-08-12",
           "deaths": 6665
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 221685,
+          "confirmed": 221838,
           "date": "2021-08-12",
           "deaths": 7117
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 391685,
+          "confirmed": 393111,
           "date": "2021-08-12",
           "deaths": 12359
         }
@@ -1169,9 +1169,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 443718,
+      "confirmed": 444695,
       "date": "2021-08-12",
-      "deaths": 6918
+      "deaths": 6924
     }
   },
   "Paraguay": {
@@ -1370,9 +1370,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 335851,
+      "confirmed": 342079,
       "date": "2021-08-12",
-      "deaths": 5340
+      "deaths": 5464
     }
   },
   "Sweden": {
@@ -1441,7 +1441,7 @@
         "live": {
           "confirmed": 2687250,
           "date": "2021-08-12",
-          "deaths": 45942
+          "deaths": 45525
         }
       },
       "Florida": {
@@ -1516,9 +1516,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1450681,
+          "confirmed": 1452031,
           "date": "2021-08-12",
-          "deaths": 21199
+          "deaths": 21205
         }
       },
       "Utah": {
