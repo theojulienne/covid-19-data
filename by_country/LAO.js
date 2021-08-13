@@ -569,7 +569,8 @@ var covid19_dataset_country_lao = {
     "2021-08-10",
     "2021-08-11",
     "2021-08-12",
-    "2021-08-13"
+    "2021-08-13",
+    "2021-08-14"
   ],
   "total": {
     "confirmed": [
@@ -1139,7 +1140,8 @@ var covid19_dataset_country_lao = {
       7778,
       8392,
       8561,
-      8876
+      8876,
+      9161
     ],
     "deaths": [
       0,
@@ -1708,6 +1710,7 @@ var covid19_dataset_country_lao = {
       7,
       8,
       8,
+      8,
       8
     ],
     "recovered": [
@@ -2272,6 +2275,7 @@ var covid19_dataset_country_lao = {
       3180,
       3392,
       3804,
+      0,
       0,
       0,
       0,
