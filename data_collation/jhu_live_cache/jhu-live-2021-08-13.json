@@ -476,9 +476,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 493148,
+      "confirmed": 493767,
       "date": "2021-08-13",
-      "deaths": 31837
+      "deaths": 31870
     }
   },
   "Egypt": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2819832,
+          "confirmed": 2823420,
           "date": "2021-08-13",
-          "deaths": 47375
+          "deaths": 47378
         }
       },
       "Florida": {
