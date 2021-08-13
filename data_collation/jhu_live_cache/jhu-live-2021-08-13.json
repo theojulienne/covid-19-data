@@ -520,65 +520,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 509979,
+          "confirmed": 509994,
           "date": "2021-08-13",
           "deaths": 10434
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 657616,
+          "confirmed": 658221,
           "date": "2021-08-13",
-          "deaths": 15369
+          "deaths": 15371
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 185313,
+          "confirmed": 185780,
           "date": "2021-08-13",
-          "deaths": 3585
+          "deaths": 3586
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 297378,
+          "confirmed": 297760,
           "date": "2021-08-13",
-          "deaths": 7595
+          "deaths": 7601
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 267712,
+          "confirmed": 268108,
           "date": "2021-08-13",
           "deaths": 5826
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 838393,
+          "confirmed": 840295,
           "date": "2021-08-13",
-          "deaths": 17317
+          "deaths": 17318
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 159281,
+          "confirmed": 159292,
           "date": "2021-08-13",
           "deaths": 3914
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287382,
+          "confirmed": 287388,
           "date": "2021-08-13",
-          "deaths": 10144
+          "deaths": 10145
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129473,
+          "confirmed": 129508,
           "date": "2021-08-13",
-          "deaths": 4388
+          "deaths": 4389
         }
       }
     }
@@ -1638,9 +1638,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 315498,
+      "confirmed": 316449,
       "date": "2021-08-13",
-      "deaths": 3748
+      "deaths": 3764
     }
   },
   "Vietnam": {
