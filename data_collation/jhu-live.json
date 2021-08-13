@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 151408,
+          "confirmed": 151739,
           "date": "2021-08-13",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 144251,
+          "confirmed": 144729,
           "date": "2021-08-13",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 131648,
+          "confirmed": 131865,
           "date": "2021-08-13",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 165353,
+          "confirmed": 165515,
           "date": "2021-08-13",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 135138,
+          "confirmed": 135345,
           "date": "2021-08-13",
           "deaths": 0
         }
@@ -926,9 +926,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 218192,
+      "confirmed": 220182,
       "date": "2021-08-13",
-      "deaths": 2138
+      "deaths": 2144
     }
   },
   "Kuwait": {
@@ -984,30 +984,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 827873,
+          "confirmed": 833802,
           "date": "2021-08-13",
-          "deaths": 36354
+          "deaths": 36412
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 142999,
+          "confirmed": 143637,
           "date": "2021-08-13",
-          "deaths": 11243
+          "deaths": 11265
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 308871,
+          "confirmed": 311224,
           "date": "2021-08-13",
-          "deaths": 39067
+          "deaths": 39157
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 154058,
+          "confirmed": 155987,
           "date": "2021-08-13",
-          "deaths": 10430
+          "deaths": 10461
         }
       }
     }
@@ -1139,23 +1139,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 150026,
+          "confirmed": 150708,
           "date": "2021-08-13",
-          "deaths": 4604
+          "deaths": 4624
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 368195,
+          "confirmed": 369358,
           "date": "2021-08-13",
-          "deaths": 11292
+          "deaths": 11307
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 406109,
+          "confirmed": 407892,
           "date": "2021-08-13",
-          "deaths": 6316
+          "deaths": 6355
         }
       }
     }
@@ -1169,9 +1169,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 456064,
+      "confirmed": 456291,
       "date": "2021-08-13",
-      "deaths": 15363
+      "deaths": 15383
     }
   },
   "Peru": {
