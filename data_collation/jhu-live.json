@@ -520,49 +520,49 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 510526,
+          "confirmed": 510541,
           "date": "2021-08-14",
           "deaths": 10435
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 658221,
+          "confirmed": 658788,
           "date": "2021-08-14",
-          "deaths": 15371
+          "deaths": 15372
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 185786,
+          "confirmed": 186394,
           "date": "2021-08-14",
-          "deaths": 3586
+          "deaths": 3587
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 297760,
+          "confirmed": 298101,
           "date": "2021-08-14",
-          "deaths": 7601
+          "deaths": 7602
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 268108,
+          "confirmed": 268469,
           "date": "2021-08-14",
           "deaths": 5826
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 840295,
+          "confirmed": 842280,
           "date": "2021-08-14",
-          "deaths": 17318
+          "deaths": 17320
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 159536,
+          "confirmed": 159546,
           "date": "2021-08-14",
           "deaths": 3916
         }
@@ -576,7 +576,7 @@
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129508,
+          "confirmed": 129540,
           "date": "2021-08-14",
           "deaths": 4389
         }
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2830505,
+          "confirmed": 2833801,
           "date": "2021-08-14",
           "deaths": 47416
         }
