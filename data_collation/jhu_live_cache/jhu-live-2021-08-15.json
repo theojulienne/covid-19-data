@@ -385,49 +385,49 @@
         "live": {
           "confirmed": 726551,
           "date": "2021-08-15",
-          "deaths": 15606
+          "deaths": 15624
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 311377,
           "date": "2021-08-15",
-          "deaths": 9292
+          "deaths": 9300
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 153451,
           "date": "2021-08-15",
-          "deaths": 2904
+          "deaths": 2905
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1431941,
           "date": "2021-08-15",
-          "deaths": 27045
+          "deaths": 27067
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 260895,
           "date": "2021-08-15",
-          "deaths": 6686
+          "deaths": 6690
         }
       },
       "Santander": {
         "live": {
           "confirmed": 222229,
           "date": "2021-08-15",
-          "deaths": 7143
+          "deaths": 7150
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 394788,
           "date": "2021-08-15",
-          "deaths": 12441
+          "deaths": 12466
         }
       }
     }
@@ -1169,9 +1169,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 456484,
+      "confirmed": 456589,
       "date": "2021-08-15",
-      "deaths": 15402
+      "deaths": 15420
     }
   },
   "Peru": {
