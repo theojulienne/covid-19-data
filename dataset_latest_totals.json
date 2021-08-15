@@ -150,7 +150,7 @@
         "current_hospitalized": 258,
         "current_icu": 58,
         "deaths": 924,
-        "recovered": 4115,
+        "recovered": 4126,
         "tested": 25362910
       },
       "latest": {
@@ -171,13 +171,13 @@
           "tested": 278553
         },
         "NSW": {
-          "confirmed": 12440,
+          "confirmed": 12903,
           "current_hospitalized": 374,
           "current_icu": 62,
           "current_ventilators": 16,
-          "deaths": 95,
+          "deaths": 99,
           "recovered": 2799,
-          "tested": 10558322
+          "tested": 10687674
         },
         "NT": {
           "confirmed": 199,
