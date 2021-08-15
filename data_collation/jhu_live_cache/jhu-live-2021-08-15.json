@@ -520,65 +520,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 510541,
+          "confirmed": 511162,
           "date": "2021-08-15",
-          "deaths": 10435
+          "deaths": 10436
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 658788,
+          "confirmed": 659378,
           "date": "2021-08-15",
           "deaths": 15372
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 186401,
+          "confirmed": 186525,
           "date": "2021-08-15",
           "deaths": 3587
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 298101,
+          "confirmed": 298536,
           "date": "2021-08-15",
           "deaths": 7602
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 268469,
+          "confirmed": 268764,
           "date": "2021-08-15",
-          "deaths": 5826
+          "deaths": 5827
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 842280,
+          "confirmed": 844012,
           "date": "2021-08-15",
           "deaths": 17320
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 159634,
+          "confirmed": 159639,
           "date": "2021-08-15",
           "deaths": 3916
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287504,
+          "confirmed": 287505,
           "date": "2021-08-15",
           "deaths": 10148
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129540,
+          "confirmed": 129555,
           "date": "2021-08-15",
-          "deaths": 4389
+          "deaths": 4390
         }
       }
     }
@@ -1416,9 +1416,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6039827,
+      "confirmed": 6059776,
       "date": "2021-08-15",
-      "deaths": 52860
+      "deaths": 53005
     }
   },
   "US": {
@@ -1638,9 +1638,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 317334,
+      "confirmed": 318185,
       "date": "2021-08-15",
-      "deaths": 3781
+      "deaths": 3789
     }
   },
   "Vietnam": {
