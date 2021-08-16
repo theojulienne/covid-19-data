@@ -1109,7 +1109,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 181962,
+      "confirmed": 182503,
       "date": "2021-08-16",
       "deaths": 2219
     }
@@ -1169,9 +1169,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 456589,
+      "confirmed": 456695,
       "date": "2021-08-16",
-      "deaths": 15420
+      "deaths": 15439
     }
   },
   "Peru": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2840315,
+          "confirmed": 2843662,
           "date": "2021-08-16",
           "deaths": 47466
         }
