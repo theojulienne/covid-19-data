@@ -572,7 +572,8 @@ var covid19_dataset_country_bfa = {
     "2021-08-13",
     "2021-08-14",
     "2021-08-15",
-    "2021-08-16"
+    "2021-08-16",
+    "2021-08-17"
   ],
   "total": {
     "confirmed": [
@@ -1145,7 +1146,8 @@ var covid19_dataset_country_bfa = {
       13626,
       13632,
       13635,
-      13668
+      13668,
+      13671
     ],
     "deaths": [
       0,
@@ -1717,6 +1719,7 @@ var covid19_dataset_country_bfa = {
       169,
       170,
       170,
+      170,
       170
     ],
     "recovered": [
@@ -2281,6 +2284,7 @@ var covid19_dataset_country_bfa = {
       13385,
       13385,
       13385,
+      0,
       0,
       0,
       0,
