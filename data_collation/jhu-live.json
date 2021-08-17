@@ -520,63 +520,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 511639,
+          "confirmed": 511654,
           "date": "2021-08-17",
           "deaths": 10437
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 659733,
+          "confirmed": 660104,
           "date": "2021-08-17",
-          "deaths": 15373
+          "deaths": 15378
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 186540,
+          "confirmed": 187128,
           "date": "2021-08-17",
           "deaths": 3587
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 298628,
+          "confirmed": 298902,
           "date": "2021-08-17",
-          "deaths": 7603
+          "deaths": 7607
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 268853,
+          "confirmed": 269092,
           "date": "2021-08-17",
           "deaths": 5827
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 844868,
+          "confirmed": 846063,
           "date": "2021-08-17",
-          "deaths": 17321
+          "deaths": 17333
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 160005,
+          "confirmed": 160016,
           "date": "2021-08-17",
           "deaths": 3916
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 287683,
+          "confirmed": 287685,
           "date": "2021-08-17",
           "deaths": 10150
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129559,
+          "confirmed": 129596,
           "date": "2021-08-17",
           "deaths": 4390
         }
@@ -912,7 +912,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 760241,
+      "confirmed": 767163,
       "date": "2021-08-17",
       "deaths": 11725
     }
@@ -926,9 +926,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 225481,
+      "confirmed": 226854,
       "date": "2021-08-17",
-      "deaths": 2167
+      "deaths": 2173
     }
   },
   "Kuwait": {
@@ -1139,23 +1139,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 152625,
+          "confirmed": 153134,
           "date": "2021-08-17",
-          "deaths": 4668
+          "deaths": 4679
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 372750,
+          "confirmed": 373718,
           "date": "2021-08-17",
-          "deaths": 11372
+          "deaths": 11412
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 412165,
+          "confirmed": 413379,
           "date": "2021-08-17",
-          "deaths": 6439
+          "deaths": 6475
         }
       }
     }
