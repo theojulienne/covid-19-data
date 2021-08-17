@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 151984,
+          "confirmed": 152612,
           "date": "2021-08-17",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 145193,
+          "confirmed": 146442,
           "date": "2021-08-17",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 132119,
+          "confirmed": 132682,
           "date": "2021-08-17",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 165692,
+          "confirmed": 166080,
           "date": "2021-08-17",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 135546,
+          "confirmed": 135989,
           "date": "2021-08-17",
           "deaths": 0
         }
@@ -984,30 +984,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 845594,
+          "confirmed": 846775,
           "date": "2021-08-17",
-          "deaths": 36602
+          "deaths": 36656
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 145082,
+          "confirmed": 145172,
           "date": "2021-08-17",
-          "deaths": 11284
+          "deaths": 11285
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 316118,
+          "confirmed": 316549,
           "date": "2021-08-17",
-          "deaths": 39390
+          "deaths": 39436
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 159935,
+          "confirmed": 160283,
           "date": "2021-08-17",
-          "deaths": 10585
+          "deaths": 10596
         }
       }
     }
@@ -1162,16 +1162,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 447824,
+      "confirmed": 448268,
       "date": "2021-08-17",
-      "deaths": 6951
+      "deaths": 6962
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 456695,
+      "confirmed": 456842,
       "date": "2021-08-17",
-      "deaths": 15439
+      "deaths": 15455
     }
   },
   "Peru": {
@@ -1509,9 +1509,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1476032,
+          "confirmed": 1476925,
           "date": "2021-08-17",
-          "deaths": 21337
+          "deaths": 21340
         }
       },
       "Utah": {
