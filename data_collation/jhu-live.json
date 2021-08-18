@@ -385,49 +385,49 @@
         "live": {
           "confirmed": 728763,
           "date": "2021-08-18",
-          "deaths": 15649
+          "deaths": 15660
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 311745,
           "date": "2021-08-18",
-          "deaths": 9305
+          "deaths": 9309
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 153695,
           "date": "2021-08-18",
-          "deaths": 2909
+          "deaths": 2911
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1434287,
           "date": "2021-08-18",
-          "deaths": 27110
+          "deaths": 27135
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 261202,
           "date": "2021-08-18",
-          "deaths": 6698
+          "deaths": 6701
         }
       },
       "Santander": {
         "live": {
           "confirmed": 222561,
           "date": "2021-08-18",
-          "deaths": 7158
+          "deaths": 7165
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 396514,
           "date": "2021-08-18",
-          "deaths": 12504
+          "deaths": 12522
         }
       }
     }
@@ -483,9 +483,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 285465,
+      "confirmed": 285577,
       "date": "2021-08-18",
-      "deaths": 16625
+      "deaths": 16630
     }
   },
   "Estonia": {
