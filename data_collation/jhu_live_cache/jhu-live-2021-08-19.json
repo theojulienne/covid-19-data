@@ -1409,9 +1409,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 626750,
+      "confirmed": 632328,
       "date": "2021-08-19",
-      "deaths": 22025
+      "deaths": 22304
     }
   },
   "Turkey": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2865776,
+          "confirmed": 2866870,
           "date": "2021-08-19",
-          "deaths": 47536
+          "deaths": 47546
         }
       },
       "Florida": {
