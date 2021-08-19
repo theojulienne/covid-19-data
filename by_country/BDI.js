@@ -575,7 +575,8 @@ var covid19_dataset_country_bdi = {
     "2021-08-16",
     "2021-08-17",
     "2021-08-18",
-    "2021-08-19"
+    "2021-08-19",
+    "2021-08-20"
   ],
   "total": {
     "confirmed": [
@@ -1151,7 +1152,8 @@ var covid19_dataset_country_bdi = {
       9620,
       9620,
       9620,
-      10103
+      10103,
+      10198
     ],
     "deaths": [
       0,
@@ -1712,6 +1714,7 @@ var covid19_dataset_country_bdi = {
       9,
       9,
       9,
+      38,
       38,
       38,
       38,
@@ -2290,6 +2293,7 @@ var covid19_dataset_country_bdi = {
       773,
       773,
       773,
+      0,
       0,
       0,
       0,

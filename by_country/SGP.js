@@ -575,7 +575,8 @@ var covid19_dataset_country_sgp = {
     "2021-08-16",
     "2021-08-17",
     "2021-08-18",
-    "2021-08-19"
+    "2021-08-19",
+    "2021-08-20"
   ],
   "total": {
     "confirmed": [
@@ -1151,7 +1152,8 @@ var covid19_dataset_country_sgp = {
       66061,
       66119,
       66172,
-      66225
+      66225,
+      66281
     ],
     "deaths": [
       0,
@@ -1726,7 +1728,8 @@ var covid19_dataset_country_sgp = {
       44,
       44,
       44,
-      44
+      44,
+      45
     ],
     "recovered": [
       0,
@@ -2290,6 +2293,7 @@ var covid19_dataset_country_sgp = {
       63033,
       63252,
       63357,
+      0,
       0,
       0,
       0,
