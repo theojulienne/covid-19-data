@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 153204,
+          "confirmed": 153538,
           "date": "2021-08-20",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 147419,
+          "confirmed": 147905,
           "date": "2021-08-20",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 133202,
+          "confirmed": 133430,
           "date": "2021-08-20",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 166429,
+          "confirmed": 166607,
           "date": "2021-08-20",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 136495,
+          "confirmed": 136708,
           "date": "2021-08-20",
           "deaths": 0
         }
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 729165,
+          "confirmed": 729740,
           "date": "2021-08-20",
           "deaths": 15670
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 311883,
+          "confirmed": 312029,
           "date": "2021-08-20",
           "deaths": 9311
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 153752,
+          "confirmed": 153821,
           "date": "2021-08-20",
           "deaths": 2912
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1434633,
+          "confirmed": 1435462,
           "date": "2021-08-20",
           "deaths": 27153
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 261301,
+          "confirmed": 261442,
           "date": "2021-08-20",
           "deaths": 6708
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 222665,
+          "confirmed": 222742,
           "date": "2021-08-20",
           "deaths": 7172
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 397580,
+          "confirmed": 397938,
           "date": "2021-08-20",
           "deaths": 12536
         }
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1498085,
+          "confirmed": 1499125,
           "date": "2021-08-20",
           "deaths": 21499
         }

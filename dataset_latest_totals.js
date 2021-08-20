@@ -138,28 +138,28 @@ var covid19_dataset_latest_totals = {
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 37486,
-        "current_hospitalized": 19,
-        "current_icu": 3,
-        "deaths": 946,
+        "confirmed": 37840,
+        "current_hospitalized": 439,
+        "current_icu": 66,
+        "deaths": 948,
         "recovered": 0,
-        "tested": 27557802
+        "tested": 27741406
       },
       "back_2week": {
-        "confirmed": 35119,
-        "current_hospitalized": 335,
+        "confirmed": 35423,
+        "current_hospitalized": 355,
         "current_icu": 54,
-        "deaths": 927,
-        "recovered": 4142,
-        "tested": 26294121
+        "deaths": 933,
+        "recovered": 0,
+        "tested": 26494163
       },
       "latest": {
-        "confirmed": 40659,
-        "current_hospitalized": 504,
-        "current_icu": 81,
-        "deaths": 971,
+        "confirmed": 41522,
+        "current_hospitalized": 514,
+        "current_icu": 86,
+        "deaths": 970,
         "recovered": 0,
-        "tested": 28643251
+        "tested": 28776897
       },
       "states": {
         "ACT": {
@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 313089
         },
         "NSW": {
-          "confirmed": 14854,
-          "current_hospitalized": 460,
-          "current_icu": 77,
+          "confirmed": 15717,
+          "current_hospitalized": 474,
+          "current_icu": 82,
           "current_ventilators": 16,
-          "deaths": 116,
+          "deaths": 115,
           "recovered": 2799,
-          "tested": 11225475
+          "tested": 11344785
         },
         "NT": {
           "confirmed": 200,
@@ -189,11 +189,11 @@ var covid19_dataset_latest_totals = {
         },
         "QLD": {
           "confirmed": 1961,
-          "current_hospitalized": 25,
+          "current_hospitalized": 21,
           "current_icu": 1,
           "deaths": 6,
           "recovered": 0,
-          "tested": 3864468
+          "tested": 3878804
         },
         "SA": {
           "confirmed": 868,
