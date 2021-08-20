@@ -124,9 +124,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 142380,
+      "confirmed": 146461,
       "date": "2021-08-20",
-      "deaths": 2043
+      "deaths": 2081
     }
   },
   "Brazil": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 437327,
+      "confirmed": 438698,
       "date": "2021-08-20",
-      "deaths": 18411
+      "deaths": 18438
     }
   },
   "Burma": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 436276,
+      "confirmed": 438587,
       "date": "2021-08-20",
-      "deaths": 5284
+      "deaths": 5296
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 285700,
+      "confirmed": 285831,
       "date": "2021-08-20",
-      "deaths": 16638
+      "deaths": 16647
     }
   },
   "Estonia": {
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 183444,
+      "confirmed": 185267,
       "date": "2021-08-20",
-      "deaths": 2229
+      "deaths": 2244
     }
   },
   "North Macedonia": {
@@ -1162,16 +1162,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 449762,
+      "confirmed": 450624,
       "date": "2021-08-20",
-      "deaths": 6981
+      "deaths": 6990
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 457222,
+      "confirmed": 457349,
       "date": "2021-08-20",
-      "deaths": 15492
+      "deaths": 15508
     }
   },
   "Peru": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2876199,
+          "confirmed": 2880580,
           "date": "2021-08-20",
-          "deaths": 47592
+          "deaths": 47615
         }
       },
       "Florida": {
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1496756,
+          "confirmed": 1498085,
           "date": "2021-08-20",
           "deaths": 21499
         }
@@ -1624,9 +1624,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 383645,
+      "confirmed": 383758,
       "date": "2021-08-20",
-      "deaths": 6012
+      "deaths": 6013
     }
   },
   "Uzbekistan": {
@@ -1652,9 +1652,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 322620,
+      "confirmed": 323582,
       "date": "2021-08-20",
-      "deaths": 3627
+      "deaths": 3628
     }
   },
   "Zambia": {
