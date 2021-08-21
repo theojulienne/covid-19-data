@@ -371,49 +371,49 @@
         "live": {
           "confirmed": 730261,
           "date": "2021-08-21",
-          "deaths": 15690
+          "deaths": 15709
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 312392,
           "date": "2021-08-21",
-          "deaths": 9317
+          "deaths": 9321
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 153959,
           "date": "2021-08-21",
-          "deaths": 2915
+          "deaths": 2916
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1435900,
           "date": "2021-08-21",
-          "deaths": 27164
+          "deaths": 27182
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 261549,
           "date": "2021-08-21",
-          "deaths": 6711
+          "deaths": 6717
         }
       },
       "Santander": {
         "live": {
           "confirmed": 222811,
           "date": "2021-08-21",
-          "deaths": 7180
+          "deaths": 7185
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 398516,
           "date": "2021-08-21",
-          "deaths": 12553
+          "deaths": 12578
         }
       }
     }
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 185267,
+      "confirmed": 185571,
       "date": "2021-08-21",
-      "deaths": 2244
+      "deaths": 2247
     }
   },
   "North Macedonia": {
@@ -1123,7 +1123,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 147476,
+      "confirmed": 147778,
       "date": "2021-08-21",
       "deaths": 811
     }
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2886352,
+          "confirmed": 2899898,
           "date": "2021-08-21",
-          "deaths": 47670
+          "deaths": 47682
         }
       },
       "Florida": {
