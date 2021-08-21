@@ -506,63 +506,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 515470,
+          "confirmed": 515489,
           "date": "2021-08-21",
           "deaths": 10445
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 663245,
+          "confirmed": 664031,
           "date": "2021-08-21",
-          "deaths": 15385
+          "deaths": 15386
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 188673,
+          "confirmed": 189000,
           "date": "2021-08-21",
           "deaths": 3588
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 300970,
+          "confirmed": 301478,
           "date": "2021-08-21",
-          "deaths": 7614
+          "deaths": 7615
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 271033,
+          "confirmed": 271555,
           "date": "2021-08-21",
           "deaths": 5834
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 855801,
+          "confirmed": 859360,
           "date": "2021-08-21",
-          "deaths": 17354
+          "deaths": 17359
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 161513,
+          "confirmed": 161522,
           "date": "2021-08-21",
-          "deaths": 3920
+          "deaths": 3919
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 288214,
+          "confirmed": 288222,
           "date": "2021-08-21",
           "deaths": 10157
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129772,
+          "confirmed": 129818,
           "date": "2021-08-21",
           "deaths": 4392
         }
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 323625,
+      "confirmed": 326830,
       "date": "2021-08-21",
-      "deaths": 8527
+      "deaths": 8594
     }
   },
   "Hungary": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 232859,
+      "confirmed": 234739,
       "date": "2021-08-21",
-      "deaths": 2197
+      "deaths": 2202
     }
   },
   "Kosovo": {
@@ -977,37 +977,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 860233,
+          "confirmed": 864599,
           "date": "2021-08-21",
-          "deaths": 36909
+          "deaths": 36976
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 147625,
+          "confirmed": 148444,
           "date": "2021-08-21",
-          "deaths": 11337
+          "deaths": 11355
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 124007,
+          "confirmed": 125528,
           "date": "2021-08-21",
-          "deaths": 14048
+          "deaths": 14111
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 322459,
+          "confirmed": 324281,
           "date": "2021-08-21",
-          "deaths": 39798
+          "deaths": 39924
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 165135,
+          "confirmed": 166914,
           "date": "2021-08-21",
-          "deaths": 10788
+          "deaths": 10826
         }
       }
     }
@@ -1139,23 +1139,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 155153,
+          "confirmed": 155712,
           "date": "2021-08-21",
-          "deaths": 4730
+          "deaths": 4750
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 377208,
+          "confirmed": 378288,
           "date": "2021-08-21",
-          "deaths": 11479
+          "deaths": 11505
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 417439,
+          "confirmed": 418478,
           "date": "2021-08-21",
-          "deaths": 6556
+          "deaths": 6566
         }
       }
     }
@@ -1363,9 +1363,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 376971,
+      "confirmed": 381812,
       "date": "2021-08-21",
-      "deaths": 6790
+      "deaths": 6985
     }
   },
   "Sweden": {
