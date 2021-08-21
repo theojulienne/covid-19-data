@@ -577,7 +577,8 @@ var covid19_dataset_country_tza = {
     "2021-08-18",
     "2021-08-19",
     "2021-08-20",
-    "2021-08-21"
+    "2021-08-21",
+    "2021-08-22"
   ],
   "total": {
     "confirmed": [
@@ -1147,6 +1148,7 @@ var covid19_dataset_country_tza = {
       1017,
       1017,
       1017,
+      1367,
       1367,
       1367,
       1367,
@@ -1732,6 +1734,7 @@ var covid19_dataset_country_tza = {
       50,
       50,
       50,
+      50,
       50
     ],
     "recovered": [
@@ -2296,6 +2299,7 @@ var covid19_dataset_country_tza = {
       183,
       183,
       183,
+      0,
       0,
       0,
       0,
