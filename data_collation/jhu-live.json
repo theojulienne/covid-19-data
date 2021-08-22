@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 485926,
+      "confirmed": 486394,
       "date": "2021-08-22",
-      "deaths": 18269
+      "deaths": 18296
     }
   },
   "Bosnia and Herzegovina": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2903254,
+          "confirmed": 2906991,
           "date": "2021-08-22",
-          "deaths": 47712
+          "deaths": 47724
         }
       },
       "Florida": {
@@ -1638,9 +1638,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 323526,
+      "confirmed": 324642,
       "date": "2021-08-22",
-      "deaths": 3871
+      "deaths": 3886
     }
   },
   "Vietnam": {
