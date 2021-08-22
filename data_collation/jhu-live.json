@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 234739,
+      "confirmed": 236366,
       "date": "2021-08-22",
-      "deaths": 2202
+      "deaths": 2215
     }
   },
   "Kosovo": {
@@ -1162,9 +1162,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 451293,
+      "confirmed": 451984,
       "date": "2021-08-22",
-      "deaths": 6998
+      "deaths": 7003
     }
   },
   "Paraguay": {
