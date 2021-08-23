@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 236366,
+      "confirmed": 237782,
       "date": "2021-08-23",
-      "deaths": 2215
+      "deaths": 2222
     }
   },
   "Kosovo": {
@@ -1139,32 +1139,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 156365,
+          "confirmed": 157148,
           "date": "2021-08-23",
-          "deaths": 4772
+          "deaths": 4797
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 379574,
+          "confirmed": 380844,
           "date": "2021-08-23",
-          "deaths": 11527
+          "deaths": 11557
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 419810,
+          "confirmed": 420955,
           "date": "2021-08-23",
-          "deaths": 6590
+          "deaths": 6612
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 451984,
+      "confirmed": 452598,
       "date": "2021-08-23",
-      "deaths": 7003
+      "deaths": 7009
     }
   },
   "Paraguay": {
