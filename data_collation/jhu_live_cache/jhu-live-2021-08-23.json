@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 486394,
+      "confirmed": 486643,
       "date": "2021-08-23",
-      "deaths": 18296
+      "deaths": 18302
     }
   },
   "Bosnia and Herzegovina": {
@@ -506,63 +506,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 516449,
+          "confirmed": 516738,
           "date": "2021-08-23",
           "deaths": 10445
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 664970,
+          "confirmed": 665578,
           "date": "2021-08-23",
-          "deaths": 15388
+          "deaths": 15389
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 189104,
+          "confirmed": 189148,
           "date": "2021-08-23",
-          "deaths": 3587
+          "deaths": 3588
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 302108,
+          "confirmed": 302254,
           "date": "2021-08-23",
           "deaths": 7615
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 272056,
+          "confirmed": 272232,
           "date": "2021-08-23",
           "deaths": 5834
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 862484,
+          "confirmed": 864009,
           "date": "2021-08-23",
           "deaths": 17359
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 161756,
+          "confirmed": 161760,
           "date": "2021-08-23",
           "deaths": 3919
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 288341,
+          "confirmed": 288342,
           "date": "2021-08-23",
           "deaths": 10158
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129842,
+          "confirmed": 129848,
           "date": "2021-08-23",
           "deaths": 4392
         }
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2910287,
+          "confirmed": 2911258,
           "date": "2021-08-23",
           "deaths": 47751
         }
