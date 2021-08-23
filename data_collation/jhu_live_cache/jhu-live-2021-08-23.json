@@ -371,49 +371,49 @@
         "live": {
           "confirmed": 731472,
           "date": "2021-08-23",
-          "deaths": 15723
+          "deaths": 15732
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 312804,
           "date": "2021-08-23",
-          "deaths": 9324
+          "deaths": 9328
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 154089,
           "date": "2021-08-23",
-          "deaths": 2917
+          "deaths": 2918
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1437018,
           "date": "2021-08-23",
-          "deaths": 27197
+          "deaths": 27205
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 261753,
           "date": "2021-08-23",
-          "deaths": 6722
+          "deaths": 6724
         }
       },
       "Santander": {
         "live": {
           "confirmed": 222970,
           "date": "2021-08-23",
-          "deaths": 7189
+          "deaths": 7194
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 399578,
           "date": "2021-08-23",
-          "deaths": 12591
+          "deaths": 12620
         }
       }
     }
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 286168,
+      "confirmed": 286352,
       "date": "2021-08-23",
-      "deaths": 16663
+      "deaths": 16671
     }
   },
   "Estonia": {
@@ -1169,9 +1169,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 457612,
+      "confirmed": 457725,
       "date": "2021-08-23",
-      "deaths": 15550
+      "deaths": 15571
     }
   },
   "Peru": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2907516,
+          "confirmed": 2910287,
           "date": "2021-08-23",
           "deaths": 47751
         }
