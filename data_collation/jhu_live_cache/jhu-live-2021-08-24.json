@@ -1365,7 +1365,7 @@
     "live": {
       "confirmed": 394355,
       "date": "2021-08-24",
-      "deaths": 7366
+      "deaths": 7560
     }
   },
   "Sweden": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2916697,
+          "confirmed": 2919016,
           "date": "2021-08-24",
           "deaths": 47770
         }
