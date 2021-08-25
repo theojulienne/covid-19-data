@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 487131,
+      "confirmed": 487721,
       "date": "2021-08-25",
-      "deaths": 18313
+      "deaths": 18330
     }
   },
   "Bosnia and Herzegovina": {
@@ -506,65 +506,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 518862,
+          "confirmed": 518880,
           "date": "2021-08-25",
-          "deaths": 10458
+          "deaths": 10457
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 666274,
+          "confirmed": 668081,
           "date": "2021-08-25",
-          "deaths": 15391
+          "deaths": 15393
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 189791,
+          "confirmed": 190280,
           "date": "2021-08-25",
-          "deaths": 3592
+          "deaths": 3595
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 302578,
+          "confirmed": 303606,
           "date": "2021-08-25",
-          "deaths": 7621
+          "deaths": 7622
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 272575,
+          "confirmed": 273392,
           "date": "2021-08-25",
-          "deaths": 5840
+          "deaths": 5845
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 866414,
+          "confirmed": 870356,
           "date": "2021-08-25",
-          "deaths": 17373
+          "deaths": 17383
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 162639,
+          "confirmed": 162651,
           "date": "2021-08-25",
           "deaths": 3921
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 288602,
+          "confirmed": 288613,
           "date": "2021-08-25",
           "deaths": 10159
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 129897,
+          "confirmed": 130000,
           "date": "2021-08-25",
-          "deaths": 4393
+          "deaths": 4394
         }
       }
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 239287,
+      "confirmed": 241439,
       "date": "2021-08-25",
-      "deaths": 2228
+      "deaths": 2237
     }
   },
   "Kosovo": {
@@ -1446,9 +1446,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 583679,
+          "confirmed": 584459,
           "date": "2021-08-25",
-          "deaths": 10682
+          "deaths": 10690
         }
       },
       "Massachusetts": {
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1533652,
+          "confirmed": 1537232,
           "date": "2021-08-25",
           "deaths": 21735
         }
@@ -1638,9 +1638,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 326522,
+      "confirmed": 327450,
       "date": "2021-08-25",
-      "deaths": 3909
+      "deaths": 3924
     }
   },
   "Vietnam": {
