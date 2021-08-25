@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 154511,
+          "confirmed": 154731,
           "date": "2021-08-25",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 149634,
+          "confirmed": 149986,
           "date": "2021-08-25",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 134208,
+          "confirmed": 134393,
           "date": "2021-08-25",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 167165,
+          "confirmed": 167298,
           "date": "2021-08-25",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 137402,
+          "confirmed": 137566,
           "date": "2021-08-25",
           "deaths": 0
         }
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 498728,
+      "confirmed": 499196,
       "date": "2021-08-25",
-      "deaths": 32092
+      "deaths": 32104
     }
   },
   "Egypt": {
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 132250,
           "date": "2021-08-25",
-          "deaths": 1073
+          "deaths": 1075
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 151302,
           "date": "2021-08-25",
-          "deaths": 2766
+          "deaths": 2771
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 318997,
           "date": "2021-08-25",
-          "deaths": 2384
+          "deaths": 2393
         }
       }
     }
@@ -1139,39 +1139,39 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 157721,
+          "confirmed": 158243,
           "date": "2021-08-25",
-          "deaths": 4819
+          "deaths": 4839
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 382332,
+          "confirmed": 383742,
           "date": "2021-08-25",
-          "deaths": 11605
+          "deaths": 11633
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 422418,
+          "confirmed": 424139,
           "date": "2021-08-25",
-          "deaths": 6627
+          "deaths": 6698
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 452986,
+      "confirmed": 453466,
       "date": "2021-08-25",
-      "deaths": 7015
+      "deaths": 7018
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 457838,
+      "confirmed": 457971,
       "date": "2021-08-25",
-      "deaths": 15593
+      "deaths": 15613
     }
   },
   "Peru": {
@@ -1516,9 +1516,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 166777,
+          "confirmed": 167231,
           "date": "2021-08-25",
-          "deaths": 982
+          "deaths": 985
         }
       },
       "Washington": {
