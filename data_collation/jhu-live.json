@@ -371,35 +371,35 @@
         "live": {
           "confirmed": 732499,
           "date": "2021-08-26",
-          "deaths": 15747
+          "deaths": 15766
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 313001,
           "date": "2021-08-26",
-          "deaths": 9335
+          "deaths": 9339
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 154337,
           "date": "2021-08-26",
-          "deaths": 2920
+          "deaths": 2924
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1438030,
           "date": "2021-08-26",
-          "deaths": 27236
+          "deaths": 27242
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 261934,
           "date": "2021-08-26",
-          "deaths": 6732
+          "deaths": 6736
         }
       },
       "Santander": {
@@ -413,16 +413,16 @@
         "live": {
           "confirmed": 400176,
           "date": "2021-08-26",
-          "deaths": 12645
+          "deaths": 12658
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 447672,
+      "confirmed": 450291,
       "date": "2021-08-26",
-      "deaths": 5378
+      "deaths": 5394
     }
   },
   "Croatia": {
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1543381,
+          "confirmed": 1544564,
           "date": "2021-08-26",
           "deaths": 21816
         }
