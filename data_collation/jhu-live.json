@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 487721,
+      "confirmed": 488403,
       "date": "2021-08-26",
-      "deaths": 18330
+      "deaths": 18350
     }
   },
   "Bosnia and Herzegovina": {
@@ -506,63 +506,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 520843,
+          "confirmed": 520860,
           "date": "2021-08-26",
           "deaths": 10459
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 668160,
+          "confirmed": 669867,
           "date": "2021-08-26",
-          "deaths": 15393
+          "deaths": 15395
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 190262,
+          "confirmed": 190944,
           "date": "2021-08-26",
-          "deaths": 3595
+          "deaths": 3598
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 303606,
+          "confirmed": 304440,
           "date": "2021-08-26",
-          "deaths": 7622
+          "deaths": 7625
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 273392,
+          "confirmed": 274318,
           "date": "2021-08-26",
-          "deaths": 5845
+          "deaths": 5846
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 870356,
+          "confirmed": 874967,
           "date": "2021-08-26",
-          "deaths": 17383
+          "deaths": 17390
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 163286,
+          "confirmed": 163298,
           "date": "2021-08-26",
           "deaths": 3922
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 288787,
+          "confirmed": 288804,
           "date": "2021-08-26",
           "deaths": 10160
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 130000,
+          "confirmed": 130098,
           "date": "2021-08-26",
           "deaths": 4394
         }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 241439,
+      "confirmed": 243317,
       "date": "2021-08-26",
-      "deaths": 2237
+      "deaths": 2257
     }
   },
   "Kosovo": {
