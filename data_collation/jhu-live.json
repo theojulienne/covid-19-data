@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 193171,
+      "confirmed": 193674,
       "date": "2021-08-27",
-      "deaths": 5096
+      "deaths": 5121
     }
   },
   "Argentina": {
@@ -369,60 +369,60 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 732499,
+          "confirmed": 733609,
           "date": "2021-08-27",
-          "deaths": 15766
+          "deaths": 15779
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 313001,
+          "confirmed": 313247,
           "date": "2021-08-27",
-          "deaths": 9339
+          "deaths": 9343
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 154337,
+          "confirmed": 154519,
           "date": "2021-08-27",
           "deaths": 2924
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1438030,
+          "confirmed": 1438970,
           "date": "2021-08-27",
-          "deaths": 27242
+          "deaths": 27257
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 261934,
+          "confirmed": 262058,
           "date": "2021-08-27",
-          "deaths": 6736
+          "deaths": 6738
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 223097,
+          "confirmed": 223248,
           "date": "2021-08-27",
-          "deaths": 7198
+          "deaths": 7202
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 400176,
+          "confirmed": 400740,
           "date": "2021-08-27",
-          "deaths": 12658
+          "deaths": 12672
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 450291,
+      "confirmed": 452997,
       "date": "2021-08-27",
-      "deaths": 5394
+      "deaths": 5417
     }
   },
   "Croatia": {
@@ -1162,9 +1162,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 454330,
+      "confirmed": 454878,
       "date": "2021-08-27",
-      "deaths": 7023
+      "deaths": 7031
     }
   },
   "Paraguay": {
@@ -1363,9 +1363,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 411290,
+      "confirmed": 412370,
       "date": "2021-08-27",
-      "deaths": 7948
+      "deaths": 8157
     }
   },
   "Sweden": {
