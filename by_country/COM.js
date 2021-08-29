@@ -585,7 +585,8 @@ var covid19_dataset_country_com = {
     "2021-08-26",
     "2021-08-27",
     "2021-08-28",
-    "2021-08-29"
+    "2021-08-29",
+    "2021-08-30"
   ],
   "total": {
     "confirmed": [
@@ -1171,6 +1172,7 @@ var covid19_dataset_country_com = {
       4051,
       4054,
       4055,
+      4055,
       4055
     ],
     "deaths": [
@@ -1715,6 +1717,7 @@ var covid19_dataset_country_com = {
       146,
       146,
       146,
+      147,
       147,
       147,
       147,
@@ -2320,6 +2323,7 @@ var covid19_dataset_country_com = {
       3869,
       3869,
       3873,
+      0,
       0,
       0,
       0,
