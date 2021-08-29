@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 489447,
+      "confirmed": 489802,
       "date": "2021-08-29",
-      "deaths": 18391
+      "deaths": 18402
     }
   },
   "Bosnia and Herzegovina": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 246951,
+      "confirmed": 248568,
       "date": "2021-08-29",
-      "deaths": 2276
+      "deaths": 2279
     }
   },
   "Kosovo": {
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 886318,
+          "confirmed": 889391,
           "date": "2021-08-29",
-          "deaths": 37392
+          "deaths": 37455
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 152939,
+          "confirmed": 153767,
           "date": "2021-08-29",
-          "deaths": 11435
+          "deaths": 11443
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 131834,
+          "confirmed": 132708,
           "date": "2021-08-29",
-          "deaths": 14505
+          "deaths": 14553
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 333488,
+          "confirmed": 335058,
           "date": "2021-08-29",
-          "deaths": 40538
+          "deaths": 40627
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 175086,
+          "confirmed": 176421,
           "date": "2021-08-29",
-          "deaths": 11160
+          "deaths": 11204
         }
       }
     }
@@ -1162,9 +1162,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 455527,
+      "confirmed": 456203,
       "date": "2021-08-29",
-      "deaths": 7039
+      "deaths": 7043
     }
   },
   "Paraguay": {
