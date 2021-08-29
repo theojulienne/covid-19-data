@@ -371,49 +371,49 @@
         "live": {
           "confirmed": 734626,
           "date": "2021-08-29",
-          "deaths": 15788
+          "deaths": 15801
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 313538,
           "date": "2021-08-29",
-          "deaths": 9348
+          "deaths": 9350
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 154575,
           "date": "2021-08-29",
-          "deaths": 2925
+          "deaths": 2926
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1439931,
           "date": "2021-08-29",
-          "deaths": 27275
+          "deaths": 27286
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 262126,
           "date": "2021-08-29",
-          "deaths": 6743
+          "deaths": 6746
         }
       },
       "Santander": {
         "live": {
           "confirmed": 223497,
           "date": "2021-08-29",
-          "deaths": 7206
+          "deaths": 7212
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 401239,
           "date": "2021-08-29",
-          "deaths": 12677
+          "deaths": 12688
         }
       }
     }
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 597978,
+      "confirmed": 599298,
       "date": "2021-08-29",
-      "deaths": 8035
+      "deaths": 8040
     }
   },
   "Libya": {
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 190333,
+      "confirmed": 190983,
       "date": "2021-08-29",
-      "deaths": 2308
+      "deaths": 2361
     }
   },
   "North Macedonia": {
@@ -1169,9 +1169,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458229,
+      "confirmed": 458291,
       "date": "2021-08-29",
-      "deaths": 15675
+      "deaths": 15698
     }
   },
   "Peru": {
@@ -1416,9 +1416,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6311607,
+      "confirmed": 6329519,
       "date": "2021-08-29",
-      "deaths": 55713
+      "deaths": 55958
     }
   },
   "US": {
