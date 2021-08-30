@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 501049,
+      "confirmed": 501140,
       "date": "2021-08-30",
-      "deaths": 32223
+      "deaths": 32232
     }
   },
   "Egypt": {
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 190983,
+      "confirmed": 191345,
       "date": "2021-08-30",
-      "deaths": 2361
+      "deaths": 2454
     }
   },
   "North Macedonia": {
@@ -1162,16 +1162,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 456203,
+      "confirmed": 456666,
       "date": "2021-08-30",
-      "deaths": 7043
+      "deaths": 7046
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458291,
+      "confirmed": 458334,
       "date": "2021-08-30",
-      "deaths": 15698
+      "deaths": 15723
     }
   },
   "Peru": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2963507,
+          "confirmed": 2964191,
           "date": "2021-08-30",
           "deaths": 48111
         }
