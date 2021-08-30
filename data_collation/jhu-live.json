@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 489802,
+      "confirmed": 490056,
       "date": "2021-08-30",
-      "deaths": 18402
+      "deaths": 18411
     }
   },
   "Bosnia and Herzegovina": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 849557,
+      "confirmed": 854779,
       "date": "2021-08-30",
       "deaths": 12655
     }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 248568,
+      "confirmed": 250051,
       "date": "2021-08-30",
-      "deaths": 2279
+      "deaths": 2284
     }
   },
   "Kosovo": {
