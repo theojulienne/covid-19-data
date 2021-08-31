@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 155714,
+          "confirmed": 156388,
           "date": "2021-08-31",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 151831,
+          "confirmed": 153121,
           "date": "2021-08-31",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 135156,
+          "confirmed": 135587,
           "date": "2021-08-31",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 167901,
+          "confirmed": 168292,
           "date": "2021-08-31",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 138527,
+          "confirmed": 139109,
           "date": "2021-08-31",
           "deaths": 0
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 854842,
+      "confirmed": 859203,
       "date": "2021-08-31",
       "deaths": 12936
     }
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 890684,
+          "confirmed": 891571,
           "date": "2021-08-31",
-          "deaths": 37483
+          "deaths": 37546
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 153947,
+          "confirmed": 154038,
           "date": "2021-08-31",
           "deaths": 11447
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 132971,
+          "confirmed": 133159,
           "date": "2021-08-31",
-          "deaths": 14577
+          "deaths": 14585
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 335436,
+          "confirmed": 335654,
           "date": "2021-08-31",
-          "deaths": 40668
+          "deaths": 40719
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 176850,
+          "confirmed": 177167,
           "date": "2021-08-31",
-          "deaths": 11227
+          "deaths": 11238
         }
       }
     }
@@ -1363,9 +1363,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 426169,
+      "confirmed": 436081,
       "date": "2021-08-31",
-      "deaths": 8775
+      "deaths": 8991
     }
   },
   "Sweden": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 2970123,
+          "confirmed": 2972612,
           "date": "2021-08-31",
           "deaths": 48141
         }
