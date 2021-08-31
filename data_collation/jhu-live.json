@@ -369,60 +369,60 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 735149,
+          "confirmed": 735446,
           "date": "2021-08-31",
-          "deaths": 15813
+          "deaths": 15827
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 313710,
+          "confirmed": 313823,
           "date": "2021-08-31",
-          "deaths": 9355
+          "deaths": 9361
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 154613,
+          "confirmed": 154738,
           "date": "2021-08-31",
           "deaths": 2926
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1440381,
+          "confirmed": 1440811,
           "date": "2021-08-31",
-          "deaths": 27292
+          "deaths": 27304
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 262170,
+          "confirmed": 262260,
           "date": "2021-08-31",
-          "deaths": 6748
+          "deaths": 6751
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 223586,
+          "confirmed": 223732,
           "date": "2021-08-31",
-          "deaths": 7214
+          "deaths": 7216
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 401383,
+          "confirmed": 401481,
           "date": "2021-08-31",
-          "deaths": 12700
+          "deaths": 12713
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 455784,
+      "confirmed": 461145,
       "date": "2021-08-31",
-      "deaths": 5431
+      "deaths": 5492
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 287899,
+      "confirmed": 288162,
       "date": "2021-08-31",
-      "deaths": 16721
+      "deaths": 16727
     }
   },
   "Estonia": {
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 191345,
+      "confirmed": 191805,
       "date": "2021-08-31",
-      "deaths": 2454
+      "deaths": 2455
     }
   },
   "North Macedonia": {
@@ -1162,16 +1162,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 456666,
+      "confirmed": 457037,
       "date": "2021-08-31",
-      "deaths": 7046
+      "deaths": 7054
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458334,
+      "confirmed": 458455,
       "date": "2021-08-31",
-      "deaths": 15723
+      "deaths": 15742
     }
   },
   "Peru": {
