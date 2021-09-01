@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 859203,
       "date": "2021-09-01",
-      "deaths": 12936
+      "deaths": 12655
     }
   },
   "Kenya": {
@@ -1109,9 +1109,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 191805,
+      "confirmed": 192431,
       "date": "2021-09-01",
-      "deaths": 2455
+      "deaths": 2469
     }
   },
   "North Macedonia": {
@@ -1432,9 +1432,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 2982698,
+          "confirmed": 2984628,
           "date": "2021-09-01",
-          "deaths": 48169
+          "deaths": 48184
         }
       },
       "Florida": {
