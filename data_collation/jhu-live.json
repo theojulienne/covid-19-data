@@ -371,58 +371,58 @@
         "live": {
           "confirmed": 736811,
           "date": "2021-09-03",
-          "deaths": 15849
+          "deaths": 15862
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 314301,
           "date": "2021-09-03",
-          "deaths": 9368
+          "deaths": 9371
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 154904,
           "date": "2021-09-03",
-          "deaths": 2933
+          "deaths": 2934
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1441891,
           "date": "2021-09-03",
-          "deaths": 27321
+          "deaths": 27341
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 262458,
           "date": "2021-09-03",
-          "deaths": 6761
+          "deaths": 6766
         }
       },
       "Santander": {
         "live": {
           "confirmed": 224141,
           "date": "2021-09-03",
-          "deaths": 7220
+          "deaths": 7224
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 402139,
           "date": "2021-09-03",
-          "deaths": 12733
+          "deaths": 12743
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 466574,
+      "confirmed": 469565,
       "date": "2021-09-03",
-      "deaths": 5523
+      "deaths": 5540
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 288732,
+      "confirmed": 289035,
       "date": "2021-09-03",
-      "deaths": 16743
+      "deaths": 16755
     }
   },
   "Estonia": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 309351,
+      "confirmed": 310994,
       "date": "2021-09-03",
-      "deaths": 4692
+      "deaths": 4711
     }
   },
   "Finland": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 255401,
+      "confirmed": 257110,
       "date": "2021-09-03",
-      "deaths": 2303
+      "deaths": 2308
     }
   },
   "Kosovo": {
@@ -1102,9 +1102,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 193013,
+      "confirmed": 193644,
       "date": "2021-09-03",
-      "deaths": 2480
+      "deaths": 2488
     }
   },
   "North Macedonia": {
@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3121205,
+          "confirmed": 3122285,
           "date": "2021-09-03",
-          "deaths": 49802
+          "deaths": 49803
         }
       },
       "Florida": {
