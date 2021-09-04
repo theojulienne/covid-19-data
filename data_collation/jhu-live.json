@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 534223,
+          "confirmed": 534241,
           "date": "2021-09-04",
           "deaths": 10496
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 681886,
+          "confirmed": 683284,
           "date": "2021-09-04",
-          "deaths": 15428
+          "deaths": 15432
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 194570,
+          "confirmed": 194977,
           "date": "2021-09-04",
-          "deaths": 3595
+          "deaths": 3596
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 312126,
+          "confirmed": 313296,
           "date": "2021-09-04",
-          "deaths": 7638
+          "deaths": 7639
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 280753,
+          "confirmed": 281221,
           "date": "2021-09-04",
-          "deaths": 5859
+          "deaths": 5858
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 901945,
+          "confirmed": 905321,
           "date": "2021-09-04",
-          "deaths": 17452
+          "deaths": 17457
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 168411,
+          "confirmed": 168423,
           "date": "2021-09-04",
           "deaths": 3931
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 290219,
+          "confirmed": 290223,
           "date": "2021-09-04",
           "deaths": 10170
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 130830,
+          "confirmed": 130965,
           "date": "2021-09-04",
-          "deaths": 4396
+          "deaths": 4397
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 874209,
+      "confirmed": 879358,
       "date": "2021-09-04",
       "deaths": 13732
     }
