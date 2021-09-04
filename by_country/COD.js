@@ -591,7 +591,8 @@ var covid19_dataset_country_cod = {
     "2021-09-01",
     "2021-09-02",
     "2021-09-03",
-    "2021-09-04"
+    "2021-09-04",
+    "2021-09-05"
   ],
   "total": {
     "confirmed": [
@@ -1183,6 +1184,7 @@ var covid19_dataset_country_cod = {
       54508,
       54863,
       54863,
+      55146,
       55146
     ],
     "deaths": [
@@ -1774,6 +1776,7 @@ var covid19_dataset_country_cod = {
       1057,
       1059,
       1059,
+      1059,
       1059
     ],
     "recovered": [
@@ -2338,6 +2341,7 @@ var covid19_dataset_country_cod = {
       29994,
       30043,
       30043,
+      0,
       0,
       0,
       0,
