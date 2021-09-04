@@ -371,58 +371,58 @@
         "live": {
           "confirmed": 737145,
           "date": "2021-09-04",
-          "deaths": 15862
+          "deaths": 15868
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 314542,
           "date": "2021-09-04",
-          "deaths": 9371
+          "deaths": 9377
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 154966,
           "date": "2021-09-04",
-          "deaths": 2934
+          "deaths": 2936
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1442269,
           "date": "2021-09-04",
-          "deaths": 27341
+          "deaths": 27346
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 262512,
           "date": "2021-09-04",
-          "deaths": 6766
+          "deaths": 6771
         }
       },
       "Santander": {
         "live": {
           "confirmed": 224220,
           "date": "2021-09-04",
-          "deaths": 7224
+          "deaths": 7234
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 402387,
           "date": "2021-09-04",
-          "deaths": 12743
+          "deaths": 12746
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 469565,
+      "confirmed": 472315,
       "date": "2021-09-04",
-      "deaths": 5540
+      "deaths": 5568
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 289035,
+      "confirmed": 289353,
       "date": "2021-09-04",
-      "deaths": 16755
+      "deaths": 16766
     }
   },
   "Estonia": {
@@ -1102,9 +1102,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 193644,
+      "confirmed": 194088,
       "date": "2021-09-04",
-      "deaths": 2488
+      "deaths": 2495
     }
   },
   "North Macedonia": {
@@ -1155,16 +1155,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 458638,
+      "confirmed": 459077,
       "date": "2021-09-04",
-      "deaths": 7069
+      "deaths": 7073
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458716,
+      "confirmed": 458799,
       "date": "2021-09-04",
-      "deaths": 15821
+      "deaths": 15864
     }
   },
   "Peru": {
@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3130039,
+          "confirmed": 3132514,
           "date": "2021-09-04",
-          "deaths": 49898
+          "deaths": 49917
         }
       },
       "Florida": {
@@ -1645,9 +1645,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 347730,
+      "confirmed": 350224,
       "date": "2021-09-04",
-      "deaths": 3699
+      "deaths": 3706
     }
   },
   "Zambia": {
