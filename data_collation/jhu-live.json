@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3134343,
+          "confirmed": 3136408,
           "date": "2021-09-05",
-          "deaths": 49937
+          "deaths": 49970
         }
       },
       "Florida": {
