@@ -592,7 +592,8 @@ var covid19_dataset_country_qat = {
     "2021-09-02",
     "2021-09-03",
     "2021-09-04",
-    "2021-09-05"
+    "2021-09-05",
+    "2021-09-06"
   ],
   "total": {
     "confirmed": [
@@ -1185,7 +1186,8 @@ var covid19_dataset_country_qat = {
       232571,
       232744,
       232910,
-      233087
+      233087,
+      233280
     ],
     "deaths": [
       0,
@@ -1777,6 +1779,7 @@ var covid19_dataset_country_qat = {
       602,
       602,
       602,
+      602,
       602
     ],
     "recovered": [
@@ -2341,6 +2344,7 @@ var covid19_dataset_country_qat = {
       223995,
       224129,
       224285,
+      0,
       0,
       0,
       0,

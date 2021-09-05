@@ -592,7 +592,8 @@ var covid19_dataset_country_bwa = {
     "2021-09-02",
     "2021-09-03",
     "2021-09-04",
-    "2021-09-05"
+    "2021-09-05",
+    "2021-09-06"
   ],
   "total": {
     "confirmed": [
@@ -1185,6 +1186,7 @@ var covid19_dataset_country_bwa = {
       156927,
       156927,
       156927,
+      159317,
       159317
     ],
     "deaths": [
@@ -1777,6 +1779,7 @@ var covid19_dataset_country_bwa = {
       2261,
       2261,
       2261,
+      2276,
       2276
     ],
     "recovered": [
@@ -2341,6 +2344,7 @@ var covid19_dataset_country_bwa = {
       96964,
       96964,
       96964,
+      0,
       0,
       0,
       0,
