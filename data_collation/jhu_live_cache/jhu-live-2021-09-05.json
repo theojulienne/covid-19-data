@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 492220,
+      "confirmed": 492509,
       "date": "2021-09-05",
-      "deaths": 18497
+      "deaths": 18507
     }
   },
   "Bosnia and Herzegovina": {
@@ -513,63 +513,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 534241,
+          "confirmed": 535754,
           "date": "2021-09-05",
-          "deaths": 10496
+          "deaths": 10497
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 683300,
+          "confirmed": 684733,
           "date": "2021-09-05",
-          "deaths": 15432
+          "deaths": 15434
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 194983,
+          "confirmed": 195113,
           "date": "2021-09-05",
           "deaths": 3596
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 313296,
+          "confirmed": 314355,
           "date": "2021-09-05",
-          "deaths": 7639
+          "deaths": 7640
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 281221,
+          "confirmed": 282783,
           "date": "2021-09-05",
-          "deaths": 5858
+          "deaths": 5860
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 905321,
+          "confirmed": 908166,
           "date": "2021-09-05",
-          "deaths": 17457
+          "deaths": 17462
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 168784,
+          "confirmed": 168792,
           "date": "2021-09-05",
           "deaths": 3932
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 290418,
+          "confirmed": 290421,
           "date": "2021-09-05",
-          "deaths": 10172
+          "deaths": 10173
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 130965,
+          "confirmed": 131045,
           "date": "2021-09-05",
           "deaths": 4397
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 883926,
+      "confirmed": 884224,
       "date": "2021-09-05",
       "deaths": 13732
     }
@@ -1155,9 +1155,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 459077,
+      "confirmed": 459519,
       "date": "2021-09-05",
-      "deaths": 7073
+      "deaths": 7081
     }
   },
   "Paraguay": {
