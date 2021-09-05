@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 879358,
+      "confirmed": 883926,
       "date": "2021-09-05",
       "deaths": 13732
     }
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 903089,
+          "confirmed": 905935,
           "date": "2021-09-05",
-          "deaths": 37810
+          "deaths": 37869
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 157420,
+          "confirmed": 158131,
           "date": "2021-09-05",
-          "deaths": 11553
+          "deaths": 11565
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 136755,
+          "confirmed": 137912,
           "date": "2021-09-05",
-          "deaths": 14932
+          "deaths": 14976
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 340608,
+          "confirmed": 341759,
           "date": "2021-09-05",
-          "deaths": 41098
+          "deaths": 41169
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 181786,
+          "confirmed": 182884,
           "date": "2021-09-05",
-          "deaths": 11432
+          "deaths": 11466
         }
       }
     }
@@ -1162,9 +1162,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458799,
+      "confirmed": 458844,
       "date": "2021-09-05",
-      "deaths": 15864
+      "deaths": 15889
     }
   },
   "Peru": {
