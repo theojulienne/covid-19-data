@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 486819,
+      "confirmed": 487898,
       "date": "2021-09-06",
-      "deaths": 12203
+      "deaths": 12265
     }
   },
   "Honduras": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 260403,
+      "confirmed": 261778,
       "date": "2021-09-06",
-      "deaths": 2321
+      "deaths": 2327
     }
   },
   "Kosovo": {
