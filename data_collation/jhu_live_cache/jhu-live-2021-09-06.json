@@ -513,63 +513,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 535754,
+          "confirmed": 536396,
           "date": "2021-09-06",
-          "deaths": 10497
+          "deaths": 10498
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 684787,
+          "confirmed": 685652,
           "date": "2021-09-06",
-          "deaths": 15434
+          "deaths": 15435
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 195120,
+          "confirmed": 195135,
           "date": "2021-09-06",
           "deaths": 3596
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 314355,
+          "confirmed": 314674,
           "date": "2021-09-06",
           "deaths": 7640
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 282783,
+          "confirmed": 283076,
           "date": "2021-09-06",
-          "deaths": 5860
+          "deaths": 5861
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 908166,
+          "confirmed": 909666,
           "date": "2021-09-06",
-          "deaths": 17462
+          "deaths": 17465
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 169233,
+          "confirmed": 169241,
           "date": "2021-09-06",
           "deaths": 3933
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 290505,
+          "confirmed": 290506,
           "date": "2021-09-06",
           "deaths": 10173
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 131045,
+          "confirmed": 131068,
           "date": "2021-09-06",
           "deaths": 4397
         }
@@ -1132,23 +1132,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 164732,
+          "confirmed": 165200,
           "date": "2021-09-06",
-          "deaths": 5087
+          "deaths": 5107
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 401373,
+          "confirmed": 403157,
           "date": "2021-09-06",
-          "deaths": 12039
+          "deaths": 12066
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 437311,
+          "confirmed": 438327,
           "date": "2021-09-06",
-          "deaths": 6955
+          "deaths": 6960
         }
       }
     }
@@ -1171,9 +1171,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 938781,
+          "confirmed": 939506,
           "date": "2021-09-06",
-          "deaths": 88069
+          "deaths": 88097
         }
       }
     }
