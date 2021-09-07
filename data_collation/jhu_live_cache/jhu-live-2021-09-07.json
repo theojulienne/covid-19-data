@@ -513,63 +513,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 537202,
+          "confirmed": 537216,
           "date": "2021-09-07",
           "deaths": 10513
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 685830,
+          "confirmed": 686688,
           "date": "2021-09-07",
-          "deaths": 15435
+          "deaths": 15443
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 195137,
+          "confirmed": 195986,
           "date": "2021-09-07",
-          "deaths": 3596
+          "deaths": 3597
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 314674,
+          "confirmed": 315190,
           "date": "2021-09-07",
-          "deaths": 7640
+          "deaths": 7644
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 283076,
+          "confirmed": 283505,
           "date": "2021-09-07",
-          "deaths": 5861
+          "deaths": 5865
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 909666,
+          "confirmed": 911550,
           "date": "2021-09-07",
-          "deaths": 17465
+          "deaths": 17481
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 169780,
+          "confirmed": 169790,
           "date": "2021-09-07",
           "deaths": 3937
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 290590,
+          "confirmed": 290600,
           "date": "2021-09-07",
           "deaths": 10175
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 131068,
+          "confirmed": 131181,
           "date": "2021-09-07",
           "deaths": 4397
         }
@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 343807,
+      "confirmed": 345728,
       "date": "2021-09-07",
-      "deaths": 9023
+      "deaths": 9062
     }
   },
   "Hungary": {
