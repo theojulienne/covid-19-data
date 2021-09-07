@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 157545,
+          "confirmed": 158131,
           "date": "2021-09-07",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 155400,
+          "confirmed": 156684,
           "date": "2021-09-07",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 136458,
+          "confirmed": 136849,
           "date": "2021-09-07",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 169055,
+          "confirmed": 169428,
           "date": "2021-09-07",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 140487,
+          "confirmed": 141139,
           "date": "2021-09-07",
           "deaths": 0
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 888188,
+      "confirmed": 891783,
       "date": "2021-09-07",
       "deaths": 14423
     }
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 907219,
+          "confirmed": 908039,
           "date": "2021-09-07",
-          "deaths": 37889
+          "deaths": 37939
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 158258,
+          "confirmed": 158418,
           "date": "2021-09-07",
-          "deaths": 11577
+          "deaths": 11582
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 139005,
+          "confirmed": 139606,
           "date": "2021-09-07",
-          "deaths": 14996
+          "deaths": 15012
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 342096,
+          "confirmed": 342383,
           "date": "2021-09-07",
-          "deaths": 41200
+          "deaths": 41230
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 183323,
+          "confirmed": 183541,
           "date": "2021-09-07",
-          "deaths": 11479
+          "deaths": 11499
         }
       }
     }
