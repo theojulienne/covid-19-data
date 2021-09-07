@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 261778,
+      "confirmed": 263374,
       "date": "2021-09-07",
-      "deaths": 2327
+      "deaths": 2330
     }
   },
   "Kosovo": {
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3014541,
+          "confirmed": 3016071,
           "date": "2021-09-07",
           "deaths": 48565
         }
