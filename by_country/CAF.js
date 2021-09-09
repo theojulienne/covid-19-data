@@ -596,7 +596,8 @@ var covid19_dataset_country_caf = {
     "2021-09-06",
     "2021-09-07",
     "2021-09-08",
-    "2021-09-09"
+    "2021-09-09",
+    "2021-09-10"
   ],
   "total": {
     "confirmed": [
@@ -1187,6 +1188,7 @@ var covid19_dataset_country_caf = {
       11270,
       11270,
       11270,
+      11296,
       11296,
       11296,
       11296,
@@ -1789,6 +1791,7 @@ var covid19_dataset_country_caf = {
       100,
       100,
       100,
+      100,
       100
     ],
     "recovered": [
@@ -2353,6 +2356,7 @@ var covid19_dataset_country_caf = {
       6859,
       6859,
       6859,
+      0,
       0,
       0,
       0,

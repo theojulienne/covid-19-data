@@ -596,7 +596,8 @@ var covid19_dataset_country_dma = {
     "2021-09-06",
     "2021-09-07",
     "2021-09-08",
-    "2021-09-09"
+    "2021-09-09",
+    "2021-09-10"
   ],
   "total": {
     "confirmed": [
@@ -1193,6 +1194,7 @@ var covid19_dataset_country_dma = {
       1832,
       1832,
       1832,
+      1998,
       1998
     ],
     "deaths": [
@@ -1789,6 +1791,7 @@ var covid19_dataset_country_dma = {
       4,
       4,
       4,
+      5,
       5
     ],
     "recovered": [
@@ -2353,6 +2356,7 @@ var covid19_dataset_country_dma = {
       209,
       209,
       209,
+      0,
       0,
       0,
       0,
