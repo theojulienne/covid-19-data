@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 688964,
+          "confirmed": 689017,
           "date": "2021-09-09",
-          "deaths": 15449
+          "deaths": 15440
         }
       },
       "Berlin": {
@@ -1132,23 +1132,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 165980,
+          "confirmed": 166564,
           "date": "2021-09-09",
-          "deaths": 5155
+          "deaths": 5175
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 406960,
+          "confirmed": 408758,
           "date": "2021-09-09",
-          "deaths": 12118
+          "deaths": 12135
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 440164,
+          "confirmed": 441410,
           "date": "2021-09-09",
-          "deaths": 7030
+          "deaths": 7073
         }
       }
     }
@@ -1164,7 +1164,7 @@
     "live": {
       "confirmed": 459062,
       "date": "2021-09-09",
-      "deaths": 15900
+      "deaths": 16020
     }
   },
   "Peru": {
