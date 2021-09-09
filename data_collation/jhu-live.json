@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 261888,
+          "confirmed": 263054,
           "date": "2021-09-09",
-          "deaths": 2407
+          "deaths": 2425
         }
       },
       "British Columbia": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 481100,
+      "confirmed": 483984,
       "date": "2021-09-09",
-      "deaths": 5673
+      "deaths": 5702
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 290773,
+      "confirmed": 291172,
       "date": "2021-09-09",
-      "deaths": 16811
+      "deaths": 16824
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 265423,
+      "confirmed": 267470,
       "date": "2021-09-09",
-      "deaths": 2334
+      "deaths": 2343
     }
   },
   "Kosovo": {
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 609189,
+      "confirmed": 610197,
       "date": "2021-09-09",
-      "deaths": 8129
+      "deaths": 8144
     }
   },
   "Libya": {
@@ -1102,9 +1102,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 196487,
+      "confirmed": 197046,
       "date": "2021-09-09",
-      "deaths": 2573
+      "deaths": 2578
     }
   },
   "North Macedonia": {
@@ -1162,9 +1162,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 458977,
+      "confirmed": 459062,
       "date": "2021-09-09",
-      "deaths": 15888
+      "deaths": 15900
     }
   },
   "Peru": {
@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3154388,
+          "confirmed": 3157120,
           "date": "2021-09-09",
-          "deaths": 50133
+          "deaths": 50165
         }
       },
       "Florida": {
@@ -1624,7 +1624,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 385926,
+      "confirmed": 386082,
       "date": "2021-09-09",
       "deaths": 6037
     }
@@ -1659,9 +1659,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 207294,
+      "confirmed": 207442,
       "date": "2021-09-09",
-      "deaths": 3620
+      "deaths": 3622
     }
   }
 }
