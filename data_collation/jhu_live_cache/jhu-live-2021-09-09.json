@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 158326,
+          "confirmed": 158584,
           "date": "2021-09-09",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 157106,
+          "confirmed": 157741,
           "date": "2021-09-09",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 136992,
+          "confirmed": 137200,
           "date": "2021-09-09",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 169617,
+          "confirmed": 169880,
           "date": "2021-09-09",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 141502,
+          "confirmed": 141929,
           "date": "2021-09-09",
           "deaths": 0
         }
@@ -397,9 +397,9 @@
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 262742,
+          "confirmed": 262683,
           "date": "2021-09-09",
-          "deaths": 6781
+          "deaths": 6777
         }
       },
       "Santander": {
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 910820,
+          "confirmed": 913475,
           "date": "2021-09-09",
-          "deaths": 38013
+          "deaths": 38059
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 159313,
+          "confirmed": 160193,
           "date": "2021-09-09",
-          "deaths": 11612
+          "deaths": 11639
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 140711,
+          "confirmed": 141677,
           "date": "2021-09-09",
-          "deaths": 15076
+          "deaths": 15151
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 343672,
+          "confirmed": 344980,
           "date": "2021-09-09",
-          "deaths": 41345
+          "deaths": 41447
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 184615,
+          "confirmed": 185531,
           "date": "2021-09-09",
-          "deaths": 11582
+          "deaths": 11644
         }
       }
     }
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1624785,
+          "confirmed": 1629662,
           "date": "2021-09-09",
           "deaths": 22884
         }
