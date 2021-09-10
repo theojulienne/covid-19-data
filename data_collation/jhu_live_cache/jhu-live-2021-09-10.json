@@ -294,7 +294,7 @@
       },
       "Tocantins": {
         "live": {
-          "confirmed": 220372,
+          "confirmed": 220316,
           "date": "2021-09-10",
           "deaths": 3706
         }
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 504257,
+      "confirmed": 504781,
       "date": "2021-09-10",
-      "deaths": 32365
+      "deaths": 32391
     }
   },
   "Egypt": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 267470,
+      "confirmed": 269362,
       "date": "2021-09-10",
-      "deaths": 2343
+      "deaths": 2348
     }
   },
   "Kosovo": {
@@ -1624,7 +1624,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 386082,
+      "confirmed": 386258,
       "date": "2021-09-10",
       "deaths": 6037
     }
