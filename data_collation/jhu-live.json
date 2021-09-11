@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 269362,
+      "confirmed": 271227,
       "date": "2021-09-11",
-      "deaths": 2348
+      "deaths": 2358
     }
   },
   "Kosovo": {
@@ -1268,7 +1268,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 274527,
+      "confirmed": 274528,
       "date": "2021-09-11",
       "deaths": 4466
     }
@@ -1409,9 +1409,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6590384,
+      "confirmed": 6613946,
       "date": "2021-09-11",
-      "deaths": 59170
+      "deaths": 59384
     }
   },
   "US": {
@@ -1432,7 +1432,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1760546,
+          "confirmed": 1799758,
           "date": "2021-09-11",
           "deaths": 17059
         }
