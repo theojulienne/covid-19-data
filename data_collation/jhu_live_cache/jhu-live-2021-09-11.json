@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 158848,
+          "confirmed": 159071,
           "date": "2021-09-11",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 158309,
+          "confirmed": 158858,
           "date": "2021-09-11",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 137376,
+          "confirmed": 137529,
           "date": "2021-09-11",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 170070,
+          "confirmed": 170253,
           "date": "2021-09-11",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 142335,
+          "confirmed": 142758,
           "date": "2021-09-11",
           "deaths": 0
         }
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 291585,
+      "confirmed": 292018,
       "date": "2021-09-11",
-      "deaths": 16836
+      "deaths": 16847
     }
   },
   "Estonia": {
@@ -1155,9 +1155,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 461230,
+      "confirmed": 461590,
       "date": "2021-09-11",
-      "deaths": 7112
+      "deaths": 7122
     }
   },
   "Paraguay": {
@@ -1418,9 +1418,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 788791,
+          "confirmed": 791058,
           "date": "2021-09-11",
-          "deaths": 13527
+          "deaths": 13531
         }
       },
       "California": {
