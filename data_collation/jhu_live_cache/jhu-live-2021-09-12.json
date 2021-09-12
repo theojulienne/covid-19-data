@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 292018,
+      "confirmed": 292476,
       "date": "2021-09-12",
-      "deaths": 16847
+      "deaths": 16860
     }
   },
   "Estonia": {
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 918214,
+          "confirmed": 920339,
           "date": "2021-09-12",
-          "deaths": 38178
+          "deaths": 38224
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 161880,
+          "confirmed": 162509,
           "date": "2021-09-12",
-          "deaths": 11681
+          "deaths": 11692
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 143727,
+          "confirmed": 144577,
           "date": "2021-09-12",
-          "deaths": 15288
+          "deaths": 15331
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 347368,
+          "confirmed": 348366,
           "date": "2021-09-12",
-          "deaths": 41583
+          "deaths": 41652
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 187501,
+          "confirmed": 188388,
           "date": "2021-09-12",
-          "deaths": 11745
+          "deaths": 11798
         }
       }
     }
@@ -1102,9 +1102,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 198239,
+      "confirmed": 198786,
       "date": "2021-09-12",
-      "deaths": 2588
+      "deaths": 2590
     }
   },
   "North Macedonia": {
