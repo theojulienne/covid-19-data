@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 159071,
+          "confirmed": 159652,
           "date": "2021-09-14",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 158858,
+          "confirmed": 160132,
           "date": "2021-09-14",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 137529,
+          "confirmed": 137960,
           "date": "2021-09-14",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 170253,
+          "confirmed": 170651,
           "date": "2021-09-14",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 142758,
+          "confirmed": 143535,
           "date": "2021-09-14",
           "deaths": 0
         }
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 740085,
+          "confirmed": 740459,
           "date": "2021-09-14",
           "deaths": 15941
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 316233,
+          "confirmed": 316357,
           "date": "2021-09-14",
           "deaths": 9404
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 155497,
+          "confirmed": 155518,
           "date": "2021-09-14",
           "deaths": 2946
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1446066,
+          "confirmed": 1446300,
           "date": "2021-09-14",
           "deaths": 27413
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 262847,
+          "confirmed": 262866,
           "date": "2021-09-14",
           "deaths": 6788
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 224635,
+          "confirmed": 224706,
           "date": "2021-09-14",
           "deaths": 7255
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 404081,
+          "confirmed": 404365,
           "date": "2021-09-14",
           "deaths": 12814
         }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 274415,
+      "confirmed": 275910,
       "date": "2021-09-14",
-      "deaths": 2360
+      "deaths": 2367
     }
   },
   "Kosovo": {
@@ -984,37 +984,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 921126,
+          "confirmed": 921777,
           "date": "2021-09-14",
-          "deaths": 38231
+          "deaths": 38249
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 162786,
+          "confirmed": 162956,
           "date": "2021-09-14",
-          "deaths": 11699
+          "deaths": 11700
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 144810,
+          "confirmed": 144988,
           "date": "2021-09-14",
-          "deaths": 15343
+          "deaths": 15359
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 348617,
+          "confirmed": 348819,
           "date": "2021-09-14",
-          "deaths": 41671
+          "deaths": 41698
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 188753,
+          "confirmed": 188953,
           "date": "2021-09-14",
-          "deaths": 11812
+          "deaths": 11825
         }
       }
     }
