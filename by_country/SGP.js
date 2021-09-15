@@ -602,7 +602,8 @@ var covid19_dataset_country_sgp = {
     "2021-09-12",
     "2021-09-13",
     "2021-09-14",
-    "2021-09-15"
+    "2021-09-15",
+    "2021-09-16"
   ],
   "total": {
     "confirmed": [
@@ -1205,7 +1206,8 @@ var covid19_dataset_country_sgp = {
       70039,
       70612,
       71167,
-      71687
+      71687,
+      72294
     ],
     "deaths": [
       0,
@@ -1807,6 +1809,7 @@ var covid19_dataset_country_sgp = {
       57,
       58,
       58,
+      58,
       58
     ],
     "recovered": [
@@ -2371,6 +2374,7 @@ var covid19_dataset_country_sgp = {
       63033,
       63252,
       63357,
+      0,
       0,
       0,
       0,

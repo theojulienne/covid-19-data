@@ -602,7 +602,8 @@ var covid19_dataset_country_dji = {
     "2021-09-12",
     "2021-09-13",
     "2021-09-14",
-    "2021-09-15"
+    "2021-09-15",
+    "2021-09-16"
   ],
   "total": {
     "confirmed": [
@@ -1205,7 +1206,8 @@ var covid19_dataset_country_dji = {
       11824,
       11839,
       11845,
-      11860
+      11860,
+      11873
     ],
     "deaths": [
       0,
@@ -1807,6 +1809,7 @@ var covid19_dataset_country_dji = {
       157,
       157,
       157,
+      157,
       157
     ],
     "recovered": [
@@ -2371,6 +2374,7 @@ var covid19_dataset_country_dji = {
       11491,
       11491,
       11491,
+      0,
       0,
       0,
       0,
