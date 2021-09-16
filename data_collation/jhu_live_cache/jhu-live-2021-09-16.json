@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 740807,
           "date": "2021-09-16",
-          "deaths": 15955
+          "deaths": 15966
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 316518,
           "date": "2021-09-16",
-          "deaths": 9406
+          "deaths": 9407
         }
       },
       "Bolivar": {
@@ -392,28 +392,28 @@
         "live": {
           "confirmed": 1446549,
           "date": "2021-09-16",
-          "deaths": 27424
+          "deaths": 27426
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 263018,
           "date": "2021-09-16",
-          "deaths": 6788
+          "deaths": 6789
         }
       },
       "Santander": {
         "live": {
           "confirmed": 224780,
           "date": "2021-09-16",
-          "deaths": 7260
+          "deaths": 7264
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 404508,
           "date": "2021-09-16",
-          "deaths": 12823
+          "deaths": 12829
         }
       }
     }
@@ -513,63 +513,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 552600,
+          "confirmed": 552616,
           "date": "2021-09-16",
           "deaths": 10572
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 701560,
+          "confirmed": 704051,
           "date": "2021-09-16",
-          "deaths": 15489
+          "deaths": 15501
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 199922,
+          "confirmed": 200600,
           "date": "2021-09-16",
-          "deaths": 3609
+          "deaths": 3611
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 323039,
+          "confirmed": 324068,
           "date": "2021-09-16",
-          "deaths": 7679
+          "deaths": 7683
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 290869,
+          "confirmed": 291912,
           "date": "2021-09-16",
-          "deaths": 5887
+          "deaths": 5896
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 933141,
+          "confirmed": 935812,
           "date": "2021-09-16",
-          "deaths": 17594
+          "deaths": 17605
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 175122,
+          "confirmed": 175134,
           "date": "2021-09-16",
           "deaths": 3954
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 293137,
+          "confirmed": 293169,
           "date": "2021-09-16",
           "deaths": 10187
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 132510,
+          "confirmed": 132722,
           "date": "2021-09-16",
           "deaths": 4400
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 921440,
+      "confirmed": 925024,
       "date": "2021-09-16",
       "deaths": 15031
     }
@@ -1125,23 +1125,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 169429,
+          "confirmed": 169972,
           "date": "2021-09-16",
-          "deaths": 5310
+          "deaths": 5329
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 416901,
+          "confirmed": 418196,
           "date": "2021-09-16",
-          "deaths": 12291
+          "deaths": 12319
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 446840,
+          "confirmed": 447678,
           "date": "2021-09-16",
-          "deaths": 7192
+          "deaths": 7210
         }
       }
     }
