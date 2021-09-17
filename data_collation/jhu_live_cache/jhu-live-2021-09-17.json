@@ -520,56 +520,56 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 704135,
+          "confirmed": 706557,
           "date": "2021-09-17",
-          "deaths": 15502
+          "deaths": 15511
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 200607,
+          "confirmed": 201092,
           "date": "2021-09-17",
-          "deaths": 3611
+          "deaths": 3615
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 324068,
+          "confirmed": 324992,
           "date": "2021-09-17",
-          "deaths": 7683
+          "deaths": 7687
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 291912,
+          "confirmed": 292713,
           "date": "2021-09-17",
-          "deaths": 5896
+          "deaths": 5902
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 935812,
+          "confirmed": 938040,
           "date": "2021-09-17",
-          "deaths": 17605
+          "deaths": 17617
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 175663,
+          "confirmed": 175677,
           "date": "2021-09-17",
           "deaths": 3957
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 293414,
+          "confirmed": 293446,
           "date": "2021-09-17",
-          "deaths": 10187
+          "deaths": 10189
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 132722,
+          "confirmed": 132957,
           "date": "2021-09-17",
           "deaths": 4400
         }
@@ -1125,23 +1125,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 169972,
+          "confirmed": 170391,
           "date": "2021-09-17",
-          "deaths": 5329
+          "deaths": 5354
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 418196,
+          "confirmed": 419423,
           "date": "2021-09-17",
-          "deaths": 12319
+          "deaths": 12345
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 447678,
+          "confirmed": 448658,
           "date": "2021-09-17",
-          "deaths": 7210
+          "deaths": 7224
         }
       }
     }
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1685649,
+          "confirmed": 1687168,
           "date": "2021-09-17",
           "deaths": 23689
         }
