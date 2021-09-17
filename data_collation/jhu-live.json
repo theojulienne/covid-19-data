@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 740807,
+          "confirmed": 741496,
           "date": "2021-09-17",
           "deaths": 15966
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 316518,
+          "confirmed": 316969,
           "date": "2021-09-17",
           "deaths": 9407
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 155542,
+          "confirmed": 155618,
           "date": "2021-09-17",
           "deaths": 2949
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1446549,
+          "confirmed": 1447089,
           "date": "2021-09-17",
           "deaths": 27426
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263018,
+          "confirmed": 263097,
           "date": "2021-09-17",
           "deaths": 6789
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 224780,
+          "confirmed": 224855,
           "date": "2021-09-17",
           "deaths": 7264
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 404508,
+          "confirmed": 404942,
           "date": "2021-09-17",
           "deaths": 12829
         }
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 294482,
+      "confirmed": 295051,
       "date": "2021-09-17",
-      "deaths": 16908
+      "deaths": 16921
     }
   },
   "Estonia": {
@@ -1652,7 +1652,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 208161,
+      "confirmed": 208267,
       "date": "2021-09-17",
       "deaths": 3636
     }
