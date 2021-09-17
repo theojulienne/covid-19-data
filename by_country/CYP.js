@@ -604,7 +604,8 @@ var covid19_dataset_country_cyp = {
     "2021-09-14",
     "2021-09-15",
     "2021-09-16",
-    "2021-09-17"
+    "2021-09-17",
+    "2021-09-18"
   ],
   "total": {
     "confirmed": [
@@ -1209,6 +1210,7 @@ var covid19_dataset_country_cyp = {
       116109,
       116209,
       116368,
+      116494,
       116494
     ],
     "deaths": [
@@ -1813,6 +1815,7 @@ var covid19_dataset_country_cyp = {
       528,
       528,
       532,
+      534,
       534
     ],
     "recovered": [
@@ -2377,6 +2380,7 @@ var covid19_dataset_country_cyp = {
       39061,
       39061,
       39061,
+      0,
       0,
       0,
       0,
