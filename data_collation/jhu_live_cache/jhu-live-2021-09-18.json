@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 502362,
+      "confirmed": 505163,
       "date": "2021-09-18",
-      "deaths": 5919
+      "deaths": 5949
     }
   },
   "Croatia": {
@@ -513,63 +513,63 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 556155,
+          "confirmed": 556171,
           "date": "2021-09-18",
           "deaths": 10549
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 706651,
+          "confirmed": 708285,
           "date": "2021-09-18",
-          "deaths": 15512
+          "deaths": 15524
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 201099,
+          "confirmed": 201449,
           "date": "2021-09-18",
-          "deaths": 3615
+          "deaths": 3617
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 324992,
+          "confirmed": 325651,
           "date": "2021-09-18",
-          "deaths": 7687
+          "deaths": 7693
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 292713,
+          "confirmed": 293432,
           "date": "2021-09-18",
-          "deaths": 5902
+          "deaths": 5909
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 938040,
+          "confirmed": 940183,
           "date": "2021-09-18",
-          "deaths": 17617
+          "deaths": 17627
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 176126,
+          "confirmed": 176141,
           "date": "2021-09-18",
-          "deaths": 3960
+          "deaths": 3959
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 293627,
+          "confirmed": 293631,
           "date": "2021-09-18",
           "deaths": 10193
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 132957,
+          "confirmed": 133108,
           "date": "2021-09-18",
           "deaths": 4400
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 928341,
+      "confirmed": 931458,
       "date": "2021-09-18",
       "deaths": 15031
     }
@@ -1125,23 +1125,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 170391,
+          "confirmed": 170738,
           "date": "2021-09-18",
-          "deaths": 5354
+          "deaths": 5374
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 419423,
+          "confirmed": 420615,
           "date": "2021-09-18",
-          "deaths": 12345
+          "deaths": 12365
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 448658,
+          "confirmed": 449349,
           "date": "2021-09-18",
-          "deaths": 7224
+          "deaths": 7243
         }
       }
     }
@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3360899,
+          "confirmed": 3362609,
           "date": "2021-09-18",
-          "deaths": 52690
+          "deaths": 52693
         }
       },
       "Florida": {
