@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 200989,
+      "confirmed": 201224,
       "date": "2021-09-18",
-      "deaths": 5651
+      "deaths": 5670
     }
   },
   "Argentina": {
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 741496,
+          "confirmed": 741868,
           "date": "2021-09-18",
           "deaths": 15969
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 316969,
+          "confirmed": 317223,
           "date": "2021-09-18",
           "deaths": 9410
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 155618,
+          "confirmed": 155665,
           "date": "2021-09-18",
           "deaths": 2950
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1447089,
+          "confirmed": 1447314,
           "date": "2021-09-18",
           "deaths": 27428
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263097,
+          "confirmed": 263154,
           "date": "2021-09-18",
           "deaths": 6789
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 224855,
+          "confirmed": 224878,
           "date": "2021-09-18",
           "deaths": 7265
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 404942,
+          "confirmed": 405123,
           "date": "2021-09-18",
           "deaths": 12832
         }
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 164721,
+          "confirmed": 164807,
           "date": "2021-09-18",
           "deaths": 1217
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 194641,
+          "confirmed": 194659,
           "date": "2021-09-18",
           "deaths": 2905
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 370563,
+          "confirmed": 370631,
           "date": "2021-09-18",
           "deaths": 2761
         }
@@ -1095,9 +1095,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 200957,
+      "confirmed": 201294,
       "date": "2021-09-18",
-      "deaths": 2647
+      "deaths": 2649
     }
   },
   "North Macedonia": {
@@ -1109,7 +1109,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 180781,
+      "confirmed": 181195,
       "date": "2021-09-18",
       "deaths": 841
     }
@@ -1418,9 +1418,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 671558,
+          "confirmed": 673511,
           "date": "2021-09-18",
-          "deaths": 11110
+          "deaths": 11126
         }
       },
       "California": {
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1690702,
+          "confirmed": 1692135,
           "date": "2021-09-18",
           "deaths": 23813
         }
