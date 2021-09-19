@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 284022,
+      "confirmed": 285931,
       "date": "2021-09-19",
-      "deaths": 2394
+      "deaths": 2404
     }
   },
   "Kosovo": {
@@ -1148,9 +1148,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 463783,
+      "confirmed": 464038,
       "date": "2021-09-19",
-      "deaths": 7169
+      "deaths": 7170
     }
   },
   "Paraguay": {
@@ -1164,9 +1164,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 942383,
+          "confirmed": 943682,
           "date": "2021-09-19",
-          "deaths": 88208
+          "deaths": 88246
         }
       }
     }
