@@ -606,7 +606,8 @@ var covid19_dataset_country_cmr = {
     "2021-09-16",
     "2021-09-17",
     "2021-09-18",
-    "2021-09-19"
+    "2021-09-19",
+    "2021-09-20"
   ],
   "total": {
     "confirmed": [
@@ -1212,6 +1213,7 @@ var covid19_dataset_country_cmr = {
       84210,
       84210,
       84210,
+      85414,
       85414,
       85414
     ],
@@ -1819,6 +1821,7 @@ var covid19_dataset_country_cmr = {
       1357,
       1357,
       1368,
+      1368,
       1368
     ],
     "recovered": [
@@ -2383,6 +2386,7 @@ var covid19_dataset_country_cmr = {
       35261,
       35261,
       35261,
+      0,
       0,
       0,
       0,
