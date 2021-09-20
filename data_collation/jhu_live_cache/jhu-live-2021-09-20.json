@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 742590,
           "date": "2021-09-20",
-          "deaths": 15982
+          "deaths": 15987
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 317961,
           "date": "2021-09-20",
-          "deaths": 9413
+          "deaths": 9417
         }
       },
       "Bolivar": {
@@ -392,7 +392,7 @@
         "live": {
           "confirmed": 1447719,
           "date": "2021-09-20",
-          "deaths": 27441
+          "deaths": 27447
         }
       },
       "Cundinamarca": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 405391,
           "date": "2021-09-20",
-          "deaths": 12842
+          "deaths": 12848
         }
       }
     }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 285931,
+      "confirmed": 287536,
       "date": "2021-09-20",
-      "deaths": 2404
+      "deaths": 2409
     }
   },
   "Kosovo": {
@@ -1148,16 +1148,16 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 464038,
+      "confirmed": 464288,
       "date": "2021-09-20",
-      "deaths": 7170
+      "deaths": 7172
     }
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459580,
+      "confirmed": 459622,
       "date": "2021-09-20",
-      "deaths": 16123
+      "deaths": 16126
     }
   },
   "Peru": {
@@ -1416,9 +1416,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6820831,
+      "confirmed": 6847229,
       "date": "2021-09-20",
-      "deaths": 61361
+      "deaths": 61574
     }
   },
   "US": {
