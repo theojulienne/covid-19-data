@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 496950,
+      "confirmed": 497100,
       "date": "2021-09-20",
-      "deaths": 18654
+      "deaths": 18659
     }
   },
   "Bosnia and Herzegovina": {
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 505860,
+      "confirmed": 507003,
       "date": "2021-09-20",
-      "deaths": 32559
+      "deaths": 32661
     }
   },
   "Egypt": {
@@ -1164,9 +1164,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 943682,
+          "confirmed": 944293,
           "date": "2021-09-20",
-          "deaths": 88246
+          "deaths": 88270
         }
       }
     }
@@ -1432,7 +1432,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3370314,
+          "confirmed": 3371633,
           "date": "2021-09-20",
           "deaths": 52827
         }
