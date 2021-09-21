@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 357654,
+      "confirmed": 359768,
       "date": "2021-09-21",
-      "deaths": 9491
+      "deaths": 9537
     }
   },
   "Hungary": {
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 936954,
+      "confirmed": 939065,
       "date": "2021-09-21",
       "deaths": 15503
     }
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1700865,
+          "confirmed": 1702061,
           "date": "2021-09-21",
           "deaths": 23990
         }
