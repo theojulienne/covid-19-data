@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 939065,
+      "confirmed": 941476,
       "date": "2021-09-22",
       "deaths": 15503
     }
@@ -1141,9 +1141,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 464440,
+      "confirmed": 464781,
       "date": "2021-09-22",
-      "deaths": 7176
+      "deaths": 7178
     }
   },
   "Paraguay": {
