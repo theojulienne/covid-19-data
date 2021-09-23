@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 728696,
+      "confirmed": 730403,
       "date": "2021-09-23",
-      "deaths": 10933
+      "deaths": 10943
     }
   },
   "Azerbaijan": {
@@ -1173,9 +1173,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2899888,
+      "confirmed": 2900862,
       "date": "2021-09-23",
-      "deaths": 75523
+      "deaths": 75537
     }
   },
   "Portugal": {
@@ -1203,44 +1203,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1608166,
+          "confirmed": 1611611,
           "date": "2021-09-23",
-          "deaths": 28497
+          "deaths": 28551
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 439673,
+          "confirmed": 440609,
           "date": "2021-09-23",
-          "deaths": 8092
+          "deaths": 8107
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 165395,
+          "confirmed": 165897,
           "date": "2021-09-23",
-          "deaths": 6377
+          "deaths": 6406
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 134766,
+          "confirmed": 135235,
           "date": "2021-09-23",
-          "deaths": 6588
+          "deaths": 6616
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 606116,
+          "confirmed": 607814,
           "date": "2021-09-23",
-          "deaths": 21407
+          "deaths": 21460
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 134773,
+          "confirmed": 135286,
           "date": "2021-09-23",
-          "deaths": 5976
+          "deaths": 6012
         }
       }
     }
@@ -1268,9 +1268,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 286267,
+      "confirmed": 287278,
       "date": "2021-09-23",
-      "deaths": 4516
+      "deaths": 4521
     }
   },
   "South Africa": {
@@ -1390,7 +1390,7 @@
     "live": {
       "confirmed": 830251,
       "date": "2021-09-23",
-      "deaths": 11030
+      "deaths": 11031
     }
   },
   "Thailand": {
