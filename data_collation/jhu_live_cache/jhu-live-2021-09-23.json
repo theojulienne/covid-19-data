@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 395097,
+      "confirmed": 396470,
       "date": "2021-09-23",
-      "deaths": 8539
+      "deaths": 8554
     }
   },
   "Cuba": {
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 151292,
+      "confirmed": 151881,
       "date": "2021-09-23",
-      "deaths": 1335
+      "deaths": 1339
     }
   },
   "Ethiopia": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5477229,
+      "confirmed": 5493591,
       "date": "2021-09-23",
-      "deaths": 118191
+      "deaths": 118508
     }
   },
   "Iraq": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 151917,
+      "confirmed": 152693,
       "date": "2021-09-23",
-      "deaths": 2665
+      "deaths": 2669
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 334049,
+      "confirmed": 335055,
       "date": "2021-09-23",
-      "deaths": 4560
+      "deaths": 4569
     }
   },
   "Lithuania": {
@@ -1042,9 +1042,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 787828,
+      "confirmed": 788769,
       "date": "2021-09-23",
-      "deaths": 11059
+      "deaths": 11072
     }
   },
   "Netherlands": {
@@ -1194,9 +1194,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1165886,
+      "confirmed": 1172981,
       "date": "2021-09-23",
-      "deaths": 35851
+      "deaths": 35964
     }
   },
   "Russia": {
@@ -1388,9 +1388,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 830251,
+      "confirmed": 831881,
       "date": "2021-09-23",
-      "deaths": 11032
+      "deaths": 11033
     }
   },
   "Thailand": {
@@ -1578,9 +1578,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 733643,
+      "confirmed": 733972,
       "date": "2021-09-23",
-      "deaths": 2080
+      "deaths": 2083
     }
   },
   "United Kingdom": {
