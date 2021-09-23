@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 589834,
+          "confirmed": 589864,
           "date": "2021-09-23",
           "deaths": 9732
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 404974,
+          "confirmed": 405728,
           "date": "2021-09-23",
           "deaths": 11347
         }
@@ -967,10 +967,42 @@
     }
   },
   "Malaysia": {
-    "live": {
-      "confirmed": 2142924,
-      "date": "2021-09-23",
-      "deaths": 24565
+    "subseries": {
+      "Johor": {
+        "live": {
+          "confirmed": 184221,
+          "date": "2021-09-23",
+          "deaths": 3012
+        }
+      },
+      "Sabah": {
+        "live": {
+          "confirmed": 189323,
+          "date": "2021-09-23",
+          "deaths": 2037
+        }
+      },
+      "Sarawak": {
+        "live": {
+          "confirmed": 188843,
+          "date": "2021-09-23",
+          "deaths": 710
+        }
+      },
+      "Selangor": {
+        "live": {
+          "confirmed": 664024,
+          "date": "2021-09-23",
+          "deaths": 8880
+        }
+      },
+      "W.P. Kuala Lumpur": {
+        "live": {
+          "confirmed": 183867,
+          "date": "2021-09-23",
+          "deaths": 2392
+        }
+      }
     }
   },
   "Mexico": {
@@ -1014,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 285321,
+      "confirmed": 286536,
       "date": "2021-09-23",
-      "deaths": 6632
+      "deaths": 6649
     }
   },
   "Mongolia": {
@@ -1395,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6932423,
+      "confirmed": 6960267,
       "date": "2021-09-23",
-      "deaths": 62307
+      "deaths": 62524
     }
   },
   "US": {
@@ -1411,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3115119,
+          "confirmed": 3252213,
           "date": "2021-09-23",
-          "deaths": 49645
+          "deaths": 51553
         }
       },
       "Florida": {
@@ -1495,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1712810,
+          "confirmed": 1712937,
           "date": "2021-09-23",
-          "deaths": 24231
+          "deaths": 24344
         }
       },
       "Utah": {
@@ -1516,9 +1548,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 139751,
+          "confirmed": 140231,
           "date": "2021-09-23",
-          "deaths": 1531
+          "deaths": 1532
         }
       }
     }
