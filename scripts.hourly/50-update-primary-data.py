@@ -190,7 +190,7 @@ for dataset in ['Confirmed', 'Deaths', 'Recovered']:
 
         if live_sample is not None:
             live_date = live_sample['date']
-            if global_dates.index(live_date) == len(timeseries) and live_sample.get(dataset.lower()) > timeseries[-1]:
+            if global_dates.index(live_date) == len(timeseries) and live_sample.get(dataset.lower()) is not None and live_sample.get(dataset.lower()) > timeseries[-1]:
                 # we have a live sample that is the "next day from where we have data"
                 timeseries.append(live_sample[dataset.lower()])
 
