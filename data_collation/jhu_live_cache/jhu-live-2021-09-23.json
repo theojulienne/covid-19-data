@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 161422,
+          "confirmed": 161698,
           "date": "2021-09-23",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 163783,
+          "confirmed": 164305,
           "date": "2021-09-23",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 139227,
+          "confirmed": 139446,
           "date": "2021-09-23",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 172034,
+          "confirmed": 172264,
           "date": "2021-09-23",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 146725,
+          "confirmed": 147219,
           "date": "2021-09-23",
           "deaths": 0
         }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 290983,
+      "confirmed": 292699,
       "date": "2021-09-23",
-      "deaths": 2419
+      "deaths": 2427
     }
   },
   "Kosovo": {
@@ -1141,9 +1141,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 464781,
+      "confirmed": 465147,
       "date": "2021-09-23",
-      "deaths": 7178
+      "deaths": 7183
     }
   },
   "Paraguay": {
@@ -1425,9 +1425,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3385750,
+          "confirmed": 3386617,
           "date": "2021-09-23",
-          "deaths": 53005
+          "deaths": 53011
         }
       },
       "Florida": {
@@ -1509,7 +1509,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1711925,
+          "confirmed": 1712810,
           "date": "2021-09-23",
           "deaths": 24231
         }
@@ -1523,9 +1523,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 147108,
+          "confirmed": 147402,
           "date": "2021-09-23",
-          "deaths": 1832
+          "deaths": 1837
         }
       },
       "Wisconsin": {
