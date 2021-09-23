@@ -50,9 +50,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 274524,
+      "confirmed": 274614,
       "date": "2021-09-23",
-      "deaths": 1388
+      "deaths": 1389
     }
   },
   "Bangladesh": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 487588,
+      "confirmed": 489423,
       "date": "2021-09-23",
-      "deaths": 20251
+      "deaths": 20350
     }
   },
   "Burma": {
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 285046,
+          "confirmed": 286706,
           "date": "2021-09-23",
-          "deaths": 2594
+          "deaths": 2611
         }
       },
       "British Columbia": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 336762,
+      "confirmed": 338306,
       "date": "2021-09-23",
-      "deaths": 5254
+      "deaths": 5291
     }
   },
   "Finland": {
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 537987,
+      "confirmed": 542024,
       "date": "2021-09-23",
-      "deaths": 13185
+      "deaths": 13241
     }
   },
   "Honduras": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 247358,
+      "confirmed": 247675,
       "date": "2021-09-23",
-      "deaths": 5018
+      "deaths": 5045
     }
   },
   "Korea, South": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411316,
+      "confirmed": 411358,
       "date": "2021-09-23",
-      "deaths": 2442
+      "deaths": 2443
     }
   },
   "Kyrgyzstan": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 188113,
+      "confirmed": 188635,
       "date": "2021-09-23",
-      "deaths": 6511
+      "deaths": 6539
     }
   },
   "Norway": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 235907,
+      "confirmed": 236016,
       "date": "2021-09-23",
       "deaths": 604
     }
@@ -1464,9 +1464,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 150604,
+          "confirmed": 150924,
           "date": "2021-09-23",
-          "deaths": 3851
+          "deaths": 3855
         }
       },
       "Michigan": {
@@ -1520,14 +1520,14 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 137729,
+          "confirmed": 138071,
           "date": "2021-09-23",
-          "deaths": 2017
+          "deaths": 2030
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1715082,
+          "confirmed": 1715653,
           "date": "2021-09-23",
           "deaths": 24363
         }
