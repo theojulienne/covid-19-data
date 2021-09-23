@@ -1223,6 +1223,7 @@ var covid19_dataset_country_com = {
       4104,
       4106,
       4109,
+      4110,
       4110
     ],
     "deaths": [
@@ -1767,6 +1768,7 @@ var covid19_dataset_country_com = {
       146,
       146,
       146,
+      147,
       147,
       147,
       147,
@@ -2398,6 +2400,7 @@ var covid19_dataset_country_com = {
       3869,
       3869,
       3873,
+      0,
       0,
       0,
       0,
