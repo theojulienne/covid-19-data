@@ -610,7 +610,8 @@ var covid19_dataset_country_bdi = {
     "2021-09-20",
     "2021-09-21",
     "2021-09-22",
-    "2021-09-23"
+    "2021-09-23",
+    "2021-09-24"
   ],
   "total": {
     "confirmed": [
@@ -1214,6 +1215,7 @@ var covid19_dataset_country_bdi = {
       14047,
       14047,
       14047,
+      14189,
       14189,
       14189,
       14189,
@@ -1831,6 +1833,7 @@ var covid19_dataset_country_bdi = {
       38,
       38,
       38,
+      38,
       38
     ],
     "recovered": [
@@ -2395,6 +2398,7 @@ var covid19_dataset_country_bdi = {
       773,
       773,
       773,
+      0,
       0,
       0,
       0,

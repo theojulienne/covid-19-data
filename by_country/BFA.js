@@ -610,7 +610,8 @@ var covid19_dataset_country_bfa = {
     "2021-09-20",
     "2021-09-21",
     "2021-09-22",
-    "2021-09-23"
+    "2021-09-23",
+    "2021-09-24"
   ],
   "total": {
     "confirmed": [
@@ -1221,7 +1222,8 @@ var covid19_dataset_country_bfa = {
       14003,
       14025,
       14041,
-      14052
+      14052,
+      14064
     ],
     "deaths": [
       0,
@@ -1831,6 +1833,7 @@ var covid19_dataset_country_bfa = {
       172,
       172,
       172,
+      172,
       172
     ],
     "recovered": [
@@ -2395,6 +2398,7 @@ var covid19_dataset_country_bfa = {
       13385,
       13385,
       13385,
+      0,
       0,
       0,
       0,

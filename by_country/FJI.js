@@ -610,7 +610,8 @@ var covid19_dataset_country_fji = {
     "2021-09-20",
     "2021-09-21",
     "2021-09-22",
-    "2021-09-23"
+    "2021-09-23",
+    "2021-09-24"
   ],
   "total": {
     "confirmed": [
@@ -1220,6 +1221,7 @@ var covid19_dataset_country_fji = {
       49587,
       49719,
       49880,
+      49959,
       49959,
       49959
     ],
@@ -1831,6 +1833,7 @@ var covid19_dataset_country_fji = {
       566,
       566,
       566,
+      566,
       566
     ],
     "recovered": [
@@ -2395,6 +2398,7 @@ var covid19_dataset_country_fji = {
       8531,
       9644,
       10848,
+      0,
       0,
       0,
       0,
