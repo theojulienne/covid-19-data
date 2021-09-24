@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 138068,
+      "confirmed": 138578,
       "date": "2021-09-24",
-      "deaths": 1062
+      "deaths": 1065
     }
   },
   "France": {
@@ -868,7 +868,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 166531,
+          "confirmed": 166743,
           "date": "2021-09-24",
           "deaths": 1239
         }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 831881,
       "date": "2021-09-24",
-      "deaths": 11035
+      "deaths": 11038
     }
   },
   "Thailand": {
