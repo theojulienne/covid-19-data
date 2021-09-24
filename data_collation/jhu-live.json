@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 497984,
+      "confirmed": 498331,
       "date": "2021-09-24",
-      "deaths": 18681
+      "deaths": 18688
     }
   },
   "Bosnia and Herzegovina": {
@@ -513,58 +513,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 564173,
+          "confirmed": 564191,
           "date": "2021-09-24",
-          "deaths": 10640
+          "deaths": 10639
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 716352,
+          "confirmed": 718468,
           "date": "2021-09-24",
-          "deaths": 15572
+          "deaths": 15586
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 203259,
+          "confirmed": 203703,
           "date": "2021-09-24",
-          "deaths": 3621
+          "deaths": 3622
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 328600,
+          "confirmed": 329392,
           "date": "2021-09-24",
-          "deaths": 7709
+          "deaths": 7716
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 296267,
+          "confirmed": 296892,
           "date": "2021-09-24",
-          "deaths": 5931
+          "deaths": 5935
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 947843,
+          "confirmed": 949592,
           "date": "2021-09-24",
-          "deaths": 17694
+          "deaths": 17716
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 178375,
+          "confirmed": 178387,
           "date": "2021-09-24",
           "deaths": 3972
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 295130,
+          "confirmed": 295161,
           "date": "2021-09-24",
-          "deaths": 10200
+          "deaths": 10201
         }
       }
     }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 944733,
+      "confirmed": 947482,
       "date": "2021-09-24",
       "deaths": 15503
     }
