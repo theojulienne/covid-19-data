@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 590588,
+          "confirmed": 590701,
           "date": "2021-09-24",
-          "deaths": 9743
+          "deaths": 9744
         }
       },
       "Quebec": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 338306,
+      "confirmed": 339658,
       "date": "2021-09-24",
-      "deaths": 5291
+      "deaths": 5331
     }
   },
   "Finland": {
@@ -1293,9 +1293,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2892081,
+      "confirmed": 2894342,
       "date": "2021-09-24",
-      "deaths": 86655
+      "deaths": 86967
     }
   },
   "Spain": {
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 510040,
+      "confirmed": 511372,
       "date": "2021-09-24",
-      "deaths": 12448
+      "deaths": 12530
     }
   },
   "Sweden": {
@@ -1527,16 +1527,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1717708,
+          "confirmed": 1717803,
           "date": "2021-09-24",
-          "deaths": 24372
+          "deaths": 24485
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 179972,
+          "confirmed": 180502,
           "date": "2021-09-24",
-          "deaths": 1059
+          "deaths": 1063
         }
       },
       "Washington": {
@@ -1548,7 +1548,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 140231,
+          "confirmed": 140435,
           "date": "2021-09-24",
           "deaths": 1532
         }
