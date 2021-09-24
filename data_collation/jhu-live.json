@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 405728,
           "date": "2021-09-24",
-          "deaths": 11347
+          "deaths": 11349
         }
       }
     }
@@ -801,65 +801,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 454388,
+          "confirmed": 454736,
           "date": "2021-09-24",
-          "deaths": 7893
+          "deaths": 7897
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 421654,
+          "confirmed": 421975,
           "date": "2021-09-24",
-          "deaths": 13451
+          "deaths": 13453
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 382530,
+          "confirmed": 382891,
           "date": "2021-09-24",
-          "deaths": 8624
+          "deaths": 8630
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 881154,
+          "confirmed": 881642,
           "date": "2021-09-24",
-          "deaths": 33999
+          "deaths": 34004
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 377745,
+          "confirmed": 377958,
           "date": "2021-09-24",
-          "deaths": 11751
+          "deaths": 11754
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 267705,
+          "confirmed": 267862,
           "date": "2021-09-24",
-          "deaths": 6772
+          "deaths": 6775
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 295212,
+          "confirmed": 295676,
           "date": "2021-09-24",
-          "deaths": 6756
+          "deaths": 6769
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 280400,
+          "confirmed": 280734,
           "date": "2021-09-24",
-          "deaths": 7126
+          "deaths": 7128
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 466823,
+          "confirmed": 467251,
           "date": "2021-09-24",
-          "deaths": 11749
+          "deaths": 11755
         }
       }
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 188635,
+      "confirmed": 189159,
       "date": "2021-09-24",
-      "deaths": 6539
+      "deaths": 6557
     }
   },
   "Norway": {
@@ -1302,72 +1302,72 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 799318,
+          "confirmed": 799867,
           "date": "2021-09-24",
-          "deaths": 11076
+          "deaths": 11089
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 160296,
+          "confirmed": 160382,
           "date": "2021-09-24",
           "deaths": 3799
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 508907,
+          "confirmed": 509137,
           "date": "2021-09-24",
-          "deaths": 7747
+          "deaths": 7752
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 236711,
+          "confirmed": 236883,
           "date": "2021-09-24",
-          "deaths": 6410
+          "deaths": 6418
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 298854,
+          "confirmed": 298925,
           "date": "2021-09-24",
-          "deaths": 7301
+          "deaths": 7303
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 912477,
+          "confirmed": 913160,
           "date": "2021-09-24",
-          "deaths": 15641
+          "deaths": 15643
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 186198,
+          "confirmed": 186258,
           "date": "2021-09-24",
-          "deaths": 2622
+          "deaths": 2623
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 888709,
+          "confirmed": 889089,
           "date": "2021-09-24",
-          "deaths": 16073
+          "deaths": 16078
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 140326,
+          "confirmed": 140419,
           "date": "2021-09-24",
-          "deaths": 1727
+          "deaths": 1728
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 259562,
+          "confirmed": 259688,
           "date": "2021-09-24",
-          "deaths": 4906
+          "deaths": 4908
         }
       }
     }
@@ -1513,9 +1513,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 172505,
+          "confirmed": 172892,
           "date": "2021-09-24",
-          "deaths": 3889
+          "deaths": 3892
         }
       },
       "Tennessee": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1715653,
+          "confirmed": 1717708,
           "date": "2021-09-24",
-          "deaths": 24363
+          "deaths": 24372
         }
       },
       "Utah": {
@@ -1605,30 +1605,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6453164,
+          "confirmed": 6481363,
           "date": "2021-09-24",
-          "deaths": 118977
+          "deaths": 119097
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 230666,
+          "confirmed": 231696,
           "date": "2021-09-24",
-          "deaths": 2525
+          "deaths": 2533
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 546426,
+          "confirmed": 550090,
           "date": "2021-09-24",
-          "deaths": 8464
+          "deaths": 8514
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 335611,
+          "confirmed": 338338,
           "date": "2021-09-24",
-          "deaths": 5837
+          "deaths": 5839
         }
       }
     }
