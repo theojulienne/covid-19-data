@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 477587,
+      "confirmed": 478715,
       "date": "2021-09-24",
-      "deaths": 6394
+      "deaths": 6415
     }
   },
   "Bahrain": {
@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 524248,
+      "confirmed": 526242,
       "date": "2021-09-24",
-      "deaths": 4054
+      "deaths": 4066
     }
   },
   "Belgium": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 590079,
+          "confirmed": 590443,
           "date": "2021-09-24",
-          "deaths": 9731
+          "deaths": 9739
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 355944,
+      "confirmed": 356326,
       "date": "2021-09-24",
-      "deaths": 2638
+      "deaths": 2640
     }
   },
   "Dominican Republic": {
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 718468,
+          "confirmed": 718563,
           "date": "2021-09-24",
-          "deaths": 15586
+          "deaths": 15584
         }
       },
       "Berlin": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5493591,
+      "confirmed": 5508885,
       "date": "2021-09-24",
-      "deaths": 118508
+      "deaths": 118792
     }
   },
   "Iraq": {
@@ -1383,30 +1383,30 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164082,
+          "confirmed": 164165,
           "date": "2021-09-24",
           "deaths": 1775
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 273150,
+          "confirmed": 273337,
           "date": "2021-09-24",
           "deaths": 4412
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 200746,
+          "confirmed": 200922,
           "date": "2021-09-24",
-          "deaths": 2404
+          "deaths": 2405
         }
       }
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 833383,
+      "confirmed": 833385,
       "date": "2021-09-24",
       "deaths": 11040
     }
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 733972,
+      "confirmed": 734275,
       "date": "2021-09-24",
-      "deaths": 2083
+      "deaths": 2086
     }
   },
   "United Kingdom": {
@@ -1670,9 +1670,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 208715,
+      "confirmed": 208778,
       "date": "2021-09-24",
-      "deaths": 3641
+      "deaths": 3642
     }
   }
 }
