@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 165864,
+      "confirmed": 166690,
       "date": "2021-09-24",
-      "deaths": 2609
+      "deaths": 2619
     }
   },
   "Algeria": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 590443,
+          "confirmed": 590511,
           "date": "2021-09-24",
-          "deaths": 9739
+          "deaths": 9743
         }
       },
       "Quebec": {
@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 356321,
+      "confirmed": 356694,
       "date": "2021-09-24",
-      "deaths": 4031
+      "deaths": 4035
     }
   },
   "Ecuador": {
@@ -513,9 +513,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 564191,
+          "confirmed": 565601,
           "date": "2021-09-24",
-          "deaths": 10639
+          "deaths": 10643
         }
       },
       "Bayern": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 380720,
+      "confirmed": 381883,
       "date": "2021-09-24",
       "deaths": 5209
     }
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 166743,
           "date": "2021-09-24",
-          "deaths": 1239
+          "deaths": 1241
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 197676,
           "date": "2021-09-24",
-          "deaths": 2940
+          "deaths": 2942
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 373916,
           "date": "2021-09-24",
-          "deaths": 2838
+          "deaths": 2853
         }
       }
     }
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 945364,
+          "confirmed": 945879,
           "date": "2021-09-24",
-          "deaths": 88296
+          "deaths": 88314
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3255333,
+          "confirmed": 3257033,
           "date": "2021-09-24",
-          "deaths": 51582
+          "deaths": 51669
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 142377,
+          "confirmed": 142771,
           "date": "2021-09-24",
-          "deaths": 1859
+          "deaths": 1862
         }
       },
       "Nevada": {
@@ -1499,9 +1499,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 147806,
+          "confirmed": 148228,
           "date": "2021-09-24",
-          "deaths": 1136
+          "deaths": 1143
         }
       },
       "Ohio": {
