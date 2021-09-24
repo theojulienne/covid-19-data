@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 396470,
+      "confirmed": 397761,
       "date": "2021-09-24",
-      "deaths": 8554
+      "deaths": 8566
     }
   },
   "Cuba": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 788769,
+      "confirmed": 789872,
       "date": "2021-09-24",
-      "deaths": 11072
+      "deaths": 11081
     }
   },
   "Netherlands": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1172981,
+      "confirmed": 1180097,
       "date": "2021-09-24",
-      "deaths": 35964
+      "deaths": 36109
     }
   },
   "Russia": {
@@ -1406,9 +1406,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 831881,
+      "confirmed": 833383,
       "date": "2021-09-24",
-      "deaths": 11038
+      "deaths": 11040
     }
   },
   "Thailand": {
