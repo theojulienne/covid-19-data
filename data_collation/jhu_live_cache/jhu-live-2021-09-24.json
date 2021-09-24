@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 161698,
+          "confirmed": 161954,
           "date": "2021-09-24",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 164305,
+          "confirmed": 164774,
           "date": "2021-09-24",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 139446,
+          "confirmed": 139610,
           "date": "2021-09-24",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 172264,
+          "confirmed": 172490,
           "date": "2021-09-24",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 147219,
+          "confirmed": 147660,
           "date": "2021-09-24",
           "deaths": 0
         }
@@ -1009,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 935753,
+          "confirmed": 937969,
           "date": "2021-09-24",
-          "deaths": 38685
+          "deaths": 38722
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 168341,
+          "confirmed": 169286,
           "date": "2021-09-24",
-          "deaths": 11912
+          "deaths": 11964
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 150251,
+          "confirmed": 151123,
           "date": "2021-09-24",
-          "deaths": 15847
+          "deaths": 15915
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 356361,
+          "confirmed": 357403,
           "date": "2021-09-24",
-          "deaths": 42159
+          "deaths": 42236
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 193571,
+          "confirmed": 194135,
           "date": "2021-09-24",
-          "deaths": 12138
+          "deaths": 12171
         }
       }
     }
