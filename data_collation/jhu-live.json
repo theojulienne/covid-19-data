@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 202283,
+      "confirmed": 202449,
       "date": "2021-09-24",
-      "deaths": 5748
+      "deaths": 5758
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 590701,
+          "confirmed": 590762,
           "date": "2021-09-24",
           "deaths": 9744
         }
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 832286,
+      "confirmed": 839981,
       "date": "2021-09-24",
-      "deaths": 7048
+      "deaths": 7104
     }
   },
   "Czechia": {
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150370,
+      "confirmed": 150439,
       "date": "2021-09-24",
-      "deaths": 1907
+      "deaths": 1908
     }
   },
   "Nepal": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6960267,
+      "confirmed": 6987464,
       "date": "2021-09-24",
-      "deaths": 62524
+      "deaths": 62745
     }
   },
   "US": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1717803,
+          "confirmed": 1721721,
           "date": "2021-09-24",
           "deaths": 24485
         }
