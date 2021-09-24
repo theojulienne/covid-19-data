@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 172210,
+          "confirmed": 172498,
           "date": "2021-09-24",
-          "deaths": 5463
+          "deaths": 5480
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 425703,
+          "confirmed": 426639,
           "date": "2021-09-24",
-          "deaths": 12490
+          "deaths": 12514
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 453051,
+          "confirmed": 453858,
           "date": "2021-09-24",
-          "deaths": 7310
+          "deaths": 7316
         }
       }
     }
