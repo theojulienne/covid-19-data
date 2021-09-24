@@ -371,28 +371,28 @@
         "live": {
           "confirmed": 744018,
           "date": "2021-09-24",
-          "deaths": 16017
+          "deaths": 16021
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 318853,
           "date": "2021-09-24",
-          "deaths": 9427
+          "deaths": 9430
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 155978,
           "date": "2021-09-24",
-          "deaths": 2956
+          "deaths": 2958
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1448564,
           "date": "2021-09-24",
-          "deaths": 27456
+          "deaths": 27458
         }
       },
       "Cundinamarca": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 292699,
+      "confirmed": 295132,
       "date": "2021-09-24",
-      "deaths": 2427
+      "deaths": 2434
     }
   },
   "Kosovo": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 465147,
+      "confirmed": 465471,
       "date": "2021-09-24",
-      "deaths": 7183
+      "deaths": 7192
     }
   },
   "Paraguay": {
