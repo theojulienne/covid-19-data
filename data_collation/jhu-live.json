@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 478715,
+      "confirmed": 479814,
       "date": "2021-09-25",
-      "deaths": 6415
+      "deaths": 6433
     }
   },
   "Bahrain": {
@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 526242,
+      "confirmed": 528229,
       "date": "2021-09-25",
-      "deaths": 4066
+      "deaths": 4081
     }
   },
   "Belgium": {
@@ -448,7 +448,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 356326,
+      "confirmed": 356684,
       "date": "2021-09-25",
       "deaths": 2640
     }
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 719196,
+          "confirmed": 720274,
           "date": "2021-09-25",
-          "deaths": 15585
+          "deaths": 15602
         }
       },
       "Berlin": {
@@ -562,7 +562,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 295447,
+          "confirmed": 295718,
           "date": "2021-09-25",
           "deaths": 10205
         }
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 789872,
+      "confirmed": 790662,
       "date": "2021-09-25",
-      "deaths": 11081
+      "deaths": 11087
     }
   },
   "Netherlands": {
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 734275,
+      "confirmed": 734596,
       "date": "2021-09-25",
-      "deaths": 2086
+      "deaths": 2089
     }
   },
   "United Kingdom": {
