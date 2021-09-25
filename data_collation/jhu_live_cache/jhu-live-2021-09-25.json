@@ -868,7 +868,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 166743,
+          "confirmed": 166782,
           "date": "2021-09-25",
           "deaths": 1241
         }
@@ -933,9 +933,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 178123,
+      "confirmed": 178202,
       "date": "2021-09-25",
-      "deaths": 2597
+      "deaths": 2599
     }
   },
   "Latvia": {
@@ -1053,9 +1053,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 289929,
+      "confirmed": 292591,
       "date": "2021-09-25",
-      "deaths": 1171
+      "deaths": 1189
     }
   },
   "Morocco": {
@@ -1642,9 +1642,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 171080,
+      "confirmed": 171588,
       "date": "2021-09-25",
-      "deaths": 1212
+      "deaths": 1218
     }
   },
   "Venezuela": {
