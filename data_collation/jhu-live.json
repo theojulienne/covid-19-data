@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 684566,
+          "confirmed": 686516,
           "date": "2021-09-25",
-          "deaths": 11324
+          "deaths": 11366
         }
       },
       "California": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1723710,
+          "confirmed": 1724509,
           "date": "2021-09-25",
           "deaths": 24569
         }
