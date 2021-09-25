@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 181798,
+          "confirmed": 182541,
           "date": "2021-09-25",
-          "deaths": 1915
+          "deaths": 1922
         }
       },
       "Ontario": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 299710,
+      "confirmed": 300278,
       "date": "2021-09-25",
-      "deaths": 17074
+      "deaths": 17110
     }
   },
   "Estonia": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 465471,
+      "confirmed": 465736,
       "date": "2021-09-25",
-      "deaths": 7192
+      "deaths": 7197
     }
   },
   "Paraguay": {
