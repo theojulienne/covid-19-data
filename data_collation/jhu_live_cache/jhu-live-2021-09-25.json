@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 397761,
+      "confirmed": 399054,
       "date": "2021-09-25",
-      "deaths": 8566
+      "deaths": 8580
     }
   },
   "Cuba": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5508885,
+      "confirmed": 5519728,
       "date": "2021-09-25",
-      "deaths": 118792
+      "deaths": 119082
     }
   },
   "Iraq": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1180097,
+      "confirmed": 1187773,
       "date": "2021-09-25",
-      "deaths": 36109
+      "deaths": 36230
     }
   },
   "Russia": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1722469,
+          "confirmed": 1723616,
           "date": "2021-09-25",
           "deaths": 24485
         }
