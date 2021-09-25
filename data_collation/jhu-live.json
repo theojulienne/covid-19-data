@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 591094,
+          "confirmed": 591111,
           "date": "2021-09-25",
           "deaths": 9748
         }
@@ -801,65 +801,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 454736,
+          "confirmed": 455078,
           "date": "2021-09-25",
-          "deaths": 7897
+          "deaths": 7899
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 421975,
+          "confirmed": 422312,
           "date": "2021-09-25",
-          "deaths": 13453
+          "deaths": 13458
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 382891,
+          "confirmed": 383197,
           "date": "2021-09-25",
-          "deaths": 8630
+          "deaths": 8632
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 881642,
+          "confirmed": 882120,
           "date": "2021-09-25",
-          "deaths": 34004
+          "deaths": 34012
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 377958,
+          "confirmed": 378173,
           "date": "2021-09-25",
-          "deaths": 11754
+          "deaths": 11755
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 267862,
+          "confirmed": 268048,
           "date": "2021-09-25",
-          "deaths": 6775
+          "deaths": 6776
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 295676,
+          "confirmed": 296100,
           "date": "2021-09-25",
-          "deaths": 6769
+          "deaths": 6782
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 280734,
+          "confirmed": 281024,
           "date": "2021-09-25",
-          "deaths": 7128
+          "deaths": 7135
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 467251,
+          "confirmed": 467627,
           "date": "2021-09-25",
-          "deaths": 11755
+          "deaths": 11756
         }
       }
     }
@@ -870,7 +870,7 @@
         "live": {
           "confirmed": 166975,
           "date": "2021-09-25",
-          "deaths": 1241
+          "deaths": 1244
         }
       },
       "Osaka": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 187941,
+          "confirmed": 189318,
           "date": "2021-09-25",
-          "deaths": 3053
+          "deaths": 3109
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 192225,
+          "confirmed": 193187,
           "date": "2021-09-25",
-          "deaths": 2088
+          "deaths": 2107
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 193434,
+          "confirmed": 196146,
           "date": "2021-09-25",
-          "deaths": 740
+          "deaths": 749
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 668253,
+          "confirmed": 670594,
           "date": "2021-09-25",
-          "deaths": 8978
+          "deaths": 9053
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 184521,
+          "confirmed": 184831,
           "date": "2021-09-25",
-          "deaths": 2415
+          "deaths": 2418
         }
       }
     }
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1065633,
+      "confirmed": 1066346,
       "date": "2021-09-25",
-      "deaths": 17947
+      "deaths": 17952
     }
   },
   "Qatar": {
@@ -1605,9 +1605,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6481363,
+          "confirmed": 6507849,
           "date": "2021-09-25",
-          "deaths": 119097
+          "deaths": 119201
         }
       },
       "Northern Ireland": {
@@ -1619,9 +1619,9 @@
       },
       "Scotland": {
         "live": {
-          "confirmed": 550090,
+          "confirmed": 553350,
           "date": "2021-09-25",
-          "deaths": 8514
+          "deaths": 8532
         }
       },
       "Wales": {
