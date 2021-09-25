@@ -476,7 +476,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 152429,
+      "confirmed": 153071,
       "date": "2021-09-25",
       "deaths": 1343
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2901674,
+      "confirmed": 2902591,
       "date": "2021-09-25",
-      "deaths": 75551
+      "deaths": 75571
     }
   },
   "Portugal": {
@@ -1235,30 +1235,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1614504,
+          "confirmed": 1617715,
           "date": "2021-09-25",
-          "deaths": 28607
+          "deaths": 28670
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 441617,
+          "confirmed": 442723,
           "date": "2021-09-25",
-          "deaths": 8120
+          "deaths": 8130
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 166408,
+          "confirmed": 166930,
           "date": "2021-09-25",
-          "deaths": 6434
+          "deaths": 6464
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 609688,
+          "confirmed": 611595,
           "date": "2021-09-25",
-          "deaths": 21519
+          "deaths": 21569
         }
       }
     }
@@ -1279,16 +1279,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 406760,
+      "confirmed": 407799,
       "date": "2021-09-25",
-      "deaths": 12594
+      "deaths": 12596
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 288219,
+      "confirmed": 289225,
       "date": "2021-09-25",
-      "deaths": 4526
+      "deaths": 4531
     }
   },
   "South Africa": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 833385,
       "date": "2021-09-25",
-      "deaths": 11042
+      "deaths": 11043
     }
   },
   "Thailand": {
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 703059,
+      "confirmed": 703732,
       "date": "2021-09-25",
-      "deaths": 24676
+      "deaths": 24705
     }
   },
   "Turkey": {
