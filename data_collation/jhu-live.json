@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 202449,
+      "confirmed": 202574,
       "date": "2021-09-25",
-      "deaths": 5758
+      "deaths": 5767
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 591182,
+          "confirmed": 591185,
           "date": "2021-09-25",
           "deaths": 9752
         }
@@ -455,7 +455,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 356694,
+      "confirmed": 356934,
       "date": "2021-09-25",
       "deaths": 4035
     }
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 287730,
+      "confirmed": 288377,
       "date": "2021-09-25",
-      "deaths": 6665
+      "deaths": 6679
     }
   },
   "Mongolia": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 927127,
+      "confirmed": 928571,
       "date": "2021-09-25",
-      "deaths": 14102
+      "deaths": 14132
     }
   },
   "Mozambique": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 189159,
+      "confirmed": 189551,
       "date": "2021-09-25",
-      "deaths": 6557
+      "deaths": 6577
     }
   },
   "Norway": {
@@ -1293,9 +1293,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2894342,
+      "confirmed": 2895976,
       "date": "2021-09-25",
-      "deaths": 86967
+      "deaths": 87001
     }
   },
   "Spain": {
@@ -1670,9 +1670,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 208778,
+      "confirmed": 208829,
       "date": "2021-09-25",
-      "deaths": 3642
+      "deaths": 3645
     }
   }
 }
