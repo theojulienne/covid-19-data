@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 256554,
+      "confirmed": 257620,
       "date": "2021-09-25",
-      "deaths": 5216
+      "deaths": 5239
     }
   },
   "Austria": {
@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 603763,
+      "confirmed": 605360,
       "date": "2021-09-25",
-      "deaths": 8749
+      "deaths": 8787
     }
   },
   "Germany": {
