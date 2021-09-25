@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 732157,
+      "confirmed": 734302,
       "date": "2021-09-25",
-      "deaths": 10953
+      "deaths": 10961
     }
   },
   "Azerbaijan": {
@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 178851,
+          "confirmed": 179023,
           "date": "2021-09-25",
-          "deaths": 3976
+          "deaths": 3977
         }
       },
       "Sachsen": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4204116,
+      "confirmed": 4206253,
       "date": "2021-09-25",
-      "deaths": 141258
+      "deaths": 141381
     }
   },
   "Iran": {
