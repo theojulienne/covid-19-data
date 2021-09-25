@@ -492,7 +492,7 @@
     "live": {
       "confirmed": 138578,
       "date": "2021-09-25",
-      "deaths": 1065
+      "deaths": 1066
     }
   },
   "France": {
@@ -868,21 +868,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 166782,
+          "confirmed": 166975,
           "date": "2021-09-25",
           "deaths": 1241
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 197676,
+          "confirmed": 198101,
           "date": "2021-09-25",
           "deaths": 2942
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 373916,
+          "confirmed": 374298,
           "date": "2021-09-25",
           "deaths": 2853
         }
