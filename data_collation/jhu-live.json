@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 591111,
+          "confirmed": 591182,
           "date": "2021-09-25",
-          "deaths": 9748
+          "deaths": 9752
         }
       },
       "Quebec": {
@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1256600,
+      "confirmed": 1262868,
       "date": "2021-09-25",
-      "deaths": 7611
+      "deaths": 7641
     }
   },
   "Italy": {
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 166975,
           "date": "2021-09-25",
-          "deaths": 1244
+          "deaths": 1246
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 198101,
           "date": "2021-09-25",
-          "deaths": 2942
+          "deaths": 2946
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 374298,
           "date": "2021-09-25",
-          "deaths": 2853
+          "deaths": 2861
         }
       }
     }
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1723616,
+          "confirmed": 1723710,
           "date": "2021-09-25",
-          "deaths": 24485
+          "deaths": 24569
         }
       },
       "Utah": {

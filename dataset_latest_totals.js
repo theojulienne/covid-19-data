@@ -1836,17 +1836,17 @@ var covid19_dataset_latest_totals = {
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 1208403,
-        "deaths": 7465,
+        "confirmed": 1211443,
+        "deaths": 7494,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1145932,
-        "deaths": 7313,
+        "confirmed": 1154286,
+        "deaths": 7321,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1254351,
+        "confirmed": 1256600,
         "deaths": 7611,
         "recovered": 0
       }
