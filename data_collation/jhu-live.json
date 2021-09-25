@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 274676,
+      "confirmed": 274745,
       "date": "2021-09-25",
       "deaths": 1389
     }
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 491327,
+      "confirmed": 492365,
       "date": "2021-09-25",
-      "deaths": 20423
+      "deaths": 20449
     }
   },
   "Burma": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 339658,
+      "confirmed": 340845,
       "date": "2021-09-25",
-      "deaths": 5331
+      "deaths": 5369
     }
   },
   "Finland": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3260088,
+          "confirmed": 3260880,
           "date": "2021-09-25",
-          "deaths": 51694
+          "deaths": 51699
         }
       },
       "Florida": {
