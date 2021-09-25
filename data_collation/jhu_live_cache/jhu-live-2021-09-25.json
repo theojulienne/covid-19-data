@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1262868,
+      "confirmed": 1262945,
       "date": "2021-09-25",
-      "deaths": 7641
+      "deaths": 7649
     }
   },
   "Italy": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411406,
+      "confirmed": 411447,
       "date": "2021-09-25",
-      "deaths": 2444
+      "deaths": 2445
     }
   },
   "Kyrgyzstan": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 6987464,
+      "confirmed": 7013609,
       "date": "2021-09-25",
-      "deaths": 62745
+      "deaths": 62938
     }
   },
   "US": {
