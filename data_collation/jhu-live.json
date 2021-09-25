@@ -497,7 +497,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 6816844,
+      "confirmed": 6822060,
       "date": "2021-09-25",
       "deaths": 114262
     }
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 511372,
+      "confirmed": 512531,
       "date": "2021-09-25",
-      "deaths": 12530
+      "deaths": 12609
     }
   },
   "Sweden": {
@@ -1506,7 +1506,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 153446,
+          "confirmed": 153888,
           "date": "2021-09-25",
           "deaths": 1574
         }
