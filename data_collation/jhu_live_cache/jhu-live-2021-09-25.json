@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5248847,
+      "confirmed": 5249840,
       "date": "2021-09-25",
-      "deaths": 114828
+      "deaths": 114849
     }
   },
   "Armenia": {
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 744431,
+          "confirmed": 744801,
           "date": "2021-09-25",
           "deaths": 16030
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 319304,
+          "confirmed": 319755,
           "date": "2021-09-25",
           "deaths": 9434
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156025,
+          "confirmed": 156074,
           "date": "2021-09-25",
           "deaths": 2959
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1448774,
+          "confirmed": 1448998,
           "date": "2021-09-25",
           "deaths": 27459
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263448,
+          "confirmed": 263493,
           "date": "2021-09-25",
           "deaths": 6794
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225140,
+          "confirmed": 225169,
           "date": "2021-09-25",
           "deaths": 7274
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 406179,
+          "confirmed": 406346,
           "date": "2021-09-25",
           "deaths": 12874
         }
@@ -940,16 +940,16 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 153403,
+      "confirmed": 154219,
       "date": "2021-09-25",
-      "deaths": 2675
+      "deaths": 2682
     }
   },
   "Lebanon": {
     "live": {
-      "confirmed": 621155,
+      "confirmed": 621735,
       "date": "2021-09-25",
-      "deaths": 8268
+      "deaths": 8277
     }
   },
   "Libya": {
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150439,
+      "confirmed": 150494,
       "date": "2021-09-25",
-      "deaths": 1908
+      "deaths": 1909
     }
   },
   "Nepal": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 186349,
+      "confirmed": 186554,
       "date": "2021-09-25",
       "deaths": 850
     }
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1568008,
+          "confirmed": 1569354,
           "date": "2021-09-25",
-          "deaths": 41321
+          "deaths": 41325
         }
       },
       "North Carolina": {
@@ -1635,9 +1635,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 388313,
+      "confirmed": 388424,
       "date": "2021-09-25",
-      "deaths": 6051
+      "deaths": 6052
     }
   },
   "Uzbekistan": {
@@ -1663,9 +1663,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 394683,
+      "confirmed": 395677,
       "date": "2021-09-25",
-      "deaths": 3997
+      "deaths": 4018
     }
   },
   "Zambia": {
