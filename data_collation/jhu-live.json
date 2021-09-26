@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 498595,
+      "confirmed": 498790,
       "date": "2021-09-26",
-      "deaths": 18696
+      "deaths": 18698
     }
   },
   "Bosnia and Herzegovina": {
@@ -513,56 +513,56 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 565619,
+          "confirmed": 566731,
           "date": "2021-09-26",
-          "deaths": 10643
+          "deaths": 10645
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 720274,
+          "confirmed": 721692,
           "date": "2021-09-26",
           "deaths": 15602
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 204132,
+          "confirmed": 204238,
           "date": "2021-09-26",
           "deaths": 3624
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 330063,
+          "confirmed": 330577,
           "date": "2021-09-26",
-          "deaths": 7718
+          "deaths": 7720
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 297465,
+          "confirmed": 297999,
           "date": "2021-09-26",
           "deaths": 5938
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 951121,
+          "confirmed": 952603,
           "date": "2021-09-26",
-          "deaths": 17741
+          "deaths": 17744
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 179023,
+          "confirmed": 179031,
           "date": "2021-09-26",
           "deaths": 3977
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 295718,
+          "confirmed": 295723,
           "date": "2021-09-26",
           "deaths": 10205
         }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 950006,
+      "confirmed": 952385,
       "date": "2021-09-26",
       "deaths": 15503
     }
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 703732,
+      "confirmed": 704914,
       "date": "2021-09-26",
-      "deaths": 24705
+      "deaths": 24732
     }
   },
   "Turkey": {
