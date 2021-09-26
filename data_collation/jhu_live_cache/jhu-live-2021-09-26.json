@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 340845,
+      "confirmed": 341714,
       "date": "2021-09-26",
-      "deaths": 5369
+      "deaths": 5401
     }
   },
   "Finland": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 248392,
+      "confirmed": 248461,
       "date": "2021-09-26",
-      "deaths": 5096
+      "deaths": 5102
     }
   },
   "Korea, South": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411447,
+      "confirmed": 411484,
       "date": "2021-09-26",
-      "deaths": 2445
+      "deaths": 2446
     }
   },
   "Kyrgyzstan": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7013609,
+      "confirmed": 7039470,
       "date": "2021-09-26",
-      "deaths": 62938
+      "deaths": 63166
     }
   },
   "US": {
