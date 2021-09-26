@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1262945,
+      "confirmed": 1263896,
       "date": "2021-09-26",
       "deaths": 7649
     }
@@ -1413,9 +1413,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1549285,
+      "confirmed": 1561638,
       "date": "2021-09-26",
-      "deaths": 16143
+      "deaths": 16268
     }
   },
   "Tunisia": {
