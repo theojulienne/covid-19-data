@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 202574,
+      "confirmed": 202722,
       "date": "2021-09-26",
-      "deaths": 5767
+      "deaths": 5777
     }
   },
   "Argentina": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 274745,
+      "confirmed": 274814,
       "date": "2021-09-26",
       "deaths": 1389
     }
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 492365,
+      "confirmed": 492861,
       "date": "2021-09-26",
-      "deaths": 20449
+      "deaths": 20489
     }
   },
   "Burma": {
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 548604,
+      "confirmed": 549560,
       "date": "2021-09-26",
-      "deaths": 13331
+      "deaths": 13375
     }
   },
   "Honduras": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 928571,
+      "confirmed": 929305,
       "date": "2021-09-26",
-      "deaths": 14132
+      "deaths": 14167
     }
   },
   "Mozambique": {
