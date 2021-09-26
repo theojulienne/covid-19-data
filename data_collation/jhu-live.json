@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 356934,
+      "confirmed": 357149,
       "date": "2021-09-26",
-      "deaths": 4035
+      "deaths": 4039
     }
   },
   "Ecuador": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 189318,
+          "confirmed": 190773,
           "date": "2021-09-26",
-          "deaths": 3109
+          "deaths": 3141
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 193187,
+          "confirmed": 194265,
           "date": "2021-09-26",
-          "deaths": 2107
+          "deaths": 2129
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 196146,
+          "confirmed": 199089,
           "date": "2021-09-26",
-          "deaths": 749
+          "deaths": 760
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 670594,
+          "confirmed": 672152,
           "date": "2021-09-26",
-          "deaths": 9053
+          "deaths": 9166
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 184831,
+          "confirmed": 185101,
           "date": "2021-09-26",
-          "deaths": 2418
+          "deaths": 2430
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 288377,
+      "confirmed": 289025,
       "date": "2021-09-26",
-      "deaths": 6679
+      "deaths": 6695
     }
   },
   "Mongolia": {
@@ -1286,7 +1286,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 289669,
+      "confirmed": 289670,
       "date": "2021-09-26",
       "deaths": 4537
     }
