@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 545796,
+      "confirmed": 548604,
       "date": "2021-09-26",
-      "deaths": 13283
+      "deaths": 13331
     }
   },
   "Honduras": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 298402,
+      "confirmed": 301172,
       "date": "2021-09-26",
-      "deaths": 2441
+      "deaths": 2450
     }
   },
   "Kosovo": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 465736,
+      "confirmed": 465993,
       "date": "2021-09-26",
-      "deaths": 7197
+      "deaths": 7201
     }
   },
   "Paraguay": {
@@ -1198,7 +1198,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2453328,
+      "confirmed": 2470175,
       "date": "2021-09-26",
       "deaths": 37405
     }
