@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 179031,
+          "confirmed": 179171,
           "date": "2021-09-26",
-          "deaths": 3977
+          "deaths": 3978
         }
       },
       "Sachsen": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 335991,
+      "confirmed": 336980,
       "date": "2021-09-26",
-      "deaths": 4588
+      "deaths": 4606
     }
   },
   "Lithuania": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 790662,
+      "confirmed": 791392,
       "date": "2021-09-26",
-      "deaths": 11087
+      "deaths": 11096
     }
   },
   "Netherlands": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1187773,
+      "confirmed": 1194106,
       "date": "2021-09-26",
-      "deaths": 36230
+      "deaths": 36341
     }
   },
   "Russia": {
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 734596,
+      "confirmed": 734894,
       "date": "2021-09-26",
-      "deaths": 2089
+      "deaths": 2090
     }
   },
   "United Kingdom": {
