@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 167354,
+      "confirmed": 167893,
       "date": "2021-09-26",
-      "deaths": 2629
+      "deaths": 2640
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 591568,
+          "confirmed": 591593,
           "date": "2021-09-26",
           "deaths": 9753
         }
@@ -792,74 +792,74 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1263896,
+      "confirmed": 1265845,
       "date": "2021-09-26",
-      "deaths": 7649
+      "deaths": 7675
     }
   },
   "Italy": {
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 455078,
+          "confirmed": 455360,
           "date": "2021-09-26",
-          "deaths": 7899
+          "deaths": 7901
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 422312,
+          "confirmed": 422652,
           "date": "2021-09-26",
-          "deaths": 13458
+          "deaths": 13459
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 383197,
+          "confirmed": 383469,
           "date": "2021-09-26",
-          "deaths": 8632
+          "deaths": 8638
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 882120,
+          "confirmed": 882424,
           "date": "2021-09-26",
-          "deaths": 34012
+          "deaths": 34022
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 378173,
+          "confirmed": 378318,
           "date": "2021-09-26",
-          "deaths": 11755
+          "deaths": 11756
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 268048,
+          "confirmed": 268187,
           "date": "2021-09-26",
-          "deaths": 6776
+          "deaths": 6777
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 296100,
+          "confirmed": 296522,
           "date": "2021-09-26",
-          "deaths": 6782
+          "deaths": 6785
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 281024,
+          "confirmed": 281287,
           "date": "2021-09-26",
-          "deaths": 7135
+          "deaths": 7142
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 467627,
+          "confirmed": 467943,
           "date": "2021-09-26",
-          "deaths": 11756
+          "deaths": 11758
         }
       }
     }
@@ -877,23 +877,23 @@
         "live": {
           "confirmed": 198487,
           "date": "2021-09-26",
-          "deaths": 2946
+          "deaths": 2947
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 374597,
           "date": "2021-09-26",
-          "deaths": 2861
+          "deaths": 2872
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 818796,
+      "confirmed": 819783,
       "date": "2021-09-26",
-      "deaths": 10669
+      "deaths": 10680
     }
   },
   "Kazakhstan": {
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1066346,
+      "confirmed": 1066945,
       "date": "2021-09-26",
-      "deaths": 17952
+      "deaths": 17954
     }
   },
   "Qatar": {
@@ -1605,30 +1605,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6507849,
+          "confirmed": 6532847,
           "date": "2021-09-26",
-          "deaths": 119201
+          "deaths": 119238
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 231696,
+          "confirmed": 233836,
           "date": "2021-09-26",
-          "deaths": 2533
+          "deaths": 2544
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 553350,
+          "confirmed": 555906,
           "date": "2021-09-26",
-          "deaths": 8532
+          "deaths": 8534
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 338338,
+          "confirmed": 341641,
           "date": "2021-09-26",
-          "deaths": 5839
+          "deaths": 5852
         }
       }
     }
