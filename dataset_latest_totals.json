@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 1581003,
-        "deaths": 27434,
+        "deaths": 27445,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1549841,
-        "deaths": 27235,
+        "deaths": 27247,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1609156,
-        "deaths": 27690,
+        "deaths": 27695,
         "recovered": 0
       },
       "states": {
@@ -1144,18 +1144,18 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 355013,
-        "deaths": 4027,
+        "confirmed": 355150,
+        "deaths": 4028,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 353071,
+        "confirmed": 353303,
         "deaths": 4014,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 356934,
-        "deaths": 4035,
+        "confirmed": 357149,
+        "deaths": 4039,
         "recovered": 0
       }
     },
@@ -2261,18 +2261,18 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 281216,
-        "deaths": 6586,
+        "confirmed": 281700,
+        "deaths": 6595,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 274599,
-        "deaths": 6507,
+        "confirmed": 274812,
+        "deaths": 6521,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 288377,
-        "deaths": 6679,
+        "confirmed": 289025,
+        "deaths": 6695,
         "recovered": 0
       }
     },
@@ -3967,18 +3967,18 @@
     },
     "ZMB": {
       "back_1week": {
-        "confirmed": 208422,
+        "confirmed": 208469,
         "deaths": 3638,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 207836,
-        "deaths": 3629,
+        "confirmed": 207938,
+        "deaths": 3631,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 208829,
-        "deaths": 3645,
+        "confirmed": 208857,
+        "deaths": 3646,
         "recovered": 0
       }
     },
