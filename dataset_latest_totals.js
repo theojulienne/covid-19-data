@@ -628,7 +628,7 @@ var covid19_dataset_latest_totals = {
         },
         "Ontario": {
           "confirmed": 591664,
-          "deaths": 9752
+          "deaths": 9753
         },
         "Prince Edward Island": {
           "confirmed": 284,
@@ -1263,18 +1263,18 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 332003,
-        "deaths": 5115,
+        "confirmed": 332961,
+        "deaths": 5130,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 322632,
-        "deaths": 4907,
+        "confirmed": 323104,
+        "deaths": 4929,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 340845,
-        "deaths": 5369,
+        "confirmed": 341714,
+        "deaths": 5401,
         "recovered": 0
       }
     },
@@ -2023,18 +2023,18 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 411124,
-        "deaths": 2438,
+        "confirmed": 411180,
+        "deaths": 2439,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 410734,
-        "deaths": 2430,
+        "confirmed": 410784,
+        "deaths": 2431,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 411447,
-        "deaths": 2445,
+        "confirmed": 411484,
+        "deaths": 2446,
         "recovered": 0
       }
     },
@@ -2227,18 +2227,18 @@ var covid19_dataset_latest_totals = {
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 918126,
-        "deaths": 13876,
+        "confirmed": 919681,
+        "deaths": 13910,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 902694,
-        "deaths": 13488,
+        "confirmed": 904647,
+        "deaths": 13546,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 928571,
-        "deaths": 14132,
+        "confirmed": 929305,
+        "deaths": 14167,
         "recovered": 0
       }
     },
@@ -2431,17 +2431,17 @@ var covid19_dataset_latest_totals = {
     },
     "MOZ": {
       "back_1week": {
-        "confirmed": 149981,
+        "confirmed": 150018,
         "deaths": 1903,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 149088,
+        "confirmed": 149207,
         "deaths": 1892,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 150494,
+        "confirmed": 150530,
         "deaths": 1909,
         "recovered": 0
       }
