@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 592159,
+          "confirmed": 592234,
           "date": "2021-09-27",
           "deaths": 9753
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 406429,
+          "confirmed": 408462,
           "date": "2021-09-27",
           "deaths": 11356
         }
@@ -497,7 +497,7 @@
   },
   "France": {
     "live": {
-      "confirmed": 6827431,
+      "confirmed": 6827408,
       "date": "2021-09-27",
       "deaths": 114647
     }
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 954295,
       "date": "2021-09-27",
-      "deaths": 15503
+      "deaths": 15865
     }
   },
   "Kenya": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459804,
+      "confirmed": 459828,
       "date": "2021-09-27",
-      "deaths": 16188
+      "deaths": 16189
     }
   },
   "Peru": {
@@ -1293,9 +1293,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2896943,
+      "confirmed": 2897521,
       "date": "2021-09-27",
-      "deaths": 87052
+      "deaths": 87216
     }
   },
   "Spain": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7039470,
+      "confirmed": 7066658,
       "date": "2021-09-27",
-      "deaths": 63166
+      "deaths": 63372
     }
   },
   "US": {
@@ -1506,7 +1506,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 154178,
+          "confirmed": 154453,
           "date": "2021-09-27",
           "deaths": 1574
         }
