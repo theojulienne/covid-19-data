@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 154960,
+      "confirmed": 155072,
       "date": "2021-09-27",
-      "deaths": 7199
+      "deaths": 7200
     }
   },
   "Albania": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4208013,
+      "confirmed": 4209403,
       "date": "2021-09-27",
-      "deaths": 141467
+      "deaths": 141585
     }
   },
   "Iran": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 791392,
+      "confirmed": 792367,
       "date": "2021-09-27",
-      "deaths": 11096
+      "deaths": 11103
     }
   },
   "Netherlands": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1194106,
+      "confirmed": 1199761,
       "date": "2021-09-27",
-      "deaths": 36341
+      "deaths": 36450
     }
   },
   "Russia": {
@@ -1288,7 +1288,7 @@
     "live": {
       "confirmed": 289955,
       "date": "2021-09-27",
-      "deaths": 4543
+      "deaths": 4544
     }
   },
   "South Africa": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 833385,
       "date": "2021-09-27",
-      "deaths": 11053
+      "deaths": 11054
     }
   },
   "Thailand": {
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 734894,
+      "confirmed": 735180,
       "date": "2021-09-27",
-      "deaths": 2090
+      "deaths": 2094
     }
   },
   "United Kingdom": {
