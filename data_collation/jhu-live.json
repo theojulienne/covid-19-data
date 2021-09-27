@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 686516,
+          "confirmed": 688491,
           "date": "2021-09-27",
-          "deaths": 11366
+          "deaths": 11371
         }
       },
       "California": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1572191,
+          "confirmed": 1573249,
           "date": "2021-09-27",
-          "deaths": 41361
+          "deaths": 41365
         }
       },
       "North Carolina": {
