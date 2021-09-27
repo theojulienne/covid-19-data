@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 167893,
+      "confirmed": 168188,
       "date": "2021-09-27",
-      "deaths": 2640
+      "deaths": 2653
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 592050,
+          "confirmed": 592084,
           "date": "2021-09-27",
           "deaths": 9753
         }
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 384677,
+      "confirmed": 385721,
       "date": "2021-09-27",
       "deaths": 5209
     }
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 167291,
           "date": "2021-09-27",
-          "deaths": 1246
+          "deaths": 1248
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 198628,
           "date": "2021-09-27",
-          "deaths": 2947
+          "deaths": 2948
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 374751,
           "date": "2021-09-27",
-          "deaths": 2872
+          "deaths": 2883
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3264101,
+          "confirmed": 3269873,
           "date": "2021-09-27",
-          "deaths": 51740
+          "deaths": 51837
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 142771,
+          "confirmed": 143126,
           "date": "2021-09-27",
-          "deaths": 1862
+          "deaths": 1869
         }
       },
       "Nevada": {
