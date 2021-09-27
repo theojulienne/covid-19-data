@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1689364,
+      "confirmed": 1689620,
       "date": "2021-09-27",
-      "deaths": 30453
+      "deaths": 30454
     }
   },
   "Denmark": {
@@ -592,9 +592,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 820078,
+      "confirmed": 821261,
       "date": "2021-09-27",
-      "deaths": 30151
+      "deaths": 30171
     }
   },
   "India": {
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 325606,
+      "confirmed": 326654,
       "date": "2021-09-27",
-      "deaths": 4913
+      "deaths": 4930
     }
   },
   "Malaysia": {
@@ -1559,37 +1559,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 146301,
+          "confirmed": 146672,
           "date": "2021-09-27",
-          "deaths": 4809
+          "deaths": 4811
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 162620,
+          "confirmed": 162853,
           "date": "2021-09-27",
-          "deaths": 3881
+          "deaths": 3883
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 232721,
+          "confirmed": 232856,
           "date": "2021-09-27",
-          "deaths": 5369
+          "deaths": 5374
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 148061,
+          "confirmed": 148302,
           "date": "2021-09-27",
-          "deaths": 3837
+          "deaths": 3850
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 151619,
+          "confirmed": 151782,
           "date": "2021-09-27",
-          "deaths": 3217
+          "deaths": 3223
         }
       }
     }
