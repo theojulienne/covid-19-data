@@ -258,8 +258,8 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 479814,
-        "deaths": 6433,
+        "confirmed": 480843,
+        "deaths": 6457,
         "recovered": 0
       }
     },
@@ -571,17 +571,17 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1579181,
+        "confirmed": 1581003,
         "deaths": 27434,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1547067,
+        "confirmed": 1549841,
         "deaths": 27235,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1608019,
+        "confirmed": 1609156,
         "deaths": 27690,
         "recovered": 0
       },
@@ -627,7 +627,7 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 591185,
+          "confirmed": 591664,
           "deaths": 9752
         },
         "Prince Edward Island": {
@@ -1115,18 +1115,18 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 354393,
-        "deaths": 2625,
+        "confirmed": 354645,
+        "deaths": 2628,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 351939,
+        "confirmed": 352373,
         "deaths": 2611,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 356684,
-        "deaths": 2640,
+        "confirmed": 357037,
+        "deaths": 2642,
         "recovered": 0
       },
       "states": {
@@ -1785,18 +1785,18 @@
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 5408860,
-        "deaths": 116791,
+        "confirmed": 5424835,
+        "deaths": 117182,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5275567,
-        "deaths": 113824,
+        "confirmed": 5295786,
+        "deaths": 114311,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5519728,
-        "deaths": 119082,
+        "confirmed": 5533520,
+        "deaths": 119360,
         "recovered": 0
       }
     },
@@ -2851,17 +2851,17 @@
     },
     "QAT": {
       "back_1week": {
-        "confirmed": 235386,
+        "confirmed": 235487,
         "deaths": 604,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 234509,
+        "confirmed": 234642,
         "deaths": 604,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 236231,
+        "confirmed": 236298,
         "deaths": 604,
         "recovered": 0
       }
