@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 606492,
+      "confirmed": 607155,
       "date": "2021-09-27",
-      "deaths": 8817
+      "deaths": 8844
     }
   },
   "Germany": {
@@ -1408,14 +1408,14 @@
     "live": {
       "confirmed": 833385,
       "date": "2021-09-27",
-      "deaths": 11043
+      "deaths": 11047
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 1561638,
+      "confirmed": 1571926,
       "date": "2021-09-27",
-      "deaths": 16268
+      "deaths": 16369
     }
   },
   "Tunisia": {
