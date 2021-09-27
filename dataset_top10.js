@@ -615,7 +615,8 @@ var covid19_dataset_top10 = {
           5245265,
           5246998,
           5248847,
-          5249840
+          5249840,
+          5250402
         ],
         "deaths": [
           0,
@@ -1230,7 +1231,8 @@ var covid19_dataset_top10 = {
           114684,
           114772,
           114828,
-          114849
+          114849,
+          114862
         ],
         "recovered": [
           0,
@@ -19522,7 +19524,8 @@ var covid19_dataset_top10 = {
     "2021-09-24",
     "2021-09-25",
     "2021-09-26",
-    "2021-09-27"
+    "2021-09-27",
+    "2021-09-28"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
