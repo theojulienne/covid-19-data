@@ -490,7 +490,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 139405,
+      "confirmed": 139678,
       "date": "2021-09-27",
       "deaths": 1069
     }
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 154786,
+      "confirmed": 155076,
       "date": "2021-09-27",
-      "deaths": 2684
+      "deaths": 2689
     }
   },
   "Lebanon": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 303639,
+      "confirmed": 303673,
       "date": "2021-09-27",
       "deaths": 4095
     }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 833385,
       "date": "2021-09-27",
-      "deaths": 11047
+      "deaths": 11053
     }
   },
   "Thailand": {
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 704914,
+      "confirmed": 705295,
       "date": "2021-09-27",
-      "deaths": 24732
+      "deaths": 24788
     }
   },
   "Turkey": {
