@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 458154,
+      "confirmed": 459436,
       "date": "2021-09-27",
-      "deaths": 17527
+      "deaths": 17583
     }
   },
   "Canada": {
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151318,
+          "confirmed": 151362,
           "date": "2021-09-27",
-          "deaths": 2680
+          "deaths": 2681
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 690878,
+          "confirmed": 691167,
           "date": "2021-09-27",
-          "deaths": 19174
+          "deaths": 19176
         }
       }
     }
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 854167,
+      "confirmed": 860799,
       "date": "2021-09-27",
-      "deaths": 7227
+      "deaths": 7279
     }
   },
   "Czechia": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 645969,
+      "confirmed": 648091,
       "date": "2021-09-27",
-      "deaths": 14679
+      "deaths": 14727
     }
   },
   "Guatemala": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1267188,
+      "confirmed": 1270230,
       "date": "2021-09-27",
       "deaths": 7684
     }
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 819783,
+      "confirmed": 820798,
       "date": "2021-09-27",
-      "deaths": 10680
+      "deaths": 10697
     }
   },
   "Kazakhstan": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 189887,
+      "confirmed": 189999,
       "date": "2021-09-27",
-      "deaths": 6594
+      "deaths": 6607
     }
   },
   "Norway": {
@@ -1265,9 +1265,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 546926,
+      "confirmed": 546985,
       "date": "2021-09-27",
-      "deaths": 8699
+      "deaths": 8704
     }
   },
   "Serbia": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1726094,
+          "confirmed": 1728913,
           "date": "2021-09-27",
-          "deaths": 24605
+          "deaths": 24663
         }
       },
       "Utah": {
