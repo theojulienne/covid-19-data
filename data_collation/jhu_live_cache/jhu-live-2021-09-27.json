@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 202722,
+      "confirmed": 202877,
       "date": "2021-09-27",
-      "deaths": 5777
+      "deaths": 5786
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 592613,
+          "confirmed": 592642,
           "date": "2021-09-27",
           "deaths": 9755
         }
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 549560,
+      "confirmed": 550333,
       "date": "2021-09-27",
-      "deaths": 13375
+      "deaths": 13394
     }
   },
   "Honduras": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 190773,
+          "confirmed": 191999,
           "date": "2021-09-27",
-          "deaths": 3141
+          "deaths": 3194
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 194265,
+          "confirmed": 195016,
           "date": "2021-09-27",
-          "deaths": 2129
+          "deaths": 2141
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 199089,
+          "confirmed": 201812,
           "date": "2021-09-27",
-          "deaths": 760
+          "deaths": 779
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 672152,
+          "confirmed": 673131,
           "date": "2021-09-27",
-          "deaths": 9166
+          "deaths": 9222
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 185101,
+          "confirmed": 185277,
           "date": "2021-09-27",
-          "deaths": 2430
+          "deaths": 2455
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 688491,
+          "confirmed": 689931,
           "date": "2021-09-27",
           "deaths": 11371
         }
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1728999,
+          "confirmed": 1729484,
           "date": "2021-09-27",
           "deaths": 24674
         }
