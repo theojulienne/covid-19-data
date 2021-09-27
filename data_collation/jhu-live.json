@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 530203,
+      "confirmed": 532149,
       "date": "2021-09-27",
-      "deaths": 4092
+      "deaths": 4102
     }
   },
   "Belgium": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 399891,
+      "confirmed": 400108,
       "date": "2021-09-27",
-      "deaths": 8595
+      "deaths": 8606
     }
   },
   "Cuba": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 336980,
+      "confirmed": 337890,
       "date": "2021-09-27",
-      "deaths": 4606
+      "deaths": 4617
     }
   },
   "Lithuania": {
@@ -1663,9 +1663,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 396746,
+      "confirmed": 398946,
       "date": "2021-09-27",
-      "deaths": 4025
+      "deaths": 4046
     }
   },
   "Zambia": {
