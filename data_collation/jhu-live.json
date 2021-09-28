@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 400108,
+      "confirmed": 401169,
       "date": "2021-09-28",
-      "deaths": 8606
+      "deaths": 8614
     }
   },
   "Cuba": {
@@ -1406,9 +1406,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 836483,
+      "confirmed": 837769,
       "date": "2021-09-28",
-      "deaths": 11068
+      "deaths": 11072
     }
   },
   "Thailand": {
