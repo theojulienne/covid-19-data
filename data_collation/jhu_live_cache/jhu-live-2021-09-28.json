@@ -371,28 +371,28 @@
         "live": {
           "confirmed": 745104,
           "date": "2021-09-28",
-          "deaths": 16044
+          "deaths": 16048
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 320120,
           "date": "2021-09-28",
-          "deaths": 9442
+          "deaths": 9445
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 156131,
           "date": "2021-09-28",
-          "deaths": 2959
+          "deaths": 2960
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1449172,
           "date": "2021-09-28",
-          "deaths": 27463
+          "deaths": 27467
         }
       },
       "Cundinamarca": {
@@ -406,23 +406,23 @@
         "live": {
           "confirmed": 225197,
           "date": "2021-09-28",
-          "deaths": 7276
+          "deaths": 7277
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 406448,
           "date": "2021-09-28",
-          "deaths": 12886
+          "deaths": 12891
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 521182,
+      "confirmed": 525999,
       "date": "2021-09-28",
-      "deaths": 6189
+      "deaths": 6277
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 301625,
+      "confirmed": 302327,
       "date": "2021-09-28",
-      "deaths": 17187
+      "deaths": 17224
     }
   },
   "Estonia": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 622235,
+      "confirmed": 622440,
       "date": "2021-09-28",
-      "deaths": 8286
+      "deaths": 8296
     }
   },
   "Libya": {
@@ -1443,7 +1443,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3271968,
+          "confirmed": 3272951,
           "date": "2021-09-28",
           "deaths": 51840
         }
@@ -1635,9 +1635,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 388502,
+      "confirmed": 388572,
       "date": "2021-09-28",
-      "deaths": 6052
+      "deaths": 6053
     }
   },
   "Uzbekistan": {
