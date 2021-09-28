@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5250402,
+      "confirmed": 5251940,
       "date": "2021-09-27",
-      "deaths": 114862
+      "deaths": 114954
     }
   },
   "Armenia": {
@@ -124,9 +124,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 176427,
+      "confirmed": 178050,
       "date": "2021-09-27",
-      "deaths": 2360
+      "deaths": 2367
     }
   },
   "Brazil": {
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 507858,
+      "confirmed": 508655,
       "date": "2021-09-27",
-      "deaths": 32720
+      "deaths": 32747
     }
   },
   "Egypt": {
@@ -1120,9 +1120,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 204456,
+      "confirmed": 204752,
       "date": "2021-09-27",
-      "deaths": 2677
+      "deaths": 2690
     }
   },
   "North Macedonia": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 187217,
+      "confirmed": 187593,
       "date": "2021-09-27",
       "deaths": 850
     }
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 705295,
+      "confirmed": 705474,
       "date": "2021-09-27",
-      "deaths": 24788
+      "deaths": 24794
     }
   },
   "Turkey": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1573249,
+          "confirmed": 1574035,
           "date": "2021-09-27",
-          "deaths": 41365
+          "deaths": 41369
         }
       },
       "North Carolina": {
@@ -1541,9 +1541,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 148650,
+          "confirmed": 150197,
           "date": "2021-09-27",
-          "deaths": 1845
+          "deaths": 1849
         }
       },
       "Wisconsin": {
