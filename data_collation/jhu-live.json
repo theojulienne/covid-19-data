@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 592870,
+          "confirmed": 592945,
           "date": "2021-09-28",
-          "deaths": 9759
+          "deaths": 9763
         }
       },
       "Quebec": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6827408,
+      "confirmed": 6827260,
       "date": "2021-09-28",
-      "deaths": 114647
+      "deaths": 114336
     }
   },
   "Georgia": {
@@ -513,9 +513,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 567919,
+          "confirmed": 570106,
           "date": "2021-09-28",
-          "deaths": 10661
+          "deaths": 10670
         }
       },
       "Bayern": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 385721,
+      "confirmed": 387218,
       "date": "2021-09-28",
       "deaths": 5209
     }
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150540,
+      "confirmed": 150572,
       "date": "2021-09-28",
-      "deaths": 1910
+      "deaths": 1912
     }
   },
   "Nepal": {
@@ -1302,81 +1302,81 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 800641,
+          "confirmed": 800964,
           "date": "2021-09-28",
-          "deaths": 11105
+          "deaths": 11113
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 160568,
+          "confirmed": 160656,
           "date": "2021-09-28",
-          "deaths": 3811
+          "deaths": 3815
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 509594,
+          "confirmed": 509779,
           "date": "2021-09-28",
-          "deaths": 7755
+          "deaths": 7756
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 237211,
+          "confirmed": 237323,
           "date": "2021-09-28",
-          "deaths": 6436
+          "deaths": 6441
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 299053,
+          "confirmed": 299124,
           "date": "2021-09-28",
-          "deaths": 7304
+          "deaths": 7308
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 914387,
+          "confirmed": 914880,
           "date": "2021-09-28",
-          "deaths": 15646
+          "deaths": 15651
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 186390,
+          "confirmed": 186424,
           "date": "2021-09-28",
-          "deaths": 2626
+          "deaths": 2631
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 889694,
+          "confirmed": 890088,
           "date": "2021-09-28",
-          "deaths": 16080
+          "deaths": 16090
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 140595,
+          "confirmed": 140685,
           "date": "2021-09-28",
           "deaths": 1727
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 260013,
+          "confirmed": 260145,
           "date": "2021-09-28",
-          "deaths": 4909
+          "deaths": 4921
         }
       }
     }
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 514592,
+      "confirmed": 515524,
       "date": "2021-09-28",
-      "deaths": 12731
+      "deaths": 12786
     }
   },
   "Sweden": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3272951,
+          "confirmed": 3274153,
           "date": "2021-09-28",
-          "deaths": 51840
+          "deaths": 51858
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 143126,
+          "confirmed": 144069,
           "date": "2021-09-28",
-          "deaths": 1869
+          "deaths": 1871
         }
       },
       "Nevada": {
@@ -1513,7 +1513,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 173451,
+          "confirmed": 173871,
           "date": "2021-09-28",
           "deaths": 3901
         }
