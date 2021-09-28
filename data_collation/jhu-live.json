@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1199761,
+      "confirmed": 1210810,
       "date": "2021-09-28",
-      "deaths": 36450
+      "deaths": 36658
     }
   },
   "Russia": {
@@ -1596,7 +1596,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 735180,
+      "confirmed": 735457,
       "date": "2021-09-28",
       "deaths": 2094
     }
