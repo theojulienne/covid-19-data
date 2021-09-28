@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 592945,
+          "confirmed": 592949,
           "date": "2021-09-28",
           "deaths": 9763
         }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6827260,
+      "confirmed": 6834025,
       "date": "2021-09-28",
-      "deaths": 114336
+      "deaths": 114394
     }
   },
   "Georgia": {
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 290043,
+      "confirmed": 291252,
       "date": "2021-09-28",
-      "deaths": 6713
+      "deaths": 6732
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 189999,
+      "confirmed": 190463,
       "date": "2021-09-28",
-      "deaths": 6607
+      "deaths": 6630
     }
   },
   "Norway": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 617360,
+          "confirmed": 617846,
           "date": "2021-09-28",
-          "deaths": 11008
+          "deaths": 11025
         }
       },
       "Massachusetts": {
@@ -1485,30 +1485,30 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 318665,
+          "confirmed": 319081,
           "date": "2021-09-28",
-          "deaths": 5579
+          "deaths": 5594
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1574035,
+          "confirmed": 1575930,
           "date": "2021-09-28",
-          "deaths": 41369
+          "deaths": 41392
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 149346,
+          "confirmed": 149746,
           "date": "2021-09-28",
           "deaths": 1150
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 154453,
+          "confirmed": 155063,
           "date": "2021-09-28",
-          "deaths": 1574
+          "deaths": 1578
         }
       },
       "Pennsylvania": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1732498,
+          "confirmed": 1732901,
           "date": "2021-09-28",
-          "deaths": 24674
+          "deaths": 24742
         }
       },
       "Utah": {
