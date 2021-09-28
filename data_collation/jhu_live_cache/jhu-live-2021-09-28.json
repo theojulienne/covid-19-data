@@ -441,7 +441,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1689620,
+      "confirmed": 1690288,
       "date": "2021-09-28",
       "deaths": 30454
     }
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 204588,
+          "confirmed": 204595,
           "date": "2021-09-28",
           "deaths": 3625
         }
@@ -592,9 +592,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 821261,
+      "confirmed": 821526,
       "date": "2021-09-28",
-      "deaths": 30171
+      "deaths": 30179
     }
   },
   "India": {
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 326654,
+      "confirmed": 327896,
       "date": "2021-09-28",
-      "deaths": 4930
+      "deaths": 4946
     }
   },
   "Malaysia": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 836483,
       "date": "2021-09-28",
-      "deaths": 11060
+      "deaths": 11061
     }
   },
   "Thailand": {
