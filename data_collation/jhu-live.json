@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 168188,
+      "confirmed": 168782,
       "date": "2021-09-28",
-      "deaths": 2653
+      "deaths": 2668
     }
   },
   "Algeria": {
@@ -340,7 +340,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 408462,
+          "confirmed": 408931,
           "date": "2021-09-28",
           "deaths": 11362
         }
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 550333,
+      "confirmed": 553289,
       "date": "2021-09-28",
-      "deaths": 13394
+      "deaths": 13453
     }
   },
   "Honduras": {
@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1270230,
+      "confirmed": 1274395,
       "date": "2021-09-28",
-      "deaths": 7684
+      "deaths": 7692
     }
   },
   "Italy": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 820798,
+      "confirmed": 821840,
       "date": "2021-09-28",
-      "deaths": 10697
+      "deaths": 10703
     }
   },
   "Kazakhstan": {
@@ -1293,9 +1293,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2897521,
+      "confirmed": 2898888,
       "date": "2021-09-28",
-      "deaths": 87216
+      "deaths": 87417
     }
   },
   "Spain": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3274153,
+          "confirmed": 3274460,
           "date": "2021-09-28",
-          "deaths": 51858
+          "deaths": 51867
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 139331,
+          "confirmed": 139577,
           "date": "2021-09-28",
-          "deaths": 2065
+          "deaths": 2066
         }
       },
       "Texas": {
@@ -1548,9 +1548,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 141706,
+          "confirmed": 142171,
           "date": "2021-09-28",
-          "deaths": 1532
+          "deaths": 1544
         }
       }
     }
