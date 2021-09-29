@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5251940,
+      "confirmed": 5253765,
       "date": "2021-09-28",
-      "deaths": 114954
+      "deaths": 115038
     }
   },
   "Armenia": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 525999,
+      "confirmed": 528077,
       "date": "2021-09-28",
-      "deaths": 6277
+      "deaths": 6316
     }
   },
   "Croatia": {
@@ -947,16 +947,16 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 622440,
+      "confirmed": 622983,
       "date": "2021-09-28",
-      "deaths": 8296
+      "deaths": 8306
     }
   },
   "Libya": {
     "live": {
-      "confirmed": 337890,
+      "confirmed": 338576,
       "date": "2021-09-28",
-      "deaths": 4617
+      "deaths": 4625
     }
   },
   "Lithuania": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459855,
+      "confirmed": 459899,
       "date": "2021-09-28",
-      "deaths": 16191
+      "deaths": 16193
     }
   },
   "Peru": {
@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 689931,
+          "confirmed": 690451,
           "date": "2021-09-28",
-          "deaths": 11371
+          "deaths": 11418
         }
       },
       "California": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1575930,
+          "confirmed": 1577072,
           "date": "2021-09-28",
-          "deaths": 41392
+          "deaths": 41398
         }
       },
       "North Carolina": {
@@ -1541,9 +1541,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 150197,
+          "confirmed": 150532,
           "date": "2021-09-28",
-          "deaths": 1849
+          "deaths": 1856
         }
       },
       "Wisconsin": {
