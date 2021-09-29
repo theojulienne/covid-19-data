@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 184780,
+          "confirmed": 185432,
           "date": "2021-09-29",
-          "deaths": 1940
+          "deaths": 1942
         }
       },
       "Ontario": {
@@ -371,7 +371,7 @@
         "live": {
           "confirmed": 745684,
           "date": "2021-09-29",
-          "deaths": 16048
+          "deaths": 16058
         }
       },
       "Atlantico": {
@@ -385,14 +385,14 @@
         "live": {
           "confirmed": 156216,
           "date": "2021-09-29",
-          "deaths": 2960
+          "deaths": 2961
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1449440,
           "date": "2021-09-29",
-          "deaths": 27467
+          "deaths": 27475
         }
       },
       "Cundinamarca": {
@@ -406,14 +406,14 @@
         "live": {
           "confirmed": 225248,
           "date": "2021-09-29",
-          "deaths": 7277
+          "deaths": 7281
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 406716,
           "date": "2021-09-29",
-          "deaths": 12891
+          "deaths": 12897
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3275051,
+          "confirmed": 3276171,
           "date": "2021-09-29",
-          "deaths": 51867
+          "deaths": 51874
         }
       },
       "Florida": {
