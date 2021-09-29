@@ -635,7 +635,7 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 408462,
+          "confirmed": 408931,
           "deaths": 11362
         },
         "Repatriated Travellers": {
