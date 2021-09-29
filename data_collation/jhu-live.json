@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 364605,
+      "confirmed": 365259,
       "date": "2021-09-29",
-      "deaths": 9705
+      "deaths": 9755
     }
   },
   "Hungary": {
@@ -1053,9 +1053,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 298919,
+      "confirmed": 301434,
       "date": "2021-09-29",
-      "deaths": 1242
+      "deaths": 1258
     }
   },
   "Morocco": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7066658,
+      "confirmed": 7095550,
       "date": "2021-09-29",
-      "deaths": 63372
+      "deaths": 63611
     }
   },
   "US": {
