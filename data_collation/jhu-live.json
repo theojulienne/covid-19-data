@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 168782,
+      "confirmed": 169462,
       "date": "2021-09-29",
-      "deaths": 2668
+      "deaths": 2685
     }
   },
   "Algeria": {
@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 481401,
+      "confirmed": 483128,
       "date": "2021-09-29",
-      "deaths": 6476
+      "deaths": 6513
     }
   },
   "Bahrain": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 593401,
+          "confirmed": 593474,
           "date": "2021-09-29",
-          "deaths": 9770
+          "deaths": 9773
         }
       },
       "Quebec": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6834025,
+      "confirmed": 6838988,
       "date": "2021-09-29",
-      "deaths": 114394
+      "deaths": 114430
     }
   },
   "Georgia": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 617846,
+          "confirmed": 618610,
           "date": "2021-09-29",
-          "deaths": 11025
+          "deaths": 11029
         }
       },
       "Massachusetts": {
@@ -1487,14 +1487,14 @@
         "live": {
           "confirmed": 319081,
           "date": "2021-09-29",
-          "deaths": 5594
+          "deaths": 5623
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1577072,
+          "confirmed": 1577954,
           "date": "2021-09-29",
-          "deaths": 41398
+          "deaths": 41428
         }
       },
       "North Carolina": {
@@ -1506,7 +1506,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 155063,
+          "confirmed": 155603,
           "date": "2021-09-29",
           "deaths": 1578
         }
