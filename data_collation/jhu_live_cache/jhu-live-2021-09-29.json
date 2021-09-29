@@ -490,7 +490,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 140087,
+      "confirmed": 140889,
       "date": "2021-09-29",
       "deaths": 1072
     }
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 155880,
+      "confirmed": 157083,
       "date": "2021-09-29",
-      "deaths": 2700
+      "deaths": 2706
     }
   },
   "Lebanon": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 837769,
       "date": "2021-09-29",
-      "deaths": 11074
+      "deaths": 11076
     }
   },
   "Thailand": {
