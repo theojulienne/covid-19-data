@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155093,
+      "confirmed": 155128,
       "date": "2021-09-29",
-      "deaths": 7201
+      "deaths": 7204
     }
   },
   "Albania": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 593365,
+          "confirmed": 593401,
           "date": "2021-09-29",
           "deaths": 9770
         }
@@ -785,9 +785,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 387218,
+      "confirmed": 388665,
       "date": "2021-09-29",
-      "deaths": 5209
+      "deaths": 5249
     }
   },
   "Israel": {
@@ -868,23 +868,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 167419,
+          "confirmed": 167460,
           "date": "2021-09-29",
-          "deaths": 1254
+          "deaths": 1257
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 199307,
           "date": "2021-09-29",
-          "deaths": 2961
+          "deaths": 2966
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 375266,
           "date": "2021-09-29",
-          "deaths": 2891
+          "deaths": 2908
         }
       }
     }
@@ -1302,72 +1302,72 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 800964,
+          "confirmed": 801281,
           "date": "2021-09-29",
-          "deaths": 11113
+          "deaths": 11117
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 160656,
+          "confirmed": 160734,
           "date": "2021-09-29",
           "deaths": 3815
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 509779,
+          "confirmed": 510005,
           "date": "2021-09-29",
-          "deaths": 7756
+          "deaths": 7759
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 237323,
+          "confirmed": 237463,
           "date": "2021-09-29",
-          "deaths": 6441
+          "deaths": 6442
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 299124,
+          "confirmed": 299238,
           "date": "2021-09-29",
-          "deaths": 7308
+          "deaths": 7309
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 914880,
+          "confirmed": 915835,
           "date": "2021-09-29",
-          "deaths": 15651
+          "deaths": 15664
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 186424,
+          "confirmed": 186460,
           "date": "2021-09-29",
-          "deaths": 2631
+          "deaths": 2633
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 890088,
+          "confirmed": 890485,
           "date": "2021-09-29",
-          "deaths": 16090
+          "deaths": 16094
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 140685,
+          "confirmed": 140739,
           "date": "2021-09-29",
           "deaths": 1727
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 260145,
+          "confirmed": 260253,
           "date": "2021-09-29",
-          "deaths": 4921
+          "deaths": 4930
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3276171,
+          "confirmed": 3277465,
           "date": "2021-09-29",
-          "deaths": 51874
+          "deaths": 51935
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 144069,
+          "confirmed": 144322,
           "date": "2021-09-29",
-          "deaths": 1871
+          "deaths": 1874
         }
       },
       "Nevada": {
@@ -1499,9 +1499,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 149746,
+          "confirmed": 150189,
           "date": "2021-09-29",
-          "deaths": 1150
+          "deaths": 1158
         }
       },
       "Ohio": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1736749,
+          "confirmed": 1737769,
           "date": "2021-09-29",
-          "deaths": 24742
+          "deaths": 24768
         }
       },
       "Utah": {
