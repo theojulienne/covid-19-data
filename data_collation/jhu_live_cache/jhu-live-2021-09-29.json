@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 738763,
+      "confirmed": 741046,
       "date": "2021-09-29",
-      "deaths": 10986
+      "deaths": 10998
     }
   },
   "Azerbaijan": {
@@ -476,7 +476,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 154722,
+      "confirmed": 155469,
       "date": "2021-09-29",
       "deaths": 1351
     }
@@ -875,14 +875,14 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 198909,
+          "confirmed": 199307,
           "date": "2021-09-29",
-          "deaths": 2956
+          "deaths": 2961
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 374999,
+          "confirmed": 375266,
           "date": "2021-09-29",
           "deaths": 2891
         }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2904631,
+      "confirmed": 2905866,
       "date": "2021-09-29",
-      "deaths": 75601
+      "deaths": 75623
     }
   },
   "Portugal": {
@@ -1235,30 +1235,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1626918,
+          "confirmed": 1629922,
           "date": "2021-09-29",
-          "deaths": 28853
+          "deaths": 28918
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 446718,
+          "confirmed": 447941,
           "date": "2021-09-29",
-          "deaths": 8160
+          "deaths": 8173
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 168545,
+          "confirmed": 169100,
           "date": "2021-09-29",
-          "deaths": 6553
+          "deaths": 6584
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 616707,
+          "confirmed": 618640,
           "date": "2021-09-29",
-          "deaths": 21738
+          "deaths": 21798
         }
       }
     }
@@ -1279,16 +1279,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 409621,
+      "confirmed": 411080,
       "date": "2021-09-29",
-      "deaths": 12606
+      "deaths": 12620
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 290994,
+      "confirmed": 292333,
       "date": "2021-09-29",
-      "deaths": 4553
+      "deaths": 4556
     }
   },
   "South Africa": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 837769,
       "date": "2021-09-29",
-      "deaths": 11073
+      "deaths": 11074
     }
   },
   "Thailand": {
