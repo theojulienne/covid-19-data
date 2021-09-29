@@ -64,7 +64,7 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 534104,
+      "confirmed": 536097,
       "date": "2021-09-29",
       "deaths": 4114
     }
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 593087,
+          "confirmed": 593365,
           "date": "2021-09-29",
-          "deaths": 9767
+          "deaths": 9770
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 357827,
+      "confirmed": 358369,
       "date": "2021-09-29",
-      "deaths": 2652
+      "deaths": 2654
     }
   },
   "Dominican Republic": {
@@ -478,7 +478,7 @@
     "live": {
       "confirmed": 155469,
       "date": "2021-09-29",
-      "deaths": 1351
+      "deaths": 1352
     }
   },
   "Ethiopia": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 726236,
+          "confirmed": 726312,
           "date": "2021-09-29",
           "deaths": 15630
         }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 296583,
+          "confirmed": 297159,
           "date": "2021-09-29",
-          "deaths": 10207
+          "deaths": 10214
         }
       }
     }
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5559691,
+      "confirmed": 5572962,
       "date": "2021-09-29",
-      "deaths": 119888
+      "deaths": 120160
     }
   },
   "Iraq": {
@@ -1136,7 +1136,7 @@
     "live": {
       "confirmed": 188295,
       "date": "2021-09-29",
-      "deaths": 851
+      "deaths": 861
     }
   },
   "Oman": {
@@ -1383,21 +1383,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164349,
+          "confirmed": 164430,
           "date": "2021-09-29",
           "deaths": 1778
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 273980,
+          "confirmed": 274234,
           "date": "2021-09-29",
           "deaths": 4416
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 201189,
+          "confirmed": 201263,
           "date": "2021-09-29",
           "deaths": 2411
         }
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1734457,
+          "confirmed": 1736749,
           "date": "2021-09-29",
           "deaths": 24742
         }
