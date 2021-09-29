@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 162695,
+          "confirmed": 162866,
           "date": "2021-09-29",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 166396,
+          "confirmed": 166746,
           "date": "2021-09-29",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 140075,
+          "confirmed": 140187,
           "date": "2021-09-29",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 173160,
+          "confirmed": 173307,
           "date": "2021-09-29",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 148772,
+          "confirmed": 149295,
           "date": "2021-09-29",
           "deaths": 0
         }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 305842,
+      "confirmed": 308725,
       "date": "2021-09-29",
-      "deaths": 2464
+      "deaths": 2474
     }
   },
   "Kosovo": {
@@ -1009,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 942760,
+          "confirmed": 944518,
           "date": "2021-09-29",
-          "deaths": 38833
+          "deaths": 38870
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 171297,
+          "confirmed": 172194,
           "date": "2021-09-29",
-          "deaths": 12020
+          "deaths": 12032
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 152753,
+          "confirmed": 153237,
           "date": "2021-09-29",
-          "deaths": 16025
+          "deaths": 16070
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 359728,
+          "confirmed": 360605,
           "date": "2021-09-29",
-          "deaths": 42389
+          "deaths": 42438
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 195338,
+          "confirmed": 195909,
           "date": "2021-09-29",
-          "deaths": 12214
+          "deaths": 12297
         }
       }
     }
