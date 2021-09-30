@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 274981,
+      "confirmed": 275057,
       "date": "2021-09-30",
       "deaths": 1389
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 344322,
+      "confirmed": 345674,
       "date": "2021-09-30",
-      "deaths": 5534
+      "deaths": 5582
     }
   },
   "Finland": {
@@ -1464,9 +1464,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 152419,
+          "confirmed": 152657,
           "date": "2021-09-30",
-          "deaths": 3866
+          "deaths": 3871
         }
       },
       "Michigan": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1580552,
+          "confirmed": 1581478,
           "date": "2021-09-30",
-          "deaths": 41452
+          "deaths": 41456
         }
       },
       "North Carolina": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1743093,
+          "confirmed": 1744837,
           "date": "2021-09-30",
           "deaths": 24981
         }
