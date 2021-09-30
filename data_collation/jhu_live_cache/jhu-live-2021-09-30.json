@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 483128,
+      "confirmed": 483902,
       "date": "2021-09-30",
-      "deaths": 6513
+      "deaths": 6525
     }
   },
   "Bahrain": {
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1555051,
+      "confirmed": 1555911,
       "date": "2021-09-30",
-      "deaths": 27487
+      "deaths": 27510
     }
   },
   "Belarus": {
@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 462608,
+      "confirmed": 464076,
       "date": "2021-09-30",
-      "deaths": 17682
+      "deaths": 17735
     }
   },
   "Canada": {
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151435,
+          "confirmed": 151489,
           "date": "2021-09-30",
-          "deaths": 2681
+          "deaths": 2683
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 691673,
+          "confirmed": 692083,
           "date": "2021-09-30",
-          "deaths": 19186
+          "deaths": 19191
         }
       }
     }
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 872425,
+      "confirmed": 877428,
       "date": "2021-09-30",
-      "deaths": 7378
+      "deaths": 7436
     }
   },
   "Czechia": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 653535,
+      "confirmed": 655767,
       "date": "2021-09-30",
-      "deaths": 14795
+      "deaths": 14828
     }
   },
   "Guatemala": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 822892,
+      "confirmed": 823919,
       "date": "2021-09-30",
-      "deaths": 10710
+      "deaths": 10718
     }
   },
   "Kazakhstan": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 249174,
+      "confirmed": 249434,
       "date": "2021-09-30",
-      "deaths": 5119
+      "deaths": 5123
     }
   },
   "Korea, South": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 190915,
+      "confirmed": 191408,
       "date": "2021-09-30",
-      "deaths": 6646
+      "deaths": 6668
     }
   },
   "Norway": {
@@ -1265,9 +1265,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547035,
+      "confirmed": 547134,
       "date": "2021-09-30",
-      "deaths": 8709
+      "deaths": 8716
     }
   },
   "Serbia": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 840363,
       "date": "2021-09-30",
-      "deaths": 11085
+      "deaths": 11087
     }
   },
   "Thailand": {
