@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5572962,
+      "confirmed": 5587040,
       "date": "2021-09-30",
-      "deaths": 120160
+      "deaths": 120428
     }
   },
   "Iraq": {
@@ -1406,7 +1406,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 839219,
+      "confirmed": 840363,
       "date": "2021-09-30",
       "deaths": 11085
     }
