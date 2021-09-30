@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5253765,
+      "confirmed": 5255261,
       "date": "2021-09-29",
-      "deaths": 115038
+      "deaths": 115130
     }
   },
   "Armenia": {
@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 185432,
+          "confirmed": 186245,
           "date": "2021-09-29",
-          "deaths": 1942
+          "deaths": 1953
         }
       },
       "Ontario": {
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 745684,
+          "confirmed": 746081,
           "date": "2021-09-29",
           "deaths": 16058
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 320546,
+          "confirmed": 320812,
           "date": "2021-09-29",
           "deaths": 9445
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156216,
+          "confirmed": 156263,
           "date": "2021-09-29",
           "deaths": 2961
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1449440,
+          "confirmed": 1449562,
           "date": "2021-09-29",
           "deaths": 27475
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263585,
+          "confirmed": 263634,
           "date": "2021-09-29",
           "deaths": 6795
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225248,
+          "confirmed": 225277,
           "date": "2021-09-29",
           "deaths": 7281
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 406716,
+          "confirmed": 406936,
           "date": "2021-09-29",
           "deaths": 12897
         }
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 553289,
+      "confirmed": 557244,
       "date": "2021-09-29",
-      "deaths": 13453
+      "deaths": 13525
     }
   },
   "Honduras": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459899,
+      "confirmed": 459948,
       "date": "2021-09-29",
-      "deaths": 16193
+      "deaths": 16195
     }
   },
   "Peru": {
@@ -1541,9 +1541,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 150532,
+          "confirmed": 150923,
           "date": "2021-09-29",
-          "deaths": 1856
+          "deaths": 1863
         }
       },
       "Wisconsin": {
