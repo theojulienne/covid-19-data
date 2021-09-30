@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 140889,
+      "confirmed": 141552,
       "date": "2021-09-30",
-      "deaths": 1072
+      "deaths": 1079
     }
   },
   "France": {
@@ -1235,30 +1235,30 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1629922,
+          "confirmed": 1633920,
           "date": "2021-09-30",
-          "deaths": 28918
+          "deaths": 28980
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 447941,
+          "confirmed": 449157,
           "date": "2021-09-30",
-          "deaths": 8173
+          "deaths": 8187
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 169100,
+          "confirmed": 169663,
           "date": "2021-09-30",
-          "deaths": 6584
+          "deaths": 6614
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 618640,
+          "confirmed": 620717,
           "date": "2021-09-30",
-          "deaths": 21798
+          "deaths": 21854
         }
       }
     }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 839219,
       "date": "2021-09-30",
-      "deaths": 11081
+      "deaths": 11085
     }
   },
   "Thailand": {
