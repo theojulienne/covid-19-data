@@ -2,17 +2,17 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 154712,
+        "confirmed": 154757,
         "deaths": 7199,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 154180,
+        "confirmed": 154283,
         "deaths": 7171,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 155093,
+        "confirmed": 155128,
         "deaths": 7201,
         "recovered": 0
       }
@@ -1314,8 +1314,8 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 6798722,
-        "deaths": 114097,
+        "confirmed": 6805130,
+        "deaths": 114148,
         "recovered": 0
       },
       "back_2week": {
@@ -1324,8 +1324,8 @@
         "recovered": 0
       },
       "latest": {
-        "confirmed": 6834025,
-        "deaths": 114394,
+        "confirmed": 6838988,
+        "deaths": 114430,
         "recovered": 0
       },
       "states": {

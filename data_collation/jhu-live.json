@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155128,
+      "confirmed": 155174,
       "date": "2021-09-30",
       "deaths": 7204
     }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6838988,
+      "confirmed": 6843836,
       "date": "2021-09-30",
-      "deaths": 114430
+      "deaths": 114491
     }
   },
   "Georgia": {
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 297197,
+          "confirmed": 297668,
           "date": "2021-09-30",
-          "deaths": 10214
+          "deaths": 10220
         }
       }
     }
@@ -801,9 +801,9 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 456074,
+          "confirmed": 453409,
           "date": "2021-09-30",
-          "deaths": 7931
+          "deaths": 7937
         }
       },
       "Emilia-Romagna": {
@@ -1443,7 +1443,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3281658,
+          "confirmed": 3282264,
           "date": "2021-09-30",
           "deaths": 52017
         }
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 618610,
+          "confirmed": 619576,
           "date": "2021-09-30",
-          "deaths": 11029
+          "deaths": 11040
         }
       },
       "Massachusetts": {
@@ -1485,9 +1485,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 319545,
+          "confirmed": 320232,
           "date": "2021-09-30",
-          "deaths": 5623
+          "deaths": 5651
         }
       },
       "New York": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1741885,
+          "confirmed": 1742787,
           "date": "2021-09-30",
-          "deaths": 24878
+          "deaths": 24892
         }
       },
       "Utah": {
