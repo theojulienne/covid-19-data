@@ -3361,13 +3361,13 @@ var covid19_dataset_latest_totals = {
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 6904255,
-        "deaths": 62065,
+        "confirmed": 6932423,
+        "deaths": 62307,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 6710636,
-        "deaths": 60393,
+        "confirmed": 6738860,
+        "deaths": 60641,
         "recovered": 0
       },
       "latest": {
