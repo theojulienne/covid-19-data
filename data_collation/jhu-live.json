@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 303045,
+      "confirmed": 303783,
       "date": "2021-09-30",
-      "deaths": 17263
+      "deaths": 17294
     }
   },
   "Estonia": {
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 365259,
+      "confirmed": 365994,
       "date": "2021-09-30",
-      "deaths": 9755
+      "deaths": 9777
     }
   },
   "Hungary": {
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150572,
+      "confirmed": 150662,
       "date": "2021-09-30",
-      "deaths": 1912
+      "deaths": 1915
     }
   },
   "Nepal": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3278226,
+          "confirmed": 3279623,
           "date": "2021-09-30",
-          "deaths": 51936
+          "deaths": 51946
         }
       },
       "Florida": {
@@ -1670,9 +1670,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 208912,
+      "confirmed": 209002,
       "date": "2021-09-30",
-      "deaths": 3647
+      "deaths": 3648
     }
   }
 }
