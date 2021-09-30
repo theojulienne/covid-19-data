@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 499648,
+      "confirmed": 500090,
       "date": "2021-09-30",
-      "deaths": 18716
+      "deaths": 18726
     }
   },
   "Bosnia and Herzegovina": {
@@ -513,56 +513,56 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 572238,
+          "confirmed": 572258,
           "date": "2021-09-30",
           "deaths": 10674
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 726312,
+          "confirmed": 728625,
           "date": "2021-09-30",
-          "deaths": 15630
+          "deaths": 15647
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 205251,
+          "confirmed": 205878,
           "date": "2021-09-30",
           "deaths": 3625
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 332014,
+          "confirmed": 332885,
           "date": "2021-09-30",
-          "deaths": 7736
+          "deaths": 7742
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 299121,
+          "confirmed": 300119,
           "date": "2021-09-30",
-          "deaths": 5953
+          "deaths": 5955
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 955827,
+          "confirmed": 958343,
           "date": "2021-09-30",
-          "deaths": 17802
+          "deaths": 17813
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 180423,
+          "confirmed": 180436,
           "date": "2021-09-30",
           "deaths": 3993
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 297159,
+          "confirmed": 297197,
           "date": "2021-09-30",
           "deaths": 10214
         }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 958170,
+      "confirmed": 960578,
       "date": "2021-09-30",
       "deaths": 15907
     }
