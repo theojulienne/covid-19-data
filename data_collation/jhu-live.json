@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 409525,
           "date": "2021-09-30",
-          "deaths": 11369
+          "deaths": 11371
         }
       }
     }
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 557244,
+      "confirmed": 560315,
       "date": "2021-09-30",
-      "deaths": 13525
+      "deaths": 13564
     }
   },
   "Honduras": {
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 167678,
           "date": "2021-09-30",
-          "deaths": 1258
+          "deaths": 1260
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 199308,
+          "confirmed": 199571,
           "date": "2021-09-30",
-          "deaths": 2966
+          "deaths": 2969
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 375484,
           "date": "2021-09-30",
-          "deaths": 2908
+          "deaths": 2920
         }
       }
     }
@@ -1513,9 +1513,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 174141,
+          "confirmed": 174478,
           "date": "2021-09-30",
-          "deaths": 3911
+          "deaths": 3915
         }
       },
       "Tennessee": {
@@ -1605,30 +1605,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6617892,
+          "confirmed": 6646963,
           "date": "2021-09-30",
-          "deaths": 119513
+          "deaths": 119600
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 237137,
+          "confirmed": 238300,
           "date": "2021-09-30",
-          "deaths": 2554
+          "deaths": 2556
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 563326,
+          "confirmed": 566231,
           "date": "2021-09-30",
-          "deaths": 8579
+          "deaths": 8614
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 352939,
+          "confirmed": 355542,
           "date": "2021-09-30",
-          "deaths": 5879
+          "deaths": 5892
         }
       }
     }
