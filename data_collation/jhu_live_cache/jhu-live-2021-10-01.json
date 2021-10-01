@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 163229,
+          "confirmed": 163458,
           "date": "2021-10-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 167264,
+          "confirmed": 167637,
           "date": "2021-10-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 140385,
+          "confirmed": 140556,
           "date": "2021-10-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 173527,
+          "confirmed": 173744,
           "date": "2021-10-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 149732,
+          "confirmed": 150110,
           "date": "2021-10-01",
           "deaths": 0
         }
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 303783,
+      "confirmed": 304524,
       "date": "2021-10-01",
-      "deaths": 17294
+      "deaths": 17331
     }
   },
   "Estonia": {
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 960578,
+      "confirmed": 962842,
       "date": "2021-10-01",
       "deaths": 15907
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 311289,
+      "confirmed": 313773,
       "date": "2021-10-01",
-      "deaths": 2481
+      "deaths": 2497
     }
   },
   "Kosovo": {
@@ -1150,32 +1150,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 173796,
+          "confirmed": 174017,
           "date": "2021-10-01",
-          "deaths": 5537
+          "deaths": 5547
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 431092,
+          "confirmed": 431666,
           "date": "2021-10-01",
-          "deaths": 12617
+          "deaths": 12637
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 457458,
+          "confirmed": 457928,
           "date": "2021-10-01",
-          "deaths": 7382
+          "deaths": 7407
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 466851,
+      "confirmed": 467113,
       "date": "2021-10-01",
-      "deaths": 7223
+      "deaths": 7228
     }
   },
   "Paraguay": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3283248,
+          "confirmed": 3284758,
           "date": "2021-10-01",
-          "deaths": 52032
+          "deaths": 52040
         }
       },
       "Florida": {
