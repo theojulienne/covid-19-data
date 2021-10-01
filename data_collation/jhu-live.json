@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 594746,
+          "confirmed": 594798,
           "date": "2021-10-01",
           "deaths": 9792
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 410180,
+          "confirmed": 410823,
           "date": "2021-10-01",
           "deaths": 11377
         }
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 560315,
+      "confirmed": 563257,
       "date": "2021-10-01",
-      "deaths": 13564
+      "deaths": 13625
     }
   },
   "Honduras": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411655,
+      "confirmed": 411690,
       "date": "2021-10-01",
-      "deaths": 2449
+      "deaths": 2450
     }
   },
   "Kyrgyzstan": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 933071,
+      "confirmed": 934007,
       "date": "2021-10-01",
-      "deaths": 14267
+      "deaths": 14290
     }
   },
   "Mozambique": {
@@ -1293,9 +1293,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2902672,
+      "confirmed": 2904307,
       "date": "2021-10-01",
-      "deaths": 87626
+      "deaths": 87705
     }
   },
   "Spain": {
@@ -1548,7 +1548,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 142712,
+          "confirmed": 143120,
           "date": "2021-10-01",
           "deaths": 1548
         }
@@ -1670,9 +1670,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209046,
+      "confirmed": 209114,
       "date": "2021-10-01",
-      "deaths": 3648
+      "deaths": 3649
     }
   }
 }
