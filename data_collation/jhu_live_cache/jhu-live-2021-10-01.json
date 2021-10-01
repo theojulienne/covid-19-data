@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7124654,
+      "confirmed": 7153527,
       "date": "2021-10-01",
-      "deaths": 63827
+      "deaths": 64037
     }
   },
   "US": {
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1746566,
+          "confirmed": 1746732,
           "date": "2021-10-01",
-          "deaths": 24998
+          "deaths": 25102
         }
       },
       "Utah": {
