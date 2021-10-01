@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 795061,
+      "confirmed": 795959,
       "date": "2021-10-01",
-      "deaths": 11135
+      "deaths": 11148
     }
   },
   "Netherlands": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 236643,
+      "confirmed": 236735,
       "date": "2021-10-01",
       "deaths": 606
     }
@@ -1413,16 +1413,16 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 840363,
+      "confirmed": 841571,
       "date": "2021-10-01",
       "deaths": 11092
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 1603475,
+      "confirmed": 1615229,
       "date": "2021-10-01",
-      "deaths": 16727
+      "deaths": 16850
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 403716,
+      "confirmed": 405056,
       "date": "2021-10-01",
-      "deaths": 4098
+      "deaths": 4120
     }
   },
   "Zambia": {
