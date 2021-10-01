@@ -1,16 +1,16 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155174,
+      "confirmed": 155191,
       "date": "2021-10-01",
-      "deaths": 7204
+      "deaths": 7206
     }
   },
   "Albania": {
     "live": {
-      "confirmed": 170131,
+      "confirmed": 170778,
       "date": "2021-10-01",
-      "deaths": 2698
+      "deaths": 2705
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 594657,
+          "confirmed": 594727,
           "date": "2021-10-01",
           "deaths": 9792
         }
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 366405,
+      "confirmed": 366702,
       "date": "2021-10-01",
-      "deaths": 9801
+      "deaths": 9824
     }
   },
   "Hungary": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 389932,
+      "confirmed": 390989,
       "date": "2021-10-01",
       "deaths": 5249
     }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 195848,
+          "confirmed": 197065,
           "date": "2021-10-01",
-          "deaths": 3305
+          "deaths": 3322
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 197974,
+          "confirmed": 198846,
           "date": "2021-10-01",
-          "deaths": 2221
+          "deaths": 2238
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 209624,
+          "confirmed": 212037,
           "date": "2021-10-01",
-          "deaths": 836
+          "deaths": 861
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 677664,
+          "confirmed": 679232,
           "date": "2021-10-01",
-          "deaths": 9357
+          "deaths": 9372
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 186059,
+          "confirmed": 186348,
           "date": "2021-10-01",
-          "deaths": 2487
+          "deaths": 2494
         }
       }
     }
@@ -1260,13 +1260,6 @@
           "date": "2021-10-01",
           "deaths": 21909
         }
-      },
-      "Sverdlovsk Oblast": {
-        "live": {
-          "confirmed": 139462,
-          "date": "2021-10-01",
-          "deaths": 6330
-        }
       }
     }
   },
@@ -1450,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3145405,
+          "confirmed": 3286782,
           "date": "2021-10-01",
-          "deaths": 50089
+          "deaths": 52087
         }
       },
       "Florida": {
@@ -1485,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 144695,
+          "confirmed": 145233,
           "date": "2021-10-01",
-          "deaths": 1877
+          "deaths": 1879
         }
       },
       "Nevada": {
@@ -1506,9 +1499,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 150490,
+          "confirmed": 150845,
           "date": "2021-10-01",
-          "deaths": 1162
+          "deaths": 1166
         }
       },
       "Ohio": {
@@ -1520,9 +1513,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 174490,
+          "confirmed": 174860,
           "date": "2021-10-01",
-          "deaths": 3915
+          "deaths": 3916
         }
       },
       "Tennessee": {
@@ -1534,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1745780,
+          "confirmed": 1746566,
           "date": "2021-10-01",
-          "deaths": 24981
+          "deaths": 24998
         }
       },
       "Utah": {
