@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 746490,
           "date": "2021-10-01",
-          "deaths": 16063
+          "deaths": 16072
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 321129,
           "date": "2021-10-01",
-          "deaths": 9453
+          "deaths": 9457
         }
       },
       "Bolivar": {
@@ -392,14 +392,14 @@
         "live": {
           "confirmed": 1449715,
           "date": "2021-10-01",
-          "deaths": 27476
+          "deaths": 27480
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 263643,
           "date": "2021-10-01",
-          "deaths": 6796
+          "deaths": 6797
         }
       },
       "Santander": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 407187,
           "date": "2021-10-01",
-          "deaths": 12902
+          "deaths": 12905
         }
       }
     }
