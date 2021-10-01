@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 500090,
+      "confirmed": 500445,
       "date": "2021-10-01",
-      "deaths": 18726
+      "deaths": 18735
     }
   },
   "Bosnia and Herzegovina": {
@@ -1649,9 +1649,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 367672,
+      "confirmed": 368968,
       "date": "2021-10-01",
-      "deaths": 4454
+      "deaths": 4469
     }
   },
   "Vietnam": {
