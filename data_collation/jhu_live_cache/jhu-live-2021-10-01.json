@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 234775,
+      "confirmed": 235536,
       "date": "2021-10-01",
-      "deaths": 10606
+      "deaths": 10635
     }
   },
   "Botswana": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 594727,
+          "confirmed": 594746,
           "date": "2021-10-01",
           "deaths": 9792
         }
@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 359047,
+      "confirmed": 359597,
       "date": "2021-10-01",
-      "deaths": 4046
+      "deaths": 4049
     }
   },
   "Ecuador": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6843836,
+      "confirmed": 6848693,
       "date": "2021-10-01",
-      "deaths": 114491
+      "deaths": 114538
     }
   },
   "Georgia": {
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 294392,
+      "confirmed": 295681,
       "date": "2021-10-01",
-      "deaths": 6777
+      "deaths": 6803
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 191408,
+      "confirmed": 191820,
       "date": "2021-10-01",
-      "deaths": 6668
+      "deaths": 6683
     }
   },
   "Norway": {
@@ -1302,81 +1302,81 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 801687,
+          "confirmed": 802007,
           "date": "2021-10-01",
-          "deaths": 11122
+          "deaths": 11136
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 160838,
+          "confirmed": 160943,
           "date": "2021-10-01",
-          "deaths": 3815
+          "deaths": 3816
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 510188,
+          "confirmed": 510366,
           "date": "2021-10-01",
-          "deaths": 7760
+          "deaths": 7762
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 237630,
+          "confirmed": 237754,
           "date": "2021-10-01",
-          "deaths": 6440
+          "deaths": 6445
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 299315,
+          "confirmed": 299381,
           "date": "2021-10-01",
-          "deaths": 7310
+          "deaths": 7312
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 916409,
+          "confirmed": 917188,
           "date": "2021-10-01",
-          "deaths": 15669
+          "deaths": 15673
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 186495,
+          "confirmed": 186537,
           "date": "2021-10-01",
-          "deaths": 2634
+          "deaths": 2635
         }
       },
       "Madrid": {
         "live": {
           "confirmed": 890839,
           "date": "2021-10-01",
-          "deaths": 16096
+          "deaths": 16101
         }
       },
       "Murcia": {
         "live": {
-          "confirmed": 140806,
+          "confirmed": 140867,
           "date": "2021-10-01",
-          "deaths": 1728
+          "deaths": 1731
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 260392,
+          "confirmed": 260511,
           "date": "2021-10-01",
-          "deaths": 4932
+          "deaths": 4940
         }
       }
     }
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 517377,
+      "confirmed": 518775,
       "date": "2021-10-01",
-      "deaths": 12906
+      "deaths": 12964
     }
   },
   "Sweden": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 619576,
+          "confirmed": 620602,
           "date": "2021-10-01",
-          "deaths": 11040
+          "deaths": 11048
         }
       },
       "Massachusetts": {
@@ -1485,16 +1485,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 320232,
+          "confirmed": 320777,
           "date": "2021-10-01",
-          "deaths": 5651
+          "deaths": 5660
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1581478,
+          "confirmed": 1582889,
           "date": "2021-10-01",
-          "deaths": 41456
+          "deaths": 41478
         }
       },
       "North Carolina": {
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 156085,
+          "confirmed": 156600,
           "date": "2021-10-01",
-          "deaths": 1578
+          "deaths": 1602
         }
       },
       "Pennsylvania": {
