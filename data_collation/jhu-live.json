@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275057,
+      "confirmed": 275130,
       "date": "2021-10-01",
       "deaths": 1389
     }
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 298172,
+          "confirmed": 299802,
           "date": "2021-10-01",
-          "deaths": 2717
+          "deaths": 2731
         }
       },
       "British Columbia": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3286782,
+          "confirmed": 3287108,
           "date": "2021-10-01",
-          "deaths": 52087
+          "deaths": 52088
         }
       },
       "Florida": {
@@ -1464,16 +1464,16 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 152657,
+          "confirmed": 152899,
           "date": "2021-10-01",
-          "deaths": 3871
+          "deaths": 3873
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 186149,
+          "confirmed": 187159,
           "date": "2021-10-01",
-          "deaths": 5402
+          "deaths": 5420
         }
       },
       "Minnesota": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1747228,
+          "confirmed": 1747604,
           "date": "2021-10-01",
           "deaths": 25102
         }

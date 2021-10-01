@@ -367,17 +367,17 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 274524,
+        "confirmed": 274614,
         "deaths": 1388,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 273977,
+        "confirmed": 274041,
         "deaths": 1388,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 274981,
+        "confirmed": 275057,
         "deaths": 1389,
         "recovered": 0
       }
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 296466,
-          "deaths": 2697
+          "confirmed": 298172,
+          "deaths": 2717
         },
         "British Columbia": {
           "confirmed": 186245,
