@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 595393,
+          "confirmed": 595471,
           "date": "2021-10-02",
-          "deaths": 9799
+          "deaths": 9800
         }
       },
       "Quebec": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 934007,
+      "confirmed": 934828,
       "date": "2021-10-02",
-      "deaths": 14290
+      "deaths": 14315
     }
   },
   "Mozambique": {
@@ -1381,9 +1381,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 518775,
+      "confirmed": 519630,
       "date": "2021-10-02",
-      "deaths": 12964
+      "deaths": 13019
     }
   },
   "Sweden": {
