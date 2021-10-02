@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1692412,
+      "confirmed": 1693234,
       "date": "2021-10-02",
-      "deaths": 30475
+      "deaths": 30477
     }
   },
   "Denmark": {
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 207063,
+          "confirmed": 207070,
           "date": "2021-10-02",
           "deaths": 3628
         }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 333690,
+      "confirmed": 335801,
       "date": "2021-10-02",
-      "deaths": 5014
+      "deaths": 5041
     }
   },
   "Malaysia": {
