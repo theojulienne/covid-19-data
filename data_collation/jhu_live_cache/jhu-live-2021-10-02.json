@@ -555,7 +555,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 181190,
+          "confirmed": 181338,
           "date": "2021-10-02",
           "deaths": 3998
         }
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4216728,
+      "confirmed": 4218142,
       "date": "2021-10-02",
-      "deaths": 142026
+      "deaths": 142115
     }
   },
   "Iran": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1244555,
+      "confirmed": 1257145,
       "date": "2021-10-02",
-      "deaths": 37210
+      "deaths": 37394
     }
   },
   "Russia": {
@@ -1603,7 +1603,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 736268,
+      "confirmed": 736524,
       "date": "2021-10-02",
       "deaths": 2100
     }
