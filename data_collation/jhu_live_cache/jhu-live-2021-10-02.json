@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 410823,
+          "confirmed": 411463,
           "date": "2021-10-02",
-          "deaths": 11377
+          "deaths": 11382
         }
       }
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 347084,
+      "confirmed": 347972,
       "date": "2021-10-02",
-      "deaths": 5630
+      "deaths": 5675
     }
   },
   "Finland": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459967,
+      "confirmed": 459997,
       "date": "2021-10-02",
-      "deaths": 16198
+      "deaths": 16200
     }
   },
   "Peru": {
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2904307,
+      "confirmed": 2905613,
       "date": "2021-10-02",
-      "deaths": 87705
+      "deaths": 87753
     }
   },
   "Spain": {
@@ -1434,9 +1434,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7153527,
+      "confirmed": 7181500,
       "date": "2021-10-02",
-      "deaths": 64037
+      "deaths": 64240
     }
   },
   "US": {
@@ -1513,7 +1513,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 156600,
+          "confirmed": 157071,
           "date": "2021-10-02",
           "deaths": 1602
         }
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1748509,
+          "confirmed": 1748627,
           "date": "2021-10-02",
-          "deaths": 25102
+          "deaths": 25196
         }
       },
       "Utah": {
