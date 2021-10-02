@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 304524,
+      "confirmed": 305269,
       "date": "2021-10-02",
-      "deaths": 17331
+      "deaths": 17367
     }
   },
   "Estonia": {
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150723,
+      "confirmed": 150759,
       "date": "2021-10-02",
-      "deaths": 1917
+      "deaths": 1918
     }
   },
   "Nepal": {
@@ -1443,7 +1443,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3287908,
+          "confirmed": 3289371,
           "date": "2021-10-02",
           "deaths": 52091
         }
