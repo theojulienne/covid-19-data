@@ -478,7 +478,7 @@
     "live": {
       "confirmed": 157728,
       "date": "2021-10-02",
-      "deaths": 1357
+      "deaths": 1360
     }
   },
   "Ethiopia": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 159418,
+      "confirmed": 160608,
       "date": "2021-10-02",
-      "deaths": 2721
+      "deaths": 2731
     }
   },
   "Lebanon": {
@@ -1420,9 +1420,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1615229,
+      "confirmed": 1626604,
       "date": "2021-10-02",
-      "deaths": 16850
+      "deaths": 16937
     }
   },
   "Tunisia": {
