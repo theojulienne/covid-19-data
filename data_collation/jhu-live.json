@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 203517,
+      "confirmed": 203657,
       "date": "2021-10-02",
-      "deaths": 5815
+      "deaths": 5819
     }
   },
   "Argentina": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 249725,
+      "confirmed": 250023,
       "date": "2021-10-02",
-      "deaths": 5128
+      "deaths": 5131
     }
   },
   "Korea, South": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411690,
+      "confirmed": 411731,
       "date": "2021-10-02",
-      "deaths": 2450
+      "deaths": 2451
     }
   },
   "Kyrgyzstan": {
@@ -1067,7 +1067,7 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150759,
+      "confirmed": 150790,
       "date": "2021-10-02",
       "deaths": 1918
     }
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1748627,
+          "confirmed": 1750750,
           "date": "2021-10-02",
           "deaths": 25196
         }

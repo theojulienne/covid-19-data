@@ -1161,18 +1161,18 @@
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 202283,
-        "deaths": 5748,
+        "confirmed": 202449,
+        "deaths": 5758,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 200989,
-        "deaths": 5651,
+        "confirmed": 201224,
+        "deaths": 5670,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 203359,
-        "deaths": 5812,
+        "confirmed": 203517,
+        "deaths": 5815,
         "recovered": 0
       }
     },
@@ -1938,18 +1938,18 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 247675,
-        "deaths": 5045,
+        "confirmed": 248069,
+        "deaths": 5082,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 245337,
-        "deaths": 4961,
+        "confirmed": 245781,
+        "deaths": 4965,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 249434,
-        "deaths": 5123,
+        "confirmed": 249725,
+        "deaths": 5128,
         "recovered": 0
       }
     },
@@ -2023,18 +2023,18 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 411358,
-        "deaths": 2443,
+        "confirmed": 411406,
+        "deaths": 2444,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 411018,
-        "deaths": 2436,
+        "confirmed": 411081,
+        "deaths": 2437,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 411655,
-        "deaths": 2449,
+        "confirmed": 411690,
+        "deaths": 2450,
         "recovered": 0
       }
     },
@@ -2431,17 +2431,17 @@
     },
     "MOZ": {
       "back_1week": {
-        "confirmed": 150370,
+        "confirmed": 150439,
         "deaths": 1907,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 149804,
+        "confirmed": 149906,
         "deaths": 1902,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 150723,
+        "confirmed": 150759,
         "deaths": 1917,
         "recovered": 0
       }
