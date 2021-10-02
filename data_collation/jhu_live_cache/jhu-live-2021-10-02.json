@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 163458,
+          "confirmed": 163792,
           "date": "2021-10-02",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 167637,
+          "confirmed": 168025,
           "date": "2021-10-02",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 140556,
+          "confirmed": 140719,
           "date": "2021-10-02",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 173744,
+          "confirmed": 173941,
           "date": "2021-10-02",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 150110,
+          "confirmed": 150504,
           "date": "2021-10-02",
           "deaths": 0
         }
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 366702,
+      "confirmed": 367275,
       "date": "2021-10-02",
-      "deaths": 9824
+      "deaths": 9854
     }
   },
   "Hungary": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 313773,
+      "confirmed": 316020,
       "date": "2021-10-02",
-      "deaths": 2497
+      "deaths": 2504
     }
   },
   "Kosovo": {
