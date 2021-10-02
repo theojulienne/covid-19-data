@@ -513,58 +513,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 575285,
+          "confirmed": 575303,
           "date": "2021-10-02",
           "deaths": 10691
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 730812,
+          "confirmed": 732580,
           "date": "2021-10-02",
-          "deaths": 15662
+          "deaths": 15667
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 206549,
+          "confirmed": 207063,
           "date": "2021-10-02",
-          "deaths": 3627
+          "deaths": 3628
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 333643,
+          "confirmed": 334204,
           "date": "2021-10-02",
-          "deaths": 7749
+          "deaths": 7752
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 300792,
+          "confirmed": 301361,
           "date": "2021-10-02",
-          "deaths": 5957
+          "deaths": 5962
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 960103,
+          "confirmed": 961527,
           "date": "2021-10-02",
-          "deaths": 17833
+          "deaths": 17851
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 181176,
+          "confirmed": 181190,
           "date": "2021-10-02",
           "deaths": 3998
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 298218,
+          "confirmed": 298224,
           "date": "2021-10-02",
-          "deaths": 10227
+          "deaths": 10229
         }
       }
     }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 962842,
+      "confirmed": 965080,
       "date": "2021-10-02",
       "deaths": 15907
     }
@@ -1009,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 947232,
+          "confirmed": 948222,
           "date": "2021-10-02",
-          "deaths": 38935
+          "deaths": 38977
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 173842,
+          "confirmed": 174641,
           "date": "2021-10-02",
-          "deaths": 12088
+          "deaths": 12102
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 154400,
+          "confirmed": 154803,
           "date": "2021-10-02",
-          "deaths": 16159
+          "deaths": 16215
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 362226,
+          "confirmed": 362908,
           "date": "2021-10-02",
-          "deaths": 42534
+          "deaths": 42617
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 196970,
+          "confirmed": 197356,
           "date": "2021-10-02",
-          "deaths": 12409
+          "deaths": 12438
         }
       }
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 467113,
+      "confirmed": 467338,
       "date": "2021-10-02",
-      "deaths": 7228
+      "deaths": 7230
     }
   },
   "Paraguay": {
