@@ -1053,9 +1053,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 306603,
+      "confirmed": 309064,
       "date": "2021-10-02",
-      "deaths": 1295
+      "deaths": 1314
     }
   },
   "Morocco": {
@@ -1649,9 +1649,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 368968,
+      "confirmed": 370368,
       "date": "2021-10-02",
-      "deaths": 4469
+      "deaths": 4483
     }
   },
   "Vietnam": {
