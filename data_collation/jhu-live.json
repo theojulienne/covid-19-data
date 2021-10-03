@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 542077,
+      "confirmed": 543976,
       "date": "2021-10-03",
-      "deaths": 4174
+      "deaths": 4188
     }
   },
   "Belgium": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 796618,
+      "confirmed": 797192,
       "date": "2021-10-03",
-      "deaths": 11157
+      "deaths": 11164
     }
   },
   "Netherlands": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 236834,
+      "confirmed": 236913,
       "date": "2021-10-03",
       "deaths": 606
     }
@@ -1670,9 +1670,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 405780,
+      "confirmed": 406652,
       "date": "2021-10-03",
-      "deaths": 4132
+      "deaths": 4144
     }
   },
   "Zambia": {
