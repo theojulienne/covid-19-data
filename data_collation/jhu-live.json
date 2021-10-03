@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275175,
+      "confirmed": 275237,
       "date": "2021-10-03",
       "deaths": 1389
     }
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 747154,
+          "confirmed": 747488,
           "date": "2021-10-03",
           "deaths": 16094
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 321879,
+          "confirmed": 322154,
           "date": "2021-10-03",
           "deaths": 9461
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156451,
+          "confirmed": 156498,
           "date": "2021-10-03",
           "deaths": 2963
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1450109,
+          "confirmed": 1450239,
           "date": "2021-10-03",
           "deaths": 27483
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263706,
+          "confirmed": 263735,
           "date": "2021-10-03",
           "deaths": 6800
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225340,
+          "confirmed": 225362,
           "date": "2021-10-03",
           "deaths": 7287
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 407513,
+          "confirmed": 407704,
           "date": "2021-10-03",
           "deaths": 12916
         }
@@ -1443,9 +1443,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 698680,
+          "confirmed": 700319,
           "date": "2021-10-03",
-          "deaths": 11551
+          "deaths": 11558
         }
       },
       "California": {
