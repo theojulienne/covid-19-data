@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 203657,
+      "confirmed": 203789,
       "date": "2021-10-03",
-      "deaths": 5819
+      "deaths": 5822
     }
   },
   "Argentina": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 347972,
+      "confirmed": 348669,
       "date": "2021-10-03",
-      "deaths": 5675
+      "deaths": 5722
     }
   },
   "Finland": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411731,
+      "confirmed": 411803,
       "date": "2021-10-03",
-      "deaths": 2451
+      "deaths": 2452
     }
   },
   "Kyrgyzstan": {
