@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5258466,
+      "confirmed": 5259352,
       "date": "2021-10-02",
-      "deaths": 115225
+      "deaths": 115239
     }
   },
   "Armenia": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 504253,
+      "confirmed": 505481,
       "date": "2021-10-02",
-      "deaths": 20969
+      "deaths": 20995
     }
   },
   "Burma": {
@@ -369,51 +369,51 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 746849,
+          "confirmed": 747154,
           "date": "2021-10-02",
-          "deaths": 16086
+          "deaths": 16094
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 321518,
+          "confirmed": 321879,
           "date": "2021-10-02",
-          "deaths": 9459
+          "deaths": 9461
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156402,
+          "confirmed": 156451,
           "date": "2021-10-02",
           "deaths": 2963
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1449887,
+          "confirmed": 1450109,
           "date": "2021-10-02",
-          "deaths": 27482
+          "deaths": 27483
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263670,
+          "confirmed": 263706,
           "date": "2021-10-02",
-          "deaths": 6797
+          "deaths": 6800
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225319,
+          "confirmed": 225340,
           "date": "2021-10-02",
-          "deaths": 7285
+          "deaths": 7287
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 407383,
+          "confirmed": 407513,
           "date": "2021-10-02",
-          "deaths": 12910
+          "deaths": 12916
         }
       }
     }
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 624743,
+      "confirmed": 625445,
       "date": "2021-10-02",
-      "deaths": 8333
+      "deaths": 8341
     }
   },
   "Libya": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 197062,
+          "confirmed": 198186,
           "date": "2021-10-02",
-          "deaths": 3322
+          "deaths": 3333
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 198845,
+          "confirmed": 199629,
           "date": "2021-10-02",
-          "deaths": 2238
+          "deaths": 2251
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 212037,
+          "confirmed": 214158,
           "date": "2021-10-02",
-          "deaths": 861
+          "deaths": 870
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 679232,
+          "confirmed": 680618,
           "date": "2021-10-02",
-          "deaths": 9372
+          "deaths": 9385
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 186347,
+          "confirmed": 186518,
           "date": "2021-10-02",
-          "deaths": 2494
+          "deaths": 2498
         }
       }
     }
@@ -1427,9 +1427,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 707548,
+      "confirmed": 707983,
       "date": "2021-10-02",
-      "deaths": 24901
+      "deaths": 24921
     }
   },
   "Turkey": {
@@ -1450,9 +1450,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3150158,
+          "confirmed": 3151526,
           "date": "2021-10-02",
-          "deaths": 50127
+          "deaths": 50144
         }
       },
       "Florida": {
@@ -1499,9 +1499,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1584243,
+          "confirmed": 1585087,
           "date": "2021-10-02",
-          "deaths": 41486
+          "deaths": 41488
         }
       },
       "North Carolina": {
