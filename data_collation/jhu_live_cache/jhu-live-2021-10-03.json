@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 595780,
+          "confirmed": 595913,
           "date": "2021-10-03",
           "deaths": 9800
         }
@@ -870,7 +870,7 @@
         "live": {
           "confirmed": 167964,
           "date": "2021-10-03",
-          "deaths": 1267
+          "deaths": 1269
         }
       },
       "Osaka": {
@@ -884,7 +884,7 @@
         "live": {
           "confirmed": 376041,
           "date": "2021-10-03",
-          "deaths": 2947
+          "deaths": 2954
         }
       }
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 191820,
+      "confirmed": 192478,
       "date": "2021-10-03",
-      "deaths": 6683
+      "deaths": 6704
     }
   },
   "Norway": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2580173,
+      "confirmed": 2593399,
       "date": "2021-10-03",
-      "deaths": 38656
+      "deaths": 38768
     }
   },
   "Poland": {
@@ -1381,9 +1381,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 519630,
+      "confirmed": 520432,
       "date": "2021-10-03",
-      "deaths": 13019
+      "deaths": 13059
     }
   },
   "Sweden": {
