@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 411463,
+          "confirmed": 411962,
           "date": "2021-10-03",
-          "deaths": 11382
+          "deaths": 11383
         }
       }
     }
@@ -455,7 +455,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 360257,
+      "confirmed": 360830,
       "date": "2021-10-03",
       "deaths": 4055
     }
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 296672,
+      "confirmed": 297232,
       "date": "2021-10-03",
-      "deaths": 6829
+      "deaths": 6854
     }
   },
   "Mongolia": {
@@ -1180,7 +1180,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 459997,
+      "confirmed": 460022,
       "date": "2021-10-03",
       "deaths": 16200
     }
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1750750,
+          "confirmed": 1750902,
           "date": "2021-10-03",
-          "deaths": 25196
+          "deaths": 25247
         }
       },
       "Utah": {
