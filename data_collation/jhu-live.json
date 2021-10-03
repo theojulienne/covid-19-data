@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 171327,
+      "confirmed": 171794,
       "date": "2021-10-03",
-      "deaths": 2710
+      "deaths": 2713
     }
   },
   "Algeria": {
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 887350,
+      "confirmed": 891447,
       "date": "2021-10-03",
-      "deaths": 7534
+      "deaths": 7580
     }
   },
   "Czechia": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6853641,
+      "confirmed": 6857385,
       "date": "2021-10-03",
-      "deaths": 114568
+      "deaths": 114577
     }
   },
   "Georgia": {
@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 565566,
+      "confirmed": 570453,
       "date": "2021-10-03",
-      "deaths": 13700
+      "deaths": 13730
     }
   },
   "Honduras": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 198186,
+          "confirmed": 199167,
           "date": "2021-10-03",
-          "deaths": 3333
+          "deaths": 3344
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 199629,
+          "confirmed": 200396,
           "date": "2021-10-03",
-          "deaths": 2251
+          "deaths": 2265
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 214158,
+          "confirmed": 215576,
           "date": "2021-10-03",
-          "deaths": 870
+          "deaths": 882
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 680618,
+          "confirmed": 681618,
           "date": "2021-10-03",
-          "deaths": 9385
+          "deaths": 9393
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 186518,
+          "confirmed": 186719,
           "date": "2021-10-03",
-          "deaths": 2498
+          "deaths": 2499
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 934828,
+      "confirmed": 935332,
       "date": "2021-10-03",
-      "deaths": 14315
+      "deaths": 14339
     }
   },
   "Mozambique": {
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2905613,
+      "confirmed": 2906422,
       "date": "2021-10-03",
-      "deaths": 87753
+      "deaths": 87780
     }
   },
   "Spain": {
@@ -1434,9 +1434,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7181500,
+      "confirmed": 7208851,
       "date": "2021-10-03",
-      "deaths": 64240
+      "deaths": 64434
     }
   },
   "US": {
@@ -1513,7 +1513,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 157071,
+          "confirmed": 157296,
           "date": "2021-10-03",
           "deaths": 1602
         }
