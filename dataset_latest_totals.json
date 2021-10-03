@@ -1887,18 +1887,18 @@
     },
     "JOR": {
       "back_1week": {
-        "confirmed": 818358,
-        "deaths": 10653,
+        "confirmed": 818796,
+        "deaths": 10669,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 812253,
-        "deaths": 10594,
+        "confirmed": 812681,
+        "deaths": 10606,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 824697,
-        "deaths": 10727,
+        "confirmed": 825245,
+        "deaths": 10736,
         "recovered": 0
       }
     },
