@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1557964,
+      "confirmed": 1558758,
       "date": "2021-10-04",
-      "deaths": 27573
+      "deaths": 27591
     }
   },
   "Belarus": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 360031,
+      "confirmed": 360411,
       "date": "2021-10-04",
-      "deaths": 2663
+      "deaths": 2664
     }
   },
   "Dominican Republic": {
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 735064,
+          "confirmed": 735132,
           "date": "2021-10-04",
-          "deaths": 15678
+          "deaths": 15679
         }
       },
       "Berlin": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5624128,
+      "confirmed": 5638735,
       "date": "2021-10-04",
-      "deaths": 121109
+      "deaths": 121347
     }
   },
   "Iraq": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 797192,
+      "confirmed": 798004,
       "date": "2021-10-04",
-      "deaths": 11164
+      "deaths": 11174
     }
   },
   "Netherlands": {
@@ -1420,9 +1420,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 841573,
+      "confirmed": 844209,
       "date": "2021-10-04",
-      "deaths": 11096
+      "deaths": 11098
     }
   },
   "Thailand": {
