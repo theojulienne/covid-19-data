@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 596307,
+          "confirmed": 596355,
           "date": "2021-10-04",
           "deaths": 9802
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 411962,
+          "confirmed": 412364,
           "date": "2021-10-04",
           "deaths": 11389
         }
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 297232,
+      "confirmed": 298310,
       "date": "2021-10-04",
-      "deaths": 6854
+      "deaths": 6877
     }
   },
   "Mongolia": {
@@ -1254,13 +1254,6 @@
           "deaths": 6735
         }
       },
-      "Rostov Oblast": {
-        "live": {
-          "confirmed": 140650,
-          "date": "2021-10-04",
-          "deaths": 6923
-        }
-      },
       "Saint Petersburg": {
         "live": {
           "confirmed": 630153,
@@ -1307,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2906422,
+      "confirmed": 2906851,
       "date": "2021-10-04",
-      "deaths": 87780
+      "deaths": 87819
     }
   },
   "Spain": {
@@ -1485,9 +1478,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 187159,
+          "confirmed": 188328,
           "date": "2021-10-04",
-          "deaths": 5420
+          "deaths": 5426
         }
       },
       "Minnesota": {
@@ -1499,9 +1492,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 320777,
+          "confirmed": 322066,
           "date": "2021-10-04",
-          "deaths": 5660
+          "deaths": 5677
         }
       },
       "New York": {
@@ -1520,7 +1513,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 157296,
+          "confirmed": 157634,
           "date": "2021-10-04",
           "deaths": 1602
         }
@@ -1530,6 +1523,13 @@
           "confirmed": 175486,
           "date": "2021-10-04",
           "deaths": 3919
+        }
+      },
+      "Tennessee": {
+        "live": {
+          "confirmed": 141086,
+          "date": "2021-10-04",
+          "deaths": 2125
         }
       },
       "Texas": {
@@ -1555,9 +1555,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 143120,
+          "confirmed": 144224,
           "date": "2021-10-04",
-          "deaths": 1548
+          "deaths": 1560
         }
       }
     }
