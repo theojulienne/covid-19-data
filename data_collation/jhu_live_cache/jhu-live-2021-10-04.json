@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 318105,
+      "confirmed": 319777,
       "date": "2021-10-04",
-      "deaths": 2507
+      "deaths": 2513
     }
   },
   "Kosovo": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 467565,
+      "confirmed": 467740,
       "date": "2021-10-04",
-      "deaths": 7236
+      "deaths": 7238
     }
   },
   "Paraguay": {
@@ -1656,9 +1656,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 372006,
+      "confirmed": 373332,
       "date": "2021-10-04",
-      "deaths": 4495
+      "deaths": 4510
     }
   },
   "Vietnam": {
