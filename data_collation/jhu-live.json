@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5259352,
+      "confirmed": 5259738,
       "date": "2021-10-03",
-      "deaths": 115239
+      "deaths": 115245
     }
   },
   "Armenia": {
@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 500823,
+      "confirmed": 501179,
       "date": "2021-10-03",
-      "deaths": 18750
+      "deaths": 18762
     }
   },
   "Bosnia and Herzegovina": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 505481,
+      "confirmed": 505994,
       "date": "2021-10-03",
-      "deaths": 20995
+      "deaths": 21038
     }
   },
   "Burma": {
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 509238,
+      "confirmed": 510619,
       "date": "2021-10-03",
-      "deaths": 32762
+      "deaths": 32791
     }
   },
   "Egypt": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 625445,
+      "confirmed": 625974,
       "date": "2021-10-03",
-      "deaths": 8341
+      "deaths": 8348
     }
   },
   "Libya": {
@@ -1642,7 +1642,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 389124,
+      "confirmed": 389185,
       "date": "2021-10-03",
       "deaths": 6057
     }
