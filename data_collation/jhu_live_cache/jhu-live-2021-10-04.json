@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 596676,
+          "confirmed": 596724,
           "date": "2021-10-04",
           "deaths": 9805
         }
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411803,
+      "confirmed": 411855,
       "date": "2021-10-04",
       "deaths": 2452
     }
@@ -1450,7 +1450,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3156658,
+          "confirmed": 3157328,
           "date": "2021-10-04",
           "deaths": 50247
         }
@@ -1499,9 +1499,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1589381,
+          "confirmed": 1590062,
           "date": "2021-10-04",
-          "deaths": 41513
+          "deaths": 41516
         }
       },
       "North Carolina": {
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1753642,
+          "confirmed": 1753894,
           "date": "2021-10-04",
           "deaths": 25306
         }
