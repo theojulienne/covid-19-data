@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 543976,
+      "confirmed": 545843,
       "date": "2021-10-04",
-      "deaths": 4188
+      "deaths": 4200
     }
   },
   "Belgium": {
@@ -478,7 +478,7 @@
     "live": {
       "confirmed": 158895,
       "date": "2021-10-04",
-      "deaths": 1363
+      "deaths": 1370
     }
   },
   "Ethiopia": {
