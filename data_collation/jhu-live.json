@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 596355,
+          "confirmed": 596676,
           "date": "2021-10-04",
-          "deaths": 9802
+          "deaths": 9805
         }
       },
       "Quebec": {
@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1293198,
+      "confirmed": 1293498,
       "date": "2021-10-04",
-      "deaths": 7836
+      "deaths": 7843
     }
   },
   "Italy": {
@@ -1067,9 +1067,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150804,
+      "confirmed": 150807,
       "date": "2021-10-04",
-      "deaths": 1918
+      "deaths": 1919
     }
   },
   "Nepal": {
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1071114,
+      "confirmed": 1071307,
       "date": "2021-10-04",
-      "deaths": 17993
+      "deaths": 18000
     }
   },
   "Qatar": {
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 183169,
+          "confirmed": 184124,
           "date": "2021-10-04",
-          "deaths": 1083
+          "deaths": 1086
         }
       },
       "Washington": {
