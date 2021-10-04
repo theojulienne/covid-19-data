@@ -513,56 +513,56 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 576325,
+          "confirmed": 576811,
           "date": "2021-10-04",
           "deaths": 10691
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 734057,
+          "confirmed": 735064,
           "date": "2021-10-04",
-          "deaths": 15674
+          "deaths": 15678
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 207137,
+          "confirmed": 207160,
           "date": "2021-10-04",
           "deaths": 3628
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 334707,
+          "confirmed": 334885,
           "date": "2021-10-04",
           "deaths": 7753
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 301713,
+          "confirmed": 301879,
           "date": "2021-10-04",
-          "deaths": 5963
+          "deaths": 5964
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 962825,
+          "confirmed": 963166,
           "date": "2021-10-04",
-          "deaths": 17851
+          "deaths": 17852
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 181537,
+          "confirmed": 181544,
           "date": "2021-10-04",
           "deaths": 3999
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 298832,
+          "confirmed": 298837,
           "date": "2021-10-04",
           "deaths": 10229
         }
@@ -578,7 +578,7 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 570453,
+      "confirmed": 566250,
       "date": "2021-10-04",
       "deaths": 13730
     }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 967212,
+      "confirmed": 968975,
       "date": "2021-10-04",
       "deaths": 15907
     }
