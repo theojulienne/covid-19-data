@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 161641,
+      "confirmed": 162120,
       "date": "2021-10-04",
-      "deaths": 2741
+      "deaths": 2743
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 341839,
+      "confirmed": 342558,
       "date": "2021-10-04",
-      "deaths": 4686
+      "deaths": 4702
     }
   },
   "Lithuania": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1265827,
+      "confirmed": 1274119,
       "date": "2021-10-04",
-      "deaths": 37544
+      "deaths": 37677
     }
   },
   "Russia": {
@@ -1603,9 +1603,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 736708,
+      "confirmed": 736897,
       "date": "2021-10-04",
-      "deaths": 2102
+      "deaths": 2103
     }
   },
   "United Kingdom": {
