@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6857385,
+      "confirmed": 6857921,
       "date": "2021-10-04",
-      "deaths": 114577
+      "deaths": 114620
     }
   },
   "Georgia": {
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 968975,
       "date": "2021-10-04",
-      "deaths": 15907
+      "deaths": 16179
     }
   },
   "Kenya": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 935332,
+      "confirmed": 935560,
       "date": "2021-10-04",
-      "deaths": 14339
+      "deaths": 14355
     }
   },
   "Mozambique": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460022,
+      "confirmed": 460041,
       "date": "2021-10-04",
-      "deaths": 16200
+      "deaths": 16201
     }
   },
   "Peru": {
@@ -1441,9 +1441,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7238237,
+      "confirmed": 7267047,
       "date": "2021-10-04",
-      "deaths": 64661
+      "deaths": 64909
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 620602,
+          "confirmed": 622884,
           "date": "2021-10-04",
-          "deaths": 11048
+          "deaths": 11067
         }
       },
       "Massachusetts": {
@@ -1506,16 +1506,16 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1586007,
+          "confirmed": 1589381,
           "date": "2021-10-04",
-          "deaths": 41491
+          "deaths": 41513
         }
       },
       "North Carolina": {
         "live": {
-          "confirmed": 150845,
+          "confirmed": 151771,
           "date": "2021-10-04",
-          "deaths": 1166
+          "deaths": 1167
         }
       },
       "Ohio": {
