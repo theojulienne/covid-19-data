@@ -1768,17 +1768,17 @@
     },
     "IRL": {
       "back_1week": {
-        "confirmed": 383218,
+        "confirmed": 384677,
         "deaths": 5209,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 374143,
+        "confirmed": 375367,
         "deaths": 5179,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 392575,
+        "confirmed": 393626,
         "deaths": 5249,
         "recovered": 0
       }
@@ -3478,7 +3478,7 @@
         "confirmed": 42283701,
         "deaths": 662192,
         "recovered": 10863687,
-        "tested": 2490728
+        "tested": 0
       },
       "states": {
         "AK": {
@@ -3674,11 +3674,11 @@
           "tested": 2350950
         },
         "NH": {
-          "confirmed": 120268,
+          "confirmed": 120763,
           "deaths": 1481,
-          "hospitalized": 5775,
+          "hospitalized": 5822,
           "recovered": 73327,
-          "tested": 2488603
+          "tested": 2490728
         },
         "NJ": {
           "confirmed": 1158178,
