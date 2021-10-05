@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 545843,
+      "confirmed": 547826,
       "date": "2021-10-05",
-      "deaths": 4200
+      "deaths": 4212
     }
   },
   "Belgium": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 596724,
+          "confirmed": 596931,
           "date": "2021-10-05",
-          "deaths": 9805
+          "deaths": 9807
         }
       },
       "Quebec": {
@@ -448,7 +448,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 360411,
+      "confirmed": 360888,
       "date": "2021-10-05",
       "deaths": 2664
     }
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 736139,
+          "confirmed": 736170,
           "date": "2021-10-05",
           "deaths": 15698
         }
@@ -875,7 +875,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 200304,
+          "confirmed": 200404,
           "date": "2021-10-05",
           "deaths": 2976
         }
@@ -1198,7 +1198,7 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2604040,
+      "confirmed": 2613070,
       "date": "2021-10-05",
       "deaths": 38828
     }
@@ -1390,21 +1390,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164575,
+          "confirmed": 164732,
           "date": "2021-10-05",
-          "deaths": 1778
+          "deaths": 1781
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 274675,
+          "confirmed": 275346,
           "date": "2021-10-05",
-          "deaths": 4420
+          "deaths": 4421
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 201570,
+          "confirmed": 201844,
           "date": "2021-10-05",
           "deaths": 2416
         }
@@ -1413,9 +1413,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 845233,
+      "confirmed": 845234,
       "date": "2021-10-05",
-      "deaths": 11106
+      "deaths": 11107
     }
   },
   "Thailand": {
@@ -1677,9 +1677,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209172,
+      "confirmed": 209199,
       "date": "2021-10-05",
-      "deaths": 3649
+      "deaths": 3650
     }
   }
 }
