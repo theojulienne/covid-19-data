@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 501362,
+      "confirmed": 501616,
       "date": "2021-10-05",
-      "deaths": 18764
+      "deaths": 18766
     }
   },
   "Bosnia and Herzegovina": {
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 367275,
+      "confirmed": 368324,
       "date": "2021-10-05",
-      "deaths": 9854
+      "deaths": 9878
     }
   },
   "Hungary": {
