@@ -15,16 +15,16 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 203789,
+      "confirmed": 203915,
       "date": "2021-10-04",
-      "deaths": 5822
+      "deaths": 5826
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 5259738,
+      "confirmed": 5260719,
       "date": "2021-10-04",
-      "deaths": 115245
+      "deaths": 115283
     }
   },
   "Armenia": {
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 747488,
+          "confirmed": 747851,
           "date": "2021-10-04",
           "deaths": 16098
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 322154,
+          "confirmed": 322418,
           "date": "2021-10-04",
           "deaths": 9465
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156498,
+          "confirmed": 156514,
           "date": "2021-10-04",
           "deaths": 2964
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1450239,
+          "confirmed": 1450415,
           "date": "2021-10-04",
           "deaths": 27487
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263735,
+          "confirmed": 263748,
           "date": "2021-10-04",
           "deaths": 6801
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225362,
+          "confirmed": 225384,
           "date": "2021-10-04",
           "deaths": 7287
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 407704,
+          "confirmed": 407796,
           "date": "2021-10-04",
           "deaths": 12921
         }
@@ -455,7 +455,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 360830,
+      "confirmed": 361402,
       "date": "2021-10-04",
       "deaths": 4055
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 348669,
+      "confirmed": 349231,
       "date": "2021-10-04",
-      "deaths": 5722
+      "deaths": 5765
     }
   },
   "Finland": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 192478,
+      "confirmed": 192654,
       "date": "2021-10-04",
-      "deaths": 6704
+      "deaths": 6719
     }
   },
   "Norway": {
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1755566,
+          "confirmed": 1756357,
           "date": "2021-10-04",
           "deaths": 25306
         }
