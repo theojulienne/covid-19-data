@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 486378,
+      "confirmed": 487204,
       "date": "2021-10-05",
-      "deaths": 6584
+      "deaths": 6599
     }
   },
   "Bahrain": {
@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 412364,
           "date": "2021-10-05",
-          "deaths": 11389
+          "deaths": 11397
         }
       }
     }
@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1294701,
+      "confirmed": 1296125,
       "date": "2021-10-05",
-      "deaths": 7843
+      "deaths": 7853
     }
   },
   "Italy": {
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 168092,
           "date": "2021-10-05",
-          "deaths": 1274
+          "deaths": 1276
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 200404,
           "date": "2021-10-05",
-          "deaths": 2976
+          "deaths": 2981
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 376272,
           "date": "2021-10-05",
-          "deaths": 2960
+          "deaths": 2965
         }
       }
     }
@@ -1612,30 +1612,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6752536,
+          "confirmed": 6780567,
           "date": "2021-10-05",
-          "deaths": 119826
+          "deaths": 119966
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 242303,
+          "confirmed": 243512,
           "date": "2021-10-05",
-          "deaths": 2570
+          "deaths": 2573
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 575231,
+          "confirmed": 577282,
           "date": "2021-10-05",
-          "deaths": 8666
+          "deaths": 8687
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 364866,
+          "confirmed": 366624,
           "date": "2021-10-05",
-          "deaths": 5924
+          "deaths": 5926
         }
       }
     }
