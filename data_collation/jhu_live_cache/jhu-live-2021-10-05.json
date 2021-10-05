@@ -50,9 +50,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275279,
+      "confirmed": 275349,
       "date": "2021-10-05",
-      "deaths": 1389
+      "deaths": 1390
     }
   },
   "Bangladesh": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 508800,
+      "confirmed": 511666,
       "date": "2021-10-05",
-      "deaths": 21216
+      "deaths": 21320
     }
   },
   "Burma": {
@@ -1471,9 +1471,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 153466,
+          "confirmed": 153695,
           "date": "2021-10-05",
-          "deaths": 3875
+          "deaths": 3878
         }
       },
       "Michigan": {
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1758254,
+          "confirmed": 1758627,
           "date": "2021-10-05",
           "deaths": 25398
         }
