@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 533873,
+      "confirmed": 537916,
       "date": "2021-10-05",
-      "deaths": 6413
+      "deaths": 6494
     }
   },
   "Croatia": {
@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 206138,
+      "confirmed": 206279,
       "date": "2021-10-05",
       "deaths": 2724
     }
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 190719,
+      "confirmed": 191017,
       "date": "2021-10-05",
       "deaths": 861
     }
