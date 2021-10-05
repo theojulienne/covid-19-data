@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1558758,
+      "confirmed": 1559452,
       "date": "2021-10-05",
-      "deaths": 27591
+      "deaths": 27614
     }
   },
   "Belarus": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5638735,
+      "confirmed": 5651961,
       "date": "2021-10-05",
-      "deaths": 121347
+      "deaths": 121563
     }
   },
   "Iraq": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 798004,
+      "confirmed": 798766,
       "date": "2021-10-05",
-      "deaths": 11174
+      "deaths": 11180
     }
   },
   "Netherlands": {
@@ -1413,7 +1413,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 844209,
+      "confirmed": 845233,
       "date": "2021-10-05",
       "deaths": 11106
     }
