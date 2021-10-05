@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 750229,
+      "confirmed": 751139,
       "date": "2021-10-05",
-      "deaths": 11034
+      "deaths": 11049
     }
   },
   "Azerbaijan": {
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 158895,
+      "confirmed": 159787,
       "date": "2021-10-05",
-      "deaths": 1370
+      "deaths": 1379
     }
   },
   "Ethiopia": {
@@ -882,7 +882,7 @@
       },
       "Tokyo": {
         "live": {
-          "confirmed": 376128,
+          "confirmed": 376272,
           "date": "2021-10-05",
           "deaths": 2960
         }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2911549,
+      "confirmed": 2912876,
       "date": "2021-10-05",
-      "deaths": 75695
+      "deaths": 75741
     }
   },
   "Portugal": {
@@ -1235,37 +1235,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1650649,
+          "confirmed": 1654476,
           "date": "2021-10-05",
-          "deaths": 29242
+          "deaths": 29314
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 455358,
+          "confirmed": 457146,
           "date": "2021-10-05",
-          "deaths": 8238
+          "deaths": 8253
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 172000,
+          "confirmed": 172602,
           "date": "2021-10-05",
-          "deaths": 6735
+          "deaths": 6768
+        }
+      },
+      "Rostov Oblast": {
+        "live": {
+          "confirmed": 141160,
+          "date": "2021-10-05",
+          "deaths": 6957
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 630153,
+          "confirmed": 632047,
           "date": "2021-10-05",
-          "deaths": 22087
+          "deaths": 22145
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 141070,
+          "confirmed": 141596,
           "date": "2021-10-05",
-          "deaths": 6461
+          "deaths": 6502
         }
       }
     }
@@ -1286,9 +1293,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 416260,
+      "confirmed": 417502,
       "date": "2021-10-05",
-      "deaths": 12676
+      "deaths": 12690
     }
   },
   "Slovenia": {
@@ -1363,13 +1370,6 @@
           "deaths": 16113
         }
       },
-      "Murcia": {
-        "live": {
-          "confirmed": 140984,
-          "date": "2021-10-05",
-          "deaths": 1733
-        }
-      },
       "Pais Vasco": {
         "live": {
           "confirmed": 260704,
@@ -1427,9 +1427,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 708203,
+      "confirmed": 708382,
       "date": "2021-10-05",
-      "deaths": 24934
+      "deaths": 24939
     }
   },
   "Turkey": {
