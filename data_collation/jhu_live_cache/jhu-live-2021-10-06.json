@@ -333,7 +333,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 412800,
+          "confirmed": 413305,
           "date": "2021-10-06",
           "deaths": 11400
         }
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2907619,
+      "confirmed": 2908768,
       "date": "2021-10-06",
-      "deaths": 87922
+      "deaths": 87981
     }
   },
   "Spain": {
@@ -1471,9 +1471,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 188328,
+          "confirmed": 189401,
           "date": "2021-10-06",
-          "deaths": 5426
+          "deaths": 5451
         }
       },
       "Minnesota": {
@@ -1487,7 +1487,7 @@
         "live": {
           "confirmed": 322953,
           "date": "2021-10-06",
-          "deaths": 5701
+          "deaths": 5714
         }
       },
       "New York": {
@@ -1506,7 +1506,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 158084,
+          "confirmed": 158547,
           "date": "2021-10-06",
           "deaths": 1611
         }
@@ -1520,9 +1520,9 @@
       },
       "Tennessee": {
         "live": {
-          "confirmed": 141190,
+          "confirmed": 141408,
           "date": "2021-10-06",
-          "deaths": 2142
+          "deaths": 2147
         }
       },
       "Texas": {
@@ -1548,9 +1548,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 145197,
+          "confirmed": 145485,
           "date": "2021-10-06",
-          "deaths": 1562
+          "deaths": 1564
         }
       }
     }
