@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 409992,
+      "confirmed": 411917,
       "date": "2021-10-06",
-      "deaths": 8704
+      "deaths": 8722
     }
   },
   "Cuba": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5651961,
+      "confirmed": 5662458,
       "date": "2021-10-06",
-      "deaths": 121563
+      "deaths": 121779
     }
   },
   "Iraq": {
@@ -1413,9 +1413,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 845234,
+      "confirmed": 846325,
       "date": "2021-10-06",
-      "deaths": 11110
+      "deaths": 11112
     }
   },
   "Thailand": {
