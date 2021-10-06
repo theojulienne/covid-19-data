@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 547826,
+      "confirmed": 549817,
       "date": "2021-10-06",
-      "deaths": 4212
+      "deaths": 4228
     }
   },
   "Belgium": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1289156,
+      "confirmed": 1303900,
       "date": "2021-10-06",
-      "deaths": 37929
+      "deaths": 38260
     }
   },
   "Russia": {
