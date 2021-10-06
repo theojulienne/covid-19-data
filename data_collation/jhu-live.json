@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151661,
+          "confirmed": 151697,
           "date": "2021-10-06",
           "deaths": 2687
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 693832,
+          "confirmed": 694240,
           "date": "2021-10-06",
-          "deaths": 19212
+          "deaths": 19218
         }
       }
     }
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 900512,
+      "confirmed": 904108,
       "date": "2021-10-06",
-      "deaths": 7663
+      "deaths": 7703
     }
   },
   "Czechia": {
@@ -562,18 +562,18 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 299748,
+          "confirmed": 300466,
           "date": "2021-10-06",
-          "deaths": 10231
+          "deaths": 10232
         }
       }
     }
   },
   "Greece": {
     "live": {
-      "confirmed": 666517,
+      "confirmed": 668811,
       "date": "2021-10-06",
-      "deaths": 14991
+      "deaths": 15012
     }
   },
   "Guatemala": {
@@ -1279,9 +1279,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547357,
+      "confirmed": 547402,
       "date": "2021-10-06",
-      "deaths": 8730
+      "deaths": 8732
     }
   },
   "Serbia": {
@@ -1381,7 +1381,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 522002,
+      "confirmed": 522584,
       "date": "2021-10-06",
       "deaths": 13142
     }
