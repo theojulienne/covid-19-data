@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 360888,
+      "confirmed": 361461,
       "date": "2021-10-06",
-      "deaths": 2664
+      "deaths": 2665
     }
   },
   "Dominican Republic": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 738708,
+          "confirmed": 738764,
           "date": "2021-10-06",
           "deaths": 15713
         }
@@ -1390,30 +1390,30 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164732,
+          "confirmed": 164788,
           "date": "2021-10-06",
           "deaths": 1781
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 275346,
+          "confirmed": 275544,
           "date": "2021-10-06",
-          "deaths": 4421
+          "deaths": 4425
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 201844,
+          "confirmed": 201936,
           "date": "2021-10-06",
-          "deaths": 2416
+          "deaths": 2418
         }
       }
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 846325,
+      "confirmed": 846327,
       "date": "2021-10-06",
       "deaths": 11112
     }
@@ -1603,9 +1603,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 737073,
+      "confirmed": 737229,
       "date": "2021-10-06",
-      "deaths": 2104
+      "deaths": 2107
     }
   },
   "United Kingdom": {
