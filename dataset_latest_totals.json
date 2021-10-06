@@ -171,13 +171,13 @@
           "tested": 388039
         },
         "NSW": {
-          "confirmed": 65687,
+          "confirmed": 65090,
           "current_hospitalized": 973,
           "current_icu": 160,
           "current_ventilators": 16,
-          "deaths": 441,
+          "deaths": 434,
           "recovered": 2799,
-          "tested": 17587777
+          "tested": 17502135
         },
         "NT": {
           "confirmed": 202,
@@ -1280,17 +1280,17 @@
     },
     "FIN": {
       "back_1week": {
-        "confirmed": 139678,
-        "deaths": 1069,
+        "confirmed": 140087,
+        "deaths": 1072,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 136257,
-        "deaths": 1057,
+        "confirmed": 137117,
+        "deaths": 1059,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 143416,
+        "confirmed": 143999,
         "deaths": 1084,
         "recovered": 0
       }
@@ -1734,18 +1734,18 @@
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 4209403,
-        "deaths": 141585,
+        "confirmed": 4211460,
+        "deaths": 141709,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 4192695,
-        "deaths": 140634,
+        "confirmed": 4195958,
+        "deaths": 140805,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 4220206,
-        "deaths": 142261,
+        "confirmed": 4221610,
+        "deaths": 142338,
         "recovered": 0
       }
     },
@@ -2091,18 +2091,18 @@
     },
     "LBY": {
       "back_1week": {
-        "confirmed": 337890,
-        "deaths": 4617,
+        "confirmed": 338576,
+        "deaths": 4625,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 332026,
-        "deaths": 4517,
+        "confirmed": 333064,
+        "deaths": 4533,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 342558,
-        "deaths": 4702,
+        "confirmed": 343240,
+        "deaths": 4710,
         "recovered": 0
       }
     },
@@ -2210,18 +2210,18 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 155076,
-        "deaths": 2689,
+        "confirmed": 155880,
+        "deaths": 2700,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 150749,
-        "deaths": 2645,
+        "confirmed": 151243,
+        "deaths": 2658,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 162120,
-        "deaths": 2743,
+        "confirmed": 163130,
+        "deaths": 2757,
         "recovered": 0
       }
     },

@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 143999,
+      "confirmed": 144665,
       "date": "2021-10-06",
-      "deaths": 1084
+      "deaths": 1089
     }
   },
   "France": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4221610,
+      "confirmed": 4223094,
       "date": "2021-10-06",
-      "deaths": 142338
+      "deaths": 142413
     }
   },
   "Iran": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 163130,
+      "confirmed": 164801,
       "date": "2021-10-06",
-      "deaths": 2757
+      "deaths": 2773
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 343240,
+      "confirmed": 343932,
       "date": "2021-10-06",
-      "deaths": 4710
+      "deaths": 4720
     }
   },
   "Lithuania": {
@@ -1415,7 +1415,7 @@
     "live": {
       "confirmed": 845234,
       "date": "2021-10-06",
-      "deaths": 11108
+      "deaths": 11110
     }
   },
   "Thailand": {
@@ -1450,9 +1450,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3160821,
+          "confirmed": 3160937,
           "date": "2021-10-06",
-          "deaths": 50282
+          "deaths": 50278
         }
       },
       "Florida": {
