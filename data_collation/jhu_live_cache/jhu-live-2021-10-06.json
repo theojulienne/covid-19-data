@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155309,
+      "confirmed": 155340,
       "date": "2021-10-06",
-      "deaths": 7214
+      "deaths": 7216
     }
   },
   "Albania": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 597535,
+          "confirmed": 597655,
           "date": "2021-10-06",
           "deaths": 9823
         }
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 972679,
       "date": "2021-10-06",
-      "deaths": 16218
+      "deaths": 16264
     }
   },
   "Kenya": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7296849,
+      "confirmed": 7327287,
       "date": "2021-10-06",
-      "deaths": 65137
+      "deaths": 65373
     }
   },
   "US": {
@@ -1534,9 +1534,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 184456,
+          "confirmed": 185049,
           "date": "2021-10-06",
-          "deaths": 1088
+          "deaths": 1089
         }
       },
       "Washington": {
