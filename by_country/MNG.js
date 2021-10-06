@@ -1251,7 +1251,7 @@ var covid19_dataset_country_mng = {
       312376,
       312376,
       314601,
-      317010
+      317205
     ],
     "deaths": [
       0,

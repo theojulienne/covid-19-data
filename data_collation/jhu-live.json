@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155340,
+      "confirmed": 155380,
       "date": "2021-10-06",
-      "deaths": 7216
+      "deaths": 7220
     }
   },
   "Albania": {
@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 204046,
+      "confirmed": 204171,
       "date": "2021-10-06",
-      "deaths": 5831
+      "deaths": 5838
     }
   },
   "Argentina": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 597655,
+          "confirmed": 597699,
           "date": "2021-10-06",
           "deaths": 9823
         }
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 362103,
+      "confirmed": 362849,
       "date": "2021-10-06",
       "deaths": 4056
     }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 350204,
+      "confirmed": 351338,
       "date": "2021-10-06",
-      "deaths": 5811
+      "deaths": 5843
     }
   },
   "Finland": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6867251,
+      "confirmed": 7038701,
       "date": "2021-10-06",
-      "deaths": 114699
+      "deaths": 116957
     }
   },
   "Georgia": {
@@ -571,16 +571,16 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 569440,
+      "confirmed": 572103,
       "date": "2021-10-06",
-      "deaths": 13794
+      "deaths": 13851
     }
   },
   "Honduras": {
     "live": {
       "confirmed": 368654,
       "date": "2021-10-06",
-      "deaths": 9912
+      "deaths": 9913
     }
   },
   "Hungary": {
@@ -942,7 +942,7 @@
     "live": {
       "confirmed": 626926,
       "date": "2021-10-06",
-      "deaths": 8363
+      "deaths": 8364
     }
   },
   "Libya": {
@@ -1046,7 +1046,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 317010,
+      "confirmed": 317205,
       "date": "2021-10-06",
       "deaths": 1376
     }
@@ -1205,7 +1205,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1072037,
+      "confirmed": 1072537,
       "date": "2021-10-06",
       "deaths": 18008
     }
@@ -1295,7 +1295,7 @@
     "live": {
       "confirmed": 298274,
       "date": "2021-10-06",
-      "deaths": 4597
+      "deaths": 4899
     }
   },
   "South Africa": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 846327,
       "date": "2021-10-06",
-      "deaths": 11112
+      "deaths": 11125
     }
   },
   "Thailand": {
@@ -1427,7 +1427,7 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7327287,
+      "confirmed": 7327317,
       "date": "2021-10-06",
       "deaths": 65373
     }
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1761590,
+          "confirmed": 1763717,
           "date": "2021-10-06",
-          "deaths": 25421
+          "deaths": 25520
         }
       },
       "Utah": {
@@ -1663,9 +1663,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 409489,
+      "confirmed": 439845,
       "date": "2021-10-06",
-      "deaths": 4170
+      "deaths": 4438
     }
   },
   "Zambia": {

@@ -1875,7 +1875,7 @@ var covid19_dataset_country_mus = {
       84,
       84,
       90,
-      90
+      100
     ],
     "recovered": [
       0,
