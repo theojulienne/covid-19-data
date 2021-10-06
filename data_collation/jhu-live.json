@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 172618,
+      "confirmed": 173190,
       "date": "2021-10-06",
-      "deaths": 2725
+      "deaths": 2734
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 597491,
+          "confirmed": 597535,
           "date": "2021-10-06",
           "deaths": 9823
         }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6862305,
+      "confirmed": 6867251,
       "date": "2021-10-06",
-      "deaths": 114660
+      "deaths": 114699
     }
   },
   "Georgia": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 299843,
+      "confirmed": 301431,
       "date": "2021-10-06",
-      "deaths": 6901
+      "deaths": 6927
     }
   },
   "Mongolia": {
@@ -1053,14 +1053,14 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 936236,
+      "confirmed": 936963,
       "date": "2021-10-06",
-      "deaths": 14372
+      "deaths": 14390
     }
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150826,
+      "confirmed": 150874,
       "date": "2021-10-06",
       "deaths": 1919
     }
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460061,
+      "confirmed": 460084,
       "date": "2021-10-06",
-      "deaths": 16203
+      "deaths": 16204
     }
   },
   "Peru": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3303391,
+          "confirmed": 3303775,
           "date": "2021-10-06",
-          "deaths": 52345
+          "deaths": 52352
         }
       },
       "Florida": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 623750,
+          "confirmed": 624557,
           "date": "2021-10-06",
-          "deaths": 11079
+          "deaths": 11089
         }
       },
       "Massachusetts": {
@@ -1485,7 +1485,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 322524,
+          "confirmed": 322953,
           "date": "2021-10-06",
           "deaths": 5701
         }
