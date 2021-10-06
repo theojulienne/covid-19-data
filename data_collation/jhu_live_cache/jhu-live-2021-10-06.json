@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 748140,
           "date": "2021-10-06",
-          "deaths": 16100
+          "deaths": 16108
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 322662,
           "date": "2021-10-06",
-          "deaths": 9468
+          "deaths": 9470
         }
       },
       "Bolivar": {
@@ -392,7 +392,7 @@
         "live": {
           "confirmed": 1450545,
           "date": "2021-10-06",
-          "deaths": 27489
+          "deaths": 27492
         }
       },
       "Cundinamarca": {
@@ -406,14 +406,14 @@
         "live": {
           "confirmed": 225405,
           "date": "2021-10-06",
-          "deaths": 7290
+          "deaths": 7292
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 407918,
           "date": "2021-10-06",
-          "deaths": 12923
+          "deaths": 12929
         }
       }
     }
@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 174841,
+          "confirmed": 175012,
           "date": "2021-10-06",
-          "deaths": 5593
+          "deaths": 5608
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 433687,
+          "confirmed": 434139,
           "date": "2021-10-06",
-          "deaths": 12710
+          "deaths": 12724
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 460748,
+          "confirmed": 461258,
           "date": "2021-10-06",
-          "deaths": 7442
+          "deaths": 7451
         }
       }
     }
