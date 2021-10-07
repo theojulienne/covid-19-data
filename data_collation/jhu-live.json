@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 267363,
+      "confirmed": 268672,
       "date": "2021-10-07",
-      "deaths": 5440
+      "deaths": 5466
     }
   },
   "Austria": {
@@ -592,9 +592,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 825799,
+      "confirmed": 826636,
       "date": "2021-10-07",
-      "deaths": 30253
+      "deaths": 30259
     }
   },
   "India": {
@@ -1300,7 +1300,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 298274,
+      "confirmed": 299242,
       "date": "2021-10-07",
       "deaths": 4899
     }
