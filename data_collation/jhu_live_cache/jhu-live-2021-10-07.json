@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598281,
+          "confirmed": 598321,
           "date": "2021-10-07",
           "deaths": 9830
         }
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1300811,
+      "confirmed": 1300968,
       "date": "2021-10-07",
-      "deaths": 7879
+      "deaths": 7882
     }
   },
   "Italy": {
@@ -1182,9 +1182,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 949770,
+          "confirmed": 950856,
           "date": "2021-10-07",
-          "deaths": 88416
+          "deaths": 88454
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3448813,
+          "confirmed": 3307350,
           "date": "2021-10-07",
-          "deaths": 54012
+          "deaths": 52439
         }
       },
       "Florida": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1596007,
+          "confirmed": 1597159,
           "date": "2021-10-07",
-          "deaths": 41553
+          "deaths": 41556
         }
       },
       "North Carolina": {
@@ -1518,9 +1518,16 @@
           "deaths": 3933
         }
       },
+      "Tennessee": {
+        "live": {
+          "confirmed": 141656,
+          "date": "2021-10-07",
+          "deaths": 2159
+        }
+      },
       "Texas": {
         "live": {
-          "confirmed": 1765736,
+          "confirmed": 1766768,
           "date": "2021-10-07",
           "deaths": 25603
         }
