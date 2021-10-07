@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 502047,
+      "confirmed": 502550,
       "date": "2021-10-07",
-      "deaths": 18770
+      "deaths": 18775
     }
   },
   "Bosnia and Herzegovina": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 308347,
+      "confirmed": 309135,
       "date": "2021-10-07",
-      "deaths": 17508
+      "deaths": 17545
     }
   },
   "Estonia": {
@@ -513,58 +513,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 581599,
+          "confirmed": 581618,
           "date": "2021-10-07",
           "deaths": 10715
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 738764,
+          "confirmed": 741054,
           "date": "2021-10-07",
-          "deaths": 15713
+          "deaths": 15735
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 208404,
+          "confirmed": 209145,
           "date": "2021-10-07",
-          "deaths": 3635
+          "deaths": 3641
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 336144,
+          "confirmed": 336904,
           "date": "2021-10-07",
-          "deaths": 7774
+          "deaths": 7776
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 302873,
+          "confirmed": 303686,
           "date": "2021-10-07",
-          "deaths": 5982
+          "deaths": 5985
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 965816,
+          "confirmed": 967779,
           "date": "2021-10-07",
-          "deaths": 17886
+          "deaths": 17897
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 182637,
+          "confirmed": 182650,
           "date": "2021-10-07",
           "deaths": 4005
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 300466,
+          "confirmed": 300556,
           "date": "2021-10-07",
-          "deaths": 10232
+          "deaths": 10233
         }
       }
     }
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 368654,
+      "confirmed": 369030,
       "date": "2021-10-07",
-      "deaths": 9913
+      "deaths": 9948
     }
   },
   "Hungary": {
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 972679,
+      "confirmed": 974944,
       "date": "2021-10-07",
       "deaths": 16264
     }
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411904,
+      "confirmed": 411935,
       "date": "2021-10-07",
       "deaths": 2452
     }
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 191794,
+      "confirmed": 192079,
       "date": "2021-10-07",
       "deaths": 871
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 468114,
+      "confirmed": 468325,
       "date": "2021-10-07",
-      "deaths": 7250
+      "deaths": 7255
     }
   },
   "Paraguay": {
@@ -1420,9 +1420,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1667097,
+      "confirmed": 1678297,
       "date": "2021-10-07",
-      "deaths": 17305
+      "deaths": 17418
     }
   },
   "Tunisia": {
@@ -1656,9 +1656,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 376311,
+      "confirmed": 377833,
       "date": "2021-10-07",
-      "deaths": 4539
+      "deaths": 4558
     }
   },
   "Vietnam": {
