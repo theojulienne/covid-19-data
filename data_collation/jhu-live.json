@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598172,
+          "confirmed": 598281,
           "date": "2021-10-07",
-          "deaths": 9827
+          "deaths": 9830
         }
       },
       "Quebec": {
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547402,
+      "confirmed": 547449,
       "date": "2021-10-07",
-      "deaths": 8732
+      "deaths": 8736
     }
   },
   "Serbia": {
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2908768,
+      "confirmed": 2909757,
       "date": "2021-10-07",
-      "deaths": 87981
+      "deaths": 88104
     }
   },
   "Spain": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3448375,
+          "confirmed": 3448813,
           "date": "2021-10-07",
-          "deaths": 54018
+          "deaths": 54012
         }
       },
       "Florida": {
@@ -1527,9 +1527,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 185049,
+          "confirmed": 185642,
           "date": "2021-10-07",
-          "deaths": 1089
+          "deaths": 1093
         }
       },
       "Washington": {
