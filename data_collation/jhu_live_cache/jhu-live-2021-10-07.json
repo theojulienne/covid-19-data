@@ -364,7 +364,7 @@
         "live": {
           "confirmed": 748497,
           "date": "2021-10-07",
-          "deaths": 16108
+          "deaths": 16120
         }
       },
       "Atlantico": {
@@ -385,14 +385,14 @@
         "live": {
           "confirmed": 1450682,
           "date": "2021-10-07",
-          "deaths": 27492
+          "deaths": 27493
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 263807,
           "date": "2021-10-07",
-          "deaths": 6801
+          "deaths": 6802
         }
       },
       "Santander": {
@@ -406,7 +406,7 @@
         "live": {
           "confirmed": 408050,
           "date": "2021-10-07",
-          "deaths": 12929
+          "deaths": 12934
         }
       }
     }
@@ -1436,16 +1436,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 703008,
+          "confirmed": 704461,
           "date": "2021-10-07",
-          "deaths": 11598
+          "deaths": 11626
         }
       },
       "California": {
         "live": {
-          "confirmed": 3303775,
+          "confirmed": 3305573,
           "date": "2021-10-07",
-          "deaths": 52352
+          "deaths": 52367
         }
       },
       "Florida": {
