@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1560155,
+      "confirmed": 1560818,
       "date": "2021-10-07",
-      "deaths": 27635
+      "deaths": 27647
     }
   },
   "Belarus": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 799615,
+      "confirmed": 800282,
       "date": "2021-10-07",
-      "deaths": 11192
+      "deaths": 11200
     }
   },
   "Netherlands": {
@@ -1120,9 +1120,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 206623,
+      "confirmed": 206920,
       "date": "2021-10-07",
-      "deaths": 2731
+      "deaths": 2740
     }
   },
   "North Macedonia": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2622917,
+      "confirmed": 2632881,
       "date": "2021-10-07",
-      "deaths": 38828
+      "deaths": 38937
     }
   },
   "Poland": {
@@ -1413,9 +1413,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 846327,
+      "confirmed": 847452,
       "date": "2021-10-07",
-      "deaths": 11125
+      "deaths": 11128
     }
   },
   "Thailand": {
