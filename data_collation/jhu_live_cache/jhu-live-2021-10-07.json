@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598111,
+          "confirmed": 598172,
           "date": "2021-10-07",
-          "deaths": 9826
+          "deaths": 9827
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 413305,
+          "confirmed": 413929,
           "date": "2021-10-07",
           "deaths": 11405
         }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7038701,
+      "confirmed": 6870807,
       "date": "2021-10-07",
-      "deaths": 116957
+      "deaths": 114712
     }
   },
   "Georgia": {
@@ -506,9 +506,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 581618,
+          "confirmed": 583325,
           "date": "2021-10-07",
-          "deaths": 10715
+          "deaths": 10732
         }
       },
       "Bayern": {
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 572103,
+      "confirmed": 574713,
       "date": "2021-10-07",
-      "deaths": 13851
+      "deaths": 13902
     }
   },
   "Honduras": {
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 974944,
       "date": "2021-10-07",
-      "deaths": 16264
+      "deaths": 16303
     }
   },
   "Kenya": {
@@ -1046,7 +1046,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 319247,
+      "confirmed": 319442,
       "date": "2021-10-07",
       "deaths": 1391
     }
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7327287,
+      "confirmed": 7357306,
       "date": "2021-10-07",
-      "deaths": 65373
+      "deaths": 65590
     }
   },
   "US": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3448164,
+          "confirmed": 3448375,
           "date": "2021-10-07",
-          "deaths": 54009
+          "deaths": 54018
         }
       },
       "Florida": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1595717,
+          "confirmed": 1596007,
           "date": "2021-10-07",
-          "deaths": 41556
+          "deaths": 41553
         }
       },
       "North Carolina": {
@@ -1522,7 +1522,7 @@
         "live": {
           "confirmed": 1765736,
           "date": "2021-10-07",
-          "deaths": 25544
+          "deaths": 25603
         }
       },
       "Utah": {
@@ -1541,7 +1541,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 145485,
+          "confirmed": 145739,
           "date": "2021-10-07",
           "deaths": 1564
         }
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 439845,
+      "confirmed": 440936,
       "date": "2021-10-07",
-      "deaths": 4438
+      "deaths": 4456
     }
   },
   "Zambia": {
