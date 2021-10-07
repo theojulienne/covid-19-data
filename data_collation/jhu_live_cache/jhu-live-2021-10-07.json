@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 204171,
+      "confirmed": 204276,
       "date": "2021-10-07",
-      "deaths": 5838
+      "deaths": 5843
     }
   },
   "Argentina": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275394,
+      "confirmed": 275458,
       "date": "2021-10-07",
       "deaths": 1390
     }
@@ -296,9 +296,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 514208,
+      "confirmed": 516510,
       "date": "2021-10-07",
-      "deaths": 21411
+      "deaths": 21505
     }
   },
   "Burma": {
@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 305765,
+          "confirmed": 307019,
           "date": "2021-10-07",
-          "deaths": 2804
+          "deaths": 2814
         }
       },
       "British Columbia": {
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 351338,
+      "confirmed": 352504,
       "date": "2021-10-07",
-      "deaths": 5843
+      "deaths": 5888
     }
   },
   "Finland": {
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 250510,
+      "confirmed": 250728,
       "date": "2021-10-07",
-      "deaths": 5175
+      "deaths": 5178
     }
   },
   "Korea, South": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 411935,
+      "confirmed": 411981,
       "date": "2021-10-07",
       "deaths": 2452
     }
@@ -1060,7 +1060,7 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150874,
+      "confirmed": 150899,
       "date": "2021-10-07",
       "deaths": 1919
     }
@@ -1212,9 +1212,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 237147,
+      "confirmed": 237225,
       "date": "2021-10-07",
-      "deaths": 606
+      "deaths": 607
     }
   },
   "Romania": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 847452,
       "date": "2021-10-07",
-      "deaths": 11117
+      "deaths": 11118
     }
   },
   "Thailand": {
@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 704461,
+          "confirmed": 706046,
           "date": "2021-10-07",
-          "deaths": 11626
+          "deaths": 11641
         }
       },
       "California": {
@@ -1464,9 +1464,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 153938,
+          "confirmed": 154205,
           "date": "2021-10-07",
-          "deaths": 3880
+          "deaths": 3885
         }
       },
       "Michigan": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1766768,
+          "confirmed": 1767164,
           "date": "2021-10-07",
           "deaths": 25603
         }
