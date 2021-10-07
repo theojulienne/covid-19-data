@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151697,
+          "confirmed": 151737,
           "date": "2021-10-07",
-          "deaths": 2687
+          "deaths": 2690
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 694240,
+          "confirmed": 694780,
           "date": "2021-10-07",
-          "deaths": 19218
+          "deaths": 19222
         }
       }
     }
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 668811,
+      "confirmed": 671040,
       "date": "2021-10-07",
-      "deaths": 15012
+      "deaths": 15042
     }
   },
   "Guatemala": {
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1072537,
+      "confirmed": 1073268,
       "date": "2021-10-07",
-      "deaths": 18008
+      "deaths": 18019
     }
   },
   "Qatar": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1764941,
+          "confirmed": 1765736,
           "date": "2021-10-07",
-          "deaths": 25520
+          "deaths": 25544
         }
       },
       "Utah": {
