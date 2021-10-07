@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 173190,
+      "confirmed": 173723,
       "date": "2021-10-07",
-      "deaths": 2734
+      "deaths": 2746
     }
   },
   "Algeria": {
@@ -785,16 +785,16 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 396625,
+      "confirmed": 397831,
       "date": "2021-10-07",
       "deaths": 5280
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1300126,
+      "confirmed": 1300811,
       "date": "2021-10-07",
-      "deaths": 7867
+      "deaths": 7879
     }
   },
   "Italy": {
@@ -870,21 +870,21 @@
         "live": {
           "confirmed": 168280,
           "date": "2021-10-07",
-          "deaths": 1278
+          "deaths": 1280
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 200778,
           "date": "2021-10-07",
-          "deaths": 2985
+          "deaths": 2990
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 376564,
           "date": "2021-10-07",
-          "deaths": 2977
+          "deaths": 2994
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 936963,
+      "confirmed": 937631,
       "date": "2021-10-07",
-      "deaths": 14390
+      "deaths": 14413
     }
   },
   "Mozambique": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2632881,
+      "confirmed": 2622917,
       "date": "2021-10-07",
-      "deaths": 38937
+      "deaths": 38828
     }
   },
   "Poland": {
@@ -1450,9 +1450,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3164331,
+          "confirmed": 3164844,
           "date": "2021-10-07",
-          "deaths": 50380
+          "deaths": 50428
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 147494,
+          "confirmed": 147851,
           "date": "2021-10-07",
-          "deaths": 1889
+          "deaths": 1891
         }
       },
       "Nevada": {
@@ -1506,9 +1506,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 152437,
+          "confirmed": 152696,
           "date": "2021-10-07",
-          "deaths": 1177
+          "deaths": 1182
         }
       },
       "Ohio": {
