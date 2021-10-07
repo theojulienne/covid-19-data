@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 238458,
+      "confirmed": 239400,
       "date": "2021-10-07",
-      "deaths": 10802
+      "deaths": 10833
     }
   },
   "Botswana": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 597699,
+          "confirmed": 598009,
           "date": "2021-10-07",
-          "deaths": 9823
+          "deaths": 9826
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 361461,
+      "confirmed": 362068,
       "date": "2021-10-07",
-      "deaths": 2665
+      "deaths": 2668
     }
   },
   "Dominican Republic": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 741054,
+          "confirmed": 741157,
           "date": "2021-10-07",
           "deaths": 15735
         }
@@ -562,7 +562,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 300556,
+          "confirmed": 301206,
           "date": "2021-10-07",
           "deaths": 10233
         }
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5662458,
+      "confirmed": 5674083,
       "date": "2021-10-07",
-      "deaths": 121779
+      "deaths": 122012
     }
   },
   "Iraq": {
@@ -1009,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 951432,
+          "confirmed": 952610,
           "date": "2021-10-07",
-          "deaths": 39279
+          "deaths": 39359
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 176577,
+          "confirmed": 177416,
           "date": "2021-10-07",
-          "deaths": 12161
+          "deaths": 12179
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 155862,
+          "confirmed": 156295,
           "date": "2021-10-07",
-          "deaths": 16319
+          "deaths": 16363
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 364588,
+          "confirmed": 365149,
           "date": "2021-10-07",
-          "deaths": 43063
+          "deaths": 43200
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 198351,
+          "confirmed": 198720,
           "date": "2021-10-07",
-          "deaths": 12512
+          "deaths": 12520
         }
       }
     }
@@ -1390,23 +1390,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164788,
+          "confirmed": 164859,
           "date": "2021-10-07",
-          "deaths": 1781
+          "deaths": 1782
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 275544,
+          "confirmed": 275779,
           "date": "2021-10-07",
-          "deaths": 4425
+          "deaths": 4433
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 201936,
+          "confirmed": 202102,
           "date": "2021-10-07",
-          "deaths": 2418
+          "deaths": 2422
         }
       }
     }
