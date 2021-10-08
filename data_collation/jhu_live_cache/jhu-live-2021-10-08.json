@@ -594,163 +594,163 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2054663,
+          "confirmed": 2055306,
           "date": "2021-10-08",
-          "deaths": 14228
+          "deaths": 14236
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 603923,
+          "confirmed": 604218,
           "date": "2021-10-08",
-          "deaths": 5903
+          "deaths": 5911
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 725975,
+          "confirmed": 725979,
           "date": "2021-10-08",
           "deaths": 9661
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1005440,
+          "confirmed": 1005464,
           "date": "2021-10-08",
           "deaths": 13568
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1439053,
+          "confirmed": 1439097,
           "date": "2021-10-08",
           "deaths": 25088
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 176864,
+          "confirmed": 176924,
           "date": "2021-10-08",
-          "deaths": 3322
+          "deaths": 3323
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 826060,
+          "confirmed": 826080,
           "date": "2021-10-08",
-          "deaths": 10084
+          "deaths": 10085
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 770949,
+          "confirmed": 770961,
           "date": "2021-10-08",
           "deaths": 9875
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 219919,
+          "confirmed": 220061,
           "date": "2021-10-08",
-          "deaths": 3690
+          "deaths": 3694
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 330118,
+          "confirmed": 330252,
           "date": "2021-10-08",
           "deaths": 4426
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 348287,
+          "confirmed": 348314,
           "date": "2021-10-08",
           "deaths": 5135
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2979331,
+          "confirmed": 2979773,
           "date": "2021-10-08",
-          "deaths": 37854
+          "deaths": 37861
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 4751407,
+          "confirmed": 4763695,
           "date": "2021-10-08",
-          "deaths": 25811
+          "deaths": 25952
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 792596,
+          "confirmed": 792600,
           "date": "2021-10-08",
           "deaths": 10522
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6567791,
+          "confirmed": 6570472,
           "date": "2021-10-08",
-          "deaths": 139362
+          "deaths": 139411
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1029412,
+          "confirmed": 1029994,
           "date": "2021-10-08",
-          "deaths": 8227
+          "deaths": 8234
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 601782,
+          "confirmed": 601805,
           "date": "2021-10-08",
           "deaths": 16526
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954347,
+          "confirmed": 954349,
           "date": "2021-10-08",
           "deaths": 8954
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2672843,
+          "confirmed": 2674233,
           "date": "2021-10-08",
-          "deaths": 35707
+          "deaths": 35734
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 667158,
+          "confirmed": 667334,
           "date": "2021-10-08",
-          "deaths": 3925
+          "deaths": 3926
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1709902,
+          "confirmed": 1709917,
           "date": "2021-10-08",
           "deaths": 22896
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 343618,
+          "confirmed": 343626,
           "date": "2021-10-08",
           "deaths": 7396
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1573246,
+          "confirmed": 1574017,
           "date": "2021-10-08",
-          "deaths": 18863
+          "deaths": 18876
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 319442,
+      "confirmed": 321657,
       "date": "2021-10-08",
-      "deaths": 1391
+      "deaths": 1404
     }
   },
   "Morocco": {
