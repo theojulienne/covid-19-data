@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598321,
+          "confirmed": 598613,
           "date": "2021-10-08",
-          "deaths": 9830
+          "deaths": 9834
         }
       },
       "Quebec": {
@@ -441,9 +441,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 362068,
+      "confirmed": 362738,
       "date": "2021-10-08",
-      "deaths": 2668
+      "deaths": 2669
     }
   },
   "Dominican Republic": {
@@ -513,7 +513,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 743416,
+          "confirmed": 743526,
           "date": "2021-10-08",
           "deaths": 15752
         }
@@ -555,7 +555,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 301262,
+          "confirmed": 301848,
           "date": "2021-10-08",
           "deaths": 10233
         }
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5674083,
+      "confirmed": 5683980,
       "date": "2021-10-08",
-      "deaths": 122012
+      "deaths": 122197
     }
   },
   "Iraq": {
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547449,
+      "confirmed": 547497,
       "date": "2021-10-08",
-      "deaths": 8736
+      "deaths": 8739
     }
   },
   "Serbia": {
@@ -1383,21 +1383,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 164859,
+          "confirmed": 164933,
           "date": "2021-10-08",
           "deaths": 1782
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 275779,
+          "confirmed": 275975,
           "date": "2021-10-08",
           "deaths": 4433
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 202102,
+          "confirmed": 202243,
           "date": "2021-10-08",
           "deaths": 2422
         }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 848416,
       "date": "2021-10-08",
-      "deaths": 11119
+      "deaths": 11120
     }
   },
   "Thailand": {
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 737373,
+      "confirmed": 737509,
       "date": "2021-10-08",
-      "deaths": 2109
+      "deaths": 2111
     }
   },
   "United Kingdom": {
