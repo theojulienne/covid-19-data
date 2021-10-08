@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 363735,
+      "confirmed": 364252,
       "date": "2021-10-08",
-      "deaths": 4063
+      "deaths": 4065
     }
   },
   "Ecuador": {
@@ -506,9 +506,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 583343,
+          "confirmed": 585009,
           "date": "2021-10-08",
-          "deaths": 10732
+          "deaths": 10758
         }
       },
       "Bayern": {
@@ -863,21 +863,21 @@
         "live": {
           "confirmed": 168345,
           "date": "2021-10-08",
-          "deaths": 1283
+          "deaths": 1285
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 200944,
           "date": "2021-10-08",
-          "deaths": 2998
+          "deaths": 3003
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 376702,
           "date": "2021-10-08",
-          "deaths": 2995
+          "deaths": 3012
         }
       }
     }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 937631,
+      "confirmed": 938286,
       "date": "2021-10-08",
-      "deaths": 14413
+      "deaths": 14427
     }
   },
   "Mozambique": {
@@ -1309,65 +1309,65 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 803238,
+          "confirmed": 803462,
           "date": "2021-10-08",
-          "deaths": 11175
+          "deaths": 11188
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 161423,
+          "confirmed": 161509,
           "date": "2021-10-08",
-          "deaths": 3847
+          "deaths": 3849
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 511109,
+          "confirmed": 511261,
           "date": "2021-10-08",
-          "deaths": 7776
+          "deaths": 7778
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 238535,
+          "confirmed": 238673,
           "date": "2021-10-08",
-          "deaths": 6469
+          "deaths": 6473
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 299666,
+          "confirmed": 299754,
           "date": "2021-10-08",
-          "deaths": 7318
+          "deaths": 7319
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 919883,
+          "confirmed": 920721,
           "date": "2021-10-08",
-          "deaths": 15709
+          "deaths": 15751
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 186744,
+          "confirmed": 186782,
           "date": "2021-10-08",
           "deaths": 2637
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 892668,
+          "confirmed": 893017,
           "date": "2021-10-08",
-          "deaths": 16133
+          "deaths": 16138
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 260981,
+          "confirmed": 261091,
           "date": "2021-10-08",
-          "deaths": 4969
+          "deaths": 4967
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3308871,
+          "confirmed": 3452664,
           "date": "2021-10-08",
-          "deaths": 52448
+          "deaths": 54091
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 147851,
+          "confirmed": 148439,
           "date": "2021-10-08",
-          "deaths": 1891
+          "deaths": 1892
         }
       },
       "Nevada": {
@@ -1499,9 +1499,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 152696,
+          "confirmed": 153083,
           "date": "2021-10-08",
-          "deaths": 1182
+          "deaths": 1188
         }
       },
       "Ohio": {
@@ -1513,16 +1513,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 176497,
+          "confirmed": 176753,
           "date": "2021-10-08",
-          "deaths": 3933
-        }
-      },
-      "Tennessee": {
-        "live": {
-          "confirmed": 141656,
-          "date": "2021-10-08",
-          "deaths": 2159
+          "deaths": 3936
         }
       },
       "Texas": {
