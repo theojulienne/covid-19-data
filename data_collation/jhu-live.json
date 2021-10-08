@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151737,
+          "confirmed": 151777,
           "date": "2021-10-08",
           "deaths": 2690
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 694780,
+          "confirmed": 695380,
           "date": "2021-10-08",
-          "deaths": 19222
+          "deaths": 19230
         }
       }
     }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 907941,
+      "confirmed": 911337,
       "date": "2021-10-08",
-      "deaths": 7742
+      "deaths": 7777
     }
   },
   "Czechia": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 671040,
+      "confirmed": 673317,
       "date": "2021-10-08",
-      "deaths": 15042
+      "deaths": 15069
     }
   },
   "Guatemala": {
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1302083,
+      "confirmed": 1302777,
       "date": "2021-10-08",
       "deaths": 7885
     }
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 830944,
+      "confirmed": 831832,
       "date": "2021-10-08",
-      "deaths": 10783
+      "deaths": 10789
     }
   },
   "Kazakhstan": {
@@ -1207,7 +1207,7 @@
     "live": {
       "confirmed": 1073268,
       "date": "2021-10-08",
-      "deaths": 18019
+      "deaths": 18027
     }
   },
   "Qatar": {
@@ -1374,7 +1374,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 523550,
+      "confirmed": 524719,
       "date": "2021-10-08",
       "deaths": 13229
     }
@@ -1527,9 +1527,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1767989,
+          "confirmed": 1768415,
           "date": "2021-10-08",
-          "deaths": 25603
+          "deaths": 25623
         }
       },
       "Utah": {
@@ -1656,9 +1656,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 826837,
+      "confirmed": 831643,
       "date": "2021-10-08",
-      "deaths": 20223
+      "deaths": 20337
     }
   },
   "West Bank and Gaza": {
