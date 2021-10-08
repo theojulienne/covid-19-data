@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598888,
+          "confirmed": 598960,
           "date": "2021-10-08",
           "deaths": 9838
         }
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1768415,
+          "confirmed": 1768901,
           "date": "2021-10-08",
           "deaths": 25623
         }
