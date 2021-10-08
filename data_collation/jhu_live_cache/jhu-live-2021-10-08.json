@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 488213,
+      "confirmed": 489226,
       "date": "2021-10-08",
-      "deaths": 6611
+      "deaths": 6625
     }
   },
   "Bahrain": {
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1560818,
+      "confirmed": 1561463,
       "date": "2021-10-08",
-      "deaths": 27647
+      "deaths": 27654
     }
   },
   "Belarus": {
@@ -1406,7 +1406,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 847452,
+      "confirmed": 848416,
       "date": "2021-10-08",
       "deaths": 11119
     }
