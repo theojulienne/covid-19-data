@@ -434,9 +434,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1697064,
+      "confirmed": 1698061,
       "date": "2021-10-08",
-      "deaths": 30493
+      "deaths": 30496
     }
   },
   "Denmark": {
@@ -520,7 +520,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 209659,
+          "confirmed": 209667,
           "date": "2021-10-08",
           "deaths": 3646
         }
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1300968,
+      "confirmed": 1302083,
       "date": "2021-10-08",
-      "deaths": 7882
+      "deaths": 7885
     }
   },
   "Italy": {
@@ -954,9 +954,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 345095,
+      "confirmed": 347548,
       "date": "2021-10-08",
-      "deaths": 5158
+      "deaths": 5179
     }
   },
   "Malaysia": {
@@ -1559,37 +1559,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 154916,
+          "confirmed": 156261,
           "date": "2021-10-08",
-          "deaths": 4977
+          "deaths": 5002
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 172783,
+          "confirmed": 173808,
           "date": "2021-10-08",
-          "deaths": 4067
+          "deaths": 4091
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 238139,
+          "confirmed": 238860,
           "date": "2021-10-08",
-          "deaths": 5487
+          "deaths": 5503
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 155208,
+          "confirmed": 156445,
           "date": "2021-10-08",
-          "deaths": 3996
+          "deaths": 4010
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 158815,
+          "confirmed": 160233,
           "date": "2021-10-08",
-          "deaths": 3389
+          "deaths": 3395
         }
       }
     }
@@ -1642,9 +1642,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 176964,
+      "confirmed": 177383,
       "date": "2021-10-08",
-      "deaths": 1260
+      "deaths": 1263
     }
   },
   "Venezuela": {
