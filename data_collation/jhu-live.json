@@ -364,35 +364,35 @@
         "live": {
           "confirmed": 748824,
           "date": "2021-10-08",
-          "deaths": 16120
+          "deaths": 16125
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 323241,
           "date": "2021-10-08",
-          "deaths": 9470
+          "deaths": 9477
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 156678,
           "date": "2021-10-08",
-          "deaths": 2964
+          "deaths": 2965
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1450852,
           "date": "2021-10-08",
-          "deaths": 27493
+          "deaths": 27497
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 263834,
           "date": "2021-10-08",
-          "deaths": 6802
+          "deaths": 6803
         }
       },
       "Santander": {
@@ -406,7 +406,7 @@
         "live": {
           "confirmed": 408260,
           "date": "2021-10-08",
-          "deaths": 12934
+          "deaths": 12936
         }
       }
     }
@@ -506,56 +506,56 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 583325,
+          "confirmed": 583343,
           "date": "2021-10-08",
           "deaths": 10732
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 741157,
+          "confirmed": 743416,
           "date": "2021-10-08",
-          "deaths": 15735
+          "deaths": 15752
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 209152,
+          "confirmed": 209659,
           "date": "2021-10-08",
-          "deaths": 3641
+          "deaths": 3646
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 336904,
+          "confirmed": 337669,
           "date": "2021-10-08",
-          "deaths": 7776
+          "deaths": 7780
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 303686,
+          "confirmed": 304314,
           "date": "2021-10-08",
-          "deaths": 5985
+          "deaths": 5996
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 967779,
+          "confirmed": 969554,
           "date": "2021-10-08",
-          "deaths": 17897
+          "deaths": 17912
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 183111,
+          "confirmed": 183126,
           "date": "2021-10-08",
           "deaths": 4009
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 301206,
+          "confirmed": 301262,
           "date": "2021-10-08",
           "deaths": 10233
         }
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 974944,
+      "confirmed": 977027,
       "date": "2021-10-08",
       "deaths": 16303
     }
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 952610,
+          "confirmed": 953861,
           "date": "2021-10-08",
-          "deaths": 39359
+          "deaths": 39396
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 177416,
+          "confirmed": 178185,
           "date": "2021-10-08",
-          "deaths": 12179
+          "deaths": 12191
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 156295,
+          "confirmed": 156654,
           "date": "2021-10-08",
-          "deaths": 16363
+          "deaths": 16388
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 365149,
+          "confirmed": 366045,
           "date": "2021-10-08",
-          "deaths": 43200
+          "deaths": 43241
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 198720,
+          "confirmed": 199040,
           "date": "2021-10-08",
-          "deaths": 12520
+          "deaths": 12585
         }
       }
     }
@@ -1649,9 +1649,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 377833,
+      "confirmed": 379352,
       "date": "2021-10-08",
-      "deaths": 4558
+      "deaths": 4576
     }
   },
   "Vietnam": {
