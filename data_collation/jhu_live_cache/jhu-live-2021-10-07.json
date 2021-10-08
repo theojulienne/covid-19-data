@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5263219,
+      "confirmed": 5264305,
       "date": "2021-10-07",
-      "deaths": 115379
+      "deaths": 115416
     }
   },
   "Armenia": {
@@ -117,9 +117,9 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 180197,
+      "confirmed": 180438,
       "date": "2021-10-07",
-      "deaths": 2374
+      "deaths": 2376
     }
   },
   "Brazil": {
@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 191124,
+          "confirmed": 191748,
           "date": "2021-10-07",
-          "deaths": 1992
+          "deaths": 1996
         }
       },
       "Ontario": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 192079,
+      "confirmed": 192587,
       "date": "2021-10-07",
       "deaths": 871
     }
