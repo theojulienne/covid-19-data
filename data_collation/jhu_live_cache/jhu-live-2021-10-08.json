@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 173723,
+      "confirmed": 174168,
       "date": "2021-10-08",
-      "deaths": 2746
+      "deaths": 2753
     }
   },
   "Algeria": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6870807,
+      "confirmed": 6874967,
       "date": "2021-10-08",
-      "deaths": 114712
+      "deaths": 114750
     }
   },
   "Georgia": {
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 397831,
+      "confirmed": 399833,
       "date": "2021-10-08",
       "deaths": 5280
     }
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 977027,
       "date": "2021-10-08",
-      "deaths": 16303
+      "deaths": 16346
     }
   },
   "Kenya": {
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 207167,
+      "confirmed": 207210,
       "date": "2021-10-08",
       "deaths": 2742
     }
@@ -1173,7 +1173,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460113,
+      "confirmed": 460138,
       "date": "2021-10-08",
       "deaths": 16205
     }
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 625647,
+          "confirmed": 626475,
           "date": "2021-10-08",
-          "deaths": 11096
+          "deaths": 11109
         }
       },
       "Massachusetts": {
@@ -1485,16 +1485,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 322953,
+          "confirmed": 323940,
           "date": "2021-10-08",
-          "deaths": 5714
+          "deaths": 5743
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1597159,
+          "confirmed": 1598263,
           "date": "2021-10-08",
-          "deaths": 41556
+          "deaths": 41564
         }
       },
       "North Carolina": {
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 159040,
+          "confirmed": 159683,
           "date": "2021-10-08",
-          "deaths": 1611
+          "deaths": 1640
         }
       },
       "Pennsylvania": {
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 440936,
+      "confirmed": 441882,
       "date": "2021-10-08",
-      "deaths": 4456
+      "deaths": 4465
     }
   },
   "Zambia": {
