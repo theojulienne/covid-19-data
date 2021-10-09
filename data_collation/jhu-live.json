@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 165264,
+          "confirmed": 165630,
           "date": "2021-10-09",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 170197,
+          "confirmed": 170573,
           "date": "2021-10-09",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 174961,
+          "confirmed": 175167,
           "date": "2021-10-09",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 152513,
+          "confirmed": 152874,
           "date": "2021-10-09",
           "deaths": 0
         }
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 327976,
+      "confirmed": 329925,
       "date": "2021-10-09",
-      "deaths": 2554
+      "deaths": 2560
     }
   },
   "Kosovo": {
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 953861,
+          "confirmed": 955216,
           "date": "2021-10-09",
-          "deaths": 39396
+          "deaths": 39425
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 178185,
+          "confirmed": 178907,
           "date": "2021-10-09",
-          "deaths": 12191
+          "deaths": 12215
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 156654,
+          "confirmed": 156975,
           "date": "2021-10-09",
-          "deaths": 16388
+          "deaths": 16433
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 366045,
+          "confirmed": 366831,
           "date": "2021-10-09",
-          "deaths": 43241
+          "deaths": 43288
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 199040,
+          "confirmed": 199418,
           "date": "2021-10-09",
-          "deaths": 12585
+          "deaths": 12662
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3311540,
+          "confirmed": 3312724,
           "date": "2021-10-09",
-          "deaths": 52523
+          "deaths": 52527
         }
       },
       "Florida": {
