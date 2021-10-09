@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 204388,
+      "confirmed": 204490,
       "date": "2021-10-09",
-      "deaths": 5846
+      "deaths": 5850
     }
   },
   "Argentina": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275538,
+      "confirmed": 275597,
       "date": "2021-10-09",
       "deaths": 1390
     }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 353425,
+      "confirmed": 354033,
       "date": "2021-10-09",
-      "deaths": 5921
+      "deaths": 5950
     }
   },
   "Finland": {
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 250898,
+      "confirmed": 251057,
       "date": "2021-10-09",
-      "deaths": 5179
+      "deaths": 5181
     }
   },
   "Korea, South": {
@@ -1060,9 +1060,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 150935,
+      "confirmed": 150963,
       "date": "2021-10-09",
-      "deaths": 1921
+      "deaths": 1922
     }
   },
   "Nepal": {
