@@ -1255,6 +1255,7 @@ var covid19_dataset_country_dji = {
       12976,
       13057,
       13116,
+      13179,
       13179
     ],
     "deaths": [
@@ -1882,6 +1883,7 @@ var covid19_dataset_country_dji = {
       172,
       174,
       174,
+      174,
       174
     ],
     "recovered": [
@@ -2446,6 +2448,7 @@ var covid19_dataset_country_dji = {
       11491,
       11491,
       11491,
+      0,
       0,
       0,
       0,
