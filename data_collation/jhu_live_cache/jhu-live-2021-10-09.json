@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 174168,
+      "confirmed": 174643,
       "date": "2021-10-09",
-      "deaths": 2753
+      "deaths": 2759
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 599290,
+          "confirmed": 599306,
           "date": "2021-10-09",
           "deaths": 9838
         }
@@ -794,65 +794,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 458568,
+          "confirmed": 458837,
           "date": "2021-10-09",
-          "deaths": 7977
+          "deaths": 7984
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 425923,
+          "confirmed": 426190,
           "date": "2021-10-09",
-          "deaths": 13499
+          "deaths": 13504
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 386760,
+          "confirmed": 386990,
           "date": "2021-10-09",
-          "deaths": 8679
+          "deaths": 8682
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 886245,
+          "confirmed": 886529,
           "date": "2021-10-09",
-          "deaths": 34078
+          "deaths": 34083
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 380267,
+          "confirmed": 380463,
           "date": "2021-10-09",
-          "deaths": 11776
+          "deaths": 11778
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 269578,
+          "confirmed": 269696,
           "date": "2021-10-09",
-          "deaths": 6801
+          "deaths": 6802
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 301125,
+          "confirmed": 301408,
           "date": "2021-10-09",
-          "deaths": 6880
+          "deaths": 6889
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 284021,
+          "confirmed": 284250,
           "date": "2021-10-09",
-          "deaths": 7201
+          "deaths": 7202
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 471942,
+          "confirmed": 472292,
           "date": "2021-10-09",
-          "deaths": 11787
+          "deaths": 11790
         }
       }
     }
@@ -863,7 +863,7 @@
         "live": {
           "confirmed": 168426,
           "date": "2021-10-09",
-          "deaths": 1285
+          "deaths": 1287
         }
       },
       "Osaka": {
@@ -877,16 +877,16 @@
         "live": {
           "confirmed": 376784,
           "date": "2021-10-09",
-          "deaths": 3012
+          "deaths": 3021
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 831832,
+      "confirmed": 832399,
       "date": "2021-10-09",
-      "deaths": 10789
+      "deaths": 10802
     }
   },
   "Kazakhstan": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 194231,
+      "confirmed": 194575,
       "date": "2021-10-09",
-      "deaths": 6799
+      "deaths": 6817
     }
   },
   "Norway": {
@@ -1205,7 +1205,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1074109,
+      "confirmed": 1074813,
       "date": "2021-10-09",
       "deaths": 18034
     }
@@ -1605,30 +1605,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 6876192,
+          "confirmed": 6906211,
           "date": "2021-10-09",
-          "deaths": 120245
+          "deaths": 120356
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 247432,
+          "confirmed": 248706,
           "date": "2021-10-09",
-          "deaths": 2581
+          "deaths": 2585
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 585647,
+          "confirmed": 588062,
           "date": "2021-10-09",
-          "deaths": 8773
+          "deaths": 8791
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 372029,
+          "confirmed": 377734,
           "date": "2021-10-09",
-          "deaths": 5942
+          "deaths": 5965
         }
       }
     }
