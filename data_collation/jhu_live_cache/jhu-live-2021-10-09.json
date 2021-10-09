@@ -333,9 +333,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 414572,
+          "confirmed": 415174,
           "date": "2021-10-09",
-          "deaths": 11410
+          "deaths": 11412
         }
       }
     }
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2910681,
+      "confirmed": 2911497,
       "date": "2021-10-09",
-      "deaths": 88236
+      "deaths": 88292
     }
   },
   "Spain": {
