@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 490130,
+      "confirmed": 491147,
       "date": "2021-10-09",
-      "deaths": 6638
+      "deaths": 6654
     }
   },
   "Bahrain": {
@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 415356,
+      "confirmed": 416950,
       "date": "2021-10-09",
-      "deaths": 8752
+      "deaths": 8763
     }
   },
   "Cuba": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1332221,
+      "confirmed": 1346240,
       "date": "2021-10-09",
-      "deaths": 38927
+      "deaths": 39209
     }
   },
   "Russia": {
