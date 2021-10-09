@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 168248,
+      "confirmed": 169917,
       "date": "2021-10-09",
-      "deaths": 2787
+      "deaths": 2794
     }
   },
   "Lebanon": {
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2918863,
+      "confirmed": 2920874,
       "date": "2021-10-09",
-      "deaths": 75834
+      "deaths": 75864
     }
   },
   "Portugal": {
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1668064,
+          "confirmed": 1674065,
           "date": "2021-10-09",
-          "deaths": 29525
+          "deaths": 29595
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 461500,
+          "confirmed": 463189,
           "date": "2021-10-09",
-          "deaths": 8275
+          "deaths": 8280
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 174463,
+          "confirmed": 175106,
           "date": "2021-10-09",
-          "deaths": 6866
+          "deaths": 6901
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 142712,
+          "confirmed": 143236,
           "date": "2021-10-09",
-          "deaths": 7041
+          "deaths": 7067
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 639153,
+          "confirmed": 641870,
           "date": "2021-10-09",
-          "deaths": 22321
+          "deaths": 22382
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 143212,
+          "confirmed": 143763,
           "date": "2021-10-09",
-          "deaths": 6639
+          "deaths": 6687
         }
       }
     }
@@ -1286,16 +1286,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 422614,
+      "confirmed": 424407,
       "date": "2021-10-09",
-      "deaths": 12720
+      "deaths": 12729
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 300084,
+      "confirmed": 300969,
       "date": "2021-10-09",
-      "deaths": 4602
+      "deaths": 4607
     }
   },
   "South Africa": {
