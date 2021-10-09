@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 179120,
+      "confirmed": 179186,
       "date": "2021-10-09",
-      "deaths": 2616
+      "deaths": 2618
     }
   },
   "Latvia": {
@@ -1559,37 +1559,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 156261,
+          "confirmed": 157552,
           "date": "2021-10-09",
-          "deaths": 5002
+          "deaths": 5017
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 173808,
+          "confirmed": 174782,
           "date": "2021-10-09",
-          "deaths": 4091
+          "deaths": 4108
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 238860,
+          "confirmed": 239723,
           "date": "2021-10-09",
-          "deaths": 5503
+          "deaths": 5516
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 156445,
+          "confirmed": 157622,
           "date": "2021-10-09",
-          "deaths": 4010
+          "deaths": 4027
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 160233,
+          "confirmed": 161543,
           "date": "2021-10-09",
-          "deaths": 3395
+          "deaths": 3397
         }
       }
     }
@@ -1642,9 +1642,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 177383,
+      "confirmed": 177834,
       "date": "2021-10-09",
-      "deaths": 1263
+      "deaths": 1266
     }
   },
   "Venezuela": {
