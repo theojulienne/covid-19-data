@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155448,
+      "confirmed": 155466,
       "date": "2021-10-09",
       "deaths": 7221
     }
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1561463,
+      "confirmed": 1561878,
       "date": "2021-10-09",
-      "deaths": 27654
+      "deaths": 27674
     }
   },
   "Belarus": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 598960,
+          "confirmed": 599290,
           "date": "2021-10-09",
           "deaths": 9838
         }
@@ -441,7 +441,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 362738,
+      "confirmed": 363356,
       "date": "2021-10-09",
       "deaths": 2669
     }
@@ -513,7 +513,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 745214,
+          "confirmed": 745274,
           "date": "2021-10-09",
           "deaths": 15767
         }
@@ -555,7 +555,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 301858,
+          "confirmed": 302415,
           "date": "2021-10-09",
           "deaths": 10234
         }
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5683980,
+      "confirmed": 5691634,
       "date": "2021-10-09",
-      "deaths": 122197
+      "deaths": 122370
     }
   },
   "Iraq": {
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 399833,
+      "confirmed": 401773,
       "date": "2021-10-09",
       "deaths": 5280
     }
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547497,
+      "confirmed": 547532,
       "date": "2021-10-09",
-      "deaths": 8739
+      "deaths": 8743
     }
   },
   "Serbia": {
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 524937,
+      "confirmed": 525479,
       "date": "2021-10-09",
-      "deaths": 13267
+      "deaths": 13296
     }
   },
   "Sweden": {
@@ -1596,9 +1596,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 737509,
+      "confirmed": 737655,
       "date": "2021-10-09",
-      "deaths": 2111
+      "deaths": 2113
     }
   },
   "United Kingdom": {
@@ -1656,9 +1656,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 831643,
+      "confirmed": 836134,
       "date": "2021-10-09",
-      "deaths": 20337
+      "deaths": 20442
     }
   },
   "West Bank and Gaza": {
@@ -1670,7 +1670,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209315,
+      "confirmed": 209336,
       "date": "2021-10-09",
       "deaths": 3653
     }
