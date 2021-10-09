@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5264305,
+      "confirmed": 5265058,
       "date": "2021-10-08",
-      "deaths": 115416
+      "deaths": 115444
     }
   },
   "Armenia": {
@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 191748,
+          "confirmed": 192491,
           "date": "2021-10-08",
-          "deaths": 1996
+          "deaths": 2001
         }
       },
       "Ontario": {
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 202932,
+          "confirmed": 203796,
           "date": "2021-10-08",
-          "deaths": 3400
+          "deaths": 3413
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 203488,
+          "confirmed": 204193,
           "date": "2021-10-08",
-          "deaths": 2314
+          "deaths": 2326
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 221042,
+          "confirmed": 222381,
           "date": "2021-10-08",
-          "deaths": 960
+          "deaths": 968
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 686170,
+          "confirmed": 687966,
           "date": "2021-10-08",
-          "deaths": 9432
+          "deaths": 9444
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 187551,
+          "confirmed": 187864,
           "date": "2021-10-08",
-          "deaths": 2510
+          "deaths": 2512
         }
       }
     }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 192587,
+      "confirmed": 193054,
       "date": "2021-10-08",
       "deaths": 871
     }
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 237225,
+      "confirmed": 237297,
       "date": "2021-10-08",
       "deaths": 607
     }
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7357306,
+      "confirmed": 7387507,
       "date": "2021-10-08",
-      "deaths": 65590
+      "deaths": 65778
     }
   },
   "US": {
