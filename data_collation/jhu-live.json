@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 757675,
+      "confirmed": 759543,
       "date": "2021-10-09",
-      "deaths": 11084
+      "deaths": 11090
     }
   },
   "Azerbaijan": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168345,
+          "confirmed": 168426,
           "date": "2021-10-09",
           "deaths": 1285
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 200944,
+          "confirmed": 201068,
           "date": "2021-10-09",
           "deaths": 3003
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 376702,
+          "confirmed": 376784,
           "date": "2021-10-09",
           "deaths": 3012
         }
