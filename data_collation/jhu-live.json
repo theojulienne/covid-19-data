@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 553795,
+      "confirmed": 555793,
       "date": "2021-10-09",
-      "deaths": 4259
+      "deaths": 4275
     }
   },
   "Belgium": {
@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 183517,
+          "confirmed": 183720,
           "date": "2021-10-09",
-          "deaths": 4015
+          "deaths": 4017
         }
       },
       "Sachsen": {
@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4225871,
+      "confirmed": 4227038,
       "date": "2021-10-09",
-      "deaths": 142560
+      "deaths": 142612
     }
   },
   "Iran": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 800997,
+      "confirmed": 801633,
       "date": "2021-10-09",
-      "deaths": 11210
+      "deaths": 11221
     }
   },
   "Netherlands": {
