@@ -8,16 +8,16 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 174643,
+      "confirmed": 174968,
       "date": "2021-10-10",
-      "deaths": 2759
+      "deaths": 2768
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 204490,
+      "confirmed": 204597,
       "date": "2021-10-10",
-      "deaths": 5850
+      "deaths": 5853
     }
   },
   "Argentina": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 599704,
+          "confirmed": 599766,
           "date": "2021-10-10",
           "deaths": 9840
         }
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 365063,
+      "confirmed": 365558,
       "date": "2021-10-10",
       "deaths": 4067
     }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6879701,
+      "confirmed": 6883692,
       "date": "2021-10-10",
-      "deaths": 114765
+      "deaths": 114773
     }
   },
   "Georgia": {
@@ -898,7 +898,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 251057,
+      "confirmed": 251152,
       "date": "2021-10-10",
       "deaths": 5181
     }
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412048,
+      "confirmed": 412079,
       "date": "2021-10-10",
       "deaths": 2454
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 305977,
+      "confirmed": 306647,
       "date": "2021-10-10",
-      "deaths": 6980
+      "deaths": 7024
     }
   },
   "Mongolia": {
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 159913,
+          "confirmed": 302345,
           "date": "2021-10-10",
-          "deaths": 1640
+          "deaths": 4027
         }
       },
       "Pennsylvania": {
@@ -1516,13 +1516,6 @@
           "confirmed": 176753,
           "date": "2021-10-10",
           "deaths": 3936
-        }
-      },
-      "Tennessee": {
-        "live": {
-          "confirmed": 141997,
-          "date": "2021-10-10",
-          "deaths": 2172
         }
       },
       "Texas": {
