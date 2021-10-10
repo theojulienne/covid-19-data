@@ -261,7 +261,7 @@
         "live": {
           "confirmed": 266699,
           "date": "2021-10-10",
-          "deaths": 6544
+          "deaths": 6543
         }
       },
       "Santa Catarina": {
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 979117,
+      "confirmed": 981129,
       "date": "2021-10-10",
       "deaths": 16346
     }
@@ -1649,9 +1649,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 380856,
+      "confirmed": 382266,
       "date": "2021-10-10",
-      "deaths": 4592
+      "deaths": 4606
     }
   },
   "Vietnam": {
