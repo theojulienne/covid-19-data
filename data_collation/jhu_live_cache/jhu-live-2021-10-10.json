@@ -1427,16 +1427,16 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7416152,
+      "confirmed": 7444522,
       "date": "2021-10-10",
-      "deaths": 65984
+      "deaths": 66180
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 709285,
+          "confirmed": 710633,
           "date": "2021-10-10",
           "deaths": 11695
         }
@@ -1520,7 +1520,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1771051,
+          "confirmed": 1771527,
           "date": "2021-10-10",
           "deaths": 25623
         }
