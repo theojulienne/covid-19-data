@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 477333,
+      "confirmed": 478651,
       "date": "2021-10-10",
-      "deaths": 18104
+      "deaths": 18134
     }
   },
   "Canada": {
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151816,
+          "confirmed": 151862,
           "date": "2021-10-10",
-          "deaths": 2691
+          "deaths": 2693
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 695949,
+          "confirmed": 696549,
           "date": "2021-10-10",
-          "deaths": 19234
+          "deaths": 19241
         }
       }
     }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 914779,
+      "confirmed": 918383,
       "date": "2021-10-10",
-      "deaths": 7812
+      "deaths": 7851
     }
   },
   "Czechia": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 675479,
+      "confirmed": 676799,
       "date": "2021-10-10",
-      "deaths": 15105
+      "deaths": 15135
     }
   },
   "Guatemala": {
@@ -794,65 +794,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 458837,
+          "confirmed": 459082,
           "date": "2021-10-10",
-          "deaths": 7984
+          "deaths": 7986
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 426190,
+          "confirmed": 426429,
           "date": "2021-10-10",
-          "deaths": 13504
+          "deaths": 13508
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 386990,
+          "confirmed": 387211,
           "date": "2021-10-10",
-          "deaths": 8682
+          "deaths": 8685
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 886529,
+          "confirmed": 886807,
           "date": "2021-10-10",
-          "deaths": 34083
+          "deaths": 34085
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 380463,
+          "confirmed": 380577,
           "date": "2021-10-10",
           "deaths": 11778
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 269696,
+          "confirmed": 269758,
           "date": "2021-10-10",
-          "deaths": 6802
+          "deaths": 6803
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 301408,
+          "confirmed": 301658,
           "date": "2021-10-10",
-          "deaths": 6889
+          "deaths": 6892
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 284250,
+          "confirmed": 284458,
           "date": "2021-10-10",
-          "deaths": 7202
+          "deaths": 7206
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 472292,
+          "confirmed": 472516,
           "date": "2021-10-10",
-          "deaths": 11790
+          "deaths": 11792
         }
       }
     }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 193275,
+      "confirmed": 193414,
       "date": "2021-10-10",
       "deaths": 871
     }
@@ -1207,7 +1207,7 @@
     "live": {
       "confirmed": 1074813,
       "date": "2021-10-10",
-      "deaths": 18034
+      "deaths": 18041
     }
   },
   "Qatar": {
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 525663,
+      "confirmed": 526223,
       "date": "2021-10-10",
-      "deaths": 13296
+      "deaths": 13331
     }
   },
   "Sweden": {

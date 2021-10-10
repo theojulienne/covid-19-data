@@ -1887,7 +1887,8 @@ var covid19_dataset_country_prt = {
       18008,
       18019,
       18027,
-      18034
+      18034,
+      18041
     ],
     "recovered": [
       0,
