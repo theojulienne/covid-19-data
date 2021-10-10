@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 759543,
+      "confirmed": 761218,
       "date": "2021-10-10",
-      "deaths": 11090
+      "deaths": 11096
     }
   },
   "Azerbaijan": {
@@ -861,7 +861,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168426,
+          "confirmed": 168480,
           "date": "2021-10-10",
           "deaths": 1287
         }
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 169917,
+      "confirmed": 171276,
       "date": "2021-10-10",
-      "deaths": 2794
+      "deaths": 2801
     }
   },
   "Lebanon": {
@@ -1134,9 +1134,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 303915,
+      "confirmed": 303965,
       "date": "2021-10-10",
-      "deaths": 4101
+      "deaths": 4102
     }
   },
   "Pakistan": {
@@ -1286,9 +1286,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 424407,
+      "confirmed": 425569,
       "date": "2021-10-10",
-      "deaths": 12729
+      "deaths": 12731
     }
   },
   "Slovenia": {
