@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 416950,
+      "confirmed": 417858,
       "date": "2021-10-10",
-      "deaths": 8763
+      "deaths": 8772
     }
   },
   "Cuba": {
@@ -548,7 +548,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 183730,
+          "confirmed": 183947,
           "date": "2021-10-10",
           "deaths": 4017
         }
@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4227038,
+      "confirmed": 4227932,
       "date": "2021-10-10",
-      "deaths": 142612
+      "deaths": 142651
     }
   },
   "Iran": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1346240,
+      "confirmed": 1356640,
       "date": "2021-10-10",
-      "deaths": 39209
+      "deaths": 39420
     }
   },
   "Russia": {
@@ -1596,7 +1596,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 737655,
+      "confirmed": 737766,
       "date": "2021-10-10",
       "deaths": 2113
     }
