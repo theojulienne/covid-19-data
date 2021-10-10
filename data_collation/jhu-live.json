@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155466,
+      "confirmed": 155508,
       "date": "2021-10-10",
-      "deaths": 7221
+      "deaths": 7225
     }
   },
   "Albania": {
@@ -441,7 +441,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 363356,
+      "confirmed": 363900,
       "date": "2021-10-10",
       "deaths": 2669
     }
@@ -513,7 +513,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 746938,
+          "confirmed": 747001,
           "date": "2021-10-10",
           "deaths": 15770
         }
@@ -555,7 +555,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 302459,
+          "confirmed": 302679,
           "date": "2021-10-10",
           "deaths": 10235
         }
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5691634,
+      "confirmed": 5702890,
       "date": "2021-10-10",
-      "deaths": 122370
+      "deaths": 122592
     }
   },
   "Iraq": {
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 401773,
+      "confirmed": 403157,
       "date": "2021-10-10",
       "deaths": 5280
     }
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 345451,
+      "confirmed": 346176,
       "date": "2021-10-10",
-      "deaths": 4757
+      "deaths": 4775
     }
   },
   "Lithuania": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 801633,
+      "confirmed": 802198,
       "date": "2021-10-10",
-      "deaths": 11221
+      "deaths": 11231
     }
   },
   "Netherlands": {
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547532,
+      "confirmed": 547591,
       "date": "2021-10-10",
-      "deaths": 8743
+      "deaths": 8745
     }
   },
   "Serbia": {
