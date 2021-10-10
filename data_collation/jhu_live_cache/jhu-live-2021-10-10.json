@@ -57,16 +57,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1561878,
+      "confirmed": 1562359,
       "date": "2021-10-10",
-      "deaths": 27674
+      "deaths": 27688
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 555793,
+      "confirmed": 557772,
       "date": "2021-10-10",
-      "deaths": 4275
+      "deaths": 4289
     }
   },
   "Belgium": {
