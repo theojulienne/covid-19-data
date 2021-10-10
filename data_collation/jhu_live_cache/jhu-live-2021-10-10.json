@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 329925,
+      "confirmed": 331519,
       "date": "2021-10-10",
-      "deaths": 2560
+      "deaths": 2575
     }
   },
   "Kosovo": {
@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 707687,
+          "confirmed": 709285,
           "date": "2021-10-10",
-          "deaths": 11670
+          "deaths": 11695
         }
       },
       "California": {
