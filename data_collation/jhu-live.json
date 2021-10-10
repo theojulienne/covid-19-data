@@ -333,9 +333,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 415174,
+          "confirmed": 415786,
           "date": "2021-10-10",
-          "deaths": 11412
+          "deaths": 11415
         }
       }
     }
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2911497,
+      "confirmed": 2912145,
       "date": "2021-10-10",
-      "deaths": 88292
+      "deaths": 88317
     }
   },
   "Spain": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1600421,
+          "confirmed": 1601055,
           "date": "2021-10-10",
-          "deaths": 41590
+          "deaths": 41594
         }
       },
       "North Carolina": {
