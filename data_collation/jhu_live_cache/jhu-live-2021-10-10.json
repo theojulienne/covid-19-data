@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 599701,
+          "confirmed": 599704,
           "date": "2021-10-10",
           "deaths": 9840
         }
@@ -963,35 +963,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 204655,
+          "confirmed": 205369,
           "date": "2021-10-10",
-          "deaths": 3423
+          "deaths": 3432
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 204954,
+          "confirmed": 205516,
           "date": "2021-10-10",
-          "deaths": 2337
+          "deaths": 2344
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 223507,
+          "confirmed": 224639,
           "date": "2021-10-10",
-          "deaths": 982
+          "deaths": 985
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 689317,
+          "confirmed": 690332,
           "date": "2021-10-10",
-          "deaths": 9466
+          "deaths": 9477
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 188152,
+          "confirmed": 188303,
           "date": "2021-10-10",
           "deaths": 2514
         }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 938801,
+      "confirmed": 939187,
       "date": "2021-10-10",
-      "deaths": 14442
+      "deaths": 14457
     }
   },
   "Mozambique": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2654450,
+      "confirmed": 2666562,
       "date": "2021-10-10",
-      "deaths": 39505
+      "deaths": 39624
     }
   },
   "Poland": {
@@ -1205,7 +1205,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1074813,
+      "confirmed": 1075312,
       "date": "2021-10-10",
       "deaths": 18041
     }
