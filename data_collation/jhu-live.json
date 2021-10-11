@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155508,
+      "confirmed": 155540,
       "date": "2021-10-11",
-      "deaths": 7225
+      "deaths": 7228
     }
   },
   "Albania": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168480,
+          "confirmed": 168529,
           "date": "2021-10-11",
           "deaths": 1287
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201173,
+          "confirmed": 201222,
           "date": "2021-10-11",
           "deaths": 3005
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 376844,
+          "confirmed": 376893,
           "date": "2021-10-11",
           "deaths": 3028
         }
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 346176,
+      "confirmed": 346813,
       "date": "2021-10-11",
-      "deaths": 4775
+      "deaths": 4792
     }
   },
   "Lithuania": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 802198,
+      "confirmed": 802861,
       "date": "2021-10-11",
-      "deaths": 11231
+      "deaths": 11243
     }
   },
   "Netherlands": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1356640,
+      "confirmed": 1365788,
       "date": "2021-10-11",
-      "deaths": 39420
+      "deaths": 39629
     }
   },
   "Russia": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 848418,
       "date": "2021-10-11",
-      "deaths": 11123
+      "deaths": 11125
     }
   },
   "Thailand": {
@@ -1589,9 +1589,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 737766,
+      "confirmed": 737890,
       "date": "2021-10-11",
-      "deaths": 2113
+      "deaths": 2114
     }
   },
   "United Kingdom": {
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 441882,
+      "confirmed": 443766,
       "date": "2021-10-11",
-      "deaths": 4465
+      "deaths": 4504
     }
   },
   "Zambia": {
