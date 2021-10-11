@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 331519,
+      "confirmed": 332816,
       "date": "2021-10-11",
-      "deaths": 2575
+      "deaths": 2583
     }
   },
   "Kosovo": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3314504,
+          "confirmed": 3315543,
           "date": "2021-10-11",
-          "deaths": 52551
+          "deaths": 52555
         }
       },
       "Florida": {
