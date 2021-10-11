@@ -1144,17 +1144,17 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 360257,
+        "confirmed": 360830,
         "deaths": 4055,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 356934,
+        "confirmed": 357149,
         "deaths": 4035,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 365063,
+        "confirmed": 365558,
         "deaths": 4067,
         "recovered": 0
       }
@@ -1263,18 +1263,18 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 347972,
-        "deaths": 5675,
+        "confirmed": 348669,
+        "deaths": 5722,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 340845,
-        "deaths": 5369,
+        "confirmed": 341714,
+        "deaths": 5401,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 354033,
-        "deaths": 5950,
+        "confirmed": 354476,
+        "deaths": 5990,
         "recovered": 0
       }
     },
@@ -1938,17 +1938,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 250023,
-        "deaths": 5131,
+        "confirmed": 250114,
+        "deaths": 5140,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 248392,
-        "deaths": 5096,
+        "confirmed": 248461,
+        "deaths": 5102,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 251057,
+        "confirmed": 251152,
         "deaths": 5181,
         "recovered": 0
       }
@@ -2023,17 +2023,17 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 411731,
-        "deaths": 2451,
+        "confirmed": 411803,
+        "deaths": 2452,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 411447,
-        "deaths": 2445,
+        "confirmed": 411484,
+        "deaths": 2446,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 412048,
+        "confirmed": 412079,
         "deaths": 2454,
         "recovered": 0
       }
@@ -3361,18 +3361,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 7210886,
-        "deaths": 64467,
+        "confirmed": 7238237,
+        "deaths": 64661,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 7013609,
-        "deaths": 62938,
+        "confirmed": 7039470,
+        "deaths": 63166,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 7416152,
-        "deaths": 65984,
+        "confirmed": 7444522,
+        "deaths": 66180,
         "recovered": 0
       }
     },

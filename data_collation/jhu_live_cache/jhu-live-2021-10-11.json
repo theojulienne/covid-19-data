@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 365558,
+      "confirmed": 366191,
       "date": "2021-10-11",
       "deaths": 4067
     }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 354476,
+      "confirmed": 355001,
       "date": "2021-10-11",
-      "deaths": 5990
+      "deaths": 6026
     }
   },
   "Finland": {
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1307281,
+      "confirmed": 1307870,
       "date": "2021-10-11",
-      "deaths": 7937
+      "deaths": 7940
     }
   },
   "Italy": {
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 251152,
+      "confirmed": 251248,
       "date": "2021-10-11",
-      "deaths": 5181
+      "deaths": 5190
     }
   },
   "Korea, South": {
@@ -919,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412079,
+      "confirmed": 412121,
       "date": "2021-10-11",
-      "deaths": 2454
+      "deaths": 2455
     }
   },
   "Kyrgyzstan": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7444522,
+      "confirmed": 7475085,
       "date": "2021-10-11",
-      "deaths": 66180
+      "deaths": 66368
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 190362,
+          "confirmed": 191603,
           "date": "2021-10-11",
-          "deaths": 5462
+          "deaths": 5471
         }
       },
       "Minnesota": {
