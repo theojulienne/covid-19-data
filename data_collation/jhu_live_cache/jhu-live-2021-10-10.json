@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5265528,
+      "confirmed": 5265859,
       "date": "2021-10-10",
-      "deaths": 115458
+      "deaths": 115473
     }
   },
   "Armenia": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275597,
+      "confirmed": 275654,
       "date": "2021-10-10",
       "deaths": 1390
     }
@@ -362,49 +362,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 749574,
+          "confirmed": 749918,
           "date": "2021-10-10",
           "deaths": 16139
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 323874,
+          "confirmed": 324175,
           "date": "2021-10-10",
           "deaths": 9484
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156787,
+          "confirmed": 156836,
           "date": "2021-10-10",
           "deaths": 2968
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1451270,
+          "confirmed": 1451440,
           "date": "2021-10-10",
           "deaths": 27503
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263886,
+          "confirmed": 263908,
           "date": "2021-10-10",
           "deaths": 6803
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225519,
+          "confirmed": 225551,
           "date": "2021-10-10",
           "deaths": 7294
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 408499,
+          "confirmed": 408670,
           "date": "2021-10-10",
           "deaths": 12943
         }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 354033,
+      "confirmed": 354476,
       "date": "2021-10-10",
-      "deaths": 5950
+      "deaths": 5990
     }
   },
   "Finland": {
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 709456,
+      "confirmed": 709834,
       "date": "2021-10-10",
-      "deaths": 24996
+      "deaths": 25028
     }
   },
   "Turkey": {
