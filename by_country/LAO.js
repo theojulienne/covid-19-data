@@ -1259,7 +1259,8 @@ var covid19_dataset_country_lao = {
       26462,
       26876,
       27607,
-      27607
+      27607,
+      28540
     ],
     "deaths": [
       0,
@@ -1888,7 +1889,8 @@ var covid19_dataset_country_lao = {
       23,
       23,
       24,
-      24
+      24,
+      26
     ],
     "recovered": [
       0,
@@ -2452,6 +2454,7 @@ var covid19_dataset_country_lao = {
       3180,
       3392,
       3804,
+      0,
       0,
       0,
       0,

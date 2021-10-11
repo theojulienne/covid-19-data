@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 956348,
+          "confirmed": 956755,
           "date": "2021-10-11",
-          "deaths": 39443
+          "deaths": 39453
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 179568,
+          "confirmed": 179778,
           "date": "2021-10-11",
-          "deaths": 12227
+          "deaths": 12239
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 157253,
+          "confirmed": 157375,
           "date": "2021-10-11",
-          "deaths": 16477
+          "deaths": 16492
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 367227,
+          "confirmed": 367426,
           "date": "2021-10-11",
-          "deaths": 43308
+          "deaths": 43327
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 199713,
+          "confirmed": 199881,
           "date": "2021-10-11",
-          "deaths": 12679
+          "deaths": 12688
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 325390,
+      "confirmed": 326738,
       "date": "2021-10-11",
-      "deaths": 1436
+      "deaths": 1450
     }
   },
   "Morocco": {
@@ -1182,9 +1182,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 951732,
+          "confirmed": 952334,
           "date": "2021-10-11",
-          "deaths": 88498
+          "deaths": 88515
         }
       }
     }
@@ -1642,9 +1642,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 382266,
+      "confirmed": 383376,
       "date": "2021-10-11",
-      "deaths": 4606
+      "deaths": 4617
     }
   },
   "Vietnam": {
