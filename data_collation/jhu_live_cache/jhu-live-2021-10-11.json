@@ -483,9 +483,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 145679,
+      "confirmed": 147297,
       "date": "2021-10-11",
-      "deaths": 1096
+      "deaths": 1100
     }
   },
   "France": {
@@ -506,7 +506,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 586680,
+          "confirmed": 586949,
           "date": "2021-10-11",
           "deaths": 10763
         }
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 171276,
+      "confirmed": 172278,
       "date": "2021-10-11",
-      "deaths": 2801
+      "deaths": 2806
     }
   },
   "Lebanon": {
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 303965,
+      "confirmed": 303978,
       "date": "2021-10-11",
       "deaths": 4102
     }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 848418,
       "date": "2021-10-11",
-      "deaths": 11121
+      "deaths": 11123
     }
   },
   "Thailand": {
