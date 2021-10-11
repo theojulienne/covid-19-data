@@ -29,16 +29,16 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 272356,
+      "confirmed": 272957,
       "date": "2021-10-11",
-      "deaths": 5549
+      "deaths": 5575
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 761218,
+      "confirmed": 762538,
       "date": "2021-10-11",
-      "deaths": 11096
+      "deaths": 11106
     }
   },
   "Azerbaijan": {
@@ -1198,7 +1198,7 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2922401,
+      "confirmed": 2923304,
       "date": "2021-10-11",
       "deaths": 75869
     }
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1678675,
+          "confirmed": 1683677,
           "date": "2021-10-11",
-          "deaths": 29667
+          "deaths": 29738
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 465215,
+          "confirmed": 467399,
           "date": "2021-10-11",
-          "deaths": 8286
+          "deaths": 8296
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 175747,
+          "confirmed": 176405,
           "date": "2021-10-11",
-          "deaths": 6936
+          "deaths": 6972
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 143765,
+          "confirmed": 144305,
           "date": "2021-10-11",
-          "deaths": 7094
+          "deaths": 7121
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 644692,
+          "confirmed": 647623,
           "date": "2021-10-11",
-          "deaths": 22446
+          "deaths": 22509
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 144321,
+          "confirmed": 144886,
           "date": "2021-10-11",
-          "deaths": 6731
+          "deaths": 6773
         }
       }
     }
@@ -1286,16 +1286,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 425569,
+      "confirmed": 425971,
       "date": "2021-10-11",
-      "deaths": 12731
+      "deaths": 12735
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 301458,
+      "confirmed": 301644,
       "date": "2021-10-11",
-      "deaths": 4613
+      "deaths": 4617
     }
   },
   "South Africa": {
@@ -1413,9 +1413,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1710884,
+      "confirmed": 1720919,
       "date": "2021-10-11",
-      "deaths": 17691
+      "deaths": 17751
     }
   },
   "Tunisia": {
