@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 492790,
+      "confirmed": 494067,
       "date": "2021-10-12",
-      "deaths": 6677
+      "deaths": 6692
     }
   },
   "Bahrain": {
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5716394,
+      "confirmed": 5729785,
       "date": "2021-10-12",
-      "deaths": 122868
+      "deaths": 123081
     }
   },
   "Iraq": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 346813,
+      "confirmed": 347364,
       "date": "2021-10-12",
-      "deaths": 4792
+      "deaths": 4808
     }
   },
   "Lithuania": {
@@ -1406,9 +1406,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 850684,
+      "confirmed": 851610,
       "date": "2021-10-12",
-      "deaths": 11134
+      "deaths": 11137
     }
   },
   "Thailand": {
