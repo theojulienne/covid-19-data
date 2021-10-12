@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 600331,
+          "confirmed": 600365,
           "date": "2021-10-12",
           "deaths": 9842
         }
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 366191,
+      "confirmed": 366711,
       "date": "2021-10-12",
-      "deaths": 4067
+      "deaths": 4072
     }
   },
   "Ecuador": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6884812,
+      "confirmed": 6890619,
       "date": "2021-10-12",
-      "deaths": 114808
+      "deaths": 114860
     }
   },
   "Georgia": {
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 404514,
+      "confirmed": 405970,
       "date": "2021-10-12",
       "deaths": 5280
     }
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 984398,
       "date": "2021-10-12",
-      "deaths": 16473
+      "deaths": 16509
     }
   },
   "Kenya": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 939356,
+      "confirmed": 939922,
       "date": "2021-10-12",
-      "deaths": 14474
+      "deaths": 14485
     }
   },
   "Mozambique": {
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 207978,
+      "confirmed": 207979,
       "date": "2021-10-12",
       "deaths": 2756
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3465028,
+          "confirmed": 3465323,
           "date": "2021-10-12",
-          "deaths": 54246
+          "deaths": 54250
         }
       },
       "Florida": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 626475,
+          "confirmed": 628979,
           "date": "2021-10-12",
-          "deaths": 11109
+          "deaths": 11127
         }
       },
       "Massachusetts": {
@@ -1487,7 +1487,7 @@
         "live": {
           "confirmed": 325035,
           "date": "2021-10-12",
-          "deaths": 5765
+          "deaths": 5781
         }
       },
       "New York": {
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 443766,
+      "confirmed": 444729,
       "date": "2021-10-12",
-      "deaths": 4504
+      "deaths": 4521
     }
   },
   "Zambia": {
