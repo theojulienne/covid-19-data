@@ -2125,18 +2125,18 @@ var covid19_dataset_latest_totals = {
     },
     "LIE": {
       "back_1week": {
-        "confirmed": 3450,
-        "deaths": 60,
+        "confirmed": 3559,
+        "deaths": 58,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3439,
-        "deaths": 60,
+        "confirmed": 3553,
+        "deaths": 58,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3566,
-        "deaths": 60,
+        "confirmed": 3567,
+        "deaths": 58,
         "recovered": 0
       }
     },
