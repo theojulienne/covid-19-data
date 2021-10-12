@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 204695,
+      "confirmed": 204790,
       "date": "2021-10-12",
-      "deaths": 5855
+      "deaths": 5859
     }
   },
   "Argentina": {
@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 600365,
+          "confirmed": 600466,
           "date": "2021-10-12",
           "deaths": 9842
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 416266,
+          "confirmed": 416675,
           "date": "2021-10-12",
           "deaths": 11422
         }
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 579774,
+      "confirmed": 581498,
       "date": "2021-10-12",
-      "deaths": 14066
+      "deaths": 14118
     }
   },
   "Honduras": {
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2912346,
+      "confirmed": 2912938,
       "date": "2021-10-12",
-      "deaths": 88346
+      "deaths": 88429
     }
   },
   "Spain": {
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 527064,
+      "confirmed": 527735,
       "date": "2021-10-12",
-      "deaths": 13354
+      "deaths": 13377
     }
   },
   "Sweden": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3465323,
+          "confirmed": 3466260,
           "date": "2021-10-12",
-          "deaths": 54250
+          "deaths": 54255
         }
       },
       "Florida": {
@@ -1485,7 +1485,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 325035,
+          "confirmed": 325487,
           "date": "2021-10-12",
           "deaths": 5781
         }
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 160553,
+          "confirmed": 160901,
           "date": "2021-10-12",
-          "deaths": 1640
+          "deaths": 1643
         }
       },
       "Pennsylvania": {
@@ -1541,9 +1541,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 147110,
+          "confirmed": 147423,
           "date": "2021-10-12",
-          "deaths": 1566
+          "deaths": 1584
         }
       }
     }
