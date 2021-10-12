@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 165630,
+          "confirmed": 166365,
           "date": "2021-10-12",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 170573,
+          "confirmed": 171570,
           "date": "2021-10-12",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 175167,
+          "confirmed": 175673,
           "date": "2021-10-12",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 152874,
+          "confirmed": 153609,
           "date": "2021-10-12",
           "deaths": 0
         }
@@ -578,9 +578,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 369030,
+      "confirmed": 370262,
       "date": "2021-10-12",
-      "deaths": 9948
+      "deaths": 10009
     }
   },
   "Hungary": {
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 332816,
+      "confirmed": 334163,
       "date": "2021-10-12",
-      "deaths": 2583
+      "deaths": 2594
     }
   },
   "Kosovo": {
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 956755,
+          "confirmed": 957184,
           "date": "2021-10-12",
-          "deaths": 39453
+          "deaths": 39471
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 179778,
+          "confirmed": 179933,
           "date": "2021-10-12",
-          "deaths": 12239
+          "deaths": 12248
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 157375,
+          "confirmed": 157471,
           "date": "2021-10-12",
-          "deaths": 16492
+          "deaths": 16503
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 367426,
+          "confirmed": 367552,
           "date": "2021-10-12",
-          "deaths": 43327
+          "deaths": 43335
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 199881,
+          "confirmed": 199938,
           "date": "2021-10-12",
-          "deaths": 12688
+          "deaths": 12690
         }
       }
     }
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 175974,
+          "confirmed": 176048,
           "date": "2021-10-12",
-          "deaths": 5645
+          "deaths": 5650
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 436197,
+          "confirmed": 436442,
           "date": "2021-10-12",
-          "deaths": 12785
+          "deaths": 12792
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 462859,
+          "confirmed": 463167,
           "date": "2021-10-12",
-          "deaths": 7497
+          "deaths": 7502
         }
       }
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3462261,
+          "confirmed": 3464048,
           "date": "2021-10-12",
-          "deaths": 54241
+          "deaths": 54236
         }
       },
       "Florida": {
@@ -1520,7 +1520,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1774752,
+          "confirmed": 1775560,
           "date": "2021-10-12",
           "deaths": 25659
         }
