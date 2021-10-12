@@ -362,51 +362,51 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 749918,
+          "confirmed": 750118,
           "date": "2021-10-12",
-          "deaths": 16149
+          "deaths": 16162
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 324175,
+          "confirmed": 324352,
           "date": "2021-10-12",
-          "deaths": 9485
+          "deaths": 9486
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 156836,
+          "confirmed": 156899,
           "date": "2021-10-12",
-          "deaths": 2969
+          "deaths": 2970
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1451440,
+          "confirmed": 1451584,
           "date": "2021-10-12",
-          "deaths": 27506
+          "deaths": 27507
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 263908,
+          "confirmed": 263936,
           "date": "2021-10-12",
-          "deaths": 6803
+          "deaths": 6804
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225551,
+          "confirmed": 225582,
           "date": "2021-10-12",
-          "deaths": 7294
+          "deaths": 7295
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 408670,
+          "confirmed": 408712,
           "date": "2021-10-12",
-          "deaths": 12953
+          "deaths": 12956
         }
       }
     }
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1604316,
+          "confirmed": 1605069,
           "date": "2021-10-12",
-          "deaths": 41620
+          "deaths": 41623
         }
       },
       "North Carolina": {
