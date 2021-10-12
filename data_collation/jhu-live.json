@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 600812,
+          "confirmed": 600851,
           "date": "2021-10-12",
           "deaths": 9844
         }
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1309510,
+      "confirmed": 1309738,
       "date": "2021-10-12",
-      "deaths": 7947
+      "deaths": 7952
     }
   },
   "Italy": {
@@ -1520,7 +1520,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1776097,
+          "confirmed": 1776893,
           "date": "2021-10-12",
           "deaths": 25665
         }
