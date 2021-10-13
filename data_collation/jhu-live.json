@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 275803,
+      "confirmed": 275862,
       "date": "2021-10-13",
       "deaths": 1390
     }
@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 311633,
+          "confirmed": 312285,
           "date": "2021-10-13",
-          "deaths": 2863
+          "deaths": 2901
         }
       },
       "British Columbia": {
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 581498,
+      "confirmed": 583201,
       "date": "2021-10-13",
-      "deaths": 14118
+      "deaths": 14177
     }
   },
   "Honduras": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412158,
+      "confirmed": 412196,
       "date": "2021-10-13",
       "deaths": 2455
     }
@@ -1173,7 +1173,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460244,
+      "confirmed": 460277,
       "date": "2021-10-13",
       "deaths": 16207
     }
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 527735,
+      "confirmed": 528415,
       "date": "2021-10-13",
-      "deaths": 13377
+      "deaths": 13408
     }
   },
   "Sweden": {
@@ -1436,9 +1436,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 712879,
+          "confirmed": 714404,
           "date": "2021-10-13",
-          "deaths": 11770
+          "deaths": 11778
         }
       },
       "California": {
@@ -1464,9 +1464,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 155244,
+          "confirmed": 155491,
           "date": "2021-10-13",
-          "deaths": 3895
+          "deaths": 3898
         }
       },
       "Michigan": {
@@ -1520,9 +1520,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1779435,
+          "confirmed": 1782399,
           "date": "2021-10-13",
-          "deaths": 25689
+          "deaths": 26086
         }
       },
       "Utah": {
