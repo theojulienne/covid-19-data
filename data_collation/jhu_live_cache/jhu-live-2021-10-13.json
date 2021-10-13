@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 504121,
+      "confirmed": 504601,
       "date": "2021-10-13",
-      "deaths": 18803
+      "deaths": 18806
     }
   },
   "Bosnia and Herzegovina": {
@@ -413,9 +413,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 546595,
+      "confirmed": 547914,
       "date": "2021-10-13",
-      "deaths": 6698
+      "deaths": 6718
     }
   },
   "Croatia": {
@@ -506,58 +506,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 589808,
+          "confirmed": 589825,
           "date": "2021-10-13",
           "deaths": 10788
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 749059,
+          "confirmed": 751548,
           "date": "2021-10-13",
-          "deaths": 15790
+          "deaths": 15809
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 210945,
+          "confirmed": 211635,
           "date": "2021-10-13",
-          "deaths": 3655
+          "deaths": 3657
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 339298,
+          "confirmed": 339991,
           "date": "2021-10-13",
-          "deaths": 7785
+          "deaths": 7786
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 305790,
+          "confirmed": 306500,
           "date": "2021-10-13",
-          "deaths": 6004
+          "deaths": 6009
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 973775,
+          "confirmed": 975243,
           "date": "2021-10-13",
-          "deaths": 17953
+          "deaths": 17974
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 184720,
+          "confirmed": 184735,
           "date": "2021-10-13",
           "deaths": 4027
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 303697,
+          "confirmed": 303795,
           "date": "2021-10-13",
-          "deaths": 10238
+          "deaths": 10239
         }
       }
     }
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 984398,
+      "confirmed": 986281,
       "date": "2021-10-13",
       "deaths": 16509
     }
