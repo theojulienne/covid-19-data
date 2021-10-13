@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 600851,
+          "confirmed": 601012,
           "date": "2021-10-13",
-          "deaths": 9844
+          "deaths": 9852
         }
       },
       "Quebec": {
@@ -441,7 +441,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 365051,
+      "confirmed": 365840,
       "date": "2021-10-13",
       "deaths": 2674
     }
@@ -513,9 +513,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 751548,
+          "confirmed": 751704,
           "date": "2021-10-13",
-          "deaths": 15809
+          "deaths": 15810
         }
       },
       "Berlin": {
@@ -555,7 +555,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 303795,
+          "confirmed": 304671,
           "date": "2021-10-13",
           "deaths": 10239
         }
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2683372,
+      "confirmed": 2690455,
       "date": "2021-10-13",
-      "deaths": 39896
+      "deaths": 40069
     }
   },
   "Poland": {
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547704,
+      "confirmed": 547761,
       "date": "2021-10-13",
-      "deaths": 8751
+      "deaths": 8753
     }
   },
   "Serbia": {
@@ -1383,21 +1383,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 165079,
+          "confirmed": 165172,
           "date": "2021-10-13",
           "deaths": 1784
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 276573,
+          "confirmed": 276784,
           "date": "2021-10-13",
           "deaths": 4438
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 202507,
+          "confirmed": 202605,
           "date": "2021-10-13",
           "deaths": 2423
         }
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 852658,
       "date": "2021-10-13",
-      "deaths": 11144
+      "deaths": 11145
     }
   },
   "Thailand": {
