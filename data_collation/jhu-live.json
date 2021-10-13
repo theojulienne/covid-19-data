@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 763928,
+      "confirmed": 766542,
       "date": "2021-10-13",
-      "deaths": 11120
+      "deaths": 11135
     }
   },
   "Azerbaijan": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168575,
+          "confirmed": 168625,
           "date": "2021-10-13",
           "deaths": 1288
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201325,
+          "confirmed": 201450,
           "date": "2021-10-13",
-          "deaths": 3007
+          "deaths": 3010
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 376970,
+          "confirmed": 377042,
           "date": "2021-10-13",
           "deaths": 3044
         }
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2925425,
+      "confirmed": 2928065,
       "date": "2021-10-13",
-      "deaths": 75918
+      "deaths": 75958
     }
   },
   "Portugal": {
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1688376,
+          "confirmed": 1692786,
           "date": "2021-10-13",
-          "deaths": 29808
+          "deaths": 29880
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 469203,
+          "confirmed": 471101,
           "date": "2021-10-13",
-          "deaths": 8301
+          "deaths": 8311
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 177060,
+          "confirmed": 177728,
           "date": "2021-10-13",
-          "deaths": 7005
+          "deaths": 7042
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 144839,
+          "confirmed": 145380,
           "date": "2021-10-13",
-          "deaths": 7151
+          "deaths": 7177
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 649781,
+          "confirmed": 652251,
           "date": "2021-10-13",
-          "deaths": 22571
+          "deaths": 22636
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 145450,
+          "confirmed": 146002,
           "date": "2021-10-13",
-          "deaths": 6817
+          "deaths": 6856
         }
       }
     }
@@ -1286,9 +1286,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 427480,
+      "confirmed": 429886,
       "date": "2021-10-13",
-      "deaths": 12752
+      "deaths": 12772
     }
   },
   "Slovenia": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 851610,
       "date": "2021-10-13",
-      "deaths": 11141
+      "deaths": 11142
     }
   },
   "Thailand": {
