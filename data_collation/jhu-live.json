@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 601216,
+          "confirmed": 601232,
           "date": "2021-10-13",
           "deaths": 9856
         }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 939922,
+      "confirmed": 940503,
       "date": "2021-10-13",
-      "deaths": 14485
+      "deaths": 14500
     }
   },
   "Mozambique": {
@@ -1295,14 +1295,14 @@
     "live": {
       "confirmed": 292808,
       "date": "2021-10-13",
-      "deaths": 4622
+      "deaths": 4623
     }
   },
   "South Africa": {
     "live": {
-      "confirmed": 2912938,
+      "confirmed": 2913880,
       "date": "2021-10-13",
-      "deaths": 88429
+      "deaths": 88466
     }
   },
   "Spain": {
@@ -1541,9 +1541,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 147423,
+          "confirmed": 147759,
           "date": "2021-10-13",
-          "deaths": 1584
+          "deaths": 1587
         }
       }
     }
