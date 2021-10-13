@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 166365,
+          "confirmed": 166659,
           "date": "2021-10-13",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 171570,
+          "confirmed": 171954,
           "date": "2021-10-13",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 175673,
+          "confirmed": 175850,
           "date": "2021-10-13",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 153609,
+          "confirmed": 153990,
           "date": "2021-10-13",
           "deaths": 0
         }
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 176048,
+          "confirmed": 176194,
           "date": "2021-10-13",
-          "deaths": 5650
+          "deaths": 5657
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 436442,
+          "confirmed": 436720,
           "date": "2021-10-13",
-          "deaths": 12792
+          "deaths": 12800
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 463167,
+          "confirmed": 463703,
           "date": "2021-10-13",
-          "deaths": 7502
+          "deaths": 7505
         }
       }
     }
