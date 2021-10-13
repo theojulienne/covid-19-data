@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 179429,
+      "confirmed": 179492,
       "date": "2021-10-13",
-      "deaths": 2622
+      "deaths": 2624
     }
   },
   "Latvia": {
@@ -1413,9 +1413,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1730364,
+      "confirmed": 1740428,
       "date": "2021-10-13",
-      "deaths": 17835
+      "deaths": 17917
     }
   },
   "Tunisia": {
@@ -1635,16 +1635,16 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 178986,
+      "confirmed": 179371,
       "date": "2021-10-13",
-      "deaths": 1273
+      "deaths": 1276
     }
   },
   "Venezuela": {
     "live": {
-      "confirmed": 384668,
+      "confirmed": 385952,
       "date": "2021-10-13",
-      "deaths": 4634
+      "deaths": 4652
     }
   },
   "Vietnam": {
