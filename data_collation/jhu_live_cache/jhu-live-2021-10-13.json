@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 334163,
+      "confirmed": 335742,
       "date": "2021-10-13",
-      "deaths": 2594
+      "deaths": 2605
     }
   },
   "Kosovo": {
@@ -1520,7 +1520,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1777324,
+          "confirmed": 1778687,
           "date": "2021-10-13",
           "deaths": 25665
         }
@@ -1534,9 +1534,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 156611,
+          "confirmed": 156822,
           "date": "2021-10-13",
-          "deaths": 1906
+          "deaths": 1905
         }
       },
       "Wisconsin": {
