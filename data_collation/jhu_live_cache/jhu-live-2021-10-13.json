@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 601078,
+          "confirmed": 601132,
           "date": "2021-10-13",
           "deaths": 9852
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 416675,
+          "confirmed": 417187,
           "date": "2021-10-13",
           "deaths": 11429
         }
@@ -1471,9 +1471,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 191603,
+          "confirmed": 192726,
           "date": "2021-10-13",
-          "deaths": 5471
+          "deaths": 5492
         }
       },
       "Minnesota": {
