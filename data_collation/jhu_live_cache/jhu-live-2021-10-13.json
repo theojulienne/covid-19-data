@@ -110,9 +110,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 241946,
+      "confirmed": 242469,
       "date": "2021-10-13",
-      "deaths": 11009
+      "deaths": 11046
     }
   },
   "Botswana": {
@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 184735,
+          "confirmed": 185069,
           "date": "2021-10-13",
-          "deaths": 4027
+          "deaths": 4031
         }
       },
       "Sachsen": {
@@ -771,9 +771,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2026349,
+      "confirmed": 2028115,
       "date": "2021-10-13",
-      "deaths": 22620
+      "deaths": 22655
     }
   },
   "Ireland": {
@@ -912,9 +912,9 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160435,
+      "confirmed": 160464,
       "date": "2021-10-13",
-      "deaths": 2972
+      "deaths": 2973
     }
   },
   "Kuwait": {
@@ -1076,37 +1076,37 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 224567,
+          "confirmed": 225022,
           "date": "2021-10-13",
-          "deaths": 2105
+          "deaths": 2106
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 316610,
+          "confirmed": 317012,
           "date": "2021-10-13",
-          "deaths": 3180
+          "deaths": 3181
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 347824,
+          "confirmed": 348284,
           "date": "2021-10-13",
-          "deaths": 2733
+          "deaths": 2737
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 157318,
+          "confirmed": 157662,
           "date": "2021-10-13",
-          "deaths": 1305
+          "deaths": 1306
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 483858,
+          "confirmed": 484756,
           "date": "2021-10-13",
-          "deaths": 4381
+          "deaths": 4383
         }
       }
     }
@@ -1127,9 +1127,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 194630,
+      "confirmed": 194818,
       "date": "2021-10-13",
-      "deaths": 871
+      "deaths": 884
     }
   },
   "Oman": {
@@ -1207,12 +1207,12 @@
     "live": {
       "confirmed": 1076358,
       "date": "2021-10-13",
-      "deaths": 18056
+      "deaths": 18065
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 237579,
+      "confirmed": 237662,
       "date": "2021-10-13",
       "deaths": 607
     }
@@ -1279,9 +1279,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1017798,
+      "confirmed": 1024497,
       "date": "2021-10-13",
-      "deaths": 8841
+      "deaths": 8892
     }
   },
   "Slovakia": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 852658,
       "date": "2021-10-13",
-      "deaths": 11145
+      "deaths": 11146
     }
   },
   "Thailand": {
@@ -1589,9 +1589,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 738026,
+      "confirmed": 738152,
       "date": "2021-10-13",
-      "deaths": 2115
+      "deaths": 2116
     }
   },
   "United Kingdom": {
@@ -1649,9 +1649,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 846230,
+      "confirmed": 849691,
       "date": "2021-10-13",
-      "deaths": 20763
+      "deaths": 20869
     }
   },
   "West Bank and Gaza": {
