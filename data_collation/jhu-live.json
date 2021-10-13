@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 601075,
+          "confirmed": 601078,
           "date": "2021-10-13",
           "deaths": 9852
         }
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 366711,
+      "confirmed": 367379,
       "date": "2021-10-13",
-      "deaths": 4072
+      "deaths": 4077
     }
   },
   "Ecuador": {
@@ -963,35 +963,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 206811,
+          "confirmed": 207514,
           "date": "2021-10-13",
-          "deaths": 3455
+          "deaths": 3464
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 206755,
+          "confirmed": 207506,
           "date": "2021-10-13",
-          "deaths": 2363
+          "deaths": 2369
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 226510,
+          "confirmed": 227675,
           "date": "2021-10-13",
-          "deaths": 1025
+          "deaths": 1041
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 692305,
+          "confirmed": 693754,
           "date": "2021-10-13",
-          "deaths": 9494
+          "deaths": 9497
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 188776,
+          "confirmed": 189085,
           "date": "2021-10-13",
           "deaths": 2522
         }
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 195132,
+      "confirmed": 195542,
       "date": "2021-10-13",
-      "deaths": 6855
+      "deaths": 6875
     }
   },
   "Norway": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3468646,
+          "confirmed": 3468986,
           "date": "2021-10-13",
-          "deaths": 54315
+          "deaths": 54316
         }
       },
       "Florida": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 628979,
+          "confirmed": 629834,
           "date": "2021-10-13",
-          "deaths": 11127
+          "deaths": 11145
         }
       },
       "Massachusetts": {
@@ -1492,9 +1492,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1606665,
+          "confirmed": 1463739,
           "date": "2021-10-13",
-          "deaths": 41637
+          "deaths": 39299
         }
       },
       "North Carolina": {
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 160901,
+          "confirmed": 304417,
           "date": "2021-10-13",
-          "deaths": 1643
+          "deaths": 4043
         }
       },
       "Pennsylvania": {
