@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 175664,
+      "confirmed": 176172,
       "date": "2021-10-13",
-      "deaths": 2783
+      "deaths": 2788
     }
   },
   "Algeria": {
@@ -335,7 +335,7 @@
         "live": {
           "confirmed": 416675,
           "date": "2021-10-13",
-          "deaths": 11422
+          "deaths": 11429
         }
       }
     }
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1310670,
+      "confirmed": 1311295,
       "date": "2021-10-13",
       "deaths": 7959
     }
@@ -794,65 +794,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 459419,
+          "confirmed": 459699,
           "date": "2021-10-13",
-          "deaths": 7993
+          "deaths": 7997
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 426771,
+          "confirmed": 426994,
           "date": "2021-10-13",
-          "deaths": 13516
+          "deaths": 13521
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 387620,
+          "confirmed": 387814,
           "date": "2021-10-13",
-          "deaths": 8693
+          "deaths": 8697
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 887200,
+          "confirmed": 887507,
           "date": "2021-10-13",
-          "deaths": 34093
+          "deaths": 34098
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 380875,
+          "confirmed": 381070,
           "date": "2021-10-13",
-          "deaths": 11781
+          "deaths": 11782
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 269952,
+          "confirmed": 270038,
           "date": "2021-10-13",
-          "deaths": 6810
+          "deaths": 6811
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 302162,
+          "confirmed": 302466,
           "date": "2021-10-13",
-          "deaths": 6909
+          "deaths": 6915
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 284755,
+          "confirmed": 284970,
           "date": "2021-10-13",
-          "deaths": 7216
+          "deaths": 7218
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 473014,
+          "confirmed": 473362,
           "date": "2021-10-13",
-          "deaths": 11798
+          "deaths": 11799
         }
       }
     }
@@ -863,21 +863,21 @@
         "live": {
           "confirmed": 168625,
           "date": "2021-10-13",
-          "deaths": 1288
+          "deaths": 1290
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 201450,
           "date": "2021-10-13",
-          "deaths": 3010
+          "deaths": 3015
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 377042,
           "date": "2021-10-13",
-          "deaths": 3044
+          "deaths": 3057
         }
       }
     }
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 986281,
       "date": "2021-10-13",
-      "deaths": 16509
+      "deaths": 16544
     }
   },
   "Kenya": {
@@ -1205,7 +1205,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1076358,
+      "confirmed": 1077186,
       "date": "2021-10-13",
       "deaths": 18065
     }
@@ -1513,9 +1513,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 177651,
+          "confirmed": 177989,
           "date": "2021-10-13",
-          "deaths": 3950
+          "deaths": 3955
         }
       },
       "Texas": {
@@ -1598,30 +1598,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 7000356,
+          "confirmed": 7035489,
           "date": "2021-10-13",
-          "deaths": 120552
+          "deaths": 120653
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 252208,
+          "confirmed": 253679,
           "date": "2021-10-13",
-          "deaths": 2599
+          "deaths": 2600
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 594623,
+          "confirmed": 597199,
           "date": "2021-10-13",
-          "deaths": 8819
+          "deaths": 8849
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 384250,
+          "confirmed": 386516,
           "date": "2021-10-13",
-          "deaths": 5974
+          "deaths": 5978
         }
       }
     }
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 444729,
+      "confirmed": 445538,
       "date": "2021-10-13",
-      "deaths": 4521
+      "deaths": 4532
     }
   },
   "Zambia": {
