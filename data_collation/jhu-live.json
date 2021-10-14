@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 151985,
+          "confirmed": 152056,
           "date": "2021-10-14",
           "deaths": 2693
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 697836,
+          "confirmed": 698550,
           "date": "2021-10-14",
-          "deaths": 19251
+          "deaths": 19256
         }
       }
     }
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 408021,
+      "confirmed": 409647,
       "date": "2021-10-14",
       "deaths": 5306
     }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 940503,
+      "confirmed": 941009,
       "date": "2021-10-14",
-      "deaths": 14500
+      "deaths": 14520
     }
   },
   "Mozambique": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 195542,
+      "confirmed": 195963,
       "date": "2021-10-14",
-      "deaths": 6875
+      "deaths": 6888
     }
   },
   "Norway": {
@@ -1383,23 +1383,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 165172,
+          "confirmed": 165242,
           "date": "2021-10-14",
           "deaths": 1784
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 276784,
+          "confirmed": 277012,
           "date": "2021-10-14",
           "deaths": 4438
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 202605,
+          "confirmed": 202728,
           "date": "2021-10-14",
-          "deaths": 2423
+          "deaths": 2427
         }
       }
     }
@@ -1436,16 +1436,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 714404,
+          "confirmed": 715923,
           "date": "2021-10-14",
-          "deaths": 11778
+          "deaths": 11781
         }
       },
       "California": {
         "live": {
-          "confirmed": 3470517,
+          "confirmed": 3471476,
           "date": "2021-10-14",
-          "deaths": 54324
+          "deaths": 54372
         }
       },
       "Florida": {
@@ -1459,7 +1459,7 @@
         "live": {
           "confirmed": 629834,
           "date": "2021-10-14",
-          "deaths": 11145
+          "deaths": 11144
         }
       },
       "Massachusetts": {
@@ -1478,9 +1478,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 150445,
+          "confirmed": 150856,
           "date": "2021-10-14",
-          "deaths": 1896
+          "deaths": 1900
         }
       },
       "Nevada": {
@@ -1499,9 +1499,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 154206,
+          "confirmed": 154435,
           "date": "2021-10-14",
-          "deaths": 1204
+          "deaths": 1205
         }
       },
       "Ohio": {
@@ -1520,9 +1520,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1782862,
+          "confirmed": 1783564,
           "date": "2021-10-14",
-          "deaths": 26086
+          "deaths": 26106
         }
       },
       "Utah": {
