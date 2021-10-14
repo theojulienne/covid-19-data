@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 204900,
+      "confirmed": 205005,
       "date": "2021-10-14",
-      "deaths": 5862
+      "deaths": 5864
     }
   },
   "Argentina": {
@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 601553,
+          "confirmed": 601649,
           "date": "2021-10-14",
-          "deaths": 9858
+          "deaths": 9859
         }
       },
       "Quebec": {
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 356772,
+      "confirmed": 357550,
       "date": "2021-10-14",
-      "deaths": 6103
+      "deaths": 6141
     }
   },
   "Finland": {
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1312784,
+      "confirmed": 1312908,
       "date": "2021-10-14",
-      "deaths": 7966
+      "deaths": 7972
     }
   },
   "Italy": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412196,
+      "confirmed": 412228,
       "date": "2021-10-14",
       "deaths": 2455
     }
@@ -1060,7 +1060,7 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151046,
+      "confirmed": 151061,
       "date": "2021-10-14",
       "deaths": 1924
     }
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2913880,
+      "confirmed": 2914827,
       "date": "2021-10-14",
-      "deaths": 88466
+      "deaths": 88506
     }
   },
   "Spain": {
@@ -1408,7 +1408,7 @@
     "live": {
       "confirmed": 853637,
       "date": "2021-10-14",
-      "deaths": 11151
+      "deaths": 11152
     }
   },
   "Thailand": {
@@ -1520,16 +1520,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1783564,
+          "confirmed": 1784294,
           "date": "2021-10-14",
-          "deaths": 26106
+          "deaths": 26174
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 188064,
+          "confirmed": 188456,
           "date": "2021-10-14",
-          "deaths": 1110
+          "deaths": 1113
         }
       },
       "Washington": {
@@ -1541,9 +1541,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 147759,
+          "confirmed": 148037,
           "date": "2021-10-14",
-          "deaths": 1587
+          "deaths": 1589
         }
       }
     }
