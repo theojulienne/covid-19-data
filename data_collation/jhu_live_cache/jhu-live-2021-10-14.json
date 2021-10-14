@@ -364,35 +364,35 @@
         "live": {
           "confirmed": 750703,
           "date": "2021-10-14",
-          "deaths": 16176
+          "deaths": 16184
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 324798,
           "date": "2021-10-14",
-          "deaths": 9489
+          "deaths": 9496
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 156975,
           "date": "2021-10-14",
-          "deaths": 2971
+          "deaths": 2972
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1451840,
           "date": "2021-10-14",
-          "deaths": 27511
+          "deaths": 27513
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 263975,
           "date": "2021-10-14",
-          "deaths": 6806
+          "deaths": 6808
         }
       },
       "Santander": {
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 986281,
+      "confirmed": 988365,
       "date": "2021-10-14",
       "deaths": 16544
     }
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 176194,
+          "confirmed": 176366,
           "date": "2021-10-14",
-          "deaths": 5657
+          "deaths": 5666
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 436720,
+          "confirmed": 437032,
           "date": "2021-10-14",
-          "deaths": 12800
+          "deaths": 12808
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 463703,
+          "confirmed": 464142,
           "date": "2021-10-14",
-          "deaths": 7505
+          "deaths": 7514
         }
       }
     }
