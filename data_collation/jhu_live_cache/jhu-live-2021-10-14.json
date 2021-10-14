@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 504601,
+      "confirmed": 505157,
       "date": "2021-10-14",
-      "deaths": 18806
+      "deaths": 18811
     }
   },
   "Bosnia and Herzegovina": {
@@ -578,9 +578,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 370968,
+      "confirmed": 371431,
       "date": "2021-10-14",
-      "deaths": 10044
+      "deaths": 10064
     }
   },
   "Hungary": {
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 330869,
+      "confirmed": 332789,
       "date": "2021-10-14",
-      "deaths": 1482
+      "deaths": 1497
     }
   },
   "Morocco": {
@@ -1166,7 +1166,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 469440,
+      "confirmed": 469569,
       "date": "2021-10-14",
       "deaths": 7275
     }
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3469201,
+          "confirmed": 3470517,
           "date": "2021-10-14",
-          "deaths": 54320
+          "deaths": 54324
         }
       },
       "Florida": {
