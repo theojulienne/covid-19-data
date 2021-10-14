@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 495332,
+      "confirmed": 496780,
       "date": "2021-10-14",
-      "deaths": 6709
+      "deaths": 6720
     }
   },
   "Bahrain": {
@@ -57,16 +57,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1564019,
+      "confirmed": 1564485,
       "date": "2021-10-14",
-      "deaths": 27730
+      "deaths": 27737
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 563813,
+      "confirmed": 565865,
       "date": "2021-10-14",
-      "deaths": 4336
+      "deaths": 4353
     }
   },
   "Belgium": {
@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 601232,
+          "confirmed": 601433,
           "date": "2021-10-14",
-          "deaths": 9856
+          "deaths": 9858
         }
       },
       "Quebec": {
@@ -441,9 +441,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 365840,
+      "confirmed": 366607,
       "date": "2021-10-14",
-      "deaths": 2674
+      "deaths": 2676
     }
   },
   "Dominican Republic": {
@@ -513,9 +513,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 754579,
+          "confirmed": 754637,
           "date": "2021-10-14",
-          "deaths": 15826
+          "deaths": 15824
         }
       },
       "Berlin": {
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 304836,
+          "confirmed": 305635,
           "date": "2021-10-14",
-          "deaths": 10239
+          "deaths": 10241
         }
       }
     }
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547761,
+      "confirmed": 547797,
       "date": "2021-10-14",
-      "deaths": 8753
+      "deaths": 8755
     }
   },
   "Serbia": {
