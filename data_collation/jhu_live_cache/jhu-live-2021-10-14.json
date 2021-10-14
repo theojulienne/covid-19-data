@@ -506,56 +506,56 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 591832,
+          "confirmed": 591847,
           "date": "2021-10-14",
           "deaths": 10796
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 751704,
+          "confirmed": 754579,
           "date": "2021-10-14",
-          "deaths": 15810
+          "deaths": 15826
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 211643,
+          "confirmed": 212194,
           "date": "2021-10-14",
-          "deaths": 3657
+          "deaths": 3658
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 339991,
+          "confirmed": 340592,
           "date": "2021-10-14",
-          "deaths": 7786
+          "deaths": 7791
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 306500,
+          "confirmed": 307375,
           "date": "2021-10-14",
-          "deaths": 6009
+          "deaths": 6016
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 975243,
+          "confirmed": 977115,
           "date": "2021-10-14",
-          "deaths": 17974
+          "deaths": 17995
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 185069,
+          "confirmed": 185083,
           "date": "2021-10-14",
           "deaths": 4031
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 304671,
+          "confirmed": 304836,
           "date": "2021-10-14",
           "deaths": 10239
         }
@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 179492,
+      "confirmed": 179583,
       "date": "2021-10-14",
-      "deaths": 2624
+      "deaths": 2627
     }
   },
   "Latvia": {
@@ -1635,9 +1635,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 179371,
+      "confirmed": 179711,
       "date": "2021-10-14",
-      "deaths": 1276
+      "deaths": 1280
     }
   },
   "Venezuela": {
