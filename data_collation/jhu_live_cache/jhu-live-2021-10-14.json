@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 166659,
+          "confirmed": 167228,
           "date": "2021-10-14",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 171954,
+          "confirmed": 172506,
           "date": "2021-10-14",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 175850,
+          "confirmed": 176203,
           "date": "2021-10-14",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 153990,
+          "confirmed": 154509,
           "date": "2021-10-14",
           "deaths": 0
         }
