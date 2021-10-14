@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155627,
+      "confirmed": 155682,
       "date": "2021-10-14",
-      "deaths": 7234
+      "deaths": 7238
     }
   },
   "Albania": {
@@ -861,14 +861,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168625,
+          "confirmed": 168677,
           "date": "2021-10-14",
-          "deaths": 1290
+          "deaths": 1292
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201450,
+          "confirmed": 201562,
           "date": "2021-10-14",
           "deaths": 3015
         }
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304013,
+      "confirmed": 304025,
       "date": "2021-10-14",
       "deaths": 4103
     }
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1692786,
+          "confirmed": 1699498,
           "date": "2021-10-14",
-          "deaths": 29880
+          "deaths": 29952
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 471101,
+          "confirmed": 473012,
           "date": "2021-10-14",
-          "deaths": 8311
+          "deaths": 8322
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 177728,
+          "confirmed": 178410,
           "date": "2021-10-14",
-          "deaths": 7042
+          "deaths": 7079
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 145380,
+          "confirmed": 145932,
           "date": "2021-10-14",
-          "deaths": 7177
+          "deaths": 7209
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 652251,
+          "confirmed": 654596,
           "date": "2021-10-14",
-          "deaths": 22636
+          "deaths": 22703
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 146002,
+          "confirmed": 146564,
           "date": "2021-10-14",
-          "deaths": 6856
+          "deaths": 6897
         }
       }
     }
