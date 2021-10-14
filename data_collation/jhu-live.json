@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 926320,
+      "confirmed": 928684,
       "date": "2021-10-14",
-      "deaths": 7956
+      "deaths": 7994
     }
   },
   "Czechia": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 684706,
+      "confirmed": 687278,
       "date": "2021-10-14",
-      "deaths": 15241
+      "deaths": 15289
     }
   },
   "Guatemala": {
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 837255,
+      "confirmed": 838523,
       "date": "2021-10-14",
-      "deaths": 10841
+      "deaths": 10847
     }
   },
   "Kazakhstan": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 195029,
+      "confirmed": 195187,
       "date": "2021-10-14",
       "deaths": 884
     }
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 528415,
+      "confirmed": 529608,
       "date": "2021-10-14",
-      "deaths": 13408
+      "deaths": 13429
     }
   },
   "Sweden": {
