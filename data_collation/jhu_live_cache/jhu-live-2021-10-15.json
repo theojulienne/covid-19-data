@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 176667,
+      "confirmed": 177108,
       "date": "2021-10-15",
-      "deaths": 2797
+      "deaths": 2807
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 602052,
+          "confirmed": 602130,
           "date": "2021-10-15",
           "deaths": 9861
         }
@@ -1527,9 +1527,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 188456,
+          "confirmed": 188954,
           "date": "2021-10-15",
-          "deaths": 1113
+          "deaths": 1120
         }
       },
       "Washington": {

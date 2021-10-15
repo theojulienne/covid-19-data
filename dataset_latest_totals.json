@@ -36,18 +36,18 @@
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 173190,
-        "deaths": 2734,
+        "confirmed": 173723,
+        "deaths": 2746,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 169462,
-        "deaths": 2685,
+        "confirmed": 170131,
+        "deaths": 2698,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 176172,
-        "deaths": 2788,
+        "confirmed": 176667,
+        "deaths": 2797,
         "recovered": 0
       }
     },
