@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 602004,
+          "confirmed": 602048,
           "date": "2021-10-15",
           "deaths": 9861
         }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6899839,
+      "confirmed": 6905628,
       "date": "2021-10-15",
-      "deaths": 114887
+      "deaths": 114921
     }
   },
   "Georgia": {
@@ -1427,9 +1427,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7570902,
+      "confirmed": 7601596,
       "date": "2021-10-15",
-      "deaths": 67044
+      "deaths": 67225
     }
   },
   "US": {
@@ -1443,9 +1443,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3476251,
+          "confirmed": 3476495,
           "date": "2021-10-15",
-          "deaths": 54443
+          "deaths": 54448
         }
       },
       "Florida": {
@@ -1457,9 +1457,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 630542,
+          "confirmed": 631261,
           "date": "2021-10-15",
-          "deaths": 11157
+          "deaths": 11168
         }
       },
       "Massachusetts": {
@@ -1506,9 +1506,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 305196,
+          "confirmed": 305945,
           "date": "2021-10-15",
-          "deaths": 4043
+          "deaths": 4074
         }
       },
       "Pennsylvania": {
