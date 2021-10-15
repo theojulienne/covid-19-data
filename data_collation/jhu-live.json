@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 484317,
+      "confirmed": 485646,
       "date": "2021-10-15",
-      "deaths": 18255
+      "deaths": 18297
     }
   },
   "Canada": {
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152056,
+          "confirmed": 152148,
           "date": "2021-10-15",
           "deaths": 2693
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 698550,
+          "confirmed": 699562,
           "date": "2021-10-15",
-          "deaths": 19256
+          "deaths": 19260
         }
       }
     }
@@ -548,25 +548,25 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 185529,
+          "confirmed": 185949,
           "date": "2021-10-15",
-          "deaths": 4036
+          "deaths": 4040
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 305709,
+          "confirmed": 306566,
           "date": "2021-10-15",
-          "deaths": 10243
+          "deaths": 10250
         }
       }
     }
   },
   "Greece": {
     "live": {
-      "confirmed": 687278,
+      "confirmed": 689896,
       "date": "2021-10-15",
-      "deaths": 15289
+      "deaths": 15317
     }
   },
   "Guatemala": {
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1313755,
+      "confirmed": 1314213,
       "date": "2021-10-15",
       "deaths": 7976
     }
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 838523,
+      "confirmed": 839544,
       "date": "2021-10-15",
-      "deaths": 10847
+      "deaths": 10859
     }
   },
   "Kazakhstan": {
@@ -1279,9 +1279,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1031283,
+      "confirmed": 1037707,
       "date": "2021-10-15",
-      "deaths": 8946
+      "deaths": 8996
     }
   },
   "Slovakia": {
@@ -1663,7 +1663,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209431,
+      "confirmed": 209477,
       "date": "2021-10-15",
       "deaths": 3657
     }
