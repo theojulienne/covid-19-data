@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 167228,
+          "confirmed": 167759,
           "date": "2021-10-15",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 172506,
+          "confirmed": 172977,
           "date": "2021-10-15",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 176203,
+          "confirmed": 176553,
           "date": "2021-10-15",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 154509,
+          "confirmed": 154958,
           "date": "2021-10-15",
           "deaths": 0
         }
@@ -364,28 +364,28 @@
         "live": {
           "confirmed": 750846,
           "date": "2021-10-15",
-          "deaths": 16184
+          "deaths": 16188
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 325136,
           "date": "2021-10-15",
-          "deaths": 9496
+          "deaths": 9499
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157037,
           "date": "2021-10-15",
-          "deaths": 2972
+          "deaths": 2974
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1451991,
           "date": "2021-10-15",
-          "deaths": 27513
+          "deaths": 27516
         }
       },
       "Cundinamarca": {
@@ -399,14 +399,14 @@
         "live": {
           "confirmed": 225671,
           "date": "2021-10-15",
-          "deaths": 7295
+          "deaths": 7296
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 409153,
           "date": "2021-10-15",
-          "deaths": 12959
+          "deaths": 12964
         }
       }
     }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 195187,
+      "confirmed": 195385,
       "date": "2021-10-15",
       "deaths": 884
     }
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 176366,
+          "confirmed": 176501,
           "date": "2021-10-15",
-          "deaths": 5666
+          "deaths": 5673
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 437032,
+          "confirmed": 437316,
           "date": "2021-10-15",
-          "deaths": 12808
+          "deaths": 12821
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 464142,
+          "confirmed": 464746,
           "date": "2021-10-15",
-          "deaths": 7514
+          "deaths": 7520
         }
       }
     }
