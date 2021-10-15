@@ -335,7 +335,7 @@
         "live": {
           "confirmed": 417831,
           "date": "2021-10-15",
-          "deaths": 11431
+          "deaths": 11437
         }
       }
     }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 928684,
+      "confirmed": 930822,
       "date": "2021-10-15",
-      "deaths": 7994
+      "deaths": 8018
     }
   },
   "Czechia": {
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 368131,
+      "confirmed": 368830,
       "date": "2021-10-15",
       "deaths": 4082
     }
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 409647,
+      "confirmed": 411554,
       "date": "2021-10-15",
       "deaths": 5306
     }
@@ -863,21 +863,21 @@
         "live": {
           "confirmed": 168677,
           "date": "2021-10-15",
-          "deaths": 1294
+          "deaths": 1295
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201562,
+          "confirmed": 201606,
           "date": "2021-10-15",
-          "deaths": 3018
+          "deaths": 3020
         }
       },
       "Tokyo": {
         "live": {
           "confirmed": 377104,
           "date": "2021-10-15",
-          "deaths": 3069
+          "deaths": 3076
         }
       }
     }
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 990461,
       "date": "2021-10-15",
-      "deaths": 16583
+      "deaths": 16618
     }
   },
   "Kenya": {
@@ -1060,9 +1060,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151061,
+      "confirmed": 151080,
       "date": "2021-10-15",
-      "deaths": 1924
+      "deaths": 1925
     }
   },
   "Nepal": {
@@ -1445,7 +1445,7 @@
         "live": {
           "confirmed": 3474244,
           "date": "2021-10-15",
-          "deaths": 54390
+          "deaths": 54396
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1785274,
+          "confirmed": 1785846,
           "date": "2021-10-15",
-          "deaths": 26174
+          "deaths": 26184
         }
       },
       "Utah": {
@@ -1589,39 +1589,39 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 738268,
+      "confirmed": 738372,
       "date": "2021-10-15",
-      "deaths": 2117
+      "deaths": 2118
     }
   },
   "United Kingdom": {
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 7073467,
+          "confirmed": 7110513,
           "date": "2021-10-15",
-          "deaths": 120763
+          "deaths": 120857
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 254983,
+          "confirmed": 256332,
           "date": "2021-10-15",
-          "deaths": 2606
+          "deaths": 2610
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 599837,
+          "confirmed": 602524,
           "date": "2021-10-15",
-          "deaths": 8878
+          "deaths": 8907
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 389152,
+          "confirmed": 392282,
           "date": "2021-10-15",
-          "deaths": 5990
+          "deaths": 6005
         }
       }
     }
@@ -1656,9 +1656,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 446294,
+      "confirmed": 447032,
       "date": "2021-10-15",
-      "deaths": 4547
+      "deaths": 4556
     }
   },
   "Zambia": {
