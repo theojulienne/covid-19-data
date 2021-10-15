@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 565865,
+      "confirmed": 567938,
       "date": "2021-10-15",
-      "deaths": 4353
+      "deaths": 4369
     }
   },
   "Belgium": {
@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 168884,
+      "confirmed": 170159,
       "date": "2021-10-15",
-      "deaths": 1409
+      "deaths": 1415
     }
   },
   "Ethiopia": {
@@ -1293,7 +1293,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 306063,
+      "confirmed": 306064,
       "date": "2021-10-15",
       "deaths": 4631
     }
@@ -1406,9 +1406,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 853637,
+      "confirmed": 854590,
       "date": "2021-10-15",
-      "deaths": 11154
+      "deaths": 11157
     }
   },
   "Thailand": {
