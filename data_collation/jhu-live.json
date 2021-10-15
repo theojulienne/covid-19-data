@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 276666,
+      "confirmed": 278431,
       "date": "2021-10-15",
-      "deaths": 5675
+      "deaths": 5713
     }
   },
   "Austria": {
@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 649407,
+      "confirmed": 652677,
       "date": "2021-10-15",
-      "deaths": 9370
+      "deaths": 9396
     }
   },
   "Germany": {
@@ -585,9 +585,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 831866,
+      "confirmed": 833115,
       "date": "2021-10-15",
-      "deaths": 30341
+      "deaths": 30351
     }
   },
   "India": {
@@ -1230,7 +1230,7 @@
         "live": {
           "confirmed": 1699498,
           "date": "2021-10-15",
-          "deaths": 29952
+          "deaths": 29951
         }
       },
       "Moscow Oblast": {
