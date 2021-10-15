@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155682,
+      "confirmed": 155688,
       "date": "2021-10-15",
       "deaths": 7238
     }
@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 496780,
+      "confirmed": 498630,
       "date": "2021-10-15",
-      "deaths": 6720
+      "deaths": 6734
     }
   },
   "Bahrain": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 348647,
+      "confirmed": 349210,
       "date": "2021-10-15",
-      "deaths": 4849
+      "deaths": 4860
     }
   },
   "Lithuania": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 804276,
+      "confirmed": 804516,
       "date": "2021-10-15",
-      "deaths": 11269
+      "deaths": 11277
     }
   },
   "Netherlands": {
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 208404,
+      "confirmed": 208630,
       "date": "2021-10-15",
-      "deaths": 2761
+      "deaths": 2767
     }
   },
   "North Macedonia": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1414647,
+      "confirmed": 1430475,
       "date": "2021-10-15",
-      "deaths": 40765
+      "deaths": 41130
     }
   },
   "Russia": {
@@ -1413,16 +1413,16 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1751704,
+      "confirmed": 1762190,
       "date": "2021-10-15",
-      "deaths": 18029
+      "deaths": 18123
     }
   },
   "Tunisia": {
     "live": {
-      "confirmed": 710322,
+      "confirmed": 710542,
       "date": "2021-10-15",
-      "deaths": 25053
+      "deaths": 25066
     }
   },
   "Turkey": {
