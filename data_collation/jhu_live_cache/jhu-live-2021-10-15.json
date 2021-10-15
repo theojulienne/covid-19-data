@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 602048,
+          "confirmed": 602052,
           "date": "2021-10-15",
           "deaths": 9861
         }
@@ -1300,9 +1300,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2914827,
+      "confirmed": 2915560,
       "date": "2021-10-15",
-      "deaths": 88506
+      "deaths": 88562
     }
   },
   "Spain": {
@@ -1485,16 +1485,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 326283,
+          "confirmed": 326538,
           "date": "2021-10-15",
-          "deaths": 5830
+          "deaths": 5835
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1466994,
+          "confirmed": 1469574,
           "date": "2021-10-15",
-          "deaths": 39345
+          "deaths": 39352
         }
       },
       "North Carolina": {
