@@ -2414,7 +2414,7 @@ var covid19_dataset_latest_totals = {
     },
     "MNG": {
       "back_1week": {
-        "confirmed": 319247,
+        "confirmed": 319442,
         "deaths": 1391,
         "recovered": 0
       },
@@ -2715,13 +2715,13 @@ var covid19_dataset_latest_totals = {
     },
     "PAN": {
       "back_1week": {
-        "confirmed": 468325,
-        "deaths": 7255,
+        "confirmed": 468545,
+        "deaths": 7259,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 466851,
-        "deaths": 7223,
+        "confirmed": 467113,
+        "deaths": 7228,
         "recovered": 0
       },
       "latest": {
