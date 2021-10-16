@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 177108,
+      "confirmed": 177536,
       "date": "2021-10-16",
-      "deaths": 2807
+      "deaths": 2810
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 602429,
+          "confirmed": 602515,
           "date": "2021-10-16",
           "deaths": 9865
         }
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 251803,
+      "confirmed": 251959,
       "date": "2021-10-16",
-      "deaths": 5210
+      "deaths": 5215
     }
   },
   "Korea, South": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 941446,
+      "confirmed": 941863,
       "date": "2021-10-16",
-      "deaths": 14533
+      "deaths": 14537
     }
   },
   "Mozambique": {
