@@ -364,49 +364,49 @@
         "live": {
           "confirmed": 751118,
           "date": "2021-10-16",
-          "deaths": 16188
+          "deaths": 16196
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 325444,
           "date": "2021-10-16",
-          "deaths": 9499
+          "deaths": 9502
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157131,
           "date": "2021-10-16",
-          "deaths": 2974
+          "deaths": 2975
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1452194,
           "date": "2021-10-16",
-          "deaths": 27516
+          "deaths": 27519
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264040,
           "date": "2021-10-16",
-          "deaths": 6808
+          "deaths": 6809
         }
       },
       "Santander": {
         "live": {
           "confirmed": 225698,
           "date": "2021-10-16",
-          "deaths": 7296
+          "deaths": 7299
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 409381,
           "date": "2021-10-16",
-          "deaths": 12964
+          "deaths": 12969
         }
       }
     }
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 960463,
+          "confirmed": 961372,
           "date": "2021-10-16",
-          "deaths": 39581
+          "deaths": 39606
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 181853,
+          "confirmed": 182459,
           "date": "2021-10-16",
-          "deaths": 12301
+          "deaths": 12335
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 158247,
+          "confirmed": 158452,
           "date": "2021-10-16",
-          "deaths": 16612
+          "deaths": 16646
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 369465,
+          "confirmed": 369995,
           "date": "2021-10-16",
-          "deaths": 43492
+          "deaths": 43520
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 201015,
+          "confirmed": 201310,
           "date": "2021-10-16",
-          "deaths": 12759
+          "deaths": 12771
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 334865,
+      "confirmed": 336508,
       "date": "2021-10-16",
-      "deaths": 1513
+      "deaths": 1527
     }
   },
   "Morocco": {
@@ -1642,9 +1642,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 388743,
+      "confirmed": 390045,
       "date": "2021-10-16",
-      "deaths": 4681
+      "deaths": 4693
     }
   },
   "Vietnam": {
