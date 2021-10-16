@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155688,
+      "confirmed": 155739,
       "date": "2021-10-16",
       "deaths": 7238
     }
@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 170159,
+      "confirmed": 171395,
       "date": "2021-10-16",
-      "deaths": 1415
+      "deaths": 1429
     }
   },
   "Ethiopia": {
@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 185965,
+          "confirmed": 186081,
           "date": "2021-10-16",
-          "deaths": 4040
+          "deaths": 4041
         }
       },
       "Sachsen": {
@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4233014,
+      "confirmed": 4234011,
       "date": "2021-10-16",
-      "deaths": 142889
+      "deaths": 142933
     }
   },
   "Iran": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 180440,
+      "confirmed": 183239,
       "date": "2021-10-16",
-      "deaths": 2869
+      "deaths": 2881
     }
   },
   "Lebanon": {
