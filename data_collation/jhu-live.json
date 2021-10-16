@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1315271,
+      "confirmed": 1315317,
       "date": "2021-10-16",
       "deaths": 7983
     }
@@ -1434,9 +1434,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7601596,
+      "confirmed": 7630133,
       "date": "2021-10-16",
-      "deaths": 67225
+      "deaths": 67437
     }
   },
   "US": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1788059,
+          "confirmed": 1788348,
           "date": "2021-10-16",
           "deaths": 26325
         }
