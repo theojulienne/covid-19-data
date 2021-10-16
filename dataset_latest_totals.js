@@ -1161,18 +1161,18 @@ var covid19_dataset_latest_totals = {
     },
     "DZA": {
       "back_1week": {
-        "confirmed": 204276,
-        "deaths": 5843,
+        "confirmed": 204388,
+        "deaths": 5846,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 203359,
-        "deaths": 5812,
+        "confirmed": 203517,
+        "deaths": 5815,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 205005,
-        "deaths": 5864,
+        "confirmed": 205106,
+        "deaths": 5867,
         "recovered": 0
       }
     },

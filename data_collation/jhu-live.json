@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205106,
+      "confirmed": 205199,
       "date": "2021-10-16",
-      "deaths": 5867
+      "deaths": 5870
     }
   },
   "Argentina": {
@@ -1445,7 +1445,7 @@
         "live": {
           "confirmed": 718831,
           "date": "2021-10-16",
-          "deaths": 11816
+          "deaths": 11827
         }
       },
       "California": {
