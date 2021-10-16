@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1564881,
+      "confirmed": 1565174,
       "date": "2021-10-16",
-      "deaths": 27746
+      "deaths": 27752
     }
   },
   "Belarus": {
@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 424666,
+      "confirmed": 426613,
       "date": "2021-10-16",
-      "deaths": 8862
+      "deaths": 8877
     }
   },
   "Cuba": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 804516,
+      "confirmed": 804652,
       "date": "2021-10-16",
-      "deaths": 11277
+      "deaths": 11278
     }
   },
   "Netherlands": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1430475,
+      "confirmed": 1445714,
       "date": "2021-10-16",
-      "deaths": 41130
+      "deaths": 41482
     }
   },
   "Russia": {
