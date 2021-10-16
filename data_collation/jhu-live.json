@@ -441,9 +441,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 367307,
+      "confirmed": 368060,
       "date": "2021-10-16",
-      "deaths": 2679
+      "deaths": 2680
     }
   },
   "Dominican Republic": {
@@ -513,7 +513,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 759801,
+          "confirmed": 759857,
           "date": "2021-10-16",
           "deaths": 15858
         }
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2705792,
+      "confirmed": 2713509,
       "date": "2021-10-16",
-      "deaths": 40424
+      "deaths": 40580
     }
   },
   "Poland": {
@@ -1272,9 +1272,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 547845,
+      "confirmed": 547890,
       "date": "2021-10-16",
-      "deaths": 8758
+      "deaths": 8760
     }
   },
   "Serbia": {
@@ -1374,9 +1374,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 530421,
+      "confirmed": 530909,
       "date": "2021-10-16",
-      "deaths": 13449
+      "deaths": 13472
     }
   },
   "Sweden": {
@@ -1589,7 +1589,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 738372,
+      "confirmed": 738487,
       "date": "2021-10-16",
       "deaths": 2118
     }
