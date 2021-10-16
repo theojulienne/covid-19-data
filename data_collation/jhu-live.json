@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5270003,
+      "confirmed": 5271361,
       "date": "2021-10-15",
-      "deaths": 115633
+      "deaths": 115660
     }
   },
   "Armenia": {
@@ -296,9 +296,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 534312,
+      "confirmed": 537752,
       "date": "2021-10-15",
-      "deaths": 22102
+      "deaths": 22188
     }
   },
   "Burma": {
@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 195766,
+          "confirmed": 196433,
           "date": "2021-10-15",
-          "deaths": 2042
+          "deaths": 2055
         }
       },
       "Ontario": {
@@ -413,9 +413,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 550134,
+      "confirmed": 551144,
       "date": "2021-10-15",
-      "deaths": 6771
+      "deaths": 6797
     }
   },
   "Croatia": {
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 632271,
+      "confirmed": 632781,
       "date": "2021-10-15",
-      "deaths": 8406
+      "deaths": 8413
     }
   },
   "Libya": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460301,
+      "confirmed": 460322,
       "date": "2021-10-15",
-      "deaths": 16208
+      "deaths": 16209
     }
   },
   "Peru": {
@@ -1420,9 +1420,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 710542,
+      "confirmed": 710673,
       "date": "2021-10-15",
-      "deaths": 25066
+      "deaths": 25082
     }
   },
   "Turkey": {
@@ -1450,7 +1450,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1882523,
+          "confirmed": 1892054,
           "date": "2021-10-15",
           "deaths": 17059
         }
@@ -1534,9 +1534,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 157910,
+          "confirmed": 158435,
           "date": "2021-10-15",
-          "deaths": 1918
+          "deaths": 1924
         }
       },
       "Wisconsin": {
