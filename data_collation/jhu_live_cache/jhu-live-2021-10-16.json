@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168677,
+          "confirmed": 168746,
           "date": "2021-10-16",
           "deaths": 1295
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201606,
+          "confirmed": 201705,
           "date": "2021-10-16",
           "deaths": 3020
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377104,
+          "confirmed": 377227,
           "date": "2021-10-16",
           "deaths": 3076
         }
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1706129,
+          "confirmed": 1712674,
           "date": "2021-10-16",
-          "deaths": 30021
+          "deaths": 30093
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 475122,
+          "confirmed": 477525,
           "date": "2021-10-16",
-          "deaths": 8329
+          "deaths": 8335
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 179105,
+          "confirmed": 179811,
           "date": "2021-10-16",
-          "deaths": 7117
+          "deaths": 7141
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 146499,
+          "confirmed": 147069,
           "date": "2021-10-16",
-          "deaths": 7240
+          "deaths": 7273
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 657228,
+          "confirmed": 660316,
           "date": "2021-10-16",
-          "deaths": 22765
+          "deaths": 22832
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 147139,
+          "confirmed": 147722,
           "date": "2021-10-16",
-          "deaths": 6935
+          "deaths": 6973
         }
       }
     }
