@@ -333,9 +333,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 417831,
+          "confirmed": 419186,
           "date": "2021-10-16",
-          "deaths": 11437
+          "deaths": 11440
         }
       }
     }
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 196376,
+      "confirmed": 196762,
       "date": "2021-10-16",
-      "deaths": 6901
+      "deaths": 6922
     }
   },
   "Norway": {
@@ -1443,16 +1443,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 717366,
+          "confirmed": 718831,
           "date": "2021-10-16",
           "deaths": 11816
         }
       },
       "California": {
         "live": {
-          "confirmed": 3478146,
+          "confirmed": 3334483,
           "date": "2021-10-16",
-          "deaths": 54456
+          "deaths": 52409
         }
       },
       "Florida": {
@@ -1513,9 +1513,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 162004,
+          "confirmed": 306553,
           "date": "2021-10-16",
-          "deaths": 1662
+          "deaths": 4074
         }
       },
       "Pennsylvania": {
