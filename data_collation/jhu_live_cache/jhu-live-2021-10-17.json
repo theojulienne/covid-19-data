@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 171395,
+      "confirmed": 172514,
       "date": "2021-10-17",
-      "deaths": 1422
+      "deaths": 1426
     }
   },
   "Ethiopia": {
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2937069,
+      "confirmed": 2939590,
       "date": "2021-10-17",
-      "deaths": 76111
+      "deaths": 76112
     }
   },
   "Portugal": {
@@ -1228,44 +1228,44 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1712674,
+          "confirmed": 1719414,
           "date": "2021-10-17",
-          "deaths": 30093
+          "deaths": 30163
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 477525,
+          "confirmed": 480284,
           "date": "2021-10-17",
-          "deaths": 8335
+          "deaths": 8344
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 179811,
+          "confirmed": 180522,
           "date": "2021-10-17",
-          "deaths": 7141
+          "deaths": 7168
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 147069,
+          "confirmed": 147648,
           "date": "2021-10-17",
-          "deaths": 7273
+          "deaths": 7303
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 660316,
+          "confirmed": 663639,
           "date": "2021-10-17",
-          "deaths": 22832
+          "deaths": 22897
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 147722,
+          "confirmed": 148312,
           "date": "2021-10-17",
-          "deaths": 6973
+          "deaths": 7010
         }
       }
     }
@@ -1293,14 +1293,14 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 433709,
+      "confirmed": 437385,
       "date": "2021-10-17",
-      "deaths": 12816
+      "deaths": 12846
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 308135,
+      "confirmed": 308136,
       "date": "2021-10-17",
       "deaths": 4638
     }
