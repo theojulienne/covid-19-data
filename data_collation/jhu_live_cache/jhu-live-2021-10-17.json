@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 280294,
+      "confirmed": 281991,
       "date": "2021-10-17",
-      "deaths": 5754
+      "deaths": 5778
     }
   },
   "Austria": {
@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 657753,
+      "confirmed": 662334,
       "date": "2021-10-17",
-      "deaths": 9440
+      "deaths": 9468
     }
   },
   "Germany": {
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1315317,
+      "confirmed": 1315809,
       "date": "2021-10-17",
       "deaths": 7983
     }
@@ -1300,9 +1300,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 307503,
+      "confirmed": 308135,
       "date": "2021-10-17",
-      "deaths": 4635
+      "deaths": 4638
     }
   },
   "South Africa": {
@@ -1415,7 +1415,7 @@
     "live": {
       "confirmed": 854591,
       "date": "2021-10-17",
-      "deaths": 11157
+      "deaths": 11156
     }
   },
   "Thailand": {
@@ -1559,37 +1559,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 164588,
+          "confirmed": 165336,
           "date": "2021-10-17",
-          "deaths": 5170
+          "deaths": 5193
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 185462,
+          "confirmed": 186410,
           "date": "2021-10-17",
-          "deaths": 4301
+          "deaths": 4324
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 243779,
+          "confirmed": 244230,
           "date": "2021-10-17",
-          "deaths": 5646
+          "deaths": 5664
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 163149,
+          "confirmed": 163737,
           "date": "2021-10-17",
-          "deaths": 4157
+          "deaths": 4174
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 168849,
+          "confirmed": 170245,
           "date": "2021-10-17",
-          "deaths": 3556
+          "deaths": 3582
         }
       }
     }
