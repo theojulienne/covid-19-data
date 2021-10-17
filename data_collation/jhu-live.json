@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 498630,
+      "confirmed": 500311,
       "date": "2021-10-17",
-      "deaths": 6734
+      "deaths": 6746
     }
   },
   "Bahrain": {
@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 186089,
+          "confirmed": 186247,
           "date": "2021-10-17",
-          "deaths": 4041
+          "deaths": 4042
         }
       },
       "Sachsen": {
@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4234011,
+      "confirmed": 4234758,
       "date": "2021-10-17",
-      "deaths": 142933
+      "deaths": 142952
     }
   },
   "Iran": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 349210,
+      "confirmed": 349990,
       "date": "2021-10-17",
-      "deaths": 4860
+      "deaths": 4883
     }
   },
   "Lithuania": {
@@ -1134,9 +1134,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304025,
+      "confirmed": 304054,
       "date": "2021-10-17",
-      "deaths": 4103
+      "deaths": 4105
     }
   },
   "Pakistan": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1445714,
+      "confirmed": 1457260,
       "date": "2021-10-17",
-      "deaths": 41482
+      "deaths": 41781
     }
   },
   "Russia": {
@@ -1670,7 +1670,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209505,
+      "confirmed": 209521,
       "date": "2021-10-17",
       "deaths": 3658
     }
