@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5271361,
+      "confirmed": 5272151,
       "date": "2021-10-16",
-      "deaths": 115660
+      "deaths": 115663
     }
   },
   "Armenia": {
@@ -296,9 +296,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 537752,
+      "confirmed": 539619,
       "date": "2021-10-16",
-      "deaths": 22188
+      "deaths": 22231
     }
   },
   "Burma": {
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 632781,
+      "confirmed": 633355,
       "date": "2021-10-16",
-      "deaths": 8413
+      "deaths": 8419
     }
   },
   "Libya": {
@@ -1427,9 +1427,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 710673,
+      "confirmed": 710773,
       "date": "2021-10-16",
-      "deaths": 25082
+      "deaths": 25085
     }
   },
   "Turkey": {
@@ -1499,9 +1499,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1469824,
+          "confirmed": 1470537,
           "date": "2021-10-16",
-          "deaths": 39352
+          "deaths": 39354
         }
       },
       "North Carolina": {
