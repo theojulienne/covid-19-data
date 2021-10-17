@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 486851,
+      "confirmed": 487853,
       "date": "2021-10-17",
-      "deaths": 18329
+      "deaths": 18359
     }
   },
   "Canada": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 602764,
+          "confirmed": 602766,
           "date": "2021-10-17",
           "deaths": 9864
         }
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152219,
+          "confirmed": 152263,
           "date": "2021-10-17",
-          "deaths": 2693
+          "deaths": 2694
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 700586,
+          "confirmed": 701531,
           "date": "2021-10-17",
-          "deaths": 19261
+          "deaths": 19262
         }
       }
     }
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 692197,
+      "confirmed": 693886,
       "date": "2021-10-17",
-      "deaths": 15348
+      "deaths": 15375
     }
   },
   "Guatemala": {
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 840117,
+      "confirmed": 841489,
       "date": "2021-10-17",
-      "deaths": 10865
+      "deaths": 10879
     }
   },
   "Kazakhstan": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 804652,
+      "confirmed": 805037,
       "date": "2021-10-17",
-      "deaths": 11278
+      "deaths": 11284
     }
   },
   "Netherlands": {
