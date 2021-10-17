@@ -333,9 +333,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 419186,
+          "confirmed": 419718,
           "date": "2021-10-17",
-          "deaths": 11440
+          "deaths": 11444
         }
       }
     }
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 369700,
+      "confirmed": 370451,
       "date": "2021-10-17",
-      "deaths": 4084
+      "deaths": 4087
     }
   },
   "Ecuador": {
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 358739,
+      "confirmed": 359247,
       "date": "2021-10-17",
-      "deaths": 6197
+      "deaths": 6217
     }
   },
   "Finland": {
@@ -919,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412297,
+      "confirmed": 412332,
       "date": "2021-10-17",
-      "deaths": 2456
+      "deaths": 2457
     }
   },
   "Kyrgyzstan": {
