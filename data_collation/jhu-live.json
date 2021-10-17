@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1315809,
+      "confirmed": 1316135,
       "date": "2021-10-17",
-      "deaths": 7983
+      "deaths": 7999
     }
   },
   "Italy": {
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 209858,
+          "confirmed": 210590,
           "date": "2021-10-17",
-          "deaths": 3518
+          "deaths": 3527
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 209556,
+          "confirmed": 210060,
           "date": "2021-10-17",
-          "deaths": 2401
+          "deaths": 2408
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 230800,
+          "confirmed": 231530,
           "date": "2021-10-17",
-          "deaths": 1089
+          "deaths": 1102
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 698291,
+          "confirmed": 699327,
           "date": "2021-10-17",
-          "deaths": 9513
+          "deaths": 9519
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 189913,
+          "confirmed": 190095,
           "date": "2021-10-17",
-          "deaths": 2531
+          "deaths": 2534
         }
       }
     }
@@ -1182,9 +1182,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 953897,
+          "confirmed": 954749,
           "date": "2021-10-17",
-          "deaths": 88554
+          "deaths": 88576
         }
       }
     }
@@ -1286,9 +1286,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 145120,
+      "confirmed": 148178,
       "date": "2021-10-17",
-      "deaths": 224
+      "deaths": 233
     }
   },
   "Slovakia": {
@@ -1605,30 +1605,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 7149533,
+          "confirmed": 7187635,
           "date": "2021-10-17",
-          "deaths": 120980
+          "deaths": 121021
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 257550,
+          "confirmed": 258516,
           "date": "2021-10-17",
-          "deaths": 2614
+          "deaths": 2618
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 605104,
+          "confirmed": 607767,
           "date": "2021-10-17",
-          "deaths": 8928
+          "deaths": 8930
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 392282,
+          "confirmed": 395247,
           "date": "2021-10-17",
-          "deaths": 6005
+          "deaths": 6015
         }
       }
     }
