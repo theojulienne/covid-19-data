@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 570006,
+      "confirmed": 571987,
       "date": "2021-10-17",
-      "deaths": 4386
+      "deaths": 4402
     }
   },
   "Belgium": {
@@ -861,14 +861,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168746,
+          "confirmed": 168783,
           "date": "2021-10-17",
           "deaths": 1295
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201705,
+          "confirmed": 201776,
           "date": "2021-10-17",
           "deaths": 3022
         }
