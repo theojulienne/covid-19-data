@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155739,
+      "confirmed": 155764,
       "date": "2021-10-17",
-      "deaths": 7238
+      "deaths": 7243
     }
   },
   "Albania": {
@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 773540,
+      "confirmed": 775782,
       "date": "2021-10-17",
-      "deaths": 11161
+      "deaths": 11167
     }
   },
   "Azerbaijan": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 183239,
+      "confirmed": 185614,
       "date": "2021-10-17",
-      "deaths": 2881
+      "deaths": 2890
     }
   },
   "Lebanon": {
@@ -1450,9 +1450,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3334483,
+          "confirmed": 3335580,
           "date": "2021-10-17",
-          "deaths": 52409
+          "deaths": 52421
         }
       },
       "Florida": {
