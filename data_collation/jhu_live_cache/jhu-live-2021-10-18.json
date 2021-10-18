@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205286,
+      "confirmed": 205364,
       "date": "2021-10-18",
-      "deaths": 5872
+      "deaths": 5873
     }
   },
   "Argentina": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276118,
+      "confirmed": 276188,
       "date": "2021-10-18",
       "deaths": 1391
     }
@@ -296,9 +296,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 540619,
+      "confirmed": 545598,
       "date": "2021-10-18",
-      "deaths": 22274
+      "deaths": 22488
     }
   },
   "Burma": {
@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 314252,
+          "confirmed": 316433,
           "date": "2021-10-18",
-          "deaths": 2946
+          "deaths": 2976
         }
       },
       "British Columbia": {
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 359247,
+      "confirmed": 359495,
       "date": "2021-10-18",
-      "deaths": 6217
+      "deaths": 6238
     }
   },
   "Finland": {
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 252033,
+      "confirmed": 252066,
       "date": "2021-10-18",
-      "deaths": 5223
+      "deaths": 5224
     }
   },
   "Korea, South": {
@@ -919,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412332,
+      "confirmed": 412371,
       "date": "2021-10-18",
-      "deaths": 2457
+      "deaths": 2458
     }
   },
   "Kyrgyzstan": {
@@ -1060,9 +1060,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151102,
+      "confirmed": 151112,
       "date": "2021-10-18",
-      "deaths": 1926
+      "deaths": 1927
     }
   },
   "Nepal": {
@@ -1173,7 +1173,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460529,
+      "confirmed": 460553,
       "date": "2021-10-18",
       "deaths": 16228
     }
@@ -1471,9 +1471,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 156101,
+          "confirmed": 156655,
           "date": "2021-10-18",
-          "deaths": 3900
+          "deaths": 3901
         }
       },
       "Michigan": {
@@ -1499,9 +1499,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1473635,
+          "confirmed": 1473938,
           "date": "2021-10-18",
-          "deaths": 39378
+          "deaths": 39381
         }
       },
       "North Carolina": {
@@ -1527,7 +1527,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1790719,
+          "confirmed": 1791270,
           "date": "2021-10-18",
           "deaths": 26396
         }
