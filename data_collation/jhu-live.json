@@ -364,49 +364,49 @@
         "live": {
           "confirmed": 751757,
           "date": "2021-10-18",
-          "deaths": 16200
+          "deaths": 16208
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 326023,
           "date": "2021-10-18",
-          "deaths": 9506
+          "deaths": 9511
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157261,
           "date": "2021-10-18",
-          "deaths": 2978
+          "deaths": 2980
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1452496,
           "date": "2021-10-18",
-          "deaths": 27521
+          "deaths": 27522
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264079,
           "date": "2021-10-18",
-          "deaths": 6810
+          "deaths": 6811
         }
       },
       "Santander": {
         "live": {
           "confirmed": 225764,
           "date": "2021-10-18",
-          "deaths": 7299
+          "deaths": 7301
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 409652,
           "date": "2021-10-18",
-          "deaths": 12974
+          "deaths": 12979
         }
       }
     }
@@ -462,9 +462,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 317585,
+      "confirmed": 318456,
       "date": "2021-10-18",
-      "deaths": 17926
+      "deaths": 17970
     }
   },
   "Estonia": {
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 342396,
+      "confirmed": 343445,
       "date": "2021-10-18",
-      "deaths": 2660
+      "deaths": 2668
     }
   },
   "Kosovo": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2713509,
+      "confirmed": 2720368,
       "date": "2021-10-18",
-      "deaths": 40580
+      "deaths": 40675
     }
   },
   "Poland": {
