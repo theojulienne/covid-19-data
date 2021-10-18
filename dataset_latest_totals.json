@@ -1144,18 +1144,18 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 365063,
+        "confirmed": 365558,
         "deaths": 4067,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 360257,
+        "confirmed": 360830,
         "deaths": 4055,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 369700,
-        "deaths": 4084,
+        "confirmed": 370451,
+        "deaths": 4087,
         "recovered": 0
       }
     },
