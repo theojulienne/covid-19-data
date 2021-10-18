@@ -1002,23 +1002,23 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 962423,
+          "confirmed": 962766,
           "date": "2021-10-18",
-          "deaths": 39619
+          "deaths": 39632
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 183081,
+          "confirmed": 183285,
           "date": "2021-10-18",
-          "deaths": 12346
+          "deaths": 12366
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 158665,
+          "confirmed": 158732,
           "date": "2021-10-18",
-          "deaths": 16683
+          "deaths": 16689
         }
       },
       "Mexico": {
@@ -1030,9 +1030,9 @@
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 201551,
+          "confirmed": 201601,
           "date": "2021-10-18",
-          "deaths": 12788
+          "deaths": 12792
         }
       }
     }
@@ -1166,7 +1166,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 470162,
+      "confirmed": 470264,
       "date": "2021-10-18",
       "deaths": 7291
     }
@@ -1649,9 +1649,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 391413,
+      "confirmed": 392762,
       "date": "2021-10-18",
-      "deaths": 4707
+      "deaths": 4719
     }
   },
   "Vietnam": {
