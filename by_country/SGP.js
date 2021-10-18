@@ -1273,7 +1273,8 @@ var covid19_dataset_country_sgp = {
       135395,
       138327,
       141772,
-      145120
+      145120,
+      148178
     ],
     "deaths": [
       0,
@@ -1909,7 +1910,8 @@ var covid19_dataset_country_sgp = {
       192,
       207,
       215,
-      224
+      224,
+      233
     ],
     "recovered": [
       0,
@@ -2473,6 +2475,7 @@ var covid19_dataset_country_sgp = {
       63033,
       63252,
       63357,
+      0,
       0,
       0,
       0,
