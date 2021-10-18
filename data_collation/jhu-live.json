@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 571987,
+      "confirmed": 573943,
       "date": "2021-10-18",
-      "deaths": 4402
+      "deaths": 4417
     }
   },
   "Belgium": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 805037,
+      "confirmed": 805560,
       "date": "2021-10-18",
-      "deaths": 11284
+      "deaths": 11293
     }
   },
   "Netherlands": {
@@ -1420,7 +1420,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 854591,
+      "confirmed": 856957,
       "date": "2021-10-18",
       "deaths": 11161
     }
