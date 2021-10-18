@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 155764,
+      "confirmed": 155776,
       "date": "2021-10-18",
-      "deaths": 7243
+      "deaths": 7246
     }
   },
   "Albania": {
@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 775782,
+      "confirmed": 777679,
       "date": "2021-10-18",
-      "deaths": 11167
+      "deaths": 11180
     }
   },
   "Azerbaijan": {
@@ -483,9 +483,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 149897,
+      "confirmed": 151207,
       "date": "2021-10-18",
-      "deaths": 1116
+      "deaths": 1120
     }
   },
   "France": {
@@ -861,7 +861,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168783,
+          "confirmed": 168806,
           "date": "2021-10-18",
           "deaths": 1296
         }
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 185614,
+      "confirmed": 186869,
       "date": "2021-10-18",
-      "deaths": 2890
+      "deaths": 2897
     }
   },
   "Lebanon": {
@@ -1134,9 +1134,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304054,
+      "confirmed": 304066,
       "date": "2021-10-18",
-      "deaths": 4105
+      "deaths": 4106
     }
   },
   "Pakistan": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 854591,
       "date": "2021-10-18",
-      "deaths": 11157
+      "deaths": 11158
     }
   },
   "Thailand": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3191964,
+          "confirmed": 3192859,
           "date": "2021-10-18",
-          "deaths": 50816
+          "deaths": 50820
         }
       },
       "Florida": {
