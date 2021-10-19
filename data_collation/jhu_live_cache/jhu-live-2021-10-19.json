@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 603413,
+          "confirmed": 603421,
           "date": "2021-10-19",
           "deaths": 9870
         }
@@ -1293,9 +1293,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 150731,
+      "confirmed": 154725,
       "date": "2021-10-19",
-      "deaths": 239
+      "deaths": 246
     }
   },
   "Slovakia": {
@@ -1614,28 +1614,28 @@
         "live": {
           "confirmed": 7262958,
           "date": "2021-10-19",
-          "deaths": 121043
+          "deaths": 121232
         }
       },
       "Northern Ireland": {
         "live": {
           "confirmed": 260974,
           "date": "2021-10-19",
-          "deaths": 2621
+          "deaths": 2629
         }
       },
       "Scotland": {
         "live": {
           "confirmed": 612416,
           "date": "2021-10-19",
-          "deaths": 8930
+          "deaths": 8954
         }
       },
       "Wales": {
         "live": {
           "confirmed": 404844,
           "date": "2021-10-19",
-          "deaths": 6035
+          "deaths": 6037
         }
       }
     }
