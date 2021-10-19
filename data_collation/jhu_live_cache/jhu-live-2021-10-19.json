@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 603449,
+          "confirmed": 603460,
           "date": "2021-10-19",
           "deaths": 9870
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 420128,
+          "confirmed": 420470,
           "date": "2021-10-19",
           "deaths": 11453
         }
@@ -1314,9 +1314,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2916803,
+      "confirmed": 2917255,
       "date": "2021-10-19",
-      "deaths": 88619
+      "deaths": 88674
     }
   },
   "Spain": {
@@ -1344,9 +1344,9 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 239478,
+          "confirmed": 239552,
           "date": "2021-10-19",
-          "deaths": 6485
+          "deaths": 6476
         }
       },
       "Castilla y Leon": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 858198,
       "date": "2021-10-19",
-      "deaths": 11166
+      "deaths": 11168
     }
   },
   "Thailand": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3344514,
+          "confirmed": 3344776,
           "date": "2021-10-19",
-          "deaths": 52998
+          "deaths": 52722
         }
       },
       "Florida": {
@@ -1506,9 +1506,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1474594,
+          "confirmed": 1475682,
           "date": "2021-10-19",
-          "deaths": 39388
+          "deaths": 39394
         }
       },
       "North Carolina": {
@@ -1520,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 162629,
+          "confirmed": 162900,
           "date": "2021-10-19",
-          "deaths": 1662
+          "deaths": 1666
         }
       },
       "Pennsylvania": {
@@ -1555,7 +1555,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 149208,
+          "confirmed": 149349,
           "date": "2021-10-19",
           "deaths": 1590
         }
