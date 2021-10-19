@@ -453,12 +453,12 @@ var covid19_dataset_latest_totals = {
     "BOL": {
       "back_1week": {
         "confirmed": 503735,
-        "deaths": 18795,
+        "deaths": 18803,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 501179,
-        "deaths": 18762,
+        "deaths": 18766,
         "recovered": 0
       },
       "latest": {
