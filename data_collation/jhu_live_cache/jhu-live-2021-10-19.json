@@ -57,16 +57,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1565827,
+      "confirmed": 1566296,
       "date": "2021-10-19",
-      "deaths": 27778
+      "deaths": 27785
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 573943,
+      "confirmed": 575856,
       "date": "2021-10-19",
-      "deaths": 4417
+      "deaths": 4432
     }
   },
   "Belgium": {
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5796659,
+      "confirmed": 5809967,
       "date": "2021-10-19",
-      "deaths": 124256
+      "deaths": 124423
     }
   },
   "Iraq": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 805560,
+      "confirmed": 806517,
       "date": "2021-10-19",
-      "deaths": 11293
+      "deaths": 11305
     }
   },
   "Netherlands": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1467401,
+      "confirmed": 1486264,
       "date": "2021-10-19",
-      "deaths": 42042
+      "deaths": 42616
     }
   },
   "Russia": {
@@ -1420,7 +1420,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 856957,
+      "confirmed": 858198,
       "date": "2021-10-19",
       "deaths": 11165
     }
@@ -1670,9 +1670,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 448322,
+      "confirmed": 449031,
       "date": "2021-10-19",
-      "deaths": 4585
+      "deaths": 4590
     }
   },
   "Zambia": {
