@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205364,
+      "confirmed": 205453,
       "date": "2021-10-19",
-      "deaths": 5873
+      "deaths": 5875
     }
   },
   "Argentina": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 603689,
+          "confirmed": 603704,
           "date": "2021-10-19",
           "deaths": 9872
         }
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1318814,
+      "confirmed": 1319001,
       "date": "2021-10-19",
       "deaths": 8021
     }
@@ -1441,9 +1441,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7683487,
+      "confirmed": 7714349,
       "date": "2021-10-19",
-      "deaths": 67837
+      "deaths": 68060
     }
   },
   "US": {
@@ -1459,7 +1459,7 @@
         "live": {
           "confirmed": 3344776,
           "date": "2021-10-19",
-          "deaths": 52722
+          "deaths": 52733
         }
       },
       "Florida": {
@@ -1527,14 +1527,14 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 179451,
+          "confirmed": 179899,
           "date": "2021-10-19",
-          "deaths": 3975
+          "deaths": 3977
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1792751,
+          "confirmed": 1793139,
           "date": "2021-10-19",
           "deaths": 26465
         }
