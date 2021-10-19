@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 488875,
+      "confirmed": 490008,
       "date": "2021-10-19",
-      "deaths": 18388
+      "deaths": 18416
     }
   },
   "Canada": {
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152320,
+          "confirmed": 152358,
           "date": "2021-10-19",
           "deaths": 2694
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 702302,
+          "confirmed": 702841,
           "date": "2021-10-19",
-          "deaths": 19269
+          "deaths": 19272
         }
       }
     }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 936809,
+      "confirmed": 938577,
       "date": "2021-10-19",
-      "deaths": 8079
+      "deaths": 8101
     }
   },
   "Czechia": {
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 308055,
+          "confirmed": 309047,
           "date": "2021-10-19",
-          "deaths": 10255
+          "deaths": 10257
         }
       }
     }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 196896,
+      "confirmed": 197173,
       "date": "2021-10-19",
       "deaths": 884
     }
@@ -1207,7 +1207,7 @@
     "live": {
       "confirmed": 1080097,
       "date": "2021-10-19",
-      "deaths": 18100
+      "deaths": 18106
     }
   },
   "Qatar": {
@@ -1388,9 +1388,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 532218,
+      "confirmed": 532679,
       "date": "2021-10-19",
-      "deaths": 13507
+      "deaths": 13525
     }
   },
   "Sweden": {
@@ -1506,9 +1506,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1473938,
+          "confirmed": 1474594,
           "date": "2021-10-19",
-          "deaths": 39381
+          "deaths": 39388
         }
       },
       "North Carolina": {
