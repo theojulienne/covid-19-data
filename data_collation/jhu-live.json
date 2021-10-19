@@ -462,9 +462,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 318456,
+      "confirmed": 319339,
       "date": "2021-10-19",
-      "deaths": 17970
+      "deaths": 18015
     }
   },
   "Estonia": {
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 343445,
+      "confirmed": 344518,
       "date": "2021-10-19",
-      "deaths": 2668
+      "deaths": 2689
     }
   },
   "Kosovo": {
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 209298,
+      "confirmed": 209387,
       "date": "2021-10-19",
-      "deaths": 2837
+      "deaths": 2838
     }
   },
   "North Macedonia": {

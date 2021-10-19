@@ -138,28 +138,28 @@
     },
     "AUS": {
       "back_1week": {
-        "confirmed": 93944,
+        "confirmed": 94437,
         "current_hospitalized": 77,
         "current_icu": 19,
-        "deaths": 1345,
+        "deaths": 1353,
         "recovered": 0,
-        "tested": 32629699
+        "tested": 32712935
       },
       "back_2week": {
-        "confirmed": 89900,
+        "confirmed": 90512,
         "current_hospitalized": 77,
         "current_icu": 19,
-        "deaths": 1286,
+        "deaths": 1292,
         "recovered": 0,
-        "tested": 32006202
+        "tested": 32074078
       },
       "latest": {
-        "confirmed": 96631,
+        "confirmed": 96890,
         "current_hospitalized": 77,
         "current_icu": 19,
-        "deaths": 1384,
+        "deaths": 1389,
         "recovered": 0,
-        "tested": 33213116
+        "tested": 33272148
       },
       "states": {
         "ACT": {
@@ -193,7 +193,7 @@
           "current_icu": 0,
           "deaths": 6,
           "recovered": 0,
-          "tested": 6959
+          "tested": 5718
         },
         "SA": {
           "confirmed": 871,
