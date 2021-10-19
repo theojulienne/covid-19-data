@@ -1922,17 +1922,17 @@ var covid19_dataset_latest_totals = {
     "KAZ": {
       "back_1week": {
         "confirmed": 982888,
-        "deaths": 16346,
+        "deaths": 16473,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 968975,
-        "deaths": 15907,
+        "deaths": 16179,
         "recovered": 0
       },
       "latest": {
         "confirmed": 996141,
-        "deaths": 16618,
+        "deaths": 16713,
         "recovered": 0
       }
     },
