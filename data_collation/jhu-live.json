@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 603900,
+          "confirmed": 603947,
           "date": "2021-10-20",
           "deaths": 9875
         }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6920457,
+      "confirmed": 6926248,
       "date": "2021-10-20",
-      "deaths": 115001
+      "deaths": 115024
     }
   },
   "Georgia": {
@@ -893,7 +893,7 @@
     "live": {
       "confirmed": 999374,
       "date": "2021-10-20",
-      "deaths": 16766
+      "deaths": 16794
     }
   },
   "Kenya": {
@@ -1293,9 +1293,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 154725,
+      "confirmed": 158587,
       "date": "2021-10-20",
-      "deaths": 246
+      "deaths": 264
     }
   },
   "Slovakia": {
@@ -1388,7 +1388,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 533208,
+      "confirmed": 533305,
       "date": "2021-10-20",
       "deaths": 13543
     }
@@ -1471,9 +1471,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 633890,
+          "confirmed": 634683,
           "date": "2021-10-20",
-          "deaths": 11192
+          "deaths": 11202
         }
       },
       "Massachusetts": {
@@ -1485,9 +1485,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 195110,
+          "confirmed": 196075,
           "date": "2021-10-20",
-          "deaths": 5516
+          "deaths": 5532
         }
       },
       "Minnesota": {
@@ -1499,16 +1499,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 327885,
+          "confirmed": 328218,
           "date": "2021-10-20",
-          "deaths": 5862
+          "deaths": 5873
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1475682,
+          "confirmed": 1476663,
           "date": "2021-10-20",
-          "deaths": 39394
+          "deaths": 39403
         }
       },
       "North Carolina": {
@@ -1670,9 +1670,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 449031,
+      "confirmed": 449705,
       "date": "2021-10-20",
-      "deaths": 4590
+      "deaths": 4599
     }
   },
   "Zambia": {
