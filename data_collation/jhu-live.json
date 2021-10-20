@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205453,
+      "confirmed": 205529,
       "date": "2021-10-20",
-      "deaths": 5875
+      "deaths": 5878
     }
   },
   "Argentina": {
@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 603947,
+          "confirmed": 603979,
           "date": "2021-10-20",
           "deaths": 9875
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 420470,
+          "confirmed": 420928,
           "date": "2021-10-20",
           "deaths": 11455
         }
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 372077,
+      "confirmed": 373040,
       "date": "2021-10-20",
       "deaths": 4093
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 319614,
+      "confirmed": 321682,
       "date": "2021-10-20",
-      "deaths": 7309
+      "deaths": 7346
     }
   },
   "Mongolia": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 238079,
+      "confirmed": 238165,
       "date": "2021-10-20",
       "deaths": 608
     }
@@ -1314,9 +1314,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2917255,
+      "confirmed": 2917846,
       "date": "2021-10-20",
-      "deaths": 88674
+      "deaths": 88754
     }
   },
   "Spain": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3346805,
+          "confirmed": 3347024,
           "date": "2021-10-20",
-          "deaths": 52829
+          "deaths": 52836
         }
       },
       "Florida": {
@@ -1520,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 162900,
+          "confirmed": 163303,
           "date": "2021-10-20",
           "deaths": 1666
         }
@@ -1555,9 +1555,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 149349,
+          "confirmed": 149598,
           "date": "2021-10-20",
-          "deaths": 1590
+          "deaths": 1592
         }
       }
     }
