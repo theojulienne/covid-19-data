@@ -483,9 +483,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 151787,
+      "confirmed": 152099,
       "date": "2021-10-20",
-      "deaths": 1128
+      "deaths": 1133
     }
   },
   "France": {
@@ -861,14 +861,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168816,
+          "confirmed": 168832,
           "date": "2021-10-20",
           "deaths": 1298
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 201888,
+          "confirmed": 201961,
           "date": "2021-10-20",
           "deaths": 3030
         }
@@ -1307,9 +1307,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 310170,
+      "confirmed": 312316,
       "date": "2021-10-20",
-      "deaths": 4645
+      "deaths": 4654
     }
   },
   "South Africa": {
