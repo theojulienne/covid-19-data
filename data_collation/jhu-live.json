@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4236287,
+      "confirmed": 4237201,
       "date": "2021-10-20",
-      "deaths": 143049
+      "deaths": 143077
     }
   },
   "Iran": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 188722,
+      "confirmed": 191321,
       "date": "2021-10-20",
-      "deaths": 2920
+      "deaths": 2944
     }
   },
   "Lebanon": {
@@ -1134,9 +1134,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304066,
+      "confirmed": 304101,
       "date": "2021-10-20",
-      "deaths": 4106
+      "deaths": 4107
     }
   },
   "Pakistan": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1486264,
+      "confirmed": 1503422,
       "date": "2021-10-20",
-      "deaths": 42616
+      "deaths": 43039
     }
   },
   "Russia": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 858198,
       "date": "2021-10-20",
-      "deaths": 11168
+      "deaths": 11171
     }
   },
   "Thailand": {
