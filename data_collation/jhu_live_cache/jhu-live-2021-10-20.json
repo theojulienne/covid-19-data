@@ -462,9 +462,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 319339,
+      "confirmed": 320207,
       "date": "2021-10-20",
-      "deaths": 18015
+      "deaths": 18058
     }
   },
   "Estonia": {
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 344518,
+      "confirmed": 346088,
       "date": "2021-10-20",
-      "deaths": 2689
+      "deaths": 2698
     }
   },
   "Kosovo": {
@@ -1457,7 +1457,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3345081,
+          "confirmed": 3345880,
           "date": "2021-10-20",
           "deaths": 52734
         }
