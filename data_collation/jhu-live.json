@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 604042,
+          "confirmed": 604072,
           "date": "2021-10-20",
           "deaths": 9876
         }
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 589986,
+      "confirmed": 591460,
       "date": "2021-10-20",
-      "deaths": 14436
+      "deaths": 14515
     }
   },
   "Honduras": {
@@ -1506,9 +1506,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1476815,
+          "confirmed": 1477441,
           "date": "2021-10-20",
-          "deaths": 39403
+          "deaths": 39410
         }
       },
       "North Carolina": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1794937,
+          "confirmed": 1795567,
           "date": "2021-10-20",
-          "deaths": 26482
+          "deaths": 26565
         }
       },
       "Utah": {
