@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 169556,
+          "confirmed": 170059,
           "date": "2021-10-20",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 175072,
+          "confirmed": 175527,
           "date": "2021-10-20",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 177772,
+          "confirmed": 178054,
           "date": "2021-10-20",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 156465,
+          "confirmed": 157064,
           "date": "2021-10-20",
           "deaths": 0
         }
@@ -252,7 +252,7 @@
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1308193,
+          "confirmed": 1307160,
           "date": "2021-10-20",
           "deaths": 67652
         }
@@ -571,16 +571,16 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 588262,
+      "confirmed": 589986,
       "date": "2021-10-20",
-      "deaths": 14387
+      "deaths": 14436
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 372179,
+      "confirmed": 373206,
       "date": "2021-10-20",
-      "deaths": 10096
+      "deaths": 10147
     }
   },
   "Hungary": {
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 176950,
+          "confirmed": 177038,
           "date": "2021-10-20",
-          "deaths": 5689
+          "deaths": 5693
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 438133,
+          "confirmed": 438271,
           "date": "2021-10-20",
-          "deaths": 12861
+          "deaths": 12868
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 466154,
+          "confirmed": 466432,
           "date": "2021-10-20",
-          "deaths": 7533
+          "deaths": 7534
         }
       }
     }
