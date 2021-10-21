@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 963903,
+          "confirmed": 964604,
           "date": "2021-10-21",
-          "deaths": 39672
+          "deaths": 39685
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 183995,
+          "confirmed": 184558,
           "date": "2021-10-21",
-          "deaths": 12377
+          "deaths": 12403
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 158960,
+          "confirmed": 159281,
           "date": "2021-10-21",
-          "deaths": 16738
+          "deaths": 16809
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 371129,
+          "confirmed": 371418,
           "date": "2021-10-21",
-          "deaths": 43584
+          "deaths": 43605
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 201924,
+          "confirmed": 202213,
           "date": "2021-10-21",
-          "deaths": 12814
+          "deaths": 12831
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 342992,
+      "confirmed": 344736,
       "date": "2021-10-21",
-      "deaths": 1591
+      "deaths": 1607
     }
   },
   "Morocco": {
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177038,
+          "confirmed": 177132,
           "date": "2021-10-21",
-          "deaths": 5693
+          "deaths": 5698
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 438271,
+          "confirmed": 438433,
           "date": "2021-10-21",
-          "deaths": 12868
+          "deaths": 12876
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 466432,
+          "confirmed": 466750,
           "date": "2021-10-21",
-          "deaths": 7534
+          "deaths": 7536
         }
       }
     }
@@ -1656,9 +1656,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 395223,
+      "confirmed": 396477,
       "date": "2021-10-21",
-      "deaths": 4748
+      "deaths": 4763
     }
   },
   "Vietnam": {
