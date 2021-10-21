@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 490901,
+      "confirmed": 491584,
       "date": "2021-10-21",
-      "deaths": 18444
+      "deaths": 18465
     }
   },
   "Canada": {
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152438,
+          "confirmed": 152530,
           "date": "2021-10-21",
-          "deaths": 2694
+          "deaths": 2695
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 703543,
+          "confirmed": 704587,
           "date": "2021-10-21",
-          "deaths": 19277
+          "deaths": 19281
         }
       }
     }
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 704211,
+      "confirmed": 707587,
       "date": "2021-10-21",
-      "deaths": 15485
+      "deaths": 15519
     }
   },
   "Guatemala": {
