@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 604315,
+          "confirmed": 604421,
           "date": "2021-10-21",
-          "deaths": 9880
+          "deaths": 9881
         }
       },
       "Quebec": {
@@ -785,9 +785,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1320884,
+      "confirmed": 1320962,
       "date": "2021-10-21",
-      "deaths": 8035
+      "deaths": 8036
     }
   },
   "Italy": {
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 190744,
+          "confirmed": 191461,
           "date": "2021-10-21",
-          "deaths": 1133
+          "deaths": 1136
         }
       },
       "Washington": {
