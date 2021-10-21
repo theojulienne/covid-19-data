@@ -462,9 +462,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 320207,
+      "confirmed": 321084,
       "date": "2021-10-21",
-      "deaths": 18058
+      "deaths": 18105
     }
   },
   "Estonia": {
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 470598,
+      "confirmed": 470855,
       "date": "2021-10-21",
-      "deaths": 7297
+      "deaths": 7300
     }
   },
   "Paraguay": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3348259,
+          "confirmed": 3348644,
           "date": "2021-10-21",
-          "deaths": 52836
+          "deaths": 52844
         }
       },
       "Florida": {
