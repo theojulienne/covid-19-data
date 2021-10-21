@@ -371,7 +371,7 @@
         "live": {
           "confirmed": 326580,
           "date": "2021-10-21",
-          "deaths": 9514
+          "deaths": 9518
         }
       },
       "Bolivar": {
@@ -506,58 +506,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 605245,
+          "confirmed": 605249,
           "date": "2021-10-21",
           "deaths": 10860
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 769600,
+          "confirmed": 774023,
           "date": "2021-10-21",
-          "deaths": 15911
+          "deaths": 15927
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 215362,
+          "confirmed": 216450,
           "date": "2021-10-21",
-          "deaths": 3667
+          "deaths": 3670
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 343954,
+          "confirmed": 344921,
           "date": "2021-10-21",
-          "deaths": 7808
+          "deaths": 7812
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 310817,
+          "confirmed": 311930,
           "date": "2021-10-21",
-          "deaths": 6041
+          "deaths": 6046
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 985200,
+          "confirmed": 987767,
           "date": "2021-10-21",
-          "deaths": 18054
+          "deaths": 18069
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 187670,
+          "confirmed": 187684,
           "date": "2021-10-21",
           "deaths": 4053
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 310678,
+          "confirmed": 310788,
           "date": "2021-10-21",
-          "deaths": 10264
+          "deaths": 10267
         }
       }
     }
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 999374,
+      "confirmed": 1001369,
       "date": "2021-10-21",
       "deaths": 16794
     }
