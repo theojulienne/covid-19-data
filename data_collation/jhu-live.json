@@ -73,28 +73,28 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 170059,
+          "confirmed": 170951,
           "date": "2021-10-21",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 175527,
+          "confirmed": 176246,
           "date": "2021-10-21",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 178054,
+          "confirmed": 178638,
           "date": "2021-10-21",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 157064,
+          "confirmed": 157981,
           "date": "2021-10-21",
           "deaths": 0
         }
@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 507683,
+      "confirmed": 508166,
       "date": "2021-10-21",
-      "deaths": 18883
+      "deaths": 18887
     }
   },
   "Bosnia and Herzegovina": {
@@ -364,7 +364,7 @@
         "live": {
           "confirmed": 752703,
           "date": "2021-10-21",
-          "deaths": 16220
+          "deaths": 16224
         }
       },
       "Atlantico": {
@@ -385,7 +385,7 @@
         "live": {
           "confirmed": 1452930,
           "date": "2021-10-21",
-          "deaths": 27527
+          "deaths": 27530
         }
       },
       "Cundinamarca": {
@@ -406,7 +406,7 @@
         "live": {
           "confirmed": 409983,
           "date": "2021-10-21",
-          "deaths": 12982
+          "deaths": 12984
         }
       }
     }
@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 346088,
+      "confirmed": 347529,
       "date": "2021-10-21",
-      "deaths": 2698
+      "deaths": 2709
     }
   },
   "Kosovo": {
