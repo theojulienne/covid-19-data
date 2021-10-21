@@ -638,7 +638,8 @@ var covid19_dataset_country_nor = {
     "2021-10-18",
     "2021-10-19",
     "2021-10-20",
-    "2021-10-21"
+    "2021-10-21",
+    "2021-10-22"
   ],
   "total": {
     "confirmed": [
@@ -1279,7 +1280,7 @@ var covid19_dataset_country_nor = {
       196351,
       196896,
       197504,
-      197823
+      198161
     ],
     "deaths": [
       0,
@@ -1918,7 +1919,8 @@ var covid19_dataset_country_nor = {
       884,
       884,
       884,
-      884
+      884,
+      893
     ],
     "recovered": [
       0,
