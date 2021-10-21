@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 807052,
+      "confirmed": 807522,
       "date": "2021-10-21",
-      "deaths": 11318
+      "deaths": 11326
     }
   },
   "Netherlands": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1503422,
+      "confirmed": 1519532,
       "date": "2021-10-21",
-      "deaths": 43039
+      "deaths": 43487
     }
   },
   "Russia": {
