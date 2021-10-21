@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 940127,
+      "confirmed": 941562,
       "date": "2021-10-21",
-      "deaths": 8114
+      "deaths": 8133
     }
   },
   "Czechia": {
@@ -778,7 +778,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 421234,
+      "confirmed": 423260,
       "date": "2021-10-21",
       "deaths": 5369
     }
@@ -963,35 +963,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 212547,
+          "confirmed": 213142,
           "date": "2021-10-21",
-          "deaths": 3564
+          "deaths": 3572
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 211678,
+          "confirmed": 212329,
           "date": "2021-10-21",
-          "deaths": 2427
+          "deaths": 2443
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 233740,
+          "confirmed": 234465,
           "date": "2021-10-21",
-          "deaths": 1143
+          "deaths": 1164
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 702019,
+          "confirmed": 703046,
           "date": "2021-10-21",
-          "deaths": 9536
+          "deaths": 9548
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 190766,
+          "confirmed": 191109,
           "date": "2021-10-21",
           "deaths": 2538
         }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 942967,
+      "confirmed": 943222,
       "date": "2021-10-21",
-      "deaths": 14580
+      "deaths": 14593
     }
   },
   "Mozambique": {
@@ -1293,9 +1293,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 158587,
+      "confirmed": 162026,
       "date": "2021-10-21",
-      "deaths": 264
+      "deaths": 280
     }
   },
   "Slovakia": {
@@ -1323,56 +1323,56 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 805888,
+          "confirmed": 806271,
           "date": "2021-10-21",
-          "deaths": 11244
+          "deaths": 11249
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 162139,
+          "confirmed": 162218,
           "date": "2021-10-21",
-          "deaths": 3873
+          "deaths": 3871
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 513090,
+          "confirmed": 513371,
           "date": "2021-10-21",
-          "deaths": 7798
+          "deaths": 7797
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 239630,
+          "confirmed": 239713,
           "date": "2021-10-21",
-          "deaths": 6477
+          "deaths": 6478
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 300578,
+          "confirmed": 300688,
           "date": "2021-10-21",
-          "deaths": 7334
+          "deaths": 7336
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 926093,
+          "confirmed": 926235,
           "date": "2021-10-21",
-          "deaths": 15832
+          "deaths": 15842
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 187133,
+          "confirmed": 187169,
           "date": "2021-10-21",
           "deaths": 2645
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 895841,
+          "confirmed": 896210,
           "date": "2021-10-21",
           "deaths": 16167
         }
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3348644,
+          "confirmed": 3349959,
           "date": "2021-10-21",
-          "deaths": 52844
+          "deaths": 52934
         }
       },
       "Florida": {
@@ -1492,9 +1492,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 152926,
+          "confirmed": 153348,
           "date": "2021-10-21",
-          "deaths": 1919
+          "deaths": 1923
         }
       },
       "Nevada": {
@@ -1513,7 +1513,7 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 155663,
+          "confirmed": 155881,
           "date": "2021-10-21",
           "deaths": 1224
         }
@@ -1527,9 +1527,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 180089,
+          "confirmed": 180356,
           "date": "2021-10-21",
-          "deaths": 3982
+          "deaths": 3990
         }
       },
       "Texas": {
@@ -1612,28 +1612,28 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 7303864,
+          "confirmed": 7347703,
           "date": "2021-10-21",
           "deaths": 121432
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 262397,
+          "confirmed": 263448,
           "date": "2021-10-21",
           "deaths": 2639
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 615182,
+          "confirmed": 617536,
           "date": "2021-10-21",
           "deaths": 9012
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 408294,
+          "confirmed": 412534,
           "date": "2021-10-21",
           "deaths": 6063
         }
