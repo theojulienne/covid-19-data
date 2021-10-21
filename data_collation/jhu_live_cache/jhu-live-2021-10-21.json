@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 604296,
+          "confirmed": 604315,
           "date": "2021-10-21",
           "deaths": 9880
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 420928,
+          "confirmed": 421356,
           "date": "2021-10-21",
           "deaths": 11458
         }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 321682,
+      "confirmed": 323469,
       "date": "2021-10-21",
-      "deaths": 7346
+      "deaths": 7386
     }
   },
   "Mongolia": {
@@ -1314,9 +1314,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2917846,
+      "confirmed": 2918366,
       "date": "2021-10-21",
-      "deaths": 88754
+      "deaths": 88835
     }
   },
   "Spain": {
@@ -1441,9 +1441,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7744109,
+      "confirmed": 7772574,
       "date": "2021-10-21",
-      "deaths": 68274
+      "deaths": 68472
     }
   },
   "US": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3350447,
+          "confirmed": 3204858,
           "date": "2021-10-21",
-          "deaths": 52934
+          "deaths": 51302
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 163303,
+          "confirmed": 309411,
           "date": "2021-10-21",
-          "deaths": 1666
+          "deaths": 4108
         }
       },
       "Pennsylvania": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1796923,
+          "confirmed": 1797104,
           "date": "2021-10-21",
-          "deaths": 26589
+          "deaths": 26656
         }
       },
       "Utah": {
@@ -1555,9 +1555,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 149598,
+          "confirmed": 149833,
           "date": "2021-10-21",
-          "deaths": 1592
+          "deaths": 1593
         }
       }
     }
