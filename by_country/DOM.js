@@ -1920,7 +1920,8 @@ var covid19_dataset_country_dom = {
       4087,
       4090,
       4093,
-      4093
+      4093,
+      4095
     ],
     "recovered": [
       0,
