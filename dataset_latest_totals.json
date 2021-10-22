@@ -655,17 +655,17 @@
     "CHE": {
       "back_1week": {
         "confirmed": 852658,
-        "deaths": 11146,
+        "deaths": 11152,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 846327,
-        "deaths": 11125,
+        "deaths": 11118,
         "recovered": 0
       },
       "latest": {
         "confirmed": 859646,
-        "deaths": 11173,
+        "deaths": 11178,
         "recovered": 0
       }
     },
@@ -1280,18 +1280,18 @@
     },
     "FIN": {
       "back_1week": {
-        "confirmed": 148672,
-        "deaths": 1111,
+        "confirmed": 149174,
+        "deaths": 1112,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 144665,
-        "deaths": 1089,
+        "confirmed": 145354,
+        "deaths": 1092,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 152099,
-        "deaths": 1133,
+        "confirmed": 152707,
+        "deaths": 1135,
         "recovered": 0
       }
     },

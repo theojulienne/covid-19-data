@@ -483,9 +483,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 152707,
+      "confirmed": 153156,
       "date": "2021-10-22",
-      "deaths": 1135
+      "deaths": 1139
     }
   },
   "France": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 861123,
       "date": "2021-10-22",
-      "deaths": 11178
+      "deaths": 11179
     }
   },
   "Thailand": {
