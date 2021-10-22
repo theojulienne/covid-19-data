@@ -73,28 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 170951,
+          "confirmed": 171875,
           "date": "2021-10-22",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 176246,
+          "confirmed": 176969,
+          "date": "2021-10-22",
+          "deaths": 0
+        }
+      },
+      "East Flanders": {
+        "live": {
+          "confirmed": 145755,
           "date": "2021-10-22",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 178638,
+          "confirmed": 179122,
           "date": "2021-10-22",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 157981,
+          "confirmed": 158857,
           "date": "2021-10-22",
           "deaths": 0
         }
@@ -875,7 +882,7 @@
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377373,
+          "confirmed": 377409,
           "date": "2021-10-22",
           "deaths": 3115
         }
@@ -1143,32 +1150,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177132,
+          "confirmed": 177240,
           "date": "2021-10-22",
-          "deaths": 5698
+          "deaths": 5704
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 438433,
+          "confirmed": 438636,
           "date": "2021-10-22",
-          "deaths": 12876
+          "deaths": 12883
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 466750,
+          "confirmed": 466945,
           "date": "2021-10-22",
-          "deaths": 7536
+          "deaths": 7539
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 470855,
+      "confirmed": 471060,
       "date": "2021-10-22",
-      "deaths": 7300
+      "deaths": 7303
     }
   },
   "Paraguay": {
@@ -1450,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 722204,
+          "confirmed": 724731,
           "date": "2021-10-22",
-          "deaths": 11922
+          "deaths": 12000
         }
       },
       "California": {
@@ -1520,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 309411,
+          "confirmed": 163686,
           "date": "2021-10-22",
-          "deaths": 4108
+          "deaths": 1666
         }
       },
       "Pennsylvania": {
