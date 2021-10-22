@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5833525,
+      "confirmed": 5844589,
       "date": "2021-10-22",
-      "deaths": 124763
+      "deaths": 124928
     }
   },
   "Iraq": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 194256,
+      "confirmed": 197389,
       "date": "2021-10-22",
-      "deaths": 2967
+      "deaths": 2992
     }
   },
   "Lebanon": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1519532,
+      "confirmed": 1534942,
       "date": "2021-10-22",
-      "deaths": 43487
+      "deaths": 43844
     }
   },
   "Russia": {
@@ -1420,7 +1420,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 861123,
+      "confirmed": 862408,
       "date": "2021-10-22",
       "deaths": 11180
     }
