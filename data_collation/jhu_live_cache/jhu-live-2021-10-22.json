@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 680182,
+      "confirmed": 684337,
       "date": "2021-10-22",
-      "deaths": 9617
+      "deaths": 9657
     }
   },
   "Germany": {
@@ -585,9 +585,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 841277,
+      "confirmed": 843825,
       "date": "2021-10-22",
-      "deaths": 30468
+      "deaths": 30492
     }
   },
   "India": {
@@ -1427,9 +1427,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1821579,
+      "confirmed": 1831389,
       "date": "2021-10-22",
-      "deaths": 18559
+      "deaths": 18625
     }
   },
   "Tunisia": {
