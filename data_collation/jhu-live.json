@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205599,
+      "confirmed": 205683,
       "date": "2021-10-22",
-      "deaths": 5881
+      "deaths": 5883
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 421356,
+          "confirmed": 421685,
           "date": "2021-10-22",
           "deaths": 11466
         }
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 252375,
+      "confirmed": 252499,
       "date": "2021-10-22",
-      "deaths": 5238
+      "deaths": 5249
     }
   },
   "Korea, South": {
@@ -919,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412449,
+      "confirmed": 412481,
       "date": "2021-10-22",
-      "deaths": 2459
+      "deaths": 2460
     }
   },
   "Kyrgyzstan": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 323469,
+      "confirmed": 325526,
       "date": "2021-10-22",
-      "deaths": 7386
+      "deaths": 7424
     }
   },
   "Mongolia": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 198646,
+      "confirmed": 199057,
       "date": "2021-10-22",
-      "deaths": 7012
+      "deaths": 7019
     }
   },
   "Norway": {
@@ -1314,9 +1314,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2918366,
+      "confirmed": 2918883,
       "date": "2021-10-22",
-      "deaths": 88835
+      "deaths": 88891
     }
   },
   "Spain": {
@@ -1457,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3353118,
+          "confirmed": 3207345,
           "date": "2021-10-22",
-          "deaths": 52973
+          "deaths": 50901
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 196075,
+          "confirmed": 197078,
           "date": "2021-10-22",
-          "deaths": 5532
+          "deaths": 5546
         }
       },
       "Minnesota": {
@@ -1520,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 163686,
+          "confirmed": 310066,
           "date": "2021-10-22",
-          "deaths": 1666
+          "deaths": 4155
         }
       },
       "Pennsylvania": {
@@ -1555,9 +1555,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 149833,
+          "confirmed": 150104,
           "date": "2021-10-22",
-          "deaths": 1593
+          "deaths": 1594
         }
       }
     }
