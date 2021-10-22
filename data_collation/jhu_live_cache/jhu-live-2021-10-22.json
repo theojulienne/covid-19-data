@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 509862,
+      "confirmed": 511974,
       "date": "2021-10-22",
-      "deaths": 6829
+      "deaths": 6847
     }
   },
   "Bahrain": {
@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 491584,
+      "confirmed": 492509,
       "date": "2021-10-22",
-      "deaths": 18465
+      "deaths": 18491
     }
   },
   "Canada": {
@@ -344,16 +344,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152530,
+          "confirmed": 152619,
           "date": "2021-10-22",
-          "deaths": 2695
+          "deaths": 2698
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 704587,
+          "confirmed": 705755,
           "date": "2021-10-22",
-          "deaths": 19281
+          "deaths": 19286
         }
       }
     }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 941562,
+      "confirmed": 943038,
       "date": "2021-10-22",
-      "deaths": 8133
+      "deaths": 8153
     }
   },
   "Czechia": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 707587,
+      "confirmed": 711128,
       "date": "2021-10-22",
-      "deaths": 15519
+      "deaths": 15555
     }
   },
   "Guatemala": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168871,
+          "confirmed": 168895,
           "date": "2021-10-22",
-          "deaths": 1302
+          "deaths": 1303
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202003,
+          "confirmed": 202054,
           "date": "2021-10-22",
           "deaths": 3037
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377409,
+          "confirmed": 377435,
           "date": "2021-10-22",
           "deaths": 3115
         }
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 846033,
+      "confirmed": 849000,
       "date": "2021-10-22",
-      "deaths": 10903
+      "deaths": 10930
     }
   },
   "Kazakhstan": {
@@ -1205,9 +1205,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1082721,
+      "confirmed": 1083651,
       "date": "2021-10-22",
-      "deaths": 18117
+      "deaths": 18125
     }
   },
   "Qatar": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 862411,
       "date": "2021-10-22",
-      "deaths": 11181
+      "deaths": 11182
     }
   },
   "Thailand": {
