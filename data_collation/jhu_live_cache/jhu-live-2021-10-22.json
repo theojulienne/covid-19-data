@@ -85,13 +85,6 @@
           "deaths": 0
         }
       },
-      "East Flanders": {
-        "live": {
-          "confirmed": 145755,
-          "date": "2021-10-22",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 179122,
@@ -1009,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 964604,
+          "confirmed": 965467,
           "date": "2021-10-22",
-          "deaths": 39685
+          "deaths": 39694
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 184558,
+          "confirmed": 185164,
           "date": "2021-10-22",
-          "deaths": 12403
+          "deaths": 12422
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 159281,
+          "confirmed": 159491,
           "date": "2021-10-22",
-          "deaths": 16809
+          "deaths": 16858
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 371418,
+          "confirmed": 371762,
           "date": "2021-10-22",
-          "deaths": 43605
+          "deaths": 43622
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 202213,
+          "confirmed": 202425,
           "date": "2021-10-22",
-          "deaths": 12831
+          "deaths": 12862
         }
       }
     }
@@ -1464,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3204858,
+          "confirmed": 3352732,
           "date": "2021-10-22",
-          "deaths": 51302
+          "deaths": 52968
         }
       },
       "Florida": {
