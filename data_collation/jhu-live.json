@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 791226,
+      "confirmed": 794982,
       "date": "2021-10-23",
-      "deaths": 11233
+      "deaths": 11245
     }
   },
   "Azerbaijan": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4238594,
+      "confirmed": 4239396,
       "date": "2021-10-23",
-      "deaths": 143153
+      "deaths": 143176
     }
   },
   "Iran": {
@@ -1314,9 +1314,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 318408,
+      "confirmed": 318412,
       "date": "2021-10-23",
-      "deaths": 4677
+      "deaths": 4678
     }
   },
   "South Africa": {
