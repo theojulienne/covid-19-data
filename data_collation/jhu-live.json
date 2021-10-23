@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205683,
+      "confirmed": 205750,
       "date": "2021-10-23",
-      "deaths": 5883
+      "deaths": 5886
     }
   },
   "Argentina": {
@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 421685,
+          "confirmed": 422241,
           "date": "2021-10-23",
-          "deaths": 11466
+          "deaths": 11470
         }
       }
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 361647,
+      "confirmed": 362088,
       "date": "2021-10-23",
-      "deaths": 6333
+      "deaths": 6347
     }
   },
   "Finland": {
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 955774,
+          "confirmed": 957296,
           "date": "2021-10-23",
-          "deaths": 88616
+          "deaths": 88648
         }
       }
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2918883,
+      "confirmed": 2919332,
       "date": "2021-10-23",
-      "deaths": 88891
+      "deaths": 88914
     }
   },
   "Spain": {
@@ -1464,7 +1464,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3063963,
+          "confirmed": 3064663,
           "date": "2021-10-23",
           "deaths": 49314
         }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1800416,
+          "confirmed": 1800531,
           "date": "2021-10-23",
-          "deaths": 26762
+          "deaths": 26832
         }
       },
       "Utah": {
