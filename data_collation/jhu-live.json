@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 508702,
+      "confirmed": 509276,
       "date": "2021-10-23",
-      "deaths": 18891
+      "deaths": 18896
     }
   },
   "Bosnia and Herzegovina": {
@@ -1053,9 +1053,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 346455,
+      "confirmed": 348188,
       "date": "2021-10-23",
-      "deaths": 1626
+      "deaths": 1643
     }
   },
   "Morocco": {
@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177240,
+          "confirmed": 177349,
           "date": "2021-10-23",
-          "deaths": 5704
+          "deaths": 5710
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 438636,
+          "confirmed": 438818,
           "date": "2021-10-23",
-          "deaths": 12883
+          "deaths": 12891
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 466945,
+          "confirmed": 467142,
           "date": "2021-10-23",
-          "deaths": 7539
+          "deaths": 7540
         }
       }
     }
