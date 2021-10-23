@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605168,
+          "confirmed": 605182,
           "date": "2021-10-23",
           "deaths": 9896
         }
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 165663,
+      "confirmed": 169261,
       "date": "2021-10-23",
-      "deaths": 294
+      "deaths": 300
     }
   },
   "Slovakia": {
