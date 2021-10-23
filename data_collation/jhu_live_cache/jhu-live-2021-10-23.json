@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 564719,
+      "confirmed": 568073,
       "date": "2021-10-23",
-      "deaths": 22975
+      "deaths": 23033
     }
   },
   "Burma": {
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 252499,
+      "confirmed": 252628,
       "date": "2021-10-23",
-      "deaths": 5249
+      "deaths": 5255
     }
   },
   "Korea, South": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 199057,
+      "confirmed": 199539,
       "date": "2021-10-23",
-      "deaths": 7019
+      "deaths": 7036
     }
   },
   "Norway": {
