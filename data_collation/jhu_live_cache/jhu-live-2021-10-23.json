@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 425725,
+      "confirmed": 428152,
       "date": "2021-10-23",
       "deaths": 5369
     }
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 808096,
+      "confirmed": 808534,
       "date": "2021-10-23",
-      "deaths": 11337
+      "deaths": 11345
     }
   },
   "Netherlands": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1534942,
+      "confirmed": 1550203,
       "date": "2021-10-23",
-      "deaths": 43844
+      "deaths": 44290
     }
   },
   "Russia": {
@@ -1307,9 +1307,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 449775,
+      "confirmed": 453231,
       "date": "2021-10-23",
-      "deaths": 12886
+      "deaths": 12895
     }
   },
   "Slovenia": {
