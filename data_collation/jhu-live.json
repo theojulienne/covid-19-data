@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5277525,
+      "confirmed": 5278910,
       "date": "2021-10-22",
-      "deaths": 115796
+      "deaths": 115819
     }
   },
   "Armenia": {
@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 200249,
+          "confirmed": 200898,
           "date": "2021-10-22",
-          "deaths": 2096
+          "deaths": 2109
         }
       },
       "Ontario": {
@@ -362,49 +362,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 753076,
+          "confirmed": 753455,
           "date": "2021-10-22",
           "deaths": 16229
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 326926,
+          "confirmed": 327332,
           "date": "2021-10-22",
           "deaths": 9522
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 157402,
+          "confirmed": 157452,
           "date": "2021-10-22",
           "deaths": 2980
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1453087,
+          "confirmed": 1453423,
           "date": "2021-10-22",
           "deaths": 27534
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 264148,
+          "confirmed": 264169,
           "date": "2021-10-22",
           "deaths": 6814
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 225878,
+          "confirmed": 225930,
           "date": "2021-10-22",
           "deaths": 7303
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 410129,
+          "confirmed": 410290,
           "date": "2021-10-22",
           "deaths": 12986
         }
@@ -1173,7 +1173,7 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460646,
+      "confirmed": 460679,
       "date": "2021-10-22",
       "deaths": 16229
     }
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 160822,
+          "confirmed": 161217,
           "date": "2021-10-22",
-          "deaths": 1949
+          "deaths": 1961
         }
       },
       "Wisconsin": {
