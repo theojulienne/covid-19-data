@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 325526,
+      "confirmed": 327094,
       "date": "2021-10-23",
-      "deaths": 7424
+      "deaths": 7459
     }
   },
   "Mongolia": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1800531,
+          "confirmed": 1801107,
           "date": "2021-10-23",
           "deaths": 26832
         }
