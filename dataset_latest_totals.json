@@ -1144,18 +1144,18 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 368830,
-        "deaths": 4082,
+        "confirmed": 369700,
+        "deaths": 4084,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 364252,
-        "deaths": 4065,
+        "confirmed": 365063,
+        "deaths": 4067,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 374722,
-        "deaths": 4100,
+        "confirmed": 375545,
+        "deaths": 4106,
         "recovered": 0
       }
     },
@@ -1837,17 +1837,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 1315317,
-        "deaths": 7976,
+        "deaths": 7983,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1304356,
-        "deaths": 7885,
+        "deaths": 7897,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1322395,
-        "deaths": 8039,
+        "deaths": 8046,
         "recovered": 0
       }
     },
