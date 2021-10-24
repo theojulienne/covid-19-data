@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1323020,
+      "confirmed": 1323079,
       "date": "2021-10-24",
       "deaths": 8049
     }
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3065824,
+          "confirmed": 3066737,
           "date": "2021-10-24",
-          "deaths": 49327
+          "deaths": 49336
         }
       },
       "Florida": {
