@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276526,
+      "confirmed": 276571,
       "date": "2021-10-24",
       "deaths": 1393
     }
@@ -133,58 +133,58 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 239639,
+          "confirmed": 239697,
           "date": "2021-10-24",
-          "deaths": 6276
+          "deaths": 6278
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 427463,
+          "confirmed": 427491,
           "date": "2021-10-24",
           "deaths": 13763
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 1242821,
+          "confirmed": 1243005,
           "date": "2021-10-24",
-          "deaths": 27017
+          "deaths": 27019
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 942901,
+          "confirmed": 942981,
           "date": "2021-10-24",
-          "deaths": 24457
+          "deaths": 24465
         }
       },
       "Distrito Federal": {
         "live": {
-          "confirmed": 513191,
+          "confirmed": 513506,
           "date": "2021-10-24",
-          "deaths": 10786
+          "deaths": 10791
         }
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 602747,
+          "confirmed": 603191,
           "date": "2021-10-24",
-          "deaths": 12826
+          "deaths": 12827
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 895951,
+          "confirmed": 896007,
           "date": "2021-10-24",
-          "deaths": 24066
+          "deaths": 24069
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 359985,
+          "confirmed": 360000,
           "date": "2021-10-24",
-          "deaths": 10223
+          "deaths": 10224
         }
       },
       "Mato Grosso": {
@@ -203,93 +203,93 @@
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 2177140,
+          "confirmed": 2177936,
           "date": "2021-10-24",
-          "deaths": 55383
+          "deaths": 55401
         }
       },
       "Para": {
         "live": {
-          "confirmed": 596977,
+          "confirmed": 597007,
           "date": "2021-10-24",
-          "deaths": 16730
+          "deaths": 16731
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 444752,
+          "confirmed": 444929,
           "date": "2021-10-24",
-          "deaths": 9391
+          "deaths": 9395
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 1544288,
+          "confirmed": 1544967,
           "date": "2021-10-24",
-          "deaths": 40186
+          "deaths": 40238
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 628588,
+          "confirmed": 628757,
           "date": "2021-10-24",
-          "deaths": 19940
+          "deaths": 19944
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 324128,
+          "confirmed": 324318,
           "date": "2021-10-24",
-          "deaths": 7080
+          "deaths": 7082
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 371881,
+          "confirmed": 372033,
           "date": "2021-10-24",
-          "deaths": 7375
+          "deaths": 7377
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 1457408,
+          "confirmed": 1457796,
           "date": "2021-10-24",
-          "deaths": 35326
+          "deaths": 35328
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1314605,
+          "confirmed": 1314622,
           "date": "2021-10-24",
           "deaths": 67997
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 268783,
+          "confirmed": 268857,
           "date": "2021-10-24",
           "deaths": 6561
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 1211225,
+          "confirmed": 1211401,
           "date": "2021-10-24",
-          "deaths": 19570
+          "deaths": 19572
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 4396904,
+          "confirmed": 4399007,
           "date": "2021-10-24",
-          "deaths": 151471
+          "deaths": 151544
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 278420,
+          "confirmed": 278426,
           "date": "2021-10-24",
-          "deaths": 6026
+          "deaths": 6027
         }
       },
       "Tocantins": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 862411,
       "date": "2021-10-24",
-      "deaths": 11181
+      "deaths": 11182
     }
   },
   "Thailand": {
