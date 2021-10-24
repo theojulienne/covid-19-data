@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605234,
+          "confirmed": 605463,
           "date": "2021-10-24",
-          "deaths": 9896
+          "deaths": 9897
         }
       },
       "Quebec": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 443032,
+      "confirmed": 445325,
       "date": "2021-10-24",
-      "deaths": 9010
+      "deaths": 9038
     }
   },
   "Cuba": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 375065,
+      "confirmed": 376414,
       "date": "2021-10-24",
-      "deaths": 2697
+      "deaths": 2699
     }
   },
   "Dominican Republic": {
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 786007,
+          "confirmed": 786083,
           "date": "2021-10-24",
-          "deaths": 15957
+          "deaths": 15956
         }
       },
       "Berlin": {
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 315219,
+          "confirmed": 316143,
           "date": "2021-10-24",
-          "deaths": 10283
+          "deaths": 10284
         }
       }
     }
@@ -868,14 +868,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168904,
+          "confirmed": 168915,
           "date": "2021-10-24",
           "deaths": 1306
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202100,
+          "confirmed": 202138,
           "date": "2021-10-24",
           "deaths": 3040
         }
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548205,
+      "confirmed": 548252,
       "date": "2021-10-24",
-      "deaths": 8776
+      "deaths": 8778
     }
   },
   "Serbia": {
@@ -1610,9 +1610,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 739190,
+      "confirmed": 739284,
       "date": "2021-10-24",
-      "deaths": 2129
+      "deaths": 2130
     }
   },
   "United Kingdom": {
