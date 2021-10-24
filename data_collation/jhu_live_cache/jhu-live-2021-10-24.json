@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 181252,
+      "confirmed": 181696,
       "date": "2021-10-24",
-      "deaths": 2870
+      "deaths": 2874
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605463,
+          "confirmed": 605516,
           "date": "2021-10-24",
           "deaths": 9897
         }
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 214193,
+          "confirmed": 214759,
           "date": "2021-10-24",
-          "deaths": 3583
+          "deaths": 3588
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 213562,
+          "confirmed": 214064,
           "date": "2021-10-24",
-          "deaths": 2454
+          "deaths": 2458
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 235802,
+          "confirmed": 236556,
           "date": "2021-10-24",
-          "deaths": 1198
+          "deaths": 1206
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 705407,
+          "confirmed": 706485,
           "date": "2021-10-24",
-          "deaths": 9564
+          "deaths": 9568
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 191683,
+          "confirmed": 191845,
           "date": "2021-10-24",
           "deaths": 2539
         }
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 944076,
+      "confirmed": 944277,
       "date": "2021-10-24",
-      "deaths": 14606
+      "deaths": 14612
     }
   },
   "Mozambique": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 199539,
+      "confirmed": 199766,
       "date": "2021-10-24",
-      "deaths": 7036
+      "deaths": 7051
     }
   },
   "Norway": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2751667,
+      "confirmed": 2756923,
       "date": "2021-10-24",
-      "deaths": 41585
+      "deaths": 41793
     }
   },
   "Poland": {
@@ -1212,7 +1212,7 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1084534,
+      "confirmed": 1085138,
       "date": "2021-10-24",
       "deaths": 18133
     }
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 169261,
+      "confirmed": 172644,
       "date": "2021-10-24",
-      "deaths": 300
+      "deaths": 315
     }
   },
   "Slovakia": {
@@ -1395,9 +1395,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 535529,
+      "confirmed": 536084,
       "date": "2021-10-24",
-      "deaths": 13593
+      "deaths": 13611
     }
   },
   "Sweden": {
