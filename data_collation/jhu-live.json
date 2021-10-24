@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5851670,
+      "confirmed": 5860844,
       "date": "2021-10-24",
-      "deaths": 125052
+      "deaths": 125223
     }
   },
   "Iraq": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 428152,
+      "confirmed": 429877,
       "date": "2021-10-24",
       "deaths": 5369
     }
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 808534,
+      "confirmed": 809056,
       "date": "2021-10-24",
-      "deaths": 11345
+      "deaths": 11348
     }
   },
   "Netherlands": {
@@ -1141,9 +1141,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304116,
+      "confirmed": 304163,
       "date": "2021-10-24",
-      "deaths": 4107
+      "deaths": 4110
     }
   },
   "Pakistan": {
