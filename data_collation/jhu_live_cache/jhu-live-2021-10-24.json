@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 509276,
+      "confirmed": 509709,
       "date": "2021-10-24",
-      "deaths": 18896
+      "deaths": 18898
     }
   },
   "Bosnia and Herzegovina": {
@@ -371,35 +371,35 @@
         "live": {
           "confirmed": 753824,
           "date": "2021-10-24",
-          "deaths": 16236
+          "deaths": 16246
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 327726,
           "date": "2021-10-24",
-          "deaths": 9528
+          "deaths": 9533
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157505,
           "date": "2021-10-24",
-          "deaths": 2981
+          "deaths": 2982
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1453602,
           "date": "2021-10-24",
-          "deaths": 27536
+          "deaths": 27539
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264182,
           "date": "2021-10-24",
-          "deaths": 6814
+          "deaths": 6816
         }
       },
       "Santander": {
@@ -413,7 +413,7 @@
         "live": {
           "confirmed": 410443,
           "date": "2021-10-24",
-          "deaths": 12993
+          "deaths": 12996
         }
       }
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 471253,
+      "confirmed": 471403,
       "date": "2021-10-24",
-      "deaths": 7306
+      "deaths": 7307
     }
   },
   "Paraguay": {
