@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 362088,
+      "confirmed": 362335,
       "date": "2021-10-24",
-      "deaths": 6347
+      "deaths": 6358
     }
   },
   "Finland": {
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412506,
+      "confirmed": 412527,
       "date": "2021-10-24",
-      "deaths": 2460
+      "deaths": 2461
     }
   },
   "Kyrgyzstan": {
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 327094,
+      "confirmed": 328000,
       "date": "2021-10-24",
-      "deaths": 7459
+      "deaths": 7497
     }
   },
   "Mongolia": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460679,
+      "confirmed": 460701,
       "date": "2021-10-24",
-      "deaths": 16229
+      "deaths": 16230
     }
   },
   "Peru": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1481155,
+          "confirmed": 1481736,
           "date": "2021-10-24",
-          "deaths": 39446
+          "deaths": 39449
         }
       },
       "North Carolina": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1801281,
+          "confirmed": 1801576,
           "date": "2021-10-24",
           "deaths": 26861
         }
