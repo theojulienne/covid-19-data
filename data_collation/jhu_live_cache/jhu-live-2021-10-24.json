@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 422241,
+          "confirmed": 422670,
           "date": "2021-10-24",
-          "deaths": 11470
+          "deaths": 11472
         }
       }
     }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1801107,
+          "confirmed": 1801281,
           "date": "2021-10-24",
-          "deaths": 26832
+          "deaths": 26861
         }
       },
       "Utah": {
