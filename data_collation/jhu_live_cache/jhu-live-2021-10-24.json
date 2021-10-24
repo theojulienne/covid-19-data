@@ -555,7 +555,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 189094,
+          "confirmed": 189304,
           "date": "2021-10-24",
           "deaths": 4061
         }
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 200321,
+      "confirmed": 202573,
       "date": "2021-10-24",
-      "deaths": 3018
+      "deaths": 3028
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 352881,
+      "confirmed": 353626,
       "date": "2021-10-24",
-      "deaths": 4982
+      "deaths": 5006
     }
   },
   "Lithuania": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1550203,
+      "confirmed": 1561928,
       "date": "2021-10-24",
-      "deaths": 44290
+      "deaths": 44679
     }
   },
   "Russia": {
