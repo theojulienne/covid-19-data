@@ -513,58 +513,58 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 610658,
+          "confirmed": 612943,
           "date": "2021-10-24",
-          "deaths": 10882
+          "deaths": 10886
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 782614,
+          "confirmed": 786007,
           "date": "2021-10-24",
-          "deaths": 15954
+          "deaths": 15957
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 217872,
+          "confirmed": 218055,
           "date": "2021-10-24",
           "deaths": 3677
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 346680,
+          "confirmed": 347573,
           "date": "2021-10-24",
-          "deaths": 7823
+          "deaths": 7824
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 313248,
+          "confirmed": 314290,
           "date": "2021-10-24",
-          "deaths": 6057
+          "deaths": 6060
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 992098,
+          "confirmed": 994244,
           "date": "2021-10-24",
-          "deaths": 18108
+          "deaths": 18112
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 189087,
+          "confirmed": 189094,
           "date": "2021-10-24",
           "deaths": 4061
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 315216,
+          "confirmed": 315219,
           "date": "2021-10-24",
-          "deaths": 10284
+          "deaths": 10283
         }
       }
     }
@@ -1663,9 +1663,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 398611,
+      "confirmed": 399667,
       "date": "2021-10-24",
-      "deaths": 4790
+      "deaths": 4800
     }
   },
   "Vietnam": {
