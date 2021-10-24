@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6944163,
+      "confirmed": 6949168,
       "date": "2021-10-24",
-      "deaths": 115107
+      "deaths": 115111
     }
   },
   "Georgia": {
@@ -1067,7 +1067,7 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151220,
+      "confirmed": 151225,
       "date": "2021-10-24",
       "deaths": 1928
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2919332,
+      "confirmed": 2919632,
       "date": "2021-10-24",
-      "deaths": 88914
+      "deaths": 88925
     }
   },
   "Spain": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 310672,
+          "confirmed": 311135,
           "date": "2021-10-24",
           "deaths": 4155
         }
