@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 754192,
           "date": "2021-10-25",
-          "deaths": 16246
+          "deaths": 16256
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 328009,
           "date": "2021-10-25",
-          "deaths": 9533
+          "deaths": 9534
         }
       },
       "Bolivar": {
@@ -392,28 +392,28 @@
         "live": {
           "confirmed": 1453773,
           "date": "2021-10-25",
-          "deaths": 27539
+          "deaths": 27540
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264197,
           "date": "2021-10-25",
-          "deaths": 6816
+          "deaths": 6818
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226009,
           "date": "2021-10-25",
-          "deaths": 7304
+          "deaths": 7305
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 410649,
           "date": "2021-10-25",
-          "deaths": 12996
+          "deaths": 13000
         }
       }
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 351899,
+      "confirmed": 353089,
       "date": "2021-10-25",
-      "deaths": 2766
+      "deaths": 2773
     }
   },
   "Kosovo": {
@@ -1459,7 +1459,7 @@
         "live": {
           "confirmed": 729247,
           "date": "2021-10-25",
-          "deaths": 12041
+          "deaths": 12047
         }
       },
       "California": {
