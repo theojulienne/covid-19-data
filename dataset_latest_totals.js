@@ -1734,18 +1734,18 @@ var covid19_dataset_latest_totals = {
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 4234011,
-        "deaths": 142933,
+        "confirmed": 4234758,
+        "deaths": 142952,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 4227038,
-        "deaths": 142612,
+        "confirmed": 4227932,
+        "deaths": 142651,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 4239396,
-        "deaths": 143176,
+        "confirmed": 4240019,
+        "deaths": 143205,
         "recovered": 0
       }
     },

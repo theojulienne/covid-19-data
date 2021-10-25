@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 153156,
+      "confirmed": 154888,
       "date": "2021-10-25",
-      "deaths": 1139
+      "deaths": 1150
     }
   },
   "France": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4240019,
+      "confirmed": 4240479,
       "date": "2021-10-25",
-      "deaths": 143205
+      "deaths": 143235
     }
   },
   "Iran": {
@@ -875,7 +875,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 202138,
+          "confirmed": 202164,
           "date": "2021-10-25",
           "deaths": 3040
         }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 862411,
       "date": "2021-10-25",
-      "deaths": 11185
+      "deaths": 11189
     }
   },
   "Thailand": {
