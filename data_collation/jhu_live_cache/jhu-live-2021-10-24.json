@@ -15,16 +15,16 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 205750,
+      "confirmed": 205822,
       "date": "2021-10-24",
-      "deaths": 5886
+      "deaths": 5890
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 5279818,
+      "confirmed": 5280358,
       "date": "2021-10-24",
-      "deaths": 115823
+      "deaths": 115826
     }
   },
   "Armenia": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 568073,
+      "confirmed": 569443,
       "date": "2021-10-24",
-      "deaths": 23033
+      "deaths": 23073
     }
   },
   "Burma": {
@@ -462,9 +462,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 514087,
+      "confirmed": 515606,
       "date": "2021-10-24",
-      "deaths": 32937
+      "deaths": 32952
     }
   },
   "Egypt": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 637312,
+      "confirmed": 637819,
       "date": "2021-10-24",
-      "deaths": 8449
+      "deaths": 8453
     }
   },
   "Libya": {
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 711521,
+      "confirmed": 711693,
       "date": "2021-10-24",
-      "deaths": 25139
+      "deaths": 25149
     }
   },
   "Turkey": {
@@ -1649,7 +1649,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 392029,
+      "confirmed": 392148,
       "date": "2021-10-24",
       "deaths": 6071
     }
