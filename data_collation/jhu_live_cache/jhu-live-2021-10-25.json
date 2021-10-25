@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1729458,
+      "confirmed": 1731287,
       "date": "2021-10-25",
-      "deaths": 30615
+      "deaths": 30625
     }
   },
   "Denmark": {
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 218122,
+          "confirmed": 218123,
           "date": "2021-10-25",
           "deaths": 3677
         }
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1323079,
+      "confirmed": 1323516,
       "date": "2021-10-25",
       "deaths": 8049
     }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 388185,
+      "confirmed": 390031,
       "date": "2021-10-25",
-      "deaths": 5633
+      "deaths": 5661
     }
   },
   "Malaysia": {
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1850482,
+      "confirmed": 1859157,
       "date": "2021-10-25",
-      "deaths": 18755
+      "deaths": 18799
     }
   },
   "Tunisia": {
@@ -1573,37 +1573,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 175566,
+          "confirmed": 176631,
           "date": "2021-10-25",
-          "deaths": 5488
+          "deaths": 5550
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 195429,
+          "confirmed": 197116,
           "date": "2021-10-25",
-          "deaths": 4508
+          "deaths": 4542
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 251240,
+          "confirmed": 251786,
           "date": "2021-10-25",
-          "deaths": 5873
+          "deaths": 5900
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 172483,
+          "confirmed": 173360,
           "date": "2021-10-25",
-          "deaths": 4385
+          "deaths": 4402
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 180550,
+          "confirmed": 181812,
           "date": "2021-10-25",
-          "deaths": 3811
+          "deaths": 3848
         }
       }
     }
