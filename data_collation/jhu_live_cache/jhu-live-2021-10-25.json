@@ -601,163 +601,163 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2063177,
+          "confirmed": 2063577,
           "date": "2021-10-25",
-          "deaths": 14339
+          "deaths": 14343
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 608450,
+          "confirmed": 608589,
           "date": "2021-10-25",
-          "deaths": 5967
+          "deaths": 5973
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726054,
+          "confirmed": 726058,
           "date": "2021-10-25",
           "deaths": 9661
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1005827,
+          "confirmed": 1005847,
           "date": "2021-10-25",
           "deaths": 13572
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1439566,
+          "confirmed": 1439603,
           "date": "2021-10-25",
           "deaths": 25091
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 177852,
+          "confirmed": 177886,
           "date": "2021-10-25",
           "deaths": 3358
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 826402,
+          "confirmed": 826418,
           "date": "2021-10-25",
           "deaths": 10087
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 771141,
+          "confirmed": 771157,
           "date": "2021-10-25",
           "deaths": 10049
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 222569,
+          "confirmed": 222638,
           "date": "2021-10-25",
-          "deaths": 3734
+          "deaths": 3736
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 331566,
+          "confirmed": 331638,
           "date": "2021-10-25",
           "deaths": 4429
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 348592,
+          "confirmed": 348627,
           "date": "2021-10-25",
           "deaths": 5135
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2985598,
+          "confirmed": 2985986,
           "date": "2021-10-25",
-          "deaths": 38002
+          "deaths": 38007
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 4906793,
+          "confirmed": 4915331,
           "date": "2021-10-25",
-          "deaths": 28229
+          "deaths": 28592
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 792740,
+          "confirmed": 792749,
           "date": "2021-10-25",
           "deaths": 10523
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6601551,
+          "confirmed": 6602961,
           "date": "2021-10-25",
-          "deaths": 139998
+          "deaths": 140016
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1037964,
+          "confirmed": 1038411,
           "date": "2021-10-25",
-          "deaths": 8305
+          "deaths": 8309
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 602189,
+          "confirmed": 602209,
           "date": "2021-10-25",
           "deaths": 16551
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954400,
+          "confirmed": 954402,
           "date": "2021-10-25",
           "deaths": 8954
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2694089,
+          "confirmed": 2695216,
           "date": "2021-10-25",
-          "deaths": 36004
+          "deaths": 36019
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 670139,
+          "confirmed": 670274,
           "date": "2021-10-25",
-          "deaths": 3946
+          "deaths": 3947
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1710082,
+          "confirmed": 1710095,
           "date": "2021-10-25",
           "deaths": 22899
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 343815,
+          "confirmed": 343821,
           "date": "2021-10-25",
-          "deaths": 7398
+          "deaths": 7399
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1585466,
+          "confirmed": 1586455,
           "date": "2021-10-25",
-          "deaths": 19045
+          "deaths": 19055
         }
       }
     }
@@ -1009,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 967113,
+          "confirmed": 967529,
           "date": "2021-10-25",
-          "deaths": 39723
+          "deaths": 39739
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 186109,
+          "confirmed": 186258,
           "date": "2021-10-25",
-          "deaths": 12461
+          "deaths": 12462
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 159897,
+          "confirmed": 159953,
           "date": "2021-10-25",
-          "deaths": 16944
+          "deaths": 16951
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 372355,
+          "confirmed": 372485,
           "date": "2021-10-25",
-          "deaths": 43673
+          "deaths": 43679
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 202882,
+          "confirmed": 202930,
           "date": "2021-10-25",
-          "deaths": 12893
+          "deaths": 12896
         }
       }
     }
@@ -1053,9 +1053,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 349509,
+      "confirmed": 350604,
       "date": "2021-10-25",
-      "deaths": 1660
+      "deaths": 1666
     }
   },
   "Morocco": {
@@ -1173,7 +1173,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 471403,
+      "confirmed": 471537,
       "date": "2021-10-25",
       "deaths": 7307
     }
