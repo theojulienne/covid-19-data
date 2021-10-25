@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 445325,
+      "confirmed": 446005,
       "date": "2021-10-25",
-      "deaths": 9038
+      "deaths": 9060
     }
   },
   "Cuba": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 353626,
+      "confirmed": 354215,
       "date": "2021-10-25",
-      "deaths": 5006
+      "deaths": 5028
     }
   },
   "Lithuania": {
