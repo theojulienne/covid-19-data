@@ -85,13 +85,6 @@
           "deaths": 0
         }
       },
-      "East Flanders": {
-        "live": {
-          "confirmed": 146424,
-          "date": "2021-10-25",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 179653,
@@ -333,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605822,
+          "confirmed": 605829,
           "date": "2021-10-25",
           "deaths": 9898
         }
@@ -497,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6949156,
+      "confirmed": 6950451,
       "date": "2021-10-25",
-      "deaths": 115111
+      "deaths": 115154
     }
   },
   "Georgia": {
@@ -1067,7 +1060,7 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151225,
+      "confirmed": 151226,
       "date": "2021-10-25",
       "deaths": 1928
     }
@@ -1351,9 +1344,9 @@
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 239817,
+          "confirmed": 240006,
           "date": "2021-10-25",
-          "deaths": 6479
+          "deaths": 6474
         }
       },
       "Castilla y Leon": {
@@ -1395,7 +1388,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 536496,
+      "confirmed": 536645,
       "date": "2021-10-25",
       "deaths": 13640
     }
@@ -1464,9 +1457,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3067233,
+          "confirmed": 3214527,
           "date": "2021-10-25",
-          "deaths": 49340
+          "deaths": 50992
         }
       },
       "Florida": {
@@ -1478,9 +1471,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 636261,
+          "confirmed": 638201,
           "date": "2021-10-25",
-          "deaths": 11214
+          "deaths": 11231
         }
       },
       "Massachusetts": {
@@ -1506,14 +1499,14 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 329006,
+          "confirmed": 329942,
           "date": "2021-10-25",
-          "deaths": 5900
+          "deaths": 5916
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1481736,
+          "confirmed": 1481891,
           "date": "2021-10-25",
           "deaths": 39449
         }
@@ -1527,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 311135,
+          "confirmed": 311552,
           "date": "2021-10-25",
           "deaths": 4155
         }
