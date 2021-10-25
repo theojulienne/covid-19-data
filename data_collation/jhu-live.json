@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 516325,
+      "confirmed": 517802,
       "date": "2021-10-25",
-      "deaths": 6894
+      "deaths": 6915
     }
   },
   "Bahrain": {
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1567692,
+      "confirmed": 1567981,
       "date": "2021-10-25",
-      "deaths": 27823
+      "deaths": 27828
     }
   },
   "Belarus": {
@@ -448,7 +448,7 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 376414,
+      "confirmed": 377825,
       "date": "2021-10-25",
       "deaths": 2699
     }
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 788107,
+          "confirmed": 788404,
           "date": "2021-10-25",
           "deaths": 15957
         }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 316146,
+          "confirmed": 316573,
           "date": "2021-10-25",
-          "deaths": 10284
+          "deaths": 10286
         }
       }
     }
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460701,
+      "confirmed": 460723,
       "date": "2021-10-25",
-      "deaths": 16230
+      "deaths": 16231
     }
   },
   "Peru": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 238518,
+      "confirmed": 238640,
       "date": "2021-10-25",
       "deaths": 609
     }
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548252,
+      "confirmed": 548303,
       "date": "2021-10-25",
-      "deaths": 8778
+      "deaths": 8780
     }
   },
   "Serbia": {
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 711693,
+      "confirmed": 711821,
       "date": "2021-10-25",
-      "deaths": 25149
+      "deaths": 25155
     }
   },
   "Turkey": {
@@ -1610,9 +1610,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 739284,
+      "confirmed": 739381,
       "date": "2021-10-25",
-      "deaths": 2130
+      "deaths": 2131
     }
   },
   "United Kingdom": {
@@ -1684,7 +1684,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209634,
+      "confirmed": 209639,
       "date": "2021-10-25",
       "deaths": 3659
     }
