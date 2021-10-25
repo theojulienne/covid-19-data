@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 586234,
+      "confirmed": 588231,
       "date": "2021-10-25",
-      "deaths": 4515
+      "deaths": 4530
     }
   },
   "Belgium": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605516,
+          "confirmed": 605745,
           "date": "2021-10-25",
           "deaths": 9897
         }
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5860844,
+      "confirmed": 5868360,
       "date": "2021-10-25",
-      "deaths": 125223
+      "deaths": 125363
     }
   },
   "Iraq": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 809056,
+      "confirmed": 809729,
       "date": "2021-10-25",
-      "deaths": 11348
+      "deaths": 11361
     }
   },
   "Netherlands": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304163,
+      "confirmed": 304183,
       "date": "2021-10-25",
       "deaths": 4110
     }
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2756923,
+      "confirmed": 2761307,
       "date": "2021-10-25",
-      "deaths": 41793
+      "deaths": 41942
     }
   },
   "Poland": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1561928,
+      "confirmed": 1571115,
       "date": "2021-10-25",
-      "deaths": 44679
+      "deaths": 44980
     }
   },
   "Russia": {
@@ -1427,9 +1427,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 862411,
+      "confirmed": 865708,
       "date": "2021-10-25",
-      "deaths": 11189
+      "deaths": 11190
     }
   },
   "Thailand": {
