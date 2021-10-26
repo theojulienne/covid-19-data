@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5280358,
+      "confirmed": 5281585,
       "date": "2021-10-25",
-      "deaths": 115826
+      "deaths": 115851
     }
   },
   "Armenia": {
@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276571,
+      "confirmed": 276608,
       "date": "2021-10-25",
       "deaths": 1393
     }
@@ -296,9 +296,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 569443,
+      "confirmed": 575306,
       "date": "2021-10-25",
-      "deaths": 23073
+      "deaths": 23316
     }
   },
   "Burma": {
@@ -362,49 +362,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 754192,
+          "confirmed": 754551,
           "date": "2021-10-25",
           "deaths": 16256
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 328009,
+          "confirmed": 328236,
           "date": "2021-10-25",
           "deaths": 9534
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 157521,
+          "confirmed": 157565,
           "date": "2021-10-25",
           "deaths": 2982
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1453773,
+          "confirmed": 1453926,
           "date": "2021-10-25",
           "deaths": 27540
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 264197,
+          "confirmed": 264230,
           "date": "2021-10-25",
           "deaths": 6818
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 226009,
+          "confirmed": 226060,
           "date": "2021-10-25",
           "deaths": 7305
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 410649,
+          "confirmed": 410726,
           "date": "2021-10-25",
           "deaths": 13000
         }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 200885,
+      "confirmed": 201410,
       "date": "2021-10-25",
       "deaths": 894
     }
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460723,
+      "confirmed": 460754,
       "date": "2021-10-25",
-      "deaths": 16231
+      "deaths": 16232
     }
   },
   "Peru": {
@@ -1422,7 +1422,7 @@
     "live": {
       "confirmed": 865708,
       "date": "2021-10-25",
-      "deaths": 11192
+      "deaths": 11193
     }
   },
   "Thailand": {
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 161217,
+          "confirmed": 162347,
           "date": "2021-10-25",
-          "deaths": 1961
+          "deaths": 1963
         }
       },
       "Wisconsin": {
