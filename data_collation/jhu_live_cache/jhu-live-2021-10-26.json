@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276608,
+      "confirmed": 276635,
       "date": "2021-10-26",
       "deaths": 1393
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 362672,
+      "confirmed": 363240,
       "date": "2021-10-26",
-      "deaths": 6377
+      "deaths": 6393
     }
   },
   "Finland": {
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412557,
+      "confirmed": 412578,
       "date": "2021-10-26",
       "deaths": 2461
     }
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 329294,
+      "confirmed": 330799,
       "date": "2021-10-26",
-      "deaths": 7535
+      "deaths": 7576
     }
   },
   "Mongolia": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460754,
+      "confirmed": 460815,
       "date": "2021-10-26",
-      "deaths": 16232
+      "deaths": 16233
     }
   },
   "Peru": {
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 158495,
+          "confirmed": 158740,
           "date": "2021-10-26",
-          "deaths": 3915
+          "deaths": 3917
         }
       },
       "Michigan": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1805966,
+          "confirmed": 1806121,
           "date": "2021-10-26",
           "deaths": 26932
         }
@@ -1684,9 +1684,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209639,
+      "confirmed": 209648,
       "date": "2021-10-26",
-      "deaths": 3659
+      "deaths": 3660
     }
   }
 }
