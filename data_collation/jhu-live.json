@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 605973,
+          "confirmed": 606133,
           "date": "2021-10-26",
-          "deaths": 9898
+          "deaths": 9902
         }
       },
       "Quebec": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 446005,
+      "confirmed": 449365,
       "date": "2021-10-26",
-      "deaths": 9060
+      "deaths": 9090
     }
   },
   "Cuba": {
@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 154888,
+      "confirmed": 155547,
       "date": "2021-10-26",
-      "deaths": 1150
+      "deaths": 1149
     }
   },
   "France": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5868360,
+      "confirmed": 5877456,
       "date": "2021-10-26",
-      "deaths": 125363
+      "deaths": 125519
     }
   },
   "Iraq": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 238640,
+      "confirmed": 238742,
       "date": "2021-10-26",
       "deaths": 609
     }
