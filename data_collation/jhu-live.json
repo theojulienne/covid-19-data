@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1008555,
+      "confirmed": 1009918,
       "date": "2021-10-26",
       "deaths": 16957
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 353089,
+      "confirmed": 354355,
       "date": "2021-10-26",
-      "deaths": 2773
+      "deaths": 2788
     }
   },
   "Kosovo": {
@@ -1150,21 +1150,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177519,
+          "confirmed": 177553,
           "date": "2021-10-26",
-          "deaths": 5720
+          "deaths": 5724
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 439171,
+          "confirmed": 439307,
           "date": "2021-10-26",
-          "deaths": 12896
+          "deaths": 12898
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 467814,
+          "confirmed": 468164,
           "date": "2021-10-26",
           "deaths": 7551
         }
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1804248,
+          "confirmed": 1804851,
           "date": "2021-10-26",
           "deaths": 26898
         }
@@ -1663,9 +1663,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 400511,
+      "confirmed": 401259,
       "date": "2021-10-26",
-      "deaths": 4810
+      "deaths": 4822
     }
   },
   "Vietnam": {

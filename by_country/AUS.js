@@ -22456,7 +22456,7 @@ var covid19_dataset_country_aus = {
           0,
           0,
           0,
-          0
+          2
         ],
         "current_hospitalized": [
           0,
@@ -25684,7 +25684,7 @@ var covid19_dataset_country_aus = {
           9077,
           5978,
           5978,
-          5978
+          8779
         ]
       }
     },
@@ -42808,7 +42808,7 @@ var covid19_dataset_country_aus = {
       98444,
       98732,
       99017,
-      99289
+      99291
     ],
     "current_hospitalized": [
       0,
@@ -46038,7 +46038,7 @@ var covid19_dataset_country_aus = {
       33681715,
       33745356,
       33804968,
-      33876320
+      33879121
     ]
   }
 };
