@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 494974,
+      "confirmed": 495898,
       "date": "2021-10-26",
-      "deaths": 18560
+      "deaths": 18582
     }
   },
   "Canada": {
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152862,
+          "confirmed": 152923,
           "date": "2021-10-26",
           "deaths": 2699
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 708844,
+          "confirmed": 709472,
           "date": "2021-10-26",
-          "deaths": 19302
+          "deaths": 19308
         }
       }
     }
@@ -434,9 +434,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 946960,
+      "confirmed": 947935,
       "date": "2021-10-26",
-      "deaths": 8191
+      "deaths": 8201
     }
   },
   "Czechia": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 720295,
+      "confirmed": 724571,
       "date": "2021-10-26",
-      "deaths": 15682
+      "deaths": 15707
     }
   },
   "Guatemala": {
@@ -1083,37 +1083,37 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 232859,
+          "confirmed": 233612,
           "date": "2021-10-26",
-          "deaths": 2123
+          "deaths": 2126
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 323681,
+          "confirmed": 324525,
           "date": "2021-10-26",
-          "deaths": 3190
+          "deaths": 3194
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 355165,
+          "confirmed": 355926,
           "date": "2021-10-26",
-          "deaths": 2749
+          "deaths": 2750
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 162129,
+          "confirmed": 162672,
           "date": "2021-10-26",
-          "deaths": 1311
+          "deaths": 1312
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 496885,
+          "confirmed": 498073,
           "date": "2021-10-26",
-          "deaths": 4399
+          "deaths": 4400
         }
       }
     }
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 201410,
+      "confirmed": 201923,
       "date": "2021-10-26",
       "deaths": 894
     }
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2761307,
+      "confirmed": 2765672,
       "date": "2021-10-26",
-      "deaths": 41942
+      "deaths": 42077
     }
   },
   "Poland": {
