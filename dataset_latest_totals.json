@@ -1314,18 +1314,18 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 6914305,
-        "deaths": 114941,
+        "confirmed": 6915362,
+        "deaths": 114987,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 6883692,
-        "deaths": 114773,
+        "confirmed": 6884812,
+        "deaths": 114808,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 6949168,
-        "deaths": 115111,
+        "confirmed": 6950451,
+        "deaths": 115154,
         "recovered": 0
       },
       "states": {
@@ -1922,17 +1922,17 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 996141,
-        "deaths": 16618,
+        "deaths": 16713,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 982888,
-        "deaths": 16346,
+        "deaths": 16473,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1008555,
-        "deaths": 16871,
+        "deaths": 16957,
         "recovered": 0
       }
     },

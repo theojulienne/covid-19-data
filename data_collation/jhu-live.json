@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 606148,
+          "confirmed": 606168,
           "date": "2021-10-26",
           "deaths": 9902
         }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6950451,
+      "confirmed": 6956491,
       "date": "2021-10-26",
-      "deaths": 115154
+      "deaths": 115182
     }
   },
   "Georgia": {
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1009918,
       "date": "2021-10-26",
-      "deaths": 16957
+      "deaths": 16991
     }
   },
   "Kenya": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 638201,
+          "confirmed": 638883,
           "date": "2021-10-26",
-          "deaths": 11231
+          "deaths": 11249
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1484167,
+          "confirmed": 1484764,
           "date": "2021-10-26",
-          "deaths": 39485
+          "deaths": 39487
         }
       },
       "North Carolina": {
@@ -1527,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 164659,
+          "confirmed": 164969,
           "date": "2021-10-26",
-          "deaths": 1696
+          "deaths": 1700
         }
       },
       "Pennsylvania": {
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1805200,
           "date": "2021-10-26",
-          "deaths": 26902
+          "deaths": 26932
         }
       },
       "Utah": {
@@ -1677,9 +1677,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 451459,
+      "confirmed": 451897,
       "date": "2021-10-26",
-      "deaths": 4636
+      "deaths": 4644
     }
   },
   "Zambia": {
