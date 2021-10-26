@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4240479,
+      "confirmed": 4241090,
       "date": "2021-10-26",
-      "deaths": 143235
+      "deaths": 143270
     }
   },
   "Iran": {
@@ -868,21 +868,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168922,
+          "confirmed": 168935,
           "date": "2021-10-26",
           "deaths": 1306
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202164,
+          "confirmed": 202215,
           "date": "2021-10-26",
           "deaths": 3041
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377503,
+          "confirmed": 377532,
           "date": "2021-10-26",
           "deaths": 3120
         }
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 354215,
+      "confirmed": 354866,
       "date": "2021-10-26",
-      "deaths": 5028
+      "deaths": 5033
     }
   },
   "Lithuania": {
