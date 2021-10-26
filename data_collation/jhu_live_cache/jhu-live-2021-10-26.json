@@ -73,28 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 172857,
+          "confirmed": 175744,
           "date": "2021-10-26",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 177837,
+          "confirmed": 179663,
+          "date": "2021-10-26",
+          "deaths": 0
+        }
+      },
+      "East Flanders": {
+        "live": {
+          "confirmed": 147862,
           "date": "2021-10-26",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 179653,
+          "confirmed": 180912,
           "date": "2021-10-26",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 159776,
+          "confirmed": 161743,
           "date": "2021-10-26",
           "deaths": 0
         }
@@ -413,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 555970,
+      "confirmed": 557165,
       "date": "2021-10-26",
-      "deaths": 6946
+      "deaths": 6983
     }
   },
   "Croatia": {
@@ -1002,37 +1009,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 967529,
+          "confirmed": 967802,
           "date": "2021-10-26",
-          "deaths": 39739
+          "deaths": 39756
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 186258,
+          "confirmed": 186367,
           "date": "2021-10-26",
-          "deaths": 12462
+          "deaths": 12478
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 159953,
+          "confirmed": 159993,
           "date": "2021-10-26",
-          "deaths": 16951
+          "deaths": 16959
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 372485,
+          "confirmed": 372580,
           "date": "2021-10-26",
-          "deaths": 43679
+          "deaths": 43731
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 202930,
+          "confirmed": 202990,
           "date": "2021-10-26",
-          "deaths": 12896
+          "deaths": 12899
         }
       }
     }
@@ -1113,9 +1120,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 210460,
+      "confirmed": 211171,
       "date": "2021-10-26",
-      "deaths": 2882
+      "deaths": 2884
     }
   },
   "North Macedonia": {
@@ -1520,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 311552,
+          "confirmed": 164659,
           "date": "2021-10-26",
-          "deaths": 4155
+          "deaths": 1696
         }
       },
       "Pennsylvania": {
