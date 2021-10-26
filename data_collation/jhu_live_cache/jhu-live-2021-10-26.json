@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 181960,
+      "confirmed": 182610,
       "date": "2021-10-26",
-      "deaths": 2880
+      "deaths": 2888
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 606133,
+          "confirmed": 606148,
           "date": "2021-10-26",
           "deaths": 9902
         }
@@ -534,21 +534,21 @@
       },
       "Hessen": {
         "live": {
-          "confirmed": 347779,
+          "confirmed": 348391,
           "date": "2021-10-26",
           "deaths": 7824
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 314447,
+          "confirmed": 315056,
           "date": "2021-10-26",
           "deaths": 6061
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 995013,
+          "confirmed": 996523,
           "date": "2021-10-26",
           "deaths": 18114
         }
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 431722,
+      "confirmed": 433902,
       "date": "2021-10-26",
       "deaths": 5369
     }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 215263,
+          "confirmed": 215751,
           "date": "2021-10-26",
-          "deaths": 3608
+          "deaths": 3615
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 214514,
+          "confirmed": 215079,
           "date": "2021-10-26",
-          "deaths": 2466
+          "deaths": 2482
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 237049,
+          "confirmed": 237762,
           "date": "2021-10-26",
-          "deaths": 1220
+          "deaths": 1239
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 707241,
+          "confirmed": 708170,
           "date": "2021-10-26",
-          "deaths": 9572
+          "deaths": 9580
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 192021,
+          "confirmed": 192360,
           "date": "2021-10-26",
-          "deaths": 2542
+          "deaths": 2543
         }
       }
     }
@@ -1060,16 +1060,16 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 944378,
+      "confirmed": 944803,
       "date": "2021-10-26",
-      "deaths": 14621
+      "deaths": 14636
     }
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151226,
+      "confirmed": 151243,
       "date": "2021-10-26",
-      "deaths": 1928
+      "deaths": 1929
     }
   },
   "Nepal": {
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 175818,
+      "confirmed": 179095,
       "date": "2021-10-26",
-      "deaths": 329
+      "deaths": 339
     }
   },
   "Slovakia": {
@@ -1499,9 +1499,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 154134,
+          "confirmed": 155199,
           "date": "2021-10-26",
-          "deaths": 1929
+          "deaths": 1932
         }
       },
       "Nevada": {
@@ -1520,9 +1520,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 156529,
+          "confirmed": 156694,
           "date": "2021-10-26",
-          "deaths": 1235
+          "deaths": 1238
         }
       },
       "Ohio": {
@@ -1534,9 +1534,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 181187,
+          "confirmed": 181389,
           "date": "2021-10-26",
-          "deaths": 3996
+          "deaths": 3999
         }
       },
       "Texas": {
