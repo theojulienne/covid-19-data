@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1731287,
+      "confirmed": 1735552,
       "date": "2021-10-26",
-      "deaths": 30625
+      "deaths": 30648
     }
   },
   "Denmark": {
@@ -527,9 +527,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 218123,
+          "confirmed": 219106,
           "date": "2021-10-26",
-          "deaths": 3677
+          "deaths": 3678
         }
       },
       "Hessen": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1324040,
+      "confirmed": 1324451,
       "date": "2021-10-26",
       "deaths": 8062
     }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 390031,
+      "confirmed": 392425,
       "date": "2021-10-26",
-      "deaths": 5661
+      "deaths": 5693
     }
   },
   "Malaysia": {
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1859157,
+      "confirmed": 1866863,
       "date": "2021-10-26",
-      "deaths": 18799
+      "deaths": 18865
     }
   },
   "Tunisia": {
@@ -1573,37 +1573,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 176631,
+          "confirmed": 178391,
           "date": "2021-10-26",
-          "deaths": 5550
+          "deaths": 5599
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 197116,
+          "confirmed": 198371,
           "date": "2021-10-26",
-          "deaths": 4542
+          "deaths": 4566
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 251786,
+          "confirmed": 252921,
           "date": "2021-10-26",
-          "deaths": 5900
+          "deaths": 5937
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 173360,
+          "confirmed": 174464,
           "date": "2021-10-26",
-          "deaths": 4402
+          "deaths": 4433
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 181812,
+          "confirmed": 183417,
           "date": "2021-10-26",
-          "deaths": 3848
+          "deaths": 3885
         }
       }
     }
