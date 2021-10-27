@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 590226,
+      "confirmed": 592224,
       "date": "2021-10-27",
-      "deaths": 4546
+      "deaths": 4563
     }
   },
   "Belgium": {
@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 495898,
+      "confirmed": 496901,
       "date": "2021-10-27",
-      "deaths": 18582
+      "deaths": 18603
     }
   },
   "Canada": {
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 152923,
+          "confirmed": 153002,
           "date": "2021-10-27",
           "deaths": 2699
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 709472,
+          "confirmed": 710522,
           "date": "2021-10-27",
-          "deaths": 19308
+          "deaths": 19314
         }
       }
     }
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 724571,
+      "confirmed": 728210,
       "date": "2021-10-27",
-      "deaths": 15707
+      "deaths": 15770
     }
   },
   "Guatemala": {
@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 464080,
+          "confirmed": 464672,
           "date": "2021-10-27",
-          "deaths": 8043
+          "deaths": 8046
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 430371,
+          "confirmed": 430676,
           "date": "2021-10-27",
-          "deaths": 13564
+          "deaths": 13577
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 392400,
+          "confirmed": 392903,
           "date": "2021-10-27",
-          "deaths": 8770
+          "deaths": 8775
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 891942,
+          "confirmed": 892455,
           "date": "2021-10-27",
           "deaths": 34145
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 383733,
+          "confirmed": 383961,
           "date": "2021-10-27",
-          "deaths": 11806
+          "deaths": 11807
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 271816,
+          "confirmed": 272081,
           "date": "2021-10-27",
-          "deaths": 6828
+          "deaths": 6832
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 306585,
+          "confirmed": 306867,
           "date": "2021-10-27",
-          "deaths": 6994
+          "deaths": 7000
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 287914,
+          "confirmed": 288216,
           "date": "2021-10-27",
-          "deaths": 7258
+          "deaths": 7266
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 477970,
+          "confirmed": 478509,
           "date": "2021-10-27",
-          "deaths": 11817
+          "deaths": 11820
         }
       }
     }
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 252839,
+      "confirmed": 252938,
       "date": "2021-10-27",
-      "deaths": 5263
+      "deaths": 5266
     }
   },
   "Korea, South": {
