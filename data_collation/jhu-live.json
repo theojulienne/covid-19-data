@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 175744,
+          "confirmed": 176646,
           "date": "2021-10-27",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 179663,
+          "confirmed": 180252,
           "date": "2021-10-27",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 147862,
+          "confirmed": 148436,
           "date": "2021-10-27",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 180912,
+          "confirmed": 181352,
           "date": "2021-10-27",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 161743,
+          "confirmed": 162464,
           "date": "2021-10-27",
           "deaths": 0
         }
@@ -371,58 +371,58 @@
         "live": {
           "confirmed": 754931,
           "date": "2021-10-27",
-          "deaths": 16262
+          "deaths": 16271
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 328471,
           "date": "2021-10-27",
-          "deaths": 9540
+          "deaths": 9545
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157599,
           "date": "2021-10-27",
-          "deaths": 2982
+          "deaths": 2983
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1454115,
           "date": "2021-10-27",
-          "deaths": 27541
+          "deaths": 27545
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264247,
           "date": "2021-10-27",
-          "deaths": 6818
+          "deaths": 6819
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226115,
           "date": "2021-10-27",
-          "deaths": 7306
+          "deaths": 7309
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 410938,
           "date": "2021-10-27",
-          "deaths": 13007
+          "deaths": 13011
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 557165,
+      "confirmed": 557922,
       "date": "2021-10-27",
-      "deaths": 6983
+      "deaths": 6997
     }
   },
   "Croatia": {
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 374148,
+      "confirmed": 374783,
       "date": "2021-10-27",
-      "deaths": 10191
+      "deaths": 10210
     }
   },
   "Hungary": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 354355,
+      "confirmed": 356305,
       "date": "2021-10-27",
-      "deaths": 2788
+      "deaths": 2797
     }
   },
   "Kosovo": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 471669,
+      "confirmed": 471884,
       "date": "2021-10-27",
-      "deaths": 7310
+      "deaths": 7314
     }
   },
   "Paraguay": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1806121,
+          "confirmed": 1806675,
           "date": "2021-10-27",
           "deaths": 26932
         }
