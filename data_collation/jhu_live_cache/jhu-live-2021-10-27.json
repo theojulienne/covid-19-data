@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 156071,
+      "confirmed": 156124,
       "date": "2021-10-27",
-      "deaths": 7262
+      "deaths": 7266
     }
   },
   "Albania": {
@@ -29,16 +29,16 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 298069,
+      "confirmed": 300143,
       "date": "2021-10-27",
-      "deaths": 6112
+      "deaths": 6151
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 804825,
+      "confirmed": 809086,
       "date": "2021-10-27",
-      "deaths": 11279
+      "deaths": 11289
     }
   },
   "Azerbaijan": {
@@ -1212,9 +1212,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 2982143,
+      "confirmed": 2990509,
       "date": "2021-10-27",
-      "deaths": 76540
+      "deaths": 76672
     }
   },
   "Portugal": {
@@ -1242,51 +1242,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1780781,
+          "confirmed": 1786570,
           "date": "2021-10-27",
-          "deaths": 30872
+          "deaths": 30963
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 505213,
+          "confirmed": 507883,
           "date": "2021-10-27",
-          "deaths": 8554
+          "deaths": 8595
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 187230,
+          "confirmed": 188013,
           "date": "2021-10-27",
-          "deaths": 7525
+          "deaths": 7565
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 152981,
+          "confirmed": 153590,
           "date": "2021-10-27",
-          "deaths": 7583
+          "deaths": 7615
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 691828,
+          "confirmed": 694741,
           "date": "2021-10-27",
-          "deaths": 23502
+          "deaths": 23576
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 153890,
+          "confirmed": 154564,
           "date": "2021-10-27",
-          "deaths": 7318
+          "deaths": 7350
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 150364,
+          "confirmed": 151118,
           "date": "2021-10-27",
-          "deaths": 4831
+          "deaths": 4846
         }
       }
     }
@@ -1314,9 +1314,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 460281,
+      "confirmed": 465027,
       "date": "2021-10-27",
-      "deaths": 12935
+      "deaths": 12957
     }
   },
   "Slovenia": {
