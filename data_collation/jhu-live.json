@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 184509,
+      "confirmed": 186530,
       "date": "2021-10-27",
-      "deaths": 1477
+      "deaths": 1483
     }
   },
   "Ethiopia": {
@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 698944,
+      "confirmed": 703281,
       "date": "2021-10-27",
-      "deaths": 9831
+      "deaths": 9873
     }
   },
   "Germany": {
@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 852214,
+      "confirmed": 855339,
       "date": "2021-10-27",
-      "deaths": 30611
+      "deaths": 30647
     }
   },
   "India": {
