@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1735552,
+      "confirmed": 1741859,
       "date": "2021-10-27",
-      "deaths": 30648
+      "deaths": 30667
     }
   },
   "Denmark": {
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 220199,
+          "confirmed": 220201,
           "date": "2021-10-27",
           "deaths": 3684
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1324897,
+      "confirmed": 1325267,
       "date": "2021-10-27",
       "deaths": 8063
     }
@@ -968,9 +968,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 392425,
+      "confirmed": 396047,
       "date": "2021-10-27",
-      "deaths": 5693
+      "deaths": 5720
     }
   },
   "Malaysia": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1866863,
+      "confirmed": 1875315,
       "date": "2021-10-27",
-      "deaths": 18865
+      "deaths": 18922
     }
   },
   "Tunisia": {
@@ -1580,37 +1580,37 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 178391,
+          "confirmed": 180265,
           "date": "2021-10-27",
-          "deaths": 5599
+          "deaths": 5653
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 198371,
+          "confirmed": 200012,
           "date": "2021-10-27",
-          "deaths": 4566
+          "deaths": 4601
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 252921,
+          "confirmed": 254337,
           "date": "2021-10-27",
-          "deaths": 5937
+          "deaths": 5991
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 174464,
+          "confirmed": 175890,
           "date": "2021-10-27",
-          "deaths": 4433
+          "deaths": 4446
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 183417,
+          "confirmed": 184894,
           "date": "2021-10-27",
-          "deaths": 3885
+          "deaths": 3906
         }
       }
     }
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 184233,
+      "confirmed": 184563,
       "date": "2021-10-27",
-      "deaths": 1309
+      "deaths": 1312
     }
   },
   "Venezuela": {
