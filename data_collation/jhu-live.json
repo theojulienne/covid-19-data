@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 520068,
+      "confirmed": 522368,
       "date": "2021-10-27",
-      "deaths": 6939
+      "deaths": 6966
     }
   },
   "Bahrain": {
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1568257,
+      "confirmed": 1568563,
       "date": "2021-10-27",
-      "deaths": 27834
+      "deaths": 27841
     }
   },
   "Belarus": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 606288,
+          "confirmed": 606456,
           "date": "2021-10-27",
-          "deaths": 9904
+          "deaths": 9913
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 379078,
+      "confirmed": 380949,
       "date": "2021-10-27",
-      "deaths": 2703
+      "deaths": 2708
     }
   },
   "Dominican Republic": {
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 796338,
+          "confirmed": 796773,
           "date": "2021-10-27",
-          "deaths": 16006
+          "deaths": 16004
         }
       },
       "Berlin": {
@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5877456,
+      "confirmed": 5888100,
       "date": "2021-10-27",
-      "deaths": 125519
+      "deaths": 125716
     }
   },
   "Iraq": {
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168935,
+          "confirmed": 168950,
           "date": "2021-10-27",
           "deaths": 1306
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202215,
+          "confirmed": 202281,
           "date": "2021-10-27",
           "deaths": 3043
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377532,
+          "confirmed": 377568,
           "date": "2021-10-27",
           "deaths": 3125
         }
@@ -961,9 +961,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 354866,
+      "confirmed": 355490,
       "date": "2021-10-27",
-      "deaths": 5033
+      "deaths": 5048
     }
   },
   "Lithuania": {
@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 238742,
+      "confirmed": 238845,
       "date": "2021-10-27",
       "deaths": 609
     }
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548368,
+      "confirmed": 548423,
       "date": "2021-10-27",
-      "deaths": 8782
+      "deaths": 8785
     }
   },
   "Serbia": {
@@ -1402,39 +1402,39 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 537201,
+      "confirmed": 538186,
       "date": "2021-10-27",
-      "deaths": 13654
+      "deaths": 13674
     }
   },
   "Sweden": {
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 166027,
+          "confirmed": 166134,
           "date": "2021-10-27",
           "deaths": 1793
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 279074,
+          "confirmed": 279338,
           "date": "2021-10-27",
-          "deaths": 4472
+          "deaths": 4481
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 203693,
+          "confirmed": 203941,
           "date": "2021-10-27",
-          "deaths": 2437
+          "deaths": 2440
         }
       }
     }
   },
   "Switzerland": {
     "live": {
-      "confirmed": 869041,
+      "confirmed": 869044,
       "date": "2021-10-27",
       "deaths": 11207
     }
@@ -1617,9 +1617,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 739471,
+      "confirmed": 739566,
       "date": "2021-10-27",
-      "deaths": 2134
+      "deaths": 2135
     }
   },
   "United Kingdom": {
