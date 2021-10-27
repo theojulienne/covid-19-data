@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 5272551,
-        "deaths": 115666,
+        "confirmed": 5273463,
+        "deaths": 115704,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5265859,
-        "deaths": 115473,
+        "confirmed": 5266275,
+        "deaths": 115491,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5280358,
-        "deaths": 115826,
+        "confirmed": 5281585,
+        "deaths": 115851,
         "recovered": 0
       }
     },
@@ -350,18 +350,18 @@
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 540619,
-        "deaths": 22274,
+        "confirmed": 545598,
+        "deaths": 22488,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 520862,
-        "deaths": 21656,
+        "confirmed": 524333,
+        "deaths": 21813,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 569443,
-        "deaths": 23073,
+        "confirmed": 575306,
+        "deaths": 23316,
         "recovered": 0
       }
     },
@@ -418,18 +418,18 @@
     },
     "BLR": {
       "back_1week": {
-        "confirmed": 571987,
-        "deaths": 4402,
+        "confirmed": 573943,
+        "deaths": 4417,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 557772,
-        "deaths": 4289,
+        "confirmed": 559715,
+        "deaths": 4304,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 586234,
-        "deaths": 4515,
+        "confirmed": 588231,
+        "deaths": 4530,
         "recovered": 0
       }
     },
@@ -452,13 +452,13 @@
     },
     "BOL": {
       "back_1week": {
-        "confirmed": 506654,
+        "confirmed": 507134,
         "deaths": 18834,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 503735,
-        "deaths": 18795,
+        "confirmed": 504121,
+        "deaths": 18803,
         "recovered": 0
       },
       "latest": {
@@ -587,8 +587,8 @@
       },
       "states": {
         "Alberta": {
-          "confirmed": 319176,
-          "deaths": 3026
+          "confirmed": 320768,
+          "deaths": 3051
         },
         "British Columbia": {
           "confirmed": 200898,
