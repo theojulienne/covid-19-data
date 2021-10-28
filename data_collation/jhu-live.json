@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 326379,
+      "confirmed": 327286,
       "date": "2021-10-28",
-      "deaths": 18375
+      "deaths": 18428
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 356305,
+      "confirmed": 358412,
       "date": "2021-10-28",
-      "deaths": 2797
+      "deaths": 2808
     }
   },
   "Kosovo": {
@@ -1127,9 +1127,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 211330,
+      "confirmed": 211496,
       "date": "2021-10-28",
-      "deaths": 2884
+      "deaths": 2886
     }
   },
   "North Macedonia": {
@@ -1180,7 +1180,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 471884,
+      "confirmed": 472057,
       "date": "2021-10-28",
       "deaths": 7314
     }
