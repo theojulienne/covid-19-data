@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 183282,
+      "confirmed": 183873,
       "date": "2021-10-28",
-      "deaths": 2893
+      "deaths": 2902
     }
   },
   "Algeria": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 606885,
+          "confirmed": 606915,
           "date": "2021-10-28",
-          "deaths": 9916
+          "deaths": 9917
         }
       },
       "Quebec": {
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 435526,
+      "confirmed": 438124,
       "date": "2021-10-28",
       "deaths": 5436
     }
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1013503,
       "date": "2021-10-28",
-      "deaths": 17021
+      "deaths": 17050
     }
   },
   "Kenya": {
@@ -1134,9 +1134,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 200856,
+      "confirmed": 201292,
       "date": "2021-10-28",
-      "deaths": 7087
+      "deaths": 7098
     }
   },
   "Norway": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 184419,
+      "confirmed": 187851,
       "date": "2021-10-28",
-      "deaths": 349
+      "deaths": 364
     }
   },
   "Slovakia": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 155507,
+          "confirmed": 155861,
           "date": "2021-10-28",
-          "deaths": 1935
+          "deaths": 1940
         }
       },
       "Nevada": {
@@ -1527,9 +1527,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 156828,
+          "confirmed": 157039,
           "date": "2021-10-28",
-          "deaths": 1237
+          "deaths": 1239
         }
       },
       "Ohio": {
@@ -1541,16 +1541,16 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 181586,
+          "confirmed": 181782,
           "date": "2021-10-28",
-          "deaths": 4007
+          "deaths": 4013
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1808348,
+          "confirmed": 1809252,
           "date": "2021-10-28",
-          "deaths": 27014
+          "deaths": 27035
         }
       },
       "Utah": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 452272,
+      "confirmed": 452642,
       "date": "2021-10-28",
-      "deaths": 4651
+      "deaths": 4657
     }
   },
   "Zambia": {
