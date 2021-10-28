@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 353504,
+      "confirmed": 355129,
       "date": "2021-10-28",
-      "deaths": 1689
+      "deaths": 1699
     }
   },
   "Morocco": {
@@ -1157,23 +1157,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177646,
+          "confirmed": 177723,
           "date": "2021-10-28",
-          "deaths": 5729
+          "deaths": 5733
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 439450,
+          "confirmed": 439653,
           "date": "2021-10-28",
-          "deaths": 12902
+          "deaths": 12904
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 468401,
+          "confirmed": 468776,
           "date": "2021-10-28",
-          "deaths": 7555
+          "deaths": 7557
         }
       }
     }
