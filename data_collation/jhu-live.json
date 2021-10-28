@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 176646,
+          "confirmed": 178068,
           "date": "2021-10-28",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 180252,
+          "confirmed": 181091,
           "date": "2021-10-28",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 148436,
+          "confirmed": 149217,
           "date": "2021-10-28",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 181352,
+          "confirmed": 182217,
           "date": "2021-10-28",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 162464,
+          "confirmed": 163787,
           "date": "2021-10-28",
           "deaths": 0
         }
@@ -371,7 +371,7 @@
         "live": {
           "confirmed": 755285,
           "date": "2021-10-28",
-          "deaths": 16271
+          "deaths": 16278
         }
       },
       "Atlantico": {
@@ -385,7 +385,7 @@
         "live": {
           "confirmed": 157667,
           "date": "2021-10-28",
-          "deaths": 2983
+          "deaths": 2984
         }
       },
       "Capital District": {
@@ -406,14 +406,14 @@
         "live": {
           "confirmed": 226166,
           "date": "2021-10-28",
-          "deaths": 7309
+          "deaths": 7310
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 411065,
           "date": "2021-10-28",
-          "deaths": 13011
+          "deaths": 13016
         }
       }
     }
