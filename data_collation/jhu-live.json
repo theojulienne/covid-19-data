@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 606915,
+          "confirmed": 606926,
           "date": "2021-10-28",
           "deaths": 9917
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 423812,
+          "confirmed": 424290,
           "date": "2021-10-28",
           "deaths": 11490
         }
@@ -1344,9 +1344,9 @@
       },
       "Aragon": {
         "live": {
-          "confirmed": 162719,
+          "confirmed": 162796,
           "date": "2021-10-28",
-          "deaths": 3909
+          "deaths": 3902
         }
       },
       "C. Valenciana": {
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 165272,
+          "confirmed": 165652,
           "date": "2021-10-28",
           "deaths": 1700
         }
@@ -1569,9 +1569,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 151035,
+          "confirmed": 151336,
           "date": "2021-10-28",
-          "deaths": 1618
+          "deaths": 1620
         }
       }
     }
@@ -1628,28 +1628,28 @@
         "live": {
           "confirmed": 7597473,
           "date": "2021-10-28",
-          "deaths": 122145
+          "deaths": 122269
         }
       },
       "Northern Ireland": {
         "live": {
           "confirmed": 271743,
           "date": "2021-10-28",
-          "deaths": 2675
+          "deaths": 2684
         }
       },
       "Scotland": {
         "live": {
           "confirmed": 634544,
           "date": "2021-10-28",
-          "deaths": 9099
+          "deaths": 9119
         }
       },
       "Wales": {
         "live": {
           "confirmed": 432395,
           "date": "2021-10-28",
-          "deaths": 6122
+          "deaths": 6134
         }
       }
     }
