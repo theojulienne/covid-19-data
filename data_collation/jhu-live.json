@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 755624,
           "date": "2021-10-29",
-          "deaths": 16278
+          "deaths": 16286
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 329119,
           "date": "2021-10-29",
-          "deaths": 9545
+          "deaths": 9550
         }
       },
       "Bolivar": {
@@ -392,28 +392,28 @@
         "live": {
           "confirmed": 1454485,
           "date": "2021-10-29",
-          "deaths": 27545
+          "deaths": 27547
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264318,
           "date": "2021-10-29",
-          "deaths": 6819
+          "deaths": 6820
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226237,
           "date": "2021-10-29",
-          "deaths": 7310
+          "deaths": 7311
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 411198,
           "date": "2021-10-29",
-          "deaths": 13016
+          "deaths": 13024
         }
       }
     }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 358412,
+      "confirmed": 360536,
       "date": "2021-10-29",
-      "deaths": 2808
+      "deaths": 2817
     }
   },
   "Kosovo": {
@@ -1464,14 +1464,14 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 733316,
+          "confirmed": 734868,
           "date": "2021-10-29",
-          "deaths": 12160
+          "deaths": 12147
         }
       },
       "California": {
         "live": {
-          "confirmed": 3101030,
+          "confirmed": 3102908,
           "date": "2021-10-29",
           "deaths": 49587
         }
@@ -1562,9 +1562,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 162779,
+          "confirmed": 163533,
           "date": "2021-10-29",
-          "deaths": 1971
+          "deaths": 1977
         }
       },
       "Wisconsin": {
