@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607430,
+          "confirmed": 607453,
           "date": "2021-10-29",
           "deaths": 9917
         }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 7961505,
+      "confirmed": 7985914,
       "date": "2021-10-29",
-      "deaths": 69998
+      "deaths": 70207
     }
   },
   "US": {
@@ -1548,7 +1548,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1662604,
+          "confirmed": 1663062,
           "date": "2021-10-29",
           "deaths": 24290
         }

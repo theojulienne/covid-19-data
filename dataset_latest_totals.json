@@ -3361,18 +3361,18 @@
     },
     "TUR": {
       "back_1week": {
-        "confirmed": 7744109,
-        "deaths": 68274,
+        "confirmed": 7772574,
+        "deaths": 68472,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 7540193,
-        "deaths": 66841,
+        "confirmed": 7570902,
+        "deaths": 67044,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 7935977,
-        "deaths": 69769,
+        "confirmed": 7961505,
+        "deaths": 69998,
         "recovered": 0
       }
     },
