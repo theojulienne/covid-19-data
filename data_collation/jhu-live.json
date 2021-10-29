@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 374783,
+      "confirmed": 375213,
       "date": "2021-10-29",
-      "deaths": 10210
+      "deaths": 10235
     }
   },
   "Hungary": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1013503,
+      "confirmed": 1015439,
       "date": "2021-10-29",
       "deaths": 17050
     }
@@ -1157,23 +1157,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177723,
+          "confirmed": 177807,
           "date": "2021-10-29",
-          "deaths": 5733
+          "deaths": 5738
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 439653,
+          "confirmed": 439845,
           "date": "2021-10-29",
-          "deaths": 12904
+          "deaths": 12909
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 468776,
+          "confirmed": 469122,
           "date": "2021-10-29",
-          "deaths": 7557
+          "deaths": 7563
         }
       }
     }
