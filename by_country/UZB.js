@@ -1296,7 +1296,8 @@ var covid19_dataset_country_uzb = {
       183928,
       184233,
       184563,
-      184905
+      184905,
+      185295
     ],
     "deaths": [
       0,
@@ -1944,7 +1945,8 @@ var covid19_dataset_country_uzb = {
       1306,
       1309,
       1312,
-      1316
+      1316,
+      1318
     ],
     "recovered": [
       0,

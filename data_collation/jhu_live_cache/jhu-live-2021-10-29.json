@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1747701,
+      "confirmed": 1752086,
       "date": "2021-10-29",
-      "deaths": 30689
+      "deaths": 30705
     }
   },
   "Denmark": {
@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 707290,
+      "confirmed": 711255,
       "date": "2021-10-29",
-      "deaths": 9918
+      "deaths": 9961
     }
   },
   "Germany": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1326171,
+      "confirmed": 1326538,
       "date": "2021-10-29",
       "deaths": 8081
     }
@@ -940,9 +940,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 180989,
+      "confirmed": 181105,
       "date": "2021-10-29",
-      "deaths": 2664
+      "deaths": 2666
     }
   },
   "Latvia": {
@@ -968,9 +968,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 399532,
+      "confirmed": 403051,
       "date": "2021-10-29",
-      "deaths": 5766
+      "deaths": 5800
     }
   },
   "Malaysia": {
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 184905,
+      "confirmed": 185295,
       "date": "2021-10-29",
-      "deaths": 1316
+      "deaths": 1318
     }
   },
   "Venezuela": {
