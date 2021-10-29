@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1015439,
       "date": "2021-10-29",
-      "deaths": 17050
+      "deaths": 17078
     }
   },
   "Kenya": {
@@ -1691,9 +1691,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 452642,
+      "confirmed": 452997,
       "date": "2021-10-29",
-      "deaths": 4657
+      "deaths": 4663
     }
   },
   "Zambia": {
