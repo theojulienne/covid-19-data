@@ -527,9 +527,9 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 221349,
+          "confirmed": 222409,
           "date": "2021-10-29",
-          "deaths": 3691
+          "deaths": 3700
         }
       },
       "Hessen": {
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1810986,
+          "confirmed": 1662153,
           "date": "2021-10-29",
-          "deaths": 27078
+          "deaths": 24211
         }
       },
       "Utah": {
@@ -1580,37 +1580,44 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 182378,
+          "confirmed": 184542,
           "date": "2021-10-29",
-          "deaths": 5703
+          "deaths": 5755
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 201529,
+          "confirmed": 203026,
           "date": "2021-10-29",
-          "deaths": 4636
+          "deaths": 4661
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 255788,
+          "confirmed": 257404,
           "date": "2021-10-29",
-          "deaths": 6030
+          "deaths": 6076
+        }
+      },
+      "Kiev Oblast": {
+        "live": {
+          "confirmed": 149456,
+          "date": "2021-10-29",
+          "deaths": 3255
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 177396,
+          "confirmed": 179098,
           "date": "2021-10-29",
-          "deaths": 4476
+          "deaths": 4489
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 187190,
+          "confirmed": 189346,
           "date": "2021-10-29",
-          "deaths": 3934
+          "deaths": 4011
         }
       }
     }
