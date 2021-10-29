@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607374,
+          "confirmed": 607430,
           "date": "2021-10-29",
           "deaths": 9917
         }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 364098,
+      "confirmed": 364576,
       "date": "2021-10-29",
-      "deaths": 6428
+      "deaths": 6437
     }
   },
   "Finland": {
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412619,
+      "confirmed": 412641,
       "date": "2021-10-29",
       "deaths": 2461
     }
@@ -1492,7 +1492,7 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 159020,
+          "confirmed": 159335,
           "date": "2021-10-29",
           "deaths": 3923
         }
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1488363,
+          "confirmed": 1488807,
           "date": "2021-10-29",
-          "deaths": 39514
+          "deaths": 39519
         }
       },
       "North Carolina": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 194961,
+          "confirmed": 195587,
           "date": "2021-10-29",
-          "deaths": 1152
+          "deaths": 1156
         }
       },
       "Washington": {
