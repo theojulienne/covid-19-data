@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 627876,
+          "confirmed": 627904,
           "date": "2021-10-29",
           "deaths": 10975
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 803706,
+          "confirmed": 809688,
           "date": "2021-10-29",
-          "deaths": 16029
+          "deaths": 16052
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 222409,
+          "confirmed": 222420,
           "date": "2021-10-29",
           "deaths": 3700
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 351642,
+          "confirmed": 353057,
           "date": "2021-10-29",
-          "deaths": 7848
+          "deaths": 7853
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 317816,
+          "confirmed": 318945,
           "date": "2021-10-29",
-          "deaths": 6076
+          "deaths": 6077
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1004653,
+          "confirmed": 1008481,
           "date": "2021-10-29",
-          "deaths": 18177
+          "deaths": 18189
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 192227,
+          "confirmed": 192243,
           "date": "2021-10-29",
           "deaths": 4082
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 323582,
+          "confirmed": 323757,
           "date": "2021-10-29",
-          "deaths": 10306
+          "deaths": 10311
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 149130,
+          "confirmed": 150693,
           "date": "2021-10-29",
-          "deaths": 4484
+          "deaths": 4500
         }
       }
     }
@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 859378,
+      "confirmed": 863419,
       "date": "2021-10-29",
-      "deaths": 30692
+      "deaths": 30729
     }
   },
   "India": {
@@ -1436,14 +1436,14 @@
     "live": {
       "confirmed": 870837,
       "date": "2021-10-29",
-      "deaths": 11219
+      "deaths": 11227
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 1884973,
+      "confirmed": 1893941,
       "date": "2021-10-29",
-      "deaths": 19006
+      "deaths": 19070
     }
   },
   "Tunisia": {
