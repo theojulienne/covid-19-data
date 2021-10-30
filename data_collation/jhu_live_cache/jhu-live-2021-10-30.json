@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 179561,
+          "confirmed": 181125,
           "date": "2021-10-30",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 182004,
+          "confirmed": 182835,
           "date": "2021-10-30",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 150107,
+          "confirmed": 150993,
           "date": "2021-10-30",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 182966,
+          "confirmed": 183767,
           "date": "2021-10-30",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 165207,
+          "confirmed": 166293,
           "date": "2021-10-30",
           "deaths": 0
         }
@@ -371,49 +371,49 @@
         "live": {
           "confirmed": 755927,
           "date": "2021-10-30",
-          "deaths": 16286
+          "deaths": 16290
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 329425,
           "date": "2021-10-30",
-          "deaths": 9550
+          "deaths": 9555
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 157801,
           "date": "2021-10-30",
-          "deaths": 2984
+          "deaths": 2985
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1454669,
           "date": "2021-10-30",
-          "deaths": 27547
+          "deaths": 27549
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264343,
           "date": "2021-10-30",
-          "deaths": 6820
+          "deaths": 6822
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226310,
           "date": "2021-10-30",
-          "deaths": 7311
+          "deaths": 7312
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 411350,
           "date": "2021-10-30",
-          "deaths": 13024
+          "deaths": 13029
         }
       }
     }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 360536,
+      "confirmed": 362639,
       "date": "2021-10-30",
-      "deaths": 2817
+      "deaths": 2830
     }
   },
   "Kosovo": {
