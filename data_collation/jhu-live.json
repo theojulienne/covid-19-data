@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1017046,
+      "confirmed": 1017181,
       "date": "2021-10-30",
       "deaths": 17078
     }
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 969854,
+          "confirmed": 970519,
           "date": "2021-10-30",
-          "deaths": 39822
+          "deaths": 39843
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 187935,
+          "confirmed": 188379,
           "date": "2021-10-30",
-          "deaths": 12545
+          "deaths": 12564
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 160607,
+          "confirmed": 160815,
           "date": "2021-10-30",
-          "deaths": 17042
+          "deaths": 17064
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 373484,
+          "confirmed": 373715,
           "date": "2021-10-30",
-          "deaths": 43821
+          "deaths": 43847
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 203655,
+          "confirmed": 203830,
           "date": "2021-10-30",
-          "deaths": 12960
+          "deaths": 12973
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 356765,
+      "confirmed": 358208,
       "date": "2021-10-30",
-      "deaths": 1711
+      "deaths": 1722
     }
   },
   "Morocco": {
@@ -1157,21 +1157,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177807,
+          "confirmed": 177889,
           "date": "2021-10-30",
-          "deaths": 5738
+          "deaths": 5740
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 439845,
+          "confirmed": 440003,
           "date": "2021-10-30",
-          "deaths": 12909
+          "deaths": 12915
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 469122,
+          "confirmed": 469475,
           "date": "2021-10-30",
           "deaths": 7563
         }
