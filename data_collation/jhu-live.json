@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276749,
+      "confirmed": 276794,
       "date": "2021-10-30",
       "deaths": 1393
     }
@@ -1076,7 +1076,7 @@
     "live": {
       "confirmed": 151270,
       "date": "2021-10-30",
-      "deaths": 1929
+      "deaths": 1930
     }
   },
   "Nepal": {

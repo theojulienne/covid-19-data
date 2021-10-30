@@ -1947,7 +1947,8 @@ var covid19_dataset_country_moz = {
       1929,
       1929,
       1929,
-      1929
+      1929,
+      1930
     ],
     "recovered": [
       0,
