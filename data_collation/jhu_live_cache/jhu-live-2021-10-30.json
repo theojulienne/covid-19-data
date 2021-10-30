@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 206270,
+      "confirmed": 206358,
       "date": "2021-10-30",
-      "deaths": 5913
+      "deaths": 5918
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607717,
+          "confirmed": 607719,
           "date": "2021-10-30",
           "deaths": 9920
         }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6975016,
+      "confirmed": 6982376,
       "date": "2021-10-30",
-      "deaths": 115260
+      "deaths": 115282
     }
   },
   "Georgia": {
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412641,
+      "confirmed": 412653,
       "date": "2021-10-30",
       "deaths": 2461
     }
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 335860,
+      "confirmed": 337115,
       "date": "2021-10-30",
-      "deaths": 7665
+      "deaths": 7706
     }
   },
   "Mongolia": {
@@ -1187,9 +1187,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 460944,
+      "confirmed": 460974,
       "date": "2021-10-30",
-      "deaths": 16243
+      "deaths": 16245
     }
   },
   "Peru": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 192099,
+      "confirmed": 195211,
       "date": "2021-10-30",
-      "deaths": 380
+      "deaths": 394
     }
   },
   "Slovakia": {
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 737103,
+          "confirmed": 738763,
           "date": "2021-10-30",
-          "deaths": 12197
+          "deaths": 12232
         }
       },
       "California": {
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 165891,
+          "confirmed": 166119,
           "date": "2021-10-30",
           "deaths": 1725
         }
@@ -1698,9 +1698,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209702,
+      "confirmed": 209722,
       "date": "2021-10-30",
-      "deaths": 3660
+      "deaths": 3661
     }
   }
 }
