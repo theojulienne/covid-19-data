@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 631656,
+          "confirmed": 631684,
           "date": "2021-10-30",
-          "deaths": 10990
+          "deaths": 10991
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 810002,
+          "confirmed": 815185,
           "date": "2021-10-30",
-          "deaths": 16054
+          "deaths": 16066
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 222420,
+          "confirmed": 223287,
           "date": "2021-10-30",
-          "deaths": 3700
+          "deaths": 3704
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 353057,
+          "confirmed": 354166,
           "date": "2021-10-30",
-          "deaths": 7853
+          "deaths": 7855
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 318945,
+          "confirmed": 319944,
           "date": "2021-10-30",
-          "deaths": 6077
+          "deaths": 6082
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1008481,
+          "confirmed": 1011606,
           "date": "2021-10-30",
-          "deaths": 18189
+          "deaths": 18202
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 192988,
+          "confirmed": 193003,
           "date": "2021-10-30",
           "deaths": 4091
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 325919,
+          "confirmed": 325942,
           "date": "2021-10-30",
-          "deaths": 10314
+          "deaths": 10321
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 150693,
+          "confirmed": 151720,
           "date": "2021-10-30",
-          "deaths": 4500
+          "deaths": 4507
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1015439,
+      "confirmed": 1017046,
       "date": "2021-10-30",
       "deaths": 17078
     }
