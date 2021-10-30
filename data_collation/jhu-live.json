@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 184340,
+      "confirmed": 184887,
       "date": "2021-10-30",
-      "deaths": 2909
+      "deaths": 2916
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607670,
+          "confirmed": 607717,
           "date": "2021-10-30",
           "deaths": 9920
         }
@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 380215,
+      "confirmed": 380974,
       "date": "2021-10-30",
-      "deaths": 4126
+      "deaths": 4129
     }
   },
   "Ecuador": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1326742,
+      "confirmed": 1327111,
       "date": "2021-10-30",
       "deaths": 8085
     }
@@ -1067,9 +1067,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 945720,
+      "confirmed": 945960,
       "date": "2021-10-30",
-      "deaths": 14660
+      "deaths": 14667
     }
   },
   "Mozambique": {
@@ -1550,7 +1550,7 @@
         "live": {
           "confirmed": 1663776,
           "date": "2021-10-30",
-          "deaths": 24290
+          "deaths": 24310
         }
       },
       "Utah": {
