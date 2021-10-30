@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 364576,
+      "confirmed": 364960,
       "date": "2021-10-30",
-      "deaths": 6437
+      "deaths": 6451
     }
   },
   "Finland": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3106218,
+          "confirmed": 3107626,
           "date": "2021-10-30",
-          "deaths": 49625
+          "deaths": 49627
         }
       },
       "Florida": {
@@ -1548,7 +1548,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1663776,
+          "confirmed": 1664135,
           "date": "2021-10-30",
           "deaths": 24310
         }
