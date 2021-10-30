@@ -1666,8 +1666,8 @@ var covid19_dataset_latest_totals = {
     },
     "HND": {
       "back_1week": {
-        "confirmed": 373589,
-        "deaths": 10170,
+        "confirmed": 373838,
+        "deaths": 10182,
         "recovered": 0
       },
       "back_2week": {
@@ -1955,18 +1955,18 @@ var covid19_dataset_latest_totals = {
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 180223,
-        "deaths": 2643,
+        "confirmed": 180348,
+        "deaths": 2647,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 179583,
-        "deaths": 2627,
+        "confirmed": 179681,
+        "deaths": 2629,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 180989,
-        "deaths": 2664,
+        "confirmed": 181105,
+        "deaths": 2666,
         "recovered": 0
       }
     },
@@ -3276,18 +3276,18 @@ var covid19_dataset_latest_totals = {
     },
     "THA": {
       "back_1week": {
-        "confirmed": 1821579,
-        "deaths": 18559,
+        "confirmed": 1831389,
+        "deaths": 18625,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1751704,
-        "deaths": 18029,
+        "confirmed": 1762190,
+        "deaths": 18123,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1884973,
-        "deaths": 19006,
+        "confirmed": 1893941,
+        "deaths": 19070,
         "recovered": 0
       }
     },
@@ -3865,18 +3865,18 @@ var covid19_dataset_latest_totals = {
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 396477,
-        "deaths": 4763,
+        "confirmed": 397370,
+        "deaths": 4775,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 388743,
-        "deaths": 4681,
+        "confirmed": 390045,
+        "deaths": 4693,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 403318,
-        "deaths": 4848,
+        "confirmed": 404387,
+        "deaths": 4860,
         "recovered": 0
       }
     },
