@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 526920,
+      "confirmed": 529109,
       "date": "2021-10-30",
-      "deaths": 7021
+      "deaths": 7049
     }
   },
   "Bahrain": {
@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 596191,
+      "confirmed": 598183,
       "date": "2021-10-30",
-      "deaths": 4596
+      "deaths": 4614
     }
   },
   "Belgium": {
@@ -771,16 +771,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4243215,
+      "confirmed": 4243835,
       "date": "2021-10-30",
-      "deaths": 143361
+      "deaths": 143388
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 5909402,
+      "confirmed": 5916211,
       "date": "2021-10-30",
-      "deaths": 125998
+      "deaths": 126126
     }
   },
   "Iraq": {
