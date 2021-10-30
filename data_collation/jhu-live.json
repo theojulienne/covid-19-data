@@ -1212,9 +1212,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3008294,
+      "confirmed": 3018100,
       "date": "2021-10-30",
-      "deaths": 76875
+      "deaths": 76990
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 474595,
+      "confirmed": 479737,
       "date": "2021-10-30",
-      "deaths": 13000
+      "deaths": 13018
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 331206,
+      "confirmed": 334188,
       "date": "2021-10-30",
-      "deaths": 4730
+      "deaths": 4739
     }
   },
   "South Africa": {
