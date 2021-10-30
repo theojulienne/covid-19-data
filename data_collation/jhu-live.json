@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 462482,
+      "confirmed": 467029,
       "date": "2021-10-30",
-      "deaths": 9168
+      "deaths": 9198
     }
   },
   "Cuba": {
@@ -555,7 +555,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 193003,
+          "confirmed": 193246,
           "date": "2021-10-30",
           "deaths": 4091
         }
@@ -947,9 +947,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 214460,
+      "confirmed": 217339,
       "date": "2021-10-30",
-      "deaths": 3198
+      "deaths": 3237
     }
   },
   "Lebanon": {
@@ -1233,9 +1233,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1628501,
+      "confirmed": 1640607,
       "date": "2021-10-30",
-      "deaths": 46911
+      "deaths": 47324
     }
   },
   "Russia": {
