@@ -889,7 +889,7 @@
       },
       "Tokyo": {
         "live": {
-          "confirmed": 377613,
+          "confirmed": 381610,
           "date": "2021-10-30",
           "deaths": 3142
         }
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 185295,
+      "confirmed": 185647,
       "date": "2021-10-30",
-      "deaths": 1318
+      "deaths": 1321
     }
   },
   "Venezuela": {
