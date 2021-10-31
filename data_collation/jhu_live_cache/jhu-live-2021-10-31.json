@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 276794,
+      "confirmed": 276829,
       "date": "2021-10-31",
       "deaths": 1393
     }
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 601402,
+      "confirmed": 601572,
       "date": "2021-10-31",
-      "deaths": 15050
+      "deaths": 15094
     }
   },
   "Honduras": {
