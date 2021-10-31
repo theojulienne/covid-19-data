@@ -1263,18 +1263,18 @@
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 361647,
-        "deaths": 6333,
+        "confirmed": 362088,
+        "deaths": 6347,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 358345,
-        "deaths": 6169,
+        "confirmed": 358739,
+        "deaths": 6197,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 364576,
-        "deaths": 6437,
+        "confirmed": 364960,
+        "deaths": 6451,
         "recovered": 0
       }
     },
