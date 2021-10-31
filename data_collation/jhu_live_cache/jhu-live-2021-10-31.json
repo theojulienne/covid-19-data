@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 499321,
+      "confirmed": 500073,
       "date": "2021-10-31",
-      "deaths": 18664
+      "deaths": 18697
     }
   },
   "Canada": {
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 153373,
+          "confirmed": 153545,
           "date": "2021-10-31",
-          "deaths": 2701
+          "deaths": 2703
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 714294,
+          "confirmed": 715520,
           "date": "2021-10-31",
-          "deaths": 19343
+          "deaths": 19347
         }
       }
     }
@@ -1090,37 +1090,37 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 238066,
+          "confirmed": 239244,
           "date": "2021-10-31",
-          "deaths": 2134
+          "deaths": 2135
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 328389,
+          "confirmed": 329637,
           "date": "2021-10-31",
-          "deaths": 3197
+          "deaths": 3199
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 359712,
+          "confirmed": 360733,
           "date": "2021-10-31",
           "deaths": 2753
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 165119,
+          "confirmed": 165684,
           "date": "2021-10-31",
-          "deaths": 1316
+          "deaths": 1317
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 504864,
+          "confirmed": 506629,
           "date": "2021-10-31",
-          "deaths": 4413
+          "deaths": 4416
         }
       }
     }
@@ -1219,9 +1219,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1089888,
+      "confirmed": 1090651,
       "date": "2021-10-31",
-      "deaths": 18156
+      "deaths": 18157
     }
   },
   "Qatar": {
@@ -1300,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1137820,
+      "confirmed": 1142749,
       "date": "2021-10-31",
-      "deaths": 9890
+      "deaths": 9955
     }
   },
   "Singapore": {
