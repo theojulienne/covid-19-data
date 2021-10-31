@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1017181,
+      "confirmed": 1018841,
       "date": "2021-10-31",
       "deaths": 17078
     }
@@ -1157,23 +1157,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 177889,
+          "confirmed": 177968,
           "date": "2021-10-31",
-          "deaths": 5740
+          "deaths": 5745
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 440003,
+          "confirmed": 440139,
           "date": "2021-10-31",
           "deaths": 12915
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 469475,
+          "confirmed": 469960,
           "date": "2021-10-31",
-          "deaths": 7563
+          "deaths": 7567
         }
       }
     }
