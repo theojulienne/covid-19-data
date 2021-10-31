@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 193255,
+          "confirmed": 193538,
           "date": "2021-10-31",
-          "deaths": 4091
+          "deaths": 4092
         }
       },
       "Sachsen": {
@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5916211,
+      "confirmed": 5924638,
       "date": "2021-10-31",
-      "deaths": 126126
+      "deaths": 126303
     }
   },
   "Iraq": {
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1327306,
+      "confirmed": 1327415,
       "date": "2021-10-31",
-      "deaths": 8085
+      "deaths": 8091
     }
   },
   "Italy": {
@@ -1226,16 +1226,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 239143,
+      "confirmed": 239247,
       "date": "2021-10-31",
       "deaths": 610
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1640607,
+      "confirmed": 1648031,
       "date": "2021-10-31",
-      "deaths": 47324
+      "deaths": 47751
     }
   },
   "Russia": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548571,
+      "confirmed": 548617,
       "date": "2021-10-31",
-      "deaths": 8793
+      "deaths": 8794
     }
   },
   "Serbia": {
@@ -1624,7 +1624,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 739824,
+      "confirmed": 739905,
       "date": "2021-10-31",
       "deaths": 2136
     }
