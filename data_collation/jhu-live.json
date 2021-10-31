@@ -1,9 +1,9 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 156210,
+      "confirmed": 156250,
       "date": "2021-10-31",
-      "deaths": 7272
+      "deaths": 7280
     }
   },
   "Albania": {
@@ -875,14 +875,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168981,
+          "confirmed": 168991,
           "date": "2021-10-31",
           "deaths": 1308
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202443,
+          "confirmed": 202488,
           "date": "2021-10-31",
           "deaths": 3045
         }
@@ -1242,51 +1242,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1809788,
+          "confirmed": 1817391,
           "date": "2021-10-31",
-          "deaths": 31248
+          "deaths": 31342
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 515758,
+          "confirmed": 518495,
           "date": "2021-10-31",
-          "deaths": 8716
+          "deaths": 8759
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 190428,
+          "confirmed": 191227,
           "date": "2021-10-31",
-          "deaths": 7691
+          "deaths": 7732
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 155453,
+          "confirmed": 156082,
           "date": "2021-10-31",
-          "deaths": 7713
+          "deaths": 7746
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 704957,
+          "confirmed": 708554,
           "date": "2021-10-31",
-          "deaths": 23798
+          "deaths": 23880
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 156660,
+          "confirmed": 157371,
           "date": "2021-10-31",
-          "deaths": 7442
+          "deaths": 7473
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 153444,
+          "confirmed": 154237,
           "date": "2021-10-31",
-          "deaths": 4906
+          "deaths": 4928
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 872558,
       "date": "2021-10-31",
-      "deaths": 11233
+      "deaths": 11234
     }
   },
   "Thailand": {
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 712318,
+      "confirmed": 712581,
       "date": "2021-10-31",
-      "deaths": 25231
+      "deaths": 25238
     }
   },
   "Turkey": {
