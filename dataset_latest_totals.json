@@ -1955,18 +1955,18 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 180348,
-        "deaths": 2647,
+        "confirmed": 180467,
+        "deaths": 2650,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 179681,
-        "deaths": 2629,
+        "confirmed": 179775,
+        "deaths": 2632,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 181105,
-        "deaths": 2666,
+        "confirmed": 181186,
+        "deaths": 2668,
         "recovered": 0
       }
     },
@@ -3276,18 +3276,18 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 1831389,
-        "deaths": 18625,
+        "confirmed": 1841131,
+        "deaths": 18699,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1762190,
-        "deaths": 18123,
+        "confirmed": 1772838,
+        "deaths": 18205,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1893941,
-        "deaths": 19070,
+        "confirmed": 1903165,
+        "deaths": 19158,
         "recovered": 0
       }
     },
