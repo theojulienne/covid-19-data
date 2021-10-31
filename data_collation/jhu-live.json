@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607995,
+          "confirmed": 607999,
           "date": "2021-10-31",
           "deaths": 9923
         }
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1327418,
+      "confirmed": 1327436,
       "date": "2021-10-31",
-      "deaths": 8092
+      "deaths": 8100
     }
   },
   "Italy": {
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 738763,
+          "confirmed": 740666,
           "date": "2021-10-31",
-          "deaths": 12232
+          "deaths": 12230
         }
       },
       "California": {
@@ -1550,7 +1550,7 @@
         "live": {
           "confirmed": 1664135,
           "date": "2021-10-31",
-          "deaths": 24310
+          "deaths": 24334
         }
       },
       "Utah": {
