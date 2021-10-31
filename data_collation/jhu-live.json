@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 756272,
           "date": "2021-10-31",
-          "deaths": 16290
+          "deaths": 16295
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 329793,
           "date": "2021-10-31",
-          "deaths": 9555
+          "deaths": 9559
         }
       },
       "Bolivar": {
@@ -399,14 +399,14 @@
         "live": {
           "confirmed": 264370,
           "date": "2021-10-31",
-          "deaths": 6822
+          "deaths": 6823
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226380,
           "date": "2021-10-31",
-          "deaths": 7312
+          "deaths": 7314
         }
       },
       "Valle del Cauca": {
