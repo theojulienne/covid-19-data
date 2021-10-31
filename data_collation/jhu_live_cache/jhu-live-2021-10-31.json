@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 529109,
+      "confirmed": 531370,
       "date": "2021-10-31",
-      "deaths": 7049
+      "deaths": 7074
     }
   },
   "Bahrain": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 607719,
+          "confirmed": 607924,
           "date": "2021-10-31",
-          "deaths": 9920
+          "deaths": 9922
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 386251,
+      "confirmed": 387783,
       "date": "2021-10-31",
-      "deaths": 2713
+      "deaths": 2714
     }
   },
   "Dominican Republic": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 819685,
+          "confirmed": 819755,
           "date": "2021-10-31",
           "deaths": 16073
         }
@@ -562,7 +562,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 327547,
+          "confirmed": 328555,
           "date": "2021-10-31",
           "deaths": 10324
         }
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2054202,
+      "confirmed": 2055248,
       "date": "2021-10-31",
-      "deaths": 23138
+      "deaths": 23170
     }
   },
   "Ireland": {
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1327415,
+      "confirmed": 1327418,
       "date": "2021-10-31",
-      "deaths": 8091
+      "deaths": 8092
     }
   },
   "Italy": {
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 253293,
+      "confirmed": 253310,
       "date": "2021-10-31",
-      "deaths": 5276
+      "deaths": 5281
     }
   },
   "Korea, South": {
@@ -926,9 +926,9 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160749,
+      "confirmed": 160762,
       "date": "2021-10-31",
-      "deaths": 2976
+      "deaths": 2977
     }
   },
   "Kuwait": {
@@ -1684,9 +1684,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 915603,
+      "confirmed": 921122,
       "date": "2021-10-31",
-      "deaths": 22030
+      "deaths": 22083
     }
   },
   "West Bank and Gaza": {
