@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 513112,
+      "confirmed": 513584,
       "date": "2021-10-31",
-      "deaths": 18924
+      "deaths": 18925
     }
   },
   "Bosnia and Herzegovina": {
@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 631684,
+          "confirmed": 634666,
           "date": "2021-10-31",
-          "deaths": 10991
+          "deaths": 10998
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 815241,
+          "confirmed": 819685,
           "date": "2021-10-31",
-          "deaths": 16066
+          "deaths": 16073
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 223289,
+          "confirmed": 223466,
           "date": "2021-10-31",
           "deaths": 3704
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 354166,
+          "confirmed": 355193,
           "date": "2021-10-31",
-          "deaths": 7855
+          "deaths": 7857
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 319944,
+          "confirmed": 320764,
           "date": "2021-10-31",
           "deaths": 6082
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1011606,
+          "confirmed": 1014528,
           "date": "2021-10-31",
-          "deaths": 18202
+          "deaths": 18210
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 193246,
+          "confirmed": 193255,
           "date": "2021-10-31",
           "deaths": 4091
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 327543,
+          "confirmed": 327547,
           "date": "2021-10-31",
           "deaths": 10324
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 151720,
+          "confirmed": 152478,
           "date": "2021-10-31",
-          "deaths": 4507
+          "deaths": 4509
         }
       }
     }
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 970519,
+          "confirmed": 971165,
           "date": "2021-10-31",
-          "deaths": 39843
+          "deaths": 39851
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 188379,
+          "confirmed": 188709,
           "date": "2021-10-31",
-          "deaths": 12564
+          "deaths": 12574
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 160815,
+          "confirmed": 160965,
           "date": "2021-10-31",
-          "deaths": 17064
+          "deaths": 17100
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 373715,
+          "confirmed": 373942,
           "date": "2021-10-31",
-          "deaths": 43847
+          "deaths": 43894
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 203830,
+          "confirmed": 203995,
           "date": "2021-10-31",
-          "deaths": 12973
+          "deaths": 12986
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 358208,
+      "confirmed": 359396,
       "date": "2021-10-31",
-      "deaths": 1722
+      "deaths": 1734
     }
   },
   "Morocco": {
@@ -1180,7 +1180,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 472398,
+      "confirmed": 472534,
       "date": "2021-10-31",
       "deaths": 7315
     }
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1488807,
+          "confirmed": 1489470,
           "date": "2021-10-31",
-          "deaths": 39519
+          "deaths": 39528
         }
       },
       "North Carolina": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 405445,
+      "confirmed": 406239,
       "date": "2021-10-31",
-      "deaths": 4874
+      "deaths": 4884
     }
   },
   "Vietnam": {
