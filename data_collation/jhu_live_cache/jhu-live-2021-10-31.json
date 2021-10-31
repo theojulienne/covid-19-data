@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 425392,
+          "confirmed": 425959,
           "date": "2021-10-31",
-          "deaths": 11493
+          "deaths": 11494
         }
       }
     }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6982376,
+      "confirmed": 6988705,
       "date": "2021-10-31",
-      "deaths": 115282
+      "deaths": 115294
     }
   },
   "Georgia": {
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412653,
+      "confirmed": 412678,
       "date": "2021-10-31",
       "deaths": 2461
     }
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2921886,
+      "confirmed": 2922116,
       "date": "2021-10-31",
-      "deaths": 89163
+      "deaths": 89177
     }
   },
   "Spain": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8009010,
+      "confirmed": 8032958,
       "date": "2021-10-31",
-      "deaths": 70410
+      "deaths": 70611
     }
   },
   "US": {
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 166119,
+          "confirmed": 166294,
           "date": "2021-10-31",
           "deaths": 1725
         }
