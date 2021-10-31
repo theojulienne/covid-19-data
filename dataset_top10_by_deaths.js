@@ -20575,7 +20575,8 @@ var covid19_dataset_top10_by_deaths = {
     "2021-10-28",
     "2021-10-29",
     "2021-10-30",
-    "2021-10-31"
+    "2021-10-31",
+    "2021-11-01"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10_by_deaths', covid19_dataset_top10_by_deaths, {});
