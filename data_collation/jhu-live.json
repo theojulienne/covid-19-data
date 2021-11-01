@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4244358,
+      "confirmed": 4244761,
       "date": "2021-11-01",
-      "deaths": 143405
+      "deaths": 143423
     }
   },
   "Iran": {
@@ -875,14 +875,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168991,
+          "confirmed": 168997,
           "date": "2021-11-01",
           "deaths": 1308
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202488,
+          "confirmed": 202495,
           "date": "2021-11-01",
           "deaths": 3045
         }
@@ -947,9 +947,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 219139,
+      "confirmed": 219911,
       "date": "2021-11-01",
-      "deaths": 3253
+      "deaths": 3269
     }
   },
   "Lebanon": {
@@ -1081,9 +1081,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 812570,
+      "confirmed": 813011,
       "date": "2021-11-01",
-      "deaths": 11407
+      "deaths": 11416
     }
   },
   "Netherlands": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 872558,
       "date": "2021-11-01",
-      "deaths": 11237
+      "deaths": 11239
     }
   },
   "Thailand": {
