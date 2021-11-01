@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 608326,
+          "confirmed": 608365,
           "date": "2021-11-01",
           "deaths": 9926
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1327720,
+      "confirmed": 1328151,
       "date": "2021-11-01",
       "deaths": 8100
     }
@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 467218,
+          "confirmed": 467572,
           "date": "2021-11-01",
           "deaths": 8063
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 432274,
+          "confirmed": 432679,
           "date": "2021-11-01",
           "deaths": 13595
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 395146,
+          "confirmed": 395591,
           "date": "2021-11-01",
-          "deaths": 8796
+          "deaths": 8799
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 894583,
+          "confirmed": 894769,
           "date": "2021-11-01",
-          "deaths": 34159
+          "deaths": 34162
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 384967,
+          "confirmed": 385055,
           "date": "2021-11-01",
-          "deaths": 11813
+          "deaths": 11814
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 272914,
+          "confirmed": 273009,
           "date": "2021-11-01",
           "deaths": 6835
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 308232,
+          "confirmed": 308527,
           "date": "2021-11-01",
-          "deaths": 7017
+          "deaths": 7019
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 289637,
+          "confirmed": 289841,
           "date": "2021-11-01",
-          "deaths": 7279
+          "deaths": 7283
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 480460,
+          "confirmed": 480822,
           "date": "2021-11-01",
-          "deaths": 11829
+          "deaths": 11833
         }
       }
     }
@@ -898,9 +898,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 862541,
+      "confirmed": 864661,
       "date": "2021-11-01",
-      "deaths": 11038
+      "deaths": 11052
     }
   },
   "Kazakhstan": {
@@ -977,37 +977,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 218137,
+          "confirmed": 218545,
           "date": "2021-11-01",
-          "deaths": 3653
+          "deaths": 3659
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 217949,
+          "confirmed": 218342,
           "date": "2021-11-01",
-          "deaths": 2522
+          "deaths": 2529
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 241046,
+          "confirmed": 241524,
           "date": "2021-11-01",
-          "deaths": 1332
+          "deaths": 1352
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 714680,
+          "confirmed": 715563,
           "date": "2021-11-01",
-          "deaths": 9597
+          "deaths": 9602
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 193718,
+          "confirmed": 193922,
           "date": "2021-11-01",
-          "deaths": 2556
+          "deaths": 2559
         }
       }
     }
@@ -1067,9 +1067,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 946145,
+      "confirmed": 946283,
       "date": "2021-11-01",
-      "deaths": 14668
+      "deaths": 14678
     }
   },
   "Mozambique": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3108690,
+          "confirmed": 3113524,
           "date": "2021-11-01",
-          "deaths": 49643
+          "deaths": 49698
         }
       },
       "Florida": {
@@ -1527,9 +1527,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 157260,
+          "confirmed": 157711,
           "date": "2021-11-01",
-          "deaths": 1244
+          "deaths": 1251
         }
       },
       "Ohio": {
