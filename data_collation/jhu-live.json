@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 531370,
+      "confirmed": 532570,
       "date": "2021-11-01",
-      "deaths": 7074
+      "deaths": 7101
     }
   },
   "Bahrain": {
@@ -333,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 608271,
+          "confirmed": 608326,
           "date": "2021-11-01",
-          "deaths": 9925
+          "deaths": 9926
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 425959,
           "date": "2021-11-01",
-          "deaths": 11494
+          "deaths": 11496
         }
       }
     }
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 742170,
+      "confirmed": 747595,
       "date": "2021-11-01",
-      "deaths": 15938
+      "deaths": 15990
     }
   },
   "Guatemala": {
@@ -884,14 +884,14 @@
         "live": {
           "confirmed": 202495,
           "date": "2021-11-01",
-          "deaths": 3045
+          "deaths": 3047
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381655,
+          "confirmed": 381664,
           "date": "2021-11-01",
-          "deaths": 3147
+          "deaths": 3148
         }
       }
     }
@@ -1205,9 +1205,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2787276,
+      "confirmed": 2790375,
       "date": "2021-11-01",
-      "deaths": 43172
+      "deaths": 43276
     }
   },
   "Poland": {
@@ -1219,9 +1219,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1090651,
+      "confirmed": 1091142,
       "date": "2021-11-01",
-      "deaths": 18157
+      "deaths": 18162
     }
   },
   "Qatar": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 198374,
+      "confirmed": 200844,
       "date": "2021-11-01",
-      "deaths": 407
+      "deaths": 421
     }
   },
   "Slovakia": {
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 3108690,
           "date": "2021-11-01",
-          "deaths": 49636
+          "deaths": 49643
         }
       },
       "Florida": {
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1664163,
+          "confirmed": 1665332,
           "date": "2021-11-01",
-          "deaths": 24334
+          "deaths": 24357
         }
       },
       "Utah": {
