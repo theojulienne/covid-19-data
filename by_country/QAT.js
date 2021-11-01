@@ -1302,7 +1302,8 @@ var covid19_dataset_country_qat = {
       238950,
       239051,
       239143,
-      239247
+      239247,
+      239374
     ],
     "deaths": [
       0,
@@ -1953,7 +1954,8 @@ var covid19_dataset_country_qat = {
       609,
       610,
       610,
-      610
+      610,
+      611
     ],
     "recovered": [
       0,

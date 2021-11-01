@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 608365,
+          "confirmed": 608545,
           "date": "2021-11-01",
-          "deaths": 9926
+          "deaths": 9927
         }
       },
       "Quebec": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6988705,
+      "confirmed": 6990332,
       "date": "2021-11-01",
-      "deaths": 115294
+      "deaths": 115296
     }
   },
   "Georgia": {
@@ -1074,9 +1074,9 @@
   },
   "Mozambique": {
     "live": {
-      "confirmed": 151292,
+      "confirmed": 151302,
       "date": "2021-11-01",
-      "deaths": 1930
+      "deaths": 1931
     }
   },
   "Nepal": {
@@ -1226,9 +1226,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 239247,
+      "confirmed": 239374,
       "date": "2021-11-01",
-      "deaths": 610
+      "deaths": 611
     }
   },
   "Romania": {
@@ -1323,7 +1323,7 @@
     "live": {
       "confirmed": 337108,
       "date": "2021-11-01",
-      "deaths": 4755
+      "deaths": 4756
     }
   },
   "South Africa": {
@@ -1499,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 200490,
+          "confirmed": 201812,
           "date": "2021-11-01",
-          "deaths": 5598
+          "deaths": 5607
         }
       },
       "Minnesota": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 195587,
+          "confirmed": 196671,
           "date": "2021-11-01",
-          "deaths": 1156
+          "deaths": 1169
         }
       },
       "Washington": {
@@ -1569,7 +1569,7 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 151555,
+          "confirmed": 152050,
           "date": "2021-11-01",
           "deaths": 1627
         }
@@ -1635,14 +1635,14 @@
         "live": {
           "confirmed": 7700753,
           "date": "2021-11-01",
-          "deaths": 122614
+          "deaths": 122627
         }
       },
       "Northern Ireland": {
         "live": {
           "confirmed": 275272,
           "date": "2021-11-01",
-          "deaths": 2705
+          "deaths": 2715
         }
       },
       "Scotland": {
@@ -1656,7 +1656,7 @@
         "live": {
           "confirmed": 437972,
           "date": "2021-11-01",
-          "deaths": 6150
+          "deaths": 6167
         }
       }
     }
