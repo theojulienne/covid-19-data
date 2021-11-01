@@ -3276,18 +3276,18 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 1841131,
-        "deaths": 18699,
+        "confirmed": 1850482,
+        "deaths": 18755,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1772838,
-        "deaths": 18205,
+        "confirmed": 1783701,
+        "deaths": 18273,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1903165,
-        "deaths": 19158,
+        "confirmed": 1912024,
+        "deaths": 19205,
         "recovered": 0
       }
     },
