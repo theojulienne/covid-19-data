@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 600168,
+      "confirmed": 602058,
       "date": "2021-11-01",
-      "deaths": 4631
+      "deaths": 4646
     }
   },
   "Belgium": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 470348,
+      "confirmed": 471474,
       "date": "2021-11-01",
-      "deaths": 9220
+      "deaths": 9251
     }
   },
   "Cuba": {
@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 157531,
+      "confirmed": 158991,
       "date": "2021-11-01",
-      "deaths": 1158
+      "deaths": 1170
     }
   },
   "France": {
@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 193547,
+          "confirmed": 193820,
           "date": "2021-11-01",
-          "deaths": 4092
+          "deaths": 4094
         }
       },
       "Sachsen": {
