@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 206566,
+      "confirmed": 206649,
       "date": "2021-11-02",
-      "deaths": 5924
+      "deaths": 5927
     }
   },
   "Argentina": {
@@ -1134,9 +1134,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 202705,
+      "confirmed": 203298,
       "date": "2021-11-02",
-      "deaths": 7145
+      "deaths": 7159
     }
   },
   "Norway": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 196671,
+          "confirmed": 197067,
           "date": "2021-11-02",
-          "deaths": 1169
+          "deaths": 1172
         }
       },
       "Washington": {
