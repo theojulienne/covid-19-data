@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 471474,
+      "confirmed": 472259,
       "date": "2021-11-02",
-      "deaths": 9251
+      "deaths": 9291
     }
   },
   "Cuba": {
@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 158991,
+      "confirmed": 159798,
       "date": "2021-11-02",
-      "deaths": 1170
+      "deaths": 1173
     }
   },
   "France": {
@@ -513,9 +513,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 637267,
+          "confirmed": 637464,
           "date": "2021-11-02",
-          "deaths": 11004
+          "deaths": 11003
         }
       },
       "Bayern": {
@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5934495,
+      "confirmed": 5944599,
       "date": "2021-11-02",
-      "deaths": 126456
+      "deaths": 126616
     }
   },
   "Iraq": {
@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 239374,
+      "confirmed": 239508,
       "date": "2021-11-02",
       "deaths": 611
     }
@@ -1321,7 +1321,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 338244,
+      "confirmed": 338246,
       "date": "2021-11-02",
       "deaths": 4766
     }
@@ -1411,21 +1411,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 166318,
+          "confirmed": 166663,
           "date": "2021-11-02",
-          "deaths": 1793
+          "deaths": 1797
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 279813,
+          "confirmed": 280692,
           "date": "2021-11-02",
-          "deaths": 4487
+          "deaths": 4489
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 204223,
+          "confirmed": 204603,
           "date": "2021-11-02",
           "deaths": 2442
         }
@@ -1434,9 +1434,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 877098,
+      "confirmed": 879049,
       "date": "2021-11-02",
-      "deaths": 11253
+      "deaths": 11255
     }
   },
   "Thailand": {
