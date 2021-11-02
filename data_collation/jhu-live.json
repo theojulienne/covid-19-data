@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5288807,
+      "confirmed": 5289945,
       "date": "2021-11-01",
-      "deaths": 115950
+      "deaths": 115989
     }
   },
   "Armenia": {
@@ -1141,9 +1141,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 207280,
+      "confirmed": 207800,
       "date": "2021-11-01",
-      "deaths": 900
+      "deaths": 902
     }
   },
   "Oman": {
@@ -1464,7 +1464,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 740666,
+          "confirmed": 741940,
           "date": "2021-11-01",
           "deaths": 12230
         }
@@ -1562,9 +1562,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 164026,
+          "confirmed": 165047,
           "date": "2021-11-01",
-          "deaths": 1986
+          "deaths": 1991
         }
       },
       "Wisconsin": {
