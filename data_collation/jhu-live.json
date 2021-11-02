@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 559698,
+      "confirmed": 560563,
       "date": "2021-11-02",
-      "deaths": 7029
+      "deaths": 7078
     }
   },
   "Croatia": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1020264,
+      "confirmed": 1021452,
       "date": "2021-11-02",
       "deaths": 17150
     }
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1492647,
+          "confirmed": 1493121,
           "date": "2021-11-02",
-          "deaths": 39550
+          "deaths": 39558
         }
       },
       "North Carolina": {
@@ -1686,7 +1686,7 @@
     "live": {
       "confirmed": 926720,
       "date": "2021-11-02",
-      "deaths": 22135
+      "deaths": 22131
     }
   },
   "West Bank and Gaza": {
