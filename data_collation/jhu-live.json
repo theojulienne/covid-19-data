@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 156284,
+      "confirmed": 156307,
       "date": "2021-11-02",
       "deaths": 7281
     }
@@ -29,16 +29,16 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 309397,
+      "confirmed": 310629,
       "date": "2021-11-02",
-      "deaths": 6379
+      "deaths": 6441
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 835504,
+      "confirmed": 840902,
       "date": "2021-11-02",
-      "deaths": 11369
+      "deaths": 11380
     }
   },
   "Azerbaijan": {
@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1765654,
+      "confirmed": 1773291,
       "date": "2021-11-02",
-      "deaths": 30775
+      "deaths": 30807
     }
   },
   "Denmark": {
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 195382,
+      "confirmed": 196951,
       "date": "2021-11-02",
-      "deaths": 1540
+      "deaths": 1550
     }
   },
   "Ethiopia": {
@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 721388,
+      "confirmed": 726941,
       "date": "2021-11-02",
-      "deaths": 10089
+      "deaths": 10136
     }
   },
   "Germany": {
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 225044,
+          "confirmed": 225048,
           "date": "2021-11-02",
           "deaths": 3709
         }
@@ -599,181 +599,181 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 874630,
+      "confirmed": 876497,
       "date": "2021-11-02",
-      "deaths": 30881
+      "deaths": 30920
     }
   },
   "India": {
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2066450,
+          "confirmed": 2066670,
           "date": "2021-11-02",
-          "deaths": 14373
+          "deaths": 14377
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 610645,
+          "confirmed": 610941,
           "date": "2021-11-02",
-          "deaths": 5997
+          "deaths": 6004
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726098,
+          "confirmed": 726102,
           "date": "2021-11-02",
           "deaths": 9661
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1006052,
+          "confirmed": 1006074,
           "date": "2021-11-02",
-          "deaths": 13577
+          "deaths": 13578
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1439870,
+          "confirmed": 1439888,
           "date": "2021-11-02",
           "deaths": 25091
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 178108,
+          "confirmed": 178121,
           "date": "2021-11-02",
           "deaths": 3364
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 826577,
+          "confirmed": 826597,
           "date": "2021-11-02",
-          "deaths": 10089
+          "deaths": 10090
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 771252,
+          "confirmed": 771262,
           "date": "2021-11-02",
           "deaths": 10049
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 224106,
+          "confirmed": 224251,
           "date": "2021-11-02",
-          "deaths": 3754
+          "deaths": 3758
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 332249,
+          "confirmed": 332347,
           "date": "2021-11-02",
-          "deaths": 4432
+          "deaths": 4436
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 348764,
+          "confirmed": 348771,
           "date": "2021-11-02",
           "deaths": 5138
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2988333,
+          "confirmed": 2988521,
           "date": "2021-11-02",
-          "deaths": 38082
+          "deaths": 38084
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 4968657,
+          "confirmed": 4973954,
           "date": "2021-11-02",
-          "deaths": 31681
+          "deaths": 32049
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 792854,
+          "confirmed": 792862,
           "date": "2021-11-02",
           "deaths": 10524
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6611078,
+          "confirmed": 6611887,
           "date": "2021-11-02",
-          "deaths": 140216
+          "deaths": 140226
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1041457,
+          "confirmed": 1041773,
           "date": "2021-11-02",
-          "deaths": 8333
+          "deaths": 8336
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 602401,
+          "confirmed": 602420,
           "date": "2021-11-02",
-          "deaths": 16559
+          "deaths": 16560
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954429,
+          "confirmed": 954436,
           "date": "2021-11-02",
           "deaths": 8954
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2702623,
+          "confirmed": 2703613,
           "date": "2021-11-02",
-          "deaths": 36116
+          "deaths": 36136
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 671463,
+          "confirmed": 671623,
           "date": "2021-11-02",
-          "deaths": 3956
+          "deaths": 3958
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1710158,
+          "confirmed": 1710161,
           "date": "2021-11-02",
           "deaths": 22900
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 343896,
+          "confirmed": 343904,
           "date": "2021-11-02",
-          "deaths": 7400
+          "deaths": 7401
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1592908,
+          "confirmed": 1593633,
           "date": "2021-11-02",
-          "deaths": 19141
+          "deaths": 19149
         }
       }
     }
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4244761,
+      "confirmed": 4245373,
       "date": "2021-11-02",
-      "deaths": 143423
+      "deaths": 143457
     }
   },
   "Iran": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1328218,
+      "confirmed": 1328566,
       "date": "2021-11-02",
       "deaths": 8103
     }
@@ -875,14 +875,14 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168997,
+          "confirmed": 169007,
           "date": "2021-11-02",
           "deaths": 1308
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202495,
+          "confirmed": 202531,
           "date": "2021-11-02",
           "deaths": 3047
         }
@@ -940,16 +940,16 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 181327,
+      "confirmed": 181425,
       "date": "2021-11-02",
-      "deaths": 2672
+      "deaths": 2674
     }
   },
   "Latvia": {
     "live": {
-      "confirmed": 219911,
+      "confirmed": 221795,
       "date": "2021-11-02",
-      "deaths": 3269
+      "deaths": 3312
     }
   },
   "Lebanon": {
@@ -961,16 +961,16 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 357964,
+      "confirmed": 358463,
       "date": "2021-11-02",
-      "deaths": 5122
+      "deaths": 5139
     }
   },
   "Lithuania": {
     "live": {
-      "confirmed": 410580,
+      "confirmed": 412769,
       "date": "2021-11-02",
-      "deaths": 5913
+      "deaths": 5936
     }
   },
   "Malaysia": {
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 971426,
+          "confirmed": 971599,
           "date": "2021-11-02",
-          "deaths": 39859
+          "deaths": 39868
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 188805,
+          "confirmed": 188900,
           "date": "2021-11-02",
-          "deaths": 12576
+          "deaths": 12594
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 161006,
+          "confirmed": 161033,
           "date": "2021-11-02",
-          "deaths": 17104
+          "deaths": 17108
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 374088,
+          "confirmed": 374157,
           "date": "2021-11-02",
-          "deaths": 43899
+          "deaths": 43910
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 204018,
+          "confirmed": 204043,
           "date": "2021-11-02",
-          "deaths": 13003
+          "deaths": 13009
         }
       }
     }
@@ -1081,9 +1081,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 813011,
+      "confirmed": 813433,
       "date": "2021-11-02",
-      "deaths": 11416
+      "deaths": 11427
     }
   },
   "Netherlands": {
@@ -1148,7 +1148,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304299,
+      "confirmed": 304308,
       "date": "2021-11-02",
       "deaths": 4111
     }
@@ -1180,7 +1180,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 472664,
+      "confirmed": 472736,
       "date": "2021-11-02",
       "deaths": 7315
     }
@@ -1196,9 +1196,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 958685,
+          "confirmed": 961121,
           "date": "2021-11-02",
-          "deaths": 88693
+          "deaths": 88746
         }
       }
     }
@@ -1212,9 +1212,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3030151,
+      "confirmed": 3034668,
       "date": "2021-11-02",
-      "deaths": 77012
+      "deaths": 77021
     }
   },
   "Portugal": {
@@ -1242,51 +1242,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1824494,
+          "confirmed": 1830230,
           "date": "2021-11-02",
-          "deaths": 31438
+          "deaths": 31536
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 521361,
+          "confirmed": 524254,
           "date": "2021-11-02",
-          "deaths": 8806
+          "deaths": 8855
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 192029,
+          "confirmed": 192818,
           "date": "2021-11-02",
-          "deaths": 7760
+          "deaths": 7800
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 156717,
+          "confirmed": 157357,
           "date": "2021-11-02",
-          "deaths": 7778
+          "deaths": 7805
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 711804,
+          "confirmed": 714870,
           "date": "2021-11-02",
-          "deaths": 23965
+          "deaths": 24048
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 158094,
+          "confirmed": 158812,
           "date": "2021-11-02",
-          "deaths": 7504
+          "deaths": 7532
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 155035,
+          "confirmed": 155836,
           "date": "2021-11-02",
-          "deaths": 4956
+          "deaths": 4970
         }
       }
     }
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 485629,
+      "confirmed": 487916,
       "date": "2021-11-02",
-      "deaths": 13045
+      "deaths": 13076
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 337108,
+      "confirmed": 338244,
       "date": "2021-11-02",
-      "deaths": 4756
+      "deaths": 4766
     }
   },
   "South Africa": {
@@ -1436,14 +1436,14 @@
     "live": {
       "confirmed": 877098,
       "date": "2021-11-02",
-      "deaths": 11242
+      "deaths": 11253
     }
   },
   "Thailand": {
     "live": {
-      "confirmed": 1920189,
+      "confirmed": 1927763,
       "date": "2021-11-02",
-      "deaths": 19260
+      "deaths": 19338
     }
   },
   "Tunisia": {
@@ -1580,53 +1580,53 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 188830,
+          "confirmed": 190451,
           "date": "2021-11-02",
-          "deaths": 5910
+          "deaths": 5943
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 207642,
+          "confirmed": 208979,
           "date": "2021-11-02",
-          "deaths": 4722
+          "deaths": 4739
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 259797,
+          "confirmed": 261535,
           "date": "2021-11-02",
-          "deaths": 6208
+          "deaths": 6268
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 151382,
+          "confirmed": 152192,
           "date": "2021-11-02",
-          "deaths": 3299
+          "deaths": 3327
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 183184,
+          "confirmed": 184288,
           "date": "2021-11-02",
-          "deaths": 4546
+          "deaths": 4602
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 194121,
+          "confirmed": 196029,
           "date": "2021-11-02",
-          "deaths": 4081
+          "deaths": 4101
         }
       }
     }
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 739983,
+      "confirmed": 740057,
       "date": "2021-11-02",
-      "deaths": 2136
+      "deaths": 2137
     }
   },
   "United Kingdom": {
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 186244,
+      "confirmed": 186521,
       "date": "2021-11-02",
-      "deaths": 1325
+      "deaths": 1327
     }
   },
   "Venezuela": {
