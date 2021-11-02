@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 636242,
+          "confirmed": 637267,
           "date": "2021-11-02",
-          "deaths": 11003
+          "deaths": 11004
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 823424,
+          "confirmed": 825577,
           "date": "2021-11-02",
-          "deaths": 16079
+          "deaths": 16086
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 223548,
+          "confirmed": 225044,
           "date": "2021-11-02",
-          "deaths": 3704
+          "deaths": 3709
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 355753,
+          "confirmed": 356564,
           "date": "2021-11-02",
-          "deaths": 7858
+          "deaths": 7862
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 321029,
+          "confirmed": 321620,
           "date": "2021-11-02",
-          "deaths": 6082
+          "deaths": 6089
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1015511,
+          "confirmed": 1016517,
           "date": "2021-11-02",
-          "deaths": 18214
+          "deaths": 18222
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 193820,
+          "confirmed": 193827,
           "date": "2021-11-02",
           "deaths": 4094
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 329338,
+          "confirmed": 329374,
           "date": "2021-11-02",
-          "deaths": 10328
+          "deaths": 10334
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 152797,
+          "confirmed": 153593,
           "date": "2021-11-02",
-          "deaths": 4510
+          "deaths": 4522
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 360317,
+      "confirmed": 361338,
       "date": "2021-11-02",
-      "deaths": 1745
+      "deaths": 1755
     }
   },
   "Morocco": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 407151,
+      "confirmed": 407866,
       "date": "2021-11-02",
-      "deaths": 4891
+      "deaths": 4902
     }
   },
   "Vietnam": {
