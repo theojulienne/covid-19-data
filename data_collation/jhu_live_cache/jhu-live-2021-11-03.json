@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 840902,
+      "confirmed": 847408,
       "date": "2021-11-03",
-      "deaths": 11380
+      "deaths": 11400
     }
   },
   "Azerbaijan": {
@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 181125,
+          "confirmed": 186128,
           "date": "2021-11-03",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 182835,
+          "confirmed": 185132,
           "date": "2021-11-03",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 150993,
+          "confirmed": 153726,
           "date": "2021-11-03",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 183767,
+          "confirmed": 185712,
           "date": "2021-11-03",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 166293,
+          "confirmed": 168774,
           "date": "2021-11-03",
           "deaths": 0
         }
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 196951,
+      "confirmed": 199251,
       "date": "2021-11-03",
-      "deaths": 1550
+      "deaths": 1563
     }
   },
   "Ethiopia": {
@@ -882,7 +882,7 @@
       },
       "Osaka": {
         "live": {
-          "confirmed": 202531,
+          "confirmed": 202584,
           "date": "2021-11-03",
           "deaths": 3047
         }
@@ -1212,9 +1212,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3034668,
+      "confirmed": 3045102,
       "date": "2021-11-03",
-      "deaths": 77021
+      "deaths": 77145
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 487916,
+      "confirmed": 493277,
       "date": "2021-11-03",
-      "deaths": 13076
+      "deaths": 13112
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 338246,
+      "confirmed": 341699,
       "date": "2021-11-03",
-      "deaths": 4766
+      "deaths": 4784
     }
   },
   "South Africa": {
