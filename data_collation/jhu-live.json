@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 609191,
+          "confirmed": 609195,
           "date": "2021-11-03",
           "deaths": 9938
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 426946,
+          "confirmed": 427471,
           "date": "2021-11-03",
           "deaths": 11510
         }
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 6992339,
+      "confirmed": 7002389,
       "date": "2021-11-03",
-      "deaths": 115383
+      "deaths": 115418
     }
   },
   "Georgia": {
@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 239508,
+      "confirmed": 239646,
       "date": "2021-11-03",
       "deaths": 611
     }
@@ -1499,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 201812,
+          "confirmed": 203316,
           "date": "2021-11-03",
-          "deaths": 5607
+          "deaths": 5626
         }
       },
       "Minnesota": {
@@ -1515,7 +1515,7 @@
         "live": {
           "confirmed": 333478,
           "date": "2021-11-03",
-          "deaths": 5983
+          "deaths": 5992
         }
       },
       "New York": {
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 166762,
+          "confirmed": 167105,
           "date": "2021-11-03",
           "deaths": 1732
         }
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1668386,
+          "confirmed": 1669298,
           "date": "2021-11-03",
-          "deaths": 24405
+          "deaths": 24458
         }
       },
       "Utah": {
@@ -1569,9 +1569,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 152385,
+          "confirmed": 152588,
           "date": "2021-11-03",
-          "deaths": 1630
+          "deaths": 1635
         }
       }
     }
