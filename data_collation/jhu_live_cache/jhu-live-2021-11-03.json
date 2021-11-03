@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 310629,
+      "confirmed": 312674,
       "date": "2021-11-03",
-      "deaths": 6441
+      "deaths": 6491
     }
   },
   "Austria": {
@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 159798,
+      "confirmed": 160948,
       "date": "2021-11-03",
-      "deaths": 1173
+      "deaths": 1176
     }
   },
   "France": {
@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4245373,
+      "confirmed": 4246174,
       "date": "2021-11-03",
-      "deaths": 143457
+      "deaths": 143481
     }
   },
   "Iran": {
@@ -875,7 +875,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169007,
+          "confirmed": 169014,
           "date": "2021-11-03",
           "deaths": 1308
         }
@@ -961,9 +961,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 358463,
+      "confirmed": 359019,
       "date": "2021-11-03",
-      "deaths": 5139
+      "deaths": 5157
     }
   },
   "Lithuania": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 879051,
       "date": "2021-11-03",
-      "deaths": 11259
+      "deaths": 11260
     }
   },
   "Thailand": {
@@ -1624,7 +1624,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 740057,
+      "confirmed": 740136,
       "date": "2021-11-03",
       "deaths": 2137
     }
