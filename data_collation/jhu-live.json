@@ -333,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 609138,
+          "confirmed": 609177,
           "date": "2021-11-03",
-          "deaths": 9937
+          "deaths": 9938
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 426946,
           "date": "2021-11-03",
-          "deaths": 11502
+          "deaths": 11510
         }
       }
     }
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 754451,
+      "confirmed": 760592,
       "date": "2021-11-03",
-      "deaths": 16050
+      "deaths": 16109
     }
   },
   "Guatemala": {
@@ -792,9 +792,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 452172,
+      "confirmed": 455346,
       "date": "2021-11-03",
-      "deaths": 5436
+      "deaths": 5492
     }
   },
   "Israel": {
@@ -889,9 +889,9 @@
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381682,
+          "confirmed": 381707,
           "date": "2021-11-03",
-          "deaths": 3149
+          "deaths": 3152
         }
       }
     }
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 3117576,
           "date": "2021-11-03",
-          "deaths": 49768
+          "deaths": 49773
         }
       },
       "Florida": {
