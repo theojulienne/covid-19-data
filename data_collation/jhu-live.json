@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 604037,
+      "confirmed": 606033,
       "date": "2021-11-03",
-      "deaths": 4662
+      "deaths": 4679
     }
   },
   "Belgium": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 608905,
+          "confirmed": 609138,
           "date": "2021-11-03",
-          "deaths": 9934
+          "deaths": 9937
         }
       },
       "Quebec": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 472259,
+      "confirmed": 476832,
       "date": "2021-11-03",
-      "deaths": 9291
+      "deaths": 9332
     }
   },
   "Cuba": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548711,
+      "confirmed": 548760,
       "date": "2021-11-03",
-      "deaths": 8798
+      "deaths": 8799
     }
   },
   "Serbia": {
@@ -1434,7 +1434,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 879051,
+      "confirmed": 881660,
       "date": "2021-11-03",
       "deaths": 11260
     }
