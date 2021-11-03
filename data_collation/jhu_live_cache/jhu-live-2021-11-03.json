@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 609270,
+          "confirmed": 609308,
           "date": "2021-11-03",
           "deaths": 9939
         }
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 601793,
+      "confirmed": 602575,
       "date": "2021-11-03",
-      "deaths": 15179
+      "deaths": 15222
     }
   },
   "Honduras": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1332217,
+      "confirmed": 1332247,
       "date": "2021-11-03",
       "deaths": 8109
     }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8091432,
+      "confirmed": 8121196,
       "date": "2021-11-03",
-      "deaths": 71052
+      "deaths": 71298
     }
   },
   "US": {
