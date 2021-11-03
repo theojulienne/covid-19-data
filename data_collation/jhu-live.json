@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1569982,
+      "confirmed": 1570238,
       "date": "2021-11-03",
-      "deaths": 27873
+      "deaths": 27880
     }
   },
   "Belarus": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 391221,
+      "confirmed": 393199,
       "date": "2021-11-03",
-      "deaths": 2716
+      "deaths": 2717
     }
   },
   "Dominican Republic": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 829535,
+          "confirmed": 829653,
           "date": "2021-11-03",
           "deaths": 16132
         }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 332294,
+          "confirmed": 336279,
           "date": "2021-11-03",
-          "deaths": 10354
+          "deaths": 10369
         }
       },
       "Thuringen": {
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2057716,
+      "confirmed": 2058914,
       "date": "2021-11-03",
-      "deaths": 23223
+      "deaths": 23248
     }
   },
   "Ireland": {
@@ -1148,9 +1148,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304308,
+      "confirmed": 304318,
       "date": "2021-11-03",
-      "deaths": 4111
+      "deaths": 4112
     }
   },
   "Pakistan": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 542212,
+      "confirmed": 542686,
       "date": "2021-11-03",
       "deaths": 13770
     }
@@ -1411,21 +1411,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 166663,
+          "confirmed": 166804,
           "date": "2021-11-03",
           "deaths": 1797
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 280692,
+          "confirmed": 280904,
           "date": "2021-11-03",
-          "deaths": 4489
+          "deaths": 4491
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 204603,
+          "confirmed": 204828,
           "date": "2021-11-03",
           "deaths": 2442
         }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 881660,
       "date": "2021-11-03",
-      "deaths": 11260
+      "deaths": 11261
     }
   },
   "Thailand": {
@@ -1684,9 +1684,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 932357,
+      "confirmed": 939463,
       "date": "2021-11-03",
-      "deaths": 22205
+      "deaths": 22283
     }
   },
   "West Bank and Gaza": {
