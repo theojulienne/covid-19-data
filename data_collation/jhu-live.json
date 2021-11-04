@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 561054,
+      "confirmed": 561432,
       "date": "2021-11-04",
-      "deaths": 7093
+      "deaths": 7111
     }
   },
   "Croatia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 370640,
+      "confirmed": 373120,
       "date": "2021-11-04",
-      "deaths": 2892
+      "deaths": 2916
     }
   },
   "Kosovo": {
