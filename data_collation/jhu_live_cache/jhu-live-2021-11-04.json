@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 186128,
+          "confirmed": 187461,
           "date": "2021-11-04",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 185132,
+          "confirmed": 185734,
           "date": "2021-11-04",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 153726,
+          "confirmed": 154736,
           "date": "2021-11-04",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 185712,
+          "confirmed": 186276,
           "date": "2021-11-04",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 168774,
+          "confirmed": 169781,
           "date": "2021-11-04",
           "deaths": 0
         }
@@ -371,42 +371,42 @@
         "live": {
           "confirmed": 757496,
           "date": "2021-11-04",
-          "deaths": 16311
+          "deaths": 16321
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 330744,
           "date": "2021-11-04",
-          "deaths": 9573
+          "deaths": 9578
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 158322,
           "date": "2021-11-04",
-          "deaths": 2987
+          "deaths": 2988
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1455552,
           "date": "2021-11-04",
-          "deaths": 27555
+          "deaths": 27558
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264501,
           "date": "2021-11-04",
-          "deaths": 6827
+          "deaths": 6828
         }
       },
       "Santander": {
         "live": {
           "confirmed": 226645,
           "date": "2021-11-04",
-          "deaths": 7316
+          "deaths": 7318
         }
       },
       "Valle del Cauca": {
@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 644294,
+          "confirmed": 644311,
           "date": "2021-11-04",
           "deaths": 11048
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 829653,
+          "confirmed": 837268,
           "date": "2021-11-04",
-          "deaths": 16132
+          "deaths": 16170
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 226288,
+          "confirmed": 227809,
           "date": "2021-11-04",
-          "deaths": 3717
+          "deaths": 3719
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 358327,
+          "confirmed": 360151,
           "date": "2021-11-04",
-          "deaths": 7872
+          "deaths": 7878
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 323135,
+          "confirmed": 325194,
           "date": "2021-11-04",
-          "deaths": 6096
+          "deaths": 6105
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1018424,
+          "confirmed": 1022966,
           "date": "2021-11-04",
-          "deaths": 18257
+          "deaths": 18283
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 195485,
+          "confirmed": 195500,
           "date": "2021-11-04",
           "deaths": 4111
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 336279,
+          "confirmed": 336712,
           "date": "2021-11-04",
-          "deaths": 10369
+          "deaths": 10375
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 155275,
+          "confirmed": 157132,
           "date": "2021-11-04",
-          "deaths": 4541
+          "deaths": 4548
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1022944,
+      "confirmed": 1024449,
       "date": "2021-11-04",
       "deaths": 17201
     }
@@ -1143,7 +1143,7 @@
     "live": {
       "confirmed": 211755,
       "date": "2021-11-04",
-      "deaths": 902
+      "deaths": 919
     }
   },
   "Oman": {
