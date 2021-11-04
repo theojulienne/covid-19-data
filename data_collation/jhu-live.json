@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 760592,
+      "confirmed": 767376,
       "date": "2021-11-04",
-      "deaths": 16109
+      "deaths": 16151
     }
   },
   "Guatemala": {
@@ -977,37 +977,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 219405,
+          "confirmed": 219834,
           "date": "2021-11-04",
-          "deaths": 3671
+          "deaths": 3679
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 219566,
+          "confirmed": 220221,
           "date": "2021-11-04",
-          "deaths": 2537
+          "deaths": 2540
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 242592,
+          "confirmed": 243119,
           "date": "2021-11-04",
-          "deaths": 1380
+          "deaths": 1399
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 717629,
+          "confirmed": 718973,
           "date": "2021-11-04",
-          "deaths": 9614
+          "deaths": 9620
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 194380,
+          "confirmed": 194655,
           "date": "2021-11-04",
-          "deaths": 2561
+          "deaths": 2563
         }
       }
     }
@@ -1219,9 +1219,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1092666,
+      "confirmed": 1094048,
       "date": "2021-11-04",
-      "deaths": 18180
+      "deaths": 18184
     }
   },
   "Qatar": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 207975,
+      "confirmed": 210978,
       "date": "2021-11-04",
-      "deaths": 442
+      "deaths": 459
     }
   },
   "Slovakia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 884597,
       "date": "2021-11-04",
-      "deaths": 11264
+      "deaths": 11265
     }
   },
   "Thailand": {
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 3120520,
           "date": "2021-11-04",
-          "deaths": 49801
+          "deaths": 49810
         }
       },
       "Florida": {
