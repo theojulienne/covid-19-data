@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 757131,
+          "confirmed": 757496,
           "date": "2021-11-04",
           "deaths": 16311
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 330498,
+          "confirmed": 330744,
           "date": "2021-11-04",
           "deaths": 9573
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 158215,
+          "confirmed": 158322,
           "date": "2021-11-04",
           "deaths": 2987
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1455372,
+          "confirmed": 1455552,
           "date": "2021-11-04",
           "deaths": 27555
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 264457,
+          "confirmed": 264501,
           "date": "2021-11-04",
           "deaths": 6827
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 226575,
+          "confirmed": 226645,
           "date": "2021-11-04",
           "deaths": 7316
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 411724,
+          "confirmed": 411908,
           "date": "2021-11-04",
           "deaths": 13042
         }
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 332889,
+      "confirmed": 333840,
       "date": "2021-11-04",
-      "deaths": 18769
+      "deaths": 18832
     }
   },
   "Estonia": {
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 253409,
+      "confirmed": 253512,
       "date": "2021-11-04",
       "deaths": 5282
     }
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 643047,
+      "confirmed": 643749,
       "date": "2021-11-04",
-      "deaths": 8515
+      "deaths": 8522
     }
   },
   "Libya": {
@@ -1127,9 +1127,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 212150,
+      "confirmed": 212359,
       "date": "2021-11-04",
-      "deaths": 2899
+      "deaths": 2900
     }
   },
   "North Macedonia": {
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 712880,
+      "confirmed": 712982,
       "date": "2021-11-04",
-      "deaths": 25250
+      "deaths": 25254
     }
   },
   "Turkey": {
@@ -1663,7 +1663,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 394248,
+      "confirmed": 394443,
       "date": "2021-11-04",
       "deaths": 6080
     }
