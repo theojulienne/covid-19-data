@@ -490,9 +490,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 160948,
+      "confirmed": 161688,
       "date": "2021-11-04",
-      "deaths": 1176
+      "deaths": 1184
     }
   },
   "France": {
@@ -1212,9 +1212,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3045102,
+      "confirmed": 3060613,
       "date": "2021-11-04",
-      "deaths": 77145
+      "deaths": 77395
     }
   },
   "Portugal": {
