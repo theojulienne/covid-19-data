@@ -36,16 +36,16 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 855591,
+      "confirmed": 856002,
       "date": "2021-11-04",
       "deaths": 11419
     }
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 537004,
+      "confirmed": 539710,
       "date": "2021-11-04",
-      "deaths": 7153
+      "deaths": 7182
     }
   },
   "Bahrain": {
@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 207120,
+          "confirmed": 204914,
           "date": "2021-11-04",
-          "deaths": 2192
+          "deaths": 2156
         }
       },
       "Ontario": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 881660,
       "date": "2021-11-04",
-      "deaths": 11262
+      "deaths": 11263
     }
   },
   "Thailand": {
@@ -1698,9 +1698,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209781,
+      "confirmed": 209815,
       "date": "2021-11-04",
-      "deaths": 3661
+      "deaths": 3662
     }
   }
 }
