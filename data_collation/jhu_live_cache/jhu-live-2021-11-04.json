@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 384208,
+      "confirmed": 385181,
       "date": "2021-11-04",
-      "deaths": 4144
+      "deaths": 4146
     }
   },
   "Ecuador": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1495245,
+          "confirmed": 1496755,
           "date": "2021-11-04",
-          "deaths": 39583
+          "deaths": 39608
         }
       },
       "North Carolina": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 197772,
+          "confirmed": 198457,
           "date": "2021-11-04",
-          "deaths": 1176
+          "deaths": 1180
         }
       },
       "Washington": {
