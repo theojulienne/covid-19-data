@@ -367,17 +367,17 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 276685,
+        "confirmed": 276718,
         "deaths": 1393,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 276336,
+        "confirmed": 276395,
         "deaths": 1392,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 276956,
+        "confirmed": 276983,
         "deaths": 1393,
         "recovered": 0
       }
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 325001,
-          "deaths": 3133
+          "confirmed": 325517,
+          "deaths": 3137
         },
         "British Columbia": {
           "confirmed": 207120,
@@ -1263,18 +1263,18 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 363712,
-        "deaths": 6412,
+        "confirmed": 364098,
+        "deaths": 6428,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 360503,
-        "deaths": 6287,
+        "confirmed": 361027,
+        "deaths": 6316,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 366097,
-        "deaths": 6494,
+        "confirmed": 366424,
+        "deaths": 6509,
         "recovered": 0
       }
     },
@@ -2346,18 +2346,18 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 200856,
-        "deaths": 7087,
+        "confirmed": 201292,
+        "deaths": 7098,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 198156,
-        "deaths": 6998,
+        "confirmed": 198646,
+        "deaths": 7012,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 203866,
-        "deaths": 7178,
+        "confirmed": 204416,
+        "deaths": 7194,
         "recovered": 0
       }
     },
@@ -2834,17 +2834,17 @@ var covid19_dataset_latest_totals = {
     },
     "PRY": {
       "back_1week": {
-        "confirmed": 460894,
-        "deaths": 16238,
+        "confirmed": 460944,
+        "deaths": 16243,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 460615,
-        "deaths": 16228,
+        "confirmed": 460646,
+        "deaths": 16229,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 461184,
+        "confirmed": 461225,
         "deaths": 16256,
         "recovered": 0
       }
