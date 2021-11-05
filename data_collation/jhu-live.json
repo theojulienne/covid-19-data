@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 239752,
+      "confirmed": 239871,
       "date": "2021-11-05",
       "deaths": 611
     }
@@ -1434,7 +1434,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 884597,
+      "confirmed": 887446,
       "date": "2021-11-05",
       "deaths": 11270
     }
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209815,
+      "confirmed": 209852,
       "date": "2021-11-05",
       "deaths": 3662
     }
