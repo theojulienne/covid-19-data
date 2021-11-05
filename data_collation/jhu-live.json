@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 610244,
+          "confirmed": 610303,
           "date": "2021-11-05",
           "deaths": 9948
         }
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 603641,
+      "confirmed": 604586,
       "date": "2021-11-05",
-      "deaths": 15281
+      "deaths": 15338
     }
   },
   "Honduras": {
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412768,
+      "confirmed": 412793,
       "date": "2021-11-05",
       "deaths": 2462
     }
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 343261,
+      "confirmed": 344563,
       "date": "2021-11-05",
-      "deaths": 7958
+      "deaths": 8007
     }
   },
   "Mongolia": {
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 746380,
+          "confirmed": 748703,
           "date": "2021-11-05",
-          "deaths": 12286
+          "deaths": 12318
         }
       },
       "California": {
@@ -1548,7 +1548,7 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 198457,
+          "confirmed": 199049,
           "date": "2021-11-05",
           "deaths": 1180
         }
@@ -1562,9 +1562,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 152812,
+          "confirmed": 153151,
           "date": "2021-11-05",
-          "deaths": 1636
+          "deaths": 1637
         }
       }
     }
