@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 156363,
+      "confirmed": 156392,
       "date": "2021-11-05",
       "deaths": 7284
     }
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 201194,
+      "confirmed": 202629,
       "date": "2021-11-05",
-      "deaths": 1574
+      "deaths": 1581
     }
   },
   "Ethiopia": {
@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 885360,
+      "confirmed": 892164,
       "date": "2021-11-05",
-      "deaths": 31101
+      "deaths": 31184
     }
   },
   "India": {
@@ -1242,51 +1242,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1843362,
+          "confirmed": 1849769,
           "date": "2021-11-05",
-          "deaths": 31728
+          "deaths": 31821
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 529730,
+          "confirmed": 532565,
           "date": "2021-11-05",
-          "deaths": 8960
+          "deaths": 9015
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 194424,
+          "confirmed": 195216,
           "date": "2021-11-05",
-          "deaths": 7876
+          "deaths": 7916
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 158650,
+          "confirmed": 159300,
           "date": "2021-11-05",
-          "deaths": 7860
+          "deaths": 7886
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 721410,
+          "confirmed": 724773,
           "date": "2021-11-05",
-          "deaths": 24209
+          "deaths": 24298
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 160263,
+          "confirmed": 161001,
           "date": "2021-11-05",
-          "deaths": 7595
+          "deaths": 7623
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 157438,
+          "confirmed": 158236,
           "date": "2021-11-05",
-          "deaths": 4991
+          "deaths": 5012
         }
       }
     }
