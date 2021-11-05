@@ -1157,23 +1157,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 178319,
+          "confirmed": 178427,
           "date": "2021-11-05",
-          "deaths": 5757
+          "deaths": 5761
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 440678,
+          "confirmed": 440788,
           "date": "2021-11-05",
-          "deaths": 12936
+          "deaths": 12940
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 470978,
+          "confirmed": 471205,
           "date": "2021-11-05",
-          "deaths": 7579
+          "deaths": 7580
         }
       }
     }
@@ -1196,9 +1196,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 961121,
+          "confirmed": 962132,
           "date": "2021-11-05",
-          "deaths": 88746
+          "deaths": 88779
         }
       }
     }
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1943424,
+      "confirmed": 1951572,
       "date": "2021-11-05",
-      "deaths": 19462
+      "deaths": 19542
     }
   },
   "Tunisia": {
