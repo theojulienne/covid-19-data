@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 610303,
+          "confirmed": 610333,
           "date": "2021-11-05",
           "deaths": 9948
         }
@@ -875,7 +875,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169045,
+          "confirmed": 168950,
           "date": "2021-11-05",
           "deaths": 1310
         }
@@ -977,37 +977,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 219834,
+          "confirmed": 220239,
           "date": "2021-11-05",
-          "deaths": 3679
+          "deaths": 3685
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 220221,
+          "confirmed": 220775,
           "date": "2021-11-05",
-          "deaths": 2540
+          "deaths": 2541
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 243119,
+          "confirmed": 243615,
           "date": "2021-11-05",
-          "deaths": 1399
+          "deaths": 1415
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 718973,
+          "confirmed": 720048,
           "date": "2021-11-05",
-          "deaths": 9620
+          "deaths": 9625
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 194655,
+          "confirmed": 194856,
           "date": "2021-11-05",
-          "deaths": 2563
+          "deaths": 2568
         }
       }
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2923054,
+      "confirmed": 2923393,
       "date": "2021-11-05",
-      "deaths": 89251
+      "deaths": 89295
     }
   },
   "Spain": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1497454,
+          "confirmed": 1498248,
           "date": "2021-11-05",
-          "deaths": 39626
+          "deaths": 39627
         }
       },
       "North Carolina": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1671581,
+          "confirmed": 1671887,
           "date": "2021-11-05",
           "deaths": 24557
         }
