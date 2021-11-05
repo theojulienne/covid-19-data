@@ -15,9 +15,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 206878,
+      "confirmed": 206995,
       "date": "2021-11-05",
-      "deaths": 5936
+      "deaths": 5939
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 610153,
+          "confirmed": 610215,
           "date": "2021-11-05",
           "deaths": 9948
         }
@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 428059,
           "date": "2021-11-05",
-          "deaths": 11510
+          "deaths": 11511
         }
       }
     }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 340862,
+          "confirmed": 343855,
           "date": "2021-11-05",
-          "deaths": 10383
+          "deaths": 10397
         }
       },
       "Thuringen": {
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 767376,
+      "confirmed": 774265,
       "date": "2021-11-05",
-      "deaths": 16151
+      "deaths": 16200
     }
   },
   "Guatemala": {
@@ -877,21 +877,21 @@
         "live": {
           "confirmed": 169045,
           "date": "2021-11-05",
-          "deaths": 1308
+          "deaths": 1310
         }
       },
       "Osaka": {
         "live": {
           "confirmed": 202636,
           "date": "2021-11-05",
-          "deaths": 3048
+          "deaths": 3053
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381721,
+          "confirmed": 381746,
           "date": "2021-11-05",
-          "deaths": 3154
+          "deaths": 3155
         }
       }
     }
@@ -1219,9 +1219,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1094048,
+      "confirmed": 1095337,
       "date": "2021-11-05",
-      "deaths": 18184
+      "deaths": 18193
     }
   },
   "Qatar": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 543385,
+      "confirmed": 543867,
       "date": "2021-11-05",
-      "deaths": 13806
+      "deaths": 13821
     }
   },
   "Sweden": {
