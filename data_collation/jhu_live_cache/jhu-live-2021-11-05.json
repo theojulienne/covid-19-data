@@ -124,7 +124,7 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 187281,
+      "confirmed": 192935,
       "date": "2021-11-05",
       "deaths": 2407
     }
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1025990,
       "date": "2021-11-05",
-      "deaths": 17238
+      "deaths": 17263
     }
   },
   "Kenya": {
@@ -1330,65 +1330,65 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 809477,
+          "confirmed": 809895,
           "date": "2021-11-05",
-          "deaths": 11280
+          "deaths": 11286
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 163384,
+          "confirmed": 163500,
           "date": "2021-11-05",
-          "deaths": 3896
+          "deaths": 3901
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 516529,
+          "confirmed": 516875,
           "date": "2021-11-05",
-          "deaths": 7831
+          "deaths": 7833
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 240832,
+          "confirmed": 240965,
           "date": "2021-11-05",
-          "deaths": 6488
+          "deaths": 6492
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 302027,
+          "confirmed": 302181,
           "date": "2021-11-05",
-          "deaths": 7353
+          "deaths": 7356
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 932210,
+          "confirmed": 932744,
           "date": "2021-11-05",
-          "deaths": 15978
+          "deaths": 15981
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 187774,
+          "confirmed": 187867,
           "date": "2021-11-05",
           "deaths": 2650
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 900154,
+          "confirmed": 900622,
           "date": "2021-11-05",
-          "deaths": 16236
+          "deaths": 16238
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 264533,
+          "confirmed": 264834,
           "date": "2021-11-05",
-          "deaths": 5000
+          "deaths": 5001
         }
       }
     }
@@ -1508,7 +1508,7 @@
         "live": {
           "confirmed": 333926,
           "date": "2021-11-05",
-          "deaths": 6001
+          "deaths": 6014
         }
       },
       "New York": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 454799,
+      "confirmed": 455099,
       "date": "2021-11-05",
-      "deaths": 4697
+      "deaths": 4705
     }
   },
   "Zambia": {
