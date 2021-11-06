@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 366783,
+      "confirmed": 367062,
       "date": "2021-11-06",
-      "deaths": 6517
+      "deaths": 6531
     }
   },
   "Finland": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1333590,
+      "confirmed": 1333605,
       "date": "2021-11-06",
       "deaths": 8114
     }
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412793,
+      "confirmed": 412821,
       "date": "2021-11-06",
       "deaths": 2462
     }
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1672026,
+          "confirmed": 1672500,
           "date": "2021-11-06",
           "deaths": 24595
         }
