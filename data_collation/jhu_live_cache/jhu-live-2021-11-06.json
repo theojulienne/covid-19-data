@@ -1457,16 +1457,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 748703,
+          "confirmed": 750885,
           "date": "2021-11-06",
           "deaths": 12318
         }
       },
       "California": {
         "live": {
-          "confirmed": 3280594,
+          "confirmed": 3282210,
           "date": "2021-11-06",
-          "deaths": 52060
+          "deaths": 52081
         }
       },
       "Florida": {
