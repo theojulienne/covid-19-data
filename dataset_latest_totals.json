@@ -2,17 +2,17 @@
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 156166,
+        "confirmed": 156196,
         "deaths": 7268,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 155891,
+        "confirmed": 155931,
         "deaths": 7249,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 156363,
+        "confirmed": 156392,
         "deaths": 7284,
         "recovered": 0
       }
@@ -2210,18 +2210,18 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 211702,
-        "deaths": 3173,
+        "confirmed": 214460,
+        "deaths": 3198,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 194256,
-        "deaths": 2967,
+        "confirmed": 197389,
+        "deaths": 2992,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 226860,
-        "deaths": 3401,
+        "confirmed": 228681,
+        "deaths": 3444,
         "recovered": 0
       }
     },
@@ -2640,18 +2640,18 @@
     },
     "NPL": {
       "back_1week": {
-        "confirmed": 811407,
-        "deaths": 11382,
+        "confirmed": 811897,
+        "deaths": 11388,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 807522,
-        "deaths": 11326,
+        "confirmed": 808096,
+        "deaths": 11337,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 814115,
-        "deaths": 11436,
+        "confirmed": 814289,
+        "deaths": 11438,
         "recovered": 0
       }
     },

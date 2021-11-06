@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "live": {
-      "confirmed": 156392,
+      "confirmed": 156397,
       "date": "2021-11-06",
       "deaths": 7284
     }
@@ -947,9 +947,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 228681,
+      "confirmed": 230569,
       "date": "2021-11-06",
-      "deaths": 3444
+      "deaths": 3472
     }
   },
   "Lebanon": {
@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 814289,
+      "confirmed": 814417,
       "date": "2021-11-06",
-      "deaths": 11438
+      "deaths": 11439
     }
   },
   "Netherlands": {
