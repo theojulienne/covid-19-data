@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 202629,
+      "confirmed": 204148,
       "date": "2021-11-06",
-      "deaths": 1581
+      "deaths": 1598
     }
   },
   "Ethiopia": {
@@ -1235,51 +1235,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1849769,
+          "confirmed": 1856649,
           "date": "2021-11-06",
-          "deaths": 31821
+          "deaths": 31919
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 532565,
+          "confirmed": 535650,
           "date": "2021-11-06",
-          "deaths": 9015
+          "deaths": 9064
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 195216,
+          "confirmed": 196011,
           "date": "2021-11-06",
-          "deaths": 7916
+          "deaths": 7955
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 159300,
+          "confirmed": 159948,
           "date": "2021-11-06",
-          "deaths": 7886
+          "deaths": 7914
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 724773,
+          "confirmed": 727911,
           "date": "2021-11-06",
-          "deaths": 24298
+          "deaths": 24384
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 161001,
+          "confirmed": 161742,
           "date": "2021-11-06",
-          "deaths": 7623
+          "deaths": 7650
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 158236,
+          "confirmed": 159031,
           "date": "2021-11-06",
-          "deaths": 5012
+          "deaths": 5052
         }
       }
     }
@@ -1314,9 +1314,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 349996,
+      "confirmed": 353658,
       "date": "2021-11-06",
-      "deaths": 4806
+      "deaths": 4820
     }
   },
   "South Africa": {
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 713071,
+      "confirmed": 713154,
       "date": "2021-11-06",
-      "deaths": 25261
+      "deaths": 25267
     }
   },
   "Turkey": {
