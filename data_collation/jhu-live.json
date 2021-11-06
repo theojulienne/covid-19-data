@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277011,
+      "confirmed": 277041,
       "date": "2021-11-06",
       "deaths": 1393
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2923393,
+      "confirmed": 2923751,
       "date": "2021-11-06",
-      "deaths": 89295
+      "deaths": 89319
     }
   },
   "Spain": {
