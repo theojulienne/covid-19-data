@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 395797,
+      "confirmed": 398048,
       "date": "2021-11-06",
-      "deaths": 2722
+      "deaths": 2725
     }
   },
   "Dominican Republic": {
@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 198076,
+          "confirmed": 198519,
           "date": "2021-11-06",
-          "deaths": 4119
+          "deaths": 4121
         }
       },
       "Sachsen": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1693532,
+      "confirmed": 1701589,
       "date": "2021-11-06",
-      "deaths": 50087
+      "deaths": 50482
     }
   },
   "Russia": {
@@ -1691,9 +1691,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209852,
+      "confirmed": 209869,
       "date": "2021-11-06",
-      "deaths": 3662
+      "deaths": 3663
     }
   }
 }
