@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 386285,
+      "confirmed": 387269,
       "date": "2021-11-06",
-      "deaths": 4148
+      "deaths": 4150
     }
   },
   "Ecuador": {
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 344563,
+      "confirmed": 345517,
       "date": "2021-11-06",
-      "deaths": 8007
+      "deaths": 8056
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 205022,
+      "confirmed": 205623,
       "date": "2021-11-06",
-      "deaths": 7204
+      "deaths": 7217
     }
   },
   "Norway": {
