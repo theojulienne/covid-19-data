@@ -64,9 +64,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 612015,
+      "confirmed": 613927,
       "date": "2021-11-07",
-      "deaths": 4730
+      "deaths": 4745
     }
   },
   "Belgium": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2800621,
+      "confirmed": 2803213,
       "date": "2021-11-07",
-      "deaths": 44239
+      "deaths": 44430
     }
   },
   "Poland": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548890,
+      "confirmed": 548930,
       "date": "2021-11-07",
-      "deaths": 8803
+      "deaths": 8804
     }
   },
   "Serbia": {
@@ -1617,9 +1617,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 740362,
+      "confirmed": 740432,
       "date": "2021-11-07",
-      "deaths": 2139
+      "deaths": 2140
     }
   },
   "United Kingdom": {
