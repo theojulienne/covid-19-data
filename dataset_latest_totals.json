@@ -1632,18 +1632,18 @@
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 600419,
-        "deaths": 14993,
+        "confirmed": 601402,
+        "deaths": 15050,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 593459,
-        "deaths": 14615,
+        "confirmed": 594665,
+        "deaths": 14655,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 604586,
-        "deaths": 15338,
+        "confirmed": 605415,
+        "deaths": 15389,
         "recovered": 0
       }
     },

@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 605415,
+      "confirmed": 605664,
       "date": "2021-11-07",
-      "deaths": 15389
+      "deaths": 15437
     }
   },
   "Honduras": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1333949,
+      "confirmed": 1333989,
       "date": "2021-11-07",
       "deaths": 8122
     }
