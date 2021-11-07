@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 429318,
+          "confirmed": 429863,
           "date": "2021-11-07",
-          "deaths": 11515
+          "deaths": 11518
         }
       }
     }
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 461275,
+      "confirmed": 461313,
       "date": "2021-11-07",
-      "deaths": 16258
+      "deaths": 16259
     }
   },
   "Peru": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3282210,
+          "confirmed": 3283359,
           "date": "2021-11-07",
-          "deaths": 52081
+          "deaths": 52091
         }
       },
       "Florida": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1672500,
+          "confirmed": 1672835,
           "date": "2021-11-07",
-          "deaths": 24595
+          "deaths": 24619
         }
       },
       "Utah": {
