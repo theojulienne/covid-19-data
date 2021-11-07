@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 748751,
+      "confirmed": 752855,
       "date": "2021-11-07",
-      "deaths": 10368
+      "deaths": 10435
     }
   },
   "Germany": {
@@ -527,7 +527,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 231047,
+          "confirmed": 231175,
           "date": "2021-11-07",
           "deaths": 3735
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1333605,
+      "confirmed": 1333743,
       "date": "2021-11-07",
       "deaths": 8114
     }
@@ -1235,51 +1235,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1856649,
+          "confirmed": 1861624,
           "date": "2021-11-07",
-          "deaths": 31919
+          "deaths": 32015
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 535650,
+          "confirmed": 538947,
           "date": "2021-11-07",
-          "deaths": 9064
+          "deaths": 9120
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 196011,
+          "confirmed": 196801,
           "date": "2021-11-07",
-          "deaths": 7955
+          "deaths": 7994
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 159948,
+          "confirmed": 160595,
           "date": "2021-11-07",
-          "deaths": 7914
+          "deaths": 7943
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 727911,
+          "confirmed": 730462,
           "date": "2021-11-07",
-          "deaths": 24384
+          "deaths": 24467
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 161742,
+          "confirmed": 162479,
           "date": "2021-11-07",
-          "deaths": 7650
+          "deaths": 7677
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 159031,
+          "confirmed": 159827,
           "date": "2021-11-07",
-          "deaths": 5052
+          "deaths": 5080
         }
       }
     }
@@ -1314,9 +1314,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 353660,
+      "confirmed": 355973,
       "date": "2021-11-07",
-      "deaths": 4820
+      "deaths": 4830
     }
   },
   "South Africa": {
