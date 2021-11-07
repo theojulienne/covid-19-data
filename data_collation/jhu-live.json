@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 875333,
+      "confirmed": 883887,
       "date": "2021-11-07",
-      "deaths": 11482
+      "deaths": 11502
     }
   },
   "Azerbaijan": {
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 204148,
+      "confirmed": 205096,
       "date": "2021-11-07",
-      "deaths": 1598
+      "deaths": 1610
     }
   },
   "Ethiopia": {
@@ -961,9 +961,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 360266,
+      "confirmed": 360914,
       "date": "2021-11-07",
-      "deaths": 5186
+      "deaths": 5207
     }
   },
   "Lithuania": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304329,
+      "confirmed": 304365,
       "date": "2021-11-07",
       "deaths": 4112
     }
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1498248,
+          "confirmed": 1499105,
           "date": "2021-11-07",
-          "deaths": 39627
+          "deaths": 39629
         }
       },
       "North Carolina": {
