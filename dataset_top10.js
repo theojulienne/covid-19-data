@@ -20796,7 +20796,8 @@ var covid19_dataset_top10 = {
     "2021-11-04",
     "2021-11-05",
     "2021-11-06",
-    "2021-11-07"
+    "2021-11-07",
+    "2021-11-08"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});
