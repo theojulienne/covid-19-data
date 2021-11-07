@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1333743,
+      "confirmed": 1333949,
       "date": "2021-11-07",
-      "deaths": 8114
+      "deaths": 8122
     }
   },
   "Italy": {
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 345517,
+      "confirmed": 345964,
       "date": "2021-11-07",
-      "deaths": 8056
+      "deaths": 8099
     }
   },
   "Mongolia": {
@@ -1395,7 +1395,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 545088,
+      "confirmed": 545256,
       "date": "2021-11-07",
       "deaths": 13856
     }
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8206345,
+      "confirmed": 8233649,
       "date": "2021-11-07",
-      "deaths": 71927
+      "deaths": 72127
     }
   },
   "US": {
