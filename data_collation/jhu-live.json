@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 205096,
+      "confirmed": 205883,
       "date": "2021-11-08",
-      "deaths": 1610
+      "deaths": 1617
     }
   },
   "Ethiopia": {
@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 892164,
+      "confirmed": 909998,
       "date": "2021-11-08",
-      "deaths": 31184
+      "deaths": 31398
     }
   },
   "India": {
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1333989,
+      "confirmed": 1334342,
       "date": "2021-11-08",
-      "deaths": 8122
+      "deaths": 8123
     }
   },
   "Italy": {
@@ -1235,51 +1235,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1861624,
+          "confirmed": 1866606,
           "date": "2021-11-08",
-          "deaths": 32015
+          "deaths": 32112
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 538947,
+          "confirmed": 542376,
           "date": "2021-11-08",
-          "deaths": 9120
+          "deaths": 9179
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 196801,
+          "confirmed": 197588,
           "date": "2021-11-08",
-          "deaths": 7994
+          "deaths": 8033
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 160595,
+          "confirmed": 161244,
           "date": "2021-11-08",
-          "deaths": 7943
+          "deaths": 7963
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 730462,
+          "confirmed": 733059,
           "date": "2021-11-08",
-          "deaths": 24467
+          "deaths": 24552
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 162479,
+          "confirmed": 163211,
           "date": "2021-11-08",
-          "deaths": 7677
+          "deaths": 7705
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 159827,
+          "confirmed": 160626,
           "date": "2021-11-08",
-          "deaths": 5080
+          "deaths": 5121
         }
       }
     }
