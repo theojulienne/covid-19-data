@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 661002,
+          "confirmed": 663168,
           "date": "2021-11-08",
-          "deaths": 11097
+          "deaths": 11102
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 862562,
+          "confirmed": 868343,
           "date": "2021-11-08",
-          "deaths": 16254
+          "deaths": 16266
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 231175,
+          "confirmed": 231266,
           "date": "2021-11-08",
           "deaths": 3735
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 364880,
+          "confirmed": 365463,
           "date": "2021-11-08",
           "deaths": 7903
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 329167,
+          "confirmed": 329619,
           "date": "2021-11-08",
-          "deaths": 6114
+          "deaths": 6118
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1036806,
+          "confirmed": 1038175,
           "date": "2021-11-08",
-          "deaths": 18335
+          "deaths": 18340
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 198919,
+          "confirmed": 198926,
           "date": "2021-11-08",
           "deaths": 4121
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 349013,
+          "confirmed": 349017,
           "date": "2021-11-08",
           "deaths": 10404
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 161588,
+          "confirmed": 162043,
           "date": "2021-11-08",
-          "deaths": 4567
+          "deaths": 4570
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1028928,
+      "confirmed": 1029986,
       "date": "2021-11-08",
       "deaths": 17263
     }
