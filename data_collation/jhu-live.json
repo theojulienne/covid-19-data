@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5987814,
+      "confirmed": 5996155,
       "date": "2021-11-08",
-      "deaths": 127299
+      "deaths": 127439
     }
   },
   "Iraq": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2803213,
+      "confirmed": 2805294,
       "date": "2021-11-08",
-      "deaths": 44430
+      "deaths": 44521
     }
   },
   "Poland": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1706882,
+      "confirmed": 1711137,
       "date": "2021-11-08",
-      "deaths": 50755
+      "deaths": 50996
     }
   },
   "Russia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 887446,
       "date": "2021-11-08",
-      "deaths": 11277
+      "deaths": 11278
     }
   },
   "Thailand": {
