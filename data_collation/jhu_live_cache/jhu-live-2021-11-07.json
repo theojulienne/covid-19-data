@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5296188,
+      "confirmed": 5296781,
       "date": "2021-11-07",
-      "deaths": 116091
+      "deaths": 116104
     }
   },
   "Armenia": {
@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 517229,
+      "confirmed": 517902,
       "date": "2021-11-07",
-      "deaths": 18960
+      "deaths": 18964
     }
   },
   "Bosnia and Herzegovina": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 631506,
+      "confirmed": 632762,
       "date": "2021-11-07",
-      "deaths": 25005
+      "deaths": 25074
     }
   },
   "Burma": {
@@ -369,49 +369,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 758592,
+          "confirmed": 758989,
           "date": "2021-11-07",
           "deaths": 16345
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 331826,
+          "confirmed": 332235,
           "date": "2021-11-07",
           "deaths": 9593
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 158549,
+          "confirmed": 158652,
           "date": "2021-11-07",
           "deaths": 2992
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1456130,
+          "confirmed": 1456382,
           "date": "2021-11-07",
           "deaths": 27562
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 264586,
+          "confirmed": 264623,
           "date": "2021-11-07",
           "deaths": 6832
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 226858,
+          "confirmed": 226950,
           "date": "2021-11-07",
           "deaths": 7321
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 412342,
+          "confirmed": 412491,
           "date": "2021-11-07",
           "deaths": 13054
         }
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 645805,
+      "confirmed": 646629,
       "date": "2021-11-07",
-      "deaths": 8540
+      "deaths": 8546
     }
   },
   "Libya": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 215857,
+      "confirmed": 216398,
       "date": "2021-11-07",
       "deaths": 922
     }
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 713254,
+      "confirmed": 713308,
       "date": "2021-11-07",
-      "deaths": 25272
+      "deaths": 25276
     }
   },
   "Turkey": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1499105,
+          "confirmed": 1499857,
           "date": "2021-11-07",
-          "deaths": 39629
+          "deaths": 39631
         }
       },
       "North Carolina": {
