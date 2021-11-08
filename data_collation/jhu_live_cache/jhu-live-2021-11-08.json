@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 974295,
+          "confirmed": 974577,
           "date": "2021-11-08",
-          "deaths": 39933
+          "deaths": 39948
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 190649,
+          "confirmed": 190739,
           "date": "2021-11-08",
-          "deaths": 12661
+          "deaths": 12665
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 161673,
+          "confirmed": 161699,
           "date": "2021-11-08",
-          "deaths": 17293
+          "deaths": 17302
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 375464,
+          "confirmed": 375577,
           "date": "2021-11-08",
-          "deaths": 44011
+          "deaths": 44017
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 204706,
+          "confirmed": 204740,
           "date": "2021-11-08",
-          "deaths": 13060
+          "deaths": 13062
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 366962,
+      "confirmed": 367412,
       "date": "2021-11-08",
-      "deaths": 1809
+      "deaths": 1817
     }
   },
   "Morocco": {
@@ -1150,32 +1150,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 178577,
+          "confirmed": 178643,
           "date": "2021-11-08",
-          "deaths": 5769
+          "deaths": 5774
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 441051,
+          "confirmed": 441176,
           "date": "2021-11-08",
-          "deaths": 12946
+          "deaths": 12949
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 471733,
+          "confirmed": 471963,
           "date": "2021-11-08",
-          "deaths": 7595
+          "deaths": 7596
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 473303,
+      "confirmed": 473416,
       "date": "2021-11-08",
-      "deaths": 7325
+      "deaths": 7329
     }
   },
   "Paraguay": {

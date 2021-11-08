@@ -1315,6 +1315,7 @@ var covid19_dataset_country_gab = {
       36020,
       36020,
       36020,
+      36174,
       36174
     ],
     "deaths": [
@@ -1972,6 +1973,7 @@ var covid19_dataset_country_gab = {
       249,
       249,
       249,
+      254,
       254
     ],
     "recovered": [
@@ -2536,6 +2538,7 @@ var covid19_dataset_country_gab = {
       25191,
       25191,
       25228,
+      0,
       0,
       0,
       0,
