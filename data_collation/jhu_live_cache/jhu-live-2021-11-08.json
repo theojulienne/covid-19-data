@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 605664,
+      "confirmed": 605749,
       "date": "2021-11-08",
-      "deaths": 15437
+      "deaths": 15474
     }
   },
   "Honduras": {
@@ -1316,7 +1316,7 @@
     "live": {
       "confirmed": 357262,
       "date": "2021-11-08",
-      "deaths": 4842
+      "deaths": 4843
     }
   },
   "South Africa": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 646922,
+          "confirmed": 649407,
           "date": "2021-11-08",
-          "deaths": 11328
+          "deaths": 11337
         }
       },
       "Massachusetts": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 168168,
+          "confirmed": 168363,
           "date": "2021-11-08",
           "deaths": 1759
         }
