@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 962132,
+          "confirmed": 963492,
           "date": "2021-11-08",
-          "deaths": 88779
+          "deaths": 88811
         }
       }
     }
