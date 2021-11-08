@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277081,
+      "confirmed": 277098,
       "date": "2021-11-08",
       "deaths": 1393
     }
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 611842,
+          "confirmed": 611932,
           "date": "2021-11-08",
           "deaths": 9952
         }
@@ -864,9 +864,9 @@
       },
       "Veneto": {
         "live": {
-          "confirmed": 484946,
+          "confirmed": 485378,
           "date": "2021-11-08",
-          "deaths": 11854
+          "deaths": 11849
         }
       }
     }
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412844,
+      "confirmed": 412869,
       "date": "2021-11-08",
       "deaths": 2462
     }
