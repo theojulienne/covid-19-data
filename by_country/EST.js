@@ -1317,8 +1317,7 @@ var covid19_dataset_country_est = {
       201194,
       202629,
       204148,
-      205096,
-      205883
+      205096
     ],
     "deaths": [
       0,
@@ -1976,8 +1975,7 @@ var covid19_dataset_country_est = {
       1574,
       1581,
       1598,
-      1610,
-      1617
+      1610
     ],
     "recovered": [
       0,
