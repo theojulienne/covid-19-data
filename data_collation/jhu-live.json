@@ -43,9 +43,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 548591,
+      "confirmed": 550446,
       "date": "2021-11-09",
-      "deaths": 7293
+      "deaths": 7320
     }
   },
   "Bahrain": {
@@ -57,9 +57,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1571228,
+      "confirmed": 1571434,
       "date": "2021-11-09",
-      "deaths": 27901
+      "deaths": 27904
     }
   },
   "Belarus": {
@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 5996155,
+      "confirmed": 6004460,
       "date": "2021-11-09",
-      "deaths": 127439
+      "deaths": 127551
     }
   },
   "Iraq": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 548973,
+      "confirmed": 549022,
       "date": "2021-11-09",
-      "deaths": 8805
+      "deaths": 8806
     }
   },
   "Serbia": {
@@ -1427,9 +1427,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 894093,
+      "confirmed": 897078,
       "date": "2021-11-09",
-      "deaths": 11292
+      "deaths": 11293
     }
   },
   "Thailand": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 740500,
+      "confirmed": 740572,
       "date": "2021-11-09",
       "deaths": 2142
     }
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 976672,
+      "confirmed": 984805,
       "date": "2021-11-09",
-      "deaths": 22598
+      "deaths": 22686
     }
   },
   "West Bank and Gaza": {
