@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 612297,
+          "confirmed": 612363,
           "date": "2021-11-09",
-          "deaths": 9955
+          "deaths": 9958
         }
       },
       "Quebec": {
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 367369,
+      "confirmed": 367647,
       "date": "2021-11-09",
-      "deaths": 6551
+      "deaths": 6561
     }
   },
   "Finland": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1335183,
+      "confirmed": 1335184,
       "date": "2021-11-09",
       "deaths": 8130
     }
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 200328,
+          "confirmed": 200859,
           "date": "2021-11-09",
-          "deaths": 1180
+          "deaths": 1182
         }
       },
       "Washington": {
