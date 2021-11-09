@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 612249,
+          "confirmed": 612263,
           "date": "2021-11-09",
           "deaths": 9954
         }
@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 430394,
           "date": "2021-11-09",
-          "deaths": 11522
+          "deaths": 11528
         }
       }
     }
@@ -513,9 +513,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 666589,
+          "confirmed": 673455,
           "date": "2021-11-09",
-          "deaths": 11126
+          "deaths": 11164
         }
       },
       "Bayern": {
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 792239,
+      "confirmed": 801208,
       "date": "2021-11-09",
-      "deaths": 16361
+      "deaths": 16414
     }
   },
   "Guatemala": {
@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 471723,
+          "confirmed": 472216,
           "date": "2021-11-09",
-          "deaths": 8093
+          "deaths": 8107
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 435837,
+          "confirmed": 436293,
           "date": "2021-11-09",
-          "deaths": 13627
+          "deaths": 13629
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 399768,
+          "confirmed": 400541,
           "date": "2021-11-09",
-          "deaths": 8839
+          "deaths": 8851
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 899081,
+          "confirmed": 899930,
           "date": "2021-11-09",
-          "deaths": 34201
+          "deaths": 34205
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 387153,
+          "confirmed": 387571,
           "date": "2021-11-09",
-          "deaths": 11828
+          "deaths": 11835
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 274354,
+          "confirmed": 274595,
           "date": "2021-11-09",
-          "deaths": 6852
+          "deaths": 6853
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 311575,
+          "confirmed": 312079,
           "date": "2021-11-09",
-          "deaths": 7049
+          "deaths": 7060
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 292182,
+          "confirmed": 292416,
           "date": "2021-11-09",
-          "deaths": 7308
+          "deaths": 7311
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 485378,
+          "confirmed": 486261,
           "date": "2021-11-09",
-          "deaths": 11849
+          "deaths": 11856
         }
       }
     }
@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 240247,
+      "confirmed": 240385,
       "date": "2021-11-09",
       "deaths": 611
     }
@@ -1541,9 +1541,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 183863,
+          "confirmed": 184083,
           "date": "2021-11-09",
-          "deaths": 4036
+          "deaths": 4039
         }
       },
       "Texas": {
@@ -1633,30 +1633,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 7925681,
+          "confirmed": 7953228,
           "date": "2021-11-09",
-          "deaths": 123570
+          "deaths": 123800
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 284231,
+          "confirmed": 285459,
           "date": "2021-11-09",
-          "deaths": 2762
+          "deaths": 2769
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 664654,
+          "confirmed": 666880,
           "date": "2021-11-09",
-          "deaths": 9293
+          "deaths": 9313
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 459325,
+          "confirmed": 461109,
           "date": "2021-11-09",
-          "deaths": 6237
+          "deaths": 6242
         }
       }
     }
