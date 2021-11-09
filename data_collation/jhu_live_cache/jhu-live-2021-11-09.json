@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 518266,
+      "confirmed": 518870,
       "date": "2021-11-09",
-      "deaths": 18967
+      "deaths": 18970
     }
   },
   "Bosnia and Herzegovina": {
@@ -940,9 +940,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 181882,
+      "confirmed": 181936,
       "date": "2021-11-09",
-      "deaths": 2689
+      "deaths": 2691
     }
   },
   "Latvia": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 188169,
+      "confirmed": 188398,
       "date": "2021-11-09",
-      "deaths": 1340
+      "deaths": 1343
     }
   },
   "Venezuela": {
