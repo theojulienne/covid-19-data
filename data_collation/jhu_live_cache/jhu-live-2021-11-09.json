@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 755046,
+      "confirmed": 761067,
       "date": "2021-11-09",
-      "deaths": 10509
+      "deaths": 10584
     }
   },
   "Germany": {
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1975591,
+      "confirmed": 1982495,
       "date": "2021-11-09",
-      "deaths": 19703
+      "deaths": 19764
     }
   },
   "Tunisia": {
