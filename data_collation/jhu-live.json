@@ -3,7 +3,7 @@
     "live": {
       "confirmed": 156397,
       "date": "2021-11-09",
-      "deaths": 7288
+      "deaths": 7290
     }
   },
   "Albania": {
@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 502569,
+      "confirmed": 507535,
       "date": "2021-11-09",
-      "deaths": 9546
+      "deaths": 9605
     }
   },
   "Cuba": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1711137,
+      "confirmed": 1718726,
       "date": "2021-11-09",
-      "deaths": 50996
+      "deaths": 51483
     }
   },
   "Russia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 894093,
       "date": "2021-11-09",
-      "deaths": 11290
+      "deaths": 11292
     }
   },
   "Thailand": {
@@ -1691,7 +1691,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209908,
+      "confirmed": 209918,
       "date": "2021-11-09",
       "deaths": 3664
     }
