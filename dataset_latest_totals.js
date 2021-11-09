@@ -2414,13 +2414,13 @@ var covid19_dataset_latest_totals = {
     },
     "MNG": {
       "back_1week": {
-        "confirmed": 360317,
-        "deaths": 1745,
+        "confirmed": 361338,
+        "deaths": 1755,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 349509,
-        "deaths": 1660,
+        "confirmed": 351835,
+        "deaths": 1677,
         "recovered": 0
       },
       "latest": {
