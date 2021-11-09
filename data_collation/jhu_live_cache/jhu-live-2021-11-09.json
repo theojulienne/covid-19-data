@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 759335,
           "date": "2021-11-09",
-          "deaths": 16354
+          "deaths": 16362
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 332528,
           "date": "2021-11-09",
-          "deaths": 9598
+          "deaths": 9603
         }
       },
       "Bolivar": {
@@ -392,7 +392,7 @@
         "live": {
           "confirmed": 1456599,
           "date": "2021-11-09",
-          "deaths": 27565
+          "deaths": 27567
         }
       },
       "Cundinamarca": {
@@ -406,7 +406,7 @@
         "live": {
           "confirmed": 227027,
           "date": "2021-11-09",
-          "deaths": 7322
+          "deaths": 7323
         }
       },
       "Valle del Cauca": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 562316,
+      "confirmed": 562966,
       "date": "2021-11-09",
-      "deaths": 7134
+      "deaths": 7164
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 337485,
+      "confirmed": 338414,
       "date": "2021-11-09",
-      "deaths": 19076
+      "deaths": 19130
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 381694,
+      "confirmed": 383407,
       "date": "2021-11-09",
-      "deaths": 2980
+      "deaths": 2998
     }
   },
   "Kosovo": {
@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 212713,
+      "confirmed": 212765,
       "date": "2021-11-09",
       "deaths": 2906
     }
@@ -1457,16 +1457,16 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 752986,
+          "confirmed": 754747,
           "date": "2021-11-09",
           "deaths": 12352
         }
       },
       "California": {
         "live": {
-          "confirmed": 3290494,
+          "confirmed": 3291482,
           "date": "2021-11-09",
-          "deaths": 52145
+          "deaths": 52147
         }
       },
       "Florida": {
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 395268,
+      "confirmed": 395410,
       "date": "2021-11-09",
-      "deaths": 6086
+      "deaths": 6088
     }
   },
   "Uzbekistan": {
