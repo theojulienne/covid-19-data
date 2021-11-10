@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 899777,
+      "confirmed": 911175,
       "date": "2021-11-10",
-      "deaths": 11554
+      "deaths": 11577
     }
   },
   "Azerbaijan": {
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3125179,
+      "confirmed": 3143725,
       "date": "2021-11-10",
-      "deaths": 77980
+      "deaths": 78250
     }
   },
   "Portugal": {
@@ -1307,16 +1307,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 526608,
+      "confirmed": 533663,
       "date": "2021-11-10",
-      "deaths": 13314
+      "deaths": 13367
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 360614,
+      "confirmed": 365095,
       "date": "2021-11-10",
-      "deaths": 4855
+      "deaths": 4875
     }
   },
   "South Africa": {
