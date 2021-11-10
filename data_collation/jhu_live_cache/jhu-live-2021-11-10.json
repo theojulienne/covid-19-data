@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 508591,
+      "confirmed": 509771,
       "date": "2021-11-10",
-      "deaths": 18855
+      "deaths": 18869
     }
   },
   "Canada": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 612703,
+          "confirmed": 612708,
           "date": "2021-11-10",
           "deaths": 9963
         }
@@ -351,16 +351,16 @@
     "subseries": {
       "Biobio": {
         "live": {
-          "confirmed": 155012,
+          "confirmed": 155228,
           "date": "2021-11-10",
           "deaths": 2706
         }
       },
       "Metropolitana": {
         "live": {
-          "confirmed": 724575,
+          "confirmed": 725622,
           "date": "2021-11-10",
-          "deaths": 19428
+          "deaths": 19440
         }
       }
     }
@@ -555,16 +555,16 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 201133,
+          "confirmed": 202494,
           "date": "2021-11-10",
-          "deaths": 4138
+          "deaths": 4145
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 354272,
+          "confirmed": 359910,
           "date": "2021-11-10",
-          "deaths": 10423
+          "deaths": 10468
         }
       },
       "Thuringen": {
@@ -792,9 +792,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 477878,
+      "confirmed": 480846,
       "date": "2021-11-10",
-      "deaths": 5492
+      "deaths": 5566
     }
   },
   "Israel": {
@@ -984,21 +984,21 @@
       },
       "Sabah": {
         "live": {
-          "confirmed": 222877,
+          "confirmed": 222658,
           "date": "2021-11-10",
           "deaths": 2559
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 245442,
+          "confirmed": 245375,
           "date": "2021-11-10",
           "deaths": 1464
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 724102,
+          "confirmed": 723981,
           "date": "2021-11-10",
           "deaths": 9657
         }
@@ -1083,35 +1083,42 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 251604,
+          "confirmed": 253237,
           "date": "2021-11-10",
-          "deaths": 2165
+          "deaths": 2172
+        }
+      },
+      "Limburg": {
+        "live": {
+          "confirmed": 154698,
+          "date": "2021-11-10",
+          "deaths": 1771
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 342635,
+          "confirmed": 344241,
           "date": "2021-11-10",
-          "deaths": 3222
+          "deaths": 3229
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 373119,
+          "confirmed": 374856,
           "date": "2021-11-10",
-          "deaths": 2780
+          "deaths": 2782
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 172638,
+          "confirmed": 173684,
           "date": "2021-11-10",
-          "deaths": 1327
+          "deaths": 1328
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 525843,
+          "confirmed": 528610,
           "date": "2021-11-10",
           "deaths": 4467
         }
@@ -1293,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1192476,
+      "confirmed": 1197082,
       "date": "2021-11-10",
-      "deaths": 10534
+      "deaths": 10595
     }
   },
   "Singapore": {
@@ -1611,13 +1618,6 @@
           "confirmed": 209921,
           "date": "2021-11-10",
           "deaths": 4449
-        }
-      },
-      "Zaporizhia Oblast": {
-        "live": {
-          "confirmed": 153569,
-          "date": "2021-11-10",
-          "deaths": 3647
         }
       }
     }
