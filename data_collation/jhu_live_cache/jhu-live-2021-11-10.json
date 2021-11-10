@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 612779,
+          "confirmed": 612794,
           "date": "2021-11-10",
           "deaths": 9963
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 430939,
+          "confirmed": 431611,
           "date": "2021-11-10",
           "deaths": 11529
         }
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 606743,
+      "confirmed": 607497,
       "date": "2021-11-10",
-      "deaths": 15520
+      "deaths": 15578
     }
   },
   "Honduras": {
@@ -977,37 +977,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 221702,
+          "confirmed": 222187,
           "date": "2021-11-10",
-          "deaths": 3705
+          "deaths": 3707
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 222658,
+          "confirmed": 223231,
           "date": "2021-11-10",
-          "deaths": 2559
+          "deaths": 2570
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 245375,
+          "confirmed": 245855,
           "date": "2021-11-10",
-          "deaths": 1464
+          "deaths": 1476
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 723981,
+          "confirmed": 725578,
           "date": "2021-11-10",
-          "deaths": 9657
+          "deaths": 9660
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 195939,
+          "confirmed": 196262,
           "date": "2021-11-10",
-          "deaths": 2572
+          "deaths": 2575
         }
       }
     }
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 348588,
+      "confirmed": 349568,
       "date": "2021-11-10",
-      "deaths": 8193
+      "deaths": 8253
     }
   },
   "Mongolia": {
@@ -1187,9 +1187,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 461413,
+      "confirmed": 461466,
       "date": "2021-11-10",
-      "deaths": 16266
+      "deaths": 16272
     }
   },
   "Peru": {
@@ -1534,14 +1534,14 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 168728,
+          "confirmed": 169123,
           "date": "2021-11-10",
           "deaths": 1766
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 185405,
+          "confirmed": 185978,
           "date": "2021-11-10",
           "deaths": 4047
         }
@@ -1569,9 +1569,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 154029,
+          "confirmed": 154555,
           "date": "2021-11-10",
-          "deaths": 1652
+          "deaths": 1654
         }
       }
     }
