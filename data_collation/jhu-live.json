@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 190125,
+      "confirmed": 190815,
       "date": "2021-11-10",
-      "deaths": 2970
+      "deaths": 2975
     }
   },
   "Algeria": {
@@ -455,9 +455,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 390058,
+      "confirmed": 391104,
       "date": "2021-11-10",
-      "deaths": 4154
+      "deaths": 4157
     }
   },
   "Ecuador": {
@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7051795,
+      "confirmed": 7062794,
       "date": "2021-11-10",
-      "deaths": 115597
+      "deaths": 115630
     }
   },
   "Georgia": {
@@ -1134,9 +1134,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 206910,
+      "confirmed": 207566,
       "date": "2021-11-10",
-      "deaths": 7255
+      "deaths": 7276
     }
   },
   "Norway": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8290135,
+      "confirmed": 8317394,
       "date": "2021-11-10",
-      "deaths": 72510
+      "deaths": 72713
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3142593,
+          "confirmed": 3142811,
           "date": "2021-11-10",
-          "deaths": 50032
+          "deaths": 50043
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 649958,
+          "confirmed": 651472,
           "date": "2021-11-10",
-          "deaths": 11347
+          "deaths": 11355
         }
       },
       "Massachusetts": {
@@ -1513,16 +1513,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 335869,
+          "confirmed": 336228,
           "date": "2021-11-10",
-          "deaths": 6036
+          "deaths": 6044
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1503988,
+          "confirmed": 1504620,
           "date": "2021-11-10",
-          "deaths": 39654
+          "deaths": 39663
         }
       },
       "North Carolina": {
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1676161,
+          "confirmed": 1676511,
           "date": "2021-11-10",
-          "deaths": 24687
+          "deaths": 24702
         }
       },
       "Utah": {
