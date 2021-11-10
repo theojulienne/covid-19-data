@@ -73,35 +73,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 195322,
+          "confirmed": 196949,
           "date": "2021-11-10",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 188865,
+          "confirmed": 189793,
           "date": "2021-11-10",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 160479,
+          "confirmed": 161901,
           "date": "2021-11-10",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 190258,
+          "confirmed": 190930,
           "date": "2021-11-10",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 174809,
+          "confirmed": 175759,
           "date": "2021-11-10",
           "deaths": 0
         }
@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 914586,
+      "confirmed": 923020,
       "date": "2021-11-10",
-      "deaths": 31521
+      "deaths": 31619
     }
   },
   "India": {
@@ -968,9 +968,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 430855,
+      "confirmed": 434033,
       "date": "2021-11-10",
-      "deaths": 6175
+      "deaths": 6214
     }
   },
   "Malaysia": {
@@ -1235,51 +1235,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1871893,
+          "confirmed": 1875820,
           "date": "2021-11-10",
-          "deaths": 32207
+          "deaths": 32305
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 545194,
+          "confirmed": 547843,
           "date": "2021-11-10",
-          "deaths": 9241
+          "deaths": 9296
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 198366,
+          "confirmed": 199147,
           "date": "2021-11-10",
-          "deaths": 8071
+          "deaths": 8111
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 161890,
+          "confirmed": 162538,
           "date": "2021-11-10",
-          "deaths": 7981
+          "deaths": 8013
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 735739,
+          "confirmed": 738681,
           "date": "2021-11-10",
-          "deaths": 24640
+          "deaths": 24722
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 163940,
+          "confirmed": 164674,
           "date": "2021-11-10",
-          "deaths": 7734
+          "deaths": 7763
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 161419,
+          "confirmed": 162203,
           "date": "2021-11-10",
-          "deaths": 5156
+          "deaths": 5186
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 897078,
       "date": "2021-11-10",
-      "deaths": 11295
+      "deaths": 11297
     }
   },
   "Thailand": {
