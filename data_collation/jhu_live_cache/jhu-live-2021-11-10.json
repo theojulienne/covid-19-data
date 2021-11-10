@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 612392,
+          "confirmed": 612703,
           "date": "2021-11-10",
-          "deaths": 9958
+          "deaths": 9963
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 407417,
+      "confirmed": 410434,
       "date": "2021-11-10",
-      "deaths": 2742
+      "deaths": 2745
     }
   },
   "Dominican Republic": {
@@ -520,9 +520,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 884809,
+          "confirmed": 885064,
           "date": "2021-11-10",
-          "deaths": 16363
+          "deaths": 16364
         }
       },
       "Berlin": {
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2065127,
+      "confirmed": 2066042,
       "date": "2021-11-10",
-      "deaths": 23399
+      "deaths": 23415
     }
   },
   "Ireland": {
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 253879,
+      "confirmed": 254057,
       "date": "2021-11-10",
       "deaths": 5314
     }
@@ -926,7 +926,7 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160891,
+      "confirmed": 160905,
       "date": "2021-11-10",
       "deaths": 2978
     }
@@ -1286,7 +1286,7 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549059,
+      "confirmed": 549060,
       "date": "2021-11-10",
       "deaths": 8807
     }
@@ -1404,23 +1404,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 167333,
+          "confirmed": 167528,
           "date": "2021-11-10",
           "deaths": 1799
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 281926,
+          "confirmed": 282198,
           "date": "2021-11-10",
-          "deaths": 4503
+          "deaths": 4511
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 205276,
+          "confirmed": 205467,
           "date": "2021-11-10",
-          "deaths": 2443
+          "deaths": 2444
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 901223,
       "date": "2021-11-10",
-      "deaths": 11303
+      "deaths": 11306
     }
   },
   "Thailand": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1675311,
+          "confirmed": 1676161,
           "date": "2021-11-10",
           "deaths": 24687
         }
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209918,
+      "confirmed": 209939,
       "date": "2021-11-10",
       "deaths": 3664
     }
