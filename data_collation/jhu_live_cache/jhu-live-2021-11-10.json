@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 638048,
+      "confirmed": 643003,
       "date": "2021-11-10",
-      "deaths": 25408
+      "deaths": 25555
     }
   },
   "Burma": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 605749,
+      "confirmed": 606743,
       "date": "2021-11-10",
-      "deaths": 15474
+      "deaths": 15520
     }
   },
   "Honduras": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 383407,
+      "confirmed": 385831,
       "date": "2021-11-10",
-      "deaths": 2998
+      "deaths": 3012
     }
   },
   "Kosovo": {
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 646869,
+      "confirmed": 647778,
       "date": "2021-11-10",
-      "deaths": 8551
+      "deaths": 8556
     }
   },
   "Libya": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 546473,
+      "confirmed": 546653,
       "date": "2021-11-10",
       "deaths": 13892
     }
@@ -1562,9 +1562,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 167511,
+          "confirmed": 167673,
           "date": "2021-11-10",
-          "deaths": 2020
+          "deaths": 2023
         }
       },
       "Wisconsin": {
