@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 168996,
+          "confirmed": 169010,
           "date": "2021-11-10",
           "deaths": 1311
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202735,
+          "confirmed": 202761,
           "date": "2021-11-10",
-          "deaths": 3054
+          "deaths": 3055
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381844,
+          "confirmed": 381869,
           "date": "2021-11-10",
           "deaths": 3157
         }
@@ -898,9 +898,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 880943,
+      "confirmed": 883446,
       "date": "2021-11-10",
-      "deaths": 11156
+      "deaths": 11167
     }
   },
   "Kazakhstan": {
@@ -1219,9 +1219,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1099307,
+      "confirmed": 1100961,
       "date": "2021-11-10",
-      "deaths": 18217
+      "deaths": 18222
     }
   },
   "Qatar": {
@@ -1434,7 +1434,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 901223,
+      "confirmed": 901228,
       "date": "2021-11-10",
       "deaths": 11306
     }
