@@ -29,9 +29,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 322364,
+      "confirmed": 324039,
       "date": "2021-11-10",
-      "deaths": 6762
+      "deaths": 6831
     }
   },
   "Austria": {
@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 761067,
+      "confirmed": 766818,
       "date": "2021-11-10",
-      "deaths": 10584
+      "deaths": 10662
     }
   },
   "Germany": {
@@ -1088,13 +1088,6 @@
           "deaths": 2165
         }
       },
-      "Limburg": {
-        "live": {
-          "confirmed": 153434,
-          "date": "2021-11-10",
-          "deaths": 1766
-        }
-      },
       "Noord-Brabant": {
         "live": {
           "confirmed": 342635,
@@ -1580,44 +1573,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 204245,
+          "confirmed": 206037,
           "date": "2021-11-10",
-          "deaths": 6382
+          "deaths": 6442
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 219132,
+          "confirmed": 220851,
           "date": "2021-11-10",
-          "deaths": 4917
+          "deaths": 4941
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 271028,
+          "confirmed": 272768,
           "date": "2021-11-10",
-          "deaths": 6604
+          "deaths": 6677
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 157913,
+          "confirmed": 158929,
           "date": "2021-11-10",
-          "deaths": 3548
+          "deaths": 3588
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 193363,
+          "confirmed": 194384,
           "date": "2021-11-10",
-          "deaths": 4830
+          "deaths": 4890
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 208349,
+          "confirmed": 209921,
           "date": "2021-11-10",
-          "deaths": 4421
+          "deaths": 4449
+        }
+      },
+      "Zaporizhia Oblast": {
+        "live": {
+          "confirmed": 153569,
+          "date": "2021-11-10",
+          "deaths": 3647
         }
       }
     }
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 188398,
+      "confirmed": 188619,
       "date": "2021-11-10",
-      "deaths": 1343
+      "deaths": 1346
     }
   },
   "Venezuela": {
