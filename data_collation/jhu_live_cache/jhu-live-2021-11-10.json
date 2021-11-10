@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 974787,
+          "confirmed": 975313,
           "date": "2021-11-10",
-          "deaths": 39955
+          "deaths": 39968
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 190826,
+          "confirmed": 191196,
           "date": "2021-11-10",
-          "deaths": 12685
+          "deaths": 12725
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 161709,
+          "confirmed": 161817,
           "date": "2021-11-10",
-          "deaths": 17307
+          "deaths": 17324
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 375628,
+          "confirmed": 375816,
           "date": "2021-11-10",
-          "deaths": 44019
+          "deaths": 44040
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 204764,
+          "confirmed": 204919,
           "date": "2021-11-10",
-          "deaths": 13062
+          "deaths": 13075
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 897078,
       "date": "2021-11-10",
-      "deaths": 11294
+      "deaths": 11295
     }
   },
   "Thailand": {
