@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 260837,
+      "confirmed": 261799,
       "date": "2021-11-11",
-      "deaths": 11869
+      "deaths": 11891
     }
   },
   "Botswana": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 643003,
+      "confirmed": 646856,
       "date": "2021-11-11",
-      "deaths": 25555
+      "deaths": 25754
     }
   },
   "Burma": {
@@ -371,35 +371,35 @@
         "live": {
           "confirmed": 760106,
           "date": "2021-11-11",
-          "deaths": 16372
+          "deaths": 16378
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 333175,
           "date": "2021-11-11",
-          "deaths": 9605
+          "deaths": 9606
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 159064,
           "date": "2021-11-11",
-          "deaths": 2994
+          "deaths": 2995
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1457088,
           "date": "2021-11-11",
-          "deaths": 27571
+          "deaths": 27572
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 264838,
           "date": "2021-11-11",
-          "deaths": 6834
+          "deaths": 6835
         }
       },
       "Santander": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 339335,
+      "confirmed": 340269,
       "date": "2021-11-11",
-      "deaths": 19186
+      "deaths": 19249
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 385831,
+      "confirmed": 388351,
       "date": "2021-11-11",
-      "deaths": 3012
+      "deaths": 3033
     }
   },
   "Kosovo": {
@@ -954,9 +954,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 647778,
+      "confirmed": 648782,
       "date": "2021-11-11",
-      "deaths": 8556
+      "deaths": 8561
     }
   },
   "Libya": {
@@ -1127,9 +1127,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 212829,
+      "confirmed": 212894,
       "date": "2021-11-11",
-      "deaths": 2914
+      "deaths": 2922
     }
   },
   "North Macedonia": {
@@ -1141,9 +1141,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 220513,
+      "confirmed": 222296,
       "date": "2021-11-11",
-      "deaths": 924
+      "deaths": 947
     }
   },
   "Oman": {
@@ -1226,7 +1226,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 240385,
+      "confirmed": 240557,
       "date": "2021-11-11",
       "deaths": 611
     }
@@ -1663,7 +1663,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 395610,
+      "confirmed": 395805,
       "date": "2021-11-11",
       "deaths": 6093
     }
