@@ -1157,21 +1157,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 178773,
+          "confirmed": 178846,
           "date": "2021-11-11",
-          "deaths": 5778
+          "deaths": 5782
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 441378,
+          "confirmed": 441493,
           "date": "2021-11-11",
-          "deaths": 12957
+          "deaths": 12962
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 472519,
+          "confirmed": 472925,
           "date": "2021-11-11",
           "deaths": 7599
         }
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 756169,
+          "confirmed": 757552,
           "date": "2021-11-11",
-          "deaths": 12367
+          "deaths": 12397
         }
       },
       "California": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 415200,
+      "confirmed": 416190,
       "date": "2021-11-11",
-      "deaths": 4985
+      "deaths": 4996
     }
   },
   "Vietnam": {
