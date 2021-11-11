@@ -452,18 +452,18 @@ var covid19_dataset_latest_totals = {
     },
     "BOL": {
       "back_1week": {
-        "confirmed": 513810,
-        "deaths": 18928,
+        "confirmed": 514679,
+        "deaths": 18936,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 510470,
-        "deaths": 18903,
+        "confirmed": 511854,
+        "deaths": 18911,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 518870,
-        "deaths": 18970,
+        "confirmed": 519669,
+        "deaths": 18976,
         "recovered": 0
       }
     },
@@ -2419,13 +2419,13 @@ var covid19_dataset_latest_totals = {
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 353504,
-        "deaths": 1689,
+        "confirmed": 355129,
+        "deaths": 1699,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 368353,
-        "deaths": 1829,
+        "confirmed": 369303,
+        "deaths": 1840,
         "recovered": 0
       }
     },
@@ -3281,13 +3281,13 @@ var covid19_dataset_latest_totals = {
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1866863,
-        "deaths": 18865,
+        "confirmed": 1875315,
+        "deaths": 18922,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1982495,
-        "deaths": 19764,
+        "confirmed": 1989473,
+        "deaths": 19826,
         "recovered": 0
       }
     },
@@ -3361,18 +3361,18 @@ var covid19_dataset_latest_totals = {
     },
     "TUN": {
       "back_1week": {
-        "confirmed": 712880,
-        "deaths": 25250,
+        "confirmed": 712982,
+        "deaths": 25254,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 712013,
-        "deaths": 25213,
+        "confirmed": 712139,
+        "deaths": 25221,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 713352,
-        "deaths": 25281,
+        "confirmed": 715276,
+        "deaths": 25287,
         "recovered": 0
       }
     },
