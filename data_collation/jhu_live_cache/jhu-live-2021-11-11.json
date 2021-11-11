@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 509771,
+      "confirmed": 510725,
       "date": "2021-11-11",
-      "deaths": 18869
+      "deaths": 18882
     }
   },
   "Canada": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 613324,
+          "confirmed": 613336,
           "date": "2021-11-11",
           "deaths": 9966
         }
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 808297,
+      "confirmed": 815068,
       "date": "2021-11-11",
-      "deaths": 16493
+      "deaths": 16560
     }
   },
   "Guatemala": {
@@ -875,23 +875,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169009,
+          "confirmed": 169023,
           "date": "2021-11-11",
           "deaths": 1311
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202761,
+          "confirmed": 202825,
           "date": "2021-11-11",
-          "deaths": 3055
+          "deaths": 3056
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381869,
+          "confirmed": 381900,
           "date": "2021-11-11",
-          "deaths": 3157
+          "deaths": 3158
         }
       }
     }
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 975313,
+          "confirmed": 975744,
           "date": "2021-11-11",
-          "deaths": 39968
+          "deaths": 39977
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 191196,
+          "confirmed": 191566,
           "date": "2021-11-11",
-          "deaths": 12725
+          "deaths": 12753
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 161817,
+          "confirmed": 161953,
           "date": "2021-11-11",
-          "deaths": 17324
+          "deaths": 17338
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 375816,
+          "confirmed": 375997,
           "date": "2021-11-11",
-          "deaths": 44040
+          "deaths": 44058
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 204919,
+          "confirmed": 205059,
           "date": "2021-11-11",
-          "deaths": 13075
+          "deaths": 13084
         }
       }
     }
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 547346,
+      "confirmed": 547873,
       "date": "2021-11-11",
-      "deaths": 13908
+      "deaths": 13927
     }
   },
   "Sweden": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 905112,
       "date": "2021-11-11",
-      "deaths": 11308
+      "deaths": 11309
     }
   },
   "Thailand": {
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1678032,
+          "confirmed": 1678336,
           "date": "2021-11-11",
-          "deaths": 24756
+          "deaths": 24763
         }
       },
       "Utah": {
