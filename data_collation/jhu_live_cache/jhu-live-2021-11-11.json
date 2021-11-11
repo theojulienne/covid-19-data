@@ -961,9 +961,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 362915,
+      "confirmed": 363483,
       "date": "2021-11-11",
-      "deaths": 5241
+      "deaths": 5258
     }
   },
   "Lithuania": {
@@ -1226,16 +1226,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 240557,
+      "confirmed": 240705,
       "date": "2021-11-11",
       "deaths": 611
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1725017,
+      "confirmed": 1730433,
       "date": "2021-11-11",
-      "deaths": 51888
+      "deaths": 52206
     }
   },
   "Russia": {
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209939,
+      "confirmed": 209953,
       "date": "2021-11-11",
       "deaths": 3664
     }
