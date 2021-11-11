@@ -8,9 +8,9 @@
   },
   "Albania": {
     "live": {
-      "confirmed": 190815,
+      "confirmed": 191440,
       "date": "2021-11-11",
-      "deaths": 2975
+      "deaths": 2978
     }
   },
   "Algeria": {
@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 613417,
+          "confirmed": 613422,
           "date": "2021-11-11",
           "deaths": 9966
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 431611,
+          "confirmed": 432274,
           "date": "2021-11-11",
           "deaths": 11533
         }
@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412916,
+      "confirmed": 412936,
       "date": "2021-11-11",
       "deaths": 2462
     }
@@ -1566,6 +1566,13 @@
           "date": "2021-11-11",
           "deaths": 2022
         }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 154951,
+          "date": "2021-11-11",
+          "deaths": 1657
+        }
       }
     }
   },
@@ -1611,13 +1618,6 @@
           "confirmed": 211390,
           "date": "2021-11-11",
           "deaths": 4520
-        }
-      },
-      "Zaporizhia Oblast": {
-        "live": {
-          "confirmed": 154715,
-          "date": "2021-11-11",
-          "deaths": 3672
         }
       }
     }
