@@ -441,9 +441,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1856555,
+      "confirmed": 1866969,
       "date": "2021-11-12",
-      "deaths": 31289
+      "deaths": 31355
     }
   },
   "Denmark": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1336174,
+      "confirmed": 1336402,
       "date": "2021-11-12",
       "deaths": 8138
     }
@@ -968,9 +968,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 436690,
+      "confirmed": 439373,
       "date": "2021-11-12",
-      "deaths": 6251
+      "deaths": 6271
     }
   },
   "Malaysia": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 1996969,
+      "confirmed": 2004274,
       "date": "2021-11-12",
-      "deaths": 19883
+      "deaths": 19934
     }
   },
   "Tunisia": {
