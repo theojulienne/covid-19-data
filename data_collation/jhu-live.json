@@ -371,28 +371,28 @@
         "live": {
           "confirmed": 760480,
           "date": "2021-11-12",
-          "deaths": 16378
+          "deaths": 16384
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 333656,
           "date": "2021-11-12",
-          "deaths": 9606
+          "deaths": 9610
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 159171,
           "date": "2021-11-12",
-          "deaths": 2995
+          "deaths": 2997
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1457399,
           "date": "2021-11-12",
-          "deaths": 27572
+          "deaths": 27574
         }
       },
       "Cundinamarca": {
@@ -406,14 +406,14 @@
         "live": {
           "confirmed": 227396,
           "date": "2021-11-12",
-          "deaths": 7325
+          "deaths": 7329
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 413075,
           "date": "2021-11-12",
-          "deaths": 13061
+          "deaths": 13064
         }
       }
     }
@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 689479,
+          "confirmed": 689521,
           "date": "2021-11-12",
           "deaths": 11204
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 898788,
+          "confirmed": 911465,
           "date": "2021-11-12",
-          "deaths": 16437
+          "deaths": 16497
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 238008,
+          "confirmed": 240189,
           "date": "2021-11-12",
-          "deaths": 3753
+          "deaths": 3756
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 370878,
+          "confirmed": 373022,
           "date": "2021-11-12",
-          "deaths": 7945
+          "deaths": 7962
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 334188,
+          "confirmed": 336331,
           "date": "2021-11-12",
-          "deaths": 6148
+          "deaths": 6153
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1051982,
+          "confirmed": 1057847,
           "date": "2021-11-12",
-          "deaths": 18424
+          "deaths": 18445
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 203944,
+          "confirmed": 203962,
           "date": "2021-11-12",
           "deaths": 4158
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 365698,
+          "confirmed": 366363,
           "date": "2021-11-12",
-          "deaths": 10483
+          "deaths": 10484
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 167485,
+          "confirmed": 169784,
           "date": "2021-11-12",
-          "deaths": 4639
+          "deaths": 4651
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1033639,
+      "confirmed": 1035051,
       "date": "2021-11-12",
       "deaths": 17429
     }
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 975744,
+          "confirmed": 976347,
           "date": "2021-11-12",
-          "deaths": 39977
+          "deaths": 39992
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 191566,
+          "confirmed": 191910,
           "date": "2021-11-12",
-          "deaths": 12753
+          "deaths": 12787
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 161953,
+          "confirmed": 162036,
           "date": "2021-11-12",
-          "deaths": 17338
+          "deaths": 17351
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 375997,
+          "confirmed": 376227,
           "date": "2021-11-12",
-          "deaths": 44058
+          "deaths": 44080
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205059,
+          "confirmed": 205184,
           "date": "2021-11-12",
-          "deaths": 13084
+          "deaths": 13092
         }
       }
     }
