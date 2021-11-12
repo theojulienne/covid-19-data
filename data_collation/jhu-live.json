@@ -504,9 +504,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 771381,
+      "confirmed": 775826,
       "date": "2021-11-12",
-      "deaths": 10739
+      "deaths": 10816
     }
   },
   "Germany": {
@@ -1566,13 +1566,6 @@
           "date": "2021-11-12",
           "deaths": 2022
         }
-      },
-      "Wisconsin": {
-        "live": {
-          "confirmed": 154951,
-          "date": "2021-11-12",
-          "deaths": 1657
-        }
       }
     }
   },
@@ -1580,44 +1573,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 208036,
+          "confirmed": 209903,
           "date": "2021-11-12",
-          "deaths": 6510
+          "deaths": 6578
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 222401,
+          "confirmed": 223443,
           "date": "2021-11-12",
-          "deaths": 4967
+          "deaths": 4999
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 274770,
+          "confirmed": 276572,
           "date": "2021-11-12",
-          "deaths": 6728
+          "deaths": 6771
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 159874,
+          "confirmed": 160844,
           "date": "2021-11-12",
-          "deaths": 3632
+          "deaths": 3676
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 195637,
+          "confirmed": 196791,
           "date": "2021-11-12",
-          "deaths": 4916
+          "deaths": 4965
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 211390,
+          "confirmed": 213206,
           "date": "2021-11-12",
-          "deaths": 4520
+          "deaths": 4570
+        }
+      },
+      "Zaporizhia Oblast": {
+        "live": {
+          "confirmed": 155826,
+          "date": "2021-11-12",
+          "deaths": 3716
         }
       }
     }
