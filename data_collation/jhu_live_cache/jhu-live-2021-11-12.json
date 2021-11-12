@@ -427,9 +427,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 521837,
+      "confirmed": 528286,
       "date": "2021-11-12",
-      "deaths": 9721
+      "deaths": 9774
     }
   },
   "Cuba": {
@@ -476,9 +476,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 209597,
+      "confirmed": 210542,
       "date": "2021-11-12",
-      "deaths": 1650
+      "deaths": 1662
     }
   },
   "Ethiopia": {
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254151,
+      "confirmed": 254215,
       "date": "2021-11-12",
-      "deaths": 5315
+      "deaths": 5316
     }
   },
   "Korea, South": {
@@ -1226,16 +1226,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 240705,
+      "confirmed": 240828,
       "date": "2021-11-12",
       "deaths": 611
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1730433,
+      "confirmed": 1735277,
       "date": "2021-11-12",
-      "deaths": 52206
+      "deaths": 52513
     }
   },
   "Russia": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549103,
+      "confirmed": 549148,
       "date": "2021-11-12",
-      "deaths": 8809
+      "deaths": 8810
     }
   },
   "Serbia": {
@@ -1434,9 +1434,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 905112,
+      "confirmed": 909034,
       "date": "2021-11-12",
-      "deaths": 11315
+      "deaths": 11317
     }
   },
   "Thailand": {
@@ -1624,7 +1624,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 740729,
+      "confirmed": 740801,
       "date": "2021-11-12",
       "deaths": 2142
     }
