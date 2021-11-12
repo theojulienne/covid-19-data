@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 376676,
+      "confirmed": 376841,
       "date": "2021-11-12",
-      "deaths": 10335
+      "deaths": 10349
     }
   },
   "Hungary": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 388351,
+      "confirmed": 390719,
       "date": "2021-11-12",
-      "deaths": 3033
+      "deaths": 3051
     }
   },
   "Kosovo": {
