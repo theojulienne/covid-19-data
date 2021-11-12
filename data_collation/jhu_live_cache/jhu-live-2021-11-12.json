@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 370324,
+      "confirmed": 371199,
       "date": "2021-11-12",
-      "deaths": 1850
+      "deaths": 1859
     }
   },
   "Morocco": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 416190,
+      "confirmed": 417120,
       "date": "2021-11-12",
-      "deaths": 4996
+      "deaths": 5005
     }
   },
   "Vietnam": {
