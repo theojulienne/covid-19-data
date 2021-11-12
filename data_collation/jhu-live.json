@@ -947,9 +947,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 236765,
+      "confirmed": 238153,
       "date": "2021-11-12",
-      "deaths": 3646
+      "deaths": 3683
     }
   },
   "Lebanon": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 905112,
       "date": "2021-11-12",
-      "deaths": 11313
+      "deaths": 11315
     }
   },
   "Thailand": {
@@ -1684,9 +1684,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1000897,
+      "confirmed": 1009879,
       "date": "2021-11-12",
-      "deaths": 22849
+      "deaths": 22930
     }
   },
   "West Bank and Gaza": {
