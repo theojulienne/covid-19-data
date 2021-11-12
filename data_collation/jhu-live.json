@@ -22,9 +22,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5300985,
+      "confirmed": 5302445,
       "date": "2021-11-11",
-      "deaths": 116184
+      "deaths": 116209
     }
   },
   "Armenia": {
@@ -177,7 +177,7 @@
         "live": {
           "confirmed": 912617,
           "date": "2021-11-11",
-          "deaths": 24315
+          "deaths": 24314
         }
       },
       "Maranhao": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 563290,
+      "confirmed": 563924,
       "date": "2021-11-11",
-      "deaths": 7176
+      "deaths": 7190
     }
   },
   "Croatia": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 547873,
+      "confirmed": 548061,
       "date": "2021-11-11",
       "deaths": 13927
     }
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 715396,
+      "confirmed": 715489,
       "date": "2021-11-11",
-      "deaths": 25294
+      "deaths": 25298
     }
   },
   "Turkey": {
