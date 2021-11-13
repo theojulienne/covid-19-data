@@ -635,8 +635,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 432274,
-          "deaths": 11533
+          "confirmed": 432990,
+          "deaths": 11535
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -2261,18 +2261,18 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 343261,
-        "deaths": 7958,
+        "confirmed": 344563,
+        "deaths": 8007,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 334287,
+        "confirmed": 335860,
         "deaths": 7665,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 350697,
-        "deaths": 8323,
+        "confirmed": 351940,
+        "deaths": 8391,
         "recovered": 0
       }
     },

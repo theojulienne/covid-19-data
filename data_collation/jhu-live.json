@@ -333,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 614653,
+          "confirmed": 614656,
           "date": "2021-11-13",
           "deaths": 9978
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 432990,
+          "confirmed": 433705,
           "date": "2021-11-13",
-          "deaths": 11535
+          "deaths": 11541
         }
       }
     }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1336860,
+      "confirmed": 1336875,
       "date": "2021-11-13",
       "deaths": 8140
     }
@@ -1053,9 +1053,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 351940,
+      "confirmed": 352670,
       "date": "2021-11-13",
-      "deaths": 8391
+      "deaths": 8446
     }
   },
   "Mongolia": {
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 169949,
+          "confirmed": 170249,
           "date": "2021-11-13",
           "deaths": 1788
         }
@@ -1550,7 +1550,7 @@
         "live": {
           "confirmed": 1680870,
           "date": "2021-11-13",
-          "deaths": 24902
+          "deaths": 24924
         }
       },
       "Utah": {
