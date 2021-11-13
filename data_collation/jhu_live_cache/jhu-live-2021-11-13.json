@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 614160,
+          "confirmed": 614593,
           "date": "2021-11-13",
-          "deaths": 9973
+          "deaths": 9976
         }
       },
       "Quebec": {
@@ -448,9 +448,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 417151,
+      "confirmed": 420099,
       "date": "2021-11-13",
-      "deaths": 2753
+      "deaths": 2760
     }
   },
   "Dominican Republic": {
@@ -520,7 +520,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 923897,
+          "confirmed": 924014,
           "date": "2021-11-13",
           "deaths": 16547
         }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 371854,
+          "confirmed": 376393,
           "date": "2021-11-13",
-          "deaths": 10518
+          "deaths": 10527
         }
       },
       "Thuringen": {
@@ -785,14 +785,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2067797,
+      "confirmed": 2068388,
       "date": "2021-11-13",
-      "deaths": 23471
+      "deaths": 23483
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 490001,
+      "confirmed": 494643,
       "date": "2021-11-13",
       "deaths": 5566
     }
@@ -926,9 +926,9 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160927,
+      "confirmed": 160934,
       "date": "2021-11-13",
-      "deaths": 2979
+      "deaths": 2980
     }
   },
   "Kuwait": {
@@ -1205,9 +1205,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2813115,
+      "confirmed": 2815080,
       "date": "2021-11-13",
-      "deaths": 45035
+      "deaths": 45272
     }
   },
   "Poland": {
@@ -1684,7 +1684,7 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1018376,
+      "confirmed": 1018346,
       "date": "2021-11-13",
       "deaths": 23018
     }
