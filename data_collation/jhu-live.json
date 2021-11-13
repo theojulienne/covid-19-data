@@ -497,9 +497,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7079005,
+      "confirmed": 7093651,
       "date": "2021-11-13",
-      "deaths": 115691
+      "deaths": 115707
     }
   },
   "Georgia": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2925371,
+      "confirmed": 2925677,
       "date": "2021-11-13",
-      "deaths": 89469
+      "deaths": 89746
     }
   },
   "Spain": {
