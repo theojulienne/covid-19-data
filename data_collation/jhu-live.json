@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 210758,
+          "confirmed": 211750,
           "date": "2021-11-13",
-          "deaths": 2234
+          "deaths": 2257
         }
       },
       "Ontario": {
@@ -420,9 +420,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 563924,
+      "confirmed": 564159,
       "date": "2021-11-13",
-      "deaths": 7190
+      "deaths": 7197
     }
   },
   "Croatia": {
@@ -469,9 +469,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 341188,
+      "confirmed": 342097,
       "date": "2021-11-13",
-      "deaths": 19309
+      "deaths": 19366
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 390719,
+      "confirmed": 393042,
       "date": "2021-11-13",
-      "deaths": 3051
+      "deaths": 3083
     }
   },
   "Kosovo": {
