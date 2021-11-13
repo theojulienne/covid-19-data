@@ -1242,51 +1242,51 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1887243,
+          "confirmed": 1891428,
           "date": "2021-11-13",
-          "deaths": 32495
+          "deaths": 32592
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 553186,
+          "confirmed": 556077,
           "date": "2021-11-13",
-          "deaths": 9403
+          "deaths": 9456
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 200716,
+          "confirmed": 201504,
           "date": "2021-11-13",
-          "deaths": 8188
+          "deaths": 8224
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 163843,
+          "confirmed": 164500,
           "date": "2021-11-13",
-          "deaths": 8080
+          "deaths": 8113
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 745332,
+          "confirmed": 748605,
           "date": "2021-11-13",
-          "deaths": 24882
+          "deaths": 24952
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 166132,
+          "confirmed": 166856,
           "date": "2021-11-13",
-          "deaths": 7824
+          "deaths": 7856
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 163756,
+          "confirmed": 164521,
           "date": "2021-11-13",
-          "deaths": 5239
+          "deaths": 5270
         }
       }
     }
@@ -1573,51 +1573,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 209903,
+          "confirmed": 212122,
           "date": "2021-11-13",
-          "deaths": 6578
+          "deaths": 6663
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 223443,
+          "confirmed": 225319,
           "date": "2021-11-13",
-          "deaths": 4999
+          "deaths": 5029
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 276572,
+          "confirmed": 278411,
           "date": "2021-11-13",
-          "deaths": 6771
+          "deaths": 6824
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 160844,
+          "confirmed": 161841,
           "date": "2021-11-13",
-          "deaths": 3676
+          "deaths": 3721
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 196791,
+          "confirmed": 198034,
           "date": "2021-11-13",
-          "deaths": 4965
+          "deaths": 4983
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 213206,
+          "confirmed": 215272,
           "date": "2021-11-13",
-          "deaths": 4570
+          "deaths": 4596
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 155826,
+          "confirmed": 156746,
           "date": "2021-11-13",
-          "deaths": 3716
+          "deaths": 3771
         }
       }
     }
