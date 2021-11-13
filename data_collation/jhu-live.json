@@ -1074,9 +1074,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 816415,
+      "confirmed": 816675,
       "date": "2021-11-13",
-      "deaths": 11469
+      "deaths": 11471
     }
   },
   "Netherlands": {
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209963,
+      "confirmed": 209971,
       "date": "2021-11-13",
       "deaths": 3664
     }
