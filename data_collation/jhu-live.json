@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 909038,
       "date": "2021-11-13",
-      "deaths": 11323
+      "deaths": 11325
     }
   },
   "Thailand": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3148277,
+          "confirmed": 3149614,
           "date": "2021-11-13",
-          "deaths": 50132
+          "deaths": 50156
         }
       },
       "Florida": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 417120,
+      "confirmed": 417998,
       "date": "2021-11-13",
-      "deaths": 5005
+      "deaths": 5010
     }
   },
   "Vietnam": {
