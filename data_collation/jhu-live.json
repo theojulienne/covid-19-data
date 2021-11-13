@@ -940,9 +940,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 182197,
+      "confirmed": 182267,
       "date": "2021-11-13",
-      "deaths": 2699
+      "deaths": 2702
     }
   },
   "Latvia": {
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 976347,
+          "confirmed": 976879,
           "date": "2021-11-13",
-          "deaths": 39992
+          "deaths": 40012
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 191910,
+          "confirmed": 192208,
           "date": "2021-11-13",
-          "deaths": 12787
+          "deaths": 12789
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162036,
+          "confirmed": 162153,
           "date": "2021-11-13",
-          "deaths": 17351
+          "deaths": 17377
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 376227,
+          "confirmed": 376397,
           "date": "2021-11-13",
-          "deaths": 44080
+          "deaths": 44101
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205184,
+          "confirmed": 205313,
           "date": "2021-11-13",
-          "deaths": 13092
+          "deaths": 13109
         }
       }
     }
@@ -1157,23 +1157,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 178926,
+          "confirmed": 179000,
           "date": "2021-11-13",
-          "deaths": 5786
+          "deaths": 5790
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 441631,
+          "confirmed": 441720,
           "date": "2021-11-13",
-          "deaths": 12967
+          "deaths": 12972
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 473052,
+          "confirmed": 473081,
           "date": "2021-11-13",
-          "deaths": 7599
+          "deaths": 7600
         }
       }
     }
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 189186,
+      "confirmed": 189458,
       "date": "2021-11-13",
-      "deaths": 1351
+      "deaths": 1354
     }
   },
   "Venezuela": {
