@@ -933,7 +933,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412960,
+      "confirmed": 412982,
       "date": "2021-11-13",
       "deaths": 2462
     }
@@ -977,37 +977,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 223353,
+          "confirmed": 223902,
           "date": "2021-11-13",
-          "deaths": 3710
+          "deaths": 3711
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 224421,
+          "confirmed": 224918,
           "date": "2021-11-13",
-          "deaths": 2592
+          "deaths": 2597
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 246682,
+          "confirmed": 247081,
           "date": "2021-11-13",
-          "deaths": 1489
+          "deaths": 1511
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 728898,
+          "confirmed": 730499,
           "date": "2021-11-13",
-          "deaths": 9676
+          "deaths": 9681
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 197042,
+          "confirmed": 197389,
           "date": "2021-11-13",
-          "deaths": 2577
+          "deaths": 2578
         }
       }
     }

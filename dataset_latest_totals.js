@@ -2023,17 +2023,17 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 412768,
+        "confirmed": 412793,
         "deaths": 2462,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 412619,
+        "confirmed": 412641,
         "deaths": 2461,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 412936,
+        "confirmed": 412960,
         "deaths": 2462,
         "recovered": 0
       }
