@@ -50,7 +50,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277184,
+      "confirmed": 277201,
       "date": "2021-11-13",
       "deaths": 1393
     }
@@ -483,9 +483,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 368346,
+      "confirmed": 368646,
       "date": "2021-11-13",
-      "deaths": 6601
+      "deaths": 6613
     }
   },
   "Finland": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1336875,
+      "confirmed": 1336882,
       "date": "2021-11-13",
       "deaths": 8140
     }
@@ -1548,7 +1548,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1680870,
+          "confirmed": 1681059,
           "date": "2021-11-13",
           "deaths": 24924
         }
