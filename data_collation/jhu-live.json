@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169042,
+          "confirmed": 169057,
           "date": "2021-11-13",
           "deaths": 1311
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202851,
+          "confirmed": 202881,
           "date": "2021-11-13",
           "deaths": 3056
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381922,
+          "confirmed": 381946,
           "date": "2021-11-13",
           "deaths": 3158
         }
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 548784,
+      "confirmed": 549500,
       "date": "2021-11-13",
-      "deaths": 13950
+      "deaths": 13972
     }
   },
   "Sweden": {
