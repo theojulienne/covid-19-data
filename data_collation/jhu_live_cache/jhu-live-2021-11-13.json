@@ -555,7 +555,7 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 205421,
+          "confirmed": 205836,
           "date": "2021-11-13",
           "deaths": 4167
         }
@@ -771,16 +771,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4250157,
+      "confirmed": 4250516,
       "date": "2021-11-13",
-      "deaths": 143628
+      "deaths": 143644
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 6027269,
+      "confirmed": 6031575,
       "date": "2021-11-13",
-      "deaths": 127918
+      "deaths": 128042
     }
   },
   "Iraq": {
@@ -947,9 +947,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 238153,
+      "confirmed": 239575,
       "date": "2021-11-13",
-      "deaths": 3683
+      "deaths": 3734
     }
   },
   "Lebanon": {
@@ -1226,16 +1226,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 240828,
+      "confirmed": 240965,
       "date": "2021-11-13",
       "deaths": 611
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1735277,
+      "confirmed": 1739283,
       "date": "2021-11-13",
-      "deaths": 52513
+      "deaths": 52836
     }
   },
   "Russia": {
