@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 521518,
+      "confirmed": 522530,
       "date": "2021-11-13",
-      "deaths": 18998
+      "deaths": 19004
     }
   },
   "Bosnia and Herzegovina": {
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 371199,
+      "confirmed": 372187,
       "date": "2021-11-13",
-      "deaths": 1859
+      "deaths": 1869
     }
   },
   "Morocco": {
@@ -1180,9 +1180,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 474002,
+      "confirmed": 474231,
       "date": "2021-11-13",
-      "deaths": 7338
+      "deaths": 7341
     }
   },
   "Paraguay": {
@@ -1478,7 +1478,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1911034,
+          "confirmed": 1916374,
           "date": "2021-11-13",
           "deaths": 17059
         }
