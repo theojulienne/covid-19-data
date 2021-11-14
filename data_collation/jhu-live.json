@@ -513,65 +513,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 697505,
+          "confirmed": 703638,
           "date": "2021-11-14",
-          "deaths": 11242
+          "deaths": 11252
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 924014,
+          "confirmed": 933061,
           "date": "2021-11-14",
-          "deaths": 16547
+          "deaths": 16558
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 242342,
+          "confirmed": 242816,
           "date": "2021-11-14",
           "deaths": 3759
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 374979,
+          "confirmed": 376705,
           "date": "2021-11-14",
-          "deaths": 7974
+          "deaths": 7976
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 338180,
+          "confirmed": 340007,
           "date": "2021-11-14",
-          "deaths": 6164
+          "deaths": 6169
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1062731,
+          "confirmed": 1066897,
           "date": "2021-11-14",
-          "deaths": 18480
+          "deaths": 18485
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 205836,
+          "confirmed": 205848,
           "date": "2021-11-14",
           "deaths": 4167
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 376393,
+          "confirmed": 376397,
           "date": "2021-11-14",
-          "deaths": 10527
+          "deaths": 10531
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 171656,
+          "confirmed": 172983,
           "date": "2021-11-14",
-          "deaths": 4662
+          "deaths": 4664
         }
       }
     }
@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 376841,
+      "confirmed": 376873,
       "date": "2021-11-14",
-      "deaths": 10349
+      "deaths": 10350
     }
   },
   "Hungary": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1037506,
+      "confirmed": 1037638,
       "date": "2021-11-14",
       "deaths": 17461
     }
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 417998,
+      "confirmed": 418900,
       "date": "2021-11-14",
-      "deaths": 5010
+      "deaths": 5019
     }
   },
   "Vietnam": {
