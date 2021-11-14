@@ -36,9 +36,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 948100,
+      "confirmed": 959652,
       "date": "2021-11-14",
-      "deaths": 11689
+      "deaths": 11706
     }
   },
   "Azerbaijan": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4250516,
+      "confirmed": 4250855,
       "date": "2021-11-14",
-      "deaths": 143644
+      "deaths": 143659
     }
   },
   "Iran": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 239575,
+      "confirmed": 240340,
       "date": "2021-11-14",
-      "deaths": 3734
+      "deaths": 3762
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 364076,
+      "confirmed": 364675,
       "date": "2021-11-14",
-      "deaths": 5275
+      "deaths": 5296
     }
   },
   "Lithuania": {
@@ -1067,9 +1067,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 816675,
+      "confirmed": 816966,
       "date": "2021-11-14",
-      "deaths": 11471
+      "deaths": 11477
     }
   },
   "Netherlands": {
@@ -1573,58 +1573,58 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 212122,
+          "confirmed": 213752,
           "date": "2021-11-14",
-          "deaths": 6663
+          "deaths": 6763
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 225319,
+          "confirmed": 226369,
           "date": "2021-11-14",
-          "deaths": 5029
+          "deaths": 5054
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 278411,
+          "confirmed": 278858,
           "date": "2021-11-14",
-          "deaths": 6824
+          "deaths": 6874
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 161841,
+          "confirmed": 162374,
           "date": "2021-11-14",
-          "deaths": 3721
+          "deaths": 3739
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 198034,
+          "confirmed": 198569,
           "date": "2021-11-14",
-          "deaths": 4983
+          "deaths": 5001
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 215272,
+          "confirmed": 216251,
           "date": "2021-11-14",
-          "deaths": 4596
+          "deaths": 4599
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 156746,
+          "confirmed": 157775,
           "date": "2021-11-14",
-          "deaths": 3771
+          "deaths": 3785
         }
       }
     }
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 740879,
+      "confirmed": 740945,
       "date": "2021-11-14",
       "deaths": 2143
     }
@@ -1698,9 +1698,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209971,
+      "confirmed": 209983,
       "date": "2021-11-14",
-      "deaths": 3664
+      "deaths": 3666
     }
   }
 }
