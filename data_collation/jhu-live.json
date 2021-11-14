@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 609136,
+      "confirmed": 609729,
       "date": "2021-11-14",
-      "deaths": 15675
+      "deaths": 15698
     }
   },
   "Honduras": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3153037,
+          "confirmed": 3154398,
           "date": "2021-11-14",
-          "deaths": 50200
+          "deaths": 50218
         }
       },
       "Florida": {
@@ -1520,7 +1520,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1509458,
+          "confirmed": 1510594,
           "date": "2021-11-14",
           "deaths": 39692
         }
