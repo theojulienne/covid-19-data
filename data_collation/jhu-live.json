@@ -50,16 +50,16 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277201,
+      "confirmed": 277223,
       "date": "2021-11-14",
       "deaths": 1393
     }
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1572278,
+      "confirmed": 1572501,
       "date": "2021-11-14",
-      "deaths": 27918
+      "deaths": 27922
     }
   },
   "Belarus": {
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 412982,
+      "confirmed": 413008,
       "date": "2021-11-14",
       "deaths": 2462
     }
@@ -1464,7 +1464,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 765678,
+          "confirmed": 767759,
           "date": "2021-11-14",
           "deaths": 12459
         }
@@ -1548,7 +1548,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1681317,
+          "confirmed": 1681378,
           "date": "2021-11-14",
           "deaths": 24933
         }
