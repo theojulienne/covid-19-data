@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 376873,
+      "confirmed": 376967,
       "date": "2021-11-14",
-      "deaths": 10350
+      "deaths": 10352
     }
   },
   "Hungary": {
@@ -608,163 +608,163 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2069614,
+          "confirmed": 2069770,
           "date": "2021-11-14",
-          "deaths": 14411
+          "deaths": 14412
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 613563,
+          "confirmed": 613784,
           "date": "2021-11-14",
-          "deaths": 6043
+          "deaths": 6047
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726149,
+          "confirmed": 726153,
           "date": "2021-11-14",
-          "deaths": 9661
+          "deaths": 9662
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1006290,
+          "confirmed": 1006326,
           "date": "2021-11-14",
           "deaths": 13588
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1440332,
+          "confirmed": 1440388,
           "date": "2021-11-14",
           "deaths": 25093
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 178445,
+          "confirmed": 178467,
           "date": "2021-11-14",
-          "deaths": 3372
+          "deaths": 3374
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 826887,
+          "confirmed": 826924,
           "date": "2021-11-14",
           "deaths": 10090
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 771403,
+          "confirmed": 771420,
           "date": "2021-11-14",
           "deaths": 10050
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 225589,
+          "confirmed": 225712,
           "date": "2021-11-14",
-          "deaths": 3803
+          "deaths": 3812
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 333825,
+          "confirmed": 334006,
           "date": "2021-11-14",
           "deaths": 4448
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 348977,
+          "confirmed": 348992,
           "date": "2021-11-14",
           "deaths": 5138
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2991369,
+          "confirmed": 2991614,
           "date": "2021-11-14",
-          "deaths": 38140
+          "deaths": 38143
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5048756,
+          "confirmed": 5055224,
           "date": "2021-11-14",
-          "deaths": 35511
+          "deaths": 35685
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 792945,
+          "confirmed": 792956,
           "date": "2021-11-14",
           "deaths": 10524
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6622345,
+          "confirmed": 6623344,
           "date": "2021-11-14",
-          "deaths": 140516
+          "deaths": 140565
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1044962,
+          "confirmed": 1045209,
           "date": "2021-11-14",
-          "deaths": 8373
+          "deaths": 8375
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 602733,
+          "confirmed": 602778,
           "date": "2021-11-14",
           "deaths": 16571
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954492,
+          "confirmed": 954503,
           "date": "2021-11-14",
           "deaths": 8954
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2713216,
+          "confirmed": 2714025,
           "date": "2021-11-14",
-          "deaths": 36259
+          "deaths": 36273
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 673312,
+          "confirmed": 673469,
           "date": "2021-11-14",
-          "deaths": 3972
+          "deaths": 3973
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1710252,
+          "confirmed": 1710261,
           "date": "2021-11-14",
-          "deaths": 22905
+          "deaths": 22909
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 343998,
+          "confirmed": 344014,
           "date": "2021-11-14",
           "deaths": 7403
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1602446,
+          "confirmed": 1603318,
           "date": "2021-11-14",
-          "deaths": 19294
+          "deaths": 19307
         }
       }
     }
@@ -940,9 +940,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 182267,
+      "confirmed": 182341,
       "date": "2021-11-14",
-      "deaths": 2702
+      "deaths": 2704
     }
   },
   "Latvia": {
@@ -1016,37 +1016,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 976879,
+          "confirmed": 977388,
           "date": "2021-11-14",
-          "deaths": 40012
+          "deaths": 40016
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 192208,
+          "confirmed": 192459,
           "date": "2021-11-14",
-          "deaths": 12789
+          "deaths": 12804
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162153,
+          "confirmed": 162273,
           "date": "2021-11-14",
-          "deaths": 17377
+          "deaths": 17403
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 376397,
+          "confirmed": 376573,
           "date": "2021-11-14",
-          "deaths": 44101
+          "deaths": 44117
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205313,
+          "confirmed": 205449,
           "date": "2021-11-14",
-          "deaths": 13109
+          "deaths": 13113
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 372187,
+      "confirmed": 372853,
       "date": "2021-11-14",
-      "deaths": 1869
+      "deaths": 1878
     }
   },
   "Morocco": {
