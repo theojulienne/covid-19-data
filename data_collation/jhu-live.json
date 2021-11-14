@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7093651,
+      "confirmed": 7106147,
       "date": "2021-11-14",
-      "deaths": 115707
+      "deaths": 115724
     }
   },
   "Georgia": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 494643,
+      "confirmed": 498448,
       "date": "2021-11-14",
       "deaths": 5566
     }
@@ -1323,7 +1323,7 @@
     "live": {
       "confirmed": 378142,
       "date": "2021-11-14",
-      "deaths": 4940
+      "deaths": 4941
     }
   },
   "South Africa": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8388512,
+      "confirmed": 8410136,
       "date": "2021-11-14",
-      "deaths": 73342
+      "deaths": 73531
     }
   },
   "US": {
