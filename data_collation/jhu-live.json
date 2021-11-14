@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2011331,
+      "confirmed": 2018410,
       "date": "2021-11-14",
-      "deaths": 19989
+      "deaths": 20036
     }
   },
   "Tunisia": {
@@ -1541,7 +1541,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 186491,
+          "confirmed": 186842,
           "date": "2021-11-14",
           "deaths": 4053
         }

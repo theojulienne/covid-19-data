@@ -3281,13 +3281,13 @@ var covid19_dataset_latest_totals = {
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1893941,
-        "deaths": 19070,
+        "confirmed": 1903165,
+        "deaths": 19158,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2004274,
-        "deaths": 19934,
+        "confirmed": 2011331,
+        "deaths": 19989,
         "recovered": 0
       }
     },
