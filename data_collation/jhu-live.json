@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 393042,
+      "confirmed": 395460,
       "date": "2021-11-14",
-      "deaths": 3083
+      "deaths": 3103
     }
   },
   "Kosovo": {
@@ -1522,7 +1522,7 @@
         "live": {
           "confirmed": 1509458,
           "date": "2021-11-14",
-          "deaths": 39690
+          "deaths": 39692
         }
       },
       "North Carolina": {
