@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 211535,
+      "confirmed": 212096,
       "date": "2021-11-14",
-      "deaths": 1668
+      "deaths": 1673
     }
   },
   "Ethiopia": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304410,
+      "confirmed": 304429,
       "date": "2021-11-14",
       "deaths": 4113
     }
@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 179000,
+          "confirmed": 179066,
           "date": "2021-11-14",
-          "deaths": 5790
+          "deaths": 5793
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 441720,
+          "confirmed": 441800,
           "date": "2021-11-14",
-          "deaths": 12972
+          "deaths": 12977
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 473081,
+          "confirmed": 473149,
           "date": "2021-11-14",
-          "deaths": 7600
+          "deaths": 7603
         }
       }
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3190067,
+      "confirmed": 3204515,
       "date": "2021-11-14",
-      "deaths": 78821
+      "deaths": 78867
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 554296,
+      "confirmed": 560100,
       "date": "2021-11-14",
-      "deaths": 13485
+      "deaths": 13537
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 375775,
+      "confirmed": 378142,
       "date": "2021-11-14",
-      "deaths": 4920
+      "deaths": 4940
     }
   },
   "South Africa": {
