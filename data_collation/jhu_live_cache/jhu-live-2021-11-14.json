@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 958390,
+      "confirmed": 958738,
       "date": "2021-11-14",
-      "deaths": 8279
+      "deaths": 8282
     }
   },
   "Czechia": {
@@ -868,21 +868,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169057,
+          "confirmed": 169069,
           "date": "2021-11-14",
           "deaths": 1311
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202881,
+          "confirmed": 202899,
           "date": "2021-11-14",
           "deaths": 3056
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381946,
+          "confirmed": 381968,
           "date": "2021-11-14",
           "deaths": 3158
         }
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 549500,
+      "confirmed": 551343,
       "date": "2021-11-14",
-      "deaths": 13972
+      "deaths": 13995
     }
   },
   "Sweden": {
