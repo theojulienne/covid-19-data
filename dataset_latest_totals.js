@@ -1263,18 +1263,18 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 366783,
-        "deaths": 6517,
+        "confirmed": 367062,
+        "deaths": 6531,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 364576,
-        "deaths": 6437,
+        "confirmed": 364960,
+        "deaths": 6451,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 368346,
-        "deaths": 6601,
+        "confirmed": 368646,
+        "deaths": 6613,
         "recovered": 0
       }
     },

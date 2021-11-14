@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 368646,
+      "confirmed": 368822,
       "date": "2021-11-14",
-      "deaths": 6613
+      "deaths": 6623
     }
   },
   "Finland": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1337163,
+      "confirmed": 1337190,
       "date": "2021-11-14",
       "deaths": 8143
     }
