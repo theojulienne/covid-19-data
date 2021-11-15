@@ -713,9 +713,9 @@
       },
       "Punjab": {
         "live": {
-          "confirmed": 602778,
+          "confirmed": 602795,
           "date": "2021-11-15",
-          "deaths": 16571
+          "deaths": 16572
         }
       },
       "Rajasthan": {
@@ -933,9 +933,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 182341,
+      "confirmed": 182425,
       "date": "2021-11-15",
-      "deaths": 2704
+      "deaths": 2707
     }
   },
   "Latvia": {
@@ -1009,35 +1009,35 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 977388,
+          "confirmed": 977533,
           "date": "2021-11-15",
-          "deaths": 40016
+          "deaths": 40018
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 192459,
+          "confirmed": 192548,
           "date": "2021-11-15",
-          "deaths": 12804
+          "deaths": 12815
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162273,
+          "confirmed": 162299,
           "date": "2021-11-15",
-          "deaths": 17403
+          "deaths": 17407
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 376573,
+          "confirmed": 376632,
           "date": "2021-11-15",
-          "deaths": 44117
+          "deaths": 44124
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205449,
+          "confirmed": 205486,
           "date": "2021-11-15",
           "deaths": 13113
         }
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2018410,
+      "confirmed": 2024753,
       "date": "2021-11-15",
-      "deaths": 20036
+      "deaths": 20081
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 189683,
+      "confirmed": 189915,
       "date": "2021-11-15",
-      "deaths": 1356
+      "deaths": 1358
     }
   },
   "Venezuela": {
