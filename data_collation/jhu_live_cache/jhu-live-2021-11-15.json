@@ -592,9 +592,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 939784,
+      "confirmed": 960844,
       "date": "2021-11-15",
-      "deaths": 31867
+      "deaths": 32171
     }
   },
   "India": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 240340,
+      "confirmed": 240762,
       "date": "2021-11-15",
-      "deaths": 3762
+      "deaths": 3765
     }
   },
   "Lebanon": {
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3204515,
+      "confirmed": 3214023,
       "date": "2021-11-15",
-      "deaths": 78867
+      "deaths": 78879
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 560100,
+      "confirmed": 563445,
       "date": "2021-11-15",
-      "deaths": 13537
+      "deaths": 13598
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 378142,
+      "confirmed": 379964,
       "date": "2021-11-15",
-      "deaths": 4941
+      "deaths": 4953
     }
   },
   "South Africa": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 909038,
       "date": "2021-11-15",
-      "deaths": 11327
+      "deaths": 11335
     }
   },
   "Thailand": {
