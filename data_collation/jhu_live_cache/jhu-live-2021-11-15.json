@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 395460,
+      "confirmed": 397466,
       "date": "2021-11-15",
-      "deaths": 3103
+      "deaths": 3115
     }
   },
   "Kosovo": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3154398,
+          "confirmed": 3155288,
           "date": "2021-11-15",
-          "deaths": 50218
+          "deaths": 50224
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1510594,
+          "confirmed": 1511335,
           "date": "2021-11-15",
-          "deaths": 39692
+          "deaths": 39696
         }
       },
       "North Carolina": {
@@ -1677,9 +1677,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 418900,
+      "confirmed": 419745,
       "date": "2021-11-15",
-      "deaths": 5019
+      "deaths": 5026
     }
   },
   "Vietnam": {
