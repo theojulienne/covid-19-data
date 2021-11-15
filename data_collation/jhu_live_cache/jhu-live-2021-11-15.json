@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 560853,
+      "confirmed": 561925,
       "date": "2021-11-15",
-      "deaths": 7445
+      "deaths": 7471
     }
   },
   "Bahrain": {
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 958738,
+      "confirmed": 959064,
       "date": "2021-11-15",
-      "deaths": 8282
+      "deaths": 8283
     }
   },
   "Czechia": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 831874,
+      "confirmed": 838824,
       "date": "2021-11-15",
-      "deaths": 16766
+      "deaths": 16838
     }
   },
   "Guatemala": {
@@ -868,21 +868,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169069,
+          "confirmed": 169087,
           "date": "2021-11-15",
           "deaths": 1311
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202899,
+          "confirmed": 202907,
           "date": "2021-11-15",
           "deaths": 3056
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381968,
+          "confirmed": 381975,
           "date": "2021-11-15",
           "deaths": 3158
         }
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 224334,
+          "confirmed": 224778,
           "date": "2021-11-15",
-          "deaths": 3712
+          "deaths": 3717
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 225360,
+          "confirmed": 225860,
           "date": "2021-11-15",
-          "deaths": 2600
+          "deaths": 2608
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 247380,
+          "confirmed": 247667,
           "date": "2021-11-15",
-          "deaths": 1515
+          "deaths": 1527
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 731765,
+          "confirmed": 732909,
           "date": "2021-11-15",
-          "deaths": 9688
+          "deaths": 9693
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 197667,
+          "confirmed": 197889,
           "date": "2021-11-15",
           "deaths": 2580
         }
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 551542,
+      "confirmed": 552054,
       "date": "2021-11-15",
       "deaths": 13995
     }
@@ -1548,9 +1548,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1681378,
+          "confirmed": 1681976,
           "date": "2021-11-15",
-          "deaths": 24933
+          "deaths": 24951
         }
       },
       "Utah": {
