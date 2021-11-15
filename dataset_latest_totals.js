@@ -1195,13 +1195,13 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 336582,
-        "deaths": 19011,
+        "confirmed": 337485,
+        "deaths": 19076,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 330084,
-        "deaths": 18592,
+        "confirmed": 331017,
+        "deaths": 18651,
         "recovered": 0
       },
       "latest": {
