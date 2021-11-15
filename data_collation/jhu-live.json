@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 615748,
+          "confirmed": 615964,
           "date": "2021-11-15",
-          "deaths": 9984
+          "deaths": 9989
         }
       },
       "Quebec": {
@@ -1499,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 209535,
+          "confirmed": 212627,
           "date": "2021-11-15",
-          "deaths": 5685
+          "deaths": 5694
         }
       },
       "Minnesota": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 202568,
+          "confirmed": 204142,
           "date": "2021-11-15",
-          "deaths": 1191
+          "deaths": 1196
         }
       },
       "Washington": {
