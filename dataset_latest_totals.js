@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1737252,
-        "deaths": 29192,
+        "confirmed": 1738543,
+        "deaths": 29203,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1721987,
-        "deaths": 29016,
+        "confirmed": 1723506,
+        "deaths": 29022,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1755074,
-        "deaths": 29376,
+        "confirmed": 1756452,
+        "deaths": 29385,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 614656,
-          "deaths": 9978
+          "confirmed": 615225,
+          "deaths": 9981
         },
         "Prince Edward Island": {
           "confirmed": 324,
@@ -1115,18 +1115,18 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 400145,
-        "deaths": 2735,
+        "confirmed": 402561,
+        "deaths": 2738,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 386251,
-        "deaths": 2713,
+        "confirmed": 387783,
+        "deaths": 2714,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 420099,
-        "deaths": 2760,
+        "confirmed": 423322,
+        "deaths": 2767,
         "recovered": 0
       },
       "states": {
@@ -1785,18 +1785,18 @@ var covid19_dataset_latest_totals = {
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 5980260,
-        "deaths": 127173,
+        "confirmed": 5987814,
+        "deaths": 127299,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5916211,
-        "deaths": 126126,
+        "confirmed": 5924638,
+        "deaths": 126303,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 6031575,
-        "deaths": 128042,
+        "confirmed": 6037718,
+        "deaths": 128167,
         "recovered": 0
       }
     },
@@ -2749,18 +2749,18 @@ var covid19_dataset_latest_totals = {
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 2800621,
-        "deaths": 44239,
+        "confirmed": 2803213,
+        "deaths": 44430,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2783896,
-        "deaths": 43044,
+        "confirmed": 2787276,
+        "deaths": 43172,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2815080,
-        "deaths": 45272,
+        "confirmed": 2816980,
+        "deaths": 45581,
         "recovered": 0
       }
     },
@@ -2868,17 +2868,17 @@ var covid19_dataset_latest_totals = {
     },
     "RKS": {
       "back_1week": {
-        "confirmed": 160853,
+        "confirmed": 160872,
         "deaths": 2978,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 160749,
+        "confirmed": 160762,
         "deaths": 2976,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 160934,
+        "confirmed": 160948,
         "deaths": 2980,
         "recovered": 0
       }
@@ -3967,12 +3967,12 @@ var covid19_dataset_latest_totals = {
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2923751,
+        "confirmed": 2923956,
         "deaths": 89319,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2921886,
+        "confirmed": 2922116,
         "deaths": 89163,
         "recovered": 0
       },
@@ -3984,17 +3984,17 @@ var covid19_dataset_latest_totals = {
     },
     "ZMB": {
       "back_1week": {
-        "confirmed": 209869,
+        "confirmed": 209902,
         "deaths": 3663,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 209722,
+        "confirmed": 209734,
         "deaths": 3661,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 209971,
+        "confirmed": 209983,
         "deaths": 3664,
         "recovered": 0
       }

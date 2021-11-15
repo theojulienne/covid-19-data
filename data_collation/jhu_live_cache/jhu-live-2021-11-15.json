@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 513262,
+      "confirmed": 513962,
       "date": "2021-11-15",
-      "deaths": 18929
+      "deaths": 18946
     }
   },
   "Canada": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 615225,
+          "confirmed": 615603,
           "date": "2021-11-15",
-          "deaths": 9981
+          "deaths": 9984
         }
       },
       "Quebec": {
@@ -441,9 +441,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 423322,
+      "confirmed": 426992,
       "date": "2021-11-15",
-      "deaths": 2767
+      "deaths": 2772
     }
   },
   "Dominican Republic": {
@@ -513,9 +513,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 941688,
+          "confirmed": 942325,
           "date": "2021-11-15",
-          "deaths": 16571
+          "deaths": 16572
         }
       },
       "Berlin": {
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 380899,
+          "confirmed": 383650,
           "date": "2021-11-15",
-          "deaths": 10539
+          "deaths": 10544
         }
       },
       "Thuringen": {
@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6037718,
+      "confirmed": 6045212,
       "date": "2021-11-15",
-      "deaths": 128167
+      "deaths": 128272
     }
   },
   "Iraq": {
@@ -919,7 +919,7 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160948,
+      "confirmed": 160952,
       "date": "2021-11-15",
       "deaths": 2980
     }
@@ -1136,7 +1136,7 @@
     "live": {
       "confirmed": 228526,
       "date": "2021-11-15",
-      "deaths": 950
+      "deaths": 951
     }
   },
   "Oman": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2816980,
+      "confirmed": 2818511,
       "date": "2021-11-15",
-      "deaths": 45581
+      "deaths": 45709
     }
   },
   "Poland": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2925677,
+      "confirmed": 2925939,
       "date": "2021-11-15",
-      "deaths": 89746
+      "deaths": 89484
     }
   },
   "Spain": {
@@ -1434,9 +1434,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 918745,
+      "confirmed": 918750,
       "date": "2021-11-15",
-      "deaths": 11340
+      "deaths": 11342
     }
   },
   "Thailand": {
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209983,
+      "confirmed": 209996,
       "date": "2021-11-15",
       "deaths": 3666
     }
