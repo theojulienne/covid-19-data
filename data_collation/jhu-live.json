@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 211750,
+          "confirmed": 213020,
           "date": "2021-11-16",
-          "deaths": 2257
+          "deaths": 2273
         }
       },
       "Ontario": {
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 376967,
+      "confirmed": 377102,
       "date": "2021-11-16",
-      "deaths": 10352
+      "deaths": 10361
     }
   },
   "Hungary": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 892123,
+      "confirmed": 895564,
       "date": "2021-11-16",
-      "deaths": 11238
+      "deaths": 11255
     }
   },
   "Kazakhstan": {
@@ -1541,7 +1541,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 186842,
+          "confirmed": 187219,
           "date": "2021-11-16",
           "deaths": 4057
         }
@@ -1562,9 +1562,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 168735,
+          "confirmed": 169593,
           "date": "2021-11-16",
-          "deaths": 2030
+          "deaths": 2033
         }
       }
     }
