@@ -2023,17 +2023,17 @@
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 412844,
+        "confirmed": 412869,
         "deaths": 2462,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 412678,
+        "confirmed": 412708,
         "deaths": 2461,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 413008,
+        "confirmed": 413034,
         "deaths": 2462,
         "recovered": 0
       }

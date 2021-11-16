@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616383,
+          "confirmed": 616428,
           "date": "2021-11-16",
-          "deaths": 9990
+          "deaths": 9992
         }
       },
       "Quebec": {
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413034,
+      "confirmed": 413050,
       "date": "2021-11-16",
       "deaths": 2462
     }
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1514913,
+          "confirmed": 1515729,
           "date": "2021-11-16",
-          "deaths": 39706
+          "deaths": 39720
         }
       },
       "North Carolina": {
@@ -1555,9 +1555,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 204142,
+          "confirmed": 204518,
           "date": "2021-11-16",
-          "deaths": 1196
+          "deaths": 1200
         }
       },
       "Washington": {
