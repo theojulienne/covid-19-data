@@ -104,18 +104,18 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 320433,
-        "deaths": 6670,
+        "confirmed": 321243,
+        "deaths": 6700,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 308326,
-        "deaths": 6328,
+        "confirmed": 309397,
+        "deaths": 6379,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 328963,
-        "deaths": 7016,
+        "confirmed": 329341,
+        "deaths": 7055,
         "recovered": 0
       }
     },
@@ -1047,18 +1047,18 @@
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1816161,
-        "deaths": 31022,
+        "confirmed": 1819158,
+        "deaths": 31053,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1762902,
-        "deaths": 30753,
+        "confirmed": 1765654,
+        "deaths": 30775,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1890405,
-        "deaths": 31481,
+        "confirmed": 1896075,
+        "deaths": 31541,
         "recovered": 0
       }
     },
@@ -1836,17 +1836,17 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 1333989,
+        "confirmed": 1334766,
         "deaths": 8122,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1327458,
+        "confirmed": 1328218,
         "deaths": 8100,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1337190,
+        "confirmed": 1337781,
         "deaths": 8143,
         "recovered": 0
       }
@@ -2176,18 +2176,18 @@
     },
     "LTU": {
       "back_1week": {
-        "confirmed": 427118,
-        "deaths": 6111,
+        "confirmed": 428541,
+        "deaths": 6135,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 408715,
-        "deaths": 5873,
+        "confirmed": 410580,
+        "deaths": 5913,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 443226,
-        "deaths": 6317,
+        "confirmed": 444181,
+        "deaths": 6344,
         "recovered": 0
       }
     },
