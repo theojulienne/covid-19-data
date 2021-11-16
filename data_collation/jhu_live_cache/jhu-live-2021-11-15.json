@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5305742,
+      "confirmed": 5307159,
       "date": "2021-11-15",
-      "deaths": 116232
+      "deaths": 116250
     }
   },
   "Armenia": {
@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1572501,
+      "confirmed": 1572735,
       "date": "2021-11-15",
-      "deaths": 27922
+      "deaths": 27926
     }
   },
   "Belarus": {
@@ -110,16 +110,16 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 264562,
+      "confirmed": 265149,
       "date": "2021-11-15",
-      "deaths": 11985
+      "deaths": 12075
     }
   },
   "Botswana": {
     "live": {
-      "confirmed": 193701,
+      "confirmed": 194129,
       "date": "2021-11-15",
-      "deaths": 2411
+      "deaths": 2416
     }
   },
   "Brazil": {
@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 329030,
+          "confirmed": 330098,
           "date": "2021-11-15",
-          "deaths": 3171
+          "deaths": 3188
         }
       },
       "British Columbia": {
@@ -364,28 +364,28 @@
         "live": {
           "confirmed": 762233,
           "date": "2021-11-15",
-          "deaths": 16410
+          "deaths": 16413
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 335094,
           "date": "2021-11-15",
-          "deaths": 9615
+          "deaths": 9617
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 159439,
           "date": "2021-11-15",
-          "deaths": 3002
+          "deaths": 3004
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1458619,
           "date": "2021-11-15",
-          "deaths": 27582
+          "deaths": 27584
         }
       },
       "Cundinamarca": {
@@ -406,7 +406,7 @@
         "live": {
           "confirmed": 413838,
           "date": "2021-11-15",
-          "deaths": 13084
+          "deaths": 13089
         }
       }
     }
@@ -455,9 +455,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 519560,
+      "confirmed": 521792,
       "date": "2021-11-15",
-      "deaths": 32989
+      "deaths": 33088
     }
   },
   "Egypt": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 918750,
       "date": "2021-11-15",
-      "deaths": 11346
+      "deaths": 11347
     }
   },
   "Thailand": {
@@ -1492,9 +1492,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 163654,
+          "confirmed": 164749,
           "date": "2021-11-15",
-          "deaths": 3944
+          "deaths": 3947
         }
       },
       "Michigan": {
@@ -1548,7 +1548,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1682111,
+          "confirmed": 1682927,
           "date": "2021-11-15",
           "deaths": 24953
         }
