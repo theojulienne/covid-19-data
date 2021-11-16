@@ -771,9 +771,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6045212,
+      "confirmed": 6051642,
       "date": "2021-11-16",
-      "deaths": 128272
+      "deaths": 128406
     }
   },
   "Iraq": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1744440,
+      "confirmed": 1748568,
       "date": "2021-11-16",
-      "deaths": 53264
+      "deaths": 53661
     }
   },
   "Russia": {
@@ -1698,7 +1698,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 209996,
+      "confirmed": 210008,
       "date": "2021-11-16",
       "deaths": 3666
     }
