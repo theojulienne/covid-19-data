@@ -66,35 +66,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 203061,
+          "confirmed": 208075,
           "date": "2021-11-16",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 192480,
+          "confirmed": 194551,
           "date": "2021-11-16",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 166976,
+          "confirmed": 171135,
           "date": "2021-11-16",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 193850,
+          "confirmed": 196039,
           "date": "2021-11-16",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 179095,
+          "confirmed": 181146,
           "date": "2021-11-16",
           "deaths": 0
         }
@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 523485,
+      "confirmed": 524261,
       "date": "2021-11-16",
-      "deaths": 19017
+      "deaths": 19022
     }
   },
   "Bosnia and Herzegovina": {
@@ -506,65 +506,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 710313,
+          "confirmed": 710368,
           "date": "2021-11-16",
           "deaths": 11298
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 942325,
+          "confirmed": 950702,
           "date": "2021-11-16",
-          "deaths": 16572
+          "deaths": 16648
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 242964,
+          "confirmed": 245553,
           "date": "2021-11-16",
-          "deaths": 3759
+          "deaths": 3763
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 377427,
+          "confirmed": 378843,
           "date": "2021-11-16",
-          "deaths": 7977
+          "deaths": 7984
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 340483,
+          "confirmed": 341468,
           "date": "2021-11-16",
-          "deaths": 6171
+          "deaths": 6183
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1069076,
+          "confirmed": 1073306,
           "date": "2021-11-16",
-          "deaths": 18487
+          "deaths": 18539
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 207737,
+          "confirmed": 207755,
           "date": "2021-11-16",
           "deaths": 4185
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 383650,
+          "confirmed": 384354,
           "date": "2021-11-16",
-          "deaths": 10544
+          "deaths": 10546
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 173792,
+          "confirmed": 175139,
           "date": "2021-11-16",
-          "deaths": 4674
+          "deaths": 4692
         }
       }
     }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1038719,
+      "confirmed": 1039671,
       "date": "2021-11-16",
       "deaths": 17531
     }
