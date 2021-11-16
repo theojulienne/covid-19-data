@@ -1331,7 +1331,8 @@ var covid19_dataset_country_tto = {
       60984,
       61519,
       61922,
-      62267
+      62267,
+      62670
     ],
     "deaths": [
       0,
@@ -1996,7 +1997,8 @@ var covid19_dataset_country_tto = {
       1818,
       1828,
       1850,
-      1858
+      1858,
+      1870
     ],
     "recovered": [
       0,
@@ -2560,6 +2562,7 @@ var covid19_dataset_country_tto = {
       32129,
       32305,
       32454,
+      0,
       0,
       0,
       0,
