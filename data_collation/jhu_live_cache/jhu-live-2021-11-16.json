@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616365,
+          "confirmed": 616383,
           "date": "2021-11-16",
           "deaths": 9990
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 434848,
+          "confirmed": 435365,
           "date": "2021-11-16",
           "deaths": 11548
         }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 368979,
+      "confirmed": 369244,
       "date": "2021-11-16",
-      "deaths": 6630
+      "deaths": 6638
     }
   },
   "Finland": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2926075,
+      "confirmed": 2926348,
       "date": "2021-11-16",
-      "deaths": 89489
+      "deaths": 89504
     }
   },
   "Spain": {
@@ -1515,7 +1515,7 @@
         "live": {
           "confirmed": 338693,
           "date": "2021-11-16",
-          "deaths": 6073
+          "deaths": 6086
         }
       },
       "New York": {
