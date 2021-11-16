@@ -1,4 +1,11 @@
 {
+  "Afghanistan": {
+    "live": {
+      "confirmed": 156649,
+      "date": "2021-11-16",
+      "deaths": 7295
+    }
+  },
   "Albania": {
     "live": {
       "confirmed": 193269,
@@ -342,13 +349,6 @@
   },
   "Chile": {
     "subseries": {
-      "Biobio": {
-        "live": {
-          "confirmed": 156633,
-          "date": "2021-11-16",
-          "deaths": 2713
-        }
-      },
       "Metropolitana": {
         "live": {
           "confirmed": 731076,
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 241232,
+      "confirmed": 241378,
       "date": "2021-11-16",
       "deaths": 611
     }
@@ -1434,7 +1434,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 918750,
+      "confirmed": 923047,
       "date": "2021-11-16",
       "deaths": 11351
     }
@@ -1684,9 +1684,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1035138,
+      "confirmed": 1045397,
       "date": "2021-11-16",
-      "deaths": 23183
+      "deaths": 23270
     }
   },
   "West Bank and Gaza": {
