@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 971541,
+      "confirmed": 981904,
       "date": "2021-11-16",
-      "deaths": 11746
+      "deaths": 11807
     }
   },
   "Azerbaijan": {
@@ -469,7 +469,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 212607,
+      "confirmed": 213474,
       "date": "2021-11-16",
       "deaths": 1690
     }
@@ -592,9 +592,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 960844,
+      "confirmed": 966167,
       "date": "2021-11-16",
-      "deaths": 32171
+      "deaths": 32336
     }
   },
   "India": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 918750,
       "date": "2021-11-16",
-      "deaths": 11347
+      "deaths": 11348
     }
   },
   "Thailand": {
