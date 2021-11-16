@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616320,
+          "confirmed": 616365,
           "date": "2021-11-16",
           "deaths": 9990
         }
@@ -785,16 +785,16 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 503013,
+      "confirmed": 507413,
       "date": "2021-11-16",
       "deaths": 5566
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1338034,
+      "confirmed": 1338188,
       "date": "2021-11-16",
-      "deaths": 8143
+      "deaths": 8148
     }
   },
   "Italy": {
@@ -1046,9 +1046,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 353778,
+      "confirmed": 354755,
       "date": "2021-11-16",
-      "deaths": 8549
+      "deaths": 8602
     }
   },
   "Mongolia": {
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 948271,
+      "confirmed": 948391,
       "date": "2021-11-16",
-      "deaths": 14746
+      "deaths": 14747
     }
   },
   "Nepal": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3158558,
+          "confirmed": 3160498,
           "date": "2021-11-16",
-          "deaths": 50284
+          "deaths": 50289
         }
       },
       "Florida": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 166609,
+          "confirmed": 168542,
           "date": "2021-11-16",
-          "deaths": 1980
+          "deaths": 1984
         }
       },
       "Nevada": {
@@ -1527,9 +1527,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 159913,
+          "confirmed": 160063,
           "date": "2021-11-16",
-          "deaths": 1263
+          "deaths": 1265
         }
       },
       "Ohio": {
@@ -1550,7 +1550,7 @@
         "live": {
           "confirmed": 1683643,
           "date": "2021-11-16",
-          "deaths": 24953
+          "deaths": 24971
         }
       },
       "Utah": {
