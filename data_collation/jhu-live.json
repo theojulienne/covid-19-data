@@ -319,9 +319,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 213020,
+          "confirmed": 213358,
           "date": "2021-11-17",
-          "deaths": 2273
+          "deaths": 2274
         }
       },
       "Ontario": {
@@ -362,49 +362,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 762233,
+          "confirmed": 762730,
           "date": "2021-11-17",
           "deaths": 16413
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 335094,
+          "confirmed": 335350,
           "date": "2021-11-17",
           "deaths": 9617
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 159439,
+          "confirmed": 159473,
           "date": "2021-11-17",
           "deaths": 3004
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1458619,
+          "confirmed": 1458804,
           "date": "2021-11-17",
           "deaths": 27584
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 265538,
+          "confirmed": 265686,
           "date": "2021-11-17",
           "deaths": 6835
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 227841,
+          "confirmed": 227980,
           "date": "2021-11-17",
           "deaths": 7338
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 413838,
+          "confirmed": 413912,
           "date": "2021-11-17",
           "deaths": 13089
         }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 399591,
+      "confirmed": 402775,
       "date": "2021-11-17",
-      "deaths": 3137
+      "deaths": 3158
     }
   },
   "Kosovo": {
