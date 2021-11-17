@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 981904,
+      "confirmed": 996320,
       "date": "2021-11-17",
-      "deaths": 11807
+      "deaths": 11848
     }
   },
   "Azerbaijan": {
@@ -469,7 +469,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 213474,
+      "confirmed": 214496,
       "date": "2021-11-17",
       "deaths": 1701
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3230634,
+      "confirmed": 3254875,
       "date": "2021-11-17",
-      "deaths": 79161
+      "deaths": 79624
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 569866,
+      "confirmed": 578208,
       "date": "2021-11-17",
-      "deaths": 13644
+      "deaths": 13687
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 383734,
+      "confirmed": 388010,
       "date": "2021-11-17",
-      "deaths": 4959
+      "deaths": 4975
     }
   },
   "South Africa": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 923047,
       "date": "2021-11-17",
-      "deaths": 11353
+      "deaths": 11352
     }
   },
   "Thailand": {
