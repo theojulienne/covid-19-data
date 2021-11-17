@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 208245,
+      "confirmed": 208380,
       "date": "2021-11-17",
-      "deaths": 5997
+      "deaths": 6005
     }
   },
   "Argentina": {
@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616901,
+          "confirmed": 616913,
           "date": "2021-11-17",
           "deaths": 10003
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 435365,
+          "confirmed": 436083,
           "date": "2021-11-17",
           "deaths": 11548
         }
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 398018,
+      "confirmed": 398880,
       "date": "2021-11-17",
-      "deaths": 4174
+      "deaths": 4178
     }
   },
   "Ecuador": {
@@ -585,9 +585,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 377102,
+      "confirmed": 377241,
       "date": "2021-11-17",
-      "deaths": 10361
+      "deaths": 10370
     }
   },
   "Hungary": {
@@ -1046,7 +1046,7 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 354755,
+      "confirmed": 355646,
       "date": "2021-11-17",
       "deaths": 8602
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 209971,
+      "confirmed": 210447,
       "date": "2021-11-17",
-      "deaths": 7354
+      "deaths": 7367
     }
   },
   "Norway": {
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 965314,
+          "confirmed": 968075,
           "date": "2021-11-17",
-          "deaths": 88858
+          "deaths": 88905
         }
       }
     }
@@ -1534,7 +1534,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 171284,
+          "confirmed": 171786,
           "date": "2021-11-17",
           "deaths": 1796
         }
