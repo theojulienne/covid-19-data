@@ -1280,18 +1280,18 @@
     },
     "FIN": {
       "back_1week": {
-        "confirmed": 164492,
-        "deaths": 1200,
+        "confirmed": 165302,
+        "deaths": 1209,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 158991,
-        "deaths": 1170,
+        "confirmed": 159798,
+        "deaths": 1173,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 170285,
-        "deaths": 1230,
+        "confirmed": 171222,
+        "deaths": 1233,
         "recovered": 0
       }
     },
@@ -1683,18 +1683,18 @@
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 502569,
-        "deaths": 9546,
+        "confirmed": 507535,
+        "deaths": 9605,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 471474,
-        "deaths": 9251,
+        "confirmed": 472259,
+        "deaths": 9291,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 539887,
-        "deaths": 9936,
+        "confirmed": 544330,
+        "deaths": 9986,
         "recovered": 0
       }
     },
@@ -2210,18 +2210,18 @@
     },
     "LVA": {
       "back_1week": {
-        "confirmed": 232247,
-        "deaths": 3515,
+        "confirmed": 233698,
+        "deaths": 3561,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 219911,
-        "deaths": 3269,
+        "confirmed": 221795,
+        "deaths": 3312,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 240762,
-        "deaths": 3765,
+        "confirmed": 241839,
+        "deaths": 3796,
         "recovered": 0
       }
     },
@@ -2550,13 +2550,13 @@
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 212765,
-        "deaths": 2906,
+        "confirmed": 212829,
+        "deaths": 2914,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 212051,
-        "deaths": 2898,
+        "confirmed": 212150,
+        "deaths": 2899,
         "recovered": 0
       },
       "latest": {
