@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 330098,
+          "confirmed": 330419,
           "date": "2021-11-17",
-          "deaths": 3188
+          "deaths": 3201
         }
       },
       "British Columbia": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 231220,
+      "confirmed": 232839,
       "date": "2021-11-17",
       "deaths": 952
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 474735,
+      "confirmed": 474928,
       "date": "2021-11-17",
-      "deaths": 7346
+      "deaths": 7348
     }
   },
   "Paraguay": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8433988,
+      "confirmed": 8459089,
       "date": "2021-11-17",
-      "deaths": 73746
+      "deaths": 73973
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3160681,
+          "confirmed": 3161550,
           "date": "2021-11-17",
-          "deaths": 50293
+          "deaths": 50324
         }
       },
       "Florida": {
