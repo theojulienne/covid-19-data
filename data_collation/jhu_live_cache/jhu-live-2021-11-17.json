@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 193856,
+      "confirmed": 194472,
       "date": "2021-11-17",
-      "deaths": 3004
+      "deaths": 3014
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616889,
+          "confirmed": 616901,
           "date": "2021-11-17",
           "deaths": 10003
         }
@@ -471,7 +471,7 @@
     "live": {
       "confirmed": 214496,
       "date": "2021-11-17",
-      "deaths": 1701
+      "deaths": 1707
     }
   },
   "Ethiopia": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7128903,
+      "confirmed": 7149118,
       "date": "2021-11-17",
-      "deaths": 115842
+      "deaths": 115898
     }
   },
   "Georgia": {
@@ -785,9 +785,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 507413,
+      "confirmed": 511045,
       "date": "2021-11-17",
-      "deaths": 5566
+      "deaths": 5609
     }
   },
   "Israel": {
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1040924,
       "date": "2021-11-17",
-      "deaths": 17549
+      "deaths": 17575
     }
   },
   "Kenya": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3162855,
+          "confirmed": 3163196,
           "date": "2021-11-17",
-          "deaths": 50345
+          "deaths": 50346
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 657839,
+          "confirmed": 659457,
           "date": "2021-11-17",
-          "deaths": 11391
+          "deaths": 11398
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 338693,
+          "confirmed": 339123,
           "date": "2021-11-17",
-          "deaths": 6086
+          "deaths": 6096
         }
       },
       "New York": {
@@ -1550,7 +1550,7 @@
         "live": {
           "confirmed": 1684740,
           "date": "2021-11-17",
-          "deaths": 24971
+          "deaths": 25015
         }
       },
       "Utah": {
@@ -1691,9 +1691,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 457390,
+      "confirmed": 457477,
       "date": "2021-11-17",
-      "deaths": 4761
+      "deaths": 4764
     }
   },
   "Zambia": {
