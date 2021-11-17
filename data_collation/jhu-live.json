@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 959307,
+      "confirmed": 959553,
       "date": "2021-11-17",
-      "deaths": 8284
+      "deaths": 8286
     }
   },
   "Czechia": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 847188,
+      "confirmed": 853841,
       "date": "2021-11-17",
-      "deaths": 16923
+      "deaths": 17012
     }
   },
   "Guatemala": {
@@ -868,23 +868,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169096,
+          "confirmed": 169114,
           "date": "2021-11-17",
           "deaths": 1312
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202920,
+          "confirmed": 202938,
           "date": "2021-11-17",
           "deaths": 3058
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 381990,
+          "confirmed": 382017,
           "date": "2021-11-17",
-          "deaths": 3158
+          "deaths": 3160
         }
       }
     }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 225257,
+          "confirmed": 225795,
           "date": "2021-11-17",
-          "deaths": 3719
+          "deaths": 3723
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 226347,
+          "confirmed": 226946,
           "date": "2021-11-17",
-          "deaths": 2613
+          "deaths": 2616
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 247933,
+          "confirmed": 248233,
           "date": "2021-11-17",
-          "deaths": 1533
+          "deaths": 1541
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 734126,
+          "confirmed": 735741,
           "date": "2021-11-17",
-          "deaths": 9700
+          "deaths": 9710
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 198201,
+          "confirmed": 198604,
           "date": "2021-11-17",
-          "deaths": 2581
+          "deaths": 2585
         }
       }
     }
@@ -1060,9 +1060,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 948391,
+      "confirmed": 948539,
       "date": "2021-11-17",
-      "deaths": 14747
+      "deaths": 14754
     }
   },
   "Nepal": {
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1110155,
+      "confirmed": 1112682,
       "date": "2021-11-17",
-      "deaths": 18274
+      "deaths": 18283
     }
   },
   "Qatar": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 552994,
+      "confirmed": 553722,
       "date": "2021-11-17",
-      "deaths": 14034
+      "deaths": 14057
     }
   },
   "Sweden": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1516539,
+          "confirmed": 1517334,
           "date": "2021-11-17",
-          "deaths": 39723
+          "deaths": 39733
         }
       },
       "North Carolina": {
