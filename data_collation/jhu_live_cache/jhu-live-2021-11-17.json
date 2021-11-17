@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 616913,
+          "confirmed": 617017,
           "date": "2021-11-17",
           "deaths": 10003
         }
@@ -342,13 +342,6 @@
   },
   "Chile": {
     "subseries": {
-      "Biobio": {
-        "live": {
-          "confirmed": 157113,
-          "date": "2021-11-17",
-          "deaths": 2713
-        }
-      },
       "Metropolitana": {
         "live": {
           "confirmed": 732469,
@@ -792,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1338712,
+      "confirmed": 1338774,
       "date": "2021-11-17",
       "deaths": 8154
     }
@@ -926,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413050,
+      "confirmed": 413068,
       "date": "2021-11-17",
-      "deaths": 2462
+      "deaths": 2463
     }
   },
   "Kyrgyzstan": {
@@ -1048,7 +1041,7 @@
     "live": {
       "confirmed": 355646,
       "date": "2021-11-17",
-      "deaths": 8602
+      "deaths": 8661
     }
   },
   "Mongolia": {
@@ -1328,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2926348,
+      "confirmed": 2926914,
       "date": "2021-11-17",
-      "deaths": 89504
+      "deaths": 89515
     }
   },
   "Spain": {
@@ -1455,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8459089,
+      "confirmed": 8482956,
       "date": "2021-11-17",
-      "deaths": 73973
+      "deaths": 74202
     }
   },
   "US": {
@@ -1499,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 212627,
+          "confirmed": 373633,
           "date": "2021-11-17",
-          "deaths": 5694
+          "deaths": 8504
         }
       },
       "Minnesota": {
