@@ -1333,7 +1333,8 @@ var covid19_dataset_country_bdi = {
       20221,
       20221,
       20221,
-      20276
+      20276,
+      20282
     ],
     "deaths": [
       0,
@@ -1894,6 +1895,7 @@ var covid19_dataset_country_bdi = {
       9,
       9,
       9,
+      38,
       38,
       38,
       38,
@@ -2563,6 +2565,7 @@ var covid19_dataset_country_bdi = {
       773,
       773,
       773,
+      0,
       0,
       0,
       0,

@@ -1333,7 +1333,8 @@ var covid19_dataset_country_uga = {
       126833,
       126889,
       126923,
-      126965
+      126965,
+      127002
     ],
     "deaths": [
       0,
@@ -1999,7 +2000,8 @@ var covid19_dataset_country_uga = {
       3236,
       3237,
       3238,
-      3239
+      3239,
+      3241
     ],
     "recovered": [
       0,
@@ -2563,6 +2565,7 @@ var covid19_dataset_country_uga = {
       84959,
       85937,
       86826,
+      0,
       0,
       0,
       0,
