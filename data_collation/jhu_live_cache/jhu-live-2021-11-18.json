@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 194472,
+      "confirmed": 195021,
       "date": "2021-11-18",
-      "deaths": 3014
+      "deaths": 3022
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 617677,
+          "confirmed": 617763,
           "date": "2021-11-18",
           "deaths": 10008
         }
@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 959553,
+      "confirmed": 959869,
       "date": "2021-11-18",
-      "deaths": 8286
+      "deaths": 8289
     }
   },
   "Czechia": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 369437,
+      "confirmed": 369667,
       "date": "2021-11-18",
-      "deaths": 6647
+      "deaths": 6655
     }
   },
   "Finland": {
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1339232,
+      "confirmed": 1339258,
       "date": "2021-11-18",
       "deaths": 8154
     }
@@ -1307,7 +1307,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 585824,
+      "confirmed": 1040996,
       "date": "2021-11-18",
       "deaths": 13725
     }
@@ -1372,9 +1372,9 @@
       },
       "Galicia": {
         "live": {
-          "confirmed": 189343,
+          "confirmed": 189086,
           "date": "2021-11-18",
-          "deaths": 2656
+          "deaths": 2658
         }
       },
       "Madrid": {
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 205239,
+          "confirmed": 205843,
           "date": "2021-11-18",
-          "deaths": 1203
+          "deaths": 1207
         }
       },
       "Washington": {
