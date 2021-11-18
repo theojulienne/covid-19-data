@@ -355,49 +355,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 762730,
+          "confirmed": 763211,
           "date": "2021-11-18",
           "deaths": 16423
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 335350,
+          "confirmed": 335549,
           "date": "2021-11-18",
           "deaths": 9620
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 159473,
+          "confirmed": 159536,
           "date": "2021-11-18",
           "deaths": 3004
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1458804,
+          "confirmed": 1459032,
           "date": "2021-11-18",
           "deaths": 27587
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 265686,
+          "confirmed": 265729,
           "date": "2021-11-18",
           "deaths": 6835
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 227980,
+          "confirmed": 228141,
           "date": "2021-11-18",
           "deaths": 7342
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 413912,
+          "confirmed": 414107,
           "date": "2021-11-18",
           "deaths": 13093
         }
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 474928,
+      "confirmed": 475166,
       "date": "2021-11-18",
-      "deaths": 7348
+      "deaths": 7349
     }
   },
   "Paraguay": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3163196,
+          "confirmed": 3164462,
           "date": "2021-11-18",
-          "deaths": 50346
+          "deaths": 50366
         }
       },
       "Florida": {
