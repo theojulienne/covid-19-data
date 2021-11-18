@@ -1047,18 +1047,18 @@ var covid19_dataset_latest_totals = {
     },
     "CZE": {
       "back_1week": {
-        "confirmed": 1828440,
-        "deaths": 31173,
+        "confirmed": 1843019,
+        "deaths": 31229,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1773291,
-        "deaths": 30807,
+        "confirmed": 1783227,
+        "deaths": 30840,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1907629,
-        "deaths": 31636,
+        "confirmed": 1930214,
+        "deaths": 31709,
         "recovered": 0
       }
     },
