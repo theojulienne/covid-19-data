@@ -441,9 +441,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 398880,
+      "confirmed": 399773,
       "date": "2021-11-18",
-      "deaths": 4178
+      "deaths": 4182
     }
   },
   "Ecuador": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 853841,
+      "confirmed": 861117,
       "date": "2021-11-18",
-      "deaths": 17012
+      "deaths": 17075
     }
   },
   "Guatemala": {
@@ -1205,9 +1205,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1112682,
+      "confirmed": 1115080,
       "date": "2021-11-18",
-      "deaths": 18283
+      "deaths": 18295
     }
   },
   "Qatar": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 935047,
       "date": "2021-11-18",
-      "deaths": 11362
+      "deaths": 11364
     }
   },
   "Thailand": {
