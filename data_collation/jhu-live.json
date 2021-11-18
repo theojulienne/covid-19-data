@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 632887,
+      "confirmed": 634731,
       "date": "2021-11-18",
-      "deaths": 4888
+      "deaths": 4901
     }
   },
   "Belgium": {
@@ -757,9 +757,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4251945,
+      "confirmed": 4252345,
       "date": "2021-11-18",
-      "deaths": 143698
+      "deaths": 143709
     }
   },
   "Iran": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 929031,
       "date": "2021-11-18",
-      "deaths": 11358
+      "deaths": 11360
     }
   },
   "Thailand": {
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1055246,
+      "confirmed": 1065469,
       "date": "2021-11-18",
-      "deaths": 23337
+      "deaths": 23476
     }
   },
   "West Bank and Gaza": {
