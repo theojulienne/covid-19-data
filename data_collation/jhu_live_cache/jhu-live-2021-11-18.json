@@ -66,35 +66,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 210133,
+          "confirmed": 213370,
           "date": "2021-11-18",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 195357,
+          "confirmed": 196568,
           "date": "2021-11-18",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 173053,
+          "confirmed": 175920,
           "date": "2021-11-18",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 196871,
+          "confirmed": 198474,
           "date": "2021-11-18",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 182303,
+          "confirmed": 183999,
           "date": "2021-11-18",
           "deaths": 0
         }
@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 525187,
+      "confirmed": 526306,
       "date": "2021-11-18",
-      "deaths": 19030
+      "deaths": 19043
     }
   },
   "Bosnia and Herzegovina": {
@@ -357,58 +357,58 @@
         "live": {
           "confirmed": 763211,
           "date": "2021-11-18",
-          "deaths": 16423
+          "deaths": 16437
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 335549,
           "date": "2021-11-18",
-          "deaths": 9620
+          "deaths": 9625
         }
       },
       "Bolivar": {
         "live": {
           "confirmed": 159536,
           "date": "2021-11-18",
-          "deaths": 3004
+          "deaths": 3006
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1459032,
           "date": "2021-11-18",
-          "deaths": 27587
+          "deaths": 27590
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 265729,
           "date": "2021-11-18",
-          "deaths": 6835
+          "deaths": 6836
         }
       },
       "Santander": {
         "live": {
           "confirmed": 228141,
           "date": "2021-11-18",
-          "deaths": 7342
+          "deaths": 7343
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 414107,
           "date": "2021-11-18",
-          "deaths": 13093
+          "deaths": 13097
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 564901,
+      "confirmed": 565096,
       "date": "2021-11-18",
-      "deaths": 7231
+      "deaths": 7241
     }
   },
   "Croatia": {
@@ -499,65 +499,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 729140,
+          "confirmed": 729200,
           "date": "2021-11-18",
           "deaths": 11371
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 964559,
+          "confirmed": 983449,
           "date": "2021-11-18",
-          "deaths": 16725
+          "deaths": 16812
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 248443,
+          "confirmed": 251234,
           "date": "2021-11-18",
-          "deaths": 3767
+          "deaths": 3773
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 381352,
+          "confirmed": 384408,
           "date": "2021-11-18",
-          "deaths": 7991
+          "deaths": 8007
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 343905,
+          "confirmed": 346893,
           "date": "2021-11-18",
-          "deaths": 6205
+          "deaths": 6217
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1080319,
+          "confirmed": 1087953,
           "date": "2021-11-18",
-          "deaths": 18577
+          "deaths": 18601
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 211050,
+          "confirmed": 211071,
           "date": "2021-11-18",
           "deaths": 4199
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 396820,
+          "confirmed": 397189,
           "date": "2021-11-18",
-          "deaths": 10595
+          "deaths": 10597
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 177597,
+          "confirmed": 179856,
           "date": "2021-11-18",
-          "deaths": 4717
+          "deaths": 4755
         }
       }
     }
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1040924,
+      "confirmed": 1042184,
       "date": "2021-11-18",
       "deaths": 17575
     }
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 977911,
+          "confirmed": 978471,
           "date": "2021-11-18",
-          "deaths": 40024
+          "deaths": 40031
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 192635,
+          "confirmed": 192988,
           "date": "2021-11-18",
-          "deaths": 12818
+          "deaths": 12830
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162317,
+          "confirmed": 162413,
           "date": "2021-11-18",
-          "deaths": 17411
+          "deaths": 17432
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 376753,
+          "confirmed": 377001,
           "date": "2021-11-18",
-          "deaths": 44136
+          "deaths": 44187
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205558,
+          "confirmed": 205706,
           "date": "2021-11-18",
-          "deaths": 13117
+          "deaths": 13141
         }
       }
     }
