@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 208380,
+      "confirmed": 208532,
       "date": "2021-11-18",
-      "deaths": 6005
+      "deaths": 6009
     }
   },
   "Argentina": {
@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 617635,
+          "confirmed": 617677,
           "date": "2021-11-18",
           "deaths": 10008
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 436083,
+          "confirmed": 436803,
           "date": "2021-11-18",
           "deaths": 11550
         }
@@ -919,9 +919,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413068,
+      "confirmed": 413090,
       "date": "2021-11-18",
-      "deaths": 2463
+      "deaths": 2464
     }
   },
   "Kyrgyzstan": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3166334,
+          "confirmed": 3166534,
           "date": "2021-11-18",
-          "deaths": 50404
+          "deaths": 50410
         }
       },
       "Florida": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 171786,
+          "confirmed": 172227,
           "date": "2021-11-18",
           "deaths": 1796
         }
