@@ -476,9 +476,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 172373,
+      "confirmed": 173632,
       "date": "2021-11-18",
-      "deaths": 1236
+      "deaths": 1246
     }
   },
   "France": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 243340,
+      "confirmed": 244561,
       "date": "2021-11-18",
-      "deaths": 3875
+      "deaths": 3901
     }
   },
   "Lebanon": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 818035,
+      "confirmed": 818307,
       "date": "2021-11-18",
-      "deaths": 11483
+      "deaths": 11489
     }
   },
   "Netherlands": {
