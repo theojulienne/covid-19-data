@@ -104,18 +104,18 @@
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 324039,
-        "deaths": 6831,
+        "confirmed": 325521,
+        "deaths": 6867,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 312674,
-        "deaths": 6491,
+        "confirmed": 315004,
+        "deaths": 6532,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 330895,
-        "deaths": 7153,
+        "confirmed": 331914,
+        "deaths": 7183,
         "recovered": 0
       }
     },
@@ -1496,18 +1496,18 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 766818,
-        "deaths": 10662,
+        "confirmed": 771381,
+        "deaths": 10739,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 732965,
-        "deaths": 10185,
+        "confirmed": 738171,
+        "deaths": 10238,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 795847,
-        "deaths": 11212,
+        "confirmed": 800293,
+        "deaths": 11289,
         "recovered": 0
       }
     },
