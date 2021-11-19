@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 861117,
+      "confirmed": 868868,
       "date": "2021-11-19",
-      "deaths": 17075
+      "deaths": 17168
     }
   },
   "Guatemala": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169135,
+          "confirmed": 169162,
           "date": "2021-11-19",
           "deaths": 1312
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 202966,
+          "confirmed": 202992,
           "date": "2021-11-19",
           "deaths": 3060
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382037,
+          "confirmed": 382053,
           "date": "2021-11-19",
           "deaths": 3161
         }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1688050,
+          "confirmed": 1688381,
           "date": "2021-11-19",
-          "deaths": 25081
+          "deaths": 25092
         }
       },
       "Utah": {
