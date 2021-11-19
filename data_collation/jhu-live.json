@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 406065,
+      "confirmed": 409099,
       "date": "2021-11-19",
-      "deaths": 3187
+      "deaths": 3215
     }
   },
   "Kosovo": {
@@ -1555,9 +1555,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 170118,
+          "confirmed": 170545,
           "date": "2021-11-19",
-          "deaths": 2039
+          "deaths": 2041
         }
       }
     }
