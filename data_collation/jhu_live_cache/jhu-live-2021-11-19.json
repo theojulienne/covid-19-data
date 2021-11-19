@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 618414,
+          "confirmed": 618424,
           "date": "2021-11-19",
           "deaths": 10011
         }
@@ -1395,7 +1395,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 554968,
+      "confirmed": 555204,
       "date": "2021-11-19",
       "deaths": 14086
     }
@@ -1492,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 373633,
+          "confirmed": 378380,
           "date": "2021-11-19",
-          "deaths": 8504
+          "deaths": 8533
         }
       },
       "Minnesota": {
@@ -1534,7 +1534,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 188101,
+          "confirmed": 188416,
           "date": "2021-11-19",
           "deaths": 4076
         }
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 205843,
+          "confirmed": 206496,
           "date": "2021-11-19",
-          "deaths": 1207
+          "deaths": 1213
         }
       },
       "Washington": {
