@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1011465,
+      "confirmed": 1027274,
       "date": "2021-11-19",
-      "deaths": 11903
+      "deaths": 11951
     }
   },
   "Azerbaijan": {
@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 634731,
+      "confirmed": 636543,
       "date": "2021-11-19",
-      "deaths": 4901
+      "deaths": 4916
     }
   },
   "Belgium": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 935047,
       "date": "2021-11-19",
-      "deaths": 11370
+      "deaths": 11371
     }
   },
   "Thailand": {
