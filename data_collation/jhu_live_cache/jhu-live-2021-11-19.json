@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 568089,
+      "confirmed": 570322,
       "date": "2021-11-19",
-      "deaths": 7551
+      "deaths": 7579
     }
   },
   "Bahrain": {
@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 558270,
+      "confirmed": 560504,
       "date": "2021-11-19",
-      "deaths": 10113
+      "deaths": 10178
     }
   },
   "Cuba": {
@@ -764,9 +764,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6063775,
+      "confirmed": 6069559,
       "date": "2021-11-19",
-      "deaths": 128634
+      "deaths": 128734
     }
   },
   "Iraq": {
@@ -1212,16 +1212,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 241672,
+      "confirmed": 241819,
       "date": "2021-11-19",
       "deaths": 611
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1755179,
+      "confirmed": 1758068,
       "date": "2021-11-19",
-      "deaths": 54343
+      "deaths": 54624
     }
   },
   "Russia": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549377,
+      "confirmed": 549412,
       "date": "2021-11-19",
-      "deaths": 8821
+      "deaths": 8822
     }
   },
   "Serbia": {
@@ -1427,7 +1427,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 935047,
+      "confirmed": 941216,
       "date": "2021-11-19",
       "deaths": 11371
     }
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 741214,
+      "confirmed": 741291,
       "date": "2021-11-19",
       "deaths": 2144
     }
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1065469,
+      "confirmed": 1075094,
       "date": "2021-11-19",
-      "deaths": 23476
+      "deaths": 23578
     }
   },
   "West Bank and Gaza": {
