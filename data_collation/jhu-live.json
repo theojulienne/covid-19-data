@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 978471,
+          "confirmed": 979078,
           "date": "2021-11-19",
-          "deaths": 40031
+          "deaths": 40039
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 192988,
+          "confirmed": 193450,
           "date": "2021-11-19",
-          "deaths": 12830
+          "deaths": 12847
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162413,
+          "confirmed": 162523,
           "date": "2021-11-19",
-          "deaths": 17432
+          "deaths": 17468
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 377001,
+          "confirmed": 377251,
           "date": "2021-11-19",
-          "deaths": 44187
+          "deaths": 44219
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205706,
+          "confirmed": 205870,
           "date": "2021-11-19",
-          "deaths": 13141
+          "deaths": 13169
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 375747,
+      "confirmed": 376342,
       "date": "2021-11-19",
-      "deaths": 1919
+      "deaths": 1925
     }
   },
   "Morocco": {
@@ -1143,23 +1143,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 179346,
+          "confirmed": 179421,
           "date": "2021-11-19",
-          "deaths": 5809
+          "deaths": 5812
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 442162,
+          "confirmed": 442268,
           "date": "2021-11-19",
-          "deaths": 12986
+          "deaths": 12990
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 473561,
+          "confirmed": 473767,
           "date": "2021-11-19",
-          "deaths": 7609
+          "deaths": 7611
         }
       }
     }
