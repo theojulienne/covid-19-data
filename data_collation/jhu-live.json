@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 182667,
+      "confirmed": 182727,
       "date": "2021-11-19",
-      "deaths": 2715
+      "deaths": 2718
     }
   },
   "Latvia": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 190584,
+      "confirmed": 190850,
       "date": "2021-11-19",
-      "deaths": 1367
+      "deaths": 1370
     }
   },
   "Venezuela": {
