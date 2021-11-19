@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1573214,
+      "confirmed": 1573458,
       "date": "2021-11-19",
-      "deaths": 27934
+      "deaths": 27939
     }
   },
   "Belarus": {
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 475166,
+      "confirmed": 475369,
       "date": "2021-11-19",
-      "deaths": 7349
+      "deaths": 7350
     }
   },
   "Paraguay": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3166534,
+          "confirmed": 3167576,
           "date": "2021-11-19",
-          "deaths": 50410
+          "deaths": 50436
         }
       },
       "Florida": {
