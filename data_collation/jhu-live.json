@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 570322,
+      "confirmed": 572085,
       "date": "2021-11-20",
-      "deaths": 7579
+      "deaths": 7599
     }
   },
   "Bahrain": {
@@ -50,7 +50,7 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1573711,
+      "confirmed": 1573889,
       "date": "2021-11-20",
       "deaths": 27946
     }
@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 516770,
+      "confirmed": 517395,
       "date": "2021-11-20",
-      "deaths": 19000
+      "deaths": 19011
     }
   },
   "Canada": {
@@ -344,9 +344,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 734297,
+          "confirmed": 735248,
           "date": "2021-11-20",
-          "deaths": 19533
+          "deaths": 19542
         }
       }
     }
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 442881,
+      "confirmed": 446676,
       "date": "2021-11-20",
-      "deaths": 2797
+      "deaths": 2807
     }
   },
   "Dominican Republic": {
@@ -771,14 +771,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2073267,
+      "confirmed": 2073835,
       "date": "2021-11-20",
-      "deaths": 23628
+      "deaths": 23642
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 518824,
+      "confirmed": 524783,
       "date": "2021-11-20",
       "deaths": 5609
     }
@@ -898,7 +898,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254629,
+      "confirmed": 254688,
       "date": "2021-11-20",
       "deaths": 5325
     }
@@ -912,9 +912,9 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 160992,
+      "confirmed": 160999,
       "date": "2021-11-20",
-      "deaths": 2981
+      "deaths": 2982
     }
   },
   "Kuwait": {
@@ -1069,44 +1069,44 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 274705,
+          "confirmed": 277368,
           "date": "2021-11-20",
-          "deaths": 2234
+          "deaths": 2239
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 169210,
+          "confirmed": 171551,
           "date": "2021-11-20",
-          "deaths": 1802
+          "deaths": 1827
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 367993,
+          "confirmed": 371701,
           "date": "2021-11-20",
-          "deaths": 3264
+          "deaths": 3273
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 399313,
+          "confirmed": 402562,
           "date": "2021-11-20",
-          "deaths": 2810
+          "deaths": 2815
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 186937,
+          "confirmed": 188470,
           "date": "2021-11-20",
-          "deaths": 1333
+          "deaths": 1335
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 561810,
+          "confirmed": 566081,
           "date": "2021-11-20",
-          "deaths": 4514
+          "deaths": 4519
         }
       }
     }
@@ -1205,14 +1205,14 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1117451,
+      "confirmed": 1119784,
       "date": "2021-11-20",
-      "deaths": 18300
+      "deaths": 18310
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 241819,
+      "confirmed": 241969,
       "date": "2021-11-20",
       "deaths": 611
     }
@@ -1293,9 +1293,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1228328,
+      "confirmed": 1230976,
       "date": "2021-11-20",
-      "deaths": 11115
+      "deaths": 11166
     }
   },
   "Singapore": {
@@ -1395,9 +1395,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 555204,
+      "confirmed": 555700,
       "date": "2021-11-20",
-      "deaths": 14086
+      "deaths": 14108
     }
   },
   "Sweden": {
@@ -1534,9 +1534,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 188416,
+          "confirmed": 188736,
           "date": "2021-11-20",
-          "deaths": 4076
+          "deaths": 4080
         }
       },
       "Texas": {
