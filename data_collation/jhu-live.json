@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 195523,
+      "confirmed": 195988,
       "date": "2021-11-20",
-      "deaths": 3029
+      "deaths": 3035
     }
   },
   "Algeria": {
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7188721,
+      "confirmed": 7211399,
       "date": "2021-11-20",
-      "deaths": 115994
+      "deaths": 116017
     }
   },
   "Georgia": {
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 613014,
+      "confirmed": 613713,
       "date": "2021-11-20",
-      "deaths": 15822
+      "deaths": 15837
     }
   },
   "Honduras": {
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2928288,
+      "confirmed": 2929175,
       "date": "2021-11-20",
-      "deaths": 89562
+      "deaths": 89572
     }
   },
   "Spain": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 172756,
+          "confirmed": 173126,
           "date": "2021-11-20",
           "deaths": 1809
         }
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1689118,
           "date": "2021-11-20",
-          "deaths": 25124
+          "deaths": 25146
         }
       },
       "Utah": {
