@@ -1836,17 +1836,17 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 1336174,
+        "confirmed": 1336587,
         "deaths": 8138,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1332801,
+        "confirmed": 1333263,
         "deaths": 8112,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1339258,
+        "confirmed": 1339723,
         "deaths": 8154,
         "recovered": 0
       }
@@ -2987,18 +2987,18 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 230077,
-        "deaths": 548,
+        "confirmed": 233176,
+        "deaths": 562,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 210978,
-        "deaths": 459,
+        "confirmed": 212745,
+        "deaths": 468,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 244815,
-        "deaths": 619,
+        "confirmed": 248587,
+        "deaths": 641,
         "recovered": 0
       }
     },
