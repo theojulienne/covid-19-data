@@ -3140,18 +3140,18 @@
     },
     "SVK": {
       "back_1week": {
-        "confirmed": 978203,
-        "deaths": 13405,
+        "confirmed": 987623,
+        "deaths": 13446,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 922403,
-        "deaths": 13146,
+        "confirmed": 931129,
+        "deaths": 13166,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1040996,
-        "deaths": 13725,
+        "confirmed": 1051745,
+        "deaths": 13781,
         "recovered": 0
       }
     },
