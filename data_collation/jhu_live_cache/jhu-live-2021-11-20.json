@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 618558,
+          "confirmed": 619061,
           "date": "2021-11-20",
-          "deaths": 10011
+          "deaths": 10016
         }
       },
       "Quebec": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1012914,
+          "confirmed": 1013116,
           "date": "2021-11-20",
-          "deaths": 16924
+          "deaths": 16923
         }
       },
       "Berlin": {
@@ -548,9 +548,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 411924,
+          "confirmed": 419223,
           "date": "2021-11-20",
-          "deaths": 10631
+          "deaths": 10646
         }
       },
       "Thuringen": {
