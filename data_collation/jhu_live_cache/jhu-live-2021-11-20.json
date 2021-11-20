@@ -427,9 +427,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1957816,
+      "confirmed": 1980849,
       "date": "2021-11-20",
-      "deaths": 31879
+      "deaths": 32005
     }
   },
   "Denmark": {
@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 979078,
+          "confirmed": 979658,
           "date": "2021-11-20",
-          "deaths": 40039
+          "deaths": 40043
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 193450,
+          "confirmed": 193858,
           "date": "2021-11-20",
-          "deaths": 12847
+          "deaths": 12856
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162523,
+          "confirmed": 162627,
           "date": "2021-11-20",
-          "deaths": 17468
+          "deaths": 17484
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 377251,
+          "confirmed": 377398,
           "date": "2021-11-20",
-          "deaths": 44219
+          "deaths": 44232
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 205870,
+          "confirmed": 206005,
           "date": "2021-11-20",
-          "deaths": 13169
+          "deaths": 13188
         }
       }
     }
@@ -1143,21 +1143,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 179421,
+          "confirmed": 179473,
           "date": "2021-11-20",
-          "deaths": 5812
+          "deaths": 5814
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 442268,
+          "confirmed": 442353,
           "date": "2021-11-20",
-          "deaths": 12990
+          "deaths": 12994
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 473767,
+          "confirmed": 473918,
           "date": "2021-11-20",
           "deaths": 7611
         }
@@ -1166,7 +1166,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 475369,
+      "confirmed": 475577,
       "date": "2021-11-20",
       "deaths": 7350
     }
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2050980,
+      "confirmed": 2057575,
       "date": "2021-11-20",
-      "deaths": 20305
+      "deaths": 20358
     }
   },
   "Tunisia": {
