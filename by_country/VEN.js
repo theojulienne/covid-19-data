@@ -1339,8 +1339,7 @@ var covid19_dataset_country_ven = {
       420500,
       420500,
       422229,
-      422229,
-      422915
+      422229
     ],
     "deaths": [
       0,
@@ -2009,8 +2008,7 @@ var covid19_dataset_country_ven = {
       5034,
       5034,
       5049,
-      5049,
-      5057
+      5049
     ],
     "recovered": [
       0,
