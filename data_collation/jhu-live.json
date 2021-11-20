@@ -43,9 +43,9 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277322,
+      "confirmed": 277348,
       "date": "2021-11-20",
-      "deaths": 1393
+      "deaths": 1394
     }
   },
   "Bangladesh": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1689118,
+          "confirmed": 1689384,
           "date": "2021-11-20",
           "deaths": 25146
         }
