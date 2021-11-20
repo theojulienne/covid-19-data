@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5312089,
+      "confirmed": 5313607,
       "date": "2021-11-19",
-      "deaths": 116341
+      "deaths": 116360
     }
   },
   "Armenia": {
@@ -312,9 +312,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 331214,
+          "confirmed": 331626,
           "date": "2021-11-19",
-          "deaths": 3209
+          "deaths": 3211
         }
       },
       "British Columbia": {
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 715988,
+      "confirmed": 716074,
       "date": "2021-11-19",
-      "deaths": 25330
+      "deaths": 25334
     }
   },
   "Turkey": {
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 775124,
+          "confirmed": 778107,
           "date": "2021-11-19",
-          "deaths": 12536
+          "deaths": 12580
         }
       },
       "California": {
@@ -1471,7 +1471,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1916374,
+          "confirmed": 1921534,
           "date": "2021-11-19",
           "deaths": 17059
         }
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 166268,
+          "confirmed": 166818,
           "date": "2021-11-19",
-          "deaths": 3953
+          "deaths": 3959
         }
       },
       "Michigan": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1521927,
+          "confirmed": 1523281,
           "date": "2021-11-19",
-          "deaths": 39759
+          "deaths": 39762
         }
       },
       "North Carolina": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1688812,
+          "confirmed": 1688825,
           "date": "2021-11-19",
           "deaths": 25124
         }
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 422229,
+      "confirmed": 422915,
       "date": "2021-11-19",
-      "deaths": 5049
+      "deaths": 5057
     }
   },
   "Vietnam": {
