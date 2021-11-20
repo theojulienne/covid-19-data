@@ -66,35 +66,35 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 216179,
+          "confirmed": 220151,
           "date": "2021-11-20",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 197537,
+          "confirmed": 198806,
           "date": "2021-11-20",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 178501,
+          "confirmed": 182216,
           "date": "2021-11-20",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 200091,
+          "confirmed": 201707,
           "date": "2021-11-20",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 185336,
+          "confirmed": 186832,
           "date": "2021-11-20",
           "deaths": 0
         }
@@ -355,49 +355,49 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 763684,
+          "confirmed": 764161,
           "date": "2021-11-20",
           "deaths": 16443
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 335959,
+          "confirmed": 336285,
           "date": "2021-11-20",
           "deaths": 9629
         }
       },
       "Bolivar": {
         "live": {
-          "confirmed": 159581,
+          "confirmed": 159613,
           "date": "2021-11-20",
           "deaths": 3011
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1459299,
+          "confirmed": 1459654,
           "date": "2021-11-20",
           "deaths": 27596
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 265748,
+          "confirmed": 265766,
           "date": "2021-11-20",
           "deaths": 6839
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 228328,
+          "confirmed": 228502,
           "date": "2021-11-20",
           "deaths": 7348
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 414316,
+          "confirmed": 414495,
           "date": "2021-11-20",
           "deaths": 13104
         }
@@ -499,65 +499,65 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 747302,
+          "confirmed": 747380,
           "date": "2021-11-20",
-          "deaths": 11441
+          "deaths": 11443
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 999520,
+          "confirmed": 1012914,
           "date": "2021-11-20",
-          "deaths": 16863
+          "deaths": 16924
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 253559,
+          "confirmed": 255953,
           "date": "2021-11-20",
-          "deaths": 3777
+          "deaths": 3779
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 386956,
+          "confirmed": 389276,
           "date": "2021-11-20",
-          "deaths": 8018
+          "deaths": 8038
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 349517,
+          "confirmed": 351925,
           "date": "2021-11-20",
-          "deaths": 6225
+          "deaths": 6235
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1095261,
+          "confirmed": 1102682,
           "date": "2021-11-20",
-          "deaths": 18630
+          "deaths": 18659
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 214856,
+          "confirmed": 214877,
           "date": "2021-11-20",
           "deaths": 4212
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 411649,
+          "confirmed": 411924,
           "date": "2021-11-20",
-          "deaths": 10627
+          "deaths": 10631
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 182705,
+          "confirmed": 184884,
           "date": "2021-11-20",
-          "deaths": 4776
+          "deaths": 4791
         }
       }
     }
@@ -891,7 +891,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1043456,
+      "confirmed": 1044635,
       "date": "2021-11-20",
       "deaths": 17625
     }
