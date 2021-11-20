@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 208695,
+      "confirmed": 208839,
       "date": "2021-11-20",
-      "deaths": 6015
+      "deaths": 6017
     }
   },
   "Argentina": {
@@ -441,9 +441,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 400846,
+      "confirmed": 401914,
       "date": "2021-11-20",
-      "deaths": 4183
+      "deaths": 4186
     }
   },
   "Ecuador": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 369867,
+      "confirmed": 370045,
       "date": "2021-11-20",
-      "deaths": 6662
+      "deaths": 6672
     }
   },
   "Finland": {
@@ -785,7 +785,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1340078,
+      "confirmed": 1340084,
       "date": "2021-11-20",
       "deaths": 8154
     }
@@ -1448,25 +1448,25 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8529000,
+      "confirmed": 8552347,
       "date": "2021-11-20",
-      "deaths": 74646
+      "deaths": 74847
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 778107,
+          "confirmed": 781147,
           "date": "2021-11-20",
-          "deaths": 12580
+          "deaths": 12603
         }
       },
       "California": {
         "live": {
-          "confirmed": 3170901,
+          "confirmed": 3172732,
           "date": "2021-11-20",
-          "deaths": 50516
+          "deaths": 50542
         }
       },
       "Florida": {
