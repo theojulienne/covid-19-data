@@ -635,8 +635,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 436803,
-          "deaths": 11550
+          "confirmed": 437548,
+          "deaths": 11552
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1683,18 +1683,18 @@ var covid19_dataset_latest_totals = {
     },
     "HRV": {
       "back_1week": {
-        "confirmed": 521837,
-        "deaths": 9721,
+        "confirmed": 528286,
+        "deaths": 9774,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 483142,
-        "deaths": 9364,
+        "confirmed": 490074,
+        "deaths": 9400,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 558270,
-        "deaths": 10113,
+        "confirmed": 560504,
+        "deaths": 10178,
         "recovered": 0
       }
     },
@@ -2023,17 +2023,17 @@ var covid19_dataset_latest_totals = {
     },
     "KWT": {
       "back_1week": {
-        "confirmed": 412936,
+        "confirmed": 412960,
         "deaths": 2462,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 412768,
+        "confirmed": 412793,
         "deaths": 2462,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 413090,
+        "confirmed": 413106,
         "deaths": 2464,
         "recovered": 0
       }
@@ -2261,18 +2261,18 @@ var covid19_dataset_latest_totals = {
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 350697,
-        "deaths": 8323,
+        "confirmed": 351940,
+        "deaths": 8391,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 343261,
-        "deaths": 7958,
+        "confirmed": 344563,
+        "deaths": 8007,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 356448,
-        "deaths": 8709,
+        "confirmed": 357211,
+        "deaths": 8756,
         "recovered": 0
       }
     },
@@ -2346,18 +2346,18 @@ var covid19_dataset_latest_totals = {
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 207998,
-        "deaths": 7294,
+        "confirmed": 208467,
+        "deaths": 7307,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 204416,
-        "deaths": 7194,
+        "confirmed": 205022,
+        "deaths": 7204,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 210938,
-        "deaths": 7390,
+        "confirmed": 211382,
+        "deaths": 7406,
         "recovered": 0
       }
     },

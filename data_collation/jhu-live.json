@@ -333,9 +333,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 437548,
+          "confirmed": 438363,
           "date": "2021-11-20",
-          "deaths": 11552
+          "deaths": 11555
         }
       }
     }
@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 560504,
+      "confirmed": 566118,
       "date": "2021-11-20",
-      "deaths": 10178
+      "deaths": 10243
     }
   },
   "Cuba": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413106,
+      "confirmed": 413120,
       "date": "2021-11-20",
       "deaths": 2464
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 357211,
+      "confirmed": 357831,
       "date": "2021-11-20",
-      "deaths": 8756
+      "deaths": 8799
     }
   },
   "Mongolia": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 211382,
+      "confirmed": 211831,
       "date": "2021-11-20",
-      "deaths": 7406
+      "deaths": 7418
     }
   },
   "Norway": {
