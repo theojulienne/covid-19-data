@@ -22,16 +22,16 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 333583,
+      "confirmed": 334075,
       "date": "2021-11-21",
-      "deaths": 7253
+      "deaths": 7278
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 1042571,
+      "confirmed": 1056613,
       "date": "2021-11-21",
-      "deaths": 11993
+      "deaths": 12015
     }
   },
   "Azerbaijan": {
@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 528407,
+      "confirmed": 529075,
       "date": "2021-11-21",
-      "deaths": 19051
+      "deaths": 19062
     }
   },
   "Bosnia and Herzegovina": {
@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 216544,
+      "confirmed": 217381,
       "date": "2021-11-21",
-      "deaths": 1728
+      "deaths": 1735
     }
   },
   "Ethiopia": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 245623,
+      "confirmed": 246116,
       "date": "2021-11-21",
-      "deaths": 3940
+      "deaths": 3950
     }
   },
   "Lebanon": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 367218,
+      "confirmed": 367811,
       "date": "2021-11-21",
-      "deaths": 5365
+      "deaths": 5380
     }
   },
   "Lithuania": {
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304466,
+      "confirmed": 304492,
       "date": "2021-11-21",
       "deaths": 4113
     }
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3326464,
+      "confirmed": 3345388,
       "date": "2021-11-21",
-      "deaths": 80781
+      "deaths": 80822
     }
   },
   "Portugal": {
@@ -1307,9 +1307,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1064680,
+      "confirmed": 1074264,
       "date": "2021-11-21",
-      "deaths": 13818
+      "deaths": 13861
     }
   },
   "Slovenia": {
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2057575,
+      "confirmed": 2064581,
       "date": "2021-11-21",
-      "deaths": 20358
+      "deaths": 20387
     }
   },
   "Tunisia": {
