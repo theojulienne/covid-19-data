@@ -326,16 +326,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 619743,
+          "confirmed": 619748,
           "date": "2021-11-21",
           "deaths": 10019
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 438363,
+          "confirmed": 439070,
           "date": "2021-11-21",
-          "deaths": 11555
+          "deaths": 11558
         }
       }
     }
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 173126,
+          "confirmed": 173422,
           "date": "2021-11-21",
           "deaths": 1809
         }
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1689384,
           "date": "2021-11-21",
-          "deaths": 25146
+          "deaths": 25155
         }
       },
       "Utah": {
