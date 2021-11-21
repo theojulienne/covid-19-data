@@ -490,9 +490,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 808889,
+      "confirmed": 812246,
       "date": "2021-11-21",
-      "deaths": 11422
+      "deaths": 11498
     }
   },
   "Germany": {
@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 182780,
+      "confirmed": 182833,
       "date": "2021-11-21",
-      "deaths": 2720
+      "deaths": 2723
     }
   },
   "Latvia": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 191122,
+      "confirmed": 191334,
       "date": "2021-11-21",
-      "deaths": 1373
+      "deaths": 1375
     }
   },
   "Venezuela": {
