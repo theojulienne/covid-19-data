@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 572085,
+      "confirmed": 573974,
       "date": "2021-11-21",
-      "deaths": 7599
+      "deaths": 7624
     }
   },
   "Bahrain": {
@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1573889,
+      "confirmed": 1574088,
       "date": "2021-11-21",
-      "deaths": 27946
+      "deaths": 27953
     }
   },
   "Belarus": {
@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 619132,
+          "confirmed": 619670,
           "date": "2021-11-21",
-          "deaths": 10016
+          "deaths": 10019
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 446676,
+      "confirmed": 450091,
       "date": "2021-11-21",
-      "deaths": 2807
+      "deaths": 2810
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1023128,
+          "confirmed": 1023777,
           "date": "2021-11-21",
-          "deaths": 16940
+          "deaths": 16946
         }
       },
       "Berlin": {
@@ -548,9 +548,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 419227,
+          "confirmed": 425122,
           "date": "2021-11-21",
-          "deaths": 10646
+          "deaths": 10653
         }
       },
       "Thuringen": {
@@ -771,14 +771,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2073835,
+      "confirmed": 2074419,
       "date": "2021-11-21",
-      "deaths": 23642
+      "deaths": 23665
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 524783,
+      "confirmed": 528964,
       "date": "2021-11-21",
       "deaths": 5609
     }
@@ -884,9 +884,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 911270,
+      "confirmed": 914849,
       "date": "2021-11-21",
-      "deaths": 11347
+      "deaths": 11361
     }
   },
   "Kazakhstan": {
@@ -898,9 +898,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254688,
+      "confirmed": 254710,
       "date": "2021-11-21",
-      "deaths": 5325
+      "deaths": 5328
     }
   },
   "Korea, South": {
