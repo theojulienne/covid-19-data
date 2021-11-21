@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413120,
+      "confirmed": 413137,
       "date": "2021-11-21",
       "deaths": 2464
     }
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1524659,
+          "confirmed": 1527023,
           "date": "2021-11-21",
-          "deaths": 39763
+          "deaths": 39773
         }
       },
       "North Carolina": {
