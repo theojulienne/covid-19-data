@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 256082,
+          "confirmed": 256084,
           "date": "2021-11-21",
           "deaths": 3779
         }
@@ -954,9 +954,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 454199,
+      "confirmed": 455558,
       "date": "2021-11-21",
-      "deaths": 6494
+      "deaths": 6521
     }
   },
   "Malaysia": {
