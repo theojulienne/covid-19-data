@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 412311,
+      "confirmed": 415425,
       "date": "2021-11-21",
-      "deaths": 3244
+      "deaths": 3274
     }
   },
   "Kosovo": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 240103,
+      "confirmed": 241441,
       "date": "2021-11-21",
       "deaths": 999
     }
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1523281,
+          "confirmed": 1524659,
           "date": "2021-11-21",
-          "deaths": 39762
+          "deaths": 39763
         }
       },
       "North Carolina": {
