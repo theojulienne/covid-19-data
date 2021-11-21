@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 960472,
+      "confirmed": 960802,
       "date": "2021-11-21",
-      "deaths": 8293
+      "deaths": 8295
     }
   },
   "Czechia": {
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 874812,
+      "confirmed": 878920,
       "date": "2021-11-21",
-      "deaths": 17237
+      "deaths": 17313
     }
   },
   "Guatemala": {
@@ -861,21 +861,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169170,
+          "confirmed": 169188,
           "date": "2021-11-21",
           "deaths": 1312
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203009,
+          "confirmed": 203027,
           "date": "2021-11-21",
           "deaths": 3062
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382069,
+          "confirmed": 382089,
           "date": "2021-11-21",
           "deaths": 3163
         }
@@ -963,35 +963,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 227357,
+          "confirmed": 227851,
           "date": "2021-11-21",
-          "deaths": 3729
+          "deaths": 3733
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 228575,
+          "confirmed": 229012,
           "date": "2021-11-21",
-          "deaths": 2637
+          "deaths": 2639
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 249091,
+          "confirmed": 249336,
           "date": "2021-11-21",
-          "deaths": 1559
+          "deaths": 1561
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 740454,
+          "confirmed": 741819,
           "date": "2021-11-21",
           "deaths": 9727
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 199646,
+          "confirmed": 199881,
           "date": "2021-11-21",
           "deaths": 2589
         }
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2824499,
+      "confirmed": 2826410,
       "date": "2021-11-21",
-      "deaths": 46903
+      "deaths": 47074
     }
   },
   "Poland": {
@@ -1534,7 +1534,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 188736,
+          "confirmed": 188996,
           "date": "2021-11-21",
           "deaths": 4080
         }
