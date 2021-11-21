@@ -541,9 +541,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 215580,
+          "confirmed": 216426,
           "date": "2021-11-21",
-          "deaths": 4213
+          "deaths": 4215
         }
       },
       "Sachsen": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 818787,
+      "confirmed": 819019,
       "date": "2021-11-21",
-      "deaths": 11495
+      "deaths": 11496
     }
   },
   "Netherlands": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 241969,
+      "confirmed": 242087,
       "date": "2021-11-21",
       "deaths": 611
     }
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1084625,
+      "confirmed": 1094514,
       "date": "2021-11-21",
-      "deaths": 23685
+      "deaths": 23761
     }
   },
   "West Bank and Gaza": {
@@ -1691,7 +1691,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210057,
+      "confirmed": 210070,
       "date": "2021-11-21",
       "deaths": 3667
     }
