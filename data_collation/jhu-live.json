@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 475577,
+      "confirmed": 475835,
       "date": "2021-11-21",
-      "deaths": 7350
+      "deaths": 7352
     }
   },
   "Paraguay": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 941218,
       "date": "2021-11-21",
-      "deaths": 11379
+      "deaths": 11382
     }
   },
   "Thailand": {
