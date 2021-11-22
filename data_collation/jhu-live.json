@@ -427,9 +427,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 1995291,
+      "confirmed": 2003561,
       "date": "2021-11-22",
-      "deaths": 32079
+      "deaths": 32173
     }
   },
   "Denmark": {
@@ -1307,7 +1307,7 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1074264,
+      "confirmed": 1070736,
       "date": "2021-11-22",
       "deaths": 13861
     }
@@ -1434,9 +1434,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2064581,
+      "confirmed": 2071009,
       "date": "2021-11-22",
-      "deaths": 20387
+      "deaths": 20436
     }
   },
   "Tunisia": {
