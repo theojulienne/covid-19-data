@@ -905,9 +905,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 415425,
+      "confirmed": 418252,
       "date": "2021-11-22",
-      "deaths": 3274
+      "deaths": 3298
     }
   },
   "Kosovo": {
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 213532,
+      "confirmed": 213589,
       "date": "2021-11-22",
-      "deaths": 2973
+      "deaths": 2974
     }
   },
   "North Macedonia": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 242142,
+      "confirmed": 242911,
       "date": "2021-11-22",
       "deaths": 999
     }
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 475835,
+      "confirmed": 475997,
       "date": "2021-11-22",
-      "deaths": 7352
+      "deaths": 7353
     }
   },
   "Paraguay": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3172732,
+          "confirmed": 3173781,
           "date": "2021-11-22",
-          "deaths": 50542
+          "deaths": 50553
         }
       },
       "Florida": {
