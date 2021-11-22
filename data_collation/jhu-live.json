@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277389,
+      "confirmed": 277421,
       "date": "2021-11-22",
       "deaths": 1394
     }
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 620569,
+          "confirmed": 620624,
           "date": "2021-11-22",
           "deaths": 10020
         }
@@ -564,9 +564,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 613892,
+      "confirmed": 613950,
       "date": "2021-11-22",
-      "deaths": 15840
+      "deaths": 15849
     }
   },
   "Honduras": {
@@ -912,7 +912,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413137,
+      "confirmed": 413165,
       "date": "2021-11-22",
       "deaths": 2464
     }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1690357,
+          "confirmed": 1690472,
           "date": "2021-11-22",
-          "deaths": 25165
+          "deaths": 25168
         }
       },
       "Utah": {
