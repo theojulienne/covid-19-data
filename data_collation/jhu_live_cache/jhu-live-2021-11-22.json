@@ -110,9 +110,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 268572,
+      "confirmed": 269540,
       "date": "2021-11-22",
-      "deaths": 12219
+      "deaths": 12250
     }
   },
   "Botswana": {
@@ -335,7 +335,7 @@
         "live": {
           "confirmed": 439070,
           "date": "2021-11-22",
-          "deaths": 11558
+          "deaths": 11560
         }
       }
     }
@@ -476,9 +476,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7231148,
+      "confirmed": 7235966,
       "date": "2021-11-22",
-      "deaths": 116032
+      "deaths": 116127
     }
   },
   "Georgia": {
@@ -771,7 +771,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 528964,
+      "confirmed": 534594,
       "date": "2021-11-22",
       "deaths": 5609
     }
@@ -886,12 +886,12 @@
     "live": {
       "confirmed": 1046722,
       "date": "2021-11-22",
-      "deaths": 17625
+      "deaths": 17681
     }
   },
   "Kenya": {
     "live": {
-      "confirmed": 254710,
+      "confirmed": 254728,
       "date": "2021-11-22",
       "deaths": 5328
     }
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 948923,
+      "confirmed": 948976,
       "date": "2021-11-22",
-      "deaths": 14761
+      "deaths": 14764
     }
   },
   "Nepal": {
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 252188,
+      "confirmed": 253649,
       "date": "2021-11-22",
-      "deaths": 662
+      "deaths": 667
     }
   },
   "Slovakia": {
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2929862,
+      "confirmed": 2930174,
       "date": "2021-11-22",
-      "deaths": 89574
+      "deaths": 89584
     }
   },
   "Spain": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3177518,
+          "confirmed": 3178287,
           "date": "2021-11-22",
-          "deaths": 50600
+          "deaths": 50601
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 663016,
+          "confirmed": 666800,
           "date": "2021-11-22",
-          "deaths": 11429
+          "deaths": 11442
         }
       },
       "Massachusetts": {
@@ -1506,9 +1506,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 340004,
+          "confirmed": 341250,
           "date": "2021-11-22",
-          "deaths": 6121
+          "deaths": 6130
         }
       },
       "New York": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 173422,
+          "confirmed": 173806,
           "date": "2021-11-22",
           "deaths": 1809
         }
