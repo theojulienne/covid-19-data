@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 195988,
+      "confirmed": 196393,
       "date": "2021-11-22",
-      "deaths": 3035
+      "deaths": 3040
     }
   },
   "Algeria": {
@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1056613,
+      "confirmed": 1070419,
       "date": "2021-11-22",
-      "deaths": 12015
+      "deaths": 12042
     }
   },
   "Azerbaijan": {
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304492,
+      "confirmed": 304499,
       "date": "2021-11-22",
       "deaths": 4113
     }
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3345388,
+      "confirmed": 3357763,
       "date": "2021-11-22",
-      "deaths": 80822
+      "deaths": 80830
     }
   },
   "Portugal": {
@@ -1307,16 +1307,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1070736,
+      "confirmed": 1081626,
       "date": "2021-11-22",
-      "deaths": 13861
+      "deaths": 13919
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 400685,
+      "confirmed": 402083,
       "date": "2021-11-22",
-      "deaths": 5063
+      "deaths": 5080
     }
   },
   "South Africa": {
