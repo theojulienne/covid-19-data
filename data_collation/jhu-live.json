@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 462198,
+      "confirmed": 462242,
       "date": "2021-11-22",
-      "deaths": 16354
+      "deaths": 16355
     }
   },
   "Peru": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 941218,
       "date": "2021-11-22",
-      "deaths": 11386
+      "deaths": 11391
     }
   },
   "Thailand": {
