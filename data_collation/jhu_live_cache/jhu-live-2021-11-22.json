@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 377387,
+      "confirmed": 377674,
       "date": "2021-11-22",
-      "deaths": 1940
+      "deaths": 1948
     }
   },
   "Morocco": {
@@ -1143,21 +1143,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 179553,
+          "confirmed": 179604,
           "date": "2021-11-22",
-          "deaths": 5814
+          "deaths": 5816
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 442422,
+          "confirmed": 442479,
           "date": "2021-11-22",
-          "deaths": 12997
+          "deaths": 12999
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 474058,
+          "confirmed": 474243,
           "date": "2021-11-22",
           "deaths": 7611
         }
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 424441,
+      "confirmed": 425213,
       "date": "2021-11-22",
-      "deaths": 5073
+      "deaths": 5079
     }
   },
   "Vietnam": {
