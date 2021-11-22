@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 620278,
+          "confirmed": 620569,
           "date": "2021-11-22",
           "deaths": 10020
         }
@@ -462,9 +462,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 370200,
+      "confirmed": 370332,
       "date": "2021-11-22",
-      "deaths": 6682
+      "deaths": 6693
     }
   },
   "Finland": {
@@ -778,7 +778,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1341122,
+      "confirmed": 1341136,
       "date": "2021-11-22",
       "deaths": 8177
     }
@@ -1492,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 378380,
+          "confirmed": 383200,
           "date": "2021-11-22",
-          "deaths": 8533
+          "deaths": 8544
         }
       },
       "Minnesota": {
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1529195,
+          "confirmed": 1530261,
           "date": "2021-11-22",
           "deaths": 39773
         }
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 206496,
+          "confirmed": 207843,
           "date": "2021-11-22",
-          "deaths": 1213
+          "deaths": 1219
         }
       },
       "Washington": {
