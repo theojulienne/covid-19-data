@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 196393,
+      "confirmed": 196611,
       "date": "2021-11-22",
-      "deaths": 3040
+      "deaths": 3049
     }
   },
   "Algeria": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 620235,
+          "confirmed": 620250,
           "date": "2021-11-22",
           "deaths": 10020
         }
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 358202,
+      "confirmed": 358857,
       "date": "2021-11-22",
-      "deaths": 8834
+      "deaths": 8869
     }
   },
   "Mongolia": {
@@ -1330,65 +1330,65 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 815420,
+          "confirmed": 816910,
           "date": "2021-11-22",
-          "deaths": 11317
+          "deaths": 11323
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 165849,
+          "confirmed": 166524,
           "date": "2021-11-22",
-          "deaths": 3926
+          "deaths": 3931
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 522979,
+          "confirmed": 524741,
           "date": "2021-11-22",
           "deaths": 7867
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 242689,
+          "confirmed": 243135,
           "date": "2021-11-22",
-          "deaths": 6510
+          "deaths": 6513
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 305039,
+          "confirmed": 306015,
           "date": "2021-11-22",
-          "deaths": 7384
+          "deaths": 7386
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 945522,
+          "confirmed": 949215,
           "date": "2021-11-22",
           "deaths": 16000
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 189397,
+          "confirmed": 190309,
           "date": "2021-11-22",
-          "deaths": 2659
+          "deaths": 2660
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 907083,
+          "confirmed": 908288,
           "date": "2021-11-22",
           "deaths": 16281
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 270126,
+          "confirmed": 271800,
           "date": "2021-11-22",
-          "deaths": 5042
+          "deaths": 5041
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 955810,
       "date": "2021-11-22",
-      "deaths": 11400
+      "deaths": 11406
     }
   },
   "Thailand": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3173781,
+          "confirmed": 3177518,
           "date": "2021-11-22",
-          "deaths": 50553
+          "deaths": 50600
         }
       },
       "Florida": {
@@ -1499,9 +1499,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 170874,
+          "confirmed": 171633,
           "date": "2021-11-22",
-          "deaths": 2000
+          "deaths": 2004
         }
       },
       "Nevada": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1689425,
+          "confirmed": 1690357,
           "date": "2021-11-22",
-          "deaths": 25155
+          "deaths": 25165
         }
       },
       "Utah": {
