@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 208952,
+      "confirmed": 209111,
       "date": "2021-11-22",
-      "deaths": 6021
+      "deaths": 6026
     }
   },
   "Argentina": {
@@ -326,14 +326,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 620250,
+          "confirmed": 620278,
           "date": "2021-11-22",
           "deaths": 10020
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 439070,
+          "confirmed": 439762,
           "date": "2021-11-22",
           "deaths": 11560
         }
@@ -1395,9 +1395,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 556626,
+      "confirmed": 557361,
       "date": "2021-11-22",
-      "deaths": 14127
+      "deaths": 14158
     }
   },
   "Sweden": {
@@ -1457,7 +1457,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 783578,
+          "confirmed": 785777,
           "date": "2021-11-22",
           "deaths": 12603
         }
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1528369,
+          "confirmed": 1529195,
           "date": "2021-11-22",
           "deaths": 39773
         }
@@ -1691,7 +1691,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210070,
+      "confirmed": 210073,
       "date": "2021-11-22",
       "deaths": 3667
     }
