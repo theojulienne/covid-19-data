@@ -1246,18 +1246,18 @@
     },
     "EST": {
       "back_1week": {
-        "confirmed": 212096,
-        "deaths": 1673,
+        "confirmed": 212607,
+        "deaths": 1690,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 205096,
-        "deaths": 1610,
+        "confirmed": 205883,
+        "deaths": 1617,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 217381,
-        "deaths": 1735,
+        "confirmed": 217784,
+        "deaths": 1746,
         "recovered": 0
       }
     },
