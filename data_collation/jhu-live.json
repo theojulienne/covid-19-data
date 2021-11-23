@@ -750,9 +750,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4253598,
+      "confirmed": 4253992,
       "date": "2021-11-23",
-      "deaths": 143744
+      "deaths": 143753
     }
   },
   "Iran": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2826853,
+      "confirmed": 2827820,
       "date": "2021-11-23",
-      "deaths": 47288
+      "deaths": 47482
     }
   },
   "Poland": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1764251,
+      "confirmed": 1766987,
       "date": "2021-11-23",
-      "deaths": 55113
+      "deaths": 55386
     }
   },
   "Russia": {
