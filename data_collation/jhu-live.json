@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277421,
+      "confirmed": 277444,
       "date": "2021-11-23",
       "deaths": 1394
     }
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 621196,
+          "confirmed": 621243,
           "date": "2021-11-23",
           "deaths": 10026
         }
@@ -462,9 +462,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 370332,
+      "confirmed": 370522,
       "date": "2021-11-23",
-      "deaths": 6693
+      "deaths": 6704
     }
   },
   "Finland": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 462331,
+      "confirmed": 462389,
       "date": "2021-11-23",
-      "deaths": 16363
+      "deaths": 16364
     }
   },
   "Peru": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1530261,
+          "confirmed": 1531336,
           "date": "2021-11-23",
-          "deaths": 39773
+          "deaths": 39782
         }
       },
       "North Carolina": {
