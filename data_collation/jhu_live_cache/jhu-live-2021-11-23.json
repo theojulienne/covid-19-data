@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 334347,
+      "confirmed": 334878,
       "date": "2021-11-23",
-      "deaths": 7308
+      "deaths": 7356
     }
   },
   "Austria": {
@@ -506,7 +506,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 259446,
+          "confirmed": 259450,
           "date": "2021-11-23",
           "deaths": 3784
         }
@@ -578,9 +578,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1025697,
+      "confirmed": 1032215,
       "date": "2021-11-23",
-      "deaths": 33172
+      "deaths": 33343
     }
   },
   "India": {
@@ -778,7 +778,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1341136,
+      "confirmed": 1341305,
       "date": "2021-11-23",
       "deaths": 8177
     }
@@ -947,9 +947,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 456425,
+      "confirmed": 458298,
       "date": "2021-11-23",
-      "deaths": 6547
+      "deaths": 6578
     }
   },
   "Malaysia": {
@@ -1566,51 +1566,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 225860,
+          "confirmed": 227170,
           "date": "2021-11-23",
-          "deaths": 7368
+          "deaths": 7416
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 231140,
+          "confirmed": 231547,
           "date": "2021-11-23",
-          "deaths": 5372
+          "deaths": 5417
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 288063,
+          "confirmed": 289694,
           "date": "2021-11-23",
-          "deaths": 7214
+          "deaths": 7249
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 168365,
+          "confirmed": 169195,
           "date": "2021-11-23",
-          "deaths": 3944
+          "deaths": 3971
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 204337,
+          "confirmed": 204877,
           "date": "2021-11-23",
-          "deaths": 5222
+          "deaths": 5267
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 224122,
+          "confirmed": 224561,
           "date": "2021-11-23",
-          "deaths": 5002
+          "deaths": 5042
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 165236,
+          "confirmed": 166083,
           "date": "2021-11-23",
-          "deaths": 4112
+          "deaths": 4132
         }
       }
     }
