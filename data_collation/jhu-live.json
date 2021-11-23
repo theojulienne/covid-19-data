@@ -912,9 +912,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413165,
+      "confirmed": 413177,
       "date": "2021-11-23",
-      "deaths": 2464
+      "deaths": 2465
     }
   },
   "Kyrgyzstan": {
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 358857,
+      "confirmed": 359401,
       "date": "2021-11-23",
-      "deaths": 8869
+      "deaths": 8915
     }
   },
   "Mongolia": {
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 207843,
+          "confirmed": 208196,
           "date": "2021-11-23",
-          "deaths": 1219
+          "deaths": 1225
         }
       },
       "Washington": {
