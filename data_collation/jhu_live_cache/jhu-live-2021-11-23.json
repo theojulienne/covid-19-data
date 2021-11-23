@@ -357,51 +357,51 @@
         "live": {
           "confirmed": 765130,
           "date": "2021-11-23",
-          "deaths": 16468
+          "deaths": 16473
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 336914,
           "date": "2021-11-23",
-          "deaths": 9646
+          "deaths": 9648
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1460332,
           "date": "2021-11-23",
-          "deaths": 27601
+          "deaths": 27604
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 265862,
           "date": "2021-11-23",
-          "deaths": 6842
+          "deaths": 6844
         }
       },
       "Santander": {
         "live": {
           "confirmed": 228848,
           "date": "2021-11-23",
-          "deaths": 7353
+          "deaths": 7356
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 414890,
           "date": "2021-11-23",
-          "deaths": 13120
+          "deaths": 13127
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 565548,
+      "confirmed": 565952,
       "date": "2021-11-23",
-      "deaths": 7251
+      "deaths": 7264
     }
   },
   "Croatia": {
@@ -434,9 +434,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 402731,
+      "confirmed": 403438,
       "date": "2021-11-23",
-      "deaths": 4186
+      "deaths": 4190
     }
   },
   "Ecuador": {
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 475997,
+      "confirmed": 476129,
       "date": "2021-11-23",
-      "deaths": 7353
+      "deaths": 7354
     }
   },
   "Paraguay": {
@@ -1656,7 +1656,7 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 397841,
+      "confirmed": 397990,
       "date": "2021-11-23",
       "deaths": 6115
     }
