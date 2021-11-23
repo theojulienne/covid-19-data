@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 529486,
+      "confirmed": 530369,
       "date": "2021-11-23",
-      "deaths": 19068
+      "deaths": 19080
     }
   },
   "Bosnia and Herzegovina": {
@@ -420,9 +420,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2003561,
+      "confirmed": 2018069,
       "date": "2021-11-23",
-      "deaths": 32173
+      "deaths": 32304
     }
   },
   "Denmark": {
@@ -571,9 +571,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 377420,
+      "confirmed": 377527,
       "date": "2021-11-23",
-      "deaths": 10387
+      "deaths": 10393
     }
   },
   "Hungary": {
@@ -995,37 +995,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 980453,
+          "confirmed": 980658,
           "date": "2021-11-23",
-          "deaths": 40051
+          "deaths": 40055
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 194219,
+          "confirmed": 194269,
           "date": "2021-11-23",
-          "deaths": 12893
+          "deaths": 12905
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162734,
+          "confirmed": 162743,
           "date": "2021-11-23",
-          "deaths": 17501
+          "deaths": 17504
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 377644,
+          "confirmed": 377780,
           "date": "2021-11-23",
-          "deaths": 44262
+          "deaths": 44270
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 206181,
+          "confirmed": 206222,
           "date": "2021-11-23",
-          "deaths": 13208
+          "deaths": 13211
         }
       }
     }
@@ -1039,9 +1039,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 377674,
+      "confirmed": 378199,
       "date": "2021-11-23",
-      "deaths": 1948
+      "deaths": 1958
     }
   },
   "Morocco": {
@@ -1143,21 +1143,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 179604,
+          "confirmed": 179644,
           "date": "2021-11-23",
-          "deaths": 5816
+          "deaths": 5818
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 442479,
+          "confirmed": 442556,
           "date": "2021-11-23",
-          "deaths": 12999
+          "deaths": 13002
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 474243,
+          "confirmed": 474407,
           "date": "2021-11-23",
           "deaths": 7611
         }
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 425213,
+      "confirmed": 426014,
       "date": "2021-11-23",
-      "deaths": 5079
+      "deaths": 5088
     }
   },
   "Vietnam": {
