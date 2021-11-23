@@ -103,9 +103,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 529075,
+      "confirmed": 529486,
       "date": "2021-11-23",
-      "deaths": 19062
+      "deaths": 19068
     }
   },
   "Bosnia and Herzegovina": {
@@ -117,7 +117,7 @@
   },
   "Botswana": {
     "live": {
-      "confirmed": 194445,
+      "confirmed": 194652,
       "date": "2021-11-23",
       "deaths": 2416
     }
@@ -448,9 +448,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 350397,
+      "confirmed": 351267,
       "date": "2021-11-23",
-      "deaths": 19933
+      "deaths": 19991
     }
   },
   "Estonia": {
@@ -476,9 +476,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7235966,
+      "confirmed": 7324324,
       "date": "2021-11-23",
-      "deaths": 116127
+      "deaths": 117459
     }
   },
   "Georgia": {
@@ -898,9 +898,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 418252,
+      "confirmed": 420950,
       "date": "2021-11-23",
-      "deaths": 3298
+      "deaths": 3328
     }
   },
   "Kosovo": {
@@ -1441,9 +1441,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 716262,
+      "confirmed": 716298,
       "date": "2021-11-23",
-      "deaths": 25344
+      "deaths": 25347
     }
   },
   "Turkey": {
