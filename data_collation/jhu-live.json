@@ -303,9 +303,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 518471,
+      "confirmed": 519102,
       "date": "2021-11-23",
-      "deaths": 19034
+      "deaths": 19041
     }
   },
   "Canada": {
@@ -326,7 +326,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 621038,
+          "confirmed": 621054,
           "date": "2021-11-23",
           "deaths": 10024
         }
@@ -344,9 +344,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 736830,
+          "confirmed": 737240,
           "date": "2021-11-23",
-          "deaths": 19569
+          "deaths": 19581
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kosovo": {
     "live": {
-      "confirmed": 161016,
+      "confirmed": 161031,
       "date": "2021-11-23",
       "deaths": 2982
     }
@@ -1062,51 +1062,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 282552,
+          "confirmed": 285700,
           "date": "2021-11-23",
-          "deaths": 2243
+          "deaths": 2256
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 175153,
+          "confirmed": 177150,
           "date": "2021-11-23",
-          "deaths": 1831
+          "deaths": 1833
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 377558,
+          "confirmed": 381301,
           "date": "2021-11-23",
-          "deaths": 3278
+          "deaths": 3284
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 409678,
+          "confirmed": 413182,
           "date": "2021-11-23",
-          "deaths": 2822
+          "deaths": 2830
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 161021,
+          "confirmed": 162568,
           "date": "2021-11-23",
-          "deaths": 1226
+          "deaths": 1236
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 192435,
+          "confirmed": 194141,
           "date": "2021-11-23",
-          "deaths": 1340
+          "deaths": 1342
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 574517,
+          "confirmed": 578729,
           "date": "2021-11-23",
-          "deaths": 4529
+          "deaths": 4535
         }
       }
     }
@@ -1293,9 +1293,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1235828,
+      "confirmed": 1238861,
       "date": "2021-11-23",
-      "deaths": 11281
+      "deaths": 11335
     }
   },
   "Singapore": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 962165,
       "date": "2021-11-23",
-      "deaths": 11413
+      "deaths": 11416
     }
   },
   "Thailand": {
