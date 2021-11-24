@@ -355,42 +355,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 765130,
+          "confirmed": 766180,
           "date": "2021-11-24",
           "deaths": 16473
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 336914,
+          "confirmed": 337462,
           "date": "2021-11-24",
           "deaths": 9648
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1460332,
+          "confirmed": 1460790,
           "date": "2021-11-24",
           "deaths": 27604
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 265862,
+          "confirmed": 265942,
           "date": "2021-11-24",
           "deaths": 6844
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 228848,
+          "confirmed": 229285,
           "date": "2021-11-24",
           "deaths": 7356
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 414890,
+          "confirmed": 415161,
           "date": "2021-11-24",
           "deaths": 13127
         }
@@ -448,9 +448,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 351267,
+      "confirmed": 352123,
       "date": "2021-11-24",
-      "deaths": 19991
+      "deaths": 20052
     }
   },
   "Estonia": {
@@ -898,9 +898,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 420950,
+      "confirmed": 425065,
       "date": "2021-11-24",
-      "deaths": 3328
+      "deaths": 3363
     }
   },
   "Kosovo": {
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 213625,
+      "confirmed": 213677,
       "date": "2021-11-24",
       "deaths": 2974
     }
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 785777,
+          "confirmed": 787377,
           "date": "2021-11-24",
-          "deaths": 12603
+          "deaths": 12662
         }
       },
       "California": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1691848,
+          "confirmed": 1692909,
           "date": "2021-11-24",
           "deaths": 25207
         }
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 397990,
+      "confirmed": 398213,
       "date": "2021-11-24",
-      "deaths": 6115
+      "deaths": 6116
     }
   },
   "Uzbekistan": {
