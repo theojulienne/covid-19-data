@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1574636,
+      "confirmed": 1574948,
       "date": "2021-11-24",
-      "deaths": 27958
+      "deaths": 27961
     }
   },
   "Belarus": {
@@ -326,9 +326,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 621698,
+          "confirmed": 621722,
           "date": "2021-11-24",
-          "deaths": 10033
+          "deaths": 10034
         }
       },
       "Quebec": {
@@ -413,9 +413,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 961276,
+      "confirmed": 961458,
       "date": "2021-11-24",
-      "deaths": 8298
+      "deaths": 8299
     }
   },
   "Czechia": {
@@ -434,9 +434,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 404284,
+      "confirmed": 404754,
       "date": "2021-11-24",
-      "deaths": 4194
+      "deaths": 4195
     }
   },
   "Ecuador": {
@@ -571,9 +571,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 614910,
+      "confirmed": 615725,
       "date": "2021-11-24",
-      "deaths": 15855
+      "deaths": 15870
     }
   },
   "Honduras": {
@@ -778,9 +778,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 538255,
+      "confirmed": 542146,
       "date": "2021-11-24",
-      "deaths": 5609
+      "deaths": 5652
     }
   },
   "Israel": {
@@ -794,65 +794,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 483678,
+          "confirmed": 484643,
           "date": "2021-11-24",
-          "deaths": 8188
+          "deaths": 8193
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 447312,
+          "confirmed": 448368,
           "date": "2021-11-24",
-          "deaths": 13719
+          "deaths": 13733
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 414613,
+          "confirmed": 415896,
           "date": "2021-11-24",
-          "deaths": 8939
+          "deaths": 8945
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 918333,
+          "confirmed": 920540,
           "date": "2021-11-24",
-          "deaths": 34298
+          "deaths": 34311
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 394145,
+          "confirmed": 394795,
           "date": "2021-11-24",
-          "deaths": 11870
+          "deaths": 11876
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 277715,
+          "confirmed": 277988,
           "date": "2021-11-24",
-          "deaths": 6878
+          "deaths": 6880
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 319530,
+          "confirmed": 320232,
           "date": "2021-11-24",
-          "deaths": 7162
+          "deaths": 7168
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 298086,
+          "confirmed": 298477,
           "date": "2021-11-24",
-          "deaths": 7379
+          "deaths": 7383
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 503303,
+          "confirmed": 505234,
           "date": "2021-11-24",
-          "deaths": 11918
+          "deaths": 11922
         }
       }
     }
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 359401,
+      "confirmed": 360261,
       "date": "2021-11-24",
-      "deaths": 8915
+      "deaths": 8950
     }
   },
   "Mongolia": {
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 949133,
+      "confirmed": 949263,
       "date": "2021-11-24",
-      "deaths": 14766
+      "deaths": 14770
     }
   },
   "Nepal": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 212865,
+      "confirmed": 213306,
       "date": "2021-11-24",
-      "deaths": 7464
+      "deaths": 7474
     }
   },
   "Norway": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 970753,
       "date": "2021-11-24",
-      "deaths": 11434
+      "deaths": 11435
     }
   },
   "Thailand": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3181812,
+          "confirmed": 3182902,
           "date": "2021-11-24",
-          "deaths": 50660
+          "deaths": 50692
         }
       },
       "Florida": {
@@ -1499,9 +1499,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 173631,
+          "confirmed": 174365,
           "date": "2021-11-24",
-          "deaths": 2008
+          "deaths": 2015
         }
       },
       "Nevada": {
@@ -1520,9 +1520,9 @@
       },
       "North Carolina": {
         "live": {
-          "confirmed": 161399,
+          "confirmed": 161567,
           "date": "2021-11-24",
-          "deaths": 1272
+          "deaths": 1274
         }
       },
       "Ohio": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1692909,
+          "confirmed": 1693285,
           "date": "2021-11-24",
-          "deaths": 25207
+          "deaths": 25239
         }
       },
       "Utah": {
