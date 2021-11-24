@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 576703,
+      "confirmed": 578627,
       "date": "2021-11-24",
-      "deaths": 7686
+      "deaths": 7709
     }
   },
   "Bahrain": {
@@ -110,9 +110,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 270498,
+      "confirmed": 271323,
       "date": "2021-11-24",
-      "deaths": 12338
+      "deaths": 12386
     }
   },
   "Botswana": {
@@ -406,9 +406,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 576633,
+      "confirmed": 582769,
       "date": "2021-11-24",
-      "deaths": 10438
+      "deaths": 10505
     }
   },
   "Cuba": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1766987,
+      "confirmed": 1769783,
       "date": "2021-11-24",
-      "deaths": 55386
+      "deaths": 55617
     }
   },
   "Russia": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549556,
+      "confirmed": 549590,
       "date": "2021-11-24",
-      "deaths": 8827
+      "deaths": 8828
     }
   },
   "Serbia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 970753,
       "date": "2021-11-24",
-      "deaths": 11428
+      "deaths": 11430
     }
   },
   "Thailand": {
@@ -1617,9 +1617,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 741570,
+      "confirmed": 741643,
       "date": "2021-11-24",
-      "deaths": 2144
+      "deaths": 2145
     }
   },
   "United Kingdom": {
