@@ -548,7 +548,7 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 447728,
+          "confirmed": 450195,
           "date": "2021-11-24",
           "deaths": 10746
         }
@@ -564,9 +564,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 894555,
+      "confirmed": 901661,
       "date": "2021-11-24",
-      "deaths": 17517
+      "deaths": 17612
     }
   },
   "Guatemala": {
@@ -1205,14 +1205,14 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1126318,
+      "confirmed": 1130091,
       "date": "2021-11-24",
-      "deaths": 18353
+      "deaths": 18370
     }
   },
   "Qatar": {
     "live": {
-      "confirmed": 242375,
+      "confirmed": 242518,
       "date": "2021-11-24",
       "deaths": 611
     }
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 255431,
+      "confirmed": 257510,
       "date": "2021-11-24",
-      "deaths": 672
+      "deaths": 678
     }
   },
   "Slovakia": {
