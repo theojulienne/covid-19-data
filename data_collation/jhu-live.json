@@ -357,7 +357,7 @@
         "live": {
           "confirmed": 766180,
           "date": "2021-11-24",
-          "deaths": 16473
+          "deaths": 16482
         }
       },
       "Atlantico": {
@@ -385,14 +385,14 @@
         "live": {
           "confirmed": 229285,
           "date": "2021-11-24",
-          "deaths": 7356
+          "deaths": 7361
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 415161,
           "date": "2021-11-24",
-          "deaths": 13127
+          "deaths": 13134
         }
       }
     }
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3181119,
+          "confirmed": 3181812,
           "date": "2021-11-24",
-          "deaths": 50631
+          "deaths": 50660
         }
       },
       "Florida": {
