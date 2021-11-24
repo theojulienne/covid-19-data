@@ -891,9 +891,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254781,
+      "confirmed": 254816,
       "date": "2021-11-24",
-      "deaths": 5330
+      "deaths": 5332
     }
   },
   "Korea, South": {
@@ -905,7 +905,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413177,
+      "confirmed": 413198,
       "date": "2021-11-24",
       "deaths": 2465
     }
@@ -1166,9 +1166,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 462389,
+      "confirmed": 462453,
       "date": "2021-11-24",
-      "deaths": 16364
+      "deaths": 16365
     }
   },
   "Peru": {
@@ -1441,9 +1441,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8626550,
+      "confirmed": 8654142,
       "date": "2021-11-24",
-      "deaths": 75443
+      "deaths": 75618
     }
   },
   "US": {
@@ -1459,7 +1459,7 @@
         "live": {
           "confirmed": 3183082,
           "date": "2021-11-24",
-          "deaths": 50701
+          "deaths": 50713
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 383200,
+          "confirmed": 388614,
           "date": "2021-11-24",
-          "deaths": 8544
+          "deaths": 8600
         }
       },
       "Minnesota": {
@@ -1506,9 +1506,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1533317,
+          "confirmed": 1534659,
           "date": "2021-11-24",
-          "deaths": 39798
+          "deaths": 39801
         }
       },
       "North Carolina": {
