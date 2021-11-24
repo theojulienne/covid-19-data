@@ -24275,8 +24275,7 @@ var covid19_dataset_country_fra = {
       115994,
       116017,
       116032,
-      116127,
-      116210
+      116127
     ],
     "recovered": [
       0,
