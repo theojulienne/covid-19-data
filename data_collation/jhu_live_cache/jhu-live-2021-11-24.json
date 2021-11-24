@@ -594,126 +594,126 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2071371,
+          "confirmed": 2071567,
           "date": "2021-11-24",
-          "deaths": 14428
+          "deaths": 14429
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 615574,
+          "confirmed": 615781,
           "date": "2021-11-24",
-          "deaths": 6077
+          "deaths": 6079
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726191,
+          "confirmed": 726196,
           "date": "2021-11-24",
           "deaths": 9663
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1006577,
+          "confirmed": 1006616,
           "date": "2021-11-24",
-          "deaths": 13592
+          "deaths": 13593
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1440692,
+          "confirmed": 1440719,
           "date": "2021-11-24",
           "deaths": 25095
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 178677,
+          "confirmed": 178709,
           "date": "2021-11-24",
           "deaths": 3378
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 827231,
+          "confirmed": 827267,
           "date": "2021-11-24",
-          "deaths": 10091
+          "deaths": 10092
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 771565,
+          "confirmed": 771582,
           "date": "2021-11-24",
           "deaths": 10053
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 226505,
+          "confirmed": 226589,
           "date": "2021-11-24",
-          "deaths": 3834
+          "deaths": 3835
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 335528,
+          "confirmed": 335707,
           "date": "2021-11-24",
-          "deaths": 4462
+          "deaths": 4464
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 349149,
+          "confirmed": 349161,
           "date": "2021-11-24",
           "deaths": 5140
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2993777,
+          "confirmed": 2994001,
           "date": "2021-11-24",
-          "deaths": 38177
+          "deaths": 38182
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5104702,
+          "confirmed": 5109674,
           "date": "2021-11-24",
-          "deaths": 37675
+          "deaths": 38045
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 793040,
+          "confirmed": 793052,
           "date": "2021-11-24",
-          "deaths": 10526
+          "deaths": 10527
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6630531,
+          "confirmed": 6631297,
           "date": "2021-11-24",
-          "deaths": 140747
+          "deaths": 140766
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1047174,
+          "confirmed": 1047386,
           "date": "2021-11-24",
-          "deaths": 8394
+          "deaths": 8396
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 603002,
+          "confirmed": 603043,
           "date": "2021-11-24",
-          "deaths": 16586
+          "deaths": 16587
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954628,
+          "confirmed": 954651,
           "date": "2021-11-24",
           "deaths": 8955
         }
