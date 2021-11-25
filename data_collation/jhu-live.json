@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 213677,
+      "confirmed": 213818,
       "date": "2021-11-25",
       "deaths": 2974
     }
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2828660,
+      "confirmed": 2829618,
       "date": "2021-11-25",
-      "deaths": 47682
+      "deaths": 47875
     }
   },
   "Poland": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1769783,
+      "confirmed": 1771887,
       "date": "2021-11-25",
-      "deaths": 55617
+      "deaths": 55829
     }
   },
   "Russia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 970753,
       "date": "2021-11-25",
-      "deaths": 11439
+      "deaths": 11445
     }
   },
   "Thailand": {
