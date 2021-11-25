@@ -66,35 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 230396,
+          "confirmed": 234398,
           "date": "2021-11-25",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 202330,
+          "confirmed": 203794,
           "date": "2021-11-25",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 191719,
+          "confirmed": 195666,
           "date": "2021-11-25",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 205634,
+          "confirmed": 207541,
           "date": "2021-11-25",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 190602,
+          "confirmed": 192334,
+          "date": "2021-11-25",
+          "deaths": 0
+        }
+      },
+      "West Flanders": {
+        "live": {
+          "confirmed": 163772,
           "date": "2021-11-25",
           "deaths": 0
         }
@@ -492,65 +499,72 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 785337,
+          "confirmed": 785429,
           "date": "2021-11-25",
-          "deaths": 11585
+          "deaths": 11586
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1056262,
+          "confirmed": 1073658,
           "date": "2021-11-25",
-          "deaths": 17150
+          "deaths": 17236
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 262317,
+          "confirmed": 265024,
           "date": "2021-11-25",
-          "deaths": 3788
+          "deaths": 3795
+        }
+      },
+      "Brandenburg": {
+        "live": {
+          "confirmed": 164885,
+          "date": "2021-11-25",
+          "deaths": 4058
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 398062,
+          "confirmed": 401216,
           "date": "2021-11-25",
-          "deaths": 8075
+          "deaths": 8088
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 359785,
+          "confirmed": 363471,
           "date": "2021-11-25",
-          "deaths": 6278
+          "deaths": 6293
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1127092,
+          "confirmed": 1136883,
           "date": "2021-11-25",
-          "deaths": 18756
+          "deaths": 18802
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 223090,
+          "confirmed": 223110,
           "date": "2021-11-25",
           "deaths": 4247
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 450195,
+          "confirmed": 451386,
           "date": "2021-11-25",
-          "deaths": 10746
+          "deaths": 10765
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 193419,
+          "confirmed": 197015,
           "date": "2021-11-25",
-          "deaths": 4847
+          "deaths": 4878
         }
       }
     }
@@ -884,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1048550,
+      "confirmed": 1049637,
       "date": "2021-11-25",
       "deaths": 17732
     }
@@ -1159,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 476343,
+      "confirmed": 476611,
       "date": "2021-11-25",
-      "deaths": 7356
+      "deaths": 7358
     }
   },
   "Paraguay": {
@@ -1457,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3183082,
+          "confirmed": 3184125,
           "date": "2021-11-25",
-          "deaths": 50713
+          "deaths": 50741
         }
       },
       "Florida": {
@@ -1511,18 +1525,11 @@
           "deaths": 39801
         }
       },
-      "North Carolina": {
-        "live": {
-          "confirmed": 161567,
-          "date": "2021-11-25",
-          "deaths": 1274
-        }
-      },
       "Ohio": {
         "live": {
-          "confirmed": 335947,
+          "confirmed": 174770,
           "date": "2021-11-25",
-          "deaths": 4421
+          "deaths": 1813
         }
       },
       "Pennsylvania": {
