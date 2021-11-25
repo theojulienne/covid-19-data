@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 209463,
+      "confirmed": 209624,
       "date": "2021-11-25",
-      "deaths": 6035
+      "deaths": 6041
     }
   },
   "Argentina": {
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7296757,
+      "confirmed": 7330086,
       "date": "2021-11-25",
-      "deaths": 116289
+      "deaths": 116356
     }
   },
   "Georgia": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 785429,
+          "confirmed": 796760,
           "date": "2021-11-25",
-          "deaths": 11586
+          "deaths": 11622
         }
       },
       "Bayern": {
@@ -905,7 +905,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254816,
+      "confirmed": 254862,
       "date": "2021-11-25",
       "deaths": 5332
     }
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 970498,
+          "confirmed": 974442,
           "date": "2021-11-25",
-          "deaths": 88944
+          "deaths": 88803
         }
       }
     }
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2950035,
+      "confirmed": 2952500,
       "date": "2021-11-25",
-      "deaths": 89657
+      "deaths": 89771
     }
   },
   "Spain": {
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 789760,
+          "confirmed": 791573,
           "date": "2021-11-25",
-          "deaths": 12671
+          "deaths": 12713
         }
       },
       "California": {
