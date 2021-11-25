@@ -954,9 +954,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 460467,
+      "confirmed": 462431,
       "date": "2021-11-25",
-      "deaths": 6603
+      "deaths": 6627
     }
   },
   "Malaysia": {
@@ -1566,51 +1566,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 227844,
+          "confirmed": 228737,
           "date": "2021-11-25",
-          "deaths": 7477
+          "deaths": 7548
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 232109,
+          "confirmed": 232837,
           "date": "2021-11-25",
-          "deaths": 5460
+          "deaths": 5496
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 291437,
+          "confirmed": 293125,
           "date": "2021-11-25",
-          "deaths": 7284
+          "deaths": 7330
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 169990,
+          "confirmed": 170709,
           "date": "2021-11-25",
-          "deaths": 4009
+          "deaths": 4049
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 205388,
+          "confirmed": 206436,
           "date": "2021-11-25",
-          "deaths": 5312
+          "deaths": 5359
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 225052,
+          "confirmed": 225696,
           "date": "2021-11-25",
-          "deaths": 5058
+          "deaths": 5081
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 166989,
+          "confirmed": 168055,
           "date": "2021-11-25",
-          "deaths": 4158
+          "deaths": 4186
         }
       }
     }
