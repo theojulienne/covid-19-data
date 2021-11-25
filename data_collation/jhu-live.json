@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 441343,
+          "confirmed": 443547,
           "date": "2021-11-25",
-          "deaths": 11566
+          "deaths": 11571
         }
       }
     }
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413198,
+      "confirmed": 413224,
       "date": "2021-11-25",
       "deaths": 2465
     }
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 560134,
+      "confirmed": 560345,
       "date": "2021-11-25",
       "deaths": 14232
     }
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1534659,
+          "confirmed": 1536266,
           "date": "2021-11-25",
-          "deaths": 39801
+          "deaths": 39803
         }
       },
       "Ohio": {
