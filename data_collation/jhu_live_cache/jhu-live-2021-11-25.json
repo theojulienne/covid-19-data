@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 197776,
+      "confirmed": 198292,
       "date": "2021-11-25",
-      "deaths": 3063
+      "deaths": 3068
     }
   },
   "Algeria": {
@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1574948,
+      "confirmed": 1575185,
       "date": "2021-11-25",
-      "deaths": 27961
+      "deaths": 27970
     }
   },
   "Belarus": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 622409,
+          "confirmed": 622462,
           "date": "2021-11-25",
           "deaths": 10039
         }
@@ -785,16 +785,16 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 542146,
+      "confirmed": 546909,
       "date": "2021-11-25",
       "deaths": 5652
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1340481,
+      "confirmed": 1341053,
       "date": "2021-11-25",
-      "deaths": 8180
+      "deaths": 8182
     }
   },
   "Italy": {
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1049637,
       "date": "2021-11-25",
-      "deaths": 17732
+      "deaths": 17751
     }
   },
   "Kenya": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 360261,
+      "confirmed": 361116,
       "date": "2021-11-25",
-      "deaths": 8950
+      "deaths": 8985
     }
   },
   "Mongolia": {
@@ -1136,7 +1136,7 @@
     "live": {
       "confirmed": 251397,
       "date": "2021-11-25",
-      "deaths": 1049
+      "deaths": 1050
     }
   },
   "Oman": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 978801,
       "date": "2021-11-25",
-      "deaths": 11449
+      "deaths": 11455
     }
   },
   "Thailand": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 458956,
+      "confirmed": 459213,
       "date": "2021-11-25",
-      "deaths": 4783
+      "deaths": 4788
     }
   },
   "Zambia": {
