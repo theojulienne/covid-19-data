@@ -1002,37 +1002,37 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 981852,
+          "confirmed": 982549,
           "date": "2021-11-26",
-          "deaths": 40076
+          "deaths": 40086
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 195116,
+          "confirmed": 195436,
           "date": "2021-11-26",
-          "deaths": 12942
+          "deaths": 12960
         }
       },
       "Jalisco": {
         "live": {
-          "confirmed": 162921,
+          "confirmed": 163012,
           "date": "2021-11-26",
-          "deaths": 17533
+          "deaths": 17539
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 378174,
+          "confirmed": 378402,
           "date": "2021-11-26",
-          "deaths": 44304
+          "deaths": 44318
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 206505,
+          "confirmed": 206624,
           "date": "2021-11-26",
-          "deaths": 13322
+          "deaths": 13368
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 379544,
+      "confirmed": 380130,
       "date": "2021-11-26",
-      "deaths": 1976
+      "deaths": 1981
     }
   },
   "Morocco": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2088327,
+      "confirmed": 2094886,
       "date": "2021-11-26",
-      "deaths": 20581
+      "deaths": 20645
     }
   },
   "Tunisia": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8654142,
+      "confirmed": 8678609,
       "date": "2021-11-26",
-      "deaths": 75618
+      "deaths": 75840
     }
   },
   "US": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 427418,
+      "confirmed": 428453,
       "date": "2021-11-26",
-      "deaths": 5104
+      "deaths": 5115
     }
   },
   "Vietnam": {
