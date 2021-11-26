@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 623325,
+          "confirmed": 623375,
           "date": "2021-11-26",
           "deaths": 10042
         }
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 796859,
+          "confirmed": 807368,
           "date": "2021-11-26",
-          "deaths": 11622
+          "deaths": 11675
         }
       },
       "Bayern": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 174365,
+          "confirmed": 174977,
           "date": "2021-11-26",
-          "deaths": 2015
+          "deaths": 2017
         }
       },
       "Nevada": {
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 208805,
+          "confirmed": 209677,
           "date": "2021-11-26",
-          "deaths": 1228
+          "deaths": 1230
         }
       },
       "Washington": {
