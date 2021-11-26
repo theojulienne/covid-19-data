@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 623431,
+          "confirmed": 623543,
           "date": "2021-11-26",
           "deaths": 10043
         }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 370886,
+      "confirmed": 371058,
       "date": "2021-11-26",
-      "deaths": 6714
+      "deaths": 6727
     }
   },
   "Finland": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413224,
+      "confirmed": 413245,
       "date": "2021-11-26",
       "deaths": 2465
     }
@@ -1464,7 +1464,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 791573,
+          "confirmed": 793788,
           "date": "2021-11-26",
           "deaths": 12713
         }
