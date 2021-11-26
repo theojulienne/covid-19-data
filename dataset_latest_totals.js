@@ -87,18 +87,18 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 5308781,
-        "deaths": 116294,
+        "confirmed": 5310334,
+        "deaths": 116313,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5299418,
-        "deaths": 116165,
+        "confirmed": 5300985,
+        "deaths": 116184,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5317633,
-        "deaths": 116415,
+        "confirmed": 5319867,
+        "deaths": 116458,
         "recovered": 0
       }
     },
@@ -350,18 +350,18 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 662739,
-        "deaths": 26676,
+        "confirmed": 665578,
+        "deaths": 26840,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 643003,
-        "deaths": 25555,
+        "confirmed": 646856,
+        "deaths": 25754,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 679983,
-        "deaths": 27658,
+        "confirmed": 682552,
+        "deaths": 27778,
         "recovered": 0
       }
     },
@@ -587,8 +587,8 @@ var covid19_dataset_latest_totals = {
       },
       "states": {
         "Alberta": {
-          "confirmed": 333004,
-          "deaths": 3227
+          "confirmed": 333468,
+          "deaths": 3231
         },
         "British Columbia": {
           "confirmed": 216012,
@@ -1013,17 +1013,17 @@ var covid19_dataset_latest_totals = {
     },
     "CUB": {
       "back_1week": {
-        "confirmed": 959307,
+        "confirmed": 959553,
         "deaths": 8284,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 956919,
+        "confirmed": 957332,
         "deaths": 8270,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 961276,
+        "confirmed": 961458,
         "deaths": 8298,
         "recovered": 0
       }
@@ -2623,17 +2623,17 @@ var covid19_dataset_latest_totals = {
     },
     "NOR": {
       "back_1week": {
-        "confirmed": 232839,
+        "confirmed": 235314,
         "deaths": 995,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 220513,
+        "confirmed": 222296,
         "deaths": 947,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 246822,
+        "confirmed": 251397,
         "deaths": 1049,
         "recovered": 0
       }
