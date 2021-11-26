@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1108889,
+      "confirmed": 1121134,
       "date": "2021-11-26",
-      "deaths": 12233
+      "deaths": 12284
     }
   },
   "Azerbaijan": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 978801,
       "date": "2021-11-26",
-      "deaths": 11462
+      "deaths": 11464
     }
   },
   "Thailand": {
@@ -1691,7 +1691,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210112,
+      "confirmed": 210118,
       "date": "2021-11-26",
       "deaths": 3667
     }
