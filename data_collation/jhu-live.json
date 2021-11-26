@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1119111,
+      "confirmed": 1131206,
       "date": "2021-11-26",
-      "deaths": 14107
+      "deaths": 14177
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 411301,
+      "confirmed": 413664,
       "date": "2021-11-26",
-      "deaths": 5125
+      "deaths": 5142
     }
   },
   "South Africa": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 978801,
       "date": "2021-11-26",
-      "deaths": 11459
+      "deaths": 11461
     }
   },
   "Thailand": {
