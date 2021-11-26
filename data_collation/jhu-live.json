@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 531428,
+      "confirmed": 532631,
       "date": "2021-11-26",
-      "deaths": 19096
+      "deaths": 19104
     }
   },
   "Bosnia and Herzegovina": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 429002,
+      "confirmed": 432901,
       "date": "2021-11-26",
-      "deaths": 3401
+      "deaths": 3440
     }
   },
   "Kuwait": {
@@ -1120,9 +1120,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 213818,
+      "confirmed": 213883,
       "date": "2021-11-26",
-      "deaths": 2974
+      "deaths": 2975
     }
   },
   "North Macedonia": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 252704,
+      "confirmed": 254367,
       "date": "2021-11-26",
       "deaths": 1050
     }
