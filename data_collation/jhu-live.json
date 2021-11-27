@@ -413,16 +413,16 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 594475,
+      "confirmed": 599977,
       "date": "2021-11-27",
-      "deaths": 10644
+      "deaths": 10695
     }
   },
   "Cuba": {
     "live": {
-      "confirmed": 961884,
+      "confirmed": 962067,
       "date": "2021-11-27",
-      "deaths": 8299
+      "deaths": 8300
     }
   },
   "Czechia": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1341541,
+      "confirmed": 1341856,
       "date": "2021-11-27",
       "deaths": 8182
     }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 949532,
+      "confirmed": 949648,
       "date": "2021-11-27",
-      "deaths": 14773
+      "deaths": 14774
     }
   },
   "Nepal": {
@@ -1626,23 +1626,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 8538517,
+          "confirmed": 8574315,
           "date": "2021-11-27",
-          "deaths": 125801
+          "deaths": 125913
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 313011,
+          "confirmed": 314493,
           "date": "2021-11-27",
-          "deaths": 2865
+          "deaths": 2867
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 718285,
+          "confirmed": 720572,
           "date": "2021-11-27",
-          "deaths": 9545
+          "deaths": 9562
         }
       },
       "Wales": {
