@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 228227,
+          "confirmed": 228992,
           "date": "2021-11-27",
-          "deaths": 4257
+          "deaths": 4260
         }
       },
       "Sachsen": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 551528,
+      "confirmed": 556319,
       "date": "2021-11-27",
       "deaths": 5652
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 986834,
       "date": "2021-11-27",
-      "deaths": 11469
+      "deaths": 11470
     }
   },
   "Thailand": {
