@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5322127,
+      "confirmed": 5324039,
       "date": "2021-11-26",
-      "deaths": 116480
+      "deaths": 116505
     }
   },
   "Armenia": {
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 684922,
+      "confirmed": 687410,
       "date": "2021-11-26",
-      "deaths": 27891
+      "deaths": 27996
     }
   },
   "Burma": {
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 333847,
+          "confirmed": 334203,
           "date": "2021-11-26",
-          "deaths": 3232
+          "deaths": 3235
         }
       },
       "British Columbia": {
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 716861,
+      "confirmed": 716988,
       "date": "2021-11-26",
-      "deaths": 25357
+      "deaths": 25362
     }
   },
   "Turkey": {
@@ -1492,9 +1492,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 169160,
+          "confirmed": 170099,
           "date": "2021-11-26",
-          "deaths": 3969
+          "deaths": 3973
         }
       },
       "Michigan": {
@@ -1520,7 +1520,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1538587,
+          "confirmed": 1539662,
           "date": "2021-11-26",
           "deaths": 39824
         }
