@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 623597,
+          "confirmed": 624172,
           "date": "2021-11-27",
-          "deaths": 10043
+          "deaths": 10045
         }
       },
       "Quebec": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 914824,
+      "confirmed": 920683,
       "date": "2021-11-27",
-      "deaths": 17779
+      "deaths": 17861
     }
   },
   "Guatemala": {
@@ -1069,51 +1069,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 293108,
+          "confirmed": 295542,
           "date": "2021-11-27",
-          "deaths": 2298
+          "deaths": 2310
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 184219,
+          "confirmed": 186124,
           "date": "2021-11-27",
-          "deaths": 1861
+          "deaths": 1867
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 391853,
+          "confirmed": 395283,
           "date": "2021-11-27",
-          "deaths": 3302
+          "deaths": 3313
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 423389,
+          "confirmed": 426829,
           "date": "2021-11-27",
-          "deaths": 2849
+          "deaths": 2856
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 167015,
+          "confirmed": 168693,
           "date": "2021-11-27",
           "deaths": 1245
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 199382,
+          "confirmed": 201236,
           "date": "2021-11-27",
           "deaths": 1347
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 591457,
+          "confirmed": 595812,
           "date": "2021-11-27",
-          "deaths": 4563
+          "deaths": 4570
         }
       }
     }
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1136446,
+      "confirmed": 1139810,
       "date": "2021-11-27",
-      "deaths": 18393
+      "deaths": 18405
     }
   },
   "Qatar": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 259875,
+      "confirmed": 261636,
       "date": "2021-11-27",
-      "deaths": 684
+      "deaths": 690
     }
   },
   "Slovakia": {
