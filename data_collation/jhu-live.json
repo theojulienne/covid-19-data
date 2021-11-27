@@ -1173,7 +1173,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 476813,
+      "confirmed": 477096,
       "date": "2021-11-27",
       "deaths": 7360
     }
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3184125,
+          "confirmed": 3186179,
           "date": "2021-11-27",
-          "deaths": 50741
+          "deaths": 50769
         }
       },
       "Florida": {
