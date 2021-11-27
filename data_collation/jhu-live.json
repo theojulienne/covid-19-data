@@ -868,21 +868,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169233,
+          "confirmed": 169244,
           "date": "2021-11-27",
           "deaths": 1313
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203081,
+          "confirmed": 203100,
           "date": "2021-11-27",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382163,
+          "confirmed": 382179,
           "date": "2021-11-27",
           "deaths": 3164
         }
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 230315,
+          "confirmed": 230652,
           "date": "2021-11-27",
-          "deaths": 3757
+          "deaths": 3760
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 231644,
+          "confirmed": 232082,
           "date": "2021-11-27",
-          "deaths": 2672
+          "deaths": 2674
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 250229,
+          "confirmed": 250366,
           "date": "2021-11-27",
-          "deaths": 1577
+          "deaths": 1579
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 748824,
+          "confirmed": 750327,
           "date": "2021-11-27",
-          "deaths": 9758
+          "deaths": 9763
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 201760,
+          "confirmed": 202090,
           "date": "2021-11-27",
-          "deaths": 2600
+          "deaths": 2602
         }
       }
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 361828,
+      "confirmed": 362326,
       "date": "2021-11-27",
-      "deaths": 9022
+      "deaths": 9054
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 214213,
+      "confirmed": 214676,
       "date": "2021-11-27",
-      "deaths": 7511
+      "deaths": 7528
     }
   },
   "Norway": {
@@ -1300,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1246508,
+      "confirmed": 1248719,
       "date": "2021-11-27",
-      "deaths": 11484
+      "deaths": 11537
     }
   },
   "Singapore": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2952500,
+      "confirmed": 2958548,
       "date": "2021-11-27",
-      "deaths": 89771
+      "deaths": 89791
     }
   },
   "Spain": {
