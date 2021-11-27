@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 520706,
+      "confirmed": 521211,
       "date": "2021-11-27",
-      "deaths": 19067
+      "deaths": 19079
     }
   },
   "Canada": {
@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 739540,
+          "confirmed": 740278,
           "date": "2021-11-27",
-          "deaths": 19623
+          "deaths": 19640
         }
       }
     }
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 474479,
+          "confirmed": 480705,
           "date": "2021-11-27",
-          "deaths": 10883
+          "deaths": 10903
         }
       },
       "Thuringen": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 936619,
+      "confirmed": 939293,
       "date": "2021-11-27",
-      "deaths": 11486
+      "deaths": 11515
     }
   },
   "Kazakhstan": {
@@ -1534,7 +1534,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 190199,
+          "confirmed": 190694,
           "date": "2021-11-27",
           "deaths": 4093
         }
