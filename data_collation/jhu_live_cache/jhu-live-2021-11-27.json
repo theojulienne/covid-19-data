@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 470893,
+      "confirmed": 474637,
       "date": "2021-11-27",
-      "deaths": 2850
+      "deaths": 2863
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1102641,
+          "confirmed": 1102787,
           "date": "2021-11-27",
-          "deaths": 17376
+          "deaths": 17378
         }
       },
       "Berlin": {
@@ -778,9 +778,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2078521,
+      "confirmed": 2079084,
       "date": "2021-11-27",
-      "deaths": 23765
+      "deaths": 23772
     }
   },
   "Ireland": {
