@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 380616,
+      "confirmed": 380945,
       "date": "2021-11-28",
-      "deaths": 1985
+      "deaths": 1990
     }
   },
   "Morocco": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 477096,
+      "confirmed": 477306,
       "date": "2021-11-28",
-      "deaths": 7360
+      "deaths": 7361
     }
   },
   "Paraguay": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3186179,
+          "confirmed": 3186797,
           "date": "2021-11-28",
-          "deaths": 50769
+          "deaths": 50788
         }
       },
       "Florida": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 429360,
+      "confirmed": 430046,
       "date": "2021-11-28",
-      "deaths": 5124
+      "deaths": 5131
     }
   },
   "Vietnam": {
