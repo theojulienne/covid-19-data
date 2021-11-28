@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 199137,
+      "confirmed": 199555,
       "date": "2021-11-28",
-      "deaths": 3085
+      "deaths": 3089
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 624923,
+          "confirmed": 624994,
           "date": "2021-11-28",
           "deaths": 10046
         }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 406511,
+      "confirmed": 406803,
       "date": "2021-11-28",
       "deaths": 4204
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 362326,
+      "confirmed": 362433,
       "date": "2021-11-28",
-      "deaths": 9054
+      "deaths": 9069
     }
   },
   "Mongolia": {
@@ -1053,7 +1053,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 949648,
+      "confirmed": 949732,
       "date": "2021-11-28",
       "deaths": 14774
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 214676,
+      "confirmed": 215009,
       "date": "2021-11-28",
-      "deaths": 7528
+      "deaths": 7547
     }
   },
   "Norway": {

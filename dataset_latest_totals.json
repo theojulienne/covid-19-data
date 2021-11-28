@@ -36,18 +36,18 @@
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 195523,
-        "deaths": 3029,
+        "confirmed": 195988,
+        "deaths": 3035,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 192013,
-        "deaths": 2983,
+        "confirmed": 192600,
+        "deaths": 2986,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 198732,
-        "deaths": 3077,
+        "confirmed": 199137,
+        "deaths": 3085,
         "recovered": 0
       }
     },
@@ -1144,17 +1144,17 @@
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 400846,
+        "confirmed": 401914,
         "deaths": 4183,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 393383,
+        "confirmed": 394608,
         "deaths": 4165,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 406021,
+        "confirmed": 406511,
         "deaths": 4202,
         "recovered": 0
       }
@@ -2227,17 +2227,17 @@
     },
     "MAR": {
       "back_1week": {
-        "confirmed": 948705,
+        "confirmed": 948830,
         "deaths": 14758,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 948025,
+        "confirmed": 948157,
         "deaths": 14737,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 949532,
+        "confirmed": 949648,
         "deaths": 14773,
         "recovered": 0
       }
@@ -2261,18 +2261,18 @@
     },
     "MDA": {
       "back_1week": {
-        "confirmed": 357211,
-        "deaths": 8756,
+        "confirmed": 357831,
+        "deaths": 8799,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 351940,
-        "deaths": 8391,
+        "confirmed": 352670,
+        "deaths": 8446,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 361828,
-        "deaths": 9022,
+        "confirmed": 362326,
+        "deaths": 9054,
         "recovered": 0
       }
     },
@@ -2346,18 +2346,18 @@
     },
     "MKD": {
       "back_1week": {
-        "confirmed": 211382,
-        "deaths": 7406,
+        "confirmed": 211831,
+        "deaths": 7418,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 208467,
-        "deaths": 7307,
+        "confirmed": 208992,
+        "deaths": 7320,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 214213,
-        "deaths": 7511,
+        "confirmed": 214676,
+        "deaths": 7528,
         "recovered": 0
       }
     },
