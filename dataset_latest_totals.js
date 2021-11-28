@@ -2057,18 +2057,18 @@ var covid19_dataset_latest_totals = {
     },
     "LBN": {
       "back_1week": {
-        "confirmed": 657367,
-        "deaths": 8625,
+        "confirmed": 658467,
+        "deaths": 8635,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 650655,
-        "deaths": 8571,
+        "confirmed": 651788,
+        "deaths": 8577,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 665253,
-        "deaths": 8693,
+        "confirmed": 666768,
+        "deaths": 8701,
         "recovered": 0
       }
     },

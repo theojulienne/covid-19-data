@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 666768,
+      "confirmed": 668087,
       "date": "2021-11-28",
-      "deaths": 8701
+      "deaths": 8709
     }
   },
   "Libya": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3186797,
+          "confirmed": 3187371,
           "date": "2021-11-28",
-          "deaths": 50788
+          "deaths": 50795
         }
       },
       "Florida": {
