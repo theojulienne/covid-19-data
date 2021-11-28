@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 624994,
+          "confirmed": 625002,
           "date": "2021-11-28",
           "deaths": 10046
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 445755,
+          "confirmed": 446630,
           "date": "2021-11-28",
           "deaths": 11574
         }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 371177,
+      "confirmed": 371262,
       "date": "2021-11-28",
-      "deaths": 6736
+      "deaths": 6740
     }
   },
   "Finland": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 939293,
+      "confirmed": 943305,
       "date": "2021-11-28",
-      "deaths": 11515
+      "deaths": 11551
     }
   },
   "Kazakhstan": {
@@ -1012,13 +1012,6 @@
           "confirmed": 195947,
           "date": "2021-11-28",
           "deaths": 12977
-        }
-      },
-      "Jalisco": {
-        "live": {
-          "confirmed": 163206,
-          "date": "2021-11-28",
-          "deaths": 17554
         }
       },
       "Mexico": {
@@ -1527,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 175764,
+          "confirmed": 339603,
           "date": "2021-11-28",
-          "deaths": 1826
+          "deaths": 4462
         }
       },
       "Pennsylvania": {
