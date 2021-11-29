@@ -571,18 +571,18 @@ var covid19_dataset_latest_totals = {
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1772484,
-        "deaths": 29543,
+        "confirmed": 1773959,
+        "deaths": 29550,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1755074,
-        "deaths": 29376,
+        "confirmed": 1756452,
+        "deaths": 29385,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1792561,
-        "deaths": 29681,
+        "confirmed": 1794286,
+        "deaths": 29686,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 624250,
-          "deaths": 10045
+          "confirmed": 625002,
+          "deaths": 10046
         },
         "Prince Edward Island": {
           "confirmed": 363,
@@ -1115,18 +1115,18 @@ var covid19_dataset_latest_totals = {
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 446676,
-        "deaths": 2807,
+        "confirmed": 450091,
+        "deaths": 2810,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 420099,
-        "deaths": 2760,
+        "confirmed": 423322,
+        "deaths": 2767,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 474637,
-        "deaths": 2863,
+        "confirmed": 478927,
+        "deaths": 2872,
         "recovered": 0
       },
       "states": {
@@ -1802,18 +1802,18 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2073835,
-        "deaths": 23642,
+        "confirmed": 2074419,
+        "deaths": 23665,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2068388,
-        "deaths": 23483,
+        "confirmed": 2069247,
+        "deaths": 23503,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2079084,
-        "deaths": 23772,
+        "confirmed": 2079622,
+        "deaths": 23793,
         "recovered": 0
       }
     },
