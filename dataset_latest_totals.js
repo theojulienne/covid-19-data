@@ -1246,17 +1246,17 @@ var covid19_dataset_latest_totals = {
     },
     "EST": {
       "back_1week": {
-        "confirmed": 216544,
+        "confirmed": 217381,
         "deaths": 1728,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 211535,
+        "confirmed": 212096,
         "deaths": 1668,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 221160,
+        "confirmed": 221549,
         "deaths": 1789,
         "recovered": 0
       }
