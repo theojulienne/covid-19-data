@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5325560,
+      "confirmed": 5326448,
       "date": "2021-11-28",
-      "deaths": 116517
+      "deaths": 116529
     }
   },
   "Armenia": {
@@ -133,28 +133,28 @@
     "subseries": {
       "Alagoas": {
         "live": {
-          "confirmed": 241409,
+          "confirmed": 241432,
           "date": "2021-11-28",
-          "deaths": 6346
+          "deaths": 6348
         }
       },
       "Amazonas": {
         "live": {
-          "confirmed": 429743,
+          "confirmed": 429778,
           "date": "2021-11-28",
           "deaths": 13801
         }
       },
       "Bahia": {
         "live": {
-          "confirmed": 1258872,
+          "confirmed": 1259286,
           "date": "2021-11-28",
-          "deaths": 27282
+          "deaths": 27284
         }
       },
       "Ceara": {
         "live": {
-          "confirmed": 949590,
+          "confirmed": 949599,
           "date": "2021-11-28",
           "deaths": 24624
         }
@@ -168,23 +168,23 @@
       },
       "Espirito Santo": {
         "live": {
-          "confirmed": 618540,
+          "confirmed": 619366,
           "date": "2021-11-28",
-          "deaths": 13144
+          "deaths": 13157
         }
       },
       "Goias": {
         "live": {
-          "confirmed": 934805,
+          "confirmed": 934838,
           "date": "2021-11-28",
           "deaths": 24504
         }
       },
       "Maranhao": {
         "live": {
-          "confirmed": 364672,
+          "confirmed": 364674,
           "date": "2021-11-28",
-          "deaths": 10281
+          "deaths": 10285
         }
       },
       "Mato Grosso": {
@@ -203,91 +203,91 @@
       },
       "Minas Gerais": {
         "live": {
-          "confirmed": 2206864,
+          "confirmed": 2207192,
           "date": "2021-11-28",
-          "deaths": 56143
+          "deaths": 56163
         }
       },
       "Para": {
         "live": {
-          "confirmed": 607830,
+          "confirmed": 607981,
           "date": "2021-11-28",
-          "deaths": 16884
+          "deaths": 16886
         }
       },
       "Paraiba": {
         "live": {
-          "confirmed": 460269,
+          "confirmed": 460469,
           "date": "2021-11-28",
-          "deaths": 9520
+          "deaths": 9526
         }
       },
       "Parana": {
         "live": {
-          "confirmed": 1577632,
+          "confirmed": 1577931,
           "date": "2021-11-28",
-          "deaths": 40771
+          "deaths": 40772
         }
       },
       "Pernambuco": {
         "live": {
-          "confirmed": 639373,
+          "confirmed": 639479,
           "date": "2021-11-28",
-          "deaths": 20226
+          "deaths": 20232
         }
       },
       "Piaui": {
         "live": {
-          "confirmed": 331092,
+          "confirmed": 331273,
           "date": "2021-11-28",
-          "deaths": 7181
+          "deaths": 7185
         }
       },
       "Rio Grande do Norte": {
         "live": {
-          "confirmed": 381183,
+          "confirmed": 381317,
           "date": "2021-11-28",
-          "deaths": 7486
+          "deaths": 7488
         }
       },
       "Rio Grande do Sul": {
         "live": {
-          "confirmed": 1489564,
+          "confirmed": 1489933,
           "date": "2021-11-28",
-          "deaths": 36075
+          "deaths": 36077
         }
       },
       "Rio de Janeiro": {
         "live": {
-          "confirmed": 1342671,
+          "confirmed": 1342767,
           "date": "2021-11-28",
-          "deaths": 69011
+          "deaths": 69024
         }
       },
       "Rondonia": {
         "live": {
-          "confirmed": 276791,
+          "confirmed": 276933,
           "date": "2021-11-28",
-          "deaths": 6633
+          "deaths": 6636
         }
       },
       "Santa Catarina": {
         "live": {
-          "confirmed": 1231919,
+          "confirmed": 1232109,
           "date": "2021-11-28",
-          "deaths": 19973
+          "deaths": 19976
         }
       },
       "Sao Paulo": {
         "live": {
-          "confirmed": 4437386,
+          "confirmed": 4437843,
           "date": "2021-11-28",
-          "deaths": 153993
+          "deaths": 154002
         }
       },
       "Sergipe": {
         "live": {
-          "confirmed": 278187,
+          "confirmed": 278195,
           "date": "2021-11-28",
           "deaths": 6043
         }
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 688628,
+      "confirmed": 689356,
       "date": "2021-11-28",
-      "deaths": 28043
+      "deaths": 28101
     }
   },
   "Burma": {
@@ -1441,7 +1441,7 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 717163,
+      "confirmed": 717258,
       "date": "2021-11-28",
       "deaths": 25363
     }
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 796091,
+          "confirmed": 797681,
           "date": "2021-11-28",
-          "deaths": 12740
+          "deaths": 12742
         }
       },
       "California": {
@@ -1649,9 +1649,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 399181,
+      "confirmed": 399348,
       "date": "2021-11-28",
-      "deaths": 6125
+      "deaths": 6129
     }
   },
   "Uzbekistan": {
