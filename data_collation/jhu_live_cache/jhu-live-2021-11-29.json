@@ -578,9 +578,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 617495,
+      "confirmed": 617610,
       "date": "2021-11-29",
-      "deaths": 15917
+      "deaths": 15928
     }
   },
   "Honduras": {
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8726370,
+      "confirmed": 8748025,
       "date": "2021-11-29",
-      "deaths": 76233
+      "deaths": 76446
     }
   },
   "US": {
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1540385,
+          "confirmed": 1542120,
           "date": "2021-11-29",
           "deaths": 39834
         }
