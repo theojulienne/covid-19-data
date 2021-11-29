@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 651839,
+      "confirmed": 653323,
       "date": "2021-11-29",
-      "deaths": 5054
+      "deaths": 5067
     }
   },
   "Belgium": {
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 213982,
+      "confirmed": 214092,
       "date": "2021-11-29",
-      "deaths": 2975
+      "deaths": 2976
     }
   },
   "North Macedonia": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 462605,
+      "confirmed": 462908,
       "date": "2021-11-29",
-      "deaths": 16367
+      "deaths": 16461
     }
   },
   "Peru": {
@@ -1316,7 +1316,7 @@
     "live": {
       "confirmed": 418413,
       "date": "2021-11-29",
-      "deaths": 5206
+      "deaths": 5208
     }
   },
   "South Africa": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 986834,
       "date": "2021-11-29",
-      "deaths": 11477
+      "deaths": 11485
     }
   },
   "Thailand": {
@@ -1670,9 +1670,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1210340,
+      "confirmed": 1224110,
       "date": "2021-11-29",
-      "deaths": 24882
+      "deaths": 25055
     }
   },
   "West Bank and Gaza": {
@@ -1684,7 +1684,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210143,
+      "confirmed": 210150,
       "date": "2021-11-29",
       "deaths": 3667
     }
