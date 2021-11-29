@@ -364,21 +364,21 @@
         "live": {
           "confirmed": 768858,
           "date": "2021-11-29",
-          "deaths": 16523
+          "deaths": 16533
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 338801,
           "date": "2021-11-29",
-          "deaths": 9663
+          "deaths": 9668
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1462311,
           "date": "2021-11-29",
-          "deaths": 27608
+          "deaths": 27612
         }
       },
       "Cundinamarca": {
@@ -392,14 +392,14 @@
         "live": {
           "confirmed": 230486,
           "date": "2021-11-29",
-          "deaths": 7380
+          "deaths": 7382
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 416270,
           "date": "2021-11-29",
-          "deaths": 13160
+          "deaths": 13165
         }
       }
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 440896,
+      "confirmed": 444200,
       "date": "2021-11-29",
-      "deaths": 3548
+      "deaths": 3580
     }
   },
   "Kuwait": {
@@ -1515,7 +1515,7 @@
         "live": {
           "confirmed": 1540385,
           "date": "2021-11-29",
-          "deaths": 39830
+          "deaths": 39834
         }
       },
       "Ohio": {
