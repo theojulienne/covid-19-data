@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 277585,
+      "confirmed": 277628,
       "date": "2021-11-29",
       "deaths": 1394
     }
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 625672,
+          "confirmed": 626164,
           "date": "2021-11-29",
           "deaths": 10049
         }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 406803,
+      "confirmed": 407113,
       "date": "2021-11-29",
       "deaths": 4204
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 371262,
+      "confirmed": 371346,
       "date": "2021-11-29",
-      "deaths": 6740
+      "deaths": 6750
     }
   },
   "Finland": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1342948,
+      "confirmed": 1342976,
       "date": "2021-11-29",
       "deaths": 8195
     }
@@ -905,9 +905,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 254951,
+      "confirmed": 254979,
       "date": "2021-11-29",
-      "deaths": 5333
+      "deaths": 5334
     }
   },
   "Korea, South": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413266,
+      "confirmed": 413327,
       "date": "2021-11-29",
       "deaths": 2465
     }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 668087,
+      "confirmed": 668605,
       "date": "2021-11-29",
-      "deaths": 8709
+      "deaths": 8716
     }
   },
   "Libya": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 462908,
+      "confirmed": 463001,
       "date": "2021-11-29",
-      "deaths": 16461
+      "deaths": 16469
     }
   },
   "Peru": {
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8748025,
+      "confirmed": 8772342,
       "date": "2021-11-29",
-      "deaths": 76446
+      "deaths": 76635
     }
   },
   "US": {
@@ -1534,16 +1534,16 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1695281,
+          "confirmed": 1695284,
           "date": "2021-11-29",
           "deaths": 25281
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 209677,
+          "confirmed": 210547,
           "date": "2021-11-29",
-          "deaths": 1230
+          "deaths": 1235
         }
       },
       "Washington": {
