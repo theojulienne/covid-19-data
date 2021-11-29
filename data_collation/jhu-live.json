@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7433246,
+      "confirmed": 7441297,
       "date": "2021-11-29",
-      "deaths": 116473
+      "deaths": 116591
     }
   },
   "Georgia": {
@@ -785,7 +785,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 560054,
+      "confirmed": 564657,
       "date": "2021-11-29",
       "deaths": 5652
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 2961406,
+      "confirmed": 2963679,
       "date": "2021-11-29",
-      "deaths": 89797
+      "deaths": 89822
     }
   },
   "Spain": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 669643,
+          "confirmed": 675963,
           "date": "2021-11-29",
-          "deaths": 11452
+          "deaths": 11483
         }
       },
       "Massachusetts": {
@@ -1506,16 +1506,16 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 342098,
+          "confirmed": 343399,
           "date": "2021-11-29",
-          "deaths": 6161
+          "deaths": 6169
         }
       },
       "New York": {
         "live": {
-          "confirmed": 1542120,
+          "confirmed": 1545092,
           "date": "2021-11-29",
-          "deaths": 39834
+          "deaths": 39846
         }
       },
       "Ohio": {
