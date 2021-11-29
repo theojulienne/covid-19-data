@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 521561,
+      "confirmed": 521931,
       "date": "2021-11-29",
-      "deaths": 19088
+      "deaths": 19097
     }
   },
   "Canada": {
@@ -571,9 +571,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 924506,
+      "confirmed": 931183,
       "date": "2021-11-29",
-      "deaths": 17959
+      "deaths": 18067
     }
   },
   "Guatemala": {
@@ -868,23 +868,23 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169251,
+          "confirmed": 169265,
           "date": "2021-11-29",
           "deaths": 1313
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203113,
+          "confirmed": 203122,
           "date": "2021-11-29",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382188,
+          "confirmed": 382196,
           "date": "2021-11-29",
-          "deaths": 3164
+          "deaths": 3165
         }
       }
     }
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 231056,
+          "confirmed": 231469,
           "date": "2021-11-29",
-          "deaths": 3762
+          "deaths": 3768
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 232490,
+          "confirmed": 232832,
           "date": "2021-11-29",
-          "deaths": 2676
+          "deaths": 2678
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 250524,
+          "confirmed": 250622,
           "date": "2021-11-29",
-          "deaths": 1579
+          "deaths": 1581
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 751424,
+          "confirmed": 752376,
           "date": "2021-11-29",
-          "deaths": 9763
+          "deaths": 9777
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 202281,
+          "confirmed": 202462,
           "date": "2021-11-29",
-          "deaths": 2604
+          "deaths": 2609
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1006239,
       "date": "2021-11-29",
-      "deaths": 11497
+      "deaths": 11499
     }
   },
   "Thailand": {
