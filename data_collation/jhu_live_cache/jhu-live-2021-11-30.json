@@ -362,42 +362,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 768858,
+          "confirmed": 769450,
           "date": "2021-11-30",
           "deaths": 16533
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 338801,
+          "confirmed": 339008,
           "date": "2021-11-30",
           "deaths": 9668
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1462311,
+          "confirmed": 1462574,
           "date": "2021-11-30",
           "deaths": 27612
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 266162,
+          "confirmed": 266199,
           "date": "2021-11-30",
           "deaths": 6845
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 230486,
+          "confirmed": 230679,
           "date": "2021-11-30",
           "deaths": 7382
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 416270,
+          "confirmed": 416370,
           "date": "2021-11-30",
           "deaths": 13165
         }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 444200,
+      "confirmed": 447230,
       "date": "2021-11-30",
-      "deaths": 3580
+      "deaths": 3624
     }
   },
   "Kuwait": {
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 171847,
+          "confirmed": 172912,
           "date": "2021-11-30",
-          "deaths": 2056
+          "deaths": 2063
         }
       }
     }
