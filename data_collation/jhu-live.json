@@ -340,7 +340,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 447386,
+          "confirmed": 448170,
           "date": "2021-11-30",
           "deaths": 11579
         }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 407113,
+      "confirmed": 407251,
       "date": "2021-11-30",
       "deaths": 4204
     }
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 949785,
+      "confirmed": 949917,
       "date": "2021-11-30",
-      "deaths": 14775
+      "deaths": 14776
     }
   },
   "Nepal": {
@@ -1520,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 340779,
+          "confirmed": 342064,
           "date": "2021-11-30",
-          "deaths": 4462
+          "deaths": 4467
         }
       },
       "Pennsylvania": {
@@ -1536,14 +1536,14 @@
         "live": {
           "confirmed": 1696710,
           "date": "2021-11-30",
-          "deaths": 25283
+          "deaths": 25303
         }
       },
       "Utah": {
         "live": {
-          "confirmed": 210547,
+          "confirmed": 210937,
           "date": "2021-11-30",
-          "deaths": 1235
+          "deaths": 1243
         }
       },
       "Washington": {
