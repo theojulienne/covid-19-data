@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 626694,
+          "confirmed": 626804,
           "date": "2021-11-30",
-          "deaths": 10050
+          "deaths": 10051
         }
       },
       "Quebec": {
@@ -792,7 +792,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1343572,
+      "confirmed": 1343660,
       "date": "2021-11-30",
       "deaths": 8196
     }
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413327,
+      "confirmed": 413362,
       "date": "2021-11-30",
       "deaths": 2465
     }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 668605,
+      "confirmed": 670656,
       "date": "2021-11-30",
-      "deaths": 8716
+      "deaths": 8725
     }
   },
   "Libya": {
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 363110,
+      "confirmed": 363774,
       "date": "2021-11-30",
-      "deaths": 9090
+      "deaths": 9119
     }
   },
   "Mongolia": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 215125,
+      "confirmed": 215585,
       "date": "2021-11-30",
-      "deaths": 7569
+      "deaths": 7581
     }
   },
   "Norway": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 243290,
+      "confirmed": 243447,
       "date": "2021-11-30",
       "deaths": 611
     }
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8772342,
+      "confirmed": 8797558,
       "date": "2021-11-30",
-      "deaths": 76635
+      "deaths": 76842
     }
   },
   "US": {
