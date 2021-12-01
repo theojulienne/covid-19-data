@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 654718,
+      "confirmed": 656510,
       "date": "2021-12-01",
-      "deaths": 5081
+      "deaths": 5098
     }
   },
   "Belgium": {
@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 608205,
+      "confirmed": 613914,
       "date": "2021-12-01",
-      "deaths": 10899
+      "deaths": 10967
     }
   },
   "Cuba": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2832734,
+      "confirmed": 2833038,
       "date": "2021-12-01",
-      "deaths": 48545
+      "deaths": 48712
     }
   },
   "Poland": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549752,
+      "confirmed": 549786,
       "date": "2021-12-01",
-      "deaths": 8836
+      "deaths": 8837
     }
   },
   "Serbia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1025129,
       "date": "2021-12-01",
-      "deaths": 11529
+      "deaths": 11530
     }
   },
   "Thailand": {
@@ -1663,9 +1663,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 431296,
+      "confirmed": 431945,
       "date": "2021-12-01",
-      "deaths": 5144
+      "deaths": 5155
     }
   },
   "Vietnam": {
