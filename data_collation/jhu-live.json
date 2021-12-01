@@ -476,9 +476,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 186538,
+      "confirmed": 188108,
       "date": "2021-12-01",
-      "deaths": 1335
+      "deaths": 1348
     }
   },
   "France": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4256409,
+      "confirmed": 4256687,
       "date": "2021-12-01",
-      "deaths": 143830
+      "deaths": 143840
     }
   },
   "Iran": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 372636,
+      "confirmed": 373210,
       "date": "2021-12-01",
-      "deaths": 5456
+      "deaths": 5466
     }
   },
   "Lithuania": {
