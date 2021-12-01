@@ -66,42 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 250538,
+          "confirmed": 253162,
           "date": "2021-12-01",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 209832,
+          "confirmed": 211032,
           "date": "2021-12-01",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 211351,
+          "confirmed": 214385,
           "date": "2021-12-01",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 215018,
+          "confirmed": 216114,
           "date": "2021-12-01",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 198495,
+          "confirmed": 199715,
           "date": "2021-12-01",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 176629,
+          "confirmed": 179160,
           "date": "2021-12-01",
           "deaths": 0
         }
@@ -406,9 +406,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 566560,
+      "confirmed": 566839,
       "date": "2021-12-01",
-      "deaths": 7287
+      "deaths": 7299
     }
   },
   "Croatia": {
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1054091,
+      "confirmed": 1054972,
       "date": "2021-12-01",
       "deaths": 17845
     }
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 477608,
+      "confirmed": 477742,
       "date": "2021-12-01",
-      "deaths": 7362
+      "deaths": 7365
     }
   },
   "Paraguay": {
