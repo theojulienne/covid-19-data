@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 199945,
+      "confirmed": 200173,
       "date": "2021-12-01",
-      "deaths": 3096
+      "deaths": 3101
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 210531,
+      "confirmed": 210723,
       "date": "2021-12-01",
-      "deaths": 6071
+      "deaths": 6076
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 627412,
+          "confirmed": 627434,
           "date": "2021-12-01",
           "deaths": 10057
         }
@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 448170,
           "date": "2021-12-01",
-          "deaths": 11579
+          "deaths": 11581
         }
       }
     }
@@ -792,9 +792,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1343852,
+      "confirmed": 1344103,
       "date": "2021-12-01",
-      "deaths": 8196
+      "deaths": 8199
     }
   },
   "Italy": {
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 949917,
+      "confirmed": 950088,
       "date": "2021-12-01",
-      "deaths": 14776
+      "deaths": 14779
     }
   },
   "Nepal": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1698327,
+          "confirmed": 1698900,
           "date": "2021-12-01",
-          "deaths": 25303
+          "deaths": 25315
         }
       },
       "Utah": {
