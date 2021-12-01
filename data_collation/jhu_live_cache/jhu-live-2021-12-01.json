@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1576284,
+      "confirmed": 1576566,
       "date": "2021-12-01",
-      "deaths": 27981
+      "deaths": 27983
     }
   },
   "Belarus": {
@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 627548,
+          "confirmed": 627668,
           "date": "2021-12-01",
           "deaths": 10057
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 448170,
+          "confirmed": 449366,
           "date": "2021-12-01",
           "deaths": 11581
         }
@@ -441,9 +441,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 407251,
+      "confirmed": 407474,
       "date": "2021-12-01",
-      "deaths": 4204
+      "deaths": 4210
     }
   },
   "Ecuador": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 371536,
+      "confirmed": 371672,
       "date": "2021-12-01",
-      "deaths": 6755
+      "deaths": 6771
     }
   },
   "Finland": {
@@ -905,7 +905,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 255088,
+      "confirmed": 255164,
       "date": "2021-12-01",
       "deaths": 5335
     }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 670656,
+      "confirmed": 672548,
       "date": "2021-12-01",
-      "deaths": 8725
+      "deaths": 8735
     }
   },
   "Libya": {
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 363774,
+      "confirmed": 364433,
       "date": "2021-12-01",
-      "deaths": 9119
+      "deaths": 9141
     }
   },
   "Mongolia": {
@@ -1395,9 +1395,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 563989,
+      "confirmed": 564733,
       "date": "2021-12-01",
-      "deaths": 14346
+      "deaths": 14372
     }
   },
   "Sweden": {
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8797558,
+      "confirmed": 8820114,
       "date": "2021-12-01",
-      "deaths": 76842
+      "deaths": 77038
     }
   },
   "US": {
@@ -1492,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 396410,
+          "confirmed": 401722,
           "date": "2021-12-01",
-          "deaths": 8626
+          "deaths": 8726
         }
       },
       "Minnesota": {
@@ -1520,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 342064,
+          "confirmed": 343719,
           "date": "2021-12-01",
           "deaths": 4467
         }
