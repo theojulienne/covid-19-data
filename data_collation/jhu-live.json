@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 588318,
+      "confirmed": 590113,
       "date": "2021-12-01",
-      "deaths": 7856
+      "deaths": 7884
     }
   },
   "Bahrain": {
@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 522402,
+      "confirmed": 522825,
       "date": "2021-12-01",
-      "deaths": 19104
+      "deaths": 19111
     }
   },
   "Canada": {
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 502748,
+          "confirmed": 511360,
           "date": "2021-12-01",
-          "deaths": 10997
+          "deaths": 11061
         }
       },
       "Thuringen": {
@@ -571,16 +571,16 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 938903,
+      "confirmed": 945095,
       "date": "2021-12-01",
-      "deaths": 18157
+      "deaths": 18234
     }
   },
   "Guatemala": {
     "live": {
-      "confirmed": 617984,
+      "confirmed": 618436,
       "date": "2021-12-01",
-      "deaths": 15943
+      "deaths": 15956
     }
   },
   "Honduras": {
@@ -868,32 +868,32 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169273,
+          "confirmed": 169285,
           "date": "2021-12-01",
           "deaths": 1314
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203134,
+          "confirmed": 203147,
           "date": "2021-12-01",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382175,
+          "confirmed": 382196,
           "date": "2021-12-01",
-          "deaths": 3166
+          "deaths": 3167
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 953943,
+      "confirmed": 958990,
       "date": "2021-12-01",
-      "deaths": 11608
+      "deaths": 11633
     }
   },
   "Kazakhstan": {
