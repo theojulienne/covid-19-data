@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 275065,
+      "confirmed": 275965,
       "date": "2021-12-01",
-      "deaths": 12586
+      "deaths": 12628
     }
   },
   "Botswana": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 626846,
+          "confirmed": 627383,
           "date": "2021-12-01",
-          "deaths": 10051
+          "deaths": 10057
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 487401,
+      "confirmed": 492521,
       "date": "2021-12-01",
-      "deaths": 2895
+      "deaths": 2909
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1138755,
+          "confirmed": 1139142,
           "date": "2021-12-01",
-          "deaths": 17652
+          "deaths": 17657
         }
       },
       "Berlin": {
@@ -778,9 +778,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2081172,
+      "confirmed": 2082061,
       "date": "2021-12-01",
-      "deaths": 23820
+      "deaths": 23844
     }
   },
   "Ireland": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 243447,
+      "confirmed": 243607,
       "date": "2021-12-01",
       "deaths": 611
     }
@@ -1404,23 +1404,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 171346,
+          "confirmed": 171873,
           "date": "2021-12-01",
           "deaths": 1814
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 288865,
+          "confirmed": 289421,
           "date": "2021-12-01",
-          "deaths": 4529
+          "deaths": 4532
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 208764,
+          "confirmed": 208978,
           "date": "2021-12-01",
-          "deaths": 2460
+          "deaths": 2463
         }
       }
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1025129,
       "date": "2021-12-01",
-      "deaths": 11530
+      "deaths": 11542
     }
   },
   "Thailand": {
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1697220,
+          "confirmed": 1698327,
           "date": "2021-12-01",
           "deaths": 25303
         }
