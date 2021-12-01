@@ -2987,18 +2987,18 @@ var covid19_dataset_latest_totals = {
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 253649,
-        "deaths": 667,
+        "confirmed": 255431,
+        "deaths": 672,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 239272,
-        "deaths": 594,
+        "confirmed": 241341,
+        "deaths": 612,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 263486,
-        "deaths": 710,
+        "confirmed": 264725,
+        "deaths": 718,
         "recovered": 0
       }
     },
