@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 200173,
+      "confirmed": 200639,
       "date": "2021-12-02",
-      "deaths": 3101
+      "deaths": 3104
     }
   },
   "Algeria": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 847065,
+          "confirmed": 857864,
           "date": "2021-12-02",
-          "deaths": 11843
+          "deaths": 11880
         }
       },
       "Bayern": {
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 255164,
+      "confirmed": 255260,
       "date": "2021-12-02",
       "deaths": 5335
     }
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3204702,
+          "confirmed": 3205016,
           "date": "2021-12-02",
-          "deaths": 51060
+          "deaths": 51073
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 678881,
+          "confirmed": 682485,
           "date": "2021-12-02",
-          "deaths": 11501
+          "deaths": 11511
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 344476,
+          "confirmed": 345169,
           "date": "2021-12-02",
-          "deaths": 6202
+          "deaths": 6213
         }
       },
       "New York": {
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1701181,
           "date": "2021-12-02",
-          "deaths": 25349
+          "deaths": 25373
         }
       },
       "Utah": {
