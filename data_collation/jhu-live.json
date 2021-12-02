@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 275965,
+      "confirmed": 276548,
       "date": "2021-12-02",
-      "deaths": 12628
+      "deaths": 12658
     }
   },
   "Botswana": {
@@ -476,7 +476,7 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 188108,
+      "confirmed": 189730,
       "date": "2021-12-02",
       "deaths": 1356
     }
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549786,
+      "confirmed": 549810,
       "date": "2021-12-02",
-      "deaths": 8837
+      "deaths": 8839
     }
   },
   "Serbia": {
@@ -1427,9 +1427,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1025129,
+      "confirmed": 1034675,
       "date": "2021-12-02",
-      "deaths": 11554
+      "deaths": 11556
     }
   },
   "Thailand": {
