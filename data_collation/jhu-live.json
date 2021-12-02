@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 656510,
+      "confirmed": 658328,
       "date": "2021-12-02",
-      "deaths": 5098
+      "deaths": 5114
     }
   },
   "Belgium": {
@@ -478,7 +478,7 @@
     "live": {
       "confirmed": 188108,
       "date": "2021-12-02",
-      "deaths": 1348
+      "deaths": 1356
     }
   },
   "France": {
@@ -764,9 +764,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4256687,
+      "confirmed": 4256998,
       "date": "2021-12-02",
-      "deaths": 143840
+      "deaths": 143850
     }
   },
   "Iran": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 243607,
+      "confirmed": 243758,
       "date": "2021-12-02",
       "deaths": 611
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1025129,
       "date": "2021-12-02",
-      "deaths": 11550
+      "deaths": 11552
     }
   },
   "Thailand": {
