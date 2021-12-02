@@ -326,7 +326,7 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 218801,
+          "confirmed": 218812,
           "date": "2021-12-02",
           "deaths": 2340
         }
@@ -455,9 +455,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 358578,
+      "confirmed": 359516,
       "date": "2021-12-02",
-      "deaths": 20474
+      "deaths": 20537
     }
   },
   "Estonia": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 452350,
+      "confirmed": 457612,
       "date": "2021-12-02",
-      "deaths": 3659
+      "deaths": 3705
     }
   },
   "Kuwait": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3200667,
+          "confirmed": 3202121,
           "date": "2021-12-02",
-          "deaths": 51014
+          "deaths": 51032
         }
       },
       "Florida": {
