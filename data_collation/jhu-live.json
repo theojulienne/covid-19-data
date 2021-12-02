@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169285,
+          "confirmed": 169295,
           "date": "2021-12-02",
           "deaths": 1314
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203147,
+          "confirmed": 203166,
           "date": "2021-12-02",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382196,
+          "confirmed": 382207,
           "date": "2021-12-02",
           "deaths": 3167
         }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 232451,
+          "confirmed": 233086,
           "date": "2021-12-02",
-          "deaths": 3775
+          "deaths": 3777
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 233700,
+          "confirmed": 234127,
           "date": "2021-12-02",
-          "deaths": 2690
+          "deaths": 2696
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 250841,
+          "confirmed": 250932,
           "date": "2021-12-02",
-          "deaths": 1589
+          "deaths": 1590
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 755055,
+          "confirmed": 756781,
           "date": "2021-12-02",
-          "deaths": 9799
+          "deaths": 9808
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 203176,
+          "confirmed": 203561,
           "date": "2021-12-02",
-          "deaths": 2616
+          "deaths": 2619
         }
       }
     }
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 564733,
+      "confirmed": 565271,
       "date": "2021-12-02",
-      "deaths": 14372
+      "deaths": 14399
     }
   },
   "Sweden": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1034675,
       "date": "2021-12-02",
-      "deaths": 11563
+      "deaths": 11565
     }
   },
   "Thailand": {
