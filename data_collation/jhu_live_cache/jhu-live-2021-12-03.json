@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 539762,
+      "confirmed": 540869,
       "date": "2021-12-03",
-      "deaths": 19196
+      "deaths": 19205
     }
   },
   "Bosnia and Herzegovina": {
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 214270,
+      "confirmed": 214317,
       "date": "2021-12-03",
       "deaths": 2978
     }
