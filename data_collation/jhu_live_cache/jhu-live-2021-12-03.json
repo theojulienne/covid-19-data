@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 619255,
+      "confirmed": 623776,
       "date": "2021-12-03",
-      "deaths": 11043
+      "deaths": 11096
     }
   },
   "Cuba": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 255402,
+      "confirmed": 256125,
       "date": "2021-12-03",
-      "deaths": 4232
+      "deaths": 4248
     }
   },
   "Lebanon": {
@@ -1053,7 +1053,7 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 821949,
+      "confirmed": 822172,
       "date": "2021-12-03",
       "deaths": 11535
     }
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1781957,
+      "confirmed": 1783630,
       "date": "2021-12-03",
-      "deaths": 56684
+      "deaths": 56890
     }
   },
   "Russia": {
@@ -1684,7 +1684,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210220,
+      "confirmed": 210262,
       "date": "2021-12-03",
       "deaths": 3667
     }
