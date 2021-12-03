@@ -1367,7 +1367,7 @@ var covid19_dataset_country_mng = {
       382082,
       382523,
       382718,
-      382898
+      383093
     ],
     "deaths": [
       0,
