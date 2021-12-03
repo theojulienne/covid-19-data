@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 273534,
+      "confirmed": 275763,
       "date": "2021-12-03",
       "deaths": 1093
     }
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3205016,
+          "confirmed": 3206956,
           "date": "2021-12-03",
-          "deaths": 51073
+          "deaths": 51097
         }
       },
       "Florida": {
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 173128,
+          "confirmed": 173905,
           "date": "2021-12-03",
-          "deaths": 2068
+          "deaths": 2082
         }
       }
     }
