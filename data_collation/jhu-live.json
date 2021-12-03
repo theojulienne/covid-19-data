@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5332629,
+      "confirmed": 5335310,
       "date": "2021-12-02",
-      "deaths": 116597
+      "deaths": 116617
     }
   },
   "Armenia": {
@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 538647,
+      "confirmed": 539762,
       "date": "2021-12-02",
-      "deaths": 19188
+      "deaths": 19196
     }
   },
   "Bosnia and Herzegovina": {
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 335677,
+          "confirmed": 336043,
           "date": "2021-12-02",
-          "deaths": 3255
+          "deaths": 3257
         }
       },
       "British Columbia": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413383,
+      "confirmed": 413419,
       "date": "2021-12-02",
       "deaths": 2465
     }
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 271623,
+      "confirmed": 273534,
       "date": "2021-12-02",
       "deaths": 1093
     }
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463121,
+      "confirmed": 463199,
       "date": "2021-12-02",
-      "deaths": 16474
+      "deaths": 16475
     }
   },
   "Peru": {
@@ -1395,7 +1395,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 565271,
+      "confirmed": 565471,
       "date": "2021-12-02",
       "deaths": 14399
     }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1034675,
       "date": "2021-12-02",
-      "deaths": 11565
+      "deaths": 11566
     }
   },
   "Thailand": {
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 172710,
+          "confirmed": 173693,
           "date": "2021-12-02",
-          "deaths": 3983
+          "deaths": 3993
         }
       },
       "Michigan": {
@@ -1534,7 +1534,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1701633,
+          "confirmed": 1701883,
           "date": "2021-12-02",
           "deaths": 25373
         }
