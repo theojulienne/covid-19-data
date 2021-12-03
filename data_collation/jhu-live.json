@@ -490,9 +490,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 853833,
+      "confirmed": 857933,
       "date": "2021-12-03",
-      "deaths": 12191
+      "deaths": 12258
     }
   },
   "Germany": {
@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 282068,
+          "confirmed": 282070,
           "date": "2021-12-03",
           "deaths": 3849
         }
@@ -926,9 +926,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 183460,
+      "confirmed": 183510,
       "date": "2021-12-03",
-      "deaths": 2752
+      "deaths": 2755
     }
   },
   "Latvia": {
@@ -1002,30 +1002,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 985173,
+          "confirmed": 985639,
           "date": "2021-12-03",
-          "deaths": 40133
+          "deaths": 40157
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 196638,
+          "confirmed": 196953,
           "date": "2021-12-03",
-          "deaths": 13013
+          "deaths": 13032
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 379161,
+          "confirmed": 379321,
           "date": "2021-12-03",
-          "deaths": 44373
+          "deaths": 44392
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207089,
+          "confirmed": 207181,
           "date": "2021-12-03",
-          "deaths": 13516
+          "deaths": 13540
         }
       }
     }
@@ -1656,9 +1656,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 193633,
+      "confirmed": 193893,
       "date": "2021-12-03",
-      "deaths": 1409
+      "deaths": 1413
     }
   },
   "Venezuela": {
