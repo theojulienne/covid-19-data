@@ -364,7 +364,7 @@
         "live": {
           "confirmed": 771068,
           "date": "2021-12-04",
-          "deaths": 16574
+          "deaths": 16590
         }
       },
       "Atlantico": {
@@ -378,28 +378,28 @@
         "live": {
           "confirmed": 1463367,
           "date": "2021-12-04",
-          "deaths": 27635
+          "deaths": 27637
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 266334,
           "date": "2021-12-04",
-          "deaths": 6845
+          "deaths": 6846
         }
       },
       "Santander": {
         "live": {
           "confirmed": 231192,
           "date": "2021-12-04",
-          "deaths": 7396
+          "deaths": 7399
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 417045,
           "date": "2021-12-04",
-          "deaths": 13189
+          "deaths": 13192
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1057203,
+      "confirmed": 1057315,
       "date": "2021-12-04",
       "deaths": 17895
     }
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 457612,
+      "confirmed": 467907,
       "date": "2021-12-04",
-      "deaths": 3705
+      "deaths": 3809
     }
   },
   "Kuwait": {
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 985639,
+          "confirmed": 986081,
           "date": "2021-12-04",
-          "deaths": 40157
+          "deaths": 40176
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 196953,
+          "confirmed": 197244,
           "date": "2021-12-04",
-          "deaths": 13032
+          "deaths": 13041
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 379321,
+          "confirmed": 379477,
           "date": "2021-12-04",
-          "deaths": 44392
+          "deaths": 44412
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207181,
+          "confirmed": 207284,
           "date": "2021-12-04",
-          "deaths": 13540
+          "deaths": 13547
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 383093,
+      "confirmed": 383216,
       "date": "2021-12-04",
-      "deaths": 2011
+      "deaths": 2013
     }
   },
   "Morocco": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 478275,
+      "confirmed": 478543,
       "date": "2021-12-04",
-      "deaths": 7370
+      "deaths": 7371
     }
   },
   "Paraguay": {
@@ -1670,16 +1670,16 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 433208,
+      "confirmed": 433660,
       "date": "2021-12-04",
-      "deaths": 5170
+      "deaths": 5177
     }
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1266288,
+      "confirmed": 1280780,
       "date": "2021-12-04",
-      "deaths": 25658
+      "deaths": 25858
     }
   },
   "West Bank and Gaza": {
