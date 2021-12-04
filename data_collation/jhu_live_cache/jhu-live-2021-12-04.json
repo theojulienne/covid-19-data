@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 630531,
+          "confirmed": 630545,
           "date": "2021-12-04",
           "deaths": 10076
         }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 407918,
+      "confirmed": 408245,
       "date": "2021-12-04",
       "deaths": 4212
     }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1345083,
+      "confirmed": 1345429,
       "date": "2021-12-04",
       "deaths": 8199
     }
@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 494344,
+          "confirmed": 495560,
           "date": "2021-12-04",
-          "deaths": 8240
+          "deaths": 8243
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 460131,
+          "confirmed": 461740,
           "date": "2021-12-04",
-          "deaths": 13810
+          "deaths": 13822
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 428512,
+          "confirmed": 430344,
           "date": "2021-12-04",
-          "deaths": 9003
+          "deaths": 9010
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 940476,
+          "confirmed": 943466,
           "date": "2021-12-04",
-          "deaths": 34428
+          "deaths": 34447
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 402583,
+          "confirmed": 403693,
           "date": "2021-12-04",
-          "deaths": 11897
+          "deaths": 11901
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 280347,
+          "confirmed": 280716,
           "date": "2021-12-04",
-          "deaths": 6892
+          "deaths": 6894
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 326462,
+          "confirmed": 327011,
           "date": "2021-12-04",
-          "deaths": 7223
+          "deaths": 7228
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 303379,
+          "confirmed": 304056,
           "date": "2021-12-04",
-          "deaths": 7418
+          "deaths": 7420
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 525803,
+          "confirmed": 528363,
           "date": "2021-12-04",
-          "deaths": 11992
+          "deaths": 12000
         }
       }
     }
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 233507,
+          "confirmed": 233994,
           "date": "2021-12-04",
-          "deaths": 3778
+          "deaths": 3782
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 234501,
+          "confirmed": 234852,
           "date": "2021-12-04",
-          "deaths": 2698
+          "deaths": 2707
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251038,
+          "confirmed": 251142,
           "date": "2021-12-04",
           "deaths": 1591
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 758500,
+          "confirmed": 759847,
           "date": "2021-12-04",
-          "deaths": 9811
+          "deaths": 9812
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 203923,
+          "confirmed": 204155,
           "date": "2021-12-04",
           "deaths": 2621
         }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 365713,
+      "confirmed": 366162,
       "date": "2021-12-04",
-      "deaths": 9192
+      "deaths": 9208
     }
   },
   "Mongolia": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 950374,
+      "confirmed": 950501,
       "date": "2021-12-04",
-      "deaths": 14784
+      "deaths": 14787
     }
   },
   "Nepal": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463199,
+      "confirmed": 463260,
       "date": "2021-12-04",
-      "deaths": 16475
+      "deaths": 16476
     }
   },
   "Peru": {
