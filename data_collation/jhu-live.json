@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 451867,
+          "confirmed": 453379,
           "date": "2021-12-04",
-          "deaths": 11585
+          "deaths": 11586
         }
       }
     }
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 675765,
+      "confirmed": 677147,
       "date": "2021-12-04",
-      "deaths": 8755
+      "deaths": 8765
     }
   },
   "Libya": {
@@ -1522,12 +1522,12 @@
         "live": {
           "confirmed": 1560045,
           "date": "2021-12-04",
-          "deaths": 39922
+          "deaths": 39925
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 347488,
+          "confirmed": 349055,
           "date": "2021-12-04",
           "deaths": 4498
         }
