@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 593588,
+      "confirmed": 594994,
       "date": "2021-12-04",
-      "deaths": 7929
+      "deaths": 7947
     }
   },
   "Bahrain": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 629723,
+          "confirmed": 630426,
           "date": "2021-12-04",
-          "deaths": 10069
+          "deaths": 10076
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 501760,
+      "confirmed": 506085,
       "date": "2021-12-04",
-      "deaths": 2927
+      "deaths": 2939
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1177379,
+          "confirmed": 1177466,
           "date": "2021-12-04",
-          "deaths": 17908
+          "deaths": 17907
         }
       },
       "Berlin": {
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 533740,
+          "confirmed": 539836,
           "date": "2021-12-04",
-          "deaths": 11209
+          "deaths": 11226
         }
       },
       "Sachsen-Anhalt": {
@@ -785,14 +785,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2083515,
+      "confirmed": 2083889,
       "date": "2021-12-04",
-      "deaths": 23867
+      "deaths": 23873
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 583472,
+      "confirmed": 589094,
       "date": "2021-12-04",
       "deaths": 5707
     }
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2833878,
+      "confirmed": 2834294,
       "date": "2021-12-04",
-      "deaths": 48987
+      "deaths": 49230
     }
   },
   "Poland": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 243912,
+      "confirmed": 244071,
       "date": "2021-12-04",
       "deaths": 611
     }
