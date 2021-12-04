@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 211112,
+      "confirmed": 211297,
       "date": "2021-12-04",
-      "deaths": 6089
+      "deaths": 6096
     }
   },
   "Argentina": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 619040,
+      "confirmed": 619542,
       "date": "2021-12-04",
-      "deaths": 15972
+      "deaths": 15980
     }
   },
   "Honduras": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1345429,
+      "confirmed": 1345442,
       "date": "2021-12-04",
       "deaths": 8199
     }
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 807353,
+          "confirmed": 810904,
           "date": "2021-12-04",
-          "deaths": 12819
+          "deaths": 12895
         }
       },
       "California": {
@@ -1520,7 +1520,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1560045,
+          "confirmed": 1562000,
           "date": "2021-12-04",
           "deaths": 39925
         }
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1703176,
           "date": "2021-12-04",
-          "deaths": 25397
+          "deaths": 25415
         }
       },
       "Utah": {
