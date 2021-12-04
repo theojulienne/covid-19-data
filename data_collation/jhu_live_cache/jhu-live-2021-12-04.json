@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 371946,
+      "confirmed": 372090,
       "date": "2021-12-04",
-      "deaths": 6787
+      "deaths": 6794
     }
   },
   "Finland": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8863356,
+      "confirmed": 8883730,
       "date": "2021-12-04",
-      "deaths": 77417
+      "deaths": 77645
     }
   },
   "US": {
