@@ -406,9 +406,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 567263,
+      "confirmed": 567383,
       "date": "2021-12-04",
-      "deaths": 7309
+      "deaths": 7312
     }
   },
   "Croatia": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3209615,
+          "confirmed": 3211519,
           "date": "2021-12-04",
-          "deaths": 51130
+          "deaths": 51147
         }
       },
       "Florida": {
