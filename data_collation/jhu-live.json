@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 256125,
+      "confirmed": 256852,
       "date": "2021-12-04",
-      "deaths": 4248
+      "deaths": 4261
     }
   },
   "Lebanon": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742163,
+      "confirmed": 742214,
       "date": "2021-12-04",
       "deaths": 2148
     }
