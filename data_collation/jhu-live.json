@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 201045,
+      "confirmed": 201402,
       "date": "2021-12-04",
-      "deaths": 3108
+      "deaths": 3109
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 630426,
+          "confirmed": 630531,
           "date": "2021-12-04",
           "deaths": 10076
         }
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169306,
+          "confirmed": 169318,
           "date": "2021-12-04",
           "deaths": 1314
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203183,
+          "confirmed": 203199,
           "date": "2021-12-04",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382221,
+          "confirmed": 382240,
           "date": "2021-12-04",
           "deaths": 3168
         }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 216670,
+      "confirmed": 217025,
       "date": "2021-12-04",
-      "deaths": 7616
+      "deaths": 7631
     }
   },
   "Norway": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 566196,
+      "confirmed": 566936,
       "date": "2021-12-04",
-      "deaths": 14419
+      "deaths": 14440
     }
   },
   "Sweden": {
@@ -1626,23 +1626,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 8802632,
+          "confirmed": 8841194,
           "date": "2021-12-04",
-          "deaths": 126477
+          "deaths": 126581
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 325119,
+          "confirmed": 326761,
           "date": "2021-12-04",
-          "deaths": 2885
+          "deaths": 2894
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 735750,
+          "confirmed": 737003,
           "date": "2021-12-04",
-          "deaths": 9634
+          "deaths": 9648
         }
       },
       "Wales": {
