@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 211297,
+      "confirmed": 211469,
       "date": "2021-12-05",
-      "deaths": 6096
+      "deaths": 6103
     }
   },
   "Argentina": {
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 233994,
+          "confirmed": 234340,
           "date": "2021-12-05",
-          "deaths": 3782
+          "deaths": 3790
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 234852,
+          "confirmed": 235146,
           "date": "2021-12-05",
-          "deaths": 2707
+          "deaths": 2711
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251142,
+          "confirmed": 251213,
           "date": "2021-12-05",
-          "deaths": 1591
+          "deaths": 1594
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 759847,
+          "confirmed": 761007,
           "date": "2021-12-05",
-          "deaths": 9812
+          "deaths": 9816
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 204155,
+          "confirmed": 204376,
           "date": "2021-12-05",
           "deaths": 2621
         }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 950501,
+      "confirmed": 950591,
       "date": "2021-12-05",
-      "deaths": 14787
+      "deaths": 14788
     }
   },
   "Nepal": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3004203,
+      "confirmed": 3020569,
       "date": "2021-12-05",
-      "deaths": 89944
+      "deaths": 89965
     }
   },
   "Spain": {
