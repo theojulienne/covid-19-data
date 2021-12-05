@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 540869,
+      "confirmed": 542859,
       "date": "2021-12-05",
-      "deaths": 19205
+      "deaths": 19215
     }
   },
   "Bosnia and Herzegovina": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1057315,
+      "confirmed": 1058105,
       "date": "2021-12-05",
       "deaths": 17895
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 383216,
+      "confirmed": 383543,
       "date": "2021-12-05",
-      "deaths": 2013
+      "deaths": 2016
     }
   },
   "Morocco": {
