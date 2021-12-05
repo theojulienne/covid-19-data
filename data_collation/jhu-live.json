@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 631404,
+          "confirmed": 631482,
           "date": "2021-12-05",
           "deaths": 10076
         }
@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963002,
+      "confirmed": 963090,
       "date": "2021-12-05",
-      "deaths": 8307
+      "deaths": 8309
     }
   },
   "Czechia": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1785120,
+      "confirmed": 1786036,
       "date": "2021-12-05",
-      "deaths": 57021
+      "deaths": 57099
     }
   },
   "Russia": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8883730,
+      "confirmed": 8903087,
       "date": "2021-12-05",
-      "deaths": 77645
+      "deaths": 77830
     }
   },
   "US": {
@@ -1527,16 +1527,16 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 349055,
+          "confirmed": 350237,
           "date": "2021-12-05",
           "deaths": 4498
         }
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 193338,
+          "confirmed": 193836,
           "date": "2021-12-05",
-          "deaths": 4113
+          "deaths": 4115
         }
       },
       "Texas": {
