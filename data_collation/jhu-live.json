@@ -364,42 +364,42 @@
         "live": {
           "confirmed": 772061,
           "date": "2021-12-05",
-          "deaths": 16590
+          "deaths": 16604
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 339879,
           "date": "2021-12-05",
-          "deaths": 9684
+          "deaths": 9687
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1463971,
           "date": "2021-12-05",
-          "deaths": 27637
+          "deaths": 27639
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 266426,
           "date": "2021-12-05",
-          "deaths": 6846
+          "deaths": 6848
         }
       },
       "Santander": {
         "live": {
           "confirmed": 231661,
           "date": "2021-12-05",
-          "deaths": 7399
+          "deaths": 7407
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 417564,
           "date": "2021-12-05",
-          "deaths": 13192
+          "deaths": 13194
         }
       }
     }
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3211519,
+          "confirmed": 3213809,
           "date": "2021-12-05",
-          "deaths": 51147
+          "deaths": 51166
         }
       },
       "Florida": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 433660,
+      "confirmed": 434133,
       "date": "2021-12-05",
-      "deaths": 5177
+      "deaths": 5186
     }
   },
   "Vietnam": {
