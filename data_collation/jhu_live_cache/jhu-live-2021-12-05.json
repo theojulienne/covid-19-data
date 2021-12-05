@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 630545,
+          "confirmed": 631382,
           "date": "2021-12-05",
           "deaths": 10076
         }
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 506085,
+      "confirmed": 509111,
       "date": "2021-12-05",
-      "deaths": 2939
+      "deaths": 2946
     }
   },
   "Dominican Republic": {
@@ -506,7 +506,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1185394,
+          "confirmed": 1185632,
           "date": "2021-12-05",
           "deaths": 17929
         }
@@ -785,14 +785,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2083889,
+      "confirmed": 2084346,
       "date": "2021-12-05",
-      "deaths": 23873
+      "deaths": 23885
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 589094,
+      "confirmed": 594250,
       "date": "2021-12-05",
       "deaths": 5707
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 217025,
+      "confirmed": 217301,
       "date": "2021-12-05",
-      "deaths": 7631
+      "deaths": 7641
     }
   },
   "Norway": {
