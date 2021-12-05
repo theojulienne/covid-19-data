@@ -36,18 +36,18 @@ var covid19_dataset_latest_totals = {
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 198732,
-        "deaths": 3077,
+        "confirmed": 199137,
+        "deaths": 3085,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 195523,
-        "deaths": 3029,
+        "confirmed": 195988,
+        "deaths": 3035,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 201045,
-        "deaths": 3108,
+        "confirmed": 201402,
+        "deaths": 3109,
         "recovered": 0
       }
     },
@@ -572,17 +572,17 @@ var covid19_dataset_latest_totals = {
     "CAN": {
       "back_1week": {
         "confirmed": 1792561,
-        "deaths": 29671,
+        "deaths": 29681,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1772484,
-        "deaths": 29533,
+        "deaths": 29543,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1813304,
-        "deaths": 29811,
+        "deaths": 29819,
         "recovered": 0
       },
       "states": {
@@ -635,8 +635,8 @@ var covid19_dataset_latest_totals = {
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 451867,
-          "deaths": 11585
+          "confirmed": 453379,
+          "deaths": 11586
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1263,18 +1263,18 @@ var covid19_dataset_latest_totals = {
     },
     "ETH": {
       "back_1week": {
-        "confirmed": 371058,
-        "deaths": 6727,
+        "confirmed": 371177,
+        "deaths": 6736,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 369867,
-        "deaths": 6662,
+        "confirmed": 370045,
+        "deaths": 6672,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 371946,
-        "deaths": 6787,
+        "confirmed": 372090,
+        "deaths": 6794,
         "recovered": 0
       }
     },
@@ -1938,17 +1938,17 @@ var covid19_dataset_latest_totals = {
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 254904,
+        "confirmed": 254940,
         "deaths": 5333,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 254629,
+        "confirmed": 254688,
         "deaths": 5325,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 255355,
+        "confirmed": 255408,
         "deaths": 5335,
         "recovered": 0
       }

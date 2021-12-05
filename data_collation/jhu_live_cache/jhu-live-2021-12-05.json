@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 201402,
+      "confirmed": 201730,
       "date": "2021-12-05",
-      "deaths": 3109
+      "deaths": 3110
     }
   },
   "Algeria": {
@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 453379,
+          "confirmed": 454635,
           "date": "2021-12-05",
-          "deaths": 11586
+          "deaths": 11587
         }
       }
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 372090,
+      "confirmed": 372215,
       "date": "2021-12-05",
-      "deaths": 6794
+      "deaths": 6800
     }
   },
   "Finland": {
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 255408,
+      "confirmed": 255437,
       "date": "2021-12-05",
       "deaths": 5335
     }
