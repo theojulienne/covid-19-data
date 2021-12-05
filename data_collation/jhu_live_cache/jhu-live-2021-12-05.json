@@ -427,9 +427,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2229715,
+      "confirmed": 2240721,
       "date": "2021-12-05",
-      "deaths": 33576
+      "deaths": 33665
     }
   },
   "Denmark": {
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 478543,
+      "confirmed": 478831,
       "date": "2021-12-05",
-      "deaths": 7371
+      "deaths": 7373
     }
   },
   "Paraguay": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2136537,
+      "confirmed": 2141241,
       "date": "2021-12-05",
-      "deaths": 20917
+      "deaths": 20944
     }
   },
   "Tunisia": {
