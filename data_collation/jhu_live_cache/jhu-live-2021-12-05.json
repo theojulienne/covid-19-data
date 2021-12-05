@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 524122,
+      "confirmed": 524407,
       "date": "2021-12-05",
-      "deaths": 19135
+      "deaths": 19141
     }
   },
   "Canada": {
@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 743979,
+          "confirmed": 744412,
           "date": "2021-12-05",
-          "deaths": 19726
+          "deaths": 19741
         }
       }
     }
@@ -1069,51 +1069,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 312891,
+          "confirmed": 315695,
           "date": "2021-12-05",
-          "deaths": 2388
+          "deaths": 2390
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 200680,
+          "confirmed": 202701,
           "date": "2021-12-05",
-          "deaths": 1911
+          "deaths": 1916
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 419374,
+          "confirmed": 423078,
           "date": "2021-12-05",
-          "deaths": 3375
+          "deaths": 3379
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 448634,
+          "confirmed": 452214,
           "date": "2021-12-05",
-          "deaths": 2902
+          "deaths": 2905
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 178124,
+          "confirmed": 179392,
           "date": "2021-12-05",
-          "deaths": 1263
+          "deaths": 1264
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 213383,
+          "confirmed": 215440,
           "date": "2021-12-05",
           "deaths": 1361
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 626325,
+          "confirmed": 631032,
           "date": "2021-12-05",
-          "deaths": 4638
+          "deaths": 4645
         }
       }
     }
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1163001,
+      "confirmed": 1166787,
       "date": "2021-12-05",
-      "deaths": 18514
+      "deaths": 18537
     }
   },
   "Qatar": {
@@ -1300,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1262419,
+      "confirmed": 1263663,
       "date": "2021-12-05",
-      "deaths": 11876
+      "deaths": 11917
     }
   },
   "Singapore": {
