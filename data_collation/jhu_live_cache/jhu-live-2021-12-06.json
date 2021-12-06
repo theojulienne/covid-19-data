@@ -499,7 +499,7 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 880657,
+          "confirmed": 880674,
           "date": "2021-12-06",
           "deaths": 11966
         }
@@ -1134,14 +1134,14 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 284448,
+      "confirmed": 285494,
       "date": "2021-12-06",
       "deaths": 1093
     }
   },
   "Oman": {
     "live": {
-      "confirmed": 304603,
+      "confirmed": 304612,
       "date": "2021-12-06",
       "deaths": 4113
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3671421,
+      "confirmed": 3684671,
       "date": "2021-12-06",
-      "deaths": 85675
+      "deaths": 85700
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1230343,
+      "confirmed": 1234982,
       "date": "2021-12-06",
-      "deaths": 14826
+      "deaths": 14900
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 430064,
+      "confirmed": 430839,
       "date": "2021-12-06",
-      "deaths": 5303
+      "deaths": 5317
     }
   },
   "South Africa": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1044633,
       "date": "2021-12-06",
-      "deaths": 11591
+      "deaths": 11596
     }
   },
   "Thailand": {
