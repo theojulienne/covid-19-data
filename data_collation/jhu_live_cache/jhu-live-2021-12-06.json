@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6134465,
+      "confirmed": 6137821,
       "date": "2021-12-06",
-      "deaths": 130200
+      "deaths": 130277
     }
   },
   "Iraq": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463260,
+      "confirmed": 463315,
       "date": "2021-12-06",
-      "deaths": 16476
+      "deaths": 16477
     }
   },
   "Peru": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1044633,
       "date": "2021-12-06",
-      "deaths": 11601
+      "deaths": 11605
     }
   },
   "Thailand": {
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1309092,
+      "confirmed": 1323683,
       "date": "2021-12-06",
-      "deaths": 26260
+      "deaths": 26483
     }
   },
   "West Bank and Gaza": {
