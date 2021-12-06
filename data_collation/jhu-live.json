@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 340723,
+      "confirmed": 340818,
       "date": "2021-12-06",
-      "deaths": 7683
+      "deaths": 7691
     }
   },
   "Austria": {
@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 285059,
+          "confirmed": 285060,
           "date": "2021-12-06",
           "deaths": 3855
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1345915,
+      "confirmed": 1346243,
       "date": "2021-12-06",
       "deaths": 8204
     }
@@ -1566,51 +1566,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 235340,
+          "confirmed": 235473,
           "date": "2021-12-06",
-          "deaths": 8131
+          "deaths": 8156
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 237055,
+          "confirmed": 237269,
           "date": "2021-12-06",
-          "deaths": 5832
+          "deaths": 5852
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 305308,
+          "confirmed": 306012,
           "date": "2021-12-06",
-          "deaths": 7684
+          "deaths": 7706
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 176769,
+          "confirmed": 176971,
           "date": "2021-12-06",
           "deaths": 4296
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 211865,
+          "confirmed": 212079,
           "date": "2021-12-06",
-          "deaths": 5582
+          "deaths": 5604
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 230900,
+          "confirmed": 231078,
           "date": "2021-12-06",
-          "deaths": 5298
+          "deaths": 5308
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 173996,
+          "confirmed": 174217,
           "date": "2021-12-06",
-          "deaths": 4604
+          "deaths": 4639
         }
       }
     }
