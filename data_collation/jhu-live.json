@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 201730,
+      "confirmed": 201902,
       "date": "2021-12-06",
-      "deaths": 3110
+      "deaths": 3115
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 211469,
+      "confirmed": 211662,
       "date": "2021-12-06",
-      "deaths": 6103
+      "deaths": 6111
     }
   },
   "Argentina": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 632316,
+          "confirmed": 632340,
           "date": "2021-12-06",
           "deaths": 10080
         }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 408516,
+      "confirmed": 408748,
       "date": "2021-12-06",
       "deaths": 4212
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 372215,
+      "confirmed": 372334,
       "date": "2021-12-06",
-      "deaths": 6800
+      "deaths": 6804
     }
   },
   "Finland": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 880674,
+          "confirmed": 885119,
           "date": "2021-12-06",
-          "deaths": 11966
+          "deaths": 12025
         }
       },
       "Bayern": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 619852,
+      "confirmed": 619891,
       "date": "2021-12-06",
-      "deaths": 15986
+      "deaths": 15992
     }
   },
   "Honduras": {
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 594250,
+      "confirmed": 597161,
       "date": "2021-12-06",
       "deaths": 5707
     }
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1058758,
       "date": "2021-12-06",
-      "deaths": 17895
+      "deaths": 17948
     }
   },
   "Kenya": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 366256,
+      "confirmed": 366751,
       "date": "2021-12-06",
-      "deaths": 9217
+      "deaths": 9244
     }
   },
   "Mongolia": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 244223,
+      "confirmed": 244387,
       "date": "2021-12-06",
       "deaths": 611
     }
@@ -1323,7 +1323,7 @@
     "live": {
       "confirmed": 430839,
       "date": "2021-12-06",
-      "deaths": 5317
+      "deaths": 5319
     }
   },
   "South Africa": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 568250,
+      "confirmed": 568423,
       "date": "2021-12-06",
       "deaths": 14484
     }
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 684826,
+          "confirmed": 690841,
           "date": "2021-12-06",
-          "deaths": 11521
+          "deaths": 11545
         }
       },
       "Massachusetts": {
@@ -1506,16 +1506,16 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 180913,
+          "confirmed": 181940,
           "date": "2021-12-06",
-          "deaths": 2056
+          "deaths": 2058
         }
       },
       "Nevada": {
         "live": {
-          "confirmed": 345652,
+          "confirmed": 346841,
           "date": "2021-12-06",
-          "deaths": 6227
+          "deaths": 6259
         }
       },
       "New York": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 350237,
+          "confirmed": 351298,
           "date": "2021-12-06",
           "deaths": 4498
         }
@@ -1536,14 +1536,14 @@
         "live": {
           "confirmed": 193836,
           "date": "2021-12-06",
-          "deaths": 4115
+          "deaths": 4120
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1704083,
+          "confirmed": 1704518,
           "date": "2021-12-06",
-          "deaths": 25417
+          "deaths": 25419
         }
       },
       "Utah": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 461467,
+      "confirmed": 462219,
       "date": "2021-12-06",
-      "deaths": 4810
+      "deaths": 4817
     }
   },
   "Zambia": {
