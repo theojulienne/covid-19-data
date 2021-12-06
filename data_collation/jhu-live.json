@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 632152,
+          "confirmed": 632316,
           "date": "2021-12-06",
-          "deaths": 10079
+          "deaths": 10080
         }
       },
       "Quebec": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1786036,
+      "confirmed": 1786839,
       "date": "2021-12-06",
-      "deaths": 57099
+      "deaths": 57153
     }
   },
   "Russia": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3215440,
+          "confirmed": 3221717,
           "date": "2021-12-06",
-          "deaths": 51168
+          "deaths": 51206
         }
       },
       "Florida": {

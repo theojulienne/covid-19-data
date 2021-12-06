@@ -2673,7 +2673,7 @@
       },
       "states": {
         "Cook Islands": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deaths": 0,
           "recovered": 0
         }
@@ -2885,18 +2885,18 @@
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 1775572,
-        "deaths": 56169,
+        "confirmed": 1776949,
+        "deaths": 56275,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1760765,
-        "deaths": 54838,
+        "confirmed": 1762701,
+        "deaths": 54959,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1785120,
-        "deaths": 57021,
+        "confirmed": 1786036,
+        "deaths": 57099,
         "recovered": 0
       }
     },
