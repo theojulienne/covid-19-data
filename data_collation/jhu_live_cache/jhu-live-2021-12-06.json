@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 277228,
+      "confirmed": 278511,
       "date": "2021-12-06",
-      "deaths": 12687
+      "deaths": 12780
     }
   },
   "Botswana": {
@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 524407,
+      "confirmed": 524638,
       "date": "2021-12-06",
-      "deaths": 19141
+      "deaths": 19146
     }
   },
   "Canada": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 631482,
+          "confirmed": 632108,
           "date": "2021-12-06",
-          "deaths": 10076
+          "deaths": 10079
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 509111,
+      "confirmed": 516257,
       "date": "2021-12-06",
-      "deaths": 2946
+      "deaths": 2956
     }
   },
   "Dominican Republic": {
@@ -506,7 +506,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1191562,
+          "confirmed": 1191665,
           "date": "2021-12-06",
           "deaths": 17954
         }
@@ -555,9 +555,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 544661,
+          "confirmed": 548896,
           "date": "2021-12-06",
-          "deaths": 11230
+          "deaths": 11259
         }
       },
       "Sachsen-Anhalt": {
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2084346,
+      "confirmed": 2084961,
       "date": "2021-12-06",
-      "deaths": 23885
+      "deaths": 23903
     }
   },
   "Ireland": {
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 255437,
+      "confirmed": 255469,
       "date": "2021-12-06",
       "deaths": 5335
     }
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 374989,
+      "confirmed": 375468,
       "date": "2021-12-06",
-      "deaths": 5493
+      "deaths": 5499
     }
   },
   "Lithuania": {
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 977690,
+          "confirmed": 982487,
           "date": "2021-12-06",
-          "deaths": 88865
+          "deaths": 88960
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1068528,
       "date": "2021-12-06",
-      "deaths": 11606
+      "deaths": 11617
     }
   },
   "Thailand": {
