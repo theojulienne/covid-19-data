@@ -3831,18 +3831,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 192599,
-        "deaths": 1395,
+        "confirmed": 192831,
+        "deaths": 1397,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 191122,
-        "deaths": 1373,
+        "confirmed": 191334,
+        "deaths": 1375,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 194105,
-        "deaths": 1416,
+        "confirmed": 194333,
+        "deaths": 1418,
         "recovered": 0
       }
     },
