@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 632340,
+          "confirmed": 632755,
           "date": "2021-12-06",
           "deaths": 10080
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1346615,
+      "confirmed": 1346670,
       "date": "2021-12-06",
       "deaths": 8209
     }
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463372,
+      "confirmed": 463427,
       "date": "2021-12-06",
-      "deaths": 16478
+      "deaths": 16479
     }
   },
   "Peru": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1569583,
+          "confirmed": 1570720,
           "date": "2021-12-06",
-          "deaths": 39942
+          "deaths": 39947
         }
       },
       "Ohio": {
