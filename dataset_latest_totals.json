@@ -1496,18 +1496,18 @@
     },
     "GEO": {
       "back_1week": {
-        "confirmed": 838639,
-        "deaths": 11927,
+        "confirmed": 840593,
+        "deaths": 11974,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 812246,
-        "deaths": 11498,
+        "confirmed": 814097,
+        "deaths": 11553,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 865293,
-        "deaths": 12344,
+        "confirmed": 867071,
+        "deaths": 12407,
         "recovered": 0
       }
     },
