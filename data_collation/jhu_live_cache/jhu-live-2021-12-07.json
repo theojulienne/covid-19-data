@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 211662,
+      "confirmed": 211859,
       "date": "2021-12-07",
-      "deaths": 6111
+      "deaths": 6114
     }
   },
   "Argentina": {
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 408748,
+      "confirmed": 409002,
       "date": "2021-12-07",
       "deaths": 4212
     }
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 597161,
+      "confirmed": 602726,
       "date": "2021-12-07",
       "deaths": 5707
     }
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 244387,
+      "confirmed": 244545,
       "date": "2021-12-07",
       "deaths": 611
     }
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 568949,
+      "confirmed": 569171,
       "date": "2021-12-07",
       "deaths": 14505
     }
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3224259,
+          "confirmed": 3224565,
           "date": "2021-12-07",
-          "deaths": 51216
+          "deaths": 51228
         }
       },
       "Florida": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 181940,
+          "confirmed": 184376,
           "date": "2021-12-07",
-          "deaths": 2058
+          "deaths": 2065
         }
       },
       "Nevada": {
