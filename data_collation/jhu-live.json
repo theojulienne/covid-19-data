@@ -333,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 633422,
+          "confirmed": 633510,
           "date": "2021-12-07",
-          "deaths": 10086
+          "deaths": 10087
         }
       },
       "Quebec": {
         "live": {
           "confirmed": 455824,
           "date": "2021-12-07",
-          "deaths": 11589
+          "deaths": 11594
         }
       }
     }
@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963194,
+      "confirmed": 963269,
       "date": "2021-12-07",
-      "deaths": 8310
+      "deaths": 8311
     }
   },
   "Czechia": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 885204,
+          "confirmed": 895668,
           "date": "2021-12-07",
-          "deaths": 12026
+          "deaths": 12076
         }
       },
       "Bayern": {
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1346995,
+      "confirmed": 1347353,
       "date": "2021-12-07",
-      "deaths": 8209
+      "deaths": 8210
     }
   },
   "Italy": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 366751,
+      "confirmed": 367339,
       "date": "2021-12-07",
-      "deaths": 9244
+      "deaths": 9270
     }
   },
   "Mongolia": {
@@ -1053,7 +1053,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 950643,
+      "confirmed": 950801,
       "date": "2021-12-07",
       "deaths": 14788
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 217400,
+      "confirmed": 217775,
       "date": "2021-12-07",
-      "deaths": 7658
+      "deaths": 7674
     }
   },
   "Norway": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1705790,
+          "confirmed": 1706274,
           "date": "2021-12-07",
           "deaths": 25419
         }
@@ -1626,30 +1626,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 8918807,
+          "confirmed": 8957091,
           "date": "2021-12-07",
-          "deaths": 126656
+          "deaths": 126817
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 329818,
+          "confirmed": 331476,
           "date": "2021-12-07",
-          "deaths": 2902
+          "deaths": 2907
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 743496,
+          "confirmed": 746549,
           "date": "2021-12-07",
-          "deaths": 9649
+          "deaths": 9661
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 523118,
+          "confirmed": 525225,
           "date": "2021-12-07",
-          "deaths": 6439
+          "deaths": 6441
         }
       }
     }
