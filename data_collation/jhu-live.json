@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 971148,
+      "confirmed": 978402,
       "date": "2021-12-07",
-      "deaths": 18716
+      "deaths": 18815
     }
   },
   "Guatemala": {
@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 497667,
+          "confirmed": 498817,
           "date": "2021-12-07",
-          "deaths": 8254
+          "deaths": 8263
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 464838,
+          "confirmed": 466182,
           "date": "2021-12-07",
-          "deaths": 13841
+          "deaths": 13851
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 432899,
+          "confirmed": 434373,
           "date": "2021-12-07",
-          "deaths": 9022
+          "deaths": 9034
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 947099,
+          "confirmed": 949882,
           "date": "2021-12-07",
-          "deaths": 34470
+          "deaths": 34479
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 405375,
+          "confirmed": 406685,
           "date": "2021-12-07",
-          "deaths": 11906
+          "deaths": 11909
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 281151,
+          "confirmed": 281513,
           "date": "2021-12-07",
-          "deaths": 6900
+          "deaths": 6904
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 328386,
+          "confirmed": 329361,
           "date": "2021-12-07",
-          "deaths": 7240
+          "deaths": 7250
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 305269,
+          "confirmed": 305767,
           "date": "2021-12-07",
-          "deaths": 7430
+          "deaths": 7432
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 532291,
+          "confirmed": 535251,
           "date": "2021-12-07",
-          "deaths": 12005
+          "deaths": 12014
         }
       }
     }
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169329,
+          "confirmed": 169338,
           "date": "2021-12-07",
           "deaths": 1314
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203213,
+          "confirmed": 203228,
           "date": "2021-12-07",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382267,
+          "confirmed": 382286,
           "date": "2021-12-07",
           "deaths": 3168
         }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1078503,
       "date": "2021-12-07",
-      "deaths": 11659
+      "deaths": 11661
     }
   },
   "Thailand": {
