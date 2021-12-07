@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 596973,
+      "confirmed": 598503,
       "date": "2021-12-07",
-      "deaths": 7983
+      "deaths": 8004
     }
   },
   "Bahrain": {
@@ -771,16 +771,16 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4257815,
+      "confirmed": 4258076,
       "date": "2021-12-07",
-      "deaths": 143876
+      "deaths": 143893
     }
   },
   "Iran": {
     "live": {
-      "confirmed": 6137821,
+      "confirmed": 6141335,
       "date": "2021-12-07",
-      "deaths": 130277
+      "deaths": 130356
     }
   },
   "Iraq": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 257559,
+      "confirmed": 258419,
       "date": "2021-12-07",
-      "deaths": 4277
+      "deaths": 4300
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 375468,
+      "confirmed": 375869,
       "date": "2021-12-07",
-      "deaths": 5499
+      "deaths": 5514
     }
   },
   "Lithuania": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1786839,
+      "confirmed": 1788260,
       "date": "2021-12-07",
-      "deaths": 57153
+      "deaths": 57260
     }
   },
   "Russia": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 549955,
+      "confirmed": 549997,
       "date": "2021-12-07",
-      "deaths": 8845
+      "deaths": 8847
     }
   },
   "Serbia": {
@@ -1434,9 +1434,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1068528,
+      "confirmed": 1078503,
       "date": "2021-12-07",
-      "deaths": 11644
+      "deaths": 11649
     }
   },
   "Thailand": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742376,
+      "confirmed": 742438,
       "date": "2021-12-07",
       "deaths": 2149
     }
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1323683,
+      "confirmed": 1337523,
       "date": "2021-12-07",
-      "deaths": 26483
+      "deaths": 26700
     }
   },
   "West Bank and Gaza": {
