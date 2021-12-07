@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 633570,
+          "confirmed": 633730,
           "date": "2021-12-07",
-          "deaths": 10087
+          "deaths": 10088
         }
       },
       "Quebec": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1347353,
+      "confirmed": 1347474,
       "date": "2021-12-07",
       "deaths": 8210
     }
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 679625,
+      "confirmed": 681332,
       "date": "2021-12-07",
-      "deaths": 8785
+      "deaths": 8795
     }
   },
   "Libya": {
@@ -1473,7 +1473,7 @@
         "live": {
           "confirmed": 3224565,
           "date": "2021-12-07",
-          "deaths": 51228
+          "deaths": 51230
         }
       },
       "Florida": {
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1706274,
           "date": "2021-12-07",
-          "deaths": 25419
+          "deaths": 25442
         }
       },
       "Utah": {
