@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 703160,
+      "confirmed": 705586,
       "date": "2021-12-07",
-      "deaths": 28852
+      "deaths": 29060
     }
   },
   "Burma": {
@@ -406,9 +406,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 567383,
+      "confirmed": 567614,
       "date": "2021-12-07",
-      "deaths": 7312
+      "deaths": 7318
     }
   },
   "Croatia": {
@@ -455,9 +455,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 363162,
+      "confirmed": 364033,
       "date": "2021-12-07",
-      "deaths": 20727
+      "deaths": 20770
     }
   },
   "Estonia": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1058758,
+      "confirmed": 1059303,
       "date": "2021-12-07",
       "deaths": 17948
     }
@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 214622,
+      "confirmed": 214789,
       "date": "2021-12-07",
       "deaths": 2980
     }
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 400925,
+      "confirmed": 401103,
       "date": "2021-12-07",
-      "deaths": 6134
+      "deaths": 6136
     }
   },
   "Uzbekistan": {
