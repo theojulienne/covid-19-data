@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 633555,
+          "confirmed": 633570,
           "date": "2021-12-07",
           "deaths": 10087
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 455824,
+          "confirmed": 457058,
           "date": "2021-12-07",
           "deaths": 11594
         }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 372334,
+      "confirmed": 372462,
       "date": "2021-12-07",
-      "deaths": 6804
+      "deaths": 6808
     }
   },
   "Finland": {
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7738424,
+      "confirmed": 7797443,
       "date": "2021-12-07",
-      "deaths": 117283
+      "deaths": 117455
     }
   },
   "Georgia": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 234797,
+          "confirmed": 235235,
           "date": "2021-12-07",
-          "deaths": 3791
+          "deaths": 3794
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 235417,
+          "confirmed": 235724,
           "date": "2021-12-07",
-          "deaths": 2714
+          "deaths": 2719
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251285,
+          "confirmed": 251356,
           "date": "2021-12-07",
-          "deaths": 1595
+          "deaths": 1597
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 761875,
+          "confirmed": 763071,
           "date": "2021-12-07",
-          "deaths": 9822
+          "deaths": 9833
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 204616,
+          "confirmed": 204996,
           "date": "2021-12-07",
-          "deaths": 2625
+          "deaths": 2628
         }
       }
     }
@@ -1527,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 351298,
+          "confirmed": 352791,
           "date": "2021-12-07",
-          "deaths": 4498
+          "deaths": 4520
         }
       },
       "Pennsylvania": {
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 214241,
+          "confirmed": 214619,
           "date": "2021-12-07",
-          "deaths": 1263
+          "deaths": 1264
         }
       },
       "Washington": {
