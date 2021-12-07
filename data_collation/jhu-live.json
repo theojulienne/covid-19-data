@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5340676,
+      "confirmed": 5343153,
       "date": "2021-12-06",
-      "deaths": 116646
+      "deaths": 116680
     }
   },
   "Armenia": {
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 336392,
+          "confirmed": 337180,
           "date": "2021-12-06",
-          "deaths": 3258
+          "deaths": 3263
         }
       },
       "British Columbia": {
@@ -362,42 +362,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 772639,
+          "confirmed": 772987,
           "date": "2021-12-06",
           "deaths": 16616
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 340055,
+          "confirmed": 340172,
           "date": "2021-12-06",
           "deaths": 9692
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1464329,
+          "confirmed": 1464617,
           "date": "2021-12-06",
           "deaths": 27641
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 266446,
+          "confirmed": 266479,
           "date": "2021-12-06",
           "deaths": 6849
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 231863,
+          "confirmed": 232069,
           "date": "2021-12-06",
           "deaths": 7410
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 417778,
+          "confirmed": 417925,
           "date": "2021-12-06",
           "deaths": 13197
         }
@@ -448,9 +448,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 526870,
+      "confirmed": 529349,
       "date": "2021-12-06",
-      "deaths": 33250
+      "deaths": 33484
     }
   },
   "Egypt": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1068528,
       "date": "2021-12-06",
-      "deaths": 11623
+      "deaths": 11625
     }
   },
   "Thailand": {
@@ -1492,9 +1492,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 174735,
+          "confirmed": 176891,
           "date": "2021-12-06",
-          "deaths": 3998
+          "deaths": 4001
         }
       },
       "Michigan": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1704568,
+          "confirmed": 1705418,
           "date": "2021-12-06",
           "deaths": 25419
         }

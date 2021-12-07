@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 5325560,
-        "deaths": 116517,
+        "confirmed": 5326448,
+        "deaths": 116529,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5314702,
-        "deaths": 116374,
+        "confirmed": 5315348,
+        "deaths": 116377,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5339382,
-        "deaths": 116643,
+        "confirmed": 5340676,
+        "deaths": 116646,
         "recovered": 0
       }
     },
