@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1059303,
+      "confirmed": 1059309,
       "date": "2021-12-07",
       "deaths": 17948
     }
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2145241,
+      "confirmed": 2148766,
       "date": "2021-12-07",
-      "deaths": 20966
+      "deaths": 20997
     }
   },
   "Tunisia": {
