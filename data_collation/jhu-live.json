@@ -933,9 +933,9 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 183649,
+      "confirmed": 183712,
       "date": "2021-12-07",
-      "deaths": 2760
+      "deaths": 2762
     }
   },
   "Latvia": {
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 986692,
+          "confirmed": 986887,
           "date": "2021-12-07",
-          "deaths": 40187
+          "deaths": 40192
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 197536,
+          "confirmed": 197640,
           "date": "2021-12-07",
-          "deaths": 13051
+          "deaths": 13058
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 379674,
+          "confirmed": 379714,
           "date": "2021-12-07",
-          "deaths": 44430
+          "deaths": 44433
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207409,
+          "confirmed": 207431,
           "date": "2021-12-07",
-          "deaths": 13554
+          "deaths": 13555
         }
       }
     }
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 194556,
+      "confirmed": 194703,
       "date": "2021-12-07",
-      "deaths": 1421
+      "deaths": 1424
     }
   },
   "Venezuela": {
