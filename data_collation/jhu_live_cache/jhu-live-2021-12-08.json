@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1059309,
       "date": "2021-12-08",
-      "deaths": 17948
+      "deaths": 17958
     }
   },
   "Kenya": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 482310,
+      "confirmed": 489484,
       "date": "2021-12-08",
-      "deaths": 3957
+      "deaths": 4020
     }
   },
   "Kuwait": {
@@ -1337,65 +1337,65 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 826194,
+          "confirmed": 829848,
           "date": "2021-12-08",
-          "deaths": 11350
+          "deaths": 11355
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 172063,
+          "confirmed": 174138,
           "date": "2021-12-08",
-          "deaths": 3960
+          "deaths": 3971
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 537178,
+          "confirmed": 542566,
           "date": "2021-12-08",
-          "deaths": 7913
+          "deaths": 7917
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 245805,
+          "confirmed": 246801,
           "date": "2021-12-08",
-          "deaths": 6537
+          "deaths": 6540
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 312769,
+          "confirmed": 315510,
           "date": "2021-12-08",
-          "deaths": 7428
+          "deaths": 7431
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 970334,
+          "confirmed": 979986,
           "date": "2021-12-08",
-          "deaths": 16035
+          "deaths": 16041
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 196638,
+          "confirmed": 199745,
           "date": "2021-12-08",
-          "deaths": 2674
+          "deaths": 2680
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 918911,
+          "confirmed": 921523,
           "date": "2021-12-08",
-          "deaths": 16302
+          "deaths": 16303
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 283440,
+          "confirmed": 288489,
           "date": "2021-12-08",
-          "deaths": 5064
+          "deaths": 5088
         }
       }
     }
@@ -1555,9 +1555,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 175031,
+          "confirmed": 175350,
           "date": "2021-12-08",
-          "deaths": 2091
+          "deaths": 2094
         }
       }
     }
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 462219,
+      "confirmed": 462621,
       "date": "2021-12-08",
-      "deaths": 4817
+      "deaths": 4822
     }
   },
   "Zambia": {
