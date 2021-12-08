@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 635027,
+      "confirmed": 639778,
       "date": "2021-12-08",
-      "deaths": 11329
+      "deaths": 11383
     }
   },
   "Cuba": {
@@ -476,9 +476,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 196180,
+      "confirmed": 197476,
       "date": "2021-12-08",
-      "deaths": 1384
+      "deaths": 1395
     }
   },
   "France": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 258419,
+      "confirmed": 259215,
       "date": "2021-12-08",
-      "deaths": 4300
+      "deaths": 4325
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 375869,
+      "confirmed": 376378,
       "date": "2021-12-08",
-      "deaths": 5514
+      "deaths": 5518
     }
   },
   "Lithuania": {
@@ -1321,7 +1321,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 434640,
+      "confirmed": 434679,
       "date": "2021-12-08",
       "deaths": 5354
     }
