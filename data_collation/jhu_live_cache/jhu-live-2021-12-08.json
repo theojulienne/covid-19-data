@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 7797443,
+      "confirmed": 7794665,
       "date": "2021-12-08",
-      "deaths": 117455
+      "deaths": 117447
     }
   },
   "Georgia": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2148766,
+      "confirmed": 2152384,
       "date": "2021-12-08",
-      "deaths": 20997
+      "deaths": 21035
     }
   },
   "Tunisia": {
