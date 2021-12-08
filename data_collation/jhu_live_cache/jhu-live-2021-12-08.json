@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 202295,
+      "confirmed": 202641,
       "date": "2021-12-08",
-      "deaths": 3122
+      "deaths": 3126
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 211859,
+      "confirmed": 212047,
       "date": "2021-12-08",
-      "deaths": 6114
+      "deaths": 6122
     }
   },
   "Argentina": {
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 409002,
+      "confirmed": 409232,
       "date": "2021-12-08",
       "deaths": 4212
     }
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 895789,
+          "confirmed": 907019,
           "date": "2021-12-08",
-          "deaths": 12079
+          "deaths": 12122
         }
       },
       "Bayern": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 620435,
+      "confirmed": 620853,
       "date": "2021-12-08",
-      "deaths": 15999
+      "deaths": 16008
     }
   },
   "Honduras": {
@@ -792,14 +792,14 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 602726,
+      "confirmed": 606852,
       "date": "2021-12-08",
-      "deaths": 5707
+      "deaths": 5788
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1347877,
+      "confirmed": 1348197,
       "date": "2021-12-08",
       "deaths": 8210
     }
@@ -912,7 +912,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 255544,
+      "confirmed": 255652,
       "date": "2021-12-08",
       "deaths": 5337
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 367339,
+      "confirmed": 367948,
       "date": "2021-12-08",
-      "deaths": 9270
+      "deaths": 9293
     }
   },
   "Mongolia": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 569743,
+      "confirmed": 569928,
       "date": "2021-12-08",
       "deaths": 14533
     }
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 184376,
+          "confirmed": 185057,
           "date": "2021-12-08",
-          "deaths": 2065
+          "deaths": 2073
         }
       },
       "Nevada": {
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1709034,
           "date": "2021-12-08",
-          "deaths": 25451
+          "deaths": 25471
         }
       },
       "Utah": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742438,
+      "confirmed": 742507,
       "date": "2021-12-08",
       "deaths": 2149
     }
