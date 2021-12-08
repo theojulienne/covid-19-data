@@ -1314,18 +1314,18 @@
     },
     "FRA": {
       "back_1week": {
-        "confirmed": 7441297,
-        "deaths": 116591,
+        "confirmed": 7486179,
+        "deaths": 116702,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 7235966,
-        "deaths": 116127,
+        "confirmed": 7266361,
+        "deaths": 116210,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 7738424,
-        "deaths": 117283,
+        "confirmed": 7794665,
+        "deaths": 117447,
         "recovered": 0
       },
       "states": {
@@ -1922,17 +1922,17 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 1054091,
-        "deaths": 17818,
+        "deaths": 17845,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1047495,
-        "deaths": 17681,
+        "deaths": 17702,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1059309,
-        "deaths": 17948,
+        "deaths": 17958,
         "recovered": 0
       }
     },
@@ -3967,18 +3967,18 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2963679,
-        "deaths": 89822,
+        "confirmed": 2968052,
+        "deaths": 89843,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2930174,
-        "deaths": 89584,
+        "confirmed": 2948760,
+        "deaths": 89635,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3038075,
-        "deaths": 89975,
+        "confirmed": 3051222,
+        "deaths": 90002,
         "recovered": 0
       }
     },
