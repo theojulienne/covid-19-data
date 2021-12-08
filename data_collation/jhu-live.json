@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 634623,
+          "confirmed": 634839,
           "date": "2021-12-08",
-          "deaths": 10095
+          "deaths": 10096
         }
       },
       "Quebec": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1348197,
+      "confirmed": 1348229,
       "date": "2021-12-08",
       "deaths": 8210
     }
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413555,
+      "confirmed": 413588,
       "date": "2021-12-08",
-      "deaths": 2465
+      "deaths": 2466
     }
   },
   "Kyrgyzstan": {
@@ -1455,16 +1455,16 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8945807,
+      "confirmed": 8966681,
       "date": "2021-12-08",
-      "deaths": 78215
+      "deaths": 78407
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 817303,
+          "confirmed": 819354,
           "date": "2021-12-08",
           "deaths": 12999
         }
