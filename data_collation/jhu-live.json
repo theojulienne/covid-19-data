@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 341058,
+      "confirmed": 341468,
       "date": "2021-12-08",
-      "deaths": 7718
+      "deaths": 7728
     }
   },
   "Austria": {
@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 225837,
+      "confirmed": 226304,
       "date": "2021-12-08",
-      "deaths": 1826
+      "deaths": 1836
     }
   },
   "Ethiopia": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1347474,
+      "confirmed": 1347877,
       "date": "2021-12-08",
       "deaths": 8210
     }
@@ -933,7 +933,7 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 183712,
+      "confirmed": 183744,
       "date": "2021-12-08",
       "deaths": 2762
     }
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1968947,
+          "confirmed": 1971951,
           "date": "2021-12-08",
-          "deaths": 34853
+          "deaths": 34943
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 603456,
+          "confirmed": 605310,
           "date": "2021-12-08",
-          "deaths": 10827
+          "deaths": 10881
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 219092,
+          "confirmed": 219756,
           "date": "2021-12-08",
-          "deaths": 9125
+          "deaths": 9159
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 180107,
+          "confirmed": 180762,
           "date": "2021-12-08",
-          "deaths": 8974
+          "deaths": 9009
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 804664,
+          "confirmed": 806873,
           "date": "2021-12-08",
-          "deaths": 26604
+          "deaths": 26653
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 185944,
+          "confirmed": 186696,
           "date": "2021-12-08",
-          "deaths": 5732
+          "deaths": 5767
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 184103,
+          "confirmed": 184774,
           "date": "2021-12-08",
-          "deaths": 8661
+          "deaths": 8693
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 182406,
+          "confirmed": 183107,
           "date": "2021-12-08",
-          "deaths": 6054
+          "deaths": 6101
         }
       }
     }
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 194703,
+      "confirmed": 194904,
       "date": "2021-12-08",
-      "deaths": 1424
+      "deaths": 1425
     }
   },
   "Venezuela": {
