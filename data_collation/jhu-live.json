@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 524638,
+      "confirmed": 525005,
       "date": "2021-12-08",
-      "deaths": 19146
+      "deaths": 19152
     }
   },
   "Canada": {
@@ -499,79 +499,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 895668,
+          "confirmed": 895789,
           "date": "2021-12-08",
-          "deaths": 12076
+          "deaths": 12079
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1196995,
+          "confirmed": 1207373,
           "date": "2021-12-08",
-          "deaths": 18060
+          "deaths": 18174
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 287674,
+          "confirmed": 290582,
           "date": "2021-12-08",
-          "deaths": 3867
+          "deaths": 3877
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 194119,
+          "confirmed": 197554,
           "date": "2021-12-08",
-          "deaths": 4225
+          "deaths": 4267
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 430354,
+          "confirmed": 433837,
           "date": "2021-12-08",
-          "deaths": 8234
+          "deaths": 8251
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 392042,
+          "confirmed": 395949,
           "date": "2021-12-08",
-          "deaths": 6442
+          "deaths": 6486
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1228640,
+          "confirmed": 1237349,
           "date": "2021-12-08",
-          "deaths": 19260
+          "deaths": 19337
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 248845,
+          "confirmed": 248870,
           "date": "2021-12-08",
-          "deaths": 4357
+          "deaths": 4356
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 556870,
+          "confirmed": 558187,
           "date": "2021-12-08",
-          "deaths": 11297
+          "deaths": 11315
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 180731,
+          "confirmed": 180734,
           "date": "2021-12-08",
           "deaths": 3886
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 233823,
+          "confirmed": 237941,
           "date": "2021-12-08",
-          "deaths": 5204
+          "deaths": 5245
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1059309,
+      "confirmed": 1060125,
       "date": "2021-12-08",
       "deaths": 17958
     }
@@ -1520,7 +1520,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1572553,
+          "confirmed": 1574606,
           "date": "2021-12-08",
           "deaths": 39971
         }
