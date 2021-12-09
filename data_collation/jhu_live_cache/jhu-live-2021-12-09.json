@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 987409,
+          "confirmed": 987779,
           "date": "2021-12-09",
-          "deaths": 40190
+          "deaths": 40200
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 197980,
+          "confirmed": 198317,
           "date": "2021-12-09",
-          "deaths": 13069
+          "deaths": 13078
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 379834,
+          "confirmed": 379969,
           "date": "2021-12-09",
-          "deaths": 44446
+          "deaths": 44465
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207565,
+          "confirmed": 207664,
           "date": "2021-12-09",
-          "deaths": 13617
+          "deaths": 13633
         }
       }
     }
