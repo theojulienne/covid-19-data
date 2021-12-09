@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 635922,
+          "confirmed": 635940,
           "date": "2021-12-09",
           "deaths": 10107
         }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 8966681,
+      "confirmed": 8986377,
       "date": "2021-12-09",
-      "deaths": 78407
+      "deaths": 78602
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3234922,
+          "confirmed": 3235217,
           "date": "2021-12-09",
-          "deaths": 51329
+          "deaths": 51339
         }
       },
       "Florida": {
@@ -1543,7 +1543,7 @@
         "live": {
           "confirmed": 1710872,
           "date": "2021-12-09",
-          "deaths": 25481
+          "deaths": 25498
         }
       },
       "Utah": {
