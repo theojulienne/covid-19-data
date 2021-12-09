@@ -499,79 +499,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 907019,
+          "confirmed": 907140,
           "date": "2021-12-09",
-          "deaths": 12122
+          "deaths": 12124
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1207631,
+          "confirmed": 1219168,
           "date": "2021-12-09",
-          "deaths": 18176
+          "deaths": 18311
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 293190,
+          "confirmed": 293202,
           "date": "2021-12-09",
           "deaths": 3886
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 197554,
+          "confirmed": 200190,
           "date": "2021-12-09",
-          "deaths": 4267
+          "deaths": 4280
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 433837,
+          "confirmed": 437099,
           "date": "2021-12-09",
-          "deaths": 8251
+          "deaths": 8264
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 395949,
+          "confirmed": 399254,
           "date": "2021-12-09",
-          "deaths": 6486
+          "deaths": 6513
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1237349,
+          "confirmed": 1247697,
           "date": "2021-12-09",
-          "deaths": 19337
+          "deaths": 19386
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 251689,
+          "confirmed": 251716,
           "date": "2021-12-09",
           "deaths": 4374
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 566187,
+          "confirmed": 567902,
           "date": "2021-12-09",
-          "deaths": 11376
+          "deaths": 11392
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 184928,
+          "confirmed": 184931,
           "date": "2021-12-09",
           "deaths": 3912
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 237941,
+          "confirmed": 242465,
           "date": "2021-12-09",
-          "deaths": 5245
+          "deaths": 5277
         }
       }
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3732589,
+      "confirmed": 3760048,
       "date": "2021-12-09",
-      "deaths": 86796
+      "deaths": 87357
     }
   },
   "Portugal": {
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1971951,
+          "confirmed": 1974899,
           "date": "2021-12-09",
-          "deaths": 34943
+          "deaths": 35035
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 605310,
+          "confirmed": 606926,
           "date": "2021-12-09",
-          "deaths": 10881
+          "deaths": 10931
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 219756,
+          "confirmed": 220383,
           "date": "2021-12-09",
-          "deaths": 9159
+          "deaths": 9193
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 180762,
+          "confirmed": 181410,
           "date": "2021-12-09",
-          "deaths": 9009
+          "deaths": 9042
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 806873,
+          "confirmed": 808984,
           "date": "2021-12-09",
-          "deaths": 26653
+          "deaths": 26707
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 186696,
+          "confirmed": 187445,
           "date": "2021-12-09",
-          "deaths": 5767
+          "deaths": 5795
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 184774,
+          "confirmed": 185443,
           "date": "2021-12-09",
-          "deaths": 8693
+          "deaths": 8724
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 183107,
+          "confirmed": 183795,
           "date": "2021-12-09",
-          "deaths": 6101
+          "deaths": 6140
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1090928,
       "date": "2021-12-09",
-      "deaths": 11686
+      "deaths": 11687
     }
   },
   "Thailand": {

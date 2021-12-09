@@ -2800,18 +2800,18 @@
     },
     "POL": {
       "back_1week": {
-        "confirmed": 3540061,
-        "deaths": 83583,
+        "confirmed": 3569137,
+        "deaths": 84153,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 3377698,
-        "deaths": 81228,
+        "confirmed": 3406129,
+        "deaths": 81688,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 3704040,
-        "deaths": 86205,
+        "confirmed": 3732589,
+        "deaths": 86796,
         "recovered": 0
       }
     },
