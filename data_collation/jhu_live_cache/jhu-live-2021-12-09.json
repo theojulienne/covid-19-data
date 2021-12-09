@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 226304,
+      "confirmed": 226858,
       "date": "2021-12-09",
-      "deaths": 1836
+      "deaths": 1838
     }
   },
   "Ethiopia": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304654,
+      "confirmed": 304679,
       "date": "2021-12-09",
       "deaths": 4113
     }
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1255086,
+      "confirmed": 1265056,
       "date": "2021-12-09",
-      "deaths": 15095
+      "deaths": 15179
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 434679,
+      "confirmed": 436366,
       "date": "2021-12-09",
-      "deaths": 5354
+      "deaths": 5365
     }
   },
   "South Africa": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1090928,
       "date": "2021-12-09",
-      "deaths": 11687
+      "deaths": 11692
     }
   },
   "Thailand": {
