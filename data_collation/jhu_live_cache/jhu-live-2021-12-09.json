@@ -66,42 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 271901,
+          "confirmed": 274516,
           "date": "2021-12-09",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 220382,
+          "confirmed": 221962,
           "date": "2021-12-09",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 232114,
+          "confirmed": 234949,
           "date": "2021-12-09",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 226992,
+          "confirmed": 229222,
           "date": "2021-12-09",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 207830,
+          "confirmed": 209600,
           "date": "2021-12-09",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 193874,
+          "confirmed": 195979,
           "date": "2021-12-09",
           "deaths": 0
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1060125,
+      "confirmed": 1060923,
       "date": "2021-12-09",
       "deaths": 17972
     }
@@ -1150,21 +1150,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 180471,
+          "confirmed": 180514,
           "date": "2021-12-09",
-          "deaths": 5868
+          "deaths": 5874
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 443610,
+          "confirmed": 443682,
           "date": "2021-12-09",
-          "deaths": 13044
+          "deaths": 13046
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 477119,
+          "confirmed": 477299,
           "date": "2021-12-09",
           "deaths": 7630
         }
