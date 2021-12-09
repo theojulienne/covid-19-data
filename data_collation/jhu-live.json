@@ -478,7 +478,7 @@
     "live": {
       "confirmed": 197476,
       "date": "2021-12-09",
-      "deaths": 1395
+      "deaths": 1399
     }
   },
   "France": {
@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4258340,
+      "confirmed": 4258560,
       "date": "2021-12-09",
-      "deaths": 143909
+      "deaths": 143918
     }
   },
   "Iran": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 823357,
+      "confirmed": 823554,
       "date": "2021-12-09",
-      "deaths": 11547
+      "deaths": 11549
     }
   },
   "Netherlands": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1090928,
       "date": "2021-12-09",
-      "deaths": 11692
+      "deaths": 11695
     }
   },
   "Thailand": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742507,
+      "confirmed": 742567,
       "date": "2021-12-09",
       "deaths": 2149
     }
