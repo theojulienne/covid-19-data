@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2835593,
+      "confirmed": 2835996,
       "date": "2021-12-09",
-      "deaths": 49761
+      "deaths": 49936
     }
   },
   "Poland": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1789539,
+      "confirmed": 1790571,
       "date": "2021-12-09",
-      "deaths": 57360
+      "deaths": 57434
     }
   },
   "Russia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1090928,
       "date": "2021-12-09",
-      "deaths": 11695
+      "deaths": 11702
     }
   },
   "Thailand": {
