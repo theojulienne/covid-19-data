@@ -1555,9 +1555,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 175350,
+          "confirmed": 175564,
           "date": "2021-12-09",
-          "deaths": 2094
+          "deaths": 2099
         }
       }
     }
