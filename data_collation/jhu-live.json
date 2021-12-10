@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 989814,
+      "confirmed": 994901,
       "date": "2021-12-10",
-      "deaths": 18982
+      "deaths": 19085
     }
   },
   "Guatemala": {
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169370,
+          "confirmed": 169388,
           "date": "2021-12-10",
           "deaths": 1315
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203253,
+          "confirmed": 203259,
           "date": "2021-12-10",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382324,
+          "confirmed": 382349,
           "date": "2021-12-10",
           "deaths": 3170
         }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 236193,
+          "confirmed": 236693,
           "date": "2021-12-10",
-          "deaths": 3801
+          "deaths": 3809
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 236375,
+          "confirmed": 236638,
           "date": "2021-12-10",
-          "deaths": 2727
+          "deaths": 2733
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251501,
+          "confirmed": 251568,
           "date": "2021-12-10",
-          "deaths": 1602
+          "deaths": 1605
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 766003,
+          "confirmed": 767296,
           "date": "2021-12-10",
-          "deaths": 9845
+          "deaths": 9849
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 205627,
+          "confirmed": 205992,
           "date": "2021-12-10",
-          "deaths": 2630
+          "deaths": 2631
         }
       }
     }
@@ -1534,16 +1534,16 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 195644,
+          "confirmed": 197431,
           "date": "2021-12-10",
-          "deaths": 4135
+          "deaths": 4145
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1711918,
+          "confirmed": 1712370,
           "date": "2021-12-10",
-          "deaths": 25498
+          "deaths": 25502
         }
       },
       "Utah": {
