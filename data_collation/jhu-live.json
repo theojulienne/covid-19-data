@@ -476,9 +476,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 199257,
+      "confirmed": 201051,
       "date": "2021-12-10",
-      "deaths": 1406
+      "deaths": 1421
     }
   },
   "France": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 260008,
+      "confirmed": 260658,
       "date": "2021-12-10",
-      "deaths": 4349
+      "deaths": 4360
     }
   },
   "Lebanon": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1101789,
       "date": "2021-12-10",
-      "deaths": 11716
+      "deaths": 11718
     }
   },
   "Thailand": {
@@ -1617,9 +1617,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742567,
+      "confirmed": 742641,
       "date": "2021-12-10",
-      "deaths": 2149
+      "deaths": 2151
     }
   },
   "United Kingdom": {
