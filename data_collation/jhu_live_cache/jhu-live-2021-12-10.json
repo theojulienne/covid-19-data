@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 916348,
+          "confirmed": 924163,
           "date": "2021-12-10",
-          "deaths": 12181
+          "deaths": 12243
         }
       },
       "Bayern": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3236903,
+          "confirmed": 3238932,
           "date": "2021-12-10",
-          "deaths": 51352
+          "deaths": 51362
         }
       },
       "Florida": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 185762,
+          "confirmed": 186697,
           "date": "2021-12-10",
-          "deaths": 2077
+          "deaths": 2081
         }
       },
       "Nevada": {
