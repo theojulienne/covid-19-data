@@ -310,9 +310,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 525403,
+      "confirmed": 525750,
       "date": "2021-12-10",
-      "deaths": 19157
+      "deaths": 19162
     }
   },
   "Canada": {
@@ -427,9 +427,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2298441,
+      "confirmed": 2312736,
       "date": "2021-12-10",
-      "deaths": 34129
+      "deaths": 34242
     }
   },
   "Denmark": {
@@ -608,163 +608,163 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2074217,
+          "confirmed": 2074410,
           "date": "2021-12-10",
-          "deaths": 14457
+          "deaths": 14460
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 618042,
+          "confirmed": 618188,
           "date": "2021-12-10",
-          "deaths": 6127
+          "deaths": 6129
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726259,
+          "confirmed": 726276,
           "date": "2021-12-10",
           "deaths": 12090
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1007075,
+          "confirmed": 1007115,
           "date": "2021-12-10",
           "deaths": 13594
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1441514,
+          "confirmed": 1441569,
           "date": "2021-12-10",
           "deaths": 25100
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 179307,
+          "confirmed": 179338,
           "date": "2021-12-10",
-          "deaths": 3388
+          "deaths": 3482
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 827873,
+          "confirmed": 827943,
           "date": "2021-12-10",
           "deaths": 10095
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 771904,
+          "confirmed": 771939,
           "date": "2021-12-10",
           "deaths": 10055
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 227753,
+          "confirmed": 227805,
           "date": "2021-12-10",
-          "deaths": 3857
+          "deaths": 3859
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 338198,
+          "confirmed": 338390,
           "date": "2021-12-10",
           "deaths": 4489
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 349383,
+          "confirmed": 349392,
           "date": "2021-12-10",
           "deaths": 5141
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 2999098,
+          "confirmed": 2999471,
           "date": "2021-12-10",
-          "deaths": 38249
+          "deaths": 38253
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5178892,
+          "confirmed": 5183061,
           "date": "2021-12-10",
-          "deaths": 42014
+          "deaths": 42239
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 793288,
+          "confirmed": 793307,
           "date": "2021-12-10",
           "deaths": 10529
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6640888,
+          "confirmed": 6641677,
           "date": "2021-12-10",
-          "deaths": 141204
+          "deaths": 141211
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1050760,
+          "confirmed": 1050955,
           "date": "2021-12-10",
-          "deaths": 8426
+          "deaths": 8428
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 603578,
+          "confirmed": 603638,
           "date": "2021-12-10",
-          "deaths": 16614
+          "deaths": 16616
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 954984,
+          "confirmed": 955022,
           "date": "2021-12-10",
           "deaths": 8956
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2732648,
+          "confirmed": 2733346,
           "date": "2021-12-10",
-          "deaths": 36560
+          "deaths": 36575
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 677546,
+          "confirmed": 677747,
           "date": "2021-12-10",
-          "deaths": 4002
+          "deaths": 4003
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1710502,
+          "confirmed": 1710508,
           "date": "2021-12-10",
           "deaths": 22911
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 344402,
+          "confirmed": 344411,
           "date": "2021-12-10",
           "deaths": 7411
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1620803,
+          "confirmed": 1621370,
           "date": "2021-12-10",
-          "deaths": 19568
+          "deaths": 19575
         }
       }
     }
