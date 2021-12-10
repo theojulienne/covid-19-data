@@ -2936,18 +2936,18 @@
     },
     "SAU": {
       "back_1week": {
-        "confirmed": 549786,
-        "deaths": 8837,
+        "confirmed": 549810,
+        "deaths": 8839,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 549590,
-        "deaths": 8828,
+        "confirmed": 549618,
+        "deaths": 8829,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 550043,
-        "deaths": 8849,
+        "confirmed": 550088,
+        "deaths": 8850,
         "recovered": 0
       }
     },
