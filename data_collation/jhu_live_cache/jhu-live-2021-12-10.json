@@ -499,79 +499,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 916271,
+          "confirmed": 916348,
           "date": "2021-12-10",
-          "deaths": 12178
+          "deaths": 12181
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1219477,
+          "confirmed": 1228890,
           "date": "2021-12-10",
-          "deaths": 18316
+          "deaths": 18425
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 293202,
+          "confirmed": 295379,
           "date": "2021-12-10",
-          "deaths": 3886
+          "deaths": 3904
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 200190,
+          "confirmed": 205223,
           "date": "2021-12-10",
-          "deaths": 4280
+          "deaths": 4304
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 437099,
+          "confirmed": 439836,
           "date": "2021-12-10",
-          "deaths": 8264
+          "deaths": 8293
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 399254,
+          "confirmed": 402098,
           "date": "2021-12-10",
-          "deaths": 6513
+          "deaths": 6533
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1247697,
+          "confirmed": 1256199,
           "date": "2021-12-10",
-          "deaths": 19386
+          "deaths": 19438
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 253770,
+          "confirmed": 253799,
           "date": "2021-12-10",
           "deaths": 4389
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 574883,
+          "confirmed": 575749,
           "date": "2021-12-10",
-          "deaths": 11458
+          "deaths": 11474
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 188312,
+          "confirmed": 188316,
           "date": "2021-12-10",
           "deaths": 3934
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 242465,
+          "confirmed": 246268,
           "date": "2021-12-10",
-          "deaths": 5277
+          "deaths": 5308
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1060923,
+      "confirmed": 1061645,
       "date": "2021-12-10",
       "deaths": 17985
     }
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 987779,
+          "confirmed": 988137,
           "date": "2021-12-10",
-          "deaths": 40200
+          "deaths": 40205
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 198317,
+          "confirmed": 198622,
           "date": "2021-12-10",
-          "deaths": 13078
+          "deaths": 13128
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 379969,
+          "confirmed": 380122,
           "date": "2021-12-10",
-          "deaths": 44465
+          "deaths": 44470
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207664,
+          "confirmed": 207752,
           "date": "2021-12-10",
-          "deaths": 13633
+          "deaths": 13640
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 384626,
+      "confirmed": 384912,
       "date": "2021-12-10",
-      "deaths": 2026
+      "deaths": 2028
     }
   },
   "Morocco": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2156587,
+      "confirmed": 2160780,
       "date": "2021-12-10",
-      "deaths": 21084
+      "deaths": 21112
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 436178,
+      "confirmed": 436602,
       "date": "2021-12-10",
-      "deaths": 5216
+      "deaths": 5223
     }
   },
   "Vietnam": {
