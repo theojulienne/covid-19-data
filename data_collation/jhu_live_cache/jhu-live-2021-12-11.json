@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 638774,
+          "confirmed": 638792,
           "date": "2021-12-11",
           "deaths": 10122
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1349385,
+      "confirmed": 1349712,
       "date": "2021-12-11",
       "deaths": 8210
     }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 951267,
+      "confirmed": 951380,
       "date": "2021-12-11",
-      "deaths": 14795
+      "deaths": 14796
     }
   },
   "Nepal": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 571426,
+      "confirmed": 572003,
       "date": "2021-12-11",
-      "deaths": 14573
+      "deaths": 14595
     }
   },
   "Sweden": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1717056,
+          "confirmed": 1717875,
           "date": "2021-12-11",
           "deaths": 25533
         }
@@ -1626,23 +1626,23 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 9092016,
+          "confirmed": 9138773,
           "date": "2021-12-11",
-          "deaths": 127154
+          "deaths": 127271
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 337034,
+          "confirmed": 338480,
           "date": "2021-12-11",
-          "deaths": 2918
+          "deaths": 2921
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 757813,
+          "confirmed": 761889,
           "date": "2021-12-11",
-          "deaths": 9707
+          "deaths": 9719
         }
       },
       "Wales": {
