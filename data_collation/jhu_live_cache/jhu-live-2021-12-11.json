@@ -66,42 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 276965,
+          "confirmed": 279265,
           "date": "2021-12-11",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 223431,
+          "confirmed": 224906,
           "date": "2021-12-11",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 237154,
+          "confirmed": 239386,
           "date": "2021-12-11",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 230891,
+          "confirmed": 232721,
           "date": "2021-12-11",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 210902,
+          "confirmed": 212029,
           "date": "2021-12-11",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 197735,
+          "confirmed": 199560,
           "date": "2021-12-11",
           "deaths": 0
         }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1062213,
+      "confirmed": 1062279,
       "date": "2021-12-11",
       "deaths": 18005
     }
@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 215918,
+      "confirmed": 216451,
       "date": "2021-12-11",
       "deaths": 2981
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 480090,
+      "confirmed": 480217,
       "date": "2021-12-11",
-      "deaths": 7382
+      "deaths": 7385
     }
   },
   "Paraguay": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2160780,
+      "confirmed": 2164859,
       "date": "2021-12-11",
-      "deaths": 21112
+      "deaths": 21151
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 436602,
+      "confirmed": 437113,
       "date": "2021-12-11",
-      "deaths": 5223
+      "deaths": 5229
     }
   },
   "Vietnam": {
