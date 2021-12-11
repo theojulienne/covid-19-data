@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 503606,
+      "confirmed": 510583,
       "date": "2021-12-11",
-      "deaths": 4130
+      "deaths": 4210
     }
   },
   "Kuwait": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3239246,
+          "confirmed": 3241144,
           "date": "2021-12-11",
-          "deaths": 51370
+          "deaths": 51386
         }
       },
       "Florida": {
