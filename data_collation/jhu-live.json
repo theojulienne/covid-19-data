@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 212434,
+      "confirmed": 212652,
       "date": "2021-12-11",
-      "deaths": 6132
+      "deaths": 6137
     }
   },
   "Argentina": {
@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 460430,
+          "confirmed": 464227,
           "date": "2021-12-11",
-          "deaths": 11603
+          "deaths": 11607
         }
       }
     }
@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963493,
+      "confirmed": 963566,
       "date": "2021-12-11",
-      "deaths": 8311
+      "deaths": 8313
     }
   },
   "Czechia": {
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 409862,
+      "confirmed": 410087,
       "date": "2021-12-11",
       "deaths": 4218
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 372868,
+      "confirmed": 373000,
       "date": "2021-12-11",
-      "deaths": 6822
+      "deaths": 6829
     }
   },
   "Finland": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 369013,
+      "confirmed": 369402,
       "date": "2021-12-11",
-      "deaths": 9333
+      "deaths": 9354
     }
   },
   "Mongolia": {
@@ -1464,9 +1464,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 824044,
+          "confirmed": 826257,
           "date": "2021-12-11",
-          "deaths": 13085
+          "deaths": 13120
         }
       },
       "California": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 357898,
+          "confirmed": 359854,
           "date": "2021-12-11",
           "deaths": 4550
         }
