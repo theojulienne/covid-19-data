@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1578819,
+      "confirmed": 1578996,
       "date": "2021-12-11",
-      "deaths": 28017
+      "deaths": 28022
     }
   },
   "Belarus": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2836200,
+      "confirmed": 2836360,
       "date": "2021-12-11",
-      "deaths": 49961
+      "deaths": 50096
     }
   },
   "Poland": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 550136,
+      "confirmed": 550189,
       "date": "2021-12-11",
-      "deaths": 8851
+      "deaths": 8852
     }
   },
   "Serbia": {
