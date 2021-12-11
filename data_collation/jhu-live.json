@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 671432,
+      "confirmed": 673269,
       "date": "2021-12-11",
-      "deaths": 5245
+      "deaths": 5261
     }
   },
   "Belgium": {
@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 227446,
+      "confirmed": 227902,
       "date": "2021-12-11",
-      "deaths": 1845
+      "deaths": 1848
     }
   },
   "Ethiopia": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 260658,
+      "confirmed": 261463,
       "date": "2021-12-11",
-      "deaths": 4360
+      "deaths": 4366
     }
   },
   "Lebanon": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 823786,
+      "confirmed": 823980,
       "date": "2021-12-11",
-      "deaths": 11552
+      "deaths": 11553
     }
   },
   "Netherlands": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742641,
+      "confirmed": 742719,
       "date": "2021-12-11",
       "deaths": 2151
     }
@@ -1691,9 +1691,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 210724,
+      "confirmed": 210959,
       "date": "2021-12-11",
-      "deaths": 3668
+      "deaths": 3669
     }
   }
 }
