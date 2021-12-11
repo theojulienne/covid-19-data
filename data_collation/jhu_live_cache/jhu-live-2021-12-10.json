@@ -362,42 +362,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 774423,
+          "confirmed": 774874,
           "date": "2021-12-10",
           "deaths": 16671
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 340516,
+          "confirmed": 340613,
           "date": "2021-12-10",
           "deaths": 9707
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1465730,
+          "confirmed": 1466026,
           "date": "2021-12-10",
           "deaths": 27656
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 266545,
+          "confirmed": 266568,
           "date": "2021-12-10",
           "deaths": 6849
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 232518,
+          "confirmed": 232631,
           "date": "2021-12-10",
           "deaths": 7428
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 418516,
+          "confirmed": 418709,
           "date": "2021-12-10",
           "deaths": 13220
         }
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463580,
+      "confirmed": 463650,
       "date": "2021-12-10",
-      "deaths": 16492
+      "deaths": 16500
     }
   },
   "Peru": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1585812,
+          "confirmed": 1588649,
           "date": "2021-12-10",
-          "deaths": 40025
+          "deaths": 40029
         }
       },
       "Ohio": {
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1712370,
+          "confirmed": 1712795,
           "date": "2021-12-10",
           "deaths": 25502
         }
