@@ -3967,13 +3967,13 @@
     },
     "ZAF": {
       "back_1week": {
-        "confirmed": 2988148,
-        "deaths": 89915,
+        "confirmed": 3004203,
+        "deaths": 89944,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2952500,
-        "deaths": 89771,
+        "confirmed": 2955328,
+        "deaths": 89783,
         "recovered": 0
       },
       "latest": {
