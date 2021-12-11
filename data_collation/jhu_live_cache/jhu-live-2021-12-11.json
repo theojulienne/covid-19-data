@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 686725,
+      "confirmed": 688515,
       "date": "2021-12-11",
-      "deaths": 8824
+      "deaths": 8836
     }
   },
   "Libya": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 245030,
+      "confirmed": 245188,
       "date": "2021-12-11",
       "deaths": 612
     }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9004938,
+      "confirmed": 9024193,
       "date": "2021-12-11",
-      "deaths": 78778
+      "deaths": 78969
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3241144,
+          "confirmed": 3242943,
           "date": "2021-12-11",
-          "deaths": 51386
+          "deaths": 51407
         }
       },
       "Florida": {
