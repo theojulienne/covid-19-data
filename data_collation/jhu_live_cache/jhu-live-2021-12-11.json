@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 487953,
+      "confirmed": 489673,
       "date": "2021-12-11",
-      "deaths": 6933
+      "deaths": 6956
     }
   },
   "Malaysia": {
@@ -1379,9 +1379,9 @@
       },
       "Galicia": {
         "live": {
-          "confirmed": 201653,
+          "confirmed": 201570,
           "date": "2021-12-11",
-          "deaths": 2688
+          "deaths": 2689
         }
       },
       "Madrid": {
