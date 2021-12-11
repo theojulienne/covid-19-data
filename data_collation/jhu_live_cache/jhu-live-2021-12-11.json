@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1349715,
+      "confirmed": 1349741,
       "date": "2021-12-11",
       "deaths": 8210
     }
@@ -1541,7 +1541,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1718059,
+          "confirmed": 1718305,
           "date": "2021-12-11",
           "deaths": 25539
         }
