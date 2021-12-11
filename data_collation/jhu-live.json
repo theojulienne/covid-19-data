@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 637761,
+          "confirmed": 638774,
           "date": "2021-12-11",
-          "deaths": 10117
+          "deaths": 10122
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 542794,
+      "confirmed": 548400,
       "date": "2021-12-11",
-      "deaths": 2996
+      "deaths": 3005
     }
   },
   "Dominican Republic": {
@@ -506,7 +506,7 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1236138,
+          "confirmed": 1236186,
           "date": "2021-12-11",
           "deaths": 18533
         }
@@ -1534,9 +1534,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 197431,
+          "confirmed": 197981,
           "date": "2021-12-11",
-          "deaths": 4145
+          "deaths": 4154
         }
       },
       "Texas": {
