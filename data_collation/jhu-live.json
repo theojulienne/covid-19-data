@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 342405,
+      "confirmed": 342538,
       "date": "2021-12-12",
-      "deaths": 7788
+      "deaths": 7802
     }
   },
   "Austria": {
@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 227902,
+      "confirmed": 228279,
       "date": "2021-12-12",
-      "deaths": 1848
+      "deaths": 1852
     }
   },
   "Ethiopia": {
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1981516,
+          "confirmed": 1984378,
           "date": "2021-12-12",
-          "deaths": 35210
+          "deaths": 35298
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 610471,
+          "confirmed": 612511,
           "date": "2021-12-12",
-          "deaths": 11040
+          "deaths": 11093
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 221508,
+          "confirmed": 222084,
           "date": "2021-12-12",
-          "deaths": 9258
+          "deaths": 9292
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 182713,
+          "confirmed": 183365,
           "date": "2021-12-12",
-          "deaths": 9102
+          "deaths": 9129
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 813296,
+          "confirmed": 815308,
           "date": "2021-12-12",
-          "deaths": 26823
+          "deaths": 26886
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 188924,
+          "confirmed": 189641,
           "date": "2021-12-12",
-          "deaths": 5854
+          "deaths": 5883
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 186767,
+          "confirmed": 187425,
           "date": "2021-12-12",
-          "deaths": 8790
+          "deaths": 8826
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 185118,
+          "confirmed": 185735,
           "date": "2021-12-12",
-          "deaths": 6222
+          "deaths": 6268
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1111923,
       "date": "2021-12-12",
-      "deaths": 11748
+      "deaths": 11747
     }
   },
   "Thailand": {
