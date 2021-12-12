@@ -808,65 +808,65 @@
     "subseries": {
       "Campania": {
         "live": {
-          "confirmed": 503762,
+          "confirmed": 505293,
           "date": "2021-12-12",
-          "deaths": 8289
+          "deaths": 8291
         }
       },
       "Emilia-Romagna": {
         "live": {
-          "confirmed": 472613,
+          "confirmed": 474585,
           "date": "2021-12-12",
-          "deaths": 13893
+          "deaths": 13907
         }
       },
       "Lazio": {
         "live": {
-          "confirmed": 440919,
+          "confirmed": 442884,
           "date": "2021-12-12",
-          "deaths": 9070
+          "deaths": 9073
         }
       },
       "Lombardia": {
         "live": {
-          "confirmed": 962239,
+          "confirmed": 965517,
           "date": "2021-12-12",
-          "deaths": 34566
+          "deaths": 34576
         }
       },
       "Piemonte": {
         "live": {
-          "confirmed": 412508,
+          "confirmed": 413714,
           "date": "2021-12-12",
           "deaths": 11916
         }
       },
       "Puglia": {
         "live": {
-          "confirmed": 283060,
+          "confirmed": 283496,
           "date": "2021-12-12",
-          "deaths": 6913
+          "deaths": 6914
         }
       },
       "Sicilia": {
         "live": {
-          "confirmed": 332798,
+          "confirmed": 333826,
           "date": "2021-12-12",
-          "deaths": 7276
+          "deaths": 7282
         }
       },
       "Toscana": {
         "live": {
-          "confirmed": 309011,
+          "confirmed": 309842,
           "date": "2021-12-12",
-          "deaths": 7449
+          "deaths": 7454
         }
       },
       "Veneto": {
         "live": {
-          "confirmed": 548750,
+          "confirmed": 552021,
           "date": "2021-12-12",
-          "deaths": 12050
+          "deaths": 12055
         }
       }
     }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1718305,
+          "confirmed": 1718979,
           "date": "2021-12-12",
-          "deaths": 25539
+          "deaths": 25544
         }
       },
       "Utah": {
@@ -1626,30 +1626,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 9138773,
+          "confirmed": 9178705,
           "date": "2021-12-12",
-          "deaths": 127271
+          "deaths": 127315
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 338480,
+          "confirmed": 340028,
           "date": "2021-12-12",
-          "deaths": 2921
+          "deaths": 2924
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 761889,
+          "confirmed": 765889,
           "date": "2021-12-12",
           "deaths": 9719
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 532302,
+          "confirmed": 534893,
           "date": "2021-12-12",
-          "deaths": 6476
+          "deaths": 6481
         }
       }
     }
