@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1350150,
+      "confirmed": 1350215,
       "date": "2021-12-12",
       "deaths": 8216
     }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9024193,
+      "confirmed": 9042149,
       "date": "2021-12-12",
-      "deaths": 78969
+      "deaths": 79151
     }
   },
   "US": {
@@ -1466,14 +1466,14 @@
         "live": {
           "confirmed": 828549,
           "date": "2021-12-12",
-          "deaths": 13120
+          "deaths": 13127
         }
       },
       "California": {
         "live": {
-          "confirmed": 3242943,
+          "confirmed": 3244402,
           "date": "2021-12-12",
-          "deaths": 51407
+          "deaths": 51412
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1591815,
+          "confirmed": 1594908,
           "date": "2021-12-12",
-          "deaths": 40032
+          "deaths": 40035
         }
       },
       "Ohio": {
