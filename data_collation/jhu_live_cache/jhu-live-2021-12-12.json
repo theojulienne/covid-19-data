@@ -548,9 +548,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 256607,
+          "confirmed": 257301,
           "date": "2021-12-12",
-          "deaths": 4409
+          "deaths": 4410
         }
       },
       "Sachsen": {
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 489673,
+      "confirmed": 491122,
       "date": "2021-12-12",
-      "deaths": 6956
+      "deaths": 6974
     }
   },
   "Malaysia": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742719,
+      "confirmed": 742802,
       "date": "2021-12-12",
       "deaths": 2151
     }
