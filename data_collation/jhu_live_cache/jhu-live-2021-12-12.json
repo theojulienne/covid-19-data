@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 237173,
+          "confirmed": 237495,
           "date": "2021-12-12",
           "deaths": 3809
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 236925,
+          "confirmed": 237122,
           "date": "2021-12-12",
-          "deaths": 2740
+          "deaths": 2741
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251642,
+          "confirmed": 251696,
           "date": "2021-12-12",
           "deaths": 1609
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 768523,
+          "confirmed": 769477,
           "date": "2021-12-12",
           "deaths": 9859
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 206341,
+          "confirmed": 206535,
           "date": "2021-12-12",
           "deaths": 2633
         }
