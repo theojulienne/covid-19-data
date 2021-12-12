@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 385196,
+      "confirmed": 385353,
       "date": "2021-12-12",
-      "deaths": 2031
+      "deaths": 2033
     }
   },
   "Morocco": {
@@ -1189,9 +1189,9 @@
     "subseries": {
       "Lima": {
         "live": {
-          "confirmed": 982487,
+          "confirmed": 987590,
           "date": "2021-12-12",
-          "deaths": 88960
+          "deaths": 89096
         }
       }
     }
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2164859,
+      "confirmed": 2168646,
       "date": "2021-12-12",
-      "deaths": 21151
+      "deaths": 21171
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 437113,
+      "confirmed": 437887,
       "date": "2021-12-12",
-      "deaths": 5229
+      "deaths": 5234
     }
   },
   "Vietnam": {
