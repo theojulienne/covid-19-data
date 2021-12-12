@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 621844,
+      "confirmed": 622168,
       "date": "2021-12-12",
-      "deaths": 16029
+      "deaths": 16036
     }
   },
   "Honduras": {
@@ -1120,7 +1120,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 216451,
+      "confirmed": 217063,
       "date": "2021-12-12",
       "deaths": 2981
     }
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 312565,
+      "confirmed": 314258,
       "date": "2021-12-12",
       "deaths": 1136
     }
@@ -1173,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 480217,
+      "confirmed": 480573,
       "date": "2021-12-12",
-      "deaths": 7385
+      "deaths": 7386
     }
   },
   "Paraguay": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1588649,
+          "confirmed": 1591815,
           "date": "2021-12-12",
-          "deaths": 40029
+          "deaths": 40032
         }
       },
       "Ohio": {
