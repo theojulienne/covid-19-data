@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 999652,
+      "confirmed": 1002877,
       "date": "2021-12-12",
-      "deaths": 19157
+      "deaths": 19248
     }
   },
   "Guatemala": {
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 618956,
+      "confirmed": 623623,
       "date": "2021-12-12",
       "deaths": 5788
     }
@@ -875,21 +875,21 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169406,
+          "confirmed": 169417,
           "date": "2021-12-12",
           "deaths": 1315
         }
       },
       "Osaka": {
         "live": {
-          "confirmed": 203277,
+          "confirmed": 203283,
           "date": "2021-12-12",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382369,
+          "confirmed": 382382,
           "date": "2021-12-12",
           "deaths": 3170
         }
@@ -898,9 +898,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1006136,
+      "confirmed": 1010033,
       "date": "2021-12-12",
-      "deaths": 11941
+      "deaths": 11982
     }
   },
   "Kazakhstan": {
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 256134,
+      "confirmed": 256335,
       "date": "2021-12-12",
-      "deaths": 5346
+      "deaths": 5348
     }
   },
   "Korea, South": {
@@ -1053,7 +1053,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 951380,
+      "confirmed": 951482,
       "date": "2021-12-12",
       "deaths": 14796
     }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 219100,
+      "confirmed": 219408,
       "date": "2021-12-12",
-      "deaths": 7723
+      "deaths": 7732
     }
   },
   "Norway": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 572188,
+      "confirmed": 572726,
       "date": "2021-12-12",
-      "deaths": 14595
+      "deaths": 14614
     }
   },
   "Sweden": {
