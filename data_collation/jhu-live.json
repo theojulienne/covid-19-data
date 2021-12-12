@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8021334,
+      "confirmed": 8065182,
       "date": "2021-12-12",
-      "deaths": 117918
+      "deaths": 117966
     }
   },
   "Georgia": {
@@ -799,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1349818,
+      "confirmed": 1350150,
       "date": "2021-12-12",
-      "deaths": 8210
+      "deaths": 8216
     }
   },
   "Italy": {
