@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 203524,
+      "confirmed": 203787,
       "date": "2021-12-12",
-      "deaths": 3132
+      "deaths": 3134
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 212652,
+      "confirmed": 212848,
       "date": "2021-12-12",
-      "deaths": 6137
+      "deaths": 6145
     }
   },
   "Argentina": {
@@ -340,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 464227,
+          "confirmed": 465980,
           "date": "2021-12-12",
-          "deaths": 11607
+          "deaths": 11608
         }
       }
     }
@@ -420,7 +420,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963566,
+      "confirmed": 963628,
       "date": "2021-12-12",
       "deaths": 8313
     }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 410087,
+      "confirmed": 410265,
       "date": "2021-12-12",
       "deaths": 4218
     }
@@ -469,7 +469,7 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 373000,
+      "confirmed": 373115,
       "date": "2021-12-12",
       "deaths": 6829
     }
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 688515,
+      "confirmed": 690054,
       "date": "2021-12-12",
-      "deaths": 8836
+      "deaths": 8848
     }
   },
   "Libya": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 369402,
+      "confirmed": 369659,
       "date": "2021-12-12",
-      "deaths": 9354
+      "deaths": 9368
     }
   },
   "Mongolia": {
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 272992,
+      "confirmed": 273362,
       "date": "2021-12-12",
-      "deaths": 789
+      "deaths": 794
     }
   },
   "Slovakia": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3129622,
+      "confirmed": 3167497,
       "date": "2021-12-12",
-      "deaths": 90116
+      "deaths": 90137
     }
   },
   "Spain": {
@@ -1464,7 +1464,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 826257,
+          "confirmed": 828549,
           "date": "2021-12-12",
           "deaths": 13120
         }
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 359854,
+          "confirmed": 361299,
           "date": "2021-12-12",
           "deaths": 4550
         }
