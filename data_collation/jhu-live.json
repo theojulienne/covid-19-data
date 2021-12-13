@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4259143,
+      "confirmed": 4259249,
       "date": "2021-12-13",
-      "deaths": 143936
+      "deaths": 143948
     }
   },
   "Iran": {
@@ -875,7 +875,7 @@
     "subseries": {
       "Kanagawa": {
         "live": {
-          "confirmed": 169417,
+          "confirmed": 169416,
           "date": "2021-12-13",
           "deaths": 1315
         }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3828248,
+      "confirmed": 3839625,
       "date": "2021-12-13",
-      "deaths": 88479
+      "deaths": 88508
     }
   },
   "Portugal": {
@@ -1314,9 +1314,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1286336,
+      "confirmed": 1289252,
       "date": "2021-12-13",
-      "deaths": 15354
+      "deaths": 15415
     }
   },
   "Slovenia": {
