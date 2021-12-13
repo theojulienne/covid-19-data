@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 604480,
+      "confirmed": 604998,
       "date": "2021-12-13",
-      "deaths": 8088
+      "deaths": 8104
     }
   },
   "Bahrain": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463650,
+      "confirmed": 463755,
       "date": "2021-12-13",
-      "deaths": 16500
+      "deaths": 16505
     }
   },
   "Peru": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 550240,
+      "confirmed": 550304,
       "date": "2021-12-13",
-      "deaths": 8853
+      "deaths": 8855
     }
   },
   "Serbia": {
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 742802,
+      "confirmed": 742894,
       "date": "2021-12-13",
       "deaths": 2151
     }
