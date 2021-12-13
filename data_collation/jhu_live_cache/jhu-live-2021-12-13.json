@@ -110,9 +110,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 552586,
+      "confirmed": 553108,
       "date": "2021-12-13",
-      "deaths": 19305
+      "deaths": 19317
     }
   },
   "Bosnia and Herzegovina": {
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 385353,
+      "confirmed": 385447,
       "date": "2021-12-13",
-      "deaths": 2033
+      "deaths": 2036
     }
   },
   "Morocco": {
@@ -1134,7 +1134,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 315802,
+      "confirmed": 317880,
       "date": "2021-12-13",
       "deaths": 1136
     }
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 437887,
+      "confirmed": 438683,
       "date": "2021-12-13",
-      "deaths": 5234
+      "deaths": 5239
     }
   },
   "Vietnam": {
