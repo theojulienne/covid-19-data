@@ -490,9 +490,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 889286,
+      "confirmed": 890813,
       "date": "2021-12-13",
-      "deaths": 12731
+      "deaths": 12777
     }
   },
   "Germany": {
@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 297447,
+          "confirmed": 297448,
           "date": "2021-12-13",
           "deaths": 3924
         }
