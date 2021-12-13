@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1350215,
+      "confirmed": 1350476,
       "date": "2021-12-13",
       "deaths": 8216
     }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 491122,
+      "confirmed": 491953,
       "date": "2021-12-13",
-      "deaths": 6974
+      "deaths": 6989
     }
   },
   "Malaysia": {
