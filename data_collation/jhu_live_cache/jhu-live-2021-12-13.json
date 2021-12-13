@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 203787,
+      "confirmed": 203925,
       "date": "2021-12-13",
-      "deaths": 3134
+      "deaths": 3140
     }
   },
   "Algeria": {
@@ -443,7 +443,7 @@
     "live": {
       "confirmed": 410265,
       "date": "2021-12-13",
-      "deaths": 4218
+      "deaths": 4219
     }
   },
   "Ecuador": {
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1063410,
       "date": "2021-12-13",
-      "deaths": 18005
+      "deaths": 18049
     }
   },
   "Kenya": {
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 988814,
+          "confirmed": 989007,
           "date": "2021-12-13",
-          "deaths": 40222
+          "deaths": 40224
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 199126,
+          "confirmed": 199173,
           "date": "2021-12-13",
-          "deaths": 13162
+          "deaths": 13182
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 380360,
+          "confirmed": 380473,
           "date": "2021-12-13",
-          "deaths": 44503
+          "deaths": 44504
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 207958,
+          "confirmed": 207979,
           "date": "2021-12-13",
-          "deaths": 13657
+          "deaths": 13659
         }
       }
     }
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9042149,
+      "confirmed": 9060945,
       "date": "2021-12-13",
-      "deaths": 79151
+      "deaths": 79322
     }
   },
   "US": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 699372,
+          "confirmed": 706159,
           "date": "2021-12-13",
-          "deaths": 11611
+          "deaths": 11643
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 349093,
+          "confirmed": 350253,
           "date": "2021-12-13",
-          "deaths": 6308
+          "deaths": 6319
         }
       },
       "New York": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 463573,
+      "confirmed": 464341,
       "date": "2021-12-13",
-      "deaths": 4830
+      "deaths": 4844
     }
   },
   "Zambia": {
