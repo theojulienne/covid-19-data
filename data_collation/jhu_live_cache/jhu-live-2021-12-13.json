@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 212848,
+      "confirmed": 213058,
       "date": "2021-12-13",
-      "deaths": 6145
+      "deaths": 6151
     }
   },
   "Argentina": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 638905,
+          "confirmed": 642346,
           "date": "2021-12-13",
-          "deaths": 10122
+          "deaths": 10131
         }
       },
       "Quebec": {
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 410265,
+      "confirmed": 410412,
       "date": "2021-12-13",
       "deaths": 4219
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 373115,
+      "confirmed": 373240,
       "date": "2021-12-13",
-      "deaths": 6829
+      "deaths": 6833
     }
   },
   "Finland": {
@@ -792,14 +792,14 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 623623,
+      "confirmed": 628306,
       "date": "2021-12-13",
       "deaths": 5788
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1350946,
+      "confirmed": 1351015,
       "date": "2021-12-13",
       "deaths": 8223
     }
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 690054,
+      "confirmed": 690841,
       "date": "2021-12-13",
-      "deaths": 8848
+      "deaths": 8860
     }
   },
   "Libya": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 369659,
+      "confirmed": 370003,
       "date": "2021-12-13",
-      "deaths": 9368
+      "deaths": 9393
     }
   },
   "Mongolia": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 951482,
+      "confirmed": 951544,
       "date": "2021-12-13",
-      "deaths": 14796
+      "deaths": 14798
     }
   },
   "Nepal": {
@@ -1402,7 +1402,7 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 573454,
+      "confirmed": 573649,
       "date": "2021-12-13",
       "deaths": 14641
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1135363,
       "date": "2021-12-13",
-      "deaths": 11790
+      "deaths": 11793
     }
   },
   "Thailand": {
@@ -1499,9 +1499,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 421633,
+          "confirmed": 426810,
           "date": "2021-12-13",
-          "deaths": 9028
+          "deaths": 9065
         }
       },
       "Minnesota": {
