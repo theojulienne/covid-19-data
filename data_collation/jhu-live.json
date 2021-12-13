@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 642346,
+          "confirmed": 642513,
           "date": "2021-12-13",
           "deaths": 10131
         }
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463755,
+      "confirmed": 463828,
       "date": "2021-12-13",
-      "deaths": 16505
+      "deaths": 16513
     }
   },
   "Peru": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1601570,
+          "confirmed": 1604086,
           "date": "2021-12-13",
-          "deaths": 40048
+          "deaths": 40055
         }
       },
       "Ohio": {
