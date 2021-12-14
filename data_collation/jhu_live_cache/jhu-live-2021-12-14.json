@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8065182,
+      "confirmed": 8076647,
       "date": "2021-12-14",
-      "deaths": 117966
+      "deaths": 118189
     }
   },
   "Georgia": {
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3839625,
+      "confirmed": 3857085,
       "date": "2021-12-14",
-      "deaths": 88508
+      "deaths": 89045
     }
   },
   "Portugal": {
@@ -1307,9 +1307,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1289252,
+      "confirmed": 1295909,
       "date": "2021-12-14",
-      "deaths": 15415
+      "deaths": 15516
     }
   },
   "Slovenia": {
