@@ -778,9 +778,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6157519,
+      "confirmed": 6160303,
       "date": "2021-12-14",
-      "deaths": 130764
+      "deaths": 130831
     }
   },
   "Iraq": {
@@ -1053,9 +1053,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 824535,
+      "confirmed": 824764,
       "date": "2021-12-14",
-      "deaths": 11557
+      "deaths": 11559
     }
   },
   "Netherlands": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2836803,
+      "confirmed": 2836868,
       "date": "2021-12-14",
-      "deaths": 50341
+      "deaths": 50351
     }
   },
   "Poland": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1793643,
+      "confirmed": 1794589,
       "date": "2021-12-14",
-      "deaths": 57741
+      "deaths": 57847
     }
   },
   "Russia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1135363,
       "date": "2021-12-14",
-      "deaths": 11806
+      "deaths": 11812
     }
   },
   "Thailand": {
@@ -1670,9 +1670,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1428428,
+      "confirmed": 1443648,
       "date": "2021-12-14",
-      "deaths": 28081
+      "deaths": 28333
     }
   },
   "West Bank and Gaza": {
@@ -1684,9 +1684,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 211234,
+      "confirmed": 211705,
       "date": "2021-12-14",
-      "deaths": 3670
+      "deaths": 3671
     }
   },
   "Zimbabwe": {
