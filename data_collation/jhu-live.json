@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 642513,
+          "confirmed": 643325,
           "date": "2021-12-14",
-          "deaths": 10131
+          "deaths": 10136
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 562188,
+      "confirmed": 570502,
       "date": "2021-12-14",
-      "deaths": 3023
+      "deaths": 3030
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1249114,
+          "confirmed": 1249187,
           "date": "2021-12-14",
-          "deaths": 18691
+          "deaths": 18693
         }
       },
       "Berlin": {
@@ -562,9 +562,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 196874,
+          "confirmed": 198651,
           "date": "2021-12-14",
-          "deaths": 3983
+          "deaths": 4001
         }
       },
       "Thuringen": {
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1015289,
+      "confirmed": 1019691,
       "date": "2021-12-14",
-      "deaths": 12024
+      "deaths": 12048
     }
   },
   "Kazakhstan": {
@@ -1404,23 +1404,23 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 175664,
+          "confirmed": 177164,
           "date": "2021-12-14",
-          "deaths": 1816
+          "deaths": 1821
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 294831,
+          "confirmed": 297778,
           "date": "2021-12-14",
           "deaths": 4536
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 211524,
+          "confirmed": 212723,
           "date": "2021-12-14",
-          "deaths": 2471
+          "deaths": 2473
         }
       }
     }
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 828549,
+          "confirmed": 830216,
           "date": "2021-12-14",
-          "deaths": 13127
+          "deaths": 13130
         }
       },
       "California": {
@@ -1527,9 +1527,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 199077,
+          "confirmed": 199369,
           "date": "2021-12-14",
-          "deaths": 4156
+          "deaths": 4158
         }
       },
       "Texas": {
