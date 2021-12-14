@@ -2834,18 +2834,18 @@
     },
     "PRY": {
       "back_1week": {
-        "confirmed": 463260,
-        "deaths": 16476,
+        "confirmed": 463427,
+        "deaths": 16479,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 462605,
-        "deaths": 16367,
+        "confirmed": 463001,
+        "deaths": 16469,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 463650,
-        "deaths": 16500,
+        "confirmed": 463828,
+        "deaths": 16513,
         "recovered": 0
       }
     },
