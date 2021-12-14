@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 643505,
+          "confirmed": 643593,
           "date": "2021-12-14",
           "deaths": 10136
         }
@@ -420,7 +420,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963693,
+      "confirmed": 963751,
       "date": "2021-12-14",
       "deaths": 8313
     }
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8076647,
+      "confirmed": 8136637,
       "date": "2021-12-14",
-      "deaths": 118201
+      "deaths": 118357
     }
   },
   "Georgia": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 935858,
+          "confirmed": 944101,
           "date": "2021-12-14",
-          "deaths": 12337
+          "deaths": 12400
         }
       },
       "Bayern": {
@@ -1046,7 +1046,7 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 951544,
+      "confirmed": 951763,
       "date": "2021-12-14",
       "deaths": 14798
     }
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9060945,
+      "confirmed": 9082422,
       "date": "2021-12-14",
-      "deaths": 79322
+      "deaths": 79503
     }
   },
   "US": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3254795,
+          "confirmed": 3254994,
           "date": "2021-12-14",
-          "deaths": 51462
+          "deaths": 51474
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 706159,
+          "confirmed": 708463,
           "date": "2021-12-14",
-          "deaths": 11643
+          "deaths": 11650
         }
       },
       "Massachusetts": {
@@ -1506,9 +1506,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 350253,
+          "confirmed": 350742,
           "date": "2021-12-14",
-          "deaths": 6319
+          "deaths": 6334
         }
       },
       "New York": {
@@ -1520,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 362638,
+          "confirmed": 364707,
           "date": "2021-12-14",
-          "deaths": 4550
+          "deaths": 4573
         }
       },
       "Pennsylvania": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1721363,
+          "confirmed": 1722739,
           "date": "2021-12-14",
-          "deaths": 25560
+          "deaths": 25578
         }
       },
       "Utah": {
