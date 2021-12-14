@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 203925,
+      "confirmed": 204301,
       "date": "2021-12-14",
-      "deaths": 3140
+      "deaths": 3144
     }
   },
   "Algeria": {
@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 643593,
+          "confirmed": 643602,
           "date": "2021-12-14",
           "deaths": 10136
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 467608,
+          "confirmed": 469355,
           "date": "2021-12-14",
           "deaths": 11618
         }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3180785,
+      "confirmed": 3204642,
       "date": "2021-12-14",
-      "deaths": 90148
+      "deaths": 90172
     }
   },
   "Spain": {
