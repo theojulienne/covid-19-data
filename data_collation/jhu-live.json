@@ -599,9 +599,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1198939,
+      "confirmed": 1202514,
       "date": "2021-12-14",
-      "deaths": 36884
+      "deaths": 37079
     }
   },
   "India": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1351015,
+      "confirmed": 1351329,
       "date": "2021-12-14",
       "deaths": 8223
     }
@@ -1228,58 +1228,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 1987272,
+          "confirmed": 1989248,
           "date": "2021-12-14",
-          "deaths": 35382
+          "deaths": 35471
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 614510,
+          "confirmed": 616455,
           "date": "2021-12-14",
-          "deaths": 11154
+          "deaths": 11206
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 222617,
+          "confirmed": 223188,
           "date": "2021-12-14",
-          "deaths": 9326
+          "deaths": 9354
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 184019,
+          "confirmed": 184660,
           "date": "2021-12-14",
-          "deaths": 9155
+          "deaths": 9184
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 817276,
+          "confirmed": 819265,
           "date": "2021-12-14",
-          "deaths": 26946
+          "deaths": 27008
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 190335,
+          "confirmed": 191013,
           "date": "2021-12-14",
-          "deaths": 5909
+          "deaths": 5932
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 188078,
+          "confirmed": 188719,
           "date": "2021-12-14",
-          "deaths": 8861
+          "deaths": 8892
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 186334,
+          "confirmed": 186887,
           "date": "2021-12-14",
-          "deaths": 6311
+          "deaths": 6349
         }
       }
     }
