@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1232204,
+      "confirmed": 1235063,
       "date": "2021-12-14",
-      "deaths": 13218
+      "deaths": 13282
     }
   },
   "Azerbaijan": {
@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 675734,
+      "confirmed": 676512,
       "date": "2021-12-14",
-      "deaths": 5286
+      "deaths": 5305
     }
   },
   "Belgium": {
@@ -462,9 +462,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 228596,
+      "confirmed": 229214,
       "date": "2021-12-14",
-      "deaths": 1865
+      "deaths": 1868
     }
   },
   "Ethiopia": {
@@ -476,16 +476,16 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 205357,
+      "confirmed": 207033,
       "date": "2021-12-14",
-      "deaths": 1442
+      "deaths": 1444
     }
   },
   "France": {
     "live": {
       "confirmed": 8076647,
       "date": "2021-12-14",
-      "deaths": 118189
+      "deaths": 118201
     }
   },
   "Georgia": {
@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4259249,
+      "confirmed": 4259439,
       "date": "2021-12-14",
-      "deaths": 143948
+      "deaths": 143960
     }
   },
   "Iran": {
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 262215,
+      "confirmed": 263145,
       "date": "2021-12-14",
-      "deaths": 4376
+      "deaths": 4390
     }
   },
   "Lebanon": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 378816,
+      "confirmed": 379328,
       "date": "2021-12-14",
-      "deaths": 5561
+      "deaths": 5569
     }
   },
   "Lithuania": {
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304724,
+      "confirmed": 304741,
       "date": "2021-12-14",
       "deaths": 4113
     }
@@ -1314,9 +1314,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 440633,
+      "confirmed": 442347,
       "date": "2021-12-14",
-      "deaths": 5425
+      "deaths": 5436
     }
   },
   "South Africa": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1135363,
       "date": "2021-12-14",
-      "deaths": 11795
+      "deaths": 11806
     }
   },
   "Thailand": {
