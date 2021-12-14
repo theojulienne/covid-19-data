@@ -66,42 +66,42 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 279265,
+          "confirmed": 283710,
           "date": "2021-12-14",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 224906,
+          "confirmed": 227914,
           "date": "2021-12-14",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 239386,
+          "confirmed": 243399,
           "date": "2021-12-14",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 232721,
+          "confirmed": 236341,
           "date": "2021-12-14",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 212029,
+          "confirmed": 214174,
           "date": "2021-12-14",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 199560,
+          "confirmed": 202698,
           "date": "2021-12-14",
           "deaths": 0
         }
@@ -364,21 +364,21 @@
         "live": {
           "confirmed": 776324,
           "date": "2021-12-14",
-          "deaths": 16707
+          "deaths": 16713
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 340976,
           "date": "2021-12-14",
-          "deaths": 9718
+          "deaths": 9721
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1466860,
           "date": "2021-12-14",
-          "deaths": 27663
+          "deaths": 27665
         }
       },
       "Cundinamarca": {
@@ -392,14 +392,14 @@
         "live": {
           "confirmed": 233159,
           "date": "2021-12-14",
-          "deaths": 7441
+          "deaths": 7445
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 419216,
           "date": "2021-12-14",
-          "deaths": 13234
+          "deaths": 13237
         }
       }
     }
@@ -499,79 +499,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 935833,
+          "confirmed": 935858,
           "date": "2021-12-14",
           "deaths": 12337
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1246313,
+          "confirmed": 1249114,
           "date": "2021-12-14",
-          "deaths": 18585
+          "deaths": 18691
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 297448,
+          "confirmed": 300025,
           "date": "2021-12-14",
-          "deaths": 3924
+          "deaths": 3926
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 210009,
+          "confirmed": 211659,
           "date": "2021-12-14",
-          "deaths": 4327
+          "deaths": 4361
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 445589,
+          "confirmed": 446782,
           "date": "2021-12-14",
-          "deaths": 8320
+          "deaths": 8343
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 404962,
+          "confirmed": 408711,
           "date": "2021-12-14",
-          "deaths": 6560
+          "deaths": 6594
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1274675,
+          "confirmed": 1280545,
           "date": "2021-12-14",
-          "deaths": 19495
+          "deaths": 19577
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 258819,
+          "confirmed": 258845,
           "date": "2021-12-14",
           "deaths": 4420
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 593105,
+          "confirmed": 593331,
           "date": "2021-12-14",
-          "deaths": 11702
+          "deaths": 11716
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 196871,
+          "confirmed": 196874,
           "date": "2021-12-14",
           "deaths": 3983
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 253023,
+          "confirmed": 255156,
           "date": "2021-12-14",
-          "deaths": 5369
+          "deaths": 5401
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1063410,
+      "confirmed": 1063809,
       "date": "2021-12-14",
       "deaths": 18049
     }
@@ -1150,21 +1150,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 180696,
+          "confirmed": 180710,
           "date": "2021-12-14",
-          "deaths": 5892
+          "deaths": 5894
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 443886,
+          "confirmed": 443937,
           "date": "2021-12-14",
           "deaths": 13052
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 478017,
+          "confirmed": 478173,
           "date": "2021-12-14",
           "deaths": 7638
         }
