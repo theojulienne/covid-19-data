@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 338428,
+          "confirmed": 339291,
           "date": "2021-12-13",
-          "deaths": 3272
+          "deaths": 3275
         }
       },
       "British Columbia": {
@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 745799,
+          "confirmed": 747194,
           "date": "2021-12-13",
-          "deaths": 19776
+          "deaths": 19815
         }
       }
     }
@@ -592,9 +592,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 378423,
+      "confirmed": 378615,
       "date": "2021-12-13",
-      "deaths": 10415
+      "deaths": 10423
     }
   },
   "Hungary": {
@@ -1492,9 +1492,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 180554,
+          "confirmed": 182713,
           "date": "2021-12-13",
-          "deaths": 4022
+          "deaths": 4029
         }
       },
       "Michigan": {
