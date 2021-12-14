@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 643384,
+          "confirmed": 643505,
           "date": "2021-12-14",
           "deaths": 10136
         }
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 628306,
+      "confirmed": 632177,
       "date": "2021-12-14",
       "deaths": 5788
     }
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1063809,
       "date": "2021-12-14",
-      "deaths": 18049
+      "deaths": 18064
     }
   },
   "Kenya": {
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 370003,
+      "confirmed": 370459,
       "date": "2021-12-14",
-      "deaths": 9393
+      "deaths": 9414
     }
   },
   "Mongolia": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 219490,
+      "confirmed": 219843,
       "date": "2021-12-14",
-      "deaths": 7740
+      "deaths": 7754
     }
   },
   "Norway": {
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 273701,
+      "confirmed": 274143,
       "date": "2021-12-14",
-      "deaths": 798
+      "deaths": 804
     }
   },
   "Slovakia": {
@@ -1330,74 +1330,74 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 837508,
+          "confirmed": 840727,
           "date": "2021-12-14",
-          "deaths": 11366
+          "deaths": 11373
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 178935,
+          "confirmed": 179642,
           "date": "2021-12-14",
-          "deaths": 4000
+          "deaths": 4004
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 554969,
+          "confirmed": 557131,
           "date": "2021-12-14",
-          "deaths": 7958
+          "deaths": 7974
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 248772,
+          "confirmed": 249373,
           "date": "2021-12-14",
-          "deaths": 6549
+          "deaths": 6553
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 321987,
+          "confirmed": 323572,
           "date": "2021-12-14",
-          "deaths": 7461
+          "deaths": 7466
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 997017,
+          "confirmed": 1004057,
           "date": "2021-12-14",
-          "deaths": 16050
+          "deaths": 16054
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 204736,
+          "confirmed": 205764,
           "date": "2021-12-14",
-          "deaths": 2695
+          "deaths": 2702
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 930517,
+          "confirmed": 933924,
           "date": "2021-12-14",
-          "deaths": 16327
+          "deaths": 16330
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 298032,
+          "confirmed": 300004,
           "date": "2021-12-14",
-          "deaths": 5117
+          "deaths": 5116
         }
       }
     }
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 573649,
+      "confirmed": 576194,
       "date": "2021-12-14",
-      "deaths": 14641
+      "deaths": 14661
     }
   },
   "Sweden": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3252130,
+          "confirmed": 3254795,
           "date": "2021-12-14",
-          "deaths": 51452
+          "deaths": 51462
         }
       },
       "Florida": {
@@ -1499,9 +1499,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 187296,
+          "confirmed": 189196,
           "date": "2021-12-14",
-          "deaths": 2086
+          "deaths": 2094
         }
       },
       "Nevada": {
@@ -1677,9 +1677,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 464341,
+      "confirmed": 464751,
       "date": "2021-12-14",
-      "deaths": 4844
+      "deaths": 4846
     }
   },
   "Zambia": {
