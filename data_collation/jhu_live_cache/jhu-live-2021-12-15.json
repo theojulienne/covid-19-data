@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 278149,
+      "confirmed": 278202,
       "date": "2021-12-15",
       "deaths": 1394
     }
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 645927,
+          "confirmed": 646075,
           "date": "2021-12-15",
           "deaths": 10145
         }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 692315,
+      "confirmed": 694256,
       "date": "2021-12-15",
-      "deaths": 8873
+      "deaths": 8886
     }
   },
   "Libya": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 463926,
+      "confirmed": 464004,
       "date": "2021-12-15",
-      "deaths": 16516
+      "deaths": 16517
     }
   },
   "Peru": {
