@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 605920,
+      "confirmed": 607076,
       "date": "2021-12-15",
-      "deaths": 8123
+      "deaths": 8137
     }
   },
   "Bahrain": {
@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1580005,
+      "confirmed": 1580302,
       "date": "2021-12-15",
-      "deaths": 28034
+      "deaths": 28038
     }
   },
   "Belarus": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2836868,
+      "confirmed": 2836915,
       "date": "2021-12-15",
-      "deaths": 50351
+      "deaths": 50449
     }
   },
   "Poland": {
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 550369,
+      "confirmed": 550457,
       "date": "2021-12-15",
-      "deaths": 8856
+      "deaths": 8857
     }
   },
   "Serbia": {
@@ -1427,9 +1427,9 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1143534,
+      "confirmed": 1154701,
       "date": "2021-12-15",
-      "deaths": 11836
+      "deaths": 11837
     }
   },
   "Thailand": {
