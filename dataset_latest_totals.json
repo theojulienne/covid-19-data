@@ -636,7 +636,7 @@
         },
         "Quebec": {
           "confirmed": 467608,
-          "deaths": 11611
+          "deaths": 11618
         },
         "Repatriated Travellers": {
           "confirmed": 13,
@@ -1598,18 +1598,18 @@
     },
     "GRC": {
       "back_1week": {
-        "confirmed": 971148,
-        "deaths": 18716,
+        "confirmed": 978402,
+        "deaths": 18815,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 931183,
-        "deaths": 18067,
+        "confirmed": 938903,
+        "deaths": 18157,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1006706,
-        "deaths": 19345,
+        "confirmed": 1012659,
+        "deaths": 19475,
         "recovered": 0
       }
     },
@@ -1837,17 +1837,17 @@
     "ISR": {
       "back_1week": {
         "confirmed": 1347474,
-        "deaths": 8209,
+        "deaths": 8210,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1343660,
-        "deaths": 8195,
+        "deaths": 8196,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1351776,
-        "deaths": 8223,
+        "deaths": 8224,
         "recovered": 0
       }
     },
