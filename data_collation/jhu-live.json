@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 339291,
+          "confirmed": 339541,
           "date": "2021-12-15",
-          "deaths": 3275
+          "deaths": 3283
         }
       },
       "British Columbia": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 528652,
+      "confirmed": 536495,
       "date": "2021-12-15",
-      "deaths": 4387
+      "deaths": 4456
     }
   },
   "Kuwait": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3254994,
+          "confirmed": 3256133,
           "date": "2021-12-15",
-          "deaths": 51474
+          "deaths": 51485
         }
       },
       "Florida": {
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 177187,
+          "confirmed": 177441,
           "date": "2021-12-15",
-          "deaths": 2114
+          "deaths": 2116
         }
       }
     }
