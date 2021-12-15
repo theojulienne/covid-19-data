@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 747453,
+          "confirmed": 747712,
           "date": "2021-12-15",
-          "deaths": 19822
+          "deaths": 19826
         }
       }
     }
@@ -875,14 +875,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203300,
+          "confirmed": 203317,
           "date": "2021-12-15",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382413,
+          "confirmed": 382442,
           "date": "2021-12-15",
           "deaths": 3172
         }
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1019691,
+      "confirmed": 1024032,
       "date": "2021-12-15",
-      "deaths": 12048
+      "deaths": 12078
     }
   },
   "Kazakhstan": {
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 238309,
+          "confirmed": 238712,
           "date": "2021-12-15",
-          "deaths": 3812
+          "deaths": 3815
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 237535,
+          "confirmed": 237759,
           "date": "2021-12-15",
           "deaths": 2750
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251807,
+          "confirmed": 251857,
           "date": "2021-12-15",
           "deaths": 1613
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 771180,
+          "confirmed": 772314,
           "date": "2021-12-15",
-          "deaths": 9867
+          "deaths": 9872
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 207070,
+          "confirmed": 207395,
           "date": "2021-12-15",
-          "deaths": 2639
+          "deaths": 2643
         }
       }
     }
