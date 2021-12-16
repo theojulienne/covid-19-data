@@ -1053,9 +1053,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 825016,
+      "confirmed": 825176,
       "date": "2021-12-16",
-      "deaths": 11565
+      "deaths": 11567
     }
   },
   "Netherlands": {
@@ -1219,9 +1219,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1795418,
+      "confirmed": 1796230,
       "date": "2021-12-16",
-      "deaths": 57935
+      "deaths": 58019
     }
   },
   "Russia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1154701,
       "date": "2021-12-16",
-      "deaths": 11861
+      "deaths": 11869
     }
   },
   "Thailand": {
