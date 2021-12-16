@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5366522,
+      "confirmed": 5371341,
       "date": "2021-12-15",
-      "deaths": 116826
+      "deaths": 116857
     }
   },
   "Armenia": {
@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 339541,
+          "confirmed": 339997,
           "date": "2021-12-15",
-          "deaths": 3283
+          "deaths": 3286
         }
       },
       "British Columbia": {
@@ -448,9 +448,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 533457,
+      "confirmed": 534176,
       "date": "2021-12-15",
-      "deaths": 33561
+      "deaths": 33570
     }
   },
   "Egypt": {
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 218596,
+      "confirmed": 220020,
       "date": "2021-12-15",
       "deaths": 2983
     }
@@ -1441,25 +1441,25 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 719903,
+      "confirmed": 720143,
       "date": "2021-12-15",
-      "deaths": 25443
+      "deaths": 25445
     }
   },
   "Turkey": {
     "live": {
-      "confirmed": 9082422,
+      "confirmed": 9102294,
       "date": "2021-12-15",
-      "deaths": 79503
+      "deaths": 79696
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 831365,
+          "confirmed": 833090,
           "date": "2021-12-15",
-          "deaths": 13222
+          "deaths": 13251
         }
       },
       "California": {
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 183387,
+          "confirmed": 184434,
           "date": "2021-12-15",
-          "deaths": 4037
+          "deaths": 4042
         }
       },
       "Michigan": {
@@ -1513,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1611945,
+          "confirmed": 1615844,
           "date": "2021-12-15",
-          "deaths": 40104
+          "deaths": 40112
         }
       },
       "Ohio": {
@@ -1684,7 +1684,7 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 211705,
+      "confirmed": 212278,
       "date": "2021-12-15",
       "deaths": 3671
     }
