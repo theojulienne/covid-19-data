@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4259644,
+      "confirmed": 4259857,
       "date": "2021-12-16",
-      "deaths": 143969
+      "deaths": 143979
     }
   },
   "Iran": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1154701,
       "date": "2021-12-16",
-      "deaths": 11859
+      "deaths": 11861
     }
   },
   "Thailand": {

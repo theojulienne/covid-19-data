@@ -1734,18 +1734,18 @@
     },
     "IDN": {
       "back_1week": {
-        "confirmed": 4258076,
-        "deaths": 143893,
+        "confirmed": 4258340,
+        "deaths": 143909,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 4256409,
-        "deaths": 143830,
+        "confirmed": 4256687,
+        "deaths": 143840,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 4259439,
-        "deaths": 143960,
+        "confirmed": 4259644,
+        "deaths": 143969,
         "recovered": 0
       }
     },
