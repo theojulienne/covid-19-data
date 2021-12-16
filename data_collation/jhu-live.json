@@ -364,7 +364,7 @@
         "live": {
           "confirmed": 777131,
           "date": "2021-12-16",
-          "deaths": 16719
+          "deaths": 16734
         }
       },
       "Atlantico": {
@@ -378,37 +378,37 @@
         "live": {
           "confirmed": 1467458,
           "date": "2021-12-16",
-          "deaths": 27670
+          "deaths": 27671
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 266832,
           "date": "2021-12-16",
-          "deaths": 6849
+          "deaths": 6851
         }
       },
       "Santander": {
         "live": {
           "confirmed": 233392,
           "date": "2021-12-16",
-          "deaths": 7451
+          "deaths": 7455
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 419644,
           "date": "2021-12-16",
-          "deaths": 13241
+          "deaths": 13244
         }
       }
     }
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 568305,
+      "confirmed": 568373,
       "date": "2021-12-16",
-      "deaths": 7333
+      "deaths": 7336
     }
   },
   "Croatia": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3258052,
+          "confirmed": 3259873,
           "date": "2021-12-16",
-          "deaths": 51517
+          "deaths": 51534
         }
       },
       "Florida": {
