@@ -1717,18 +1717,18 @@ var covid19_dataset_latest_totals = {
     },
     "HUN": {
       "back_1week": {
-        "confirmed": 1161879,
-        "deaths": 35835,
+        "confirmed": 1168728,
+        "deaths": 36048,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1103108,
-        "deaths": 34521,
+        "confirmed": 1114260,
+        "deaths": 34713,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1202514,
-        "deaths": 37079,
+        "confirmed": 1208020,
+        "deaths": 37232,
         "recovered": 0
       }
     },
