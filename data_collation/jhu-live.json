@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 678277,
+      "confirmed": 679873,
       "date": "2021-12-16",
-      "deaths": 5322
+      "deaths": 5338
     }
   },
   "Belgium": {
@@ -117,9 +117,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 283109,
+      "confirmed": 283784,
       "date": "2021-12-16",
-      "deaths": 13064
+      "deaths": 13091
     }
   },
   "Botswana": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 646075,
+          "confirmed": 647446,
           "date": "2021-12-16",
-          "deaths": 10145
+          "deaths": 10154
         }
       },
       "Quebec": {
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 579275,
+      "confirmed": 589274,
       "date": "2021-12-16",
-      "deaths": 3039
+      "deaths": 3051
     }
   },
   "Dominican Republic": {
@@ -506,9 +506,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1263982,
+          "confirmed": 1264081,
           "date": "2021-12-16",
-          "deaths": 18851
+          "deaths": 18858
         }
       },
       "Berlin": {
@@ -562,9 +562,9 @@
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 202583,
+          "confirmed": 205961,
           "date": "2021-12-16",
-          "deaths": 4027
+          "deaths": 4064
         }
       },
       "Thuringen": {
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2089259,
+      "confirmed": 2089669,
       "date": "2021-12-16",
-      "deaths": 24017
+      "deaths": 24030
     }
   },
   "Ireland": {
@@ -905,7 +905,7 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 257614,
+      "confirmed": 258557,
       "date": "2021-12-16",
       "deaths": 5350
     }
@@ -1314,7 +1314,7 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 445218,
+      "confirmed": 445228,
       "date": "2021-12-16",
       "deaths": 5452
     }
@@ -1404,21 +1404,21 @@
     "subseries": {
       "Skane": {
         "live": {
-          "confirmed": 177904,
+          "confirmed": 178638,
           "date": "2021-12-16",
           "deaths": 1821
         }
       },
       "Stockholm": {
         "live": {
-          "confirmed": 298828,
+          "confirmed": 299965,
           "date": "2021-12-16",
           "deaths": 4542
         }
       },
       "Vastra Gotaland": {
         "live": {
-          "confirmed": 212972,
+          "confirmed": 213607,
           "date": "2021-12-16",
           "deaths": 2474
         }
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1165778,
       "date": "2021-12-16",
-      "deaths": 11870
+      "deaths": 11872
     }
   },
   "Thailand": {
@@ -1684,9 +1684,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 212278,
+      "confirmed": 213139,
       "date": "2021-12-16",
-      "deaths": 3671
+      "deaths": 3673
     }
   },
   "Zimbabwe": {
