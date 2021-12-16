@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 647717,
+          "confirmed": 647738,
           "date": "2021-12-16",
           "deaths": 10154
         }
@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 747712,
+          "confirmed": 748059,
           "date": "2021-12-16",
-          "deaths": 19826
+          "deaths": 19834
         }
       }
     }
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8202064,
+      "confirmed": 8262620,
       "date": "2021-12-16",
-      "deaths": 118504
+      "deaths": 118676
     }
   },
   "Georgia": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 952669,
+          "confirmed": 959786,
           "date": "2021-12-16",
-          "deaths": 12447
+          "deaths": 12497
         }
       },
       "Bayern": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 622866,
+      "confirmed": 623195,
       "date": "2021-12-16",
-      "deaths": 16057
+      "deaths": 16061
     }
   },
   "Honduras": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3261791,
+          "confirmed": 3262404,
           "date": "2021-12-16",
-          "deaths": 51547
+          "deaths": 51554
         }
       },
       "Florida": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 711936,
+          "confirmed": 716675,
           "date": "2021-12-16",
-          "deaths": 11692
+          "deaths": 11702
         }
       },
       "Massachusetts": {
@@ -1506,9 +1506,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 351241,
+          "confirmed": 351903,
           "date": "2021-12-16",
-          "deaths": 6346
+          "deaths": 6358
         }
       },
       "New York": {
