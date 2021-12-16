@@ -22,16 +22,16 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 342977,
+      "confirmed": 343157,
       "date": "2021-12-16",
-      "deaths": 7856
+      "deaths": 7874
     }
   },
   "Austria": {
     "live": {
-      "confirmed": 1239287,
+      "confirmed": 1242333,
       "date": "2021-12-16",
-      "deaths": 13333
+      "deaths": 13386
     }
   },
   "Azerbaijan": {
@@ -462,7 +462,7 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 229869,
+      "confirmed": 230514,
       "date": "2021-12-16",
       "deaths": 1869
     }
@@ -875,7 +875,7 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203317,
+          "confirmed": 203316,
           "date": "2021-12-16",
           "deaths": 3064
         }
@@ -933,9 +933,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 264031,
+      "confirmed": 264965,
       "date": "2021-12-16",
-      "deaths": 4408
+      "deaths": 4419
     }
   },
   "Lebanon": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 379816,
+      "confirmed": 380464,
       "date": "2021-12-16",
-      "deaths": 5576
+      "deaths": 5583
     }
   },
   "Lithuania": {
@@ -1134,7 +1134,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304761,
+      "confirmed": 304783,
       "date": "2021-12-16",
       "deaths": 4113
     }
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3881349,
+      "confirmed": 3903445,
       "date": "2021-12-16",
-      "deaths": 89714
+      "deaths": 90306
     }
   },
   "Portugal": {
@@ -1307,16 +1307,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1302459,
+      "confirmed": 1310588,
       "date": "2021-12-16",
-      "deaths": 15621
+      "deaths": 15730
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 443873,
+      "confirmed": 445218,
       "date": "2021-12-16",
-      "deaths": 5444
+      "deaths": 5452
     }
   },
   "South Africa": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1154701,
       "date": "2021-12-16",
-      "deaths": 11854
+      "deaths": 11859
     }
   },
   "Thailand": {
