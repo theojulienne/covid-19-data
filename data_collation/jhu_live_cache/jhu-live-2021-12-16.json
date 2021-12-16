@@ -340,7 +340,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 471741,
+          "confirmed": 474477,
           "date": "2021-12-16",
           "deaths": 11627
         }
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 238712,
+          "confirmed": 239183,
           "date": "2021-12-16",
-          "deaths": 3815
+          "deaths": 3819
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 237759,
+          "confirmed": 237954,
           "date": "2021-12-16",
-          "deaths": 2750
+          "deaths": 2752
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251857,
+          "confirmed": 251902,
           "date": "2021-12-16",
           "deaths": 1613
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 772314,
+          "confirmed": 773702,
           "date": "2021-12-16",
-          "deaths": 9872
+          "deaths": 9875
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 207395,
+          "confirmed": 207695,
           "date": "2021-12-16",
-          "deaths": 2643
+          "deaths": 2645
         }
       }
     }
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3231031,
+      "confirmed": 3255816,
       "date": "2021-12-16",
-      "deaths": 90226
+      "deaths": 90262
     }
   },
   "Spain": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3262404,
+          "confirmed": 3262720,
           "date": "2021-12-16",
-          "deaths": 51554
+          "deaths": 51561
         }
       },
       "Florida": {
