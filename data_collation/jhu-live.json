@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 213533,
+      "confirmed": 213745,
       "date": "2021-12-16",
-      "deaths": 6165
+      "deaths": 6171
     }
   },
   "Argentina": {
@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 278202,
+      "confirmed": 278257,
       "date": "2021-12-16",
       "deaths": 1394
     }
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 648473,
+          "confirmed": 648644,
           "date": "2021-12-16",
           "deaths": 10154
         }
@@ -420,7 +420,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 963813,
+      "confirmed": 963885,
       "date": "2021-12-16",
       "deaths": 8313
     }
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 410926,
+      "confirmed": 411014,
       "date": "2021-12-16",
       "deaths": 4220
     }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 373860,
+      "confirmed": 374402,
       "date": "2021-12-16",
-      "deaths": 6846
+      "deaths": 6855
     }
   },
   "Finland": {
@@ -792,14 +792,14 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 636407,
+      "confirmed": 640548,
       "date": "2021-12-16",
       "deaths": 5835
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1353210,
+      "confirmed": 1353281,
       "date": "2021-12-16",
       "deaths": 8230
     }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 694256,
+      "confirmed": 696168,
       "date": "2021-12-16",
-      "deaths": 8886
+      "deaths": 8900
     }
   },
   "Libya": {
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 370951,
+      "confirmed": 371410,
       "date": "2021-12-16",
-      "deaths": 9434
+      "deaths": 9450
     }
   },
   "Mongolia": {
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 951984,
+      "confirmed": 952189,
       "date": "2021-12-16",
-      "deaths": 14798
+      "deaths": 14802
     }
   },
   "Nepal": {
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1620919,
+          "confirmed": 1626746,
           "date": "2021-12-16",
           "deaths": 40121
         }
@@ -1670,9 +1670,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1459175,
+      "confirmed": 1493237,
       "date": "2021-12-16",
-      "deaths": 28616
+      "deaths": 28857
     }
   },
   "West Bank and Gaza": {
