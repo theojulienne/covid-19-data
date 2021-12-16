@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 647738,
+          "confirmed": 648473,
           "date": "2021-12-16",
           "deaths": 10154
         }
@@ -1515,12 +1515,12 @@
         "live": {
           "confirmed": 1620919,
           "date": "2021-12-16",
-          "deaths": 40115
+          "deaths": 40121
         }
       },
       "Ohio": {
         "live": {
-          "confirmed": 367717,
+          "confirmed": 371153,
           "date": "2021-12-16",
           "deaths": 4573
         }
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 217953,
+          "confirmed": 218361,
           "date": "2021-12-16",
-          "deaths": 1288
+          "deaths": 1289
         }
       },
       "Washington": {
