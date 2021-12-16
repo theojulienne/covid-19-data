@@ -36,18 +36,18 @@
     },
     "ALB": {
       "back_1week": {
-        "confirmed": 202295,
-        "deaths": 3122,
+        "confirmed": 202641,
+        "deaths": 3126,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 199945,
-        "deaths": 3096,
+        "confirmed": 200173,
+        "deaths": 3101,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 204301,
-        "deaths": 3144,
+        "confirmed": 204627,
+        "deaths": 3152,
         "recovered": 0
       }
     },
@@ -1922,17 +1922,17 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 1060125,
-        "deaths": 17958,
+        "deaths": 17972,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1054972,
-        "deaths": 17845,
+        "deaths": 17856,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1064365,
-        "deaths": 18064,
+        "deaths": 18078,
         "recovered": 0
       }
     },
