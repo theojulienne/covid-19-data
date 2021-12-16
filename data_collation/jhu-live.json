@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 304384,
+          "confirmed": 304386,
           "date": "2021-12-16",
           "deaths": 3938
         }
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1352403,
+      "confirmed": 1352778,
       "date": "2021-12-16",
       "deaths": 8227
     }
@@ -954,9 +954,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 495686,
+      "confirmed": 497643,
       "date": "2021-12-16",
-      "deaths": 7039
+      "deaths": 7059
     }
   },
   "Malaysia": {
@@ -1559,51 +1559,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 239018,
+          "confirmed": 239404,
           "date": "2021-12-16",
-          "deaths": 8495
+          "deaths": 8536
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 240025,
+          "confirmed": 240339,
           "date": "2021-12-16",
-          "deaths": 6081
+          "deaths": 6106
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 316018,
+          "confirmed": 317496,
           "date": "2021-12-16",
-          "deaths": 7925
+          "deaths": 7953
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 180842,
+          "confirmed": 181239,
           "date": "2021-12-16",
-          "deaths": 4468
+          "deaths": 4493
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 215646,
+          "confirmed": 216131,
           "date": "2021-12-16",
-          "deaths": 5782
+          "deaths": 5799
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 235779,
+          "confirmed": 236179,
           "date": "2021-12-16",
-          "deaths": 5419
+          "deaths": 5430
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 178081,
+          "confirmed": 178610,
           "date": "2021-12-16",
-          "deaths": 4959
+          "deaths": 4978
         }
       }
     }
