@@ -1280,18 +1280,18 @@
     },
     "FIN": {
       "back_1week": {
-        "confirmed": 197476,
-        "deaths": 1395,
+        "confirmed": 199257,
+        "deaths": 1406,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 188108,
-        "deaths": 1348,
+        "confirmed": 189730,
+        "deaths": 1356,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 209258,
-        "deaths": 1446,
+        "confirmed": 211239,
+        "deaths": 1450,
         "recovered": 0
       }
     },
