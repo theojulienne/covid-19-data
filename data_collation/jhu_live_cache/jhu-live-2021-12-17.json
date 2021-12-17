@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 380464,
+      "confirmed": 381023,
       "date": "2021-12-17",
-      "deaths": 5583
+      "deaths": 5589
     }
   },
   "Lithuania": {
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3903445,
+      "confirmed": 3923472,
       "date": "2021-12-17",
-      "deaths": 90306
+      "deaths": 90872
     }
   },
   "Portugal": {
@@ -1307,9 +1307,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1310588,
+      "confirmed": 1316172,
       "date": "2021-12-17",
-      "deaths": 15730
+      "deaths": 15843
     }
   },
   "Slovenia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1165778,
       "date": "2021-12-17",
-      "deaths": 11884
+      "deaths": 11887
     }
   },
   "Thailand": {
