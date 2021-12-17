@@ -513,7 +513,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 306775,
+          "confirmed": 306777,
           "date": "2021-12-17",
           "deaths": 3944
         }
@@ -898,7 +898,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1065538,
+      "confirmed": 1065597,
       "date": "2021-12-17",
       "deaths": 18088
     }
@@ -1002,30 +1002,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 990026,
+          "confirmed": 990416,
           "date": "2021-12-17",
-          "deaths": 40252
+          "deaths": 40256
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 199804,
+          "confirmed": 200065,
           "date": "2021-12-17",
-          "deaths": 13229
+          "deaths": 13254
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 380842,
+          "confirmed": 380976,
           "date": "2021-12-17",
-          "deaths": 44558
+          "deaths": 44578
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 208171,
+          "confirmed": 208249,
           "date": "2021-12-17",
-          "deaths": 13665
+          "deaths": 13670
         }
       }
     }
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9102294,
+      "confirmed": 9120394,
       "date": "2021-12-17",
-      "deaths": 79696
+      "deaths": 79863
     }
   },
   "US": {
