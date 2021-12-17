@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 748059,
+          "confirmed": 748422,
           "date": "2021-12-17",
-          "deaths": 19834
+          "deaths": 19845
         }
       }
     }
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1022141,
+      "confirmed": 1026902,
       "date": "2021-12-17",
-      "deaths": 19651
+      "deaths": 19736
     }
   },
   "Guatemala": {
@@ -875,14 +875,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203330,
+          "confirmed": 203345,
           "date": "2021-12-17",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382472,
+          "confirmed": 382492,
           "date": "2021-12-17",
           "deaths": 3172
         }
@@ -891,9 +891,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1027844,
+      "confirmed": 1031549,
       "date": "2021-12-17",
-      "deaths": 12118
+      "deaths": 12151
     }
   },
   "Kazakhstan": {
@@ -963,35 +963,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 239183,
+          "confirmed": 239582,
           "date": "2021-12-17",
-          "deaths": 3819
+          "deaths": 3820
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 237954,
+          "confirmed": 238120,
           "date": "2021-12-17",
-          "deaths": 2752
+          "deaths": 2754
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251902,
+          "confirmed": 251926,
           "date": "2021-12-17",
           "deaths": 1613
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 773702,
+          "confirmed": 775143,
           "date": "2021-12-17",
-          "deaths": 9875
+          "deaths": 9878
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 207695,
+          "confirmed": 207993,
           "date": "2021-12-17",
           "deaths": 2645
         }
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 274972,
+      "confirmed": 275384,
       "date": "2021-12-17",
-      "deaths": 808
+      "deaths": 809
     }
   },
   "Slovakia": {
