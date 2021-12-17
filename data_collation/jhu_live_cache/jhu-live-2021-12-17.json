@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 651123,
+          "confirmed": 651934,
           "date": "2021-12-17",
-          "deaths": 10160
+          "deaths": 10161
         }
       },
       "Quebec": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 374402,
+      "confirmed": 375019,
       "date": "2021-12-17",
-      "deaths": 6855
+      "deaths": 6859
     }
   },
   "Finland": {
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 696168,
+      "confirmed": 697774,
       "date": "2021-12-17",
-      "deaths": 8900
+      "deaths": 8912
     }
   },
   "Libya": {
@@ -1515,7 +1515,7 @@
         "live": {
           "confirmed": 1626746,
           "date": "2021-12-17",
-          "deaths": 40121
+          "deaths": 40126
         }
       },
       "Ohio": {
