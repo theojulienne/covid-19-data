@@ -50,16 +50,16 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1580559,
+      "confirmed": 1580750,
       "date": "2021-12-17",
-      "deaths": 28041
+      "deaths": 28043
     }
   },
   "Belarus": {
     "live": {
-      "confirmed": 679873,
+      "confirmed": 681517,
       "date": "2021-12-17",
-      "deaths": 5338
+      "deaths": 5355
     }
   },
   "Belgium": {
@@ -413,9 +413,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 666162,
+      "confirmed": 669940,
       "date": "2021-12-17",
-      "deaths": 11825
+      "deaths": 11879
     }
   },
   "Cuba": {
@@ -771,9 +771,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4259857,
+      "confirmed": 4260148,
       "date": "2021-12-17",
-      "deaths": 143979
+      "deaths": 143986
     }
   },
   "Iran": {
@@ -1053,9 +1053,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 825176,
+      "confirmed": 825445,
       "date": "2021-12-17",
-      "deaths": 11567
+      "deaths": 11570
     }
   },
   "Netherlands": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 464004,
+      "confirmed": 464096,
       "date": "2021-12-17",
-      "deaths": 16517
+      "deaths": 16523
     }
   },
   "Peru": {
@@ -1212,16 +1212,16 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 246024,
+      "confirmed": 246188,
       "date": "2021-12-17",
       "deaths": 614
     }
   },
   "Romania": {
     "live": {
-      "confirmed": 1796230,
+      "confirmed": 1796973,
       "date": "2021-12-17",
-      "deaths": 58019
+      "deaths": 58079
     }
   },
   "Russia": {
@@ -1314,9 +1314,9 @@
   },
   "Slovenia": {
     "live": {
-      "confirmed": 445228,
+      "confirmed": 446506,
       "date": "2021-12-17",
-      "deaths": 5452
+      "deaths": 5464
     }
   },
   "South Africa": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1165778,
       "date": "2021-12-17",
-      "deaths": 11887
+      "deaths": 11898
     }
   },
   "Thailand": {
@@ -1670,9 +1670,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1493237,
+      "confirmed": 1508473,
       "date": "2021-12-17",
-      "deaths": 28857
+      "deaths": 29103
     }
   },
   "West Bank and Gaza": {
@@ -1684,9 +1684,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 213139,
+      "confirmed": 214433,
       "date": "2021-12-17",
-      "deaths": 3673
+      "deaths": 3674
     }
   },
   "Zimbabwe": {
