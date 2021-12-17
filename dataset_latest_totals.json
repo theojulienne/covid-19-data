@@ -401,18 +401,18 @@
     },
     "BIH": {
       "back_1week": {
-        "confirmed": 279820,
-        "deaths": 12854,
+        "confirmed": 280469,
+        "deaths": 12882,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 275965,
-        "deaths": 12628,
+        "confirmed": 276548,
+        "deaths": 12658,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 283109,
-        "deaths": 13064,
+        "confirmed": 283784,
+        "deaths": 13091,
         "recovered": 0
       }
     },
@@ -571,18 +571,18 @@
     },
     "CAN": {
       "back_1week": {
-        "confirmed": 1827339,
-        "deaths": 29905,
+        "confirmed": 1831341,
+        "deaths": 29930,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1804094,
-        "deaths": 29767,
+        "confirmed": 1807312,
+        "deaths": 29790,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1860210,
-        "deaths": 30047,
+        "confirmed": 1867545,
+        "deaths": 30065,
         "recovered": 0
       },
       "states": {
@@ -627,8 +627,8 @@
           "deaths": 4
         },
         "Ontario": {
-          "confirmed": 646075,
-          "deaths": 10145
+          "confirmed": 648899,
+          "deaths": 10154
         },
         "Prince Edward Island": {
           "confirmed": 420,
@@ -1115,18 +1115,18 @@
     },
     "DNK": {
       "back_1week": {
-        "confirmed": 529210,
-        "deaths": 2972,
+        "confirmed": 536195,
+        "deaths": 2983,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 492521,
-        "deaths": 2909,
+        "confirmed": 497201,
+        "deaths": 2912,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 579275,
-        "deaths": 3039,
+        "confirmed": 589274,
+        "deaths": 3051,
         "recovered": 0
       },
       "states": {
@@ -1785,35 +1785,35 @@
     },
     "IRN": {
       "back_1week": {
-        "confirmed": 6144644,
-        "deaths": 130446,
+        "confirmed": 6147872,
+        "deaths": 130524,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 6121757,
-        "deaths": 129912,
+        "confirmed": 6125596,
+        "deaths": 129988,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 6162954,
-        "deaths": 130883,
+        "confirmed": 6165454,
+        "deaths": 130946,
         "recovered": 0
       }
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 2086192,
-        "deaths": 23931,
+        "confirmed": 2086702,
+        "deaths": 23943,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2082061,
-        "deaths": 23844,
+        "confirmed": 2082774,
+        "deaths": 23859,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2089259,
-        "deaths": 24017,
+        "confirmed": 2089669,
+        "deaths": 24030,
         "recovered": 0
       }
     },
@@ -1938,17 +1938,17 @@
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 255652,
-        "deaths": 5337,
+        "confirmed": 255796,
+        "deaths": 5339,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 255164,
+        "confirmed": 255260,
         "deaths": 5335,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 257614,
+        "confirmed": 258557,
         "deaths": 5350,
         "recovered": 0
       }
@@ -2749,18 +2749,18 @@
     },
     "PHL": {
       "back_1week": {
-        "confirmed": 2835593,
-        "deaths": 49761,
+        "confirmed": 2835996,
+        "deaths": 49936,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2833038,
-        "deaths": 48712,
+        "confirmed": 2833473,
+        "deaths": 48752,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2836915,
-        "deaths": 50449,
+        "confirmed": 2837016,
+        "deaths": 50496,
         "recovered": 0
       }
     },
