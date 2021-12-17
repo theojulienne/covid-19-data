@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 204928,
+      "confirmed": 205224,
       "date": "2021-12-17",
-      "deaths": 3156
+      "deaths": 3158
     }
   },
   "Algeria": {
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 651934,
+          "confirmed": 652219,
           "date": "2021-12-17",
           "deaths": 10161
         }
