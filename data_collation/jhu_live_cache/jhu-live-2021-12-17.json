@@ -340,7 +340,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 474477,
+          "confirmed": 478245,
           "date": "2021-12-17",
           "deaths": 11634
         }
@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8262620,
+      "confirmed": 8320607,
       "date": "2021-12-17",
-      "deaths": 118676
+      "deaths": 118836
     }
   },
   "Georgia": {
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 218361,
+          "confirmed": 218701,
           "date": "2021-12-17",
-          "deaths": 1289
+          "deaths": 1292
         }
       },
       "Washington": {
