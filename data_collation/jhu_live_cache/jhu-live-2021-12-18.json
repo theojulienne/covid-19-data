@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 214044,
+      "confirmed": 214330,
       "date": "2021-12-18",
-      "deaths": 6175
+      "deaths": 6180
     }
   },
   "Argentina": {
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1354677,
+      "confirmed": 1354697,
       "date": "2021-12-18",
       "deaths": 8232
     }
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413972,
+      "confirmed": 414023,
       "date": "2021-12-18",
       "deaths": 2466
     }
