@@ -8,16 +8,16 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 213745,
+      "confirmed": 214044,
       "date": "2021-12-18",
-      "deaths": 6171
+      "deaths": 6175
     }
   },
   "Argentina": {
     "live": {
-      "confirmed": 5376642,
+      "confirmed": 5382290,
       "date": "2021-12-18",
-      "deaths": 116874
+      "deaths": 116892
     }
   },
   "Armenia": {
@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 278257,
+      "confirmed": 278309,
       "date": "2021-12-18",
       "deaths": 1394
     }
@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 721819,
+      "confirmed": 723433,
       "date": "2021-12-18",
-      "deaths": 29933
+      "deaths": 30014
     }
   },
   "Burma": {
@@ -406,9 +406,9 @@
   },
   "Costa Rica": {
     "live": {
-      "confirmed": 568428,
+      "confirmed": 568538,
       "date": "2021-12-18",
-      "deaths": 7336
+      "deaths": 7340
     }
   },
   "Croatia": {
@@ -448,16 +448,16 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 535414,
+      "confirmed": 536129,
       "date": "2021-12-18",
-      "deaths": 33586
+      "deaths": 33593
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 372599,
+      "confirmed": 373509,
       "date": "2021-12-18",
-      "deaths": 21234
+      "deaths": 21277
     }
   },
   "Estonia": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 413891,
+      "confirmed": 413972,
       "date": "2021-12-18",
       "deaths": 2466
     }
@@ -1113,9 +1113,9 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 221071,
+      "confirmed": 222655,
       "date": "2021-12-18",
-      "deaths": 2983
+      "deaths": 2984
     }
   },
   "North Macedonia": {
@@ -1127,9 +1127,9 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 339008,
+      "confirmed": 343697,
       "date": "2021-12-18",
-      "deaths": 1202
+      "deaths": 1204
     }
   },
   "Oman": {
@@ -1166,9 +1166,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 482230,
+      "confirmed": 482677,
       "date": "2021-12-18",
-      "deaths": 7397
+      "deaths": 7398
     }
   },
   "Paraguay": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3267376,
+          "confirmed": 3270695,
           "date": "2021-12-18",
-          "deaths": 51599
+          "deaths": 51624
         }
       },
       "Florida": {
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 178403,
+          "confirmed": 179140,
           "date": "2021-12-18",
-          "deaths": 2118
+          "deaths": 2119
         }
       }
     }
@@ -1649,9 +1649,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 403582,
+      "confirmed": 403899,
       "date": "2021-12-18",
-      "deaths": 6149
+      "deaths": 6150
     }
   },
   "Uzbekistan": {
@@ -1691,9 +1691,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 186304,
+      "confirmed": 189567,
       "date": "2021-12-18",
-      "deaths": 4771
+      "deaths": 4779
     }
   }
 }
