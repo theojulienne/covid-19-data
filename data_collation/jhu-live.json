@@ -319,9 +319,9 @@
     "subseries": {
       "Alberta": {
         "live": {
-          "confirmed": 340470,
+          "confirmed": 341023,
           "date": "2021-12-17",
-          "deaths": 3285
+          "deaths": 3286
         }
       },
       "British Columbia": {
@@ -1471,7 +1471,7 @@
       },
       "Florida": {
         "live": {
-          "confirmed": 1770998,
+          "confirmed": 1792375,
           "date": "2021-12-17",
           "deaths": 15576
         }
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 185583,
+          "confirmed": 186874,
           "date": "2021-12-17",
-          "deaths": 4045
+          "deaths": 4057
         }
       },
       "Michigan": {
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1626746,
+          "confirmed": 1634177,
           "date": "2021-12-17",
           "deaths": 40126
         }
