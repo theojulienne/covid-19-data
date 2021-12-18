@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 653848,
+          "confirmed": 654191,
           "date": "2021-12-18",
           "deaths": 10162
         }
@@ -806,9 +806,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1354001,
+      "confirmed": 1354677,
       "date": "2021-12-18",
-      "deaths": 8230
+      "deaths": 8232
     }
   },
   "Italy": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 371850,
+      "confirmed": 372154,
       "date": "2021-12-18",
-      "deaths": 9466
+      "deaths": 9482
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 220794,
+      "confirmed": 221095,
       "date": "2021-12-18",
-      "deaths": 7794
+      "deaths": 7801
     }
   },
   "Norway": {
