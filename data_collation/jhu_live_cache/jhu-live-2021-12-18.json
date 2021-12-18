@@ -347,9 +347,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 478245,
+          "confirmed": 481876,
           "date": "2021-12-18",
-          "deaths": 11634
+          "deaths": 11636
         }
       }
     }
