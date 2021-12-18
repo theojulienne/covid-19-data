@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 224998,
+          "confirmed": 225785,
           "date": "2021-12-18",
-          "deaths": 2396
+          "deaths": 2399
         }
       },
       "Ontario": {
@@ -364,21 +364,21 @@
         "live": {
           "confirmed": 778152,
           "date": "2021-12-18",
-          "deaths": 16744
+          "deaths": 16757
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 341325,
           "date": "2021-12-18",
-          "deaths": 9727
+          "deaths": 9728
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1468229,
           "date": "2021-12-18",
-          "deaths": 27673
+          "deaths": 27674
         }
       },
       "Cundinamarca": {
@@ -392,14 +392,14 @@
         "live": {
           "confirmed": 233642,
           "date": "2021-12-18",
-          "deaths": 7465
+          "deaths": 7475
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 420125,
           "date": "2021-12-18",
-          "deaths": 13247
+          "deaths": 13255
         }
       }
     }
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 551551,
+      "confirmed": 558864,
       "date": "2021-12-18",
-      "deaths": 4591
+      "deaths": 4644
     }
   },
   "Kuwait": {
