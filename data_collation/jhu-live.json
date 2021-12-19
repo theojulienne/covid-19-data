@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 214330,
+      "confirmed": 214592,
       "date": "2021-12-19",
-      "deaths": 6180
+      "deaths": 6184
     }
   },
   "Argentina": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8379143,
+      "confirmed": 8427616,
       "date": "2021-12-19",
-      "deaths": 118921
+      "deaths": 118996
     }
   },
   "Georgia": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 699464,
+      "confirmed": 700943,
       "date": "2021-12-19",
-      "deaths": 8924
+      "deaths": 8936
     }
   },
   "Libya": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 372154,
+      "confirmed": 372200,
       "date": "2021-12-19",
-      "deaths": 9482
+      "deaths": 9493
     }
   },
   "Mongolia": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3292609,
+      "confirmed": 3308074,
       "date": "2021-12-19",
-      "deaths": 90345
+      "deaths": 90348
     }
   },
   "Spain": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 579134,
+      "confirmed": 579685,
       "date": "2021-12-19",
-      "deaths": 14734
+      "deaths": 14752
     }
   },
   "Sweden": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 378599,
+          "confirmed": 381618,
           "date": "2021-12-19",
           "deaths": 4618
         }
