@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 205549,
+      "confirmed": 205777,
       "date": "2021-12-19",
-      "deaths": 3161
+      "deaths": 3166
     }
   },
   "Algeria": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9156179,
+      "confirmed": 9173089,
       "date": "2021-12-19",
-      "deaths": 80244
+      "deaths": 80415
     }
   },
   "US": {
@@ -1466,7 +1466,7 @@
         "live": {
           "confirmed": 841448,
           "date": "2021-12-19",
-          "deaths": 13341
+          "deaths": 13343
         }
       },
       "California": {
