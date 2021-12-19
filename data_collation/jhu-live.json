@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1354697,
+      "confirmed": 1354929,
       "date": "2021-12-19",
       "deaths": 8232
     }
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 743586,
+      "confirmed": 743852,
       "date": "2021-12-19",
       "deaths": 2151
     }
