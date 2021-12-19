@@ -347,9 +347,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 481876,
+          "confirmed": 485722,
           "date": "2021-12-19",
-          "deaths": 11636
+          "deaths": 11639
         }
       }
     }
@@ -427,7 +427,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964035,
+      "confirmed": 964097,
       "date": "2021-12-19",
       "deaths": 8314
     }
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1354929,
+      "confirmed": 1355433,
       "date": "2021-12-19",
       "deaths": 8232
     }
