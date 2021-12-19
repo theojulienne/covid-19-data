@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 657069,
+          "confirmed": 657111,
           "date": "2021-12-19",
           "deaths": 10164
         }
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1355433,
+      "confirmed": 1355491,
       "date": "2021-12-19",
       "deaths": 8232
     }
