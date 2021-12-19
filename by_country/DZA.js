@@ -1397,8 +1397,7 @@ var covid19_dataset_country_dza = {
       213288,
       213533,
       213745,
-      214044,
-      214330
+      214044
     ],
     "deaths": [
       0,
@@ -2096,8 +2095,7 @@ var covid19_dataset_country_dza = {
       6155,
       6165,
       6171,
-      6175,
-      6180
+      6175
     ],
     "recovered": [
       0,
