@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 748752,
+          "confirmed": 748983,
           "date": "2021-12-19",
-          "deaths": 19854
+          "deaths": 19867
         }
       }
     }
@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1031239,
+      "confirmed": 1034070,
       "date": "2021-12-19",
-      "deaths": 19799
+      "deaths": 19891
     }
   },
   "Guatemala": {
@@ -898,9 +898,9 @@
   },
   "Jordan": {
     "live": {
-      "confirmed": 1033469,
+      "confirmed": 1036665,
       "date": "2021-12-19",
-      "deaths": 12191
+      "deaths": 12230
     }
   },
   "Kazakhstan": {
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 239989,
+          "confirmed": 240286,
           "date": "2021-12-19",
-          "deaths": 3821
+          "deaths": 3825
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 238357,
+          "confirmed": 238546,
           "date": "2021-12-19",
-          "deaths": 2758
+          "deaths": 2761
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 251967,
+          "confirmed": 251997,
           "date": "2021-12-19",
           "deaths": 1614
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 776257,
+          "confirmed": 777176,
           "date": "2021-12-19",
-          "deaths": 9884
+          "deaths": 9886
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 208229,
+          "confirmed": 208413,
           "date": "2021-12-19",
           "deaths": 2647
         }
