@@ -434,9 +434,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2397246,
+      "confirmed": 2403248,
       "date": "2021-12-19",
-      "deaths": 35149
+      "deaths": 35223
     }
   },
   "Denmark": {
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1066534,
+      "confirmed": 1066547,
       "date": "2021-12-19",
       "deaths": 18098
     }
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 990815,
+          "confirmed": 991160,
           "date": "2021-12-19",
-          "deaths": 40273
+          "deaths": 40282
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 200317,
+          "confirmed": 200577,
           "date": "2021-12-19",
-          "deaths": 13268
+          "deaths": 13275
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 381127,
+          "confirmed": 381255,
           "date": "2021-12-19",
-          "deaths": 44609
+          "deaths": 44673
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 208338,
+          "confirmed": 208436,
           "date": "2021-12-19",
-          "deaths": 13680
+          "deaths": 13685
         }
       }
     }
@@ -1046,7 +1046,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 386787,
+      "confirmed": 386991,
       "date": "2021-12-19",
       "deaths": 2043
     }
@@ -1455,18 +1455,18 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9138535,
+      "confirmed": 9156179,
       "date": "2021-12-19",
-      "deaths": 80053
+      "deaths": 80244
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 837314,
+          "confirmed": 839480,
           "date": "2021-12-19",
-          "deaths": 13324
+          "deaths": 13341
         }
       },
       "California": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 440784,
+      "confirmed": 441228,
       "date": "2021-12-19",
-      "deaths": 5272
+      "deaths": 5278
     }
   },
   "Vietnam": {
@@ -1698,9 +1698,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 189567,
+      "confirmed": 191673,
       "date": "2021-12-19",
-      "deaths": 4779
+      "deaths": 4782
     }
   }
 }
