@@ -655,17 +655,17 @@
     "CHE": {
       "back_1week": {
         "confirmed": 1111923,
-        "deaths": 11748,
+        "deaths": 11749,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1044633,
-        "deaths": 11589,
+        "deaths": 11591,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1175721,
-        "deaths": 11909,
+        "deaths": 11913,
         "recovered": 0
       }
     },

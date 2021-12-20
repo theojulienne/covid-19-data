@@ -606,9 +606,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1218295,
+      "confirmed": 1228400,
       "date": "2021-12-20",
-      "deaths": 37530
+      "deaths": 37896
     }
   },
   "India": {
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2003080,
+          "confirmed": 2005710,
           "date": "2021-12-20",
-          "deaths": 35886
+          "deaths": 35964
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 624416,
+          "confirmed": 626351,
           "date": "2021-12-20",
-          "deaths": 11491
+          "deaths": 11544
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 226383,
+          "confirmed": 226911,
           "date": "2021-12-20",
-          "deaths": 9497
+          "deaths": 9526
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 187878,
+          "confirmed": 188479,
           "date": "2021-12-20",
-          "deaths": 9314
+          "deaths": 9335
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 829248,
+          "confirmed": 831206,
           "date": "2021-12-20",
-          "deaths": 27329
+          "deaths": 27393
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 194080,
+          "confirmed": 194662,
           "date": "2021-12-20",
-          "deaths": 6058
+          "deaths": 6077
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 191864,
+          "confirmed": 192479,
           "date": "2021-12-20",
-          "deaths": 9058
+          "deaths": 9091
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 189510,
+          "confirmed": 190013,
           "date": "2021-12-20",
-          "deaths": 6545
+          "deaths": 6583
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1175721,
       "date": "2021-12-20",
-      "deaths": 11911
+      "deaths": 11915
     }
   },
   "Thailand": {
