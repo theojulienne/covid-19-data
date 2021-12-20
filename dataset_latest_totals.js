@@ -171,13 +171,13 @@ var covid19_dataset_latest_totals = {
           "tested": 388039
         },
         "NSW": {
-          "confirmed": 94811,
+          "confirmed": 97369,
           "current_hospitalized": 973,
           "current_icu": 160,
           "current_ventilators": 16,
           "deaths": 645,
           "recovered": 2799,
-          "tested": 23410362
+          "tested": 23559299
         },
         "NT": {
           "confirmed": 202,
