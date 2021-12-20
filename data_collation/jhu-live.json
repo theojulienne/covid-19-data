@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 659459,
+          "confirmed": 660234,
           "date": "2021-12-20",
           "deaths": 10164
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 485722,
+          "confirmed": 490293,
           "date": "2021-12-20",
           "deaths": 11642
         }
@@ -1492,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 436277,
+          "confirmed": 441929,
           "date": "2021-12-20",
-          "deaths": 9239
+          "deaths": 9267
         }
       },
       "Minnesota": {
@@ -1520,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 381618,
+          "confirmed": 384709,
           "date": "2021-12-20",
           "deaths": 4618
         }
