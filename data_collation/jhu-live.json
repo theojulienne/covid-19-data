@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 205777,
+      "confirmed": 205897,
       "date": "2021-12-20",
-      "deaths": 3166
+      "deaths": 3172
     }
   },
   "Algeria": {
@@ -420,9 +420,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964097,
+      "confirmed": 964176,
       "date": "2021-12-20",
-      "deaths": 8314
+      "deaths": 8315
     }
   },
   "Czechia": {
@@ -441,7 +441,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 411721,
+      "confirmed": 411883,
       "date": "2021-12-20",
       "deaths": 4223
     }
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 972430,
+          "confirmed": 974453,
           "date": "2021-12-20",
-          "deaths": 12571
+          "deaths": 12620
         }
       },
       "Bayern": {
@@ -792,7 +792,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 656600,
+      "confirmed": 661388,
       "date": "2021-12-20",
       "deaths": 5835
     }
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1066934,
       "date": "2021-12-20",
-      "deaths": 18098
+      "deaths": 18119
     }
   },
   "Kenya": {
@@ -1120,9 +1120,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 221285,
+      "confirmed": 221411,
       "date": "2021-12-20",
-      "deaths": 7815
+      "deaths": 7825
     }
   },
   "Norway": {
@@ -1395,9 +1395,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 579685,
+      "confirmed": 580209,
       "date": "2021-12-20",
-      "deaths": 14752
+      "deaths": 14771
     }
   },
   "Sweden": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1196208,
       "date": "2021-12-20",
-      "deaths": 11950
+      "deaths": 11953
     }
   },
   "Thailand": {
@@ -1448,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9173089,
+      "confirmed": 9191851,
       "date": "2021-12-20",
-      "deaths": 80415
+      "deaths": 80591
     }
   },
   "US": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3283616,
+          "confirmed": 3284971,
           "date": "2021-12-20",
-          "deaths": 51679
+          "deaths": 51680
         }
       },
       "Florida": {
@@ -1499,9 +1499,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 191052,
+          "confirmed": 191712,
           "date": "2021-12-20",
-          "deaths": 2117
+          "deaths": 2123
         }
       },
       "Nevada": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1737168,
+          "confirmed": 1742919,
           "date": "2021-12-20",
-          "deaths": 25683
+          "deaths": 25691
         }
       },
       "Utah": {
@@ -1677,9 +1677,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 465094,
+      "confirmed": 466669,
       "date": "2021-12-20",
-      "deaths": 4855
+      "deaths": 4870
     }
   },
   "Zambia": {
