@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2191528,
+      "confirmed": 2194053,
       "date": "2021-12-20",
-      "deaths": 21377
+      "deaths": 21408
     }
   },
   "Tunisia": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 197074,
+      "confirmed": 197268,
       "date": "2021-12-20",
-      "deaths": 1458
+      "deaths": 1461
     }
   },
   "Venezuela": {
