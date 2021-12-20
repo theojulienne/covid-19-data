@@ -462,9 +462,9 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 374411,
+      "confirmed": 375330,
       "date": "2021-12-20",
-      "deaths": 21315
+      "deaths": 21361
     }
   },
   "Estonia": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 565098,
+      "confirmed": 570414,
       "date": "2021-12-20",
-      "deaths": 4722
+      "deaths": 4776
     }
   },
   "Kuwait": {
