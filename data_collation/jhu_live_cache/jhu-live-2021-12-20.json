@@ -371,14 +371,14 @@
         "live": {
           "confirmed": 779287,
           "date": "2021-12-20",
-          "deaths": 16773
+          "deaths": 16787
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 341569,
           "date": "2021-12-20",
-          "deaths": 9727
+          "deaths": 9730
         }
       },
       "Capital District": {
@@ -399,14 +399,14 @@
         "live": {
           "confirmed": 233985,
           "date": "2021-12-20",
-          "deaths": 7480
+          "deaths": 7487
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 420547,
           "date": "2021-12-20",
-          "deaths": 13263
+          "deaths": 13271
         }
       }
     }
@@ -506,79 +506,79 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 970100,
+          "confirmed": 972422,
           "date": "2021-12-20",
-          "deaths": 12561
+          "deaths": 12571
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1281758,
+          "confirmed": 1284485,
           "date": "2021-12-20",
-          "deaths": 19010
+          "deaths": 19033
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 309477,
+          "confirmed": 309719,
           "date": "2021-12-20",
           "deaths": 3964
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 224296,
+          "confirmed": 225087,
           "date": "2021-12-20",
-          "deaths": 4461
+          "deaths": 4462
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 457945,
+          "confirmed": 458825,
           "date": "2021-12-20",
-          "deaths": 8406
+          "deaths": 8411
         }
       },
       "Niedersachsen": {
         "live": {
-          "confirmed": 421328,
+          "confirmed": 422005,
           "date": "2021-12-20",
-          "deaths": 6682
+          "deaths": 6685
         }
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1317705,
+          "confirmed": 1320344,
           "date": "2021-12-20",
-          "deaths": 19822
+          "deaths": 19829
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 266818,
+          "confirmed": 266833,
           "date": "2021-12-20",
           "deaths": 4488
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 622293,
+          "confirmed": 622300,
           "date": "2021-12-20",
-          "deaths": 12251
+          "deaths": 12253
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 209970,
+          "confirmed": 210419,
           "date": "2021-12-20",
-          "deaths": 4089
+          "deaths": 4091
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 269843,
+          "confirmed": 270687,
           "date": "2021-12-20",
-          "deaths": 5549
+          "deaths": 5564
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1066547,
+      "confirmed": 1066934,
       "date": "2021-12-20",
       "deaths": 18098
     }
@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 180976,
+          "confirmed": 181011,
           "date": "2021-12-20",
-          "deaths": 5907
+          "deaths": 5909
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444164,
+          "confirmed": 444216,
           "date": "2021-12-20",
-          "deaths": 13058
+          "deaths": 13059
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 479090,
+          "confirmed": 479326,
           "date": "2021-12-20",
-          "deaths": 7649
+          "deaths": 7652
         }
       }
     }
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 441228,
+      "confirmed": 441562,
       "date": "2021-12-20",
-      "deaths": 5278
+      "deaths": 5285
     }
   },
   "Vietnam": {
