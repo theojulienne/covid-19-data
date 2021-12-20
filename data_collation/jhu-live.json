@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 909160,
+      "confirmed": 910456,
       "date": "2021-12-20",
-      "deaths": 13071
+      "deaths": 13116
     }
   },
   "Germany": {
@@ -1173,7 +1173,7 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 483063,
+      "confirmed": 483386,
       "date": "2021-12-20",
       "deaths": 7398
     }
