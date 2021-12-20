@@ -471,7 +471,7 @@
     "live": {
       "confirmed": 232506,
       "date": "2021-12-20",
-      "deaths": 1884
+      "deaths": 1888
     }
   },
   "Ethiopia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1175721,
       "date": "2021-12-20",
-      "deaths": 11924
+      "deaths": 11929
     }
   },
   "Thailand": {
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1540478,
+      "confirmed": 1555455,
       "date": "2021-12-20",
-      "deaths": 29566
+      "deaths": 29791
     }
   },
   "West Bank and Gaza": {
