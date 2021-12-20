@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 660234,
+          "confirmed": 663228,
           "date": "2021-12-20",
-          "deaths": 10164
+          "deaths": 10165
         }
       },
       "Quebec": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1356747,
+      "confirmed": 1356847,
       "date": "2021-12-20",
       "deaths": 8232
     }
@@ -1330,63 +1330,63 @@
     "subseries": {
       "Andalusia": {
         "live": {
-          "confirmed": 851978,
+          "confirmed": 863131,
           "date": "2021-12-20",
-          "deaths": 11393
+          "deaths": 11403
         }
       },
       "Aragon": {
         "live": {
-          "confirmed": 183091,
+          "confirmed": 186203,
           "date": "2021-12-20",
-          "deaths": 4015
+          "deaths": 4029
         }
       },
       "C. Valenciana": {
         "live": {
-          "confirmed": 567777,
+          "confirmed": 577425,
           "date": "2021-12-20",
-          "deaths": 7995
+          "deaths": 8007
         }
       },
       "Castilla - La Mancha": {
         "live": {
-          "confirmed": 251432,
+          "confirmed": 253353,
           "date": "2021-12-20",
-          "deaths": 6557
+          "deaths": 6558
         }
       },
       "Castilla y Leon": {
         "live": {
-          "confirmed": 329807,
+          "confirmed": 335463,
           "date": "2021-12-20",
-          "deaths": 7486
+          "deaths": 7500
         }
       },
       "Catalonia": {
         "live": {
-          "confirmed": 1012862,
+          "confirmed": 1023662,
           "date": "2021-12-20",
-          "deaths": 16080
+          "deaths": 16081
         }
       },
       "Galicia": {
         "live": {
-          "confirmed": 209676,
+          "confirmed": 213637,
           "date": "2021-12-20",
-          "deaths": 2709
+          "deaths": 2718
         }
       },
       "Madrid": {
         "live": {
-          "confirmed": 952133,
+          "confirmed": 966047,
           "date": "2021-12-20",
-          "deaths": 16342
+          "deaths": 16343
         }
       },
       "Pais Vasco": {
         "live": {
-          "confirmed": 306578,
+          "confirmed": 312320,
           "date": "2021-12-20",
           "deaths": 5121
         }
@@ -1457,7 +1457,7 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 841448,
+          "confirmed": 842993,
           "date": "2021-12-20",
           "deaths": 13343
         }
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 218701,
+          "confirmed": 219652,
           "date": "2021-12-20",
-          "deaths": 1292
+          "deaths": 1294
         }
       },
       "Washington": {
