@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304874,
+      "confirmed": 304896,
       "date": "2021-12-21",
       "deaths": 4113
     }
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 3968450,
+      "confirmed": 3982257,
       "date": "2021-12-21",
-      "deaths": 91514
+      "deaths": 92052
     }
   },
   "Portugal": {
@@ -1314,9 +1314,9 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1327031,
+      "confirmed": 1332198,
       "date": "2021-12-21",
-      "deaths": 16068
+      "deaths": 16129
     }
   },
   "Slovenia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1196208,
       "date": "2021-12-21",
-      "deaths": 11954
+      "deaths": 11962
     }
   },
   "Thailand": {
