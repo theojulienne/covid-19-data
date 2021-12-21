@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8442487,
+      "confirmed": 8515067,
       "date": "2021-12-21",
-      "deaths": 119212
+      "deaths": 119439
     }
   },
   "Georgia": {
@@ -799,7 +799,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 661388,
+      "confirmed": 666657,
       "date": "2021-12-21",
       "deaths": 5835
     }
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1067309,
       "date": "2021-12-21",
-      "deaths": 18119
+      "deaths": 18137
     }
   },
   "Kenya": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3316585,
+      "confirmed": 3332008,
       "date": "2021-12-21",
-      "deaths": 90453
+      "deaths": 90488
     }
   },
   "Spain": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 736944,
+          "confirmed": 741390,
           "date": "2021-12-21",
-          "deaths": 11751
+          "deaths": 11788
         }
       },
       "Massachusetts": {
@@ -1527,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 384709,
+          "confirmed": 389245,
           "date": "2021-12-21",
-          "deaths": 4618
+          "deaths": 4642
         }
       },
       "Pennsylvania": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1743340,
+          "confirmed": 1747735,
           "date": "2021-12-21",
-          "deaths": 25697
+          "deaths": 25711
         }
       },
       "Utah": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 466669,
+      "confirmed": 467058,
       "date": "2021-12-21",
-      "deaths": 4870
+      "deaths": 4875
     }
   },
   "Zambia": {
