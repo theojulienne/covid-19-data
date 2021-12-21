@@ -340,14 +340,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 665832,
+          "confirmed": 665886,
           "date": "2021-12-21",
           "deaths": 10174
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 490293,
+          "confirmed": 495336,
           "date": "2021-12-21",
           "deaths": 11650
         }
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 221411,
+      "confirmed": 221744,
       "date": "2021-12-21",
-      "deaths": 7825
+      "deaths": 7838
     }
   },
   "Norway": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9191851,
+      "confirmed": 9211710,
       "date": "2021-12-21",
-      "deaths": 80591
+      "deaths": 80778
     }
   },
   "US": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 354074,
+          "confirmed": 355021,
           "date": "2021-12-21",
-          "deaths": 6389
+          "deaths": 6404
         }
       },
       "New York": {
@@ -1534,9 +1534,9 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 204662,
+          "confirmed": 204818,
           "date": "2021-12-21",
-          "deaths": 4186
+          "deaths": 4197
         }
       },
       "Texas": {
