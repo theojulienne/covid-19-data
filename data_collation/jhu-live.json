@@ -303,9 +303,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 724793,
+      "confirmed": 726794,
       "date": "2021-12-21",
-      "deaths": 30082
+      "deaths": 30239
     }
   },
   "Burma": {
@@ -326,9 +326,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 225785,
+          "confirmed": 228335,
           "date": "2021-12-21",
-          "deaths": 2399
+          "deaths": 2402
         }
       },
       "Ontario": {
@@ -364,42 +364,42 @@
         "live": {
           "confirmed": 779701,
           "date": "2021-12-21",
-          "deaths": 16787
+          "deaths": 16800
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 341643,
           "date": "2021-12-21",
-          "deaths": 9730
+          "deaths": 9731
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1469412,
           "date": "2021-12-21",
-          "deaths": 27678
+          "deaths": 27681
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 267000,
           "date": "2021-12-21",
-          "deaths": 6853
+          "deaths": 6854
         }
       },
       "Santander": {
         "live": {
           "confirmed": 234123,
           "date": "2021-12-21",
-          "deaths": 7487
+          "deaths": 7488
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 420649,
           "date": "2021-12-21",
-          "deaths": 13271
+          "deaths": 13273
         }
       }
     }
@@ -448,9 +448,9 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 536129,
+      "confirmed": 537032,
       "date": "2021-12-21",
-      "deaths": 33593
+      "deaths": 33597
     }
   },
   "Egypt": {
@@ -912,9 +912,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 570414,
+      "confirmed": 575615,
       "date": "2021-12-21",
-      "deaths": 4776
+      "deaths": 4828
     }
   },
   "Kuwait": {
@@ -1127,7 +1127,7 @@
   },
   "Norway": {
     "live": {
-      "confirmed": 350424,
+      "confirmed": 354465,
       "date": "2021-12-21",
       "deaths": 1207
     }
@@ -1548,9 +1548,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 179140,
+          "confirmed": 181446,
           "date": "2021-12-21",
-          "deaths": 2119
+          "deaths": 2122
         }
       }
     }
@@ -1691,9 +1691,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 192796,
+      "confirmed": 195079,
       "date": "2021-12-21",
-      "deaths": 4787
+      "deaths": 4805
     }
   }
 }
