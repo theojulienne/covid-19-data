@@ -1136,7 +1136,7 @@
     "live": {
       "confirmed": 354465,
       "date": "2021-12-21",
-      "deaths": 1207
+      "deaths": 1209
     }
   },
   "Oman": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 550988,
+      "confirmed": 551210,
       "date": "2021-12-21",
-      "deaths": 8864
+      "deaths": 8865
     }
   },
   "Serbia": {
@@ -1434,7 +1434,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1196208,
+      "confirmed": 1204379,
       "date": "2021-12-21",
       "deaths": 11972
     }
@@ -1617,9 +1617,9 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 744438,
+      "confirmed": 744890,
       "date": "2021-12-21",
-      "deaths": 2152
+      "deaths": 2154
     }
   },
   "United Kingdom": {
