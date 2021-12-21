@@ -117,9 +117,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 564747,
+      "confirmed": 566591,
       "date": "2021-12-21",
-      "deaths": 19440
+      "deaths": 19459
     }
   },
   "Bosnia and Herzegovina": {
@@ -615,163 +615,163 @@
     "subseries": {
       "Andhra Pradesh": {
         "live": {
-          "confirmed": 2075804,
+          "confirmed": 2075879,
           "date": "2021-12-21",
-          "deaths": 14479
+          "deaths": 14480
         }
       },
       "Assam": {
         "live": {
-          "confirmed": 619492,
+          "confirmed": 619586,
           "date": "2021-12-21",
-          "deaths": 6147
+          "deaths": 6149
         }
       },
       "Bihar": {
         "live": {
-          "confirmed": 726371,
+          "confirmed": 726376,
           "date": "2021-12-21",
           "deaths": 12093
         }
       },
       "Chhattisgarh": {
         "live": {
-          "confirmed": 1007399,
+          "confirmed": 1007412,
           "date": "2021-12-21",
           "deaths": 13595
         }
       },
       "Delhi": {
         "live": {
-          "confirmed": 1442197,
+          "confirmed": 1442288,
           "date": "2021-12-21",
           "deaths": 25101
         }
       },
       "Goa": {
         "live": {
-          "confirmed": 179742,
+          "confirmed": 179769,
           "date": "2021-12-21",
           "deaths": 3485
         }
       },
       "Gujarat": {
         "live": {
-          "confirmed": 828546,
+          "confirmed": 828616,
           "date": "2021-12-21",
-          "deaths": 10101
+          "deaths": 10102
         }
       },
       "Haryana": {
         "live": {
-          "confirmed": 772197,
+          "confirmed": 772228,
           "date": "2021-12-21",
           "deaths": 10061
         }
       },
       "Himachal Pradesh": {
         "live": {
-          "confirmed": 228295,
+          "confirmed": 228328,
           "date": "2021-12-21",
           "deaths": 3868
         }
       },
       "Jammu and Kashmir": {
         "live": {
-          "confirmed": 339827,
+          "confirmed": 339932,
           "date": "2021-12-21",
-          "deaths": 4512
+          "deaths": 4513
         }
       },
       "Jharkhand": {
         "live": {
-          "confirmed": 349541,
+          "confirmed": 349573,
           "date": "2021-12-21",
           "deaths": 5142
         }
       },
       "Karnataka": {
         "live": {
-          "confirmed": 3002427,
+          "confirmed": 3002649,
           "date": "2021-12-21",
-          "deaths": 38288
+          "deaths": 38290
         }
       },
       "Kerala": {
         "live": {
-          "confirmed": 5217589,
+          "confirmed": 5219819,
           "date": "2021-12-21",
-          "deaths": 44503
+          "deaths": 44922
         }
       },
       "Madhya Pradesh": {
         "live": {
-          "confirmed": 793489,
+          "confirmed": 793509,
           "date": "2021-12-21",
-          "deaths": 10529
+          "deaths": 10530
         }
       },
       "Maharashtra": {
         "live": {
-          "confirmed": 6649596,
+          "confirmed": 6650140,
           "date": "2021-12-21",
-          "deaths": 141349
+          "deaths": 141353
         }
       },
       "Odisha": {
         "live": {
-          "confirmed": 1052834,
+          "confirmed": 1053020,
           "date": "2021-12-21",
-          "deaths": 8444
+          "deaths": 8445
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 603962,
+          "confirmed": 603986,
           "date": "2021-12-21",
-          "deaths": 16629
+          "deaths": 16630
         }
       },
       "Rajasthan": {
         "live": {
-          "confirmed": 955238,
+          "confirmed": 955252,
           "date": "2021-12-21",
           "deaths": 8960
         }
       },
       "Tamil Nadu": {
         "live": {
-          "confirmed": 2739806,
+          "confirmed": 2740411,
           "date": "2021-12-21",
-          "deaths": 36680
+          "deaths": 36686
         }
       },
       "Telangana": {
         "live": {
-          "confirmed": 679564,
+          "confirmed": 679720,
           "date": "2021-12-21",
           "deaths": 4015
         }
       },
       "Uttar Pradesh": {
         "live": {
-          "confirmed": 1710695,
+          "confirmed": 1710722,
           "date": "2021-12-21",
           "deaths": 22915
         }
       },
       "Uttarakhand": {
         "live": {
-          "confirmed": 344591,
+          "confirmed": 344602,
           "date": "2021-12-21",
-          "deaths": 7413
+          "deaths": 7414
         }
       },
       "West Bengal": {
         "live": {
-          "confirmed": 1627076,
+          "confirmed": 1627490,
           "date": "2021-12-21",
-          "deaths": 19669
+          "deaths": 19676
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 387116,
+      "confirmed": 387356,
       "date": "2021-12-21",
-      "deaths": 2045
+      "deaths": 2047
     }
   },
   "Morocco": {
@@ -1150,32 +1150,32 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 181011,
+          "confirmed": 181023,
           "date": "2021-12-21",
-          "deaths": 5909
+          "deaths": 5911
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444216,
+          "confirmed": 444267,
           "date": "2021-12-21",
           "deaths": 13059
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 479326,
+          "confirmed": 479481,
           "date": "2021-12-21",
-          "deaths": 7652
+          "deaths": 7654
         }
       }
     }
   },
   "Panama": {
     "live": {
-      "confirmed": 483386,
+      "confirmed": 483638,
       "date": "2021-12-21",
-      "deaths": 7398
+      "deaths": 7400
     }
   },
   "Paraguay": {
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2194053,
+      "confirmed": 2196529,
       "date": "2021-12-21",
-      "deaths": 21408
+      "deaths": 21440
     }
   },
   "Tunisia": {
@@ -1670,9 +1670,9 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 441562,
+      "confirmed": 441937,
       "date": "2021-12-21",
-      "deaths": 5285
+      "deaths": 5291
     }
   },
   "Vietnam": {
