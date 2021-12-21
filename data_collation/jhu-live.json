@@ -520,7 +520,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 312659,
+          "confirmed": 312661,
           "date": "2021-12-21",
           "deaths": 3969
         }
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1356847,
+      "confirmed": 1357469,
       "date": "2021-12-21",
       "deaths": 8232
     }
