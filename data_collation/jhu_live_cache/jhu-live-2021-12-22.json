@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 278714,
+      "confirmed": 278875,
       "date": "2021-12-22",
       "deaths": 1394
     }
@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 671868,
+          "confirmed": 672344,
           "date": "2021-12-22",
           "deaths": 10186
         }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8599339,
+      "confirmed": 8599161,
       "date": "2021-12-22",
-      "deaths": 119609
+      "deaths": 119608
     }
   },
   "Georgia": {
@@ -592,9 +592,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 624171,
+      "confirmed": 624544,
       "date": "2021-12-22",
-      "deaths": 16081
+      "deaths": 16085
     }
   },
   "Honduras": {
@@ -926,7 +926,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 414270,
+      "confirmed": 414413,
       "date": "2021-12-22",
       "deaths": 2466
     }
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3124664,
+          "confirmed": 3125721,
           "date": "2021-12-22",
-          "deaths": 49245
+          "deaths": 49247
         }
       },
       "Florida": {
@@ -1520,9 +1520,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1714203,
+          "confirmed": 1722696,
           "date": "2021-12-22",
-          "deaths": 40254
+          "deaths": 40258
         }
       },
       "Ohio": {
@@ -1548,9 +1548,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 219976,
+          "confirmed": 220495,
           "date": "2021-12-22",
-          "deaths": 1298
+          "deaths": 1302
         }
       },
       "Washington": {
