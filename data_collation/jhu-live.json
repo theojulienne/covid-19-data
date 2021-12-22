@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1581634,
+      "confirmed": 1581986,
       "date": "2021-12-22",
-      "deaths": 28051
+      "deaths": 28052
     }
   },
   "Belarus": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1204379,
       "date": "2021-12-22",
-      "deaths": 11988
+      "deaths": 11991
     }
   },
   "Thailand": {

@@ -333,18 +333,18 @@
     },
     "BGD": {
       "back_1week": {
-        "confirmed": 1579710,
-        "deaths": 28031,
+        "confirmed": 1580005,
+        "deaths": 28034,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1577720,
-        "deaths": 28005,
+        "confirmed": 1578011,
+        "deaths": 28010,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1581343,
-        "deaths": 28050,
+        "confirmed": 1581634,
+        "deaths": 28051,
         "recovered": 0
       }
     },
