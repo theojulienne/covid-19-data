@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 206273,
+      "confirmed": 206616,
       "date": "2021-12-22",
-      "deaths": 3178
+      "deaths": 3180
     }
   },
   "Algeria": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8515067,
+      "confirmed": 8599339,
       "date": "2021-12-22",
-      "deaths": 119439
+      "deaths": 119609
     }
   },
   "Georgia": {
@@ -506,9 +506,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 980970,
+          "confirmed": 986869,
           "date": "2021-12-22",
-          "deaths": 12677
+          "deaths": 12726
         }
       },
       "Bayern": {
@@ -1009,9 +1009,9 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 991460,
+          "confirmed": 991990,
           "date": "2021-12-22",
-          "deaths": 40288
+          "deaths": 40282
         }
       },
       "Guanajuato": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3332008,
+      "confirmed": 3353106,
       "date": "2021-12-22",
-      "deaths": 90488
+      "deaths": 90587
     }
   },
   "Spain": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 741390,
+          "confirmed": 749730,
           "date": "2021-12-22",
-          "deaths": 11788
+          "deaths": 11811
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 355021,
+          "confirmed": 355858,
           "date": "2021-12-22",
-          "deaths": 6404
+          "deaths": 6413
         }
       },
       "New York": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 389245,
+          "confirmed": 393793,
           "date": "2021-12-22",
           "deaths": 4642
         }
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1749010,
+          "confirmed": 1753999,
           "date": "2021-12-22",
-          "deaths": 25716
+          "deaths": 25737
         }
       },
       "Utah": {
