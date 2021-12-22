@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 611557,
+      "confirmed": 612205,
       "date": "2021-12-22",
-      "deaths": 8222
+      "deaths": 8238
     }
   },
   "Bahrain": {
@@ -80,21 +80,21 @@
       },
       "East Flanders": {
         "live": {
-          "confirmed": 250986,
+          "confirmed": 250187,
           "date": "2021-12-22",
           "deaths": 0
         }
       },
       "Flemish Brabant": {
         "live": {
-          "confirmed": 174519,
+          "confirmed": 174252,
           "date": "2021-12-22",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 243657,
+          "confirmed": 242667,
           "date": "2021-12-22",
           "deaths": 0
         }
@@ -108,7 +108,7 @@
       },
       "West Flanders": {
         "live": {
-          "confirmed": 208979,
+          "confirmed": 208442,
           "date": "2021-12-22",
           "deaths": 0
         }
@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 749424,
+          "confirmed": 749714,
           "date": "2021-12-22",
-          "deaths": 19882
+          "deaths": 19887
         }
       }
     }
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 628546,
+          "confirmed": 633404,
           "date": "2021-12-22",
-          "deaths": 12408
+          "deaths": 12482
         }
       },
       "Sachsen-Anhalt": {
@@ -882,25 +882,25 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203402,
+          "confirmed": 203426,
           "date": "2021-12-22",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382602,
+          "confirmed": 382642,
           "date": "2021-12-22",
-          "deaths": 3172
+          "deaths": 3173
         }
       }
     }
   },
   "Jordan": {
     "live": {
-      "confirmed": 1043266,
+      "confirmed": 1045714,
       "date": "2021-12-22",
-      "deaths": 12300
+      "deaths": 12329
     }
   },
   "Kazakhstan": {
@@ -970,35 +970,35 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 241019,
+          "confirmed": 241486,
           "date": "2021-12-22",
-          "deaths": 3833
+          "deaths": 3836
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 238824,
+          "confirmed": 239026,
           "date": "2021-12-22",
-          "deaths": 2767
+          "deaths": 2769
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252064,
+          "confirmed": 252094,
           "date": "2021-12-22",
           "deaths": 1614
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 778292,
+          "confirmed": 779237,
           "date": "2021-12-22",
-          "deaths": 9898
+          "deaths": 9901
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 208857,
+          "confirmed": 209136,
           "date": "2021-12-22",
           "deaths": 2654
         }
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1233608,
+      "confirmed": 1242545,
       "date": "2021-12-22",
-      "deaths": 18812
+      "deaths": 18823
     }
   },
   "Qatar": {
