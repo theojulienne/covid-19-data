@@ -340,14 +340,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 670256,
+          "confirmed": 670345,
           "date": "2021-12-22",
           "deaths": 10185
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 495336,
+          "confirmed": 501697,
           "date": "2021-12-22",
           "deaths": 11652
         }
@@ -907,14 +907,14 @@
     "live": {
       "confirmed": 1067811,
       "date": "2021-12-22",
-      "deaths": 18137
+      "deaths": 18145
     }
   },
   "Kenya": {
     "live": {
-      "confirmed": 267571,
+      "confirmed": 270899,
       "date": "2021-12-22",
-      "deaths": 5354
+      "deaths": 5355
     }
   },
   "Korea, South": {
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 467058,
+      "confirmed": 467391,
       "date": "2021-12-22",
-      "deaths": 4875
+      "deaths": 4882
     }
   },
   "Zambia": {
