@@ -66,14 +66,14 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 291916,
+          "confirmed": 291870,
           "date": "2021-12-22",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 234443,
+          "confirmed": 234836,
           "date": "2021-12-22",
           "deaths": 0
         }
@@ -117,9 +117,9 @@
   },
   "Bolivia": {
     "live": {
-      "confirmed": 566591,
+      "confirmed": 568967,
       "date": "2021-12-22",
-      "deaths": 19459
+      "deaths": 19480
     }
   },
   "Bosnia and Herzegovina": {
@@ -371,21 +371,21 @@
         "live": {
           "confirmed": 780175,
           "date": "2021-12-22",
-          "deaths": 16800
+          "deaths": 16813
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 341719,
           "date": "2021-12-22",
-          "deaths": 9731
+          "deaths": 9732
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1469829,
           "date": "2021-12-22",
-          "deaths": 27681
+          "deaths": 27684
         }
       },
       "Cundinamarca": {
@@ -399,14 +399,14 @@
         "live": {
           "confirmed": 234218,
           "date": "2021-12-22",
-          "deaths": 7488
+          "deaths": 7497
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 420847,
           "date": "2021-12-22",
-          "deaths": 13273
+          "deaths": 13274
         }
       }
     }
@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1067309,
+      "confirmed": 1067811,
       "date": "2021-12-22",
       "deaths": 18137
     }
@@ -1150,23 +1150,23 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 181023,
+          "confirmed": 181053,
           "date": "2021-12-22",
-          "deaths": 5911
+          "deaths": 5915
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444267,
+          "confirmed": 444320,
           "date": "2021-12-22",
-          "deaths": 13059
+          "deaths": 13060
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 479481,
+          "confirmed": 479664,
           "date": "2021-12-22",
-          "deaths": 7654
+          "deaths": 7658
         }
       }
     }
