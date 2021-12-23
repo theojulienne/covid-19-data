@@ -2885,13 +2885,13 @@ var covid19_dataset_latest_totals = {
     },
     "ROU": {
       "back_1week": {
-        "confirmed": 1794589,
-        "deaths": 57847,
+        "confirmed": 1795418,
+        "deaths": 57935,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1788260,
-        "deaths": 57260,
+        "confirmed": 1789539,
+        "deaths": 57360,
         "recovered": 0
       },
       "latest": {

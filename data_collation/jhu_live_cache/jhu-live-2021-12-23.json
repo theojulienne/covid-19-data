@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1799455,
+      "confirmed": 1801081,
       "date": "2021-12-23",
-      "deaths": 58320
+      "deaths": 58463
     }
   },
   "Russia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1215944,
       "date": "2021-12-23",
-      "deaths": 12016
+      "deaths": 12019
     }
   },
   "Thailand": {
