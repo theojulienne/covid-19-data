@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 991990,
+          "confirmed": 992710,
           "date": "2021-12-23",
-          "deaths": 40282
+          "deaths": 40301
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 200995,
+          "confirmed": 201306,
           "date": "2021-12-23",
-          "deaths": 13294
+          "deaths": 13317
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 381460,
+          "confirmed": 381659,
           "date": "2021-12-23",
-          "deaths": 44747
+          "deaths": 44779
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 208558,
+          "confirmed": 208651,
           "date": "2021-12-23",
-          "deaths": 13697
+          "deaths": 13705
         }
       }
     }
@@ -1441,9 +1441,9 @@
   },
   "Thailand": {
     "live": {
-      "confirmed": 2199061,
+      "confirmed": 2202001,
       "date": "2021-12-23",
-      "deaths": 21471
+      "deaths": 21501
     }
   },
   "Tunisia": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 197566,
+      "confirmed": 197753,
       "date": "2021-12-23",
-      "deaths": 1468
+      "deaths": 1471
     }
   },
   "Venezuela": {
