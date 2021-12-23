@@ -1405,6 +1405,7 @@ var covid19_dataset_country_yem = {
       10097,
       10101,
       10102,
+      10103,
       10103
     ],
     "deaths": [
@@ -2107,7 +2108,8 @@ var covid19_dataset_country_yem = {
       1976,
       1976,
       1977,
-      1977
+      1977,
+      1981
     ],
     "recovered": [
       0,
@@ -2671,6 +2673,7 @@ var covid19_dataset_country_yem = {
       4212,
       4232,
       4251,
+      0,
       0,
       0,
       0,

@@ -905,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1067811,
+      "confirmed": 1068363,
       "date": "2021-12-23",
       "deaths": 18145
     }
@@ -1046,9 +1046,9 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 387684,
+      "confirmed": 387875,
       "date": "2021-12-23",
-      "deaths": 2050
+      "deaths": 2051
     }
   },
   "Morocco": {
