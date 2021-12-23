@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 675165,
+          "confirmed": 676287,
           "date": "2021-12-23",
           "deaths": 10192
         }
@@ -427,7 +427,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964317,
+      "confirmed": 964406,
       "date": "2021-12-23",
       "deaths": 8317
     }
@@ -799,7 +799,7 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 672964,
+      "confirmed": 680375,
       "date": "2021-12-23",
       "deaths": 5890
     }
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 373373,
+      "confirmed": 373752,
       "date": "2021-12-23",
-      "deaths": 9557
+      "deaths": 9575
     }
   },
   "Mongolia": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 953724,
+      "confirmed": 954199,
       "date": "2021-12-23",
-      "deaths": 14817
+      "deaths": 14823
     }
   },
   "Nepal": {
@@ -1180,9 +1180,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 464793,
+      "confirmed": 464895,
       "date": "2021-12-23",
-      "deaths": 16588
+      "deaths": 16593
     }
   },
   "Peru": {
@@ -1471,7 +1471,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 3135805,
+          "confirmed": 3136368,
           "date": "2021-12-23",
           "deaths": 49292
         }
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 194286,
+          "confirmed": 195164,
           "date": "2021-12-23",
-          "deaths": 2136
+          "deaths": 2145
         }
       },
       "Nevada": {
