@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 234092,
+      "confirmed": 234958,
       "date": "2021-12-23",
-      "deaths": 1895
+      "deaths": 1899
     }
   },
   "Ethiopia": {
@@ -606,9 +606,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1233744,
+      "confirmed": 1237330,
       "date": "2021-12-23",
-      "deaths": 38167
+      "deaths": 38307
     }
   },
   "India": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 383445,
+      "confirmed": 384005,
       "date": "2021-12-23",
-      "deaths": 5626
+      "deaths": 5635
     }
   },
   "Lithuania": {
@@ -1566,51 +1566,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 240652,
+          "confirmed": 240883,
           "date": "2021-12-23",
-          "deaths": 8686
+          "deaths": 8707
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 241504,
+          "confirmed": 241763,
           "date": "2021-12-23",
-          "deaths": 6213
+          "deaths": 6231
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 324046,
+          "confirmed": 325257,
           "date": "2021-12-23",
-          "deaths": 8057
+          "deaths": 8069
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 183045,
+          "confirmed": 183400,
           "date": "2021-12-23",
-          "deaths": 4568
+          "deaths": 4588
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 217610,
+          "confirmed": 218027,
           "date": "2021-12-23",
-          "deaths": 5885
+          "deaths": 5900
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 237646,
+          "confirmed": 237820,
           "date": "2021-12-23",
-          "deaths": 5474
+          "deaths": 5488
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 180555,
+          "confirmed": 180858,
           "date": "2021-12-23",
-          "deaths": 5086
+          "deaths": 5105
         }
       }
     }
