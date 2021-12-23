@@ -310,9 +310,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 728677,
+      "confirmed": 730140,
       "date": "2021-12-23",
-      "deaths": 30303
+      "deaths": 30359
     }
   },
   "Burma": {
@@ -333,9 +333,9 @@
       },
       "British Columbia": {
         "live": {
-          "confirmed": 229643,
+          "confirmed": 231171,
           "date": "2021-12-23",
-          "deaths": 2403
+          "deaths": 2409
         }
       },
       "Ontario": {
@@ -919,9 +919,9 @@
   },
   "Korea, South": {
     "live": {
-      "confirmed": 583065,
+      "confirmed": 589978,
       "date": "2021-12-23",
-      "deaths": 4906
+      "deaths": 5015
     }
   },
   "Kuwait": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3125721,
+          "confirmed": 3132193,
           "date": "2021-12-23",
-          "deaths": 49247
+          "deaths": 49262
         }
       },
       "Florida": {
@@ -1555,9 +1555,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 182058,
+          "confirmed": 182765,
           "date": "2021-12-23",
-          "deaths": 2125
+          "deaths": 2127
         }
       }
     }
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 405236,
+      "confirmed": 405681,
       "date": "2021-12-23",
-      "deaths": 6157
+      "deaths": 6159
     }
   },
   "Uzbekistan": {
