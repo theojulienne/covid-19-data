@@ -635,7 +635,7 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 495336,
+          "confirmed": 501697,
           "deaths": 11652
         },
         "Repatriated Travellers": {
@@ -1837,7 +1837,7 @@
     "ISR": {
       "back_1week": {
         "confirmed": 1352403,
-        "deaths": 8224,
+        "deaths": 8227,
         "recovered": 0
       },
       "back_2week": {
@@ -1847,7 +1847,7 @@
       },
       "latest": {
         "confirmed": 1359167,
-        "deaths": 8232,
+        "deaths": 8239,
         "recovered": 0
       }
     },
@@ -1922,34 +1922,34 @@
     "KAZ": {
       "back_1week": {
         "confirmed": 1064365,
-        "deaths": 18064,
+        "deaths": 18078,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1060125,
-        "deaths": 17958,
+        "deaths": 17972,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1067811,
-        "deaths": 18137,
+        "deaths": 18145,
         "recovered": 0
       }
     },
     "KEN": {
       "back_1week": {
-        "confirmed": 256815,
-        "deaths": 5349,
+        "confirmed": 257614,
+        "deaths": 5350,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 255544,
+        "confirmed": 255652,
         "deaths": 5337,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 267571,
-        "deaths": 5354,
+        "confirmed": 270899,
+        "deaths": 5355,
         "recovered": 0
       }
     },

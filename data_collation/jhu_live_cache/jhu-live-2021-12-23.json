@@ -85,13 +85,6 @@
           "deaths": 0
         }
       },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 175108,
-          "date": "2021-12-23",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 243879,
@@ -347,7 +340,7 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 501697,
+          "confirmed": 511094,
           "date": "2021-12-23",
           "deaths": 11658
         }
@@ -506,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 986897,
+          "confirmed": 991853,
           "date": "2021-12-23",
-          "deaths": 12726
+          "deaths": 12754
         }
       },
       "Bayern": {
@@ -806,9 +799,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1360091,
+      "confirmed": 1360880,
       "date": "2021-12-23",
-      "deaths": 8239
+      "deaths": 8241
     }
   },
   "Italy": {
@@ -907,14 +900,14 @@
     "live": {
       "confirmed": 1068363,
       "date": "2021-12-23",
-      "deaths": 18145
+      "deaths": 18160
     }
   },
   "Kenya": {
     "live": {
-      "confirmed": 270899,
+      "confirmed": 274645,
       "date": "2021-12-23",
-      "deaths": 5355
+      "deaths": 5356
     }
   },
   "Korea, South": {
@@ -1513,9 +1506,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 355858,
+          "confirmed": 356965,
           "date": "2021-12-23",
-          "deaths": 6413
+          "deaths": 6415
         }
       },
       "New York": {
@@ -1558,6 +1551,13 @@
           "confirmed": 182765,
           "date": "2021-12-23",
           "deaths": 2127
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 175224,
+          "date": "2021-12-23",
+          "deaths": 1777
         }
       }
     }
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 467391,
+      "confirmed": 467682,
       "date": "2021-12-23",
-      "deaths": 4882
+      "deaths": 4884
     }
   },
   "Zambia": {
