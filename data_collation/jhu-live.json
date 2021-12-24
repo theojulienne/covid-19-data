@@ -66,42 +66,49 @@
     "subseries": {
       "Antwerp": {
         "live": {
-          "confirmed": 292889,
+          "confirmed": 293741,
           "date": "2021-12-24",
           "deaths": 0
         }
       },
       "Brussels": {
         "live": {
-          "confirmed": 236108,
+          "confirmed": 237264,
           "date": "2021-12-24",
           "deaths": 0
         }
       },
       "East Flanders": {
         "live": {
-          "confirmed": 251313,
+          "confirmed": 252300,
+          "date": "2021-12-24",
+          "deaths": 0
+        }
+      },
+      "Flemish Brabant": {
+        "live": {
+          "confirmed": 175885,
           "date": "2021-12-24",
           "deaths": 0
         }
       },
       "Hainaut": {
         "live": {
-          "confirmed": 243879,
+          "confirmed": 244860,
           "date": "2021-12-24",
           "deaths": 0
         }
       },
       "Liege": {
         "live": {
-          "confirmed": 219381,
+          "confirmed": 220059,
           "date": "2021-12-24",
           "deaths": 0
         }
       },
       "West Flanders": {
         "live": {
-          "confirmed": 209231,
+          "confirmed": 209904,
           "date": "2021-12-24",
           "deaths": 0
         }
@@ -898,7 +905,7 @@
   },
   "Kazakhstan": {
     "live": {
-      "confirmed": 1068363,
+      "confirmed": 1068899,
       "date": "2021-12-24",
       "deaths": 18160
     }
@@ -1143,21 +1150,21 @@
     "subseries": {
       "Khyber Pakhtunkhwa": {
         "live": {
-          "confirmed": 181088,
+          "confirmed": 181121,
           "date": "2021-12-24",
-          "deaths": 5916
+          "deaths": 5919
         }
       },
       "Punjab": {
         "live": {
-          "confirmed": 444380,
+          "confirmed": 444438,
           "date": "2021-12-24",
-          "deaths": 13061
+          "deaths": 13062
         }
       },
       "Sindh": {
         "live": {
-          "confirmed": 479890,
+          "confirmed": 480077,
           "date": "2021-12-24",
           "deaths": 7658
         }
@@ -1166,9 +1173,9 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 484793,
+      "confirmed": 485512,
       "date": "2021-12-24",
-      "deaths": 7405
+      "deaths": 7406
     }
   },
   "Paraguay": {
@@ -1429,7 +1436,7 @@
     "live": {
       "confirmed": 1227395,
       "date": "2021-12-24",
-      "deaths": 12056
+      "deaths": 12057
     }
   },
   "Thailand": {
@@ -1551,13 +1558,6 @@
           "confirmed": 184473,
           "date": "2021-12-24",
           "deaths": 2134
-        }
-      },
-      "Wisconsin": {
-        "live": {
-          "confirmed": 175224,
-          "date": "2021-12-24",
-          "deaths": 1777
         }
       }
     }
