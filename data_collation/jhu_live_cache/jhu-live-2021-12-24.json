@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 234958,
+      "confirmed": 235668,
       "date": "2021-12-24",
-      "deaths": 1899
+      "deaths": 1907
     }
   },
   "Ethiopia": {
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1360912,
+      "confirmed": 1361879,
       "date": "2021-12-24",
       "deaths": 8241
     }
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2012582,
+          "confirmed": 2014708,
           "date": "2021-12-24",
-          "deaths": 36202
+          "deaths": 36277
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 630472,
+          "confirmed": 631742,
           "date": "2021-12-24",
-          "deaths": 11701
+          "deaths": 11758
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 228373,
+          "confirmed": 228832,
           "date": "2021-12-24",
-          "deaths": 9597
+          "deaths": 9625
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 190062,
+          "confirmed": 190614,
           "date": "2021-12-24",
-          "deaths": 9419
+          "deaths": 9443
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 837645,
+          "confirmed": 839762,
           "date": "2021-12-24",
-          "deaths": 27574
+          "deaths": 27629
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 196360,
+          "confirmed": 196897,
           "date": "2021-12-24",
-          "deaths": 6131
+          "deaths": 6150
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 194252,
+          "confirmed": 194828,
           "date": "2021-12-24",
-          "deaths": 9182
+          "deaths": 9210
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 191276,
+          "confirmed": 191685,
           "date": "2021-12-24",
-          "deaths": 6681
+          "deaths": 6720
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1227395,
       "date": "2021-12-24",
-      "deaths": 12058
+      "deaths": 12061
     }
   },
   "Thailand": {
@@ -1566,51 +1566,51 @@
     "subseries": {
       "Dnipropetrovsk Oblast": {
         "live": {
-          "confirmed": 240883,
+          "confirmed": 241095,
           "date": "2021-12-24",
-          "deaths": 8707
+          "deaths": 8732
         }
       },
       "Kharkiv Oblast": {
         "live": {
-          "confirmed": 241763,
+          "confirmed": 241955,
           "date": "2021-12-24",
-          "deaths": 6231
+          "deaths": 6244
         }
       },
       "Kiev": {
         "live": {
-          "confirmed": 325257,
+          "confirmed": 326491,
           "date": "2021-12-24",
-          "deaths": 8069
+          "deaths": 8084
         }
       },
       "Kiev Oblast": {
         "live": {
-          "confirmed": 183400,
+          "confirmed": 183778,
           "date": "2021-12-24",
-          "deaths": 4588
+          "deaths": 4601
         }
       },
       "Lviv Oblast": {
         "live": {
-          "confirmed": 218027,
+          "confirmed": 218419,
           "date": "2021-12-24",
-          "deaths": 5900
+          "deaths": 5915
         }
       },
       "Odessa Oblast": {
         "live": {
-          "confirmed": 237820,
+          "confirmed": 237962,
           "date": "2021-12-24",
-          "deaths": 5488
+          "deaths": 5501
         }
       },
       "Zaporizhia Oblast": {
         "live": {
-          "confirmed": 180858,
+          "confirmed": 181189,
           "date": "2021-12-24",
-          "deaths": 5105
+          "deaths": 5123
         }
       }
     }

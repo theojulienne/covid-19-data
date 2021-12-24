@@ -1246,18 +1246,18 @@
     },
     "EST": {
       "back_1week": {
-        "confirmed": 229869,
+        "confirmed": 230514,
         "deaths": 1869,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 226304,
-        "deaths": 1836,
+        "confirmed": 226858,
+        "deaths": 1838,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 234092,
-        "deaths": 1895,
+        "confirmed": 234958,
+        "deaths": 1899,
         "recovered": 0
       }
     },
@@ -1836,17 +1836,17 @@
     },
     "ISR": {
       "back_1week": {
-        "confirmed": 1352403,
+        "confirmed": 1353281,
         "deaths": 8227,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 1348229,
+        "confirmed": 1348800,
         "deaths": 8210,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 1359167,
+        "confirmed": 1360912,
         "deaths": 8239,
         "recovered": 0
       }
