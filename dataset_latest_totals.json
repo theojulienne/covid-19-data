@@ -1955,13 +1955,13 @@
     },
     "KGZ": {
       "back_1week": {
-        "confirmed": 184055,
-        "deaths": 2775,
+        "confirmed": 184094,
+        "deaths": 2777,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 183744,
-        "deaths": 2762,
+        "confirmed": 183810,
+        "deaths": 2764,
         "recovered": 0
       },
       "latest": {
@@ -3276,18 +3276,18 @@
     },
     "THA": {
       "back_1week": {
-        "confirmed": 2178276,
-        "deaths": 21260,
+        "confirmed": 2185497,
+        "deaths": 21327,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 2156587,
-        "deaths": 21084,
+        "confirmed": 2160780,
+        "deaths": 21112,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 2199061,
-        "deaths": 21471,
+        "confirmed": 2202001,
+        "deaths": 21501,
         "recovered": 0
       }
     },
@@ -3831,18 +3831,18 @@
     },
     "UZB": {
       "back_1week": {
-        "confirmed": 196303,
-        "deaths": 1445,
+        "confirmed": 196522,
+        "deaths": 1449,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 194904,
-        "deaths": 1425,
+        "confirmed": 195098,
+        "deaths": 1428,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 197566,
-        "deaths": 1468,
+        "confirmed": 197753,
+        "deaths": 1471,
         "recovered": 0
       }
     },
@@ -3882,18 +3882,18 @@
     },
     "VEN": {
       "back_1week": {
-        "confirmed": 439444,
-        "deaths": 5250,
+        "confirmed": 439935,
+        "deaths": 5258,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 435825,
-        "deaths": 5208,
+        "confirmed": 436602,
+        "deaths": 5223,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 442178,
-        "deaths": 5299,
+        "confirmed": 442431,
+        "deaths": 5306,
         "recovered": 0
       }
     },
