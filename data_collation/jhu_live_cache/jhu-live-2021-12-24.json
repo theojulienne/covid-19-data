@@ -364,42 +364,42 @@
         "live": {
           "confirmed": 781141,
           "date": "2021-12-24",
-          "deaths": 16825
+          "deaths": 16839
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 341887,
           "date": "2021-12-24",
-          "deaths": 9734
+          "deaths": 9739
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1471253,
           "date": "2021-12-24",
-          "deaths": 27686
+          "deaths": 27689
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 267143,
           "date": "2021-12-24",
-          "deaths": 6855
+          "deaths": 6856
         }
       },
       "Santander": {
         "live": {
           "confirmed": 234422,
           "date": "2021-12-24",
-          "deaths": 7505
+          "deaths": 7509
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 421645,
           "date": "2021-12-24",
-          "deaths": 13280
+          "deaths": 13286
         }
       }
     }
@@ -1113,7 +1113,7 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 231413,
+      "confirmed": 233353,
       "date": "2021-12-24",
       "deaths": 2991
     }
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 276720,
+      "confirmed": 277042,
       "date": "2021-12-24",
-      "deaths": 818
+      "deaths": 820
     }
   },
   "Slovakia": {
@@ -1457,9 +1457,9 @@
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 846298,
+          "confirmed": 848132,
           "date": "2021-12-24",
-          "deaths": 13482
+          "deaths": 13492
         }
       },
       "California": {
@@ -1698,9 +1698,9 @@
   },
   "Zimbabwe": {
     "live": {
-      "confirmed": 199404,
+      "confirmed": 201344,
       "date": "2021-12-24",
-      "deaths": 4828
+      "deaths": 4855
     }
   }
 }
