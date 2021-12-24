@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 750129,
+          "confirmed": 750489,
           "date": "2021-12-24",
-          "deaths": 19893
+          "deaths": 19904
         }
       }
     }
@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1056583,
+      "confirmed": 1064243,
       "date": "2021-12-24",
-      "deaths": 20198
+      "deaths": 20292
     }
   },
   "Guatemala": {
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1253094,
+      "confirmed": 1266037,
       "date": "2021-12-24",
-      "deaths": 18840
+      "deaths": 18851
     }
   },
   "Qatar": {
