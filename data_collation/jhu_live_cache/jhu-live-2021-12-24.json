@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 686590,
+      "confirmed": 689831,
       "date": "2021-12-24",
-      "deaths": 12179
+      "deaths": 12232
     }
   },
   "Cuba": {
@@ -785,9 +785,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6179817,
+      "confirmed": 6181784,
       "date": "2021-12-24",
-      "deaths": 131262
+      "deaths": 131306
     }
   },
   "Iraq": {
@@ -1293,9 +1293,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 551749,
+      "confirmed": 552081,
       "date": "2021-12-24",
-      "deaths": 8868
+      "deaths": 8869
     }
   },
   "Serbia": {
@@ -1677,9 +1677,9 @@
   },
   "Vietnam": {
     "live": {
-      "confirmed": 1604712,
+      "confirmed": 1620869,
       "date": "2021-12-24",
-      "deaths": 30531
+      "deaths": 30766
     }
   },
   "West Bank and Gaza": {
@@ -1691,9 +1691,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 225260,
+      "confirmed": 228932,
       "date": "2021-12-24",
-      "deaths": 3688
+      "deaths": 3691
     }
   },
   "Zimbabwe": {
