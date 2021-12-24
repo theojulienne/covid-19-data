@@ -124,9 +124,9 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 286792,
+      "confirmed": 287276,
       "date": "2021-12-24",
-      "deaths": 13243
+      "deaths": 13269
     }
   },
   "Botswana": {
@@ -427,7 +427,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964406,
+      "confirmed": 964482,
       "date": "2021-12-24",
       "deaths": 8317
     }
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 412685,
+      "confirmed": 413191,
       "date": "2021-12-24",
-      "deaths": 4228
+      "deaths": 4234
     }
   },
   "Ecuador": {
@@ -506,9 +506,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 991881,
+          "confirmed": 995277,
           "date": "2021-12-24",
-          "deaths": 12754
+          "deaths": 12781
         }
       },
       "Bayern": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 241884,
+          "confirmed": 242280,
           "date": "2021-12-24",
-          "deaths": 3837
+          "deaths": 3843
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 239187,
+          "confirmed": 239355,
           "date": "2021-12-24",
-          "deaths": 2770
+          "deaths": 2771
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252129,
+          "confirmed": 252148,
           "date": "2021-12-24",
           "deaths": 1614
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 780188,
+          "confirmed": 781036,
           "date": "2021-12-24",
-          "deaths": 9907
+          "deaths": 9910
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 209346,
+          "confirmed": 209546,
           "date": "2021-12-24",
-          "deaths": 2658
+          "deaths": 2659
         }
       }
     }
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 954199,
+      "confirmed": 954853,
       "date": "2021-12-24",
-      "deaths": 14823
+      "deaths": 14825
     }
   },
   "Nepal": {
