@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 215723,
+      "confirmed": 216098,
       "date": "2021-12-24",
-      "deaths": 6213
+      "deaths": 6222
     }
   },
   "Argentina": {
@@ -333,9 +333,9 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 685644,
+          "confirmed": 689716,
           "date": "2021-12-24",
-          "deaths": 10197
+          "deaths": 10199
         }
       },
       "Quebec": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 414591,
+      "confirmed": 414761,
       "date": "2021-12-24",
       "deaths": 2467
     }
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 707123,
+      "confirmed": 709242,
       "date": "2021-12-24",
-      "deaths": 8996
+      "deaths": 9012
     }
   },
   "Libya": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3150237,
+          "confirmed": 3160163,
           "date": "2021-12-24",
-          "deaths": 49331
+          "deaths": 49352
         }
       },
       "Florida": {
@@ -1515,7 +1515,7 @@
         "live": {
           "confirmed": 1747498,
           "date": "2021-12-24",
-          "deaths": 40287
+          "deaths": 40298
         }
       },
       "Ohio": {
