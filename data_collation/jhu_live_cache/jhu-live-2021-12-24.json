@@ -57,9 +57,9 @@
   },
   "Belarus": {
     "live": {
-      "confirmed": 689151,
+      "confirmed": 691072,
       "date": "2021-12-24",
-      "deaths": 5449
+      "deaths": 5466
     }
   },
   "Belgium": {
@@ -555,9 +555,9 @@
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 272334,
+          "confirmed": 272950,
           "date": "2021-12-24",
-          "deaths": 4565
+          "deaths": 4570
         }
       },
       "Sachsen": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 270158,
+      "confirmed": 271106,
       "date": "2021-12-24",
-      "deaths": 4489
+      "deaths": 4494
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 384005,
+      "confirmed": 384663,
       "date": "2021-12-24",
-      "deaths": 5635
+      "deaths": 5641
     }
   },
   "Lithuania": {
@@ -1226,9 +1226,9 @@
   },
   "Romania": {
     "live": {
-      "confirmed": 1801081,
+      "confirmed": 1801798,
       "date": "2021-12-24",
-      "deaths": 58463
+      "deaths": 58507
     }
   },
   "Russia": {
