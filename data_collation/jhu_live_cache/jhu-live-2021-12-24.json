@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 206935,
+      "confirmed": 207221,
       "date": "2021-12-24",
-      "deaths": 3181
+      "deaths": 3187
     }
   },
   "Algeria": {
@@ -81,13 +81,6 @@
       "East Flanders": {
         "live": {
           "confirmed": 252300,
-          "date": "2021-12-24",
-          "deaths": 0
-        }
-      },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 175885,
           "date": "2021-12-24",
           "deaths": 0
         }
@@ -347,9 +340,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 511094,
+          "confirmed": 521125,
           "date": "2021-12-24",
-          "deaths": 11658
+          "deaths": 11660
         }
       }
     }
@@ -1455,9 +1448,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9249576,
+      "confirmed": 9268486,
       "date": "2021-12-24",
-      "deaths": 81125
+      "deaths": 81258
     }
   },
   "US": {
@@ -1527,9 +1520,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 399672,
+          "confirmed": 404971,
           "date": "2021-12-24",
-          "deaths": 4642
+          "deaths": 4718
         }
       },
       "Pennsylvania": {
@@ -1558,6 +1551,13 @@
           "confirmed": 184473,
           "date": "2021-12-24",
           "deaths": 2134
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 176384,
+          "date": "2021-12-24",
+          "deaths": 1785
         }
       }
     }
