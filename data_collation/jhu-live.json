@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1582368,
+      "confirmed": 1582710,
       "date": "2021-12-24",
-      "deaths": 28054
+      "deaths": 28055
     }
   },
   "Belarus": {
@@ -513,9 +513,9 @@
       },
       "Bayern": {
         "live": {
-          "confirmed": 1302924,
+          "confirmed": 1303045,
           "date": "2021-12-24",
-          "deaths": 19360
+          "deaths": 19359
         }
       },
       "Berlin": {
@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 636448,
+          "confirmed": 638555,
           "date": "2021-12-24",
-          "deaths": 12549
+          "deaths": 12589
         }
       },
       "Sachsen-Anhalt": {
@@ -792,21 +792,21 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2091834,
+      "confirmed": 2092156,
       "date": "2021-12-24",
-      "deaths": 24108
+      "deaths": 24115
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 680375,
+      "confirmed": 691557,
       "date": "2021-12-24",
       "deaths": 5890
     }
   },
   "Israel": {
     "live": {
-      "confirmed": 1361879,
+      "confirmed": 1362263,
       "date": "2021-12-24",
       "deaths": 8241
     }
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 274645,
+      "confirmed": 277609,
       "date": "2021-12-24",
-      "deaths": 5356
+      "deaths": 5357
     }
   },
   "Korea, South": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2837903,
+      "confirmed": 2838032,
       "date": "2021-12-24",
-      "deaths": 50981
+      "deaths": 51050
     }
   },
   "Poland": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 247269,
+      "confirmed": 247517,
       "date": "2021-12-24",
       "deaths": 614
     }
