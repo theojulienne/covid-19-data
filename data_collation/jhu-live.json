@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 613618,
+      "confirmed": 614119,
       "date": "2021-12-25",
-      "deaths": 8269
+      "deaths": 8284
     }
   },
   "Bahrain": {
@@ -317,9 +317,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 529327,
+      "confirmed": 529503,
       "date": "2021-12-25",
-      "deaths": 19248
+      "deaths": 19251
     }
   },
   "Canada": {
@@ -1069,51 +1069,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 347713,
+          "confirmed": 349269,
           "date": "2021-12-25",
-          "deaths": 2549
+          "deaths": 2557
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 224945,
+          "confirmed": 225688,
           "date": "2021-12-25",
-          "deaths": 2025
+          "deaths": 2029
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 466702,
+          "confirmed": 468519,
           "date": "2021-12-25",
-          "deaths": 3516
+          "deaths": 3518
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 499027,
+          "confirmed": 501143,
           "date": "2021-12-25",
-          "deaths": 3053
+          "deaths": 3070
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 196310,
+          "confirmed": 197135,
           "date": "2021-12-25",
           "deaths": 1325
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 238557,
+          "confirmed": 239772,
           "date": "2021-12-25",
-          "deaths": 1446
+          "deaths": 1447
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 691001,
+          "confirmed": 693636,
           "date": "2021-12-25",
-          "deaths": 4818
+          "deaths": 4828
         }
       }
     }
@@ -1300,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1288395,
+      "confirmed": 1289493,
       "date": "2021-12-25",
-      "deaths": 12544
+      "deaths": 12568
     }
   },
   "Singapore": {
@@ -1402,9 +1402,9 @@
   },
   "Sri Lanka": {
     "live": {
-      "confirmed": 582722,
+      "confirmed": 583251,
       "date": "2021-12-25",
-      "deaths": 14852
+      "deaths": 14871
     }
   },
   "Sweden": {
