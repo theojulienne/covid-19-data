@@ -778,9 +778,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4261412,
+      "confirmed": 4261667,
       "date": "2021-12-25",
-      "deaths": 144047
+      "deaths": 144053
     }
   },
   "Iran": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 826901,
+      "confirmed": 827058,
       "date": "2021-12-25",
-      "deaths": 11582
+      "deaths": 11583
     }
   },
   "Netherlands": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1347874,
+      "confirmed": 1349146,
       "date": "2021-12-25",
-      "deaths": 16290
+      "deaths": 16336
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 454298,
+      "confirmed": 455386,
       "date": "2021-12-25",
-      "deaths": 5529
+      "deaths": 5535
     }
   },
   "South Africa": {
@@ -1691,9 +1691,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 228932,
+      "confirmed": 231581,
       "date": "2021-12-25",
-      "deaths": 3691
+      "deaths": 3697
     }
   },
   "Zimbabwe": {
