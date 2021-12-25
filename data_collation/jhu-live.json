@@ -562,9 +562,9 @@
       },
       "Sachsen": {
         "live": {
-          "confirmed": 638562,
+          "confirmed": 639608,
           "date": "2021-12-25",
-          "deaths": 12591
+          "deaths": 12627
         }
       },
       "Sachsen-Anhalt": {
@@ -792,9 +792,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2092156,
+      "confirmed": 2092312,
       "date": "2021-12-25",
-      "deaths": 24115
+      "deaths": 24122
     }
   },
   "Ireland": {
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 277609,
+      "confirmed": 281358,
       "date": "2021-12-25",
-      "deaths": 5357
+      "deaths": 5359
     }
   },
   "Korea, South": {
