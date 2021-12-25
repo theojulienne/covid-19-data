@@ -434,9 +434,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 2406989,
+      "confirmed": 2444648,
       "date": "2021-12-25",
-      "deaths": 35288
+      "deaths": 35692
     }
   },
   "Denmark": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 954853,
+      "confirmed": 955587,
       "date": "2021-12-25",
-      "deaths": 14825
+      "deaths": 14827
     }
   },
   "Nepal": {
@@ -1219,7 +1219,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 247517,
+      "confirmed": 247796,
       "date": "2021-12-25",
       "deaths": 614
     }
