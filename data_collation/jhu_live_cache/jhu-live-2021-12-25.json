@@ -1,16 +1,16 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 207221,
+      "confirmed": 207542,
       "date": "2021-12-25",
-      "deaths": 3187
+      "deaths": 3189
     }
   },
   "Algeria": {
     "live": {
-      "confirmed": 216098,
+      "confirmed": 216376,
       "date": "2021-12-25",
-      "deaths": 6222
+      "deaths": 6229
     }
   },
   "Argentina": {
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 413191,
+      "confirmed": 413887,
       "date": "2021-12-25",
-      "deaths": 4234
+      "deaths": 4237
     }
   },
   "Ecuador": {
