@@ -572,17 +572,17 @@
     "CAN": {
       "back_1week": {
         "confirmed": 1876618,
-        "deaths": 30065,
+        "deaths": 30087,
         "recovered": 0
       },
       "back_2week": {
         "confirmed": 1834569,
-        "deaths": 29930,
+        "deaths": 29953,
         "recovered": 0
       },
       "latest": {
         "confirmed": 1978590,
-        "deaths": 30185,
+        "deaths": 30199,
         "recovered": 0
       },
       "states": {
@@ -635,8 +635,8 @@
           "deaths": 0
         },
         "Quebec": {
-          "confirmed": 511094,
-          "deaths": 11658
+          "confirmed": 521125,
+          "deaths": 11660
         },
         "Repatriated Travellers": {
           "confirmed": 13,
