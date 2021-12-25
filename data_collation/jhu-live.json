@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 750489,
+          "confirmed": 750878,
           "date": "2021-12-25",
-          "deaths": 19904
+          "deaths": 19912
         }
       }
     }
@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1064243,
+      "confirmed": 1070833,
       "date": "2021-12-25",
-      "deaths": 20292
+      "deaths": 20350
     }
   },
   "Guatemala": {
@@ -882,16 +882,16 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203485,
+          "confirmed": 203507,
           "date": "2021-12-25",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382718,
+          "confirmed": 382756,
           "date": "2021-12-25",
-          "deaths": 3173
+          "deaths": 3174
         }
       }
     }
