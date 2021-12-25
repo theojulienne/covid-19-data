@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 920617,
+      "confirmed": 922707,
       "date": "2021-12-25",
-      "deaths": 13367
+      "deaths": 13443
     }
   },
   "Germany": {
@@ -520,7 +520,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 320006,
+          "confirmed": 320007,
           "date": "2021-12-25",
           "deaths": 3988
         }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 509497,
+      "confirmed": 510752,
       "date": "2021-12-25",
-      "deaths": 7249
+      "deaths": 7265
     }
   },
   "Malaysia": {
