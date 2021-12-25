@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2014708,
+          "confirmed": 2017422,
           "date": "2021-12-25",
-          "deaths": 36277
+          "deaths": 36349
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 631742,
+          "confirmed": 633173,
           "date": "2021-12-25",
-          "deaths": 11758
+          "deaths": 11813
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 228832,
+          "confirmed": 229324,
           "date": "2021-12-25",
-          "deaths": 9625
+          "deaths": 9652
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 190614,
+          "confirmed": 191144,
           "date": "2021-12-25",
-          "deaths": 9443
+          "deaths": 9466
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 839762,
+          "confirmed": 841834,
           "date": "2021-12-25",
-          "deaths": 27629
+          "deaths": 27681
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 196897,
+          "confirmed": 197413,
           "date": "2021-12-25",
-          "deaths": 6150
+          "deaths": 6168
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 194828,
+          "confirmed": 195399,
           "date": "2021-12-25",
-          "deaths": 9210
+          "deaths": 9239
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 191685,
+          "confirmed": 192088,
           "date": "2021-12-25",
-          "deaths": 6720
+          "deaths": 6752
         }
       }
     }
