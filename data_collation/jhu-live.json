@@ -364,42 +364,42 @@
         "live": {
           "confirmed": 781677,
           "date": "2021-12-25",
-          "deaths": 16839
+          "deaths": 16847
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 342062,
           "date": "2021-12-25",
-          "deaths": 9739
+          "deaths": 9741
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1472243,
           "date": "2021-12-25",
-          "deaths": 27689
+          "deaths": 27695
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 267226,
           "date": "2021-12-25",
-          "deaths": 6856
+          "deaths": 6857
         }
       },
       "Santander": {
         "live": {
           "confirmed": 234500,
           "date": "2021-12-25",
-          "deaths": 7509
+          "deaths": 7510
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 422284,
           "date": "2021-12-25",
-          "deaths": 13286
+          "deaths": 13289
         }
       }
     }
