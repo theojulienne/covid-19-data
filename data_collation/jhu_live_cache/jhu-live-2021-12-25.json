@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 279277,
+      "confirmed": 279518,
       "date": "2021-12-25",
       "deaths": 1394
     }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 390737,
+      "confirmed": 395750,
       "date": "2021-12-25",
-      "deaths": 6888
+      "deaths": 6894
     }
   },
   "Finland": {
@@ -592,9 +592,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 625029,
+      "confirmed": 625127,
       "date": "2021-12-25",
-      "deaths": 16095
+      "deaths": 16096
     }
   },
   "Honduras": {
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1363570,
+      "confirmed": 1363718,
       "date": "2021-12-25",
       "deaths": 8241
     }
@@ -926,9 +926,9 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 414761,
+      "confirmed": 414911,
       "date": "2021-12-25",
-      "deaths": 2467
+      "deaths": 2468
     }
   },
   "Kyrgyzstan": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 709242,
+      "confirmed": 711259,
       "date": "2021-12-25",
-      "deaths": 9012
+      "deaths": 9027
     }
   },
   "Libya": {
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 242280,
+          "confirmed": 242696,
           "date": "2021-12-25",
-          "deaths": 3843
+          "deaths": 3846
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 239355,
+          "confirmed": 239482,
           "date": "2021-12-25",
           "deaths": 2771
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252148,
+          "confirmed": 252175,
           "date": "2021-12-25",
           "deaths": 1614
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 781036,
+          "confirmed": 781838,
           "date": "2021-12-25",
-          "deaths": 9910
+          "deaths": 9916
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 209546,
+          "confirmed": 209705,
           "date": "2021-12-25",
-          "deaths": 2659
+          "deaths": 2661
         }
       }
     }
