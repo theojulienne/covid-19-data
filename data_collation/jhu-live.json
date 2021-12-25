@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 689716,
+          "confirmed": 689819,
           "date": "2021-12-25",
           "deaths": 10199
         }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964482,
+      "confirmed": 964607,
       "date": "2021-12-25",
-      "deaths": 8317
+      "deaths": 8320
     }
   },
   "Czechia": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8779840,
+      "confirmed": 8884451,
       "date": "2021-12-25",
-      "deaths": 119940
+      "deaths": 120024
     }
   },
   "Georgia": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 374120,
+      "confirmed": 374349,
       "date": "2021-12-25",
-      "deaths": 9589
+      "deaths": 9605
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 222666,
+      "confirmed": 222932,
       "date": "2021-12-25",
-      "deaths": 7879
+      "deaths": 7894
     }
   },
   "Norway": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3393109,
+      "confirmed": 3407937,
       "date": "2021-12-25",
-      "deaths": 90743
+      "deaths": 90773
     }
   },
   "Spain": {
