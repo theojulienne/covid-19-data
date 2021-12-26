@@ -506,37 +506,37 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 995305,
+          "confirmed": 995983,
           "date": "2021-12-26",
-          "deaths": 12781
+          "deaths": 12784
         }
       },
       "Bayern": {
         "live": {
-          "confirmed": 1306151,
+          "confirmed": 1308233,
           "date": "2021-12-26",
-          "deaths": 19378
+          "deaths": 19392
         }
       },
       "Berlin": {
         "live": {
-          "confirmed": 320007,
+          "confirmed": 320058,
           "date": "2021-12-26",
           "deaths": 3988
         }
       },
       "Brandenburg": {
         "live": {
-          "confirmed": 234917,
+          "confirmed": 235398,
           "date": "2021-12-26",
-          "deaths": 4584
+          "deaths": 4593
         }
       },
       "Hessen": {
         "live": {
-          "confirmed": 468934,
+          "confirmed": 469661,
           "date": "2021-12-26",
-          "deaths": 8502
+          "deaths": 8503
         }
       },
       "Niedersachsen": {
@@ -548,37 +548,37 @@
       },
       "Nordrhein-Westfalen": {
         "live": {
-          "confirmed": 1350039,
+          "confirmed": 1351905,
           "date": "2021-12-26",
-          "deaths": 20096
+          "deaths": 20102
         }
       },
       "Rheinland-Pfalz": {
         "live": {
-          "confirmed": 273296,
+          "confirmed": 273309,
           "date": "2021-12-26",
           "deaths": 4572
         }
       },
       "Sachsen": {
         "live": {
-          "confirmed": 639608,
+          "confirmed": 639614,
           "date": "2021-12-26",
-          "deaths": 12627
+          "deaths": 12629
         }
       },
       "Sachsen-Anhalt": {
         "live": {
-          "confirmed": 219350,
+          "confirmed": 219918,
           "date": "2021-12-26",
-          "deaths": 4191
+          "deaths": 4193
         }
       },
       "Thuringen": {
         "live": {
-          "confirmed": 281778,
+          "confirmed": 282207,
           "date": "2021-12-26",
-          "deaths": 5740
+          "deaths": 5742
         }
       }
     }
@@ -1009,30 +1009,30 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 994441,
+          "confirmed": 995069,
           "date": "2021-12-26",
-          "deaths": 40308
+          "deaths": 40311
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 201896,
+          "confirmed": 202131,
           "date": "2021-12-26",
-          "deaths": 13363
+          "deaths": 13368
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 382071,
+          "confirmed": 382264,
           "date": "2021-12-26",
-          "deaths": 44810
+          "deaths": 44815
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 208806,
+          "confirmed": 208891,
           "date": "2021-12-26",
-          "deaths": 13709
+          "deaths": 13714
         }
       }
     }
@@ -1307,9 +1307,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 277307,
+      "confirmed": 277555,
       "date": "2021-12-26",
-      "deaths": 820
+      "deaths": 821
     }
   },
   "Slovakia": {
