@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 216376,
+      "confirmed": 216637,
       "date": "2021-12-26",
-      "deaths": 6229
+      "deaths": 6238
     }
   },
   "Argentina": {
@@ -182,9 +182,9 @@
       },
       "Goias": {
         "live": {
-          "confirmed": 944786,
+          "confirmed": 944714,
           "date": "2021-12-26",
-          "deaths": 24653
+          "deaths": 24673
         }
       },
       "Maranhao": {
@@ -448,9 +448,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 413887,
+      "confirmed": 414226,
       "date": "2021-12-26",
-      "deaths": 4237
+      "deaths": 4238
     }
   },
   "Ecuador": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 222932,
+      "confirmed": 223211,
       "date": "2021-12-26",
-      "deaths": 7894
+      "deaths": 7904
     }
   },
   "Norway": {
@@ -1219,9 +1219,9 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 247796,
+      "confirmed": 248092,
       "date": "2021-12-26",
-      "deaths": 614
+      "deaths": 615
     }
   },
   "Romania": {
@@ -1527,7 +1527,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 404971,
+          "confirmed": 412649,
           "date": "2021-12-26",
           "deaths": 4718
         }
