@@ -347,9 +347,9 @@
       },
       "Quebec": {
         "live": {
-          "confirmed": 530331,
+          "confirmed": 538205,
           "date": "2021-12-26",
-          "deaths": 11664
+          "deaths": 11667
         }
       }
     }
@@ -476,9 +476,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 395750,
+      "confirmed": 398696,
       "date": "2021-12-26",
-      "deaths": 6894
+      "deaths": 6898
     }
   },
   "Finland": {
@@ -912,9 +912,9 @@
   },
   "Kenya": {
     "live": {
-      "confirmed": 281358,
+      "confirmed": 282554,
       "date": "2021-12-26",
-      "deaths": 5359
+      "deaths": 5361
     }
   },
   "Korea, South": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 374349,
+      "confirmed": 374526,
       "date": "2021-12-26",
-      "deaths": 9605
+      "deaths": 9613
     }
   },
   "Mongolia": {
