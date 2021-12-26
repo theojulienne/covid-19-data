@@ -1046,7 +1046,7 @@
   },
   "Mongolia": {
     "live": {
-      "confirmed": 388311,
+      "confirmed": 388515,
       "date": "2021-12-26",
       "deaths": 2054
     }
@@ -1455,18 +1455,18 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9268486,
+      "confirmed": 9288956,
       "date": "2021-12-26",
-      "deaths": 81258
+      "deaths": 81403
     }
   },
   "US": {
     "subseries": {
       "Arizona": {
         "live": {
-          "confirmed": 850653,
+          "confirmed": 853296,
           "date": "2021-12-26",
-          "deaths": 13519
+          "deaths": 13552
         }
       },
       "California": {
@@ -1663,9 +1663,9 @@
   },
   "Uzbekistan": {
     "live": {
-      "confirmed": 198099,
+      "confirmed": 198242,
       "date": "2021-12-26",
-      "deaths": 1477
+      "deaths": 1479
     }
   },
   "Venezuela": {
