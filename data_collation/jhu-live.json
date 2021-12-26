@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 279518,
+      "confirmed": 279805,
       "date": "2021-12-26",
       "deaths": 1394
     }
@@ -592,9 +592,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 625127,
+      "confirmed": 625166,
       "date": "2021-12-26",
-      "deaths": 16096
+      "deaths": 16097
     }
   },
   "Honduras": {
@@ -947,9 +947,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 711259,
+      "confirmed": 712570,
       "date": "2021-12-26",
-      "deaths": 9027
+      "deaths": 9042
     }
   },
   "Libya": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9288956,
+      "confirmed": 9309094,
       "date": "2021-12-26",
-      "deaths": 81403
+      "deaths": 81576
     }
   },
   "US": {
