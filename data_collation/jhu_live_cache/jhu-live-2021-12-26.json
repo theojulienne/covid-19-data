@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 693102,
+      "confirmed": 693253,
       "date": "2021-12-26",
-      "deaths": 12279
+      "deaths": 12325
     }
   },
   "Cuba": {
@@ -792,14 +792,14 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2092312,
+      "confirmed": 2092484,
       "date": "2021-12-26",
-      "deaths": 24122
+      "deaths": 24130
     }
   },
   "Ireland": {
     "live": {
-      "confirmed": 705322,
+      "confirmed": 715726,
       "date": "2021-12-26",
       "deaths": 5890
     }
@@ -1534,7 +1534,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 208609,
+          "confirmed": 208610,
           "date": "2021-12-26",
           "deaths": 4217
         }
