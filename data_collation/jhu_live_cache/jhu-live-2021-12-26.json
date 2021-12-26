@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 344379,
+      "confirmed": 344481,
       "date": "2021-12-26",
-      "deaths": 7942
+      "deaths": 7943
     }
   },
   "Austria": {
@@ -806,9 +806,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1363718,
+      "confirmed": 1364275,
       "date": "2021-12-26",
-      "deaths": 8241
+      "deaths": 8242
     }
   },
   "Italy": {
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 510752,
+      "confirmed": 511580,
       "date": "2021-12-26",
-      "deaths": 7265
+      "deaths": 7287
     }
   },
   "Malaysia": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1227395,
       "date": "2021-12-26",
-      "deaths": 12064
+      "deaths": 12065
     }
   },
   "Thailand": {
