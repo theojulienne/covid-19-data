@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1262836,
+      "confirmed": 1264553,
       "date": "2021-12-26",
-      "deaths": 13626
+      "deaths": 13634
     }
   },
   "Azerbaijan": {
@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 236133,
+      "confirmed": 236565,
       "date": "2021-12-26",
-      "deaths": 1907
+      "deaths": 1909
     }
   },
   "Ethiopia": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 271228,
+      "confirmed": 271431,
       "date": "2021-12-26",
-      "deaths": 4500
+      "deaths": 4503
     }
   },
   "Lebanon": {
@@ -954,9 +954,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 384663,
+      "confirmed": 385398,
       "date": "2021-12-26",
-      "deaths": 5641
+      "deaths": 5651
     }
   },
   "Lithuania": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 827058,
+      "confirmed": 827271,
       "date": "2021-12-26",
-      "deaths": 11583
+      "deaths": 11585
     }
   },
   "Netherlands": {
@@ -1141,9 +1141,9 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 304984,
+      "confirmed": 305105,
       "date": "2021-12-26",
-      "deaths": 4113
+      "deaths": 4114
     }
   },
   "Pakistan": {
@@ -1205,9 +1205,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4043585,
+      "confirmed": 4049838,
       "date": "2021-12-26",
-      "deaths": 94311
+      "deaths": 94327
     }
   },
   "Portugal": {
@@ -1314,16 +1314,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1349146,
+      "confirmed": 1349806,
       "date": "2021-12-26",
-      "deaths": 16336
+      "deaths": 16398
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 455386,
+      "confirmed": 456057,
       "date": "2021-12-26",
-      "deaths": 5535
+      "deaths": 5542
     }
   },
   "South Africa": {
@@ -1691,9 +1691,9 @@
   },
   "Zambia": {
     "live": {
-      "confirmed": 231581,
+      "confirmed": 233120,
       "date": "2021-12-26",
-      "deaths": 3697
+      "deaths": 3702
     }
   },
   "Zimbabwe": {
