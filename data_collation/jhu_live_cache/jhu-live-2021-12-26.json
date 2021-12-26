@@ -371,42 +371,42 @@
         "live": {
           "confirmed": 782270,
           "date": "2021-12-26",
-          "deaths": 16847
+          "deaths": 16858
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 342246,
           "date": "2021-12-26",
-          "deaths": 9741
+          "deaths": 9742
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1473535,
           "date": "2021-12-26",
-          "deaths": 27695
+          "deaths": 27697
         }
       },
       "Cundinamarca": {
         "live": {
           "confirmed": 267312,
           "date": "2021-12-26",
-          "deaths": 6857
+          "deaths": 6858
         }
       },
       "Santander": {
         "live": {
           "confirmed": 234621,
           "date": "2021-12-26",
-          "deaths": 7510
+          "deaths": 7513
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 422919,
           "date": "2021-12-26",
-          "deaths": 13289
+          "deaths": 13299
         }
       }
     }
@@ -599,9 +599,9 @@
   },
   "Honduras": {
     "live": {
-      "confirmed": 378685,
+      "confirmed": 378848,
       "date": "2021-12-26",
-      "deaths": 10423
+      "deaths": 10427
     }
   },
   "Hungary": {
