@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5445236,
+      "confirmed": 5452419,
       "date": "2021-12-25",
-      "deaths": 117008
+      "deaths": 117020
     }
   },
   "Armenia": {
@@ -310,9 +310,9 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 733139,
+      "confirmed": 733882,
       "date": "2021-12-25",
-      "deaths": 30476
+      "deaths": 30528
     }
   },
   "Burma": {
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 722443,
+      "confirmed": 722795,
       "date": "2021-12-25",
-      "deaths": 25516
+      "deaths": 25523
     }
   },
   "Turkey": {
@@ -1656,9 +1656,9 @@
   },
   "Uruguay": {
     "live": {
-      "confirmed": 406739,
+      "confirmed": 407099,
       "date": "2021-12-25",
-      "deaths": 6162
+      "deaths": 6163
     }
   },
   "Uzbekistan": {
