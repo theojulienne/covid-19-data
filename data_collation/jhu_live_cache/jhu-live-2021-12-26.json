@@ -317,9 +317,9 @@
   },
   "Burma": {
     "live": {
-      "confirmed": 529503,
+      "confirmed": 529613,
       "date": "2021-12-26",
-      "deaths": 19251
+      "deaths": 19254
     }
   },
   "Canada": {
@@ -1069,51 +1069,51 @@
     "subseries": {
       "Gelderland": {
         "live": {
-          "confirmed": 349269,
+          "confirmed": 350452,
           "date": "2021-12-26",
           "deaths": 2557
         }
       },
       "Limburg": {
         "live": {
-          "confirmed": 225688,
+          "confirmed": 226357,
           "date": "2021-12-26",
-          "deaths": 2029
+          "deaths": 2030
         }
       },
       "Noord-Brabant": {
         "live": {
-          "confirmed": 468519,
+          "confirmed": 470102,
           "date": "2021-12-26",
-          "deaths": 3518
+          "deaths": 3519
         }
       },
       "Noord-Holland": {
         "live": {
-          "confirmed": 501143,
+          "confirmed": 503643,
           "date": "2021-12-26",
-          "deaths": 3070
+          "deaths": 3071
         }
       },
       "Overijssel": {
         "live": {
-          "confirmed": 197135,
+          "confirmed": 197797,
           "date": "2021-12-26",
           "deaths": 1325
         }
       },
       "Utrecht": {
         "live": {
-          "confirmed": 239772,
+          "confirmed": 240610,
           "date": "2021-12-26",
-          "deaths": 1447
+          "deaths": 1450
         }
       },
       "Zuid-Holland": {
         "live": {
-          "confirmed": 693636,
+          "confirmed": 696460,
           "date": "2021-12-26",
-          "deaths": 4828
+          "deaths": 4830
         }
       }
     }
@@ -1212,9 +1212,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1276053,
+      "confirmed": 1279785,
       "date": "2021-12-26",
-      "deaths": 18861
+      "deaths": 18874
     }
   },
   "Qatar": {
@@ -1300,9 +1300,9 @@
   },
   "Serbia": {
     "live": {
-      "confirmed": 1289493,
+      "confirmed": 1290469,
       "date": "2021-12-26",
-      "deaths": 12568
+      "deaths": 12594
     }
   },
   "Singapore": {
