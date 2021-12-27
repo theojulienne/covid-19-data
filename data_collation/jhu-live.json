@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 694856,
+          "confirmed": 696992,
           "date": "2021-12-27",
           "deaths": 10200
         }
@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 751245,
+          "confirmed": 751497,
           "date": "2021-12-27",
-          "deaths": 19921
+          "deaths": 19927
         }
       }
     }
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 414226,
+      "confirmed": 414704,
       "date": "2021-12-27",
       "deaths": 4238
     }
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8912148,
+      "confirmed": 8942531,
       "date": "2021-12-27",
-      "deaths": 120120
+      "deaths": 120376
     }
   },
   "Georgia": {
@@ -1039,9 +1039,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 374526,
+      "confirmed": 374763,
       "date": "2021-12-27",
-      "deaths": 9613
+      "deaths": 9625
     }
   },
   "Mongolia": {
@@ -1127,9 +1127,9 @@
   },
   "North Macedonia": {
     "live": {
-      "confirmed": 223211,
+      "confirmed": 223330,
       "date": "2021-12-27",
-      "deaths": 7904
+      "deaths": 7907
     }
   },
   "Norway": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3413540,
+      "confirmed": 3417318,
       "date": "2021-12-27",
-      "deaths": 90814
+      "deaths": 90829
     }
   },
   "Spain": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9309094,
+      "confirmed": 9335193,
       "date": "2021-12-27",
-      "deaths": 81576
+      "deaths": 81733
     }
   },
   "US": {
@@ -1471,9 +1471,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3180957,
+          "confirmed": 3187432,
           "date": "2021-12-27",
-          "deaths": 49365
+          "deaths": 49378
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 759614,
+          "confirmed": 789332,
           "date": "2021-12-27",
-          "deaths": 11830
+          "deaths": 11881
         }
       },
       "Massachusetts": {
