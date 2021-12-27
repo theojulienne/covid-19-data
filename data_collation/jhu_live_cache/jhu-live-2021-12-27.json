@@ -85,13 +85,6 @@
           "deaths": 0
         }
       },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 176676,
-          "date": "2021-12-27",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 245703,
@@ -340,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 696992,
+          "confirmed": 697388,
           "date": "2021-12-27",
           "deaths": 10200
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 538205,
+          "confirmed": 546436,
           "date": "2021-12-27",
-          "deaths": 11667
+          "deaths": 11677
         }
       }
     }
@@ -490,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8942531,
+      "confirmed": 8941762,
       "date": "2021-12-27",
-      "deaths": 120376
+      "deaths": 120365
     }
   },
   "Georgia": {
@@ -907,7 +900,7 @@
     "live": {
       "confirmed": 1070215,
       "date": "2021-12-27",
-      "deaths": 18160
+      "deaths": 18190
     }
   },
   "Kenya": {
@@ -1527,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 412649,
+          "confirmed": 415174,
           "date": "2021-12-27",
           "deaths": 4718
         }
@@ -1558,6 +1551,13 @@
           "confirmed": 184473,
           "date": "2021-12-27",
           "deaths": 2134
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 178071,
+          "date": "2021-12-27",
+          "deaths": 1791
         }
       }
     }
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 467682,
+      "confirmed": 468619,
       "date": "2021-12-27",
-      "deaths": 4884
+      "deaths": 4907
     }
   },
   "Zambia": {
