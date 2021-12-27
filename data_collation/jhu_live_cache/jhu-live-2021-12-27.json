@@ -22,9 +22,9 @@
   },
   "Armenia": {
     "live": {
-      "confirmed": 344481,
+      "confirmed": 344540,
       "date": "2021-12-27",
-      "deaths": 7943
+      "deaths": 7950
     }
   },
   "Austria": {
@@ -469,9 +469,9 @@
   },
   "Estonia": {
     "live": {
-      "confirmed": 236565,
+      "confirmed": 237099,
       "date": "2021-12-27",
-      "deaths": 1909
+      "deaths": 1916
     }
   },
   "Ethiopia": {
@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 924368,
+      "confirmed": 925354,
       "date": "2021-12-27",
-      "deaths": 13512
+      "deaths": 13583
     }
   },
   "Germany": {
@@ -520,7 +520,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 320703,
+          "confirmed": 320704,
           "date": "2021-12-27",
           "deaths": 3991
         }
@@ -606,9 +606,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1237330,
+      "confirmed": 1245319,
       "date": "2021-12-27",
-      "deaths": 38307
+      "deaths": 38743
     }
   },
   "India": {
@@ -806,7 +806,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1364959,
+      "confirmed": 1366238,
       "date": "2021-12-27",
       "deaths": 8242
     }
@@ -961,9 +961,9 @@
   },
   "Lithuania": {
     "live": {
-      "confirmed": 511580,
+      "confirmed": 512224,
       "date": "2021-12-27",
-      "deaths": 7287
+      "deaths": 7304
     }
   },
   "Malaysia": {
@@ -1141,7 +1141,7 @@
   },
   "Oman": {
     "live": {
-      "confirmed": 305105,
+      "confirmed": 305174,
       "date": "2021-12-27",
       "deaths": 4114
     }
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2019602,
+          "confirmed": 2021841,
           "date": "2021-12-27",
-          "deaths": 36420
+          "deaths": 36488
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 634738,
+          "confirmed": 636354,
           "date": "2021-12-27",
-          "deaths": 11865
+          "deaths": 11917
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 229712,
+          "confirmed": 230027,
           "date": "2021-12-27",
-          "deaths": 9677
+          "deaths": 9701
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 191662,
+          "confirmed": 192156,
           "date": "2021-12-27",
-          "deaths": 9488
+          "deaths": 9508
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 843685,
+          "confirmed": 845519,
           "date": "2021-12-27",
-          "deaths": 27745
+          "deaths": 27805
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 197911,
+          "confirmed": 198389,
           "date": "2021-12-27",
-          "deaths": 6184
+          "deaths": 6200
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 195963,
+          "confirmed": 196517,
           "date": "2021-12-27",
-          "deaths": 9268
+          "deaths": 9298
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 192487,
+          "confirmed": 192867,
           "date": "2021-12-27",
-          "deaths": 6788
+          "deaths": 6826
         }
       }
     }
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1227395,
       "date": "2021-12-27",
-      "deaths": 12065
+      "deaths": 12068
     }
   },
   "Thailand": {
@@ -1448,9 +1448,9 @@
   },
   "Tunisia": {
     "live": {
-      "confirmed": 722795,
+      "confirmed": 723093,
       "date": "2021-12-27",
-      "deaths": 25523
+      "deaths": 25532
     }
   },
   "Turkey": {
