@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 216637,
+      "confirmed": 216930,
       "date": "2021-12-27",
-      "deaths": 6238
+      "deaths": 6246
     }
   },
   "Argentina": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 398696,
+      "confirmed": 400560,
       "date": "2021-12-27",
-      "deaths": 6898
+      "deaths": 6904
     }
   },
   "Finland": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1367683,
+      "confirmed": 1368005,
       "date": "2021-12-27",
       "deaths": 8242
     }
@@ -1506,7 +1506,7 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 356965,
+          "confirmed": 360268,
           "date": "2021-12-27",
           "deaths": 6415
         }
@@ -1541,9 +1541,9 @@
       },
       "Utah": {
         "live": {
-          "confirmed": 221014,
+          "confirmed": 222912,
           "date": "2021-12-27",
-          "deaths": 1303
+          "deaths": 1308
         }
       },
       "Washington": {
