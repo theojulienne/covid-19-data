@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 692102,
+          "confirmed": 694856,
           "date": "2021-12-27",
           "deaths": 10200
         }
@@ -427,9 +427,9 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964729,
+      "confirmed": 964857,
       "date": "2021-12-27",
-      "deaths": 8320
+      "deaths": 8321
     }
   },
   "Czechia": {
@@ -592,9 +592,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 625166,
+      "confirmed": 625257,
       "date": "2021-12-27",
-      "deaths": 16097
+      "deaths": 16098
     }
   },
   "Honduras": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 195164,
+          "confirmed": 196397,
           "date": "2021-12-27",
-          "deaths": 2145
+          "deaths": 2152
         }
       },
       "Nevada": {
