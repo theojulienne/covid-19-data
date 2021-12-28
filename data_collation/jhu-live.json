@@ -420,9 +420,9 @@
   },
   "Croatia": {
     "live": {
-      "confirmed": 693813,
+      "confirmed": 697952,
       "date": "2021-12-28",
-      "deaths": 12375
+      "deaths": 12425
     }
   },
   "Cuba": {
@@ -785,9 +785,9 @@
   },
   "Iran": {
     "live": {
-      "confirmed": 6186729,
+      "confirmed": 6188857,
       "date": "2021-12-28",
-      "deaths": 131434
+      "deaths": 131474
     }
   },
   "Iraq": {
@@ -1060,9 +1060,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 827522,
+      "confirmed": 827763,
       "date": "2021-12-28",
-      "deaths": 11586
+      "deaths": 11588
     }
   },
   "Netherlands": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1263588,
       "date": "2021-12-28",
-      "deaths": 12138
+      "deaths": 12143
     }
   },
   "Thailand": {
