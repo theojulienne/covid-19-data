@@ -87,18 +87,18 @@
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 5386453,
-        "deaths": 116899,
+        "confirmed": 5389707,
+        "deaths": 116903,
         "recovered": 0
       },
       "back_2week": {
-        "confirmed": 5356885,
-        "deaths": 116760,
+        "confirmed": 5358455,
+        "deaths": 116771,
         "recovered": 0
       },
       "latest": {
-        "confirmed": 5452419,
-        "deaths": 117020,
+        "confirmed": 5460042,
+        "deaths": 117035,
         "recovered": 0
       }
     },
@@ -3509,7 +3509,7 @@
           "confirmed": 865638,
           "deaths": 16418,
           "hospitalized": 106064,
-          "recovered": 295690,
+          "recovered": 285130,
           "tested": 6516075
         },
         "AR": {

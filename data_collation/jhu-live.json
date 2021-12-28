@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5460042,
+      "confirmed": 5480305,
       "date": "2021-12-27",
-      "deaths": 117035
+      "deaths": 117066
     }
   },
   "Armenia": {
@@ -1485,16 +1485,16 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 196703,
+          "confirmed": 199271,
           "date": "2021-12-27",
-          "deaths": 4094
+          "deaths": 4097
         }
       },
       "Michigan": {
         "live": {
-          "confirmed": 448085,
+          "confirmed": 463778,
           "date": "2021-12-27",
-          "deaths": 9407
+          "deaths": 9481
         }
       },
       "Minnesota": {
@@ -1527,7 +1527,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 213967,
+          "confirmed": 214540,
           "date": "2021-12-27",
           "deaths": 4218
         }
