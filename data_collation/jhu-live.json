@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 280109,
+      "confirmed": 280482,
       "date": "2021-12-28",
       "deaths": 1394
     }
@@ -434,9 +434,9 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 640413,
+      "confirmed": 739071,
       "date": "2021-12-28",
-      "deaths": 3101
+      "deaths": 3231
     }
   },
   "Dominican Republic": {
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 400560,
+      "confirmed": 405745,
       "date": "2021-12-28",
-      "deaths": 6904
+      "deaths": 6911
     }
   },
   "Finland": {
@@ -585,16 +585,16 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 625257,
+      "confirmed": 625854,
       "date": "2021-12-28",
-      "deaths": 16098
+      "deaths": 16099
     }
   },
   "Honduras": {
     "live": {
-      "confirmed": 379276,
+      "confirmed": 379402,
       "date": "2021-12-28",
-      "deaths": 10431
+      "deaths": 10433
     }
   },
   "Hungary": {
@@ -940,9 +940,9 @@
   },
   "Lebanon": {
     "live": {
-      "confirmed": 713670,
+      "confirmed": 715950,
       "date": "2021-12-28",
-      "deaths": 9057
+      "deaths": 9072
     }
   },
   "Libya": {
