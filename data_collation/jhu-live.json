@@ -483,9 +483,9 @@
   },
   "Finland": {
     "live": {
-      "confirmed": 234041,
+      "confirmed": 236755,
       "date": "2021-12-28",
-      "deaths": 1523
+      "deaths": 1526
     }
   },
   "France": {
@@ -778,9 +778,9 @@
   },
   "Indonesia": {
     "live": {
-      "confirmed": 4261879,
+      "confirmed": 4262157,
       "date": "2021-12-28",
-      "deaths": 144063
+      "deaths": 144071
     }
   },
   "Iran": {
@@ -940,9 +940,9 @@
   },
   "Latvia": {
     "live": {
-      "confirmed": 271766,
+      "confirmed": 272952,
       "date": "2021-12-28",
-      "deaths": 4507
+      "deaths": 4529
     }
   },
   "Lebanon": {
@@ -1198,9 +1198,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2838792,
+      "confirmed": 2839111,
       "date": "2021-12-28",
-      "deaths": 51211
+      "deaths": 51213
     }
   },
   "Poland": {
@@ -1436,7 +1436,7 @@
     "live": {
       "confirmed": 1263588,
       "date": "2021-12-28",
-      "deaths": 12127
+      "deaths": 12138
     }
   },
   "Thailand": {
