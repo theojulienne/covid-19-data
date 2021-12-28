@@ -1415,7 +1415,8 @@ var covid19_dataset_country_moz = {
       167307,
       170077,
       170975,
-      171502
+      171502,
+      172175
     ],
     "deaths": [
       0,
@@ -2122,7 +2123,8 @@ var covid19_dataset_country_moz = {
       1961,
       1965,
       1967,
-      1968
+      1968,
+      1973
     ],
     "recovered": [
       0,
@@ -2686,6 +2688,7 @@ var covid19_dataset_country_moz = {
       95815,
       96446,
       100912,
+      0,
       0,
       0,
       0,
