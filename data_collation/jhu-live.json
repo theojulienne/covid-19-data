@@ -362,42 +362,42 @@
     "subseries": {
       "Antioquia": {
         "live": {
-          "confirmed": 783068,
+          "confirmed": 784563,
           "date": "2021-12-28",
           "deaths": 16864
         }
       },
       "Atlantico": {
         "live": {
-          "confirmed": 342428,
+          "confirmed": 342532,
           "date": "2021-12-28",
           "deaths": 9746
         }
       },
       "Capital District": {
         "live": {
-          "confirmed": 1474556,
+          "confirmed": 1475137,
           "date": "2021-12-28",
           "deaths": 27699
         }
       },
       "Cundinamarca": {
         "live": {
-          "confirmed": 267405,
+          "confirmed": 267481,
           "date": "2021-12-28",
           "deaths": 6858
         }
       },
       "Santander": {
         "live": {
-          "confirmed": 234737,
+          "confirmed": 234852,
           "date": "2021-12-28",
           "deaths": 7515
         }
       },
       "Valle del Cauca": {
         "live": {
-          "confirmed": 423153,
+          "confirmed": 423437,
           "date": "2021-12-28",
           "deaths": 13304
         }
