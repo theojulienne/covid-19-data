@@ -8,9 +8,9 @@
   },
   "Algeria": {
     "live": {
-      "confirmed": 216930,
+      "confirmed": 217265,
       "date": "2021-12-28",
-      "deaths": 6246
+      "deaths": 6254
     }
   },
   "Argentina": {
@@ -340,7 +340,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 697812,
+          "confirmed": 698940,
           "date": "2021-12-28",
           "deaths": 10200
         }
@@ -448,7 +448,7 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 414704,
+      "confirmed": 415359,
       "date": "2021-12-28",
       "deaths": 4238
     }
@@ -907,7 +907,7 @@
     "live": {
       "confirmed": 1070570,
       "date": "2021-12-28",
-      "deaths": 18190
+      "deaths": 18199
     }
   },
   "Kenya": {
@@ -1053,9 +1053,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 956410,
+      "confirmed": 957594,
       "date": "2021-12-28",
-      "deaths": 14832
+      "deaths": 14837
     }
   },
   "Nepal": {
@@ -1506,9 +1506,9 @@
       },
       "Minnesota": {
         "live": {
-          "confirmed": 196397,
+          "confirmed": 199170,
           "date": "2021-12-28",
-          "deaths": 2152
+          "deaths": 2162
         }
       },
       "Nevada": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1787647,
+          "confirmed": 1788063,
           "date": "2021-12-28",
-          "deaths": 25796
+          "deaths": 25807
         }
       },
       "Utah": {
@@ -1626,9 +1626,9 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 10429274,
+          "confirmed": 10545584,
           "date": "2021-12-28",
-          "deaths": 128671
+          "deaths": 128686
         }
       },
       "Northern Ireland": {
@@ -1647,9 +1647,9 @@
       },
       "Wales": {
         "live": {
-          "confirmed": 582378,
+          "confirmed": 594753,
           "date": "2021-12-28",
-          "deaths": 6548
+          "deaths": 6551
         }
       }
     }
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 468619,
+      "confirmed": 469452,
       "date": "2021-12-28",
-      "deaths": 4907
+      "deaths": 4912
     }
   },
   "Zambia": {
