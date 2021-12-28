@@ -358,9 +358,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 751497,
+          "confirmed": 751763,
           "date": "2021-12-28",
-          "deaths": 19927
+          "deaths": 19930
         }
       }
     }
@@ -427,7 +427,7 @@
   },
   "Cuba": {
     "live": {
-      "confirmed": 964857,
+      "confirmed": 965002,
       "date": "2021-12-28",
       "deaths": 8321
     }
@@ -585,9 +585,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1084153,
+      "confirmed": 1105885,
       "date": "2021-12-28",
-      "deaths": 20496
+      "deaths": 20557
     }
   },
   "Guatemala": {
@@ -882,16 +882,16 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203548,
+          "confirmed": 203599,
           "date": "2021-12-28",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382834,
+          "confirmed": 382880,
           "date": "2021-12-28",
-          "deaths": 3174
+          "deaths": 3175
         }
       }
     }
@@ -970,37 +970,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 243399,
+          "confirmed": 243696,
           "date": "2021-12-28",
-          "deaths": 3851
+          "deaths": 3855
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 239715,
+          "confirmed": 239883,
           "date": "2021-12-28",
-          "deaths": 2774
+          "deaths": 2775
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252220,
+          "confirmed": 252239,
           "date": "2021-12-28",
           "deaths": 1615
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 783079,
+          "confirmed": 783754,
           "date": "2021-12-28",
-          "deaths": 9927
+          "deaths": 9929
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 209975,
+          "confirmed": 210180,
           "date": "2021-12-28",
-          "deaths": 2665
+          "deaths": 2667
         }
       }
     }
@@ -1307,7 +1307,7 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 278044,
+      "confirmed": 278409,
       "date": "2021-12-28",
       "deaths": 825
     }
@@ -1323,7 +1323,7 @@
     "live": {
       "confirmed": 458568,
       "date": "2021-12-28",
-      "deaths": 5565
+      "deaths": 5566
     }
   },
   "South Africa": {
@@ -1536,7 +1536,7 @@
         "live": {
           "confirmed": 214540,
           "date": "2021-12-28",
-          "deaths": 4218
+          "deaths": 4224
         }
       },
       "Texas": {
