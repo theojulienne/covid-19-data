@@ -85,13 +85,6 @@
           "deaths": 0
         }
       },
-      "Flemish Brabant": {
-        "live": {
-          "confirmed": 178630,
-          "date": "2021-12-28",
-          "deaths": 0
-        }
-      },
       "Hainaut": {
         "live": {
           "confirmed": 246985,
@@ -340,16 +333,16 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 698940,
+          "confirmed": 699357,
           "date": "2021-12-28",
           "deaths": 10200
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 546436,
+          "confirmed": 559269,
           "date": "2021-12-28",
-          "deaths": 11677
+          "deaths": 11692
         }
       }
     }
@@ -1212,9 +1205,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1286119,
+      "confirmed": 1303291,
       "date": "2021-12-28",
-      "deaths": 18890
+      "deaths": 18909
     }
   },
   "Qatar": {
@@ -1520,9 +1513,9 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1891408,
+          "confirmed": 1902472,
           "date": "2021-12-28",
-          "deaths": 40377
+          "deaths": 40388
         }
       },
       "Ohio": {
@@ -1534,14 +1527,14 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 214540,
+          "confirmed": 217278,
           "date": "2021-12-28",
           "deaths": 4224
         }
       },
       "Texas": {
         "live": {
-          "confirmed": 1792784,
+          "confirmed": 1794445,
           "date": "2021-12-28",
           "deaths": 25823
         }
@@ -1558,6 +1551,13 @@
           "confirmed": 194213,
           "date": "2021-12-28",
           "deaths": 2136
+        }
+      },
+      "Wisconsin": {
+        "live": {
+          "confirmed": 179916,
+          "date": "2021-12-28",
+          "deaths": 1805
         }
       }
     }
