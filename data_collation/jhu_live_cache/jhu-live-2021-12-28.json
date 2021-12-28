@@ -606,9 +606,9 @@
   },
   "Hungary": {
     "live": {
-      "confirmed": 1245319,
+      "confirmed": 1246689,
       "date": "2021-12-28",
-      "deaths": 38743
+      "deaths": 38894
     }
   },
   "India": {
@@ -1235,58 +1235,58 @@
     "subseries": {
       "Moscow": {
         "live": {
-          "confirmed": 2021841,
+          "confirmed": 2023546,
           "date": "2021-12-28",
-          "deaths": 36488
+          "deaths": 36561
         }
       },
       "Moscow Oblast": {
         "live": {
-          "confirmed": 636354,
+          "confirmed": 637928,
           "date": "2021-12-28",
-          "deaths": 11917
+          "deaths": 11958
         }
       },
       "Nizhny Novgorod Oblast": {
         "live": {
-          "confirmed": 230027,
+          "confirmed": 230291,
           "date": "2021-12-28",
-          "deaths": 9701
+          "deaths": 9726
         }
       },
       "Rostov Oblast": {
         "live": {
-          "confirmed": 192156,
+          "confirmed": 192634,
           "date": "2021-12-28",
-          "deaths": 9508
+          "deaths": 9536
         }
       },
       "Saint Petersburg": {
         "live": {
-          "confirmed": 845519,
+          "confirmed": 847321,
           "date": "2021-12-28",
-          "deaths": 27805
+          "deaths": 27866
         }
       },
       "Samara Oblast": {
         "live": {
-          "confirmed": 198389,
+          "confirmed": 198832,
           "date": "2021-12-28",
-          "deaths": 6200
+          "deaths": 6217
         }
       },
       "Sverdlovsk Oblast": {
         "live": {
-          "confirmed": 196517,
+          "confirmed": 197061,
           "date": "2021-12-28",
-          "deaths": 9298
+          "deaths": 9326
         }
       },
       "Voronezh Oblast": {
         "live": {
-          "confirmed": 192867,
+          "confirmed": 193249,
           "date": "2021-12-28",
-          "deaths": 6826
+          "deaths": 6844
         }
       }
     }
