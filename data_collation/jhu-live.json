@@ -371,21 +371,21 @@
         "live": {
           "confirmed": 784563,
           "date": "2021-12-28",
-          "deaths": 16864
+          "deaths": 16874
         }
       },
       "Atlantico": {
         "live": {
           "confirmed": 342532,
           "date": "2021-12-28",
-          "deaths": 9746
+          "deaths": 9748
         }
       },
       "Capital District": {
         "live": {
           "confirmed": 1475137,
           "date": "2021-12-28",
-          "deaths": 27699
+          "deaths": 27704
         }
       },
       "Cundinamarca": {
@@ -399,14 +399,14 @@
         "live": {
           "confirmed": 234852,
           "date": "2021-12-28",
-          "deaths": 7515
+          "deaths": 7516
         }
       },
       "Valle del Cauca": {
         "live": {
           "confirmed": 423437,
           "date": "2021-12-28",
-          "deaths": 13304
+          "deaths": 13306
         }
       }
     }
@@ -497,9 +497,9 @@
   },
   "Georgia": {
     "live": {
-      "confirmed": 925354,
+      "confirmed": 928030,
       "date": "2021-12-28",
-      "deaths": 13583
+      "deaths": 13646
     }
   },
   "Germany": {
@@ -520,7 +520,7 @@
       },
       "Berlin": {
         "live": {
-          "confirmed": 323160,
+          "confirmed": 323161,
           "date": "2021-12-28",
           "deaths": 3996
         }
@@ -1009,28 +1009,28 @@
     "subseries": {
       "Ciudad de Mexico": {
         "live": {
-          "confirmed": 995257,
+          "confirmed": 995497,
           "date": "2021-12-28",
-          "deaths": 40313
+          "deaths": 40314
         }
       },
       "Guanajuato": {
         "live": {
-          "confirmed": 202145,
+          "confirmed": 202176,
           "date": "2021-12-28",
-          "deaths": 13372
+          "deaths": 13375
         }
       },
       "Mexico": {
         "live": {
-          "confirmed": 382312,
+          "confirmed": 382355,
           "date": "2021-12-28",
-          "deaths": 44815
+          "deaths": 44816
         }
       },
       "Nuevo Leon": {
         "live": {
-          "confirmed": 208910,
+          "confirmed": 208948,
           "date": "2021-12-28",
           "deaths": 13715
         }
