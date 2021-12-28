@@ -1,9 +1,9 @@
 {
   "Albania": {
     "live": {
-      "confirmed": 207709,
+      "confirmed": 208352,
       "date": "2021-12-28",
-      "deaths": 3194
+      "deaths": 3207
     }
   },
   "Algeria": {
@@ -490,9 +490,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 8941762,
+      "confirmed": 9121078,
       "date": "2021-12-28",
-      "deaths": 120365
+      "deaths": 120659
     }
   },
   "Georgia": {
@@ -806,9 +806,9 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1369410,
+      "confirmed": 1370731,
       "date": "2021-12-28",
-      "deaths": 8242
+      "deaths": 8243
     }
   },
   "Italy": {
@@ -1328,9 +1328,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3417318,
+      "confirmed": 3424534,
       "date": "2021-12-28",
-      "deaths": 90829
+      "deaths": 90854
     }
   },
   "Spain": {
@@ -1455,9 +1455,9 @@
   },
   "Turkey": {
     "live": {
-      "confirmed": 9335193,
+      "confirmed": 9367369,
       "date": "2021-12-28",
-      "deaths": 81733
+      "deaths": 81917
     }
   },
   "US": {
@@ -1485,9 +1485,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 789332,
+          "confirmed": 798775,
           "date": "2021-12-28",
-          "deaths": 11881
+          "deaths": 11941
         }
       },
       "Massachusetts": {
@@ -1513,9 +1513,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 360268,
+          "confirmed": 361484,
           "date": "2021-12-28",
-          "deaths": 6415
+          "deaths": 6436
         }
       },
       "New York": {
@@ -1527,9 +1527,9 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 415174,
+          "confirmed": 419295,
           "date": "2021-12-28",
-          "deaths": 4718
+          "deaths": 4726
         }
       },
       "Pennsylvania": {
@@ -1541,9 +1541,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1788063,
+          "confirmed": 1792784,
           "date": "2021-12-28",
-          "deaths": 25807
+          "deaths": 25823
         }
       },
       "Utah": {
