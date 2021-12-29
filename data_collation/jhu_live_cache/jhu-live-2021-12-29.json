@@ -351,9 +351,9 @@
     "subseries": {
       "Metropolitana": {
         "live": {
-          "confirmed": 751763,
+          "confirmed": 752234,
           "date": "2021-12-29",
-          "deaths": 19930
+          "deaths": 19934
         }
       }
     }
@@ -1205,9 +1205,9 @@
   },
   "Portugal": {
     "live": {
-      "confirmed": 1303291,
+      "confirmed": 1330158,
       "date": "2021-12-29",
-      "deaths": 18909
+      "deaths": 18921
     }
   },
   "Qatar": {
@@ -1300,9 +1300,9 @@
   },
   "Singapore": {
     "live": {
-      "confirmed": 278409,
+      "confirmed": 278750,
       "date": "2021-12-29",
-      "deaths": 825
+      "deaths": 826
     }
   },
   "Slovakia": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1294592,
       "date": "2021-12-29",
-      "deaths": 12170
+      "deaths": 12171
     }
   },
   "Thailand": {
@@ -1534,9 +1534,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 1794445,
+          "confirmed": 1795115,
           "date": "2021-12-29",
-          "deaths": 25823
+          "deaths": 25825
         }
       },
       "Utah": {
