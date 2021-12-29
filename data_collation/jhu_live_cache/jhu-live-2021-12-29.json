@@ -333,14 +333,14 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 730412,
+          "confirmed": 731316,
           "date": "2021-12-29",
           "deaths": 10222
         }
       },
       "Quebec": {
         "live": {
-          "confirmed": 559269,
+          "confirmed": 572418,
           "date": "2021-12-29",
           "deaths": 11702
         }
@@ -792,9 +792,9 @@
   },
   "Ireland": {
     "live": {
-      "confirmed": 731467,
+      "confirmed": 747895,
       "date": "2021-12-29",
-      "deaths": 5890
+      "deaths": 5912
     }
   },
   "Israel": {
@@ -1555,9 +1555,9 @@
       },
       "Wisconsin": {
         "live": {
-          "confirmed": 179916,
+          "confirmed": 181850,
           "date": "2021-12-29",
-          "deaths": 1805
+          "deaths": 1806
         }
       }
     }
