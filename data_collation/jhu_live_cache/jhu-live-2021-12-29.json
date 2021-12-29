@@ -43,7 +43,7 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 280482,
+      "confirmed": 280876,
       "date": "2021-12-29",
       "deaths": 1394
     }
@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 739691,
+          "confirmed": 740988,
           "date": "2021-12-29",
           "deaths": 10224
         }
@@ -469,9 +469,9 @@
   },
   "Ethiopia": {
     "live": {
-      "confirmed": 405745,
+      "confirmed": 410445,
       "date": "2021-12-29",
-      "deaths": 6911
+      "deaths": 6916
     }
   },
   "Finland": {
@@ -585,9 +585,9 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 625854,
+      "confirmed": 626675,
       "date": "2021-12-29",
-      "deaths": 16099
+      "deaths": 16102
     }
   },
   "Honduras": {
@@ -919,7 +919,7 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 415678,
+      "confirmed": 416077,
       "date": "2021-12-29",
       "deaths": 2468
     }
@@ -1032,9 +1032,9 @@
   },
   "Moldova": {
     "live": {
-      "confirmed": 375065,
+      "confirmed": 375358,
       "date": "2021-12-29",
-      "deaths": 9645
+      "deaths": 9667
     }
   },
   "Mongolia": {
@@ -1492,9 +1492,9 @@
       },
       "Michigan": {
         "live": {
-          "confirmed": 463778,
+          "confirmed": 476967,
           "date": "2021-12-29",
-          "deaths": 9481
+          "deaths": 9598
         }
       },
       "Minnesota": {
@@ -1513,7 +1513,7 @@
       },
       "New York": {
         "live": {
-          "confirmed": 1902472,
+          "confirmed": 1934968,
           "date": "2021-12-29",
           "deaths": 40396
         }
