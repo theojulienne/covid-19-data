@@ -1417,7 +1417,8 @@ var covid19_dataset_country_eri = {
       7853,
       7873,
       7886,
-      7902
+      7902,
+      7931
     ],
     "deaths": [
       0,
@@ -2125,6 +2126,7 @@ var covid19_dataset_country_eri = {
       72,
       72,
       73,
+      73,
       73
     ],
     "recovered": [
@@ -2689,6 +2691,7 @@ var covid19_dataset_country_eri = {
       6456,
       6472,
       6475,
+      0,
       0,
       0,
       0,
