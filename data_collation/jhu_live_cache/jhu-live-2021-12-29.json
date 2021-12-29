@@ -333,7 +333,7 @@
       },
       "Ontario": {
         "live": {
-          "confirmed": 728876,
+          "confirmed": 728973,
           "date": "2021-12-29",
           "deaths": 10221
         }
@@ -342,7 +342,7 @@
         "live": {
           "confirmed": 559269,
           "date": "2021-12-29",
-          "deaths": 11692
+          "deaths": 11702
         }
       }
     }
@@ -441,9 +441,9 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 415359,
+      "confirmed": 416270,
       "date": "2021-12-29",
-      "deaths": 4238
+      "deaths": 4246
     }
   },
   "Ecuador": {
@@ -499,9 +499,9 @@
     "subseries": {
       "Baden-Wurttemberg": {
         "live": {
-          "confirmed": 1006017,
+          "confirmed": 1012194,
           "date": "2021-12-29",
-          "deaths": 12911
+          "deaths": 12956
         }
       },
       "Bayern": {
@@ -578,9 +578,9 @@
   },
   "Greece": {
     "live": {
-      "confirmed": 1105885,
+      "confirmed": 1134713,
       "date": "2021-12-29",
-      "deaths": 20557
+      "deaths": 20636
     }
   },
   "Guatemala": {
@@ -799,7 +799,7 @@
   },
   "Israel": {
     "live": {
-      "confirmed": 1372379,
+      "confirmed": 1374446,
       "date": "2021-12-29",
       "deaths": 8243
     }
@@ -875,14 +875,14 @@
     "subseries": {
       "Osaka": {
         "live": {
-          "confirmed": 203599,
+          "confirmed": 203660,
           "date": "2021-12-29",
           "deaths": 3064
         }
       },
       "Tokyo": {
         "live": {
-          "confirmed": 382880,
+          "confirmed": 382956,
           "date": "2021-12-29",
           "deaths": 3175
         }
@@ -900,7 +900,7 @@
     "live": {
       "confirmed": 1071035,
       "date": "2021-12-29",
-      "deaths": 18199
+      "deaths": 18211
     }
   },
   "Kenya": {
@@ -963,37 +963,37 @@
     "subseries": {
       "Johor": {
         "live": {
-          "confirmed": 243696,
+          "confirmed": 244125,
           "date": "2021-12-29",
           "deaths": 3855
         }
       },
       "Sabah": {
         "live": {
-          "confirmed": 239883,
+          "confirmed": 240075,
           "date": "2021-12-29",
           "deaths": 2775
         }
       },
       "Sarawak": {
         "live": {
-          "confirmed": 252239,
+          "confirmed": 252262,
           "date": "2021-12-29",
           "deaths": 1615
         }
       },
       "Selangor": {
         "live": {
-          "confirmed": 783754,
+          "confirmed": 784716,
           "date": "2021-12-29",
-          "deaths": 9929
+          "deaths": 9941
         }
       },
       "W.P. Kuala Lumpur": {
         "live": {
-          "confirmed": 210180,
+          "confirmed": 210404,
           "date": "2021-12-29",
-          "deaths": 2667
+          "deaths": 2672
         }
       }
     }
@@ -1046,9 +1046,9 @@
   },
   "Morocco": {
     "live": {
-      "confirmed": 957594,
+      "confirmed": 959098,
       "date": "2021-12-29",
-      "deaths": 14837
+      "deaths": 14842
     }
   },
   "Nepal": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3222634,
+          "confirmed": 3227086,
           "date": "2021-12-29",
-          "deaths": 49421
+          "deaths": 49426
         }
       },
       "Florida": {
@@ -1527,7 +1527,7 @@
       },
       "Pennsylvania": {
         "live": {
-          "confirmed": 218283,
+          "confirmed": 220803,
           "date": "2021-12-29",
           "deaths": 4249
         }
@@ -1684,9 +1684,9 @@
   },
   "West Bank and Gaza": {
     "live": {
-      "confirmed": 469452,
+      "confirmed": 469748,
       "date": "2021-12-29",
-      "deaths": 4912
+      "deaths": 4919
     }
   },
   "Zambia": {
