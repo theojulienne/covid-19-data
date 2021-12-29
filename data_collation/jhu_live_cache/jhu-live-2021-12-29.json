@@ -29,9 +29,9 @@
   },
   "Austria": {
     "live": {
-      "confirmed": 1268519,
+      "confirmed": 1271770,
       "date": "2021-12-29",
-      "deaths": 13672
+      "deaths": 13689
     }
   },
   "Azerbaijan": {
@@ -1198,9 +1198,9 @@
   },
   "Poland": {
     "live": {
-      "confirmed": 4064715,
+      "confirmed": 4080282,
       "date": "2021-12-29",
-      "deaths": 94914
+      "deaths": 95707
     }
   },
   "Portugal": {
@@ -1307,16 +1307,16 @@
   },
   "Slovakia": {
     "live": {
-      "confirmed": 1357165,
+      "confirmed": 1363478,
       "date": "2021-12-29",
-      "deaths": 16486
+      "deaths": 16554
     }
   },
   "Slovenia": {
     "live": {
-      "confirmed": 458568,
+      "confirmed": 460435,
       "date": "2021-12-29",
-      "deaths": 5566
+      "deaths": 5576
     }
   },
   "South Africa": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1276956,
       "date": "2021-12-29",
-      "deaths": 12154
+      "deaths": 12160
     }
   },
   "Thailand": {
