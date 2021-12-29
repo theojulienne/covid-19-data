@@ -22405,7 +22405,8 @@ var covid19_dataset_top10 = {
     "2021-12-26",
     "2021-12-27",
     "2021-12-28",
-    "2021-12-29"
+    "2021-12-29",
+    "2021-12-30"
   ]
 };
 if (covid19_dataset_callback) covid19_dataset_callback('covid19_dataset_top10', covid19_dataset_top10, {});

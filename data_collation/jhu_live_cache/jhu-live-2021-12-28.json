@@ -15,9 +15,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 5480305,
+      "confirmed": 5514207,
       "date": "2021-12-28",
-      "deaths": 117066
+      "deaths": 117085
     }
   },
   "Armenia": {
@@ -785,9 +785,9 @@
   },
   "Iraq": {
     "live": {
-      "confirmed": 2092650,
+      "confirmed": 2092875,
       "date": "2021-12-28",
-      "deaths": 24139
+      "deaths": 24146
     }
   },
   "Ireland": {
@@ -1429,7 +1429,7 @@
     "live": {
       "confirmed": 1276956,
       "date": "2021-12-28",
-      "deaths": 12151
+      "deaths": 12152
     }
   },
   "Thailand": {
@@ -1464,9 +1464,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 3213183,
+          "confirmed": 3222634,
           "date": "2021-12-28",
-          "deaths": 49400
+          "deaths": 49421
         }
       },
       "Florida": {
@@ -1485,9 +1485,9 @@
       },
       "Massachusetts": {
         "live": {
-          "confirmed": 199271,
+          "confirmed": 201332,
           "date": "2021-12-28",
-          "deaths": 4097
+          "deaths": 4109
         }
       },
       "Michigan": {
