@@ -36,9 +36,9 @@
   },
   "Azerbaijan": {
     "live": {
-      "confirmed": 615312,
+      "confirmed": 615842,
       "date": "2021-12-29",
-      "deaths": 8324
+      "deaths": 8332
     }
   },
   "Bahrain": {
@@ -50,9 +50,9 @@
   },
   "Bangladesh": {
     "live": {
-      "confirmed": 1584023,
+      "confirmed": 1584518,
       "date": "2021-12-29",
-      "deaths": 28062
+      "deaths": 28063
     }
   },
   "Belarus": {
@@ -947,9 +947,9 @@
   },
   "Libya": {
     "live": {
-      "confirmed": 386878,
+      "confirmed": 387543,
       "date": "2021-12-29",
-      "deaths": 5676
+      "deaths": 5685
     }
   },
   "Lithuania": {
@@ -1053,9 +1053,9 @@
   },
   "Nepal": {
     "live": {
-      "confirmed": 827763,
+      "confirmed": 827972,
       "date": "2021-12-29",
-      "deaths": 11588
+      "deaths": 11590
     }
   },
   "Netherlands": {
@@ -1173,9 +1173,9 @@
   },
   "Paraguay": {
     "live": {
-      "confirmed": 465564,
+      "confirmed": 465824,
       "date": "2021-12-29",
-      "deaths": 16607
+      "deaths": 16616
     }
   },
   "Peru": {
@@ -1191,9 +1191,9 @@
   },
   "Philippines": {
     "live": {
-      "confirmed": 2839111,
+      "confirmed": 2839790,
       "date": "2021-12-29",
-      "deaths": 51213
+      "deaths": 51241
     }
   },
   "Poland": {
@@ -1212,7 +1212,7 @@
   },
   "Qatar": {
     "live": {
-      "confirmed": 248802,
+      "confirmed": 249245,
       "date": "2021-12-29",
       "deaths": 616
     }
@@ -1286,9 +1286,9 @@
   },
   "Saudi Arabia": {
     "live": {
-      "confirmed": 553921,
+      "confirmed": 554665,
       "date": "2021-12-29",
-      "deaths": 8873
+      "deaths": 8874
     }
   },
   "Serbia": {
@@ -1427,7 +1427,7 @@
   },
   "Switzerland": {
     "live": {
-      "confirmed": 1276956,
+      "confirmed": 1294592,
       "date": "2021-12-29",
       "deaths": 12162
     }
@@ -1617,7 +1617,7 @@
   },
   "United Arab Emirates": {
     "live": {
-      "confirmed": 754911,
+      "confirmed": 757145,
       "date": "2021-12-29",
       "deaths": 2160
     }
