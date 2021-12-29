@@ -483,9 +483,9 @@
   },
   "France": {
     "live": {
-      "confirmed": 9121078,
+      "confirmed": 9323371,
       "date": "2021-12-29",
-      "deaths": 120659
+      "deaths": 120832
     }
   },
   "Georgia": {
@@ -1321,9 +1321,9 @@
   },
   "South Africa": {
     "live": {
-      "confirmed": 3424534,
+      "confirmed": 3433554,
       "date": "2021-12-29",
-      "deaths": 90854
+      "deaths": 90935
     }
   },
   "Spain": {
@@ -1478,9 +1478,9 @@
       },
       "Illinois": {
         "live": {
-          "confirmed": 798775,
+          "confirmed": 808541,
           "date": "2021-12-29",
-          "deaths": 11941
+          "deaths": 11960
         }
       },
       "Massachusetts": {
@@ -1506,9 +1506,9 @@
       },
       "Nevada": {
         "live": {
-          "confirmed": 361484,
+          "confirmed": 363685,
           "date": "2021-12-29",
-          "deaths": 6436
+          "deaths": 6451
         }
       },
       "New York": {
@@ -1520,7 +1520,7 @@
       },
       "Ohio": {
         "live": {
-          "confirmed": 419295,
+          "confirmed": 425438,
           "date": "2021-12-29",
           "deaths": 4726
         }
@@ -1626,30 +1626,30 @@
     "subseries": {
       "England": {
         "live": {
-          "confirmed": 10545584,
+          "confirmed": 10683026,
           "date": "2021-12-29",
-          "deaths": 128686
+          "deaths": 128724
         }
       },
       "Northern Ireland": {
         "live": {
-          "confirmed": 367181,
+          "confirmed": 390153,
           "date": "2021-12-29",
-          "deaths": 2962
+          "deaths": 2976
         }
       },
       "Scotland": {
         "live": {
-          "confirmed": 831158,
+          "confirmed": 886065,
           "date": "2021-12-29",
-          "deaths": 9822
+          "deaths": 9836
         }
       },
       "Wales": {
         "live": {
-          "confirmed": 594753,
+          "confirmed": 600682,
           "date": "2021-12-29",
-          "deaths": 6551
+          "deaths": 6553
         }
       }
     }
